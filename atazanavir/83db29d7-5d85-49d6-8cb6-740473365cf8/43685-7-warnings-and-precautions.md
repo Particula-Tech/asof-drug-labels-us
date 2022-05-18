@@ -79,7 +79,7 @@ Decreased concentrations of EVOTAZ may lead to:
 - •loss of therapeutic effect of EVOTAZ and possible development of resistance.
 
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7.3)].
-Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
+Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4)andDrug Interactions (7)].
 
 When used with concomitant medications, EVOTAZ may result in different drug interactions than those observed or expected with atazanavir coadministered with ritonavir.
 Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with atazanavir coadministered with ritonavir to certain EVOTAZ interactions [see Drug Interactions (7), and Clinical Pharmacology (12.3)].

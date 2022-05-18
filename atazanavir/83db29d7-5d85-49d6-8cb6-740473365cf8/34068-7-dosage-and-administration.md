@@ -40,4 +40,4 @@ EVOTAZ is not recommended in patients with any degree of hepatic impairment [see
 ## 2.5 Not Recommended During Pregnancy
 
 EVOTAZ is not recommended for use during pregnancy and should not be initiated in pregnant individuals due to substantially lower exposures of cobicistat and consequently, lower exposures of atazanavir, during the second and third trimesters.
-An alternative regimen is recommended for individuals who become pregnant during therapy with EVOTAZ [see Use in Specific Populations (8.1)].
+An alternative regimen is recommended for individuals who become pregnant during therapy with EVOTAZ [seeUse in Specific Populations (8.1)].

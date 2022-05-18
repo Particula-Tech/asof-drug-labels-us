@@ -53,7 +53,7 @@ Table 6: Pharmacokinetic Properties of the Components of EVOTAZ
 | Metabolism | CYP3A (major) Glucuronidation, N-dealkylation, hydrolysis, oxygenation with dehydrogenation (minor) | CYP3A (major) CYP2D6 (minor) |
 | Elimination |  |  |
 | Major route of elimination | Metabolism | Metabolism |
-| t1/2 (h) | 7.2a | 3.5 |
+| t1/2(h) | 7.2a | 3.5 |
 | % Of dose excreted in urine | ND | 8.2c |
 | % Of dose excreted in feces | ND | 86.2c |
 | a Following EVOTAZ dosing under fasted conditions. b Values refer to geometric mean ratio (fed / fasted) and (90% confidence interval). c Dosing in mass balance study: cobicistat (single dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days). ND = not determined. |  |  |
@@ -70,6 +70,20 @@ Table 7: Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in the Pharmacoki
 | Ctau (µg/mL) | 0.80 ± 0.72 |
 
 ### Specific Populations
+
+#### Pediatric
+
+In pediatric subjects aged 12 to less than 18 years who received atazanavir 300 mg coadministered with cobicistat 150 mg (N=12), atazanavir exposures (AUCtau, Cmax, and Ctau) were 20-60% higher than in adults; the increases were not considered clinically significant (Table 8).
+
+Table 8 Multiple Dose Pharmacokinetic Parameters of Atazanavir Following Coadministration of Atazanavir with Cobicistat in Pediatric Subjects with HIV-1 Infection Weighing at Least 35 kg
+
+| Pediatric subjects (N=12)a | Adult subjects (N=30)b |  |
+| --- | --- | --- |
+| Atazanavir PK Parameter | Geometric Mean (CV%) |  |
+| AUCtau (µg/hr/mL) | 49.48 (49.1) | 39.96 (52.1) |
+| Cmax (µg/mL) | 4.32 (49.9) | 3.54 (45.8) |
+| Ctau (µg/mL) | 0.91 (96.4) | 0.58 (84.7) |
+| CV=Coefficient of Variation a From intensive PK analysis of Study GS-US-216-0128 b From pooled intensive PK analysis of trials with atazanavir + cobicistat. |  |  |
 
 #### Renal Impairment
 
@@ -88,7 +102,8 @@ EVOTAZ has not been studied in patients with hepatic impairment.
 
 Atazanavir: Increased concentrations of atazanavir are expected in those with moderately or severely impaired hepatic function (Study AI424-015).
 
-Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects (Study GS-US-183-0133).
+Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
+(Study GS-US-183-0133).
 The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
 
 #### Pregnancy and Postpartum
@@ -123,15 +138,14 @@ Table 9: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs 
 | 0.02 ethinyl estradiol single dose (n=14) | 150 mg QD (n=14) | 0.82b (0.76, 0.89) | 0.78b (0.73, 0.85) |  |
 | efavirenz | 600 mg single dose (n=17) | 150 mg QD (n=17) | 0.87 (0.80, 0.94) | 0.93 (0.89, 0.97) |
 | rosuvastatin | 10 mg single dose (n=16) | 150 mg QD (n=16) | 10.58b (8.72, 12.83) | 3.42b (2.87, 4.07) |
-
-a All interaction studies conducted in healthy subjects. b Studies of cobicistat conducted in the presence of atazanavir 300 mg.
+| a All interaction studies conducted in healthy subjects. b Studies of cobicistat conducted in the presence of atazanavir 300 mg. |  |  |  |  |
 
 ## 12.4 Microbiology
 
 ### Mechanism of Action
 
 EVOTAZ is a fixed-dose tablet of atazanavir and the CYP3A inhibitor cobicistat.
-Atazanavir is an azapeptide HIV-1 protease inhibitor that selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1 infected cells, thus preventing formation of mature virions.
+Atazanavir is an azapeptide HIV-1 protease inhibitor that selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions.
 Cobicistat is a mechanism-based inhibitor of cytochrome P450 3A (CYP3A).
 Inhibition of CYP3A-mediated metabolism by cobicistat increases the systemic exposure of the CYP3A substrate atazanavir.
 

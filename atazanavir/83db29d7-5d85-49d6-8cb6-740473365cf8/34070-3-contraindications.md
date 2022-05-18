@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-The concomitant use of EVOTAZ and the following drugs in Table 1, are contraindicated due to the potential for serious and/or life-threatening events or loss of therapeutic effect [see Warnings and Precautions (5.8,5.9), Drug Interactions (7) and Clinical Pharmacology (12.3)].
+The concomitant use of EVOTAZ and the following drugs in Table 1, are contraindicated due to the potential for serious and/or life-threatening events or loss of therapeutic effect [see Warnings and Precautions (5.8, 5.9), Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 EVOTAZ is contraindicated:
 

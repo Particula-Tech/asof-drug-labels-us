@@ -28,7 +28,7 @@ Table 10: Virologic Outcomes of Randomized Treatment of Study GS-US-216-0114 in 
 | Missing Data During Window, but on Study Drug | <1% | <1% |
 | a Week 144 window is between Day 967 and 1050 (inclusive). b Includes subjects who had ≥50 copies/mL in the Week 48 window; subjects who discontinued early due to lack or loss of efficacy; subjects who discontinued for reasons other than an adverse event, death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥50 copies/mL. c Includes subjects who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. There were no deaths reported in Study GS-US-216-0114. d Includes subjects who discontinued for reasons other than an adverse event, death, or lack or loss of efficacy (e.g., withdrew consent, lost to follow-up, etc). |  |  |
 
-## 14.2 Clinical Trial Results in HIV-1 Infected Virologically Suppressed Pediatric Subjects – Study GS-US-216-0128
+## 14.2 Clinical Trial Results in Virologically Suppressed Pediatric Subjects with HIV-1 Infection – Study GS-US-216-0128
 
 Study GS-US-216-0128 (NCT02016924) was a Phase 2/3 multicenter, open-label trial to evaluate the pharmacokinetics, safety, and efficacy of atazanavir coadministered with cobicistat in pediatric subjects ages 12 years and older with HIV-1 infection who were virologically suppressed and had a baseline estimated creatinine clearance ≥90 mL/min/1.73 m2.
 Subjects were on a stable antiretroviral regimen (for at least 3 months), consisting of atazanavir administered with ritonavir, combined with 2 nucleotide reverse transcriptase inhibitors (NRTIs).

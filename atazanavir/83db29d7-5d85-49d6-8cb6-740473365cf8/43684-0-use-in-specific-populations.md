@@ -41,7 +41,7 @@ Fetal/Neonatal Adverse Reactions
 
 Atazanavir
 
-Infants exposed to atazanavir in utero, may develop severe hyperbilirubinemia during the first few days of life.
+Infants exposed to atazanavir in utero may develop severe hyperbilirubinemia during the first few days of life.
 
 Data
 
@@ -89,7 +89,7 @@ Systemic exposures (AUC) at this dose were 0.9 times lower than exposures at the
 
 ### Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
+The Centers for Disease Control and Prevention recommend that HIV-1-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 
 There is no information regarding the effects of EVOTAZ on the breastfed infant or on milk production.
 

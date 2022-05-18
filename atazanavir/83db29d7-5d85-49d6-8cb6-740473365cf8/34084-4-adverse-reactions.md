@@ -19,7 +19,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 ### Adverse Reactions from Clinical Trial Experience in Adult Subjects
 
-The safety of atazanavir and cobicistat coadministered as single agents is based on Week 144 data from a Phase 3 trial, Study GS-US-216-0114, in which 692 antiretroviral treatment-naïve subjects with HIV-1 infection received:
+The safety of atazanavir and cobicistat coadministered as single agents is based on Week 144 data from a Phase 3 trial, Study GS-US-216-0114, in which 692 antiretroviral treatment-naive subjects with HIV-1 infection received:
 
 - •atazanavir coadministered with cobicistat and emtricitabine/tenofovir DF (N=344) or
 - •atazanavir coadministered with ritonavir and emtricitabine/tenofovir DF (N=348).
