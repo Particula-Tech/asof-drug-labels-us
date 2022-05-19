@@ -11,7 +11,7 @@ Psychotic episodes at recommended doses (rare), overstimulation, restlessness, d
 
 ## Gastrointestinal
 
-Dryness of the mouth, unpleasant taste, diarrhea, constipation, other gastrointestinal disturbances.
+Dryness of the mouth, unpleasant taste, diarrhea, constipation, intestinal ischemia, and other gastrointestinal disturbances.
 Anorexia and weight loss may occur as undesirable effects.
 
 ## Allergic

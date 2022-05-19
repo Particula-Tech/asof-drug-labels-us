@@ -5,4 +5,4 @@ Pharmacist: Medication Guide to be dispensed to Patients.
 Manufactured for: Wilshire Pharmaceuticals, Inc. Atlanta, GA 30328
 
 Rev.
-06/21 DEX-PI-09
+02/22 DEX-PI-10
