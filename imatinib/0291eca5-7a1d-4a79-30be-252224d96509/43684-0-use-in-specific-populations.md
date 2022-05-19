@@ -5,7 +5,7 @@
 Risk Summary Imatinib mesylate tablets can cause fetal harm when administered to a pregnant woman based on human and animal data.
 There are no clinical studies regarding use of imatinib mesylate tablets in pregnant women.
 There have been postmarket reports of spontaneous abortions and congenital anomalies from women who have been exposed to imatinib mesylate tablets during pregnancy.
-Reproductive studies in rats have demonstrated that imatinib mesylate induced teratogenicity and increased incidence of congenital abnormalities following prenatal exposure to imatinib mesylate at doses equal to the highest recommended human dose of 800 mg/day based on body surface area.
+Reproductive studies in rats have demonstrated that imatinib mesylate induced teratogenicity and increased incidence of congenital abnormalities following prenatal exposure to imatinib mesylate at doses equal to the highest recommended human dose of 800 mg/day based on BSA.
 Advise women to avoid pregnancy when taking imatinib mesylate tablets.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to the fetus.
 
@@ -13,19 +13,19 @@ The background risk of major birth defects and miscarriage for the indicated pop
 
 Data Animal Data In embryo-fetal development studies in rats and rabbits, pregnant animals received oral doses of imatinib mesylate up to 100 mg/kg/day and 60 mg/kg/day, respectively, during the period of organogenesis.
 
-In rats, imatinib mesylate was teratogenic at 100 mg/kg/day (approximately equal to the maximum human dose of 800 mg/day based on body surface area), the number of fetuses with encephalocoele and exencephaly was higher than historical control values and these findings were associated with missing or underdeveloped cranial bones.
+In rats, imatinib mesylate was teratogenic at 100 mg/kg/day (approximately equal to the maximum human dose of 800 mg/day based on BSA), the number of fetuses with encephalocoele and exencephaly was higher than historical control values and these findings were associated with missing or underdeveloped cranial bones.
 Lower mean fetal body weights were associated with retarded skeletal ossifications.
 
-In rabbits, at doses 1.5 times higher than the maximum human dose of 800 mg/day based on body surface area, no effects on the reproductive parameters with respect to implantation sites, number of live fetuses, sex ratio or fetal weight were observed.
+In rabbits, at doses 1.5 times higher than the maximum human dose of 800 mg/day based on BSA, no effects on the reproductive parameters with respect to implantation sites, number of live fetuses, sex ratio or fetal weight were observed.
 The examinations of the fetuses did not reveal any drug related morphological changes.
 
 In a pre- and postnatal development study in rats, pregnant rats received oral doses of imatinib mesylate during gestation (organogenesis) and lactation up to 45 mg/kg/day.
 Five animals developed a red vaginal discharge in the 45 mg/kg/day group on Days 14 or 15 of gestation, the significance of which is unknown since all females produced viable litters and none had increased post-implantation loss.
-Other maternal effects noted only at the dose of 45 mg/kg/day (approximately one-half the maximum human dose of 800 mg/day based on body surface area) included an increased numbers of stillborn pups and pups dying between postpartum Days 0 and 4.
+Other maternal effects noted only at the dose of 45 mg/kg/day (approximately one-half the maximum human dose of 800 mg/day based on BSA) included an increased number of stillborn pups and pups dying between postpartum Days 0 and 4.
 In the F1 offspring at this same dose level, mean body weights were reduced from birth until terminal sacrifice and the number of litters achieving criterion for preputial separation was slightly decreased.
 There were no other significant effects in developmental parameters or behavioral testing.
 F1 fertility was not affected but reproductive effects were noted at 45 mg/kg/day, including an increased number of resorptions and a decreased number of viable fetuses.
-The NOEL for both maternal animals and the F1 generation was 15 mg/kg/day.
+The no-observed-effect level (NOEL) for both maternal animals and the F1 generation was 15 mg/kg/day.
 
 ## 8.2 Lactation
 
@@ -72,7 +72,7 @@ Table 16: Liver Function Classification
 | Total Bilirubin | less than or equal to ULN | greater than 1.0-1.5 times the ULN | greater than 1.5-3 times the ULN | greater than 3-10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 
-Abbreviation: ULN, upper limit of normal for the institution.
+Abbreviation: SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); ULN, upper limit of normal for the institution.
 
 ## 8.7 Renal Impairment
 
@@ -88,4 +88,4 @@ Table 17: Renal Function Classification
 | Mild | CrCL = 40-59 mL/min |  |
 | Moderate | CrCL = 20-39 mL/min |  |
 | Severe | CrCL = less than 20 mL/min |  |
-| Abbreviation: CrCL, Creatinine Clearance. |  |  |
+| Abbreviation: CrCL, creatinine clearance. |  |  |

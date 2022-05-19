@@ -27,11 +27,11 @@ In the preclinical pre- and postnatal study in rats, fertility in the first-gene
 Toxicities from Long-Term Use It is important to consider potential toxicities suggested by animal studies, specifically, liver, kidney, and cardiac toxicity and immunosuppression.
 Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
-Increased BUN and creatinine were observed in several of these animals.
+Increased blood urea nitrogen (BUN) and creatinine were observed in several of these animals.
 An increased rate of opportunistic infections was observed with chronic imatinib treatment in laboratory animal studies.
-In a 39-week monkey study, treatment with imatinib resulted in worsening of normally suppressed malarial infections in these animals.
+In a 39 week monkey study, treatment with imatinib resulted in worsening of normally suppressed malarial infections in these animals.
 Lymphopenia was observed in animals (as in humans).
 Additional long-term toxicities were identified in a 2-year rat study.
 Histopathological examination of the treated rats that died on study revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
-Non-neoplastic lesions seen in this 2-year study which were not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
+Non-neoplastic lesions seen in this 2-year study which were not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs, and teeth.
 The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.

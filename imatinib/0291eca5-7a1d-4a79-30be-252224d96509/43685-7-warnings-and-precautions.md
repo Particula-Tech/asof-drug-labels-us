@@ -24,7 +24,7 @@ These generally occur within the first several months of therapy [see Dosage and
 Congestive heart failure and left ventricular dysfunction have been reported in patients taking imatinib mesylate.
 Cardiac adverse reactions were more frequent in patients with advanced age or co-morbidities, including previous medical history of cardiac disease.
 In an international randomized Phase 3 study in 1106 patients with newly diagnosed Ph+ CML in chronic phase, severe cardiac failure and left ventricular dysfunction were observed in 0.7% of patients taking imatinib mesylate compared to 0.9% of patients taking IFN + Ara-C.
-In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patient in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
+In another randomized trial with newly diagnosed Ph+ CML patients in chronic phase that compared imatinib mesylate and nilotinib, cardiac failure was observed in 1.1% of patients in the imatinib mesylate arm and 2.2% of patients in the nilotinib 300 mg twice daily arm and severe (Grade 3 or 4) cardiac failure occurred in 0.7% of patients in each group.
 Carefully monitor patients with cardiac disease or risk factors for cardiac or history of renal failure.
 Evaluate and treat any patient with signs or symptoms consistent with cardiac or renal failure.
 
@@ -49,7 +49,7 @@ In addition, gastric antral vascular ectasia has been reported in postmarketing 
 
 Imatinib mesylate is sometimes associated with GI irritation.
 Imatinib mesylate tablets should be taken with food and a large glass of water to minimize this problem.
-There have been rare reports, including fatalities, of gastrointestinal perforation.
+There have been rare reports, including fatalities, of GI perforation.
 
 ## 5.7 Hypereosinophilic Cardiac Toxicity
 
@@ -75,8 +75,8 @@ Monitor TSH levels in such patients.
 ## 5.10 Embryo-fetal Toxicity
 
 Imatinib mesylate can cause fetal harm when administered to a pregnant woman.
-Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area.
-Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on body surface area.
+Imatinib mesylate was teratogenic in rats when administered during organogenesis at doses approximately equal to the maximum human dose of 800 mg/day based on body surface area (BSA).
+Significant post-implantation loss was seen in female rats administered imatinib mesylate at doses approximately one-half the maximum human dose of 800 mg/day based on BSA.
 Advise sexually active female patients of reproductive potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using imatinib mesylate tablets and for 14 days after stopping imatinib mesylate tablets.
 If this drug is used during pregnancy or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus [see Use in Specific Populations (8.1)].
 
