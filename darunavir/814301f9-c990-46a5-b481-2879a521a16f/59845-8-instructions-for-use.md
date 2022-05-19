@@ -35,10 +35,6 @@ Keep PREZISTA and all medicines out of the reach of children.
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
-Product of Ireland
+Manufactured for: Janssen Products, LP, Horsham PA 19044
 
-Manufactured by: Janssen Pharmaceutica, NV Beerse, Belgium
-
-Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
-
-Revised: January 2018 © 2006 Janssen Pharmaceutical Companies
+Revised: May 2022 © 2006 Janssen Pharmaceutical Companies
