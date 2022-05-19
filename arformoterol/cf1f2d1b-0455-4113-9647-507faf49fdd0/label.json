@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA213068"
+  ],
+  "inn": "arformoterol",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70748-175-01",
+    "70748-175-30",
+    "70748-175-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "arformoterol tartrate",
+      "name": "Arformoterol tartrate"
+    }
+  ],
+  "setid": "cf1f2d1b-0455-4113-9647-507faf49fdd0",
+  "source": "dailymed"
+}
