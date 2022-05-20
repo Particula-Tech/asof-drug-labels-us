@@ -4,7 +4,7 @@ NDC 69238-1318-4
 
 Dimethyl Fumarate Delayed-Release Capsules, 120 mg
 
-Rx Only
+Rx only
 
 14 Capsules
 
@@ -14,7 +14,7 @@ NDC 69238-1319-6
 
 Dimethyl Fumarate Delayed-Release Capsules, 240 mg
 
-Rx Only
+Rx only
 
 60 Capsules
 
@@ -28,6 +28,6 @@ Container Label - 7-day bottle of 120 mg capsules, quantity 14 - NDC 69238-1626-
 
 Container Label - 23-day bottle of 240 mg capsules, quantity 46 - NDC 69238-1626-8
 
-Rx Only
+Rx only
 
 Amneal Pharmaceuticals LLC

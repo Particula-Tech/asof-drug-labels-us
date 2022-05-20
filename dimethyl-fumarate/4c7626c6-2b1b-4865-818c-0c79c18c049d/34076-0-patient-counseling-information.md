@@ -47,18 +47,10 @@ Pregnancy
 
 Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate delayed-release capsules they should inform their physician.
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Ahmedabad 382220, INDIA
-
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2021-02
+04-2022-03
