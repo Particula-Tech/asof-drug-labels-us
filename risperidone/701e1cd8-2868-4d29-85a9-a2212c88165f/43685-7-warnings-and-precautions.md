@@ -259,7 +259,7 @@ Risperidone should be used cautiously in patients with a history of seizures.
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
-[see Boxed Warning and Warnings and Precautions (5.1)]
+[see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.13 Priapism
 

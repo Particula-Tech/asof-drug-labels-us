@@ -20,7 +20,7 @@ Risperidone Tablets are imprinted "PATR" on one side and either "Ris 0.25", "Ris
 
 Risperidone Oral Solution
 
-Risperidone 1 mg/mL Oral Solution (NDC 50458-596-01) is supplied in 30 mL bottles with a calibrated (in milligrams and milliliters) pipette.
+Risperidone 1 mg/mL Oral Solution (NDC 50458-596-01) is supplied in 30 mL bottles with a calibrated (in milliliters) oral dosing syringe.
 The minimum calibrated volume is 0.25 mL, while the maximum calibrated volume is 3 mL.
 
 Risperidone Orally Disintegrating Tablets
