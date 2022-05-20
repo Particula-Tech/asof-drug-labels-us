@@ -1,14 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-The solution used in MIGRANAL® (dihydroergotamine mesylate) Nasal Spray (4 mg/mL) is intended for intranasal use and must not be injected.
+The solution used in MIGRANAL (dihydroergotamine mesylate) Nasal Spray (4 mg/mL) is intended for intranasal use and must not be injected.
 
-In clinical trials, MIGRANAL® (dihydroergotamine mesylate) Nasal Spray has been effective for the acute treatment of migraine headaches with or without aura.
-One spray (0.5 mg) of MIGRANAL® (dihydroergotamine mesylate) Nasal Spray should be administered in each nostril.
-Fifteen minutes later, an additional one spray (0.5 mg) of MIGRANAL® (dihydroergotamine mesylate) Nasal Spray should be administered in each nostril, for a total dosage of four sprays (2 mg) of MIGRANAL® (dihydroergotamine mesylate) Nasal Spray.
+In clinical trials, MIGRANAL (dihydroergotamine mesylate) Nasal Spray has been effective for the acute treatment of migraine headaches with or without aura.
+One spray (0.5 mg) of MIGRANAL (dihydroergotamine mesylate) Nasal Spray should be administered in each nostril.
+Fifteen minutes later, an additional one spray (0.5 mg) of MIGRANAL (dihydroergotamine mesylate) Nasal Spray should be administered in each nostril, for a total dosage of four sprays (2 mg) of MIGRANAL (dihydroergotamine mesylate) Nasal Spray.
 Studies have shown no additional benefit from acute doses greater than 2 mg for a single migraine administration.
-The safety of doses greater than 3 mg in a 24 hour period and 4 mg in a 7 day period has not been established.
+The safety of doses greater than 3 mg in a 24-hour period and 4 mg in a 7-day period has not been established.
 
-MIGRANAL® (dihydroergotamine mesylate) Nasal Spray, should not be used for chronic daily administration.
+MIGRANAL (dihydroergotamine mesylate) Nasal Spray, should not be used for chronic daily administration.
 
 Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use (see administration instructions).
 Once the nasal spray applicator has been prepared, it should be discarded (with any remaining drug in opened vial) after 8 hours.

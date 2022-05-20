@@ -10,7 +10,6 @@ Two current theories have been proposed to explain the efficacy of 5-HT1D recept
 One theory suggests that activation of 5-HT1D receptors located on intracranial blood vessels, including those on arterio-venous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
 The alternative hypothesis suggests that activation of 5-HT1D receptors on sensory nerve endings of the trigeminal system results in the inhibition of pro-inflammatory neuropeptide release.
 In addition, dihydroergotamine possesses oxytocic properties.
-(See CONTRAINDICATIONS)
 
 ## Pharmacokinetics
 
@@ -28,7 +27,7 @@ The apparent steady-state volume of distribution is approximately 800 liters.
 ### Metabolism
 
 Four dihydroergotamine mesylate metabolites have been identified in human plasma following oral administration.
-The major metabolite, 8'-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.
+The major metabolite, 8’-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.
 The other metabolites, i.e., dihydrolysergic acid, dihydrolysergic amide and a metabolite formed by oxidative opening of the proline ring are of minor importance.
 Following nasal administration, total metabolites represent only 20%-30% of plasma AUC.
 The systemic clearance of dihydroergotamine mesylate following I.V. and I.M. administration is 1.5 L/min.
@@ -45,8 +44,7 @@ The decline of plasma dihydroergotamine is biphasic with a terminal half-life of
 ### Subpopulations
 
 No studies have been conducted on the effect of renal or hepatic impairment, gender, race, or ethnicity on dihydroergotamine pharmacokinetics.
-MIGRANAL® (dihydroergotamine mesylate) Nasal Spray is contraindicated in patients with severely impaired hepatic or renal function.
-(See CONTRAINDICATIONS)
+MIGRANAL (dihydroergotamine mesylate) Nasal Spray is contraindicated in patients with severely impaired hepatic or renal function (see CONTRAINDICATIONS).
 
 ### Interactions
 
@@ -54,5 +52,5 @@ The pharmacokinetics of dihydroergotamine did not appear to be significantly aff
 
 Multiple oral doses of the β-adrenoceptor antagonist propranolol, used for migraine prophylaxis, had no significant influence on the Cmax, Tmax or AUC of dihydroergotamine doses up to 4 mg.
 Pharmacokinetic interactions have been reported in patients treated orally with other ergot alkaloids (e.g., increased levels of ergotamine) and macrolide antibiotics, principally troleandomycin, presumably due to inhibition of cytochrome P450 3A metabolism of the alkaloids by troleandomycin.
-Dihydroergotamine has also been shown to be an inhibitor of cytochrome P450 3A catalyzed reactions and rare reports of ergotism have been obtained from patients treated with dihydroergotamine and macrolide antibiotics (e.g., troleandomycin, clarithromycin, erythromycin), and in patients treated with dihydroergotamine and protease inhibitors (e.g. ritonavir), presumably due to inhibition of cytochrome P450 3A metabolism of ergotamine (See CONTRAINDICATIONS).
+Dihydroergotamine has also been shown to be an inhibitor of cytochrome P450 3A catalyzed reactions and rare reports of ergotism have been obtained from patients treated with dihydroergotamine and macrolide antibiotics (e.g., troleandomycin, clarithromycin, erythromycin), and in patients treated with dihydroergotamine and protease inhibitors (e.g. ritonavir), presumably due to inhibition of cytochrome P450 3A metabolism of ergotamine (see CONTRAINDICATIONS).
 No pharmacokinetic interactions involving other cytochrome P450 isoenzymes are known.
