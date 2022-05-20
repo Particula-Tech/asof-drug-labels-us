@@ -1,0 +1,162 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Important Dosing Guidelines
+
+Bortezomib for Injection is for intravenous or subcutaneous use only.
+Do not administer Bortezomib for Injection by any other route.
+
+Because each route of administration has a different reconstituted concentration, use caution when calculating the volume to be administered.
+
+The recommended starting dose of Bortezomib for Injection is 1.3 mg/m2.
+Bortezomib for Injection is administered intravenously at a concentration of 1 mg/mL, or subcutaneously at a concentration of 2.5 mg/mL [see Dosage and Administration (2.8)].
+
+Bortezomib for Injection retreatment may be considered for patients with multiple myeloma who had previously responded to treatment with Bortezomib for Injection and who have relapsed at least six months after completing prior Bortezomib for Injection treatment.
+Treatment may be started at the last tolerated dose [see Dosage and Administration (2.4)].
+
+When administered intravenously, administer Bortezomib for Injection as a 3 to 5 second bolus intravenous injection.
+
+## 2.2 Dosage in Previously Untreated Multiple Myeloma
+
+Bortezomib for Injection is administered in combination with oral melphalan and oral prednisone for 9, six-week treatment cycles as shown in Table 1.
+In Cycles 1 to 4, Bortezomib for Injection is administered twice weekly (Days 1, 4, 8, 11, 22, 25, 29 and 32).
+In Cycles 5 to 9, Bortezomib for Injection is administered once weekly (Days 1, 8, 22 and 29).
+At least 72 hours should elapse between consecutive doses of Bortezomib for Injection.
+
+Table 1: Dosage Regimen for Patients with Previously Untreated Multiple Myeloma
+
+| Twice Weekly Bortezomib for Injection (Cycles 1 to 4) |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Week | 1 |  |  |  | 2 |  | 3 | 4 |  | 5 |  | 6 |
+| Bortezomib for Injection (1.3 mg/m2) | Day 1 | -- | -- | Day 4 | Day 8 | Day 11 | rest period | Day 22 | Day 25 | Day 29 | Day 32 | rest period |
+| Melphalan (9 mg/m2) Prednisone (60 mg/m2) | Day 1 | Day 2 | Day 3 | Day 4 | -- | -- | rest period | -- | -- | -- | -- | rest period |
+| Once Weekly Bortezomib for Injection (Cycles 5 to 9 when used in combination with Melphalan and Prednisone) |  |  |  |  |  |  |  |  |  |  |  |  |
+| Week | 1 |  |  |  | 2 |  | 3 | 4 |  | 5 |  | 6 |
+| Bortezomib for Injection (1.3 mg/m2) | Day 1 | -- | -- |  | Day 8 |  | rest period | Day 22 |  | Day 29 |  | rest period |
+| Melphalan (9 mg/m2) Prednisone (60 mg/m2) | Day 1 | Day 2 | Day 3 | Day 4 | -- | -- | rest period | -- | -- | -- | -- | rest period |
+
+## 2.3 Dose Modification Guidelines for Bortezomib for Injection When Given in Combination with Melphalan and Prednisone
+
+Prior to initiating any cycle of therapy with Bortezomib for Injection in combination with melphalan and prednisone:
+
+- Platelet count should be at least 70 × 109/L and the absolute neutrophil count (ANC) should be at least 1 × 109/L
+- Non-hematological toxicities should have resolved to Grade 1 or baseline
+
+Table 2: Dose Modifications During Cycles of Combination Bortezomib for Injection, Melphalan and Prednisone Therapy
+
+| Toxicity | Dose modification or delay |
+| --- | --- |
+| Hematological toxicity during a cycle: If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle | Consider reduction of the melphalan dose by 25% in the next cycle |
+| If platelet count is not above 30 × 109/L or ANC is not above 0.75 × 109/L on a Bortezomib for Injection dosing day (other than Day 1) | Withhold Bortezomib for Injection dose |
+| If several Bortezomib for Injection doses in consecutive cycles are withheld due to toxicity | Reduce Bortezomib for Injection dose by one dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2) |
+| Grade 3 or higher non-hematological toxicities | Withhold Bortezomib for Injection therapy until symptoms of toxicity have resolved to Grade 1 or baseline. Then, Bortezomib for Injection may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For Bortezomib for Injection-related neuropathic pain and/or peripheral neuropathy, hold or modify Bortezomib for Injection as outlined in Table 3. |
+
+For information concerning melphalan and prednisone, see manufacturer's prescribing information.
+
+Dose modifications guidelines for peripheral neuropathy are provided [see Dosage and Administration (2.5)].
+
+## 2.4 Dosage and Dose Modifications for Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma
+
+Bortezomib for Injection (1.3 mg/m2/dose) is administered twice weekly for two weeks (Days 1, 4, 8, and 11) followed by a ten day rest period (Days 12 to 21).
+For extended therapy of more than eight cycles, Bortezomib for Injection may be administered on the standard schedule or, for relapsed multiple myeloma, on a maintenance schedule of once weekly for four weeks (Days 1, 8, 15, and 22) followed by a 13 day rest period (Days 23 to 35) [see Clinical Studies (14)].
+At least 72 hours should elapse between consecutive doses of Bortezomib for Injection.
+
+Patients with multiple myeloma who have previously responded to treatment with Bortezomib for Injection (either alone or in combination) and who have relapsed at least six months after their prior Bortezomib for Injection therapy may be started on Bortezomib for Injection at the last tolerated dose.
+Retreated patients are administered Bortezomib for Injection twice weekly (Days 1, 4, 8, and 11) every three weeks for a maximum of eight cycles.
+At least 72 hours should elapse between consecutive doses of Bortezomib for Injection.
+Bortezomib for Injection may be administered either as a single agent or in combination with dexamethasone [see Clinical Studies (14.1)].
+
+Bortezomib for Injection therapy should be withheld at the onset of any Grade 3 non-hematological or Grade 4 hematological toxicities excluding neuropathy as discussed below [see Warnings and Precautions (5)].
+Once the symptoms of the toxicity have resolved, Bortezomib for Injection therapy may be reinitiated at a 25% reduced dose (1.3 mg/m2/dose reduced to 1 mg/m2/dose; 1 mg/m2/dose reduced to 0.7 mg/m2/dose).
+
+For dose modifications guidelines for peripheral neuropathy, see section 2.5.
+
+## 2.5 Dose Modifications for Peripheral Neuropathy
+
+Starting Bortezomib for Injection subcutaneously may be considered for patients with pre-existing or at high risk of peripheral neuropathy.
+Patients with pre-existing severe neuropathy should be treated with Bortezomib for Injection only after careful risk-benefit assessment.
+
+Patients experiencing new or worsening peripheral neuropathy during Bortezomib for Injection therapy may require a decrease in the dose and/or a less dose-intense schedule.
+
+For dose or schedule modification guidelines for patients who experience Bortezomib for Injection-related neuropathic pain and/or peripheral neuropathy, see Table 3.
+
+Table 3: Recommended Dose Modification for Bortezomib for Injection related Neuropathic Pain and/or Peripheral Sensory or Motor Neuropathy
+
+| Severity of Peripheral Neuropathy Signs and SymptomsGrading based on NCI Common Terminology Criteria CTCAE v4.0 | Modification of Dose and Regimen |
+| --- | --- |
+| Grade 1 (asymptomatic; loss of deep tendon reflexes or paresthesia) without pain or loss of function | No action |
+| Grade 1 with pain or Grade 2 (moderate symptoms; limiting instrumental Activities of Daily Living (ADL)Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc.;) | Reduce Bortezomib for Injection to 1 mg/m2 |
+| Grade 2 with pain or Grade 3 (severe symptoms; limiting self care ADLSelf care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medications, and not bedridden) | Withhold Bortezomib for Injection therapy until toxicity resolves. When toxicity resolves reinitiate with a reduced dose of Bortezomib for Injection at 0.7 mg/m2 once per week. |
+| Grade 4 (life-threatening consequences; urgent intervention indicated) | Discontinue Bortezomib for Injection |
+
+## 2.6 Dosage in Patients with Hepatic Impairment
+
+Do not adjust the starting dose for patients with mild hepatic impairment.
+
+Start patients with moderate or severe hepatic impairment at a reduced dose of 0.7 mg/m2 per injection during the first cycle, and consider subsequent dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 based on patient tolerance (see Table 4) [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+
+Table 4: Recommended Starting Dose Modification for Bortezomib for Injection in Patients with Hepatic Impairment
+
+|  | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
+| --- | --- | --- | --- |
+| Mild | Less than or equal to 1× ULN | More than ULN | None |
+| More than 1× to 1.5× ULN | Any | None |  |
+| Moderate | More than 1.5× to 3× ULN | Any | Reduce dose to 0.7 mg/m2 in the first cycle. Consider dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
+| Severe | More than 3× ULN | Any |  |
+| Abbreviations: SGOT = serum glutamic oxaloacetic transaminase; AST = aspartate aminotransferase; ULN = upper limit of the normal range. |  |  |  |
+
+## 2.7 Administration Precautions
+
+The drug quantity contained in one vial (1 mg or 2.5 mg) may exceed the usual dose required.
+Use caution when calculating the dose to prevent overdose [see Dosage and Administration (2.8)].
+
+When administered subcutaneously, rotate sites for each injection (thigh or abdomen).
+Give new injections at least one inch from an old site and never into areas where the site is tender, bruised, erythematous, or indurated.
+
+If local injection site reactions occur following Bortezomib for Injection administration subcutaneously, a less concentrated Bortezomib for Injection solution (1 mg/mL instead of 2.5 mg/mL) may be administered subcutaneously [see Dosage and Administration (2.8)].
+Alternatively, consider use of the intravenous route of administration [see Dosage and Administration (2.8)].
+
+Bortezomib for Injection is a hazardous drug.
+Follow applicable special handling and disposal procedures1.
+
+## 2.8 Reconstitution/Preparation for Intravenous and Subcutaneous Administration
+
+Use proper aseptic technique.
+Reconstitute only with 0.9% Sodium Chloride Injection, USP.
+The reconstituted product should be a clear and colorless solution.
+
+Different volumes of 0.9% Sodium Chloride Injection, USP are used to reconstitute the product for the different routes of administration.
+The reconstituted concentration of bortezomib for subcutaneous administration (2.5 mg/mL) is greater than the reconstituted concentration of bortezomib for intravenous administration (1 mg/mL).
+Because each route of administration has a different reconstituted concentration, use caution when calculating the volume to be administered [see Dosage and Administration (2.7)].
+
+For each 1 mg or 2.5 mg single-dose vial of bortezomib, reconstitute with the following volume of 0.9% Sodium Chloride Injection, USP based on route of administration (Table 5):
+
+Table 5: Reconstitution Volumes and Final Concentration for Intravenous and Subcutaneous Administration
+
+| Route of Administration | Bortezomib (mg/vial) | Diluent (0.9% Sodium Chloride Injection, USP) | Final Bortezomib Concentration |
+| --- | --- | --- | --- |
+| Intravenous | 1 mg | 1 mL | 1 mg/mL |
+| Subcutaneous | 1 mg | 0.4 mL | 2.5 mg/mLActual vial content results in a final concentration of 1 mg/0.4 mL |
+| Intravenous | 2.5 mg | 2.5 mL | 1 mg/mL |
+| Subcutaneous | 2.5 mg | 1 mL | 2.5 mg/mL |
+
+Dose must be individualized to prevent overdosage.
+After determining patient body surface area (BSA) in square meters, use the following equations to calculate the total volume (mL) of reconstituted Bortezomib for Injection to be administered:
+
+- Intravenous Administration [1 mg/mL concentration] Bortezomib for Injection dose (mg/m2) × patient BSA (m2)= Total Bortezomib for Injection volume (mL) to be administered1 mg/mL
+- Subcutaneous Administration [2.5 mg/mL concentration] Bortezomib for Injection dose (mg/m2) × patient BSA (m2)= Total Bortezomib for Injection volume (mL) to be administered2.5 mg/mL
+
+Stickers that indicate the route of administration are provided with each Bortezomib for Injection vial.
+These stickers should be placed directly on the syringe of Bortezomib for Injection once Bortezomib for Injection is prepared to help alert practitioners of the correct route of administration for Bortezomib for Injection.
+
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
+If any discoloration or particulate matter is observed, the reconstituted product should not be used.
+
+Stability
+
+Unopened vials of Bortezomib for Injection are stable until the date indicated on the package when stored in the original package protected from light.
+
+Bortezomib for Injection contains no antimicrobial preservative.
+Administer reconstituted Bortezomib for Injection within eight hours of preparation.
+When reconstituted as directed, Bortezomib for Injection may be stored at 25°C (77°F).
+The reconstituted material may be stored in the original vial and/or the syringe prior to administration.
+The product may be stored for up to eight hours in a syringe; however, total storage time for the reconstituted material must not exceed eight hours when exposed to normal indoor lighting.

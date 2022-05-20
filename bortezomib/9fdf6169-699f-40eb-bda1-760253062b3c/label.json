@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209191"
+  ],
+  "inn": "bortezomib",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1703-01",
+    "0409-1704-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bortezomib",
+      "name": "BORTEZOMIB"
+    }
+  ],
+  "setid": "9fdf6169-699f-40eb-bda1-760253062b3c",
+  "source": "dailymed"
+}
