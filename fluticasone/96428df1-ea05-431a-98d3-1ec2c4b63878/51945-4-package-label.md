@@ -21,10 +21,11 @@ Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearat
 Trademarks are owned by or licensed to the GSK group of Companies.
 BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
-©2018 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
-1. 10000000149209 Rev.
-   4/18
+1. 62000000074680 Rev.
+   1/22
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -49,7 +50,8 @@ Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearat
 Trademarks are owned by or licensed to the GSK group of Companies.
 BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
-©2018 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
-1. 10000000149210 Rev.
-   4/18
+1. 62000000074680 Rev.
+   1/22
+2. 

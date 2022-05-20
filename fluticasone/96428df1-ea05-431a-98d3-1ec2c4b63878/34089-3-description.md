@@ -13,7 +13,7 @@ Vilanterol trifenatate is a white powder with a molecular weight of 774.8, and t
 It is practically insoluble in water.
 
 BREO ELLIPTA is a light grey and pale blue plastic inhaler containing 2 foil blister strips.
-Each blister on one strip contains a white powder mix of micronized fluticasone furoate (100 or 200 mcg) and lactose monohydrate (12.4 mg), and each blister on the other strip contains a white powder mix of micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (125 mcg), and lactose monohydrate (12.34 mg).
+Each blister on one strip contains a white powder mix of micronized fluticasone furoate (100 or 200 mcg) and lactose monohydrate (12.4 or 12.3 mg), and each blister on the other strip contains a white powder mix of micronized vilanterol trifenatate (40 mcg equivalent to 25 mcg of vilanterol), magnesium stearate (125 mcg), and lactose monohydrate (12.34 mg).
 The lactose monohydrate contains milk proteins.
 After the inhaler is activated, the powder within both blisters is exposed and ready for dispersion into the airstream created by the patient inhaling through the mouthpiece.
 
