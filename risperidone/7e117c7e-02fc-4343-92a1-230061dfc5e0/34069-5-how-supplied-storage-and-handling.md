@@ -20,7 +20,7 @@ RISPERDAL® (risperidone) Tablets are imprinted "JANSSEN" on one side and either
 
 RISPERDAL® (risperidone) Oral Solution
 
-RISPERDAL® (risperidone) 1 mg/mL Oral Solution (NDC 50458-305-03) is supplied in 30 mL bottles with a calibrated (in milligrams and milliliters) pipette.
+RISPERDAL® (risperidone) 1 mg/mL Oral Solution (NDC 50458-305-03) is supplied in 30 mL bottles with a calibrated (in milliliters) oral dosing syringe.
 The minimum calibrated volume is 0.25 mL, while the maximum calibrated volume is 3 mL.
 
 RISPERDAL® M-TAB® (risperidone) Orally Disintegrating Tablets

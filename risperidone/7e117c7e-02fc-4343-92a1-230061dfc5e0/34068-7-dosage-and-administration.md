@@ -116,7 +116,7 @@ It may be necessary to increase the RISPERDAL® dose when enzyme inhibitors such
 
 ## 2.6 Administration of RISPERDAL® Oral Solution
 
-RISPERDAL® Oral Solution can be administered directly from the calibrated pipette, or can be mixed with a beverage prior to administration.
+RISPERDAL® Oral Solution can be administered directly from the calibrated oral dosing syringe, or can be mixed with a beverage prior to administration.
 RISPERDAL® Oral Solution is compatible in the following beverages: water, coffee, orange juice, and low-fat milk; it is NOT compatible with either cola or tea.
 
 ## 2.7 Directions for Use of RISPERDAL® M-TAB® Orally Disintegrating Tablets

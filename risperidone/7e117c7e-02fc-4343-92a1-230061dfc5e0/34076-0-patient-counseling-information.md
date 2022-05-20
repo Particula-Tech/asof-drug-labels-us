@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise patients using RISPERDAL oral solution to read the FDA-approved patient labeling (Instructions for Use) for RISPERDAL oral solution.
+
 Physicians are advised to discuss the following issues with patients for whom they prescribe RISPERDAL®.
 
 Neuroleptic Malignant Syndrome (NMS)
