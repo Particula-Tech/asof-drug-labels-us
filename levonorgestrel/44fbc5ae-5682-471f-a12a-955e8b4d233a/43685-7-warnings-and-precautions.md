@@ -46,7 +46,7 @@ An increased risk of venous thromboembolic and thrombotic disease associated wit
 The risk of venous thrombotic and thromboembolic events is further increased in women with conditions predisposing for venous thrombosis and thromboembolism.
 Case control studies have found the relative risk of users compared to non-users to be 3 for the first episode of superficial venous thrombosis, 4 to 11 for deep-vein thrombosis or pulmonary embolism, and 1.5 to 6 for women with predisposing conditions for venous thromboembolic disease.
 Cohort studies have shown the relative risk to be somewhat lower, about 3 for new cases and about 4.5 for new cases requiring hospitalization.
-The approximate incidence of deep-vein thrombosis and pulmonary embolism in users of low dose (<0.05 mg ethinyl estradiol) combination oral contraceptives is up to 4 per 10,000 woman-years compared to 0.5-3 per 10,000 woman-years for non-users.
+The approximate incidence of deep-vein thrombosis and pulmonary embolism in users of low dose (<0.05 mg ethinyl estradiol) combination oral contraceptives is up to 4 per 10,000 woman-years compared to 0.5 to 3 per 10,000 woman-years for non-users.
 However, the incidence is less than that associated with pregnancy (6 per 10,000 woman-years).
 The excess risk is highest during the first year a woman ever uses a combined oral contraceptive.
 Venous thromboembolism may be fatal.
@@ -61,7 +61,7 @@ Although the study results suggest an elevated risk of venous thromboembolism wi
 A two-to-four fold increase in relative risk of postoperative thromboembolic complications has been reported with the use of oral contraceptives.
 The relative risk of venous thrombosis in women who have predisposing conditions is twice that of women without such medical conditions.
 If feasible, oral contraceptives should be discontinued at least four weeks prior to and for two weeks after elective surgery of a type associated with an increase in risk of thromboembolism and during and following prolonged immobilization.
-Since the immediate post-partum period is also associated with an increased risk of thromboembolism, oral contraceptives should be started no earlier than four weeks after delivery in women who elect not to breast-feed, or after a midtrimester pregnancy termination.
+Since the immediate post-partum period is also associated with an increased risk of thromboembolism, oral contraceptives should be started no earlier than four weeks after delivery in women who elect not to breastfeed, or after a midtrimester pregnancy termination.
 
 ### c. Cerebrovascular Diseases
 
@@ -91,7 +91,7 @@ New acceptors of oral contraceptive agents should be started on preparations con
 ### e. Persistence of Risk of Vascular Disease
 
 There are two studies which have shown persistence of risk of vascular disease for ever-users of oral contraceptives.
-In a study in the United States, the risk of developing myocardial infarction after discontinuing oral contraceptives persisted for at least 9 years for women 40-49 years who had used oral contraceptives for five or more years, but this increased risk was not demonstrated in other age groups.
+In a study in the United States, the risk of developing myocardial infarction after discontinuing oral contraceptives persisted for at least 9 years for women 40 to 49 years who had used oral contraceptives for five or more years, but this increased risk was not demonstrated in other age groups.
 
 In another study in Great Britain, the risk of developing cerebrovascular disease persisted for at least 6 years after discontinuation of oral contraceptives, although excess risk was very small.
 However, both studies were performed with oral contraceptive formulations containing 0.05 mg or higher of estrogens.
@@ -113,32 +113,30 @@ Of course, older women, as all women who take oral contraceptives, should take t
 
 Table 3: Annual Number of Birth-Related or Method-Related Deaths Associated with Control of Fertility per 100,000 Nonsterile Women, by Fertility-Control Method and According to Age
 
-| Method of control and outcome | 15-19 | 20-24 | 25-29 | 30-34 | 35-39 | 40-44 |
+| Method of control and outcome | 15 to 19 | 20 to 24 | 25 to 29 | 30 to 34 | 35 to 39 | 40 to 44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility-control methods* | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| No fertility-control methods* | 7 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
 | Oral contraceptives |  |  |  |  |  |  |
 | nonsmoker** | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
 | Oral contraceptives |  |  |  |  |  |  |
 | smoker** | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD** | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
+| IUD** | 0.8 | 0.8 | 1 | 1 | 1.4 | 1.4 |
 | Condom* | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
 | Diaphragm/spermicide* | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
 | Periodic abstinence* | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
 | * Deaths are birth-related **Deaths are method-relatedAdapted from H.W. Ory, Family Planning Perspectives, 15:57-63, 1983. |  |  |  |  |  |  |
 
-## 3. Carcinoma of the Reproductive Organs and Breasts
+## 3. Malignant Neoplasms
 
-Numerous epidemiological studies have examined the association between the use of oral contraceptives and the incidence of breast and cervical cancer.
+a. Breast Cancer
 
-The risk of having breast cancer diagnosed may be slightly increased among current and recent users of combination oral contraceptives.
-However, this excess risk appears to decrease over time after combination oral contraceptive discontinuation and by 10 years after cessation the increased risk disappears.
-Some studies report an increased risk with duration of use while other studies do not and no consistent relationships have been found with dose or type of steroid.
-Some studies have reported a small increase in risk for women who first use combination oral contraceptives at a younger age.
-Most studies show a similar pattern of risk with combination oral contraceptive use regardless of a woman's reproductive history or her family breast cancer history.
+Levonorgestrel and ethinyl estradiol is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications].
 
-Breast cancers diagnosed in current or previous oral contraceptive users tend to be less clinically advanced than in nonusers.
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use [see Postmarketing Experience].
 
-Women with known or suspected carcinoma of the breast or personal history of breast cancer should not use oral contraceptives because breast cancer is usually a hormonally sensitive tumor.
+b. Cervical Cancer
 
 Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia or invasive cervical cancer in some populations of women.
 However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
@@ -344,8 +342,6 @@ Certain endocrine- and liver-function tests and blood components may be affected
 See WARNINGSsection.
 
 ## 12. Pregnancy
-
-### Pregnancy Category X.
 
 See CONTRAINDICATIONSand WARNINGSsections.
 

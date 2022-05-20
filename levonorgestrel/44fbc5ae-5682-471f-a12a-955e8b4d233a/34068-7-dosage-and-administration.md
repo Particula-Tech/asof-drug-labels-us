@@ -1,11 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-To achieve maximum contraceptive effectiveness, levonorgestrel and ethinyl estradiol tablets USP must be taken exactly as directed and at intervals not exceeding 24 hours.
+To achieve maximum contraceptive effectiveness, levonorgestrel and ethinyl estradiol tablets must be taken exactly as directed and at intervals not exceeding 24 hours.
 The possibility of ovulation and conception prior to initiation of medication should be considered.
 Women who do not wish to become pregnant after discontinuation should be advised to immediately use another method of birth control.
-The dosage of levonorgestrel and ethinyl estradiol tablets USP is one brownish peach to light brown tablet daily without any tablet-free interval.
+The dosage of levonorgestrel and ethinyl estradiol tablets is one brownish peach to light brown tablet daily without any tablet-free interval.
 
-It is recommended that levonorgestrel and ethinyl estradiol tablets USP be taken at the same time each day.
+It is recommended that levonorgestrel and ethinyl estradiol tablets be taken at the same time each day.
 
 ## Initiation of Therapy
 

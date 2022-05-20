@@ -47,10 +47,10 @@ For the majority of women, oral contraceptives can be taken safely.
 However, there are some women who are at high risk of developing certain serious diseases that can be life-threatening or may cause temporary or permanent disability or death.
 The risks associated with taking oral contraceptives increase significantly if you:
 
-1. 1.smoke
-2. 2.have high blood pressure, diabetes, high cholesterol, or a tendency to form blood clots, or are obese
-3. 3.have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, malignant or benign liver tumors, or major surgery with prolonged immobilization
-4. 4.have headaches with neurological symptoms
+- •smoke
+- •have high blood pressure, diabetes, high cholesterol, or a tendency to form blood clots, or are obese
+- •have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, malignant or benign liver tumors, or major surgery with prolonged immobilization
+- •have headaches with neurological symptoms
 
 You should not take the pill if you suspect you are pregnant or have unexplained vaginal bleeding.
 
@@ -79,17 +79,7 @@ The symptoms associated with these serious side effects are discussed in the det
 Notify your health care provider if you notice any unusual physical disturbances while taking the pill.
 In addition, drugs such as rifampin, as well as some anticonvulsants and some antibiotics, herbal preparations containing St. John's Wort (Hypericum perforatum), and HIV/AIDS drugs may decrease oral contraceptive effectiveness.
 
-Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
-
-Oral contraceptive use may slightly increase your chance of having breast cancer diagnosed, particularly if you started using hormonal contraceptives at a younger age.
-
-After you stop using hormonal contraceptives, the chances of having breast cancer diagnosed begin to go down, and disappear 10 years after stopping use of the pill.
-It is not known whether this slightly increased risk of having breast cancer diagnosed is caused by the pill.
-It may be that women taking the pill were examined more often, so that breast cancer was more likely to be detected.
-
-You should have regular breast examinations by a health care professional and examine your own breasts monthly.
-Tell your health care professional if you have a family history of breast cancer or if you have had breast nodules or an abnormal mammogram.
-Women who currently have or have had breast cancer should not use oral contraceptives because breast cancer is usually a hormone-sensitive tumor.
+There may be slight increases in the risk of breast cancer among current users of hormonal birth control pills with longer duration of use of 8 years or more.
 
 Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
 However, this finding may be related to factors other than the use of oral contraceptives.
@@ -123,7 +113,7 @@ Stop taking levonorgestrel and ethinyl estradiol if you are pregnant.
 
 ## Instructions for the Patient
 
-HOW TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL TABLETS USP
+HOW TO TAKE LEVONORGESTREL AND ETHINYL ESTRADIOL TABLETS
 
 Important Points to Remember
 
@@ -136,7 +126,7 @@ Before You Start Taking levonorgestrel and ethinyl estradiol:
    This includes starting the pack late.
    The more pills you miss, the more likely you are to get pregnant.
    See “WHAT TO DO IF YOU MISS PILLS” below.
-3. 3.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1-3 PACKS OF PILLS.
+3. 3.MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1 to 3 PACKS OF PILLS.
    If you feel sick to your stomach, do not stop taking levonorgestrel and ethinyl estradiol.
    This will usually go away.
    If it doesn't go away, check with your health care professional.
@@ -155,13 +145,13 @@ BEFORE YOU START TAKING LEVONORGESTREL AND ETHINYL ESTRADIOL
 
 1. 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
    It is important to take your pill at the SAME TIME every day.
-2. 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER CARD.
+2. 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER.
    The pill pack has 28 “active” brownish peach to light brown pills (with hormones).
-3. 3.Locate the top row of the blister card.
+3. 3.Locate the top row of the blister.
 4. 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
-5. 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
+5. 5.Place the day label strip on the tablet blister over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
 
-1. 1.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
+1. 1.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister is empty.
 2. 2.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 

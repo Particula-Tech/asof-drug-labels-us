@@ -1,6 +1,6 @@
 # CONTRAINDICATIONS
 
-Combination oral contraceptives should not be used in women with any of the following conditions:
+Levonorgestrel and ethinyl estradiol tablets are contraindicated in females who are known to have or develop the following conditions:
 
 Thrombophlebitis or thromboembolic disorders
 
@@ -22,7 +22,7 @@ Headaches with focal neurological symptoms such as aura
 
 Uncontrolled hypertension
 
-Known or suspected carcinoma of the breast or personal history of breast cancer
+Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive
 
 Carcinoma of the endometrium or other known or suspected estrogen-dependent neoplasia
 

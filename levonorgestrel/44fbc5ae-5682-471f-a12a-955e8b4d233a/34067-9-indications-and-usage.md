@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Levonorgestrel and ethinyl estradiol tablets USP is indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
+Levonorgestrel and ethinyl estradiol tablets are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
 
 Oral contraceptives are highly effective for pregnancy prevention.
 Table 2 lists the typical unintended pregnancy rates for users of combination oral contraceptives and other methods of contraception.
@@ -35,7 +35,7 @@ United States.
 | Progestin only |  | 0.5 |  |
 | Combined |  | 0.1 |  |
 | IUD |  |  |  |
-| Progesterone T | 2.0 | 1.5 | 81 |
+| Progesterone T | 2 | 1.5 | 81 |
 | Copper T380A | 0.8 | 0.6 | 78 |
 | LNg 20 | 0.1 | 0.1 | 81 |
 | Depo-Provera® | 0.3 | 0.3 | 70 |
@@ -63,12 +63,12 @@ New York NY: Irvington Publishers; 1998.
 7. 7.With spermicidal cream or jelly.
 8. 8.Without spermicides.
 9. 9.The treatment schedule is one dose within 72 hours after unprotected intercourse and a second dose 12 hours after the first dose.
-   The FDA has declared the following dosage regimens of oral contraceptives to be safe and effective for emergency contraception: for tablets containing 0.05 mg of ethinyl estradiol and 0.50 mg of norgestrel 1 dose is 2 tablets; for tablets containing 0.02 mg of ethinyl estradiol and 0.1 mg of levonorgestrel 1 dose is 5 tablets; for tablets containing 0.03 mg of ethinyl estradiol and 0.15 mg of levonorgestrel 1 dose is 4 tablets.
+   The FDA has declared the following dosage regimens of oral contraceptives to be safe and effective for emergency contraception: for tablets containing 0.05 mg of ethinyl estradiol and 0.5 mg of norgestrel 1 dose is 2 tablets; for tablets containing 0.02 mg of ethinyl estradiol and 0.1 mg of levonorgestrel 1 dose is 5 tablets; for tablets containing 0.03 mg of ethinyl estradiol and 0.15 mg of levonorgestrel 1 dose is 4 tablets.
 10. 10.However, to maintain effective protection against pregnancy, another method of contraception must be used as soon as menstruation resumes, the frequency or duration of breastfeeds is reduced, bottle feeds are introduced, or the baby reaches 6 months of age.
 
 ## Clinical Studies
 
-The efficacy and safety of levonorgestrel and ethinyl estradiol were studied in 2 one-year clinical trials of subjects age 18-49.
+The efficacy and safety of levonorgestrel and ethinyl estradiol were studied in 2 one-year clinical trials of subjects age 18 to 49.
 There were no exclusions for body mass index (BMI), weight, or bleeding history.
 
 The primary efficacy and safety study (313-NA) was a one-year open-label clinical trial that treated 2,134 subjects in North America.
@@ -78,7 +78,7 @@ The efficacy of levonorgestrel and ethinyl estradiol was assessed by the number 
 Among subjects 35 years or less, there were 23 pregnancies (4 of these occurred during the interval 1 to 14 days after the last day of pill use) during 12,572 28-day pill packs of use.
 The resulting total Pearl Index was 2.38 (95% CI: 1.51, 3.57) and the one-year life table pregnancy rate was 2.39 (95% CI: 1.57, 3.62).
 Pill pack cycles during which subjects used back-up contraception or were not sexually active were not included in these calculations.
-Among women 35 years or less who took the pills completely as directed, there were 15 pregnancies (method failures) resulting in a Pearl Index of 1.55 (95% CI: 0.87, 2.56) and the one-year life table pregnancy rate was 1.59 (95% CI: 0.95-2.67).
+Among women 35 years or less who took the pills completely as directed, there were 15 pregnancies (method failures) resulting in a Pearl Index of 1.55 (95% CI: 0.87, 2.56) and the one-year life table pregnancy rate was 1.59 (95% CI: 0.95 to 2.67).
 
 In a second supportive study conducted in Europe (315-EU), 641 subjects were randomized to levonorgestrel and ethinyl estradiol (n=323) or the cyclic comparator of 0.1 mg levonorgestrel and 0.02 mg ethinyl estradiol (n=318).
 The mean weight of subjects in this study was 63.86 kg.

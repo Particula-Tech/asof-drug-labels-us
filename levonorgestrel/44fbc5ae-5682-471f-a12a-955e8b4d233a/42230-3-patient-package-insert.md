@@ -142,19 +142,12 @@ In addition, a possible but not definite association has been found with the pil
 However, liver cancers are extremely rare.
 The chance of developing liver cancer from using the pill is thus even rarer.
 
-### 5. Cancer of the Reproductive Organs and Breasts
+### 5. Risk of Cancer
 
-Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
+It is not known if hormonal birth control pills cause breast cancer.
+Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
 
-Oral contraceptive use may slightly increase your chance of having breast cancer diagnosed, particularly if you started using hormonal contraceptives at a younger age.
-
-After you stop using hormonal contraceptives, the chances of having breast cancer diagnosed begin to go down, and disappear 10 years after stopping use of the pill.
-It is not known whether this slightly increased risk of having breast cancer diagnosed is caused by the pill.
-It may be that women taking the pill were examined more often, so that breast cancer was more likely to be detected.
-
-You should have regular breast examinations by a health care professional and examine your own breasts monthly.
-Tell your health care professional if you have a family history of breast cancer or if you have had breast nodules or an abnormal mammogram.
-Women who currently have or have had breast cancer should not use oral contraceptives because breast cancer is usually a hormone-sensitive tumor.
+If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
 
 Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
 However, this finding may be related to factors other than the use of oral contraceptives.
@@ -265,14 +258,14 @@ Previously, a few studies had reported that oral contraceptives might be associa
 Nevertheless, oral contraceptives should not be used during pregnancy.
 You should check with your health care professional about risks to your unborn child of any medication taken during pregnancy.
 
-### 2. While Breast-Feeding
+### 2. While Breastfeeding
 
-If you are breast-feeding, consult your health care professional before starting oral contraceptives.
+If you are breastfeeding, consult your health care professional before starting oral contraceptives.
 Some of the drug will be passed on to the child in the milk.
 A few adverse effects on the child have been reported, including yellowing of the skin (jaundice) and breast enlargement.
 In addition, oral contraceptives may decrease the amount and quality of your milk.
-If possible, do not use oral contraceptives while breast-feeding.
-You should use another method of contraception since breast-feeding provides only partial protection from becoming pregnant and this partial protection decreases significantly as you breast-feed for longer periods of time.
+If possible, do not use oral contraceptives while breastfeeding.
+You should use another method of contraception since breastfeeding provides only partial protection from becoming pregnant and this partial protection decreases significantly as you breastfeed for longer periods of time.
 You should consider starting oral contraceptives only after you have weaned your child completely.
 
 ### 3. Laboratory Tests
@@ -345,13 +338,13 @@ Before You Start Taking levonorgestrel and ethinyl estradiol:
 
 1. 1.DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
    It is important to take your pill at the SAME TIME every day.
-2. 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER CARD.
+2. 2.LOOK AT YOUR LEVONORGESTREL AND ETHINYL ESTRADIOL BLISTER.
    The pill pack has 28 “active” brownish peach to light brown pills (with hormones).
-3. 3.Locate the top row of the blister card.
+3. 3.Locate the top row of the blister.
 4. 4.Pick the day label strip that starts with the first day of your period (this is the day you start bleeding or spotting, even if it is almost midnight when the bleeding begins).
-5. 5.Place the day label strip on the tablet blister card over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
+5. 5.Place the day label strip on the tablet blister over the area that has the days of the week (starting with Sunday) imprinted in the plastic.
 
-1. 1.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister card is empty.
+1. 1.When it comes time to take levonorgestrel and ethinyl estradiol, you will take each pill until the blister is empty.
 2. 2.BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF NONHORMONAL BIRTH CONTROL (such as condoms and/or spermicide) to use as a back-up in case you miss pills.
    AN EXTRA, FULL PILL PACK.
 
@@ -450,13 +443,13 @@ They have a more technical leaflet called the Professional Labeling which you ma
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd. Colvale-Bardez, Goa 403 513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma.com/usa
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-May 2017
+May 2022
