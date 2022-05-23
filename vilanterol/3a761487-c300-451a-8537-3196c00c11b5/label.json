@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204275"
+  ],
+  "inn": "vilanterol",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-135-97",
+    "66993-136-97"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone furoate and vilanterol",
+      "name": "Fluticasone Furoate and Vilanterol"
+    }
+  ],
+  "setid": "3a761487-c300-451a-8537-3196c00c11b5",
+  "source": "dailymed"
+}
