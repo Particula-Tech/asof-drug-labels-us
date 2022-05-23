@@ -1,4 +1,4 @@
-# Instructions for Use
+# STERILE OPHTHALMIC GEL FORMING SOLUTION TIMOPTIC-XE® 0.25% AND 0.5% (TIMOLOL MALEATE OPHTHALMIC GEL FORMING SOLUTION) Instructions for Use
 
 TIMOPTIC-XE® (tim-op´tik-XE)
 
@@ -69,4 +69,16 @@ You can ask your pharmacist or doctor for more information about TIMOPTIC-XE tha
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA TIMOPTIC and TIMOPTIC-XE are trademarks of Bausch & Lomb Incorporated or its affiliates. © 2021 Bausch & Lomb Incorporated or its affiliates Revised: 02/2021 9752800
+Distributed by: Bausch & Lomb Americas Inc.
+
+Bridgewater, NJ 08807 USA
+
+Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
+
+TIMOPTIC and TIMOPTIC-XE are trademarks of Bausch & Lomb Incorporated or its affiliates.
+
+© 2022 Bausch & Lomb Incorporated or its affiliates
+
+Revised: 03/2022
+
+9752801

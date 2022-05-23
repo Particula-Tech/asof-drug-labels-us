@@ -8,7 +8,7 @@ TIMOPTIC-XE® (Timolol Maleate Ophthalmic Gel Forming Solution) 0.25%
 
 Timolol Equivalent (Timolol Maleate 3.4 mg/mL equivalent to 2.5 mg/mL timolol)
 
-FOR TOPICAL APPLICATION IN THE EYE Rx only 5 mL BAUSCH + LOMB
+FOR TOPICAL APPLICATION IN THE EYE Rx only 5 mL BAUSCH + LOMB 9752501 AB44007
 
 # Package/Label Display Pane – 0.5% Carton
 
@@ -23,3 +23,5 @@ Timolol Equivalent (Timolol Maleate 6.8 mg/mL equivalent to 5 mg/mL timolol)
 FOR TOPICAL APPLICATION IN THE EYE
 
 Rx only 5 mL BAUSCH + LOMB
+
+9752701 AB44107

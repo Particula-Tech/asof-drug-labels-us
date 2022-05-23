@@ -47,7 +47,7 @@ If signs or symptoms suggesting reduced cerebral blood flow develop following in
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see PRECAUTIONS, Information for Patients].
 
-Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g. timolol).
+Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g., timolol).
 
 ### Angle-Closure Glaucoma
 
@@ -106,7 +106,7 @@ The concomitant use of beta-adrenergic blocking agents with digitalis and calciu
 
 ### CYP2D6 Inhibitors
 
-Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g. quinidine, SSRIs) and timolol.
+Potentiated systemic beta-blockade (e.g., decreased heart rate, depression) has been reported during combined treatment with CYP2D6 inhibitors (e.g., quinidine, SSRIs) and timolol.
 
 ### Clonidine
 
@@ -142,7 +142,7 @@ Reproduction and fertility studies in rats demonstrated no adverse effect on mal
 
 Teratogenicity studies with timolol in mice, rats, and rabbits at oral doses up to 50 mg/kg/day (7,000 times the systemic exposure following the maximum recommended human ophthalmic dose) demonstrated no evidence of fetal malformations.
 Although delayed fetal ossification was observed at this dose in rats, there were no adverse effects on postnatal development of offspring.
-Doses of 1000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
+Doses of 1,000 mg/kg/day (142,000 times the systemic exposure following the maximum recommended human ophthalmic dose) were maternotoxic in mice and resulted in an increased number of fetal resorptions.
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.
 
 There are no adequate and well-controlled studies in pregnant women.
