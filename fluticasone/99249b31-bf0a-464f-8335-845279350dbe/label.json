@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021433"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-078-96",
+    "66993-079-96",
+    "66993-080-96"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "fluticasone propionate",
+      "name": "Fluticasone Propionate"
+    }
+  ],
+  "setid": "99249b31-bf0a-464f-8335-845279350dbe",
+  "source": "dailymed"
+}
