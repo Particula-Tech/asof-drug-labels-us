@@ -3,8 +3,8 @@
 ## 5.1 Hemorrhage
 
 Fatal bleeding events have occurred in patients who received IMBRUVICA.
-Major hemorrhage (≥ Grade 3, serious, or any central nervous system events; e.g., intracranial hemorrhage [including subdural hematoma], gastrointestinal bleeding, hematuria, and post procedural hemorrhage) occurred in 4% of patients, with fatalities occurring in 0.4% of 2,838 patients who received IMBRUVICA in 27 clinical trials.
-Bleeding events of any grade including bruising and petechiae occurred in 39%, and excluding bruising and petechiae occurred in 23% of patients who received IMBRUVICA, respectively.
+Major hemorrhage (≥ Grade 3, serious, or any central nervous system events; e.g., intracranial hemorrhage [including subdural hematoma], gastrointestinal bleeding, hematuria, and post procedural hemorrhage) occurred in 4.2% of patients, with fatalities occurring in 0.4% of 2,838 patients who received IMBRUVICA in 27 clinical trials.
+Bleeding events of any grade including bruising and petechiae occurred in 39%, and excluding bruising and petechiae occurred in 23% of patients who received IMBRUVICA, respectively [see Adverse Reactions (6.1)].
 
 The mechanism for the bleeding events is not well understood.
 
@@ -24,38 +24,42 @@ Cases of progressive multifocal leukoencephalopathy (PML) and Pneumocystis jirov
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
 Monitor and evaluate patients for fever and infections and treat appropriately.
 
-## 5.3 Cytopenias
+## 5.3Cardiac Arrhythmias, Cardiac Failure, and Sudden Death
 
-In 645 patients with B-cell malignancies who received IMBRUVICA as a single agent, grade 3 or 4 neutropenia occurred in 23% of patients, grade 3 or 4 thrombocytopenia in 8% and grade 3 or 4 anemia in 3%, based on laboratory measurements.
+Fatal and serious cardiac arrhythmias and cardiac failure have occurred with IMBRUVICA.
+Deaths due to cardiac causes or sudden deaths occurred in 1% of 4,896 patients who received IMBRUVICA in clinical trials, including in patients who received IMBRUVICA in unapproved monotherapy or combination regimens.
+These adverse reactions occurred in patients with and without preexisting hypertension or cardiac comorbidities.
+Patients with cardiac comorbidities may be at greater risk of these events.
+
+Grade 3 or greater ventricular tachyarrhythmias were reported in 0.2%, Grade 3 or greater atrial fibrillation and atrial flutter were reported in 3.7%, and Grade 3 or greater cardiac failure was reported in 1.3% of 4,896 patients who received IMBRUVICA in clinical trials, including in patients who received IMBRUVICA in unapproved monotherapy or combination regimens.
+These events have occurred particularly in patients with cardiac risk factors including hypertension and diabetes mellitus, a previous history of cardiac arrhythmias, and in patients with acute infections [see Adverse Reactions (6.1)].
+
+Evaluate cardiac history and function at baseline, and monitor patients for cardiac arrhythmias and cardiac function.
+Obtain further evaluation (e.g., ECG, echocardiogram) as indicated for patients who develop symptoms of arrhythmia (e.g., palpitations, lightheadedness, syncope, chest pain), new onset dyspnea, or other cardiovascular concerns.
+Manage cardiac arrhythmias and cardiac failure appropriately, follow dose modification guidelines [see Dosage and Administration (2.2)], and consider the risks and benefits of continued IMBRUVICA treatment.
+
+## 5.4Hypertension
+
+Hypertension occurred in 19% of 1,476 patients who received IMBRUVICA in clinical trials.
+Grade 3 or greater hypertension occurred in 8% of patients [see Adverse Reactions (6.1)].
+Based on data from 1,124 of these patients, the median time to onset was 5.9 months (range, 0.03 to 24 months).
+
+Monitor blood pressure in patients treated with IMBRUVICA, initiate or adjust anti-hypertensive medication throughout treatment with IMBRUVICA as appropriate, and follow dosage modification guidelines for Grade 3 or higher hypertension [see Dosage and Administration (2.2)].
+
+## 5.5Cytopenias
+
+In 645 patients with B-cell malignancies who received IMBRUVICA as a single agent, grade 3 or 4 neutropenia occurred in 23% of patients, grade 3 or 4 thrombocytopenia in 8% and grade 3 or 4 anemia in 2.8%, based on laboratory measurements [see Adverse Reactions (6.1)].
 
 Monitor complete blood counts monthly.
 
-## 5.4 Cardiac Arrhythmias and Cardiac Failure
-
-Fatal and serious cardiac arrhythmias and cardiac failure have occurred with IMBRUVICA.
-Grade 3 or greater ventricular tachyarrhythmias occurred in 0.2% of patients, Grade 3 or greater atrial fibrillation and atrial flutter occurred in 4%, and Grade 3 or greater cardiac failure occurred in 1% of 1,476 patients who received IMBRUVICA in clinical trials.
-These events have occurred particularly in patients with cardiac risk factors, hypertension, acute infections, and a previous history of cardiac arrhythmias [see Adverse Reactions (6.1)].
-
-At baseline and then periodically, monitor patients clinically for cardiac arrhythmias and cardiac failure.
-Obtain an ECG for patients who develop arrhythmic symptoms (e.g., palpitations, lightheadedness, syncope, chest pain) or new onset dyspnea.
-Manage cardiac arrhythmias and cardiac failure appropriately, and if it persists, consider the risks and benefits of IMBRUVICA treatment and follow dose modification guidelines [see Dosage and Administration (2.2)].
-
-## 5.5 Hypertension
-
-Hypertension occurred in 19% of 1,476 patients who received IMBRUVICA in clinical trials.
-Grade 3 or greater hypertension occurred in 8% of patients.
-Based on data from 1,124 of these patients, the median time to onset was 5.9 months (range, 0.03 to 24 months).
-
-Monitor blood pressure in patients treated with IMBRUVICA and initiate or adjust anti-hypertensive medication throughout treatment with IMBRUVICA as appropriate.
-
 ## 5.6 Second Primary Malignancies
 
-Other malignancies (10%), including non-skin carcinomas (4%), occurred among the 1,476 patients who received IMBRUVICA in clinical trials.
+Other malignancies (10%), including non-skin carcinomas (3.9%), occurred among the 1,476 patients who received IMBRUVICA in clinical trials [see Adverse Reactions (6.1)].
 The most frequent second primary malignancy was non-melanoma skin cancer (6%).
 
 ## 5.7 Tumor Lysis Syndrome
 
-Tumor lysis syndrome has been infrequently reported with IMBRUVICA.
+Tumor lysis syndrome has been infrequently reported with IMBRUVICA [see Adverse Reactions (6.2)].
 Assess the baseline risk (e.g., high tumor burden) and take appropriate precautions.
 Monitor patients closely and treat as appropriate.
 

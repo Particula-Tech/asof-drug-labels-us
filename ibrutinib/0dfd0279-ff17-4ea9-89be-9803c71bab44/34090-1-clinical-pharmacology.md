@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Ibrutinib is a small-molecule inhibitor of BTK.
+Ibrutinib is a small-molecule inhibitor of Bruton’s tyrosine kinase (BTK).
 Ibrutinib forms a covalent bond with a cysteine residue in the BTK active site, leading to inhibition of BTK enzymatic activity.
 BTK is a signaling molecule of the B-cell antigen receptor (BCR) and cytokine receptor pathways.
 BTK’s role in signaling through the B-cell surface receptors results in activation of pathways necessary for B-cell trafficking, chemotaxis, and adhesion.

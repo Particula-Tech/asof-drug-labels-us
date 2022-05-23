@@ -6,6 +6,7 @@
   "inn": "ibrutinib",
   "labeler": "Pharmacyclics LLC",
   "package_ndcs": [
+    "57962-007-12",
     "57962-014-28",
     "57962-070-28",
     "57962-140-09",
@@ -19,6 +20,11 @@
   "products": [
     {
       "form": "CAPSULE",
+      "generic": "ibrutinib",
+      "name": "Imbruvica"
+    },
+    {
+      "form": "SUSPENSION",
       "generic": "ibrutinib",
       "name": "Imbruvica"
     },

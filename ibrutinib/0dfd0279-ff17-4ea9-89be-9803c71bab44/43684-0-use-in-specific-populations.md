@@ -36,6 +36,8 @@ Because of the potential for serious adverse reactions in the breastfed child, a
 
 ## 8.3 Females and Males of Reproductive Potential
 
+IMBRUVICA can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
 Verify pregnancy status in females of reproductive potential prior to initiating IMBRUVICA.
@@ -44,7 +46,6 @@ Contraception
 
 Females
 
-IMBRUVICA can cause fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month after the last dose.
 
 Males
@@ -53,7 +54,7 @@ Advise males with female partners of reproductive potential to use effective con
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of IMBRUVICA in pediatric patients has not been established.
+The safety and effectiveness of IMBRUVICA in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 

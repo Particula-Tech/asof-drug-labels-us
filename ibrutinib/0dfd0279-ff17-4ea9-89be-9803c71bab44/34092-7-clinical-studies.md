@@ -12,9 +12,9 @@ At baseline, 89% of patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 42 months, and median number of prior treatments was 3 (range, 1 to 5 treatments), including 11% with prior stem cell transplantation.
 At baseline, 39% of subjects had at least one tumor ≥ 5 cm, 49% had bone marrow involvement, and 54% had extranodal involvement at screening.
 
-Responses to IMBRUVICA are shown in Table 20.
+Responses to IMBRUVICA are shown in Table 22.
 
-Table 20: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL in Study 1104
+Table 22: Overall Response Rate (ORR) and Duration of Response (DOR) Based on Investigator Assessment in Patients with MCL in Study 1104
 
 |  | Total (N=111) |
 | --- | --- |
@@ -68,9 +68,9 @@ The median time since diagnosis was 91 months and the median number of prior tre
 At baseline, 58% of patients had at least one tumor ≥ 5 cm.
 Thirty-two percent of patients had 17p deletion.
 
-Efficacy results for RESONATE are shown in Table 21 and the Kaplan-Meier curves for PFS, assessed by an IRC according to IWCLL criteria, and OS are shown in Figure 1 and Figure 2, respectively.
+Efficacy results for RESONATE are shown in Table 23 and the Kaplan-Meier curves for PFS, assessed by an IRC according to IWCLL criteria, and OS are shown in Figure 1 and Figure 2, respectively.
 
-Table 21: Efficacy Results in Patients with CLL/SLL in RESONATE
+Table 23: Efficacy Results in Patients with CLL/SLL in RESONATE
 
 | Endpoint | IMBRUVICA N=195 | Ofatumumab N=196 |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ CI = confidence interval; HR = hazard ratio; NE = not evaluable
 
 63-Month Follow-Up
 
-With an overall follow-up of 63 months, the median investigator-assessed PFS per IWCLL criteria was 44.1 months [95% CI (38.5, 56.9)] in the IMBRUVICA arm and 8.1 months [95% CI (7.8, 8.3)] in the ofatumumab arm, respectively.
+With an overall follow-up of 63 months, the median investigator-assessed PFS per IWCLL criteria was 44.1 months [95% CI (38.5, 56.9)] in the IMBRUVICA arm and 8.1 months [95% CI (7.8, 8.3)] in the ofatumumab arm.
 Overall response rate as assessed by investigators was 87.2% in the IMBRUVICA arm versus 22.4% in the ofatumumab arm.
 
 CLL/SLL with 17p deletion (del 17p CLL/SLL) in RESONATE
@@ -103,9 +103,9 @@ RESONATE included 127 patients with del 17p CLL/SLL.
 The median age was 67 years (range, 30 to 84 years), 62% were male, and 88% were White.
 All patients had a baseline ECOG performance status of 0 or 1.
 PFS and ORR were assessed by an IRC.
-Efficacy results for del 17p CLL/SLL are shown in Table 22.
+Efficacy results for del 17p CLL/SLL are shown in Table 24.
 
-Table 22: Efficacy Results in Patients with del 17p CLL/SLL in RESONATE
+Table 24: Efficacy Results in Patients with del 17p CLL/SLL in RESONATE
 
 | Endpoint | IMBRUVICA N=63 | Ofatumumab N=64 |
 | --- | --- | --- |
@@ -124,7 +124,7 @@ CI = confidence interval; HR = hazard ratio; NE = not evaluable
 
 63-Month Follow-Up
 
-With an overall follow-up of 63 months, the median investigator-assessed PFS in patients with del 17p per IWCLL criteria was 40.6 months [95% CI (25.4, 44.6)] in the IMBRUVICA arm and 6.2 months [95% CI (4.6, 8.1)] in the ofatumumab arm, respectively.
+With an overall follow-up of 63 months, the median investigator-assessed PFS in patients with del 17p per IWCLL criteria was 40.6 months [95% CI (25.4, 44.6)] in the IMBRUVICA arm and 6.2 months [95% CI (4.6, 8.1)] in the ofatumumab arm.
 Overall response rate as assessed by investigators in patients with del 17p was 88.9% in the IMBRUVICA arm versus 18.8% in the ofatumumab arm.
 
 RESONATE-2
@@ -141,9 +141,9 @@ The most common reasons for initiating CLL therapy include: progressive marrow f
 With a median follow-up of 28.1 months, there were 32 observed death events [11 (8.1%) and 21 (15.8%) in IMBRUVICA and chlorambucil treatment arms, respectively].
 With 41% of patients switching from chlorambucil to IMBRUVICA, the overall survival analysis in the ITT patient population resulted in a statistically significant HR of 0.44 [95% CI (0.21, 0.92)] and 2-year survival rate estimates of 94.7% [95% CI (89.1, 97.4)] and 84.3% [95% CI (76.7, 89.6)] in the IMBRUVICA and chlorambucil arms, respectively.
 
-Efficacy results for RESONATE-2 are shown in Table 23 and the Kaplan-Meier curve for PFS, assessed by an IRC according to IWCLL criteria is shown in Figure 3.
+Efficacy results for RESONATE-2 are shown in Table 25 and the Kaplan-Meier curve for PFS, assessed by an IRC according to IWCLL criteria is shown in Figure 3.
 
-Table 23: Efficacy Results in Patients with CLL/SLL in RESONATE-2
+Table 25: Efficacy Results in Patients with CLL/SLL in RESONATE-2
 
 | Endpoint | IMBRUVICA N=136 | Chlorambucil N=133 |
 | --- | --- | --- |
@@ -177,9 +177,9 @@ All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 5.9 years and the median number of prior treatments was 2 (range, 1 to 11 treatments).
 At baseline, 56% of patients had at least one tumor > 5 cm and 26% presented with del11q.
 
-Efficacy results for HELIOS are shown in Table 24 and the Kaplan-Meier curves for PFS are shown in Figure 4.
+Efficacy results for HELIOS are shown in Table 26 and the Kaplan-Meier curves for PFS are shown in Figure 4.
 
-Table 24: Efficacy Results in Patients with CLL/SLL in HELIOS
+Table 26: Efficacy Results in Patients with CLL/SLL in HELIOS
 
 | Endpoint | IMBRUVICA + BR N=289 | Placebo + BR N=289 |
 | --- | --- | --- |
@@ -207,9 +207,9 @@ The trial enrolled 214 patients with CLL and 15 patients with SLL.
 At baseline, 65% of patients presented with CLL/SLL with high risk factors (del 17p/TP53 mutation [18%], del 11q [15%], or unmutated immunoglobulin heavy-chain variable region (unmutated IGHV) [54%]).
 The most common reasons for initiating CLL therapy included: lymphadenopathy (38%), night sweats (34%), progressive marrow failure (31%), fatigue (29%), splenomegaly (25%), and progressive lymphocytosis (21%).
 
-With a median follow-up time on study of 31 months, efficacy results for iLLUMINATE assessed by an IRC according to IWCLL criteria are shown in Table 25, and the Kaplan-Meier curve for PFS is shown in Figure 5.
+With a median follow-up time on study of 31 months, efficacy results for iLLUMINATE assessed by an IRC according to IWCLL criteria are shown in Table 27, and the Kaplan-Meier curve for PFS is shown in Figure 5.
 
-Table 25: Efficacy Results in Patients with CLL/SLL in iLLUMINATE
+Table 27: Efficacy Results in Patients with CLL/SLL in iLLUMINATE
 
 | Endpoint | IMBRUVICA + Obinutuzumab N=113 | Chlorambucil + Obinutuzumab N=116 |
 | --- | --- | --- |
@@ -250,10 +250,10 @@ Each cycle was 28 days.
 The median age was 58 years (range, 28 to 70 years), 67% were male, 90% were White and 98% had a ECOG performance status of 0-1.
 At baseline, 43% of patients were Rai stage 3 or 4 and 59% of patients presented with high risk factors (TP53 mutation [6%], del11q [22%], or unmutated IGHV [53%]).
 
-With a median follow-up time on study of 37 months, efficacy results for E1912 are shown in Table 26.
+With a median follow-up time on study of 37 months, efficacy results for E1912 are shown in Table 28.
 The Kaplan-Meier curves for PFS, assessed according to IWCLL criteria is shown in Figure 6.
 
-Table 26: Efficacy Results in Patients with CLL/SLL in E1912
+Table 28: Efficacy Results in Patients with CLL/SLL in E1912
 
 | Endpoint | IMBRUVICA + R N=354 | FCR N=175 |
 | --- | --- | --- |
@@ -292,9 +292,9 @@ All patients had a baseline ECOG performance status of 0 or 1.
 The median time since diagnosis was 74 months, and the median number of prior treatments was 2 (range, 1 to 11 treatments).
 At baseline, the median serum IgM value was 3.5 g/dL (range, 0.7 to 8.4 g/dL).
 
-Responses, defined as partial response or better, per IRC are shown in Table 27.
+Responses, defined as partial response or better, per IRC are shown in Table 29.
 
-Table 27: Response Rate and Duration of Response (DOR) Based on IRC Assessment in Patients with WM in Study 1118
+Table 29: Response Rate and Duration of Response (DOR) Based on IRC Assessment in Patients with WM in Study 1118
 
 |  | Total (N=63) |
 | --- | --- |
@@ -330,9 +330,9 @@ At baseline, the median serum IgM value was 3.2 g/dL (range, 0.6 to 8.3 g/dL), a
 
 An exploratory analysis demonstrated a sustained hemoglobin improvement (defined as increase of ≥ 2 g/dL over baseline for at least 8 weeks without blood transfusions or growth factor support) in 65% of patients in the IMBRUVICA + R group and 39% of patients in the placebo + R group.
 
-With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for INNOVATE are shown in Table 28, and the Kaplan-Meier curves for PFS are shown in Figure 7.
+With an overall follow-up of 63 months, efficacy results as assessed by an IRC at the time of the final analysis for INNOVATE are shown in Table 30, and the Kaplan-Meier curves for PFS are shown in Figure 7.
 
-Table 28: Efficacy Results in Patients with WM by IRC in INNOVATE (Final Analysis)
+Table 30: Efficacy Results in Patients with WM by IRC in INNOVATE (Final Analysis)
 
 | Endpoint | IMBRUVICA + R N=75 | Placebo + R N=75 |
 | --- | --- | --- |
@@ -369,9 +369,9 @@ The median age was 66 years (range, 30 to 92 years), 59% were female, and 84% we
 Ninety two percent of patients had a baseline ECOG performance status of 0 or 1 and 8% had ECOG performance status 2.
 The median time since diagnosis was 3.8 years, and the median number of prior treatments was 2 (range, 1 to 9 treatments).
 
-Responses per IRC are shown in Table 29.
+Responses per IRC are shown in Table 31.
 
-Table 29: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with MZL in Study 1121
+Table 31: Overall Response Rate (ORR) and Duration of Response (DOR) Based on IRC Assessment in Patients with MZL in Study 1121
 
 |  | Total (N=63) |
 | --- | --- |
@@ -398,9 +398,9 @@ The majority of patients (88 %) had at least 2 organs involved at baseline, with
 The median daily corticosteroid dose (prednisone or prednisone equivalent) at baseline was 0.3 mg/kg/day, and 52% of patients were receiving ongoing immunosuppressants in addition to systemic corticosteroids at baseline.
 Prophylaxis for infections were managed per institutional guidelines with 79% of patients receiving combinations of sulfonamides and trimethoprim and 64% receiving triazole derivatives.
 
-Efficacy results are shown in Table 30.
+Efficacy results are shown in Table 32.
 
-Table 30: Best Overall Response Rate (ORR) and Sustained Response Rate Based on Investigator Assessmenta in Patients with cGVHD in Study 1129
+Table 32: Best Overall Response Rate (ORR) and Sustained Response Rate Based on Investigator Assessmenta in Patients with cGVHD in Study 1129
 
 |  | Total (N=42) |
 | --- | --- |

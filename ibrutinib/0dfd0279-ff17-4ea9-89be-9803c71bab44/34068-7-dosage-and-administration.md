@@ -34,24 +34,36 @@ Do not take extra doses of IMBRUVICA to make up for the missed dose.
 
 ## 2.2 Dosage Modifications for Adverse Reactions
 
-Interrupt IMBRUVICA therapy for any Grade 3 or 4 non-hematological toxicities, Grade 3 or 4 neutropenia with infection or fever, or Grade 4 hematological toxicities.
-Once the adverse reaction has improved to Grade 1 or baseline (recovery), IMBRUVICA may be reinitiated at the starting dose.
-If the adverse reaction reoccurs, reduce dose by 140 mg per day.
-Consider a second reduction of dose by 140 mg as needed.
-If these adverse reactions persist or recur following two dose reductions, discontinue IMBRUVICA.
+For adverse reactions listed in Table 1, interrupt IMBRUVICA therapy.
+Once the adverse reaction has improved to Grade 1 or baseline (recovery), follow the recommended dosage modifications (see Table 1).
 
-Recommended dose modifications are described below:
+Table 1: Recommended Dosage Modifications for Adverse Reactions
 
-| Toxicity Occurrence | Dose Modification for MCL and MZL After Recovery Starting Dose = 560 mg | Dose Modification for CLL/SLL, WM, and cGVHD After Recovery Starting Dose = 420 mg |
-| --- | --- | --- |
-| First | Restart at 560 mg daily | Restart at 420 mg daily |
-| Second | Restart at 420 mg daily | Restart at 280 mg daily |
-| Third | Restart at 280 mg daily | Restart at 140 mg daily |
-| Fourth | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Adverse Reactiona,b | Occurrence | Dose Modification for MCL and MZL After Recovery Starting Dose = 560 mg | Dose Modification for CLL/SLL, WM, and cGVHD After Recovery Starting Dose = 420 mg |
+| --- | --- | --- | --- |
+| Grade 2 cardiac failure | First | Restart at 420 mg dailyc | Restart at 280 mg dailyc |
+|  | Second | Restart at 280 mg dailyc | Restart at 140 mg dailyc |
+|  | Third | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Grade 3 cardiac arrhythmias | First | Restart at 420 mg dailyc | Restart at 280 mg dailyc |
+|  | Second | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Other Grade 3 or 4 non-hematological toxicitiesd Grade 3 or 4 neutropenia with infection or fever Grade 4 hematological toxicities | First | Restart at 420 mg daily | Restart at 280 mg daily |
+|  | Second | Restart at 280 mg daily | Restart at 140 mg daily |
+|  | Third | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+
+a See Warnings and Precautions (5).
+
+b Grading based on National Cancer Institute-Common Terminology Criteria for Adverse Events (NCI-CTCAE) criteria, or International Workshop on Chronic Lymphocytic Leukemia (iwCLL) criteria for hematologic toxicities in CLL/SLL.
+
+c Evaluate the benefit-risk before resuming treatment.
+
+d For Grade 4 non-hematologic toxicities, evaluate the benefit-risk before resuming treatment.
 
 ## 2.3 Dosage Modifications for Use with CYP3A Inhibitors
 
 Recommended dosage modifications are described below [see Drug Interactions (7.1)]:
+
+Table 2: Recommended Dosage Modifications for Use with CYP3A Inhibitors
 
 | Patient Population | Coadministered Drug | Recommended IMBRUVICA Dosage |
 | --- | --- | --- |
