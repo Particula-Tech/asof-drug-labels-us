@@ -61,3 +61,33 @@ Rx only NDC 0409-4699-33 Contains 20 of NDC 0409-4699-53
 
 Propofol should be administered only by persons trained in the administration of general anesthesia and not involved in the conduct of the surgical/diagnostic procedure.
 Facilities for maintenance of a patent airway, artificial ventilation, and oxygen enrichment and circulatory resuscitation must be immediately available.
+
+# PRINCIPAL DISPLAY PANEL - 20 mL Vial Label - 6010
+
+20 mL For Single Patient Use Only
+
+PROPOFOL Injectable Emulsion, USP 200 mg/20 mL (10 mg/mL)
+
+CONTAINS BENZYL ALCOHOL FOR INTRAVENOUS ADMINISTRATION
+
+SHAKE WELL BEFORE USING.
+
+Hospira
+
+# PRINCIPAL DISPLAY PANEL - 20 mL Vial Tray
+
+25 x 20 mL Vials For Single Patient Use Only
+
+PROPOFOL Injectable Emulsion, USP 200 mg/20 mL (10 mg/mL)
+
+CONTAINS BENZYL ALCOHOL FOR INTRAVENOUS ADMINISTRATION
+
+Hospira
+
+- CONTAINS BENZYL ALCOHOL, which inhibits microbial growth up to 12 hours, discard within 12 hours of opening
+- Use strict aseptic technique
+
+Rx only NDC 0409-6010-25 Contains 25 of NDC 0409-6010-02
+
+Propofol should be administered only by persons trained in the administration of general anesthesia and not involved in the conduct of the surgical/diagnostic procedure.
+Facilities for maintenance of a patent airway, artificial ventilation, and oxygen enrichment and circulatory resuscitation must be immediately available.
