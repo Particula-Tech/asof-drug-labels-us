@@ -6,7 +6,7 @@
 
 Published epidemiological studies on the association between ondansetron use and major birth defects have reported inconsistent findings and have important methodological limitations that preclude conclusions about the safety of ondansetron use in pregnancy [see Data].
 Available postmarketing data have not identified a drug-associated risk of miscarriage or adverse maternal outcomes.
-Reproductive studies in rats and rabbits did not show evidence of harm to the fetus when ondansetron was administered intravenously during organogenesis at approximately 3.6 and 2.9 times the maximum recommended human intravenous dose of 0.15 mg/kg given three times a day, based on body surface area, respectively [see Data].
+Reproductive studies in rats and rabbits did not show evidence of harm to the fetus when ondansetron was administered intravenously during organogenesis at approximately 3.6 and 2.9 times the maximum recommended human intravenous dose of 0.15 mg/kg given three times a day, based on body surface area (BSA), respectively [see Data].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, miscarriages, or other adverse outcomes.
@@ -33,7 +33,7 @@ Animal Data
 
 In embryo-fetal development studies in rats and rabbits, pregnant animals received intravenous doses of ondansetron up to 10 mg/kg/day and 4 mg/kg/day, respectively, during the period of organogenesis.
 With the exception of short periods of maternal weight loss and a slight increase in the incidence of early uterine deaths at the high dose level in rabbits, there were no significant effects of ondansetron on the maternal animals or the development of the offspring.
-At doses of 10 mg/kg/day in rats and 4 mg/kg/day in rabbits, the maternal exposure margin was approximately 3.6 and 2.9 times the maximum recommended human oral dose of 0.15 mg/kg given three times a day, respectively, based on body surface area.
+At doses of 10 mg/kg/day in rats and 4 mg/kg/day in rabbits, the maternal exposure margin was approximately 3.6 and 2.9 times the maximum recommended human oral dose of 0.15 mg/kg given three times a day, respectively, based on BSA.
 
 No intravenous pre- and post-natal developmental toxicity study was performed with ondansetron.
 In an oral pre- and post-natal development study pregnant rats received oral doses of ondansetron up to 15 mg/kg/day from Day 17 of pregnancy to litter Day 21.

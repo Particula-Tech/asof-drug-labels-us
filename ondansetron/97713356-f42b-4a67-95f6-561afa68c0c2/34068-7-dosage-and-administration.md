@@ -28,7 +28,7 @@ Caution: Dilution of Ondansetron Injection is required in adult and pediatric pa
 
 Infuse intravenously over 15 minutes beginning 30 minutes before the start of emetogenic chemotherapy and then repeat 4 and 8 hours after the first dose.
 
-## 2.2 Prevention of Postoperative Nausea and Vomiting
+## 2.2 Prevention of Postoperative Nausea and/or Vomiting
 
 Important Preparation Instructions
 
@@ -41,7 +41,7 @@ Dosage and Administration
 The recommended dose and administration instructions for adult and pediatric patients 1 month of age and older for prevention of postoperative nausea and vomiting are shown in Table 1.
 
 Table 1.
-Recommended Dose and Administration of Ondansetron Injection for Prevention of Postoperative Nausea and Vomiting
+Recommended Dose and Administration of Ondansetron Injection for Prevention of Postoperative Nausea and/or Vomiting
 
 | Population | RecommendedSingle Dose | Administration Instructions | Timing ofAdministration |
 | --- | --- | --- | --- |

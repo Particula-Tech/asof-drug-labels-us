@@ -36,8 +36,8 @@ Pharmacokinetics in Normal Adult Volunteers
 Absorption
 
 A trial was performed in normal volunteers (n = 56) to evaluate the pharmacokinetics of a single 4-mg dose administered as a 5-minute infusion compared with a single intramuscular injection.
-Systemic exposure as measured by mean area under curve (AUC) were equivalent, with values of 156 [95% CI:136, 180] and 161 [95% CI: 137, 190] ng•h/mL for intravenous and intramuscular groups, respectively.
-Mean peak plasma concentrations were 42.9 [95% CI: 33.8, 54.4] ng/mL at 10 minutes after intravenous infusion and 31.9 [95% CI: 26.3, 38.6] ng/mL at 41 minutes after intramuscular injection.
+Systemic exposure as measured by mean area under curve (AUC) were equivalent, with values of 156 [95% CI 136, 180] and 161 [95% CI 137, 190] ng•h/mL for intravenous and intramuscular groups, respectively.
+Mean peak plasma concentrations were 42.9 [95% CI 33.8, 54.4] ng/mL at 10 minutes after intravenous infusion and 31.9 [95% CI 26.3, 38.6] ng/mL at 41 minutes after intramuscular injection.
 
 Distribution
 

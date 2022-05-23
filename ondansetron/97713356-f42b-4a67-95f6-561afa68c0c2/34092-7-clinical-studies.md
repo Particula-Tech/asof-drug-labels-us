@@ -2,20 +2,20 @@
 
 The clinical efficacy of ondansetron hydrochloride, the active ingredient of Ondansetron Injection, was assessed in clinical trials as described below.
 
-## 14.1 Chemotherapy-induced Nausea and Vomiting
+## 14.1 Chemotherapy-Induced Nausea and Vomiting
 
 Adults
 
 In a double-blind trial of three different dosing regimens of Ondansetron Injection, 0.015 mg/kg, 0.15 mg/kg, and 0.30 mg/kg, each given three times during the course of cancer chemotherapy, the 0.15-mg/kg dosing regimen was more effective than the 0.015-mg/kg dosing regimen.
 The 0.30-mg/kg dosing regimen was not shown to be more effective than the 0.15-mg/kg dosing regimen.
 
-Cisplatin-based Chemotherapy: In a double-blind trial in 28 patients, Ondansetron Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
+Cisplatin-Based Chemotherapy: In a double-blind trial in 28 patients, Ondansetron Injection (three 0.15-mg/kg doses) was significantly more effective than placebo in preventing nausea and vomiting induced by cisplatin-based chemotherapy.
 Therapeutic response was as shown in Table 7.
 
 Table 7.
 Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-day Cisplatin Therapya in Adults
 
-|  | Ondansetron Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
+|  | Ondansetron Injection (0.15 mg/kg x 3) | Placebo | P-Valueb |
 | --- | --- | --- | --- |
 | Number of patients | 14 | 14 |  |
 | Treatment response |  |  |  |
@@ -42,7 +42,7 @@ The results of this trial are summarized in Table 8.
 Table 8.
 Therapeutic Response in Prevention of Vomiting Induced by Cisplatin (≥100 mg/m2) Single-day Therapya in Adults
 
-|  | Ondansetron Injection 0.15 mg/kg x 3 | Metoclopramide 2 mg/kg x 6 | P Value |
+|  | Ondansetron Injection 0.15 mg/kg x 3 | Metoclopramide 2 mg/kg x 6 | P-Value |
 | --- | --- | --- | --- |
 | Number of patients in efficacy population | 136 | 138 |  |
 | Treatment response 0 Emetic episodes 1-2 Emetic episodes 3-5 Emetic episodes More than 5 emetic episodes/rescued | 54 (40%) 34 (25%) 19 (14%) 29 (21%) | 41 (30%) 30 (22%) 18 (13%) 49 (36%) |  |
@@ -56,13 +56,13 @@ Therapeutic Response in Prevention of Vomiting Induced by Cisplatin (≥100 mg/m
 a In addition to cisplatin, 68% of patients received other chemotherapeutic agents, including cyclophosphamide, etoposide, and fluorouracil.
 There was no difference between treatments in the types of chemotherapy that would account for differences in response. b Visual analog scale assessment: 0 = not at all satisfied, 100 = totally satisfied.
 
-Cyclophosphamide-based Chemotherapy: In a double-blind, placebo-controlled trial of Ondansetron Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, Ondansetron Injection was significantly more effective than placebo in preventing nausea and vomiting.
+Cyclophosphamide-Based Chemotherapy: In a double-blind, placebo-controlled trial of Ondansetron Injection (three 0.15-mg/kg doses) in 20 patients receiving cyclophosphamide (500 to 600 mg/m2) chemotherapy, Ondansetron Injection was significantly more effective than placebo in preventing nausea and vomiting.
 The results are summarized in Table 9.
 
 Table 9.
 Therapeutic Response in Prevention of Chemotherapy-Induced Nausea and Vomiting in Single-day Cyclophosphamide Therapya in Adults
 
-|  | Ondansetron Injection (0.15 mg/kg x 3) | Placebo | P Valueb |
+|  | Ondansetron Injection (0.15 mg/kg x 3) | Placebo | P-Valueb |
 | --- | --- | --- | --- |
 | Number of patients | 10 | 10 |  |
 | Treatment response |  |  |  |
@@ -107,9 +107,9 @@ Ondansetron Injection (4 mg) intravenous given over 2 to 5 minutes was significa
 The results of these trials are summarized in Table 10.
 
 Table 10.
-Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Adult Patients
+Therapeutic Response in Prevention of Postoperative Nausea and/or Vomiting in Adult Patients
 
-|  | Ondansetron 4 mg Intravenous | Placebo | P Value |
+|  | Ondansetron 4 mg Intravenous | Placebo | P-Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
 | Emetic episodes: Number of patients | 136 | 139 |  |
@@ -144,9 +144,9 @@ Ondansetron was significantly more effective than placebo in preventing nausea a
 The results of these trials are summarized in Table 11.
 
 Table 11.
-Therapeutic Response in Prevention of Postoperative Nausea and Vomiting in Pediatric Patients Aged 2 to 12 Years
+Therapeutic Response in Prevention of Postoperative Nausea and/or Vomiting in Pediatric Patients Aged 2 to 12 Years
 
-| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
+| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P-Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
 | Number of patients | 205 | 210 |  |
@@ -172,7 +172,7 @@ A single 0.1-mg/kg intravenous dose of ondansetron administered within 5 minutes
 In the placebo group, 28% of patients experienced vomiting compared with 11% of subjects who received ondansetron (P ≤0.01).
 Overall, 32 (10%) of placebo patients and 18 (5%) of patients who received ondansetron received antiemetic rescue medication(s) or prematurely withdrew from the trial.
 
-## 14.3 Prevention of Further Postoperative Nausea and Vomiting
+## 14.3 Prevention of Further Postoperative Nausea and/or Vomiting
 
 Adults
 
@@ -181,9 +181,9 @@ Patients who experienced an episode of postoperative nausea and/or vomiting were
 The results of these trials are summarized in Table 12.
 
 Table 12.
-Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Adult Patients
+Therapeutic Response in Prevention of Further Postoperative Nausea and/or Vomiting in Adult Patients
 
-|  | Ondansetron 4 mg Intravenous | Placebo | P Value |
+|  | Ondansetron 4 mg Intravenous | Placebo | P-Value |
 | --- | --- | --- | --- |
 | Study 1 |  |  |  |
 | Emetic episodes: Number of patients | 104 | 117 |  |
@@ -218,9 +218,9 @@ Ondansetron was significantly more effective than placebo in preventing further 
 The results of the trial are summarized in Table 13.
 
 Table 13.
-Therapeutic Response in Prevention of Further Postoperative Nausea and Vomiting in Pediatric Patients Aged 2 to 12 Years
+Therapeutic Response in Prevention of Further Postoperative Nausea and/or Vomiting in Pediatric Patients Aged 2 to 12 Years
 
-| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P Value |
+| Treatment Response Over 24 Hours | Ondansetron n (%) | Placebo n (%) | P-Value |
 | --- | --- | --- | --- |
 | Number of patients | 180 | 171 |  |
 | 0 Emetic episodes | 96 (53%) | 29 (17%) | ≤ 0.001 |
