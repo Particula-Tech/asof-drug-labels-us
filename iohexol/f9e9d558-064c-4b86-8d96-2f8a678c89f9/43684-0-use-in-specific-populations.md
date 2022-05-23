@@ -69,7 +69,7 @@ Urography
 The safety and effectiveness of OMNIPQUE 300 have been established in pediatric patients from birth to 17 years of age for urography.
 Use of OMNIPAQUE 300 is supported by controlled clinical studies in adults for urography, in addition to controlled clinical studies in pediatric patients undergoing urography and clinical safety data in pediatric patients down to birth.
 
-Oral or Rectal Use.
+Oral or Rectal Use
 
 Undiluted OMNIPAQUE Injection
 

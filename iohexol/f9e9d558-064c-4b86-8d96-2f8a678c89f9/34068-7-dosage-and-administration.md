@@ -2,22 +2,22 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-1. OMNIPAQUE 140, 180, 240, 300 and 350 are indicated for intravascular, oral, rectal, intraarticular, and body cavity administration.
-   OMNIPAQUE 180, 240, and 300 are indicated for intrathecal administration [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)].
-2. Use sterile technique for all handling and administration of OMNIPAQUE for intravascular, intrathecal, intraarticular, and body cavity administration.
-3. OMNIPAQUE oral solution 9 and 12 are indicated for oral use only [see Contraindications (4) and Warnings and Precautions (5.2)].
-4. Do not use if tamper-evident ring is broken or missing.
-5. OMNIPAQUE injection may be administered at either body (37°C) or room temperature.
-6. Inspect OMNIPAQUE injection for particulate matter or discoloration before administration, whenever solution and container permit.
-   Do not administer if OMNIPAQUE injection contains particulate matter or is discolored.
-7. Do not mix OMNIPAQUE injection with, or inject in intravenous lines containing, other drugs or total nutritional admixtures.
-8. Use the lowest dose necessary to obtain adequate visualization.
-9. Individualize the volume, strength, and rate of administration of OMNIPAQUE injection.
-   Consider factors such as age, body weight, vessel size, blood flow rate within the vessel, anticipated pathology, degree and extent of opacification required, structures or area to be examined, disease processes affecting the patient, and equipment and technique to be employed.
-10. Avoid extravasation when administering OMNIPAQUE injection intravascularly, especially in patients with severe arterial or venous disease [see Warnings and Precautions (5.6)].
-11. Hydrate patients before and after intravascular administration of OMNIPAQUE injection [see Warnings and Precautions (5.4)].
-12. Each bottle of OMNIPAQUE injection and oral solution is intended for one procedure only.
-    Discard any unused portion.
+- OMNIPAQUE 140, 180, 240, 300 and 350 are indicated for intravascular, oral, rectal, intraarticular, and body cavity administration.
+  OMNIPAQUE 180, 240, and 300 are indicated for intrathecal administration [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)].
+- Use sterile technique for all handling and administration of OMNIPAQUE for intravascular, intrathecal, intraarticular, and body cavity administration.
+- OMNIPAQUE oral solution 9 and 12 are indicated for oral use only [see Contraindications (4) and Warnings and Precautions (5.2)].
+- Do not use if tamper-evident ring is broken or missing.
+- OMNIPAQUE injection may be administered at either body (37°C) or room temperature.
+- Inspect OMNIPAQUE injection for particulate matter or discoloration before administration, whenever solution and container permit.
+  Do not administer if OMNIPAQUE injection contains particulate matter or is discolored.
+- Do not mix OMNIPAQUE injection with, or inject in intravenous lines containing, other drugs or total nutritional admixtures.
+- Use the lowest dose necessary to obtain adequate visualization.
+- Individualize the volume, strength, and rate of administration of OMNIPAQUE injection.
+  Consider factors such as age, body weight, vessel size, blood flow rate within the vessel, anticipated pathology, degree and extent of opacification required, structures or area to be examined, disease processes affecting the patient, and equipment and technique to be employed.
+- Avoid extravasation when administering OMNIPAQUE injection intravascularly, especially in patients with severe arterial or venous disease [see Warnings and Precautions (5.6)].
+- Hydrate patients before and after intravascular administration of OMNIPAQUE injection [see Warnings and Precautions (5.4)].
+- Each bottle of OMNIPAQUE injection and oral solution is intended for one procedure only.
+  Discard any unused portion.
 
 ## 2.2 Intrathecal Dosage and Administration
 
@@ -117,7 +117,7 @@ TABLE 10 DIGITAL SUBTRACTION ANGIOGRAPHY HEAD, NECK, ABDOMINAL, RENAL AND PERIPH
 
 TABLE 11 CT SCANNING OF THE HEAD AND BODY
 
-| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUME (mL) |
+| PATIENT POPULATION | CONCENTRATION (mg iodine/mL) | VOLUMEOMNIPAQUE may be used with an automated contrast injection system or contrast management system cleared for use with OMNIPAQUE [see Dosage and Administration (2.8)]. See device labeling for device indications, additional information, and instructions for use. (mL) |
 | --- | --- | --- |
 | Adults | OMNIPAQUE 240, 300 and 350 | Head and body imaging by rapid injection CT Imaging – Head: 70 mL to 150 mL of OMNIPAQUE 30080 mL of OMNIPAQUE 350 CT Imaging – Body: 50 mL to 200 mL of OMNIPAQUE 30060 mL to 100 mL of OMNIPAQUE 350 Head imaging by infusion CT Imaging – Head: 120 mL to 250 mL of OMNIPAQUE 240 |
 | Pediatrics | OMNIPAQUE 240 and 300 | CT Imaging – Head and Body: 1 mL/kg to 2 mL/kg (with maximum = 3 mL/kg)Maximum single dose = 116 mL |
@@ -177,8 +177,9 @@ TABLE 16 INTRAVENOUS ADMINISTRATION OF OMNIPAQUE INJECTION FOR CT OF THE ABDOMEN
 
 | PATIENT POPULATION | INTRAVENOUS CONCENTRATION (mg iodine/mL) | INTRAVENOUS VOLUME (mL) | ADMINISTRATION INSTRUCTIONS |
 | --- | --- | --- | --- |
-| Adults | OMNIPAQUE 300 | The recommended dose is: 100 to 150 mL | Administer up to 40 minutes AFTER consumption of the oral dose |
+| Adults | OMNIPAQUE 300 | The recommended dose is: 100 mL to 150 mL | Administer up to 40 minutes AFTER consumption of the oral dose |
 | Pediatrics | OMNIPAQUE 240 and 300 | The recommended dose is: 2 mL/kg with a range of 1 mL/kg to 2 mL/kg (maximum 3 mL/kg) | Administer up to 60 minutes AFTER consumption of the oral dose |
+| *OMNIPAQUE may be used with an automated contrast injection system or contrast management system cleared for use with OMNIPAQUE [see Dosage and Administration (2.8)]. See device labeling for device indications, additional information, and instructions for use. |  |  |  |
 
 ## 2.6 Intraarticular Dosage and Administration
 
@@ -226,7 +227,7 @@ TABLE 21 VOIDING CYSTOURETHROGRAPHY (VCU) (CAN BE PERFORMED IN CONJUNCTION WITH 
 TABLE 22 PROCEDURE FOR PREPARATION OF DILUTEDDilutions of OMNIPAQUE should be prepared just prior to use and any unused portion discarded after the procedure.
 OMNIPAQUE INJECTION FOR VCU
 
-| Final iodine Concentration of Diluted Contrast Agent (mg iodine/mL) | Volume of OMNIPAQUE 240 (mL) | Volume of Sterile Water for Injection (mL) | Volume of OMNIPAQUE 300 (mL) | Volume of Sterile Water for Injection (mL) | Volume of OMNIPAQUE 350 (mL) | Volume of Sterile Water for Injection (mL) |
+| Final Iodine Concentration of Diluted Contrast Agent (mg iodine/mL) | Volume of OMNIPAQUE 240 (mL) | Volume of Sterile Water for Injection (mL) | Volume of OMNIPAQUE 300 (mL) | Volume of Sterile Water for Injection (mL) | Volume of OMNIPAQUE 350 (mL) | Volume of Sterile Water for Injection (mL) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 100 | 100 | 140 | 100 | 200 | 100 | 250 |
 | 90 | 167 | 233 | 289 |  |  |  |
@@ -234,3 +235,17 @@ OMNIPAQUE INJECTION FOR VCU
 | 70 | 243 | 330 | 400 |  |  |  |
 | 60 | 300 | 400 | 483 |  |  |  |
 | 50 | 380 | 500 | 600 |  |  |  |
+
+## 2.8 Instructions for Use with an Automated Contrast Injection System or Contrast Management System for CT of the Head and Body
+
+- OMNIPAQUE may be used with an automated contrast injection system cleared for use with contrast media.
+  - See above Important Dosage and Administration Instructions for OMNIPAQUE (2.1).
+  - See device labeling for information on device indications, instructions for use, and techniques to help assure safe use.
+- OMNIPAQUE 300 mg iodine/mL and 350 mg iodine/mL in 150 mL bottles may be used with a contrast media management system cleared for use with OMNIPAQUE 300 mg iodine/mL and 350 mg iodine/mL in 150 mL bottles.
+  - See device labeling for information on device indications, instructions for use, and techniques to help assure safe use.
+  - Use sterile technique for penetrating the container closure of OMNIPAQUE 300 and 350 and transferring OMNIPAQUE solution.
+    The container closure may be penetrated only one time with a suitable sterile component of the contrast media management system cleared for use with OMNIPAQUE 300 and 350 in 150 mL bottles.
+  - Once the OMNIPAQUE 300 and 350 Injection is punctured, do not remove the bottle from the work area during the entire period of use.
+  - Maximum use time is 4 hours after initial puncture.
+  - Each bottle is for one procedure only.
+    Discard unused portion.
