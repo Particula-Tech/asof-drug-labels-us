@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020330"
+  ],
+  "inn": "timolol",
+  "labeler": "Bausch & Lomb Americas Inc.",
+  "package_ndcs": [
+    "82260-818-25",
+    "82260-819-05"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "timolol maleate",
+      "name": "Timolol Maleate"
+    }
+  ],
+  "setid": "581f80f7-4419-49e2-867d-40443c75409f",
+  "source": "dailymed"
+}
