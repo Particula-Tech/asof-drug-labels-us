@@ -2,7 +2,7 @@
 
 ## 5.1 Risk of Bleeding
 
-Drugs that inhibit platelet function including BRILINTA increase the risk of bleeding [see Adverse Reactions (6.1) and Warnings and Precautions (5.4)].
+Drugs that inhibit platelet function including BRILINTA increase the risk of bleeding [seeAdverse Reactions (6.1)and Warnings and Precautions (5.4)].
 
 Patients treated for acute ischemic stroke or TIA
 

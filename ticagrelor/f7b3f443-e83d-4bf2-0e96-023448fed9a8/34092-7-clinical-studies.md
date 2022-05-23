@@ -124,15 +124,15 @@ Table 8 shows the results for the 60 mg plus aspirin regimen vs. aspirin alone.
 
 Table 8 - Incidences of the primary composite endpoint, primary composite endpoint components, and secondary endpoints (PEGASUS)
 
-|  | BRILINTA60 mg BID N=7045 | Placebo N=7067 | HR (95% CI) | p-value |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Events / 1000 patient years | Events / 1000 patient years |  |  |  |
-| Time to first CV death, MI, or strokePrimary composite endpoint | 26 | 31 | 0.84 (0.74, 0.95) | 0.0043 |  |
-| CV DeathSecondary endpointsThe event rate for the components CV death, MI and stroke are calculated from the actual number of first events for each component. | 9 | 11 | 0.83 (0.68, 1.01) |  |  |
-| Myocardial infarction | 15 | 18 | 0.84 (0.72, 0.98) |  |  |
-| Stroke | 5 | 7 | 0.75 (0.57, 0.98) |  |  |
-| All-cause mortality | 16 | 18 | 0.89 (0.76, 1.04) |  |  |
-| CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; MI = Myocardial infarction; N = Number of patients. |  |  |  |  |  |
+|  | BRILINTA60 mg BID N=7045 | Placebo N=7067 | HR (95% CI) | p-value |
+| --- | --- | --- | --- | --- |
+|  | Events / 1000 patient years | Events / 1000 patient years |  |  |
+| Time to first CV death, MI, or strokePrimary composite endpoint | 26 | 31 | 0.84 (0.74, 0.95) | 0.0043 |
+| CV DeathSecondary endpointsThe event rate for the components CV death, MI and stroke are calculated from the actual number of first events for each component. | 9 | 11 | 0.83 (0.68, 1.01) |  |
+| Myocardial infarction | 15 | 18 | 0.84 (0.72, 0.98) |  |
+| Stroke | 5 | 7 | 0.75 (0.57, 0.98) |  |
+| All-cause mortality | 16 | 18 | 0.89 (0.76, 1.04) |  |
+| CI = Confidence interval; CV = Cardiovascular; HR = Hazard ratio; MI = Myocardial infarction; N = Number of patients. |  |  |  |  |
 
 In PEGASUS, the relative risk reduction (RRR) for the composite endpoint from 1 to 360 days (17% RRR) and from 361 days and onwards (16% RRR) were similar.
 
@@ -196,7 +196,7 @@ Note: The figure above presents effects in various subgroups all of which are ba
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
-## 14.3Acute Ischemic Stroke or Transient Ischemic Attack (TIA)
+## 14.3 Acute Ischemic Stroke or Transient Ischemic Attack (TIA)
 
 THALES
 
@@ -220,7 +220,7 @@ Table 10 - Incidences of the primary composite endpoint, primary composite endpo
 |  | n (patientswith event) | KM% | n (patientswith event) | KM% |  |  |
 | Time to first Stroke or Death | 303 | 5.4% | 362 | 6.5% | 0.83 (0.71, 0.96) | 0.015 |
 | Time to first StrokeThe number of patients with the event of interest. In the time to first stroke, patients who died are censored at the time of death. | 284 | 5.1% | 347 | 6.3% | 0.81 (0.69, 0.95) |  |
-| Time to Death1 | 36 | 0.6% | 27 | 0.5% | 1.33 (0.81, 2.19) |  |
+| Time to Death | 36 | 0.6% | 27 | 0.5% | 1.33 (0.81, 2.19) |  |
 | Secondary Endpoint |  |  |  |  |  |  |
 | Time to first Ischemic Stroke | 276 | 5.0% | 345 | 6.2% | 0.79 (0.68, 0.93) | 0.004 |
 | CI = Confidence interval; HR = Hazard ratio; KM = Kaplan-Meier percentage calculated at 30 days; N = Number of patients |  |  |  |  |  |  |

@@ -50,13 +50,13 @@ T Ticagrelor; C Clopidogrel.
 
 Table 2 - CABG-related bleeding (PLATO)
 
-|  | BRILINTA90 mg BIDN=770 | ClopidogrelN=814 |  |
-| --- | --- | --- | --- |
-|  | n (%) patientswith event | n (%) patientswith event |  |
-| PLATO Total Major | 626 (81.3) | 666 (81.8) |  |
-| Fatal/Life-threatening | 337 (43.8) | 350 (43.0) |  |
-| Fatal | 6 (0.8) | 7 (0.9) |  |
-| PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units. |  |  |  |
+|  | BRILINTA90 mg BIDN=770 | ClopidogrelN=814 |
+| --- | --- | --- |
+|  | n (%) patientswith event | n (%) patientswith event |
+| PLATO Total Major | 626 (81.3) | 666 (81.8) |
+| Fatal/Life-threatening | 337 (43.8) | 350 (43.0) |
+| Fatal | 6 (0.8) | 7 (0.9) |
+| PLATO Major bleed: any one of the following: fatal; intracranial; intrapericardial with cardiac tamponade; hypovolemic shock or severe hypotension requiring intervention; significantly disabling (e.g., intraocular with permanent vision loss); associated with a decrease in Hb of at least 3 g/dL (or a fall in hematocrit (Hct) of at least 9%); transfusion of 2 or more units.PLATO Major bleed, fatal/life-threatening: any major bleed as described above and associated with a decrease in Hb of more than 5 g/dL (or a fall in hematocrit (Hct) of at least 15%); transfusion of 4 or more units. |  |  |
 
 When antiplatelet therapy was stopped 5 days before CABG, major bleeding occurred in 75% of BRILINTA treated patients and 79% on clopidogrel.
 

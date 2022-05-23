@@ -37,7 +37,8 @@ Breastfeeding is not recommended during treatment with BRILINTA.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of BRILINTA in pediatric patients have not been established.
+The safety and effectiveness of BRILINTA have not been established in pediatric patients.
+Effectiveness was not demonstrated in an adequate and well-controlled study conducted in 101 BRILINTA-treated pediatric patients, aged 2 to <18 for reducing the rate of vaso-occlusive crises in sickle cell disease.
 
 ## 8.5 Geriatric Use
 
