@@ -98,7 +98,7 @@ Atorvastatin calcium is effective in a wide variety of patient populations with 
 In two multicenter, placebo-controlled, dose-response studies in patients with hyperlipidemia, atorvastatin calcium given as a single dose over 6 weeks, significantly reduced total-C, LDL-C, apo B, and TG.
 (Pooled results are provided in Table 9.)
 
-Table 9: Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
+Table 9: Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)
 
 | Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL- C/HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -173,7 +173,7 @@ The remaining 3 receptor-negative patients had a mean LDL-C reduction of 22%.
 ## 14.6 Heterozygous Familial Hypercholesterolemia in Pediatric Patients
 
 In a double-blind, placebo-controlled study followed by an open-label phase, 187 boys and post-menarchal girls 10 years to 17 years of age (mean age 14.1 years) with heterozygous familial hypercholesterolemia (HeFH) or severe hypercholesterolemia, were randomized to atorvastatin calcium (n=140) or placebo (n=47) for 26 weeks and then all received atorvastatin calcium for 26 weeks.
-Inclusion in the study required 1) a baseline LDL-C level ≥190 mg/dL or 2) a baseline LDL-C level ≥160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
+Inclusion in the study required 1) a baseline LDL-C level ≥ 190 mg/dL or 2) a baseline LDL-C level ≥ 160 mg/dL and positive family history of FH or documented premature cardiovascular disease in a first or second-degree relative.
 The mean baseline LDL-C value was 218.6 mg/dL (range: 138.5 to 385.0 mg/dL) in the atorvastatin group compared to 230.0 mg/dL (range: 160.0 to 324.5 mg/dL) in the placebo group.
 The dosage of atorvastatin (once daily) was 10 mg for the first 4 weeks and uptitrated to 20 mg if the LDL-C level was >130 mg/dL.
 The number of atorvastatin-treated patients who required uptitration to 20 mg after Week 4 during the double-blind phase was 78 (55.7%).
