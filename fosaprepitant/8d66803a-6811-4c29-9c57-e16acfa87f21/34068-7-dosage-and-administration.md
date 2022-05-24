@@ -23,8 +23,8 @@ Table 2 Recommended Adult Dosing for the Prevention of Nausea and Vomiting Assoc
 
 ## 2.2 Prevention of Nausea and Vomiting Associated with HEC and MEC in Pediatric Patients
 
-The recommended pediatric dose regimens of EMEND, to be administered with a 5-HT3 antagonist, with or without a corticosteroid, for the prevention of nausea and vomiting associated with administration of single or multi-day chemotherapy regimens of HEC or MEC, are shown in Tables 3 and 4.
-Single-day chemotherapy regimens include those regimens in which HEC or MEC is administered for a single day only.
+The recommended pediatric dosage regimens of EMEND, to be administered with a 5-HT3 antagonist, with or without a corticosteroid, for the prevention of nausea and vomiting associated with administration of single or multi-day chemotherapy regimens of HEC or MEC, are shown in Tables 3 and 4.
+Single-day chemotherapy regimens include regimens in which HEC or MEC is administered for a single day only.
 Multi-day chemotherapy regimens include chemotherapy regimens in which HEC or MEC is administered for 2 or more days.
 
 EMEND Dosage Regimens for Use with Single-Day Chemotherapy Regimens
@@ -32,11 +32,12 @@ EMEND Dosage Regimens for Use with Single-Day Chemotherapy Regimens
 For pediatric patients weighing at least 6 kg receiving single-day HEC or MEC, EMEND may be administered as:
 
 - a single dose regimen of EMEND for injection infused through a central venous catheter on Day 1, as shown in Table 3; or
-- as a 3-day EMEND regimen consisting of EMEND for injection as an intravenous infusion through a central venous catheter on Day 1 and EMEND capsules or EMEND for oral suspension on Days 2 and 3, as shown in Table 4.
+- as a 3-day EMEND regimen consisting of EMEND for injection as an intravenous infusion through a central venous catheter on Days 1, 2, and 3.
+  EMEND capsules or EMEND for oral suspension may be used on Days 2 and 3 instead of EMEND for injection, as shown in Table 4.
 
 Administer EMEND for injection on Day 1 over 30 minutes (12 years to 17 years) or 60 minutes (6 months to less than 12 years), completing the infusion approximately 30 minutes prior to chemotherapy.
 
-Table 3 Single Dose Regimen of EMEND for injection for Pediatric Patients 6 MonthsDosing in pediatric patients less than 6 kg is not recommended to 17 Years for the Prevention of Nausea and Vomiting Associated with Single-Day Regimens of HEC or MEC
+Table 3 EMEND for Injection Single-Dose Regimen for the Prevention of Nausea and Vomiting Associated with Single-Day Regimens of HEC or MEC in Pediatric Patients 6 MonthsDosing in pediatric patients less than 6 kg is not recommended to 17 Years
 
 | Drug | Age | Regimen |
 | --- | --- | --- |
@@ -49,20 +50,19 @@ Table 3 Single Dose Regimen of EMEND for injection for Pediatric Patients 6 Mont
 EMEND Dosage Regimen for Use with Multi-Day Chemotherapy Regimens
 
 For pediatric patients weighing at least 6 kg receiving multi-day regimens of HEC or MEC, administer EMEND on Days 1, 2, and 3.
-Administer EMEND for injection as an intravenous infusion through a central venous catheter on Day 1 and EMEND capsules or EMEND for oral suspension on Days 2 and 3, as shown in Table 4.
+Administer EMEND for injection as an intravenous infusion through a central venous catheter on Days 1, 2, and 3.
+EMEND capsules or EMEND for oral suspension may be used on Days 2 and 3 instead of EMEND for injection, as shown in Table 4.
 
-Administer EMEND for injection on Day 1 over 30 minutes (12 years to 17 years) or 60 minutes (6 months to less than 12 years), completing the infusion approximately 30 minutes prior to chemotherapy.
+Administer EMEND for injection over 30 minutes (12 years to 17 years) or 60 minutes (6 months to less than 12 years), completing the infusion approximately 30 minutes prior to chemotherapy.
 
-Table 4 Pediatric Patients 6 MonthsDosing in pediatric patients less than 6 kg is not recommended to 17 Years Recommended 3-Day EMEND Dosage Regimen for Prevention of Nausea and Vomiting Associated with Single or Multi-day Regimens of HEC or MEC
+Table 4 3-Day EMEND Dosage Regimen for Prevention of Nausea and Vomiting Associated with Single- or Multi-day Regimens of HEC or MEC in Pediatric Patients 6 MonthsDosing in pediatric patients less than 6 kg is not recommended. to 17 Years
 
-| Age Group | Drug | Day 1 | Day 2 | Day 3 |
+|  | Age of Pediatric Population | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- | --- |
-| 12 Years to 17 Years | EMEND for injection | 115 mg intravenously over 30 minutes | -- | -- |
-| EMEND capsulesFor patients 12 years to 17 years who cannot swallow oral capsules, EMEND for oral suspension can be used instead. | -- | 80 mg orally | 80 mg orally |  |
-| 6 Months to Less than 12 Years | EMEND for injection | 3 mg/kg (maximum dose 115 mg) intravenously over 60 minutes | -- | -- |
-| EMEND for oral suspension | -- | 2 mg/kg orally (maximum 80 mg) | 2 mg/kg orally (maximum 80 mg) |  |
-| 6 Months to 17 Years | DexamethasoneAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1 | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4 |  |  |
-| 6 Months to 17 Years | 5-HT3 antagonist | See selected 5-HT3 antagonist prescribing information for the recommended dosage |  |  |
+| EMEND for injection | 12 years to 17 years | 115 mg intravenously over 30 minutes | 80 mg intravenously over 30 minutes OR 80 mg orally (EMEND capsules)For patients 12 years to 17 years unable to swallow oral capsules, EMEND for oral suspension can be used instead on Days 2 and 3. | 80 mg intravenously over 30 minutes OR 80 mg orally (EMEND capsules) |
+|  | 6 months to less than 12 years | 3 mg/kg intravenously over 60 minutes (maximum dose 115 mg) | 2 mg/kg intravenously over 60 minutes OR 2 mg/kg orally (EMEND for oral suspension)For patients less than 12 years of age who weigh at least 40 kg and who are able to swallow oral capsules, EMEND capsules can be used instead on Days 2 and 3. (maximum dose 80 mg) | 2 mg/kg intravenously over 60 minutes OR 2 mg/kg orally (EMEND for oral suspension) (maximum dose 80 mg) |
+| DexamethasoneAdminister dexamethasone 30 minutes prior to chemotherapy treatment on Day 1. | 6 months to 17 years | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4. |  |  |
+| 5-HT3 antagonist | 6 months to 17 years | See selected 5-HT3 antagonist prescribing information for the recommended dosage. |  |  |
 
 ## 2.3 Preparation of EMEND for injection
 

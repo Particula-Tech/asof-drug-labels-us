@@ -86,6 +86,18 @@ Table 10 Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pedi
 | 2 Years to less than 6 Years |  | 20.2 | 2.3 | 0.3 | 0.2 | 0.2 |
 | 6 Months to less than 2 Years |  | 16.6 | 1.9 | 0.2 | 0.1 | 0.1 |
 
+3-Day IV/IV/IV EMEND Regimen: Simulated aprepitant systemic exposures in patients 6 months to 17 years are shown in Table 11, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48), and Day 3 (C72).
+
+Table 11 Systemic Exposures of Aprepitant for 3-Day IV/IV/IV Regimen in Pediatric Patients
+
+| AUC 0-24hr. (mcghr/mL) | Cmax (mcg/mL) | C24 (mcg/mL) | C48 (mcg/mL) | C72 (mcg/mL) |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Population | 3-Day Dose of EMEND (IV/IV/IV)IV on Day 1, Day 2, and Day 3 | Geometric Mean |  |  |  |  |
+| 12 Years to 17 Years | 115/80/80 mg | 21.1 | 2.5 | 0.4 | 0.4 | 0.4 |
+| 6 Years to less than 12 Years | 3/2/2 mg/kg | 25.6 | 2.7 | 0.5 | 0.4 | 0.4 |
+| 2 Years to less than 6 Years |  | 20.3 | 2.3 | 0.3 | 0.2 | 0.2 |
+| 6 Months to less than 2 Years |  | 16.7 | 1.9 | 0.2 | 0.2 | 0.2 |
+
 Plasma concentrations of fosaprepitant are negligible within 15 – 30 minutes after the completion of the infusion in pediatric patients.
 
 Sex
