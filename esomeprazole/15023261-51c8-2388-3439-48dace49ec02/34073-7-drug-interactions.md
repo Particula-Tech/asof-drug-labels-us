@@ -14,12 +14,12 @@ Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with E
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including esomeprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Intervention: | Monitor INR and prothrombin time and adjust the dose of warfarin, if needed, to maintain the target INR range. |
 | Methotrexate |  |
-| Clinical Impact: | Concomitant use of esomeprazole with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.11)]. |
+| Clinical Impact: | Concomitant use of esomeprazole with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.12)]. |
 | Intervention: | A temporary withdrawal of esomeprazole magnesium may be considered in some patients receiving high-dose methotrexate. |
 | 2C19 Substrates (e.g., clopidogrel, citalopram, cilostazol) |  |
 | Clopidogrel |  |
 | Clinical Impact: | Concomitant use of esomeprazole 40 mg resulted in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Clinical Pharmacology (12.3)]. There are no adequate combination studies of a lower dose of esomeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel. |
-| Intervention: | Avoid concomitant use with esomeprazole magnesium. Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.6)]. |
+| Intervention: | Avoid concomitant use with esomeprazole magnesium. Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.7)]. |
 | Citalopram |  |
 | Clinical Impact: | Increased exposure of citalopram leading to an increased risk of QT prolongation [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Limit the dose of citalopram to a maximum of 20 mg per day. See prescribing information for citalopram. |
@@ -39,7 +39,7 @@ Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with E
 | Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
 | Intervention: | Monitor tacrolimus whole blood concentrations and consider reducing the dose, if needed, to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
 | Interactions with Investigations of Neuroendocrine Tumors |  |
-| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10), Clinical Pharmacology (12.2)]. |
+| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11), Clinical Pharmacology (12.2)]. |
 | Intervention: | Discontinue esomeprazole magnesium at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g. for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
 | Interaction with Secretin Stimulation Test |  |
 | Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
@@ -53,7 +53,7 @@ Table 4: Clinically Relevant Interactions Affecting Esomeprazole When Co-Adminis
 | CYP2C19 or CYP3A4 Inducers |  |
 | --- | --- |
 | Clinical Impact: | Decreased exposure of esomeprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
-| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with [see Warnings and Precautions (5.9)]. Ritonavir-containing products: see prescribing information for specific drugs |
+| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with [see Warnings and Precautions (5.10)]. Ritonavir-containing products: see prescribing information for specific drugs |
 | Voriconazole |  |
 | Clinical Impact: | Increased exposure of esomeprazole [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Dose adjustment of esomeprazole magnesium is not normally required. However, in patients with Zollinger-Ellison syndrome, who may require higher doses, dosage adjustment may be considered. See prescribing information for voriconazole. |

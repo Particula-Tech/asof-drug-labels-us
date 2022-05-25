@@ -40,7 +40,7 @@ The mean fasting gastrin level increased in a dose-related manner.
 The increase in serum gastrin concentrations reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)].
 
 Enterochromaffin-like (ECL) Cell Effects
 
@@ -196,7 +196,7 @@ Clopidogrel
 
 In a crossover study, healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day as the maintenance dosage for 28 days) alone and with esomeprazole (40 mg orally once daily at the same time as clopidogrel) for 29 days.
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period when clopidogrel and esomeprazole were administered together.
-Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 
 Mycophenolate Mofetil
 
