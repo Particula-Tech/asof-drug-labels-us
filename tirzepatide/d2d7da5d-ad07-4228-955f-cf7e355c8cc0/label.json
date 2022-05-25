@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA215866"
+  ],
+  "inn": "tirzepatide",
+  "labeler": "Eli Lilly and Company",
+  "package_ndcs": [
+    "0002-1457-01",
+    "0002-1457-80",
+    "0002-1460-01",
+    "0002-1460-80",
+    "0002-1471-01",
+    "0002-1471-80",
+    "0002-1484-01",
+    "0002-1484-80",
+    "0002-1495-01",
+    "0002-1495-80",
+    "0002-1506-01",
+    "0002-1506-80"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tirzepatide",
+      "name": "MOUNJARO"
+    }
+  ],
+  "setid": "d2d7da5d-ad07-4228-955f-cf7e355c8cc0",
+  "source": "dailymed"
+}
