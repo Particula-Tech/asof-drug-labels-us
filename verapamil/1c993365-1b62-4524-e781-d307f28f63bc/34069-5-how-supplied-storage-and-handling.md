@@ -16,4 +16,4 @@ Protect from light by retaining in package until ready to use.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0885-3.0 05/2018
+LAB-0885-4.0 Revised: 05/2022

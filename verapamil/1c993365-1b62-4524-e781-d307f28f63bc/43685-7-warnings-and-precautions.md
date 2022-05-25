@@ -97,6 +97,9 @@ It may be necessary to decrease the dose of verapamil and/or the dose of the neu
 Dantrolene: Two animal studies suggest concomitant intravenous use of verapamil and dantrolene sodium may result in cardiovascular collapse.
 There has been one report of hyperkalemia and myocardial depression following the coadministration of oral verapamil and intravenous dantrolene.
 
+Ivabradine: Concurrent use of verapamil increases exposure to ivabradine and may exacerbate bradycardia and conduction disturbances.
+Avoid coadministration of verapamil and ivabradine.
+
 ## Pregnancy:
 
 Teratogenic Effects: Reproduction studies have been performed in rabbits and rats at oral verapamil doses up to 1.5 (15 mg/kg/day) and 6 (60 mg/kg/day) times the human oral daily dose, respectively, and have revealed no evidence of teratogenicity.
