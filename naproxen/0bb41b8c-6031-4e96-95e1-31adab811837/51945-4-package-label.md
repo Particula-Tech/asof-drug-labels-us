@@ -6,9 +6,7 @@ Naproxen Sodium Tablets USP (NSAID), 220 mg
 
 24 Tablets
 
-Amneal Pharmaceuticals LLC
-
-NDC 53746-192-24
+Amneal Pharmaceuticals LLC NDC 53746-192-24
 
 Naproxen Sodium Tablets USP (NSAID), 220 mg
 
