@@ -15,7 +15,7 @@ Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazol
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |  |
 | Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. |  |
 | Methotrexate |  |  |
-| Clinical Impact: | Concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.8)]. |  |
+| Clinical Impact: | Concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.9)]. |  |
 | Intervention: | A temporary withdrawal of lansoprazole delayed-release capsules may be considered in some patients receiving high-dose methotrexate. |  |
 | Digoxin |  |  |
 | Clinical Impact: | Potential for increased exposure of digoxin. |  |
@@ -33,7 +33,7 @@ Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazol
 | Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |  |
 | Intervention: | Monitor tacrolimus whole blood trough concentrations. Dose adjustment of tacrolimus may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |  |
 | Interactions with Investigations of Neuroendocrine Tumors |  |  |
-| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.7), Clinical Pharmacology (12.2)]. |  |
+| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8), Clinical Pharmacology (12.2)]. |  |
 | Intervention: | Temporarily stop lansoprazole delayed-release capsules treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |  |
 | Interaction with Secretin Stimulation Test |  |  |
 | Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |  |

@@ -81,7 +81,7 @@ Do not take lansoprazole delayed-release capsules if you are: if you are:
 
 Before you take lansoprazole delayed-release capsules, tell your doctor about all of your medical conditions, including if you:
 
-- have low magnesium levels in your blood.
+- have low magnesium, calcium, potassium or sodium levels in your blood or you are taking a diuretic.
 - have liver problems.
 - are pregnant, think you may be pregnant or plan to become pregnant.
   Lansoprazole delayed-release capsules may harm your unborn baby.
@@ -121,16 +121,23 @@ Do not take 2 doses at the same time.
 
 What are the possible side effects of lansoprazole delayed-release capsules?Lansoprazole delayed-release capsules can cause serious side effects, including:
 
-• See “What is the most important information that I should know about lansoprazole delayed-release capsules ?”
+- See “What is the most important information that I should know about lansoprazole delayed-release capsules ?”
+- Low vitamin B12 levels in the body can happen in people who have taken lansoprazole delayed-release capsules for a long time (more than 3 years).
+  Tell your doctor if you have symptoms of low vitamin B12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
+- Low magnesium levels in the body can happen in people who have taken lansoprazole delayed-release capsules for at least 3 months.
+  Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growth called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 
-• Low vitamin B12 levels in the body can happen in people who have taken lansoprazole delayed-release capsules for a long time (more than 3 years).
-Tell your doctor if you have symptoms of low vitamin B12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
+- Severe skin reactions.
+  Lansoprazole delayed-release capsules can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening:
+- 
+  - Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet).
+  - You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
 
-• Low magnesium levels in the body can happen in people who have taken lansoprazole delayed-release capsules for at least 3 months.
-Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
-
-• Stomach growths (fundic gland polyps).
-People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growth called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+Stop taking lansoprazole delayed-release capsules and call your doctor right away.
+These symptoms may be the first sign of a severe skin reaction.
 
 The most common side effects of lansoprazole delayed-release capsules include: diarrhea, stomach-area (abdomen) pain, nausea and constipation.
 
@@ -251,7 +258,7 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1220
+Revised: 03/2022
 
 Dispense with Medication Guide available at:
 
