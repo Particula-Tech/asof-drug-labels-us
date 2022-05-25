@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA214632"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "AuroMedics Pharma LLC",
+  "package_ndcs": [
+    "55150-381-01",
+    "55150-382-01",
+    "55150-383-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "pemetrexed",
+      "name": "Pemetrexed"
+    }
+  ],
+  "setid": "737ead51-f73c-414f-b68f-d3affc27a225",
+  "source": "dailymed"
+}
