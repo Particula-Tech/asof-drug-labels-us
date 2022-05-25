@@ -58,7 +58,7 @@ Table 2: Clinical Worsening Events (PH-ILD)
 | Decrease in 6MWD >15% from baseline directly related to PH-ILD | 13 (8.0%) | 26 (16.0%) |  |  |
 | Death (all causes) | 4 (2.5%) | 4 (2.5%) |  |  |
 | Lung transplantation | 2 (1.2%) | 0 |  |  |
-| First of each event | Hospitalization due to a cardiopulmonary indication | 21 (12.9) | 30 (18.4%) |  |
+| First of each event | Hospitalization due to a cardiopulmonary indication | 21 (12.9%) | 30 (18.4%) |  |
 | Decrease in 6MWD >15% from baseline directly related to PH-ILD | 16 (9.8%) | 31 (19.0%) |  |  |
 | Death (all causes) | 8 (4.9%) | 10 (6.1%) |  |  |
 | Lung transplantation | 2 (1.2%) | 1 (0.6%) |  |  |

@@ -1,4 +1,4 @@
-©Copyright 2021 United Therapeutics Corp. All rights reserved.
+©Copyright 2022 United Therapeutics Corp. All rights reserved.
 
 Tyvaso manufactured for:
 
