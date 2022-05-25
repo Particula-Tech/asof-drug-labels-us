@@ -175,9 +175,11 @@ Table 17: Changes from Baseline in Other Urodynamic Parameters at Week 24 in Ped
 | Parameter | ChildrenAged 3 to Less than 12 Years(N=43)N is the number of patients who took at least one dose and provided valid values for MCC at Baseline and Week 24.Mean (SD) | AdolescentsAged 12 to 17 Years(N=25)Mean (SD) |
 | --- | --- | --- |
 | Bladder Compliance (mL/cm H2O)Number of patients (Children/Adolescents) with data available for both Baseline and Week 24; Bladder Compliance: n=33/21; Number of Overactive Detrusor Contractions: n=36/22; Bladder Volume Prior To First Detrusor Contraction: n=38/24. |  |  |
-| Baseline Change from baseline | 16.0 (55.8)14.6 (42.1)95% CI: -0.3, 29.5 | 11.1 (10.7)13.6 (15.0)95% CI: 6.7, 20.4 |
+| Baseline Change from baseline |  |  |
+| 16.0 (55.8)14.6 (42.1)95% CI: -0.3, 29.5 | 11.1 (10.7)13.6 (15.0)95% CI: 6.7, 20.4 |  |
 | Number of Overactive Detrusor Contractions (> 15 cm H2O) |  |  |
-| Baseline Change from baseline | 3.0 (4.0)-1.9 (4.2)95% CI: -3.3, -0.4 | 2.1 (3.1)-0.8 (3.9)95% CI: -2.5, 0.9 |
+| Baseline Change from baseline |  |  |
+| 3.0 (4.0)-1.9 (4.2)95% CI: -3.3, -0.4 | 2.1 (3.1)-0.8 (3.9)95% CI: -2.5, 0.9 |  |
 | Bladder Volume Prior To First Detrusor Contraction (> 15 cm H2O) |  |  |
 | Baseline Change from baseline | 115 (83)93 (88)95% CI: 64, 122 | 177 (117)121 (160)95% CI: 54, 189 |
 
@@ -186,6 +188,7 @@ Table 18: Changes from Baseline in Maximum Catheterized Urine Volume and Number 
 | Parameter | ChildrenAged 3 to Less than 12 Years(N=43)N is the number of patients who took at least one dose and provided valid values for MCC at Baseline and Week 24.Mean (SD) | AdolescentsAged 12 to 17 Years(N=25)Mean (SD) |
 | --- | --- | --- |
 | Maximum Catheterized Urine Volume per Day (mL)Number of patients (Children/Adolescents) with data available for both Baseline and Week 24; Maximum Catheterized Urine Volume per Day: n=41/23; Number of Leakage Episodes per Day: n=26/21. |  |  |
-| Baseline Change from baseline | 304 (109)50 (104)95% CI: 17, 83 | 360 (111)84 (122)95% CI: 32, 137 |
+| Baseline Change from baseline |  |  |
+| 304 (109)50 (104)95% CI: 17, 83 | 360 (111)84 (122)95% CI: 32, 137 |  |
 | Number of Leakage Episodes per Day |  |  |
 | Baseline Change from baseline | 2.8 (3.7)-2.0 (3.2)95% CI: -3.2, -0.7 | 1.8 (1.7)-1.0 (1.1)95% CI: -1.5, -0.5 |

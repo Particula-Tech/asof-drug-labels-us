@@ -63,11 +63,8 @@ After once daily administration, plasma exposure of mirabegron at steady-state w
 MYRBETRIQ/MYRBETRIQ Granules for Pediatric Neurogenic Detrusor Overactivity (NDO) The median Tmax of mirabegron following oral administration of a single dose of MYRBETRIQ or mirabegron for extended-release oral suspension in pediatric patients under fed state was 4-5 hours.
 Population pharmacokinetic analysis predicted that the median Tmax of MYRBETRIQ or mirabegron for extended-release oral suspension at steady-state was 3-4 hours.
 
-1. Effect of Food
-2. MYRBETRIQ Monotherapy for Adult OAB
-3. There were no clinically significant differences in mirabegron pharmacokinetics when administered with or without food in adult patients.
-   MYRBETRIQ/MYRBETRIQ Granules for Pediatric Neurogenic Detrusor Overactivity (NDO)
-4. In the fasted state, steady-state mirabegron AUC increased by 120% relative to the fed state in pediatric patients receiving MYRBETRIQ.
+1. Effect of Food MYRBETRIQ Monotherapy for Adult OAB There were no clinically significant differences in mirabegron pharmacokinetics when administered with or without food in adult patients.
+   MYRBETRIQ/MYRBETRIQ Granules for Pediatric Neurogenic Detrusor Overactivity (NDO) In the fasted state, steady-state mirabegron AUC increased by 120% relative to the fed state in pediatric patients receiving MYRBETRIQ.
    Fasted Cmax and AUC increased by 170% and 80%, respectively, compared to the fed state following administration of MYRBETRIQ Granules in healthy volunteers.
 
 Distribution MYRBETRIQ Monotherapy for Adult OAB Mirabegron is extensively distributed in the body.
@@ -103,8 +100,7 @@ The mean terminal elimination half-life (t1/2) of mirabegron is approximately 26
    The urinary elimination of unchanged mirabegron is dose-dependent and ranges from approximately 6.0% after a daily dose of 25 mg to 12.2% after a daily dose of 100 mg.
    Following the administration of 160 mg 14C-mirabegron solution to healthy volunteers, approximately 55% of the radioactivity dose was recovered in the urine and 34% in the feces.
    Approximately 25% of unchanged mirabegron was recovered in urine and 0% in feces.
-   MYRBETRIQ/MYRBETRIQ Granules for Pediatric Neurogenic Detrusor Overactivity (NDO)
-2. Population pharmacokinetic model predicted that mirabegron clearance in pediatric patients increased with body weight.
+   MYRBETRIQ/MYRBETRIQ Granules for Pediatric Neurogenic Detrusor Overactivity (NDO) Population pharmacokinetic model predicted that mirabegron clearance in pediatric patients increased with body weight.
 
 Specific Populations
 
@@ -145,10 +141,8 @@ Drug Interaction Studies
    The effect of mirabegron on metoprolol, desipramine, combined oral contraceptive-COC (ethinyl estradiol-EE, levonorgestrel-LNG), solifenacin succinate, digoxin, warfarin, tamsulosin, and metformin is shown in Figure 2.
    In these studies, the largest increase in mirabegron systemic exposure was seen in the ketoconazole DDI study.
    As a potent CYP3A4 inhibitor, ketoconazole increased mirabegron Cmax by 45% and mirabegron AUC by 80% after multiple dose administration of 400 mg of ketoconazole for 9 days prior to the administration of a single dose of 100 mg mirabegron in 23 male and female healthy subjects.
-   As a moderate CYP2D6 inhibitor, mirabegron increased the systemic exposure to metoprolol and desipramine:
-2. • Mirabegron increased the Cmax of metoprolol by 90% and metoprolol AUC by 229% after multiple doses of 160 mg mirabegron IR tablets once daily for 5 days and a single dose of 100 mg metoprolol tablet in 12 healthy male subjects administered before and concomitantly with mirabegron.
-3. • Mirabegron increased the Cmax of desipramine by 79% and desipramine AUC by 241% after multiple dose administration of 100 mg mirabegron once daily for 18 days and a single dose of 50 mg desipramine before and concomitantly with mirabegron in 28 male and female healthy subjects.
-4. The effect on the pharmacokinetics of coadministered digoxin and tamsulosin was studied after multiple doses of a combination of mirabegron and solifenacin succinate.
+   As a moderate CYP2D6 inhibitor, mirabegron increased the systemic exposure to metoprolol and desipramine: • Mirabegron increased the Cmax of metoprolol by 90% and metoprolol AUC by 229% after multiple doses of 160 mg mirabegron IR tablets once daily for 5 days and a single dose of 100 mg metoprolol tablet in 12 healthy male subjects administered before and concomitantly with mirabegron. • Mirabegron increased the Cmax of desipramine by 79% and desipramine AUC by 241% after multiple dose administration of 100 mg mirabegron once daily for 18 days and a single dose of 50 mg desipramine before and concomitantly with mirabegron in 28 male and female healthy subjects.
+   The effect on the pharmacokinetics of coadministered digoxin and tamsulosin was studied after multiple doses of a combination of mirabegron and solifenacin succinate.
    Concomitant administration of 0.25 mg digoxin with a combination of 5 mg solifenacin succinate and 50 mg mirabegron increased digoxin AUCtau and Cmax by approximately 10% and 14%, respectively.
    Concomitant administration of 0.4 mg tamsulosin with a combination of 5 mg solifenacin succinate and 50 mg mirabegron increased tamsulosin AUCtau and Cmax by 47.5% and 54.3%, respectively.
    The observed changes in the pharmacokinetics of tamsulosin are in line with cytochrome P450 inhibition as shown by coadministration with mirabegron alone.
