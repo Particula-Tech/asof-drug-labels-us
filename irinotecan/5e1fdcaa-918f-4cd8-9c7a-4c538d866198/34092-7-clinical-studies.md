@@ -1,10 +1,81 @@
 # 14 CLINICAL STUDIES
 
-Irinotecan has been studied in clinical trials as a single-agent [see Dosage and Administration (2)].
+Irinotecan has been studied in clinical trials in combination with 5-fluorouracil (5-FU) and leucovorin (LV) and as a single-agent [see Dosage and Administration (2)].
+When given as a component of combination-agent treatment, irinotecan was either given with a weekly schedule of bolus 5-FU/LV or with an every-2-week schedule of infusional 5-FU/LV.
 Weekly and once-every-3-week dosage schedules were used for the single-agent irinotecan studies.
-Clinical studies of single-agent use are described below.
+Clinical studies of combination and single-agent use are described below.
 
 ## 14.1 Metastatic Colorectal Cancer
+
+First-Line Therapy in Combination with 5-FU/LV: Studies 1 and 2
+
+Two phase 3, randomized, controlled, multinational clinical trials support the use of Irinotecan Hydrochloride Injection as first-line treatment of patients with metastatic carcinoma of the colon or rectum.
+In each study, combinations of irinotecan with 5-FU and LV were compared with 5-FU and LV alone.
+Study 1 compared combination irinotecan/bolus 5-FU/LV therapy given weekly with a standard bolus regimen of 5-FU/LV alone given daily for 5 days every 4 weeks; an irinotecan-alone treatment arm given on a weekly schedule was also included.
+Study 2 evaluated two different methods of administering infusional 5-FU/LV, with or without irinotecan.
+In both studies, concomitant medications such as antiemetics, atropine, and loperamide were given to patients for prophylaxis and/or management of symptoms from treatment.
+In Study 2, a 7-day course of fluoroquinolone antibiotic prophylaxis was given in patients whose diarrhea persisted for greater than 24 hours despite loperamide or if they developed a fever in addition to diarrhea.
+Treatment with oral fluoroquinolone was also initiated in patients who developed an absolute neutrophil count (ANC) < 500/mm3, even in the absence of fever or diarrhea.
+Patients in both studies also received treatment with intravenous antibiotics if they had persistent diarrhea or fever or if ileus developed.
+
+In both studies, the combination of irinotecan/5-FU/LV therapy resulted in significant improvements in objective tumor response rates, time to tumor progression, and survival when compared with 5-FU/LV alone.
+These differences in survival were observed in spite of second-line therapy in a majority of patients on both arms, including crossover to irinotecan-containing regimens in the control arm.
+Patient characteristics and major efficacy results are shown in Table 10.
+
+Table 10.
+Combination Dosage Schedule: Study Results
+
+|  | Study 1 |  |  | Study 2 |  |
+| --- | --- | --- | --- | --- | --- |
+| Irinotecan + Bolus 5-FU/LV weekly x 4 every 6 weeks | Bolus 5-FU/LV daily x 5 every 4 weeks | Irinotecan weekly x 4 every 6 weeks | Irinotecan + Infusional5-FU/LV | Infusional5-FU/LV |  |
+| Number of patients | 231 | 226 | 226 | 198 | 187 |
+| Demographics and treatment administration |  |  |  |  |  |
+| Female/Male (%) | 34/65 | 45/54 | 35/64 | 33/67 | 47/53 |
+| Median age in years (range) | 62 (25 to 85) | 61 (19 to 85) | 61 (30 to 87) | 62 (27 to 75) | 59 (24 to 75) |
+| Performance status (%) |  |  |  |  |  |
+| 0 | 39 | 41 | 46 | 51 | 51 |
+| 1 | 46 | 45 | 46 | 42 | 41 |
+| 2 | 15 | 13 | 8 | 7 | 8 |
+| Primary tumor (%) |  |  |  |  |  |
+| Colon | 81 | 85 | 84 | 55 | 65 |
+| Rectum | 17 | 14 | 15 | 45 | 35 |
+| Median time fromdiagnosis to randomization | 1.9 | 1.7 | 1.8 | 4.5 | 2.7 |
+| (months, range) | (0 to 161) | (0 to 203) | (0.1 to 185) | (0 to 88) | (0 to 104) |
+| Prior adjuvant 5-FUtherapy (%) |  |  |  |  |  |
+| No | 89 | 92 | 90 | 74 | 76 |
+| Yes | 11 | 8 | 10 | 26 | 24 |
+| Median duration of study treatmenta (months) | 5.5 | 4.1 | 3.9 | 5.6 | 4.5 |
+| Median Relative DoseIntensity (%)a |  |  |  |  |  |
+| Irinotecan | 72 | --- | 75 | 87 | --- |
+| 5-FU | 71 | 86 | --- | 86 | 93 |
+| Efficacy Results |  |  |  |  |  |
+| Confirmed objective tumor response rateb (%) | 39 | 21 | 18 | 35 | 22 |
+|  | (p < 0.0001)c |  |  | (p < 0.005)c |  |
+| Median time to tumor progressiond (months) | 7.0 | 4.3 | 4.2 | 6.7 | 4.4 |
+|  | (p=0.004)d |  |  | (p < 0.001)d |  |
+| Median survival | 14.8 | 12.6 | 12.0 | 17.4 | 14.1 |
+| (months) | (p < 0.05)d |  |  | (p < 0.05)d |  |
+| a Study 1: N=225 (irinotecan/5-FU/LV),N=219 (5-FU/LV),N=223 (irinotecan)Study 2: N=199 (irinotecan/5-FU/LV),N=186 (5-FU/LV) |  |  |  |  |  |
+| b Confirmed ≥ 4 to 6 weeks after first evidence of objective response |  |  |  |  |  |
+| c Chi-square test |  |  |  |  |  |
+| d Log-rank test |  |  |  |  |  |
+
+Improvement was noted with irinotecan-based combination therapy relative to 5-FU/LV when response rates and time to tumor progression were examined across the following demographic and disease-related subgroups (age, gender, ethnic origin, performance status, extent of organ involvement with cancer, time from diagnosis of cancer, prior adjuvant therapy, and baseline laboratory abnormalities).
+Figures 1 and 2 illustrate the Kaplan-Meier survival curves for the comparison of irinotecan/5-FU/LV versus 5-FU/LV in Studies 1 and 2, respectively.
+
+Figure 1.
+Survival
+
+First-Line Irinotecan/5-FU/LV vs 5-FU/LV
+
+Study 1
+
+Figure 2.
+Survival
+
+First-Line Irinotecan/5-FU/LV vs 5-FU/LV
+
+Study 2
 
 Second-Line Therapy After 5-FU-Based Treatment
 
@@ -67,7 +138,7 @@ Weekly Dosage Schedule: Study Results
 | 1-Year Survival (%) | 46 | 31 | 45 | 43 |
 | a Nine patients received 150 mg/m2 as a starting dose; two (22.2%) responded to Irinotecan Hydrochloride Injection. |  |  |  |  |
 | b Relative dose intensity for Irinotecan Hydrochloride Injection based on planned dose intensity of 100, 83.3, and 66.7 mg/m2/wk corresponding with 150, 125, and 100 mg/m2 starting doses, respectively. |  |  |  |  |
-| c Confirmed greater than or equal to 4 to 6 weeks after first evidence of objective response. |  |  |  |  |
+| c Confirmed ≥ 4 to 6 weeks after first evidence of objective response. |  |  |  |  |
 
 In the intent-to-treat analysis of the pooled data across all three studies, 193 of the 304 patients began therapy at the recommended starting dose of 125 mg/m2.
 Among these 193 patients, 2 complete and 27 partial responses were observed, for an overall response rate of 15.0% (95% Confidence Interval [CI], 10.0% to 20.1%) at this starting dose.
@@ -112,7 +183,7 @@ In Study 8, median survival for patients treated with irinotecan was 10.8 months
 Multiple regression analyses determined that patients’ baseline characteristics also had a significant effect on survival.
 When adjusted for performance status and other baseline prognostic factors, survival among patients treated with irinotecan remained significantly longer than in the control populations (p=0.001 for Study 7 and p=0.017 for Study 8).
 Measurements of pain, performance status, and weight loss were collected prospectively in the two studies; however, the plan for the analysis of these data was defined retrospectively.
-When comparing irinotecan with best supportive care in Study 7, this analysis showed a statistically significant advantage for irinotecan, with longer time to development of pain (6.9 months versus 2.0 months), time to performance status deterioration (5.7 months versus 3.3 months), and time to greater than 5% weight loss (6.4 months versus 4.2 months).
+When comparing irinotecan with best supportive care in Study 7, this analysis showed a statistically significant advantage for irinotecan, with longer time to development of pain (6.9 months versus 2.0 months), time to performance status deterioration (5.7 months versus 3.3 months), and time to > 5% weight loss (6.4 months versus 4.2 months).
 Additionally, 33.3% (33/99) of patients with a baseline performance status of 1 or 2 showed an improvement in performance status when treated with irinotecan versus 11.3% (7/62) of patients receiving best supportive care (p=0.002).
 Because of the inclusion of patients with non-measurable disease, intent-to-treat response rates could not be assessed.
 

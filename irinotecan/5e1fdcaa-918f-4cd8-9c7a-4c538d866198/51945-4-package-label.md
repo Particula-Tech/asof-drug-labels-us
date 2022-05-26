@@ -1,9 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Actavis
-
-Rx Only
-
 NDC 45963-614-51
 
 Irinotecan Hydrochloride Injection, USP
@@ -17,5 +13,7 @@ Irinotecan Hydrochloride Injection, USP
 MUST BE DILUTED For Intravenous Use Only
 
 CAUTION: Cytotoxic Agent
+
+Rx only
 
 2 mL Single-Dose Vial
