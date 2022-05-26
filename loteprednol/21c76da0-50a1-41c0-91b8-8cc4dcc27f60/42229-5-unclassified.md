@@ -1,7 +1,21 @@
-Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA
+Distributed by:
 
-Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
+Bausch & Lomb Americas Inc.
 
-ALREX is a trademark of Bausch & Lomb Incorporated or its affiliates. © 2019 Bausch & Lomb Incorporated or its affiliates Revised: 08/2019
+Bridgewater, NJ 08807 USA
 
-9007906 (Folded) 9005506 (Flat)
+Manufactured by:
+
+Bausch & Lomb Incorporated
+
+Tampa, FL 33637 USA
+
+ALREX is a trademark of Bausch & Lomb Incorporated or its affiliates.
+
+© 2022 Bausch & Lomb Incorporated or its affiliates
+
+Revised: 03/2022
+
+9007907 (Folded)
+
+9005507 (Flat)
