@@ -1,9 +1,15 @@
-# WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS
+# WARNING: RISKS FROM CONCOMITANT USE WITH OPIOIDS; ABUSE, MISUSE, AND ADDICTION; and DEPENDENCE AND WITHDRAWAL REACTIONS
 
-## Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death (see WARNINGS and PRECAUTIONS).
+• Concomitant use of benzodiazepines and opioids may result in profound sedation, respiratory depression, coma, and death.
+Reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
+Limit dosages and durations to the minimum required.
+Follow patients for signs and symptoms of respiratory depression and sedation (see WARNINGS and PRECAUTIONS and PRECAUTIONS, Drug Interactions).
 
-• Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+• The use of benzodiazepines, including chlodiazepoxide hydrochloride, a component of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
+Before prescribing Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).
 
-• Limit dosages and durations to the minimum required.
-
-• Follow patients for signs and symptoms of respiratory depression and sedation.
+• The continued use of benzodiazepines, including Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules, may lead to clinically significant physical dependence.
+The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
+Abrupt discontinuation or rapid dosage reduction of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules after continued use may precipitate acute withdrawal reactions, which can be life-threatening.
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules or reduce the dosage (see WARNINGS and DOSAGE AND ADMINISTRATION).

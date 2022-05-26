@@ -1,77 +1,70 @@
 # MEDICATION GUIDE
 
-Chlordiazepoxide Hydrochloride and Clidinium Bromide (klor dye az e POKS ide hahy druh klohr id & kli DI nee um broh myde) Capsules, USP
+Chlordiazepoxide Hydrochloride and Clidinium Bromide (klor dye az e POKS ide hahy druh klohr id & kli DI nee um broh myde) Capsules, USP for oral use
 
 What is the most important information I should know about Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?
 
-- Do not stop taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules without first talking to your healthcare provider.
-  Stopping Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules suddenly can cause serious side effects.
+- Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules contain a benzodiazepine medicine.
+  Taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death.
+  Get emergency help right away if any of the following happens:
+  - shallow or slowed breathing
+  - breathing stops (which may lead to the heart stopping)
+  - excessive sleepiness (sedation)
 
-- Taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules with opioid medicines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death.
+Do not drive or operate heavy machinery until you know how taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules with opioids affect you.
 
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules affect you.﻿﻿﻿
+- Risk of abuse, misuse, and addiction.
+  There is a risk of abuse, misuse, and addiction with benzodiazepines, including Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules, which can lead to overdose or death.
+  - Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules.
+    These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing.
+    Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these serious side effects.
+  - You can develop an addiction even if you take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules as prescribed by your healthcare provider.
+  - Take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules exactly as your healthcare provider prescribed.
+  - Do not share your Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules with other people.
+  - Keep Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules in a safe place and away from children.
+- Physical dependence and withdrawal reactions.
+  Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules can cause physical dependence and withdrawal reactions.
+  - Do not suddenly stop using Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules.
+    Stopping Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules suddenly can cause serious and life-threatening side effects, including unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
+    Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms.
+  - Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months, including anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitches, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.
+  - Physical dependence is not the same as drug addiction.
+    Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
+  - Do not take more Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules than prescribed or take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules for longer than prescribed.
 
-- ﻿﻿﻿Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules without first talking to your healthcare provider.
-  When taken with alcohol or drugs that cause sleepiness or dizziness, Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules may make your sleepiness or dizziness much worse.
-
-- Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules can cause abuse and dependence.﻿
-
-- Do not stop taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules all of a sudden.
-  Stopping Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules suddenly can cause seizures, shaking, stomach and muscle cramps, vomiting and sweating.
-
-- Physical dependence is not the same as drug addiction.
-  Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
-
-﻿What are Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?
+What are Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?
 
 - Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules are prescription medicine that is used with other therapies for the treatment of:
-
-- stomach (peptic) ulcers
-
-- irritable bowel syndrome (IBS)
-
-- inflammation of the colon called acute enterocolitis
-
+  - stomach (peptic) ulcers
+  - irritable bowel syndrome (IBS)
+  - inflammation of the colon called acute enterocolitis
 - Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules contain the medicines chlordiazepoxide hydrochloride and clidinium bromide.
-
-- Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules can be abused or lead to dependence.
+- Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules contains chlordiazepoxide hydrochloride that can be abused or lead to dependence.
   Keep Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules in a safe place to prevent misuse and abuse.
   Selling or giving away Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules may harm others.
   Tell your healthcare provider if you have abused or been dependent on alcohol, prescription medicines or street drugs.
-
 - It is not known if Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules are safe and effective in children.
 
 Do not take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules if you:
 
 - have glaucoma
-
 - have an enlarged prostate
-
 - have a blockage of your bladder that causes problems with urination
-
 - are allergic to chlordiazepoxide hydrochloride or clidinium bromide
 
-﻿Before you take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules, tell your healthcare provider about all of your medical conditions, including if you:
+Before you take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules, tell your healthcare provider about all of your medical conditions, including if you:
 
 - have eye problems
-
 - have problems urinating or emptying your bladder
-
 - have coordination problems
-
 - have kidney or liver problems
-
 - have a history of depression, mental illness, or suicidal thoughts
-
 - have a history of drug or alcohol abuse or addiction
-
 - have bleeding problems
-
 - are pregnant or plan to become pregnant.
   Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules may harm your unborn baby.
   Avoid taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules during the first trimester of pregnancy.
   Tell your healthcare provider right away if you become pregnant during treatment with Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules.
-
 - are breastfeeding or plan to breastfeed.
   Chlordiazepoxide Hydrochloride and Clidinium Bromide may pass through your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules.
@@ -87,39 +80,33 @@ Especially tell your healthcare provider if you:
 
 - take a monoamine oxidase inhibitor (MAOI) medicine or an anti-psychotic medicine called phenothiazine.
 
-﻿How should I take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?
+How should I take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?
 
 - Take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules exactly as your healthcare provider tells you to take it.
-
 - Your healthcare provider may change your dose of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules if needed.
   Do not change your dose of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules or suddenly stop taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules without talking with your healthcare provider.
-
 - If you take too much Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?
 
 Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules may cause serious side effects, including: See “What is the most important information I should know about Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?”
 
+- Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules can make you sleepy or dizzy and can slow your thinking and motor skills.
+  - Do not drive, operate heavy machinery, or do other dangerous activities until you know how Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules affect you.
+  - Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules without first talking to your healthcare provider.
+    When taken with alcohol or drugs that cause sleepiness or dizziness, Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules may make your sleepiness or dizziness much worse.
+
 The most common side effects of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules include:
 
 - dry mouth
-
 - blurred vision
-
 - nausea
-
 - constipation
-
 - skin problems
-
 - swelling
-
 - irregular menstrual (periods) cycles
-
 - increased and decreased desire for sex (libido)
-
 - problems starting to urinate
-
 - drowsiness, coordination problems, and confusion may happen, especially in people who are elderly or weak
 
 These are not all the possible side effects of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules.
@@ -130,13 +117,12 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules?
 
 - Store Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules at room temperature 77°F (25°C).
-
 - Keep Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules and all medicines out of the reach of children.
 
 General information about the safe and effective use of Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules for a condition for which it was not prescribed.
+Do not take Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules for a condition for which it was not prescribed.
 Do not give Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules to other people, even if they have the same symptoms that you have.
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about Chlordiazepoxide Hydrochloride and Clidinium Bromide Capsules that is written for health professionals.
@@ -154,4 +140,4 @@ For more information, go to www.sunrisepharma.com or contact Sunrise Pharmaceuti
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 04/2020 5341/00
+Issued: 07/2021 5356/00

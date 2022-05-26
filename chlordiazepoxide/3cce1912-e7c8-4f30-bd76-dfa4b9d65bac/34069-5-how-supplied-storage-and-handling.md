@@ -9,7 +9,7 @@ Dispense in a tight, light-resistant container as defined in USP/NF.
 
 Manufactured by: Sunrise Pharmaceutical, Inc. Rahway, NJ 07065
 
-5291/02
+5355/00
 
 Rev.
-05/2020
+07/2021
