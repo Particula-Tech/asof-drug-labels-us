@@ -20,7 +20,6 @@ Forty-nine percent (49%) of patients treated with temozolomide reported one or m
 The most common adverse reactions (≥ 20%) across the cumulative temozolomide experience were alopecia, fatigue, nausea, and vomiting.
 Table 3 summarizes the adverse reactions in Newly Diagnosed Glioblastoma Trial.
 Overall, the pattern of reactions during the maintenance phase was consistent with the known safety profile of temozolomide.
-
 TABLE 3: Adverse Reactions (≥ 5%) in Patients Receiving Temozolomide in Newly Diagnosed Glioblastoma Trial
 
 | AdverseReactions | Concomitant Phase |  |  |  | MaintenancePhase |  |
