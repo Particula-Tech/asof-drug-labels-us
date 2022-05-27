@@ -82,27 +82,6 @@ Rx only.
 
 100 delayed-release capsules
 
-# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Carton - Professional Sample
-
-NDC 62541-405-10
-
-pancrelipase PANCREAZE ® Delayed-Release Capsules
-
-Each capsule contains:
-
-Lipase 21,000 USP Units Amylase 83,900 USP Units Protease 54,700 USP Units
-
-DOSE BY LIPASE UNITS
-
-Each delayed-release capsule contains enteric coated pancrelipase microtablets.
-This product is of porcine origin.
-
-Attention Pharmacist: Dispense the accompanying Medication Guide to each patient.
-
-Rx only.
-
-100 delayed-release capsules
-
 # PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Carton - NDC 62541-401-10
 
 NDC 62541-401-10

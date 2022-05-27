@@ -112,7 +112,7 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-You may also report side effects to VIVUS, Inc. at 1-888-998-4887.
+You may also report side effects to VIVUS LLC at 1-888-998-4887.
 
 How should I store PANCREAZE?
 
@@ -168,14 +168,14 @@ Nordmark Pharma GmbH
 
 Manufactured by:
 
-VIVUS, Inc.
+VIVUS LLC
 
 900 E. Hamilton Ave., Suite 550
 
 Campbell, CA 95008, USA
 
-©VIVUS, Inc. 2010-2021
+©VIVUS LLC 2010-2022
 
 U.S. License No. 2197
 
-PH-10-001-05
+PH-10-001-06
