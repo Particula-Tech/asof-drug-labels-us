@@ -201,3 +201,71 @@ PAA140447
 Hospira, Inc. Lake Forest, IL 60045 USA
 
 Hospira
+
+# PRINCIPAL DISPLAY PANEL - 0.5 mg/0.5 mL Syringe Label
+
+HYDROmorphone HCl Injection, USP
+
+PAA152907
+
+CII
+
+0.5 mg/0.5 mL
+
+# PRINCIPAL DISPLAY PANEL - 0.5 mg/0.5 mL Syringe Label - 4264
+
+TWIST & PULL
+
+Tamper Seal
+
+NDC 0409-4264-11
+
+CII
+
+HYDROmorphone HCl Injection, USP
+
+0.5 mg/0.5 mL
+
+Intravenous, Intramuscular, or Subcutaneous Use
+
+Protect from light Rx only
+
+0.5 mL Single-dose syringe
+
+PAA152909
+
+LOT #####AA EXP DMMMYYYY
+
+# PRINCIPAL DISPLAY PANEL - 0.5 mg/0.5 mL Syringe Cello Pack Label
+
+NDC 0409-4264-01
+
+HYDROmorphone HCl Injection, USP
+
+CII
+
+0.5 mg / 0.5 mL
+
+For Intravenous, Intramuscular, or Subcutaneous Use
+
+10 NexJect™ 0.5 mL Single-dose syringes with luer lock Rx only
+
+Needle not included
+
+Protect from light.
+Opaque covering needed until contents are used.
+
+Store at 20 to 25°C (68 to 77°F).
+[See USP Controlled Room Temperature.]
+
+Sterile Aqueous Injection Usual Dosage: See Package Insert.
+
+Each 0.5 mL contains 0.5 mg hydromorphone hydrochloride, 2.7 mg sodium lactate with sodium chloride for isotonicity. pH adjusted with lactic acid or sodium hydroxide.
+
+Do not use if solution is discolored or contains a precipitate.
+
+PAA152910
+
+Hospira, Inc. Lake Forest, IL 60045 USA
+
+Hospira
