@@ -8,7 +8,7 @@ Pirfenidone has the following structural formula, which has been referred to as 
 
 Pirfenidone is a white to pale yellow, non-hygroscopic, crystalline powder.
 It is sparingly soluble in water, freely soluble in ethanol (96%), and slightly soluble in heptane.
-The melting point range is 106°C to 112°C.
+The melting point range is 107°C to 111°C.
 
 Each pirfenidone capsule contains pirfenidone, 267 mg as active ingredient and the following inactive ingredients: croscarmellose sodium, hypromellose, lactose monohydrate, and magnesium stearate.
 In addition, the capsule shell contains gelatin and titanium dioxide.

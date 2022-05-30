@@ -3,7 +3,7 @@
 ## 5.1 Elevated Liver Enzymes and Drug-Induced Liver Injury
 
 Cases of drug-induced liver injury (DILI) have been observed with pirfenidone.
-In the postmarketing period, non-serious and serious cases of DILI, including severe liver injury with fatal outcome, have been reported.
+In the post-marketing period, non-serious and serious cases of DILI, including severe liver injury with fatal outcome, have been reported.
 Patients treated with pirfenidone 2,403 mg/day in three Phase 3 trials had a higher incidence of elevations in ALT or AST ≥ 3 × ULN than placebo patients (3.7% vs. 0.8%, respectively).
 Elevations ≥ 10 × ULN in ALT or AST occurred in 0.3% of patients in the pirfenidone 2,403 mg/day group and in 0.2% of patients in the placebo group.
 Increases in ALT and AST ≥ 3 × ULN were reversible with dose modification or treatment discontinuation.
