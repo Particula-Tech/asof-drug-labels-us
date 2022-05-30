@@ -12,5 +12,5 @@ It is a white, odorless, slightly bitter powder, very soluble in water.
 It has the following structural formula:
 
 Succinylcholine Chloride Injection, USP 200 mg/10 mL (20 mg/mL) is intended for multiple-dose administration and contains preservative.
-Each 1 mL of Succinylcholine Chloride Injection, USP 200 mg/10 mL (20 mg/mL) multiple-dose fliptop vials contains: 20 mg of succinylcholine anhydrous (equivalent to 22.65 mg of Succinylcholine Chloride, USP), 1.8 mg of methylparaben and 0.2 mg of propylparaben as preservatives, 4.65 mg of sodium chloride as iso-osmotic agent, and sodium hydroxide and hydrochloric acid as pH adjusters in water for injection.
+Each 1 mL of Succinylcholine Chloride Injection, USP 200 mg/10 mL (20 mg/mL) multiple-dose fliptop vials contains: 20 mg of succinylcholine anhydrous (equivalent to 22.65 mg of Succinylcholine Chloride, USP), 1.8 mg of methylparaben and 0.2 mg of propylparaben as preservatives, 4.70 mg of sodium chloride as iso-osmotic agent, and sodium hydroxide and hydrochloric acid as pH adjusters in water for injection.
 The pH of the solution is between 3.0 and 4.5, with an osmolarity of 0.338 mOsm/mL (calc.).

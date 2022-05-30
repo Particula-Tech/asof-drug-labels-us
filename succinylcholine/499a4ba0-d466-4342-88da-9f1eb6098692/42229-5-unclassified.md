@@ -10,8 +10,6 @@ Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-PSSO0399
+PSSO0438
 
-Revised: December, 2021
-
-ST-SUC11/P/02
+ST-SUC11/P/03
