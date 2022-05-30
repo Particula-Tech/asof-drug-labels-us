@@ -5,10 +5,10 @@
 Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes.
 Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor.
 
-Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, atopic dermatitis, and CRSwNP.
+Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, atopic dermatitis, CRSwNP, and EoE.
 Multiple cell types that express IL-4Rα (e.g., mast cells, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation.
 Blocking IL-4Rα with dupilumab inhibits IL-4 and IL-13 cytokine-induced inflammatory responses, including the release of proinflammatory cytokines, chemokines, nitric oxide, and IgE.
-The mechanism of dupilumab action in asthma has not been definitively established.
+The mechanism of dupilumab action has not been definitively established.
 
 ## 12.2 Pharmacodynamics
 
@@ -31,15 +31,15 @@ Antibody responses to other non-live vaccines were also not assessed.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of dupilumab is similar in subjects with atopic dermatitis, asthma, and CRSwNP.
+The pharmacokinetics of dupilumab is similar in subjects with atopic dermatitis, asthma, CRSwNP, and EoE.
 
 Absorption
 
 Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilumab reached peak mean ± SD concentrations (Cmax) of 70.1±24.1 mcg/mL, 41.8±12.4 mcg/mL, or 30.5±9.39 mcg/mL, respectively, by approximately 1 week post dose.
-Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly (twice the recommended dosing frequency) or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
-Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 193±77.0 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mg/L for 200 mg administered Q2W.
+Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
+Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mg/L for 200 mg administered Q2W.
 
-The bioavailability of dupilumab following a SC dose is similar between AD, asthma, and CRSwNP subjects, ranging between 61% and 64%.
+The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, and EoE subjects, ranging between 61% and 64%.
 
 Distribution
 
@@ -91,6 +91,11 @@ The mean ± SD steady-state trough concentrations of dupilumab were 107±51.6 mc
 In VOYAGE, dupilumab pharmacokinetics was investigated in 270 subjects with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 pediatric subjects weighing <30 kg) or 200 mg Q2W (for 179 pediatric subjects weighing ≥30 kg).
 The mean ± SD steady-state trough concentration was 58.4±28.0 mcg/mL and 85.1±44.9 mcg/mL, respectively.
 Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years of age with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mg/L) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg).
+
+Eosinophilic Esophagitis
+
+In a clinical study (Parts A and B), dupilumab pharmacokinetics were investigated in 35 pediatric subjects 12 to 17 years of age, weighing at least 40 kg, with EoE, receiving 300 mg QW.
+The mean ± SD steady-state trough concentration of dupilumab was 227 ± 95.3 mcg/mL.
 
 Drug Interaction Studies
 

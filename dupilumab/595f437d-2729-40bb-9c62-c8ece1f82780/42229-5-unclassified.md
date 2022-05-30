@@ -14,5 +14,5 @@ Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591)
 
 DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2021 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.

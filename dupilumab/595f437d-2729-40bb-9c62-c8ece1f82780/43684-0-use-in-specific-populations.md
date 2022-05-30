@@ -30,7 +30,7 @@ Data
 
 Animal Data
 
-In an enhanced pre and post-natal development toxicity study, pregnant cynomolgus monkeys were administered weekly subcutaneous doses of homologous antibody against IL-4Rα up to 10 times the MRHD (on a mg/kg basis of 100 mg/kg/week) from the beginning of organogenesis to parturition.
+In an enhanced pre- and post-natal development toxicity study, pregnant cynomolgus monkeys were administered weekly subcutaneous doses of homologous antibody against IL-4Rα up to 10 times the MRHD (on a mg/kg basis of 100 mg/kg/week) from the beginning of organogenesis to parturition.
 No treatment-related adverse effects on embryo-fetal toxicity or malformations, or on morphological, functional, or immunological development were observed in the infants from birth through 6 months of age.
 
 ## 8.2 Lactation
@@ -89,6 +89,14 @@ CRSwNP
 CRSwNP does not normally occur in pediatric patients.
 Safety and effectiveness in pediatric patients younger than 18 years of age with CRSwNP have not been established.
 
+EoE
+
+The safety and effectiveness of DUPIXENT for the treatment of EoE have been established in pediatric patients 12 years of age and older, weighing at least 40 kg.
+Use of DUPIXENT in this population is supported by an adequate and well-controlled study in adults (Parts A and B) which included 72 pediatric patients 12 to 17 years of age, weighing at least 40 kg, and additional pharmacokinetic data.
+The safety and effectiveness in adults and pediatric patients were similar [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.4)].
+
+The safety and effectiveness of DUPIXENT for the treatment of EoE in pediatric patients less than 12 years of age and weighing less than 40 kg have not been established.
+
 ## 8.5 Geriatric Use
 
 Of the 1472 subjects with atopic dermatitis exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 67 subjects were 65 years or older.
@@ -99,3 +107,5 @@ Efficacy and safety in this age group was similar to the overall study populatio
 
 Of the 440 subjects with CRSwNP exposed to DUPIXENT, a total of 79 subjects were 65 years or older.
 Efficacy and safety in this age group were similar to the overall study population.
+
+Clinical studies of DUPIXENT in EoE did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger adult subjects.

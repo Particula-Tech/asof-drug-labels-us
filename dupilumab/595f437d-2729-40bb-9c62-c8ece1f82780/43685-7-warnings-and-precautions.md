@@ -13,13 +13,15 @@ Conjunctivitis and keratitis occurred more frequently in atopic dermatitis subje
 Conjunctivitis was the most frequently reported eye disorder.
 Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period [see Adverse Reactions (6.1)].
 
-Among asthma subjects, the frequencies of conjunctivitis and keratitis were similar between DUPIXENT and placebo [see Adverse Reactions (6.1)].
-
 In subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT group compared to 1% in the placebo group in the 24-week safety pool; these subjects recovered.
 There were no cases of keratitis reported in the CRSwNP development program [see Adverse Reactions (6.1)].
 
+Among subjects with asthma, the frequencies of conjunctivitis and keratitis were similar between DUPIXENT and placebo [see Adverse Reactions (6.1)].
+
+Among subjects with EoE, the frequency of conjunctivitis and keratitis was 0% and 0% in the DUPIXENT group and 2% and 0% in the placebo group, respectively [see Adverse Reactions (6.1)].
+
 Conjunctivitis and keratitis adverse events have also been reported with DUPIXENT in postmarketing settings, predominantly in atopic dermatitis patients.
-Some patients reported visual disturbances (e.g. blurred vision) associated with conjunctivitis or keratitis.
+Some patients reported visual disturbances (e.g., blurred vision) associated with conjunctivitis or keratitis.
 
 Advise patients to report new onset or worsening eye symptoms to their healthcare provider.
 Consider ophthalmological examination for patients who develop conjunctivitis that does not resolve following standard treatment or signs and symptoms suggestive of keratitis, as appropriate [see Adverse Reactions (6.1)].
@@ -46,7 +48,7 @@ Reduction in corticosteroid dose may be associated with systemic withdrawal symp
 
 ## 5.6 Patients with Co-morbid Asthma
 
-Advise patients with atopic dermatitis or CRSwNP who have co-morbid asthma not to adjust or stop their asthma treatments without consultation with their physicians.
+Advise patients with co-morbid asthma not to adjust or stop their asthma treatments without consultation with their physicians.
 
 ## 5.7 Arthralgia
 

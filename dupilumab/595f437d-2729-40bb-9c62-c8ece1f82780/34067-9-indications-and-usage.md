@@ -16,3 +16,7 @@ DUPIXENT is not indicated for the relief of acute bronchospasm or status asthmat
 ## 1.3 Chronic Rhinosinusitis with Nasal Polyposis
 
 DUPIXENT is indicated as an add-on maintenance treatment in adult patients with inadequately controlled chronic rhinosinusitis with nasal polyposis (CRSwNP).
+
+## 1.4 Eosinophilic Esophagitis
+
+DUPIXENT is indicated for the treatment of adult and pediatric patients aged 12 years and older, weighing at least 40 kg, with eosinophilic esophagitis (EoE).
