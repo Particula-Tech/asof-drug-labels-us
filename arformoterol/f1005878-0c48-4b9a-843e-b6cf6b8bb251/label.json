@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215385"
+  ],
+  "inn": "arformoterol",
+  "labeler": "Sun Pharmaceutical Industries, Inc.",
+  "package_ndcs": [
+    "62756-277-02",
+    "62756-277-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "arformoterol tartrate",
+      "name": "Arformoterol Tartrate"
+    }
+  ],
+  "setid": "f1005878-0c48-4b9a-843e-b6cf6b8bb251",
+  "source": "dailymed"
+}
