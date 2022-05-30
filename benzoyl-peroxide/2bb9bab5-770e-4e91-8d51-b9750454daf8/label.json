@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214510"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Sol-Gel Technologies Inc.",
+  "package_ndcs": [
+    "79167-005-50"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "benzoyl peroxide",
+      "name": "EPSOLAY"
+    }
+  ],
+  "setid": "2bb9bab5-770e-4e91-8d51-b9750454daf8",
+  "source": "dailymed"
+}
