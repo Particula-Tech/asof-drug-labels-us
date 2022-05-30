@@ -45,10 +45,19 @@ Before you use dorzolamide hydrochloride-timolol maleate ophthalmic solution (pr
   It is not known if dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) will harm your unborn baby.
   If you become pregnant while using dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) talk to your doctor right away.
 - •are breastfeeding or plan to breastfeed.
-  It is not known whether dorzolamide passes into yourbreast milk however, timolol has been detected in breast milk.
-  Talk to your doctor about the bestway to feed your baby if you use dorzolamide hydrochloride-timolol maleate ophthalmic solution(preservative-free).Tell your doctor about all the medicines you take, including prescription and non-prescription medicines,vitamins, and herbal supplements.Dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) and other medicines may affect each other causing side effects.
-  Dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) may affect the way other medicines work, and other medicines may affect how dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) works.Know the medicines you take.
-  Keep a list of them to show your doctor and pharmacist when you get a new medicine.How should I use dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free)?Read the Instructions for Use at the end of this Patient Information leaflet for additional instructions about the right way to use dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free).
+  It is not known whether dorzolamide passes into your
+- breast milk however, timolol has been detected in breast milk.
+  Talk to your doctor about the best
+- way to feed your baby if you use dorzolamide hydrochloride-timolol maleate ophthalmic solution
+- (preservative-free).
+- Tell your doctor about all the medicines you take, including prescription and non-prescription medicines,
+- vitamins, and herbal supplements.
+- Dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) and other medicines may affect each other causing side effects.
+  Dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) may affect the way other medicines work, and other medicines may affect how dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) works.
+- Know the medicines you take.
+  Keep a list of them to show your doctor and pharmacist when you get a new medicine.
+- How should I use dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free)?
+- Read the Instructions for Use at the end of this Patient Information leaflet for additional instructions about the right way to use dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free).
 
 What are the possible side effects of dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free)?
 
@@ -60,21 +69,21 @@ Dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free
 - •heart failure.
   This can happen in people who already have heart failure and in people who have never had heart failure before.
   Tell your doctor right away if you get any of these symptoms of heart failure while taking dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free):
-- oshortness of breath
-- oirregular heartbeat (palpitations)
-- oswelling of your ankles or feet
-- osudden weight gain
+- •shortness of breath
+- •irregular heartbeat (palpitations)
+- •swelling of your ankles or feet
+- •sudden weight gain
 - •severe allergic reactions.
   These allergic reactions can happen the first time you use dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) or after you have been using dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) for a while and may cause death.
   Stop taking dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) and call your doctor right away or get emergency help if you get any of these symptoms of an allergic reaction
-- oswelling of your face, lips, mouth, or tongue
-- otrouble breathing
-- owheezing
-- osevere itching
-- oskin rash, redness, or swelling
-- odizziness or fainting
-- ofast heartbeat or pounding in your chest (tachycardia)
-- osweating
+- •swelling of your face, lips, mouth, or tongue
+- •trouble breathing
+- •wheezing
+- •severe itching
+- •skin rash, redness, or swelling
+- •dizziness or fainting
+- •fast heartbeat or pounding in your chest (tachycardia)
+- •sweating
 - •worsening muscle weakness.
   Dorzolamide hydrochloride-timolol maleate ophthalmic solution (preservative-free) can cause muscle weakness to get worse in people who already have problems with muscle weakness (myasthenia gravis).
 - •kidney problems.
