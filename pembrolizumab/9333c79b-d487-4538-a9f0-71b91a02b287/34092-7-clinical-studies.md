@@ -1555,31 +1555,39 @@ Patients were randomized (2:1) to one of the following treatment arms; all study
 - Placebo on Day 1 every 3 weeks in combination with paclitaxel protein-bound 100 mg/m2 on Days 1, 8 and 15 every 28 days, paclitaxel 90 mg/m2 on Days 1, 8, and 15 every 28 days, or gemcitabine 1000 mg/m2 and carboplatin AUC 2 mg/mL/min on Days 1 and 8 every 21 days.
 
 Assessment of tumor status was performed at Weeks 8, 16, and 24, then every 9 weeks for the first year, and every 12 weeks thereafter.
-The main efficacy outcome measure was PFS as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ tested in the subgroup of patients with CPS ≥10.
-Additional efficacy outcome measures were OS as well as ORR and DoR as assessed by BICR.
+The main efficacy outcome measures were OS and PFS as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, tested in the subgroup of patients with CPS ≥10.
+Additional efficacy outcome measures were ORR and DoR as assessed by BICR.
 
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 85 and Figure 25 summarize the efficacy results for KEYNOTE-355.
+Table 85 and Figures 25 and 26 summarize the efficacy results for KEYNOTE-355.
 
 Table 85: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks with chemotherapy n=220 | Placebo every 3 weeks with chemotherapy n=103 |
 | --- | --- | --- |
-| PFS |  |  |
+| OSBased on the pre-specified final analysis |  |  |
+| Number of patients with event (%) | 155 (70%) | 84 (82%) |
+| Median in months (95% CI) | 23 (19.0, 26.3) | 16.1 (12.6, 18.8) |
+| Hazard ratioBased on stratified Cox regression model (95% CI) | 0.73 (0.55, 0.95) |  |
+| p-ValueOne-sided p-Value based on stratified log-rank test (compared to a significance level of 0.0113) | 0.0093 |  |
+| PFSBased on a pre-specified interim analysis |  |  |
 | Number of patients with event (%) | 136 (62%) | 79 (77%) |
 | Median in months (95% CI) | 9.7 (7.6, 11.3) | 5.6 (5.3, 7.5) |
-| Hazard ratioBased on stratified Cox regression model (95% CI) | 0.65 (0.49, 0.86) |  |
-| p-ValueOne-sided p-Value based on stratified log-rank test | 0.0012 |  |
-| ORR |  |  |
-| Objective confirmed response rate (95% CI) | 53% (46, 60) | 40% (30, 50) |
-| Complete response rate | 17% | 13% |
-| Partial response rate | 36% | 27% |
-| DoR |  |  |
-| Median in months (95% CI) | 19.3 (9.9, 29.8) | 7.3 (5.3, 15.8) |
+| Hazard ratio (95% CI) | 0.65 (0.49, 0.86) |  |
+| p-ValueOne-sided p-Value based on stratified log-rank test (compared to a significance level of 0.00411) | 0.0012 |  |
+| Objective Response Rate (Confirmed) |  |  |
+| ORR (95% CI) | 53% (46, 59) | 41% (31, 51) |
+| Complete response rate | 17% | 14% |
+| Partial response rate | 35% | 27% |
+| Duration of Response | n=116 | n=42 |
+| Median in months (95% CI) | 12.8 (9.9, 25.9) | 7.3 (5.5, 15.4) |
 
-| Figure 25: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 25: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
+| --- |
+
+| Figure 26: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.19 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
