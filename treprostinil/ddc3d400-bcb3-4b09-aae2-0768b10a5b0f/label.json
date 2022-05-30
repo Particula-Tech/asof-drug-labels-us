@@ -1,0 +1,35 @@
+{
+  "application_numbers": [
+    "NDA214324"
+  ],
+  "inn": "treprostinil",
+  "labeler": "United Therapeutics Corporation",
+  "package_ndcs": [
+    "66302-600-02",
+    "66302-610-02",
+    "66302-616-03",
+    "66302-620-03",
+    "66302-632-03",
+    "66302-648-03",
+    "66302-664-03",
+    "66302-716-04",
+    "66302-720-04",
+    "66302-732-04",
+    "66302-748-04",
+    "66302-764-04"
+  ],
+  "products": [
+    {
+      "form": "INHALANT",
+      "generic": "treprostinil",
+      "name": "Tyvaso DPI"
+    },
+    {
+      "form": "KIT",
+      "generic": "treprostinil",
+      "name": "Tyvaso DPI"
+    }
+  ],
+  "setid": "ddc3d400-bcb3-4b09-aae2-0768b10a5b0f",
+  "source": "dailymed"
+}
