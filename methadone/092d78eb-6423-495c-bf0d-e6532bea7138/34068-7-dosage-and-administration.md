@@ -31,7 +31,7 @@ Initiate the dosing regimen for each patient individually, taking into account t
 
 Monitor patients closely for respiratory depression, especially within the first 24 to 72 hours of initiating therapy and following dosage increases with Methadone Hydrochloride Injection and adjust the dosage accordingly (see WARNINGS).
 
-Methadone Hydrochloride Injection may be administered intravenously, subcutaneously or intramuscularly.
+Methadone Hydrochloride Injection multiple-dose vials may be administered intravenously, subcutaneously or intramuscularly.
 The absorption of subcutaneous and intramuscular methadone has not been well characterized and appears to be unpredictable.
 Local tissue reactions may occur.
 
@@ -72,11 +72,11 @@ Oral Morphine to Intravenous Methadone Conversion for Chronic Administration
 
 | Total Daily Baseline Oral Morphine Dose | Estimated Daily Oral Methadone Requirement as Percent of Total Daily Morphine Dose | Estimated Daily Intravenous Methadone as Percent of Total Daily Oral Morphine DoseThe total daily methadone dose derived from the table above may then be divided to reflect the intended dosing schedule (i.e., for administration every 8 hours, divide total daily methadone dose by 3). |
 | --- | --- | --- |
-| < 100 mg | 20% to 30% | 10% to 15% |
-| 100 to 300 mg | 10% to 20% | 5% to 10% |
-| 300 to 600 mg | 8% to 12% | 4% to 6% |
+| Less than 100 mg | 20% to 30% | 10% to 15% |
+| 100 mg to 300 mg | 10% to 20% | 5% to 10% |
+| 300 mg to 600 mg | 8% to 12% | 4% to 6% |
 | 600 mg to 1000 mg | 5% to 10% | 3% to 5% |
-| > 1000 mg | < 5% | < 3% |
+| Greater than 1000 mg | Less than 5% | Less than 3% |
 
 Table 2.
 Parenteral Morphine to Intravenous Methadone Conversion for Chronic Administration (Derived from Table 1, Assuming a 3:1 Oral:Parenteral Morphine Ratio)

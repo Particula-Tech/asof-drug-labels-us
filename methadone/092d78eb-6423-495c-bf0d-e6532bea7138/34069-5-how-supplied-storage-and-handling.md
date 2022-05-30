@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Methadone Hydrochloride Injection USP, 200 mg/20 mL (10 mg/mL) is available in:
+Methadone Hydrochloride Injection USP, 200 mg/20 mL (10 mg/mL) is a clear, colorless solution and is available in:
 
-NDC 67457-217-20 20 mL Multi-Dose Vials: One vial per carton
+NDC 67457-217-20 20 mL Multiple-Dose Vials: One vial per carton
 
-Store at 20° to 25°C (68° to 77°F), with excursions permitted between 15° to 30°C (59° to 86°F).
+Store at 20°C to 25°C (68°F to 77°F), with excursions permitted between 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]
 
 Protect from light.
@@ -14,4 +14,4 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Alcami Corporation Charleston, SC 29405 U.S.A.
 
-PC-3374I Revised: 6/2021 MI:MTHDIJ:R6
+PC-3374K Revised: 5/2022 MI:MTHDIJ:R8
