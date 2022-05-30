@@ -1,0 +1,11 @@
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+Brinzolamide ophthalmic suspension USP, 1% is supplied in a round LDPE bottle with an extended LLDPE controlled dropper tip and an orange HDPE cap as follows:
+
+10 mL NDC 24208-464-10 15 mL NDC 24208-464-15
+
+Storage and Handling
+
+Store brinzolamide ophthalmic suspension USP, 1% at 4°C to 30°C (39°F to 86°F).
+Shake well before use.
+After opening, brinzolamide ophthalmic suspension USP, 1% can be used until the expiration date on the bottle.
