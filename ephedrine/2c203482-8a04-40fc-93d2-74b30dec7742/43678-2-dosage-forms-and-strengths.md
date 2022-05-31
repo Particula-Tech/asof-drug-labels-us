@@ -1,3 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Ephedrine Sulfate Injection, 5 mg/mL is a clear, colorless solution available in a single‑dose, 10 mL vial that contains 50 mg/10 mL ephedrine sulfate, equivalent to 38 mg ephedrine base.
+Ephedrine Sulfate Injection, 5 mg/mL is a clear, colorless solution available in:
+
+- a single‑dose, 10 mL vial that contains 50 mg/10 mL ephedrine sulfate, equivalent to 38 mg ephedrine base;
+- a single‑dose, 5 mL prefilled syringe that contains 25 mg/5 mL ephedrine sulfate, equivalent to 19 mg ephedrine base.
