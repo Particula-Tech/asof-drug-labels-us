@@ -1,16 +1,23 @@
 {
   "application_numbers": [
-    "ANDA203765"
+    "ANDA203765",
+    "ANDA204669"
   ],
   "inn": "octreotide",
   "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
   "package_ndcs": [
     "23155-685-31",
-    "23155-686-31"
+    "23155-686-31",
+    "23155-687-31",
+    "23155-687-41",
+    "23155-688-31",
+    "23155-688-41",
+    "23155-689-31",
+    "23155-689-41"
   ],
   "products": [
     {
-      "form": "INJECTION",
+      "form": "INJECTION, SOLUTION",
       "generic": "octreotide acetate",
       "name": "OCTREOTIDE ACETATE"
     }
