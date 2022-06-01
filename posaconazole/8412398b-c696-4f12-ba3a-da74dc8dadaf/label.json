@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212226"
+  ],
+  "inn": "posaconazole",
+  "labeler": "SpecGx LLC",
+  "package_ndcs": [
+    "0406-7711-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "posaconazole",
+      "name": "POSACONAZOLE"
+    }
+  ],
+  "setid": "8412398b-c696-4f12-ba3a-da74dc8dadaf",
+  "source": "dailymed"
+}
