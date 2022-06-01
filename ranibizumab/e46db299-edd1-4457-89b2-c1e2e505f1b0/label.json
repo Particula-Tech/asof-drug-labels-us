@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761202"
+  ],
+  "inn": "ranibizumab",
+  "labeler": "BIOGEN INC.",
+  "package_ndcs": [
+    "64406-019-01",
+    "64406-019-07"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ranibizumab",
+      "name": "Byooviz"
+    }
+  ],
+  "setid": "e46db299-edd1-4457-89b2-c1e2e505f1b0",
+  "source": "dailymed"
+}
