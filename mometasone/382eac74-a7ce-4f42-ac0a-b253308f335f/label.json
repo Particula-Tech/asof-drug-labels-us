@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211746"
+  ],
+  "inn": "mometasone",
+  "labeler": "HIKMA SPECIALTY USA INC.",
+  "package_ndcs": [
+    "59467-700-27",
+    "59467-700-84"
+  ],
+  "products": [
+    {
+      "form": "SPRAY, METERED",
+      "generic": "olopatadine hydrochloride and mometasone furoate",
+      "name": "Ryaltris"
+    }
+  ],
+  "setid": "382eac74-a7ce-4f42-ac0a-b253308f335f",
+  "source": "dailymed"
+}
