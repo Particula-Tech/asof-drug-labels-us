@@ -14,6 +14,8 @@ Rx only
 
 BAUSCH Health
 
+9422103
+
 PRINCIPAL DISPLAY PANEL - 348 mg Tablet Bottle Label
 
 NDC 0187-5811-30 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
@@ -30,6 +32,8 @@ Rx only
 
 BAUSCH Health
 
+9422303
+
 PRINCIPAL DISPLAY PANEL - 522 mg Tablet Bottle Label
 
 NDC 0187-5812-30 ONCE DAILY Aplenzin® (bupropion hydrobromide) Extended-Release Tablets
@@ -45,3 +49,5 @@ Federal Law requires dispensing of Aplenzin with the Medication Guide attached t
 Rx only
 
 BAUSCH Health
+
+9422503
