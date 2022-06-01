@@ -62,6 +62,6 @@ by:
 
 GlaxoSmithKline Research Triangle Park, NC 27709
 
-©2021 ViiV Healthcare group of companies or its licensor.
+©2022 ViiV Healthcare group of companies or its licensor.
 
-JLC:7PI
+JLC:8PI

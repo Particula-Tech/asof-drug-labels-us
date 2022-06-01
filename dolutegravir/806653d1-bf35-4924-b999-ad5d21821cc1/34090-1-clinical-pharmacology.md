@@ -10,7 +10,7 @@ Cardiac Electrophysiology
 
 The effect of JULUCA on the QT interval has not been studied.
 
-In a randomized, placebo-controlled, crossover trial, 42 healthy subjects received single-dose oral administration of placebo, dolutegravir 250-mg suspension (exposures approximately 3–fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
+In a randomized, placebo-controlled, crossover trial, 42 healthy subjects received single-dose oral administration of placebo, dolutegravir 250-mg suspension (exposures approximately 3-fold of the 50-mg once-daily dose at steady state), and moxifloxacin 400 mg (active control) in random sequence.
 After baseline and placebo adjustment, the maximum mean QTc change based on Fridericia correction method (QTcF) for dolutegravir was 2.4 msec (1-sided 95% upper CI: 4.9 msec).
 Dolutegravir did not prolong the QTc interval over 24 hours postdose.
 
@@ -103,7 +103,7 @@ Pharmacokinetic Results of Rilpivirine during the 2nd and 3rd Trimesters of Preg
 | Cmin (ng/mL) | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |  |  |  |  |  |  |
 | Cmax (ng/mL) | 167 ± 101 | 121 ±45.9 | 123 ± 47.5 |  |  |  |  |  |  |
 | Tmax (h), median (range) | 4.00 (2.03-25.08) | 4.00 (1.00-9.00) | 4.00 (2.00-24.93) |  |  |  |  |  |  |
-| AUC24h (ng.h/mL) | 2,714 ± 1,535 | 1,792 ± 711 | 1,762 ± 662 |  |  |  |  |  |  |
+| AUC24h (ng•h/mL) | 2,714 ± 1,535 | 1,792 ± 711 | 1,762 ± 662 |  |  |  |  |  |  |
 | a Total rilpivirine exposure after administration of rilpivirine 25 mg once daily as part of an antiretroviral regimen. |  |  |  |  |  |  |  |  |  |
 
 Drug Interaction Studies

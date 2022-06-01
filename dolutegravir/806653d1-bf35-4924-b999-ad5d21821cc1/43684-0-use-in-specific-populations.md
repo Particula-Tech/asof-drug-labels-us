@@ -71,7 +71,7 @@ Risk Summary
 
 The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 
-It is not known whether JULUCA or components of JULUCA are present in human breast milk, affect human milk production, or have effects on the breastfed infant.
+It is not known whether JULUCA or components of JULUCA are present in human breast milk, affect human milk production or have effects on the breastfed infant.
 When administered to lactating rats, dolutegravir and rilpivirine were present in milk (see Data).
 
 Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving JULUCA.
