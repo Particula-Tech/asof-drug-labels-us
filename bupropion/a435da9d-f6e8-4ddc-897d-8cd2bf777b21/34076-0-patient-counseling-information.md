@@ -86,6 +86,6 @@ APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 All other product/brand names are the trademarks of the respective owners.
 
-© 2021 Bausch Health Companies Inc. or its affiliates
+© 2022 Bausch Health Companies Inc. or its affiliates
 
-9395609
+9395609 20005066
