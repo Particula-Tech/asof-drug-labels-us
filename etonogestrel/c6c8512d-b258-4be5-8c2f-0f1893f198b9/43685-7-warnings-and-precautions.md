@@ -78,7 +78,9 @@ If a patient exhibits signs or symptoms of TSS, consider the possibility of this
 
 ## 5.3 Liver Disease
 
-Do not use EluRyng in women with liver disease such as acute viral hepatitis or severe (decompensated) cirrhosis of the liver[see Contraindications (4)].
+Impaired Liver Function
+
+Do not use EluRyng in women with liver disease such as acute viral hepatitis or severe (decompensated) cirrhosis of the liver [see Contraindications (4)].
 Acute or chronic disturbances of liver function may necessitate the discontinuation of CHC use until markers of liver function return to normal and CHC causation has been excluded [see Use in Specific Populations (8.6)].
 Discontinue EluRyng use if jaundice develops.
 
@@ -167,7 +169,7 @@ If the patient has adhered to the prescribed regimen and misses two consecutive 
 
 Some women may experience amenorrhea or oligomenorrhea after discontinuing CHC use, especially when such a condition was pre-existent.
 
-## 5.10 Inadvertent Urinary Bladder Insertion
+## 5.12 Inadvertent Urinary Bladder Insertion
 
 There have been reports of inadvertent insertions of EluRyng into the urinary bladder, which required cystoscopic removal.
 Assess for ring insertion into the urinary bladder in EluRyng users who present with persistent urinary symptoms and are unable to locate the ring.
@@ -176,12 +178,17 @@ Assess for ring insertion into the urinary bladder in EluRyng users who present 
 
 Carefully observe women with a history of depression and discontinue EluRyng use if depression recurs to a serious degree.
 
-## 5.14 Carcinoma of the Breasts and Cervix
+## 5.14 Malignant Neoplasms
 
-EluRyng is contraindicated in women who currently have or have had breast cancer because breast cancer is a hormonally-sensitive tumor [see Contraindications (4)].
+Breast Cancer
 
-There is substantial evidence that CHCs do not increase the incidence of breast cancer.
-Although some past studies have suggested that CHCs might increase the incidence of breast cancer, more recent studies have not confirmed such findings.
+EluRyng is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally-sensitive [see Contraindications (4)].
+
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use [see Postmarketing Experience (6.2)].
+
+Cervical Cancer
 
 Some studies suggest that CHCs are associated with an increase in the risk of cervical cancer or intraepithelial neoplasia.
 However, there is controversy about the extent to which these findings may be due to differences in sexual behavior and other factors.

@@ -24,9 +24,9 @@ Table 2: Mean (SD) Serum Etonogestrel and Ethinyl Estradiol Concentrations (n=16
 | etonogestrel (pg/mL) | 1578 (408) | 1476 (362) | 1374 (328) |
 | ethinyl estradiol (pg/mL) | 19.1 (4.5) | 18.3 (4.3) | 17.6 (4.3) |
 
-The pharmacokinetic profile of etonogestrel and ethinyl estradiol during use of EluRyng is shown in Figure 2.
+The pharmacokinetic profile of etonogestrel and ethinyl estradiol during use of EluRyng is shown in Figure 3.
 
-Figure 2: Mean Serum Concentration-Time Profile of Etonogestrel and Ethinyl Estradiol during Three Weeks of EluRyng Use
+Figure 3: Mean Serum Concentration-Time Profile of Etonogestrel and Ethinyl Estradiol during Three Weeks of EluRyng Use
 
 The pharmacokinetic parameters of etonogestrel and ethinyl estradiol were determined during one cycle of EluRyng use in 16 healthy female subjects and are summarized in Table 3.
 
@@ -45,7 +45,7 @@ t1/2 - elimination half-life, calculated by 0.693/Kelim
 
 CL - apparent clearance
 
-Prolonged use ofEluRyng: The mean serum etonogestrel concentration at the end of the fourth week of continuous use of EluRyng was 1272 ± 311 pg/mL compared to a mean concentration range of 1578 ± 408 to 1374 ± 328 pg/mL at the end of weeks one to three.
+Prolonged use of EluRyng: The mean serum etonogestrel concentration at the end of the fourth week of continuous use of EluRyng was 1272 ± 311 pg/mL compared to a mean concentration range of 1578 ± 408 to 1374 ± 328 pg/mL at the end of weeks one to three.
 The mean serum ethinyl estradiol concentration at the end of the fourth week of continuous use of EluRyng was 16.8 ± 4.6 pg/mL compared to a mean concentration range of 19.1 ± 4.5 to 17.6 ± 4.3 pg/mL at the end of weeks one to three.
 
 Distribution
@@ -81,4 +81,4 @@ The serum concentrations of etonogestrel and ethinyl estradiol were not affected
 
 Tampon Use
 
-The use of tampons had no effect on serum concentrations of etonogestrel and ethinyl estradiol during use of etonogestrel and ethinyl estradiol vaginal ring [see Dosage and Administration (2.5)].
+The use of tampons had no effect on serum concentrations of etonogestrel and ethinyl estradiol during use of EluRyng [see Dosage and Administration (2.5)].

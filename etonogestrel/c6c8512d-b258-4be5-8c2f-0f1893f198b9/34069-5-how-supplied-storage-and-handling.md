@@ -4,7 +4,7 @@ Each EluRyng (etonogestrel and ethinyl estradiol vaginal ring) is individually p
 The ring should be replaced in this reclosable pouch after use and discarded in a waste receptacle out of the reach of children and pets.
 It should not be flushed down the toilet.
 
-Carton of 3pouches NDC 65162-469-35
+Carton of 3 pouches NDC 65162-469-35
 
 ## 16.1 Storage
 

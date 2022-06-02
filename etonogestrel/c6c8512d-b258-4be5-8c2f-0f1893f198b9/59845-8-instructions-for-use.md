@@ -54,7 +54,7 @@ If you are starting EluRyng after childbirth:
   You may need a pregnancy test to make sure you are not pregnant before you start using EluRyng.
 - Use another birth control method such as male condoms with spermicide for the first 7 days in addition to EluRyng.
 
-If you are breastfeeding you should not useEluRyng.
+If you are breastfeeding you should not use EluRyng.
 Use other birth control methods until you are no longer breastfeeding.
 
 Step 1.
@@ -174,4 +174,4 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-05-2019-02
+05-2022-03

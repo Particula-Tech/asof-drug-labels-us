@@ -24,7 +24,7 @@ The better you follow the directions, the less chance you have of getting pregna
 
 Based on the results of a US clinical study, approximately 1 to 3 women out of 100 women may get pregnant during the first year they use EluRyng.
 
-of getting pregnant for women who use different methods of birth control.
+The following chart shows the chance of getting pregnant for women who use different methods of birth control.
 Each box on the chart contains a list of birth control methods that are similar in effectiveness.
 The most effective methods are at the top of the chart.
 The box on the bottom of the chart shows the chance of getting pregnant for women who do not use birth control and are trying to get pregnant.
@@ -281,10 +281,12 @@ Inactive ingredients: ethylene vinylacetate copolymers (28% and 9% vinylacetate)
 
 EluRyng is not made with natural rubber latex.
 
-Do Hormonal Birth Control Methods Cause Cancer?
+Does hormonal birth control cause cancer?
 
-Hormonal birth control methods do not seem to cause breast cancer.
-However, if you have breast cancer now or have had it in the past, do not use hormonal birth control, including EluRyng, because some breast cancers are sensitive to hormones.
+It is not known if hormonal birth control causes breast cancer.
+Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
+
+If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
 
 Women who use hormonal birth control methods may have a slightly higher chance of getting cervical cancer.
 However, this may be due to other reasons such as having more sexual partners.

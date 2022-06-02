@@ -111,6 +111,8 @@ This is not expected to affect the contraceptive effectiveness of EluRyng.
 In the event of a disconnected ring, vaginal discomfort or expulsion (slipping out) is more likely to occur.
 Vaginal injury associated with ring breakage has been reported [see Adverse Reactions (6.2)].
 
+If a woman discovers that her EluRyng has disconnected, she should discard the ring and replace it with a new ring.
+
 ## 2.4 In the Event of a Missed Menstrual Period
 
 1. If the woman has not adhered to the prescribed regimen (EluRyng has been out of the vagina for more than three hours or the preceding ring-free interval was extended beyond one week), consider the possibility of pregnancy at the time of the first missed period and discontinue EluRyng use if pregnancy is confirmed.
