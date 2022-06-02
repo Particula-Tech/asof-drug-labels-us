@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA208419"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-4514-01",
+    "0480-4515-01",
+    "0480-4516-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION, CONCENTRATE",
+      "generic": "pemetrexed",
+      "name": "Pemetrexed"
+    }
+  ],
+  "setid": "8b660f68-b770-4e0a-b2f9-25e663deecc3",
+  "source": "dailymed"
+}
