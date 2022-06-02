@@ -1,26 +1,25 @@
 # 14 CLINICAL STUDIES
 
-Myelodysplastic Syndromes (MDS)
+## 14.1 Myelodysplastic Syndromes (MDS)
 
-Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites compared the safety and efficacy of subcutaneous VIDAZA plus supportive care with supportive care alone (“observation”) in patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
+Study 1 was a randomized, open-label, controlled trial carried out in 53 U.S. sites compared the safety and efficacy of subcutaneous VIDAZA plus supportive care with supportive care alone (“observation”) in adult patients with any of the five FAB subtypes of myelodysplastic syndromes (MDS): refractory anemia (RA), RA with ringed sideroblasts (RARS), RA with excess blasts (RAEB), RAEB in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).
 RA and RARS patients were included if they met one or more of the following criteria: required packed RBC transfusions; had platelet counts ≤50.0 x 109/L; required platelet transfusions; or were neutropenic (ANC <1.0 x 109/L) with infections requiring treatment with antibiotics.
 Patients with acute myelogenous leukemia (AML) were not intended to be included.
 Supportive care allowed in this study included blood transfusion products, antibiotics, antiemetics, analgesics and antipyretics.
 The use of hematopoietic growth factors was prohibited.
-Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
+Baseline patient and disease characteristics are summarized in Table 6; the 2 groups were similar.
 
 VIDAZA was administered at a subcutaneous dose of 75 mg/m2 daily for 7 days every 4 weeks.
 The dose was increased to 100 mg/m2 if no beneficial effect was seen after 2 treatment cycles.
 The dose was decreased and/or delayed based on hematologic response or evidence of renal toxicity.
 Patients in the observation arm were allowed by protocol to cross over to VIDAZA if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
-For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 4).
+For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 7).
 
 Of the 191 patients included in the study, independent review (adjudicated diagnosis) found that 19 had the diagnosis of AML at baseline.
 These patients were excluded from the primary analysis of response rate, although they were included in an intent-to-treat (ITT) analysis of all patients randomized.
 Approximately 55% of the patients randomized to observation crossed over to receive VIDAZA treatment.
 
-Table 3.
-Baseline Demographics and Disease Characteristics
+1. Table 6 Baseline Demographics and Disease Characteristics
 
 |  | VIDAZA (N=99) | Observation (N=92) |
 | --- | --- | --- |
@@ -51,17 +50,17 @@ Baseline Demographics and Disease Characteristics
 | Plasma protein fraction | 1(1.0) | 0(0.0) |
 | Other | 2(2.0) | 2(2.2) |
 
-Table 4.
+Table 7.
 Response Criteria
 
-|  |  | RA | RARS | RAEB |  | RAEB-T | CMMoL |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Complete Response (CR), duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |  |
-| Peripheral Blood | Normal CBC if abnormal at baseline Absence of blasts in the peripheral circulation |  |  |  |  |  |  |
-| Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blasts Improvement of marrow dyspoiesis |  |  |  |
-| Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulation For CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |  |  |
+|  |  | RA | RARS | RAEB | RAEB-T | CMMoL |
+| --- | --- | --- | --- | --- | --- | --- |
+| Complete Response (CR), duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |
+| Peripheral Blood | Normal CBC if abnormal at baseline Absence of blasts in the peripheral circulation |  |  |  |  |  |
+| Partial Response (PR), duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blasts Improvement of marrow dyspoiesis |  |  |
+| Peripheral Blood | ≥50% restoration in the deficit from normal levels of baseline white cells, hemoglobin and platelets if abnormal at baseline No blasts in the peripheral circulation For CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excess count over the upper limit of normal |  |  |  |  |  |
 
-The overall response rate (CR + PR) of 15.7% in VIDAZA-treated patients without AML (16.2% for all VIDAZA randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
+The overall response rate (CR + PR) of 15.7% in VIDAZA-treated patients without AML (16.2% for all VIDAZA randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 8).
 The majority of patients who achieved either CR or PR had either 2 or 3 cell line abnormalities at baseline (79%; 11/14) and had elevated bone marrow blasts or were transfusion dependent at baseline.
 Patients responding to VIDAZA had a decrease in bone marrow blasts percentage, or an increase in platelets, hemoglobin or WBC.
 Greater than 90% of the responders initially demonstrated these changes by the 5th treatment cycle.
@@ -69,7 +68,7 @@ All patients who had been transfusion dependent became transfusion independent d
 The mean and median duration of clinical response of PR or better was estimated as 512 and 330 days, respectively; 75% of the responding patients were still in PR or better at completion of treatment.
 Response occurred in all MDS subtypes as well as in patients with adjudicated baseline diagnosis of AML.
 
-Table 5.
+Table 8.
 Response Rates
 
 |  | VIDAZA (N=89) | Observation Before Crossover (N=83) |  |
@@ -94,7 +93,7 @@ About 24% of VIDAZA-treated patients were considered improved, and about 2/3 of 
 In the observation group, only 5/83 patients met criteria for improvement; none lost transfusion dependence.
 In all 3 studies, about 19% of patients met criteria for improvement with a median duration of 195 days.
 
-Study 4 was an international, multicenter, open-label, randomized trial in MDS patients with RAEB, RAEB-T or modified CMMoL according to FAB classification and Intermediate-2 and High risk according to IPSS classification.
+Study 4 was an international, multicenter, open-label, randomized trial in patients with MDS with RAEB, RAEB-T or modified CMMoL according to FAB classification and Intermediate-2 and High risk according to IPSS classification.
 Of the 358 patients enrolled in the study, 179 were randomized to receive azacitidine plus best supportive care (BSC) and 179 were randomized to receive conventional care regimens (CCR) plus BSC (105 to BSC alone, 49 to low dose cytarabine and 25 to chemotherapy with cytarabine and anthracycline).
 The primary efficacy endpoint was overall survival.
 
@@ -115,11 +114,11 @@ Kaplan-Meier Curve of Time to Death from Any Cause: (Intent-to-Treat Population)
 
 Key: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = Hazard Ratio
 
-Azacitidine treatment led to a reduced need for red blood cell transfusions (see Table 6).
+Azacitidine treatment led to a reduced need for red blood cell transfusions (see Table 8).
 In patients treated with azacitidine who were RBC transfusion dependent at baseline and became transfusion independent, the median duration of RBC transfusion independence was 13.0 months.
 
-Table 6.
-Effect of Azacitidine on RBC Transfusions in MDS Patients
+Table 9.
+Effect of Azacitidine on RBC Transfusions in Patients with MDS
 
 | Efficacy Parameter | Azacitidine plus BSC (n= 179) | Conventional Care Regimens (n= 179) |
 | --- | --- | --- |
@@ -127,4 +126,23 @@ Effect of Azacitidine on RBC Transfusions in MDS Patients
 |  | (95% CI: 35.6%, 54.8%) | (95% CI: 6.2%, 18.7%) |
 | Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 10/68 (14.7%) | 28/65 (43.1%) |
 | (95% CI: 7.3%, 25.4%) | (95% CI: 30.9%, 56.0%) |  |
-| 1A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |
+
+1A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period.
+Otherwise, the patient was considered transfusion dependent.
+
+## 14.2 Juvenile Myelomonocytic Leukemia (JMML)
+
+AZA-JMML-001 (NCT02447666) was an international, multicenter, open-label study to evaluate the pharmacokinetics, pharmacodynamics, safety, and activity of VIDAZA prior to hematopoietic stem cell transplantation (HSCT) in a total of 18 pediatric patients (median age of 2.1 years, range 0.2-6.9 years; 61% male; 89% white) with juvenile myelomonocytic leukemia (JMML).
+
+Patients with newly diagnosed JMML were included if they met the following criteria: diagnosis confirmed in peripheral blood and bone marrow, and had one of the following: somatic mutation in PTPN11, KRAS, or NRAS and HbF % > 5 x normal value for age, or clinical diagnosis of neurofibromatosis Type 1 (NF-1).
+Additionally, patients included had no CNS involvement, isolated extramedullary disease, or germline molecular aberrations in CBL, PTPN11, NRAS, or KRAS.
+
+Eighteen patients with JMML (13 PTPN11, 3 NRAS, 1 KRAS somatic mutations and 1 clinical diagnosis of neurofibromatosis type 1 [NF 1]) were enrolled.
+Patients were treated with intravenous VIDAZA [see Dosage and Administration (2.4)], daily on Days 1 to 7 of a 28-day cycle for a minimum of 3 cycles and a maximum of 6 cycles, provided the patients did not have disease progression or were ready for HSCT between Cycles 4 and 6.
+The efficacy of VIDAZA was established based on clinical complete remission (cCR) or clinical partial remission (cPR) according to the International JMML response criteria at 3 months (Cycle 3 Day 28).
+Responses must have been sustained for at least 4 weeks either in the 4-week period preceding or succeeding Cycle 3 Day 28 (i.e., sustained over the period Cycle 2 Day 28 to Cycle 3 Day 28, or Cycle 3 Day 28 to Cycle 4 Day 28).
+
+There were a total of 9 patients (50%, 95% CI 26-74) with a confirmed clinical response.
+Of these 9 patients, there were 3 cCR and 6 cPR.
+The median time to response was 1.2 months (range 1-1.9 months).
+The proportion of patients with JMML undergoing HSCT was 94% and the median time to HSCT was 4.6 months (range 2.8-19 months).

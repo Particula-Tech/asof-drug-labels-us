@@ -2,7 +2,7 @@
 
 ## 4.1 Advanced Malignant Hepatic Tumors
 
-VIDAZA is contraindicated in patients with advanced malignant hepatic tumors [see Warnings and Precautions (5.2)].
+VIDAZA is contraindicated in patients with advanced malignant hepatic tumors [see Warnings and Precautions (5.3)].
 
 ## 4.2 Hypersensitivity to Azacitidine or Mannitol
 

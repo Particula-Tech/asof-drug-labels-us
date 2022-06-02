@@ -1,7 +1,9 @@
 # 11 DESCRIPTION
 
-VIDAZA (azacitidine for injection) contains azacitidine, which is a pyrimidine nucleoside analog of cytidine.
-Azacitidine is 4-amino-1-β-D-ribofuranosyl-s-triazin-2(1H)-one.
+VIDAZA (azacitidine for injection) contains azacitidine, which is a nucleoside metabolic inhibitor.
+Azacitidine is
+
+4-amino-1-β-D-ribofuranosyl-s-triazin-2(1H)-one.
 The structural formula is as follows:
 
 The empirical formula is C8H12N4O5.
