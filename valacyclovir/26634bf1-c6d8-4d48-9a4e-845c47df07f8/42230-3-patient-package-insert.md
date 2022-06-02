@@ -1,5 +1,7 @@
 # PATIENT INFORMATION
 
+Dispense with Patient Information available at https://www.sunpharma.com/usa/products
+
 VALACYCLOVIR TABLETS
 
 Rx only
@@ -157,4 +159,6 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-1. May 2020 FDA-13
+1. April 2022 FDA-14
+
+Dispense with Patient Information available at https://www.sunpharma.com/usa/products
