@@ -29,7 +29,7 @@ Live fetuses from these litters also showed significant decreases in fetal weigh
 
 Risk Summary
 
-There are no data on the presence of bortezomib or its metabolites in human milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
+There are no data on the presence of bortezomib or its metabolites in human milk, the effects of the drug on the breastfed child, or the effects of the drug on milk production.
 Because many drugs are excreted in human milk and because the potential for serious adverse reactions in a breastfed child from Bortezomib for Injection is unknown, advise nursing women not to breastfeed during treatment with Bortezomib for Injection and for two months after treatment.
 
 ## 8.3 Females and Males of Reproductive Potential
@@ -44,7 +44,7 @@ Contraception
 
 Females
 
-Advise patients of reproductive potential to use effective contraception during treatment with Bortezomib for Injection and for seven months after the last dose.
+Advise females of reproductive potential to use effective contraception during treatment with Bortezomib for Injection and for seven months after the last dose.
 
 Males
 
