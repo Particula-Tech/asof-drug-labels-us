@@ -61,6 +61,6 @@ Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to JORNAY PM during pregnancy [see Use in Specific Populations (8.1)].
 
-Packaged by: Patheon Puerto Rico, Inc. Manatí, Puerto Rico, 00674 USA
+Packaged by: Patheon Puerto Rico, Inc. Manatí, Puerto Rico, 00674
 
-Manufactured for: Ironshore Pharmaceuticals Inc. Cherry Hill, NJ, 08002 USA
+Manufactured for: Ironshore Pharmaceuticals Inc. Morrisville, NC 27560
