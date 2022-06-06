@@ -60,12 +60,18 @@ Therefore, male condom use would not be necessary as it is unlikely that a femal
 
 ## 8.4 Pediatric Use
 
-Prolia is not recommended in pediatric patients younger than age 4 years because of the high rates of skeletal growth and the potential for Prolia to negatively affect long-bone growth and dentition.
 The safety and effectiveness of Prolia in pediatric patients have not been established.
+Prolia is not approved for use in pediatric patients.
 
-Treatment with Prolia may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
+In clinical trials, hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products, including Prolia.
+Some cases required hospitalization and were complicated by acute renal injury [see Warnings and Precautions (5.11)].
+Based on results from animal studies, Prolia may negatively affect long-bone growth and dentition in pediatric patients below the age of 4 years.
+
+Juvenile Animal Toxicity Data
+
+Treatment with Prolia may impair long-bone growth in children with open growth plates and may inhibit eruption of dentition.
 In neonatal rats, inhibition of RANKL (the target of Prolia therapy) with a construct of osteoprotegerin bound to Fc (OPG-Fc) at doses ≤ 10 mg/kg was associated with inhibition of bone growth and tooth eruption.
-Adolescent primates treated with denosumab at doses 10 and 50 times (10 and 50 mg/kg dose) higher than the recommended human dose of 60 mg administered every 6 months, based on body weight (mg/kg), had abnormal growth plates, considered to be consistent with the pharmacological activity of denosumab.
+Adolescent primates treated with denosumab at doses 10 and 50 times (10 and 50 mg/kg dose) higher than the recommended human dose of 60 mg administered every 6 months, based on body weight (mg/kg), had abnormal growth plates, considered to be consistent with the pharmacological activity of denosumab [see Animal Toxicology and/or Pharmacology (13.2)].
 
 Cynomolgus monkeys exposed in utero to denosumab exhibited bone abnormalities, an absence of axillary, inguinal, mandibular, and mesenteric lymph nodes, reduced hematopoiesis, tooth malalignment, and decreased neonatal growth.
 Some bone abnormalities recovered once exposure was ceased following birth; however, axillary and inguinal lymph nodes remained absent 6 months post-birth [see Use in Specific Populations (8.1)].

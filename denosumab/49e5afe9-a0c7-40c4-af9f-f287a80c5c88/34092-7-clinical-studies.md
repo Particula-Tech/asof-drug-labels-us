@@ -118,7 +118,7 @@ In the glucocorticoid-initiating subpopulation, Prolia significantly increased l
 In the glucocorticoid-continuing subpopulation, Prolia significantly increased lumbar spine BMD compared to active-control at one year (Active-control 2.3%, Prolia 4.4%) with a treatment difference of 2.2% (p < 0.001).
 Consistent effects on lumbar spine BMD were observed regardless of gender; race; geographic region; menopausal status; and baseline age, lumbar spine BMD T-score, and glucocorticoid dose within each subpopulation.
 
-### Bone Histology
+Bone Histology
 
 Bone biopsy specimens were obtained from 17 patients (11 in the active-control treatment group and 6 in the Prolia treatment group) at Month 12.
 Of the biopsies obtained, 17 (100%) were adequate for qualitative histology.

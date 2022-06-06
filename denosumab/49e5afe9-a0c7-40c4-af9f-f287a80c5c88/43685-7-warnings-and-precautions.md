@@ -99,3 +99,9 @@ In clinical trials in women with postmenopausal osteoporosis, treatment with Pro
 The significance of these findings and the effect of long-term treatment with Prolia are unknown.
 The long-term consequences of the degree of suppression of bone remodeling observed with Prolia may contribute to adverse outcomes such as osteonecrosis of the jaw, atypical fractures, and delayed fracture healing.
 Monitor patients for these consequences.
+
+## 5.11 Hypercalcemia in Pediatric Patients with Osteogenesis Imperfecta
+
+Prolia is not approved for use in pediatric patients.
+Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products, including Prolia.
+Some cases required hospitalization [see Pediatric Use (8.4)].
