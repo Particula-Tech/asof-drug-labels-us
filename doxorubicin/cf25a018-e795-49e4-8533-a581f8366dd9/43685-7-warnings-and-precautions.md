@@ -13,7 +13,7 @@ Two percent of patients developed signs and symptoms of congestive heart failure
 
 Assess left ventricular cardiac function (e.g.
 MUGA or echocardiogram) prior to initiation of doxorubicin hydrochloride liposome injection, during treatment to detect acute changes, and after treatment to detect delayed cardiomyopathy.
-Administer doxorubicin hydrochloride liposome injection to patients with a history of cardiovascular disease only when the potential benefit of treatment outweighs the risk
+Administer doxorubicin hydrochloride liposome injection to patients with a history of cardiovascular disease only when the potential benefit of treatment outweighs the risk.
 
 ## 5.2 Infusion-Related Reactions
 
@@ -51,4 +51,4 @@ Based on findings in animals and its mechanism of action, doxorubicin hydrochlor
 Available human data do not establish the presence or absence of major birth defects and miscarriage related to the use of doxorubicin hydrochloride during the 2nd and 3rd trimesters.
 At doses approximately 0.12 times the recommended clinical dose, doxorubicin hydrochloride liposome injection was embryotoxic and abortifacient in rabbits.
 Advise pregnant women of the potential risk to a fetus.
-Advise females and males of reproductive potential to use effective contraception during and for 6 months after treatment with doxorubicin hydrochloride liposome injection [see Use in Specific Populations (8.1), (8.3)].
+Advise females and males of reproductive potential to use effective contraception during and for 6 months after treatment with doxorubicin hydrochloride liposome injection [see Use in Specific Populations (8.1, 8.3)].

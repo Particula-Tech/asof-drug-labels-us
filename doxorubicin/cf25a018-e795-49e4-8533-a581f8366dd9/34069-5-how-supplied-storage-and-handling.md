@@ -4,14 +4,14 @@ Doxorubicin hydrochloride liposome injection is a sterile, translucent, red lipo
 
 The following individually cartoned vials are available:
 
-Table 13
+Table 14
 
-| mg in vial | fill volume | vial size | NDC #s |
+| vial concentration |  | vial size | NDC #s |
 | --- | --- | --- | --- |
-| 20 mg vial | 10-mL | 10-mL | 0338-0080-01 |
-| 50 mg vial | 25-mL | 30-mL | 0338-0086-01 |
+| 20 mg/ 10 mL(2 mg/mL) |  | 10-mL | 0338-0080-01 |
+| 50 mg/25 mL (2 mg/mL) |  | 30-mL | 0338-0086-01 |
 
-Refrigerate unopened vials of doxorubicin hydrochloride liposome injection at 2°C- 8°C (36°- 46°F).
+Refrigerate unopened vials of doxorubicin hydrochloride liposome injection at 2°C- 8°C (36°F- 46°F).
 Do not freeze.
 Discard unused portion.
 

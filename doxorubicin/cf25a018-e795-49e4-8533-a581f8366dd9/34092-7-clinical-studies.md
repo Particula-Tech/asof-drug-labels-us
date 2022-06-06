@@ -13,9 +13,9 @@ Approximately one third of the patients had three or more prior lines of therapy
 The primary outcome measure was confirmed response rate based on Southwestern Oncology Group (SWOG) criteria for patients refractory to both paclitaxel- and a platinum‑containing regimen.
 Secondary efficacy parameters were time to response, duration of response, and time to progression.
 
-The response rates for the individual single arm trials are given in Table 8 below.
+The response rates for the individual single arm trials are given in Table 9 below.
 
-Table 8: Response Rates in Patients With Refractory Ovarian Cancer From Single Arm Ovarian Cancer Trials
+Table 9: Response Rates in Patients With Refractory Ovarian Cancer From Single Arm Ovarian Cancer Trials
 
 |  | Trial 1 (U.S.)N=27 | Trial 2 (U.S.)N=82 | Trial 3 (non-U.S.)N=36 |
 | --- | --- | --- | --- |
@@ -33,9 +33,9 @@ Other endpoints included overall survival and objective response rate.
 Of the 474 patients, the median age at diagnosis was 60 years (range 25 to 87), 90% were FIGO stage III and IV; 46% were platinum sensitive; and 45% had bulky disease.
 
 There was no statistically significant difference in TTP between the two arms.
-Results are provided in Table 9.
+Results are provided in Table 10.
 
-Table 9: Results of Efficacy Analyses1
+Table 10: Results of Efficacy Analyses1
 
 |  |  | Protocol Defined ITT Population |  |
 | --- | --- | --- | --- |
@@ -73,9 +73,9 @@ All patients had cutaneous or subcutaneous lesions, 40% also had oral lesions, 2
 
 Two analyses of tumor response were used: one based on investigator assessment of changes in lesions based on modified ACTG criteria (partial response defined as no new lesions, sites of disease, or worsening edema; flattening of ≥50% of previously raised lesions or area of indicator lesions decreasing by ≥50%; and response lasting at least 21 days with no prior progression), and one based on changes in up to five prospectively indentified representative indicator lesions (partial response defined as flattening of ≥50% of previously raised indicator lesions, or >50% decrease in the area of indicator lesions and lasting at least 21 days with no prior progression).
 
-Of the 77 patients, 34 were evaluable for investigator assessment and 42 were evaluable for indicator lesion assessment; analyses of tumor responses are shown in Table 10.
+Of the 77 patients, 34 were evaluable for investigator assessment and 42 were evaluable for indicator lesion assessment; analyses of tumor responses are shown in Table 11.
 
-Table 10: Response in Patients with Refractory1 AIDS-Related Kaposi’s Sarcoma
+Table 11: Response in Patients with Refractory1 AIDS-Related Kaposi’s Sarcoma
 
 | Investigator Assessment |  | All EvaluablePatients(n=34) | Evaluable PatientsWho Received PriorDoxorubicin(n=20) |
 | --- | --- | --- | --- |
@@ -114,11 +114,11 @@ Patients were randomized (1:1) to receive either doxorubicin hydrochloride lipos
 Patients who maintained a response were allowed to receive further treatment.
 The median number of cycles in each treatment arm was 5 (range 1-18).
 
-The baseline demographics and clinical characteristics of the patients with multiple myeloma were similar between treatment arms (Table 11).
+The baseline demographics and clinical characteristics of the patients with multiple myeloma were similar between treatment arms (Table 12).
 
-Table 11: Summary of Baseline Patient and Disease Characteristics
+Table 12: Summary of Baseline Patient and Disease Characteristics
 
-| Patient Characteristics |  | Doxorubicin hydrochloride liposome injection+ bortezomib n=324 | bortezomib n=322 |
+| Patient Characteristics |  | Doxorubicin hydrochloride liposome injection + bortezomib n=324 | bortezomib n=322 |
 | --- | --- | --- | --- |
 |  | Median age in years (range) | 61 (28, 85) | 62 (34, 88) |
 |  | % Male/female | 58 / 42 | 54 / 46 |
@@ -146,11 +146,11 @@ The primary outcome measure was time to progression (TTP).
 TTP was defined as the time from randomization to the first occurrence of progressive disease or death due to progressive disease.
 The combination arm demonstrated significant improvement in TTP.
 As the prespecified primary objective was achieved at the interim analysis, patients in the bortezomib monotherapy group were then allowed to receive the doxorubicin hydrochloride liposome injection + bortezomib combination.
-Efficacy results are as shown in Table 12 and Figure 1.
+Efficacy results are as shown in Table 13 and Figure 1.
 
-Table 12: Efficacy of Doxorubicin Hydrochloride Liposome Injection in Combination With Bortezomib in the Treatment of Patients With Multiple Myeloma
+Table 13: Efficacy of Doxorubicin Hydrochloride Liposome Injection in Combination With Bortezomib in the Treatment of Patients With Multiple Myeloma
 
-| Endpoint |  | Doxorubicin hydrochloride liposome injection+ bortezomibn=324 | Bortezomibn=322 |
+| Endpoint |  | Doxorubicin hydrochloride liposome injection + bortezomibn=324 | Bortezomibn=322 |
 | --- | --- | --- | --- |
 | Time to Progression1 |  |  |  |
 | Progression or death due to progression (n) |  | 99 | 150 |

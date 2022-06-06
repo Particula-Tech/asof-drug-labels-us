@@ -8,6 +8,22 @@ Cell structure studies have demonstrated rapid cell penetration and perinuclear 
 
 ## 12.3 Pharmacokinetics
 
+The pharmacokinetic parameters for total doxorubicin following a single dose of doxorubicin hydrochloride liposome injection infused over 30 minutes are presented in Table 8.
+
+Table 8: Pharmacokinetic Parameters of Total Doxorubicin from Doxorubicin Hydrochloride Liposome Injection in Patients With AIDS-Related Kaposi’s Sarcoma
+
+|  |  | Dose |  |
+| --- | --- | --- | --- |
+| Parameter (units) |  | 10 mg/m2 | 20 mg/m2 |
+| Peak Plasma Concentration (µg/mL) |  | 4.12 ± 0.215 | 8.34 ± 0.49 |
+| Plasma Clearance (L/h/m2) |  | 0.056 ± 0.01 | 0.041 ± 0.004 |
+| Steady State Volume of Distribution (L/m2) |  | 2.83 ± 0.145 | 2.72 ± 0.120 |
+| AUC (µg/mL•h) |  | 277 ± 32.9 | 590 ± 58.7 |
+| First Phase (λ1) Half-Life (h) |  | 4.7 ± 1.1 | 5.2 ± 1.4 |
+| Second Phase (λ1) Half-Life (h) |  | 52.3 ± 5.6 | 55.0 ± 4.8 |
+| N=23 |  |  |  |
+| Mean ± Standard Error |  |  |  |
+
 Doxorubicin hydrochloride liposome injection displayed linear pharmacokinetics over the range of 10 to 20 mg/m2.
 Relative to doxorubicin hydrochloride liposome injection doses at or below 20 mg/m2, the pharmacokinetics of total doxorubicin following a 50 mg/m2 doxorubicin hydrochloride liposome injection dose are nonlinear.
 At this dose, the elimination half-life of doxorubicin hydrochloride liposome injection is longer and the clearance lower compared to a 20 mg/m2 dose.

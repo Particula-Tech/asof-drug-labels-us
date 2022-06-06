@@ -6,7 +6,7 @@ Advise patients to contact their healthcare provider if they develop symptoms of
 
 Infusion-Related Reactions
 
-Advise patients about the symptoms of infusion related reactions and to seek immediate medical attention if they develop any of these symptoms [see Warnings and Precautions (5.2)].
+Advise patients about the symptoms of infusion-related reactions and to seek immediate medical attention if they develop any of these symptoms [see Warnings and Precautions (5.2)].
 
 Myelosuppression
 
@@ -42,3 +42,5 @@ This nontoxic reaction is due to the color of the product and will dissipate as 
 Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 Baxter and Stealth are registered trademarks of Baxter International Inc. HA-30-01-925
+
+USA - 749705

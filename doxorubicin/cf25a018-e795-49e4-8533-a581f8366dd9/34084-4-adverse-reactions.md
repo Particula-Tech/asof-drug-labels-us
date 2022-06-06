@@ -27,7 +27,7 @@ Table 3 presents the hematologic adverse reactions from Trial 4.
 
 Table 3: Hematologic Adverse Reactions in Trial 4
 
-|  | Doxorubicin Hydrochloride Liposome Injection Patients (n=239) | TopotecanPatients(n=235) |
+|  | Doxorubicin hydrochloride Liposome Injection Patients (n=239) | TopotecanPatients(n=235) |
 | --- | --- | --- |
 | Neutropenia |  |  |
 | 500 - <1000/mm3 | 8% | 14% |
@@ -43,9 +43,16 @@ Table 4 presents the non-hematologic adverse reactions from Trial 4.
 
 Table 4: Non-Hematologic Adverse Reactions in Trial 4
 
-| Non-HematologicAdverse Reaction10% or Greater |  | Doxorubicin Hydrochloride Liposome Injection (%)treated(n=239) |  | Topotecan (%)treated(n=235) |  |
+| Non-Hematologic Adverse Reaction 10% or Greater |  | Doxorubicin hydrochloride Liposome Injection (%) treated(n=239) |  | Topotecan (%) treated (n=235) |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | All grades | Grades 3-4 | All grades | Grades 3-4 |
+| Body as a Whole |  |  |  |  |  |
+|  | Asthenia | 40 | 7 | 52 | 8 |
+|  | Fever | 21 | 0.8 | 31 | 6 |
+|  | Mucous Membrane Disorder | 14 | 3.8 | 3.4 | 0 |
+|  | Back Pain | 12 | 1.7 | 10 | 0.9 |
+|  | Infection | 12 | 2.1 | 6 | 0.9 |
+|  | Headache | 11 | 0.8 | 15 | 0 |
 | Digestive |  |  |  |  |  |
 |  | Nausea | 46 | 5 | 63 | 8 |
 |  | Stomatitis | 41 | 8 | 15 | 0.4 |
@@ -88,7 +95,7 @@ Urinary: urinary tract infection, hematuria, vaginal moniliasis.
 
 Patients With AIDS-Related Kaposi’s Sarcoma
 
-The safety data described is based on the experience reported in 753 patients with AIDS‑related Kaposi’s sarcoma (KS) enrolled in four open-label, uncontrolled trials of doxorubicin hydrochloride liposome injection administered at doses ranging from 10 to 40 mg/m2 every 2 to 3 weeks.
+The safety data described is based on the experience reported in 753 patients with AIDS-related Kaposi’s sarcoma (KS) enrolled in four open-label, uncontrolled trials of doxorubicin hydrochloride liposome injection administered at doses ranging from 10 to 40 mg/m2 every 2 to 3 weeks.
 Demographics of the population were: median age 38.7 years (range 24-70); 99% male; 88% Caucasian, 6% Hispanic, 4% Black, and 2% Asian/other/unknown.
 The majority of patients were treated with 20 mg/m2 of doxorubicin hydrochloride liposome injection every 2 to 3 weeks with a median exposure of 4.2 months (range 1 day to 26.6 months).
 The median cumulative dose was 120 mg/m2 (range 3.3 to 798.6 mg/m2); 3% received cumulative doses of greater than 450 mg/m2.
@@ -97,7 +104,7 @@ Disease characteristics were: 61% poor risk for KS tumor burden, 91% poor risk f
 
 Of the 693 patients with concomitant medication information, 59% were on one or more antiretroviral medications [35% zidovudine (AZT), 21% didanosine (ddI), 16% zalcitabine (ddC), and 10% stavudine (D4T)]; 85% received PCP prophylaxis (54% sulfamethoxazole/trimethoprim); 85% received antifungal medications (76% fluconazole); 72% received antivirals (56% acyclovir, 29% ganciclovir, and 16% foscarnet) and 48% patients received colony-stimulating factors (sargramostim/filgrastim) during their course of treatment.
 
-Adverse reactions led to discontinuation of treatment in 5% of patients with AIDS‑related Kaposi’s sarcoma and included myelosuppression, cardiac adverse reactions, infusion‑related reactions, toxoplasmosis, HFS, pneumonia, cough/dyspnea, fatigue, optic neuritis, progression of a non-KS tumor, allergy to penicillin, and unspecified reasons.
+Adverse reactions led to discontinuation of treatment in 5% of patients with AIDS-related Kaposi’s sarcoma and included myelosuppression, cardiac adverse reactions, infusion-related reactions, toxoplasmosis, HFS, pneumonia, cough/dyspnea, fatigue, optic neuritis, progression of a non-KS tumor, allergy to penicillin, and unspecified reasons.
 Tables 5 and 6 summarize adverse reactions reported in patients treated with doxorubicin hydrochloride liposome injection for AIDS-related Kaposi’s sarcoma in a pooled analysis of the four trials.
 
 Table 5: Hematologic Adverse Reactions Reported in Patients With AIDS-Related Kaposi’s Sarcoma
@@ -118,7 +125,7 @@ Table 5: Hematologic Adverse Reactions Reported in Patients With AIDS-Related Ka
 
 Table 6: Non-Hematologic Adverse Reactions Reported in ≥ 5% of Patients With AIDS-Related Kaposi’s Sarcoma
 
-| Adverse Reactions |  | Patients With Refractory or Intolerant AIDS-Related Kaposi’s Sarcoma(n=77*) | Total Patients With AIDS - RelatedKaposi’s Sarcoma(n=705**) |
+| Adverse Reactions |  | Patients With Refractory or Intolerant AIDS-Related Kaposi’s Sarcoma(n=77*) | Total Patients With AIDS-RelatedKaposi’s Sarcoma(n=705**) |
 | --- | --- | --- | --- |
 | Nausea |  | 18% | 17% |
 | Asthenia |  | 7% | 10% |
@@ -166,14 +173,14 @@ Special Senses: taste perversion, conjunctivitis.
 
 Patients With Multiple Myeloma
 
-1. The safety data described are from 318 patients treated with doxorubicin hydrochloride liposome injection (30 mg/m2) administered on day 4 following bortezomib (1.3 mg/m2 i.v. bolus on days 1, 4, 8 and 11) every 3 weeks, in a randomized, open-label, multicenter study (Trial 6).
-   In this trial, patients in the doxorubicin hydrochloride liposome injection + bortezomib combination group were treated for a median number of 4.5 months (range 21 days to 13.5 months).
-   The population was 28 to 85 years of age (median age 61), 58% male, 90% Caucasian, 6% Black, and 4% Asian and Other.
-   Table 7 lists adverse reactions reported in 10% or more of patients treated with doxorubicin hydrochloride liposome injection in combination with bortezomib for multiple myeloma.
+The safety data described are from 318 patients treated with doxorubicin hydrochloride liposome injection (30 mg/m2) administered on day 4 following bortezomib (1.3 mg/m2 i.v. bolus on days 1, 4, 8 and 11) every 3 weeks, in a randomized, open-label, multicenter study (Trial 6).
+In this trial, patients in the doxorubicin hydrochloride liposome injection + bortezomib combination group were treated for a median number of 4.5 months (range 21 days to 13.5 months).
+The population was 28 to 85 years of age (median age 61), 58% male, 90% Caucasian, 6% Black, and 4% Asian and Other.
+Table 7 lists adverse reactions reported in 10% or more of patients treated with doxorubicin hydrochloride liposome injection in combination with bortezomib for multiple myeloma.
 
 Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in ≥10% Patients Treated for Multiple Myeloma With Doxorubicin Hydrochloride Liposome Injection in Combination With Bortezomib
 
-| Adverse Reaction |  | Doxorubicin Hydrochloride liposome injection + bortezomib(n=318) |  | Bortezomib(n=318) |  |
+| Adverse Reaction |  | Doxorubicin hydrochloride liposome injection + bortezomib(n=318) |  | Bortezomib(n=318) |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Any (%) | Grade 3-4 | Any (%) | Grade 3-4 |
 | Blood and lymphatic system disorders |  |  |  |  |  |

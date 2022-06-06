@@ -78,7 +78,7 @@ Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine; hydroch
 
 HA-80-02-748
 
-USA 696983 882
+US 749702 882
 
 Barcode
 
@@ -93,7 +93,7 @@ Discard unused portion.
 
 LIPOSOMAL FORMULATION - DO NOT SUBSTITUTE FOR DOXORUBICIN Hydrochloride
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS INFUSION ONLY AFTER DILUTION.
 
 Refrigerate, 2°-8°C (36°-46°F).
 Do Not Freeze.
@@ -103,10 +103,12 @@ Rx only
 
 NDC 0338-0080-01 DOXOrubicin Hydrochloride liposome injection
 
-N 3 Bar Code 0338-0080-01 4
+Use 5% Dextrose Injection, USP when diluting Doxorubicin Hydrochloride liposome injection.
+
+Bar Code 3 03380 08001 4
 
 Note: Liposomal formulation.
-See package insert for dosage information.
+Recommended Dosage: see prescribing information.
 
 NDC 0338-0080-01 DOXOrubicin Hydrochloride liposome injection
 
@@ -122,9 +124,9 @@ GTIN 00303380080014 2D Bar Code S/N EXP LOT
 
 NDC 0338-0080-01 DOXOrubicin Hydrochloride liposome injection
 
-Each mL contains doxorubicin HCl, 2 mg.
+Each mL contains doxorubicin Hydrochloride, 2 mg.
 STEALTH liposome carriers are composed of cholesterol, 3.19 mg; fully hydrogenated soy phosphatidylcholine (HSPC), 9.58 mg; and N-(carbonyl- methoxypolyethylene glycol 2000)-1,2-distearoyl-sn- glycerol-3-phosphoethanolamine sodium salt (MPEG-DSPE), 3.19 mg.
-Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine; hydrochloric acid and/or sodium hydroxide; and sucrose.
+Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine, 1.55 mg; hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (6.0 to 7.0) and sucrose, 94 mg.
 
 HA-80-02-885
 
@@ -206,7 +208,7 @@ Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine; hydroch
 
 HA-80-02-886
 
-USA 696985 882
+US 749701 882
 
 Barcode
 
@@ -221,7 +223,7 @@ Discard unused portion.
 
 LIPOSOMAL FORMULATION - DO NOT SUBSTITUTE FOR DOXORUBICIN Hydrochloride
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS INFUSION ONLY AFTER DILUTION.
 
 Refrigerate, 2°-8°C (36°-46°F).
 Do Not Freeze.
@@ -231,10 +233,12 @@ Rx only
 
 NDC 0338-0086-01 DOXOrubicin Hydrochloride liposome injection
 
-N 3 Bar Code 0338-0086-01 6
+Use 5% Dextrose Injection, USP when diluting Doxorubicin Hydrochloride liposome injection.
+
+Bar Code 3 03380 08601 6
 
 Note: Liposomal formulation.
-See package insert for dosage information.
+Recommended Dosage: see prescribing information.
 
 NDC 0338-0086-01 DOXOrubicin Hydrochloride liposome injection
 
@@ -250,8 +254,8 @@ GTIN 00303380086016 2D Bar Code S/N EXP LOT
 
 NDC 0338-0086-01 DOXOrubicin Hydrochloride liposome injection
 
-Each mL contains doxorubicin HCl, 2 mg.
+Each mL contains doxorubicin Hydrochloride, 2 mg.
 STEALTH liposome carriers are composed of cholesterol, 3.19 mg; fully hydrogenated soy phosphatidylcholine (HSPC), 9.58 mg; and N-(carbonyl- methoxypolyethylene glycol 2000)-1,2-distearoyl-sn- glycerol-3-phosphoethanolamine sodium salt (MPEG-DSPE), 3.19 mg.
-Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine; hydrochloric acid and/or sodium hydroxide; and sucrose.
+Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine, 1.55 mg; hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (6.0 to 7.0) and sucrose, 94 mg.
 
 HA-80-02-887

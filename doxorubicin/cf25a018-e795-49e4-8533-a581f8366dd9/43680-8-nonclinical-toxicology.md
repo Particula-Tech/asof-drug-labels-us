@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 Mutagenicity or carcinogenicity studies have not been conducted with doxorubicin hydrochloride liposome injection, however doxorubicin was shown to be mutagenic in the in vitro Ames assay, and clastogenic in multiple in vitro assays (CHO cell, V79 hamster cell, human lymphoblast, and SCE assays) and the in vivo mouse micronucleus assay.
 The possible adverse effects on fertility in animals have not been adequately evaluated.
