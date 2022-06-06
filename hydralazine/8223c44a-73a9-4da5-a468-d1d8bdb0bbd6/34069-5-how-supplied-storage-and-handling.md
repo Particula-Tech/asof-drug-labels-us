@@ -1,8 +1,8 @@
 # HOW SUPPLIED:
 
-| Product No. | NDC No. |  |
-| --- | --- | --- |
-| PRX601401 | 63323-614-16 | Hydralazine Hydrochloride Injection, USP, 20 mg per mL, 1 mL fill, in a 2 mL single use vial, 25 vials per tray. |
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| PRX601401 | NDC 63323-614-16 Unit of 25 | 20 mg per mL, 1 mL fill | NDC 63323-614-41 1mL fill in a 2mL Single Dose Vial |
 
 The container closure is not made with natural rubber latex.
 

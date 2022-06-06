@@ -1,6 +1,6 @@
 Rx only
 
-PREMIERProRx TM is a trademark of Premier, Inc., used under license.
+PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
 Manufactured by:
 
@@ -8,6 +8,8 @@ Fresenius Kabi
 
 Lake Zurich, IL 60047
 
-451451
+www.fresenius-kabi.com/us
 
-Issued: June 2015
+451451B
+
+Revised: April 2022

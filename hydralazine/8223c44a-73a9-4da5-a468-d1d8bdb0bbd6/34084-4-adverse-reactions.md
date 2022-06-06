@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Adverse reactions with hydralazine hydrochloride are usually reversible when dosage is reduced.
 However, in some cases it may be necessary to discontinue the drug.
 The following adverse reactions have been observed, but there has not been enough systematic collection of data to support an estimate of their frequency.
