@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA216434"
+  ],
+  "inn": "bumetanide",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-496-01",
+    "68083-496-10",
+    "68083-497-01",
+    "68083-497-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bumetanide",
+      "name": "Bumetanide"
+    }
+  ],
+  "setid": "4d1ed6b2-c410-4f52-9b8a-aa256c37089e",
+  "source": "dailymed"
+}
