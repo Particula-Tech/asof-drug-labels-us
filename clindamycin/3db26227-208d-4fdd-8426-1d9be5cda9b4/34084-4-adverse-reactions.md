@@ -28,6 +28,8 @@ Although these lower levels of exposure are less likely to produce the common re
 
 The following adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of clindamycin and may also occur following administration of CLEOCIN Vaginal Ovules:
 
+Infections and Infestations: Clostridioides difficile colitis
+
 Gastrointestinal: Abdominal pain, esophagitis, nausea, vomiting, diarrhea, and pseudomembranous colitis.
 (See WARNINGS.)
 
@@ -36,14 +38,16 @@ No direct etiologic relationship to concurrent clindamycin therapy could be made
 
 Hypersensitivity Reactions: Maculopapular rash and urticaria have been observed during drug therapy.
 Generalized mild to moderate morbilliform-like skin rashes are the most frequently reported of all adverse reactions.
-Rare instances of erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
+Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
 A few cases of anaphylactoid reactions have been reported.
 If a hypersensitivity reaction occurs, the drug should be discontinued.
 
 Liver: Jaundice and abnormalities in liver function tests have been observed during clindamycin therapy.
 
-Musculoskeletal: Rare instances of polyarthritis have been reported.
+Musculoskeletal: Cases of polyarthritis have been reported.
 
-Renal: Acute Kidney Injury: Signs of renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria have been observed.
+Renal: Acute kidney injury
+
+Immune System: Drug reaction with eosinophilia and systemic symptoms (DRESS) cases have been reported.
 
 There have been reports of pseudomembranous colitis following the administration of clindamycin vaginal cream.
