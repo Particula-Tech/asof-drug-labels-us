@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761084"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1627-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pegfilgrastim",
+      "name": "FYLNETRA"
+    }
+  ],
+  "setid": "eeadd641-573d-47fe-897a-61006e5f9e03",
+  "source": "dailymed"
+}
