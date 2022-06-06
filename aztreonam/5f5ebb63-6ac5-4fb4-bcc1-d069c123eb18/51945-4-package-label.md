@@ -8,7 +8,7 @@ AZTREONAM FOR INJECTION, USP
 
 1 gram* per vial
 
-Single Dose Vial
+Single-Dose Vial
 
 For Intravenous or Intramuscular use after constitution
 
@@ -28,7 +28,7 @@ For Intravenous or Intramuscular use after constitution
 
 10 x 20 mL
 
-Single Dose Vials
+Single-Dose Vials
 
 Rx only
 
@@ -42,7 +42,7 @@ AZTREONAM FOR INJECTION, USP
 
 2 grams* per vial
 
-Single Dose Vial
+Single-Dose Vial
 
 For Intravenous or Intramuscular use after constitution
 
@@ -62,6 +62,6 @@ For Intravenous or Intramuscular use after constitution
 
 10 x 30 mL
 
-Single Dose Vials
+Single-Dose Vials
 
 Rx only

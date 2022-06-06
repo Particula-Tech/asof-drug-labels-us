@@ -1,10 +1,10 @@
-# CLINICAL STUDIES:
+# CLINICAL STUDIES
 
 A total of 612 pediatric patients aged 1 month to 12 years were enrolled in uncontrolled clinical trials of aztreonam in the treatment of serious Gram-negative infections, including urinary tract, lower respiratory tract, skin and skin-structure, and intra-abdominal infections.
 
 ## Preparation of Parenteral Solutions
 
-General
+### General
 
 Upon the addition of the diluent to the container, contents should be shaken immediately and vigorously.
 Constituted solutions are not for multiple-dose use; should the entire volume in the container not be used for a single dose, the unused solution must be discarded.
@@ -25,48 +25,42 @@ Other admixtures are not recommended since compatibility data are not available.
 
 ## Intravenous Solutions
 
-For Bolus Injection
+For Bolus Injection: The contents of an aztreonam for injection vial should be constituted with 6 to 10 mL Sterile Water for Injection, USP.
 
-The contents of an aztreonam for injection vial should be constituted with 6 to 10 mL Sterile Water for Injection, USP.
-
-For Infusion
-
-If the contents of a vial are to be transferred to an appropriate infusion solution, each gram of aztreonam should be initially constituted with at least 3 mL Sterile Water for Injection, USP.
+For Infusion: If the contents of a vial are to be transferred to an appropriate infusion solution, each gram of aztreonam should be initially constituted with at least 3 mL Sterile Water for Injection, USP.
 Further dilution may be obtained with one of the following intravenous infusion solutions:
 
 Sodium Chloride Injection, USP, 0.9%
 
-Ringer’s Injection, USP
+Ringer's Injection, USP
 
-Lactated Ringer’s Injection, USP
+Lactated Ringer's Injection, USP
 
 Dextrose Injection, USP, 5% or 10%
 
-Dextrose and Sodium Chloride Injection, USP, 5%:0.9%,
-
-5%:0.45% or 5%:0.2%
+Dextrose and Sodium Chloride Injection, USP, 5%:0.9%, 5%:0.45%, or 5%:0.2%
 
 Sodium Lactate Injection, USP (M/6 Sodium Lactate)
 
-Ionosol ® B and 5% Dextrose
+Ionosol® B and 5% Dextrose
 
-Isolyte ® E
+Isolyte® E
 
-Isolyte ® E with 5% Dextrose
+Isolyte® E with 5% Dextrose
 
-Isolyte ® M with 5% Dextrose
+Isolyte® M with 5% Dextrose
 
-Normosol ®-R
+Normosol®-R
 
-Normosol ®-R and 5% Dextrose
+Normosol®-R and 5% Dextrose
 
-Normosol ®-M and 5% Dextrose
+Normosol®-M and 5% Dextrose
 
 Mannitol Injection, USP, 5% or 10%
 
-Lactated Ringer’s and 5% Dextrose Injection
+Lactated Ringer's and 5% Dextrose Injection
 
-Plasma-Lyte ® M and 5% Dextrose
+Plasma-Lyte M and 5% Dextrose
 
 ## Intramuscular Solutions
 
@@ -83,23 +77,19 @@ Bacteriostatic Sodium Chloride Injection, USP (with benzyl alcohol)
 
 ## Stability of Intravenous and Intramuscular Solutions
 
-Aztreonam solutions for intravenous infusion at concentrations not exceeding 2% w/v must be used within 48 hours following constitution if kept at controlled room temperature (20° to 25°C/68° to 77°F, see USP) or within 7 days if refrigerated (2° to 8°C/36° to 46°F).
+Aztreonam solutions for intravenous infusion at concentrations not exceeding 2% w/v must be used within 48 hours following constitution if kept at controlled room temperature (20º to 25ºC/68º to 77ºF, see USP) or within 7 days if refrigerated (2º to 8ºC/ 36° to 46°F).
 
 Aztreonam for Injection, USP, solutions at concentrations exceeding 2% w/v, except those prepared with Sterile Water for Injection, USP or Sodium Chloride Injection, USP, should be used promptly after preparation; the 2 excepted solutions must be used within 48 hours if stored at controlled room temperature or within 7 days if refrigerated.
 
 ## Intravenous Administration
 
-Bolus Injection
-
-A bolus injection may be used to initiate therapy.
+Bolus Injection: A bolus injection may be used to initiate therapy.
 The dose should be slowly injected directly into a vein, or the tubing of a suitable administration set, over a period of 3 to 5 minutes (see next paragraph regarding flushing of tubing).
 
-Infusion
-
-With any intermittent infusion of aztreonam and another drug with which it is not pharmaceutically compatible, the common delivery tube should be flushed before and after delivery of aztreonam with any appropriate infusion solution compatible with both drug solutions; the drugs should not be delivered simultaneously.
-Any aztreonam for injection infusion should be completed within a 20 to 60 minute period.
+Infusion: With any intermittent infusion of aztreonam and another drug with which it is not pharmaceutically compatible, the common delivery tube should be flushed before and after delivery of aztreonam with any appropriate infusion solution compatible with both drug solutions; the drugs should not be delivered simultaneously.
+Any aztreonam for injection infusion should be completed within a 20- to 60-minute period.
 With use of a Y-type administration set, careful attention should be given to the calculated volume of aztreonam solution required so that the entire dose will be infused.
-A volume control administration set may be used to deliver an initial dilution of aztreonam for injection (see Preparation of Parenteral Solutions, Intravenous Solutions, For Infusion) into a compatible infusion solution during administration; in this case, the final dilution of aztreonam should provide a concentration not exceeding 2% w/v.
+A volume control administration set may be used to deliver an initial dilution of aztreonam for injection (see Preparation of Parenteral Solutions: Intravenous Solutions: For Infusion) into a compatible infusion solution during administration; in this case, the final dilution of aztreonam should provide a concentration not exceeding 2% w/v.
 
 ## Intramuscular Administration
 

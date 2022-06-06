@@ -1,14 +1,16 @@
-# WARNINGS:
+# WARNINGS
 
 Both animal and human data suggest that aztreonam for injection, USP is rarely cross-reactive with other beta-lactam antibiotics and weakly immunogenic.
-Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure (see CONTRAINDICATIONS).
+Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure.
+(See CONTRAINDICATIONS.)
 
 Careful inquiry should be made to determine whether the patient has any history of hypersensitivity reactions to any allergens.
 
 While cross-reactivity of aztreonam with other beta-lactam antibiotics is rare, this drug should be administered with caution to any patient with a history of hypersensitivity to beta-lactams (e.g., penicillins, cephalosporins, and/or carbapenems).
 Treatment with aztreonam can result in hypersensitivity reactions in patients with or without prior exposure to aztreonam.
 If an allergic reaction to aztreonam occurs, discontinue the drug and institute supportive treatment as appropriate (e.g., maintenance of ventilation, pressor amines, antihistamines, corticosteroids).
-Serious hypersensitivity reactions may require epinephrine and other emergency measures (see ADVERSE REACTIONS).
+Serious hypersensitivity reactions may require epinephrine and other emergency measures.
+(See ADVERSE REACTIONS.)
 
 Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including aztreonam for injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -21,9 +23,9 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy and other concomitantly administered drugs associated with toxic epidermal necrolysis.
+Rare cases of toxic epidermal necrolysis have been reported in association with aztreonam in patients undergoing bone marrow transplant with multiple risk factors including sepsis, radiation therapy, and other concomitantly administered drugs associated with toxic epidermal necrolysis.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## General
 
@@ -62,8 +64,6 @@ There was a slightly reduced survival rate during the lactation period in the of
 
 ## Pregnancy
 
-Pregnancy Category B
-
 In pregnant women, aztreonam crosses the placenta and enters the fetal circulation.
 
 Developmental toxicity studies in pregnant rats and rabbits with daily doses of aztreonam up to 1,800 and 1,200 mg/kg, respectively, revealed no evidence of embryotoxicity or fetotoxicity or teratogenicity.
@@ -81,17 +81,18 @@ Aztreonam is excreted in human milk in concentrations that are less than 1% of c
 ## Pediatric Use
 
 The safety and effectiveness of intravenous aztreonam for injection have been established in the age groups 9 months to 16 years.
-Use of aztreonam for injection in these age groups is supported by evidence from adequate and well-controlled studies of aztreonam for injection in adults with additional efficacy, safety, and pharmacokinetic data from non-comparative clinical studies in pediatric patients.
-Sufficient data are not available for pediatric patients under 9 months of age or for the following treatment indications/pathogens: septicemia and skin and skin-structure infections (where the skin infection is believed or known to be due to H. influenzae type b). In pediatric patients with cystic fibrosis, higher doses of aztreonam for injection may be warranted (see CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION, and CLINICAL STUDIES).
+Use of aztreonam for injection in these age groups is supported by evidence from adequate and well-controlled studies of aztreonam for injection in adults with additional efficacy, safety, and pharmacokinetic data from noncomparative clinical studies in pediatric patients.
+Sufficient data are not available for pediatric patients under 9 months of age or for the following treatment indications/pathogens: septicemia and skin and skin-structure infections (where the skin infection is believed or known to be due to H. influenzae type b). In pediatric patients with cystic fibrosis, higher doses of aztreonam for injection may be warranted.
+(See CLINICAL PHARMACOLOGY, DOSAGE AND ADMINISTRATION, and CLINICAL STUDIES.)
 
 ## Geriatric Use
 
 Clinical studies of aztreonam for injection did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-9-12 In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 In elderly patients, the mean serum half-life of aztreonam increased and the renal clearance decreased, consistent with the age-related decrease in creatinine clearance.
-1-4 Since aztreonam is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments made accordingly (see DOSAGE AND ADMINISTRATION, Renal Impairment in Adult Patients and Dosage in the Elderly).
+Since aztreonam is known to be substantially excreted by the kidney, the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
+Because elderly patients are more likely to have decreased renal function, renal function should be monitored and dosage adjustments made accordingly (see DOSAGE AND ADMINISTRATION: Renal Impairment in Adult Patients and Dosage in the Elderly).
 
 Aztreonam for injection contains no sodium.

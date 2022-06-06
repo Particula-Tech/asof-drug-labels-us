@@ -1,4 +1,4 @@
-# DESCRIPTION:
+# DESCRIPTION
 
 Aztreonam for Injection, USP contains the active ingredient aztreonam, a monobactam.
 It was originally isolated from Chromobacterium violaceum.
@@ -10,7 +10,8 @@ The sulfonic acid substituent in the 1-position of the ring activates the beta-l
 Aztreonam is designated chemically as (Z)-2-[[[(2-amino-4-thiazolyl)[[(2S,3S)-2-methyl-4-oxo-1-sulfo-3-azetidinyl] carbamoyl]methylene]amino]oxy]-2-methylpropionic acid.
 Structural formula:
 
-C 13H 17N 5O 8S 2 MW 435.44
+C13H17N5O8S2 M.W.
+435.44
 
 Aztreonam for injection is a sterile, nonpyrogenic, sodium-free lyophilized, off-white to slightly yellow solid containing approximately 780 mg arginine per gram of aztreonam.
 Following constitution, the product is for intramuscular or intravenous use.
