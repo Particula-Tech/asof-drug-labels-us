@@ -6,7 +6,7 @@ Manuf. by: Merck Sharp & Dohme BV 2031 BN Haarlem, Netherlands Ivermectin (activ
 Made in Macao.
 Formulated in The Netherlands.
 
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC. Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
 Each tablet contains 3 mg of ivermectin.
 USUAL DOSAGE: See accompanying circular.

@@ -1,13 +1,14 @@
-Dist. by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Dist. by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
 Manufactured by: Merck Sharp & Dohme BV Waarderweg 39 2031 BN Haarlem Netherlands
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 1996-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright ©1996-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-Revised: 03/2022
+Revised: 05/2022
 
-uspi-mk0933-t-2203r021
+uspi-mk0933-t-2205r022
 
 Printed in the Netherlands
