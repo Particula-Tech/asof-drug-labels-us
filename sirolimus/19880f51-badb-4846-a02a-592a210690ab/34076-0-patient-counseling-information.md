@@ -3,7 +3,7 @@
 Advise patients, their families, and their caregivers to read the Medication Guide and Instructions for Use for the Oral Solution and assist them in understanding its contents.
 The complete text of the Medication Guide and Instructions for Use for the Oral Solution are reprinted at the end of the document.
 
-See FDA-Approved Medication Guide.
+See FDA-Approved Medication Guide and Instructions for Use for the Oral Solution.
 
 ## 17.1 Dosage
 
