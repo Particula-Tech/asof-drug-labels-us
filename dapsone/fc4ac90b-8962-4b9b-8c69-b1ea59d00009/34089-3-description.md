@@ -1,7 +1,6 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 ACZONE Gel, 5%, contains dapsone, a sulfone, in an aqueous gel base for topical dermatologic use.
-
 ACZONE Gel, 5% is a gritty translucent material with visible drug substance particles.
 Chemically, dapsone has an empirical formula of C12H12N2O2S.
 It is a white, odorless crystalline powder that has a molecular weight of 248.

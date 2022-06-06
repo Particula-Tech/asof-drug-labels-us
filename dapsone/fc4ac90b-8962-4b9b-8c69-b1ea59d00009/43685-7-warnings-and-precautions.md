@@ -1,4 +1,4 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Methemoglobinemia
 
@@ -12,7 +12,7 @@ Advise patients to discontinue ACZONE Gel, 5% and seek immediate medical attenti
 
 Dapsone can cause elevated methemoglobin levels particularly in conjunction with methemoglobin‐inducing agents.
 
-## 5.2 Hematologic Effects
+## 5.2Hematologic Effects
 
 Oral dapsone treatment has produced dose-related hemolysis and hemolytic anemia.
 Individuals with glucose-6-phosphate dehydrogenase (G6PD) deficiency are more prone to hemolysis with the use of certain drugs.
@@ -25,7 +25,7 @@ Discontinue ACZONE Gel, 5%, if signs and symptoms suggestive of hemolytic anemia
 Avoid use of ACZONE Gel, 5% in patients who are taking oral dapsone or antimalarial medications because of the potential for hemolytic reactions.
 Combination of ACZONE Gel, 5%, with trimethoprim/sulfamethoxazole (TMP/SMX) may increase the likelihood of hemolysis in patients with G6PD deficiency.
 
-## 5.3 Peripheral Neuropathy
+## 5.3Peripheral Neuropathy
 
 Peripheral neuropathy (motor loss and muscle weakness) has been reported with oral dapsone treatment.
 No events of peripheral neuropathy were observed in clinical trials with topical ACZONE Gel, 5% treatment.
