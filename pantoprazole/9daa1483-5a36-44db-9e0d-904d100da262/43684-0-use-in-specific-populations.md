@@ -36,7 +36,7 @@ Changes in bone parameters were partially reversible following a recovery period
 Risk Summary Pantoprazole has been detected in breast milk of a nursing mother after a single 40 mg oral dose of pantoprazole.
 There were no effects on the breastfed infant (see Data).
 There are no data on pantoprazole effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for pantoprazole and any potential adverse effects on the breastfed child from pantoprazole or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for pantoprazole sodium and any potential adverse effects on the breastfed child from pantoprazole or from the underlying maternal condition.
 Data The breast milk of a 42-year-old woman receiving 40 mg of oral pantoprazole, at 10 months postpartum, was studied for 24 hours, to demonstrate low levels of pantoprazole present in the breast milk.
 Pantoprazole was detectable in milk only 2 and 4 hours after the dose with milk levels of approximately 36 mcg/L and 24 mcg/L, respectively.
 A milk-to-plasma ratio of 0.022 was observed at 2 hours after drug administration.
@@ -74,7 +74,7 @@ In a population pharmacokinetic analysis, the systemic exposure was higher in pa
 In these patients, the apparent clearance (CL/F) increased with age (median clearance: 0.6 L/hr, range: 0.03 to 3.2 L/hr).
 These doses resulted in pharmacodynamic effects on gastric but not esophageal pH.
 Following once daily dosing of 2.5 mg of pantoprazole sodium in preterm infants and neonates, there was an increase in the mean gastric pH (from 4.3 at baseline to 5.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 60% at baseline to 80% at steady-state).
-Following once daily dosing of approximately 1.2 mg/kg of pantoprazole sodium in infants 1 through 11 months of age, there was an increase in the mean gastric pH (from 3.1 at baseline to 4.2 at steady-state) and in the mean % time that gastric pH was >4 (from 32% at baseline to 60% at steady-state).
+Following once daily dosing of approximately 1.2 mg/kg of pantoprazole sodium in infants 1 through 11 months of age, there was an increase in the mean gastric pH (from 3.1 at baseline to 4.2 at steady-state) and in the mean % time that gastric pH was > 4 (from 32% at baseline to 60% at steady-state).
 However, no significant changes were observed in mean intraesophageal pH or % time that esophageal pH was <4 in either age group.
 Because pantoprazole sodium was not shown to be effective in the randomized, placebo-controlled study in this age group, the use of pantoprazole sodium for treatment of symptomatic GERD in infants less than 1 year of age is not indicated.
 Animal Toxicity Data In a pre- and post-natal development study in rats, the pups were administered oral doses of pantoprazole at 5, 15, and 30 mg/kg/day (approximately 1, 2.3, and 3.2 times the exposure(AUC) in children aged 6 to 11 years at a dose of 40 mg) on postnatal day (PND 4) through PND 21, in addition to lactational exposure through milk.

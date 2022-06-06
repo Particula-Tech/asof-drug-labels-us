@@ -9,7 +9,7 @@ In this study, approximately 25% of enrolled patients had severe EE of grade 3, 
 The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 8.
 Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 
-| ––––––––––––––– Pantoprazole sodium –––––––––– Placebo |  |  |  |  |
+| –––––––––––– Pantoprazole sodium –––––––––– Placebo |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
 | 4 | 45.6% + | 58.4% +# | 75.0% +* | 14.3% |
@@ -24,9 +24,9 @@ Pantoprazole sodium 40 mg and 20 mg once daily were also compared with nizatidin
 The percentages of patients healed (per protocol, n = 212) are shown in Table 9.
 Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 
-| –––––––––––––––Pantoprazole sodium––––––––––––––– Nizatidine |  |  |  |
+| –––––––––––––––Pantoprazole sodium–––––––––––––––Nizatidine |  |  |  |
 | --- | --- | --- | --- |
-| Week | 20 mg daily (n = 72) | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
+| Week | 20 mgdaily (n = 72) | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
 | 4 | 61.4% + | 64.0% + | 22.2% |
 | 8 | 79.2% + | 82.9% + | 41.4% |
 
@@ -36,7 +36,7 @@ A significantly greater proportion of the patients in the pantoprazole sodium tr
 Patients taking pantoprazole sodium consumed significantly fewer antacid tablets per day than those taking nizatidine.
 Pediatric Patients Ages 5 Years through 16 Years The efficacy of pantoprazole sodium in the treatment of EE associated with GERD in pediatric patients ages 5 years through 16 years is extrapolated from adequate and well-conducted trials in adults, as the pathophysiology is thought to be the same.
 Four pediatric patients with endoscopically diagnosed EE were studied in multicenter, randomized, double-blind, parallel-treatment trials.
-Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium delayed-release tablets (20 mg or 40 mg).
+Children with endoscopically diagnosed EE (defined as an endoscopic Hetzel-Dent score ≥2) were treated once daily for 8 weeks with one of two dose levels of pantoprazole sodium (20 mg or 40 mg).
 All 4 patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 weeks.
 
 ## 14.2 Long-Term Maintenance of Healing of Erosive Esophagitis
@@ -47,7 +47,7 @@ As demonstrated in Table 10, pantoprazole sodium 40 mg and 20 mg were significan
 In addition, pantoprazole sodium 40 mg was superior to all other treatments studied.
 Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
-|  | Pantoprazole sodium 20 mg daily | Pantoprazole sodium 40 mg daily | Ranitidine 150 mg twice daily |
+|  | Pantoprazole sodium 20 mg daily | Pantoprazole sodium 40 mgdaily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
 | Study 1 | n = 75 | n = 74 | n = 75 |
 | Month 1 | 91* | 99* | 68 |
@@ -67,10 +67,8 @@ Table 11: Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | Pantoprazole sodium 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
-| Month 1 | Daytime | 5.1 ± 1.6* | 18.3 ± 1.6 |
-|  | Nighttime | 3.9 ± 1.1* | 11.9 ± 1.1 |
-| Month 12 | Daytime | 2.9 ± 1.5* | 17.5 ± 1.5 |
-|  | Nighttime | 2.5 ± 1.2* | 13.8 ± 1.3 |
+| Month 1 | Daytime Nighttime | 5.1 ± 1.6* 3.9 ± 1.1* | 18.3 ± 1.6 11.9 ± 1.1 |
+| Month 12 | Daytime Nighttime | 2.9 ± 1.5* 2.5 ± 1.2* | 17.5 ± 1.5 13.8 ± 1.3 |
 
 * (p < 0.001 vs. ranitidine, combined data from the two US studies)
 

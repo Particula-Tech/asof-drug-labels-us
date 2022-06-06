@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis,Mutagenesis,Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a 24-month carcinogenicity study, Sprague-Dawley rats were treated orally with pantoprazole doses of 0.5 to 200 mg/kg/day, about 0.1 to 40 times the exposure on a body surface area basis of a 50 kg person dosed with 40 mg/day.
 In the gastric fundus, treatment with 0.5 to 200 mg/kg/day produced enterochromaffin-like (ECL) cell hyperplasia and benign and malignant neuroendocrine cell tumors in a dose-related manner.

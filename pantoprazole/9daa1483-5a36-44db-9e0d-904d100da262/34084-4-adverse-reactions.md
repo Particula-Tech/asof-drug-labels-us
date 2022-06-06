@@ -1,13 +1,14 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described below and elsewhere in labeling: • Acute Interstitial Nephritis [see Warnings and Precautions (5.2)] • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)] • Bone Fracture [see Warnings and Precautions (5.4)] • Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)] • Cyanocobalamin (Vitamin B-12) Deficiency [see Warningsand Precautions (5.6)] • Hypomagnesemia [see Warnings and Precautions (5.7)] • Fundic Gland Polyps [see Warnings and Precautions (5.9)]
+The following serious adverse reactions are described below and elsewhere in labeling:
+
+• Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)] • Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)] • Bone Fracture [see Warnings and Precautions (5.4)] • Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)] • Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)] • Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)] • Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)] • Fundic Gland Polyps [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
 The adverse reaction profiles for Pantoprazole Sodium For Delayed-Release Oral Suspension and Pantoprazole Sodium Delayed-Release Tablets are similar.
-
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
-Adults Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
+Adults Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium (20 mg or 40 mg), 299 patients on an H 2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
 
@@ -31,6 +32,6 @@ Zollinger-Ellison (ZE) Syndrome In clinical studies of ZE Syndrome, adverse reac
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of pantoprazole sodium delayed-release tablets.
+The following adverse reactions have been identified during postapproval use of pantoprazole sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-These adverse reactions are listed below by body system: Gastrointestinal Disorders: fundic gland polyps General Disorders and Administration Conditions: asthenia, fatigue, malaise Hematologic: pancytopenia, agranulocytosis Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus Infections and Infestations: Clostridium difficile associated diarrhea Investigations: weight changes Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia Musculoskeletal Disorders: rhabdomyolysis, bone fracture Nervous: ageusia, dysgeusia Psychiatric Disorders: hallucination, confusion, insomnia, somnolence Renal and Urinary Disorders: interstitial nephritis Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke’s edema) and cutaneous lupus erythematosus
+These adverse reactions are listed below by body system: Gastrointestinal Disorders: fundic gland polyps General Disorders and Administration Conditions: asthenia, fatigue, malaise Hematologic: pancytopenia, agranulocytosis Hepatobiliary Disorders: hepatocellular damage leading to jaundice and hepatic failure Immune System Disorders: anaphylaxis (including anaphylactic shock), systemic lupus erythematosus Infections and Infestations: Clostridium difficile associated diarrhea Investigations: weight changes Metabolism and Nutritional Disorders: hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia Musculoskeletal Disorders: rhabdomyolysis, bone fracture Nervous: ageusia, dysgeusia Psychiatric Disorders: hallucination, confusion, insomnia, somnolence Renal and Urinary Disorders: acute tubulointerstitial nephritis Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke’s edema) and cutaneous lupus erythematosus

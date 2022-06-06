@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H+, K+)-ATPase enzyme system at the secretory surface of the gastric parietal cell.
+Pantoprazole is a PPI that suppresses the final step in gastric acid production by covalently binding to the (H +, K +)-ATPase enzyme system at the secretory surface of the gastric parietal cell.
 This effect leads to inhibition of both basal and stimulated gastric acid secretion, irrespective of the stimulus.
-The binding to the (H+, K+)-ATPase results in a duration of antisecretory effect that persists longer than 24 hours for all doses tested (20 mg to 120 mg).
+The binding to the (H +, K +)-ATPase results in a duration of antisecretory effect that persists longer than 24 hours for all doses tested (20 mg to 120 mg).
 
 ## 12.2 Pharmacodynamics
 
@@ -18,6 +18,7 @@ In a series of dose-response studies, pantoprazole, at oral doses ranging from 2
 Treatment with 40 mg of pantoprazole produced significantly greater increases in gastric pH than the 20 mg dose.
 Doses higher than 40 mg (60, 80, 120 mg) did not result in further significant increases in median gastric pH.
 The effects of pantoprazole on median pH from one double-blind crossover study are shown in Table 5.
+
 Table 5: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
 | ——————— Median pH on day 7——————— |  |  |  |  |
@@ -42,8 +43,8 @@ Gastric NE-cell tumors in rats may result from chronic elevation of serum gastri
 The high density of ECL cells in the rat stomach makes this species highly susceptible to the proliferative effects of elevated gastrin concentrations produced by PPIs.
 However, there were no observed elevations in serum gastrin following the administration of pantoprazole at a dose of 0.5 mg/kg/day.
 In a separate study, a gastric NE-cell tumor without concomitant ECL-cell proliferative changes was observed in 1 female rat following 12 months of dosing with pantoprazole at 5 mg/kg/day and a 9 month off-dose recovery [see Nonclinical Toxicology (13.1)].
-Endocrine Effects In a clinical pharmacology study, pantoprazole sodium delayed-release tablets 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T 3), thyroxine (T 4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
-In a 1-year study of GERD patients treated with pantoprazole sodium delayed-release tablets 40 mg or 20 mg, there were no changes from baseline in overall levels of T 3, T 4, and TSH.
+Endocrine Effects In a clinical pharmacology study, pantoprazole sodium 40 mg given once daily for 2 weeks had no effect on the levels of the following hormones: cortisol, testosterone, triiodothyronine (T 3), thyroxine (T 4), thyroid-stimulating hormone (TSH), thyronine-binding protein, parathyroid hormone, insulin, glucagon, renin, aldosterone, follicle-stimulating hormone, luteinizing hormone, prolactin, and growth hormone.
+In a 1-year study of GERD patients treated with pantoprazole sodium 40 mg or 20 mg, there were no changes from baseline in overall levels of T 3, T 4, and TSH.
 
 ## 12.3 Pharmacokinetics
 
@@ -70,16 +71,17 @@ Pediatric Patients The pharmacokinetics of pantoprazole were studied in children
 Pantoprazole Sodium Delayed-Release Tablets were studied in children older than 5 years.
 In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.
 The total clearance also increased with increasing age only in children under 3 years of age.
-Neonate through 5 Years of Age [see Use in Specific Populations (8.4)] Children and Adolescents 6 through 16 Years of AgeThe pharmacokinetics of Pantoprazole Sodium Delayed-Release Tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
+Neonate through 5 Years of Age [see Use in Specific Populations (8.4)] Children and Adolescents 6 through 16 Years of Age The pharmacokinetics of Pantoprazole Sodium Delayed-Release Tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
 The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 7).
+
 Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg Pantoprazole Sodium Delayed-Release Tablets
 
 |  | 6 to 11 years (n=12) | 12 to 16 years (n=11) |
 | --- | --- | --- |
 | C max (mcg/mL) a t max (h) b AUC (mcg•h/mL) a CL/F (L/h) b | 1.8 2.0 6.9 6.6 | 1.8 2.0 5.5 6.8 |
 
-a Geometric mean values b Median values Male and Female Patients There is a modest increase in pantoprazole AUC and Cmax in women compared to men.
+a Geometric mean values b Median values Male and Female Patients There is a modest increase in pantoprazole AUC and C max in women compared to men.
 However, weight-normalized clearance values are similar in women and men.
 In pediatric patients ages 1 through 16 years there were no clinically relevant effects of gender on clearance of pantoprazole, as shown by population pharmacokinetic analysis.
 Patients with Renal Impairment In patients with severe renal impairment, pharmacokinetic parameters for pantoprazole were similar to those of healthy subjects.
