@@ -45,7 +45,7 @@ Chickenpox
 
 Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
 
-Trademark is owned by or licensed to the GSK group of companies.
+Trademarks are owned by or licensed to the GSK group of companies.
 
 Distributed by:
 
@@ -53,9 +53,9 @@ GlaxoSmithKline
 
 Research Triangle Park, NC 27709
 
-©2021, GSK group of companies or its licensor.
+©2022, GSK group of companies or its licensor.
 
-VTX: 8PI
+VTX: 9PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
