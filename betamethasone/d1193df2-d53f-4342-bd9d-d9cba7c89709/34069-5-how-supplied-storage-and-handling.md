@@ -11,7 +11,7 @@ It is available as:
 
 ## 16.2 Storage
 
-- Store Enstilar Foam at 20°C - 25°C (68° F - 77°F); excursions permitted between 15° C - 30°C (59° F - 86°F).
+- Store Enstilar Foam at 20°C - 25°C (68°F - 77°F); excursions permitted between 15°C - 30°C (59°F - 86°F).
   [See USP controlled room temperature].
 - Contents under pressure.
   Do not puncture or incinerate.

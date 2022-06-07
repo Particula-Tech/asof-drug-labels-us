@@ -36,13 +36,9 @@ Keep Enstilar Foam and all medicines out of the reach of children.
 
 Manufactured by: LEO Laboratories Ltd. 285 Cashel Road Dublin 12, Ireland
 
-or
-
-Colep Laupheim GmbH & Co. KG Fockestraße 12 88471 Laupheim Germany (DE)
-
 Distributed by: LEO Pharma Inc. Madison, NJ 07940, USA
 
-Enstilar® is a registered trademark of LEO Pharma A/S. © 2020, LEO Pharma Inc. All rights reserved.
+Enstilar® is a registered trademark of LEO Pharma A/S. © 2022, LEO Pharma Inc. All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 10/2020
+Revised: 4/2022
