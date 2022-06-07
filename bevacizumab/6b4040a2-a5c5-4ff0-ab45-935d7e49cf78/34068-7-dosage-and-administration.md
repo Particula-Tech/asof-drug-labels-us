@@ -74,7 +74,7 @@ Preparation
 - Withdraw necessary amount of Alymsys and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 - Discard any unused portion left in a vial, as the product contains no preservatives.
-- Store diluted Alymsys solution at 2°C to 8°C (36°F to 46°F) for up to 4 hours.
+- Store diluted Alymsys solution at 2°C to 8°C (36°F to 46°F) for up to 12 hours.
 - No incompatibilities between Alymsys and polyvinylchloride or polyolefin bags have been observed.
 
 Administration
