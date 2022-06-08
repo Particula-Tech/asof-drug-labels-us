@@ -5,7 +5,7 @@
 Hypotension, including shock and cardiac arrest, wheezing, dyspnea, urticaria, muscular and chest pain may occur with rapid Vancomycin Hydrochloride for Injection administration.
 The reactions may be more severe in younger patients, particularly children, and in patients receiving concomitant muscle relaxant anesthetics.
 
-Rapid intravenous administration of Vancomycin Hydrochloride for Injection may also be associated with “red man syndrome”, which manifests as pruritus and erythema that involves the face, neck and upper torso.
+Rapid intravenous administration of Vancomycin Hydrochloride for Injection may also be associated with “vancomycin infusion reaction”, which manifests as pruritus and erythema that involves the face, neck and upper torso.
 
 Infusion-related adverse reactions are related to both the concentration and the rate of administration of vancomycin.
 Infusion-related adverse reactions may occur, however, at any rate or concentration.
@@ -44,9 +44,9 @@ Cutaneous signs or symptoms reported include skin rashes, mucosal lesions, and b
 
 Discontinue Vancomycin Hydrochloride for Injection at the first appearance of signs and symptoms of TEN, SJS, DRESS, AGEP, or LABD.
 
-## 5.5 Clostridium Difficile-Associated Diarrhea
+## 5.5 Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vancomycin Hydrochloride for Injection, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Vancomycin Hydrochloride for Injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
