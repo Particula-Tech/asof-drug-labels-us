@@ -1,14 +1,14 @@
 # HOW SUPPLIED
 
-Etodolac extended-release tablets, 400 mg, are available as orange, film-coated, oval-shaped tablets, debossed “1122” on one side and “93” on the other.
+Etodolac extended-release tablets USP, 400 mg, are available as orange, film-coated, oval-shaped tablets, debossed “1122” on one side and “93” on the other.
 They are available in bottles of 100.
 NDC 0093-1122-01.
 
-Etodolac extended-release tablets, 500 mg, are available as gray, film-coated, oval-shaped tablets, debossed “7172” on one side and “93” on the other.
+Etodolac extended-release tablets USP, 500 mg, are available as gray, film-coated, oval-shaped tablets, debossed “7172” on one side and “93” on the other.
 They are available in bottles of 100.
 NDC 0093-7172-01.
 
-Etodolac extended-release tablets, 600 mg, are available as light blue, film-coated, oval-shaped tablets, debossed “1118” on one side and “93” on the other.
+Etodolac extended-release tablets USP, 600 mg, are available as light blue, film-coated, oval-shaped tablets, debossed “1118” on one side and “93” on the other.
 They are available in bottles of 100.
 NDC 0093-1118-01.
 
@@ -18,8 +18,12 @@ Protect from excessive heat and humidity.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-Manufactured In Israel By: TEVA PHARMACEUTICAL IND.
-LTD. Jerusalem, 9777402, Israel Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+Manufactured In Israel By: Teva Pharmaceutical Ind.
+Ltd. Kfar Saba, 4410202, Israel
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-I 7/2015
+L 4/2022
