@@ -7,7 +7,7 @@ Clinical studies of combination and single-agent use are described below.
 
 ## 14.1 Metastatic Colorectal Cancer
 
-First Line Therapy in Combination with 5-FU/LV: Studies 1 and 2
+First-Line Therapy in Combination with 5-FU/LV: Studies 1 and 2
 
 Two phase 3, randomized, controlled, multinational clinical trials support the use of irinotecan hydrochloride injection as first-line treatment of patients with metastatic carcinoma of the colon or rectum.
 In each study, combinations of irinotecan with 5-FU and LV were compared with 5-FU and LV alone.
@@ -67,8 +67,7 @@ Combination Dosage Schedule: Study Results
 Improvement was noted with irinotecan-based combination therapy relative to 5-FU/LV when response rates and time to tumor progression were examined across the following demographic and disease-related subgroups (age, gender, ethnic origin, performance status, extent of organ involvement with cancer, time from diagnosis of cancer, prior adjuvant therapy, and baseline laboratory abnormalities).
 Figures 1 and 2 illustrate the Kaplan-Meier survival curves for the comparison of irinotecan/5-FU/LV versus 5-FU/LV in Studies 1 and 2, respectively.
 
-Figure 1.
-Survival First-Line Irinotecan/5-FU/LV vs 5-FU/LV Study 1
+Figure 1 Survival First-Line Irinotecan/5-FU/LV vs 5-FU/LV Study 1
 
 Figure 2.
 Survival First-Line Irinotecan/5-FU/LV vs 5-FU/LV Study 2

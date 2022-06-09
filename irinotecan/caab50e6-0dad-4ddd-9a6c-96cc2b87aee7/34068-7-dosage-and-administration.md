@@ -93,7 +93,8 @@ Dose Modifications
 Based on recommended dose-levels described in Table 3, Single-Agent Regimens of Irinotecan Hydrochloride Injection and Dose Modifications, subsequent doses should be adjusted as suggested in Table 4, Recommended Dose Modifications for Single-Agent Schedules.
 All dose modifications should be based on the worst preceding toxicity.
 
-Table 4: Recommended Dose Modifications For Single-Agent Schedulesa
+Table 4.
+Recommended Dose Modifications For Single-Agent Schedulesa
 
 | A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing Irinotecan Hydrochloride Injection. |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -105,17 +106,17 @@ Table 4: Recommended Dose Modifications For Single-Agent Schedulesa
 | Neutropenic fever | Omit dose until resolved, then ↓ 50 mg/m2 when resolved | ↓ 50 mg/m2 |  | ↓ 50 mg/m2 |
 | Other hematologic toxicities | Dose modifications for leukopenia, thrombocytopenia, and anemia during a cycle of therapy and at the start of subsequent cycles of therapy are also based on NCI toxicity criteria and are the same as recommended for neutropenia above. |  |  |  |
 | Diarrhea |  |  |  |  |
-| 1 (2 to 3 stools/day > pretxc) 2 (4 to 6 stools/day > pretx) 3 (7 to 9 stools/day > pretx) 4 (≥10 stools/day > pretx) | Maintain dose level ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | Maintain dose level Maintain dose level ↓ 25 mg/m2 ↓ 50 mg/m2 |  | Maintain dose level Maintain dose level ↓ 50 mg/m2 ↓ 50 mg/m2 |
-| Other nonhematologicd toxicities 1 2 3 4 | Maintain dose level ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | Maintain dose level ↓ 25 mg/m2 ↓ 25 mg/m2 ↓ 50 mg/m2 |  | Maintain dose level ↓ 50 mg/m2 ↓ 50 mg/m2 ↓ 50 mg/m2 |
+| 1 (2 to 3 stools/day > pretxc) 2 (4 to 6 stools/day > pretx) 3 (7 to 9 stools/day > pretx) 4 (≥10 stools/day > pretx) | Maintain dose level ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2 then ↓ 50 mg/m2 | Maintain dose level Maintain dose level ↓ 25 mg/m2 ↓ 50 mg/m2 | Maintain dose level Maintain dose level ↓ 50 mg/m2 ↓ 50 mg/m2 |  |
+| Other nonhematologicd toxicities 1 2 3 4 | Maintain dose level ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 25 mg/m2 Omit dose until resolved to ≤ grade 2, then ↓ 50 mg/m2 | Maintain dose level ↓ 25 mg/m2 ↓ 25 mg/m2 ↓ 50 mg/m2 | Maintain dose level ↓ 50 mg/m2 ↓ 50 mg/m2 ↓ 50 mg/m2 |  |
 | a All dose modifications should be based on the worst preceding toxicity |  |  |  |  |
 | b National Cancer Institute Common Toxicity Criteria (version 1.0) |  |  |  |  |
 | c Pretreatment |  |  |  |  |
 | d Excludes alopecia, anorexia, asthenia |  |  |  |  |
 
-## 2.3 Dosage in Patients with Reduced UGT1A1 Activity
+## 2.3 Dosage in Patients With Reduced UGT1A1 Activity
 
-When administered in combination with other agents, or as a single-agent, a reduction in the starting dose by at least one level of Irinotecan Hydrochloride Injection should be considered for patients known to be homozygous for the UGT1A1*28 allele [see Dosage and Administration (2.1 and 2.2) and Warnings and Precautions (5.3)].
-However, the precise dose reduction in this patient population is not known, and subsequent dose modifications should be considered based on individual patient tolerance to treatment (see Tables 1 to 4).
+When administered in combination with other agents, or as a single-agent, consider a reduction in the starting dose by at least one level of Irinotecan Hydrochloride Injection for patients known to be homozygous for the UGT1A1*28 or *6 alleles (*28/*28, *6/*6) or compound heterozygous for the UGT1A1*28 and *6 alleles (*6/*28) [see Dosage and Administration (2.1, 2.2), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3, 12.5)].
+Subsequent dosage modifications may be required based on individual patient tolerance to treatment [see Dosage and Administration (2.1, 2.2)].
 
 ## 2.4 Premedication
 
@@ -133,27 +134,23 @@ Inspect vial contents for particulate matter and discoloration and repeat inspec
 
 Irinotecan Hydrochloride Injection 20 mg per mL is intended for single dose only and any unused portion should be discarded.
 
-Irinotecan Hydrochloride Injection must be diluted prior to infusion.
+Irinotecan Hydrochloride Injection must be diluted prior to infusion using aseptic technique.
 Irinotecan Hydrochloride Injection should be diluted in 5% Dextrose Injection, USP, (preferred) or 0.9% Sodium Chloride Injection, USP, to a final concentration range of 0.12 mg per mL to 2.8 mg per mL.
 Other drugs should not be added to the infusion solution.
 
-The solution is physically and chemically stable for up to 24 hours at room temperature and in ambient fluorescent lighting.
-Solutions diluted in 5% Dextrose Injection, USP, and stored at refrigerated temperatures (approximately 2° to 8°C, 36° to 46°F), and protected from light are physically and chemically stable for 48 hours.
-Refrigeration of admixtures using 0.9% Sodium Chloride Injection, USP, is not recommended due to a low and sporadic incidence of visible particulates.
-Freezing Irinotecan Hydrochloride Injection and admixtures of Irinotecan Hydrochloride Injection may result in precipitation of the drug and should be avoided.
-
-The Irinotecan Hydrochloride Injection solution should be used immediately after reconstitution as it contains no antibacterial preservative.
-Because of possible microbial contamination during dilution, it is advisable to use the admixture prepared with 5% Dextrose Injection, USP, within 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
-In the case of admixtures prepared with 5% Dextrose Injection, USP, or Sodium Chloride Injection, USP, the solutions should be used within 4 hours if kept at room temperature.
-If reconstitution and dilution are performed under strict aseptic conditions (e.g., on Laminar Air Flow bench), Irinotecan Hydrochloride Injection solution should be used (infusion completed) within 12 hours at room temperature or 24 hours if refrigerated (2° to 8°C, 36° to 46°F).
+Prepare the infusion solution immediately prior to use and commence infusion as soon as possible after preparation.
+If visible particulates are present in the infusion solution discard.
+If it is not possible to use the infusion solution immediately, the infusion solution may be stored for up to 24 hours at 2 °C to 8 °C or discarded.
 
 ## 2.6 Safe Handling
+
+Irinotecan Hydrochloride Injection is a hazardous drug.
+Follow applicable special handling and disposal procedures.1
 
 Care should be exercised in the handling and preparation of infusion solutions prepared from Irinotecan Hydrochloride Injection.
 The use of gloves is recommended.
 If a solution of Irinotecan Hydrochloride Injection contacts the skin, wash the skin immediately and thoroughly with soap and water.
 If Irinotecan Hydrochloride Injection contacts the mucous membranes, flush thoroughly with water.
-Several published guidelines for handling and disposal of anticancer agents are available.
 
 ## 2.7 Extravasation
 

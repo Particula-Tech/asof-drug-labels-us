@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Irinotecan Hydrochloride Injection, USP is supplied as follows:
+Irinotecan Hydrochloride Injection, USP is available as a sterile, pale yellow, clear, aqueous solution in a vial packaged within a carton in the following packaging configurations:
 
 |  | Irinotecan Hydrochloride Injection, USP |  |
 | --- | --- | --- |
@@ -19,6 +19,9 @@ Discard unused portion.
 
 Inspect the vial for damage and visible signs of leaks before removing from the carton.
 If damaged, incinerate the unopened package.
+
+Irinotecan Hydrochloride Injection, USP is a hazardous drug.
+Follow special handling and disposal procedures.1
 
 Sterile, Nonpyrogenic, Preservative-free.
 The container closure is not made with natural rubber latex.

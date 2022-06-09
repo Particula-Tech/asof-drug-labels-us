@@ -154,7 +154,7 @@ Thirteen (4.3%) patients discontinued treatment with irinotecan hydrochloride in
 The adverse events in Table 7 are based on the experience of the 304 patients enrolled in the three studies described in Clinical Studies (14.1).
 
 Table 7.
-Adverse Events Occurring in >10% of 304 Previously Treated Patients with Metastatic Carcinoma of the Colon or Rectuma
+Adverse Events Occurring in >10% of 304 Previously Treated Patients With Metastatic Carcinoma of the Colon or Rectuma
 
 |  | % of Patients Reporting |  |
 | --- | --- | --- |
@@ -225,7 +225,8 @@ Eight percent of patients treated with irinotecan and 7% treated with 5-FU-based
 Of the 316 patients treated with irinotecan, the most clinically significant adverse events (all grades, 1–4) were diarrhea (84%), alopecia (72%), nausea (70%), vomiting (62%), cholinergic symptoms (47%), and neutropenia (30%).
 Table 8 lists the grade 3 and 4 adverse events reported in the patients enrolled to all treatment arms of the two studies described in Clinical Studies (14.1).
 
-Table 8: Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan Therapya
+Table 8.
+Percent Of Patients Experiencing Grade 3 & 4 Adverse Events In Comparative Studies Of Once-Every-3-Week Irinotecan Therapya
 
 |  | Study 1 |  | Study 2 |  |
 | --- | --- | --- | --- | --- |
