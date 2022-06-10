@@ -2,7 +2,7 @@
 
 Information for the Patient
 
-Dihydroergotamine Mesylate Nasal Spray.
+Dihydroergotamine Mesylate Nasal Spray
 
 The solution used in Dihydroergotamine Mesylate Nasal Spray (4 mg/mL) is intended for intranasal use and must not be injected.
 
@@ -23,11 +23,10 @@ There have been reports of fibrosis (stiffening) in the lung or kidney areas in 
 Rarely, prolonged daily use of other ergot alkaloid drugs (the class of drugs to which Dihydroergotamine Mesylate Nasal Spray belongs) has been associated with heart valvular fibrosis.
 Rare cases have also been reported in association with the use of injectable dihydroergotamine mesylate; however, in those cases, patients also received drugs known to be associated with heart valvular fibrosis.
 
-Do not use dihydroergotamine mesylate nasal spray if you:
+Do not use Dihydroergotamine Mesylate Nasal Spray if you:
 
-- •Are pregnant or nursing.
 - •have any disease affecting your heart, arteries, or circulation.
-- •are taking certain anti-HIV medications (protease inhibitors)
+- •are taking certain anti-HIV medications (protease inhibitors).
 - •are taking a macrolide antibiotic such as troleandomycin, clarithromycin or erythromycin.
 
 Important questions to consider before using Dihydroergotamine Mesylate Nasal Spray
@@ -43,19 +42,26 @@ If you answer YES to any of these questions or are unsure of the answer, you sho
   Do you think you might be pregnant?
   Are you trying to become pregnant?
   Are you sexually active and not using birth control?
-  Are you breast feeding?
+- oDihydroergotamine Mesylate Nasal Spray may cause preterm labor.
+  Dihydroergotamine Mesylate Nasal Spray should be avoided during pregnancy.
+  Talk to your healthcare provider right away if you are pregnant or want to become pregnant.
+- •Are you breastfeeding?
+- oDihydroergotamine Mesylate Nasal Spray may reduce breast milk supply and pass into your breast milk.
+  Dihydroergotamine Mesylate Nasal Spray may be harmful to your baby.
+  Do not breastfeed your baby while taking Dihydroergotamine Mesylate Nasal Spray and for 3 days after you use Dihydroergotamine Mesylate Nasal Spray.
+  Talk with your healthcare provider about the best way to feed your baby if you take Dihydroergotamine Mesylate Nasal Spray.
 - •Have you ever had to stop taking this or any other medication because of an allergy or bad reaction?
-- •Are you taking any other migraine medications, erythromycin or other antibiotics, or medications for blood pressure prescribed by your doctor, or other medicines obtained from your drugstore without a doctor's prescription?
+- •Are you taking any other migraine medications, erythromycin or other antibiotics, or medications for blood pressure prescribed by your doctor, or other medicines obtained from your drugstore without a doctor’s prescription?
 - •Do you smoke?
 - •Have you had, or do you have, any disease of the liver or kidney?
 - •Is this headache different from your usual migraine attacks?
-- •Are you using dihydroergotamine mesylate nasal spray or other dihydroergotamine mesylate containing drugs on a daily basis?
+- •Are you using Dihydroergotamine Mesylate Nasal Spray or other dihydroergotamine mesylate containing drugs on a daily basis?
 - •Are you taking a protease inhibitor for HIV therapy?
 - •Are you taking a macrolide class of antibiotic?
 
 Serious or potentially life-threatening reductions in blood flow to the brain or extremities have been reported rarely due to interactions between Dihydroergotamine Mesylate Nasal Spray and protease inhibitors or macrolide antibiotics.
 
-REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE Dihydroergotamine Mesylate Nasal Spray.
+REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE DIHYDROERGOTAMINE MESYLATE NASAL SPRAY.
 
 Side Effects To Watch Out For
 
@@ -85,49 +91,32 @@ If you have used more medication than you have been instructed, contact your doc
 
 How to use the Dihydroergotamine Mesylate Nasal Spray
 
-1.
-Use available training materials.
-
-- •Read and follow the instructions in the administration instructions which are provided with the Dihydroergotamine Mesylate Nasal Spray package before attempting to use the product.
-- •If there are any questions concerning the use of your Dihydroergotamine Mesylate Nasal Spray, ask your doctor or pharmacist, or contact Oceanside Pharmaceuticals at 1-800-321-4576.
-
-2.
-Check the contents of the package:
-
-- •8 Nasal Spray Vials
-- •8 Nasal Sprayers
-- •Administration Instructions
-- •Package Insert
-
-3.
-Assemble the sprayer:
-
-Assemble your nasal sprayer only when you are ready to use it.
-
-- •Lift tab to bend back blue cover.
-  In one piece, completely remove the blue cover and metal seal in a circular motion.
-  Keeping the vial upright, remove rubber stopper.
-  Set vial aside.
-- •Remove plastic cover from the bottom of pump unit.
-  Insert spray pump into vial and turn clockwise until securely fastened.
-
-4.
-Using the sprayer:
-
-- •Remove cap from spray unit.
-  Holding the vial upright, point nasal sprayer away from face and pump 4 times before using.
-  DO NOT PUMP MORE THAN 4 TIMES.
-  (Although some medication will spray out, there is enough medication in each vial to allow you to prepare your nasal spray pump properly and still receive a full treatment of dihydroergotamine mesylate.)
-- •Spray once into each nostril.
-  Do not tilt head back or sniff through your nose while spraying or
-- immediately after.
-  Wait 15 minutes.
-  Spray once again into each nostril.
-
-5.
-After completing these instructions:
-
-- •Carefully dispose of the nasal spray pump with the vial.
+1. 1.Use available training materials.
+2. •Read and follow the instructions in the administration instructions which are provided with the Dihydroergotamine Mesylate Nasal Spray package before attempting to use the product.
+3. •If there are any questions concerning the use of your Dihydroergotamine Mesylate Nasal Spray, ask your doctor or pharmacist, or contact Bausch Health US, LLC at 1-800-321-4576.
+4. 2.Check the contents of the package:
+5. •8 Nasal Spray Vials
+6. •8 Nasal Sprayers
+7. •Administration Instructions
+8. •Package Insert
+9. 3.Assemble the sprayer: Assemble your nasal sprayer only when you are ready to use it.
+10. •Lift tab to bend back blue cover.
+    In one piece, completely remove the blue cover and metal seal in a circular motion.
+    Keeping the vial upright, remove rubber stopper.
+    Set vial aside.
+11. •Remove plastic cover from the bottom of pump unit.
+    Insert spray pump into vial and turn clockwise until securely fastened.
+12. 4.Using the sprayer:
+13. •Remove cap from spray unit.
+    Holding the vial upright, point nasal sprayer away from face and pump 4 times before using.
+    DO NOT PUMP MORE THAN 4 TIMES.
+    (Although some medication will spray out, there is enough medication in each vial to allow you to prepare your nasal spray pump properly and still receive a full treatment of Dihydroergotamine Mesylate Nasal Spray.)
+14. •Spray once into each nostril.
+    Do not tilt head back or sniff through your nose while spraying or immediately after.
+    Wait 15 minutes.
+    Spray once again into each nostril.
+15. 5.After completing these instructions:
+16. •Carefully dispose of the nasal spray pump with the vial.
 
 Important Notes:
 
@@ -140,14 +129,14 @@ Storing Dihydroergotamine Mesylate Nasal Spray
 - •Do not expose Dihydroergotamine Mesylate Nasal Spray to temperatures over 77°F.
 - •Never refrigerate or freeze Dihydroergotamine Mesylate Nasal Spray.
 - •Do not keep an opened Dihydroergotamine Mesylate Nasal Spray vial for more than 8 hours.
-  Check the expiration date printed on the vial containing medication.
+- Check the expiration date printed on the vial containing medication.
   If the expiration date has passed, do not use it.
 
-Answers to patients' questions about Dihydroergotamine Mesylate Nasal Spray
+Answers to patients’ questions about Dihydroergotamine Mesylate Nasal Spray
 
 What if I need help in using my Dihydroergotamine Mesylate Nasal Spray?
 
-If you have any questions or if you need help in opening, putting together, or using Dihydroergotamine Mesylate Nasal Spray, speak to your doctor or pharmacist, or contact Oceanside Pharmaceuticals at 1-800-321-4576.
+If you have any questions or if you need help in opening, putting together, or using Dihydroergotamine Mesylate Nasal Spray, speak to your doctor or pharmacist, or contact Bausch Health US, LLC at 1-800-321-4576.
 
 How much medication should I use and how often?
 
@@ -166,21 +155,20 @@ Can I assemble the medication vial and the Nasal Sprayer so it is ready before I
 No. The brown (amber) glass vial containing your medication must remain unopened until you are ready to use it.
 It may not be fully effective if opened and not used within 8 hours.
 
-Can I reuse my dihydroergotamine mesylate nasal sprayer?
+Can I reuse my Dihydroergotamine Mesylate Nasal Spray?
 
 No. After completing the full dose, you must carefully dispose of your Dihydroergotamine Mesylate Nasal Spray and the opened vial.
 You should use a new unit for your next migraine attack.
 Each Unit contains a new Nasal Sprayer, and a vial of Dihydroergotamine Mesylate Nasal Spray medication.
 
-Can I use dihydroergotamine mesylate nasal spray if I have a stuffy nose, cold, or allergies?
+Can I use Dihydroergotamine Mesylate Nasal Spray if I have a stuffy nose, cold, or allergies?
 
 Yes.
 Dihydroergotamine Mesylate Nasal Spray can be used if you have a stuffy nose, cold, or allergies.
-However, if you are taking any medications for your cold, or allergies, even those you can buy without a doctor's prescription, speak with your doctor before using Dihydroergotamine Mesylate Nasal Spray.
+However, if you are taking any medications for your cold, or allergies, even those you can buy without a doctor’s prescription, speak with your doctor before using Dihydroergotamine Mesylate Nasal Spray.
 
 Do I need to sniff the medication when I spray it in my nostril?
 
 No, you should not sniff because Dihydroergotamine Mesylate Nasal Spray should remain in the nose so that it can be absorbed into the bloodstream through the lining of the nose.
-If you have any other unanswered questions about Dihydroergotamine Mesylate Nasal Spray, consult your doctor or pharmacist.
 
-*Trademark of PDR Network, LLC
+If you have any other unanswered questions about Dihydroergotamine Mesylate Nasal Spray, consult your doctor or pharmacist.

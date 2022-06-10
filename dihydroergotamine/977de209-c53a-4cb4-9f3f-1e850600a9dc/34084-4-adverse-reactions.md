@@ -3,9 +3,8 @@
 During clinical studies and the foreign postmarketing experience with Dihydroergotamine Mesylate Nasal Spray there have been no fatalities due to cardiac events.
 
 Serious cardiac events, including some that have been fatal, have occurred following use of the parenteral form of dihydroergotamine mesylate (D.H.E.
-45® Injection), but are extremely rare.
-Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation.
-(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
+45 Injection), but are extremely rare.
+Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
 
 Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (see WARNINGS: Fibrotic Complications).
 
@@ -22,9 +21,9 @@ Dihydroergotamine Mesylate Nasal Spray was generally well tolerated.
 In most instances these events were transient and self-limited and did not result in patient discontinuation from a study.
 The following table summarizes the incidence rates of adverse events reported by at least 1% of patients who received Dihydroergotamine Mesylate Nasal Spray for the treatment of migraine headaches during placebo-controlled, double-blind clinical studies and were more frequent than in those patients receiving placebo.
 
-Table 3: Adverse events reported by at least 1% of the Dihydroergotamine Mesylate Nasal Spray treated patients and occurred more frequently than in the placebo-group in the migraine placebo-controlled trials
+Table 3: Adverse Reactions Reported by at least 1% of the Dihydroergotamine Mesylate Nasal Spray Treated Patients and Occurred More Frequently than in the Placebo-Group in the Migraine Placebo-Controlled Trials
 
-|  | Dihydroergotamine Mesylate N=597 | Placebo N=631 |
+|  | Dihydroergotamine Mesylate Nasal Spray N=597 | Placebo N=631 |
 | --- | --- | --- |
 | Respiratory System |  |  |
 | Rhinitis | 26% | 7% |
@@ -91,7 +90,6 @@ Application Site: Infrequent: local anesthesia.
 Voluntary reports of adverse events temporally associated with dihydroergotamine products used in the management of migraine that have been received since the introduction of the injectable formulation are included in this section save for those already listed above.
 Because of their source (open and uncontrolled clinical use), whether or not events reported in association with the use of dihydroergotamine are causally related to it cannot be determined.
 There have been reports of pleural and retroperitoneal fibrosis in patients following prolonged daily use of injectable dihydroergotamine mesylate.
-Dihydroergotamine Mesylate Nasal Spray is not recommended for prolonged daily use.
-(See DOSAGE AND ADMINISTRATION)
+Dihydroergotamine Mesylate Nasal Spray is not recommended for prolonged daily use (see DOSAGE AND ADMINISTRATION).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Oceanside Pharmaceuticals at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
