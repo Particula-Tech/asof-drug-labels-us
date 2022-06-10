@@ -14,6 +14,13 @@ Before you use a FYLNETRA prefilled syringe, read this important information.
 
 Storing the prefilled syringe
 
+- Store FYLNETRA in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Do not freeze.
+- Keep the prefilled syringe in the original pack to protect from light or physical damage.
+- Take the prefilled syringe out of the refrigerator 30 minutes before use and allow it to reach room temperature before preparing an injection.
+- Throw away (dispose of) any FYLNETRA that has been at left at room temperature, 68°F to 77°F (20°C to 25°C), for more than 72 hours.
+- Keep the FYLNETRA prefilled syringe out of the reach of children.
+
 Using the prefilled syringe
 
 - It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
