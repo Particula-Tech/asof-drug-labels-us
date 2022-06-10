@@ -26,7 +26,7 @@ In 3 subjects, the CSF AUC(0-6 h) to plasma abacavir AUC(0-6 h) ratio ranged fro
 Binding of abacavir to human plasma proteins is approximately 50% and was independent of concentration.
 Total blood and plasma drug-related radioactivity concentrations are identical, demonstrating that abacavir readily distributes into erythrocytes.
 
-Elimination: In single dose trials, the observed elimination half life (t½) was 1.54 ± 0.63 hours.
+Elimination: In single-dose trials, the observed elimination half-life (t½) was 1.54 ± 0.63 hours.
 After intravenous administration, total clearance was 0.80 ± 0.24 L per hour per kg (mean ± SD).
 
 Metabolism: In humans, abacavir is not significantly metabolized by cytochrome P450 enzymes.
@@ -85,7 +85,7 @@ Ethanol: Abacavir has no effect on the pharmacokinetic properties of ethanol.
 Ethanol decreases the elimination of abacavir causing an increase in overall exposure.
 Due to the common metabolic pathways of abacavir and ethanol via alcohol dehydrogenase, the pharmacokinetic interaction between abacavir and ethanol was studied in 24 HIV‑1–infected male subjects.
 Each subject received the following treatments on separate occasions: a single 600‑mg dose of abacavir, 0.7 g per kg ethanol (equivalent to 5 alcoholic drinks), and abacavir 600 mg plus 0.7 g per kg ethanol.
-Coadministration of ethanol and abacavir resulted in a 41% increase in abacavir AUC and a 26% increase in abacavir t½.
+Coadministration of ethanol and abacavir resulted in a 41% increase in abacavir AUC∞ and a 26% increase in abacavir t½.
 Abacavir had no effect on the pharmacokinetic properties of ethanol, so no clinically significant interaction is expected in men.
 This interaction has not been studied in females.
 
