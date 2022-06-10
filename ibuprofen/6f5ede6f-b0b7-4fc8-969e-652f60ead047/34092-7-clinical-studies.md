@@ -13,8 +13,9 @@ As shown in Table 2, 25% of infants on NeoProfen required rescue therapy versus 
 Table 2.
 Summary of Efficacy Results, n (%)
 
-|  | NeoProfen N=68 | Placebo N=68 |
+|  | N=68 | N=68 |
 | --- | --- | --- |
+|  | NeoProfen | Placebo |
 | Required rescue through study day 14 |  |  |
 | Total | 17 (25) | 33 (48) |
 | By age at treatment |  |  |
