@@ -2,9 +2,9 @@
 
 ## 6.1 Clinical Trial Experience
 
-The most commonly reported (≥5% and ~ twice the rate of placebo) adverse reactions with alprazolam treatment are: sedation, impaired coordination, dysarthria, and increased libido.
+The most commonly reported (greater than or equal to 5% and ~ twice the rate of placebo) adverse reactions with alprazolam treatment are: sedation, impaired coordination, dysarthria, and increased libido.
 
-The data cited in the two tables below are estimates of adverse reactions occurring in patients who participated in clinical trials under the following conditions: relatively short duration (four weeks) placebo-controlled clinical studies with dosages up to 4 mg per day of (for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety) and short-term (up to ten weeks) placebo-controlled clinical studies with dosages up to 10 mg per day of in patients with panic disorder, with or without agoraphobia.
+The data cited in the two tables below are estimates of adverse reactions occurring in patients who participated in clinical trials under the following conditions: relatively short duration (four weeks) placebo-controlled clinical studies with dosages up to 4 mg of alprazolam per day of (for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety) and short-term (up to ten weeks) placebo-controlled clinical studies with dosages up to 10 mg of alprazolam per day of in patients with panic disorder, with or without agoraphobia.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -29,8 +29,8 @@ Table 1: Adverse Reactions Reported in Placebo-Controlled Trials of Alprazolam i
 | Hypotension | 5 | 2 |
 | Cutaneous |  |  |
 | Dermatitis/Allergy | 4 | 3 |
-| a) Events reported by 1% or more of alprazolam patients are included. |  |  |
-| b) None reported |  |  |
+
+aEvents reported by 1% or more of alprazolam patients are included.
 
 In addition to the relatively common (i.e., greater than 1%) adverse reactions described in the table above, the following adverse reactions have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
@@ -68,11 +68,12 @@ Table 2: Adverse Reactions Reported in Placebo-Controlled Trials of Alprazolam i
 | Menstrual Disorders | 10 | 9 |
 | Sexual Dysfunction | 7 | 4 |
 | Incontinence | 2 | 1 |
-| a) Events reported by 1% or more of alprazolam patients are included. |  |  |
+
+a Events reported by 1% or more of alprazolam patients are included.
 
 In addition to the relatively common (i.e., greater than 1%) adverse reactions described in the table above, the following adverse reactions have been reported in association with the use of alprazolam: seizures, hallucinations, depersonalization, taste alterations, diplopia, elevated bilirubin, elevated hepatic enzymes and jaundice.
 
-Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients [see Warnings and Precautions, (5.1)].
+Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients [see Warnings and Precautions, (5.4)].
 
 ## 6.2 Post Marketing Experience
 

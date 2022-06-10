@@ -13,10 +13,6 @@ The dose may be increased to achieve a maximum therapeutic effect, at intervals 
 Use the lowest possible effective dose, and periodically reassess the need for continued treatment.
 The risk of dependence can increase with dose and duration of treatment.
 
-The dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
-Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every 3 days.
-Some patients may require an even slower dosage reduction.
-
 ## 2.2 Panic Disorder
 
 The successful treatment of many panic disorder patients has required the use of alprazolam at doses greater than 4 mg daily.
@@ -45,31 +41,26 @@ Because of the danger of withdrawal, avoid abrupt discontinuation of treatment.
 The necessary duration of treatment for panic disorder patients responding to alprazolam is unknown.
 After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
 
-Dose Reduction
+## 2.3 Discontinuation or Dosage Reduction of Alprazolam Orally Disintegrating Tablets
 
-Because of the danger of withdrawal, abrupt discontinuation of treatment should be avoided [see WARNINGS AND PRECAUTIONS (5.3), Drug Abuse and Dependence (9.3)].
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Alprazolam orally disintegrating tablets or reduce the dosage.
+If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
+Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
 
-In all patients, dosage should be reduced gradually when discontinuing therapy or when decreasing the daily dosage.
-Although there are no systematically collected data to support a specific discontinuation schedule, it is suggested that the daily dosage be decreased by no more than 0.5 mg every three days.
-Some patients may require an even slower dosage reduction.
-
-In any case, reduction of dose must be undertaken under close supervision and must be gradual.
-If significant withdrawal symptoms develop, reinstitute the previous stable dosing schedule.
-After stabilization, consider using a less rapid schedule of discontinuation.
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, there was no difference between the groups in the proportion of patients who tapered and completely discontinued treatment with alprazolam; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 Reduce the dose by no more than 0.5 mg every 3 days.
 Some patients may benefit from an even more gradual discontinuation.
-Some patients may prove resistant to all discontinuation regimens.
+Some patients may prove resistant to all discontinuation regimens
 
-## 2.3 Dosing in Special Populations
+## 2.4 Dosing in Special Populations
 
 In elderly patients, in patients with advanced liver disease, or in patients with debilitating disease (e.g., severe pulmonary disease), the usual starting dose is 0.25 mg, given two or three times daily.
 This may be gradually increased if needed and tolerated.
 The elderly may be especially sensitive to the effects of benzodiazepines.
 If adverse reactions occur at the recommended starting dose, the dose may be lowered.
 
-## 2.4 Instructions to be Given to Patients for Use/Handling Alprazolam Orally Disintegrating Tablets, USP
+## 2.5 Instructions to be Given to Patients for Use/Handling Alprazolam Orally Disintegrating Tablets
 
 Just prior to administration, with dry hands, remove the tablet from the blister.
-Immediately place the Alprazolam Orally Disintegrating Tablet, USP on top of the tongue where it will disintegrate and be swallowed with saliva.
+Immediately place the Alprazolam Orally Disintegrating Tablet on top of the tongue where it will disintegrate and be swallowed with saliva.
 Administration with liquid is not necessary.

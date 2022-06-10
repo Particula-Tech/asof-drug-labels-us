@@ -10,7 +10,7 @@ Benzodiazepines can potentially cause fetal harm when administered to a pregnant
 The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
 If alprazolam is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 Because of experience with other members of the benzodiazepine class, alprazolam is assumed to be capable of causing an increased risk of congenital abnormalities when administered to a pregnant woman during the first trimester.
-Because use of these drugs is rarely a matter of urgency, their use during the first trimester should almost always be avoided [see Warnings and Precautions (5.4)].
+Because use of these drugs is rarely a matter of urgency, their use during the first trimester should almost always be avoided [see Warnings and Precautions (5.6)].
 
 Nonteratogenic Effects: It should be considered that the child born of a mother who is receiving benzodiazepines may be at some risk for withdrawal symptoms from the drug during the postnatal period.
 Also, neonatal flaccidity and respiratory problems have been reported in children born of mothers who have been receiving benzodiazepines.

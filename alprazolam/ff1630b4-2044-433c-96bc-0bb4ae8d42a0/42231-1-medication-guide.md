@@ -1,23 +1,45 @@
 # MEDICATION GUIDE
 
-Alprazolam (al-PRAE-zoe-lam) Orally Disintegrating Tablet (ODT), C-IV
+Alprazolam (al-PRAE-zoe-lam)
+
+Orally Disintegrating Tablet (ODT), C-IV
 
 What is the most important information I should know about alprazolam ODT?
 
-- Alprazolam ODT is a benzodiazepine medicine.
-  Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death.
-- Alprazolam ODT can make you sleepy or dizzy, and can slow your thinking and motor skills.
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how alprazolam ODT affects you.
-- Do not drink alcohol or take other drugs that may make you sleepy or dizzy while taking alprazolam ODT without first talking to your healthcare provider.
-  When taken with alcohol or drugs that cause sleepiness or dizziness, alprazolam ODT may make your sleepiness or dizziness much worse.
-- Do not take more alprazolam ODT than prescribed.
+- Alprazolam ODT is a benzodiazepine medicine.Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma and death.
+  Get emergency help right away if any of the following happens: Do not drive or operate heavy machinery until you know how taking alprazolam ODT with opioids affects you.
+  - shallow or slowed breathing
+  - breathing stops (which may lead to the heart stopping)
+  - excessive sleepiness (sedation)
+- Risk of abuse, misuse, and addiction.
+  There is a risk of abuse, misuse, and addiction with benzodiazepines, including alprazolam ODT which can lead to overdose serious side effects including coma and death.
+  - Serious side effects including coma and death have happened in people who have abused or misused benzodiazepines, including Alprazolam ODT.
+    These serious side effects may also include delirium, paranoia, suicidal thoughts or actions, seizures, and difficulty breathing.
+    Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these serious side effects.
+  - You can develop an addiction even if you take Alprazolam ODT exactly as prescribed by your healthcare provider.
+  - Take Alprazolam ODT exactly as your healthcare provider prescribed.
+  - Do not share your Alprazolam ODT with other people.
+  - Keep Alprazolam ODT in a safe place and away from children.
+
+- Physical dependence and withdrawal reactions.
+  Alprazolam ODT can cause physical dependence and withdrawal reactions, especially if you continue to take Alprazolam ODT for several days to several weeks.
+
+- Do not suddenly stop taking Alprazolam ODT.
+  Stopping Alprazolam ODT suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
+  Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms.
+
+- Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs or feet, and ringing in your ears.
+
+- Physical dependence is not the same as drug addiction.
+  Your healthcare provider can tell you more about the differences between physical dependence and drug addiction.
+- Do not take more Alprazolam ODT than prescribed or take Alprazolam ODT for longer than prescribed.
 
 What is Alprazolam ODT?
 
 - Alprazolam ODT is a prescription medicines used to treat:
 - generalized anxiety disorder
 - panic disorder with or without fear of places and situations that might cause panic, helplessness, or embarrassment (agoraphobia)
-- Alprazolam ODT is a federal controlled substance (C-IV) because it can be abused or lead to dependence.
+- Alprazolam ODT is a federal controlled substance (C-IV) because it contains alprazolam that can be abused or lead to dependence.
   Keep alprazolam ODT in a safe place to prevent misuse and abuse.
   Selling or giving away alprazolam ODT may harm others, and is against the law.
   Tell your healthcare provider if you have abused or been dependent on alcohol, prescription medicines or street drugs.
@@ -38,7 +60,7 @@ Before you take alprazolam ODT, tell your healthcare provider about all your med
   Alprazolam ODT may harm your unborn baby.
   You and your healthcare provider should decide if you should take alprazolam ODT while you are pregnant.
 - are breastfeeding or plan to breastfeed.
-  Alprazolam ODT passes into your breast milk and may harm your baby.
+  Alprazolam passes into your breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take alprazolam ODT.
   You should not breastfeed while taking alprazolam ODT.
 
@@ -56,32 +78,23 @@ How should I take alprazolam ODT?
   The tablet may also be taken with water.
 - If you take too much alprazolam ODT, call your healthcare provider or go to the nearest hospital emergency room right away.
 
-What should I avoid while taking alprazolam ODT?
-
-- Alprazolam ODT can cause you to be drowsy.
-  Do not drive a car or operate heavy machinery until you know how alprazolam ODT affects you.
-- You should not drink alcohol while taking alprazolam ODT.
-  Drinking alcohol can increase your chances of having serious side effects.
-
 What are the possible side effects of alprazolam ODT?
 
-alprazolam ODT may cause serious side effects, including:
+Alprazolam ODT may cause serious side effects, including:
 
 See “What is the most important information I should know about alprazolam ODT?”
 
-- Abuse and dependence.
-  Taking alprazolam ODT can cause physical and psychological dependence.
-  Physical and psychological dependence is not the same as drug addiction.
-  Your healthcare provider can tell you more about the differences between physical and psychological dependence and drug addiction.
-- Withdrawal symptoms.
-  You may have withdrawal symptoms if you stop taking alprazolam ODT suddenly.
-  Withdrawal symptoms can be serious and include seizures.
-  Mild withdrawal symptoms include a depressed mood and trouble sleeping.
-  Talk to your healthcare provider about slowly stopping alprazolam ODT to avoid withdrawal symptoms.
 - Seizures.
   Stopping alprazolam ODT can cause seizures and seizures that will not stop (status epilepticus).
 - Mania.
   Alprazolam ODT may cause an increase in activity and talking (hypomania and mania) in people who have depression.
+
+- Alprazolam ODT can make you sleepy or dizzy and can slow your thinking and motor skills.
+
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how Alprazolam ODT affects you.
+
+- Do not drink alcohol or take other medicines that may make you sleepy or dizzy while taking Alprazolam ODT without first talking to your healthcare provider.
+  When taken with alcohol or other medicines that cause sleepiness or dizziness, Alprazolam ODT may make your sleepiness or dizziness much worse.
 
 The most common side effects of alprazolam ODT include:
 
@@ -109,10 +122,11 @@ Do not use alprazolam ODT for a condition for which it was not prescribed.
 Do not give alprazolam ODT to other people, even if they have the same symptoms that you have.
 It may harm them.
 You can ask your pharmacist or healthcare provider for information about alprazolam ODT that is written for health professionals.
+For more information call 1-800-828-9393.
 
 What are the ingredients in alprazolam ODT?
 
-Active ingredients: alprazolam
+Active ingredients: alprazolam, USP
 
 Inactive ingredients: aspartame, crospovidone, basic butylated methacrylate copolymer, magnesium stearate, mannitol, silicon dioxide, sorbitol, talc, xylitol, natural peppermint flavor, artificial vanillin flavor.
 
@@ -122,8 +136,6 @@ PAR PHARMACEUTICAL
 
 Chestnut Ridge, NY 10977
 
-For more information call 1-800-828-9393.
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Revised: 09/2016
+Revised:02/2021

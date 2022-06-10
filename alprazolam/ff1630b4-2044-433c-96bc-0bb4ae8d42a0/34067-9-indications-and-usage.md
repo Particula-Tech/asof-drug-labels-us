@@ -2,14 +2,14 @@
 
 ## 1.1 Generalized Anxiety Disorders
 
-Alprazolam Orally Disintegrating Tablets, USP is indicated for the treatment of generalized anxiety disorder.
+Alprazolam Orally Disintegrating Tablets is indicated for the treatment of generalized anxiety disorder.
 
 The efficacy of alprazolam in the treatment of generalized anxiety disorder was demonstrated in 5 short-term, placebo-controlled trials.
 [see Clinical Studies (14.1)]
 
 ## 1.2 Panic Disorder
 
-Alprazolam is also indicated for the treatment of panic disorder, with or without agoraphobia.
+Alprazolam orally disintegrating tablets is also indicated for the treatment of panic disorder, with or without agoraphobia.
 
 The efficacy of alprazolam in the treatment of panic disorder was established in 2 short-term, placebo-controlled trials.
 [see Clinical Studies (14.2)].
