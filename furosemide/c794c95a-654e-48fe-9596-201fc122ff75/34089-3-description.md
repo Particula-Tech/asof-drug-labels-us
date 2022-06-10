@@ -9,4 +9,4 @@ The structural formula is as follows:
 
 Furosemide Injection, USP is a sterile, nonpyrogenic solution of furosemide in Water for Injection prepared with the aid of sodium hydroxide for intramuscular (IM) or intravenous (IV) use.
 
-Each mL contains: Furosemide 10 mg; Water for Injection q.s.; sodium chloride to adjust isotonicity; sodium hydroxide and if necessary hydrochloric acid to adjust pH between 8.0 and 9.3.
+Each mL contains: Furosemide 10 mg; sodium hydroxide 1.6 mg; Water for Injection q.s.; sodium chloride to adjust isotonicity; hydrochloric acid (q.s.) and/or sodium hydroxide (q.s.) to adjust pH between 8.0 and 9.3 if necessary.

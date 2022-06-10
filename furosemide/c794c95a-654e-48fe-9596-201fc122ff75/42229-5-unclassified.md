@@ -5,8 +5,8 @@ WARNING
 Furosemide is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion.
 Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient’s needs (see DOSAGE AND ADMINISTRATION).
 
-Lake Zurich, IL 60047 www.fresenius-kabi.us
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us
 
-45788F
+45788G
 
-Revised: March 2016
+Revised: March 2022

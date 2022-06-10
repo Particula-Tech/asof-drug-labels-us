@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Adverse reactions are categorized below by organ system and listed by decreasing severity.
 
 ## Gastrointestinal System Reactions
@@ -48,7 +50,7 @@ Adverse reactions are categorized below by organ system and listed by decreasing
 1. Toxic epidermal necrolysis
 2. Stevens-Johnson Syndrome
 3. Erythema multiforme
-4. Drug rash with eosinophila and systemic symptoms
+4. Drug rash with eosinophilia and systemic symptoms
 5. Acute generalized exanthematous pustulosis
 6. Exfoliative dermatitis
 7. Bullous pemphigoid
