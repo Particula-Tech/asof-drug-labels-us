@@ -4,7 +4,7 @@ NOT FOR OPHTHALMIC, DERMAL, OR ORAL USE
 
 Rx only
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.greenstonellc.com.
 
-LAB-0049-15.0 Revised March 2020
+LAB-0049-16.0 Revised October 2021
