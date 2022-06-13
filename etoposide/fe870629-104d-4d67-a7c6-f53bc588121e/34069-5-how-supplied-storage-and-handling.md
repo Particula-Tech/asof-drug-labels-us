@@ -2,11 +2,12 @@
 
 Etoposide Injection, USP is supplied as follows:
 
-| Product No. | NDC No. | Strength |  |
+| Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 100405 | 63323-104-05 | 100 mg per 5 mL (20 mg per mL) | 5 mL sterile, multiple dose vial, individually packaged in carton of 10. |
-| 100425 | 63323-104-25 | 500 mg per 25 mL (20 mg per mL) | 25 mL sterile, multiple dose vial, individually packaged. |
-| 100450 | 63323-104-50 | 1 gram per 50 mL (20 mg per mL) | 50 mL sterile, multiple dose vial, individually packaged. |
+| 100405 | NDC 63323-104-05 Unit of 10 | 100 mg per 5 mL (20 mg per mL) | NDC 63323-104-05 5 mL Multiple Dose Vial |
+| 100425 | NDC 63323-104-25 Individually packaged | 500 mg per 25 mL (20 mg per mL) | NDC 63323-104-25 25 mL Multiple Dose Vial |
+| 100450 | NDC 63323-104-50 Individually packaged | 1 gram per 50 mL (20 mg per mL) | NDC 63323-104-50 50 mL Multiple Dose Vial |
+| 104405 | NDC 63323-104-06 Individually packaged | 100 mg per 5 mL (20 mg per mL) | NDC 63323-104-06 5 mL Multiple Dose Vial |
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 

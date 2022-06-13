@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS:
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 The following data on adverse reactions are based on both oral and intravenous administration of etoposide as a single agent, using several different dose schedules for treatment of a wide variety of malignancies.
 
 ## Hematologic Toxicity
