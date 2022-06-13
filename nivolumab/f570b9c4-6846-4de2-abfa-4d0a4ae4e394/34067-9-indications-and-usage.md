@@ -68,6 +68,8 @@ Continued approval for this indication may be contingent upon verification and d
 ## 1.12 Esophageal Cancer
 
 - •OPDIVO is indicated for the adjuvant treatment of completely resected esophageal or gastroesophageal junction cancer with residual pathologic disease in adult patients who have received neoadjuvant chemoradiotherapy (CRT).
+- •OPDIVO, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC).
+- •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC).
 - •OPDIVO is indicated for the treatment of adult patients with unresectable advanced, recurrent or metastatic esophageal squamous cell carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy.
 
 ## 1.13 Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma

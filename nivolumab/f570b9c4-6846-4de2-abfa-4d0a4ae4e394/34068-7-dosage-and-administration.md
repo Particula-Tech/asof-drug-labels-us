@@ -51,6 +51,9 @@ Table 2: Recommended Dosages of OPDIVO in Combination with Other Therapeutic Age
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks* |  |  |  |  |  |
 | Hepatocellular carcinoma | 1 mg/kg every 3 weeks*with ipilimumab 3 mg/kg intravenously* | In combination with ipilimumab for 4 doses |  |  |  |
 | 240 mg every 2 weeks*or480 mg every 4 weeks* | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |  |  |  |
+| Esophageal squamous cell carcinoma | 240 mg every 2 weeks*or480 mg every 4 weeks*Administer OPDIVO in combination with fluoropyrimidine- and platinum-containing chemotherapy | OPDIVO: Until disease progression, unacceptable toxicity, or up to 2 years |  |  |  |
+| Chemotherapy: Until disease progression or unacceptable toxicity |  |  |  |  |  |
+| 3 mg/kg every 2 weeks*or360 mg every 3 weeks*with ipilimumab 1 mg/kg every 6 weeks* | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years |  |  |  |  |
 | Gastric cancer, Gastroesophageal junction cancer, and Esophageal adenocarcinoma | 240 mg every 2 weeks*with fluoropyrimidine- and platinum-containing chemotherapy every 2 weeksor360 mg every 3 weeks*with fluoropyrimidine- and platinum-containing chemotherapy every 3 weeks | Until disease progression, unacceptable toxicity, or up to 2 years |  |  |  |
 | * 30-minute intravenous infusion on the same day. |  |  |  |  |  |
 
@@ -115,7 +118,7 @@ Do not shake.
 
 - •Withdraw the required volume of OPDIVO and transfer into an intravenous container.
 - •Dilute OPDIVO with either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP to prepare an infusion with a final concentration ranging from 1 mg/mL to 10 mg/mL.
-  The total volume of infusion must not exceed 160 mL. • For adult and pediatric patients with body weight ≥40 kg, do not exceed a total volume of infusion of 160 mL. • For adult and pediatric patients with body weight <40 kg, do not exceed a total volume of infusion of 4 mL/kg of body weight.
+  The total volume of infusion must not exceed 160 mL. • For adult and pediatric patients with body weight 40 kg or greater, do not exceed a total volume of infusion of 160 mL. • For adult and pediatric patients with body weight less than 40 kg, do not exceed a total volume of infusion of 4 mL/kg of body weight.
 - •Mix diluted solution by gentle inversion.
   Do not shake.
 - •Discard partially used vials or empty vials of OPDIVO.
@@ -128,7 +131,7 @@ Do not shake.
 
 ### Administration
 
-- •Administer the infusion over 30 minutes through an intravenous line containing a sterile, non-pyrogenic, low protein binding in-line filter (pore size of 0.2 micrometer to 1.2 micrometer).
+- •Administer the infusion, after dilution, over 30 minutes through an intravenous line containing a sterile, non-pyrogenic, low protein binding in-line filter (pore size of 0.2 micrometer to 1.2 micrometer).
 - •Administer OPDIVO in combination with other therapeutic agents as follows:
   - oWith ipilimumab: administer OPDIVO first followed by ipilimumab on the same day.
   - oWith platinum-doublet chemotherapy: administer OPDIVO first followed by platinum-doublet chemotherapy on the same day
