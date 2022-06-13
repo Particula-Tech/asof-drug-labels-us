@@ -46,7 +46,7 @@ Oral administration of labetalol to rats during late gestation through weaning a
 
 Risk Summary
 
-Available published data report the presence oflabetalol in human milk at low levels.
+Available published data report the presence of labetalol in human milk at low levels.
 There are no data on the effects on the breastfed infant and on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for labetalol and any potential adverse effects on the breastfed infant from labetalol or from the underlying maternal condition.
 

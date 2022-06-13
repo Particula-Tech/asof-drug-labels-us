@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Labetalol HCl in Sodium Chloride Injection and Labetalol HCl in Dextrose Injection are contraindicated in patients with:
+Labetalol Hydrochloride Injection is contraindicated in patients with:
 
 - Bronchial asthma or obstructive airway disease.
 - Severe sinus bradycardia:

@@ -11,9 +11,9 @@ During controlled hypotensive anesthesia using labetalol in association with hal
 
 ## 7.3 Nitroglycerin
 
-Coadministration of labetalol HCl and nitroglycerine will have an additive effect in lowering blood pressure.
+Coadministration of labetalol HCl and nitroglycerin will have an additive effect in lowering blood pressure.
 Additionally, labetalol HCl blunts the reflex tachycardia produced by nitroglycerin.
-If labetalol is used in patients with angina pectoris on nitroglycerine, monitor patients’ blood pressure and adjust labetalol HCl injection dose as needed.
+If labetalol is used in patients with angina pectoris on nitroglycerin, monitor patients’ blood pressure and adjust labetalol HCl injection dose as needed.
 In these patients, avoid initiating labetalol HCl tablets.
 
 ## 7.4 Calcium Channel Blockers

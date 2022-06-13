@@ -4,8 +4,7 @@
 
 Labetalol has both competitive alpha1-adrenergic blocking and competitive beta-adrenergic blocking activity.
 In man, the ratio of alpha- to beta-blockade has been estimated to be approximately 1:7 following intravenous administration.
-Beta2-agonist activity has been demonstrated in animals with minimal beta1-agonist (ISA) activity detected.
-In animals, at doses greater than those required for alpha- or beta-adrenergic blockade, a membrane stabilizing effect has been demonstrated.
+Beta2-agonist activity has been demonstrated in animals with minimal beta1-agonist activity detected.
 
 ## 12.2 Pharmacodynamics
 
