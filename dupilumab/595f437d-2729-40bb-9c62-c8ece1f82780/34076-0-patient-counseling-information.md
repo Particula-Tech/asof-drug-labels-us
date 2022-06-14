@@ -10,7 +10,7 @@ Encourage participation and advise patients about how they may enroll in the reg
 Administration Instructions
 
 Provide proper training to patients and/or caregivers on proper subcutaneous injection technique, including aseptic technique, and the preparation and administration of DUPIXENT prior to use.
-Advise patients to follow sharps disposal recommendations [see Instructions for Use].
+Advise patients to follow sharps disposal recommendations [see Dosage and Administration (2.1) and Instructions for Use].
 
 Hypersensitivity
 

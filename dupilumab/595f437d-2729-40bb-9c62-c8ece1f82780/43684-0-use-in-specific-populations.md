@@ -46,17 +46,21 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Atopic Dermatitis
 
-The safety and effectiveness of DUPIXENT have been established in pediatric patients 6 years of age and older with moderate-to-severe atopic dermatitis.
+The safety and effectiveness of DUPIXENT have been established in pediatric patients 6 months of age and older with moderate-to-severe atopic dermatitis [see Clinical Studies (14.1)].
 
-Use of DUPIXENT in this age group is supported by AD-1526 which included 251 pediatric subjects 12 to 17 years of age with moderate-to-severe atopic dermatitis and AD-1652 which included 367 pediatric subjects 6 to 11 years of age with severe atopic dermatitis.
+Use of DUPIXENT in this age group is supported by data from the following clinical trials:
+
+- AD-1526 which included 251 pediatric subjects 12 to 17 years of age with moderate-to-severe atopic dermatitis treated with DUPIXENT
+- AD-1652 which included 367 pediatric subjects 6 to 11 years of age with severe atopic dermatitis treated with DUPIXENT + TCS
+- AD-1539 which included 161 pediatric subjects 6 months to 5 years of age with moderate-to-severe atopic dermatitis treated with DUPIXENT + TCS
+- AD-1434, an open-label extension study that enrolled 275 pediatric subjects 12 to 17 years of age treated with DUPIXENT, 368 pediatric subjects 6 to 11 years of age treated with DUPIXENT ± TCS, and 180 pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS
+
 The safety and effectiveness were generally consistent between pediatric and adult patients [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+In addition, hand-foot-and-mouth disease was reported in 9 (5%) pediatric subjects and skin papilloma was reported in 4 (2%) pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS in AD-1434.
+These cases did not lead to study drug discontinuation.
+[see Adverse Reactions (6.1)].
 
-Use is also supported by AD-1434, an open-label extension study that enrolled subjects who completed AD-1526 and AD-1652.
-AD-1434 included 136 pediatric subjects 12 to 17 years of age from AD-1526 and 110 pediatric subjects 6 to 11 years of age from AD-1652 with moderate atopic dermatitis at enrollment into the extension study.
-AD-1434 included 64 pediatric subjects 12 to 17 years of age from AD-1526 and 72 pediatric subjects 6 to 11 years of age from AD-1652 with severe atopic dermatitis at enrollment.
-No new safety signals were identified in AD-1434 [see Adverse Reactions (6.1)].
-
-Safety and effectiveness in pediatric patients younger than 6 years of age with atopic dermatitis have not been established.
+Safety and effectiveness in pediatric patients younger than 6 months of age with atopic dermatitis have not been established.
 
 Asthma
 

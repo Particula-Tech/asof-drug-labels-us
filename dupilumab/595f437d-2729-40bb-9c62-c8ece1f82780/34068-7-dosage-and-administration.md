@@ -11,12 +11,12 @@ Use of Pre-filled Pen or Pre-filled Syringe
 
 The DUPIXENT pre-filled pen is for use in adult and pediatric patients aged 12 years and older.
 
-The DUPIXENT pre-filled syringe is for use in adult and pediatric patients aged 6 years and older.
+The DUPIXENT pre-filled syringe is for use in adult and pediatric patients aged 6 months and older.
 
 A caregiver or patient 12 years of age and older may inject DUPIXENT using the pre-filled syringe or pre-filled pen.
 In pediatric patients 12 to 17 years of age, administer DUPIXENT under the supervision of an adult.
 
-In pediatric patients 6 to 11 years of age, administer DUPIXENT pre-filled syringe by a caregiver.
+In pediatric patients 6 months to 11 years of age, administer DUPIXENT pre-filled syringe by a caregiver.
 
 Administration Instructions
 
@@ -42,13 +42,24 @@ Dosage in Adults
 
 The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every other week (Q2W).
 
-Dosage in Pediatric Patients 6 to 17 Years of Age
+Dosage in Pediatric Patients 6 Months to 5 Years of Age
 
-The recommended dosage of DUPIXENT for pediatric patients 6 to 17 years of age is specified in Table 1.
+The recommended dosage of DUPIXENT for pediatric patients 6 months to 5 years of age is specified in Table 1.
 
-Table 1: Dosage of DUPIXENT in Pediatric Patients 6 to 17 Years of Age with Atopic Dermatitis
+Table 1: Dosage of DUPIXENT in Pediatric Patients 6 Months to 5 Years of Age with Atopic Dermatitis
 
-| Body Weight | Initial Loading Dose | Subsequent Doses |
+| Body Weight | InitialFor pediatric patients 6 months to 5 years of age with atopic dermatitis, no initial loading dose is recommended. and Subsequent Dosage |
+| --- | --- |
+| 5 to less than 15 kg | 200 mg (one 200 mg injection) every 4 weeks (Q4W) |
+| 15 to less than 30 kg | 300 mg (one 300 mg injection) every 4 weeks (Q4W) |
+
+Dosage in Pediatric Patients 6 Years to 17 Years of Age
+
+The recommended dosage of DUPIXENT for pediatric patients 6 years to 17 years of age is specified in Table 2.
+
+Table 2: Dosage of DUPIXENT in Pediatric Patients 6 Years to 17 Years of Age with Atopic Dermatitis
+
+| Body Weight | Initial Loading Dose | Subsequent Dosage |
 | --- | --- | --- |
 | 15 to less than 30 kg | 600 mg (two 300 mg injections) | 300 mg every 4 weeks (Q4W) |
 | 30 to less than 60 kg | 400 mg (two 200 mg injections) | 200 mg every other week (Q2W) |
@@ -63,11 +74,11 @@ Topical calcineurin inhibitors may be used, but should be reserved for problem a
 
 Dosage in Adult and Pediatric Patients 12 Years and Older
 
-The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older is specified in Table 2.
+The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older is specified in Table 3.
 
-Table 2: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older with Asthma
+Table 3: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older with Asthma
 
-| Initial Loading Dose | Subsequent Dose |
+| Initial Loading Dose | Subsequent Dosage |
 | --- | --- |
 | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
 | or |  |
@@ -77,16 +88,16 @@ Table 2: Dosage of DUPIXENT in Adult and Pediatric Patients 12 Years and Older w
 
 Dosage in Pediatric Patients 6 to 11 Years of Age
 
-The recommended dosage of DUPIXENT for pediatric patients 6 to 11 years of age is specified in Table 3.
+The recommended dosage of DUPIXENT for pediatric patients 6 to 11 years of age is specified in Table 4.
 
-Table 3: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asthma
+Table 4: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asthma
 
-| Body Weight | InitialFor pediatric patients 6 to 11 years of age with asthma, no initial loading dose is recommended. and Subsequent Doses |
+| Body Weight | InitialFor pediatric patients 6 to 11 years of age with asthma, no initial loading dose is recommended. and Subsequent Dosage |
 | --- | --- |
 | 15 to less than 30 kg | 100 mg every other week (Q2W) or 300 mg every four weeks (Q4W) |
 | ≥30 kg | 200 mg every other week (Q2W) |
 
-For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe atopic dermatitis, follow the recommended dosage as per Table 1 which includes an initial loading dose [see Dosage and Administration (2.3)].
+For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe atopic dermatitis, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
 
 ## 2.5 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyposis
 

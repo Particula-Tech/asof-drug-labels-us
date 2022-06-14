@@ -49,7 +49,8 @@ Elimination
 
 The metabolic pathway of dupilumab has not been characterized.
 As a human monoclonal IgG4 antibody, dupilumab is expected to be degraded into small peptides and amino acids via catabolic pathways in the same manner as endogenous IgG.
-After the last steady-state dose of 300 mg Q2W, 300 mg QW, or 200 mg Q2W dupilumab, the median times to non-detectable concentration (<78 ng/mL) are 10-12, 13, and 9 weeks, respectively.
+After the last steady-state dose of 300 mg QW, 300 mg Q2W, 200 mg Q2W, 300 mg Q4W, or 200 mg Q4W dupilumab, the median times to non-detectable concentration (<78 ng/mL) ranged from 9 to 13 weeks in adults and pediatric subjects 12 to 17 years of age.
+Population pharmacokinetic analyses indicate the median times to non-detectable concentration are approximately 1.5 times (up to 19 weeks) and 2.5 times (up to 32 weeks) longer in pediatric subjects 6 to 11 years of age and pediatric subjects 6 months to 5 years of age, respectively.
 
 Dose Linearity
 
@@ -62,7 +63,8 @@ Dupilumab trough concentrations were lower in subjects with higher body weight.
 
 Age
 
-Based on population pharmacokinetic analysis, age did not affect dupilumab clearance.
+Based on population pharmacokinetic analysis, age did not affect dupilumab clearance in adults and in pediatric subjects 6 to 17 years of age.
+In pediatric subjects 6 months to 5 years of age, clearance increased with age.
 
 Immunogenicity
 
@@ -82,6 +84,8 @@ Atopic Dermatitis
 For pediatric subjects 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
 For pediatric subjects 6 to 11 years of age with atopic dermatitis receiving every other week dosing (Q2W) with 200 mg (≥30 kg) or every four week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
+
+For pediatric subjects 6 months to 5 years of age with atopic dermatitis receiving every four week dosing (Q4W) with 300 mg (≥15 to <30 kg) or 200 mg (≥5 to <15 kg), the mean ± SD steady-state trough concentration was 110±42.8 mcg/mL and 109±50.8 mcg/mL, respectively.
 
 Asthma
 

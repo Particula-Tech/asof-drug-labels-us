@@ -19,9 +19,9 @@ Other endpoints included the proportion of subjects with EASI-75 (improvement of
 
 Clinical Response at Week 16 (SOLO 1, SOLO 2, and CHRONOS)
 
-The results of the DUPIXENT monotherapy trials (SOLO 1 and SOLO 2) and the DUPIXENT with concomitant TCS trial (CHRONOS) are presented in Table 8.
+The results of the DUPIXENT monotherapy trials (SOLO 1 and SOLO 2) and the DUPIXENT with concomitant TCS trial (CHRONOS) are presented in Table 9.
 
-Table 8: Efficacy Results of DUPIXENT with or without Concomitant TCS at Week 16 (FAS) in Adult Subjects 18 Years of Age and Older with Moderate-to-Severe AD
+Table 9: Efficacy Results of DUPIXENT with or without Concomitant TCS at Week 16 (FAS) in Adult Subjects 18 Years of Age and Older with Moderate-to-Severe AD
 
 |  | DUPIXENT 300 mg Q2W | Placebo | DUPIXENT 300 mg Q2W | Placebo | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -39,9 +39,9 @@ Table 8: Efficacy Results of DUPIXENT with or without Concomitant TCS at Week 16
 
 In CHRONOS, of the 421 subjects, 353 had been on study for 52 weeks at the time of data analysis.
 Of these 353 subjects, responders at Week 52 represent a mixture of subjects who maintained their efficacy from Week 16 (e.g., 53% of DUPIXENT IGA 0 or 1 responders at Week 16 remained responders at Week 52) and subjects who were non-responders at Week 16 who later responded to treatment (e.g., 24% of DUPIXENT IGA 0 or 1 non-responders at Week 16 became responders at Week 52).
-Results of supportive analyses of the 353 subjects in the DUPIXENT with concomitant TCS trial (CHRONOS) are presented in Table 9.
+Results of supportive analyses of the 353 subjects in the DUPIXENT with concomitant TCS trial (CHRONOS) are presented in Table 10.
 
-Table 9: Efficacy Results (IGA 0 or 1) of DUPIXENT with Concomitant TCS at Week 16 and 52 in Adult Subjects 18 Years of Age and Older with Moderate-to-Severe AD
+Table 10: Efficacy Results (IGA 0 or 1) of DUPIXENT with Concomitant TCS at Week 16 and 52 in Adult Subjects 18 Years of Age and Older with Moderate-to-Severe AD
 
 |  | DUPIXENT 300 mg Q2W + TCS | Placebo + TCS |
 | --- | --- | --- |
@@ -79,9 +79,9 @@ Overall, 92% of subjects had at least one co-morbid allergic condition; 66% had 
 The primary endpoint was the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) and at least a 2-point improvement from baseline to Week 16.
 Other evaluated outcomes included the proportion of subjects with EASI-75 or EASI-90 (improvement of at least 75% or 90% in EASI from baseline, respectively), and reduction in itch as measured by the Peak Pruritus NRS (≥4-point improvement).
 
-The efficacy results at Week 16 for AD-1526 are presented in Table 10.
+The efficacy results at Week 16 for AD-1526 are presented in Table 11.
 
-Table 10: Efficacy Results of DUPIXENT in AD-1526 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized. in Pediatric Subjects 12 to 17 Years of Age with Moderate-to-Severe AD
+Table 11: Efficacy Results of DUPIXENT in AD-1526 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized. in Pediatric Subjects 12 to 17 Years of Age with Moderate-to-Severe AD
 
 |  | DUPIXENTAt Week 0, subjects received 400 mg (baseline weight <60 kg) or 600 mg (baseline weight ≥60 kg) of DUPIXENT. 200 mg (<60 kg) or 300 mg (≥60 kg) Q2W N=82 | Placebo N=85 |
 | --- | --- | --- |
@@ -115,9 +115,9 @@ Overall, 92% of subjects had at least one co-morbid allergic condition; 64% had 
 The primary endpoint was the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) at Week 16.
 Other evaluated outcomes included the proportion of subjects with EASI-75 or EASI-90 (improvement of at least 75% or 90% in EASI from baseline, respectively), and reduction in itch as measured by the Peak Pruritus NRS (≥4-point improvement).
 
-Table 11 presents the results by baseline weight strata for the approved dose regimens.
+Table 12 presents the results by baseline weight strata for the approved dose regimens.
 
-Table 11: Efficacy Results of DUPIXENT with Concomitant TCS in AD-1652 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized. in Pediatric Subjects 6 to 11 Years of Age with AD
+Table 12: Efficacy Results of DUPIXENT with Concomitant TCS in AD-1652 at Week 16 (FAS)Full Analysis Set (FAS) includes all subjects randomized. in Pediatric Subjects 6 to 11 Years of Age with AD
 
 | <30 kg | <30 kg | ≥30 kg | ≥30 kg |  |
 | --- | --- | --- | --- | --- |
@@ -133,6 +133,37 @@ See Figure 3.
 
 | Figure 3: Proportion of Pediatric Subjects 6 to 11 Years of Age with AD with ≥4-point Improvement on the Peak Pruritus NRS at Week 16 in AD-1652In the primary analyses of the efficacy endpoints, subjects who received rescue treatment or with missing data were considered non-responders. (FAS)Full Analysis Set (FAS) includes all subjects randomized. |
 | --- |
+
+Pediatric Subjects 6 Months to 5 Years of Age with Atopic Dermatitis
+
+The efficacy and safety of DUPIXENT use concomitantly with TCS in pediatric subjects was evaluated in a multicenter, randomized, double-blind, placebo-controlled trial (AD-1539; NCT03346434) in 162 subjects 6 months to 5 years of age, with moderate-to-severe AD defined by an IGA score ≥3 (scale of 0 to 4), an EASI score ≥16 (scale of 0 to 72), and a minimum BSA involvement of ≥10%.
+Eligible subjects enrolled into this trial had previous inadequate response to topical medication.
+Enrollment was stratified by baseline weight (≥5 to <15 kg and ≥15 to <30 kg).,
+
+Subjects in the DUPIXENT Q4W + TCS group with baseline weight of ≥5 to <15 kg received an initial dose of 200 mg on Day 1, followed by 200 mg Q4W from Week 4 to Week 12, and subjects with baseline weight of ≥15 to <30 kg received an initial dose of 300 mg on Day 1, followed by 300 mg Q4W from Week 4 to Week 12.
+Subjects were permitted to receive rescue treatment at the discretion of the investigator.
+Subjects who received rescue treatment were considered non-responders.
+
+In AD-1539, the mean age was 3.8 years, the median weight was 16.5 kg, 39% of subjects were female, 69% were White, 19% were Black, and 6% were Asian.
+At baseline, the mean BSA involvement was 58%, and 29% of subjects had received prior systemic immunosuppressants.
+Also, at baseline the mean EASI score was 34.1, and the weekly average of daily worst scratch/itch score was 7.6 on a scale of 0-10.
+Overall, 81.4% of subjects had at least one co-morbid allergic condition; 68.3% had food allergies, 52.8% had other allergies, 44.1% had allergic rhinitis, and 25.5% had asthma.
+
+The primary endpoint was the proportion of subjects with an IGA 0 (clear) or 1 (almost clear) at Week 16.
+Other evaluated outcomes included the proportion of subjects with EASI-75 or EASI-90 (improvement of at least 75% or 90% in EASI from baseline, respectively), and reduction in itch as measured by the Worst Scratch/Itch NRS (≥4-point improvement).
+
+The efficacy results at Week 16 for AD-1539 are presented in Table 13.
+
+Table 13: Efficacy Results of DUPIXENT with Concomitant TCS in AD-1539 at Week 16 (FAS) Full Analysis Set (FAS) includes all subjects randomized. in Pediatric Subjects 6 Months to 5 Years of Age with Moderate-to-Severe AD
+
+|  | (N=83) | (N=79) |  |
+| --- | --- | --- | --- |
+|  | DUPIXENT + TCS 200 mg (5 to <15kg) or 300 mg (15 to <30 kg) Q4WAt Day 1, subjects received 200 mg (5 to <15kg) or 300 mg (15 to <30 kg) of DUPIXENT. | Placebo + TCS | Difference vs. Placebo (95 % CI) |
+| IGA 0 or 1 Responder was defined as a subject with an IGA 0 or 1 ("clear" or "almost clear").,Subjects who received rescue treatment (63% and 19% in the placebo and DUPIXENT arms, respectively) or with missing data were considered as non-responders. | 28% | 4% | 24% (13%, 34%) |
+| EASI-75 | 53% | 11% | 42% (29%, 55%) |
+| EASI-90 | 25% | 3% | 23% (12%, 33%) |
+| Worst Scratch/Itch NRS (≥4-point improvement) | 48% | 9% | 39% (26%, 52%) |
+| CI = confidence interval |  |  |  |
 
 ## 14.2 Asthma
 
@@ -170,9 +201,9 @@ Subjects continued to receive their existing asthma medicine during the study; h
 The primary endpoint was the percent reduction of oral corticosteroid dose at Weeks 20 to 24 compared with the baseline dose, while maintaining asthma control in the overall population (unrestricted by minimum baseline blood eosinophils count).
 Additional secondary endpoints included the annualized rate of severe exacerbation events during treatment period and responder rate in the ACQ-5 and AQLQ(S) scores.
 
-The demographics and baseline characteristics of these 3 trials are provided in Table 12 below.
+The demographics and baseline characteristics of these 3 trials are provided in Table 14 below.
 
-Table 12: Demographics and Baseline Characteristics of Asthma Trials
+Table 14: Demographics and Baseline Characteristics of Asthma Trials
 
 | Parameter | DRI12544 (N=776) | QUEST (N=1902) | VENTURE (N=210) |
 | --- | --- | --- | --- |
@@ -198,7 +229,7 @@ DRI12544 and QUEST evaluated the frequency of severe asthma exacerbations define
 In the primary analysis population (subjects with baseline blood eosinophil count of ≥300 cells/mcL in DRI12544 and the overall population in QUEST), subjects receiving either DUPIXENT 200 mg or 300 mg Q2W had significant reductions in the rate of asthma exacerbations compared to placebo.
 In the overall population in QUEST, the rate of severe exacerbations was 0.46 and 0.52 for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo rates of 0.87 and 0.97.
 The rate ratio of severe exacerbations compared to placebo was 0.52 (95% CI: 0.41, 0.66) and 0.54 (95% CI: 0.43, 0.68) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 13.
+Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 15.
 
 Response rates by baseline blood eosinophils and baseline FeNO for QUEST are shown for the overall population in Figure 4 and Figure 5, respectively.
 Elevation of FeNO can be a marker of the eosinophilic asthma phenotype when supported by clinical data.
@@ -208,7 +239,7 @@ In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <25 ppb
 
 In QUEST, the estimated rate ratio of exacerbations leading to hospitalizations and/or emergency room visits versus placebo was 0.53 (95% CI: 0.28, 1.03) and 0.74 (95% CI: 0.32, 1.70) with DUPIXENT 200 mg or 300 mg Q2W, respectively.
 
-Table 13: Rate of Severe Exacerbations in DRI12544 and QUEST
+Table 15: Rate of Severe Exacerbations in DRI12544 and QUEST
 
 | N | Rate (95% CI) | Rate Ratio (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
@@ -235,7 +266,7 @@ Lung Function
 Significant increases in pre-bronchodilator FEV1 were observed at Week 12 for DRI12544 and QUEST in the primary analysis populations (subjects with baseline blood eosinophil count of ≥300 cells/mcL in DRI12544 and the overall population in QUEST).
 In the overall population in QUEST, the FEV1 LS mean change from baseline was 0.32 L (21%) and 0.34 L (23%) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively, compared to matched placebo means of 0.18 L (12%) and 0.21 L (14%).
 The mean treatment difference versus placebo was 0.14 L (95% CI: 0.08, 0.19) and 0.13 L (95% CI: 0.08, 0.18) for DUPIXENT 200 mg Q2W and 300 mg Q2W, respectively.
-Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 14.
+Results in subjects with baseline blood eosinophil counts ≥300 cells/mcL in DRI12544 and QUEST are shown in Table 16.
 
 Improvements in FEV1 by baseline blood eosinophils and baseline FeNO for QUEST are shown in Figure 7 and 8, respectively.
 Subgroup analysis of DRI12544 and QUEST demonstrated greater improvement in subjects with higher baseline blood eosinophils (≥150 cells/mcL) or FeNO (≥25 ppb).
@@ -243,7 +274,7 @@ In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <25 ppb
 
 Mean changes in FEV1 over time in QUEST are shown in Figure 9.
 
-Table 14: Mean Change from Baseline and Difference vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in Subjects with Moderate-to-Severe Asthma (DRI12544 and QUEST)
+Table 16: Mean Change from Baseline and Difference vs Placebo in Pre-Bronchodilator FEV1 at Week 12 in Subjects with Moderate-to-Severe Asthma (DRI12544 and QUEST)
 
 | N | LS Mean Change from baseline L (%) | LS Mean Difference vs. placebo (95% CI) |  |  |
 | --- | --- | --- | --- | --- |
@@ -297,9 +328,9 @@ Severe asthma exacerbations were defined as deterioration of asthma requiring th
 The key secondary endpoint was the change from baseline in pre-bronchodilator FEV1 percent predicted at Week 12.
 Additional secondary endpoints included mean change from baseline and responder rates in the ACQ-7-IA (Asthma Control Questionnaire-7-Interviewer Administered) and PAQLQ(S)-IA (Pediatric Asthma Quality of Life Questionnaire with Standardized Activities Interviewer Administered) scores.
 
-The demographics and baseline characteristics for VOYAGE are provided in Table 15 below.
+The demographics and baseline characteristics for VOYAGE are provided in Table 17 below.
 
-Table 15: Demographics and Baseline Characteristics for VOYAGE
+Table 17: Demographics and Baseline Characteristics for VOYAGE
 
 | Parameter | VOYAGE (N=408) |
 | --- | --- |
@@ -326,9 +357,9 @@ In subjects with baseline blood eosinophil count <150 cells/mcL and FeNO <20 ppb
 Significant improvements in percent predicted pre-bronchodilator FEV1 were observed at Week 12.
 Significant improvements in percent predicted FEV1 were observed as early as Week 2 and were maintained through Week 52 in VOYAGE (Figure 10).
 
-The efficacy results for VOYAGE are presented in Table 16.
+The efficacy results for VOYAGE are presented in Table 18.
 
-Table 16: Efficacy Results of DUPIXENT in VOYAGE
+Table 18: Efficacy Results of DUPIXENT in VOYAGE
 
 | Treatment | EOS ≥300 cells/mcLThis reflects the prespecified primary analysis population for VOYAGE in the United States. |  |  |
 | --- | --- | --- | --- |
@@ -372,9 +403,9 @@ SNOT-22 includes 22 items assessing symptoms and symptom impact associated with 
 SNOT-22 had a 2 week recall period.
 In the pooled efficacy results, the reduction in the proportion of subjects rescued with systemic corticosteroids and/or sino-nasal surgery (up to Week 52) were evaluated.
 
-The demographics and baseline characteristics of these 2 trials are provided in Table 17 below.
+The demographics and baseline characteristics of these 2 trials are provided in Table 19 below.
 
-Table 17: Demographics and Baseline Characteristics of CRSwNP Trials
+Table 19: Demographics and Baseline Characteristics of CRSwNP Trials
 
 | Parameter | SINUS-24 (N=276) | SINUS-52 (N=448) |
 | --- | --- | --- |
@@ -397,9 +428,9 @@ Table 17: Demographics and Baseline Characteristics of CRSwNP Trials
 
 Clinical Response (SINUS-24 and SINUS-52)
 
-The results for primary endpoints in CRSwNP studies are presented in Table 18.
+The results for primary endpoints in CRSwNP studies are presented in Table 20.
 
-Table 18: Results of the Primary Endpoints in CRSwNP Trials
+Table 20: Results of the Primary Endpoints in CRSwNP Trials
 
 | Scores | Baseline mean | LS mean change | Baseline mean | LS mean change |  | Baseline mean | LS mean change | Baseline mean | LS mean change |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -458,9 +489,9 @@ Demographics and baseline characteristics were similar in Parts A and B. A total
 
 The coprimary efficacy endpoints in Parts A and B were the (1) proportion of subjects achieving histological remission defined as peak esophageal intraepithelial eosinophil count of ≤6 eos/hpf at Week 24; and (2) the absolute change in the subject-reported DSQ score from baseline to Week 24.
 
-Efficacy results for Parts A and B are presented in Table 19.
+Efficacy results for Parts A and B are presented in Table 21.
 
-Table 19: Efficacy Results of DUPIXENT at Week 24 in Subjects 12 Years of Age and Older with EoE (Parts A and B)
+Table 21: Efficacy Results of DUPIXENT at Week 24 in Subjects 12 Years of Age and Older with EoE (Parts A and B)
 
 |  | N = 42 | N = 39 |  | N = 80 | N = 79 |  |
 | --- | --- | --- | --- | --- | --- | --- |
