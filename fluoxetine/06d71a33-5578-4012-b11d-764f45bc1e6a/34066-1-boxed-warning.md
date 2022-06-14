@@ -6,4 +6,4 @@
   Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.1)].
 - Fluoxetine is not approved for use in children less than 7 years of age [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
 
-When using fluoxetine and olanzapine in combination, also refer to Boxed Warning section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to Boxed Warning section of the package insert for Symbyax®.

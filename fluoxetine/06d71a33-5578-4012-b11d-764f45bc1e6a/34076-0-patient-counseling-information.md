@@ -3,7 +3,7 @@
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking fluoxetine as monotherapy or in combination with olanzapine.
-When using fluoxetine and olanzapine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax®.
 
 General Information
 
@@ -15,7 +15,7 @@ Patients should be given the opportunity to discuss the contents of the Medicati
 
 Patients should be advised of the following issues and asked to alert their healthcare provider if these occur while taking fluoxetine capsules.
 
-When using fluoxetine and olanzapine in combination, also refer to the Medication Guide for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Medication Guide for Symbyax®.
 
 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
@@ -76,6 +76,12 @@ Patients should be advised to take fluoxetine exactly as prescribed, and to cont
 Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their healthcare provider [see Warnings and Precautions (5.15)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
 
+Sexual Dysfunction
+
+Advise patients that use of fluoxetine may cause symptoms of sexual dysfunction in both male and female patients.
+
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.17)].
+
 Use in Specific Populations
 
 Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with fluoxetine.
@@ -102,4 +108,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-N 8/2021
+O 4/2022

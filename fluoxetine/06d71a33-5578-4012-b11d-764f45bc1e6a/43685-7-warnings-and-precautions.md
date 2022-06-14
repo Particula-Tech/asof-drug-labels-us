@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax®.
 
 ## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
@@ -97,7 +97,7 @@ A major depressive episode may be the initial presentation of Bipolar Disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for Bipolar Disorder.
 Whether any of the symptoms described for clinical worsening and suicide risk represent such a conversion is unknown.
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for Bipolar Disorder; such screening should include a detailed psychiatric history, including a family history of suicide, Bipolar Disorder, and depression.
-It should be noted that fluoxetine and olanzapine in combination is approved for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions section of the package insert for Symbyax].
+It should be noted that fluoxetine and olanzapine in combination is approved for the acute treatment of depressive episodes associated with Bipolar I Disorder [see Warnings and Precautions section of the package insert for Symbyax®].
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
 In U.S. placebo-controlled clinical trials for Major Depressive Disorder, mania/hypomania was reported in 0.1% of patients treated with fluoxetine and 0.1% of patients treated with placebo.
@@ -217,4 +217,14 @@ Plasma fluoxetine and norfluoxetine concentration decrease gradually at the conc
 
 ## 5.16 Fluoxetine and Olanzapine in Combination
 
-When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax®.
+
+## 5.17 Sexual Dysfunction
+
+Use of SSRIs, including fluoxetine, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
+In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
+In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of fluoxetine and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategies to support patients in making informed decisions about treatment.

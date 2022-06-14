@@ -1,11 +1,11 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-When using fluoxetine and olanzapine in combination, also refer to the Use in Specific Populations section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Use in Specific Populations section of the package insert for Symbyax®.
 
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/pregnancyregistry/antidepressants/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 
 Risk Summary Available data from published epidemiologic studies and postmarketing reports over several decades have not established an increased risk of major birth defects or miscarriage.
 Some studies have reported an increased incidence of cardiovascular malformations; however, these studies results do not establish a causal relationship (see Data).

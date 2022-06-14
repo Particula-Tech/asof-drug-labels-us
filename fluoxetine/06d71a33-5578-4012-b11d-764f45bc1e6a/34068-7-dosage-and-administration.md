@@ -75,7 +75,7 @@ Periodically reassess to determine the need for continued treatment.
 
 ## 2.5 Fluoxetine and Olanzapine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
-When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax®.
 
 Adult — Administer fluoxetine in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Make dosage adjustments, if indicated, according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 12.5 mg.
@@ -88,35 +88,35 @@ Make dosage adjustments, if indicated, according to efficacy and tolerability.
 Safety of co-administration of doses above 12 mg of olanzapine with 50 mg of fluoxetine has not been evaluated in pediatric clinical studies.
 Periodically re-examine the need for continued pharmacotherapy.
 
-Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed-dose combination of olanzapine and fluoxetine).
-Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
-The following table demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax.
+Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax® (fixed-dose combination of olanzapine and fluoxetine).
+Symbyax® is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+The following table demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax®.
 Adjust dosage, if indicated, with the individual components according to efficacy and tolerability.
 
-| Table 1: Approximate Dose Correspondence Between Symbyax1 and the Combination of Fluoxetine and Olanzapine |  |  |
+| Table 1: Approximate Dose Correspondence Between Symbyax®1 and the Combination of Fluoxetine and Olanzapine |  |  |
 | --- | --- | --- |
-| For Symbyax (mg/day) | Use in Combination |  |
+| For Symbyax® (mg/day) | Use in Combination |  |
 | Olanzapine (mg/day) | Fluoxetine (mg/day) |  |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
 | 6 mg olanzapine/25 mg fluoxetine | 5 | 20 |
 | 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
 | 6 mg olanzapine/50 mg fluoxetine | 5 | 40+10 |
 | 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
-| 1 Symbyax (olanzapine/fluoxetine HCL) is a fixed-dose combination of fluoxetine and olanzapine. |  |  |
+| 1 Symbyax® (olanzapine/fluoxetine HCL) is a fixed-dose combination of fluoxetine and olanzapine. |  |  |
 
 Fluoxetine monotherapy is not indicated for the treatment of depressive episodes associated with Bipolar I Disorder.
 
 ## 2.6 Fluoxetine and Olanzapine in Combination: Treatment Resistant Depression
 
-When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
+When using fluoxetine and olanzapine in combination, also refer to the Clinical Studies section of the package insert for Symbyax®.
 
 Administer fluoxetine in combination with oral olanzapine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Adjust dosage, if indicated, according to efficacy and tolerability within dose ranges of fluoxetine 20 to 50 mg and oral olanzapine 5 to 20 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
 
-Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
-Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
-Table 1 demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax.
+Safety and efficacy of fluoxetine in combination with olanzapine was determined in clinical trials supporting approval of Symbyax® (fixed dose combination of olanzapine and fluoxetine).
+Symbyax® is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+Table 1 demonstrates the appropriate individual component doses of fluoxetine and olanzapine versus Symbyax®.
 Adjust dosage, if indicated, with the individual components according to efficacy and tolerability.
 
 Periodically re-examine the need for continued pharmacotherapy.
