@@ -1,4 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-DOXILliposomal infusion: doxorubicin hydrochloride liposome injection: 20 mg/10 mL (2 mg/mL) and 50 mg/25 mL (2 mg/mL) in single dose vials.
-The drug product appears as a translucent, red liposomal dispersion.
+DOXIL (doxorubicin hydrochloride liposome injection): 20 mg/10 mL (2 mg/mL) and 50 mg/25 mL (2 mg/mL) translucent, red liposomal dispersion in single dose vials.

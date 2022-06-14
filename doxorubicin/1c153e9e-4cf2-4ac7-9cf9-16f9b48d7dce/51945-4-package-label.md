@@ -36,6 +36,12 @@ LOT
 
 EXP
 
+US
+
+749703 882
+
+Barcode
+
 NDC 0338-0063-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
 20 mg in 10 mL (2 mg/mL)
@@ -45,7 +51,7 @@ Discard unused portion.
 
 LIPOSOMAL FORMULATION - DO NOT SUBSTITUTE FOR DOXORUBICIN Hydrochloride
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS INFUSION ONLY AFTER DILUTION.
 
 Refrigerate, 2°-8°C (36°-46°F).
 Do Not Freeze.
@@ -57,14 +63,14 @@ Baxter Logo
 
 NDC 0338-0063-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
-N 3 Bar Code 0338-0063-01 7
+Use 5% Dextrose Injection, USP when diluting DOXIL.
+
+Bar Code 3 03380 06301 7
 
 Note: Liposomal formulation.
-See package insert for dosage information.
+Recommended Dosage: see prescribing information.
 
-USA 6943440 882
-
-Bar Code
+NDC 0338-0063-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
 NDC 0338-0063-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
@@ -74,15 +80,13 @@ Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 Product of I
 
 Baxter, Doxil, and Stealth are registered trademarks of Baxter International Inc., or its subsidiaries.
 
-NDC 0338-0063-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
-
-GTIN 00303380063017 Bar Code S/N EXP LOT
+GTIN 00303380063017 2D Bar Code S/N EXP LOT
 
 NDC 0338-0063-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
 Each mL contains doxorubicin Hydrochloride, 2 mg.
 STEALTH liposome carriers are composed of cholesterol, 3.19 mg; fully hydrogenated soy phosphatidylcholine (HSPC), 9.58 mg; and N-(carbonyl- methoxypolyethylene glycol 2000)-1,2-distearoyl-sn- glycerol-3-phosphoethanolamine sodium salt (MPEG-DSPE), 3.19 mg.
-Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine; hydrochloric acid and/or sodium hydroxide; and sucrose.
+Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine, 1.55 mg; hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (6.0 to 7.0) and sucrose, 94 mg.
 
 HA-80-02-881
 
@@ -172,6 +176,10 @@ LOT
 
 EXP
 
+US 749704 882
+
+Barcode
+
 NDC 0338-0067-01
 
 DOXIL (DOXOrubicin Hydrochloride liposome injection)
@@ -183,7 +191,7 @@ Discard unused portion.
 
 LIPOSOMAL FORMULATION - DO NOT SUBSTITUTE FOR DOXORUBICIN Hydrochloride
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS INFUSION ONLY AFTER DILUTION.
 
 Refrigerate, 2°-8°C (36°-46°F).
 Do Not Freeze.
@@ -195,14 +203,14 @@ Baxter Logo
 
 NDC 0338-0067-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
-N 3 Bar Code 0338-0067-01 5
+Use 5% Dextrose Injection, USP when diluting DOXIL.
+
+Bar Code 3 03380 06701 5
 
 Note: Liposomal formulation.
-See package insert for dosage information.
+Recommended Dosage: see prescribing information.
 
-USA 693385 882
-
-Bar Code
+NDC 0338-0067-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
 NDC 0338-0067-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
@@ -212,15 +220,13 @@ Manufactured for: Baxter Healthcare Corporation Deerfield, IL 60015 Product of I
 
 Baxter, Doxil, and Stealth are registered trademarks of Baxter International Inc., or its subsidiaries.
 
-NDC 0338-0067-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
-
-GTIN 00303380067015 Bar Code S/N EXP LOT
+GTIN 00303380067015 2D Bar Code S/N EXP LOT
 
 NDC 0338-0067-01 DOXIL (DOXOrubicin Hydrochloride liposome injection)
 
 Each mL contains doxorubicin Hydrochloride, 2 mg.
 STEALTH liposome carriers are composed of cholesterol, 3.19 mg; fully hydrogenated soy phosphatidylcholine (HSPC), 9.58 mg; and N-(carbonyl- methoxypolyethylene glycol 2000)-1,2-distearoyl-sn- glycerol-3-phosphoethanolamine sodium salt (MPEG-DSPE), 3.19 mg.
-Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine; hydrochloric acid and/or sodium hydroxide; and sucrose.
+Each mL also contains ammonium sulfate, approximately 0.6 mg; histidine, 1.55 mg; hydrochloric acid and/or sodium hydroxide may have been added for pH adjustment (6.0 to 7.0) and sucrose, 94 mg.
 
 HA-80-02-883
 

@@ -213,7 +213,7 @@ Table 7: Frequency of Treatment-Emergent Adverse Reactions Reported in ≥10% Pa
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been identified during post approval use of DOXIL liposomal infusion.
+The following additional adverse reactions have been identified during postapproval use of DOXIL liposomal infusion.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Musculoskeletal and Connective Tissue Disorders: muscle spasms
