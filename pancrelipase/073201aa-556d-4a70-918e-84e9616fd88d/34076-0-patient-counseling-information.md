@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide)
+See FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Dosing and Administration
 
@@ -22,18 +22,15 @@ Advise patients and caregivers to follow dosing instructions carefully, as doses
 
 Advise patients and caregivers to contact their healthcare professional immediately if allergic reactions to CREON develop [see Warnings and Precautions (5.5)].
 
-Manufactured by:
+© 2009-2022 AbbVie.
+All rights reserved.
 
-Abbott Laboratories GmbH
-
-Hannover, Germany
-
-Marketed by:
+CREON® is a registered trademark of AbbVie Products LLC.
 
 AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-© 2009-2020 AbbVie Inc.
+US License Number 1889
 
-03-C054-R4 March, 2020
+20072271 June, 2022

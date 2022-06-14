@@ -1,31 +1,24 @@
 # 11 DESCRIPTION
 
-CREON is a pancreatic enzyme preparation consisting of pancrelipase, an extract derived from porcine pancreatic glands.
-Pancrelipase contains multiple enzyme classes, including porcine-derived lipases, proteases, and amylases.
+Pancrelipase is a pancreatic enzyme preparation consisting of a combination of lipases, proteases, and amylases and is an extract derived from porcine pancreatic glands.
 
-Pancrelipase is a beige-white amorphous powder.
-It is miscible in water and practically insoluble or insoluble in alcohol and ether.
+CREON (pancrelipase)
 
-Each delayed-release capsule for oral administration contains enteric-coated spheres (0.71–1.60 mm in diameter).
+delayed-release capsules are for oral administration and include a two-piece shell containing tan-colored enteric-coated spheres (0.71 mm to 1.60 mm in diameter) available as follows:
 
-The active ingredient evaluated in clinical trials is lipase.
-CREON is dosed by lipase units.
-
-Other active ingredients include protease and amylase.
-
-CREON contains the following inactive ingredients: cetyl alcohol, dimethicone, hypromellose phthalate, polyethylene glycol, and triethyl citrate.
-
-3,000 USP units of lipase; 9,500 USP units of protease; 15,000 USP units of amylase delayed-release capsules have a white opaque cap with imprint “CREON 1203” and a white opaque body.
+3,000 USP units of lipase; 9,500 USP units of protease; and 15,000 USP units of amylase delayed-release capsules have a white opaque cap with imprint “CREON 1203” and a white opaque body.
 The shells contain titanium dioxide and hypromellose.
 
-6,000 USP units of lipase; 19,000 USP units of protease; 30,000 USP units of amylase delayed-release capsules have a Swedish-orange opaque cap with imprint “CREON 1206” and a blue opaque body.
+6,000 USP units of lipase; 19,000 USP units of protease; and 30,000 USP units of amylase delayed-release capsules have a Swedish-orange opaque cap with imprint “CREON 1206” and a blue opaque body.
 The shells contain FD&C Blue No. 2, gelatin, red iron oxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
 
-12,000 USP units of lipase; 38,000 USP units of protease; 60,000 USP units of amylase delayed-release capsules have a brown opaque cap with imprint “CREON 1212” and a colorless transparent body.
+12,000 USP units of lipase; 38,000 USP units of protease; and 60,000 USP units of amylase delayed-release capsules have a brown opaque cap with imprint “CREON 1212” and a colorless transparent body.
 The shells contain black iron oxide, gelatin, red iron oxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
 
-24,000 USP units of lipase; 76,000 USP units of protease; 120,000 USP units of amylase delayed-release capsules have a Swedish-orange opaque cap with imprint “CREON 1224” and a colorless transparent body.
+24,000 USP units of lipase; 76,000 USP units of protease; and 120,000 USP units of amylase delayed-release capsules have a Swedish-orange opaque cap with imprint “CREON 1224” and a colorless transparent body.
 The shells contain gelatin, red iron oxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
 
-36,000 USP units of lipase; 114,000 USP units of protease; 180,000 USP units of amylase delayed-release capsules have a blue opaque cap with imprint “CREON 1236” and a colorless transparent body.
+36,000 USP units of lipase; 114,000 USP units of protease; and 180,000 USP units of amylase delayed-release capsules have a blue opaque cap with imprint “CREON 1236” and a colorless transparent body.
 The shells contain gelatin, titanium dioxide, FD&C Blue No. 2 and sodium lauryl sulfate.
+
+CREON (pancrelipase) delayed-release capsules include the following inactive ingredients: cetyl alcohol, dimethicone, hypromellose phthalate, polyethylene glycol, and triethyl citrate.

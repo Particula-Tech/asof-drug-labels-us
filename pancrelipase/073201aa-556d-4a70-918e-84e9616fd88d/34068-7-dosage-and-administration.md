@@ -1,12 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-CREON is not interchangeable with other pancrelipase products.
-
-CREON is orally administered.
-Therapy should be initiated at the lowest recommended dose and gradually increased.
-The dosage of CREON should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet as described in the Limitations on Dosing below [see Dosage and Administration (2.2) and Warnings and Precautions (5.1)].
-
 ## 2.1 Administration
+
+CREON is not interchangeable with other pancrelipase products.
 
 Infants (up to 12 months)
 
@@ -27,6 +23,10 @@ The CREON-soft food mixture should be swallowed immediately without crushing or 
 Care should be taken to ensure that no drug is retained in the mouth.
 
 ## 2.2 Dosage
+
+CREON is orally administered and dosed by lipase units.
+Therapy should be initiated at the lowest recommended dose and gradually increased.
+The dosage of CREON should be individualized based on clinical symptoms, the degree of steatorrhea present, and the fat content of the diet as described in the Limitations on Dosing below [see also Warnings and Precautions (5.1)].
 
 Dosage recommendations for pancreatic enzyme replacement therapy were published following the Cystic Fibrosis Foundation Consensus Conferences.1, 2, 3 CREON should be administered in a manner consistent with the recommendations of the Cystic Fibrosis Foundation Consensus Conferences (also known as Conferences) provided in the following paragraphs, except for infants.
 Although the Conferences recommend doses of 2,000 to 4,000 lipase units in infants up to 12 months, CREON is available in a 3,000 lipase unit capsule.
