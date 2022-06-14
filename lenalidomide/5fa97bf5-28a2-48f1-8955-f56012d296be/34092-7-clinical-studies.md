@@ -151,7 +151,7 @@ Randomized, Open-Label Clinical Studies in Patients with MM After At Least One P
 
 Two randomized studies (Studies 1 and 2) were conducted to evaluate the efficacy and safety of REVLIMID.
 These multicenter, multinational, double-blind, placebo-controlled studies compared REVLIMID plus oral pulse high-dose dexamethasone therapy to dexamethasone therapy alone in patients with MM who had received at least one prior treatment.
-These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 × upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
+These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
 
 In both studies, patients in the REVLIMID/dexamethasone group took 25 mg of REVLIMID orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
 Patients in the placebo/dexamethasone group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
@@ -240,7 +240,7 @@ Sequential dose reductions to 5 mg daily and 5 mg every other day, as well as do
 
 This major study enrolled 148 patients who had RBC transfusion dependent anemia.
 RBC transfusion dependence was defined as having received ≥ 2 units of RBCs within 8 weeks prior to study treatment.
-The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 × upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
+The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
 Granulocyte colony-stimulating factor was permitted for patients who developed neutropenia or fever in association with neutropenia.
 Baseline patient and disease-related characteristics are summarized in Table 18.
 
@@ -299,7 +299,7 @@ Treatment was continued until disease progression, unacceptable toxicity, or wit
 The trial included patients who were at least 18 years of age with biopsy-proven MCL with measurable disease by CT scan.
 Patients were required to have received prior treatment with an anthracycline or mitoxantrone, cyclophosphamide, rituximab, and bortezomib, alone or in combination.
 Patients were required to have documented refractory disease (defined as without any response of PR or better during treatment with bortezomib or a bortezomib-containing regimen), or relapsed disease (defined as progression within one year after treatment with bortezomib or a bortezomib-containing regimen).
-At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3× upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 × ULN except in cases of Gilbert's syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
+At enrollment patients were to have an absolute neutrophil counts (ANC) ≥1500/ mm3, platelet counts ≥ 60,000/mm3, serum SGOT/AST or SGPT/ALT ≤3 x upper limit of normal (ULN) unless there was documented evidence of liver involvement by lymphoma, serum total bilirubin ≤1.5 x ULN except in cases of Gilbert's syndrome or documented liver involvement by lymphoma, and calculated creatinine clearance (Cockcroft-Gault formula) ≥30 mL/min.
 
 The median age was 67 years (43-83), 81% were male and 96% were Caucasian.
 The table below summarizes the baseline disease-related characteristics and prior anti-lymphoma therapy in the Mantle Cell Lymphoma trial.

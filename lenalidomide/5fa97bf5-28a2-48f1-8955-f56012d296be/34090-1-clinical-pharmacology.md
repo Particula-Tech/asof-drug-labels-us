@@ -23,7 +23,6 @@ The largest upper bound of the two-sided 90% CI for the mean differences between
 
 Absorption
 
-Lenalidomide is rapidly absorbed following oral administration.
 Following single and multiple doses of REVLIMID in patients with MM or MDS, the maximum plasma concentrations occurred between 0.5 and 6 hours post-dose.
 The single and multiple dose pharmacokinetic disposition of lenalidomide is linear with AUC and Cmax values increasing proportionally with dose.
 Multiple doses of REVLIMID at the recommended dosage does not result in drug accumulation.

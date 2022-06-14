@@ -29,7 +29,7 @@ Table 1: Dose Adjustments for Hematologic Toxicities for MM
 | Absolute Neutrophil counts (ANC) |  |  |
 |  | Neutropenia in MM |  |
 |  | When Neutrophils | Recommended Course Days 1-21 of repeated 28-day cycle |
-|  | Fall below 1000/mcL | Interrupt REVLIMID treatment, follow CBC weekly |
+|  | Fall below 1,000/mcL | Interrupt REVLIMID treatment, follow CBC weekly |
 |  | Return to at least 1,000/mcL and neutropenia is the only toxicity | Resume REVLIMID at 25 mg daily or initial starting dose |
 |  | Return to at least 1,000/mcL and if other toxicity | Resume REVLIMID at next lower dose. Do not dose below 2.5 mg daily |
 |  | For each subsequent drop below 1,000/mcL | Interrupt REVLIMID treatment |
@@ -37,7 +37,7 @@ Table 1: Dose Adjustments for Hematologic Toxicities for MM
 
 REVLIMID Maintenance Therapy Following Auto-HSCT
 
-Following auto-HSCT, initiate REVLIMID maintenance therapy after adequate hematologic recovery (ANC at least 1000/mcL and/or platelet counts at least 75,000/mcL).
+Following auto-HSCT, initiate REVLIMID maintenance therapy after adequate hematologic recovery (ANC at least 1,000/mcL and/or platelet counts at least 75,000/mcL).
 The recommended starting dose of REVLIMID is 10 mg once daily continuously (Days 1-28 of repeated 28-day cycles) until disease progression or unacceptable toxicity.
 After 3 cycles of maintenance therapy, the dose can be increased to 15 mg once daily if tolerated.
 
@@ -162,7 +162,7 @@ Neutropenia during treatment in MCL
 
 | When Neutrophils | Recommended Course |
 | --- | --- |
-| Fall below 1000/mcL for at least 7 days OR Falls below 1,000/mcL with an associated temperature at least 38.5°C OR Falls below 500/mcL | Interrupt REVLIMID treatment and follow CBC weekly |
+| Fall below 1,000/mcL for at least 7 days OR Falls below 1,000/mcL with an associated temperature at least 38.5°C OR Falls below 500/mcL | Interrupt REVLIMID treatment and follow CBC weekly |
 | Return to at least 1,000/mcL | Resume REVLIMID at 5 mg less than the previous dose. Do not dose below 5 mg daily |
 
 ## 2.4 Recommended Dosage for Follicular Lymphoma or Marginal Zone Lymphoma

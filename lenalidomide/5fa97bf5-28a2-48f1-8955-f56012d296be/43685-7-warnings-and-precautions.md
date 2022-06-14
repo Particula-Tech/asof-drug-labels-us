@@ -21,7 +21,7 @@ Males
 
 Lenalidomide is present in the semen of patients receiving the drug.
 Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID and for up to 4 weeks after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
-Male patients taking REVLIMID must not donate sperm [see Use in Specific Populations (8.3)].
+Male patients taking REVLIMID must not donate sperm and for up to 4 weeks after discontinuing REVLIMID [see Use in Specific Populations (8.3)].
 
 Blood Donation
 
@@ -38,7 +38,7 @@ Required components of the Lenalidomide REMS program include the following:
   In particular, female patients of reproductive potential who are not pregnant must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)] and males must comply with contraception requirements [see Use in Specific Populations (8.3)].
 - •Pharmacies must be certified with the Lenalidomide REMS program, must only dispense to patients who are authorized to receive REVLIMID and comply with REMS requirements.
 
-Further information about the Lenalidomide REMS program is available at www.celgeneriskmanagement.com or by telephone at 1-888-423-5436.
+Further information about the Lenalidomide REMS program is available at www.lenalidomiderems.com or by telephone at 1-888-423-5436.
 
 ## 5.3 Hematologic Toxicity
 
@@ -159,7 +159,7 @@ TLS occurred in 1 patient (0.5%) in the MAGNIFY trial during the REVLIMID/rituxi
 
 ## 5.11 Tumor Flare Reaction
 
-Tumor flare reaction (TFR) has occurred during investigational use of REVLIMID for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
+Tumor flare reaction (TFR), including fatal reactions, have occurred during investigational use of REVLIMID for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
 REVLIMID is not indicated and not recommended for use in CLL outside of controlled clinical trials.
 
 Monitoring and evaluation for TFR is recommended in patients with MCL, FL, or MZL.
@@ -169,6 +169,7 @@ In the MCL trial, 13/134 (10%) of subjects experienced TFR; all reports were Gra
 All of the events occurred in Cycle 1 and one patient developed TFR again in Cycle 11.
 In the AUGMENT trial in FL or MZL patients, TFR was reported in 19/176 (10.8%) of patients in REVLIMID with rituximab arm; one patient in the REVLIMID/rituximab arm experienced a Grade 3 TFR.
 In the MAGNIFY trial, 9/222 (4.1%) of patients experienced TFR; all reports were Grade 1 or 2 in severity and 1 event was considered as serious.
+In a separate MCL phase 2 trial, one case of TFR resulted in a fatal outcome.
 
 REVLIMID may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician's discretion.
 Patients with Grade 1 and 2 TFR may also be treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.
@@ -189,7 +190,7 @@ Measure thyroid function before start of REVLIMID treatment and during therapy.
 ## 5.14 Early Mortality in Patients with MCL
 
 In another MCL study, there was an increase in early deaths (within 20 weeks), 12.9% in the REVLIMID arm versus 7.1% in the control arm.
-On exploratory multivariate analysis, risk factors for early deaths include high tumor burden, MIPI score at diagnosis, and high WBC at baseline (≥ 10 × 109/L).
+On exploratory multivariate analysis, risk factors for early deaths include high tumor burden, MIPI score at diagnosis, and high WBC at baseline (≥ 10 x 109/L).
 
 ## 5.15 Hypersensitivity
 

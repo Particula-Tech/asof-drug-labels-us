@@ -13,9 +13,9 @@ REVLIMID is a thalidomide analogue and can cause serious birth defects or death 
   Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner's vasectomy.
   Additional effective contraceptive methods include latex or synthetic condom, diaphragm and cervical cap.
 - •Instruct patient to immediately stop taking REVLIMID and contact her healthcare provider if she becomes pregnant while taking this drug, if she misses her menstrual period, or experiences unusual menstrual bleeding, if she stops taking birth control, or if she thinks FOR ANY REASON that she may be pregnant.
-- •Advise patient that if her healthcare provider is not available, she should call Celgene Customer Care Center at 1-888-423-5436 [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
+- •Advise patient that if her healthcare provider is not available, she should call the REMS Call Center at 1-888-423-5436 [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
 - •Advise males to always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking REVLIMID and for up to 4 weeks after discontinuing REVLIMID, even if they have undergone a successful vasectomy.
-- •Advise male patients taking REVLIMID that they must not donate sperm [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
+- •Advise male patients taking REVLIMID that they must not donate sperm and for up to 4 weeks after discontinuation of REVLIMID [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
 - •All patients must be instructed to not donate blood while taking REVLIMID, during dose interruptions and for 4 weeks following discontinuation of REVLIMID [see Warnings and Precautions (5.1)].
 
 Lenalidomide REMS program
@@ -87,3 +87,11 @@ Inform patients how to take REVLIMID [see Dosage and Administration (2)]
   If more than 12 hours have elapsed, they should be instructed to skip the dose for that day.
   The next day, they should take REVLIMID at the usual time.
   Warn patients to not take 2 doses to make up for the one that they missed.
+
+Manufactured for: Celgene Corporation 86 Morris Avenue Summit, NJ 07901
+
+REVLIMID® is a registered trademark of Celgene Corporation.
+
+© 2022 Celgene Corporation, All Rights Reserved.
+
+RevPlyPI.029/MG.029
