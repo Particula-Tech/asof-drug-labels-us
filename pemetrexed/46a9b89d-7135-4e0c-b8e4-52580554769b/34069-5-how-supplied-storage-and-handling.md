@@ -1,21 +1,16 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
-Pemetrexed for Injection, is available in sterile single-use vials containing 100 mg pemetrexed.
+Pemetrexed for Injection, USP is a white to either light yellow or green-yellow lyophilized solid supplied in single-dose vials for reconstitution for intravenous infusion.
 
-NDC 67184-0503-1: single-use vial with blue cap individually packaged in a carton.
+NDC 67184-0503-1: Carton containing one (1) single-dose vial of 100 mg pemetrexed.
 
-Pemetrexed for Injection, is available in sterile single-use vials containing 500 mg pemetrexed.
+NDC 67184-0504-1: Carton containing one (1) single-dose vial of 500 mg pemetrexed.
 
-NDC 67184-0504-1: single-use vial with blue cap individually packaged in a carton.
+Storage and Handling
 
-## 16.2 Storage and Handling
+Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 
-Pemetrexed for Injection should be stored at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
-
-Chemical and physical stability of reconstituted and infusion solutions of Pemetrexed for Injection were demonstrated for up to 24 hours following initial reconstitution, when stored refrigerated, 2-8°C (36-46°F).
-When prepared as directed, reconstituted and infusion solutions of Pemetrexed for Injection contain no antimicrobial preservatives.
-Discard unused portion [see Dosage and Administration (2.5)].
-
-Pemetrexed for Injection is not light sensitive.
+Pemetrexed for Injection, USP is a cytotoxic drug.
+Follow applicable special handling and disposal procedures.1

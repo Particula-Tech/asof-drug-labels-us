@@ -1,10 +1,10 @@
 # 11 DESCRIPTION
 
-Pemetrexed disodium hemipentahydrate has the chemical name L-Glutamic acid, N-[4-[2-(2-amino-4,7-dihydro-4-oxo-1H-pyrrolo[2,3-d]pyrimidin-5-yl)ethyl]benzoyl]-, disodium salt, hemipentahydrate.
-It is a white to almost-white solid with a molecular formula of C20H19N5Na2O6•2.5H2O and a molecular weight of 516.41.
+Pemetrexed for Injection, USP is a folate analog metabolic inhibitor.
+The drug substance, pemetrexed disodium hemipentahydrate, has the chemical name L-glutamic acid, N-[4-[2-(2-amino-4,7-dihydro-4-oxo-1H-pyrrolo[2,3-d]pyrimidin-5-yl)ethyl]benzoyl]-, disodium salt, hemipentahydrate with a molecular formula of C20H19N5Na2O6•2.5H2O and a molecular weight of 516.41.
 The structural formula is as follows:
 
-Pemetrexed for Injection is supplied as a sterile lyophilized powder for intravenous infusion available in single-dose vials.
-The product is a white to either light yellow or green-yellow lyophilized solid.
-Each 100-mg or 500-mg vial of Pemetrexed for Injection contains pemetrexed disodium equivalent to 100 mg pemetrexed and 106 mg mannitol or 500 mg pemetrexed and 500 mg mannitol, respectively.
+Pemetrexed for Injection, USP is a sterile white to either light yellow or green-yellow lyophilized solid in single-dose vials to be reconstituted for intravenous infusion.
+Each 100-mg vial of pemetrexed for injection, USP contains 100 mg pemetrexed (equivalent to 120.8 mg pemetrexed disodium hemipentahydrate) and 106 mg mannitol.
+Each 500-mg vial of pemetrexed for injection, USP contains 500 mg pemetrexed (equivalent to 604 mg pemetrexed disodium hemipentahydrate) and 500 mg mannitol.
 Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.

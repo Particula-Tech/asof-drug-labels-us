@@ -1,390 +1,301 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Non-Small Cell Lung Cancer (NSCLC) – Combination with Cisplatin
+## 14.1 Non-Squamous NSCLC
 
-A multi-center, randomized, open-label study in 1725 chemonaive patients with Stage IIIb/IV NSCLC was conducted to compare the overall survival following treatment with Pemetrexed for Injection in combination with cisplatin (PC) versus gemcitabine in combination with cisplatin (GC).
-Pemetrexed for Injection was administered intravenously over 10 minutes at a dose of 500 mg/m2 with cisplatin administered intravenously at a dose of 75 mg/m2 after Pemetrexed for Injection administration, on Day 1 of each 21-day cycle.
-Gemcitabine was administered at a dose of 1250 mg/m2 on Day 1 and Day 8, and cisplatin was administered intravenously at a dose of 75 mg/m2 after administration of gemcitabine, on Day 1 of each 21-day cycle.
-Treatment was administered up to a total of 6 cycles, and patients in both treatment arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.3)].
+Initial Treatment in Combination with Pembrolizumab and Platinum
 
-Patient demographics of the intent to treat (ITT) population are shown in Table 10.
-The demographics and disease characteristics were well balanced.
+The efficacy of pemetrexed for injection in combination with pembrolizumab and platinum chemotherapy was investigated in Study KEYNOTE-189 (NCT02578680), a randomized, multicenter, double-blind, active-controlled trial conducted in patients with metastatic non-squamous NSCLC, regardless of PD-L1 tumor expression status, who had not previously received systemic therapy for metastatic disease and in whom there were no EGFR or ALK genomic tumor aberrations.
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
+Randomization was stratified by smoking status (never versus former/current), choice of platinum (cisplatin versus carboplatin), and tumor PD-L1 status (TPS <1% [negative] versus TPS ≥1%).
+Patients were randomized (2:1) to one of the following treatment arms:
 
-Table 10: First-Line Therapy: Summary of Patient Characteristics in Study of NSCLC
+- Pemetrexed for Injection 500 mg/m2, pembrolizumab 200 mg, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by pemetrexed for injection 500 mg/m2 and pembrolizumab 200 mg intravenously every 3 weeks.
+  Pemetrexed for Injection was administered after pembrolizumab and prior to platinum chemotherapy on Day 1.
+- Placebo, pemetrexed for injection 500 mg/m2, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by placebo and pemetrexed for injection 500 mg/m2 intravenously every 3 weeks.
 
-| Patient characteristic | Pemetrexed for Injection plus Cisplatin (PC) (N=862) | Gemcitabine plus Cisplatin (GC) (N=863) |
+Treatment with pemetrexed for injection continued until RECIST v1.1 (modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ)-defined progression of disease as determined by the investigator or unacceptable toxicity.
+
+Patients randomized to placebo, pemetrexed for injection, and platinum chemotherapy were offered pembrolizumab as a single agent at the time of disease progression.
+
+Assessment of tumor status was performed at Week 6, Week 12, and then every 9 weeks thereafter.
+The main efficacy outcome measures were OS and PFS as assessed by BICR RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of five target lesions per organ.
+Additional efficacy outcome measures were ORR and duration of response, as assessed by the BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+
+A total of 616 patients were randomized: 410 patients to the pemetrexed for injection, pembrolizumab, and platinum chemotherapy arm and 206 to the placebo, pemetrexed for injection, and platinum chemotherapy arm.
+The study population characteristics were: median age of 64 years (range: 34 to 84); 49% age 65 or older; 59% male; 94% White and 3% Asian; 56% ECOG performance status of 1; and 18% with history of brain metastases.
+Thirty-one percent had tumor PD-L1 expression TPS <1%.
+Seventy-two percent received carboplatin and 12% were never smokers.
+A total of 85 patients in the placebo, pemetrexed for injection, and chemotherapy arm received an anti-PD-1/PD-L1 monoclonal antibody at the time of disease progression.
+
+The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to pemetrexed for injection in combination with pembrolizumab and platinum chemotherapy compared with placebo, pemetrexed for injection, and platinum chemotherapy (see Table 10 and Figure 1).
+
+Table 10: Efficacy Results of KEYNOTE-189
+
+| Endpoint | Pemetrexed for Injection Pembrolizumab Platinum Chemotherapy n=410 | Placebo Pemetrexed for Injection Platinum Chemotherapy n=206 |
 | --- | --- | --- |
-| Age (yrs) |  |  |
-| Median (range) | 61.1 (28.8-83.2) | 61.0 (26.4-79.4) |
-| Gender |  |  |
-| Male/Female | 70.2%/29.8% | 70.1%/29.9% |
-| Origin |  |  |
-| Caucasian | 669 (77.6%) | 680 (78.8%) |
-| Hispanic | 27 (3.1%) | 23 (2.7%) |
-| Asian | 146 (16.9%) | 141 (16.3%) |
-| African descent | 18 (2.1%) | 18 (2.1%) |
-| Stage at Entry |  |  |
-| IIIb/IV | 23.8%/76.2% | 24.3%/75.7% |
-| Histology |  |  |
-| Nonsquamous NSCLCa | 618 (71.7%) | 634 (73.5%) |
-| Adenocarcinoma | 436 (50.6%) | 411 (47.6%) |
-| Large cell | 76 (8.8%) | 77 (8.9%) |
-| Otherb | 106 (12.3%) | 146 (16.9%) |
-| Squamous | 244 (28.3%) | 229 (26.5%) |
-| ECOG PSc,d |  |  |
-| 0/1 | 35.4%/64.6% | 35.6%/64.3% |
-| Smoking Historye |  |  |
-| Ever/never smoker | 83.1%/16.9% | 83.9%/16.1% |
-| a Includes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |
-| b The subgroup of "other" represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |
-| c Eastern Cooperative Oncology Group Performance Status. |  |  |
-| d ECOG PS was not reported for all randomized patients. Percentages are representative of N=861 for the Pemetrexed for Injection plus cisplatin arm, and N=861 for the gemcitabine plus cisplatin arm. |  |  |
-| e Smoking history was collected for 88% of randomized patients (N=757 for the Pemetrexed for Injection plus cisplatin arm and N=759 for the gemcitabine plus cisplatin arm). |  |  |
+| OS |  |  |
+| Number (%) of patients with event | 127 (31%) | 108 (52%) |
+| Median in months (95% CI) | NR (NR, NR) | 11.3 (8.7, 15.1) |
+| Hazard ratioa (95% CI) | 0.49 (0.38, 0.64) |  |
+| p-valueb | <0.0001 |  |
+| PFS |  |  |
+| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
+| Hazard ratioa (95% CI) | 0.52 (0.43, 0.64) |  |
+| p-valueb | <0.0001 |  |
+| ORR |  |  |
+| Overall response ratec (95% CI) | 48% (43, 53) | 19% (14, 25) |
+| Complete response | 0.5% | 0.5% |
+| Partial response | 47% | 18% |
+| p-valued | <0.0001 |  |
+| Duration of Response |  |  |
+| Median in months (range) | 11.2 (1.1+, 18.0+) | 7.8 (2.1+, 16.4+) |
+| a Based on the stratified Cox proportional hazard model. |  |  |
+| b Based on stratified log-rank test. |  |  |
+| c Response: Best objective response as confirmed complete response or partial response. |  |  |
+| d Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status. |  |  |
+| NR = not reached |  |  |
 
-Patients received a median of 5 cycles of treatment in both study arms.
-Patients treated with Pemetrexed for Injection plus cisplatin received a relative dose intensity of 94.8% of the protocol-specified Pemetrexed for Injection dose intensity and 95.0% of the protocol-specified cisplatin dose intensity.
-Patients treated with gemcitabine plus cisplatin received a relative dose intensity of 85.8% of the protocol-specified gemcitabine dose intensity and 93.5% of the protocol-specified cisplatin dose intensity.
+Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189
 
-The primary endpoint in this study was overall survival.
-The median survival time was 10.3 months in the Pemetrexed for Injection plus cisplatin treatment arm and 10.3 months in the gemcitabine plus cisplatin arm, with an adjusted hazard ratio of 0.94.
+Initial Treatment in Combination with Cisplatin
 
-Table 11: First-Line Therapy: Efficacy in NSCLC – ITT Population
+The efficacy of pemetrexed for injection was evaluated in Study JMDB (NCT00087711), a multi-center, randomized (1:1), open-label study conducted in 1725 chemotherapy-naive patients with Stage IIIb/IV NSCLC.
+Patients were randomized to receive pemetrexed for injection with cisplatin or gemcitabine with cisplatin.
+Randomization was stratified by Eastern Cooperative Oncology Group Performance Status (ECOG PS 0 versus 1), gender, disease stage, basis for pathological diagnosis (histopathological/cytopathological), history of brain metastases, and investigative center.
+Pemetrexed for Injection was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21-day cycle.
+Cisplatin was administered intravenously at a dose of 75 mg/m2 approximately 30 minutes after pemetrexed for injection administration on Day 1 of each cycle, gemcitabine was administered at a dose of 1250 mg/m2 on Day 1 and Day 8, and cisplatin was administered intravenously at a dose of 75 mg/m2 approximately 30 minutes after administration of gemcitabine, on Day 1 of each 21-day cycle.
+Treatment was administered up to a total of 6 cycles; patients in both arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.4)].
+The primary efficacy outcome measure was overall survival.
 
-|  | Pemetrexed for Injection plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
+A total of 1725 patients were enrolled with 862 patients randomized to pemetrexed for injection in combination with cisplatin and 863 patients to gemcitabine in combination with cisplatin.
+The median age was 61 years (range 26-83 years), 70% were male, 78% were White, 17% were Asian, 2.9% were Hispanic or Latino, and 2.1% were Black or African American, and <1% were other ethnicities.
+Among patients for whom ECOG PS (n=1722) and smoking history (n=1516) were collected, 65% had an ECOG PS of 1, 36% had an ECOG PS of 0, and 84% were smokers.
+For tumor characteristics, 73% had non-squamous NSCLC and 27% had squamous NSCLC; 76% had Stage IV disease.
+Among 1252 patients with non-squamous NSCLC histology, 68% had a diagnosis of adenocarcinoma, 12% had large cell histology and 20% had other histologic subtypes.
+
+Efficacy results in Study JMDB are presented in Table 11 and Figure 2.
+
+Table 11: Efficacy Results in Study JMDB
+
+| Efficacy Parameter | Pemetrexed for Injection plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
-| Median overall survival (95% CI) | 10.3 mos (9.8-11.2) | 10.3 mos (9.6-10.9) |
-| Adjusted hazard ratio (HR)a,b (95% CI) | 0.94 (0.84-1.05) |  |
-| Median progression-free survival (95% CI) | 4.8 mos (4.6-5.3) | 5.1 mos (4.6-5.5) |
-| Adjusted hazard ratio (HR)a,b (95% CI) | 1.04 (0.94-1.15) |  |
-| Overall response rate (95% CI) | 27.1% (24.2-30.1) | 24.7% (21.8-27.6) |
-| a Adjusted for gender, stage, basis of diagnosis, and performance status. |  |  |
-| b A HR that is less than 1.0 indicates that survival is better in the PC arm than in the GC arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the GC arm than in the PC arm. |  |  |
+| Overall Survival |  |  |
+| Median (months) (95% CI) | 10.3 (9.8-11.2) | 10.3 (9.6-10.9) |
+| Hazard ratio (HR)a,b (95% CI) | 0.94 (0.84-1.05) |  |
+| Progression-Free Survival |  |  |
+| Median (months) (95% CI) | 4.8 (4.6-5.3) | 5.1 (4.6-5.5) |
+| Hazard ratio (HR)a,b (95% CI) | 1.04 (0.94-1.15) |  |
+| Overall Response Rate (95% CI) | 27.1% (24.2-30.1) | 24.7% (21.8-27.6) |
+| a Unadjusted for multiple comparisons. |  |  |
+| b Adjusted for gender, stage, basis of diagnosis, and performance status. |  |  |
 
-Figure 1: Kaplan-Meier Curves for Overall Survival Pemetrexed for Injection plus Cisplatin (PC) versus Gemcitabine plus Cisplatin (GC) in NSCLC – ITT Population.
+Figure 2: Kaplan-Meier Curves for Overall Survival in Study JMDB
 
-A pre-specified analysis of the impact of NSCLC histology on overall survival was examined.
-Clinically relevant differences in survival according to histology were observed and are shown in Table 12.
-This difference in treatment effect for Pemetrexed for Injection based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in the single-agent, second-line study and the maintenance study [see Clinical Studies (14.2, 14.3)].
+In pre-specified analyses assessing the impact of NSCLC histology on overall survival, clinically relevant differences in survival according to histology were observed.
+These subgroup analyses are shown in Table 12 and Figures 3 and 4.
+This difference in treatment effect for pemetrexed for injection based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in Studies JMEN and JMEI.
 
-Table 12: First-Line Therapy: Overall Survival in NSCLC Histologic Subgroups
+Table 12: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
 
-| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR)a,b,c (95% CI) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pemetrexed for Injection plus Cisplatin |  | Gemcitabine plus Cisplatin |  |  |  |  |
-| Nonsquamous NSCLCd (N=1252) | 11.0 (10.1-12.5) | N=618 | 10.1 (9.3-10.9) | N=634 | 0.84 (0.74-0.96) | 0.84 (0.74-0.96) |
-| Adenocarcinoma (N=847) | 12.6 (10.7-13.6) | N=436 | 10.9 (10.2-11.9) | N=411 | 0.84 (0.71-0.98) | 0.84 (0.71-0.99) |
-| Large Cell (N=153) | 10.4 (8.6-14.1) | N=76 | 6.7 (5.5-9.0) | N=77 | 0.68 (0.48-0.97) | 0.67 (0.48-0.96) |
-| Othere (N=252) | 8.6 (6.8-10.2) | N=106 | 9.2 (8.1-10.6) | N=146 | 1.12 (0.84-1.49) | 1.08 (0.81-1.45) |
-| Squamous Cell (N=473) | 9.4 (8.4-10.2) | N=244 | 10.8 (9.5-12.1) | N=229 | 1.22 (0.99-1.50) | 1.23 (1.00-1.51) |
-| a A HR that is less than 1.0 indicates that survival is better in the PC arm than in the GC arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the GC arm than in the PC arm. |  |  |  |  |  |  |
-| b Unadjusted for multiple comparisons. |  |  |  |  |  |  |
-| c HRs adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |  |  |  |  |
-| d Includes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |  |  |  |  |
-| e The subgroup of "other" represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |  |  |  |  |
-
-Figure 2: Kaplan-Meier Curves for Overall Survival Pemetrexed for Injection plus Cisplatin (PC) versus Gemcitabine plus Cisplatin (GC) in NSCLC – Nonsquamous NSCLC and Squamous Cell NSCLC.
-
-## 14.2 Non-Small Cell Lung Cancer – Maintenance
-
-Pemetrexed for Injection Maintenance Following Non-Pemetrexed for Injection Containing Platinum-Based, Induction Therapy
-
-A multi-center, randomized, double-blind, placebo-controlled study was conducted in 663 patients with Stage IIIb/IV NSCLC who did not progress after four cycles of platinum-based chemotherapy.
-Patients who did not progress were randomized 2:1 to receive Pemetrexed for Injection or placebo immediately following platinum-based chemotherapy.
-Of the randomized patients, 47.2% versus 52.7% achieved a complete or partial response to induction therapy and 51.9% versus 47.3% had stable disease after induction therapy in the Pemetrexed for Injection and placebo arms, respectively.
-Pemetrexed for Injection was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21-day cycle, until disease progression.
-Patients in both study arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.3)].
-
-The study was designed to demonstrate superior progression-free survival and overall survival of Pemetrexed for Injection over placebo.
-Progression-free survival (PFS) was assessed by independent review.
-Patient characteristics of the intent to treat (ITT) population are shown in Table 13.
-The demographics and baseline disease characteristics were well balanced between study arms.
-
-Table 13: Maintenance Therapy Following Platinum-Based Induction Therapy: Summary of Patient Characteristics in Study of NSCLC
-
-| Patient characteristic | Pemetrexed for Injection (N=441) | Placebo (N=222) |
+| Histologic Subgroups | Pemetrexed for Injection plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
-| Age (yrs) |  |  |
-| Median (range) | 60.6 (25.6-82.6) | 60.4 (35.4-78.5) |
-| Gender |  |  |
-| Male/Female | 73.0%/27.0% | 72.5%/27.5% |
-| Ethnic Origin |  |  |
-| Caucasian | 279 (63.3%) | 149 (67.1%) |
-| East Asian | 104 (23.6%) | 50 (22.5%) |
-| Other | 58 (13.2%) | 23 (10.4%) |
-| Stage at Entrya |  |  |
-| IIIb/IV | 18.0%/82.0% | 21.2%/78.8% |
-| Histology (%) |  |  |
-| Nonsquamous NSCLCb | 325 (73.7%) | 156 (70.3%) |
-| Adenocarcinoma | 222 (50.3%) | 106 (47.7%) |
-| Large cell | 10 (2.3%) | 10 (4.5%) |
-| Otherc | 93 (21.1%) | 40 (18.0%) |
-| Squamous | 116 (26.3%) | 66 (29.7%) |
-| ECOG PSd |  |  |
-| 0/1 | 40.1%/59.9% | 38.3%/61.7% |
-| Smoking Historye |  |  |
-| Ever/never smoker | 74.1%/25.9% | 71.5%/28.5% |
-| Time from start of induction therapy to study randomization (months) |  |  |
-| Median (range) | 3.25 (1.6-4.8) | 3.29 (2.7-5.1) |
-| a Stage at Entry was not reported for all randomized patients. Percentages are representative of N=440 for the Pemetrexed for Injection arm and N=222 for the placebo arm. |  |  |
-| b Includes patients with adenocarcinoma, large cell, and other histologic diagnoses. |  |  |
-| c The subgroup of “Other” represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |
-| d Eastern Cooperative Oncology Group Performance Status (ECOG PS) was not reported for all randomized patients. Percentages are representative of N=439 for the Pemetrexed for Injection arm, and N=222 for the placebo arm. |  |  |
-| e Smoking history was not reported for all randomized patients. Percentages are representative of N=437 for the Pemetrexed for Injection arm and N=221 for the placebo arm. |  |  |
+| Non-squamous NSCLC (N=1252) |  |  |
+| Median (months) (95% CI) | 11.0 (10.1-12.5) | 10.1 (9.3-10.9) |
+| HRa,b (95% CI) | 0.84 (0.74-0.96) |  |
+| Adenocarcinoma (N=847) |  |  |
+| Median (months) (95% CI) | 12.6 (10.7-13.6) | 10.9 (10.2-11.9) |
+| HRa,b (95% CI) | 0.84 (0.71-0.99) |  |
+| Large Cell (N=153) |  |  |
+| Median (months) (95% CI) | 10.4 (8.6-14.1) | 6.7 (5.5-9.0) |
+| HRa,b (95% CI) | 0.67 (0.48-0.96) |  |
+| Non-squamous, not otherwise specified (N=252) |  |  |
+| Median (months) (95% CI) | 8.6 (6.8-10.2) | 9.2 (8.1-10.6) |
+| HRa,b (95% CI) | 1.08 (0.81-1.45) |  |
+| Squamous Cell (N=473) |  |  |
+| Median (months) (95% CI) | 9.4 (8.4-10.2) | 10.8 (9.5-12.1) |
+| HRa,b (95% CI) | 1.23 (1.00-1.51) |  |
+| a Unadjusted for multiple comparisons. |  |  |
+| b Adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |
 
-Patients received a median of 5 cycles of Pemetrexed for Injection and 3.5 cycles of placebo.
-Patients randomized to Pemetrexed for Injection received a relative dose intensity of 95.7%.
-A total of 213 patients (48.3%) completed ≥6 cycles and a total of 98 patients (22.6%) completed ≥10 cycles of treatment with Pemetrexed for Injection.
+Figure 3: Kaplan-Meier Curves for Overall Survival in Non-squamous NSCLC in Study JMDB
 
-In the overall study population, Pemetrexed for Injection was statistically superior to placebo in terms of overall survival (OS) (median 13.4 months versus 10.6 months, HR=0.79 (95% CI: 0.65-0.95), p-value=0.012) and PFS (median 4.0 months versus 2.0 months, HR=0.60 (95% CI: 0.49-0.73), p-value<0.00001).
-A difference in treatment outcomes was observed according to histologic classification.
-For the population of patients with nonsquamous NSCLC, Pemetrexed for Injection was superior to placebo for OS (median 15.5 months versus 10.3 months, HR=0.70 (95% CI: 0.56-0.88)) and PFS (median 4.4 months versus 1.8 months, HR=0.47 (95% CI: 0.37-0.60)).
-For the population of patients with squamous NSCLC, Pemetrexed for Injection did not improve OS compared to placebo (median 9.9 months versus 10.8 months, HR=1.07 (95% CI: 0.77-1.50)) or PFS (median 2.4 months versus 2.5 months, HR=1.03 (95% CI: 0.71-1.49)).
-This difference in treatment effect for Pemetrexed for Injection based on histology demonstrating lack of benefit in squamous cell histology was also observed in the first-line and second-line studies.
-[see Clinical Studies (14.1, 14.3)]
+Figure 4: Kaplan-Meier Curves for Overall Survival in Squamous NSCLC in Study JMDB
 
-Efficacy results for the overall patient population are presented in Table 14 and Figure 3, and efficacy results by pre-specified histologic subgroups are presented in Table 15 and Figure 4, below.
+Maintenance Treatment Following First-line Non-Pemetrexed for Injection Containing Platinum-Based Chemotherapy
 
-Table 14: Maintenance Therapy Following Platinum-Based Induction Therapy: Efficacy of Pemetrexed for Injection versus Placebo in NSCLC – ITT Population
+The efficacy of pemetrexed for injection as maintenance therapy following first-line platinum-based chemotherapy was evaluated in Study JMEN (NCT00102804), a multicenter, randomized (2:1), double-blind, placebo-controlled study conducted in 663 patients with Stage IIIb/IV NSCLC who did not progress after four cycles of platinum-based chemotherapy.
+Patients were randomized to receive pemetrexed for injection 500 mg/m2 intravenously every 21 days or placebo until disease progression or intolerable toxicity.
+Patients in both study arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.4)].
+Randomization was carried out using a minimization approach [Pocock and Simon (1975)] using the following factors: gender, ECOG PS (0 versus 1), response to prior chemotherapy (complete or partial response versus stable disease), history of brain metastases (yes versus no), non-platinum component of induction therapy (docetaxel versus gemcitabine versus paclitaxel), and disease stage (IIIb versus IV).
+The major efficacy outcome measures were progression-free survival based on assessment by independent review and overall survival; both were measured from the date of randomization in Study JMEN.
 
-| Efficacy Parametera,b | Pemetrexed for Injection (N=441) | Placebo (N=222) |
+A total of 663 patients were enrolled with 441 patients randomized to pemetrexed for injection and 222 patients randomized to placebo.
+The median age was 61 years (range 26-83 years); 73% were male; 65% were White, 32% were Asian, 2.9% were Hispanic or Latino, and <2% were other ethnicities; 60% had an ECOG PS of 1; and 73% were current or former smokers.
+Median time from initiation of platinum-based chemotherapy to randomization was 3.3 months (range 1.6 to 5.1 months) and 49% of the population achieved a partial or complete response to first-line, platinum-based chemotherapy.
+With regard to tumor characteristics, 81% had Stage IV disease, 73% had non-squamous NSCLC and 27% had squamous NSCLC.
+Among the 481 patients with non-squamous NSCLC, 68% had adenocarcinoma, 4% had large cell, and 28% had other histologies.
+
+Efficacy results are presented in Table 13 and Figure 5.
+
+Table 13: Efficacy Results in Study JMEN
+
+| Efficacy Parameter | Pemetrexed for Injection | Placebo |
 | --- | --- | --- |
-| Median overall survivalc (95% CI) | 13.4 mos (11.9-15.9) | 10.6 mos (8.7-12.0) |
-| Hazard ratio (HR)c (95% CI) | 0.79 (0.65-0.95) |  |
+| Overall survival | N=441 | N=222 |
+| Median (months) (95% CI) | 13.4 (11.9-15.9) | 10.6 (8.7-12.0) |
+| Hazard ratioa (95% CI) | 0.79 (0.65-0.95) |  |
 | p-value | p=0.012 |  |
-| Median progression-free survival (95% CI) | 4.0 mos (3.1-4.4) | 2.0 mos (1.5-2.8) |
-| Hazard ratio (HR)c (95% CI) | 0.60 (0.49-0.73) |  |
+| Progression-free survival per independent review | N=387 | N=194 |
+| Median (months) (95% CI) | 4.0 (3.1-4.4) | 2.0 (1.5-2.8) |
+| Hazard ratioa (95% CI) | 0.60 (0.49-0.73) |  |
 | p-value | p<0.00001 |  |
-| a PFS and OS were calculated from time of randomization, after completion of 4 cycles of induction platinum-based chemotherapy. |  |  |
-| b Values for PFS given based on independent review (Pemetrexed for Injection N=387, Placebo N=194). |  |  |
-| c Unadjusted hazard ratios are provided. A HR <1.0 indicates that the result is better in the Pemetrexed for Injection arm than in the placebo arm. |  |  |
+| a Hazard ratios are adjusted for multiplicity but not for stratification variables. |  |  |
 
-Table 15: Maintenance Therapy Following Platinum-Based Induction Therapy: Efficacy in NSCLC by Histologic Subgroupsa
+Figure 5: Kaplan-Meier Curves for Overall Survival in Study JMEN
 
-|  | Overall Survival |  | Progression-Free Survivalb |  |
+The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 14 and Figures 6 and 7.
+
+Table 14: Efficacy Results in Study JMEN by Histologic Subgroup
+
+| Efficacy Parameter | Overall Survival |  | Progression-Free Survival Per Independent Review |  |
 | --- | --- | --- | --- | --- |
-| Pemetrexed for Injection | Placebo | Pemetrexed for Injection | Placebo |  |
-| Median (months) | Median (months) | Median (months) | Median (months) |  |
-| HRc (95% CI) |  | HRc (95% CI) |  |  |
-| Nonsquamous NSCLCd | 15.5 | 10.3 | 4.4 | 1.8 |
-| N=481 | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |
-| Adenocarcinoma | 16.8 | 11.5 | 4.6 | 2.7 |
-| N=328 | 0.73 (0.56-0.96) |  | 0.51 (0.38-0.68) |  |
-| Large cell carcinoma | 8.4 | 7.9 | 4.5 | 1.5 |
-| N=20 | 0.98 (0.36-2.65) |  | 0.40 (0.12-1.29) |  |
-| Othere | 11.3 | 7.7 | 4.1 | 1.6 |
-| N=133 | 0.61 (0.40-0.94) |  | 0.44 (0.28-0.68) |  |
-| Squamous cell | 9.9 | 10.8 | 2.4 | 2.5 |
-| N=182 | 1.07 (0.77-1.50) |  | 1.03 (0.71-1.49) |  |
-| a PFS and OS were calculated from time of randomization, after completion of 4 cycles of induction platinum-based chemotherapy. All results unadjusted for multiple comparisons. |  |  |  |  |
-| b Values for PFS are given based on independent review (Pemetrexed for Injection N=387, Placebo N=194). |  |  |  |  |
-| c Unadjusted hazard ratios are provided. A HR <1.0 indicates that the result is better in the Pemetrexed for Injection arm than in the placebo arm. A HR >1.0 indicates that the result is better in the placebo arm than in the Pemetrexed for Injection arm. |  |  |  |  |
-| d Includes patients with adenocarcinoma, large cell carcinoma, and other histology. |  |  |  |  |
-| e The subgroup of “Other” represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |  |  |
+| Pemetrexed for Injection (N=441) | Placebo (N=222) | Pemetrexed for Injection (N=387) | Placebo (N=194) |  |
+| Non-squamous NSCLC (n=481) |  |  |  |  |
+| Median (months) | 15.5 | 10.3 | 4.4 | 1.8 |
+| HRa | 0.70 |  | 0.47 |  |
+| (95% CI) | (0.56-0.88) |  | (0.37-0.60) |  |
+| Adenocarcinoma (n=328) |  |  |  |  |
+| Median (months) | 16.8 | 11.5 | 4.6 | 2.7 |
+| HRa | 0.73 |  | 0.51 |  |
+| (95% CI) | (0.56-0.96) |  | (0.38-0.68) |  |
+| Large cell carcinoma (n=20) |  |  |  |  |
+| Median (months) | 8.4 | 7.9 | 4.5 | 1.5 |
+| HRa | 0.98 |  | 0.40 |  |
+| (95% CI) | (0.36-2.65) |  | (0.12-1.29) |  |
+| Otherb (n=133) |  |  |  |  |
+| Median (months) | 11.3 | 7.7 | 4.1 | 1.6 |
+| HRa | 0.61 |  | 0.44 |  |
+| (95% CI) | (0.40-0.94) |  | (0.28-0.68) |  |
+| Squamous cell NSCLC (n=182) |  |  |  |  |
+| Median (months) | 9.9 | 10.8 | 2.4 | 2.5 |
+| HRa | 1.07 |  | 1.03 |  |
+| (95% CI) | (0.77-1.50) |  | (0.71-1.49) |  |
+| a Hazard ratios are not adjusted for multiplicity |  |  |  |  |
+| b Primary diagnosis of NSCLC not specified as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |  |  |
 
-Figure 3: Kaplan-Meier Curve for Overall Survival Pemetrexed for Injection (P) versus Placebo (P) in NSCLC – ITT Population.
+Figure 6: Kaplan-Meier Curves for Overall Survival in Non-squamous NSCLC in Study JMEN
 
-Figure 4: Kaplan-Meier Curves for Overall Survival Pemetrexed for Injection versus Placebo in NSCLC – Nonsquamous NSCLC and Squamous Cell NSCLC.
+Figure 7: Kaplan-Meier Curves for Overall Survival in Squamous NSCLC in Study JMEN
 
-Continuation of Pemetrexed for Injection as Maintenance Following Pemetrexed for Injection Plus Platinum Induction Therapy
+Maintenance Treatment Following First-line Pemetrexed for Injection Plus Platinum Chemotherapy
 
-A multi-center, randomized, double-blind, placebo-controlled study was conducted to evaluate continuation of Pemetrexed for Injection in patients with Stage IIIb/IV nonsquamous NSCLC.
-Patients completing induction treatment of four cycles of Pemetrexed for Injection plus cisplatin with stable disease or better and PS 0/1 were randomized (2:1) to maintenance treatment with Pemetrexed for Injection or placebo.
-Randomization was stratified by response to induction (complete response (CR)/partial response (PR) versus stable disease (SD)), disease stage (IIIb versus IV), and ECOG performance status (0 versus 1).
-Pemetrexed for Injection was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21-day cycle and continued until disease progression.
-Patients in both study arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.3)].
-The main efficacy outcome was investigator-assessed progression-free survival.
+The efficacy of pemetrexed for injection as maintenance therapy following first-line platinum-based chemotherapy was also evaluated in PARAMOUNT (NCT00789373), a multi-center, randomized (2:1), double-blind, placebo-controlled study conducted in patients with Stage IIIb/IV non-squamous NSCLC who had completed four cycles of pemetrexed for injection in combination with cisplatin and achieved a complete response (CR) or partial response (PR) or stable disease (SD).
+Patients were required to have an ECOG PS of 0 or 1.
+Patients were randomized to receive pemetrexed for injection 500 mg/m2 intravenously every 21 days or placebo until disease progression.
+Randomization was stratified by response to pemetrexed for injection in combination with cisplatin induction therapy (CR or PR versus SD), disease stage (IIIb versus IV), and ECOG PS (0 versus 1).
+Patients in both arms received folic acid, vitamin B12, and dexamethasone.
+The main efficacy outcome measure was investigator-assessed progression-free survival (PFS) and an additional efficacy outcome measure was overall survival (OS); PFS and OS were measured from the time of randomization.
 
-A total of 539 patients were randomized; all completed four cycles of Pemetrexed for Injection and cisplatin induction prior to randomization.
-Of the randomized patients, 44% versus 42% achieved a complete or partial response to induction therapy and 53% versus 53% had stable disease after induction treatment in the Pemetrexed for Injection or the placebo arms respectively.
+A total of 539 patients were enrolled with 359 patients randomized to pemetrexed for injection and 180 patients randomized to placebo.
+The median age was 61 years (range 32 to 83 years); 58% were male; 95% were White, 4.5% were Asian, and <1% were Black or African American; 67% had an ECOG PS of 1; 78% were current or former smokers; and 43% of the population achieved a partial or complete response to first-line, platinum-based chemotherapy.
+With regard to tumor characteristics, 91% had Stage IV disease, 87% had adenocarcinoma, 7% had large cell, and 6% had other histologies.
 
-Patient demographics of the intent to treat (ITT) population are shown in Table 16.
+Efficacy results for PARAMOUNT are presented in Table 15 and Figure 8.
 
-Table 16: Pemetrexed for Injection as Maintenance Therapy Following Pemetrexed for Injection Plus Cisplatin Induction Therapy: Summary of Patient Characteristics in Study of Nonsquamous NSCLC
+Table 15: Efficacy Results in PARAMOUNT
 
-| Patient characteristic | Pemetrexed for Injection (N=359) | Placebo (N=180) |
+| Efficacy Parameter | Pemetrexed for Injection (N=359) | Placebo (N=180) |
 | --- | --- | --- |
-| Age (yrs) |  |  |
-| Median | 61.0 | 62.4 |
-| Range | 31.9-78.7 | 34.9-83.3 |
-| Gender (%) |  |  |
-| Male | 201 (56%) | 112 (62%) |
-| Female | 158 (44%) | 68 (38%) |
-| Ethnic Origin (%) |  |  |
-| Caucasian | 339 (94%) | 171 (95%) |
-| Asian | 16 (4.5%) | 8 (4.4%) |
-| African | 4 (1.1%) | 1 (0.6%) |
-| Stage at Entry |  |  |
-| IIIb | 31 (9%) | 18 (10%) |
-| IV | 328 (91%) | 162 (90%) |
-| Histology (%) |  |  |
-| Nonsquamous NSCLCa |  |  |
-| Adenocarcinoma | 310 (86%) | 161 (89%) |
-| Large cell | 24 (7%) | 12 (7%) |
-| Otherb | 25 (7%) | 7 (3.9%) |
-| ECOG PS (%) |  |  |
-| 0 | 113 (32%) | 60 (33%) |
-| 1 | 245 (68%) | 118 (66%) |
-| Smoking Historyc |  |  |
-| Ever | 274 (76%) | 144 (80%) |
-| Never smoker | 83 (23%) | 34 (19%) |
-| a Histological or cytological diagnosis of NSCLC defined as other than predominantly squamous cell histology (squamous cell and/or mixed small cell, non-small cell histology were not permitted on this study). |  |  |
-| b The subcategory of “Other” represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma or large-cell carcinoma. |  |  |
-| c Smoking history was not reported for all randomized patients. |  |  |
-
-Patients received a median of four cycles of Pemetrexed for Injection maintenance or placebo.
-The percentages of patients that received post-study treatment were similar (64% in the Pemetrexed for Injection arm and 72% in the placebo arm).
-
-The trial showed a statistically significant improvement in progression-free survival and in overall survival for patients randomized to Pemetrexed for Injection maintenance.
-Efficacy results are presented in Table 17 and Figure 5.
-
-Table 17: Pemetrexed for Injection Maintenance Therapy Following Pemetrexed for Injection Plus Cisplatin Induction Therapy: Efficacy of Pemetrexed for Injection versus Placebo in Nonsquamous NSCLC
-
-| Efficacy Parametera,b | Pemetrexed for Injection (N=359) | Placebo (N=180) |
-| --- | --- | --- |
-| Median overall survivalc (95% CI) | 13.9 mos (12.8-16.0) | 11.0 mos (10.0-12.5) |
-| Hazard ratio (HR)c (95% CI) | 0.78 (0.64-0.96) |  |
+| Overall survival |  |  |
+| Median (months) (95% CI) | 13.9 (12.8-16.0) | 11.0 (10.0-12.5) |
+| Hazard ratio (HR)a (95% CI) | 0.78 (0.64-0.96) |  |
 | p-value | p=0.02 |  |
-| Median progression-free survival (95% CI) | 4.1 mos (3.2-4.6) | 2.8 mos (2.6-3.1) |
-| Hazard ratio (HR)c (95% CI) | 0.62 (0.49-0.79) |  |
+| Progression-free survivalb |  |  |
+| Median (months) (95% CI) | 4.1 (3.2-4.6) | 2.8 (2.6-3.1) |
+| Hazard ratio (HR)a (95% CI) | 0.62 (0.49-0.79) |  |
 | p-value | p<0.0001 |  |
-| a PFS and OS were calculated from time of randomization, after completion of 4 cycles of Pemetrexed for Injection plus cisplatin induction therapy. |  |  |
-| b Values for PFS given based on investigator assessment. |  |  |
-| c A hazard ratio of less than 1 indicates that the maintenance treatment with pemetrexed is associated with lower risk of progression or death compared to treatment with placebo. |  |  |
+| a Hazard ratios are adjusted for multiplicity but not for stratification variables. |  |  |
+| b Based on investigator's assessment. |  |  |
 
-Figure 5: Kaplan-Meier Curves for Overall Survival Pemetrexed for Injection versus Placebo in Nonsquamous NSCLC Following Pemetrexed for Injection Plus Cisplatin Induction Therapy.
+Figure 8: Kaplan-Meier Curves for Overall Survival in PARAMOUNT
 
-## 14.3 Non-Small Cell Lung Cancer – After Prior Chemotherapy
+Treatment of Recurrent Disease After Prior Chemotherapy
 
-A multi-center, randomized, open label study was conducted in patients with Stage III or IV NSCLC after prior chemotherapy to compare the overall survival following treatment with Pemetrexed for Injection versus docetaxel.
-Pemetrexed for Injection was administered intravenously over 10 minutes at a dose of 500 mg/m2 and docetaxel was administered at 75 mg/m2 as a 1-hour intravenous infusion.
-Both drugs were given on Day 1 of each 21-day cycle.
-All patients treated with Pemetrexed for Injection received vitamin supplementation with folic acid and vitamin B12.
-The study was intended to show either an overall survival superiority or non-inferiority of Pemetrexed for Injection to docetaxel.
-Patient demographics of the intent to treat (ITT) population are shown in Table 18.
+The efficacy of pemetrexed for injection was evaluated in Study JMEI (NCT00004881), a multicenter, randomized (1:1), open-label study conducted in patients with Stage III or IV NSCLC that had recurred or progressed following one prior chemotherapy regimen for advanced disease.
+Patients were randomized to receive pemetrexed for injection 500 mg/m2 intravenously or docetaxel 75 mg/m2 as a 1-hour intravenous infusion once every 21 days.
+Patients randomized to pemetrexed for injection also received folic acid and vitamin B12.
+The study was designed to show that overall survival with pemetrexed for injection was non-inferior to docetaxel, as the major efficacy outcome measure, and that overall survival was superior for patients randomized to pemetrexed for injection compared to docetaxel, as a secondary outcome measure.
 
-Table 18: Second-Line Therapy: Summary of Patient Characteristics in NSCLC Study
+A total of 571 patients were enrolled with 283 patients randomized to pemetrexed for injection and 288 patients randomized to docetaxel.
+The median age was 58 years (range 22 to 87 years); 72% were male; 71% were White, 24% were Asian, 2.8% were Black or African American, 1.8% were Hispanic or Latino, and <2% were other ethnicities; 88% had an ECOG PS of 0 or 1.
+With regard to tumor characteristics, 75% had Stage IV disease; 53% had adenocarcinoma, 30% had squamous histology; 8% large cell; and 9% had other histologic subtypes of NSCLC.
 
-| Patient characteristic | Pemetrexed for Injection (N=283) | Docetaxel (N=288) |
+The efficacy results in the overall population and in subgroup analyses based on histologic subtype are provided in Tables 16 and 17, respectively.
+Study JMEI did not show an improvement in overall survival in the intent-to-treat population.
+In subgroup analyses, there was no evidence of a treatment effect on survival in patients with squamous NSCLC; the absence of a treatment effect in patients with NSCLC of squamous histology was also observed Studies JMDB and JMEN [see Clinical Studies (14.1)].
+
+Table 16: Efficacy Results in Study JMEI
+
+| Efficacy Parameter | Pemetrexed for Injection (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
-| Age (yrs) |  |  |
-| Median (range) | 59 (22-81) | 57 (28-87) |
-| Gender (%) |  |  |
-| Male/Female | 68.6/31.4 | 75.3/24.7 |
-| Stage at Entry (%) |  |  |
-| III/IV | 25.1/74.9 | 25.3/74.7 |
-| Diagnosis/Histology (%) |  |  |
-| Adenocarcinoma | 154 (54.4) | 142 (49.3) |
-| Squamous | 78 (27.6) | 94 (32.6) |
-| Bronchoalveolar | 4 (1.4) | 1 (0.3) |
-| Other | 47 (16.6) | 51 (17.7) |
-| Performance Status (%)a |  |  |
-| 0-1 | 234 (88.6) | 240 (87.6) |
-| 2 | 30 (11.4) | 34 (12.4) |
-| a Performance status was not reported for all randomized patients. Percentages are representative of N=264 for the Pemetrexed for Injection arm and N=274 for the docetaxel arm. |  |  |
-
-The primary endpoint in this study was overall survival.
-The median survival time was 8.3 months in the Pemetrexed for Injection treatment arm and 7.9 months in the docetaxel arm, with a hazard ratio of 0.99 (see Table 19).
-The study did not show an overall survival superiority of Pemetrexed for Injection.
-
-Table 19: Efficacy of Pemetrexed for Injection versus Docetaxel in Non-Small Cell Lung Cancer – ITT Population
-
-|  | Pemetrexed for Injection (N=283) | Docetaxel (N=288) |
-| --- | --- | --- |
-| Median overall survival (95% CI) | 8.3 mos (7.0-9.4) | 7.9 mos (6.3-9.2) |
-| Hazard ratio (HR) (95% CI) | 0.99 (0.82-1.20) |  |
-| Median progression-free survival (95% CI) | 2.9 mos (2.4-3.1) | 2.9 mos (2.7-3.4) |
-| Hazard ratio (HR) (95% CI) | 0.97 (0.82-1.16) |  |
+| Overall survival |  |  |
+| Median (months) (95% CI) | 8.3 (7.0-9.4) | 7.9 (6.3-9.2) |
+| Hazard ratioa (95% CI) | 0.99 (0.82-1.20) |  |
+| Progression-free survival |  |  |
+| Median (months) (95% CI) | 2.9 (2.4-3.1) | 2.9 (2.7-3.4) |
+| Hazard ratioa (95% CI) | 0.97 (0.82-1.16) |  |
 | Overall response rate (95% CI) | 8.5% (5.2-11.7) | 8.3% (5.1-11.5) |
+| a Hazard ratios are not adjusted for multiplicity or for stratification variables. |  |  |
 
-A retrospective analysis of the impact of NSCLC histology on overall survival was examined.
-Clinically relevant differences in survival according to histology were observed and are shown in Table 20.
-This difference in treatment effect for Pemetrexed for Injection based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in the first-line combination study and in the maintenance study [see Clinical Studies (14.1, 14.2)].
+Table 17: Exploratory Efficacy Analyses by Histologic Subgroup in Study JMEI
 
-Table 20: Second-Line Therapy: Overall Survival of Pemetrexed for Injection versus Docetaxel in NSCLC by Histologic Subgroups
+| Histologic Subgroups | Pemetrexed for Injection (N=283) | Docetaxel (N=288) |
+| --- | --- | --- |
+| Non-squamous NSCLC (N=399) |  |  |
+| Median (months) (95% CI) | 9.3 (7.8-9.7) | 8.0 (6.3-9.3) |
+| HRa (95% CI) | 0.89 (0.71-1.13) |  |
+| Adenocarcinoma (N=301) |  |  |
+| Median (months) (95% CI) | 9.0 (7.6-9.6) | 9.2 (7.5-11.3) |
+| HRa (95% CI) | 1.09 (0.83-1.44) |  |
+| Large Cell (N=47) |  |  |
+| Median (months) (95% CI) | 12.8 (5.8-14.0) | 4.5 (2.3-9.1) |
+| HRa (95% CI) | 0.38 (0.18-0.78) |  |
+| Otherb (N=51) |  |  |
+| Median (months) (95% CI) | 9.4 (6.0-10.1) | 7.9 (4.0-8.9) |
+| HRa (95% CI) | 0.62 (0.32-1.23) |  |
+| Squamous NSCLC (N=172) |  |  |
+| Median (months) (95% CI) | 6.2 (4.9-8.0) | 7.4 (5.6-9.5) |
+| HRa (95% CI) | 1.32 (0.93-1.86) |  |
+| a Hazard ratio unadjusted for multiple comparisons. |  |  |
+| b Primary diagnosis of NSCLC not specified as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |
 
-| Histology Subgroup | Median Overall Survival in Months (95% CI) |  |  |  | Unadjusted Hazard Ratio (HR)a,b (95% CI) | Adjusted Hazard Ratio (HR)a,b,c (95% CI) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pemetrexed for Injection |  | Docetaxel |  |  |  |  |
-| Nonsquamous NSCLCd (N=399) | 9.3 (7.8-9.7) | N=205 | 8.0 (6.3-9.3) | N=194 | 0.89 (0.71-1.13) | 0.78 (0.61-1.00) |
-| Adenocarcinoma (N=301) | 9.0 (7.6-9.6) | N=158 | 9.2 (7.5-11.3) | N=143 | 1.09 (0.83-1.44) | 0.92 (0.69-1.22) |
-| Large Cell (N=47) | 12.8 (5.8-14.0) | N=18 | 4.5 (2.3-9.1) | N=29 | 0.38 (0.18-0.78) | 0.27 (0.11-0.63) |
-| Othere (N=51) | 9.4 (6.0-10.1) | N=29 | 7.9 (4.0-8.9) | N=22 | 0.62 (0.32-1.23) | 0.57 (0.27-1.20) |
-| Squamous Cell (N=172) | 6.2 (4.9-8.0) | N=78 | 7.4 (5.6-9.5) | N=94 | 1.32 (0.93-1.86) | 1.56 (1.08-2.26) |
-| a A HR that is less than 1.0 indicates that survival is better in the Pemetrexed for Injection arm than in the docetaxel arm. Alternatively, a HR that is greater than 1.0 indicates survival is better in the docetaxel arm than in the Pemetrexed for Injection arm. |  |  |  |  |  |  |
-| b Unadjusted for multiple comparisons. |  |  |  |  |  |  |
-| c HRs adjusted for ECOG PS, time since prior chemotherapy, disease stage, and gender. |  |  |  |  |  |  |
-| d Includes adenocarcinoma, large cell, and other histologies except those with squamous cell type. |  |  |  |  |  |  |
-| e The subgroup of “other” represents patients with a primary diagnosis of NSCLC whose disease did not clearly qualify as adenocarcinoma, squamous cell carcinoma, or large cell carcinoma. |  |  |  |  |  |  |
+## 14.2 Mesothelioma
 
-## 14.4 Malignant Pleural Mesothelioma
+The efficacy of pemetrexed for injection was evaluated in Study JMCH (NCT00005636), a multicenter, randomized (1:1), single-blind study conducted in patients with MPM who had received no prior chemotherapy.
+Patients were randomized (n=456) to receive pemetrexed for injection 500 mg/m2 intravenously over 10 minutes followed 30 minutes later by cisplatin 75 mg/m2 intravenously over two hours on Day 1 of each 21-day cycle or to receive cisplatin 75 mg/m2 intravenously over 2 hours on Day 1 of each 21-day cycle; treatment continued until disease progression or intolerable toxicity.
+The study was modified after randomization and treatment of 117 patients to require that all patients receive folic acid 350 mcg to 1000 mcg daily beginning 1 to 3 weeks prior to the first dose of pemetrexed for injection and continuing until 1 to 3 weeks after the last dose, vitamin B12 1000 mcg intramuscularly 1 to 3 weeks prior to first dose of pemetrexed for injection and every 9 weeks thereafter, and dexamethasone 4 mg orally, twice daily, for 3 days starting the day prior to each pemetrexed for injection dose.
+Randomization was stratified by multiple baseline variables including KPS, histologic subtype (epithelial, mixed, sarcomatoid, other), and gender.
+The major efficacy outcome measure was overall survival and additional efficacy outcome measures were time to disease progression, overall response rate, and response duration.
+A total of 448 patients received at least one dose of protocol-specified therapy; 226 patients were randomized to and received at least one dose of pemetrexed for injection plus cisplatin, and 222 patients were randomized to and received cisplatin.
+Among the 226 patients who received cisplatin with pemetrexed for injection, 74% received full supplementation with folic acid and vitamin B12 during study therapy, 14% were never supplemented, and 12% were partially supplemented.
+Across the study population, the median age was 61 years (range: 20 to 86 years); 81% were male; 92% were White, 5% were Hispanic or Latino, 3.1% were Asian, and <1% were other ethnicities; and 54% had a baseline KPS score of 90-100% and 46% had a KPS score of 70-80%.
+With regard to tumor characteristics, 46% had Stage IV disease, 31% Stage III, 15% Stage II, and 7% Stage I disease at baseline; the histologic subtype of mesothelioma was epithelial in 68% of patients, mixed in 16%, sarcomatoid in 10% and other histologic subtypes in 6%.
+The baseline demographics and tumor characteristics of the subgroup of fully supplemented patients was similar to the overall study population.The efficacy results from Study JMCH are summarized inTable 18 and Figure 9.
 
-A multi-center, randomized, single-blind study in 448 chemonaive patients with malignant pleural mesothelioma (MPM) compared survival in patients treated with Pemetrexed for Injection in combination with cisplatin to survival in patients receiving cisplatin alone.
-Pemetrexed for Injection was administered intravenously over 10 minutes at a dose of 500 mg/m2 and cisplatin was administered intravenously over 2 hours at a dose of 75 mg/m2 beginning approximately 30 minutes after the end of administration of Pemetrexed for Injection.
-Both drugs were given on Day 1 of each 21-day cycle.
-After 117 patients were treated, white cell and GI toxicity led to a change in protocol whereby all patients were given folic acid and vitamin B12 supplementation.
+Table 18: Efficacy Results in Study JMCH
 
-The primary analysis of this study was performed on the population of all patients randomly assigned to treatment who received study drug (randomized and treated).
-An analysis was also performed on patients who received folic acid and vitamin B12 supplementation during the entire course of study therapy (fully supplemented), as supplementation is recommended [see Dosage and Administration (2.3)].
-Results in all patients and those fully supplemented were similar.
-Patient demographics are shown in Table 21.
-
-Table 21: Summary of Patient Characteristics in MPM Study
-
-|  | Randomized and Treated Patients |  | Fully Supplemented Patients |  |
+| Efficacy Parameter | All Randomized and Treated Patients (N=448) |  | Fully Supplemented Patients (N=331) |  |
 | --- | --- | --- | --- | --- |
-| Patient characteristic | Pemetrexed for Injection/cis (N=226) | Cisplatin (N=222) | Pemetrexed for Injection/cis (N=168) | Cisplatin (N=163) |
-| Age (yrs) |  |  |  |  |
-| Median (range) | 61 (29-85) | 60 (19-84) | 60 (29-85) | 60 (19-82) |
-| Gender (%) |  |  |  |  |
-| Male | 184 (81.4) | 181 (81.5) | 136 (81.0) | 134 (82.2) |
-| Female | 42 (18.6) | 41 (18.5) | 32 (19.0) | 29 (17.8) |
-| Origin (%) |  |  |  |  |
-| Caucasian | 204 (90.3) | 206 (92.8) | 150 (89.3) | 153 (93.9) |
-| Hispanic | 11 (4.9) | 12 (5.4) | 10 (6.0) | 7 (4.3) |
-| Asian | 10 (4.4) | 4 (1.9) | 7 (4.2) | 3 (1.8) |
-| African descent | 1 (0.4) | 0 | 1 (0.6) | 0 |
-| Stage at Entry (%) |  |  |  |  |
-| I | 16 (7.1) | 14 (6.3) | 15 (8.9) | 12 (7.4) |
-| II | 35 (15.6) | 33 (15.0) | 27 (16.2) | 27 (16.8) |
-| III | 73 (32.4) | 68 (30.6) | 51 (30.5) | 49 (30.4) |
-| IV | 101 (44.9) | 105 (47.2) | 74 (44.3) | 73 (45.3) |
-| Unspecified | 1 (0.4) | 2 (0.9) | 1 (0.6) | 2 (1.2) |
-| Diagnosis/Histologya (%) |  |  |  |  |
-| Epithelial | 154 (68.1) | 152 (68.5) | 117 (69.6) | 113 (69.3) |
-| Mixed | 37 (16.4) | 36 (16.2) | 25 (14.9) | 25 (15.3) |
-| Sarcomatoid | 18 (8.0) | 25 (11.3) | 14 (8.3) | 17 (10.4) |
-| Other | 17 (7.5) | 9 (4.1) | 12 (7.1) | 8 (4.9) |
-| Baseline KPSb (%) |  |  |  |  |
-| 70-80 | 109 (48.2) | 97 (43.7) | 83 (49.4) | 69 (42.3) |
-| 90-100 | 117 (51.8) | 125 (56.3) | 85 (50.6) | 94 (57.7) |
-| a Only 67% of the patients had the histologic diagnosis of malignant mesothelioma confirmed by independent review. |  |  |  |  |
-| b Karnofsky Performance Scale. |  |  |  |  |
-
-Table 22 and Figure 6 summarize the survival results for all randomized and treated patients regardless of vitamin supplementation status and those patients receiving vitamin supplementation from the time of enrollment in the trial.
-
-Table 22: Efficacy of Pemetrexed for Injection plus Cisplatin versus Cisplatin in Malignant Pleural Mesothelioma
-
-|  | Randomized and Treated Patients |  | Fully Supplemented Patients |  |
-| --- | --- | --- | --- | --- |
-| Efficacy Parameter | Pemetrexed for Injection/cis (N=226) | Cisplatin (N=222) | Pemetrexed for Injection/cis (N=168) | Cisplatin (N=163) |
-| Median overall survival | 12.1 mos | 9.3 mos | 13.3 mos | 10.0 mos |
+| Pemetrexed for Injection/Cisplatin (N=226) | Cisplatin (N=222) | Pemetrexed for Injection/Cisplatin (N=168) | Cisplatin (N=163) |  |
+| Median overall survival (months) | 12.1 | 9.3 | 13.3 | 10.0 |
 | (95% CI) | (10.0-14.4) | (7.8-10.7) | (11.4-14.9) | (8.4-11.9) |
-| Hazard ratio | 0.77 |  | 0.75 |  |
-| Log rank p-valuea | 0.020 |  | 0.051 |  |
-| a p-value refers to comparison between arms. |  |  |  |  |
+| Hazard ratioa | 0.77 |  | 0.75 |  |
+| Log rank p-value | 0.020 |  | NAb |  |
+| a Hazard ratios are not adjusted for stratification variables. |  |  |  |  |
+| b Not a pre-specified analysis. |  |  |  |  |
 
-Similar results were seen in the analysis of patients (N=303) with confirmed histologic diagnosis of malignant pleural mesothelioma.
-There were too few non-white patients to assess possible ethnic differences.
-The effect in women (median survival 15.7 months with the combination versus 7.5 months on cisplatin alone), however, was larger than the effect in males (median survival 11 versus 9.4 respectively).
-As with any exploratory analysis, it is not clear whether this difference is real or is a chance finding.
+Figure 9: Kaplan-Meier Curves for Overall Survival in Study JMCH
 
-Figure 6: Kaplan-Meier Estimates of Survival Time for Pemetrexed for Injection plus Cisplatin and Cisplatin Alone in all Randomized and Treated Patients.
-
-Objective tumor response for malignant pleural mesothelioma is difficult to measure and response criteria are not universally agreed upon.
-However, based upon prospectively defined criteria, the objective tumor response rate for Pemetrexed for Injection plus cisplatin was greater than the objective tumor response rate for cisplatin alone.
-There was also improvement in lung function (forced vital capacity) in the Pemetrexed for Injection plus cisplatin arm compared to the control arm.
-
-Patients who received full supplementation with folic acid and vitamin B12 during study therapy received a median of 6 and 4 cycles in the Pemetrexed for Injection/cisplatin (N=168) and cisplatin (N=163) arms, respectively.
-Patients who never received folic acid and vitamin B12 during study therapy received a median of 2 cycles in both treatment arms (N=32 and N=38 for the Pemetrexed for Injection/cisplatin and cisplatin arm, respectively).
-Patients receiving Pemetrexed for Injection in the fully supplemented group received a relative dose intensity of 93% of the protocol specified Pemetrexed for Injection dose intensity; patients treated with cisplatin in the same group received 94% of the projected dose intensity.
-Patients treated with cisplatin alone had a dose intensity of 96%.
+Based upon prospectively defined criteria (modified Southwest Oncology Group methodology) the objective tumor response rate for pemetrexed for injection plus cisplatin was greater than the objective tumor response rate for cisplatin alone.
+There was also improvement in lung function (forced vital capacity) in the pemetrexed for injection plus cisplatin arm compared to the control arm.
