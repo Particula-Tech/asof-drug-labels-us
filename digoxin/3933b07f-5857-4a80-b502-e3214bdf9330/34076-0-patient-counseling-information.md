@@ -11,15 +11,20 @@
 - Instruct the patient to monitor and record their heart rate and blood pressure daily.
 - Instruct women of childbearing potential who become or are planning to become pregnant to consult a physician prior to initiation or continuing therapy with digoxin.
 
-Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+Manufactured by:
+
+HIKMA FARMACÊUTICA (PORTUGAL), S.A.
+
 Estrada do Rio da Mό, 8, 8A e 8B – Fervença – 2705-906 Terrugem SNT, PORTUGAL
 
 Distributed by:
 
-WEST-WARD A HIKMA COMPANY Eatontown, NJ 07724 USA
+Hikma Pharmaceuticals USA Inc.
 
-Revised January 2017
+Berkeley Heights, NJ 07922
 
-462-636-04
+Revised July 2020
 
-PIN299-WES/5
+462-636-05
+
+PIN299-WES/6
