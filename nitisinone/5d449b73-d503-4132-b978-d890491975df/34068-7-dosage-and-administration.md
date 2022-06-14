@@ -4,7 +4,7 @@
 
 Starting Dosage
 
-The recommended starting dosage of ORFADIN is 0.5 mg/kg administered orally twice daily
+The recommended starting dosage of ORFADIN is 0.5 mg/kg administered orally twice daily.
 
 Maintenance Regimen
 
