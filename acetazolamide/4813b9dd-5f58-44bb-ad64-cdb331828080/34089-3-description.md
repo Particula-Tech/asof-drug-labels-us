@@ -1,7 +1,7 @@
 # DESCRIPTION
 
-Acetazolamide an inhibitor of the enzyme carbonic anhydrase, is a white to faintly yellowish white crystalline, odorless powder, very slightly soluble in water, sparingly soluble in practically boiling water and slightly soluble in alcohol.
-The chemical name for acetazolamide is N-(5Sulfamoyl-1,3,4-thiadiazol-2-yl)-acetamide and has the following chemical structure:
+Acetazolamide, an inhibitor of the enzyme carbonic anhydrase is a white to faintly yellowish white crystalline, odorless powder, very slightly soluble in water, sparingly soluble in practically boiling water and slightly soluble in alcohol.
+The chemical name for acetazolamide is N-(5-Sulfamoyl-1,3,4-thiadiazol-2-yl) acetamide and has the following chemical structure:
 
 Molecular Weight: 222.25
 

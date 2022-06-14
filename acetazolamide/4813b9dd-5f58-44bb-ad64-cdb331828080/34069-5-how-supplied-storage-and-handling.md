@@ -14,13 +14,13 @@ NDC 64380-834-06 - Bottle of 100
 
 NDC 64380-834-46 - Bulk pack of 1000
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature]
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Manufactured by:
 
 Strides Pharma Science Ltd.
 
-Puducherry - 605 014, India
+Puducherry - 605 014, India.
 
 Distributed by:
 
@@ -28,6 +28,4 @@ Strides Pharma Inc
 
 East Brunswick, NJ 08816
 
-PON/DRUGS/1613 4193
-
-Revised: 01/2019
+Revised: 06/2022
