@@ -257,8 +257,8 @@ Streptococcus dysgalactiae subsp. equisimilis
 Streptococcuspyogenes.
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for daptomycin against isolates of genus or organism group.
-However, the efficacy of daptomycin in treating clinical infections due to these bacteria has not been established in adequate and well-controlled clinical trials.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for daptomycin against isolates of similar genus or organism group.
+However, the efficacy of daptomycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Gram-Positive Bacteria
 

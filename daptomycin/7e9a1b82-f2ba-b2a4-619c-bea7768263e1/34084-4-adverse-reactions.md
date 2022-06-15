@@ -2,19 +2,19 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-Anaphylaxis/Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+• Anaphylaxis/Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 
-Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.2)]
+• Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.2)]
 
-Eosinophilic Pneumonia [see Warnings and Precautions (5.3)]
+• Eosinophilic Pneumonia [see Warnings and Precautions (5.3)]
 
-Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
+• Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
 
-Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
+• Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
 
-Peripheral Neuropathy [see Warnings and Precautions (5.6)]
+• Peripheral Neuropathy [see Warnings and Precautions (5.6)]
 
-Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
+• Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
