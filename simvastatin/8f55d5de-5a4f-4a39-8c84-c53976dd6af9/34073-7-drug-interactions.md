@@ -21,18 +21,18 @@ Table 2: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Intervention: | For patients taking verapamil, diltiazem, or dronedarone, do not exceed ZOCOR 10 mg daily. For patients taking amiodarone, amlodipine, or ranolazine, do not exceed ZOCOR 20 mg daily [see Dosage and Administration (2.5)]. |
 | Lomitapide |  |
 | Clinical Impact: | Simvastatin exposure is approximately doubled with concomitant use of lomitapide and the risk of myopathy and rhabdomyolysis is increased. |
-| Intervention: | Reduce the dose of ZOCOR by 50% if initiating lomitapide. Do not exceed ZOCOR 20 mg daily (or ZOCOR 40 mg daily for patients who have previously taken ZOCOR 80 mg daily chronically) while taking lomitapide [see Dosage and Administration (2.1,2.5)]. |
+| Intervention: | Reduce the dose of ZOCOR by 50% if initiating lomitapide. Do not exceed ZOCOR 20 mg daily (or ZOCOR 40 mg daily for patients who have previously taken ZOCOR 80 mg daily chronically) while taking lomitapide [see Dosage and Administration (2.1, 2.5)]. |
 | Daptomycin |  |
 | Clinical Impact: | Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin. Both ZOCOR and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration. |
 | Intervention: | If treatment with daptomycin is required, consider temporarily suspending ZOCOR during the course of daptomycin treatment. |
 | Niacin |  |
-| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin-containing products (≥1 gram/day niacin) with ZOCOR. The risk of myopathy is greater in Chinese patients. In a clinical study (median follow-up 3.9 years) of patients at high risk of CVD and with well-controlled LDL-C levels on simvastatin 40 mg/day with or without ezetimibe 10 mg/day, there was no incremental benefit on cardiovascular outcomes with the addition of lipid-modifying doses of niacin |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin-containing products (≥1 gram/day niacin) with ZOCOR. The risk of myopathy is greater in Chinese patients. In a clinical study (median follow-up 3.9 years) of patients at high risk of CVD and with well-controlled LDL-C levels on simvastatin 40 mg/day with or without ezetimibe 10 mg/day, there was no incremental benefit on cardiovascular outcomes with the addition of lipid-modifying doses of niacin. |
 | Intervention: | Concomitant use of ZOCOR with lipid-modifying dosages of niacin is not recommended in Chinese patients [see Use in Specific Populations (8.8)]. For non-Chinese patients, consider if the benefit of using lipid-modifying doses of niacin concomitantly with ZOCOR outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |
 | Fibrates (other than Gemfibrozil) |  |
 | Clinical Impact: | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with ZOCOR. |
 | Intervention: | Consider if the benefit of using fibrates concomitantly with ZOCOR outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |
 | Colchicine |  |
-| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with ZOCOR |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with ZOCOR. |
 | Intervention: | Consider if the benefit of using colchicine concomitantly with ZOCOR outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |
 | Grapefruit Juice |  |
 | Clinical Impact: | Grapefruit juice can raise the plasma levels of simvastatin and may increase the risk of myopathy and rhabdomyolysis. |
@@ -40,7 +40,7 @@ Table 2: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 
 ## 7.2 ZOCOR Effects on Other Drugs
 
-Table 3 presents Zocor’s effect on other drugs and instructions for preventing or managing them.
+Table 3 presents ZOCOR’s effect on other drugs and instructions for preventing or managing them.
 
 Table 3: ZOCOR Effects on Other Drugs
 

@@ -15,4 +15,4 @@ ZOCOR tablets are supplied as follows:
 
 Storage
 
-Store between 5-30°C (41-86°F).
+Store between 5°C to 30°C (41°F to 86°F).

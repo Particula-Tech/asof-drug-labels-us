@@ -56,7 +56,7 @@ Marked persistent increases of hepatic transaminases have occurred with ZOCOR.
 Elevated alkaline phosphatase and γ-glutamyl transpeptidase have also been reported.
 
 In Study 4S, with a median follow-up of 5.4 years, 1,986 adult patients were treated with ZOCOR 20 mg once daily, of whom 37% titrated to 40 mg once daily.
-The percentage of patients with one or more occurrences of transaminase elevations to > 3xULN was 0.7% in patients taking ZOCOR compared with 0.6% in patients taking placebo.
+The percentage of patients with one or more occurrences of transaminase elevations to >3xULN was 0.7% in patients taking ZOCOR compared with 0.6% in patients taking placebo.
 Elevated transaminases leading to discontinuation of study treatment occurred in 0.4% of patients taking ZOCOR and 0.2% of patients taking placebo.
 The majority of elevated transaminases leading to treatment discontinuation occurred within in the first year.
 
@@ -81,10 +81,11 @@ Immune System Disorders: hypersensitivity syndrome including: anaphylaxis, angio
 
 Musculoskeletal and Connective Tissue Disorders: muscle cramps, immune-mediated necrotizing myopathy, polymyalgia rheumatica, arthritis
 
-Nervous System Disorders: dizziness, depression, paresthesia, peripheral neuropathy, Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
+Nervous System Disorders: dizziness, depression, paresthesia, peripheral neuropathy.
+Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
 
-Skin and Subcutaneous Tissue Disorders: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), purpura, urticaria, photosensitivity, flushing, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome
+Skin and Subcutaneous Tissue Disorders: pruritus, alopecia, a variety of skin changes (e.g., nodules, discoloration, dryness of skin/mucous membranes, changes to hair/nails), purpura, lichen planus, urticaria, photosensitivity, flushing, toxic epidermal necrolysis, erythema multiforme, including Stevens-Johnson syndrome
 
 Respiratory and Thoracic: interstitial lung disease, dyspnea
 

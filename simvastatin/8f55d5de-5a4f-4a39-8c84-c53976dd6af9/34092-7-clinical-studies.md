@@ -68,13 +68,13 @@ Table 6: Mean Changes in Lipid Levels in Adult Patients with Primary Hyperlipide
 | Lower Dosage Comparative Study mean baseline LDL-C = 244 mg/dL and median baseline TG = 168 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
 | ZOCOR 5 mg once at night | 109 | -19% | -26% | +10% | -12% |
 | ZOCOR 10 mg once at night | 110 | -23% | -30% | +12% | -15% |
-| Scandinavian Simvastatin Survival Study mean baseline LDL-C = 188 mg/dL and median baseline TG = 128 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
+| Scandinavian Simvastatin Survival Studymean baseline LDL-C = 188 mg/dL and median baseline TG = 128 mg/dL (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 2223 | -1% | -1% | 0% | -2% |
 | ZOCOR 20 mg once at night | 2221 | -28% | -38% | +8% | -19% |
-| Upper Dosage Comparative Study mean baseline LDL-C = 226 mg/dL and median baseline TG = 156 mg/dL (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
+| Upper Dosage Comparative Studymean baseline LDL-C = 226 mg/dL and median baseline TG = 156 mg/dL (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
 | ZOCOR 40 mg once at night | 433 | -31% | -41% | +9% | -18% |
-| ZOCOR 80 mg once at night. 21% and 36% median reduction in TG in patients with TG ≤200 mg/dL and TG >200 mg/dL, respectively. Patients with TG >350 mg/dL were excluded | 664 | -36% | -47% | +8% | -24% |
-| Combined Hyperlipidemia Study mean baseline LDL-C = 156 mg/dL and median baseline TG = 391 mg/dL. (Mean % Change at Week 6) |  |  |  |  |  |
+| ZOCOR 80 mg once at night21% and 36% median reduction in TG in patients with TG ≤200 mg/dL and TG >200 mg/dL, respectively. Patients with TG >350 mg/dL were excluded | 664 | -36% | -47% | +8% | -24% |
+| Combined Hyperlipidemia Studymean baseline LDL-C = 156 mg/dL and median baseline TG = 391 mg/dL. (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 125 | 1% | 2% | +3% | -4% |
 | ZOCOR 40 mg once at night | 123 | -25% | -29% | +13% | -28% |
 | ZOCOR 80 mg once at night | 124 | -31% | -36% | +16% | -33% |
@@ -87,7 +87,7 @@ ZOCOR decreased TC, LDL-C, and TG in these patients.
 Dysbetalipoproteinemia in Adults
 
 The results of a subgroup analysis in 7 adult patients with dysbetalipoproteinemia (apo E2/2) (very-low-density lipoprotein cholesterol [VLDL-C]/TG>0.25) from a 130-patient, double-blind, placebo-controlled, 3-period crossover study are presented in Table 7.
-Zocor decreased total-C, LDL-C + intermediate-density lipoprotein (IDL), VLDL-C + IDL, and TG compared to placebo.
+ZOCOR decreased total-C, LDL-C + intermediate-density lipoprotein (IDL), VLDL-C + IDL, and TG compared to placebo.
 
 Table 7: Lipid Effects in Adult Patients with Dysbetalipoproteinemia Over Six Weeks [Median Percent Change (min, max) from Baseline]The median baseline values (mg/dL) were: total-C = 324, LDL-C = 121, HDL-C = 31, TG = 411, VLDL-C = 170, and non-HDL-C = 291.
 

@@ -12,7 +12,7 @@
 
 The recommended dosage range of ZOCOR is 20 mg to 40 mg once daily.
 
-## 2.3 Recommend Dosage in Pediatric Patients 10 Years of Age and Older with HeFH
+## 2.3 Recommended Dosage in Pediatric Patients 10 Years of Age and Older with HeFH
 
 The recommended dosage range of ZOCOR is 10 mg to 40 mg daily.
 
