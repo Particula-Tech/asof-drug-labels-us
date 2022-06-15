@@ -15,6 +15,8 @@ Preparing to take Buprenorphine Sublingual Tablets:
 - 
 - •While Buprenorphine Sublingual Tablet is dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - •Talking while the tablet is dissolving can affect how well the medicine in Buprenorphine Sublingual Tablets is absorbed.
+- •After Buprenorphine Sublingual Tablet is completely dissolved, rinse your mouth with water and swallow.
+  Wait for at least one hour before brushing teeth.
 - •If you miss a dose of Buprenorphine Sublingual Tablets, take your medicine when you remember.
   If it is almost time for your next dose, skip the missed dose and take the next dose at your regular time.
   Do not take 2 doses at the same time unless your healthcare provider tells you to.
@@ -43,6 +45,6 @@ If you need help with disposal of Buprenorphine Sublingual Tablets, call Hikma P
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000231/08 Revised January 2022
+C50000231/09 Revised March 2022
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
