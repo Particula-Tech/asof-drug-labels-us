@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212390"
+  ],
+  "inn": "nitisinone",
+  "labeler": "Analog Pharma",
+  "package_ndcs": [
+    "70505-202-60",
+    "70505-205-60",
+    "70505-210-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nitisinone",
+      "name": "Nitisinone"
+    }
+  ],
+  "setid": "645c8387-30d5-4a86-a5d8-2f6b5df6d5f0",
+  "source": "dailymed"
+}
