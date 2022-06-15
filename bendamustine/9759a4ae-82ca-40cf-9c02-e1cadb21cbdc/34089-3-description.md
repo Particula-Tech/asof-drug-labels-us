@@ -6,4 +6,4 @@ Its empirical molecular formula is C16H21Cl2N3O2 HCl, and the molecular weight i
 Bendamustine hydrochloride contains a mechlorethamine group and a benzimidazole heterocyclic ring with a butyric acid substituent, and has the following structural formula:
 
 BELRAPZO (bendamustine hydrochloride) injection for intravenous use is supplied as a sterile, clear, and colorless to yellow ready-to-dilute solution in a multiple-dose clear glass vial.
-Each milliliter contains 25 mg of bendamustine hydrochloride, USP, 0.1 mL of propylene glycol, USP, 5 mg of monothioglycerol, NF and q.s. to 1 mL polyethylene glycol 400, NF.
+Each milliliter contains 25 mg of bendamustine hydrochloride, USP, 0.1 mL of propylene glycol, USP, 5 mg of monothioglycerol, NF (used as an antioxidant) and q.s. to 1 mL polyethylene glycol 400, NF (sodium hydroxide, NF and water for injection, USP are used to prepare a 1N NaOH solution that may be used for pH modification of PEG 400).

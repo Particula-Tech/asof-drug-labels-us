@@ -48,7 +48,7 @@ The onset tends to be within the first treatment cycle of bendamustine hydrochlo
 Preventive measures include vigorous hydration and close monitoring of blood chemistry, particularly potassium and uric acid levels.
 Allopurinol has also been used during the beginning of bendamustine hydrochloride therapy.
 However, there may be an increased risk of severe skin toxicity when bendamustine hydrochloride and allopurinol are administered concomitantly.
-[see (Warnings and Precautions 5.6)]
+[see Warnings and Precautions (5.6)]
 
 ## 5.6 Skin Reactions
 
@@ -63,7 +63,7 @@ If skin reactions are severe or progressive, withhold or discontinue BELRAPZO.
 
 Fatal and serious cases of liver injury have been reported with bendamustine hydrochloride injection.
 Combination therapy, progressive disease or reactivation of hepatitis B were confounding factors in some patients.
-[see (Warnings and Precautions 5.2)] Most cases were reported within the first three months of starting therapy.
+[see Warnings and Precautions (5.2)] Most cases were reported within the first three months of starting therapy.
 Monitor liver chemistry tests prior to and during BELRAPZO therapy.
 
 ## 5.8 Other Malignancies
