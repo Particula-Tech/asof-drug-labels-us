@@ -58,6 +58,8 @@ Eye Disorders: diplopia, mydriasis, visual impairment, blurred vision
 
 General Disorders: chest pain, chest discomfort, hyperpyrexia
 
+Gastrointestinal Disorders: dry mouth
+
 Hepatobiliary disorders: hepatocellular injury, acute hepatic failure
 
 Immune System Disorders: hypersensitivity reactions such as angioedema, anaphylactic reactions, auricular swelling, bullous conditions, exfoliative conditions, urticarias, pruritus NEC, rashes, eruptions, and exanthemas NEC

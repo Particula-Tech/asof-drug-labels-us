@@ -25,9 +25,6 @@ Table 2: Primary Efficacy Measure: SKAMP-Combined Scores Averaged Over Classroom
 | Placebo | 76 | 17.9 (10.4) | 0.54 (0.70) |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. * Baseline score assessed at pre-dose on the practice classroom day/randomization visit after 2 days of active drug washout. † Classroom day least-squares mean change from baseline over hours 0.5. 1, 2, 4, 8, 10, 12, and 13. ‡ Difference (active drug minus placebo) in least-squares mean change from baseline. |  |  |  |  |  |
 
-The change of SKAMP-Combined scores from baseline were statistically significantly better (lower) for ALDAYTO than for placebo at all time points (0.5.
-1, 2, 4, 8, 10, 12, and 13 hours post-dose) on the classroom day (see Figure 2).
-
 Figure 2: LS Mean Change in SKAMP-Combined Score from Baseline after Treatment with AZSTARYS or Placebo during Classroom Day in Pediatric Patients (6 to 12 years) with ADHD
 
 Adults and Pediatric Patients 13 to 17 years of age with ADHD

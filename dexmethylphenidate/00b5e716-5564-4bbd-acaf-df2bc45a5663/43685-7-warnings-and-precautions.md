@@ -5,7 +5,7 @@
 CNS stimulants, including AZSTARYS, other methylphenidate-containing products, and amphetamines, have a high potential for abuse and dependence.
 Assess the risk of abuse prior to prescribing, and monitor for signs of abuse and dependence while on therapy [see Boxed Warning and Drug Abuse and Dependence (9.2, 9.3)].
 
-## 5.2 Serious Cardiovascular Events
+## 5.2 Serious Cardiovascular Reactions
 
 Sudden death, stroke and myocardial infarction have been reported in adults with CNS stimulant treatment at recommended doses.
 Sudden death has been reported in pediatric patients with structural cardiac abnormalities and other serious heart problems taking CNS stimulants at recommended doses for ADHD.

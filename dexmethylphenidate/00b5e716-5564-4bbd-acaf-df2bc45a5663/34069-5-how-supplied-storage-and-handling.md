@@ -2,9 +2,9 @@
 
 AZSTARYS (serdexmethylphenidate/dexmethylphenidate) capsules are available as follows:
 
-- 26.1/5.2 mg Capsules – blue cap/grey body (imprinted with "286" on cap and "KP415" on the body) Bottles of 100 ························NDC 65038-286-99
-- 39.2/7.8 mg Capsules – dark blue cap/grey body (imprinted with "429" on cap and "KP415" on the body) Bottles of 100 ························NDC 65038-429-99
-- 52.3/10.4 mg Capsules – orange cap/grey body (imprinted with "5612" on cap and "KP415" on the body) Bottles of 100 ························NDC 65038-561-99
+- 26.1/5.2 mg Capsules – blue cap/grey body, imprinted with "286" on cap and "KP415" on the body Bottles of 100 ························NDC 65038-286-99
+- 39.2/7.8 mg Capsules – dark blue cap/grey body, imprinted with "429" on cap and "KP415" on the body Bottles of 100 ························NDC 65038-429-99
+- 52.3/10.4 mg Capsules – orange cap/grey body, imprinted with "5612" on cap and "KP415" on the body Bottles of 100 ························NDC 65038-561-99
 
 Storage
 
