@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA202596"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Dr. Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-370-74",
+    "43598-386-62",
+    "43598-387-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "pemetrexed disodium",
+      "name": "Pemetrexed disodium"
+    }
+  ],
+  "setid": "1d8bcf03-e055-a274-7844-ae9a523e3c4c",
+  "source": "dailymed"
+}
