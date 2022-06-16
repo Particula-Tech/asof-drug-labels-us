@@ -46,11 +46,8 @@ You can ask your pharmacist or healthcare provider for information about mometas
 What are the ingredients in mometasone furoate cream 0.1%?
 Active ingredient: mometasone furoate Inactive ingredients: hexylene glycol, phosphoric acid, propylene glycol stearate, stearyl alcohol and ceteareth-20, titanium dioxide, aluminum starch ocetnylsuccinate, white wax, white petrolatum, and purified water.
 
-Manufactured by: Cosette Pharmaceuticals, Inc. 111 Coolidge Street, South Plainfield, NJ 07080
+Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0634CP1
-
-Iss.
-07/2019
+8-0634CPLNC2 Revised: 03/2022 VC7619
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

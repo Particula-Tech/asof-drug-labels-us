@@ -6,9 +6,6 @@ It is for external use only. • Avoid contact with the eyes. • Advise patient
 Do not apply mometasone furoate cream 0.1% in the diaper area, as diapers or plastic pants may constitute occlusive dressing. • Discontinue therapy when control is achieved.
 If no improvement is seen within 2 weeks, contact the physician. • Do not use other corticosteroid-containing products with mometasone furoate cream 0.1% without first consulting with the physician.
 
-Manufactured by: Cosette Pharmaceuticals, Inc. 111 Coolidge Street, South Plainfield, NJ 07080
+Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0634CP1
-
-Iss.
-07/2019
+8-0634CPLNC2 Revised: 03/2022 VC7619
