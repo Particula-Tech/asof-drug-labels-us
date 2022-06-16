@@ -1,7 +1,7 @@
 Manufactured for: Par Pharmaceutical, Chestnut Ridge, NY 10977, USA
 
-uspi-gmk0826-i-2203r006
+uspi-gmk0826-i-2205r007
 
-R03/2022
+R05/2022
 
-OS221-01-78-07
+OS221-01-78-08
