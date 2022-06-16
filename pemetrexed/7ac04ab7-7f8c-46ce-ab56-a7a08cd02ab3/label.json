@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA214657"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Sandoz Inc.",
+  "package_ndcs": [
+    "0781-3518-76",
+    "0781-3519-90",
+    "0781-3520-91"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pemetrexed disodium",
+      "name": "Pemetrexed"
+    }
+  ],
+  "setid": "7ac04ab7-7f8c-46ce-ab56-a7a08cd02ab3",
+  "source": "dailymed"
+}
