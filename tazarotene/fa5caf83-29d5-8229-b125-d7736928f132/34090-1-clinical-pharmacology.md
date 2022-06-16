@@ -15,7 +15,7 @@ Tazarotene and tazarotenic acid were metabolized to sulfoxides, sulfones and oth
 The half-life of tazarotenic acid was approximately 18 hours, following topical application of tazarotene to normal, acne or psoriatic skin.
 
 In a multiple dose trial with a once daily dose for 14 consecutive days in 9 psoriatic subjects (male=5; female=4), measured doses of tazarotene cream, 0.1% were applied by medical staff to involved skin without occlusion (5 to 35% of total body surface area: mean ± SD: 14 ± 11%).
-The Cmax of tazarotenic acid was 2.31 ± 2.78 ng/mL occurring 8 hours after the final dose, and the AUC0-24h was 31.2 ± 35.2 ng·hr/mL on day 15 in the five subjects who were administered clinical doses of 2 mg cream/cm2.
+The C max of tazarotenic acid was 2.31 ± 2.78 ng/mL occurring 8 hours after the final dose, and the AUC 0-24h was 31.2 ± 35.2 ng·hr/mL on day 15 in the five subjects who were administered clinical doses of 2 mg cream/cm 2.
 
 During clinical trials with tazarotene cream, 0.05% and 0.1% treatment for plaque psoriasis, three out of 139 subjects with their systemic exposure monitored had detectable plasma tazarotene concentrations, with the highest value at 0.09 ng/mL.
 Tazarotenic acid was detected in 78 out of 139 subjects (LLOQ = 0.05 ng/mL).
