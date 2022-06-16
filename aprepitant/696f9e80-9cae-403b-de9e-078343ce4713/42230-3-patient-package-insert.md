@@ -38,5 +38,5 @@
 | EMEND for oral suspension: |  |
 | Active ingredient: aprepitant |  |
 | Inactive ingredients: sucrose, lactose, hydroxypropyl cellulose, sodium lauryl sulfate, red iron oxide, and sodium stearyl fumarate. |  |
-| Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA For patent information: www.merck.com/product/patent/home.html The brands listed in the above sections "Who should not take EMEND?" and "How should I take EMEND?" are the registered trademarks of their respective owners and are not trademarks of Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Copyright © 2003-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. usppi-mk0869-mf-1909r007 |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: September 2019 |
+| Distributed by: Merck Sharp & Dohme LLC, Rahway, NJ 07065, USA For patent information: www.msd.com/research/patent The brands listed in the above sections "Who should not take EMEND?" and "How should I take EMEND?" are the registered trademarks of their respective owners and are not trademarks of Merck Sharp & Dohme LLC. Copyright © 2003-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. usppi-mk0869-mf-2205r008 |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. | Revised: May 2022 |

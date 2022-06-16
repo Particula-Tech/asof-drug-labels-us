@@ -1,11 +1,8 @@
-Distributed by:
+Distributed by: Merck Sharp & Dohme LLC, Rahway, NJ 07065, USA
 
-Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+For patent information: www.msd.com/research/patent
 
-For patent information: www.merck.com/product/patent/home.html
-
-Copyright © 2003-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.
-
+Copyright © 2003-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
 All rights reserved.
 
-uspi-mk0869-mf-2102r016
+uspi-mk0869-mf-2205r017
