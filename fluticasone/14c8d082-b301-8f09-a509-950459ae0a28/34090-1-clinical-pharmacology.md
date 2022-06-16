@@ -2,9 +2,9 @@
 
 Like other topical corticosteroids, fluticasone propionate has anti-inflammatory, antipruritic, and vasoconstrictive properties.
 The mechanism of the anti-inflammatory activity of the topical steroids, in general, is unclear.
-However, corticosteroids are thought to act by the induction of phospholipase A2 inhibitory proteins, collectively called lipocortins.
+However, corticosteroids are thought to act by the induction of phospholipase A 2 inhibitory proteins, collectively called lipocortins.
 It is postulated that these proteins control the biosynthesis of potent mediators of inflammation such as prostaglandins and leukotrienes by inhibiting the release of their common precursor, arachidonic acid.
-Arachidonic acid is released from membrane phospholipids by phospholipase A2.
+Arachidonic acid is released from membrane phospholipids by phospholipase A 2.
 Fluticasone propionate is lipophilic and has a strong affinity for the glucocorticoid receptor.
 It has weak affinity for the progesterone receptor, and virtually no affinity for the mineralocorticoid, estrogen, or androgen receptors.
 The therapeutic potency of glucocorticoids is related to the half-life of the glucocorticoid-receptor complex.
