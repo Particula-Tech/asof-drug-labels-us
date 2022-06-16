@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Hypersensitivity Adverse Reactions [see Warnings and Precautions (5.1)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
+- Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.3)]
+- Hematologic Adverse Reactions [see Warnings and Precautions (5.4)]
+- Central Nervous System Adverse Reactions [see Warnings and Precautions (5.5)]
+- Nephrotoxicity in Critically Ill Patients [see Warnings and Precautions (5.6)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.8)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -35,7 +45,7 @@ Twenty-five (11.0 %) patients in the piperacillin/tazobactam group and 14 (6.5%)
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-Table 7: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus Aminoglycoside Clinical TrialsFor adverse drug reactions that appeared in both studies the higher frequency is presented.
+Table 7: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus Aminoglycoside Clinical Trials For adverse drug reactions that appeared in both studies the higher frequency is presented.
 
 | System Organ Class Adverse Reaction |
 | --- |
@@ -53,7 +63,7 @@ Table 7: Adverse Reactions from Piperacillin and Tazobactam for Injection Plus A
 
 Other Trials: Nephrotoxicity
 
-In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1[see Warnings and Precautions (5.5)].
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1[see Warnings and Precautions (5.6)].
 
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
@@ -90,7 +100,7 @@ Hepatobiliary—hepatitis, jaundice
 
 Hematologic—hemolytic anemia, agranulocytosis, pancytopenia
 
-Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
+Immune—hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), hemophagocytic lymphohistiocytosis (HLH)
 
 Renal—interstitial nephritis
 

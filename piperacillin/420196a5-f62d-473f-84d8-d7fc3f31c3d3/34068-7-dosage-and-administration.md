@@ -23,7 +23,7 @@ Table 1: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pati
 | Great than 40 mL/min | 3.375 every 6 hours | 4.5 every 6 hours |
 | 20 to 40 mL/minCreatinine clearance for patients not receiving hemodialysis | 2.25 every 6 hours | 3.375 every 6 hours |
 | Less than 20 mL/min | 2.25 every 8 hours | 2.25 every 6 hours |
-| Hemodialysis0.75 g (0.67 g piperacillin/0.08 g tazobactam) should be administered following each hemodialysis session on hemodialysis days | 2.25 every 12 hours | 2.25 every 8 hours |
+| Hemodialysis 0.75 g (0.67 g piperacillin/0.08 g tazobactam) should be administered following each hemodialysis session on hemodialysis days | 2.25 every 12 hours | 2.25 every 8 hours |
 | CAPD | 2.25 every 12 hours | 2.25 every 8 hours |
 
 For patients on hemodialysis, the maximum dose is 2.25 g every twelve hours for all indications other than nosocomial pneumonia and 2.25 g every eight hours for nosocomial pneumonia.
@@ -34,7 +34,7 @@ No additional dosage of piperacillin and tazobactam for injection, USP is necess
 
 The recommended dosage for pediatric patients with appendicitis and/or peritonitis or nosocomial pneumonia aged 2 months of age and older, weighing up to 40 kg, and with normal renal function, is described in Table 2 [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
-Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pediatric Patients 2 Months of Age and Older, Weighing Up to 40 kg, and With Normal Renal FunctionAdminister piperacillin and tazobactam for injection by intravenous infusion over 30 minutes
+Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pediatric Patients 2 Months of Age and Older, Weighing Up to 40 kg, and With Normal Renal Function Administer piperacillin and tazobactam for injection by intravenous infusion over 30 minutes
 
 | Age | Appendicitis and/or Peritonitis | Nosocomial Pneumonia |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Dosage of piperacillin and tazobactam for injection in pediatric patients with r
 
 ## 2.6 Reconstitution and Dilution of Piperacillin and Tazobactam for Injection, USP
 
-Reconstitution of Piperacillin and Tazobactam for Injection, USP for Adult Patients and Pediatric Patients Weighing over 40 kg
+Reconstitution of Piperacillin and Tazobactam for Injection, USP for Adult Patients and Pediatric Patients Weighing Over 40 kg
 
 Single-Dose Vials
 
@@ -58,7 +58,7 @@ After reconstitution, the single-dose vials will have a concentration of 202.5 m
 
 Compatible Reconstitution Diluents for Single-Dose Vials 0.9% sodium chloride for injection Sterile water for injection Dextrose 5% Bacteriostatic saline/parabens Bacteriostatic water/parabens Bacteriostatic saline/benzyl alcohol Bacteriostatic water/benzyl alcohol
 
-Dilution of the Reconstituted Piperacillin and Tazobactam for Injection, USP Solution for Adult Patients and Pediatric Patients Weighing over 40 kg
+Dilution of the Reconstituted Piperacillin and Tazobactam for Injection, USP Solution for Adult Patients and Pediatric Patients Weighing Over 40 kg
 
 Reconstituted piperacillin and tazobactam for injection, USP solutions for single-dose vials should be further diluted (recommended volume per dose of 50 mL to 150 mL) in a compatible intravenous solution listed below.
 Administer by infusion over a period of at least 30 minutes.
@@ -83,7 +83,7 @@ The volume of reconstituted solution required to deliver the dose of piperacilli
 Reconstituted piperacillin and tazobactam for injection, USP solutions for single-dose vials should be further diluted in a compatible intravenous solution listed above.
 
 1. Calculate patient dose as described in Table 2 above [see Dosage and Administration (2.5)].
-2. Reconstitute vial with a compatible reconstitution diluent, as listed above under the subheading "Compatible Reconstitution Diluents for Single-Dose Vials," using the appropriate volume of diluent, as listed in tables 3 and 4 below.
+2. Reconstitute vial with a compatible reconstitution diluent, as listed above under the subheading "Compatible Reconstitution Diluents for Single-Dose Vials," using the appropriate volume of diluent, as listed in table 3 below.
    Following the addition of the diluent, swirl the single-dose vial until the powder is completely dissolved.
    Table 3: Reconstitution of Single-Dose Vials and Resulting ConcentrationStrength per Single-Dose VialVolume of Diluent to be Added to the VialConcentration of the Reconstituted Product2.25 g (2 g piperacillin /0.25 g tazobactam)10 mL202.5 mg/mL (180 mg/mL piperacillin/22.5 mg/mL tazobactam)3.375 g (3 g piperacillin /0.375 g tazobactam)15 mL4.5 g (4 g piperacillin /0.5 g tazobactam)20 mL
 3. Calculate the required volume (mL) of reconstituted piperacillin and tazobactam for injection, USP solution based on the required dose.
@@ -120,7 +120,7 @@ In circumstances where co-administration via Y-site is necessary, piperacillin a
 
 Table 5: Compatibility with Aminoglycosides
 
-| Aminoglycoside | Piperacillin and Tazobactam for Injection Dose (grams) | Piperacillin and Tazobactam for Injection Diluent VolumeDiluent volumes apply only to single vials(mL) | Aminoglycoside Concentration RangeThe concentration ranges in Table 5 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam for injection has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions.(mg/mL) | Acceptable Diluents |
+| Aminoglycoside | Piperacillin and Tazobactam for Injection Dose (grams) | Piperacillin and Tazobactam for Injection Diluent Volume Diluent volumes apply only to single vials(mL) | Aminoglycoside Concentration Range The concentration ranges in Table 5 are based on administration of the aminoglycoside in divided doses (10-15 mg/kg/day in two daily doses for amikacin and 3-5 mg/kg/day in three daily doses for gentamicin). Administration of amikacin or gentamicin in a single daily dose or in doses exceeding those stated above via Y-site with piperacillin and tazobactam for injection has not been evaluated. See package insert for each aminoglycoside for complete Dosage and Administration instructions.(mg/mL) | Acceptable Diluents |
 | --- | --- | --- | --- | --- |
 | Amikacin | 2.25 3.375 4.5 | 50 100 150 | 1.75 - 7.5 | 0.9% sodium chloride or 5% dextrose |
 | Gentamicin | 2.25 3.375 4.5 | 50 100 150 | 0.7 - 3.32 | 0.9% sodium chloride or 5% dextrose |

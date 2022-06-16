@@ -10,7 +10,7 @@ When aminoglycosides are administered in conjunction with piperacillin to patien
 
 Sequential administration of piperacillin and tazobactam for injection and tobramycin to patients with either normal renal function or mild to moderate renal impairment has been shown to modestly decrease serum concentrations of tobramycin but no dosage adjustment is considered necessary.
 
-In vitro inactivation:
+In vitro inactivation
 
 Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration.
 Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated.
@@ -24,7 +24,7 @@ Probenecid should not be co-administered with piperacillin and tazobactam for in
 
 ## 7.3 Vancomycin
 
-Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [see Warnings and Precautions (5.5)].
+Studies have detected an increased incidence of acute kidney injury in patients concomitantly administered piperacillin/tazobactam and vancomycin as compared to vancomycin alone [see Warnings and Precautions (5.6)].
 
 Monitor kidney function in patients concomitantly administered with piperacillin/tazobactam and vancomycin.
 
@@ -32,7 +32,7 @@ No pharmacokinetic interactions have been noted between piperacillin/tazobactam 
 
 ## 7.4 Anticoagulants
 
-Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function [see Warnings and Precautions (5.3)].
+Coagulation parameters should be tested more frequently and monitored regularly during simultaneous administration of high doses of heparin, oral anticoagulants, or other drugs that may affect the blood coagulation system or the thrombocyte function [see Warnings and Precautions (5.4)].
 
 ## 7.5 Vecuronium
 

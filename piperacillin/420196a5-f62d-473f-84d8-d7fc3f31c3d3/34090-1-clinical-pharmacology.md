@@ -116,7 +116,7 @@ The potential for pharmacokinetic drug interactions between piperacillin and taz
 Mechanism of Action
 
 Piperacillin sodium exerts bactericidal activity by inhibiting septum formation and cell wall synthesis of susceptible bacteria.
-In vitro, piperacillin is active against a variety of Gram-positive and Gram-negative aerobic and anaerobic bacteria.
+In vitro, piperacillin is active against a variety of gram-positive and gram-negative aerobic and anaerobic bacteria.
 Tazobactam sodium has little clinically relevant in vitro activity against bacteria due to its reduced affinity to penicillin-binding proteins.
 It is, however, a beta-lactamase inhibitor of the Molecular class A enzymes, including Richmond-Sykes class III (Bush class 2b & 2b') penicillinases and cephalosporinases.
 It varies in its ability to inhibit class II and IV (2a & 4) penicillinases.
@@ -124,7 +124,7 @@ Tazobactam does not induce chromosomally-mediated beta-lactamases at tazobactam 
 
 Antimicrobial Activity
 
-Piperacillin and tazobactam for injection has been shown to be active against most isolates of the following microorganisms both in vitro and in clinical infections [see Indications and Usage (1)]:
+Piperacillin and tazobactam for injection has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)]:
 
 Aerobic bacteria
 
@@ -141,16 +141,15 @@ Anaerobic bacteria
 Bacteroides fragilis group (B. fragilis, B. ovatus, B. thetaiotaomicron, and B. vulgatus)
 
 The following in vitro data are available, but their clinical significance is unknown.
-
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for piperacillin/tazobactam against isolates of similar genus or organism group.
-
 However, the efficacy of piperacillin and tazobactam for injection in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
 Aerobic bacteria
 
 Gram-positive bacteria
 
-Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin susceptible isolates only) Streptococcus agalactiae† Streptococcus pneumoniae† (penicillin-susceptible isolates only) Streptococcus pyogenes† Viridans group streptococci†
+Enterococcus faecalis (ampicillin or penicillin-susceptible isolates only) Staphylococcus epidermidis (methicillin susceptible isolates only) Streptococcus agalactiaeThese are not beta-lactamase producing bacteria and, therefore, are susceptible to piperacillin alone.
+Streptococcus pneumoniae (penicillin-susceptible isolates only) Streptococcus pyogenes Viridans group streptococci
 
 Gram-negative bacteria
 
@@ -160,8 +159,6 @@ Anaerobic bacteria
 
 Clostridium perfringens Bacteroides distasonis Prevotella melaninogenica
 
-†These are not beta-lactamase producing bacteria and, therefore, are susceptible to piperacillin alone.
-
 Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
