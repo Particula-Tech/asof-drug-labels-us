@@ -1,6 +1,6 @@
 # Pregnancy
 
-Teratogenic Effects —Pregnancy Category C Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
+Teratogenic Effects — Pregnancy Category C Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 The more potent corticosteroids have been shown to be teratogenic after dermal application in laboratory animals.
 There are no adequate and well-controlled studies in pregnant women on teratogenic effects from topically applied corticosteroids.
 Therefore, topical corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
