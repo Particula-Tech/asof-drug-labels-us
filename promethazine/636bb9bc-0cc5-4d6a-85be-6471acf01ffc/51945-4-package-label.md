@@ -2,7 +2,7 @@
 
 NDC 0713-0132-12
 
-PROMETHEGANTM
+PROMETHEGAN TM
 
 Promethazine Hydrochloride Suppositories,USP
 
@@ -14,8 +14,8 @@ For Rectal Administration
 
 Cosette Pharmaceuticals, Inc.
 
-PROMETHEGANTM
+PROMETHEGAN TM
 
-Promethazine HCl Suppository,USP
+Promethazine HCl Suppository, USP
 
 50 mg
