@@ -27,7 +27,7 @@ Rare cases have also been reported in association with the use of injectable dih
 
 Do not use Dihydroergotamine Mesylate Nasal Spray if you:
 
-- Are pregnant or nursing.
+- .
 - have any disease affecting your heart, arteries, or circulation.
 - are taking certain anti-HIV medications (protease inhibitors).
 - are taking a macrolide antibiotic such as troleandomycin, clarithromycin or erythromycin.
@@ -45,7 +45,14 @@ If you answer YES to any of these questions or are unsure of the answer, you sho
   Do you think you might be pregnant?
   Are you trying to become pregnant?
   Are you sexually active and not using birth control?
-  Are you breast feeding?
+- Dihydroergotamine Mesylate Nasal Spray may cause preterm labor.
+  Dihydroergotamine Mesylate Nasal Spray should be avoided during pregnancy.
+  Talk to your healthcare provider right away if you are pregnant or want to become pregnant.
+- Are you breastfeeding?
+- Dihydroergotamine Mesylate Nasal Spray may reduce breast milk supply and pass into your breast milk.
+  Dihydroergotamine Mesylate Nasal Spray may be harmful to your baby.
+  Do not breastfeed your baby while taking Dihydroergotamine Mesylate Nasal Spray and for 3 days after you use Dihydroergotamine Mesylate Nasal Spray.
+  Talk with your healthcare provider about the best way to feed your baby if you take Dihydroergotamine Mesylate Nasal Spray.
 - Have you ever had to stop taking this or any other medication because of an allergy or bad reaction?
 - Are you taking any other migraine medications, erythromycin or other antibiotics, or medications for blood pressure prescribed by your doctor, or other medicines obtained from your drugstore without a doctor's prescription?
 - Do you smoke?
@@ -57,7 +64,7 @@ If you answer YES to any of these questions or are unsure of the answer, you sho
 
 Serious or potentially life-threatening reductions in blood flow to the brain or extremities have been reported rarely due to interactions between Dihydroergotamine Mesylate Nasal Spray and protease inhibitors or macrolide antibiotics.
 
-REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE Dihydroergotamine Mesylate Nasal Spray.
+REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE DIHYDROERGOTAMINE MESYLATE NASAL SPRAY.
 
 Side Effects To Watch Out For
 
@@ -198,4 +205,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 1/2020
+Revised: 5/2022

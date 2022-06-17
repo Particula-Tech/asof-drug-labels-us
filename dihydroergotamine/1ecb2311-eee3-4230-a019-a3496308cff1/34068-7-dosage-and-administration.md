@@ -11,5 +11,8 @@ The safety of doses greater than 3 mg in a 24 hour period and 4 mg in a 7 day pe
 Dihydroergotamine mesylate nasal spray, should not be used for chronic daily administration.
 
 Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use (see administration instructions).
+Once the nasal spray applicator has been prepared, it should be discarded (with any remaining drug in opened vial) after 8 hours.
+
+Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use (See administration instructions).
 
 Once the nasal spray applicator has been prepared, it should be discarded (with any remaining drug in opened vial after 8 hours).

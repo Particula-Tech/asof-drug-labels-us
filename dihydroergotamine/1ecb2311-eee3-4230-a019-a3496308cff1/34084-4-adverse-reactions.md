@@ -22,7 +22,7 @@ Dihydroergotamine mesylate nasal spray was generally well tolerated.
 In most instances these events were transient and self-limited and did not result in patient discontinuation from a study.
 The following table summarizes the incidence rates of adverse events reported by at least 1% of patients who received dihydroergotamine mesylate nasal spray for the treatment of migraine headaches during placebo-controlled, double-blind clinical studies and were more frequent than in those patients receiving placebo.
 
-| Table 3: Adverse events reported by at least 1% of the dihydroergotamine mesylate nasal spray treated patients and occurred more frequently than in the placebo-group in the migraine placebo-controlled trials |  |  |
+| Table 3: Adverse Reaction Reported by at least 1% of the Dihydroergotamine Mesylate Nasal Spray Treated Patients and Occurred More Frequently than in the Placebo-Group in the Migraine Placebo-Controlled Trials |  |  |
 | --- | --- | --- |
 |  | Dihydroergotamine mesylate nasal spray N=597 | Placebo N=631 |
 | Respiratory System |  |  |

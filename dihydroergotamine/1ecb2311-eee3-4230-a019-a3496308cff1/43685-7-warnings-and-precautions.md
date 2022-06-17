@@ -78,6 +78,17 @@ Nasal tissue in animals treated with dihydroergotamine mesylate daily at nasal c
 Changes in rat nasal mucosa at 64 weeks were less severe than at 13 weeks.
 Local effects on respiratory tissue after chronic intranasal dosing in animals have not been evaluated.
 
+Medication Overuse Headache
+
+Overuse of acute migraine drugs (e.g., ergotamines, triptans, opioids, or a combination of these drugs for 10 or more days per month) may lead to exacerbation of headache (i.e., medication overuse headache).
+Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
+Detoxification of patients including withdrawal of the overused drugs and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
+
+Preterm Labor
+
+Based on the mechanism of action of dihydroergotamine and findings from the published literature, dihydroergotamine mesylate nasal spray may cause preterm labor.
+Avoid use of dihydroergotamine mesylate nasal spray during pregnancy (see PRECAUTIONS).
+
 # PRECAUTIONS
 
 General
@@ -97,7 +108,8 @@ Once the nasal spray applicator has been prepared, it should be discarded (with 
 
 Patients should be advised to report to the physician immediately any of the following: numbness or tingling in the fingers and toes, muscle pain in the arms and legs, weakness in the legs, pain in the chest, temporary speeding or slowing of the heart rate, swelling, or itching.
 
-Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided (see Patient Information Sheet and product packaging).
+Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided.
+(See Patient Information Sheet and product packaging).
 
 Administration of Dihydroergotamine mesylate nasal spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
 
@@ -120,14 +132,13 @@ Nicotine
 
 Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy.
 
-CYP 3A4 Inhibitors (e.g.
-Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS.
+CYP 3A4 Inhibitors (e.g., Macrolide Antibiotics and Protease Inhibitors) See CONTRAINDICATIONS and WARNINGS.
 
 SSRI's
 
 Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been coadministered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI's and dihydroergotamine mesylate nasal spray or D.H.E.
-45®.
+45.
 
 Oral Contraceptives
 
@@ -137,7 +148,9 @@ Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis
 
-Assessment of the carcinogenic potential of dihydroergotamine mesylate in mice and rats is ongoing.
+In a 2-year mouse carcinogenicity study, subcutaneous administration of dihydroergotamine mesylate (0, 0.5, 1.5 or 5 mg/kg/day) resulted in an increased incidence of fibrosarcoma at the injection sites in males and females at the high dose.
+
+In a 2-year rat carcinogenicity study, intranasal administration of dihydroergotamine mesylate (0, 0.4, 0.8 or 1.6 mg/day for 13 weeks, followed by 0, 0.08, 0.24 or 0.8 mg/day for the remainder of the study) did not result in an increase in tumors.
 
 Mutagenesis
 
@@ -147,4 +160,4 @@ Dihydroergotamine was not clastogenic in the in vivo mouse and hamster micronucl
 
 Impairment of Fertility
 
-There was no evidence of impairment of fertility in rats given intranasal doses of dihydroergotamine mesylate nasal spray up to 1.6 mg/day (associated with mean plasma dihydroergotamine mesylate exposures [AUC] approximately 9 to 11 times those in humans receiving the MRDD of 4 mg).
+Intranasal administration of dihydroergotamine to rats at doses up to 1.6 mg/day was not associated with adverse effects on fertility.
