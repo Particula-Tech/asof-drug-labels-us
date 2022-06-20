@@ -98,10 +98,10 @@ When administered 1 or 4 hours after 10 mcg lixisenatide, Cmax of acetaminophen 
 
 Oral contraceptives
 
-Administration of a single dose of an oral contraceptive medicinal product (ethinyl estradiol 0.03 mg/levonorgestrel 0.15 mg) 1 hour before or 11 hours after 10 mcg lixisenatide, did not change Cmax, AUC, t1/2, and tmax of ethinyl estradiol and levonorgestrel.
+Administration of a single dose of an oral contraceptive medicinal product (ethinylestradiol 0.03 mg/levonorgestrel 0.15 mg) 1 hour before or 11 hours after 10 mcg lixisenatide, did not change Cmax, AUC, t1/2 and tmax of ethinylestradiol and levonorgestrel.
 
-Administration of the oral contraceptive 1 hour or 4 hours after lixisenatide did not affect the overall exposure (AUC) and mean terminal half-life (t1/2) of ethinyl estradiol and levonorgestrel.
-However, Cmax of ethinyl estradiol was decreased by 52% and 39%, respectively, and Cmax of levonorgestrel was decreased by 46% and 20%, respectively, and median tmax was delayed by 1 to 3 hours.
+Administration of the oral contraceptive 1 hour or 4 hours after lixisenatide did not affect the overall exposure (AUC) and mean terminal half-life (t1/2) of ethinylestradiol and levonorgestrel.
+However, Cmax of ethinylestradiol was decreased by 52% and 39%, respectively, and Cmax of levonorgestrel was decreased by 46% and 20%, respectively, and median tmax was delayed by 1 to 3 hours.
 
 Atorvastatin
 

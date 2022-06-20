@@ -7,6 +7,7 @@ The following adverse reactions are discussed elsewhere:
 - Hypoglycemia [see Warnings and Precautions (5.6)]
 - Acute Kidney Injury [see Warnings and Precautions (5.7)]
 - Hypokalemia [see Warnings and Precautions (5.9)]
+- Acute Gallbladder Disease [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -72,6 +73,10 @@ Insulin glargine
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including SOLIQUA 100/33, and may be life-threatening.
 
+Acute Gallbladder Disease
+
+In cardiovascular outcomes trial, cholelithiasis occurred in 0.4% of lixisenatide-treated patients versus 0.2% in placebo-treated patients and acute cholecystitis in 0.3% of lixisenatide-treated patients versus 0.2% in placebo-treated patients.
+
 Injection-Site Reactions
 
 As with any insulin or GLP-1 receptor agonist–containing product, patients taking SOLIQUA 100/33 may experience injection-site reactions, including injection-site hematoma, pain, hemorrhage, erythema, nodules, swelling, discoloration, pruritus, warmth, and injection-site mass.
@@ -115,10 +120,12 @@ No information regarding the presence of neutralizing antibodies is currently av
 
 ## 6.3 Postmarketing Experience
 
-The following additional adverse reactions have been identified during postapproval use.
+The following additional adverse reactions have been identified during post approval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Renal: Acute kidney injury
 
 Skin: Localized cutaneous amyloidosis at the injection site has occurred with insulins.
 Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
+
+Hepatobiliary: Cholecystitis, cholelithiasis requiring cholecystectomy

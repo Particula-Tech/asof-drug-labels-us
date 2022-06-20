@@ -39,6 +39,11 @@ To avoid medication errors between SOLIQUA 100/33 and other insulin products, in
 Advise patients that the administration of more than 60 units of SOLIQUA 100/33 daily can result in overdose of the lixisenatide component.
 Instruct patients not to administer concurrently with other glucagon-like peptide-1 receptor agonists [see Warnings and Precautions (5.5)].
 
+Acute Gallbladder Disease
+
+Inform patients of the potential risk for cholelithiasis or cholecystitis.
+Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.11)].
+
 Use in Pregnancy
 
 Advise patients to inform their physicians if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1)].

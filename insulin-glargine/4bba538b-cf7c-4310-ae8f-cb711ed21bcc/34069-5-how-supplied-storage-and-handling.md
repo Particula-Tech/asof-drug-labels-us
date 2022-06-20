@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-SOLIQUA 100/33 (insulin glargine and lixisenatide) injection is a clear, colorless to almost colorless solution in a 3 mL prefilled, disposable, single-patient-use pen (individual pen NDC: 0024-5761-02):
+SOLIQUA 100/33 (insulin glargine and lixisenatide) injection is a clear, colorless to almost colorless solution in a 3 mL prefilled, disposable, single-patient-use pen:
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |
