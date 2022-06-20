@@ -4,25 +4,21 @@ ISENTRESS tablets 400 mg are pink, oval-shaped, film-coated tablets with "227" o
 They are supplied as follows:
 
 - NDC 0006-0227-61 unit-of-use bottles of 60.
-- No. 3894
 
 ISENTRESS HD tablets 600 mg are yellow, oval-shaped, film-coated tablets with corporate logo and "242" on one side and plain on the other side.
 They are supplied as follows:
 
 - NDC 0006-3080-01 unit-of-use bottles of 60.
-- No. 3080
 
 ISENTRESS tablets 100 mg are pale orange, oval-shaped, orange-banana flavored, chewable tablets scored on both sides and imprinted on one face with the corporate logo and "477" on opposite sides of the score.
 They are supplied as follows:
 
 - NDC 0006-0477-61 unit-of-use bottles of 60.
-- No. 3972
 
 ISENTRESS tablets 25 mg are pale yellow, round, orange-banana flavored, chewable tablets with the corporate logo on one side and "473" on the other side.
 They are supplied as follows:
 
 - NDC 0006-0473-61 unit-of-use bottles of 60.
-- No. 3965
 
 ISENTRESS for oral suspension 100 mg is a white to off-white granular powder that may contain yellow or beige to tan particles, in child resistant single-use foil packets, packaged as
 

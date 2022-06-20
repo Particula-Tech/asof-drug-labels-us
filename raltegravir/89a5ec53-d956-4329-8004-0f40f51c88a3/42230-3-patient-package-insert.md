@@ -45,8 +45,8 @@
 | ISENTRESS for oral suspension: |  |  |  |  |
 | Active ingredient: raltegravir |  |  |  |  |
 | Inactive ingredients: ammonium hydroxide, banana with other natural flavors, carboxymethylcellulose sodium, crospovidone, ethylcellulose 20 cP, fructose, hydroxypropyl cellulose, hypromellose 2910/6cP, macrogol/PEG 400, magnesium stearate, maltodextrin, mannitol, medium chain triglycerides, microcrystalline cellulose, monoammonium glycyrrhizinate, oleic acid, sorbitol, sucralose and sucrose. |  |  |  |  |
-| Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA |  |  |  |  |
-| For patent information: www.merck.com/product/patent/home.html |  |  |  |  |
-| Copyright © 2007-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. |  |  |  |  |
-| usppi-mk0518-mf-2007r029 For more information go to www.ISENTRESS.com or call 1-800-622-4477. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised July 2020 |
+| Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA |  |  |  |  |
+| For patent information: www.msd.com/research/patent |  |  |  |  |
+| Copyright © 2007-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. |  |  |  |  |
+| usppi-mk0518-mf-2205r030 For more information go to www.ISENTRESS.com or call 1-800-622-4477. |  |  |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Revised May 2022 |

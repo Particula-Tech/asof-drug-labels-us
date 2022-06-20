@@ -1,15 +1,17 @@
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2014-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2014-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk0518-mf-2108r037
+uspi-mk0518-mf-2205r038
 
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. Whitehouse Station, NJ, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2013-2017 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2013-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-ifu-mk0518-mf-1711r001 Revised November/2017
+ifu-mk0518-mf-2205r002 Revised May/2022
