@@ -3,7 +3,6 @@
 ## 2.1 Important Dosing Information
 
 Administer only as an intravenous infusion [see Dosage and Administration (2.7)].
-
 Do not administer as an intravenous push or bolus.
 RIABNI should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
 
@@ -16,20 +15,20 @@ Obtain complete blood counts (CBC) including platelets prior to the first dose.
 
 During RIABNI Therapy
 
-In patients with lymphoid malignancies during treatment with RIABNI monotherapy, obtain complete blood counts (CBC) with differential and platelet counts prior to each course.
+In patients with lymphoid malignancies during treatment with RIABNI monotherapy, obtain complete blood counts (CBC) with differential and platelet counts prior to each RIABNI course.
 During treatment with RIABNI and chemotherapy, obtain CBC with differential and platelet counts at weekly to monthly intervals and more frequently in patients who develop cytopenias [see Adverse Reactions (6.1)].
 
-In patients with GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RIABNI therapy.
+In patients with RA, GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RIABNI therapy.
 Continue to monitor for cytopenias after final dose and until resolution.
 
-- First Infusion: Initiate infusion at a rate of 50 mg/hour.
+- First Infusion: Standard Infusion: Initiate infusion at a rate of 50 mg/hour.
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hour increments every 30 minutes, to a maximum of 400 mg/hour.
 - Subsequent Infusions: Standard Infusion: Initiate infusion at a rate of 100 mg/hour.
   In the absence of infusion toxicity, increase rate by 100 mg/hour increments at 30-minute intervals, to a maximum of 400 mg/hour.
-  For Previously Untreated Follicular NHL and DLBCL Patients: If patients did not experience a Grade 3 or 4 infusion-related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
+  For Previously Untreated Follicular NHL and DLBCL Adult Patients: If patients did not experience a Grade 3 or 4 infusion-related adverse event during Cycle 1, a 90-minute infusion can be administered in Cycle 2 with a glucocorticoid-containing chemotherapy regimen.
   Initiate at a rate of 20% of the total dose given in the first 30 minutes and the remaining 80% of the total dose given over the next 60 minutes.
   If the 90-minute infusion is tolerated in Cycle 2, the same rate can be used when administering the remainder of the treatment regimen (through Cycle 6 or 8).
-  Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count ≥ 5,000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
+  Patients who have clinically significant cardiovascular disease or who have a circulating lymphocyte count greater than or equal to 5,000/mm3 before Cycle 2 should not be administered the 90-minute infusion [see Clinical Studies (14.4)].
 - Interrupt the infusion or slow the infusion rate for infusion-related reactions [see Boxed Warning, Warnings and Precautions (5.1)].
   Continue the infusion at one-half the previous rate upon improvement of symptoms.
 
@@ -54,7 +53,14 @@ The recommended dose is 375 mg/m2 the day prior to the initiation of FC chemothe
 When used as part of the Zevalin therapeutic regimen, infuse 250 mg/m2 in accordance with the Zevalin package insert.
 Refer to the Zevalin package insert for full prescribing information regarding the Zevalin therapeutic regimen.
 
-## 2.5 Recommended Dose for Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
+## 2.5 Recommended Dose for Rheumatoid Arthritis (RA)
+
+- Administer RIABNI as two-1,000 mg intravenous infusions separated by 2 weeks.
+- Glucocorticoids administered as methylprednisolone 100 mg intravenous or its equivalent 30 minutes prior to each infusion are recommended to reduce the incidence and severity of infusion-related reactions.
+- Subsequent courses should be administered every 24 weeks or based on clinical evaluation, but not sooner than every 16 weeks.
+- RIABNI is given in combination with methotrexate.
+
+## 2.6 Recommended Dose for Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 Induction Treatment of Adult Patients with Active GPA/MPA
 
@@ -68,17 +74,17 @@ Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Con
 - If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RIABNI within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
 - If induction treatment of active disease was with other standard of care immunosuppressants, initiate RIABNI follow up treatment within the 4 week period that follows achievement of disease control.
 
-## 2.6 Recommended Dose for Premedication and Prophylactic Medications
+## 2.7 Recommended Dose for Premedication and Prophylactic Medications
 
 Premedicate with acetaminophen and an antihistamine before each infusion of RIABNI.
-For patients administered RIABNI according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
+For adult patients administered RIABNI according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
 
-For GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA, GPA, and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Provide prophylaxis treatment for Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
 
 PCP prophylaxis is also recommended for patients with GPA and MPA during treatment and for at least 6 months following the last RIABNI infusion.
 
-## 2.7 Administration and Storage
+## 2.8 Administration and Storage
 
 Use appropriate aseptic technique.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
@@ -87,6 +93,7 @@ Do not use vial if particulates or discoloration is present.
 
 Administration
 
+Use a sterile needle and syringe to prepare RIABNI.
 Withdraw the necessary amount of RIABNI and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP.
 Gently invert the bag to mix the solution.
 Do not mix or dilute with other drugs.
@@ -96,7 +103,8 @@ Storage
 
 If not used immediately, store diluted RIABNI solutions as shown in Table 1.
 
-Table 1 Diluted RIABNI Solution Storage Conditions
+Table 1.
+Diluted RIABNI Solution Storage Conditions
 
 | Diluent Used to Prepare Solution for Infusion | Diluted RIABNI Solution Storage Conditions |
 | --- | --- |
