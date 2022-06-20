@@ -6,11 +6,11 @@ Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have
 Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of clindamycin, even when administered by the vaginal route, because approximately 5% of the clindamycin dose is systemically absorbed from the vagina.
 
 Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of "antibiotic-associated" colitis.
+Studies indicate that a toxin produced by Clostridioides difficile is a primary cause of "antibiotic-associated" colitis.
 
 After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
 Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridium difficile colitis.
+In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation, and treatment with an antibacterial drug clinically effective against Clostridioides difficile colitis.
 
 Onset of pseudomembranous colitis symptoms may occur during or after antimicrobial treatment.
 
