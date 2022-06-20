@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA200175"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-0874-30",
+    "0713-0875-30",
+    "0713-0876-30",
+    "0713-0877-30",
+    "0713-0878-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil / amlodipine besylate / hydrochlorothiazide",
+      "name": "Tribenzor"
+    }
+  ],
+  "setid": "2f56d0bc-236b-41a0-9fc0-21cdfea8d890",
+  "source": "dailymed"
+}
