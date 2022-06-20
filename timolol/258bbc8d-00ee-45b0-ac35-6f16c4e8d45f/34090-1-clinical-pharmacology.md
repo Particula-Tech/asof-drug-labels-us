@@ -8,7 +8,7 @@ In patients with severe impairment of myocardial function, beta-adrenergic recep
 
 Beta-adrenergic receptor blockade in the bronchi and bronchioles results in increased airway resistance from unopposed parasympathetic activity.
 Such an effect in patients with asthma or other bronchospastic conditions is potentially dangerous.
-ISTALOL ophthalmic solution, when applied topically on the eye, has the action of reducing elevated as well as normal intraocular pressure, whether or not accompanied by glaucoma.
+ISTALOL ophthalmic solution, when applied topically in the eye, has the action of reducing elevated as well as normal intraocular pressure, whether or not accompanied by glaucoma.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of glaucomatous visual field loss.
 The higher the level of intraocular pressure, the greater the likelihood of glaucomatous visual field loss and optic nerve damage.
 The onset of reduction in intraocular pressure following administration of ISTALOL can usually be detected within one-half hour after a single dose.

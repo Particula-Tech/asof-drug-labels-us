@@ -4,11 +4,9 @@ NDC 24208-004-03
 
 Rx only
 
-Istalol®
+Istalol® (timolol maleate ophthalmic solution) 0.5%
 
-(timolol maleate ophthalmic solution) 0.5%
-
-For topical application in the eye.
+For Topical Ophthalmic Use
 
 5mL
 
@@ -17,3 +15,5 @@ Sterile
 BAUSCH + LOMB
 
 Once Daily
+
+9542004 AB44207
