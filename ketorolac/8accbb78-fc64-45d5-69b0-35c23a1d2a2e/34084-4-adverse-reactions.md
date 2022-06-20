@@ -74,14 +74,14 @@ Table 3: Incidence of Clinically Serious G.I.
 Bleeding as Related to Age, Total Daily Dose, and History of G.I.
 Perforation, Ulcer, Bleeding (PUB) after up to 5 Days of Treatment with Ketorolac Tromethamine Injection
 
-| A. Adult Patients without History of PUB |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |  |
-| ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |  |
-| <65 years of age | 0.4% | 0.4% | 0.9% | 4.6% |  |
-| ≥65 years of age | 1.2% | 2.8% | 2.2% | 7.7% |  |
-| B. Adult Patients with History of PUB |  |  |  |  |  |
-| Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |  |
-| ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |  |
-| <65 years of age | 2.1% | 4.6% | 7.8% | 15.4% |  |
-| ≥65 years of age | 4.7% | 3.7% | 2.8% | 25.0% |  |
+| A. Adult Patients without History of PUB |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |
+| ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |
+| <65 years of age | 0.4% | 0.4% | 0.9% | 4.6% |
+| ≥65 years of age | 1.2% | 2.8% | 2.2% | 7.7% |
+| B. Adult Patients with History of PUB |  |  |  |  |
+| Age of Patients | Total Daily Dose of Ketorolac Tromethamine Injection |  |  |  |
+| ≤60 mg | >60 to 90 mg | >90 to 120 mg | >120 mg |  |
+| <65 years of age | 2.1% | 4.6% | 7.8% | 15.4% |
+| ≥65 years of age | 4.7% | 3.7% | 2.8% | 25.0% |

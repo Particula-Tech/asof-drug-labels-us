@@ -19,7 +19,7 @@ Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Rx only NDC 0409-3793-01 Contains 25 of NDC 0409-3793-19
 
-Ketorolac Tromethamine Inj., USP 15 mg/mL*
+Ketorolac Tromethamine Injection, USP 15 mg/mL
 
 FOR INTRAVENOUS/INTRAMUSCULAR USE.
 
@@ -46,9 +46,9 @@ Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Rx only NDC 0409-3795-01 Contains 25 of NDC 0409-3795-19
 
-Ketorolac Tromethamine Inj., USP
+Ketorolac Tromethamine Injection, USP
 
-30 mg/mL*
+30 mg/mL
 
 FOR INTRAVENOUS/INTRAMUSCULAR USE.
 
@@ -77,9 +77,9 @@ Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 Rx only NDC 0409-3796-01 Contains 25 of NDC 0409-3796-19
 
-Ketorolac Tromethamine Inj., USP
+Ketorolac Tromethamine Injection, USP
 
-60 mg/2 mL* (30 mg/mL)*
+60 mg/2 mL (30 mg/mL)
 
 FOR INTRAMUSCULAR USE ONLY.
 
