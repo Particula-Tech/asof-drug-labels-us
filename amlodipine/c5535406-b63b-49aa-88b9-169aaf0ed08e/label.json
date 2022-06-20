@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022100"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-0870-30",
+    "0713-0871-30",
+    "0713-0872-30",
+    "0713-0873-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "amlodipine besylate and olmesartan medoxomil",
+      "name": "Azor"
+    }
+  ],
+  "setid": "c5535406-b63b-49aa-88b9-169aaf0ed08e",
+  "source": "dailymed"
+}
