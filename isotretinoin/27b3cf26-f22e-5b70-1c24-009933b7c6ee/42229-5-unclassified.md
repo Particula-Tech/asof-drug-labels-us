@@ -68,22 +68,6 @@ Ortho-Novum 7/7/7 is a registered trademark of Ortho-McNeil Pharmaceutical, Inc.
 
 Rx Only
 
-Manufactured by:
-
-Cipla Limited
-
-Kurkumbh Village
-
-Pune – 413 802 INDIA
-
-Manufactured for:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-or
-
 Distributed by:
 
 Dr.Reddy's Laboratories Inc.,
@@ -92,4 +76,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 0119
+Revised: 02/2022

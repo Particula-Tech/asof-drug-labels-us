@@ -1,6 +1,6 @@
 CONTRAINDICATIONS AND WARNINGS
 
-Zenatane must not be used by patients who are or may become pregnant.
+ZenataneTM must not be used by patients who are or may become pregnant.
 There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking Zenatane in any amount, even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining whether an exposed fetus has been affected.
@@ -17,7 +17,7 @@ If pregnancy does occur during treatment of a patient who is taking Zenatane, Ze
 
 Special Prescribing Requirements
 
-Because of Zenatane's teratogenicity and to minimize fetal exposure, Zenatane is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
-This program is called iPLEDGE ®.
-Zenatane must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
-Zenatane must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).
+Because of Zenatane’s teratogenicity and to minimize fetal exposure, Zenatane is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
+This REMS is called iPLEDGE®.
+Zenatane must only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
+Zenatane must only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolledand meet all the requirements of iPLEDGE(see PRECAUTIONS).

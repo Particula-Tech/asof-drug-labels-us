@@ -123,41 +123,41 @@ Because the onset in some patients was sudden, patients should be advised of thi
 
 # PRECAUTIONS
 
-Zenatane must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
-Zenatane must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE.
-Registered and activated pharmacies must receive Zenatane only from wholesalers registered with iPLEDGE.
+Zenatane must only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
+Zenatane must only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolled and meet all the requirements of iPLEDGE.
+Enrolled and activated pharmacies must receive Zenatane only from wholesalers enrolled with iPLEDGE.
 
-iPLEDGE Program requirements for wholesalers, prescribers, and pharmacists are described below:
+iPLEDGE REMS requirements for wholesalers, prescribers, and pharmacists are described below:
 
 Wholesalers:
 
-For the purpose of the iPLEDGE Program, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
-To distribute Zenatane, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
-Wholesalers must register with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
+For the purpose of the iPLEDGE REMS, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
+To distribute Zenatane, wholesalers must be enrolled with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
+Wholesalers must enroll with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
 These include:
 
-- Registering prior to distributing isotretinoin and re-registering annually thereafter
+- Enrolling prior to distributing isotretinoin and re-enrolling annually thereafter
 - Distributing only FDA approved isotretinoin product
 - Only shipping isotretinoin to
 
-- wholesalers registered in the iPLEDGE Program with prior written consent from the manufacturer or
+- wholesalers enrolled in the iPLEDGE REMS with prior written consent from the manufacturer or
 
-- pharmacies licensed in the US and registered and activated in the iPLEDGE Program
+- pharmacies licensed in the US and enrolled and activated in the iPLEDGE REMS
 
-- Notifying the isotretinoin manufacturer (or delegate) of any non-registered and/or non-activated pharmacy or unregistered wholesaler that attempts to order isotretinoin
-- Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE Program by the isotretinoin manufacturer (or delegate)
-- Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE Program or if the wholesaler chooses to not re-register annually
+- Notifying the isotretinoin manufacturer (or delegate) of any non-enrolled and/or non-activated pharmacy or unenrolled wholesaler that attempts to order isotretinoin
+- Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
+- Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE REMS or if the wholesaler chooses to not re-enroll annually
 
 Prescribers:
 
-To prescribe isotretinoin, the prescriber must be registered and activated with the pregnancy risk management program iPLEDGE.
-Prescribers can register by signing and returning the completed registration form.
-Prescribers can only activate their registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
+To prescribe isotretinoin, the prescriber must be enrolled and activated with the pregnancy risk management program iPLEDGE.
+Prescribers can enroll by signing and returning the completed enrollment form.
+Prescribers can only activate their enrollment by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - I have the expertise to provide the patient with detailed pregnancy prevention counseling, or I will refer the patient to an expert for such counseling, reimbursed by the manufacturer.
-- I will comply with the iPLEDGE Program requirements described in the booklets entitled Guide To Best Practices for the iPLEDGE Program and Prescriber Contraception Counseling Guide.
+- I will comply with the iPLEDGE REMS requirements described in the booklet entitled iPLEDGE REMSPrescriber Guide.
 - Before beginning treatment of patients who can become pregnant with isotretinoin, and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence, not having any sexual contact with a partner that could result in pregnancy.
 - I will not prescribe isotretinoin to any patient who can become pregnant until verifying the patient has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
   Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test one month later.
@@ -165,7 +165,7 @@ Prescribers can only activate their registration by affirming that they meet req
 
 To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
 
-1) Register each patient in the iPLEDGE Program.
+1) Enroll each patient in the iPLEDGE REMS.
 
 2) Confirm monthly that each patient has received counseling and education.
 
@@ -176,10 +176,10 @@ To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the
 
 Isotretinoin must only be prescribed to patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
 
-Isotretinoin must only be dispensed by a pharmacy registered and activated with the pregnancy risk management program iPLEDGE and only when the registered patient meets all the requirements of the iPLEDGE Program.
+Isotretinoin must only be dispensed by a pharmacy enrolled and activated with the pregnancy risk management program iPLEDGE and only when the enrolled patient meets all the requirements of the iPLEDGE REMS.
 Meeting the requirements for a patient who can become pregnant signifies that the patient:
 
-- Has been counseled and has signed a Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin.
+- Has been counseled and has signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin.
   The patient must sign the informed consent form before starting treatment and patient counseling must also be done at that time and on a monthly basis thereafter.
 - Has had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial isotretinoin prescription.
   The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for isotretinoin.
@@ -192,7 +192,7 @@ Meeting the requirements for a patient who can become pregnant signifies that th
 
 - Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the patient who can become pregnant receiving each prescription.
-- Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary method, unless the patient commits to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
+- Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary form, unless the patient commits to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
   Patients must use two forms of effective contraception for at least one month prior to initiation of isotretinoin therapy, during isotretinoin therapy, and for one month after discontinuing isotretinoin therapy.
   Counseling about contraception and behaviors associated with an increased risk of pregnancy must be repeated on a monthly basis.
 
@@ -224,7 +224,7 @@ Any birth control method can fail.
 There have been reports of pregnancy from patients who can become pregnant who have used oral contraceptives, as well as transdermal patch/injectable/ implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking Zenatane.
 These reports are more frequent for patients who use only a single form of contraception.
 Therefore, it is critically important that patients who can become pregnant use two effective forms of contraception simultaneously.
-Patients must receive written warnings about the rates of possible contraception failure (included in patient education kits).
+Patients must receive warnings about the importance of choosing one primary method and a secondary method of contraception and that the patient must be compliant in use as outlined in the Guide for Patients who can get Pregnant.
 
 Using two forms of contraception simultaneously substantially reduces the chances that a patient will become pregnant over the risk of pregnancy with either form alone.
 A drug interaction that decreases effectiveness of hormonal contraceptives has not been entirely ruled out for Zenatane (see PRECAUTIONS: Drug Interactions).
@@ -233,19 +233,19 @@ Although hormonal contraceptives are highly effective, prescribers are advised t
 Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John’s Wort.
 Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John’s Wort.
 
-If a pregnancy does occur during isotretinoin treatment, isotretinoin must be discontinued immediately.
+If a pregnancy does occur during Zenatane treatment, Zenatane must be discontinued immediately.
 The patient should be referred to an Obstetrician-Gynecologist experienced in reproductive toxicity for further evaluation and counseling.
-Any suspected fetal exposure during or one month after isotretinoin therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also to the iPLEDGE Pregnancy Registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
+Any suspected fetal exposure during or one month after Zenatane therapy must be reported immediately to the FDA via the MedWatch number 1-800-FDA-1088 and also to the iPLEDGE Pregnancy Registry at 1-866-495-0654 or via the internet (www.ipledgeprogram.com).
 
 All Patients
 
 Isotretinoin is contraindicated in patients who are pregnant.
 To receive isotretinoin all patients must meet all of the following conditions:
 
-- Must be registered with the iPLEDGE Program by the prescriber
+- Must be enrolled with the iPLEDGE REMS by the prescriber
 - Must understand that severe birth defects can occur with the use of isotretinoin by patients who can become pregnant
 - Must be reliable in understanding and carrying out instructions
-- Must sign a Patient Information/Informed Consent (for all patients) form that contains warnings about the potential risks associated with isotretinoin
+- Must sign a Patient Enrollment Form for Patients who cannot get Pregnant that contains warnings about the potential risks associated with isotretinoin
 - Must obtain the prescription within 7 days of the date of specimen collection for the pregnancy test for patients who can become pregnant
 - Must obtain the prescription within 30 days of the office visit for patients who cannot become pregnant
 - Must not donate blood while on isotretinoin and for one month after treatment has ended
@@ -261,32 +261,34 @@ In addition to the requirements for all patients described above, patients who c
 - Must obtain the prescription within 7 days of the date of specimen collection for the pregnancy test
 - Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, and understand behaviors associated with an increased risk of pregnancy
 - Must understand that it is the patient who can become pregnant responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
-- Must have signed an additional Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
+- Must have signed an additional Patient Enrollment Form for Patients who can get Pregnant, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
 - Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and 1 month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
-- Must have been informed of the purpose and importance of providing information to the iPLEDGE Program should the patient become pregnant while taking isotretinoin or within one month of the last dose
+- Must have been informed of the purpose and importance of providing information to the iPLEDGE REMS should the patient become pregnant while taking isotretinoin or within one month of the last dose
 
 Pharmacists:
 
-To dispense isotretinoin, pharmacies must be registered and activated with the pregnancy risk management program iPLEDGE.
+To dispense isotretinoin, pharmacies must be enrolled and activated with the pregnancy risk management program iPLEDGE.
 
-The Responsible Site Pharmacist must register the pharmacy by signing and returning the completed registration form.
-After registration, the Responsible Site Pharmacist can only activate the pharmacy registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
+The Responsible Site Pharmacist must enroll the pharmacy by signing and returning the completed Pharmacy Enrollment Form.
+After enrolling, the Responsible Site Pharmacist can only activate the pharmacy enrollment by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
-- I will train all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions on the iPLEDGE Program requirements.
-- I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE Program requirements described in the booklet entitled Pharmacist Guide, specifically the "Key Information for Pharmacists" section including the following dispensing information:
-  - Prescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE Program system and the product returned to inventory.
-- I will only obtain Zenatane product from only iPLEDGE registered wholesalers.
+- I will train all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions on the iPLEDGE REMS requirements.
+- I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE REMS requirements described in the booklet entitled Pharmacist Guide, specifically the "Key Information for Pharmacists" section including the following dispensing information:
+  - Prescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE REMS system and the product returned to inventory.
+- I understand and will comply with the Non-Compliance Action Policy.
+- I will only obtain Zenatane product from only iPLEDGE enrolled wholesalers.
 - I will not sell, buy, borrow, loan or otherwise transfer isotretinoin in any manner to or from another pharmacy.
-- I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE Program or if the pharmacy chooses to not reactivate annually.
+- I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE REMS or if the pharmacy chooses to not reactivate annually.
 - I will not fill isotretinoin for any party other than a qualified patient.
+- I will comply with the audits by the iPLEDGE Sponsors or third party acting on behalf of the iPLEDGE Sponsors to ensure that all processes and procedures are in place and being followed for the iPLEDGE REMS
 
 To dispense isotretinoin, the pharmacist must:
 
-1) be trained by the Responsible Site Pharmacist concerning the iPLEDGE Program requirements.
+1) be trained by the Responsible Site Pharmacist concerning the iPLEDGE REMS requirements.
 
-2) obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) or through electronic telecommunication verification (via submission of an isotretinoin prescription claim) for every isotretinoin prescription.
-Authorization signifies that the patient has met all program requirements and is qualified to receive isotretinoin.
+2) obtain authorization from the iPLEDGE REMS via the internet (www.ipledgeprogram.com), or telephone (1-866-495-0654) for every isotretinoin prescription.
+Authorization signifies that the patient has met all program requirements and is qualified to receive Zenatane.
 
 3) write the Risk Management Authorization (RMA) number on the prescription.
 
@@ -294,39 +296,37 @@ Zenatane must only be dispensed:
 
 - in no more than a 30-day supply
 - with a Zenatane Medication Guide
-- after authorization from the iPLEDGE Program
+- after authorization from the iPLEDGE REMS
 - prior to the “do not dispense to patient after” date provided by the iPLEDGE system (within 30 days of the office visit for patients who cannot become pregnant and within 7 days of the date of specimen collection for patients who can become pregnant)
 - with a new prescription for refills and another authorization from the iPLEDGE Program (No automatic refills are allowed)
 
 A Zenatane Medication Guide must be given to the patient each time Zenatane is dispensed, as required by law.
 This Zenatane Medication Guide is an important part of the risk management program for the patients.
 
-Zenatane must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
+Zenatane must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE REMS.
 Only FDA-approved Zenatane products must be distributed, prescribed, dispensed, and used.
 Patients must obtain Zenatane prescriptions only at US licensed pharmacies.
 
-A description of the iPLEDGE Program educational materials available with iPLEDGE is provided below.
+A description of the iPLEDGE REMS educational materials available with iPLEDGE is provided below.
 The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
 
-1) Guide to Best Practices for the iPLEDGE Program includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified isotretinoin prescription.
+1) Prescriber Guide includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified Zenatane prescription.
 
-2) Prescriber Contraception Counseling Guide includes: specific information about effective contraception, the limitations of contraceptive forms, behaviors associated with an increased risk of contraceptive failure and pregnancy and the methods to evaluate pregnancy risk.
+2) Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
 
-3) Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
+3) The iPLEDGE REMS is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
+The iPLEDGE REMS includes information on the risks and benefits of Zenatane which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
 
-4) The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
-The iPLEDGE Program includes information on the risks and benefits of Zenatane which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
+4) The Fact Sheet for the iPLEDGE REMS includes information on the iPLEDGE REMS, the product indications and safety information.
+This is handout is provided to both the patient who can become pregnant and the patient who cannot become pregnant.
+The Patient Enrollment Form for Patients who cannot get Pregnant is also provided to all patients.
 
-5) Patients who cannot become pregnant and patients who can become pregnant are provided with separate booklets.
-Each booklet contains information on isotretinoin therapy including precautions and warnings, a Patient Information/Informed Consent (for all patients) form, and a toll-free line which provides isotretinoin information in two languages.
+5) Patients who can become pregnant are provided with a Guide for Patients Who Can Get Pregnant, which contains information on isotretinoin therapy including precautions and warnings, and a second Patient Enrollment Form for Patients who can get Pregnant concerning birth defects, and a toll-free line which provides Zenatane information in two languages.
 
-6) The booklet for patients who cannot become pregnant, Guide to Isotretinoin for Patients Who Cannot Get Pregnant, also includes information about male reproduction and a warning not to share isotretinoin with others or to donate blood during isotretinoin therapy and for one month following discontinuation of isotretinoin.
+6) The booklet for patients who can become pregnant, Contraception Counseling Guide, includes a referral program that offers patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Enrollment form for Patients who can get Pregnant concerning birth defects.
 
-7) The booklet for patients who can become pregnant, Guide to Isotretinoin for Patients Who Can Get Pregnant, includes a referral program that offers patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form concerning birth defects.
-
-8) The booklet, Birth Control Workbook includes information on the types of contraceptive forms, the selection and use of appropriate, effective contraception, the rates of possible contraceptive failure and a toll-free contraception counseling line.
-
-9) In addition, to the booklets, patient educational materials also include the iPLEDGE Program Birth Control Information Sheet and the following videos — “Be Prepared, Be Protected” and “Be Aware: The Risk of Pregnancy While on Isotretinoin” (see Information for Patients).
+7)The Guide for Patients Who Can Get Pregnant outlines the effectiveness of the approved contraception options.
+(see Information for Patients).
 
 ## General
 
@@ -343,12 +343,10 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
 
 - Patients must be instructed to read the Medication Guide supplied as required by law when Zenatane is dispensed.
   The complete text of the Medication Guide is reprinted at the end of this document.
-  For additional information, patients must also be instructed to read the iPLEDGE Program patient educational materials.
-  All patients must sign the Patient Information/Informed Consent (for all patients) form.
+  For additional information, patients must also be instructed to read the iPLEDGE REMS patient educational materials.
+  All patients must sign the Patient Enrollment Form for Patients who cannot get Pregnant.
 - Patients who can become pregnant must be instructed that they must not be pregnant when Zenatane therapy is initiated, and that they should use two forms of effective contraception simultaneously for one month before starting Zenatane, while taking Zenatane, and for one month after Zenatane has been stopped, unless they commit to continuous abstinence from not having any sexual contact with a partner that could result in pregnancy.
-  They should also sign a second Patient Information/Informed Consent About Birth Defects (for patients who can get pregnant) form prior to beginning Zenatane therapy.
-  They should be given an opportunity to view the patient video provided by the manufacturer to the prescriber.
-  The video includes information about contraception, the most common reasons that contraception fails, and the importance of using two forms of effective contraception when taking teratogenic drugs and comprehensive information about types of potential birth defects which could occur if a patient who is pregnant takes Zenatane at any time during pregnancy.
+  They should also sign a second Patient Enrollment Form for Patients who can get Pregnant prior to beginning Zenatane therapy.
   Patients who can become pregnant should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another Zenatane prescription is written (see Boxed CONTRAINDICATIONS AND WARNINGS and PRECAUTIONS).
 - Zenatane is found in the semen of male patients taking Zenatane, but the amount delivered to a a patient who can become pregnant would be about 1 million times lower than an oral dose of 40 mg.
   While the no-effect limit for isotretinoin induced embryopathy is unknown, 20 years of postmarketing reports include four with isolated defects compatible with features of retinoid exposed fetuses; however two of these reports were incomplete, and two had other possible explanations for the defects observed.

@@ -9,7 +9,7 @@ This information does not take the place of talking with your doctor about your 
 What is the most important information I should know about Zenatane?
 
 - Zenatane is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- Because Zenatane can cause birth defects, Zenatane is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
+- Because Zenatane can cause birth defects, Zenatane is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE REMS.
 - Zenatane may cause serious mental health problems.
 
 1.
@@ -60,9 +60,9 @@ Zenatane is a medicine taken by mouth to treat the most severe form of acne (nod
 Zenatane can cause serious side effects (see “What is the most important information I should know about Zenatane?”).
 Zenatane can only be:
 
-- prescribed by doctors that are registered in the iPLEDGE Program
-- dispensed by a pharmacy that is registered with the iPLEDGE Program
-- given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program
+- prescribed by doctors that are enrolled in the iPLEDGE REMS
+- dispensed by a pharmacy that is enrolled with the iPLEDGE REMS
+- given to patients who are enrolled in the iPLEDGE REMS and agree to do everything required in the program
 
 What is severe nodular acne?
 
@@ -77,7 +77,6 @@ Who should not take Zenatane?
   See “What is the most important information I should know about Zenatane?”
 - Do not take Zenatane if you are allergic to anything in it.
   See the end of this Medication Guide for a complete list of ingredients in Zenatane.
-  Zenatane contains parabens as the preservatives.
 
 What should I tell my doctor before taking Zenatane?
 
@@ -93,7 +92,7 @@ Tell your doctor if you or a family member has any of the following health condi
 - food or medicine allergies
 
 Tell your doctor if you are pregnant or breastfeeding.
-Zenatane must not be used by women who are pregnant or breastfeeding.
+Zenatane must not be used by patients who are pregnant or breastfeeding.
 
 Tell your doctor about all of the medicines you take including prescription and non­prescription medicines, vitamins and herbal supplements.
 Zenatane and certain other medicines can interact with each other, sometimes causing serious side effects.
@@ -123,16 +122,16 @@ Do not take any new medicine without talking with your doctor.
 How should I take Zenatane?
 
 - You must take Zenatane exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE Program.
+  You must also follow all the instructions of the iPLEDGE REMS.
   Before prescribing Zenatane, your doctor will:
-- explain the iPLEDGE Program to you
-- have you sign the Patient Information/Informed Consent Form (for all patients).
-  Patients who can get pregnant must also sign another consent form.
+- explain the iPLEDGE REMS to you
+- have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
+  Patients who can get pregnant must also sign another enrollment form.
 
-You will not be prescribed Zenatane if you cannot agree to or follow all the instructions of the iPLEDGE Program.
+You will not be prescribed Zenatane if you cannot agree to or follow all the instructions of the iPLEDGE REMS.
 
 - You will get no more than a 30 day supply of Zenatane at a time.
-  This is to make sure you are following the Zenatane iPLEDGE Program.
+  This is to make sure you are following the Zenatane iPLEDGE REMS.
   You should talk with your doctor each month about side effects.
 - The amount of Zenatane you take has been specially chosen for you.
   It is based on your body weight, and may change during treatment.
@@ -150,8 +149,8 @@ You will not be prescribed Zenatane if you cannot agree to or follow all the ins
   Your doctor may do blood tests to check for serious side effects from Zenatane.
   Patients who can get pregnant will get a pregnancy test each month.
 - Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Zenatane.
-  You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
-  To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
+  You must access the iPLEDGE REMS system to answer questions about the program requirements and to enter your two chosen forms of birth control.
+  To access the iPLEDGE REMS system, go to www.ipledgeprogram.com or call 1-866-495-0654.
   You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
   Your doctor can arrange this free visit, which will be paid for by the company that makes Zenatane.
   If you have sex at any time without using two forms of effective birth control, get pregnant, or miss your expected period, stop using Zenatane and call your doctor right away.
@@ -251,7 +250,7 @@ These are not all of the possible side effects with Zenatane.
 Your doctor or pharmacist can give you more detailed information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088 or Dr. Reddys at 1-888-375-3784.
+You may report side effects to FDA at 1-800-FDA-1088 or Dr. Reddy's at 1-888-375-3784.
 
 How should I store Zenatane?
 
@@ -269,7 +268,7 @@ This Medication Guide summarizes the most important information about Zenatane.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Zenatane that is written for healthcare professionals.
 
-You can also call iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
+You can also call iPLEDGE REMS at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Zenatane?
 
@@ -286,22 +285,6 @@ To reorder additional Medication Guides contact Dr. Reddy’s Customer Service a
 
 Rx Only
 
-Manufactured by:
-
-Cipla Limited
-
-Kurkumbh Village
-
-Pune – 413 802 INDIA
-
-Manufactured for:
-
-Dr. Reddy’s Laboratories Limited
-
-Bachupally – 500 090 INDIA
-
-or
-
 Distributed by:
 
 Dr. Reddy's Laboratories Inc.,
@@ -310,6 +293,6 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued: 0119
+Revised: 02/2022
 
 Zenatane is a trademark of Dr. Reddy's Laboratories, Inc. and/or its affiliates.
