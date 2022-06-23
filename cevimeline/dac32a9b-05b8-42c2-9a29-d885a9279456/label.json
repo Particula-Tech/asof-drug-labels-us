@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020989"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-0883-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "Evoxac"
+    }
+  ],
+  "setid": "dac32a9b-05b8-42c2-9a29-d885a9279456",
+  "source": "dailymed"
+}
