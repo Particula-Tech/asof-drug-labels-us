@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021286"
+  ],
+  "inn": "olmesartan",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-0860-30",
+    "0713-0861-30",
+    "0713-0862-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "olmesartan medoxomil",
+      "name": "Benicar"
+    }
+  ],
+  "setid": "5b6f8a18-8f8a-4521-81c3-3a39c73c6646",
+  "source": "dailymed"
+}
