@@ -120,7 +120,7 @@ Table 10: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD
 | t1/2 (hr) | 1.3 (0.2) | 1.1 (0.2) | 1.0 (0.2) |
 | Vss (L) | 18.8 (10.7) | 10.6 (6.2) | 7.1 (4.0) |
 | Clearance (L/h) | 18.87 (7.54) | 11.02 (4.06) | 7.62 (2.40) |
-| AUC0-8, area under the curve in the dosing interval 0 to 8 hours at steady-state; Ceoi, concentration at the end of infusion; CL, elimination clearance; SD, standard deviation; t1/2, terminal half-life; VSS, steady-state volume of distribution. |  |  |  |
+| AUC0-8, area under the curve in the dosing interval 0 to 8 hours at steady-state; Ceoi, concentration at the end of infusion; CL, elimination clearance; SD, standard deviation; t1/2, terminal half-life; Vss, steady-state volume of distribution. |  |  |  |
 
 Table 11: Steady-State Plasma Population Pharmacokinetic Parameters (Mean and SD) of ZERBAXA (ceftolozane and tazobactam) in Pediatric cUTI Patients
 

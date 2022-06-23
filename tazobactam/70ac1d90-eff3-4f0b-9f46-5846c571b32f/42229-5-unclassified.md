@@ -1,9 +1,10 @@
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
 Manufactured by: Steri-Pharma, LLC Syracuse, NY 13202, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2015-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2015-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk7625a-iv-2204r007
+uspi-mk7625a-iv-2205r008
