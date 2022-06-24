@@ -17,18 +17,10 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-Manufactured In Israel By:
+Manufactured In Czech Republic By: TEVA Czech Industries, s.r.o.
+Opava-Komarov, Czech Republic
 
-Teva Pharmaceutical Ind.
-Ltd.
-
-Jerusalem, 9777402, Israel
-
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: TEVA PHARMACEUTICALS USA, INC. North Wales, PA 19454
 
 Rev.
-AE 6/2016
+AD 9/2015
