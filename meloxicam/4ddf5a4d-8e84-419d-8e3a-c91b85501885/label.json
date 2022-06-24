@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021530"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Avondale Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "71740-339-11"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "meloxicam",
+      "name": "Meloxicam"
+    }
+  ],
+  "setid": "4ddf5a4d-8e84-419d-8e3a-c91b85501885",
+  "source": "dailymed"
+}
