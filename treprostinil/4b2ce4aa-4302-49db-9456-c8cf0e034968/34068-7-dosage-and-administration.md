@@ -58,7 +58,7 @@ For administration of Undiluted Treprostinil Injection the rate is calculated us
 | Treprostinil Vial Strength (mg/mL) |  |  |  |  |  |  |
 | *Conversion factor of 0.00006 = 60 min/hour x 0.000001 mg/ng |  |  |  |  |  |  |
 
-For administration of Diluted Treprostinil Injection the rate and concentration is calculated using the following formulas:
+For administration of Diluted Treprostinil Injection, the concentration is calculated using the following formula:
 
 Step 1
 
@@ -90,7 +90,7 @@ External Intravenous Infusion Pump:
 Treprostinil Injection is administered intravenously by continuous infusion via a surgically placed indwelling central venous catheter using an external infusion pump designed for intravenous drug delivery.
 If clinically necessary, a temporary peripheral intravenous cannula, preferably placed in a large vein, may be used for short term administration of Treprostinil Injection.
 Use of a peripheral intravenous infusion for more than a few hours increases the risk of thrombophlebitis.
-The infusion pump used to administer Treprostinil Injection should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ±6% or better of the hourly dose, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
+The infusion pump used to administer Treprostinil Injection should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ±6% or better, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
 Alternatively, use an infusion pump cleared for use with Treprostinil Injection.
 To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and infusion sets.
 

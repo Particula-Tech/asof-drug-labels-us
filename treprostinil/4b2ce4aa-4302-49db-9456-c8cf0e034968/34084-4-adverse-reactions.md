@@ -53,7 +53,7 @@ As a potent vasodilator, hypotension is possible with the administration of trep
 
 The safety of treprostinil was also studied in a long-term, open-label extension study in which 860 patients were dosed for a mean duration of 1.6 years, with a maximum exposure of 4.6 years.
 Twenty-nine (29%) percent achieved a dose of at least 40 ng/kg/min (max: 290 ng/kg/min).
-The safety profile during this chronic dosing study was similar to that observed in the 12-week placebo controlled study except for the following suspected adverse drug reactions (occurring in at least 3% of patients): anorexia, vomiting, infusion site infection, asthenia, and abdominal pain.
+The safety profile during this chronic dosing study was similar to that observed in the 12-week placebo-controlled study except for the following suspected adverse drug reactions (occurring in at least 3% of patients): anorexia, vomiting, infusion site infection, asthenia, and abdominal pain.
 
 Adverse Events Attributable to the Drug Delivery System
 
@@ -61,7 +61,7 @@ In controlled studies of treprostinil administered subcutaneously, there were no
 There were 187 infusion system complications reported in 28% of patients (23% treprostinil, 33% placebo); 173 (93%) were pump related and 14 (7%) related to the infusion set.
 Eight of these patients (4 treprostinil, 4 placebo) reported non- serious adverse events resulting from infusion system complications.
 Adverse events resulting from problems with the delivery systems were typically related to either symptoms of excess treprostinil (e.g., nausea) or return of PAH symptoms (e.g., dyspnea).
-These events were generally resolved by correcting the delivery system pump or infusion set problem such as replacing the syringe or battery, reprogramming the pump, or straightening a crimped infusion line.
+These events were generally resolved by correcting the delivery system pump or infusion set problem, such as replacing the syringe or battery, reprogramming the pump, or straightening a crimped infusion line.
 Adverse events resulting from problems with the delivery system did not lead to clinical instability or rapid deterioration.
 In addition to these adverse events due to the drug delivery system during subcutaneous administration, the following adverse events may be attributable to the intravenous mode of infusion including arm swelling, paresthesias, hematoma and pain [see Warnings and Precautions (5.1)].
 
