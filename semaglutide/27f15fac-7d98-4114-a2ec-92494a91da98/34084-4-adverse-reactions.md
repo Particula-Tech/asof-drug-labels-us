@@ -8,6 +8,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.4)]
 - •Acute Kidney Injury [see Warnings and Precautions (5.5)]
 - •Hypersensitivity [see Warnings and Precautions (5.6)]
+- •Acute Gallbladder Disease [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -120,3 +121,5 @@ The following adverse reactions have been reported during post-approval use of s
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
+
+Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy

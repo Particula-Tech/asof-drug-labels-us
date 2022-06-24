@@ -25,7 +25,7 @@ In patients with type 2 diabetes, treatment with semaglutide injection 1 mg resu
 
 Insulin Secretion
 
-Both first-and second-phase insulin secretion are increased in patients with type 2 diabetes treated with semaglutide compared with placebo.
+Both first- and second-phase insulin secretion are increased in patients with type 2 diabetes treated with semaglutide compared with placebo.
 
 Glucagon Secretion
 

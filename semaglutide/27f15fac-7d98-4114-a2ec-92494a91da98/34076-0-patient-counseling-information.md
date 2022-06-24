@@ -31,10 +31,15 @@ Hypersensitivity Reactions
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of RYBELSUS.
 Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking RYBELSUS and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
 
+Acute Gallbladder Disease
+
+Inform patients of the potential risk for cholelithiasis or cholecystitis.
+Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.7)].
+
 Pregnancy
 
 Advise a pregnant woman of the potential risk to a fetus.
-Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in SpecificPopulations (8.1), (8.3)].
+Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1), (8.3)].
 
 Lactation
 
@@ -60,12 +65,12 @@ Plainsboro, NJ 08536
 
 1-833-457-7455
 
-Date of Issue: April 2021
+Date of Issue: 06/2022
 
-Version: 3
+Version: 4
 
 RYBELSUS ® and OZEMPIC® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2021 Novo Nordisk
+© 2022 Novo Nordisk

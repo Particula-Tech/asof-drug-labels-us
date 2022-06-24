@@ -39,7 +39,7 @@ RYBELSUS®
 
 (semaglutide) Tablets
 
-3 mg
+7 mg
 
 Once daily
 
