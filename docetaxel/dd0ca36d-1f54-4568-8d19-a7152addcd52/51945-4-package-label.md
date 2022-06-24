@@ -47,6 +47,4 @@ READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
 One 8 mL single-dose vial.
 Discard unused portion.
 
-Rx ONLY
-
 SANOFI
