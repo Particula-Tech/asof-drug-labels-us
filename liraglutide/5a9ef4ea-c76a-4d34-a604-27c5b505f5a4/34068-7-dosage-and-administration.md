@@ -7,9 +7,10 @@
 - •Inject VICTOZA subcutaneously once-daily at any time of day, independently of meals.
 - •Inject VICTOZA subcutaneously in the abdomen, thigh or upper arm.
   No dose adjustment is needed if changing the injection site and/or timing.
+- •Rotate injection sites within the same region in order to reduce the risk of cutaneous amyloidosis [see Adverse Reactions (6.3)].
 - •When using VICTOZA with insulin, administer as separate injections.
   Never mix.
-- •It is acceptable to inject VICTOZA and insulin in the same body region but the injections should not be adjacent to each other.
+  It is acceptable to inject VICTOZA and insulin in the same body region but the injections should not be adjacent to each other.
 - •If a dose is missed, resume the once-daily regimen as prescribed with the next scheduled dose.
   Do not administer an extra dose or increase the dose to make up for the missed dose.
 - •If more than 3 days have elapsed since the last VICTOZA dose, reinitiate VICTOZA at 0.6 mg to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.

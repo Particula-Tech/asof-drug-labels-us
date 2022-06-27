@@ -7,21 +7,11 @@ Risk of Thyroid C-cell Tumors
 Inform patients that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding has not been determined.
 Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
 
-Dehydration and Renal Failure
-
-Advise patients treated with VICTOZA of the potential risk of dehydration due to gastrointestinal adverse reactions and to take precautions to avoid fluid depletion.
-Inform patients of the potential risk for worsening renal function, which in some cases may require dialysis.
-
 Pancreatitis
 
 Inform patients of the potential risk for pancreatitis.
 Explain that persistent severe abdominal pain that may radiate to the back and which may or may not be accompanied by vomiting, is the hallmark symptom of acute pancreatitis.
 Instruct patients to discontinue VICTOZA promptly and contact their physician if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
-
-Acute Gallbladder Disease
-
-Inform patients of the potential risk for cholelithiasis or cholecystitis.
-Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up.
 
 Never Share a VICTOZA Pen Between Patients
 
@@ -30,12 +20,22 @@ Advise patients that they must never share a VICTOZA pen with another person, ev
 Hypoglycemia
 
 Inform patients that hypoglycemia has been reported when VICTOZA is used with insulin secretagogues or insulin and may occur in pediatric patients regardless of concomitant antidiabetic treatment.
-Educate patients or caregivers on the signs and symptoms of hypoglycemia.
+Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.4)].
+
+Dehydration and Renal Failure
+
+Advise patients treated with VICTOZA of the potential risk of dehydration due to gastrointestinal adverse reactions and to take precautions to avoid fluid depletion.
+Inform patients of the potential risk for worsening renal function, which in some cases may require dialysis [see Warnings and Precautions (5.5)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of VICTOZA.
 Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking VICTOZA and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
+
+Acute Gallbladder Disease
+
+Inform patients of the potential risk for cholelithiasis or cholecystitis.
+Instruct patients to contact their physician if cholelithiasis or cholecystitis is suspected for appropriate clinical follow-up [see Warnings and Precautions (5.7)].
 
 Jaundice and Hepatitis
 
@@ -58,15 +58,15 @@ Novo Nordisk A/S
 
 DK-2880 Bagsvaerd, Denmark
 
-Date of Issue: December 2021
+Date of Issue: 06/2022
 
-Version: 14
+Version: 15
 
 VICTOZA® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2021 Novo Nordisk
+© 2022 Novo Nordisk
 
 For information about VICTOZA contact:
 

@@ -7,6 +7,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Hypoglycemia [see Warnings and Precautions (5.4)]
 - •Renal Impairment [see Warnings and Precautions (5.5)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
+- •Acute Gallbladder Disease [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -99,6 +100,7 @@ The incidence of cholecystitis was 0.2% in both VICTOZA-treated and placebo-trea
 
 In the LEADER trial [see Clinical Studies (14.3)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in VICTOZA-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
 The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in VICTOZA-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
+The majority of events required hospitalization or cholecystectomy.
 
 Laboratory Tests
 
@@ -167,5 +169,6 @@ Because these events are reported voluntarily from a population of uncertain siz
 - •Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
 - •Angioedema and anaphylactic reactions.
 - •Allergic reactions: rash and pruritus
+- •Skin and subcutaneous tissue disorder: cutaneous amyloidosis
 - •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death
-- •Hepatobiliary disorders: hyperbilirubinemia, elevations of liver enzymes, cholestasis, hepatitis
+- •Hepatobiliary disorders: hyperbilirubinemia, elevations of liver enzymes, cholestasis, hepatitis, cholecystitis, cholelithiasis requiring cholecystectomy

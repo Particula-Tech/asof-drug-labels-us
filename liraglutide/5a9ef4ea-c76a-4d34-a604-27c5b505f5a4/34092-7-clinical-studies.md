@@ -394,7 +394,7 @@ e Estimated using a mixed model for repeated measurement with treatment, country
 ## 14.2 Glycemic Control Trial in Pediatric Patients 10 Years of Age and Older with Type 2 Diabetes Mellitus
 
 VICTOZA was evaluated in a 26-week, double-blind, randomized, parallel group, placebo controlled multi-center trial (NCT01541215), in 134 pediatric patients with type 2 diabetes aged 10 years and older.
-Patients were randomized toVICTOZA once-daily or placebo once-daily in combination with metformin with or without basal insulin treatment.
+Patients were randomized to VICTOZA once-daily or placebo once-daily in combination with metformin with or without basal insulin treatment.
 All patients were on a metformin dose of 1000 to 2000 mg prior to randomization.
 The basal insulin dose was decreased by 20% at randomization and VICTOZA was titrated weekly by 0.6 mg for 2 to 3 weeks based on tolerability and an average fasting plasma glucose goal of <110 mg/dL.
 
@@ -424,7 +424,7 @@ Table 12 Results at week 26 in a trial comparing VICTOZA in combination with met
 | Adjusted mean change from baseline after 26 weeksa | -19.4 | 14.4 |
 | Treatment difference [95% CI] VICTOZA vs Placebo | -33.83 [-55.74; -11.92] |  |
 
-a The change from baseline to end of treatment visit in HbA1c and FPG was analyzed usinga pattern mixture model with multiple imputation.
+a The change from baseline to end of treatment visit in HbA1c and FPG was analyzed using a pattern mixture model with multiple imputation.
 Missing observations (10.6% in the VICTOZA, 14.5% in the placebo) were imputed from the placebo arm based on multiple (x10,000) imputations.
 The data for week 26 was then analyzed with an ANCOVA model containing treatment, sex and age group as fixed effects and baseline value as covariate.
 
