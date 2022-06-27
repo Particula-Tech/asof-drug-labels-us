@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA206968"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9386-01",
+    "0143-9386-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "88c29438-3648-4b09-bd43-70ad7a35bcb5",
+  "source": "dailymed"
+}
