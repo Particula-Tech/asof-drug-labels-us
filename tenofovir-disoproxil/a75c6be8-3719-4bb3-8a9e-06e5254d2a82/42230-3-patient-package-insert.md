@@ -30,7 +30,7 @@ Tenofovir disoproxil fumarate tablets are a prescription medicine that is used t
 
 - treat HIV-1 infection when used with other anti-HIV-1 medicines in adults and children 2 years of age and older who weigh at least 22 pounds (10 kg).
   HIV is the virus that causes AIDS (Acquired Immune Deficiency Syndrome).
-- treat HBV infection in adults and children 12 years of age and older who weigh at least 22 pounds (10 kg).
+- treat HBV infection in adults and children 2 years of age and older who weigh at least 22 pounds (10 kg).
   It is not known if tenofovir disoproxil fumarate tablets are safe and effective in children under 2 years of age.
 
 What should I tell my healthcare provider before taking tenofovir disoproxil fumarate tablets?
@@ -161,5 +161,4 @@ All brands listed are the trademarks of their respective owners and are not trad
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2021 Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.
-However, due to Gilead Sciences, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 06/2022

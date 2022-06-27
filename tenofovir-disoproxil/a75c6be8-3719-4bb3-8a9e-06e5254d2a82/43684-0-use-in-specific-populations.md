@@ -73,15 +73,22 @@ Although changes in HIV-1 RNA in these highly treatment-experienced subjects in 
 
 The effects of tenofovir disoproxil fumarate-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in HIV-1 pediatric patients 2 years and older are unknown.
 The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients 2 years and older, and in particular, the effects of long-duration exposure in younger children is unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+
 Safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients younger than 2 years of age and weighing less than 10 kg with HIV-1 infection have not been established.
-Pediatric Patients 12 Years of Age and Older with Chronic Hepatitis B The safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients 12 years to less than 18 years of age is supported by data from one randomized trial (Trial 115) in which tenofovir disoproxil fumarate was administered to HBV-infected treatment-experienced subjects.
+
+Pediatric Patients 2 Years of Age and Older with Chronic Hepatitis B
+
+The safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients 2 years to less than 18 years of age is supported by data from two randomized trials (Trial 115 and Trial 144) in which tenofovir disoproxil fumarate was administered to HBV-infected treatment-experienced subjects.
+
 In Trial 115, 106 HBeAg negative (9%) and positive (91%) subjects 12 years to less than 18 years of age with chronic HBV infection were randomized to receive blinded treatment with tenofovir disoproxil fumarate or placebo for 72 weeks.
 At Week 72, 88% of subjects in the tenofovir disoproxil fumarate group and 0% of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
+In Trial 144, 89 HBeAg positive (96%) and negative (4%) subjects 2 years to less than 12 years of age were treated with tenofovir disoproxil fumarate 8 mg/kg up to maximum dose of 300 mg or placebo once daily for 48 weeks.
+At Week 48, 77% of subjects in the tenofovir disoproxil fumarate group and 7% of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
+
 The effects of tenofovir disoproxil fumarate-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in chronic HBV-infected pediatric patients 2 years and older are unknown.
 The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients 2 years and older, and in particular, the effects of long-duration exposure in younger children is unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+
 Safety and effectiveness of tenofovir disoproxil fumarate in chronic HBV-infected pediatric patients younger than 2 years of age and weighing less than 10 kg have not been established.
-Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.
-However, due to Gilead Sciences, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

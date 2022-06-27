@@ -49,10 +49,10 @@ Race There were insufficient numbers from racial and ethnic groups other than Ca
 
 Gender Tenofovir pharmacokinetics are similar in male and female subjects.
 
-Pediatric Patients Steady-state pharmacokinetics of tenofovir were evaluated in HIV-1 infected pediatric subjects 12 years to less than 18 years of age (Table 13).
-Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of tenofovir disoproxil fumarate 300 mg (tablet) or 8 mg/kg of body weight (powder) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil fumarate 300 mg.
+Pediatric Patients 2 Years and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 years to less than 18 years of age (Table 13).
+Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of tenofovir disoproxil fumarate 300 mg (tablet) or 8 mg/kg of body weight (powder) up to a maximum dose of 300 mg was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil fumarate 300 mg.
 
-Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for HIV-1 infected Pediatric Patients 12 years and older for the Tablet and Oral Powder
+Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1 infected Pediatric Patients 2 years and older for the Tablet and Oral Powder
 
 | Dose and Formulation | 300 mg Tablet | 8 mg/kg Oral Powder |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for HIV-1 infected Pe
 | Cmax (mcg/mL) | 0.38 ± 0.13 | 0.24 ± 0.13 |
 | AUCtau (mcg•hr/mL) | 3.39 ± 1.22 | 2.59 ± 1.06 |
 
-Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
+Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet and pediatric subjects 2 years to less than 12 years of age receiving tenofovir disoproxil fumarate 8 mg/kg of body weight (tablet or powder) up to a maximum dose of 300 mg were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
 
 Geriatric Patients Pharmacokinetic trials have not been performed in the elderly (65 years and older).
 
@@ -101,7 +101,7 @@ Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 | Coadministered Drug | Dose of Coadministered Drug (mg) | N | % Change of Tenofovir Pharmacokinetic Parametersb (90% CI) |  |  |
 | Atazanavirc | 400 once daily × 14 days | 33 | ↑ 14 (↑ 8 to ↑ 20) | ↑ 24 (↑ 21 to ↑ 28) | ↑ 22 (↑ 15 to ↑ 30) |
 | Atazanavir/ Ritonavirc | 300/100 once daily | 12 | ↑ 34 (↑ 20 to ↑ 51) | ↑ 37 (↑ 30 to ↑ 45) | ↑ 29 (↑ 21 to ↑ 36) |
-| Darunavir/ Ritonavird | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑19 to ↑ 57) |
+| Darunavir/ Ritonavird | 300/100 twice daily | 12 | ↑ 24 (↑ 8 to ↑ 42) | ↑ 22 (↑ 10 to ↑ 35) | ↑ 37 (↑ 19 to ↑ 57) |
 | Indinavir | 800 three times daily × 7 days | 13 | ↑ 14 (↓ 3 to ↑ 33) | ⇔ | ⇔ |
 | Ledipasvir/ Sofosbuvire,f | 90/400 once daily × 10 days | 24 | ↑ 47 (↑ 37 to ↑ 58) | ↑ 35 (↑ 29 to ↑ 42) | ↑ 47 (↑ 38 to ↑ 57) |
 | Ledipasvir/ Sofosbuvire,g | 23 | ↑ 64 (↑ 54 to ↑ 74) | ↑ 50 (↑ 42 to ↑ 59) | ↑ 59 (↑ 49 to ↑ 70) |  |
@@ -140,9 +140,6 @@ Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Tipranavir/Ritonavir 750/200 twice daily (23 doses) | 20 | ↓ 11 (↓ 16 to ↓ 4) | ↓ 9 (↓ 15 to ↓ 3) | ↓ 12 (↓ 22 to 0) |  |
 | a. Increase = ↑; Decrease = ↓; No Effect = ⇔; NA = Not Applicable b. Reyataz Prescribing Information. c. In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3- and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. d. Prezista Prescribing Information. e. Videx EC Prescribing Information. Subjects received didanosine enteric-coated capsules. f. 373 kcal, 8.2 g fat g. Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. h. Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when TDF and ritonavir-boosted saquinavir are coadministered. i. Aptivus Prescribing Information. |  |  |  |  |  |
 
-Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.
-However, due to Gilead Sciences, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 12.4 Microbiology
 
 Mechanism of Action
@@ -161,7 +158,7 @@ The EC50 (50% effective concentration) values for tenofovir were in the range of
 In drug combination studies, tenofovir was not antagonistic with HIV-1 NRTIs (abacavir, didanosine, lamivudine, stavudine, zidovudine), NNRTIs (efavirenz, nevirapine), and protease inhibitors (amprenavir, indinavir, nelfinavir, ritonavir, saquinavir).
 Tenofovir displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, G, and O (EC50 values ranged from 0.5 µM to 2.2 µM) and strain-specific activity against HIV-2 (EC50 values ranged from 1.6 µM to 5.5 µM).
 Resistance HIV-1 isolates with reduced susceptibility to tenofovir have been selected in cell culture.
-These viruses expressed a K65R substitution in RT and showed a 2- to 4- fold reduction in susceptibility to tenofovir.
+These viruses expressed a K65R substitution in RT and showed a 2- to 4-fold reduction in susceptibility to tenofovir.
 In addition, a K70E substitution in HIV-1 RT has been selected by tenofovir and results in low-level reduced susceptibility to tenofovir.
 In Trial 903 of treatment-naïve subjects (tenofovir disoproxil fumarate+3TC+EFV versus d4T+3TC+EFV) [see Clinical Studies (14.2)], genotypic analyses of isolates from subjects with virologic failure through Week 144 showed development of EFV and 3TC resistance-associated substitutions to occur most frequently and with no difference between the treatment arms.
 The K65R substitution occurred in 8/47 (17%) of analyzed patient isolates in the tenofovir disoproxil fumarate arm and in 2/49 (4%) of analyzed patient isolates in the d4T arm.
