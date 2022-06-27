@@ -32,7 +32,7 @@ Effects on Cardiac Electrophysiology
 
 The effect of buprenorphine transdermal system 10 mcg/hour and 2 × buprenorphine transdermal system 20 mcg/hour on QTc interval was evaluated in a double-blind (buprenorphine transdermal system vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
 The dose escalation sequence for buprenorphine transdermal system during the titration period was: buprenorphine transdermal system 5 mcg/hour for 3 days, then buprenorphine transdermal system 10 mcg/hour for 3 days, then buprenorphine transdermal system 20 mcg/hour for 3 days, then 2 × buprenorphine transdermal system 20 mcg/hour for 4 days.
-The QTc evaluation was performed during the third day of buprenorphine transdermal system 10 mcg/hour and the fourth day of 2 × buprenorphine transdermal system 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.8)].
+The QTc evaluation was performed during the third day of buprenorphine transdermal system 10 mcg/hour and the fourth day of 2 × buprenorphine transdermal system 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.12)].
 
 There was no clinically meaningful effect on mean QTc with a buprenorphine transdermal system dose of 10 mcg/hour.
 A buprenorphine transdermal system dose of 40 mcg/hour (given as two 20 mcg/hour buprenorphine transdermal systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2 -13.3) msec across the 13 assessment time points.
@@ -179,7 +179,7 @@ The pharmacokinetics of buprenorphine following an IV infusion of 0.3 mg of bupr
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
 Buprenorphine transdermal system has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
-[see Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
+[see Warnings and Precautions (5.10), Use in Specific Populations (8.6)].
 
 Renal Impairment
 

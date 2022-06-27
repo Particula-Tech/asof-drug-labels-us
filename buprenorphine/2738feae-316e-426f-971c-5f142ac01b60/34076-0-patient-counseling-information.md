@@ -89,7 +89,7 @@ In order to avoid developing withdrawal symptoms, instruct patients not to disco
 Hypotension
 
 Inform patients that buprenorphine transdermal system may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.8)].
 
 Anaphylaxis
 
@@ -118,7 +118,7 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 Driving or Operating Heavy Machinery
 
 Inform patients that buprenorphine transdermal system may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.18)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.19)].
 
 Constipation
 
