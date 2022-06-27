@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210848"
+  ],
+  "inn": "docetaxel",
+  "labeler": "Mylan Institutional LLC",
+  "package_ndcs": [
+    "72078-040-08"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "docetaxel anhydrous",
+      "name": "Docetaxel"
+    }
+  ],
+  "setid": "2992d633-08fa-44f3-b14d-41700f24686b",
+  "source": "dailymed"
+}
