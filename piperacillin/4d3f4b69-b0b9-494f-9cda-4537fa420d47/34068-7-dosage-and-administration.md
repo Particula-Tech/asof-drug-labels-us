@@ -40,9 +40,10 @@ No additional dosage of piperacillin and tazobactam for injection is necessary f
 
 The recommended dosage for pediatric patients with appendicitis and/or peritonitis or nosocomial pneumonia aged 2 months of age and older, weighing up to 40 kg, and with normal renal function, is described in Table 2[see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
-| Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pediatric Patients 2 Months of Age and Older, Weighing up to 40 kg, and With Normal Renal Function* |  |  |
+Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pediatric Patients 2 Months of Age and Older, Weighing Up to 40 kg, and With Normal Renal Function*
+
+| Age | Appendicitis and/or Peritonitis | Nosocomial Pneumonia |
 | --- | --- | --- |
-| Age | Appendicitis and /or Peritonitis | Nosocomial Pneumonia |
 | 2 months to 9 months | 90 mg/kg (80 mg piperacillin/10 mg tazobactam) every 8 (eight) hours | 90 mg/kg (80 mg piperacillin/10 mg tazobactam) every 6 (six) hours |
 | Older than 9 months of age | 112.5 mg/kg (100 mg piperacillin/12.5 mg tazobactam) every 8 (eight) hours | 112.5 mg/kg (100 mg piperacillin/12.5 mg tazobactam) every 6 (six) hours |
 
@@ -54,7 +55,7 @@ Dosage of piperacillin and tazobactam for injection in pediatric patients with r
 
 ## 2.6 Reconstitution and Dilution of Piperacillin and Tazobactam for Injection
 
-Reconstitution of Piperacillin and Tazobactam for Injection for Adult Patients and Pediatric Patients Weighing over 40 kg
+Reconstitution of Piperacillin and Tazobactam for Injection for Adult Patients and Pediatric Patients Weighing Over 40 kg
 
 Single-Dose Vials
 
@@ -80,7 +81,7 @@ Bacteriostatic saline/benzyl alcohol
 
 Bacteriostatic water/benzyl alcohol
 
-Dilution of the Reconstituted Piperacillin and Tazobactam Solution for Adult Patients and Pediatric Patients Weighing over 40 kg
+Dilution of the Reconstituted Piperacillin and Tazobactam Solution for Adult Patients and Pediatric Patients Weighing Over 40 kg
 
 Reconstituted piperacillin and tazobactam for injection solutions for single-dose vials should be further diluted (recommended volume per dose of 50 mL to 150 mL) in a compatible intravenous solution listed below.
 Administer by infusion over a period of at least 30 minutes.
@@ -151,7 +152,7 @@ Stability of piperacillin and tazobactam for injection is not affected when admi
 Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration.
 Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated [see Drug Interactions (7.1)].
 
-In circumstances where co-administration via Y-site is necessary, Y-site infusion only with the following aminoglycosides under the following conditions:
+In circumstances where co-administration via Y-site is necessary, piperacillin and tazobactam for injection is compatible for simultaneous co-administration via Y-site infusion only with the following aminoglycosides under the following conditions:
 
 Table 5: Compatibility with Aminoglycosides
 

@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- •Hypersensitivity Adverse Reactions [see Warnings and Precautions (5.1)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
+- •Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.3)]
+- •Hematologic Adverse Reactions [see Warnings and Precautions (5.4)]
+- •Central Nervous System Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Nephrotoxicity in Critically ill Patients [see Warnings and Precautions (5.6)]
+- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.8)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -109,7 +119,7 @@ Table 7: Adverse Reactions from Piperacillin and Tazobactam Injection Plus Amino
 
 Other Trials: Nephrotoxicity
 
-In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1[see Warnings and Precautions (5.5)].
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs.1[see Warnings and Precautions (5.6)].
 
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
@@ -146,7 +156,7 @@ Hepatobiliary - hepatitis, jaundice
 
 Hematologic - hemolytic anemia, agranulocytosis, pancytopenia
 
-Immune - hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock)
+Immune - hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), hemophagocytic lymphohistiocytosis (HLH)
 
 Renal - interstitial nephritis
 
@@ -156,7 +166,7 @@ Psychiatric disorders - delirium
 
 Respiratory - eosinophilic pneumonia
 
-Skin and Appendages–erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
+Skin and Appendages - erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
 
 Post-marketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.
 

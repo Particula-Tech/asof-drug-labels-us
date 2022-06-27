@@ -125,7 +125,7 @@ The potential for pharmacokinetic drug interactions between piperacillin and taz
 Mechanism of Action
 
 Piperacillin sodium exerts bactericidal activity by inhibiting septum formation and cell wall synthesis of susceptible bacteria.
-In vitro, piperacillin is active against a variety of Gram-positive and Gram-negative aerobic and anaerobic bacteria.
+In vitro, piperacillin is active against a variety of gram-positive and gram-negative aerobic and anaerobic bacteria.
 Tazobactam sodium has little clinically relevant in vitro activity against bacteria due to its reduced affinity to penicillin-binding proteins.
 It is, however, a beta-lactamase inhibitor of the Molecular class A enzymes, including Richmond-Sykes class III (Bush class 2b & 2b') penicillinases and cephalosporinases.
 It varies in its ability to inhibit class II and IV (2a & 4) penicillinases.
@@ -175,7 +175,7 @@ Streptococcus pneumoniae† (penicillin-susceptible isolates only)
 
 Streptococcus pyogenes†
 
-Viridans group streptococci†
+Viridans group streptococci †
 
 Gram-negative bacteria
 
@@ -211,4 +211,4 @@ Prevotella melaninogenica
 
 Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria, and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
