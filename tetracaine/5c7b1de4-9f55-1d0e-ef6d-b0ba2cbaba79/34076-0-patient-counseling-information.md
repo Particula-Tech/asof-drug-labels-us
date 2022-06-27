@@ -2,6 +2,6 @@
 
 Eye Care Precaution Advise patients that, due to the effect of the anesthetic, their eyes will be insensitive up to 20 minutes and that care should be taken to avoid accidental injuries.
 
-ALCON® a Novartis company Distributed by: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA © 2016 Novartis
+ALCON® Distributed by: ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA © 2021 Alcon Inc.
 
-9013124-0316
+300055204-1121
