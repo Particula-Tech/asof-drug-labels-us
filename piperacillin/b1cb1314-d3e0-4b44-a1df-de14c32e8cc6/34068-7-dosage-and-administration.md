@@ -55,7 +55,7 @@ Dosage of piperacillin and tazobactam for injection in pediatric patients with r
 
 ## 2.6 Reconstitution and Dilution of Piperacillin and Tazobactam for Injection
 
-Reconstitution of Piperacillin and Tazobactam for Injection for Adult Patients and Pediatric Patients Weighing over 40 kg
+Reconstitution of Piperacillin and Tazobactam for Injection for Adult Patients and Pediatric Patients Weighing Over 40 kg
 
 Pharmacy Bulk Bottles
 
@@ -86,7 +86,7 @@ Bacteriostatic saline/benzyl alcohol
 
 Bacteriostatic water/benzyl alcohol
 
-Dilution of the Reconstituted Piperacillin and Tazobactam Solution for Adult Patients and Pediatric Patients Weighing over 40 kg
+Dilution of the Reconstituted Piperacillin and Tazobactam Solution for Adult Patients and Pediatric Patients Weighing Over 40 kg
 
 Reconstituted piperacillin and tazobactam for injection solutions for pharmacy bulk bottles should be further diluted (recommended volume per dose of 50 mL to 150 mL) in a compatible intravenous solution listed below.
 Administer by infusion over a period of at least 30 minutes.
@@ -114,14 +114,14 @@ Parenteral drug products should be inspected visually for particulate matter or 
 Dilution of the Reconstituted Piperacillin and Tazobactam Solution for Pediatric Patients Weighing up to 40 kg
 
 The volume of reconstituted solution required to deliver the dose of piperacillin and tazobactam is dependent on the weight of the child [see Dosage and Administration (2.5)].
-Reconstituted piperacillin and tazobactam solutions for bulk vials should be further diluted in a compatible intravenous solution listed above.
+Reconstituted piperacillin and tazobactam solutions for bulk bottles should be further diluted in a compatible intravenous solution listed above.
 
 1. 1.Calculate patient dose as described in Table 2 above [see Dosage and Administration (2.5)].
-2. 2.Reconstitute vial with a compatible reconstitution diluent, as listed above under the subheading “Compatible Reconstitution Diluents for Pharmacy Bulk Bottles,” using the appropriate volume of diluent, as listed in Table 4 below.
-   Following the addition of the diluent, shake the pharmacy bulk vial until the powder is completely dissolved.
+2. 2.Reconstitute bottle with a compatible reconstitution diluent, as listed above under the subheading “Compatible Reconstitution Diluents for Pharmacy Bulk Bottles,” using the appropriate volume of diluent, as listed in Table 4 below.
+   Following the addition of the diluent, shake the pharmacy bulk bottle until the powder is completely dissolved.
 3. Table 4: Reconstitution of Pharmacy Bulk Bottle and Resulting Concentration
 
-| Strength per Pharmacy Bulk Bottle | Volume of Diluent to be Added to the Vial | Concentration of the Reconstituted Product |
+| Strength per Pharmacy Bulk Bottle | Volume of Diluent to be Added to the Bottle | Concentration of the Reconstituted Product |
 | --- | --- | --- |
 | 13.5 g (12 g piperacillin/1.5 g tazobactam) | 51 mL | 225 mg/mL (200 mg/mL piperacillin/ 25 mg/mL tazobactam) |
 | 40.5 g (36 g piperacillin /4.5 g tazobactam) | 152 mL |  |
@@ -156,7 +156,7 @@ Stability of piperacillin and tazobactam for injection is not affected when admi
 Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration.
 Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated [see Drug Interactions (7.1)].
 
-In circumstances where co-administration via Y-site is necessary, Piperacillin and Tazobactam is compatible for simultaneous co-administration via Y-site infusion only with the following aminoglycosides under the following conditions:
+In circumstances where co-administration via Y-site is necessary, piperacillin and tazobactam for injection is compatible for simultaneous co-administration via Y-site infusion only with the following aminoglycosides under the following conditions:
 
 Table 5: Compatibility with Aminoglycosides
 
