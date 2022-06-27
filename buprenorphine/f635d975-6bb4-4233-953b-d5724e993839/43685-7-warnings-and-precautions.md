@@ -103,7 +103,7 @@ Toxicology screening should test for prescribed and illicit benzodiazepines [see
 
 ## 5.6. Neonatal Opioid Withdrawal Syndrome
 
-Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically-authorized or illicit.
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of prolonged use of opioids during pregnancy, whether that use is medically authorized or illicit.
 Unlike opioid withdrawal syndrome in adults, NOWS may be life-threatening if not recognized and treated in the neonate.
 Healthcare professionals should observe newborns for signs of NOWS and manage accordingly [see Use in Specific Populations (8.1)].
 
@@ -178,29 +178,38 @@ The effect of hepatic impairment on the pharmacokinetics of implanted buprenorph
 Because PROBUPHINE cannot be titrated, patients with pre-existing moderate to severe hepatic impairment are not candidates for treatment with PROBUPHINE.
 Patients who develop moderate to severe hepatic impairment while being treated with PROBUPHINE should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine, and patients may require removal of PROBUPHINE implants [see Use in Specific Populations (8.6), Clinical Pharmacology (12)].
 
-## 5.15. Impairment of Ability to Drive and Operate Machinery
+## 5.15. QTc Prolongation
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤ 15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing PROBUPHINE to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
+
+## 5.16. Impairment of Ability to Drive and Operate Machinery
 
 PROBUPHINE may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially for the first 24-48 hours following initial insertion.
 Caution patients about driving or operating hazardous machinery until they are reasonably certain that PROBUPHINE does not adversely affect their ability to engage in such activities.
 
-## 5.16. Orthostatic Hypotension
+## 5.17. Orthostatic Hypotension
 
 PROBUPHINE may produce orthostatic hypotension in ambulatory patients.
 
-## 5.17. Elevation of Cerebrospinal Fluid Pressure
+## 5.18. Elevation of Cerebrospinal Fluid Pressure
 
 Buprenorphine may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions, and other circumstances where cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
-## 5.18. Elevation of Intracholedochal Pressure
+## 5.19. Elevation of Intracholedochal Pressure
 
 Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
 
-## 5.19. Effects in Acute Abdominal Conditions
+## 5.20. Effects in Acute Abdominal Conditions
 
 Buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.
 
-## 5.20. Infection at Implant Site
+## 5.21. Infection at Implant Site
 
 Infection may occur at the site of the insertion or removal.
 Excessive palpation shortly after insertion of the implants may increase the chance of infection.

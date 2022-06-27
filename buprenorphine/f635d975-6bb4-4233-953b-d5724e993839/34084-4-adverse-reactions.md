@@ -10,10 +10,10 @@ The following adverse reactions are discussed in more detail in other sections o
 - Opioid Withdrawal [see Warnings and Precautions (5.9, 5.12)]
 - Hepatitis, Hepatic Events [see Warnings and Precautions (5.10)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.11)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.16)]
-- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.17)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)]
-- Infection [see Warnings and Precautions (5.20)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.17)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.18)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.19)]
+- Infection [see Warnings and Precautions (5.21)]
 
 ## 6.1. Clinical Trials Experience
 

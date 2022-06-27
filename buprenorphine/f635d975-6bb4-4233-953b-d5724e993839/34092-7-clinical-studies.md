@@ -13,9 +13,9 @@ Healthcare Providers attested to their patient's clinical stability and endorsed
 In addition to the treating Healthcare Provider's determination of clinical stability, patients were also on a sublingual buprenorphine dose of no more than 8 mg per day as a Suboxone tablet or equivalent and had no positive urine toxicology results for illicit opioids for the last 90 days, and were intended to have been on sublingual buprenorphine treatment for at least the last 6 months prior to randomization.
 Most of the study subjects endorsed prescription opioid pain relievers as their primary opioid of abuse.
 
-In this study, clinically-stable subjects on maintenance treatment with no more than 8 mg per day sublingual buprenorphine were randomized 1:1 to either PROBUPHINE (4 implants) or treatment as usual with their pre-randomization dose of sublingual buprenorphine.
+In this study, clinically stable subjects on maintenance treatment with no more than 8 mg per day sublingual buprenorphine were randomized 1:1 to either PROBUPHINE (4 implants) or treatment as usual with their pre-randomization dose of sublingual buprenorphine.
 A total of 87 were treated with PROBUPHINE and received placebo sublingual tablets; 89 were treated with sublingual buprenorphine/naloxone tablets and received placebo implants.
-Patients were seen monthly for six months and were also required to provide four randomly-scheduled urine samples for toxicology.
+Patients were seen monthly for six months and were also required to provide four randomly scheduled urine samples for toxicology.
 Efficacy was evaluated through urine toxicology screening and patient self-report to detect opioid use, over the 6-month treatment period.
 Supplemental dosing with open-label sublingual buprenorphine/naloxone tablets was permitted as clinically indicated.
 

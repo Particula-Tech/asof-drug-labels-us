@@ -18,8 +18,8 @@ New implants may be inserted subdermally in an area of the inner side of either 
 If new implants are not inserted on the same day as the removal of implants, maintain patients on their previous dosage of transmucosal buprenorphine (i.e., the dose from which they were transferred to PROBUPHINE treatment) prior to additional PROBUPHINE treatment.
 
 After one insertion in each arm, most patients should be transitioned back to a transmucosal buprenorphine-containing product for continued treatment.
-There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously-used arm.
-Neither re-insertion into previously-used administration sites, nor into sites other than the upper arm, has been studied [see Dosage and Administration (2.4, 2.5, and 2.9), Warnings and Precautions (5.1)].
+There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously used arm.
+Neither re-insertion into previously used administration sites, nor into sites other than the upper arm, has been studied [see Dosage and Administration (2.4, 2.5, and 2.9), Warnings and Precautions (5.1)].
 
 ## 2.3. Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -41,7 +41,7 @@ All Healthcare Providers who intend to prescribe PROBUPHINE must successfully co
 All Healthcare Providers performing insertions and/or removals of PROBUPHINE must successfully complete a live training program, and demonstrate procedural competency prior to inserting or removing the implants.
 
 Information concerning the insertion and removal procedures can be obtained by calling 1-844-859-6341.
-The basis for successful use and subsequent removal of PROBUPHINE is a correct and carefully-performed subdermal insertion of the four implants in accordance with the instructions.
+The basis for successful use and subsequent removal of PROBUPHINE is a correct and carefully performed subdermal insertion of the four implants in accordance with the instructions.
 As a prerequisite for participating in the live training program leading to certification, the Healthcare Provider must have performed at least one qualifying surgical procedure in the last 3 months.
 Qualifying procedures are those performed under local anesthesia using aseptic technique, and include, at a minimum, making skin incisions, or placing sutures [see Warnings and Precautions (5.2)].
 
@@ -76,7 +76,7 @@ Consider the following factors in determining clinical stability and suitability
 
 Examine the insertion site one week following insertion of PROBUPHINE for signs of infection or any problems with wound healing, including evidence of implant extrusion from the skin.
 
-The recommended visit schedule for most patients is a frequency of no less than once-monthly for continued counseling and psychosocial support.
+The recommended visit schedule for most patients is a frequency of no less than once monthly for continued counseling and psychosocial support.
 
 Although some patients may require occasional supplemental dosing with buprenorphine, patients should not be provided with prescriptions for transmucosal buprenorphine-containing products for as-needed use.
 Instead, patients who feel the need for supplemental dosing should be seen and evaluated promptly.
@@ -147,7 +147,7 @@ Clean insertion site with alcohol prep pad prior to marking the skin.
 
 Step 4.
 Mark the insertion site with the surgical marker.
-The implants will be inserted through a small 2.5 mm-3mm subdermal incision.
+The implants will be inserted through a small 2.5-3 mm subdermal incision.
 
 Step 5.
 Using the surgical marker, mark the channel tracks where each implant will be inserted by drawing 4 lines with each line 4 cm in length.
@@ -443,8 +443,8 @@ If continued treatment is desired at the end of the first six-month treatment cy
 
 If new implants are not inserted on the same day as the removal, patients should be maintained on their previous dose of transmucosal buprenorphine (i.e., the dose from which they were transferred to PROBUPHINE treatment) prior to additional PROBUPHINE treatment [see Dosage and Administration (2.6), Warnings and Precautions (5.1)].
 
-There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously-used arm.
+There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously used arm.
 Neither re-insertion into previously used administration sites, nor into sites other than the upper arm, have been studied.
-It is important to avoid previously-implanted sites because the effect of scarring and fibrosis in previously-used insertion sites on either the effectiveness of PROBUPHINE or the safety of insertion have not been evaluated.
+It is important to avoid previously implanted sites because the effect of scarring and fibrosis in previously used insertion sites on either the effectiveness of PROBUPHINE or the safety of insertion have not been evaluated.
 After one insertion in each arm, additional cycles of treatment should only be considered if the potential benefits of continuing PROBUPHINE outweigh the potential risks of additional insertion and removal procedures, taking into account the experience of the Healthcare Provider with PROBUPHINE procedures and related procedures, and the clinical need of the patient for ongoing treatment with subdermal medication.
 In most cases, patients should be transitioned back to a transmucosal buprenorphine-containing product for continued treatment.

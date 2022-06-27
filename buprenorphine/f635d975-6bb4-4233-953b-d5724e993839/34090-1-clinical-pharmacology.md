@@ -43,6 +43,10 @@ They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic sec
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 
+Cardiac Electrophysiology
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤ 15 msec [see QTc Prolongation (5.15)].
+
 ## 12.3. Pharmacokinetics
 
 Absorption

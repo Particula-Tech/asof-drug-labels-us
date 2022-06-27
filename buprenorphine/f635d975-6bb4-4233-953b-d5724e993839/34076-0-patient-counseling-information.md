@@ -81,7 +81,7 @@ Driving or Operating Heavy Machinery
 
 Caution patients that PROBUPHINE may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving or operating hazardous machinery.
 
-Instruct patients not to drive or operate hazardous machinery until they are reasonably certain that PROBUPHINE therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.15)].
+Instruct patients not to drive or operate hazardous machinery until they are reasonably certain that PROBUPHINE therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.16)].
 
 Dependence and Withdrawal
 
@@ -89,7 +89,7 @@ Inform patients that PROBUPHINE can cause drug dependence and that withdrawal si
 
 Orthostatic Hypotension
 
-Inform patients that, like other opioids, PROBUPHINE may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.16)].
+Inform patients that, like other opioids, PROBUPHINE may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.17)].
 
 Drug Interactions
 
