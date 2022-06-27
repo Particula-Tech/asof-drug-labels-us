@@ -4,6 +4,9 @@ Tables 2 and 3 include drugs with clinically important drug interactions and int
 
 Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
+Table 2.
+Clinically Relevant Interactions Affecting Drugs Coadministered with Lansoprazole and Interactions with Diagnostics
+
 | Antiretrovirals |  |
 | --- | --- |
 | Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. Decreased exposure of some antiretroviral drugs (e.g., rilpivirine, atazanavir, and nelfinavir) when used concomitantly with lansoprazole may reduce antiviral effect and promote the development of drug resistance.Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with lansoprazole may increase toxicity of the antiretroviral drugs.There are other antiretroviral drugs which do not result in clinically relevant interactions with lansoprazole. |
@@ -12,7 +15,7 @@ Consult the labeling of concomitantly used drugs to obtain further information a
 | Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
 | Intervention: | Monitor INR and prothrombin time. Dose adjustment of warfarin may be needed to maintain target INR range. See prescribing information for warfarin. |
 | Methotrexate |  |
-| Clinical Impact: | Concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.9)]. |
+| Clinical Impact: | Concomitant use of PPIs with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.10)]. |
 | Intervention: | A temporary withdrawal of lansoprazole may be considered in some patients receiving high-dose methotrexate. |
 | Digoxin |  |
 | Clinical Impact: | Potential for increased exposure of digoxin. |
@@ -30,7 +33,7 @@ Consult the labeling of concomitantly used drugs to obtain further information a
 | Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
 | Intervention: | Monitor tacrolimus whole blood trough concentrations. Dose adjustment of tacrolimus may be needed to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
 | Interactions with Investigations of Neuroendocrine Tumors |  |
-| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.8), Clinical Pharmacology (12.2)]. |
+| Clinical Impact: | CgA levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.9), Clinical Pharmacology (12.2)]. |
 | Intervention: | Temporarily stop lansoprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
 | Interaction with Secretin Stimulation Test |  |
 | Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
@@ -38,6 +41,9 @@ Consult the labeling of concomitantly used drugs to obtain further information a
 | False Positive Urine Tests for THC |  |
 | Clinical Impact: | There have been reports of false positive urine screening tests for tetrahydrocannabinol (THC) in patients receiving PPIs. |
 | Intervention: | An alternative confirmatory method should be considered to verify positive results. |
+
+Table 3.
+Clinically Relevant Interactions Affecting Lansoprazole When Coadministered with Other Drugs
 
 | CYP2C19 OR CYP3A4 Inducers |  |
 | --- | --- |

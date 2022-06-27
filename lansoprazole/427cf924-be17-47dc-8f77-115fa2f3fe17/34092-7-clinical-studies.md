@@ -27,7 +27,7 @@ Duodenal Ulcer Healing Rates
 
 |  | Lansoprazole |  | Ranitidine |  |
 | --- | --- | --- | --- | --- |
-| Week | 15 mg daily(N=80) | 30 mg daily (N=77) | 60 mg daily(N=82) | Placebo (N=41) |
+| Week | 15 mg daily(N=80) | 30 mg daily (N=77) | 300 mg h.s. (N=82) | Placebo (N=41) |
 | 2 | 35.0% | 44.2% | 30.5% | 34.2% |
 | 4 | 92.3%* | 80.3%† | 70.5%† | 47.5% |
 | * (p≤0.05) vs placebo and ranitidine.† (p≤0.05) vs placebo. |  |  |  |  |
@@ -93,6 +93,8 @@ Endoscopic Remission Rates
 | Placebo | 15 | 33% | 0% | 0% |  |
 | %=Life Table Estimate* (p≤0.001) vs placebo. |  |  |  |  |  |
 
+In trial #2, no significant difference was noted between lansoprazole 15 mg and 30 mg in maintaining remission.
+
 ## 14.4 Gastric Ulcer
 
 In a US multicenter, double-blind, placebo-controlled study of 253 patients with endoscopically documented gastric ulcer, the percentage of patients healed at four and eight weeks was significantly higher with lansoprazole 15 mg and 30 mg once a day than with placebo (Table 14) [see Indications and Usage (1.4)].
@@ -106,6 +108,10 @@ Gastric Ulcer Healing Rates
 | 4 | 64.6%* | 58.1%* | 53.3%* | 37.5% |
 | 8 | 92.2%* | 96.8%* | 93.2%* | 76.7% |
 | * (p≤0.05) vs placebo. |  |  |  |  |
+
+Patients treated with any lansoprazole dose reported significantly less day and night abdominal pain along with fewer days of antacid use and fewer antacid tablets used per day than the placebo group.
+
+Independent substantiation of the effectiveness of lansoprazole 30 mg was provided by a meta-analysis of published and unpublished data.
 
 ## 14.5 Healing of NSAID-Associated Gastric Ulcer
 
@@ -220,7 +226,7 @@ In the two trials described and in several smaller studies involving patients wi
 In a US, multicenter, double-blind, active-controlled study, 30 mg of lansoprazole was compared with ranitidine 150 mg twice daily in 151 patients with erosive reflux esophagitis that was poorly responsive to a minimum of 12 weeks of treatment with at least one H2-receptor antagonist given at the dose indicated for symptom relief or greater, namely, cimetidine 800 mg/day, ranitidine 300 mg/day, famotidine 40 mg/day or nizatidine 300 mg/day.
 Lansoprazole 30 mg was more effective than ranitidine 150 mg twice daily in healing reflux esophagitis, and the percentage of patients with healing were as follows.
 This study does not constitute a comparison of the effectiveness of histamine H2-receptor antagonists with lansoprazole, as all patients had demonstrated unresponsiveness to the histamine H2-receptor antagonist mode of treatment.
-It does indicate, however, that lansoprazole may be useful in patients failing on a histamine H2-receptor antagonist (Table 20) [see Indications and Usage (1.8)].
+It does indicate, however, that lansoprazole may be useful in patients failing on a histamine H2-receptor antagonist (Table 20) [see Indications and Usage (1.7)].
 
 Table 20.
 Reflux Esophagitis Healing Rates in Patients Poorly Responsive to Histamine H2-Receptor Antagonist Therapy
