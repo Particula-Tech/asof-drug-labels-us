@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA084041",
+    "ANDA084678",
+    "ANDA084679"
+  ],
+  "inn": "chlordiazepoxide",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-220-60",
+    "62135-221-60",
+    "62135-222-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "chlordiazepoxide hydrochloride",
+      "name": "Chlordiazepoxide Hydrochloride"
+    }
+  ],
+  "setid": "dd5f82b0-5a56-4728-941a-c8c2a0d51cc4",
+  "source": "dailymed"
+}
