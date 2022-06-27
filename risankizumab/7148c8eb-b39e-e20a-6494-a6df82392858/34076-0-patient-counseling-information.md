@@ -11,11 +11,17 @@ Infections
 Inform patients that SKYRIZI may lower the ability of their immune system to fight infections.
 Instruct patients of the importance of communicating any history of infections to the healthcare provider and contacting their healthcare provider if they develop any symptoms of an infection [see Warnings and Precautions (5.2)].
 
+Hepatotoxicity in Treatment of Crohn’s Disease
+
+Inform patients that SKYRIZI may cause liver injury, especially during the initial 12 weeks of treatment.
+Instruct patients to seek immediate medical attention if they experience symptoms suggestive of liver dysfunction.
+(e.g., unexplained rash, nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine) [see Warnings and Precautions (5.4)].
+
 Administration of Vaccines
 
 Advise patients that vaccination with live vaccines is not recommended during SKYRIZI treatment and immediately prior to or after SKYRIZI treatment.
 Medications that interact with the immune system may increase the risk of infection following administration of live vaccines.
-Instruct patients to inform the healthcare practitioner that they are taking SKYRIZI prior to a potential vaccination [see Warnings and Precautions (5.4)].
+Instruct patients to inform the healthcare practitioner that they are taking SKYRIZI prior to a potential vaccination [see Warnings and Precautions (5.5)].
 
 Administration Instruction
 
@@ -27,8 +33,8 @@ Instruct patients or caregivers in the technique of pen or syringe disposal [see
 
 Pregnancy
 
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women with plaque psoriasis exposed to SKYRIZI during pregnancy and patients can call 1-877-302-2161 [see Use in Specific Populations (8.1)].
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to SKYRIZI during pregnancy and patients can call 1-877-302-2161 [see Use in Specific Populations (8.1)].
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2022 AbbVie Inc. 20070928 01/2022
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2022 AbbVie Inc. 20070464 06/2022

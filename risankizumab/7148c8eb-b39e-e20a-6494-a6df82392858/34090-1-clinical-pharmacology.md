@@ -13,24 +13,26 @@ No formal pharmacodynamics studies have been conducted with risankizumab-rzaa.
 
 ## 12.3 Pharmacokinetics
 
-Risankizumab-rzaa plasma concentrations increased dose-proportionally from 90 to 180 mg and from 18 to 300 mg (0.6 to 1.2 and 0.12 to 2.0 times the approved recommended dosage) following subcutaneous administration in subjects with plaque psoriasis and healthy volunteers, respectively.
-Steady-state concentrations were achieved by Week 16 following subcutaneous administration of risankizumab-rzaa at Weeks 0, 4, and every 12 weeks thereafter.
-At the 150 mg dose, the estimated steady-state peak concentration (Cmax) and trough concentration (Ctrough) were approximately 12 mcg/mL and 2 mcg/mL, respectively.
+Risankizumab-rzaa plasma concentrations, after single dose administration increased dose proportionally from 18 mg to 360 mg when administered subcutaneously (0.05-2.4 times the lowest recommended dose to the highest recommended dose) and from 200 mg to 1800 mg when administered as an up to 3-hour intravenous infusion (0.3 to 3 times the recommended dose) in healthy subjects.
+
+In subjects with plaque psoriasis treated with 150 mg subcutaneously at Weeks 0, 4, and every 12 weeks thereafter, steady-state peak concentration (Cmax) and trough concentration (Ctrough) are estimated to be 12 mcg/mL and 2 mcg/mL, respectively.
 
 With the same dosing regimen, the pharmacokinetics of risankizumab-rzaa in subjects with psoriatic arthritis was similar to that in subjects with plaque psoriasis.
 
+In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 156 mcg/mL and 38.8 mcg/mL, respectively, during Weeks 8-12; and the steady state median Cmax and Ctrough are estimated to be 28.0 mcg/mL and 8.13 mcg/mL, respectively, during Weeks 40-48.
+
 Absorption
 
-The absolute bioavailability of risankizumab-rzaa was estimated to be 89% following subcutaneous injection.
-Cmax was reached by 3-14 days.
+The absolute bioavailability of risankizumab-rzaa was estimated to be 74 to 89% following subcutaneous injection.
+In healthy subjects, following administration of a single subcutaneous dose, Cmax was reached by 3 to 14 days.
 
 Distribution
 
-The estimated steady-state volume of distribution (inter-subject CV%) was 11.2 L (34%) in subjects with plaque psoriasis.
+The estimated steady-state volume of distribution (inter-subject CV%) was 11.2 L (34%) in subjects with plaque psoriasis, and 7.68 L (64%) in subjects with Crohn’s disease.
 
 Elimination
 
-The estimated systemic clearance (inter-subject CV%) was 0.31 L/day (24%) and terminal elimination half-life was approximately 28 days in subjects with plaque psoriasis.
+The estimated systemic clearance (inter-subject CV%) was 0.31 L/day (24%) and 0.30 L/day (34%) and terminal elimination half-life was approximately 28 days and 21 days in subjects with plaque psoriasis and Crohn’s disease, respectively.
 
 Metabolism
 
@@ -40,7 +42,8 @@ As a humanized IgG1 monoclonal antibody, risankizumab-rzaa is expected to be deg
 Specific Populations
 
 No clinically significant differences in the pharmacokinetics of risankizumab-rzaa were observed based on age (≥18 years).
-No specific studies have been conducted to determine the effect of renal or hepatic impairment on the pharmacokinetics of risankizumab-rzaa.
+Risankizumab-rzaa exposures (Ctrough) in geriatric patients (≥65 years) are comparable to those in younger adult patients with Crohn’s disease.
+No studies have been conducted to determine the effect of renal or hepatic impairment on the pharmacokinetics of risankizumab-rzaa.
 
 Body Weight
 
@@ -51,3 +54,5 @@ Drug Interaction Studies
 Cytochrome P450 Substrates
 
 No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), metoprolol (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with risankizumab-rzaa 150 mg administered subcutaneously at Weeks 0, 4, 8 and 12 (more frequent than the approved recommended dosing frequency) in subjects with plaque psoriasis.
+
+Clinical drug interactions have not been evaluated in subjects with Crohn’s disease at the recommended dosage.

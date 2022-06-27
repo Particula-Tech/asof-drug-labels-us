@@ -7,12 +7,8 @@ If a serious hypersensitivity reaction occurs, discontinue SKYRIZI and initiate 
 
 ## 5.2 Infections
 
-SKYRIZI may increase the risk of infections.
-In clinical studies, infections occurred in 22.1% of the SKYRIZI group compared with 14.7% of the placebo group through 16 weeks of treatment.
-Upper respiratory tract infections and tinea infections occurred more frequently in the SKYRIZI group than in the placebo group.
-Subjects with known chronic or acute infections were not enrolled in clinical studies [see Adverse Reactions (6.1)].
+SKYRIZI may increase the risk of infections [see Adverse Reactions (6.1)].
 
-The rate of serious infections for the SKYRIZI group and the placebo group was ≤ 0.4%.
 Treatment with SKYRIZI should not be initiated in patients with any clinically important active infection until the infection resolves or is adequately treated.
 
 In patients with a chronic infection or a history of recurrent infection, consider the risks and benefits prior to prescribing SKYRIZI.
@@ -29,7 +25,21 @@ Consider anti-TB therapy prior to initiating SKYRIZI in patients with a past his
 Monitor patients for signs and symptoms of active TB during and after SKYRIZI treatment.
 Do not administer SKYRIZI to patients with active TB.
 
-## 5.4 Administration of Vaccines
+## 5.4 Hepatotoxicity in Treatment of Crohn’s Disease
+
+A serious adverse reaction of drug-induced liver injury was reported in a patient with Crohn’s disease (ALT 54x ULN, AST 30x ULN, and total bilirubin 2.2x ULN) following two intravenous doses of SKYRIZI 600 mg in conjunction with a rash that required hospitalization.
+The liver test abnormalities resolved following administration of steroids.
+SKYRIZI was subsequently discontinued.
+
+For the treatment of Crohn’s disease, evaluate liver enzymes and bilirubin at baseline, and during induction at least up to 12 weeks of treatment.
+Monitor thereafter according to routine patient management.
+
+Consider other treatment options in patients with evidence of liver cirrhosis.
+Prompt investigation of the cause of liver enzyme elevation is recommended to identify potential cases of drug-induced liver injury.
+Interrupt treatment if drug-induced liver injury is suspected, until this diagnosis is excluded.
+Instruct patients to seek immediate medical attention if they experience symptoms suggestive of hepatic dysfunction.
+
+## 5.5 Administration of Vaccines
 
 Avoid use of live vaccines in patients treated with SKYRIZI.
 Medications that interact with the immune system may increase the risk of infection following administration of live vaccines.

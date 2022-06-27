@@ -213,3 +213,101 @@ www.SKYRIZI.com
 Rx only
 
 abbvie
+
+NDC 0074-1070-01
+
+1 x 2.4 mL Prefilled Cartridge
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+(160 mg/2.4 mL)
+
+150 mg/mL
+
+FOR SUBCUTANEOUS USE ONLY
+
+Single Dose
+
+SKYRIZI.com
+
+Rx only
+
+abbvie
+
+NDC 0074-1070-02
+
+NOT FOR SALE
+
+1 x 2.4 mL Prefilled Cartridge
+
+1 On-Body Injector
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+360 mg/2.4 mL
+
+(150 mg/mL)
+
+FOR SUBCUTANEOUS USE ONLY
+
+Single Dose
+
+SKYRIZI.com
+
+Rx only
+
+abbvie
+
+NDC 0074-5015-01
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+600 mg/10 mL
+
+(60 mg/mL)
+
+FOR INTRAVENOUS USE ONLY
+
+Must be diluted prior to use
+
+One 10 mL Single-Dose Vial-
+
+Discard Unused Portion
+
+Attention: Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+abbvie
+
+NDC 0074-5015-02
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+600 mg/10 mL
+
+(60 mg/mL)
+
+FOR INTRAVENOUS USE ONLY
+
+Must be diluted prior to use
+
+One 10 mL Single-Dose Vial-
+
+Discard Unused Portion
+
+NOT FOR SALE
+
+Attention: Dispense the enclosed Medication Guide to each patient.
+
+Rx only
+
+abbvie

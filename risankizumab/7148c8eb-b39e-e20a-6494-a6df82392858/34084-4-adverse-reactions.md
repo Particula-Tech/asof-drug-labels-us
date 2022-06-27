@@ -4,6 +4,8 @@ The following adverse reactions are discussed in other sections of labeling:
 
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
+- Tuberculosis [see Warnings and Precautions (5.3)]
+- Hepatotoxicity in Treatment of Crohn’s disease [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -57,6 +59,58 @@ The incidence of hypersensitivity reactions was higher in the SKYRIZI group (n=1
 In the Phase 3 placebo-controlled trials, hypersensitivity reactions reported at a higher rate in the SKYRIZI group included rash (placebo: n=4 (0.6%); SKYRIZI: n=5 (0.7%), allergic rhinitis (placebo: n=1 (0.1%); SKYRIZI: n=2 (0.3%), and facial swelling (placebo: n=0 (0.0%); SKYRIZI n=1 (0.1%).
 One case of anaphylaxis was reported in a subject who received SKYRIZI in the Phase 2 clinical trial.
 
+Crohn’s Disease
+
+SKYRIZI was studied up to 12 weeks in subjects with moderately to severely active Crohn’s disease in two randomized, double-blind, placebo-controlled induction studies (CD-1, CD-2) and a randomized, double-blind, placebo-controlled, dose-finding study (CD-4; NCT02031276).
+Long-term safety up to 52 weeks was evaluated in subjects who responded to induction therapy in a randomized, double-blind, placebo-controlled maintenance study (CD-3) [see Clinical Studies (14.3)].
+
+In the two induction studies (CD-1, CD-2) and the dose finding study (CD-4), 620 subjects received the SKYRIZI intravenous induction regimen.
+In the maintenance study (CD-3), 142 subjects who achieved clinical response defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in studies CD-1 and CD-2, received SKYRIZI subcutaneously as a maintenance regimen.
+
+Adverse reactions reported in > 3% of subjects in induction studies and at a higher rate than placebo are shown in Table 2.
+
+Table 2.
+Adverse Drug Reactions Reported in > 3% of Subjects with Crohn’s Disease Treated with SKYRIZI in Placebo-Controlled 12-Week Induction Studies
+
+| Adverse Drug Reactions | SKYRIZI 600 mg Intravenous Infusiona N = 620 n (%) | Placebo N = 432 n (%) |
+| --- | --- | --- |
+| Upper respiratory infectionsb | 66 (10.6) | 40 (9.3) |
+| Headachec | 41 (6.6) | 24 (5.6) |
+| Arthralgia | 31 (5.0) | 19 (4.4) |
+| a SKYRIZI 600 mg as an intravenous infusion at Week 0, Week 4, and Week 8. b Includes: influenza like illness, nasopharyngitis, influenza, pharyngitis, upper respiratory tract infection, viral upper respiratory tract infection, COVID-19, nasal congestion, respiratory tract infection viral, viral pharyngitis, tonsillitis, upper respiratory tract inflammation c Includes: headache, tension headache |  |  |
+
+Adverse reactions reported in >3% of subjects in the maintenance study and at a higher rate than placebo are shown in Table 3.
+
+Table 3.
+Adverse Reactions Reported in >3% of Subjects with Crohn’s Disease Treated with SKYRIZI in Placebo-Controlled 52-Week Maintenance Study (CD-3)
+
+| Adverse Drug Reactions | SKYRIZI 360 mg Subcutaneous Injectiona N = 142 n (%) | Placebo N = 143 n (%) |
+| --- | --- | --- |
+| Arthralgia | 13 (9.2) | 12 (8.4) |
+| Injection site reactionsb,c | 8 (5.6) | 4 (2.8) |
+| Abdominal paind | 12 (8.5) | 6 (4.2) |
+| Anemia | 7 (4.9) | 6 (4.2) |
+| Pyrexia | 7 (4.9) | 4 (2.8) |
+| Back pain | 6 (4.2) | 3 (2.1) |
+| Arthropathy | 5 (3.5) | 2 (1.4) |
+| Urinary tract infection | 5 (3.5) | 4 (2.8) |
+| a SKYRIZI 360 mg at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks b Includes: injection site rash, injection site erythema, injection site swelling, injection site urticaria, injection site warmth, injection site pain, injection site hypersensitivity, injection site reaction c Some subjects had multiple occurrences of injection site reactions. The adverse reaction is included only once per subject. dIncludes: abdominal pain, abdominal pain upper, abdominal pain lower |  |  |
+
+Specific Adverse Drug Reactions
+
+Infections
+
+In the maintenance study (CD-3) through Week 52, the rate of infections was 36.6% (60.8 events per 100 subject-years) in subjects who received SKYRIZI compared to 36.4% (60.3 events per 100 subject-years) in subjects who received placebo after SKYRIZI induction.
+The rate of serious infections was 5.6% (7.4 events per 100 subject-years) in subjects who received SKYRIZI compared to 2.1% (2.4 events per 100 subject-years) in subjects who received placebo after SKYRIZI induction.
+
+Lipid Elevations
+
+Elevations in lipid parameters (total cholesterol and low-density lipoprotein cholesterol [LDL-C]) were first assessed at 4 weeks following initiation of SKYRIZI in the induction trials (CD-1, CD-2).
+Increases from baseline and increases relative to placebo were observed at Week 4 and remained stable to Week 12.
+Following SKYRIZI induction, mean total cholesterol increased by 9.4 mg/dL from baseline to a mean absolute value of 175.1 mg/dL at Week 12.
+Similarly, mean LDL-C increased by 6.6 mg/dL from baseline to a mean absolute value of 92.6 mg/dL Week 12.
+Following maintenance treatment with SKYRIZI, mean LDL-C increased by 2.3 mg/dL from baseline to Week 52, to an absolute value of 102.2 mg/dL.
+
 ## 6.2 Immunogenicity
 
 As with all therapeutic proteins, there is potential for immunogenicity.
@@ -77,6 +131,11 @@ None of the subjects who developed antibodies to risankizumab-rzaa had antibodie
 Antibodies to risankizumab-rzaa were not associated with changes in clinical response for psoriatic arthritis.
 A higher proportion of subjects with anti-drug antibodies experienced hypersensitivity reactions (6.3% (5/79)) and injection site reactions (2.5% (2/79)) compared to subjects without anti-drug antibodies (3.8% (22/574) with hypersensitivity reactions and 0.7% (4/574) with injection site reactions).
 None of these hypersensitivity and injection site reactions led to discontinuation of risankizumab-rzaa.
+
+Crohn’s Disease
+
+By Week 64, approximately 3.4% (2/58) of subjects treated with SKYRIZI at the recommended induction and maintenance dosages developed antibodies to risankizumab-rzaa.
+None of the subjects who developed antibodies to risankizumab-rzaa had antibodies that were classified as neutralizing.
 
 ## 6.3 Postmarketing Experience
 

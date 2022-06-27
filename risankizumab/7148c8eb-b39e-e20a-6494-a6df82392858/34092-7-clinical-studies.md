@@ -22,9 +22,9 @@ Both studies assessed the responses at Week 16 compared with placebo for the two
 
 Secondary endpoints included the proportion of subjects who achieved PASI 100, sPGA 0, and Psoriasis Symptom Scale (PSS) 0 at Week 16.
 
-The results are presented in Table 2.
+The results are presented in Table 4.
 
-Table 2.
+Table 4.
 Efficacy Results at Week 16 in Adults with Plaque Psoriasis in PsO-1 and PsO-2
 
 |  | PsO-1 |  | PsO-2 |  |
@@ -82,12 +82,12 @@ For both studies, the primary endpoint was the proportion of subjects who achiev
 Clinical Response
 
 In both studies, treatment with SKYRIZI resulted in significant improvement in measures of disease activity compared with placebo at Week 24.
-See Tables 3 and 4 for key efficacy results.
+See Tables 5 and 6 for key efficacy results.
 
 In both studies, similar responses were seen regardless of concomitant non-biologic DMARD use, number of prior non-biologic DMARDs, age, gender, race, and BMI.
 In PsA-2, responses were seen regardless of prior biologic therapy.
 
-Table 3.
+Table 5.
 Efficacy Results in Study PsA-1
 
 | Endpoint | Placebo N=481 Response Rate | SKYRIZI N=483 Response Rate | Difference from Placebo (95% CI) |
@@ -103,7 +103,7 @@ Efficacy Results in Study PsA-1
 | Week 24 | 4.7% | 15.3% | 10.5% (6.9, 14.2) |
 | a. multiplicity-controlled p≤0.001, SKYRIZI vs. placebo comparison. *A Subject was considered as a non-responder after initiation of rescue medication or concomitant medications for PsA that could meaningfully impact efficacy assessment. |  |  |  |
 
-Table 4.
+Table 6.
 Efficacy Results in Study PsA-2
 
 | Endpoint | Placebo N=219 Response Rate | SKYRIZI N=224 Response Rate | Difference from Placebo (95% CI) |
@@ -124,9 +124,9 @@ The percent of subjects achieving ACR20 responses in study PsA-1 through Week 24
 Figure 1.
 Percent of Subjects Achieving ACR20 Responses in Study PsA-1 through Week 24
 
-The results of the components of the ACR response criteria for both studies are shown in Table 5.
+The results of the components of the ACR response criteria for both studies are shown in Table 7.
 
-Table 5.
+Table 7.
 Mean Change from Baseline in ACR Components
 
 |  | PsA-1 |  | PsA-2 |  |
@@ -181,3 +181,84 @@ Fatigue was assessed by Functional Assessment of Chronic Illness Therapy Fatigue
 In both studies at Week 24, subjects treated with SKYRIZI showed improvements in the SF-36 physical component summary scores compared with subjects who received placebo.
 There were also numerical improvements in subjects treated with SKYRIZI in physical functioning, role physical, bodily pain, general health, vitality, social functioning, mental health, role emotional domain scores and mental component summary scores in both studies at week 24 compared to placebo.
 In both studies at Week 24, subjects treated with SKYRIZI showed improvements in FACIT-Fatigue scores compared with subjects who received placebo.
+
+## 14.3 Crohn’s Disease
+
+Induction Trials (Studies CD-1 and CD-2)
+
+In two 12-week induction studies (CD-1; NCT03105128 and CD-2; NCT03104413), subjects with moderately to severely active Crohn’s disease were randomized to receive SKYRIZI 600 mg, SKYRIZI 1,200 mg, or placebo as an intravenous infusion at Week 0, Week 4, and Week 8.
+Moderately to severely active CD was defined as a Crohn’s Disease Activity Index (CDAI) of 220 to 450 and Simple Endoscopic Score for Crohn’s disease (SES-CD) ≥6 (or ≥4 for isolated ileal disease).
+Subjects with inadequate response, loss of response, or intolerance to oral aminosalicylates, corticosteroids, immunosuppressants, and/or biologic therapy were enrolled.
+
+At baseline, the median CDAI was 307 (range: 76 – 634) and 307 (range: 72 – 651), and the median SES-CD was 12 (range: 4 – 45) and 13 (range 4 – 40), in CD-1 and CD-2, respectively.
+In CD-1, 58% (491/850) of subjects had failed or were intolerant to treatment with one or more biologic therapies (prior biologic failure).
+All subjects in CD-2 had prior biologic failure.
+At baseline, 30% and 34% of patients were receiving corticosteroids, 24% and 23% of patients were receiving immunomodulators (azathioprine, 6-mercaptopurine, methotrexate), and 31% and 19% of patients were receiving aminosalicylates in CD-1 and CD-2, respectively.
+In CD-1 and CD-2 combined, the median age was 36 years (ranging from 16 to 80 years), 81% (1145/1419) of subjects were white, and 53% (753/1419) were male.
+
+In CD-1 and CD-2, the co-primary endpoints were clinical remission and endoscopic response at Week 12.
+Secondary endpoints included clinical response and endoscopic remission (see Table 8 and Table 9).
+The SKYRIZI 1,200 mg dosage did not demonstrate additional treatment benefit over the 600 mg dosage and is not a recommended regimen [see Dosage and Administration (2.6)].
+
+Table 8.
+Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study CD-1
+
+| Endpoint | Placebo | SKYRIZI 600 mg Intravenous Infusiona | Treatment Difference b (95% CI) |
+| --- | --- | --- | --- |
+| Clinical Remissionc,d |  |  |  |
+| Total Population | N=175 25% | N=336 45% | 21% e (12%, 29%) |
+| Prior biologic failuref | N=97 26% | N=195 42% |  |
+| Without prior biologic failure | N=78 23% | N=141 49% |  |
+| Endoscopic Responsec,g |  |  |  |
+| Total Population | N=175 12% | N=336 40% | 28% e (21%, 35%) |
+| Prior biologic failuref | N=97 11% | N=195 33% |  |
+| Without prior biologic failure | N=78 13% | N=141 50% |  |
+| Clinical Responseh |  |  |  |
+| Total Population | N=175 37% | N=336 60% | 23% e (14%, 32%) |
+| Prior biologic failuref | N=97 34% | N=195 58% |  |
+| Without prior biologic failure | N=78 40% | N=141 62% |  |
+| Endoscopic Remissioni |  |  |  |
+| Total Population | N=175 9% | N=336 24% | 15% e (9%, 21%) |
+| Prior biologic failuref | N=97 5% | N=195 18% |  |
+| Without prior biologic failure | N=78 14% | N=141 32% |  |
+| a. SKYRIZI 600 mg as an intravenous infusion at Week 0, Week 4, and Week 8 b. Adjusted treatment difference (95% CI) based on Cochran-Mantel-Haenszel method adjusted for randomization stratification factors c. Co-primary endpoints d. CDAI <150 e. p <0.001 f. Prior biologic failure includes inadequate response, loss of response, or intolerance to one or more biologic treatments for CD g. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading h. A reduction of CDAI ≥ 100 points from baseline i. SES-CD ≤ 4 and at least a 2-point reduction from baseline, with no individual subscore greater than 1, based on central reading |  |  |  |
+
+Table 9.
+Proportion of Subjects Meeting Efficacy Endpoints at Week 12 – Study CD-2a
+
+| Endpoint | Placebo N=187 | SKYRIZI 600 mg Intravenous Infusionb N=191 | Treatment Differencec (95% CI) |
+| --- | --- | --- | --- |
+| Clinical Remissiond,e | 20% | 42% | 22% f (13%, 31%) |
+| Endoscopic Response d,g | 11% | 29% | 18% f (10%, 25%) |
+| Clinical Responseh | 30% | 60% | 29% f (20%, 39%) |
+| Endoscopic Remissioni | 4% | 19% | 15% f (9%, 21%) |
+| a. All subjects enrolled in CD-2 had prior biologic failure. Prior biologic failure includes inadequate response, loss of response, or intolerance to one or more biologic treatments for CD b. SKYRIZI 600 mg as an intravenous infusion at Week 0, Week 4, and Week 8 c. Adjusted treatment difference (95% CI) based on Cochran-Mantel-Haenszel method adjusted for randomization stratification factors d. Co-primary endpoints e. CDAI score <150 f. p < 0.001 g. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading h. A reduction of CDAI ≥ 100 points from baseline i. SES-CD ≤ 4 and at least a 2-point reduction versus from baseline, with and no individual subscore greater than 1, based on central reading |  |  |  |
+
+Onset of clinical response and clinical remission based on CDAI occurred as early as Week 4 in a greater proportion of subjects treated with the SKYRIZI 600 mg induction regimen compared to placebo.
+
+Reductions in stool frequency and abdominal pain were observed in a greater proportion of subjects treated with the SKYRIZI 600 mg induction regimen compared to placebo.
+
+Study CD-3
+
+The maintenance study CD-3 evaluated 247 subjects who achieved clinical response defined as a reduction in CDAI of at least 100 points from baseline after 12 weeks of induction treatment with intravenous SKYRIZI in studies CD-1 and CD-2.
+Subjects were randomized to receive a maintenance regimen of SKYRIZI 360 mg or placebo at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks.
+
+The co-primary endpoints in CD-3 were clinical remission and endoscopic response at Week 52 (see Table 10).
+
+Table 10.
+Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Study CD-3
+
+| Endpoint | Placeboa | SKYRIZI 360 mg Subcutaneous Injectionb | Treatment Difference vs Placeboc (95% CI) |  |
+| --- | --- | --- | --- | --- |
+| Clinical Remissiond,e |  |  |  |  |
+| Total Population | N=130 46% | N=117 57% | 14% f (3%, 26%) |  |
+| Prior biologic failureg | N=99 40% | N=83 51% |  |  |
+| Without prior biologic failure | N=31 65% | N=34 71% |  |  |
+| Endoscopic Responsed,h |  |  |  |  |
+| Total Population | N=130 22% | N=117 48% | 31% f (21%, 41%) |  |
+| Prior biologic failureg | N=99 21% | N=83 44% |  |  |
+| Without prior biologic failure | N=31 23% | N=34 59% |  |  |
+| a. The placebo group consisted of patients who were in response to SKYRIZI and were randomized to receive placebo at the start of maintenance therapy. b. SKYRIZI 360 mg at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks c. Adjusted treatment difference and 95% CI computed using Cochran-Mantel-Haenszel method adjusted for randomization stratification factors d. Co-primary endpoints e. CDAI <150 f. p <0.05 g. Prior biologic failure includes inadequate response, loss of response, or intolerance to one or more biologic treatments for CD h. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading |  |  |  |  |
+
+Endoscopic remission was observed at Week 52 in 41% (48/117) of subjects treated with the SKYRIZI maintenance regimen and 13% (17/130) of subjects treated with placebo.
+This endpoint was not statistically significant under the prespecified multiple testing procedure.
