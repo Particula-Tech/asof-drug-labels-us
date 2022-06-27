@@ -5,7 +5,7 @@ The capsules are supplied in the packages listed:
 
 - NDC 67877-474-60 Unit of use bottle of 60 capsules
 
-Dabigatran Etexilate Capsules 150 mg capsules have a light navy blue opaque body and light cream opaque cap imprinted with “150” on body and “DAB” on cap in black ink.
+Dabigatran Etexilate Capsules 150 mg capsules have a light navy blue opaque cap and light cream opaque body imprinted with “150” on body and “DAB” on cap in black ink.
 The capsules are supplied in the packages listed:
 
 - NDC 67877-475-60 Unit of use bottle of 60 capsules
