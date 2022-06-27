@@ -21,7 +21,7 @@ Males
 
 Lenalidomide is present in the semen of patients receiving the drug.
 Therefore, males must always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking lenalidomide capsules and for up to 4 weeks after discontinuing lenalidomide capsules, even if they have undergone a successful vasectomy.
-Male patients taking lenalidomide capsules must not donate sperm [see Use in Specific Populations (8.3)].
+Male patients taking lenalidomide capsules must not donate sperm and for up to 4 weeks after discontinuing lenalidomide capsules [see Use in Specific Populations (8.3)].
 
 Blood Donation
 
@@ -143,7 +143,7 @@ Monitor patients at risk closely and take appropriate preventive approaches.
 
 ## 5.11 Tumor Flare Reaction
 
-Tumor flare reaction (TFR) has occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
+Tumor flare reaction (TFR), including fatal reactions, have occurred during investigational use of lenalidomide for CLL and lymphoma, and is characterized by tender lymph node swelling, low grade fever, pain and rash.
 Lenalidomide is not indicated and not recommended for use in CLL outside of controlled clinical trials.
 
 Monitoring and evaluation for TFR is recommended in patients with MCL.
@@ -151,6 +151,7 @@ Tumor flare reaction may mimic progression of disease (PD).
 
 In the MCL trial, 13/134 (10%) of subjects experienced TFR; all reports were Grade 1 or 2 in severity.
 All of the events occurred in Cycle 1 and one patient developed TFR again in Cycle 11.
+In a separate MCL phase 2 trial, one case of TFR resulted in a fatal outcome.
 
 Lenalidomide may be continued in patients with Grade 1 and 2 TFR without interruption or modification, at the physician’s discretion.
 Patients with Grade 1 and 2 TFR may also be treated with corticosteroids, non-steroidal anti-inflammatory drugs (NSAIDs) and/or narcotic analgesics for management of TFR symptoms.

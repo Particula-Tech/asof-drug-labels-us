@@ -29,7 +29,7 @@ Table 1: Dose Adjustments for Hematologic Toxicities for MM
 | Absolute Neutrophil counts (ANC) |  |
 | Neutropenia in MM |  |
 | When Neutrophils | Recommended CourseDays 1 to 21 of repeated 28-day cycle |
-| Fall below 1000/mcL | Interrupt lenalidomide capsules treatment, follow CBC weekly |
+| Fall below 1,000/mcL | Interrupt lenalidomide capsules treatment, follow CBC weekly |
 | Return to at least 1,000/mcL and neutropenia is the only toxicity | Resume lenalidomide capsules at 25 mg daily or initial starting dose |
 | Return to at least 1,000/mcL and if other toxicity | Resume lenalidomide capsules at next lower dose. Do not dose below 2.5 mg daily |
 | For each subsequent drop below 1,000/mcL | Interrupt lenalidomide capsules treatment |
@@ -134,7 +134,7 @@ Neutropenia during treatment in MCL
 
 | When Neutrophils | Recommended Course |
 | --- | --- |
-| Fall below 1000/mcL for at least 7 daysORFalls below 1,000/mcL with an associated temperature at least 38.5°CORFalls below 500/mcL | Interrupt lenalidomide capsules treatment and follow CBC weekly |
+| Fall below 1,000/mcL for at least 7 daysORFalls below 1,000/mcL with an associated temperature at least 38.5°CORFalls below 500/mcL | Interrupt lenalidomide capsules treatment and follow CBC weekly |
 | Return to at least 1,000/mcL | Resume lenalidomide capsules at 5 mg less than the previous dose. Do not dose below 5 mg daily |
 
 ## 2.5 Dosage Modifications for Non-Hematologic Adverse Reactions

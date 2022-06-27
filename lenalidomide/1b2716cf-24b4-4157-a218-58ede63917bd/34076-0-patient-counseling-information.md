@@ -13,9 +13,9 @@ Lenalidomide is a thalidomide analogue and can cause serious birth defects or de
   Highly effective forms of contraception other than tubal ligation include IUD and hormonal (birth control pills, injections, patch or implants) and a partner’s vasectomy.
   Additional effective contraceptive methods include latex or synthetic condom, diaphragm and cervical cap.
 - Instruct patient to immediately stop taking lenalidomide capsules and contact her healthcare provider if she becomes pregnant while taking this drug, if she misses her menstrual period, or experiences unusual menstrual bleeding, if she stops taking birth control, or if she thinks FOR ANY REASON that she may be pregnant.
-- Advise patient that if her healthcare provider is not available, she should call Customer Care Center at 1‐888‐423‐5436 [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
+- Advise patient that if her healthcare provider is not available, she should call the REMS Call Center at 1‐888‐423‐5436 [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
 - Advise males to always use a latex or synthetic condom during any sexual contact with females of reproductive potential while taking lenalidomide capsules and for up to 4 weeks after discontinuing lenalidomide capsules, even if they have undergone a successful vasectomy.
-- Advise male patients taking lenalidomide capsules that they must not donate sperm [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
+- Advise male patients taking lenalidomide capsules that they must not donate sperm and for up to 4 weeks after discontinuation of lenalidomide capsules [see Warnings and Precautions (5.1) and Use in Specific Populations (8.3)].
 - All patients must be instructed to not donate blood while taking lenalidomide capsules, during dose interruptions and for 4 weeks following discontinuation of lenalidomide capsules [see Warnings and Precautions (5.1)].
 
 Lenalidomide REMS program
@@ -96,5 +96,5 @@ Manufactured In India By: Natco Pharma Limited Visakhapatnam ‐ 531019, AP, Ind
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
-Iss.
-9/2021
+Rev.
+A 5/2022
