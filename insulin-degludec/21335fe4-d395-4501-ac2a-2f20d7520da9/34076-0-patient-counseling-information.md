@@ -7,9 +7,9 @@ Risk of Thyroid C-cell Tumors
 Inform patients that liraglutide, one of the components of XULTOPHY 100/3.6, causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
 Patients should be counseled to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
 
-Dehydration and Renal Failure
+Acute Kidney Injury
 
-Advise patients of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
+Advise patients of the potential risk of dehydration and acute kidney injury due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
 Patients should be informed of the potential risk for worsening renal function, which in some cases may require dialysis [see Warnings and Precautions (5.7)].
 
 Pancreatitis
@@ -35,8 +35,7 @@ Instruct patients not to administer concurrently with other glucagon-like peptid
 Hyperglycemia or Hypoglycemia
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin products.
-Inform patients of the symptoms of hypoglycemia.
-Inform patients that the ability to concentrate and react may be impaired as a result of hypoglycemia [see Warnings and Precautions (5.6)].
+Inform patients of the symptoms of hypoglycemia (e.g. impaired ability to concentrate and react).
 This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
@@ -59,23 +58,28 @@ Instruct patients to contact their physician if they develop jaundice.
 
 Pregnancy
 
-Instruct female patients of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Advise a pregnant woman of the potential risk to a fetus.
+Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1)].
 
-Date of Issue: 11/2019
+Date of Issue: 06/2022
 
-Version: 5
+Version: 6
 
-© 2016 – 2019 Novo Nordisk
+© 2022 Novo Nordisk
 
 Novo Nordisk®, VICTOZA®, TRESIBA® and XULTOPHY® 100/3.6 are registered trademarks of Novo Nordisk A/S.
 
-PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
+PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
 Manufactured by:
 
-Novo Nordisk A/S
+Novo Nordisk Inc.
 
-DK-2880 Bagsvaerd, Denmark
+800 Scudders Mill Road
+
+Plainsboro, NJ 08536
+
+U.S. License Number 1261
 
 For information about XULTOPHY 100/3.6 contact:
 
@@ -85,4 +89,6 @@ Novo Nordisk Inc.
 
 Plainsboro, NJ 08536
 
-1-800-727-6500
+1-800-727-6500 (Se habla español)
+
+www.novonordisk-us.com

@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-XULTOPHY 100/3.6 is an injection supplied as a sterile, clear, colorless solution in a 3 mL pre-filled, disposable, single-patient use pen injector.
+XULTOPHY 100/3.6 (insulin degludec and liraglutide) injection is an injection supplied as a clear, colorless solution in a 3 mL pre-filled, disposable, single-patient use pen injector.
 The XULTOPHY 100/3.6 pen dials in one unit increments.
 
 | Dosage Unit/Strength | Package size | NDC # |

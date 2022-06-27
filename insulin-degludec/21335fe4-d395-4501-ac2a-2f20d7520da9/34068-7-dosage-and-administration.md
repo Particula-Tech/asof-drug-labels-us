@@ -95,11 +95,11 @@ Table 2: Recommended Titration of XULTOPHY 100/3.6 (Once or Twice Weekly)
 - •Inspect visually for particulate matter and discoloration prior to administration.
   Only use XULTOPHY 100/3.6 if the solution appears clear and colorless.
 - •Inject XULTOPHY 100/3.6 subcutaneously into the thigh, upper arm, or abdomen.
-- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneousamyloidosis.
+- •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
   Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.4), Adverse Reactions (6.1, 6.3)].
 - •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.4)].
 - •Use XULTOPHY 100/3.6 with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
 - •The XULTOPHY 100/3.6 pen dials in one-unit increments.
-- •Do not administer XULTOPHY 100/3.6 intravenously, intramuscularly, or in an insulin infusion pump.
-- •Do not dilute or mix XULTOPHY 100/3.6 with any other insulin products or solutions.
+- •Do not administer XULTOPHY 100/3.6 intravenously or in an insulin infusion pump.
+- •Do not dilute or mix XULTOPHY 100/3.6 with any other insulin or solutions.
 - •Do not split the dose of XULTOPHY 100/3.6.

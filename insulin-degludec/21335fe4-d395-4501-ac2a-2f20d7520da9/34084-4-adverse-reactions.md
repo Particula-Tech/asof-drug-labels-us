@@ -6,7 +6,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Pancreatitis [see Warnings and Precautions (5.2)]
 - •Hypoglycemia [see Warnings and Precautions (5.6)]
 - •Acute Kidney Injury [see Warnings and Precautions (5.7)]
-- •Hypersensitivity and Allergic Reactions [see Warnings and Precautions (5.8)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.9)]
 - •Hypokalemia [see Warnings and Precautions (5.10)]
 
@@ -16,12 +16,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Xultophy 100/3.6
 
-The data in Table 3 reflect the exposure of 1881 patients to XULTOPHY 100/3.6 and a mean duration of exposure of 33 weeks.
-The mean age was 57 years and 2.8% were older than 75 years; 52.6% were male, 75.0% were White, 6.2% were Black or African American and 15.9% were Hispanic or Latino.
+The data in Table 3 reflect the exposure of 1881 patients to XULTOPHY 100/3.6 and a mean duration of exposure of 33 weeks in trials NCT01336023, NCT01618162, NCT02773368, NCT01676116, NCT01392573, NCT01952145 [see Clinical Studies (14.2 and 14.3)].
+The mean age was 57 years and 3% were older than 75 years; 53% were male, 75% were White, 6% were Black or African American and 16% were Hispanic or Latino.
 The mean body mass index (BMI) was 31.8 kg/m2.
-The mean duration of diabetes was 8.7 years and the mean HbA1c at baseline was 8.2%.
-A history of neuropathy, ophthalmopathy, nephropathy and cardiovascular disease at baseline was reported in 25.4%, 12.0%, 6.5% and 6.3% respectively.
-The mean estimated glomerular filtration rate (eGFR) at baseline was 88.3 mL/min/1.73 m2 and 6.24% of the patients had an eGFR less than 60 mL/min/1.73 m2.
+The mean duration of diabetes was 9 years and the mean HbA1c at baseline was 8.2%.
+A history of neuropathy, ophthalmopathy, nephropathy and cardiovascular disease at baseline was reported in 25%, 12%, 7% and 6% respectively.
+The mean estimated glomerular filtration rate (eGFR) at baseline was 88.3 mL/min/1.73 m2 and 6% of the patients had an eGFR less than 60 mL/min/1.73 m2.
 
 Table 3: Adverse Reactions Occurring in ≥5% of XULTOPHY 100/3.6-Treated Patients with Type 2 Diabetes Mellitus
 
@@ -36,8 +36,8 @@ Table 3: Adverse Reactions Occurring in ≥5% of XULTOPHY 100/3.6-Treated Patien
 
 Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin and insulin containing products, including XULTOPHY 100/3.6 [see Warnings and Precautions (5.6)].
-The number of reported hypoglycemia episodes depends on the definition of hypoglycemia used, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
+Hypoglycemia was the most commonly observed adverse reaction in patients treated with insulin and insulin containing products, including XULTOPHY 100/3.6 [see Warnings and Precautions (5.6)].
+The number of reported hypoglycemia episodes depended on the definition of hypoglycemia used, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for XULTOPHY 100/3.6 with the incidence of hypoglycemia for other products may be misleading and also, may not be representative of hypoglycemia rates that will occur in clinical practice.
 
 In the phase 3 clinical program [see Clinical Studies (14)], events of severe hypoglycemia were defined as an episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions (Table 4).
@@ -46,7 +46,7 @@ No clinically important differences in risk of severe hypoglycemia between XULTO
 
 Table 4: Hypoglycemia Episodes Reported in XULTOPHY 100/3.6-Treated Patients with T2DM
 
-|  | Patients naïve to basal insulin or GLP-1 receptor agonist |  |  | Patients currently on GLP-1 receptor agonist | Patients Currently on basal insulin |  |  |  |
+|  | Patients naïve to basal insulin or GLP-1 receptor agonist |  |  | Patients currently on GLP-1 receptor agonist | Patients currently on basal insulin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | XULTOPHY 100/3.6 NCT01336023 | XULTOPHY 100/3.6 NCT01618162 | XULTOPHY 100/3.6NCT02773368 | XULTOPHY 100/3.6NCT01676116 | XULTOPHY 100/3.6NCT01392573 | XULTOPHY 100/3.6NCT01952145 |  |  |
 | Total Subjects (N) | 825 | 288 | 209 | 291 | 199 | 278 |  |  |
@@ -77,6 +77,7 @@ The incidence of cholecystitis was 0.2% in both liraglutide treated and placebo-
 
 In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in liraglutide-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
 The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in liraglutide-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
+The majority of events required hospitalization or cholecystectomy.
 
 Initiation of insulin containing products and intensification of glucose control
 
@@ -90,7 +91,7 @@ Lipodystrophy includes lipohypertrophy (thickening of adipose tissue) and lipoat
 
 Peripheral Edema
 
-Insulin containing products, including XULTOPHY 100/3.6, may cause sodium retention and edema, particularly if previously poor metabolic control is improved rapidly by intensified therapy.
+XULTOPHY 100/3.6 may cause sodium retention and edema, particularly if previously poor metabolic control is improved rapidly by intensified therapy.
 
 Weight Gain
 
@@ -103,9 +104,9 @@ As with any insulin and GLP-1 receptor agonist-containing products, patients tak
 In the clinical program, the proportion of injection site reactions occurring in patients treated with XULTOPHY 100/3.6 was 2.6%.
 These reactions were usually mild and transitory and they normally disappear during continued treatment.
 
-Systemic Allergy
+Hypersensitivity Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin-containing products including XULTOPHY 100/3.6 and may be life threatening [see Warnings and Precautions (5.8)].
+Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock have occurred with insulin, including XULTOPHY 100/3.6 and may be life threatening [see Warnings and Precautions (5.8)].
 Hypersensitivity (manifested with swelling of tongue and lips, diarrhea, nausea, tiredness, and itching) and urticaria were reported.
 
 Laboratory tests
@@ -208,9 +209,10 @@ insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia h
 Liraglutide
 
 - •Medullary thyroid carcinoma
-- •Dehydration resulting from nausea, vomiting and diarrhea.
-- •Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
-- •Angioedema and anaphylactic reactions.
+- •Dehydration resulting from nausea, vomiting and diarrhea
+- •Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis
+- •Angioedema and anaphylactic reactions
 - •Allergic reactions: rash and pruritus
+- •Skin and subcutaneous tissue disorder: cutaneous amyloidosis
 - •Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death
-- •Hepatobiliary disorders: elevations of liver enzymes, hyperbilirubinemia, cholestasis, hepatitis
+- •Hepatobiliary disorders: elevations of liver enzymes, hyperbilirubinemia, cholestasis, cholecystitis, cholelithiasis requiring cholecystectomy, hepatitis

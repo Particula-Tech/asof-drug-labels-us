@@ -17,14 +17,15 @@ For liraglutide, animal reproduction studies identified increased adverse develo
 Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day.
 In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Data].
 
-The estimated background risk of major birth defects is 6–10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20–25% in women with a HbA1c >10.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a peri-conceptional HbA1c >7 and has been reported to be as high as 20 to 25% in women with a peri-conceptional HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-Associated Maternal and/or Embryo/fetal Risk
 
+Hypoglycemia and hyperglycemia occur more frequently during pregnancy in patients with pre-gestational diabetes.
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes mellitus increases the fetal risk for major birth defects, stillbirth, macrosomia related morbidity.
 
@@ -90,28 +91,28 @@ No overall differences in safety or effectiveness were observed between these su
 
 Age had no clinically relevant effect on the pharmacokinetics of XULTOPHY 100/3.6 [see Clinical Pharmacology (12.3)].
 
-In elderly patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemic reactions.
-Hypoglycemia may be more difficult to recognize in the elderly.
+In geriatric patients with diabetes, the initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemic reactions.
+Hypoglycemia may be more difficult to recognize in geriatric patients.
 
 ## 8.6 Renal Impairment
 
 XULTOPHY 100/3.6
 
-There is limited experience with XULTOPHY 100/3.6 in patients with mild and moderate renal impairment and when used in these patients, additional glucose monitoring and XULTOPHY 100/3.6 dose adjustments may be required on an individual basis.
-XULTOPHY 100/3.6 has not been studied in patients with severe renal impairment [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
+There is limited experience with XULTOPHY 100/3.6 in patients with mild and moderate kidney impairment and when used in these patients, additional glucose monitoring and XULTOPHY 100/3.6 dose adjustments may be required on an individual basis.
+XULTOPHY 100/3.6 has not been studied in patients with severe kidney impairment [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
 
 Insulin degludec
 
-No clinically relevant difference in the pharmacokinetics of insulin degludec was identified in a study comparing healthy subjects and subjects with renal impairment including subjects with end stage renal disease.
+No clinically relevant difference in the pharmacokinetics of insulin degludec was identified in a study comparing healthy subjects and subjects with kidney impairment including subjects with end stage kidney disease.
 
 Liraglutide
 
-The safety and efficacy of liraglutide was evaluated in a 26 week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73 m2).
-In the liraglutide treatment arm of a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 1932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
-No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
+The safety and efficacy of liraglutide was evaluated in a 26 week clinical study that included patients with moderate kidney impairment (eGFR 30 to 60 mL/min/1.73 m2).
+In the liraglutide treatment arm of a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 1932 (41.4%) patients had mild kidney impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe kidney impairment at baseline.
+No overall differences in safety or efficacy were seen in these patients compared to patients with normal kidney function.
 
-There is limited experience with liraglutide in patients with end stage renal disease.
-There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.7) and Adverse Reactions (6.3)].
+There is limited experience with liraglutide in patients with end stage kidney disease.
+There have been postmarketing reports of acute kidney failure and worsening of chronic kidney failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.7) and Adverse Reactions (6.3)].
 
 ## 8.7 Hepatic Impairment
 

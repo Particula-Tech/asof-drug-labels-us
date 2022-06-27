@@ -6,7 +6,7 @@ NDC 0169-2911-15
 
 List: 291115
 
-(insulin degludec and liraglutide injection)
+(insulin degludec and liraglutide) injection
 
 For Single Patient Use Only
 
@@ -20,8 +20,6 @@ also delivers 0.036 mg of liraglutide
 
 For subcutaneous use only
 
-Rx Only
-
 Recommended for use with NovoFine®,
 
 Novofine® Plus or NovoTwist® disposable needles.
@@ -34,4 +32,8 @@ Do not freeze.
 
 Protect from light.
 
+Rx Only
+
 Dispense in this sealed carton.
+
+ATTENTION: Dispense the enclosed Medication Guide to each patient.

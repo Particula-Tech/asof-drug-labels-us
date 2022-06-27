@@ -59,20 +59,22 @@ To avoid medication errors between XULTOPHY 100/3.6 (an insulin containing produ
 
 Hypoglycemia is the most common adverse reaction of insulin containing products, including XULTOPHY 100/3.6 [see Adverse Reactions (6.1)].
 Severe hypoglycemia can cause seizures, may be life-threatening or cause death.
-Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
+Hypoglycemia can impair concentration ability and reaction time; this may place the patient and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 XULTOPHY 100/3.6 (an insulin-containing product) or any insulin, should not be used during episodes of hypoglycemia [see Contraindications (4)].
 
-Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.
-Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic nerve disease, in patients using medications that block the sympathetic nervous system (e.g., beta-blockers) [seeDrug Interactions (7.1)], or in patients who experience recurrent hypoglycemia.
+Hypoglycemia can happen suddenly and symptoms may differ in each patient and change over time in the same patient.
+Symptomatic awareness of hypoglycemia may be less pronounced in patients with longstanding diabetes, in patients with diabetic neuropathy, in patients using drugs that block the sympathetic nervous system (e.g., beta-blockers) [see Drug Interactions (7.1)], or who experience recurrent hypoglycemia.
+
+The long-acting effect of insulin degludec may delay recovery from hypoglycemia compared to shorter acting insulins.
 
 Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia generally increases with intensity of glycemic control.
-The risk of hypoglycemia after an injection is related to the duration of action of the insulin [seeClinical Pharmacology (12.2)] and, in general, is highest when the glucose lowering effect of the insulin is maximal.
-As with all insulin containing products, the glucose lowering effect time course of XULTOPHY 100/3.6 may vary among different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature.
+The risk of hypoglycemia after an injection is related to the duration of action of the insulin [see Clinical Pharmacology (12.2)] and, in general, is highest when the glucose lowering effect of the insulin is maximal.
+As with all insulin containing products, the glucose lowering effect time course of XULTOPHY 100/3.6 may vary among different patients or at different times in the same patients and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature.
 
-Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7.1)].
-Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations(8.6, 8.7)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to concomitant drugs [see Drug Interactions (7.1)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
 Risk Mitigation Strategies for Hypoglycemia
 
@@ -82,16 +84,17 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 ## 5.7 Acute Kidney Injury
 
-There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.3)].
-Some of these events were reported in patients without known underlying renal disease.
+There have been postmarketing reports of acute kidney injury and worsening of chronic kidney failure, which may sometimes require hemodialysis in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.3)].
+Some of these events were reported in patients without known underlying kidney disease.
 A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
 Some of the reported events occurred in patients receiving one or more medications known to affect renal function or hydration status.
-Altered renal function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including liraglutide.
+Altered kidney function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including liraglutide.
 Advise patients of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
 
-## 5.8 Hypersensitivity and Allergic Reactions
+## 5.8 Hypersensitivity Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, angioedema, bronchospasm, hypotension, and shock can occur with XULTOPHY 100/3.6.Allergic reactions (manifested with signs and symptoms such as urticaria, rash, pruritus) have been reported with XULTOPHY 100/3.6.
+Severe, life-threatening, generalized allergy, including anaphylaxis, angioedema, bronchospasm, hypotension, and shock can occur with insulins, including XULTOPHY 100/3.6.
+Allergic reactions (manifested with signs and symptoms such as urticaria, rash, pruritus) have been reported with XULTOPHY 100/3.6.
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.3)].
 If a hypersensitivity reaction occurs, discontinue XULTOPHY 100/3.6; treat promptly per standard of care, and monitor until signs and symptoms resolve.
 
@@ -101,8 +104,8 @@ XULTOPHY 100/3.6 is contraindicated in patients who have had hypersensitivity re
 
 ## 5.9 Acute Gallbladder Disease
 
-In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 3.1% of patients treated with liraglutide, one of the components of XULTOPHY 100/3.6, versus 1.9% of placebo treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis.
-The majority of events required hospitalization or cholecystectomy.
+Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
+In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 3.1% of patients treated with liraglutide, one of the components of XULTOPHY 100/3.6, versus 1.9% of placebo treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis [see Adverse Reactions (6.1)].
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 
 ## 5.10 Hypokalemia
@@ -113,7 +116,7 @@ Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g.,
 
 ## 5.11 Fluid Retention and Congestive Heart Failure with Concomitant Use of a PPAR Gamma Agonist
 
-Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists can cause dose related fluid retention, particularly when used in combination with insulin containing products, including XULTOPHY 100/3.6.
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists can cause dose related fluid retention, when used in combination with insulin containing products, including XULTOPHY 100/3.6.
 Fluid retention may lead to or exacerbate congestive heart failure.
 Patients treated with insulin containing products, including XULTOPHY 100/3.6 and a PPAR-gamma agonist should be observed for signs and symptoms of congestive heart failure.
 If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.

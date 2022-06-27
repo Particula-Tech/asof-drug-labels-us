@@ -14,10 +14,10 @@ The same titration algorithm was applied for basal insulin comparators.
 
 NCT01336023: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin degludec and liraglutide, all administered once-daily, was studied in a 26-week randomized, open-label, three-arm parallel trial in 1660 patients with type 2 diabetes mellitus inadequately controlled on 1-2 OADs (metformin or metformin with or without pioglitazone).
 
-The mean age of the trial population was 55 years and mean duration of diabetes was 6.8 years.
-50.8% were male.
-61.9% were White, 7.4% were Black or African American and 15.1% were Hispanic.
-5.4% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
+The mean age of the trial population was 55 years and mean duration of diabetes was 7 years.
+51% were male.
+62% were White, 7% were Black or African American and 15% were Hispanic.
+5% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
 The mean BMI was 31.2 kg/m2.
 
 The starting dose of XULTOPHY 100/3.6 was 10 units (10 units insulin degludec/0.36 mg liraglutide).
@@ -57,10 +57,10 @@ There were 11.8% of subjects in the XULTOPHY 100/3.6 arm, 12.3% in the insulin d
 
 NCT01618162: The efficacy and safety of XULTOPHY 100/3.6 compared to placebo were studied in a 26-week randomized, double-blind, treat-to-target trial in 435 patients with type 2 diabetes mellitus inadequately controlled on sulfonylurea alone or in combination with metformin.
 
-The mean age of the trial population was 59.8 years, and mean duration of diabetes was 9.1 years.
-52.2% were male.
-75.4% were White, 6.7% were Black or African American and 9.2% were Hispanic.
-10.6% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
+The mean age of the trial population was 60 years, and mean duration of diabetes was 9 years.
+52% were male.
+75% were White, 7% were Black or African American and 9% were Hispanic.
+11% of patients had eGFR < 60mL/min/1.73m2; no patients had eGFR < 30mL/min/1.73m2.
 The mean BMI was 31.5 kg/m2.
 
 XULTOPHY 100/3.6 was started at 10 units (10 units insulin degludec/0.36 mg liraglutide) and titrated twice weekly towards a target fasting blood glucose goal of 72-108 mg/dL.
@@ -100,10 +100,10 @@ There were 12.8% of subjects in the XULTOPHY 100/3.6 arm and 24.7% in the placeb
 NCT02773368: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin glargine U-100, both administered once-daily, were studied in a 26-week randomized, open-label, two-arm parallel trial in 420 patients with type 2 diabetes mellitus inadequately controlled on a SGLT2i alone or in combination with other OADs (with or without metformin, pioglitazone, and/or dipeptidyl peptidase-4 [DPP4] inhibitor).
 At randomization, the DPP4 inhibitor was discontinued.
 
-The mean age of the trial population was 56.7 years and mean duration of diabetes was 9.55 years.
-58.8% were male.
-82.4% were White, 1.2% were Black or African American and 16.2% were Hispanic.
-2.6% of patients had eGFR < 60mL/min/1.73m2; none of the patients had eGFR < 30mL/min/1.73m2.
+The mean age of the trial population was 57 years and mean duration of diabetes was 10 years.
+59% were male.
+82% were White, 1% were Black or African American and 16% were Hispanic.
+3% of patients had eGFR < 60mL/min/1.73m2; none of the patients had eGFR < 30mL/min/1.73m2.
 The mean BMI was 31.2 kg/m2.
 
 The starting dose of XULTOPHY 100/3.6 was 10 units (10 units insulin degludec/0.36 mg liraglutide).
@@ -114,7 +114,7 @@ The patients continued on pre-trial treatment with SGLT2i, with or without other
 The targeted fasting blood glucose goal was achieved by 49.0% of patients randomized to XULTOPHY 100/3.6 and 41.9% of patients randomized to insulin glargine at 26 weeks.
 
 At the end of 26 weeks, XULTOPHY 100/3.6 resulted in a reduction in HbA1c from baseline of 1.97% and insulin glargine U-100 resulted in a reduction of 1.59% (see Table 7).
-At the end of trial, the average dose of XULTOPHY 100/3.6 was 36 units (36 units insulin degludec/1.01 mg liraglutide) and the dose of insulin glargine was 54 units; it is unclear that these observed differences in insulin doses are clinically important.
+At the end of trial, the average dose of XULTOPHY 100/3.6 was 36 units (36 units insulin degludec/1.3 mg liraglutide) and the dose of insulin glargine was 54 units; it is unclear that these observed differences in insulin doses are clinically important.
 The difference in HbA1c effect observed at 26 weeks may not necessarily reflect the effect in the care setting where insulin glargine may be more rapidly titrated.
 
 Table 7: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately
@@ -152,17 +152,17 @@ Converting to XULTOPHY 100/3.6 from GLP-1 receptor agonist
 
 NCT01676116: The efficacy and safety of XULTOPHY 100/3.6 (once-daily) compared to unchanged pre-trial liraglutide up to a dose of 1.8 mg daily, were studied in a 26-week randomized, open-label, treat-to-target (fasting blood glucose goal of 72-90 mg/dL) trial.
 The trial included 348 patients with type 2 diabetes mellitus inadequately controlled on liraglutide and metformin alone or in combination with pioglitazone, sulfonylurea or both.
-Oral anti-diabetic drugs (OADs) were continued at pre-trial doses throughout the trial, and 21.8% of subjects were treated with sulfonylureas (SU) in combination with metformin with or without pioglitazone.
-The mean age of the population was 58.1 years, and mean duration of diabetes was 10.0 years.
-49.1% were male.
-90.8% were White, 7.5% Black or African American.
-10.6% were Hispanic.
-5.7% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
+Oral anti-diabetic drugs (OADs) were continued at pre-trial doses throughout the trial, and 22% of subjects were treated with sulfonylureas (SU) in combination with metformin with or without pioglitazone.
+The mean age of the population was 58 years, and mean duration of diabetes was 10 years.
+49% were male.
+91% were White, 8% Black or African American.
+11% were Hispanic.
+6% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
 The mean BMI was 33.1 kg/m2.
 
 The starting dose of XULTOPHY 100/3.6 was 16 units (16 units insulin degludec/0.58 mg liraglutide), and the average starting dose of liraglutide was 1.7 mg.
 XULTOPHY 100/3.6 was titrated twice weekly to target a fasting blood glucose goal of 72-90 mg/dL.
-The end of trial dose of XULTOPHY was 44 units (44 units insulin degludec/1.58 mg liraglutide).
+The end of trial dose of XULTOPHY 100/3.6 was 44 units (44 units insulin degludec/1.58 mg liraglutide).
 The primary endpoint, change in HbA1c, was tested for superiority of XULTOPHY 100/3.6 to unchanged liraglutide therapy.
 
 At the end of 26 weeks, there was a reduction in HbA1c from baseline of 1.31% for XULTOPHY 100/3.6 and 0.36% for liraglutide (see Table 8).
@@ -198,11 +198,11 @@ Converting from basal insulin
 NCT01392573: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin degludec, both once daily and added on to metformin, were studied in a 26-week randomized, double-blind, trial in 398 patients with type 2 diabetes mellitus inadequately controlled on basal insulin and metformin alone or in combination with sulfonylurea/glinides.
 Basal insulin and sulfonylurea/glinides were discontinued at randomization.
 
-The mean age of the trial population was 57.2 years, and mean duration of diabetes was 10.6 years.
-54.8% were male.
-77.4% were White, 4.8% Black or African American.
-10.1% were Hispanic.
-6.8% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
+The mean age of the trial population was 57 years, and mean duration of diabetes was 11 years.
+55% were male.
+77% were White, 5% Black or African American.
+10% were Hispanic.
+7% of patients had eGFR < 60mL/min/1.73m2; no patient had eGFR < 30mL/min/1.73m2.
 The mean BMI was 33.7 kg/m2.
 The mean dose of metformin and basal insulin in patients entering the trial was approximately 2 g and 29 units, respectively.
 
@@ -250,12 +250,12 @@ The difference in glucose lowering effect observed in the trial may not necessar
 
 NCT01952145: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin glargine U-100, both once daily and added on to metformin, were studied in a 26-week randomized, open-label, two-arm parallel trial in 557 patients with type 2 diabetes mellitus inadequately controlled on insulin glargine U-100 and metformin.
 
-The mean age of the trial population was 58.8 years and mean duration of diabetes was 11.5 years.
-50.3% were male.
-94.6% were White, 2% Black or African American.
-43.1% were Hispanic.
-6.3% of patients had eGFR < 60mL/min/1.73m2; one patient had eGFR < 30mL/min/1.73m2.
-The mean BMI was 31.7 kg/m2.
+The mean age of the trial population was 59 years and mean duration of diabetes was 12 years.
+50% were male.
+95% were White, 2% Black or African American.
+43% were Hispanic.
+6% of patients had eGFR < 60mL/min/1.73m2; one patient had eGFR < 30mL/min/1.73m2.
+The mean BMI was 32 kg/m2.
 The mean dose of insulin glargine U-100 in patients entering the trial was 32 units.
 
 XULTOPHY 100/3.6 and insulin glargine were to be titrated twice weekly to target a fasting blood glucose goal of 72-90 mg/dL.
