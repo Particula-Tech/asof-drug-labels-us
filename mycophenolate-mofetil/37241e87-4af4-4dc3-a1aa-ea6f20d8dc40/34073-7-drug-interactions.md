@@ -2,7 +2,7 @@
 
 ## 7.1 Effect of Other Drugs on CELLCEPT
 
-Table 5 Drug Interactions with CELLCEPT that Affect Mycophenolic Acid (MPA) Exposure
+Table 7 Drug Interactions with CELLCEPT that Affect Mycophenolic Acid (MPA) Exposure
 
 | Antacids with Magnesium or Aluminum Hydroxide |  |
 | --- | --- |
@@ -15,7 +15,7 @@ Table 5 Drug Interactions with CELLCEPT that Affect Mycophenolic Acid (MPA) Expo
 | Drugs that Interfere with Enterohepatic Recirculation |  |
 | Clinical Impact | Concomitant use with drugs that directly interfere with enterohepatic recirculation, or indirectly interfere with enterohepatic recirculation by altering the gastrointestinal flora, can decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce CELLCEPT efficacy. |
 | Prevention or Management | Monitor patients for alterations in efficacy or CELLCEPT related adverse reactions when these drugs are co-administered with CELLCEPT. |
-| Examples | Trimethoprim/sulfamethoxazole, bile acid sequestrants (cholestyramine), rifampin as well as aminoglycoside, cephalosporin, fluoroquinolone and penicillin classes of antimicrobials |
+| Examples | Cyclosporine A, trimethoprim/sulfamethoxazole, bile acid sequestrants (cholestyramine), rifampin as well as aminoglycoside, cephalosporin, fluoroquinolone and penicillin classes of antimicrobials |
 | Drugs Modulating Glucuronidation |  |
 | Clinical Impact | Concomitant use with drugs inducing glucuronidation decreases MPA systemic exposure, potentially reducing CELLCEPT efficacy, while use with drugs inhibiting glucuronidation increases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may increase the risk of CELLCEPT related adverse reactions. |
 | Prevention or Management | Monitor patients for alterations in efficacy or CELLCEPT related adverse reactions when these drugs are co-administered with CELLCEPT. |
@@ -27,7 +27,7 @@ Table 5 Drug Interactions with CELLCEPT that Affect Mycophenolic Acid (MPA) Expo
 
 ## 7.2 Effect of CELLCEPT on Other Drugs
 
-Table 6 Drug Interactions with CELLCEPT that Affect Other Drugs
+Table 8 Drug Interactions with CELLCEPT that Affect Other Drugs
 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |

@@ -9,11 +9,11 @@ The following adverse reactions are discussed in greater detail in other section
 - Gastrointestinal Complications [see Warnings and Precautions (5.5)]
 - Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-An estimated total of 1557 patients received CELLCEPT during pivotal clinical trials in the prevention of acute organ rejection.
+An estimated total of 1557 adult patients received CELLCEPT during pivotal clinical trials in the prevention of acute organ rejection.
 Of these, 991 were included in the three renal studies, 277 were included in one hepatic study, and 289 were included in one cardiac study.
 Patients in all study arms also received cyclosporine and corticosteroids.
 
@@ -35,13 +35,13 @@ Approximately 53% of the kidney transplant patients, 65% of the heart transplant
 Adverse reactions reported in ≥ 20% of patients in the CELLCEPT treatment groups are presented below.
 The safety data of three kidney transplantation studies are pooled together.
 
-Table 3 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the CELLCEPT Group
+Table 5 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the CELLCEPT Group
 
 | System Organ Class | % | % | % | % | % | % | % |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Adverse drug reaction | Kidney Studies |  |  | Heart Study |  | Liver Study |  |
 | CellCept 2g/day (n=501) or 3g/day (n=490) | AZA 1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo | CellCept 3g/day | AZA 1.5 to 3 mg/kg/day | CellCept 3g/day | AZA 1 to 2 mg/kg/day |  |
-| (MedDRA) | (n=991) | (n=326) | (n=166) | (n=289) | (n=289) | (n=277) | (n=287) |
+|  | (n=991) | (n=326) | (n=166) | (n=289) | (n=289) | (n=277) | (n=287) |
 | Infections and infestations |  |  |  |  |  |  |  |
 | Bacterial infections | 39.9 | 33.7 | 37.3 | - | - | 27.4 | 26.5 |
 | Viral infections | - "-" Indicates that the incidence was below the cutoff value of 20% for inclusion in the table. | - | - | 31.1 | 24.9 | - | - |
@@ -116,7 +116,7 @@ Endoscopic investigation of patients with CELLCEPT-related diarrhea revealed iso
 
 The following adverse reactions were reported with 3% to <20% incidence in kidney, heart, and liver transplant patients treated with CELLCEPT, in combination with cyclosporine and corticosteroids.
 
-Table 4 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with CELLCEPT in Combination with Cyclosporine and Corticosteroids
+Table 6 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in 3% to <20% of Patients Treated with CELLCEPT in Combination with Cyclosporine and Corticosteroids
 
 | System Organ Class | Adverse Reactions |
 | --- | --- |
@@ -133,9 +133,11 @@ Table 4 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Live
 | Nervous | hypertonia, paresthesia, somnolence |
 | Musculoskeletal | arthralgia, myasthenia |
 
-Pediatric Study
+Pediatrics
 
 The type and frequency of adverse events in a clinical study for prevention of kidney allograft rejection in 100 pediatric patients 3 months to 18 years of age dosed with CELLCEPT oral suspension 600 mg/m2 twice daily (up to 1 g twice daily) were generally similar to those observed in adult patients dosed with CELLCEPT capsules at a dose of 1 g twice daily with the exception of abdominal pain, fever, infection, pain, sepsis, diarrhea, vomiting, pharyngitis, respiratory tract infection, hypertension, leukopenia, and anemia, which were observed in a higher proportion in pediatric patients.
+
+Safety information in pediatric heart transplant or pediatric liver transplant patients treated with CELLCEPT is supported by an open-label study in pediatric liver transplant patients and publications; the type and frequency of the reported adverse reactions are consistent with those observed in pediatric patients following renal transplant and in adults.
 
 Geriatrics
 

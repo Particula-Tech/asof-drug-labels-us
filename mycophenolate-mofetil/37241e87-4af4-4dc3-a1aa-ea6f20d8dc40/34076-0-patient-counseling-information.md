@@ -63,13 +63,13 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
 
 ## 17.9 Blood Donation
 
-Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of CELLCEPT [See Warnings and Precautions (5.11)].
+Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of CELLCEPT [see Warnings and Precautions (5.11)].
 
 ## 17.10 Semen Donation
 
-Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of CELLCEPT [See Warnings and Precautions (5.12)].
+Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of CELLCEPT [see Warnings and Precautions (5.12)].
 
 ## 17.11 Potential to Impair Driving and Use of Machinery
 
 Advise patients that CELLCEPT can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with CELLCEPT [See Warnings and Precautions (5.14)].
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with CELLCEPT [see Warnings and Precautions (5.14)].
