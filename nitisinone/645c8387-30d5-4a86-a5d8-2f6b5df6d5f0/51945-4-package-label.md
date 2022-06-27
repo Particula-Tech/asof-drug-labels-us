@@ -30,7 +30,7 @@ Nitisinone Capsules 5 mg
 
 NDC 70505-205-60
 
-Nitisinone Capsules 2 mg
+Nitisinone Capsules 5 mg
 
 For Oral Use
 
@@ -50,7 +50,7 @@ Nitisinone Capsules 10 mg
 
 NDC 70505-210-60
 
-Nitisinone Capsules 2 mg
+Nitisinone Capsules 10 mg
 
 For Oral Use
 
