@@ -159,27 +159,27 @@ Based upon the determination by an independent response evaluation committee the
 Patients randomized to trastuzumab and chemotherapy also had a longer median survival (see Table 11).
 These treatment effects were observed both in patients who received trastuzumab plus paclitaxel and in those who received trastuzumab plus AC; however the magnitude of the effects was greater in the paclitaxel subgroup.
 
-| Table 11 |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer |  |  |  |  |  |  |  |  |
-|  |  | Combined Results |  | Paclitaxel Subgroup |  | AC Subgroup |  |  |
-|  |  | Trastuzumab + |  | Trastuzumab+ |  | Trastuzumab + |  |  |
-|  |  | All Chemo- therapy (n = 235) | All Chemo- therapy (n = 234) | Paclitaxel (n = 92) | Paclitaxel (n = 96) | ACa (n = 143) | AC (n = 138) |  |
-| Primary Endpoint |  |  |  |  |  |  |  |  |
-| Median | 7.2 |  | 4.5 | 6.7 | 2.5 | 7.6 | 5.7 |  |
-| TTP (mos)b,c |  |  |  |  |  |  |  |  |
-| 95% CI | 7, 8 |  | 4, 5 | 5, 10 | 2, 4 | 7, 9 | 5, 7 |  |
-| p-valued | ˂ 0.0001 |  |  | ˂ 0.0001 |  | 0.002 |  |  |
-| Secondary Endpoints |  |  |  |  |  |  |  |  |
-| Overall Response Rateb | 45 |  | 29 | 38 | 15 | 50 | 38 |  |
-| 95% CI | 39, 51 |  | 23, 35 | 28, 48 | 8, 22 | 42, 58 | 30, 46 |  |
-| p-valuee | ˂ 0.001 |  |  | ˂ 0.001 |  | 0.10 |  |  |
-| Median Resp Duration (mos)b,c | 8.3 |  | 5.8 | 8.3 | 4.3 | 8.4 | 6.4 |  |
-| 25%, 75% Quartile | 6, 15 |  | 4, 8 | 5, 11 | 4, 7 | 6, 15 | 4, 8 |  |
-| Med Survival (mos)c | 25.1 |  | 20.3 | 22.1 | 18.4 | 26.8 | 21.4 |  |
-| 95% CI | 22, 30 |  | 17, 24 | 17, 29 | 13, 24 | 23, 33 | 18, 27 |  |
-| p-valued | 0.05 |  |  | 0.17 |  | 0.16 |  |  |
-| a AC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. b Assessed by an independent Response Evaluation Committee. c Kaplan-Meier Estimate. d log-rank test. e Χ2-test. |  |  |  |  |  |  |  |  |
+| Table 11 |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Study 5: Efficacy Results in First-Line Treatment for Metastatic Breast Cancer |  |  |  |  |  |  |  |  |  |
+|  | Combined Results |  |  | Paclitaxel Subgroup |  |  | AC Subgroup |  |  |
+|  | Trastuzumab + |  |  | Trastuzumab+ |  |  | Trastuzumab + |  |  |
+|  | All Chemo- therapy (n = 235) |  | All Chemo- therapy (n = 234) | Paclitaxel (n = 92) |  | Paclitaxel (n = 96) | ACa (n = 143) |  | AC (n = 138) |
+| Primary Endpoint |  |  |  |  |  |  |  |  |  |
+| Median | 7.2 |  | 4.5 | 6.7 |  | 2.5 | 7.6 |  | 5.7 |
+| TTP (mos)b,c |  |  |  |  |  |  |  |  |  |
+| 95% CI | 7, 8 |  | 4, 5 | 5, 10 |  | 2, 4 | 7, 9 |  | 5, 7 |
+| p-valued | ˂ 0.0001 |  |  | ˂ 0.0001 |  |  | 0.002 |  |  |
+| Secondary Endpoints |  |  |  |  |  |  |  |  |  |
+| Overall Response Rateb | 45 |  | 29 | 38 |  | 15 | 50 |  | 38 |
+| 95% CI | 39, 51 |  | 23, 35 | 28, 48 |  | 8, 22 | 42, 58 |  | 30, 46 |
+| p-valuee | ˂ 0.001 |  |  | ˂ 0.001 |  |  | 0.10 |  |  |
+| Median Resp Duration (mos)b,c | 8.3 |  | 5.8 | 8.3 |  | 4.3 | 8.4 |  | 6.4 |
+| 25%, 75% Quartile | 6, 15 |  | 4, 8 | 5, 11 |  | 4, 7 | 6, 15 |  | 4, 8 |
+| Med Survival (mos)c | 25.1 |  | 20.3 | 22.1 |  | 18.4 | 26.8 |  | 21.4 |
+| 95% CI | 22, 30 |  | 17, 24 | 17, 29 |  | 13, 24 | 23, 33 |  | 18, 27 |
+| p-valued | 0.05 |  |  | 0.17 |  |  | 0.16 |  |  |
+| a AC = Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. b Assessed by an independent Response Evaluation Committee. c Kaplan-Meier Estimate. d log-rank test. e Χ2-test. |  |  |  |  |  |  |  |  |  |
 
 Data from Study 5 suggest that the beneficial treatment effects were largely limited to patients with the highest level of HER2 protein overexpression (3+) (see Table 12).
 
