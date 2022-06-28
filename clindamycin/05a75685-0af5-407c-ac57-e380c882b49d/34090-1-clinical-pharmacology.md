@@ -26,7 +26,7 @@ Biologically inactive clindamycin phosphate disappears from the serum with 6 min
 
 The elimination half-life of clindamycin is increased slightly in patients with markedly reduced renal or hepatic function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
-Dosage schedules need not be modified in patients with renal or hepatic disease.
+Dosage schedules do not need to be modified in patients with renal or hepatic disease.
 
 ### Geriatric Patients
 
@@ -34,7 +34,7 @@ Pharmacokinetic studies in elderly volunteers (61–79 years) and younger adults
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4.0 hours (range 3.4–5.1 h) in the elderly, compared to 3.2 hours (range 2.1–4.2 h) in younger adults.
 The extent of absorption, however, is not different between age groups and no dosage alteration is necessary for the elderly with normal hepatic function and normal (age-adjusted) renal function1.
 
-### Pharmacokinetics Pediatric Patients with PMA ≤32 weeks, or >32 to ≤40 weeks
+### Pharmacokinetics in Pediatric Patients with PMA ≤32 weeks, or >32 to ≤40 weeks
 
 Systemic clearance (CL) in premature infants increases with increases in body weight (kg) and post-menstrual age (PMA).
 The dosing regimens for pediatric patients ≤32 weeks PMA (5 mg/kg) and >32 to ≤40 weeks PMA (7 mg/kg), both administered intravenously every 8 hours, achieve exposures comparable to therapeutic exposures in adults (weighing 70 kg) administered clindamycin 600 mg every 8 hours (Table 1).
@@ -107,7 +107,7 @@ Anaerobic bacteria
 - Micromonas (Peptostreptococcus) micros
 - Prevotella bivia
 - Prevotella intermedia
-- Propionibacterium acnes
+- Cutibacterium acnes
 
 ### Susceptibility Testing
 

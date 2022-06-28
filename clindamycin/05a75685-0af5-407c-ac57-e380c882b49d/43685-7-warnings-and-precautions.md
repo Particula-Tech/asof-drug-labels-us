@@ -2,9 +2,9 @@
 
 See BOXED WARNING.
 
-## Clostridioides difficile Associated Diarrhea
+## Clostridioides difficile-Associated Diarrhea
 
-Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PHOSPHATE, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PHOSPHATE, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -35,11 +35,11 @@ Although the normal therapeutic dose of this product delivers amounts of benzyl 
 The risk of benzyl alcohol toxicity depends on the quantity administered and the liver and kidneys' capacity to detoxify the chemical.
 Premature and low birth weight infants may be more likely to develop toxicity.
 
-## Renal Toxicity
+## Nephrotoxicity
 
-Clindamycin is potentially nephrotoxic.
-Acute kidney injury including acute renal failure has been reported.
-Therefore, monitoring of renal function should be considered during therapy of patients with pre-existing renal dysfunction or taking concomitant nephrotoxic drugs and monitoring of renal function should be performed if therapy is prolonged.
+Clindamycin is potentially nephrotoxic and cases with acute kidney injury have been reported.
+Consider monitoring of renal function particularly in patients with pre-existing renal dysfunction or those taking concomitant nephrotoxic drugs.
+In case of acute kidney injury, discontinue CLEOCIN PHOSPHATE when no other etiology is identified.
 
 ## Usage in Meningitis
 
@@ -138,7 +138,7 @@ When CLEOCIN PHOSPHATE Sterile Solution is administered to the pediatric populat
 ## Usage in Newborns and Infants
 
 This product contains benzyl alcohol as a preservative.
-Benzyl alcohol has sbeen associated with a fatal "Gasping Syndrome" in premature infants.
+Benzyl alcohol has been associated with a fatal "Gasping Syndrome" in premature infants.
 See WARNINGS.
 
 The potential for the toxic effect in the pediatric population from chemicals that may leach from the single dose premixed IV preparation in plastic has not been evaluated.
