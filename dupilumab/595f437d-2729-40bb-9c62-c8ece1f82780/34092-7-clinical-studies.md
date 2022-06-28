@@ -138,7 +138,7 @@ Pediatric Subjects 6 Months to 5 Years of Age with Atopic Dermatitis
 
 The efficacy and safety of DUPIXENT use concomitantly with TCS in pediatric subjects was evaluated in a multicenter, randomized, double-blind, placebo-controlled trial (AD-1539; NCT03346434) in 162 subjects 6 months to 5 years of age, with moderate-to-severe AD defined by an IGA score ≥3 (scale of 0 to 4), an EASI score ≥16 (scale of 0 to 72), and a minimum BSA involvement of ≥10%.
 Eligible subjects enrolled into this trial had previous inadequate response to topical medication.
-Enrollment was stratified by baseline weight (≥5 to <15 kg and ≥15 to <30 kg).,
+Enrollment was stratified by baseline weight (≥5 to <15 kg and ≥15 to <30 kg).
 
 Subjects in the DUPIXENT Q4W + TCS group with baseline weight of ≥5 to <15 kg received an initial dose of 200 mg on Day 1, followed by 200 mg Q4W from Week 4 to Week 12, and subjects with baseline weight of ≥15 to <30 kg received an initial dose of 300 mg on Day 1, followed by 300 mg Q4W from Week 4 to Week 12.
 Subjects were permitted to receive rescue treatment at the discretion of the investigator.
@@ -310,7 +310,7 @@ The primary endpoint was the percent reduction from baseline of the final oral c
 Compared with placebo, subjects receiving DUPIXENT achieved greater reductions in daily maintenance oral corticosteroid dose, while maintaining asthma control.
 The mean percent reduction in daily OCS dose from baseline was 70% (median 100%) in subjects receiving DUPIXENT (95% CI: 60%, 80%) compared to 42% (median 50%) in subjects receiving placebo (95% CI: 33%, 51%).
 Reductions of 50% or higher in the OCS dose were observed in 82 (80%) subjects receiving DUPIXENT compared to 57 (53%) in those receiving placebo.
-The proportion of subjects with a mean final dose less than 5 mg at Weeks 24 was 72% for DUPIXENT and 37% for placebo (odds ratio 4.48 95% CI: 2.39, 8.39).
+The proportion of subjects with a mean final dose less than 5 mg at Week 24 was 72% for DUPIXENT and 37% for placebo (odds ratio 4.48 95% CI: 2.39, 8.39).
 A total of 54 (52%) subjects receiving DUPIXENT versus 31 (29%) subjects in the placebo group had a 100% reduction in their OCS dose.
 
 In this 24-week trial, asthma exacerbations (defined as a temporary increase in oral corticosteroid dose for at least 3 days) were lower in subjects receiving DUPIXENT compared with those receiving placebo (annualized rate 0.65 and 1.60 for the DUPIXENT and placebo group, respectively; rate ratio 0.41 [95% CI 0.26, 0.63]) and improvement in pre-bronchodilator FEV1 from baseline to Week 24 was greater in subjects receiving DUPIXENT compared with those receiving placebo (LS mean difference for DUPIXENT versus placebo of 0.22 L [95% CI: 0.09 to 0.34 L]). Effects on lung function and on oral steroid and exacerbation reduction were similar irrespective of baseline blood eosinophil levels.
@@ -339,7 +339,7 @@ Table 17: Demographics and Baseline Characteristics for VOYAGE
 | % White | 88 |
 | Mean body weight (kg) | 36 |
 | Mean exacerbations in previous year (± SD) | 2.4 (2.2) |
-| High dose ICS dose (%) | 44 |
+| High dose ICS use (%) | 44 |
 | Pre-dose FEV1 (L) at baseline (± SD) | 1.48 (0.41) |
 | Mean percent predicted FEV1 (%) (±SD) | 78 (15) |
 | Mean % Reversibility (± SD) | 20 (21) |
