@@ -33,7 +33,7 @@
 | What are the ingredients in DELSTRIGO? |  |  |  |
 | Active ingredients: doravirine, lamivudine, and tenofovir disoproxil fumarate. |  |  |  |
 | Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, magnesium stearate, microcrystalline cellulose, and sodium stearyl fumarate. The tablet film coating contains hypromellose, iron oxide yellow, lactose monohydrate, titanium dioxide, and triacetin. The coated tablets are polished with carnauba wax. |  |  |  |
-| Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA |  |  |  |
-| U.S. License No. 0002 For patent information: www.merck.com/product/patent/home.html The trademarks depicted herein are owned by their respective companies. Copyright © 2018-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. usppi-mk1439a-t-2201r002 |  |  |  |
+| Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA |  |  |  |
+| U.S. License No. 0002 For patent information: www.msd.com/research/patent The trademarks depicted herein are owned by their respective companies. Copyright © 2018-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. usppi-mk1439a-t-2206r003 |  |  |  |
 | For more information, go to www.DELSTRIGO.com or call 1-877-888-4231. |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 01/2022 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  | Revised: 06/2022 |

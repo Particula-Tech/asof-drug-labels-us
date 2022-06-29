@@ -1,9 +1,10 @@
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2018-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2018-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk1439a-t-2201r004
+uspi-mk1439a-t-2206r005
