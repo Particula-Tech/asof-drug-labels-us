@@ -24,7 +24,7 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 
 Effects on Cardiac Electrophysiology The effect of BUTRANS 10 mcg/hour and 2 x BUTRANS 20 mcg/hour on QTc interval was evaluated in a double-blind (BUTRANS vs. placebo), randomized, placebo and active-controlled (moxifloxacin 400 mg, open label), parallel-group, dose-escalating, single-dose study in 132 healthy male and female subjects aged 18 to 55 years.
 The dose escalation sequence for BUTRANS during the titration period was: BUTRANS 5 mcg/hour for 3 days, then BUTRANS 10 mcg/hour for 3 days, then BUTRANS 20 mcg/hour for 3 days, then 2 x BUTRANS 20 mcg/hour for 4 days.
-The QTc evaluation was performed during the third day of BUTRANS 10 mcg/hour and the fourth day of 2 x BUTRANS 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.8)].
+The QTc evaluation was performed during the third day of BUTRANS 10 mcg/hour and the fourth day of 2 x BUTRANS 20 mcg/hour when the plasma levels of buprenorphine were at steady state for the corresponding doses [see Warnings and Precautions (5.12)].
 
 There was no clinically meaningful effect on mean QTc with a BUTRANS dose of 10 mcg/hour.
 A BUTRANS dose of 40 mcg/hour (given as two 20 mcg/hour BUTRANS Transdermal Systems) prolonged mean QTc by a maximum of 9.2 (90% CI: 5.2-13.3) msec across the 13 assessment time points.
@@ -81,7 +81,7 @@ For this reason, instruct patients not to apply heating pads directly to the BUT
 
 Fever may increase the permeability of the skin, leading to increased buprenorphine concentrations during BUTRANS treatment.
 As a result, febrile patients are at increased risk for the possibility of BUTRANS-related reactions during treatment with BUTRANS.
-Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.15)].
+Monitor patients with febrile illness for adverse effects and consider dose adjustment [see Warnings and Precautions (5.16)].
 In a crossover study of healthy subjects receiving endotoxin or placebo challenge during BUTRANS 10 mcg/hour wear, the AUC and Cmax were similar despite a physiologic response of mild fever to endotoxin.
 
 Distribution Buprenorphine is approximately 96% bound to plasma proteins, mainly to alpha- and beta-globulin.
@@ -142,7 +142,7 @@ Hepatic Impairment The pharmacokinetics of buprenorphine following an IV infusio
 Buprenorphine and norbuprenorphine exposure did not increase in the mild and moderate hepatic impairment patients.
 
 BUTRANS has not been evaluated in patients with severe (Child-Pugh C) hepatic impairment.
-[see, Warnings and Precautions (5.11), Use in Specific Populations (8.6)].
+[see, Warnings and Precautions (5.10), Use in Specific Populations (8.6)].
 
 Renal Impairment No studies in patients with renal impairment have been performed with BUTRANS.
 

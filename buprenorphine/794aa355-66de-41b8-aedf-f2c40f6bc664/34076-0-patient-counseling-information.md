@@ -67,7 +67,7 @@ Instruct patients how to properly use BUTRANS, including the following:
 Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue BUTRANS without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 
 Hypotension Inform patients that BUTRANS may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.8)].
 
 Anaphylaxis Inform patients that anaphylaxis has been reported with ingredients contained in BUTRANS.
 Advise patients how to recognize such a reaction and when to seek medical attention [see Warnings and Precautions (5.13), Contraindications (4), Adverse Reactions (6)].
@@ -86,7 +86,7 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 Driving or Operating Heavy Machinery
 
 Inform patients that BUTRANS may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.18).
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.19).
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
@@ -94,4 +94,4 @@ Healthcare professionals can telephone Purdue Pharma’s Medical Services Depart
 
 Distributed by: Purdue Pharma L.P., Stamford, CT 06901-3431 Manufactured by: LTS Lohmann Therapy Systems Corp., West Caldwell, NJ 07006
 
-©2021, Purdue Pharma L.P.
+©2022, Purdue Pharma L.P.

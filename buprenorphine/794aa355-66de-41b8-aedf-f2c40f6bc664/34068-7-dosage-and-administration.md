@@ -63,7 +63,7 @@ The minimum BUTRANS titration interval is 72 hours, based on the pharmacokinetic
 
 The maximum BUTRANS dose is 20 mcg/hour.
 Do not exceed a dose of one 20 mcg/hour BUTRANS system due to the risk of QTc interval prolongation.
-In a clinical trial, BUTRANS 40 mcg/hour (given as two BUTRANS 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.8), Clinical Pharmacology (12.2)].
+In a clinical trial, BUTRANS 40 mcg/hour (given as two BUTRANS 20 mcg/hour systems) resulted in prolongation of the QTc interval [see Warnings and Precautions (5.12), Clinical Pharmacology (12.2)].
 
 Patients who experience breakthrough pain may require dosage adjustment increase of BUTRANS, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the BUTRANS dose.
@@ -107,7 +107,7 @@ A multimodal approach to pain management may optimize the treatment of chronic p
 ## 2.6 Patients with Hepatic Impairment
 
 BUTRANS has not been evaluated in patients with severe hepatic impairment.
-As BUTRANS is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.11), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)]
+As BUTRANS is only intended for 7-day application, consider use of an alternate analgesic that may permit more flexibility with the dosing in patients with severe hepatic impairment [see Warnings and Precautions (5.10), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)]
 
 ## 2.7 Administration of BUTRANS
 
