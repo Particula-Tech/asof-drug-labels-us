@@ -2,8 +2,8 @@
 
 Tablets:
 
-Each PREVYMIS 240 mg tablet is a yellow oval tablet; each tablet is debossed with "591" on one side and Merck logo on the other side.
-Each PREVYMIS 480 mg tablet is a pink oval, bi-convex tablet debossed with "595" on one side and Merck logo on the other side.
+Each PREVYMIS 240 mg tablet is a yellow oval tablet; each tablet is debossed with "591" on one side and corporate logo on the other side.
+Each PREVYMIS 480 mg tablet is a pink oval, bi-convex tablet debossed with "595" on one side and corporate logo on the other side.
 
 The 240 mg tablets are packaged into a carton (NDC 0006-3075-02) containing four (4) Child Resistant (CR) Dosepaks®, each containing a 7-count blister card for a total of 28 tablets, or into a carton (NDC 0006-3075-04) containing two (2) unit-dose 7-count blister cards for a total of 14 tablets.
 

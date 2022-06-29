@@ -2,8 +2,8 @@
 
 Tablets
 
-- PREVYMIS 240 mg tablet: yellow oval tablet with "591" on one side and Merck logo on the other side.
-- PREVYMIS 480 mg tablet: pink oval, bi-convex tablet with "595" on one side and Merck logo on the other side.
+- PREVYMIS 240 mg tablet: yellow oval tablet with "591" on one side and corporate logo on the other side.
+- PREVYMIS 480 mg tablet: pink oval, bi-convex tablet with "595" on one side and corporate logo on the other side.
 
 Injection
 

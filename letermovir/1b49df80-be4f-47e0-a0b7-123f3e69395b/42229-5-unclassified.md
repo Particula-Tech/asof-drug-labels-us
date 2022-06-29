@@ -1,19 +1,21 @@
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2017-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2017-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk8228-mf-2102r006
+uspi-mk8228-mf-2206r007
 
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO.,INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html The trademarks depicted herein are owned by their respective companies.
-Copyright © 2017-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. usppi-mk8228-mf-1903r001
+For patent information: http://www.msd.com/research/patent The trademarks depicted herein are owned by their respective companies.
+Copyright © 2017-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved. usppi-mk8228-mf-2206r002
 
 For more information go to www.PREVYMIS.com or call 1-800-444-2080.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: March 2019
+Revised: June 2022
