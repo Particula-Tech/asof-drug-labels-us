@@ -1,16 +1,28 @@
-Manufactured for: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2018-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2018-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk1439-t-2201r004
+uspi-mk1439-t-2206r005
 
-Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Manufactured for: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-U.S. License No. 0002 For patent information: www.merck.com/product/patent/home.html The trademarks depicted herein are owned by their respective companies.
-Copyright © 2018-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. usppi-mk1439-t-2201r002 For more information, go to www.PIFELTRO.com or call 1-877-888-4231.
+U.S. License No. 0002
+
+For patent information: www.msd.com/research/patent
+
+The trademarks depicted herein are owned by their respective companies.
+
+Copyright © 2018-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
+
+usppi-mk1439-t-2206r003
+
+For more information, go to www.PIFELTRO.com or call 1-877-888-4231.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 01/2022
+Revised: 06/2022
