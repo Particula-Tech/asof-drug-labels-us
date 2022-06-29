@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021530"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Emerald Therapeutics, LLC",
+  "package_ndcs": [
+    "72919-124-10"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "meloxicam",
+      "name": "Meloxicam"
+    }
+  ],
+  "setid": "55af77dd-2abc-49a6-990c-399d5a5e7a91",
+  "source": "dailymed"
+}
