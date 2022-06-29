@@ -248,17 +248,17 @@ The co-primary endpoints in CD-3 were clinical remission and endoscopic response
 Table 10.
 Proportion of Subjects Meeting Efficacy Endpoints at Week 52 - Study CD-3
 
-| Endpoint | Placeboa | SKYRIZI 360 mg Subcutaneous Injectionb | Treatment Difference vs Placeboc (95% CI) |  |
-| --- | --- | --- | --- | --- |
-| Clinical Remissiond,e |  |  |  |  |
-| Total Population | N=130 46% | N=117 57% | 14% f (3%, 26%) |  |
-| Prior biologic failureg | N=99 40% | N=83 51% |  |  |
-| Without prior biologic failure | N=31 65% | N=34 71% |  |  |
-| Endoscopic Responsed,h |  |  |  |  |
-| Total Population | N=130 22% | N=117 48% | 31% f (21%, 41%) |  |
-| Prior biologic failureg | N=99 21% | N=83 44% |  |  |
-| Without prior biologic failure | N=31 23% | N=34 59% |  |  |
-| a. The placebo group consisted of patients who were in response to SKYRIZI and were randomized to receive placebo at the start of maintenance therapy. b. SKYRIZI 360 mg at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks c. Adjusted treatment difference and 95% CI computed using Cochran-Mantel-Haenszel method adjusted for randomization stratification factors d. Co-primary endpoints e. CDAI <150 f. p <0.05 g. Prior biologic failure includes inadequate response, loss of response, or intolerance to one or more biologic treatments for CD h. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading |  |  |  |  |
+| Endpoint | Placeboa | SKYRIZI 360 mg Subcutaneous Injectionb | Treatment Difference vs Placeboc (95% CI) |
+| --- | --- | --- | --- |
+| Clinical Remissiond,e |  |  |  |
+| Total Population | N=130 46% | N=117 57% | 14% f (3%, 26%) |
+| Prior biologic failureg | N=99 40% | N=83 51% |  |
+| Without prior biologic failure | N=31 65% | N=34 71% |  |
+| Endoscopic Responsed,h |  |  |  |
+| Total Population | N=130 22% | N=117 48% | 31% f (21%, 41%) |
+| Prior biologic failureg | N=99 21% | N=83 44% |  |
+| Without prior biologic failure | N=31 23% | N=34 59% |  |
+| a. The placebo group consisted of patients who were in response to SKYRIZI and were randomized to receive placebo at the start of maintenance therapy. b. SKYRIZI 360 mg at Week 12 and every 8 weeks thereafter for up to an additional 52 weeks c. Adjusted treatment difference and 95% CI computed using Cochran-Mantel-Haenszel method adjusted for randomization stratification factors d. Co-primary endpoints e. CDAI <150 f. p <0.05 g. Prior biologic failure includes inadequate response, loss of response, or intolerance to one or more biologic treatments for CD h. A decrease in SES-CD > 50% from baseline, or a decrease of at least 2 points for subjects with a baseline score of 4 and isolated ileal disease, based on central reading |  |  |  |
 
 Endoscopic remission was observed at Week 52 in 41% (48/117) of subjects treated with the SKYRIZI maintenance regimen and 13% (17/130) of subjects treated with placebo.
 This endpoint was not statistically significant under the prespecified multiple testing procedure.
