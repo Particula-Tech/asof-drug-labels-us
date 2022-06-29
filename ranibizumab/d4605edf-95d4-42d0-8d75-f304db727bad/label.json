@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761202"
+  ],
+  "inn": "ranibizumab",
+  "labeler": "Samsung Bioepis Co., Ltd.",
+  "package_ndcs": [
+    "71202-009-01",
+    "71202-009-07"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ranibizumab",
+      "name": "Byooviz"
+    }
+  ],
+  "setid": "d4605edf-95d4-42d0-8d75-f304db727bad",
+  "source": "dailymed"
+}
