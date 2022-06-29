@@ -12,7 +12,7 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For:
+Manufactured For:
 
 TORRENT PHARMA INC., Levittown, PA 19057
 
@@ -181,7 +181,7 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For
+Manufactured for:
 
 TORRENT PHARMA INC., Levittown, PA 19057
 
