@@ -4,9 +4,9 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Complex Sleep Behaviors [see Warnings and Precautions (5.1)]
 - CNS-Depressant Effects and Next-Day Impairment [see Warnings and Precautions (5.2)]
-- Serious Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
+- Severe Anaphylactic and Anaphylactoid Reactions [see Warnings and Precautions (5.4)]
 - Abnormal Thinking and Behavior Changes [see Warnings and Precautions (5.5)]
-- Withdrawal effects [see Warnings and Precautions (5.9)]
+- Withdrawal Effects [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -54,7 +54,7 @@ These trials involved patients with chronic insomnia who were treated for 28 to 
 The table is limited to data from doses up to and including 10 mg, the highest dose recommended for use.
 The table includes only adverse events occurring at an incidence of at least 1% for zolpidem patients.
 
-Table 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (percentage of patients reporting)
+Table 2: Incidences of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials Lasting up to 35 Nights (percentage of patients reporting)
 
 | Body System Adverse Event* | Zolpidem (≤10 mg) (N=152) | Placebo (N=161) |
 | --- | --- | --- |
@@ -161,3 +161,4 @@ Rare: acute renal failure, dysuria, micturition frequency, nocturia, polyuria, p
 The following adverse reactions have been identified during postapproval use of zolpidem tartrate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2 x ULN, alkaline phosphatase ≥2 x ULN, transaminase ≥5 x ULN).
+Psychiatric disorders: delirium
