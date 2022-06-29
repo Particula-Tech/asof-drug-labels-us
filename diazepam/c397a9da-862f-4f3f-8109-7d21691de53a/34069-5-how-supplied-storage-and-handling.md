@@ -2,7 +2,7 @@
 
 Diazepam Tablets, USP are available containing 2 mg, 5 mg or 10 mg of diazepam, USP.
 
-The 2 mg tablets are white, round, scored tablets debossed with MYLAN over 271 on one side and scored on the other side.
+The 2 mg tablets are white to off-white, round, scored tablets debossed with MYLAN over 271 on one side and scored on the other side.
 They are available as follows:
 
 NDC 0378-0271-01 bottles of 100 tablets
