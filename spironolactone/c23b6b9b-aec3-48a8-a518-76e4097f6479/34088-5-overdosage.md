@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-The oral LD50 of spironolactone tablets is greater than 1000 mg/kg in mice, rats, and rabbits.
+The oral LD 50 of spironolactone tablets is greater than 1000 mg/kg in mice, rats, and rabbits.
 
 Acute overdosage of spironolactone tablets may be manifested by drowsiness, mental confusion, maculopapular or erythematous rash, nausea, vomiting, dizziness, or diarrhea.
 Rarely, instances of hyponatremia, hyperkalemia, or hepatic coma may occur in patients with severe liver disease, but these are unlikely due to acute overdosage.

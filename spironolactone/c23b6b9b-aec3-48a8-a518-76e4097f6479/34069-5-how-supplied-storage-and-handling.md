@@ -6,7 +6,7 @@ Spironolactone tablets 25 mg, white, round, unscored, debossed MP 35
 
 1. Bottles of 100 NDC 53489-143-01
 2. Bottles of 500 NDC 53489-143-05
-3. Bottles of 1000 NDC 53489-143-10Spironolactone tablets 50 mg, white, round, film coated, scored, debossed MP 542
+3. Bottles of 1000 NDC 53489-143-10 Spironolactone tablets 50 mg, white, round, film coated, scored, debossed MP 542
 4. Bottles of 30 NDC 53489-328-07
 5. Bottles of 50 NDC 53489-328-02
 6. Bottles of 60 NDC 53489-328-06

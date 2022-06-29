@@ -9,11 +9,11 @@ Check serum potassium levels when ACE inhibitor or ARB therapy is altered in pat
 
 Examples of drugs that can increase potassium include:
 
-- •ACE inhibitors
-- •angiotensin receptor blockers
-- •non-steroidal anti-inflammatory drugs (NSAIDs)
-- •heparin and low molecular weight heparin
-- •trimethoprim
+- ACE inhibitors
+- angiotensin receptor blockers
+- non-steroidal anti-inflammatory drugs (NSAIDs)
+- heparin and low molecular weight heparin
+- trimethoprim
 
 ## 7.2 Lithium
 

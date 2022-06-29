@@ -29,8 +29,8 @@ These considerations may guide selection of therapy.
 
 Spironolactone tablets are indicated for the management of edema in the following settings:
 
-- •Cirrhosis of the liver when edema is not responsive to fluid and sodium restriction.
-- •Nephrotic syndrome when treatment of the underlying disease, restriction of fluid and sodium intake, and the use of other diuretics produce an inadequate response.
+- Cirrhosis of the liver when edema is not responsive to fluid and sodium restriction.
+- Nephrotic syndrome when treatment of the underlying disease, restriction of fluid and sodium intake, and the use of other diuretics produce an inadequate response.
 
 Because it increases serum potassium, spironolactone tablets may be useful for treating edema when administration of other diuretics has caused hypokalemia.
 
@@ -38,6 +38,6 @@ Because it increases serum potassium, spironolactone tablets may be useful for t
 
 Spironolactone tablets are indicated in the following settings:
 
-- •Short-term preoperative treatment of patients with primary hyperaldosteronism.
-- •Long-term maintenance therapy for patients with discrete aldosterone-producing adrenal adenomas who are not candidates for surgery.
-- •Long-term maintenance therapy for patients with bilateral micro or macronodular adrenal hyperplasia (idiopathic hyperaldosteronism).
+- Short-term preoperative treatment of patients with primary hyperaldosteronism.
+- Long-term maintenance therapy for patients with discrete aldosterone-producing adrenal adenomas who are not candidates for surgery.
+- Long-term maintenance therapy for patients with bilateral micro or macronodular adrenal hyperplasia (idiopathic hyperaldosteronism).
