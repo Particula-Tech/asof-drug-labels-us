@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208339"
+  ],
+  "inn": "abiraterone",
+  "labeler": "CivicaScript, LLC",
+  "package_ndcs": [
+    "82249-010-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "Abiraterone"
+    }
+  ],
+  "setid": "0ef857ee-2bfc-4d27-a417-ad58fc3a6ff6",
+  "source": "dailymed"
+}
