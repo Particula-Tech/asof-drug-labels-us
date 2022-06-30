@@ -83,7 +83,7 @@ The minimum titration interval of BELBUCA is 4 days, based on the pharmacokineti
 Individual titration should proceed in increments of no more than 150 mcg every 12 hours.
 
 The maximum BELBUCA dose is 900 mcg every 12 hours.
-Do not exceed a dose of BELBUCA 900 mcg every 12 hours due to the potential for QTc interval prolongation[see Warnings and Precautions (5.8), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+Do not exceed a dose of BELBUCA 900 mcg every 12 hours due to the potential for QTc interval prolongation [see Warnings and Precautions (5.13), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
 If pain is not adequately managed on BELBUCA 900 mcg, consider an alternate analgesic.
 
 If unacceptable opioid-related adverse reactions are observed, adjust the dose to obtain an appropriate balance between the management of pain and opioid-related adverse reactions.
@@ -114,15 +114,15 @@ If withdrawal symptoms arise, it may be necessary to pause the taper for a perio
 In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
-A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
 
 ## 2.6 Dosage Modifications in Patients with Severe Hepatic Impairment
 
-In patients with severe hepatic impairment (i.e., Child-Pugh C), reduce the starting dose and reduce the titration dose by half that of patients with normal liver function, from 150 mcg to 75 mcg [see Warnings and Precautions (5.12), Use in Special Populations (8.6), Clinical Pharmacology (12.3)].
+In patients with severe hepatic impairment (i.e., Child-Pugh C), reduce the starting dose and reduce the titration dose by half that of patients with normal liver function, from 150 mcg to 75 mcg [see Warnings and Precautions (5.11), Use in Special Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.7 Dosage Modifications in Patients with Oral Mucositis
 
-In patients with known or suspected mucositis, reduce the starting dosage and titration incremental dosage by half compared to patients without mucositis [see Warnings and Precautions (5.17), Clinical Pharmacology (12.3)].
+In patients with known or suspected mucositis, reduce the starting dosage and titration incremental dosage by half compared to patients without mucositis [see Warnings and Precautions (5.18), Clinical Pharmacology (12.3)].
 
 ## 2.8 Administration of BELBUCA
 
@@ -135,6 +135,9 @@ The entire BELBUCA film is held in place with clean, dry fingers for 5 seconds a
 
 BELBUCA adheres to the moist buccal mucosa and will completely dissolve after application, usually within 30 minutes.
 The film should not be manipulated with the tongue or finger(s) and eating food and drinking liquids should be avoided until the film has dissolved.
+
+Advise patients to do the following after the product has completely dissolved in the oral mucosa: take a sip of water, swish gently around the teeth and gums, and swallow.
+Advise patients to wait for at least one hour after taking BELBUCA before brushing teeth [see Warnings and Precautions (5.12), Postmarketing Experience (6.2), Information for Patients (17), and the Medication Guide].
 
 A BELBUCA film, if chewed or swallowed, may result in lower peak concentrations and lower bioavailability than when used as directed.
 

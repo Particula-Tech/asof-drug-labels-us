@@ -67,9 +67,13 @@ Important Administration Instructions
 Instruct patients how to properly use BELBUCA, including the following:
 
 - To carefully follow instructions for the application of BELBUCA and to avoid eating or drinking until it dissolves.
+- Advise patients that, after BELBUCA has completely dissolved in the oral mucosa, to take a sip of water, swish it gently around their teeth and gums, and swallow.
+  Advise patients to wait for at least one hour after taking BELBUCA before brushing teeth [see Warnings and Precautions (5.12)].
 - To apply BELBUCA once daily, or every twelve (12) hours at the same time or times each day.
 - To avoid applying BELBUCA to areas of the mouth with any open sores or lesions.
 - To not use BELBUCA if the pouch seal is broken or the buccal film is cut, damaged, or changed in any way.
+- Refer patients to dental care services and encourage them to have regular dental checkups while taking BELBUCA.
+  Instruct patients to inform their dentist that they have started therapy on BELBUCA [see Warnings and Precautions (5.12)].
 
 Important Discontinuation Instructions
 
@@ -78,12 +82,12 @@ In order to avoid developing withdrawal symptoms, instruct patients not to disco
 Hypotension
 
 Inform patients that BELBUCA may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.9)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.8)].
 
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with ingredients contained in BELBUCA.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Warnings and Precautions (5.13)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Warnings and Precautions (5.14)].
 
 Pregnancy
 
@@ -106,4 +110,4 @@ Advise patients of the potential for severe constipation, including management i
 Driving or Operating Heavy Machinery
 
 Inform patients that BELBUCA may impair the ability to perform potentially hazardous activities such as driving a car or operating heavy machinery.
-Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.18)].
+Advise patients not to perform such tasks until they know how they will react to the medication [see Warnings and Precautions (5.19)].

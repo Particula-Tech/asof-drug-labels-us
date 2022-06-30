@@ -33,6 +33,8 @@ Use BELBUCA buccal film as follows:
   - Avoid eating food or drinking liquids until BELBUCA buccal film has dissolved.
   - Avoid touching or moving BELBUCA buccal film with your tongue or finger after it is in place.
   - Do not chew or swallow BELBUCA.
+  - After BELBUCA is completely dissolved, rinse your mouth with water and swallow.
+    Wait at least one hour before brushing your teeth.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
@@ -44,4 +46,4 @@ BELBUCA is a trademark of BioDelivery Sciences International, Inc.
 
 ©2021 BioDelivery Sciences International, Inc. All rights reserved.
 
-BEL-001-MG-Mar2021
+BEL-001-MG-Jun2022

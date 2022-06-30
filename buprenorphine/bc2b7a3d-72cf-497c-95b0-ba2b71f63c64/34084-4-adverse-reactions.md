@@ -7,12 +7,12 @@ The following serious adverse reactions described elsewhere in the labeling incl
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
 - Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.5)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.7)]
-- QTc Prolongation [see Warnings and Precautions (5.8)]
-- Severe Hypotension [see Warnings and Precautions (5.9)]
-- Hepatotoxicity [see Warnings and Precautions (5.11)]
-- Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.13)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.15)]
-- Seizures [see Warnings and Precautions (5.16)]
+- Severe Hypotension [see Warnings and Precautions (5.8)]
+- Hepatotoxicity [see Warnings and Precautions (5.10)]
+- QTc Prolongation [see Warnings and Precautions (5.13)]
+- Anaphylactic/Allergic Reactions [see Warnings and Precautions (5.14)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.16)]
+- Seizures [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -111,3 +111,5 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in BELBUCA.
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+
+Local reactions: dental decay (including caries, tooth fracture, and tooth loss).

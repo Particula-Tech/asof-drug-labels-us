@@ -115,14 +115,7 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## 5.8 QTc Prolongation
-
-BELBUCA has been observed to prolong the QTc interval in some subjects participating in clinical trials.
-Consider these observations in clinical decisions when prescribing BELBUCA to patients with hypokalemia, hypomagnesemia, or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
-Periodic electrocardiographic (ECG) monitoring is recommended in these patients.
-Avoid the use of BELBUCA in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
-
-## 5.9 Severe Hypotension
+## 5.8 Severe Hypotension
 
 BELBUCA may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
 There is an increased risk in patients whose ability to maintain blood pressure has already been compromised by a reduced blood volume or concurrent administration of certain CNS depressant drugs (e.g., phenothiazines or general anesthetics) [see Drug Interactions (7)].
@@ -130,7 +123,7 @@ Monitor these patients for signs of hypotension after initiating or titrating th
 In patients with circulatory shock, BELBUCA may cause vasodilation that can further reduce cardiac output and blood pressure.
 Avoid the use of BELBUCA in patients with circulatory shock.
 
-## 5.10 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
+## 5.9 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
 In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), BELBUCA may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with BELBUCA.
@@ -138,26 +131,47 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 Avoid the use of BELBUCA in patients with impaired consciousness or coma.
 
-## 5.11 Hepatotoxicity
+## 5.10 Hepatotoxicity
 
 Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving sublingual formulations of buprenorphine for the treatment of opioid dependence, both in clinical trials and in post-marketing adverse events reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
 In many cases, the presence of pre-existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injection drug abuse may have played a causative or contributory role.
 For patients at increased risk of hepatotoxicity (e.g., patients with a history of excessive alcohol intake, intravenous drug abuse or liver disease), obtain baseline liver enzyme levels and monitor periodically during treatment with BELBUCA.
 
-## 5.12 Risk of Overdose in Patients with Moderate to Severe Hepatic Impairment
+## 5.11 Risk of Overdose in Patients with Moderate to Severe Hepatic Impairment
 
 In a pharmacokinetic study in subjects dosed with buprenorphine sublingual tablets, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.6), Use in Specific Populations (8.6)].
 
-## 5.13 Anaphylactic/Allergic Reactions
+## 5.12 Dental Adverse Events
+
+Cases of dental caries, some severe (i.e., tooth fracture, tooth loss), have been reported following the use of transmucosal buprenorphine-containing products.
+Reported events include cavities, tooth decay, dental abscesses/infection, rampant caries, tooth erosion, fillings falling out, and, in some cases, total tooth loss.
+Treatment for these events included tooth extraction, root canal, dental surgery, as well as other restorative procedures (i.e., fillings, crowns, implants, dentures).
+Multiple cases were reported in individuals without any prior history of dental problems.
+
+Refer patients to dental care services and encourage them to have regular dental checkups while taking BELBUCA.
+Educate patients to seek dental care and strategies to maintain or improve oral health while being treated with transmucosal buprenorphine-containing products.
+Strategies include, but are not limited to, gently rinsing the teeth and gums with water and then swallowing after BELBUCA has been completely dissolved in the oral mucosa.
+Advise patients to wait for at least one hour after taking BELBUCA before brushing teeth [see Dosing and Administration (2.8), Information for Patients (17), Medication Guide].
+
+## 5.13 QTc Prolongation
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing Belbuca to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.2)].
+
+## 5.14 Anaphylactic/Allergic Reactions
 
 Cases of acute and chronic hypersensitivity to buprenorphine have been reported both in clinical trials and in post-marketing experience.
 The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 BELBUCA is contraindicated in patients with a history of hypersensitivity to buprenorphine.
 
-## 5.14 Withdrawal
+## 5.15 Withdrawal
 
 Do not abruptly discontinue BELBUCA in a patient physically dependent on opioids.
 When discontinuing BELBUCA in a physically dependent patient, gradually taper the dosage.
@@ -166,7 +180,7 @@ Rapid tapering of buprenorphine in a patient physically dependent on opioids may
 Additionally, the use of BELBUCA, a partial agonist opioid analgesic, in patients who are receiving a full opioid agonist analgesic may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 Avoid concomitant use of BELBUCA with a full opioid agonist analgesic.
 
-## 5.15 Risk of Use in Patients with Gastrointestinal Conditions
+## 5.16 Risk of Use in Patients with Gastrointestinal Conditions
 
 BELBUCA is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
@@ -174,18 +188,18 @@ BELBUCA may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
-## 5.16 Increased Risk of Seizures in Patients with Seizure Disorders
+## 5.17 Increased Risk of Seizures in Patients with Seizure Disorders
 
 The buprenorphine in BELBUCA may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during BELBUCA therapy.
 
-## 5.17 Risks of Use in Cancer Patients with Oral Mucositis
+## 5.18 Risks of Use in Cancer Patients with Oral Mucositis
 
 Cancer patients with oral mucositis may absorb buprenorphine more rapidly than intended and are likely to experience higher plasma levels of the opioid.
 For patients with known or suspected mucositis, a dose reduction is recommended.
 Monitor these patients carefully for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
 
-## 5.18 Risks of Driving and Operating Machinery
+## 5.19 Risks of Driving and Operating Machinery
 
 BELBUCA may impair the mental and physical abilities needed to perform potentially hazardous activities such as driving a car or operating machinery.
 Warn patients not to drive or operate dangerous machinery unless they are tolerant to side effects of BELBUCA and know how they will react to the medication.
