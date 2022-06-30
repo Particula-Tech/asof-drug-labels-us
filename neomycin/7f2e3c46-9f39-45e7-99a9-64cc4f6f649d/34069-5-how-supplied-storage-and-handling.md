@@ -4,7 +4,9 @@ Neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment is suppl
 
 1. 3.5 g in an aluminum tube NDC 61314-631-36
 
-Storage: Store at 2° to 25°C (36° to 77°F).
+Storage: Store at 2°C to 25°C (36°F to 77°F).
+
+After opening, neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment can be used until the expiration date on the tube.
 
 Distributed by:
 
@@ -12,6 +14,8 @@ Sandoz Inc.
 
 Princeton, NJ 08540
 
-T2017-128
+T2021-98
 
-December 2017
+May 2021
+
+450573 US

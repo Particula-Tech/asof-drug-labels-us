@@ -13,3 +13,7 @@ Keratitis, conjunctivitis, corneal ulcers, and conjunctival hyperemia have occas
 Secondary bacterial ocular infection following suppression of host responses also occurs.
 
 Additional adverse reactions identified from post marketing use include ulcerative keratitis, headache, and Stevens-Johnson syndrome.
+
+The following additional adverse reactions have been reported with dexamethasone use:
+
+Cushing’s syndrome and adrenal suppression may occur after use of dexamethasone in excess of the listed dosing instructions in predisposed patients, including children and patients treated with CYP3A4 inhibitors.

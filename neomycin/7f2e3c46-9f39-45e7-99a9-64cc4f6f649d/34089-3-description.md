@@ -14,12 +14,12 @@ The chemical structure for the active ingredient Dexamethasone is:
 
 C22H29FO5
 
-MW = 392.47
+Molecular Weight = 392.47 g/mol
 
 Established name: dexamethasone
 
-Chemical name: pregna-1, 4-diene-3, 20-dione, 9-fluoro-11,17, 21-trihydroxy-16-methyl-, (11β, 16α)-.
+Chemical name: pregna-1, 4-diene-3, 20-dione,9-fluoro-11,17, 21-trihydroxy-16-methyl-, (11β, 16α)-.
 
 Each gram of neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment contains: Active: neomycin sulfate equivalent to neomycin 3.5 mg, polymyxin B sulfate 10,000 units, dexamethasone 0.1%.
 Preservatives: methylparaben 0.05%, propylparaben 0.01%.
-Inactives: white petrolatum, anhydrous liquid lanolin.
+Inactives: anhydrous liquid lanolin and white petrolatum.
