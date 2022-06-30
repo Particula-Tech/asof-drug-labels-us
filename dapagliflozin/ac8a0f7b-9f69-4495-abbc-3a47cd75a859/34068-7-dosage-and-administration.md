@@ -23,8 +23,8 @@
 - •No dose adjustment for XIGDUO XR is needed in patients with an estimated glomerular filtration rate (eGFR) greater than or equal to 45 mL/min/1.73 m2.
 - •Initiation of XIGDUO XR is not recommended in patients with an eGFR between 30 and 45 mL/min/1.73 m2.
   Assess the benefit and risk of continuing therapy if eGFR falls persistently below this level.
-  - oDapagliflozin is likely to be ineffective to improve glycemic control in patients with eGFR less than 45 mL/min/1.73 m2.
-  - oMetformin initiation is not recommended for patients with eGFR less than 45 mL/min/1.73 m2.
+  - •Dapagliflozin is likely to be ineffective to improve glycemic control in patients with eGFR less than 45 mL/min/1.73 m2.
+  - •Metformin initiation is not recommended for patients with eGFR less than 45 mL/min/1.73 m2.
 - •XIGDUO XR is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2, end-stage renal disease, or on dialysis due to the metformin component [see Contraindications (4), Warnings and Precautions (5.1, 5.2), and Use in Specific Populations (8.6)].
 
 ## 2.5 Discontinuation for Iodinated Contrast Imaging Procedures
