@@ -6,6 +6,6 @@ ENTYVIO is a trademark of Millennium Pharmaceuticals Inc. and is used under lice
 
 All other trademark names are the property of their respective owners.
 
-©2014 – 2021 Takeda Pharmaceuticals U.S.A., Inc.
+©2022 Takeda Pharmaceuticals U.S.A., Inc.
 
-VMB245 R6
+VMB245 R7

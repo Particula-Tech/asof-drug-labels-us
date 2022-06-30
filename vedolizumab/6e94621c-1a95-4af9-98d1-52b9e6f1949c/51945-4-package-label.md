@@ -23,5 +23,3 @@ For Intravenous Use Only
 Must be reconstituted and diluted prior to use
 
 Single-Dose Vial - Discard Unused Portion
-
-Takeda

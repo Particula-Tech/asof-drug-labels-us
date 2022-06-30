@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ENTYVIO during pregnancy.
-Information about the registry can be obtained by calling 1-877-TAKEDA-7 (1-877-825-3327).
+Information about the registry can be obtained by calling 1-877-TAKEDA7 (1-877-825-3327).
 
 Risk Summary
 
