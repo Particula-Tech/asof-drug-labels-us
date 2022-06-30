@@ -1,4 +1,4 @@
-# BOXED WARNING: RISK OF THYROID C-CELL TUMORS
+# WARNING: RISK OF THYROID C-CELL TUMORS
 
 - •Liraglutide causes dose-dependent and treatment-duration-dependent thyroid C-cell tumors at clinically relevant exposures in both genders of rats and mice.
   It is unknown whether SAXENDA causes thyroid C-cell tumors, including medullary thyroid carcinoma (MTC), in humans, as the human relevance of liraglutide-induced rodent thyroid C-cell tumors has not been determined [see Warnings and Precautions (5.1) and Nonclinical Toxicology (13.1)].

@@ -240,3 +240,5 @@ Immune System Disorders
 Hepatobiliary Disorders
 
 - Hyperbilirubinemia, elevations of liver enzymes, cholestasis and hepatitis
+- Skin andSubcutaneous Tissue Disorders
+- Cutaneous amyloidosis

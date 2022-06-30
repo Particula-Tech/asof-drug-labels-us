@@ -42,6 +42,7 @@ Table 2: International Obesity Task Force BMI Cut-offs for Obesity by Sex and Ag
 - •Inject SAXENDA subcutaneously once daily at any time of day, without regard to the timing of meals.
 - •Inject SAXENDA subcutaneously in the abdomen, thigh, or upper arm.
   No dose adjustment is needed if changing the injection site and/or timing.
+- •Rotate injection sites within the same region in order to reduce the risk of cutaneous amyloidosis [see Adverse Reactions (6.2)].
 - •If a dose is missed, resume the once-daily regimen as prescribed with the next scheduled dose.
   Do not administer an extra dose or increase the dose to make up for the missed dose.
 - •If more than 3 days have elapsed since the last SAXENDA dose, reinitiate SAXENDA at 0.6 mg daily and follow the dose escalation schedule in Table 3, to reduce the occurrence of gastrointestinal adverse reactions associated with reinitiation of treatment.

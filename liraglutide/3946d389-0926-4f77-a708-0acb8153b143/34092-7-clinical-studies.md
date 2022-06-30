@@ -204,7 +204,7 @@ Full Analysis Set.
 For body weight and BMI, baseline values are means, changes from baseline at week 56 are estimated means (least-squares) and treatment contrasts at week 56 are estimated treatment differences.
 Missing observations were imputed from the placebo arm based on a jump to reference multiple (x100) imputation approach.
 
-Table 11.Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 4 (Pediatric Patients Ages 12 to Less than 18
+Table 11.Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 4 (Pediatric Patients Ages 12 to Less than 18)
 
 |  | SAXENDAN = 125 |  | PlaceboN = 126 |  |  |
 | --- | --- | --- | --- | --- | --- |
