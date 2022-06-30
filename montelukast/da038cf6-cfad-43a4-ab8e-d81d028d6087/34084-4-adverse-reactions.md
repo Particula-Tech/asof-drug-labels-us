@@ -7,7 +7,7 @@ In the following description of clinical trials experience, adverse reactions ar
 
 The most common adverse reactions (incidence ≥5% and greater than placebo; listed in descending order of frequency) in controlled clinical trials were: upper respiratory infection, fever, headache, pharyngitis, cough, abdominal pain, diarrhea, otitis media, influenza, rhinorrhea, sinusitis, otitis.
 
-AdultsandAdolescents15YearsofAgeandOlderwithAsthma
+Adults and Adolescents 15 Years of Age and Older with Asthma
 
 Montelukast sodium has been evaluated for safety in approximately 2,950 adult and adolescent patients 15 years of age and older in clinical trials.
 In placebo-controlled clinical trials, the following adverse experiences reported with montelukast sodium occurred in greater than or equal to 1% of patients and at an incidence greater than that in patients treated with placebo:
@@ -102,7 +102,7 @@ Pediatric Patients 6 Months to 14 Years of Age with Perennial Allergic Rhinitis
 The safety in patients 2 to 14 years of age with perennial allergic rhinitis is supported by the safety in patients 2 to 14 years of age with seasonal allergic rhinitis.
 The safety in patients 6 to 23 months of age is supported by data from pharmacokinetic and safety and efficacy studies in asthma in this pediatric population and from adult pharmacokinetic studies.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of montelukast sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -111,7 +111,7 @@ Blood and lymphatic system disorders: increased bleeding tendency, thrombocytope
 
 Immune system disorders: hypersensitivity reactions including anaphylaxis, hepatic eosinophilic infiltration.
 
-Psychiatric disorders: including, but not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, dysphemia (stuttering), hallucinations, insomnia, irritability, memory impairment, obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [seeWarnings and Precautions (5.4)].
+Psychiatric disorders: including, but not limited to, agitation, aggressive behavior or hostility, anxiousness, depression, disorientation, disturbance in attention, dream abnormalities, dysphemia (stuttering), hallucinations, insomnia, irritability, memory impairment, obsessive-compulsive symptoms, restlessness, somnambulism, suicidal thinking and behavior (including suicide), tic, and tremor [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Nervous system disorders: drowsiness, paraesthesia/hypoesthesia, seizures.
 

@@ -2,7 +2,7 @@
 
 ## 14.1 Asthma
 
-AdultsandAdolescents15YearsofAgeandOlderwithAsthma
+Adults and Adolescents 15 Years of Age and Older with Asthma
 
 Clinical trials in adults and adolescents 15 years of age and older demonstrated there is no additional clinical benefit to montelukast doses above 10 mg once daily.
 
@@ -46,13 +46,13 @@ In the US study, 7.8% of patients on montelukast sodium and 10.3% of patients on
 In the Multinational study, significantly fewer patients (14.8% of patients) on montelukast sodium were prescribed oral corticosteroids for asthma rescue compared with patients on placebo (25.7%, p<0.001).
 In the US study, 6.9% of patients on montelukast sodium and 9.9% of patients on placebo were prescribed oral corticosteroids for asthma rescue, but the difference between the two treatment groups was not significant (p=0.196).
 
-OnsetofActionandMaintenanceofEffects
+Onset of Action and Maintenance of Effects
 
 In each placebo-controlled trial in adults, the treatment effect of montelukast sodium, measured by daily diary card parameters, including symptom scores, "as-needed" β-agonist use, and PEFR measurements, was achieved after the first dose and was maintained throughout the dosing interval (24 hours).
 No significant change in treatment effect was observed during continuous once-daily evening administration in non-placebo-controlled extension trials for up to one year.
 Withdrawal of montelukast sodium in asthmatic patients after 12 weeks of continuous use did not cause rebound worsening of asthma.
 
-PediatricPatients6to14YearsofAgewithAsthma
+Pediatric Patients 6 to14 Years of Age with Asthma
 
 The efficacy of montelukast sodium in pediatric patients 6 to 14 years of age was demonstrated in one 8-week, double-blind, placebo-controlled trial in 336 patients (201 treated with montelukast sodium and 135 treated with placebo) using an inhaled β-agonist on an "as-needed" basis.
 The patients had a mean baseline percent predicted FEV 1 of 72% (approximate range, 45 to 90%) and a mean daily inhaled β-agonist requirement of 3.4 puffs of albuterol.
@@ -67,7 +67,7 @@ Subgroup analyses indicated that younger pediatric patients aged 6 to 11 had eff
 
 Similar to the adult studies, no significant change in the treatment effect was observed during continuous once-daily administration in one open-label extension trial without a concurrent placebo group for up to 6 months.
 
-PediatricPatients2to5YearsofAgewithAsthma
+Pediatric Patients 2 to 5 Years of Age with Asthma
 
 The efficacy of montelukast sodium for the chronic treatment of asthma in pediatric patients 2 to 5 years of age was explored in a 12-week, placebo-controlled safety and tolerability study in 689 patients, 461 of whom were treated with montelukast sodium.
 The median age was 4 years (range 2 to 6); 41.5% were females and 58.5% were males.
@@ -76,9 +76,9 @@ The ethnic/racial distribution in this study was 56.5% Caucasian, 20.9% Hispanic
 While the primary objective was to determine the safety and tolerability of montelukast sodium in this age group, the study included exploratory efficacy evaluations, including daytime and overnight asthma symptom scores, β-agonist use, oral corticosteroid rescue, and the physician's global evaluation.
 The findings of these exploratory efficacy evaluations, along with pharmacokinetics and extrapolation of efficacy data from older patients, support the overall conclusion that montelukast sodium is efficacious in the maintenance treatment of asthma in patients 2 to 5 years of age.
 
-EffectsinPatientsonConcomitantInhaledCorticosteroids
+Effects in Patients on Concomitant Inhaled Corticosteroids
 
-� Separate trials in adults evaluated the ability of montelukast sodium to add to the clinical effect of inhaled corticosteroids and to allow inhaled corticosteroid tapering when used concomitantly.
+Separate trials in adults evaluated the ability of montelukast sodium to add to the clinical effect of inhaled corticosteroids and to allow inhaled corticosteroid tapering when used concomitantly.
 
 One randomized, placebo-controlled, parallel-group trial (n=226) enrolled adults with stable asthma with a mean FEV 1 of approximately 84% of predicted who were previously maintained on various inhaled corticosteroids (delivered by metered-dose aerosol or dry powder inhalers).
 The median age was 41.5 years (range 16 to 70); 52.2% were females and 47.8% were males.
@@ -94,7 +94,7 @@ Patients who were randomized to treatment arms containing beclomethasone had sta
 
 In adult patients with asthma with documented aspirin sensitivity, nearly all of whom were receiving concomitant inhaled and/or oral corticosteroids, a 4-week, randomized, parallel-group trial (n=80) demonstrated that montelukast sodium, compared with placebo, resulted in significant improvement in parameters of asthma control.
 The magnitude of effect of montelukast sodium in aspirin-sensitive patients was similar to the effect observed in the general population of asthma patients studied.
-The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [seeWarningsandPrecautions(5.3)].
+The effect of montelukast sodium on the bronchoconstrictor response to aspirin or other non-steroidal anti-inflammatory drugs in aspirin-sensitive asthmatic patients has not been evaluated [see Warnings and Precautions (5.4)].
 
 ## 14.2 Exercise-Induced Bronchoconstriction (EIB)
 
@@ -147,7 +147,7 @@ In pediatric patients 6 to 14 years of age, using the 5-mg chewable tablet, a 2-
 
 ## 14.3 Allergic Rhinitis (Seasonal and Perennial)
 
-SeasonalAllergicRhinitis
+Seasonal Allergic Rhinitis
 
 The efficacy of montelukast sodium tablets for the treatment of seasonal allergic rhinitis was investigated in 5 similarly designed, randomized, double-blind, parallel-group, placebo- and active-controlled (loratadine) trials conducted in North America.
 The 5 trials enrolled a total of 5,029 patients, of whom 1,799 were treated with montelukast sodium tablets.
@@ -165,7 +165,7 @@ The remaining three trials that demonstrated efficacy showed similar results.
 
 Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score * in a Placebo- and Active-controlled Trial in Patients with Seasonal Allergic Rhinitis(ANCOVA Model)
 
-| Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI)�Least-Squares Mean |
+| Treatment Group (N) | Baseline Mean Score | Mean Change from Baseline | Difference Between Treatment and Placebo (95% CI) Least-Squares Mean |
 | --- | --- | --- | --- |
 | Montelukast 10 mg (344) | 2.09 | -0.39 | -0.13 ‡ (-0.21, -0.06) |
 | Placebo (351) | 2.10 | -0.26 | N.A. |
@@ -174,7 +174,7 @@ Table 5: Effects of Montelukast Sodium on Daytime Nasal Symptoms Score * in a Pl
 | † The study was not designed for statistical comparison between Montelukast Sodium and the active control (loratadine). |  |  |  |
 | ‡ Statistically different from placebo (p≤0.001). |  |  |  |
 
-PerennialAllergicRhinitis
+Perennial Allergic Rhinitis
 
 The efficacy of montelukast sodium tablets for the treatment of perennial allergic rhinitis was investigated in 2 randomized, double-blind, placebo-controlled studies conducted in North America and Europe.
 The two studies enrolled a total of 3,357 patients, of whom 1,632 received montelukast sodium 10-mg tablets.

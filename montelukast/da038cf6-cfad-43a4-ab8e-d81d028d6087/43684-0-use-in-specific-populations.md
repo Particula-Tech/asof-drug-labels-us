@@ -87,4 +87,4 @@ No dosage adjustment is required in patients with mild-to-moderate hepatic insuf
 
 ## 8.7 Renal Insufficiency
 
-No dosage adjustment is recommended in patients with renal insufficiency [seeClinicalPharmacology(12.3)].
+No dosage adjustment is recommended in patients with renal insufficiency [see Clinical Pharmacology (12.3)].

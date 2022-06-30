@@ -7,7 +7,7 @@ These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors.
 The CysLT type-1 (CysLT 1) receptor is found in the human airway (including airway smooth muscle cells and airway macrophages) and on other pro-inflammatory cells (including eosinophils and certain myeloid stem cells).
 CysLTs have been correlated with the pathophysiology of asthma and allergic rhinitis.
 In asthma, leukotriene-mediated effects include airway edema, smooth muscle contraction, and altered cellular activity associated with the inflammatory process.
-In allergic rhinitis, CysLTs are released from the nasal mucosa after allergen exposure during both early-and late-phase reactions and are associated with symptoms of allergic rhinitis.
+In allergic rhinitis, CysLTs are released from the nasal mucosa after allergen exposure during both early- and late-phase reactions and are associated with symptoms of allergic rhinitis.
 
 Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor).
 Montelukast inhibits physiologic actions of LTD 4 at the CysLT 1 receptor without any agonist activity.
@@ -21,7 +21,7 @@ In a placebo-controlled, crossover study (n=12), montelukast sodium inhibited ea
 The effect of montelukast sodium on eosinophils in the peripheral blood was examined in clinical trials.
 In patients with asthma aged 2 years and older who received montelukast sodium, a decrease in mean peripheral blood eosinophil counts ranging from 9% to 15% was noted, compared with placebo, over the double-blind treatment periods.
 In patients with seasonal allergic rhinitis aged 15 years and older who received montelukast sodium, a mean increase of 0.2% in peripheral blood eosinophil counts was noted, compared with a mean increase of 12.5% in placebo-treated patients, over the double-blind treatment periods; this reflects a mean difference of 12.3% in favor of montelukast sodium.
-The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [seeClinicalStudies(14)].
+The relationship between these observations and the clinical benefits of montelukast noted in the clinical trials is not known [see Clinical Studies (14)].
 
 ## 12.3 Pharmacokinetics
 
@@ -50,8 +50,7 @@ Distribution
 
 Montelukast is more than 99% bound to plasma proteins.
 The steady state volume of distribution of montelukast averages 8 to 11 liters.
-Studies in rats with radiolabeled montelukast indicate minimal distribution across the blood-brain barrier.
-In addition, concentrations of radiolabeled material at 24 hours postdose were minimal in all other tissues.
+Orally administered montelukast distributes into the brain in rats.
 
 Metabolism
 
@@ -73,12 +72,12 @@ During once-daily dosing with 10-mg montelukast, there is little accumulation of
 
 SpecialPopulations
 
-HepaticInsufficiency: Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast AUC following a single 10-mg dose.
+Hepatic Insufficiency: Patients with mild-to-moderate hepatic insufficiency and clinical evidence of cirrhosis had evidence of decreased metabolism of montelukast resulting in 41% (90% CI=7%, 85%) higher mean montelukast AUC following a single 10-mg dose.
 The elimination of montelukast was slightly prolonged compared with that in healthy subjects (mean half-life, 7.4 hours).
 No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency.
 The pharmacokinetics of montelukast sodium in patients with more severe hepatic impairment or with hepatitis have not been evaluated.
 
-RenalInsufficiency: Since montelukast and its metabolites are not excreted in the urine, the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency.
+Renal Insufficiency: Since montelukast and its metabolites are not excreted in the urine, the pharmacokinetics of montelukast were not evaluated in patients with renal insufficiency.
 No dosage adjustment is recommended in these patients.
 
 Gender: The pharmacokinetics of montelukast are similar in males and females.
@@ -109,14 +108,14 @@ In drug-interaction studies, the recommended clinical dose of montelukast did no
 Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state, did not cause clinically significant changes in the kinetics of a single intravenous dose of theophylline [predominantly a cytochrome P450 (CYP) 1A2 substrate].
 Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state, did not cause any clinically significant change in plasma profiles of prednisone or prednisolone following administration of either oral prednisone or intravenous prednisolone.
 
-OralContraceptives, Terfenadine, Digoxin, andWarfarin: In drug interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: oral contraceptives (norethindrone 1 mg/ethinyl estradiol 35 mcg), terfenadine, digoxin, and warfarin.
+Oral Contraceptives, Terfenadine, Digoxin, and Warfarin: In drug interaction studies, the recommended clinical dose of montelukast did not have clinically important effects on the pharmacokinetics of the following drugs: oral contraceptives (norethindrone 1 mg/ethinyl estradiol 35 mcg), terfenadine, digoxin, and warfarin.
 Montelukast at doses of ≥100 mg daily dosed to pharmacokinetic steady state did not significantly alter the plasma concentrations of either component of an oral contraceptive containing norethindrone 1 mg/ethinyl estradiol 35 mcg.
 Montelukast at a dose of 10 mg once daily dosed to pharmacokinetic steady state did not change the plasma concentration profile of terfenadine (a substrate of CYP3A4) or fexofenadine, the carboxylated metabolite, and did not prolong the QTc interval following co-administration with terfenadine 60 mg twice daily; did not change the pharmacokinetic profile or urinary excretion of immunoreactive digoxin; did not change the pharmacokinetic profile of warfarin (primarily a substrate of CYP2C9, 3A4 and 1A2) or influence the effect of a single 30-mg oral dose of warfarin on prothrombin time or the International Normalized Ratio (INR).
 
-ThyroidHormones, SedativeHypnotics, Non-SteroidalAnti-InflammatoryAgents, Benzodiazepines, andDecongestants: Although additional specific interaction studies were not performed, montelukast was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions.
+Thyroid Hormones, Sedative Hypnotics, Non-Steroidal Anti-Inflammatory Agents, Benzodiazepines, and Decongestants: Although additional specific interaction studies were not performed, montelukast was used concomitantly with a wide range of commonly prescribed drugs in clinical studies without evidence of clinical adverse interactions.
 These medications included thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, and decongestants.
 
-CytochromeP450(CYP)EnzymeInducers: Phenobarbital, which induces hepatic metabolism, decreased the area under the plasma concentration curve (AUC) of montelukast approximately 40% following a single 10-mg dose of montelukast.
+Cytochrome P450(CYP) Enzyme Inducers: Phenobarbital, which induces hepatic metabolism, decreased the area under the plasma concentration curve (AUC) of montelukast approximately 40% following a single 10-mg dose of montelukast.
 No dosage adjustment for montelukast sodium is recommended.
 It is reasonable to employ appropriate clinical monitoring when potent CYP enzyme inducers, such as phenobarbital or rifampin, are co-administered with montelukast sodium.
 
