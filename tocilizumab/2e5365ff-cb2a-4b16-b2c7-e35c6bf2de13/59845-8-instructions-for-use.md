@@ -33,7 +33,9 @@ Do not remove the needle cap while allowing your ACTEMRA prefilled syringe to re
 
 - Keep your unused syringes in the original carton and keep in the refrigerator at 36°F to 46°F (2°C to 8°C).
   Do not freeze.
-- Hold your ACTEMRA prefilled syringe with the covered needle pointing down (See Figure C).
+- Once removed from the refrigerator, your prefilled syringe can be stored up to 2 weeks at or below 86°F (30°C).
+  Your prefilled syringe must always be kept in the original carton in order to protect from light and moisture.
+  Hold your ACTEMRA prefilled syringe with the covered needle pointing down (See Figure C).
 - Check the liquid in the ACTEMRA prefilled syringe.
   It should be clear and colorless to pale yellow.
   Do not inject ACTEMRA if the liquid is cloudy, discolored, or has lumps or particles in it because it may not be safe to use.
@@ -129,7 +131,7 @@ Record your Injection
 If you have questions or concerns about your ACTEMRA prefilled syringe, please contact your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: 02/2022 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: 06/2022 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990
 
@@ -142,6 +144,8 @@ Before you use the ACTEMRA ACTPen autoinjector for the first time, make sure you
 
 Important: Keep your unused Autoinjectors in the original carton and keep in the refrigerator at 36°F to 46°F (2°C to 8°C).
 Do not freeze.
+Once removed from the refrigerator, your Autoinjector can be stored up to 2 weeks at or below 86°F (30°C).
+Your Autoinjector must always be kept in the original carton in order to protect from light and moisture.
 
 - Do not remove the Autoinjector cap until you are ready to inject ACTEMRA.
 - Do not try to take apart the Autoinjector at any time.
@@ -295,7 +299,7 @@ Record your Injection
 If you have any questions or concerns about your ACTEMRA ACTPen autoinjector, talk to your healthcare provider familiar with ACTEMRA or call 1-800-ACTEMRA.
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Medication Guide Revised: 02/2022 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
+Medication Guide Revised: 06/2022 ACTEMRA is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 ACTPen is a registered trademark of Chugai Seiyaku Kabushiki Kaisha Corp., a member of the Roche Group.
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990

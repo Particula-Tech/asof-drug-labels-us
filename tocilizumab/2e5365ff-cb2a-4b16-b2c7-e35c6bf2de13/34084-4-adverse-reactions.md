@@ -67,7 +67,7 @@ Anaphylaxis
 
 Hypersensitivity reactions requiring treatment discontinuation, including anaphylaxis, associated with ACTEMRA-IV were reported in 0.1% (3 out of 2644) in the 24 week, controlled trials and in 0.2% (8 out of 4009) in the all-exposure population.
 These reactions were generally observed during the second to fourth infusion of ACTEMRA-IV.
-Appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction [see Warnings and Precautions 5.6)].
+Appropriate medical treatment should be available for immediate use in the event of a serious hypersensitivity reaction [see Warnings and Precautions (5.6)].
 
 Laboratory Abnormalities
 

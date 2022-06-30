@@ -17,3 +17,5 @@ Storage and Stability: Do not use beyond expiration date on the container, packa
 ACTEMRA must be refrigerated at 36°F to 46°F (2ºC to 8ºC).
 Do not freeze.
 Protect the vials, syringes, and autoinjectors from light by storage in the original package until time of use, and keep syringes and autoinjectors dry.
+Once removed from the refrigerator, the prefilled syringe and autoinjector can be stored up to 2 weeks at or below 86°F (30°C).
+The prefilled syringe and autoinjector must always be kept in the carton.

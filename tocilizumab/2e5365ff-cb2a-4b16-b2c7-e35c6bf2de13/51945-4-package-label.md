@@ -67,7 +67,7 @@ Genentech
 
 10241779
 
-# PRINCIPAL DISPLAY PANEL - 0.9 mL Prefilled Syringe Box
+# PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box
 
 NDC 50242-138-01
 
@@ -93,7 +93,7 @@ Genentech
 
 ⬇ TO OPEN ⬇
 
-10223154
+10249853
 
 # PRINCIPAL DISPLAY PANEL - 0.9 mL Autoinjector Box
 
@@ -125,4 +125,4 @@ Genentech
 
 ⬇ TO OPEN ⬇
 
-10223148
+10249859
