@@ -29,7 +29,7 @@ Maternal Adverse Reactions:
 
 Exposure to SNRIs in mid to late pregnancy may increase the risk for preeclampsia, and exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage.
 
-Fetal/Neonatal Adverse Reactions:
+Fetal/Neonatal adverse reactions:
 
 Exposure to SNRIs or SSRIs in late pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Monitor neonates who were exposed to desvenlafaxine in the third trimester of pregnancy for drug discontinuation syndrome (see Data).
@@ -71,7 +71,7 @@ The cause of these deaths is not known.
 The AUC exposure at the no-effect dose for rat pup mortality was 4.5-times the AUC exposure at an adult human dose of 100 mg per day.
 Post-weaning growth and reproductive performance of the progeny were not affected by maternal treatment with desvenlafaxine succinate at exposures 19 times the AUC exposure at an adult human dose of 100 mg per day.
 
-## 8.6 Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -90,10 +90,11 @@ No adverse reactions were seen in the infants.
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of desvenlafaxine, have not been established in pediatric patients for the treatment of MDD.
+
 Efficacy was not demonstrated in two adequate and well controlled, 8-week, randomized, double-blind, placebo-controlled, parallel group studies conducted in 587 patients (7 to 17 years of age) for the treatment of MDD.
 
-Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the BOXED WARNING and WARNINGS AND PRECAUTIONS (5.1)].
-Desvenlafaxine was associated with a decrease in body weight in placebo-controlled trials in pediatric patients with MDD.
+Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the Boxed Warning and Warnings and Precautions (5.1)].
+Desvenlafaxine was associated with a decrease in body weight in placebo controlled trials in pediatric patients with MDD.
 The incidence of weight loss (≥3.5% of baseline weight) was 22%, 14%, and 7% for patients treated with low dose desvenlafaxine, high dose desvenlafaxine, and placebo, respectively.
 The risks associated with longer term desvenlafaxine use were assessed in 6-month, open-label extension studies in pediatric patients (7 to 17 years of age) with MDD.
 Pediatric patients (7 to 17 years of age) had mean changes in weight that approximated expected changes, based on data from age-and sex-matched peers.
@@ -121,10 +122,10 @@ For elderly patients, possible reduced renal clearance of desvenlafaxine should 
 
 SSRIs and SNRIs, including desvenlafaxine, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see WARNINGS AND PRECAUTIONS (5.9)].
 
-## 8.7 Renal Impairment
+## 8.6 Renal Impairment
 
 Adjust the maximum recommended dosage in patients with moderate or severe renal impairment (CLcr 15 to 50 mL/min, C-G), or end-stage renal disease (CLcr < 15 mL/min, C-G) [see DOSAGE AND ADMINISTRATION (2.2) and CLINICAL PHARMACOLOGY (12.3)].
 
-## 8.8 Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 Adjust the maximum recommended dosage in patients with moderate to severe hepatic impairment (Child-Pugh score 7 to 15) [see DOSAGE AND ADMINISTRATION (2.3) and CLINICAL PHARMACOLOGY (12.3)].

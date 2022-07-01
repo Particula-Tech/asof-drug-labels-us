@@ -90,7 +90,7 @@ Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs, warfarin, and 
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to SSRIs and SNRIs have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life- threatening hemorrhages.
 Inform patients about the risk of bleeding associated with the concomitant use of desvenlafaxine and antiplatelet agents or anticoagulants.
-For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing desvenlafaxine..
+For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing desvenlafaxine.
 
 ## 5.5 Angle Closure Glaucoma
 
@@ -106,17 +106,17 @@ As with all antidepressants, desvenlafaxine should be used cautiously in patient
 ## 5.7 Discontinuation Syndrome
 
 Adverse reactions after discontinuation of serotonergic antidepressants, particularly after abrupt discontinuation, include: nausea, sweating, dysphoric mood, irritability, agitation, dizziness, sensory disturbances (e.g., paresthesia, such as electric shock sensations), tremor, anxiety, confusion, headache, lethargy, emotional lability, insomnia, hypomania, tinnitus, and seizures.
-[see ADVERSE REACTION (6.1)].
+[see ADVERSE REACTIONS(6.1)].
 
 There have been postmarketing reports of serious discontinuation symptoms with desvenlafaxine, which can be protracted and severe.
-Completed suicide, suicidal thoughts, and severe aggression (including hostility, rage, and homicidal ideation) have been observed in patients during reduction in desvelafaxine dosage, including during discontinuation.
+Completed suicide, suicidal thoughts, and severe aggression (including hostility, rage, and homicidal ideation) have been observed in patients during reduction in desvenlafaxine dosage, including during discontinuation.
 Other postmarketing reports describe visual changes (such as blurred vision or trouble focusing) and increased blood pressure after stopping or reducing the dose of desvenlafaxine.
 
 Patients should be monitored when discontinuing treatment with desvenlafaxine.
 A gradual reduction in the dose, rather than abrupt cessation, is recommended.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the healthcare provider may continue decreasing the dose, but at a more gradual rate.
-In some patients, discontinuation may need to occur over a period of several months [see DOSAGE AND ADMINISTRATION (2.5)].
+In some patients, discontinuation may need to occur over a period of several months [see DOSAGE AND ADMINISTRATION (2.5)]
 
 ## 5.8 Seizure
 

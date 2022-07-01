@@ -13,7 +13,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Seizure [see WARNINGS AND PRECAUTIONS (5.8)]
 - Hyponatremia [see WARNINGS AND PRECAUTIONS (5.9)]
 - Interstitial Lung Disease and Eosinophilic Pneumonia [see WARNINGS AND PRECAUTIONS (5.10)]
-- Sexual Dysfunction [see WARNINGS AND PRECAUTIONS (5.11)]
+- Sexual Dysfunction [see Warnings and Precautions [see WARNINGS AND PRECAUTIONS (5.11)]
 
 ## 6.1 Clinical Studies Experience
 

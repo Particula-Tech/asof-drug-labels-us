@@ -4,6 +4,16 @@ Desvenlafaxine Extended-Release Tablets,
 
 Rx Only
 
+25 mg
+
+NDC 68180-604-06
+
+30 Tablets
+
+Desvenlafaxine Extended-Release Tablets,
+
+Rx Only
+
 50 mg
 
 NDC 68180-592-06

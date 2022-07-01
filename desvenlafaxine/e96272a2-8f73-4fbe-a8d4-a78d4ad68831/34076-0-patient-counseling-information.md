@@ -36,7 +36,7 @@ Patients should be aware that discontinuation effects may occur when stopping de
 Sexual Dysfunction
 
 Advise patients that use of Desvenlafaxine extended-release tablets may cause symptoms of sexual dysfunction in both male and female patients.
-Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see WARNING AND PRECAUTIONS (5.11)].
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
 
 Switching Patients From Other Antidepressants to Desvenlafaxine Extended-Release Tablets
 
@@ -81,4 +81,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: February 2022 ID#: 269577
+Revised: April 2022 ID#: 269498
