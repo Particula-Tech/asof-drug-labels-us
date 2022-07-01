@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA078876"
+  ],
+  "inn": "cetirizine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-057-41",
+    "62135-057-47"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "cetirizine hydrochloride oral solution",
+      "name": "Cetirizine Hydrochloride Oral Solution"
+    }
+  ],
+  "setid": "41dc7107-a2d2-4519-ac6f-cbed9f07e9bf",
+  "source": "dailymed"
+}
