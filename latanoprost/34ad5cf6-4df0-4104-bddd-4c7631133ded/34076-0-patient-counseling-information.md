@@ -33,22 +33,16 @@ If a Dose is Missed
 
 Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
-Manufactured for: Sun Pharma Global FZE
-
-By: Sun Pharmaceutical Industries, Ltd.
+Manufactured by: Sun Pharmaceutical Industries Limited
 
 Halol-Baroda Highway
 
-Halol-389, Gujarat, India
+Halol-389 350, Gujarat, India
 
 Distributed by:
 
 Sun Pharmaceutical Industries, Inc., Cranbury, NJ 08512
 
-© 2021, Sun Pharma Global FZE
+© 2022, Sun Pharmaceutical Industries Limited
 
 All rights reserved
-
-02/2021
-
-lant-uspi-2021-Feb-0003
