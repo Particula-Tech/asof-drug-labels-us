@@ -1,10 +1,8 @@
-# Package/Label Display Panel, Part 1 of 2
+# PACKAGE/LABEL DISPLAY PANEL, PART 1 OF 2
 
-# Package/Label Display Panel, Part 2 of 2
+NDC 0555-9009-42
 
-## Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets USP) 21 Day Regimen, 3 Blister Cards, 21 Tablets Each Carton Text
-
-NDC 0555-9009-42 3 Blister Cards, 21 Tablets Each
+3 Blister Cards, 21 Tablets Each
 
 21
 
@@ -36,13 +34,9 @@ SHAPING
 
 WOMEN’S HEALTH®
 
-TEVA
+# PACKAGE/LABEL DISPLAY PANEL, PART 2 OF 2
 
-# Package/Label Display Panel, Part 1 of 2
-
-# Package/Label Display Panel, Part 2 of 2
-
-## Nortrel® 1/35 (norethindrone and ethinyl estradiol tablets USP) 28 Day Regimen, 6 Blister Cards, 28 Tablets Each Carton Text
+# PACKAGE/LABEL DISPLAY PANEL, PART 1 OF 2
 
 NDC 0555-9010-58
 
@@ -75,15 +69,13 @@ SHAPING
 
 WOMEN’S HEALTH®
 
-TEVA
+# PACKAGE/LABEL DISPLAY PANEL, PART 2 OF 2
 
-# Package/Label Display Panel, Part 1 of 2
+# PACKAGE/LABEL DISPLAY PANEL, PART 1 OF 2
 
-# Package/Label Display Panel, Part 2 of 2
+NDC 0555-9008-67
 
-## Nortrel® 0.5/35 (norethindrone and ethinyl estradiol tablets USP) 28 Day Regimen, 3 Blister Cards, 28 Tablets Each Carton Text
-
-NDC 0555-9008-67 3 Blister Cards, 28 Tablets Each
+3 Blister Cards, 28 Tablets Each
 
 28
 
@@ -117,4 +109,4 @@ SHAPING
 
 WOMEN’S HEALTH®
 
-TEVA
+# PACKAGE/LABEL DISPLAY PANEL, PART 2 OF 2
