@@ -5,7 +5,7 @@ Human Pharmacology
 Absorption
 
 Pharmacokinetic studies with a 150 mg oral dose of clindamycin hydrochloride in 24 normal adult volunteers showed that clindamycin was rapidly absorbed after oral administration.
-An average peak serum concentration of 2.50 mcg/mL was reached in 45 minutes; serum concentration averaged 1.51 mcg/mL at 3 hours and 0.70 mcg/mL at 6 hours.
+An average peak serum concentration of 2.50 mcg/mL was reached in 45 minutes; serum concentrations averaged 1.51 mcg/mL at 3 hours and 0.70 mcg/mL at 6 hours.
 Absorption of an oral dose is virtually complete (90%), and the concomitant administration of food does not appreciably modify the serum concentrations; serum concentrations have been uniform and predictable from person to person and dose to dose.
 Pharmacokinetic studies following multiple doses of clindamycin hydrochloride for up to 14 days show no evidence of accumulation or altered metabolism of drug.
 Doses of up to 2 grams of clindamycin per day for 14 days have been well tolerated by healthy volunteers, except that the incidence of gastrointestinal side effects is greater with the higher doses.
@@ -28,12 +28,13 @@ Approximately 10% of the bioactivity is excreted in the urine and 3.6% in the fe
 
 Specific Populations
 
-Patients with Renal Impairment
+Patients with Renal/Hepatic Impairment
 
-Serum half-life of clindamycin is increased slightly in patients with markedly reduced renal function.
+The elimination half-life of clindamycin is increased slightly in patients with markedly reduced renal or hepatic function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
+Dosage schedules do not need to be modified in patients with renal disease.
 
-Elderly Patients
+Geriatric Patients
 
 Pharmacokinetic studies in elderly volunteers (61 to 79 years) and younger adults (18 to 39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4 hours (range 3.4 to 5.1 h) in the elderly compared to 3.2 hours (range 2.1 to 4.2 h) in younger adults.
@@ -92,7 +93,7 @@ Gram-positive bacteria
 - Micromonas (Peptostreptococcus) micros
 - Prevotella bivia
 - Prevotella intermedia
-- Propionibacterium acnes
+- Cutibacterium acnes
 
 Susceptibility Testing
 
