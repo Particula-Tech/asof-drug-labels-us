@@ -1,6 +1,6 @@
-# ADVERSE REACTIONS
+# ADVERSE REACTIONS:
 
-Adverse reactions include, in decreasing order of frequency, elevation of intraocular pressure (IOP) with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
+Adverse reactions include, in decreasing order of frequency, elevation of IOP with possible development of glaucoma and infrequent optic nerve damage, posterior subcapsular cataract formation, and delayed wound healing.
 
 Although systemic effects are extremely uncommon, there have been rare occurrences of systemic hypercorticoidism after use of topical steroids.
 
@@ -9,4 +9,6 @@ Keratitis, conjunctivitis, corneal ulcers, mydriasis, conjunctival hyperemia, lo
 
 The development of secondary ocular infection (bacterial, fungal and viral) has occurred.
 Fungal and viral infections of the cornea are particularly prone to develop coincidentally with long-term applications of steroid.
-The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (SEE WARNINGS).
+The possibility of fungal invasion should be considered in any persistent corneal ulceration where steroid treatment has been used (see WARNINGS).
+
+The following additional adverse reactions have been reported with prednisolone use: Cushing’s syndrome and adrenal suppression may occur after very frequent use of ophthalmic prednisolone, particularly in very young children.

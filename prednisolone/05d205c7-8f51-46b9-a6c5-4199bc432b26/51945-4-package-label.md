@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 61314-637-05 Prednisolone
+NDC 61314-637-05 prednisoLONE
 
 Acetate
 
