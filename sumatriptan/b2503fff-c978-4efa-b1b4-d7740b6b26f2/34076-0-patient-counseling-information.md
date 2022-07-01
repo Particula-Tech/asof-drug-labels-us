@@ -13,4 +13,4 @@ Medication Overuse Headache Inform patients that use of acute migraine drugs for
 Pregnancy Advise patients to notify their healthcare provider if they become pregnant during treatment or plan to become pregnant [see Use in Specific Populations (8.1)].
 Lactation Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 Ability to Perform Complex Tasks Treatment with sumatriptan tablets may cause somnolence and dizziness; instruct patients to evaluate their ability to perform complex tasks after administration of sumatriptan tablets.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 07/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 08/2021
