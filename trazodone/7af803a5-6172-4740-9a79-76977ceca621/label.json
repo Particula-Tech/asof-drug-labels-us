@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA018207"
+  ],
+  "inn": "trazodone",
+  "labeler": "Pragma Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "58463-005-01",
+    "58463-006-01",
+    "58463-007-01",
+    "58463-008-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trazodone hydrochloride",
+      "name": "Desyrel"
+    }
+  ],
+  "setid": "7af803a5-6172-4740-9a79-76977ceca621",
+  "source": "dailymed"
+}
