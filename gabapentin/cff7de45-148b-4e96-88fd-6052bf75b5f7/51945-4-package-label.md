@@ -123,3 +123,31 @@ gabapentin oral solution
 250 mg per 5 mL
 
 Rx only
+
+# PRINCIPAL DISPLAY PANEL - 470 mL Bottle Label - NDC 59762-5050-7
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-5050-7 470 mL
+
+GREENSTONE® BRAND
+
+gabapentin oral solution
+
+250 mg per 5 mL
+
+Rx only
+
+# PRINCIPAL DISPLAY PANEL - 470 mL Bottle Carton - NDC 59762-5050-7
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 59762-5050-7 470 mL
+
+GREENSTONE® BRAND
+
+gabapentin oral solution
+
+250 mg per 5 mL
+
+Rx only
