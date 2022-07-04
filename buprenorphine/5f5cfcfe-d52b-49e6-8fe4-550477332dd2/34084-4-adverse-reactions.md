@@ -1,26 +1,17 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-• Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-
-• Respiratory and CNS Depression [see Warnings and Precautions (5.2, 5.3)]
-
-• Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-
-• Adrenal Insufficiency [see Warnings and Precautions (5.6)]
-
-• Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
-
-• Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
-
-• Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-
-• Orthostatic Hypotension [see Warnings and Precautions (5.14)]
-
-• Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
-
-• Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)]
+- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
+- Respiratory and CNS Depression [see Warnings and Precautions (5.2, 5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.6)]
+- Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
+- Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.16)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.17)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -120,13 +111,9 @@ Table 3 shows adverse events reported by at least 5% of subjects in any dose gro
 | Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
 
 *Sublingual solution.
-Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg
+Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes:
 
-"Low" dose (4 mg solution) approximates a 6 mg tablet dose
-
-"Moderate" dose (8 mg solution) approximates a 12 mg tablet dose
-
-"High" dose (16 mg solution) approximates a 24 mg tablet dose
+"Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg "Low" dose (4 mg solution) approximates a 6 mg tablet dose "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose "High" dose (16 mg solution) approximates a 24 mg tablet dose
 
 ## 6.2 Post-marketing Experience
 
@@ -143,4 +130,4 @@ Anaphylaxis: Anaphylaxis has been reported with ingredients contained in ZUBSOLV
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
-Local reactions: Glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis
+Local reactions: Dental decay (including caries, tooth fracture, and tooth loss), glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis.

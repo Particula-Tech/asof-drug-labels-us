@@ -22,4 +22,4 @@ The lower rate of retention on Day 3 observed for ZUBSOLV in comparison to gener
 | Retention at Day 3 | 357 (93%) | 344 (92%) | 701 (93%) |
 | Study 2 |  |  |  |
 | Number in population | ZUBSOLV (N=155) | Generic BUP (N=155) | Overall (N=310) |
-| Retention at Day 3 | 132 (85%) | 147 (95%) | 279 (90%) |
+| Retention at Day 3 | 132 (85%) | 147 (95%) | (90%) |

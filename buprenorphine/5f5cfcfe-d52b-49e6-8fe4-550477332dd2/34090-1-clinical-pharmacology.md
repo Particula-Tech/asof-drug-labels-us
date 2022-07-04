@@ -47,7 +47,7 @@ Naloxone had no clinically significant effect when administered by the sublingua
 Buprenorphine/naloxone, when administered sublingually to an opioid-dependent cohort, was recognized as an opioid agonist, whereas when administered intramuscularly, combinations of buprenorphine with naloxone produced opioid antagonist actions similar to naloxone.
 This finding suggests that the naloxone in buprenorphine/naloxone tablets may deter injection of buprenorphine/naloxone tablets by persons with active substantial heroin or other full mu-opioid dependence.
 However, clinicians should be aware that some opioid-dependent persons, particularly those with a low level of full mu-opioid physical dependence or those whose opioid physical dependence is predominantly to buprenorphine, abuse buprenorphine/naloxone combinations by the intravenous or intranasal route.
-In methadone- maintained patients and heroin-dependent subjects, IV administration of buprenorphine/naloxone combinations precipitated opioid withdrawal signs and symptoms and was perceived as unpleasant and dysphoric.
+In methadone-maintained patients and heroin-dependent subjects, IV administration of buprenorphine/naloxone combinations precipitated opioid withdrawal signs and symptoms and was perceived as unpleasant and dysphoric.
 In morphine-stabilized subjects, intravenously administered combinations of buprenorphine with naloxone produced opioid antagonist and withdrawal signs and symptoms that were ratio-dependent; the most intense withdrawal signs and symptoms were produced by 2:1 and 4:1 ratios, less intense by an 8:1 ratio.
 
 Effects on the Endocrine System
@@ -58,6 +58,10 @@ They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic sec
 Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date.
 Patients presenting with symptoms of androgen deficiency should undergo laboratory evaluation [see Adverse Reactions (6.2)].
+
+Cardiac Electrophysiology
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤15 msec.
 
 ## 12.3 Pharmacokinetics
 
@@ -74,6 +78,7 @@ One ZUBSOLV 5.7 mg/1.4 mg tablet provides equivalent buprenorphine exposure and 
 Distribution
 
 Buprenorphine is approximately 96% protein bound, primarily to alpha and beta globulin.
+
 Naloxone is approximately 45% protein bound, primarily to albumin.
 
 Elimination Metabolism
@@ -82,7 +87,7 @@ Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidat
 The N-dealkylation pathway is mediated primarily by the CYP3A4.
 Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
 Norbuprenorphine has been found to bind opioid receptors in-vitro; however, it has not been studied clinically for opioid-like activity.
-Naloxone undergoes direct glucuronidation to naloxone-3-glucuronide as well as N-dealkylation, and reduction of the 6- oxo group.
+Naloxone undergoes direct glucuronidation to naloxone-3-glucuronide as well as N-dealkylation, and reduction of the 6-oxo group.
 
 Excretion
 

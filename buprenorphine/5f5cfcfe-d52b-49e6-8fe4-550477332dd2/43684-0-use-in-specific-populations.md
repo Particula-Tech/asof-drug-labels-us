@@ -78,7 +78,7 @@ No definitive drug-related teratogenic effects were observed in rats and rabbits
 Maternal toxicity resulting in mortality was noted in these studies in both rats and rabbits.
 Acephalus was observed in one rabbit fetus from the low-dose group and omphalocele was observed in two rabbit fetuses from the same litter in the mid-dose group; no findings were observed in fetuses from the high-dose group.
 Maternal toxicity was seen in the high-dose group but not at the lower doses where the findings were observed.
-Following oral administration of buprenorphine to rats, dose-related post- implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the human sublingual dose of 16 mg).
+Following oral administration of buprenorphine to rats, dose-related post-implantation losses, evidenced by increases in the numbers of early resorptions with consequent reductions in the numbers of fetuses, were observed at doses of 10 mg/kg/day or greater (estimated exposure approximately 6 times the human sublingual dose of 16 mg).
 In the rabbit, increased post-implantation losses occurred at an oral dose of 40 mg/kg/day.
 Following IM administration in the rat and the rabbit, post-implantation losses, as evidenced by decreases in live fetuses and increases in resorptions, occurred at 30 mg/kg/day.
 
