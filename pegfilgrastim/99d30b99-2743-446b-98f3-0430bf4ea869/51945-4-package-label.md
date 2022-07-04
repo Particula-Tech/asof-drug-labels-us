@@ -12,7 +12,7 @@ NDC 0069-0324-01 Mfd by Hospira, Inc., a Pfizer Company Lake Forest, IL 60045 US
 
 PAA147907
 
-# PRINCIPAL DISPLAY PANEL - 6 mg/0.6 mL Syringe Carton - PAA147908
+# PRINCIPAL DISPLAY PANEL - 6 mg/0.6 mL Syringe Carton - PAA185776
 
 Nyvepria™ (pegfilgrastim-apgf) Injection
 
@@ -28,9 +28,9 @@ NDC 0069-0324-01
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 6 mg/0.6 mL Syringe Carton - PAA154315
+# PRINCIPAL DISPLAY PANEL - 6 mg/0.6 mL Syringe Carton - PAA185777
 
-Pfizer Nyvepria™ (pegfilgrastim-apgf) Injection
+Nyvepria™ (pegfilgrastim-apgf) Injection
 
 6 mg/0.6 mL
 
