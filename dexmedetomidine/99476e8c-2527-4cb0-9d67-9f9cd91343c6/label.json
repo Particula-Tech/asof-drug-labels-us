@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA215390"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "BioXcel Therapeutics, Inc.",
+  "package_ndcs": [
+    "81092-1120-0",
+    "81092-1120-1",
+    "81092-1120-3",
+    "81092-1180-0",
+    "81092-1180-1",
+    "81092-1180-3"
+  ],
+  "products": [
+    {
+      "form": "FILM",
+      "generic": "dexmedetomidine",
+      "name": "IGALMI"
+    }
+  ],
+  "setid": "99476e8c-2527-4cb0-9d67-9f9cd91343c6",
+  "source": "dailymed"
+}
