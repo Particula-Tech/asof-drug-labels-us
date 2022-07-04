@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis & Mutagenesis & Impairment of Fertility
 
 Carcinogenesis Long-term oral carcinogenicity studies of TDF in mice and rats were carried out at exposures up to approximately 16 times (mice) and 5 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
 At the high dose in female mice, liver adenomas were increased at exposures 16 times that in humans.

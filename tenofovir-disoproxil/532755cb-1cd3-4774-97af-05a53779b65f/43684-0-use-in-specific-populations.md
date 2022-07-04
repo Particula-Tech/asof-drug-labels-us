@@ -15,8 +15,6 @@ In the U.S. general population, the estimated background risk of miscarriage in 
 Published studies in HBV-infected subjects do not report an increased risk of adverse pregnancy-related outcomes with the use of tenofovir disoproxyl fumarate during the third trimester of pregnancy (see Data).
 In animal reproduction studies, no adverse developmental effects were observed when TDF was administered at doses/exposures ≥14 (TDF) and 2.7 (tenofovir) times those of the recommended daily dose of tenofovir disoproxil fumarate (see Data).
 
-In animal reproduction studies, no adverse developmental effects were observed when TDF was administered at doses/exposures ≥14 (TDF) and 2.7 (tenofovir) times those of the recommended daily dose of tenofovir disoproxil fumarate (see Data).
-
 Data
 
 Human Data
