@@ -12,7 +12,7 @@ Pharmacokinetics in Adults
 
 Absorption and Bioavailability: After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
 
-The absolute bioavailability of acyclovir after administration of VALTREX is 54.5% ± 9.1% as determined following a 1-gram oral dose of VALTREX and a 350-mg intravenous acyclovir dose to 12 healthy volunteers.
+The absolute bioavailability of acyclovir after administration of VALTREX is 54.5% ± 9.1% as determined following a 1‑gram oral dose of VALTREX and a 350-mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of VALTREX is not altered by administration with food (30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
 
 Acyclovir pharmacokinetic parameter estimates following administration of VALTREX to healthy adult volunteers are presented in Table 3.

@@ -55,7 +55,7 @@ Research Triangle Park, NC 27709
 
 ©2022, GSK group of companies or its licensor.
 
-VTX: 9PI
+VTX: 10PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 

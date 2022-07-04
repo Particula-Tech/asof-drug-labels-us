@@ -60,7 +60,7 @@ Among subjects who received VALTREX, the pretrial median CD4+ cell count was 336
 Outcomes for the overall trial population are shown in Table 9.
 
 Table 9.
-Recurrence Rates in HIV1−Infected Adults at 6 Months
+Recurrence Rates in HIV-1−Infected Adults at 6 Months
 
 | Outcome | VALTREX500 mg Twice Daily(n = 194) | Placebo(n = 99) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
