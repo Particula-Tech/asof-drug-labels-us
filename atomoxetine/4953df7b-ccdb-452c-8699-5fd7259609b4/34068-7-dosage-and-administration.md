@@ -26,11 +26,15 @@ Atomoxetine capsules may be taken with or without food.
 
 Atomoxetine capsules can be discontinued without being tapered.
 
-Atomoxetine capsules are not intended to be opened, they should be taken whole [see Patient Counseling Information (17.6)].
+Atomoxetine capsules are not intended to be opened, they should be taken whole [see Patient Counseling Information (17)].
 
 The safety of single doses over 120 mg and total daily doses above 150 mg have not been systematically evaluated.
 
-## 2.4 Dosing in Specific Populations
+## 2.4 Screen for Bipolar Disorder Prior to Starting Atomoxetine Capsules
+
+Prior to initiating treatment with atomoxetine capsules, screen patients for a personal or family history of bipolar disorder, mania, or hypomania [see Warnings and Precautions (5.6)].
+
+## 2.5 Dosing in Specific Populations
 
 Dosing adjustment for hepatically impaired patients — For those ADHD patients who have hepatic insufficiency (HI), dosage adjustment is recommended as follows: For patients with moderate HI (Child-Pugh Class B), initial and target doses should be reduced to 50% of the normal dose (for patients without HI).
 For patients with severe HI (Child-Pugh Class C), initial dose and target doses should be reduced to 25% of normal [see Use in Specific Populations (8.6)].

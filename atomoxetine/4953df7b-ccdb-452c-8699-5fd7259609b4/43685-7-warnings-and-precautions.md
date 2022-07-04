@@ -30,13 +30,13 @@ Postmarketing reports indicate that atomoxetine hydrochloride can cause severe l
 Although no evidence of liver injury was detected in clinical trials of about 6000 patients, there have been rare cases of clinically significant liver injury that were considered probably or possibly related to atomoxetine hydrochloride use in postmarketing experience.
 Rare cases of liver failure have also been reported, including a case that resulted in a liver transplant.
 Because of probable underreporting, it is impossible to provide an accurate estimate of the true incidence of these reactions.
-Reported cases of liver injury occurred within 120 days of initiation of atomoxetine in the majority of cases and some patients presented with markedly elevated liver enzymes [> 20 X upper limit of normal (ULN)], and jaundice with significantly elevated bilirubin levels (> 2 X ULN), followed by recovery upon atomoxetine discontinuation.
+Reported cases of liver injury occurred within 120 days of initiation of atomoxetine in the majority of cases and some patients presented with markedly elevated liver enzymes [>20 X upper limit of normal (ULN)], and jaundice with significantly elevated bilirubin levels (>2 X ULN), followed by recovery upon atomoxetine discontinuation.
 In one patient, liver injury, manifested by elevated hepatic enzymes up to 40 X ULN and jaundice with bilirubin up to 12 X ULN, recurred upon rechallenge, and was followed by recovery upon drug discontinuation, providing evidence that atomoxetine hydrochloride likely caused the liver injury.
 Such reactions may occur several months after therapy is started, but laboratory abnormalities may continue to worsen for several weeks after drug is stopped.
 The patient described above recovered from his liver injury, and did not require a liver transplant.
 
 Atomoxetine hydrochloride should be discontinued in patients with jaundice or laboratory evidence of liver injury, and should not be restarted.
-Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17.3)].
+Laboratory testing to determine liver enzyme levels should be done upon the first symptom or sign of liver dysfunction (e.g., pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu like” symptoms) [see Warnings and Precautions (5.12); Patient Counseling Information (17)].
 
 ## 5.3 Serious Cardiovascular Events
 
@@ -60,7 +60,7 @@ Atomoxetine hydrochloride should be used with caution in patients whose underlyi
 It should not be used in patients with severe cardiac or vascular disorders whose condition would be expected to deteriorate if they experienced clinically important increases in blood pressure or heart rate [see Contraindications (4.5)].
 Pulse and blood pressure should be measured at baseline, following atomoxetine hydrochloride dose increases, and periodically while on therapy to detect possible clinically important increases.
 
-The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥ 15 mm Hg; systolic blood pressure ≥ 20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
+The following table provides short-term, placebo-controlled clinical trial data for the proportions of patients having an increase in: diastolic blood pressure ≥15 mm Hg; systolic blood pressure ≥20 mm Hg; heart rate greater than or equal to 20 bpm, in both the pediatric and adult populations (see Table 1).
 
 Table 1a
 
@@ -69,9 +69,9 @@ Table 1a
 | Maximumb |  | Endpoint |  | Maximumb |  | Endpoint |  |  |
 | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo | Atomoxetine | Placebo |  |
 | % | % | % | % | % | % | % | % |  |
-| DBP (≥ 15 mm Hg) | 21.5 | 14.1 | 9.3 | 4.8 | 12.6 | 8.7 | 4.8 | 3.5 |
-| SBP (≥ 20 mm Hg) | 12.5 | 8.7 | 4.9 | 3.3 | 12.4 | 7.8 | 4.2 | 3.2 |
-| HR (≥ 20 bpm) | 23.4 | 11.5 | 12.2 | 3.8 | 22.4 | 8.3 | 10.2 | 2.0 |
+| DBP (≥15 mm Hg) | 21.5 | 14.1 | 9.3 | 4.8 | 12.6 | 8.7 | 4.8 | 3.5 |
+| SBP (≥20 mm Hg) | 12.5 | 8.7 | 4.9 | 3.3 | 12.4 | 7.8 | 4.2 | 3.2 |
+| HR (≥20 bpm) | 23.4 | 11.5 | 12.2 | 3.8 | 22.4 | 8.3 | 10.2 | 2.0 |
 | a Abbreviations: bpm = beats per minute; DBP = diastolic blood pressure; HR = heart rate; mm Hg = millimeters mercury; SBP = systolic blood pressure.b Proportion of patients meeting threshold at any one time during clinical trial. |  |  |  |  |  |  |  |  |
 
 In placebo-controlled registration studies involving pediatric patients, tachycardia was identified as an adverse event for 0.3% (5/1597) of these atomoxetine hydrochloride patients compared with 0% (0/934) of placebo patients.
@@ -93,25 +93,21 @@ Atomoxetine hydrochloride should be used with caution in any condition that may 
 
 ## 5.5 Emergence of New Psychotic or Manic Symptoms
 
-Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by atomoxetine at usual doses.
-If such symptoms occur, consideration should be given to a possible causal role of atomoxetine, and discontinuation of treatment should be considered.
-In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.2% (4 patients with reactions out of 1939 exposed to atomoxetine for several weeks at usual doses) of atomoxetine-treated patients compared to 0 out of 1056 placebo-treated patients.
+Psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania can be caused by atomoxetine hydrochloride at usual doses.
+If such symptoms occur, consider discontinuing atomoxetine hydrochloride.
 
 ## 5.6 Screening Patients for Bipolar Disorder
 
-In general, particular care should be taken in treating ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with atomoxetine hydrochloride, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+Patients with bipolar disorder or risk factors for bipolar disorder may be at increased risk of developing mania or mixed episodes during treatment with atomoxetine hydrochloride.
+It may not be possible to determine whether a manic or mixed episode that appears during treatment with atomoxetine hydrochloride is due to an adverse reaction to atomoxetine hydrochloride or a patient’s underlying bipolar disorder.
+Before initiating treatment with atomoxetine hydrochloride, patients should be adequately screened for risk factors for bipolar disorder such as a personal or family history of mania and depression.
 
 ## 5.7 Aggressive Behavior or Hostility
 
-Patients beginning treatment for ADHD should be monitored for the appearance or worsening of aggressive behavior or hostility.
-Aggressive behavior or hostility is often observed in children and adolescents with ADHD.
-In pediatric short-term controlled clinical trials, 21/1308 (1.6%) of atomoxetine patients versus 9/806 (1.1%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.33 [95% C.I.
-0.67 to 2.64 – not statistically significant]).
-In adult placebo-controlled clinical trials, 6/1697 (0.35%) of atomoxetine patients versus 4/1560 (0.26%) of placebo-treated patients spontaneously reported treatment emergent hostility-related adverse events (overall risk ratio of 1.38 [95% C.I.
-0.39 to 4.88 – not statistically significant]).
-Although this is not conclusive evidence that atomoxetine hydrochloride causes aggressive behavior or hostility, these behaviors were more frequently observed in clinical trials among children, adolescents, and adults treated with atomoxetine hydrochloride compared to placebo.
+Patients beginning treatment with atomoxetine hydrochloride should be monitored for the appearance or worsening of aggressive behavior or hostility.
+There is evidence that atomoxetine hydrochloride may cause the emergence or worsening of aggressive behavior or hostility.
+ADHD and other mental illnesses can be associated with irritability, which can make it difficult to determine if the drug or the underlying psychiatric condition is causing the emergence or worsening of aggressive behavior or hostility in specific patients.
+If such symptoms occur during treatment, consider a possible causal role of atomoxetine hydrochloride.
 
 ## 5.8 Allergic Events
 
@@ -139,8 +135,8 @@ After about 12 months, gain in height stabilizes, and at 3 years, patients treat
 Figure 1: Mean Weight and Height Percentiles Over Time for Patients with Three Years of Atomoxetine Hydrochloride Treatment
 
 This growth pattern was generally similar regardless of pubertal status at the time of treatment initiation.
-Patients who were pre-pubertal at the start of treatment (girls ≤ 8 years old, boys ≤ 9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
-Patients who were pubertal (girls > 8 to ≤ 13 years old, boys > 9 to ≤ 14 years old) or late pubertal (girls > 13 years old, boys > 14 years old) had average weight and height gains that were close to or exceeded those predicted after three years of treatment.
+Patients who were pre-pubertal at the start of treatment (girls ≤8 years old, boys ≤9 years old) gained an average of 2.1 kg and 1.2 cm less than predicted after three years.
+Patients who were pubertal (girls >8 to ≤13 years old, boys >9 to ≤14 years old) or late pubertal (girls >13 years old, boys >14 years old) had average weight and height gains that were close to or exceeded those predicted after three years of treatment.
 
 Growth followed a similar pattern in both extensive and poor metabolizers (EMs, PMs).
 PMs treated for at least two years gained an average of 2.4 kg and 1.1 cm less than predicted, while EMs gained an average of 0.2 kg and 0.4 cm less than predicted.
@@ -154,7 +150,7 @@ Growth should be monitored during treatment with atomoxetine hydrochloride.
 
 Routine laboratory tests are not required.
 
-CYP2D6 metabolism — Poor metabolizers (PMs) of CYP2D6 have a 10 fold higher AUC and a 5 fold higher peak concentration to a given dose of atomoxetine hydrochloride compared with extensive metabolizers (EMs).
+CYP2D6 metabolism — Poor metabolizers (PMs) of CYP2D6 have a 10-fold higher AUC and a 5-fold higher peak concentration to a given dose of atomoxetine hydrochloride compared with extensive metabolizers (EMs).
 Approximately 7% of a Caucasian population are PMs.
 Laboratory tests are available to identify CYP2D6 PMs.
 The blood levels in PMs are similar to those attained by taking strong inhibitors of CYP2D6.
@@ -163,4 +159,4 @@ The higher blood levels in PMs lead to a higher rate of some adverse effects of 
 ## 5.13 Concomitant Use of Potent CYP2D6 Inhibitors or Use in Patients who are known to be CYP2D6 PMs
 
 Atomoxetine is primarily metabolized by the CYP2D6 pathway to 4-hydroxyatomoxetine.
-Dosage adjustment of atomoxetine hydrochloride may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.4) and Drug Interactions (7.2)].
+Dosage adjustment of atomoxetine hydrochloride may be necessary when coadministered with potent CYP2D6 inhibitors (e.g., paroxetine, fluoxetine, and quinidine) or when administered to CYP2D6 PMs [see Dosage and Administration (2.5) and Drug Interactions (7.2)].

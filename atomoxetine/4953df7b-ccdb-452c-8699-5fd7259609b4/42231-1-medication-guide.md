@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-ATOMOXETINE (a″ toe mox′ e teen) CAPSULES
+Atomoxetine (a″ toe mox′ e teen) Capsules
 
 Read the Medication Guide that comes with atomoxetine capsules before you or your child starts taking them and each time you get a refill.
 There may be new information.
@@ -228,9 +228,9 @@ What are the ingredients in atomoxetine capsules?
 Active ingredient: atomoxetine hydrochloride
 
 Inactive ingredients: black iron oxide, gelatin, potassium hydroxide, pregelatinized corn starch, propylene glycol, shellac, sodium lauryl sulfate, strong ammonia solution, and titanium dioxide.
-Additionally the 18 mg and 60 mg capsules contain D&C yellow #10; the 25 mg, 40 mg, and 60 mg capsules contain FD&C blue #1; and the 80 mg and 100 mg capsules contain red iron oxide and yellow iron oxide.
+Additionally the 18 mg and 60 mg capsules contain D&C Yellow #10; the 25 mg, 40 mg, and 60 mg capsules contain FD&C Blue #1; and the 80 mg and 100 mg capsules contain red iron oxide and yellow iron oxide.
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA, Inc.
+Brands listed are the trademarks of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -247,4 +247,4 @@ Teva Pharmaceuticals USA, Inc.
 North Wales, PA 19454
 
 Rev.
-F 3/2020
+G 6/2022

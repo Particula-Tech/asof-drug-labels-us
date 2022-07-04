@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Atomoxetine Capsules USP are available as:
+Atomoxetine Capsules, USP are available as:
 
 10 mg – hard gelatin capsules with a white opaque cap and white opaque body, filled with a white to off-white powder with small agglomerates; the body and cap are imprinted with “TEVA” over “7590” and available in bottles of 30 (NDC 0093-3542-56).
 
@@ -21,3 +21,7 @@ Atomoxetine Capsules USP are available as:
 ## 16.2 Storage and Handling
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
+
+KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.

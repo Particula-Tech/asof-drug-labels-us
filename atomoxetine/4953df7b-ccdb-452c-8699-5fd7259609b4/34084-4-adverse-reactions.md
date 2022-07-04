@@ -21,9 +21,9 @@ Commonly observed adverse reactions in acute child and adolescent, placebo-contr
 Results were similar in the BID and the QD trial except as shown in Table 3, which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
 The most commonly observed adverse reactions in patients treated with atomoxetine hydrochloride (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 2 and 3).
 
-Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of pediatric patients experienced potentially clinically important changes in heart rate (≥ 20 beats per min) or blood pressure (≥ 15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
+Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of pediatric patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
-Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine Hydrochloride in Acute (up to 18 Weeks) Child and Adolescent Trials
+Table 2: Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine Hydrochloride in Acute (up to 18 weeks) Child and Adolescent Trials
 
 | Adverse Reactiona | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -63,7 +63,7 @@ Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of 
 | Fatigue | 6 | 4 | 9 | 2 |
 | Psychiatric Disorders |  |  |  |  |
 | Mood swingsc | 2 | 0 | 1 | 1 |
-| a Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort.b Constipation didn’t meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility.c Mood swings didn’t meet the statistical significance on Breslow-Day test at 0.05 level but p-value was < 0.1 (trend). |  |  |  |  |
+| a Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort.b Constipation didn’t meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility.c Mood swings didn’t meet the statistical significance on Breslow-Day test at 0.05 level but p-value was <0.1 (trend). |  |  |  |  |
 
 The following adverse reactions occurred in at least 2% of child and adolescent CYP2D6 PM patients and were statistically significantly more frequent in PM patients compared with CYP2D6 EM patients: insomnia (11% of PMs, 6% of EMs); weight decreased (7% of PMs, 4% of EMs); constipation (7% of PMs, 4% of EMs); depression1 (7% of PMs, 4% of EMs); tremor (5% of PMs, 1% of EMs); excoriation (4% of PMs, 2% of EMs); middle insomnia (3% of PMs, 1% of EMs); conjunctivitis (3% of PMs, 1% of EMs); syncope (3% of PMs, 1% of EMs); early morning awakening (2% of PMs, 1% of EMs); mydriasis (2% of PMs, 1% of EMs); sedation (4% of PMs, 2% of EMs).
 
@@ -81,7 +81,7 @@ In these clinical trials, no poor metabolizers (0/43) reported seizures compared
 Commonly observed adverse reactions in acute adult placebo-controlled trials — Commonly observed adverse reactions associated with the use of atomoxetine hydrochloride (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (atomoxetine hydrochloride incidence greater than placebo) are listed in Table 4.
 The most commonly observed adverse reactions in patients treated with atomoxetine hydrochloride (incidence of 5% or greater and at least twice the incidence in placebo patients) were: constipation, dry mouth, nausea, decreased appetite, dizziness, erectile dysfunction, and urinary hesitation (see Table 4).
 
-Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of adult patients experienced potentially clinically important changes in heart rate (≥ 20 beats per min) or blood pressure (≥ 15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
+Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of adult patients experienced potentially clinically important changes in heart rate (≥ 20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
 Table 4: Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine Hydrochloride in Acute (up to 25 weeks) Adult Trials
 

@@ -67,7 +67,7 @@ The safety, efficacy and pharmacokinetics of atomoxetine hydrochloride in geriat
 
 ## 8.6 Hepatic Insufficiency
 
-Atomoxetine exposure (AUC) is increased, compared with normal subjects, in EM subjects with moderate (Child-Pugh Class B) (2 fold increase) and severe (Child-Pugh Class C) (4 fold increase) hepatic insufficiency.
+Atomoxetine exposure (AUC) is increased, compared with normal subjects, in EM subjects with moderate (Child-Pugh Class B) (2-fold increase) and severe (Child-Pugh Class C) (4-fold increase) hepatic insufficiency.
 Dosage adjustment is recommended for patients with moderate or severe hepatic insufficiency [see Dosage and Administration (2.3)].
 
 ## 8.7 Renal Insufficiency
@@ -94,13 +94,13 @@ There have been postmarketing reports of tics [see Adverse Reactions (6.2)].
 
 Anxiety in patients with ADHD and comorbid Anxiety Disorders — In two postmarketing, double-blind, placebo-controlled trials, it has been demonstrated that treating patients with ADHD and comorbid anxiety disorders with atomoxetine does not worsen their anxiety.
 
-In a 12 week double-blind, placebo-controlled trial, 176 patients, aged 8 to 17, who met DSM-IV criteria for ADHD and at least one of the anxiety disorders of separation anxiety disorder, generalized anxiety disorder or social phobia were randomized.
-Following a 2 week double-blind placebo lead-in, atomoxetine was initiated at 0.8 mg/kg/day with increase to a target dose of 1.2 mg/kg/day (median dose 1.30 mg/kg/day +/- 0.29 mg/kg/day).
+In a 12-week double-blind, placebo-controlled trial, 176 patients, aged 8 to 17, who met DSM-IV criteria for ADHD and at least one of the anxiety disorders of separation anxiety disorder, generalized anxiety disorder or social phobia were randomized.
+Following a 2-week double-blind placebo lead-in, atomoxetine was initiated at 0.8 mg/kg/day with increase to a target dose of 1.2 mg/kg/day (median dose 1.30 mg/kg/day +/- 0.29 mg/kg/day).
 Atomoxetine did not worsen anxiety in these patients as determined by the Pediatric Anxiety Rating Scale (PARS).
 Of the 158 patients who completed the double-blind placebo lead-in, 26 (16%) patients discontinued the study.
 
-In a separate 16 week, double-blind, placebo-controlled trial, 442 patients aged 18 to 65, who met DSM-IV criteria for adult ADHD and social anxiety disorder (23% of whom also had Generalized Anxiety Disorder) were randomized.
-Following a 2 week double-blind placebo lead-in, atomoxetine was initiated at 40 mg/day to a maximum dose of 100 mg/day (mean daily dose 83 mg/day +/- 19.5 mg/day).
+In a separate 16-week, double-blind, placebo-controlled trial, 442 patients aged 18 to 65, who met DSM-IV criteria for adult ADHD and social anxiety disorder (23% of whom also had Generalized Anxiety Disorder) were randomized.
+Following a 2-week double-blind placebo lead-in, atomoxetine was initiated at 40 mg/day to a maximum dose of 100 mg/day (mean daily dose 83 mg/day +/- 19.5 mg/day).
 Atomoxetine did not worsen anxiety in these patients as determined by the Liebowitz Social Anxiety Scale (LSAS).
 Of the 413 patients who completed the double-blind placebo lead-in, 149 (36.1%) patients discontinued the study.
 There have been postmarketing reports of anxiety [see Adverse Reactions (6.2)].

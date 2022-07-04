@@ -11,7 +11,7 @@ The exposure-efficacy relationship was similar to that observed between dose and
 
 Cardiac Electrophysiology — The effect of atomoxetine hydrochloride on QTc prolongation was evaluated in a randomized, double-blinded, positive-(moxifloxacin 400 mg) and placebo-controlled, cross-over study in healthy male CYP2D6 poor metabolizers.
 A total of 120 healthy subjects were administered atomoxetine hydrochloride (20 mg and 60 mg) twice daily for 7 days.
-No large changes in QTc interval (i.e., increases > 60 msec from baseline, absolute QTc > 480 msec) were observed in the study.
+No large changes in QTc interval (i.e., increases >60 msec from baseline, absolute QTc >480 msec) were observed in the study.
 However, small changes in QTc interval cannot be excluded from the current study, because the study failed to demonstrate assay sensitivity.
 There was a slight increase in QTc interval with increased atomoxetine concentration.
 
@@ -21,7 +21,7 @@ Atomoxetine is well-absorbed after oral administration and is minimally affected
 It is eliminated primarily by oxidative metabolism through the cytochrome P450 2D6 (CYP2D6) enzymatic pathway and subsequent glucuronidation.
 Atomoxetine has a half-life of about 5 hours.
 A fraction of the population (about 7% of Caucasians and 2% of African Americans) are poor metabolizers (PMs) of CYP2D6 metabolized drugs.
-These individuals have reduced activity in this pathway resulting in 10 fold higher AUCs, 5 fold higher peak plasma concentrations, and slower elimination (plasma half-life of about 24 hours) of atomoxetine compared with people with normal activity [extensive metabolizers (Ems)].
+These individuals have reduced activity in this pathway resulting in 10-fold higher AUCs, 5-fold higher peak plasma concentrations, and slower elimination (plasma half-life of about 24 hours) of atomoxetine compared with people with normal activity [extensive metabolizers (Ems)].
 Drugs that inhibit CYP2D6, such as fluoxetine, paroxetine, and quinidine, cause similar increases in exposure.
 
 The pharmacokinetics of atomoxetine have been evaluated in more than 400 children and adolescents in selected clinical trials, primarily using population pharmacokinetic studies.
@@ -43,7 +43,7 @@ At therapeutic concentrations, 98% of atomoxetine in plasma is bound to protein,
 
 Metabolism and elimination — Atomoxetine is metabolized primarily through the CYP2D6 enzymatic pathway.
 People with reduced activity in this pathway (PMs) have higher plasma concentrations of atomoxetine compared with people with normal activity (Ems).
-For PMs, AUC of atomoxetine is approximately 10 fold and Css, max is about 5 fold greater than Ems.
+For PMs, AUC of atomoxetine is approximately 10-fold and Css, max is about 5-fold greater than Ems.
 Laboratory tests are available to identify CYP2D6 PMs.
 Coadministration of atomoxetine hydrochloride with potent inhibitors of CYP2D6, such as fluoxetine, paroxetine, or quinidine, results in a substantial increase in atomoxetine plasma exposure, and dosing adjustment may be necessary [see Warnings and Precautions (5.13)].
 Atomoxetine did not inhibit or induce the CYP2D6 pathway.
@@ -55,7 +55,7 @@ N-Desmethylatomoxetine is formed by CYP2C19 and other cytochrome P450 enzymes, b
 
 Mean apparent plasma clearance of atomoxetine after oral administration in adult Ems is 0.35 L/hr/kg and the mean half-life is 5.2 hours.
 Following oral administration of atomoxetine to PMs, mean apparent plasma clearance is 0.03 L/hr/kg and mean half-life is 21.6 hours.
-For PMs, AUC of atomoxetine is approximately 10 fold and Css, max is about 5 fold greater than Ems.
+For PMs, AUC of atomoxetine is approximately 10-fold and Css, max is about 5-fold greater than Ems.
 The elimination half-life of 4-hydroxyatomoxetine is similar to that of N-desmethylatomoxetine (6 to 8 hours) in EM subjects, while the half-life of N-desmethylatomoxetine is much longer in PM subjects (34 to 40 hours).
 
 Atomoxetine is excreted primarily as 4-hydroxyatomoxetine-O-glucuronide, mainly in the urine (greater than 80% of the dose) and to a lesser extent in the feces (less than 17% of the dose).
