@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION:
+# DOSAGE AND ADMINISTRATION
 
 The recommended starting dose of clonidine hydrochloride injection for continuous epidural infusion is 30 mcg/hr.
 Although dosage may be titrated up or down depending on pain relief and occurrence of adverse events, experience with dosage rates above 40 mcg/hr is limited.
@@ -6,7 +6,7 @@ Although dosage may be titrated up or down depending on pain relief and occurren
 Familiarization with the continuous epidural infusion device is essential.
 Patients receiving epidural clonidine from a continuous infusion device should be closely monitored for the first few days to assess their response.
 
-The 500 mcg/mL (0.5mg/mL) strength product must be diluted prior to use in 0.9% Sodium Chloride for Injection, USP, to a final concentration of 100 mcg/mL:
+The 500 mcg/mL (0.5 mg/mL) strength product must be diluted prior to use in 0.9% Sodium Chloride for Injection, USP, to a final concentration of 100 mcg/mL:
 
 | Volume of Clonidine Hydrochloride Injection 500 mcg/mL | Volume of 0.9% Sodium Chloride for Injection, USP | Resulting Final Clonidine Hydrochloride Injection Concentration (100 mcg/mL) |
 | --- | --- | --- |

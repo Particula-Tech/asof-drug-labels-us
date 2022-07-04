@@ -1,4 +1,4 @@
-# WARNINGS:
+# WARNINGS
 
 ## Use in Postoperative or Obstetrical Analgesia
 
@@ -22,7 +22,7 @@ Most episodes of hypotension occurred within the first four days after beginning
 However, hypotensive episodes occurred throughout the duration of the trial.
 There was a tendency for these episodes to occur more commonly in women, and in those with higher serum clonidine levels.
 Patients experiencing hypotension also tended to weigh less than those who did not experience hypotension.
-The hypotension usually responded to intravenous fluids and, if necessary, parenterally-administered pressor agents.
+The hypotension usually responded to intravenous fluids and, if necessary, appropriate parenterally-administered pressor agents.
 
 Published reports on the use of epidural clonidine for intraoperative or postoperative analgesia also show a consistent and marked hypotensive response to clonidine.
 Severe hypotension may occur even if intravenous fluid pretreatment is given.
@@ -51,7 +51,7 @@ If therapy is to be discontinued in patients receiving a beta-blocker and clonid
 Infections related to implantable epidural catheters pose a serious risk.
 Evaluation of fever in a patient receiving epidural clonidine should include the possibility of a catheter-related infection such as meningitis or epidural abscess.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
 ## General
 
@@ -103,7 +103,7 @@ Fertility of female rats did, however, appear to be affected in another experime
 
 ## Usage in Pregnancy/Teratogenic Effects
 
-PREGNANCY CATEGORY C: Reproduction studies in rabbits at clonidine hydrochloride doses up to approximately the MRDHD revealed no evidence of teratogenic or embryotoxic potential.
+Reproduction studies in rabbits at clonidine hydrochloride doses up to approximately the MRDHD revealed no evidence of teratogenic or embryotoxic potential.
 In rats, however, doses as low as one-third the MRDHD were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment with the same or higher doses up to 0.5 times the MRDHD when dams were treated on days 6-15 of gestation.
 Increased resorptions were observed at higher levels (7-times the MRDHD) in rats and mice treated on days 1-14 of gestation.

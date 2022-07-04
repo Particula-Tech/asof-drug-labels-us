@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 ## Mechanism of Action
 
@@ -38,7 +38,7 @@ In subjects undergoing hemodialysis only 5% of body clonidine stores were remove
 
 ## Metabolism
 
-In humans, clonidine metabolism follows minor pathways with the major metabolite, p-hydroxy-clonidine, being present at less than 10% of the concentration of uncharged drug in urine.
+In humans, clonidine metabolism follows minor pathways with the major metabolite, p-hydroxy-clonidine, being present at less than 10% of the concentration of unchanged drug in urine.
 
 ## Special Populations
 
@@ -49,7 +49,7 @@ The pharmacokinetics of epidurally administered clonidine has not been studied i
 In a double-blind, randomized study of cancer patients with severe intractable pain below the C4 dermatome not controlled by morphine, 38 patients were randomized to an epidural infusion of clonidine hydrochloride injection plus epidural morphine, whereas 47 subjects received epidural placebo plus epidural morphine.
 Both groups were allowed rescue doses of epidural morphine.
 Successful analgesia, defined as a decrease in either morphine use or Visual Analog Score (VAS) pain, was significantly more common with epidural clonidine than placebo (45% vs 21%, p=0.016).
-Only the subgroup of 36 patients with “neuropathic” pain, characterized by the investigator was well-localized, burning, shooting, or electric-like pain in a dermatomal or peripheral nerve distribution had significant analgesic effects relative to placebo in this study.
+Only the subgroup of 36 patients with “neuropathic” pain, characterized by the investigator as well-localized, burning, shooting, or electric-like pain in a dermatomal or peripheral nerve distribution had significant analgesic effects relative to placebo in this study.
 
 The most frequent adverse events with clonidine were hypotension (45% vs 11% for placebo, p<0.001), postural hypotension (32% vs 0%, p<0.001), dizziness (13% vs 4%, p=0.234), anxiety (11% vs 2%, p=0.168) and dry mouth (13% vs 9%, p=0.505).
 Both mean blood pressure and heart rate were reduced in the clonidine group.

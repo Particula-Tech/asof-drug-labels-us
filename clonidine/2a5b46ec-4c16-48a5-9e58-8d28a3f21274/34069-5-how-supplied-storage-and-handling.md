@@ -9,8 +9,10 @@ Preservative Free.
 Discard unused portion.
 
 Manufactured by: HIKMA FARMACÊUTICA (PORTUGAL), S.A.
-Estrada do Rio da Mó, nº 8, 8A e 8B – Fervença 2705 – 906 Terrugem SNT PORTUGAL
+Estrada do Rio da Mó, 8, 8A e 8B – Fervença 2705 – 906 Terrugem SNT PORTUGAL
 
-Distributed by: WEST-WARD PHARMACEUTICAL Corp. 465 Industrial Way West Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised: March 2011
+Revised: May 2022
+
+PIN265-WES/2

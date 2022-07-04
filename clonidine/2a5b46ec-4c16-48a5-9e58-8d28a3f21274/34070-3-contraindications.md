@@ -1,4 +1,4 @@
-# CONTRAINDICATIONS:
+# CONTRAINDICATIONS
 
 Clonidine hydrochloride injection is contraindicated in patients with a history of sensitization or allergic reactions to clonidine.
 Epidural administration is contraindicated in the presence of an injection site infection, in patients on anticoagulant therapy, and in those with a bleeding diathesis.

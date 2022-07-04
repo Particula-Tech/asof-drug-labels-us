@@ -1,4 +1,4 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 Adverse reactions seen during continuous epidural clonidine infusion are dose-dependent and typical for a compound of this pharmacologic class.
 The adverse events most frequently reported in the pivotal controlled clinical trial of continuous epidural clonidine administration consisted of hypotension, postural hypotension, decreased heart rate, rebound hypertension, dry mouth, nausea, confusion, dizziness, somnolence, and fever.
@@ -18,7 +18,7 @@ Incidence of Adverse Events in the Two-Week Trial
 
 | Adverse Events | Clonidine N = 38 n (%) | Placebo N = 47 n (%) |
 | --- | --- | --- |
-| Total Number of Patients Who Experienced at Least One Adverse Events | 37 (97.4) | 38 (80.5) |
+| Total Number of Patients Who Experienced at Least One Adverse Event | 37 (97.4) | 38 (80.5) |
 | Hypotension | 17 (44.8) | 5 (10.6) |
 | Postural Hypotension | 12 (31.6) | 0 (0) |
 | Dry Mouth | 5 (13.2) | 4 (8.5) |
@@ -71,4 +71,4 @@ Oro-otolaryngeal: Dryness of the nasal mucosa was rarely reported.
 
 Ophthalmological: Dryness of the eyes, burning of the eyes and blurred vision were rarely reported.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-233-2001, or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-845-0689 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
