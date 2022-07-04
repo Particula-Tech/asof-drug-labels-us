@@ -41,7 +41,7 @@ The NOAEL for maternal toxicity was 5 mg/kg.
 ## 8.2 Lactation
 
 There are no data on the presence of loteprednol etabonate in human milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for EYSUVIS and any potential adverse effects on the breastfed infant from EYSUVIS.
+The developmental and health benefits of breastfeeding should be considered, along with the mother's clinical need for EYSUVIS and any potential adverse effects on the breastfed infant from EYSUVIS.
 
 ## 8.4 Pediatric Use
 

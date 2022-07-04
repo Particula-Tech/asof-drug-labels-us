@@ -34,7 +34,7 @@ Follow Steps 1 to 6 each time you use EYSUVIS.
 4. Turn the EYSUVIS bottle upside down (See Figure D). Figure D
 5. Tilt your head back.
    Hold the bottle directly above your affected eye.
-   Squeeze the middle of the EYSUVIS bottle gently to put 1 to 2 drops (follow your doctor’s instruction) into the affected eye (See Figure E). Figure E
+   Squeeze the middle of the EYSUVIS bottle gently to put 1 to 2 drops (follow your doctor's instruction) into the affected eye (See Figure E). Figure E
 6. Place the pink cap back onto the EYSUVIS bottle and tighten by turning clockwise (See Figure F). Figure F
 
 If you use contact lenses, wait for 15 minutes before placing them back in.
