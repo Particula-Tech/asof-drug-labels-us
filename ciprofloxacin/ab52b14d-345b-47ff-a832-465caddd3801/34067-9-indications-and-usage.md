@@ -1,4 +1,6 @@
-INDICATIONS AND USAGE: Ciprofloxacin ophthalmic solution 0.3% is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below:
+# INDICATIONS AND USAGE
+
+Ciprofloxacin ophthalmic solution is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below:
 
 Corneal Ulcers:
 
