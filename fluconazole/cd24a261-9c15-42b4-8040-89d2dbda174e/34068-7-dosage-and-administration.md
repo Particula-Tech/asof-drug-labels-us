@@ -34,7 +34,7 @@ Patients who are anticipated to have severe granulocytopenia (less than 500 neut
 
 The following dose equivalency scheme should generally provide equivalent exposure in pediatric and adult patients:
 
-| Pediatric Patients | Adult |
+| Pediatric Patients | Adults |
 | --- | --- |
 | 3 mg/kg | 100 mg |
 | 6 mg/kg | 200 mg |

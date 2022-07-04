@@ -37,6 +37,7 @@ Baxter and Intravia are registered trademarks of Baxter International Inc.
 
 Maalox is a registered trademark of Novartis Consumer Health, Inc.
 
-07-19-00-3224
+07-19-00-4648
 
-Revised: Jun 2021
+Rev.
+May 2022
