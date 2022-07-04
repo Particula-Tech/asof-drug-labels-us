@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206481"
+  ],
+  "inn": "tenofovir-disoproxil",
+  "labeler": "Chartwell RX, LLC.",
+  "package_ndcs": [
+    "62135-466-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "tenofovir disoproxil fumarate tablets",
+      "name": "TENOFOVIR DISOPROXIL FUMARATE"
+    }
+  ],
+  "setid": "9cf11bd3-01b9-4ac8-96cc-55d57998b51d",
+  "source": "dailymed"
+}
