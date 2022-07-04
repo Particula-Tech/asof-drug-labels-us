@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/ STORAGE AND HANDLING
 
 Enalapril maleate oral solution is a ready-to-use solution that contains 1 mg/mL of enalapril maleate, USP.
-It is a clear, colorless oral solution with a mixed berry flavor, packaged in a 150 mL, white, round, high-density polyethylene bottle with a white, polypropylene, child‑resistant cap and tamper-evident seal.
+It is a clear, colorless oral solution with a mixed berry flavor, packaged in a 150 mL, white, round, high-density polyethylene bottle with a white, polypropylene, child-resistant cap and placed in a carton with tamper-evident seal.
 Each bottle contains 150 mL.
 
 NDC 69452-237-46
