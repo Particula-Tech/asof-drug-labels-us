@@ -56,7 +56,7 @@ In clinical studies of symptomatic GERD and erosive esophagitis, lansoprazole wa
 It is not known if lansoprazole is safe and effective if used longer than the recommended duration.
 Do not exceed the recommended dose and duration of use in pediatric patients (see Juvenile Animal Toxicity Data).
 
-Lansoprazole delayed-release orally disintegrating tablets was not effective in pediatric patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo-controlled study.
+Lansoprazole delayed-release orally disintegrating tablets was not effective in pediatric patients with symptomatic GERD one month to less than one year of age in a multicenter, double-blind, placebo - controlled study.
 Therefore, safety and effectiveness have not been established in patients less than one year of age.
 Nonclinical studies in juvenile rats have demonstrated an adverse effect of heart valve thickening and bone changes at lansoprazole doses higher than the maximum recommended equivalent human dose.
 

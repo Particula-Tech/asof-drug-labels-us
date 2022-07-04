@@ -238,7 +238,7 @@ In the two trials described and in several smaller studies involving patients wi
 In a US, multicenter, double-blind, active-controlled study, 30 mg of lansoprazole was compared with ranitidine 150 mg twice daily in 151 patients with erosive reflux esophagitis that was poorly responsive to a minimum of 12 weeks of treatment with at least one H2-receptor antagonist given at the dose indicated for symptom relief or greater, namely, cimetidine 800 mg/day, ranitidine 300 mg/day, famotidine 40 mg/day or nizatidine 300 mg/day.
 Lansoprazole 30 mg was more effective than ranitidine 150 mg twice daily in healing reflux esophagitis, and the percentage of patients with healing were as follows.
 This study does not constitute a comparison of the effectiveness of histamine H2-receptor antagonists with lansoprazole, as all patients had demonstrated unresponsiveness to the histamine H2-receptor antagonist mode of treatment.
-It does indicate, however, that lansoprazole may be useful in patients failing on a histamine H2-receptor antagonist (Table 20) [see Indications and Usage (1.8)].
+It does indicate, however, that lansoprazole may be useful in patients failing on a histamine H2-receptor antagonist (Table 20)[see Indications and Usage (1.7)].
 
 Table 20.
 Reflux Esophagitis Healing Rates in Patients Poorly Responsive to Histamine H2-Receptor Antagonist Therapy
