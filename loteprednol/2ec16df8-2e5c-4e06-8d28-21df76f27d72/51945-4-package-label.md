@@ -2,7 +2,7 @@
 
 NDC 71571-121-28 Rx Only
 
-INVELTYS™
+INVELTYS®
 
 (loteprednol etabonate ophthalmic suspension) 1%
 

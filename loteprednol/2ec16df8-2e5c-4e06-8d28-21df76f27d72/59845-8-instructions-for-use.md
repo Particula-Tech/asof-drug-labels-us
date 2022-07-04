@@ -26,16 +26,18 @@ INVELTYS is now ready to use.
 
 Follow Steps 1 to 6 each time you use INVELTYS.
 
-1. Step 1:Wash your hands well.
-2. Step 2:Shake the INVELTYS bottle for 2 to 3 seconds before using (See Figure B). Figure B
-3. Step 3:Remove the pink cap from the top of the INVELTYS dropper by turning it counterclockwise (See Figure C). Keep the pink cap.
-   Do not let the INVELTYS dropper tip touch your eye, fingers, or any other surface.
-   Figure C
-4. Step 4:Turn the INVELTYS bottle upside down (See Figure D). Figure D
-5. Step 5:Tilt your head back.
-   Hold the bottle directly above your affected eye.
-   Squeeze the middle of the INVELTYS bottle gently to put 1 to 2 drops (follow your doctor’s recommendation) into the affected eye (See Figure E). Figure E
-6. Step 6:Place the pink cap back onto the INVELTYS bottle and tighten by turning clockwise (See Figure F). Figure F
+| Step 1. | Wash your hands well. |
+| --- | --- |
+| Step 2. | Shake the INVELTYS bottle for 1 to 2 seconds (See Figure B). |
+|  | Figure B |
+| Step 3: | Remove the pink cap from the top of the INVELTYS dropper by turning it counterclockwise (See Figure C). Keep the pink cap. Do not let the INVELTYS dropper tip touch your eye, fingers, or any other surface. |
+|  | Figure C |
+| Step 4: | Turn the INVELTYS bottle upside down (See Figure D). |
+|  | Figure D |
+| Step 5: | Tilt your head back. Hold the bottle directly above your affected eye. Squeeze the middle of the INVELTYS bottle gently to put 1 to 2 drops (follow your doctor's recommendation) into the affected eye (See Figure E). |
+|  | Figure E |
+| Step 6: | Place the pink cap back onto the INVELTYS bottle and tighten by turning clockwise (See Figure F). |
+|  | Figure F |
 
 If you use contact lenses, wait for 15 minutes before placing them back in.
 
@@ -52,6 +54,6 @@ Manufactured for:
 
 Kala Pharmaceuticals, Inc.
 
-Watertown, MA 02472
+Arlington, MA 02476
 
-Approved: 04/2020
+Approved: 3/2022
