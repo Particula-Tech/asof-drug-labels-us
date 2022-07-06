@@ -1,5 +1,6 @@
-| Instructions for Use RELEUKO (reh-loo-koe) (filgrastim-ayow) Injection Single-Dose Prefilled Syringe |
-| --- |
+# Instructions for Use (PFS)
+
+RELEUKO® (reh-loo-koe) (filgrastim-ayow) Injection Single-Dose Prefilled Syringe
 
 Guide to Parts
 
@@ -185,13 +186,26 @@ Apply an adhesive bandage if needed.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Kashiv BioSciences, LLC Piscataway, NJ 08854 US License No. 2131
+Manufactured by:
 
-Distributed by: Amneal BioSciences, LLC Bridgewater, NJ 08807
+Kashiv BioSciences, LLC
 
-Issued: 02/2022
+Piscataway, NJ 08854
 
-# Instructions for Use RELEUKO (reh-loo-koe) (filgrastim-ayow) Injection
+US License No. 2131
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
+
+Rev.
+04-2022-01
+
+# Instructions for Use (Vials)
+
+RELEUKO® (reh-loo-koe) (filgrastim-ayow) Injection
 
 Single-Dose Vial
 
@@ -368,8 +382,19 @@ Apply an adhesive bandage if needed.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Kashiv BioSciences, LLC Piscataway, NJ 08854 US License No. 2131
+Manufactured by:
 
-Distributed by: Amneal BioSciences, LLC Bridgewater, NJ 08807
+Kashiv BioSciences, LLC
 
-Issued: 02/2022
+Piscataway, NJ 08854
+
+US License No. 2131
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
+
+Rev.
+04-2022-01

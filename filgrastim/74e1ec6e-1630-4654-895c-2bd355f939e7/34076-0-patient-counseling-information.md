@@ -38,9 +38,21 @@ Instruct patients who self-administer RELEUKO using the prefilled syringe or sin
 - Difference in product concentration of the RELEUKO prefilled syringe in comparison to the RELEUKO vial.
   When switching patients from the RELEUKO prefilled syringe to the RELEUKO vial, or vice versa, ensure that patients understand the correct volume to be administered since the concentration of RELEUKO differs between the prefilled syringe and the vial.
 
-RELEUKO™ (filgrastim-ayow)
+RELEUKO® (filgrastim-ayow)
 
-Manufactured by: Kashiv BioSciences, LLC Piscataway, NJ 08854 US License Number 2131
+Manufactured by:
 
-Distributed by: Amneal Biosciences, LLC.
+Kashiv BioSciences, LLC
+
+Piscataway, NJ 08854
+
+US License Number 2131
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
 Bridgewater, NJ 08807
+
+Rev.
+04-2022-01

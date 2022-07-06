@@ -14,13 +14,15 @@ Prefilled Syringes
 
 Single-dose prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe PlusTM Needle Guard, containing 300 mcg/0.5 mL of filgrastim-ayow.
 
+- Carton of one single-dose prefilled syringe (NDC 70121-1568-1)
 - Pack of 10 prefilled syringes (NDC 70121-1568-7).
 
 Single-dose, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe PlusTM Needle Guard, containing 480 mcg/0.8 mL of filgrastim-ayow.
 
+- Carton of one single-dose prefilled syringe (NDC 70121-1570-1)
 - Pack of 10 prefilled syringes (NDC 70121-1570-7).
 
-Store RELEUKO at 2°C to 8°C (36°F to 46°F) in the pack to protect from light.
+Store RELEUKO refrigerated at 2°C to 8°C (36°F to 46°F) in the original pack to protect from light.
 Do not leave RELEUKO in direct sunlight.
 DO NOT freeze RELEUKO.
 Avoid shaking.

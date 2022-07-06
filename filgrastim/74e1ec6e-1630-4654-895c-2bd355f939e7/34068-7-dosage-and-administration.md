@@ -22,7 +22,7 @@ Monitor CBCs and platelet counts frequently following marrow transplantation.
 During the period of neutrophil recovery‚ titrate the daily dosage of RELEUKO against the neutrophil response (see Table 1).
 
 Table 1.
-Recommended Dosage Adjustments during Neutrophil Recovery in Patients with Cancer Following BMT
+Recommended Dosage Adjustments During Neutrophil Recovery in Patients with Cancer Following BMT
 
 | Absolute Neutrophil Count | RELEUKO Dosage Adjustment |
 | --- | --- |
@@ -59,7 +59,9 @@ Do not administer RELEUKO if particulates or discoloration are observed.
 Discard unused portion of RELEUKO in vials or prefilled syringes; do not re-enter the vial.
 Do not save unused drug for later administration.
 
-Subcutaneous Injection Inject RELEUKO subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
+Subcutaneous Injection
+
+Inject RELEUKO subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
 If patients or caregivers are to administer RELEUKO, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for the vial or prefilled syringe [see Patient Counseling Information (17)].
 
 Patient self-administration and administration by a caregiver may benefit from training by a healthcare professional.
@@ -69,15 +71,20 @@ If a patient or caregiver experiences difficulty measuring the required dose, es
 
 If the patient or caregiver misses a dose of RELEUKO, instruct them to contact their healthcare provider.
 
-Administration Instructions for the Prefilled Syringe The RELUEKO prefilled syringe with BD UltraSafe Plus™ Passive Needle Guard is not designed to allow for direct administration of doses of less than 0.3 mL (180 mcg).
+Administration Instructions for the Prefilled Syringe
+
+The RELUEKO prefilled syringe with BD UltraSafe Plus™ Passive Needle Guard is not designed to allow for direct administration of doses of less than 0.3 mL (180 mcg).
 The spring-mechanism of the needle guard apparatus affixed to the prefilled syringe interferes with the visibility of the graduation markings on the syringe barrel corresponding to 0.1 mL and 0.2 mL.
 The visibility of these markings is necessary to accurately measure doses of RELEUKO less than 0.3 mL (180 mcg) for direct administration.
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
-For direct administration of doses less than 0.3 mL (180 mcg) use RELUEKO single-dose vial.
+For direct administration of doses less than 0.3 mL (180 mcg) use of RELUEKO single-dose vial is recommended.
 
-Administration Instructions for Dilution (Vial Only) If required for intravenous administration‚ RELEUKO (vial only) may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
+Administration Instructions for Dilution (Vial Only)
+
+If required for intravenous administration‚ RELEUKO (vial only) may be diluted in 5% Dextrose Injection, USP from a concentration of 300 mcg/mL to 5 mcg/mL (do not dilute to a final concentration less than 5 mcg/mL).
 RELEUKO diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.
 When diluted in 5% Dextrose Injection, USP or 5% Dextrose plus Albumin (Human)‚ RELEUKO is compatible with glass bottles‚ polyvinyl chloride (PVC) and polyolefin intravenous bags‚ and polypropylene syringes.
 Do not dilute with saline at any time because the product may precipitate.
 
 Diluted RELEUKO solution can be stored at room temperature for up to 4 hours.
+This 4-hour time period includes the time during room temperature storage of the infusion solution and the duration of the infusion.
