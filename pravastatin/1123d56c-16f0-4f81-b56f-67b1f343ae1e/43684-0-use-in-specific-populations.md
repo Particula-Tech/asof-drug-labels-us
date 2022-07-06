@@ -4,82 +4,80 @@
 
 Risk Summary
 
-Pravastatin sodium is contraindicated for use in pregnant woman because of the potential for fetal harm.
-As safety in pregnant women has not been established and there is no apparent benefit to therapy with pravastatin sodium during pregnancy, pravastatin should be immediately discontinued as soon as pregnancy is recognized [see Contraindications (4.3)].
-Limited published data on the use of pravastatin in pregnant women are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
-In animal reproduction studies, no evidence of fetal malformations was seen in rabbits or rats exposed to 10 times to 120 times, respectively, the maximum recommended human dose (MRHD) of 80 mg/day.
-Fetal skeletal abnormalities, offspring mortality, and developmental delays occurred when pregnant rats were administered 10 times to 12 times the MRHD during organogenesis to parturition [see Data].
-Advise pregnant women of the potential risk to a fetus.
+Discontinue pravastatin sodium when pregnancy is recognized.
+Alternatively, consider the ongoing therapeutic needs of the individual patient. pravastatin sodium decreases synthesis of cholesterol and possibly other biologically active substances derived from cholesterol; therefore, pravastatin sodium may cause fetal harm when administered to pregnant patients based on the mechanism of action [see Clinical Pharmacology (12.1)].
+In addition, treatment of hyperlipidemia is not generally necessary during pregnancy.
+Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hyperlipidemia for most patients.
+Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations.
+Published data from prospective and retrospective observational cohort studies with pravastatin sodium use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage (see Data).
+In animal reproduction studies, no evidence of fetal malformations was seen in pregnant rats or rabbits orally administered pravastatin during the period of organogenesis at doses that resulted in 10 times and 120 times, respectively, the human exposure at the maximum recommended human dose (MRHD) of 80 mg/day, based on body surface area (mg/m2).
+An imbalance in some fetal skeletal variations, increased offspring mortality, and developmental delays occurred when pregnant rats were exposed to 10 times to 12 times the MRHD during organogenesis to parturition (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4 % and 15-20%, respectively.
 
 Data
 
 Human Data:
 
-Limited published data on pravastatin have not shown an increased risk of major congenital malformations or miscarriage.
-
-Rare reports of congenital anomalies have been received following intrauterine exposure to other statins.
-In a review2of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed what would be expected in the general population.
-The number of cases is adequate to exclude a ≥3 to 4-fold increase in congenital anomalies over the background incidence.
-In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
+A Medicaid cohort linkage study of 1152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential cofounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score based methods.
+The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus.
+There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for cofounders.
+In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
+Study limitations include reliance on physician coding to define the presence of a malformation, lack of control for certain confounders such as body mass index, use of prescription dispensing as verification for the use of a statin, and lack of information on non-live births.
 
 Animal Data:
 
-Embryofetal and neonatal mortality was observed in rats given pravastatin during the period of organogenesis or during organogenesis continuing through weaning.
+Embryo fetal and neonatal mortality was observed in rats given pravastatin during the period of organogenesis or during organogenesis continuing through weaning.
 In pregnant rats given oral gavage doses of 4, 20, 100, 500, and 1000 mg/kg/day from gestation days 7 through 17 (organogenesis) increased mortality of offspring and increased cervical rib skeletal anomalies were observed at ≥100 mg/kg/day systemic exposure, 10 times the human exposure at 80 mg/day MRHD based on body surface area (mg/m2).
 
 In other studies, no teratogenic effects were observed when pravastatin was dosed orally during organogenesis in rabbits (gestation days 6 through 18) up to 50 mg/kg/day or in rats (gestation days 7 through 17) up to 1000 mg/kg/day.
 Exposures were 10 times (rabbit) or 120 times (rat) the human exposure at 80 mg/day MRHD based on body surface area (mg/m2).
 
-In pregnant rats given oral gavage doses of 10, 100, and 1000 mg/kg/day from gestation day 17 through lactation day 21 (weaning), increased mortality of offspring and developmental delays were observed at ≥100 mg/kg/day systemic exposure, corresponding to 12 times the human exposure at 80 mg/day MRHD, based on body surface area (mg/m2).
+In pregnant rats given oral gavage doses of 10, 100, and 1000 mg/kg/day from gestation day 17 through lactation day 21 (weaning), developmental delays were observed at ≥100 mg/kg/day systemic exposure, corresponding to 12 times the human exposure at 80 mg/day MRHD, based on body surface area (mg/m2).
 
 In pregnant rats, pravastatin crosses the placenta and is found in fetal tissue at 30% of the maternal plasma levels following administration of a single dose of 20 mg/day orally on gestation day 18, which corresponds to exposure 2 times the MRHD of 80 mg daily based on body surface area (mg/m2).
-In lactating rats, up to 7 times higher levels of pravastatin are present in the breast milk than in the maternal plasma, which corresponds to exposure 2 times the MRHD of 80 mg/day based on body surface area (mg/m2).
 
 ## 8.2 Lactation
 
 Risk Summary
 
-Pravastatin use is contraindicated during breastfeeding [see Contraindications (4.4)].
 Based on one lactation study in published literature, pravastatin is present in human milk.
 There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-Because of the potential for serious adverse reactions in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with pravastatin sodium.
+Statins, including pravastatin sodium, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
 
-## 8.3 Females and Males of Reproductive Potential
-
-Contraception
-
-Females:
-
-Pravastatin may cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with pravastatin.
+Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with pravastatin sodium [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of pravastatin sodium in children and adolescents from 8 to 18 years of age have been evaluated in a placebo-controlled study of 2 years duration.
-Patients treated with pravastatin had an adverse experience profile generally similar to that of patients treated with placebo with influenza and headache commonly reported in both treatment groups.
-[See Adverse Reactions (6.4).]
-Doses greater than 40 mg have not been studied in this population.
-Children and adolescent females of childbearing potential should be counseled on appropriate contraceptive methods while on pravastatin therapy [see Contraindications (4.3) and Use in Specific Populations (8.1)].
-For dosing information [see Dosage and Administration (2.4)].
+The safety and effectiveness of pravastatin sodium as an adjunct to diet to reduce LDL-C have been established in pediatric patients 8 years of age and older with HeFH.
+Use of pravastatin sodium for this indication is based on a double-blind, placebo-controlled clinical study in 214 pediatric patients (100 males and 114 females) 8 years of age and older with HeFH.
+Doses greater than 40 mg daily have not been studied in this population.
 
-Double-blind, placebo-controlled pravastatin studies in children less than 8 years of age have not been conducted.
+The safety and effectiveness of pravastatin sodium have not been established in pediatric patients younger than 10 years of age with HeFH or in pediatric patients with other types of hyperlipidemia (other than HeFH).
 
 ## 8.5 Geriatric Use
 
-Two secondary prevention trials with pravastatin (CARE and LIPID) included a total of 6593 subjects treated with pravastatin 40 mg for periods ranging up to 6 years.
-Across these 2 studies, 36.1% of pravastatin subjects were aged 65 and older and 0.8% were aged 75 and older.
-The beneficial effect of pravastatin in elderly subjects in reducing cardiovascular events and in modifying lipid profiles was similar to that seen in younger subjects.
-The adverse event profile in the elderly was similar to that in the overall population.
-Other reported clinical experience has not identified differences in responses to pravastatin between elderly and younger patients.
+In clinical studies, 4,797 (36.4%) pravastatin sodium-treated patients were aged 65 and older and 110 (0.8%) were aged 75 and older.
+No significant differences in efficacy or safety were observed between geriatric patients and younger patients.
 
-Mean pravastatin AUCs are slightly (25% to 50%) higher in elderly subjects than in healthy young subjects, but mean maximum plasma concentration (Cmax), time to maximum plasma concentration (Tmax), and half-life (t½) values are similar in both age groups and substantial accumulation of pravastatin would not be expected in the elderly [see Clinical Pharmacology (12.3)].
+Mean pravastatin AUC's are 25%-50% higher in elderly subjects than in healthy young subjects, but mean maximum plasma concentration (Cmax), time to maximum plasma concentration (Tmax), and half-life (t½) values are similar in both age groups and substantial accumulation of pravastatin would not be expected in the elderly [see Clinical Pharmacology (12.3)].
 
-Since advanced age (≥65 years) is a predisposing factor for myopathy, pravastatin sodium should be prescribed with caution in the elderly [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Advanced age (≥ 65 years) is a risk factor for pravastatin sodium-associated myopathy and rhabdomyolysis.
+Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
+Monitor geriatric patients receiving pravastatin sodium for the increased risk of myopathy [see Warnings and Precautions (5.1)].
 
-## 8.6 Homozygous Familial Hypercholesterolemia
+## 8.6 Renal Impairment
 
-Pravastatin has not been evaluated in patients with rare homozygous familial hypercholesterolemia.
-In this group of patients, it has been reported that statins are less effective because the patients lack functional LDL receptors.
+Renal impairment is a risk factor for myopathy and rhabdomyolysis.
+Monitor all patients with renal impairment for development of myopathy.
+
+In patients with severe renal impairment, the recommended starting dose is pravastatin sodium 10 mg once daily.
+The maximum recommended dosage in patients with severe renal impairment is pravastatin sodium 40 mg once daily.
+The recommended dosage for patients with mild or moderate renal impairment is the same as patients with normal renal function.
+[see Dosage and Administration (2.4), Warnings and Precautions (5.1), Clinical Pharmacology (12.3)].
+
+## 8.7 Hepatic Impairment
+
+Pravastatin sodium shows a large inter-subject variability in pharmacokinetics in patients with liver cirrhosis [Clinical Pharmacology (12.3)].
+Pravastatin sodium is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4), Warnings and Precautions (5.3)].

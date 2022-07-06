@@ -1,32 +1,40 @@
 # 7 DRUG INTERACTIONS
 
-For the concurrent therapy of either cyclosporine, fibrates, niacin (nicotinic acid), or erythromycin, the risk of myopathy increases [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+## 7.1 Drug Interactions that Increases the Risk of Myopathy and Rhabdomyolysis with pravastatin sodium
 
-## 7.1 Cyclosporine
+Pravastatin sodium is a substrate of the transport protein OATP1B1.
+Pravastatin sodium plasma levels can be significantly increased with concomitant administration of inhibitors of OATP1B1.
+Table 3 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with pravastatin sodium and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-The risk of myopathy/rhabdomyolysis is increased with concomitant administration of cyclosporine.
-Limit pravastatin to 20 mg once daily for concomitant use with cyclosporine [see Dosage and Administration (2.6), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+Table 3: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Pravastatin Sodium Tablets
 
-## 7.2 Clarithromycin and Other Macrolide Antibiotics
+| Gemfibrozil |  |
+| --- | --- |
+| Clinical Impact: | There is an increased risk of myopathy/rhabdomyolysis when pravastatin sodium is administered with gemfibrozil |
+| Intervention: | Avoid concomitant use of gemfibrozil with pravastatin sodium |
+| Cyclosporine |  |
+| Clinical Impact: | The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine with pravastatin sodium. |
+| Intervention: | Initiate with a dosage of pravastatin sodium 10 mg once daily. Do not exceed pravastatin sodium 20 mg once daily [see Dosage and Administration (2.5)]. |
+| Select Macrolide Antibiotics |  |
+| Clinical Impact: | The risk of myopathy and rhabdomyolysis is increased by concomitant use of clarithromycin or erythromycin with pravastatin sodium. Other macrolides (e.g., azithromycin) have the potential to increase pravastatin sodium exposures and increase the risk of myopathy and rhabdomyolysis when used concomintantly. |
+| Intervention: | For patients taking erythromycin or clarithromycin, do not exceed 40 mg pravastatin sodium once daily[see Dosage and Administration (2.5)]. |
+| Niacin |  |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of niacin with pravastatin sodium. |
+| Intervention: | Consider if the benefit of using niacin concomitantly with pravastatin sodium outweigh the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |
+| Fibrates (other than Gemfibrozil) |  |
+| Clinical Impact: | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with pravastatin sodium. |
+| Intervention: | Consider if the benefit of using fibrates concomitantly with pravastatin sodium outweigh the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |
+| Colchicine |  |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with pravastatin sodium. |
+| Intervention: | Consider if the benefit of using colchicine concomitantly with pravastatin sodium outweigh the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug |
 
-The risk of myopathy/rhabdomyolysis is increased with concomitant administration of clarithromycin.
-Limit pravastatin to 40 mg once daily for concomitant use with clarithromycin [see Dosage and Administration (2.7), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
+## 7.2 Drug Interactions that Decrease the Efficacy of pravastatin sodium
 
-Other macrolides (e.g., erythromycin and azithromycin) have the potential to increase statin exposures while used in combination.
-Pravastatin should be used cautiously with macrolide antibiotics due to a potential increased risk of myopathies.
+Table 4 presents drug interactions that may decrease the efficacy of pravastatin sodium and instructions for preventing or managing them.
 
-## 7.3 Colchicine
+Table 4: Drug Interactions that Decrease the Efficacy of Pravastatin Sodium
 
-The risk of myopathy/rhabdomyolysis is increased with concomitant administration of colchicine [see Warnings and Precautions (5.1)].
-
-## 7.4 Gemfibrozil
-
-Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of pravastatin sodium with gemfibrozil should be avoided [see Warnings and Precautions (5.1)].
-
-## 7.5 Other Fibrates
-
-Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, pravastatin sodium should be administered with caution when used concomitantly with other fibrates [see Warnings and Precautions (5.1)].
-
-## 7.6 Niacin
-
-The risk of skeletal muscle effects may be enhanced when pravastatin is used in combination with niacin; a reduction in pravastatin sodium dosage should be considered in this setting [see Warnings and Precautions (5.1)].
+| Bile Acid Sequestrants |  |
+| --- | --- |
+| Clinical Impact: | Concomitant cholestyramine or colestipol administration decreased the mean exposure of pravastatin approximately 51% and 47%, respectively [see Clinical Pharmacology (12.3)]. |
+| Intervention: | In patients taking a bile acid sequestrant, administer pravastatin sodium tablets at least 1 hour before or at least 4 hours after the bile acid sequestrant [see Dosage and Administration (2.5)]. |

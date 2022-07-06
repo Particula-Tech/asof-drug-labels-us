@@ -1,21 +1,29 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Muscle Pain
+Myopathy and Rhabdomyolysis
 
-Patients should be advised to report promptly unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing pravastatin sodium [see Warnings and Precautions (5.1)].
+Advise patients that Pravastatin sodium may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
 
-Liver Enzymes
+Hepatic Dysfunction
 
-It is recommended that liver enzyme tests be performed before the initiation of pravastatin sodium, and thereafter when clinically indicated.
-All patients treated with pravastatin sodium should be advised to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice [see Warnings and Precautions (5.3)].
+Inform patients that Pravastatin sodium may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
 
-Embryofetal Toxicity
+Increases in HbA1c and Fasting Serum Glucose Levels
 
-Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment, and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4.3), Use in Specific Populations (8.1, 8.3)].
+Inform patients that increases in HbA1c and fasting serum glucose levels may occur with Pravastatin sodium.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.4)].
+
+Pregnancy
+
+Advise pregnant patients and patients who may become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if Pravastatin sodium should be discontinued [see Use in Specific Populations (8.2)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with pravastatin sodium [see Contraindications (4.4), Use in Specific Populations (8.2)].
+Advise patients that are breastfeeding is not recommended during treatment with Pravastatin sodium [Use in Specific Populations (8.2)].
 
 Manufactured for:
 
@@ -31,4 +39,4 @@ Lupin Limited
 
 Goa 403 722 INDIA
 
-Revised: November 2020 ID#: 266679
+Revised: July 2022 ID#: 271026
