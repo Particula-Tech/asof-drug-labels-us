@@ -155,7 +155,7 @@ If ibrutinib and fluconazole are concomitantly administered, reduce the dose of 
 
 ### Ivacaftor and fixed dose ivacaftor combinations (e.g., tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor)
 
-Coadministration with ivacaftor, a cystic fibrosis transmembrane conductance regulator (CFTR) potentiator, increased ivacaftor exposure by 3 fold.
+Coadministration with ivacaftor, a cystic fibrosis transmembrane conductance regulator (CFTR) potentiator, increased ivacaftor exposure by 3-fold.
 If used concomitantly with a moderate inhibitor of CYP3A4, such as fluconazole, a reduction in the dose of ivacaftor (or ivacaftor combination) is recommended as instructed in the ivacaftor (or ivacaftor combination) prescribing information.
 
 ### Lemborexant
