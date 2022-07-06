@@ -63,15 +63,15 @@ Table 6:Mean Changes in Lipid Levels in Adult Patients with Primary Hyperlipidem
 
 | TREATMENT | N | TOTAL-C | LDL-C | HDL-C | TG* |
 | --- | --- | --- | --- | --- | --- |
-| Lower Dose Comparative Study † (Mean % Change at Week 6) |  |  |  |  |  |
+| Lower Dose Comparative Study† (Mean % Change at Week 6) |  |  |  |  |  |
 | Simvastatin 5 mg at night. | 109 | -19% | -26% | +10 | -12% |
 | Simvastatin 10 mg at night. | 110 | -23% | -30% | +12 | -15% |
-| Scandinavian Simvastatin Survival Study ‡ (Mean % Change at Week 6) |  |  |  |  |  |
+| Scandinavian Simvastatin Survival Study‡ (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 2223 | -1% | -1% | 0 | -2% |
 | Simvastatin 20 mg at night. | 2221 | -28% | -38% | +8 | -19% |
-| Upper Dose Comparative Study § (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
+| Upper Dose Comparative Study§ (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
 | Simvastatin 40 mg at night. | 433 | -31% | -41% | +9 | -18% |
-| Simvastatin 80 mg at night. ¶ | 664 | -36% | -47% | +8 | -24% |
+| Simvastatin 80 mg at night.¶ | 664 | -36% | -47% | +8 | -24% |
 | Combined Hyperlipidemia Study# (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo | 125 | 1% | 2% | +3 | -4% |
 | Simvastatin 40 mg at night. | 123 | -25% | -29% | +13 | -28% |

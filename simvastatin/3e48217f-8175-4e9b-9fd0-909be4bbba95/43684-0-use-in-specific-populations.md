@@ -68,7 +68,7 @@ The safety and effectiveness of simvastatin have not been established in pediatr
 
 Of the total number of simvastatin-treated patients in clinical studies 1,021 (23%) patients, 5,366 (52%) patients, and 363 (15%) patients were ≥65 years old, respectively.
 In Study HPS, 615 (6%) patients were ≥75 years old [see CLINICAL STUDIES (14)].
-In a clinical study of patients treated with simvastatin 80 mg daily, patients ≥65 years of age had an increased risk of myopathy, including rhabdomyolysis, compared to patients
+In a clinical study of patients treated with simvastatin 80 mg daily, patients ≥65 years of age had an increased risk of myopathy, including rhabdomyolysis, compared to patients <65 years of age.
 
 A pharmacokinetic study with simvastatin use showed the mean plasma level of total inhibitors to be approximately 45% higher in geriatric patients between 70-78 years of age compared with patients between 18-30 years of age [see CLINICAL PHARMACOLOGY (12.3)].
 
@@ -82,12 +82,12 @@ Use another simvastatin product to initiate dosing in such patients.
 
 ## 8.7 Hepatic Impairment
 
-Simvastatin is contraindicated in patients with active liver failure or decompensated cirrhosis [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.3)].
+Simvastatin is contraindicated in patients with acute liver failure or decompensated cirrhosis [see CONTRAINDICATIONS (4), WARNINGS AND PRECAUTIONS (5.3)].
 
 ## 8.8 Chinese Patients
 
-In a clinical trial in which patients at high risk of cardiovascular disease were treated with simvastatin 40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for non-Chinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
+In a clinical study in which patients at high risk of CVD were treated with simvastatin 40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for non-Chinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
 In this study, the incidence of myopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe/simvastatin 10/40 mg/day coadministered with extended-release niacin 2 g/day was 1.24%.
 
-Chinese patients may be at higher risk for myopathy, monitor patients appropriately.
-Coadministration of simvastatin with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products is not recommended in Chinese patients [see WARNINGS AND PRECAUTIONS (5.1), DRUG INTERACTIONS (7.1)].
+Chinese patients may be at higher risk for myopathy, monitor these patients appropriately.
+Coadministration of simvastatin with lipid-modifying doses of niacin-containing products (≥1 g/day niacin) is not recommended in Chinese patients [see WARNINGS AND PRECAUTIONS (5.1), DRUG INTERACTIONS (7.1)].

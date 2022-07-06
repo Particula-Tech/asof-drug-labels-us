@@ -3,8 +3,8 @@
 ## 2.1 Important Dosage and Administration Information
 
 - Take simvastatin tablets USP orally once daily in the evening.
-- The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION (2.2, 2.3)].
-  The simvastatin tablets USP 80 mg daily dosage is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS (5.1)].
+- The maximum recommended dosage is simvastatin tablets USP 40 mg once daily [see DOSAGE AND ADMINISTRATION(2.2, 2.3)].
+  The simvastatin tablets USP 80 mg daily dosage is restricted to patients who have been taking simvastatin tablets USP 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see WARNINGS AND PRECAUTIONS(5.1)].
 - For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving simvastatin tablets USP 40 mg daily, prescribe alternative LDL-C-lowering treatment.
 - Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating simvastatin tablets USP, and adjust the dosage if necessary.
 
@@ -12,7 +12,7 @@
 
 The recommended dosage range of simvastatin tablets USP is 20 mg to 40 mg once daily
 
-## 2.3 Recommend Dosage in Pediatric Patients 10 Years of Age and Older with HeFH
+## 2.3 Recommended Dosage in Pediatric Patients 10 Years of Age and Older with HeFH
 
 The recommended dosage range of simvastatin tablets USP is 10 mg to 40 mg daily.
 
