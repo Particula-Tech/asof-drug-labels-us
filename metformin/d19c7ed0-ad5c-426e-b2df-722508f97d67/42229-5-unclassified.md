@@ -4,6 +4,6 @@ For patent information: www.merck.com/product/patent/home.html
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2007-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2007-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0431a-t-2112r022
+uspi-mk0431a-t-2206r023

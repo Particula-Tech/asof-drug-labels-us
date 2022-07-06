@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to JANUMET during pregnancy.
-Health care providers are encouraged to report any prenatal exposure to JANUMET by calling the Pregnancy Registry at 1-800-986-8999.
-
 Risk Summary
 
 The limited available data with JANUMET in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
