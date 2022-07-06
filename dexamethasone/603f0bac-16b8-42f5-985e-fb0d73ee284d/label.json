@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA013422"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0925-25"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "dexamethasone",
+      "name": "Maxidex"
+    }
+  ],
+  "setid": "603f0bac-16b8-42f5-985e-fb0d73ee284d",
+  "source": "dailymed"
+}
