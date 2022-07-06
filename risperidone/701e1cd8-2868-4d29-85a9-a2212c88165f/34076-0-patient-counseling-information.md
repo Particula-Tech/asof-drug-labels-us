@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients using RISPERDAL oral solution to read the FDA-approved patient labeling (Instructions for Use) for RISPERDAL oral solution.
+Advise patients using the Oral Solution to read the FDA-approved patient labeling (Instructions for Use).
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone.
 
