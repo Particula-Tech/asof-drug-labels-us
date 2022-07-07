@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to sitagliptin during pregnancy.
-Health care providers are encouraged to report any prenatal exposure to STEGLUJAN by calling the Pregnancy Registry at 1-800-986-8999.
-
 Risk Summary
 
 Based on animal data showing adverse renal effects, from ertugliflozin, STEGLUJAN is not recommended during the second and third trimesters of pregnancy.

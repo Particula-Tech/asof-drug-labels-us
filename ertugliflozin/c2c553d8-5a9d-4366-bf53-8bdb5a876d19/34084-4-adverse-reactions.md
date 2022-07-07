@@ -156,17 +156,14 @@ The clinical significance of this added increase in serum creatinine relative to
 
 ## 6.2 Postmarketing Experience
 
-Sitagliptin
-
-Additional adverse reactions have been identified during postapproval use of sitagliptin, a component of STEGLUJAN, as monotherapy and/or in combination with other antihyperglycemic agents.
-Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-
-Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome [see Warnings and Precautions (5.11)]; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1) and Warnings and Precautions (5.1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) [see Warnings and Precautions (5.4)]; severe and disabling arthralgia [see Warnings and Precautions (5.12)]; bullous pemphigoid [see Warnings and Precautions (5.13)]; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis; rhabdomyolysis.
-
-Ertugliflozin
-
 Additional adverse reactions have been identified during postapproval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Sitagliptin
+
+Hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome; hepatic enzyme elevations; acute pancreatitis, including fatal and non-fatal hemorrhagic and necrotizing pancreatitis [see Indications and Usage (1)]; worsening renal function, including acute renal failure (sometimes requiring dialysis) and tubulointerstitial nephritis; severe and disabling arthralgia; bullous pemphigoid; constipation; vomiting; headache; myalgia; pain in extremity; back pain; pruritus; mouth ulceration; stomatitis; rhabdomyolysis.
+
+Ertugliflozin
 
 - Necrotizing fasciitis of the perineum (Fournier's Gangrene)
 - Angioedema
