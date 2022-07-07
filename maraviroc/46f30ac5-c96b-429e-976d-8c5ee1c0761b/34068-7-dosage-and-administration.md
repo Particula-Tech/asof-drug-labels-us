@@ -54,13 +54,13 @@ The recommended oral dosage of SELZENTRY oral solution in pediatric patients wei
 Table 3.
 Recommended Dosage in Pediatric Patients Weighing at Least 2 kg (Oral Solution)
 
-| Concomitant Medications | Dosage (Volume of Solution) of SELZENTRY Based on Weight |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 kg to <4 kg | 4 kg to <6 kg | 6 kg to<10 kg | 10 kg to<14 kg | 14 kg to <20 kg | 20 kg to <30 kg | 30 kg to <40 kg | ≥40 kg |  |  |  |  |  |  |  |
-| Potent CYP3A inhibitors (with or without a CYP3A inducer)a | Not recommendedb |  |  | 50 mg (2.5 mL) twice daily | 50 mg (2.5 mL) twice daily | 80 mg (4 mL) twice daily | 100 mg (5 mL) twice daily | 150 mg (7.5 mL) twice daily |  |  |  |  |  |  |
-| Noninteracting concomitant medicationsc | 30 mg (1.5 mL) twice daily | 40 mg (2 mL) twice daily | 100 mg (5 mL) twice daily | 150 mg (7.5 mL) twice daily | 200 mg (10 mL) twice daily | 200 mg (10 mL) twice daily | 300 mg (15 mL) twice daily | 300 mg (15 mL) twice daily |  |  |  |  |  |  |
-| Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor)d | Not recommendedb |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Potent CYP3A inhibitors (with or without a CYP3A inducer) including: clarithromycin, cobicistat, elvitegravir/ritonavir, itraconazole, ketoconazole, nefazodone, protease inhibitors (except tipranavir/ritonavir), telithromycin. b Insufficient data are available to recommend use. c Noninteracting concomitant medications including all medications that are not potent CYP3A inhibitors or inducers such as: dolutegravir, enfuvirtide, nevirapine, all NRTIs, raltegravir, and tipranavir/ritonavir. d Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor) including: carbamazepine, efavirenz, etravirine, phenobarbital, phenytoin, and rifampin. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Concomitant Medications | Dosage (Volume of Solution) of SELZENTRY Based on Weight |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2 kg to <4 kg | 4 kg to <6 kg | 6 kg to<10 kg | 10 kg to<14 kg | 14 kg to <20 kg | 20 kg to <30 kg | 30 kg to <40 kg | ≥40 kg |  |
+| Potent CYP3A inhibitors (with or without a CYP3A inducer)a | Not recommendedb |  |  | 50 mg (2.5 mL) twice daily | 50 mg (2.5 mL) twice daily | 80 mg (4 mL) twice daily | 100 mg (5 mL) twice daily | 150 mg (7.5 mL) twice daily |
+| Noninteracting concomitant medicationsc | 30 mg (1.5 mL) twice daily | 40 mg (2 mL) twice daily | 100 mg (5 mL) twice daily | 150 mg (7.5 mL) twice daily | 200 mg (10 mL) twice daily | 200 mg (10 mL) twice daily | 300 mg (15 mL) twice daily | 300 mg (15 mL) twice daily |
+| Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor)d | Not recommendedb |  |  |  |  |  |  |  |
+| a Potent CYP3A inhibitors (with or without a CYP3A inducer) including: clarithromycin, cobicistat, elvitegravir/ritonavir, itraconazole, ketoconazole, nefazodone, protease inhibitors (except tipranavir/ritonavir), telithromycin. b Insufficient data are available to recommend use. c Noninteracting concomitant medications including all medications that are not potent CYP3A inhibitors or inducers such as: dolutegravir, enfuvirtide, nevirapine, all NRTIs, raltegravir, and tipranavir/ritonavir. d Potent and moderate CYP3A inducers (without a potent CYP3A inhibitor) including: carbamazepine, efavirenz, etravirine, phenobarbital, phenytoin, and rifampin. |  |  |  |  |  |  |  |  |
 
 Administer the oral solution using the included press-in bottle adapter and the appropriate oral dosing syringe: for doses of 2.5 mL or less, use the 3-mL syringe; for doses greater than 2.5 mL, use the 10-mL syringe.
 
