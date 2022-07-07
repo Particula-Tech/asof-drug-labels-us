@@ -6,7 +6,7 @@ Doxorubicin hydrochloride can cause myocardial damage, including acute left vent
 The risk of cardiomyopathy with doxorubicin hydrochloride is generally proportional to the cumulative exposure.
 Include prior use of other anthracyclines or anthracenediones in calculations of cumulative dose.
 The risk of cardiomyopathy may be increased at lower cumulative doses in patients with prior mediastinal irradiation.
-In a clinical study in 250 patients with advanced cancer who were treated with doxorubicin hydrochloride liposome injection, the risk of cardiomyopathy was 11% when the cumulative anthracycline dose was between 450 to 550 mg/m2.
+In a clinical study in 250 patients with advanced cancer who were treated with doxorubicin hydrochloride liposome injection, the risk of cardiomyopathy was 11% when the cumulative anthracycline dose was between 450 mg/m2 to 550 mg/m2.
 Cardiomyopathy was defined as >20% decrease in resting left ventricular ejection fraction (LVEF) from baseline where LVEF remained in the normal range or a >10% decrease in LVEF from baseline where LVEF was less than the institutional lower limit of normal.
 Two percent of patients developed signs and symptoms of congestive heart failure without documented evidence of cardiomyopathy.
 

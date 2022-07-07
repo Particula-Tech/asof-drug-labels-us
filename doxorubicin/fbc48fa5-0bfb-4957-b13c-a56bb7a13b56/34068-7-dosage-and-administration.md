@@ -72,7 +72,7 @@ Manage confirmed or suspected extravasation as follows:
 - Do not remove the needle until attempts are made to aspirate extravasated fluid
 - Do not flush the line
 - Avoid applying pressure to the site
-- Apply ice to the site intermittently for 15 min 4 times a day for 3 days
+- Apply ice to the site intermittently for 15 minute 4 times a day for 3 days
 - If the extravasation is in an extremity, elevate the extremity
 
 ## 2.7 Procedure for Proper Handling and Disposal
