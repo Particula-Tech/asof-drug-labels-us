@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA214218"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "0409-1045-01",
+    "0409-2188-01",
+    "0409-3532-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "pemetrexed",
+      "name": "PEMETREXED"
+    }
+  ],
+  "setid": "3ae68628-7ab0-4491-b3ae-6a8330b719c8",
+  "source": "dailymed"
+}
