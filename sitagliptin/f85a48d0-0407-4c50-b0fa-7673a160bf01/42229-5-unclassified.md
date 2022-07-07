@@ -2,6 +2,6 @@ Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Wh
 
 For patent information: www.merck.com/product/patent/home.html
 
-Copyright © 2006-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2006-2022 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
 
-uspi-mk0431-t-2112r026
+uspi-mk0431-t-2206r027
