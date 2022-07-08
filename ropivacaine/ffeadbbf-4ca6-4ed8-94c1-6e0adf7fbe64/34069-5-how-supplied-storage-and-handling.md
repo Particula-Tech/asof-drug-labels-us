@@ -49,8 +49,8 @@ Made in India
 
 Code No.: KR/DRUGS/KTK/28/289/97
 
-ST-ROP/P/03
+ST-ROP/P/04
 
-PSSO0403
+PSSO0431
 
-Revised: December, 2021
+Revised: February, 2022
