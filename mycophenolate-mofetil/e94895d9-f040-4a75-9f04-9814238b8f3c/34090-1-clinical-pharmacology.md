@@ -24,25 +24,24 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8.
-The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5 g twice daily) (see Table 8).
+The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 10.
+The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5 g twice daily) (see Table 10).
 
-Table 8.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
+Table 10 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | Tmax(h) | Cmax(mcg/mL) | Total AUC (mcg•h/mL) |
 | --- | --- | --- | --- | --- |
 | Single Dose | 1 g/oral | 0.80(±0.36)(n=129) | 24.5(±9.5)(n=129) | 63.9(±16.2)(n=117) |
-| Kidney Transplant Patients (Twice Daily Dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0- 12h)(mcg•h/mL) |
+| Kidney Transplant Patients (Twice Daily Dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h)(mcg•h/mL) |
 | 5 Days | 1 g/iv | 1.58 (±0.46) (n=31) | 12.0 (±3.82) (n=31) | 40.8 (±11.4) (n=31) |
 | 6 Days | 1 g/oral | 1.33(±1.05)(n=31) | 10.7(±4.83)(n=31) | 32.9(±15.0)(n=31) |
 | Early (Less than 40 Days) | 1 g/oral | 1.31(±0.76)(n=25) | 8.16(±4.50)(n=25) | 27.3(±10.9)(n=25) |
 | Early (Less than 40 Days) | 1.5 g/oral | 1.21(±0.81)(n=27) | 13.5(±8.18)(n=27) | 38.4(±15.4)(n=27) |
 | Late (Greater than 3 Months) | 1.5 g/oral | 0.90(±0.24)(n=23) | 24.1(±12.1)(n=23) | 65.3(±35.4)(n=23) |
-| Heart Transplant Patients (Twice Daily Dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0- 12h)(mcg•h/mL) |
+| Heart Transplant Patients (Twice Daily Dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0-12h)(mcg•h/mL) |
 | Early(Day Before Discharge) | 1.5 g/oral | 1.8(±1.3)(n=11) | 11.5(±6.8)(n=11) | 43.3(±20.8)(n=9) |
 | Late (Greater than 6 Months) | 1.5 g/oral | 1.1(±0.7)(n=52) | 20.0(±9.4)(n=52) | 54.1AUC(0-12h) values quoted are extrapolated from data from samples collected over 4 hours.(±20.4)(n=49) |
-| Liver Transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC (0- 12h)(mcg•h/mL) |
+| Liver Transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC (0-12h)(mcg•h/mL) |
 | 4 to 9 Days | 1 g/iv | 1.50 (±0.517) (n=22) | 17.0 (±12.7) (n=22) | 34.0 (±17.4) (n=22) |
 | Early (5 to 8 Days) | 1.5 g/oral | 1.15(±0.432)(n=20) | 13.1(±6.76)(n=20) | 29.2(±11.9)(n=20) |
 | Late (Greater than 6 Months) | 1.5 g/oral | 1.54(±0.51)(n=6) | 19.3(±11.7)(n=6) | 49.3(±14.8)(n=6) |
@@ -90,7 +89,7 @@ Increased plasma concentrations of MMF metabolites (MPA 50% increase and MPAG ab
 
 Specific Populations:
 
-Patients with Renal Impairment: The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 9.
+Patients with Renal Impairment: The mean (±SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with renal impairment are presented in Table 11.
 
 In a single-dose study, MMF was administered as a capsule or as an intravenous infusion over 40 minutes.
 Plasma MPA AUC observed after oral dosing to volunteers with severe chronic renal impairment (GFR < 25 mL/min/1.73 m2) was about 75% higher relative to that observed in healthy volunteers (GFR > 80 mL/min/1.73 m2).
@@ -112,15 +111,14 @@ The pharmacokinetics of MMF are not altered by hemodialysis.
 Hemodialysis usually does not remove MPA or MPAG.
 At high concentrations of MPAG (> 100 mcg/mL), hemodialysis removes only small amounts of MPAG.
 
-Patients with Hepatic Impairment: The mean (± SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with hepatic impairment is presented in Table 9.
+Patients with Hepatic Impairment: The mean (± SD) pharmacokinetic parameters for MPA following the administration of oral MMF given as single doses to non-transplant subjects with hepatic impairment is presented in Table 11.
 
 In a single-dose (1 g oral) study of 18 volunteers with alcoholic cirrhosis and 6 healthy volunteers, hepatic MPA glucuronidation processes appeared to be relatively unaffected by hepatic parenchymal disease when pharmacokinetic parameters of healthy volunteers and alcoholic cirrhosis patients within this study were compared.
 However, it should be noted that for unexplained reasons, the healthy volunteers in this study had about a 50% lower AUC as compared to healthy volunteers in other studies, thus making comparisons between volunteers with alcoholic cirrhosis and healthy volunteers difficult.
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg•h/mL (±15.5).
 
-Table 9.
-Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
+Table 11 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -135,10 +133,9 @@ Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF C
 | Alcoholic Cirrhosis (n=18) | 1 g | 0.85 (±0.58) | 22.4 (±10.1) | 29.8 (±10.7) |
 
 Pediatric Patients: The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
-The pharmacokinetic data for MPA is provided in Table 10.
+The pharmacokinetic data for MPA is provided in Table 12.
 
-Table 10.
-Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
+Table 12 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
 
 | Age Group (n) |  | Time | Tmax (h) |  | Dose Adjustedadjusted to a dose of 600 mg/m2Cmax(mcg/mL) |  | Dose AdjustedAUC0-12(mcg•h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -154,11 +151,17 @@ There was wide variability in the data.
 As observed in adults, early post-transplant MPA AUC values were approximately 45% to 53% lower than those observed in the later post-transplant period (>3 months).
 MPA AUC values were similar in the early and late post-transplant period across the 1 to 18-year age range.
 
+A comparison of dose-normalized (to 600 mg/m2) MPA AUC values in 12 pediatric kidney transplant patients less than 6 years of age at 9 months post-transplant with those values in 7 pediatric liver transplant patients [median age 17 months (range: 10 – 60 months)] and at 6 months and beyond post-transplant revealed that, at the same dose, there were on average 23% lower AUC values in the pediatric liver compared to pediatric kidney patients.
+This is consistent with the need for higher dosing in adult liver transplant patients compared to kidney transplant patients to achieve the same exposure.
+
+In adult transplant patients administered the same dosage of mycophenolate mofetil, there is similar MPA exposure among kidney transplant and heart transplant patients.
+Based on the established similarity in MPA exposure between pediatric kidney transplant and adult kidney transplant patients at their respective approved doses, it is expected that MPA exposure at the recommended dosage will be similar in pediatric heart transplant and adult heart transplant patients.
+
 Male and Female Patients: Data obtained from several studies were pooled to look at any gender-related differences in the pharmacokinetics of MPA (data were adjusted to 1 g oral dose).
 Mean (±SD) MPA AUC (0-12h) for males (n=79) was 32.0 (±14.5) and for females (n=41) was 36.5 (±18.8) mcg•h/mL while mean (±SD) MPA Cmax was 9.96 (±6.19) in the males and 10.6 (±5.64) mcg/mL in the females.
 These differences are not of clinical significance.
 
-Geriatric Patients: The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in elderly transplant patients when compared to younger transplant patients.
+Geriatric Patients: The pharmacokinetics of mycophenolate mofetil and its metabolites have not been found to be altered in geriatric transplant patients when compared to younger transplant patients.
 
 Drug Interaction Studies:
 

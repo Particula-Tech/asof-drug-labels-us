@@ -26,8 +26,8 @@ Malformations that have been documented include external ear, eye, and other fac
 Based on published data from pregnancy registries, the risk of first trimester pregnancy loss has been reported at 45 to 49% following MMF exposure.
 
 Animal Data: In animal reproductive toxicology studies, there were increased rates of fetal resorptions and malformations in the absence of maternal toxicity.
-Oral administration of MMF to pregnant rats from Gestational Day 7 to Day 16 produced increased embryofetal lethality and fetal malformations including anophthalmia, agnathia, and hydrocephaly at doses equivalent to 0.03 and 0.02 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA.
-Oral administration of MMF to pregnant rabbits from Gestational Day 7 to Day 19 produced increased embryofetal lethality and fetal malformations included ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia at dose equivalents as low as 0.1 and 0.06 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA.
+Oral administration of MMF to pregnant rats from Gestational Day 7 to Day 16 produced increased embryofetal lethality and fetal malformations including anophthalmia, agnathia, and hydrocephaly at doses equivalent to 0.015 and 0.01 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA.
+Oral administration of MMF to pregnant rabbits from Gestational Day 7 to Day 19 produced increased embryofetal lethality and fetal malformations included ectopia cordis, ectopic kidneys, diaphragmatic hernia, and umbilical hernia at dose equivalents as low as 0.05 and 0.03 times the recommended human doses for renal and cardiac transplant patients, respectively, when corrected for BSA.
 
 ## 8.2 Lactation
 
@@ -65,13 +65,12 @@ In the event of a positive pregnancy test, consider alternative immunosuppressan
 
 Contraception:
 
-Female Patients: Females of reproductive potential taking mycophenolate mofetil must receive contraceptive counseling and use acceptable contraception (see Table 7 for acceptable contraception methods).
+Female Patients: Females of reproductive potential taking mycophenolate mofetil must receive contraceptive counseling and use acceptable contraception (see Table 9 for acceptable contraception methods).
 Patients must use acceptable birth control during the entire mycophenolate mofetil therapy, and for 6 weeks after stopping mycophenolate mofetil, unless the patient chooses abstinence.
 
 Patients should be aware that mycophenolate mofetil reduces blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 7.
-Acceptable Contraception Methods For Females Of Reproductive Potential
+Table 9 Acceptable Contraception Methods for Females of Reproductive Potential
 
 Pick from the following birth control options:
 
@@ -91,24 +90,30 @@ OR
 | --- | --- | --- | --- |
 | Choose One Barrier Method from each column (must choose two methods) | •Diaphragm with spermicide•Cervical cap with spermicide•Contraceptive sponge | •Male condom•Female condom |  |
 
-Male Patients: Genotoxic effects have been observed in animal studies at exposures exceeding the human therapeutic exposures by approximately 2.5 times.
+Male Patients: Genotoxic effects have been observed in animal studies at exposures exceeding the human therapeutic exposures by approximately 1.25 times.
 Thus, the risk of genotoxic effects on sperm cells cannot be excluded.
 Based on this potential risk, sexually active male patients and/or their female partners are recommended to use effective contraception during treatment of the male patient and for at least 90 days after cessation of treatment.
 Also, based on the potential risk of genotoxic effects, male patients should not donate sperm during treatment with mycophenolate mofetil and for at least 90 days after cessation of treatment [see Use in Special Populations (8.1), Nonclinical Toxicology (13.1), Patient Counseling Information (17.9)].
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of mycophenolate mofetil have been established in pediatric patients 3 months and older for the prophylaxis of kidney rejection after allogeneic kidney transplant.
-Use of mycophenolate mofetil in this population is supported by evidence from adequate and well-controlled studies of mycophenolate mofetil in adults with additional data from one open-label, pharmacokinetic and safety study of mycophenolate mofetil in pediatric patients after receiving allogeneic kidney transplant [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+Safety and effectiveness have been established in pediatric patients 3 months and older for the prophylaxis of organ rejection of allogenic kidney, heart or liver transplants.
 
-Safety and effectiveness in pediatric patients receiving allogeneic heart or liver transplants have not been established.
+Kidney Transplant:
+
+Use of mycophenolate mofetil in this population is supported by evidence from adequate and well-controlled studies of mycophenolate mofetil in adults with additional data from one open-label, pharmacokinetic and safety study of mycophenolate mofetil in pediatric patients after receiving allogeneic kidney transplant (100 patients, 3 months to 18 years of age) [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
+
+Heart Transplant and Liver Transplant:
+
+Use of mycophenolate mofetil in pediatric heart transplant and liver transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult heart transplant and liver transplant patients.
+Additional supportive data include pharmacokinetic data in pediatric kidney transplant and pediatric liver transplant patients (8 liver transplant patients, 9 months to 5 years of age, in an open-label, pharmacokinetic and safety study) and published evidence of clinical efficacy and safety in pediatric heart transplant and pediatric liver transplant patients [see Dosage and Administration (2.3, 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
 
 ## 8.5 Geriatric Use
 
 Clinical studies of mycophenolate mofetil did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between geriatric and younger patients.
 In general, dose selection for a geriatric patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies.
-[see AdverseReactions (6.1), Drug Interactions (7)].
+[see Adverse Reactions (6.1), Drug Interactions (7)].
 
 ## 8.6 Patients with Renal Impairment
 
@@ -127,7 +132,7 @@ Mycophenolate mofetil may be used for heart or liver transplant patients with se
 Patients with Kidney Transplant:
 
 No dosage adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
-However, it is not known whether dosage adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
+However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
 
 Patients with Heart Transplant:
 
