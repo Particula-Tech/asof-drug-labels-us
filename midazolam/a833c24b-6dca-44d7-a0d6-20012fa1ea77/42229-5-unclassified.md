@@ -48,10 +48,10 @@ In primates, exposure to 3 hours of exposure to an anesthetic regimen that produ
 Data in rodents and in primates suggest that the neuronal and oligodendrocyte cell losses are associated with subtle but prolonged cognitive deficits in learning and memory.
 The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in neonates and young children who require procedures against the potential risks suggested by the nonclinical data [See WARNINGS; Pediatric Neurotoxicity and PRECAUTIONS; Pregnancy and Pediatric Use].
 
-Distr. by: West-Ward Pharmaceuticals Corp.
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10000075/08
+C50000720/01
 
-Revised November 2020
+Revised February 2022
