@@ -3,7 +3,7 @@
 To minimize the risk of toxicity, use the lowest possible dose and the shortest possible treatment period to control the condition.
 Treatment for periods longer than two weeks is not recommended.
 
-## Hepatic coma
+## Hepatic Coma
 
 For use as an adjunct in the management of hepatic coma, the recommended dose is 4 to 12 grams per day given in the following regimen:
 

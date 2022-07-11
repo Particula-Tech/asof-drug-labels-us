@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Neomycin Sulfate Tablets USP, for oral administration, contain neomycin which is an antibiotic obtained from the metabolic products of the actinomycete Streptomyces fradiae.
+Neomycin sulfate tablets, USP, for oral administration, contain neomycin which is an antibiotic obtained from the metabolic products of the actinomycete Streptomyces fradiae.
 Structurally, neomycin sulfate may be represented as follows:
 
 C23H46N6O13·2½ H2SO4 MW 614.67
@@ -10,4 +10,4 @@ Neomycin B is identical except that the a-D-glucopyranosyl residue in the neobio
 
 Each tablet contains 500 mg neomycin sulfate (equivalent to 350 mg neomycin base).
 
-Inactive Ingredients: calcium stearate, povidone.
+Inactive ingredients: calcium stearate, povidone.
