@@ -33,4 +33,6 @@ Heat prostration due to decreased sweating can occur when Solifenacin Succinate 
 
 Manufactured by: Qilu Pharmaceutical Co., Ltd. Jinan, 250101, China
 
-Manufactured for: Apotex Corp. Weston, Florida, USA 33326 Revised: July 2020
+Manufactured for: Apotex Corp. Weston, Florida, USA 33326 Revised: March 2022
+
+34040061511D

@@ -47,7 +47,8 @@ The safety and effectiveness of Solifenacin Succinate Tablets have not been esta
 
 ## 8.5 Geriatric Use
 
-In placebo-controlled clinical studies, similar safety and effectiveness were observed between geriatric patients (623 patients ≥ 65 years and 189 patients ≥ 75 years) and younger adult patients (1188 patients < 65 years) treated with Solifenacin Succinate Tablets [see Clinical Pharmacology (12.3)].
+.In placebo-controlled clinical studies, similar safety and effectiveness were observed between geriatric patients (623 patients ≥ 65 years and 189 patients ≥ 75 years) and younger adult patients (1188 patients < 65 years) treated with Solifenacin Succinate Tablets.
+[see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
