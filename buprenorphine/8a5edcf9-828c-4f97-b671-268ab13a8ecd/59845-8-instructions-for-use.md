@@ -35,6 +35,8 @@ To take SUBOXONE sublingual film on the inside of your cheek (buccal administrat
   - If your healthcare provider tells you to take a third film, place it on the inside of your right or left cheek after the first 2 films have dissolved.
 - While SUBOXONE sublingual film is dissolving, do not chew or swallow the film because the medicine will not work as well.
 - Talking while the film is dissolving can affect how well the medicine in SUBOXONE sublingual film is absorbed.
+- After SUBOXONE is completely dissolved, rinse your mouth with water and swallow.
+  Wait for at least one hour before brushing teeth.
 - If you miss a dose of SUBOXONE sublingual film, take your medicine when you remember.
   If it is almost time for your next dose, skip the missed dose and take the next dose at your regular time.
   Do not take 2 doses at the same time unless your healthcare provider tells you to.
@@ -64,4 +66,4 @@ If you need help with disposal of SUBOXONE sublingual film, call 1‐877‐782�
 SUBOXONE® is a registered trademark of Indivior UK Limited.
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
-Revised 03/2021
+Revised 06/2022

@@ -9,9 +9,9 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
 - Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.14)]
-- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)
+- Orthostatic Hypotension [see Warnings and Precautions (5.16)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.17)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,7 +21,7 @@ The safety of SUBOXONE sublingual film is supported by clinical trials using SUB
 In total, safety data from clinical studies are available from over 3000 opioid-dependent subjects exposed to buprenorphine at doses in the range used in the treatment of opioid dependence.
 Few differences in the adverse event profile were noted with regard to sublingually and bucally administered SUBOXONE sublingual film, SUBOXONE sublingual tablets, SUBUTEX sublingual tablets and a buprenorphine ethanolic sublingual solution.
 
-The most common adverse event (>1%) associated with the sublingual administration of the SUBOXONE sublingual film was oral hypoesthesia.
+The most common adverse event (> 1%) associated with the sublingual administration of the SUBOXONE sublingual film was oral hypoesthesia.
 Other adverse events were constipation, glossodynia, oral mucosal erythema, vomiting, intoxication, disturbance in attention, palpitations, insomnia, withdrawal syndrome, hyperhidrosis, and blurred vision.
 
 The most common adverse events associated with the buccal administration were similar to those observed with sublingual administration of the film.
@@ -31,9 +31,9 @@ In a comparative study of SUBOXONE sublingual tablets and SUBUTEX sublingual tab
 The following adverse events were reported to occur by at least 5% of patients in a 4 week study of SUBOXONE sublingual tablets and SUBUTEX sublingual tablets.
 
 Table 2.
-Adverse Events (≥5%) by Body System and Treatment Group in a 4 Week Study
+Adverse Events (≥ 5%) by Body System and Treatment Group in a 4 Week Study
 
-| Body System/ Adverse Event (COSTART Terminology) | SUBOXONE sublingual tablets 16 mg/4 mg/day N=107 n (%) | SUBUTEX sublingual tablets 16 mg/day N=103 n (%) | Placebo N=107 n (%) |
+| Body System/ Adverse Event (COSTART Terminology) | SUBOXONE sublingual tablets 16 mg/4 mg/day N = 107 n (%) | SUBUTEX sublingual tablets 16 mg/day N = 103 n (%) | Placebo N = 107 n (%) |
 | --- | --- | --- | --- |
 | Body as a Whole |  |  |  |
 | Asthenia | 7 (6.5%) | 5 (4.9%) | 7 (6.5%) |
@@ -63,11 +63,11 @@ The adverse event profile of buprenorphine was also characterized in the dose-co
 Table 3 shows adverse events reported by at least 5% of subjects in any dose group in the dose-controlled trial.
 
 Table 3.
-Adverse Events (≥5%) by Body System and Treatment Group in a 16 Week Study
+Adverse Events (≥ 5%) by Body System and Treatment Group in a 16 Week Study
 
 | Body System/ Adverse Event (COSTART Terminology) | Buprenorphine Dose |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Very Low* N=184 n (%) | Low* N=180 n (%) | Moderate* N=186 n (%) | High* N=181 n (%) | Total* N=731 n (%) |  |
+| Very Low* N = 184 n (%) | Low* N = 180 n (%) | Moderate* N = 186 n (%) | High* N = 181 n (%) | Total* N = 731 n (%) |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
 | Asthenia | 26 (14%) | 28 (16%) | 26 (14%) | 24 (13%) | 104 (14%) |
@@ -131,4 +131,4 @@ Anaphylaxis: Anaphylaxis has been reported with ingredients contained in SUBOXON
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
-Local reactions: glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis
+Local reactions: Dental decay (including caries, tooth fracture, and tooth loss), glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis

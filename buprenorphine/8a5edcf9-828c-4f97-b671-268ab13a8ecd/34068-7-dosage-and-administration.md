@@ -16,7 +16,7 @@ Provision of multiple refills is not advised early in treatment or without appro
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBOXONE sublingual film.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.4)].
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with SUBOXONE sublingual film itself.
 Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of SUBOXONE sublingual film and its affinity for the mu-opioid receptor [see Overdosage (10)].
@@ -86,6 +86,9 @@ SUBOXONE sublingual film should NOT be moved after placement.
 
 To ensure consistency in bioavailability, patients should follow the same manner of dosing with continued use of the product.
 Proper administration technique should be demonstrated to the patient.
+
+Advise patients to do the following after the product has completely dissolved in the oral mucosa: take a sip of water, swish gently around the teeth and gums, and swallow.
+Advise patients to wait for at least one hour after taking SUBOXONE before brushing teeth [see Warnings and Precautions (5.13), Postmarketing Experience (6.2), Information for Patients (17), and the Medication Guide].
 
 ## 2.7 Clinical Supervision
 

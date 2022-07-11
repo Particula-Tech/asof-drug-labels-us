@@ -33,7 +33,7 @@ Higher than normal doses and repeated administration of naloxone may be necessar
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 
-Educate patients and caregivers on how to recognize respiratory depression and, if nalone is prescribed, how to treat with naloxone.
+Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
 Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
 
 ## 5.3 Managing Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
@@ -136,24 +136,45 @@ However, buprenorphine/naloxone products are not recommended for initiation of t
 Buprenorphine/naloxone products may be used with caution for maintenance treatment in patients with moderate hepatic impairment who have initiated treatment on a buprenorphine product without naloxone.
 However, patients should be carefully monitored and consideration given to the possibility of naloxone interfering with buprenorphine's efficacy [see Use in Specific Populations (8.6)].
 
-## 5.13 Impairment of Ability to Drive or Operate Machinery
+## 5.13 Dental Adverse Events
+
+Cases of dental caries, some severe (i.e., tooth fracture, tooth loss), have been reported following the use of transmucosal buprenorphine-containing products.
+Reported events include cavities, tooth decay, dental abscesses/infection, rampant caries, tooth erosion, fillings falling out, and, in some cases, total tooth loss.
+Treatment for these events included tooth extraction, root canal, dental surgery, as well as other restorative procedures (i.e., fillings, crowns, implants, dentures).
+Multiple cases were reported in individuals without any prior history of dental problems.
+
+Refer patients to dental care services and encourage them to have regular dental checkups while taking SUBOXONE.
+Educate patients to seek dental care and strategies to maintain or improve oral health while being treated with transmucosal buprenorphine-containing products.
+Strategies include, but are not limited to, gently rinsing the teeth and gums with water and then swallowing after SUBOXONE has been completely dissolved in the oral mucosa.
+Advise patients to wait for at least one hour after taking SUBOXONE before brushing teeth [see Dosing and Administration (2.6), Information for Patients (17), Medication Guide].
+
+## 5.14 QTc Prolongation
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤ 15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing SUBOXONE sublingual film to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
+
+## 5.15 Impairment of Ability to Drive or Operate Machinery
 
 SUBOXONE sublingual film may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
 Caution patients about driving or operating hazardous machinery until they are reasonably certain that SUBOXONE sublingual film therapy does not adversely affect his or her ability to engage in such activities.
 
-## 5.14 Orthostatic Hypotension
+## 5.16 Orthostatic Hypotension
 
 Like other opioids, SUBOXONE sublingual film may produce orthostatic hypotension in ambulatory patients.
 
-## 5.15 Elevation of Cerebrospinal Fluid Pressure
+## 5.17 Elevation of Cerebrospinal Fluid Pressure
 
 Buprenorphine, like other opioids, may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions, and other circumstances when cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
-## 5.16 Elevation of Intracholedochal Pressure
+## 5.18 Elevation of Intracholedochal Pressure
 
 Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
 
-## 5.17 Effects in Acute Abdominal Conditions
+## 5.19 Effects in Acute Abdominal Conditions
 
 As with other opioids, buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.

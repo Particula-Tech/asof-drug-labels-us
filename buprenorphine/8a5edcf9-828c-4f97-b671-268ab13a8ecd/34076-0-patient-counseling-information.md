@@ -46,15 +46,19 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
 - Advise patients to never give SUBOXONE sublingual film to anyone else, even if he or she has the same signs and symptoms.
   It may cause harm or death.
 - Advise patients that selling or giving away this medication is against the law.
+- Advise patients that, after SUBOXONE has completely dissolved in the oral mucosa, to take a sip of water, swish it gently around their teeth and gums, and swallow.
+  Advise patients to wait for at least one hour after taking SUBOXONE before brushing teeth [see Warnings and Precautions (5.13)].
+- Refer patients to dental care services and encourage them to have regular dental checkups while taking SUBOXONE.
+  Instruct patients to inform their dentist that they have started therapy on SUBOXONE [see Warnings and Precautions (5.13)].
 - Caution patients that SUBOXONE sublingual film may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving or operating machinery.
-  Caution should be taken especially during drug induction and dose adjustment and until individuals are reasonably certain that buprenorphine therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.13)].
+  Caution should be taken especially during drug induction and dose adjustment and until individuals are reasonably certain that buprenorphine therapy does not adversely affect their ability to engage in such activities [see Warnings and Precautions (5.15)].
 - Advise patients not to change the dosage of SUBOXONE sublingual film without consulting their healthcare provider.
 - Advise patients to take SUBOXONE sublingual film once a day.
 - Advise patients that if they miss a dose of SUBOXONE sublingual film they should take it as soon as they remember.
   If it is almost time for the next dose, they should skip the missed dose and take the next dose at the regular time.
 - Inform patients that SUBOXONE sublingual film can cause drug dependence and that withdrawal signs and symptoms may occur when the medication is discontinued.
 - Advise patients seeking to discontinue treatment with buprenorphine for opioid dependence to work closely with their healthcare provider on a tapering schedule and inform them of the potential to relapse to illicit drug use associated with discontinuation of opioid agonist/partial agonist medication-assisted treatment.
-- Advise patients that, like other opioids, SUBOXONE sublingual film may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.14)].
+- Advise patients that, like other opioids, SUBOXONE sublingual film may produce orthostatic hypotension in ambulatory individuals [see Warnings and Precautions (5.16)].
 - Advise patients to inform their healthcare provider if any other prescription medications, over-the-counter medications, or herbal preparations are prescribed or currently being used [see Drug Interactions (7)].
 - Advise women that if they are pregnant while being treated with SUBOXONE sublingual film, the baby may have signs of withdrawal at birth and that withdrawal is treatable [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
 - Advise women who are breastfeeding to monitor the infant for drowsiness and difficulty breathing [see Use in Specific Populations (8.2)].
