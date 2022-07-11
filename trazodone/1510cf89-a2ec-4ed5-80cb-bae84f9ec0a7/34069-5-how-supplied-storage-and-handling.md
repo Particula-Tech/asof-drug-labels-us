@@ -10,8 +10,6 @@ Bottles of 500 NDC 13668-330-05
 
 Bottles of 1,000 NDC 13668-330-10
 
-100 Unit dose Tablets NDC 13668-330-74
-
 Trazodone Hydrochloride Tablets, USP 100 mg are available for oral administration as white to off white, round, biconvex, uncoated tablets debossed with "13" bisect "31" on one side and plain on other side.
 
 Bottles of 30 NDC 13668-331-30
@@ -21,8 +19,6 @@ Bottles of 100 NDC 13668-331-01
 Bottles of 500 NDC 13668-331-05
 
 Bottles of 1,000 NDC 13668-331-10
-
-100 Unit dose Tablets NDC 13668-331-74
 
 Trazodone Hydrochloride Tablets, USP 150 mg are available for oral administration as white to off white, oval, flat faced beveled edge uncoated tablets with a full bisect and two partial trisects.
 Debossed "13" bisect "32" on one side and "50 50 50" on other side.
@@ -34,8 +30,6 @@ Bottles of 100 NDC 13668-332-01
 Bottles of 500 NDC 13668-332-05
 
 Bottles of 1,000 NDC 13668-332-10
-
-100 Unit dose Tablets NDC 13668-332-74
 
 Directions for using the correct score when breaking the tablet, please refer to the following:
 
