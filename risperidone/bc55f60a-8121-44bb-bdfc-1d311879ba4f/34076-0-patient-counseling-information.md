@@ -1,5 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise patients using risperidone oral solution to read the FDA-approved patient labeling (Instructions for Use) for risperidone oral solution.
 Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone.
 
 Neuroleptic Malignant Syndrome (NMS)
@@ -26,8 +27,7 @@ Advise patients with a pre-existing low WBC or a history of drug induced leukope
 Hyperprolactinemia
 
 Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of risperidone.
-Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males.
-[See Warnings and Precautions (5.6)].
+Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males [See Warnings and Precautions (5.6)].
 
 Interference with Cognitive and Motor Performance
 
@@ -36,7 +36,7 @@ Caution patients about performing activities requiring mental alertness, such as
 Priapism
 
 Advise patients of the possibility of painful or prolonged penile erections (priapism).
-Instruct the patient to seek immediate medical attention in the event of priapism [Warnings and Precautions (5.13)].
+Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.13)].
 
 Heat Exposure and Dehydration
 
@@ -72,4 +72,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-03-2021-08
+04-2022-09

@@ -117,5 +117,5 @@ It may be necessary to increase the risperidone oral solution dose when enzyme i
 
 ## 2.6 Administration of Risperidone Oral Solution
 
-Risperidone oral solution can be administered directly from the calibrated pipette, or can be mixed with a beverage prior to administration.
+Risperidone oral solution can be administered directly from the oral dosing syringe, or can be mixed with a beverage prior to administration.
 Risperidone oral solution is compatible in the following beverages: water, coffee, orange juice and low-fat milk; it is NOT compatible with either cola or tea.
