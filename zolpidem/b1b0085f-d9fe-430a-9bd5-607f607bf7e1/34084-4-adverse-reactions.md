@@ -2,11 +2,11 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Complex sleep behaviors [see Warnings and Precautions (5.1)]
-- •CNS-depressant effects and next-day impairment [seeWarnings and Precautions (5.2)]
-- •Serious anaphylactic and anaphylactoid reactions [seeWarnings and Precautions (5.4)]
-- •Abnormal thinking and behavior changes [see Warnings and Precautions (5.5)]
-- •Withdrawal effects [seeWarnings and Precautions (5.9)]
+- •Complex Sleep Behaviors [see Warnings and Precautions (5.1)]
+- •CNS-Depressant Effects and Next-Day Impairment [seeWarnings and Precautions (5.2)]
+- •Severe Anaphylactic and Anaphylactoid Reactions [seeWarnings and Precautions (5.4)]
+- •Abnormal Thinking and Behavior Changes [see Warnings and Precautions (5.5)]
+- •Withdrawal Effects [seeWarnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -240,3 +240,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Liver and biliary system: acute hepatocellular, cholestatic or mixed liver injury with or without jaundice (i.e., bilirubin >2x ULN, alkaline phosphatase ≥2x ULN, transaminase ≥5x ULN).
+
+Psychiatric disorders: delirium
