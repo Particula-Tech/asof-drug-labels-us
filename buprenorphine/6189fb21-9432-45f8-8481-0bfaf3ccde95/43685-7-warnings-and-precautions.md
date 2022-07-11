@@ -178,12 +178,14 @@ Because buprenorphine levels cannot be rapidly decreased, patients with pre-exis
 
 Patients who develop moderate to severe hepatic impairment while being treated with SUBLOCADE should be monitored for several months for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 5.16 Use in Patients at Risk for Arrhythmia
+## 5.16 QTc Prolongation
 
-Buprenorphine has been observed to prolong the QTc interval in some patients participating in clinical trials.
-Consider these observations in clinical decisions when prescribing buprenorphine to patients with hypokalemia, hypomagnesemia, or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
-Periodic electrocardiographic (ECG) monitoring is recommended in these patients.
-Avoid the use of buprenorphine in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see Clinical Pharmacology (12.2)].
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤ 15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing SUBLOCADE to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
 
 ## 5.17 Impairment of Ability to Drive or Operate Machinery
 

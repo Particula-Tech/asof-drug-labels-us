@@ -41,7 +41,7 @@ Dose dependent hepatic effects observed in the Phase 3, double-blind study (13-0
 The incidence of AST > 3 × ULN was 11.4%, 7.9%, and 1.0%, respectively.
 Adverse drug reactions [by MedDRA Preferred Terms (PT)] reported in at least 2% of subjects receiving SUBLOCADE are grouped by System Organ Class (SOC).
 
-Table 3 Adverse Reactions for Phase 3 Double-Blind Study: ≥2% of Subjects Receiving SUBLOCADE
+Table 3 Adverse Reactions for Phase 3 Double-Blind Study: ≥ 2% of Subjects Receiving SUBLOCADE
 
 |  | Count (%) | Count (%) | Count (%) |
 | --- | --- | --- | --- |
@@ -65,12 +65,12 @@ Table 3 Adverse Reactions for Phase 3 Double-Blind Study: ≥2% of Subjects Rece
 | Somnolence | 0 | 10 (4.9) | 4 (2) |
 | *There were no cases of serious liver injury attributed to study drug. |  |  |  |
 
-Table 4 shows the injection site-related adverse events reported by ≥2 subjects in the Phase 3 studies.
+Table 4 shows the injection site-related adverse events reported by ≥ 2 subjects in the Phase 3 studies.
 Most injection site adverse drug reactions (ADRs) were of mild to moderate severity, with one report of severe injection site pruritus.
 None of the injection site reactions were serious.
 One reaction, an injection site ulcer, led to study treatment discontinuation.
 
-Table 4 Injection Site Adverse Drug Reactions Reported by ≥2 Subjects in the Phase 3 Studies
+Table 4 Injection Site Adverse Drug Reactions Reported by ≥ 2 Subjects in the Phase 3 Studies
 
 | Preferred term, n (%) | 13-0001 (Ph3DB) |  |  | 13-0003 (Ph3OL) |  |  |  | All Phase 3* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

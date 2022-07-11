@@ -110,6 +110,6 @@ Manufactured for Indivior Inc.
 
 North Chesterfield, VA 23235
 
-By AMRI
+By Curia
 
 Burlington, MA 01803

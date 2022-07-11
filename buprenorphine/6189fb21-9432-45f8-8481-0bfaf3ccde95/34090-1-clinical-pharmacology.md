@@ -62,7 +62,7 @@ Buprenorphine infusions at three dose levels and placebo infusions were administ
 The three intravenous buprenorphine dose levels were designated as low (0.25 mg/70kg bolus + 0.1 mg/70kg/hr), mid (0.5 mg/70kg bolus + 0.2 mg/70kg/hr), and high (1.25 mg/70kg bolus + 0.5 mg/70kg/hr).
 The low, mid, and high buprenorphine dose levels produced average plasma concentrations (from 2 hours to 6 hours after infusion onset) of 1.06 ng/mL, 2.26 ng/mL, and 6.04 ng/mL, respectively.
 
-Escalating intravenous fentanyl boluses of 0.25, 0.35, 0.50 and 0.70 mg/70 kg (up to a maximum cumulative dose of 1.8 mg/70 kg) were administered over 90 seconds at +2hr, +3hr, +4hr and +5hr after the start of intravenous infusion of buprenorphine or placebo.
+Escalating intravenous fentanyl boluses of 0.25, 0.35, 0.50 and 0.70 mg/70 kg (up to a maximum cumulative dose of 1.8 mg/70 kg) were administered over 90 seconds at + 2hr, + 3hr, + 4hr and + 5hr after the start of intravenous infusion of buprenorphine or placebo.
 Apnea events after each fentanyl bolus are shown in Figure 11.
 Four of the 8 subjects in the placebo infusion groups discontinued prior to the fourth fentanyl bolus because of apnea (2 after the second bolus and 2 after the third bolus); 3 of the remaining 4 subjects experienced apnea after the fourth fentanyl dose.
 All 8 subjects in the buprenorphine infusion groups completed the fentanyl boluses and 2 of the 8 experienced apnea.

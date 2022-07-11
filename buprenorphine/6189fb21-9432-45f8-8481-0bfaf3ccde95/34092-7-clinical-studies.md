@@ -71,7 +71,7 @@ Table 8 Patient Demographics and Baseline Characteristics
 | Back Pain | 14.9 | 16.3 | 13.1 |
 
 Based on the cumulative distribution function (CDF) of the percentage of urine samples negative for illicit opioids combined with self-reports negative for illicit opioid use collected from Week 5 through Week 24 (Table 9), regardless of dose, SUBLOCADE was superior to the placebo group with statistical significance.
-The proportion of patients achieving treatment success (defined as patients with ≥80% opioid-free weeks) was statistically significantly higher in both groups receiving SUBLOCADE compared to the placebo group (28.4% [300 mg/100 mg], 29.1% [300 mg/300mg], 2% [placebo]).
+The proportion of patients achieving treatment success (defined as patients with ≥ 80% opioid-free weeks) was statistically significantly higher in both groups receiving SUBLOCADE compared to the placebo group (28.4% [300 mg/100 mg], 29.1% [300 mg/300mg], 2% [placebo]).
 
 For various percentages of opioid-free weeks, Table 9 shows the fraction of patients achieving that criterion.
 The table is cumulative, so that a patient whose percent of opioid-free weeks is, for example, 50%, is also included at every level of opioid-free week percentage below 50%.
