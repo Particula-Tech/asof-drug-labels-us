@@ -10,16 +10,6 @@ Rx Only
 
 NDC 64380-726-06
 
-Mycophenolate Mofetil Capsules, USP
-
-250 mg
-
-Rx Only
-
-500 Capsules
-
-NDC 64380-726-07
-
 Mycophenolate Mofetil Tablets, USP
 
 500 mg
@@ -29,13 +19,3 @@ Rx Only
 100 Tablets
 
 NDC 64380-725-06
-
-Mycophenolate Mofetil Tablets, USP
-
-500 mg
-
-Rx Only
-
-500 Tablets
-
-NDC 64380-725-07

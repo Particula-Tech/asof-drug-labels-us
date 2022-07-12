@@ -30,8 +30,7 @@ Contraception
 ## 17.3 Increased Risk of Serious Infections
 
 Inform patients that they are at increased risk of developing a variety of infections due to immunosuppression.
-Instruct them to contact their physician if they develop any of the signs and symptoms of infection explained in the Medication Guide.
-[see Warnings and Precautions (5.3)]
+Instruct them to contact their physician if they develop any of the signs and symptoms of infection explained in the Medication Guide [see Warnings and Precautions (5.3)].
 
 ## 17.4 Blood Dyscrasias
 
@@ -66,18 +65,17 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
 ## 17.9 Blood Donation
 
 Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil.
-[see Warnings and Precautions (5.11)]
+[see Warnings and Precautions (5.11)].
 
 ## 17.10 Semen Donation
 
 Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil.
-[see Warnings and Precautions (5.12)]
+[see Warnings and Precautions (5.12)].
 
 ## 17.11 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil.
-[See Warnings and Precautions (5.14)]
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [See Warnings and Precautions (5.14)].
 
 Distributed by:
 
@@ -85,4 +83,6 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 11/2021
+Revised: 07/2022
+
+Medication Guide available at: www.strides.com/medication-guides

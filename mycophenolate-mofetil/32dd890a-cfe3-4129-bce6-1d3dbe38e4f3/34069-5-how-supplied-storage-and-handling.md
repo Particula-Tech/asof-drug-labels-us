@@ -10,7 +10,7 @@ Follow applicable special handling and disposal procedures1.
 
 ## 16.2 Mycophenolate Mofetil Capsules, USP 250 mg
 
-| Capsules White to off-white blend of mycophenolate mofetil filled in size '1' hard gelatin capsule with Ivory Cap and Ivory Body, printed 'SAL' on cap and '726' on body in black. |
+| Capsules White to off-white blend of mycophenolate mofetil filled in size "1" hard gelatin capsule with Ivory Cap and Ivory Body, printed "SAL" on cap and "726" on body in black. |
 | --- |
 | Sizes Bottles of 100 ……………. NDC 64380-726-06 Bottles of 120 ……………. NDC 64380-726-11 Bottles of 500 ……………. NDC 64380-726-07 |
 | Storage • Store at 20° to 25°C (68° to 77°F), [See USP controlled room temperature]. Dispense in light-resistant containers, such as the manufacturer's original containers. |

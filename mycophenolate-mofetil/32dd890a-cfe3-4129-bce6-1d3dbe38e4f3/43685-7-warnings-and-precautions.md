@@ -79,9 +79,7 @@ Symptoms occur within weeks to months of initiation of treatment or a dose incre
 After discontinuation, improvement of symptoms and inflammatory markers are usually observed within 24 to 48 hours.
 
 Monitor patients for symptoms and laboratory parameters of AIS when starting treatment with mycophenolate products or when increasing the dosage.
-Discontinue treatment and consider other treatment alternatives based
-
-on the risk and benefit for the patient.
+Discontinue treatment and consider other treatment alternatives based on the risk and benefit for the patient.
 
 ## 5.8 Immunizations
 
