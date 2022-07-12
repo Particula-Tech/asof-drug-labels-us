@@ -32,7 +32,9 @@ Philadelphia, PA 19136
 
 Manufactured by:
 
-Sunshine Lake Pharma Co., Ltd. Northern Industry Road 1#,
+Sunshine Lake Pharma Co., Ltd.
 
-Song Shan Lake, DongGuan, GuangDong Province, 523808, P.R.
+Northern Industry Road 1#, Song Shan Lake, DongGuan, GuangDong Province, 523808, P.R.
 China
+
+Revised: 5/2021

@@ -17,3 +17,5 @@ Febuxostat tablets
 80 mg
 
 Rx only
+
+​
