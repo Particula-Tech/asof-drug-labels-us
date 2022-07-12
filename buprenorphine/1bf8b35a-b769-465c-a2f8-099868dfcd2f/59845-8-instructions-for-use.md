@@ -45,6 +45,6 @@ If you need help with disposal of Buprenorphine Sublingual Tablets, call Hikma P
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000231/09 Revised March 2022
+C50000231/10 Revised April 2022
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
