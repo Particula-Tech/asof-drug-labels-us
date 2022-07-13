@@ -18,9 +18,10 @@ If more than one topical ophthalmic medication is being used, the medicines shou
 
 Rx Only
 
-Manufactured for: Alembic Pharmaceutical, Inc. 750 Route 202, Bridgewater, NJ 08807 USA Made in India.
+Manufactured for: Alembic Pharmaceutical, Inc. Bedminister, NJ 07921,USA
 
-Manufactured by: Gland Pharma Limited Survey No. 143-148, 150 & 151, Near Gandimaisamma Cross Roads, D.P.
-Pally, Quthubullapur Mandal, Ranga Reddy District, Dundigal (Post), Hyderabad-500 043, Telangana, India (IND)
+Made in India.
 
-Issued: 03/2017
+Manufactured by: Gland Pharma Limited Hyderabad-500 043,INDIA.
+
+Revised: 06/2021
