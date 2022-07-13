@@ -122,7 +122,7 @@ Made in India
 
 Mylan.com
 
-RMXI03274A
+RMXI0327A
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -173,9 +173,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Haloperidol, USP 20 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -184,10 +182,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM0335A3
+RMXI0335A

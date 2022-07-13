@@ -47,6 +47,10 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 7/2020 HALO:R23
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
+
+75076829
+
+Revised: 7/2020 MXI:HALO:R1
