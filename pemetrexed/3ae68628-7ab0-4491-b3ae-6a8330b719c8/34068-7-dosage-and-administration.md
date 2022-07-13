@@ -68,9 +68,9 @@ Table 1: Recommended Dosage Modifications for Adverse ReactionsNational Cancer I
 | Severe and life-threatening Skin Toxicity [see Warnings and Precautions (5.3)] | Permanently discontinue |
 | Interstitial Pneumonitis [see Warnings and Precautions (5.4)] | Permanently discontinue |
 
-## 2.7 Preparation and Administration
+## 2.7 Preparation for Administration
 
-Pemetrexed Injection is a cytotoxic drug.
+Pemetrexed Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 - Calculate the dose of Pemetrexed Injection and determine the number of vials needed.
@@ -79,5 +79,5 @@ Follow applicable special handling and disposal procedures.1
 - Visually inspect for particulate matter and discoloration prior to administration.
   Discard if particulate matter or discoloration is observed.
 - Administer Pemetrexed Injection as an intravenous infusion over 10 minutes.
-- If not used immediately, store diluted product under refrigerated conditions [2–8°C (36–46°F)] for no more than 24 hours from the time of dilution.
+- If not used immediately, store diluted product under refrigerated conditions [2°C to 8°C (36°F to 46°F)] for no more than 24 hours from the time of dilution.
   Discard after 24 hours.

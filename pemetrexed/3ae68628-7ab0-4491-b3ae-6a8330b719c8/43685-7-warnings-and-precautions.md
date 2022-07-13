@@ -2,7 +2,7 @@
 
 ## 5.1 Myelosuppression and Increased Risk of Myelosuppression without Vitamin Supplementation
 
-Pemetrexed Injection can cause severe myelosuppression resulting in a requirement for transfusions and which may lead to neutropenic infection.
+Pemetrexed can cause severe myelosuppression resulting in a requirement for transfusions and which may lead to neutropenic infection.
 The risk of myelosuppression is increased in patients who do not receive vitamin supplementation.
 In Study JMCH, incidences of Grade 3–4 neutropenia (38% versus 23%), thrombocytopenia (9% versus 5%), febrile neutropenia (9% versus 0.6%), and neutropenic infection (6% versus 0) were higher in patients who received pemetrexed plus cisplatin without vitamin supplementation as compared to patients who were fully supplemented with folic acid and vitamin B12 prior to and throughout pemetrexed plus cisplatin treatment.
 
@@ -17,7 +17,7 @@ In Studies JMEN, PARAMOUNT, and JMEI, where all patients received vitamin supple
 
 ## 5.2 Renal Failure
 
-Pemetrexed Injection can cause severe, and sometimes fatal, renal toxicity.
+Pemetrexed can cause severe, and sometimes fatal, renal toxicity.
 The incidences of renal failure in clinical studies in which patients received pemetrexed with cisplatin were: 2.1% in Study JMDB and 2.2% in Study JMCH.
 The incidence of renal failure in clinical studies in which patients received pemetrexed as a single agent ranged from 0.4% to 0.6% (Studies JMEN, PARAMOUNT, and JMEI [see Adverse Reactions (6.1)]).
 Determine creatinine clearance before each dose and periodically monitor renal function during treatment with Pemetrexed Injection.
@@ -25,18 +25,18 @@ Withhold Pemetrexed Injection in patients with a creatinine clearance of less th
 
 ## 5.3 Bullous and Exfoliative Skin Toxicity
 
-Serious and sometimes fatal, bullous, blistering and exfoliative skin toxicity, including cases suggestive of Stevens-Johnson Syndrome/Toxic epidermal necrolysis can occur with Pemetrexed Injection.
+Serious and sometimes fatal, bullous, blistering and exfoliative skin toxicity, including cases suggestive of Stevens-Johnson Syndrome/Toxic epidermal necrolysis can occur with pemetrexed.
 Permanently discontinue Pemetrexed Injection for severe and life-threatening bullous, blistering or exfoliating skin toxicity.
 
 ## 5.4 Interstitial Pneumonitis
 
-Serious interstitial pneumonitis, including fatal cases, can occur with Pemetrexed Injection treatment.
+Serious interstitial pneumonitis, including fatal cases, can occur with pemetrexed treatment.
 Withhold Pemetrexed Injection for acute onset of new or progressive unexplained pulmonary symptoms such as dyspnea, cough, or fever pending diagnostic evaluation.
 If pneumonitis is confirmed, permanently discontinue Pemetrexed Injection.
 
 ## 5.5 Radiation Recall
 
-Radiation recall can occur with Pemetrexed Injection in patients who have received radiation weeks to years previously.
+Radiation recall can occur with pemetrexed in patients who have received radiation weeks to years previously.
 Monitor patients for inflammation or blistering in areas of previous radiation treatment.
 Permanently discontinue Pemetrexed Injection for signs of radiation recall.
 
@@ -50,6 +50,6 @@ If concomitant ibuprofen use cannot be avoided, monitor patients more frequently
 
 Based on findings from animal studies and its mechanism of action, Pemetrexed Injection can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, intravenous administration of pemetrexed to pregnant mice during the period of organogenesis was teratogenic, resulting in developmental delays and increased malformations at doses lower than the recommended human dose of 500 mg/m2.
-Advise pregnant women of the potential risk to the fetus.
-Advise females of reproductive potential to use effective contraception during treatment with Pemetrexed Injection and for 6 months after the final dose.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with Pemetrexed Injection and for 3 months after the final dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with Pemetrexed Injection and for 6 months after the last dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with Pemetrexed Injection and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].

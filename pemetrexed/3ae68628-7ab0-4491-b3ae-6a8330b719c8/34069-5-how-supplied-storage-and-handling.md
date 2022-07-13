@@ -14,6 +14,6 @@ Storage and Handling
 
 Store Pemetrexed Injection at controlled refrigerated temperature, 2°C to 8°C (36°F to 46°F).
 
-Pemetrexed Injection is a cytotoxic drug.
+Pemetrexed Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.
 [see References (15)]
