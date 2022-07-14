@@ -84,13 +84,6 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## QTc Prolongation
-
-Buprenorphine has been observed to prolong the QTc interval in some subjects participating in clinical trials.
-Consider these observations in clinical decisions when prescribing BUPRENEX to patients with hypokalemia, hypomagnesemia, or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
-Periodic electrocardiographic (ECG) monitoring is recommended in these patients.
-Avoid the use of BUPRENEX in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see DOSAGE AND ADMINISTRATION, ADVERSE REACTIONS, and CLINICAL PHARMACOLOGY].
-
 ## Severe Hypotension
 
 BUPRENEX may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
@@ -107,6 +100,15 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 
 Avoid the use of BUPRENEX in patients with impaired consciousness or coma.
+
+## QTc Prolongation
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤ 15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing BUPRENEX to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
 
 ## Anaphylactic/Allergic Reactions
 
