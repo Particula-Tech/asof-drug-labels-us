@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA212894"
+  ],
+  "inn": "enalapril",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-1729-7"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "enalapril",
+      "name": "Enalapril Maleate"
+    }
+  ],
+  "setid": "e81a8aca-0e7c-4a02-b596-09e4ac22c70e",
+  "source": "dailymed"
+}
