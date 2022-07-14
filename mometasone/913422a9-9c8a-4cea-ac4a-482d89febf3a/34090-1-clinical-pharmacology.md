@@ -32,7 +32,7 @@ In addition, 24-hour urinary free cortisol levels were collected prior to initia
 No statistically significant decreases in the plasma cortisol AUC, 8 AM cortisol levels, or 24-hour urinary free cortisol levels were observed in volunteers treated with either NASONEX or oral mometasone, as compared with placebo treatment.
 Conversely, nearly all volunteers treated with the three doses of dexamethasone demonstrated abnormal 8 AM cortisol levels (defined as a cortisol level <10 mcg/dL), reduced 24-hour plasma AUC values, and decreased 24-hour urinary free cortisol levels, as compared to placebo treatment.
 
-In a fourth study, adrenal function was assessed in 213 patients (18 to 81 years of age) with nasal polyps before and after 4 months of treatment with either NASONEX (200 mcg once or twice daily) or placebo by measuring 24-hour urinary free cortisol levels.
+In a fourth study, adrenal function was assessed in 213 patients (18 to 81 years of age) with chronic rhinosinusitis with nasal polyps before and after 4 months of treatment with either NASONEX (200 mcg once or twice daily) or placebo by measuring 24-hour urinary free cortisol levels.
 NASONEX at both doses (200 and 400 mcg/day), was not associated with statistically significant decreases in the 24-hour urinary free cortisol levels compared to placebo.
 
 Three clinical pharmacology studies have been conducted in pediatric patients to assess the effect of mometasone furoate nasal spray on the adrenal function at daily doses of 50, 100, and 200 mcg vs. placebo.
@@ -69,6 +69,6 @@ Male and Female Patients: The effects of gender on mometasone furoate pharmacoki
 
 Racial or Ethnic Groups: The effects of race on mometasone furoate pharmacokinetics have not been adequately investigated.
 
-Drug Interactions: Inhibitors of Cytochrome P450 3A4: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
+Drug Interaction Studies: Inhibitors of Cytochrome P450 3A4: In a drug interaction study, an inhaled dose of mometasone furoate 400 mcg was given to 24 healthy subjects twice daily for 9 days and ketoconazole 200 mg (as well as placebo) were given twice daily concomitantly on Days 4 to 9.
 Mometasone furoate plasma concentrations were <150 pcg/mL on Day 3 prior to coadministration of ketoconazole or placebo.
 Following concomitant administration of ketoconazole, 4 out of 12 subjects in the ketoconazole treatment group (n=12) had peak plasma concentrations of mometasone furoate >200 pcg/mL on Day 9 (211-324 pcg/mL).

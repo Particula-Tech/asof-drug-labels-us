@@ -2,15 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary There are no adequate and well-controlled clinical studies of NASONEX in pregnant women.
-In animal reproduction studies with pregnant mice, rats, or rabbits, mometasone furoate caused increased fetal malformations and decreased fetal survival and growth following administration of doses that produced exposures approximately 1/3 to 8 times the maximum recommended human dose (MRHD) on a mcg/m2 or AUC basis [see Data].
+Risk Summary Mometasone is minimally absorbed systemically following nasal use, and maternal use is not expected to result in fetal exposure to the drug.
+Available data from observational studies of mometasone use in pregnant women are insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+In animal reproduction studies with pregnant mice, rats, or rabbits (subcutaneous, subcutaneous/topical dermal/oral, and topical dermal/oral, respectively), mometasone furoate caused increased fetal malformations and decreased fetal survival and growth following administration of doses that produced exposures approximately 1/3 to 8 times the maximum recommended human dose (MRHD) on a mcg/m2 or AUC basis [see Data].
 However, experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroid exposure than humans.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Data Animal Data In an embryofetal development study with pregnant mice dosed throughout the period of organogenesis, mometasone furoate produced cleft palate at a dose less than the maximum recommended daily nasal dose (MRDID) (on a mcg/m2 basis with maternal subcutaneous doses of 60 mcg/kg and above) and decreased fetal survival at approximately 2 times the MRDID (on a mcg/m2 basis with a maternal subcutaneous dose of 180 mcg/kg).
+Data Animal Data In an embryofetal development study with pregnant mice dosed throughout the period of organogenesis, mometasone furoate produced cleft palate at a dose less than the maximum recommended daily intranasal dose (MRDID) (on a mcg/m2 basis with maternal subcutaneous doses of 60 mcg/kg and above) and decreased fetal survival at approximately 2 times the MRDID (on a mcg/m2 basis with a maternal subcutaneous dose of 180 mcg/kg).
 No toxicity was observed with a dose that produced an exposure less than the MRDID (on a mcg/m2 basis with maternal topical dermal doses of 20 mcg/kg and above).
 
 In an embryofetal development study with pregnant rats dosed throughout the period of organogenesis, mometasone furoate produced fetal umbilical hernia at exposures approximately 10 times the MRDID (on a mcg/m2 basis with maternal topical dermal doses of 600 mcg/kg and above) and delays in fetal ossification at a dose approximately 6 times the MRDID (on a mcg/m2 basis with maternal topical dermal doses of 300 mcg/kg and above).
@@ -28,28 +29,25 @@ No effects were observed at a dose approximately 6 times the MRDID (on a mcg/m2 
 ## 8.2 Lactation
 
 Risk Summary There are no available data on the presence of NASONEX in human milk, the effects on the breastfed child, or the effects on milk production.
-Other corticosteroids are excreted in human milk.
+However, mometasone is minimally absorbed systemically by the mother following nasal use, and breastfeeding is not expected to result in exposure of the infant to mometasone.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NASONEX and any potential adverse effects on the breastfed infant from NASONEX or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of NASONEX for allergic rhinitis in children 12 years of age and older have been established [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
-Use of NASONEX for allergic rhinitis in pediatric patients 2 to 11 years of age is supported by safety and efficacy data from clinical studies.
-Seven hundred and twenty (720) patients 3 to 11 years of age with allergic rhinitis were treated with mometasone furoate nasal spray 50 mcg (100 mcg total daily dose) in controlled clinical trials [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
-Twenty-eight (28) patients 2 to 5 years of age with allergic rhinitis were treated with mometasone furoate nasal spray 50 mcg (100 mcg total daily dose) in a controlled trial to evaluate safety [see Adverse Reactions (6.1)].
-Safety and effectiveness of NASONEX for allergic rhinitis in children less than 2 years of age have not been established.
+The safety and effectiveness of NASONEX for prophylaxis of the nasal symptoms of seasonal allergic rhinitis in pediatric patients 12 years of age and older have been established [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+Use of NASONEX for this indication is supported by evidence from controlled trials in adult and pediatric patients 12 years of age and older [see Clinical Studies (14.1)].
 
-The safety and effectiveness of NASONEX for the treatment of nasal polyps in children less than 18 years of age have not been established.
-One 4-month trial was conducted to evaluate the safety and efficacy of NASONEX in the treatment of nasal polyps in pediatric patients 6 to 17 years of age.
+The safety and effectiveness of NASONEX for the treatment of chronic rhinosinusitis with nasal polyps in pediatric patients less than 18 years of age have not been established.
+Effectiveness was not demonstrated in one 4-month trial conducted to evaluate the safety and efficacy of NASONEX in the treatment of chronic rhinosinusitis with nasal polyps in pediatric patients 6 to 17 years of age.
 The primary objective of the study was to evaluate safety; efficacy parameters were collected as secondary endpoints.
-A total of 127 patients with nasal polyps were randomized to placebo or NASONEX 100 mcg once or twice daily (patients 6 to 11 years of age) or 200 mcg once or twice daily (patients 12 to 17 years of age).
-The results of this trial did not support the efficacy of NASONEX in the treatment of nasal polyps in pediatric patients.
-The adverse reactions reported in this trial were similar to the adverse reactions reported in patients 18 years of age and older with nasal polyps.
+A total of 127 patients with chronic rhinosinusitis with nasal polyps were randomized to placebo or NASONEX 100 mcg once or twice daily (patients 6 to 11 years of age) or 200 mcg once or twice daily (patients 12 to 17 years of age).
+The results of this trial did not support the efficacy of NASONEX in the treatment of chronic rhinosinusitis with nasal polyps in pediatric patients.
+The adverse reactions reported in this trial were similar to the adverse reactions reported in patients 18 years of age and older with chronic rhinosinusitis with nasal polyps.
 
-Controlled clinical studies have shown nasal corticosteroids may cause a reduction in growth velocity in pediatric patients.
+Effect on Growth Controlled clinical studies have shown nasal corticosteroids may cause a reduction in growth velocity in pediatric patients.
 This effect has been observed in the absence of laboratory evidence of hypothalamic-pituitary-adrenal (HPA) axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The long-term effects of this reduction in growth velocity associated with nasal corticosteroids, including the impact on final adult height, are unknown.
-The potential for "catch up" growth following discontinuation of treatment with nasal corticosteroids has not been adequately studied.
+The potential for “catch up” growth following discontinuation of treatment with nasal corticosteroids has not been adequately studied.
 The growth of pediatric patients receiving nasal corticosteroids, including NASONEX, should be monitored routinely (e.g., via stadiometry).
 The potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of safe and effective noncorticosteroid treatment alternatives.
 To minimize the systemic effects of nasal corticosteroids, including NASONEX, each patient should be titrated to his/her lowest effective dose.
@@ -62,8 +60,8 @@ The potential of NASONEX to cause growth suppression in susceptible patients or 
 
 ## 8.5 Geriatric Use
 
-A total of 280 patients above 64 years of age with allergic rhinitis or nasal polyps (age range 64 to 86 years) have been treated with NASONEX for up to 3 or 4 months, respectively.
-The adverse reactions reported in this population were similar in type and incidence to those reported by younger patients.
+A total of 280 patients above 64 years of age with allergic rhinitis or chronic rhinosinusitis with nasal polyps (age range 64 to 86 years) have been treated with NASONEX for up to 3 or 4 months, respectively.
+No observed differences in safety and/or effectiveness in geriatric patients compared to younger adult patients.
 
 ## 8.6 Hepatic Impairment
 

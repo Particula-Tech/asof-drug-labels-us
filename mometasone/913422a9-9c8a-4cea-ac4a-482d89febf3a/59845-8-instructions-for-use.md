@@ -34,7 +34,7 @@ Additional sprays after the 120 sprays may not contain the right amount of medic
 Do not count any sprays used for priming the device.
 Talk with your healthcare provider before your supply runs out to see if you should get a refill of your medicine.
 
-Pediatric Use: Administration to young children should be done by an adult.
+Pediatric Use: Administration to children should be supervised by an adult.
 Steps 1 through 7 from the Patient Instructions for Use should be followed.
 
 Cleaning: Do not try to unblock the nasal applicator with a sharp object.

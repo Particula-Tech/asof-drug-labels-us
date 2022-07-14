@@ -1,13 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Nasal Effects
+## 5.1 Local Nasal Adverse Reactions
 
-Epistaxis In clinical studies, epistaxis was observed more frequently in patients with allergic rhinitis with NASONEX than those who received placebo [see Adverse Reactions (6)].
+Epistaxis Epistaxis was observed more frequently in patients with allergic rhinitis and patients with chronic rhinosinusitis with nasal polyps who received NASONEX than those who received placebo [see Adverse Reactions (6.1)].
 
-Candida Infection In clinical studies with NASONEX, the development of localized infections of the nose and pharynx with Candida albicans has occurred.
+Candida Infection Localized infections of the nose and pharynx with Candida albicans has occurred from nasal administration of mometasone furoate.
 When such an infection develops, use of NASONEX should be discontinued and appropriate local or systemic therapy instituted, if needed.
 
-Nasal Septum Perforation Instances of nasal septum perforation have been reported following the nasal application of corticosteroids.
+Nasal Septum Perforation Instances of nasal septum perforation occurred in patients following the nasal application of corticosteroids, including NASONEX.
 As with any long-term topical treatment of the nasal cavity, patients using NASONEX over several months or longer should be examined periodically for possible changes in the nasal mucosa.
 
 Impaired Wound Healing Because of the inhibitory effect of corticosteroids on wound healing, patients who have experienced recent nasal septum ulcers, nasal surgery, or nasal trauma should not use a nasal corticosteroid until healing has occurred.
@@ -38,11 +38,11 @@ Corticosteroids should be used with caution, if at all, in patients with active 
 
 ## 5.5 Hypercorticism and Adrenal Suppression
 
-When nasal steroids are used at higher than recommended dosages or in susceptible individuals at recommended dosages, systemic corticosteroid effects such as hypercorticism and adrenal suppression may appear.
+Hypercorticism and adrenal suppression may occur when nasal corticosteroids, including NASONEX, are used at higher-than-recommended dosages [see Dosage and Administration (2)] or in patients at risk for such effects.
 If such changes occur, the dosage of NASONEX should be discontinued slowly, consistent with accepted procedures for discontinuing oral corticosteroid therapy.
 
 ## 5.6 Effect on Growth
 
-Corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
-Monitor the growth routinely of pediatric patients receiving NASONEX.
+Corticosteroids, including NASONEX, may cause a reduction in growth velocity when administered to pediatric patients.
+Routinely, monitor the growth of pediatric patients receiving NASONEX.
 To minimize the systemic effects of nasal corticosteroids, including NASONEX, titrate each patient’s dose to the lowest dosage that effectively controls his/her symptoms [see Use in Specific Populations (8.4)].

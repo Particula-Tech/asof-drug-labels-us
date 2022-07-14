@@ -7,5 +7,5 @@ It is practically insoluble in water; slightly soluble in methanol, ethanol, and
 Its partition coefficient between octanol and water is greater than 5000.
 
 NASONEX is a metered-dose, manual pump spray.
-After initial priming (10 actuations), each actuation of the pump delivers a metered spray containing 100 mcg or 100 microliter of aqueous suspension of mometasone furoate monohydrate equivalent to 50 mcg (0.05% w/w) mometasone furoate calculated on the anhydrous basis; in an aqueous medium containing glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, sodium citrate, citric acid, benzalkonium chloride, and polysorbate 80.
+After initial priming (10 actuations), each actuation of the pump delivers a metered spray containing 100 mcg or 100 microliter of aqueous suspension of mometasone furoate monohydrate equivalent to 50 mcg (0.05% w/w) mometasone furoate calculated on the anhydrous basis; in an aqueous medium containing benzalkonium chloride, carboxymethylcellulose sodium, citric acid, glycerin, microcrystalline cellulose, polysorbate 80 and sodium citrate.
 The pH is between 4.3 and 4.9.
