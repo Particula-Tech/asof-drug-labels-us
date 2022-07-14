@@ -28,3 +28,8 @@ Contact lenses should be removed prior to instillation of travoprost ophthalmic 
 ## 17.6 Use with Other Ophthalmic Drugs
 
 If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes between applications. * TIMOPTIC is the registered trademark of Merck & Co., Inc.
+
+Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Made in India.
+
+Manufactured by: Gland Pharma Limited Hyderabad - 500 043, INDIA.
+Revised: 07/2022
