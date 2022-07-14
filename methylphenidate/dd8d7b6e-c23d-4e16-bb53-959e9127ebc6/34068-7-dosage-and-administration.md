@@ -1,0 +1,58 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Pretreatment Screening
+
+Prior to initiating treatment with methylphenidate hydrochloride extended-release tablets, assess for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
+
+Assess the risk of abuse prior to prescribing and monitor for signs of abuse and dependence while on therapy.
+Maintain careful prescription records, educate patients about abuse, and periodically re-evaluate the need for methylphenidate hydrochloride extended-release tablets use [see Boxed Warning, Warning and Precautions (5.1), Drug Abuse and Dependence (9)].
+
+## 2.2 General Administration Information
+
+Administer methylphenidate hydrochloride extended-release tablets orally once daily in the morning with or without food.
+
+Swallow methylphenidate hydrochloride extended-release tablets whole with liquid.
+Do not chew, divide, or crush [see Warnings and Precautions (5.8)].
+
+## 2.3 Dosage Recommendations for Patients New to Methylphenidate
+
+Table 1 includes the starting dosage and dosage recommendations for methylphenidate hydrochloride extended-release tablets in pediatric patients 6 to 17 years and adults who are not currently taking methylphenidate or other stimulants.
+
+Table 1: Dosage Recommendations for methylphenidate hydrochloride extended-release tablets in Pediatric Patients 6 to 17 years and Adults
+
+| Patient Population | Methylphenidate hydrochloride extended-release tablets Recommended Starting Dosage | Methylphenidate hydrochloride extended-release tablets Dosage Range |
+| --- | --- | --- |
+| Pediatric patients6 to 12 years | 18 mg once daily | 18 mg to 54 mg once daily |
+| 13 to 17 years | 18 mg once daily | 18 mg to 72 mg once daily(not to exceed 2 mg/kg/day) |
+| Adults18 (up to 65 years) | 18 mg or 36 mg once daily | 18 mg to 72 mg once daily |
+
+Pharmacological treatment of ADHD may be needed for extended periods.
+Periodically reevaluate the long-term use of methylphenidate hydrochloride extended-release tablets and adjust dosage as needed.
+
+## 2.4 Dosage Recommendations for Patients Currently Using Methylphenidate
+
+The recommended starting dosage of methylphenidate hydrochloride extended-release tablets for patients who are currently taking methylphenidate twice daily or three times daily at doses of 10 mg to 60 mg daily is provided in Table 2.
+
+Table 2.
+Recommended Starting Dosage when Converting from Methylphenidate Regimens to methylphenidate hydrochloride extended-release tablets
+
+| Current Methylphenidate Daily Dosage | Recommended Starting Dosage of Methylphenidate hydrochloride extended-release tablets |
+| --- | --- |
+| 5 mg methylphenidate twice daily or three times daily | 18 mg once daily in the morning |
+| 10 mg methylphenidate twice daily or three times daily | 36 mg once daily in the morning |
+| 15 mg methylphenidate twice daily or three times daily | 54 mg once daily in the morning |
+| 20 mg methylphenidate twice daily or three times daily | 72 mg once daily in the morning |
+
+## 2.5 Dose Titration
+
+Doses may be increased in 18 mg increments at weekly intervals for patients who have not achieved clinical response at a lower dose.
+Daily dosages above 54 mg in pediatric patients 6 to 12 years and above 72 mg in pediatric patients 13 to 17 years have not been studied and are not recommended.
+Daily dosages above 72 mg are not recommended in adults.
+
+Dosage strengths of 27 mg, 45 mg, and 63 mg are available for additional titration options based on clinical response.
+
+## 2.6 Dose Reduction and Discontinuation
+
+If paradoxical aggravation of symptoms or other adverse effects occur, reduce the dosage, or, if necessary, discontinue methylphenidate hydrochloride extended-release tablets.
+
+If improvement is not observed after appropriate dosage adjustment over a one-month period, discontinue methylphenidate hydrochloride extended-release tablets.

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216117"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Trigen Laboratories, LLC",
+  "package_ndcs": [
+    "13811-700-30",
+    "13811-711-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "methylphenidate hydrochloride",
+      "name": "Methylphenidate Hydrochloride"
+    }
+  ],
+  "setid": "dd8d7b6e-c23d-4e16-bb53-959e9127ebc6",
+  "source": "dailymed"
+}
