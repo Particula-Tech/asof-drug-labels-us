@@ -1,6 +1,6 @@
 # 11. DESCRIPTION
 
-EXPAREL is a sterile, non-pyrogenic white to off-white preservative-free aqueous suspension of multivesicular liposomes (DepoFoam® drug delivery system) containing bupivacaine.
+EXPAREL is a sterile, non-pyrogenic white to off-white preservative-free aqueous suspension consisting of proprietary multivesicular liposomes (pMVL) containing bupivacaine.
 Bupivacaine is present at a concentration of 13.3 mg/mL.
 After injection of EXPAREL, bupivacaine is released from the multivesicular liposomes over a period of time.
 
