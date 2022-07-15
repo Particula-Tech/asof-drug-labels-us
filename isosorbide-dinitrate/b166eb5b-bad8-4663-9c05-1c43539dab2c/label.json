@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA215723"
+  ],
+  "inn": "isosorbide-dinitrate",
+  "labeler": "Advagen Pharma Ltd",
+  "package_ndcs": [
+    "72888-081-00",
+    "72888-081-01",
+    "72888-082-00",
+    "72888-082-01",
+    "72888-083-00",
+    "72888-083-01",
+    "72888-084-00",
+    "72888-084-01",
+    "72888-085-00",
+    "72888-085-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "isosorbide dinitrate",
+      "name": "ISOSORBIDE DINITRATE"
+    }
+  ],
+  "setid": "b166eb5b-bad8-4663-9c05-1c43539dab2c",
+  "source": "dailymed"
+}
