@@ -50,7 +50,8 @@ Therefore, avoid use of SEGLUROMET in patients with clinical or laboratory evide
 
 ## 5.2 Ketoacidosis
 
-Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors including ertugliflozin [see Adverse Reactions (6.1)].Fatal cases of ketoacidosis have been reported in patients taking medicines containing SGLT2 inhibitors.
+Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization, have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors including ertugliflozin [see Adverse Reactions (6.1)].
+Fatal cases of ketoacidosis have been reported in patients taking medicines containing SGLT2 inhibitors.
 In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
 The risk of ketoacidosis may be greater with higher doses.
 SEGLUROMET is not indicated for the treatment of patients with type 1 diabetes mellitus [see Indications and Usage (1)].

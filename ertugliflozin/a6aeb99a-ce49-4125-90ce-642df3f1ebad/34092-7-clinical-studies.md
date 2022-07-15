@@ -154,7 +154,7 @@ The differences from placebo (95% CI) for ertugliflozin 5 mg was – 2.9 mmHg (-
 
 Add-on Combination Therapy with Metformin and Sulfonylurea
 
-In an 18-week randomized, double-blind, multi-center, placebo-controlled, glycemic sub-study of VERTIS CV (NCT01986881, study details see 14.2), a total of 330 subjects patients with type 2 diabetes mellitus and established atherosclerotic cardiovascular disease with inadequate glycemic control (HbA1c between 7% and 10.5%) with background therapy of metformin ≥1,500 mg/day and a sulfonylurea (SU) were randomized to placebo, ertugliflozin 5 mg or ertugliflozin 15 mg once daily treatment.
+In an 18-week randomized, double-blind, multi-center, placebo-controlled, glycemic sub-study of VERTIS CV (NCT01986881, study details see 14.2), a total of 330 patients with type 2 diabetes mellitus and established atherosclerotic cardiovascular disease with inadequate glycemic control (HbA1c between 7% and 10.5%) with background therapy of metformin ≥1,500 mg/day and a sulfonylurea (SU) were randomized to placebo, ertugliflozin 5 mg or ertugliflozin 15 mg once daily treatment.
 
 At Week 18, treatment with ertugliflozin at 5 mg or 15 mg daily provided statistically significant reductions in HbA1c compared to placebo (see Table 12).
 
