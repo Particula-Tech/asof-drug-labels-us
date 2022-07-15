@@ -175,4 +175,4 @@ For the most recent prescribing information, please visit www.pfizer.com.
 
 LAB-0397-11.0
 
-Revised 12/2020
+Revised: 12/2020
