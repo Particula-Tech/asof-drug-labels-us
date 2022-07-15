@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215429"
+  ],
+  "inn": "venlafaxine",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-632-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "venlafaxine",
+      "name": "venlafaxine"
+    }
+  ],
+  "setid": "e81a2daf-b8b2-7c05-b532-bc775700b100",
+  "source": "dailymed"
+}
