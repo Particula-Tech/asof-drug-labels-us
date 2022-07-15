@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA216117"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "Vertical Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "68025-088-10",
+    "68025-088-30",
+    "68025-089-10",
+    "68025-089-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "methylphyenidate hydrochloride extended-release",
+      "name": "RELEXXII"
+    }
+  ],
+  "setid": "22d5fa47-b5b9-4fd9-980c-4eb88e95ae5d",
+  "source": "dailymed"
+}
