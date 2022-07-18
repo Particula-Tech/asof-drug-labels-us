@@ -2,7 +2,7 @@
 
 The following reactions have been reported with the use of clindamycin.
 
-Infections and Infestations: Clostridium difficile colitis
+Infections and Infestations: Clostridioides difficile colitis
 
 Gastrointestinal: Abdominal pain, pseudomembranous colitis, esophagitis, nausea, vomiting, and diarrhea (see BOXED WARNING).
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).
@@ -21,7 +21,7 @@ Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of
 
 Liver: Jaundice and abnormalities in liver function tests have been observed during clindamycin therapy.
 
-Renal: Acute Kidney Injury: Signs of renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria have been observed (See WARNINGS).
+Renal: Acute kidney injury (See WARNINGS).
 
 Hematopoietic: Transient neutropenia (leukopenia) and eosinophilia have been reported.
 Reports of agranulocytosis and thrombocytopenia have been made.

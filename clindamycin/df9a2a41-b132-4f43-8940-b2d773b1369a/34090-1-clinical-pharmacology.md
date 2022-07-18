@@ -28,13 +28,13 @@ Approximately 10% of the bioactivity is excreted in the urine and 3.6% in the fe
 
 ### Specific Populations
 
-#### Patients with Renal Impairment
+#### Patients with Renal/Hepatic Impairment
 
-Serum half-life of clindamycin is increased slightly in patients with markedly reduced renal function.
+The elimination half-life of clindamycin is increased slightly in patients with markedly reduced renal or hepatic function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
 Dosage schedules do not need to be modified in patients with renal disease.
 
-#### Elderly Patients
+#### Geriatric Patients
 
 Pharmacokinetic studies in elderly volunteers (61–79 years) and younger adults (18–39 years) indicate that age alone does not alter clindamycin pharmacokinetics (clearance, elimination half-life, volume of distribution, and area under the serum concentration-time curve) after IV administration of clindamycin phosphate.
 After oral administration of clindamycin hydrochloride, the average elimination half-life is increased to approximately 4.0 hours (range 3.4–5.1 h) in the elderly compared to 3.2 hours (range 2.1 – 4.2 h) in younger adults.
@@ -87,7 +87,8 @@ Gram-positive bacteria
 - Streptococcus mitis
 - Streptococcus oralis
 
-- Anaerobic bacteria
+Anaerobic bacteria
+
 - Actinomyces israelii
 - Clostridium clostridioforme
 - Eggerthella lenta
@@ -95,7 +96,7 @@ Gram-positive bacteria
 - Micromonas (Peptostreptococcus) micros
 - Prevotella bivia
 - Prevotella intermedia
-- Propionibacterium acnes
+- Cutibacterium acnes
 
 ### Susceptibility Testing
 
