@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA207320"
+  ],
+  "inn": "regadenoson",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-175-01",
+    "68083-175-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "regadenoson",
+      "name": "Regadenoson"
+    }
+  ],
+  "setid": "5e4109f0-4875-4f8e-b70d-4055b3a785a3",
+  "source": "dailymed"
+}
