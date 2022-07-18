@@ -1,3 +1,3 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Use of hydroxychloroquine sulfate tablets is contraindicated in patients with known hypersensitivity to 4-aminoquinoline compounds.
+Hydroxychloroquine sulfate tablets are contraindicated in patients with known hypersensitivity to 4-aminoquinoline compounds.
