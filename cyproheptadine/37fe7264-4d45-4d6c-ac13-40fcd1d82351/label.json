@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203191"
+  ],
+  "inn": "cyproheptadine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-949-47",
+    "62135-949-94"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "cyproheptadine hydrochloride",
+      "name": "CYPROHEPTADINE"
+    }
+  ],
+  "setid": "37fe7264-4d45-4d6c-ac13-40fcd1d82351",
+  "source": "dailymed"
+}
