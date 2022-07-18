@@ -75,6 +75,13 @@ In the study of patients with newly diagnosed CML, 6% of patients were older tha
 The frequency of edema was higher in patients older than 65 years as compared to younger patients; no other difference in the safety profile was observed [see Warnings and Precautions (5.1)].
 The efficacy of imatinib mesylate was similar in older and younger patients.
 
+In the unresectable or metastatic GIST study, 16% of patients were older than 65 years.
+No obvious differences in the safety or efficacy profile were noted in patients older than 65 years as compared to younger patients, but the small number of patients does not allow a formal analysis.
+
+In the adjuvant GIST study, 221 patients (31%) were older than 65 years.
+No difference was observed in the safety profile in patients older than 65 years as compared to younger patients, with the exception of a higher frequency of edema.
+The efficacy of imatinib mesylate was similar in patients older than 65 years and younger patients.
+
 ## 8.6 Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.

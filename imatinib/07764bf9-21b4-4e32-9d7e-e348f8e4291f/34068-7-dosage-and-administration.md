@@ -59,6 +59,18 @@ Dose increase from 100 mg to 400 mg for these patients may be considered in the 
 
 The recommended dose of imatinib mesylate tablets is 800 mg/day for adult patients with DFSP.
 
+## 2.10 Adult Patients With Metastatic and/or Unresectable GIST
+
+The recommended dose of imatinib mesylate tablets is 400 mg/day for adult patients with unresectable and/or metastatic, malignant GIST.
+A dose increase up to 800 mg daily (given as 400 mg twice daily) may be considered, as clinically indicated, in patients showing clear signs or symptoms of disease progression at a lower dose and in the absence of severe adverse drug reactions.
+
+## 2.11 Adult Patients With Adjuvant GIST
+
+The recommended dose of imatinib mesylate tablets is 400 mg/day for the adjuvant treatment of adult patients following complete gross resection of GIST.
+In clinical trials, one year of imatinib mesylate tablets and three years of imatinib mesylate tablets were studied.
+In the patient population defined in Study 2, three years of imatinib mesylate tablets is recommended [see Clinical Studies (14.8)].
+The optimal treatment duration with imatinib mesylate tablets is not known.
+
 ## 2.12 Dose Modification Guidelines
 
 Concomitant Strong CYP3A4 inducers:
@@ -93,7 +105,7 @@ Table 1: Dose Adjustments for Neutropenia and Thrombocytopenia
 | ASM associated with eosinophilia (starting dose 100 mg) | ANC1 less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with imatinib mesylate tablets at previous dose (i.e., dose before severe adverse reaction) |
 | --- | --- | --- |
 | HES/CEL with FIP1L1-PDGFRα fusion kinase (starting dose 100 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with imatinib mesylate tablets at previous dose (i.e., dose before severe adverse reaction) |
-| Chronic Phase CML (starting dose 400 mg) MDS/MPD, ASM and HES/CEL (starting dose 400 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with imatinib mesylate tablets at the original starting dose of 400 mg If recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at a reduced dose of 300 mg |
+| Chronic Phase CML (starting dose 400 mg) MDS/MPD, ASM and HES/CEL (starting dose 400 mg) GIST (starting dose 400 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with imatinib mesylate tablets at the original starting dose of 400 mg If recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at a reduced dose of 300 mg |
 | Ph+ CML: Accelerated Phase and Blast Crisis (starting dose 600 mg) Ph+ ALL (starting dose 600 mg) | ANC less than 0.5 x 109/L and/or platelets less than 10 x 109/L | Check if cytopenia is related to leukemia (marrow aspirate or biopsy) If cytopenia is unrelated to leukemia, reduce dose of imatinib mesylate tablets to 400 mg If cytopenia persists 2 weeks, reduce further to 300 mg If cytopenia persists 4 weeks and is still unrelated to leukemia, stop imatinib mesylate tablets until ANC greater than or equal to 1 x 109/L and platelets greater than or equal to 20 x 109/L and then resume treatment at 300 mg |
 | DFSP (starting dose 800 mg) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with imatinib mesylate tablets at 600 mg In the event of recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at reduced dose of 400 mg. |
 | Pediatric newly diagnosed chronic phase CML (starting dose 340 mg/m2) | ANC less than 1.0 x 109/L and/or platelets less than 50 x 109/L | Stop imatinib mesylate tablets until ANC greater than or equal to 1.5 x 109/L and platelets greater than or equal to 75 x 109/L Resume treatment with imatinib mesylate tablets at previous dose (i.e., dose before severe adverse reaction) In the event of recurrence of ANC less than 1 x 109/L and/or platelets less than 50 x 109/L, repeat step 1 and resume imatinib mesylate tablets at reduced dose of 260 mg/m2 |

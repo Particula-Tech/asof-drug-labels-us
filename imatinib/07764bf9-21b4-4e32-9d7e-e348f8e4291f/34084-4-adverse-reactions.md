@@ -241,7 +241,8 @@ Abbreviations: CML, chronic myeloid leukemia; CTC, common terminology criteria; 
 Hepatotoxicity Severe elevation of transaminases or bilirubin occurred in approximately 5% of CML patients (see Tables 6 and 7) and were usually managed with dose reduction or interruption (the median duration of these episodes was approximately 1 week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1% of CML patients.
 One patient, who was taking acetaminophen regularly for fever, died of acute liver failure.
-
+In the Phase 2 GIST trial, Grade 3 or 4 SGPT (ALT) elevations were observed in 6.8% of patients and Grade 3 or 4 SGOT (AST) elevations were observed in 4.8% of patients.
+Bilirubin elevation was observed in 2.7% of patients.
 Adverse Reactions in Pediatric Population Single-Agent Therapy The overall safety profile of pediatric patients treated with imatinib mesylate in 93 children studied was similar to that found in studies with adult patients, except that musculoskeletal pain was less frequent (20.5%) and peripheral edema was not reported.
 Nausea and vomiting were the most commonly reported individual adverse reactions with an incidence similar to that seen in adult patients.
 Most patients experienced adverse reactions at some time during the study.
@@ -347,6 +348,228 @@ Table 11: Laboratory Abnormalities Reported in DFSP Patients in the Phase 2 Stud
 | - Elevated Creatinine | 0 | 8 |
 
 Abbreviation: CTC, common terminology criteria.
+
+Gastrointestinal Stromal Tumors
+
+Unresectable and/or Malignant Metastatic GIST
+
+In the Phase 3 trials, the majority of imatinib mesylate-treated patients experienced adverse reactions at some time.
+The most frequently reported adverse reactions were edema, fatigue, nausea, abdominal pain, diarrhea, rash, vomiting, myalgia, anemia, and anorexia.
+Drug was discontinued for adverse reactions in a total of 89 patients (5.4%).
+Superficial edema, most frequently periorbital or lower extremity edema was managed with diuretics, other supportive measures, or by reducing the dose of imatinib mesylate [see Dosage and Administration (2.13)].
+Severe (CTC Grade 3/4) edema was observed in 182 patients (11.1%).
+
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 10% of the patients treated with imatinib mesylate are shown in Table 12.
+
+Overall the incidence of all grades of adverse reactions and the incidence of severe adverse reactions (CTC Grade 3 and above) were similar between the two treatment arms except for edema, which was reported more frequently in the 800 mg group.
+
+Table 12: Number (%) of Patients With Adverse Reactions Regardless of Relationship to Study Drug Where Frequency is Greater Than or Equal to 10% in any One Group (full analysis set) in the Phase 3 Unresectable and/or Malignant Metastatic GIST Clinical Trials
+
+| Reported or Specified Term | Imatinib 400 mg N = 818 |  | Imatinib 800 mg N = 822 |  |
+| --- | --- | --- | --- | --- |
+| All Grades % | Grades 3/4/5 % | All Grades % | Grades 3/4/5 % |  |
+| Edema | 76.7 | 9.0 | 86.1 | 13.1 |
+| Fatigue/lethargy, malaise, asthenia | 69.3 | 11.7 | 74.9 | 12.2 |
+| Nausea | 58.1 | 9.0 | 64.5 | 7.8 |
+| Abdominal pain/cramping | 57.2 | 13.8 | 55.2 | 11.8 |
+| Diarrhea | 56.2 | 8.1 | 58.2 | 8.6 |
+| Rash/desquamation | 38.1 | 7.6 | 49.8 | 8.9 |
+| Vomiting | 37.4 | 9.2 | 40.6 | 7.5 |
+| Myalgia | 32.2 | 5.6 | 30.2 | 3.8 |
+| Anemia | 32.0 | 4.9 | 34.8 | 6.4 |
+| Anorexia | 31.1 | 6.6 | 35.8 | 4.7 |
+| Other GI toxicity | 25.2 | 8.1 | 28.1 | 6.6 |
+| Headache | 22.0 | 5.7 | 19.7 | 3.6 |
+| Other pain (excluding tumor related pain) | 20.4 | 5.9 | 20.8 | 5.0 |
+| Other dermatology/skin toxicity | 17.6 | 5.9 | 20.1 | 5.7 |
+| Leukopenia | 17.0 | 0.7 | 19.6 | 1.6 |
+| Other constitutional symptoms | 16.7 | 6.4 | 15.2 | 4.4 |
+| Cough | 16.1 | 4.5 | 14.5 | 3.2 |
+| Infection (without neutropenia) | 15.5 | 6.6 | 16.5 | 5.6 |
+| Pruritus | 15.4 | 5.4 | 18.9 | 4.3 |
+| Other neurological toxicity | 15.0 | 6.4 | 15.2 | 4.9 |
+| Constipation | 14.8 | 5.1 | 14.4 | 4.1 |
+| Other renal/genitourinary toxicity | 14.2 | 6.5 | 13.6 | 5.2 |
+| Arthralgia (joint pain) | 13.6 | 4.8 | 12.3 | 3.0 |
+| Dyspnea (shortness of breath) | 13.6 | 6.8 | 14.2 | 5.6 |
+| Fever in absence of neutropenia (ANC < 1.0 x 109 /L) | 13.2 | 4.9 | 12.9 | 3.4 |
+| Sweating | 12.7 | 4.6 | 8.5 | 2.8 |
+| Other hemorrhage | 12.3 | 6.7 | 13.3 | 6.1 |
+| Weight gain | 12.0 | 1.0 | 10.6 | 0.6 |
+| Alopecia | 11.9 | 4.3 | 14.8 | 3.2 |
+| Dyspepsia/heartburn | 11.5 | 0.6 | 10.9 | 0.5 |
+| Neutropenia/granulocytopenia | 11.5 | 3.1 | 16.1 | 4.1 |
+| Rigors/chills | 11.0 | 4.6 | 10.2 | 3.0 |
+| Dizziness/lightheadedness | 11.0 | 4.8 | 10.0 | 2.8 |
+| Creatinine increase | 10.8 | 0.4 | 10.1 | 0.6 |
+| Flatulence | 10.0 | 0.2 | 10.1 | 0.1 |
+| Stomatitis/pharyngitis (oral/pharyngeal mucositis) | 9.2 | 5.4 | 10.0 | 4.3 |
+| Lymphopenia | 6.0 | 0.7 | 10.1 | 1.9 |
+
+Abbreviations: ANC, absolute neutrophil count; GI, gastrointestinal; GIST, gastrointestinal stromal tumors.
+
+Clinically relevant or severe abnormalities of routine hematologic or biochemistry laboratory values were not reported or evaluated in the Phase 3 GIST trials.
+Severe abnormal laboratory values reported in the Phase 2 GIST trial are presented in Table 13.
+
+Table 13: Laboratory Abnormalities in the Phase 2 Unresectable and/or Malignant Metastatic GIST Trial
+
+| CTC Grades1 | 400 mg (N = 73) % |  | 600 mg (N = 74) % |  |
+| --- | --- | --- | --- | --- |
+| Grade 3 | Grade 4 | Grade 3 | Grade 4 |  |
+| Hematology Parameters |  |  |  |  |
+| − Anemia | 3 | 0 | 8 | 1 |
+| − Thrombocytopenia | 0 | 0 | 1 | 0 |
+| − Neutropenia | 7 | 3 | 8 | 3 |
+| Biochemistry Parameters |  |  |  |  |
+| − Elevated creatinine | 0 | 0 | 3 | 0 |
+| − Reduced albumin | 3 | 0 | 4 | 0 |
+| − Elevated bilirubin | 1 | 0 | 1 | 3 |
+| − Elevated alkaline phosphatase | 0 | 0 | 3 | 0 |
+| − Elevated SGOT (AST) | 4 | 0 | 3 | 3 |
+| − Elevated SGPT (ALT) | 6 | 0 | 7 | 1 |
+
+Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).
+
+1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5–1.0 x 109 /L, Grade 4 less than 0.5 x 109 /L), thrombocytopenia (Grade 3 greater than or equal to 10–50 x 109 /L, Grade 4 less than 10 x 109 /L), anemia (Grade 3 greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3–6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3–10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase, SGOT or SGPT (Grade 3 greater than 5–20 x ULN, Grade 4 greater than 20 x ULN), albumin (Grade 3 less than 20 g/L).
+
+Adjuvant Treatment of GIST
+
+In Study 1, the majority of both imatinib mesylate and placebo-treated patients experienced at least one adverse reaction at some time.
+The most frequently reported adverse reactions were similar to those reported in other clinical studies in other patient populations and include diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting, and abdominal pain.
+No new adverse reactions were reported in the adjuvant GIST-treatment setting that had not been previously reported in other patient populations, including patients with unresectable and/or malignant metastatic GIST.
+Drug was discontinued for adverse reactions in 57 patients (17%) and 11 patients (3%) of the imatinib mesylate and placebo-treated patients, respectively.
+Edema, GI disturbances (nausea, vomiting, abdominal distention, and diarrhea), fatigue, low hemoglobin, and rash were the most frequently reported adverse reactions at the time of discontinuation.
+
+In Study 2, discontinuation of therapy due to adverse reactions occurred in 15 patients (8%) and 27 patients (14%) of the imatinib mesylate 12-month, and 36-month treatment arms, respectively.
+As in previous trials the most common adverse reactions were diarrhea, fatigue, nausea, edema, decreased hemoglobin, rash, vomiting, and abdominal pain.
+
+Adverse reactions, regardless of relationship to study drug, that were reported in at least 5% of the patients treated with imatinib mesylate are shown in Table 14 (Study 1) and Table 15 (Study 2).
+There were no deaths attributable to imatinib mesylate treatment in either trial.
+
+Table 14: Adverse Reactions Regardless of Relationship to Study Drug Reported in Study 1 (greater than or equal to 5% of Imatinib Mesylate-treated patients)(1)
+
+| Preferred Term | All CTC Grades |  | CTC Grade 3* and Above |  |
+| --- | --- | --- | --- | --- |
+| Imatinib Mesylate (n = 337) % | Placebo (n = 345) % | Imatinib Mesylate (n = 337) % | Placebo (n = 345) % |  |
+| Diarrhea | 59.3 | 29.3 | 3.0 | 1.4 |
+| Fatigue | 57.0 | 40.9 | 2.1 | 1.2 |
+| Nausea | 53.1 | 27.8 | 2.4 | 1.2 |
+| Periorbital edema | 47.2 | 14.5 | 1.2 | 0 |
+| Hemoglobin Decreased | 46.9 | 27.0 | 0.6 | 0 |
+| Peripheral edema | 26.7 | 14.8 | 0.3 | 0 |
+| Rash (Exfoliative) | 26.1 | 12.8 | 2.7 | 0 |
+| Vomiting | 25.5 | 13.9 | 2.4 | 0.6 |
+| Abdominal pain | 21.1 | 22.3 | 3.0 | 1.4 |
+| Headache | 19.3 | 20.3 | 0.6 | 0 |
+| Dyspepsia | 17.2 | 13.0 | 0.9 | 0 |
+| Anorexia | 16.9 | 8.7 | 0.3 | 0 |
+| Weight increased | 16.9 | 11.6 | 0.3 | 0 |
+| Liver enzymes (ALT) increased | 16.6 | 13.0 | 2.7 | 0 |
+| Muscle spasms | 16.3 | 3.3 | 0 | 0 |
+| Neutrophil count decreased | 16.0 | 6.1 | 3.3 | 0.9 |
+| Arthralgia | 15.1 | 14.5 | 0 | 0.3 |
+| White blood cell count decreased | 14.5 | 4.3 | 0.6 | 0.3 |
+| Constipation | 12.8 | 17.7 | 0 | 0.3 |
+| Dizziness | 12.5 | 10.7 | 0 | 0.3 |
+| Liver enzymes (AST) increased | 12.2 | 7.5 | 2.1 | 0 |
+| Myalgia | 12.2 | 11.6 | 0 | 0.3 |
+| Blood creatinine increased | 11.6 | 5.8 | 0 | 0.3 |
+| Cough | 11.0 | 11.3 | 0 | 0 |
+| Pruritus | 11.0 | 7.8 | 0.9 | 0 |
+| Weight decreased | 10.1 | 5.2 | 0 | 0 |
+| Hyperglycemia | 9.8 | 11.3 | 0.6 | 1.7 |
+| Insomnia | 9.8 | 7.2 | 0.9 | 0 |
+| Lacrimation increased | 9.8 | 3.8 | 0 | 0 |
+| Alopecia | 9.5 | 6.7 | 0 | 0 |
+| Flatulence | 8.9 | 9.6 | 0 | 0 |
+| Rash | 8.9 | 5.2 | 0.9 | 0 |
+| Abdominal distension | 7.4 | 6.4 | 0.3 | 0.3 |
+| Back pain | 7.4 | 8.1 | 0.6 | 0 |
+| Pain in extremity | 7.4 | 7.2 | 0.3 | 0 |
+| Hypokalemia | 7.1 | 2.0 | 0.9 | 0.6 |
+| Depression | 6.8 | 6.4 | 0.9 | 0.6 |
+| Facial edema | 6.8 | 1.2 | 0.3 | 0 |
+| Blood alkaline phosphatase increased | 6.5 | 7.5 | 0 | 0 |
+| Dry skin | 6.5 | 5.2 | 0 | 0 |
+| Dysgeusia | 6.5 | 2.9 | 0 | 0 |
+| Abdominal pain upper | 6.2 | 6.4 | 0.3 | 0 |
+| Neuropathy peripheral | 5.9 | 6.4 | 0 | 0 |
+| Hypocalcemia | 5.6 | 1.7 | 0.3 | 0 |
+| Leukopenia | 5.0 | 2.6 | 0.3 | 0 |
+| Platelet count decreased | 5.0 | 3.5 | 0 | 0 |
+| Stomatitis | 5.0 | 1.7 | 0.6 | 0 |
+| Upper respiratory tract infection | 5.0 | 3.5 | 0 | 0 |
+| Vision Blurred | 5.0 | 2.3 | 0 | 0 |
+
+Abbreviations: CTC, common terminology criteria; GIST, gastrointestinal stromal tumors; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).
+
+*NCI Common Terminology Criteria for Adverse Events, version 3.0.
+
+(1)All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment.
+
+A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category.
+
+Table 15: Adverse Reactions Regardless of Relationship to Study Drug by Preferred Term All Grades and 3/4 Grades (greater than or equal to 5% of Imatinib Mesylate-treated patients) Study 2(1)
+
+| Preferred Term | All CTC Grades |  | CTC Grade 3 and Above |  |
+| --- | --- | --- | --- | --- |
+| Imatinib Mesylate 12 Months (n = 194) % | Imatinib Mesylate 36 Months (n = 198) % | Imatinib Mesylate 12 Months (n = 194) % | Imatinib Mesylate 36 Months (n = 198) % |  |
+| Patients with at least one AE | 99.0 | 100.0 | 20.1 | 32.8 |
+| Hemoglobin decreased | 72.2 | 80.3 | 0.5 | 0.5 |
+| Periorbital edema | 59.3 | 74.2 | 0.5 | 1.0 |
+| Blood lactate dehydrogenase increased | 43.3 | 60.1 | 0 | 0 |
+| Diarrhea | 43.8 | 54.0 | 0.5 | 2.0 |
+| Nausea | 44.8 | 51.0 | 1.5 | 0.5 |
+| Muscle spasms | 30.9 | 49.0 | 0.5 | 1.0 |
+| Fatigue | 48.5 | 48.5 | 1.0 | 0.5 |
+| White blood cell count decreased | 34.5 | 47.0 | 2.1 | 3.0 |
+| Pain | 25.8 | 45.5 | 1.0 | 3.0 |
+| Blood creatinine increased | 30.4 | 44.4 | 0 | 0 |
+| Peripheral edema | 33.0 | 40.9 | 0.5 | 1.0 |
+| Dermatitis | 29.4 | 38.9 | 2.1 | 1.5 |
+| Aspartate aminotransferase increased | 30.9 | 37.9 | 1.5 | 3.0 |
+| Alanine aminotransferase increased | 28.9 | 34.3 | 2.1 | 3.0 |
+| Neutrophil count decreased | 24.2 | 33.3 | 4.6 | 5.1 |
+| Hypoproteinemia | 23.7 | 31.8 | 0 | 0 |
+| Infection | 13.9 | 27.8 | 1.5 | 2.5 |
+| Weight increased | 13.4 | 26.8 | 0 | 0.5 |
+| Pruritus | 12.9 | 25.8 | 0 | 0 |
+| Flatulence | 19.1 | 24.7 | 1.0 | 0.5 |
+| Vomiting | 10.8 | 22.2 | 0.5 | 1.0 |
+| Dyspepsia | 17.5 | 21.7 | 0.5 | 1.0 |
+| Hypoalbuminemia | 11.9 | 21.2 | 0 | 0 |
+| Edema | 10.8 | 19.7 | 0 | 0.5 |
+| Abdominal distension | 11.9 | 19.2 | 0.5 | 0 |
+| Headache | 8.2 | 18.2 | 0 | 0 |
+| Lacrimation increased | 18.0 | 17.7 | 0 | 0 |
+| Arthralgia | 8.8 | 17.2 | 0 | 1.0 |
+| Blood alkaline phosphatase increased | 10.8 | 16.7 | 0 | 0.5 |
+| Dyspnea | 6.2 | 16.2 | 0.5 | 1.5 |
+| Myalgia | 9.3 | 15.2 | 0 | 1.0 |
+| Platelet count decreased | 11.3 | 14.1 | 0 | 0 |
+| Blood bilirubin increased | 11.3 | 13.1 | 0 | 0 |
+| Dysgeusia | 9.3 | 12.6 | 0 | 0 |
+| Paresthesia | 5.2 | 12.1 | 0 | 0.5 |
+| Vision blurred | 10.8 | 11.1 | 1.0 | 0.5 |
+| Alopecia | 11.3 | 10.6 | 0 | 0 |
+| Decreased appetite | 9.8 | 10.1 | 0 | 0 |
+| Constipation | 8.8 | 9.6 | 0 | 0 |
+| Pyrexia | 6.2 | 9.6 | 0 | 0 |
+| Depression | 3.1 | 8.1 | 0 | 0 |
+| Abdominal pain | 2.6 | 7.6 | 0 | 0 |
+| Conjunctivitis | 5.2 | 7.6 | 0 | 0 |
+| Photosensitivity reaction | 3.6 | 7.1 | 0 | 0 |
+| Dizziness | 4.6 | 6.6 | 0.5 | 0 |
+| Hemorrhage | 3.1 | 6.6 | 0 | 0 |
+| Dry skin | 6.7 | 6.1 | 0.5 | 0 |
+| Nasopharyngitis | 1.0 | 6.1 | 0 | 0.5 |
+| Palpitations | 5.2 | 5.1 | 0 | 0 |
+
+Abbreviations: AE, adverse event; CTC, common terminology criteria.
+
+(1)All adverse reactions occurring in greater than or equal to 5% of patients are listed regardless of suspected relationship to treatment.
+
+A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category.
 
 Adverse Reactions from Multiple Clinical Trials Cardiac Disorders: Estimated 1% to 10%: palpitations, pericardial effusion Estimated 0.1% to 1%: congestive cardiac failure, tachycardia, pulmonary edema Estimated 0.01% to 0.1%: arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris Vascular Disorders: Estimated 1% to 10%: flushing, hemorrhage Estimated 0.1% to 1%: hypertension, hypotension, peripheral coldness, Raynaud’s phenomenon, hematoma, subdural hematoma Investigations: Estimated 1% to 10%: blood creatine phosphokinase (CPK) increased, blood amylase increased Estimated 0.1% to 1%: blood lactate dehydrogenase (LDH) increased Skin and Subcutaneous Tissue Disorders: Estimated 1% to 10%: dry skin, alopecia, face edema, erythema, photosensitivity reaction, nail disorder, purpura Estimated 0.1% to 1%: exfoliative dermatitis, bullous eruption, psoriasis, rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, skin hyperpigmentation, onychoclasis, folliculitis, petechiae, erythema multiforme Estimated 0.01% to 0.1%: vesicular rash, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discoloration, angioneurotic edema, leucocytoclastic vasculitis Gastrointestinal Disorders: Estimated 1% to 10%: abdominal distention, gastroesophageal reflux, dry mouth, gastritis Estimated 0.1% to 1%: gastric ulcer, stomatitis, mouth ulceration, eructation, melena, esophagitis, ascites, hematemesis, chelitis, dysphagia, pancreatitis Estimated 0.01% to 0.1%: colitis, ileus, inflammatory bowel disease General Disorders and Administration-Site Conditions: Estimated 1% to 10%: weakness, anasarca, chills Estimated 0.1% to 1%: malaise Blood and Lymphatic System Disorders: Estimated 1% to 10%: pancytopenia, febrile neutropenia, lymphopenia, eosinophilia Estimated 0.1% to 1%: thrombocythemia, bone marrow depression, lymphadenopathy Estimated 0.01% to 0.1%: hemolytic anemia, aplastic anemia Hepatobiliary Disorders: Estimated 0.1% to 1%: hepatitis, jaundice Estimated 0.01% to 0.1%: hepatic failure and hepatic necrosis1 Immune System Disorders: Estimated 0.01% to 0.1%: angioedema Infections and Infestations: Estimated 0.1% to 1%: sepsis, herpes simplex, herpes zoster, cellulitis, urinary tract infection, gastroenteritis Estimated 0.01% to 0.1%: fungal infection Metabolism and Nutrition Disorders: Estimated 1% to 10%: weight decreased, decreased appetite Estimated 0.1% to 1%: dehydration, gout, increased appetite, hyperuricemia, hypercalcemia, hyperglycemia, hyponatremia, hyperkalemia, hypomagnesemia Musculoskeletal and Connective Tissue Disorders: Estimated 1% to 10%: joint swelling Estimated 0.1% to 1%: joint and muscle stiffness, muscular weakness, arthritis Nervous System/Psychiatric Disorders: Estimated 1% to 10%: paresthesia, hypesthesia Estimated 0.1% to 1%: syncope, peripheral neuropathy, somnolence, migraine, memory impairment, libido decreased, sciatica, restless leg syndrome, tremor Estimated 0.01% to 0.1%: increased intracranial pressure1, confusional state, convulsions, optic neuritis Renal and Urinary Disorders: Estimated 0.1% to 1%: renal failure acute, urinary frequency increased, hematuria, renal pain Reproductive System and Breast Disorders: Estimated 0.1% to 1%: breast enlargement, menorrhagia, sexual dysfunction, gynecomastia, erectile dysfunction, menstruation irregular, nipple pain, scrotal edema Respiratory, Thoracic and Mediastinal Disorders: Estimated 1% to 10%: epistaxis Estimated 0.1% to 1%: pleural effusion Estimated 0.01% to 0.1%: interstitial pneumonitis, pulmonary fibrosis, pleuritic pain, pulmonary hypertension, pulmonary hemorrhage
 

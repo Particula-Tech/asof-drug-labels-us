@@ -31,3 +31,11 @@ Adult patients with hypereosinophilic syndrome and/or chronic eosinophilic leuke
 ## 1.8 Dermatofibrosarcoma Protuberans (DFSP)
 
 Adult patients with unresectable, recurrent and/or metastatic dermatofibrosarcoma protuberans.
+
+## 1.9 Kit+ Gastrointestinal Stromal Tumors (GIST)
+
+Patients with Kit (CD117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumors.
+
+## 1.10 Adjuvant Treatment of GIST
+
+Adjuvant treatment of adult patients following complete gross resection of Kit (CD117) positive GIST.

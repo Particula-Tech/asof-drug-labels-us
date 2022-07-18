@@ -8,6 +8,7 @@ Investigate unexpected rapid weight gain carefully and provide appropriate treat
 The probability of edema was increased with higher imatinib mesylate dose and age greater than 65 years in the CML studies.
 Severe superficial edema was reported in 1.5% of newly diagnosed CML patients taking imatinib mesylate tablets, and in 2% to 6% of other adult CML patients taking imatinib mesylate tablets.
 In addition, other severe fluid retention (e.g., pleural effusion, pericardial effusion, pulmonary edema, and ascites) reactions were reported in 1.3% of newly diagnosed CML patients taking imatinib mesylate tablets, and in 2% to 6% of other adult CML patients taking imatinib mesylate tablets.
+Severe fluid retention was reported in 9% to 13.1% of patients taking imatinib mesylate for GIST [see Adverse Reactions (6.1)].
 In a randomized trial in patients with newly diagnosed Ph+CML in chronic phase comparing imatinib mesylate and nilotinib, severe (Grade 3 or 4) fluid retention occurred in 2.5% of patients receiving imatinib mesylate and in 3.9% of patients receiving nilotinib 300 mg twice daily.
 Effusions (including pleural effusion, pericardial effusion, ascites) or pulmonary edema were observed in 2.1% (none were Grade 3 or 4) of patients in the imatinib mesylate arm and 2.2% (0.7% Grade 3 or 4) of patients in the nilotinib 300 mg twice daily arm.
 
@@ -41,6 +42,9 @@ Monitoring of hepatic function is recommended.
 ## 5.5 Hemorrhage
 
 In a trial of imatinib mesylate versus IFN+Ara-C in patients with the newly diagnosed CML, 1.8% of patients had Grade 3/4 hemorrhage.
+In the Phase 3 unresectable or metastatic GIST studies, 211 patients (12.9%) reported Grade 3/4 hemorrhage at any site.
+In the Phase 2 unresectable or metastatic GIST study, 7 patients (5%) had a total of 8 CTC Grade 3/4 hemorrhages; gastrointestinal (GI) (3 patients), intra-tumoral (3 patients) or both (1 patient).
+Gastrointestinal tumor sites may have been the source of GI hemorrhages.
 In a randomized trial in patients with newly diagnosed Ph+ CML in chronic phase comparing imatinib mesylate and nilotinib, GI hemorrhage occurred in 1.4% of patients in the imatinib mesylate arm, and in 2.9% of patients in the nilotinib 300 mg twice daily arm.
 None of these events were Grade 3 or 4 in the imatinib mesylate arm; 0.7% were Grade 3 or 4 in the nilotinib 300 mg twice daily arm.
 In addition, gastric antral vascular ectasia has been reported in postmarketing experience.
@@ -88,7 +92,7 @@ Therefore, monitor growth in children under imatinib mesylate treatment [see Adv
 
 ## 5.12 Tumor Lysis Syndrome
 
-Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, ALL, and eosinophilic leukemia receiving imatinib mesylate.
+Cases of Tumor Lysis Syndrome (TLS), including fatal cases, have been reported in patients with CML, GIST, ALL, and eosinophilic leukemia receiving imatinib mesylate.
 The patients at risk of TLS are those with tumors having a high proliferative rate or high tumor burden prior to treatment.
 Monitor these patients closely and take appropriate precautions.
 Due to possible occurrence of TLS, correct clinically significant dehydration and treat high uric acid levels prior to initiation of imatinib mesylate.
@@ -102,5 +106,5 @@ Recommend caution when driving a car or operating machinery.
 ## 5.14 Renal Toxicity
 
 A decline in renal function may occur in patients receiving imatinib mesylate.
-Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) declined from a baseline value of 85 mL/min/1.73m2 (N=1190) to 75 mL/min/1.73m2 at 12 months (N=1082) and 69 mL/min/1.73m2 at 60 months (N=549).
+Median estimated glomerular filtration rate (eGFR) values in patients on imatinib mesylate 400 mg daily for newly-diagnosed CML (four randomized trials) and malignant GIST (one single-arm trial) declined from a baseline value of 85 mL/min/1.73m2 (N=1190) to 75 mL/min/1.73m2 at 12 months (N=1082) and 69 mL/min/1.73m2 at 60 months (N=549).
 Evaluate renal function prior to initiating imatinib mesylate and monitor during therapy, with attention to risk factors for renal dysfunction, such as pre-existing renal impairment, diabetes mellitus, hypertension, and congestive heart failure.
