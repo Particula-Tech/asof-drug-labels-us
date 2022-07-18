@@ -76,14 +76,13 @@ Pooled data from three double-blind, placebo-controlled schizophrenia studies an
 Table 2.
 Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adult Subjects with Schizophrenia or Bipolar Mania
 
-|  | Placebo | Risperidone |  |
+|  | Placebo | Risperidone1 to 8 mg/day | > 8 to 16 mg/day |
 | --- | --- | --- | --- |
-|  |  | 1 to 8 mg/day | > 8 to 16 mg/day |
 |  |  | Mean change from baseline (mg/dL) |  |
 | n = 555 | n = 748 | n = 164 |  |
 | Serum Glucose | -1.4 | 0.8 | 0.6 |
 |  |  | Proportion of patients with shifts |  |
-| Serum Glucose (< 140 mg/dL to ≥ 200 mg/dL) | 0.6% (3/525) | 0.4% (3/702) | 0% (0/158) |
+| Serum Glucose(< 140 mg/dL to ≥ 200 mg/dL) | 0.6%(3/525) | 0.4%(3/702) | 0%(0/158) |
 
 In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in glucose of +2.8 mg/dL at Week 24 (n = 151) and +4.1 mg/dL at Week 48 (n = 50).
 
@@ -122,8 +121,8 @@ Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or F
 | Change from baseline | -17.4 | -4.9 | -8.3 |
 |  | Proportion of patients With Shifts |  |  |
 | Cholesterol |  |  |  |
-| (< 200 mg/dL to ≥ 240 mg/dL) | 2.7% (10/368) | 4.3% (22/516) | 6.3% (6/96) |
-| Triglycerides (< 500 mg/dL to ≥ 500 mg/dL) | 1.1% (2/180) | 2.7% (8/301) | 2.5% (3/121) |
+| (< 200 mg/dL to ≥ 240 mg/dL) | 2.7%(10/368) | 4.3%(22/516) | 6.3%(6/96) |
+| Triglycerides (< 500 mg/dL to ≥ 500 mg/dL) | 1.1%(2/180) | 2.7%(8/301) | 2.5%(3/121) |
 
 In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n = 231) and +5.5 mg/dL at Week 48 (n = 86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n = 52).
 
@@ -132,7 +131,7 @@ Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in child
 Table 5.
 Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed-Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
 
-|  | Placebo | Risperidone 0.5 to 6 mg/day |
+|  | Placebo | Risperidone0.5 to 6 mg/day |
 | --- | --- | --- |
 |  | Mean change from baseline (mg/dL) |  |
 | Cholesterol | n = 74 | n = 133 |
@@ -167,7 +166,7 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 
 |  |  | Risperidone |  |
 | --- | --- | --- | --- |
-|  | Placebo (n = 597) | 1 to 8 mg/day (n = 769) | > 8 to 16 mg/day (n = 158) |
+|  | Placebo(n = 597) | 1 to 8 mg/day(n = 769) | > 8 to 16 mg/day(n = 158) |
 | Weight (kg) |  |  |  |
 | Change from baseline | -0.3 | 0.7 | 2.2 |
 | Weight Gain |  |  |  |

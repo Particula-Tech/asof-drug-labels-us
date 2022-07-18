@@ -43,7 +43,7 @@ Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater t
 |  | Percentage of Patients Reporting Reaction |  |  |
 | --- | --- | --- | --- |
 |  | Risperidone |  |  |
-| System/Organ Class Adverse Reaction | 2 to 8 mg per day (N = 366) | > 8 to 16 mg per day (N = 198) | Placebo (N = 225) |
+| System/Organ Class Adverse Reaction | 2 to 8 mg per day(N = 366) | > 8 to 16 mg per day (N = 198) | Placebo(N = 225) |
 | Cardiac Disorders |  |  |  |
 | Tachycardia | 1 | 3 | 0 |
 | Eye Disorders |  |  |  |
@@ -101,10 +101,10 @@ Table 9 lists the adverse reactions reported in 5% or more of risperidone-treate
 Table 9.
 Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and greater than placebo) with Schizophrenia in a Double-Blind Trial
 
-|  | Percentage of Patients Reporting Reaction Risperidone |  |  |  |  |  |  |
+|  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Risperidone |  |  |  |  |  |  |
-| System/Organ Class Adverse Reaction | 1 to 3 mg per day (N = 55) | 4 to 6 mg per day (N = 51) | Placebo (N = 54) |  |  |  |  |
+| System/Organ Class Adverse Reaction | 1 to 3 mg per day(N = 55) | 4 to 6 mg per day(N = 51) | Placebo(N = 54) |  |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |  |
 | Salivary hypersecretion | 0 | 10 | 2 |  |  |  |  |
 | Nervous System Disorders |  |  |  |  |  |  |  |
@@ -129,7 +129,7 @@ Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater t
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| System/Organ Class Adverse Reaction | Risperidone 1 to 6 mg per day (N = 448) | Placebo (N = 424) |  |  |  |  |  |  |  |  |
+| System/Organ ClassAdverse Reaction | Risperidone 1 to 6 mg per day(N = 448) | Placebo(N = 424) |  |  |  |  |  |  |  |  |
 | Eye Disorders |  |  |  |  |  |  |  |  |  |  |
 | Vision blurred | 2 | 1 |  |  |  |  |  |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |
@@ -156,7 +156,8 @@ Adverse Reactions in ≥ 2% of Risperidone-Treated Adult Patients (and greater t
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| System/Organ Class Adverse Reaction | Risperidone + Mood Stabilizer (N = 127) | Placebo + Mood Stabilizer (N = 126) |  |  |  |  |  |  |  |  |  |  |  |
+| System/Organ Class | Risperidone + MoodStabilizer | Placebo +Mood Stabilizer |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | (N = 127) | (N = 126) |  |  |  |  |  |  |  |  |  |  |  |
 | Cardiac Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Palpitations | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -189,10 +190,10 @@ Table 12 lists the adverse reactions reported in 5% or more of risperidone-treat
 Table 12.
 Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and greater than placebo) with Bipolar Mania in Double-Blind, Placebo-Controlled Trials
 
-|  | Percentage of Patients Reporting Reaction Risperidone |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Risperidone |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| System/Organ Class Adverse Reaction | 0.5 to 2.5 mg per day (N = 50) | 3 to 6 mg per day (N = 61) | Placebo (N = 58) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Risperidone |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| System/Organ Class Adverse Reaction | 0.5 to 2.5 mg per day(N = 50) | 3 to 6 mg per day(N = 61) | Placebo(N = 58) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Eye Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Vision blurred | 4 | 7 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -230,7 +231,7 @@ Adverse Reactions in ≥ 5% of Risperidone-Treated Pediatric Patients (and great
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| System/Organ Class Adverse Reaction | Risperidone 0.5 to 4 mg/day (N = 107) | Placebo (N = 115) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| System/Organ Class Adverse Reaction | Risperidone0.5 to 4 mg/day(N = 107) | Placebo(N = 115) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Gastrointestinal Disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Vomiting | 20 | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Constipation | 17 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -320,7 +321,7 @@ Adverse Reactions Associated With Discontinuation in 2 or More Risperidone-Treat
 
 |  | Risperidone |  |  |
 | --- | --- | --- | --- |
-| Adverse Reaction | 2 to 8 mg/day (N = 366) | > 8 to 16 mg/day (N = 198) | Placebo (N = 225) |
+| Adverse Reaction | 2 to 8 mg/day(N = 366) | > 8 to 16 mg/day(N = 198) | Placebo(N = 225) |
 | Dizziness | 1.4% | 1% | 0% |
 | Nausea | 1.4% | 0% | 0% |
 | Vomiting | 0.8% | 0% | 0% |
@@ -347,7 +348,7 @@ The adverse reactions associated with discontinuation in risperidone-treated pat
 Table 15.
 Adverse Reactions Associated With Discontinuation in 2 or More Risperidone-Treated Adult Patients in Bipolar Mania Clinical Trials
 
-| Adverse Reaction | Risperidone 1 to 6 mg/day(N = 448) | Placebo (N = 424) |
+| Adverse Reaction | Risperidone1 to 6 mg/day(N = 448) | Placebo(N = 424) |
 | --- | --- | --- |
 | Parkinsonism | 0.4% | 0% |
 | Lethargy | 0.2% | 0% |
@@ -374,7 +375,7 @@ Two methods were used to measure extrapyramidal symptoms (EPS) in an 8-week tria
 
 Table 16.
 
-| Dose Groups | Placebo | Risperidone 2 mg | Risperidone 6 mg | Risperidone 10 mg | Risperidone 16 mg |
+| Dose Groups | Placebo | Risperidone2 mg | Risperidone6 mg | Risperidone10 mg | Risperidone16 mg |
 | --- | --- | --- | --- | --- | --- |
 | Parkinsonism | 1.2 | 0.9 | 1.8 | 2.4 | 2.6 |
 | EPS Incidence | 13% | 17% | 21% | 21% | 35% |

@@ -8,7 +8,7 @@ Dose adjustment is not recommended for risperidone when co-administered with ran
 Table 18.
 Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperidone + 9-Hydroxy-Risperidone) in Healthy Subjects or Patients with Schizophrenia
 
-| Coadministered Drug | Dosing Schedule |  | Effect on Active Moiety (Risperidone + 9-Hydroxy-Risperidone (Ratio*) |  | Risperidone Dose Recommendation |
+| Coadministered Drug | Dosing Schedule |  | Effect on Active Moiety (Risperidone + 9- Hydroxy- Risperidone (Ratio*) |  | Risperidone Dose Recommendation |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Risperidone | AUC | Cmax |  |  |
 | Enzyme (CYP2D6) Inhibitors |  |  |  |  |  |
@@ -16,7 +16,7 @@ Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperid
 | Paroxetine | 10 mg/day | 4 mg/day | 1.3 | - | Re-evaluate dosing. Do not exceed 8 mg/day |
 |  | 20 mg/day | 4 mg/day | 1.6 | - |  |
 |  | 40 mg/day | 4 mg/day | 1.8 | - |  |
-| Enzyme (CYP3A/PgP inducers) Inducers |  |  |  |  |  |
+| Enzyme (CYP3A/ PgP inducers) Inducers |  |  |  |  |  |
 | Carbamazepine | 573 ± 168 mg/day | 3 mg twice daily | 0.51 | 0.55 | Titrate dose upwards. Do not exceed twice the patient’s usual dose |
 | Enzyme (CYP3A) Inhibitors |  |  |  |  |  |
 | Ranitidine | 150 mg twice daily | 1 mg single dose | 1.2 | 1.4 | Dose adjustment not needed |
