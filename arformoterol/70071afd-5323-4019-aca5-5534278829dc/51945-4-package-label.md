@@ -61,3 +61,33 @@ KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE FOR UP TO 6 WEEKS
 30 (6 x 5) x 2 mL Sterile Unit- Dose Vials
 
 Cipla
+
+NDC 69097-168-32 Rx Only
+
+Arformoterol Tartrate
+
+Inhalation Solution
+
+15 mcg* / 2 mL
+
+Potency expressed as arformoterol
+
+One 2 mL Sterile Unit-Dose Vial
+
+Cipla
+
+NDC 69097-168-53 Rx Only
+
+*Potency expressed as arformoterol
+
+15 mcg* / 2 mL
+
+For Oral Inhalation Only.
+
+KEEP REFRIGERATED OR STORE AT ROOM TEMPERATURE
+
+FOR UP TO 6 WEEKS
+
+30 x 2 mL Sterile Unit-Dose Vials, each in a foil pouch.
+
+Cipla

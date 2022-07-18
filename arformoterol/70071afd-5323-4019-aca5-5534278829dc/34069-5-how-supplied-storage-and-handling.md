@@ -11,6 +11,10 @@ NDC 69097-168-87 carton of 30 unit-dose vials (6×5 unit-dose vial pouches)
 
 NDC 69097-168-48 pouch of 5 unit-dose vials
 
+NDC 69097-168-53 carton of 30 individually pouched unit-dose vials
+
+NDC 69097-168-32 pouch of 1 unit-dose vial
+
 Storage and Handling
 
 Store arformoterol tartrate inhalation solution in the protective foil pouch under refrigeration at 36°-46°F (2°-8°C).
