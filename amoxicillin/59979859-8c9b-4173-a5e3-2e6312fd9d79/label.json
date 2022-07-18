@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA050755"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "USAntibiotics, LLC",
+  "package_ndcs": [
+    "81964-003-51",
+    "81964-003-54",
+    "81964-003-69"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AUGMENTIN ES-600"
+    }
+  ],
+  "setid": "59979859-8c9b-4173-a5e3-2e6312fd9d79",
+  "source": "dailymed"
+}

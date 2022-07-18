@@ -1,0 +1,57 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Patient Information)
+
+Administration Instructions
+
+Inform patients to take AUGMENTIN ES-600 every 12 hours with a meal or snack to reduce the possibility of gastrointestinal upset.
+If diarrhea develops and is severe or lasts more than 2 or 3 days, call your doctor.
+
+Allergic Reactions
+
+Counsel patients that AUGMENTIN ES-600 contains a penicillin class drug product that can cause allergic reactions in some individuals.
+
+Severe Cutaneous Adverse Reactions (SCAR)
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop taking AUGMENTIN ES-600 immediately and promptly report the first signs or symptoms of skin rash, mucosal lesions, or any other sign of hypersensitivity [see Warnings and Precautions (5.2)].
+
+Diarrhea
+
+Counsel patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial is discontinued.
+Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibacterial drug.
+If this occurs, patients should contact their physician as soon as possible.
+
+Antibacterial Resistance
+
+Patients should be counseled that antibacterial drugs, including AUGMENTIN ES-600, should only be used to treat bacterial infections.
+Antibacterial drugs do not treat viral infections (e.g., the common cold).
+When AUGMENTIN ES-600 is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by AUGMENTIN ES-600 or other antibacterial drugs in the future.
+
+Storage Instructions
+
+Keep suspension refrigerated.
+Shake well before using.
+When dosing a child with the suspension (liquid) of AUGMENTIN ES-600, use a dosing spoon or medicine dropper.
+Be sure to rinse the spoon or dropper after each use.
+Bottles of suspension of AUGMENTIN ES-600 may contain more liquid than required.
+Follow your doctor's instructions about the amount to use and the days of treatment your child requires.
+Discard any unused medicine.
+
+Phenylketonuria
+
+Counsel patients with phenylketonuria: Each 5 mL of suspension of AUGMENTIN ES-600 contains 7 mg phenylalanine.
+
+Manufactured by:
+
+USAntibiotics, LLC Bristol, TN 37620 (USA)
+
+AUGMENTIN ES-600 is a registered trademark of GlaxoSmithKline and is licensed to USAntibiotics, LLC.
+
+CLINITEST is a registered trademark of Miles, Inc.
+
+AUGMENTIN XR is a registered trademark of GlaxoSmithKline and is licensed to USAntibiotics, LLC.
+
+FLAVORx is a trademark of FLAVORx.
+Inc.

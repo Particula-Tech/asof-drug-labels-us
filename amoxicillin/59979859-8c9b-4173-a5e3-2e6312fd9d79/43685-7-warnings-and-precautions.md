@@ -1,0 +1,52 @@
+# 5 WARNINGS AND PRECAUTIONS
+
+## 5.1 Serious Allergic Reactions, including Anaphylaxis
+
+Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterials, including AUGMENTIN ES-600.
+These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
+Before initiating therapy with AUGMENTIN ES-600, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens.
+If an allergic reaction occurs, discontinue AUGMENTIN ES-600 and institute appropriate therapy.
+
+## 5.2 Severe Cutaneous Adverse Reactions
+
+AUGMENTIN ES-600 may cause severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP).
+If patients develop a skin rash, they should be monitored closely, and AUGMENTIN ES-600 discontinued if lesions progress.
+
+## 5.3 Hepatic Dysfunction
+
+Use AUGMENTIN ES-600 with caution in patients with evidence of hepatic dysfunction.
+Hepatic toxicity associated with the use of AUGMENTIN ES-600 is usually reversible.
+Deaths have been reported (fewer than one death reported per estimated four million prescriptions worldwide).
+These have generally been cases associated with serious underlying diseases or concomitant medications [see Contraindications (4.2) and Adverse Reactions (6.2)].
+
+## 5.4 Clostridioides difficile-Associated Diarrhea (CDAD)
+
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including AUGMENTIN ES-600, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
+Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
+## 5.5 Skin Rash in Patients with Mononucleosis
+
+A high percentage of patients with mononucleosis who receive amoxicillin develop an erythematous skin rash.
+Thus, AUGMENTIN ES-600 should not be administered to patients with mononucleosis.
+
+## 5.6 Potential for Microbial Overgrowth
+
+The possibility of superinfections with mycotic or bacterial pathogens should be kept in mind during therapy.
+If superinfections occur (usually involving Pseudomonas spp. or Candida spp.), the drug should be discontinued, and appropriate therapy instituted.
+
+## 5.7 Phenylketonurics
+
+AUGMENTIN ES-600 contains aspartame which contains phenylalanine.
+Each 5 mL of suspension of AUGMENTIN ES-600 contains 7 mg phenylalanine.
+
+## 5.8 Development of Drug-Resistant Bacteria
+
+Prescribing AUGMENTIN ES-600 in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
