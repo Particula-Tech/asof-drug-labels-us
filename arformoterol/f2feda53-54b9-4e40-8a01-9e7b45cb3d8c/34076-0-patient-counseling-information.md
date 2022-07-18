@@ -50,9 +50,7 @@ Manufactured for:
 
 Alembic Pharmaceuticals, Inc.
 
-750 Route 202, Bridgewater,
-
-NJ 08807 USA
+Bedminster, NJ 07921, USA
 
 Manufactured by:
 
@@ -60,7 +58,7 @@ HOLOPACK® Verpackungstechnik GmbH
 
 Germany
 
-Made in Germany Issued: 02/2021
+Made in Germany Issued: 07/2022
 
 | PATIENT INFORMATION Arformoterol (ar for moe′ ter ole) tartrate inhalation solution |
 | --- |
@@ -74,7 +72,7 @@ Made in Germany Issued: 02/2021
 | How should I store arformoterol tartrate inhalation solution? Store arformoterol tartrate inhalation solution in a refrigerator between 36° to 46°F (2° to 8°C) in the protective foil pouch. Protect from light and excessive heat. Do not open a sealed pouch until you are ready to use a dose of arformoterol tartrate inhalation solution. After opening the pouch, unused unit dose vials should be returned to, and stored in, the pouch. An opened unit dose vial should be used right away. Arformoterol tartrate inhalation solution may also be stored at room temperature between 68º to 77ºF (20º to 25ºC) for up to 6 weeks (42 days). If stored at room temperature, discard arformoterol tartrate inhalation solution if it is not used after 6 weeks or if past the expiration date, whichever is sooner. Space is provided on the packaging to record room temperature storage times. Do not use arformoterol tartrate inhalation solution after the expiration date provided on the foil pouch and unit dose vial. Arformoterol tartrate inhalation solution should be colorless. Throw away (discard) arformoterol tartrate inhalation solution if it is not colorless. Keep arformoterol tartrate inhalation solution and all medicines out of the reach of children. |
 | General information about the safe and effective use of arformoterol tartrate inhalation solution. Medicines are sometimes prescribed for purposes not mentioned in this Patient Information leaflet. Do not use arformoterol tartrate inhalation solution for a condition for which it was not prescribed. Do not give arformoterol tartrate inhalation solution to other people, even if they have the same symptoms that you may have. It may harm them. You can ask your pharmacist or healthcare provider for information about arformoterol tartrate inhalation solution that was written for health professionals. |
 | What are the ingredients in arformoterol tartrate inhalation solution? Active ingredient: arformoterol Inactive ingredients: citric acid and sodium citrate |
-| Manufactured for: Alembic Pharmaceuticals, Inc. 750 Route 202, Bridgewater, NJ 08807 USA Manufactured by: HOLOPACK® Verpackungstechnik GmbH Germany Made in Germany Issued: 02/2021 |
+| Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Manufactured by: HOLOPACK® Verpackungstechnik GmbH Germany Made in Germany Issued: 07/2022 |
 
 Instructions for Using arformoterol tartrate inhalation solution
 
@@ -113,9 +111,7 @@ Manufactured for:
 
 Alembic Pharmaceuticals, Inc.
 
-750 Route 202, Bridgewater,
-
-NJ 08807 USA
+Bedminster, NJ 07921, USA
 
 Manufactured by:
 
@@ -123,6 +119,6 @@ HOLOPACK® Verpackungstechnik GmbH
 
 Germany
 
-Made in Germany Issued: 02/2021
+Made in Germany Issued: 07/2022
 
 .
