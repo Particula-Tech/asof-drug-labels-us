@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA203314"
+  ],
+  "inn": "insulin-degludec",
+  "labeler": "Novo Nordisk Pharma, Inc.",
+  "package_ndcs": [
+    "73070-400-11",
+    "73070-403-15",
+    "73070-503-15"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin degludec",
+      "name": "Insulin Degludec"
+    }
+  ],
+  "setid": "c1be283d-4b1d-4996-b2a7-4488dbff3037",
+  "source": "dailymed"
+}

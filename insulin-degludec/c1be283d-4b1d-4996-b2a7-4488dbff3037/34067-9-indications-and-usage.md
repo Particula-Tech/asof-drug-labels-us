@@ -1,0 +1,7 @@
+# 1 INDICATIONS AND USAGE
+
+Insulin Degludec is indicated to improve glycemic control in patients 1 year of age and older with diabetes mellitus.
+
+Limitations of Use
+
+- •Not recommended for the treatment of diabetic ketoacidosis.

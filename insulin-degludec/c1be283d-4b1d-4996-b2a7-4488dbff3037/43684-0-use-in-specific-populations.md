@@ -1,0 +1,94 @@
+# 8 USE IN SPECIFIC POPULATIONS
+
+## 8.1 Pregnancy
+
+Risk Summary
+
+Available data from one unpublished trial and the published literature with Insulin Degludec use during pregnancy have not identified a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+In a randomized, parallel-group, open-label actively controlled clinical trial that included 91 pregnant women with type 1 diabetes who were administered Insulin Degludec once daily and insulin aspart, beginning in gestational weeks 8 to 13 or prior to conception, no clear evidence of maternal or fetal risk associated with Insulin Degludec use was observed (see Data).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
+
+Rats and rabbits were exposed to insulin degludec in animal reproduction studies during organogenesis.
+Pre-and post-implantation losses and visceral/skeletal abnormalities were observed in rats at doses 5 times (rat) and at 10 times (rabbit) the human exposure at a dose of 0.75 U/kg/day.
+These effects were similar to those observed in rats administered human insulin (NPH) (see Data).
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a peri-conceptional HbA1c >7 and has been reported to be as high as 20 to 25% in women with a peri-conceptional HbA1c >10.
+The estimated background risk of miscarriage for the indicated population is unknown.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/fetal Risk
+
+Hypoglycemia and hyperglycemia occur more frequently during pregnancy in patients with pre-gestational diabetes.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
+
+Data
+
+Human Data
+
+In an open-label clinical trial, 185 pregnant females with type 1 diabetes were treated with either Insulin Degludec (once daily) or insulin detemir (once or twice daily); both groups received insulin aspart 2 to 4 times daily with meals.
+There were no significant drug-associated differences in pregnancy outcomes or the health of the fetus and newborn between the two groups.
+In this study, the proportion of subjects with severe hypoglycemia and hypoglycemia was similar between the two treatment arms; for the definitions of severe hypoglycemia and hypoglycemia [see Adverse Reactions (6.1)].
+Poor glucose control during pregnancy in both groups and small sample size were limitations of the study.
+
+In about two thirds of infants, insulin degludec was detected in the infant cord blood at levels above the lower level of quantification of the assay.
+
+Animal Data
+
+Insulin degludec was investigated in studies covering fertility, embryo-fetal development and pre- and post-natal development in rats and during the period of embryo-fetal development in rabbits.
+Human insulin (NPH insulin) was included as comparator.
+In these studies, insulin degludec caused pre- and post-implantation losses and visceral/skeletal abnormalities when given subcutaneously at up to 21 U/kg/day in rats and 3.3 U/kg/day in rabbits, resulting in 5 times (rat) and 10 times (rabbit) the human exposure (AUC) at a human subcutaneous dose of 0.75 U/kg/day.
+Overall, the effects of insulin degludec were similar to those observed with human insulin, which were probably secondary to maternal hypoglycemia.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of insulin degludec in human milk, the effects on the breastfed infant, or the effects on milk production.
+Insulin degludec is present in rat milk [see Data].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Insulin Degludec and any potential adverse effects on the breastfed infant from Insulin Degludec or from the underlying maternal condition.
+
+Data
+
+In lactating rats, insulin degludec was present in milk at a concentration lower than that in plasma.
+
+## 8.4 Pediatric Use
+
+The safety and effectiveness of Insulin Degludec to improve glycemic control in pediatric patients 1 year of age or older with diabetes mellitus have been established.
+The use of Insulin Degludec for this indication is supported by evidence from an adequate and well-controlled trial and a pharmacokinetic study (trials included pediatric patients 1 year of age and older with type 1 diabetes mellitus) [see Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+The use of Insulin Degludec in pediatric patients 1 year of age and older with type 2 diabetes mellitus is also supported by evidence from adequate and well-controlled trials in adults with type 2 diabetes mellitus [see Clinical Studies (14.3)].
+
+In pediatric patients 1 year of age and older already on insulin therapy, start Insulin Degludec at a reduced dose to minimize the risk of hypoglycemia [see Dosage and Administration (2.4)].
+
+The safety and effectiveness of Insulin Degludec have not been established in pediatric patients less than 1-year-old.
+
+## 8.5 Geriatric Use
+
+In controlled clinical trials [see Clinical Studies (14)] a total of 77 (7%) of the 1102 Insulin Degludec-treated patients with type 1 diabetes were 65 years or older and 9 (1%) were 75 years or older.
+A total of 670 (25%) of the 2713 Insulin Degludec-treated patients with type 2 diabetes were 65 years or older and 80 (3%) were 75 years or older.
+Differences in safety or effectiveness were not suggested in subgroup analyses comparing subjects older than 65 years to younger subjects.
+
+In the safety outcomes trial (DEVOTE), a total of 1983 (52%) of the 3818 Insulin Degludec-treated patients with type 2 diabetes were 65 years or older and 381 (10%) were 75 years or older.
+Differences in safety or effectiveness were not observed in these subgroup analyses.
+
+Nevertheless, greater caution should be exercised when Insulin Degludec is administered to geriatric patients since greater sensitivity of some older individuals to the effects of Insulin Degludec cannot be ruled out.
+The initial dosing, dose increments, and maintenance dosage should be conservative to avoid hypoglycemia.
+Hypoglycemia may be more difficult to recognize in the geriatric patients.
+
+## 8.6 Renal Impairment
+
+In clinical trials [see Clinical Studies (14)] a total of 75 (7%) of the 1102 Insulin Degludec-treated patients with type 1 diabetes had an eGFR less than 60 mL/min/1.73 m2 and 1 (0.1%) had an eGFR less than 30 mL/min/1.73 m2.
+A total of 250 (9%) of the 2713 Insulin Degludec-treated patients with type 2 diabetes had an eGFR less than 60 mL/min/1.73 m2 and no subjects had an eGFR less than 30 mL/min/1.73 m2.
+
+In the safety outcomes trial (DEVOTE), a total of 1429 (37.4%) of the 3818 Insulin Degludec-treated patients with type 2 diabetes had an eGFR less than 60 mL/min/1.73 m2, and 108 (2.8%) subjects had an eGFR less than 30 mL/min/1.73 m2.
+Differences in safety or effectiveness were not observed in the subgroup analyses.
+
+No clinically relevant difference in the pharmacokinetics of Insulin Degludec was identified in a study comparing healthy subjects and subjects with kidney impairment including subjects with end stage kidney disease [see Clinical Pharmacology (12.3)].
+However, as with all insulin products, glucose monitoring should be intensified and the Insulin Degludec dosage adjusted on an individual basis in patients with kidney impairment.
+
+## 8.7 Hepatic Impairment
+
+No difference in the pharmacokinetics of Insulin Degludec was identified in a study comparing healthy subjects and subjects with hepatic impairment (mild, moderate, and severe hepatic impairment) [see Clinical Pharmacology (12.3)].
+However, as with all insulin products, glucose monitoring should be intensified and the Insulin Degludec dosage adjusted on an individual basis in patients with hepatic impairment.
