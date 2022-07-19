@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA214752"
+  ],
+  "inn": "atropine",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "60219-1748-2",
+    "60219-1749-3",
+    "60219-1750-8"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "atropine sulfate",
+      "name": "Atropine"
+    }
+  ],
+  "setid": "f8718be5-8fa4-4c36-a4fd-fac7c3953f5a",
+  "source": "dailymed"
+}
