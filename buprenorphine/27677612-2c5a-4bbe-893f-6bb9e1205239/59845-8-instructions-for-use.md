@@ -12,8 +12,10 @@ Preparing to take SUBUTEX sublingual tablets:
 
 - Put the tablets under your tongue.
   Let them dissolve completely.
-- While SUBUTX sublingual tablet is dissolving, do not chew or swallow the tablet because the medicine will not work as well.
+- While SUBUTEX sublingual tablet is dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - Talking while the tablet is dissolving can affect how well the medicine in SUBUTEX sublingual tablet is absorbed.
+- After SUBUTEX is completely dissolved, rinse your mouth with water and swallow.
+  Wait for at least one hour before brushing teeth.
 - If you miss a dose of SUBUTEX sublingual tablet, take your medicine when you remember.
   If it is almost time for your next dose, skip the missed dose and take the next dose at your regular time.
   Do not take 2 doses at the same time unless your healthcare provider tells you to.
@@ -41,4 +43,4 @@ If you need help with disposal of SUBUTEX sublingual tablet, call 1‐877‐782�
 
 SUBUTEX® is a registered trademark of Indivior UK Limited.
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
-Revised 03/2021
+Revised 06/2022

@@ -56,7 +56,7 @@ Interpretation of data is complicated further by the lack of information on untr
 Rather, women on another form of opioid medication-assisted treatment, or women in the general population are generally used as the comparison group.
 However, women in these comparison groups may be different from women prescribed buprenorphine-containing products with respect to maternal factors that may lead to poor pregnancy outcomes.
 
-In a multicenter, double-blind, randomized, controlled trial [Maternal Opioid Treatment: Human Experimental Research (MOTHER)] designed primarily to assess neonatal opioid withdrawal effects, opioid-dependent pregnant women were randomized to buprenorphine (n=86) or methadone (n=89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
+In a multicenter, double-blind, randomized, controlled trial [Maternal Opioid Treatment: Human Experimental Research (MOTHER)] designed primarily to assess neonatal opioid withdrawal effects, opioid-dependent pregnant women were randomized to buprenorphine (n = 86) or methadone (n = 89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
 A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 women in the methadone group (18%) discontinued treatment before the end of pregnancy.
 
 Among women who remained in treatment until delivery, there was no difference between buprenorphine-treated and methadone-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
@@ -103,7 +103,7 @@ Advise breastfeeding women taking buprenorphine products to monitor the infant f
 
 Data
 
-Data were consistent from two studies (N=13) of breastfeeding infants whose mothers were maintained on sublingual doses of buprenorphine ranging from 2.4 to 24 mg/day, showing that the infants were exposed to less than 1% of the maternal daily dose.
+Data were consistent from two studies (N = 13) of breastfeeding infants whose mothers were maintained on sublingual doses of buprenorphine ranging from 2.4 to 24 mg/day, showing that the infants were exposed to less than 1% of the maternal daily dose.
 
 In a study of six lactating women who were taking a median sublingual buprenorphine dose of 0.29 mg/kg/day 5 to 8 days after delivery, breast milk provided a median infant dose of 0.42 mcg/kg/day of buprenorphine and 0.33 mcg/kg/day of norbuprenorphine, equal to 0.2% and 0.12%, respectively, of the maternal weight-adjusted dose (relative dose/kg (%) of norbuprenorphine was calculated from the assumption that buprenorphine and norbuprenorphine are equipotent).
 

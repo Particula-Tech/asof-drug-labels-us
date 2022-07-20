@@ -9,9 +9,9 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
 - Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.14)]
-- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.15)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.16)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.16)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.17)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -29,7 +29,7 @@ Adverse Events ≥ 5% by Body System and Treatment Group in a 4-week study
 
 |  | N (%) | N (%) |
 | --- | --- | --- |
-| Body System / Adverse Event (COSTART Terminology) | SUBUTEX 16 mg/day N=103 | Placebo N=107 |
+| Body System / Adverse Event (COSTART Terminology) | SUBUTEX 16 mg/day N = 103 | Placebo N = 107 |
 | Body as a Whole |  |  |
 | Asthenia | 5 (4.9%) | 7 (6.5%) |
 | Chills | 8 (7.8%) | 8 (7.5%) |
@@ -61,7 +61,7 @@ Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week Study
 
 | Body System /Adverse Event (COSTART Terminology) | Buprenorphine Dose* |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Very Low* (N=184) | Low* (N=180) | Moderate* (N=186) | High* (N=181) | Total* (N=731) |  |
+| Very Low* (N = 184) | Low* (N = 180) | Moderate* (N = 186) | High* (N = 181) | Total* (N = 731) |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
@@ -113,4 +113,4 @@ Anaphylaxis: Anaphylaxis has been reported with ingredients contained in SUBUTEX
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
-Local reactions: Glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis.
+Local reactions: Dental decay (including caries, tooth fracture, and tooth loss), glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis.

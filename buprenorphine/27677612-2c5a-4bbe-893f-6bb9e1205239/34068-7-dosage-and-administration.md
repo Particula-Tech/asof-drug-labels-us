@@ -49,7 +49,7 @@ Patients dependent upon methadone or other long-acting opioid products may be mo
 
 There is little controlled experience with the transfer of methadone-maintained patients to buprenorphine.
 Available evidence suggests that withdrawal signs and symptoms are possible during induction onto buprenorphine.
-Withdrawal appears more likely in patients maintained on higher doses of methadone (>30 mg) and when the first buprenorphine dose is administered shortly after the last methadone dose.
+Withdrawal appears more likely in patients maintained on higher doses of methadone (> 30 mg) and when the first buprenorphine dose is administered shortly after the last methadone dose.
 
 ## 2.5 Maintenance
 
@@ -74,6 +74,9 @@ Either way, the patients should continue to hold the tablets under the tongue un
 To ensure consistency in bioavailability, patients should follow the same manner of dosing with continued use of the product.
 
 Proper administration technique should be demonstrated to the patient.
+
+Advise patients to do the following after the product has completely dissolved in the oral mucosa: take a sip of water, swish gently around the teeth and gums, and swallow.
+Advise patients to wait for at least one hour after taking SUBUTEX before brushing teeth [see Warnings and Precautions (5.13), Postmarketing Experience (6.2), Information for Patients (17), and the Medication Guide].
 
 ## 2.7 Clinical Supervision
 
