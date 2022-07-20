@@ -3,7 +3,7 @@
 The safety and efficacy of Verkazia for the treatment of VKC was evaluated in two randomized, multi-center, double-masked, vehicle-controlled, clinical trials (VEKTIS Study NCT01751126 and NOVATIVE Study NCT00328653).
 
 In the VEKTIS study, patients with severe VKC were randomized to four times daily of Verkazia 1 mg/mL or two times daily (BID) of Verkazia 1 mg/mL and vehicle group for the first 4 months (Period 1).
-Similarly, in the NOVATIVE study, patients with moderate to severe VKC were randomized to QID of Verkazia 1 mg/mL or QID of cyclosporine ophthalmic emulsion 0.5 mg/mL) and vehicle group for the first 1 month (Period 1).
+Similarly, in the NOVATIVE study, patients with moderate to severe VKC were randomized to QID of Verkazia 1 mg/mL or QID of cyclosporine ophthalmic emulsion 0.5 mg/mL and vehicle group for the first 1 month (Period 1).
 In both studies, patients randomized to the vehicle group were switched to Verkazia (QID or BID) from Month 4 to Month 12 in VEKTIS Study and to cyclosporine ophthalmic emulsion 0.5 mg/mL QID or 1 mg/mL from Month 1 to Month 4 in NOVATIVE Study (Period 2).
 
 A total of 168 and 118 patients were enrolled in the VEKTIS and NOVATIVE studies for the efficacy analyses, respectively.
@@ -16,16 +16,16 @@ The results at each month are presented in Table 2 for the CFS score and in Tabl
 
 Table 2: Efficacy Results of the Mean Change in Keratitis Score from Baseline at Each Visit (Full Analysis Set)
 
-[1] Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizonatl lines) are based on ANCOVA model including baseline CFS score and the proportion of time potentially spent in taking study medication during the VKC season as covariate.
+[1] Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizontal lines) are based on ANCOVA model including baseline CFS score and the proportion of time potentially spent in taking study medication during the VKC season as covariate.
 For subjects that received rescue therapy during the study, all post-rescue data were imputed by the last available data observed prior to rescue initiation.
 
-Note 1: CFS score was measured at each month using a 5-point scale (0=no stain, and 5 = more stain).
+Note 1: CFS score was measured at each month using a 5-point scale (0 = no stain, and 5 = more stain).
 
 Note 2: The Full Analysis Set included all randomized subjects that received at least one drop of study medication.
 
 Table 3: Efficacy Results of the Mean Change in Itching Score from Baseline at Each Visit (Full Analysis Set)
 
-[1] Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizonatl lines) are based on ANCOVA model including baseline Itching score and the proportion of time potentially spent in taking study medication as covariate.
+[1] Treatment differences (numbers in the middle of the horizontal lines) and 95% confidence intervals (horizontal lines) are based on ANCOVA model including baseline Itching score and the proportion of time potentially spent in taking study medication as covariate.
 For subjects that received rescue therapy during the study, all post-rescue data were imputed by the last available data observed prior to rescue initiation.
 
 Note 1: Itching score at each visit was measured using a Visual Analogue Scale (0 = no itch to 100 = maximal itch).
