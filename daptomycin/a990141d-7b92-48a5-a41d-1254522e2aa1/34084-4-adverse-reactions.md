@@ -2,13 +2,13 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Anaphylaxis/hypersensitivity reactions [see Warnings and Precautions (5.1)]
-- Myopathy and rhabdomyolysis [see Warnings and Precautions (5.2)]
-- Eosinophilic pneumonia [see Warnings and Precautions (5.3)]
-- Drug reaction with eosinophilia and systemic symptoms [see Warnings and Precautions (5.4)]
-- Tubulointerstitial nephritis [see Warnings and Precautions (5.5.)]
-- Peripheral neuropathy [see Warnings and Precautions (5.6)]
-- Increased International Normalized Ratio (INR)/prolonged prothrombin time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
+- Anaphylaxis/Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.2)]
+- Eosinophilic Pneumonia [see Warnings and Precautions (5.3)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms [see Warnings and Precautions (5.4)]
+- Tubulointerstitial Nephritis [see Warnings and Precautions (5.5)]
+- Peripheral Neuropathy [see Warnings and Precautions (5.6)]
+- Increased International Normalized Ratio (INR)/Prolonged Prothrombin Time [see Warnings and Precautions (5.11) and Drug Interactions (7.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,27 +26,27 @@ The rates of the most common adverse reactions, organized by body system, observ
 
 Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the Daptomycin for Injection Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
 
-| Adverse Reaction | Adult Patients (%) |  |  |
-| --- | --- | --- | --- |
-| Daptomycin for Injection 4 mg/kg |  | Comparator* |  |
-|  |  | (N=534) | (N=558) |
-| Gastrointestinal disorders |  |  |  |
-| Diarrhea |  | 5.2 | 4.3 |
-| Nervous system disorders |  |  |  |
-| Headache |  | 5.4 | 5.4 |
-| Dizziness |  | 2.2 | 2.0 |
-| Skin/subcutaneous disorders |  |  |  |
-| Rash |  | 4.3 | 3.8 |
-| Diagnostic investigations |  |  |  |
-| Abnormal liver function tests |  | 3.0 | 1.6 |
-| Elevated CPK |  | 2.8 | 1.8 |
-| Infections |  |  |  |
-| Urinary tract infections |  | 2.4 | 0.5 |
-| Vascular disorders |  |  |  |
-| Hypotension |  | 2.4 | 1.4 |
-| Respiratory disorders |  |  |  |
-| Dyspnea |  | 2.1 | 1.6 |
-| *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |  |
+| Adverse Reaction | Adult Patients (%) |  |
+| --- | --- | --- |
+| Daptomycin for Injection 4 mg/kg | Comparator* |  |
+|  | (N=534) | (N=558) |
+| Gastrointestinal disorders |  |  |
+| Diarrhea | 5.2 | 4.3 |
+| Nervous system disorders |  |  |
+| Headache | 5.4 | 5.4 |
+| Dizziness | 2.2 | 2.0 |
+| Skin/subcutaneous disorders |  |  |
+| Rash | 4.3 | 3.8 |
+| Diagnostic investigations |  |  |
+| Abnormal liver function tests | 3.0 | 1.6 |
+| Elevated CPK | 2.8 | 1.8 |
+| Infections |  |  |
+| Urinary tract infections | 2.4 | 0.5 |
+| Vascular disorders |  |  |
+| Hypotension | 2.4 | 1.4 |
+| Respiratory disorders |  |  |
+| Dyspnea | 2.1 | 1.6 |
+| *Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). |  |  |
 
 Drug-related adverse reactions (possibly or probably drug-related) that occurred in <1% of adult patients receiving daptomycin for injection in the cSSSI trials are as follows:
 
@@ -122,7 +122,13 @@ Infections and Infestations: candidal infection NOS, vaginal candidiasis, fungem
 
 Investigations: blood phosphorous increased, blood alkaline phosphatase increased, INR increased, liver function test abnormal, alanine aminotransferase increased, aspartate aminotransferase increased, prothrombin time prolonged
 
-Metabolism and Nutrition Disorders: appetite decreased NOS Musculoskeletal and Connective Tissue Disorders: myalgia Nervous System Disorders: dyskinesia, paresthesia Psychiatric Disorders: hallucination NOS
+Metabolism and Nutrition Disorders: appetite decreased NOS
+
+Musculoskeletal and Connective Tissue Disorders: myalgia
+
+Nervous System Disorders: dyskinesia, paresthesia
+
+Psychiatric Disorders: hallucination NOS
 
 Renal and Urinary Disorders: proteinuria, renal impairment NOS
 
@@ -238,9 +244,7 @@ Blood and lymphatic system disorders: anemia, thrombocytopenia
 
 General and administration site conditions: pyrexia
 
-Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see
-
-Contraindications (4), Warnings and Precautions (5.1)]
+Immune System Disorders: anaphylaxis; hypersensitivity reactions, including angioedema, pruritus, hives, shortness of breath, difficulty swallowing, truncal erythema, and pulmonary eosinophilia [see Contraindications (4) and Warnings and Precautions (5.1)]
 
 Infections and Infestations: Clostridioides difficile–associated diarrhea [see Warnings and Precautions (5.8)] Laboratory Investigations: platelet count decreased
 
@@ -250,7 +254,7 @@ Respiratory, Thoracic, and Mediastinal Disorders: cough, eosinophilic pneumonia,
 
 Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5.6)]
 
-Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome and vesiculobullous rash (with or without mucous membrane involvement), acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
+Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
 
 Gastrointestinal Disorders: nausea, vomiting
 
