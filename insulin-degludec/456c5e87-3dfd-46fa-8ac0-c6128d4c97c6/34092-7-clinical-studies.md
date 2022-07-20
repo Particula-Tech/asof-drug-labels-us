@@ -14,11 +14,11 @@ Study A
 The efficacy of TRESIBA was evaluated in a 52-week randomized, open-label, multicenter trial in 629 patients with type 1 diabetes mellitus (Study A). Patients were randomized to TRESIBA once-daily with the evening meal or insulin glargine U-100 once-daily according to the approved labeling.
 Insulin aspart was administered before each meal in both treatment arms.
 
-The mean age of the trial population was 43 years and mean duration of diabetes was 18.9 years.
-58.5% were male.
-93% were White, 1.9% Black or African American.
-5.1% were Hispanic.
-8.6% of patients had eGFR<60 mL/min/1.73m2.
+The mean age of the trial population was 43 years and mean duration of diabetes was 19 years.
+59% were male.
+93% were White, 2% Black or African American.
+5% were Hispanic.
+9% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 26.3 kg/m2.
 
 At week 52, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was -0.01% with a 95% confidence interval of [-0.14%; 0.11%] and met the pre-specified non-inferiority margin (0.4%).
@@ -28,15 +28,15 @@ Study B
 
 The efficacy of TRESIBA was evaluated in a 26-week randomized, open-label, multicenter trial in 455 patients with type 1 diabetes mellitus (Study B). Patients were randomized to TRESIBA or insulin detemir once-daily in the evening.
 After 8 weeks, insulin detemir could be dosed twice-daily.
-67.1% used insulin detemir once daily at end of trial.
-32.9% used insulin detemir twice daily at end of trial.
+67% used insulin detemir once daily at end of trial.
+33% used insulin detemir twice daily at end of trial.
 Insulin aspart was administered before each meal in both treatment arms.
 
-The mean age of the trial population was 41.3 years and mean duration of diabetes was 13.9 years.
-51.9% were male.
-44.6% were White, 0.4% Black or African American.
-4.4% were Hispanic.
-4.4% of patients had eGFR<60 mL/min/1.73m2.
+The mean age of the trial population was 41 years and mean duration of diabetes was 14 years.
+52% were male.
+45% were White, 0.4% Black or African American.
+4% were Hispanic.
+4% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 23.9 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA and insulin detemir was -0.09% with a 95% confidence interval of [-0.23%; 0.05%] and met the pre-specified non-inferiority margin (0.4%).
@@ -79,11 +79,11 @@ The any time each day TRESIBA arm was designed to simulate a worst-case scenario
 TRESIBA in this arm was dosed in the morning on Monday, Wednesday, and Friday and in the evening on Tuesday, Thursday, Saturday, and Sunday.
 Insulin aspart was administered before each meal in all treatment arms.
 
-The mean age of the trial population was 43.7 years and mean duration of diabetes was 18.5 years.
-57.6% were male.
-97.6% were White, 1.8% Black or African American.
-3.4% were Hispanic.
-7.4% of patients had eGFR<60 mL/min/1.73m2.
+The mean age of the trial population was 43.7 years and mean duration of diabetes was 19 years.
+58% were male.
+98% were White, 2% Black or African American.
+3% were Hispanic.
+7% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 26.7 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA administered at alternating times and insulin glargine U-100 was 0.17% with a 95% confidence interval of [0.04%; 0.30%] and met the pre-specified non-inferiority margin (0.4%).
@@ -117,7 +117,7 @@ In Study C, there were 15.8% and 15.9% of subjects in the TRESIBA (same time and
 
 ## 14.2 Type 1 Diabetes – Pediatric Patients 1 Year of Age and Older
 
-Study J:TRESIBA Administered at the Same Time Each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes in Pediatric Patients 1 Year of Age and Older
+Study J: TRESIBA Administered at the Same Time Each Day in Combination with a Rapid-Acting Insulin Analog at Mealtimes in Pediatric Patients 1 Year of Age and Older
 
 The efficacy of TRESIBA was evaluated in a 26-week, randomized, open label, multicenter trial in 350 patients with type 1 diabetes mellitus (Study J). Patients were randomized to TRESIBA once-daily or insulin detemir once or twice-daily.
 Subjects on a twice-daily insulin detemir regimen were dosed at breakfast and in the evening either with the main evening meal or at bedtime.
@@ -126,9 +126,9 @@ At end of trial, 36% used insulin detemir once daily and 64% used insulin detemi
 
 The mean age of the trial population was 10 years; 24% were ages 1-5 years; 39% were ages 6-11 years and 36% were ages 12-17 years.
 The mean duration of diabetes was 4 years.
-55.4% were male.
-74.6% were White, 2.9% Black or African American.
-2.9% were Hispanic.
+55% were male.
+75% were White, 3% Black or African American.
+3% were Hispanic.
 The mean z-score for body weight was 0.31.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA and insulin detemir was 0.15% with a 95% confidence interval of [-0.03%; 0.33%] and met the pre-specified non-inferiority margin (0.4%).
@@ -164,18 +164,18 @@ Study D: TRESIBA Administered at the Same Time Each Day as an Add-on to Metformi
 
 The efficacy of TRESIBA was evaluated in a 52-week randomized, open-label, multicenter trial that enrolled 1030 insulin naïve patients with type 2 diabetes mellitus inadequately controlled on one or more oral antidiabetic agents (OADs).
 Patients were randomized to TRESIBA once-daily with the evening meal or insulin glargine U-100 once-daily according to the approved labeling.
-Metformin alone (82.5%) or in combination with a DPP-4 inhibitor (17.5%) was used as background therapy in both treatment arms.
+Metformin alone (83%) or in combination with a DPP-4 inhibitor (18%) was used as background therapy in both treatment arms.
 
-The mean age of the trial population was 59.1 years and mean duration of diabetes was 9.2 years.
-61.9% were male.
-88.4% were White, 7.1% Black or African American.
-17.2% were Hispanic.
-9.6% of patients had eGFR<60 mL/min/1.73m2.
+The mean age of the trial population was 59 years and mean duration of diabetes was 9 years.
+62% were male.
+88% were White, 7% Black or African American.
+17% were Hispanic.
+10% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 31.1 kg/m2.
 
 At week 52, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was 0.09% with a 95% confidence interval of [-0.04%; 0.22%] and met the pre-specified non-inferiority margin (0.4%); See Table 9.
 
-Table 9: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-100in Adult Patients with Type 2 Diabetes Mellitus on OAD(s)*
+Table 9: Results at Week 52 in a Trial Comparing TRESIBA to Insulin Glargine U-100 in Adult Patients with Type 2 Diabetes Mellitus on OAD(s)*
 
 |  | TRESIBA + OAD(s)* |  | Insulin glargine U-100 + OAD(s)* |
 | --- | --- | --- | --- |
@@ -204,11 +204,11 @@ The efficacy of TRESIBA U-200 was evaluated in a 26-week randomized, open-label,
 Patients were randomized to TRESIBA U-200 once-daily with the evening meal or insulin glargine U-100 once-daily according to the approved labeling.
 Both treatment arms were receiving metformin alone (84%) or in combination with a DPP-4 inhibitor (16%) as background therapy.
 
-The mean age of the trial population was 57.5 years and mean duration of diabetes was 8.2 years.
-53.2% were male.
-78.3% were White, 13.8% Black or African American.
-7.9% were Hispanic.
-7.5% of patients had eGFR <60 mL/min/1.73m2.
+The mean age of the trial population was 58 years and mean duration of diabetes was 8 years.
+53% were male.
+78% were White, 14% Black or African American.
+8% were Hispanic.
+8% of patients had eGFR <60 mL/min/1.73m2.
 The mean BMI was approximately 32.4 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA U-200 and insulin glargine U-100 was 0.04% with a 95% confidence interval of [-0.11%; 0.19%] and met the pre-specified non-inferiority margin (0.4%).
@@ -243,10 +243,10 @@ The efficacy of TRESIBA was evaluated in a 26-week randomized, open-label, multi
 Patients were randomized to TRESIBA once-daily in the evening or insulin glargine U-100 once-daily according to the approved labeling.
 Pre-trial oral antidiabetes agents were continued as background therapy except for DPP-4 inhibitors or thiazolidinediones in both treatment arms.
 
-The mean age of the trial population was 58.6 years and mean duration of diabetes was 11.6 years.
-53.6% were male.
+The mean age of the trial population was 59 years and mean duration of diabetes was 12 years.
+54% were male.
 All patients were Asian.
-10.9% of patients had eGFR<60 mL/min/1.73m2.
+11% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 25.0 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was 0.11% with a 95% confidence interval of [-0.03%; 0.24%] and met the pre-specified non-inferiority margin (0.4%).
@@ -283,11 +283,11 @@ The any time each day TRESIBA arm was designed to simulate a worst-case scenario
 TRESIBA in this arm was dosed in the morning on Monday, Wednesday, and Friday and in the evening on Tuesday, Thursday, Saturday, and Sunday.
 Up to three of the following oral antidiabetes agents (metformin, sulfonylureas, glinides or thiazolidinediones) were administered as background therapy in both treatment arms.
 
-The mean age of the trial population was 56.4 years and mean duration of diabetes was 10.6 years.
-53.9% were male.
-66.7% were White, 2.5% Black or African American.
-10.6% were Hispanic.
-5.8% of patients had eGFR<60 mL/min/1.73m2.
+The mean age of the trial population was 56 years and mean duration of diabetes was 11 years.
+54% were male.
+67% were White, 3% Black or African American.
+11% were Hispanic.
+6% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 29.6 kg/m2.
 
 At week 26, the difference in HbA1c reduction from baseline between TRESIBA at alternating times and insulin glargine U-100 was 0.04% with a 95% confidence interval of [-0.12%; 0.20%].
@@ -325,11 +325,11 @@ Patients were randomized to TRESIBA once-daily with the main evening meal or ins
 Insulin aspart was administered before each meal in both treatment arms.
 Up to two of the following oral antidiabetes agents (metformin or pioglitazone) were used as background therapy in both treatment arms.
 
-The mean age of the trial population was 58.9 years and mean duration of diabetes was 13.5 years.
-54.2% were male.
-82.9% were White, 9.5% Black or African American.
-12.0% were Hispanic.
-12.4% of patients had eGFR<60 mL/min/1.73m2.
+The mean age of the trial population was 59 years and mean duration of diabetes was 14 years.
+54% were male.
+83% were White, 10% Black or African American.
+12% were Hispanic.
+12% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 32.2 kg/m2.
 
 At week 52, the difference in HbA1c reduction from baseline between TRESIBA and insulin glargine U-100 was 0.08% with a 95% confidence interval of [-0.05%; 0.21%] and met the pre-specified non-inferiority margin (0.4%).
@@ -367,10 +367,10 @@ The efficacy of TRESIBA was evaluated in a 26-week randomized, open-label, multi
 Patients were randomized to TRESIBA once-daily at any time of day or sitagliptin once-daily according to the approved labeling.
 One or two of the following oral antidiabetes agents (metformin, sulfonylurea or pioglitazone) were also administered in both treatment arms.
 
-The mean age of the trial population was 55.7 years and mean duration of diabetes was 7.7 years.
-58.6% were male.
-61.3% were White, 7.6% Black or African American.
-21.0% were Hispanic.
+The mean age of the trial population was 56 years and mean duration of diabetes was 8 years.
+59% were male.
+61% were White, 8% Black or African American.
+21% were Hispanic.
 6% of patients had eGFR<60 mL/min/1.73m2.
 The mean BMI was approximately 30.4 kg/m2.
 
@@ -412,9 +412,9 @@ Each was administered once-daily between dinner and bedtime in addition to stand
 Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure (85% of the enrolled population) or were 60 years of age or older and had other specified risk factors for cardiovascular disease (15% of the enrolled population).
 
 At baseline, demographic and disease characteristics were balanced between treatment groups.
-The mean age of the trial population was 65 years and the mean duration of diabetes was 16.4 years.
-The population was 62.6% male, 75.6% White 10.9% Black or African American, 10.2% Asian.
-14.9% had Hispanic ethnicity.
+The mean age of the trial population was 65 years and the mean duration of diabetes was 16 years.
+The population was 63% male, 76% White 11% Black or African American, 10% Asian.
+15% had Hispanic ethnicity.
 The mean HbA1c was 8.4% and the mean BMI was 33.6 kg/m2.
 The baseline mean estimated glomerular filtration rate (eGFR) was 68 mL/min/1.73m2.
 41% of patients had eGFR 60-90 mL/min/1.73m2; 35% of patients had eGFR 30 to 60 mL/min/1.73 m2 and 3% of patients had eGFR <30 mL/min/1.73 m2.
@@ -433,7 +433,7 @@ The incidence of major cardiovascular events with TRESIBA was evaluated in DEVOT
 Subjects treated with TRESIBA had a similar incidence of major adverse cardiovascular events (MACE) when compared to those treated with insulin glargine U-100.
 
 The primary endpoint in DEVOTE was time from randomization to the first occurrence of a 3-component major adverse cardiovascular event (MACE): cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
-The study was designed to exclude a pre-specified risk margin of 1.3 for the hazard ratio of MACE comparing TRESIBA to insulin glargine U-100.
+The trial was designed to exclude a pre-specified risk margin of 1.3 for the hazard ratio of MACE comparing TRESIBA to insulin glargine U-100.
 The primary outcome at end of trial was available for 98.2% of participants in each treatment group.
 
 The time to first occurrence of MACE with TRESIBA as compared to insulin glargine U-100 was non-inferior (HR: 0.91; 95% CI [0.78;1.06]; see Figure 3).
@@ -443,7 +443,7 @@ Table 15: Analysis of the Composite 3-point MACE and Individual Cardiovascular E
 
 |  | TRESIBA |  | Insulin glargine U-100 |  |  |
 | --- | --- | --- | --- | --- | --- |
-| N | 3818 |  | 3819 |  |  |
+| N | 3,818 |  | 3,819 |  |  |
 |  | Number of Patients (%) | Rate per 100 PYO* | Number of Patients (%) | Rate per 100 PYO* | Hazard Ratio(95% CI) |
 | Composite of first event of CV death, non-fatal MI, or non-fatal stroke (3-Point MACE) | 325 (8.5) | 4.41 | 356 (9.3) | 4.86 | 0.91[0.78; 1.06] |
 | CV death | 136 (3.6) | 1.85 | 142 (3.7) | 1.94 |  |
@@ -467,7 +467,7 @@ Table 16: Severe Hypoglycemic Episodes in Patients Treated with TRESIBA or Insul
 
 |  | TRESIBA | Insulin glargine U-100 |
 | --- | --- | --- |
-| N | 3818 | 3819 |
+| N | 3,818 | 3,819 |
 | Severe Hypoglycemia |  |  |
 | Percent of patients with events | 4.9% | 6.6% |
 | Estimated odds ratio [95%CI] TRESIBA/Insulin glargine U-100 | 0.73 [0.60; 0.89]* |  |

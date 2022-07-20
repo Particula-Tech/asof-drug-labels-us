@@ -4,4 +4,4 @@ TRESIBA is indicated to improve glycemic control in patients 1 year of age and o
 
 Limitations of Use
 
-- oNot recommended for the treatment of diabetic ketoacidosis.
+- •Not recommended for the treatment of diabetic ketoacidosis.

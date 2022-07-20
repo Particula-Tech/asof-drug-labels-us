@@ -4,15 +4,14 @@
 
 TRESIBA®
 
-1. (insulin degludec injection)
+1. (insulin degludec) injection
 
 100 units/mL (U-100)
 
 For subcutaneous use only
 
-Rx Only
-
-One 10 mL vial multi-dose vial
+1. Use only with a U-100 syringe.
+2. Rx Only10 mL vial multiple-dose vial
 
 # PRINCIPAL DISPLAY PANEL U-100 FlexTouch
 
@@ -22,7 +21,7 @@ TRESIBA®
 
 FlexTouch®
 
-(insulin degludec injection)
+(insulin degludec) injection
 
 For Single Patient Use Only
 
@@ -31,8 +30,6 @@ For Single Patient Use Only
 5×3 mL Prefilled Pens
 
 For subcutaneous use only
-
-Rx Only
 
 Recommended for use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles.
 
@@ -46,6 +43,8 @@ After first use, store between 36°F to 86°F (2°C to 30°C) for up to 56 days.
 
 Protect from light.
 
+Rx Only
+
 Dispense in this sealed carton.
 
 # PRINCIPAL DISPLAY PANEL U-200 FlexTouch
@@ -56,7 +55,7 @@ TRESIBA®
 
 FlexTouch®
 
-(insulin degludec injection)
+(insulin degludec) injection
 
 For Single Patient Use Only
 
@@ -65,8 +64,6 @@ For Single Patient Use Only
 3×3 mL Prefilled Pens
 
 For subcutaneous use only
-
-Rx Only
 
 Recommended for use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles. disposable needles.
 
@@ -79,5 +76,7 @@ Do not freeze.
 After first use, store between 36°F to 86°F (2°C to 30°C) for up to 56 days.
 
 Protect from light.
+
+Rx Only
 
 Dispense in this sealed carton.

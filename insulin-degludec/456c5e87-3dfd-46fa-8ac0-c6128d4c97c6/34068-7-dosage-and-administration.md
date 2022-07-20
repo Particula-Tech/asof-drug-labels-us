@@ -10,23 +10,19 @@
   Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2), Adverse Reactions (6.1, 6.3)].
 - •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - •For pediatric patients requiring less than 5 units of TRESIBA each day, use the TRESIBA U-100 vial.
-- •Use TRESIBA with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - •DO NOT administer TRESIBA intravenously or in an insulin infusion pump.
-- •DO NOT dilute or mix TRESIBA with any other insulin products or solutions.
-- •DO NOT transfer TRESIBA from the TRESIBA pen into a syringe for administration [see Warnings and Precautions (5.4)].
+- •DO NOT dilute or mix TRESIBA with any other insulin or solution.
+- •DO NOT transfer TRESIBA from the TRESIBA FlexTouch pen into a syringe for administration [see Warnings and Precautions (5.4)].
+- •Use TRESIBA FlexTouch pens with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 
 ## 2.2 General Dosing Instructions
 
 - •TRESIBA is available in 2 concentrations (U-100 and U-200):
-  - oTRESIBA U-100 concentration is available in 2 presentations, FlexTouch pen and vial
-    - ▪Single-patient-use TRESIBA U-100 FlexTouch pen contains 300 units of TRESIBA U-100.
-      It delivers doses in 1 unit increments and can deliver up to 80 units in a single injection.
-    - ▪TRESIBA U-100 multiple-dose vial contains 1000 units of TRESIBA U-100.
-      Use vial only with a U-100 insulin syringe.
-  - oTRESIBA U-200 concentration is only available in a FlexTouch pen
-    - ▪Single-patient-use TRESIBA U-200 FlexTouch pen contains 600 units of TRESIBA U-200.
-      It delivers doses in 2 unit increments and can deliver up to 160 units in a single injection.
-- •DO NOT perform dose conversion when using the TRESIBA U-100 or U-200 pens.
+  - oTRESIBA U-100 is available, as a single-patient use FlexTouch pen and multiple-dose vial.
+    - ▪The FlexTouch pen delivers doses in 1 unit increments and can deliver up to 80 units in a single injection.
+  - oTRESIBA U-200 is available as a single-patient-use FlexTouch pen.
+    - ▪The FlexTouch pen delivers doses in 2 unit increments and can deliver up to 160 units in a single injection.
+- •DO NOT perform dose conversion when using the TRESIBA U-100 or U-200 FlexTouch pens.
   The dose window shows the number of insulin units to be delivered and no conversion is needed.
 - •In adults, inject TRESIBA subcutaneously once-daily at any time of day.
 - •In pediatric patients inject TRESIBA subcutaneously once-daily at the same time every day.
@@ -36,22 +32,25 @@
 - •For adult patients, instruct patients who miss a dose of TRESIBA to inject their daily dose during waking hours upon discovering the missed dose.
   Instruct patients to ensure that at least 8 hours have elapsed between consecutive TRESIBA injections.
 - •For pediatric patients, instruct patients who miss a dose of TRESIBA to contact their healthcare provider for guidance and to monitor blood glucose levels more frequently until the next scheduled TRESIBA dose.
+- •In patients with type 1 diabetes, TRESIBA must be used concomitantly with short-acting insulin.
 
 ## 2.3 Starting Dose in Insulin Naïve Patients
 
-Type 1 Diabetes Mellitus:
+Recommended Starting Dosage in Patients with Type 1 Diabetes Mellitus:
 
 The recommended starting dose of TRESIBA in insulin naïve patients with type 1 diabetes is approximately one-third to one-half of the total daily insulin dose.
 The remainder of the total daily insulin dose should be administered as a short-acting insulin and divided between each daily meal.
 As a general rule, 0.2 to 0.4 units of insulin per kilogram of body weight can be used to calculate the initial total daily insulin dose in insulin naïve patients with type 1 diabetes.
 
-Type 2 Diabetes Mellitus:
+Recommended Starting Dosage in Patients with Type 2 Diabetes Mellitus:
 
 The recommended starting dose of TRESIBA in insulin naïve patients with type 2 diabetes mellitus is 10 units once daily.
 
-## 2.4 Starting Dose in Patients Already on Insulin Therapy
+## 2.4 Switching to TRESIBA from Other Insulin Therapies
 
-Adults withType 1 or Type 2 Diabetes Mellitus:
+Dosage adjustments are recommended to lower the risk of hypoglycemia when switching patients to Insulin Degludec from another insulin therapy [see Warnings and Precautions (5.3)].
+
+Adults with Type 1 or Type 2 Diabetes Mellitus:
 
 Start TRESIBA at the same unit dose as the total daily long or intermediate-acting insulin unit dose.
 
