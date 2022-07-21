@@ -8,7 +8,7 @@ Tranexamic Acid Injection, USP
 
 (100 mg/mL)
 
-Solution for intravenous injection
+Intravenous Use Only
 
 Rx only
 
@@ -22,11 +22,9 @@ Tranexamic Acid Injection, USP
 
 (100 mg/mL)
 
-Solution for intravenous injection
+Intravenous Use Only
 
-Single-Dose ONLY
-
-Discard any remaining portion after single use
+Discard Unused Portion
 
 Rx only
 
