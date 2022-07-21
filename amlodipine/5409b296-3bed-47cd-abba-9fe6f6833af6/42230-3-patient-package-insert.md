@@ -121,6 +121,10 @@ Manufactured by:
 
 Cipla, Ltd., Verna, Goa India
 
+Manufactured by:
+
+Cipla Ltd., MIDC Patalganga, India
+
 Manufactured for:
 
 Cipla USA, Inc.
