@@ -1,32 +1,20 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
-Patients should be advised about substances they should not take concomitantly with simvastatin [see Contraindications (4) and Warnings and Precautions (5.1)].
-Patients should also be advised to inform other healthcare professionals prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin.
+Myopathy and Rhabdomyolysis Advise patients that simvastatin may cause myopathy and rhabdomyolysis.
+Inform patients taking the 80 mg daily dose of simvastatin that they are at an increased risk.
+Inform patients that the risk is also increased when taking certain types of medication or consuming grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7.1)].
+Hepatic Dysfunction Inform patients that simvastatin may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
+Increases in HbA1c and Fasting Serum Glucose Levels Inform patients that increases in HbA1c and fasting serum glucose levels may occur with simvastatin.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.4)].
+Pregnancy Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if simvastatin should be discontinued [see Use in Specific Populations (8.1)].
+Lactation Advise patients that breastfeeding is not recommended during treatment with simvastatin [see Use in Specific Populations (8.2)].
 
-## 17.1 Muscle Pain
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-All patients starting therapy with simvastatin should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing simvastatin.
-Patients using the 80 mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80 mg dose.
-The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin is increased when taking certain types of medication or consuming grapefruit juice.
-Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
+by: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India
 
-## 17.2 Liver Enzymes
-
-It is recommended that liver function tests be performed before the initiation of simvastatin, and thereafter when clinically indicated.
-All patients treated with simvastatin should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
-
-## 17.3 Pregnancy
-
-Women of childbearing age should be advised to use an effective method of birth control to prevent pregnancy while using simvastatin.
-Discuss future pregnancy plans with your patients, and discuss when to stop taking simvastatin if they are trying to conceive.
-Patients should be advised that if they become pregnant they should stop taking simvastatin and call their healthcare professional.
-
-## 17.4 Breastfeeding
-
-Women who are breastfeeding should not use simvastatin.
-Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
-
-Manufactured for: Camber Pharmaceuticals Inc. Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad – 500 055, India. or By: Annora Pharma Pvt.
-Ltd. Sangareddy -502313, Telangana, India.
-Revised:09/2019
+Revised: 06/2022
