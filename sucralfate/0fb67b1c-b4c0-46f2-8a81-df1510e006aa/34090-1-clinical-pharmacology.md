@@ -6,14 +6,9 @@ The small amounts of the sulfated disaccharide that are absorbed are excreted pr
 Although the mechanism of sucralfate’s ability to accelerate healing of duodenal ulcers remains to be fully defined, it is known that it exerts its effect through a local, rather than systemic, action.
 The following observations also appear pertinent:
 
-1.
-Studies in human subjects and with animal models of ulcer disease have shown that sucralfate forms an ulcer-adherent complex with proteinaceous exudate at the ulcer site.
-
-2.
-In vitro, a sucralfate-albumin film provides a barrier to diffusion of hydrogen ions.
-
-3.
-In human subjects, sucralfate given in doses recommended for ulcer therapy inhibits pepsin activity in gastric juice by 32%.
+1. Studies in human subjects and with animal models of ulcer disease have shown that sucralfate forms an ulcer-adherent complex with proteinaceous exudate at the ulcer site.
+2. In vitro, a sucralfate-albumin film provides a barrier to diffusion of hydrogen ions.
+3. In human subjects, sucralfate given in doses recommended for ulcer therapy inhibits pepsin activity in gastric juice by 32%.
 
 In vitro, sucralfate adsorbs bile salts.
 
