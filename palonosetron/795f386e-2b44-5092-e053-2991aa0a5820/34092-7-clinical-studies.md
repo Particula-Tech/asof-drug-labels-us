@@ -27,7 +27,7 @@ The mean age was 52 years.
 Efficacy Results
 
 Studies 1, 2 and 3 show that ALOXI injection was effective in the prevention of nausea and vomiting associated with initial and repeat courses of MEC and HEC in the acute phase (0 to 24 hours) [Table 5].
-Clinical superiority over other 5-HT3 receptor antagonists has not been adequately demonstrated in the acute phase.
+Clinical superiority over other 5-HT 3 receptor antagonists has not been adequately demonstrated in the acute phase.
 In Study 3, efficacy was greater when prophylactic corticosteroids were administered concomitantly.
 
 Studies 1 and 2 show that ALOXI injection was effective in the prevention of nausea and vomiting associated with initial and repeat course of MEC in the delayed phase (24 to 120 hours) [Table 6] and overall phase (0 to 120 hours) [Table 7].
@@ -48,7 +48,7 @@ Table 6: Prevention of Delayed Nausea and Vomiting (24 to 120 Hours) Associated 
 | Chemotherapy | Study | Treatment Group | N Intent-to-treat cohort | % with Complete Response | p-value 2-sided Fisher's exact test. Significance level at α=0.025. | 97.5% Confidence Interval ALOXI injection minus Comparator These studies were designed to show non-inferiority. A lower bound greater than -15% demonstrates non-inferiority between ALOXI injection and comparator. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | ALOXI injection 0.25 mg intravenously | 189 | 74 | <0.001 |  |
-| Ondansetron 32 mg intravenouslyOndansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 55 |  |  |  |  |
+| Ondansetron 32 mg intravenously Ondansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 55 |  |  |  |  |
 | 2 | ALOXI injection 0.25 mg intravenously | 189 | 54 | 0.004 |  |  |
 | Dolasetron 100 mg intravenously | 191 | 39 |  |  |  |  |
 
@@ -57,7 +57,7 @@ Table 7: Prevention of Overall Nausea and Vomiting (0 to 120 Hours) Associated w
 | Chemotherapy | Study | Treatment Group | N Intent-to-treat cohort | % with Complete Response | p-value 2-sided Fisher's exact test. Significance level at α=0.025. | 97.5% Confidence Interval ALOXI injection minus Comparator These studies were designed to show non-inferiority. A lower bound greater than -15% demonstrates non-inferiority between ALOXI and comparator. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Moderately Emetogenic | 1 | ALOXI injection 0.25 mg intravenously | 189 | 69 | <0.001 |  |
-| Ondansetron 32 mg intravenouslyOndansetron 32 mg intravenously was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 50 |  |  |  |  |
+| Ondansetron 32 mg intravenously Ondansetron 32 mg intravenously was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. | 185 | 50 |  |  |  |  |
 | 2 | ALOXI injection 0.25 mg intravenously | 189 | 46 | 0.021 |  |  |
 | Dolasetron 100 mg intravenously | 191 | 34 |  |  |  |  |
 
@@ -66,7 +66,7 @@ Table 7: Prevention of Overall Nausea and Vomiting (0 to 120 Hours) Associated w
 One double-blind, active-controlled clinical trial was conducted in pediatric cancer patients.
 The total population (N = 327) had a mean age of 8.3 years (range 2 months to 16.9 years) and were 53% male; and 96% white.
 Patients were randomized and received a 20 mcg/kg (maximum 1.5 mg) intravenous infusion of ALOXI injection 30 minutes prior to the start of emetogenic chemotherapy (followed by placebo infusions 4 and 8 hours after the dose of ALOXI injection) or 0.15 mg/kg of intravenous ondansetron 30 minutes prior to the start of emetogenic chemotherapy (followed by ondansetron 0.15 mg/kg infusions 4 and 8 hours after the first dose of ondansetron, with a maximum total dose of 32 mg).
-Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
+Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m 2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
 Adjuvant corticosteroids, including dexamethasone, were administered with chemotherapy in 55% of patients.
 
 Complete Response in the acute phase of the first cycle of chemotherapy was defined as no vomiting, no retching, and no rescue medication in the first 24 hours after starting chemotherapy.
@@ -80,7 +80,7 @@ As shown in Table 8, intravenous ALOXI 20 mcg/kg (maximum 1.5 mg) demonstrated n
 
 Table 8: Prevention of Acute Nausea and Vomiting (0 to 24 Hours) Associated with Emetogenic Chemotherapy in Pediatric Patients: Complete Response Rates
 
-| ALOXI injection 20 mcg/kg intravenously (N=165) | Ondansetron 0.15 mg/kg for 3 intravenous doses (N=162) | Difference [97.5% Confidence Interval]To adjust for multiplicity of treatment groups, a lower-bound of a 97.5% confidence interval was used to compare to -15%, the negative value of the non-inferiority margin.: ALOXI injection minus intravenous Ondansetron Comparator |
+| ALOXI injection 20 mcg/kg intravenously (N=165) | Ondansetron 0.15 mg/kg for 3 intravenous doses (N=162) | Difference [97.5% Confidence Interval] To adjust for multiplicity of treatment groups, a lower-bound of a 97.5% confidence interval was used to compare to -15%, the negative value of the non-inferiority margin.: ALOXI injection minus intravenous Ondansetron Comparator |
 | --- | --- | --- |
 | 59.4% | 58.6% | 0.36% [-11.7%, 12.4%] |
 
@@ -116,7 +116,7 @@ Table 9: Prevention of Postoperative Nausea and Vomiting in Adults: Complete Res
 
 | Treatment | n/N (%) | ALOXI injection vs Placebo |  |
 | --- | --- | --- | --- |
-| Δ | p-valueTo reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017. Δ Difference (%): palonosetron 0.075 mg minus placebo |  |  |
+| Δ | p-value To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p-value was p<0.017. Δ Difference (%): palonosetron 0.075 mg minus placebo |  |  |
 | Co-primary Endpoints |  |  |  |
 | Complete Response Rate (0 to 24 hours) |  |  |  |
 | ALOXI injection 0.075 mg intravenously | 59/138 (42.8%) | 16.8% | 0.004 |

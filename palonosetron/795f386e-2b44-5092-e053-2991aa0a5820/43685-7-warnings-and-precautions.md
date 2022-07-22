@@ -3,7 +3,7 @@
 ## 5.1 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including anaphylaxis and anaphylactic shock, have been reported with administration of ALOXI injection [see Adverse Reactions (6.2)].
-These reactions occurred in patients with or without known hypersensitivity to other 5-HT3 receptor antagonists.
+These reactions occurred in patients with or without known hypersensitivity to other 5-HT 3 receptor antagonists.
 If hypersensitivity reactions occur, discontinue ALOXI injection and initiate appropriate medical treatment.
 Do not reinitiate ALOXI injection in patients who have previously experienced symptoms of hypersensitivity [see Contraindications (4)].
 

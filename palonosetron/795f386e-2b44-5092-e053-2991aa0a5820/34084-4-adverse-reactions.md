@@ -17,7 +17,7 @@ In double-blind randomized clinical trials for the prevention of nausea and vomi
 Adverse reactions were similar in frequency and severity in all 3 treatment groups.
 Common adverse reactions reported in at least 2% of patients in these trials are shown in Table 2.
 
-Table 2: Common Adverse ReactionsReported in at least 2% of patients in any treatment groupin Adults with Receiving MEC (Studies 1 and 2) or HEC (Study 3)
+Table 2: Common Adverse Reactions Reported in at least 2% of patients in any treatment groupin Adults with Receiving MEC (Studies 1 and 2) or HEC (Study 3)
 
 | Adverse Reaction | ALOXI injection 0.25 mg intravenously (N=633) | Ondansetron 32 mg intravenously (N=410) | Dolasetron 100 mg intravenously (N=194) |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ Rates of adverse reactions between ALOXI injection and placebo groups were simil
 Some events are known to be associated with, or may be exacerbated by, concomitant perioperative and intraoperative medications administered in this surgical population.
 A thorough QT/QTc study demonstrated ALOXI injection does not prolong the QT interval to any clinically relevant extent [see Clinical Pharmacology (12.2)].
 
-Table 3: Common Adverse ReactionsReported in at least 2% of patients in any treatment group in Trials of Adults with Postoperative Nausea and Vomiting
+Table 3: Common Adverse Reactions Reported in at least 2% of patients in any treatment group in Trials of Adults with Postoperative Nausea and Vomiting
 
 | Adverse Reaction | ALOXI injection 0.075 mg intravenously (N=336) | Placebo (N=369) |
 | --- | --- | --- |
