@@ -10,4 +10,4 @@ Dihydroergotamine mesylate C33H37N5O5•CH4O3S Mol. wt.
 679.80
 
 Dihydroergotamine Mesylate Injection, USP is a clear, colorless solution supplied in sterile ampules for intravenous, intramuscular, or subcutaneous administration.
-Each mL contains 1 mg Dihydroergotamine Mesylate, USP; Alcohol, USP 6.1% by volume; Glycerin, USP 15% by weight; Water for injection, USP; Methanesulfonic Acid and/or Sodium Hydroxide. pH range is 3.4 - 4.9.
+Each mL contains 1 mg Dihydroergotamine Mesylate, USP; Alcohol, USP 6.1% by volume; Glycerin, USP 15% by weight; Water for Injection, USP; Methanesulfonic Acid and/or Sodium Hydroxide for pH adjustment (pH range is 3.4 to 4.9).
