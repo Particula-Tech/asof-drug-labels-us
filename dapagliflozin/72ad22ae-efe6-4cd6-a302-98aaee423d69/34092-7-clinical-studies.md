@@ -480,7 +480,7 @@ Table 16: Treatment Effect for the Primary Composite Endpoint, its Components, a
 | ≥50% sustained eGFR decline | 112 (2.6) | 201 (4.8) | 0.53 (0.42, 0.67) |  |
 | ESKDESKD is defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment, or transplant. | 109 (2.5) | 161 (3.8) | 0.64 (0.50, 0.82) |  |
 | CV Death | 65 (1.4) | 80 (1.7) | 0.81 (0.58, 1.12) |  |
-| Renal Death | 2 (<0.1) | 6 (0.3) |  |  |
+| Renal Death | 2 (0.0) | 6 (0.1) |  |  |
 | ≥50% sustained eGFR decline, ESKD or renal death | 142 (3.3) | 243 (5.8) | 0.56 (0.45, 0.68) | <0.0001 |
 | CV death or Hospitalization for Heart Failure | 100 (2.2) | 138 (3.0) | 0.71 (0.55, 0.92) | 0.0089 |
 | Hospitalization for Heart Failure | 37 (0.8) | 71 (1.6) | 0.51 (0.34, 0.76) |  |

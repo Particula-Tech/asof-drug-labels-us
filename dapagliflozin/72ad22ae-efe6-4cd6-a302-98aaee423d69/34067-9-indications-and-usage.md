@@ -12,6 +12,6 @@ Limitations of Use
 - •FARXIGA is not recommended for patients with type 1 diabetes mellitus.
   It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.1)].
 - •FARXIGA is not recommended for use to improve glycemic control in adults with type 2 diabetes mellitus with an eGFR less than 45 mL/min/1.73 m2.
-  FARXIGA is likely to be ineffective in this setting based upon its mechanism of
+  FARXIGA is likely to be ineffective in this setting based upon its mechanism of action.
 - •FARXIGA is not recommended for the treatment of chronic kidney disease in patients with polycystic kidney disease or patients requiring or with a recent history of immunosuppressive therapy for kidney disease.
   FARXIGA is not expected to be effective in these populations.

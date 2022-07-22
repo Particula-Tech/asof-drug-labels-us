@@ -21,7 +21,7 @@ Clinical Trials in Patients with Type 2 Diabetes Mellitus
 
 Pool of 12 Placebo-Controlled Studies for FARXIGA 5 and 10 mg for Glycemic Control
 
-The data in Table 1 is derived from 12 glycemic control placebo-controlled studies in patients with type 2 diabetes mellitus ranging from 12 to 24 weeks.
+The data in Table 2 is derived from 12 glycemic control placebo-controlled studies in patients with type 2 diabetes mellitus ranging from 12 to 24 weeks.
 In 4 studies FARXIGA was used as monotherapy, and in 8 studies FARXIGA was used as add-on to background antidiabetic therapy or as combination therapy with metformin [see Clinical Studies (14.1)].
 
 These data reflect exposure of 2338 patients to FARXIGA with a mean exposure duration of 21 weeks.
@@ -84,7 +84,7 @@ Hypoglycemia
 The frequency of hypoglycemia by study in patients with type 2 diabetes mellitus [see Clinical Studies (14.1)] is shown in Table 4.
 Hypoglycemia was more frequent when FARXIGA was added to sulfonylurea or insulin [see Warnings and Precautions (5.4)].
 
-Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were defined as episodes of severe impairment in consciousness or behavior, requiring external (third party) assistance, and with prompt recovery after intervention regardless of glucose level. and Hypoglycemia with Glucose < 54 mg/dLEpisodes of hypoglycemia with glucose <54 mg/dL (3 mmol/L) were defined as reported episodes of hypoglycemia meeting the glucose criteria that did not also qualify as a severe episode. in Controlled Glycemic Control Clinical Studies in Patients with Type 2 Diabetes Mellitus
+Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were defined as episodes of severe impairment in consciousness or behavior, requiring external (third party) assistance, and with prompt recovery after intervention regardless of glucose level. and Hypoglycemia with Glucose <54 mg/dLEpisodes of hypoglycemia with glucose <54 mg/dL (3 mmol/L) were defined as reported episodes of hypoglycemia meeting the glucose criteria that did not also qualify as a severe episode. in Controlled Glycemic Control Clinical Studies in Patients with Type 2 Diabetes Mellitus
 
 |  | Placebo/Active Control | FARXIGA 5 mg | FARXIGA 10 mg |
 | --- | --- | --- | --- |
@@ -117,7 +117,7 @@ Genital Mycotic Infections
 In the glycemic control trials, genital mycotic infections were more frequent with FARXIGA treatment.
 Genital mycotic infections were reported in 0.9% of patients on placebo, 5.7% on FARXIGA 5 mg, and 4.8% on FARXIGA 10 mg, in the 12-study placebo-controlled pool.
 Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with FARXIGA 10 mg.
-Infections were more frequently reported in females than in males (see Table 1).
+Infections were more frequently reported in females than in males (see Table 2).
 The most frequently reported genital mycotic infections were vulvovaginal mycotic infections in females and balanitis in males.
 Patients with a history of genital mycotic infections were more likely to have a genital mycotic infection during the study than those with no prior history (10.0%, 23.1%, and 25.0% versus 0.8%, 5.9%, and 5.0% on placebo, FARXIGA 5 mg, and FARXIGA 10 mg, respectively).
 In the DECLARE study [see Clinical Studies (14.2)], serious genital mycotic infections were reported in <0.1% of patients treated with FARXIGA and <0.1% of patients treated with placebo.
