@@ -78,7 +78,7 @@ In patients receiving azoles without corticosteroids adrenal insufficiency is re
 In patients taking corticosteroids, voriconazole associated CYP3A4 inhibition of their metabolism may lead to corticosteroid excess and adrenal suppression [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 Cushing’s syndrome with and without subsequent adrenal insufficiency has also been reported in patients receiving voriconazole concomitantly with corticosteroids.
 
-Patients receiving voriconazole and corticosteroids (via all routes of administration) should be carefully monitored for adrenal dysfunction both during and after voriconazole treatment.
+Patients receiving voriconazole and corticosteroids should be carefully monitored for adrenal dysfunction both during and after voriconazole treatment.
 Patients should be instructed to seek immediate medical care if they develop signs and symptoms of Cushing’s syndrome or adrenal insufficiency.
 
 ## 5.9 Embryo-Fetal Toxicity
