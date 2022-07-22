@@ -18,9 +18,11 @@ Rx only
 
 Important: Read accompanying directions carefully.
 
-Made in Canada
+gsk
 
-©2021 GSK group of companies or its licensor.
+Product of Italy
 
-1. 62000000062921 Rev.
-   4/21
+©2022 GSK group of companies or its licensor.
+
+1. 30000000000329 Rev.
+   4/22
