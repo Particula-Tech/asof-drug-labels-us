@@ -46,16 +46,6 @@ Rx only 60 tablets
 
 ATTENTION PHARMACIST: Each patient is required to receive the accompanying Medication Guide.
 
-# PRINCIPAL DISPLAY PANEL - Kit Carton
-
-2 Week Starter Kit
-
-VIMPAT® (lacosamide) tablets CV
-
-ATTENTION PHYSICIAN: Each patient is required to receive the accompanying Medication Guide.
-
-Not for Sale Professional Samples
-
 # PRINCIPAL DISPLAY PANEL - 20 mL Vial Carton
 
 NDC 0131-1810-67 Rx Only
