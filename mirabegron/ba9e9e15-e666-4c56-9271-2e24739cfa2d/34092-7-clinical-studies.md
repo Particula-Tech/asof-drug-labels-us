@@ -61,7 +61,7 @@ An important secondary endpoint was the change from baseline to end of treatment
 
 Results for the co-primary endpoints and mean volume voided per micturition for the overall patient population from Study 6 are shown in Table 14.
 
-Table 14: Mean Baseline and Change from Baseline at Week 12Week 12 is the last observation on treatment.for Incontinence Episodes, Micturition Frequency, and Volume Voided per Micturition Overall Population with Overactive Bladder in Study 6
+Table 14: Mean Baseline and Change from Baseline at Week 12Week 12 is the last observation on treatment. for Incontinence Episodes, Micturition Frequency, and Volume Voided per Micturition Overall Population with Overactive Bladder in Study 6
 
 | Parameter | Placebo | MYRBETRIQ25 mg | MYRBETRIQ50 mg | Solifenacin Succinate5 mg | MYRBETRIQ 25 mg+Solifenacin Succinate 5 mg | MYRBETRIQ 50 mg+Solifenacin Succinate 5 mg |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ The primary efficacy endpoint in Study 7 (NCT01908829) was change from baseline 
 Two important secondary endpoints were change from baseline to end of treatment in mean number of micturitions per 24 hours and change from baseline to end of treatment in mean volume voided per micturition.
 Results for the primary and additional endpoints from Study 7 are shown in Table 15.
 
-Table 15: Change from Baseline at Week 12Week 12 is the last observation on treatment.for Incontinence Episodes, Micturition Frequency, and Volume Voided per Micturition in Patients with Overactive Bladder in Study 7
+Table 15: Change from Baseline at Week 12Week 12 is the last observation on treatment. for Incontinence Episodes, Micturition Frequency, and Volume Voided per Micturition in Patients with Overactive Bladder in Study 7
 
 | Parameter | Solifenacin Succinate5 mg | MYRBETRIQ25 mg/50 mg+SolifenacinSuccinate5 mg |
 | --- | --- | --- |
