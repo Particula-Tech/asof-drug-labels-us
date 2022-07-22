@@ -3,7 +3,7 @@
 ## 5.1 Ischemic Cardiovascular Events
 
 In women with pre-existing ischemic heart disease, an increased incidence of ischemic cardiovascular events was observed with anastrozole tablets in the ATAC trial (17% of patients on anastrozole tablets and 10% of patients on tamoxifen).
-Consider risk and benefits of anastrozole tablets therapy in patients with pre-existing ischemic heart disease [see Adverse Reactions (6.1)]
+Consider risk and benefits of anastrozole tablets therapy in patients with pre-existing ischemic heart disease [see Adverse Reactions (6.1)].
 
 ## 5.2 Bone Effects
 

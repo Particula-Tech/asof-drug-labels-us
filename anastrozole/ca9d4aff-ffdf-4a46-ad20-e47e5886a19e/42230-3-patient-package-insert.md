@@ -1,4 +1,4 @@
-# Patient Information Anastrozole (an-AS-troe-zole) tablets
+# Patient Information Anastrozole (an-AS-troe-zole) Tablets, USP
 
 What is the most important information I should know about anastrozole tablets?
 
@@ -24,7 +24,7 @@ Who should not take anastrozole tablets?
 
 Do not take anastrozole tablet if you:
 
-- have had severe allergic reaction to anastrozole or any of the ingredients in anastrozole tablets.
+- have had a severe allergic reaction to anastrozole or any of the ingredients in anastrozole tablets.
   See the end of this leaflet for a complete list of ingredients in anastrozole tablets.
   Symptoms of a severe allergic reaction to anastrozole tablets include: swelling of the face, lips, tongue or throat, trouble breathing or swallowing, hives and itching.
 
@@ -153,16 +153,16 @@ For more information, call 1-800-367-3395 or go to www.bpirx.com.
 
 What are the ingredients in anastrozole tablets?
 
-Active ingredient: anastrozole
+Active ingredient: anastrozole, USP
 
 Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, sodium starch glycolate, and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: Natco Pharma Limited, Kothur-509 228, India
+Manufactured by: Natco Pharma Limited Kothur – 509 228, India.
 
 Distributed by: Breckenridge Pharmaceutical, Inc., Berlin, CT 06037
 
-346186
+40500202
 
-May/2019
+Revised: 06/2022

@@ -42,4 +42,4 @@ Advise females to contact their healthcare provider if they become pregnant, or 
 
 Lactation
 
-Advise women not to breastfeed during anastrozole tablets treatment and for at least 2 weeks after the last dose [see Use in Specific Population (8.2)]
+Advise women not to breastfeed during anastrozole tablets treatment and for at least 2 weeks after the last dose [see Use in Specific Population (8.2)].
