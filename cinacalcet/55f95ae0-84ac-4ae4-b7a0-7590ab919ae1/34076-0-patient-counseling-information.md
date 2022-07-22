@@ -9,6 +9,7 @@
 
 All trademarks are the property of their respective owners.
 
-Manufactured by: Alkem Laboratories Ltd. Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
+Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-Revised: December, 2020 PT 2787-02
+Revised: November, 2021 PT 2787-03

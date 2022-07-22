@@ -2,9 +2,9 @@
 
 ## 2.1 Administration
 
-Cinacalcet tablets should be taken with food or shortly after a meal.
+Cinacalcet Tablets should be taken with food or shortly after a meal.
 
-Cinacalcet tablets are administered orally and should always be taken whole and not chewed, crushed, or divided.
+Cinacalcet Tablets are administered orally and should always be taken whole and not chewed, crushed, or divided.
 
 ## 2.2 Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysis
 
