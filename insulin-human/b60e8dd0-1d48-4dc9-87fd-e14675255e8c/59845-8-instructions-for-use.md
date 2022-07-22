@@ -1,4 +1,4 @@
-| Instructions for Use Humulin® R U-500 insulin human injection (500 units/mL, 20 mL multiple-dose vial) |
+| Instructions for Use Humulin® R U-500 (insulin human) injection, for subcutaneous use 20 mL multiple-dose vial (500 units/mL) |
 | --- |
 
 Please read these instructions before use.
@@ -105,7 +105,7 @@ Unopened vials:
 
 After the vial has been opened:
 
-- Store opened vials in the refrigerator or at room temperature (less than 86°F [30°C]) for up to 40 days.
+- Store opened vials in the refrigerator or at room temperature (up to 86°F [30°C]) for up to 40 days.
 - Throw away the opened vial after 40 days, even if there is still insulin left in the vial.
 
 | General Information |
@@ -139,20 +139,20 @@ These Instructions for Use have been approved by the U.S. Food and Drug Administ
 
 Humulin® is a trademark of Eli Lilly and Company.
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
+Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA US License Number 1891
 
-Copyright © 1996, 2019, Eli Lilly and Company.
+Copyright © 1996, 2022, Eli Lilly and Company.
 All rights reserved.
 
-Literature issued: November 2019
+Literature revised: June 2022
 
-LINR500VL-0003-IFU-20191115
+LINR500VL-0004-IFU-20220627
 
 Instructions for Use HUMULIN® R U-500 KwikPen®
 
-insulin human injection U-500 (500 units/mL, 3 mL single-patient-use pen)
+(insulin human) injection, for subcutaneous use 3 mL single-patient-use pen (500 units/mL, U-500)
 
-| Important: Know your dose of HUMULIN R U-500 insulin. The Pen delivers your dose in insulin units. Insulin units may not be the same as syringe markings. Ask your health care provider what your dose should be for your Pen.Your HUMULIN® R U-500 KwikPen® (Pen) works differently from other pens. It dials 5 insulin units with each click. Do not count clicks of the dose knob to select your dose. You may not get enough insulin or you may get too much insulin. HUMULIN R U-500 is a concentrated insulin. Do not transfer HUMULIN R U-500 insulin from your Pen into a syringe. A severe overdose can happen, causing very low blood sugar, which may put your life in danger. |
+| Important: Know your dose of HUMULIN R U-500 insulin. The Pen delivers your dose in insulin units. Insulin units may not be the same as syringe markings. Ask your health care provider what your dose should be for your Pen.Your HUMULIN® R U-500 KwikPen® (Pen) works differently from other pens. It dials 5 insulin units with each click. Do not count clicks of the dose knob to select your dose. You may get too much insulin or you may not get enough insulin.HUMULIN R U-500 is a concentrated insulin. Do not transfer HUMULIN R U-500 insulin from your Pen into a syringe. A severe overdose can happen, causing very low blood sugar, which may put your life in danger. |
 | --- |
 
 Read the Instructions for Use before you start taking HUMULIN R U-500 and each time you get another Pen.
@@ -167,6 +167,9 @@ Each turn (click) of the Dose Knob dials 5 units of insulin.
 You can give from 5 to 300 units in a single injection.
 The plunger only moves a little with each injection, and you may not notice that it moves.
 The plunger will only reach the end of the cartridge when you have used all 1500 units in the Pen.
+
+Inject HUMULIN R U-500 only with your Pen.
+Do not transfer insulin from your Pen to a syringe.
 
 People who are blind or have vision problems should not use the Pen without help from a person trained to use the Pen.
 
@@ -291,8 +294,8 @@ Always follow your healthcare provider's instructions for dosing.
 
 | If you are: | It is important to know: |
 | --- | --- |
-| Switching from HUMULIN R U-500 vial (and syringe) | Your Pen may measure your dose differently. The markings in the Dose Window may not be the same as the markings on the syringe you used in the past. Ask your healthcare provider what dose in insulin units you should dial on your Pen. |
-| Switching from another type of insulin device or pen. | The HUMULIN R U-500 KwikPen is different from other pens. It dials 5 insulin units with each click of the Dose Knob. Do not select your dose by counting clicks. You may not get enough insulin or you may get too much insulin. |
+| Switching from HUMULIN R U-500 vial (and syringe) | Your Pen may measure your dose differently. The markings in the Dose Window may not be the same as the markings on the syringe you used in the past. If you were using the U-500 syringe to administer your dose, the markings on the syringe may be the same as the markings in the Pen Dose Window. Ask your healthcare provider what dose in insulin units you should dial on your Pen. |
+| Switching from another type of insulin device or pen. | The HUMULIN R U-500 KwikPen is different from other pens. It dials 5 insulin units with each click of the Dose Knob. Do not select your dose by counting clicks. You may get too much insulin or you may not get enough insulin. |
 
 General information about the safe and effective use of your Pen
 
@@ -319,16 +322,14 @@ These Instructions for Use have been approved by the U.S. Food and Drug Administ
 
 HUMULIN® and HUMULIN® KwikPen® are trademarks of Eli Lilly and Company.
 
-Marketed by: Lilly USA, LLC
+Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
-Indianapolis, IN 46285, USA
-
-Copyright © 2015, 2019, Eli Lilly and Company.
+Copyright © 2015, 2022, Eli Lilly and Company.
 All rights reserved.
 
 | HUMULIN R U-500 KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-Document revision date: November 2019
+Document revision date: June 2022
 
-LINR500KP-0004-IFU-20191115
+LINR500KP-0005-IFU-20220627

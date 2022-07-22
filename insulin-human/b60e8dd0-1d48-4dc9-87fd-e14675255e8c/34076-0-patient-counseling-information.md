@@ -4,7 +4,7 @@ See FDA-approved patient labeling.
 
 Patients should be counseled that HUMULIN R U-500 is a 5-times concentrated insulin product.
 Extreme caution must be observed in the measurement of dosage because inadvertent overdose may result in serious adverse reaction or life-threatening hypoglycemia.
-Accidental mix-ups between HUMULIN R U-500 and other insulins have been reported.
+Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between HUMULIN R U-500 and other insulins, patients should be instructed to always check the insulin label before each injection [see Warnings and Precautions (5.1)].
 
 If using the HUMULIN R U-500 KwikPen, patients should be counseled to dial and dose the prescribed number of units of insulin (no dose conversion is required) [see Dosage and Administration (2.3)].
@@ -16,16 +16,11 @@ Patients must be instructed on handling of special situations such as intercurre
 Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision.
 Refer patients to the HUMULIN R U-500 Patient Information Leaflet for additional information [see Warnings and Precautions (5)].
 
-Inspect HUMULIN R U-500 visually for particulate matter and discoloration.
-Only use HUMULIN R U-500 if the solution appears clear and colorless.
-
 Do not dilute or mix HUMULIN R U-500 with any other insulin products or solutions [see Dosage and Administration (2.1)].
 
-Literature Revised: November 2019
+Literature Revised: June 2022
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
-
-Copyright © 1997, 2019, Eli Lilly and Company.
+Manufactured by: Eli Lilly and Company, Indianapolis, IN 46285, USA US License Number 1891 Copyright © 1997, 2022, Eli Lilly and Company.
 All rights reserved.
 
-LINR500-0008-USPI-20191115
+LINR500-0009-USPI-20220627

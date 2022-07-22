@@ -1,4 +1,4 @@
-# PACKAGE CARTON – HUMULIN R U-500 Vial 20 mL 1ct
+# VIAL PACKAGE CARTON – HUMULIN R U-500 Vial 20 mL 1ct
 
 NDC 0002-8501-01
 
@@ -6,7 +6,7 @@ NDC 0002-8501-01
 
 Humulin® R U-500
 
-insulin human injection
+(insulin human) injection
 
 10,000 units per 20 mL
 
@@ -20,15 +20,15 @@ Warning - Highly Concentrated
 
 IMPORTANT: Use only with a U-500 syringe.
 
-For subcutaneous use only
+20 mL multiple-dose vial
 
-Multiple-dose vial
+For subcutaneous use only
 
 www.humulin.com
 
 Lilly
 
-# PACKAGE CARTON – HUMULIN R U-500 KwikPen 3 mL (500 Units per mL)
+# KWIKPEN PACKAGE CARTON – HUMULIN R U-500 KwikPen 3 mL (500 Units per mL)
 
 Dispense in this sealed carton
 
@@ -36,7 +36,7 @@ NDC 0002-8824-27
 
 Humulin®R U-500 KwikPen®
 
-insulin human injection
+(insulin human) injection
 
 For Single Patient Use Only
 
@@ -50,7 +50,7 @@ prefilled insulin delivery device
 
 Rx only
 
-For subcutaneous use.
+For subcutaneous use only.
 
 Read Humulin®R U-500 KwikPen® Instructions for Use.
 

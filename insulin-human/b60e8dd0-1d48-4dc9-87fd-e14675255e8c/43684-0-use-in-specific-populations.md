@@ -30,16 +30,16 @@ All available studies have methodological limitations, including lack of blindin
 
 Risk Summary
 
-Available data from published literature suggests that exogenous human insulin products, including HUMULIN R, are transferred into human milk.
+Available data from published literature suggests that exogenous human insulin products, including HUMULIN R U-500, are transferred into human milk.
 There are no adverse reactions reported in breastfed infants in the literature.
-There are no data on the effects of exogenous human insulin products, including HUMULIN R on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for HUMULIN R and any potential adverse effects on the breastfed child from HUMULIN R or from the underlying maternal condition.
+There are no data on the effects of exogenous human insulin products, including HUMULIN R U-500 on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for HUMULIN R U-500 and any potential adverse effects on the breastfed child from HUMULIN R U-500 or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-There are no well-controlled studies of use of HUMULIN R U-500 in children.
-Standard precautions as applied to use of HUMULIN R U-500 in adults are appropriate for use in children.
-As in adults, the dosage of HUMULIN R U-500 in pediatric patients must be individualized based on metabolic needs and results of frequent monitoring of blood glucose.
+The safety and effectiveness of HUMULIN R U-500 in pediatric patients with diabetes mellitus requiring more than 200 units of insulin per day to improve glycemic control have been established.
+Use of HUMULIN R U-500 for this indication is supported by evidence from studies with other insulin human in pediatric patients with type 1 diabetes mellitus and from studies in adults with diabetes mellitus.
+Standard precautions as applied to use of HUMULIN R U-500 in adults are appropriate for use in pediatric patients.
 
 ## 8.5 Geriatric Use
 

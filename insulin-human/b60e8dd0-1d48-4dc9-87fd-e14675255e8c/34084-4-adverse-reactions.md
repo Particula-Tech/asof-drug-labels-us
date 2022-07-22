@@ -3,6 +3,7 @@
 The following adverse reactions are discussed elsewhere:
 
 - Hypoglycemia [see Warnings and Precautions (5.4)].
+- Hypersensitivity Reactions [see Warnings and Precautions (5.5)].
 - Hypokalemia [see Warnings and Precautions (5.6)].
 
 The following additional adverse reactions have been identified during post-approval use of HUMULIN R U-500.
@@ -14,7 +15,7 @@ Hypoglycemia is the most commonly observed adverse reaction in patients using in
 
 Allergic Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, rash, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including HUMULIN R U-500 and may be life threatening.
+Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, rash, angioedema, bronchospasm, hypotension, and shock may occur with insulins, including HUMULIN R U-500 and may be life threatening.
 
 Lipodystrophy
 
@@ -33,11 +34,11 @@ Patients taking HUMULIN R U-500 may experience injection site reactions, includi
 
 Weight Gain
 
-Weight gain can occur with insulin therapy, including HUMULIN R U-500, and has been attributed to the anabolic effects of insulin.
+Weight gain can occur with insulins, including HUMULIN R U-500, and has been attributed to the anabolic effects of insulin.
 
 Peripheral Edema
 
-Insulin, including HUMULIN R U-500, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+Insulins, including HUMULIN R U-500, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
 Immunogenicity
 
