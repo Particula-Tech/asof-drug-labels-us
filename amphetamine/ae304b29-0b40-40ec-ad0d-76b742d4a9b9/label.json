@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA208147",
+    "NDA210526"
+  ],
+  "inn": "amphetamine",
+  "labeler": "NextWave Pharmaceuticals, Inc",
+  "package_ndcs": [
+    "24478-102-01",
+    "24478-106-01",
+    "24478-108-01",
+    "24478-109-01",
+    "24478-110-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "amphetamine",
+      "name": "DYANAVEL XR"
+    },
+    {
+      "form": "SUSPENSION, EXTENDED RELEASE",
+      "generic": "amphetamine",
+      "name": "Dyanavel XR"
+    }
+  ],
+  "setid": "ae304b29-0b40-40ec-ad0d-76b742d4a9b9",
+  "source": "dailymed"
+}
