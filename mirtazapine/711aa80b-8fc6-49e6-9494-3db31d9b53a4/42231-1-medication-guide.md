@@ -34,4 +34,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
 
-Revised: 1/2022 ALP:MTZP:R21mh/ALP:MG:MTZP:R6mh PM 2847/6
+Revised: 5/2022 ALP:MTZP:R22mh/ALP:MG:MTZP:R7mh PM 2847/7
