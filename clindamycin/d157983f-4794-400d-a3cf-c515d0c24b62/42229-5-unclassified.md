@@ -26,7 +26,7 @@ Such use could result in air embolism due to residual air being drawn from the p
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc. New York, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
@@ -34,4 +34,4 @@ CLEOCIN PHOSPHATE IV Solution in GALAXY plastic containers is manufactured for P
 
 Galaxy is a registered trademark of Baxter International Inc.
 
-LAB-0696-16.0 Revised: 10/2021
+LAB-0696-17.0 Revised: 5/2022

@@ -31,7 +31,7 @@ Jaundice and abnormalities in liver function tests have been observed during cli
 
 ## Renal
 
-Acute Kidney Injury: Signs of renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria have been observed (See WARNINGS).
+Acute kidney injury (See WARNINGS).
 
 ## Hematopoietic
 
