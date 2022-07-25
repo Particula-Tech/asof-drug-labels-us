@@ -58,14 +58,13 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 The following table shows the amount of solvent required for solution of various concentrations:
 
-| Approx. Desired Concentration (units/mL) |  | Approx. Volume (mL) 1,000,000 units |  | Solvent for Vial of 5,000,000 units |  | Infusion Only 20,000,000 units |
-| --- | --- | --- | --- | --- | --- | --- |
-| 50,000 |  | 20.0 |  | – |  | – |
-| 100,000 |  | 10.0 |  | – |  | – |
-| 250,000 |  | 4.0 |  | 18.2 |  | 75.0 |
-| 500,000 |  | 1.8 |  | 8.2 |  | 33.0 |
-| 750,000 |  | – |  | 4.8 |  | – |
-| 1,000,000 |  | – |  | 3.2 |  | 11.5 |
+| Approx. Desired Concentration (units/mL) |  |  | Volume (mL) Solvent for Vial of 5,000,000 units |  | Infusion Only Volume (mL) Solvent for Vial of 20,000,000 units |
+| --- | --- | --- | --- | --- | --- |
+| 50,000 |  |  | – |  | – |
+| 100,000 |  |  | – |  | – |
+| 250,000 |  |  | 18.2 |  | 75.0 |
+| 500,000 |  |  | 8.2 |  | 33.0 |
+| 1,000,000 |  |  | 3.2 |  | 11.5 |
 
 When the required volume of solvent is greater than the capacity of the vial, the penicillin can be dissolved by first injecting only a portion of the solvent into the vial, then withdrawing the resultant solution and combining it with the remainder of the solvent in a larger sterile container.
 
