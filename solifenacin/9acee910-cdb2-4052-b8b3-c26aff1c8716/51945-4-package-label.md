@@ -1,31 +1,23 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg Sample Carton - side 1
+# PRINCIPAL DISPLAY PANEL - 5 mg Carton
 
-# PRINCIPAL DISPLAY PANEL – 5 mg Sample Carton - side 2
+NDC 51248-150-01
 
-NDC 51248-150-51
-
-Sample-Not for Sale
-
-Rx only
-
-VESIcare® (solifenacin succinate) tablets
+VESIcare® (solifenacin succinate) tablets 5 mg
 
 Each tablet contains 5 mg of solifenacin succinate
 
-7 Tablets
+Rx ONLY
 
-# PRINCIPAL DISPLAY PANEL – 10 mg Sample Carton - side 1
+5 mg 30 tablets
 
-# PRINCIPAL DISPLAY PANEL – 10 mg Sample Carton - side 2
+# PRINCIPAL DISPLAY PANEL – 10 mg Carton
 
-NDC 51248-151-51
+NDC 51248-151-01
 
-Sample-Not for Sale
-
-Rx only
-
-VESIcare® (solifenacin succinate) tablets
+VESIcare® (solifenacin succinate) tablets 10 mg
 
 Each tablet contains 10 mg of solifenacin succinate
 
-7 Tablets
+Rx ONLY
+
+10 mg 30 tablets

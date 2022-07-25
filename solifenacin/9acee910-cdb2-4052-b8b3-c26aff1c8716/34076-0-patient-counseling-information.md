@@ -33,8 +33,8 @@ Heat prostration due to decreased sweating can occur when VESIcare is used in a 
 
 Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-VESIcare® is a registered trademark of Astellas Pharma Inc.
+VESIcare is a registered trademark of Astellas Pharma Inc.
 
-© 2004 – 2020 Astellas Pharma US, Inc.
+© 2004 – 2022 Astellas Pharma US, Inc.
 
-254285-VES
+353293-VES
