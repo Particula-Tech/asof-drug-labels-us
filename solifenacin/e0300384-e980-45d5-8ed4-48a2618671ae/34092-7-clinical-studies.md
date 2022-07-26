@@ -38,19 +38,14 @@ Table 5: Changes from Baseline in Other Urodynamic Parameters at Week 24 in Pedi
 
 |  | Aged 2 to Less than 5 Years(N=17)Mean (SD) | Aged 5 to 17 Years(N=49)Mean (SD) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Bladder Compliance (mL/cm H2O) |  |  |  |  |  |
-| Baseline Change from baseline | 5.7 (4.9)5.8 (7.3)95% CI: 2.2, 9.6 | 14.6 (36.4)Baseline values for patients aged 5 to 17 years are based on patients who took at least one dose and provided valid baseline and at least one post-baseline values for MCC.9.1 (28.6)95% CI: 1.0, 17.2 |  |  |  |
-| Number of Overactive Detrusor Contractions (> 15 cm H2O) |  |  |  |  |  |
-| Baseline Change from baseline | 9.9 (11.6)-7.0 (9.3)95% CI: -11.8, -2.2 | 3.9 (4.7)-2.3 (5.1)95% CI: -3.7, -0.8 |  |  |  |
-| Percentage of Expected Bladder Volume Prior To First Detrusor Contraction > 15 cm H2OFor patients who showed a detrusor contraction during the urodynamic assessment at Week 24. |  |  |  |  |  |
-| Baseline (median) Change from baseline (median) | 15.8%31.1% | 27.7%13.3% |  |  |  |
+| Bladder Compliance (mL/cm H2O) Baseline Change from baseline | 5.7 (4.9)5.8 (7.3)95% CI: 2.2, 9.6 | 14.6 (36.4)Baseline values for patients aged 5 to 17 years are based on patients who took at least one dose and provided valid baseline and at least one post-baseline values for MCC.9.1 (28.6)95% CI: 1.0, 17.2 |  |  |  |
+| Number of Overactive Detrusor Contractions(> 15 cm H2O) Baseline Change from baseline | 9.9 (11.6)-7.0 (9.3)95% CI: -11.8, -2.2 | 3.9 (4.7)-2.3 (5.1)95% CI: -3.7, -0.8 |  |  |  |
+| Percentage of Expected Bladder Volume Prior To First Detrusor Contraction > 15 cm H2OFor patients who showed a detrusor contraction during the urodynamic assessment at Week 24. Baseline (median) Change from baseline (median) | 15.8%31.1% | 27.7%13.3% |  |  |  |
 | N is the number of patients who took at least one dose and provided valid values for MCC at baseline and Week 24. |  |  |  |  |  |
 
 Table 6: Changes from Baseline in Maximum Catheterized Urine Volume and Number of Incontinence Episodes at Week 24 in Pediatric Patients with Neurogenic Detrusor Overactivity (NDO) Treated with VESIcare LS Oral Suspension in Studies 1 and 2
 
 |  | Aged 2 to Less than 5 Years(N=17) | Aged 5 to 17 Years(N=49) |
 | --- | --- | --- |
-| Maximum Catheterized Urine Volume/Day (mL) |  |  |
-| Baseline Change from baseline | 77 (43.0)45 (54.7)95% CI: 15, 76 | 204 (92.7)68 (88.1)95% CI: 43, 92 |
-| Number of Incontinence Episodes/24 hoursFor patients aged 2 to less than 5 years, the number of incontinence episodes per 24 hours was evaluated as the number of periods between clean intermittent catheterizations with incontinence per 24 hours. |  |  |
-| Baseline Change from baseline | 3.9 (0.8)-1.6 (1.2)95% CI: -2.3, -0.9 | 3.4 (2.9)-1.6 (2.0)95% CI: -2.2, -1.0 |
+| Maximum Catheterized Urine Volume/Day (mL) Baseline Change from baseline | 77 (43.0)45 (54.7)95% CI: 15, 76 | 204 (92.7)68 (88.1)95% CI: 43, 92 |
+| Number of Incontinence Episodes/24 hoursFor patients aged 2 to less than 5 years, the number of incontinence episodes per 24 hours was evaluated as the number of periods between clean intermittent catheterizations with incontinence per 24 hours. Baseline Change from baseline | 3.9 (0.8)-1.6 (1.2)95% CI: -2.3, -0.9 | 3.4 (2.9)-1.6 (2.0)95% CI: -2.2, -1.0 |

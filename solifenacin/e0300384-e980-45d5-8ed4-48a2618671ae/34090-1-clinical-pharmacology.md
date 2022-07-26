@@ -40,8 +40,8 @@ Absorption
 After oral administration of VESIcare LS in pediatric patients with neurogenic detrusor overactivity (NDO) aged 2 to 17 years, peak plasma concentrations (Cmax) of solifenacin were reached within 2 to 6 hours after administration (tmax) and, at steady-state, the dose-normalized Cmax ranged from 2.5 - 29 ng/mL/mg.
 The absolute bioavailability of solifenacin in adults is approximately 90%, with plasma concentrations of solifenacin proportional to the dose administered.
 
-- Effect of Food
-- Food intake did not significantly affect the Cmax and AUC of solifenacin following oral administration of VESIcare LS.
+1. Effect of Food
+2. Food intake did not significantly affect the Cmax and AUC of solifenacin following oral administration of VESIcare LS.
 
 Distribution
 
@@ -52,44 +52,44 @@ Elimination
 
 The median elimination half-life of solifenacin is approximately 26 hours in pediatric neurogenic detrusor overactivity (NDO) patients 2 years of age and older.
 
-- Metabolism
-- Solifenacin is extensively metabolized in the liver.
-  The primary pathway for elimination is by way of CYP3A4; however, alternate metabolic pathways exist.
-  The primary metabolic routes of solifenacin are through N-oxidation of the quinuclidin ring and 4R-hydroxylation of the tetrahydroisoquinoline ring.
-  One pharmacologically active metabolite (4R-hydroxy solifenacin), occurring at low concentrations and unlikely to contribute significantly to clinical activity, and three pharmacologically inactive metabolites (N-glucuronide and the N-oxide and 4R-hydroxy-N-oxide of solifenacin) have been found in human plasma after oral dosing.
-- Excretion
-- Following the administration of 10 mg of 14C-solifenacin succinate to healthy adult volunteers, 69% of the radioactivity was recovered in the urine and 23% in the feces over 26 days.
-  Less than 15% (as mean value) of the dose was recovered in the urine as intact solifenacin.
-  The major metabolites identified in urine were N-oxide of solifenacin, 4R-hydroxy solifenacin, and 4R-hydroxy-N-oxide of solifenacin and, in feces, 4R-hydroxy solifenacin.
+1. Metabolism
+2. Solifenacin is extensively metabolized in the liver.
+   The primary pathway for elimination is by way of CYP3A4; however, alternate metabolic pathways exist.
+   The primary metabolic routes of solifenacin are through N-oxidation of the quinuclidin ring and 4R-hydroxylation of the tetrahydroisoquinoline ring.
+   One pharmacologically active metabolite (4R-hydroxy solifenacin), occurring at low concentrations and unlikely to contribute significantly to clinical activity, and three pharmacologically inactive metabolites (N-glucuronide and the N-oxide and 4R-hydroxy-N-oxide of solifenacin) have been found in human plasma after oral dosing.
+3. Excretion
+4. Following the administration of 10 mg of 14C-solifenacin succinate to healthy adult volunteers, 69% of the radioactivity was recovered in the urine and 23% in the feces over 26 days.
+   Less than 15% (as mean value) of the dose was recovered in the urine as intact solifenacin.
+   The major metabolites identified in urine were N-oxide of solifenacin, 4R-hydroxy solifenacin, and 4R-hydroxy-N-oxide of solifenacin and, in feces, 4R-hydroxy solifenacin.
 
 Specific Populations
 
-- Patients with Renal Impairment
-- In studies with solifenacin succinate 10 mg in adults, there was a 2.1-fold increase in AUC and a 1.6-fold increase in t1/2 of solifenacin in patients with severe renal impairment compared to subjects with normal renal function [see Use in Specific Populations (8.6)].
-- Patients with Hepatic Impairment
-- In studies with solifenacin succinate 10 mg in adults, there was a 2-fold increase in the t1/2 and a 35% increase in AUC of solifenacin in patients with moderate hepatic impairment compared to subjects with normal hepatic function [see Use in Specific Populations (8.7)].
-  Solifenacin succinate has not been studied in patients with severe hepatic impairment.
+1. Patients with Renal Impairment
+2. In studies with solifenacin succinate 10 mg in adults, there was a 2.1-fold increase in AUC and a 1.6-fold increase in t1/2 of solifenacin in patients with severe renal impairment compared to subjects with normal renal function [see Use in Specific Populations (8.6)].
+3. Patients with Hepatic Impairment
+4. In studies with solifenacin succinate 10 mg in adults, there was a 2-fold increase in the t1/2 and a 35% increase in AUC of solifenacin in patients with moderate hepatic impairment compared to subjects with normal hepatic function [see Use in Specific Populations (8.7)].
+   Solifenacin succinate has not been studied in patients with severe hepatic impairment.
 
 Drug Interaction Studies
 
 Interaction studies have only been performed in adults.
 In pediatric patients 2 years of age and older, metabolism via CYP3A4 is the major route of elimination and the metabolic capacity of the liver is similar.
 
-- Strong CYP3A4 Inhibitors
-- In a crossover study in adults, following blockade of CYP3A4 by coadministration of the strong CYP3A4 inhibitor, ketoconazole 400 mg once daily for 21 days, the mean Cmax and AUC of solifenacin increased by 1.5 and 2.7-fold, respectively [see Dosage and Administration (2.4) and Drug Interactions (7.1)].
-- CYP3A4 Inducers
-- Because solifenacin is a substrate of CYP3A4, inducers of CYP3A4 may decrease the concentration of solifenacin.
-- Warfarin
-- In a crossover study in adults, subjects received a single oral dose of warfarin 25 mg on the 10th day of dosing with either solifenacin succinate 10 mg or matching placebo once daily for 16 days.
-  For R-warfarin, when it was coadministered with solifenacin succinate, the mean Cmax increased by 3% and AUC decreased by 2%.
-  For S-warfarin, when it was coadministered with solifenacin succinate, the mean Cmax and AUC increased by 5% and 1%, respectively.
-- Oral Contraceptives
-- In a crossover study in adults, subjects received 2 cycles of 21 days of oral contraceptives containing 30 ug ethinyl estradiol and 150 ug levonorgestrel.
-  During the second cycle, subjects received additional solifenacin succinate 10 mg or matching placebo once daily for 10 days starting from the 12th day of receipt of oral contraceptives.
-  For ethinyl estradiol, when it was administered with solifenacin succinate, the mean Cmax and AUC increased by 2% and 3%, respectively.
-  For levonorgestrel, when it was administered with solifenacin succinate, the mean Cmax and AUC decreased by 1%.
-- Digoxin
-- In a crossover study in adults, subjects received digoxin (loading dose of 0.25 mg on day 1, followed by 0.125 mg from days 2 to 8) for 8 days.
-  Consecutively, they received solifenacin succinate 10 mg or matching placebo with digoxin 0.125 mg for an additional 10 days.
-  When digoxin was coadministered with solifenacin succinate, the mean Cmax and AUC increased by 13% and 4%, respectively.
-- Drugs Metabolized by Cytochrome P450 Enzymes In vitro studies demonstrated that, at therapeutic concentrations, solifenacin does not inhibit CYP1A1/2, 2C9, 2C19, 2D6, or 3A4 derived from human liver microsomes.
+1. Strong CYP3A4 Inhibitors
+2. In a crossover study in adults, following blockade of CYP3A4 by coadministration of the strong CYP3A4 inhibitor, ketoconazole 400 mg once daily for 21 days, the mean Cmax and AUC of solifenacin increased by 1.5 and 2.7-fold, respectively [see Dosage and Administration (2.4) and Drug Interactions (7.1)].
+3. CYP3A4 Inducers
+4. Because solifenacin is a substrate of CYP3A4, inducers of CYP3A4 may decrease the concentration of solifenacin.
+5. Warfarin
+6. In a crossover study in adults, subjects received a single oral dose of warfarin 25 mg on the 10th day of dosing with either solifenacin succinate 10 mg or matching placebo once daily for 16 days.
+   For R-warfarin, when it was coadministered with solifenacin succinate, the mean Cmax increased by 3% and AUC decreased by 2%.
+   For S-warfarin, when it was coadministered with solifenacin succinate, the mean Cmax and AUC increased by 5% and 1%, respectively.
+7. Oral Contraceptives
+8. In a crossover study in adults, subjects received 2 cycles of 21 days of oral contraceptives containing 30 ug ethinyl estradiol and 150 ug levonorgestrel.
+   During the second cycle, subjects received additional solifenacin succinate 10 mg or matching placebo once daily for 10 days starting from the 12th day of receipt of oral contraceptives.
+   For ethinyl estradiol, when it was administered with solifenacin succinate, the mean Cmax and AUC increased by 2% and 3%, respectively.
+   For levonorgestrel, when it was administered with solifenacin succinate, the mean Cmax and AUC decreased by 1%.
+9. Digoxin
+10. In a crossover study in adults, subjects received digoxin (loading dose of 0.25 mg on day 1, followed by 0.125 mg from days 2 to 8) for 8 days.
+    Consecutively, they received solifenacin succinate 10 mg or matching placebo with digoxin 0.125 mg for an additional 10 days.
+    When digoxin was coadministered with solifenacin succinate, the mean Cmax and AUC increased by 13% and 4%, respectively.
+11. Drugs Metabolized by Cytochrome P450 Enzymes In vitro studies demonstrated that, at therapeutic concentrations, solifenacin does not inhibit CYP1A1/2, 2C9, 2C19, 2D6, or 3A4 derived from human liver microsomes.
