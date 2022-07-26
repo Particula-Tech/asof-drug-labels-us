@@ -14,9 +14,9 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured For:
 
-TORRENT PHARMA INC., Levittown, PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8083235 Revised August 2021
+8088524 Revised July 2022
 
 DONEPEZIL HYDROCHLORIDE TABLETS PATIENT PACKAGE INSERT
 
@@ -140,7 +140,7 @@ The most common side effects of donepezil hydrochloride tablets are:
 - feeling tired
 - not wanting to eat
 
-These side effects may get better after the patient takes donepezil hydrochloride tablets for a while.
+These side effects may get better after you take donepezil hydrochloride tablets for a while.
 This is not a complete list of side effects with donepezil hydrochloride tablets.
 For more information, ask the doctor or pharmacist.
 
@@ -161,7 +161,7 @@ Do not use donepezil hydrochloride tablets for a condition for which it was not 
 Do not give donepezil hydrochloride tablets to people other than the patient, even if they have the same symptoms as the patient, as it may harm them.
 
 This leaflet summarizes the most important information about donepezil hydrochloride tablets.
-If you would like more information talk with the patient’s doctor.
+If you would like more information talk with your doctor.
 You can ask your pharmacist or doctor for information about donepezil hydrochloride tablets that is written for health professionals.
 For more information, call 1-800-912-9561.
 
@@ -183,6 +183,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8083234 Revised August 2021
+8088523 Revised July 2022

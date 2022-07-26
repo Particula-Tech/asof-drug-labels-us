@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with the use od donepezil in pregnant women.
+There are no adequate data on the developmental risks associated with the use of donepezil in pregnant women.
 In animal studies, developmental toxicity was not observed when donepezil was administered to pregnant rats and rabbits during organogenesis, but administration to rats during the latter part od pregnancy and throughout lactation resulted in increased stillbirths and decreased offspring survival at clinciallky relevant doses [see Data].
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clincially recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
 The background risks of major birth defects and miscarriage for the indicated population are unknown.
