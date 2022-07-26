@@ -60,8 +60,8 @@ For Customer Service, call 1-888-394-7377.
 For Medical Information, call 1-800-739-0565.
 To report suspected adverse reactions, call 1-877-737-7226.
 
-10092-02
+10092-03
 
-LATUDA is a registered trademark of Sumitomo Dainippon Pharma Co. Ltd. Sunovion Pharmaceuticals Inc. is a U.S. subsidiary of Sumitomo Dainippon Pharma Co. Ltd.
+LATUDA is a registered trademark of Sumitomo Pharma Co. Ltd. Sunovion Pharmaceuticals Inc. is a U.S. subsidiary of Sumitomo Pharma Co. Ltd.
 
 © 2019 Sunovion Pharmaceuticals Inc.
