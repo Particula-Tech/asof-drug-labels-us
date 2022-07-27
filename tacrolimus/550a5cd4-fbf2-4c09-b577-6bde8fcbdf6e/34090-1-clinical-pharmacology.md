@@ -108,7 +108,7 @@ Table 9: Tacrolimus Pharmacokinetic Parameters at Steady State Following 1:1 (mg
 | Cmax (ng/mL) | 14.9 ± 5.8(4.9 – 34.4) | 12.5 ± 4.5(5.4 – 24.4) |  |
 | C24a (ng/mL) | 5.6 ± 1.9(2.9 – 13.8) | 5.1 ± 1.4(2.0 – 8.4) |  |
 
-1. a Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules and at 24 hours after the morning dose of ASTAGRAF XL once daily under steady-state conditions.
+- a Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules and at 24 hours after the morning dose of ASTAGRAF XL once daily under steady-state conditions.
 
 Patients with Renal Impairment Tacrolimus pharmacokinetics following a single administration of tacrolimus immediate-release injection (administered as a continuous IV infusion) were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9 ± 1.6 and 12.0 ± 2.4 mg/dL, respectively) prior to their kidney transplant.
 The mean clearance of tacrolimus in patients with renal dysfunction given tacrolimus IV was similar to that in healthy subjects given tacrolimus IV and in healthy subjects given oral tacrolimus immediate-release [see Use in Specific Populations (8.6)].
