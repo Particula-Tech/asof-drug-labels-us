@@ -125,6 +125,10 @@ Manufactured by:
 
 Cipla Ltd., MIDC Patalganga, India
 
+Manufactured by:
+
+Cipla Ltd.,Indore SEZ, Pithampur, India
+
 Manufactured for:
 
 Cipla USA, Inc.

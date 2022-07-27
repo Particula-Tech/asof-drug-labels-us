@@ -42,6 +42,10 @@ Manufactured by:
 
 Cipla Ltd., MIDC Patalganaga, India
 
+Manufactured by:
+
+Cipla Ltd., Indore SEZ, Pithampur, India
+
 Manufactured for:
 
 Cipla USA, Inc.
