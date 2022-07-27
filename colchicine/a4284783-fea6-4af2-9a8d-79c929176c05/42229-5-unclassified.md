@@ -50,7 +50,7 @@ Before you take colchicine tablets, USP, tell your healthcare provider about all
 - are breastfeeding or plan to breastfeed.
   Colchicine passes into your breast milk.
   You and your healthcare provider should decide if you will take colchicine tablets, USP while breastfeeding.
-  If you take colchicine tablets, USP and breastfeed you should talk to your child’s healthcare provider about how to watch for side effects in your child.
+  If you take colchicine tablets, USP and breastfeed, you should talk to your child’s healthcare provider about how to watch for side effects in your child.
 
 Tell your healthcare provider about all the medicines you take, including ones that you may only be taking for a short time, such as antibiotics.
 See “What is the most important information that I should know about colchicine tablets, USP?”
@@ -68,11 +68,10 @@ How should I take colchicine tablets, USP?
 - If you take too much colchicine tablets, USP, go to the nearest hospital emergency room right away.
 - Do not stop taking colchicine tablets, USP even if you start to feel better, unless your healthcare provider tells you.
 - Your healthcare provider may do blood tests while you take colchicine tablets, USP.
-
-If you take colchicine tablets, USP daily and you miss a dose, then take it as soon as you remember.
-If it is almost time for your next dose, just skip the missed dose.
-Take the next dose at your regular time.
-Do not take 2 doses at the same time.
+- If you take colchicine tablets, USP daily and you miss a dose, then take it as soon as you remember.
+  If it is almost time for your next dose, just skip the missed dose.
+  Take the next dose at your regular time.
+  Do not take 2 doses at the same time.
 
 What should I avoid while taking colchicine tablets, USP? • Avoid eating grapefruit or drinking grapefruit juice while taking colchicine tablets, USP.
 It can increase your chances of getting serious side effects.
@@ -119,10 +118,10 @@ Active Ingredient: colchicine.
 Inactive Ingredients: FD&C Blue #2, FD&C Red #40, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, pregelatinized starch, sodium starch glycolate, titanium dioxide and triacetin.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA.
+Manufactured by: Alkem Laboratories Ltd., INDIA.
 
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054.
 
-Revised: September, 2020
+Revised: January, 2022
 
-PT 2920-01
+PT 9063-02

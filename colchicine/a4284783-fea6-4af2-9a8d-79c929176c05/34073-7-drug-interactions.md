@@ -4,10 +4,8 @@ Colchicine is a substrate of the efflux transporter P-glycoprotein (P-gp).
 Of the cytochrome P450 enzymes tested, CYP3A4 was mainly involved in the metabolism of colchicine.
 If colchicine tablets is administered with drugs that inhibit P-gp, most of which also inhibit CYP3A4, increased concentrations of colchicine are likely.
 Fatal drug interactions have been reported.
-
 Physicians should ensure that patients are suitable candidates for treatment with colchicine tablets and remain alert for signs and symptoms of toxicities related to increased colchicine exposure as a result of a drug interaction.
 Signs and symptoms of colchicine tablets toxicity should be evaluated promptly and, if toxicity is suspected, colchicine tablets should be discontinued immediately.
-
 Table 4 provides recommendations as a result of other potentially significant drug interactions.
 Table 1 provides recommendations for strong and moderate CYP3A4 inhibitors and P-gp inhibitors.
 Table 4.

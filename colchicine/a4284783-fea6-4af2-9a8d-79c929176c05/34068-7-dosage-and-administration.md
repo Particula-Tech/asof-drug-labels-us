@@ -2,8 +2,7 @@
 
 The long-term use of colchicine is established for FMF.
 
-The recommended dosage of colchicine tablets depends on the patient’s age, renal function, hepatic function and use of coadministered drugs.
-[see Dosage and Administration (2.4, 2.5, 2.6)].
+The recommended dosage of colchicine tablets depends on the patient’s age, renal function, hepatic function and use of coadministered drugs [see Dosage and Administration (2.4, 2.5, 2.6)].
 
 Colchicine tablets are administered orally without regard to meals.
 
@@ -33,7 +32,8 @@ The following daily doses may be given as a single or divided dose twice daily:
 ## 2.4 Dose Modification for Coadministration of Interacting Drugs
 
 Concomitant Therapy Coadministration of colchicine tablets with drugs known to inhibit CYP3A4 and/or P-glycoprotein (P-gp) increases the risk of colchicine-induced toxic effects (Table 1).
-If patients are taking or have recently completed treatment with drugs listed in Table 1 within the prior 14 days, the dose adjustments are as shown in the table below [see Drug Interactions (7)] Table 1.
+If patients are taking or have recently completed treatment with drugs listed in Table 1 within the prior 14 days, the dose adjustments are as shown in the table below [see Drug Interactions (7)].
+Table 1.
 Colchicine tablets Dose Adjustment for Coadministration with Interacting Drugs if No Alternative Available*
 
 | Strong CYP3A4 Inhibitors† |  |  |  |
@@ -48,7 +48,7 @@ Colchicine tablets Dose Adjustment for Coadministration with Interacting Drugs i
 | P-gp Inhibitors† |  |  |  |
 |  |  | FMF |  |
 | Drug | Noted or Anticipated Outcome | Original Intended Dosage | Adjusted Dose |
-| Cyclosporine Ranolazine | Significant increase in colchicine plasma levels*; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | Maximum daily dose of 1.2 –2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). |
+| Cyclosporine Ranolazine | Significant increase in colchicine plasma levels*; fatal colchicine toxicity has been reported with cyclosporine, a P-gp inhibitor. Similarly, significant increase in colchicine plasma levels is anticipated with other P-gp inhibitors. | Maximum daily dose of 1.2 –2.4 mg | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 
 *For magnitude of effect on colchicine plasma concentrations [see Clinical Pharmacology (12.3)]
 
@@ -74,8 +74,7 @@ Colchicine tablets Dose Adjustment for Coadministration with Protease Inhibitors
 
 ## 2.5 Dose Modification in Renal Impairment
 
-Colchicine dosing must be individualized according to the patient's renal function.
-[see Use in Specific Populations (8.6)].
+Colchicine dosing must be individualized according to the patient's renal function [see Use in Specific Populations (8.6)].
 Clcr in mL/minute may be estimated from serum creatinine (mg/dL) determination using the following formula:
 
 FMF Caution should be taken in dosing patients with moderate and severe renal impairment and in patients undergoing dialysis.

@@ -10,7 +10,7 @@ Additionally, colchicine disrupts cytoskeletal functions through inhibition of Î
 Absorption In healthy adults, colchicine is absorbed when given orally, reaching a mean Cmax of 2.5 ng/mL (range 1.1 to 4.4 ng/mL) in one to two hours (range 0.5 to 3 hours) after a single dose administered under fasting conditions.
 
 Following oral administration of colchicine given as 1.8 mg colchicine over one hour to healthy, young adults under fasting conditions, colchicine appears to be readily absorbed, reaching mean maximum plasma concentrations of 6.2 ng/mL at a median 1.81 hours (range: 1.0 to 2.5 hours).
-Following administration of the non-recommended high-dose regimen (4.8 mg over six hours), mean maximal plasma concentrations were 6.8 ng/mL, at a median 4.47 hours (range: 3.1 to 7.5 hours).
+Following administration of the nonrecommended high-dose regimen (4.8 mg over six hours), mean maximal plasma concentrations were 6.8 ng/mL, at a median 4.47 hours (range: 3.1 to 7.5 hours).
 
 After ten days on a regimen of 0.6 mg twice daily, peak concentrations are 3.1 to 3.6 ng/mL (range 1.6 to 6.0 ng/mL), occurring 1.3 to 1.4 hours postdose (range 0.5 to 3.0 hours).
 Mean pharmacokinetic parameter values in healthy adults are shown in Table 5.
@@ -80,7 +80,7 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 
 Renal Impairment Pharmacokinetics of colchicine in patients with mild and moderate renal impairment is not known.
 A published report described the disposition of colchicine (1 mg) in young adult men and women with FMF who had normal renal function or end-stage renal disease requiring dialysis.
-Patients with end-stage renal disease had 75% lower colchicine clearance (0.17 vs 0.73 L/hr/kg) and prolonged plasma elimination half-life (18.8 vs 4.4 hours) as compared to subjects with FMF and normal renal function [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
+Patients with end-stage renal disease had 75% lower colchicine clearance (0.17 vs 0.73 L/hr/kg) and prolonged plasma elimination half-life (18.8 vs. 4.4 hours) as compared to subjects with FMF and normal renal function [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
 
 Hepatic Impairment Published reports on the pharmacokinetics of IV colchicine in patients with severe chronic liver disease, as well as those with alcoholic or primary biliary cirrhosis and normal renal function suggest wide interpatient variability.
 In some subjects with mild to moderate cirrhosis, the clearance of colchicine is significantly reduced and plasma half-life prolonged compared to healthy subjects.

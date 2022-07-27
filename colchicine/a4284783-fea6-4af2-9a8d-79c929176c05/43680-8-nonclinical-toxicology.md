@@ -1,6 +1,8 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis,Mutagenesis,Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+Carcinogenesis
 
 Two year studies were conducted in mice and rats to assess the carcinogenic potential of colchicine.
 No evidence of colchicine-related tumorigenicity was observed in mice or rats at colchicine oral doses up to 3 and 2 mg/kg/day, respectively (approximately six and eight times, respectively, the maximum recommended human dose of 2.4 mg on a mg/m2 basis).

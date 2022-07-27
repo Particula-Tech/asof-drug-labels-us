@@ -35,7 +35,3 @@ Patients developing any of these signs or symptoms must discontinue colchicine t
 Infertility
 
 Advise males of reproductive potential that colchicine tablets may rarely and transiently impair fertility [see Use in Specific Populations (8.3)].
-
-Revised: September, 2020
-
-PT 2919-02/ PT 9063-01
