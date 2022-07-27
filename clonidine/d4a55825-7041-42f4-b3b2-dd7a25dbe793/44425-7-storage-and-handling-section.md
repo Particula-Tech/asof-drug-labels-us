@@ -10,4 +10,4 @@ Address medical inquiries to: (866) 380-1080
 
 Copyright © 2021 Technomed Inc. ALL RIGHTS RESERVED
 
-Revised: January 2022
+Revised: March 2022

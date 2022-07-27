@@ -27,7 +27,7 @@ How to Apply the Catapres-TTS® PATCH
 3. Wash hands with soap and water and thoroughly dry them.
 4. Clean the area chosen with soap and water.
    Rinse and wipe dry with a clean, dry tissue.
-5. Select the pouch with the red color labeled Catapres-TTS® and open it as illustrated in Figure 3.
+5. Select the pouch with the red and orange colors labeled Catapres-TTS® and open it as illustrated in Figure 3.
    Remove the square, tan PATCH from the pouch.
    Figure 3
 6. Remove the clear plastic protective backing from the PATCH by gently peeling off one half of the backing at a time as shown in Figure 4.
@@ -37,7 +37,7 @@ How to Apply the Catapres-TTS® PATCH
    Discard the clear plastic protective backing and wash your hands with soap and water to remove any drug from your hands.
    Figure 5
 8. After one week, remove the old PATCH and discard it (refer to Instructions for Disposal).
-   After choosing a different skin site, repeat instructions 2 through 7 for the application of your next Catapres‑TTS® (clonidine) PATCH.
+   After choosing a different skin site, repeat instructions 2 through 7 for the application of your next Catapres‑TTS® PATCH.
 
 What to do if your Catapres-TTS® PATCH becomes loose while wearing:
 
@@ -50,7 +50,7 @@ The COVER should be applied directly over the Catapres‑TTS® PATCH only if the
 2. Using a clean, dry tissue, make sure that the area around the square, tan Catapres-TTS® PATCH is clean and dry.
    Press gently on the Catapres‑TTS® PATCH to ensure that the edges are in good contact with the skin.
 3. Take the white, round, ADHESIVE COVER (Figure 6) from the plain white pouch and remove the paper liner backing from the COVER.
-4. Carefully center the round, white ADHESIVE COVER over the square, tan Catapres‑TTS® (clonidine) PATCH and apply firm pressure, especially around the edges in contact with the skin.
+4. Carefully center the round, white ADHESIVE COVER over the square, tan Catapres‑TTS® PATCH and apply firm pressure, especially around the edges in contact with the skin.
 
 How should I store the Catapres-TTS® PATCH?
 Store the Catapres-TTS® PATCH at room temperature 68°F to 77°F (20°C to 25°C)
@@ -67,4 +67,4 @@ Catapres-TTS® is a registered trademark of Boehringer Ingelheim International G
 
 Copyright © 2021 Technomed Inc. ALL RIGHTS RESERVED
 
-Revised: January 2022
+Revised: March 2022
