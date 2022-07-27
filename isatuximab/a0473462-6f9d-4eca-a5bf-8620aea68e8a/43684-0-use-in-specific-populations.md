@@ -43,6 +43,8 @@ Refer to pomalidomide prescribing information for additional information.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+SARCLISA can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
 With the combination of SARCLISA with pomalidomide, refer to the pomalidomide labeling for pregnancy testing requirements prior to initiating treatment in females of reproductive potential.
@@ -51,8 +53,7 @@ Contraception
 
 Females
 
-SARCLISA can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise female patients of reproductive potential to use effective contraception during treatment and for at least 5 months after the last dose of SARCLISA.
+Advise female patients of reproductive potential to use effective contraception during treatment and for 5 months after the last dose of SARCLISA.
 Additionally, refer to the pomalidomide labeling for contraception requirements prior to initiating treatment in females of reproductive potential.
 
 Males

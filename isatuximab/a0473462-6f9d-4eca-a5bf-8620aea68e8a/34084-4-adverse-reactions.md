@@ -93,9 +93,11 @@ Table 5: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Carfilzomib,
 
 | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reactions | SARCLISA + Carfilzomib + Dexamethasone (Isa-Kd) (N=177) |  |  | Carfilzomib + Dexamethasone (Kd) (N=122) |  |  |
+| Adverse Reactions | SARCLISA + Carfilzomib + Dexamethasone (Isa-Kd) |  |  | Carfilzomib + Dexamethasone (Kd) |  |  |
+| (N=177) |  |  | (N=122) |  |  |  |
 | General disorders and administration site conditions |  |  |  |  |  |  |
 | Infusion-related reactionInfusion-related reaction includes infusion-related reaction, cytokine release syndrome, and hypersensitivity. | 46 | 0.6 | 0 | 3.3 | 0 | 0 |
+| FatigueFatigue includes fatigue and asthenia. | 42 | 5 | 0 | 32 | 3.3 | 0 |
 | Infections |  |  |  |  |  |  |
 | Upper respiratory tract infectionUpper respiratory tract infection includes acute sinusitis, chronic sinusitis, H1N1 influenza, H3N2 influenza, influenza, laryngitis, laryngitis viral, nasal herpes, nasopharyngitis, pharyngitis, pharyngotonsillitis, respiratory syncytial virus infection, rhinitis, sinusitis, sinusitis bacterial, tonsillitis, tracheitis, upper respiratory tract infection, viral rhinitis, respiratory tract infection, respiratory tract infection viral, influenza like illness, parainfluenzae virus infection, respiratory tract infection bacterial, and viral upper respiratory tract infection. | 67 | 9 | 0 | 57 | 7 | 0 |
 | PneumoniaPneumonia includes atypical pneumonia, lower respiratory tract infection, lower respiratory tract infection viral, pneumocystis jirovecii pneumonia, pneumonia, pneumonia influenzal, pneumonia legionella, pneumonia pneumococcal, pneumonia respiratory syncytial viral, pneumonia streptococcal, pneumonia viral, pulmonary sepsis, and pulmonary tuberculosis. | 36 | 19 | 3.4 | 30 | 15 | 2.5 |
@@ -108,8 +110,6 @@ Table 5: Adverse Reactions (≥10%) in Patients Receiving SARCLISA, Carfilzomib,
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | Diarrhea | 36 | 2.8 | 0 | 29 | 2.5 | 0 |
 | Vomiting | 15 | 1.1 | 0 | 9 | 0.8 | 0 |
-| General disorders and administration site conditions |  |  |  |  |  |  |
-| FatigueFatigue includes fatigue and asthenia. | 42 | 5 | 0 | 32 | 3.3 | 0 |
 
 Table 6 summarizes the hematology laboratory abnormalities in IKEMA.
 
@@ -156,6 +156,9 @@ In IKEMA, the incidence of grade 3 or higher infections was 38% in the Isa-Kd gr
 Pneumonia was the most common severe infection with grade 3 in 19% of patients in the Isa-Kd group compared to 15% in the Kd group, and grade 4 in 3.4% of patients in the Isa-Kd group compared to 2.5% in the Kd group.
 Treatment was discontinued due to infection in 2.8% of patients in the Isa-Kd group compared to 4.9% in the Kd group.
 Fatal infections occurred in 2.3% of patients in the Isa-Kd group and 0.8% in the Kd group.
+
+In relapsed and refractory multiple myeloma clinical trials, herpes zoster was reported in 2% of patients.
+In ICARIA-MM, the incidence of herpes zoster was 4.6% in the Isa-Pd group compared to 0.7% in the Pd group, and in IKEMA, incidence was 2.3% in the Isa-Kd group compared to 1.6% in the Kd group.
 
 Cardiac failure
 

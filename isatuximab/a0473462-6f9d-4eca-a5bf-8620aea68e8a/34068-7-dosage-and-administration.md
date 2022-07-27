@@ -24,7 +24,7 @@ Missed SARCLISA Doses
 
 If a planned dose of SARCLISA is missed, administer the dose as soon as possible and adjust the treatment schedule accordingly, maintaining the treatment interval.
 
-## 2.2 Recommended Premedications
+## 2.2 Recommended Premedications and Antiviral Prophylaxis
 
 Administer the following premedications prior to SARCLISA infusion to reduce the risk and severity of infusion-related reactions [see Warnings and Precautions (5.1)]:
 
@@ -39,6 +39,10 @@ The above recommended dose of dexamethasone (orally or intravenously) correspond
 Administer dexamethasone before SARCLISA and pomalidomide and before SARCLISA and carfilzomib administration.
 
 Administer the recommended premedication agents 15 to 60 minutes prior to starting a SARCLISA infusion.
+
+Prophylaxis for Herpes Zoster Reactivation
+
+Initiate antiviral prophylaxis to prevent herpes zoster reactivation based on standard guidelines [see Adverse Reactions (6.1)].
 
 ## 2.3 Dose Modifications
 

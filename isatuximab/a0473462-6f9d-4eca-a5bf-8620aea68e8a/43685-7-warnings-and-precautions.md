@@ -35,8 +35,9 @@ The most frequent neutropenic infections included infections of the upper respir
 
 In patients treated with Isa-Kd, neutropenia occurred in 55% of patients, with grade 3–4 neutropenia in 19% of patients (grade 3 in 18% and grade 4 in 1.7%).
 Neutropenic complications occurred in 2.8% of patients, including febrile neutropenia (1.1%) and neutropenic infections (1.7%) [see Adverse Reactions (6.1)].
+
 Monitor complete blood cell counts periodically during treatment.
-Consider the use of antibiotics and antiviral prophylaxis during treatment.
+Consider the use of antibiotics and antiviral prophylaxis during treatment [see Dosage and Administration (2.2)].
 Monitor patients with neutropenia for signs of infection.
 In case of grade 4 neutropenia delay SARCLISA dose until neutrophil count recovery to at least 1.0 × 109/L, and provide supportive care with growth factors, according to institutional guidelines.
 No dose reductions of SARCLISA are recommended.
@@ -79,6 +80,6 @@ This interference can impact the accuracy of the determination of complete respo
 Based on the mechanism of action, SARCLISA can cause fetal harm when administered to a pregnant woman.
 SARCLISA may cause fetal immune cell depletion and decreased bone density.
 Advise pregnant women of the potential risk to a fetus.
-Advise females with reproductive potential to use an effective method of contraception during treatment with SARCLISA and for at least 5 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise females with reproductive potential to use an effective method of contraception during treatment with SARCLISA and for 5 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 The combination of SARCLISA with pomalidomide is contraindicated in pregnant women because pomalidomide may cause birth defects and death of the unborn child.
 Refer to the pomalidomide prescribing information on use during pregnancy.

@@ -38,7 +38,7 @@ Table 7: Efficacy of SARCLISA in Combination with Pomalidomide and Dexamethasone
 | Endpoint | SARCLISA + Pomalidomide + Dexamethasone | Pomalidomide + Dexamethasone |
 | Progression-Free Survival |  |  |
 | Median (months) [95% CI] | 11.53 [8.94–13.9] | 6.47 [4.47–8.28] |
-| Hazard ratioStratified on age (<75 years versus ≥75 years) and number of previous lines of therapy (2 or 3 vs >3) according to IRT. [95% CI] | 0.596 [0.44–0.81] |  |
+| Hazard ratioStratified-on age (<75 years versus ≥75 years) and number of previous lines of therapy (2 or 3 vs >3) according to IRT. [95% CI] | 0.596 [0.44–0.81] |  |
 | p-value (stratified log-rank test) | 0.0010 |  |
 | Overall Response RatesCR, CR, VGPR and PR were evaluated by the IRC using the IMWG response criteria. Responders (sCR+CR+VGPR+PR) n (%) [95% CI]Estimated using Clopper-Pearson method. | 93 (60.4) [52.2–68.2] | 54 (35.3) [27.8–43.4] |
 | p-value (stratified Cochran-Mantel-Haenszel) | <0.0001 |  |
