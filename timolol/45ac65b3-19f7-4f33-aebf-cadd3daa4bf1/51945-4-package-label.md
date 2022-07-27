@@ -10,7 +10,7 @@ Timolol Equivalent (timolol maleate 3.4 mg/mL equivalent to 2.5 mg/mL timolol)
 
 Sterile
 
-FOR TOPICAL APPLICATION IN THE EYE
+FOR TOPICAL OPHTHALMIC USE
 
 Rx only
 
@@ -18,7 +18,9 @@ Rx only
 
 BAUSCH + LOMB
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 0.5% Carton
+9451705 AB3307
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 0.5% Carton
 
 NDC 24208-813-05
 
@@ -30,10 +32,12 @@ Timolol Equivalent (timolol maleate 6.8 mg/mL equivalent to 5 mg/mL timolol)
 
 Sterile
 
-FOR TOPICAL APPLICATION IN THE EYE
+FOR TOPICAL OPHTHALMIC USE
 
 Rx only
 
 5 mL
 
 BAUSCH + LOMB
+
+9451905 AB32407

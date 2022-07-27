@@ -19,18 +19,12 @@ After opening, TIMOPTIC can be used until the expiration date on the bottle.
 
 Distributed by:
 
-Bausch + Lomb, a division of
-
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
+Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
 TIMOPTIC is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-© 2021 Bausch & Lomb Incorporated or its affiliates
+© 2022 Bausch & Lomb Incorporated or its affiliates
 
-Revised: 11/2021
+Revised: 04/2022
 
-9667802 (FOLDED)
-
-9667902 (FLAT)
+9667803 (L-500346) 9667903 (L-500347)

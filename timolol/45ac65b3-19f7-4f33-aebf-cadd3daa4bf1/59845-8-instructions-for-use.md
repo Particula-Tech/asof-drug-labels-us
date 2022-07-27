@@ -34,7 +34,7 @@ Figure A
 
 Step 4.
 Hold the bottle between your thumb and index finger with 1 hand.
-Use the index finger of the other hand to pull down the lower eyelid to form a pocket for the eye drop (See Figure B).Tilt your head backwards.
+Use the index finger of the other hand to pull down the lower eyelid to form a pocket for the eye drop (See Figure B). Tilt your head backwards.
 
 Figure B
 
@@ -52,21 +52,13 @@ Step 7.
 Put the cap back on the bottle and close.
 
 • The TIMOPTIC bottle tip is made to give 1 drop at a time.
-Do not try to make the hole in the tip of your bottle bigger.
-
-• Do not wash the bottle tip.
-
-• After you have used all of your TIMOPTIC doses, there will be some TIMOPTIC left in the bottle.
+Do not try to make the hole in the tip of your bottle bigger. • Do not wash the bottle tip. • After you have used all of your TIMOPTIC doses, there will be some TIMOPTIC left in the bottle.
 Do not try to remove the extra TIMOPTIC from the bottle.
 Throw it away.
 
 How should I store TIMOPTIC?
 
-• Store TIMOPTIC at room temperature between 59°F to 77°F (15°C to 25°C) in an upright position.
-
-• Do not freeze TIMOPTIC.
-
-• Keep TIMOPTIC out of light.
+• Store TIMOPTIC at room temperature between 59°F to 77°F (15°C to 25°C) in an upright position. • Do not freeze TIMOPTIC. • Keep TIMOPTIC out of light.
 
 Keep TIMOPTIC and all medicines out of the reach of children.
 
@@ -75,20 +67,12 @@ You can ask your pharmacist or doctor for more information about TIMOPTIC that i
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
-
-Bausch + Lomb, a division of
-
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
 TIMOPTIC is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-© 2021 Bausch & Lomb Incorporated or its affiliates
+© 2022 Bausch & Lomb Incorporated or its affiliates
 
-Revised: 11/2021
+Revised: 04/2022
 
-9667802 (FOLDED)
-
-9667902 (FLAT)
+9667803 (L-500346) 9667903 (L-500347)
