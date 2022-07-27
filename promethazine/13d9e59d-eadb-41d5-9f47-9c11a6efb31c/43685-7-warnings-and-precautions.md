@@ -142,7 +142,7 @@ Promethazine hydrochloride injection was nonmutagenic in the Salmonella test sys
 
 ## Pregnancy
 
-### Teratogenic Effects—Pregnancy Category C
+### Teratogenic Effects
 
 Teratogenic effects have not been demonstrated in rat-feeding studies at doses of 6.25 and 12.5 mg/kg (approximately 2.1 and 4.2 times the maximum recommended human daily dose) of promethazine hydrochloride injection.
 Daily doses of 25 mg/kg intraperitoneally have been found to produce fetal mortality in rats.
