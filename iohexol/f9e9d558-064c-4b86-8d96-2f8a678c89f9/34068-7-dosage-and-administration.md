@@ -7,7 +7,7 @@
 - Use sterile technique for all handling and administration of OMNIPAQUE for intravascular, intrathecal, intraarticular, and body cavity administration.
 - OMNIPAQUE oral solution 9 and 12 are indicated for oral use only [see Contraindications (4) and Warnings and Precautions (5.2)].
 - Do not use if tamper-evident ring is broken or missing.
-- OMNIPAQUE injection may be administered at either body (37°C) or room temperature.
+- OMNIPAQUE injection may be administered at either body (37°C, 98.6°F) or room temperature (20° to 25°C, 68° to 77°F).
 - Inspect OMNIPAQUE injection for particulate matter or discoloration before administration, whenever solution and container permit.
   Do not administer if OMNIPAQUE injection contains particulate matter or is discolored.
 - Do not mix OMNIPAQUE injection with, or inject in intravenous lines containing, other drugs or total nutritional admixtures.
@@ -22,7 +22,7 @@
 ## 2.2 Intrathecal Dosage and Administration
 
 - Rate of injection: Injection should be made slowly over 1 to 2 minutes
-- Repeat procedures: If sequential or repeat examinations are required, a suitable interval of time between administrations should be observed to allow for normal clearance of the drug from the body; at least 48 hours should be allowed before repeat examination; however, whenever possible, 5 to 7 days is recommended.
+- Repeat procedures: If sequential or repeat examinations are required, a suitable interval of time between administrations should be observed to allow for normal clearance of the drug from the body; at least 48 hours should be allowed before repeat examination; however, whenever possible, 5 days to 7 days is recommended.
 - If computerized tomographic (CT) myelography follows myelography, delay imaging several hours to allow the degree of contrast to decrease.
 
 TABLE 1 - INTRATHECAL ADULTS
@@ -148,8 +148,8 @@ OMNIPAQUE INJECTION FOR ORAL ADMINISTRATION
 
 | PATIENT POPULATION | ORAL CONCENTRATION (mg iodine/mL) | ORAL VOLUME (mL) | ADMINISTRATION INSTRUCTIONS |
 | --- | --- | --- | --- |
-| Adults | OMNIPAQUE 240, 300 and 350 DILUTED to 6 to 12 mg iodine/mL (See Table 14 below) | Recommended oral dose is: 500 mL to 1000 mL. | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14 below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
-| Pediatrics | OMNIPAQUE 240, 300 and 350 DILUTED to 9 to 21 mg iodine/mL (See Table 14 below) | Recommended oral dose is: 180 mL to 750 mL. Do not exceed an oral dose of 5 grams iodine for patients less than 3 years old. Do not exceed an oral dose of 10 grams iodine for patients 3 to 18 years old. | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14 below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
+| Adults | OMNIPAQUE 240, 300 and 350 DILUTED to 6 to 12 mg iodine/mL (See Table 14 below) | Recommended oral dose is: 500 mL to 1,000 mL | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14 below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
+| Pediatrics | OMNIPAQUE 240, 300 and 350 DILUTED to 9 to 21 mg iodine/mL (See Table 14 below) | Recommended oral dose is: 180 mL to 750 mL Do not exceed an oral dose of 5 grams iodine for patients less than 3 years old. Do not exceed an oral dose of 10 grams iodine for patients 3 to 18 years old. | Smaller administered volumes can be given if the iodine concentration in final diluted product is increased (See Table 14 below) The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
 
 TABLE 14 PROCEDURE FOR PREPARATION OF DILUTED OMNIPAQUE INJECTION FOR ORAL ADMINISTRATION
 
@@ -170,7 +170,7 @@ TABLE 15 DOSING AND ADMINISTRATION OF OMNIPAQUE ORAL SOLUTION
 
 | PATIENT POPULATION | ORAL CONCENTRATION (mg iodine/mL) | ORAL VOLUME (mL) | ADMINISTRATION INSTRUCTIONS |
 | --- | --- | --- | --- |
-| Adults | OMNIPAQUE oral solution 9 and 12 | The recommended oral dose is: 500 mL to 1000 mL | The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
+| Adults | OMNIPAQUE oral solution 9 and 12 | The recommended oral dose is: 500 mL to 1,000 mL | The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
 | Pediatrics | OMNIPAQUE oral solution 9 and 12 | The recommended oral dose is: 180 mL to 750 mL Do not exceed an oral dose of 5 grams iodine for patients less than 3 years old. Do not exceed an oral dose of 10 grams iodine for patients 3 to 18 years old. | The oral dosage may be given all at once or over a period of up to 45 minutes if there is difficulty in consuming the required volume. |
 
 TABLE 16 INTRAVENOUS ADMINISTRATION OF OMNIPAQUE INJECTION FOR CT OF THE ABDOMEN IN CONJUNCTION WITH ORALLY ADMINISTERED DILUTED OMNIPAQUE INJECTION OR OMNIPAQUE ORAL SOLUTION

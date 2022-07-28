@@ -28,9 +28,9 @@ Discard any product that is inadvertently frozen, as freezing may compromise the
 
 OMNIPAQUE Injection 140, 180, 240, 300 and 350
 
-Store at controlled room temperature, 20°- 25°C (68° - 77°F); excursions permitted to 15°- 30°C (59°- 86°F) [see USP Controlled Room Temperature].
-May be stored in a contrast media warmer for up to one month at 36-38°C (96.8 - 100.4°F).
+Store at controlled room temperature, 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+May be stored in a contrast media warmer for up to one month at 36° to 38°C (96.8° to 100.4°F).
 
 OMNIPAQUE Oral Solution 9 and 12
 
-Store between 0° and 30°C (32°- 86°F).
+Store between 0° and 30°C (32° to 86°F).
