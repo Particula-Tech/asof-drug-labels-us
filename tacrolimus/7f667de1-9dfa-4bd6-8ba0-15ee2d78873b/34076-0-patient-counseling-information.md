@@ -60,7 +60,7 @@ Instruct male and female patients to discuss with their healthcare provider fami
 Also, discuss with pregnant patients the risks and benefits of breastfeeding their infant [see Use in Specific Populations (8.1, 8.2, 8.3)].
 
 Encourage female transplant patients who become pregnant and male patients who have fathered a pregnancy, exposed to immunosuppressants including tacrolimus, to enroll in the voluntary Transplantation Pregnancy Registry International.
-To enroll or register, patients can call the toll free number 1-877-955-6877 or https://www.transplantpregnancyregistry.org/[see Use in Specific Populations (8.1)].
+To enroll or register, patients can call the toll free number 1-877-955-6877 or https://www.transplantpregnancyregistry.org/ [see Use in Specific Populations (8.1)].
 
 Based on animal studies, PROGRAF may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
@@ -73,12 +73,8 @@ Inform patients to report symptoms of tiredness, swelling, and/or shortness of b
 Inform patients that PROGRAF can interfere with the usual response to immunizations and that they should avoid live vaccines.
 [see Warnings and Precautions (5.14)].
 
-Capsules and Intravenous Injection manufactured by: Astellas Ireland Co., Ltd. Killorglin, County Kerry, Ireland
-
-Granules for oral suspension manufactured by: Astellas Pharma Tech Co., Ltd. Toyama, Japan
-
-Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
+Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 PROGRAF® is a registered trademark of Astellas Pharma Inc. All other trademarks and registered trademarks are the property of their respective owners.
 
-291762-PRG
+341124-PRG

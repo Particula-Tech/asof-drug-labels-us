@@ -70,7 +70,7 @@ PROGRAF capsules should be taken consistently every day either with or without f
 
 Distribution
 
-The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
+The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5‑50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
 The distribution of tacrolimus between whole blood and plasma depends on several factors, such as hematocrit, temperature at the time of plasma separation, drug concentration, and plasma protein concentration.
 In a U.S. trial, the ratio of whole blood concentration to plasma concentration averaged 35 (range 12 to 67).
@@ -118,8 +118,8 @@ Whole blood trough concentrations from 31 patients less than 12 years old showed
 PROGRAF Granules Pharmacokinetics in Pediatric Patients
 
 A multicenter, open-label, single arm, pharmacokinetic study (OPTION, NCT01371331) was conducted using tacrolimus granules for oral suspension in pediatric patients undergoing de novo liver, kidney, or heart transplant.
-After an initial 24-hour continuous IV infusion of tacrolimus (0.025 mg/kg/hour) for 12 hours to 4 days, oral PROGRAF Granules were dosed at 0.3 mg/kg/day in divided doses twice daily.
-Tacrolimus whole blood trough concentrations ranged from 5-15 ng/mL for the first month post-transplant, and 5-10 ng/mL thereafter.
+After an initial 24‑hour continuous IV infusion of tacrolimus (0.025 mg/kg/hour) for 12 hours to 4 days, oral PROGRAF Granules were dosed at 0.3 mg/kg/day in divided doses twice daily.
+Tacrolimus whole blood trough concentrations ranged from 5‑15 ng/mL for the first month post-transplant, and 5-10 ng/mL thereafter.
 Two pharmacokinetic (PK) profiles, AUC, Cmax, Tmax and Ctrough, were taken after the first oral dose (Day 1) and at steady state (Day 7).
 Subsequent oral doses of PROGRAF Granules were adjusted based on clinical evidence of efficacy, the whole-blood trough levels, and/or occurrence of adverse events.
 Of 52 patients enrolled, thirty-eight (38) had an evaluable PK profile.
@@ -149,7 +149,7 @@ Pharmacokinetics in Renal and Hepatic Impaired Adult Patients
 | Mild Hepatic Impairment (n = 6) | 0.02mg/kg/4 hrIV | 367 ± 107(t = 72 hr) | 60.6 ± 43.8Range: 27.8 – 141 | 3.1 ± 1.6 | 0.042 ± 0.02 |
 | 7.7 mgPO | 488 ± 320(t = 72 hr) | 66.1 ± 44.8Range: 29.5 – 138 | 3.7 ± 4.7Corrected for bioavailability | 0.034 ± 0.019 |  |
 | Severe Hepatic Impairment (n = 6, IV) | 0.02 mg/kg/4 hrIV (n = 2) 0.01 mg/kg/8 hrIV (n = 4) | 762 ± 204(t = 120 hr) 289 ± 117(t = 144 hr) | 198 ± 158Range: 81 – 436 | 3.9 ± 1.0 | 0.017 ± 0.013 |
-| (n = 5, PO)1 patient did not receive the PO dose | 8 mg PO(n = 1) 5 mg PO(n = 4)4 mg PO(n = 1) | 658(t = 120 hr) 533 ± 156(t = 144 hr) | 119 ± 35Range: 85 – 178 |  | 0.016 ± 0.011 |
+| (n = 5, PO)1 patient did not receive the PO dose | 8 mg PO(n = 1) 5 mg PO(n = 4)4 mg PO(n = 1) | 658(t = 120 hr) 533 ± 156(t = 144 hr) | 119 ± 35Range: 85 – 178 | 3.1 ± 3.4 | 0.016 ± 0.011 |
 
 Patients with Renal Impairment
 
@@ -166,7 +166,7 @@ The mean clearance was substantially lower in patients with severe hepatic dysfu
 
 Patients with Cystic Fibrosis
 
-Lower bioavailability of tacrolimus has been reported in patients with cystic fibrosis [see Dosage and Administration (2.2,2.3)].
+Lower bioavailability of tacrolimus has been reported in patients with cystic fibrosis [see Dosage and Administration (2.2, 2.3)].
 
 Racial or Ethnic Groups
 

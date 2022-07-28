@@ -25,7 +25,7 @@ However, since the presence of food affects the bioavailability of PROGRAF, if t
 
 General Administration Instructions
 
-Patients should not eat grapefruit or drink grapefruit juice in combination with PROGRAF [seeDrug Interactions (7.2)].
+Patients should not eat grapefruit or drink grapefruit juice in combination with PROGRAF [see Drug Interactions (7.2)].
 
 PROGRAF should not be used simultaneously with cyclosporine.
 PROGRAF or cyclosporine should be discontinued at least 24 hours before initiating the other.
@@ -57,7 +57,7 @@ Summary of Initial Oral PROGRAF Capsules Dosage Recommendations and Whole Blood 
 | Heart Transplant |  |  |
 | With azathioprine or MMF | 0.075 mg/kg/day, divided in two doses, administered every 12 hours | Month 1-3: 10-20 ng/mLMonth ≥ 4: 5-15 ng/mL |
 | Lung Transplant |  |  |
-| With azathioprine or MMF | 0.075 mg/kg/dayPatients with cystic fibrosis may require higher doses due to lower bioavailability[see Clinical Pharmacology (12.3)]., divided in two doses, administered every 12 hours | Month 1-3: 10-15 ng/mLMonth 4-12: 8-12 ng/mL |
+| With azathioprine or MMF | 0.075 mg/kg/dayPatients with cystic fibrosis may require higher doses due to lower bioavailability [see Clinical Pharmacology (12.3)]., divided in two doses, administered every 12 hours | Month 1-3: 10-15 ng/mLMonth 4-12: 8-12 ng/mL |
 
 Dosage should be titrated based on clinical assessments of rejection and tolerability.
 PROGRAF dosages lower than the recommended initial dosage may be sufficient as maintenance therapy.
@@ -106,10 +106,10 @@ Summary of Initial PROGRAF Capsule and PROGRAF Granules Dosage Recommendations a
 
 | Patient Population | Initial PROGRAF Capsule and PROGRAF Granules Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
-| Pediatric kidney transplant patientsSee Clinical Pharmacology(12.3), PROGRAF Granules Pharmacokinetics in Pediatric Patients. | 0.3 mg/kg/day capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
-| Pediatric liver transplant patientsSee Clinical Studies(14.2), Liver Transplantation. | 0.15-0.2 mg/kg/day capsules or 0.2 mg/kg/day oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
+| Pediatric kidney transplant patientsSee Clinical Pharmacology (12.3), PROGRAF Granules Pharmacokinetics in Pediatric Patients. | 0.3 mg/kg/day capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
+| Pediatric liver transplant patientsSee Clinical Studies (14.2), Liver Transplantation. | 0.15-0.2 mg/kg/day capsules or 0.2 mg/kg/day oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
 | Pediatric heart transplant patients | 0.3 mg/kg/dayDose at 0.1 mg/kg/day if antibody induction treatment is administered. capsules or oral suspension, divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
-| Pediatric lung transplant patients | 0.3 mg/kg/day,Patients with cystic fibrosis may require higher doses due to lower bioavailability[see Clinical Pharmacology (12.3)]. capsules or oral suspension, divided in two doses, administered every 12 hours | Week 1-2: 10-20 ng/mLWeek 2 to Month 12: 10-15 ng/mL |
+| Pediatric lung transplant patients | 0.3 mg/kg/day,Patients with cystic fibrosis may require higher doses due to lower bioavailability [see Clinical Pharmacology (12.3)]. capsules or oral suspension, divided in two doses, administered every 12 hours | Week 1-2: 10-20 ng/mLWeek 2 to Month 12: 10-15 ng/mL |
 
 In lung transplantation, cystic fibrosis patients may have a reduced bioavailability of orally administered tacrolimus resulting in the need for higher doses to achieve target tacrolimus trough concentrations.
 Monitor tacrolimus trough concentrations and adjust the dose accordingly.

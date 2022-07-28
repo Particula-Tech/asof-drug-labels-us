@@ -79,7 +79,7 @@ Figure B
 | Step 7 | Add 1 to 2 tablespoons (15 to 30 milliliters) of room temperature drinking water to the glass cup containing the granules. |  |
 | Step 8 | Gently stir the granules and drinking water in the glass cup with a metal stirring spoon. The granules will not completely dissolve. You will see granules that are suspended in the drinking water. |  |
 | Step 9 | Insert the tip of the oral syringe into the glass cup.Pull back on the plunger of the oral syringe to draw up the suspension. |  |
-| Step 10 | Place the tip of the oral syringe in your child’s mouth along the inner cheek. Slowly push the plunger all the way down to give your child all of the medicine in the oral syringe.Repeat Steps 9 and 10 until the glass cup is empty.Give all of the medicine to your child right away after preparing. Do not save the medicine for later use. |  |
+| Step 10 | Place the tip of the oral syringe in your child’s mouth along the inner cheek. Slowly push the plunger all the way down to give your child all of the medicine in the oral syringe. Repeat Steps 9 and 10 until the glass cup is empty. Give all of the medicine to your child right away after preparing. Do not save the medicine for later use. |  |
 | Step 11 | To make sure all of the medicine is given to your child, refill the glass cup with the same amount of drinking water used in Step 7. |  |
 | Step 12 | Gently swirl the glass cup to mix any remaining granules. |  |
 | Step 13 | Repeat Steps 9 and 10 until the glass cup is empty. |  |
@@ -97,12 +97,10 @@ Keep PROGRAF Granules and all medicine out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-PROGRAF Granules manufactured by: Astellas Pharma Tech Co., Ltd. Toyama, Japan
-
-Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
+Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 PROGRAF® is a registered trademark of Astellas Pharma Inc.
 
-291762-PRG
+341124-PRG
 
-Revised: July 2021
+Revised: May 2022

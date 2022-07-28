@@ -113,9 +113,9 @@ Adverse reactions that occurred in ≥ 15% of kidney transplant patients treated
 Table 6.
 Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with PROGRAF in Conjunction with MMF (Study 2)
 
-|  | PROGRAF/MMF(N = 212) | Cyclosporine/MMF(N = 212) |
-| --- | --- | --- |
 | Gastrointestinal Disorders |  |  |
+| --- | --- | --- |
+|  | PROGRAF/MMF (N = 212) | Cyclosporine/MMF (N = 212) |
 | Diarrhea | 44% | 26% |
 | Nausea | 39% | 47% |
 | Constipation | 36% | 41% |
@@ -169,9 +169,9 @@ Based on reported adverse reaction terms related to decreased renal function, ne
 Table 7.
 Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with PROGRAF
 
-|  | U.S. TRIAL |  | EUROPEAN TRIAL |  |
+| PROGRAF (N = 250) | Cyclosporine/ AZA (N = 250) | PROGRAF (N = 264) | Cyclosporine/ AZA (N = 265) |  |
 | --- | --- | --- | --- | --- |
-| PROGRAF(N = 250) | Cyclosporine/AZA(N = 250) | PROGRAF(N = 264) | Cyclosporine/AZA(N = 265) |  |
+|  | U.S. TRIAL |  | EUROPEAN TRIAL |  |
 | Nervous System |  |  |  |  |
 | Headache | 64% | 60% | 37% | 26% |
 | Insomnia | 64% | 68% | 32% | 23% |
@@ -220,7 +220,7 @@ Liver Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treate
 Table 8.
 Pediatric Liver Transplantation: Adverse Reactions Occurring in > 10% of Patients Treated with PROGRAF Granules (STUDY 01-13)
 
-|  | PROGRAF Granules(N = 91) | Cyclosporine(N = 90) |
+|  | PROGRAF Granules (N = 91) | Cyclosporine (N = 90) |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fever | 46% | 51% |
@@ -267,7 +267,7 @@ Adverse reactions in heart transplant patients in the European trial are present
 Table 9.
 Heart Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with PROGRAF in Conjunction with Azathioprine (AZA)
 
-|  | PROGRAF/AZA(N = 157) | Cyclosporine/AZA(N = 157) |
+|  | PROGRAF/AZA (N = 157) | Cyclosporine/AZA (N = 157) |
 | --- | --- | --- |
 | Cardiovascular System |  |  |
 | Hypertension | 62% | 69% |
@@ -383,7 +383,7 @@ Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, an
 
 The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
-- •Nervous System:Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, hemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
+- •Nervous System: Abnormal dreams, agitation, amnesia, anxiety, confusion, convulsion, crying, depression, elevated mood, emotional lability, encephalopathy, hemorrhagic stroke, hallucinations, hypertonia, incoordination, monoparesis, myoclonus, nerve compression, nervousness, neuralgia, neuropathy, paralysis flaccid, psychomotor skills impaired, psychosis, quadriparesis, somnolence, thinking abnormal, vertigo, writing impaired
 - •Special Senses: Abnormal vision, amblyopia, ear pain, otitis media, tinnitus
 - •Gastrointestinal: Cholangitis, cholestatic jaundice, duodenitis, dysphagia, esophagitis, flatulence, gastritis, gastroesophagitis, gastrointestinal hemorrhage, GGT increase, GI disorder, GI perforation, hepatitis, hepatitis granulomatous, ileus, increased appetite, jaundice, liver damage, esophagitis ulcerative, oral moniliasis, pancreatic pseudocyst, stomatitis
 - •Cardiovascular: Abnormal ECG, angina pectoris, arrhythmia, atrial fibrillation, atrial flutter, bradycardia, cardiac fibrillation, cardiopulmonary failure, congestive heart failure, deep thrombophlebitis, echocardiogram abnormal, electrocardiogram QRS complex abnormal, electrocardiogram ST segment abnormal, heart failure, heart rate decreased, hemorrhage, hypotension, phlebitis, postural hypotension, syncope, tachycardia, thrombosis, vasodilatation
@@ -408,7 +408,7 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Other reactions include:
 
-- •Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
+- •Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsades de pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
 - •Gastrointestinal: Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal reflux disease, hepatic cytolysis, hepatic necrosis, hepatotoxicity, impaired gastric emptying, liver fatty, mouth ulceration, pancreatitis hemorrhagic, pancreatitis necrotizing, stomach ulcer, veno-occlusive liver disease
 - •Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia
 - •Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy (PVAN) including graft loss
@@ -421,4 +421,7 @@ Other reactions include:
 - •Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
 - •Special Senses: Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - •Urogenital: Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome
-- Postmarketing Adverse Reactions in Lung Transplantation
+
+Postmarketing Adverse Reactions in Lung Transplantation Based on U.S. Scientific Registry of Transplant Recipients (SRTR) data, published clinical trials, and postmarketing reports, the safety profile for lung transplant patients treated with PROGRAF is consistent with the safety profile in kidney, liver, and heart transplant patients treated with PROGRAF.
+The primary adverse reactions described include renal dysfunction, infection, diabetes, gastrointestinal disturbances (e.g., diarrhea), hypertension, and neurological events (e.g., tremor).
+As expected, lung transplant patients have a higher incidence of pulmonary complications (e.g., pneumonia, bronchiolitis obliterans syndrome) than other solid organ transplant patients, which is in part due to the underlying disease and to the nature of the transplanted organ.

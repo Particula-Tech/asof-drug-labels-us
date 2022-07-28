@@ -57,7 +57,7 @@ Approximately 80% of patients maintained tacrolimus whole blood concentrations b
 Table 22.
 Tacrolimus Whole Blood Trough Concentration Range (Study 1)
 
-| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac) tacrolimus whole blood trough concentration range(ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac.) tacrolimus whole blood trough concentration range(ng/mL) |
 | --- | --- |
 | Day 30 (N = 366) | 6.9 (4.4 – 11.3) |
 | Day 90 (N = 351) | 6.8 (4.1 – 10.7) |
@@ -107,7 +107,7 @@ Approximately 80% of patients maintained tacrolimus whole blood trough concentra
 Table 25.
 Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 
-| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac.) tacrolimus whole blood trough concentration range(ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac.) tacrolimus whole blood trough concentration range (ng/mL) |
 | --- | --- |
 | Day 30 (N = 174) | 10.5 (6.3 – 16.8) |
 | Day 60 (N = 179) | 9.2 (5.9 – 15.3) |
