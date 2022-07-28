@@ -30,7 +30,7 @@ Passage of maternal autoantibodies across the placenta may result in adverse neo
 
 Fetal/Neonatal Adverse Reactions: Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
 Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to BENLYSTA in utero.
-Monitor an infant of a treated mother for B-cell reduction and other immune dysfunction [see Warnings and Precautions (5.6)].
+Monitor an infant of a treated mother for B-cell reduction and other immune dysfunction [see Warnings and Precautions (5.5)].
 
 Data
 
@@ -59,25 +59,25 @@ Following an assessment of benefit versus risk, if prevention of pregnancy is wa
 
 ## 8.4 Pediatric Use
 
-Intravenous administration of BENLYSTA in patients with SLE is indicated in children aged 5 years and older.
-Determination of efficacy in pediatric patients was based on pharmacokinetic (PK) and efficacy results from a pediatric SLE study (Trial 6), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults with SLE.
+Safety and effectiveness of BENLYSTA have been established for the treatment of SLE and lupus nephritis in pediatric patients 5 to 17 years old.
+
+Use of BENLYSTA in pediatric patients with SLE is supported by evidence from pharmacokinetic (PK) and efficacy results from a pediatric study (Trial 6), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults with SLE.
 A randomized, double‑blind, placebo‑controlled, PK, efficacy, and safety study (Trial 6) to evaluate intravenously administered BENLYSTA 10 mg/kg plus standard therapy compared with placebo plus standard therapy over 52 weeks was conducted in 93 pediatric patients with SLE.
 The proportion of pediatric patients achieving an SRI-4 response was higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
 Pediatric patients receiving BENLYSTA plus standard therapy also had a lower risk of experiencing a severe flare compared with placebo plus standard therapy [see Clinical Studies (14.3)].
+Pharmacokinetics were evaluated in a total of 53 pediatric patients with SLE and were consistent with the adult population with SLE [see Clinical Pharmacology (12.3)].
 
-The adverse event profile in pediatric patients was consistent with the overall population in the Phase 3 studies in adults [see Adverse Reactions (6.1)].
+Use of BENLYSTA in pediatric patients with active lupus nephritis is based on the extrapolation of efficacy from the intravenous study in adults (n = 224) with active lupus nephritis, and supported by pharmacokinetic data from intravenous studies in adults (n = 224) with active lupus nephritis and from pediatric patients (n = 53) with SLE.
+Estimated belimumab exposures for pediatric patients were comparable to adults with active lupus nephritis [see Clinical Pharmacology (12.3)].
 
-Pharmacokinetics were evaluated in a total of 53 pediatric patients and were consistent with the adult population [see Clinical Pharmacology (12.3)].
-The safety and effectiveness of BENLYSTA have not been established in pediatric patients younger than 5 years of age.
-
-The safety and effectiveness of intravenous administration of BENLYSTA have not been established in pediatric patients with active lupus nephritis younger than 18 years of age.
+The safety and effectiveness of intravenous administration of BENLYSTA have not been established in pediatric patients younger than 5 years of age.
 
 The safety and effectiveness of subcutaneous administration of BENLYSTA have not been established in pediatric patients younger than 18 years of age.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of BENLYSTA did not include sufficient numbers of subjects aged 65 or older to determine whether they respond differently from younger subjects.
-Use with caution in elderly patients.
+Use with caution in geriatric patients.
 
 ## 8.6 Renal Impairment
 

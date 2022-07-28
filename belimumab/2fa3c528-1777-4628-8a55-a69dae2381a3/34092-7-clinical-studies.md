@@ -1,18 +1,18 @@
 # 14 CLINICAL STUDIES
 
-The safety and effectiveness of BENLYSTA administered intravenously plus standard therapy were evaluated in 4 randomized, double‑blind, placebo‑controlled trials involving 2,581 adult patients with SLE (Trial 1, NCT #00071487, Trial 2, NCT #00410384, Trial 3, NCT #00424476, and Trial 4 NCT #01632241), and one trial involving 93 pediatric patients (Trial 6, NCT #01649765) with SLE according to the American College of Rheumatology criteria.
+The safety and effectiveness of BENLYSTA administered intravenously plus standard therapy were evaluated in 4 randomized, double‑blind, placebo‑controlled trials involving 2,581 adult patients with SLE (Trial 1, NCT00071487, Trial 2, NCT00410384, Trial 3, NCT00424476, and Trial 4 NCT01632241), and one trial involving 93 pediatric patients (Trial 6, NCT01649765) with SLE according to the American College of Rheumatology criteria.
 In these trials, patients with severe active lupus nephritis and severe active CNS lupus were excluded.
 Patients were on a stable standard therapy SLE treatment regimen comprising any of the following (alone or in combination): corticosteroids, antimalarials, NSAIDs, and immunosuppressives.
 Use of other biologics and intravenous cyclophosphamide was not permitted.
 
-In addition, the safety and effectiveness of BENLYSTA administered intravenously plus standard therapy was evaluated in a randomized, double‑blind, placebo‑controlled trial in 448 adult patients with active lupus nephritis (Trial 5; NCT #01639339).
+In addition, the safety and effectiveness of BENLYSTA administered intravenously plus standard therapy was evaluated in a randomized, double‑blind, placebo‑controlled trial in 448 adult patients with active lupus nephritis (Trial 5; NCT01639339).
 
-## 14.1 Clinical Trials with Intravenous Administration in Adults with SLE
+## 14.1 Intravenous Administration in Adults with SLE
 
 Trial 1: SLE – BENLYSTA 1 mg/kg, 4 mg/kg, 10 mg/kg - Intravenous
 
 Trial 1 enrolled 449 patients and evaluated doses of 1, 4, and 10 mg/kg BENLYSTA plus standard therapy compared with placebo plus standard therapy over 52 weeks in patients with SLE.
-Patients had to have a Safety of Estrogens in Lupus Erythematosus National Assessment-Systemic Lupus Erythematosus Disease Activity Index (SELENA-SLEDAI) score of >4 at baseline and a history of autoantibodies (anti-nuclear antibody [ANA] and/or anti-double-stranded DNA [anti-dsDNA]), but 28% of the population was autoantibody negative at baseline.
+Patients had to have a Safety of Estrogens in Lupus Erythematosus National Assessment-Systemic Lupus Erythematosus Disease Activity Index (SELENA-SLEDAI) score of >4 at baseline and a history of autoantibodies (anti-nuclear antibody [ANA] and/or anti–double-stranded DNA [anti-dsDNA]), but 28% of the population was autoantibody negative at baseline.
 The co-primary endpoints were percent change in SELENA-SLEDAI score at Week 24 and time to first flare over 52 weeks.
 No significant differences between any of the groups receiving BENLYSTA and the group receiving placebo were observed.
 Exploratory analysis of this trial identified a subgroup of patients (72%) who were autoantibody positive in whom BENLYSTA appeared to offer benefit.
@@ -20,7 +20,7 @@ The results of this trial informed the design of Trials 2 and 3 and led to the s
 
 Trials 2, 3 and 4: SLE – BENLYSTA 1 mg/kg and 10 mg/kg - Intravenous
 
-Trials 2 and 3 were randomized, double‑blind, placebo‑controlled trials in patients with SLE that were similar in design except duration - Trial 2 (N = 819) was 76 weeks’ duration and Trial 3 (N = 865) was 52 weeks’ duration.
+Trials 2 and 3 were randomized, double‑blind, placebo‑controlled trials in patients with SLE that were similar in design except duration; Trial 2 (N = 819) was 76 weeks’ duration and Trial 3 (N = 865) was 52 weeks’ duration.
 Patients had active SLE disease with a SELENA‑SLEDAI score ≥6 and positive autoantibody test results at screening.
 Patients were excluded from the trial if they had ever received treatment with a B‑cell-targeted agent or if they were currently receiving other biologic agents.
 Intravenous cyclophosphamide was not permitted within the previous 6 months or during the trial.
@@ -63,8 +63,7 @@ Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 36% | 43% | 47% | 46% | 53% | 58% |
 | Percent of patients with no worsening by BILAG index | 65% | 75% | 69% | 73% | 79% | 81% |
 | Percent of patients with no worsening by PGA | 63% | 73% | 69% | 69% | 79% | 80% |
-| a The 1-mg/kg dose is not recommended. |  |  |  |  |  |  |
-| b Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. In both trials, a higher proportion of placebo patients were considered as failures for this reason compared with the groups receiving BENLYSTA. |  |  |  |  |  |  |
+| a The 1-mg/kg dose is not recommended. b Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. In both trials, a higher proportion of placebo patients were considered as failures for this reason compared with the groups receiving BENLYSTA. |  |  |  |  |  |  |
 
 The reduction in disease activity seen in the SRI-4 was related primarily to improvement in the most commonly involved organ systems; namely, mucocutaneous, musculoskeletal, and immune.
 
@@ -102,7 +101,7 @@ The proportion of patients having at least 1 severe flare over 52 weeks was not 
 In Trial 2, 18% of patients receiving BENLYSTA 10 mg/kg plus standard therapy and 16% of patients receiving BENLYSTA 1 mg/kg plus standard therapy had a severe flare compared with 24% of patients receiving placebo plus standard therapy.
 In Trial 3, 14%, 18%, and 23% of patients receiving BENLYSTA 10 mg/kg, BENLYSTA 1 mg/kg and placebo, respectively, plus standard therapy had a severe flare.
 
-## 14.2 Clinical Trials with Intravenous Administration in Adults with Lupus Nephritis
+## 14.2 Intravenous Administration in Adults with Lupus Nephritis
 
 Trial 5: Lupus Nephritis – BENLYSTA 10 mg/kg - Intravenous
 
@@ -179,7 +178,7 @@ Time to Renal-Related Event or Death in Adults with Lupus Nephritis (Trial 5)
 In descriptive subgroup analyses of time to renal-related event or death, results were consistent with the overall endpoint regardless of induction therapy (mycophenolate or cyclophosphamide), biopsy class (Class III or IV, Class III + V or Class IV + V, or Class V; post-hoc analysis), and baseline proteinuria (<3 g/g or ≥3 g/g; post-hoc analysis).
 The treatment difference was primarily driven by the renal worsening and renal-related treatment failure components of the endpoint.
 
-## 14.3 Clinical Trials with Intravenous Administration in Pediatric Patients with SLE
+## 14.3 Intravenous Administration in Pediatric Patients with SLE
 
 Trial 6: SLE – BENLYSTA 10 mg/kg in Pediatric Patients - Intravenous
 
@@ -220,14 +219,14 @@ The proportion of pediatric patients reporting at least one severe flare during 
 Pediatric patients receiving BENLYSTA 10 mg/kg plus standard therapy had a 64% lower risk of experiencing a severe flare during the 52 weeks of observation, relative to the placebo plus standard therapy group.
 Of the pediatric patients experiencing a severe flare, the median time to the first severe flare was 150 days in pediatric patients receiving BENLYSTA plus standard therapy compared with 113 days in pediatric patients receiving placebo plus standard therapy.
 
-## 14.4 Clinical Trials with Subcutaneous Administration in Adults with SLE
+## 14.4 Subcutaneous Administration in Adults with SLE
 
-Trial 7: SLE – BENLYSTA 200 mg – Subcutaneous
+Trial 7: SLE – BENLYSTA 200 mg - Subcutaneous
 
-The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 adult patients with SLE according to the American College of Rheumatology criteria (Trial 7, NCT #01484496).
+The safety and effectiveness of BENLYSTA administered subcutaneously were evaluated in a randomized, double‑blind, placebo‑controlled trial involving 836 adult patients with SLE according to the American College of Rheumatology criteria (Trial 7, NCT01484496).
 Patients with severe active lupus nephritis and severe active CNS lupus were excluded.
 The trial (2:1 randomization) evaluated BENLYSTA 200 mg once weekly plus standard therapy (n = 556) compared with placebo once weekly plus standard therapy (n = 280) over 52 weeks in patients with active SLE disease.
-Patients had to have a SELENA-SLEDAI score of ≥8 and positive autoantibody test (anti-nuclear antibody [ANA] and/or anti-double-stranded DNA [anti-dsDNA]) results at screening.
+Patients had to have a SELENA-SLEDAI score of ≥8 and positive autoantibody test (anti-nuclear antibody [ANA] and/or anti–double-stranded DNA [anti-dsDNA]) results at screening.
 
 No significant differences in baseline patient characteristics were observed between treatment groups.
 In some countries, treatment with a B-cell-targeted agent was permitted if received a year or more prior to baseline; otherwise, treatment with a B-cell-targeted agent was not permitted.

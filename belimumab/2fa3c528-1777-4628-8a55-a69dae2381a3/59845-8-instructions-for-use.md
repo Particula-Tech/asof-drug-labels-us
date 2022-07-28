@@ -27,11 +27,11 @@ Important Warnings
 
 - •The prefilled syringe should be used only 1 time and then thrown away.
   See below, “Dispose of used prefilled syringe and inspect.”
-  - •Do not share your BENLYSTA prefilled syringe with other people.
+  - oDo not share your BENLYSTA prefilled syringe with other people.
     You may give other people a serious infection or get a serious infection from them.
-  - •Do not shake the prefilled syringe.
-  - •Do not use if dropped onto a hard surface.
-  - •Do not remove the Needle Cap until right before the injection.
+  - oDo not shake the prefilled syringe.
+  - oDo not use if dropped onto a hard surface.
+  - oDo not remove the Needle Cap until right before the injection.
 
 BENLYSTA Prefilled Syringe Parts
 
@@ -77,9 +77,9 @@ Allow to come to room temperature
   See Figure B.
 
 - 
-  - •Do not warm the prefilled syringe in any other way.
+  - oDo not warm the prefilled syringe in any other way.
     For example, do not warm in a microwave oven, hot water, or in direct sunlight.
-  - •Do not remove the Needle Cap during this step.
+  - oDo not remove the Needle Cap during this step.
 
 Inspect BENLYSTA solution
 
@@ -98,8 +98,7 @@ Choose the injection site
 - •If you need 2 injections to complete your dose, leave at least 2 inches between each injection if using the same site.
 - •Avoid injecting into the same site each time or in areas where the skin is tender, bruised, red, or hard.
 
-- 
-  - •Do not inject within 2 inches of the belly button.
+- •Do not inject within 2 inches of the belly button.
 
 Clean the injection site
 
@@ -155,11 +154,11 @@ See Figure J.
 - •Put your used syringe and sharps in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.
 - •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
-  - •is made of a heavy-duty plastic,
-  - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - •is upright and stable during use,
-  - •is leak-resistant, and
-  - •properly labeled to warn of hazardous waste inside the container.
+  - ois made of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - ois upright and stable during use,
+  - ois leak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to: http://www.fda.gov/safesharpsdisposal.
@@ -182,17 +181,17 @@ Trademarks are owned by or licensed to the GSK group of companies.
 
 Manufactured by GlaxoSmithKline LLC
 
-Philadelphia, PA 19112, U.S. License No. 1727, and
+Philadelphia, PA 19104, U.S. License No. 1727, and
 
 Distributed by GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2021 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
-BNL:4IFU-S
+BNL:5IFU-S
 
-Revised March 2021
+Revised July 2022
 
 Instructions for Use
 
@@ -223,11 +222,11 @@ Important Warnings
 
 - •The autoinjector should be used only 1 time and then thrown away.
   See below, “Dispose of used autoinjector and inspect.”
-  - •Do not share your BENLYSTA Autoinjector with other people.
+  - oDo not share your BENLYSTA Autoinjector with other people.
     You may give other people a serious infection or get a serious infection from them.
-  - •Do not shake the autoinjector.
-  - •Do not use if dropped onto a hard surface.
-  - •Do not remove the Ring Cap until right before the injection.
+  - oDo not shake the autoinjector.
+  - oDo not use if dropped onto a hard surface.
+  - oDo not remove the Ring Cap until right before the injection.
 
 BENLYSTA Autoinjector Parts
 
@@ -268,9 +267,9 @@ Allow to come to room temperature
 - •Allow the autoinjector to sit at room temperature for 30 minutes.
   See Figure B.
 
-- •Do not warm the autoinjector in any other way.
+- oDo not warm the autoinjector in any other way.
   For example, do not warm in a microwave oven, hot water, or in direct sunlight.
-- •Do not remove the Ring Cap during this step.
+- oDo not remove the Ring Cap during this step.
 
 Inspect BENLYSTA solution
 
@@ -298,8 +297,7 @@ Clean the injection site
   Allow the skin to air dry.
   See Figure E.
 
-- 
-  - •Do not touch this area again before giving the injection.
+- •Do not touch this area again before giving the injection.
 
 4 Prepare for the injection
 
@@ -317,8 +315,8 @@ Position the autoinjector
 - •Hold the autoinjector comfortably so that you can see the Inspection Window.
   It is important that you can look at the Inspection Window while giving the injection.
   You will look at the Inspection Window to:
-  - •see that the purple indicator is moving while you are injecting.
-  - •see that the purple indicator has stopped to make sure that the dose is complete.
+  - osee that the purple indicator is moving while you are injecting.
+  - osee that the purple indicator has stopped to make sure that the dose is complete.
     See Figure G.
 
 - •Position the autoinjector straight over the injection site at a 90-degree angle.
@@ -354,11 +352,11 @@ See Figure K.
 - •Put your used autoinjector in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) in your household trash.
 - •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
-- •is made of a heavy-duty plastic,
-- •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-- •is upright and stable during use,
-- •is leak-resistant, and
-- •properly labeled to warn of hazardous waste inside the container.
+  - ois made of a heavy-duty plastic,
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - ois upright and stable during use,
+  - ois leak-resistant, and
+  - oproperly labeled to warn of hazardous waste inside the container.
 - •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to: http://www.fda.gov/safesharpsdisposal.
@@ -381,14 +379,14 @@ Trademarks are owned by or licensed to the GSK group of companies.
 
 Manufactured by GlaxoSmithKline LLC
 
-Philadelphia, PA 19112, U.S. License No. 1727, and
+Philadelphia, PA 19104, U.S. License No. 1727, and
 
 Distributed by GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2021 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
-BNL:4IFU-A
+BNL:5IFU-A
 
-Revised March 2021
+Revised July 2022

@@ -1,23 +1,27 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+## 2.1 Important Administration Information
+
 BENLYSTA may be administered as an intravenous infusion in patients aged 5 years and older or as a subcutaneous injection in patients aged 18 years and older.
 Vials are intended for intravenous use only (not for subcutaneous use) and autoinjectors and prefilled syringes are intended for subcutaneous use only (not for intravenous use).
 
-## 2.1 Intravenous Preparation and Dosing Instructions
+## 2.2 Recommended Intravenous Dosage for Adult and Pediatric Patients with SLE or Lupus Nephritis
 
-Recommended Intravenous Dosage Regimen — Adults with SLE or Lupus Nephritis and Pediatric Patients with SLE
+Dosage
 
 BENLYSTA for intravenous use must be reconstituted and diluted prior to administration.
 Do not administer as an intravenous push or bolus.
 
-The recommended intravenous dosage regimen is 10 mg/kg at 2‑week intervals for the first 3 doses and at 4‑week intervals thereafter.
+The recommended intravenous dosage is 10 mg/kg at 2‑week intervals for the first 3 doses and at 4‑week intervals thereafter.
 Reconstitute, dilute, and administer as an intravenous infusion over a period of 1 hour.
 The infusion rate may be slowed or interrupted if the patient develops an infusion reaction.
 The infusion must be discontinued immediately if the patient experiences a serious hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.2)].
 
-Premedication Recommendations prior to Intravenous Use
+Precautions Prior to Intravenous Use
 
-Prior to intravenous dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions [see Warnings and Precautions (5.2, 5.3), Adverse Reactions (6.1)].
+BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.2)].
+
+Prior to intravenous dosing with BENLYSTA, consider administering premedication for prophylaxis against infusion reactions and hypersensitivity reactions [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
 
 Preparation of Intravenous Solutions
 
@@ -60,24 +64,23 @@ Dilution Instructions for Intravenous Use:
 Administration Instructions for Intravenous Use
 
 1. 1.The diluted solution of BENLYSTA should be administered by intravenous infusion over a period of 1 hour.
-2. 2.BENLYSTA should be administered by healthcare providers prepared to manage anaphylaxis [see Warnings and Precautions (5.2)].
-3. 3.BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
+2. 2.BENLYSTA should not be infused concomitantly in the same intravenous line with other agents.
    No physical or biochemical compatibility studies have been conducted to evaluate the coadministration of BENLYSTA with other agents.
 
-## 2.2 Subcutaneous Dosing Instructions
+## 2.3 Recommended Subcutaneous Dosage for Adult Patients with SLE or Lupus Nephritis
 
 Subcutaneous dosing of BENLYSTA has not been evaluated and is not approved for patients younger than 18 years of age.
 
-Recommended Subcutaneous Dosage Regimen — Adult Patients with SLE
+Adult Patients with SLE
 
 The recommended dosage is 200 mg once weekly given as a subcutaneous injection in the abdomen or thigh.
 Subcutaneous dosing is not based on weight.
 
 If transitioning from intravenous therapy with BENLYSTA to subcutaneous administration, administer the first subcutaneous dose 1 to 4 weeks after the last intravenous dose.
 
-Recommended Subcutaneous Dosage Regimen — Adult Patients with Lupus Nephritis
+Adult Patients with Lupus Nephritis
 
-In patients initiating therapy with BENLYSTA for active lupus nephritis [see Clinical Studies (14.2)], the recommended dosage regimen is a 400-mg dose (two 200-mg injections) once weekly for 4 doses, then 200 mg once weekly thereafter.
+In patients initiating therapy with BENLYSTA for active lupus nephritis [see Clinical Studies (14.2)], the recommended dosage is a 400-mg dose (two 200-mg injections) once weekly for 4 doses, then 200 mg once weekly thereafter.
 The dose is given via subcutaneous injection in the abdomen or thigh.
 The 400-mg dose for active lupus nephritis requires administration of 2 autoinjectors or 2 prefilled syringes as described below.
 
@@ -86,31 +89,18 @@ If transitioning, administer the first subcutaneous dose of 200 mg 1 to 2 weeks 
 
 Administration Instructions for Subcutaneous Injection
 
-1.
-It is recommended that the first subcutaneous injection of BENLYSTA should be under the supervision of a healthcare professional.
-The healthcare provider should provide proper training in subcutaneous technique and education about signs and symptoms of hypersensitivity reactions [see Warning and Precautions (5.2)].
-A patient may self-inject or the patient caregiver may administer BENLYSTA subcutaneously after the healthcare provider determines it is appropriate.
-
-2.
-Instruct the patient or patient caregiver to follow the directions for administration provided in the Instructions for Use.
-
-3.
-Instruct the patient to remove the autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to the subcutaneous injection.
-Do not warm BENLYSTA in any other way.
-
-4.
-Prior to administration, instruct the patient or patient caregiver to visually inspect the window of the autoinjector or the prefilled syringe for particulate matter or discoloration.
-BENLYSTA should be clear to opalescent and colorless to pale yellow.
-Do not use BENLYSTA if the product exhibits discoloration or particulate matter.
-Instruct the patient not to use the BENLYSTA autoinjector or prefilled syringe if dropped on a hard surface.
-
-5.
-When injecting in the same body region, advise the patient to use a different injection site for each injection; never give injections into areas where the skin is tender, bruised, red, or hard.
-When a 400-mg dose is administered at the same site, it is recommended that the 2 individual 200-mg injections be administered at least 5 cm (approximately 2 inches) apart.
-
-6.
-Instruct the patient to administer BENLYSTA 200 mg once a week, preferably on the same day each week.
-
-7.
-If a dose is missed, instruct the patient to administer a dose as soon as the patient remembers.
-Thereafter, the patient can resume dosing on their usual day of administration or start a new weekly schedule from the day that the missed dose was administered.
+1. 1.It is recommended that the first subcutaneous injection of BENLYSTA should be under the supervision of a healthcare professional.
+   The healthcare provider should provide proper training in subcutaneous technique and education about signs and symptoms of hypersensitivity reactions [see Warning and Precautions (5.2)].
+   A patient may self-inject or the patient caregiver may administer BENLYSTA subcutaneously after the healthcare provider determines it is appropriate.
+2. 2.Instruct the patient or patient caregiver to follow the directions for administration provided in the Instructions for Use.
+3. 3.Instruct the patient to remove the autoinjector or prefilled syringe from the refrigerator and allow it to sit at room temperature for 30 minutes prior to the subcutaneous injection.
+   Do not warm BENLYSTA in any other way.
+4. 4.Prior to administration, instruct the patient or patient caregiver to visually inspect the window of the autoinjector or the prefilled syringe for particulate matter or discoloration.
+   BENLYSTA should be clear to opalescent and colorless to pale yellow.
+   Do not use BENLYSTA if the product exhibits discoloration or particulate matter.
+   Instruct the patient not to use the BENLYSTA autoinjector or prefilled syringe if dropped on a hard surface.
+5. 5.When injecting in the same body region, advise the patient to use a different injection site for each injection; never give injections into areas where the skin is tender, bruised, red, or hard.
+   When a 400-mg dose is administered at the same site, it is recommended that the 2 individual 200-mg injections be administered at least 5 cm (approximately 2 inches) apart.
+6. 6.Instruct the patient to administer BENLYSTA 200 mg once a week, preferably on the same day each week.
+7. 7.If a dose is missed, instruct the patient to administer a dose as soon as the patient remembers.
+   Thereafter, the patient can resume dosing on their usual day of administration or start a new weekly schedule from the day that the missed dose was administered.

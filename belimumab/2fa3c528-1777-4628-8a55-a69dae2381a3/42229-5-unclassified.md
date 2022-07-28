@@ -2,15 +2,15 @@ Trademarks are owned by or licensed to the GSK group of companies.
 
 Manufactured by GlaxoSmithKline LLC
 
-Philadelphia, PA 19112, U.S. License No. 1727, and
+Philadelphia, PA 19104, U.S. License No. 1727, and
 
 Distributed by GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2021 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
-BNL:16PI
+BNL:17PI
 
 DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT.
 

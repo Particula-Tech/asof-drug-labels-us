@@ -35,7 +35,7 @@ Population Pharmacokinetic Parameters in Adult Patients with SLE after Intraveno
 | Pharmacokinetic Parameter | Population Estimates (n = 563) |
 | --- | --- |
 | Peak concentration (Cmax, mcg/mL) | 313 |
-| Area under the curve (AUC0-∞, day●mcg/mL) | 3,083 |
+| Area under the curve (AUC0-∞, day•mcg/mL) | 3,083 |
 | Distribution half-life (t½, days) | 1.8 |
 | Terminal half-life (t½, days) | 19.4 |
 | Systemic clearance (CL, mL/day) | 215 |
@@ -60,7 +60,7 @@ Population Pharmacokinetic Parameters in Adults after Subcutaneous Administratio
 | Pharmacokinetic Parameter | Population Estimates (n = 661) |
 | --- | --- |
 | Peak concentration (Cmax, mcg/mL) | 108 |
-| Area under the curve (AUC0-∞, day●mcg/mL) | 726 |
+| Area under the curve (AUC0-∞, day•mcg/mL) | 726 |
 | Distribution half-life (t½, days) | 1.1 |
 | Terminal half-life (t½, days) | 18.3 |
 | Systemic clearance (CL, mL/day) | 204 |
@@ -76,11 +76,15 @@ The following information is based on the population pharmacokinetic analyses of
 
 Age: Age did not significantly influence the pharmacokinetics of belimumab, where the majority of subjects were between 18 and 45 years (70% with intravenous dosing; 74% with subcutaneous dosing).
 
-- Geriatric Patients: Limited pharmacokinetic data are available for elderly patients as less than 2% of the subjects included in the pharmacokinetic analysis were 65 years or older [see Use in Specific Populations (8.5)].
-- Pediatric Patients: The pharmacokinetic parameters are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients (Trial 6).
-  Following IV administration of 10 mg/kg on Days 0, 14, and 28, and at 4‑week intervals thereafter, belimumab exposures were similar between pediatric and adult subjects with SLE.
-  Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mcg/mL, and 2,569 day●mcg/mL in the 5- to 11-year-old group, and 317, 52, 112 mcg/mL and 3,126 day●mcg/mL in the 12- to 17-year-old group.
-  [See Use in Specific Populations (8.4).]
+1. Geriatric Patients: Limited pharmacokinetic data are available for elderly patients as less than 2% of the subjects included in the pharmacokinetic analysis were 65 years or older [see Use in Specific Populations (8.5)].
+2. Pediatric Patients: The pharmacokinetic parameters of belimumab are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients with SLE (Trial 6).
+   Following IV administration of 10 mg/kg on Days 0, 14, and 28, and at 4‑week intervals thereafter, belimumab exposures were similar between pediatric and adult subjects with SLE.
+   Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mcg/mL, and 2,569 day•mcg/mL in the 5- to 11-year-old group, and 317, 52, 112 mcg/mL and 3,126 day•mcg/mL in the 12- to 17-year-old group.
+   [See Use in Specific Populations (8.4).]
+
+For active lupus nephritis, the pharmacokinetics of belimumab in pediatric patients were estimated based on a population pharmacokinetic model developed from 224 adults with active lupus nephritis and validated using data from 53 pediatric patients with SLE.
+With IV administration of 10 mg/kg on Days 0, 14 and 28 and at 4-week intervals thereafter, the simulated belimumab exposures for both the 5- to 11-year-old group and the 12- to 17-year-old group were estimated to be comparable to adults with active lupus nephritis.
+[See Use in Specific Populations (8.4).]
 
 Male and Female Patients: Gender did not significantly influence belimumab pharmacokinetics in the largely female trial population (94% with intravenous dosing; 85% with subcutaneous dosing).
 
@@ -97,7 +101,7 @@ BENLYSTA was studied in a limited number of adult patients with SLE who had mild
 [See Use in Specific Populations (8.6).]
 
 Patients with Hepatic Impairment: No formal trials were conducted to examine the effects of hepatic impairment on the pharmacokinetics of belimumab.
-Baseline ALT and AST levels did not significantly influence belimumab pharmacokinetics.
+Baseline alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels did not significantly influence belimumab pharmacokinetics.
 [See Use in Specific Populations (8.7).]
 
 Drug Interaction Studies
