@@ -1,5 +1,7 @@
 # MEDICATION GUIDE
 
+Dispense with Medication Guide available at: www.tevausa.com/medguides
+
 Atomoxetine (a″ toe mox′ e teen) Capsules
 
 Read the Medication Guide that comes with atomoxetine capsules before you or your child starts taking them and each time you get a refill.
@@ -242,9 +244,9 @@ Zagreb, Croatia
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
-North Wales, PA 19454
+Parsippany, NJ 07054
 
 Rev.
-G 6/2022
+H 6/2022

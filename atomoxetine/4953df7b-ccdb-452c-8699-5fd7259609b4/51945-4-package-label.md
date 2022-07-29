@@ -10,7 +10,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 CAPSULES
+30 Capsules
 
 # Package/Label Display Panel
 
@@ -24,7 +24,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 CAPSULES
+30 Capsules
 
 # Package/Label Display Panel
 
@@ -38,7 +38,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 CAPSULES
+30 Capsules
 
 # Package/Label Display Panel
 
@@ -52,7 +52,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 CAPSULES
+30 Capsules
 
 # Package/Label Display Panel
 
@@ -66,7 +66,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 CAPSULES
+30 Capsules
 
 # Package/Label Display Panel
 
@@ -80,7 +80,7 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 CAPSULES
+30 Capsules
 
 # Package/Label Display Panel
 
@@ -94,4 +94,4 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 CAPSULES
+30 Capsules

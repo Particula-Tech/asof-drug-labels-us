@@ -54,17 +54,12 @@ Interference with Psychomotor Performance
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
-Manufactured In Croatia By:
+Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Pliva Hrvatska d.o.o.
-
+Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia
 
-Manufactured For:
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-M 6/2022
+N 6/2022
