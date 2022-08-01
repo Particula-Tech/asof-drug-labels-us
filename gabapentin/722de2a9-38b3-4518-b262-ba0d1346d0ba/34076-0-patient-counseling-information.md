@@ -48,16 +48,14 @@ Trademarks are the property of their respective owners.
 
 Manufactured by:
 
-Alkem Laboratories Limited
+Alkem Laboratories Ltd.,
 
-ALKEM HOUSE, Lower Parel,
-
-Mumbai – 400 013, INDIA
+INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054 Revised: February, 2021
+Parsippany, NJ 07054 Revised: November, 2021
 
-PT 1702-10
+PT 1702-11

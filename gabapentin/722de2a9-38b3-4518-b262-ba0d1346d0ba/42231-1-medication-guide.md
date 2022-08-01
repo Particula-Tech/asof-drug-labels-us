@@ -240,11 +240,9 @@ For the most recent prescribing information, please visit www.dailymed.nlm.nih.g
 
 Manufactured by:
 
-Alkem Laboratories Limited
+Alkem Laboratories Ltd.,
 
-ALKEM HOUSE, Lower Parel,
-
-Mumbai – 400 013, INDIA
+INDIA.
 
 Distributed by:
 
@@ -252,4 +250,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: February, 2021
+Revised: November, 2021
