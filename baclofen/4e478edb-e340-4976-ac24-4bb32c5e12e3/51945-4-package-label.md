@@ -1,19 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 10 mg/20 mL Ampule Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-560-20 - 10 mg/20 mL Ampule Label
 
-Lioresal®Intrathecal (baclofen injection)
-
-10 mg/20 mL (500 mcg/mL)
-
-Sterile solution for intrathecal injection.
-Distributed by Saol Therapeutics Inc., Roswell, GA 30076
-
-NDC 70257-560-20 68947 01 LA56002
-
-LOT
-
-EXP
-
-# PRINCIPAL DISPLAY PANEL - 10 mg/20 mL Outer Box Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-560-01- 10 mg/20 mL Outer Box Label
 
 SAOL NDC 70257-560 -01
 
@@ -23,30 +10,29 @@ LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed 
 
 10 mg/20 mL (500 mcg/mL)
 
-CONTENTS:
+Drug ampule now sterile Contents:
 
 - Refill Instructions
-
-Drug Box:
-
-- One 20-mL Lioresal Intrathecal Ampule
-- Drug prescribing information
+- Sterile drape
 
 Refill Kit*:
 
-- 20-mL syringe
+- 20 mL syringe
 - Extension set with a clamp
-- Two 22-gauge noncoring needles
+- Two 22 gauge noncoring needles
 - Template
-- 0.2-micron filter
+- 0.2 micron disc filter
 - Accessories
 
 Drug Preparation Kit*:
 
-- 20-mL syringe
-- Filter Straw ® tube
+- One 20 mL Lioresal® Intrathecal Ampule
+- Ampule opener
+- Lioresal® Intrathecal prescribing information
+- 20 mL syringe
+- Filter Straw® tube
 - Accessories
-- Drug preparation instructions
+- Instructions for Use
 
 TOTAL VOLUME: 20 mL (One 20-mL Ampule)
 
@@ -77,22 +63,9 @@ Read and follow all enclosed instructions
 
 Saol Therapeutics Inc. Roswell, GA 30076
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/5 mL Ampule Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-561-05 - 10 mg/5 mL Ampule Label
 
-Lioresal ® Intrathecal (baclofen injection)
-
-10 mg/5 mL (2000 mcg/mL)
-
-Sterile solution for intrathecal injection.
-Distributed by Saol Therapeutics Inc., Roswell, GA 30076
-
-NDC 70257-561-05 68946 01 LA56102
-
-LOT
-
-EXP
-
-# PRINCIPAL DISPLAY PANEL - 10 mg/5 mL Outer Box Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-561-02 - 10 mg/5 mL Outer Box Label
 
 SAOL NDC 70257-561 -02
 
@@ -102,30 +75,29 @@ LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed 
 
 10 mg/5 mL (2000 mcg/mL)
 
-CONTENTS:
+Drug ampule now sterile Contents:
 
 - Refill Instructions
-
-Drug Box:
-
-- Two 5-mL Lioresal Intrathecal Ampules
-- Drug prescribing information
+- Sterile drape
 
 Refill Kit*:
 
-- 20-mL syringe
+- 20 mL syringe
 - Extension set with a clamp
-- Two 22-gauge noncoring needles
+- Two 22 gauge noncoring needles
 - Template
-- 0.2-micron filter
+- 0.2 micron disc filter
 - Accessories
 
 Drug Preparation Kit*:
 
-- 20-mL syringe
-- Filter Straw ® tube
+- Two 5 mL Lioresal® Intrathecal Ampule
+- Two Ampule openers
+- Lioresal® Intrathecal prescribing information
+- Two 20 mL syringes
+- Two Filter Straw® tube
 - Accessories
-- Drug preparation instructions
+- Instructions for Use
 
 TOTAL VOLUME: 10 mL (Two 5-mL Ampules)
 
@@ -156,22 +128,9 @@ Read and follow all enclosed instructions
 
 Saol Therapeutics Inc. Roswell, GA 30076
 
-# PRINCIPAL DISPLAY PANEL - 40 mg/20 mL Ampule Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-563-20 - 40 mg/20 mL Ampule Label
 
-Lioresal ® Intrathecal (baclofen injection)
-
-40 mg/20 mL (2000 mcg/mL)
-
-Sterile solution for intrathecal injection.
-Distributed by Saol Therapeutics Inc., Roswell, GA 30076
-
-NDC 70257-563-20 68948 01 LA56302
-
-LOT
-
-EXP
-
-# PRINCIPAL DISPLAY PANEL - 40 mg/20 mL Outer Box Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-563-01 - 40 mg/20 mL Outer Box Label
 
 SAOL NDC 70257-563 -01
 
@@ -181,30 +140,29 @@ LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed 
 
 40 mg/20 mL (2000 mcg/mL)
 
-CONTENTS:
+Drug ampule now sterile Contents:
 
 - Refill Instructions
-
-Drug Box:
-
-- One 20-mL Lioresal Intrathecal Ampule
-- Drug prescribing information
+- Sterile drape
 
 Refill Kit*:
 
-- 20-mL syringe
+- 20 mL syringe
 - Extension set with a clamp
-- Two 22-gauge noncoring needles
+- Two 22 gauge noncoring needles
 - Template
-- 0.2-micron filter
+- 0.2 micron disc filter
 - Accessories
 
 Drug Preparation Kit*:
 
-- 20-mL syringe
-- Filter Straw ® tube
+- One 20 mL Lioresal® Intrathecal Ampule
+- Ampule opener
+- Lioresal® Intrathecal prescribing information
+- 20 mL syringe
+- Filter Straw® tube
 - Accessories
-- Drug preparation instructions
+- Instructions for Use
 
 TOTAL VOLUME: 20 mL (One 20-mL Ampule)
 
@@ -235,7 +193,7 @@ Read and follow all enclosed instructions
 
 Saol Therapeutics Inc. Roswell, GA 30076
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/20 mL Outer Box Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-560-02 - 10 mg/20 mL Outer Box Label
 
 SAOL NDC 70257-560 -02
 
@@ -245,30 +203,29 @@ LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed 
 
 10 mg/20 mL (500 mcg/mL)
 
-CONTENTS:
+Drug ampule now sterile Contents:
 
 - Refill Instructions
-
-Drug Box:
-
-- Two 20-mL Lioresal Intrathecal Ampules
-- Drug prescribing information
+- Sterile drape
 
 Refill Kit*:
 
-- 20-mL syringe
+- 20 mL syringe
 - Extension set with a clamp
-- Two 22-gauge noncoring needles
+- Two 22 gauge noncoring needles
 - Template
-- 0.2-micron filter
+- 0.2 micron disc filter
 - Accessories
 
-Drug Preparation Kit*:
+Two (2) Drug Preparation Kits (each containing the following components):
 
-- Two 20-mL syringes
-- Two Filter Straw ® tubes
+- One 20 mL Lioresal® Intrathecal Ampule
+- Ampule opener
+- Lioresal® Intrathecal prescribing information
+- 20 mL syringe
+- Filter Straw® tube
 - Accessories
-- Drug preparation instructions
+- Instructions for Use
 
 TOTAL VOLUME: 40 mL (Two 20-mL Ampules)
 
@@ -299,7 +256,7 @@ Read and follow all enclosed instructions
 
 Saol Therapeutics Inc. Roswell, GA 30076
 
-# PRINCIPAL DISPLAY PANEL - 40 mg/20 mL Outer Box Label
+# PRINCIPAL DISPLAY PANEL NDC 70257-563-02 - 40 mg/20 mL Outer Box Label
 
 SAOL NDC 70257-563 -02
 
@@ -309,30 +266,29 @@ LIORESAL ® INTRATHECAL (baclofen injection) Refill Kit For use with SynchroMed 
 
 40 mg/20 mL (2000 mcg/mL)
 
-CONTENTS:
+Drug ampule now sterile Contents:
 
 - Refill Instructions
-
-Drug Box:
-
-- Two 20-mL Lioresal Intrathecal Ampules
-- Drug prescribing information
+- Sterile drape
 
 Refill Kit*:
 
-- 20-mL syringe
+- 20 mL syringe
 - Extension set with a clamp
-- Two 22-gauge noncoring needles
+- Two 22 gauge noncoring needles
 - Template
-- 0.2-micron filter
+- 0.2 micron disc filter
 - Accessories
 
-Drug Preparation Kit*:
+Two (2) Drug Preparation Kits (each containing the following components):
 
-- Two 20-mL syringes
-- Two Filter Straw ® tubes
+- One 20 mL Lioresal® Intrathecal Ampule
+- Ampule opener
+- Lioresal® Intrathecal prescribing information
+- 20 mL syringe
+- Filter Straw® tube
 - Accessories
-- Drug preparation instructions
+- Instructions for Use
 
 TOTAL VOLUME: 40 mL (Two 20-mL Ampules)
 
