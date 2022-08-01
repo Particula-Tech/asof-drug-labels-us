@@ -86,7 +86,7 @@ Therefore, neuromuscular blocking agents should be given with caution to patient
 Adverse effects on implantation in rats, embryo viability in mice and metabolism in vitro of rat testes and human spermatozoa have been attributed to lithium, as have teratogenicity in submammalian species and cleft palates in mice.
 
 In humans, lithium carbonate may cause fetal harm when administered to a pregnant woman.
-Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein's anomaly.
+Data from lithium birth registries suggest an increase in cardiac and other anomalies, especially Ebstein’s anomaly.
 If this drug is used in women of childbearing potential, or during pregnancy, or if a patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 ## Usage in Nursing Mothers
@@ -138,6 +138,9 @@ In some cases, lithium toxicity has resulted from interactions between an NSAID 
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
 There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg b.i.d. with celecoxib 200 mg b.i.d. as compared to subjects receiving lithium alone.
+
+Concomitant use of lithium with a Sodium-Glucose Cotransporter 2 (SGLT2) inhibitor may decrease serum lithium concentrations.
+Monitor serum lithium concentration more frequently during SGLT2 inhibitor initiation and dosage changes.
 
 Concurrent use of metronidazole with lithium may provoke lithium toxicity due to reduced renal clearance.
 Patients receiving such combined therapy should be monitored closely.

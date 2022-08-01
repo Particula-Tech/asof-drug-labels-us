@@ -20,7 +20,7 @@ Optimal patient response to Lithium Carbonate Extended-Release Tablets can usual
 Such doses will normally produce the desired serum lithium level ranging between 1 and 1.5 mEq/L.
 
 Dosage must be individualized according to serum levels and clinical response.
-Regular monitoring of the patient's clinical state and serum lithium levels is necessary.
+Regular monitoring of the patient’s clinical state and serum lithium levels is necessary.
 Serum levels should be determined twice per week during the acute phase, and until the serum level and clinical condition of the patient have been stabilized.
 
 ## Long-Term Control
