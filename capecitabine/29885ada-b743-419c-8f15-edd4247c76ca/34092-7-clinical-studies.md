@@ -12,11 +12,11 @@ The baseline characteristics were well-balanced between arms.
 
 Table 10 Baseline Demographics
 
-|  | Capecitabine (n =1,004) | 5 - FU/LV (n =983) |
+|  | Capecitabine (n=1,004) | 5-FU/LV (n=983) |
 | --- | --- | --- |
-| Age (m e d i a n, y ea r s) | 62 | 63 |
-| R a nge | (25 to 80) | (22 to 82) |
-| G e nd er |  |  |
+| Age (median, years) | 62 | 63 |
+| Range | (25 to 80) | (22 to 82) |
+| Gender |  |  |
 | Male (n, %) | 542 (54) | 532 (54) |
 | Female (n, %) | 461 (46) | 451 (46) |
 | ECOG PS |  |  |
@@ -40,7 +40,7 @@ Dose management for capecitabine included dose reductions, cycle delays and trea
 
 Table 11 Summary of Dose Modifications in X-ACT Study
 
-|  | Capecitabine N = 995 | 5 - FU/ LV N = 974 |
+|  | Capecitabine N = 995 | 5-FU/LV N = 974 |
 | --- | --- | --- |
 | Median relative dose intensity (%) | 93 | 92 |
 | Patients completing full course of treatment (%) | 83 | 87 |
@@ -60,11 +60,11 @@ The 5-year overall survival rates were 71.4% for capecitabine and 68.4% for 5- F
 
 Table 12 Efficacy of Capecitabine vs 5-FU/LV in Adjuvant Treatment of Colon Cancera
 
-| All Randomized Population | Capecitabine (n =1,004) | 5 - FU/ LV (n =983) |
+| All Randomized Population | Capecitabine (n=1,004) | 5-FU/LV (n=983) |
 | --- | --- | --- |
-| M e dian fol low - up (mo n t h s) | 83 | 83 |
-| 5 -y ear Di s e a s e -f r ee Su rviv al Ra t es (%)b | 59.1 | 54.6 |
-| H aza rd R a t io (capecitabine /5 - FU/ LV) (95% C. I. f or H aza rd R a t i o) p - v a lu ec | 0.88 (0.77 to 1.01) p = 0.068 |  |
+| Median follow-up (months) | 83 | 83 |
+| 5-year Disease-free Survival Rates (%)b | 59.1 | 54.6 |
+| Hazard Ratio (capecitabine /5-FU/LV) (95% C.I. for Hazard Ratio) p-valuec | 0.88 (0.77 to 1.01) p = 0.068 |  |
 
 aApproximately 93.4% had 5-year DFS information bBased on Kaplan-Meier estimates CTest of superiority of capecitabine vs 5-FU/LV (Wald chi-square test)
 

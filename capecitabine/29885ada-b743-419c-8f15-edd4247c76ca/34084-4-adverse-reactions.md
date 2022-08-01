@@ -59,10 +59,10 @@ Table 5 Percent Incidence of Grade 3/4 Laboratory Abnormalities Reported in ≥1
 | Decreased calcium | 2.3 | 2.2 |
 | Decreased hemoglobin | 1.0 | 1.2 |
 | Decreased lymphocytes | 13.0 | 13.0 |
-| Decreased neutrophilsThe incidence of grade 3/4 white blood cell abnormalities was 1.3% in the Capecitabine arm and 4.9% in the IV 5-FU/LV arm. | 2.2 | 26.2 |
+| Decreased neutrophilsThe incidence of grade 3/4 white blood cell abnormalities was 1.3% in the&#160;Capecitabine arm and 4.9% in the IV 5-FU/LV arm. | 2.2 | 26.2 |
 | Decreased neutrophils/granulocytes | 2.4 | 26.4 |
 | Decreased platelets | 1.0 | 0.7 |
-| Increased bilirubin<p>It should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1, hyperbilirubinemia grade 3 indicates a bilirubin value of 1.5 to 3.0 × upper limit of normal (ULN) range, and grade 4 a value of > 3.0 × ULN. The NCI CTC Version 2 and above define a grade 3 bilirubin value of >3.0 to 10.0 × ULN, and grade 4 values >10.0 × ULN.</p> | 20 | 6.3 |
+| Increased bilirubin<p>It should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1, hyperbilirubinemia grade 3 indicates a bilirubin value of 1.5 to 3.0 &#215; upper limit of normal (ULN) range, and grade 4 a value of &#62; 3.0 &#215; ULN. The NCI CTC Version 2 and above define a grade 3 bilirubin value of &#62;3.0 to 10.0 &#215; ULN, and grade 4 values &#62;10.0 &#215; ULN.</p> | 20 | 6.3 |
 
 ## 6.2 Metastatic Colorectal Cancer
 
