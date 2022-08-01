@@ -7,7 +7,11 @@ Cardiovascular effects include arrhythmias, hypertension or hypotension and circ
 Gastrointestinal symptoms include nausea, vomiting, diarrhea and abdominal cramps.
 Fatal poisoning is usually preceded by convulsions and coma.
 
-## Treatment
+Treatment
+
+Consult with a Certified Poison Control Center for up-to-date guidance and advice.
+
+## TREATMENT
 
 Consult with a Certified Poison Control Center for up-to-date guidance and advice.
 Management of acute amphetamine intoxication is largely symptomatic and includes gastric lavage, administration of activated charcoal, administration of a cathartic, and sedation.

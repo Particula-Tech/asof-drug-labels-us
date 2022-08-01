@@ -4,15 +4,19 @@
 
 ## Sudden Death in Patients with Pre-Existing Structural Cardiac Abnormalities or Other Serious Heart Problems
 
-Children and Adolescents – Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
+Children and Adolescents
+
+Sudden death has been reported in association with CNS stimulant treatment at usual doses in children and adolescents with structural cardiac abnormalities or other serious heart problems.
 Although some serious heart problems alone carry an increased risk of sudden death, stimulant products generally should not be used in children or adolescents with known serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, or other serious cardiac problems that may place them at increased vulnerability to the sympathomimetic effects of a stimulant drug.
-Adults – Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
+Adults
+
+Sudden deaths, stroke, and myocardial infarction have been reported in adults taking stimulant drugs at usual doses for ADHD.
 Although the role of stimulants in these adult cases is also unknown, adults have a greater likelihood than children of having serious structural cardiac abnormalities, cardiomyopathy, serious heart rhythm abnormalities, coronary artery disease, or other serious cardiac problems.
 Adults with such abnormalities should also generally not be treated with stimulant drugs (see CONTRAINDICATIONS).
 
 ## Hypertension and Other Cardiovascular Conditions
 
-Stimulant medications cause a modest increase in average blood pressure (about 2 to 4 mmHg) and average heart rate (about 3 to 6 bpm), and individuals may have larger increases.
+Stimulant medications cause a modest increase in average blood pressure (about 2 mmHg to 4 mmHg) and average heart rate (about 3 bpm to 6 bpm), and individuals may have larger increases.
 While the mean changes alone would not be expected to have short-term consequences, all patients should be monitored for larger changes in heart rate and blood pressure.
 Caution is indicated in treating patients whose underlying medical conditions might be compromised by increases in blood pressure or heart rate, e.g., those with pre-existing hypertension, heart failure, recent myocardial infarction, or ventricular arrhythmia (see CONTRAINDICATIONS).
 
@@ -23,13 +27,21 @@ Patients who develop symptoms such as exertional chest pain, unexplained syncope
 
 ## Psychiatric Adverse Events
 
-Pre-Existing Psychosis – Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
-Bipolar Illness – Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
+Pre-Existing Psychosis
+
+Administration of stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
+Bipolar Illness
+
+Particular care should be taken in using stimulants to treat ADHD in patients with comorbid bipolar disorder because of concern for possible induction of a mixed/manic episode in such patients.
 Prior to initiating treatment with a stimulant, patients with comorbid depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-Emergence of New Psychotic or Manic Symptoms – Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
+Emergence of New Psychotic or Manic Symptoms
+
+Treatment emergent psychotic or manic symptoms, e.g., hallucinations, delusional thinking, or mania in children and adolescents without a prior history of psychotic illness or mania can be caused by stimulants at usual doses.
 If such symptoms occur, consideration should be given to a possible causal role of the stimulant, and discontinuation of treatment may be appropriate.
 In a pooled analysis of multiple short-term, placebo-controlled studies, such symptoms occurred in about 0.1% (4 patients with events out of 3,482 exposed to methylphenidate or amphetamine for several weeks at usual doses) of stimulant-treated patients compared to 0 in placebo-treated patients.
-Aggression – Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
+Aggression
+
+Aggressive behavior or hostility is often observed in children and adolescents with ADHD, and has been reported in clinical trials and the postmarketing experience of some medications indicated for the treatment of ADHD.
 Although there is no systematic evidence that stimulants cause aggressive behavior or hostility, patients beginning treatment for ADHD should be monitored for the appearance of, or worsening of, aggressive behavior or hostility.
 
 ## Long-Term Suppression of Growth
@@ -72,8 +84,14 @@ Difficulties with accommodation and blurring of vision have been reported with s
 
 # PRECAUTIONS
 
-General – The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
-Information for Patients – Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
+## General
+
+The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
+
+## Information for Patients
+
+Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles; the patient should therefore be cautioned accordingly.
+
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with dextroamphetamine and should counsel them in its appropriate use.
 A patient Medication Guide is available for dextroamphetamine sulfate extended-release capsules.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
@@ -89,64 +107,106 @@ Circulation problems in fingers and toes [Peripheral vasculopathy, including Ray
 
 ## Drug Interactions
 
-Acidifying Agents – Lower blood levels and efficacy of amphetamines.
+Acidifying Agents
+
+Lower blood levels and efficacy of amphetamines.
 Increase dose based on clinical response.
 Examples of acidifying agents include gastrointestinal acidifying agents (e.g., guanethidine, reserpine, glutamic acid HCl, ascorbic acid) and urinary acidifying agents (e.g., ammonium chloride, sodium acid phosphate, methenamine salts).
 
-Adrenergic Blockers – Adrenergic blockers are inhibited by amphetamines.
+Adrenergic Blockers
 
-Alkalinizing Agents – Increase blood levels and potentiate the action of amphetamine.
+Adrenergic blockers are inhibited by amphetamines.
+
+Alkalinizing Agents
+
+Increase blood levels and potentiate the action of amphetamine.
 Co-administration of dextroamphetamine sulfate extended-release capsules and gastrointestinal alkalinizing agents should be avoided.
 Examples of alkalinizing agents include gastrointestinal alkalinizing agents (e.g., sodium bicarbonate) and urinary alkalinizing agents (e.g., acetazolamide, some thiazides).
 
-Tricyclic Antidepressants – May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
+Tricyclic Antidepressants
+
+May enhance the activity of tricyclic or sympathomimetic agents causing striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
 Monitor frequently and adjust or use alternative therapy based on clinical response.
 Examples of tricyclic antidepressants include desipramine, Protriptyline.
 
-CYP2D6 Inhibitors – The concomitant use of dextroamphetamine sulfate extended-release capsules and CYP2D6 inhibitors may increase the exposure of dextroamphetamine sulfate extended-release capsules compared to the use of the drug alone and increase the risk of serotonin syndrome.
+CYP2D6 Inhibitors
+
+The concomitant use of dextroamphetamine sulfate extended-release capsules and CYP2D6 inhibitors may increase the exposure of dextroamphetamine sulfate extended-release capsules compared to the use of the drug alone and increase the risk of serotonin syndrome.
 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during dextroamphetamine sulfate extended-release capsules initiation and after a dosage increase.
 If serotonin syndrome occurs, discontinue dextroamphetamine sulfate extended-release capsules and the CYP2D6 inhibitor (see WARNINGS, OVERDOSAGE).
 Examples of CYP2D6 Inhibitors include paroxetine and fluoxetine (also serotonergic drugs), quinidine, ritonavir.
 
-Serotonergic Drugs – The concomitant use of dextroamphetamine sulfate extended-release capsules and serotonergic drugs increases the risk of serotonin syndrome.
+Serotonergic Drugs
+
+The concomitant use of dextroamphetamine sulfate extended-release capsules and serotonergic drugs increases the risk of serotonin syndrome.
 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during dextroamphetamine sulfate extended-release capsules initiation or dosage increase.
 If serotonin syndrome occurs, discontinue dextroamphetamine sulfate extended-release capsules and the concomitant serotonergic drug(s) (see WARNINGS and PRECAUTIONS).
 Examples of serotonergic drugs include selective serotonin reuptake inhibitors (SSRI), serotonin norepinephrine reuptake inhibitors (SNRI), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John’s Wort.
 
-MAO Inhibitors – Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis.
+MAO Inhibitors
+
+Concomitant use of MAOIs and CNS stimulants can cause hypertensive crisis.
 Potential outcomes include death, stroke, myocardial infarction, aortic dissection, ophthalmological complications, eclampsia, pulmonary edema, and renal failure.
 Do not administer dextroamphetamine sulfate extended-release capsules concomitantly or within 14 days after discontinuing MAOI (see CONTRAINDICATIONS and WARNINGS).
 Examples of MAOIs include selegiline, tranylcypromine, isocarboxazid, phenelzine, linezolid, methylene blue.
 
-Proton Pump Inhibitors – Time to maximum concentration (Tmax) of amphetamine is decreased compared to when administered alone.
+Proton Pump Inhibitors
+
+Time to maximum concentration (Tmax) of amphetamine is decreased compared to when administered alone.
 Monitor patients for changes in clinical effect and adjust therapy based on clinical response.
 An example of a proton pump inhibitor is omeprazole.
 
-Antihistamines – Amphetamines may counteract the sedative effect of antihistamines.
+Antihistamines
 
-Antihypertensives – Amphetamines may antagonize the hypotensive effects of antihypertensives.
+Amphetamines may counteract the sedative effect of antihistamines.
 
-Chlorpromazine – Chlorpromazine blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines, and can be used to treat amphetamine poisoning.
+Antihypertensives
 
-Ethosuximide – Amphetamines may delay intestinal absorption of ethosuximide.
+Amphetamines may antagonize the hypotensive effects of antihypertensives.
 
-Haloperidol – Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines.
+Chlorpromazine
 
-Lithium Carbonate – The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
+Chlorpromazine blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines, and can be used to treat amphetamine poisoning.
 
-Meperidine – Amphetamines potentiate the analgesic effect of meperidine.
+Ethosuximide
 
-Methenamine Therapy – Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
+Amphetamines may delay intestinal absorption of ethosuximide.
 
-Norepinephrine – Amphetamines enhance the adrenergic effect of norepinephrine.
+Haloperidol
 
-Phenobarbital – Amphetamines may delay intestinal absorption of phenobarbital; co-administration of phenobarbital may produce a synergistic anticonvulsant action.
+Haloperidol blocks dopamine and norepinephrine reuptake, thus inhibiting the central stimulant effects of amphetamines.
 
-Phenytoin – Amphetamines may delay intestinal absorption of phenytoin; co-administration of phenytoin may produce a synergistic anticonvulsant action.
+Lithium Carbonate
 
-Propoxyphene – In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
+The stimulatory effects of amphetamines may be inhibited by lithium carbonate.
 
-Veratrum Alkaloids – Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
+Meperidine
+
+Amphetamines potentiate the analgesic effect of meperidine.
+
+Methenamine Therapy
+
+Urinary excretion of amphetamines is increased, and efficacy is reduced, by acidifying agents used in methenamine therapy.
+
+Norepinephrine
+
+Amphetamines enhance the adrenergic effect of norepinephrine.
+
+Phenobarbital
+
+Amphetamines may delay intestinal absorption of phenobarbital; co-administration of phenobarbital may produce a synergistic anticonvulsant action.
+
+Phenytoin
+
+Amphetamines may delay intestinal absorption of phenytoin; co-administration of phenytoin may produce a synergistic anticonvulsant action.
+
+Propoxyphene
+
+In cases of propoxyphene overdosage, amphetamine CNS stimulation is potentiated and fatal convulsions can occur.
+
+Veratrum Alkaloids
+
+Amphetamines inhibit the hypotensive effect of veratrum alkaloids.
 
 Drug/Laboratory Test Interactions
 
@@ -155,20 +215,32 @@ This increase is greatest in the evening.
 
 Amphetamines may interfere with urinary steroid determinations.
 
-Carcinogenesis/Mutagenesis – Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of dextroamphetamine sulfate extended-release capsules have not been performed.
+Carcinogenesis/Mutagenesis
+
+Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of dextroamphetamine sulfate extended-release capsules have not been performed.
 
 ## Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category C – Dextroamphetamine sulfate extended-release capsules have been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
+Teratogenic Effects
+
+Dextroamphetamine sulfate extended-release capsules have been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 While there are no adequate and well-controlled studies in pregnant women, there has been one report of severe congenital bony deformity, tracheoesophageal fistula, and anal atresia (VATER association) in a baby born to a woman who took dextroamphetamine sulfate with lovastatin during the first trimester of pregnancy.
 Dextroamphetamine sulfate extended-release capsules should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Nonteratogenic Effects – Infants born to mothers dependent on amphetamines have an increased risk of premature delivery and low birth weight.
+Nonteratogenic Effects
+
+Infants born to mothers dependent on amphetamines have an increased risk of premature delivery and low birth weight.
 Also, these infants may experience symptoms of withdrawal as demonstrated by dysphoria, including agitation, and significant lassitude.
-Nursing Mothers – Amphetamines are excreted in human milk.
+
+## Nursing Mothers
+
+Amphetamines are excreted in human milk.
 Mothers taking amphetamines should be advised to refrain from nursing.
-Pediatric Use – Long-term effects of amphetamines in pediatric patients have not been well established.
+
+## Pediatric Use
+
+Long-term effects of amphetamines in pediatric patients have not been well established.
+
 Dextroamphetamine sulfate extended-release capsules are not recommended for use in pediatric patients younger than 6 years of age with Attention Deficit Disorder with Hyperactivity described under INDICATIONS AND USAGE.
 Clinical experience suggests that in psychotic children, administration of amphetamines may exacerbate symptoms of behavior disturbance and thought disorder.
 Amphetamines have been reported to exacerbate motor and phonic tics and Tourette’s syndrome.
