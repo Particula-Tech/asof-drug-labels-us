@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214273"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Azurity Phramaceuticals, Inc.",
+  "package_ndcs": [
+    "52652-8001-1"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "zonisamide",
+      "name": "ZONISADE"
+    }
+  ],
+  "setid": "ac16fa15-32e9-4f92-8bc6-d8d41ae002c6",
+  "source": "dailymed"
+}
