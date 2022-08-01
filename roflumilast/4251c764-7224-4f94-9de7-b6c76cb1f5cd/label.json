@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208299"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Solco Healthcare US, LLC.",
+  "package_ndcs": [
+    "43547-005-03",
+    "43547-005-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "ROFLUMILAST"
+    }
+  ],
+  "setid": "4251c764-7224-4f94-9de7-b6c76cb1f5cd",
+  "source": "dailymed"
+}
