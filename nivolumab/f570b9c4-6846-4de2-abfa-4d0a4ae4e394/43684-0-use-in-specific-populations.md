@@ -54,7 +54,7 @@ The safety and effectiveness of OPDIVO have not been established (1) in pediatri
 Single Agent
 
 Of 3569 patients with melanoma, NSCLC, renal cell carcinoma, urothelial carcinoma, ESCC, and esophageal or gastroesophageal junction cancer who were randomized to single agent OPDIVO in clinical studies, 41% were 65 years and over and 10% were 75 years and over.
-No overall differences in safety or effectiveness were observed between elderly patients and younger patients [see Clinical Studies (14.1, 14.2, 14.4, 14.6, 14.9, 14.12,)].
+No overall differences in safety or effectiveness were observed between elderly patients and younger patients [see Clinical Studies (14.1, 14.2, 14.4, 14.6, 14.9, 14.12)].
 
 In patients with cHL, recurrent head and neck SCC, or dMMR or MSI-H metastatic CRC (mCRC) who were treated with single agent OPDIVO in clinical studies did not include sufficient numbers of patients aged 65 years and over to determine whether they respond differently from younger patients [see Clinical Studies (14.7,14.8,14.10)].
 

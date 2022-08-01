@@ -287,7 +287,7 @@ Baseline ECOG performance status was 0 (31%) or 1 (68%), 57% had tumors with PD-
 The study demonstrated a statistically significant benefit in OS, PFS, and ORR.
 Efficacy results from the prespecified interim analysis when 351 events were observed (87% of the planned number of events for final analysis) are presented in Table 52.
 
-Table52: Efficacy Results - CHECKMATE-9LA
+Table 52: Efficacy Results - CHECKMATE-9LA
 
 |  | OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy (n=361) | Platinum-Doublet Chemotherapy (n=358) |
 | --- | --- | --- |
@@ -539,6 +539,7 @@ The major efficacy outcome measure was PFS (BICR assessed).
 Additional efficacy outcome measures were OS and ORR (BICR assessed).
 The trial demonstrated a statistically significant improvement in PFS, OS, and ORR for patients randomized to OPDIVO and cabozantinib compared with sunitinib.
 Consistent results for PFS were observed across pre-specified subgroups of IMDC risk categories and PD-L1 tumor expression status.
+An updated OS analysis was conducted when 271 deaths were observed based on the pre-specified number of deaths for the pre-planned final analysis of OS.
 Efficacy results are shown in Table 57 and Figures 14 and 15.
 
 Table 57: Efficacy Results - CHECKMATE-9ER
@@ -555,6 +556,10 @@ Table 57: Efficacy Results - CHECKMATE-9ER
 | Median OS (months)a (95% CI) | NRe | NR (22.6, NRe) |  |  |  |
 | Hazard ratio (98.89% CI)b | 0.60 (0.40, 0.89) |  |  |  |  |
 | p-valuec,d,f | 0.0010 |  |  |  |  |
+| Updated Overall Survival |  |  |  |  |  |
+| Deaths (%) | 121 (37) | 150 (46) |  |  |  |
+| Median OS (months)a (95% CI) | 37.7 (35.5, NR) | 34.3 (29.0, NR) |  |  |  |
+| Hazard ratio (95% CI)b | 0.70 (0.55, 0.90) |  |  |  |  |
 | Confirmed Objective Response Rate (95% CI)g | 55.7% (50.1, 61.2) | 27.1% (22.4, 32.3) |  |  |  |
 | p-valueh | <0.0001 |  |  |  |  |
 | Complete Response | 26 (8%) | 15 (4.6%) |  |  |  |
@@ -564,7 +569,9 @@ Table 57: Efficacy Results - CHECKMATE-9ER
 
 Figure 14: Progression-free Survival - CHECKMATE-9ER
 
-Figure 15: Overall Survival - CHECKMATE-9ER
+Figure 15: Updated Overall Survival - CHECKMATE-9ER
+
+In an exploratory analysis, the updated analysis of OS in patients with IMDC favorable, intermediate, intermediate/poor, and poor risk demonstrated a HR (95% CI) of 1.03 (0.55, 1.92), 0.74 (0.54, 1.01), 0.65 (0.50, 0.85), and 0.49 (0.31, 0.79), respectively.
 
 Previously Treated Renal Cell Carcinoma
 
@@ -834,7 +841,7 @@ All patients had received prior sorafenib, of whom 10% were unable to tolerate s
 Efficacy results are shown in Table 65.
 The results for OPDIVO in combination with ipilimumab in Cohort 4 are based on a minimum follow-up of 28 months.
 
-Table65: Efficacy Results - Cohort 4 of CHECKMATE-040
+Table 65: Efficacy Results - Cohort 4 of CHECKMATE-040
 
 |  | OPDIVO and Ipilimumab (Cohort 4) (n=49) |
 | --- | --- |
@@ -959,7 +966,7 @@ OS results for each OPDIVO containing arm compared to chemotherapy were:
 
 Exploratory subgroup analyses were also conducted by PD-L1 status per CPS (≥1 and <1) for each OPDIVO containing arm compared to chemotherapy.
 Among the 906 patients with quantifiable PD-L1 CPS at baseline, 278 in the OPDIVO with chemotherapy arm, 266 in the OPDIVO with Ipilimumab arm, and 280 in the chemotherapy arm had PD-L1 CPS≥1.
-A total of, 27 patients in the OPDIVO with chemotherapy arm, 31 patients in the OPDIVO with Ipilimumab arm, and 24 patients in the chemotherapy arm had PD-L1 CPS<1.
+A total of 27 patients in the OPDIVO with chemotherapy arm, 31 patients in the OPDIVO with Ipilimumab arm, and 24 patients in the chemotherapy arm had PD-L1 CPS<1.
 
 OS results for each comparison by PD-L1 CPS status were:
 

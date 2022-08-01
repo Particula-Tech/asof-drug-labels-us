@@ -94,7 +94,7 @@ Serious adverse reactions occurred in 36% of patients receiving OPDIVO.
 Adverse reactions led to permanent discontinuation of OPDIVO in 7% of patients and dose interruption in 26% of patients; no single type of adverse reaction accounted for the majority of OPDIVO discontinuations.
 Grade 3 and 4 adverse reactions occurred in 41% of patients receiving OPDIVO.
 
-The most frequent Grade 3 and 4 adverse reactions reported in ≥2% of patients receiving OPDIVO were increased gamma-glutamyltransferase (3.9%) and diarrhea (3.4%).
+The most frequent Grade 3 and 4 adverse reactions reported in ≥2% of patients receiving OPDIVO were increased gamma-glutamyl transferase (3.9%) and diarrhea (3.4%).
 The most common adverse reactions (reported in ≥20% of patients and at a higher incidence than in the dacarbazine arm) were fatigue, musculoskeletal pain, rash, and pruritus.
 
 Tables 7 and 8 summarize selected adverse reactions and laboratory abnormalities, respectively, in CHECKMATE-066.
@@ -311,7 +311,7 @@ The most common Grade 3 or 4 laboratory abnormalities (≥2%) were neutropenia, 
 
 Tables 13 and 14 summarize selected adverse reactions and laboratory abnormalities, respectively, in CHECKMATE-816.
 
-Table 13: Adverse Reactions in >10% of Patients with Early Stage NSCLC Receiving Neoadjuvant OPDIVO and Platinum-Doublet Chemotherapy in CHECKMATE-816
+Table 13: Adverse Reactions in >10% of Patients with Early-Stage NSCLC Receiving Neoadjuvant OPDIVO and Platinum-Doublet Chemotherapy in CHECKMATE-816
 
 | Adverse Reaction | OPDIVO and Platinum-Doublet Chemotherapy (n=176) |  | Platinum-Doublet Chemotherapy (n=176) |  |
 | --- | --- | --- | --- | --- |
@@ -332,7 +332,7 @@ Table 13: Adverse Reactions in >10% of Patients with Early Stage NSCLC Receiving
 | Peripheral neuropathyc | 13 | 0 | 6 | 0 |
 | Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia b Includes rash, dermatitis, acneiform dermatitis, atopic dermatitis, bullous dermatitis, drug eruption, maculopapular rash, and pruritic rash. c Includes peripheral neuropathy, dysesthesia, hypoesthesia, peripheral motor neuropathy, peripheral sensory neuropathy. |  |  |  |  |
 
-Table 14: Select Laboratory Values Worsening from Baselinea Occurring in >20% of Patients with Early Stage NSCLC Receiving Neoadjuvant OPDIVO and Platinum-Doublet Chemotherapy in CHECKMATE-816
+Table 14: Select Laboratory Values Worsening from Baselinea Occurring in >20% of Patients with Early-Stage NSCLC Receiving Neoadjuvant OPDIVO and Platinum-Doublet Chemotherapy in CHECKMATE-816
 
 | Laboratory Abnormality | OPDIVO and Platinum-Doublet Chemotherapya |  | Platinum-Doublet Chemotherapya |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -373,7 +373,7 @@ Tables 15 and 16 summarize selected adverse reactions and laboratory abnormaliti
 
 Table 15: Adverse Reactions in ≥10% of Patients Receiving OPDIVO and Ipilimumab - CHECKMATE-227
 
-| Adverse Reaction | OPDIVO and Ipilimumab (n=576) |  | Platinum-doublet Chemotherapy (n=570) |  |
+| Adverse Reaction | OPDIVO and Ipilimumab (n=576) |  | Platinum-Doublet Chemotherapy (n=570) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | General |  |  |  |  |
@@ -426,7 +426,7 @@ Cardiac: atrial fibrillation, myocarditis
 
 Table 16: Laboratory Values Worsening from Baselinea Occurring in ≥20% of Patients on OPDIVO and Ipilimumab - CHECKMATE-227
 
-| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Platinum-doublet Chemotherapy |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Platinum-Doublet Chemotherapy |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |
 | Hematology |  |  |  |  |  |  |  |  |  |
@@ -1053,7 +1053,7 @@ Table 31: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-274
 | Dizzinessj | 11 | 0.3 | 9 | 0 |
 | Hepatobiliary |  |  |  |  |
 | Hepatitisk | 11 | 4 | 8 | 0.6 |
-| Toxicity was graded per NCI CTCAE v4. a Includes acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis contact, eczema, eczema asteatotic, eczema nummular, erythema, erythema multiforme, lichen sclerosus, lichenoid keratosis, pemphigoid, photosensitivity reaction, pigmentation disorder, psoriasis, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rosacea, skin exfoliation, skin lesion, skin reaction, toxic skin eruption, and urticaria. b Includes colitis, colitis microscopic, diarrhoea, duodenitis, enteritis, immune-mediated enterocolitis c Includes abdominal pain, abdominal discomfort, abdominal tenderness, lower and upper abdominal pain. d Includes musculoskeletal pain, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. e Includes cystitis, escherichia urinary tract infection, pyelonephritis, pyelonephritis acute, pyelonephritis chronic, urethritis, urinary tract infection, urinary tract infection bacterial, urinary tract infection staphylococcal, and urosepsis. f Includes upper respiratory tract infection, nasopharyngitis, pharyngitis and rhinitis. g Includes acute kidney injury, autoimmune nephritis, blood creatinine increased, glomerular filtration rate decreased, immune-mediated nephritis, nephritis, renal failure, and renal impairment. h Includes cough, productive cough, and upper-airway cough syndrome. i Includes dyspnea and exertional dyspnea. j Includes dizziness, postural dizziness and vertigo. k Includes aspartate aminotransferase increased, alanine aminotransferase increased, blood bilirubin increased, cholangitis, drug-induced liver injury, hepatic failure, hepatic function abnormal, hepatitis, hepatocellular injury, hyperbilirubinaemia, gamma-glutamyltransferase increased, liver injury, and transaminases increased. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis contact, eczema, eczema asteatotic, eczema nummular, erythema, erythema multiforme, lichen sclerosus, lichenoid keratosis, pemphigoid, photosensitivity reaction, pigmentation disorder, psoriasis, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rosacea, skin exfoliation, skin lesion, skin reaction, toxic skin eruption, and urticaria. b Includes colitis, colitis microscopic, diarrhea, duodenitis, enteritis, immune-mediated enterocolitis c Includes abdominal pain, abdominal discomfort, abdominal tenderness, lower and upper abdominal pain. d Includes musculoskeletal pain, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. e Includes cystitis, escherichia urinary tract infection, pyelonephritis, pyelonephritis acute, pyelonephritis chronic, urethritis, urinary tract infection, urinary tract infection bacterial, urinary tract infection staphylococcal, and urosepsis. f Includes upper respiratory tract infection, nasopharyngitis, pharyngitis and rhinitis. g Includes acute kidney injury, autoimmune nephritis, blood creatinine increased, glomerular filtration rate decreased, immune-mediated nephritis, nephritis, renal failure, and renal impairment. h Includes cough, productive cough, and upper-airway cough syndrome. i Includes dyspnea and exertional dyspnea. j Includes dizziness, postural dizziness and vertigo. k Includes aspartate aminotransferase increased, alanine aminotransferase increased, blood bilirubin increased, cholangitis, drug-induced liver injury, hepatic failure, hepatic function abnormal, hepatitis, hepatocellular injury, hyperbilirubinemia, gamma-glutamyl transferase increased, liver injury, and transaminases increased. |  |  |  |  |
 
 Table 32: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-274
 
@@ -1236,7 +1236,7 @@ Table 36: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 
 ### Hepatocellular Carcinoma
 
-The safety of OPDIVO 1 mg/kg in combination with ipilimumab 3 mg/kg was evaluated in a subgroup comprising 49 patients with HCC and Child-Pugh Class A cirrhosis enrolled in Cohort 4 of CHECKMATE-040, a multicenter, multiple cohort, open-label trial [see Clinical Studies (14.11)] who progressed on or were intolerant to sorafenib.
+The safety of OPDIVO 1 mg/kg in combination with ipilimumab 3 mg/kg was evaluated in a subgroup comprising 49 patients with HCC and Child-Pugh Class A cirrhosis enrolled in Cohort 4 of CHECKMATE-040, a multicenter, multiple-cohort, open-label trial [see Clinical Studies (14.11)] who progressed on or were intolerant to sorafenib.
 OPDIVO and ipilimumab were administered every 3 weeks for 4 doses, followed by single-agent OPDIVO 240 mg every 2 weeks until disease progression or unacceptable toxicity.
 During the OPDIVO and ipilimumab combination period, 33 of 49 (67%) patients received all 4 planned doses of OPDIVO and ipilimumab.
 During the entire treatment period, the median duration of exposure to OPDIVO was 5.1 months (range: 0 to 35+ months) and to ipilimumab was 2.1 months (range: 0 to 4.5 months).
@@ -1337,7 +1337,7 @@ Adjuvant Treatment of Resected Esophageal or Gastroesophageal Junction Cancer
 The safety of OPDIVO was evaluated in CHECKMATE-577, a randomized, placebo-controlled, double-blinded, multicenter trial in 792 treated patients with completely resected (negative margins) esophageal or gastroesophageal junction cancer who had residual pathologic disease following chemoradiotherapy (CRT) [see Clinical Studies (14.12)].
 The trial excluded patients who did not receive concurrent CRT prior to surgery, had stage IV resectable disease, autoimmune disease, or any condition requiring systemic treatment with either corticosteroids (>10 mg daily prednisone or equivalent) or other immunosuppressive medications.
 Patients received either OPDIVO 240 mg or placebo by intravenous infusion over 30 minutes every 2 weeks for 16 weeks followed by 480 mg or placebo by intravenous infusion over 30 minutes every 4 weeks beginning at week 17.
-Patients were treated until disease recurrence, unacceptable toxicity, or for up to 1 year total duration.
+Patients were treated until disease recurrence, unacceptable toxicity, or for up to 1-year total duration.
 The median duration of exposure was 10.1 months (range: <0.1 to 14 months) in OPDIVO-treated patients and 9 months (range: <0.1 to 15 months) in placebo-treated patients.
 Among patients who received OPDIVO, 61% were exposed for >6 months and 54% were exposed for >9 months.
 
@@ -1494,7 +1494,7 @@ Table 42: Laboratory Values Worsening from Baseline a Occurring in ≥10% of Pat
 | Hypercalcemia | 11 | 2.6 | 15 | 2.0 | 8 | 0 |  |  |  |  |  |  |  |
 | a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO with cisplatin and 5-FU group (range: 60 to 305 patients), OPDIVO and ipilimumab group (range: 59 to 307 patients) or cisplatin and 5-FU group (range: 56 to 283 patients). |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-### Previously Treated Unresectable Advanced, Recurrent or Metastatic Esophageal Squamous Cell Carcinoma (ESCC)
+### Previously-Treated Unresectable Advanced, Recurrent or Metastatic Esophageal Squamous Cell Carcinoma (ESCC)
 
 The safety of OPDIVO was evaluated in ATTRACTION-3, a randomized, active-controlled, open-label, multicenter trial in 209 patients with unresectable advanced, recurrent or metastatic ESCC refractory or intolerant to at least one fluoropyrimidine- and platinum-based chemotherapy [see Clinical Studies (14.12)].
 The trial excluded patients who were refractory or intolerant to taxane therapy, had brain metastases that were symptomatic or required treatment, had autoimmune disease, used systemic corticosteroids or immunosuppressants, had apparent tumor invasion of organs adjacent to the esophageal tumor or had stents in the esophagus or respiratory tract.
@@ -1570,7 +1570,7 @@ Table 44: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 ### Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
 
 The safety of OPDIVO in combination with chemotherapy was evaluated in CHECKMATE-649, a randomized, multicenter, open-label trial in patients with previously untreated advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma [see Clinical Studies (14.13)].
-The trial excluded patients who were known human epidermal growth factor receptor 2 (HER2) positive, or had untreated CNS metastases.
+The trial excluded patients who were known human epidermal growth factor receptor 2 (HER2) positive or had untreated CNS metastases.
 Patients were randomized to receive OPDIVO in combination with chemotherapy or chemotherapy.
 Patients received one of the following treatments:
 
