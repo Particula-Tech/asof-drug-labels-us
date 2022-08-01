@@ -61,6 +61,6 @@ Females and Males of Reproductive Potential Advise patients of reproductive pote
 
 Lactation Advise women not to breastfeed during treatment with HEMADY and for 2 weeks after the last dose [see Use in Specific Populations (8.2)].
 
-Manufactured for: Dexcel Pharma Technologies Ltd 1 Dexcel St, Or-Akiva, 3060000, Israel
+Manufactured for: Dexcel Pharma Technologies Ltd Nahum Haftzadi 21, Givat Shaul Jerusalem, Israel 9548402
 
-Distributed by: Acrotech Biopharma LLC East Windsor, NJ 08520
+Distributed by: Acrotech Biopharma Inc East Windsor, NJ 08520
