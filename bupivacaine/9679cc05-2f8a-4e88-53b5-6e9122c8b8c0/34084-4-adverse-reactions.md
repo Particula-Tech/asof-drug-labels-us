@@ -16,7 +16,7 @@ This is more commonly observed in elderly patients, particularly those with hype
 Nausea and vomiting are frequently associated with hypotensive episodes following the administration of spinal anesthesia.
 High doses, or inadvertent intravascular injection, may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, bradycardia, heart block, ventricular arrhythmias, and, possibly, cardiac arrest (see WARNINGS, PRECAUTIONS, and OVERDOSAGE sections).
 
-CNS: Respiratory paralysis or underventilation secondary to cephalad spread of the level of spinal anesthesia (see Respiratory System) and hypotension for the same reason (see Cardiovascular System) are the two most commonly encountered central nervous system-related adverse observations which demand immediate countermeasures.
+CNS: Respiratory paralysis or underventilation secondary to cephalad spread of the level of spinal anesthesia (see Respiratory System) and hypotension for the same reason (see Cardiovascular System) are the two most commonly encountered CNS-related adverse observations which demand immediate countermeasures.
 
 High doses or inadvertent intravascular injection may lead to high plasma levels and related CNS toxicity characterized by excitement and/or depression.
 Restlessness, anxiety, dizziness, tinnitus, blurred vision, or tremors may occur, possibly proceeding to convulsions.
