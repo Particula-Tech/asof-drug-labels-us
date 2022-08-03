@@ -14,7 +14,8 @@ Malignancies and Lymphoproliferative Disorders
 Inform patients that Janus kinase inhibitors may increase the risk for developing lymphomas and other malignancies including skin cancer [see Warnings and Precautions (5.3)].
 
 Instruct patients to inform their health care provider if they have ever had any type of cancer.
-Inform patients that periodic skin examinations should be performed while using OPZELURA [see Warnings and Precautions (5.3)].
+Inform patients that periodic skin examinations should be performed while using OPZELURA.
+Advise patients that exposure to sunlight, and UV light should be limited by wearing protective clothing and using a broad-spectrum sunscreen [see Warnings and Precautions (5.3)].
 
 Major Adverse Cardiovascular Events
 
@@ -26,16 +27,16 @@ Thrombosis
 Advise patients that events of DVT and PE have been reported in clinical studies with Janus kinase inhibitors used to treat inflammatory conditions.
 Instruct patients to tell their healthcare provider if they develop any signs or symptoms of a DVT or PE [see Warnings and Precautions (5.5)].
 
-Thrombocytopenia, Anemia and Neutropenia
+Thrombocytopenia, Anemia, and Neutropenia
 
 Advise patients of the risk of thrombocytopenia, anemia, and neutropenia with OPZELURA.
 Instruct patients to tell their healthcare provider if they develop any signs or symptoms of thrombocytopenia, anemia or neutropenia [see Warnings and Precautions (5.6)].
 
 Administration Instructions
 
-Advise patients or caregivers that OPZELURA is for topical use only [see Dosage and Administration (2)].
+Advise patients or caregivers that OPZELURA is for topical use only [see Dosage and Administration (2.1)].
 
-Advise patients to limit treatment to 60 grams per week.
+Advise patients to limit treatment to one 60 gram tube per week or one 100 gram tube per 2 weeks [see Dosage and Administration (2.1)].
 
 Pregnancy
 
@@ -43,11 +44,11 @@ Inform patients to report their pregnancy to Incyte Corporation at 1-855-463-346
 
 Lactation
 
-Advise a patient not to breastfeed during treatment with OPZELURA and for four weeks after the last dose [see Use in Specific Populations (8.2)].
+Advise a patient not to breastfeed during treatment with OPZELURA and for about four weeks after the last dose [see Use in Specific Populations (8.2)].
 
 Manufactured for: Incyte Corporation 1801 Augustine Cut-off Wilmington, DE 19803
 
 OPZELURA is a trademark of Incyte.
 All rights reserved.
-U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 9079912; 9974790; 10639310; 10610530; 10758543; 10869870 © 2022 Incyte Corporation.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 9079912; 9974790; 10639310; 10610530; 10758543; 10869870; 11219624 © 2022 Incyte Corporation.
 All rights reserved.

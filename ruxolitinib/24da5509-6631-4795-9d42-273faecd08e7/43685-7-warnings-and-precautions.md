@@ -23,7 +23,7 @@ Tuberculosis
 
 No cases of active tuberculosis (TB) were reported in clinical trials with OPZELURA.
 Cases of active TB were reported in clinical trials of oral Janus kinase inhibitors used to treat inflammatory conditions.
-Consider evaluating patients for latent and active TB infection prior administration of OPZELURA.
+Consider evaluating patients for latent and active TB infection prior to administration of OPZELURA.
 
 During OPZELURA use, monitor patients for the development of signs and symptoms of TB.
 
@@ -43,40 +43,53 @@ OPZELURA initiation is not recommended in patients with active hepatitis B or he
 
 ## 5.2 Mortality
 
-A higher rate of all-cause mortality, including sudden cardiovascular death was observed in clinical trials of oral Janus kinase inhibitors used to treat inflammatory conditions.
+In a large, randomized, postmarketing safety study of an oral JAK inhibitor in rheumatoid arthritis (RA) patients 50 years of age and older with at least one cardiovascular risk factor, a higher rate of all-cause mortality, including sudden cardiovascular death, was observed in patients treated with the JAK inhibitor compared with TNF blockers.
+
 Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with OPZELURA.
 
 ## 5.3 Malignancy and Lymphoproliferative Disorders
 
-Malignancies, including lymphomas, were observed in clinical trials of oral Janus kinase inhibitors used to treat inflammatory conditions.
+Malignancies, including lymphomas, were observed in clinical trials of oral JAK inhibitors used to treat inflammatory conditions.
 Patients who are current or past smokers are at additional increased risk.
 
-Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with OPZELURA, particularly in patients with a known malignancy (other than successfully treated non-melanoma skin cancers), patients who develop a malignancy, and patients who are current or past smokers.
+Malignancies, including lymphomas, have occurred in patients receiving JAK inhibitors used to treat inflammatory conditions.
+In a large, randomized, postmarketing safety study of an oral JAK inhibitor in RA patients, a higher rate of malignancies (excluding non-melanoma skin cancer) was observed in patients treated with the JAK inhibitor compared to those treated with TNF blockers.
+A higher rate of lymphomas was observed in patients treated with the JAK inhibitor compared to those treated with TNF blockers.
+A higher rate of lung cancers was observed in current or past smokers treated with the JAK inhibitor compared to those treated with TNF blockers.
+In this study, current or past smokers had an additional increased risk of overall malignancies.
+
+Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with OPZELURA, particularly in patients with a known malignancy (other than successfully treated non-melanoma skin cancers), patients who develop a malignancy when on treatment, and patients who are current or past smokers.
 
 Non-melanoma Skin Cancers
 
 Non-melanoma skin cancers including basal cell and squamous cell carcinoma have occurred in patients treated with OPZELURA.
 Perform periodic skin examinations during OPZELURA treatment and following treatment as appropriate.
+Exposure to sunlight and UV light should be limited by wearing protective clothing and using broad-spectrum sunscreen.
 
 ## 5.4 Major Adverse Cardiovascular Events (MACE)
 
-Major adverse cardiovascular events (MACE) defined as cardiovascular death, non-fatal myocardial infarction (MI), and non-fatal stroke were observed in clinical trials of Janus kinase inhibitors used to treat inflammatory conditions.
+In a large, randomized, postmarketing safety study of an oral JAK inhibitor in RA patients 50 years of age and older with at least one cardiovascular risk factor, a higher rate of major adverse cardiovascular events (MACE) defined as cardiovascular death, non-fatal myocardial infarction (MI), and non-fatal stroke was observed with the JAK inhibitor compared to those treated with TNF blockers.
+Patients who are current or past smokers are at additional increased risk.
 
-Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with OPZELURA particularly in patients who are current or past smokers and patients with other cardiovascular risk factors.
-Patients should be informed about the symptoms of serious cardiovascular events and the steps to take if these symptoms occur.
+Consider the benefits and risks for the individual patient prior to initiating or continuing therapy with OPZELURA, particularly in patients who are current or past smokers and patients with other cardiovascular risk factors.
+Patients should be informed about the symptoms of serious cardiovascular events and the steps to take if they occur.
+Discontinue OPZELURA in patients that have experienced a myocardial infarction or stroke.
 
 ## 5.5 Thrombosis
 
-Thrombosis, including deep venous thrombosis (DVT), pulmonary embolism (PE) and arterial thrombosis, has been observed at an increased incidence in patients treated with oral Janus kinase inhibitors for inflammatory conditions compared to patients treated with placebo.
+Thromboembolic events were observed in clinical trials with OPZELURA.
+
+Thrombosis, including deep vein thrombosis (DVT), pulmonary embolism (PE), and arterial thrombosis have been reported in patients receiving JAK inhibitors used to treat inflammatory conditions.
 Many of these adverse reactions were serious and some resulted in death.
 
-Thromboembolic events were observed in clinical trials with OPZELURA.
-There was no clear relationship between platelet count elevations and thrombotic events.
-OPZELURA should be used with caution in patients who may be at increased risk of thrombosis.
+In a large, randomized, postmarketing safety study of an oral JAK inhibitor in RA patients 50 years of age and older with at least one cardiovascular risk factor, higher rates of overall thrombosis, DVT, and PE were observed compared to those treated with TNF blockers.
 
-## 5.6 Thrombocytopenia, Anemia and Neutropenia
+Avoid OPZELURA in patients who may be at increased risk of thrombosis.
+If symptoms of thrombosis occur, discontinue OPZELURA and evaluate and treat patients appropriately.
 
-Thrombocytopenia, anemia and neutropenia were reported in the clinical trials with OPZELURA.
+## 5.6 Thrombocytopenia, Anemia, and Neutropenia
+
+Thrombocytopenia, anemia, and neutropenia were reported in the clinical trials with OPZELURA.
 Consider the benefits and risks for individual patients who have a known history of these events prior to initiating therapy with OPZELURA.
 Perform CBC monitoring as clinically indicated.
 If signs and/or symptoms of clinically significant thrombocytopenia, anemia, and neutropenia occur, patients should discontinue OPZELURA.

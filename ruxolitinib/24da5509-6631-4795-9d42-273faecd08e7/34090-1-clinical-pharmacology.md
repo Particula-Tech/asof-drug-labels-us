@@ -70,5 +70,5 @@ In Vitro Studies
 
 Cytochrome P450 (CYP) Enzymes: Ruxolitinib is not expected to inhibit CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6 and CYP3A4 or induce CYP1A2, 2B6 and 3A4 following topical application.
 
-Transporter Systems: Ruxolitinib is not expected to inhibit P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1 or OAT3 transporter systems following topical application.
+Transporter Systems: Ruxolitinib is not expected to inhibit P-gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1, or OAT3 transporter systems following topical application.
 Ruxolitinib is not a substrate for the P-gp transporter.

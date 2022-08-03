@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There will be a pregnancy registry that monitors pregnancy outcomes in pregnant persons exposed to OPZELURA during pregnancy.
+There is a pregnancy registry that monitors pregnancy outcomes in pregnant persons exposed to OPZELURA during pregnancy.
 Pregnant persons exposed to OPZELURA and healthcare providers should report OPZELURA exposure by calling 1-855-463-3463.
 
 Risk Summary
@@ -20,10 +20,10 @@ Data
 
 Animal Data
 
-Ruxolitinib was administered orally to pregnant rats or rabbits during the period of organogenesis, at doses of 15, 30 or 60 mg/kg/day in rats and 10, 30 or 60 mg/kg/day in rabbits.
+Ruxolitinib was administered orally to pregnant rats or rabbits during the period of organogenesis, at doses of 15, 30, or 60 mg/kg/day in rats and 10, 30, or 60 mg/kg/day in rabbits.
 There were no treatment-related malformations at any dose.
 A decrease in fetal weight of approximately 9% was noted in rats at the highest and maternally toxic dose of 60 mg/kg/day.
-This dose resulted in systemic exposure approximately 22 times the clinical systemic exposure at the maximum recommended human dose (MRHD); the clinical systemic exposure from ruxolitinib cream, 1.5% applied twice daily to 25-40% body surface area is used for calculation of multiples of human exposure).
+This dose resulted in systemic exposure approximately 22 times the clinical systemic exposure at the maximum recommended human dose (MRHD; the clinical systemic exposure from ruxolitinib cream, 1.5% applied twice daily to 25-40% atopic dermatitis-affected body surface area is used for calculation of multiples of human exposure).
 In rabbits, lower fetal weights of approximately 8% and increased late resorptions were noted at the highest and maternally toxic dose of 60 mg/kg/day.
 This dose resulted in systemic exposure approximately 70% the MRHD clinical systemic exposure.
 
@@ -37,7 +37,7 @@ Risk Summary
 There are no data on the presence of ruxolitinib in human milk, the effects on the breastfed child, or the effects on milk production.
 Ruxolitinib was present in the milk of lactating rats (see Data).
 When a drug is present in animal milk, it is likely that the drug will be present in human milk.
-Because of the serious adverse findings in adults, including risks of serious infections, thrombocytopenia, anemia, and neutropenia, advise women not to breastfeed during treatment with OPZELURA and for approximately four weeks after the last dose (approximately 5 elimination half-lives).
+Because of the serious adverse findings in adults, including risks of serious infections, thrombocytopenia, anemia, and neutropenia, advise women not to breastfeed during treatment with OPZELURA and for approximately four weeks after the last dose (approximately 5-6 elimination half-lives).
 
 Data
 
@@ -47,11 +47,21 @@ Additional analysis showed the presence of ruxolitinib and several of its metabo
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of OPZELURA for the topical treatment of atopic dermatitis have been established in pediatric patients aged 12 to 17 years of age with mild-to-moderate atopic dermatitis.
-Use of OPZELURA in this age group is supported by evidence from Trials 1 and 2 which included 92 subjects aged 12 to 17 years [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
+Atopic Dermatitis
+
+The safety and effectiveness of OPZELURA for the topical treatment of mild-to-moderate atopic dermatitis have been established in pediatric patients aged 12 to 17 years of age.
+Use of OPZELURA in this age group is supported by evidence from TRuE-AD1 and TRuE-AD2, which included 92 pediatric subjects aged 12 to 17 years with mild-to-moderate atopic dermatitis [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 No clinically meaningful differences in safety or effectiveness were observed between adult and pediatric subjects.
 
-The safety and effectiveness of OPZELURA in pediatric patients younger than 12 years of age have not been established.
+The safety and effectiveness of OPZELURA in pediatric patients younger than 12 years of age with atopic dermatitis have not been established.
+
+Nonsegmental Vitiligo
+
+The safety and effectiveness of OPZELURA for the topical treatment of nonsegmental vitiligo have been established in pediatric patients aged 12 to 17 years of age.
+Use of OPZELURA in this age group is supported by evidence from TRuE-V1 and TRuE-V2, which included 55 pediatric subjects aged 12 to 17 years with nonsegmental vitiligo [see Clinical Studies (14.2)].
+No clinically meaningful differences in safety or effectiveness were observed between adult and pediatric subjects.
+
+The safety and effectiveness of OPZELURA in pediatric patients younger than 12 years of age with nonsegmental vitiligo have not been established.
 
 Juvenile Animal Toxicity Data
 
@@ -63,5 +73,8 @@ These findings were observed at systemic exposures that are at least 40% the MRH
 
 ## 8.5 Geriatric Use
 
-Of the 1249 total subjects with atopic dermatitis in clinical trials with OPZELURA, 115 were 65 years of age and older [see Clinical Studies (14)].
-No clinically meaningful differences in safety or effectiveness were observed between patients less than 65 years and patients 65 years and older.
+Of the 1249 total subjects with atopic dermatitis in clinical trials with OPZELURA, 115 (9%) were 65 years of age and older [see Clinical Studies (14.1)].
+No clinically meaningful differences in safety or effectiveness were observed between subjects less than 65 years and subjects 65 years and older.
+
+Of the 831 total subjects enrolled with nonsegmental vitiligo in clinical trials with OPZELURA, 65 (8%) were 65 years of age and older [see Clinical Studies (14.2)].
+Clinical trials of OPZELURA in subjects with nonsegmental vitiligo did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
