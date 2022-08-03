@@ -10,7 +10,7 @@ The recommended dose of XIPERE™ is 4 mg (0.1 mL of the 40 mg/mL injectable sus
 | Suprachoroidal injection is performed under aseptic conditions. The components for administration include: A.One single-dose glass vial of triamcinolone acetonide injectable suspension 40 mg/mLB.One SCS Microinjector® syringe with vial adapter attachedC.One 30-G x 900-µm needle D.One 30-G x 1100-µm needle |  |
 | --- | --- |
 
-| Step 1 Figure A | Remove the tray from the carton (see Figure A). The tray consists of two compartments: •An open non-sterile compartment that holds the vial•A sealed compartment that contains a sterile tray |
+| Step 1 Figure A | Remove the tray from the carton (see Figure A). The tray consists of two compartments: |
 | --- | --- |
 
 | Step 2 Figure B | Examine the tray for damage (see Figure B). Ensure that the sealed compartment cover is intact and that there is no evidence of damage. If damage is present, do not use. |
