@@ -36,7 +36,7 @@ The mean fasting gastrin level increased in a dose-related manner.
 The increase in serum gastrin concentrations reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.10)].
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)].
 
 Enterochromaffin-like (ECL) Cell Effects
 
@@ -131,16 +131,16 @@ See Table 7.
 
 Table 7: Summary of Esomeprazole Pharmacokinetic Parameters Following Once Daily Dosing of Esomeprazole Magnesium for 5 Days in 1 Year to 11 Year Old Patients with GERD
 
-| Parameter | Esomeprazole Magnesium |  |  |  |
-| --- | --- | --- | --- | --- |
-| 1 Year to 5 Years | 6 Years to 11 Years |  |  |  |
-| 10 mg once daily (N=8) | 10 mg once daily (N=7) | 20 mg once daily (N=6) |  |  |
-| AUC (micromol∙h/L)1 | 4.83 | 3.70 | 6.28 |  |
-| Cmax (micromol/L)1 | 2.98 | 1.77 | 3.73 |  |
-| tmax (h)2 | 1.44 | 1.79 | 1.75 |  |
-| t1/2λz (h)1 | 0.74 | 0.88 | 0.73 |  |
-| Cl/F (L/h)1 | 5.99 | 7.84 | 9.22 |  |
-| 1. Geometric mean2. Arithmetic mean |  |  |  |  |
+| Parameter | Esomeprazole Magnesium |  |  |
+| --- | --- | --- | --- |
+| 1 Year to 5 Years | 6 Years to 11 Years |  |  |
+| 10 mg once daily (N=8) | 10 mg once daily (N=7) | 20 mg once daily (N=6) |  |
+| AUC (micromol∙h/L)1 | 4.83 | 3.70 | 6.28 |
+| Cmax (micromol/L)1 | 2.98 | 1.77 | 3.73 |
+| tmax (h)2 | 1.44 | 1.79 | 1.75 |
+| t1/2λz (h)1 | 0.74 | 0.88 | 0.73 |
+| Cl/F (L/h)1 | 5.99 | 7.84 | 9.22 |
+| 1. Geometric mean2. Arithmetic mean |  |  |  |
 
 12 Years to 17 Years of Age
 
@@ -210,7 +210,7 @@ Clopidogrel
 
 In a crossover study, healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day as the maintenance dosage for 28 days) alone and with esomeprazole (40 mg orally once daily at the same time as clopidogrel) for 29 days.
 Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period when clopidogrel and esomeprazole were administered together.
-Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.7) and Drug Interactions (7)].
 
 Mycophenolate Mofetil
 

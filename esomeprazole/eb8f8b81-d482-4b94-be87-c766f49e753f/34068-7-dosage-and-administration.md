@@ -11,11 +11,15 @@ Table 1: Recommended Dosage of Esomeprazole Magnesium Delayed-release Capsules i
 
 | Adult Indication | Recommended Dosage of Esomeprazole Magnesium Delayed-release Capsules | Treatment Duration |
 | --- | --- | --- |
-| Healing of EE | 20 mg or 40 mg1 once daily | 4 to 8 weeks2Controlled studies do not extend beyond 6 months4 weeks; if symptoms do not resolve completely, consider an additional 4 weeksControlled studies do not extend beyond 6 months |
+| Healing of EE | 20 mg or 40 mg1 once daily1 | 4 to 8 weeks2 |
+| Controlled studies do not extend beyond 6 months |  |  |
 | Maintenance of Healing of EE | 20 mg once daily |  |
-| Treatment of Symptomatic GERDRisk Reduction of NSAID-Associated Gastric Ulcer | 20 mg once daily20 mg or 40 mg1 once daily |  |
-| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | Esomeprazole Magnesium Delayed-release Capsules 40 mg once daily1Amoxicillin 1000 mg twice daily3Clarithromycin 500 mg twice daily3 Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs. | 10 days10 days 10 days |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
+| Treatment of Symptomatic GERD | 20 mg once daily | 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks |
+| Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg1 once daily | Controlled studies do not extend beyond 6 months |
+| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | Esomeprazole Magnesium Delayed-release Capsules 40 mg once daily1 | 10 days |
+| Amoxicillin 1000 mg twice daily3 | 10 days |  |
+| Clarithromycin 500 mg twice daily3 | 10 days |  |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs.Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
 | 1. A maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)].2. Most patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be required to achieve healing [see Clinical Studies (14.1)].3. Refer to the amoxicillin and clarithromycin prescribing information for dosage adjustments in elderly and renally-impaired patients.4. A starting dosage of 20 mg twice daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. |  |  |
 
 ## 2.2 Recommended Dosage in Pediatric Patients by Indication

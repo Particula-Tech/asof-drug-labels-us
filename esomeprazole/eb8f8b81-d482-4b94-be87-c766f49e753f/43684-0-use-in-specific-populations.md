@@ -6,12 +6,12 @@ Risk Summary
 
 There are no adequate and well-controlled studies with esomeprazole in pregnant women.
 Esomeprazole is the S-isomer of omeprazole.
-Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use [see Data].
+Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use (see Data).
 Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
 Changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg.
-When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age [see Data].
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age (see Data).
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.

@@ -5,10 +5,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - Bone Fracture [see Warnings and Precautions (5.4)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
-- Hypomagnesemia [see Warnings and Precautions (5.8)]
-- Fundic Gland Polyps [see Warnings and Precautions (5.12)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.8)]
+- Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.9)]
+- Fundic Gland Polyps [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -108,7 +109,7 @@ Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
 
 Infections and Infestations: GI candidiasis; Clostridium difficile-associated diarrhea;
 
-Metabolism and nutritional disorders: hypomagnesemia, with or without hypocalcemia and/or hypokalemia;
+Metabolism and nutritional disorders: hypomagnesemia (may lead to hypocalcemia and/or hypokalemia) [see Warningsand Precautions (5.9)];
 
 Musculoskeletal and Connective Tissue: muscular weakness, myalgia, bone fracture;
 
@@ -122,7 +123,7 @@ Reproductive System and Breast: gynecomastia;
 
 Respiratory, Thoracic, and Mediastinal: bronchospasm;
 
-Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus.
+Skin and Subcutaneous Tissue: alopecia, erythema multiforme, hyperhidrosis, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP), cutaneous lupus erythematosus.
 
 Adverse reactions associated with omeprazole may also be expected to occur with esomeprazole.
 See the full prescribing information for omeprazole for complete safety information.

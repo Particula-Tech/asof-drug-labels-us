@@ -14,21 +14,25 @@ Bone Fracture
 
 Advise the patient or caregiver to report any fractures, especially of the hip, wrist or spine, to the patient’s healthcare provider [see Warnings and Precautions (5.4)].
 
+Severe Cutaneous Adverse Reactions
+
+Advise the patients or caregiver to discontinue Esomeprazole Magnesium Delayed-release Capsules and immediately call the patient’s healthcare provider for at first appearance of a severe cutaneous adverse reactions or other sign of hypersensitivity signs or symptoms with Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)].
+
 Cutaneous and Systemic Lupus Erythematosus
 
-Advise the patient or caregiver to immediately call the patient’s healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.5)].
+Advise the patient or caregiver to immediately call the patient’s healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
 
 Cyanocobalamin (Vitamin B-12) Deficiency
 
-Advise the patient or caregiver to report any clinical symptoms that may be associated with cyanocobalamin deficiency to the patient’s healthcare provider if they have been receiving Esomeprazole Magnesium Delayed-release Capsules for longer than 3 years [see Warnings and Precautions (5.7)].
+Advise the patient or caregiver to report any clinical symptoms that may be associated with cyanocobalamin deficiency to the patient’s healthcare provider if they have been receiving Esomeprazole Magnesium Delayed-release Capsules for longer than 3 years [see Warnings and Precautions (5.8)].
 
-Hypomagnesemia
+Hypomagnesemia and Mineral Metabolism
 
-Advise the patient or caregiver to report any clinical symptoms that may be associated with hypomagnesemia to the patient’s healthcare provider, if they have been receiving Esomeprazole Magnesium Delayed-release Capsules for at least 3 months [see Warnings and Precautions (5.8)].
+Advise the patient or caregiver to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to the patient’s healthcare provider, if they have been receiving Esomeprazole Magnesium Delayed-release Capsules for at least 3 months [see Warnings and Precautions (5.9)].
 
 Drug Interactions
 
-Advise the patient or caregiver to report to their healthcare provider if starting treatment with rilpivirine-containing products, clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Contraindications (4), Warnings and Precautions (5.6, 5.9, 5.11)].
+Advise the patient or caregiver to report to their healthcare provider if starting treatment with rilpivirine-containing products, clopidogrel, St. John’s Wort or rifampin; or, if they take high-dose methotrexate [see Contraindications (4), Warnings and Precautions (5.7, 5.10, 5.12)].
 
 Administration
 
@@ -50,7 +54,7 @@ Mix the pellets with the applesauce.
 
 4.
 Administer the mixture immediately.
-Do not chew or crush the pellets
+Do not chew or crush the pellets.
 
 5.
 Discard any remaining mixture.
@@ -66,9 +70,9 @@ Philadelphia, PA 19136
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
 
-CIA77977F
+CIA77977G
 
 Rev.
-09/2021
+03/2022
 
 All brand names are the trademarks of their respective owners.
