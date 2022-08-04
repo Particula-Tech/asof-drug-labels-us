@@ -131,7 +131,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store valganciclovir tablets?
 
-- Store valganciclovir tablets at room temperature between 20° to 25°C (68° to 77°F).
+- Store valganciclovir tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 - Do not keep valganciclovir tablets that is out of date or that you no longer need.
 
 Keep valganciclovir tablets and all medicines out of the reach of children.
@@ -156,4 +156,4 @@ All brands listed are the trademarks of their respective owners and are not trad
 
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2022

@@ -3,7 +3,7 @@
 ## 2.1 General Dosing Information
 
 - Adult patients should use valganciclovir tablets, not valganciclovir for oral solution.
-- Valganciclovir for oral solution and tablets should be taken with food [see Clinical Pharmacology (12.3)].
+- Valganciclovir tablets should be taken with food [see Clinical Pharmacology (12.3)].
 
 ## 2.2 Recommended Dosage in Adult Patients with Normal Renal Function
 
@@ -83,4 +83,4 @@ Tablets should not be broken or crushed.
 Because valganciclovir is considered a potential teratogen and carcinogen in humans, caution should be observed in handling broken tablets [see Warnings and Precautions (5.4, 5.5)].
 Avoid direct contact with broken or crushed tablets with skin or mucous membranes.
 If such contact occurs, wash thoroughly with soap and water, and rinse eyes thoroughly with plain water.
-Handle and dispose valganciclovir tablets according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity)2.
+Handle and dispose valganciclovir tablets according to guidelines for antineoplastic drugs because ganciclovir shares some of the properties of antitumor agents (i.e., carcinogenicity and mutagenicity).2

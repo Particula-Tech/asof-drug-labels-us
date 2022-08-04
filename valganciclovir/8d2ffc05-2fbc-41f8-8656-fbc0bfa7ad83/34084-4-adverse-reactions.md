@@ -30,18 +30,20 @@ Adverse reactions and laboratory abnormalities are available for 370 patients wh
 Approximately 252 (68%) of these patients received valganciclovir tablets for more than nine months (maximum duration was 36 months).
 Table 3 and Table 4 show pooled selected adverse reactions and abnormal laboratory values from these patients.
 
-| Table 3 Pooled Selected Adverse Reactions Reported in greater than or equal to 5% of Patients who Received Valganciclovir Tablets Maintenance Therapy for CMV Retinitis |  |
-| --- | --- |
+Table 3 Pooled Selected Adverse Reactions Reported in greater than or equal to 5% of Patients who Received Valganciclovir Tablets Maintenance Therapy for CMV Retinitis
+
 |  | Patients with CMV Retinitis |
+| --- | --- |
 | Adverse Reactions according to Body System | Valganciclovir Tablets (N=370) % |
 | Gastrointestinal system Diarrhea Nausea Vomiting Abdominal pain | 41 30 21 15 |
 | General disorders and administrative site conditions Pyrexia | 31 |
 | Nervous system disorders Headache Insomnia Neuropathy peripheral Paresthesia | 22 16 9 8 |
 | Eye disorders Retinal detachment | 15 |
 
-| Table 4 Pooled Selected Laboratory Abnormalities Reported in Patients Who Received Valganciclovir Tablets Maintenance Therapy for the Treatment of CMV Retinitis |  |
-| --- | --- |
+Table 4 Pooled Selected Laboratory Abnormalities Reported in Patients Who Received Valganciclovir Tablets Maintenance Therapy for the Treatment of CMV Retinitis
+
 |  | Patients with CMV Retinitis |
+| --- | --- |
 | Laboratory Abnormalities | Valganciclovir Tablets (N=370) % |
 | Neutropenia: ANC/µL < 500 500 to < 750 750 to < 1000 | 19 17 17 |
 | Anemia: Hemoglobin g/dL < 6.5 6.5 to < 8.0 8.0 to < 9.5 | 7 13 16 |
@@ -51,9 +53,10 @@ Table 3 and Table 4 show pooled selected adverse reactions and abnormal laborato
 Prevention of CMV Disease in Solid Organ Transplant Patients: Table 5 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from a clinical trial (up to 28 days after study treatment) where heart, kidney, kidney-pancreas and liver transplant patients received valganciclovir tablets (N=244) or oral ganciclovir (N=126) until Day 100 post-transplant.
 The majority of the adverse reactions were of mild or moderate intensity.
 
-| Table 5 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients From a Study of Solid Organ Transplant Patients |  |  |
-| --- | --- | --- |
+Table 5 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients From a Study of Solid Organ Transplant Patients
+
 | Adverse Reactions | Valganciclovir Tablets (N=244) % | Oral Ganciclovir (N=126) % |
+| --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 30 | 29 |
 | Nausea | 23 | 23 |
@@ -68,9 +71,10 @@ The majority of the adverse reactions were of mild or moderate intensity.
 Table 6 shows selected adverse reactions regardless of severity with an incidence of greater than or equal to 5% from another clinical trial where kidney transplant patients received either valganciclovir once daily starting within 10 days post-transplant until Day 100 post-transplant followed by 100 days of placebo or valganciclovir once daily until Day 200 post-transplant.
 The overall safety profile of valganciclovir did not change with the extension of prophylaxis until Day 200 post-transplant in high risk kidney transplant patients.
 
-| Table 6 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients from a Study of Kidney Transplant Patients |  |  |
-| --- | --- | --- |
+Table 6 Percentage of Selected Grades 1 to 4 Adverse Reactions Reported in greater than or equal to 5% of Adult Patients from a Study of Kidney Transplant Patients
+
 | Adverse Reactions | Valganciclovir Tablets Day 100 Post-transplant (N=164) % | Valganciclovir Tablets Day 200 Post-transplant (N=156) % |
+| --- | --- | --- |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 26 | 31 |
 | Nausea | 11 | 11 |
@@ -84,18 +88,21 @@ The overall safety profile of valganciclovir did not change with the extension o
 
 Table 7 and Table 8 show selected laboratory abnormalities reported with valganciclovir tablets in two trials in solid organ transplant patients.
 
-| Table 7 Selected Laboratory Abnormalities Reported in a Study of Adult Solid Organ Transplant Patients* |  |  |
-| --- | --- | --- |
+Table 7 Selected Laboratory Abnormalities Reported in a Study of Adult Solid Organ Transplant Patients*
+
 | Laboratory Abnormalities | Valganciclovir Tablets (N=244) % | Ganciclovir Capsules (N=126) % |
+| --- | --- | --- |
 | Neutropenia: ANC/µL < 500 500 to < 750 750 to < 1000 | 5 3 5 | 3 2 2 |
 | Anemia: Hemoglobin g/dL < 6.5 6.5 to < 8.0 8.0 to < 9.5 | 1 5 31 | 2 7 25 |
 | Thrombocytopenia: Platelets/µL < 25000 25000 to < 50000 50000 to < 100000 | 0 1 18 | 2 3 21 |
 | Serum Creatinine: mg/dL > 2.5 > 1.5 to 2.5 | 14 45 | 21 47 |
-| *Laboratory abnormalities are those reported by investigators. |  |  |
 
-| Table 8 Selected Laboratory Abnormalities Reported in a Study of Adult Kidney Transplant Patients* |  |  |
-| --- | --- | --- |
+*Laboratory abnormalities are those reported by investigators.
+
+Table 8 Selected Laboratory Abnormalities Reported in a Study of Adult Kidney Transplant Patients*
+
 | Laboratory Abnormalities | Valganciclovir Tablets Day 100 Post-transplant (N=164) % | Valganciclovir Tablets Day 200 Post-transplant (N=156) % |
+| --- | --- | --- |
 | Neutropenia: ANC/µL |  |  |
 | < 500 | 9 | 10 |
 | 500 to < 750 | 6 | 6 |
@@ -109,7 +116,8 @@ Table 7 and Table 8 show selected laboratory abnormalities reported with valganc
 | 25000 to < 50000 | 1 | 0 |
 | 50000 to < 100000 | 7 | 3 |
 | Serum Creatinine: mg/dL > 2.5 > 1.5 to 2.5 | 17 50 | 14 48 |
-| *Laboratory abnormalities are those reported by investigators. |  |  |
+
+*Laboratory abnormalities are those reported by investigators.
 
 Other adverse drug reactions from valganciclovir hydrochloride in clinical trials in CMV retinitis and solid organ transplant patients
 

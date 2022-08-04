@@ -8,9 +8,10 @@ Therefore, these patients should be closely monitored for toxicity of ganciclovi
 
 Established and other potentially significant drug interactions conducted with ganciclovir are listed in Table 9.
 
-| Table 9 Established and Other Potentially Significant Drug Interactions with Ganciclovir |  |  |
-| --- | --- | --- |
+Table 9 Established and Other Potentially Significant Drug Interactions with Ganciclovir
+
 | Name of the Concomitant Drug | Change in the Concentration of Ganciclovir or Concomitant Drug | Clinical Comment |
+| --- | --- | --- |
 | Imipenem-cilastatin | Unknown | Coadministration with imipenem-cilastatin is not recommended because generalized seizures have been reported in patients who received ganciclovir and imipenem-cilastatin. |
 | Cyclosporine or amphotericin B | Unknown | Monitor renal function when valganciclovir hydrochloride is coadministered with cyclosporine or amphotericin B because of potential increase in serum creatinine [see Warnings and Precautions (5.2)]. |
 | Mycophenolate mofetil (MMF) | ↔ Ganciclovir (in patients with normal renal function) ↔ MMF (in patients with normal renal function) | Based on increased risk, patients should be monitored for hematological and renal toxicity. |
