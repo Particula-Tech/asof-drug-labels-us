@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 General Patient Counseling
 
-Azithromycin tablets and oral suspension can be taken with or without food.
+Azithromycin oral suspension can be taken with or without food.
 
 Patients should also be cautioned not to take aluminum- and magnesium-containing antacids and azithromycin simultaneously.
 
@@ -27,4 +27,4 @@ Zagreb, Croatia
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-L 4/2019
+M 7/2022

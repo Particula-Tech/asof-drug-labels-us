@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in labeling:
+
+- Hypersensitivity [see Warnings and Precautions (5.1)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
+- QT Prolongation [see Warnings and Precautions (5.4)]
+- Cardiovascular Death [see Warnings and Precautions (5.5)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
+- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -46,7 +56,7 @@ The majority of these complaints were mild in nature.
 
 Single and Multiple-dose regimens: The types of adverse reactions in pediatric patients were comparable to those seen in adults, with different incidence rates for the dosage regimens recommended in pediatric patients.
 
-Acute Otitis Media: For the recommended total dosage regimen of 30 mg/kg, the most frequent adverse reactions (≥ 1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea, and rash [see Dosage and Administration (2) and Clinical Studies (14.2)].
+Acute Otitis Media: For the recommended total dosage regimen of 30 mg/kg, the most frequent adverse reactions (≥1%) attributed to treatment were diarrhea, abdominal pain, vomiting, nausea, and rash [see Dosage and Administration (2) and Clinical Studies (14.2)].
 
 The incidence, based on dosing regimen, is described in the table below:
 
@@ -103,7 +113,7 @@ Adverse reactions reported with azithromycin during the postmarketing period in 
 Allergic: Arthralgia, edema, urticaria, and angioedema.
 
 Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
-There have been reports of QT prolongation and torsades de pointes.
+There have been reports of QT prolongation, torsades de pointes, and cardiovascular death.
 
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
 
@@ -135,10 +145,10 @@ In multiple-dose clinical trials involving more than 5000 patients, four patient
 
 ### Pediatric Patients:
 
-One, Three, and Five-Day Regimens
+One, Three, and Five Day Regimens
 
 Laboratory data collected from comparative clinical trials employing two 3 day regimens (30 mg/kg or 60 mg/kg in divided doses over 3 days), or two 5 day regimens (30 mg/kg or 60 mg/kg in divided doses over 5 days) were similar for regimens of azithromycin and all comparators combined, with most clinically significant laboratory abnormalities occurring at incidences of 1 to 5%.
 Laboratory data for patients receiving 30 mg/kg as a single dose were collected in one single center trial.
 In that trial, an absolute neutrophil count between 500 to 1500 cells/mm3 was observed in 10/64 patients receiving 30 mg/kg as a single dose, 9/62 patients receiving 30 mg/kg given over 3 days, and 8/63 comparator patients.
-No patient had an absolute neutrophil count < 500 cells/mm3.
+No patient had an absolute neutrophil count <500 cells/mm3.
 In multiple-dose clinical trials involving approximately 4700 pediatric patients, no patients discontinued therapy because of treatment-related laboratory abnormalities.

@@ -12,16 +12,16 @@ The principal pharmacokinetic/pharmacodynamic parameter best associated with cli
 Cardiac Electrophysiology
 
 QTc interval prolongation was studied in a randomized, placebo-controlled parallel trial in 116 healthy subjects who received either chloroquine (1000 mg) alone or in combination with oral azithromycin (500 mg, 1000 mg, and 1500 mg once daily).
-Co-administration of azithromycin increased the QTc interval in a dose- and concentration-dependent manner.
-In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the co-administration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
+Coadministration of azithromycin increased the QTc interval in a dose- and concentration-dependent manner.
+In comparison to chloroquine alone, the maximum mean (95% upper confidence bound) increases in QTcF were 5 (10) ms, 7 (12) ms and 9 (14) ms with the coadministration of 500 mg, 1000 mg and 1500 mg azithromycin, respectively.
 
 ## 12.3 Pharmacokinetics
 
-Following oral administration of a single 500 mg dose (two 250 mg tablets) to 36 fasted healthy male volunteers, the mean (SD) pharmacokinetic parameters were AUC0-72 = 4.3 (1.2) mcg·hr/mL; Cmax = 0.5 (0.2) mcg/mL; Tmax = 2.2 (0.9) hours.
+Following oral administration of a single 500 mg dose (two 250 mg tablets) to 36 fasted healthy male volunteers, the mean (SD) pharmacokinetic parameters were AUC0-72=4.3 (1.2) mcg·hr/mL; Cmax=0.5 (0.2) mcg/mL; Tmax=2.2 (0.9) hours.
 Two azithromycin 250 mg tablets are bioequivalent to a single 500 mg tablet.
 
 In a two-way crossover study, 12 adult healthy volunteers (6 males, 6 females) received 1500 mg of azithromycin administered in single daily doses over either 5 days (two 250 mg tablets on day 1, followed by one 250 mg tablet on days 2 to 5) or 3 days (500 mg per day for days 1 to 3).
-Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day regimen), the serum concentration-time profile of each subject was fit to a 3 compartment model and the AUC0-∞ for the fitted concentration profile was comparable between the 5-day and 3-day regimens.
+Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day regimen), the serum concentration-time profile of each subject was fit to a 3 compartment model and the AUC0-∞ for the fitted concentration profile was comparable between the 5 day and 3 day regimens.
 
 |  | 3 Day Regimen |  | 5 Day Regimen |  |
 | --- | --- | --- | --- | --- |
@@ -30,7 +30,7 @@ Due to limited serum samples on day 2 (3 day regimen) and days 2 to 4 (5 day reg
 | Serum AUC0-∞ (mcg·hr/mL) | 17.4 (6.2)* |  | 14.9 (3.1)* |  |
 | Serum T1/2 | 71.8 hr |  | 68.9 hr |  |
 
-*Total AUC for the entire 3-day and 5-day regimens.
+*Total AUC for the entire 3 day and 5 day regimens.
 
 Absorption
 
@@ -67,10 +67,10 @@ Specific Populations
 Patients with Renal Impairment
 
 Azithromycin pharmacokinetics was investigated in 42 adults (21 to 85 years of age) with varying degrees of renal impairment.
-Following the oral administration of a single 1 g dose of azithromycin (4 x 250 mg capsules), mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively, in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR > 80 mL/min).
-The mean Cmax and AUC0-120 increased 61% and 35%, respectively, in subjects with severe renal impairment (GFR < 10 mL/min) compared to subjects with normal renal function (GFR > 80 mL/min).
+Following the oral administration of a single 1.0 g dose of azithromycin (4 x 250 mg capsules), mean Cmax and AUC0-120 increased by 5.1% and 4.2%, respectively, in subjects with mild to moderate renal impairment (GFR 10 to 80 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
+The mean Cmax and AUC0-120 increased 61% and 35%, respectively, in subjects with severe renal impairment (GFR <10 mL/min) compared to subjects with normal renal function (GFR >80 mL/min).
 
-Patients with HepaticImpairment
+Patients with Hepatic Impairment
 
 The pharmacokinetics of azithromycin in subjects with hepatic impairment has not been established.
 
@@ -87,7 +87,7 @@ Dosage adjustment does not appear to be necessary for older patients with normal
 Pediatric Patients
 
 In two clinical studies, azithromycin for oral suspension was dosed at 10 mg/kg on day 1, followed by 5 mg/kg on days 2 through 5 in two groups of pediatric patients (aged 1 to 5 years and 5 to 15 years, respectively).
-The mean pharmacokinetic parameters on day 5 were Cmax = 0.216 mcg/mL, Tmax = 1.9 hr, and AUC0-24 = 1.822 mcg·hr/mL for the 1 to 5 year-old group and were Cmax = 0.383 mcg/mL, Tmax = 2.4 hr, and AUC0-24 = 3.109 mcg·hr/mL for the 5 to 15 year-old group.
+The mean pharmacokinetic parameters on day 5 were Cmax=0.216 mcg/mL, Tmax=1.9 hr, and AUC0-24=1.822 mcg·hr/mL for the 1 to 5 year-old group and were Cmax=0.383 mcg/mL, Tmax=2.4 hr, and AUC0-24=3.109 mcg·hr/mL for the 5 to 15 year-old group.
 
 In another study, 33 pediatric patients received doses of 12 mg/kg/day (maximum daily dose 500 mg) for 5 days, of whom 31 patients were evaluated for azithromycin pharmacokinetics following a low fat breakfast.
 In this study, azithromycin concentrations were determined over a 24 hr period following the last daily dose.
@@ -106,20 +106,20 @@ Single dose pharmacokinetics of azithromycin in pediatric patients given doses o
 
 Drug Interaction Studies
 
-Drug interaction studies were performed with azithromycin and other drugs likely to be co-administered.
-The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
+Drug interaction studies were performed with azithromycin and other drugs likely to be coadministered.
+The effects of coadministration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
 
-Co-administration of azithromycin at therapeutic doses had a modest effect on the pharmacokinetics of the drugs listed in Table 1.
-No dosage adjustment of drugs listed in Table 1 is recommended when co-administered with azithromycin.
+Coadministration of azithromycin at therapeutic doses had a modest effect on the pharmacokinetics of the drugs listed in Table 1.
+No dosage adjustment of drugs listed in Table 1 is recommended when coadministered with azithromycin.
 
-Co-administration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
+Coadministration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 Nelfinavir significantly increased the Cmax and AUC of azithromycin.
 No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2 [see Drug Interactions (7.3)].
 
 Table 1.
-Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin
+Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Azithromycin
 
-| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
+| Coadministered Drug | Dose of Coadministered Drug | Dose of Azithromycin | n | Ratio (with/without azithromycin) of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
 | --- | --- | --- | --- | --- | --- |
 | Mean Cmax | Mean AUC |  |  |  |  |
 | Atorvastatin | 10 mg/day for 8 days | 500 mg/day orally on days 6 to 8 | 12 | 0.83(0.63 to 1.08) | 1.01(0.81 to 1.25) |
@@ -128,7 +128,7 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 | Didanosine | 200 mg orally twice a day for 21 days | 1200 mg/day orally on days 8 to 21 | 6 | 1.44(0.85 to 2.43) | 1.14(0.83 to 1.57) |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.04* | 0.95* |
 | Fluconazole | 200 mg orally single dose | 1200 mg orally single dose | 18 | 1.04(0.98 to 1.11) | 1.01(0.97 to 1.05) |
-| Indinavir | 800 mg three times a day for 5 days | 1200 mg orally on day 5 | 18 | 0.96(0.86 to 1.08) | 0.90(0.81 to 1) |
+| Indinavir | 800 mg three times a day for 5 days | 1200 mg orally on day 5 | 18 | 0.96(0.86 to 1.08) | 0.90(0.81 to 1.00) |
 | Midazolam | 15 mg orally on day 3 | 500 mg/day orally for 3 days | 12 | 1.27(0.89 to 1.81) | 1.26(1.01 to 1.56) |
 | Nelfinavir | 750 mg three times a day for 11 days | 1200 mg orally on day 9 | 14 | 0.90(0.81 to 1.01) | 0.85(0.78 to 0.93) |
 | Sildenafil | 100 mg on days 1 and 4 | 500 mg/day orally for 3 days | 12 | 1.16(0.86 to 1.57) | 0.92(0.75 to 1.12) |
@@ -142,9 +142,10 @@ Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the P
 * -90% Confidence interval not reported
 
 Table 2.
-Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs [see Drug Interactions (7)].
+Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Coadministered Drugs.
+[see Drug Interactions (7)]
 
-| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
+| Coadministered Drug | Dose of Coadministered Drug | Dose of Azithromycin | n | Ratio (with/without coadministered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
 | --- | --- | --- | --- | --- | --- |
 | Mean Cmax | Mean AUC |  |  |  |  |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22(1.04 to 1.42) | 0.92* |

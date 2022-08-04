@@ -8,7 +8,7 @@
 | --- | --- |
 | Community-acquired pneumonia Pharyngitis/tonsillitis (second-line therapy) Skin/skin structure (uncomplicated) | 500 mg as a single dose on Day 1, followed by 250 mg once daily on Days 2 through 5 |
 | Acute bacterial exacerbations of chronic obstructive pulmonary disease | 500 mg once daily for 3 daysOR 500 mg as a single dose on Day 1, followed by 250 mg once daily on Days 2 through 5 |
-| Acute bacterial sinusitis | 500 mg-once daily for 3 days |
+| Acute bacterial sinusitis | 500 mg once daily for 3 days |
 | Genital ulcer disease (chancroid) | One single 1 gram dose |
 | Non-gonococcal urethritis and cervicitis | One single 1 gram dose |
 | Gonococcal urethritis and cervicitis | One single 2 gram dose |
@@ -50,10 +50,10 @@ Azithromycin for oral suspension can be taken with or without food.
 | Kg |  | Days 1 to 3 | Days 1 to 3 |  |  |
 | 5 |  | 2.5 mL; (½ tsp) |  | 7.5 mL | 150 mg |
 | 10 |  | 5 mL; (1 tsp) |  | 15 mL | 300 mg |
-| 20 |  |  | 5 mL(1 tsp) | 15 mL | 600 mg |
-| 30 |  |  | 7.5 mL(1½ tsp) | 22.5 mL | 900 mg |
-| 40 |  |  | 10 mL(2 tsp) | 30 mL | 1200 mg |
-| 50 and above |  |  | 12.5 mL(2½ tsp) | 37.5 mL | 1500 mg |
+| 20 |  |  | 5 mL;(1 tsp) | 15 mL | 600 mg |
+| 30 |  |  | 7.5 mL;(1½ tsp) | 22.5 mL | 900 mg |
+| 40 |  |  | 10 mL;(2 tsp) | 30 mL | 1200 mg |
+| 50 and above |  |  | 12.5 mL;(2½ tsp) | 37.5 mL | 1500 mg |
 
 *Effectiveness of the 5 day or 1 day regimen in pediatric patients with acute bacterial sinusitis has not been established.
 

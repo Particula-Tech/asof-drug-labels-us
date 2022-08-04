@@ -10,7 +10,7 @@ Decreased viability and delayed development were observed in the offspring of pr
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -28,7 +28,7 @@ In rabbits administered azithromycin at oral doses of 10, 20, and 40 mg/kg/day d
 In a pre- and postnatal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day.
 Maternal toxicity (reduced food consumption and body weight gain; increased stress at parturition) was observed at the higher dose.
 Effects in the offspring were noted at 200 mg/kg/day during the postnatal development period (decreased viability, delayed developmental landmarks).
-These effects were not observed in a pre-and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
+These effects were not observed in a pre- and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
 
 ## 8.2 Lactation
 

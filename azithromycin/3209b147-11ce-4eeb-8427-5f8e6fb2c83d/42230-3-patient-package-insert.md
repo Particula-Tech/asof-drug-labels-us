@@ -1,8 +1,6 @@
-# Patient Information
+# PATIENT INFORMATION
 
-Azithromycin (ay zith″ roe mye′ sin)
-
-For Oral Suspension
+Azithromycin (ay zith″ roe mye′ sin) For Oral Suspension
 
 Read this Patient Information leaflet before you start taking azithromycin for oral suspension and each time you get a refill.
 There may be new information.
@@ -127,8 +125,8 @@ Skin rash may be a sign of a more serious reaction to azithromycin for oral susp
 Stop taking azithromycin for oral suspension and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
 These can be signs of a serious reaction to azithromycin for oral suspension (a liver problem).
 
-- Serious heart rhythm changes (QT prolongation and torsades de pointes).
-  Tell your healthcare provider right away if you have a change in your heartbeat (a fast or irregular heartbeat), or if you feel faint and dizzy.
+- Serious heart rhythm changes that can be life-threatening, including heart stopping (cardiac arrest), QT prolongation, torsades de pointes, feeling that your heart is pounding or racing (palpitations), chest discomfort, or irregular heartbeat.
+  Tell your healthcare provider right away if you or your child feel a fast or irregular heartbeat, get dizzy or faint.
   Azithromycin for oral suspension may cause a rare heart problem known as prolongation of the QT interval.
   This condition can cause an abnormal heartbeat and can be very dangerous.
   The chances of this happening are higher in people:
@@ -179,9 +177,7 @@ For more information, call 1-888-838-2872.
 
 What are the ingredients in azithromycin for oral suspension?
 
-Active ingredient: azithromycin monohydrate
-
-Inactive ingredients: ammonio methacrylate copolymer, banana flavor, cherry flavor, colloidal silicon dioxide, FD&C Red No. 40, hydroxypropyl cellulose, sucrose, tribasic sodium phosphate anhydrous, vanilla flavor, and xanthan gum.
+Active ingredient: azithromycin monohydrate Inactive ingredients: amino methacrylate copolymer, banana flavor, cherry flavor, colloidal silicon dioxide, FD&C Red No. 40, hydroxypropyl cellulose, sucrose, tribasic sodium phosphate anhydrous, vanilla flavor, and xanthan gum.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
@@ -191,4 +187,4 @@ Zagreb, Croatia
 Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-F 4/2019
+G 7/2022

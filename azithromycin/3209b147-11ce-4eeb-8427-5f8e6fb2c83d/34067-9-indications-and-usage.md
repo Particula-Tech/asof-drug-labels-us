@@ -18,9 +18,9 @@ Recommended dosages and durations of therapy in adult and pediatric patient popu
 
 [see Use in Specific Populations (8.4) and Clinical Studies (14.2)]
 
-- Acute otitis media (> 6 months of age) caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae
-- Community-acquired pneumonia (> 6 months of age) due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
-- Pharyngitis/tonsillitis (> 2 years of age) caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
+- Acute otitis media (>6 months of age) caused by Haemophilus influenzae, Moraxella catarrhalis, or Streptococcus pneumoniae.
+- Community-acquired pneumonia (>6 months of age) due to Chlamydophila pneumoniae, Haemophilus influenzae, Mycoplasma pneumoniae, or Streptococcus pneumoniae in patients appropriate for oral therapy.
+- Pharyngitis/tonsillitis (>2 years of age) caused by Streptococcus pyogenes as an alternative to first-line therapy in individuals who cannot use first-line therapy.
 
 ## 1.3 Limitations of Use
 
