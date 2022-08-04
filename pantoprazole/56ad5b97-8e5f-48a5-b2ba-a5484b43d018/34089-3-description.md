@@ -18,3 +18,5 @@ Pantoprazole sodium delayed-release tablets contain the following inactive ingre
 The black imprinting ink contains black iron oxide, propylene glycol and shellac glaze.
 
 Meets USP Dissolution Test 3.
+
+Pantoprazole Sodium Meets USP Organic Impurities Test 2.

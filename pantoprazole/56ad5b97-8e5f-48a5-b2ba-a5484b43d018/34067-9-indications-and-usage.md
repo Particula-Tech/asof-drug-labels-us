@@ -2,7 +2,7 @@
 
 Pantoprazole sodium delayed-release tablets are indicated for:
 
-## 1.1 Short-Term Treatment of Erosive Esophagitis Associated with Gastroesophageal Reflux Disease (GERD)
+## 1.1 Short-Term Treatment of Erosive Esophagitis Associated With Gastroesophageal Reflux Disease (GERD)
 
 Pantoprazole sodium delayed-release tablets are indicated in adults and pediatric patients five years of age and older for the short-term treatment (up to 8 weeks) in the healing and symptomatic relief of erosive esophagitis (EE).
 For those adult patients who have not healed after 8 weeks of treatment, an additional 8-week course of pantoprazole sodium delayed-release tablets may be considered.

@@ -12,14 +12,14 @@ The percentages of patients healed (per protocol, n = 541) in this study are sho
 
 Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 
-|  | Pantoprazole Sodium Delayed-Release Tablets |  |  | Placebo |
+| Week | Pantoprazole Sodium Delayed-Release Tablets |  |  | Placebo (n = 68) |
 | --- | --- | --- | --- | --- |
-| Week | 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) | (n = 68) |
-| 4 | 45.6%(p < 0.001) pantoprazole sodium delayed-release tablets versus placebo | 58.4%(p < 0.05) versus 10 mg or 20 mg pantoprazole sodium delayed-release tablets | 75.0%(p < 0.05) versus 10 mg pantoprazole sodium delayed-release tablets | 14.3% |
+| 10 mg daily (n = 153) | 20 mg daily (n = 158) | 40 mg daily (n = 162) |  |  |
+| 4 | 45.6%(p < 0.001) pantoprazole sodium delayed-release tablets versus placebo | 58.4%(p < 0.05) versus 10 mg pantoprazole sodium delayed-release tablets | 75.0%(p < 0.05) versus 10 mg or 20 mg pantoprazole sodium delayed-release tablets | 14.3% |
 | 8 | 66.0% | 83.5% | 92.6% | 39.7% |
 
-In this study, all pantoprazole sodium delayed-release tablet treatment groups had significantly greater healing rates than the placebo group.
-This was true regardless of H. pylori status for the 40 mg and 20 mg pantoprazole sodium delayed-release tablet treatment groups.
+In this study, all pantoprazole sodium delayed-release tablets treatment groups had significantly greater healing rates than the placebo group.
+This was true regardless of H. pylori status for the 40 mg and 20 mg pantoprazole sodium delayed-release tablets treatment groups.
 The 40 mg dose of pantoprazole sodium delayed-release tablets resulted in healing rates significantly greater than those found with either the 20 mg or 10 mg dose.
 
 A significantly greater proportion of patients taking pantoprazole sodium delayed-release tablets 40 mg experienced complete relief of daytime and nighttime heartburn and the absence of regurgitation, starting from the first day of treatment, compared with placebo.
@@ -30,16 +30,16 @@ The percentages of patients healed (per protocol, n = 212) are shown in Table 9.
 
 Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 
-|  | Pantoprazole Sodium Delayed-Release Tablets |  | Nizatidine |
+| Week | Pantoprazole Sodium Delayed-Release Tablets |  | Nizatidine 150 mg twice daily (n = 70) |
 | --- | --- | --- | --- |
-| Week | 20 mg daily (n = 72) | 40 mg daily (n = 70) | 150 mg twice daily (n = 70) |
-| 4 | 61.4% (p < 0.001) pantoprazole sodium delayed-release tablets versus nizatidine | 64.0% | 22.2% |
+| 20 mg daily (n = 72) | 40 mg daily (n = 70) |  |  |
+| 4 | 61.4%(p < 0.001) pantoprazole sodium delayed-release tablets versus nizatidine | 64.0% | 22.2% |
 | 8 | 79.2% | 82.9% | 41.4% |
 
 Once-daily treatment with pantoprazole sodium delayed-release tablets 40 mg or 20 mg resulted in significantly superior rates of healing at both 4 and 8 weeks compared with twice-daily treatment with 150 mg of nizatidine.
 For the 40 mg treatment group, significantly greater healing rates compared to nizatidine were achieved regardless of the H. pylori status.
 
-A significantly greater proportion of the patients in the pantoprazole sodium delayed-release tablet treatment groups experienced complete relief of nighttime heartburn and regurgitation, starting on the first day and of daytime heartburn on the second day, compared with those taking nizatidine 150 mg twice daily.
+A significantly greater proportion of the patients in the pantoprazole sodium delayed-release tablets treatment groups experienced complete relief of nighttime heartburn and regurgitation, starting on the first day and of daytime heartburn on the second day, compared with those taking nizatidine 150 mg twice daily.
 Patients taking pantoprazole sodium delayed-release tablets consumed significantly fewer antacid tablets per day than those taking nizatidine.
 
 ### Pediatric Patients Ages 5 Years Through 16 Years
@@ -62,7 +62,7 @@ Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Di
 | --- | --- | --- | --- |
 | Study 1 | n = 75 | n = 74 | n = 75 |
 | Month 1 | 91(p < 0.05 vs. ranitidine) | 99 | 68 |
-| Month 3 | 82 | 93(p < 0.05 vs. pantoprazole sodium delayed-release tablets 20 mg) Note: Pantoprazole sodium delayed-release tablets 10 mg were superior (p < 0.05) to ranitidine in Study 2, but not Study 1. | 54 |
+| Month 3 | 82 | 93(p < 0.05 vs. pantoprazole sodium delayed-release tablets 20 mg) | 54 |
 | Month 6 | 76 | 90 | 44 |
 | Month 12 | 70 | 86 | 35 |
 | Study 2 | n = 74 | n = 88 | n = 84 |
@@ -70,6 +70,7 @@ Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Di
 | Month 3 | 78 | 91 | 47 |
 | Month 6 | 72 | 88 | 39 |
 | Month 12 | 72 | 83 | 37 |
+| Note: Pantoprazole sodium delayed-release tablets 10 mg were superior (p < 0.05) to ranitidine in Study 2, but not Study 1. |  |  |  |
 
 Pantoprazole sodium delayed-release tablets 40 mg were superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 Pantoprazole sodium delayed-release tablets 20 mg, administered once daily, were also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.

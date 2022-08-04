@@ -11,7 +11,7 @@ The binding to the (H+, K+)-ATPase results in a duration of antisecretory effect
 Pantoprazole sodium for delayed-release oral suspension, 40 mg has been shown to be comparable to pantoprazole sodium delayed-release tablets in suppressing pentagastrin-stimulated MAO in patients (n = 49) with GERD and a history of EE.
 In this multicenter, pharmacodynamic crossover study, a 40 mg oral dose of pantoprazole sodium for delayed-release oral suspension administered in a teaspoonful of applesauce was compared with a 40 mg oral dose of pantoprazole sodium delayed-release tablets after administration of each formulation once daily for 7 days.
 Both medications were administered thirty minutes before breakfast.
-Pentagastrin-stimulated (MAO) was assessed from hour 23 to 24 at steady-state.
+Pentagastrin-stimulated (MAO) was assessed from hour 23 to 24 at steady state.
 
 ### Antisecretory Activity
 
@@ -29,9 +29,9 @@ The effects of pantoprazole on median pH from one double-blind crossover study a
 
 Table 5: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
-|  | Median pH on Day 7 |  |  |  |
+| Time | Median pH on Day 7 |  |  |  |
 | --- | --- | --- | --- | --- |
-| Time | Placebo | 20 mg | 40 mg | 80 mg |
+| Placebo | 20 mg | 40 mg | 80 mg |  |
 | 8 a.m. - 8 a.m. (24 hours) | 1.3 | 2.9Significantly different from placebo | 3.8Significantly different from 20 mg | 3.9 |
 | 8 a.m. - 10 p.m. (Daytime) | 1.6 | 3.2 | 4.4 | 4.8 |
 | 10 p.m. - 8 a.m. (Nighttime) | 1.2 | 2.1 | 3.0 | 2.6 |
@@ -116,11 +116,11 @@ A pediatric granule formulation was studied in children through 5 years of age, 
 In a population PK analysis, total clearance increased with increasing bodyweight in a non-linear fashion.
 The total clearance also increased with increasing age only in children under 3 years of age.
 
-##### Neonate Through 5 Years of Age
+Neonate Through 5 Years of Age
 
 [See Use in Specific Populations (8.4).]
 
-##### Children and Adolescents 6 Through 16 Years of Age
+Children and Adolescents 6 Through 16 Years of Age
 
 The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluated in children ages 6 through 16 years with a clinical diagnosis of GERD.
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
@@ -139,6 +139,7 @@ Table 7: PK Parameters in Children and Adolescents 6 Through 16 Years with GERD 
 
 There is a modest increase in pantoprazole AUC and Cmax in women compared to men.
 However, weight-normalized clearance values are similar in women and men.
+
 In pediatric patients ages 1 through 16 years there were no clinically relevant effects of gender on clearance of pantoprazole, as shown by population pharmacokinetic analysis.
 
 #### Patients with Renal Impairment
@@ -161,7 +162,7 @@ In in vivo drug-drug interaction studies with CYP2C19 substrates (diazepam [also
 
 #### Effect of Pantoprazole on Other Drugs
 
-##### Clopidogrel
+Clopidogrel
 
 Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
 In a crossover clinical study, 66 healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day) alone and with pantoprazole (80 mg at the same time as clopidogrel) for 5 days.
@@ -169,20 +170,20 @@ On Day 5, the mean AUC of the active metabolite of clopidogrel was reduced by ap
 Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation (induced by 5 μM ADP) was correlated with the change in the exposure to clopidogrel active metabolite.
 The clinical significance of this finding is not clear.
 
-##### Mycophenolate Mofetil (MMF)
+Mycophenolate Mofetil (MMF)
 
 Administration of pantoprazole 40 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of pantoprazole to 12 healthy subjects in a cross-over study resulted in a 57% reduction in the Cmax and 27% reduction in the AUC of MPA.
 Transplant patients receiving approximately 2000 mg per day of MMF (n = 12) were compared to transplant patients receiving approximately the same dose of MMF and pantoprazole 40 mg per day (n = 21).
 There was a 78% reduction in the Cmax and a 45% reduction in the AUC of MPA in patients receiving both pantoprazole and MMF [see Drug Interactions (7)].
 
-##### Other Drugs
+Other Drugs
 
 In vivo studies also suggest that pantoprazole does not significantly affect the kinetics of the following drugs (cisapride, theophylline, diazepam [and its active metabolite, desmethyldiazepam], phenytoin, metoprolol, nifedipine, carbamazepine, midazolam, clarithromycin, diclofenac, naproxen, piroxicam, and oral contraceptives [levonorgestrel/ethinyl estradiol]).
 In other in vivo studies, digoxin, ethanol, glyburide, antipyrine, caffeine, metronidazole, and amoxicillin had no clinically relevant interactions with pantoprazole.
 
 Although no significant drug-drug interactions have been observed in clinical studies, the potential for significant drug-drug interactions with more than once-daily dosing with high doses of pantoprazole has not been studied in poor metabolizers or individuals who are hepatically impaired.
 
-##### Antacids
+Antacids
 
 There was also no interaction with concomitantly administered antacids.
 

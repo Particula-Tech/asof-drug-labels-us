@@ -5,10 +5,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.6)]
-- •Hypomagnesemia [see Warnings and Precautions (5.7)]
-- •Fundic Gland Polyps [see Warnings and Precautions (5.9)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,7 +22,7 @@ The most frequently occurring adverse reactions are listed in Table 3.
 
 Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of > 2%
 
-|  | Pantoprazole Sodium Delayed-Release Tablets (n = 1,473) % | Comparators (n = 345) % | Placebo (n = 82) % |
+|  | Pantoprazole Sodium Delayed-Release Tablets(n = 1,473) % | Comparators (n = 345) % | Placebo (n = 82) % |
 | --- | --- | --- | --- |
 | Headache | 12.2 | 12.8 | 8.5 |
 | Diarrhea | 8.8 | 9.6 | 4.9 |
@@ -100,7 +101,7 @@ Infections and Infestations: Clostridium difficile-associated diarrhea
 
 Investigations: weight changes
 
-Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia
+Metabolism and Nutritional Disorders: hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
@@ -110,4 +111,4 @@ Psychiatric Disorders: hallucination, confusion, insomnia, somnolence
 
 Renal and Urinary Disorders: acute tubulointerstitial nephritis
 
-Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (TEN, some fatal), angioedema (Quincke’s edema) and cutaneous lupus erythematosus
+Skin and Subcutaneous Tissue Disorders: severe dermatologic reactions (some fatal), including erythema multiforme, SJS/TEN, DRESS, AGEP, angioedema (Quincke’s edema) and cutaneous lupus erythematosus
