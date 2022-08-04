@@ -37,7 +37,7 @@ Through 144 weeks, the rate of adverse events leading to discontinuation was 4% 
 Treatment‑emergent ADRs of moderate to severe intensity observed in at least 2% of subjects in either treatment arm of SINGLE are provided in Table 3.
 
 Table 3.
-Treatment-Emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades 2 to 4) and at Least 2% Frequency in TreatmentNaive Subjects in SINGLE (Week 144 Analysis)
+Treatment-Emergent Adverse Drug Reactions of at Least Moderate Intensity (Grades 2 to 4) and at Least 2% Frequency in Treatment-Naive Subjects in SINGLE (Week 144 Analysis)
 
 | Adverse Reaction | TIVICAY + EPZICOMOnce Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
 | --- | --- | --- |
@@ -93,7 +93,7 @@ Laboratory Abnormalities: Treatment-Naive Subjects: Selected laboratory abnormal
 The mean change from baseline observed for selected lipid values is presented in Table 5.
 
 Table 4.
-Selected Laboratory Abnormalities (Grades 2 to 4) in TreatmentNaive Subjects in SINGLE (Week 144 Analysis)
+Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naive Subjects in SINGLE (Week 144 Analysis)
 
 | Laboratory Abnormality | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -118,7 +118,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in TreatmentNaive Subjects in 
 | ALT = Alanine aminotransferase, AST = Aspartate aminotransferase, ULN = upper limit of normal. |  |  |  |  |  |
 
 Table 5.
-Mean Change from Baseline in Fasted Lipid Values in TreatmentNaive Subjects in SINGLE (Week 144 Analysisa)
+Mean Change from Baseline in Fasted Lipid Values in Treatment-Naive Subjects in SINGLE (Week 144 Analysisa)
 
 | Lipid | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

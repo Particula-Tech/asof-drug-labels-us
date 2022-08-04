@@ -2,7 +2,7 @@
 
 ## 2.1 Screening for HLA-B*5701 Allele Prior to Initiating TRIUMEQ
 
-Screen for the HLA‑B*5701 allele prior to initiating therapy with TRIUMEQ or TRIUMEQ PD [see Boxed Warning,Warnings and Precautions (5.1)].
+Screen for the HLA‑B*5701 allele prior to initiating therapy with TRIUMEQ or TRIUMEQ PD [see Boxed Warning, Warnings and Precautions (5.1)].
 
 ## 2.2 Testing Prior to or When Initiating Treatment with TRIUMEQ
 
@@ -13,7 +13,7 @@ Pregnancy testing is recommended before initiation of TRIUMEQ in adolescents and
 ## 2.3 Overview of TRIUMEQ Dosage Forms
 
 TRIUMEQ is available in two dosage forms.
-Do not interchange TRIUMEQ tablets and TRIUMEQ PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles for the dolutegravir component[see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
+Do not interchange TRIUMEQ tablets and TRIUMEQ PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles for the dolutegravir component [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)].
 
 - •TRIUMEQ tablets: 600 mg of abacavir, 50 mg of dolutegravir, and 300 mg of lamivudine.
   TRIUMEQ is recommended in adults and pediatric patients weighing at least 25 kg [see Dosage and Administration (2.4, 2.5)].
