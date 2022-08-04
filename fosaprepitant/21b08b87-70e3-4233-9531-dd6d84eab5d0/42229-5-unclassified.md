@@ -4,7 +4,7 @@ Fosaprepitant (FOS-a-PRE-pi-tant) for injection Read this Patient Information be
 There may be new information.
 This information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 What is fosaprepitant for injection?
-Fosaprepitant for injection is a prescription medicine used with other medicines that treat nausea and vomiting in patients 18 years of age and older to prevent nausea and vomiting caused by certain anti-cancer (chemotherapy) medicines. • Fosaprepitant for injection is not used to treat nausea and vomiting that you already have. • It is not known if fosaprepitant for injection is safe and effective in children less than 6 months of age.
+Fosaprepitant for injection is a prescription medicine used with other medicines that treat nausea and vomiting in patients 6 months of age and older to prevent nausea and vomiting caused by certain anti-cancer (chemotherapy) medicines. • Fosaprepitant for injection is not used to treat nausea and vomiting that you already have. • It is not known if fosaprepitant for injection is safe and effective in children less than 6 months of age.
 Who should not receive fosaprepitant for injection?
 Do not receive fosaprepitant for injection if you: • are allergic to fosaprepitant, aprepitant, or any of the ingredients in fosaprepitant for injection.
 See the end of this leaflet for a complete list of the ingredients in fosaprepitant for injection. • are taking pimozide (ORAP®) What should I tell my healthcare provider before receiving fosaprepitant for injection?
@@ -19,6 +19,13 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How will I receive fosaprepitant for injection?
 Adults 18 years of age and older: Fosaprepitant for injection will be given on Day 1 of chemotherapy treatment.
 It will be given to you by intravenous (IV) infusion in your vein about 50 to 60 minutes before you start your chemotherapy treatment.
+
+Children 6 months to 17 years of age: Fosaprepitant for injection will be given to your child by intravenous (IV) infusion into a large vein through a type of IV line called a central venous catheter, about 1 hour to 1 ½ hours before the start of their chemotherapy treatment.
+Depending on the chemotherapy treatment, there are 2 ways that fosaprepitant for injection may be given: 1.
+Fosaprepitant for injection is given on Day 1 only (single day of chemotherapy).
+2.
+Fosaprepitant for injection is given on Days 1, 2 and 3 (single or multiple days of chemotherapy). • Your child may receive capsules of aprepitant or an oral suspension of aprepitant instead of fosaprepitant for injection on Day 2 and 3.
+If your child will receive either of these, see the Patient Information for aprepitant capsules or aprepitant for oral suspension for further information.
 If you take the blood thinner medicine warfarin sodium (COUMADIN®, JANTOVEN®), your healthcare provider may do blood tests after you receive fosaprepitant for injection to check your blood clotting.
 What are the possible side effects of fosaprepitant for injection?
 Fosaprepitant for injection may cause serious side effects, including: • Serious allergic reactions.
@@ -28,7 +35,7 @@ Most severe ISR have happened with a certain type of chemotherapy medicine that 
 Death of skin tissue (necrosis) has happened in some people getting this type of chemotherapy medicine.
 Most ISR can happen with the first, second, or third dose and some can last up to 2 weeks or longer.
 Tell your healthcare provider right away if you get any infusion site side effects.
-In adults, the most common side effects of fosaprepitant for injection include: • tiredness • feeling weak or numb in your arms and legs • diarrhea • painful, difficult, or changes in your digestion (dyspepsia) • low white blood cell and red blood cell counts • urinary tract infection • weakness • pain in your arms and legs Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+In adults, the most common side effects of fosaprepitant for injection include: • tiredness • feeling weak or numb in your arms and legs • diarrhea • painful, difficult, or changes in your digestion (dyspepsia) • low white blood cell and red blood cell counts • urinary tract infection • weakness • pain in your arms and legs In children 6 months to 17 years of age, the most common side effects of fosaprepitant for injection include: • low red blood cell count • low blood platelet count • low white blood cell count • low white blood cell count with a fever Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of fosaprepitant for injection.
 For more information ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
@@ -38,12 +45,9 @@ If you would like more information about fosaprepitant for injection, talk with 
 You can ask your healthcare provider or pharmacist for information about fosaprepitant for injection that is written for health professionals.
 For more information about fosaprepitant for injection call 1-877-648-9517.
 What are the ingredients in fosaprepitant for injection?
-Active ingredient: fosaprepitant Inactive ingredients: edetate disodium, polysorbate 80, lactose anhydrous, sodium hydroxide and/or hydrochloric acid (for pH adjustment) Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-Distributed by: BE Pharmaceuticals Inc. 203 New Edition Court Cary, NC 27511 Manufactured by:
+Active ingredient: fosaprepitant Inactive ingredients: edetate disodium, polysorbate 80, lactose anhydrous, sodium hydroxide and/or hydrochloric acid (for pH adjustment) Distributed by: BE Pharmaceuticals Inc. 203 New Edition Court Cary, NC 27511 Manufactured by:
 
 Biological E. Limited Plot No.4, Survey no. 542/P, Biotech Park Phase-II, Kolthur Village, Shameerpet Mandal, Medchal, Telangana 500078, India.
 The brands listed in the above sections “Who should not receive fosaprepitant for injection?” and “How will I receive fosaprepitant for injection?” are the registered trademarks of their respective owners and are not trademarks of Biological E. Limited.
-
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: December 2019
+Revised: July 2022

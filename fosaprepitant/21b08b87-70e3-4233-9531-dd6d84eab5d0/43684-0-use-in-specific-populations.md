@@ -25,20 +25,24 @@ Advise females of reproductive potential using hormonal contraceptives to use an
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of fosaprepitant for injection for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months of age.
+The safety and effectiveness of a single dose and a 3-day regimen of fosaprepitant have been established in pediatric patients 6 months to 17 years for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC and MEC.
 
+Use of fosaprepitant in this age group is supported by evidence from adequate and well-controlled studies of fosaprepitant for injection in adults, with additional safety, efficacy and pharmacokinetic data in pediatric patients 6 months to 17 years.
+Efficacy and safety were also supported by data from an adequate and well-controlled study of a 3-day oral aprepitant regimen in pediatric patients 6 months to 17 years.
+The safety of the 3-day fosaprepitant for injection regimen in pediatric patient 6 months to 17 years of age was supported by an open-label study in 100 patients receiving HEC or MEC.
+See the full prescribing information for aprepitant capsules for complete clinical information regarding studies performed with oral aprepitant.
+Adverse reactions were similar to those reported in adult patients.
+[See Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
+
+The safety and effectiveness of fosaprepitant for injection for the prevention of nausea and vomiting associated with HEC or MEC have not been established in patients less than 6 months of age.
 Juvenile Animal Toxicity Data In juvenile dogs treated with fosaprepitant, changes in reproductive organs were observed.
 In juvenile rats treated with aprepitant, slight changes in sexual maturation were observed without an effect on reproduction.
 No effects on neurobehavior, sensory and motor function, or learning and memory were observed in rats.
-
 In a toxicity study in juvenile dogs treated with fosaprepitant from postnatal day 14 (equivalent to a newborn human) to day 42 (approximately equivalent to a 2 year old human), decreased testicular weight and Leydig cell size were seen in the males at 6 mg/kg/day and increased uterine weight, hypertrophy of the uterus and cervix, and edema of vaginal tissues were seen in females from 4 mg/kg/day.
 A study was also conducted in young rats to evaluate the effects of aprepitant on growth and on neurobehavioral and sexual development.
-Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human)).
+Rats were treated at oral doses up to the maximum feasible dose of 1000 mg/kg twice daily (providing exposure in male and female rats lower than the exposure at the recommended pediatric human dose) from the early postnatal period (Postnatal Day 10 (equivalent to a newborn human) through Postnatal Day 58 (approximately equivalent to a 15 year old human)).
 Slight changes in the onset of sexual maturation were observed in female and male rats; however, there were no effects on mating, fertility, embryonic-fetal survival, or histomorphology of the reproductive organs.
 There were no effects in neurobehavioral tests of sensory function, motor function, and learning and memory.
-
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
