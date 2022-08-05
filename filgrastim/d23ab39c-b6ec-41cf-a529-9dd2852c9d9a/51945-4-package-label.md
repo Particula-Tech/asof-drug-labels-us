@@ -8,7 +8,7 @@ Nivestym™ (filgrastim-aafi) Injection
 
 1 mL Single-Dose Vial
 
-Pfizer Biosimilars
+Pfizer
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
@@ -26,7 +26,7 @@ For Intravenous or Subcutaneous Use Only
 
 Sterile Solution - No Preservative
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 # PRINCIPAL DISPLAY PANEL - 1.6 mL Vial Label
 
@@ -38,7 +38,7 @@ Nivestym™ (filgrastim-aafi) Injection
 
 1.6 mL Single-Dose Vial
 
-Pfizer Biosimilars
+Pfizer
 
 # PRINCIPAL DISPLAY PANEL - 1.6 mL Vial Carton
 
@@ -56,7 +56,7 @@ For Intravenous or Subcutaneous Use Only
 
 Sterile Solution - No Preservative
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Label
 
@@ -88,7 +88,7 @@ Nivestym™ (filgrastim-aafi) Injection
 
 A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 NDC 0069-0291-01 Rx Only
 
@@ -110,7 +110,7 @@ A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. col
 
 Subcutaneous Use Only Sterile Solution - No Preservative
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mL Syringe Carton - NDC 0069-0291-01
 
@@ -126,7 +126,7 @@ A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. col
 
 Subcutaneous Use Only Sterile Solution - No Preservative
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 # PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Label
 
@@ -152,15 +152,15 @@ Protect from light.
 
 Subcutaneous Use Only
 
+NDC 0069-0292-01 Rx Only
+
 Nivestym™ (filgrastim-aafi) Injection
 
 480 mcg/0.8 mL
 
 A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
-Pfizer Biosimilars
-
-NDC 0069-0292-01 Rx Only
+Pfizer Oncology
 
 The syringe plunger stopper and needle cover are not made with natural rubber latex.
 
@@ -180,7 +180,7 @@ A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. col
 
 Subcutaneous Use Only Sterile Solution - No Preservative
 
-Pfizer Biosimilars
+Pfizer Oncology
 
 # PRINCIPAL DISPLAY PANEL - 0.8 mL Syringe Carton - NDC 0069-0292-01
 
@@ -196,4 +196,4 @@ A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. col
 
 Subcutaneous Use Only Sterile Solution - No Preservative
 
-Pfizer Biosimilars
+Pfizer Oncology
