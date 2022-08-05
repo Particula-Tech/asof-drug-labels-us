@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# Package/Label Display Panel
 
 NDC 69918-901-12
 
@@ -6,10 +6,22 @@ Rx Only
 
 Desmopressin Acetate Injection
 
-4 mcg/mL
+40 mcg/10 mL (4 mcg/mL)
+
+For Intravenous and Subcutaneous Use Only
+
+10 mL Multiple-Dose Vial
+
+NDC 69918-901-12
+
+Rx Only
+
+Desmopressin Acetate Injection
+
+40 mcg/10 mL (4 mcg/mL)
 
 For Intravenous and Subcutaneous Use Only
 
 PREMIER Pro Rx®
 
-10 mL Vial
+One 10 mL Multiple-Dose Vial
