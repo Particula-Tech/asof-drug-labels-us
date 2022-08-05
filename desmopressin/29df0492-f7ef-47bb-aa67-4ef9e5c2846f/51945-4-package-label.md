@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mL Vial Carton
+# Package/Label Display Panel
 
 NDC 69918-901-10
 
@@ -6,26 +6,38 @@ Rx Only
 
 Desmopressin Acetate Injection
 
-4 mcg/mL
+40 mcg/10 mL (4 mcg/mL)
 
 For Intravenous and Subcutaneous Use Only
 
-10 mL Vial
+10 mL Multiple-Dose Vial
 
-AMRING PHARMACEUTICALS
+NDC 69918-901-10
 
-# PRINCIPAL DISPLAY PANEL - Ten 1 mL Ampule Carton
+Rx Only
+
+Desmopressin Acetate Injection
+
+40 mcg/10 mL (4 mcg/mL)
+
+For Intravenous and Subcutaneous Use Only
+
+One 10 mL Multiple-Dose Vial
+
+A
 
 NDC 69918-899-10
 
 Rx Only
 
-DESMOPRESSIN ACETATE Injection
+Desmopressin Acetate Injection
 
 4 mcg/mL
 
-PRESERVATIVE FREE For Intravenous and Subcutaneous Use Only
+PRESERVATIVE FREE
 
-Ten 1 mL Ampules
+For Intravenous and Subcutaneous Use Only
 
-AMRING PHARMACEUTICALS
+Ten x 1 mL Single-Dose Ampules Discard unused portion.
+
+A
