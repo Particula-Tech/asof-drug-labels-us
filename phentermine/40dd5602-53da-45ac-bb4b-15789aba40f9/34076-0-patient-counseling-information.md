@@ -1,114 +1,98 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Advise patients of the following:
+Embryo-Fetal Toxicity
 
-Adjunctive Treatment
-
-Qsymia is indicated for chronic weight management in conjunction with a reduced-calorie diet and increased physical activity.
-
-Access to Qsymia
-
-Qsymia is only available through certified pharmacies that are enrolled in the Qsymia certified pharmacy network.
-Advise patients on how to access Qsymia through certified pharmacies.
-Additional information may be obtained via the website www.QsymiaREMS.com or by telephone at 1-888-998-4887.
-
-Concomitant Use with Other Products
-
-Advise patients to tell healthcare provider(s) about all medications, nutritional supplements, and vitamins (including any weight loss products) that are being taken or may be taken while on Qsymia.
-
-How to take Qsymia
-
-Advise patients to take Qsymia in the morning with or without food.
-
-Advise patients to start treatment with Qsymia as follows:
-
-- Take one Qsymia 3.75 mg/23 mg capsule once daily – in the morning - for the first 14 days
-- After the first 14 days is complete, take one Qsymia 7.5 mg/46 mg capsule once daily – in the morning
-- Do not take Qsymia 3.75 mg/23 mg and Qsymia 7.5/46 mg capsules together
-
-If an increase in Qsymia dose is prescribed after medical evaluation, advise patients to increase the dose of Qsymia as follows:
-
-- Take one Qsymia 11.25 mg/69 mg capsule once daily – in the morning - for 14 days
-- After the 14 days is complete, take one Qsymia 15 mg/92 mg capsule once daily – in the morning
-- Do not take Qsymia 11.25/69 mg and Qsymia 15 mg/92 mg capsules together
-
-Advise patients to discontinue the Qsymia 15 mg/92 mg dose gradually by taking one Qsymia 15 mg/92 mg capsule every other day for at least one week before stopping in order to avoid a seizure.
-
-Pregnancy
-
-Qsymia can cause fetal harm and patients should avoid getting pregnant while taking Qsymia [see Warnings and Precautions (5.1), Drug Interactions (7.2), Use in Specific Populations (8.3))].
+Inform patients who can become pregnant that QSYMIA can cause fetal harm and patients should avoid getting pregnant while taking QSYMIA [see Warnings and Precautions (5.1), Drug Interactions (7), Use in Specific Populations (8.3)].
 
 Advise patients who can become pregnant:
 
-- that pregnancy testing is recommended before initiating Qsymia and monthly during therapy;
-- to use effective contraception during Qsymia therapy;
+- that pregnancy testing is recommended before initiating QSYMIA and monthly during therapy;
+- to use effective contraception during QSYMIA therapy;
 - who experience spotting while taking a combined oral contraceptive to notify their healthcare provider;
-- with a known or suspected pregnancy to stop Qsymia immediately and notify their healthcare provider.
+- with a known or suspected pregnancy to stop QSYMIA immediately and notify their healthcare provider.
 
-Lactation
+Access to QSYMIA
 
-Advise patients that breastfeeding is not recommended with Qsymia treatment [see Use in Specific Populations (8.2)].
+Advise patients that QSYMIA is only available through certified pharmacies that are enrolled in the QSYMIA certified pharmacy network.
+Advise patients on how to access QSYMIA through certified pharmacies.
+Additional information may be obtained via the website www.QSYMIAREMS.com or by telephone at 1-888-998-4887.
 
-Elevation in Heart Rate
+Increase in Heart Rate
 
-- Qsymia can increase resting heart rate [see Warnings and Precautions (5.2)].
-- Advise patients to report symptoms of sustained periods of heart pounding or racing while at rest to their health care provider(s).
+Inform patients that QSYMIA can increase resting heart rate.
+Advise patients to report palpitations or feelings of a racing heartbeat while at rest to their healthcare provider(s) [see Warnings and Precautions (5.2)].
 
-Suicidal Behavior and Ideation; Changes in Mood or Depression
+Suicidal Behavior and Ideation and Mood and Sleep Disorders
 
-Qsymia can increase the risk of mood changes, depression, and suicidal ideation [see Warnings and Precautions (5.5)].
+Inform patients that QSYMIA can increase the risk of mood changes, sleep disorders, depression, and suicidal ideation.
+Advise patients to tell their healthcare provider(s) immediately if mood changes, depression, or suicidal ideation occur [see Warnings and Precautions (5.3, 5.5)].
 
-- Advise patients to tell their healthcare provider(s) immediately if mood changes, depression, and suicidal ideation occur.
+Ophthalmologic Adverse Reactions
 
-Acute Angle Closure Glaucoma
+Inform patients that QSYMIA can increase the risk of acute myopia, secondary angle closure glaucoma, and visual field defects.
+Advise patients to report symptoms of severe and persistent eye pain or significant changes in their vision to their healthcare provider(s) [see Warnings and Precautions (5.4)].
 
-Qsymia can increase the risk of acute myopia and secondary angle closure glaucoma [see Warnings and Precautions (5.4)].
+Cognitive Impairment
 
-- Advise patients to report symptoms of severe and persistent eye pain or significant changes in their vision to their healthcare provider(s).
+Inform patients that QSYMIA can cause confusion, concentration, and word-finding difficulties.
+Inform patients that the concomitant use of alcohol or central nervous system (CNS) depressant drugs with QSYMIA, may increase the risk of dizziness, cognitive adverse reactions, drowsiness, light-headedness, impaired coordination and somnolence.
 
-Cognitive Adverse Reactions
+Advise patients to tell their healthcare provider(s) about any changes in attention, concentration, memory, difficulty finding words, or other cognitive functions.
 
-Qsymia can cause dizziness, confusion, concentration, and word-finding difficulties, or visual changes [see Warnings and Precautions (5.6)].
+Advise patients not to drive or operate machinery until they have gained sufficient experience on QSYMIA to gauge whether it adversely affects their mental performance, motor performance, and/or vision.
+Advise patients to avoid excessive alcohol intake while taking QSYMIA [see Warnings and Precautions (5.6)].
 
-- Advise patients to tell their healthcare provider(s) about any changes in attention, concentration, memory, and/or difficulty finding words.
-- Advise patients not to drive or operate machinery until they have gained sufficient experience on Qsymia to gauge whether it adversely affects their mental performance, motor performance, and/or vision.
+Slowing of Linear Growth
+
+Discuss with the patient and caregiver that long-term QSYMIA treatment may attenuate growth as reflected by slower height increase in pediatric patients [see Warnings and Precautions (5.7)].
 
 Metabolic Acidosis
 
-Qsymia can increase the risk of metabolic acidosis [see Warnings and Precautions (5.7)].
+Inform patients that QSYMIA can increase the risk of metabolic acidosis.
+Advise patients to tell their healthcare provider(s) about any factors that can increase the risk of acidosis (e.g. prolonged diarrhea, surgery, and high protein/low carbohydrate diet, and/or concomitant medications such as carbonic anhydrase inhibitors) [see Warnings and Precautions (5.8)].
 
-- Advise patients to tell their healthcare provider(s) about any factors that can increase the risk of acidosis (e.g. prolonged diarrhea, surgery, and high protein/low carbohydrate diet, and/or concomitant medications such as carbonic anhydrase inhibitors).
+Risk of Hypoglycemia in Patients with Type 2 Diabetes Mellitus on Antidiabetic Therapy
 
-Hypoglycemia in Patients with Type 2 Diabetes Mellitus on Anti-diabetic Therapy
+Inform patients that weight loss may increase the risk of hypoglycemia in patients with type 2 diabetes mellitus treated with insulin and/or insulin secretagogues (e.g., sulfonylureas).
+Advise patients with type 2 diabetes mellitus on antidiabetic therapy to monitor their blood glucose levels and report symptoms of hypoglycemia to their healthcare provider(s) [see Warnings and Precautions (5.10)].
 
-Weight loss may increase the risk of hypoglycemia in patients with type 2 diabetes mellitus treated with insulin and/or insulin secretagogues (e.g., sulfonylureas) [see Warnings and Precautions (5.9)].
+Risk of Hypotension in Patients Treated with Antihypertensive Medications
 
-- Advise patients with type 2 diabetes mellitus on anti-diabetic therapy to monitor their blood glucose levels and report symptoms of hypoglycemia to their healthcare provider(s)
+Advise patients that weight loss may increase the risk of hypotension.
+Advise patients to report symptoms of hypotension (e.g., dizziness, lightheadedness, and syncope) to the healthcare provider [see Warnings and Precautions (5.11)].
 
-CNS Depression with Concomitant CNS Depressants including Alcohol
+Risk of Seizures with Abrupt Withdrawal of QSYMIA
 
-The concomitant use of alcohol or central nervous system (CNS) depressant drugs (e.g., barbiturates, benzodiazepines, and sleep medications) with phentermine or topiramate may potentiate CNS depression or other centrally mediated effects of these agents, such as dizziness, cognitive adverse reactions, drowsiness, light-headedness, impaired coordination and somnolence [see Warnings and Precautions (5.11)].
+Inform patients that abrupt withdrawal of topiramate, a component of QSYMIA, has been associated with seizures in individuals without a history of seizures or epilepsy.
+Advise patients not to abruptly stop QSYMIA without first talking to their healthcare provider(s) [see Dosage and Administration (2.4), Warnings and Precautions (5.12)].
 
-- Advise patients not to drink alcohol while taking Qsymia.
+Kidney Stones
 
-Potential Seizures with Abrupt Withdrawal of Qsymia
-
-Abrupt withdrawal of topiramate, a component of Qsymia, has been associated with seizures in individuals without a history of seizures or epilepsy.
-
-- Advise patients not to abruptly stop Qsymia without first talking to their healthcare provider(s) [see Dosage and Administration (2.1)]
-
-Kidney stones
-
-Use of Qsymia has been associated with kidney stone formation [see Warnings and Precautions (5.15) and Adverse Reactions (6.1)].
-
-- Advise patients to increase fluid intake to increase urinary output which can decrease the concentration of substances involved in kidney stone formation.
-- Advise patients to report symptoms of severe side or back pain, and/or blood in their urine to their healthcare provider(s).
+Inform patients that use of QSYMIA has been associated with kidney stone formation.
+Advise patients to increase fluid intake to increase urinary output which can decrease the concentration of substances involved in kidney stone formation.
+Advise patients to report symptoms of severe side or back pain, and/or blood in their urine to their healthcare provider(s) [see Warnings and Precautions (5.13) and Adverse Reactions (6.1)].
 
 Oligohidrosis and Hyperthermia
 
-Oligohidrosis (decreased sweating) has been reported in association with the use of topiramate, a component of Qsymia.
-Decreased sweating and an elevation in body temperature above normal characterized these cases.
+Inform patients that oligohidrosis (decreased sweating) has been reported in association with the use of topiramate, a component of QSYMIA, particularly in pediatric patients.
+Advise patients to monitor for decreased sweating and increased body temperature during physical activity, especially in hot weather [see Warnings and Precautions (5.14)].
 
-- Advise patients to monitor for decreased sweating and increased body temperature during physical activity, especially in hot weather.
+Serious Skin Reactions
+
+Inform patients that serious skin reactions have been reported with use of topiramate, a component of QSYMIA.
+Inform patients of the signs of serious skin reactions and advise patients to report signs of a skin reaction to their healthcare provider(s) [see Warning and Precautions (5.16)].
+
+Lactation
+
+Advise patients that breastfeeding is not recommended during QSYMIA treatment [see Use in Specific Populations (8.2)].
+
+Allergic Reactions Due to Inactive Ingredient FD&C Yellow No. 5
+
+Inform patients that this product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons [see Warnings and Precautions (5.17)].
+
+How to Take QSYMIA
+
+Instruct patients on the dosage titration schedule of QSYMIA.
+Advise patients to take QSYMIA in the morning with or without food [see Dosage and Administration (2.3)].

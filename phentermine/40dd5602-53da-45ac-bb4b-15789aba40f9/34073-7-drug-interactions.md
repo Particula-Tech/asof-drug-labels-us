@@ -1,45 +1,32 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Monoamine Oxidase Inhibitors
+Table 7 displays clinically significant drug interactions with QSYMIA.
 
-Use of phentermine is contraindicated during or within 14 days following the administration of monoamine oxidase inhibitors because of the risk of hypertensive crisis.
+Table 7.
+Clinically Significant Drug Interactions with QSYMIA
 
-## 7.2 Oral Contraceptives
-
-Co-administration of multiple-dose Qsymia 15 mg/92 mg once daily with a single dose of oral contraceptive containing 35 µg ethinyl estradiol (estrogen component) and 1 mg norethindrone (progestin component), in obese otherwise healthy volunteers, decreased the exposure of ethinyl estradiol by 16% and increased the exposure of norethindrone by 22% [see Clinical Pharmacology (12.3)].
-
-Although this study did not specifically address the impact of the interaction on contraceptive efficacy, an increased risk of pregnancy is not anticipated.
-The primary determinant of contraceptive efficacy is the progestin component of the combination oral contraceptive, so higher exposure to the progestin would not be expected to be deleterious.
-
-However, irregular bleeding (spotting) may occur more frequently due to both the increased exposure to the progestin and lower exposure to the estrogen, which tends to stabilize the endometrium.
-Patients should be informed not to discontinue their combination oral contraceptive if spotting occurs, but to notify their healthcare provider if the spotting is troubling to them.
-
-## 7.3 CNS Depressants Including Alcohol
-
-Specific drug interaction studies of Qsymia and alcohol or other CNS depressant drugs have not been performed.
-The concomitant use of alcohol or CNS depressant drugs (e.g., barbiturates, benzodiazepines, and sleep medications) with phentermine or topiramate may potentiate CNS depression such as dizziness or cognitive adverse reactions, or other centrally mediated effects of these agents.
-Therefore, if Qsymia is used with alcohol or other CNS depressants, the patient should be counseled regarding possible increased risk of CNS depression or side effects.
-
-## 7.4 Non-Potassium Sparing Diuretics
-
-Concurrent use of Qsymia with non-potassium sparing diuretics may potentiate the potassium-wasting action of these diuretics.
-Concomitant administration of hydrochlorothiazide alone with topiramate alone has been shown to increase the C max and AUC of topiramate by 27% and 29%, respectively.
-When prescribing Qsymia in the presence of non-potassium-sparing medicinal products, patients should be monitored for hypokalemia [see Warnings and Precautions (5.17) and Clinical Pharmacology (12.3)].
-
-## 7.5 Antiepileptic Drugs
-
-Concomitant administration of phenytoin or carbamazepine with topiramate in patients with epilepsy, decreased plasma concentrations of topiramate by 48% and 40%, respectively, when compared to topiramate given alone [see Clinical Pharmacology (12.3)].
-
-Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy.
-Concomitant administration of topiramate with valproic acid in patients has also been associated with hypothermia (with and without hyperammonemia).
-It may be prudent to examine blood ammonia in patients in whom the onset of hypothermia or encephalopathy has been reported [see Clinical Pharmacology (12.3)].
-
-## 7.6 Carbonic Anhydrase Inhibitors
-
-Concomitant use of topiramate, a component of Qsymia, with any other carbonic anhydrase inhibitor (e.g., zonisamide, acetazolamide, or dichlorphenamide) may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation.
-Avoid the use of Qsymia with other drugs that inhibit carbonic anhydrase [see Warnings and Precautions (5.7)].
-
-## 7.7 Pioglitazone
-
-A decrease in the exposure of pioglitazone and its active metabolites were noted with the concurrent use of pioglitazone and topiramate in a clinical trial.
-The clinical relevance of these observations is unknown; however, when Qsymia is added to pioglitazone therapy or pioglitazone is added to Qsymia therapy, careful attention should be given to the routine monitoring of patients for adequate control of their diabetic disease state [see Clinical Pharmacology (12.3)].
+| Monamine Oxidase Inhibitors |  |
+| --- | --- |
+| Clinical Impact | Concomitant use of phentermine with monoamine oxidase inhibitors (MAOIs) increases the risk of hypertensive crisis. |
+| Intervention | Concomitant use of QSYMIA is contraindicated during MAOI treatment and within 14 days of stopping an MAOI. |
+| Oral Contraceptives |  |
+| Clinical Impact | Co-administration of multiple-dose QSYMIA 15 mg/92 mg once daily with a single dose of oral contraceptive containing 35 µg ethinyl estradiol (estrogen component) and 1 mg norethindrone (progestin component), in obese otherwise healthy volunteers, decreased the exposure of ethinyl estradiol by 16% and increased the exposure of norethindrone by 22% [see Clinical Pharmacology (12.3)]. Although this interaction is not anticipated to increase the risk of pregnancy, irregular bleeding (spotting) may occur more frequently due to both the increased exposure to the progestin and lower exposure to the estrogen, which tends to stabilize the endometrium. |
+| Intervention | Inform patients not to discontinue their combination oral contraceptive if spotting occurs, but to notify their healthcare provider if the spotting is troubling to them. |
+| CNS Depressants Including Alcohol |  |
+| Clinical Impact | The concomitant use of alcohol or CNS depressant drugs (e.g., barbiturates, benzodiazepines, and sleep medications) with phentermine or topiramate may potentiate CNS depression such as dizziness or cognitive adverse reactions, or other centrally mediated effects of these agents. |
+| Intervention | Advise patients not to drive or operate machinery until they have gained sufficient experience on QSYMIA to gauge whether it adversely affects their mental performance, motor performance, and/or vision. Caution patients against excessive alcohol intake when taking QSYMIA. Consider QSYMIA dosage reduction or discontinuation if cognitive dysfunction persists. [see Warnings and Precautions (5.6)]. |
+| Non-Potassium Sparing Diuretics |  |
+| Clinical Impact | Concurrent use of QSYMIA with non-potassium sparing diuretics may potentiate the potassium-wasting action of these diuretics. Concomitant administration of hydrochlorothiazide alone with topiramate alone has been shown to increase the C max and AUC of topiramate by 27% and 29%, respectively. |
+| Intervention | When QSYMIA is used concomitantly with non-potassium-sparing diuretics, measure potassium before and during QSYMIA treatment [see Warnings and Precautions (5.15) and Clinical Pharmacology (12.3)]. |
+| Antiepileptic Drugs |  |
+| Clinical Impact | Concomitant administration of phenytoin or carbamazepine with topiramate in patients with epilepsy, decreased plasma concentrations of topiramate by 48% and 40%, respectively, when compared to topiramate given alone [see Clinical Pharmacology (12.3)]. Concomitant administration of valproic acid and topiramate has been associated with hyperammonemia with and without encephalopathy. Concomitant administration of topiramate with valproic acid in patients has also been associated with hypothermia (with and without hyperammonemia). |
+| Intervention | Consider measuring blood ammonia in patients in whom the onset of hypothermia or encephalopathy has been reported [see Clinical Pharmacology (12.3)]. |
+| Carbonic Anhydrase Inhibitors |  |
+| Clinical Impact | Concomitant use of topiramate with any other carbonic anhydrase inhibitor may increase the severity of metabolic acidosis and may also increase the risk of kidney stone formation. |
+| Intervention | Avoid the use of QSYMIA with other drugs that inhibit carbonic anhydrase. If concomitant use of QSYMIA with another carbonic anhydrase inhibitor is unavoidable, monitor patient for the appearance or worsening of metabolic acidosis [see Warnings and Precautions (5.8, 5.13)]. |
+| Pioglitazone |  |
+| Clinical Impact | A decrease in the exposure of pioglitazone and its active metabolites were noted with the concurrent use of pioglitazone and topiramate in a clinical trial. The clinical relevance of these observations is unknown. |
+| Intervention | Consider increased glycemic monitoring when using pioglitazone and QSYMIA concomitantly [see Clinical Pharmacology (12.3)]. |
+| Amitriptyline |  |
+| Clinical Impact | Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate. |
+| Intervention | Any adjustments in amitriptyline dose when used with QSYMIA should be made according to the patient's clinical response and not on the basis of amitriptyline levels [see Clinical Pharmacology (12.3)]. |

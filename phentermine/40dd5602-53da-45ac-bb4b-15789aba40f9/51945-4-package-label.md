@@ -2,7 +2,7 @@
 
 NDC NUMBER 62541-202-30
 
-Qsymia ® (phentermine and topiramate extended-release) capsules CIV
+QSYMIA ® (phentermine and topiramate extended-release capsules) CIV
 
 7.5 mg/46 mg
 
@@ -16,7 +16,7 @@ DISPENSE WITH MEDICATION GUIDE
 
 NDC NUMBER 62541-201-30
 
-Qsymia ® (phentermine and topiramate extended-release) capsules CIV
+QSYMIA ® (phentermine and topiramate extended-release capsules) CIV
 
 3.75 mg/23 mg
 
@@ -30,7 +30,7 @@ DISPENSE WITH MEDICATION GUIDE
 
 NDC NUMBER 62541-204-30
 
-Qsymia ® (phentermine and topiramate extended-release) capsules CIV
+QSYMIA ® (phentermine and topiramate extended-release capsules) CIV
 
 15 mg/92 mg
 
@@ -44,7 +44,7 @@ DISPENSE WITH MEDICATION GUIDE
 
 NDC NUMBER 62541-203-30
 
-Qsymia ® (phentermine and topiramate extended-release) capsules CIV
+QSYMIA ® (phentermine and topiramate extended-release capsules) CIV
 
 11.25 mg/69 mg
 

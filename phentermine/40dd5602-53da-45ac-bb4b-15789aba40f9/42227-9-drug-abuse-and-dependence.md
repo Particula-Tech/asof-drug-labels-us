@@ -2,27 +2,28 @@
 
 ## 9.1 Controlled Substance
 
-Qsymia is controlled in Schedule IV of the Controlled Substances Act because it contains phentermine a Schedule IV drug.
-Any material, compound, mixture, or preparation that contains any quantity of phentermine is controlled as a Schedule IV drug.
-
-Topiramate is not controlled in the Controlled Substances Act.
+QSYMIA contains phentermine, a Schedule IV controlled substance, and topiramate, which is not a controlled substance.
 
 ## 9.2 Abuse
 
-Phentermine, a component of Qsymia, has a known potential for abuse.
+Phentermine has a known potential for abuse.
+Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
-Phentermine, a component of Qsymia, is related chemically and pharmacologically to the amphetamines.
-Amphetamines and other stimulant drugs have been extensively abused and the possibility of abuse of phentermine should be kept in mind when evaluating the desirability of including Qsymia as part of a weight reduction program.
+Phentermine is related chemically and pharmacologically to amphetamines.
+Amphetamines and other stimulant drugs have been extensively abused.
 Abuse of amphetamines and related drugs (e.g., phentermine) may be associated with impaired control over drug use and severe social dysfunction.
-There are reports of patients who have increased the dosage of these drugs to many times than recommended.
+There are reports of patients who have increased the dosage of these drugs to many times higher than recommended.
+Assess the risk of abuse prior to prescribing QSYMIA as part of a chronic weight management program.
 
 ## 9.3 Dependence
 
-Qsymia has not been systematically studied for its potential to produce physical dependence.
-Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use.
-Physical dependence manifests by drug-class-specific withdrawal symptoms after abrupt discontinuation or a significant dose reduction of a drug.
+Physical dependence may occur in patients treated with QSYMIA.
+Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Limited information on the potential for physical dependence for the individual components of Qsymia is available.
-For topiramate, abrupt discontinuation has been associated with seizures in patients without a history of seizures or epilepsy.
-For phentermine, abrupt cessation following prolonged high dosage administration results in extreme fatigue and mental depression; changes are also noted on a sleep electroencephalogram.
-Thus, in situations where rapid withdrawal of Qsymia is required, appropriate medical monitoring is recommended.
+The following adverse reactions have been associated with the abrupt discontinuation of the individual components of QSYMIA:
+
+- For topiramate, abrupt discontinuation has been associated with seizures in patients without a history of seizures or epilepsy [see Warnings and Precautions (5.12)].
+- For phentermine, abrupt discontinuation following prolonged high dosage administration results in extreme fatigue and mental depression; changes are also noted on a sleep electroencephalogram.
+
+Thus, in situations where rapid withdrawal of QSYMIA is required, appropriate medical monitoring is recommended.
+Patients discontinuing QSYMIA 15 mg/92 mg should be gradually tapered to reduce the possibility of precipitating a seizure [see Dosage and Administration (2.4)].
