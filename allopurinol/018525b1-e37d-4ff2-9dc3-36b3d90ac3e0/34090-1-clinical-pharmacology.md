@@ -1,73 +1,106 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Allopurinol acts on purine catabolism without disrupting the biosynthesis of purines.
-It reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation.
-The degree of this decrease is dose dependent.
+## 12.1 Mechanism of Action
 
 Allopurinol is a structural analogue of the natural purine base, hypoxanthine.
-It is an inhibitor of xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in man.
-Allopurinol is metabolized to the corresponding xanthine analogue, oxypurinol (alloxanthine), which also is an inhibitor of xanthine oxidase.
-
-Reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol and oxypurinol.
-This reutilization does not disrupt normal nucleic acid anabolism, however, because feedback inhibition is an integral part of purine biosynthesis.
-As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving allopurinol for treatment of hyperuricemia is usually in the range of 0.3 to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL.
-A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of allopurinol.
-These values are far below the saturation levels, at which point their precipitation would be expected to occur (above 7 mg/dL).
-
-The renal clearance of hypoxanthine and xanthine is at least 10 times greater than that of uric acid.
-The increased xanthine and hypoxanthine in the urine have not been accompanied by problems of nephrolithiasis.
-There are isolated case reports of xanthine crystalluria in patients who were treated with oral allopurinol.
+Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans.
+Allopurinol does not disrupt the biosynthesis of purines.
 
 The action of oral allopurinol differs from that of uricosuric agents, which lower the serum uric acid level by increasing urinary excretion of uric acid.
 Allopurinol reduces both the serum and urinary uric acid levels by inhibiting the formation of uric acid.
 The use of allopurinol to block the formation of urates avoids the hazard of increased renal excretion of uric acid posed by uricosuric drugs.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-Following intravenous administration in six healthy male and female subjects, allopurinol was rapidly eliminated from the systemic circulation primarily via oxidative metabolism to oxypurinol, with no detectable plasma concentration of allopurinol after 5 hours post dosing.
-Approximately 12% of the allopurinol intravenous dose was excreted unchanged, 76% excreted as oxypurinol, and the remaining dose excreted as riboside conjugates in the urine.
-The rapid conversion of allopurinol to oxypurinol was not significantly different after repeated allopurinol dosing.
-Oxypurinol was present in systemic circulation in much higher concentrations and for a much longer period than allopurinol; thus, it is generally believed that the pharmacological action of allopurinol is mediated via oxypurinol.
-Oxypurinol was primarily eliminated unchanged in urine by glomerular filtration and tubular reabsorption, with a net renal clearance of about 30 mL/min.
+Allopurinol reduces the production of uric acid by inhibiting the biochemical reactions immediately preceding its formation in a dose dependent manner.
+The pharmacological action of allopurinol is generally believed to be mediated by its oxypurinol metabolite.
 
-To compare the pharmacokinetics of allopurinol and oxypurinol between intravenous (i.v.) and oral (p.o.) administration of ALOPRIM (allopurinol) for Injection, a well-controlled, four-way crossover study was conducted in 16 male healthy volunteers.
-ALOPRIM (allopurinol) for Injection was administered via an intravenous infusion over 30 minutes.
-Pharmacokinetic parameter estimates of allopurinol (mean ± S.D.) following single i.v. and p.o. administration of ALOPRIM (allopurinol) for Injection are summarized as follows:
+### Effect on Hypoxanthine and Xanthine
 
-Administration of ALOPRIM® (allopurinol) for Injection
+Reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol and oxypurinol.
+This reutilization does not disrupt normal nucleic acid anabolism because feedback inhibition is an integral part of purine biosynthesis.
+As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving allopurinol for treatment of hyperuricemia is usually in the range of 0.3 to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL.
+A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of allopurinol.
+These values are far below the saturation levels, at which point their precipitation would be expected to occur (above 7 mg/dL).
+The increased xanthine and hypoxanthine in the urine in patients who were treated with oral allopurinol have not been accompanied by problems of nephrolithiasis; however, there are isolated case reports of xanthine crystalluria.
 
-| Allopurinol Parameters | 100 mg i.v. | 300 mg i.v. | 100 mg p.o.n = 7 | 300 mg p.o. |
-| --- | --- | --- | --- | --- |
-| Cmax (µg/mL) | 1.58 ± 0.22 | 5.12 ± 0.82 | 0.53 ± 0.10 | 1.35 ± 0.49 |
-| Tmax (hr) | 0.50 | 0.50 | 1.00 ± 0.39 | 1.67 ± 0.96 |
-| T½ (hr) | 1.00 ± 0.46 | 1.21 ± 0.33 | 0.98 ± 0.43 | 1.32 ± 0.32 |
-| AUC0 ->∞ (hr∙µg/mL) | 1.99 ± 0.63 | 7.10 ± 1.28 | 1.03 ± 0.24 | 3.69 ± 0.96 |
-| CL (mL/min/kg) | 12.2 ± 3.11 | 9.94 ± 2.36 |  |  |
-| Vss (L/kg)Volume of Distribution (Steady-State) | 0.84 ± 0.13 | 0.87 ± 0.13 |  |  |
-| Fabsolute (%)Absolute Bioavailability |  |  | 48.8 ± 19.7 | 52.7 ± 13.1 |
+### Drug Interaction Studies
 
-Oxypurinol was measurable in the plasma within 10 to 15 minutes following the administration of ALOPRIM (allopurinol) for Injection.
-Pharmacokinetic parameter estimates of oxypurinol following i.v. and p.o. administration of ALOPRIM (allopurinol) for Injection are shown below:
+#### Fluorouracil
 
-Administration of ALOPRIM® (allopurinol) for Injection
+Based on non-clinical data, allopurinol may decrease anti-tumor activity due to suppression of phosphorylation of 5-fluorouracil.
 
-| Oxypurinol Parameters | 100 mg i.v. | 300 mg i.v. | 100 mg p.o. | 300 mg p.o. |
-| --- | --- | --- | --- | --- |
-| Cmax (µg/mL) | 2.20 ± 0.31 | 6.18 ± 0.78 | 2.36 ± 0.30 | 6.36 ± 0.83 |
-| Tmax (hr) | 3.89 ± 1.41 | 4.16 ± 1.2 | 3.10 ± 1.49 | 4.13 ± 1.35 |
-| T½ (hr) | 24.1 ± 5.4 | 23.5 ± 4.5 | 24.9 ± 8.4 | 23.7 ± 3.4 |
-| AUC0 ->∞ (hr∙µg/mL) | 80 ± 24 | 231 ± 54 | 83 ± 22 | 245 ± 49 |
-| Frelative (%)Relative Bioavailability |  |  | 107 ± 25 | 108 ± 9 |
+#### Pegloticase
 
-In general, the ratio of the area under the plasma concentration vs time curve (AUC0->∞) between oxypurinol and allopurinol was in the magnitude of 30 to 40.
-The Cmax and AUC0->∞ for both allopurinol and oxypurinol following i.v. administration of ALOPRIM (allopurinol) for Injection were dose proportional in the dose range of 100 to 300 mg.
-The half-life of allopurinol and oxypurinol was not influenced by the route of ALOPRIM (allopurinol) for Injection administration.
-Oral and intravenous administration of ALOPRIM (allopurinol) for Injection at equal doses produced nearly superimposable oxypurinol plasma concentration vs time profiles, and the relative bioavailability of oxypurinol (Frelative) was approximately 100%.
-Thus, the pharmacokinetics and plasma profiles of oxypurinol, the major pharmacological component derived from allopurinol, are similar after intravenous and oral administration of ALOPRIM (allopurinol) for Injection.
+Concomitant use of ALOPRIM and pegloticase may potentially blunt the rise of serum uric acid levels required for monitoring the safe use of pegloticase.
 
-## Clinical Trials
+#### Cytotoxic Agents
 
-A compassionate plea trial was conducted from 1977 through 1989 in which 718 evaluable patients with malignancies requiring treatment with cytotoxic chemotherapy, but who were unable to ingest or retain oral medication, received i.v.
-ALOPRIM (allopurinol) for Injection in the U.S. Of these patients, 411 had established hyperuricemia and 307 had normal serum urate levels at the time that treatment was initiated.
-Normal serum uric acid levels were achieved in 68% (reduction of serum uric acid was documented in 93%) of the former, and were maintained throughout chemotherapy in 97% of the latter.
-Because of the study design, it was not possible to assess the impact of the treatment upon the clinical outcome of the patient groups.
+Enhanced bone marrow suppression by cyclophosphamide and other cytotoxic agents has been reported among patients with neoplastic disease, except leukemia, in the presence of allopurinol.
+
+#### Thiazide Diuretics
+
+Reports that the concomitant administration of allopurinol and thiazide diuretics contributed to increased allopurinol toxicity were reviewed; however, a causal mechanism or cause-and-effect relationship was not found.
+
+## 12.3 Pharmacokinetics
+
+Following single 100 mg and 300 mg intravenous and oral administration of ALOPRIM, the relative intravenous Cmax was approximately 3-fold and 3.8-fold and AUC0-inf was approximately 1.9-fold higher for allopurinol at both dosages, respectively.
+The relative intravenous oxypurinol Cmax and AUC0-inf was approximately 1 compaired to oral administration at both dosages.
+
+The Cmax and AUC0- inf for both allopurinol and oxypurinol following intravenous administration of ALOPRIM were dose proportional in the dose range of 100 to 300 mg.
+
+### Distribution
+
+The steady-state allopurinol volume of distribution (mean ± S.D.) is approximately 0.87 ± 0.13 L/Kg following intravenous adminstration.
+
+### Elimination
+
+The half-life (mean ± S.D.) of allopurinol and oxypurinol are approximately 1.21 ± 0.33 and 23.5 ± 4.5 hours following intravenous administration, respectively.
+The net renal clearance of oxypurinol about 30 mL/min.
+
+#### Metabolism
+
+Allopurinol is a weak CYP1A2 inhibitor.
+Allopurinol is rapidly eliminated from the systemic circulation primarily via oxidative metabolism to oxypurinol.
+
+The oxypurinol (alloxanthine) metabolite is also a xanthine oxidase inhibitor and is present in systemic circulation in much higher concentrations and for a much longer period than allopurinol.
+In general, the ratio of the area under the plasma concentration vs time curve (AUC0-inf) between oxypurinol and allopurinol was in the magnitude of 30 to 40.
+
+#### Excretion
+
+Approximately 12% of an allopurinol intravenous dose was excreted unchanged, 76% excreted as oxypurinol, and the remaining dose excreted as riboside conjugates in the urine.
+Oxypurinol was primarily eliminated unchanged in urine by glomerular filtration and tubular reabsorption.
+
+### Drug Interaction Studies
+
+#### Capecitabine
+
+Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites, which may decrease capecitabine efficacy.
+
+#### Cyclosporine
+
+Concomitant use of allopurinol increases cyclosporine concentrations which may increase the risk of adverse reactions.
+
+#### Mercaptopurine or Azathioprine
+
+Allopurinol inhibits xanthine oxidase mediated metabolism of mercaptopurine and azathioprine.
+Concomitant use of allopurinol increases the exposure of either mercaptopurine or azathioprine which may increase the risk of their adverse reactions including myelosuppression.
+
+#### Theophylline
+
+Concomitant use of allopurinol doses greater than or equal to 600 mg/day may decrease the clearance of theophylline.
+
+#### Uricosuric Agents
+
+Uricosuric agents increase the excretion of the active allopurinol metabolite oxypurinol.
+Concomitant use with uricosuric agents decreases oxypurinol exposure which may reduce the inhibition of xanthine oxidase by oxypurinol and increases the urinary excretion of uric acid.
+
+#### Warfarin
+
+Allopurinol may inhibit the metabolism of warfarin, possibly enhancing its anticoagulant effect.
+
+## 12.5 Pharmacogenomics
+
+The HLA-B*58:01 allele is a genetic marker for severe skin reactions indicative of hypersensitivity to allopurinol [see Warnings and Precautions (5.1)].
+The frequency of the HLA-B*58:01 allele ranges from 8 to 10% in Han Chinese populations, about 8% in Thai populations, and about 6% in Korean populations based upon published literature and available databases.
+The frequency of the HLA-B*58:01 allele is about 4% in Blacks, about 1-2 % in indigenous peoples of the Americas and Hispanic populations, and <1% in people from European descent and Japanese.

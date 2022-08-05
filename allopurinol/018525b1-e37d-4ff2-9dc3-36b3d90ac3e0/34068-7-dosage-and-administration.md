@@ -1,60 +1,66 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## Children and Adults
+## 2.1 Recommended Dosage
 
-The dosage of ALOPRIM (allopurinol) for Injection to lower serum uric acid to normal or near-normal varies with the severity of the disease.
-The amount and frequency of dosage for maintaining the serum uric acid just within the normal range is best determined by using the serum uric acid level as an index.
-In adults, in one clinical trial, doses over 600 mg a day did not appear to be more effective.
-The recommended daily dose of ALOPRIM (allopurinol) for Injection is as follows:
+Initiate therapy with ALOPRIM 24 to 48 hours before the start of chemotherapy known to cause tumor cell lysis.
+Additionally, administer fluids sufficient to yield a daily urinary output of at least two liters in adults with a neutral or, preferably, slightly alkaline urine.
 
-Recommended Daily Dose
+The recommended daily dose of ALOPRIM is shown in Table 1.
+Administer the daily dose as single infusion or in equally divided infusions at 6-, 8-, or 12-hour intervals at a rate appropriate for the volume of infusate.
 
-| Adult: | 200 to 400 mg/m2/day Maximum 600 mg/day |
+Table 1: Recommended Daily Dose of ALOPRIM
+
+| Adult Patients | 200 mg/m2/day to 400 mg/m2/day intravenously Maximum 600 mg/day |
 | --- | --- |
-| Child: | Starting Dose 200 mg/m2/day |
+| Pediatric Patients | Starting Dose 200 mg/m2/day intravenouslyMaximum 400 mg/day |
 
-## Hydration
+The dosage of ALOPRIM to lower serum uric acid to normal or near-normal varies with the severity of the disease.
+Monitor serum uric acid levels at least daily and administer ALOPRIM at a dose and frequency to maintain the serum uric acid within the normal range.
+Discontinue ALOPRIM when the patient is able to take oral therapy or when the risk of tumor lysis has abated.
 
-A fluid intake sufficient to yield a daily urinary output of at least two liters in adults and the maintenance of a neutral or, preferably, slightly alkaline urine are desirable.
+## 2.2 Dosage Modifications in Patients with Renal Impairment
 
-## Impaired Renal Function
+Reduce the dose of ALOPRIM in patients with impaired renal function [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The recommended dosage reductions of ALOPRIM in adult patients with renal impairment are shown in Table 2.
 
-The dose of ALOPRIM (allopurinol) for Injection should be reduced in patients with impaired renal function to avoid accumulation of allopurinol and its metabolites:
+Table 2: Recommended Daily Dose of ALOPRIM in Adult Patients with Renal Impairment
 
 | Creatinine Clearance | Recommended Daily Dose |
 | --- | --- |
 | 10 to 20 mL/min | 200 mg/day |
-| 3 to 10 mL/min | 100 mg/day |
-| < 3 mL/min | 100 mg/day at extended intervals |
+| Less than 10 mL/min | 100 mg/day |
+| On dialysis | 50 mg every 12 hours, or100 mg every 24 hours |
 
-## Administration
+Treatment with ALOPRIM has not been studied in pediatric patients with severe renal impairment or on dialysis.
+For pediatric patients with severe renal impairment or on dialysis, consider the risks and potential benefits before initiating treatment with ALOPRIM [see Warnings and Precautions (5.2) and Use In Specific Populations (8.6)].
 
-In both adults and children, the daily dose can be given as single infusion or in equally divided infusions at 6-, 8-, or 12-hour intervals at the recommended final concentration of not greater than 6 mg/mL (see Preparation of Solution).
-The rate of infusion depends on the volume of infusate.
-Whenever possible, therapy with ALOPRIM (allopurinol) for Injection should be initiated 24 to 48 hours before the start of chemotherapy known to cause tumor cell lysis (including adrenocorticosteroids).
+## 2.3 Preparation Instructions
 
-ALOPRIM (allopurinol) for Injection should not be mixed with or administered through the same intravenous port with agents which are incompatible in solution with ALOPRIM (allopurinol) for Injection (see Preparation of Solution).
+Reconstitue and further dilute ALOPRIM prior to intravenous infusion.
 
-## Preparation of Solution
+Reconstitution
 
-ALOPRIM (allopurinol) for Injection must be reconstituted and diluted.
-The contents of each 30 mL vial should be dissolved with 25 mL of Sterile Water for Injection.
-The reconstituted solution contains allopurinol at a concentration of 20 mg/mL.
-Reconstitution yields a clear, almost colorless solution with no more than a slight opalescence.
-This concentrated solution has a pH of 11.1 to 11.8.
-It should be diluted to the desired concentration with 0.9% Sodium Chloride Injection or 5% Dextrose for Injection.
-Sodium bicarbonate-containing solutions should not be used.
-A final concentration of no greater than 6 mg/mL is recommended.
-The solution should be stored at 20° to 25°C (68° to 77°F) and administration should begin within 10 hours after reconstitution.
-Do not refrigerate the reconstituted and/or diluted product.
-Discard unused portion.
+- •Reconstitute each vial of ALOPRIM with 25 mL of Sterile Water for Injection, USP to obtain a concentration of 20 mg/mL of allopurinol.
+- •Inspect the reconstituted solution for discoloration and particulate matter.
+  The reconstituted solution should appear as a clear, almost colorless solution with no more than a slight opalescence.
+  Do not use if the reconstituted solution contains particulate matter or discoloration is present.
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Do not use this product if particulate matter or discoloration is present.
+Dilution
 
-The following table lists drugs that are physically incompatible in solution with ALOPRIM (allopurinol) for Injection.
+- •Dilute with 0.9% Sodium Chloride Injection, USP or 5% Dextrose for Injection, USP to obtain a final concentration of less than 6 mg/mL.
+- •Inspect the diluted solution for particulate matter or discoloration and discard if present.
+- •If not used immediately, the diluted ALOPRIM solution can be stored at 20° to 25°C (68° to 77°F) for up to 10 hours after initial reconstitution.
+  The storage includes time for infusion.
+  Do not refrigerate the reconstituted and/or diluted product.
+- •If stored, the administration should be completed within 10 hours after reconstitution.
+- •Discard unused portion.
 
-Drugs That Are Physically Incompatible in Solution with ALOPRIM® (allopurinol) for Injection
+## 2.4 Administration Instructions
+
+Do not mix ALOPRIM with or administer it through the same intravenous port as agents which are incompatible in solution with ALOPRIM.
+The following table lists drugs that are known to be physically incompatible in solution with ALOPRIM.
+
+Table 3: Drugs That Are Physically Incompatible in Solution with ALOPRIM
 
 | Amikacin sulfate | Hydroxyzine HCl |
 | --- | --- |
@@ -66,11 +72,11 @@ Drugs That Are Physically Incompatible in Solution with ALOPRIM® (allopurinol) 
 | Clindamycin phosphate | Methylprednisolone sodium succinate |
 | Cytarabine | Minocycline HCl |
 | Dacarbazine | Nalbuphine HCl |
-| Daunorubicin HCl | Netilmicin sulfate |
-| Diphenhydramine HCl | Ondansetron HCl |
-| Doxorubicin HCl | Prochlorperazine edisylate |
-| Doxycycline hyclate | Promethazine HCl |
-| Droperidol | Sodium bicarbonate |
-| Floxuridine | Streptozocin |
-| Gentamicin sulfate | Tobramycin sulfate |
-| Haloperidol lactate | Vinorelbine tartrate |
+| Daunorubicin HCl | Ondansetron HCl |
+| Diphenhydramine HCl | Prochlorperazine edisylate |
+| Doxorubicin HCl | Promethazine HCl |
+| Doxycycline hyclate | Sodium bicarbonate |
+| Droperidol | Streptozocin |
+| Floxuridine | Tobramycin sulfate |
+| Gentamicin sulfate | Vinorelbine tartrate |
+| Haloperidol lactate |  |
