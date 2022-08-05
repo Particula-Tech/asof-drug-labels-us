@@ -300,4 +300,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 10/2021
+Revised: 07/2022
