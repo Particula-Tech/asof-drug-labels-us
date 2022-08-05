@@ -6,7 +6,7 @@ Long-term carcinogenicity studies in animals have not been conducted to evaluate
 However, neither mutagenic nor clastogenic potential was found in a battery of genotoxicity tests, including the Ames assay, a mammalian cell gene mutation assay, a test for chromosomal aberrations in Chinese hamster ovary cells, an in vivo micronucleus assay, an in vitro DNA repair assay, and an in vivo sister chromatid exchange assay in Chinese hamsters.
 Daptomycin did not affect the fertility or reproductive performance of male and female rats when administered intravenously at doses of 25, 75, or 150 mg/kg/day, which is approximately up to 9 times the estimated human exposure level based upon AUCs (or approximately up to 4 times the recommended human dose of 6 mg/kg based on body surface area comparison).
 
-## 13.2 Animal Pharmacology & OR Toxicology
+## 13.2 Animal Toxicology & OR Pharmacology
 
 Adult Animals In animals, daptomycin administration has been associated with effects on skeletal muscle.
 However, there were no changes in cardiac or smooth muscle.
@@ -29,7 +29,6 @@ Administration of daptomycin to 7-week-old juvenile dogs for 28 days at doses of
 A dose of 150 mg/kg/day for 28 days produced minimal degeneration in the peripheral nerve and spinal cord as well as minimal to mild degeneration of the skeletal muscle in a majority of animals, accompanied by slight to severe muscle weakness evident in most dogs.
 Following a 28-day recovery phase, microscopic examination revealed recovery of the skeletal muscle and the ulnar nerve effects, but nerve degeneration in the sciatic nerve and spinal cord was still observed in all 150 mg/kg/day dogs.
 Following once-daily administration of daptomycin to juvenile dogs for 28 days, microscopic effects in nerve tissue were noted at a Cmax value of 417 mcg/mL, which is approximately 3-fold less than the Cmax value associated with nerve effects in adult dogs treated once daily with daptomycin for 28 days (1308 mcg/mL).
-
 Neonatal Animals Neonatal dogs (4 to 31 days old) were more sensitive to daptomycin-related adverse nervous system and/or muscular system effects than either juvenile or adult dogs.
 In neonatal dogs, adverse nervous system and/or muscular system effects were associated with a Cmax value approximately 3-fold less than the Cmax in juvenile dogs, and 9-fold less than the Cmax in adult dogs following 28 days of dosing.
 At a dose of 25 mg/kg/day with associated Cmax and AUCinf values of 147 mcg/mL and 717 mcg•h/mL, respectively (1.6 and 1.0-fold the adult human Cmax and AUC, respectively, at the 6 mg/kg/day dose), mild clinical signs of twitching and one incidence of muscle rigidity were observed with no corresponding effect on body weight.

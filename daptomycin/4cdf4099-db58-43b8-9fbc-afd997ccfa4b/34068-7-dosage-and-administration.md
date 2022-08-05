@@ -64,8 +64,13 @@ Pediatric Patients: The dosage regimen for daptomycin for injection in pediatric
 
 There are other formulations of daptomycin that have differences concerning reconstitution and storage.
 Carefully follow the reconstitution and storage procedures described in this labeling.
-Reconstitution of Daptomycin for Injection Vial Daptomycin for injection is supplied in single-dose vials, each containing 500 mg daptomycin as a sterile, lyophilized cake or powder.
-The contents of a daptomycin for injection vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows: 1.
+
+Reconstitution of Daptomycin for Injection Vial
+
+Daptomycin for injection is supplied in single-dose vials, each containing 500 mg daptomycin as a sterile, lyophilized cake or powder.
+The contents of a daptomycin for injection vial should be reconstituted with 0.9% sodium chloride injection, using aseptic technique, to 50 mg/mL as follows:
+
+1.
 To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
 2.
 Remove the polypropylene flip-off cap from the daptomycin for injection vial to expose the central portion of the rubber stopper.
@@ -102,9 +107,10 @@ In-Use Storage Conditions for Daptomycin for Injection Once Reconstituted in Acc
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
 
-## 2.8 Compatible Intravenous Solutions
+## 2.8 Compatible Intravenous Solution for Reconstitution and Dilution
 
-Daptomycin for injection is compatible with 0.9% sodium chloride injection and Lactated Ringer’s injection.
+Daptomycin for injection is compatible with 0.9% sodium chloride injection for reconstitution.
+Reconstituted daptomycin for injection can only be diluted with 0.9% sodium chloride injection.
 
 ## 2.9 Incompatibilities
 

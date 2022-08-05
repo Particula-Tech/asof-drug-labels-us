@@ -25,4 +25,4 @@ Manufactured by:
 Biological E. Limited Plot No.4, Survey no. 542/P, Biotech Park Phase-II, Kolthur Village, Shameerpet Mandal, Medchal, Telangana 500078, India.
 The trademarks depicted herein are owned by their respective companies.
 
-20002669 Revised: November 2021
+20002832 Revised: March 2022
