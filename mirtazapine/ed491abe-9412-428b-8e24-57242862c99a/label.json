@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA205798"
+  ],
+  "inn": "mirtazapine",
+  "labeler": "Viona Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "72578-103-84",
+    "72578-104-84",
+    "72578-105-84"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "mirtazapine",
+      "name": "Mirtazapine"
+    }
+  ],
+  "setid": "ed491abe-9412-428b-8e24-57242862c99a",
+  "source": "dailymed"
+}
