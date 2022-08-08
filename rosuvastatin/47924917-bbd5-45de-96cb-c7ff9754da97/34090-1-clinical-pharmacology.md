@@ -59,10 +59,7 @@ However, pharmacokinetic studies, including one conducted in the U.S., have demo
 Male and Female Patients
 
 There were no differences in plasma concentrations of rosuvastatin between men and women.
-
-Pediatric use information for patients ages 8 to less than 10 years is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
-However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
+Pediatric Patients In a population pharmacokinetic analysis of two pediatric trials involving patients with heterozygous familial hypercholesterolemia 10 to 17 years of age and 8 to 17 years of age, respectively, rosuvastatin exposure appeared comparable to or lower than rosuvastatin exposure in adult patients.
 Geriatric Patients
 
 There were no differences in plasma concentrations of rosuvastatin between the nonelderly and elderly populations (age ≥65 years).

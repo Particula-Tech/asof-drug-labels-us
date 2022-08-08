@@ -7,7 +7,6 @@ Rosuvastatin Tablets USP
 Read this Patient Information carefully before you start taking rosuvastatin tablets and each time you get a refill.
 If you have any questions about rosuvastatin tablets, ask your doctor.
 Only your doctor can determine if rosuvastatin tablets are right for you.
-
 What are rosuvastatin tablets?
 
 Rosuvastatin tablets are a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin calcium.
@@ -16,11 +15,15 @@ Rosuvastatin tablets are a prescription medicine that contains a cholesterol-low
   - lower the level of your “bad” cholesterol (LDL)
   - increase the level of your “good” cholesterol (HDL)
   - lower the level of fat in your blood (triglycerides)
+  - slow the buildup of fatty deposits (plaque) in the walls of blood vessels
 - Rosuvastatin tablets are used to treat:
   - adults who cannot control their cholesterol levels by diet and exercise alone
+  - children 8 to 17 years of age with heterozygous familial hypercholesterolemia (an inherited condition that causes high levels of LDL)
 
+Rosuvastatin tablets are not approved for use in children with heterozygous familial hypercholesterolemia younger than 8 years of age or for use in children with homozygous familial hypercholesterolemia younger than 7 years of age.
+
+Rosuvastatin tablets are used to reduce the risk of heart attacks and strokes in men 50 years of age and older and women 60 years of age and older who do not have known heart disease but do have certain additional risk factors.
 It is not known if rosuvastatin tablets are safe and effective in people who have Fredrickson Type I and V dyslipidemias.
-
 Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
@@ -81,10 +84,8 @@ Especially tell your doctor if you take:
 - colchicine (a medicine used to treat gout)
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure.
-
 Know all of the medicines you take.
 Keep a list of them to show your doctor and pharmacist when you get new medicine.
-
 How should I take rosuvastatin tablets?
 
 - Take rosuvastatin tablets exactly as your doctor tells you to take them.
@@ -108,10 +109,9 @@ Rosuvastatin tablets may cause serious side effects, including:
 - Muscle pain, tenderness and weakness (myopathy).
   Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
   Tell your doctor right away if:
-
-- you have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take rosuvastatin tablets.
-- you have muscle problems that do not go away even after your doctor has told you to stop taking rosuvastatin tablets.
-  Your doctor may do further tests to diagnose the cause of your muscle problems.
+  - you have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take rosuvastatin tablets.
+  - you have muscle problems that do not go away even after your doctor has told you to stop taking rosuvastatin tablets.
+    Your doctor may do further tests to diagnose the cause of your muscle problems.
 
 Your chances of getting muscle problems are higher if you:
 
@@ -120,7 +120,6 @@ Your chances of getting muscle problems are higher if you:
 - have thyroid problems (hypothyroidism) that are not controlled
 - have kidney problems
 - are taking higher doses of rosuvastatin tablets
-
 - Liver problems.
   Your doctor should do blood tests to check your liver before you start taking rosuvastatin tablets and if you have symptoms of liver problems while you take rosuvastatin tablets.
   Call your doctor right away if you have any of the following symptoms of liver problems:
@@ -141,7 +140,6 @@ For more information, ask your doctor or pharmacist.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-
 How should I store rosuvastatin tablets?
 
 - Store rosuvastatin tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature] and in a dry place.
@@ -149,23 +147,13 @@ How should I store rosuvastatin tablets?
 - Safely throw away medicine that is out of date or no longer needed.
 
 Keep rosuvastatin tablets and all medicines out of the reach of children.
-
 What are the Ingredients in rosuvastatin tablets?
-
-Active Ingredient: rosuvastatin as rosuvastatin calcium
-
-Inactive Ingredients: crospovidone, dibasic calcium phosphate anhydrous, hypromellose, iron oxide red, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
-
-General Information about the safe and effective use of rosuvastatin tablets
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Active Ingredient: rosuvastatin as rosuvastatin calcium Inactive Ingredients: crospovidone, dibasic calcium phosphate anhydrous, hypromellose, iron oxide red, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
+General Information about the safe and effective use of rosuvastatin tablets Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use rosuvastatin tablets for a condition for which it was not prescribed.
 Do not give rosuvastatin tablets to other people, even if they have the same medical condition you have.
 They may harm them.
-
 You can ask your pharmacist or doctor for information about rosuvastatin tablets that is written for health professionals.
-
 CRESTOR is a trademark of the AstraZeneca group of companies.
-
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2022 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2022 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Patient Information has been approved by the U.S. Food and Drug Administration.

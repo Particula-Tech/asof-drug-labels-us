@@ -44,7 +44,7 @@ Other adverse reactions reported in clinical studies were abdominal pain, dizzin
 The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.5)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
 In a clinical trial, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with rosuvastatin versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
-The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea.
+The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea [see Clinical Studies (14.8)].
 
 Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 2.
 
@@ -71,7 +71,7 @@ Myalgia was the most common adverse reaction that led to treatment discontinuati
 
 There was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
-The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.6)].
+The number of patients with a HbA1c >6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.6) and Clinical Studies (14.9)].
 
 Adverse reactions reported in ≥2% of patients and at a rate greater than placebo are shown in Table 3.
 
@@ -87,6 +87,8 @@ Adverse Reactions1Reported in ≥2% of Patients Treated with Rosuvastatin and > 
 | Nausea | 2.4 | 2.3 |
 
 1 Treatment-emergent adverse reactions by MedDRA preferred term.
+Pediatric Patients with Heterozygous Familial Hypercholesterolemia In a 12-week controlled study in boys and postmenarcheal girls 10 to 17 years of age with heterozygous familial hypercholesterolemia with rosuvastatin 5 to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14.7)], elevations in serum creatine phosphokinase (CK) >10 x ULN were observed more frequently in rosuvastatin compared with placebo-treated children.
+Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK >10 x ULN, compared to 0 of 46 children on placebo.
 
 ## 6.2 Postmarketing Experience
 

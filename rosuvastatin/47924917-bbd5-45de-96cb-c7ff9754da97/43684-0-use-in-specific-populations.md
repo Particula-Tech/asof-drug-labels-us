@@ -55,6 +55,16 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
+In children and adolescents 8 to 17 years of age with heterozygous familial hypercholesterolemia, the safety and effectiveness of rosuvastatin as an adjunct to diet to reduce total cholesterol, LDL-C, and ApoB levels when, after an adequate trial of diet therapy, LDL-C exceeds 190 mg/dL or when LDL-C exceeds 160 mg/dL and there is a positive family history of premature CVD or two or more other CVD risk factors, were established in one controlled trial and in one open-label, uncontrolled trial [see Clinical Studies (14.7)].
+The long-term efficacy of rosuvastatin therapy initiated in childhood to reduce morbidity and mortality in adulthood has not been established.
+The safety and effectiveness of rosuvastatin in children and adolescents 10 to 17 years of age with heterozygous familial hypercholesterolemia were evaluated in a controlled clinical trial of 12 weeks duration followed by 40 weeks of open-label exposure.
+Patients treated with 5 mg, 10 mg, and 20 mg daily rosuvastatin had an adverse experience profile generally similar to that of patients treated with placebo.
+There was no detectable effect of rosuvastatin on growth, weight, BMI (body mass index), or sexual maturation [see Clinical Studies (14.7)] in children and adolescents (10 to 17 years of age).
+Rosuvastatin has not been studied in controlled clinical trials involving prepubertal patients or patients younger than 10 years of age with heterozygous familial hypercholesterolemia.
+However, the safety and effectiveness of rosuvastatin were evaluated in a two year open-label uncontrolled trial that included children and adolescents 8 to 17 years of age with heterozygous familial hypercholesterolemia [see Clinical Studies (14.7)].
+The safety and efficacy of rosuvastatin in lowering LDL-C appeared generally consistent with that observed for adult patients, despite limitations of the uncontrolled study design.
+Although not all adverse reactions identified in the adult population have been observed in clinical trials of children and adolescent patients, the same warnings and precautions for adults should be considered for children and adolescents.
+Adolescent females should be counseled on appropriate contraceptive methods while on rosuvastatin therapy [see Use in Specific Populations (8.1)].
 Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
