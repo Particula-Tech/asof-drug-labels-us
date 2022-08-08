@@ -4,10 +4,6 @@ Esomeprazole Magnesium Delayed-Release Capsules, USP
 
 (es ″ oh mep′ ra zole mag nee′ zee um)
 
-Read the Medication Guide that comes with esomeprazole magnesium delayed-release capsules, USP before you start taking esomeprazole magnesium delayed-release capsules, USP and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or your treatment.
-
 What is the most important information I should know about esomeprazole magnesium delayed-release capsules, USP?
 
 Esomeprazole magnesium delayed-release capsules may help your acid-related symptoms, but you could still have serious stomach problems.
@@ -15,206 +11,143 @@ Talk with your doctor.
 
 Esomeprazole magnesium delayed-release capsules can cause serious side effects, including:
 
-· A type of kidney problem (acute tubulointerstitial nephritis).
-Some people who take proton pump inhibitor (PPI) medicines, including Esomeprazole magnesium, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with Esomeprazole magnesium.
-Call your doctor if you have a decrease in the amount that you urinate or if you have blood in your urine.
-
-- Diarrhea.
-  Esomeprazole magnesium delayed-release capsules may increase your risk of getting severe diarrhea.
-  This diarrhea may be caused by an infection (Clostridium difficile) in your intestines.
-
-Call your doctor right away if you have watery stool, stomach pain, and fever that does not go away.
-
-- Bone fractures.
-  People who take multiple daily doses of PPI medicines for a long period of time (a year or longer) may have an increased risk of fractures of the hip, wrist, or spine.
-  You should take esomeprazole magnesium delayed-release capsules exactly as prescribed, at the lowest dose possible for your treatment and for the shortest time needed.
-  Talk to your doctor about your risk of bone fracture if you take esomeprazole magnesium delayed-release capsules.
+- A type of kidney problem (acute tubulointerstitial nephritis).
+  Some people who take proton pump inhibitor (PPI) medicines, including Esomeprazole magnesium, may develop a kidney problem called acute tubulointerstitial nephritis that can happen at any time during treatment with Esomeprazole magnesium.
+  Call your doctor right away if you have a decrease in the amount that you urinate or if you have blood in your urine.
+- Diarrhea caused by an infection (Clostridium difficile) in your intestines.
+  Call your doctor right away if you have watery stools or stomach pain that does not go away.
+  You may or may not have a fever.
+- Bone fractures (hip, wrist, or spine).
+  Bone fractures in the hip, wrist, or spine may happen in people who take multiple daily doses of PPI medicines and for a long period of time (a year or longer).
+  Tell your doctor if you have a bone fracture, especially in the hip, wrist, or spine.
+  Talk to your doctor about your risk of these serious side effects.
+  Esomeprazole magnesium delayed-release capsules can have other serious side effects.
+  See “What are the possible side effects of esomeprazole magnesium delayed-release capsules?”
+  What is esomeprazole magnesium delayed-release capsules?
+  A prescription medicine called a proton pump inhibitor (PPI) used to reduce the amount of acid in your stomach.
+  Esomeprazole magnesium is used in adults for:
+- 4 to 8 weeks for the healing and symptom relief of acid-related damage to the esophagus (erosive esophagitis or EE).
+  Your doctor may prescribe another 4 to 8 weeks of esomeprazole magnesium in patients whose EE does not heal.
+- maintaining healing of EE.
+- 4 to 8 weeks to treat heartburn and other symptoms that happen with gastroesophageal reflux disease (GERD).
+- up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
+- treating patients with a stomach infection (Helicobacter pylori) and a stomach ulcer, along with the antibiotics amoxicillin and clarithromycin.
+- the long-term treatment of conditions where your stomach makes too much acid, including Zollinger-Ellison Syndrome.
+  Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
+  Esomeprazole magnesium is used in children and adolescents 12 to 17 years of age for:
+- 4 to 8 weeks to heal EE.
+- 4 weeks to treat heartburn and other symptoms that happen with GERD.
+  Esomeprazole magnesium is used in children 1 to 11 years of age for:
+- 8 weeks to heal EE.
+- up to 8 weeks to treat heartburn and other symptoms that happen with GERD.
+  It is not known if esomeprazole magnesium is safe and effective in children under 1 month of age for the treatment of GERD with EE.
+  It is not known if esomeprazole magnesium is safe and effective in children less than 1 year of age for the treatment of GERD symptoms.
+  It is not known if esomeprazole magnesium is safe and effective in children to reduce the risk of stomach ulcers in children who take medicines called NSAIDs, to treat Helicobacter pylori stomach infection to lower the risk of a stomach ulcer returning, and to treat conditions where your stomach makes too much acid.
+  Do not take esomeprazole magnesium if you are:
+- allergic to esomeprazole magnesium, any other PPI medicine, or any of the ingredients in esomeprazole magnesium.
+  See the end of this Medication Guide for a complete list of ingredients in esomeprazole magnesium.
+  Tell your doctor right away or get emergency medical help if you get any of the following symptoms of an allergic reaction with esomeprazole magnesium: o rasho throat tightnesso face swellingo difficulty breathing
+- taking a medicine that contains rilpivirine (EDURANT, COMPLERA, ODEFSEY) used to treat HIV-1 (Human Immunodeficiency Virus).
+  Before taking esomeprazole magnesium, tell your doctor about all of your medical conditions, including if you:
+- have low magnesium levels, low calcium levels and low potassium levels in your blood.
+- have liver problems.
+- are pregnant or plan to become pregnant.
+  It is not known if esomeprazole magnesium will harm your unborn baby.
+- are breastfeeding or planning to breastfeed.
+  Esomeprazole magnesium may pass into your breast milk.
+  Talk to your doctor about the best way to feed your baby if you take esomeprazole magnesium.
+  Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+  Especially tell your doctor if you take: clopidogrel (Plavix), methotrexate (Otrxup, Rasuvo, Trexall, XATMEP), digoxin (LANOXIN), rilpivirine (EDURANT), St. John’s Wort (Hypericum perforatum), or rifampin (Rimactane, Rifater, Rifamate) How should I take esomeprazole magnesium?
+- Take esomeprazole magnesium exactly as prescribed by your doctor.
+- Do not change your dose or stop esomeprazole magnesium without talking to your doctor.
+- Take esomeprazole magnesium at least 1 hour before a meal.
+- Antacids may be taken with esomeprazole magnesium.
+- Swallow esomeprazole magnesium capsules whole.
+  Never chew or crush esomeprazole magnesium.
+- If you have difficulty swallowing esomeprazole magnesium capsules, you may open the capsule and empty the granules into 1 tablespoon of applesauce.
+  The applesauce used should not be hot and should be soft enough to swallow without chewing.
+  Do not mix the esomeprazole magnesium granules with any other food.
+- Do not crush or chew the granules.
+  Be sure to swallow the applesauce right away.
+  Throw away any remaining mixture.
+  Do not store it for later use.
+- If you forget to take a dose of esomeprazole magnesium, take it as soon as you remember.
+  If it is almost time for your next dose, do not take the missed dose.
+  Take the next dose on time.
+  Do not take a double dose to make up for a missed dose.
+- If you take too much esomeprazole magnesium, call your doctor or local poison control center right away at 1-800-222-1222, or go to the nearest hospital emergency room.
+- See the Instructions for Use at the end of this Medication Guide for instructions how to mix and give esomeprazole magnesium delayed-release capsules through a nasogastric tube or gastric tube.
+  What are the possible side effects of esomeprazole magnesium?
+  Esomeprazole magnesium can cause serious side effects, including:
+- See “What is the most important information I should know about esomeprazole magnesium?”
+- Low vitamin B-12 levels in your body can happen in people who have taken esomeprazole magnesium for a long time (more than 3 years).
+  Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
+- Low magnesium levels in your body can happen in people who have taken esomeprazole magnesium for at least 3 months.
+  Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
+- Stomach growths (fundic gland polyps).
+  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
+- Severe skin reactions.
+  Esomeprazole magnesium can cause rare but severe skin reactions that may affect any part of your body.
+  These serious skin reactions may need to be treated in a hospital and may be life threatening: • Skin rash which may have blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet). • You may also have fever, chills, body aches, shortness of breath, or enlarged lymph nodes.
+  Stop taking esomeprazole magnesium and call your doctor right away.
+  These symptoms may be the first sign of a severe skin reaction.The most common side effects of esomeprazole magnesium include: · headache· stomach (abdominal) pain· diarrhea· constipation· nausea· dry mouth· gas These are not all the possible side effects of esomeprazole magnesium.
+  Call your doctor for medical advice about side effects.
+  You may report side effects to FDA at 1-800-FDA-1088.
+  How should I store esomeprazole magnesium?
+- Store esomeprazole magnesium at room temperature between 68°F to 77°F (20°C to 25°C).
+- Keep the container of esomeprazole magnesium closed tightly.
 
 - Certain types of lupus erythematosus.
   Lupus erythematosus is an autoimmune disorder (the body’s immune cells attack other cells or organs in the body).
   Some people who take PPI medicines, including Esomeprazole magnesium, may develop certain types of lupus erythematosus or have worsening of the lupus they already have.
   Call your doctor right away if you have new or worsening joint pain or a rash on your cheeks or arms that gets worse in the sun.
 
-Esomeprazole magnesium delayed-release capsules can have other serious side effects.
-See “What are the possible side effects of Esomeprazole magnesium delayed-release capsules?”
+Keep esomeprazole magnesium and all medicines out of the reach of children.
 
-What is esomeprazole magnesium delayed-release capsules, USP?
-
-Esomeprazole magnesium delayed-release capsules, USP is a prescription medicine called a proton pump inhibitor (PPI).
-Esomeprazole magnesium delayed-release capsules reduces the amount of acid in your stomach.
-
-Esomeprazole magnesium delayed-release capsules, USP is used in adults:
-
-- for 4 to 8 weeks to treat the symptoms of gastroesophageal reflux disease (GERD).
-  Esomeprazole magnesium may also be prescribed to heal acid-related damage to the lining of the esophagus (erosive esophagitis), and to help continue this healing.
-
-GERD happens when acid in your stomach backs up into the tube (esophagus) that connects your mouth to your stomach.
-This may cause a burning feeling in your chest or throat, sour taste, or burping.
-
-- for up to 6 months to reduce the risk of stomach ulcers in some people taking pain medicines called non-steroidal anti-inflammatory drugs (NSAIDs).
-- to treat patients with a stomach infection (Helicobacter pylori), along with the antibiotics amoxicillin and clarithromycin.
-- for the long-term treatment of conditions where your stomach makes too much acid, including Zollinger- Ellison Syndrome.
-  Zollinger-Ellison Syndrome is a rare condition in which the stomach produces a more than normal amount of acid.
-
-For children and adolescents 1 year to 17 years of age, esomeprazole magnesium delayed-release capsules may be prescribed for up to 8 weeks for short-term treatment of GERD.
-
-Who should not take esomeprazole magnesium delayed-release capsules, USP?
-
-Do not take esomeprazole magnesium delayed-release capsules, USP if you:
-
-- are allergic to esomeprazole magnesium or any of the ingredients in esomeprazole magnesium delayed-release capsules, USP.
-  See the end of this Medication Guide for a complete list of ingredients in esomeprazole magnesium delayed-release capsules, USP.
-- are allergic to any other PPI medicine.
-
-What should I tell my doctor before taking esomeprazole magnesium delayed-release capsules?
-
-Before you take esomeprazole magnesium delayed-release capsules, tell your doctor if you:
-
-- have been told that you have low magnesium levels in your blood.
-- have liver problems.
-- are pregnant or plan to become pregnant.
-  It is not known if esomeprazole magnesium can harm your unborn baby.
-- are breastfeeding or planning to breastfeed.
-  Esomeprazole magnesium may pass into your breast milk.
-  Talk to your doctor about the best way to feed your baby if you take esomeprazole magnesium delayed-release capsules.
-
-Tell your doctor about all of the medicines you take,
-
-including prescription and non-prescription drugs, vitamins and herbal supplements. esomeprazole magnesium delayed-release capsules, USP may affect how other medicines work, and other medicines may affect how esomeprazole magnesium delayed-release capsules, USP works.
-
-Especially tell your doctor if you take:
-
-- warfarin (Coumadin, Jantoven)
-- ketoconazole (Nizoral)
-- voriconazole (Vfend)
-- atazanavir (Reyataz)
-- nelfinavir (Viracept)
-- saquinavir (Fortovase)
-- products that contain iron
-- digoxin (Lanoxin)
-- St.John’s Wort (Hypericum perforatum)
-- Rifampin (Rimactane, Rifater, Rifamate)
-- cilostazol (Pletal)
-- diazepam (Valium)
-- tacrolimus (Prograf)
-- erlotinib (Tarceva)
-- methotrexate
-- clopidogrel (Plavix)
-- mycophenolate mofetil (Cellcept)
-
-How should I take esomeprazole magnesium delayed-release capsules, USP?
-
-- Take esomeprazole magnesium delayed-release capsules, USP exactly as prescribed by your doctor.
-- Do not change your dose or stop esomeprazole magnesium delayed-release capsules, USP without talking to your doctor.
-- Take esomeprazole magnesium delayed-release capsules, USP at least 1 hour before a meal.
-- Swallow esomeprazole magnesium delayed-release capsules, USP capsules whole.
-  Never chew or crush esomeprazole magnesium delayed-release capsules, USP.
-- If you have difficulty swallowing esomeprazole magnesium delayed-release capsules, USP you may open the capsule and empty the contents into a tablespoon of applesauce.
-  Do not crush or chew the granules.
-  Be sure to swallow the applesauce right away.
-  Do not store it for later use.
-- If you forget to take a dose of esomeprazole magnesium delayed-release capsules, USP take it as soon as you remember.
-  If it is almost time for your next dose, do not take the missed dose.
-  Take the next dose on time.
-  Do not take a double dose to make up for a missed dose.
-- If you take too much esomeprazole magnesium delayed-release capsules, USP, call your doctor or local poison control center right away, or go to the nearest hospital emergency room.
-- See the “Instructions for Use” at the end of this Medication Guide for instructions how to mix and give esomeprazole magnesium delayed-release capsules, USP through a nasogastric tube.
-
-What are the possible side effects of esomeprazole magnesium delayed-release capsules?
-
-Esomeprazole magnesium delayed-release capsules can cause serious side effects, including:
-
-- See “What is the most important information I should know about esomeprazole magnesium delayed-release capsules?”
-- Vitamin B-12 deficiency.
-  Esomeprazole magnesium delayed-release capsules reduces the amount of acid in your stomach.
-  Stomach acid is needed to absorb vitamin B-12 properly.
-  Talk with your doctor about the possibility of vitamin B-12 deficiency if you have been on esomeprazole magnesium delayed-release capsules for a long time (more than 3 years).
-- Low magnesium levels in your body.
-  Low magnesium can happen in some people who take a PPI medicine for at least 3 months.
-  If low magnesium levels happen, it is usually after a year of treatment.
-
-You may or may not have symptoms of low magnesium.
-
-Tell your doctor right away if you have any of these symptoms:
-
-- seizures
-- dizziness
-- abnormal or fast heart beat
-- jitteriness
-- jerking movements or shaking (tremors)
-- muscle weakness
-- spasms of the hands and feet
-- cramps or muscle aches
-- spasm of the voice box
-
-Your doctor may check the level of magnesium in your body before you start taking esomeprazole magnesium delayed-release capsules, USP or during treatment if you will be taking esomeprazole magnesium delayed-release capsules, USP for a long period of time.
-
-- Stomach growths (fundic gland polyps).
-  People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
-
-The most common side effects with esomeprazole magnesium delayed-release capsules may include:
-
-- headache
-- diarrhea
-- nausea
-- gas
-- abdominal pain
-- constipation
-- dry mouth
-- drowsiness
-
-Other side effects: Serious allergic reactions.
-Tell your doctor if you get any of the following symptoms with esomeprazole magnesium delayed-release capsules:
-
-- rash
-- face swelling
-- throat tightness
-- difficulty breathing
-
-Your doctor may stop esomeprazole magnesium delayed-release capsules if these symptoms happen.
-Tell your doctor if you have any side effects that bother you or that do not go away.
-These are not all the possible side effects with esomeprazole magnesium delayed-release capsules.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-How should I store esomeprazole magnesium delayed-release capsules, USP?
-
-- Store esomeprazole magnesium delayed-release capsules, USP at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
-- Keep the container of esomeprazole magnesium delayed-release capsules, USP closed tightly.
-
-Keep esomeprazole magnesium delayed-release capsules, USP and all medicines out of the reach of children.
-General information about esomeprazole magnesium delayed-release capsules, USP
+General information about the safe and effective use of esomeprazole magnesium.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use esomeprazole magnesium delayed-release capsules, USP for a condition for which it was not prescribed.
-Do not give esomeprazole magnesium delayed-release capsules, USP to other people, even if they have the same symptoms you have.
+Do not use esomeprazole magnesium for a condition for which it was not prescribed.
+Do not give esomeprazole magnesium to other people, even if they have the same symptoms you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about esomeprazole magnesium delayed-release capsules, USP.
-If you would like more information, talk with your doctor.
-You can ask your pharmacist or doctor for information about esomeprazole magnesium delayed-release capsules, USP that is written for health professionals.
-
-For more information, call at 1-877-ASC-RX01 (877-272-7901).
+You can ask your pharmacist or doctor for information about esomeprazole magnesium that is written for health professionals.
 
 What are the ingredients in esomeprazole magnesium delayed-release capsules, USP?
 
 Active ingredient: esomeprazole magnesium dihydrate
 
-Inactive ingredients in esomeprazole magnesium delayed-release capsules, USP: Colloidal silicon dioxide, hypromellose, isopropyl alcohol, magnesium stearate, meglumine, methacrylic acid copolymer dispersion, methyl alcohol, methylene chloride, mono & diglycerides, poloxamer, Talc, triethyl citrate, and Sugar spheres (composed of sucrose, maize starch and purified water).
+Inactive ingredients in esomeprazole magnesium delayed-release capsules, USP:
+
+Colloidal silicon dioxide, hypromellose, isopropyl alcohol, magnesium stearate, meglumine, methacrylic acid copolymer dispersion, methyl alcohol, methylene chloride, mono & diglycerides, poloxamer, Talc, triethyl citrate, and Sugar spheres (composed of sucrose, maize starch and purified water).
 
 The capsule shells and Imprinting Ink have the following inactive ingredients: Capsule shell: FD & C Blue 1, FD & C Red 40, gelatin, sodium lauryl sulphate and titanium dioxide and Imprinting Ink: butyl alcohol, dehydrated alcohol, isopropyl alcohol, propylene glycol, Shellac, strong ammonia solution, and yellow iron oxide.
 
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Manufactured by:
+
+Alkem Laboratories Ltd.,
+
+INDIA.
+
+Distributed by:
+
+Ascend Laboratories, LLC
+
+Parsippany, NJ 07054
+
+Revised: March, 2022
+
 Instructions for Use
 
-For instructions on taking Delayed-Release Capsules, see the section of this leaflet called “How should I take esomeprazole magnesium delayed-release capsules, USP?”
-
-Esomeprazole magnesium delayed-release capsules, USP may be given through a nasogastric tube (NG tube), as prescribed by your doctor.
-Follow the instructions below:
-
-Esomeprazole magnesium delayed-release capsules, USP:
+For instructions on taking Delayed-Release Capsules, see the section of this leaflet called "How should I take esomeprazole magnesium delayed release capsules?"
+Esomeprazole magnesium delayed-release capsules may be given through a nasogastric tube (NG tube) or gastric tube, as prescribed by your doctor.
+Follow the instructions below: Esomeprazole magnesium delayed-release capsules:
 
 - Open the capsule and empty the granules into a 60 mL catheter tipped syringe.
   Mix with 50 mL of water.
-  Use only a catheter tipped syringe to give esomeprazole magnesium delayed-release capsules, USP through a NG tube.
+  Use only a catheter tipped syringe to give esomeprazole magnesium through a NG tube.
 - Replace the plunger and shake the syringe well for 15 seconds.
   Hold the syringe with the tip up and check for granules in the tip.
 - Give the medicine right away.
@@ -223,17 +156,11 @@ Esomeprazole magnesium delayed-release capsules, USP:
   Give the medicine in the syringe through the NG tube into the stomach.
 - After giving the granules, flush the NG tube with more water.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured by:
 
-Manufactured in India by:
+Alkem Laboratories Ltd.,
 
-Alkem Laboratories Limited
-
-H.O.: ALKEM HOUSE,
-
-Senapati Bapat Marg, Lower Parel,
-
-Mumbai – 400 013, INDIA
+INDIA.
 
 Distributed by:
 
@@ -241,6 +168,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: March, 2021
+Revised: March, 2022
 
-PT 2444-03
+PT2444-05

@@ -1,90 +1,78 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Esomeprazole magnesium is supplied as delayed-release capsules, USP for oral administration.
-The recommended dosages are outlined in Table 1.
-Esomeprazole magnesium should be taken at least one hour before meals.
+## 2.1 Recommended Dosage in Adults by Indication
 
-The duration of proton pump inhibitor administration should be based on available safety and efficacy data specific to the defined indication and dosing frequency, as described in the prescribing information, and individual patient medical needs.
-Proton pump inhibitor treatment should only be initiated and continued if the benefits outweigh the risks of treatment.
+Table 1 shows the recommended adult dosage of esomeprazole magnesium by indication.
 
-Table 1: Recommended Dosage Schedule for esomeprazole magnesium
+The duration of esomeprazole magnesium treatment should be based on available safety and efficacy data specific to the defined indication and dosing frequency and individual patient medical needs.
+Esomeprazole magnesium should only be initiated and continued if the benefits outweigh the risks of treatment.
 
-| Indication | Dose | Frequency |
+Table 1: Recommended Dosage of esomeprazole magnesium in Adults by Indication
+
+| Adult Indication | Recommended Dosage of esomeprazole magnesium delayed-release capsules | Treatment Duration |
 | --- | --- | --- |
-| Gastroesophageal Reflux Disease (GERD) |  |  |
-| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks1 |
-| Maintenance of Healing of Erosive Esophagitis | 20 mg | Once Daily2 |
-| Symptomatic Gastroesophageal Reflux Disease | 20 mg | Once Daily for 4 Weeks3 |
-| Pediatric GERD |  |  |
-| 12 to 17 Year Olds |  |  |
-| Healing of Erosive Esophagitis | 20 mg or 40 mg | Once Daily for 4 to 8 Weeks |
-| Symptomatic GERD | 20 mg | Once Daily for 4 Weeks |
-| 1 to 11 Year Olds4 |  |  |
-| Short-term Treatment of Symptomatic GERD | 10 mg | Once Daily for up to 8 Weeks |
-| Healing of Erosive Esophagitis weight < 20 kg weight > 20 kg | 10 mg 10 mg or 20 mg | Once Daily for 8 Weeks Once Daily for 8 Weeks |
-| Risk Reduction of NSAID- Associated Gastric Ulcer | 20 mg or 40 mg | Once Daily for up to 6 months2 |
-| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence |  |  |
-| Triple Therapy: |  |  |
-| Esomeprazole magnesium | 40 mg | Once Daily for 10 Days |
-| Amoxicillin | 1000 mg | Twice Daily for 10 Days |
-| Clarithromycin | 500 mg | Twice Daily for 10 Days |
-| Pathological Hypersecretory Conditions Including Zollinger- Ellison Syndrome | 40 mg6 | Twice Daily7 |
+| Healing of EE | 20 mg or 40 mg1 once daily | 4 to 8 weeks2 Controlled studies do not extend beyond 6 months 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks Controlled studies do not extend beyond 6 months |
+| Maintenance of Healing of EE | 20 mg once daily |  |
+| Treatment of Symptomatic GERD | 20 mg once daily |  |
+| Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg1 once daily |  |
+| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | esomeprazole magnesium 40 mg once daily1 Amoxicillin 1000 mg twice daily3 Clarithromycin 500 mg twice daily3 Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs. | 10 days 10 days 10 days |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
 
-1.
-[See Clinical Studies (14.1)] The majority of patients are healed within 4 to 8 weeks.
-For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be considered.
+1. A maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)].
+2. Most patients are healed within 4 to 8 weeks.
+   For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be required to achieve healing [see Clinical Studies (14.1)].
+3. Refer to the amoxicillin and clarithromycin prescribing information for dosage adjustments in elderly and renally-impaired patients.
+4. A starting dosage of 20 mg twice daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)].
 
-2.
-Controlled studies did not extend beyond six months.
+## 2.2 Recommended Dosage in Pediatric Patients by Indication
 
-3.
-If symptoms do not resolve completely after 4 weeks, an additional 4 weeks of treatment may be considered.
+Table 2 shows the recommended dosage of esomeprazole magnesium in pediatric patients by indication.
 
-4.
-Doses over 1 mg/kg/day have not been studied.
+Table 2: Recommended Dosage of Esomeprazole Magnesium in Pediatric Patients by Indication
 
-6.
-The dosage of esomeprazole magnesium in patients with pathological hypersecretory conditions varies with the individual patient.
-Dosage regimens should be adjusted to individual patient needs.
+| Indication | Patient Age | Recommended Dosage | Duration |
+| --- | --- | --- | --- |
+| Healing of EE | 12 years to 17 years | Esomeprazole magnesium delayed-release capsules: 20 mg or 40 mg once daily | 4 to 8 Weeks |
+| Treatment of Symptomatic GERD | 12 years to 17 years | Esomeprazole magnesium delayed-release capsules: 20 mg once daily | 4 weeks |
 
-7.
-Doses up to 240 mg daily have been administered [see Drug Interactions (7)].
+1 Dosages over 1 mg/kg/day have not been studied
 
-Please refer to amoxicillin and clarithromycin prescribing information for Contraindications, Warnings, and dosing in elderly and renally-impaired patients.
+2 Dosages over 1.33 mg/kg/day have not been studied
 
-Specific Populations
+## 2.3 Preparation and Administration Instructions
 
-Hepatic Insufficiency
+- Take esomeprazole magnesium delayed-release capsules at least one hour before meals [see Clinical Pharmacology (12.3)].
+- Antacids may be used concomitantly with esomeprazole magnesium.
+- Take a missed dose as soon as possible.
+  If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
+  Do not take 2 doses at the same time.
 
-In patients with mild to moderate liver impairment (Child-Pugh Classes A and B), no dosage adjustment is necessary.
-For patients with severe liver impairment (Child-Pugh Class C), a dose of 20 mg of esomeprazole magnesium should not be exceeded [see Clinical Pharmacology (12.3)].
+Esomeprazole Magnesium Delayed-Release Capsules
 
-Directions for use specific to the route and available methods of administration for each of these dosage forms are presented in Table 2.
+Administer esomeprazole magnesium delayed-release capsules orally or via a nasogastric tube, as described below.
 
-Table 2: Administration Options
+Oral Administration
 
-| Administration Options (See text following table for additional instructions.) |  |  |
-| --- | --- | --- |
-| Dosage Form | Route | Options |
-| Delayed-Release Capsules | Oral | Capsule can be swallowed whole. -or- Capsule can be opened and mixed with applesauce. |
-| Delayed-Release Capsules | Nasogastric Tube | Capsule can be opened and the intact granules emptied into a syringe and delivered through the nasogastric tube. |
+- Swallow esomeprazole magnesium delayed-release capsules whole; do not chew or crush the capsules.
+- For patients who have difficulty swallowing capsules, esomeprazole magnesium delayed-release capsules can be opened, and the contents sprinkled on applesauce.
+  Use with other foods has not been evaluated and is not recommended.
 
-Esomeprazole magnesium delayed-release capsules, USP
+1. Add one tablespoon of applesauce to an empty bowl.
+   The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
+2. Open the esomeprazole magnesium delayed-release capsule and carefully empty the granules inside the capsule onto the applesauce.
+3. Mix the granules with the applesauce.
+4. Administer the mixture immediately.
+   Do not chew or crush the granules
+5. Discard any remaining mixture.
+   Do not store the mixture for future use.
 
-Esomeprazole magnesium delayed-release capsules, USP should be swallowed whole.
+Administration via Nasogastric Tube
 
-Alternatively, for patients who have difficulty swallowing capsules, one tablespoon of applesauce can be added to an empty bowl and the esomeprazole magnesium delayed-release capsules, USP can be opened, and the granules inside the capsule carefully emptied onto the applesauce.
-The granules should be mixed with the applesauce and then swallowed immediately: do not store for future use.
-The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
-The granules should not be chewed or crushed.
-If the granules/applesauce mixture is not used in its entirety, the remaining mixture should be discarded immediately.
-
-For patients who have a nasogastric tube in place, esomeprazole magnesium delayed-release, capsules USP can be opened and the intact granules emptied into a 60 mL catheter tipped syringe and mixed with 50 mL of water.
-It is important to only use a catheter tipped syringe when administering esomeprazole magnesium through a nasogastric tube.
-Replace the plunger and shake the syringe vigorously for 15 seconds.
-Hold the syringe with the tip up and check for granules remaining in the tip.
-Attach the syringe to a nasogastric tube and deliver the contents of the syringe through the nasogastric tube into the stomach.
-After administering the granules, the nasogastric tube should be flushed with additional water.
-Do not administer the granules if they have dissolved or disintegrated.
-
-The mixture must be used immediately after preparation.
+1. Open the esomeprazole magnesium delayed-release capsule and empty the granules into a 60 mL catheter-tipped syringe.
+2. Mix the granules with 50 mL of water.
+3. Replace the plunger and shake the catheter-tipped syringe vigorously for 15 seconds.
+4. Hold the catheter-tipped syringe with the tip up and check for any granules remaining in the tip.
+5. Attach the catheter-tipped syringe to a nasogastric tube and deliver the contents of the syringe through the nasogastric tube into the stomach.
+6. After administering the granules, flush the nasogastric tube with additional water.
+7. Use the mixture immediately after preparation.
+   Do not administer the granules if they have dissolved or disintegrated.
