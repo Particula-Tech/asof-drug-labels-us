@@ -20,6 +20,7 @@ Rx only
 
 1. 62000000052698 Rev.
    8/20
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -43,6 +44,7 @@ Rx only
 
 1. 62000000052700 Rev.
    8/20
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -79,3 +81,4 @@ Made in India
 
 1. 62000000052692 Rev.
    08/20
+2. 
