@@ -75,7 +75,6 @@ Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, es
 Except in life-threatening situations, avoid this combination.
 
 Furosemide should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.
-
 Patients receiving high doses of salicylates concomitantly with furosemide, as in rheumatic disease, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
 
 There is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly.
@@ -160,7 +159,6 @@ Furosemide may inhibit lactation.
 ## Pediatric Use
 
 In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis.
-
 Nephrocalcinosis/nephrolithiasis has also been observed in children under 4 years of age with no history of prematurity who have been treated chronically with furosemide.
 Monitor renal function, and renal ultrasonography should be considered, in pediatric patients receiving furosemide.
 
