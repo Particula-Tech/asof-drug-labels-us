@@ -70,7 +70,7 @@ Constipation Advise patients of the potential for severe constipation, including
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2021 Mallinckrodt.
+© 2022 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA Made in USA
 
