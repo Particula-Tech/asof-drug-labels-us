@@ -28,7 +28,7 @@ Table 3 Selected Adverse Reactionsa (Grades 2–4) Reported in ≥5% in Any Trea
 | Dizziness | 8% | 7% |
 | Upper respiratory tract infections | 8% | 5% |
 | Sinusitis | 8% | 4% |
-| Rash eventc | 7% | 9% |
+| Rash event c | 7% | 9% |
 | Headache | 6% | 5% |
 | Insomnia | 5% | 7% |
 | Nasopharyngitis | 5% | 3% |
@@ -63,7 +63,7 @@ Table 4 Significant Laboratory Abnormalities Reported in ≥1% of Subjects in An
 a. From Weeks 96 to 144 of the trial, subjects received emtricitabine and tenofovir disoproxil fumarate tablets with efavirenz in place of FTC+TDF with efavirenz.
 
 Clinical Trials in Pediatric Subjects Emtricitabine: In addition to the adverse reactions reported in adults, anemia and hyperpigmentation were observed in 7% and 32%, respectively, of pediatric subjects (3 months to less than 18 years of age) who received treatment with FTC in the larger of two open-label, uncontrolled pediatric trials (N=116).
-Tenofovir Disoproxil Fumarate: In pediatric clinical trials (Studies 352 and 321) conducted in 184 HIV1 infected subjects 2 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with TDF were consistent with those observed in clinical trials of TDF in adults.
+Tenofovir Disoproxil Fumarate: In pediatric clinical trials (Studies 352 and 321) conducted in 184 HIV-1 infected subjects 2 to less than 18 years of age, the adverse reactions observed in pediatric subjects who received treatment with TDF were consistent with those observed in clinical trials of TDF in adults.
 In Study 352 (2 to less than 12 years of age), 89 pediatric subjects received TDF for a median exposure of 104 weeks.
 Of these, 4 subjects discontinued from the trial due to adverse reactions consistent with proximal renal tubulopathy.
 Three of these 4 subjects presented with hypophosphatemia and had decreases in total body or spine BMD Z-score [see Warnings and Precautions (5.5)].
@@ -90,14 +90,14 @@ Table 5 Selected Adverse Events (All Grades) Reported in ≥2% in Any Treatment 
 | Headache Abdominal pain Weight decreased | 7% 4% 3% | 6% 2% 2% |
 
 In the Partners PrEP trial, the frequency of adverse events in the emtricitabine and tenofovir disoproxil fumarate tablets treatment group was generally either less than or the same as in the placebo group.
-Laboratory Abnormalities: Table 6 provides a list of Grade 2-4 laboratory abnormalities observed in the iPrEx and Partners PrEP trials.
+Laboratory Abnormalities: Table 6 provides a list of Grade 2 to 4 laboratory abnormalities observed in the iPrEx and Partners PrEP trials.
 Six subjects in the TDF-containing arms of the Partners PrEP trial discontinued from the trial due to an increase in serum creatinine compared with no discontinuations in the placebo group.
-One subject in the Emtricitabine and tenofovir disoproxil fumarate tablets arm of the iPrEx trial discontinued from the trial due to an increase in serum creatinine and another subject discontinued due to low serum phosphorus.
-Grades 2−3 proteinuria (2-4+) and/or glycosuria (3+) occurred in less than 1% of subjects treated with emtricitabine and tenofovir disoproxil fumarate tablets in the iPrEx trial and Partners PrEP trial.
+One subject in the emtricitabine and tenofovir disoproxil fumarate tablets arm of the iPrEx trial discontinued from the trial due to an increase in serum creatinine and another subject discontinued due to low serum phosphorus.
+Grades 2 to 3 proteinuria (2 to 4+) and/or glycosuria (3+) occurred in less than 1% of subjects treated with emtricitabine and tenofovir disoproxil fumarate tablets in the iPrEx trial and Partners PrEP trial.
 
 Table 6 Laboratory Abnormalities (Highest Toxicity Grade Reported for Each Subject) in the iPrEx Trial and Partners PrEP Trial
 
-| Grade 2-4a | iPrEx Trial |  | Partners PrEP Trial |  |
+| Grade 2 to 4a | iPrEx Trial |  | Partners PrEP Trial |  |
 | --- | --- | --- | --- | --- |
 | FTC/TDF (N=1251) | Placebo (N=1248) | FTC/TDF (N=1579) | Placebo(N=1584) |  |
 | Creatinine (>1.4 x ULN) | <1% | <1% | <1% | <1% |

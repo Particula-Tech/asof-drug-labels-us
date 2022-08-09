@@ -52,8 +52,8 @@ Emtricitabine and Tenofovir Disoproxil Fumarate: FTC and tenofovir pharmacokinet
 
 Pediatric Patients
 
-Treatment of HIV-1 Infection: The pharmacokinetic data for tenofovir and FTC following administration of Emtricitabine and tenofovir disoproxil fumarate tablets in pediatric subjects weighing 17 kg and above are not available.
-The dosage recommendations of Emtricitabine and tenofovir disoproxil fumarate tablets in this population are based on the dosage recommendations of FTC and TDF in this population.
+Treatment of HIV-1 Infection: The pharmacokinetic data for tenofovir and FTC following administration of emtricitabine and tenofovir disoproxil fumarate tablets in pediatric subjects weighing 17 kg and above are not available.
+The dosage recommendations of emtricitabine and tenofovir disoproxil fumarate tablets in this population are based on the dosage recommendations of FTC and TDF in this population.
 Refer to the EMTRIVA and VIREAD prescribing information for pharmacokinetic information on the individual products in pediatric patients.
 HIV-1 PrEP: The pharmacokinetic data for tenofovir and FTC following administration of emtricitabine and tenofovir disoproxil fumarate tablets in HIV-1 uninfected adolescents weighing 35 kg and above are not available.
 The dosage recommendations of emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP in this population are based on safety and adherence data from the ATN113 trial [see Use in Specific Populations (8.4)] and known pharmacokinetic information in HIV-infected adolescents taking TDF and FTC for treatment.
@@ -123,19 +123,20 @@ Table 11 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 | Ledipasvir/ Sofosbuvirh | 90/400 once daily x14 days | 15 | ↑79 (↑56 to ↑104) | ↑98 (↑77 to ↑123) | ↑163 (↑132 to ↑197) |
 | Ledipasvir/ Sofosbuviri | 90/400 once daily x10 days | 14 | ↑32 (↑25 to ↑39) | ↑40 (↑31 to ↑50) | ↑91 (↑74 to ↑110) |
 | Ledipasvir/ Sofosbuvirj | 90/400 once daily x10 days | 29 | ↑61 (↑51 to ↑72) | ↑65 (↑59 to ↑71) | ↑115 (↑105 to ↑126) |
-| Lopinavir/ Ritonavirj | 400/100 twice daily x 14 days | 24 | ó | ↑32 (↑25 to ↑38) | ↑51 (↑37 to ↑66) |
+| Lopinavir/ Ritonavir | 400/100 twice daily x 14 days | 24 | ó | ↑32 (↑25 to ↑38) | ↑51 (↑37 to ↑66) |
 | Saquinavir/ Ritonavir | 1000/100 twice daily x 14 days | 35 | ó | ó | ↑23 (↑16 to ↑ 30) |
 | Sofosbuvirk | 400 single dose | 16 | ↑25 (↑8 to ↑45) | ó | ó |
-| Sofosbuvir/Velpatasvir l | 400/100 Once daily | 30 | ↑ 46 (↑39 to ↑54) | ↑ 40 (↑34 to ↑45) | ↑ 70 (↑61 to ↑79) |
-| Sofosbuvir/Velpatasvir m/Voxilaprevir | 400/100/100+ Voxilaprevir Once daily | 29 | ↑ 48 (↑36 to ↑61) | ↑ 39 (↑32 to ↑46) | ↑ 47 (↑38 to ↑56) |
+| Sofosbuvir/ Velpatasvirl | 400/100 once daily | 24 | ↑44 (↑33 to ↑55) | ↑40 (↑34 to ↑46) | ↑84 (↑76 to ↑92) |
+| Sofosbuvir/Velpatasvirm | 400/100 once daily | 30 | ↑ 46 (↑39 to ↑54) | ↑ 40 (↑34 to ↑45) | ↑ 70 (↑61 to ↑79) |
+| Sofosbuvir/Velpatasvir /Voxilaprevirn | 400/100/100+ Voxilapreviro 100 once daily | 29 | ↑ 48 (↑36 to ↑61) | ↑ 39 (↑32 to ↑46) | ↑ 47 (↑38 to ↑56) |
 | Tacrolimus | 0.05mg/kg twice daily X 7 days | 21 | ↑ 13(↑1 to ↑27) | ó | ó |
-| Tipranavir/ Ritonavirk | 500/100 twice daily | 22 | ↓23 (↓32 to ↓13) | ↓2 (↓9 to ↑ 5) | ↑7 (↓2 to ↑17) |
+| Tipranavir/ Ritonavirp | 500/100 twice daily | 22 | ↓23 (↓32 to ↓13) | ↓2 (↓9 to ↑5) | ↑7 (↓2 to ↑17) |
 | 750/200 twice daily (23 doses) | 20 | ↓38 (↓46 to ↓29) | ↑2 (↓6 to ↑ 10) | ↑14 (↑1 to ↑ 27) |  |
 
 a. Subjects received VIREAD 300 mg once daily b. Increase = ↑; Decrease = ↓; No Effect = ⇔ c. Reyataz Prescribing Information d. Prezista Prescribing Information e. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir).
-Staggered administration (12 hours apart) provided similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. g. Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. h. Study conducted with ATRIPLA (efavirenz/ FTC/TDF) coadministered with HARVONI. i. Study conducted with COMPLERA (FTC/rilpivirine/TDF) coadministered with HARVONI. j. Study conducted with emtricitabine and tenofovir disoproxil fumarate tablets (FTC/TDF)+ dolutegravir coadministered with HARVONI® (sofosbuvir). k. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir) i. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, Emtricitabine and tenofovir disoproxil fumarate tablets + atazanavir/ritonavir, or emtricitabine and tenofovir disoproxil fumarate tablets + darunavir/ritonavir. m. Administered as raltegravir + FTC/TDF. n. Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. o. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients p. Aptivus Prescribing Information
+Staggered administration (12 hours apart) provided similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. g. Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. h. Study conducted with ATRIPLA (efavirenz/ FTC/TDF) coadministered with HARVONI l. Study conducted with COMPLERA (FTC/rilpivirine/TDF) coadministered with HARVONI. j. Study conducted with emtricitabine and tenofovir disoproxil fumarate tablets (FTC/TDF)+ dolutegravir coadministered with HARVONI® (sofosbuvir). k. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir) l. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, emtricitabine and tenofovir disoproxil fumarate tablets + atazanavir/ritonavir, or emtricitabine and tenofovir disoproxil fumarate tablets + darunavir/ritonavir. m. Administered as raltegravir + FTC/TDF. n. Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. o. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients p. Aptivus Prescribing Information
 
-No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with Emtricitabine and tenofovir disoproxil fumarate tablets: abacavir, didanosine (buffered tablets), FTC, entecavir and lamivudine.
+No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with emtricitabine and tenofovir disoproxil fumarate tablets: abacavir, didanosine (buffered tablets), FTC, entecavir and lamivudine.
 
 Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir
 
@@ -146,7 +147,7 @@ Table 12 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Atazanavirb | 400 once daily x 14 days | 34 | ↓21 (↓27 to ↓14) | ↓25 (↓30 to ↓19) | ↓40 (↓48 to ↓32) |
 | Atazanavirb | Atazanavir/Ritonavir 300/100 once daily x 42 days | 10 | ↓28 (↓50 to ↑ 5) | ↓25c (↓42 to ↓3) | ↓23c (↓46 to ↑10) |
 | Darunavird | Darunavir/Ritonavir 300/100 once daily | 12 | ↑16 (↓6 to ↑42) | ↑21 (↓5 to ↑54) | ↑24 (↓10 to ↑69) |
-| Didanosinee | 250 once, simultaneously with tenofovir TDF and a light mealf | 33 | ↓20g (↓32 to ↓7) | óg | NA |
+| Didanosinee | 250 once, simultaneously with tenofovir DF and a light mealf | 33 | ↓20g (↓32 to ↓7) | óg | NA |
 | Emtricitabine | 200 once daily x 7 days | 17 | ó | ó | ↑20 (↑12 to ↑29) |
 | Indinavir | 800 three times daily x 7 days | 12 | ↓11 (↓30 to ↓12) | ó | ó |
 | Entecavir | 1 once daily x 10 days | 28 | ó | ↑13 (↑11 to ↑15) | ó |
@@ -176,7 +177,7 @@ Antiviral Activity Emtricitabine and Tenofovir Disoproxil Fumarate: No antagonis
 
 Emtricitabine: The antiviral activity of FTC against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, the MAGI-CCR5 cell line, and peripheral blood mononuclear cells.
 The 50% effective concentration (EC50) values for FTC were in the range of 0.0013–0.64 μM (0.0003–0.158 μg/mL).
-In drug combination studies of FTC with nucleoside RT inhibitors (abacavir, lamivudine, stavudine, zidovudine), non-nucleoside RT inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir), no antagonism was observed.
+In drug combination studies of FTC with nucleoside RT inhibitors (abacavir, lamivudine, stavudine, zidovudine), non-nucleoside RT inhibitors inhibitors (delavirdine, efavirenz, nevirapine), and protease inhibitors (amprenavir, nelfinavir, ritonavir, saquinavir), no antagonism was observed.
 Emtricitabine displayed antiviral activity in cell culture against HIV-1 clades A, B, C, D, E, F, and G (EC50 values ranged from 0.007–0.075 μM) and showed strain specific activity against HIV-2 (EC50 values ranged from 0.007–1.5 μM).
 
 Tenofovir Disoproxil Fumarate: The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
@@ -213,14 +214,14 @@ The M184V/I substitutions associated with resistance to FTC were observed in 3 o
 One of the two subjects in the emtricitabine and tenofovir disoproxil fumarate tablets group harbored wild type virus at enrollment and developed the M184V substitution 4 weeks after enrollment.
 The other subject had indeterminate resistance at enrollment but was found to have the M184I substitution 4 weeks after enrollment.
 
-Partners PrEP Trial: In the Partners PrEP trial, a clinical trial of HIV-1 seronegative adult subjects [see Clinical Studies (14.4)], no variants expressing amino acid substitutions associated with resistance to FTC or TDF were detected at the time of seroconversion among 12 subjects in the Emtricitabine and tenofovir disoproxil fumarate tablets group, 15 subjects in the TDF group, and 51 subjects in the placebo group.
+Partners PrEP Trial: In the Partners PrEP trial, a clinical trial of HIV-1 seronegative adult subjects [see Clinical Studies (14.4)], no variants expressing amino acid substitutions associated with resistance to FTC or TDF were detected at the time of seroconversion among 12 subjects in the emtricitabine and tenofovir disoproxil fumarate tablets group, 15 subjects in the TDF group, and 51 subjects in the placebo group.
 Fourteen subjects were observed to be HIV-1 infected at the time of enrollment (3 in the emtricitabine and tenofovir disoproxil fumarate tablets group, 5 in the TDF group, and 6 in the placebo group).
 One of the three subjects in the emtricitabine and tenofovir disoproxil fumarate tablets group who was infected with wild type virus at enrollment selected an M184V expressing virus by Week 12.
 Two of the five subjects in the TDF group had tenofovir-resistant viruses at the time of seroconversion; one subject infected with wild type virus at enrollment developed a K65R substitution by Week 16, while the second subject had virus expressing the combination of D67N and K70R substitutions upon seroconversion at Week 60, although baseline virus was not genotyped and it is unclear if the resistance emerged or was transmitted.
 Following enrollment, 4 subjects (2 in the TDF group, 1 in the emtricitabine and tenofovir disoproxil fumarate tablets group, and 1 in the placebo group) had virus expressing K103N or V106A substitutions, which confer high-level resistance to NNRTIs but have not been associated with FTC or TDF and may have been present in the infecting virus.
 
 ATN113 Trial: In ATN113, a clinical trial of HIV-1 seronegative adolescent subjects [see Use in Specific Populations (8.4)], no amino acid substitutions associated with resistance to FTC or TDF were detected at the time of seroconversion from any of the 3 subjects who became infected with HIV-1 during the trial.
-All 3 subjects who seroconverted were nonadherent to the recommended Emtricitabine and tenofovir disoproxil fumarate tablets dosage.
+All 3 subjects who seroconverted were nonadherent to the recommended emtricitabine and tenofovir disoproxil fumarate tablets dosage.
 
 Cross Resistance Emtricitabine and Tenofovir Disoproxil Fumarate: Cross-resistance among certain NRTIs has been recognized.
 The M184V/I and/or K65R substitutions selected in cell culture by the combination of FTC and tenofovir are also observed in some HIV-1 isolates from subjects failing treatment with tenofovir in combination with either FTC or lamivudine, and either abacavir or didanosine.
@@ -234,6 +235,6 @@ HIV-1 containing the K103N substitution associated with resistance to NNRTIs was
 Tenofovir Disoproxil Fumarate: The K65R and K70E substitutions selected by tenofovir are also selected in some HIV-1 infected patients treated with abacavir or didanosine.
 HIV-1 isolates with the K65R and K70E substitutions also showed reduced susceptibility to FTC and lamivudine.
 Therefore, cross-resistance among these NRTIs may occur in patients whose virus harbors the K65R or K70E substitutions.
-HIV-1 isolates from subjects (N=20) whose HIV-1 expressed a mean of 3 zidovudineassociated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
+HIV-1 isolates from subjects (N=20) whose HIV-1 expressed a mean of 3 zidovudine associated RT amino acid substitutions (M41L, D67N, K70R, L210W, T215Y/F, or K219Q/E/N) showed a 3.1-fold decrease in the susceptibility to tenofovir.
 Subjects whose virus expressed an L74V substitution without zidovudine resistance-associated substitutions (N=8) had reduced response to TDF.
 Limited data are available for patients whose virus expressed a Y115F substitution (N=3), Q151M substitution (N=2), or T69 insertion (N=4), all of whom had a reduced response.

@@ -1,11 +1,12 @@
-# MEDICATION GUIDE
+# Medication Guide
 
-Emtricitabine and Tenofovir Disoproxil Fumarate (EM-trye-SYE-ta-been and ten-OF-oh-vir DYE-soe-PROX-il FUEma-rate) Tablets
+Emtricitabine and Tenofovir Disoproxil Fumarate Tablets (EM-trye-SYE-ta-been and ten-OF-oh-vir DYE-soe-PROX-il FUEma-rate)
 
 Read this Medication Guide before you start taking emtricitabine and tenofovir disoproxil fumarate tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
-This Medication Guide provides information about two different ways that emtricitabine and tenofovir disoproxil fumarate tablets may be used.See the section “What is emtricitabine and tenofovir disoproxil fumarate tablets?” for detailed information about how emtricitabine and tenofovir disoproxil fumarate tablets may be used.
+This Medication Guide provides information about two different ways that emtricitabine and tenofovir disoproxil fumarate tablets may be used.
+See the section “What is emtricitabine and tenofovir disoproxil fumarate tablets?” for detailed information about how emtricitabine and tenofovir disoproxil fumarate tablets may be used.
 
 What is the most important information I should know about emtricitabine and tenofovir disoproxil fumarate tablets?
 Emtricitabine and tenofovir disoproxil fumarate tablets can cause serious side effects, including: Worsening of hepatitis B virus infection (HBV).
@@ -20,7 +21,7 @@ Refill your prescription or talk to your healthcare provider before your emtrici
 
 For more information about side effects, see the section “What are the possible side effects of emtricitabine and tenofovir disoproxil fumarate tablets?”
 
-Other important information for people who take emtricitabine and tenofovir disoproxil fumarate tablets to help reduce their risk of getting HIV-1 infection: Before taking emtricitabine and tenofovir disoproxil fumarate tablets to reduce your risk of getting human immunodeficiency virus-1 (HIV-1) infection, also called pre-exposure prophylaxis or “PrEP”:
+Other important information for people who take emtricitabine and tenofovir disoproxil fumarate tablets to help reduce their risk of getting human immunodeficiency virus-1 (HIV-1) infection, also called pre-exposure prophylaxis or “PrEP”:
 
 Before taking emtricitabine and tenofovir disoproxil fumarate tablets to reduce your risk of getting HIV-1:
 
@@ -33,12 +34,13 @@ Tell your healthcare provider if you had a flu-like illness within the last mont
 Symptoms of new HIV-1 infection include: • tiredness • vomiting or diarrhea • fever • rash • joint or muscle aches • night sweats • headache • enlarged lymph nodes in the neck or groin • sore throat
 
 While you are taking emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP: Emtricitabine and tenofovir disoproxil fumarate tablets does not prevent other sexually transmitted infections (STIs).
-Practice safer sex by using a latex or polyurethane condom to reduce the risk of getting STIs. • You must stay HIV-negative to keep taking emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP.. • Know your HIV-1 status and the HIV-1 status of your partners. • Ask your partners with HIV-1 if they are taking anti-HIV-1 medicines and have an undetectable viral load.
+Practice safer sex by using a latex or polyurethane condom to reduce the risk of getting STIs. • You must stay HIV-negative to keep taking emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP. • Know your HIV-1 status and the HIV-1 status of your partners. • Ask your partners with HIV-1 if they are taking anti-HIV-1 medicines and have an undetectable viral load.
 An undetectable viral load is when the amount of virus in the blood is too low to be measured in a lab test.
 To maintain an undetectable viral load, your partners must keep taking HIV-1 medicines every day.
 Your risk of getting HIV-1 is lower if your partners with HIV-1 are taking effective treatment.. • Get tested for HIV-1 at least every 3 months or when your healthcare provider tells you. • Get tested for other STIs such as syphilis, chlamydia, and gonorrhea.
 These infections make it easier for HIV-1 to infect you. • If you think you were exposed to HIV-1, tell your healthcare provider right away. • They may want to do more tests to be sure you are still HIV-1 negative. • Get information and support to help reduce sexual risk behaviors. • Do not miss any doses of emtricitabine and tenofovir disoproxil fumarate tablets.
-Missing doses increases your risk of getting HIV-1 infection. • If you do become HIV-1 positive, you need more medicine than emtricitabine and tenofovir disoproxil fumarate tablets alone to treat HIV-1. emtricitabine and tenofovir disoproxil fumarate tablets by itself is not a complete treatment for HIV-1.
+Missing doses increases your risk of getting HIV-1 infection. • If you do become HIV-1 positive, you need more medicine than emtricitabine and tenofovir disoproxil fumarate tablets alone to treat HIV-1.
+Emtricitabine and tenofovir disoproxil fumarate tablets by itself is not a complete treatment for HIV-1.
 If you have HIV-1 and take only emtricitabine and tenofovir disoproxil fumarate tablets, over time your HIV-1 may become harder to treat.
 
 What is emtricitabine and tenofovir disoproxil fumarate tablets?
@@ -49,13 +51,14 @@ HIV-1 is the virus that causes Acquired Immune Deficiency Syndrome (AIDS).
 Emtricitabine and tenofovir disoproxil fumarate tablets contains the prescription medicines emtricitabine and tenofovir disoproxil fumarate.
 
 It is not known if emtricitabine and tenofovir disoproxil fumarate tablets for treatment of HIV-1 infection is safe and effective in children who weigh less than 37 pounds (17 kg).
-It is not known if emtricitabine and tenofovir disoproxil fumarate tablets is safe and effective in reducing the risk of HIV-1 infection in people who weigh less than 77 pounds (35 kg)
+It is not known if emtricitabine and tenofovir disoproxil fumarate tablets is safe and effective in reducing the risk of HIV-1 infection in people who weigh less than 77 pounds (35 kg).
 
 For people taking emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP: Do not take Emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP if: • you already have HIV-1 infection.
 If you are HIV-1 positive, you need to take other medicines with emtricitabine and tenofovir disoproxil fumarate tablets to treat HIV-1.
 Emtricitabine and tenofovir disoproxil fumarate tablets by itself is not a complete treatment for HIV-1. • you do not know your HIV-1 infection status.
 You may already be HIV-1 positive.
-You need to take other HIV-1 medicines with emtricitabine and tenofovir disoproxil fumarate tablets to treat HIV-1. emtricitabine and tenofovir disoproxil fumarate tablets can only help reduce your risk of getting HIV-1 before you are infected.
+You need to take other HIV-1 medicines with emtricitabine and tenofovir disoproxil fumarate tablets to treat HIV-1.
+Emtricitabine and tenofovir disoproxil fumarate tablets can only help reduce your risk of getting HIV-1 before you are infected.
 
 What should I tell my healthcare provider before taking emtricitabine and tenofovir disoproxil fumarate tablets?
 Before taking emtricitabine and tenofovir disoproxil fumarate tablets, tell your healthcare provider about all of your medical conditions, including if you: • have liver problems, including HBV infection • have kidney problems or receive kidney dialysis treatment • have bone problems • are pregnant or plan to become pregnant.
@@ -64,19 +67,21 @@ Tell your healthcare provider if you become pregnant during treatment with emtri
 
 Pregnancy Registry: There is a pregnancy registry for people who take emtricitabine and tenofovir disoproxil fumarate tablets during pregnancy.
 The purpose of this registry is to collect information about the health of you and your baby.
-Talk with your healthcare provider about how you can take part in this registry.
+Talk with your healthcare provider about how you can take part in this registry
 
-• are breastfeeding or plan to breastfeed. emtricitabine and tenofovir disoproxil fumarate tablets can pass to your baby in your breast milk. • Do not breastfeed if you have HIV-1 or if you think you have recently become infected with HIV-1 because of the risk of passing HIV-1 to your baby. • If you take emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP, talk with your healthcare provider about the best way to feed your baby.
+• are breastfeeding or plan to breastfeed.
+Emtricitabine and tenofovir disoproxil fumarate can pass to your baby in your breast milk. • Do not breastfeed if you have HIV-1 or if you think you have recently become infected with HIV-1 because of the risk of passing HIV-1 to your baby. • If you take emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP, talk with your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Some medicines may interact with emtricitabine and tenofovir disoproxil fumarate tablets.
 Keep a list of your medicines and show it to your healthcare provider and pharmacist when you get a new medicine. • You can ask your healthcare provider or pharmacist for a list of medicines that interact with emtricitabine and tenofovir disoproxil fumarate tablets. • Do not start a new medicine without telling your healthcare provider.
 Your healthcare provider can tell you if it is safe to take emtricitabine and tenofovir disoproxil fumarate tablets with other medicines.
 
-How should I take emtricitabine and tenofovir disoproxil fumarate tablets? • Take emtricitabine and tenofovir disoproxil fumarate tablets exactly as your healthcare provider tells you to take it. • If you take emtricitabine and tenofovir disoproxil fumarate tablets to treat HIV-1 infection, you need to take other HIV-1 medicines.
+How should I take emtricitabine and tenofovir disoproxil fumarate tablets? • Take emtricitabine and tenofovir disoproxil fumarate tablets exactly as your healthcare provider tells you to take it.
+If you take emtricitabine and tenofovir disoproxil fumarate tablets to treat HIV-1 infection, you need to take other HIV-1 medicines.
 Your healthcare provider will tell you what medicines to take and how to take them. • Take emtricitabine and tenofovir disoproxil fumarate tablets 1 time each day with or without food. • Children who take emtricitabine and tenofovir disoproxil fumarate tablets are prescribed a lower strength tablet than adults.
 Children should swallow the emtricitabine and tenofovir disoproxil fumarate tablets tablet.
-Tell your healthcare provider if your child cannot swallow the tablet, because they may need a different HIV-1 medicine. • Your healthcare provider will change the dose of emtricitabine and tenofovir disoproxil fumarate tablets as needed based on your child’s weight. • Do not change your dose or stop taking emtricitabine and tenofovir disoproxil fumarate without first talking with your healthcare provider.Stay under a healthcare provider’s care when taking emtricitabine and tenofovir disoproxil fumarate.
+Tell your healthcare provider if your child cannot swallow the tablet, because they may need a different HIV-1 medicine. • Your healthcare provider will change the dose of emtricitabine and tenofovir disoproxil fumarate tablets as needed based on your child’s weight. • Do not change your dose or stop taking emtricitabine and tenofovir disoproxil fumarate tablets without first talking with your healthcare provider.Stay under a healthcare provider’s care when taking emtricitabine and tenofovir disoproxil fumarate tablets.
 Do not miss a dose of emtricitabine and tenofovir disoproxil fumarate tablets. • If you take too much emtricitabine and tenofovir disoproxil fumarate tablets, call your healthcare provider or go to the nearest hospital emergency room right away. • When your emtricitabine and tenofovir disoproxil fumarate tablets supply starts to run low, get more from your healthcare provider or pharmacy. • If you are taking emtricitabine and tenofovir disoproxil fumarate tablets for treatment of HIV-1, the amount of virus in your blood may increase if the medicine is stopped for even a short time.
 The virus may develop resistance to emtricitabine and tenofovir disoproxil fumarate tablets and become harder to treat.
 
@@ -116,8 +121,12 @@ The tablets are coated with instacoat universal white A05G14934, which contains 
 
 Manufactured for: Macleods Pharma USA, INC, Princeton, NJ 08540
 
-Manufactured by: Macleods Pharmaceuticals Ltd. Plot No. 25 – 27, Survey No. 366, Premier Industrial Estate, Kachigam, Daman – 396210, India
+Manufactured by:
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: December 2020
+Macleods Pharmaceuticals Ltd.
 
-PM03475501
+Daman (U.T.), INDIA
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+Revised: July 2022

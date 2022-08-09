@@ -7,7 +7,7 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary Data on the use of emtricitabine and tenofovir disoproxil fumarate tablets during pregnancy from observational studies have shown no increased risk of major birth defects.
 Available data from the APR show no significant difference in the overall risk of major birth defects with first trimester exposure for emtricitabine (FTC) (2.3%) or tenofovir disoproxil fumarate (TDF) (2.1%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage for individual drugs is not reported in the APR.
-In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
+In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15 to 20%.
 
 In animal reproduction studies, no adverse developmental effects were observed when the components of emtricitabine and tenofovir disoproxil fumarate tablets were administered separately at doses/exposures ≥60 (FTC), ≥14 (TDF) and 2.7 (tenofovir) times those of the recommended daily dose of emtricitabine and tenofovir disoproxil fumarate tablets (see Data).
 
@@ -57,7 +57,8 @@ Two infants (4%) had an adverse event of mild diarrhea which resolved.
 
 Treatment of HIV-1 Infection No pediatric clinical trial was conducted to evaluate the safety and efficacy of emtricitabine and tenofovir disoproxil fumarate tablets in patients with HIV-1 infection.
 Data from previously conducted trials with the individual drug products, FTC and TDF, were relied upon to support dosage recommendations for emtricitabine and tenofovir disoproxil fumarate tablets.
-For additional information, consult the prescribing information for EMTRIVA and VIREAD. emtricitabine and tenofovir disoproxil fumarate tablets should only be administered to HIV-1 infected pediatric patients with body weight greater than or equal to 17 kg and who are able to swallow a tablet.
+For additional information, consult the prescribing information for EMTRIVA and VIREAD.
+Emtricitabine and tenofovir disoproxil fumarate tablets should only be administered to HIV-1 infected pediatric patients with body weight greater than or equal to 17 kg and who are able to swallow a tablet.
 Because it is a fixed-dose combination tablet, emtricitabine and tenofovir disoproxil fumarate tablets cannot be adjusted for patients of lower weight [see Warnings and Precautions (5.5), Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 Emtricitabine and tenofovir disoproxil fumarate tablets is not approved for use in pediatric patients weighing less than 17 kg.
 
@@ -65,7 +66,7 @@ HIV-1 PrEP The safety and effectiveness of emtricitabine and tenofovir disoproxi
 
 Safety, adherence, and resistance were evaluated in a single-arm, open-label clinical trial (ATN113) in which 67 HIV-1 uninfected at-risk adolescent men who have sex with men received emtricitabine and tenofovir disoproxil fumarate tablets once daily for HIV-1 PrEP.
 The mean age of subjects was 17 years (range 15 to 18 years); 46% were Hispanic, 52% Black, and 37% White.
-The safety profile of Emtricitabine and tenofovir disoproxil fumarate tablets in ATN113 was similar to that observed in the adult HIV-1 PrEP trials [see Adverse Reactions (6.1)].
+The safety profile of emtricitabine and tenofovir disoproxil fumarate tablets in ATN113 was similar to that observed in the adult HIV-1 PrEP trials [see Adverse Reactions (6.1)].
 
 In the ATN113 trial, HIV-1 seroconversion occurred in 3 subjects.
 Tenofovir diphosphate levels in dried blood spot assays indicate that these subjects had poor adherence.
@@ -80,8 +81,8 @@ Clinical trials of FTC, TDF, or emtricitabine and tenofovir disoproxil fumarate 
 
 ## 8.6 Renal Impairment
 
-Treatment of HIV-1 Infection The dosing interval for emtricitabine and tenofovir disoproxil fumarate tablets should be modified in HIV-infected adult individuals with estimated creatinine clearance of 30–49 mL/min.
+Treatment of HIV-1 Infection The dosing interval for emtricitabine and tenofovir disoproxil fumarate tablets should be modified in HIV-infected adult individuals with estimated creatinine clearance of 30 to 49 mL/min.
 Emtricitabine and tenofovir disoproxil fumarate tablets is not recommended in individuals with estimated creatinine clearance below 30 mL/min and in individuals with end-stage renal disease requiring dialysis [see Dosage and Administration (2.6)].
 
 HIV-1 PrEP Emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP is not recommended in HIV-1 uninfected individuals with estimated creatinine clearance below 60 mL/min.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP, evaluate potential causes and reassess potential risks and benefits of continued use [see Dosage and Administration (2.6)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Dosage and Administration (2.6)].

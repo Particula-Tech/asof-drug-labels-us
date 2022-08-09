@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Important Information for Uninfected Individuals Taking Emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP
+Important Information for Uninfected Individuals Taking Emtricitabine and Tenofovir Disoproxil Fumarate Tablets for HIV-1 PrEP
 
 Advise HIV-uninfected individuals about the following [see Warnings and Precautions (5.2)]: • The need to confirm that they are HIV-negative before starting to take emtricitabine and tenofovir disoproxil fumarate tablets to reduce the risk of acquiring HIV-1. • That HIV-1 resistance substitutions may emerge in individuals with undetected HIV-1 infection who are taking emtricitabine and tenofovir disoproxil fumarate tablets, because emtricitabine and tenofovir disoproxil fumarate tablets alone does not constitute a complete regimen for HIV-1 treatment. • The importance of taking emtricitabine and tenofovir disoproxil fumarate tablets on a regular dosing schedule and strict adherence to the recommended dosing schedule to reduce the risk of acquiring HIV-1.
 Uninfected individuals who miss doses are at greater risk of acquiring HIV-1 than those who do not miss doses. • That emtricitabine and tenofovir disoproxil fumarate tablets does not prevent other sexually acquired infections and should only be used as part of a complete prevention strategy including other prevention measures. • To use condoms consistently and correctly to lower the chances of sexual contact with any body fluids such as semen, vaginal secretions, or blood. • The importance of knowing their HIV-1 status and the HIV-1 status of their partner(s). • The importance of virologic suppression in their partner(s) with HIV-1. • The need to get tested regularly for HIV-1 (at least every 3 months, or more frequently for some individuals such as adolescents) and to ask their partner(s) to get tested as well. • To report any symptoms of acute HIV-1 infection (flu-like symptoms) to their healthcare provider immediately. • That the signs and symptoms of acute infection include fever, headache, fatigue, arthralgia, vomiting, myalgia, diarrhea, pharyngitis, rash, night sweats, and adenopathy (cervical and inguinal). • To get tested for other sexually transmitted infections, such as syphilis, chlamydia, and gonorrhea, that may facilitate HIV-1 transmission. • To assess their sexual risk behavior and get support to help reduce sexual risk behavior.
@@ -10,11 +10,11 @@ Uninfected individuals who miss doses are at greater risk of acquiring HIV-1 tha
 Severe Acute Exacerbation of Hepatitis B in Patients Infected with HBV Inform individuals that severe acute exacerbations of hepatitis B have been reported in patients who are infected with HBV and have discontinued emtricitabine and tenofovir disoproxil fumarate tablets [see Warnings and Precautions (5.1)].
 Advise HBV-infected individuals to not discontinue emtricitabine and tenofovir disoproxil fumarate tablets without first informing their healthcare provider.
 
-New Onset or Worsening Renal Impairment Inform HIV-1 infected patients and uninfected individuals that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of TDF, a component of Emtricitabine and tenofovir disoproxil fumarate tablets.
+New Onset or Worsening Renal Impairment Inform HIV-1 infected patients and uninfected individuals that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of TDF, a component of emtricitabine and tenofovir disoproxil fumarate tablets.
 Advise patients to avoid emtricitabine and tenofovir disoproxil fumarate tablets with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [see Warnings and Precautions (5.3)].
-The dosing interval of Emtricitabine and tenofovir disoproxil fumarate tablets may need adjustment in HIV-1 infected patients with renal impairment.
+The dosing interval of emtricitabine and tenofovir disoproxil fumarate tablets may need adjustment in HIV-1 infected patients with renal impairment.
 Emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP should not be used in HIV-1 uninfected individuals if estimated creatinine clearance is less than 60 mL/min.
-If a decrease in estimated creatinine clearance is observed in uninfected individuals while using Emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Dosage and Administration (2.6)].
+If a decrease in estimated creatinine clearance is observed in uninfected individuals while using emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP, evaluate potential causes and re-assess potential risks and benefits of continued use [see Dosage and Administration (2.6)].
 
 Immune Reconstitution Syndrome Inform HIV-1 infected patients that in some patients with advanced HIV infection (AIDS), signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
 It is believed that these symptoms are due to an improvement in the body’s immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
@@ -37,8 +37,10 @@ Pregnancy Registry Inform individuals using emtricitabine and tenofovir disoprox
 Lactation Instruct mothers not to breastfeed if they are taking emtricitabine and tenofovir disoproxil fumarate tablets for the treatment of HIV-1 infection or if acute HIV-1 infection is suspected in a mother taking emtricitabine and tenofovir disoproxil fumarate tablets for HIV-1 PrEP because of the risk of passing the HIV-1 virus to the baby.
 In HIV-uninfected women, the benefits and risks of emtricitabine and tenofovir disoproxil fumarate tablets while breastfeeding should be evaluated, including the risk of HIV-1 acquisition due to medication nonadherence and subsequent mother to child transmission [see Use in Specific Populations (8.2)].
 
+All trademarks referenced herein are the property of their respective owners.
+
 Manufactured for: Macleods Pharma USA, INC, Princeton, NJ 08540
 
-Manufactured by: Macleods Pharmaceuticals Ltd. Plot No. 25 – 27, Survey No. 366, Premier Industrial Estate, Kachigam, Daman – 396210, India All trademarks referenced herein are the property of their respective owners.
+Manufactured by: Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
 
-PM03431901
+Revised: 07/2022
