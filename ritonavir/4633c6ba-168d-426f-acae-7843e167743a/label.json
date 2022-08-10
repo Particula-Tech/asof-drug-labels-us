@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202573"
+  ],
+  "inn": "ritonavir",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-655-02",
+    "69097-655-08"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ritonavir 100 mg",
+      "name": "Ritonavir"
+    }
+  ],
+  "setid": "4633c6ba-168d-426f-acae-7843e167743a",
+  "source": "dailymed"
+}
