@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA212944"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1642-1",
+    "70121-1642-2",
+    "70121-1642-5",
+    "70121-1642-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin",
+      "name": "vasopressin"
+    }
+  ],
+  "setid": "d9869345-b02c-4225-a97b-656f14c86dec",
+  "source": "dailymed"
+}
