@@ -4,12 +4,12 @@
    Clin Nephrol.
    1994; 42:44-49.
 
-Distr. by: Hikma
+Distributed by: Hikma
 
 Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000407/01
+C50000407/02
 
-Revised September 2020
+Revised August 2021
