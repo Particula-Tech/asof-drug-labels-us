@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA215985"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Arcutis Biotherapeutics, Inc.",
+  "package_ndcs": [
+    "80610-130-05",
+    "80610-130-60",
+    "80610-130-96"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "roflumilast",
+      "name": "roflumilast"
+    }
+  ],
+  "setid": "ec1bb0d1-f38a-4080-831a-68791d1d1fdb",
+  "source": "dailymed"
+}
