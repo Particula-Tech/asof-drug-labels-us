@@ -12,7 +12,7 @@ Omnipaque™ (iohexol) Injection
 
 50 mL
 
-NOVAPLUS®
+NOVAPLUS ®
 
 Single-Dose Bottle.
 Sterile Aqueous Solution For Injection or Oral Use.
@@ -31,7 +31,7 @@ Omnipaque™ (iohexol) Injection
 
 50 mL
 
-NOVAPLUS®
+NOVAPLUS ®
 
 Single-Dose Bottle.
 Sterile Aqueous Solution For Injection or Oral Use.
@@ -52,7 +52,7 @@ NOT FOR INTRATHECAL USE
 
 50 mL
 
-NOVAPLUS®
+NOVAPLUS ®
 
 Single-Dose Bottle.
 Sterile Aqueous Solution For Injection or Oral Use.
