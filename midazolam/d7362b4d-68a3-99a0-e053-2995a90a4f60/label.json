@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216359"
+  ],
+  "inn": "midazolam",
+  "labeler": "Rafa Laboratories, Ltd.",
+  "package_ndcs": [
+    "71053-595-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "midazolam injection, 10 mg",
+      "name": "N/A"
+    }
+  ],
+  "setid": "d7362b4d-68a3-99a0-e053-2995a90a4f60",
+  "source": "dailymed"
+}
