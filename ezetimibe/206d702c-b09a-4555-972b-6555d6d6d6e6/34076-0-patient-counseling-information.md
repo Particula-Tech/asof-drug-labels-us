@@ -27,9 +27,9 @@ Patients who have a lipid disorder and are breastfeeding should be advised to di
 
 Manufactured by:
 
-Alkem Laboratories Ltd.
+Alkem Laboratories Ltd.,
 
-Mumbai - 400 013, INDIA
+INDIA.
 
 Distributed by:
 
@@ -37,4 +37,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: March,2017 PT 2508-01
+Revised: November, 2021 PT 2508-02
