@@ -9,9 +9,9 @@ The following important adverse reactions are described below and elsewhere in t
 
 ## 6.1 Clinical Trials Experience
 
-1. Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
-2. In pravastatin sodium placebo-controlled clinical trials, 1313 patients (age range 20 to 76 years, 32% women, 93.5% White, 5% Black, 0.9% Hispanic, 0.4% Asian, 0.2% Other) with a median treatment duration of 14 weeks, 3.3% of patients on pravastatin sodium and 1.2% patients on placebo discontinued due to adverse reactions (regardless of causality).
-   The most common adverse reactions that led to treatment discontinuation and occurred at an incidence greater than placebo were: hepatic transaminase elevations, nausea, anxiety/depression, and dizziness.
+- Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+- In pravastatin sodium placebo-controlled clinical trials, 1313 patients (age range 20 to 76 years, 32% women, 93.5% White, 5% Black, 0.9% Hispanic, 0.4% Asian, 0.2% Other) with a median treatment duration of 14 weeks, 3.3% of patients on pravastatin sodium and 1.2% patients on placebo discontinued due to adverse reactions (regardless of causality).
+  The most common adverse reactions that led to treatment discontinuation and occurred at an incidence greater than placebo were: hepatic transaminase elevations, nausea, anxiety/depression, and dizziness.
 
 Adverse reactions (regardless of causality) reported in ≥2% of pravastatin sodium-treated patients in placebo-controlled trials of up to 8 months duration are identified in Table 1:
 

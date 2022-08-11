@@ -42,9 +42,9 @@ In pregnant rats, pravastatin crosses the placenta and is found in fetal tissue 
 
 Risk Summary
 
-1. Based on one lactation study in published literature, pravastatin is present in human milk.
-   There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-   Statins, including pravastatin sodium, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
+- Based on one lactation study in published literature, pravastatin is present in human milk.
+  There is no available information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+  Statins, including pravastatin sodium, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
 
 Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with pravastatin sodium [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
 
@@ -63,9 +63,9 @@ No significant differences in efficacy or safety were observed between geriatric
 
 Mean pravastatin AUCs are 25% to 50% higher in elderly subjects than in healthy young subjects, but mean maximum plasma concentration (Cmax), time to maximum plasma concentration (Tmax), and half-life (t½) values are similar in both age groups and substantial accumulation of pravastatin would not be expected in the elderly [see Clinical Pharmacology (12.3)].
 
-1. Advanced age (≥65 years) is a risk factor for pravastatin sodium-associated myopathy and rhabdomyolysis.
-   Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
-   Monitor geriatric patients receiving pravastatin sodium for the increased risk of myopathy [see Warnings and Precautions (5.1)].
+- Advanced age (≥65 years) is a risk factor for pravastatin sodium-associated myopathy and rhabdomyolysis.
+  Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
+  Monitor geriatric patients receiving pravastatin sodium for the increased risk of myopathy [see Warnings and Precautions (5.1)].
 
 ## 8.6 Renal Impairment
 
