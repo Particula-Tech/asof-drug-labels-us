@@ -42,14 +42,27 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of STELARA® have been established in pediatric patients 6 to 17 years old with moderate to severe plaque psoriasis.
-Use of STELARA® in adolescents is supported by evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Plaque Psoriasis
 
-Use of STELARA® in children 6 to 11 years with moderate to severe plaque psoriasis is supported by evidence from an open-label, single-arm, efficacy, safety and pharmacokinetics study (Ps STUDY 4) in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
+The safety and effectiveness of STELARA® have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 to 17 years old.
+Use of STELARA® in patients 12 to less than 17 years old is supported by evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 
-The safety and effectiveness of STELARA® for pediatric patients less than 6 years of age with psoriasis have not been established.
+Use of STELARA® in patients 6 to 11 years old is supported by evidence from an open-label, single-arm, efficacy, safety and pharmacokinetics study (Ps STUDY 4) in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
 
-The safety and effectiveness of STELARA® have not been established in pediatric patients with psoriatic arthritis, Crohn's disease or ulcerative colitis.
+The safety and effectiveness of STELARA® have not been established in pediatric patients less than 6 years of age with psoriasis.
+
+Psoriatic Arthritis
+
+The safety and effectiveness of STELARA® have been established for treatment of psoriatic arthritis in pediatric patients 6 to 17 years old.
+
+Use of STELARA® in these age groups is supported by evidence from adequate and well controlled studies of STELARA® in adults with psoriasis and PsA, pharmacokinetic data from adult patients with psoriasis, adult patients with PsA and pediatric patients with psoriasis, and safety data from two clinical studies in 44 pediatric patients 6 to 11 years old with psoriasis and 110 pediatric patients 12 to 17 years old with psoriasis.
+The observed pre-dose (trough) concentrations are generally comparable between adult patients with psoriasis, adult patients with PsA and pediatric patients with psoriasis, and the PK exposure is expected to be comparable between adult and pediatric patients with PsA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2, 14.3)].
+
+The safety and effectiveness of STELARA® have not been established in pediatric patients less than 6 years old with psoriatic arthritis.
+
+Crohn's Disease and Ulcerative Colitis
+
+The safety and effectiveness of STELARA® have not been established in pediatric patients with Crohn's disease or ulcerative colitis.
 
 ## 8.5 Geriatric Use
 

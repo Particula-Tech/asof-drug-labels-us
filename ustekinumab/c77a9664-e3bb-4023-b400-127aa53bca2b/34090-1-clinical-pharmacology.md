@@ -70,6 +70,8 @@ Age: Pediatric Population
 Following multiple recommended doses of STELARA® in pediatric subjects 6 to 17 years of age with psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
 At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and adolescent subjects 12 to 17 years of age.
 
+Overall, the observed steady-state ustekinumab trough concentrations in pediatric patients with psoriasis were within the range of those observed for adult patients with psoriasis and adult patients with PsA after administration of STELARA®.
+
 Drug Interaction Studies
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).

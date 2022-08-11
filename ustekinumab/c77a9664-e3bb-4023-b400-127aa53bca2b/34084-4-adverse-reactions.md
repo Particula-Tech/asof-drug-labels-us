@@ -15,9 +15,9 @@ Adult Subjects with Plaque Psoriasis
 
 The safety data reflect exposure to STELARA® in 3117 adult psoriasis subjects, including 2414 exposed for at least 6 months, 1855 exposed for at least one year, 1653 exposed for at least two years, 1569 exposed for at least three years, 1482 exposed for at least four years and 838 exposed for at least five years.
 
-Table 4 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA® groups than the placebo group during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
+Table 5 summarizes the adverse reactions that occurred at a rate of at least 1% and at a higher rate in the STELARA® groups than the placebo group during the placebo-controlled period of Ps STUDY 1 and Ps STUDY 2 [see Clinical Studies (14)].
 
-Table 4: Adverse Reactions Reported by ≥1% of Subjects through Week 12 in Ps STUDY 1 and Ps STUDY 2
+Table 5: Adverse Reactions Reported by ≥1% of Subjects through Week 12 in Ps STUDY 1 and Ps STUDY 2
 
 |  | Placebo | 45 mg | 90 mg |
 | --- | --- | --- | --- |
@@ -74,12 +74,12 @@ The safety of STELARA® was assessed in 1407 subjects with moderately to severel
 These 1407 subjects included 40 subjects who received a prior investigational intravenous ustekinumab formulation but were not included in the efficacy analyses.
 In Studies CD-1 and CD-2 there were 470 subjects who received STELARA® 6 mg/kg as a weight-based single intravenous induction dose and 466 who received placebo [see Dosage and Administration (2.3)].
 Subjects who were responders in either Study CD-1 or CD-2 were randomized to receive a subcutaneous maintenance regimen of either 90 mg STELARA® every 8 weeks, or placebo for 44 weeks in Study CD-3.
-Subjects in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), MTX], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
+Subjects in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
 
 The overall safety profile of STELARA® was consistent with the safety profile seen in the adult psoriasis and psoriatic arthritis clinical studies.
 Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 5 and 6, respectively.
 
-Table 5: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurring in ≥3% of STELARA®-treated subjects and higher than placebo
+Table 6: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurring in ≥3% of STELARA®-treated subjects and higher than placebo
 
 | N=466 | N=470 |  |
 | --- | --- | --- |
@@ -88,7 +88,7 @@ Table 5: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurr
 
 Other less common adverse reactions reported in subjects in Studies CD-1 and CD-2 included asthenia (1% vs 0.4%), acne (1% vs 0.4%), and pruritus (2% vs 0.4%).
 
-Table 6: Common adverse reactions through Week 44 in Study CD-3 occurring in ≥3% of STELARA®-treated subjects and higher than placebo
+Table 7: Common adverse reactions through Week 44 in Study CD-3 occurring in ≥3% of STELARA®-treated subjects and higher than placebo
 
 | N=133 | N=131 |  |
 | --- | --- | --- |
@@ -164,4 +164,4 @@ Neurological disorders: Posterior Reversible Encephalopathy Syndrome (PRES) [see
 
 Respiratory, thoracic and mediastinal disorders: Interstitial pneumonia, eosinophilic pneumonia and cryptogenic organizing pneumonia [see Warnings and Precautions (5.9)].
 
-Skin reactions: Pustular psoriasis, erythrodermic psoriasis.
+Skin reactions: Pustular psoriasis, erythrodermic psoriasis, hypersensitivity vasculitis.

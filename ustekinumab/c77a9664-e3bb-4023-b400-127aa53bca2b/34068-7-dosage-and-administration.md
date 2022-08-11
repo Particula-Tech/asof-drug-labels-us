@@ -26,7 +26,7 @@ Table 1: Recommended Dose of STELARA® for Subcutaneous Injection in Pediatric P
 
 For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial.
 
-Table 2: Injection volumes of STELARA® 45 mg/0.5 mL single-dose vials for pediatric patients (6–17 years old) with psoriasis weighing less than 60 kg
+Table 2: Injection volumes of STELARA® 45 mg/0.5 mL single-dose vials for pediatric patients (6–17 years old) with psoriasis and pediatric patients (6–17 years old) with psoriatic arthritisRefer to 2.2 Psoriatic Arthritis; Subcutaneous Pediatric Dosage Regimen. weighing less than 60 kg
 
 | Body Weight (kg) at the time of dosing | Dose (mg) | Volume of injection (mL) |
 | --- | --- | --- |
@@ -83,13 +83,27 @@ Subcutaneous Adult Dosage Regimen
 - The recommended dose is 45 mg initially and 4 weeks later, followed by 45 mg every 12 weeks.
 - For patients with co-existent moderate-to-severe plaque psoriasis weighing more than 100 kg, the recommended dose is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
 
+Subcutaneous Pediatric Dosage Regimen
+
+Administer STELARA® subcutaneously at Weeks 0 and 4, then every 12 weeks thereafter.
+
+The recommended dose of STELARA® for pediatric patients (6 to 17 years old) with psoriatic arthritis, based on body weight, is shown below (Table 3).
+
+Table 3: Recommended Dose of STELARA® for Subcutaneous Injection in Pediatric Patients (6 to 17 years old) with Psoriatic Arthritis
+
+| Body Weight of Patient at the Time of Dosing | Recommended Dose |
+| --- | --- |
+| less than 60 kgFor pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial. | 0.75 mg/kg |
+| 60 kg or more | 45 mg |
+| greater than 100 kg with co-existent moderate-to-severe plaque psoriasis | 90 mg |
+
 ## 2.3 Crohn's Disease and Ulcerative Colitis
 
 Intravenous Induction Adult Dosage Regimen
 
-A single intravenous infusion dose of STELARA® using the weight-based dosage regimen specified in Table 3 [see Instructions for dilution of STELARA® 130 mg vial for intravenous infusion (2.6)].
+A single intravenous infusion dose of STELARA® using the weight-based dosage regimen specified in Table 4 [see Instructions for dilution of STELARA® 130 mg vial for intravenous infusion (2.6)].
 
-Table 3: Initial Intravenous Dosage of STELARA®
+Table 4: Initial Intravenous Dosage of STELARA®
 
 | Body Weight of Patient at the time of dosing | Dose | Number of 130 mg/26 mL (5 mg/mL) STELARA® vials |
 | --- | --- | --- |
@@ -138,7 +152,7 @@ To prevent premature activation of the needle safety guard, do not touch the NEE
 
 STELARA® solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
-1. Calculate the dose and the number of STELARA® vials needed based on patient weight (Table 3).
+1. Calculate the dose and the number of STELARA® vials needed based on patient weight (Table 4).
    Each 26 mL vial of STELARA® contains 130 mg of ustekinumab.
 2. Withdraw, and then discard a volume of the 0.9% Sodium Chloride Injection, USP from the 250 mL infusion bag equal to the volume of STELARA® to be added (discard 26 mL sodium chloride for each vial of STELARA® needed, for 2 vials- discard 52 mL, for 3 vials- discard 78 mL, 4 vials- discard 104 mL).
    Alternatively, a 250 mL infusion bag containing 0.45% Sodium Chloride Injection, USP may be used.

@@ -6,8 +6,7 @@ STELARA® is indicated for the treatment of patients 6 years or older with moder
 
 ## 1.2 Psoriatic Arthritis (PsA)
 
-STELARA® is indicated for the treatment of adult patients with active psoriatic arthritis.
-STELARA® can be used alone or in combination with methotrexate (MTX).
+STELARA® is indicated for the treatment of patients 6 years or older with active psoriatic arthritis.
 
 ## 1.3 Crohn's Disease (CD)
 
