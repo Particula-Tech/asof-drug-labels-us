@@ -15,12 +15,12 @@ Store at 20° to 25°C (68° to 77°F).
 
 Avoid freezing.
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10001777/09
+C50000435/01
 
-Revised April 2016
+Revised July 2021
