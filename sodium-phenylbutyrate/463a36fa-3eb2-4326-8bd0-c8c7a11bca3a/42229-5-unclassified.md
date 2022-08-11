@@ -9,6 +9,6 @@ Product of Germany
 NDC 75987-060-08 bottle contains 250 tablets of 500 mg.
 NDC 75987-070-09 bottle containing 250 g of sodium phenylbutyrate powder.
 
-Prescribing Information as of March 2021.
+Prescribing Information as of July 2022.
 
-BUP-US-PI-002
+BUP-US-PI-003

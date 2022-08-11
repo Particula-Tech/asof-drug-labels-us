@@ -1,7 +1,5 @@
 # OVERDOSAGE
 
-No adverse experiences have been reported involving overdoses of sodium phenylbutyrate in patients with urea cycle disorders.
-
-In the event of an overdose, discontinue the drug and institute supportive measures.
-
-Hemodialysis or peritoneal dialysis may be beneficial.
+Overdoses of BUPHENYL exceeding ten-fold the maximum recommended dosage may produce emesis, CNS depression, metabolic acidosis with or without respiratory alkalosis, hypernatremia, hypokalemia, and hypophosphatemia.
+Symptoms of overdose overlap with those of acute hyperammonemia.
+If overdose occurs, discontinue BUPHENYL, monitor plasma phenylacetate and ammonia levels closely, and institute appropriate emergency management, which may include hemodialysis, continuous veno-venous hemofiltration (CVVH), or extracorporeal membrane oxygenation (ECMO).
