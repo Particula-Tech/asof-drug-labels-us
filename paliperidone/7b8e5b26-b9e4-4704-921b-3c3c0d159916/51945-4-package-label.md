@@ -4,7 +4,7 @@ NDC 50458-550-01
 
 INVEGA® PALIPERIDONE Extended-Release Tablets
 
-3mg
+3 mg
 
 Tablets should be swallowed whole.
 Do not divide, crush, or chew.
@@ -22,7 +22,7 @@ NDC 50458-551-01
 
 INVEGA® PALIPERIDONE Extended-Release Tablets
 
-6mg
+6 mg
 
 Tablets should be swallowed whole.
 Do not divide, crush, or chew.
@@ -40,7 +40,7 @@ NDC 50458-552-01
 
 INVEGA® PALIPERIDONE Extended-Release Tablets
 
-9mg
+9 mg
 
 Tablets should be swallowed whole.
 Do not divide, crush, or chew.
@@ -58,7 +58,7 @@ NDC 50458-554-01
 
 INVEGA® PALIPERIDONE Extended-Release Tablets
 
-1.5mg
+1.5 mg
 
 Tablets should be swallowed whole.
 Do not divide, crush, or chew.
