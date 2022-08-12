@@ -47,14 +47,6 @@ Some cases were life-threatening.
 
 If serious herpes infections occur, OCREVUS should be discontinued or withheld until the infection has resolved, and appropriate treatment should be administered [see Patient Counseling Information (17)].
 
-Progressive Multifocal Leukoencephalopathy (PML)
-
-PML is an opportunistic viral infection of the brain caused by the John Cunningham (JC) virus that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
-Although no cases of PML were identified in OCREVUS clinical trials, JC virus infection resulting in PML has been observed in patients treated with other anti-CD20 antibodies and other MS therapies and has been associated with some risk factors (e.g., immunocompromised patients, polytherapy with immunosuppressants).
-At the first sign or symptom suggestive of PML, withhold OCREVUS and perform an appropriate diagnostic evaluation.
-MRI findings may be apparent before clinical signs or symptoms.
-Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
-
 Hepatitis B Virus (HBV) Reactivation
 
 Hepatitis B reactivation has been reported in MS patients treated with OCREVUS in the postmarketing setting.
@@ -83,16 +75,45 @@ Depletion of B-cells in these infants may increase the risks from live or live-a
 
 You may administer non-live vaccines, as indicated, prior to recovery from B-cell depletion, but should consider assessing vaccine immune responses, including consultation with a qualified specialist, to assess whether a protective immune response was mounted [see Use in Specific Populations (8.1)].
 
-## 5.3 Reduction in Immunoglobulins
+## 5.3 Progressive Multifocal Leukoencephalopathy (PML)
+
+Cases of progressive multifocal leukoencephalopathy (PML) have been reported in patients with MS treated with OCREVUS in the postmarketing setting.
+PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
+PML has occurred in OCREVUS-treated patients who had not been treated previously with natalizumab (which has a known association with PML), were not taking any immunosuppressive or immunomodulatory medications associated with the risk of PML prior to or concomitantly with OCREVUS, and did not have any known ongoing systemic medical conditions resulting in compromised immune system function.
+
+JCV infection resulting in PML has also been observed in patients treated with other anti-CD20 antibodies and other MS therapies.
+
+At the first sign or symptom suggestive of PML, withhold OCREVUS and perform an appropriate diagnostic evaluation.
+Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
+
+MRI findings may be apparent before clinical signs or symptoms.
+Cases of PML, diagnosed based on MRI findings and the detection of JCV DNA in the cerebrospinal fluid in the absence of clinical signs or symptoms specific to PML, have been reported in patients treated with other MS medications associated with PML.
+Many of these patients subsequently became symptomatic with PML.
+Therefore, monitoring with MRI for signs that may be consistent with PML may be useful, and any suspicious findings should lead to further investigation to allow for an early diagnosis of PML, if present.
+Following discontinuation of another MS medication associated with PML, lower PML-related mortality and morbidity have been reported in patients who were initially asymptomatic at diagnosis compared to patients who had characteristic clinical signs and symptoms at diagnosis.
+
+It is not known whether these differences are due to early detection and discontinuation of MS treatment or due to differences in disease in these patients.
+
+If PML is confirmed, treatment with OCREVUS should be discontinued.
+
+## 5.4 Reduction in Immunoglobulins
 
 As expected with any B-cell depleting therapy, decreased immunoglobulin levels are observed with OCREVUS treatment.
 The pooled data of OCREVUS clinical studies (RMS and PPMS) and their open-label extensions (up to approximately 7 years of exposure) have shown an association between decreased levels of immunoglobulin G (IgG<LLN) and increased rates of serious infections.
 Monitor the levels of quantitative serum immunoglobulins during OCREVUS treatment and after discontinuation of treatment, until B-cell repletion, and especially in the setting of recurrent serious infections.
 Consider discontinuing OCREVUS therapy in patients with serious opportunistic or recurrent serious infections, and if prolonged hypogammaglobulinemia requires treatment with intravenous immunoglobulins [see Adverse Reactions (6.1)].
 
-## 5.4 Malignancies
+## 5.5 Malignancies
 
 An increased risk of malignancy with OCREVUS may exist.
 In controlled trials, malignancies, including breast cancer, occurred more frequently in OCREVUS-treated patients.
 Breast cancer occurred in 6 of 781 females treated with OCREVUS and none of 668 females treated with REBIF or placebo.
 Patients should follow standard breast cancer screening guidelines.
+
+## 5.6 Immune-Mediated Colitis
+
+Immune-mediated colitis, which can present as a severe and acute-onset form of colitis, has been reported in patients receiving OCREVUS in the postmarketing setting.
+Some cases of colitis were serious, requiring hospitalization, with a few patients requiring surgical intervention.
+Systemic corticosteroids were required in many of these patients.
+The time from treatment initiation to onset of symptoms in these cases ranged from a few weeks to years.
+Monitor patients for immune-mediated colitis during OCREVUS treatment, and evaluate promptly if signs and symptoms that may indicate immune-mediated colitis, such as new or persistent diarrhea or other gastrointestinal signs and symptoms, occur.

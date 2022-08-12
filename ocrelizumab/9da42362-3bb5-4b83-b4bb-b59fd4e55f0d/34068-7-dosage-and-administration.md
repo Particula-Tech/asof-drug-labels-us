@@ -8,7 +8,7 @@ Prior to initiating OCREVUS, perform Hepatitis B virus (HBV) screening.
 OCREVUS is contraindicated in patients with active HBV confirmed by positive results for HBsAg and anti-HBV tests.
 For patients who are negative for surface antigen [HBsAg] and positive for HB core antibody [HBcAb+] or are carriers of HBV [HBsAg+], consult liver disease experts before starting and during treatment [see Warnings and Precautions (5.2)].
 
-Serum Immunoglobulins Prior to initiating OCREVUS, perform testing for quantitative serum immunoglobulins [see Warnings and Precautions (5.3)].
+Serum Immunoglobulins Prior to initiating OCREVUS, perform testing for quantitative serum immunoglobulins [see Warnings and Precautions (5.4)].
 For patients with low serum immunoglobulins, consult immunology experts before initiating treatment with OCREVUS.
 
 Vaccinations
@@ -39,11 +39,11 @@ Administer OCREVUS under the close supervision of an experienced healthcare prof
 
 Table 1 Recommended Dose, Infusion Rate, and Infusion Duration for RMS and PPMS
 
-|  |  | Amount and VolumeSolutions of OCREVUS for intravenous infusion are prepared by dilution of the drug product into an infusion bag containing 0.9% Sodium Chloride Injection, to a final drug concentration of approximately 1.2 mg/mL. | Infusion Rate and DurationInfusion time may take longer if the infusion is interrupted or slowed [see Dosage and Administration (2.5)]. |
+|  |  | Amount and Volume Solutions of OCREVUS for intravenous infusion are prepared by dilution of the drug product into an infusion bag containing 0.9% Sodium Chloride Injection, to a final drug concentration of approximately 1.2 mg/mL. | Infusion Rate and Duration Infusion time may take longer if the infusion is interrupted or slowed [see Dosage and Administration (2.5)]. |
 | --- | --- | --- | --- |
 | Initial Dose (two infusions) | Infusion 1 | 300 mg in 250 mL | Start at 30 mL per hourIncrease by 30 mL per hour every 30 minutesMaximum: 180 mL per hourDuration: 2.5 hours or longer |
 | Infusion 2 (2 weeks later) | 300 mg in 250 mL |  |  |
-| Subsequent Doses (one infusion) every 6 months)Administer the first Subsequent Dose 6 months after Infusion 1 of the Initial Dose. | Option 1 Infusion of approximately 3.5 hours duration | 600 mg in 500 mL | Start at 40 mL per hourIncrease by 40 mL per hour every 30 minutesMaximum: 200 mL per hourDuration: 3.5 hours or longer |
+| Subsequent Doses (one infusion) every 6 months) Administer the first Subsequent Dose 6 months after Infusion 1 of the Initial Dose. | Option 1 Infusion of approximately 3.5 hours duration | 600 mg in 500 mL | Start at 40 mL per hourIncrease by 40 mL per hour every 30 minutesMaximum: 200 mL per hourDuration: 3.5 hours or longer |
 | OR |  |  |  |
 | Option 2 (If no prior serious infusion reaction with any previous OCREVUS infusion)[see Adverse Reactions (6.1) and Clinical Studies (14.3)]. Infusion of approximately 2 hours duration | 600 mg in 500 mL | Start at 100 mL per hour for the first 15 minutesIncrease to 200 mL per hour for the next 15 minutesIncrease to 250 mL per hour for the next 30 minutesIncrease to 300 mL per hour for the remaining 60 minutes Duration: 2 hours or longer |  |
 

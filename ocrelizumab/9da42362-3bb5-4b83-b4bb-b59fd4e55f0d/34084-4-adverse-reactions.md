@@ -4,8 +4,10 @@ The following serious adverse reactions are discussed in greater detail in other
 
 - Infusion Reactions [see Warnings and Precautions (5.1)]
 - Infections [see Warnings and Precautions (5.2)]
-- Reduction in Immunoglobulins [see Warnings and Precautions (5.3)]
-- Malignancies [see Warnings and Precautions (5.4)]
+- Progressive Multifocal Leukoencephalopathy [see Warnings and Precautions (5.3)]
+- Reduction in Immunoglobulins [see Warnings and Precautions (5.4)]
+- Malignancies [see Warnings and Precautions (5.5)]
+- Immune-Mediated Colitis [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -99,4 +101,6 @@ These data are not adequate to assess the impact of ADAs on the safety and effic
 The following adverse reactions have been identified during postapproval use of OCREVUS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Serious herpes infections have been identified during postapproval use of OCREVUS [see Warnings and Precautions (5.2)].
+Gastrointestinal Disorders: Immune-mediated colitis [see Warnings and Precautions (5.6)]
+
+Infections and Infestations: Serious herpes infections [see Warnings and Precautions (5.2)] and progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.3)]
