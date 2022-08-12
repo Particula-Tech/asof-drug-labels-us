@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215331"
+  ],
+  "inn": "bortezomib",
+  "labeler": "MAIA Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70511-161-05",
+    "70511-162-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bortezomib",
+      "name": "Bortezomib"
+    }
+  ],
+  "setid": "c40e6a28-d577-43d4-bca6-bef28da1d580",
+  "source": "dailymed"
+}
