@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA016084"
+  ],
+  "inn": "allopurinol",
+  "labeler": "Casper Pharma LLC",
+  "package_ndcs": [
+    "70199-031-01",
+    "70199-031-05",
+    "70199-031-90",
+    "70199-031-99",
+    "70199-032-01",
+    "70199-032-05",
+    "70199-032-90",
+    "70199-032-99",
+    "70199-033-01",
+    "70199-033-05",
+    "70199-033-90",
+    "70199-033-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "allopurinol",
+      "name": "Zyloprim"
+    }
+  ],
+  "setid": "07d71f52-bafb-4307-a7cc-b52724151d42",
+  "source": "dailymed"
+}
