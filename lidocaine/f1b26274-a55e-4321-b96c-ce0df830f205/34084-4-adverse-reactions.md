@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 Most adverse reactions accompanying administration of Lidocaine Hydrochloride Injection, USP result from systemic toxicity affecting primarily the central nervous system and the cardiovascular system.
 
 Systemic reactions of the following types have been reported:
