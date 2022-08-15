@@ -12,6 +12,10 @@ Increased Risk of High-Grade Prostate Cancer
 
 Patients should be informed that there was an increase in high-grade prostate cancer in men treated with 5α-reductase inhibitors indicated for BPH treatment, compared to those treated with placebo in studies looking at the use of these drugs to prevent prostate cancer [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
+Sexual Adverse events
+
+Physicians should inform the patients that PROPECIA may cause symptoms of sexual dysfunction such as decreased libido, erectile dysfunction, and ejaculation disorder, including decreased ejaculate volume.
+
 Additional Instructions
 
 Physicians should instruct their patients to promptly report any changes in their breasts such as lumps, pain or nipple discharge.

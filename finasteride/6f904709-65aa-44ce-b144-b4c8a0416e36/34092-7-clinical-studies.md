@@ -64,15 +64,6 @@ At baseline and 48 weeks, total and anagen hair counts were obtained in a 1-cm2 
 Men treated with PROPECIA showed increases from baseline in total and anagen hair counts of 7 hairs and 18 hairs, respectively, whereas men treated with placebo had decreases of 10 hairs and 9 hairs, respectively.
 These changes in hair counts resulted in a between-group difference of 17 hairs in total hair count (p<0.001) and 27 hairs in anagen hair count (p<0.001), and an improvement in the proportion of anagen hairs from 62% at baseline to 68% for men treated with PROPECIA.
 
-Other Results in Vertex Baldness Studies
-
-A sexual function questionnaire was self-administered by patients participating in the two vertex baldness trials to detect more subtle changes in sexual function.
-At Month 12, statistically significant differences in favor of placebo were found in 3 of 4 domains (sexual interest, erections, and perception of sexual problems).
-However, no significant difference was seen in the question on overall satisfaction with sex life.
-
-In one of the two vertex baldness studies, patients were questioned on non-scalp body hair growth.
-PROPECIA did not appear to affect non-scalp body hair.
-
 Study in Men with Hair Loss in the Anterior Mid-Scalp Area
 
 A study of 12-month duration, designed to assess the efficacy of PROPECIA in men with hair loss in the anterior mid-scalp area, also demonstrated significant increases in hair count compared with placebo.

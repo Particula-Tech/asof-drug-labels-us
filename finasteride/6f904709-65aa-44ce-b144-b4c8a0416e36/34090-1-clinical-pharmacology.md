@@ -26,6 +26,7 @@ Finasteride produces a rapid reduction in serum DHT concentration, reaching 65% 
 Mean circulating levels of testosterone and estradiol were increased by approximately 15% as compared to baseline, but these remained within the physiologic range.
 
 Finasteride has no affinity for the androgen receptor and has no androgenic, antiandrogenic, estrogenic, antiestrogenic, or progestational effects.
+The relationship between these pharmacodynamic activities and the mechanisms(s) by which PROPECIA exerts its clinical effect is unknown.
 In studies with finasteride, no clinically meaningful changes in luteinizing hormone (LH), follicle-stimulating hormone (FSH) or prolactin were detected.
 In healthy volunteers, treatment with finasteride did not alter the response of LH and FSH to gonadotropin-releasing hormone indicating that the hypothalamic-pituitary-testicular axis was not affected.
 Finasteride had no effect on circulating levels of cortisol, thyroid-stimulating hormone, or thyroxine, nor did it affect the plasma lipid profile (e.g., total cholesterol, low-density lipoproteins, high-density lipoproteins and triglycerides) or bone mineral density.

@@ -72,6 +72,15 @@ The clinical significance of these findings with respect to use of PROPECIA by m
 No clinical benefit has been demonstrated in patients with prostate cancer treated with PROSCAR.
 PROSCAR is not approved to reduce the risk of developing prostate cancer.
 
+Sexual Function Questionnaire
+
+A sexual function questionnaire was self-administered by patients participating in the two vertex baldness trials to detect more subtle changes in sexual function.
+At Month 12, statistically significant differences in favor of placebo were found in 3 of 4 domains (sexual interest, erections, and perception of sexual problems).
+However, no significant difference was seen in the question on overall satisfaction with sex life.
+
+In one of the two vertex baldness studies, patients were questioned on non-scalp body hair growth.
+PROPECIA did not appear to affect non-scalp body hair.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of PROPECIA.
@@ -85,4 +94,4 @@ Neoplasms: male breast cancer;
 
 Breast disorders: breast tenderness and enlargement;
 
-Nervous System/Psychiatric: depression
+Nervous System/Psychiatric: depression, suicidal ideation and behavior.

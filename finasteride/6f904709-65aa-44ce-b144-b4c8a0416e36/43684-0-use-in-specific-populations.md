@@ -52,7 +52,7 @@ Safety and effectiveness in pediatric patients have not been established.
 
 Clinical efficacy studies with PROPECIA did not include subjects aged 65 and over.
 Based on the pharmacokinetics of finasteride 5 mg, no dosage adjustment is necessary in the elderly for PROPECIA [see Clinical Pharmacology (12.3)].
-However the efficacy of PROPECIA in the elderly has not been established.
+However, the efficacy of PROPECIA in the elderly has not been established.
 
 ## 8.6 Hepatic Impairment
 
