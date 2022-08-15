@@ -6,7 +6,8 @@ Coadministration of drugs that can decrease the plasma concentrations of posacon
 If such drugs are necessary, patients should be monitored closely for breakthrough fungal infections.
 Posaconazole is also a strong inhibitor of CYP3A4.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole [see Clinical Pharmacology (12.3)].
-The following information was derived from data with posaconazole oral suspension or early tablet formulation.
+The following information was derived from data with posaconazole oral suspension or early tablet formulation unless otherwise noted.
+All drug interactions with posaconazole oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility), are considered relevant to posaconazole delayed-release tablet as well [see Drug Interactions (7.9) and (7.13)].
 
 ## 7.1 Immunosuppressants Metabolized by CYP3A4
 
@@ -74,7 +75,7 @@ However, if concomitant administration is required, close monitoring for breakth
 ## 7.9 Gastric Acid Suppressors/Neutralizers
 
 No clinically relevant effects on the pharmacokinetics of posaconazole were observed when posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors [see Clinical Pharmacology (12.3)].
-No dosage adjustment of posaconazole delayed-release tablets is required when posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
+No dosage adjustment of posaconazole delayed-release tablets is required when concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 
 ## 7.10 Vinca Alkaloids
 
@@ -102,3 +103,8 @@ No dosage adjustment of posaconazole delayed-release tablets is required when gi
 ## 7.14 Glipizide
 
 Although no dosage adjustment of glipizide is required, it is recommended to monitor glucose concentrations when posaconazole and glipizide are concomitantly used.
+
+## 7.16 Venetoclax
+
+Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.10)].
+Refer to the venetoclax prescribing information for more information on the dosing instructions and the extent of increase in venetoclax exposure.

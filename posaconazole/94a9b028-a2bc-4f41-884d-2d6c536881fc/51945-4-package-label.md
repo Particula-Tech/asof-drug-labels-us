@@ -24,7 +24,7 @@ Rx only 1000 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 24 Tablet Bottle Label
 
-NDC 0527-2133-30
+DC 0527-2133-30
 
 Posaconazole Delayed-Release Tablets
 
