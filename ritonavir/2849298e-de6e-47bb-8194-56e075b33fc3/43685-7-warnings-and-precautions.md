@@ -66,7 +66,7 @@ Clinical monitoring is recommended [see Drug Interactions (7) and Clinical Pharm
 
 Treatment with NORVIR therapy alone or in combination with saquinavir has resulted in substantial increases in the concentration of total cholesterol and triglycerides [see Adverse Reactions (6.1)].
 Triglyceride and cholesterol testing should be performed prior to initiating NORVIR therapy and at periodic intervals during therapy.
-Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with NORVIR and HMG CoA reductase inhibitors [see Contraindications (4)and Drug Interactions (7)].
+Lipid disorders should be managed as clinically appropriate, taking into account any potential drug-drug interactions with NORVIR and HMG CoA reductase inhibitors [see Contraindications (4) and Drug Interactions (7)].
 
 ## 5.8 Diabetes Mellitus/Hyperglycemia
 
