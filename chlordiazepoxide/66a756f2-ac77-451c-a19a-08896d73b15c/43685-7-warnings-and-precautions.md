@@ -5,9 +5,7 @@
 Concomitant use of benzodiazepines, including chlordiazepoxide and amitriptyline hydrochloride tablets, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
 
-Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids
-
-alone.
+Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe chlordiazepoxide and amitriptyline hydrochloride tablets concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
 In patients already receiving an opioid analgesic, prescribe a lower initial dose of chlordiazepoxide and amitriptyline hydrochloride tablets than indicated in the absence of an opioid and titrate based on clinical response.
 If an opioid is initiated in a patient already taking chlordiazepoxide and amitriptyline hydrochloride tablets, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
@@ -89,15 +87,10 @@ The additive effects may produce a harmful level of sedation and CNS depression.
 
 Patients receiving chlordiazepoxide and amitriptyline hydrochloride tablets should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
 
-## Usage in Pregnancy
+## Neonatal Sedation and Withdrawal Syndrome
 
-Safe use of chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy and lactation has not been established.
-Because of the chlordiazepoxide component, please note the following:
-
-An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
-Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided.
-The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
-Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
+Use of chlordiazepoxide and amitriptyline hydrochloride tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy or labor for signs of sedation and monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy for signs of withdrawal; manage these infants accordingly.
 
 # PRECAUTIONS
 
@@ -111,6 +104,41 @@ The usual precautions should be observed when treating patients with impaired re
 
 Patients with suicidal ideation should not have easy access to large quantities of the drug.
 The possibility of suicide in depressed patients remains until significant remission occurs.
+
+## Information for Patients
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+## Risks from Concomitant Use with Opioids
+
+Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when chlordiazepoxide and amitriptyline tablets are used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioids have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
+
+## Abuse, Misuse, and Addiction
+
+Inform patients that the use of chlordiazepoxide and amitriptyline tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+
+## Withdrawal Reactions
+
+Inform patients that the continued use of chlordiazepoxide and amitriptyline tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of chlordiazepoxide and amitriptyline tablets may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of chlordiazepoxide and amitriptyline tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+
+## Suicidal Thoughts and Behaviors
+
+Advise patients and caregivers to look for emergence of suicidal thoughts and behaviors, especially early during the treatment and when the dosage is adjusted up or down (see WARNINGS: Suicidal Thoughts and Behaviors in Adolescents and Young Adults).
+
+## Pregnancy
+
+Advise pregnant females that the use of chlordiazepoxide and amitriptyline hydrochloride tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Precautions, Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy (see PRECAUTIONS: Pregnancy).
+
+## Nursing
+
+Advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide and amitriptyline hydrochloride tablets (see PRECAUTIONS: Nursing Mothers).
 
 ## Essential Laboratory Tests
 
@@ -161,12 +189,43 @@ Concurrent administration of ECT and chlordiazepoxide and amitriptyline hydrochl
 
 ## Pregnancy
 
-See WARNINGS section.
+### Pregnancy Exposure Registry
 
-## Nursing Mothers
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including chlordiazepoxide and amitriptyline hydrochloride tablets, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+## Risk Summary
+
+Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+## Clinical Considerations
+
+### Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+## Data
+
+### Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+## Nursing
+
+### Risk Summary
 
 It is not known whether this drug is excreted in human milk.
-As a general rule, nursing should not be undertaken while a patient is on a drug, since many drugs are excreted in human milk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+Because of the potential for serious adverse reaction, including sedation and withdrawal symptoms in breastfed neonates and infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide and amitriptyline hydrochloride tablets.
 
 ## Pediatric Use
 
@@ -190,32 +249,3 @@ Sedating drugs may cause confusion and over-sedation in the elderly; elderly pat
 Clinical studies of chlordiazepoxide and amitriptyline hydrochloride tablets did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal or cardiac function and of concomitant disease or other drug therapy.
-
-## Information for Patients
-
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-
-## Risks from Concomitant Use with Opioids
-
-Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when chlordiazepoxide and amitriptyline hydrochloride tablets are used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug-Drug Interactions).
-
-## Abuse, Misuse, and Addiction
-
-Inform patients that the use of chlordiazepoxide and amitriptyline hydrochloride tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
-
-## Withdrawal Reactions
-
-Inform patients that the continued use of chlordiazepoxide and amitriptyline hydrochloride tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of chlordiazepoxide and amitriptyline hydrochloride tablets may precipitate acute withdrawal reactions, which can be life-threatening.
-Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
-Instruct patients that discontinuation or dosage reduction of chlordiazepoxide and amitriptyline hydrochloride tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
-
-## Suicidal Thoughts and Behaviors
-
-Advise patients and caregivers to look for the emergence of suicidal thoughts and behaviors, especially early during treatment and when the dosage is adjusted up or down (see WARNINGS: Suicidal Thoughts and Behaviors in Adolescents and Young Adults).
-
-Patients should be advised that taking chlordiazepoxide and amitriptyline hydrochloride tablets can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.

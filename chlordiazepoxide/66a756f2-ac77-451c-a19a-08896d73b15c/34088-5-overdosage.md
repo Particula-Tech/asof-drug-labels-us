@@ -1,9 +1,25 @@
-# OVERDOSAGE*
+# OVERDOSAGE
 
 Deaths may occur from overdosage with this class of drugs.
 Multiple drug ingestion (including alcohol) is common in deliberate tricyclic antidepressant overdose.
 As the management is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
 Signs and symptoms of toxicity develop rapidly after tricyclic antidepressant overdose; therefore, hospital monitoring is required as soon as possible.
+
+Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma.
+In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
+Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur.
+In severe overdosage cases, patients may develop respiratory depression and coma.
+Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (see WARNINGS: Abuse, Misuse, and Addiction).
+Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
+
+In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway management.
+Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.
+The risk of withdrawal seizures with flumazenil use may be increased in patients with epilepsy.
+Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus).
+If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage.
+See the flumazenil injection Prescribing Information.
+
+Consider contacting a poison center (1-800-222-1222) or medical toxicologist for additional overdosage management recommendations.
 
 ## Manifestations
 
@@ -56,10 +72,6 @@ Psychiatric referral may be appropriate.
 
 The principles of management of child and adult overdosages are similar.
 It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.
-
-*Poisindex® Toxicologic Management.
-Topic: Antidepressants, Tricyclic.
-Micromedex Inc. Vol. 85.
 
 ### Chlordiazepoxide Overdosage
 
