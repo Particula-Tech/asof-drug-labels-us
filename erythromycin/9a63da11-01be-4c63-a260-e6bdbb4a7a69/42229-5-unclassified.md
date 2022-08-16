@@ -4,13 +4,11 @@ For Dermatologic Use Only
 
 Not for Ophthalmic Use
 
-Made in Israel
+Manufactured by Padagis, Yeruham, Israel
 
-Manufactured by Perrigo
-
-Yeruham 80500, Israel
+Distributed By Padagis, Allegan, MI 49010 www.padagis.com
 
 Rev.
-08/11
+02-22
 
-6E500 RC J4
+6E500 RC J5

@@ -46,11 +46,7 @@ No animal studies have been performed to evaluate the carcinogenic and mutagenic
 However, long-term (2-year) oral studies in rats with erythromycin ethylsuccinate and erythromycin base did not provide evidence of tumorigenicity.
 There was no apparent effect on male or female fertility in rats fed erythromycin (base) at levels up to 0.25% of diet.
 
-## Pregnancy:
-
-### Teratogenic Effects:
-
-#### Pregnancy Category B -
+## Pregnancy: Teratogenic Effects: Pregnancy Category B -
 
 There was no evidence of teratogenicity or any other adverse effect on reproduction in female rats fed erythromycin base (up to 0.25% diet) prior to and during mating, during gestation and through weaning of two successive litters.
 
