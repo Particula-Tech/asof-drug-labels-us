@@ -86,12 +86,14 @@ Safety data involving concomitant use of INVEGA SUSTENNA® with other antipsycho
 
 ## 2.5 Dosage Adjustments
 
-Renal Impairment
+Patients with Renal Impairment
 
 INVEGA SUSTENNA® has not been systematically studied in patients with renal impairment [see Clinical Pharmacology (12.3)].
-For patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min [Cockcroft-Gault Formula]), initiate INVEGA SUSTENNA® with a dose of 156 mg on treatment day 1 and 117 mg one week later.
-Administer both doses in the deltoid muscle.
-Thereafter, follow with monthly injections of 78 mg in either the deltoid or gluteal muscle [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+
+For patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min [Cockcroft-Gault Formula]), initiate INVEGA SUSTENNA® with a dose of 156 mg on treatment Day 1 and 117 mg on Day 8, both in the deltoid muscle.
+Follow with the recommended monthly maintenance dose of 78 mg, administered in either the deltoid or gluteal muscle.
+Adjust monthly maintenance dose based on tolerability and/or efficacy within the strengths of 39 mg, 78 mg, 117 mg, or 156 mg.
+The maximum monthly dose is 156 mg for patients with mild renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 INVEGA SUSTENNA® is not recommended in patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
