@@ -82,7 +82,7 @@ Figure G
 - •Try not to get any spray into your eyes or directly on your nasal septum (the wall between the 2 nostrils).
 
 Step 9.
-Repeat the Steps 6 through 8 and deliver a second spray in the same nostril.
+Repeat Steps 6 through 8 and deliver a second spray in the same nostril.
 
 Step 10.
 Repeat Steps 6 through 8 with 2 sprays in the other nostril.
