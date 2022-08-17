@@ -28,6 +28,8 @@ WARNING: Keep out of reach of children.
 Net Wt.
 45 g
 
+9394604 50104835E
+
 # PRINCIPAL DISPLAY PANEL - 0.1% 45 g Cream Carton
 
 NDC 0187-5164-45
