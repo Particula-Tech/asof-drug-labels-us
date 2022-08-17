@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Desmopressin acetate injection 4 mcg/mL is available as a sterile solution in a 10 mL multiple-dose vial (NDC 69918-901-12), containing 4 mcg desmopressin acetate per mL.
+Desmopressin acetate injection is available as a sterile solution supplied as 40 mcg/10 mL (4 mcg/mL) in 10 mL multiple-dose vials, type 1 glass vial with rubber stopper and a flip off seal, (NDC 69918-901-12).
 
 ## 16.2 Storage and Handling
 
