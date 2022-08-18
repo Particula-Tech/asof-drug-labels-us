@@ -1,41 +1,21 @@
-# PRINCIPAL DISPLAY PANEL
-
-eyevance
-
-pharmaceuticals
-
-Flarex®
-
-(fluorometholone
-
-acetate
-
-ophthalmic
-
-suspension) 0.1%
-
-5 mL Sterile
-
-# PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - 2.5 mL Bottle Carton
 
 Sample - Not for Sale
 
-eyevance
+eyevance ® pharmaceuticals
 
-pharmaceuticals
+Flarex ® (fluorometholone acetate ophthalmic suspension) 0.1 %
 
-Flarex®
-
-(fluorometholone
-
-acetate
-
-ophthalmic
-
-suspension) 0.1%
-
-FOR TOPICAL OPHTHALMIC
-
-USE ONLY
+FOR TOPICAL OPHTHALMIC USE
 
 2.5mL Sterile
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Bottle Carton
+
+eyevance ™ pharmaceuticals
+
+Flarex ® (fluorometholone acetate ophthalmic suspension) 0.1 %
+
+FOR TOPICAL OPHTHALMIC USE
+
+5 mL Sterile

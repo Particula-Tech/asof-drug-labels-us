@@ -1,8 +1,15 @@
-HOW SUPPLIED: FLAREX (fluorometholone acetate ophthalmic suspension) is supplied in white low density polyethylene (LDPE) bottles, with natural LDPE dispensing plugs and pink polypropylene closures.
-The product is supplied as 5mL in an 8 mL bottle.
+# HOW SUPPLIED
 
-5 mL: NDC 71776-100-05
+FLAREX (fluorometholone acetate ophthalmic suspension) 0.1% is supplied in white low density polyethylene (LDPE) bottles, with natural LDPE dispensing plugs and pink polypropylene closures.
+The product is supplied as 5 mL in an 8 mL bottle or as 2.5 mL in an 8 mL bottle.
 
-STORAGE: Store upright between 2°C -25°C (36°F -77°F).
+| 5 mL: | NDC 71776-100-05 |
+| --- | --- |
+| 2.5 mL: | NDC 71776-100-03 |
+
+## STORAGE
+
+Store upright between 2°C to 25°C (36°F to 77°F).
+After opening, FLAREX can be used until the expiration date on the bottle.
 
 Protect from freezing.
