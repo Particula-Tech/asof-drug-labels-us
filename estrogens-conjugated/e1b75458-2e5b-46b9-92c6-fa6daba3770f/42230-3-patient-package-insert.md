@@ -186,4 +186,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0583-4.0 Revised December 2019
+LAB-0583-5.0 Revised July 2022

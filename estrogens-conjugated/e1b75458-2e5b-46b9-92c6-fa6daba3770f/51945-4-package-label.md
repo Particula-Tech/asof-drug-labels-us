@@ -24,11 +24,11 @@ Store product in original package to keep from moisture.
 Tablets should not be removed from blisters until immediately before administration.
 Do not place medication in pill boxes.
 
-Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101 MADE IN IRELAND
+Distributed by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc. Philadelphia, PA 19101 MADE IN IRELAND
 
 Rx only
 
-PAA122824
+PAA195314
 
 LOT: EXP:
 
