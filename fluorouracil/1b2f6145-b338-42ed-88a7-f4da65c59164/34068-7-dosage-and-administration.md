@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-When fluorouracil is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion and reepithelialization.
+When fluorouracil is applied to a lesion, a response occurs with the following sequence: erythema, usually followed by vesiculation, desquamation, erosion, and re-epithelialization.
 
 Fluorouracil should be applied preferably with a nonmetal applicator or suitable glove.
 If fluorouracil is applied with the fingers, the hands should be washed immediately afterward.

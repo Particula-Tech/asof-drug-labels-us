@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
 The most frequent adverse reactions to fluorouracil occur locally and are often related to an extension of the pharmacological activity of the drug.
-These include burning, crusting, allergic contact dermatitis, erosions, erythema, hyperpigmentation, irritation, pain, photosensitivity, pruritus, scarring, rash, soreness and ulceration.
-Ulcerations, other local reactions, cases of miscarriage and a birth defect (ventricular septal defect) have been reported when fluorouracil was applied to mucous membrane areas.
+These include burning, crusting, allergic contact dermatitis, pruritus, scarring, rash, soreness, and ulceration.
+Ulcerations, other local reactions, cases of miscarriage, and a birth defect (ventricular septal defect) have been reported when fluorouracil was applied to mucous membrane areas.
 Leukocytosis is the most frequent hematological side effect.
 
 Although a causal relationship is remote, other adverse reactions which have been reported infrequently are:
@@ -18,3 +18,5 @@ Integumentary: Alopecia, blistering, bullous pemphigoid, discomfort, ichthyosis,
 Special Senses: Conjunctival reaction, corneal reaction, lacrimation, nasal irritation.
 
 Miscellaneous: Herpes simplex.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Taro Pharmaceuticals U.S.A., Inc., at 1-866-923-4914 and/or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
