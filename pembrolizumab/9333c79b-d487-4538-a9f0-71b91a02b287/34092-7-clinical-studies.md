@@ -1316,11 +1316,11 @@ Table 78: Efficacy Results in KEYNOTE-564
 
 ## 14.15 Endometrial Carcinoma
 
-In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is Not MSI-H or dMMR
+In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H
 
 The efficacy of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775 (NCT03517449), a multicenter, open-label, randomized, active-controlled trial that enrolled 827 patients with advanced endometrial carcinoma who had been previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings.
 Patients with endometrial sarcoma, including carcinosarcoma, or patients who had active autoimmune disease or a medical condition that required immunosuppression were ineligible.
-Patients with endometrial carcinoma that were not MSI-H or dMMR were stratified by ECOG performance status, geographic region, and history of pelvic radiation.
+Patients with endometrial carcinoma that were pMMR (using the VENTANA MMR RxDx Panel test) or not MSI-H were stratified by ECOG performance status, geographic region, and history of pelvic radiation.
 Patients were randomized (1:1) to one of the following treatment arms:
 
 - KEYTRUDA 200 mg intravenously every 3 weeks in combination with lenvatinib 20 mg orally once daily.
@@ -1332,19 +1332,19 @@ Assessment of tumor status was performed every 8 weeks.
 The major efficacy outcome measures were OS and PFS as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 Additional efficacy outcome measures included ORR and DoR, as assessed by BICR.
 
-Among the 697 not dMMR patients, 346 patients were randomized to KEYTRUDA in combination with lenvatinib, and 351 patients were randomized to investigator’s choice of doxorubicin (n=254) or paclitaxel (n=97).
-The not dMMR population characteristics were: median age of 65 years (range: 30 to 86), 52% age 65 or older; 62% White, 22% Asian, and 3% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1.
+Among the 697 pMMR patients, 346 patients were randomized to KEYTRUDA in combination with lenvatinib, and 351 patients were randomized to investigator’s choice of doxorubicin (n=254) or paclitaxel (n=97).
+The pMMR population characteristics were: median age of 65 years (range: 30 to 86), 52% age 65 or older; 62% White, 22% Asian, and 3% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1.
 The histologic subtypes were endometrioid carcinoma (55%), serous (30%), clear cell carcinoma (7%), mixed (4%), and other (3%).
 All 697 of these patients received prior systemic therapy for endometrial carcinoma: 67% had one, 30% had two, and 3% had three or more prior systemic therapies.
 Thirty-seven percent of patients received only prior neoadjuvant or adjuvant therapy.
 
-Efficacy results for the not MSI-H or dMMR patients are summarized in Table 79 and Figures 22 and 23.
+Efficacy results for the pMMR or not MSI-H patients are summarized in Table 79 and Figures 22 and 23.
 
 Table 79: Efficacy Results in KEYNOTE-775
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks and Lenvatinib n=346 | Doxorubicin or Paclitaxel n=351 |
 | --- | --- | --- |
-|  | Endometrial Carcinoma (not MSI-H or dMMR) |  |
+|  | Endometrial Carcinoma (pMMR or not MSI-H) |  |
 | OS |  |  |
 | Number (%) of patients with event | 165 (48%) | 203 (58%) |
 | Median in months (95% CI) | 17.4 (14.2, 19.9) | 12.0 (10.8, 13.3) |
@@ -1363,10 +1363,10 @@ Table 79: Efficacy Results in KEYNOTE-775
 | Duration of Response | n=105 | n=53 |
 | Median in months (range) | 9.2 (1.6+, 23.7+) | 5.7 (0.0+, 24.2+) |
 
-| Figure 22: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (Not MSI-H or dMMR) |
+| Figure 22: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
-| Figure 23: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (Not MSI-H or dMMR) |
+| Figure 23: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma

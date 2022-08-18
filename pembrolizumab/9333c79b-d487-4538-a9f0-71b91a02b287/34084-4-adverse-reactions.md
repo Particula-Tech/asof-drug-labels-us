@@ -1349,12 +1349,12 @@ Table 40: SelectedLaboratory abnormalities occurring at same or higher incidence
 
 Endometrial Carcinoma
 
-In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is Not MSI-H or dMMR
+In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H.
 
 The safety of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775, a multicenter, open-label, randomized (1:1), active-controlled trial in patients with advanced endometrial carcinoma previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings [see Clinical Studies (14.15)].
-Patients with endometrial carcinoma that is not MSI-H or dMMR received KEYTRUDA 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
+Patients with endometrial carcinoma that is pMMR or not MSI-H received KEYTRUDA 200 mg every 3 weeks in combination with lenvatinib 20mg orally once daily (n=342) or received doxorubicin or paclitaxel (n=325).
 
-For patients with not MSI-H or dMMR tumor status, the median duration of study treatment was 7.2 months (range 1 day to 26.8 months) and the median duration of exposure to KEYTRUDA was 6.8 months (range: 1 day to 25.8 months).
+For patients with pMMR or not MSI-H tumor status, the median duration of study treatment was 7.2 months (range 1 day to 26.8 months) and the median duration of exposure to KEYTRUDA was 6.8 months (range: 1 day to 25.8 months).
 
 Fatal adverse reactions among these patients occurred in 4.7% of those treated with KEYTRUDA and lenvatinib, including 2 cases of pneumonia, and 1 case of the following: acute kidney injury, acute myocardial infarction, colitis, decreased appetite, intestinal perforation, lower gastrointestinal hemorrhage, malignant gastrointestinal obstruction, multiple organ dysfunction syndrome, myelodysplastic syndrome, pulmonary embolism, and right ventricular dysfunction.
 
@@ -1373,7 +1373,7 @@ Table 41: Adverse Reactions Occurring in ≥20% of Patients with Endometrial Car
 
 |  | All GradesGraded per NCI CTCAE v4.03 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
 | --- | --- | --- | --- | --- |
-|  | Endometrial Carcinoma (not MSI-H or dMMR) |  |  |  |
+|  | Endometrial Carcinoma (pMMR or not MSI-H) |  |  |  |
 | Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and Lenvatinib n=342 |  | Doxorubicin or Paclitaxel n=325 |  |
 | Endocrine |  |  |  |  |
 | HypothyroidismIncludes hypothyroidism, blood thyroid stimulating hormone increased, thyroiditis, secondary hypothyroidism | 67 | 0.9 | 0.9 | 0 |
@@ -1411,7 +1411,7 @@ Table 42: Laboratory Abnormalities Worsened from BaselineWith at least one grade
 
 |  | All GradesGraded per NCI CTCAE v4.03 % | Grades 3-4 % | All Grades % | Grades 3-4 % |
 | --- | --- | --- | --- | --- |
-|  | Endometrial Carcinoma (not MSI-H or dMMR) |  |  |  |
+|  | Endometrial Carcinoma (pMMR or not MSI-H) |  |  |  |
 | Laboratory TestLaboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter: KEYTRUDA and lenvatinib (range: 263 to 340 patients) and doxorubicin or paclitaxel (range: 240 to 322 patients). | KEYTRUDA 200 mg every 3 weeks and Lenvatinib |  | Doxorubicin or Paclitaxel |  |
 | Chemistry |  |  |  |  |
 | Hypertriglyceridemia | 70 | 6 | 45 | 1.7 |
