@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210595"
+  ],
+  "inn": "formoterol",
+  "labeler": "AstraZeneca Pharmaceuticals LP",
+  "package_ndcs": [
+    "0310-0900-30",
+    "0310-0900-60"
+  ],
+  "products": [
+    {
+      "form": "POWDER, METERED",
+      "generic": "aclidinium bromide and formoterol fumarate",
+      "name": "DUAKLIR PRESSAIR"
+    }
+  ],
+  "setid": "8fdb44a3-4fe3-451c-b18f-d458c04fe7eb",
+  "source": "dailymed"
+}
