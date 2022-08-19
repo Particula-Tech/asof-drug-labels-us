@@ -28,11 +28,11 @@ Each brown tablet contains 75 mg ferrous fumarate, USP.)
 
 Rx only
 
-Patients should be counseled that this product does not protect against HIV infections (AIDS) and other sexually transmitted diseases.
+Patients should be counseled that this product does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
 
 # INFORMATION FOR THE PATIENT
 
-See patient labeling printed below.
+- See patient labeling printed below.
 
 # NON-CONTRACEPTIVE HEALTH BENEFITS
 
@@ -58,6 +58,9 @@ Effects from long-term use:
 
 # BRIEF SUMMARY PATIENT PACKAGE INSERT
 
+This product (like all oral contraceptives) is intended to prevent pregnancy.
+It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+
 Oral contraceptives, also known as “birth control pills” or “the pill,” are taken to prevent pregnancy and, when taken correctly, have a failure rate of about 1% per year when used without missing any pills.
 The typical failure rate of large numbers of pill users is less than 3% per year when women who miss pills are included.
 For most women, oral contraceptives are also free of serious or unpleasant side effects.
@@ -72,6 +75,9 @@ The risks associated with taking oral contraceptives increase significantly if y
 - Have or have had clotting disorders, heart attack, stroke, angina pectoris, cancer of the breast or sex organs, jaundice, or malignant or benign liver tumors.
 
 You should not take the pill if you suspect you are pregnant or have unexplained vaginal bleeding.
+
+| Cigarette smoking increases the risk of serious cardiovascular side effects from oral contraceptive use. This risk increases with age and with heavy smoking (15 or more cigarettes per day) and is quite marked in women over 35 years of age. Women who use oral contraceptives are strongly advised not to smoke. |
+| --- |
 
 Most side effects of the pill are not serious.
 The most common side effects are nausea, vomiting, bleeding between menstrual periods, weight gain, breast tenderness, and difficulty wearing contact lenses.
@@ -92,9 +98,8 @@ The symptoms associated with these serious side effects are discussed in the det
 Notify your doctor or healthcare provider if you notice any unusual physical disturbances while taking the pill.
 In addition, drugs such as rifampin, as well as some anticonvulsants and some antibiotics, may decrease oral contraceptive effectiveness.
 
-Most of the studies to date on breast cancer and pill use have found no increase in the risk of developing breast cancer, although some studies have reported an increased risk of developing breast cancer in certain groups of women.
-However, some studies have found an increase in the risk of developing cancer of the cervix in women taking the pill, but this finding may be related to differences in sexual behavior or other factors not related to use of the pill.
-Therefore, there is insufficient evidence to rule out the possibility that the pill may cause cancer of the breast or cervix.
+There may be slight increases in the risk of breast cancer among current users of hormonal birth control pills with longer duration of use of 8 years or more.
+Some studies have found an increase in the risk of developing cancer of the cervix in women taking the pill, but this finding may be related to differences in sexual behavior or other factors not related to use of the pill.
 
 Taking the pill provides some important non-contraceptive benefits.
 These include less painful menstruation, less menstrual blood loss and anemia, fewer pelvic infections, and fewer cancers of the ovary and the lining of the uterus.
@@ -124,14 +129,12 @@ The tablets are arranged in either three or four rows of seven tablets each, wit
 
 Each light yellow tablet contains 1 mg norethindrone acetate and 20 mcg ethinyl estradiol.
 
-Each pinktablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estradiol.
+Each pink tablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estradiol.
 
-Each browntablet contains 75 mg ferrous fumarate, and is intended to help you remember to take the tablets correctly.
+Each brown tablet contains 75 mg ferrous fumarate, and is intended to help you remember to take the tablets correctly.
 These brown tablets are not intended to have any health benefit.
 
-DIRECTIONS
-
-To remove a tablet, press down on it with your thumb or finger.
+DIRECTIONS To remove a tablet, press down on it with your thumb or finger.
 The tablet will drop through the back of the tablet dispenser.
 Do not press with your thumbnail, fingernail, or any other sharp object.
 
@@ -165,7 +168,9 @@ BEFORE YOU START TAKING YOUR PILLS
 2. LOOK AT YOUR PILL PACK TO SEE IF IT HAS 21 OR 28 PILLS: The 21-Day pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week without pills.
    The 28-Day pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week of reminder brown pills (without hormones).
 3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills.
-   3) the week numbers as shown in the following pictures: Junel 21 1/20 will contain: ALL LIGHT YELLOW PILLS
+   3) the week numbers as shown in the following pictures:
+
+Junel 21 1/20 will contain:ALL LIGHT YELLOW PILLS
 
 Junel 21 1.5/30 will contain: ALL PINK PILLS
 
@@ -247,28 +252,15 @@ If you MISS 3 OR MORE light yellow or pink “active” pills in a row (during t
 3. You COULD GET PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as condoms or foam) as a back-up method of birth control until you have taken a light yellow or pink “active” pill every day for 7 days.
 
-A REMINDER FOR THOSE ON 28-DAY PACKS
-
-IF YOU FORGET ANY OF THE 7 BROWN “REMINDER” PILLS IN WEEK 4:
-
-THROW AWAY THE PILLS YOU MISSED.
-
-KEEP TAKING 1 PILL EACH DAY UNTIL THE PACK IS EMPTY.
-
-YOU DO NOT NEED A BACK-UP METHOD.
-
-FINALLY, IF YOU ARE STILL NOT SURE WHAT TO DO ABOUT THE PILLS YOU HAVE MISSED:
-
-Use a BACK-UP METHOD anytime you have sex.
-
-KEEP TAKING ONE LIGHT YELLOW OR PINK “ACTIVE” PILL EACH DAY until you can reach your doctor or clinic.
+| A REMINDER FOR THOSE ON 28-DAY PACKS IF YOU FORGET ANY OF THE 7 BROWN “REMINDER” PILLS IN WEEK 4: THROW AWAY THE PILLS YOU MISSED. KEEP TAKING 1 PILL EACH DAY UNTIL THE PACK IS EMPTY. YOU DO NOT NEED A BACK-UP METHOD. |
+| --- |
+| FINALLY, IF YOU ARE STILL NOT SURE WHAT TO DO ABOUT THE PILLS YOU HAVE MISSED: Use a BACK-UP METHOD anytime you have sex. KEEP TAKING ONE LIGHT YELLOW OR PINK “ACTIVE” PILL EACH DAY until you can reach your doctor or clinic. |
 
 Based on his or her assessment of your medical needs, your doctor or healthcare provider has prescribed this drug for you.
 Do not give this drug to anyone else.
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all drugs out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-This product (like all oral contraceptives) is intended to prevent pregnancy.
-It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+Teva Pharmaceuticals USA, Inc. North Wales, PA 19454

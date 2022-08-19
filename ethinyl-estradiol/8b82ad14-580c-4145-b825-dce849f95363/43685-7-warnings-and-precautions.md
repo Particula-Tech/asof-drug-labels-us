@@ -33,7 +33,7 @@ Layde and V. Beral, Reference 18.
 
 Oral contraceptives may compound the effects of well-known risk factors, such as hypertension, diabetes, hyperlipidemias, age and obesity (19).
 In particular, some progestogens are known to decrease HDL cholesterol and cause glucose intolerance, while estrogens may create a state of hyperinsulinism (20-24).
-Oral contraceptives have been shown to increase blood pressure among users (see section 10 in WARNINGS).
+Oral contraceptives have been shown to increase blood pressure among users (see section 9 in WARNINGS).
 Similar effects on risk factors have been associated with an increased risk of heart disease.
 Oral contraceptives must be used with caution in women with cardiovascular disease risk factors.
 
@@ -83,7 +83,7 @@ One study gathered data from a variety of sources which have estimated the morta
 These estimates include the combined risk of death associated with contraceptive methods plus the risk attributable to pregnancy in the event of method failure.
 Each method of contraception has its specific benefits and risks.
 The study concluded that with the exception of oral contraceptive users 35 and older who smoke and 40 and older who do not smoke, mortality associated with all methods of birth control is low and below that associated with childbirth.
-The observation of a possible increase in risk of mortality with age for oral contraceptive users is based on data gathered in the 1970's--but not reported until 1983 (41).
+The observation of a possible increase in risk of mortality with age for oral contraceptive users is based on data gathered in the 1970's but not reported until 1983 (41).
 However, current clinical practice involves the use of lower estrogen dose formulations combined with careful restriction of oral contraceptive use to women who do not have the various risk factors listed in this labeling.
 
 Because of these changes in practice and, also, because of some limited new data which suggest that the risk of cardiovascular disease with the use of oral contraceptives may now be less than previously observed (Porter JB, Hunter J, Jick H, et al. Oral contraceptives and nonfatal vascular disease.
@@ -96,29 +96,29 @@ The Committee concluded that although cardiovascular disease risks may be increa
 Therefore, the Committee recommended that the benefits of oral contraceptive use by healthy non-smoking women over 40 may outweigh the possible risks.
 Of course, older women, as all women who take oral contraceptives, should take the lowest possible dose formulation that is effective.
 
-TABLE III: ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL OF FERTILITY PER 100,000 NONSTERILE WOMEN, BY FERTILITY CONTROL METHOD ACCORDING TO AGE
+TABLE III: ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL OF FERTILITY PER 100,000 NONSTERILE WOMEN BY FERTILITY CONTROL METHOD ACCORDING TO AGE
 
 | Method of control and outcome | 15 to 19 | 20 to 24 | 25 to 29 | 30 to 34 | 35 to 39 | 40 to 44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methodsDeaths are birth related. | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
-| Oral contraceptives non-smokerDeaths are method related. | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
-| Oral contraceptives smoker | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
-| Condom | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
-| Diaphragm/spermicide | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
-| Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
+| No fertility control methods | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| Oral contraceptives non-smoker** | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
+| Oral contraceptives smoker** | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
+| IUD** | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
+| Condom* | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
+| Diaphragm/spermicide* | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
+| Periodic abstinence* | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
+| *Deaths are birth related.**Deaths are method related. |  |  |  |  |  |  |
 | Adapted from H.W. Ory, Reference 41. |  |  |  |  |  |  |
 
-## 3. Carcinoma of the Reproductive Organs
+## 3. Malignant Neoplasms
 
-Numerous epidemiological studies have been performed on the incidence of breast, endometrial, ovarian, and cervical cancer in women using oral contraceptives.
-Most of the studies on breast cancer and oral contraceptive use report that the use of oral contraceptives is not associated with an increase in the risk of developing breast cancer (42,44,89).
-Some studies have reported an increased risk of developing breast cancer in certain subgroups of oral contraceptive users, but the findings reported in these studies are not consistent (43,45-49,85-88).
+Breast Cancer Junel is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive (see CONTRAINDICATIONS).
 
-Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia in some populations of women (51-54).
-However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use (see ADVERSE REACTIONS, Postmarketing Experience).
 
-In spite of many studies of the relationship between oral contraceptive use and breast and cervical cancers, a cause and effect relationship has not been established.
+Cervical Cancer Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia in some populations of women (51-54).(However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
 
 ## 4. Hepatic Neoplasia
 
@@ -132,7 +132,7 @@ However, these cancers are extremely rare in the U.S., and the attributable risk
 ## 5. Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
 
 During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications such as COCs.
-Discontinue Junel prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir [see Contraindications].
+Discontinue Junel prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir (see Contraindications).
 Junel can be restarted approximately 2 weeks following completion of treatment with the combination drug regimen.
 
 ## 6. Ocular Lesions
@@ -168,7 +168,7 @@ However, in the non-diabetic woman, oral contraceptives appear to have no effect
 Because of these demonstrated effects, prediabetic and diabetic women should be carefully observed while taking oral contraceptives.
 
 A small proportion of women will have persistent hypertriglyceridemia while on the pill.
-As discussed earlier (see WARNINGS1a. and 1d.), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
+As discussed earlier (see WARNINGS 1a.and 1d.), changes in serum triglycerides and lipoprotein levels have been reported in oral contraceptive users.
 
 ## 10. Elevated Blood Pressure
 
@@ -243,7 +243,7 @@ However, clinical pharmacokinetic studies have not demonstrated any consistent e
 
 Atorvastatin: Coadministratrion of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%, respectively.
 
-Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation Do not co-administer Junel with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations(see Warnings, RISK OF LIVER ENZYME ELEVATIONS WITHCONCOMITANT HEPATITIS C TREATMENT).
+Concomitant Use with HCV Combination Therapy– Liver Enzyme Elevation Do not co-administer Junel with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations (see Warnings, RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).
 
 Other: Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol concentrations, possibly by inhibition of conjugation.
 A reduction in contraceptive effectiveness and increased incidence of breakthrough bleeding has been suggested with phenylbutazone.
@@ -275,7 +275,7 @@ See WARNINGS section.
 
 ## 11. Pregnancy
 
-Pregnancy Category X. See CONTRAINDICATIONS and WARNINGS sections.
+See CONTRAINDICATIONS and WARNINGS sections.
 
 ## 12. Nursing Mothers
 

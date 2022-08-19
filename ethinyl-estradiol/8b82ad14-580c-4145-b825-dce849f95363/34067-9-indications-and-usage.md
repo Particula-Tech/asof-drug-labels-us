@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Junel 21 and Junel Fe 28 are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
+Junel21 and Junel Fe 28 are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception.
 
 Oral contraceptives are highly effective.
 Table I lists the typical accidental pregnancy rates for users of combination oral contraceptives and other methods of contraception.
@@ -9,11 +9,11 @@ Correct and consistent use of methods can result in lower failure rates.
 
 TABLE I: LOWEST EXPECTED AND TYPICAL FAILURE RATES DURING THE FIRST YEAR OF CONTINUOUS USE OF A METHOD
 
-| % of Women Experiencing an Unintended Pregnancy in the First Year of Continuous Use |  |  |
+| % Of Women Experiencing an Unintended Pregnancy in the First Year of Continuous Use |  |  |
 | --- | --- | --- |
-| Method | Lowest ExpectedThe authors' best guess of the percentage of women expected to experience an accidental pregnancy among couples who initiate a method (not necessarily for the first time) and who use it consistently and correctly during the first year if they do not stop for any other reason. | TypicalThis term represents “typical” couples who initiate use of a method (not necessarily for the first time), who experience an accidental pregnancy during the first year if they do not stop use for any other reason. |
+| Method | Lowest Expected* | Typical** |
 | (No contraception) | (85) | (85) |
-| Oral contraceptives combined progestin only | 0.1 0.5 | 3 N/AN/A--Data not available. N/A |
+| Oral contraceptives combined progestin only | 0.1 0.5 | 3 N/A*** N/A*** |
 | Diaphragm with spermicidal cream or jelly | 6 | 20 |
 | Spermicides alone (foam, creams, gels, vaginal suppositories, and vaginal film) | 6 | 26 |
 | Vaginal Sponge nulliparous parous | 9 20 | 20 40 |
@@ -27,3 +27,9 @@ TABLE I: LOWEST EXPECTED AND TYPICAL FAILURE RATES DURING THE FIRST YEAR OF CONT
 | Female sterilization | 0.5 | 0.5 |
 | Male sterilization | 0.10 | 0.15 |
 | Adapted from RA Hatcher et al, Reference 7. |  |  |
+
+* The authors' best guess of the percentage of women expected to experience an accidental pregnancy among couples who initiate a method (not necessarily for the first time) and who use it consistently and correctly during the first year if they do not stop for any other reason.
+
+** This term represents “typical” couples who initiate use of a method (not necessarily for the first time), who experience an accidental pregnancy during the first year if they do not stop use for any other reason.
+
+*** N/A-Data not available.

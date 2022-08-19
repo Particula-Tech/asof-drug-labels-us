@@ -14,7 +14,7 @@ Norethindrone acetate and ethinyl estradiol are subject to first-pass metabolism
 
 ## Distribution
 
-Volume of distribution of norethindrone and ethinyl estradiol ranges from 2 to 4 L/kg (1-3).
+Volume of distribution of norethindrone and ethinyl estradiol ranges from 2 to 4 L/kg (1 to 3).
 Plasma protein binding of both steroids is extensive (greater than 95%); norethindrone binds to both albumin and sex hormone binding globulin, whereas ethinyl estradiol binds only to albumin (4).
 
 ## Metabolism
@@ -31,7 +31,7 @@ Ethinyl estradiol may undergo enterohepatic circulation (6).
 
 ## Excretion
 
-Norethindrone and ethinyl estradiol are excreted in both urine and feces, primarily as metabolites (5,6).
+Norethindrone and ethinyl estradiol are excreted in both urine and feces, primarily as metabolites (5, 6).
 Plasma clearance values for norethindrone and ethinyl estradiol are similar (approximately 0.4 L/hr/kg) (1-3).
 
 ## Special Population

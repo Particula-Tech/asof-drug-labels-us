@@ -19,12 +19,12 @@ Two dosage regimens are described, one of which may be more convenient or suitab
 For the initial cycle of therapy, the patient begins her tablets according to the Day-1 Start or Sunday-Start regimen.
 With either regimen, the patient takes one tablet daily for 21 consecutive days followed by one week of no tablets.
 
-1. Sunday-Start Regimen: The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
+1. Sunday-Start Regimen:The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
    When menstrual flow begins on Sunday, the first tablet is taken on the same day.
    The last tablet in the dispenser will then be taken on a Saturday, followed by no tablets for a week (7 days).
    For all subsequent cycles, the patient then begins a new 21-tablet regimen on the eighth day, Sunday, after taking her last tablet.
    Following this regimen, of 21 days on--7 days off, the patient will start all subsequent cycles on a Sunday.
-2. Day-1 Regimen: The first day of menstrual flow is Day 1.
+2. Day-1 Regimen:The first day of menstrual flow is Day 1.
    The patient places the self-adhesive days of the week sticker that corresponds to her starting day over the preprinted days on the blister card.
    She starts taking one tablet daily, beginning with the first tablet in the top row.
    The patient completes her 21-tablet regimen when she has taken the last tablet in the tablet dispenser.
@@ -43,22 +43,22 @@ If spotting occurs while on the usual regimen of one tablet daily, the patient s
 
 If the patient forgets to take one or more tablets, the following is suggested:
 
-Onetablet is missed
+One tablet is missed
 
 - take tablet as soon as remembered
 - take next tablet at the regular time
 
-Twoconsecutive tablets are missed (week 1 or week 2)
+Two consecutive tablets are missed (week 1 or week 2)
 
-- take twotablets as soon as remembered
-- take twotablets the next day
+- take two tablets as soon as remembered
+- take two tablets the next day
 - use another birth control method for seven days following the missed tablets
 
-Twoconsecutive tablets are missed (week 3)
+Two consecutive tablets are missed (week 3)
 
 Sunday-Start Regimen:
 
-- take onetablet daily until Sunday
+- take one tablet daily until Sunday
 - discard remaining tablets
 - start new pack of tablets immediately (Sunday)
 - use another birth control method for seven days following the missed tablets
@@ -73,7 +73,7 @@ Three(or more) consecutive tablets are missed
 
 Sunday-Start Regimen:
 
-- take onetablet daily until Sunday
+- take one tablet daily until Sunday
 - discard remaining tablets
 - start new pack of tablets immediately (Sunday)
 - use another birth control method for seven days following the missed tablets
@@ -124,22 +124,22 @@ If spotting occurs while the patient is taking light yellow or pink tablets, con
 
 If the patient forgets to take one or more light yellow or pink tablets, the following is suggested:
 
-Onetablet is missed
+One tablet is missed
 
 - take tablet as soon as remembered
 - take next tablet at the regular time
 
-Twoconsecutive tablets are missed (week 1 or week 2)
+Two consecutive tablets are missed (week 1 or week 2)
 
-- take twotablets as soon as remembered
-- take twotablets the next day
+- take two tablets as soon as remembered
+- take two tablets the next day
 - use another birth control method for seven days following the missed tablets
 
-Twoconsecutive tablets are missed (week 3)
+Two consecutive tablets are missed (week 3)
 
 Sunday-Start Regimen:
 
-- take onetablet daily until Sunday
+- take one tablet daily until Sunday
 - discard remaining tablets
 - start new pack of tablets immediately (Sunday)
 - use another birth control method for seven days following the missed tablets
@@ -154,7 +154,7 @@ Three(or more) consecutive tablets are missed
 
 Sunday-Start Regimen:
 
-- take onetablet daily until Sunday
+- take one tablet daily until Sunday
 - discard remaining tablets
 - start new pack of tablets immediately (Sunday)
 - use another birth control method for seven days following the missed tablets

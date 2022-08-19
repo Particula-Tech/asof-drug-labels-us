@@ -1,5 +1,11 @@
 # DETAILED PATIENT PACKAGE INSERT
 
+| Cigarette smoking increases the risk of serious cardiovascular side effects from oral contraceptive use. This risk increases with age and with heavy smoking (15 or more cigarettes per day) and is quite marked in women over 35 years of age. Women who use oral contraceptives are strongly advised not to smoke. |
+| --- |
+
+This product (like all oral contraceptives) is intended to prevent pregnancy.
+It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
+
 What You Should Know About Oral Contraceptives
 
 Any woman who considers using oral contraceptives (the “birth control pill” or “the pill”) should understand the benefits and risks of using this form of birth control.
@@ -47,6 +53,9 @@ Withdrawal: 19%
 No method: 85%
 
 WHO SHOULD NOT TAKE ORAL CONTRACEPTIVES
+
+| Cigarette smoking increases the risk of serious cardiovascular side effects from oral contraceptive use. This risk increases with age and with heavy smoking (15 or more cigarettes per day) and is quite marked in women over 35 years of age. Women who use oral contraceptives are strongly advised not to smoke. |
+| --- |
 
 Some women should not use the pill.
 For example, you should not take the pill if you are pregnant or think you may be pregnant.
@@ -105,11 +114,8 @@ RISKS OF TAKING ORAL CONTRACEPTIVES
    In addition, a possible but not definite association has been found with the pill and liver cancers in two studies, in which a few women who developed these very rare cancers were found to have used oral contraceptives for long periods.
    However, liver cancers are extremely rare.
    The chance of developing liver cancer from using the pill is thus even rarer.
-5. Cancer of the Reproductive Organs and Breasts There is, at present, no confirmed evidence that oral contraceptive use increases the risk of developing cancer of the reproductive organs.
-   Studies to date of women taking the pill have reported conflicting findings on whether pill use increases the risk of developing cancer of the breast or cervix.
-   Most of the studies on breast cancer and pill use have found no overall increase in the risk of developing breast cancer, although some studies have reported an increased risk of developing breast cancer in certain groups of women.
-   Women who use oral contraceptives and have a strong family history of breast cancer or who have breast nodules or abnormal mammograms should be closely followed by their doctors.
-   Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
+5. Risk of Cancer It is not known if hormonal birth control pills cause breast cancer.
+   Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
    However, this finding may be related to factors other than the use of oral contraceptives.
 
 ESTIMATED RISK OF DEATH FROM A BIRTH CONTROL METHOD OR PREGNANCY
@@ -121,13 +127,17 @@ ANNUAL NUMBER OF BIRTH-RELATED OR METHOD-RELATED DEATHS ASSOCIATED WITH CONTROL 
 
 | Method of control and outcome | 15 to 19 | 20 to 24 | 25 to 29 | 30 to 34 | 35 to 39 | 40 to 44 |
 | --- | --- | --- | --- | --- | --- | --- |
-| No fertility control methodsDeaths are birth related. | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
-| Oral contraceptives non-smokerDeaths are method related. | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
-| Oral contraceptives smoker | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
-| IUD | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
-| Condom | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
-| Diaphragm/spermicide | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
-| Periodic abstinence | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
+| No fertility control methods* | 7.0 | 7.4 | 9.1 | 14.8 | 25.7 | 28.2 |
+| Oral contraceptives non-smoker** | 0.3 | 0.5 | 0.9 | 1.9 | 13.8 | 31.6 |
+| Oral contraceptives smoker** | 2.2 | 3.4 | 6.6 | 13.5 | 51.1 | 117.2 |
+| IUD** | 0.8 | 0.8 | 1.0 | 1.0 | 1.4 | 1.4 |
+| Condom* | 1.1 | 1.6 | 0.7 | 0.2 | 0.3 | 0.4 |
+| Diaphragm/spermicide* | 1.9 | 1.2 | 1.2 | 1.3 | 2.2 | 2.8 |
+| Periodic abstinence* | 2.5 | 1.6 | 1.6 | 1.7 | 2.9 | 3.6 |
+
+*Deaths are birth related.
+
+**Deaths are method related.
 
 In the above table, the risk of death from any birth control method is less than the risk of childbirth, except for oral contraceptive users over the age of 35 who smoke and pill users over the age of 40 even if they do not smoke.
 It can be seen in the table that for women aged 15 to 39, the risk of death was highest with pregnancy (7 to 26 deaths per 100,000 women, depending on age).
@@ -214,9 +224,9 @@ The tablets are arranged in either three or four rows of seven tablets each, wit
 
 Each light yellow tablet contains 1 mg norethindrone acetate and 20 mcg ethinyl estradiol.
 
-Each pinktablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estradiol.
+Each pink tablet contains 1.5 mg norethindrone acetate and 30 mcg ethinyl estradiol.
 
-Each browntablet contains 75 mg ferrous fumarate, and is intended to help you remember to take the tablets correctly.
+Each brown tablet contains 75 mg ferrous fumarate, and is intended to help you remember to take the tablets correctly.
 These brown tablets are not intended to have any health benefit.
 
 DIRECTIONS
@@ -260,7 +270,7 @@ BEFORE YOU START TAKING YOUR PILLS
 Junel 21 1/20 will contain: ALL LIGHT YELLOW PILLS Junel 21 1.5/30 will contain: ALL PINK PILLS
 
 Junel Fe 1/20 will contain: 21 LIGHT YELLOW PILLS for WEEKS 1, 2, and 3.
-WEEK 4 will contain BROWN PILLS ONLY.
+WEEK 4 will contain BROWN PILLS ONLY
 
 Junel Fe 1.5/30 will contain: 21 PINK PILLS for WEEKS 1, 2, and 3.
 WEEK 4 will contain BROWN PILLS ONLY.
@@ -415,17 +425,17 @@ Periodic Examination
 Your doctor or healthcare provider will take a complete medical and family history before prescribing oral contraceptives.
 At that time and about once a year thereafter, he or she will generally examine your blood pressure, breasts, abdomen, and pelvic organs (including a Papanicolaou smear, i.e., test for cancer).
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all drugs out of the reach of children.
 
 Rx only
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-All brand names listed are the registered trademarks of their respective owners and are not trademarks of Teva Pharmaceuticals USA.
+Brands listed are the trademarks of their respective owners.
 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-B 8/2017
+C 7/2022
 
 To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1800-FDA-1088 or www.fda.gov/medwatch.

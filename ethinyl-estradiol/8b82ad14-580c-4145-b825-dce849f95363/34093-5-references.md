@@ -1,20 +1,20 @@
 # REFERENCES
 
-1. Back DJ, Breckenridge AM, Crawford FE, Mclver M, Orme ML’E, Rowe PH and Smith E: Kinetics of norethindrone in women II.
+1. Back DJ, Breckenridge AM, Crawford FE, McIver M, Orme ML’E, Rowe PH and Smith E: Kinetics of norethindrone in women II.
    Single-dose kinetics.
-   Clin Pharmacol Ther 1978;24:448-453.
+   Clin Pharmacol Ther 1978;24: 448-453.
 2. Humpel M, Nieuwober B, Wendt H and Speck U: Investigations of pharmacokinetics of ethinyl estradiol to specific consideration of a possible first-pass effect in women.
    Contraception 1979;19:421-432.
-3. Back DJ, Breckenridge AM, Crawford FE, Maclver M, Orme ML’E, Rowe PH and Watts MJ.
+3. Back DJ, Breckenridge AM, Crawford FE, MacIver M, Orme ML’E, Rowe PH and Watts MJ.
    An investigation of the pharmacokinetics of ethinyl estradiol in women using radioimmunoassay.
-   Contraception 1979;20:263-273.
+   Contraception 1979; 20:263-273.
 4. Hammond GL, Lahteenmaki PLA, Lahteenmaki P and Luukkainen T. Distribution and percentages of non-protein bound contraceptive steroids in human serum.
    J Steriod Biochem 1982;17:375-380.
 5. Fotherby K. Pharmacokinetics and metabolism of progestins in humans, in Pharmacology of the contraceptive steroids, Goldzieher JW, Fotherby K (eds), Raven Press, Ltd., New York, 1994, 99-126.
 6. Goldzieher JW.
    Pharmacokinetics and metabolism of ethinyl estrogens, in Pharmacology of the contraceptive steroids, Goldzieher JW, Fotherby K (eds), Raven Press Ltd., New York, 1994: 127-151.
 7. Hatcher RA, et al. 1998.
-   Contraceptive Technology, Sixteenth Edition.
+   Contraceptive Technology, Seventeenth Edition.
    New York: Irvington Publishers.
 8. Stadel, B.V.: Oral contraceptives and cardiovascular disease.
    (Pt.
@@ -26,12 +26,12 @@
    New England Journal of Medicine, 305:672-677, 1981.
 10. Adam, S.A., and M. Thorogood: Oral contraception and myocardial infarction revisited: The effects of new preparations and prescribing patterns.
     Brit.
-    J. Obstet. and Gynec., 88:838-845, 1981.
+    J. Obstet. and Gynec, 88:838-845, 1981.
 11. Mann, J.I., and W.H.
     Inman: Oral contraceptives and death from myocardial infarction.
     Brit.
     Med.
-    J., 2(5965):245-248, 1975.
+    J., 2(5965): 245-248, 1975.
 12. Mann, J.I., M.P.
     Vessey, M. Thorogood, and R. Doll: Myocardial infarction in young women with special reference to oral contraceptive practice.
     Brit.
@@ -176,7 +176,7 @@
     Med.
     J., 293:709-710, 1986.
 50. Shapiro, S.: Oral contraceptives: Time to take stock.
-    N.E.J.M., 315:410-451, 1987.
+    N.E.J.M., 315:450-451, 1987.
 51. Ory, H., Z. Naib, S.B.
     Conger, R.A.
     Hatcher, and C.W.
@@ -301,7 +301,7 @@
     (Monographs of the Mario Negri Institute for Pharmacological Research, Milan.)
 78. Back DJ, Orme ML’E.
     Drug interactions, in Pharmacology of the contraceptive steroids.
-    Goldzieher JW, Fotherby K (eds) Raven Press, Ltd., New York, 1994, 407-425.
+    Goldzieher JW, Fotherby K (eds),Raven Press, Ltd., New York, 1994, 407-425.
 79. The Cancer and Steroid Hormone Study of the Centers for Disease Control and the National Institute of Child Health and Human Development: Oral contraceptive use and the risk of ovarian cancer.
     J.A.M.A., 249:1596-1599, 1983.
 80. The Cancer and Steroid Hormone Study of the Centers for Disease Control and the National Institute of Child Health and Human Development: Combination oral contraceptive use and the risk of endometrial cancer.
@@ -340,14 +340,7 @@
     J. Natl.
     Cancer Inst., 81:1313-1321, 1989.
 
-The patient labeling for oral contraceptive drug products is set forth below:
-
-This product (like all oral contraceptives) is intended to prevent pregnancy.
-It does not protect against HIV infection (AIDS) and other sexually transmitted diseases.
-
-Teva Pharmaceuticals USA, Inc.
-
-North Wales, PA 19454
+Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-B 8/2017
+C 7/2022
