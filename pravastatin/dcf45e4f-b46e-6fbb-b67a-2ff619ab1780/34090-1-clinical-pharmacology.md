@@ -2,21 +2,24 @@
 
 ## 12.1 Mechanism of Action
 
-Pravastatin is a reversible inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, an early and rate limiting step in the biosynthetic pathway for cholesterol.
-In addition, pravastatin reduces VLDL and TG and increases HDL-C.
+Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol.
+
+## 12.2 Pharmacodynamics
+
+Inhibition of HMG-CoA reductase by pravastatin accelerates the expression of LDL-receptors, followed by the uptake of LDL-C from blood to the liver, leading to a decrease in plasma LDL-C and total cholesterol.
+Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very-low-density lipoproteins.
+The maximum LDL-C reduction of pravastatin is usually achieved by 4 weeks and is maintained after that.
 
 ## 12.3 Pharmacokinetics
-
-General
 
 Absorption
 
 Pravastatin sodium is administered orally in the active form.
-In studies in man, peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration.
+Peak plasma pravastatin concentrations occurred 1 to 1.5 hours upon oral administration.
 Based on urinary recovery of total radiolabeled drug, the average oral absorption of pravastatin is 34% and absolute bioavailability is 17%.
-While the presence of food in the gastrointestinal tract reduces systemic bioavailability, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.
+While the presence of food in the gastrointestinal tract reduces area under the concentration-time curve (AUC) and Cmax by 31% and 49%, respectively, the lipid-lowering effects of the drug are similar whether taken with or 1 hour prior to meals.
 
-Pravastatin plasma concentrations, including area under the concentration-time curve (AUC), Cmax, and steady-state minimum (Cmin), are directly proportional to administered dose.
+Pravastatin plasma concentrations, including AUC, Cmax, and steady-state minimum (Cmin), are directly proportional to administered dose.
 Systemic bioavailability of pravastatin administered following a bedtime dose was decreased 60% compared to that following an AM dose.
 Despite this decrease in systemic bioavailability, the efficacy of pravastatin administered once daily in the evening, although not statistically significant, was marginally more effective than that after a morning dose.
 
@@ -29,6 +32,8 @@ Distribution
 
 Approximately 50% of the circulating drug is bound to plasma proteins.
 
+Elimination
+
 Metabolism
 
 The major biotransformation pathways for pravastatin are: (a) isomerization to 6-­epi pravastatin and the 3α-hydroxyisomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945.
@@ -40,7 +45,7 @@ Excretion
 Approximately 20% of a radiolabeled oral dose is excreted in urine and 70% in the feces.
 After intravenous administration of radiolabeled pravastatin to normal volunteers, approximately 47% of total body clearance was via renal excretion and 53% by non-renal routes (i.e., biliary excretion and biotransformation).
 
-Following single dose oral administration of 14C-pravastatin, the radioactive elimination t½ for pravastatin is 1.8 hours in humans.
+Following single dose oral administration of 14C-pravastatin, the radioactive elimination t½ for pravastatin is 1.8 hours in humans and the elimination half-life (t½) for total radioactivity (pravastatin plus metabolites) is 77 hours.
 
 Specific Populations
 
@@ -48,12 +53,12 @@ Renal Impairment
 
 A single 20 mg oral dose of pravastatin was administered to 24 patients with varying degrees of renal impairment (as determined by creatinine clearance).
 No effect was observed on the pharmacokinetics of pravastatin or its 3α-hydroxy isomeric metabolite (SQ 31,906).
-Compared to healthy subjects with normal renal function, patients with severe renal impairment had 69% and 37% higher mean AUC and Cmax values, respectively, and a 0.61 hour shorter t½ for the inactive enzymatic ring hydroxylation metabolite (SQ 31,945).
+Compared to healthy subjects with normal renal function, patients with severe renal impairment had 69% and 37% higher mean AUC and Cmax values, respectively, and a 0.61 hour shorter t½ for the inactive enzymatic ring hydroxylation metabolite (SQ 31,945) [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
 In a study comparing the kinetics of pravastatin in patients with biopsy confirmed cirrhosis (N=7) and normal subjects (N=7), the mean AUC varied 18-fold in cirrhotic patients and 5-fold in healthy subjects.
-Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects [see Warnings and Precautions (5.3)].
+Similarly, the peak pravastatin values varied 47-fold for cirrhotic patients compared to 6-fold for healthy subjects [see Use in Specific Populations (8.6)].
 
 Geriatric
 
@@ -63,13 +68,13 @@ In both studies, Cmax, Tmax, and t½ values were similar in older and younger su
 
 Pediatric
 
-After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for children (8 to 11 years, N=14) and adolescents (12 to 16 years, N=10), respectively.
-The corresponding values for Cmax were 42.4 (CV 54%) and 18.6 ng/mL (CV 100%) for children and adolescents, respectively.
+After 2 weeks of once-daily 20 mg oral pravastatin administration, the geometric means of AUC were 80.7 (CV 44%) and 44.8 (CV 89%) ng*hr/mL for pediatric patients 8 to 11 years (N=14) and 12 to 16 years (N=10), respectively.
+The corresponding values for Cmax were 42.4 (CV 54%) and 18.6 ng/mL (CV 100%) for pediatric patients 8 to 11 years and 12 to 16 years, respectively.
 No conclusion can be made based on these findings due to the small number of samples and large variability [see Use in Specific Populations (8.4)].
 
 Drug-Drug Interactions
 
-Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
+Table 5: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 
 | Coadministered Drug and Dosing Regimen | Pravastatin |  |  |
 | --- | --- | --- | --- |
@@ -98,7 +103,7 @@ Table 3: Effect of Coadministered Drugs on the Pharmacokinetics of Pravastatin
 
 BID = twice daily; OD = once daily; QID = four times daily
 
-Table 4: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs
+Table 6: Effect of Pravastatin on the Pharmacokinetics of Coadministered Drugs
 
 | Pravastatin Dosing Regimen | Name and Dose | Change in AUC | Change in Cmax |
 | --- | --- | --- | --- |

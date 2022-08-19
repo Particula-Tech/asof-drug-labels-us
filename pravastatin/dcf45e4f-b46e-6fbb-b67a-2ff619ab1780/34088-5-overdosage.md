@@ -1,4 +1,4 @@
 # 10 OVERDOSAGE
 
-To date, there has been limited experience with overdosage of pravastatin.
-If an overdose occurs, it should be treated symptomatically with laboratory monitoring and supportive measures should be instituted as required.
+No specific antidotes for pravastatin sodium tablets are known.
+Contact Poison Control (1-800-222-1222) for latest recommendations.
