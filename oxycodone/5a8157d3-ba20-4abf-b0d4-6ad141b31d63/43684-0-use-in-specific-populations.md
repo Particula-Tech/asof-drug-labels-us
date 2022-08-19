@@ -9,7 +9,7 @@ In several published studies, treatment of pregnant rats with oxycodone at clini
 Based on animal data, advise pregnant women of the potential risk to a fetus.
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations Fetal/Neonatal Adverse Reactions Prolonged use of opioid analgesics during pregnancy for medical or non-medical purposes can result in physical dependence in the neonate and neonatal opioid withdrawal syndrome shortly after birth.
 

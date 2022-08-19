@@ -48,9 +48,10 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 The activity of ROXICODONE (oxycodone hydrochloride) tablets is primarily due to the parent drug oxycodone.
 ROXICODONE tablets are designed to provide immediate release of oxycodone.
 
-| Table 2:Pharmacokinetic Parameters (Mean±SD) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Table 2: Pharmacokinetic Parameters (Mean±SD)
+
 | Dose\Parameters | AUC (ngxhr/mL) | Cmax (ng/mL) | Tmax (hr) | Cmin (ng/mL) | Cavg (ng/mL) | Half-Life (hr) |
+| --- | --- | --- | --- | --- | --- | --- |
 | Single Dose Pharmacokinetics |  |  |  |  |  |  |
 | ROXICODONE 5 mg tabs x 3 | 133.2±33 | 22.3±8.2 | 1.8±1.8 | n/a | n/a | 3.73±0.9 |
 | ROXICODONE 15 mg tab | 128.2±35.1 | 22.2±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |

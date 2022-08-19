@@ -77,7 +77,7 @@ Constipation Advise patients of the potential for severe constipation, including
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2021 Mallinckrodt.
+© 2022 Mallinckrodt.
 
 Distributed by: SpecGx LLC Webster Groves, MO 63119 USA
 
@@ -85,7 +85,7 @@ To request medical information or to report suspected adverse reactions, contact
 
 960B00
 
-Rev 03/2021
+Rev 05/2022
 
 Mallinckrodt™ Pharmaceutical
 
