@@ -64,7 +64,7 @@ IMITREX tablets are contraindicated in patients with uncontrolled hypertension.
 ## 5.9 Anaphylactic/Anaphylactoid Reactions
 
 Anaphylactic/anaphylactoid reactions have occurred in patients receiving IMITREX.
-Such reactions can be life threatening or fatal.
+Such reactions can be life-threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 IMITREX tablets are contraindicated in patients with a history of hypersensitivity reaction to IMITREX.
 

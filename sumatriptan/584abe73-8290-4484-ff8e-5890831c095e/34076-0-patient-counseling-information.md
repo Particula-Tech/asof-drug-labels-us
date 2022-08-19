@@ -11,7 +11,7 @@ Apprise patients of the importance of this follow-up [see Warnings and Precautio
 Anaphylactic/Anaphylactoid Reactions
 
 Inform patients that anaphylactic/anaphylactoid reactions have occurred in patients receiving IMITREX tablets.
-Such reactions can be life threatening or fatal.
+Such reactions can be life-threatening or fatal.
 In general, anaphylactic reactions to drugs are more likely to occur in individuals with a history of sensitivity to multiple allergens [see Contraindications (4), Warnings and Precautions (5.9)].
 
 Concomitant Use with Other Triptans or Ergot Medications

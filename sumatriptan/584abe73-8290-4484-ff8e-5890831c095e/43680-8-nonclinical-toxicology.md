@@ -10,7 +10,7 @@ Plasma exposures (AUC) at the highest doses tested were 20 and 8 times that in h
 
 Mutagenesis
 
-Sumatriptan was negative in in vitro(bacterial reverse mutation [Ames], gene cell mutation in Chinese hamster V79/HGPRT, chromosomal aberration in human lymphocytes) and in vivo (rat micronucleus) assays.
+Sumatriptan was negative in in vitro (bacterial reverse mutation [Ames], gene cell mutation in Chinese hamster V79/HGPRT, chromosomal aberration in human lymphocytes) and in vivo (rat micronucleus) assays.
 
 Impairment of Fertility
 

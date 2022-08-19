@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of IMITREX tablets in the acute treatment of migraine headaches was demonstrated in 3, randomized, double-blind, placebo-controlled trials.
+The efficacy of IMITREX tablets in the acute treatment of migraine headaches was demonstrated in 3 randomized, double-blind, placebo-controlled trials.
 Patients enrolled in these 3 trials were predominately female (87%) and Caucasian (97%), with a mean age of 40 years (range: 18 to 65 years).
 Patients were instructed to treat a moderate to severe headache.
 Headache response, defined as a reduction in headache severity from moderate or severe pain to mild or no pain, was assessed up to 4 hours after dosing.
