@@ -230,4 +230,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 11/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 12/2021
