@@ -2,18 +2,18 @@
 
 The following adverse reactions are described, or described in greater detail, in other sections:
 
-- Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
-- Myelosuppression [see Warnings and Precautions (5.4)]
-- Serious Infections [see Warnings and Precautions (5.5)]
-- Renal Toxicity [see Warnings and Precautions (5.6)]
-- Hepatotoxicity [see Warnings and Precautions (5.7)]
-- Neurotoxicity [see Warnings and Precautions (5.8)]
-- Gastrointestinal Toxicity [see Warnings and Precautions (5.9)]
-- Pulmonary Toxicity [see Warnings and Precautions (5.10)]
-- Dermatologic Reactions [see Warnings and Precautions (5.11)]
-- Secondary Malignancies [see Warnings and Precautions (5.13)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.14)]
-- Increased Risk of Adverse Reactions due to Third Space Accumulation [see Warnings and Precautions (5.17)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- •Myelosuppression [see Warnings and Precautions (5.4)]
+- •Serious Infections [see Warnings and Precautions (5.5)]
+- •Renal Toxicity [see Warnings and Precautions (5.6)]
+- •Hepatotoxicity [see Warnings and Precautions (5.7)]
+- •Neurotoxicity [see Warnings and Precautions (5.8)]
+- •Gastrointestinal Toxicity [see Warnings and Precautions (5.9)]
+- •Pulmonary Toxicity [see Warnings and Precautions (5.10)]
+- •Dermatologic Reactions [see Warnings and Precautions (5.11)]
+- •Secondary Malignancies [see Warnings and Precautions (5.13)]
+- •Tumor Lysis Syndrome [see Warnings and Precautions (5.14)]
+- •Increased Risk of Adverse Reactions due to Third Space Accumulation [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trials Experience
 

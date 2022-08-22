@@ -100,8 +100,8 @@ Neurologic Adverse Reactions Associated with Intrathecal Administration
 
 Intrathecal methotrexate can cause the following additional neurologic adverse reactions:
 
-- Acute chemical arachnoiditis manifested by symptoms such as headache, back pain, nuchal rigidity, and fever.
-- Subacute myelopathy characterized by paraparesis or paraplegia.
+- •Acute chemical arachnoiditis manifested by symptoms such as headache, back pain, nuchal rigidity, and fever.
+- •Subacute myelopathy characterized by paraparesis or paraplegia.
 
 Avoid the intrathecal use of Methotrexate Injection that contains the preservative benzyl alcohol because of the risk of serious neurotoxicity [see Warnings and Precautions (5.3)].
 

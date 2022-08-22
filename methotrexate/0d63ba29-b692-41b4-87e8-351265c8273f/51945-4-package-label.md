@@ -8,7 +8,7 @@ Methotrexate Injection, USP 50 mg/2 mL
 
 Isotonic Liquid (25 mg/mL)
 
-Contains preservative Cytotoxic Agent
+Contains preservative Hazardous Drug
 
 For Intravenous, Intramuscular and Subcutaneous Use Only
 
@@ -43,7 +43,7 @@ Methotrexate Injection, USP 1 g/40 mL
 
 For Intravenous, Intramuscular, Subcutaneous and Intrathecal Use Only
 
-Cytotoxic Agent
+Hazardous Drug
 
 Preservative Free
 
@@ -66,4 +66,4 @@ Methotrexate Injection, USP Preservative Free
 For Intravenous, Intramuscular, Subcutaneous and Intrathecal Use Only Single-dose vial.
 Discard unused portion.
 
-Cytotoxic Agent
+Hazardous Drug
