@@ -22,9 +22,7 @@ It will be given to you by intravenous (IV) infusion in your vein about 50 to 60
 
 Children 6 months to 17 years of age: Fosaprepitant for injection will be given to your child by intravenous (IV) infusion into a large vein through a type of IV line called a central venous catheter, about 1 hour to 1 ½ hours before the start of their chemotherapy treatment.
 Depending on the chemotherapy treatment, there are 2 ways that fosaprepitant for injection may be given: 1.
-Fosaprepitant for injection is given on Day 1 only (single day of chemotherapy).
-2.
-Fosaprepitant for injection is given on Days 1, 2 and 3 (single or multiple days of chemotherapy). • Your child may receive capsules of aprepitant or an oral suspension of aprepitant instead of fosaprepitant for injection on Day 2 and 3.
+Fosaprepitant for injection is given on Day 1 only (single day of chemotherapy). • Your child may receive capsules of aprepitant or an oral suspension of aprepitant instead of fosaprepitant for injection on Day 2 and 3.
 If your child will receive either of these, see the Patient Information for aprepitant capsules or aprepitant for oral suspension for further information.
 If you take the blood thinner medicine warfarin sodium (COUMADIN®, JANTOVEN®), your healthcare provider may do blood tests after you receive fosaprepitant for injection to check your blood clotting.
 What are the possible side effects of fosaprepitant for injection?
@@ -50,4 +48,4 @@ Active ingredient: fosaprepitant Inactive ingredients: edetate disodium, polysor
 Biological E. Limited Plot No.4, Survey no. 542/P, Biotech Park Phase-II, Kolthur Village, Shameerpet Mandal, Medchal, Telangana 500078, India.
 The brands listed in the above sections “Who should not receive fosaprepitant for injection?” and “How will I receive fosaprepitant for injection?” are the registered trademarks of their respective owners and are not trademarks of Biological E. Limited.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: July 2022
+Revised: August 2022

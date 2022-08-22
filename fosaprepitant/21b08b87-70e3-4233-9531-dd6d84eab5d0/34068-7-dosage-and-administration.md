@@ -27,8 +27,6 @@ Table 2 Recommended Adult Dosing for the Prevention of Nausea and Vomiting Assoc
 
 *Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1.
 A 50% dosage reduction of dexamethasone is recommended to account for a drug interaction with fosaprepitant for injection [see Clinical Pharmacology (12.3)].
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.2 Prevention of Nausea and Vomiting Associated with HEC and MEC in Pediatric Patients
 
@@ -36,8 +34,9 @@ The recommended pediatric dose regimens of fosaprepitant, to be administered wit
 Single-day chemotherapy regimens include regimens in which HEC or MEC is administered for a single day only.
 Multi-day chemotherapy regimens include chemotherapy regimens in which HEC or MEC is administered for 2 or more days.
 
-Fosaprepitant Dosage Regimens for Use with Single-Day Chemotherapy Regimens For pediatric patients weighing at least 6 kg receiving single-day HEC or MEC, fosaprepitant may be administered as: • a single dose regimen of fosaprepitant for injection infused through a central venous catheter on Day 1, as shown in Table 3; or • as a 3-day fosaprepitant regimen consisting of fosaprepitant for injection as an intravenous infusion through a central venous catheter on Days 1, 2 and 3.
-Aprepitant capsules or aprepitant for oral suspension on Days 2 and 3 instead of fosaprepitant for injection, as shown in Table 4.
+Fosaprepitant Dosage Regimens for Use with Single-Day Chemotherapy Regimens For pediatric patients weighing at least 6 kg receiving single-day HEC or MEC, fosaprepitant may be administered as: • a single dose regimen of fosaprepitant for injection infused through a central venous catheter on Day 1, as shown in Table 3; or
+
+• a 3 day regimen consisting of fosaprepitant for injection as an intravenous infusion through a central venous catheter on Day 1 and aprepitant capsules or aprepitant for oral suspension on Days 2 and 3, as shown in Table 4.
 
 Administer fosaprepitant for injection on Day 1 over 30 minutes (12 years to 17 years) or 60 minutes (6 months to less than 12 years), completing the infusion approximately 30 minutes prior to chemotherapy.
 
@@ -53,9 +52,9 @@ Table 3 Fosaprepitant for injection Single Dose Regimen for the Prevention of Na
 
 * Dosing in pediatric patients less than 6 kg is not recommended
 
-†Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1 Fosaprepitant Dosage Regimen for Use with Multi-Day Chemotherapy Regimens For pediatric patients weighing at least 6 kg receiving multi-day regimens of HEC or MEC, administer fosaprepitant on Days 1, 2, and 3.
-Administer fosaprepitant for injection as an intravenous infusion through a central venous catheter on Days 1, 2 and 3.
-Aprepitant capsules or aprepitant for oral suspension may be used on Days 2 and 3 instead of fosaprepitant for injection, as shown in Table 4.
+†Administer dexamethasone 30 minutes prior to chemotherapy treatment on Day 1 Fosaprepitant Dosage Regimen for Use with Multi-Day Chemotherapy Regimens
+
+For pediatric patients weighing at least 6 kg receiving multi-day regimens of HEC or MEC, administer fosaprepitant for injection as an intravenous infusion through a central venous catheter on Day 1 and aprepitant capsules or aprepitant for oral suspension on Days 2 and 3, as shown in Table 4.
 
 Administer fosaprepitant for injection over 30 minutes (12 years to 17 years) or 60 minutes (6 months to less than 12 years), completing the infusion approximately 30 minutes prior to chemotherapy.
 
@@ -63,8 +62,8 @@ Table 4 3-Day Fosaprepitant Dosage Regimen for Prevention of Nausea and Vomiting
 
 |  | Age of Pediatric Population | Day1 | Day2 | Day3 |
 | --- | --- | --- | --- | --- |
-| Fosaprepitant for injection* | 12 Years to 17 Years | 115 mg intravenously over 30 minutes | 80 mg intravenously over 30 minutes OR 80 mg orally (aprepitant capsules)† | 80 mg intravenously over 30 minutes OR 80 mg orally (aprepitant capsules)† |
-| 6 Months to Less than 12 Years | 3 mg/kg intravenously over 60 minutes (maximum dose 115 mg) | 2 mg/kg intravenously over 60 minutes OR 2 mg/kg orally (aprepitant for oral suspension) ‡ (maximum dose 80 mg) | 2 mg/kg intravenously over 60 minutes OR 2 mg/kg orally (aprepitant for oral suspension) ‡ (maximum dose 80 mg) |  |
+| Fosaprepitant for injection* | 12 Years to 17 Years | 115 mg intravenously over 30 minutes | 80 mg orally (aprepitant capsules)† | 80 mg orally (aprepitant capsules)† |
+| 6 Months to Less than 12 Years | 3 mg/kg intravenously over 60 minutes (maximum dose 115 mg) | 2 mg/kg orally (aprepitant for oral suspension) ‡ (maximum dose 80 mg) | 2 mg/kg orally (aprepitant for oral suspension) ‡ (maximum dose 80 mg) |  |
 | Dexamethasone§ | 6 Months to 17 Years | If a corticosteroid, such as dexamethasone, is co-administered, administer 50% of the recommended corticosteroid dose on Days 1 through 4 |  |  |
 | 5-HT3 antagonist | 6 Months to 17 Years | See selected 5-HT3 antagonist prescribing information for the recommended dosage |  |  |
 

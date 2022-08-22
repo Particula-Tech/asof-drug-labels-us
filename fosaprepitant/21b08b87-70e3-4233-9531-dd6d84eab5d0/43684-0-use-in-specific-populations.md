@@ -25,11 +25,10 @@ Advise females of reproductive potential using hormonal contraceptives to use an
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of a single dose and a 3-day regimen of fosaprepitant have been established in pediatric patients 6 months to 17 years for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC and MEC.
+The safety and effectiveness of a single dose and a 3-day IV/oral/oral regimen have been established in pediatric patients 6 months to 17 years for the prevention of acute and delayed nausea and vomiting associated with initial and repeat courses of HEC and MEC.
 
 Use of fosaprepitant in this age group is supported by evidence from adequate and well-controlled studies of fosaprepitant for injection in adults, with additional safety, efficacy and pharmacokinetic data in pediatric patients 6 months to 17 years.
 Efficacy and safety were also supported by data from an adequate and well-controlled study of a 3-day oral aprepitant regimen in pediatric patients 6 months to 17 years.
-The safety of the 3-day fosaprepitant for injection regimen in pediatric patient 6 months to 17 years of age was supported by an open-label study in 100 patients receiving HEC or MEC.
 See the full prescribing information for aprepitant capsules for complete clinical information regarding studies performed with oral aprepitant.
 Adverse reactions were similar to those reported in adult patients.
 [See Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3)].

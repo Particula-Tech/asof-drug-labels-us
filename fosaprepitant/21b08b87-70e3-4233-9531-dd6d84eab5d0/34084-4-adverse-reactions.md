@@ -46,8 +46,6 @@ The most common adverse reactions that occurred in >15% of patients who received
 In pediatric patients 6 months to 12 years of age, the safety of the 3-day IV/oral/oral fosaprepitant (aprepitant) regimen was not directly evaluated.
 The safety of a single-dose of fosaprepitant for injection (3 mg/kg) administered on day 1 of the 3-day IV/oral/oral regimen was evaluated in one active-controlled and one single-arm study including 48 pediatric patients 6 months to 12 years of age who received a regimen of either HEC or MEC.
 
-The safety of the 3-day (IV/IV/IV) regimen of fosaprepitant for injection in pediatric patients (6 months to 17 years) was evaluated in a single-arm clinical study in 100 patients who received either HEC or MEC.
-
 In these clinical studies, pediatric patients also received ondansetron with or without dexamethasone.
 The adverse reaction profile in pediatric patients was similar to the profile in adult patients receiving a single dose of fosaprepitant for injection.
 

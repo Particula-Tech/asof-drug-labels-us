@@ -1,7 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
-Discard unused portion.
 Hypersensitivity Advise patients that hypersensitivity reactions, including anaphylaxis and anaphylactic shock, have been reported in patients taking fosaprepitant for injection.
 Advise patients to seek immediate medical attention if they experience signs or symptoms of a hypersensitivity reaction, such as hives, rash and itching, skin peeling or sores, flushing, difficulty in breathing or swallowing, or dizziness, rapid or weak heartbeat or feeling faint [see Warnings and Precautions (5.2)].
 Infusion Site Reactions Advise patients to seek medical attention if they experience new or worsening signs or symptoms of an infusion site reaction, such as erythema, edema, pain, necrosis, vasculitis, or thrombophlebitis at or near the infusion site [see Warnings and Precautions (5.3)].
@@ -11,6 +10,8 @@ Instruct patients to use effective alternative or back-up methods of contracepti
 Distributed by: BE Pharmaceuticals Inc. 203 New Edition Court Cary, NC 27511 Manufactured by:
 
 Biological E. Limited Plot No.4, Survey no. 542/P, Biotech Park Phase-II, Kolthur Village, Shameerpet Mandal, Medchal, Telangana 500078, India.
-Revised: July 2022
+Revised: August 2022
 
-20003004
+20003024
+
+.
