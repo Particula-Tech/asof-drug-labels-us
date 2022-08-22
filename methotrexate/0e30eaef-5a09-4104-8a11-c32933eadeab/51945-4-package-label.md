@@ -28,7 +28,7 @@ CONTAINS PRESERVATIVE NOT FOR INTRATHECAL USE
 
 novaplus™
 
-Cytotoxic Agent
+Hazardous Drug
 
 # PRINCIPAL DISPLAY PANEL - 40 mL Vial Label
 
@@ -44,7 +44,11 @@ Methotrexate Injection, USP
 
 Preservative Free
 
-Cytotoxic Agent
+For Intravenous, Intramuscular,
+
+Subcutaneous and Intrathecal Use Only
+
+Hazardous Drug
 
 novaplus™
 
@@ -62,7 +66,11 @@ Methotrexate Injection, USP
 
 Preservative Free
 
+For Intravenous, Intramuscular,
+
+Subcutaneous and Intrathecal Use Only
+
 Single dose vial.
 Discard unused portion.
 
-Cytotoxic Agent
+Hazardous Drug

@@ -4,8 +4,8 @@ Injection: Methotrexate Injection is a clear, yellow solution and is supplied in
 
 With preservative (multiple-dose vial)
 
-- 50 mg/2 mL (25 mg/mL)
+- •50 mg/2 mL (25 mg/mL)
 
 Preservative-free (single-dose vial)
 
-- 1 g/40 mL (25 mg/mL)
+- •1 g/40 mL (25 mg/mL)
