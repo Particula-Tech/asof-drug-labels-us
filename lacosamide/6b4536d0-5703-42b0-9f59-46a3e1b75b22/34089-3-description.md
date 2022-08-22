@@ -12,6 +12,6 @@ It is sparingly soluble in water and slightly soluble in acetonitrile and ethano
 
 Lacosamide Injection, USP is a clear, colorless, sterile solution containing 10 mg lacosamide per mL for intravenous infusion.
 One 20-mL vial contains 200 mg of lacosamide drug substance.
-The inactive ingredients are sodium chloride and water for injection.
+The inactive ingredients are sodium chloride (7.60 mg/mL) and water for injection.
 Hydrochloric acid is used for pH adjustment.
 Lacosamide injection has a pH of 3.8 to 5.0.

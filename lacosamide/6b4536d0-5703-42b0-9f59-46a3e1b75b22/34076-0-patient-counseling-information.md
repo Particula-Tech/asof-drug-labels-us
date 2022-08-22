@@ -41,6 +41,6 @@ Made in India
 
 ©2022 Sagent Pharmaceuticals, Inc.
 
-March 2022
+Revised: July 2022
 
 SAGENT Pharmaceuticals ®

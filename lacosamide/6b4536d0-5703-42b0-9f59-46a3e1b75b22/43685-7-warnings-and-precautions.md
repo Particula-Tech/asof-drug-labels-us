@@ -90,10 +90,3 @@ This disorder is variable in its expression, and other organ systems not noted h
 It is important to note that early manifestations of hypersensitivity (e.g., fever, lymphadenopathy) may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
 Lacosamide should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
-
-## 5.7 Risk in patients with Phenylketonuria
-
-Phenylalanine can be harmful in patients with phenylketonuria (PKU).
-Lacosamide oral solution contains aspartame, a source of phenylalanine.
-A 200 mg dose of lacosamide oral solution (equivalent to 20 mL) contains 0.32 mg of phenylalanine.
-Before prescribing lacosamide oral solution to a patient with PKU, consider the combined daily amount of phenylalanine from all sources, including lacosamide oral solution.

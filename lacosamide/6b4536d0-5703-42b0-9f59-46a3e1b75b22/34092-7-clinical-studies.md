@@ -51,7 +51,7 @@ The proportion of patients achieving any particular level of reduction in seizur
 For example, 40% of patients randomized to lacosamide (400 mg/day) experienced a 50% or greater reduction in seizure frequency, compared to 23% of patients randomized to placebo.
 Patients with an increase in seizure frequency >100% are represented on the Y-axis as equal to or greater than -100%.
 
-Figure 2 – Proportion of Patients by Responder Rate for Lacosamide and Placebo Groups is studies 2, 3 and 4
+Figure 2 – Proportion of Patients by Responder Rate for Lacosamide and Placebo Groups in studies 2, 3 and 4
 
 Pediatric use information is approved for UCB, Inc.'s VIMPAT® (lacosamide) injection.
 However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

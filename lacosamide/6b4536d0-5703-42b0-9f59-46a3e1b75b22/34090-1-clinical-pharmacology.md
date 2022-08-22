@@ -25,7 +25,7 @@ For patients who participated in the controlled trials, the placebo-subtracted m
 
 The pharmacokinetics of lacosamide have been studied in healthy adult subjects (age range 18 to 87), adults with partial-onset seizures, adults with diabetic neuropathy, and subjects with renal and hepatic impairment.
 
-The pharmacokinetics of lacosamide are similar in healthy subjects and patients with partial-onset seizures, and patients with primary generalized tonic-clonic seizures.
+The pharmacokinetics of lacosamide are similar in healthy subjects, patients with partial-onset seizures, and patients with primary generalized tonic-clonic seizures.
 
 Lacosamide is completely absorbed after oral administration with negligible first-pass effect with a high absolute bioavailability of approximately 100%.
 The maximum lacosamide plasma concentrations occur approximately 1 to 4 hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.

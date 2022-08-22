@@ -2,7 +2,7 @@
 
 ## 2.1 Dosage Information
 
-The recommended dosage for monotherapy and adjunctive therapy for partial-onset seizures in 17 Years of Age and older is included in Table 1.
+The recommended dosage for monotherapy and adjunctive therapy for partial-onset seizures in 17 years of age and older is included in Table 1.
 Dosage should be increased based on clinical response and tolerability, no more frequently than once per week.
 Titration increments should not exceed those shown in Table 1.
 
@@ -22,6 +22,7 @@ Lacosamide Injection Dosage
 
 Lacosamide injection may be used when oral administration is temporarily not feasible [see Dosage and Administration (2.6) and Warnings and Precautions (5.3)].
 Lacosamide injection can be administered intravenously to adult patients with the same dosing regimens described for oral dosing.
+
 The clinical study experience of intravenous Lacosamide is limited to 5 days of consecutive treatment.
 
 Loading Dose in Adult Patients (17 Years and Older)
