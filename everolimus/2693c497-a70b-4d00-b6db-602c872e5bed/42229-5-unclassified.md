@@ -86,6 +86,10 @@ You can ask your doctor or pharmacist for information about everolimus tablets t
 What are the ingredients in everolimus tablets?
 Active ingredient: everolimus Inactive ingredients: butylated hydroxytoluene, crospovidone type A, hypromellose, lactose anhydrous, lactose monohydrate and magnesium stearate.
 
-Manufactured by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA
+Manufactured by: Alkem Laboratories Ltd., INDIA.
 
-Manufactured for: Ascend Laboratories, LLC Parsippany, NJ 07054 This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: October, 2020
+Manufactured for: Ascend Laboratories, LLC Parsippany, NJ 07054 This Medication Guide has been approved by the U.S. Food and Drug Administration
+
+Revised: December, 2021
+
+PT9077-01

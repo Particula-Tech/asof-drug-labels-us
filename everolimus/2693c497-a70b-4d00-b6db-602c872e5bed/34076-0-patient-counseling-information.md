@@ -35,8 +35,8 @@ Immunizations Inform patients that vaccinations may be less effective while they
 Advise patients live vaccines should be avoided [see Warnings and Precautions (5.19)].
 Patient with Hereditary Disorders Advise patients to inform their physicians that if they have hereditary disorders of galactose intolerance (Lapp-lactase deficiency or glucose-galactose malabsorption) not to take everolimus [see Warnings and Precautions (5.21)].
 
-Manufactured by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA
+Manufactured by: Alkem Laboratories Ltd., INDIA.
 
 Manufactured for: Ascend Laboratories, LLC Parsippany, NJ 07054
 
-Revised: October, 2020
+Revised: December, 2021
