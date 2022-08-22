@@ -8,12 +8,12 @@ Protect from light and moisture.Keep out of reach of children.
 
 Manufactured by:
 
-Alkem Laboratories Ltd.
+Alkem Laboratories Ltd.,
 
-Mumbai - 400 013, INDIA
+INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054 Revised: November,2019 PT 2268-06
+Parsippany, NJ 07054 Revised: November, 2021 PT 2268-07

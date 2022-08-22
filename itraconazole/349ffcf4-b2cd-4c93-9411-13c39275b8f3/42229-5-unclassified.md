@@ -148,9 +148,9 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by:
 
-Alkem Laboratories Ltd.
+Alkem Laboratories Ltd.,
 
-Mumbai - 400 013, INDIA
+INDIA.
 
 Distributed by:
 
@@ -158,4 +158,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: November, 2019
+Revised: November, 2021
