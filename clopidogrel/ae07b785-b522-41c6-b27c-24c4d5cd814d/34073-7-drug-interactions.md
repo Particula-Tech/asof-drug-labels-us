@@ -32,7 +32,7 @@ Coadministration of clopidogrel bisulfate and NSAIDs increases the risk of gastr
 
 Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of clopidogrel bisulfate with warfarin increases the risk of bleeding because of independent effects on hemostasis.
 
-However, at high concentrations invitro, clopidogrel inhibits CYP2C9.
+However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 
 ## 7.6 SSRIs and SNRIs
 

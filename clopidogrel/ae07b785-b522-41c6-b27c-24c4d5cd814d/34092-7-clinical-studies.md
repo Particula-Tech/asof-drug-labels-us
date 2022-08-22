@@ -35,7 +35,7 @@ Table 4: Outcome Events in the CURE Primary Analysis
 
 Most of the benefit of clopidogrel bisulfate occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
 
-Figure2:CardiovascularDeath, MyocardialInfarction, andStrokeintheCUREStudy
+Figure 2: Cardiovascular Death, Myocardial Infarction, and Stroke in the CURE Study
 
 The effect of clopidogrel bisulfate did not differ significantly in various subgroups, as shown in Figure 3.
 The benefits associated with clopidogrel bisulfate were independent of the use of other acute and long-term cardiovascular therapies, including heparin/LMWH, intravenous glycoprotein IIb/IIIa (GPIIb/IIIa) inhibitors, lipid-lowering drugs, beta-blockers, and ACE inhibitors.
@@ -67,7 +67,7 @@ Table 5: Outcome Events in COMMIT
 | * 9 patients (2 clopidogrel and 7 placebo) suffered both a nonfatal stroke and a nonfatal MI. |  |  |  |  |
 | † Nonfatal MI and nonfatal stroke exclude patients who died (of any cause). |  |  |  |  |
 
-Figure5:CumulativeEventRatesfortheCombinedEndpointRe-Infarction, StrokeorDeathintheCOMMITStudy *
+Figure 5: Cumulative Event Rates for the Combined Endpoint Re-Infarction, Stroke or Death in the COMMIT Study *
 
 The effect of clopidogrel bisulfate did not differ significantly in various prespecified subgroups as shown in Figure 6.
 The effect was also similar in non-prespecified subgroups including those based on infarct location, Killip class or prior MI history.
@@ -102,7 +102,7 @@ In patients who survived an on-study stroke or myocardial infarction, the incide
 The curves showing the overall event rate are shown in Figure 7.
 The event curves separated early and continued to diverge over the 3-year follow-up period.
 
-Figure7:FatalorNonfatalVascularEventsintheCAPRIEStudy
+Figure 7: Fatal or Nonfatal Vascular Events in the CAPRIE Study
 
 The statistical significance favoring clopidogrel bisulfate over aspirin was marginal (p=0.045).
 However, because aspirin is itself effective in reducing cardiovascular events in patients with recent myocardial infarction or stroke, the effect of clopidogrel bisulfate is substantial.

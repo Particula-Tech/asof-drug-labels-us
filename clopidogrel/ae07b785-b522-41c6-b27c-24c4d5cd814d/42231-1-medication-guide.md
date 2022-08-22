@@ -107,8 +107,6 @@ Keep a list of them to show your doctor or pharmacist when you get a new medicin
 
 How should I take clopidogrel tablets?
 
-.
-
 - Take clopidogrel tablets exactly as your doctor tells you.
 - Do not change your dose or stop taking clopidogrel tablets without talking to your doctor first.
   Stopping clopidogrel tablets may increase your risk of heart attack or stroke.
@@ -198,6 +196,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8083249 Revised August 2021
+8088269 Revised July 2022

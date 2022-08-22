@@ -88,7 +88,9 @@ Proton pump inhibitors (PPI)
 
 The effect of proton pump inhibitors (PPI) on the systemic exposure to the clopidogrel active metabolite following multiple doses of clopidogrel tablets 75 mg evaluated in dedicated drug interaction studies is presented in Figure 1.
 
-Figure1:ExposuretoClopidogrelActiveMetaboliteFollowingMultipleDosesofclopidogreltablets75mgAloneorwithProtonPumpInhibitors(PPIs)
+Figure1: Exposure to Clopidogrel Active Metabolite Following Multiple Doses of clopidogrel tablets 75mg Alone or with Proton
+
+Pump Inhibitors (PPIs)
 
 Pharmacodynamic and pharmacokinetic parameters measured in these studies showed that the interaction was highest with omeprazole and least with dexlansoprazole.
 
