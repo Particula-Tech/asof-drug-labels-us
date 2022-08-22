@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA076267"
+  ],
+  "inn": "benazepril",
+  "labeler": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "23155-749-01",
+    "23155-749-05",
+    "23155-750-01",
+    "23155-750-05",
+    "23155-751-01",
+    "23155-751-05",
+    "23155-752-01",
+    "23155-752-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "benazepril hydrochloride",
+      "name": "Benazepril Hydrochloride"
+    }
+  ],
+  "setid": "910dac3a-728c-4f94-a514-e2b8f4680d39",
+  "source": "dailymed"
+}
