@@ -18,7 +18,7 @@ The most common fetal visceral malformations in rats were persistent truncus art
 The receptor affected by fingolimod (sphingosine 1-phosphate receptor) is known to be involved in vascular formation during embryogenesis (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
-In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%-4% and 15%-20%, respectively.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Clinical Considerations

@@ -36,7 +36,7 @@ Table 1 lists adverse reactions in clinical studies in adults that occurred in �
 
 Table 1: Adverse Reactions Reported in Adult Studies 1 and 3 (Occurring in ≥ 1% of Patients and Reported for GILENYA 0.5 mg at ≥ 1% Higher Rate Than for Placebo)
 
-| Adverse Drug Reactions | GILENYA 0.5 mg N = 783 % | Placebo N = 773 % |
+| Adverse drug reactions | GILENYA 0.5 mg N = 783 % | Placebo N = 773 % |
 | --- | --- | --- |
 | Infections |  |  |
 | Influenza | 11 | 8 |

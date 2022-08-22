@@ -4,7 +4,7 @@
 
 0.25 mg GILENYA capsules are supplied as follows:
 
-hard gelatin capsules with an ivory opaque body and cap, with black radial imprint “FTY 0.25mg” on the cap and a black radial band on the capsule body
+hard gelatin capsules with an ivory opaque body and cap, with black radial imprint “FTY 0.25 mg” on the cap and a black radial band on the capsule body
 
 Bottle of 30 capsules NDC 0078-0965-15
 
@@ -20,5 +20,5 @@ Carton of 7 capsules containing 1 blister card of 7 capsules per blister card ND
 
 ## 16.2 Storage and Handling
 
-GILENYA capsules should be stored at 20ºC to 25ºC (68ºF-77ºF); excursions permitted to 15ºC to 30ºC (59ºF-86ºF).
+GILENYA capsules should be stored at 20ºC to 25ºC (68ºF to 77ºF); excursions permitted to 15ºC to 30ºC (59ºF to 86ºF).
 Protect from moisture.

@@ -23,11 +23,11 @@ Table 2: Clinical and MRI Results of Study 1
 
 |  | GILENYA 0.5 mg N = 425 | Placebo N = 418 | p-value |
 | --- | --- | --- | --- |
-| Clinical Endpoints |  |  |  |
+| Clinical endpoints |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.18 | 0.40 | < 0.001 |
 | Percentage of patients without relapse | 70% | 46% | < 0.001 |
 | Hazard ratio‡ of disability progression (95% CI) | 0.70 (0.52, 0.96) |  | 0.02 |
-| MRI Endpoint |  |  |  |
+| MRI endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 24 months | 2.5 (0) | 9.8 (5.0) | < 0.001 |
 | Mean (median) number of T1 Gd-enhancing lesions at Month 24 | 0.2 (0) | 1.1 (0) | < 0.001 |
 | All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. ‡Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to placebo. |  |  |  |
@@ -54,11 +54,11 @@ Table 3: Clinical and MRI Results of Study 2
 
 |  | GILENYA 0.5 mg N = 429 | Interferon beta-1a IM 30 mcg N = 431 | p-value |
 | --- | --- | --- | --- |
-| Clinical Endpoints |  |  |  |
+| Clinical endpoints |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.16 | 0.33 | < 0.001 |
 | Percentage of patients without relapse | 83% | 70% | < 0.001 |
 | Hazard ratio‡ of disability progression (95% CI) | 0.71 (0.42, 1.21) |  | 0.21 |
-| MRI Endpoint |  |  |  |
+| MRI endpoint |  |  |  |
 | Mean (median) number of new or newly enlarging T2 lesions over 12 months | 1.6 (0) | 2.6 (1.0) | 0.002 |
 | Mean (median) number of T1 Gd-enhancing lesions at Month 12 | 0.2 (0) | 0.5 (0) | < 0.001 |
 | All analyses of clinical endpoints were intent-to-treat. MRI analysis used evaluable dataset. ‡ Hazard ratio is an estimate of the relative risk of having the event of disability progression on GILENYA as compared to control. |  |  |  |
@@ -82,13 +82,13 @@ In the GILENYA group, 6.5% of patients did not complete the study, compared to 1
 
 The primary endpoint, the annualized relapse rate (ARR), was significantly lower in patients treated with GILENYA (0.122) than in patients who received interferon beta-1a (0.675).
 Relative reduction in ARR was 81.9%.
-The annualized rate of the number of new or newly enlarged T2 lesions up to month 24 (key secondary endpoint) was significantly lower in patients treated with GILENYA, as was the number of Gd-enhancing T1 lesions per scan up to month 24.
+The annualized rate of the number of new or newly enlarged T2 lesions up to Month 24 (key secondary endpoint) was significantly lower in patients treated with GILENYA, as was the number of Gd-enhancing T1 lesions per scan up to Month 24.
 
 Table 4 summarizes the results of Study 4.
 
 Table 4: Clinical and MRI Results of Study 4
 
-|  | GILENYA 0.25 or 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative Reduction |
+|  | GILENYA 0.25 or 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative reduction |
 | --- | --- | --- | --- | --- |
 | Clinical endpoints |  |  |  |  |
 | Annualized relapse rate (primary endpoint) | 0.122 | 0.675 | < 0.001* | 81.9% |

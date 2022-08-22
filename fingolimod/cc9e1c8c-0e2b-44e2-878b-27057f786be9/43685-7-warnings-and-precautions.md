@@ -10,14 +10,14 @@ After the first dose of GILENYA, the heart rate decrease starts within an hour.
 On Day 1, the maximum decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8 to 10 hours postdose.
 Because of physiological diurnal variation, there is a second period of heart rate decrease within 24 hours after the first dose.
 In some patients, heart rate decrease during the second period is more pronounced than the decrease observed in the first 6 hours.
-Heart rates below 40 beats per minute (bpm) in adults, and below 50 bpm in pediatric patients occurred rarely.
+Heart rates below 40 bpm in adults, and below 50 bpm in pediatric patients occurred rarely.
 In controlled clinical trials in adult patients, adverse reactions of symptomatic bradycardia following the first dose were reported in 0.6% of patients receiving GILENYA 0.5 mg and in 0.1% of patients on placebo.
 Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.
 
 Patients with some preexisting conditions (e.g., ischemic heart disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, cerebrovascular disease, uncontrolled hypertension, history of symptomatic bradycardia, history of recurrent syncope, severe untreated sleep apnea, AV block, sinoatrial heart block) may poorly tolerate the GILENYA-induced bradycardia, or experience serious rhythm disturbances after the first dose of GILENYA.
 Prior to treatment with GILENYA, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and if treated with GILENYA, should be monitored overnight with continuous ECG in a medical facility after the first dose.
 
-Since initiation of GILENYA treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6-hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility
+Since initiation of GILENYA treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6-hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility.
 
 Following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
 With continued dosing, the heart rate returns to baseline within 1 month of chronic treatment.
@@ -30,7 +30,7 @@ Initiation of GILENYA treatment has resulted in transient AV conduction delays.
 In controlled clinical trials in adult patients, first-degree AV block after the first dose occurred in 4.7% of patients receiving GILENYA and 1.6% of patients on placebo.
 In a study of 697 patients with available 24-hour Holter monitoring data after their first dose (N = 351 receiving GILENYA and N = 346 on placebo), second-degree AV blocks (Mobitz Types I [Wenckebach] or 2:1 AV blocks) occurred in 4% (N = 14) of patients receiving GILENYA and 2% (N = 7) of patients on placebo.
 Of the 14 patients receiving GILENYA, 7 patients had 2:1 AV block (5 patients within the first 6 hours postdose and 2 patients after 6 hours postdose).
-All second degree AV blocks on placebo were Mobitz Type I and occurred after the first 12 hours postdose.
+All second-degree AV blocks on placebo were Mobitz Type I and occurred after the first 12 hours postdose.
 The conduction abnormalities were usually transient and asymptomatic, and resolved within the first 24 hours on treatment, but they occasionally required treatment with atropine or isoproterenol.
 
 Postmarketing Experience
@@ -58,7 +58,7 @@ In MS placebo-controlled trials in adult patients, the overall rate of infection
 However, bronchitis, herpes zoster, influenza, sinusitis, and pneumonia were more common in GILENYA-treated patients.
 Serious infections occurred at a rate of 2.3% in the GILENYA group versus 1.6% in the placebo group.
 
-In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus (JCV), herpes simplex viruses 1 and 2, varicella zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with GILENYA.
+In the postmarketing setting, serious infections with opportunistic pathogens including viruses (e.g., John Cunningham virus [JCV], herpes simplex viruses 1 and 2, varicella zoster virus), fungi (e.g., cryptococci), and bacteria (e.g., atypical mycobacteria) have been reported with GILENYA.
 Patients with symptoms and signs consistent with any of these infections should undergo prompt diagnostic evaluation and appropriate treatment.
 
 Herpes Viral Infections
@@ -164,7 +164,7 @@ Obtain transaminase levels and total bilirubin levels periodically until two mon
 
 Patients should be monitored for signs and symptoms of any hepatic injury.
 Measure liver transaminase and bilirubin levels promptly in patients who report symptoms that may indicate liver injury, including new or worsening fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
-In this clinical context, if the patient is found to have an alanine aminotransferase (ALT) greater than three times the reference range with serum total bilirubin greater than two times the reference range, treatment with GILENYA treatment should be interrupted.
+In this clinical context, if the patient is found to have an alanine aminotransferase (ALT) greater than three times the reference range with serum total bilirubin greater than two times the reference range, treatment with GILENYA should be interrupted.
 Treatment should not be resumed if a plausible alternative etiology for the signs and symptoms cannot be established, because these patients are at risk for severe drug-induced liver injury.
 
 Because GILENYA exposure is doubled in patients with severe hepatic impairment, these patients should be closely monitored, as the risk of adverse reactions is greater [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
@@ -208,15 +208,15 @@ Monitor patients for development of severe increase in disability following disc
 ## 5.10 Tumefactive Multiple Sclerosis
 
 MS relapses with tumefactive demyelinating lesions on imaging have been observed during GILENYA therapy and after GILENYA discontinuation in the postmarketing setting.
-Most reported cases of tumefactive MS in patients receiving Gilenya have occurred within the first 9 months after GILENYA initiation, but tumefactive MS may occur at any point during treatment.
-Cases of tumefactive MS have also been reported within the first 4 months after Gilenya discontinuation.
+Most reported cases of tumefactive MS in patients receiving GILENYA have occurred within the first 9 months after GILENYA initiation, but tumefactive MS may occur at any point during treatment.
+Cases of tumefactive MS have also been reported within the first 4 months after GILENYA discontinuation.
 Tumefactive MS should be considered when a severe MS relapse occurs during GILENYA treatment, especially during initiation, or after discontinuation of GILENYA, prompting imaging evaluation and initiation of appropriate treatment.
 
 ## 5.11 Increased Blood Pressure
 
 In adult MS controlled clinical trials, patients treated with GILENYA 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on GILENYA 0.5 mg and in 4% of patients on placebo.
-Blood pressure should be monitored during treatment with GILENYA.
+Blood pressure (BP) should be monitored during treatment with GILENYA.
 
 ## 5.12 Malignancies
 

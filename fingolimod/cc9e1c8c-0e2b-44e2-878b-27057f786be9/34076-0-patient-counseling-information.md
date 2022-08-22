@@ -47,7 +47,7 @@ Fetal Risk
 
 - Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
-- Advise female patients of reproductive potential to use effective contraception during treatment with GILENYA and for two months after the final dose [see Use in Specific Populations (8.3)].
+- Advise female patients of reproductive potential to use effective contraception during treatment with GILENYA and for 2 months after the final dose [see Use in Specific Populations (8.3)].
 
 Severe Increase in Disability After Stopping GILENYA
 
@@ -75,4 +75,4 @@ Pregnancy and Pregnancy Registry
 Instruct patients that if they are pregnant or plan to become pregnant while taking GILENYA they should inform their physician.
 Encourage patients to enroll in the GILENYA Pregnancy Registry if they become pregnant while taking GILENYA [see Use in Specific Populations (8.1)].
 
-T2019-143
+T2022-45
