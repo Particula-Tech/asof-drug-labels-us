@@ -4,7 +4,7 @@
 
 MYFEMBREE is a combination of relugolix, estradiol (E2), and norethindrone acetate (NETA).
 
-Relugolix is a non-peptide GnRH receptor antagonist that competitively binds to pituitary GnRH receptors, thereby reducing the release of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), leading to decreased serum concentrations of the ovarian sex hormones estradiol and progesterone and reduced bleeding associated with uterine fibroids.
+Relugolix is a non-peptide GnRH receptor antagonist that competitively binds to pituitary GnRH receptors, thereby reducing the release of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), leading to decreased serum concentrations of the ovarian sex hormones estradiol and progesterone and reduced bleeding associated with uterine fibroids and pain associated with endometriosis.
 
 Estradiol acts by binding to nuclear receptors that are expressed in estrogen-responsive tissues.
 As a component of MYFEMBREE, the addition of exogenous estradiol may reduce the increase in bone resorption and resultant bone loss that can occur due to a decrease in circulating estrogen concentrations from relugolix alone.
@@ -34,22 +34,22 @@ The effect of estradiol and norethindrone acetate (two of the components of MYFE
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetic parameters of relugolix, unconjugated estradiol, and norethindrone after administration of a single dose of MYFEMBREE to healthy postmenopausal women under fasted conditions are summarized in Table 4.
+The pharmacokinetic parameters of relugolix, unconjugated estradiol, and norethindrone after administration of a single dose of MYFEMBREE to healthy postmenopausal women under fasted conditions are summarized in Table 7.
 
-Table 4: Pharmacokinetic Parameters of Relugolix, Unconjugated Estradiol, and Norethindrone After Single Dose Administration of MYFEMBREE
+Table 7: Pharmacokinetic Parameters of Relugolix, Unconjugated Estradiol, and Norethindrone After Single Dose Administration of MYFEMBREE
 
 |  | Relugolix | Unconjugated Estradiol | Norethindrone |
 | --- | --- | --- | --- |
-| AUC 0-inf (ng∙hr/mL or pg∙hr/mL), mean (SD) | 198.1 (111.6) | 818.7 (334.4) | 17.5 (8.5) |
-| C max (ng/mL or pg/mL), mean (SD) | 26.0 (18.2) | 28.0 (19.2) | 3.6 (1.4) |
-| T max (hr), median (min, max) | 2.00 (0.25, 5.00) | 7.00 (0.25, 24.00) | 1.0 (0.50, 4.00) |
-| Abbreviations: AUC = area under the concentration-time curve; AUC 0-inf = AUC from time 0 extrapolated to infinity; C max = maximum observed concentration; E2 = estradiol; NET = norethindrone; T max = time to maximum observed concentration. |  |  |  |
-| Notes: AUC 0-inf is presented in ng∙hr/mL for relugolix, NET and in pg∙hr/mL for unconjugated E2. C max is presented in ng/mL for relugolix, NET and in pg/mL for unconjugated E2. |  |  |  |
+| AUC0-inf (ng∙hr/mL or pg∙hr/mL), mean (SD) | 198.1 (111.6) | 818.7 (334.4) | 17.5 (8.5) |
+| Cmax (ng/mL or pg/mL), mean (SD) | 26.0 (18.2) | 28.0 (19.2) | 3.6 (1.4) |
+| Tmax (hr), median (min, max) | 2.00 (0.25, 5.00) | 7.00 (0.25, 24.00) | 1.0 (0.50, 4.00) |
+| Abbreviations: AUC = area under the concentration-time curve; AUC0-inf = AUC from time 0 extrapolated to infinity; Cmax = maximum observed concentration; E2 = estradiol; NET = norethindrone; Tmax = time to maximum observed concentration. |  |  |  |
+| Notes: AUC0-inf is presented in ng∙hr/mL for relugolix, NET and in pg∙hr/mL for unconjugated E2. Cmax is presented in ng/mL for relugolix, NET and in pg/mL for unconjugated E2. |  |  |  |
 
 Relugolix exhibits greater than dose-proportional exposures at doses ranging from 1 mg to 80 mg (0.025 to 2 times the approved recommended dose) and approximately dose-proportional exposures at doses ranging from 80 mg to 360 mg (2 to 9 times the approved recommended dose).
 Relugolix concentrations reach steady-state within 12 days, and the degree of accumulation is approximately 2-fold, upon once daily administration.
 
-Estradiol and norethindrone concentrations reach steady state within 2 weeks, with an accumulation of 33% to 47% above concentrations seen after administration of a single dose, upon once daily administration.
+Estradiol and norethindrone concentrations reach steady-state within 2 weeks, with an accumulation of 33% to 47% above concentrations seen after administration of a single dose, upon once daily administration.
 
 Absorption
 
@@ -57,19 +57,19 @@ The mean (%CV) absolute bioavailability of relugolix is 12 (62%).
 
 Effect of Food
 
-The AUC 0-inf and C max of relugolix decreased by 38% and 55%, respectively, after administration of MYFEMBREE following consumption of a high-fat, high-calorie meal (i.e., 800-1000 calorie meal in which 50% of calories are derived from fat) compared with the fasted state; however, the decrease in exposure to relugolix is considered not to be clinically meaningful.
+The AUC0-inf and Cmax of relugolix decreased by 38% and 55%, respectively, after administration of MYFEMBREE following consumption of a high-fat, high-calorie meal (i.e., 800-1000 calorie meal in which 50% of calories are derived from fat) compared with the fasted state; however, the decrease in exposure to relugolix is considered not to be clinically meaningful.
 No clinically meaningful effects of food on the exposure to estradiol or norethindrone were observed.
 
 Distribution
 
-Plasma protein binding of relugolix is 68% to 71%, primarily to albumin and to a lesser extent to α 1-acid glycoprotein.
+Plasma protein binding of relugolix is 68% to 71%, primarily to albumin and to a lesser extent to α1-acid glycoprotein.
 The mean blood-to-plasma ratio is 0.78.
 Estradiol circulates in the blood bound to SHBG (36% to 37%) and to albumin (61%), while only approximately 1% to 2% is unbound.
 Norethindrone also binds to a similar extent to SHBG (36%) and to albumin (61%).
 
 Elimination
 
-After administration of a single dose of MYFEMBREE, the mean (SD) terminal phase elimination half-life (t 1/2) of relugolix, estradiol, and norethindrone are 61.5 (13.2) hours, 16.6 (7.7) hours, and 10.9 (3.1) hours, respectively.
+After administration of a single dose of MYFEMBREE, the mean (SD) terminal phase elimination half-life (t1/2) of relugolix, estradiol, and norethindrone are 61.5 (13.2) hours, 16.6 (7.7) hours, and 10.9 (3.1) hours, respectively.
 
 Metabolism
 
@@ -99,8 +99,8 @@ Drug Interaction Studies
 
 Clinical Studies
 
-- Combined P-gp and Moderate CYP3A Inhibitor: Co-administration with erythromycin (P-gp and moderate CYP3A inhibitor) increased the AUC and C max of relugolix by 6.2-fold.
-- Combined P-gp and Strong CYP3A Inducer: Co-administration with rifampin (P-gp and strong CYP3A inducer) decreased the AUC and C max of relugolix by 55% and 23%, respectively.
+- Combined P-gp and Moderate CYP3A Inhibitor: Co-administration with erythromycin (P-gp and moderate CYP3A inhibitor) increased the AUC and Cmax of relugolix by 6.2-fold.
+- Combined P-gp and Strong CYP3A Inducer: Co-administration with rifampin (P-gp and strong CYP3A inducer) decreased the AUC and Cmax of relugolix by 55% and 23%, respectively.
 - Other Drugs: No clinically significant differences in the pharmacokinetics of relugolix were observed when co-administered with voriconazole (strong CYP3A inhibitor), fluconazole (moderate CYP3A inhibitor), or atorvastatin (weak CYP3A inhibitor).
   No clinically significant differences in the pharmacokinetics of midazolam (sensitive CYP3A substrate) or rosuvastatin (BCRP substrate) were observed upon co-administration with relugolix.
 

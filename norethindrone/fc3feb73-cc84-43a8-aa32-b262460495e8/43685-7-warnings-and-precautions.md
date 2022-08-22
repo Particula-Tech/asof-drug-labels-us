@@ -10,47 +10,53 @@ Discontinue MYFEMBREE at least 4 to 6 weeks before surgery of the type associate
 Discontinue MYFEMBREE immediately if there is sudden unexplained partial or complete loss of vision, proptosis, diplopia, papilledema, or retinal vascular lesions and evaluate for retinal vein thrombosis as these have been reported in patients receiving estrogens and progestins.
 
 Estrogen and progestin combinations, including the estradiol/norethindrone acetate component of MYFEMBREE, increase the risk of thrombotic or thromboembolic disorders, including pulmonary embolism, deep vein thrombosis, stroke, and myocardial infarction, especially in women at high risk for these events.
-In general, the risk is greatest among women over 35 years of age who smoke, and women with uncontrolled hypertension, dyslipidemia, vascular disease, or obesity.
+In general, the risk is greatest among women over 35 years of age who smoke and women with uncontrolled hypertension, dyslipidemia, vascular disease, or obesity.
 
-In Phase 3 placebo-controlled clinical trials in 1066 women treated with MYFEMBREE for another indication, 2 thromboembolic events (DVT and PE) occurred in 1 woman with risk factors of obesity and a preceding knee injury and one case was reported for a woman treated with relugolix monotherapy in the postmarketing period.
+Two thromboembolic events (DVT and PE) occurred in one woman treated for 38 days with MYFEMBREE for moderate to severe pain associated with endometriosis.
 
 ## 5.2. Bone Loss
 
 MYFEMBREE is contraindicated in women with known osteoporosis [see Contraindications (4)].
 Consider the benefits and risks of MYFEMBREE treatment in patients with a history of a low trauma fracture or risk factors for osteoporosis or bone loss, including taking medications that may decrease bone mineral density (BMD) (e.g., systemic or chronic inhaled corticosteroids, anticonvulsants, or chronic use of proton pump inhibitors).
 
-Assessment of BMD by dual-energy X-ray absorptiometry (DXA) is recommended at baseline and periodically thereafter.
+Assessment of BMD by dual-energy X-ray absorptiometry (DXA) is recommended at baseline.
+In women with heavy menstrual bleeding associated with uterine fibroids, periodic DXA during treatment with MYFEMBREE is recommended.
+In women with moderate to severe pain associated with endometriosis, annual DXA is recommended while taking MYFEMBREE.
 Consider discontinuing MYFEMBREE if the risk associated with bone loss exceeds the potential benefit of treatment.
 Although the effect of supplementation with calcium and vitamin D was not studied, such supplementation for patients with inadequate dietary intake may be beneficial.
 MYFEMBREE may cause a decrease in BMD in some patients.
 BMD loss may be greater with increasing duration of use and may not be completely reversible after stopping treatment [see Adverse Reactions (6.1)].
 The impact of BMD decreases on long-term bone health and future fracture risk in premenopausal women is unknown.
 
-In Phase 3 clinical trials, women treated with MYFEMBREE for up to 52 weeks had a decline in lumbar spine BMD of 0.80% [see Adverse Reactions (6.1)].
-
 ## 5.3. Hormone-Sensitive Malignancies
 
 MYFEMBREE is contraindicated in women with current or a history of hormone-sensitive malignancies (e.g., breast cancer) and in women at increased risk for hormone-sensitive malignancies [see Contraindications (4)].
 Discontinue MYFEMBREE if a hormone-sensitive malignancy is diagnosed.
 
-Surveillance measures in accordance with standard of care, such as breast examinations and mammography are recommended.
+Surveillance measures in accordance with standard of care, such as breast examinations and mammography, are recommended.
 The use of estrogen alone or estrogen plus progestin has been reported to result in an increase in abnormal mammograms requiring further evaluation.
 
-## 5.4. Depression, Mood Disorders, and Suicidal Ideation
+## 5.4. Suicidal Ideation and Mood Disorders (Including Depression)
 
-Promptly evaluate patients with mood changes and depressive symptoms including shortly after initiating treatment, to determine whether the risks of continued therapy with MYFEMBREE outweigh the benefits.
+Evaluate patients with a history of suicidal ideation, depression, and mood disorders prior to initiating treatment.
+Monitor patients for mood changes and depressive symptoms including shortly after initiating treatment, to determine whether the risks of continuing therapy with MYFEMBREE outweigh the benefits.
 Patients with new or worsening depression, anxiety, or other mood changes should be referred to a mental health professional, as appropriate.
 Advise patients to seek immediate medical attention for suicidal ideation and behavior.
-Reevaluate the benefits and risks of continuing MYFEMBREE if such events occur.
+Re-evaluate the benefits and risks of continuing MYFEMBREE if such events occur.
 
-In Phase 3 placebo-controlled clinical trials, as compared to placebo, a greater proportion of women treated with MYFEMBREE reported depression (including depression, mood swings, and depressed mood) (2.4% vs. 0.8%), irritability (2.4% vs. 0%), and anxiety (1.2% vs. 0.8%).
-Suicidal ideation occurred in women treated with MYFEMBREE in placebo-controlled clinical trials conducted for a different indication.
+Gonadotropin-releasing hormone receptor antagonists, including MYFEMBREE, have been associated with mood disorders (including depression) and suicidal ideation.
+
+In Studies L1 and L2 in women with heavy menstrual bleeding associated with uterine fibroids, a greater proportion of women treated with MYFEMBREE compared with placebo reported depression (including depression, mood swings, and depressed mood) (2.4% vs. 0.8%), irritability (2.4% vs. 0%), and anxiety (1.2% vs. 0.8%) [see Adverse Reactions (6.1)].
+
+In Studies S1 and S2 in women with moderate to severe pain associated with endometriosis, a greater proportion of women treated with MYFEMBREE as compared to placebo reported mood disorders (including depression) (9.1% vs. 7.2%).
+In addition, cases of suicidal ideation were reported with MYFEMBREE use.
+All women who reported suicidal ideation had a history of depression and/or anxiety [see Adverse Reactions (6.1)].
 
 ## 5.5. Hepatic Impairment and Transaminase Elevations
 
 Contraindication in Patients with Hepatic Impairment
 
-MYFEMBREE is contraindicated in patients with known hepatic impairment or disease [see Contraindications (4) and Use in Specific Populations (8.7)].
+MYFEMBREE is contraindicated in patients with known hepatic impairment or disease [see Contraindications (4) and Use in Specific Populations (8.5)].
 Steroid hormones may be poorly metabolized in patients with impaired liver function [see Clinical Pharmacology (12.3)].
 
 Transaminase Elevations
@@ -58,9 +64,8 @@ Transaminase Elevations
 Instruct women to promptly seek medical attention for symptoms or signs that may reflect liver injury, such as jaundice or right upper abdominal pain.
 Acute liver test abnormalities may necessitate the discontinuation of MYFEMBREE use until the liver tests return to normal and MYFEMBREE causation has been excluded.
 
-In Phase 3 placebo-controlled clinical trials, elevations [≥ 3 times the upper limit of the normal (ULN) reference range] in alanine aminotransferase (ALT) occurred in 0.4% (1/254) of women treated with MYFEMBREE compared with no elevations in placebo-treated women.
-Elevations ≥ 3 times ULN in aspartate aminotransferase (AST) occurred in 0.8% (2/254) of women treated with MYFEMBREE compared with 0.4% (1/256) of placebo-treated women.
-No pattern in time to onset of these liver transaminase elevations was identified.
+In placebo-controlled clinical trials, in women with uterine fibroids or endometriosis, elevations (≥ 3 times the upper limit of the normal [ULN] of reference range) in alanine aminotransferase (ALT) occurred in 0.4% (1/254) and 0.7% (3/418) of MYFEMBREE-treated women, respectively, as compared to 0% (0/256) and 0.5% (2/416) of placebo-treated women, respectively; moreover, elevations (≥ 3 times ULN of reference range) in aspartate aminotransferase (AST) occurred in 0.8% (2/254) and 0.2% (1/418) of MYFEMBREE-treated women, respectively, as compared to 0.4% (1/256) and 0.5% (2/416) of placebo-treated women, respectively.
+No patterns in time to onset of these liver transaminase elevations were identified.
 
 ## 5.6. Gallbladder Disease or History of Cholestatic Jaundice
 
@@ -73,7 +78,7 @@ Studies among estrogen users suggest a small increased relative risk of developi
 MYFEMBREE is contraindicated in women with uncontrolled hypertension [see Contraindications (4)].
 For women with well-controlled hypertension, continue to monitor blood pressure and stop MYFEMBREE if blood pressure rises significantly.
 
-In one of the two Phase 3 clinical trials (Study L1), more women experienced the adverse reaction of new or worsening hypertension with MYFEMBREE as compared to placebo (7.0% vs. 0.8%).
+In the placebo-controlled clinical trials in women with heavy menstrual bleeding associated with uterine fibroids or with moderate to severe pain associated with endometriosis, more women in one study (Study L1; uterine fibroids) experienced the adverse reaction of new or worsening hypertension with MYFEMBREE compared to placebo (7.0% vs. 0.8%).
 
 ## 5.8. Change in Menstrual Bleeding Pattern and Reduced Ability to Recognize Pregnancy
 
@@ -91,24 +96,23 @@ The use of estrogen-containing hormonal contraceptives can increase estrogen lev
 
 MYFEMBREE is contraindicated for use in pregnancy [see Contraindications (4)].
 Based on findings from animal studies and its mechanism of action, MYFEMBREE can cause early pregnancy loss.
-However, in both rabbits and rats, no fetal malformations were present at any dose level tested which were associated with relugolix exposures about half and approximately 300 times exposures in women at the recommended human dose, respectively [see Use in Specific Populations (8.1)].
+However, in both rabbits and rats, no fetal malformations were present at any dose level tested which were associated with relugolix exposures about half and approximately 300 times exposures in women at the recommended human dose [see Use in Specific Populations (8.1)].
 
 ## 5.10. Uterine Fibroid Prolapse or Expulsion
 
 Advise women with known or suspected submucosal uterine fibroids about the possibility of uterine fibroid prolapse or expulsion and instruct them to contact their physician if severe bleeding and/or cramping occurs while being treated with MYFEMBREE.
-In Phase 3 placebo-controlled clinical trials, uterine fibroid prolapse and uterine fibroid expulsion were reported in women treated with MYFEMBREE [see Adverse Reactions (6.1)].
+In Studies L1 and L2, uterine fibroid prolapse or uterine fibroid expulsion were reported in women treated with MYFEMBREE [see Adverse Reactions (6.1)].
 
 ## 5.11. Alopecia
 
 Consider discontinuing MYFEMBREE if hair loss becomes a concern [see Adverse Reactions (6.1)].
 
-In Phase 3 placebo-controlled clinical trials, more women experienced alopecia, hair loss, and hair thinning (3.5%) with MYFEMBREE, compared to placebo (0.8%).
-In 3 of the 11 affected women treated with MYFEMBREE across Phase 3 clinical trials, alopecia was reported as moderate.
+In Phase 3 placebo-controlled clinical trials in women with heavy menstrual bleeding associated with uterine fibroids, 3.5% of MYFEMBREE-treated women experienced alopecia, hair loss, and hair thinning as compared to 0.8% of placebo-treated women.
+In 3 of the 11 affected women treated with MYFEMBREE across Studies L1 and L2, alopecia was reported as moderate.
 For one MYFEMBREE-treated woman in the extension trial, alopecia was a reason for discontinuing treatment.
-
 No specific pattern of hair loss was described.
 The majority of affected women completed the study with reported hair loss ongoing.
-Whether the hair loss is reversible is unknown.
+Whether the hair loss is reversible is unknown [see Adverse Reactions (6.1)].
 
 ## 5.12. Effects on Carbohydrate and Lipid Metabolism
 

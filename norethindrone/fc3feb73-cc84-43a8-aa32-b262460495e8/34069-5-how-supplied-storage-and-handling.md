@@ -9,7 +9,7 @@ MYFEMBREE is supplied in a white, opaque, high-density polyethylene bottle conta
 
 ## 16.2. Storage and Handling
 
-Store at 15ºC to 30ºC (59ºF to 86ºF).
+Store at 15°C to 30°C (59°F to 86°F).
 
 Dispose unused medication via a take-back option if available.
 Otherwise, follow FDA instructions for disposing medication in the household trash, www.fda.gov/drugdisposal.

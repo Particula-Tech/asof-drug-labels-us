@@ -9,7 +9,7 @@
 
 - Take one tablet of MYFEMBREE orally once daily at approximately the same time, with or without food [see Clinical Pharmacology (12.3)].
 - Start MYFEMBREE as early as possible after the onset of menses but no later than seven days after menses has started.
-- The recommended total duration of treatment with MYFEMBREE is 24 months [see Warnings and Precautions (5.2)].
+- The recommended total duration of treatment with MYFEMBREE is 24 months [see Indications and Usage (1.3) and Warnings and Precautions (5.2)].
 
 ## 2.3. Missed Dose
 
