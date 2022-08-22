@@ -100,7 +100,7 @@ Because animal reproduction studies are not always predictive of human response,
 
 ## Nursing Mothers
 
-Soluble penicillin G is excreted in breast milk.
+Soluble penicillin G (the hydrolysate of penicillin G benzathine) is excreted in breast milk.
 Caution should be exercised when penicillin G benzathine is administered to a nursing woman.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
