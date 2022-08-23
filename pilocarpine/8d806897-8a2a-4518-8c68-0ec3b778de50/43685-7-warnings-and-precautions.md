@@ -1,15 +1,21 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Poor Illumination
+## 5.1 Blurred Vision
 
-Patients should be advised to exercise caution in night driving and other hazardous occupations in poor illumination.
-In addition, miotics may cause accommodative spasm.
-Patients should be advised not to drive or use machinery if vision is not clear.
+Miotics, including VUITY, may cause accommodative spasm.
+Patients should be advised not to drive or operate machinery if vision is not clear (e.g., blurred vision).
+
+In addition, patients may experience temporary dim or dark vision with miotics, including VUITY.
+Patients should be advised to exercise caution in night driving and other hazardous activities in poor illumination.
 
 ## 5.2 Risk of Retinal Detachment
 
-Rare cases of retinal detachment have been reported with other miotics when used in susceptible individuals and those with pre-existing retinal disease.
-Patients should be advised to seek immediate medical care with sudden onset of vision loss.
+Rare cases of retinal detachment and retinal tear have been reported with miotics, including VUITY.
+
+Individuals with pre-existing retinal disease are at increased risk.
+Therefore, examination of the retina is advised in all patients prior to the initiation of therapy.
+
+Patients should be advised to seek immediate medical care with sudden onset of flashing lights, floaters, or vision loss.
 
 ## 5.3 Iritis
 

@@ -28,7 +28,7 @@ Vuity™
 
 (pilocarpine HCI ophthalmic solution) 1.25%
 
-Contains one 2.5 mL bottle
+Contains three 2.5 mL bottles
 
 Rx Only
 
@@ -56,7 +56,7 @@ Sterile
 
 2.5 mL
 
-For topical Application in the Eye
+For Topical Application in the Eye
 
 Allergan™
 
@@ -78,7 +78,7 @@ Sterile
 
 1.5 mL
 
-For topical Application in the Eye
+For Topical Application in the Eye
 
 Allergan™
 

@@ -14,8 +14,6 @@ Table 1: Primary Efficacy Results from GEMINI 1 and GEMINI 2 Studies (Intent-to-
 
 Figures 1 and 2 present the proportion of participants who gained 3-lines or more in mesopic DCNVA at Day 30.
 
-| Figure 1: Proportion of Participants Achieving 3-Lines or More Improvement in Mesopic, High Contrast, Binocular DCNVA at Day 30 in GEMINI 1 (Intent-to-Treat Population) |
-| --- |
+Figure 1: Proportion of Participants Achieving 3-Lines or More Improvement in Mesopic, High Contrast, Binocular DCNVA at Day 30 in GEMINI 1 (Intent-to-Treat Population)
 
-| Figure 2: Proportion of Participants Achieving 3-lines or More Improvement in Mesopic, High Contrast, Binocular DCNVA at Day 30 in GEMINI 2 (Intent-to-Treat population) |
-| --- |
+Figure 2: Proportion of Participants Achieving 3-lines or More Improvement in Mesopic, High Contrast, Binocular DCNVA at Day 30 in GEMINI 2 (Intent-to-Treat population)
