@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA211857"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Amphastar Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0548-9701-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin",
+      "name": "Vasopressin"
+    }
+  ],
+  "setid": "4e6c737d-65e8-4af4-b301-69a93affbc7f",
+  "source": "dailymed"
+}
