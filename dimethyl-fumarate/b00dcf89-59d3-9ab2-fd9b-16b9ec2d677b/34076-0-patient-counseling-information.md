@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information)
 
-Dosage Inform patients that they will be provided two strengths of dimethyl fumarate when starting treatment: 120 mg capsules for the 7 day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
+Dosage Inform patients that they will be provided two strengths of dimethyl fumarate when starting treatment: 120 mg capsules for the 7-day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
 Inform patients to swallow dimethyl fumarate capsules whole and intact.
 Inform patients to not crush, chew, or sprinkle capsule contents on food.
 Inform patients that dimethyl fumarate can be taken with or without food [see Dosage and Administration (2.1)].

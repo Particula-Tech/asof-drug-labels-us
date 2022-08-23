@@ -2,12 +2,12 @@
 
 The following important adverse reactions are described elsewhere in labeling:
 
-- Anaphylaxis and Angioedema [see Warnings and Precautions (5.1)].
-- Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.2)].
-- Herpes Zoster and Other Serious Opportunistic Infections [see Warnings and Precautions (5.3)].
-- Lymphopenia [see Warnings and Precautions (5.4)].
-- Liver Injury [see Warnings and Precautions (5.5)].
-- Flushing [see Warnings and Precautions (5.6)].
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.1)]
+- Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.2)]
+- Herpes Zoster and Other Serious Opportunistic Infections [see Warnings and Precautions (5.3)]
+- Lymphopenia [see Warnings and Precautions (5.4)]
+- Liver Injury [see Warnings and Precautions (5.5)]
+- Flushing [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -53,7 +53,10 @@ The adverse reaction profile of dimethyl fumarate in the uncontrolled clinical s
 
 The following adverse reaction has been identified during post-approval use of dimethyl fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) have been reported following dimethyl fumarate administration in postmarketing experience [See Warnings and Precautions (5.5)].
-Herpes zoster infection and other serious opportunistic infections have has been reported with dimethyl fumarate administration in postmarketing experience [See Warnings and Precautions (5.3)].
+Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)]
 
-Rhinorrhea has been reported with dimethyl fumarate administration in post marketing experience.
+Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)]
+
+Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea
+
+Skin and Subcutaneous: Alopecia
