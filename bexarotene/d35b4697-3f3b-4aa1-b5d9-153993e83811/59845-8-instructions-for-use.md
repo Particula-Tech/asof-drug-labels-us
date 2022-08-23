@@ -1,11 +1,19 @@
-Targretin® (bexarotene) 1% gel Patient’s Instructions for Use (For Topical Use Only)
+# Patient’s Instructions for Use
+
+Targretin® (bexarotene) 1% gel (For Topical Use Only)
 
 To help you get the full benefits from this medicine, you should read this leaflet carefully and ask your doctor to explain anything you do not understand.
 
 What are the most important things I should know about Targretin® gel?
 
-| Do not use Targretin gel if you are pregnant or if you plan to become pregnant. •Targretin gel may harm your fetus (unborn baby). You should contact your doctor immediately if you believe or suspect you are pregnant while you are using Targretin gel and until one month after you stop using Targretin gel.•If you are capable of becoming pregnant, you must have a pregnancy test, within one week before you start Targretin gel therapy and monthly while you are using Targretin gel, confirming you are not pregnant.•You must use effective contraception (birth control) continuously starting one month before beginning treatment with Targretin gel until one month after you stop using Targretin gel. It is recommended that two reliable forms of contraception be used together.•If you are male and your partner is pregnant or capable of becoming pregnant, you should discuss with your doctor the precautions you should take. |
-| --- |
+Do not use Targretin gel if you are pregnant or if you plan to become pregnant.
+
+- •Targretin gel may harm your fetus (unborn baby).
+  You should contact your doctor immediately if you believe or suspect you are pregnant while you are using Targretin gel and until one month after you stop using Targretin gel.
+- •If you are capable of becoming pregnant, you must have a pregnancy test, within one week before you start Targretin gel therapy and monthly while you are using Targretin gel, confirming you are not pregnant.
+- •You must use effective contraception (birth control) continuously starting one month before beginning treatment with Targretin gel until one month after you stop using Targretin gel.
+  It is recommended that two reliable forms of contraception be used together.
+- •If you are male and your partner is pregnant or capable of becoming pregnant, you should discuss with your doctor the precautions you should take.
 
 What is Targretin gel?
 
