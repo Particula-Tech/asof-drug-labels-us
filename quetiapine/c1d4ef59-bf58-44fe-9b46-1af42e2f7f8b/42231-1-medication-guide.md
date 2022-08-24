@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
@@ -261,4 +261,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-L 9/2021
+M 8/2022

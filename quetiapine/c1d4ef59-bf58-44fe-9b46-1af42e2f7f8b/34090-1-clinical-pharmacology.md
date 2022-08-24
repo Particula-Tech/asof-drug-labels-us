@@ -12,9 +12,7 @@ Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotr
 The Ki values for quetiapine and norquetiapine at the dopamine D1 are 428/99.8 nM, at D2 626/489nM, at serotonin 5HT1A 1040/191 nM at 5HT2A 38/2.9 nM, at histamine H1 4.4/1.1 nM, at muscarinic M1 1086/38.3 nM, and at adrenergic α1b 14.6/46.4 nM and, at α2 receptors 617/1290 nM, respectively.
 Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
 
-Effect on QT Interval
-
-In clinical trials, quetiapine was not associated with a persistent increase in QT intervals.
+Effect on QT Interval In clinical trials, quetiapine was not associated with a persistent increase in QT intervals.
 However, the QT effect was not systematically evaluated in a thorough QT study.
 In post marketing experience, there were cases reported of QT prolongation in patients who overdosed on quetiapine [see Overdosage (10.1)], in patients with concomitant illness, and in patients taking medicines known to cause electrolyte imbalance or increase QT interval.
 

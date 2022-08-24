@@ -11,7 +11,7 @@ There were statistically significant increases in thyroid gland follicular adeno
 Mammary gland adenocarcinomas were statistically significantly increased in female rats at all doses tested (0.3, 1, and 3 times the MRHD based on mg/m2 body surface area).
 
 Thyroid follicular cell adenomas may have resulted from chronic stimulation of the thyroid gland by thyroid stimulating hormone (TSH) resulting from enhanced metabolism and clearance of thyroxine by rodent liver.
-Changes in TSH, thyroxine, and thyroxine clearance consistent with this mechanism were observed in subchronic toxicity studies in rat and mouse and in a 1 year toxicity study in rat; however, the results of these studies were not definitive.
+Changes in TSH, thyroxine, and thyroxine clearance consistent with this mechanism were observed in subchronic toxicity studies in rat and mouse and in a 1-year toxicity study in rat; however, the results of these studies were not definitive.
 The relevance of the increases in thyroid follicular cell adenomas to human risk, through whatever mechanism, is unknown.
 
 Antipsychotic drugs have been shown to chronically elevate prolactin levels in rodents.

@@ -70,7 +70,7 @@ Of these trials, 2 were monotherapy (12 weeks) and 1 was adjunct therapy (3 week
 Key outcomes in these trials were change from baseline in the Young Mania Rating Scale (YMRS) score at 3 and 12 weeks for monotherapy and at 3 weeks for adjunct therapy.
 Adjunct therapy is defined as the simultaneous initiation or subsequent administration of quetiapine with lithium or divalproex.
 
-The primary rating instrument used for assessing manic symptoms in these trials was YMRS, an 11 item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
+The primary rating instrument used for assessing manic symptoms in these trials was YMRS, an 11-item clinician-rated scale traditionally used to assess the degree of manic symptomatology (irritability, disruptive/aggressive behavior, sleep, elevated mood, speech, increased activity, sexual interest, language/thought disorder, thought content, appearance, and insight) in a range from 0 (no manic features) to 60 (maximum score).
 
 The results of the trials follow:
 
