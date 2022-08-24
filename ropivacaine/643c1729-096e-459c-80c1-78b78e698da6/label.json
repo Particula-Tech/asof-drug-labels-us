@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA210102"
+  ],
+  "inn": "ropivacaine",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-262-01",
+    "68083-263-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ropivacaine hydrochloride",
+      "name": "Ropivacaine hydrochloride"
+    }
+  ],
+  "setid": "643c1729-096e-459c-80c1-78b78e698da6",
+  "source": "dailymed"
+}
