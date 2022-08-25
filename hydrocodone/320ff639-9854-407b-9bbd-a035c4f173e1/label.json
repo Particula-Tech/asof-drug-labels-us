@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA005213"
+  ],
+  "inn": "hydrocodone",
+  "labeler": "Genus Lifesciences Inc.",
+  "package_ndcs": [
+    "64950-206-03",
+    "64950-206-10",
+    "64950-371-47"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydrocodone bitartrate and homatropine methylbromide",
+      "name": "Hydrocodone Bitartrate and Homatropine Methylbromide"
+    },
+    {
+      "form": "TABLET",
+      "generic": "hydrocodone bitartrate and homatropine methylbromide",
+      "name": "Hydrocodone Bitartrate and Homatropine Methylbromide"
+    }
+  ],
+  "setid": "320ff639-9854-407b-9bbd-a035c4f173e1",
+  "source": "dailymed"
+}
