@@ -7,6 +7,7 @@ The chemical name of ephedrine sulfate is benzenemethanol, α-[1-(methylamino)et
 Its structural formula is depicted below:
 
 Ephedrine sulfate is freely soluble in water and methanol, slightly soluble in ethanol, very slightly soluble in chloroform, practically insoluble in ether.
-Each mL contains ephedrine sulfate, USP 50 mg (equivalent to 38 mg ephedrine base) in water for injection.
-The pH is adjusted with sodium hydroxide and/or glacial acetic acid if necesssary.
-The pH range is 4.5 to 7.0.
+
+Each mLof the 50 mg/mL strength contains ephedrine sulfate, USP 50 mg (equivalent to 38 mg ephedrine base) in water for injection.
+The pH is adjusted with sodium hydroxide and/or glacial acetic acid if necessary.
+The pH range is 4.5 to 7.0.The 50 mg/mL vial must be diluted before intravenous administration.

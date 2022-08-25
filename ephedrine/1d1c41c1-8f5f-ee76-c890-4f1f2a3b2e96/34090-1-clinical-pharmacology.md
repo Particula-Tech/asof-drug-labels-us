@@ -15,7 +15,7 @@ Activation of β-adrenergic receptors in the lungs promotes bronchodilation.
 The overall cardiovascular effect from ephedrine is the result of a balance among α-1 adrenoceptor-mediated vasoconstriction, β-2 adrenoceptor-mediated vasoconstriction, and β-2 adrenoceptor-mediated vasodilatation.
 Stimulation of the β-1 adrenoceptors results in positive inotrope and chronotrope action.
 
-Tachyphylaxis to the pressor effects of ephedrine may occur with repeated administration [see Warnings and Precautions 5.2].
+Tachyphylaxis to the pressor effects of ephedrine may occur with repeated administration [see Warnings and Precautions (5.2)].
 
 ## 12.3 Pharmacokinetics
 
@@ -25,4 +25,4 @@ Both the parent drug and the metabolite are excreted in urine.
 Limited data after IV administration of ephedrine support similar observations of urinary excretion of drug and metabolite.
 The plasma elimination half-life of ephedrine following oral administration was about 6 hours.
 
-Ephedrine crosses the placental barrier [see Use in Specific Populations 8.1].
+Ephedrine crosses the placental barrier [see Use in Specific Populations (8.1)].
