@@ -28,7 +28,7 @@ Taper and discontinue bupropion hydrochloride extended-release tablets (XL) in e
 For patients treated with 300 mg per day, decrease the dose to 150 mg once daily before discontinuing bupropion hydrochloride extended-release tablets (XL).
 Individualize the timing of initiation, and duration of treatment should be individualized, based on the patient’s historical pattern of seasonal MDD episodes.
 
-## 2.4 Switching Patients from Bupropion Hydrochloride Tablets or from Bupropion Hydrochloride Extended-release Tablets (SR)
+## 2.4 Switching Patients from Bupropion Hydrochloride Tablets or from Bupropion Hydrochloride Extended-Release Tablets (SR)
 
 When switching patients from bupropion hydrochloride tablets to bupropion hydrochloride extended-release tablets (XL) or from bupropion hydrochloride extended-release tablets (SR) to bupropion hydrochloride extended-release tablets (XL), give the same total daily dose when possible.
 
