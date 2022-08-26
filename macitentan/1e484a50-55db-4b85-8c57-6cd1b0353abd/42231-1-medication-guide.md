@@ -40,8 +40,7 @@
 | What are the ingredients in OPSUMIT? |  |  |
 | Active ingredient: macitentan |  |  |
 | Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, polysorbate 80, povidone, and sodium starch glycolate Type A. The tablets are film-coated with a coating material containing polyvinyl alcohol, soya lecithin, talc, titanium dioxide, and xanthan gum. |  |  |
-| Made in Switzerland. |  |  |
 | Manufactured for: |  |  |
-| Actelion Pharmaceuticals US, Inc., a Janssen Pharmaceutical Company South San Francisco, CA 94080, USA © 2013 – 2019 Actelion Pharmaceuticals US, Inc. All rights reserved. |  |  |
-| JN20211025 |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 10/2021 |
+| Actelion Pharmaceuticals US, Inc., a Janssen Pharmaceutical Company Titusville, NJ 08560, USA For patent information: www.janssenpatents.com © 2013 – 2019 Actelion Pharmaceuticals US, Inc. All rights reserved. |  |  |
+| JN20220725 |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 07/2022 |
