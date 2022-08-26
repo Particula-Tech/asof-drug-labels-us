@@ -46,12 +46,12 @@ Reconstitution of Daptomycin for Injection Vial
 Daptomycin for Injection is supplied in single-dose vials, each containing 350 mg or 500 mg daptomycin as a sterile, lyophilized powder.
 The contents of a Daptomycin for Injection vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows:
 
-- To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
-- Remove the polypropylene flip-off cap from the Daptomycin for Injection vial to expose the central portion of the rubber stopper.
+- •To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
+- •Remove the polypropylene flip-off cap from the Daptomycin for Injection vial to expose the central portion of the rubber stopper.
   Wipe the top of the rubber stopper with an alcohol swab or other antiseptic solution and allow to dry.
-- Pierce the center of the rubber stopper with the syringe needle and GENTLY inject 10 mL of 0.9% sodium chloride injection directly over the Daptomycin for Injection 500 mg drug product or 7 mL of 0.9% sodium chloride injection directly over the Daptomycin for Injection 350 mg drug product.
+- •Pierce the center of the rubber stopper with the syringe needle and GENTLY inject 10 mL of 0.9% sodium chloride injection directly over the Daptomycin for Injection 500 mg drug product or 7 mL of 0.9% sodium chloride injection directly over the Daptomycin for Injection 350 mg drug product.
   Release the syringe plunger and allow the syringe plunger to equalize the pressure before removing the syringe from the vial.
-- Hold the vial by the vial neck, tilt the vial and swirl vial contents until the product is completely reconstituted.
+- •Hold the vial by the vial neck, tilt the vial and swirl vial contents until the product is completely reconstituted.
 
 Administration Instructions
 
@@ -64,11 +64,11 @@ Adults
 
 Intravenous Injection over a period of 2 minutes
 
-- For intravenous (IV) injection over a period of 2 minutes in adult patients only: Administer the appropriate volume of the reconstituted Daptomycin for Injection (concentration of 50 mg/mL).
+- •For intravenous (IV) injection over a period of 2 minutes in adult patients only: Administer the appropriate volume of the reconstituted Daptomycin for Injection (concentration of 50 mg/mL).
 
 Intravenous Infusion over a period of 30 minutes
 
-- For IV infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted Daptomycin for Injection (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
+- •For IV infusion over a period of 30 minutes in adult patients: The appropriate volume of the reconstituted Daptomycin for Injection (concentration of 50 mg/mL) should be further diluted, using aseptic technique, into a 50 mL IV infusion bag containing 0.9% sodium chloride injection.
 
 No preservative or bacteriostatic agent is present in this product.
 Aseptic technique must be used in the preparation of final IV solution.
@@ -87,7 +87,8 @@ For 0.9% sodium chloride diluent, the combined storage time (reconstituted solut
 
 ## 2.6 Compatible Intravenous Solutions
 
-Daptomycin for Injection is compatible with 0.9% sodium chloride injection and Lactated Ringer's injection.
+Daptomycin for Injection is compatible with 0.9% sodium chloride injection for reconstitution.
+Reconstituted Daptomycin for Injection can be diluted with 0.9% sodium chloride injection or Lactated Ringer's injection.
 
 ## 2.7 Incompatibilities
 

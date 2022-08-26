@@ -16,6 +16,6 @@ However, sufficient daptomycin concentrations may be present at trough to cause 
 
 If confronted with an abnormally high PT/INR result in a patient being treated with daptomycin, it is recommended that clinicians:
 
-1. Repeat the assessment of PT/INR, requesting that the specimen be drawn just prior to the next Daptomycin for Injection dose (i.e., at trough concentration).
+1. 1.Repeat the assessment of PT/INR, requesting that the specimen be drawn just prior to the next Daptomycin for Injection dose (i.e., at trough concentration).
    If the PT/INR value obtained at trough remains substantially elevated above what would otherwise be expected, consider evaluating PT/INR utilizing an alternative method.
-2. Evaluate for other causes of abnormally elevated PT/INR results.
+2. 2.Evaluate for other causes of abnormally elevated PT/INR results.
