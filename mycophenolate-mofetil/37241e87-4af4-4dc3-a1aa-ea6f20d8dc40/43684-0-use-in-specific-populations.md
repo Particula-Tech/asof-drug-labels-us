@@ -10,7 +10,7 @@ To report a pregnancy or obtain information about the registry, visit www.mycoph
 Risk Summary
 
 Use of mycophenolate mofetil (MMF) during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of multiple congenital malformations in multiple organ systems [see Human Data].
-Oral administration of mycophenolate to rats and rabbits during the period of organogenesis produced congenital malformations and pregnancy loss at doses less than the recommended clinical dose (0.02 to 0.1 times the recommended clinical doses in kidney and heart transplant patients) [see Animal Data].
+Oral administration of mycophenolate to rats and rabbits during the period of organogenesis produced congenital malformations and pregnancy loss at doses less than the recommended clinical dose (0.01 to 0.05 times the recommended clinical doses in kidney and heart transplant patients) [see Animal Data].
 
 Consider alternative immunosuppressants with less potential for embryofetal toxicity.
 Risks and benefits of CELLCEPT should be discussed with the pregnant woman.
@@ -76,7 +76,7 @@ Patients must use acceptable birth control during the entire CELLCEPT therapy, a
 
 Patients should be aware that CELLCEPT reduces blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
 
-Table 9 Acceptable Contraception Methods For Females of Reproductive Potential
+Table 9 Acceptable Contraception Methods for Females of Reproductive Potential
 
 | Pick from the following birth control options: |  |  |  |
 | --- | --- | --- | --- |
@@ -98,13 +98,13 @@ Also, based on the potential risk of genotoxic effects, male patients should not
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric patients 3 months and older for the prophylaxis of organ rejection of allogeneic kidney, heart or liver transplants.
+Safety and effectiveness have been established in pediatric patients 3 months and older for the prophylaxis of organ rejection of allogenic kidney, heart or liver transplants.
 
 Kidney Transplant
 
 Use of CELLCEPT in this population is supported by evidence from adequate and well-controlled studies of CELLCEPT in adults with additional data from one open-label, pharmacokinetic and safety study of CELLCEPT in pediatric patients after receiving allogeneic kidney transplant (100 patients, 3 months to 18 years of age) [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
 
-Heart and Liver Transplant
+Heart Transplant and Liver Transplant
 
 Use of CELLCEPT in pediatric heart transplant and liver transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult heart transplant and liver transplant patients.
 Additional supportive data include pharmacokinetic data in pediatric kidney transplant and pediatric liver transplant patients (8 liver transplant patients, 9 months to 5 years of age, in an open-label, pharmacokinetic and safety study) and published evidence of clinical efficacy and safety in pediatric heart transplant and pediatric liver transplant patients [see Dosage and Administration (2.3, 2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
@@ -113,8 +113,7 @@ Additional supportive data include pharmacokinetic data in pediatric kidney tran
 
 Clinical studies of CELLCEPT did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between geriatric and younger patients.
-In general, dose selection for a geriatric patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies.
-[see Adverse Reactions (6.1), Drug Interactions (7)].
+In general, dose selection for a geriatric patient should take into consideration the presence of decreased hepatic, renal or cardiac function and of concomitant drug therapies [see Adverse Reactions (6.1), Drug Interactions (7)].
 
 ## 8.6 Patients with Renal Impairment
 

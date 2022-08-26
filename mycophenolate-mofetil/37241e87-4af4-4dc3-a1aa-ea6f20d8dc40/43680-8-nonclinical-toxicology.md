@@ -15,5 +15,5 @@ MMF was not genotoxic in the bacterial mutation assay, the yeast mitotic gene co
 MMF had no effect on fertility of male rats at oral doses up to 20 mg/kg/day.
 This dose represents 0.05 times the recommended clinical dose in renal transplant patients and 0.03 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
 In a female fertility and reproduction study conducted in rats, oral doses of 4.5 mg/kg/day caused malformations (principally of the head and eyes) in the first generation offspring in the absence of maternal toxicity.
-This dose was 0.01 times the recommended clinical dose in renal transplant patients and 0.0005 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
+This dose was 0.01 times the recommended clinical dose in renal transplant patients and 0.005 times the recommended clinical dose in cardiac transplant patients when corrected for BSA.
 No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.

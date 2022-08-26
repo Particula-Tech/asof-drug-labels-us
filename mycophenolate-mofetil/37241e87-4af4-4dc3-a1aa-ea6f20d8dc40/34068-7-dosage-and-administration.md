@@ -47,7 +47,7 @@ Pediatric patients with BSA ≥ 1.25 m2 may be dosed with capsules or tablets as
 
 Table 1 Pediatric Kidney Transplant: Dosage Using Capsules or Tablets
 
-| Body Surface Area | Dosing |
+| Body Surface Area | Dosage |
 | --- | --- |
 | 1.25 m2 to <1.5 m2 | CELLCEPT capsule 750 mg twice daily (1.5 g total daily dose) |
 | ≥ 1.5 m2 | CELLCEPT capsules or tablets 1 g twice daily (2 g total daily dose) |
@@ -61,7 +61,7 @@ The recommended dosage of CELLCEPT for adult heart transplant patients is 1.5 g 
 Pediatrics (3 months and older)
 
 The recommended starting dosage of CELLCEPT oral suspension for pediatric heart transplant patients 3 months and older is 600 mg/m2, administered twice daily.
-If well tolerated, the dose can be increased to a maintenance dose of 900 mg/m2 twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
+If well tolerated, the dose can be increased to a maintenance dosage of 900 mg/m2 twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
 The dose may be individualized based on clinical assessment.
 
 Pediatric patients with BSA ≥1.25 m2 may be started on therapy with capsules or tablets as follows:
@@ -89,7 +89,7 @@ Pediatric patients with BSA ≥1.25 m2 may be started on therapy with capsules o
 
 Table 3 Pediatric Liver Transplant: Pediatric Starting Dosage Using Capsules or Tablets
 
-| Body Surface Area | Starting DosageMaximum maintenance dose: 3 g total daily |
+| Body Surface Area | Starting DosageMaximum maintenance dose: 3 g total daily. |
 | --- | --- |
 | 1.25 m2 to <1.5 m2 | CELLCEPT capsule 750 mg twice daily (1.5 g total daily dose) |
 | ≥ 1.5 m2 | CELLCEPT capsules or tablets 1 g twice daily (2 g total daily dose) |
@@ -104,14 +104,14 @@ These patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 
 Neutropenia
 
-If neutropenia develops (ANC <1.3 × 103/µL), dosing with CELLCEPT should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) and Adverse Reactions (6.1].
+If neutropenia develops (ANC <1.3 × 103/µL), dosing with CELLCEPT should be interrupted or reduced, appropriate diagnostic tests performed, and the patient managed appropriately [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
 
 ## 2.6 Preparation Instructions of Oral Suspension and Intravenous for Pharmacists
 
 General Preparation Instructions Before Handling the Formulations
 
 Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans.
-Follow applicable special handling and disposal procedures.1 [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Use in Specific Populations (8.1, 8.3), How Supplied/Storage and Handling (16.1)]
+Follow applicable special handling and disposal procedures1 [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Use in Specific Populations (8.1, 8.3), How Supplied/Storage and Handling (16.1)].
 
 Care should be taken to avoid inhalation or direct contact with skin or mucous membranes of the dry powder or the constituted suspension because MMF has demonstrated teratogenic effects in humans.
 Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table surface after reconstitution.
@@ -142,7 +142,7 @@ The following are the steps for reconstitution:
    Alert patients to read the important handling information described in the instructions for use.
 
 Store reconstituted suspension at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
-Storage in a refrigerator at 2° C to 8°C (36°F to 46°F) is acceptable.
+Storage in a refrigerator at 2°C to 8°C (36°F to 46°F) is acceptable.
 Do not freeze.
 Discard any unused portion 60 days after constitution.
 
