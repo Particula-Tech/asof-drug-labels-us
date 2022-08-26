@@ -6,7 +6,7 @@ Vasomotor rhinitis
 
 Allergic conjunctivitis due to inhalant allergens and foods
 
-Mild, uncomplicated allergic skin manifestations of urticarial and angioedema.
+Mild, uncomplicated allergic skin manifestations of urticaria and angioedema.
 
 Amelioration of allergic reactions to blood or plasma
 
