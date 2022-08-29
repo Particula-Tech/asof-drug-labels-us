@@ -43,7 +43,7 @@ Table 7: Systemic Exposure (AUCinf and Cmax) of Netupitant and Palonosetron Afte
 | Patients | 17,365 (39) | 58.3 (50) |  |
 | Cmax (ng/mL) | Healthy Subjects | 434 (56) | 1.53 (25) |
 | Patients | 496 (49) | 0.95 (35) |  |
-| tmax (h)median (min-max); | Healthy Subjects | 5 (2 to 12) | 5 (1 to 12) |
+| tmax (h)median (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; | Healthy Subjects | 5 (2 to 12) | 5 (1 to 12) |
 | Patients | 4 (2 to 8) | 5 (1 to 12) |  |
 
 Following oral administration, the absolute bioavailability of palonosetron was approximately 97%.
@@ -69,14 +69,14 @@ Following single intravenous doses of AKYNZEO for injection in patients or fosne
 
 Table 8: Systemic Exposure (AUC0-120 and Cmax) of Netupitant and Palonosetron After a Single Intravenous Dose of AKYNZEO for Injection in Cancer Patients or a Single Intravenous Dose of Fosnetupitant in Healthy Subjects
 
-| Parameter | Population | Mean (CV%CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusion) |  |
+| Parameter | Population | Mean (CV%median (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO;) |  |
 | --- | --- | --- | --- |
 | Netupitant | Palonosetron |  |  |
 | AUC0-120 (ng×h/mL) | Healthy Subjects | 12,012 (19) | -- |
 | Patients | 8,922 (22) | 28 (28) |  |
 | Cmax (ng/mL) | Healthy Subjects | 841 (21) | -- |
 | Patients | 590 (28) | 0.8 (35) |  |
-| tmax (h)median (min-max); | Healthy Subjects | 0.5 (0.5 to 0.4) | -- |
+| tmax (h)median (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; | Healthy Subjects | 0.5 (0.5 to 0.4) | -- |
 | Patients | 0.6 (0.5 to 4) | 0.6 (0.5 to 6) |  |
 
 Distribution
@@ -85,12 +85,12 @@ After single oral administration of AKYNZEO capsules, netupitant and palonosetro
 
 Table 9: Volume of Distribution (Vz/F) in Healthy Subjects and Cancer Patients After a Single Oral Dose of AKYNZEO and In Vitro Protein Binding
 
-| Parameter | Population | Mean (CV%CV: coefficient of variation) |  |
+| Parameter | Population | Mean (CV%median (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO;) |  |
 | --- | --- | --- | --- |
 | Netupitant | Palonosetron |  |  |
 | Vz/F (L) | Healthy Subjects | 3314 (53) | 586 (33) |
 | Patients | 1982 (46) | 663 (24) |  |
-| Plasma Protein Binding | In vitro studies | Netupitant: > 99.5%Concentration range: 10 to 1300 ng/mL; Major Metabolites: > 97%Concentration range: 100 to 200 ng/mL; | 62% |
+| Plasma Protein Binding | In vitro studies | Netupitant: > 99.5%median (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; Major Metabolites: > 97%median (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; | 62% |
 
 After administration of single dose of AKYNZEO for injection in patients, the mean ± SD of volume of distribution (Vz) of netupitant and palonosetron were 2627 ± 990 L and 594 ± 239 L, respectively, consistent with previous estimates after single oral administration of AKYNZEO capsules in healthy subjects and cancer patients (Table 8).
 
@@ -144,11 +144,11 @@ Following single intravenous doses of AKYNZEO for injection in patients (235 mg 
 
 Table 10: Systemic Exposure of Fosnetupitant After a Single Intravenous Dose of Fosnetupitant in Healthy Subjects or AKYNZEO for Injection in Cancer Patients
 
-| Parameter | Population | Mean (CV%CV: coefficient of variation; AUCinf: AUC from time 0 to infinity) |
+| Parameter | Population | Mean (CV%median (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO;) |
 | --- | --- | --- |
 | Cmax (ng/mL) | Healthy Subjects | 6431 (14) |
 | Patients | 3478 (45) |  |
-| tmaxmedian (min-max); (h) | Healthy Subjects | 0.5 (0.25 to 0.5) |
+| tmaxmedian (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; (h) | Healthy Subjects | 0.5 (0.25 to 0.5) |
 | Patients | 0.5 (0.5 to 0.6) |  |
 | AUCinf (ng×h/mL) | Healthy Subjects | 2938 (12) |
 | Patients | 1401 (46) |  |
@@ -262,9 +262,9 @@ Systemic exposure to intravenously administered chemotherapeutic agents that are
 
 Table 13: Effect of a Single Dose of Oral AKYNZEO on the Systemic Exposure of Co-administered Chemotherapy Agents Metabolized by CYP3A4 in Patients with Cancer
 
-| Co-administered Chemotherapeutic AgentFollowing a single oral dose of AKYNZEO compared to co-administered with palonosetron alone | Change in Systemic Exposures of Chemotherapeutic Agents when Co-administered with AKYNZEO Capsules Compared to Co-administration with Palonosetron |  |
+| Co-administered Chemotherapeutic Agentmedian (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; | Change in Systemic Exposures of Chemotherapeutic Agents when Co-administered with AKYNZEO Capsules Compared to Co-administration with Palonosetron |  |
 | --- | --- | --- |
-| AUC0-tAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = Decreased | Cmax |  |
+| AUC0-tmedian (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; | Cmax |  |
 | Docetaxel 75 to 100 mg/m2 | 35%↑ | 49%↑ |
 | Etoposide 35 to 100 mg/m2 | 28%↑ | 10%↑ |
 | Cyclophosphamide 500 to 1000 mg/m2 | 20%↑ | 27%↑ |
@@ -326,7 +326,7 @@ Co-administration of strong CYP3A4 inhibitors, such as ketoconazole, or strong C
 
 Table 14: Change in Systemic Exposure to Netupitant and Palonosetrona When a Single Dose of AKYNZEO is Co‑Administered with Either a CYP3A4 Inhibitor or a CYP3A4 Inducer in Healthy Subjects
 
-| Co-administered DrugFollowing a single oral dose of AKYNZEO; | NetupitantGeometric Mean AUCinf andCmax; ↑ = Increased; ↓ = Decreased |  | Palonosetron |  |
+| Co-administered Drugmedian (min-max);CV: coefficient of variation; AUC0-120: AUC from time 0 to 120 hours from start of infusionmedian (min-max);CV: coefficient of variationConcentration range: 10 to 1300 ng/mL;Concentration range: 100 to 200 ng/mL;CV: coefficient of variation; AUCinf: AUC from time 0 to infinitymedian (min-max);Following a single oral dose of AKYNZEO compared to co-administered with palonosetron aloneAUC0-t: AUC from time zero to time t of last measurable concentration ↑ = Increased; ↓ = DecreasedFollowing a single oral dose of AKYNZEO; | NetupitantGeometric Mean AUCinf andCmax; ↑ = Increased; ↓ = Decreased |  | Palonosetron |  |
 | --- | --- | --- | --- | --- |
 | AUCinf | Cmax | AUCinf | Cmax |  |
 | Strong CYP3A4 Inhibitor |  |  |  |  |
