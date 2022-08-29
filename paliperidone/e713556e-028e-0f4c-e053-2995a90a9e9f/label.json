@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA203802"
+  ],
+  "inn": "paliperidone",
+  "labeler": "Archis Pharma LLC",
+  "package_ndcs": [
+    "72819-157-03",
+    "72819-158-03",
+    "72819-159-03",
+    "72819-160-03"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "paliperidone",
+      "name": "Paliperidone"
+    }
+  ],
+  "setid": "e713556e-028e-0f4c-e053-2995a90a9e9f",
+  "source": "dailymed"
+}
