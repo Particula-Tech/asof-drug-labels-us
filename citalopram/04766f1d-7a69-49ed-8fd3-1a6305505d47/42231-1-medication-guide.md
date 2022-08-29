@@ -6,9 +6,7 @@ Citalopram tablets may cause serious side effects, including:
 
 - Increased risk of suicidal thoughts and actions.
   Citalopram tablets and other antidepressant medicines may increase suicidal thoughts and actions in some children, adolescents, and young adults especially within the first few months of treatment or when the dose is changed.
-  Citalopram tablets are not for use in children.
-
-- Depression and other mental illnesses are the most important causes of suicidal thoughts and actions.
+  Citalopram tablets are not for use in children. ° Depression and other mental illnesses are the most important causes of suicidal thoughts and actions.
 
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
 
@@ -168,8 +166,8 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Manufactured For:
+Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8086978 Revised March 2022
+8088042 Revised July 2022

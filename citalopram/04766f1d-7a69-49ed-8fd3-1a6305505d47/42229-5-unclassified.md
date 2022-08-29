@@ -55,7 +55,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing cita
 
 # 5.2 QT-Prolongation and Torsade de Pointes
 
-Citalopram tablets cause dose-dependent QTc prolongation an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram [see Adverse Reactions 6.2)].
+Citalopram tablets cause dose-dependent QTc prolongation an ECG abnormality that has been associated with Torsade de Pointes (TdP), ventricular tachycardia, and sudden death, all of which have been observed in postmarketing reports for citalopram [see Adverse Reactions (6.2)].
 
 Because of the risk of QTc prolongation at higher citalopram tablet doses, it is recommended that citalopram tablets not be given at doses above 40 mg once daily [see Dosage and Administration (2.1), Clinical Pharmacology (12.2)].
 
@@ -443,14 +443,14 @@ Monitor breastfeeding infants for adverse reactions, such as irritability, restl
 The safety and effectiveness of citalopram have not been established in pediatric patients.
 Two placebo-controlled trials in 407 pediatric patients with MDD have been conducted with citalopram, and the data were not sufficient to support use in pediatric patients.
 
-Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning, Warningsand Precautions (5.1)].
+Antidepressants increase the risk of suicidal thoughts and behaviors in pediatric patients [see Boxed Warning, Warnings and Precautions (5.1)].
 Decreased appetite and weight loss have been observed in association with the use of SSRIs in pediatric patients.
 
 # 8.5 Geriatric Use
 
 Of 4,422 patients in clinical studies of citalopram, 1,357 were 60 and over, 1,034 were 65 and over, and 457 were 75 and over.
 In two pharmacokinetic studies, citalopram AUC was increased by 23% and 30%, respectively, in subjects ≥ 60 years of age as compared to younger subjects, and its half-life was increased by 30% and 50%, respectively [see Clinical Pharmacology (12.3)].
-Therefore, the maximum recommended dosage in patients 60 years of age and older is lower than younger patients [see Dosage and Administration (2.3),Warnings and Precautions (5.2)].
+Therefore, the maximum recommended dosage in patients 60 years of age and older is lower than younger patients [see Dosage and Administration (2.3), Warnings and Precautions (5.2)].
 
 SSRIs, including citalopram, have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse reaction [see Warnings and Precautions (5.9)].
 
