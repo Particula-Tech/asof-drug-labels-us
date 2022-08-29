@@ -35,7 +35,7 @@ Vfend® I.V.
 
 Not made with natural rubber latex No Preservatives
 
-Sterile Single-Dose Vial – Discard Unused Portion For Intravenous Infusion Only
+Sterile Single-Dose Vial - Discard Unused Portion For Intravenous Infusion Only
 
 Pfizer Hospital
 
@@ -52,7 +52,7 @@ NDC 0049-3190-28 Rx only
 
 Not made with natural rubber latex No Preservatives
 
-Sterile Single-Dose Vial – Discard Unused Portion
+Sterile Single-Dose Vial - Discard Unused Portion
 
 For Intravenous Infusion Only
 
