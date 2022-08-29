@@ -1,14 +1,12 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Desmopressin acetate
-
-injection, USP 4 mcg/mL is a synthetic analogue of the natural pituitary hormone 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
+Desmopressin acetate injection, USP is a synthetic vasopressin analog for intravenous or subcutaneous use.
 It is chemically defined as follows: Mol.
 Wt.
-1069.23 Molecular Formula: C46H64N14O12S2
+1129.27 Molecular Formula: C46H64N14O12S2CH3COOH
 
-1-(3-mercaptopropionic acid)-8-D-arginine vasopressin acetate.
-Desmopressin acetate
-
-Injection, USP 4 mcg/mL is provided as a sterile, aqueous solution for injection.
-Each mL provides: Desmopressin acetate, USP, 4 mcg Sodium chloride, 9 mg Hydrochloric acid to adjust pH to 4 Water for injection, q.s. to 1 mL The 10 mL vial contains chlorobutanol as a preservative (5 mg/mL).
+1-(3-mercaptopropanoic acid)-8-D-arginine-vasopressin monoacetate.
+Desmopressin acetate injection, USP is a sterile solution in a 10 mL multiple-dose vial: Each mL contains 4 mcg of desmopressin acetate, USP which is equivalent to 3.6 mcg of desmopressin free base.
+The inactive ingredients are sodium chloride, chlorobutanol (5 mg per mL), hydrochloric acid and water for injection.
+Sodium chloride is used to adjust tonicity.
+Hydrochloric acid is used to adjust pH.
