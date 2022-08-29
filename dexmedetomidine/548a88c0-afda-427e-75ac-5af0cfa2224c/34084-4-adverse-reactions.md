@@ -13,15 +13,15 @@ Most common treatment-emergent adverse reactions, occurring in greater than 2% o
 
 Intensive Care Unit Sedation
 
-Adverse reaction information is derived from the continuous infusion trials of Precedex for sedation in the Intensive Care Unit setting in which 1,007 adult patients received Precedex.
+Adverse reaction information is derived from the continuous infusion trials of PRECEDEX for sedation in the Intensive Care Unit setting in which 1,007 adult patients received PRECEDEX.
 The mean total dose was 7.4 mcg/kg (range: 0.8 to 84.1), mean dose per hour was 0.5 mcg/kg/hr (range: 0.1 to 6.0) and the mean duration of infusion of 15.9 hours (range: 0.2 to 157.2).
 The population was between 17 to 88 years of age, 43% ≥65 years of age, 77% male and 93% Caucasian.
 Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 2.
 The most frequent adverse reactions were hypotension, bradycardia and dry mouth [see Warnings and Precautions (5.2)].
 
-Table 2: Adverse Reactions with an Incidence >2%-Adult Intensive Care Unit Sedation Population <24 hours26 subjects in the all Precedex group and 10 subjects in the randomized Precedex group had exposure for greater than 24 hours.
+Table 2: Adverse Reactions with an Incidence >2%-Adult Intensive Care Unit Sedation Population <24 hours26 subjects in the all PRECEDEX group and 10 subjects in the randomized PRECEDEX group had exposure for greater than 24 hours.
 
-| Adverse Event | All Precedex (N = 1007) (%) | Randomized Precedex (N = 798) (%) | Placebo (N = 400) (%) | Propofol (N = 188) (%) |
+| Adverse Event | All PRECEDEX (N = 1007) (%) | Randomized PRECEDEX (N = 798) (%) | Placebo (N = 400) (%) | Propofol (N = 188) (%) |
 | --- | --- | --- | --- | --- |
 | Hypotension | 25% | 24% | 12% | 13% |
 | Hypertension | 12% | 13% | 19% | 4% |
@@ -51,7 +51,7 @@ Table 2: Adverse Reactions with an Incidence >2%-Adult Intensive Care Unit Sedat
 | Wheezing | <1% | 1% | 0 | 2% |
 | Edema Peripheral | <1% | 0 | 1% | 2% |
 
-Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of Precedex for sedation in the surgical intensive care unit setting in which 387 adult patients received Precedex for less than 24 hours.
+Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of PRECEDEX for sedation in the surgical intensive care unit setting in which 387 adult patients received PRECEDEX for less than 24 hours.
 The most frequently observed treatment-emergent adverse events included hypotension, hypertension, nausea, bradycardia, fever, vomiting, hypoxia, tachycardia and anemia (see Table 3).
 
 Table 3: Treatment-Emergent Adverse Events Occurring in >1% of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
@@ -80,9 +80,9 @@ Table 3: Treatment-Emergent Adverse Events Occurring in >1% of All Dexmedetomidi
 | Oliguria | 2% | <1% |
 | Thirst | 2% | <1% |
 
-In a controlled clinical trial, Precedex was compared to midazolam for ICU sedation exceeding 24 hours duration in adult patients.
+In a controlled clinical trial, PRECEDEX was compared to midazolam for ICU sedation exceeding 24 hours duration in adult patients.
 Key treatment emergent adverse events occurring in dexmedetomidine or midazolam treated patients in the randomized active comparator continuous infusion long-term intensive care unit sedation study are provided in Table 4.
-The number (%) of subjects who had a dose-related increase in treatment-emergent adverse events by maintenance adjusted dose rate range in the Precedex group is provided in Table 5.
+The number (%) of subjects who had a dose-related increase in treatment-emergent adverse events by maintenance adjusted dose rate range in the PRECEDEX group is provided in Table 5.
 
 Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or Midazolam-Treated Adult Patients in the Randomized Active Comparator Continuous Infusion Long-Term Intensive Care Unit Sedation Study
 
@@ -110,14 +110,14 @@ Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 | Generalized Edema | 2% | 6% |
 | Hypomagnesemia | 1% | 7% |
 
-The following adverse events occurred between 2 and 5% for Precedex and Midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
+The following adverse events occurred between 2 and 5% for PRECEDEX and Midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
 
 Table 5.
-Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emergent Adverse Events by Maintenance Adjusted Dose Rate Range in the Precedex Group
+Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emergent Adverse Events by Maintenance Adjusted Dose Rate Range in the PRECEDEX Group
 
 | Adverse Event | ≤0.7Average maintenance dose over the entire study drug administration. (N = 95) | >0.7 to ≤1.1 (N = 78) | >1.1 (N = 71) |
 | --- | --- | --- | --- |
-| Precedex (mcg/kg/hr) |  |  |  |
+| PRECEDEX (mcg/kg/hr) |  |  |  |
 | Constipation | 6% | 5% | 14% |
 | Agitation | 5% | 8% | 14% |
 | Anxiety | 5% | 5% | 9% |
@@ -128,18 +128,18 @@ Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emerge
 
 Procedural Sedation
 
-Adverse reaction information is derived from the two trials for procedural sedation [see Clinical Studies (14.2)] in which 318 adult patients received Precedex.
+Adverse reaction information is derived from the two trials for procedural sedation [see Clinical Studies (14.2)] in which 318 adult patients received PRECEDEX.
 The mean total dose was 1.6 mcg/kg (range: 0.5 to 6.7), mean dose per hour was 1.3 mcg/kg/hr (range: 0.3 to 6.1) and the mean duration of infusion of 1.5 hours (range: 0.1 to 6.2).
 The population was between 18 to 93 years of age, ASA I–IV, 30% ≥65 years of age, 52% male and 61% Caucasian.
 
 Treatment-emergent adverse reactions occurring at an incidence of >2% are provided in Table 6.
 The most frequent adverse reactions were hypotension, bradycardia, and dry mouth [see Warnings and Precautions (5.2)].
 Pre-specified criteria for the vital signs to be reported as adverse reactions are footnoted below the table.
-The decrease in respiratory rate and hypoxia was similar between Precedex and comparator groups in both studies.
+The decrease in respiratory rate and hypoxia was similar between PRECEDEX and comparator groups in both studies.
 
 Table 6: Adverse Reactions with an Incidence >2%—Procedural Sedation Population
 
-| Adverse Event | Precedex (N = 318) (%) | Placebo (N = 113) (%) |
+| Adverse Event | PRECEDEX (N = 318) (%) | Placebo (N = 113) (%) |
 | --- | --- | --- |
 | HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of <80 mmHg or ≤30% lower than pre-study drug infusion value, or Diastolic blood pressure of <50 mmHg. | 54% | 30% |
 | Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) <8 beats per minute or >25% decrease from baseline. | 37% | 32% |
@@ -153,12 +153,12 @@ Table 6: Adverse Reactions with an Incidence >2%—Procedural Sedation Populatio
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of Precedex.
+The following adverse reactions have been identified during post-approval use of PRECEDEX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypotension and bradycardia were the most common adverse reactions associated with the use of Precedex during post-approval use of the drug.
+Hypotension and bradycardia were the most common adverse reactions associated with the use of PRECEDEX during post-approval use of the drug.
 
-Table 7: Adverse Reactions Experienced During Post-Approval Use of Precedex
+Table 7: Adverse Reactions Experienced During Post-Approval Use of PRECEDEX
 
 | System Organ Class | Preferred Term |
 | --- | --- |

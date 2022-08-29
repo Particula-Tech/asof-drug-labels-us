@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Precedex is a relatively selective alpha2-adrenergic agonist with sedative properties.
+PRECEDEX is a relatively selective centrally acting alpha2-adrenergic agonist with sedative properties.
 Alpha2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10–300 mcg/kg).
 Both alpha1 and alpha2 activity is observed following slow intravenous infusion of high doses (≥1,000 mcg/kg) or with rapid intravenous administration.
 
 ## 12.2 Pharmacodynamics
 
-In a study in healthy volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when Precedex was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).
+In a study in healthy volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when PRECEDEX was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).
 
 ## 12.3 Pharmacokinetics
 
@@ -17,7 +17,7 @@ Clearance is estimated to be approximately 39 L/h.
 The mean body weight associated with this clearance estimate was 72 kg.
 
 Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 to 0.7 mcg/kg/hr when administered by intravenous infusion for up to 24 hours.
-Table 8 shows the main pharmacokinetic parameters when Precedex was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
+Table 8 shows the main pharmacokinetic parameters when PRECEDEX was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
 
 Table 8: Mean ± SD Pharmacokinetic Parameters
 
@@ -34,7 +34,7 @@ Table 8: Mean ± SD Pharmacokinetic Parameters
 
 The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively.
 
-Dexmedetomidine pharmacokinetic parameters after Precedex maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the pharmacokinetic (PK) parameters after Precedex maintenance dosing for <24 hours in other studies.
+Dexmedetomidine pharmacokinetic parameters after PRECEDEX maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the pharmacokinetic (PK) parameters after PRECEDEX maintenance dosing for <24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
 
 Distribution
@@ -43,10 +43,10 @@ The steady-state volume of distribution (Vss) of dexmedetomidine was approximate
 Dexmedetomidine protein binding was assessed in the plasma of normal healthy male and female subjects.
 The average protein binding was 94% and was constant across the different plasma concentrations tested.
 Protein binding was similar in males and females.
-The fraction of Precedex that was bound to plasma proteins was significantly decreased in subjects with hepatic impairment compared to healthy subjects.
+The fraction of PRECEDEX that was bound to plasma proteins was significantly decreased in subjects with hepatic impairment compared to healthy subjects.
 
-The potential for protein binding displacement of dexmedetomidine by fentanyl, ketorolac, theophylline, digoxin and lidocaine was explored in vitro, and negligible changes in the plasma protein binding of Precedex were observed.
-The potential for protein binding displacement of phenytoin, warfarin, ibuprofen, propranolol, theophylline and digoxin by Precedex was explored in vitro and none of these compounds appeared to be significantly displaced by Precedex.
+The potential for protein binding displacement of dexmedetomidine by fentanyl, ketorolac, theophylline, digoxin and lidocaine was explored in vitro, and negligible changes in the plasma protein binding of PRECEDEX were observed.
+The potential for protein binding displacement of phenytoin, warfarin, ibuprofen, propranolol, theophylline and digoxin by PRECEDEX was explored in vitro and none of these compounds appeared to be significantly displaced by PRECEDEX.
 
 Elimination
 
@@ -72,20 +72,20 @@ Specific Populations
 
 Male and Female Patients
 
-There was no observed difference in Precedex pharmacokinetics due to gender.
+There was no observed difference in PRECEDEX pharmacokinetics due to sex.
 
 Geriatric Patients
 
-The pharmacokinetic profile of Precedex was not altered by age.
-There were no differences in the pharmacokinetics of Precedex in young (18–40 years), middle age (41–65 years), and elderly (>65 years) subjects.
+The pharmacokinetic profile of PRECEDEX was not altered by age.
+There were no differences in the pharmacokinetics of PRECEDEX in young (18–40 years), middle age (41–65 years), and elderly (>65 years) subjects.
 
 Patients with Hepatic Impairment
 
-In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for Precedex were lower than in healthy subjects.
+In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for PRECEDEX were lower than in healthy subjects.
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
 
-Although Precedex is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.7)].
+Although PRECEDEX is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
 
 Patients with Renal Impairment
 
