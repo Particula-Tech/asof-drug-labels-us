@@ -54,7 +54,7 @@ No untoward clinical manifestations have been observed in limited experience wit
 There is an immediate chemical interaction which is evidenced by the formation of a precipitate when furosemide is injected into an intravenous line of an infusion of milrinone.
 Therefore, furosemide should not be administered in intravenous lines containing milrinone.
 
-## Carcinogenesis and Mutagenesis and Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Twenty-four months of oral administration of milrinone to mice at doses up to 40 mg/kg/day (about 50 times the human oral therapeutic dose in a 50 kg patient) was unassociated with evidence of carcinogenic potential.
 Neither was there evidence of carcinogenic potential when milrinone was orally administered to rats at doses up to 5 mg/kg/day (about 6 times the human oral therapeutic dose) for twenty-four months or at 25 mg/kg/day (about 30 times the human oral therapeutic dose) for up to 18 months in males and 20 months in females.
@@ -70,16 +70,14 @@ Doses within the recommended clinical dose range (up to 1.13 mg/kg/day) for cong
 
 ## Pregnancy
 
-### Pregnancy Category C
-
 Oral administration of milrinone to pregnant rats and rabbits during organogenesis produced no evidence of teratogenicity at dose levels up to 40 mg/kg/day and 12 mg/kg/day, respectively.
-Milrinone lactate did not appear to be teratogenic when administered intravenously to pregnant rats at doses up to 3 mg/kg/day (about 2.5 times the maximum recommended clinical intravenous dose) or pregnant rabbits at doses up to 12 mg/kg/day, although an increased resorption rate was apparent at both 8 mg/kg/day and 12 mg/kg/day (intravenous) in the latter species.
+Milrinone did not appear to be teratogenic when administered intravenously to pregnant rats at doses up to 3 mg/kg/day (about 2.5 times the maximum recommended clinical intravenous dose) or pregnant rabbits at doses up to 12 mg/kg/day, although an increased resorption rate was apparent at both 8 mg/kg/day and 12 mg/kg/day (intravenous) in the latter species.
 There are no adequate and well-controlled studies in pregnant women.
 Milrinone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
-Caution should be exercised when milrinone lactate is administered to nursing women, since it is not known whether it is excreted in human milk.
+Caution should be exercised when milrinone is administered to nursing women, since it is not known whether it is excreted in human milk.
 
 ## Pediatric Use
 

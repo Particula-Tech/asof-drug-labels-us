@@ -4,7 +4,7 @@
 
 In patients receiving milrinone in Phase II and III clinical trials, ventricular arrhythmias were reported in 12.1%: Ventricular ectopic activity, 8.5%; nonsustained ventricular tachycardia, 2.8%; sustained ventricular tachycardia, 1% and ventricular fibrillation, 0.2% (2 patients experienced more than one type of arrhythmia).
 Holter recordings demonstrated that in some patients injection of milrinone increased ventricular ectopy, including nonsustained ventricular tachycardia.
-Life-threatening arrhythmias were infrequent and when present have been associated with certain underlying factors such as preexisting arrhythmias, metabolic abnormalities (e.g. hypokalemia), abnormal digoxin levels and catheter insertion.
+Life-threatening arrhythmias were infrequent and when present have been associated with certain underlying factors such as preexisting arrhythmias, metabolic abnormalities (e.g., hypokalemia), abnormal digoxin levels and catheter insertion.
 Milrinone was not shown to be arrhythmogenic in an electrophysiology study.
 Supraventricular arrhythmias were reported in 3.8% of the patients receiving milrinone.
 The incidence of both supraventricular and ventricular arrhythmias has not been related to the dose or plasma milrinone concentration.
@@ -32,3 +32,5 @@ Isolated spontaneous reports of bronchospasm and anaphylactic shock.
 Liver function test abnormalities and skin reactions such as rash.
 
 Administration site conditions: Infusion site reaction.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at 1-877-233-2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

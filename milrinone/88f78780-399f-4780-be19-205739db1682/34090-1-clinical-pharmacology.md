@@ -35,7 +35,7 @@ The mean renal clearance of milrinone is approximately 0.3 liters/min, indicativ
 In patients with heart failure due to depressed myocardial function, milrinone produced a prompt dose and plasma concentration related increase in cardiac output and decreases in pulmonary capillary wedge pressure and vascular resistance, which were accompanied by mild-to-moderate increases in heart rate.
 Additionally, there is no increased effect on myocardial oxygen consumption.
 In uncontrolled studies, hemodynamic improvement during intravenous therapy with milrinone was accompanied by clinical symptomatic improvement, but the ability of milrinone to relieve symptoms has not been evaluated in controlled clinical trials.
-The great majority of patients experience improvements in hemodynamic function within 5 to 15 minutes of initiation of therapy.
+The great majority of patients experience improvements in hemodynamic function within 5 to 15 minutes of the initiation of therapy.
 
 In studies in congestive heart failure patients, milrinone when administered as a loading injection followed by a maintenance infusion produced significant mean initial increases in cardiac index of 25 percent, 38 percent, and 42 percent at dose regimens of 37.5 mcg/kg/0.375 mcg/kg/min, 50 mcg/kg/0.5 mcg/kg/min, and 75 mcg/kg/0.75 mcg/kg/min, respectively.
 Over the same range of loading injections and maintenance infusions, pulmonary capillary wedge pressure significantly decreased by 20 percent, 23 percent, and 36 percent, respectively, while systemic vascular resistance significantly decreased by 17 percent, 21 percent, and 37 percent.
