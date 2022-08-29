@@ -26,13 +26,8 @@ d. Neostigmine Methylsulfate Injection, USP, should be injected slowly by intrav
 e. A 0.03 mg/kg to 0.07 mg/kg dose of Neostigmine Methylsulfate Injection, USP, will generally achieve a TOF twitch ratio of 90% (TOF0.9) within 10 to 20 minutes of administration.
 Dose selection should be based on the extent of spontaneous recovery that has occurred at the time of administration, the half-life of the NMBA being reversed, and whether there is a need to rapidly reverse the NMBA.
 
-- The 0.03 mg/kg dose is recommended for:i.
-  Reversal of NMBAs with shorter half-lives, e.g., rocuronium, orii.
-  When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
-- The 0.07 mg/kg dose is recommended for:iii.
-  NMBAs with longer half-lives, e.g., vecuronium and pancuronium, oriv.
-  When the first twitch response is relatively weak, i.e., not substantially greater than 10% of baseline orv.
-  There is need for more rapid recovery.
+- The 0.03 mg/kg dose is recommended for:• Reversal of NMBAs with shorter half-lives, e.g., rocuronium, or• When the first twitch response to the TOF stimulus is substantially greater than 10% of baseline or when a second twitch is present.
+- The 0.07 mg/kg dose is recommended for:• NMBAs with longer half-lives, e.g., vecuronium and pancuronium, or• When the first twitch response is relatively weak, i.e., not substantially greater than 10% of baseline or• There is need for more rapid recovery.
 
 f. TOF monitoring should continue to be used to evaluate the extent of recovery of neuromuscular function and the possible need for an additional dose of Neostigmine Methylsulfate Injection, USP.
 

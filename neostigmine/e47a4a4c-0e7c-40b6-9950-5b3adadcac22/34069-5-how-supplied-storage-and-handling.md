@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Neostigmine Methylsulfate Injection, USP, is available in the following:
 
@@ -20,6 +20,6 @@ Amphastar Pharmaceuticals, Inc.
 Rancho Cucamonga, CA 91730 USA
 
 Rev.
-09/17
+01/21
 
-6996016C
+6996016D

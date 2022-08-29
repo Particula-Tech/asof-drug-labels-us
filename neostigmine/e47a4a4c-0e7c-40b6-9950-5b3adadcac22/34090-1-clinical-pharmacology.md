@@ -25,7 +25,7 @@ Renal impairment: Elimination half-life of neostigmine methylsulfate was prolong
 
 Hepatic impairment: The pharmacokinetics of neostigmine methylsulfate in patients with hepatic impairment has not been studied.
 
-Pediatrics: Elimination half-life of neostigmine methylsulfate in infants (2 to 10 months), children (1 to 6 years) and adults (29 to 48 years) were 39 ± 5 min, 48 ± 16 min, and 67 ± 8 min (mean ± SD), respectively.
+Pediatrics: Elimination half-life of neostigmine methylsulfate in infants (2 to 10 months), children (1 - 6 years) and adults (29 - 48 years) were 39 ± 5 min, 48 ± 16 min, and 67 ± 8 min (mean ± SD), respectively.
 Observed neostigmine methylsulfate clearance for infants, children and adults were 14 ± 3, 11 ± 3 and 10 ± 2 mL/min/kg (mean ± SD), respectively.
 
 Drug Interaction Studies: The pharmacokinetic interaction between neostigmine methylsulfate and other drugs has not been studied.
