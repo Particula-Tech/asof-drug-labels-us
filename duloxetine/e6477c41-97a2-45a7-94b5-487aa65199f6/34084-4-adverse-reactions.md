@@ -16,6 +16,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Clinically Important Drug Interactions [see Warnings and Precautions (5.12)]
 - Hyponatremia [see Warnings and Precautions (5.13)]
 - Urinary Hesitation and Retention [see Warnings and Precautions (5.15)]
+- Sexual Dysfunction [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -345,7 +346,7 @@ While height increase was observed during these studies, a mean decrease of 1% i
 Weight and height should be monitored regularly in pediatric patients treated with duloxetine [see Use in Specific Populations (8.4)].
 
 Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s duloxetine (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information
+However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 

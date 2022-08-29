@@ -57,7 +57,7 @@ Some patients may respond to the starting dosage.
 There is no evidence that dosages greater than 60 mg/day confer additional benefit, even in patients who do not respond to a 60 mg/day dosage, and higher dosages were associated with a higher rate of adverse reactions.
 
 Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information
+However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.6 Dosage for Treatment of Chronic Musculoskeletal Pain in Adults
 

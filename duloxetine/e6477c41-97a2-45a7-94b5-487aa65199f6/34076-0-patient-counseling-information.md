@@ -32,20 +32,22 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Concomitant Illnesses— Advise patients to inform their healthcare provider about all of their medical conditions [see Warnings and Precautions (5.14)].
 - Urinary Hesitation and Retention — Duloxetine is in a class of medicines that may affect urination.
   Instruct patients to consult with their healthcare provider if they develop any problems with urine flow [see Warnings and Precautions (5.15)].
+- Sexual Dysfunction — Advise patients that use of duloxetine may cause symptoms of sexual dysfunction in both male and female patients.
+  Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.16)].
 - Pregnancy
   - Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with duloxetine.
   - Advise pregnant women or patients who intend to become pregnant that duloxetine use during the month before delivery may lead to an increased risk for postpartum hemorrhage and may increase the risk of neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
   - Advise pregnant women that there is a risk of relapse with discontinuation of antidepressants.
   - Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to duloxetine during pregnancy [see Use in Specific Populations (8.1)].
   - Lactation― Advise breastfeeding women using duloxetine to monitor infants for sedation, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
-  - Interferene with Psychomotor Performance — Duloxetine may be associated with sedation and dizziness.
+  - Interference with Psychomotor Performance — Duloxetine may be associated with sedation and dizziness.
     Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine therapy does not affect their ability to engage in such activities.
 
 Manufactured by:
 
-Alkem Laboratories Ltd.
+Alkem Laboratories Ltd.,
 
-Mumbai - 400 013, INDIA.
+INDIA.
 
 Distributed by:
 
@@ -53,6 +55,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054.
 
-Revised: October, 2020
-
-PT 1663-04
+PT1663-06

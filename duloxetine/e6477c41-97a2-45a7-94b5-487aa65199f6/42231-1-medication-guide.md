@@ -244,6 +244,21 @@ Symptoms may include:
 - decreased urine flow
 - unable to pass any urine
 
+12. sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors(SNRIs), including duloxetine, may cause sexual problems.
+Symptoms in males may include:
+
+- delayed ejaculation or inability to have an ejaculation
+- decreased sex drive
+- problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- decreased sex drive
+- delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with duloxetine.There may be treatments your healthcare provider can suggest.
+
 The most common side effects of duloxetine include:
 
 - nausea
@@ -305,14 +320,14 @@ Coumadin, Jantoven, and Mellaril are trademarks of their respective owners and n
 
 Manufactured by:
 
-Alkem Laboratories Ltd.
+Alkem Laboratories Ltd.,
 
-Mumbai - 400 013, INDIA.
+INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054
+Parsippany, NJ 07054.
 
-Revised: October, 2020
+Revised: March, 2022

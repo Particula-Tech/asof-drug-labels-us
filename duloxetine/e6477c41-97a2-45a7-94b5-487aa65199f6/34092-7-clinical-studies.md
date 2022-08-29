@@ -50,7 +50,9 @@ Two hundred and seventy-eight patients who responded to open label treatment [de
 In Study MDD-5, patients on duloxetine experienced a statistically significantly longer time to relapse of depression than did patients on placebo (see Figure 1).
 Relapse was defined as an increase in the CGI-S score of ≥2 points compared with that obtained at week 12, as well as meeting the DSM-IV criteria for MDD at 2 consecutive visits at least 2 weeks apart, where the 2-week temporal criterion had to be satisfied at only the second visit.
 
-Figure 1: Cumulative Proportiona of Adult Patients with MDD Relapse (Study MDD-5) a Kaplan-Meier estimator medthod
+Figure 1: Cumulative Proportiona of Adult Patients with MDD Relapse (Study MDD-5)
+
+a Kaplan-Meier estimator method
 
 ## 14.3 Generalized Anxiety Disorder
 
@@ -139,8 +141,7 @@ Treatment with duloxetine 60 mg one or two times a day statistically significant
 For various degrees of improvement in pain from baseline to study endpoint, Figures 3 and 4 show the fraction of patients achieving that degree of improvement in Studies DPNP-1 and DPNP-2, respectively.
 The figures are cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the trial were assigned 0% improvement.
-Some patients experienced a decrease in pain as early as week 1, which persisted throughout the trial.
-Figure 3: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-1) Figure 4: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-2)
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the trial Figure 3: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-1) Figure 4: Percentage of DPNP Adult Patients Achieving Various Levels of Pain Relief as Measured by 24-Hour Average Pain Severity (Study DPNP-2)
 
 ## 14.5 Fibromyalgia
 
