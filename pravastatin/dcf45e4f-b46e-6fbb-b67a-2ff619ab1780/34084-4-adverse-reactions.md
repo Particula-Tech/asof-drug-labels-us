@@ -7,7 +7,7 @@ The following important adverse reactions are described below and elsewhere in t
 - Hepatic Dysfunction [see Warnings and Precautions (5.3)]
 - Increases in HbA1c and Fasting Serum Glucose Levels [see Warnings and Precautions (5.4)]
 
-## 6.1 C linical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 In pravastatin sodium tablets placebo-controlled clinical trials, 1313 patients (age range 20 to 76 years, 32% women, 93.5% White, 5% Black, 0.9% Hispanic, 0.4% Asian, 0.2% Other) with a median treatment duration of 14 weeks, 3.3% of patients on pravastatin sodium tablets and 1.2% patients on placebo discontinued due to adverse reactions (regardless of causality).
@@ -38,7 +38,6 @@ Adverse Reactions (regardless of causality)
 The safety and tolerability of pravastatin sodium tablets at a dose of 80 mg in 2 controlled trials with a mean exposure of 8.6 months was similar to that of pravastatin sodium tablets at lower doses except that 4 out of 464 patients taking 80 mg of pravastatin had a single elevation of CK >10 times ULN compared to 0 out of 115 patients taking 40 mg of pravastatin.
 In pravastatin sodium tablets placebo-controlled clinical trials, 21,483 patients (age range 24 to 75 years, 10.3% women, 52.3% White, 0.8% Black, 0.5% Hispanic, 0.1% Asian, 0.1% Other, 46.1% not recorded) had a median treatment duration of 261 weeks.
 Adverse reactions (regardless of causality) were pooled from 7 double-blind, placebo-controlled trials (West of Scotland Coronary Prevention Study [WOS]; Cholesterol and Recurrent Events study [CARE]; Long-term Intervention with Pravastatin in Ischemic Disease study [LIPID]; Pravastatin Limitation of Atherosclerosis in the Coronary Arteries study [PLAC I]; Pravastatin, Lipids and Atherosclerosis in the Carotids study [PLAC II]; Regression Growth Evaluation Statin Study [REGRESS]; and Kuopio Atherosclerosis Prevention Study [KAPS]) involving a total of 10,764 patients treated with pravastatin 40 mg and 10,719 patients treated with placebo.
-The safety and tolerability profile in the pravastatin group was comparable to that of the placebo group.
 Patients were exposed to pravastatin for a mean of 4.0 to 5.1 years in WOS, CARE, and LIPID and 1.9 to 2.9 years in PLAC I, PLAC II, KAPS, and REGRESS.
 Adverse reactions (regardless of causality) occurring in ≥5% of patients treated with pravastatin sodium tablets in these studies are identified in Table 2:
 
