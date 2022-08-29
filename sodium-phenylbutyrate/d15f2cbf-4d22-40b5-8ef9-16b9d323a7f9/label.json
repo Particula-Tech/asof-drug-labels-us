@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA216513"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "labeler": "Medunik USA",
+  "package_ndcs": [
+    "71770-100-10",
+    "71770-200-10"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "sodium phenylbutyrate",
+      "name": "PHEBURANE"
+    },
+    {
+      "form": "PELLET",
+      "generic": "sodium phenylbutyrate",
+      "name": "PHEBURANE"
+    }
+  ],
+  "setid": "d15f2cbf-4d22-40b5-8ef9-16b9d323a7f9",
+  "source": "dailymed"
+}
