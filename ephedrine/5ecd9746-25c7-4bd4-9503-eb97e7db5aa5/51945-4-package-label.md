@@ -1,6 +1,6 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY – Ephedrine Sulfate 50 mg/mL Shelf Carton
+PACKAGE LABEL - PRINCIPAL DISPLAY – Ephedrine Sulfate 50 mg/mL Tray Label
 
-NDC 65219-257-01 Rx ONLY
+NDC 65219-257-01 Rx only
 
 Ephedrine Sulfate
 

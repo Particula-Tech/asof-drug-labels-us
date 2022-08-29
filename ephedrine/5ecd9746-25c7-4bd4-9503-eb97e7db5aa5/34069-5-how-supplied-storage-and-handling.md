@@ -12,10 +12,6 @@ Store in carton until time of use.
 For single dose only.
 Discard unused portion.
 
-Manufactured by: UBI Pharmaceuticals, Inc. 45 Guang Fu N. Rd., Hukou Township, Hsinchu County 30351, Taiwan.
-
-Manufactured for:
-
 Lake Zurich, IL 60047 www.fresenius-kabi.com/us
 
-451676 L411-02
+451711
