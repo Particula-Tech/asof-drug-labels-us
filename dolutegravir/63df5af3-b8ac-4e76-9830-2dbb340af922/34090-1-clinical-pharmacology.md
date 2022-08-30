@@ -170,7 +170,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Rifampinc 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a The number of subjects represents the maximum number of subjects that were evaluated. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily c Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a The number of subjects represents the maximum number of subjects that were evaluated. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. c Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
