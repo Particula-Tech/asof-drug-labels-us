@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA215053"
+  ],
+  "inn": "formoterol",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70748-261-01",
+    "70748-261-30",
+    "70748-261-60"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "formoterol fumarate",
+      "name": "formoterol fumarate"
+    }
+  ],
+  "setid": "44284e8c-0503-48c4-ae71-a0d6b865665d",
+  "source": "dailymed"
+}
