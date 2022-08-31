@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA216154"
+  ],
+  "inn": "meropenem",
+  "labeler": "BROOKS STERISCIENCE LIMITED",
+  "package_ndcs": [
+    "81962-000-01",
+    "81962-000-02",
+    "81962-000-03",
+    "81962-001-01",
+    "81962-001-02",
+    "81962-001-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meropenem",
+      "name": "Meropenem"
+    }
+  ],
+  "setid": "58e165b7-e230-4459-abf9-06d5ca1dd7b2",
+  "source": "dailymed"
+}
