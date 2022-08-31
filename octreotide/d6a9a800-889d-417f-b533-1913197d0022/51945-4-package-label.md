@@ -1,75 +1,67 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Label
+# PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Label
 
 NDC 63323-376-41 PRX370601
 
-OCTREOTIDE ACETATE INJECTION
+Octreotide Acetate Injection
 
-100 mcg (base) per mL
+100 mcg per mL
 
-(0.1 mg per mL)
+For Subcutaneous or Intravenous Use
 
-For Subcutaneous Injection
-
-Preservative Free
-
-Discard unused portion.
+Preservative free.
 
 Protect from light.
 
-1 mL Single Dose Vial
+Discard unused portion.
 
-Rx only
+1 mL Single Dose Vial Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Tray Label
+# PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Tray Label
 
 NDC 63323-376-04 PRX370601
 
-OCTREOTIDE ACETATE INJECTION
+Octreotide Acetate Injection
 
-100 mcg (base) per mL
+100 mcg per mL
 
-(0.1 mg per mL)
+For Subcutaneous or Intravenous Use
 
-For Subcutaneous Injection
+Preservative free.
 
-Rx only
+10 x 1 mL
 
-1 mL Single Dose Vial 10 Vials
+Single Dose Vials Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Label
+# PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Label
 
 NDC 63323-377-41 PRX370701
 
-OCTREOTIDE ACETATE INJECTION
+Octreotide Acetate Injection
 
-500 mcg (base) per mL
+500 mcg per mL
 
-(0.5 mg per mL)
+For Subcutaneous or Intravenous Use
 
-For Subcutaneous Injection
-
-Preservative Free
-
-Discard unused portion.
+Preservative free.
 
 Protect from light.
 
-1 mL Single Dose Vial
+Discard unused portion.
 
-Rx only
+1 mL Single Dose Vial Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Tray Label
+# PACKAGE LABEL - PRINCIPAL DISPLAY - Octreotide 1 mL Single Dose Vial Tray Label
 
 NDC 63323-377-04 PRX370701
 
-OCTREOTIDE ACETATE INJECTION
+Octreotide Acetate Injection
 
-500 mcg (base) per mL
+500 mcg per mL
 
-(0.5 mg per mL)
+For Subcutaneous or Intravenous Use
 
-For Subcutaneous Injection
+Preservative free.
 
-Rx only
+10 x 1 mL
 
-1 mL Single Dose Vial 10 Vials
+Single Dose Vials Rx only
