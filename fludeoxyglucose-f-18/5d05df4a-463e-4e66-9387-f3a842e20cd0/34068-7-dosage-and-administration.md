@@ -3,11 +3,11 @@
 Fludeoxyglucose F18 Injection emits radiation.
 Use procedures to minimize radiation exposure.
 Calculate the final dose from the end of synthesis (EOS) time using proper radioactive decay factors.
-Assay the final dose in a properly calibrated dose calibrator before administration to the patient [see Description(11.2)].
+Assay the final dose in a properly calibrated dose calibrator before administration to the patient [see Description (11.2)].
 
 ## 2.1 Recommended Dose for Adults
 
-Within the oncology, cardiology and neurology settings, the recommended dose for adults is 5 – 10 mCi (185 – 370 MBq) as an intravenous injection.
+Within the oncology, cardiology and neurology settings, the recommended dose for adults is 5 mCi to 10 mCi (185 MBq to 370 MBq) as an intravenous injection.
 
 ## 2.2 Recommended Dose for Pediatric Patients
 
@@ -19,14 +19,14 @@ The optimal dose adjustment on the basis of body size or weight has not been det
 - To minimize the radiation absorbed dose to the bladder, encourage adequate hydration.
   Encourage the patient to drink water or other fluids (as tolerated) in the 4 hours before their PET study.
 - Encourage the patient to void as soon as the imaging study is completed and as often as possible thereafter for at least one hour.
-- Screen patients for clinically significant blood glucose abnormalities by obtaining a history and/or laboratory tests [see Warnings and Precautions(5.2)].
-  Prior to Fludeoxyglucose F 18 PET imaging in the oncology and neurology settings, instruct patient to fast for 4 – 6 hours prior to the drug’s injection.
-- In the cardiology setting, administration of glucose-containing food or liquids (e.g., 50 – 75 grams) prior to Fludeoxyglucose F 18 Injection facilitates localization of cardiac ischemia.
+- Screen patients for clinically significant blood glucose abnormalities by obtaining a history and/or laboratory tests [see Warnings and Precautions (5.2)].
+  Prior to Fludeoxyglucose F 18 PET imaging in the oncology and neurology settings, instruct patient to fast for 4 to 6 hours prior to the drug’s injection.
+- In the cardiology setting, administration of glucose-containing food or liquids (e.g., 50 to 75 grams) prior to Fludeoxyglucose F 18 Injection facilitates localization of cardiac ischemia.
 
 ## 2.4 Radiation Dosimetry
 
 The estimated human absorbed radiation doses (rem/mCi) to a newborn (3.4 kg), 1-year old (9.8 kg), 5-year old (19 kg), 10-year old (32 kg), 15-year old (57 kg), and adult (70 kg) from intravenous administration of Fludeoxyglucose F 18 Injection are shown in Table 1.
-These estimates were calculated based on human1 data and using the data published by the International Commission on Radiological Protection2 for Fludeoxyglucose F 18.
+These estimates were calculated based on human data and using the data published by the International Commission on Radiological Protection for Fludeoxyglucose F 18.
 The dosimetry data show that there are slight variations in absorbed radiation dose for various organs in each of the age groups.
 These dissimilarities in absorbed radiation dose are due to developmental age variations (e.g., organ size, location, and overall metabolic rate for each age group).
 The identified critical organs (in descending order) across all age groups evaluated are the urinary bladder, heart, pancreas, spleen, and lungs.
@@ -83,4 +83,4 @@ a MIRDOSE 2 software was used to calculate the radiation absorbed dose. b The dy
 ## 2.7 Imaging Guidelines
 
 - Initiate imaging within 40 minutes following Fludeoxyglucose F 18 Injection administration.
-- Acquire static emission images 30 – 100 minutes from the time of injection.
+- Acquire static emission images 30 to 100 minutes from the time of injection.

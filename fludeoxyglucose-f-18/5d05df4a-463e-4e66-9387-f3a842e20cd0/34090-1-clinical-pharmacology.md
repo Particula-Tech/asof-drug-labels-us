@@ -33,12 +33,14 @@ Interictally, the seizure focus tends to be hypometabolic.
 
 ## 12.3 Pharmacokinetics
 
-- Distribution: In four healthy male volunteers, receiving an intravenous administration of 30 seconds in duration, the arterial blood level profile for Fludeoxyglucose F 18 decayed triexponentially.
-  The effective half-life ranges of the three phases were 0.2 to 0.3 minutes, 10 to 13 minutes with a mean and standard deviation (STD) of 11.6 (±) 1.1 min, and 80 to 95 minutes with a mean and STD of 88 (±) 4 min.
+Distribution:
+
+In four healthy male volunteers, receiving an intravenous administration of 30 seconds in duration, the arterial blood level profile for Fludeoxyglucose F 18 decayed triexponentially.
+The effective half-life ranges of the three phases were 0.2 to 0.3 minutes, 10 to 13 minutes with a mean and standard deviation (STD) of 11.6 (±) 1.1 min, and 80 to 95 minutes with a mean and STD of 88 (±) 4 min.
 
 Plasma protein binding of Fludeoxyglucose F 18 has not been studied.
 
-Metabolism:Fludeoxyglucose F 18 is transported into cells and phosphorylated to [18F]-FDG-6- phosphate at a rate proportional to the rate of glucose utilization within that tissue.
+Metabolism: Fludeoxyglucose F 18 is transported into cells and phosphorylated to [F 18]-FDG-6- phosphate at a rate proportional to the rate of glucose utilization within that tissue.
 [F 18]-FDG-6-phosphate presumably is metabolized to 2-deoxy-2-[F 18]fluoro-6-phospho-D-mannose([F 18]FDM-6-phosphate).
 
 Fludeoxyglucose F 18 Injection may contain several impurities (e.g., 2-deoxy-2-chloro-D-glucose (ClDG)).
@@ -48,7 +50,7 @@ Fludeoxyglucose F 18 and related compounds are cleared from non-cardiac tissues 
 Clearance from the cardiac tissue may require more than 96 hours.
 Fludeoxyglucose F 18 that is not involved in glucose metabolism in any tissue is then excreted in the urine.
 
-Elimination:Fludeoxyglucose F 18 is cleared from most tissues within 24 hours and can be eliminated from the body unchanged in the urine.
+Elimination: Fludeoxyglucose F 18 is cleared from most tissues within 24 hours and can be eliminated from the body unchanged in the urine.
 Within 33 minutes, a mean of 3.9% of the administrated radioactive dose was measured in the urine.
 The amount of radiation exposure of the urinary bladder at two hours post-administration suggests that 20.6% (mean) of the radioactive dose was present in the bladder.
 
@@ -56,4 +58,4 @@ Special Populations: The pharmacokinetics of Fludeoxyglucose F 18 Injection have
 Fludeoxyglucose F 18 is eliminated through the renal system.
 Avoid excessive radiation exposure to this organ system and adjacent tissues.
 
-The effects of fasting, varying blood sugar levels, conditions of glucose intolerance, and diabetes mellitus on Fludeoxyglucose F 18 distribution in humans have not been ascertained [see Warnings and Precautions(5.2)].
+The effects of fasting, varying blood sugar levels, conditions of glucose intolerance, and diabetes mellitus on Fludeoxyglucose F 18 distribution in humans have not been ascertained [see Warnings and Precautions (5.2)].

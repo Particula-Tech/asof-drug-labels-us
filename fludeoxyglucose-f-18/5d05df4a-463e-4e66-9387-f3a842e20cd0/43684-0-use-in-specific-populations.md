@@ -12,9 +12,9 @@ All pregnancies have a background risk of birth defect, loss, or other adverse o
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
 
 Data Human Data Data from published case series and case reports describe Fludeoxyglucose F 18 Injection crossing the placental barrier and visualization of radioactivity throughout the body of the fetus.
-The estimated fetal absorbed radiation dose from the maximum labeled dose (370 MBq) of Fludeoxyglucose F 18 was 10mGy with first trimester exposure to PET alone and 20mGy with first trimester exposure to PET/CT scan combination.
+The estimated fetal absorbed radiation dose from the maximum labeled dose (370 MBq) of Fludeoxyglucose F 18 was 10 mGy with first trimester exposure to PET alone and 20 mGy with first trimester exposure to PET/CT scan combination.
 Long-term adverse radiation effects to a child exposed to Fludeoyxglucose F 18 Injection in utero are unknown.
-No adverse fetal effects or radiation-related risks have been identified for diagnostic procedures involving less than 50mGy, which represents less than 20mGy fetal doses.
+No adverse fetal effects or radiation-related risks have been identified for diagnostic procedures involving less than 50 mGy, which represents less than 20 mGy fetal doses.
 
 ## 8.2 Lactation
 
