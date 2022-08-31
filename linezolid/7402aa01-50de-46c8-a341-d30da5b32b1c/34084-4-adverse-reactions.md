@@ -15,7 +15,7 @@ Incidence (%) of Treatment–Emergent Adverse Reactions Occurring in >1% of Adul
 
 | ADVERSE REACTIONS | Uncomplicated Skin and Skin Structure Infections |  | All Other Indications |  |
 | --- | --- | --- | --- | --- |
-| Linezolid 400 mg by mouth every 12 hours (n=548) | Clarithromycin 250 mg by mouth every 12 hours (n=537) | Linezolid 600 mg every 12 hours (n=1498) | All Other Comparators* (n=1464) |  |
+| Linezolid 400 mg by mouth every 12 hours (n=548) | Clarithromycin 250 mg by mouth every 12 hours (n=537) | Linezolid 600 mg every 12 hours (n=1,498) | All Other Comparators* (n=1,464) |  |
 | Headache | 8.8 | 8.4 | 5.7 | 4.4 |
 | Diarrhea | 8.2 | 6.1 | 8.3 | 6.4 |
 | Nausea | 5.1 | 4.5 | 6.6 | 4.6 |
@@ -37,7 +37,7 @@ Of the patients treated for uSSSIs, 3.5% of Linezolid-treated and 2.4% of compar
 For all other indications, discontinuations due to drug-related adverse events occurred in 2.1% of Linezolid-treated and 1.7% of comparator-treated patients.
 The most common reported drug-related adverse events leading to discontinuation of treatment were nausea, headache, diarrhea, and vomiting.
 
-Pediatric Patients:
+Pediatric Patients
 
 The safety of Linezolid formulations was evaluated in 215 pediatric patients ranging in age from birth through 11 years, and in 248 pediatric patients aged 5 through 17 years (146 of these 248 were age 5 through 11 and 102 were age 12 to 17).
 These patients were enrolled in two Phase 3 comparator-controlled clinical trials and were treated for up to 28 days.
@@ -71,7 +71,7 @@ Patients 12 years or older received Linezolid 600 mg by mouth every 12 hours or 
 Of the pediatric patients treated for uSSSIs, 1.6% of Linezolid-treated and 2.4% of comparator-treated patients discontinued treatment due to drug-related adverse events.
 For all other indications, discontinuations due to drug-related adverse events occurred in 0.9% of Linezolid-treated and 6.1% of comparator-treated patients.
 
-Laboratory Abnormalities:
+Laboratory Abnormalities
 
 Linezolid has been associated with thrombocytopenia when used in doses up to and including 600 mg every 12 hours for up to 28 days.
 In Phase 3 comparator-controlled trials, the percentage of adult patients who developed a substantially low platelet count (defined as less than 75% of lower limit of normal and/or baseline) was 2.4% (range among studies: 0.3 to 10.0%) with Linezolid and 1.5% (range among studies: 0.4 to 7.0%) with a comparator.
@@ -80,7 +80,7 @@ In an outpatient study of pediatric patients aged from 5 through 17 years, the p
 Thrombocytopenia associated with the use of Linezolid appears to be dependent on duration of therapy (generally greater than 2 weeks of treatment).
 The platelet counts for most patients returned to the normal range/baseline during the follow-up period.
 No related clinical adverse events were identified in Phase 3 clinical trials in patients developing thrombocytopenia.
-Bleeding events were identified in thrombocytopenic patients in a compassionate use program for Linezolid; the role of linezolid in these events cannot be determined [see Warning and Precautions (5.1)].
+Bleeding events were identified in thrombocytopenic patients in a compassionate use program for Linezolid; the role of linezolid in these events cannot be determined [see Warnings and Precautions (5.1)].
 Changes seen in other laboratory parameters, without regard to drug relationship, revealed no substantial differences between Linezolid and the comparators.
 These changes were generally not clinically significant, did not lead to discontinuation of therapy, and were reversible.
 The incidence of adult and pediatric patients with at least one substantially abnormal hematologic or serum chemistry value is presented in Tables 4, 5, 6, and 7.
@@ -167,13 +167,15 @@ Because these reactions are reported voluntarily from a population of uncertain 
 • Lactic acidosis [see Warnings and Precautions (5.7)].
 Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
 
-• Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and Linezolid [see Warnings and Precautions (5.3)].
+• Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and Linezolid [see Warnings and Precautions (5.3)].
 
 • Convulsions [see Warnings and Precautions (5.8)].
 
-• Anaphylaxis, angioedema, and bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome.
+• Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
 
 • Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
 The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
 
 • Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
+
+• Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion(SIADH) [see Warnings and Precautions (5.10)].

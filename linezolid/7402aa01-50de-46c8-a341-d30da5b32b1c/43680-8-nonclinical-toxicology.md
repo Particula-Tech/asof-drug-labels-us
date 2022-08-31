@@ -14,7 +14,7 @@ In sexually mature male rats exposed to drug as juveniles, mildly decreased fert
 Decreased fertility was not observed with shorter treatment periods, corresponding to exposure in utero through the early neonatal period (gestation day 6 through postnatal day 5), neonatal exposure (postnatal days 5 to 21), or to juvenile exposure (postnatal days 22 to 35).
 Reversible reductions in sperm motility and altered sperm morphology were observed in rats treated from postnatal day 22 to 35.
 
-## 13.2 Animal Pharmacology & OR Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Target organs of linezolid toxicity were similar in juvenile and adult rats and dogs.
 Dose-and time-dependent myelosuppression, as evidenced by bone marrow hypocellularity/decreased hematopoiesis, decreased extramedullary hematopoiesis in spleen and liver, and decreased levels of circulating erythrocytes, leukocytes, and platelets have been seen in animal studies.

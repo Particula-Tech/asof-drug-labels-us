@@ -21,7 +21,7 @@ If peripheral or optic neuropathy occurs, the continued use of Linezolid in thes
 
 Spontaneous reports of serotonin syndrome including fatal cases associated with the co-administration of Linezolid and serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs), have been reported.
 
-Unless clinically appropriate and patients are carefully observed for signs and/or symptoms of serotonin syndrome or neuroleptic malignant syndrome-like (NMS-like) reactions, linezolid should not be administered to patients with carcinoid syndrome and/or patients taking any of the following medications: serotonin re-uptake inhibitors, tricyclic antidepressants, serotonin 5-HT1 receptor agonists (triptans), meperidine, bupropion, or buspirone [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Unless clinically appropriate and patients are carefully observed for signs and/or symptoms of serotonin syndrome or neuroleptic malignant syndrome-like (NMS-like) reactions, linezolid should not be administered to patients with carcinoid syndrome and/or patients taking any of the following medications: serotonin re-uptake inhibitors, tricyclic antidepressants, bupropion, buspirone, serotonin 5-HT1 receptor agonists (triptans), and opioids, including meperidine [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 In some cases, a patient already receiving a serotonergic antidepressant or buspirone may require urgent treatment with linezolid.
 If alternatives to linezolid are not available and the potential benefits of linezolid outweigh the risks of serotonin syndrome or NMS-like reactions, the serotonergic antidepressant should be stopped promptly and linezolid administered.
@@ -73,6 +73,13 @@ Some MAO inhibitors have been associated with hypoglycemic episodes in diabetic 
 While a causal relationship between linezolid and hypoglycemia has not been established, diabetic patients should be cautioned of potential hypoglycemic reactions when treated with linezolid.
 If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic agent, or discontinuation of oral hypoglycemic agent, insulin, or linezolid may be required.
 
-## 5.11 Development of Drug-Resistant Bacteria
+## 5.10 Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH)
+
+Postmarketing cases of hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) have been observed in patients treated with linezolid.
+In reported cases, the signs and symptoms included confusion, somnolence, generalized weakness, and in severe cases led to respiratory failure and even death.
+Monitor serum sodium levels regularly in the elderly, in patients taking diuretics, and in other patients at risk of hyponatremia and/or SIADH while taking Linezolid.
+If signs and symptoms of hyponatremia and/or SIADH occur, discontinue Linezolid, and institute appropriate supportive measures.
+
+## 5.12 Development of Drug-Resistant Bacteria
 
 Prescribing Linezolid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

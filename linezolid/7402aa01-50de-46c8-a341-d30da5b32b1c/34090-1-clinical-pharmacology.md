@@ -8,7 +8,7 @@ Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
-In a randomized, positive-and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single Linezolid 600 mg dose via a 1 hour IV infusion, a single Linezolid 1,200 mg dose via a 1 hour Intravenous infusion, placebo, and a single oral dose of positive control.
+In a randomized, positive-and placebo-controlled crossover thorough QT study, 40 healthy subjects were administered a single Linezolid 600 mg dose via a 1 hour IV infusion, a single Linezolid 1,200 mg dose via a 1 hour IV infusion, placebo, and a single oral dose of positive control.
 At both the 600 mg and 1,200 mg Linezolid doses, no significant effect on QTc interval was detected at peak plasma concentration or at any other time.
 
 ## 12.3 Pharmacokinetics
@@ -32,11 +32,11 @@ Mean (Standard Deviation) Pharmacokinetic Parameters of Linezolid in Adults
 | 600 mg oral suspension |  |  |  |  |  |  |
 | single dose | 11.00 (2.76) | --- | 0.97 (0.88) | 80.80 (35.10) | 4.60 (1.71) | 141 (45) |
 
-* AUC for single dose = AUC0–¥; for multiple-dose = AUC0–t
+* AUC for single dose = AUC0–¥; for multiple dose = AUC0–t
 
 † Data dose-normalized from 375 mg
 
-‡ Data dose-normalized from 625 mg, Intravenous dose was given as 0.5-hour infusion.
+‡ Data dose-normalized from 625 mg, intravenous dose was given as 0.5-hour infusion.
 
 Cmax = Maximum plasma concentration; Cmin = Minimum plasma concentration; Tmax = Time to Cmax; AUC = Area under concentration-time curve; t1/2 = Elimination half-life; CL = Systemic clearance
 
@@ -210,7 +210,7 @@ Antioxidants
 
 The potential for drug-drug interactions with linezolid and the antioxidants Vitamin C and Vitamin E was studied in healthy volunteers.
 Subjects were administered a 600 mg oral dose of linezolid on Day 1, and another 600 mg dose of linezolid on Day 8.
-On Days 2-9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
+On Days 2 to 9, subjects were given either Vitamin C (1,000 mg/day) or Vitamin E (800 IU/ day).
 The AUC0-∞ of linezolid increased 2.3% when co-administered with Vitamin C and 10.9% when co-administered with Vitamin E. No linezolid dose adjustment is recommended during co-administration with Vitamin C or Vitamin E.
 
 Strong CYP 3A4 Inducers
@@ -249,7 +249,7 @@ The mean maximum increase in systolic blood pressure over baseline was 32 mm Hg 
 Serotonergic Agents
 
 Dextromethorphan: The potential drug-drug interaction with dextromethorphan was studied in healthy volunteers.
-Subjects were administered dextromethorphan (two 20-mg doses given 4 hours apart) with or without linezolid.
+Subjects were administered dextromethorphan (two 20 mg doses given 4 hours apart) with or without linezolid.
 No serotonin syndrome effects (confusion, delirium, restlessness, tremors, blushing, diaphoresis, hyperpyrexia) have been observed in normal subjects receiving linezolid and dextromethorphan.
 
 ## 12.4 Microbiology
@@ -267,7 +267,7 @@ Resistance
 In vitro studies have shown that point mutations in the 23S rRNA are associated with linezolid resistance.
 Reports of vancomycin-resistant Enterococcus faecium becoming resistant to linezolid during its clinical use have been published.
 There are reports of Staphylococcus aureus (methicillin-resistant) developing resistance to linezolid during clinical use.
-The linezolid resistance in these organisms is associated with a point mutation in the 23S rRNA (substitution of thymine for guanine at position 2576) of the organism.
+The linezolid resistance in these organisms is associated with a point mutation in the 23S rRNA (substitution of thymine for guanine at position 2,576) of the organism.
 Organisms resistant to oxazolidinones via mutations in chromosomal genes encoding 23S rRNA or ribosomal proteins (L3 and L4) are generally cross-resistant to linezolid.
 Also linezolid resistance in staphylococci mediated by the enzyme methyltransferase has been reported.
 This resistance is mediated by the cfr (chloramphenicol-florfenicol) gene located on a plasmid which is transferable between staphylococci.

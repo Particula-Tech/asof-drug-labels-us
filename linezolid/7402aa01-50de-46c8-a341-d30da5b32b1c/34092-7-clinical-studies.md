@@ -29,7 +29,8 @@ Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patie
 Complicated Skin and Skin Structure Infections
 
 Adult patients with clinically documented complicated skin and skin structure infections were enrolled in a randomized, multi-center, double-blind, double-dummy trial comparing study medications administered intravenously followed by medications given orally for a total of 10 to 21 days of treatment.
-One group of patients received Linezolid I.V Injection 600 mg every 12 hours followed by Linezolid Tablets 600 mg every 12 hours; the other group received oxacillin 2 g every 6 hours intravenously followed by dicloxacillin 500 mg every 6 hours orally.
+One group of patients received Linezolid I.V.
+Injection 600 mg every 12 hours followed by Linezolid Tablets 600 mg every 12 hours; the other group received oxacillin 2 g every 6 hours intravenously followed by dicloxacillin 500 mg every 6 hours orally.
 Patients could receive concomitant aztreonam if clinically indicated.
 There were 400 linezolid-treated and 419 oxacillin-treated patients enrolled in the study.
 Two hundred forty-five (61%) linezolid-treated patients and 242 (58%) oxacillin-treated patients were clinically evaluable.

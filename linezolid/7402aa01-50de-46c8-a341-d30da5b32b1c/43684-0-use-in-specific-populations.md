@@ -19,17 +19,17 @@ Data
 Animal Data
 
 In mice, embryo-fetal toxicities were observed only at doses that caused maternal toxicity (clinical signs and reduced body weight gain).
-An oral dose of 450 mg/kg/day given from Gestation Day (GD) 6-16 (6.5 times the estimated human exposure based on AUCs) correlated with increased postimplantational embryo death, including total litter loss, decreased fetal body weights, and an increased incidence of costal cartilage fusion.
+An oral dose of 450 mg/kg/day given from Gestation Day (GD) 6 to 16 (6.5 times the estimated human exposure based on AUCs) correlated with increased postimplantational embryo death, including total litter loss, decreased fetal body weights, and an increased incidence of costal cartilage fusion.
 
 Neither maternal nor embryo-fetal toxicities were observed at doses up to 150 mg/kg/day.
 Fetal malformations were not observed.
 
-In rats, fetal toxicity was observed at 15 and 50 mg/kg/day administered orally from GD 6-17 (exposures 0.22 times to approximately equivalent to the estimated human exposure, respectively, based on AUCs).
+In rats, fetal toxicity was observed at 15 and 50 mg/kg/day administered orally from GD 6 to 17 (exposures 0.22 times to approximately equivalent to the estimated human exposure, respectively, based on AUCs).
 The effects consisted of decreased fetal body weights and reduced ossification of sternebrae, a finding often seen in association with decreased fetal body weights.
 Fetal malformations were not observed.
 Maternal toxicity, in the form of reduced body weight gain, was seen at 50 mg/kg/day.
 
-In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at an oral dose of 15 mg/kg/day given from GD 6-20 (0.06 times the estimated human exposure based on AUCs).
+In rabbits, reduced fetal body weight occurred only in the presence of maternal toxicity (clinical signs, reduced body weight gain and food consumption) when administered at an oral dose of 15 mg/kg/day given from GD 6 to 20 (0.06 times the estimated human exposure based on AUCs).
 Fetal malformations were not observed.
 
 When female rats were treated with 50 mg/kg/day (approximately equivalent to the estimated human exposure based on AUCs) of linezolid during pregnancy and lactation (GD 6 through Lactation Day 20), survival of pups was decreased on postnatal days 1 to 4.

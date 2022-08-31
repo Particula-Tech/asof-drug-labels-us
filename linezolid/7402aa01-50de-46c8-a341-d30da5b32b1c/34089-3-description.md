@@ -7,4 +7,4 @@ Its molecular weight is 337.35, and its chemical structure is represented below:
 
 Linezolid Tablet for oral administration contains 600 mg linezolid as a film-coated compressed tablet.
 Inactive ingredients are pregelatinized starch, mannitol, colloidal silicon dioxide, copovidone, sodium stearyl fumarate, hypromellose, polyethylene glycol and titanium dioxide.
-The sodium (Na+) content is 1.06 mg per 600-mg tablet (0.05 mEq/tablet).
+The sodium (Na+) content is 1.06 mg per 600 mg tablet (0.05 mEq/tablet).
