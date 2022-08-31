@@ -4,9 +4,7 @@
 
 RISPERDAL® (risperidone) Tablets
 
-RISPERDAL® (risperidone) Tablets are imprinted "JANSSEN" on one side and either "Ris 0.25", "Ris 0.5", "R1", "R2", "R3", or "R4" according to their respective strengths.
-
-0.25 mg dark yellow, capsule-shaped tablets: bottles of 60 NDC 50458-301-04, bottles of 500 NDC 50458-301-50, and hospital unit dose blister packs of 100 NDC 50458-301-01.
+RISPERDAL® (risperidone) Tablets are imprinted "JANSSEN" on one side and either "Ris 0.5", "R1", "R2", "R3", or "R4" according to their respective strengths.
 
 0.5 mg red-brown, capsule-shaped tablets: bottles of 60 NDC 50458-302-06, bottles of 500 NDC 50458-302-50, and hospital unit dose blister packs of 100 NDC 50458-302-01.
 

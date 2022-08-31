@@ -95,7 +95,7 @@ The CGI-C rating at endpoint was a co-primary outcome measure in one of the stud
 The results of these trials are as follows:
 
 - (1)In one of the 8-week, placebo-controlled trials, children and adolescents with autistic disorder (n=101), aged 5 to 16 years, received twice daily doses of placebo or RISPERDAL® 0.5–3.5 mg/day on a weight-adjusted basis.
-  RISPERDAL®, starting at 0.25 mg/day or 0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
+  RISPERDAL®, starting at 0.25 mg/day or0.5 mg/day depending on baseline weight (< 20 kg and ≥ 20 kg, respectively) and titrated to clinical response (mean modal dose of 1.9 mg/day, equivalent to 0.06 mg/kg/day), significantly improved scores on the ABC-I subscale and on the CGI-C scale compared with placebo.
 - (2)In the other 8-week, placebo-controlled trial in children with autistic disorder (n=55), aged 5 to 12 years, RISPERDAL® 0.02 to 0.06 mg/kg/day given once or twice daily, starting at 0.01 mg/kg/day and titrated to clinical response (mean modal dose of 0.05 mg/kg/day, equivalent to 1.4 mg/day), significantly improved scores on the ABC-I subscale compared with placebo.
 
 A third trial was a 6-week, multicenter, randomized, double-blind, placebo-controlled, fixed-dose study to evaluate the efficacy and safety of a lower than recommended dose of risperidone in subjects (N=96) 5 to 17 years of age with autistic disorder (defined by DSM-IV criteria) and associated irritability and related behavioral symptoms.
