@@ -72,7 +72,7 @@ Using aseptic technique, remove the syringe from the sterilized blister pack.
 3.
 TWIST OFF SYRINGE CAP
 
-Twist off the syringe cap by holding the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand (see Figure 2).
+Twist off (do not snap off) the syringe cap by holding the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand (see Figure 2).
 
 Note: To avoid compromising the sterility of the product, do not pull back on the plunger.
 
@@ -151,8 +151,11 @@ Prepare for intravitreal injection with the following medical devices for single
 The intravitreal injection procedure should be carried out under controlled aseptic conditions, which include surgical hand disinfection and the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a topical broad–spectrum microbicide should be given prior to the injection.
 
-Note for the pre-filled syringe: A small residual volume may remain in the syringe after a full dose has been injected.
+Pre-filled syringe: Inject by pressing the plunger carefully and with constant pressure.
+Do not apply additional pressure once the plunger has reached the bottom of the syringe.
+A small residual volume may remain in the syringe after a full dose has been injected.
 This is normal.
+Do not administer any residual solution observed in the syringe.
 
 Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure.
 Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry.
