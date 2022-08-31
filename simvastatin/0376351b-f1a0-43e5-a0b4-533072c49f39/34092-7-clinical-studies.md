@@ -66,13 +66,13 @@ Table 6: Mean Changes in Lipid Levels in Adult Patients with Primary Hyperlipide
 
 | TREATMENT | N | TOTAL-C | LDL-C | HDL-C | TG* |
 | --- | --- | --- | --- | --- | --- |
-| Lower Dosage Comparative Study † (Mean % Change at Week 6) |  |  |  |  |  |
+| Lower Dosage Comparative Study† (Mean % Change at Week 6) |  |  |  |  |  |
 | Simvastatin 5 mg once at night Simvastatin 10 mg once at night | 109 110 | -19% -23% | -26% -30% | +10% +12% | -12% -15% |
-| Scandinavian Simvastatin Survival Study ‡ (Mean % Change at Week 6) |  |  |  |  |  |
+| Scandinavian Simvastatin Survival Study‡ (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo Simvastatin 20 mg once at night | 2223 2221 | -1% -28% | -1% -38% | 0% +8% | -2% -19% |
-| Upper Dosage Comparative Study § (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
-| Simvastatin 40 mg once at night Simvastatin 80 mg once at night. ¶ | 433 664 | -31% -36% | -41% -47% | +9% +8% | -18% -24% |
-| Combined Hyperlipidemia Study # (Mean % Change at Week 6) |  |  |  |  |  |
+| Upper Dosage Comparative Study§ (Mean % Change Averaged at Weeks 18 and 24) |  |  |  |  |  |
+| Simvastatin 40 mg once at night Simvastatin 80 mg once at night¶ | 433 664 | -31% -36% | -41% -47% | +9% +8% | -18% -24% |
+| Combined Hyperlipidemia Study# (Mean % Change at Week 6) |  |  |  |  |  |
 | Placebo Simvastatin 40 mg once at night Simvastatin 80 mg once at night | 125 123 124 | 1% -25% -31% | 2% -29% -36% | +3% +13% +16% | -4% -28% -33% |
 | * median percent change † mean baseline LDL-C = 244 mg/dL and median baseline TG = 168 mg/dL ‡ mean baseline LDL-C = 188 mg/dL and median baseline TG = 128 mg/dL § mean baseline LDL-C = 226 mg/dL and median baseline TG = 156 mg/dL ¶ 21% and 36% median reduction in TG in patients with TG ≤200 mg/dL and TG >200 mg/dL, respectively. Patients with TG >350 mg/dL were excluded # mean baseline LDL-C = 156 mg/dL and median baseline TG = 391 mg/dL. |  |  |  |  |  |
 
