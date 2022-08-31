@@ -1,9 +1,5 @@
 # WARNING: SUICIDAL THOUGHTS AND BEHAVIORS
 
-Antidepressants increased the risk of suicidal thoughts and behavior in children, adolescents, and young adults in short-term studies.
-These studies did not show an increase in the risk of suicidal thoughts and behavior with antidepressant use in patients over age 24; there was a reduction in risk with antidepressant use in patients aged 65 and older [see Warnings and Precautions (5.1)].
-
-In patients of all ages who are started on antidepressant therapy monitor closely for clinical worsening and emergence of suicidal thoughts and behaviors.
-Advise families and caregivers of the need for close observation and communication with the prescriber [see Warnings and Precautions (5.1) and Patient Counseling Information (17)].
-
+Antidepressants increased the risk of suicidal thoughts and behavior in pediatric and young adult patients in short-term studies.
+Closely monitor all antidepressant-treated patients for clinical worsening, and emergence of suicidal thoughts and behaviors [see Warnings and Precautions (5.1)].
 Effexor XR is not approved for use in pediatric patients [see Use in Specific Populations (8.4)].

@@ -1,56 +1,41 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Central Nervous System (CNS)-Active Drugs
+## 7.1 Drugs Having Clinically Important Interactions with Effexor XR
 
-The risk of using venlafaxine in combination with other CNS-active drugs has not been systematically evaluated.
-Consequently, caution is advised when Effexor XR is taken in combination with other CNS-active drugs.
+Table 15: Clinically Important Drug Interactions with Effexor XR
 
-## 7.2 Monoamine Oxidase Inhibitors
+| Monoamine Oxidase Inhibitors (MAOI) |  |
+| --- | --- |
+| Clinical Impact | The concomitant use of SNRIs, including Effexor XR, with MAOIs increases the risk of serotonin syndrome. |
+| Intervention | Concomitant use of Effexor XR is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.11), Contraindications (4) and Warnings and Precautions (5.2)]. |
+| Other Serotonergic Drugs |  |
+| Clinical Impact | Concomitant use of Effexor XR with other serotonergic drugs increases the risk of serotonin syndrome. |
+| Intervention | Monitor for symptoms of serotonin syndrome when Effexor XR is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems. If serotonin syndrome occurs, consider discontinuation of Effexor XR and/or concomitant serotonergic drugs [see Dosage and Administration (2.11) and Warnings and Precautions (5.2)]. |
+| Drugs that Interfere with Hemostasis |  |
+| Clinical Impact | Concomitant use of Effexor XR with an antiplatelet or anticoagulant drug may potentiate the risk of bleeding. This may be due to the effect of Effexor XR on the release of serotonin by platelets. |
+| Intervention | Closely monitor for bleeding for patients receiving an antiplatelet or anticoagulant drug when Effexor XR is initiated or discontinued [see Warnings and Precautions (5.4)]. |
+| Effect of CYP3A Inhibitors |  |
+| Clinical Impact | Concomitant use of a CYP3A inhibitor increases the Cmax and AUC of venlafaxine and O-desmethylvenlafaxine (ODV) [see Clinical Pharmacology (12.3)], which may increase the risk of toxicity of Effexor XR. |
+| Intervention | Consider reducing the dose of Effexor XR. |
+| CYP2D6 Substrates |  |
+| Clinical Impact | Concomitant use of Effexor XR increases Cmax and AUC of a CYP2D6 substrate, which may increase the risk of toxicity of the CYP2D6 substrate [see Clinical Pharmacology (12.3)]. |
+| Intervention | Consider reduction in dose of concomitant CYP2D6 substrates. |
 
-Adverse reactions, some of which were serious, have been reported in patients who have recently been discontinued from an MAOI and started on antidepressants with pharmacological properties similar to Effexor XR (SNRIs or SSRIs), or who have recently had SNRI or SSRI therapy discontinued prior to initiation of an MAOI [see Dosage and Administration (2.9), Contraindications (4.2) and Warnings and Precautions (5.2)].
+## 7.2 Other Drug Interactions with Effexor XR
 
-## 7.3 Serotonergic Drugs
+Central Nervous System (CNS)-Active Drugs
 
-Based on the mechanism of action of Effexor XR and the potential for serotonin syndrome, caution is advised when Effexor XR is coadministered with other drugs that may affect the serotonergic neurotransmitter systems, such as triptans, SSRIs, other SNRIs, linezolid (an antibiotic which is a reversible non-selective MAOI), lithium, tramadol, or St. John's wort.
-If concomitant treatment with Effexor XR and these drugs is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases.
-The concomitant use of Effexor XR with tryptophan supplements is not recommended [see Dosage and Administration (2.9), Contraindications (4.2), and Warnings and Precautions (5.2)].
+The risk of using venlafaxine concomitantly with other CNS-active drugs (including alcohol) has not been systematically evaluated.
+Consequently, caution is advised when Effexor XR is taken concomitantly in combination with other CNS-active drugs.
 
-## 7.4 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
+Weight Loss Agents
 
-Serotonin release by platelets plays an important role in hemostasis.
-The use of psychotropic drugs that interfere with serotonin reuptake is associated with the occurrence of upper gastrointestinal bleeding and concurrent use of an NSAID or aspirin may potentiate this risk of bleeding [see Warnings and Precautions (5.4)].
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when Effexor XR is initiated or discontinued.
-
-## 7.5 Weight Loss Agents
-
+Concomitant use of Effexor XR and weight loss agents is not recommended.
 The safety and efficacy of venlafaxine therapy in combination with weight loss agents, including phentermine, have not been established.
-Coadministration of Effexor XR and weight loss agents is not recommended.
 Effexor XR is not indicated for weight loss alone or in combination with other products.
 
-## 7.6 Effects of Other Drugs on Effexor XR
+Laboratory Test Interference
 
-| Figure 1: Effect of interacting drugs on the pharmacokinetics of venlafaxine and active metabolite O-desmethylvenlafaxine (ODV). |
-| --- |
-
-Abbreviations: ODV, O-desmethylvenlafaxine; AUC, area under the curve; Cmax, peak plasma concentrations; EM's, extensive metabolizers; PM's, poor metabolizers
-
-* No dose adjustment on co-administration with CYP2D6 inhibitors (Fig 3 and Metabolism Section 12.3)
-
-## 7.7 Effects of Effexor XR on Other Drugs
-
-| Figure 2: Effect of venlafaxine on the pharmacokinetics interacting drugs and their active metabolites. |
-| --- |
-
-Abbreviations: AUC, area under the curve; Cmax, peak plasma concentrations; OH, hydroxyl
-
-* Data for 2-OH desipramine were not plotted to enhance clarity; the fold change and 90% CI for Cmax and AUC of 2-OH desipramine were 6.6 (5.5, 7.9) and 4.4 (3.8, 5.0), respectively.
-
-Note: *: Administration of venlafaxine in a stable regimen did not exaggerate the psychomotor and psychometric effects induced by ethanol in these same subjects when they were not receiving venlafaxine.
-
-## 7.8 Drug-Laboratory Test Interactions
-
-False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine.
-This is due to lack of specificity of the screening tests.
-False positive test results may be expected for several days following discontinuation of venlafaxine therapy.
+False-positive urine immunoassay screening tests for phencyclidine (PCP) and amphetamine have been reported in patients taking venlafaxine due to lack of specificity of the screening tests.
+False-positive test results may be expected for several days following discontinuation of venlafaxine therapy.
 Confirmatory tests, such as gas chromatography/mass spectrometry, will distinguish venlafaxine from PCP and amphetamine.

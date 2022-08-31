@@ -1,13 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the label:
+The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Hypersensitivity [see Contraindications (4.1)]
-- Suicidal Thoughts and Behaviors in Children, Adolescents, and Adults [see Warnings and Precautions (5.1)]
+- Hypersensitivity [see Contraindications (4)]
+- Suicidal Thoughts and Behaviors in Adolescents and Young Adults [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- Elevations in Blood Pressure [see Warnings and Precautions (5.3)]
-- Abnormal Bleeding [see Warnings and Precautions (5.4)]
-- Angle Closure Glaucoma [see Warnings and Precautions (5.5)]
+- Elevated Blood Pressure [see Warnings and Precautions (5.3)]
+- Increased Risk of Bleeding [see Warnings and Precautions (5.4)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
 - Seizure [see Warnings and Precautions (5.8)]
@@ -19,17 +19,17 @@ The following adverse reactions are discussed in greater detail in other section
 
 ## 6.1 Clinical Studies Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
 Most Common Adverse Reactions
 
-The most commonly observed adverse reactions in the clinical study database in Effexor XR treated patients in MDD, GAD, SAD, and PD (incidence ≥ 5% and at least twice the rate of placebo) were: nausea (30.0%), somnolence (15.3%), dry mouth (14.8%), sweating (11.4%), abnormal ejaculation (9.9%), anorexia (9.8%), constipation (9.3%), impotence (5.3%) and decreased libido (5.1%).
+The most commonly observed adverse reactions in the clinical study database in Effexor XR treated patients in MDD, GAD, SAD, and PD (incidence ≥5% and at least twice the rate of placebo) were: nausea (30.0%), somnolence (15.3%), dry mouth (14.8%), sweating (11.4%), abnormal ejaculation (9.9%), anorexia (9.8%), constipation (9.3%), impotence (5.3%), and decreased libido (5.1%).
 
 Adverse Reactions Reported as Reasons for Discontinuation of Treatment
 
 Combined across short-term, placebo-controlled premarketing studies for all indications, 12% of the 3,558 patients who received Effexor XR (37.5–225 mg) discontinued treatment due to an adverse experience, compared with 4% of the 2,197 placebo-treated patients in those studies.
 
-The most common adverse reactions leading to discontinuation in ≥ 1% of the Effexor XR treated patients in the short-term studies (up to 12 weeks) across indications are shown in Table 7.
+The most common adverse reactions leading to discontinuation in ≥1% of the Effexor XR treated patients in the short-term studies (up to 12 weeks) across indications are shown in Table 7.
 
 Table 7: Incidence (%) of Patients Reporting Adverse Reactions Leading to Discontinuation in Placebo-controlled Clinical Studies (up to 12 Weeks Duration)
 
@@ -61,11 +61,11 @@ Table 8: Patients Receiving Effexor XR in Premarketing Clinical Studies
 | SAD | 819 |
 | PD | 1,314 |
 
-The incidences of common adverse reactions (those that occurred in ≥ 2% of Effexor XR treated patients [357 MDD patients, 1,381 GAD patients, 819 SAD patients, and 1,001 PD patients] and more frequently than placebo) in Effexor XR treated patients in short-term, placebo-controlled, fixed- and flexible-dose clinical studies (doses 37.5 to 225 mg per day) are shown in Table 9.
+The incidences of common adverse reactions (those that occurred in ≥2% of Effexor XR treated patients [357 MDD patients, 1,381 GAD patients, 819 SAD patients, and 1,001 PD patients] and more frequently than placebo) in Effexor XR treated patients in short-term, placebo-controlled, fixed- and flexible-dose clinical studies (doses 37.5 to 225 mg per day) are shown in Table 9.
 
 The adverse reaction profile did not differ substantially between the different patient populations.
 
-Table 9: Common Adverse Reactions: Percentage of Patients Reporting Adverse Reactions (≥ 2% and > placebo) in Placebo-controlled Studies (up to 12 Weeks Duration) across All Indications
+Table 9: Common Adverse Reactions: Percentage of Patients Reporting Adverse Reactions (≥2% and > placebo) in Placebo-controlled Studies (up to 12 Weeks Duration) across All Indications
 
 | Body System Adverse Reaction | Effexor XR n = 3,558 | Placebo n = 2,197 |
 | --- | --- | --- |
@@ -123,19 +123,19 @@ Special senses – Mydriasis, abnormality of accommodation, tinnitus, taste perv
 
 Urogenital system – Urinary retention, urination impaired, urinary incontinence, urinary frequency increased, menstrual disorders associated with increased bleeding or increased irregular bleeding (e.g., menorrhagia, metrorrhagia)
 
-## 6.2 Vital Sign Changes
+Vital Sign Changes
 
 In placebo-controlled premarketing studies, there were increases in mean blood pressure (see Table 10).
 Across most indications, a dose-related increase in mean supine systolic and diastolic blood pressure was evident in patients treated with Effexor XRs.
-Across all clinical studies in MDD, GAD, SAD and PD, 1.4% of patients in the Effexor XR groups experienced an increase in SDBP of ≥15 mm Hg along with a blood pressure ≥ 105 mm Hg, compared to 0.9% of patients in the placebo groups.
-Similarly, 1% of patients in the Effexor XR groups experienced an increase in SSBP of ≥ 20 mm Hg with a blood pressure ≥ 180 mm Hg, compared to 0.3% of patients in the placebo groups.
+Across all clinical studies in MDD, GAD, SAD and PD, 1.4% of patients in the Effexor XR groups experienced an increase in SDBP of ≥15 mm Hg along with a blood pressure ≥105 mm Hg, compared to 0.9% of patients in the placebo groups.
+Similarly, 1% of patients in the Effexor XR groups experienced an increase in SSBP of ≥20 mm Hg with a blood pressure ≥180 mm Hg, compared to 0.3% of patients in the placebo groups.
 
 Table 10: Final On-therapy Mean Changes From Baseline in Supine Systolic (SSBP) and Diastolic (SDBP) Blood Pressure (mm Hg) in Placebo-controlled Studies
 
 | (Duration) | SSBP | SDBP | SSBP | SDBP | SSBP | SDBP |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Effexor XR |  |  |  | Placebo |  |
-| Indication | ≤ 75 mg per day |  | > 75 mg per day |  |  |  |
+| Indication | ≤75 mg per day |  | >75 mg per day |  |  |  |
 | MDD |  |  |  |  |  |  |
 | (8–12 weeks) | -0.28 | 0.37 | 2.93 | 3.56 | -1.08 | -0.10 |
 | GAD |  |  |  |  |  |  |
@@ -147,14 +147,14 @@ Table 10: Final On-therapy Mean Changes From Baseline in Supine Systolic (SSBP) 
 | PD |  |  |  |  |  |  |
 | (10–12 weeks) | -1.15 | 0.97 | -0.36 | 0.16 | -1.29 | -0.99 |
 
-Effexor XR treatment was associated with sustained hypertension (defined as treatment-emergent Supine Diastolic Blood Pressure [SDBP] ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for three consecutive on-therapy visits (see Table 11).
+Effexor XR treatment was associated with sustained hypertension (defined as Supine Diastolic Blood Pressure [SDBP] ≥90 mm Hg and ≥10 mm Hg above baseline for three consecutive on-therapy visits (see Table 11).
 An insufficient number of patients received mean doses of Effexor XR over 300 mg per day in clinical studies to fully evaluate the incidence of sustained increases in blood pressure at these higher doses.
 
 Table 11: Sustained Elevations in SDBP in Effexor XR Premarketing Studies
 
 | Indication | Dose Range (mg per day) | Incidence (%) |
 | --- | --- | --- |
-| MDD | 75–375 | 19/705 (3) |
+| MDD | 75–375Maximum recommended dosage for Effexor XR is 225 mg once daily. | 19/705 (3) |
 | GAD | 37.5–225 | 5/1011 (0.5) |
 | SAD | 75–225 | 5/771 (0.6) |
 | PD | 75–225 | 9/973 (0.9) |
@@ -170,7 +170,7 @@ Table 12: Approximate Mean Final On-therapy Increase in Pulse Rate (beats/min) i
 | SAD (12 weeks) | 3 | 1 |
 | PD (12 weeks) | 1 | < 1 |
 
-## 6.3 Laboratory Changes
+Laboratory Changes
 
 Serum Cholesterol
 
@@ -196,7 +196,7 @@ Effexor XR treatment for up to 8 weeks and up to 6 months in premarketing placeb
 Effexor XR treatment for up to 12 weeks and up to 6 months in premarketing placebo-controlled Social Anxiety Disorder trials was associated with mean final on-therapy increases in serum cholesterol concentration of approximately 7.9 mg/dL and 5.6 mg/dL, respectively, compared with mean final decreases of 2.9 and 4.2 mg/dL, respectively, for placebo.
 Effexor XR treatment for up to 12 weeks in premarketing placebo-controlled panic disorder trials was associated with mean final on-therapy increases in serum cholesterol concentration of approximately 5.8 mg/dL compared with a mean final decrease of 3.7 mg/dL for placebo.
 
-Patients treated with Effexor (immediate release) for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
+Patients treated with Effexor (immediate-release) for at least 3 months in placebo-controlled 12-month extension trials had a mean final on-therapy increase in total cholesterol of 9.1 mg/dL compared with a decrease of 7.1 mg/dL among placebo-treated patients.
 This increase was duration dependent over the study period and tended to be greater with higher doses.
 Clinically relevant increases in serum cholesterol, defined as 1) a final on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, or 2) an average on-therapy increase in serum cholesterol ≥50 mg/dL from baseline and to a value ≥261 mg/dL, were recorded in 5.3% of venlafaxine-treated patients and 0.0% of placebo-treated patients.
 
@@ -213,19 +213,10 @@ Table 14: Mean Final On-therapy Increases in Triglyceride Concentrations (mg/dL)
 | PD (12 weeks) | 5.9 | 0.9 |
 | PD (6 months) | 9.3 | 0.3 |
 
-## 6.4 Pediatric Patients
+## 6.2 Postmarketing Experience
 
-In general, the adverse reaction profile of venlafaxine (in placebo-controlled clinical studies) in children and adolescents (ages 6 to 17) was similar to that seen for adults.
-As with adults, decreased appetite, weight loss, increased blood pressure, and increased serum cholesterol were observed [see Warnings and Precautions (5.3, 5.10, 5.11) and Use in Specific Populations (8.4)].
-
-In pediatric clinical studies, the adverse reaction, suicidal ideation, was observed.
-
-Particularly, the following adverse reactions were observed in pediatric patients: abdominal pain, agitation, dyspepsia, ecchymosis, epistaxis, and myalgia.
-
-## 6.5 Adverse Reactions Identified During Postapproval Use
-
-The following adverse reactions have been identified during postapproval use of Effexor XR.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+The following adverse reactions have been identified during post-approval use of Effexor XR.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a whole – Anaphylaxis, angioedema
 

@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-## 10.1 Human Experience
+Human Experience
 
 During the premarketing evaluations of Effexor XR (for MDD, GAD, SAD, and PD) and Effexor (for MDD), there were twenty reports of acute overdosage with Effexor (6 and 14 reports in Effexor XR and Effexor patients, respectively), either alone or in combination with other drugs and/or alcohol.
 
@@ -23,12 +23,8 @@ Epidemiological studies have shown that venlafaxine-treated patients have a high
 The extent to which the finding of an increased risk of fatal outcomes can be attributed to the toxicity of venlafaxine in overdosage, as opposed to some characteristic(s) of venlafaxine-treated patients, is not clear.
 Prescriptions for Effexor XR should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
 
-## 10.2 Management of Overdosage
+Management of Overdosage
 
-Consult a Certified Poison Control Center for up-to-date guidance and advice (1-800-222-1222 or www.poison.org).
-In case of an overdose, provide supportive care, including close medical supervision and monitoring.
-Treatment should consist of those general measures employed in the management of overdosage with any drug.
-Consider the possibility of multiple drug overdose.
-Ensure an adequate airway, oxygenation, and ventilation.
-Monitor cardiac rhythm and vital signs.
-Provide supportive and symptomatic measures.
+No specific antidotes for Effexor XR are known.
+In managing overdosage, consider the possibility of multiple drug involvement.
+Consider contacting a Poison Center (1-800-222-1222) or a medical toxicologist for overdosage management recommendations for Effexor XR.

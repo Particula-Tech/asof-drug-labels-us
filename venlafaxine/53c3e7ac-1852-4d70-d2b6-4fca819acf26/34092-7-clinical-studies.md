@@ -15,22 +15,22 @@ Response during the open-label phase was defined as a CGI Severity of Illness it
 Relapse during the double-blind phase was defined as follows: (1) a reappearance of major depressive disorder as defined by DSM-IV criteria and a CGI Severity of Illness item score of ≥4 (moderately ill), (2) 2 consecutive CGI Severity of Illness item scores of ≥4, or (3) a final CGI Severity of Illness item score of ≥4 for any patient who withdrew from the study for any reason.
 Patients receiving continued Effexor XR treatment experienced statistically significantly lower relapse rates over the subsequent 26 weeks compared with those receiving placebo (study 4).
 
-In a second longer term trial, adult outpatients with MDD, recurrent type, who had responded (HAM-D-21 total score ≤ 12 at the day 56 evaluation) and continued to be improved [defined as the following criteria being met for days 56 through 180: (1) no HAM-D-21 total score ≥ 20; (2) no more than 2 HAM-D-21 total scores > 10, and (3) no single CGI Severity of Illness item score ≥ 4 (moderately ill)] during an initial 26 weeks of treatment on Effexor [100 to 200 mg per day, on a twice daily schedule] were randomized to continuation of their same Effexor dose or to placebo.
-The follow-up period to observe patients for relapse, defined as a CGI Severity of Illness item score ≥ 4, was for up to 52 weeks.
+In a second longer term trial, adult outpatients with MDD, recurrent type, who had responded (HAM-D-21 total score ≤12 at the day 56 evaluation) and continued to be improved [defined as the following criteria being met for days 56 through 180: (1) no HAM-D-21 total score ≥20; (2) no more than 2 HAM-D-21 total scores >10, and (3) no single CGI Severity of Illness item score ≥4 (moderately ill)] during an initial 26 weeks of treatment on Effexor [100 to 200 mg per day, on a twice daily schedule] were randomized to continuation of their same Effexor dose or to placebo.
+The follow-up period to observe patients for relapse, defined as a CGI Severity of Illness item score ≥4, was for up to 52 weeks.
 Patients receiving continued Effexor treatment experienced statistically significantly lower relapse rates over the subsequent 52 weeks compared with those receiving placebo (study 5).
 
-Table 17: Major Depressive Disorder Studies:
+Table 18: Primary Efficacy Results for Studies in Major Depressive Disorder in Adults (Studies 1, 2, 3)
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline | Placebo Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline(95%CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline | Placebo Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95%CI) |
 | --- | --- | --- | --- | --- |
-| Study number | Treatment Group |  | Primary Efficacy Measure: HAM-D Score |  |
+| Study Number | Treatment Group |  | Primary Efficacy Measure: HAM-D Score |  |
 | Study 1 | Effexor(XR 75–225 mg/day)Doses statistically significantly superior to placebo. | 24.5 | -11.7 | -4.45(-6.66,-2.25) |
 | Placebo | 23.6 | -7.24 | - |  |
 | Study 2 | Effexor(XR 75–225 mg/day) | 24.5 | -15.11 | -6.40(-8.45,-4.34) |
 | Placebo | 24.9 | -8.71 |  |  |
 | Study 3 | Effexor(IR 150–375 mg/day) | 28.2 (0.5) | -14.9 | -10.2 (-14.4,-6.0) |
 | Placebo | 28.6 (0.6) | -4.7 | - |  |
-| SD: standard deviation; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |
+| SD=standard deviation; LS Mean=least-squares mean; CI=confidence interval. |  |  |  |  |
 
 ## 14.2 Generalized Anxiety Disorder
 
@@ -46,9 +46,9 @@ While there was also evidence for superiority over placebo for the 37.5 mg per d
 
 Examination of gender subsets of the population studied did not reveal any differential responsiveness on the basis of gender.
 
-Table 18: Generalized Anxiety Disorder Studies:
+Table 19: Primary Efficacy Results for Studies in Generalized Anxiety Disorder in Adults (Studies 1, 2, 3, 4)
 
-|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline (95% CI) |
+|  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE)Doses statistically significantly superior to placebo. | Placebo Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: HAM-A Score |  |  |
 | Study 1 | Ven XR 75 mg | 24.7 | -11.1 (0.95) | -1.5 (-3.8, 0.8) |
@@ -64,7 +64,7 @@ Table 18: Generalized Anxiety Disorder Studies:
 | Placebo | 26.7 (0.5) | -11.0 |  |  |
 | Study 4 | Ven XR 75–225 mg | 25.0 | -13.4 (0.79) | - 4.7 (-6.6, -2.9) |
 | Placebo | 24.9 | -8.7 (0.70) |  |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD=standard deviation; SE=standard error; LS Mean=least-squares mean; CI=confidence interval. |  |  |  |  |
 
 ## 14.3 Social Anxiety Disorder (also known as Social Phobia)
 
@@ -76,12 +76,12 @@ There was no evidence for any greater effectiveness of the 150 to 225 mg per day
 Examination of subsets of the population studied did not reveal any differential responsiveness on the basis of gender.
 There was insufficient information to determine the effect of age or race on outcome in these studies.
 
-Table 19: Social Anxiety Disorder Studies
+Table 20: Primary Efficacy Results for Studies in Social Anxiety Disorder in Adults (Studies 1, 2, 3, 4, 5)
 
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo Subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: LSAS Score |  |  |
-| Study 1 | Ven XR (75–225 mg) | 91.1 | -31.0(2.22) | 11.2 (-5.3, -17.1) |
+| Study 1 | Ven XR (75–225 mg)Doses statistically significantly superior to placebo. | 91.1 | -31.0(2.22) | 11.2 (-5.3, -17.1) |
 | Placebo | 86.7 | -19.9 (2.22) | - |  |
 | Study 2 | Ven XR (75–225 MG) | 90.8 | -32.8 (2.69) | -10.7 (-3.7,-17.6) |
 | Placebo | 87.4 | -22.1 (2.66) | - |  |
@@ -92,7 +92,7 @@ Table 19: Social Anxiety Disorder Studies
 | Study 5 | Ven XR 75 mg | 91.8 | -38.1 (3.16) | -14.6 (-21.8, -7.4) |
 | Ven XR (150–225 mg) | 86.2 | -37.6 (3.05) | -14.1 (-21.3, -6.9) |  |
 | Placebo | 89.3 | -23.5 (3.08) |  |  |
-| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. * Doses statistically significantly superior to placebo. |  |  |  |  |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval. |  |  |  |  |
 
 ## 14.4 Panic Disorder
 
@@ -111,18 +111,15 @@ Relapse during the double-blind phase was defined as having 2 or more full-sympt
 Randomized patients were in response status for a mean time of 34 days prior to being randomized.
 In the randomized phase following the 12-week open-label period, patients receiving continued Effexor XR experienced a statistically significantly longer time to relapse.
 
-Table 20: Panic Disorder Studies:
+Table 21: Primary Efficacy Results for Studies in Panic Disorder in Adults (Studies 1 and 2)
 
-|  |  | Percent of patients Free of Full symptom panic attack | Adjusted Odds RatioOdds ratio (drug to placebo) in terms of probability of free of full-symptom panic attacks based on logistic regression model. 95%CI: 95% confidence interval without adjusting for multiple dose arms. to placebo | Adjusted Odds Ratio 95% Confidence Interval |
+|  |  | Percent of patients Free of Full symptom panic attack | Adjusted Odds RatioOdds ratio (drug to placebo) in terms of probability of free of full-symptom panic attacks based on logistic regression model. to placebo | Adjusted Odds Ratio 95% Confidence Interval |
 | --- | --- | --- | --- | --- |
-| Study Number | Treatment Group | Primary Efficacy Measure: Whether Free of Full-symptom Panic Attacks |  |  |
+| Study Treatment Group Number |  | Primary Efficacy Measure: Whether Free of Full-symptom Panic Attacks |  |  |
 | Study 1 | Ven XR 75 mgDoses statistically significantly superior to placebo. | 54.1% (85/157) | 2. 268 | (1.43, 3.59) |
 | Ven XR 150 mg | 61.4% (97/158) | 3.035 | (1.91, 4.82) |  |
 | Placebo | 34.4% (53/154) | -- | -- |  |
 | Study 2 | Ven XR 75 mg | 64.1% (100/156) | 2.350 | (1.46, 3.78) |
 | Ven XR 225 mg | 70.0% (112/160) | 2.890 | (1.80, 4.64) |  |
 | Placebo | 46.5% (73/157) | -- | -- |  |
-
-## 14.5 Pediatric Patients
-
-Two placebo-controlled studies in 766 pediatric patients with MDD and two placebo-controlled studies in 793 pediatric patients with GAD have been conducted with Effexor XR, and the data were not sufficient to support a claim for use in pediatric patients.
+| 95% CI: 95% confidence interval without adjusting for multiple dose arms. |  |  |  |  |

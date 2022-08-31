@@ -1,48 +1,32 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
-
-Prescribers or other healthcare professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with Effexor XR and should counsel them in its appropriate use.
-A patient Medication Guide about "Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions" is available for Effexor XR.
-The prescriber or healthcare professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
-Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
-The complete text of the Medication Guide is reprinted at the end of this document.
-
-Patients should be advised of the following issues and should be asked to alert their prescriber if these occur while taking Effexor XR.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Suicidal Thoughts and Behaviors
 
-Advise patients, their families and caregivers to look for the emergence of suicidality, worsening of depression, and other psychiatric symptoms (anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia, psychomotor restlessness, hypomania, mania, other unusual changes in behavior), especially early during treatment and when the dose is adjusted up or down.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dose is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
 
 Concomitant Medication
 
-Advise patients taking Effexor XR not to use concomitantly other products containing venlafaxine or desvenlafaxine.
-Healthcare professionals should instruct patients not to take Effexor XR with an MAOI or within 14 days of stopping an MAOI and to allow 7 days after stopping Effexor XR before starting an MAOI [see Contraindications (4.2)].
+Instruct patients not to take Effexor XR with an MAOI or within 14 days of stopping an MAOI [see Contraindications (4)].
 
 Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome, with the concomitant use of Effexor XR and triptans, tramadol, amphetamines, tryptophan supplements, with antipsychotics or other dopamine antagonists, or other serotonergic agents [see Warnings and Precautions (5.2) and Drug Interactions (7.3)].
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of Effexor XR with other serotonergic drugs including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid).
+Instruct patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome [see Warnings and Precautions (5.2) and Drug Interactions (7.1)].
 
 Elevated Blood Pressure
 
 Advise patients that they should have regular monitoring of blood pressure when taking Effexor XR [see Warnings and Precautions (5.3)].
 
-Abnormal Bleeding
+Increased Risk of Bleeding
 
-Patients should be cautioned about the concomitant use of Effexor XR and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents has been associated with an increased risk of bleeding [see Warnings and Precautions (5.4)].
-
-Angle Closure Glaucoma
-
-Patients should be advised that taking Effexor XR can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle closure glaucoma.
-Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.5)].
+Inform patients about the concomitant use of Effexor XR with NSAIDs, aspirin, other antiplatelet drugs, warfarin, or other drugs that affect coagulation because the combined use has been associated with an increased risk of bleeding.
+Advise patients to inform their health care providers if they are taking or planning to take any prescription or over-the-counter medications that increase the risk of bleeding [see Warnings and Precautions (5.4)].
 
 Activation of Mania/Hypomania
 
-Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania [see Warnings and Precautions (5.6)].
+Advise patients, their families and caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.6)].
 
 Cardiovascular/Cerebrovascular Disease
 
@@ -50,12 +34,12 @@ Caution is advised in administering Effexor XR to patients with cardiovascular, 
 
 Serum Cholesterol and Triglyceride Elevation
 
-Advise patients that elevations in total cholesterol, LDL and triglycerides may occur and that measurement of serum lipids may be considered [see Warnings and Precautions (6.3)].
+Advise patients that elevations in total cholesterol, LDL and triglycerides may occur and that measurement of serum lipids may be considered [see Adverse Reactions (6.1)].
 
 Discontinuation Syndrome
 
-Advise patients not to stop taking Effexor XR without talking first with their healthcare professional.
-Patients should be aware that discontinuation effects may occur when stopping Effexor XR [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+Advise patients not to abruptly stop taking Effexor XR without talking first with their healthcare provider.
+Patients should be aware that discontinuation effects may occur when stopping Effexor XR and they should monitor for discontinuation symptoms [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
 
 Sexual Dysfunction
 
@@ -68,19 +52,17 @@ Caution patients about operating hazardous machinery, including automobiles, unt
 
 Alcohol
 
-Advise patients to avoid alcohol while taking Effexor XR [see Drug Interactions (7.6)].
+Advise patients to avoid alcohol while taking Effexor XR [see Drug Interactions (7.2)].
 
 Allergic Reactions
 
-Advise patients to notify their physician if they develop allergic phenomena such as rash, hives, swelling, or difficulty breathing.
+Advise patients to notify their healthcare provider if they develop allergic phenomena such as rash, hives, swelling, or difficulty breathing [see Contraindications (4) and Adverse Reactions (6.2)].
 
 Pregnancy
 
-Advise patients to notify their physician if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
-
-Nursing
-
-Advise patients to notify their physician if they are breast-feeding an infant [see Use in Specific Populations (8.3)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with Effexor XR.
+Advise patients that Effexor XR use during mid to late pregnancy may lead to an increased risk for preeclampsia; use in late pregnancy may lead to an increased risk for postpartum hemorrhage and may increase the risk for neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Effexor XR during pregnancy [see Use in Specific Populations (8.1)].
 
 Residual Spheroids
 

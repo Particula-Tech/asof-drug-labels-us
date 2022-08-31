@@ -1,78 +1,50 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
+## 5.1 Suicidal Thoughts and Behaviors in Adolescents and Young Adults
 
-Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
-Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
-There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled studies of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18–24) with MDD and other psychiatric disorders.
-Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
+In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
+There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
+There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 1.
 
-The pooled analyses of placebo-controlled studies in children and adolescents with MDD, Obsessive Compulsive Disorder (OCD), or other psychiatric disorders included a total of 24 short-term studies of 9 antidepressant drugs in over 4,400 patients.
-The pooled analyses of placebo-controlled studies in adults with MDD or other psychiatric disorders included a total of 295 short-term studies (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
-There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
-There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
-The risk differences (drug versus placebo), however, were relatively stable within age strata and across indications.
-These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 1.
+Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in PediatricEffexor XR is not approved in pediatric patients. and Adult Patients
 
-Table 1: Difference in the Number of Cases of Suicidality per 1,000 Patients Treated versus Placebo
-
-| Age Range | Increases Compared to Placebo |
+| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts and Behaviors per 1,000 Patients Treated |
 | --- | --- |
-| < 18 | 14 additional cases |
-| 18–24 | 5 additional cases |
+|  | Increases Compared to Placebo |
+| <18 years old | 14 additional patients |
+| 18–24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25–64 | 1 fewer case |
-| ≥ 65 | 6 fewer cases |
+| 25–64 years old | 1 fewer patient |
+| ≥65 years old | 6 fewer patients |
 
-No suicides occurred in any of the pediatric studies.
-There were suicides in the adult studies, but the number was not sufficient to reach any conclusion about drug effect on suicide.
+It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
+However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
 
-It is unknown whether the suicidality risk extends to longer term use, i.e., beyond several months.
-However, there is substantial evidence from placebo-controlled maintenance studies in adults with depression that the use of antidepressants can delay the recurrence of depression.
-
-All patients being treated with antidepressants for any indication should be monitored appropriately and observed closely for clinical worsening, suicidality, and unusual changes in behavior, especially during the initial few months of a course of drug therapy, or at times of dose changes, either increases or decreases.
-
-The following symptoms, anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, and mania, have been reported in adult and pediatric patients being treated with antidepressants for MDD, as well as for other indications, both psychiatric and nonpsychiatric.
-Although a causal link between the emergence of such symptoms and either the worsening of depression and/or the emergence of suicidal impulses has not been established, there is concern that such symptoms may represent precursors to emerging suicidality.
-
-Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
-
-If the decision has been made to discontinue treatment, medication should be tapered, as rapidly as is feasible, but with recognition that abrupt discontinuation can be associated with certain symptoms [see Warnings and Precautions (5.7) and Dosage and Administration (2.8)].
-
-Families and caregivers of patients being treated with antidepressants for MDD or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to healthcare providers.
-Such monitoring should include daily observation by families and caregivers.
-Prescriptions for Effexor XR should be written for the smallest quantity of capsules consistent with good patient management, in order to reduce the risk of overdose.
-
-Screening Patients for Bipolar Disorder
-
-A major depressive episode may be the initial presentation of bipolar disorder.
-It is generally believed (though not established in controlled studies) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that Effexor XR is not approved for use in treating bipolar depression.
+Monitor all antidepressant-treated patients for any indication for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy, and at times of dosage changes.
+Counsel family members or caregivers of patients to monitor for changes in behavior and to alert the healthcare provider.
+Consider changing the therapeutic regimen, including possibly discontinuing Effexor XR, in patients whose depression is persistently worse, or who are experiencing emergent suicidal thoughts or behaviors.
 
 ## 5.2 Serotonin Syndrome
 
-The development of a potentially life-threatening serotonin syndrome has been reported with Serotonin-norepinephrine reuptake inhibitors (SNRIs) and SSRIs, including Effexor XR alone, but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's wort) and with drugs that impair metabolism of serotonin in particular, MAOIs, both those intended to treat psychiatric disorders and others, such as linezolid or intravenous methylene blue).
+Serotonin-norepinephrine reuptake inhibitors (SNRIs), including Effexor XR, can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see Contraindications (4), Drug Interactions (7.1)].
+Serotonin syndrome can also occur when these drugs are used alone.
 
-Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, coma) autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia, diaphoresis, flushing, and dizziness), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination); seizures and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
-Patients should be monitored for the emergence of serotonin syndrome.
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
-The concomitant use of Effexor XR with MAOIs (intended to treat psychiatric disorders) is contraindicated.
-Effexor XR should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
-All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
-No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
-There may be circumstances when it is necessary to initiate treatment with a MAOI such as linezolid or intravenous methylene blue in a patient taking Effexor XR.
-Effexor XR should be discontinued before initiating treatment with the MAOI [see Contraindications (4.2), Dosage and Administration (2.6), and Drug Interactions (7.3)].
+The concomitant use of Effexor XR with MAOIs is contraindicated.
+In addition, do not initiate Effexor XR in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection).
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Effexor XR, discontinue Effexor XR before initiating treatment with the MAOI [see Contraindications (4), Drug Interactions (7.1)].
 
-If concomitant use of Effexor XR with other serotonergic drugs (e.g., triptans, tricyclic antidepressants, mirtazapine, fentanyl, lithium, tramadol, buspirone, amphetamines, tryptophan, or St. John's wort) is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Drug Interactions (7.3)].
-Patients should be made aware of the potential risk of serotonin syndrome.
-Treatment with Effexor XR and any concomitant serotonergic agents should be discontinued immediately if the above events occur, and supportive symptomatic treatment should be initiated.
+Monitor all patients taking Effexor XR for the emergence of serotonin syndrome.
+Discontinue treatment with Effexor XR and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of Effexor XR with other serotonergic drugs is clinically warranted, inform patients of the increased risk for serotonin syndrome and monitor for symptoms.
 
-## 5.3 Elevations in Blood Pressure
+## 5.3 Elevated Blood Pressure
 
-In controlled trials, there were dose-related increases in systolic and diastolic blood pressure, as well as cases of sustained hypertension [see Adverse Reactions (6.2)].
+In controlled trials, there were dose-related increases in systolic and diastolic blood pressure, as well as cases of sustained hypertension [see Adverse Reactions (6.1)].
 
 Monitor blood pressure before initiating treatment with Effexor XR and regularly during treatment.
 Control pre-existing hypertension before initiating treatment with Effexor XR.
@@ -81,27 +53,30 @@ Sustained blood pressure elevation can lead to adverse outcomes.
 Cases of elevated blood pressure requiring immediate treatment have been reported with Effexor XR.
 Consider dose reduction or discontinuation of treatment for patients who experience a sustained increase in blood pressure.
 
-Across all clinical studies with Effexor, 1.4% of patients in the Effexor XR treated groups experienced a ≥15 mm Hg increase in supine diastolic blood pressure (SDBP) ≥ 105 mm Hg, compared to 0.9% of patients in the placebo groups.
-Similarly, 1% of patients in the Effexor XR treated groups experienced a ≥ 20 mm Hg increase in supine systolic blood pressure (SSBP) with blood pressure ≥ 180 mm Hg, compared to 0.3% of patients in the placebo groups [see Table 10 in Adverse Reactions (6.2)].
-Effexor XR treatment was associated with sustained hypertension (defined as treatment-emergent SDBP ≥ 90 mm Hg and ≥ 10 mm Hg above baseline for three consecutive on-therapy visits [see Table 11 in Adverse Reactions (6.2)].
+Across all clinical studies with Effexor, 1.4% of patients in the Effexor XR treated groups experienced a ≥15 mm Hg increase in supine diastolic blood pressure (SDBP) ≥105 mm Hg, compared to 0.9% of patients in the placebo groups.
+Similarly, 1% of patients in the Effexor XR treated groups experienced a ≥20 mm Hg increase in supine systolic blood pressure (SSBP) with blood pressure ≥180 mm Hg, compared to 0.3% of patients in the placebo groups [see Adverse Reactions (6.1)].
+Treatment with Effexor XR was associated with sustained hypertension defined as SDBP ≥90 mm Hg and ≥10 mm Hg above baseline for three consecutive on-therapy visits [see Adverse Reactions (6.1)].
 An insufficient number of patients received mean doses of Effexor XR over 300 mg per day in clinical studies to fully evaluate the incidence of sustained increases in blood pressure at these higher doses.
 
-## 5.4 Abnormal Bleeding
+## 5.4 Increased Risk of Bleeding
 
-SSRIs and SNRIs, including Effexor XR, may increase the risk of bleeding events, ranging from ecchymoses, hematomas, epistaxis, petechiae, and gastrointestinal hemorrhage to life-threatening hemorrhage.
+Drugs that interfere with serotonin reuptake inhibition, including Effexor XR, may increase the risk of bleeding events, ranging from ecchymoses, hematomas, epistaxis, petechiae, and gastrointestinal hemorrhage to life-threatening hemorrhage.
 Concomitant use of aspirin, Nonsteroidal Anti-Inflammatory Drugs (NSAIDs), warfarin, and other anti-coagulants or other drugs known to affect platelet function may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
-Caution patients about the risk of bleeding associated with the concomitant use of Effexor XR and NSAIDs, aspirin, or other drugs that affect coagulation.
+
+Inform patients about the risk of bleeding associated with the concomitant use of Effexor XR and nonsteroidal anti-inflammatory drugs (NSAIDs), aspirin, or other drugs that affect coagulation.
+For patients taking warfarin, carefully monitor coagulation indices when initiating, titrating, or discontinuing Effexor XR.
 
 ## 5.5 Angle-Closure Glaucoma
 
-The pupillary dilation that occurs following use of many antidepressant drugs including Effexor XR may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+The pupillary dilation that occurs following use of many antidepressant drugs including Effexor XR may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
+Avoid use of antidepressants, including Effexor XR, in patients with untreated anatomically narrow angles.
 
-## 5.6 Activation of Mania/Hypomania
+## 5.6 Activation of Mania or Hypomania
 
+In patients with bipolar disorder, treating a depressive episode with Effexor XR or another antidepressant may precipitate a mixed/manic episode.
 Mania or hypomania was reported in Effexor XR treated patients in the premarketing studies in MDD, SAD, and PD (see Table 2).
-Mania/hypomania has also been reported in a small proportion of patients with mood disorders who were treated with other marketed drugs to treat MDD.
-Effexor XR should be used cautiously in patients with a history of mania or hypomania.
+Prior to initiating treatment with Effexor XR, screen for any personal or family history of bipolar disorder, mania, or hypomania.
 
 Table 2: Incidence (%) of Mania or Hypomania Reported in Effexor XR Treated Patients in the Premarketing Studies
 
@@ -122,27 +97,27 @@ There have been postmarketing reports of serious discontinuation symptoms which 
 Completed suicide, suicidal thoughts, aggression and violent behavior have been observed in patients during reduction in Effexor XR dosage, including during discontinuation.
 Other postmarketing reports describe visual changes (such as blurred vision or trouble focusing) and increased blood pressure after stopping or reducing the dose of Effexor XR.
 
-During marketing of Effexor XR, other SNRIs, and SSRIs, there have been spontaneous reports of other adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: irritability, lethargy, emotional lability, tinnitus, and seizures.
+During marketing of Effexor XR, other SNRIs, and SSRIs, there have been reports of adverse events occurring upon discontinuation of these drugs, particularly when abrupt, including the following: irritability, lethargy, emotional lability, tinnitus, and seizures.
 
 Patients should be monitored for these symptoms when discontinuing treatment with Effexor XR.
 A gradual reduction in the dose, rather than abrupt cessation, is recommended.
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
 Subsequently, the healthcare provider may continue decreasing the dose, but at a more gradual rate.
-In some patients, discontinuation may need to occur over a period of several months [see Dosage and Administration (2.8)].
+In some patients, discontinuation may need to occur over a period of several months [see Dosage and Administration (2.10)].
 
 ## 5.8 Seizures
 
-Seizures have occurred with venlafaxine therapy.
-Effexor XR, like many antidepressants, should be used cautiously in patients with a history of seizures and should be discontinued in any patient who develops seizures.
-[Must mitigate the risk: Risk factors, concomitant meds that lower the seizure threshold.]
+Cases of seizure have been reported with venlafaxine therapy.
+Effexor XR has not been systematically evaluated in patients with seizure disorder.
+Effexor XR should be prescribed with caution in patients with a seizure disorder.
 
 ## 5.9 Hyponatremia
 
-Hyponatremia can occur as a result of treatment with SSRIs and SNRIs, including Effexor XR.
+Hyponatremia can occur as a result of treatment with SNRIs, including Effexor XR.
 In many cases, the hyponatremia appears to be the result of the Syndrome of Inappropriate Antidiuretic Hormone (SIADH) secretion.
 Cases with serum sodium lower than 110 mmol/L have been reported.
-Elderly patients may be at greater risk of developing hyponatremia with SSRIs and SNRIs [see Use in Specific Populations (8.5)].
-Also, patients taking diuretics, or those who are otherwise volume-depleted, may be at greater risk.
+Elderly patients may be at greater risk of developing hyponatremia with SNRIs.
+Also, patients taking diuretics, or those who are otherwise volume-depleted, may be at greater risk [see Use in Specific Populations (8.5) and Clinical Pharmacology (12.3)].
 Consider discontinuation of Effexor XR in patients with symptomatic hyponatremia, and institute appropriate medical intervention.
 
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
@@ -154,32 +129,35 @@ Weight Changes
 
 The average change in body weight and incidence of weight loss (percentage of patients who lost 3.5% or more) in the placebo-controlled pediatric studies in MDD, GAD, and SAD are shown in Tables 3 and 4.
 
-Table 3: Average Change in Body Weight (kg) From Beginning of Treatment in Pediatric Patients in Double-blind, Placebo-controlled Studies of Effexor XR
+Table 3: Average Change in Body Weight (kg) From Beginning of Treatment in Pediatric PatientsEffexor XR is not approved for use in pediatric patients. in Double-blind, Placebo-controlled Studies of Effexor XR
 
 | Indication (Duration) | Effexor XR | Placebo |
 | --- | --- | --- |
 | MDD and GAD (4 pooled studies, 8 weeks) | -0.45 (n = 333) | +0.77 (n = 333) |
 | SAD (16 weeks) | -0.75 (n = 137) | +0.76 (n = 148) |
 
-Table 4: Incidence (%) of Pediatric Patients Experiencing Weight Loss (3.5% or more) in Double-blind, Placebo-controlled Studies of Effexor XR
+Table 4: Incidence (%) of Pediatric PatientsEffexor XR is not approved for use in pediatric patients.
+Experiencing Weight Loss (3.5% or more) in Double-blind, Placebo-controlled Studies of Effexor XR
 
 | Indication (Duration) | Effexor XR | Placebo |
 | --- | --- | --- |
-| MDD and GAD (4 pooled studies, 8 weeks) | 18p < 0.001 versus placebo (n = 333) | 3.6 (n = 333) |
-| SAD (16 weeks) | 47 (n = 137) | 14 (n = 148) |
+| MDD and GAD (4 pooled studies, 8 weeks) | 18p <0.001 versus placebo(n = 333) | 3.6 (n = 333) |
+| SAD (16 weeks) | 47(n = 137) | 14 (n = 148) |
 
-Weight loss was not limited to patients with treatment-emergent anorexia [see Warnings and Precautions (5.11)].
+Weight loss was not limited to patients with anorexia [see Warnings and Precautions (5.11)].
 
 The risks associated with longer term Effexor XR use were assessed in an open-label MDD study of children and adolescents who received Effexor XR for up to six months.
 The children and adolescents in the study had increases in weight that were less than expected, based on data from age- and sex-matched peers.
-The difference between observed weight gain and expected weight gain was larger for children (< 12 years old) than for adolescents (≥ 12 years old).
+The difference between observed weight gain and expected weight gain was larger for children (<12 years old) than for adolescents (≥12 years old).
+
+Effexor XR is not approved for use in pediatric patients [Use in Specific Populations (8.4)].
 
 Height Changes
 
 Table 5 shows the average height increase in pediatric patients in the short-term, placebo-controlled MDD, GAD, and SAD studies.
-The differences in height increases in GAD and MDD studies were most notable in patients younger than twelve.
+The differences in height increases in GAD and MDD studies were most notable in patients younger than 12 years old.
 
-Table 5: Average Height Increases (cm) in Pediatric Patients in Placebo-controlled Studies of Effexor XR
+Table 5: Average Height Increases (cm) in Pediatric PatientsEffexor XR is not approved for use in pediatric patients. in Placebo-controlled Studies of Effexor XR
 
 | Indication (Duration) | Effexor XR | Placebo |
 | --- | --- | --- |
@@ -188,14 +166,16 @@ Table 5: Average Height Increases (cm) in Pediatric Patients in Placebo-controll
 | SAD (16 weeks) | 1.0 (n = 109) | 1.0 (n = 112) |
 
 In the six-month, open-label MDD study, children and adolescents had height increases that were less than expected, based on data from age- and sex-matched peers.
-The difference between observed and expected growth rates was larger for children (< 12 years old) than for adolescents (≥ 12 years old).
+The difference between observed and expected growth rates was larger for children (<12 years old) than for adolescents (≥12 years old) [see Use in Specific Populations (8.4)].
 
 ## 5.11 Appetite Changes in Pediatric Patients
 
-Decreased appetite (reported as treatment-emergent anorexia) was more commonly observed in Effexor XR treated patients versus placebo-treated patients in the premarketing evaluation of Effexor XR for MDD, GAD, and SAD (see Table 6).
+Decreased appetite (reported as anorexia) was more commonly observed in Effexor XR treated patients versus placebo-treated patients in the premarketing evaluation of Effexor XR for MDD, GAD, and SAD (see Table 6).
+
+Effexor XR is not approved for use in pediatric patients [see Use in Specific Populations (8.4)].
 
 Table 6: Incidence (%) of Decreased Appetite and Associated Discontinuation RatesThe discontinuation rates for weight loss were 0.7% for patients receiving either Effexor XR or placebo.
-(%) in Pediatric Patients in Placebo-controlled Studies of Effexor XR
+(%) in Pediatric PatientsEffexor XR is not approved for use in pediatric patients. in Placebo-controlled Studies of Effexor XR
 
 | Indication (Duration) | Effexor XR Incidence | Discontinuation | Placebo Incidence | Discontinuation |
 | --- | --- | --- | --- | --- |
@@ -205,15 +185,14 @@ Table 6: Incidence (%) of Decreased Appetite and Associated Discontinuation Rate
 ## 5.12 Interstitial Lung Disease and Eosinophilic Pneumonia
 
 Interstitial lung disease and eosinophilic pneumonia associated with venlafaxine therapy have been rarely reported.
-The possibility of these adverse events should be considered in venlafaxine-treated patients who present with progressive dyspnea, cough or chest discomfort.
-Such patients should undergo a prompt medical evaluation, and discontinuation of venlafaxine therapy should be considered.
+The possibility of these events should be considered in Effexor XR-treated patients who present with progressive dyspnea, cough or chest discomfort.
+Such patients should undergo a prompt medical evaluation, and discontinuation of Effexor XR should be considered.
 
 ## 5.13 Sexual Dysfunction
 
 Use of SNRIs, including Effexor XR, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
 In male patients, SNRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
 In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
-
 It is important for prescribers to inquire about sexual function prior to initiation of Effexor XR and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
 When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
 Discuss potential management strategies to support patients in making informed decisions about treatment.
