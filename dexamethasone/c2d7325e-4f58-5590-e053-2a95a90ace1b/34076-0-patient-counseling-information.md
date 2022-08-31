@@ -1,14 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Storage and Handling
+Storage and Handling
 
-Patients should be instructed to store the bottle upright and away from light.
-Shake well before using.
+Instruct the patient to store the bottle upright and away from light.
+Shake well before using [see Dosage and Administration (2.1) and How Supplied/Storage and Handling (16)].
 
-## 17.2 Avoid Contamination
+Avoid Contamination
 
-Patients should be instructed not to touch dropper tip to any surface, as this may contaminate the contents.
+Instruct the patient not to touch dropper tip to any surface, as this may contaminate the contents [see Warnings and Precautions (5.9)].
 
-## 17.3 Contact Lens Wear
+Contact Lens Wear
 
-Contact lenses should not be worn during the use of this product.
+Advise the patient that contact lenses should not be worn during the use of this product [see Warnings and Precautions (5.10)].
+
+Ability to Drive and Use Machines
+
+Advise the patient that vision may be temporarily blurred following dosing with TOBRADEX ST. Care should be exercised in operating machinery or driving a motor vehicle [see Warnings and Precautions (5.8)].
