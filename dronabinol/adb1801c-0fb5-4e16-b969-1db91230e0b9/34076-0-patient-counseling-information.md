@@ -20,9 +20,13 @@ Advise patients to discontinue dronabinol capsules and contact a healthcare prov
 Multiple Substance Abuse
 
 Inform patients with a history of substance abuse or dependence, including marijuana or alcohol, that they may be more likely to abuse dronabinol capsules.
-Advise patients to report to their healthcare provider if they develop abuse behaviors or conditions [see Warnings and Precautions (5.4)].Paradoxical Nausea, Vomiting, or Abdominal Pain
+Advise patients to report to their healthcare provider if they develop abuse behaviors or conditions [see Warnings and Precautions (5.4)].
 
-Advise patients to report worsening nausea, vomiting or abdominal pain to their healthcare provider [see Warnings and Precautions (5.5)].Pregnancy
+Paradoxical Nausea, Vomiting, or Abdominal Pain
+
+Advise patients to report worsening nausea, vomiting or abdominal pain to their healthcare provider [see Warnings and Precautions (5.5)].
+
+Pregnancy
 
 Advise pregnant women of the potential risk to a fetus and to avoid use of dronabinol capsules during pregnancy [see Use in Specific Populations (8.1)].
 
