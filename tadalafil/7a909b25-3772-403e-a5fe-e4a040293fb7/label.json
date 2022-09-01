@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214522"
+  ],
+  "inn": "tadalafil",
+  "labeler": "CMP Pharma, Inc.",
+  "package_ndcs": [
+    "46287-045-15"
+  ],
+  "products": [
+    {
+      "form": "Solution",
+      "generic": "tadalafil",
+      "name": "TADLIQ"
+    }
+  ],
+  "setid": "7a909b25-3772-403e-a5fe-e4a040293fb7",
+  "source": "dailymed"
+}

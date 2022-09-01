@@ -1,0 +1,10 @@
+# 11 DESCRIPTION
+
+TADLIQ contains tadalafil, a selective inhibitor of cyclic guanosine monophosphate (cGMP)–specific phosphodiesterase type 5 (PDE5).
+Tadalafil has the empirical formula C22H19N3O4 representing a molecular weight of 389.41.
+The structural formula is:
+
+The chemical designation is pyrazino[1´,2´:1,6]pyrido[3,4–b]indole-1,4-dione, 6-(1,3-benzodioxol-5-yl)-2,3,6,7,12,12a-hexahydro-2-methyl-, (6R,12aR)-.
+It is a crystalline solid that is practically insoluble in water and very slightly soluble in ethanol.
+
+TADLIQ oral suspension contains 20 mg/5 mL of tadalafil and the following inactive ingredients: 30% simethicone emulsion, citric acid monohydrate, glycerin, peppermint flavor, polysorbate 80, purified water, sodium benzoate, sucralose, trisodium citrate dihydrate, xanthan gum.
