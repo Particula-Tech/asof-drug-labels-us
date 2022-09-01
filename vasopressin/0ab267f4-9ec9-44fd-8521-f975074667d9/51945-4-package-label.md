@@ -2,7 +2,7 @@
 
 NDC 0517-1020-01 Rx Only
 
-Vasospressin Injection, USP
+Vasopressin Injection, USP
 
 20 Units per mL
 
