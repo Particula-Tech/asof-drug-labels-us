@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Hydromorphone Hydrochloride Tablets USP, 2 mg are available as a flat faced beveled edge white to off-white tablet with one side debossed “M”; other side debossed “2”.
+Hydromorphone Hydrochloride Tablets USP, 2 mg are available as a flat faced beveled or radius edge white to off-white tablet with one side debossed “M”; other side debossed “2”.
 
 Bottles of 100...................................
 NDC 0406-3243-01

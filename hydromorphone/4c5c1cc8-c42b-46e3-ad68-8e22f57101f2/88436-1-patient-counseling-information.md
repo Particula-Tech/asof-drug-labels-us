@@ -82,7 +82,7 @@ Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo a
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued 03/2021
+Issued 09/2021
 
 Mallinckrodt™ Pharmaceuticals
 
