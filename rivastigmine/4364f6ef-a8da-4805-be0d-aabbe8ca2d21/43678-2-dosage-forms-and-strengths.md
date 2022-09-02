@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS & STRENGTHS
 
-## 3.1 Rivastigmine tartrate capsules
+## 3.1 Rivastigmine Tartrate capsules
 
 Capsules, containing rivastigmine tartrate USP equivalent to 1.5 mg, 3 mg, 4.5 mg, or 6 mg of rivastigmine base, are available as follows: 1.5 mg capsule – Yellow/yellow, "CL7" on cap and "1.5 mg" on body imprinted with red ink.
 3 mg capsule – Orange/orange, "CL8" on cap and "3 mg" on body imprinted with red ink.

@@ -20,7 +20,7 @@ Discontinuation Rates The rate of discontinuation due to adverse events in contr
 While on a maintenance dose, the rates were 6% for patients on rivastigmine tartrate capsules compared to 4% for those on placebo.
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of patients and at twice the incidence seen in placebo patients, are shown in Table 1.
 
-Table 1: Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials during Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day Rivastigmine Tartrate Using a Forced-Dose Titration
+Table 1: Most Frequent Adverse Reactions Leading to Withdrawal from Clinical Trials During Titration and Maintenance in Patients Receiving 6 mg to 12 mg per day Rivastigmine Tartrate Using a Forced-Dose Titration
 
 | Study Phase | Titration |  | Maintenance |  | Overall |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Table 2: Proportion of Adverse Reactions Observed with a Frequency of Greater Th
 
 | Body System/Adverse Event | Rivastigmine tartrate (6 to 12 mg/day) (n=1,189) |  | Placebo (n=868) |
 | --- | --- | --- | --- |
-| Percent of Patients with any Adverse Event | 92 |  | 79 |
+| Percent of Patients with any Adverse Reaction | 92 |  | 79 |
 | Autonomic Nervous System |  |  |  |
 | Sweating Increased |  | 4 | 1 |
 | Syncope |  | 3 | 2 |
@@ -91,7 +91,7 @@ Most Common Adverse Reactions The most common adverse reactions, defined as thos
 These include nausea, vomiting, tremor, anorexia, and dizziness.
 
 Discontinuation Rates The rate of discontinuation due to adverse events in the single placebo-controlled trial of rivastigmine tartrate capsules was 18% for patients receiving 3 mg to 12 mg per day compared to 11% for patients on placebo during the 24-week study.
-The most frequent adverse events that led to discontinuation from this study, defined as those occurring in at least 1% of patients receiving rivastigmine tartrate and more frequent than those receiving placebo, were nausea (3.6% rivastigmine tartrate versus 0.6% placebo), vomiting (1.9% rivastigmine tartrate versus 0.6% placebo), and tremor (1.7% rivastigmine tartrate versus 0.0% placebo).
+The most frequent adverse eactions that led to discontinuation from this study, defined as those occurring in at least 1% of patients receiving rivastigmine tartrate and more frequent than those receiving placebo, were nausea (3.6% rivastigmine tartrate versus 0.6% placebo), vomiting (1.9% rivastigmine tartrate versus 0.6% placebo), and tremor (1.7% rivastigmine tartrate versus 0.0% placebo).
 
 Adverse Reactions Observed at an Incidence of at Least 2% Table 3 lists treatment-emergent signs and symptoms that were reported in at least 2% of patients in a single placebo-controlled trial and during the first 24 weeks of a 76-week open-label active-controlled trial for which the rate of occurrence was greater for patients treated with rivastigmine tartrate capsules doses of 3 mg to 12 mg per day than for those treated with placebo in the placebo-controlled trial.
 In general, adverse reactions were less frequent later in the course of treatment.

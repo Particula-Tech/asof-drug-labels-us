@@ -11,10 +11,10 @@ Concomitant Use of Drugs with Cholinergic Action Caregivers and patients should 
 Worsening in patients with Parkinson's disease, including an increased incidence or intensity of tremor, has been observed [see Warnings and Precautions (5.3)].
 Pregnancy Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceutical Ltd. Daman (U.T.), INDIA
 
-Revised: 11/2019
+Revised: 08/2022
 
-PM01731107
+PM01731108

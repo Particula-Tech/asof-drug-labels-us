@@ -2,7 +2,7 @@
 
 Because strategies for the management of overdose are continually evolving, it is advisable to contact a Poison Control Center to determine the latest recommendations for the management of an overdose of any drug.
 
-As rivastigmine has a short plasma half-life of about 1 hour and a moderate duration of acetylcholinesterase inhibition of 8 to 10 hours, it is recommended that in cases of asymptomatic overdoses, no further dose of rivastigmine tartrate should be administered for the next 24 hours.
+As rivastigmine has a short plasma half-life of about 1 hour and a moderate duration of acetylcholinesterase inhibition of 8 to 10 hours, it is recommended that in cases of asymptomatic overdoses, no further dose of rivastigmine tartrate capsules should be administered for the next 24 hours.
 
 As in any case of overdose, general supportive measures should be utilized.
 
