@@ -120,11 +120,11 @@ Effect of Coadministered Drugs on Zidovudine AUCa
 | Coadministered Drug and Dose | Zidovudine Oral Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |  |  |  |  |  |  |  |  |  |
 | AUC | Variability |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Atovaquone750 mg every 12 h with food | 200 mg every 8 h | 14 | ↑31% | Range:23% to 78%b | ↔ |  |  |  |  |  |  |  |  |  |
-| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓12% | Range: ↓34% to ↑14% b | Not Reported |  |  |  |  |  |  |  |  |  |
+| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓12% | Range: ↓34% to ↑14%b | Not Reported |  |  |  |  |  |  |  |  |  |
 | Fluconazole 400 mg daily | 200 mg every 8 h | 12 | ↑74% | 95% CI: 54% to 98% | Not Reported |  |  |  |  |  |  |  |  |  |
 | Lamivudine300 mg every 12 h | single 200 mg | 12 | ↑13% | 90% CI: 2% to 27% | ↔ |  |  |  |  |  |  |  |  |  |
 | Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑43% | Range:16% to 64%b | ↔ |  |  |  |  |  |  |  |  |  |
-| Nelfinavir750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓35% | Range:28% to 41% b | ↔ |  |  |  |  |  |  |  |  |  |
+| Nelfinavir750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓35% | Range:28% to 41%b | ↔ |  |  |  |  |  |  |  |  |  |
 | Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range:100% to 170%b | Not Assessed |  |  |  |  |  |  |  |  |  |
 | Rifampin600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI: 41% to 53% | Not Assessed |  |  |  |  |  |  |  |  |  |
 | Ritonavir300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI: 15% to 34% | ↔ |  |  |  |  |  |  |  |  |  |
