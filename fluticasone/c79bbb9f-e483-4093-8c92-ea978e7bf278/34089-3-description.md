@@ -12,7 +12,7 @@ Before initial use, prime XHANCE by gently shaking and then pressing the amber g
 Once primed, XHANCE contains 120 metered sprays.
 When XHANCE has not been used for ≥ 7 days, prime again by releasing 2 sprays into the air, away from the face [see Dosage and Administration (2.2) and patient Instructions for Use].
 
-After priming, each spray delivers 93 mcg of fluticasone propionate in 106 mg of aqueous suspension through the cone-shaped nosepiece.
+After priming, each spray delivers 93 mcg of fluticasone propionate in an aqueous suspension through the cone-shaped nosepiece.
 The system also has a flexible mouthpiece.
 Within the device is a non‑removable amber glass bottle with a metering spray pump, an applicator, and a valve that prevents release of breath until the bottle is pressed.
 A base covers the bottom of the bottle, and a removable orange cap covers both the nosepiece and mouthpiece.
