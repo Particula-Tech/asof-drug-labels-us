@@ -1,4 +1,4 @@
-Finasteride tablets 5 mg
+Finasteride Tablets 5 mg
 
 Patient Information about
 
@@ -64,6 +64,7 @@ The following have been reported in general use with finasteride tablets 5 mg an
 
 - allergic reactions, including rash, itching, hives, and swelling of the lips, tongue, throat, and face.
 - rarely, some men may have testicular pain.
+- blood in semen
 - trouble getting or keeping an erection that continued after stopping the medication
 - problems with ejaculation that continued after stopping the medication
 - male infertility and/or poor quality of semen.
@@ -106,6 +107,8 @@ Keep finasteride tablets 5 mg and all medications out of the reach of children.
 Do not give your finasteride tablets 5 mg to anyone else.
 It has been prescribed only for you.
 
+For more information about finasteride tablets 5 mg, call Accord Healthcare Inc. at 1-866-941-7875 or go to www.accordhealthcare.us
+
 What are the ingredients in finasteride tablets 5 mg?
 
 Active ingredients: finasteride
@@ -124,7 +127,7 @@ This can lead to symptoms such as:
 - a need to urinate often, especially at night
 - a feeling that you must urinate right away
 
-In some men, BPH can lead to serious problems, including urinary tract infections as well as the need for surgery.
+In some men, BPH can lead to serious problems, including urinary tract infections, a sudden inability to pass urine (acute urinary retention), as well as the need for surgery.
 
 What finasteride tablets 5 mg do:
 
@@ -140,5 +143,5 @@ However, since each case of BPH is different, you should know that:
 
 Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 009, India.
-10 0716 0 667775 Issued July 2016
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
+10 0716 1 685731 Issued June 2022

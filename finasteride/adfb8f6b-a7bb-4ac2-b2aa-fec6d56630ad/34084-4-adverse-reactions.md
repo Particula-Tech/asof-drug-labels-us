@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Finasteride is generally well tolerated; adverse reactions usually have been mild and transient.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 4-Year Placebo-Controlled Study (a Long-Term Efficacy and Safety Study)
 
@@ -105,6 +105,7 @@ Because these events are reported voluntarily from a population of uncertain siz
 
 - hypersensitivity reactions, such as pruritus, urticaria, and angioedema (including swelling of the lips, tongue, throat, and face)
 - testicular pain
+- hematospermia
 - sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, decreased libido and ejaculation disorders (e.g. reduced ejaculate volume).
   These events were reported rarely in men taking finasteride for the treatment of BPH.
   Most men were older and were taking concomitant medications and/or had co-morbid conditions.

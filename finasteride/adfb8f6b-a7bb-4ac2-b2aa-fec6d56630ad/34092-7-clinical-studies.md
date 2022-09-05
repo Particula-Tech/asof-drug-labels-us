@@ -27,7 +27,7 @@ Effect on the Need for Surgery
 
 In a long-term efficacy and safety study, efficacy was also assessed by evaluating treatment failures.
 Treatment failure was prospectively defined as BPH-related urological events or clinical deterioration, lack of improvement and/or the need for alternative therapy.
-BPH-related urological events were defined as urological surgical intervention.
+BPH-related urological events were defined as urological surgical intervention and acute urinary retention requiring catheterization.
 Complete event information was available for 92% of the patients.
 The following table (Table 5) summarizes the results.
 
@@ -37,6 +37,7 @@ The following table (Table 5) summarizes the results.
 |  | Patients (%) patients with multiple events may be counted more than once for each type of event |  |  |  |  |
 | All Treatment Failures | 37.1 | 26.2 | 0.68 | (0.57 to 0.79) | <0.001 |
 | Surgical Interventions for BPH | 10.1 | 4.6 | 0.45 | (0.32 to 0.63) | <0.001 |
+| Acute Urinary Retention Requiring Catheterization | 6.6 | 2.8 | 0.43 | (0.28 to 0.66) | <0.001 |
 | Two consecutive symptom scores ≥20 | 9.2 | 6.7 |  |  |  |
 | Bladder Stone | 0.4 | 0.5 |  |  |  |
 | Incontinence | 2.1 | 1.7 |  |  |  |
@@ -44,8 +45,8 @@ The following table (Table 5) summarizes the results.
 | UTI | 5.7 | 4.9 |  |  |  |
 | Discontinuation due to worsening of BPH, lack of improvement, or to receive other medical treatment | 21.8 | 13.3 |  |  |  |
 
-Compared with placebo, finasteride was associated with a significantly lower risk for the need for BPH-related surgery [13.2% for placebo vs 6.6% for finasteride; 51% reduction in risk, 95% CI: (34 to 63%)].
-Compared with placebo, finasteride was associated with a significantly lower risk for surgery [10.1% for placebo vs 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)]; see Figure 2.
+Compared with placebo, finasteride was associated with a significantly lower risk for acute urinary retention or the need for BPH-related surgery [13.2% for placebo vs 6.6% for finasteride; 51% reduction in risk, 95% CI: (34 to 63%)].
+Compared with placebo, finasteride was associated with a significantly lower risk for surgery [10.1% for placebo vs 4.6% for finasteride; 55% reduction in risk, 95% CI: (37 to 68%)] and with a significantly lower risk of acute urinary retention [6.6% for placebo vs 2.8% for finasteride; 57% reduction in risk, 95% CI: (34 to 72%)]; see Figures 2 and 3.
 
 Figure 2 Percent of Patients Having Surgery for BPH, Including TURP
 
@@ -61,13 +62,13 @@ Effect on Prostate Volume
 In a long-term efficacy and safety study, prostate volume was assessed yearly by magnetic resonance imaging (MRI) in a subset of patients.
 In patients treated with finasteride who remained on therapy, prostate volume was reduced compared with both baseline and placebo throughout the 4-year study.
 Finasteride decreased prostate volume by 17.9% (from 55.9 mL at baseline to 45.8 mL at 4 years) compared with an increase of 14.1% (from 51.3 mL to 58.5 mL) in the placebo group (p<0.001).
-(See Figure 3.)
+(See Figure 4.)
 
 Results seen in earlier studies were comparable to those seen in a long-term efficacy and safety study.
 Mean prostate volume at baseline ranged between 40 to 50 mL.
 The reduction in prostate volume was seen during the first year and maintained throughout an additional five years of open extension studies.
 
-Figure 3 Prostate Volume in a Long-Term Efficacy and Safety Study
+Figure 4 Prostate Volume in a Long-Term Efficacy and Safety Study
 
 Prostate Volume as a Predictor of Therapeutic Response
 
@@ -89,7 +90,7 @@ Mean maximum urinary flow rate was 10.5 mL/sec (±2.6 mL/sec).
 The mean prostate volume as measured by transrectal ultrasound was 36.3 mL (±20.1 mL).
 Prostate volume was ≤20 mL in 16% of patients, ≥50 mL in 18% of patients and between 21 and 49 mL in 66% of patients.
 
-The primary endpoint was a composite measure of the first occurrence of any of the following five outcomes: a ≥4 point confirmed increase from baseline in symptom score, BPH-related renal insufficiency (creatinine rise), recurrent urinary tract infections or urosepsis, or incontinence.
+The primary endpoint was a composite measure of the first occurrence of any of the following five outcomes: a ≥4 point confirmed increase from baseline in symptom score, acute urinary retention, BPH-related renal insufficiency (creatinine rise), recurrent urinary tract infections or urosepsis, or incontinence.
 Compared to placebo, treatment with finasteride, doxazosin, or combination therapy resulted in a reduction in the risk of experiencing one of these five outcome events by 34% (p=0.002), 39% (p<0.001), and 67% (p<0.001), respectively.
 Combination therapy resulted in a significant reduction in the risk of the primary endpoint compared to treatment with finasteride alone (49%; p≤0.001) or doxazosin alone (46%; p≤0.001).
 (See Table 6.)
@@ -100,21 +101,22 @@ Combination therapy resulted in a significant reduction in the risk of the prima
 | Placebo N=737 | Doxazosin N=756 | Finasteride N=768 | Combination N=786 | Total N=3047 |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | AUA 4-point rise | 100 (13.6) | 59 (7.8) | 74 (9.6) | 41 (5.2) | 274 (9.0) |
+| Acute urinary retention | 18 (2.4) | 13 (1.7) | 6 (0.8) | 4 (0.5) | 41 (1.3) |
 | Incontinence | 8 (1.1) | 11 (1.5) | 9 (1.2) | 3 (0.4) | 31 (1.0) |
 | Recurrent UTI/urosepsis | 2 (0.3) | 2 (0.3) | 0 (0.0) | 1 (0.1) | 5 (0.2) |
 | Creatinine rise | 0 (0.0) | 0 (0.0) | 0 (0.0) | 0 (0.0) | 0 (0.0) |
 | Total Events | 128 (17.4) | 85 (11.2) | 89 (11.6) | 49 (6.2) | 351 (11.5) |
 
 The majority of the events (274 out of 351; 78%) was a confirmed ≥4 point increase in symptom score, referred to as symptom score progression.
-The risk of symptom score progression was reduced by 30% (p=0.016), 46% (p<0.001), and 64% (p<0.001) in patients treated with finasteride, doxazosin, or the combination, respectively, compared to patients treated with placebo (see Figure 4).
+The risk of symptom score progression was reduced by 30% (p=0.016), 46% (p<0.001), and 64% (p<0.001) in patients treated with finasteride, doxazosin, or the combination, respectively, compared to patients treated with placebo (see Figure 5).
 Combination therapy significantly reduced the risk of symptom score progression compared to the effect of finasteride alone (p<0.001) and compared to doxazosin alone (p=0.037).
 
-Figure 4 Cumulative Incidence of a 4-Point Rise in AUA Symptom Score by Treatment Group
+Figure 5 Cumulative Incidence of a 4-Point Rise in AUA Symptom Score by Treatment Group
 
 Treatment with finasteride, doxazosin or the combination of finasteride with doxazosin, reduced the mean symptom score from baseline at year 4.
 Table 7 provides the mean change from baseline for AUA symptom score by treatment group for patients who remained on therapy for four years.
 
-| Table 7: Change from Baseline in AUA Symptom Score by Treatment Group at Year 4 in MTOPS |  |  |  |  |
+| Table 7: Change From Baseline in AUA Symptom Score by Treatment Group at Year 4 in MTOPS |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Placebo N=534 | Doxazosin N=582 | Finasteride N=565 | Combination N=598 |
 | Baseline Mean (SD) | 16.8 (6.0) | 17.0 (5.9) | 17.1 (6.0) | 16.8 (5.8) |
@@ -123,8 +125,9 @@ Table 7 provides the mean change from baseline for AUA symptom score by treatmen
 | Comparison to Doxazosin alone (95% CI) |  |  |  | -0.7 (-1.4, 0.0) |
 | Comparison to Finasteride alone (95% CI) |  |  |  | -1.8 (-2.5, -1.1) |
 
-The results of MTOPS are consistent with the findings of the 4-year, placebo-controlled study a long-term efficacy and safety study [see Clinical Studies (14.1)] in that treatment with finasteride reduces the need for BPH-related surgery.
-The risk of requiring BPH-related invasive therapy was reduced by 64% in patients treated with finasteride compared to patients treated with placebo (2.0% for finasteride and 5.4% for placebo).
+The results of MTOPS are consistent with the findings of the 4-year, placebo-controlled study a long-term efficacy and safety study [see Clinical Studies (14.1)] in that treatment with finasteride reduces the risk of acute urinary retention and the need for BPH-related surgery.
+In MTOPS, the risk of developing acute urinary retention was reduced by 67% in patients treated with finasteride compared to patients treated with placebo (0.8% for finasteride and 2.4% for placebo).
+Also, the risk of requiring BPH-related invasive therapy was reduced by 64% in patients treated with finasteride compared to patients treated with placebo (2.0% for finasteride and 5.4% for placebo).
 
 ## 14.3 Summary of Clinical Studies
 
