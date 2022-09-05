@@ -25,5 +25,5 @@ Animals
 
 Studies in rodents and primates demonstrated that bupropion exhibits some pharmacologic actions common to psychostimulants.
 In rodents, it has been shown to increase locomotor activity, elicit a mild stereotyped behavior response, and increase rates of responding in several schedule‑controlled behavior paradigms.
-In primate models assessing the positive reinforcing effects of psychoactive drugs, bupropion was self-administered intravenously.
+In primate models assessing the positive-reinforcing effects of psychoactive drugs, bupropion was self-administered intravenously.
 In rats, bupropion produced amphetamine-like and cocaine-like discriminative stimulus effects in drug discrimination paradigms used to characterize the subjective effects of psychoactive drugs.
