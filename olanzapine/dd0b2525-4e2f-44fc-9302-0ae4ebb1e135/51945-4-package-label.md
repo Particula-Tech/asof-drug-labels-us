@@ -4,8 +4,6 @@ NDC 0093-5245-65
 
 Olanzapine Orally Disintegrating Tablets, USP 5 mg
 
-Print Medication Guides at: www.tevausa.com/medguides.
-
 Each tablet contains: olanzapine, USP 5 mg
 
 Phenylketonurics: contains phenylalanine 1 mg per tablet.
@@ -21,8 +19,6 @@ Rx only
 NDC 0093-5246-65
 
 Olanzapine Orally Disintegrating Tablets, USP 10 mg
-
-Print Medication Guides at: www.tevausa.com/medguides.
 
 Each tablet contains: olanzapine, USP 10 mg
 
@@ -40,8 +36,6 @@ NDC 0093-5247-65
 
 Olanzapine Orally Disintegrating Tablets, USP 15 mg
 
-Print Medication Guides at: www.tevausa.com/medguides.
-
 Each tablet contains: olanzapine, USP 15 mg
 
 Phenylketonurics: contains phenylalanine 3 mg per tablet.
@@ -57,8 +51,6 @@ Rx only
 NDC 0093-5248-65
 
 Olanzapine Orally Disintegrating Tablets, USP 20 mg
-
-Print Medication Guides at: www.tevausa.com/medguides.
 
 Each tablet contains: olanzapine, USP 20 mg
 
