@@ -6,12 +6,12 @@
 
 ## 7.2 Serotonergic Drugs
 
-[See Dosage and Administration (2.5and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
+[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
 
 ## 7.3 Triptans
 
 There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of escitalopram oxalate with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
+If concomitant treatment of escitalopram with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
 
 ## 7.4 CNS Drugs
 
@@ -19,18 +19,18 @@ Given the primary CNS effects of escitalopram, caution should be used when it is
 
 ## 7.5 Alcohol
 
-Although escitalopram oxalate did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram oxalate is not recommended.
+Although escitalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram is not recommended.
 
 ## 7.6 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when escitalopram oxalate is initiated or discontinued.
+Patients receiving warfarin therapy should be carefully monitored when escitalopram is initiated or discontinued.
 
 ## 7.7 Cimetidine
 
-In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg/day cimetidine for 8 days resulted in an increase in citalopram AUC and C max of 43% and 39%, respectively.
+In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and C max of 43% and 39%, respectively.
 The clinical significance of these findings is unknown.
 
 ## 7.8 Digoxin
@@ -41,7 +41,7 @@ In subjects who had received 21 days of 40 mg/day racemic citalopram, combined a
 
 Coadministration of racemic citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
 Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
-Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when escitalopram oxalate and lithium are coadministered.
+Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when escitalopram and lithium are coadministered.
 
 ## 7.10 Pimozide and Celexa
 
@@ -97,9 +97,9 @@ Nevertheless, caution is indicated in the coadministration of escitalopram and d
 
 ## 7.20 Metoprolol
 
-Administration of 20 mg/day escitalopram oxalate for 21 days in healthy volunteers resulted in a 50% increase in C max and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
+Administration of 20 mg/day escitalopram for 21 days in healthy volunteers resulted in a 50% increase in C max and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
-Coadministration of escitalopram oxalate and metoprolol had no clinically significant effects on blood pressure or heart rate.
+Coadministration of escitalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
 
 ## 7.21 Electroconvulsive Therapy (ECT)
 
