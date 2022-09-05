@@ -16,11 +16,9 @@ Physicians administering BOTOX must understand the relevant neuromuscular and st
 
 Do not use BOTOX and contact Allergan (1-800-890-4345) if:
 
-• the carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
-
-• the vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
-
-• the U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
+- the carton labeling does not contain an intact seal with a translucent silver Allergan logo (on both ends of the carton) or the seal has a black circle with a diagonal line through it (i.e., prohibition sign),
+- the vial label does not contain a holographic film containing the name “Allergan” within rainbow colored horizontal lines, or
+- the U.S. License number 1145 is not present on the vial label and carton labeling [see How Supplied/Storage and Handling (16)].
 
 ## 2.2Preparation and Dilution Technique
 
@@ -139,36 +137,25 @@ Patients on anti-coagulant therapy need to be managed appropriately to decrease 
 
 Appropriate caution should be exercised when performing a cystoscopy.
 
-• In patients 5 years to less than 12 years of age: Consider general anesthesia (or conscious sedation) prior to injection, per local site practice.
-
-• In patients 12 years of age or older: Consider an intravesical instillation of diluted local anesthetic with or without sedation, or general anesthesia prior to injection, per local site practice.
+- In patients 5 years to less than 12 years of age: Consider general anesthesia (or conscious sedation) prior to injection, per local site practice.
+- In patients 12 years of age or older: Consider an intravesical instillation of diluted local anesthetic with or without sedation, or general anesthesia prior to injection, per local site practice.
 
 At a minimum, consider a diluted instillation of local anesthetic for all age groups.
 If a local anesthetic instillation is performed, drain and irrigate the bladder with sterile saline before injection.
 
-If patient’s body weight is greater than or equal to 34 kg, the recommended dosage is 200 Units of BOTOX per treatment administered as an intradetrusor injection after dilution: • Reconstitute BOTOX to result in 20 Units BOTOX/mL in the vial(s):
+If patient’s body weight is greater than or equal to 34 kg, the recommended dosage is 200 Units of BOTOX per treatment administered as an intradetrusor injection after dilution:
 
-○ BOTOX 200 Unit vial: add 10 mL of preservative-free 0.9% Sodium Chloride Injection, USP and mix the vial gently.
-
-○ BOTOX 100 Unit vials: add 5 mL of preservative-free 0.9% Sodium Chloride Injection, USP to each of two 100 Unit vials of BOTOX and mix the vials gently.
-
-• Draw 10 mL from the vial(s) into one 10 mL dosing syringe.
-
-• Use immediately after reconstitution in the syringe.
-Dispose of any unused saline.
+- Reconstitute BOTOX to result in 20 Units BOTOX/mL in the vial(s): ◦ BOTOX 200 Unit vial: add 10 mL of preservative-free 0.9% Sodium Chloride Injection, USP and mix the vial gently. ◦ BOTOX 100 Unit vials: add 5 mL of preservative-free 0.9% Sodium Chloride Injection, USP to each of two 100 Unit vials of BOTOX and mix the vials gently.
+- Draw 10 mL from the vial(s) into one 10 mL dosing syringe.
+- Use immediately after reconstitution in the syringe.
+  Dispose of any unused saline.
 
 If patient’s body weight is less than 34 kg, the recommended dosage is 6 Units/kg body weight administered as a bladder injection after dilution (refer to Table 2):
 
-• Reconstitute BOTOX to result in 20 Units BOTOX/mL in the vial(s):
-
-○ BOTOX 200 Unit vial: add 10 mL of preservative-free 0.9% Sodium Chloride Injection, USP and mix the vial gently.
-
-○ BOTOX 100 Unit vial(s): add 5 mL of preservative-free 0.9% Sodium Chloride Injection, USP to one 100 Unit vial of BOTOX (if final dose is less than or equal to100 U) or to each of two 100 Unit vials of BOTOX (if final dose is greater than 100 U) and mix the vial(s) gently.
-
-• Refer to Table 2 for dilution instructions (i.e., the amount of reconstituted BOTOX and additional diluent to draw into one 10 mL dosing syringe).
-
-• Use BOTOX immediately after reconstitution in the syringe.
-Dispose of any unused preservative-free 0.9% Sodium Chloride Injection, USP.
+- Reconstitute BOTOX to result in 20 Units BOTOX/mL in the vial(s): ◦ BOTOX 200 Unit vial: add 10 mL of preservative-free 0.9% Sodium Chloride Injection, USP and mix the vial gently. ◦ BOTOX 100 Unit vial(s): add 5 mL of preservative-free 0.9% Sodium Chloride Injection, USP to one 100 Unit vial of BOTOX (if final dose is less than or equal to 100 U) or to each of two 100 Unit vials of BOTOX (if final dose is greater than 100 U) and mix the vial(s) gently.
+- Refer to Table 2 for dilution instructions (i.e., the amount of reconstituted BOTOX and additional diluent to draw into one 10 mL dosing syringe).
+- Use BOTOX immediately after reconstitution in the syringe.
+  Dispose of any unused preservative-free 0.9% Sodium Chloride Injection, USP.
 
 Table 2: BOTOX Dilution Instructions and Final Dosing for Patients with Body Weight < 34 kg
 

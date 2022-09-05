@@ -359,9 +359,9 @@ The duration of follow-up in Study 4 and Study 5 was 12 weeks.
 
 Table 37: BOTOX Dose and Injection Sites in Studies 4 and 5
 
-| Muscles Injected | Study 4 |  | Study 5 |  |  |  | Number of Injection Sites for Studies 4 and 5 |
+|  | Study 4 |  | Study 5 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | BOTOX (Units) | Volume (mL) | BOTOX low dose (Units) | BOTOX high dose (Units) | Volume low dose (mL) | Volume high dose (mL) |  |
+| Muscles Injected | BOTOX (Units) | Volume (mL) | BOTOX low dose (Units) | BOTOX high dose (Units) | Volume low dose (mL) | Volume high dose (mL) | Number of Injection Sites for Studies 4 and 5 |
 | Thumb Adductor Pollicis | 20 | 0.4 | 15 | 20 | 0.3 | 0.4 | 1 |
 | Flexor Pollicis Longus | 20 | 0.4 | 15 | 20 | 0.3 | 0.4 | 1 |
 
@@ -654,7 +654,7 @@ Table 50: Study 1 - Study Outcomes
 
 | Treatment Response | BOTOX 50 Units (N=104) | BOTOX 75 Units (N=110) | Placebo (N=108) | BOTOX 50-placebo (95% CI) | BOTOX 75-placebo (95% CI) |
 | --- | --- | --- | --- | --- | --- |
-| HDSS Score change >2 (n)a | 55% (57) | 49% (54) | 6% (6) | 49.3% (38.8, 59.7) | 43% (33.2, 53.8) |
+| HDSS Score change ≥2 (n)a | 55% (57) | 49% (54) | 6% (6) | 49.3% (38.8, 59.7) | 43% (33.2, 53.8) |
 | >50% decrease in axillary sweat production % (n) | 81% (84) | 86% (94) | 41% (44) | 40% (28.1, 52.0) | 45% (33.3, 56.1) |
 
 a Patients who showed at least a 2-grade improvement from baseline value on the HDSS 4 weeks after both of the first two treatment sessions or had a sustained response after their first treatment session and did not receive re-treatment during the study.

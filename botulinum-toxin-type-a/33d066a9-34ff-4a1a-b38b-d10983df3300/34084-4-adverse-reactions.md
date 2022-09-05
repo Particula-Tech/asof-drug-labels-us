@@ -153,7 +153,7 @@ The most frequently reported adverse reactions following injection of BOTOX for 
 Two hundred thirty-one patients enrolled in a double-blind placebo controlled study (Study 7) received 300 Units to 400 Units of BOTOX, and were compared with 233 patients who received placebo.
 Patients were followed for an average of 91 days after injection.
 
-Table 21:Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Adult Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 7)
+Table 21: Adverse Reactions Reported by ≥2% of BOTOX Treated Patients and More Frequent than in Placebo-Treated Patients in Adult Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 7)
 
 | Adverse Reactions | BOTOX (N=231) % | Placebo (N=233) % |
 | --- | --- | --- |
@@ -187,7 +187,7 @@ The most frequently reported adverse reactions following injection of BOTOX in p
 In a double-blind, placebo-controlled trial (Study 2), 126 patients were treated with 4 Units/kg of BOTOX, and 128 patients received 8 Units/kg to a maximum dose of 300 Units of BOTOX, and were compared to 128 patients who received placebo [see Clinical Studies (14.6)].
 Patients were followed for an average of 89 days after injection.
 
-Table 23: Adverse Reactions Reported by >2% of BOTOX 8 Units/kg Treated Patients and More Frequent than in Placebo-Treated Patients in Pediatric Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 2)
+Table 23: Adverse Reactions Reported by ≥2% of BOTOX 8 Units/kg Treated Patients and More Frequent than in Placebo-Treated Patients in Pediatric Lower Limb Spasticity Double-Blind, Placebo-Controlled Clinical Trial (Study 2)
 
 | Adverse Reactions | BOTOX 8 Units/kg (N=128) % | BOTOX 4 Units/kg (N=126) % | Placebo (N=128) % |
 | --- | --- | --- | --- |

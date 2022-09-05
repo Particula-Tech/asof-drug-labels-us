@@ -14,22 +14,14 @@ Voiding Symptoms after Bladder Injections
 
 After bladder injections for urinary incontinence, advise patients to contact their physician if they experience difficulties in voiding or burning sensation upon voiding.
 
-Manufactured by: Allergan Pharmaceuticals Ireland
+Manufactured by: Allergan Pharmaceuticals Ireland a subsidiary of: Allergan, Inc. U.S. License Number 1145
 
-a subsidiary of: Allergan, Inc.
+Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-U.S. License Number 1145
-
-Distributed by: Allergan USA, Inc.
-
-Madison, NJ 07940
-
-© 2021 Allergan.
+© 2022 Allergan.
 All rights reserved.
-
 All trademarks are the property of their respective owners.
-
 Patented.
 See: www.allergan.com/patents
 
-v8.0USPI1145
+v8.1USPI1145
