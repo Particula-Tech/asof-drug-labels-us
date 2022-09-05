@@ -1,9 +1,9 @@
-Manufactured by Perrigo
+Manufactured by Padagis
 
 Minneapolis, MN 55427
 
-2203556
+2204610
 
-7H800 RC J4
+7H800 RC J6
 
-Rev 04-17 D
+Rev 08-22 A

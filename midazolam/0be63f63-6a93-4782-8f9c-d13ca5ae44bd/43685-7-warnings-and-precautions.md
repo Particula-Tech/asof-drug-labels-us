@@ -12,20 +12,20 @@ Patients should be continuously monitored for early signs of hypoventilation, ai
 Hypoventilation, airway obstruction, and apnea can lead to hypoxia and/or cardiac arrest unless effective countermeasures are taken immediately.
 The immediate availability of specific reversal agents (flumazenil) is highly recommended.
 Vital signs should continue to be monitored during the recovery period.
-Because midazolam can depress respiration (see CLINICAL PHARMACOLOGY), especially when used concomitantly with opioid agonists and other sedatives (see DOSAGE AND ADMINISTRATION), it should be used for sedation/anxiolysis/amnesia only in the presence of personnel skilled in early detection of hypoventilation, maintaining a patent airway, and supporting ventilation.
+Because midazolam can depress respiration [see CLINICAL PHARMACOLOGY], especially when used concomitantly with opioid agonists and other sedatives [see DOSAGE AND ADMINISTRATION], it should be used for sedation/anxiolysis/amnesia only in the presence of personnel skilled in early detection of hypoventilation, maintaining a patent airway, and supporting ventilation.
 
 Episodes of oxygen desaturation, respiratory depression, apnea, and airway obstruction have been occasionally reported following premedication (sedation prior to induction of anesthesia) with oral midazolam; such events are markedly increased when oral midazolam is combined with other central nervous system depressing agents and in patients with abnormal airway anatomy, patients with cyanotic congenital heart disease, or patients with sepsis or severe pulmonary disease.
 
-Risks From Concomitant Use With Opioids
+Risks from Concomitant Use with Opioids
 
-Concomitant use of benzodiazepines, including midazolam, and opioids may result in profound sedation, respiratory depression, coma, and death.
-If a decision is made to use midazolam concomitantly with opioids, monitor patients for respiratory depression and sedation (see PRECAUTIONS/Drug Interactions).
+Concomitant use of benzodiazepines, including midazolam, and opioids may result in profound sedation, respiratory depression, coma and death.
+If a decision is made to use midazolam concomitantly with opioids, monitor patients for respiratory depression and sedation [see PRECAUTIONS/Drug Interactions].
 
 Risk of Respiratory Adverse Events
 
 Serious respiratory adverse events have occurred after administration of oral midazolam, most often when midazolam was used in combination with other central nervous system depressants.
-These adverse events have included respiratory depression, airway obstruction, oxygen desaturation, apnea, and rarely, respiratory and/or cardiac arrest (see BOX WARNING).
-When oral midazolam is administered as the sole agent at recommended doses respiratory depression, airway obstruction, oxygen desaturation, and apnea occur infrequently (see DOSAGE AND ADMINISTRATION).
+These adverse events have included respiratory depression, airway obstruction, oxygen desaturation, apnea, and rarely, respiratory and/or cardiac arrest [see BOX WARNING].
+When oral midazolam is administered as the sole agent at recommended doses respiratory depression, airway obstruction, oxygen desaturation, and apnea occur infrequently [see DOSAGE AND ADMINISTRATION].
 
 Prior to the administration of midazolam in any dose, the immediate availability of oxygen, resuscitative drugs, age- and size-appropriate equipment for bag/valve/mask ventilation and intubation, and skilled personnel for the maintenance of a patent airway and support of ventilation should be ensured.
 
@@ -46,9 +46,9 @@ Concomitant Use of Central Nervous System Depressants
 Concomitant use of barbiturates, alcohol or other central nervous system depressants may increase the risk of hypoventilation, airway obstruction, desaturation, or apnea and may contribute to profound and/or prolonged drug effect.
 Narcotic premedication also depresses the ventilatory response to carbon dioxide stimulation.
 
-Drug-Drug-Interactions
+Drug-Drug Interactions
 
-Coadministration of oral midazolam in patients who are taking ketoconazole and intraconazole, and saquinavir has been shown to result in large increases in Cmax and AUC of midazolam due to a decrease in plasma clearance of midazolam (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations: Drug-Drug Interactions and PRECAUTIONS).
+Coadministration of oral midazolam in patients who are taking ketoconazole and intraconazole, and saquinavir has been shown to result in large increases in Cmax and AUC of midazolam due to a decrease in plasma clearance of midazolam [see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations: Drug-Drug Interactions and PRECAUTIONS].
 Due to the potential for intense and prolonged sedation and respiratory depression, midazolam syrup should only be coadministered with these medications if absolutely necessary and with appropriate equipment and personnel available to respond to respiratory insufficiency.
 
 Debilitation and Comorbidity Considerations
@@ -56,20 +56,20 @@ Debilitation and Comorbidity Considerations
 Higher risk pediatric surgical patients may require lower doses, whether or not concomitant sedating medications have been administered.
 Pediatric patients with cardiac or respiratory compromise may be unusually sensitive to the respiratory depressant effect of midazolam.
 Pediatric patients undergoing procedures involving the upper airway such as upper endoscopy or dental care, are particularly vulnerable to episodes of desaturation and hypoventilation due to partial airway obstruction.
-Patients with chronic renal failure and patients with congestive heart failure eliminate midazolam more slowly (see CLINICAL PHARMACOLOGY).
+Patients with chronic renal failure and patients with congestive heart failure eliminate midazolam more slowly [see CLINICAL PHARMACOLOGY].
 
-Return to Full Cognitive Function
+Return to Cognitive Function
 
 Midazolam is associated with a high incidence of partial or complete impairment of recall for the next several hours.
 The decision as to when patients who have received midazolam HCl syrup, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
-Gross tests of recovery from the effects of midazolam HCl syrup (see CLINICAL PHARMACOLOGY) cannot be relied upon to predict reaction time under stress.
+Gross tests of recovery from the effects of midazolam HCl syrup [see CLINICAL PHARMACOLOGY] cannot be relied upon to predict reaction time under stress.
 It is recommended that no patient operate hazardous machinery or a motor vehicle until the effects of the drug, such as drowsiness, have subsided or until one full day after anesthesia and surgery, whichever is longer.
 Particular care should be taken to assure safe ambulation.
 
-Usage in Pregnancy
+Neonatal Sedation and Withdrawal Syndrome
 
-Although midazolam HCl syrup has not been studied in pregnant patients, an increased risk of congenital malformations associated with the use of benzodiazepine drugs (diazepam and chlordiazepoxide) have been suggested in several studies.
-If this drug is used during pregnancy, the patient should be apprised of the potential hazard to the fetus.
+Use of midazolam HCl syrup late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to midazolam HCl syrup during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam HCl syrup during pregnancy for signs of withdrawal; manage these infants accordingly.
 
 Usage in Preterm Infants and Neonates
 
@@ -79,12 +79,12 @@ Pediatric Neurotoxicity
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (See PRECAUTIONS/ Pregnancy and Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans [see PRECAUTIONS; Pregnancy, Pediatric Use and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY].
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
 
-Anesthetic and sedation drugs are a necessary part of the care of children needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
+Anesthetic and sedation drugs are a necessary part of the care of children and pregnant women needing surgery, other procedures, or tests that cannot be delayed, and no specific medications have been shown to be safer than any other.
 Decisions regarding the timing of any elective procedures requiring anesthesia should take into consideration the benefits of the procedure weighed against the potential risks.
 
 # PRECAUTIONS
@@ -93,7 +93,7 @@ General
 
 The efficacy and safety of midazolam in clinical use are functions of the dose administered, the clinical status of the individual patient, and the use of concomitant medications capable of depressing the CNS.
 Anticipated effects may range from mild sedation to deep levels of sedation with a potential loss of protective reflexes, particularly when coadministered with anesthetic agents or other CNS depressants.
-Care must be taken to individualize the dose of midazolam based on the patient’s age, underlying medical/surgical conditions, concomitant medications, and to have the personnel, age- and size- appropriate equipment and facilities available for monitoring and intervention.
+Care must be taken to individualize the dose of midazolam HCl syrup based on the patient’s age, underlying medical/surgical conditions, concomitant medications, and to have the personnel, age- and size-appropriate equipment and facilities available for monitoring and intervention.
 Practitioners administering midazolam must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
 
 ## Information for Patients
@@ -108,10 +108,22 @@ To assure safe and effective use of midazolam HCl syrup, the following informati
    The decision as to when patients who have received midazolam HCl syrup, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 5. 5.Midazolam HCl syrup should not be taken in conjunction with grapefruit juice.
 6. 6.For pediatric patients, particular care should be taken to assure safe ambulation.
-7. 7.Effect of anesthetic and sedation drugs on early brain development:
+7. 7.Effect of Anesthetic and Sedation Drugs on Early Brain Development: Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+   Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
 
-Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
-Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
+Pregnancy
+
+Advise pregnant females that use of midazolam HCl syrup late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to midazolam HCl syrup during pregnancy (see Precautions, Pregnancy).
+
+Nursing
+
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients receiving midazolam to monitor infants for excessive sedation, poor feeding, and poor weight gain, and to seek medical attention if they notice these signs.
+A lactating woman may consider pumping and discarding breastmilk for at least 4 to 8 hours after receiving midazolam for sedation or anesthesia to minimize drug exposure to a breastfed infant (see Precautions, Nursing Mothers).
 
 ## Drug Interactions
 
@@ -128,7 +140,7 @@ One case was reported of inadequate sedation with chloral hydrate and later with
 The difficulty in achieving adequate sedation may have been the result of decreased absorption of the sedatives due to both the gastrointestinal effects and stimulant effects of methylphenidate.
 
 The sedative effect of midazolam HCl syrup is accentuated by any concomitantly administered medication which depresses the central nervous system, particularly opioids (e.g., morphine, meperidine, and fentanyl), propofol, ketamine, nitrous oxide, secobarbital and droperidol.
-Consequently, the dose of midazolam HCl syrup should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response (see DOSAGE AND ADMINISTRATION).
+Consequently, the dose of midazolam HCl syrup should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response [see DOSAGE AND ADMINISTRATION].
 
 No significant adverse interactions with common premedications (such as atropine, scopolamine, glycopyrrolate, diazepam, hydroxyzine, and other muscle relaxants) or local anesthetics have been observed.
 
@@ -137,9 +149,9 @@ Inhibitors of CYP3A4 Isozymes
 Caution is advised when midazolam is administered concomitantly with drugs that are known to inhibit the cytochrome P450 3A4 enzyme system (ie, some drugs in the drug classes of azole antimycotics, protease inhibitors, calcium channel antagonists, and macrolide antibiotics).
 Drugs such as diltiazem, erythromycin, fluconazole, itraconazole, ketoconazole, saquinavir, and verapamil were shown to significantly increase the Cmax and AUC of orally administered midazolam.
 These drug interactions may result in increased and prolonged sedation due to a decrease in plasma clearance of midazolam.
-Although not studied, the potent cytochrome P450 3A4 inhibitors ritanovir and nelfinavir may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of midazolam.
+Although not studied, the potent cytochrome P450 3A4 inhibitors ritonavir and nelfinavir may cause intense and prolonged sedation and respiratory depression due to a decrease in plasma clearance of midazolam.
 Caution is advised when midazolam HCl syrup is used concomitantly with these drugs.
-Dose adjustments should be considered and possible prolongation and intensity of effect should be anticipated (see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations: Drug-Drug Interactions).
+Dose adjustments should be considered and possible prolongation and intensity of effect should be anticipated [see CLINICAL PHARMACOLOGY: Pharmacokinetics: Special Populations: Drug-Drug Interactions].
 
 Inducers of CYP3A4 Isozymes
 
@@ -164,7 +176,7 @@ These tumors were found after chronic administration, whereas human use will ord
 
 Mutagenesis
 
-Midazolam did not have mutagenic activity in Salmonella typhimurium (5 bacterial strains), Chinese hamster lung cells (V79), human lymphocytes or in the micronucleus test in mice.
+Midazolam HCl syrup did not have mutagenic activity in Salmonella typhimurium (5 bacterial strains), Chinese hamster lung cells (V79), human lymphocytes or in the micronucleus test in mice.
 
 Impairment of Fertility
 
@@ -173,20 +185,38 @@ There were no adverse effects on either male or female fertility noted.
 
 ## Pregnancy
 
-### Teratogenic Effects
+Pregnancy Exposure Registry
 
-#### Pregnancy Category D (see WARNINGS).
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including midazolam HCl syrup, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
 
-Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
-There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans (see Data).
+Risk Summary
+
+Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to midazolam HCl syrup during pregnancy and labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to midazolam HCl syrup during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
 
 Data
 
-Animal Data
+Human Data
 
-Pregnant mice were treated with midazolam using oral doses of 30, 60, and 120 mg/kg (2.4, 4.9, and 9.7 times the human dose of 1 mg/kg based on body surface area) during the period of organogenesis (Gestation Day 6 through 15).
-Midazolam did not cause adverse effects on the fetus at doses up to 9.7 times the human dose of 1 mg/kg).
-In dams allowed to litter, there were no adverse effects on pup survival or growth.
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+Animal Data
 
 Pregnant rats were treated with midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 7 through 15).
 Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human induction dose.
@@ -197,34 +227,28 @@ Pregnant rabbits were treated with midazolam using intravenous doses of 0.2, 0.6
 Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human induction dose.
 The high dose was associated with findings of ataxia and sedation but no evidence of maternal toxicity.
 
-Pregnant rabbits were treated with midazolam using oral doses of 25, 50, and 100 mg/kg/day (8, 16, and 32 times the human dose of 1.0 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 6 to 18).
-Midazolam decreased fetal body weight and decreased maternal weight gain in a dose dependent manner.
-
 Pregnant rats were administered midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation Day 21).
 All doses produced ataxia.
 The high dose produced a slight decrease in maternal body weight gain compared to control.
 There were no clear adverse effects noted in the offspring.
 The study included no functional assessments of the pups, such as learning and memory testing or reproductive capacity.
 
-Pregnant rats were administered midazolam using oral doses of 10, 25, and 50 mg/kg (1.6, 4.1, and 8.1 times the human dose of 1 mg/kg based on body surface area comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation Day 20).
-No adverse effects on fetal development or pup viability or growth were noted.
-
 In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (See Warnings/ Pediatric Neurotoxicity, Precautions/Pediatric Use, and Animal Pharmacology and/or Toxicology).
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use, and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY).
 
-## Labor and Delivery
+Nursing Mothers
 
-In humans, measurable levels of midazolam were found in maternal venous serum, umbilical venous and arterial serum and amniotic fluid, indicating placental transfer of the drug.
+Risk Summary
 
-The use of midazolam HCl syrup in obstetrics has not been evaluated in clinical studies.
-Because midazolam is transferred transplacentally and because other benzodiazepines given in the last weeks of pregnancy have resulted in neonatal CNS depression, midazolam syrup is not recommended for obstetrical use.
+There are reports of sedation, poor feeding, and poor weight gain in infants exposed to benzodiazepines through breast milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for midazolam HCl syrup and any potential adverse effects on the breastfed infant from midazolam HCl syrup or from the underlying maternal condition.
 
-## Nursing Mothers
+Clinical Considerations
 
-Midazolam is excreted in human milk.
-Caution should be exercised when midazolam syrup is administered to a nursing woman.
+Infants exposed to midazolam HCl syrup through breast milk should be monitored for sedation, poor feeding and poor weight gain.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment for a range of at least 4 to 8 hours after midazolam administration in order to minimize drug exposure to a breastfed infant.
 
 ## Pediatric Use
 
@@ -234,7 +258,7 @@ Based on comparisons across species, the window of vulnerability to these change
 In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
 Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
 The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data.
-(See WARNINGS/ Pediatric Neurotoxicity, PRECAUTIONS/ Pregnancy, and Pediatric Use, ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY).
+[See WARNINGS; Pediatric Neurotoxicity, PRECAUTIONS; Pregnancy, and Pediatric Use, and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY].
 
 ## Geriatric Use
 

@@ -23,7 +23,7 @@ Partial or complete impairment of recall following oral midazolam has been demon
 Amnesia for the surgical experience was greater after oral midazolam when used as a premedicant than after placebo and was generally considered a benefit.
 In one study, 69% of midazolam patients did not remember mask application versus 6% of placebo patients.
 
-Episodes of oxygen desaturation, respiratory depression, apnea, and airway obstruction have been reported in <1% of pediatric patients following premedication (eg, sedation prior to induction of anesthesia) with midazolam HCl syrup; the potential for such adverse events are markedly increased when oral midazolam is combined with other central nervous system depressing agents and in patients with abnormal airway anatomy, patients with cyanotic congenital heart disease, or patients with sepsis or severe pulmonary disease (see WARNINGS).
+Episodes of oxygen desaturation, respiratory depression, apnea, and airway obstruction have been reported in <1% of pediatric patients following premedication (eg, sedation prior to induction of anesthesia) with midazolam HCl syrup; the potential for such adverse events are markedly increased when oral midazolam is combined with other central nervous system depressing agents and in patients with abnormal airway anatomy, patients with cyanotic congenital heart disease, or patients with sepsis or severe pulmonary disease [see WARNINGS].
 
 Concomitant use of barbiturates or other central nervous system depressants may increase the risk of hypoventilation, airway obstruction, desaturation or apnea, and may contribute to profound and/or prolonged drug effect.
 In one study of pediatric patients undergoing elective repair of congenital cardiac defects, premedication regimens (oral dose of 0.75 mg/kg midazolam or IM morphine plus scopolamine) increased transcutaneous carbon dioxide (PtcCO2), decreased SpO2 (as measured by pulse oximetry), and decreased respiratory rates preferentially in patients with pulmonary hypertension.
@@ -47,15 +47,14 @@ Food effect has not been tested using midazolam HCl syrup.
 When a 15 mg oral tablet of midazolam was administered with food to adults, the absorption and disposition of midazolam was not affected.
 Feeding is generally contraindicated prior to sedation of pediatric patients for procedures.
 
-Table 1.
-Pharmacokinetics of MidazolamFollowing Single Dose Administration of Midazolam HCl Syrup
+Table 1: Pharmacokinetics of Midazolam Following Single Dose Administration of Midazolam Hydrochloride Syrup
 
-| Number of Subjects/age group | Dose(mg/kg) | Tmax(h) | Cmax(ng/mL) | T1/2(h) | AUC0-∞(ng•h/mL) |
+| Number of subjects/age group | Dose(mg/kg) | Tmax(h) | Cmax(ng/mL) | t1/2(h) | AUC0-∞(ng•h/mL) |
 | --- | --- | --- | --- | --- | --- |
 | 6 months to <2 years old |  |  |  |  |  |
 | 1 | 0.25 | 0.17 | 28.0 | 5.82 | 67.6 |
 | 1 | 0.50 | 0.35 | 66.0 | 2.22 | 152 |
-| 1 | 1.00 | 0.17 | 61.2 | 2.697 | 224 |
+| 1 | 1.00 | 0.17 | 61.2 | 2.97 | 224 |
 | 2 to <12 years old |  |  |  |  |  |
 | 18 | 0.25 | 0.72 ± 0.44 | 63.0 ± 30.0 | 3.16 ± 1.50 | 138 ± 89.5 |
 | 18 | 0.50 | 0.95 ± 0.53 | 126 ± 75.8 | 2.71 ± 1.09 | 306 ± 196 |
@@ -92,7 +91,7 @@ In the same group of patients receiving the 0.15 mg/kg IV dose, the mean total c
 
 Pharmacokinetic-Pharmacodynamic Relationships
 
-The relationship between plasma concentration and sedation and anxiolysis scores of midazolam syrup (single oral doses of 0.25, 0.5, or 1.0 mg/kg) was investigated in three age groups of pediatric patients (6 months to <2 years, 2 to <12 years, and 12 to <16 years old).
+The relationship between plasma concentration and sedation and anxiolysis scores of midazolam HCl syrup (single oral doses of 0.25, 0.5, or 1.0 mg/kg) was investigated in three age groups of pediatric patients (6 months to <2 years, 2 to <12 years, and 12 to <16 years old).
 In this study, the patient’s sedation scores were recorded at baseline and at 10-minute intervals up to 30 minutes after oral dosing until satisfactory sedation (“drowsy” or “asleep but responsive to mild shaking” or “asleep and not responsive to mild shaking”) was achieved.
 Anxiolysis scores were measured at the time when the patient was separated from his/her parents and at mask induction.
 The results of the analyses showed that the mean midazolam plasma concentration as well as the mean of midazolam plus α-hydroxymidazolam for those patients with a sedation score of 4 (asleep but responsive to mild shaking) is significantly different than the mean concentrations for those patients with a sedation score of 3 (drowsy), which is significantly different than the mean concentrations for patients with a sedation score of 2 (awake/calm).
@@ -101,25 +100,17 @@ No such trend was observed between anxiolysis scores and the mean midazolam conc
 
 Special Populations
 
-Renal Impairment
-
-Although the pharmacokinetics of intravenous midazolam in adult patients with chronic renal failure differed from those of subjects with normal renal function, there were no alterations in the distribution, elimination, or clearance of unbound drug in the renal failure patients.
+Renal Impairment: Although the pharmacokinetics of intravenous midazolam in adult patients with chronic renal failure differed from those of subjects with normal renal function, there were no alterations in the distribution, elimination, or clearance of unbound drug in the renal failure patients.
 However, the effects of renal impairment on the active metabolite α-hydroxymidazolam are unknown.
 
-Hepatic Impairment
-
-Chronic hepatic disease alters the pharmacokinetics of midazolam.
-Following oral administration of 15 mg of midazolam, Cmax and bioavailability values were 43% and 100% higher, respectively, in adult patients with hepatic cirrhosis than adult subjects with normal liver function.
+Hepatic Dysfunction: Chronic hepatic disease alters the pharmacokinetics of midazolam.
+Following oral administration of 15 mg of midazolam HCl syrup, Cmax and bioavailability values were 43% and 100% higher, respectively, in adult patients with hepatic cirrhosis than adult subjects with normal liver function.
 In the same patients with hepatic cirrhosis, following IV administration of 7.5 mg of midazolam, the clearance of midazolam was reduced by about 40% and the elimination half-life was increased by about 90% compared with subjects with normal liver function.
 Midazolam should be titrated for the desired effect in patients with chronic hepatic disease.
 
-Congestive Heart Failure
+Congestive Heart Failure: Following oral administration of 7.5 mg of midazolam HCl syrup, elimination half-life values were 43% higher in adult patients with congestive heart failure than in control subjects.
 
-Following oral administration of 7.5 mg of midazolam, elimination half-life values were 43% higher in adult patients with congestive heart failure than in control subjects.
-
-Neonates
-
-Midazolam HCl syrup has not been studied in pediatric patients less than 6 months of age.
+Neonates: Midazolam HCl syrup has not been studied in pediatric patients less than 6 months of age.
 
 Drug-Drug Interactions
 
@@ -127,29 +118,29 @@ See PRECAUTIONS: Drug Interactions.
 
 Inhibitors of CYP3A4 Isozymes
 
-Table 2 summarizes the changes in the Cmax and AUC of midazolam when drugs known to inhibit CYP3A4 were concurrently administered with oral midazolam in adult subjects.
+Table 2 summarizes the changes in the Cmax and AUC of midazolam when drugs known to inhibit CYP3A4 were concurrently administered with oral midazolam HCl syrup in adult subjects.
 
 Table 2
 
 | Interacting Drug | Adult Doses Studied | % Increase in Cmax of Oral Midazolam | % Increase in AUC of Oral Midazolam |
 | --- | --- | --- | --- |
-| Cimetidine | 800-1200 mg up to 4 times a day in divided doses | 6-138 | 10-102 |
-| Diltiazem | 60 mg three times a day | 105 | 175 |
-| Erythromycin | 500 mg three times a day | 170-171 | 281-341 |
+| Cimetidine | 800 to 1,200 mg up to 4 times a day in divided doses | 6 to 138 | 10 to 102 |
+| Diltiazem | 60 mg three times a day | 105 | 275 |
+| Erythromycin | 500 mg three times a day | 170 to 171 | 281 to 341 |
 | Fluconazole | 200 mg daily | 150 | 250 |
 | Grapefruit Juice | 200 mL | 56 | 52 |
-| Itraconazole | 100-200 mg daily | 80-240 | 240-980 |
-| Ketoconazole | 400 mg daily | 309 | 1490 |
-| Ranitidine | 150 mg two or three times a day; 300 mg daily | 15-67 | 9-66 |
+| Itraconazole | 100 to 200 mg daily | 80 to 240 | 240 to 980 |
+| Ketoconazole | 400 mg daily | 309 | 1,490 |
+| Ranitidine | 150 mg two or three times a day; 300 mg daily | 15 to 67 | 9 to 66 |
 | Roxithromycin | 300 mg daily | 37 | 47 |
-| Saquinavir | 1200 mg three times a day | 235 | 514 |
+| Saquinavir | 1,200 mg three times a day | 235 | 514 |
 | Verapamil | 80 mg three times a day | 97 | 192 |
 
 Other drugs known to inhibit the effects of CYP3A4, such as protease inhibitors, would be expected to have similar effects on these midazolam pharmacokinetic parameters.
 
 Inducers of CYP3A4 Isozymes
 
-Table 3 summarizes the changes in the Cmax and AUC of midazolam when drugs known to induce CYP3A4 were concurrently administered with oral midazolam in adult subjects.
+Table 3 summarizes the changes in the Cmax and AUC of midazolam when drugs known to induce CYP3A4 were concurrently administered with midazolam HCl syrup in adult subjects.
 The clinical significance of these changes is unclear.
 
 Table 3
@@ -174,9 +165,7 @@ Table 4
 
 Clinical Trials
 
-Dose Ranging, Safety and Efficacy Study with Midazolam HCl Syrup in Pediatric Patients
-
-The effectiveness of midazolam HCl syrup as a premedicant to sedate and calm pediatric patients prior to induction of general anesthesia was compared among three different doses in a randomized, double-blind, parallel-group study.
+Dose Ranging, Safety and Efficacy Study with Midazolam Hydrochloride Syrup in Pediatric Patients: The effectiveness of midazolam HCl syrup as a premedicant to sedate and calm pediatric patients prior to induction of general anesthesia was compared among three different doses in a randomized, double-blind, parallel-group study.
 Patients of ASA physical status I, II or III were stratified to 1 of 3 age groups (6 months to <2 years, 2 to <6 years, and 6 to <16 years), and within each age group randomized to 1 of 3 dosing groups (0.25, 0.5, and 1.0 mg/kg up to a maximum dose of 20 mg).
 Greater than 90% of treated patients achieved satisfactory sedation and anxiolysis at least one timepoint within 30 minutes posttreatment.
 Similarly high proportions of patients exhibited satisfactory ease of separation from parent or guardian and were cooperative at the time of mask induction with nitrous oxide and halothane administration.

@@ -72,7 +72,7 @@ There were no deaths during the study and no patient withdrew from the study due
 Serious adverse events (both respiratory disorders) were experienced postoperatively by two patients: one case of airway obstruction and desaturation (SpO2 of 33%) in a patient given midazolam HCl syrup 0.25 mg/kg, and one case of upper airway obstruction and respiratory depression following 0.5 mg/kg.
 Both patients had received intravenous morphine sulfate (1.5 mg total for both patients).
 
-Other adverse events that have been reported in the literature with the oral administration of midazolam (not necessarily midazolam syrup), are listed below.
+Other adverse events that have been reported in the literature with the oral administration of midazolam (not necessarily midazolam HCl syrup), are listed below.
 The incidence rate for these events was generally <1%.
 
 Respiratory: apnea, hypercarbia, desaturation, stridor.
