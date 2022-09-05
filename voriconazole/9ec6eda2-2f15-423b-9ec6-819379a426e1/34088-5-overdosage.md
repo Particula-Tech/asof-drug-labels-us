@@ -1,0 +1,11 @@
+# 10 OVERDOSAGE
+
+In clinical trials, there were three cases of accidental overdose.
+All occurred in pediatric patients who received up to five times the recommended intravenous dose of voriconazole.
+A single adverse event of photophobia of 10 minutes duration was reported.
+
+There is no known antidote to voriconazole.
+
+Voriconazole is hemodialyzed with clearance of 121 mL/min.
+The intravenous vehicle, HPβCD, is hemodialyzed with clearance of 37.5±24 mL/min.
+In an overdose, hemodialysis may assist in the removal of voriconazole and HPβCD from the body.

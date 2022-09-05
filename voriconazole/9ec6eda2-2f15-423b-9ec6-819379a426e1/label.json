@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208562"
+  ],
+  "inn": "voriconazole",
+  "labeler": "Xellia Pharmaceuticals USA LLC",
+  "package_ndcs": [
+    "70594-067-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "voriconazole",
+      "name": "Voriconazole"
+    }
+  ],
+  "setid": "9ec6eda2-2f15-423b-9ec6-819379a426e1",
+  "source": "dailymed"
+}
