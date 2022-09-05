@@ -33,12 +33,11 @@ Other Adverse Reactions Advise patients of the expected adverse reactions of TRI
 Most patients in clinical trials experienced some drug-related toxicity, most commonly leukocytosis, gastrointestinal symptoms (nausea, vomiting, diarrhea, and abdominal pain), fatigue, edema, hyperglycemia, dyspnea, cough, rash or itching, headaches, and dizziness.
 Advise patients to call their healthcare provider at the onset of any adverse reactions [see Adverse Reactions (6.1)].
 
-Distributed by: Teva Pharmaceuticals USA, Inc.
+Manufactured for: Teva Pharmaceuticals Parsippany, NJ 07054
 
-Parsippany, NJ 07054
+©2022 Teva Pharmaceuticals, Inc.
 
-©2020 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd., or its affiliates.
+Rev.
+6/2022
 
-All rights reserved.
-
-TRI-014
+TRI-015
