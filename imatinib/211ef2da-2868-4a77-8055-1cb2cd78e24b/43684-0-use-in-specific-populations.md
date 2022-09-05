@@ -47,9 +47,10 @@ Considering the combined concentration of imatinib and active metabolite, a brea
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Human postmarketing reports and animal studies have shown Gleevec to be harmful to the developing fetus [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
-Human postmarketing reports and animal studies have shown Gleevec to be harmful to the developing fetus.
 Test pregnancy status in females with reproductive potential prior to the initiation of treatment with Gleevec.
 
 Contraception
@@ -92,9 +93,9 @@ Reduce the dose by 25% for patients with severe hepatic impairment [see Dosage a
 
 Table 16: Liver Function Classification
 
-| Liver Function Test | Normal (n = 14) | Mild (n = 30) | Moderate (n = 20) | Severe (n = 20) |
+| Liver function test | Normal (n = 14) | Mild (n = 30) | Moderate (n = 20) | Severe (n = 20) |
 | --- | --- | --- | --- | --- |
-| Total Bilirubin | less than or equal to ULN | greater than 1.0–1.5 times the ULN | greater than 1.5–3 times the ULN | greater than 3–10 times the ULN |
+| Total bilirubin | less than or equal to ULN | greater than 1.0–1.5 times the ULN | greater than 1.5–3 times the ULN | greater than 3–10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 | Abbreviation: SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); ULN, upper limit of normal for the institution. |  |  |  |  |
 
@@ -107,7 +108,7 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 
 Table 17: Renal Function Classification
 
-| Renal Dysfunction | Renal Function Tests |
+| Renal dysfunction | Renal function tests |
 | --- | --- |
 | Mild | CrCL = 40-59 mL/min |
 | Moderate | CrCL = 20-39 mL/min |

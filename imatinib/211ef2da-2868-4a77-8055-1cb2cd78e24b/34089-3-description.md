@@ -1,7 +1,9 @@
 # 11 DESCRIPTION
 
 Imatinib is a small molecule kinase inhibitor.
-Gleevec film-coated tablets contain imatinib mesylate equivalent to 100 mg or 400 mg of imatinib free base.
+Gleevec film-coated tablets are supplied as 100 mg and 400 mg tablets for oral administration.
+Each 100 mg tablet contains 119.5 mg of imatinib mesylate equivalent to 100 mg of imatinib free base.
+Each 400 mg tablet contains 478 mg of imatinib mesylate equivalent to 400 mg of imatinib free base.
 Imatinib mesylate is designated chemically as 4-[(4-Methyl-1-piperazinyl)methyl]-N-[4-methyl-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]-phenyl]benzamide methanesulfonate and its structural formula is:
 
 Imatinib mesylate is a white to off-white to brownish or yellowish tinged crystalline powder.
