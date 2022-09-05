@@ -9,8 +9,8 @@ It should not be flushed down the toilet.
 
 ## 16.1 Storage
 
-Prior to dispensing to the user, store refrigerated 2-8°C (36-46°F).
-After dispensing to the user, NuvaRing can be stored for up to 4 months at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Prior to dispensing to the user, store refrigerated 2°C to 8°C (36°F to 46°F).
+After dispensing to the user, NuvaRing can be stored for up to 4 months at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Avoid storing NuvaRing in direct sunlight or at temperatures above 30°C (86°F).
 
