@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA213912"
+  ],
+  "inn": "lenalidomide",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-1936-01",
+    "0378-1936-28",
+    "0378-1937-01",
+    "0378-1937-28",
+    "0378-1940-01",
+    "0378-1940-21",
+    "0378-1941-01",
+    "0378-1941-21"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lenalidomide",
+      "name": "Lenalidomide"
+    }
+  ],
+  "setid": "76f6c1e7-985b-43d9-892c-849df50ae80e",
+  "source": "dailymed"
+}
