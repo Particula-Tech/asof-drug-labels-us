@@ -12,9 +12,9 @@ Each capsule contains: ibrutinib 70 mg Swallow capsules whole with water
 
 Rx Only
 
-Pharmacyclics® An AbbVie Company
+pharmacyclics® An AbbVie Company
 
-Janssen
+janssen
 
 PRINCIPAL DISPLAY PANEL - 90 Capsule Bottle Carton
 
@@ -30,9 +30,9 @@ Each capsule contains: ibrutinib 140 mg Swallow capsules whole with water
 
 Rx Only
 
-Pharmacyclics® An AbbVie Company
+pharmacyclics® An AbbVie Company
 
-Janssen
+janssen
 
 PRINCIPAL DISPLAY PANEL - 120 Capsule Bottle Carton
 
@@ -48,9 +48,9 @@ Each capsule contains: ibrutinib 140 mg Swallow capsules whole with water
 
 Rx Only
 
-Pharmacyclics® An AbbVie Company
+pharmacyclics® An AbbVie Company
 
-Janssen
+janssen
 
 PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
 
@@ -58,15 +58,15 @@ NDC 57962-014-28
 
 Imbruvica® (ibrutinib) tablets
 
-140 mg
+140 mg per tablet
 
-Each tablet contains: ibrutinib 140 mg Wallet card contains 28 tablets
+Each tablet contains ibrutinib 140 mg Wallet card contains 28 tablets
 
 Rx Only
 
-Pharmacyclics® An AbbVie Company
+pharmacyclics® An AbbVie Company
 
-Janssen
+janssen
 
 PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
 
@@ -74,15 +74,15 @@ NDC 57962-280-28
 
 Imbruvica® (ibrutinib) tablets
 
-280 mg
+280 mg per tablet
 
-Each tablet contains: ibrutinib 280 mg Wallet card contains 28 tablets
+Each tablet contains ibrutinib 280 mg Wallet card contains 28 tablets
 
 Rx Only
 
-Pharmacyclics® An AbbVie Company
+pharmacyclics® An AbbVie Company
 
-Janssen
+janssen
 
 PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
 
@@ -90,15 +90,15 @@ NDC 57962-420-28
 
 Imbruvica® (ibrutinib) tablets
 
-420 mg
+420 mg per tablet
 
-Each tablet contains: ibrutinib 420 mg Wallet card contains 28 tablets
+Each tablet contains ibrutinib 420 mg Wallet card contains 28 tablets
 
 Rx Only
 
-Pharmacyclics® An AbbVie Company
+pharmacyclics® An AbbVie Company
 
-Janssen
+janssen
 
 PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
 
@@ -106,12 +106,12 @@ NDC 57962-560-28
 
 Imbruvica® (ibrutinib) tablets
 
-560 mg
+560 mg per tablet
 
-Each tablet contains: ibrutinib 560 mg Wallet card contains 28 tablets
+Each tablet contains ibrutinib 560 mg Wallet card contains 28 tablets
 
 Rx Only
 
-Pharmacyclics® An AbbVie Company
+pharmacyclics® An AbbVie Company
 
-Janssen
+janssen
