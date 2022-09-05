@@ -29,7 +29,7 @@ Table 2 Total Subjects Exposed to SUBLOCADE
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Roll-Over Up to 6 Injections |  |  | De-Novo Up to 12 Injections |  |  |  |  |
 | SUBLOCADE 300/100 mg | SUBLOCADE 300/300 mg | Placebo | From SUBLOCADE 300/100 mg To SUBLOCADE 300/Flex† | From SUBLOCADE 300/300 mg To SUBLOCADE 300/Flex† | From Placebo To SUBLOCADE 300/Flex† | SUBLOCADE 300/Flex |  |
-| N = 203 | N = 201 | N = 100* | N = 112‡ | N = 113‡ | N= 32 | N = 412 | N = 848 |
+| N = 203 | N = 201 | N = 100* | N = 112‡ | N = 113‡ | N = 32 | N = 412 | N = 848 |
 | *Not included in total subjects exposed to SUBLOCADE |  |  |  |  |  |  |  |
 | † FLEX = 300 mg initial dose with an option to receive either 100 mg or 300 mg for subsequent dosing per clinician's discretion |  |  |  |  |  |  |  |
 | ‡ = Not included in total unique subjects exposed to SUBLOCADE, already accounted for in Study 13-0001 section of table |  |  |  |  |  |  |  |

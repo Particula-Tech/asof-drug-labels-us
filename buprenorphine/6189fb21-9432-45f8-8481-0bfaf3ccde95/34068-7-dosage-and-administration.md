@@ -8,7 +8,7 @@ Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
 ## 2.2 Important Dosing and Administration Information
 
 FOR ABDOMINAL SUBCUTANEOUS INJECTION ONLY.
-DO NOT ADMINISTER SUBLOCADE INTRAVENOUSLY, INTRAMUSCULARLY OR INTRADERMALLY [see Dosage and Administration (2.6), Warnings and Precautions (5.1,5.6)].
+DO NOT ADMINISTER SUBLOCADE INTRAVENOUSLY, INTRAMUSCULARLY OR INTRADERMALLY [see Dosage and Administration (2.6), Warnings and Precautions (5.1, 5.6)].
 
 - Only healthcare providers should prepare and administer SUBLOCADE.
 - Administer SUBLOCADE monthly with a minimum of 26 days between doses.

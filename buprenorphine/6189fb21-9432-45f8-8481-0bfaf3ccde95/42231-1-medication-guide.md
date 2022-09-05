@@ -21,5 +21,5 @@
 | These are not all the possible side effects of SUBLOCADE. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088. |  |  |
 | General information about SUBLOCADE Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. You can ask your doctor or pharmacist for information that is written for healthcare professionals. |  |  |
 | What are the ingredients in SUBLOCADE? Active ingredient: buprenorphine ATRIGEL® delivery system: biodegradable 50:50 poly(DL-lactide-co-glycolide) polymer and a biocompatible solvent, N-methyl-2-pyrrolidone (NMP). |  |  |
-| Manufactured for Indivior Inc., North Chesterfield, VA 23235 by AMRI, Burlington, MA 01803 SUBLOCADE® is a registered trademark of Indivior UK Limited. For more information, go to www.SUBLOCADE.com or call 1-877-782-6966. |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Issued: 03/2021 |
+| © 2022, Indivior UK Limited. All Rights Reserved. SUBLOCADE® is a registered trademark of Indivior UK Limited. Manufactured by Curia Global Inc. Albany, NY 12203 For more information, go to www.SUBLOCADE.com or call 1-877-782-6966. |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Issued: 08/2022 |

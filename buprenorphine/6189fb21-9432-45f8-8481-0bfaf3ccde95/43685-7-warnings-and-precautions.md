@@ -84,7 +84,7 @@ Toxicology screening should test for prescribed and illicit benzodiazepines [see
 
 ## 5.6 Risk of Serious Injection Site Reactions
 
-Injection site reactions are most commonly manifested by pain, erythema and pruritis.
+Injection site reactions are most commonly manifested by pain, erythema and pruritus.
 In some post-marketing case reports injection site reactions have involved abscess, ulceration, and necrosis.
 Some cases resulted in surgical depot removal, debridement, antibiotic administration, and SUBLOCADE discontinuation.
 The likelihood of serious injection site reactions may be increased with inadvertent intramuscular or intradermal administration.

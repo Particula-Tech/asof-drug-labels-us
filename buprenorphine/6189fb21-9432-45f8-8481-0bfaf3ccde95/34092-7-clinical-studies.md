@@ -4,9 +4,9 @@ The key studies from the SUBLOCADE clinical development program that support its
 
 ## 14.1 Study 13-0002, NCT02044094
 
-The opioid blockade study evaluated the blockade of subjective opioid effects, PK and safety of SC injections of SUBLOCADE in 39 subjects with OUD (not treatment-seeking).
+The opioid blockade study evaluated the blockade of subjective opioid effects, PK and safety of subcutaneous injections of SUBLOCADE in 39 subjects with OUD (not treatment-seeking).
 
-The peak (Emax) effect of “Drug Liking” Visual Analog Scale (VAS measurement after challenge with IM. injections of 6 mg and 18 mg hydromorphone (HM) was not inferior (i.e., shown to be not substantially more likeable) compared to the Emax of “Drug Liking” VAS, measured after challenge with placebo (at weeks 1 through 4 following the first injection of 300 mg SUBLOCADE).
+The peak (Emax) effect of “Drug Liking” Visual Analog Scale (VAS) measurement after challenge with IM injections of 6 mg and 18 mg hydromorphone (HM) was not inferior (i.e., shown to be not substantially more likeable) compared to the Emax of “Drug Liking” VAS measured after challenge with placebo (at weeks 1 through 4 following the first injection of 300 mg SUBLOCADE).
 The noninferiority (NI) margin, the largest difference allowed for the 6 or 18 mg HM VAS to exceed the placebo VAS (the maximum VAS recorded following IM injection of 0 mg HM) before being considered significant, was set at 20.
 Based on comparison to the historical response to opioid agonists in unblocked subjects, a difference of less than 20 points (on a unipolar scale) between the mean maximum response to hydromorphone and the mean maximum placebo response for the same challenge was considered to indicate near-complete blockade.
 
@@ -29,11 +29,11 @@ Figure 12 Median (95% Confidence Interval) of Placebo-Corrected Drug-Liking Scor
 ## 14.2 Study 13-0001, NCT02357901
 
 The efficacy of SUBLOCADE for the treatment of opioid use disorder was evaluated in a Phase 3, 24- week, randomized, double-blind, placebo-controlled, multicenter trial in treatment-seeking patients who met the DSM-5 criteria for moderate or severe opioid use disorder.
-Patients were randomized to one of following dosing regimens: 6 once-monthly 300 mg doses, 2 once-monthly 300 mg doses followed by 4 once-monthly 100 mg doses, or 6 once-monthly SC injections of placebo.
+Patients were randomized to one of following dosing regimens: 6 once-monthly 300 mg doses, 2 once-monthly 300 mg doses followed by 4 once-monthly 100 mg doses, or 6 once-monthly subcutaneous injections of placebo.
 All doses were administered by a physician or suitably qualified designee and were separated by 28 ± 2 days.
 In addition to study medication, all subjects received manual-guided psychosocial support at least once a week (Individual Drug Counseling = IDC).
 
-Prior to the first dose, treatment was initiated with SUBOXONE® (buprenorphine/naloxone) sublingual film (SUBOXONE SL Film); doses were adjusted from 8/2mg to 24/6 mg per day over a period of 7-14 days.
+Prior to the first dose, treatment was initiated with SUBOXONE® (buprenorphine/naloxone) sublingual film (SUBOXONE SL Film); doses were adjusted from 8/2 mg to 24/6 mg per day over a period of 7-14 days.
 Patients were randomized to SUBLOCADE injection or placebo after cravings and withdrawal symptoms were clinically controlled.
 After randomization, supplemental dosing with SUBOXONE SL Film was not permitted during the study.
 
@@ -43,7 +43,7 @@ During this period, opioid use, if it occurred, was not considered in the analys
 Missing urine drug screen samples and/or self-reports during Weeks 5-24 were counted as positive for illicit opioids.
 
 A total of 504 patients were randomized 4:4:1:1 [203 subjects in the 300 mg/100 mg group, 201 patients in the 300 mg/300 mg group and 100 patients in the placebo group (2 groups of volume-matched placebo)].
-Patients demographics and baseline characteristics are provided in Table 8.
+Patient demographics and baseline characteristics are provided in Table 8.
 
 Table 8 Patient Demographics and Baseline Characteristics
 
@@ -84,7 +84,7 @@ Table 9 Cumulative Distribution Function of Percentage of Opioid-Free Weeks
 |  | Number (%) of Subjects |  |  |
 | --- | --- | --- | --- |
 | SUBLOCADE | SUBLOCADE |  |  |
-| 300mg/100mg + IDC | 300mg/300mg + IDC | Placebo + IDC |  |
+| 300 mg/100 mg + IDC | 300 mg/300 mg + IDC | Placebo + IDC |  |
 | Percentage Opioid-Free Weeks | (N = 194) | (N = 196) | (N = 99) |
 | ≥ 0% | 194 (100.0) | 196 (100.0) | 99 (100.0) |
 | ≥ 10% | 139 (71.6) | 126 (64.3) | 11 (11.1) |

@@ -104,12 +104,9 @@ Tell your patients to seek emergency attention if they have signs or symptoms of
 
 Tell your patients not to tamper with or try to remove their depot [see Dosage and Administration (2.8)].
 
+© 2022, Indivior UK Limited.
+All Rights Reserved.
+
 SUBLOCADE® and SUBOXONE® are registered trademarks of Indivior UK Limited.
 
-Manufactured for Indivior Inc.
-
-North Chesterfield, VA 23235
-
-By Curia
-
-Burlington, MA 01803
+Manufactured by Curia Global Inc. Albany, NY 12203

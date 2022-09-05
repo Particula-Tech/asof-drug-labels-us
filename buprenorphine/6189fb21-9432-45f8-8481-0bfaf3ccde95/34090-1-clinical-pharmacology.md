@@ -9,9 +9,9 @@ Buprenorphine is a partial agonist at the mu- opioid receptor and an antagonist 
 
 Mu-Opioid Receptor Occupancy and Association With Opioid Blockade
 
-In a Positron Emission Tomography (PET) study with SUBLOCADE in 2 subjects (one subject receiving 200 mg SC injections and one subject receiving 300 mg SC injections) with opioid use disorder, 75 to 92% occupancy of the mu-opioid receptors in the brain was maintained for 28 days following the last dose under steady-state conditions.
+In a Positron Emission Tomography (PET) study with SUBLOCADE in 2 subjects (one subject receiving 200 mg subcutaneous injections and one subject receiving 300 mg subcutaneous injections) with opioid use disorder, 75 to 92% occupancy of the mu-opioid receptors in the brain was maintained for 28 days following the last dose under steady-state conditions.
 
-The opioid blockade study evaluated the blockade of subjective opioid effects, pharmacokinetics (PK) and safety of SC injections of SUBLOCADE.
+The opioid blockade study evaluated the blockade of subjective opioid effects, pharmacokinetics (PK) and safety of subcutaneous injections of SUBLOCADE.
 Stabilization doses of SL buprenorphine prior to injection of SUBLOCADE failed to provide full blockade of subjective effects of hydromorphone 18 mg IM.
 After SUBLOCADE injections at Weeks 0 and 4, on average, subjective effects of both 6 mg and 18 mg doses of hydromorphone were blocked; however, wide variability was seen across subjects.
 Complete blockade continued throughout the 8 weeks of observation that followed the 2nd SUBLOCADE injection [see Clinical Studies (14.1)].
