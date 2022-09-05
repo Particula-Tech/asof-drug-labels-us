@@ -67,12 +67,7 @@ There is the potential for unintended pregnancy with premenopausal women as ther
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of KAZANO have not been established in pediatric patients (for Type 2 diabetes mellitus).
-Effectiveness of alogliptin was not demonstrated in a 52-week, randomized, double blinded, placebo-controlled study in 151 pediatric patients (aged 10 to 17 years) including those without background therapy and those with background therapy of metformin and/or insulin.
-
-The primary efficacy endpoint was HBA1c change from baseline to week 26.
-The effect of treatment with alogliptin was not significantly different from placebo (alogliptin-subtracted-placebo difference of 0.102 (95%CI: -0.627, 0.831; p=0.782)).
-In this age group, adverse reactions to alogliptin were generally similar to those reported in adults.
+Safety and effectiveness of KAZANO in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
