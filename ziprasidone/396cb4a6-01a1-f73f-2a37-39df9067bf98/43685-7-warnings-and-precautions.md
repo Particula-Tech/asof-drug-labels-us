@@ -143,7 +143,7 @@ Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Place
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | -1.1 (N=45) | +2.4 (N=179) | -0.2 (N=146) | -0.5 (N=119) | -1.7 (N=104) | +4.1 (N=85) | +1.4 (N=260) |
 
-*”Random” glucose measurements—fasting/non-fasting status unknown
+*‟Random” glucose measurements—fasting/non-fasting status unknown
 
 Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
 
@@ -154,7 +154,7 @@ Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Con
 |  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Ziprasidone | 159 | 54 (34%) |
 |  |  | Placebo | 66 | 22 (33.3%) |
 
-*”Random” glucose measurements – fasting/non-fasting status unknown
+*‟Random” glucose measurements – fasting/non-fasting status unknown
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random glucose for ziprasidone 20 to 40 mg BID was -3.4 mg/dL (N=122); for ziprasidone 60 to 80 mg BID was +1.3 mg/dL (N=10); and for placebo was +0.3 mg/dL (N=71).
 
@@ -193,7 +193,7 @@ Table 5: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo
 | Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
 | Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
 
-*”Random” lipid measurements, fasting/non-fasting status unknown
+*‟Random” lipid measurements, fasting/non-fasting status unknown
 
 Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
 
@@ -212,7 +212,7 @@ Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 |  | Borderline to High (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Ziprasidone | 207 | 56 (27.1%) |
 |  |  | Placebo | 82 | 22 (26.8%) |
 
-*”Random” lipid measurements, fasting/non-fasting status unknown
+*‟Random” lipid measurements, fasting/non-fasting status unknown
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28 mg/dL (N=9).

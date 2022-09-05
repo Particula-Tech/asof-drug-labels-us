@@ -218,6 +218,6 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 02/2022
+Revised: 08/2022
 
 Dispense with Patient Information Sheet available at: www.drreddys.com/pi/ziprasidonecaps.pdf
