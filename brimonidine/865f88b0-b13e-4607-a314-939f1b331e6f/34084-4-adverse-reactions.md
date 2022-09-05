@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-- The following serious adverse reactions are described elsewhere in the labeling:
+The following serious adverse reactions are described elsewhere in the labeling:
 
 - •Potentiation of Vascular Insufficiency [see Warnings and Precautions (5.1)]
 - •Severe Cardiovascular Disease [see Warnings and Precautions (5.2)]

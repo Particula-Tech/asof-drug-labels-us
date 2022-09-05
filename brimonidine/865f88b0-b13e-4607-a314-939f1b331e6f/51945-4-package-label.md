@@ -1,7 +1,9 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 24208-411-15 Brimonidine Tartrate Ophthalmic Solution 0.2% (Sterile) FOR USE IN EYES ONLY
+NDC 24208-411-15 Brimonidine Tartrate Ophthalmic Solution 0.2% Sterile FOR TOPICAL OPHTHALMIC USE
 
 Rx only 15 mL
 
 BAUSCH + LOMB
+
+9556002 AB41111
