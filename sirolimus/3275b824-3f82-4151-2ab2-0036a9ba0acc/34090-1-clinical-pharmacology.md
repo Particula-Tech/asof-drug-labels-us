@@ -243,7 +243,7 @@ Other drugs that have the potential to increase sirolimus blood concentrations i
 - Antifungal agents: clotrimazole, fluconazole.
 - Antibiotics: troleandomycin.
 - Gastrointestinal prokinetic agents: cisapride, metoclopramide.
-- Other drugs: bromocriptine, cimetidine, danazol, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
+- Other drugs: bromocriptine, cimetidine, danazol, letermovir, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
 
 Other drugs that have the potential to decrease sirolimus concentrations include (but are not limited to):
 

@@ -6,7 +6,7 @@ Rapamune (sirolimus) is indicated for the prophylaxis of organ rejection in pati
 
 In patients at low-to moderate-immunologic risk, it is recommended that Rapamune be used initially in a regimen with cyclosporine and corticosteroids; cyclosporine should be withdrawn 2 to 4 months after transplantation [see Dosage and Administration (2.2)].
 
-In patients at high-immunologic risk (defined as Black recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reason and/or patients with high panel-reactive antibodies [PRA; peak PRA level > 80%]), it is recommended that Rapamune be used in combination with cyclosporine and corticosteroids for the first year following transplantation [see Dosage and Administration (2.3), Clinical Studies (14.3)].
+In patients at high-immunologic risk (defined as Black recipients and/or repeat renal transplant recipients who lost a previous allograft for immunologic reason and/or patients with high panel-reactive antibodies [PRA; peak PRA level >80%]), it is recommended that Rapamune be used in combination with cyclosporine and corticosteroids for the first year following transplantation [see Dosage and Administration (2.3), Clinical Studies (14.3)].
 
 ## 1.2 Limitations of Use in Renal Transplantation
 

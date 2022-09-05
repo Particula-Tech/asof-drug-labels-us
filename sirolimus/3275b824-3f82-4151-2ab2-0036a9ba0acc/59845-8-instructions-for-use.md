@@ -56,4 +56,4 @@ Keep RAPAMUNE and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-LAB-0579-5.0 Revised: June 2021
+LAB-0579-6.0 Revised: August 2022

@@ -266,7 +266,7 @@ A total of 607 patients were enrolled.
 The study failed to demonstrate superiority of conversion to a Rapamune-based regimen compared to continuation of a CNI-based regimen in baseline-adjusted GFR, as estimated by Cockcroft-Gault, at 12 months (62 mL/min in the Rapamune conversion group and 63 mL/min in the CNI continuation group).
 The study also failed to demonstrate non-inferiority, with respect to the composite endpoint consisting of graft loss and death (including patients with missing survival data) in the Rapamune conversion group compared to the CNI continuation group (6.6% versus 5.6%).
 The number of deaths in the Rapamune conversion group (15/393, 3.8%) was higher than in the CNI continuation group (3/214, 1.4%), although the difference was not statistically significant.
-The rates of premature study discontinuation (primarily due to adverse events or lack of efficacy), adverse events overall (infections, specifically), and biopsy-proven acute liver graft rejection at 12 months were all significantly greater in the Rapamune conversion group compared to the CNI continuation group.
+The rates of premature study discontinuation (primarily due to adverse events or lack of efficacy), adverse events overall (infections, specifically), and biopsy-proven acute liver graft rejection at 12-months were all significantly greater in the Rapamune conversion group compared to the CNI continuation group.
 
 ## 14.6 Pediatric Renal Transplant Patients
 

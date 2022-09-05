@@ -135,7 +135,7 @@ Advise female patients of reproductive potential to avoid becoming pregnant and 
 
 ## 5.16 Male Infertility
 
-Azoospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
+Azoospermia or oligospermia may be observed [see Adverse Reactions (6.7), Nonclinical Toxicology (13.1)].
 Rapamune is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
 
 ## 5.17 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
@@ -157,3 +157,8 @@ Therefore, during treatment with Rapamune, vaccination may be less effective.
 ## 5.20 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
 Avoid concomitant use of Rapamune with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)].
+
+## 5.21 Cannabidiol Drug Interactions
+
+When cannabidiol and Rapamune are co-administered, closely monitor for an increase in sirolimus blood levels and for adverse reactions suggestive of sirolimus toxicity.
+A dose reduction of Rapamune should be considered as needed when Rapamune is co-administered with cannabidiol [see Dosage and Administration (2.5) and Drug Interactions (7.5)].
