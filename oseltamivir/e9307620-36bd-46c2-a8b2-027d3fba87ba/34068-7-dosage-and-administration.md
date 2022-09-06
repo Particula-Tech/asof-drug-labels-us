@@ -4,7 +4,7 @@
 
 Administer oseltamivir phosphate for the treatment of influenza in patients 2 weeks of age or older [see Dosage and Administration (2.2)] or for prophylaxis of influenza in patients 1 year and older [see Dosage and Administration (2.3)] using:
 
-- Oseltamivir phosphate capsules
+- Oseltamivir phosphate capsules or
 - Oseltamivir phosphate for oral suspension (supplied as a powder).
   This is the preferred formulation (6 mg per mL) for patients who cannot swallow capsules.
 
@@ -41,7 +41,7 @@ Pediatric Patients (1 year to 12 years of age) Table 1 displays the recommended 
 Prophylaxis in pediatric patients is recommended for 10 days following close contact with an infected individual and up to 6 weeks during a community outbreak [see Use in Specific Populations (8.4) and Clinical Studies (14.2)].
 Table 1 Oseltamivir Phosphate Dosage Recommendations in Pediatric Patients for Treatment and Prophylaxis of Influenza
 
-| Weight (kg) | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 days* | Volume of Oral Suspension (6 mg/mL) for each Dose† | Number of Bottles of Oral Suspension to Dispense | Number of Capsules to Dispense (Strength)‡ |
+| Weight | Treatment Dosage for 5 days | Prophylaxis Dosage for 10 days* | Volume of Oral Suspension (6 mg/mL) for each Dose† | Number of Bottles of Oral Suspension to Dispense | Number of Capsules to Dispense (Strength)‡ |
 | --- | --- | --- | --- | --- | --- |
 | Patients from 2 Weeks to less than 1 Year of Age |  |  |  |  |  |
 | Any weight | 3 mg/kg twice daily | Not applicable | 0.5 mL/kg§ | 1 bottle | Not applicable |
@@ -67,7 +67,7 @@ Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influe
 | Severe (>10-30 mL/minute) | 30 mg once daily for 5 days | 30 mg every other day |
 | ESRD Patients on Hemodialysis (≤10 mL/minute) | 30 mg immediately and then 30 mg after every hemodialysis cycle (treatment duration not to exceed 5 days) | 30 mg immediately and then 30 mg after alternate hemodialysis cycles |
 | ESRD Patients on Continuous Ambulatory Peritoneal Dialysis‡ (≤10 mL/minute) | A single 30 mg dose administered immediately | 30 mg immediately and then 30 mg once weekly |
-| ESRD Patients not on Dialysis | Oseltamivir phosphate capsules are not recommended | Oseltamivir phosphate capsules are not recommended |
+| ESRD Patients not on Dialysis | Oseltamivir phosphate capsule is not recommended | Oseltamivir phosphate capsule is not recommended |
 
 * Capsules or oral suspension can be used for 30 mg dosing. † The recommended duration for post-exposure prophylaxis is at least 10 days and the recommended duration for community outbreak (seasonal/pre-exposure) prophylaxis is up to 6 weeks (or up to 12 weeks in immunocompromised patients). ‡ Data derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients.
 

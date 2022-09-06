@@ -22,11 +22,14 @@ Influenza Vaccines
 Instruct patients that oseltamivir phosphate capsules are not a substitute for receiving an annual flu vaccination.
 Patients should continue receiving an annual flu vaccination according to guidelines on immunization practices.
 Because of the potential for oseltamivir phosphate capsules to inhibit replication of live attenuated influenza vaccine (LAIV) and possibly reduce efficacy of LAIV, avoid administration of LAIV within 2 weeks or 48 hours after oseltamivir phosphate capsules administration, unless medically necessary [see Drug Interactions (7.1)].
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
+
+All other trademarks are the properties of their respective owners.
+
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised December 2020
+Revised September 2022
 
 ## .
 

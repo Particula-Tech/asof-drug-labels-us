@@ -48,7 +48,7 @@ The efficacy endpoint for all of these trials was the incidence of laboratory-co
 - at least one constitutional symptom (aches and pain, fatigue, headache, chills/sweats), and
 - either a positive virus isolation or a four-fold increase in virus antibody titers from baseline.
 
-In a pooled analysis of two seasonal prophylaxis trials in healthy unvaccinated adults (aged 18 to 65 years), oseltamivir phosphate 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 5% (25/519) for the placebo group to 1% (6/520) for the oseltamivir phosphate group.
+In a pooled analysis of two seasonal prophylaxis trials in healthy unvaccinated adults (aged 18 to 65 years), oseltamivir phosphate capsule 75 mg once daily taken for 42 days during a community outbreak reduced the incidence of laboratory-confirmed clinical influenza from 5% (25/519) for the placebo group to 1% (6/520) for the oseltamivir phosphate group.
 
 In the seasonal (community outbreak) prophylaxis trial in elderly residents of skilled nursing homes, about 80%, 43%, and 14% of the subjects were vaccinated, had cardiac disorders, and had chronic airway obstructive disorders, respectively.
 In this trial, subjects were randomized to oseltamivir phosphate 75 mg once daily or placebo taken orally for 42 days.

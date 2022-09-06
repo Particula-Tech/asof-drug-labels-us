@@ -83,7 +83,7 @@ In a randomized, placebo-controlled trial in elderly residents of nursing homes 
 
 Patients with renal impairment had higher blood levels of oseltamivir carboxylate compared to patients with normal renal function which may increase the risk of oseltamivir phosphate-associated adverse reactions.
 Therefore, dosage adjustment is recommended for patients with a serum creatinine clearance between 10 and 60 mL/minute and for patients with end-stage renal disease (ESRD) undergoing routine hemodialysis or continuous peritoneal dialysis treatment [see Dosage and Administration (2.4)].
-Oseltamivir phosphate capsules are not recommended for patients with ESRD not undergoing dialysis [see Indications and Usage (1.3) and Clinical Pharmacology (12.3)].
+Oseltamivir phosphate capsule is not recommended for patients with ESRD not undergoing dialysis [see Indications and Usage (1.3) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -100,4 +100,4 @@ No clinical trial data are available regarding treatment of influenza in patient
 ## 8.9 Immunocompromised Patients
 
 Efficacy of oseltamivir phosphate for the treatment or prophylaxis of influenza has not been established in immunocompromised patients [see Clinical Studies (14.2)].
-Safety of oseltamivir phosphate for prophylaxis of influenza has been demonstrated for up to 12 weeks in immunocompromised patients [see Adverse Reactions (6.1)].
+Safety of oseltamivir phosphate has been demonstrated for up to 12 weeks for prophylaxis of influenza in immunocompromised patients [see Adverse Reactions (6.1)].
