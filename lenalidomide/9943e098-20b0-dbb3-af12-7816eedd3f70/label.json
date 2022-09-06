@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA211022"
+  ],
+  "inn": "lenalidomide",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-4533-1",
+    "60505-4533-2",
+    "60505-4534-1",
+    "60505-4534-2",
+    "60505-4535-1",
+    "60505-4535-2",
+    "60505-4537-1",
+    "60505-4537-2"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lenalidomide",
+      "name": "Lenalidomide"
+    }
+  ],
+  "setid": "9943e098-20b0-dbb3-af12-7816eedd3f70",
+  "source": "dailymed"
+}
