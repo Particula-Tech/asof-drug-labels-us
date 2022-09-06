@@ -1,6 +1,8 @@
 # Patient Information
 
-Memantine Hydrochloride Tablets
+Dispense with Patient Information available at: https://www.sunpharma.com/usa/products
+
+Memantine Hydrochloride Tablets, USP
 
 (me-MAN-teen HYE-droe-KLOR-ide)
 
@@ -107,6 +109,7 @@ You can ask your doctor or pharmacist for information about memantine hydrochlor
 
 For more information about memantine hydrochloride tablets, call Sun Pharmaceutical Industries, Inc. at 1-800-818-4555.
 This Patient Information has been approved by the U.S. Food and Drug Administration. * All trademark names are the property of their respective owners.
+Dispense with Patient Information available at: https://www.sunpharma.com/usa/products
 
 Distributed by:
 
@@ -120,8 +123,8 @@ Sun Pharmaceutical Industries Limited
 
 Survey No. 259/15,
 
-Dadra-396 191, (U.T. of D & NH), India
+Dadra-396 193, (U.T. of D & NH), India
 
-PGPI0197B
+5234721
 
-ISS.12/2018
+ISS.09/2022
