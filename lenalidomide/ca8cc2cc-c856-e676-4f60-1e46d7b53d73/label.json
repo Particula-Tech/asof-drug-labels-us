@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA209348"
+  ],
+  "inn": "lenalidomide",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-511-01",
+    "43598-511-63",
+    "43598-512-01",
+    "43598-512-63",
+    "43598-513-01",
+    "43598-513-21",
+    "43598-514-01",
+    "43598-514-21",
+    "43598-515-01",
+    "43598-515-21",
+    "43598-516-01",
+    "43598-516-63"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lenalidomide",
+      "name": "Lenalidomide"
+    }
+  ],
+  "setid": "ca8cc2cc-c856-e676-4f60-1e46d7b53d73",
+  "source": "dailymed"
+}
