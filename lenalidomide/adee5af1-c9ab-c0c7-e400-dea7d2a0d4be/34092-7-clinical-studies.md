@@ -1,0 +1,213 @@
+# 14 CLINICAL STUDIES
+
+## 14.1 Multiple Myeloma
+
+Randomized, Open-Label Clinical Trial in Patients with Newly Diagnosed MM:
+
+A randomized multicenter, open-label, 3-arm trial of 1,623 patients, was conducted to compare the efficacy and safety of lenalidomide capsules and low-dose dexamethasone (Rd) given for 2 different durations of time to that of melphalan, prednisone and thalidomide (MPT) in newly diagnosed MM patients who were not a candidate for stem cell transplant.
+In the first arm of the study, Rd was given continuously until progressive disease [Arm Rd Continuous].
+In the second arm, Rd was given for up to eighteen 28-day cycles [72 weeks, Arm Rd18]).
+In the third arm, melphalan, prednisone and thalidomide (MPT) was given for a maximum of twelve 42-day cycles (72 weeks).
+For the purposes of this study, a patient who was < 65 years of age was not a candidate for SCT if the patient refused to undergo SCT therapy or the patient did not have access to SCT due to cost or other reasons.
+Patients were stratified at randomization by age (≤75 versus >75 years), stage (ISS Stages I and II versus Stage III), and country.
+
+Patients in the Rd Continuous and Rd18 arms received lenalidomide capsules 25 mg once daily on Days 1 to 21 of 28-day cycles.
+Dexamethasone was dosed 40 mg once daily on Days 1, 8, 15, and 22 of each 28-day cycle.
+For patients over > 75 years old, the starting dose of dexamethasone was 20 mg orally once daily on days 1,8,15, and 22 of repeated 28-day cycles.
+Initial dose and regimens for Rd Continuous and Rd18 were adjusted according to age and renal function.
+All patients received prophylactic anticoagulation with the most commonly used being aspirin.
+
+The demographics and disease-related baseline characteristics of the patients were balanced among the 3 arms.
+In general, study subjects had advanced-stage disease.
+Of the total study population, the median age was 73 in the 3 arms with 35% of total patients > 75 years of age; 59% had ISS Stage I/II; 41% had ISS stage III; 9% had severe renal impairment (creatinine clearance [CLcr] < 30 mL/min); 23% had moderate renal impairment (CLcr > 30 to 50 mL/min; 44% had mild renal impairment (CLcr >50 to 80 mL/min).
+For ECOG Performance Status, 29% were Grade 0, 49% Grade 1, 21% Grade 2, 0.4% ≥ Grade 3.
+
+The primary efficacy endpoint, progression-free survival (PFS), was defined as the time from randomization to the first documentation of disease progression as determined by Independent Response Adjudication Committee (IRAC), based on International Myeloma Working Group [IMWG] criteria or death due to any cause, whichever occurred first during the study until the end of the PFS follow-up phase.
+For the efficacy analysis of all endpoints, the primary comparison was between Rd Continuous and MPT arms.
+The efficacy results are summarized in the table below.
+PFS was significantly longer with Rd Continuous than MPT: HR 0.72 (95% CI: 0.61-0.85 p <0.0001).
+A lower percentage of subjects in the Rd Continuous arm compared with the MPT arm had PFS events (52% versus 61%, respectively).
+The improvement in median PFS time in the Rd Continuous arm compared with the MPT arm was 4.3 months.
+The myeloma response rate was higher with Rd Continuous compared with MPT (75.1% versus 62.3%); with a complete response in 15.1% of Rd Continuous arm patients versus 9.3% in the MPT arm.
+The median time to first response was 1.8 months in the Rd Continuous arm versus 2.8 months in the MPT arm.
+
+For the interim OS analysis with 03 March 2014 data cutoff, the median follow-up time for all surviving patients is 45.5 months, with 697 death events, representing 78% of prespecified events required for the planned final OS analysis (697/896 of the final OS events).
+The observed OS HR was 0.75 for Rd Continuous versus MPT (95% CI = 0.62, 0.90).
+
+Table 13: Overview of Efficacy Results – Study MM-020 (Intent-to-treat Population)
+
+|  | Rd Continuous(N = 535) | Rd18(N = 541) | MPT(N = 547) |
+| --- | --- | --- | --- |
+| PFS – IRAC (months)g |  |  |  |
+| Number of PFS events | 278 (52) | 348 (64.3) | 334 (61.1) |
+| Mediana PFS time, months (95% CI)b | 25.5 (20.7, 29.4) | 20.7 (19.4, 22) | 21.2 (19.3, 23.2) |
+| HR [95% CI]c; p-valued |  |  |  |
+| Rd Continuous vs MPT | 0.72 (0.61, 0.85);<0.0001 |  |  |
+| Rd Continuous vs Rd18 | 0.70 (0.60, 0.82) |  |  |
+| Rd18 vs MPT | 1.03 (0.89, 1.20) |  |  |
+| Overall Survival (months)h |  |  |  |
+| Number of Death events | 208 (38.9) | 228 (42.1) | 261 (47.7) |
+| Mediana OS time, months (95% CI)b | 58.9 (56, NE)f | 56.7 (50.1, NE) | 48.5 (44.2, 52) |
+| HR [95% CI]c |  |  |  |
+| Rd Continuous vs MPT | 0.75 (0.62, 0.90) |  |  |
+| Rd Continuous vs Rd18 | 0.91 (0.75, 1.09) |  |  |
+| Rd18 vs MPT | 0.83 (0.69, 0.99) |  |  |
+| Response Ratee – IRAC, n (%)g |  |  |  |
+| CR | 81 (15.1) | 77 (14.2) | 51 (9.3) |
+| VGPR | 152 (28.4) | 154 (28.5) | 103 (18.8) |
+| PR | 169 (31.6) | 166 (30.7) | 187 (34.2) |
+| Overall response: CR, VGPR, or PR | 402 (75.1) | 397 (73.4) | 341 (62.3) |
+| CR = complete response; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; NE = not estimable; OS = overall survival; P = prednisone; PFS = progression-free survival; PR = partial response; R = lenalidomide capsules; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide; VGPR = very good partial response; vs = versus.a The median is based on the Kaplan-Meier estimate.b The 95% Confidence Interval (CI) about the median.c Based on Cox proportional hazards model comparing the hazard functions associated with the indicated treatment arms.d The p-value is based on the unstratified log-rank test of Kaplan-Meier curve differences between the indicated treatment arms.e Best assessment of response during the treatment phase of the study.f Including patients with no response assessment data or whose only assessment was "response not evaluable."g Data cutoff date = 24 May 2013.h Data cutoff date = 3 March 2014. |  |  |  |
+
+Kaplan-Meier Curves of Progression-free Survival Based on IRAC Assessment (ITT MM Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 24 May 2013
+
+CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; IRAC = Independent Response Adjudication Committee; M = melphalan; P = prednisone; R = lenalidomide capsules; Rd Continuous = Rd given until documentation of progressive disease; Rd18 = Rd given for ≤ 18 cycles; T = thalidomide.
+
+Kaplan-Meier Curves of Overall Survival (ITT MM Population) Between Arms Rd Continuous, Rd18 and MPT Cutoff date: 03 Mar 2014
+
+CI = confidence interval; d = low-dose dexamethasone; HR = hazard ratio; M= melphalan; P =prednisone; R = lenalidomide capsules; Rd Continuous =Rd given until documentation of progressive disease; Rd18 = Rd given for ≤18 cycles; T = thalidomide.
+
+Randomized, Open-Label Clinical Studies in Patients with MM After At Least One Prior Therapy
+
+Two randomized studies (Studies 1 and 2) were conducted to evaluate the efficacy and safety of lenalidomide capsules.
+These multicenter, multinational, double-blind, placebo-controlled studies compared lenalidomide capsules plus oral pulse high-dose dexamethasone therapy to dexamethasone therapy alone in patients with MM who had received at least one prior treatment.
+These studies enrolled patients with absolute neutrophil counts (ANC) ≥ 1000/mm3, platelet counts ≥ 75,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
+
+In both studies, patients in the lenalidomide/dexamethasone group took 25 mg of lenalidomide capsules orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
+Patients in the placebo/dexamethasone group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
+Patients in both treatment groups took 40 mg of dexamethasone orally once daily on Days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy.
+
+The dose of dexamethasone was reduced to 40 mg orally once daily on Days 1 to 4 of each 28-day cycle after the first 4 cycles of therapy.
+In both studies, treatment was to continue until disease progression.
+
+In both studies, dose adjustments were allowed based on clinical and laboratory findings.
+Sequential dose reductions to 15 mg daily, 10 mg daily and 5 mg daily were allowed for toxicity [see Dosage and Administration (2.1)].
+
+Table 16 summarizes the baseline patient and disease characteristics in the two studies.
+In both studies, baseline demographic and disease-related characteristics were comparable between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
+
+Table 16: Baseline Demographic and Disease-Related Characteristics - MM Studies 1 and 2
+
+|  | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+| Lenalidomide/Dex N=177 | Placebo/Dex N=176 | Lenalidomide/Dex N=176 | Placebo/Dex N=175 |  |
+| Patient Characteristics |  |  |  |  |
+| Age (years) |  |  |  |  |
+| Median | 64 | 62 | 63 | 64 |
+| Min, Max | 36, 86 | 37, 85 | 33, 84 | 40, 82 |
+| Sex |  |  |  |  |
+| Male | 106 (60%) | 104 (59%) | 104 (59%) | 103 (59%) |
+| Female | 71 (40%) | 72 (41%) | 72 (41%) | 72 (41%) |
+| Race/Ethnicity |  |  |  |  |
+| White | 141(80%) | 148 (84%) | 172 (98%) | 175 (100%) |
+| Other | 36 (20%) | 28 (16%) | 4 (2%) | 0 (0%) |
+| ECOG Performance |  |  |  |  |
+| Status 0-1 | 157 (89%) | 168 (95%) | 150 (85%) | 144 (82%) |
+| Disease Characteristics |  |  |  |  |
+| Multiple Myeloma Stage (Durie-Salmon) |  |  |  |  |
+| I | 3% | 3% | 6% | 5% |
+| II | 32% | 31% | 28% | 33% |
+| III | 64% | 66% | 65% | 63% |
+| β2-microglobulin (mg/L) |  |  |  |  |
+| ≤ 2.5 mg/L | 52 (29%) | 51 (29%) | 51 (29%) | 48 (27%) |
+| > 2.5 mg/L | 125 (71%) | 125 (71%) | 125 (71%) | 127 (73%) |
+| Number of Prior Therapies |  |  |  |  |
+| 1 | 38% | 38% | 32% | 33% |
+| ≥ 2 | 62% | 62% | 68% | 67% |
+| Types of Prior Therapies |  |  |  |  |
+| Stem Cell Transplantation | 62% | 61% | 55% | 54% |
+| Thalidomide | 42% | 46% | 30% | 38% |
+| Dexamethasone | 81% | 71% | 66% | 69% |
+| Bortezomib | 11% | 11% | 5% | 4% |
+| Melphalan | 33% | 31% | 56% | 52% |
+| Doxorubicin | 55% | 51% | 56% | 57% |
+
+The primary efficacy endpoint in both studies was time to progression (TTP).
+TTP was defined as the time from randomization to the first occurrence of progressive disease.
+
+Preplanned interim analyses of both studies showed that the combination of lenalidomide/dexamethasone was significantly superior to dexamethasone alone for TTP.
+The studies were unblinded to allow patients in the placebo/dexamethasone group to receive treatment with the lenalidomide/dexamethasone combination.
+For both studies, the extended follow-up survival data with crossovers were analyzed.
+In study 1, the median survival time was 39.4 months (95% CI: 32.9, 47.4) in lenalidomide/dexamethasone group and 31.6 months (95% CI: 24.1, 40.9) in placebo/dexamethasone group, with a hazard ratio of 0.79 (95% CI: 0.61-1.03).
+In study 2, the median survival time was 37.5 months (95% CI: 29.9, 46.6) in lenalidomide/dexamethasone group and 30.8 months (95% CI: 23.5, 40.3) in placebo/dexamethasone group, with a hazard ratio of 0.86 (95% CI: 0.65-1.14).
+
+Table 17: TTP Results in MM Study 1 and Study 2
+
+|  | Study 1 |  | Study 2 |  |
+| --- | --- | --- | --- | --- |
+| Lenalidomide/Dex N=177 | Placebo/Dex N=176 | Lenalidomide/Dex N=176 | Placebo/Dex N=175 |  |
+| TTP |  |  |  |  |
+| Events n (%) | 73 (41) | 120 (68) | 68 (39) | 130 (74) |
+| Median TTP in months [95% CI] | 13.9 [9.5, 18.5] | 4.7 [3.7, 4.9] | 12.1 [9.5, NE] | 4.7 [3.8, 4.8] |
+| Hazard Ratio [95% CI] | 0.285 [0.210, 0.386] |  | 0.324 [0.240, 0.438] |  |
+| Log-rank Test p-value 3 | <0.001 |  | <0.001 |  |
+| Response |  |  |  |  |
+| Complete Response (CR) n (%) | 23 (13) | 1 (1) | 27 (15) | 7 (4) |
+| Partial Response (RR/PR) n (%) | 84 (48) | 33 (19) | 77 (44) | 34 (19) |
+| Overall Response n (%) | 107 (61) | 34 (19) | 104 (59) | 41 (23) |
+| p-value | <0.001 |  | <0.001 |  |
+| Odds Ratio [95% CI] | 6.38 [3.95, 10.32] |  | 4.72 [2.98, 7.49] |  |
+
+Kaplan- Meier Estimate of Time to Progression - MM Study 1
+
+Kaplan-Meier Estimate of Time to Progression - MM Study 2
+
+## 14.2 Myelodysplastic Syndromes (MDS) with a Deletion 5q Cytogenetic Abnormality
+
+The efficacy and safety of lenalidomide capsules were evaluated in patients with transfusion-dependent anemia in low- or intermediate-1- risk MDS with a 5q (q31-33) cytogenetic abnormality in isolation or with additional cytogenetic abnormalities, at a dose of 10 mg once daily or 10 mg once daily for 21 days every 28 days in an open-label, single-arm, multi-center study.
+The major study was not designed nor powered to prospectively compare the efficacy of the 2 dosing regimens.
+Sequential dose reductions to 5 mg daily and 5 mg every other day, as well as dose delays, were allowed for toxicity [see Dosage and Administration (2.2)].
+
+This major study enrolled 148 patients who had RBC transfusion dependent anemia.
+RBC transfusion dependence was defined as having received ≥ 2 units of RBCs within 8 weeks prior to study treatment.
+The study enrolled patients with absolute neutrophil counts (ANC) ≥ 500/mm3, platelet counts ≥ 50,000/mm3, serum creatinine ≤ 2.5 mg/dL, serum SGOT/AST or SGPT/ALT ≤ 3 x upper limit of normal (ULN), and serum direct bilirubin ≤ 2 mg/dL.
+Granulocyte colony-stimulating factor was permitted for patients who developed neutropenia or fever in association with neutropenia.
+Baseline patient and disease-related characteristics are summarized in Table 18.
+
+Table 18: Baseline Demographic and Disease-Related Characteristics in the MDS Study
+
+| Overall (N=148) |  |  |
+| --- | --- | --- |
+| Age (years) |  |  |
+| Median | 71 |  |
+| Min, Max | 37, 95 |  |
+| Gender | n | (%) |
+| Male | 51 | (34.5) |
+| Female | 97 | (65.5) |
+| Race | n | (%) |
+| White | 143 | (96.6) |
+| Other | 5 | (3.4) |
+| Duration of MDS (years) |  |  |
+| Median | 2.5 |  |
+| Min, Max | 0.1, 20.7 |  |
+| Del 5 (q31-33) Cytogenetic Abnormality | n | (%) |
+| Yes | 148 | (100) |
+| Other cytogenetic abnormalities | 37 | (25.2) |
+| IPSS Score a | n | (%) |
+| Low (0) | 55 | (37.2) |
+| Intermediate-1 (0.5 to 1.0) | 65 | (43.9) |
+| Intermediate-2 (1.5 to 2.0) | 6 | (4.1) |
+| High (≥2.5) | 2 | (1.4) |
+| Missing | 20 | (13.5) |
+| FAB Classificationb from central review | n | (%) |
+| RA | 77 | (52) |
+| RARS | 16 | (10.8) |
+| RAEB | 30 | (20.3) |
+| CMML | 3 | (2) |
+
+a IPSS Risk Category: Low (combined score = 0), Intermediate-1 (combined score = 0.5 to 1), Intermediate-2 (combined score = 1.5 to 2.0), High (combined score ≥ 2.5); Combined score = (Marrow blast score + Karyotype score + Cytopenia score)
+
+b French-American-British (FAB) classification of MDS.
+
+The frequency of RBC transfusion independence was assessed using criteria modified from the International Working Group (IWG) response criteria for MDS.
+RBC transfusion independence was defined as the absence of any RBC transfusion during any consecutive "rolling"56 days (8 weeks) during the treatment period.
+
+Transfusion independence was seen in 99/148 (67%) patients (95% CI [59, 74]).
+The median duration from the date when RBC transfusion independence was first declared (i.e., the last day of the 56-day RBC transfusion-free period) to the date when an additional transfusion was received after the 56-day transfusion-free period among the 99 responders was 44 weeks (range of 0 to >67 weeks).
+Ninety percent of patients who achieved a transfusion benefit did so by completion of three months in the study.
+
+RBC transfusion independence rates were unaffected by age or gender.
+
+The dose of lenalidomide capsules was reduced or interrupted at least once due to an adverse event in 118 (79.7%) of the 148 patients; the median time to the first dose reduction or interruption was 21 days (mean, 35.1 days; range, 2 to 253 days), and the median duration of the first dose interruption was 22 days (mean, 28.5 days; range, 2 to 265 days).
+A second dose reduction or interruption due to adverse events was required in 50 (33.8%) of the 148 patients.
+The median interval between the first and second dose reduction or interruption was 51 days (mean, 59.7 days; range, 15 to 205 days) and the median duration of the second dose interruption was 21 days (mean, 26 days; range, 2 to 148 days).
