@@ -1,0 +1,7 @@
+# WARNING: RISK OF CARDIAC ARREST WITH USE OF MARCAINE IN OBSTETRICAL ANESTHESIA
+
+There have been reports of cardiac arrest with difficult resuscitation or death during use of MARCAINE for epidural anesthesia in obstetrical patients.
+In most cases, this has followed use of the 0.75% (7.5 mg/mL) concentration.
+Resuscitation has been difficult or impossible despite apparently adequate preparation and appropriate management.
+Cardiac arrest has occurred after convulsions resulting from systemic toxicity, presumably following unintentional intravascular injection.
+The 0.75% (7.5 mg/mL) concentration of MARCAINE is not recommended for obstetrical anesthesia and should be reserved for surgical procedures where a high degree of muscle relaxation and prolonged effect are necessary [see Warnings and Precautions (5.1)].
