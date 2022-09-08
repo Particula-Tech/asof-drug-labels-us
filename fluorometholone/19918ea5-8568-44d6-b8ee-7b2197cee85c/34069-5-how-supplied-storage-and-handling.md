@@ -1,11 +1,10 @@
 # HOW SUPPLIED
 
 FLAREX (fluorometholone acetate ophthalmic suspension) 0.1% is supplied in white low density polyethylene (LDPE) bottles, with natural LDPE dispensing plugs and pink polypropylene closures.
-The product is supplied as 5 mL in an 8 mL bottle or as 2.5 mL in an 8 mL bottle.
+The product is supplied as 5 mL in an 8 mL bottle.
 
 | 5 mL: | NDC 71776-100-05 |
 | --- | --- |
-| 2.5 mL: | NDC 71776-100-03 |
 
 ## STORAGE
 
