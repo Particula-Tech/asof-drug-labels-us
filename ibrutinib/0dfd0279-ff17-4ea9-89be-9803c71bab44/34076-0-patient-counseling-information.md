@@ -1,6 +1,6 @@
 # 17PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patients and caregivers to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Hemorrhage: Inform patients of the possibility of bleeding, and to report any signs or symptoms (severe headache, blood in stools or urine, prolonged or uncontrolled bleeding).
 Inform the patient that IMBRUVICA may need to be interrupted for medical or dental procedures [see Warnings and Precautions (5.1)].
@@ -32,6 +32,8 @@ Inform patients to take IMBRUVICA orally once daily according to their physician
 Advise patients that in the event of a missed daily dose of IMBRUVICA, it should be taken as soon as possible on the same day with a return to the normal schedule the following day.
 Patients should not take extra doses to make up the missed dose [see Dosage and Administration (2.1)].
 
+For IMBRUVICA oral suspension, instruct patients or caregivers to read and follow the Instructions for Use for proper preparation, administration, storage and disposal [see Dosage and Administration (2.1)].
+
 Advise patients of the common side effects associated with IMBRUVICA [see Adverse Reactions (6)].
 Direct the patient to a complete list of adverse drug reactions in PATIENT INFORMATION.
 
@@ -45,3 +47,5 @@ Distributed and Marketed by: Pharmacyclics LLC South San Francisco, CA 94080 USA
 Patent http://www.imbruvica.com IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
 
 © Pharmacyclics LLC 2022 © Janssen Biotech, Inc. 2022
+
+20071936 R2

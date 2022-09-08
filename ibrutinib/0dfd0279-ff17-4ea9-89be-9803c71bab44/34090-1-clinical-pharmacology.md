@@ -12,6 +12,9 @@ Nonclinical studies show that ibrutinib inhibits malignant B-cell proliferation 
 
 In patients with recurrent B-cell lymphoma > 90% occupancy of the BTK active site in peripheral blood mononuclear cells was observed up to 24 hours after ibrutinib doses of ≥ 2.5 mg/kg/day (≥ 175 mg/day for average weight of 70 kg).
 
+In adult patients with cGVHD, 93% occupancy of the BTK active site in peripheral blood mononuclear cells was observed at the ibrutinib recommended dose.
+The mean BTK occupancy in pediatric patients ranged from 95.1% to 99.6%.
+
 In vitro Platelet Aggregation
 
 Ibrutinib demonstrated inhibition of collagen-induced platelet aggregation, with IC50 values at 4.6 µM (2026 ng/mL), 0.8 µM (352 ng/mL), and 3 µM (1321 ng/mL) in blood samples from healthy donors, donors taking warfarin, and donors with severe renal dysfunction, respectively.
@@ -24,7 +27,7 @@ At a single dose 3 times the maximum recommended dose (1680 mg), IMBRUVICA did n
 ## 12.3 Pharmacokinetics
 
 Ibrutinib exposure increases with doses up to 840 mg (1.5 times the maximum approved recommended dosage) in patients with B-cell malignancies.
-The mean steady-state AUC (% coefficient of variation) observed in patients at 560 mg with MCL is 865 (69%) ng•h/mL and with MZL is 978 (82%) ng•h/mL, and in patients at 420 mg with CLL/SLL is 708 (71%) ng•h/mL, with WM is 707 (72%) ng•h/mL, and with cGVHD is 1159 (50%) ng•h/mL.
+The mean steady-state AUC (% coefficient of variation) observed in patients at 560 mg with MCL is 865 (69%) ng●h/mL and with MZL is 978 (82%) ng●h/mL, and in patients at 420 mg with CLL/SLL is 708 (71%) ng●h/mL, with WM is 707 (72%) ng●h/mL, and in adult patients with previously treated cGVHD is 1159 (50%) ng●h/mL.
 Steady-state concentrations of ibrutinib without CYP3A inhibitors were achieved with an accumulation ratio of 1 to 1.6 after 1 week of multiple daily doses of 420 mg or 560 mg.
 
 Absorption
@@ -78,6 +81,10 @@ Patients with Hepatic Impairment
 The AUC of ibrutinib increased 2.7-fold in subjects with mild hepatic impairment (Child-Pugh class A), 8.2-fold in subjects with moderate hepatic impairment (Child-Pugh class B) and 9.8-fold in subjects with severe hepatic impairment (Child-Pugh class C) relative to subjects with normal liver function.
 The Cmax of ibrutinib increased 5.2-fold in mild hepatic impairment, 8.8-fold in moderate hepatic impairment and 7-fold in severe hepatic impairment relative to subjects with normal liver function [see Use in Specific Populations (8.6)].
 
+Pediatric Patients
+
+In pediatric patients with cGVHD treated with ibrutinib at 240 mg/m2 once daily (patients age ≥1 to <12 years) or 420 mg once daily (patients age ≥12 years), the geometric mean (%CV) steady state AUC and Cmax in patients age ≥1 to <12 years is 467 (102%) ng●h/mL and 65.7 (96%) ng/mL, respectively, and in patients age ≥12 to <17 years is 966 (78%) ng●h/mL and 149 (79%) ng/mL, respectively.
+
 Drug Interaction Studies
 
 Clinical Studies and Model-Informed Approaches
@@ -97,4 +104,4 @@ Effect of Ibrutinib on CYP Substrates: In vitro studies suggest that ibrutinib a
 Both ibrutinib and PCI-45227 are unlikely to induce CYP1A2, CYP2B6 or CYP3A at clinical doses.
 
 Effect of Ibrutinib on Substrates of Transporters: In vitro studies suggest that ibrutinib may inhibit BCRP and P-gp transport at clinical doses.
-The coadministration of oral P-gp or BCRP substrates with a narrow therapeutic index (e.g., digoxin, methotrexate) with IMBRUVICA may increase their concentrations.
+The coadministration of oral P-gp or BCRP substrates (e.g., digoxin, methotrexate) with IMBRUVICA may increase their concentrations.

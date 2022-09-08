@@ -54,19 +54,45 @@ Advise males with female partners of reproductive potential to use effective con
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of IMBRUVICA in pediatric patients have not been established.
+Chronic GVHD
+
+The safety and effectiveness of IMBRUVICA have been established for treatment of cGVHD after failure of one or more lines of systemic therapy in pediatric patients 1 year of age and older.
+
+Use of IMBRUVICA for this indication is supported by evidence from iMAGINE, a study which included pediatric patients age 1 year and older with previously treated cGVHD, including patients in the following age groups: one patient 1 year to less than 2 years of age, 20 patients 2 years to less than 12 years of age, and 19 patients 12 years to less than 17 years of age.
+Additional supportive efficacy data was provided from Study 1129 in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+
+The recommended dosage of IMBRUVICA in patients age 12 years and older is the same as that in adults, and the recommended dosage in patients age 1 year to less than 12 years old is based on body-surface area (BSA) [see Dosage and Administration (2.1)].
+
+The safety and effectiveness of IMBRUVICA have not been established for this indication in pediatric patients less than 1 year of age.
+
+Mature B-cell Non-Hodgkin Lymphoma
+
+The safety and effectiveness of IMBRUVICA in combination with chemoimmunotherapy were assessed but have not been established based on an open-label, randomized study (NCT02703272) in 35 patients, which included 26 pediatric patients age 5 to less than 17 years, with previously treated mature B-cell non-Hodgkin lymphoma.
+The study was stopped for futility.
+In the randomized population, major hemorrhage and discontinuation of chemoimmunotherapy due to adverse reactions occurred more frequently in the ibrutinib plus chemoimmunotherapy arm compared to the chemoimmunotherapy alone arm.
+
+MCL, CLL/SLL, CLL/SLL with 17p deletion, WM, MZL
+
+The safety and effectiveness of IMBRUVICA in pediatric patients have not been established in MCL, CLL/SLL, CLL/SLL with 17p deletion, WM, or MZL.
 
 ## 8.5 Geriatric Use
 
-Of the 1,124 patients in clinical studies of IMBRUVICA, 64% were ≥ 65 years of age, while 23% were ≥75 years of age.
+Of the 1,124 patients in clinical studies of IMBRUVICA for MCL, CLL/SLL, CLL/SLL with 17p deletion, WM, MZL, and cGVHD, 64% were ≥ 65 years of age, while 23% were ≥75 years of age [see Clinical Studies (14.1, 14.2, 14.3, 14.4, 14.5)].
 No overall differences in effectiveness were observed between younger and older patients.
-Anemia (all grades), pneumonia (Grade 3 or higher), thrombocytopenia, hypertension, and atrial fibrillation occurred more frequently among older patients treated with IMBRUVICA.
+Anemia (all grades), pneumonia (Grade 3 or higher), thrombocytopenia, hypertension, and atrial fibrillation occurred more frequently among older patients treated with IMBRUVICA [see Adverse Reactions (6.1)].
 
 ## 8.6 Hepatic Impairment
+
+Adult Patients with B-cell Malignancies
 
 Avoid use of IMBRUVICA in patients with severe hepatic impairment (Child-Pugh class C). The safety of IMBRUVICA has not been evaluated in patients with mild to severe hepatic impairment by Child-Pugh criteria.
 
 Reduce the recommended dose when administering IMBRUVICA to patients with mild or moderate hepatic impairment (Child-Pugh class A and B). Monitor patients more frequently for adverse reactions of IMBRUVICA [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+
+Patients with cGVHD
+
+Avoid use of IMBRUVICA in patients with total bilirubin level > 3 x ULN (unless of non-hepatic origin or due to Gilbert’s syndrome).
+Reduce recommended dose when administering IMBRUVICA to patients with total bilirubin level > 1.5 to 3 x ULN (unless of non-hepatic origin or due to Gilbert’s syndrome) [see Dosage and Administration (2.4)].
 
 ## 8.7 Plasmapheresis
 

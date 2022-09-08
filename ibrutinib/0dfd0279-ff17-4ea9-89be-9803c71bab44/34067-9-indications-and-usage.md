@@ -28,4 +28,4 @@ Continued approval for this indication may be contingent upon verification and d
 
 ## 1.6 Chronic Graft versus Host Disease
 
-IMBRUVICA is indicated for the treatment of adult patients with chronic graft-versus-host disease (cGVHD) after failure of one or more lines of systemic therapy.
+IMBRUVICA is indicated for the treatment of adult and pediatric patients age 1 year and older with chronic graft-versus-host disease (cGVHD) after failure of one or more lines of systemic therapy.

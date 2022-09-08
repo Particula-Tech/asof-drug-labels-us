@@ -115,3 +115,21 @@ Rx Only
 pharmacyclics® An AbbVie Company
 
 janssen
+
+PRINCIPAL DISPLAY PANEL
+
+NDC 57962-007-12
+
+Imbruvica® (ibrutinib) Oral Suspension
+
+70 mg/mL
+
+For Oral Use Only Shake well before each use Discard after 60 Days
+
+Rx Only
+
+108mL per Bottle
+
+pharmacyclics® An AbbVie Company
+
+janssen
