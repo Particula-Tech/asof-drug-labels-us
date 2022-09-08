@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215430"
+  ],
+  "inn": "bupropion",
+  "labeler": "Axsome Therapeutics, Inc.",
+  "package_ndcs": [
+    "81968-045-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, MULTILAYER, EXTENDED RELEASE",
+      "generic": "dextromethorphan hydrobromide, bupropion hydrochloride",
+      "name": "AUVELITY"
+    }
+  ],
+  "setid": "dcefda7c-9a68-278e-e053-2995a90aec79",
+  "source": "dailymed"
+}
