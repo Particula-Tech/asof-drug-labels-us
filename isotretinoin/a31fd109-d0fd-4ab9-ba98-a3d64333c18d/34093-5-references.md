@@ -39,7 +39,7 @@ Document Patient Identification Number _________________________________________
 
 Patient Enrollment Form for Patients who can get Pregnant
 
-To be completed by the patient (and the parent or guardian* if patient is under age 18) and signed by the doctor.
+To be completed by the patient (and their parent or guardian* if patient is under age 18) and signed by their doctor.
 
 Read each item below and initial in the space provided to show that you understand each item and agree to follow your doctor’s instructions.
 Do not sign this consent and do not take isotretinoin if there is anything that you do not understand.
@@ -50,7 +50,7 @@ ______________________________________________________________________________
 
 (Patient’s Name)
 
-1. I understand that there is a very high chance that my unborn baby could have severe birth defects if I am pregnant or become pregnant while taking isotretinoin.
+1. I understand that there is a very high chance that my unborn baby could have life-threatening birth defects if I am pregnant or become pregnant while taking isotretinoin.
    This can happen with any amount and even if taken for short periods of time.
    This is why I must not be pregnant while taking isotretinoin.
    Initial: __________
@@ -61,8 +61,8 @@ ______________________________________________________________________________
    Initial: __________
 4. I understand that hormonal birth control products are among the most effective forms of birth control.
    Combination birth control pills and other hormonal products include skin patches, shots, under-the-skin implants, vaginal rings, and intrauterine devices (IUDs).
-   Any form of birth control can fail.
-   That is why I must use two different birth control methods at the same time, starting one month before, during, and for one month after stopping therapy every time I have any sexual contact (penis-vaginal) with a partner who could get me pregnant, even if one of the forms I choose is hormonal birth control.
+   Any method of birth control can fail.
+   That is why I must use two different birth control forms at the same time, starting one month before, during, and for one month after stopping therapy every time I have any sexual contact (penis-vaginal) with a partner who could get me pregnant, even if one of the forms I choose is hormonal birth control.
    Initial: __________
 5. I understand that the following are effective forms of birth control: Primary forms Secondary forms ● tying my tubes (tubal sterilization) Barrier: ● male vasectomy ● male latex condom with or without spermicide ● intrauterine device ● diaphragm with spermicide ● hormonal (combination birth control pills, ● cervical cap with spermicide skin patches, shots, under-the-skin implants Other: or vaginal ring) ● vaginal sponge (contains spermicide) A diaphragm and cervical cap must each be used with spermicide, a special cream that kills sperm.
    I understand that at least one of my two forms of birth control must be a primary form.
@@ -82,15 +82,15 @@ ______________________________________________________________________________
    - every month during treatment
    - at the end of treatment
    - and 1 month after stopping treatment
-10. I have read and understand the materials my doctor has provided to me, including the Guide for Patients Who Can Get Pregnant, and the Fact Sheet on the iPLEDGE Program.
+10. I have read and understand the materials my doctor has provided to me, including the Guide for Patients Who Can Get Pregnant, and the Fact Sheet on the iPLEDGE REMS.
     I have received information on emergency birth control.
     Initial: __________
 11. I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have any sexual contact (penis-vaginal) with a partner who could get me pregnant without using my two birth control forms at any time.
     Initial: __________
-12. My doctor provided me information about the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within one month of the last dose.
-    I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE Program for the makers of isotretinoin, and government health regulatory authorities.
+12. My doctor provided me information about the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
+    I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE REMS for the makers of isotretinoin, and government health regulatory authorities.
     Initial: __________
-13. I understand that being qualified to receive isotretinoin in the iPLEDGE Program means that I:
+13. I understand that being qualified to receive isotretinoin in the iPLEDGE REMS means that I:
 
 - have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
   The second test must be done in a lab.
@@ -100,8 +100,8 @@ ______________________________________________________________________________
   I must use two forms of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
   I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
 - have signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
-- have been informed of and understand the purpose and importance of providing information to the iPLEDGE Program should I become pregnant while taking isotretinoin or within 1 month of the last dose.
-- have interacted with the iPLEDGE Program before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
+- have been informed of and understand the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within 1 month of the last dose.
+- have interacted with the iPLEDGE REMS before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
 
 Initial: ______
 
@@ -185,13 +185,13 @@ Do not sign this agreement and do not take isotretinoin if there is anything tha
 9. Isotretinoin will be prescribed just for me – I will not share isotretinoin with other people because it may cause serious side effects, including birth defects.
    Initials: __________
 10. I will not give blood while taking isotretinoin or for 1 month after I stop taking isotretinoin.
-    I understand that if someone who is pregnant gets my donated blood, the baby may be exposed to isotretinoin and may be born with serious birth defects.
+    I understand that if someone who is pregnant gets my donated blood, their baby may be exposed to isotretinoin and may be born with serious birth defects.
     Initials: __________
-11. I have read the Fact Sheet for the iPLEDGE Program, and other materials my provider provided me containing important safety information about isotretinoin.
+11. I have read the Fact Sheet for the iPLEDGE REMS, and other materials my provider provided me containing important safety information about isotretinoin.
     I understand all the information I received.
     Initials: __________
 12. My doctor and I have decided I should take isotretinoin.
-    I understand that I must be qualified in the iPLEDGE Program to have my prescription filled each month.
+    I understand that I must be qualified in the iPLEDGE REMS to have my prescription filled each month.
     I understand that I can stop taking isotretinoin at any time.
     I agree to tell my doctor if I stop taking isotretinoin.
 
@@ -211,7 +211,7 @@ I have:
 
 • fully explained to the patient, ______________________________, the nature and purpose of isotretinoin treatment, including its benefits and risks.
 
-• provided the patient with the appropriate educational materials, such as the Fact Sheet for the iPLEDGE Program and asked the patient if there are any questions regarding their treatment with isotretinoin.
+• provided the patient with the appropriate educational materials, such as the Fact Sheet for the iPLEDGE REMS and asked the patient if there are any questions regarding their treatment with isotretinoin.
 
 • answered those questions to the best of my ability.
 

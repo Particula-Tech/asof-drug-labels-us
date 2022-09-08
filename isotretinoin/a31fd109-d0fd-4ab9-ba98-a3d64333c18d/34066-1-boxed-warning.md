@@ -1,7 +1,7 @@
 # CONTRAINDICATIONS AND WARNINGS
 
 Claravis™ must not be used by patients who are or may become pregnant.
-There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking Claravis in any amount, even for short periods of time.
+There is an extremely high risk that life-threatening birth defects will result if pregnancy occurs while taking Claravis in any amount, even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining whether an exposed fetus has been affected.
 
@@ -18,13 +18,13 @@ If pregnancy does occur during treatment of a patient who is taking Claravis, Cl
 Special Prescribing Requirements
 
 Because of isotretinoin's teratogenicity and to minimize fetal exposure, Claravis is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
-This program is called iPLEDGE®.
-Claravis must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
-Claravis must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).
+This REMS is called iPLEDGE®.
+Claravis must only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
+Claravis must only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolled and meet all the requirements of iPLEDGE (see PRECAUTIONS).
 
 INFORMATION FOR PHARMACISTS
 
-Access the iPLEDGE Program system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date.
+Access the iPLEDGE REMS system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to obtain an authorization and the “do not dispense to patient after” date.
 Claravis must only be dispensed in no more than a 30-day supply.
 
 REFILLS REQUIRE A NEW PRESCRIPTION AND A NEW AUTHORIZATION FROM THE iPLEDGE SYSTEM.

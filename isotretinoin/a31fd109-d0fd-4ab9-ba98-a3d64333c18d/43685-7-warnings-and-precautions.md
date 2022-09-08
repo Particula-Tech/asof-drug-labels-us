@@ -77,12 +77,12 @@ Patients experiencing abdominal pain, rectal bleeding or severe diarrhea should 
 ### Bone Mineral Density
 
 Effects of multiple courses of Claravis on the developing musculoskeletal system are unknown.
-There is some evidence that long-term, high dose, or multiple courses of therapy with isotretinoin have more of an effect than a single course of therapy on the musculoskeletal system.
+There is some evidence that long-term, high-dose, or multiple courses of therapy with isotretinoin have more of an effect than a single course of therapy on the musculoskeletal system.
 In an open-label clinical trial (N=217) of a single course of therapy with Claravis for severe recalcitrant nodular acne, bone density measurements at several skeletal sites were not significantly decreased (lumbar spine change >-4% and total hip change >-5%) or were increased in the majority of patients.
 One patient had a decrease in lumbar spine bone mineral density >4% based on unadjusted data.
 Sixteen (7.9%) patients had decreases in lumbar spine bone mineral density >4%, and all the other patients (92%) did not have significant decreases or had increases (adjusted for body mass index).
 Nine patients (4.5%) had a decrease in total hip bone mineral density >5% based on unadjusted data.
-Twenty one (10.6%) patients had decreases in total hip bone mineral density >5%, and all the other patients (89%) did not have significant decreases or had increases (adjusted for body mass index).
+Twenty-one (10.6%) patients had decreases in total hip bone mineral density >5%, and all the other patients (89%) did not have significant decreases or had increases (adjusted for body mass index).
 Follow-up studies performed in eight of the patients with decreased bone mineral density for up to 11 months thereafter demonstrated increasing bone density in five patients at the lumbar spine, while the other three patients had lumbar spine bone density measurements below baseline values.
 Total hip bone mineral densities remained below baseline (range –1.6% to –7.6%) in five of eight patients (62.5%).
 
@@ -125,45 +125,44 @@ Because the onset in some patients was sudden, patients should be advised of thi
 
 # PRECAUTIONS
 
-Claravis must only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
-Claravis must only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE.
-Registered and activated pharmacies must receive isotretinoin only from wholesalers registered with iPLEDGE.
+Claravis must only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
+Claravis must only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolled and meet all the requirements of iPLEDGE.
+Enrolled and activated pharmacies must receive isotretinoin only from wholesalers enrolled with iPLEDGE.
 
-iPLEDGE Program requirements for wholesalers, prescribers, and pharmacists are described below:
+iPLEDGE REMS requirements for wholesalers, prescribers, and pharmacists are described below:
 
 ## Wholesalers
 
-For the purpose of the iPLEDGE Program, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
-To distribute Claravis, wholesalers must be registered with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
-Wholesalers must register with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
+For the purpose of the iPLEDGE REMS, the term wholesaler refers to wholesaler, distributor, and/or chain pharmacy distributor.
+To distribute Claravis, wholesalers must be enrolled with iPLEDGE, and agree to meet all iPLEDGE requirements for wholesale distribution of isotretinoin products.
+Wholesalers must enroll with iPLEDGE by signing and returning the iPLEDGE wholesaler agreement that affirms they will comply with all iPLEDGE requirements for distribution of isotretinoin.
 These include:
 
-- Registering prior to distributing isotretinoin and re-registering annually thereafter
+- Enrolling prior to distributing isotretinoin and re-enrolling annually thereafter
 - Distributing only FDA approved isotretinoin product
-- Only shipping isotretinoin to -wholesalers registered in the iPLEDGE Program with prior written consent from the manufacturer or -pharmacies licensed in the U.S. and registered and activated in the iPLEDGE Program
-- Notifying the isotretinoin manufacturer (or delegate) of any non-registered and/or non-activated pharmacy or unregistered wholesaler that attempts to order isotretinoin
-- Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE Program by the isotretinoin manufacturer (or delegate)
-- Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE Program or if the wholesaler chooses to not re-register annually
+- Only shipping isotretinoin to -wholesalers enrolled in the iPLEDGE REMS with prior written consent from the manufacturer or -pharmacies licensed in the U.S. and enrolled and activated in the iPLEDGE REMS
+- Notifying the isotretinoin manufacturer (or delegate) of any non-enrolled and/or non-activated pharmacy or unenrolled wholesaler that attempts to order isotretinoin
+- Complying with inspection/audit of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
+- Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE REMS or if the wholesaler chooses to not re-enroll annually
 
 ## Prescribers
 
-To prescribe isotretinoin, the prescriber must be registered and activated with the pregnancy risk management program iPLEDGE.
-Prescribers can register by signing and returning the completed enrollment form.
-Prescribers can only activate their registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
+To prescribe isotretinoin, the prescriber must be enrolled and activated with the pregnancy risk management program iPLEDGE.
+Prescribers can enroll by signing and returning the completed enrollment form.
+Prescribers can only activate their enrollment by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
 - I know the risk factors for unplanned pregnancy and the effective measures for avoidance of unplanned pregnancy.
 - I have the expertise to provide the patient with detailed pregnancy prevention counseling, or I will refer the patient to an expert for such counseling, reimbursed by the manufacturer.
-- I will comply with the iPLEDGE Program requirements described in the booklet entitled Prescriber Guide.
-- I understand and will comply with the Non-Compliance Action Policy.
-- Before beginning treatment of patients who can become pregnant with isotretinoin and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence from any sexual contact with a partner which could result in pregnancy.
+- I will comply with the iPLEDGE REMS requirements described in the booklet entitled iPLEDGE REMS Prescriber Guide.
+- Before beginning treatment of patients who can become pregnant with isotretinoin and on a monthly basis, the patient will be counseled to avoid pregnancy by using two forms of contraception simultaneously and continuously for at least one month prior to initiation of isotretinoin treatment, during isotretinoin treatment and for one month after discontinuing isotretinoin treatment, unless the patient commits to continuous abstinence, not having any sexual contact with a partner that could result in pregnancy.
 - I will not prescribe isotretinoin to any patient who can become pregnant until verifying the patient has a negative screening pregnancy test and monthly negative CLIA-certified (Clinical Laboratory Improvement Amendment) pregnancy tests.
   Patients should have a pregnancy test at the completion of the entire course of isotretinoin and another pregnancy test one month later.
 - I will report any pregnancy case that I become aware of while the patient who can become pregnant is on isotretinoin or one month after the last dose to the pregnancy registry.
 
 To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) to:
 
-1. Register each patient in the iPLEDGE Program.
+1. Register each patient in the iPLEDGE REMS.
 2. Confirm monthly that each patient has received counseling and education.
 3. For patients who can become pregnant:
 
@@ -172,7 +171,7 @@ To prescribe isotretinoin, the prescriber must access the iPLEDGE system via the
 
 Isotretinoin must only be prescribed to patients who are known not to be pregnant as confirmed by a negative CLIA-certified laboratory conducted pregnancy test.
 
-Isotretinoin must only be dispensed by a pharmacy registered and activated with the pregnancy risk management program iPLEDGE and only when the registered patient meets all the requirements of the iPLEDGE Program.
+Isotretinoin must only be dispensed by a pharmacy enrolled and activated with the pregnancy risk management program iPLEDGE and only when the enrolled patient meets all the requirements of the iPLEDGE REMS.
 Meeting the requirements for a patient who can become pregnant signifies that the patient:
 
 - Has been counseled and has signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin.
@@ -183,30 +182,29 @@ Meeting the requirements for a patient who can become pregnant signifies that th
   The interval between the two tests should be at least 19 days. - For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month. -For patients with amenorrhea, irregular cycles, or using a contraceptive form that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
 - Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the patient who can become pregnant receiving each prescription.
-- Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary method, unless the patient commits to continuous abstinence from any sexual contact with a partner which could result in pregnancy, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be postmenopausal.
+- Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary form, unless the patient commits to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be postmenopausal.
   Patients must use two forms of effective contraception for at least one month prior to initiation of isotretinoin therapy, during isotretinoin therapy, and for one month after discontinuing isotretinoin therapy.
   Counseling about contraception and behaviors associated with an increased risk of pregnancy must be repeated on a monthly basis.
 
 If the patient has unprotected sexual contact with a partner that could result in pregnancy at any time one month before, during, or one month after therapy, the patient must:
 
 1. Stop taking isotretinoin immediately, if on therapy
-2. Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner which could result in pregnancy,
+2. Have a pregnancy test at least 19 days after the last act of unprotected sexual contact with a partner that could result in pregnancy,
 3. Start using two forms of effective contraception simultaneously again for one month before resuming isotretinoin therapy
 4. Have a second pregnancy test after using two forms of effective contraception for one month as described above depending on whether the patient has regular menses or not.
 
 Effective forms of contraception include both primary and secondary forms of contraception:
 
-Primary forms Secondary forms ● tubal sterilization Barrier: ● male vasectomy ● male latex condom with or without spermicide ● intrauterine device ● diaphragm with spermicide ● hormonal (combination oral contraceptives, ● cervical cap with spermicide transdermal patch, injectables, implantables, ● vaginal sponge (contains spermicide) or vaginal ring)
+Primary forms Secondary forms ● tubal sterilization Barrier: ● male vasectomy ● male latex condom with or without spermicide ● intrauterine device ● diaphragm with spermicide ● hormonal (combination oral contraceptives, ● cervical cap with spermicide transdermal patch, injectables, implantables, Other: or vaginal ring) ● vaginal sponge (contains spermicide)
 
 Any birth control method can fail.
 There have been reports of pregnancy from patients who can become pregnant who have used oral contraceptives, as well as transdermal patch/injectable/implantable/vaginal ring hormonal birth control products; these pregnancies occurred while these patients were taking Claravis.
 These reports are more frequent for patients who use only a single form of contraception.
 Therefore, it is critically important that patients who can become pregnant use two effective forms of contraception simultaneously.
-Patients must receive warnings about the importance of choosing one primary form and a secondary form of contraception and that the patient must be compliant in use as outlined in the Birth Control Information Sheet.
+Patients must receive warnings about the importance of choosing one primary method and a secondary method of contraception and that the patient must be compliant in use as outlined in the Guide for Patients who can get Pregnant.
 
 Using two forms of contraception simultaneously substantially reduces the chances that a patient will become pregnant over the risk of pregnancy with either form alone.
 A drug interaction that decreases effectiveness of hormonal contraceptives has not been entirely ruled out for Claravis (see PRECAUTIONS, Drug Interactions).
-
 Although hormonal contraceptives are highly effective, prescribers are advised to consult the package insert of any medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
 
 Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John's Wort.
@@ -221,8 +219,8 @@ Any suspected fetal exposure during or one month after isotretinoin therapy must
 Isotretinoin is contraindicated in patients who are pregnant.
 To receive isotretinoin all patients must meet all of the following conditions:
 
-- Must be registered with the iPLEDGE Program by the prescriber
-- Must understand that severe birth defects can occur with the use of isotretinoin by patients who can become pregnant
+- Must be enrolled with the iPLEDGE REMS by the prescriber
+- Must understand that life threatening birth defects can occur with the use of isotretinoin by patients who can become pregnant
 - Must be reliable in understanding and carrying out instructions
 - Must sign a Patient Enrollment Form for Patients who cannot get Pregnant that contains warnings about the potential risks associated with isotretinoin
 - Must obtain the prescription within 7 days of the date of specimen collection for the pregnancy test for patients who can become pregnant
@@ -238,32 +236,34 @@ In addition to the requirements for all patients described above, patients who c
 - Must NOT be pregnant or breast-feeding
 - Must comply with the required pregnancy testing at a CLIA-certified laboratory
 - Must obtain the prescription within 7 days of the date of specimen collection for the pregnancy test
-- Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence from any sexual contact with a partner which could result in pregnancy, and understand behaviors associated with an increased risk of pregnancy
+- Must be capable of complying with the mandatory contraceptive measures required for isotretinoin therapy, or commit to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, and understand behaviors associated with an increased risk of pregnancy
 - Must understand that it is the patient who can become pregnant’s responsibility to avoid pregnancy one month before, during and one month after isotretinoin therapy
 - Must have signed an additional Patient Enrollment Form for Patients who can get Pregnant, before starting isotretinoin, that contains warnings about the risk of potential birth defects if the fetus is exposed to isotretinoin
 - Must access the iPLEDGE system via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654), before starting isotretinoin, on a monthly basis during therapy, and one month after the last dose to answer questions on the program requirements and to enter the patient’s two chosen forms of contraception
-- Must have been informed of the purpose and importance of providing information to the iPLEDGE Program should the patient become pregnant while taking isotretinoin or within one month of the last dose
+- Must have been informed of the purpose and importance of providing information to the iPLEDGE REMS should the patient become pregnant while taking isotretinoin or within one month of the last dose
 
 ## Pharmacists
 
-To dispense isotretinoin, pharmacies must be registered and activated with the pregnancy risk management program iPLEDGE.
+To dispense isotretinoin, pharmacies must be enrolled and activated with the pregnancy risk management program iPLEDGE.
 
-The Responsible Site Pharmacist must register the pharmacy by signing and returning the completed enrollment form.
-After registration, the Responsible Site Pharmacist can only activate the pharmacy registration by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
+The Responsible Site Pharmacist must enroll the pharmacy by signing and returning the completed Pharmacy Enrollment Form.
+After enrolling, the Responsible Site Pharmacist can only activate the pharmacy enrollment by affirming that they meet requirements and will comply with all iPLEDGE requirements by attesting to the following points:
 
 - I know the risk and severity of fetal injury/birth defects from isotretinoin.
-- I will train all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions on the iPLEDGE Program requirements.
-- I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE Program requirements described in the booklet entitled Pharmacist Guide, specifically the “Key Information for Pharmacists” section including the following dispensing information:
-  - Prescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE Program system and the product returned to inventory.
-- I will only obtain Claravis product from only iPLEDGE registered wholesalers.
+- I will train all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions on the iPLEDGE REMS requirements.
+- I will comply and seek to ensure all pharmacists who participate in the filling and dispensing of isotretinoin prescriptions comply with the iPLEDGE REMS requirements described in the booklet entitled Pharmacist Guide, specifically the “Key Information for Pharmacists” section including the following dispensing information:
+  - Prescriptions must be obtained no later than the “Do Not Dispense To After” date, and if not obtained, then the RMA must be reversed in the iPLEDGE REMS system and the product returned to inventory.
+- I understand and will comply with the Non-Compliance Action Policy.
+- I will only obtain Claravis product from only iPLEDGE enrolled wholesalers.
 - I will not sell, buy, borrow, loan or otherwise transfer isotretinoin in any manner to or from another pharmacy.
-- I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE Program or if the pharmacy chooses to not reactivate annually.
+- I will return to the manufacturer (or delegate) any unused product if the pharmacy is deactivated by the iPLEDGE REMS or if the pharmacy chooses to not reactivate annually.
 - I will not fill isotretinoin for any party other than a qualified patient.
+- I will comply with the audits by the iPLEDGE Sponsors or third party acting on behalf of the iPLEDGE Sponsors to ensure that all processes and procedures are in place and being followed for the iPLEDGE REMS.
 
 To dispense isotretinoin, the pharmacist must:
 
-1. be trained by the Responsible Site Pharmacist concerning the iPLEDGE Program requirements.
-2. obtain authorization from the iPLEDGE Program via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) for every isotretinoin prescription.
+1. be trained by the Responsible Site Pharmacist concerning the iPLEDGE REMS requirements.
+2. obtain authorization from the iPLEDGE REMS via the internet (www.ipledgeprogram.com) or telephone (1-866-495-0654) for every isotretinoin prescription.
    Authorization signifies that the patient has met all program requirements and is qualified to receive isotretinoin.
 3. write the Risk Management Authorization (RMA) number on the prescription.
 
@@ -271,31 +271,30 @@ Claravis must only be dispensed:
 
 - in no more than a 30-day supply
 - with a Claravis Medication Guide
-- after authorization from the iPLEDGE Program
+- after authorization from the iPLEDGE REMS
 - prior to the “do not dispense to patient after” date provided by the iPLEDGE system (within 30 days of the office visit for patients who cannot become pregnant and within 7 days of the date of specimen collection for patients who can become pregnant)
-- with a new prescription for refills and another authorization from the iPLEDGE Program (No automatic refills are allowed)
+- with a new prescription for refills and another authorization from the iPLEDGE REMS (No automatic refills are allowed)
 
 A Claravis Medication Guide must be given to the patient each time Claravis is dispensed, as required by law.
 This Claravis Medication Guide is an important part of the risk management program for the patients.
 
-Claravis must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE Program.
+Claravis must not be prescribed, dispensed or otherwise obtained through the internet or any other means outside of the iPLEDGE REMS.
 Only FDA-approved isotretinoin products must be distributed, prescribed, dispensed, and used.
 Patients must obtain Claravis prescriptions only at US licensed pharmacies.
 
-A description of the iPLEDGE Program educational materials available with iPLEDGE is provided below.
-The main goal of these educational materials is to explain the iPLEDGE Program requirements and to reinforce the educational messages.
+A description of the iPLEDGE REMS educational materials available with iPLEDGE is provided below.
+The main goal of these educational materials is to explain the iPLEDGE REMS requirements and to reinforce the educational messages.
 
 1. Prescriber Guide includes: isotretinoin teratogenic potential, information on pregnancy testing, and the method to complete a qualified isotretinoin prescription.
 2. Pharmacist Guide includes: isotretinoin teratogenic potential and the method to obtain authorization to dispense an isotretinoin prescription.
-3. The iPLEDGE Program is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
-   The iPLEDGE Program includes information on the risks and benefits of isotretinoin which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
-4. The Fact Sheet for the iPLEDGE Program includes information on the iPLEDGE Program, the product indications and safety information.
-   It also includes a Program Checklist for patients who can get pregnant and patients who cannot get pregnant.
-   This is handout is provided to both the patient who can become pregnant.
-   The Patient Information/Informed Consent form (for all patients) is also provided to all patients.
+3. The iPLEDGE REMS is a systematic approach to comprehensive patient education about their responsibilities and includes education for contraception compliance and reinforcement of educational messages.
+   The iPLEDGE REMS includes information on the risks and benefits of isotretinoin which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
+4. The Fact Sheet for the iPLEDGE REMS includes information on the iPLEDGE REMS, the product indications and safety information.
+   This handout is provided to both the patient who can become pregnant and the patient who cannot become pregnant.
+   The Patient Enrollment Form for Patients who cannot get Pregnant is also provided to all patients.
 5. Patients who can become pregnant are provided with a Guide for Patients Who Can Get Pregnant, which contains information on isotretinoin therapy including precautions and warnings, and a second Patient Enrollment Form for Patients who can get Pregnant concerning birth defects.
-6. The booklet for patients who can become pregnant, Contraception Counseling Guide, includes a referral program that offers patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist; and a second Patient Enrollment Form for Patients who can get Pregnant concerning birth defects.
-7. The iPLEDGE Program Birth Control Information Sheet outlines the effectiveness of the approved contraception options (see Information for Patients).
+6. The booklet for patients who can become pregnant, Contraception Counseling Guide, includes a referral program that offers patients free contraception counseling, reimbursed by the manufacturer, by a reproductive specialist and a second Patient Enrollment Form for Patients who can get Pregnant concerning birth defects.
+7. The Guide for Patients Who Can Get Pregnant outlines the effectiveness of the approved contraception options (see Information for Patients).
 
 ## General
 
@@ -312,9 +311,9 @@ See PRECAUTIONS and Boxed CONTRAINDICATIONS AND WARNINGS.
 
 - Patients must be instructed to read the Medication Guide supplied as required by law when Claravis is dispensed.
   The complete text of the Medication Guide is reprinted at the end of this document.
-  For additional information, patients must also be instructed to read the iPLEDGE Program patient educational materials.
+  For additional information, patients must also be instructed to read the iPLEDGE REMS patient educational materials.
   All patients must sign the Patient Enrollment Form for Patients who cannot get Pregnant.
-- Patients who can become pregnant must be instructed that they must not be pregnant when Claravis therapy is initiated, and that they should use two forms of effective contraception simultaneously for one month before starting Claravis, while taking Claravis, and for one month after Claravis has been stopped, unless they commit to continuous abstinence from any sexual contact with a partner which could result in pregnancy.
+- Patients who can become pregnant must be instructed that they must not be pregnant when Claravis therapy is initiated, and that they should use two forms of effective contraception simultaneously for one month before starting Claravis, while taking Claravis, and for one month after Claravis has been stopped, unless they commit to continuous abstinence from not having any sexual contact with a partner that could result in pregnancy.
   They should also sign a second Patient Enrollment Form for Patients who can get Pregnant prior to beginning Claravis therapy.
   Patients who can become pregnant should be seen by their prescribers monthly and have a urine or serum pregnancy test, in a CLIA-certified laboratory, performed each month during treatment to confirm negative pregnancy status before another Claravis prescription is written (see Boxed CONTRAINDICATIONS AND WARNINGS and PRECAUTIONS).
 - Claravis is found in the semen of male patients taking Claravis, but the amount delivered to a patient who can become pregnant would be about one million times lower than an oral dose of 40 mg.

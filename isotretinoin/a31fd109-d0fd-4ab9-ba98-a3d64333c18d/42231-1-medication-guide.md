@@ -13,12 +13,12 @@ This information does not take the place of talking with your doctor about your 
 What is the most important information I should know about Claravis?
 
 - Claravis is used to treat a type of severe acne (nodular acne) that has not been helped by other treatments, including antibiotics.
-- Because Claravis can cause birth defects, Claravis is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE Program.
+- Because Claravis can cause birth defects, Claravis is only for patients who can understand and agree to carry out all of the instructions in the iPLEDGE REMS.
 - Claravis may cause serious mental health problems.
 
 1.
 Birth defects (deformed babies), loss of a baby before birth (miscarriage), death of the baby, and early (premature) births.
-Patients who are pregnant or who plan to get pregnant must not take Claravis.
+Patients who are pregnant or who plan to become pregnant must not take Claravis.
 Patients must not get pregnant:
 
 - for 1 month before starting Claravis
@@ -65,9 +65,9 @@ Claravis is a medicine taken by mouth to treat the most severe form of acne (nod
 Claravis can cause serious side effects (see “What is the most important information I should know about Claravis?”).
 Claravis can only be:
 
-- prescribed by doctors that are registered in the iPLEDGE Program
-- dispensed by a pharmacy that is registered with the iPLEDGE Program
-- given to patients who are registered in the iPLEDGE Program and agree to do everything required in the program
+- prescribed by doctors that are enrolled in the iPLEDGE REMS
+- dispensed by a pharmacy that is enrolled with the iPLEDGE REMS
+- given to patients who are enrolled in the iPLEDGE REMS and agree to do everything required in the program
 
 What is severe nodular acne?
 
@@ -78,7 +78,7 @@ If untreated, nodular acne can lead to permanent scars.
 Who should not take Claravis?
 
 - Do not take Claravis if you are pregnant, plan to become pregnant, or become pregnant during Claravis treatment.
-  Claravis causes severe birth defects.
+  Claravis causes life threatening birth defects.
   See “What is the most important information I should know about Claravis?”
 - Do not take Claravis if you are allergic to anything in it.
   See the end of this Medication Guide for a complete list of ingredients in Claravis.
@@ -127,16 +127,16 @@ Do not take any new medicine without talking with your doctor.
 How should I take Claravis?
 
 - You must take Claravis exactly as prescribed.
-  You must also follow all the instructions of the iPLEDGE Program.
+  You must also follow all the instructions of the iPLEDGE REMS.
   Before prescribing Claravis, your doctor will:
-- explain the iPLEDGE Program to you
+- explain the iPLEDGE REMS to you
 - have you sign the Patient Enrollment Form for Patients who cannot get Pregnant.
-  Patients who can get pregnant must also sign another consent form.
+  Patients who can get pregnant must also sign another enrollment form.
 
-You will not be prescribed Claravis if you cannot agree to or follow all the instructions of the iPLEDGE Program.
+You will not be prescribed Claravis if you cannot agree to or follow all the instructions of the iPLEDGE REMS.
 
-- You will get no more than a 30 day supply of Claravis at a time.
-  This is to make sure you are following the Claravis iPLEDGE Program.
+- You will get no more than a 30-day supply of Claravis at a time.
+  This is to make sure you are following the Claravis iPLEDGE REMS.
   You should talk with your doctor each month about side effects.
 - The amount of Claravis you take has been specially chosen for you.
   It is based on your body weight, and may change during treatment.
@@ -154,8 +154,8 @@ You will not be prescribed Claravis if you cannot agree to or follow all the ins
   Your doctor may do blood tests to check for serious side effects from Claravis.
   Patients who can get pregnant will get a pregnancy test each month.
 - Patients who can get pregnant must agree to use two separate forms of effective birth control at the same time one month before, while taking, and for one month after taking Claravis.
-  You must access the iPLEDGE Program system to answer questions about the program requirements and to enter your two chosen forms of birth control.
-  To access the iPLEDGE Program system, go to www.ipledgeprogram.com or call 1-866-495-0654.
+  You must access the iPLEDGE REMS system to answer questions about the program requirements and to enter your two chosen forms of birth control.
+  To access the iPLEDGE REMS system, go to www.ipledgeprogram.com or call 1-866-495-0654.
 
 You must talk about effective birth control forms with your doctor or go for a free visit to talk about birth control with another doctor or family planning expert.
 Your doctor can arrange this free visit, which will be paid for by the company that makes Claravis.
@@ -169,7 +169,7 @@ What should I avoid while taking Claravis?
 - Do not breast feed while taking Claravis and for one month after stopping Claravis.
   We do not know if Claravis can pass through your milk and harm the baby.
 - Do not give blood while you take Claravis and for one month after stopping Claravis.
-  If someone who is pregnant gets your donated blood, the baby may be exposed to Claravis and may be born with birth defects.
+  If someone who is pregnant gets your donated blood, their baby may be exposed to Claravis and may be born with birth defects.
 
 - Do not take other medicines or herbal products with Claravis unless you talk to your doctor.
   See “What should I tell my doctor before taking Claravis?”
@@ -276,7 +276,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about Claravis.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about Claravis that is written for health care professionals.
-You can also call iPLEDGE Program at 1-866-495-0654 or visit www.ipledgeprogram.com.
+You can also call iPLEDGE REMS at 1-866-495-0654 or visit www.ipledgeprogram.com.
 
 What are the ingredients in Claravis?
 
@@ -298,4 +298,4 @@ Dilantin is a registered trademark of Warner-Lambert Company LLC.
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-M 1/2022
+O 8/2022
