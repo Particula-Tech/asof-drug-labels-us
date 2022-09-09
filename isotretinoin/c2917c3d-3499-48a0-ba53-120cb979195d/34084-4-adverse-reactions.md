@@ -32,7 +32,7 @@ Hematologic
 Allergic reactions (see PRECAUTIONS, Hypersensitivity), anemia, thrombocytopenia, neutropenia, rare reports of agranulocytosis (see PRECAUTIONS, Information for Patients).
 See PRECAUTIONS, Laboratory Tests for other hematological parameters.
 
-Musculoskeletal
+## Musculoskeletal
 
 Skeletal hyperostosis, calcification of tendons and ligaments, premature epiphyseal closure, decreases in bone mineral density (see WARNINGS, Skeletal), musculoskeletal symptoms (sometimes severe) including back pain, myalgia, and arthralgia (see PRECAUTIONS, Information for Patients), transient pain in the chest (see PRECAUTIONS, Information for Patients), arthritis, tendonitis, other types of bone abnormalities, elevations of CPK/rare reports of rhabdomyolysis (see PRECAUTIONS, Laboratory Tests).
 
@@ -53,7 +53,7 @@ Respiratory
 
 Bronchospasms (with or without a history of asthma), respiratory infection, voice alteration.
 
-Skin and Appendages
+## Skin and Appendages
 
 Acne fulminans, alopecia (which in some cases persists), bruising, cheilitis (dry lips), dry mouth, dry nose, dry skin, epistaxis, eruptive xanthomas,7 erythema multiforme, flushing, fragility of skin, hair abnormalities, hirsutism, hyperpigmentation and hypopigmentation, infections (including disseminated herpes simplex), nail dystrophy, paronychia, peeling of palms and soles, photoallergic/photosensitizing reactions, pruritus, pyogenic granuloma, rash (including facial erythema, seborrhea, and eczema), Stevens-Johnson syndrome, sunburn susceptibility increased, sweating, toxic epidermal necrolysis, urticaria, vasculitis (including Wegener's granulomatosis; see PRECAUTIONS, Hypersensitivity), abnormal wound healing (delayed healing or exuberant granulation tissue with crusting; see PRECAUTIONS, Information for Patients).
 

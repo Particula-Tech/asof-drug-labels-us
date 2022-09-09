@@ -40,11 +40,7 @@ J Am Acad Dermatol 10:490-496, 1984.
 
 Ortho-Novum 7/7/7 is a registered trademark of Ortho-McNeil Pharmaceutical, Inc.
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2021-03
+03-2022-04

@@ -1,7 +1,7 @@
 # CONTRAINDICATIONS AND WARNINGS
 
 Isotretinoin must not be used by patients who are or may become pregnant.
-There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking isotretinoin in any amount, even for short periods of time.
+There is an extremely high risk that life-threatening birth defects will result if pregnancy occurs while taking isotretinoin in any amount, even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining whether an exposed fetus has been affected.
 
@@ -18,6 +18,6 @@ If pregnancy does occur during treatment of a patient who is taking isotretinoin
 Special Prescribing Requirements
 
 Because of isotretinoin's teratogenicity and to minimize fetal exposure, isotretinoin is approved for marketing only under a special restricted distribution program approved by the Food and Drug Administration.
-This program is called iPLEDGE®.
-Isotretinoinmust only be prescribed by prescribers who are registered and activated with the iPLEDGE Program.
-Isotretinoinmust only be dispensed by a pharmacy registered and activated with iPLEDGE, and must only be dispensed to patients who are registered and meet all the requirements of iPLEDGE (see PRECAUTIONS).
+This REMS is called iPLEDGE®.
+Isotretinoinmust only be prescribed by prescribers who are enrolled and activated with the iPLEDGE REMS.
+Isotretinoinmust only be dispensed by a pharmacy enrolled and activated with iPLEDGE, and must only be dispensed to patients who are enrolled and meet all the requirements of iPLEDGE (see PRECAUTIONS).
