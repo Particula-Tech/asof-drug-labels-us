@@ -177,18 +177,18 @@ Estrogen administration should be initiated at the lowest dose for the approved 
 
 ## D. DRUG/LABORATORY TEST INTERACTIONS
 
-1. Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-2. Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+1. 1.Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+2. 2.Increased thyroid-binding globulin (TBG) levels leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
    T3 resin uptake is decreased, reflecting the elevated TBG.
    Free T4 and free T3 concentrations are unaltered.
    Patients on thyroid replacement therapy may require higher doses of thyroid hormone.
-3. Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex-hormone binding globulin (SHBG), leading to increased circulating corticosteroids and sex steroids, respectively.
+3. 3.Other binding proteins may be elevated in serum, i.e., corticosteroid binding globulin (CBG), sex-hormone binding globulin (SHBG), leading to increased circulating corticosteroids and sex steroids, respectively.
    Free or biologically active hormone levels concentrations are unchanged.
    Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-anti-trypsin, ceruloplasmin).
-4. Increased plasma HDL and HDL-2 subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
-5. Impaired glucose tolerance.
-6. Reduced response to metyrapone test.
-7. Reduced serum folate concentration.
+4. 4.Increased plasma HDL and HDL-2 subfraction concentrations, reduced LDL cholesterol concentration, increased triglycerides levels.
+5. 5.Impaired glucose tolerance.
+6. 6.Reduced response to metyrapone test.
+7. 7.Reduced serum folate concentration.
 
 ## E. CARCINOGENESIS, MUTAGENESIS, IMPAIRMENT OF FERTILITY
 

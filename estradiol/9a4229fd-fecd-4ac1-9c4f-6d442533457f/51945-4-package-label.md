@@ -6,7 +6,7 @@ Depo®-Estradiol estradiol cypionate injection, USP
 
 5 mg/mL
 
-For intramuscular use only MADE IN USA (includes foreign content)
+For intramuscular use only
 
 Rx only
 

@@ -18,7 +18,7 @@ What is DEPO-Estradiol used for?
 
 DEPO-Estradiol is used during and after menopause to:
 
-- reduce moderate or severe menopausal symptoms.
+- •reduce moderate or severe menopausal symptoms.
   Estrogens are hormones made by a woman's ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 to 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (end of monthly menstrual periods).
@@ -26,43 +26,42 @@ DEPO-Estradiol is used during and after menopause to:
   When the estrogen levels begin dropping, some women develop very uncomfortable symptoms, such as feeling of warmth in the face, neck and chest or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
   Using estrogen drugs can help the body adjust to lower estrogen levels and reduce these symptoms.
   Most women have only mild menopause symptoms or none at all and do not need estrogen drugs for these symptoms.
-
-- treat moderate to severe itching, burning, and dryness in or around the vagina.
+- •treat moderate to severe itching, burning, and dryness in or around the vagina.
   You and your healthcare provider should talk regularly about whether you still need treatment with DEPO-Estradiol to control these problems.
 
 DEPO-Estradiol is also used to:
 
-- treat certain conditions in women before menopause if their ovaries do not make enough estrogen.
+- •treat certain conditions in women before menopause if their ovaries do not make enough estrogen.
 
 Who should not take DEPO-Estradiol?
 
 Do not start taking DEPO-Estradiol if you:
 
-- have unusual vaginal bleeding.
-- currently have or have had certain cancers.
+- •have unusual vaginal bleeding.
+- •currently have or have had certain cancers.
   Estrogens may increase the chances of getting certain types of cancers, including cancer of the breast or uterus.
   If you have or had cancer, talk with your healthcare provider about whether you should take DEPO-Estradiol.
-- had a stroke or heart attack in the past year.
-- currently have or have had blood clots.
-- are allergic to DEPO-Estradiol or any of its ingredients.
+- •had a stroke or heart attack in the past year.
+- •currently have or have had blood clots.
+- •are allergic to DEPO-Estradiol or any of its ingredients.
 
 See the end of this leaflet for a list of ingredients in DEPO-Estradiol.
 
-- think you may be pregnant.
+- •think you may be pregnant.
 
 Tell your healthcare provider:
 
-- if you are breastfeeding.
+- •if you are breastfeeding.
 
 The hormone in DEPO-Estradiol can pass into your milk.
 
-- about all of your medical problems.
+- •about all of your medical problems.
   Your healthcare provider may need to check you more carefully if you have certain medical conditions, such as asthma (wheezing), epilepsy (seizures), diabetes, migraine, endometriosis, lupus, angioedema (swelling of face and tongue), hypertension (high blood pressure), problems with your heart, liver, thyroid, kidneys, or have high calcium levels in your blood.
-- about all the medicines you take.
+- •about all the medicines you take.
   This includes prescription and nonprescription medicines, vitamins, and herbal supplements.
   Some medicines may affect how DEPO-ESTRADIOL works.
   DEPO-ESTRADIOL may also affect how your other medicines work.
-- if you are going to have surgery or will be on bed rest.
+- •if you are going to have surgery or will be on bed rest.
   You may need to stop taking estrogens.
 
 How should I take DEPO-Estradiol?
@@ -76,53 +75,53 @@ What are the possible side effects of estrogens?
 
 Less common but serious side effects include:
 
-- Breast cancer
-- Cancer of the uterus
-- Stroke
-- Heart attack
-- Blood clots
-- Gallbladder disease
-- Ovarian cancer
+- •Breast cancer
+- •Cancer of the uterus
+- •Stroke
+- •Heart attack
+- •Blood clots
+- •Gallbladder disease
+- •Ovarian cancer
 
 These are some of the warning signs of serious side effects:
 
-- Breast lumps
-- Unusual vaginal bleeding
-- Dizziness and faintness
-- Changes in speech
-- Severe headaches
-- Chest pain
-- Shortness of breath
-- Pains in your legs
-- Changes in vision
-- Vomiting
+- •Breast lumps
+- •Unusual vaginal bleeding
+- •Dizziness and faintness
+- •Changes in speech
+- •Severe headaches
+- •Chest pain
+- •Shortness of breath
+- •Pains in your legs
+- •Changes in vision
+- •Vomiting
 
 Call your healthcare provider right away if you get any of these warning signs, or any other unusual symptom that concerns you.
 
 Common side effects include:
 
-- Headache
-- Breast pain
-- Irregular vaginal bleeding or spotting
-- Stomach/abdominal cramps, bloating
-- Nausea and vomiting
+- •Headache
+- •Breast pain
+- •Irregular vaginal bleeding or spotting
+- •Stomach/abdominal cramps, bloating
+- •Nausea and vomiting
 
 Other side effects include:
 
-- High blood pressure
-- Liver problems
-- High blood sugar
-- Fluid retention
-- Enlargement of benign tumors of the uterus ("fibroids")
-- Vaginal yeast infections
-- Hair loss
+- •High blood pressure
+- •Liver problems
+- •High blood sugar
+- •Fluid retention
+- •Enlargement of benign tumors of the uterus ("fibroids")
+- •Vaginal yeast infections
+- •Hair loss
 
 These are not all the possible side effects of DEPO-Estradiol.
 For more information, ask your healthcare provider or pharmacist.
 
 What can I do to lower my chances of getting a serious side effect with DEPO-Estradiol?
 
-- Talk with your healthcare provider regularly about whether you should continue taking DEPO-ESTRADIOL.
+- •Talk with your healthcare provider regularly about whether you should continue taking DEPO-ESTRADIOL.
   If you have a uterus, talk to your healthcare provider about whether the addition of a progestin is right for you.
   See your healthcare provider right away if you get vaginal bleeding while taking DEPO-ESTRADIOL.
   Have a breast exam and mammogram (breast X-ray) every year unless your healthcare provider tells you something else.
