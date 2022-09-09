@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Epinephrine Injection USP, 1 mg/mL is supplied as a sterile aqueous solution with a pH range of 2.2-5.0, that is colorless and nonpyrogenic.
-Each milliliter contains 1 mg epinephrine, sodium chloride 9 mg (for isotonicity), hydrochloric acid for pH adjustment, and water for injection, USP, qs.
+Each milliliter contains 1 mg epinephrine, sodium chloride 8.6 mg (for isotonicity), hydrochloric acid for pH adjustment, and water for injection, USP, qs.
 Contains no preservatives or sulfites.
 
 Solution must be diluted prior to intravenous or ocular use.
