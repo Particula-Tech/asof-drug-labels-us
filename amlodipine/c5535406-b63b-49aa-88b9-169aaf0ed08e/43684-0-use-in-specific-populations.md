@@ -46,13 +46,13 @@ However, these studies have been conducted for olmesartan medoxomil and amlodipi
 
 Olmesartan medoxomil
 
-No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
+No teratogenic effects were observed when olmesartan medoxomil was administered to pregnant rats at oral doses up to 1000 mg/kg/day (240 times the maximum recommended human dose [MRHD] on a mg/m 2 basis) or pregnant rabbits at oral doses up to 1 mg/kg/day (half the MRHD on a mg/m 2 basis; higher doses could not be evaluated for effects on fetal development as they were lethal to the does).
 In rats, significant decreases in pup birth weight and weight gain were observed at doses ≥1.6 mg/kg/day, and delays in developmental milestones (delayed separation of ear auricular, eruption of lower incisors, appearance of abdominal hair, descent of testes, and separation of eyelids) and dose-dependent increases in the incidence of dilation of the renal pelvis were observed at doses ≥ 8 mg/kg/day.
 The no observed effect dose for developmental toxicity in rats is 0.3 mg/kg/day, about one-tenth the MRHD of 40 mg/day.
 
 Amlodipine
 
-No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively about 10 and 20 times the maximum recommended human dose of 10 mg amlodipine on a mg/m2 basis) during their respective periods of major organogenesis (calculations based on a patient weight of 60 kg).
+No evidence of teratogenicity or other embryo/fetal toxicity was found when pregnant rats and rabbits were treated orally with amlodipine maleate at doses of up to 10 mg amlodipine/kg/day (respectively about 10 and 20 times the maximum recommended human dose of 10 mg amlodipine on a mg/m 2 basis) during their respective periods of major organogenesis (calculations based on a patient weight of 60 kg).
 However, litter size was significantly decreased (by about 50%), and the number of intrauterine deaths was significantly increased (about 5-fold) in rats receiving amlodipine maleate at a dose equivalent to 10 mg amlodipine/kg/day for 14 days before mating and throughout mating and gestation.
 Amlodipine maleate has been shown to prolong both the gestational period and the duration of labor in rats at this dose.
 
@@ -99,10 +99,10 @@ There are no studies of Azor in patients with hepatic insufficiency, but both am
 The recommended initial dose of amlodipine in patients with severe hepatic impairment is 2.5 mg, a dose not available with Azor.
 
 Amlodipine.
-Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t½) is 56 hours in patients with severely impaired hepatic function [see Warnings and Precautions (5.5)].
+Amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t ½) is 56 hours in patients with severely impaired hepatic function [see Warnings and Precautions (5.5)].
 
 Olmesartan medoxomil.
-Increases in AUC0-∞ and peak plasma concentration (Cmax) for olmesartan were observed with moderate hepatic impairment compared to those in matched controls with an increase in AUC of about 60%.
+Increases in AUC 0-∞ and peak plasma concentration (C max) for olmesartan were observed with moderate hepatic impairment compared to those in matched controls with an increase in AUC of about 60%.
 
 ## 8.7 Renal Impairment
 

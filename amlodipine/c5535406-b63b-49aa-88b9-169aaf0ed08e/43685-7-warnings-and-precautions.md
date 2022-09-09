@@ -40,7 +40,7 @@ Patients with hepatic impairment have decreased clearance of amlodipine.
 Starting amlodipine or adding amlodipine at 2.5 mg in hepatically impaired patients is recommended.
 The lowest dose of Azor is 5/20 mg; therefore, initial therapy with Azor is not recommended in hepatically impaired patients [see Use in Specific Populations (8.6)].
 
-Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t½) is 56 hours in patients with severely impaired hepatic function, titrate slowly when administering to patients with severe hepatic impairment.
+Since amlodipine is extensively metabolized by the liver and the plasma elimination half-life (t ½) is 56 hours in patients with severely impaired hepatic function, titrate slowly when administering to patients with severe hepatic impairment.
 
 ## 5.6 Sprue-like Enteropathy
 

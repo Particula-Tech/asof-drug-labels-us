@@ -19,11 +19,11 @@ Amlodipine is a peripheral arterial vasodilator that acts directly on vascular s
 Olmesartan medoxomil.
 Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II).
 Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation and renal reabsorption of sodium.
-Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT1 receptor in vascular smooth muscle.
+Olmesartan blocks the vasoconstrictor effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in vascular smooth muscle.
 Its action is, therefore, independent of the pathways for angiotensin II synthesis.
 
-An AT2 receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
-Olmesartan has more than a 12,500-fold greater affinity for the AT1 receptor than for the AT2 receptor.
+An AT 2 receptor is found also in many tissues, but this receptor is not known to be associated with cardiovascular homeostasis.
+Olmesartan has more than a 12,500-fold greater affinity for the AT 1 receptor than for the AT 2 receptor.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is a mechanism of many drugs used to treat hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
@@ -70,7 +70,7 @@ Absolute bioavailability is estimated as between 64% and 90%.
 Olmesartan medoxomil.
 Olmesartan medoxomil is rapidly and completely bioactivated by ester hydrolysis to olmesartan during absorption from the gastrointestinal tract.
 The absolute bioavailability of olmesartan medoxomil is approximately 26%.
-After oral administration, the peak plasma concentration (Cmax) of olmesartan is reached after 1 to 2 hours.
+After oral administration, the peak plasma concentration (C max) of olmesartan is reached after 1 to 2 hours.
 Food does not affect the bioavailability of olmesartan medoxomil.
 
 Distribution
@@ -114,7 +114,7 @@ Elderly patients have decreased clearance of amlodipine with a resulting increas
 Olmesartan medoxomil.
 The pharmacokinetics of olmesartan medoxomil were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
-Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUCѕѕ, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CLR.
+Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ѕѕ, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R.
 
 Pediatric Patients
 
@@ -132,4 +132,4 @@ Gender had no effect on the clearance of amlodipine.
 
 Olmesartan medoxomil.
 Minor differences were observed in the pharmacokinetics of olmesartan medoxomil in women compared to men.
-AUC and Cmax were 10% to 15% higher in women than in men.
+AUC and C max were 10% to 15% higher in women than in men.
