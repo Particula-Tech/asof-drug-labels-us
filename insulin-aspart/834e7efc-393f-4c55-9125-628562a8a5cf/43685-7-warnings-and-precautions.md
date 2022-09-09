@@ -19,7 +19,7 @@ For patients with type 2 diabetes, dosage adjustments in concomitant anti-diabet
 
 Hypoglycemia is the most common adverse reaction of all insulin therapies, including FIASP [see Adverse Reactions (6.1)].
 Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life-threatening, or cause death.
-Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g. driving or operating other machinery).
+Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 FIASP, or any insulin, should not be used during episodes of hypoglycemia [see Contraindications (4)].
 
 Hypoglycemia can happen suddenly and symptoms may differ in each individual and change over time in the same individual.

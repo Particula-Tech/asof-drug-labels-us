@@ -47,4 +47,4 @@ Intravenous Administration:
 - •Dose adjustments may be needed when switching from another insulin, with changes in physical activity, changes in concomitant medications, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness to minimize the risk of hypoglycemia or hyperglycemia [see Warnings and Precautions (5.2, 5.3) and Drug Interactions (7)].
 - •Closely monitor blood glucose when converting insulins used in insulin pumps as individualization of insulin pump parameters may be necessary to minimize the risk of hypoglycemia and hyperglycemia [see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.1)]
 - •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
-- •Dosage adjustment may be needed when FIASP is coadministered with certain drugs [see Drug Interactions (7)].
+- •Dosage adjustment may be needed when FIASP is co-administered with certain drugs [see Drug Interactions (7)].

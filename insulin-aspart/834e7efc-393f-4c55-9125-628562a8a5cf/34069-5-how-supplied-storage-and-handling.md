@@ -8,7 +8,7 @@ FIASP (insulin aspart injection) 100 units of insulin aspart per mL (U-100) is a
 2. Carton of five 3 mL single-patient-use FIASP FlexTouch pens NDC 0169-3204-15
 3. Carton of five 3 mL single-patient-use PenFill cartridges* NDC 0169-3205-15
 4. The FIASP FlexTouch pen dials in 1 unit increments.
-5. * FIASP PenFill cartridges are designed for use with Novo Nordisk insulin delivery devices.
+5. * FIASP PenFill cartridges are designed for use with compatible insulin delivery devices.
 
 ## 16.2 Recommended Storage
 

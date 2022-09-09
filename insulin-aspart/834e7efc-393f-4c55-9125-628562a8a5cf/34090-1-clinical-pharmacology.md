@@ -10,7 +10,7 @@ Insulin inhibits lipolysis in the adipocyte, inhibits proteolysis, and enhances 
 ## 12.2 Pharmacodynamics
 
 The time course of insulin action (i.e., glucose lowering) may vary considerably in different individuals or within the same individual.
-The average pharmacodynamic profile [i.e., glucose lowering effect measured as glucose infusion rate (GIR) in a euglycemic clamp study] for subcutaneous administration of 0.1, 0.2, and 0.4 unit/kg of FIASP in 46 patients with Type 1 diabetes is shown in Figure 2 and key characteristics of the timing of the effect are described in Table 6 below.
+The average pharmacodynamic profile (i.e., glucose lowering effect measured as glucose infusion rate (GIR) in a euglycemic clamp study) for subcutaneous administration of 0.1, 0.2, and 0.4 unit/kg of FIASP in 46 patients with Type 1 diabetes is shown in Figure 2 and key characteristics of the timing of the effect are described in Table 6 below.
 
 Table 6.
 Timing of insulin effect (i.e., mean pharmacodynamic effect) after subcutaneous administration of 0.1, 0.2 and 0.4 unit/kg of FIASP in patients (N=46) with Type 1 Diabetes and corresponding to the data shown in Figure 2
