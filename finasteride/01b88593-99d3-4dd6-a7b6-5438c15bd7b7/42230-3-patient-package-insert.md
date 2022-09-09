@@ -92,4 +92,4 @@ What are the ingredients in finasteride tablets?
 Active ingredient: finasteride.
 Inactive ingredients: docusate sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch (maize), sodium starch glycolate, talc, and titanium dioxide.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 08/2021
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 08/2022

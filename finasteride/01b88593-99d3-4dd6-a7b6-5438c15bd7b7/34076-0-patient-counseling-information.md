@@ -8,9 +8,14 @@ If a woman who is pregnant or may potentially be pregnant comes in contact with 
 
 Increased Risk of High-Grade Prostate Cancer Patients should be informed that there was an increase in high-grade prostate cancer in men treated with 5α-reductase inhibitors indicated for BPH treatment, compared to those treated with placebo in studies looking at the use of these drugs to prevent prostate cancer [see Warnings and Precautions (5.3) and Adverse Reactions (6.1)].
 
-Additional Instructions Physicians should instruct their patients to promptly report any changes in their breasts such as lumps, pain or nipple discharge.
+Sexual Adverse events
+
+Physicians should inform the patients that finasteride may cause symptoms of sexual dysfunction such as decreased libido, erectile dysfunction, and ejaculation disorder, including decreased ejaculate volume.
+Additional Instructions
+
+Physicians should instruct their patients to promptly report any changes in their breasts such as lumps, pain or nipple discharge.
 Breast changes including breast enlargement, tenderness and neoplasm have been reported [see Adverse Reactions (6.1)].
 
 Physicians should instruct their patients to read the patient package insert before starting therapy with finasteride and to read it again each time the prescription is renewed so that they are aware of current information for patients regarding finasteride.
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 08/2021
+Distributed by: Rising Health, LLC Saddle Brook, NJ 07663 Made in India Code: TS/DRUGS/19/1993 Revised: 08/2022

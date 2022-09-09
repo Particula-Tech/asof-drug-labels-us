@@ -66,12 +66,20 @@ Biopsies were performed for elevated PSA, an abnormal digital rectal exam, or th
 The incidence of Gleason score 8 to 10 prostate cancer was higher in men treated with finasteride (1.8%) than in those treated with placebo (1.1%).
 In a 4-year placebo-controlled clinical trial with another 5α-reductase inhibitor [AVODART (dutasteride)], similar results for Gleason score 8 to 10 prostate cancer were observed (1% dutasteride vs. 0.5% placebo).
 The clinical significance of these findings with respect to use of finasteride by men is unknown.
-
 No clinical benefit has been demonstrated in patients with prostate cancer treated with finasteride 5 mg.
 Finasteride 5 mg is not approved to reduce the risk of developing prostate cancer.
+
+Sexual Function Questionnaire
+
+A sexual function questionnaire was self-administered by patients participating in the two vertex baldness trials to detect more subtle changes in sexual function.
+At Month 12, statistically significant differences in favor of placebo were found in 3 of 4 domains (sexual interest, erections, and perception of sexual problems).
+However, no significant difference was seen in the question on overall satisfaction with sex life.
+
+In one of the two vertex baldness studies, patients were questioned on non-scalp body hair growth.
+Finasteride did not appear to affect non-scalp body hair.
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of finasteride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: Hypersensitivity Reaction: hypersensitivity reactions such as rash, pruritus, urticaria, and angioedema (including swelling of the lips, tongue, throat, and face); Reproductive System: sexual dysfunction that continued after discontinuation of treatment, including erectile dysfunction, libido disorders, ejaculation disorders, and orgasm disorders; male infertility and/or poor seminal quality (normalization or improvement of seminal quality has been reported after discontinuation of finasteride); testicular pain; hematospermia.
-Neoplasms: male breast cancer; Breast Disorders: breast tenderness and enlargement; Nervous System/Psychiatric: depression
+Neoplasms: male breast cancer; Breast Disorders: breast tenderness and enlargement; Nervous System/Psychiatric: depression, suicidal ideation and behavior.
