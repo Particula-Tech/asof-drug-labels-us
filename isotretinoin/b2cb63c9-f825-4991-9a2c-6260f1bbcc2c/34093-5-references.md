@@ -23,6 +23,6 @@
 8. 8.Strauss JS, Rapini RP, Shalita AR, et al. Isotretinoin therapy for acne: results of a multicenter dose-response study.
    J Am Acad Dermatol 10:490-496, 1984.
 
-OrthoNovum 7/7/7 is a registered trademark of Ortho-McNeil Pharmaceutical, Inc.
+Ortho-Novum 7/7/7 is a registered trademark of Ortho-McNeil Pharmaceutical, Inc.
 
 Document Patient Identification Number:

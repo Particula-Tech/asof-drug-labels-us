@@ -143,7 +143,7 @@ These include:
   - -wholesalers enrolled in the iPLEDGE REMS with prior written consent from the manufacturer or
   - -pharmacies licensed in the US and enrolled and activated in the iPLEDGE REMS
 - •Notifying the isotretinoin manufacturer (or delegate) of any non-enrolled and/or non-activated pharmacy or unenrolled wholesaler that attempts to order isotretinoin
-- •Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
+- •Complying with inspection/audit of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
 - •Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE REMS or if the wholesaler chooses to not re-enroll annually
 
 ## Prescribers
@@ -223,7 +223,7 @@ Isotretinoin is contraindicated in patients who are pregnant.
 To receive isotretinoin all patients must meet all of the following conditions:
 
 - •Must be enrolled with the iPLEDGE REMS by the prescriber
-- •Must understand that severe birth defects can occur with the use of isotretinoin by patients who can become pregnant
+- •Must understand that life threatening birth defects can occur with the use of isotretinoin by patients who can become pregnant
 - •Must be reliable in understanding and carrying out instructions
 - •Must sign a Patient Enrollment Form for Patients who cannot get Pregnant that contains warnings about the potential risks associated with isotretinoin
 - •Must obtain the prescription within 7 days of the date of specimen collection for the pregnancy test for patients who can become pregnant
@@ -379,7 +379,7 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
   These reports are more frequent for patients who can become pregnant who use only a single form of contraception.
   It is not known if hormonal contraceptives differ in their effectiveness when used with Amnesteem.
   Therefore, it is critically important for patients who can become pregnant to select and commit to use two forms of effective contraception simultaneously, at least one of which must be a primary form (see PRECAUTIONS).
-- •Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving OrthoNovum® 7/7/7 Tablets as an oral contraceptive agent, Amnesteem at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
+- •Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving Ortho-Novum® 7/7/7 Tablets as an oral contraceptive agent, Amnesteem at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
   Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
 - •St.
   John’s Wort:Amnesteem use is associated with depression in some patients (see WARNINGS: Psychiatric Disorders and ADVERSE REACTIONS: Psychiatric).

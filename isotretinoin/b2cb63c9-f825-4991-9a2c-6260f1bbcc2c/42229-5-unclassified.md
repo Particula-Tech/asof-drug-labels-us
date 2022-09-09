@@ -26,7 +26,7 @@ __________________________________________________________________________
 
 (Patient’s Name)
 
-1. 1.I understand that there is a very high chance that my unborn baby could have severe birth defects if I am pregnant or become pregnant while taking isotretinoin.
+1. 1.I understand that there is a very high chance that my unborn baby could have life threatening birth defects if I am pregnant or become pregnant while taking isotretinoin.
    This can happen with any amount and even if taken for short periods of time.
    This is why I must not be pregnant while taking isotretinoin.
 2. Initial: ______
@@ -80,7 +80,7 @@ __________________________________________________________________________
     At least one form must be a primary form of birth control, unless I have chosen never to have any sexual contact (penis-vaginal) with a partner who could get me pregnant (abstinence), or I have undergone a hysterectomy or bilateral oophorectomy, or I have been medically confirmed to be post-menopausal.
     I must use two forms of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
     I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
-24. •have signed a Patient Enrollment Form for patients who can get Pregnant that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
+24. •have signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
 25. •have been informed of and understand the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
 26. •have interacted with the iPLEDGE REMS before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
 27. Initial: ______

@@ -64,7 +64,7 @@ If untreated, nodular acne can lead to permanent scars.
 Who should not take Amnesteem?
 
 - •Do not take Amnesteem if you are pregnant, plan to become pregnant, or become pregnant during Amnesteem treatment.
-  Amnesteem causes severe birth defects.
+  Amnesteem causes life threatening birth defects.
   See “What is the most important information I should know about Amnesteem?”
 - •Do not take Amnesteem if you are allergic to anything in it.
   See the end of this Medication Guide for a complete list of ingredients in Amnesteem.
@@ -278,4 +278,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Catalent Pharma Solutions 74 rue Principale 67930 Beinheim France
 
-Revised: 1/2022 CAT:ISOTFR:R7
+Revised: 8/2022 CAT:ISOTFR:R8/S-C351 R6
