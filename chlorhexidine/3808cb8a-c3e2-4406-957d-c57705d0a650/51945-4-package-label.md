@@ -12,8 +12,6 @@ Store at 20° - 25°C with excursions permitted to 15° - 30°C (59° - 86°F)
 
 To order: call 1-888-periochip (737-4624) or visit our website: www.periochip.com
 
-www.periochip.com
-
 Rx only
 
 # Blister Label
