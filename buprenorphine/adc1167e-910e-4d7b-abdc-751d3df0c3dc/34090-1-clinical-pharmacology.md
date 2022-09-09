@@ -44,6 +44,8 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 
 Buprenorphine HCl may cause a decrease or, rarely, an increase in pulse rate and blood pressure in some patients.
 
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤ 15 msec.
+
 ### Effects on the Endocrine System
 
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans.

@@ -83,13 +83,6 @@ Wean the patient off of the opioid to allow adrenal function to recover and cont
 Other opioids may be tried as some cases reported use of a different opioid without recurrence of adrenal insufficiency.
 The information available does not identify any particular opioids as being more likely to be associated with adrenal insufficiency.
 
-## QTc Prolongation
-
-Buprenorphine has been observed to prolong the QTc interval in some subjects participating in clinical trials.
-Consider these observations in clinical decisions when prescribing buprenorphine HCl to patients with hypokalemia, hypomagnesemia, or clinically unstable cardiac disease, including unstable atrial fibrillation, symptomatic bradycardia, unstable congestive heart failure, or active myocardial ischemia.
-Periodic electrocardiographic (ECG) monitoring is recommended in these patients.
-Avoid the use of buprenorphine HCl in patients with a history of Long QT Syndrome or an immediate family member with this condition or those taking Class IA antiarrhythmic medications (e.g., quinidine, procainamide, disopyramide) or Class III antiarrhythmic medications (e.g., sotalol, amiodarone, dofetilide), or other medications that prolong the QT interval [see DOSAGE AND ADMINISTRATION, ADVERSE REACTIONS, and CLINICAL PHARMACOLOGY].
-
 ## Severe Hypotension
 
 Buprenorphine HCl may cause severe hypotension including orthostatic hypotension and syncope in ambulatory patients.
@@ -106,6 +99,15 @@ Monitor such patients for signs of sedation and respiratory depression, particul
 Opioids may also obscure the clinical course in a patient with a head injury.
 
 Avoid the use of buprenorphine HCl in patients with impaired consciousness or coma.
+
+## QTc Prolongation
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤ 15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing Buprenorphine HCl to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
 
 ## Anaphylactic/Allergic Reactions
 
@@ -171,14 +173,14 @@ Clinically Significant Drug Interactions with Buprenorphine HCl
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [see WARNINGS]. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation [seeWARNINGS]. |
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, alcohol. |
 | Inhibitors of CYP3A4 |  |
-| Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inhibitors can increase the plasma concentration of buprenorphine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of buprenorphine HCl is achieved.After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the buprenorphine plasma concentration will decrease [see CLINICAL PHARMACOLOGY: Pharmacokinetics], potentially resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to buprenorphine. |
+| Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inhibitors can increase the plasma concentration of buprenorphine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of buprenorphine HCl is achieved.After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the buprenorphine plasma concentration will decrease [seeCLINICAL PHARMACOLOGY: Pharmacokinetics], potentially resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to buprenorphine. |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of buprenorphine HCl until stable drug effects are achieved. Monitor patients for respiratory depression and sedation at frequent intervals.If a CYP3A4 inhibitor is discontinued, consider increasing the buprenorphine HCl dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
 | Examples: | Macrolide antibiotics (e.g., erythromycin), azole-antifungal agents (e.g. ketoconazole), protease inhibitors (e.g., ritonavir) |
 | CYP3A4 Inducers |  |
-| Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inducers can decrease the plasma concentration of buprenorphine [see CLINICAL PHARMACOLOGY: Pharmacokinetics], potentially resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to buprenorphine.After stopping a CYP3A4 inducer, as the effects of the inducer decline, the buprenorphine plasma concentration will increase [see CLINICAL PHARMACOLOGY: Pharmacokinetics], which could increase or prolong both therapeutic effects and adverse reactions and may cause serious respiratory depression. |
+| Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inducers can decrease the plasma concentration of buprenorphine [seeCLINICAL PHARMACOLOGY: Pharmacokinetics], potentially resulting in decreased efficacy or onset of a withdrawal syndrome in patients who have developed physical dependence to buprenorphine.After stopping a CYP3A4 inducer, as the effects of the inducer decline, the buprenorphine plasma concentration will increase [seeCLINICAL PHARMACOLOGY: Pharmacokinetics], which could increase or prolong both therapeutic effects and adverse reactions and may cause serious respiratory depression. |
 | Intervention: | If concomitant use is necessary, consider increasing the buprenorphine HCl dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal.If a CYP3A4 inducer is discontinued, consider buprenorphine HCl dosage reduction and monitor for signs of respiratory depression. |
 | Examples: | Rifampin, carbamazepine, phenytoin |
 | Serotonergic Drugs |  |

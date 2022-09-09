@@ -3,7 +3,7 @@
 The most frequent side effect in clinical studies involving 1,133 patients was sedation which occurred in approximately two-thirds of the patients.
 Although sedated, these patients could easily be aroused to an alert state.
 
-Other less frequent adverse reactions occurring in 5 to 10 % of the patients were:
+Other less frequent adverse reactions occurring in 5 to 10% of the patients were:
 
 Nausea Dizziness/Vertigo
 
