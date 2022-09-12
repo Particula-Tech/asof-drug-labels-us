@@ -5,16 +5,16 @@
 Risk Summary
 
 ARTHROTEC is contraindicated in pregnant women [see Contraindications (4)].
+If a woman becomes pregnant while taking ARTHROTEC, discontinue the drug and advise the woman of the potential risks to her and to a fetus.
 
 There are no adequate and well-controlled studies of ARTHROTEC in pregnant women; however, there is information available about the active drug components of ARTHROTEC, diclofenac sodium and misoprostol.
-Administration of misoprostol to pregnant women can cause abortion, premature birth, birth defects or uterine rupture.
+Administration of misoprostol to pregnant women can cause uterine rupture, abortion, premature birth, or birth defects [see Warnings and Precautions (5.1)].
 Congenital anomalies sometimes associated with fetal death have been reported subsequent to the unsuccessful use of misoprostol as an abortifacient, but the drug's teratogenic mechanism has not been demonstrated.
 Use of NSAIDS, including diclofenac a component of ARTHROTEC, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment (see Data).
 There are clinical considerations when misoprostol and diclofenac are used in pregnant women (see Clinical Considerations).
 In reproduction studies with pregnant rabbits, there were no skeletal or visceral malformations when the combination of diclofenac sodium and misoprostol was administered during organogenesis at doses less than the maximum recommended human doses (MRHD); however, embryotoxicity was observed at this exposure (see Data).
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as diclofenac, resulted in increased pre- and post-implantation loss.
-If a woman becomes pregnant while taking ARTHROTEC, discontinue the drug and advise the woman of the potential risks to her and to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -27,7 +27,7 @@ Maternal Adverse Reactions
 Misoprostol may produce uterine contractions, uterine bleeding, and expulsion of the products of conception.
 Misoprostol has been used to ripen the cervix, to induce labor, and to treat postpartum hemorrhage, outside of its approved indication.
 A major adverse effect of these uses is hyperstimulation of the uterus.
-Uterine rupture, amniotic fluid embolism, severe bleeding, shock, and maternal death have been reported when misoprostol was administered to pregnant women to induce labor to induce abortion beyond the eight week of pregnancy.
+Uterine rupture, amniotic fluid embolism, severe bleeding, shock, and maternal death have been reported when misoprostol was administered to pregnant women to induce labor to induce abortion beyond the eighth week of pregnancy.
 Higher doses of misoprostol, including the 100 mcg tablet, may increase the risk of complications from uterine hyperstimulation.
 ARTHROTEC, which contains 200 mcg of misoprostol, is likely to have a greater risk of uterine hyperstimulation than the 100 mcg tablet of misoprostol.
 Abortions caused by misoprostol may be incomplete.
@@ -35,16 +35,17 @@ Abortions caused by misoprostol may be incomplete.
 Cases of amniotic fluid embolism, which resulted in maternal and fetal death, have been reported with use of misoprostol during pregnancy.
 Severe vaginal bleeding, retained placenta, shock, and pelvic pain have also been reported.
 These women were administered misoprostol vaginally and/or orally over a range of doses.
-If a woman is or becomes pregnant while taking this drug, the drug should be discontinued and the patient apprised of the potential hazard to the fetus.
 
 ARTHROTEC is contraindicated in pregnant women [see Contraindications (4)].
+
+If a woman is or becomes pregnant while taking this drug, the drug should be discontinued and the patient apprised of the potential hazard to the fetus.
 
 Fetal/Neonatal Adverse Reactions
 
 Misoprostol
 
 Misoprostol may endanger pregnancy (may cause abortion) and thereby cause harm to the fetus when administered to a pregnant woman.
-Use of misoprostol for the induction of labor in the third trimester was associated with uterine hyperstimulation with resulting changes in the fetal heart rate (fetal bradycardia) and fetal death.
+Use of misoprostol for the induction of labor in the third trimester was associated with uterine hyperstimulation with resulting changes in the fetal heart rate (fetal bradycardia) and fetal death (misoprostol is not approved for this use).
 ARTHROTEC is contraindicated in pregnant women [see Contraindications (4)].
 
 Diclofenac
@@ -60,9 +61,9 @@ Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pre
 Labor or Delivery
 
 There are no studies on the effects of ARTHROTEC or diclofenac during labor or delivery.
-In animal studies, NSAIDS, including diclofenac, are known to inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
+In animal studies, NSAIDS, including diclofenac, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.
 In humans, some case reports and studies have associated misoprostol with risk of stillbirth, uterine hyperstimulation, perineal tear, amniotic fluid embolism, severe bleeding, shock, uterine rupture and death.
-The risk of uterine rupture associated with misoprostol use in pregnancy may occur at any gestational age, and increases with advancing gestational ages and with prior uterine surgery, including cesarean delivery.
+The risk of uterine rupture associated with misoprostol use in pregnancy may occur at any gestational age, and increases with advancing gestational age and with prior uterine surgery, including cesarean delivery.
 Grand multiparity also appears to be a risk factor for uterine rupture.
 
 Data
@@ -113,6 +114,9 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.3 Females and Males of Reproductive Potential
 
+ARTHROTEC is not recommended in women of childbearing potential [see Warnings and Precautions (5.1)].
+If ARTHROTEC is prescribed, patients must be advised of the abortifacient property and warned not to give the drug to others.
+
 Pregnancy Testing
 
 Verify pregnancy status for females of reproductive potential within 2 weeks prior to initiating ARTHROTEC.
@@ -121,8 +125,17 @@ Contraception
 
 Females
 
-ARTHROTEC can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+ARTHROTEC can cause fetal harm when administered to a pregnant woman [see Contraindications (4) and Use in Specific Populations (8.1)].
 Advise females of reproductive potential to use effective contraception during treatment with ARTHROTEC.
+
+ARTHROTEC may be prescribed if the patient:
+
+- has had a negative serum pregnancy test within 2 weeks prior to beginning therapy.
+- is capable of complying with effective contraceptive measures.
+- has received both oral and written warnings of the hazards of misoprostol, the risk of possible contraception failure, and the danger to other women of childbearing potential should the drug be taken by mistake.
+- will begin ARTHROTEC only on the second or third day of the next normal menstrual period.
+
+Advise females to inform their healthcare provider of a known or suspected pregnancy.
 
 Infertility
 
@@ -139,14 +152,24 @@ Safety and effectiveness of ARTHROTEC in pediatric patients have not been establ
 
 ## 8.5 Geriatric Use
 
-Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.
-If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14)].
+Geriatric patients (those 65 years of age and older), compared to younger adult patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.7)].
+In addition, the risk of diclofenac-associated adverse reactions may be greater in geriatric patients with renal impairment or those taking concomitant ACE inhibitors or ARBs [see Drug Interactions (7) and Use in Specific Populations (8.6)].
 
-Of the more than 2,100 subjects in clinical studies with ARTHROTEC, 25% were 65 and over, while 6% were 75 and over.
-In studies with diclofenac, 31% of subjects were 65 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Avoid use of ARTHROTEC in geriatric patients with cardiovascular and/or renal risk factors.
+If use cannot be avoided, use the lowest recommended dosage for the shortest duration and monitor for cardiac and renal adverse reactions [see Dosage and Administration (2.1)].
+Monitor renal function in geriatric patients during treatment with ARTHROTEC, especially in patients with concomitant use of ACE inhibitors or ARBs.
 
-Diclofenac is known to be substantially excreted by the kidney, and the risk of toxic reactions to ARTHROTEC may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
+Of the 2,184 patients in clinical studies with ARTHROTEC, 557 (25.5%) were 65 years of age and over.
+No overall differences in effectiveness were observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in effectiveness between geriatric patients and younger adult patients, but greater sensitivity of some older individuals cannot be ruled out.
 
-Based on studies in the elderly, no adjustment of the dose of ARTHROTEC is necessary in the elderly for pharmacokinetic reasons [see Warnings and Precautions (5.1, 5.2, 5.3, 5.6, 5.14) and Clinical Pharmacology (12.3)], although many elderly may need to receive a reduced dose because of low body weight or disorders associated with aging.
+No clinically meaningful differences in the pharmacokinetics of diclofenac and misoprostol were observed in geriatric patients compared to younger adult patients [see Clinical Pharmacology (12.3)].
+
+## 8.6 Renal Impairment
+
+Diclofenac and misoprostol are primarily excreted by the kidney.
+Long-term administration of NSAIDs has resulted in renal toxicity.
+Correct volume status in dehydrated or hypovolemic patients prior to initiating ARTHROTEC.
+Monitor renal function, especially during concomitant use of ACE inhibitors or ARBs.
+Also, monitor renal function in patients with hepatic impairment.
+Avoid the use of ARTHROTEC in patients with advanced renal disease.
+If use cannot be avoided in patients with advanced renal disease, use the lowest dosage for the shortest duration, monitor the patient's renal function and monitor for clinical signs of worsening renal function [see Warnings and Precautions (5.7), Drug Interactions (7) and Clinical Pharmacology (12.3)].

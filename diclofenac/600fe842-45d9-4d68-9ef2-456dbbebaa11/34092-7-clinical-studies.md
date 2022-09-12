@@ -4,11 +4,11 @@ Osteoarthritis
 
 Diclofenac sodium, as a single ingredient or in combination with misoprostol, has been shown to be effective in the management of the signs and symptoms of osteoarthritis.
 
-Rheumatoid arthritis
+Rheumatoid Arthritis
 
 Diclofenac sodium, as a single ingredient or in combination with misoprostol, has been shown to be effective in the management of the signs and symptoms of rheumatoid arthritis.
 
-Upper gastrointestinal safety
+Upper Gastrointestinal Safety
 
 Diclofenac, and other NSAIDs, have caused serious gastrointestinal toxicity, such as bleeding, ulceration, and perforation of the stomach, small intestine or large intestine.
 Misoprostol has been shown to reduce the incidence of endoscopically diagnosed NSAID-induced gastric and duodenal ulcers.

@@ -38,7 +38,7 @@ It has no significant effect on fasting or postprandial gastrin nor intrinsic fa
 
 ## 12.3 Pharmacokinetics
 
-General pharmacokinetic characteristics
+General Pharmacokinetic Characteristics
 
 The pharmacokinetic profiles of diclofenac and misoprostol administered as the fixed combination (ARTHROTEC 50 or 75) are similar to the profiles when the two drugs are administered as separate tablets (see Table 2).
 No pharmacokinetic interaction between the two drugs has been observed following multiple dosing.
@@ -124,24 +124,25 @@ The elimination half-life is approximately 30 minutes.
 
 Specific Populations
 
-Age: Geriatric Population
+Geriatric Patients
 
-A 4-week study, comparing plasma level profiles of diclofenac (50 mg two times a day) in younger adults (26–46 years, N=10) versus elderly subjects (66–81 years, N=10), did not show differences between age groups.
-In subjects over 64 years of age, the AUC for misoprostol acid was increased.
+No differences in the pharmacokinetics of diclofenac were observed in geriatric subjects (66 to 81 years; N=10) compared to younger adult subjects (26 to 46 years; N=10) following administration of diclofenac 50 mg twice daily for 4 weeks.
 
-In a multiple-dose crossover study of 24 elderly subjects aged 65 years or older, the misoprostol contained in ARTHROTEC (two times a day) did not affect the pharmacokinetics of diclofenac.
+Though the mean AUC value of misoprostol acid for elderly subjects was 41% higher in geriatric healthy subjects (mean age, 69.5±4.6 years, N=24) compared to younger adult healthy subjects (mean age, 25.4±4.2 years, N=24) following single dose of misoprostol 400 µg, the increase in exposure is not clinically meaningful.
 
-Race
+In a multiple-dose crossover study of ARTHROTEC administered twice daily to 24 subjects aged 65 years of age and older, misoprostol did not affect the pharmacokinetics of diclofenac [see Use in Specific Populations (8.5)].
+
+Racial or Ethnic Groups
 
 Pharmacokinetic differences due to race have not been identified.
 
-Renal Impairment
+Patients with Renal Impairment
 
 In patients with renal impairment (N=5, creatinine clearance 3 to 42 mL/min) following intravenous administration of 50 mg diclofenac, AUC values and elimination rates were comparable to those in healthy subjects.
 
-Pharmacokinetic studies with misoprostol in patients with varying degrees of renal impairment showed an approximate doubling of elimination half-life, Cmax, and AUC compared to healthy subjects.
+Pharmacokinetic studies with misoprostol in patients with severe renal impairment requiring hemodialysis (n=8, mean creatinine clearance 6.2±3.3 mL/min/1.73m2) who received a single dose of 400 mcg misoprostol during a interdialytic period showed an approximate doubling of elimination half-life, Cmax, and AUC of misoprostol acid compared to healthy subjects [see Use in Specific Populations (8.6)].
 
-Hepatic Impairment
+Patients with Hepatic Impairment
 
 In patients with biopsy-confirmed cirrhosis or chronic active hepatitis (variably elevated transaminases and mildly elevated bilirubin, N=10), diclofenac concentrations and urinary elimination values following administration of 100 mg oral solution were comparable to those in healthy subjects.
 
