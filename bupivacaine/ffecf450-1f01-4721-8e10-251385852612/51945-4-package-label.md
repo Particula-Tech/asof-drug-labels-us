@@ -45,3 +45,19 @@ Rx only NDC 55150-172-30 Bupivacaine HCl Injection, USP 0.75% 225 mg per 30 mL (
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 0.75% 225 mg/30 mL (7.5 mg/mL) - Container-Carton [25 Vials]
 
 Rx only NDC 55150-172-30 Bupivacaine HCl Injection, USP 0.75% 225 mg per 30 mL (7.5 mg/mL) For EPIDURAL and RETROBULBAR ANESTHESIA NOT FOR OBSTETRIC OR SPINAL ANESTHESIA PRESERVATIVE FREE 25 x 30 mL Single Dose Vials AUROMEDICS
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 0.25% 125 mg per 50 mL (2.5 mg/mL) - 50 mL Container Label
+
+NDC 55150-249-50 0.25% Bupivacaine HCl Injection USP 125 mg per 50 mL Rx only (2.5 mg/mL) for INFILTRATION and NERVE BLOCK Not for caudal, epidural, or spinal anesthesia 50 mL Multiple Dose Vial
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 0.25% 125 mg per 50 mL (2.5 mg/mL) - Container-Carton Label [25 Vials]
+
+NDC 55150-249-50 0.25% Bupivacaine HCl Injection USP 125 mg per 50 mL Rx only (2.5 mg/mL) for INFILTRATION and NERVE BLOCK Not for caudal, epidural, or spinal anesthesia Sterile 25 x 50 mL Nonpyrogenic Multiple Dose Vials
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 0.5% 250 mg per 50 mL (5 mg/mL) - 50 mL Container Label
+
+NDC 55150-250-50 0.5% Bupivacaine HCl Injection USP 250 mg per 50 mL Rx only (5 mg/mL) for NERVE BLOCK Not for caudal, epidural, or spinal anesthesia 50 mL Multiple Dose Vial
+
+# PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 0.5% 250 mg per 50 mL (5 mg/mL) - Container-Carton Label [25 Vials]
+
+NDC 55150-250-50 0.5% Bupivacaine HCl Injection USP 250 mg per 50 mL Rx only (5 mg/mL) for NERVE BLOCK Not for caudal, epidural, or spinal anesthesia Sterile 25 x 50 mL Nonpyrogenic Multiple Dose Vials
