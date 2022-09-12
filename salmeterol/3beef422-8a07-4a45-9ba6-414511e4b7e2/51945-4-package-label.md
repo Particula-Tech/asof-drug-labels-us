@@ -60,9 +60,9 @@ Made in Ireland
 
 Mylan.com
 
-MDR:9320:1C:R12
+MDR:9320:1C:R13
 
-© 2021 Viatris Inc.
+© 2022 Viatris Inc.
 
 Wixela Inhub® is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.
 
@@ -131,9 +131,9 @@ Made in Ireland
 
 Mylan.com
 
-MDR:9321:1C:R11
+MDR:9321:1C:R12
 
-© 2021 Viatris Inc.
+© 2022 Viatris Inc.
 
 Wixela Inhub® is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.
 
@@ -202,9 +202,9 @@ Made in Ireland
 
 Mylan.com
 
-MDR:9322:1C:R11
+MDR:9322:1C:R12
 
-© 2021 Viatris Inc.
+© 2022 Viatris Inc.
 
 Wixela Inhub® is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.
 

@@ -16,7 +16,7 @@
 | The dose counter on the INHUB shows you how many doses are left. |  |  |  |
 | Your dose counter will be set at 60 when you first receive your INHUB. | After you have taken 51 doses, a red indicator will be present. This indicator warns you there are 9 or fewer doses left and is a reminder to get a refill. |  | The dose counter will read 0 and the lever will not reach the end of the purple arrows when there are no doses remaining. |
 | For correct use of the INHUB, remember: •Hold your breath for about 10 seconds after inhaling. Then breathe out fully.•After each dose, rinse your mouth with water and spit it out. Do not swallow the water.•Do not take an extra dose, even if you did not taste or feel the powder.•Do not take the INHUB apart.•Do not wash the INHUB.•Always keep the INHUB in a dry place.•Do not use the INHUB with a spacer device. |  |  |  |
-| For more information about WIXELA INHUB or how to use your inhaler, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). The brands listed are trademarks of their respective owners. Wixela Inhub® is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.The Inhub® device is patent protected. U.S. Pat. Nos. 7,401,713, 7,987,985, 8,181,645, 8,256,416, 8,528,549, 8,851,070, 9,056,175, 9,314,578, 9,399,103, 10,124,130, D569,967, D560,793. Pfizer Limited, Sandwich, Kent, CT13 9NJ, England, exclusively licensed to Mylan Pharmaceuticals Inc., a Viatris Company. © 2021 Viatris Inc. |  |  |  |
+| For more information about WIXELA INHUB or how to use your inhaler, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). The brands listed are trademarks of their respective owners. Wixela Inhub® is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.The Inhub® device is patent protected. U.S. Pat. Nos. 7,401,713, 7,987,985, 8,181,645, 8,256,416, 8,528,549, 8,851,070, 9,056,175, 9,314,578, 9,399,103, 10,124,130, D569,967, D560,793. Pfizer Limited, Sandwich, Kent, CT13 9NJ, England, exclusively licensed to Mylan Pharmaceuticals Inc., a Viatris Company. © 2022 Viatris Inc. |  |  |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -24,4 +24,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: McDermott Laboratories Ltd. t/a Mylan Dublin Respiratory Unit 25 Baldoyle Industrial Estate, Grange Road, Baldoyle, Dublin 13, Ireland
 
-Revised: 3/2021 MDR:FPSX:R10/MDR:PI:FPSX:R5/MDR:IFU:FPSX:R6
+Revised: 8/2022 MDR:FPSX:R11/MDR:PI:FPSX:R6/MDR:IFU:FPSX:R7

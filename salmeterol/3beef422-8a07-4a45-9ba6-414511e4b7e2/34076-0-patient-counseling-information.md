@@ -44,3 +44,5 @@ Physicians should closely follow the growth of children and adolescents taking c
 Glaucoma and Cataracts: Advise patients that long-term use of ICS may increase the risk of some eye problems (cataracts or glaucoma); consider regular eye examinations.
 
 Risks Associated with Beta-agonist Therapy: Inform patients of adverse effects associated with beta2-agonists, such as palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+
+The brands listed are trademarks of their respective owners.
