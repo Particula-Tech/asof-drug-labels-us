@@ -11,4 +11,6 @@ PHARMACIST: Dispense with the accompany Patient Information to each patient.
 WARNING: Swallow tablets whole.
 Do not crush, chew, or split the tablets.
 
-100 Tablets Rx Only
+100 Tablets
+
+Rx Only
