@@ -229,7 +229,7 @@ Table 12: Most Commonly Reported Adverse Reactions (≥5%) with Grades 3 and ≥
 | Hypertension | 15 (6) | 1 (<1) | 0 | 3 (1) | 0 | 0 |
 | Psychiatric Disorders |  |  |  |  |  |  |
 | Insomnia | 16 (7) | 1 (<1) | 0 | 8 (3) | 0 | 0 |
-| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP=VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
+| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
 
 The incidence of herpes zoster reactivation was 4.6% in the VcR-CAP arm and 0.8% in the R-CHOP arm.
 Antiviral prophylaxis was mandated by protocol amendment.
