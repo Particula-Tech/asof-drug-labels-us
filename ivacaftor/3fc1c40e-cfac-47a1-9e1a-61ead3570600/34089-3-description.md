@@ -6,7 +6,7 @@ The molecular weights for lumacaftor and ivacaftor are 452.41 and 392.49, respec
 The structural formulas are:
 
 Lumacaftor is a white to off-white powder that is practically insoluble in water (0.02 mg/mL).
-Ivacaftor is a white to off-white powder that is practically insoluble in water (<0.05 microgram/mL).
+Ivacaftor is a white to off-white powder that is practically insoluble in water (<0.05 µg/mL).
 
 ORKAMBI is available as a pink, oval-shaped, film-coated tablet for oral administration containing 200 mg of lumacaftor and 125 mg of ivacaftor.
 Each ORKAMBI tablet contains 200 mg of lumacaftor and 125 mg of ivacaftor, and the following inactive ingredients: cellulose, microcrystalline; croscarmellose sodium; hypromellose acetate succinate; magnesium stearate; povidone; and sodium lauryl sulfate.

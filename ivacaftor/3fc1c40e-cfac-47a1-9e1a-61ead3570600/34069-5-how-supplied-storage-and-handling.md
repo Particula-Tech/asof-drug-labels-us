@@ -10,10 +10,11 @@ ORKAMBI (lumacaftor 100 mg/ivacaftor 125 mg) is supplied as pink, oval-shaped ta
 | 112–count tablet box containing a 4-week supply (4 weekly cartons of 7 daily blister strips with 4 tablets per strip). | NDC 51167-700-02 |
 | --- | --- |
 
-ORKAMBI (lumacaftor/ivacaftor) oral granules are supplied as small white to off-white granules and enclosed in unit dose packets as follows:
+ORKAMBI (lumacaftor/ivacaftor) oral granules are supplied as small white to off-white granules and enclosed in unit-dose packets as follows:
 
-|  | 56-count carton (contains 56 unit-dose packets of lumacaftor 100 mg/ivacaftor 125 mg per packet) | NDC 51167-900-01 |
-| --- | --- | --- |
-|  | 56-count carton (contains 56 unit-dose packets of lumacaftor 150 mg/ivacaftor 188 mg per packet) | NDC 51167-500-02 |
+| 56-count carton (contains 56 unit-dose packets of lumacaftor 75 mg/ivacaftor 94 mg per packet) | NDC 51167-122-01 |
+| --- | --- |
+| 56-count carton (contains 56 unit-dose packets of lumacaftor 100 mg/ivacaftor 125 mg per packet) | NDC 51167-900-01 |
+| 56-count carton (contains 56 unit-dose packets of lumacaftor 150 mg/ivacaftor 188 mg per packet) | NDC 51167-500-02 |
 
-Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 20°C - 25°C (68°F - 77°F); excursions permitted to 15°C - 30°C (59°F - 86°F) [see USP Controlled Room Temperature].

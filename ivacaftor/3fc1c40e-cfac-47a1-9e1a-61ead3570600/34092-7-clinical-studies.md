@@ -3,7 +3,7 @@
 Dose Ranging
 
 Dose ranging for the clinical program consisted primarily of one double-blind, placebo-controlled, multiple-cohort trial which included 97 Caucasian patients with CF (homozygous for the F508del mutation) 18 years of age and older with a screening ppFEV1 ≥40.
-In the trial, 76 patients (homozygous for the F508del mutation) were randomized to receive lumacaftor alone at once-daily doses of 200 mg, 400 mg, or 600 mg or 400 mg q12h for 28 days followed by the addition of ivacaftor 250 mg q12h and 27 patients (homozygous or heterozygous for the F508del mutation) received placebo.
+In the trial, 76 patients (homozygous for the F508del mutation) were randomized to receive lumacaftor alone at once daily doses of 200 mg, 400 mg, or 600 mg or 400 mg q12h for 28 days followed by the addition of ivacaftor 250 mg q12h and 27 patients (homozygous or heterozygous for the F508del mutation) received placebo.
 During the initial 28-day lumacaftor monotherapy period, treatment with lumacaftor demonstrated a dose-dependent decrease in ppFEV1 compared to placebo.
 Changes from Day 1 at Day 28 in ppFEV1 compared to placebo were 0.24, -1.4, -2.7, and -4.6 for the 200 mg once daily, 400 mg once daily, 600 mg once daily, and 400 mg q12h lumacaftor doses, respectively.
 Following the addition of ivacaftor 250 mg q12h, the changes from Day 1 at Day 56 in ppFEV1 compared to placebo were 3.8, 2.7, 5.6, and 4.2, respectively.
@@ -38,12 +38,12 @@ Improvements in ppFEV1 were observed regardless of age, disease severity, sex, a
 Key secondary efficacy variables included relative change from baseline in ppFEV1 at Week 24, assessed as the average of the treatment effects at Week 16 and at Week 24; absolute change from baseline in BMI at Week 24; absolute change from baseline in Cystic Fibrosis Questionnaire-Revised (CFQ-R) Respiratory Domain score at Week 24, a measure of respiratory symptoms relevant to patients with CF such as cough, sputum production, and difficulty breathing; proportion of patients achieving ≥5% relative change from baseline in ppFEV1 using the average of Week 16 and Week 24; and number of pulmonary exacerbations through Week 24.
 For the purposes of these trials, a pulmonary exacerbation was defined as a change in antibiotic therapy (IV, inhaled, or oral) as a result of 4 or more of 12 pre-specified sino-pulmonary signs/symptoms.
 
-Table 6: Summary of Other Efficacy Endpoints in Trials 1 and 2In each trial, a hierarchical testing procedure was performed within each active treatment arm for primary and secondary endpoints vs. placebo; at each step, P≤0.0250 and all previous tests also meeting this level of significance was required for statistical significance.
+Table 7: Summary of Other Efficacy Endpoints in Trials 1 and 2In each trial, a hierarchical testing procedure was performed within each active treatment arm for primary and secondary endpoints vs. placebo; at each step, P≤0.0250 and all previous tests also meeting this level of significance was required for statistical significance.
 
 | Placebo (n=184) | ORKAMBI LUM 400 mg q12h/IVA 250 mg q12h (n=182) | Placebo (n=187) | ORKAMBI LUM 400 mg q12h/IVA 250 mg q12h (n=187) |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Trial 1 |  | Trial 2 |  |
-| Relative change in ppFEV1 at Week 24Assessed as the average of the treatment effects at Week 16 and Week 24. (%) | Treatment difference (95% CI) | – | 4.3 (1.9, 6.8) P=0.0006Indicates statistical significance confirmed in the hierarchical testing procedure. Other efficacy measures considered not statistically significant. | – | 5.3 (2.7, 7.8) P<0.0001 |
+| Relative change in ppFEV1 at Week 24Assessed as the average of the treatment effects at Week 16 and Week 24. (%) | Treatment difference (95% CI) | – | 4.3 (1.9, 6.8) P=0.0006 Indicates statistical significance confirmed in the hierarchical testing procedure. Other efficacy measures considered not statistically significant. | – | 5.3 (2.7, 7.8) P<0.0001 |
 | Absolute change in BMI at Week 24 (kg/m2) | Treatment difference (95% CI) | – | 0.1 (-0.1, 0.3) | – | 0.4 (0.2, 0.5) P=0.0001 |
 | Absolute change in CFQ-R Respiratory Domain Score (Points) at Week 24 | Treatment difference (95% CI) | – | 1.5 (-1.7, 4.7) | – | 2.9 (-0.3, 6.0) |
 | Proportion of patients with ≥5% relative change in ppFEV1 at Week 24 | % | 22% | 37% | 23% | 41% |

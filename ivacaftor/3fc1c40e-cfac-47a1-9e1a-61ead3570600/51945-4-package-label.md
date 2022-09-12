@@ -43,3 +43,19 @@ Oral Granules 150 mg/188 mg per packet
 56 packets Carton contains: 4 individual wallets with 14 packets per wallet
 
 Lift here to open
+
+# PRINCIPAL DISPLAY PANEL - 75 mg/94 mg packet Carton
+
+Rx only
+
+NDC 51167-122-01
+
+ORKAMBI® (Lumacaftor/Ivacaftor)
+
+75 mg 94 mg
+
+Oral Granules 75 mg/94 mg per packet
+
+56 packets Carton contains: 4 individual wallets with 14 packets per wallet
+
+Lift here to open

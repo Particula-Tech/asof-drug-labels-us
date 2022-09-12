@@ -16,8 +16,8 @@ It is recommended that ALT, AST, and bilirubin be assessed prior to initiating O
 For patients with a history of ALT, AST, or bilirubin elevations, more frequent monitoring should be considered.
 Patients who develop increased ALT, AST, or bilirubin should be closely monitored until the abnormalities resolve.
 
-Dosing should be interrupted in patients with ALT or AST greater than 5 × upper limit of normal (ULN) when not associated with elevated bilirubin.
-Dosing should also be interrupted in patients with ALT or AST elevations greater than 3 × ULN when associated with bilirubin elevations greater than 2 × ULN.
+Dosing should be interrupted in patients with ALT or AST >5 × upper limit of normal (ULN) when not associated with elevated bilirubin.
+Dosing should also be interrupted in patients with ALT or AST elevations >3 × ULN when associated with bilirubin elevations >2 × ULN.
 Following resolution of transaminase elevations, consider the benefits and risks of resuming dosing [see Adverse Reactions (6.1)].
 
 ## 5.3 Respiratory Events
