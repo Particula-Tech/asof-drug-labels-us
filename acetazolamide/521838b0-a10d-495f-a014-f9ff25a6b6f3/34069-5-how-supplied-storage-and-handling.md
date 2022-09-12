@@ -1,12 +1,10 @@
 # HOW SUPPLIED
 
-Acetazolamide for Injection, USP (lyophilized) powder is supplied as follows:
+Acetazolamide for injection, USP (lyophilized) powder is supplied as follows:
 
-| NDC | Acetazolamide for Injection, USP | Package Factor |
+| NDC | Strength | Package Factor |
 | --- | --- | --- |
-| 67457-853-50 | 500 mg Vial | 1 vial per carton |
-
-## Storage Conditions
+| 67457-853-50 | 500 mg/vial | 1 vial per carton |
 
 Store drug product at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
@@ -20,14 +18,18 @@ Sterile, Nonpyrogenic, Preservative-free.
 
 The container closure is not made with natural rubber latex.
 
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
 Manufactured for:
 
 Mylan Institutional LLC
 
-Rockford, IL 61103 U.S.A.
+Morgantown, WV 26505 U.S.A.
 
 Manufactured by:
 
 Mylan Laboratories Limited
 
 Bangalore, India
+
+AUGUST 2022
