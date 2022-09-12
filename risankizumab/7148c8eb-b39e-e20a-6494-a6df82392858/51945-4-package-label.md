@@ -38,7 +38,7 @@ FOR SUBCUTANEOUS USE ONLY
 
 Return to pharmacy if carton perforations are broken.
 
-ATTENTION PHARMACIST:
+ATTENTION PHYSICIAN:
 
 Each patient is required to receive
 
