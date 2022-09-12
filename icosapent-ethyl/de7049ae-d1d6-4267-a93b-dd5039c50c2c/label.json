@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209525"
+  ],
+  "inn": "icosapent-ethyl",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-0126-49"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, LIQUID FILLED",
+      "generic": "icosapent ethyl",
+      "name": "Icosapent Ethyl"
+    }
+  ],
+  "setid": "de7049ae-d1d6-4267-a93b-dd5039c50c2c",
+  "source": "dailymed"
+}
