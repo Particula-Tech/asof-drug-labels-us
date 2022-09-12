@@ -35,7 +35,7 @@ These reactions were described using COSTART terms and were considered possibly 
 At least 95% of these patients did not receive hematopoietic support.
 The safety profile is generally similar in patients receiving Docetaxel Injection for the treatment of breast cancer and in patients with other tumor types (See Table 3).
 
-Table 3 - Summary of Adverse Reactions in Patients Receiving Docetaxel Injection at 100 mg/m2
+Table 3 - Summary of Adverse Reactions in Patients Receiving Docetaxel Injection at 100 mg/m
 
 |  | % | % | % |
 | --- | --- | --- | --- |
@@ -237,7 +237,7 @@ Table 5 - Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously
 | NA = not available |  |  |  |
 
 In the three-arm monotherapy trial, TAX313, which compared Docetaxel Injection 60 mg/m2, 75 mg/m2 and 100 mg/m2 in advanced breast cancer, grade 3/4 or severe adverse reactions occurred in 49.0% of patients treated with Docetaxel Injection 60 mg/m2 compared to 55.3% and 65.9% treated with 75 mg/m2 and 100 mg/m2, respectively.
-Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 versus 6.9% and 16.5% for patients treated at 75 and 100 mg/m2 respectively.
+Discontinuation due to adverse reactions was reported in 5.3% of patients treated with 60 mg/m2 versus 6.9% and 16.5% for patients treated at 75 and 100 mg/m2, respectively.
 Deaths within 30 days of last treatment occurred in 4.0% of patients treated with 60 mg/m2 compared to 5.3% and 1.6% for patients treated at 75 mg/m2 and 100 mg/m2, respectively.
 
 The following adverse reactions were associated with increasing docetaxel doses: fluid retention (26%, 38%, and 46% at 60 mg/m2, 75 mg/m2, and 100 mg/m2, respectively), thrombocytopenia (7%, 11% and 12%, respectively), neutropenia (92%, 94%, and 97% respectively), febrile neutropenia (5%, 7%, and 14%, respectively), treatment-related grade 3/4 infection (2%, 3%, and 7%, respectively) and anemia (87%, 94%, and 97%, respectively).
@@ -248,11 +248,11 @@ The following table presents treatment emergent adverse reactions observed in 74
 
 Table 6 - Clinically Important Treatment Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel Injection in Combination with Doxorubicin and Cyclophosphamide (TAX316).
 
-|  | n=744 % |  | n=736 % |  |
-| --- | --- | --- | --- | --- |
 |  | Docetaxel Injection 75 mg/m2+ |  | Fluorouracil 500 mg/m2+ |  |
+| --- | --- | --- | --- | --- |
 |  | Doxorubicin 50 mg/m2+ |  | Doxorubicin 50 mg/m2+ |  |
 |  | Cyclophosphamide 500 mg/m2 (TAC) |  | Cyclophosphamide 500 mg/m2 (FAC) |  |
+|  | n=744 % |  | n=736 % |  |
 | Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | Anemia | 92 | 4 | 72 | 2 |
 | Neutropenia | 71 | 66 | 82 | 49 |
@@ -332,7 +332,8 @@ At the end of the follow-up period (median follow-up time of 8 years), periphera
 
 Skin and subcutaneous tissue disorders
 
-In study TAX316, alopecia persisting into the follow-up period after the end of chemotherapy was reported in 687 of 744 TAC patients (92.3%) and 645 of 736 FAC patients (87.6%).At the end of the follow-up period (actual median follow-up time of 8 years), alopecia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
+In study TAX316, alopecia persisting into the follow-up period after the end of chemotherapy was reported in 687 of 744 TAC patients (92.3%) and 645 of 736 FAC patients (87.6%).
+At the end of the follow-up period (actual median follow-up time of 8 years), alopecia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
 
 Reproductive system and breast disorders
 
@@ -347,7 +348,7 @@ At the end of the follow-up period (actual median follow-up time of 8 years), pe
 In study TAX316, lymphedema that started during the treatment period and persisted into the follow-up period after the end of chemotherapy was reported in 11 of 744 TAC patients (1.5%) and 1 of 736 FAC patients (0.1%).
 At the end of the follow-up period (actual median follow-up time of 8 years), lymphedema was observed to be ongoing in 6 TAC patients (0.8%) and 1 FAC patient (0.1%).
 
-In study TAX316, asthenia that started during the treatment period and persisted into the follow- up period after the end of chemotherapy was reported in 236 of 744 TAC patients (31.7%) and 180 of 736 FAC patients (24.5%).
+In study TAX316, asthenia that started during the treatment period and persisted into the follow-up period after the end of chemotherapy was reported in 236 of 744 TAC patients (31.7%) and 180 of 736 FAC patients (24.5%).
 At the end of the follow-up period (actual median follow-up time of 8 years), asthenia was observed to be ongoing in 29 TAC patients (3.9%) and 16 FAC patients (2.2%).
 
 Acute myeloid leukemia (AML)/myelodysplastic syndrome (MDS)
@@ -539,13 +540,13 @@ The following data are based on the experience of 332 patients, who were treated
 
 Table 9 - Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer who Received Docetaxel Injection in Combination with Prednisone (TAX327)
 
-| Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
-| --- | --- | --- | --- | --- |
 |  | Docetaxel Injection 75 mg/m2 |  | Mitoxantrone 12 mg/m2 |  |
+| --- | --- | --- | --- | --- |
 |  | every 3 weeks + |  | every 3 weeks + |  |
 |  | prednisone 5 mg twice daily |  | prednisone 5 mg twice daily |  |
 |  | n=332 |  | n=335 |  |
 |  | % |  | % |  |
+| Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | Anemia | 67 | 5 | 58 | 2 |
 | Neutropenia | 41 | 32 | 48 | 22 |
 | Thrombocytopenia | 3 | 1 | 8 | 1 |
@@ -631,61 +632,61 @@ Combination therapy with Docetaxel Injection in head and neck cancer
 Table 11 summarizes the safety data obtained from patients that received induction chemotherapy with Docetaxel Injection 75 mg/m2 in combination with cisplatin and fluorouracil followed by radiotherapy (TAX323; 174 patients) or chemoradiotherapy (TAX324; 251 patients).
 The treatment regimens are described in Section 14.6.
 
-Table 11 - Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
+Table 11 – Clinically Important Treatment Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
 
-|  | (n=174) |  | (n=181) |  |  | (n=251) |  | (n=243) |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | TAX323 |  |  |  |  | TAX324 |  |  |  |
-|  | (n=355) |  |  |  |  | (n=494) |  |  |  |
-|  | Docetaxel Injection arm |  | Comparator arm |  |  | Docetaxel Injection arm |  | Comparator arm |  |
-|  | Any | Grade | Any | Grade |  | Any | Grade | Any | Grade |
-| Adverse Reaction | % | 3/4 | % | 3/4 |  | % | 3/4 | % | 3/4 |
-| (by Body System) |  | % |  | % |  |  | % |  | % |
-| Neutropenia | 93 | 76 | 87 | 53 |  | 95 | 84 | 84 | 56 |
-| Anemia | 89 | 9 | 88 | 14 |  | 90 | 12 | 86 | 10 |
-| Thrombocytopenia | 24 | 5 | 47 | 18 |  | 28 | 4 | 31 | 11 |
-| Infection | 27 | 9 | 26 | 8 |  | 23 | 6 | 28 | 5 |
-| Febrile neutropenia* | 5 | N/A | 2 | N/A |  | 12 | N/A | 7 | N/A |
-| Neutropenic infection | 14 | N/A | 8 | N/A |  | 12 | N/A | 8 | N/A |
-| Cancer pain | 21 | 5 | 16 | 3 |  | 17 | 9 | 20 | 11 |
-| Lethargy | 41 | 3 | 38 | 3 |  | 61 | 5 | 56 | 10 |
-| Fever in the absence of infection | 32 | 1 | 37 | 0 |  | 30 | 4 | 28 | 3 |
-| Myalgia | 10 | 1 | 7 | 0 |  | 7 | 0 | 7 | 2 |
-| Weight loss | 21 | 1 | 27 | 1 |  | 14 | 2 | 14 | 2 |
-| Allergy | 6 | 0 | 3 | 0 |  | 2 | 0 | 0 | 0 |
-| Fluid retention** | 20 | 0 | 14 | 1 |  | 13 | 1 | 7 | 2 |
-| Edema only | 13 | 0 | 7 | 0 |  | 12 | 1 | 6 | 1 |
-| Weight gain only | 6 | 0 | 6 | 0 |  | 0 | 0 | 1 | 0 |
-| Dizziness | 2 | 0 | 5 | 1 |  | 16 | 4 | 15 | 2 |
-| Neurosensory | 18 | 1 | 11 | 1 |  | 14 | 1 | 14 | 0 |
-| Altered hearing | 6 | 0 | 10 | 3 |  | 13 | 1 | 19 | 3 |
-| Neuromotor | 2 | 1 | 4 | 1 |  | 9 | 0 | 10 | 2 |
-| Alopecia | 81 | 11 | 43 | 0 |  | 68 | 4 | 44 | 1 |
-| Rash/itch | 12 | 0 | 6 | 0 |  | 20 | 0 | 16 | 1 |
-| Dry skin | 6 | 0 | 2 | 0 |  | 5 | 0 | 3 | 0 |
-| Desquamation | 4 | 1 | 6 | 0 |  | 2 | 0 | 5 | 0 |
-| Nausea | 47 | 1 | 51 | 7 |  | 77 | 14 | 80 | 14 |
-| Stomatitis | 43 | 4 | 47 | 11 |  | 66 | 21 | 68 | 27 |
-| Vomiting | 26 | 1 | 39 | 5 |  | 56 | 8 | 63 | 10 |
-| Diarrhea | 33 | 3 | 24 | 4 |  | 48 | 7 | 40 | 3 |
-| Constipation | 17 | 1 | 16 | 1 |  | 27 | 1 | 38 | 1 |
-| Anorexia | 16 | 1 | 25 | 3 | 40 |  | 12 | 34 | 12 |
-| Esophagitis/dysphagia/ Odynophagia | 13 | 1 | 18 | 3 | 25 |  | 13 | 26 | 10 |
-| Taste, sense of smell altered | 10 | 0 | 5 | 0 | 20 |  | 0 | 17 | 1 |
-| Gastrointestinal pain/cramping | 8 | 1 | 9 | 1 | 15 |  | 5 | 10 | 2 |
-| Heartburn | 6 | 0 | 6 | 0 | 13 |  | 2 | 13 | 1 |
-| Gastrointestinal bleeding | 4 | 2 | 0 | 0 | 5 |  | 1 | 2 | 1 |
-| Cardiac dysrhythmia | 2 | 2 | 2 | 1 | 6 |  | 3 | 5 | 3 |
-| Venous*** | 3 | 2 | 6 | 2 | 4 |  | 2 | 5 | 4 |
-| Ischemia myocardial | 2 | 2 | 1 | 0 | 2 |  | 1 | 1 | 1 |
-| Tearing | 2 | 0 | 1 | 0 | 2 |  | 0 | 2 | 0 |
-| Conjunctivitis | 1 | 0 | 1 | 0 | 1 |  | 0 | 0.4 | 0 |
-| Clinically important treatment emergent adverse reactions based upon frequency, severity, and clinical impact. |  |  |  |  |  |  |  |  |  |
-| *Febrile neutropenia: grade ≥2 fever concomitant with grade 4 neutropenia requiring intravenous antibiotics and/or hospitalization. |  |  |  |  |  |  |  |  |  |
-| **Related to treatment. |  |  |  |  |  |  |  |  |  |
-| *** Includes superficial and deep vein thrombosis and pulmonary embolism |  |  |  |  |  |  |  |  |  |
+|  | TAX323 |  |  |  | TAX324 |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | (n=355) |  |  |  | (n=494) |  |  |  |
+|  | Docetaxel Injection arm |  | Comparator arm |  | Docetaxel Injection arm |  | Comparator arm |  |
+|  | (n=174) |  | (n=181) |  | (n=251) |  | (n=243) |  |
+|  | Any | Grade | Any | Grade | Any | Grade | Any | Grade |
+| Adverse Reaction | % | 3/4 | % | 3/4 | % | 3/4 | % | 3/4 |
+| (by Body System) |  | % |  | % |  | % |  | % |
+| Neutropenia | 93 | 76 | 87 | 53 | 95 | 84 | 84 | 56 |
+| Anemia | 89 | 9 | 88 | 14 | 90 | 12 | 86 | 10 |
+| Thrombocytopenia | 24 | 5 | 47 | 18 | 28 | 4 | 31 | 11 |
+| Infection | 27 | 9 | 26 | 8 | 23 | 6 | 28 | 5 |
+| Febrile neutropenia* | 5 | N/A | 2 | N/A | 12 | N/A | 7 | N/A |
+| Neutropenic infection | 14 | N/A | 8 | N/A | 12 | N/A | 8 | N/A |
+| Cancer pain | 21 | 5 | 16 | 3 | 17 | 9 | 20 | 11 |
+| Lethargy | 41 | 3 | 38 | 3 | 61 | 5 | 56 | 10 |
+| Fever in the absence of infection | 32 | 1 | 37 | 0 | 30 | 4 | 28 | 3 |
+| Myalgia | 10 | 1 | 7 | 0 | 7 | 0 | 7 | 2 |
+| Weight loss | 21 | 1 | 27 | 1 | 14 | 2 | 14 | 2 |
+| Allergy | 6 | 0 | 3 | 0 | 2 | 0 | 0 | 0 |
+| Fluid retention** | 20 | 0 | 14 | 1 | 13 | 1 | 7 | 2 |
+| Edema only | 13 | 0 | 7 | 0 | 12 | 1 | 6 | 1 |
+| Weight gain only | 6 | 0 | 6 | 0 | 0 | 0 | 1 | 0 |
+| Dizziness | 2 | 0 | 5 | 1 | 16 | 4 | 15 | 2 |
+| Neurosensory | 18 | 1 | 11 | 1 | 14 | 1 | 14 | 0 |
+| Altered hearing | 6 | 0 | 10 | 3 | 13 | 1 | 19 | 3 |
+| Neuromotor | 2 | 1 | 4 | 1 | 9 | 0 | 10 | 2 |
+| Alopecia | 81 | 11 | 43 | 0 | 68 | 4 | 44 | 1 |
+| Rash/itch | 12 | 0 | 6 | 0 | 20 | 0 | 16 | 1 |
+| Dry skin | 6 | 0 | 2 | 0 | 5 | 0 | 3 | 0 |
+| Desquamation | 4 | 1 | 6 | 0 | 2 | 0 | 5 | 0 |
+| Nausea | 47 | 1 | 51 | 7 | 77 | 14 | 80 | 14 |
+| Stomatitis | 43 | 4 | 47 | 11 | 66 | 21 | 68 | 27 |
+| Vomiting | 26 | 1 | 39 | 5 | 56 | 8 | 63 | 10 |
+| Diarrhea | 33 | 3 | 24 | 4 | 48 | 7 | 40 | 3 |
+| Constipation | 17 | 1 | 16 | 1 | 27 | 1 | 38 | 1 |
+| Anorexia | 16 | 1 | 25 | 3 | 40 | 12 | 34 | 12 |
+| Esophagitis/dysphagia/ Odynophagia | 13 | 1 | 18 | 3 | 25 | 13 | 26 | 10 |
+| Taste, sense of smell altered | 10 | 0 | 5 | 0 | 20 | 0 | 17 | 1 |
+| Gastrointestinal pain/cramping | 8 | 1 | 9 | 1 | 15 | 5 | 10 | 2 |
+| Heartburn | 6 | 0 | 6 | 0 | 13 | 2 | 13 | 1 |
+| Gastrointestinal bleeding | 4 | 2 | 0 | 0 | 5 | 1 | 2 | 1 |
+| Cardiac dysrhythmia | 2 | 2 | 2 | 1 | 6 | 3 | 5 | 3 |
+| Venous*** | 3 | 2 | 6 | 2 | 4 | 2 | 5 | 4 |
+| Ischemia myocardial | 2 | 2 | 1 | 0 | 2 | 1 | 1 | 1 |
+| Tearing | 2 | 0 | 1 | 0 | 2 | 0 | 2 | 0 |
+| Conjunctivitis | 1 | 0 | 1 | 0 | 1 | 0 | 0.4 | 0 |
+| Clinically important treatment emergent adverse reactions based upon frequency, severity, and clinical impact. |  |  |  |  |  |  |  |  |
+| *Febrile neutropenia: grade ≥2 fever concomitant with grade 4 neutropenia requiring intravenous antibiotics and/or hospitalization. |  |  |  |  |  |  |  |  |
+| **Related to treatment. |  |  |  |  |  |  |  |  |
+| *** Includes superficial and deep vein thrombosis and pulmonary embolism |  |  |  |  |  |  |  |  |
 
-## 6.2 Post-Marketing Experiences
+## 6.2 Postmarketing Experiences
 
 The following adverse reactions have been identified from clinical trials and/or post-marketing surveillance.
 Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

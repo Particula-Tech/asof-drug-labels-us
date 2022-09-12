@@ -34,13 +34,13 @@ Patients must receive premedication with antiemetics, and appropriate hydration 
 Prophylaxis for neutropenic infections should be administered.
 All patients treated on the Docetaxel Injection containing arms of the TAX323 and TAX324 studies received prophylactic antibiotics.
 
-- Induction chemotherapy followed by radiotherapy (TAX323) For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
-  This regimen is administered every 3 weeks for 4 cycles.
-  Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
+Induction chemotherapy followed by radiotherapy (TAX323) For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
+This regimen is administered every 3 weeks for 4 cycles.
+Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
-- Induction chemotherapy followed by chemoradiotherapy (TAX324) For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
-  This regimen is administered every 3 weeks for 3 cycles.
-  Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
+Induction chemotherapy followed by chemoradiotherapy (TAX324) For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of Docetaxel Injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+This regimen is administered every 3 weeks for 3 cycles.
+Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
 ## 2.6 Premedication Regimen
 
@@ -96,7 +96,7 @@ In both studies, G-CSF was recommended during the second and/or subsequent cycle
 If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-CSF use, the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
 If subsequent episodes of complicated neutropenia occur the Docetaxel Injection dose should be reduced from 60 mg/m2 to 45 mg/m2.
 In case of grade 4 thrombocytopenia the Docetaxel Injection dose should be reduced from 75 mg/m2 to 60 mg/m2.
-Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
+Do not retreat patients with subsequent cycles of Docetaxel Injection until neutrophils recover to a level >1,500 cells/mm3[see Contraindications (4)].
 Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
 Discontinue treatment if these toxicities persist [see Warnings and Precautions (5.3)].
 
@@ -111,9 +111,7 @@ Table 1 - Recommended Dose Modifications for Toxicities in Patients Treated with
 | Stomatitis/mucositis grade 3 | First episode: reduce fluorouracil dose by 20%. Second episode: stop fluorouracil only, at all subsequent cycles. Third episode: reduce Docetaxel Injection dose by 20%. |
 | Stomatitis/mucositis grade 4 | First episode: stop fluorouracil only, at all subsequent cycles. Second episode: reduce Docetaxel Injection dose by 20%. |
 
-Liver dysfunction:
-
-In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, Docetaxel Injection should be reduced by 20%.
+Liver dysfunction: In case of AST/ALT >2.5 to ≤5 x ULN and AP ≤2.5 x ULN, or AST/ALT >1.5 to ≤5 x ULN and AP >2.5 to ≤5 x ULN, Docetaxel Injection should be reduced by 20%.
 
 In case of AST/ALT >5 x ULN and/or AP >5 x ULN Docetaxel Injection should be stopped.
 
@@ -198,8 +196,7 @@ Use only a 21 gauge needle to withdraw Docetaxel Injection from the vial because
    If the Docetaxel Injection dilution for intravenous infusion is not clear or appears to have precipitation, it should be discarded.
 5. Docetaxel Injection infusion solution is supersaturated, therefore may crystallize over time.
    If crystals appear, the solution must no longer be used and shall be discarded.
-
-The Docetaxel Injection dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
+   The Docetaxel Injection dilution for infusion should be administered intravenously as a 1-hour infusion under ambient room temperature (below 25°C) and lighting conditions.
 
 ## 2.10 Stability
 

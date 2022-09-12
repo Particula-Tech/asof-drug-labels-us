@@ -8,8 +8,6 @@ Docetaxel Injection USP, 20 mg/mL available as one vial per carton NDC 45963-734
 
 Docetaxel Injection USP, 80 mg/4 mL (20 mg/mL) available as one vial per carton NDC 45963-765-52
 
-Docetaxel Injection USP, 160 mg/8 mL (20 mg/mL) available as one vial per carton NDC 45963-790-56
-
 Discard unused portion.
 The vial stopper is not made with natural rubber latex.
 

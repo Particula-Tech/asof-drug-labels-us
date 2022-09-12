@@ -14,6 +14,6 @@ Docetaxel Injection, USP is a sterile, non-pyrogenic, clear, viscous, colorless 
 
 Each mL contains 20 mg docetaxel, USP, citric acid anhydrous (6 mg), kollidon 12 PF (povidone P12) (100 mg), polysorbate 80 (424 mg) and ethanol (400 mg, 50% v/v).
 
-Docetaxel Injection, USP is available in single-dose vials containing 20 mg (1 mL), 80 mg (4 mL), or 160 mg (8 mL) docetaxel.
+Docetaxel Injection, USP is available in single-dose vials containing 20 mg (1 mL) or 80 mg (4 mL), docetaxel.
 
 Docetaxel Injection, USP requires NO prior dilution with a diluent and is ready to add to the infusion solution.

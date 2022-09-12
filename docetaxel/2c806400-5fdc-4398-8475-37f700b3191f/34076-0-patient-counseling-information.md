@@ -93,13 +93,9 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured In Italy By: Actavis Italy Spa A Socio Unico Nerviano, Italy, 20014
-
-Or
-
 Manufactured In Romania By: Sindan Pharma SRL Bucharest 1, Romania 011171
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-H 11/2020
+I 7/2022

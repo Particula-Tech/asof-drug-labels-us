@@ -26,8 +26,10 @@ Table 12 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Pat
 |  |  |  | Log Rank |
 | 95% CI (Risk Ratio) | 0.58 to 0.93 |  |  |
 | Median Time to Progression | 4.3 months | 2.5 months |  |
-| Risk Ratio*, Progression |  |  | p=0.01 |
-| (Docetaxel: Control) | 0.75 |  | Log Rank |
+| Risk Ratio*, Progression |  |  |  |
+| (Docetaxel: Control) | 0.75 |  |  |
+|  |  |  | p=0.01 |
+|  |  |  | Log Rank |
 | 95% CI (Risk Ratio) | 0.61 to 0.94 |  |  |
 | Overall Response Rate | 28.1% | 9.5% | p<0.0001 |
 | Complete Response Rate | 3.4% | 1.6% | Chi Square |
@@ -47,8 +49,7 @@ Table 13 - Efficacy of Docetaxel Injection in the Treatment of Breast Cancer Pat
 | Efficacy Parameter | Docetaxel | Doxorubicin | p-value |
 | Median Survival | 14.7 months | 14.3 months |  |
 | Risk Ratio*, Mortality |  |  |  |
-| (Docetaxel: Control) | 0.89 |  |  |
-|  |  |  | p=0.39 |
+| (Docetaxel: Control) | 0.89 |  | p=0.39 |
 |  |  |  | Log Rank |
 | 95% CI (Risk Ratio) | 0.68 to 1.16 |  |  |
 | Median Time to Progression | 6.5 months | 5.3 months |  |
@@ -157,6 +158,10 @@ Table 15 - Efficacy of Docetaxel Injection in the Treatment of Non-Small Cell Lu
 
 Only one of the two trials (TAX317) showed a clear effect on survival, the primary endpoint; that trial also showed an increased rate of survival to one year.
 In the second study (TAX320) the rate of survival at one year favored Docetaxel Injection 75 mg/m2.
+
+Figure 3 - TAX317 Survival K-M Curves - Docetaxel Injection 75 mg/m2 vs. Best Supportive Care
+
+Figure 4 - TAX320 Survival K-M Curves - Docetaxel Injection 75 mg/m2 vs. Vinorelbine or Ifosfamide Control
 
 Patients treated with Docetaxel Injection at a dose of 75 mg/m2 experienced no deterioration in performance status and body weight relative to the comparator arms used in these trials.
 
@@ -279,7 +284,7 @@ At the end of chemotherapy, with a minimal interval of 4 weeks and a maximal int
 Locoregional therapy with radiation was delivered either with a conventional fraction regimen (1.8 Gy to 2.0 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy) or with an accelerated/hyperfractionated regimen (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week, for a total dose of 70 to 74 Gy, respectively).
 Surgical resection was allowed following chemotherapy, before or after radiotherapy.
 
-The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow-up time of 33.7 months.
+The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0077 (median PFS: 11.4 vs. 8.3 months, respectively) with an overall median follow-up time of 33.7 months.
 Median overall survival with a median follow-up of 51.2 months was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.2 months, respectively).
 Efficacy results are presented in Table 20 and Figures 8 and 9.
 
