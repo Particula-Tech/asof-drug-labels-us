@@ -122,7 +122,7 @@ Figure 5: Responder Rate for All Patients Ages 1 Month to < 4 Years (≥ 50% Red
 
 *statistically significant versus placebo
 
-## 14.2 Myoclonic Seizures in Patients With Juvenile Myoclonic Epilepsy
+## 14.2 Myoclonic Seizures in Patients with Juvenile Myoclonic Epilepsy
 
 The effectiveness of KEPPRA as adjunctive therapy in patients 12 years of age and older with juvenile myoclonic epilepsy (JME) experiencing myoclonic seizures was established in one multicenter, randomized, double-blind, placebo-controlled study (Study 6), conducted at 37 sites in 14 countries.
 Eligible patients on a stable dose of 1 antiepileptic drug (AED) experiencing one or more myoclonic seizures per day for at least 8 days during the prospective 8-week baseline period were randomized to either KEPPRA or placebo (KEPPRA N=60, placebo N=60).
