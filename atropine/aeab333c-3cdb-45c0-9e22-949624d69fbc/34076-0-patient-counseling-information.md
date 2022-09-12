@@ -7,9 +7,7 @@
   The single-dose vial, including any remaining contents, should be discarded immediately after administration [see Dosage and Administration (2)].
 - •Advise patients not to touch the tip of the single-dose vial to their eye or to any surface, in order to avoid eye injury or contamination of the solution.
 
-Distributed by:
-
-Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
 © 2022 Bausch & Lomb Incorporated or its affiliates
 

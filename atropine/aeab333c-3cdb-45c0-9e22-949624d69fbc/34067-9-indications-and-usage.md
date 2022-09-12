@@ -1,5 +1,7 @@
 # 1 INDICATIONS AND USAGE
 
+Atropine Sulfate Ophthalmic Solution, USP 1% is indicated for:
+
 ## 1.1 Mydriasis
 
 ## 1.2 Cycloplegia

@@ -3,8 +3,8 @@
 Atropine Sulfate Ophthalmic Solution, USP 1% is supplied as an aseptically prepared, sterile solution for topical ophthalmic use supplied as a 0.4 mL fill in a translucent, low-density polyethylene, single-dose vial.
 One (1) strip of 5 single-dose vials is packaged into a foil pouch.
 
-1. NDC 24208-965-01 10 single-dose vials.
-   2 foil pouches each containing one strip of 5 single-dose vials.
+- NDC 24208-965-01 10 single-dose vials.
+  2 foil pouches each containing one strip of 5 single-dose vials.
 
 Storage and Handling:
 
