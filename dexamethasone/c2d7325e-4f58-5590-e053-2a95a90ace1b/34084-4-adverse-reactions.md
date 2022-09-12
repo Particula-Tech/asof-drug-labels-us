@@ -24,7 +24,7 @@ The following additional adverse reactions have been reported with the individua
 Aminoglycosides: Neurotoxicity, ototoxicity, and nephrotoxicity have occurred in patients receiving systemic aminoglycoside therapy.
 Aminoglycosides may aggravate muscle weakness in patients with known or suspected neuromuscular disorders, such as myasthenia gravis or Parkinson's disease, because of their potential effect on neuromuscular function.
 
-Dexamethasone: Cushing's syndrome and adrenal suppression may occur after use of dexamethasone in excess of the listed dosing instructions in predisposed patients, including children and patients treated with CYP3A4 inhibitors
+Dexamethasone: Cushing's syndrome and adrenal suppression may occur after use of dexamethasone in excess of the listed dosing instructions in predisposed patients, including children and patients treated with CYP3A4 inhibitors.
 
 ## 6.2 Postmarketing Experience
 

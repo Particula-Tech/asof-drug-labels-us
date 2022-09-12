@@ -10,7 +10,7 @@ Reproduction studies have been performed in rats and rabbits with tobramycin at 
 There are no adequate and well-controlled studies in pregnant women.
 However, prolonged or repeated corticoid use during pregnancy has been associated with an increased risk of intra-uterine growth retardation.
 Infants born of mothers who have received substantial doses of corticosteroids during pregnancy should be observed carefully for signs of hypoadrenalism.
-TOBRADEX ST Ophthalmic Suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Nonclinical Toxicology (13.1)].
+TOBRADEX ST ophthalmic suspension should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Nonclinical Toxicology (13.1)].
 
 ## 8.3 Nursing Mothers
 
