@@ -1,14 +1,19 @@
-PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL
 
-Arranon® (nelarabine) Injection
+NDC 0078-0683-61
 
-Rx Only NDC 0078-0683-06
-
-For I.V.
-Infusion Only
+ARRANON® (nelarabine) Injection
 
 250 mg/50 mL (5 mg/mL)
 
-Six 50-mL Vials
+For Intravenous Infusion Only
 
-Novartis
+One 50 mL Vial
+
+Single-Dose Vial.
+
+Discard Unused Portion.
+
+Rx only
+
+NOVARTIS
