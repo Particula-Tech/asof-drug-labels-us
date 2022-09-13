@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA210435"
+  ],
+  "inn": "lenalidomide",
+  "labeler": "Exelan Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "76282-697-48",
+    "76282-698-48",
+    "76282-699-47",
+    "76282-701-48"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "lenalidomide",
+      "name": "lenalidomide"
+    }
+  ],
+  "setid": "682e8a86-9f49-45db-a2ea-403ee1dc62d2",
+  "source": "dailymed"
+}
