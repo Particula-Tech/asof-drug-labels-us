@@ -4,9 +4,11 @@ Atropine Sulfate Ophthalmic Solution, USP 1% is an aseptically prepared, sterile
 The product does not contain an antimicrobial preservative.
 The active ingredient is represented by the chemical structure:
 
-- Chemical Name: Benzeneacetic acid, α-(hydroxymethyl)-, 8-methyl-8-azabicyclo[3.2.1.]oct-3-yl ester, endo –(±)-, sulfate (2:1) (salt), monohydrate.
+Chemical Name: Benzeneacetic acid, α-(hydroxymethyl)-, 8-methyl-8-azabicyclo[3.2.1.]oct-3-yl ester, endo –(±)-, sulfate (2:1) (salt), monohydrate.
 
-1. Molecular Formula: (C 17 H 23 NO 3) 2 • H 2 SO 4 • H 2 O
+Molecular Formula: (C17H23NO3)2 • H2SO4 • H2O
+
+Molecular Weight: 694.84 g/mol
 
 Each mL of Atropine Sulfate Ophthalmic Solution, USP 1% contains: Active: atropine sulfate 10 mg equivalent to 8.3 mg of atropine.
 
