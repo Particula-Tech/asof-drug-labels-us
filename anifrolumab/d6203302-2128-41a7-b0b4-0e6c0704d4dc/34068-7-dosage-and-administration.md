@@ -20,7 +20,7 @@ Prepare the diluted infusion solution using aseptic technique, by the following 
    SAPHNELO is a clear to opalescent, colorless to slightly yellow, solution.
    Discard the vial if the solution is cloudy, discolored or visible particles are observed.
    Do not shake the vial.
-2. 2.Withdraw and discard 2 mL of solution from a 100 mL 0.9% Sodium Chloride Injection, USP infusion bag.
+2. 2.Withdraw and discard 2 mL of solution from a 50 mL or 100 mL 0.9% Sodium Chloride Injection, USP infusion bag.
 3. 3.Withdraw 2 mL of solution from the vial of SAPHNELO and add it to the infusion bag.
    Mix the solution by gentle inversion.
    Do not shake.
@@ -31,7 +31,7 @@ Prepare the diluted infusion solution using aseptic technique, by the following 
    Do not freeze.
    Protect from light.
    If refrigerated, allow the diluted SAPHNELO solution to reach room temperature prior to administration.
-7. 7.Administer the infusion solution intravenously over a 30-minute period through an infusion line containing a sterile, low-protein binding 0.2 or 0.22 micron in-line filter.
-8. 8.Upon completion of the infusion, flush the infusion set with 25 mL of 0.9% Sodium Chloride Injection, USP to ensure that all of the solution for infusion has been administered.
+7. 7.Administer the infusion solution intravenously over a 30-minute period through an infusion line containing a sterile, low-protein binding 0.2 to 15 micron in-line or add-on filter.
+8. 8.To ensure the complete dose of SAPHNELO has been administered, flush the entire infusion line with 25 mL of 0.9% Sodium Chloride Injection, USP at the end of the infusion.
 9. 9.Do not co-administer other medicinal products through the same infusion line.
 10. 10.Dispose of any unused medicinal product or waste material in accordance with local requirements.
