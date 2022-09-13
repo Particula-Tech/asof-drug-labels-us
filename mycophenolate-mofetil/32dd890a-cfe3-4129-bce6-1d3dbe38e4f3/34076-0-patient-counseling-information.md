@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 ## 17.1 Embryofetal Toxicity
 
@@ -51,8 +51,7 @@ Advise patients to contact their physician if they develop fever, joint stiffnes
 ## 17.7 Immunizations
 
 Inform patients that mycophenolate mofetil can interfere with the usual response to immunizations.
-Before seeking vaccines on their own, advise patients to discuss first with their physician.
-[see Warnings and Precautions (5.8)].
+Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.8)].
 
 ## 17.8 Administration Instructions
 
@@ -64,18 +63,16 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
 
 ## 17.9 Blood Donation
 
-Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil.
-[see Warnings and Precautions (5.11)].
+Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.11)].
 
 ## 17.10 Semen Donation
 
-Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil.
-[see Warnings and Precautions (5.12)].
+Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.12)].
 
 ## 17.11 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [See Warnings and Precautions (5.14)].
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [see Warnings and Precautions (5.14)].
 
 Distributed by:
 
@@ -83,6 +80,6 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 07/2022
+Revised: 09/2022
 
 Medication Guide available at: www.strides.com/medication-guides

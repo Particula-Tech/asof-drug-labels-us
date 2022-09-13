@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
 - Embryofetal Toxicity [see Warnings and Precautions (5.1)]
-- Lymphomas and Other Malignancies [see Warnings and Precautions 5.2)]
+- Lymphomas and Other Malignancies [see Warnings and Precautions (5.2)]
 - Serious Infections [see Warnings and Precautions (5.3)]
 - Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)]
 - Gastrointestinal Complications [see Warnings and Precautions (5.5)]
@@ -17,7 +17,7 @@ An estimated total of 1557 adult patients received mycophenolate mofetil during 
 Of these, 991 were included in the three renal studies, 277 were included in one hepatic study, and 289 were included in one cardiac study.
 Patients in all study arms also received cyclosporine and corticosteroids.
 
-The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2, 14.3)].
+The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2, and 14.3)].
 
 Mycophenolate Mofetil Oral
 
@@ -44,7 +44,7 @@ Table 5 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Live
 | % |  |  | % |  |  | % | % | % |  |  | % |  | % |  |  |  |  |
 | Infections and infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Bacterial infections | 39.9 |  |  | 33.7 | 37.3 |  |  | - |  |  | - | 27.4 |  |  |  | 26.5 |  |
-| Viral infections | -a |  |  | - | - |  |  | 31.1 |  |  | 24.9 | - |  |  |  | - |  |
+| Viral infections | - a |  |  | - | - |  |  | 31.1 |  |  | 24.9 | - |  |  |  | - |  |
 | Blood and lymphatic system disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Anemia | 20.0 |  |  | 23.6 | 2.4 |  |  | 45.0 |  |  | 47.1 | 43.0 |  |  |  | 53.0 |  |
 | Ecchymosis | - |  |  | - | - |  |  | 20.1 |  |  | 9.7 | - |  |  |  | - |  |
@@ -151,16 +151,16 @@ Geriatric patients (≥65 years), particularly those who are receiving mycopheno
 The following adverse reactions have been identified during post-approval use of mycophenolate mofetil.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Embryo-Fetal Toxicity: Congenital malformations and spontaneous abortions, mainly in the first trimester, have been reported following exposure to mycophenolate mofetil (MMF) in combination with other immunosuppressants during pregnancy [see Warnings and Precautions (5.1), and Use in Specific Populations (8.1), (8.3)].
+- Embryo-Fetal Toxicity: Congenital malformations and spontaneous abortions, mainly in the first trimester, have been reported following exposure to mycophenolate mofetil (MMF) in combination with other immunosuppressants during pregnancy[see Warnings and Precautions (5.1), and Use in Specific Populations (8.1), (8.3)].
   Congenital malformations include:
-  - Facial malformations: cleft lip, cleft palate, micrognathia, hypertelorism of the orbits
-  - Abnormalities of the ear and eye: abnormally formed or absent external/middle ear, coloboma, microphthalmos
-  - Malformations of the fingers: polydactyly, syndactyly, brachydactyly
-  - Cardiac abnormalities: atrial and ventricular septal defects
-  - Esophageal malformations: esophageal atresia
-  - Nervous system malformations: such as spina bifida.
+- Facial malformations: cleft lip, cleft palate, micrognathia, hypertelorism of the orbits
+- Abnormalities of the ear and eye: abnormally formed or absent external/middle ear, coloboma, microphthalmos
+- Malformations of the fingers: polydactyly, syndactyly, brachydactyly
+- Cardiac abnormalities: atrial and ventricular septal defects
+- Esophageal malformations: esophageal atresia
+- Nervous system malformations: such as spina bifida.
 - Cardiovascular: Venous thrombosis has been reported in patients treated with mycophenolate mofetil administered intravenously.
-- Digestive: Colitis, pancreatitis,
+- Digestive: Colitis, pancreatitis
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
 - Immune: Hypersensitivity, hypogammaglobinemia.
 - Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].

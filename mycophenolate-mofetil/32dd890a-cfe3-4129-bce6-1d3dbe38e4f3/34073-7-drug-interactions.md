@@ -27,8 +27,7 @@ Table 7 Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Ac
 
 ## 7.2 Effect of Mycophenolate Mofetil on Other Drugs
 
-Table 8.
-Drug Interactions with Mycophenolate Mofetil that Affect Other Drugs
+Table 8 Drug Interactions with Mycophenolate Mofetil that Affect Other Drugs
 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |

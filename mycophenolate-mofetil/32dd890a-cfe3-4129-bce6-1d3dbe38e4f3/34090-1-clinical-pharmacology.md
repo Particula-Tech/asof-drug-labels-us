@@ -3,13 +3,16 @@
 ## 12.1 Mechanism of Action
 
 Mycophenolate mofetil (MMF) is absorbed following oral administration and hydrolyzed to mycophenolic acid (MPA), the active metabolite.
-MPA is a selective, uncompetitive, and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA.
-Because T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways, MPA has potent cytostatic effects on lymphocytes.
-MPA inhibits proliferative responses of T- and B-lymphocytes to both mitogenic and allospecific stimulation.
-Addition of guanosine or deoxyguanosine reverses the cytostatic effects of MPA on lymphocytes.
-MPA also suppresses antibody formation by B-lymphocytes.
-MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
-MMF did not inhibit early events in the activation of human peripheral blood mononuclear cells, such as the production of interleukin-1 (IL-1) and interleukin-2 (IL-2), but did block the coupling of these events to DNA synthesis and proliferation.
+MPA is a selective uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novo pathway of guanosine nucleotide synthesis and blocks DNA synthesis.
+The mechanism of action of MPA is multifaceted and includes effects on cellular checkpoints responsible for metabolic programming of lymphocytes.
+MPA shifts transcriptional activities in lymphocytes from a proliferative state to catabolic processes.
+In vitro studies suggest that MPA modulates transcriptional activities in human CD4+ T-lymphocytes by suppressing the Akt/mTOR and STAT5 pathways that are relevant to metabolism and survival, leading to an anergic state of T-cells whereby the cells become less responsive to antigenic stimulation.
+Additionally, MPA enhanced the expression of negative co-stimulators such as CD70, PD-1, CTLA-4, and transcription factor FoxP3 as well as decreased the expression of positive co-stimulators CD27 and CD28.
+
+MPA decreases proliferative responses of T- and B-lymphocytes to both mitogenic and allo-antigenic stimulation, antibody responses, as well as the production of cytokines from lymphocytes and monocytes such as GM-CSF, IFN-Ɣ, IL-17, and TNF-α.
+Additionally, MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
+
+Overall, the effect of MPA is cytostatic and reversible.
 
 ## 12.2 Pharmacodynamics
 
@@ -70,7 +73,7 @@ MPA at concentrations as high as 100 mcg/mL had little effect on the binding of 
 
 Elimination
 
-Mean (±SD) apparent half-life and plasma clearance of MPA are 17.9 (±6.5) hours and 193 (±48) mL/min following oral administration.
+Mean (±SD) apparent half-life and plasma clearance of MPA are 17.9 (±6.5) hours and 193 (±48) mL/min following oral administration, respectively.
 
 Metabolism
 
