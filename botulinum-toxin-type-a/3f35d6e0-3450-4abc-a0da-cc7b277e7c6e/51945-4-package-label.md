@@ -18,7 +18,7 @@ MERZ AESTHETICS®
 
 # PRINCIPAL DISPLAY PANEL - 100 Unit Vial Carton
 
-1 vial Rx Only NDC 46783-160-10
+1 vial Rx Only NDC 46783-160-01
 
 incobotulinumtoxinA XEOMIN® FOR INJECTION
 
