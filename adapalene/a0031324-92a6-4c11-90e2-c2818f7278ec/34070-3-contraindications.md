@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-DIFFERIN Gel, 0.3% should not be administered to individuals who are hypersensitive to adapalene or any of the components in the gel vehicle.
+DIFFERIN Gel is contraindicated in patients who have known hypersensitivity to adapalene or any excipient of DIFFERIN Gel [see WARNINGS AND PRECAUTIONS (5.1)].

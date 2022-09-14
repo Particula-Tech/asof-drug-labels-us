@@ -30,7 +30,7 @@ Protect from freezing.
 See carton closure for lot number and expiration date.
 
 Marketed by:GALDERMA LABORATORIES, L.P.
-Fort Worth, TX 76177 USA Made in Canada All trademarks are the property of their respective owners. www.differin.com P51959-4
+Fort Worth, TX 76177 USA Made in Canada All trademarks are the property of their respective owners. www.differin.com P51959-5
 
 # PACKAGE LABEL - 45 g Tube
 
