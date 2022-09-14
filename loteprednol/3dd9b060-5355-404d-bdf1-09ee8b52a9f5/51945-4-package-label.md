@@ -5,3 +5,5 @@ NDC 24208-358-10 BAUSCH + LOMB Zylet® (loteprednol etabonate and tobramycin oph
 FOR TOPICAL OPHTHALMIC USE ONLY Rx only
 
 10 mL
+
+9528905 AB35809
