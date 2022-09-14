@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211899"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Waverley Pharma Inc",
+  "package_ndcs": [
+    "72338-100-01",
+    "72338-101-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "pemetrexed disodium",
+      "name": "Pemetrexed"
+    }
+  ],
+  "setid": "95633c32-89a8-4275-94e7-939c9f2e6135",
+  "source": "dailymed"
+}
