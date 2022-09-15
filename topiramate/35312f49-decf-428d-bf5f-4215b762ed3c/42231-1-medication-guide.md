@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Topiramate (TOE-pee-rah-mate)
 
@@ -25,9 +25,9 @@ Metabolic acidosis can happen with or without symptoms.
 
 Sometimes people with metabolic acidosis will:
 
-| •feel tired | •feel changes in heartbeat |
+| ● feel tired | ●feel changes in heartbeat |
 | --- | --- |
-| •not feel hungry (loss of appetite) | •have trouble thinking clearly |
+| ● not feel hungry (loss of appetite) | ●have trouble thinking clearly |
 
 Your healthcare provider should do a blood test to measure the level of acid in your blood before and during your treatment with topiramate tablets.
 If you are pregnant, you should talk to your healthcare provider about whether you have metabolic acidosis.
@@ -36,13 +36,13 @@ Like other antiepileptic drugs, topiramate tablets may cause suicidal thoughts o
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
-| •thoughts about suicide or dying | •trouble sleeping (insomnia) |
+| ● thoughts about suicide or dying | ● trouble sleeping (insomnia) |
 | --- | --- |
-| •attempts to commit suicide | •new or worse irritability |
-| •new or worse depression | •acting aggressive, being angry, or violent |
-| •new or worse anxiety | •acting on dangerous impulses |
-| •feeling agitated or restless | •an extreme increase in activity and talking (mania) |
-| •panic attacks | •other unusual changes in behavior or mood |
+| ● attempts to commit suicide | ● new or worse irritability |
+| ● new or worse depression | ● acting aggressive, being angry, or violent |
+| ● new or worse anxiety | ● acting on dangerous impulses |
+| ● feeling agitated or restless | ● an extreme increase in activity and talking (mania) |
+| ● panic attacks | ● other unusual changes in behavior or mood |
 
 Do not stop topiramate tablets without first talking to a healthcare provider.
 
@@ -75,6 +75,8 @@ Topiramate tablets can harm your unborn baby.
 - •Pregnancy Registry: If you become pregnant while taking topiramate tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of topiramate tablets and other antiepileptic drugs during pregnancy.
+- •Topiramate tablets may decrease the density of bones when used over a long period.
+- •Topiramate tables may slow height increase and weight gain in children and adolescents when used over a long period.
 
 What is topiramate tablets?
 
@@ -177,13 +179,13 @@ Call your healthcare provider right away if you have any of the symptoms above.
 
 The most common side effects of topiramate tablets include:
 
-| •tingling of the arms and legs (paresthesia) | •nervousness |  |  |  | •slow reactions |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| •not feeling hungry |  |  | •upper respiratory tract infection |  |  | •difficulty with memory |  |  |
-| •nausea |  |  | •speech problems |  |  | •pain in the abdomen |  |  |
-| •a change in the way foods taste |  |  | •tiredness |  |  | •fever |  |  |
-| •diarrhea |  | •dizziness |  | •abnormal vision |  |  |  |  |
-| •weight loss |  | •sleepiness/ drowsiness |  | •decreased feeling or sensitivity, especially in the skin |  |  |  |  |
+| ● tingling of the arms and legs (paresthesia) | ● nervousness | ● slow reactions |
+| --- | --- | --- |
+| ● not feeling hungry | ● upper respiratory tract infection | ● difficulty with memory |
+| ● nausea | ● speech problems | ● pain in the abdomen |
+| ● a change in the way foods taste | ● tiredness | ● fever |
+| ● diarrhea | ● dizziness | ● abnormal vision |
+| ● weight loss | ● sleepiness/ drowsiness | ● decreased feeling or sensitivity, especially in the skin |
 
 Tell your healthcare provider about any side effect that bothers you or that does not go away.
 These are not all the possible side effects of topiramate tablets.
@@ -195,7 +197,9 @@ How should I store topiramate tablets?
 
 - •Store topiramate tablets at room temperature between 20°C to 25˚C (68°F to 77˚F).
 - •Keep topiramate tablets in a tightly closed container.
-- •Keep topiramate tablets dry and away from moisture.Keep topiramate tablets and all medicines out of the reach of children.
+- •Keep topiramate tablets dry and away from moisture.
+
+Keep topiramate tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of topiramate tablets.
 
@@ -238,6 +242,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-Product of India
-
-July 2021
+February 2022
