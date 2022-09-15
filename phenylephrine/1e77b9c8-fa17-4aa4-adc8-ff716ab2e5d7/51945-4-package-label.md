@@ -20,7 +20,7 @@ PROTECT FROM LIGHT
 
 1 mL Single Dose Vial Rx only
 
-PACKAGE LABEL- PRINCIPAL DISPLAY – Phenylephrine 1 mL Vial Carton Label
+PACKAGE LABEL- PRINCIPAL DISPLAY – Phenylephrine 1 mL Vial Tray Label
 
 NDC 63323-751-01 751101
 
