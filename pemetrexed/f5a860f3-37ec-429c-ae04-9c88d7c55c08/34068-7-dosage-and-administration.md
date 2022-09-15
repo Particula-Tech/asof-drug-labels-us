@@ -74,7 +74,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactionsa
 
 ## 2.7 Preparation for Administration
 
-- ALIMTA is a cytotoxic drug.
+- ALIMTA is a hazardous drug.
   Follow applicable special handling and disposal procedures.1
 - Calculate the dose of ALIMTA and determine the number of vials needed.
 - Reconstitute ALIMTA to achieve a concentration of 25 mg/mL as follows:

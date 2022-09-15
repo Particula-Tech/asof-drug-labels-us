@@ -22,13 +22,13 @@ Instruct patients to immediately contact their healthcare provider for developme
 Increased Risk of Toxicity with Ibuprofen in Patients with Renal Impairment: Advise patients with mild to moderate renal impairment of the risks associated with concomitant ibuprofen use and instruct them to avoid use of all ibuprofen containing products for 2 days before, the day of, and 2 days following administration of ALIMTA [see Dosage and Administration (2.5), Warnings and Precautions (5.6), and Drug Interactions (7)].
 
 Embryo-Fetal Toxicity: Advise females of reproductive potential and males with female partners of reproductive potential of the potential risk to a fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with ALIMTA and for 6 months after the final dose.
+Advise females of reproductive potential to use effective contraception during treatment with ALIMTA and for 6 months after the last dose.
 Advise females to inform their prescriber of a known or suspected pregnancy.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with ALIMTA and for 3 months after the final dose [see Warnings and Precautions (5.7) and Use in Specific Populations (8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with ALIMTA and for 3 months after the last dose [see Warnings and Precautions (5.7) and Use in Specific Populations (8.3)].
 
-Lactation: Advise women not to breastfeed during treatment with ALIMTA and for 1 week after the final dose [see Use in Specific Populations (8.2)].
+Lactation: Advise women not to breastfeed during treatment with ALIMTA and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
-Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2004, 2019, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA Copyright © 2004, 2022, Eli Lilly and Company.
 All rights reserved.
 
-ALM-0004-USPI-20190130
+ALM-0005-USPI-20220831
