@@ -29,7 +29,7 @@ Doses of as much as 4800 mg daily have been given intravenously to adults.
 
 Alternatively, drug may be administered in the form of a single rapid infusion of the first dose followed by continuous intravenous infusion as follows:
 
-Table 2: Infusion Rates for the Administration of Clindamycin Injection by Single Rapid Infusion followed by Continuous Intravenous Infusion
+Table 2: Infusion Rates for the Administration of Clindamycin Injection by Single Rapid Infusion followed by Continuous Intravenous Infusion for the Maintenance of Serum Clindamycin Levels
 
 | To maintain serum clindamycin levels | Rapid infusion rate | Maintenance infusion rate |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ In cases of β-hemolytic streptococcal infections, treatment should be continued
 Pediatric Patients (less than 1 month):
 
 The recommended dosage is 15 to 20 mg/kg/day in 3 to 4 equal doses.
-See Table 3 regarding the dosing regiment for pediatric patients with post-menstrual age (PMA) less than or equal to 32 weeks or greater than 32 weeks to less than or equal to 40 weeks.
+See Table 3 regarding the dosing regimen for pediatric patients with post-menstrual age (PMA) less than or equal to 32 weeks or greater than 32 weeks to less than or equal to 40 weeks.
 
 Table 3: Dosing Regimens for Pediatric Patients with PMA less than or equal to 32 weeks, or greater than 32 weeks to less than or equal to 40 weeks
 

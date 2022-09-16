@@ -2,8 +2,9 @@
 
 The following serious adverse reactions to clindamycin are described below and elsewhere in the labeling:
 
-- •Clostridioides difficile Associated Diarrhea [see Warnings and Precautions (5.1)]
+- •Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.1)]
 - •Anaphylactic and Severe Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- •Nephrotoxicity [see Warnings and Precautions (5.3)]
 
 The following adverse reactions associated with the use of clindamycin were identified in clinical trials or postmarketing reports.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably, or to establish a causal relationship to drug exposure.
@@ -37,7 +38,7 @@ Jaundice and abnormalities in liver function tests have been observed during cli
 
 Renal
 
-Acute renal failure, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed.
+Acute kidney injury [see Warnings and Precautions (5.3)].
 
 Hematopoietic
 
