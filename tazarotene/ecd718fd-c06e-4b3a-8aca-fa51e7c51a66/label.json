@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215433"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-0805-31",
+    "0713-0805-99"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tazarotene",
+      "name": "TAZAROTENE"
+    }
+  ],
+  "setid": "ecd718fd-c06e-4b3a-8aca-fa51e7c51a66",
+  "source": "dailymed"
+}
