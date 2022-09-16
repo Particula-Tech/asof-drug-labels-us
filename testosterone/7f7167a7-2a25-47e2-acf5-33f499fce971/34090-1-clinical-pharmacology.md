@@ -25,17 +25,17 @@ KYZATREX™ is expected to produce testosterone concentrations that approximate 
 
 Table 5 summarizes the pharmacokinetic (PK) parameters for plasma total testosterone in patients completing at least 90 days of KYZATREX™ treatment administered daily.
 
-Table 5: NaF-EDTA Plasma Testosterone Cavg and Cmax at Day 90 Visit
+Table 5: NaF-EDTA Plasma Testosterone C avg and C max at Day 90 Visit
 
 | PK Parameter |  | Plasma (N=130) |
 | --- | --- | --- |
-| Cavg (ng/dL) | n | 127 |
+| C avg (ng/dL) | n | 127 |
 | Mean | 393.3 |  |
 | SD | 113.6 |  |
-| Cmax (ng/dL) | n | 130 |
+| C max (ng/dL) | n | 130 |
 | Mean | 852.4 |  |
 | SD | 311.3 |  |
-| PK = pharmacokinetic; Cavg = 24-hour average concentration; Cmax = maximum concentration |  |  |
+| PK = pharmacokinetic; C avg = 24-hour average concentration; C max = maximum concentration |  |  |
 
 Figure 2 summarizes the mean plasma total testosterone profile at the final PK visit.
 
@@ -44,8 +44,8 @@ Figure 2: Mean (±SEM) Concentration-Time Profile for NaF-EDTA Plasma Total Test
 | SEM = standard error of the mean Testosterone normal ranges: plasma = 222-800 ng/dL |
 | --- |
 
-When KYZATREX™ was given with breakfast containing 16%, 33%, and 45% fat, the exposure (AUC0-24 hr) of testosterone was increased by 37%, 87%, and 94%, respectively, compared to when given under fasted conditions.
-The primary efficacy and safety study was conducted under fed conditions regardless of the type of meals and the primary efficacy endpoint of achieving testosterone Cavg in normal testosterone range was met.
+When KYZATREX™ was given with breakfast containing 16%, 33%, and 45% fat, the exposure (AUC 0-24 hr) of testosterone was increased by 37%, 87%, and 94%, respectively, compared to when given under fasted conditions.
+The primary efficacy and safety study was conducted under fed conditions regardless of the type of meals and the primary efficacy endpoint of achieving testosterone C avg in normal testosterone range was met.
 
 There was no effect on testosterone PK when KYZATREX™ was administered with 20% alcohol along with a high-fat meal versus a high-fat meal alone.
 
