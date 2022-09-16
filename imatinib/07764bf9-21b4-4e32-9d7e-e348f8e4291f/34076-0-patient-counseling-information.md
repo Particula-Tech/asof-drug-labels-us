@@ -52,4 +52,4 @@ Distributed by:
 
 Sun Pharmaceutical Industries, Inc.
 
-Cranbury, NJ 08512 Revised: 07/2022
+Cranbury, NJ 08512 Revised: 09/2022

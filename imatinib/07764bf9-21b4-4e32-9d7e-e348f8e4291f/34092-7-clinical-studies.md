@@ -277,7 +277,7 @@ Table 23: Response in ASM
 | D816V Mutation | 4 | 1* (25) | 0 |
 | Total | 28 | 8 (29) | 9 (32) |
 
-Abbreviations: ASM, aggressive systemic mastocytosis; PDGFR, platelet-derived growth factor receptor. *Patient had concomitant chronic myeloid leukemia CML and aggressive systemic mastocytosis (ASM).
+Abbreviations: ASM, aggressive systemic mastocytosis; PDGFR, platelet-derived growth factor receptor. *Patient had concomitant chronic myeloid leukemia CML and ASM.
 Imatinib mesylate has not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM).
 Imatinib mesylate is therefore not recommended for use in patients with cutaneous mastocytosis, indolent systemic mastocytosis (smoldering SM or isolated bone marrow mastocytosis), SM with an associated clonal hematological non-mast cell lineage disease, mast cell leukemia, mast cell sarcoma or extracutaneous mastocytoma.
 Patients that harbor the D816V mutation of c-Kit are not sensitive to imatinib mesylate and should not receive imatinib mesylate.

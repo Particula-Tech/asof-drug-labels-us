@@ -47,10 +47,9 @@ Considering the combined concentration of imatinib and active metabolite, a brea
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Pregnancy Testing
+Human postmarketing reports and animal studies have shown imatinib mesylate to be harmful to the developing fetus [see Use in Specific Populations (8.1)].
 
-Human postmarketing reports and animal studies have shown imatinib mesylate to be harmful to the developing fetus.
-Test pregnancy status in females with reproductive potential prior to the initiation of treatment with imatinib mesylate.
+Pregnancy Testing Test pregnancy status in females with reproductive potential prior to the initiation of treatment with imatinib mesylate.
 
 Contraception
 
