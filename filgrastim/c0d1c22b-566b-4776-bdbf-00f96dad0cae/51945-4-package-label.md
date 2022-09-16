@@ -1,4 +1,4 @@
-# 0.5 mL Carton
+# 300 mcg Carton
 
 Zarxio®
 
@@ -35,9 +35,9 @@ Rx only
 
 SANDOZ
 
-a Novartis company
+A Novartis Division
 
-# 0.8 mL Carton
+# 480 mcg Carton
 
 Zarxio®
 
@@ -74,4 +74,4 @@ Rx only
 
 SANDOZ
 
-a Novartis company
+A Novartis Division
