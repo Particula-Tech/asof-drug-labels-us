@@ -10,7 +10,7 @@ Timolol Equivalent (timolol maleate 3.4 mg/mL equivalent to 2.5 mg/mL timolol)
 
 Sterile
 
-FOR TOPICAL OPTHALMIC USE Rx only
+FOR TOPICAL OPHTHALMIC USE Rx only
 
 5 mL
 
