@@ -92,7 +92,7 @@ Patients who did not have a 12-week assessment for any reason were considered a 
 
 The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 15.
 
-Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline PathogenA few patients had more than one pathogen at baseline.,Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
+Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
 | Voriconazole | Amphotericin B --> Fluconazole |  |
 | --- | --- | --- |
@@ -170,8 +170,7 @@ No patients with rare mold were enrolled.
 A successful global response was defined as resolution or improvement in clinical signs and symptoms and at least 50% resolution of radiological lesions attributed to IA.
 The overall rate of successful global response at 6 weeks in the MITT population is presented in Table 18 below.
 
-Table 18: Global ResponseGlobal response rate was defined as the number of subjects with a successful response (complete or partial) as a percentage of all subjects (including subjects with an indeterminate or missing response) at 6 weeks in the MITT population. in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)The Modified Intent-to-Treat (MITT) population was defined as all subjects who received at least 1 dose of study drug and who were diagnosed with proven or probable IA as defined by the modified EORTC/MSG criteria.
-Population
+Table 18: Global ResponseGlobal response rate was defined as the number of subjects with a successful response (complete or partial) as a percentage of all subjects (including subjects with an indeterminate or missing response) at 6 weeks in the MITT population.The Modified Intent-to-Treat (MITT) population was defined as all subjects who received at least 1 dose of study drug and who were diagnosed with proven or probable IA as defined by the modified EORTC/MSG criteria. in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)2 Population
 
 | Ages 2–<12 years N=5 | Ages 12–<18 years N=9 | Overall N=14 |  |
 | --- | --- | --- | --- |

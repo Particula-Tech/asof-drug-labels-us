@@ -100,7 +100,7 @@ The mechanism underlying these dermatologic adverse reactions remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with VFEND.
 Erythema multiforme has also been reported during treatment with VFEND [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
-VFEND has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
+VFEND has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 
 Less Common Adverse Reactions
 
@@ -178,7 +178,7 @@ Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinic
 | Alkaline Phosphatase | >3.0× ULN | 29/181 (16.0) | 38/173 (22.0) |
 | Creatinine | >1.3× ULN | 39/182 (21.4) | 102/177 (57.6) |
 | Potassium | <0.9× LLN | 30/181 (16.6) | 70/178 (39.3) |
-| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT= alanine aminotransferase ULN = upper limit of normal LLN = lower limit of normal |  |  |  |
+| n = number of patients with a clinically significant abnormality while on study therapy N = total number of patients with at least one observation of the given lab test while on study therapy AST = Aspartate aminotransferase; ALT = alanine aminotransferase ULN = upper limit of normal LLN = lower limit of normal |  |  |  |
 
 Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
@@ -311,6 +311,10 @@ Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 The following adverse reactions have been identified during post-approval use of VFEND.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Dermatological Reactions
+
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Adults
 
