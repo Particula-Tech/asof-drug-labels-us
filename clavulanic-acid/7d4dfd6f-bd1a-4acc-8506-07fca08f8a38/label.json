@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA050755"
+  ],
+  "inn": "clavulanic-acid",
+  "labeler": "USAntibiotics, LLC",
+  "package_ndcs": [
+    "81964-203-51",
+    "81964-203-54",
+    "81964-203-69"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "AMOXICILLIN AND CLAVULANATE POTASSIUM"
+    }
+  ],
+  "setid": "7d4dfd6f-bd1a-4acc-8506-07fca08f8a38",
+  "source": "dailymed"
+}
