@@ -9,7 +9,7 @@ Abuse
 Chlordiazepoxide is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
-Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
+Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties In controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 Even taking benzodiazepines as prescribed may put patients at risk for abuse and misuse of their medications.
 Abuse and misuse may lead to addiction.
 
@@ -48,3 +48,21 @@ Tolerance
 Tolerance to chlordiazepoxide may develop from continued therapy.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
 Tolerance to the therapeutic effects of chlordiazepoxide may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
+
+Management of Overdose Deaths may occur from overdosage with this class of drugs.
+Multiple drug ingestion (including alcohol) is common in deliberate tricyclic antidepressant overdose.
+As the management is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
+Signs and symptoms of toxicity develop rapidly after tricyclic antidepressant overdose; therefore, hospital monitoring is required as soon as possible.
+Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma.
+In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
+Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur.
+In severe overdosage cases, patients may develop respiratory depression and coma.
+Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (see WARNINGS: Abuse, Misuse, and Addiction).
+Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
+In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway management.
+Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.
+The risk of withdrawal seizures with flumazenil use may be increased in patients with epilepsy.
+Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus).
+If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage.
+See the flumazenil injection Prescribing Information.
+Consider contacting a poison center (1-800-222-1222) or medical toxicologist for additional overdosage management recommendations.
