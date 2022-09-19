@@ -24,7 +24,8 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 8).
+The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 8.
+The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 8).
 
 Table 8.
 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
@@ -83,7 +84,7 @@ In vivo, MPAG is converted to MPA during enterohepatic recirculation.
 The following metabolites of the 2-hydroxyethyl-morpholino moiety are also recovered in the urine following oral administration of MMF to healthy subjects: N-(2-carboxymethyl)-morpholine, N-(2-hydroxyethyl)-morpholine, and the N-oxide of N-(2-hydroxyethyl)-morpholine.
 
 Due to the enterohepatic recirculation of MPAG/MPA, secondary peaks in the plasma MPA concentration-time profile are usually observed 6 to 12 hours post-dose.
-Bile sequestrants, such as cholestyramine, reduce MPA AUC by interfering with this enterohepatic recirculation of the drug [see Overdose (10) and Drug Interaction Studies below].
+Bile sequestrants, such as cholestyramine, reduce MPA AUC by interfering with this enterohepatic recirculation of the drug [see Overdosage (10) and Drug Interaction Studies below].
 
 Excretion
 
@@ -140,7 +141,7 @@ Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF C
 |  | Dose | Tmax (h) | Cmax (mcg/mL) | AUC(0-96h) (mcg•h/mL) |
 | Healthy Volunteers GFR greater than 80 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 25.3 (±7.99) | 45.0 (±22.6) |
 | Mild Renal Impairment GFR 50 to 80 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 26.0 (±3.82) | 59.9 (±12.9) |
-| Moderate Renal Impairment GFR 25 to 49 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (0.27) | 19.0 (±13.2) | 52.9 (±25.5) |
+| Moderate Renal Impairment GFR 25 to 49 mL/min/1.73 m2 (n=6) | 1 g | 0.75 (±0.27) | 19.0 (±13.2) | 52.9 (±25.5) |
 | Severe Renal Impairment GFR less than 25mL/min/1.73m2 (n=7) | 1 g | 1.00(±0.41) | 16.3(±10.8) | 78.6(±46.4) |
 | Pharmacokinetic Parameters for Hepatic Impairment |  |  |  |  |
 |  | Dose | Tmax (h) | Cmax (mcg/mL) | AUC(0-48h) (mcg•h/mL) |
@@ -158,11 +159,11 @@ Table 10.Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time
 | --- | --- | --- | --- | --- |
 | 1 to less than 2 yr (6)d 1 to less than 6 yr (17) 6 to less than 12 yr (16) 12 to 18 yr (21) | Early (Day 7) | 3.03 (4.70) 1.63 (2.85) 0.940 (0.546) 1.16 (0.830) | 10.3 (5.80) 13.2 (7.16) 13.1 (6.30) 11.7 (10.7) | 22.5 (6.66) 27.4 (9.54) 33.2 (12.1) 26.3 (9.14)b |
 | 1 to less than 2 yr (4)d 1 to less than 6 yr (15) 6 to less than 12 yr (14) 12 to 18 yr (17) | Late (Month 3) | 0.725 (0.276) 0.989 (0.511) 1.21 (0.532) 0.978 (0.484) | 23.8 (13.4) 22.7 (10.1) 27.8 (14.3) 17.9 (9.57) | 47.4 (14.7) 49.7 (18.2) 61.9 (19.6) 53.6 (20.3)c |
-| 1 to less than 2 yr (4)d 1 to less than 6 yr (12) 6 to less than 12 yr (11) 12 to 18 yr (14) | Late (Month 9) | 0.604 (0.208) 0.869 (0.479) 1.12 (0.462) 1.12 (0.462) | 25.6 (4.25) 30.4 (9.16) 29.2 (12.6) 18.1 (7.29) | 55.8 (11.6) 61.0 (10.7) 66.8 (21.2) 56.7 (14.0) |
+| 1 to less than 2 yr (4)d 1 to less than 6 yr (12) 6 to less than 12 yr (11) 12 to 18 yr (14) | Late (Month 9) | 0.604 (0.208) 0.869 (0.479) 1.12 (0.462) 1.09 (0.518) | 25.6 (4.25) 30.4 (9.16) 29.2 (12.6) 18.1 (7.29) | 55.8 (11.6) 61.0 (10.7) 66.8 (21.2) 56.7 (14.0) |
 
-aadjusted to a dose of 600 mg/m2 bn=20 cn=16 da subset of 1 to less than 6 yr The mycophenolate mofetil oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
+aadjusted to a dose of 600 mg/m2 bn=20 cn=16 da subset of 1 to less than 6 yr The mycophenolate mofetil for oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
 There was wide variability in the data.
-As observed in adults, early post-transplant MPA AUC values were approximately 45% to 53% lower than those observed in the later post-transplant period (>3 months).
+As observed in adults, early post-transplant MPA AUC values were approximately 45% to 53% lower than those observed in the later post-transplant period (greater than 3 months).
 MPA AUC values were similar in the early and late post-transplant period across the 1 to 18-year age range.
 
 Male and Female Patients
@@ -200,7 +201,7 @@ This decrease is consistent with interruption of enterohepatic recirculation whi
 Cyclosporine
 
 Cyclosporine (Sandimmune®) pharmacokinetics (at doses of 275 to 415 mg/day) were unaffected by single and multiple doses of 1.5 g twice daily of MMF in 10 stable kidney transplant patients.
-The mean (±SD) AUC (0-12h) and Cmax of cyclosporine after 14 days of multiple doses of MMF were 3290 (±822) ng•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) ng•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of MMF.
+The mean (±SD) AUC (0-12h) and Cmax of cyclosporine after 14 days of multiple doses of MMF were 3290 (±822) mcg•h/mL and 753 (±161) ng/mL, respectively, compared to 3245 (±1088) mcg•h/mL and 700 (±246) ng/mL, respectively, 1 week before administration of MMF.
 
 Cyclosporine A interferes with MPA enterohepatic recirculation.
 In kidney transplant patients, mean MPA exposure (AUC (0-12h)) was approximately 30-50% greater when MMF was administered without cyclosporine compared with when MMF was coadministered with cyclosporine.
@@ -217,7 +218,7 @@ Telmisartan changes MPA’s elimination by enhancing PPAR gamma (peroxisome prol
 Ganciclovir
 
 Following single-dose administration to 12 stable kidney transplant patients, no pharmacokinetic interaction was observed between MMF (1.5 g) and intravenous ganciclovir (5 mg/kg).
-Mean (±SD) ganciclovir AUC and Cmax (n=10) were 54.3 (±19.0) mcg•h/mL and 11.5 (±1.8) mcg/mL, respectively, after coadministration of the two drugs, compared to 51.0 (±17.0) mcg•h/mL and 10.6 (±2.0) mcg/mL, respectively, after administration of intravenous ganciclovir alone.
+Mean (±SD) ganciclovir AUC and Cmax (n=10) were 54.3 (±19.0) mcg•h/mL and 11.5 (±1.8) mcg•h/mL, respectively, after coadministration of the two drugs, compared to 51.0 (±17.0) mcg•h/mL and 10.6 (±2.0) mcg/mL, respectively, after administration of intravenous ganciclovir alone.
 The mean (±SD) AUC and Cmax of MPA (n=12) after coadministration were 80.9 (±21.6) mcg•h/mL and 27.8 (±13.9) mcg/mL, respectively, compared to values of 80.3 (±16.4) mcg•h/mL and 30.9 (±11.2) mcg/mL, respectively, after administration of MMF alone.
 
 Oral Contraceptives

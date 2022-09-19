@@ -2,7 +2,8 @@
 
 ## 7.1 Effect of Other Drugs on Mycophenolate Mofetil
 
-Table 5.Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA) Exposure
+Table 5.
+Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA) Exposure
 
 | Antacids with Magnesium or Aluminum Hydroxide |  |
 | --- | --- |
