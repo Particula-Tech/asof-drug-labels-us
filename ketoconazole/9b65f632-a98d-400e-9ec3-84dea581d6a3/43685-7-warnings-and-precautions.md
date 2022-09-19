@@ -2,12 +2,11 @@
 
 ## 5.1 Contact Sensitization
 
-Ketoconazole Foam, 2% may result in contact sensitization, including photoallergenicity.
-[see Adverse Reactions (6.2)]
+Ketoconazole foam, 2% may result in contact sensitization, including photoallergenicity [see Adverse Reactions (6.2)].
 
 ## 5.2 Flammable Contents
 
-The contents of Ketoconazole Foam, 2% include alcohol and propane/butane, which are flammable.
+The contents of ketoconazole foam, 2% include alcohol and propane/butane, which are flammable.
 Avoid fire, flame and/or smoking during and immediately following application.
 Do not puncture and/or incinerate the containers.
 Do not expose containers to heat and/or store at temperatures above 120°F (49°C).

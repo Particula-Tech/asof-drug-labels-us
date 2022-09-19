@@ -37,7 +37,7 @@ Risk Summary
 
 There is no information available on the presence of ketoconazole in human milk, or the effects on the breastfed child, or the effects on milk production after topical application of ketoconazole foam, 2% to women who are breastfeeding.
 In animal studies ketoconazole was found in milk following oral administration.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ketoconazole Foam, 2% and any potential adverse effects on the breastfed infant from Ketoconazole Foam, 2% or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for ketoconazole foam, 2% and any potential adverse effects on the breastfed infant from ketoconazole foam, 2% or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 

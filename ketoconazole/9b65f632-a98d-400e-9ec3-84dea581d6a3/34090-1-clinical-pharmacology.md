@@ -6,7 +6,7 @@ The mechanism of action of ketoconazole in the treatment of seborrheic dermatiti
 
 ## 12.2 Pharmacodynamics
 
-The pharmacodynamics of Ketoconazole Foam, 2% has not been established.
+The pharmacodynamics of ketoconazole foam, 2% has not been established.
 
 ## 12.3 Pharmacokinetics
 

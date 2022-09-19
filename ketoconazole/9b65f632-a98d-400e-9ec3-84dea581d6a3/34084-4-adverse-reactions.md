@@ -11,7 +11,7 @@ Adverse reactions occurring in > 1% of subjects are presented in Table 1.
 
 Table 1: Adverse Reactions Reported by >1% Subjects in Clinical Trials
 
-| Adverse Reactions | Ketoconazole Foam, 2%N=672n (%) | Vehicle FoamN=497n (%) |
+| Adverse Reactions | Ketoconazole Foam, 2%N = 672n (%) | Vehicle FoamN = 497n (%) |
 | --- | --- | --- |
 | Subjects with an Adverse Reaction | 188 (28%) | 122 (25%) |
 | Application site burning | 67 (10%) | 49 (10%) |
@@ -22,7 +22,7 @@ Application site reactions that were reported in <1% of subjects were dryness, e
 ## 6.2 Dermal Safety Studies
 
 In a photoallergenicity study, 9 of 53 subjects (17%) had reactions during the challenge period at both the irradiated and non-irradiated sites treated with ketoconazole foam, 2%.
-Ketoconazole Foam, 2% may cause contact sensitization.
+Ketoconazole foam, 2% may cause contact sensitization.
 
 ## 6.3 Postmarketing Experience
 

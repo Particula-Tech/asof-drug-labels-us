@@ -12,7 +12,7 @@ NDC 45802-532-33
 100 g aluminum can
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature].
+[See USP Controlled Room Temperature.]
 
 Do not store under refrigerated conditions.
 

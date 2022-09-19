@@ -1,8 +1,8 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - CARTON
 
-Rx Only
-
 45802-532-32
+
+Rx Only
 
 Ketoconazole Foam, 2%
 

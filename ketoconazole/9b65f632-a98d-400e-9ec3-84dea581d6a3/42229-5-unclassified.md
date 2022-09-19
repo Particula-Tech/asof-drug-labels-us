@@ -1,17 +1,17 @@
 Made in Israel
 
-Manufactured By Perrigo
+Manufactured By Padagis
 
 Yeruham, Israel
 
 Distributed By
 
-Perrigo®
+Padagis
 
 Allegan, MI 49010
 
-www.perrigo.com
+www.padagis.com
 
-Rev 08-18
+Rev 09-21
 
-5K200RCJ3
+5K200 RC J5
