@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216617"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-205-24",
+    "31722-205-31"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "1c8fef8f-2ff5-4bea-bccb-90c2c8544c21",
+  "source": "dailymed"
+}
