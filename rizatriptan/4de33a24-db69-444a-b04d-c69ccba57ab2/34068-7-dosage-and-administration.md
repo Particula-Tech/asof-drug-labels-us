@@ -21,7 +21,7 @@ The efficacy and safety of treatment with more than one dose of rizatriptan benz
 ## 2.3 Administration of Rizatriptan Benzoate Orally Disintegrating Tablets
 
 For rizatriptan benzoate orally disintegrating tablets, administration with liquid is not necessary.
-Orally disintegrating tablets are packaged in a blister within an outer aluminum pouch and patients should not remove the blister from the outer pouch until just prior to dosing.
+Orally disintegrating tablets are packaged in a blister within a carton and patients should not remove the blister from the carton until just prior to dosing.
 The blister pack should then be peeled open with dry hands and the orally disintegrating tablet placed on the tongue, where it will dissolve and be swallowed with the saliva.
 
 ## 2.4 Dosage Adjustment for Patients on Propranolol

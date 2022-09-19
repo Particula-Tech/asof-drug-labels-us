@@ -64,18 +64,18 @@ Race: Pharmacokinetic data revealed no significant differences between African A
 
 [See also Drug Interactions (7)].
 
-Monoamine oxidase inhibitors: Rizatriptan is principally metabolized via monoamine oxidase, ‘A’ subtype (MAO-A).
+Monoamine oxidase inhibitors:Rizatriptan is principally metabolized via monoamine oxidase, ‘A’ subtype (MAO-A).
 Plasma concentrations of rizatriptan may be increased by drugs that are selective MAO-A inhibitors (e.g., moclobemide) or nonselective MAO inhibitors [type A and B] (e.g., isocarboxazid, phenelzine, tranylcypromine, and pargyline).
 In a drug interaction study, when rizatriptan benzoate 10 mg was administered to subjects (n=12) receiving concomitant therapy with the selective, reversible MAO-A inhibitor, moclobemide 150 mg t.i.d., there were mean increases in rizatriptan AUC and Cmax of 119% and 41% respectively; and the AUC of the active N-monodesmethyl metabolite of rizatriptan was increased more than 400%.
 The interaction would be expected to be greater with irreversible MAO inhibitors.
 No pharmacokinetic interaction is anticipated in patients receiving selective MAO-B inhibitors [see Contraindications (4) and Drug Interactions (7.5)].
 
-Propranolol: In a study of concurrent administration of propranolol 240 mg/day and a single dose of rizatriptan 10 mg in healthy adult subjects (n=11), mean plasma AUC for rizatriptan was increased by 70% during propranolol administration, and a four-fold increase was observed in one subject.
+Propranolol:In a study of concurrent administration of propranolol 240 mg/day and a single dose of rizatriptan 10 mg in healthy adult subjects (n=11), mean plasma AUC for rizatriptan was increased by 70% during propranolol administration, and a four-fold increase was observed in one subject.
 The AUC of the active N-monodesmethyl metabolite of rizatriptan was not affected by propranolol [see Dosage and Administration (2.4) and Drug Interactions (7.1)].
 
-Nadolol/Metoprolol: In a drug interactions study, effects of multiple doses of nadolol 80 mg or metoprolol 100 mg every 12 hours on the pharmacokinetics of a single dose of 10 mg rizatriptan were evaluated in healthy subjects (n=12).
+Nadolol/Metoprolol:In a drug interactions study, effects of multiple doses of nadolol 80 mg or metoprolol 100 mg every 12 hours on the pharmacokinetics of a single dose of 10 mg rizatriptan were evaluated in healthy subjects (n=12).
 No pharmacokinetic interactions were observed.
 
-Paroxetine: In a study of the interaction between the selective serotonin reuptake inhibitor (SSRI) paroxetine 20 mg/day for two weeks and a single dose of rizatriptan benzoate 10 mg in healthy subjects (n=12), neither the plasma concentrations of rizatriptan nor its safety profile were affected by paroxetine [see Warnings and Precautions (5.7), Drug Interactions (7.4), and Patient Counseling Information (17)].
+Paroxetine:In a study of the interaction between the selective serotonin reuptake inhibitor (SSRI) paroxetine 20 mg/day for two weeks and a single dose of rizatriptan benzoate 10 mg in healthy subjects (n=12), neither the plasma concentrations of rizatriptan nor its safety profile were affected by paroxetine [see Warnings and Precautions (5.7), Drug Interactions (7.4), and Patient Counseling Information (17)].
 
-Oral contraceptives: In a study of concurrent administration of an oral contraceptive during 6 days of administration of rizatriptan benzoate (10 to 30 mg/day) in healthy female volunteers (n=18), rizatriptan did not affect plasma concentrations of ethinyl estradiol or norethindrone.
+Oral contraceptives:In a study of concurrent administration of an oral contraceptive during 6 days of administration of rizatriptan benzoate (10 to 30 mg/day) in healthy female volunteers (n=18), rizatriptan did not affect plasma concentrations of ethinyl estradiol or norethindrone.
