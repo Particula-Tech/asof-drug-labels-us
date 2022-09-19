@@ -10,7 +10,7 @@ Solution
 
 0.03%
 
-Rx only
+Rx Only
 
 FOR TOPICAL APPLICATION
 
