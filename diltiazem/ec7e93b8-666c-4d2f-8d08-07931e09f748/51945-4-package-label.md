@@ -10,22 +10,26 @@ Rx only 100 Capsules
 
 *Each capsule contains diltiazem hydrochloride, USP 60 mg (equivalent to 55.1 mg as diltiazem).
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM6060A9
+RMX6060A
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/25/NKD/89
 
 # PRINCIPAL DISPLAY PANEL – 90 mg
 
@@ -39,22 +43,26 @@ Rx only 100 Capsules
 
 *Each capsule contains diltiazem hydrochloride, USP 90 mg (equivalent to 82.7 mg as diltiazem).
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM6090A9
+RMX6090A
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/25/NKD/89
 
 # PRINCIPAL DISPLAY PANEL – 120 mg
 
@@ -68,19 +76,23 @@ Rx only 100 Capsules
 
 *Each capsule contains diltiazem hydrochloride, USP 120 mg (equivalent to 110.3 mg as diltiazem).
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
-Keep container tightly closed.
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM6120A9
+RMX6120A
+
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
+Keep container tightly closed.
+
+Code No.: MH/DRUGS/25/NKD/89

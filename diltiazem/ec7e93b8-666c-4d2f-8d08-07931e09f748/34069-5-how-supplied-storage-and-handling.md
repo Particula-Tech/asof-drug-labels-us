@@ -25,6 +25,10 @@ Store at 20º to 25ºC (68º to 77ºF).
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 10/2020 DILER:R7
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
+
+75077831
+
+Revised: 11/2020 MX:DILER:R2
