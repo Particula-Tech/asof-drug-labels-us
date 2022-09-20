@@ -19,4 +19,4 @@ Etonogestrel/Ethinyl Estradiol Vaginal Ring is contraindicated in females who ar
 - Pregnancy, because there is no reason to use CHCs during pregnancy [see Use in Specific Populations (8.1)]
 - Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive [see Warnings and Precautions (5.14)]
 - Hypersensitivity reactions, including anaphylaxis and angioedema, to any of the components of Etonogestrel/Ethinyl Estradiol Vaginal Ring [see Warnings and Precautions (5.6) and Adverse Reactions (6)]
-- Use of Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations [see Warnings and Precautions (5.4)]
+- Use of Hepatitis C drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir, due to potential for ALT elevations [see Warnings and Precautions (5.4) and Drug Interactions (7)]

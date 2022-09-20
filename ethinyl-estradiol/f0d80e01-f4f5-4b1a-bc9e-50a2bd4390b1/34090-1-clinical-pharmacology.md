@@ -30,11 +30,11 @@ The pharmacokinetic parameters of etonogestrel and ethinyl estradiol were determ
 
 Table 3: Mean (SD) Pharmacokinetic Parameters of Etonogestrel/Ethinyl Estradiol Vaginal Ring (n=16)
 
-| Hormone | Cmax pg/mL | Tmax hr | t1/2 hr | CL L/hr |
+| Hormone | Cmax pg/mL | Tmax hr | t½ hr | CL L/hr |
 | --- | --- | --- | --- | --- |
 | etonogestrel | 1716 (445) | 200.3 (69.6) | 29.3 (6.1) | 3.4 (0.8) |
 | ethinyl estradiol | 34.7 (17.5) | 59.3 (67.5) | 44.7 (28.8) | 34.8 (11.6) |
-| Cmax- maximum serum drug concentration Tmax- time at which maximum serum drug concentration occurs t1/2 - elimination half-life, calculated by 0.693/Kelim CL - apparent clearance |  |  |  |  |
+| Cmax- maximum serum drug concentration Tmax- time at which maximum serum drug concentration occurs t½ - elimination half-life, calculated by 0.693/Kelim CL - apparent clearance |  |  |  |  |
 
 Prolonged use of Etonogestrel/Ethinyl Estradiol Vaginal Ring: The mean serum etonogestrel concentration at the end of the fourth week of continuous use of Etonogestrel/Ethinyl Estradiol Vaginal Ring was 1272 ± 311 pg/mL compared to a mean concentration range of 1578 ± 408 to 1374 ± 328 pg/mL at the end of weeks one to three.
 The mean serum ethinyl estradiol concentration at the end of the fourth week of continuous use of Etonogestrel/Ethinyl Estradiol Vaginal Ring was 16.8 ± 4.6 pg/mL compared to a mean concentration range of 19.1 ± 4.5 to 17.6 ± 4.3 pg/mL at the end of weeks one to three.
