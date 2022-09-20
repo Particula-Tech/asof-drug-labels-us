@@ -16,4 +16,6 @@ Abiraterone acetate tablets are available in 250 mg uncoated tablets and 500 mg 
 - 500 mg film-coated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, povidone, silicified microcrystalline cellulose, and sodium lauryl sulfate.
   The coating, Opadry® II Purple, contains iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
 
-USP dissolution test pending.
+Abiraterone acetate tablets USP, 250 mg meets USP Dissolution Test 3.
+
+Abiraterone acetate tablets USP, 500 mg meets USP Dissolution Test 2.
