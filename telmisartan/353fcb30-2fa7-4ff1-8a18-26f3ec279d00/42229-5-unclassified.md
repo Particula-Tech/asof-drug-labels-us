@@ -78,12 +78,10 @@ How to open the child resistant blister: 1.Tear (You may also use scissors to te
 
 3.Push (Push the tablet through the foil)
 
-How to open the blister:
-
-1.Tear (You may also use scissors to tear the blister apart)
+How to open the blister: 1.Tear (You may also use scissors to tear the blister apart)
 
 2.Push (Push the tablet through the foil)
 
 The brands listed are trademarks or registered trademarks of their respective owners.
 
-Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: November 2018
+Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: September 2022
