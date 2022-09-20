@@ -5,13 +5,13 @@ To minimize the potential for gastrointestinal intolerance, amoxicillin and clav
 
 ## 2.1 Adults
 
-The usual adult dose is one 500 mg tablet of amoxicillin and clavulanate potassium every 12 hours or one 250 mg tablet of amoxicillin and clavulanate potassium every 8 hours.
+The usual adult dose is one 500-mg tablet of amoxicillin and clavulanate potassium every 12 hours or one 250 mg tablet of amoxicillin and clavulanate potassium every 8 hours.
 For more severe infections and infections of the respiratory tract, the dose should be one 875 mg tablet of amoxicillin and clavulanate potassium every 12 hours or one 500 mg tablet of amoxicillin and clavulanate potassium every 8 hours.
 Adults who have difficulty swallowing may be given the 125 mg/5 mL or 250 mg/5 mL suspension in place of the 500 mg tablet.
-The 200 mg/5 mL suspension or the 400 mg/5 mL suspension may be used in place of the 875 mg tablet.
+The 200 mg/5 mL suspension or the 400 mg/5 mL suspension may be used in place of the 875-mg tablet.
 
 Two 250 mg tablets of amoxicillin and clavulanate potassium should not be substituted for one 500 mg tablet of amoxicillin and clavulanate potassium.
-Since both the 250 mg and 500 mg tablets of amoxicillin and clavulanate potassium contain the same amount of clavulanic acid (125 mg, as the potassium salt), two 250 mg tablets are not equivalent to one 500 mg tablet of amoxicillin and clavulanate potassium.
+Since both the 250 mg and 500 mg tablets of amoxicillin and clavulanate potassium contain the same amount of clavulanic acid (125 mg, as the potassium salt), two 250-mg tablets are not equivalent to one 500 mg tablet of amoxicillin and clavulanate potassium.
 
 The 250 mg tablet of amoxicillin and clavulanate potassium and the 250 mg chewable tablet should not be substituted for each other, as they are not interchangeable.
 The 250 mg tablet of amoxicillin and clavulanate potassium and the 250 mg chewable tablet do not contain the same amount of clavulanic acid (as the potassium salt).
@@ -54,7 +54,7 @@ The 250 mg tablet of amoxicillin and clavulanate potassium should not be used un
 ## 2.3 Patients with Renal Impairment
 
 Patients with impaired renal function do not generally require a reduction in dose unless the impairment is severe.
-Renal impairment patients with a glomerular filtration rate of <30 mL/min should not receive the 875-mg dose.
+Renal impairment patients with a glomerular filtration rate of <30 mL/min should not receive the 875 mg dose.
 Patients with a glomerular filtration rate of 10 to 30 mL/min should receive 500 mg or 250 mg every 12 hours, depending on the severity of the infection.
 Patients with a glomerular filtration rate less than 10 mL/min should receive 500 mg or 250 mg every 24 hours, depending on severity of the infection.
 

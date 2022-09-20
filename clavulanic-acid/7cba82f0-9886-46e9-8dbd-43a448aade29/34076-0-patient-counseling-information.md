@@ -26,6 +26,6 @@ Patients should be aware that amoxicillin and clavulanate potassium contains a p
 
 CLINITEST® is a registered trademark of Miles, Inc.
 
-46276381
-
 Manufactured by Sandoz GmbH for Sandoz Inc., Princeton, NJ 08540
+
+46306968
