@@ -39,7 +39,8 @@ How the dose, route, and duration of corticosteroid administration affect the ri
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective Prescribing Information for VZIG and IG) If chickenpox develops, treatment with antiviral agents may be considered.
+(See the respective Prescribing Information for VZIG and IG.)
+If chickenpox develops, treatment with antiviral agents may be considered.
 
 Corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculous infections of the respiratory tract; untreated local or systemic fungal or bacterial infections; systemic viral or parasitic infections; or ocular herpes simplex because of the potential for worsening of these infections.
 

@@ -1,10 +1,8 @@
-# PRINCIPAL DISPLAY PANEL – 137 mcg/50 mcg per Spray
+# PRINCIPAL DISPLAY PANEL - 137 mcg/50 mcg per Spray
 
 NDC 0037-0245-23
 
-Dymista® (azelastine hydrochloride and fluticasone propionate) Nasal Spray
-
-137 mcg / 50 mcg per spray
+Dymista® (azelastine hydrochloride and fluticasone propionate) Nasal Spray 137 mcg / 50 mcg per spray
 
 120 Metered Sprays
 
@@ -22,21 +20,29 @@ Contents: An aqueous suspension containing azelastine hydrochloride, fluticasone
 
 Dosage: See enclosed full Prescribing Information.
 
-Storage: Store upright, with dust cap in place, at controlled room temperature 20° to 25°C (68° to 77°F).
+Storage: Store upright, with dust cap in place, at controlled room temperature 20°C to 25°C (68°F to 77°F).
 Protect from light.
 Do not store in the freezer or refrigerator.
 
 Keep away from children.
 
+FOR NASAL USE ONLY
+
 Read PATIENT INSTRUCTIONS FOR USE for additional information on how to use the product.
 
 Dosing Instructions
 
-CLEAR YOUR NOSE Clear your nostrils by gently blowing your nose.
+CLEAR YOUR NOSE
 
-LOOK AT YOUR TOES Tilt your head down to keep the medicine from going into your throat.
+Clear your nostrils by gently blowing your nose.
 
-SPRAY AND SNIFF GENTLY Shake the bottle gently before each use.
+LOOK AT YOUR TOES
+
+Tilt your head down to keep the medicine from going into your throat.
+
+SPRAY AND SNIFF GENTLY
+
+Shake the bottle gently before each use.
 
 Spray a fine mist, once per nostril.
 
@@ -56,13 +62,13 @@ Repriming (only if you have not used Dymista for 14 or more days): 1 spray or un
 
 FOR NASAL USE ONLY
 
-Manufactured by: Cipla Ltd., Goa, India, M.L.
-No. 546
+Manufactured by: Cipla Ltd., Indore SEZ, Pithampur, India M.L.
+No. 28/2/2010
 
 For: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-© 2021 Viatris Inc.
+© 2022 Viatris Inc.
 
-UC-023A6-07
+UC-023A6-03N
 
 U.S. Patents 8,163,723; 8,168,620; 9,259,428; 9,901,585

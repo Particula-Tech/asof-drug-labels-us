@@ -30,11 +30,11 @@ Adverse Reactions with ≥ 2% Incidence and More Frequently than Placebo in Plac
 |  | 1 spray per nostril twice daily |  |  |  |
 | --- | --- | --- | --- | --- |
 | DYMISTA(N = 853)Safety population N = 853, intent-to-treat population N = 848 | Azelastine Hydrochloride Nasal SprayNot commercially marketed (N = 851) | Fluticasone Propionate Nasal Spray(N = 846) | Vehicle Placebo(N = 861) |  |
-| Dysgeusia | 30 (4%) | 44 (5%) | 4 (1%) | 2 (<1%) |
+| Dysgeusia | 30 (4%) | 44 (5%) | 4 (1%) | 2 (< 1%) |
 | Headache | 18 (2%) | 20 (2%) | 20 (2%) | 10 (1%) |
 | Epistaxis | 16 (2%) | 14 (2%) | 14 (2%) | 15 (2%) |
 
-In the above trials, somnolence was reported in <1% of patients treated with DYMISTA (6 of 853) or vehicle placebo (1 of 861) [see Warnings and Precautions (5.1)].
+In the above trials, somnolence was reported in < 1% of patients treated with DYMISTA (6 of 853) or vehicle placebo (1 of 861) [see Warnings and Precautions (5.1)].
 
 ### Pediatric Patients 6-11 Years of Age
 
@@ -48,11 +48,11 @@ Overall, 1% of patients in both the DYMISTA and placebo groups discontinued due 
 Table 2 contains adverse reactions reported with frequencies greater than or equal to 2% and more frequently than placebo in patients treated with DYMISTA in the seasonal allergic rhinitis controlled clinical trial.
 
 Table 2.
-Adverse Reactions with ≥2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Children 6 to 11 Years of Age with Seasonal Allergic Rhinitis
+Adverse Reactions with ≥ 2% Incidence and More Frequently than Placebo in Placebo-Controlled Trials of 2 Weeks Duration with DYMISTA in Children 6 to 11 Years of Age with Seasonal Allergic Rhinitis
 
 |  | 1 spray per nostril twice daily |  |
 | --- | --- | --- |
-| DYMISTA (N = 152)Safety population N = 152, intent-to-treat population N = 152 | Vehicle Placebo (N = 152) |  |
+| DYMISTA(N = 152)Safety population N = 152, intent-to-treat population N = 152 | Vehicle Placebo(N = 152) |  |
 | Dysgeusia | 6 (4%) | 0 (0%) |
 | Epistaxis | 6 (4%) | 4 (3%) |
 
@@ -65,8 +65,8 @@ In the 12-month open-label, active-controlled clinical trial, 404 Asian patients
 In the 12-month, open-label, active-controlled, long-term safety trial in adults and adolescents 12 years of age and older, 404 patients with perennial allergic rhinitis or vasomotor rhinitis were treated with DYMISTA 1 spray per nostril twice daily and 207 patients were treated with fluticasone propionate nasal spray, 2 sprays per nostril once daily.
 Overall, adverse reactions were 47% in the DYMISTA treatment group and 44% in the fluticasone propionate nasal spray group.
 The most frequently reported adverse reactions (≥ 2%) with DYMISTA were headache, pyrexia, cough, nasal congestion, rhinitis, dysgeusia, viral infection, upper respiratory tract infection, pharyngitis, pain, diarrhea, and epistaxis.
-In the DYMISTA treatment group, 7 patients (2%) had mild epistaxis and 1 patient (<1%) had moderate epistaxis.
-In the fluticasone propionate nasal spray treatment group 1 patient (<1%) had mild epistaxis.
+In the DYMISTA treatment group, 7 patients (2%) had mild epistaxis and 1 patient (< 1%) had moderate epistaxis.
+In the fluticasone propionate nasal spray treatment group 1 patient (< 1%) had mild epistaxis.
 No patients had reports of severe epistaxis.
 Focused nasal examinations were performed and no nasal ulcerations or septal perforations were observed.
 Eleven of 404 patients (3%) treated with DYMISTA and 6 of 207 patients (3%) treated with fluticasone propionate nasal spray discontinued from the trial due to adverse reactions.
@@ -75,9 +75,9 @@ Eleven of 404 patients (3%) treated with DYMISTA and 6 of 207 patients (3%) trea
 
 In the 3-month open label active-controlled clinical trial, 264 patients (60% male, 40% female) (80% white, 19% black, 4% Asian and 2% other) with allergic rhinitis were treated with DYMISTA, 1 spray per nostril twice daily.
 
-In the 3-month, open label, active-controlled, safety trial in pediatric patients 6-11 years of age 264 patients (128 patients ≥6 to <9 years of age, and 136 patients ≥9 to <12 years of age) with allergic rhinitis (based on the Investigator’s assessment) were treated with DYMISTA, 1 spray per nostril twice daily and 89 patients (44 patients ≥6 to <9 years of age, and 45 patients ≥9 to <12 years of age) were treated with fluticasone propionate nasal spray, 1 spray per nostril twice daily.
+In the 3-month, open label, active-controlled, safety trial in pediatric patients 6-11 years of age 264 patients (128 patients ≥ 6 to < 9 years of age, and 136 patients ≥ 9 to < 12 years of age) with allergic rhinitis (based on the Investigator’s assessment) were treated with DYMISTA, 1 spray per nostril twice daily and 89 patients (44 patients ≥ 6 to < 9 years of age, and 45 patients ≥ 9 to < 12 years of age) were treated with fluticasone propionate nasal spray, 1 spray per nostril twice daily.
 Overall, adverse reactions were 40% in the DYMISTA treatment group and 36% in the fluticasone propionate nasal spray group.
-The most frequently reported adverse reactions (≥2%) with DYMISTA were epistaxis, headache, oropharyngeal pain, vomiting, upper abdominal pain, cough, pyrexia, otitis media, upper respiratory tract infection, diarrhea, nausea, otitis externa, and urticaria.
+The most frequently reported adverse reactions (≥ 2%) with DYMISTA were epistaxis, headache, oropharyngeal pain, vomiting, upper abdominal pain, cough, pyrexia, otitis media, upper respiratory tract infection, diarrhea, nausea, otitis externa, and urticaria.
 In the DYMISTA treatment group 23 patients (9%) had mild epistaxis and 3 patients (1%) had moderate epistaxis.
 In the fluticasone propionate nasal spray treatment group 8 patients (9%) had mild epistaxis.
 No patients had reports of severe epistaxis.

@@ -1,8 +1,6 @@
 # 14 CLINICAL STUDIES
 
-Adults and Adolescents 12 Years of Age and Older
-
-The efficacy and safety of DYMISTA in adults and adolescents 12 years of age and older with seasonal allergic rhinitis was evaluated in 3 randomized, multicenter, double-blind, placebo-controlled clinical trials in 853 patients.
+Adults and Adolescents 12 Years of Age and Older: The efficacy and safety of DYMISTA in adults and adolescents 12 years of age and older with seasonal allergic rhinitis was evaluated in 3 randomized, multicenter, double-blind, placebo-controlled clinical trials in 853 patients.
 The population of the trials was 12 to 78 years of age (64% female, 36% male; 80% white, 16% black, 2% Asian, 1% other).
 
 Patients were randomized to one of four treatment groups: one spray per nostril twice daily of DYMISTA, azelastine hydrochloride nasal spray, fluticasone propionate nasal spray, and vehicle placebo.
@@ -19,7 +17,7 @@ The differences between the monotherapies and placebo also were statistically si
 Representative results from one of the trials are shown below (Table 3).
 
 Table 3.
-Mean Change from Baseline in Reflective Total Nasal Symptom Scores over 2 WeeksSum of AM and PM rTNSS for each day (Maximum Score =24) and averaged over the 14 day treatment period in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
+Mean Change from Baseline in Reflective Total Nasal Symptom Scores over 2 WeeksSum of AM and PM rTNSS for each day (Maximum Score = 24) and averaged over the 14 day treatment period in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
 
 |  |  | Baseline | Change from Baseline | Difference From Dymista Nasal Spray |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -27,14 +25,14 @@ Mean Change from Baseline in Reflective Total Nasal Symptom Scores over 2 WeeksS
 | DYMISTA | 207 | 18.3 | -5.6 | -- | -- | -- |
 | Azelastine HCl Nasal SprayNot commercially marketed | 208 | 18.3 | -4.3 | -1.4 | (-2.2, -0.5) | 0.002 |
 | Fluticasone Propionate Nasal Spray | 207 | 18.2 | -4.7 | -1.0 | (-1.8, -0.2) | 0.022 |
-| Placebo | 209 | 18.6 | -2.9 | -2.7 | (-3.5, -1.9) | <0.001 |
+| Placebo | 209 | 18.6 | -2.9 | -2.7 | (-3.5, -1.9) | < 0.001 |
 | LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data. |  |  |  |  |  |  |
 
 In these trials, DYMISTA also demonstrated statistically significant, greater decreases in iTNSS as compared to placebo, as did the azelastine hydrochloride and fluticasone propionate comparators.
 Representative results from one of the trials are shown below (Table 4).
 
 Table 4.
-Mean Change from Baseline in Instantaneous Total Nasal Symptom Scores over 2 WeeksSum of AM and PM rTNSS for each day (Maximum Score =24) and averaged over the 14 day treatment period in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
+Mean Change from Baseline in Instantaneous Total Nasal Symptom Scores over 2 WeeksSum of AM and PM rTNSS for each day (Maximum Score = 24) and averaged over the 14 day treatment period in Adults and Children ≥ 12 years with Seasonal Allergic Rhinitis
 
 |  |  | Baseline | Change from Baseline | Difference From Placebo |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,7 +40,7 @@ Mean Change from Baseline in Instantaneous Total Nasal Symptom Scores over 2 Wee
 | DYMISTA | 207 | 17.2 | -5.6 | -- | -- | -- |  |  |  |  |  |  |  |
 | Azelastine HCl Nasal SprayNot commercially marketed | 208 | 16.8 | -4.3 | -1.4 | (-2.2, -0.5) | 0.002 |  |  |  |  |  |  |  |
 | Fluticasone Propionate Nasal Spray | 207 | 16.8 | -4.7 | -1.0 | (-1.8, -0.2) | 0.022 |  |  |  |  |  |  |  |
-| Placebo | 209 | 17.3 | -2.9 | -2.7 | (-3.5, -1.9) | <0.001 |  |  |  |  |  |  |  |
+| Placebo | 209 | 17.3 | -2.9 | -2.7 | (-3.5, -1.9) | < 0.001 |  |  |  |  |  |  |  |
 | LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Onset of action, defined as the first timepoint at which DYMISTA was statistically superior to placebo in the mean change from baseline in iTNSS and which was sustained thereafter, was assessed in each of the three trials.
@@ -54,9 +52,7 @@ A change from baseline of at least 0.5 points is considered a clinically meaning
 In each of these trials, DYMISTA demonstrated a statistically significant greater decrease from baseline in the overall RQLQ than placebo, which ranged from -0.55 (95% CI -0.72, -0.39) to -0.80 (95% CI -1.05, -0.55).
 In these trials, the treatment differences between DYMISTA and the monotherapies were less than the minimum important difference of 0.5 points.
 
-Pediatric Patients 6-11 Years of Age
-
-The efficacy and safety of DYMISTA was evaluated in one randomized, multi-center, double-blind, placebo-controlled trial in 304 children 6 to 11 years of age with seasonal allergic rhinitis.
+Pediatric Patients 6-11 Years of Age: The efficacy and safety of DYMISTA was evaluated in one randomized, multi-center, double-blind, placebo-controlled trial in 304 children 6 to 11 years of age with seasonal allergic rhinitis.
 Patients were randomized 1:1 to receive either one spray per nostril twice daily of DYMISTA or placebo (vehicle control) for 14 days.
 The design of this trial was similar to that of the adult trials.
 
@@ -65,9 +61,8 @@ DYMISTA was not statistically significantly different than placebo, but the resu
 
 Table 5: Mean Change from Baseline in Reflective Total Nasal Symptom Scores over 2 weeks in Children age 6 to 11 years
 
-| Treatment | Baseline | LS Mean Change from baseline | LS Mean Difference (95% CI) | P-value |
-| --- | --- | --- | --- | --- |
-| DYMISTA N = 152 | 18.4 | -3.7 | -0.8 (-1.8, 0.2) | 0.099 |
-| Placebo N = 152 | 18.0 | -2.9 |  |  |
-
-CI = confidence interval LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data
+| Treatment | Baseline | LS Mean Change from baseline | LS Mean Difference (95% CI) | P-value |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| DYMISTA N = 152 | 18.4 | -3.7 | -0.8 (-1.8, 0.2) | 0.099 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Placebo N = 152 | 18.0 | -2.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CI = confidence interval LS Mean, 95% CI, and p-value are obtained from the repeated-measures analysis of covariance model using observed data |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |

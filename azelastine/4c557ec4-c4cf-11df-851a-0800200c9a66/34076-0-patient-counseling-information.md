@@ -27,11 +27,13 @@ Potential Drug Interactions: Advise patients that coadministration of DYMISTA an
 
 U.S. Patents 8,163,723; 8,168,620; 9,259,428; and 9,901,585
 
-Manufactured by: Cipla Ltd. Goa, India M.L.
-No. 546
+Manufactured by: Cipla Ltd. Indore SEZ, Pithampur, India M.L.
+No. 28/2/2010
 
 Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
-© 2021 Viatris Inc. DYMISTA and ASTELIN are registered trademarks of Meda Pharmaceuticals Inc., a Viatris Company.
+© 2022 Viatris Inc.
 
-Revised: 4/2021 IN-023A6-07
+DYMISTA and ASTELIN are registered trademarks of Meda Pharmaceuticals Inc., a Viatris Company.
+
+Revised: 8/2022 IN-023A6-04N

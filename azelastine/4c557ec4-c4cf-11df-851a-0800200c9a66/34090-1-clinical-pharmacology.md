@@ -67,7 +67,7 @@ Approximately 75% of an oral dose of radiolabeled azelastine hydrochloride was e
 Following intravenous dosing, fluticasone propionate showed polyexponential kinetics and had a terminal elimination half-life of approximately 7.8 hours.
 Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-### Metabolism
+#### Metabolism
 
 Azelastine hydrochloride is oxidatively metabolized to the principal active metabolite, desmethylazelastine, by the cytochrome P450 enzyme system.
 The specific P450 isoforms responsible for the biotransformation of azelastine have not been identified.
@@ -87,7 +87,7 @@ The effect of race has not been evaluated.
 
 #### Patients with Renal Impairment
 
-Based on oral, single-dose studies of azelastine hydrochloride, renal impairment (creatinine clearance <50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to healthy subjects.
+Based on oral, single-dose studies of azelastine hydrochloride, renal impairment (creatinine clearance < 50 mL/min) resulted in a 70-75% higher Cmax and AUC compared to healthy subjects.
 Time to maximum concentration was unchanged.
 
 ### Drug Interaction Studies
@@ -114,7 +114,7 @@ No significant pharmacokinetic interaction was observed with the coadministratio
 
 Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor, ritonavir, is not recommended based upon a multiple-dose, crossover drug interaction study in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (<10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range, 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•hr/mL (range, 4.2 to 18.8 pg•hr/mL).
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (< 10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range, 10.8 to 14.1 pg/mL) and AUC(0-τ) averaged 8.43 pg•hr/mL (range, 4.2 to 18.8 pg•hr/mL).
 Fluticasone propionate Cmax and AUC(0-τ) increased to 318 pg/mL (range, 110 to 648 pg/mL) and 3,102.6 pg•hr/mL (range, 1,207.1 to 5,662.0 pg•hr/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol area under the plasma concentration versus time curve (AUC).
 

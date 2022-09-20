@@ -9,8 +9,6 @@ The bottle should be discarded after 120 sprays have been used.
 
 DYMISTA should not be used after the expiration date “EXP” printed on the bottle label and carton.
 
-Storage
-
-Store upright with the dust cap in place at controlled room temperature 20°C to 25°C (68°F to 77°F).
+Storage: Store upright with the dust cap in place at controlled room temperature 20°C to 25°C (68°F to 77°F).
 [See USP Controlled Temperature] Protect from light.
 Do not store in the freezer or refrigerator.
