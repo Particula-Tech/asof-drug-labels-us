@@ -12,9 +12,9 @@ The following adverse reactions were reported in postmarketing experience and ar
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Latanoprost Ophthalmic Solution was studied in three multicenter, randomized, controlled clinical trials.
-Patients received 50 mcg/mL Latanoprost Ophthalmic Solution once daily or 5 mg/mL active-comparator (timolol) twice daily.
-The patient population studied had a mean age of 65+10 years.
+Latanoprost ophthalmic solution was studied in three multicenter, randomized, controlled clinical trials.
+Patients received 50 mcg/mL latanoprost ophthalmic solution once daily or 5 mg/mL active-comparator (timolol) twice daily.
+The patient population studied had a mean age of 65±10 years.
 Seven percent of patients withdrew before the 6-month endpoint.
 
 Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% of Patients Receiving Latanoprost
@@ -31,7 +31,7 @@ Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% 
 | Burning | 7 | 8 |
 | Increased pigmentation of the iris | 7 | 0 |
 
-Less than 1% of the patients treated with Latanoprost Ophthalmic Solution required discontinuation of therapy because of intolerance to conjunctival hyperemia.
+Less than 1% of the patients treated with latanoprost ophthalmic solution required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
 Table 2: Adverse Reactions That Were Reported in 1–5% of Patients Receiving Latanoprost
 
@@ -55,9 +55,9 @@ Table 2: Adverse Reactions That Were Reported in 1–5% of Patients Receiving La
 
 ## 6.2 Postmarketing Experience
 
-The following reactions have been identified during postmarketing use of Latanoprost Ophthalmic Solution in clinical practice.
+The following reactions have been identified during postmarketing use of latanoprost ophthalmic solution in clinical practice.
 Because they are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to Latanoprost Ophthalmic Solution, or a combination of these factors, include:
+The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to latanoprost ophthalmic solution, or a combination of these factors, include:
 
 Nervous System Disorders: Dizziness; headache; toxic epidermal necrolysis
 

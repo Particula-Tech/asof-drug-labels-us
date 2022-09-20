@@ -2,7 +2,7 @@
 
 ## 5.1 Pigmentation
 
-Latanoprost Ophthalmic Solution has been reported to cause changes to pigmented tissues.
+Latanoprost ophthalmic solution has been reported to cause changes to pigmented tissues.
 The most frequently reported changes have been increased pigmentation of the iris, periorbital tissue (eyelid), and eyelashes.
 Pigmentation is expected to increase as long as latanoprost is administered.
 
@@ -14,27 +14,27 @@ Beyond 5 years the effects of increased pigmentation are not known [see Clinical
 Iris color change may not be noticeable for several months to years.
 Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery of the iris and the entire iris or parts of the iris become more brownish.
 Neither nevi nor freckles of the iris appear to be affected by treatment.
-While treatment with Latanoprost Ophthalmic Solution can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly.
+While treatment with latanoprost ophthalmic solution can be continued in patients who develop noticeably increased iris pigmentation, these patients should be examined regularly.
 
 ## 5.2 Eyelash Changes
 
-Latanoprost Ophthalmic Solution may gradually change eyelashes and vellus hair in the treated eye; these changes include increased length, thickness, pigmentation, the number of lashes or hairs, and misdirected growth of eyelashes.
+Latanoprost ophthalmic solution may gradually change eyelashes and vellus hair in the treated eye; these changes include increased length, thickness, pigmentation, the number of lashes or hairs, and misdirected growth of eyelashes.
 Eyelash changes are usually reversible upon discontinuation of treatment.
 
 ## 5.3 Intraocular Inflammation
 
-Latanoprost Ophthalmic Solution should be used with caution in patients with a history of intraocular inflammation (iritis/uveitis) and should generally not be used in patients with active intraocular inflammation because inflammation may be exacerbated.
+Latanoprost ophthalmic solution should be used with caution in patients with a history of intraocular inflammation (iritis/uveitis) and should generally not be used in patients with active intraocular inflammation because inflammation may be exacerbated.
 
 ## 5.4 Macular Edema
 
-Macular edema, including cystoid macular edema, has been reported during treatment with Latanoprost Ophthalmic Solution.
-Latanoprost Ophthalmic Solution should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
+Macular edema, including cystoid macular edema, has been reported during treatment with latanoprost ophthalmic solution.
+Latanoprost ophthalmic solution should be used with caution in aphakic patients, in pseudophakic patients with a torn posterior lens capsule, or in patients with known risk factors for macular edema.
 
 ## 5.5 Herpetic Keratitis
 
-Reactivation of herpes simplex keratitis has been reported during treatment with Latanoprost Ophthalmic Solution.
-Latanoprost Ophthalmic Solution should be used with caution in patients with a history of herpetic keratitis.
-Latanoprost Ophthalmic Solution should be avoided in cases of active herpes simplex keratitis because inflammation may be exacerbated.
+Reactivation of herpes simplex keratitis has been reported during treatment with latanoprost ophthalmic solution.
+Latanoprost ophthalmic solution should be used with caution in patients with a history of herpetic keratitis.
+Latanoprost ophthalmic solution should be avoided in cases of active herpes simplex keratitis because inflammation may be exacerbated.
 
 ## 5.6 Bacterial Keratitis
 
@@ -43,5 +43,5 @@ These containers had been inadvertently contaminated by patients who, in most ca
 
 ## 5.7 Contact Lens Use
 
-Latanoprost Ophthalmic Solution contains benzalkonium chloride, which may be absorbed by contact lenses.
-Contact lenses should be removed prior to the administration of Latanoprost Ophthalmic Solution, and may be reinserted 15 minutes after administration.
+Latanoprost ophthalmic solution contains benzalkonium chloride, which may be absorbed by contact lenses.
+Contact lenses should be removed prior to the administration of latanoprost ophthalmic solution, and may be reinserted 15 minutes after administration.

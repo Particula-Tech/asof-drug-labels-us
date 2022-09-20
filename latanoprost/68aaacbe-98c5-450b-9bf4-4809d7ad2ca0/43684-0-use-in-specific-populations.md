@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary There are no adequate and well-controlled studies of Latanoprost Ophthalmic Solution administration in pregnant women to inform drug-associated risks.
+Risk Summary There are no adequate and well-controlled studies of latanoprost ophthalmic solution administration in pregnant women to inform drug-associated risks.
 
 In animal reproduction studies, intravenous (IV) administration of latanoprost to pregnant rabbits and rats throughout the period of organogenesis produced malformations, embryofetal lethality and spontaneous abortion at clinically relevant doses [see Data].
 
@@ -32,9 +32,9 @@ At 100 mcg/kg/day (324 times the maximum RHOD), maternal deaths and pup mortalit
 ## 8.2 Lactation
 
 Risk Summary It is not known whether this drug or its metabolites are excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Latanoprost Ophthalmic Solution is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when latanoprost ophthalmic solution is administered to a nursing woman.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Latanoprost Ophthalmic Solution and any potential adverse effects on the breastfed child from Latanoprost Ophthalmic Solution.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for latanoprost ophthalmic solution and any potential adverse effects on the breastfed child from latanoprost ophthalmic solution.
 
 ## 8.4 Pediatric Use
 

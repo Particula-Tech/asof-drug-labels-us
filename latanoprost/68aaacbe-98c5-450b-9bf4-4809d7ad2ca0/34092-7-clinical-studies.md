@@ -3,11 +3,11 @@
 ## 14.1 Elevated Baseline IOP
 
 Patients with mean baseline IOP of 24 - 25 mmHg who were treated for 6 months in multi-center, randomized, controlled trials demonstrated 6 - 8 mmHg reductions in IOP.
-This IOP reduction with Latanoprost Ophthalmic Solution 0.005% dosed once daily was equivalent to the effect of timolol 0.5% dosed twice daily.
+This IOP reduction with latanoprost ophthalmic solution 0.005% dosed once daily was equivalent to the effect of timolol 0.5% dosed twice daily.
 
 ## 14.2 Progression of Increased Iris Pigmentation
 
-A 3-year open-label, prospective safety study with a 2-year extension phase was conducted to evaluate the progression of increased iris pigmentation with continuous use of Latanoprost Ophthalmic Solution once-daily as adjunctive therapy in 519 patients with open-angle glaucoma.
+A 3-year open-label, prospective safety study with a 2-year extension phase was conducted to evaluate the progression of increased iris pigmentation with continuous use of latanoprost ophthalmic solution once-daily as adjunctive therapy in 519 patients with open-angle glaucoma.
 The analysis was based on observed-cases population of the 380 patients who continued in the extension phase.
 
 Results showed that the onset of noticeable increased iris pigmentation occurred within the first year of treatment for the majority of the patients who developed noticeable increased iris pigmentation.

@@ -1,9 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Potential for Pigmentation Advise patients about the potential for increased brown pigmentation of the iris, which may be permanent.
-Inform patients about the possibility of eyelid skin darkening, which may be reversible after discontinuation of Latanoprost Ophthalmic Solution [see Warnings and Precautions (5.1)].
+Inform patients about the possibility of eyelid skin darkening, which may be reversible after discontinuation of latanoprost ophthalmic solution [see Warnings and Precautions (5.1)].
 
-Potential for Eyelash Changes Inform patients of the possibility of eyelash and vellus hair changes in the treated eye during treatment with Latanoprost Ophthalmic Solution.
+Potential for Eyelash Changes Inform patients of the possibility of eyelash and vellus hair changes in the treated eye during treatment with latanoprost ophthalmic solution.
 These changes may result in a disparity between eyes in length, thickness, pigmentation, number of eyelashes or vellus hairs, and/or direction of eyelash growth.
 Eyelash changes are usually reversible upon discontinuation of treatment.
 
@@ -12,9 +12,9 @@ Serious damage to the eye and subsequent loss of vision may result from using co
 
 When to Seek Physician Advice Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of the multiple-dose container.
 
-Contact Lens Use Advise patients that Latanoprost Ophthalmic Solution contains benzalkonium chloride, which may be absorbed by contact lenses.
+Contact Lens Use Advise patients that latanoprost ophthalmic solution contains benzalkonium chloride, which may be absorbed by contact lenses.
 Contact lenses should be removed prior to administration of the solution.
-Lenses may be reinserted 15 minutes following administration of Latanoprost Ophthalmic Solution.
+Lenses may be reinserted 15 minutes following administration of latanoprost ophthalmic solution.
 
 Use with Other Ophthalmic Drugs
 
@@ -22,4 +22,4 @@ Advise patients that if more than one topical ophthalmic drug is being used, the
 
 If a Dose is Missed Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
-Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA © 2021 Bausch & Lomb Incorporated or its affiliates 9144711 (folded) 9144811 (flat)
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA © 2022 Bausch & Lomb Incorporated or its affiliates 9144712 (folded) 9144812 (flat)
