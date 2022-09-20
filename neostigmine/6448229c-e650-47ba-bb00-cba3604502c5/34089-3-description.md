@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-Neostigmine Methylsulfate Injection, a cholinesterase inhibitor, has an empirical formula of C 13H 22N 2O 6S, a molecular weight of 334.39 g/mol and the following structural formula:
+Neostigmine Methylsulfate Injection, USP, a cholinesterase inhibitor, has an empirical formula of C 13H 22N 2O 6S, a molecular weight of 334.39 g/mol and the following structural formula:
 
 Neostigmine Methylsulfate Injection is formulated with neostigmine methylsulfate, a white crystalline powder, chemically designated as (m-hydroxyphenyl) trimethylammonium methylsulfate dimethylcarbamate.
-Neostigmine Methylsulfate Injection is available in two dosage strengths; 0.5 mg/mL, and 1 mg/mL in 10 mL multiple dose amber glass vials.
+Neostigmine Methylsulfate Injection, USP is available in two dosage strengths; 0.5 mg/mL, and 1 mg/mL in 10 mL multiple dose amber glass vials.
 
 The composition per mL is as follows:
 

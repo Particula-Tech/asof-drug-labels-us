@@ -5,7 +5,9 @@
   "inn": "neostigmine",
   "labeler": "Fresenius Kabi USA, LLC",
   "package_ndcs": [
+    "63323-413-01",
     "63323-413-10",
+    "63323-415-01",
     "63323-415-10"
   ],
   "products": [
