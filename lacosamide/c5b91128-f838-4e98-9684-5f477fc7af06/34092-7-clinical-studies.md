@@ -21,7 +21,7 @@ Lacosamide 300 mg/day also met the pre-specified criteria for efficacy.
 
 ## 14.2 Adjunctive Therapy in Patients with Partial-Onset Seizures
 
-The efficacy of lacosamide as adjunctive therapy in partial-onset seizures was established in three 12-week, randomized, double-blind,placebo-controlled, multicenter trials in adult patients (Study 2, Study 3, and Study 4).
+The efficacy of lacosamide as adjunctive therapy in partial-onset seizures was established in three 12-week, randomized, double-blind, placebo-controlled, multicenter trials in adult patients (Study 2, Study 3, and Study 4).
 Enrolled patientshadpartial-onsetseizureswithorwithoutsecondarygeneralization, and werenot adequately controlled with 1 to 3 concomitantAEDs.During an 8-week baseline period, patients were required to have an average of ≥4 partial-onset seizures per 28 days with no seizure-freeperiod exceeding 21 days.
 In these 3 trials, patients had a mean duration of epilepsy of 24 years and a median baseline seizure frequency ranging from 10 to 17 per28days.84%ofpatientswere taking 2 to 3 concomitant AEDs with or without concurrent vagal nerve stimulation.
 Study 2 compared doses of lacosamide 200, 400, and 600mg/daywithplacebo.Study 3 compared doses of lacosamide 400 and 600 mg/day with placebo.

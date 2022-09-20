@@ -7,7 +7,7 @@ The chemical structure is:
 Lacosamide, USP is a white to light yellow powder.
 It is freely soluble in methanol, soluble in anhydrous ethanol, sparingly soluble in water, slightly soluble in acetonitrile practically insoluble in heptane.
 
-## 11.1 Lacosamide Tablets, USP
+## 11.1 Lacosamide Tablets
 
 Lacosamide tablets, USP for oral administration contain lacosamide and the following inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, hypromellose, lecithin, low substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
 In addition to this the 50 mg tablets contain FD&C Blue #2/indigo carmine aluminum lake, iron oxide black and iron oxide red.
