@@ -80,6 +80,8 @@ Topiramate tablets can harm your unborn baby.
 - Pregnancy Registry: If you become pregnant while taking topiramate tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of topiramate tablets and other antiepileptic drugs during pregnancy.
+- Topiramate tablets may decrease the density of bones when used over a long period.
+- Topiramate tablets may slow height increase and weight gain in children and adolescents when used over a long period.
 
 What are topiramate tablets?
 
@@ -228,4 +230,4 @@ In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg t
 The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2021
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2022

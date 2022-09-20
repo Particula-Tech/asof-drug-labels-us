@@ -8,10 +8,12 @@ The following serious adverse reactions are discussed in more detail in other se
 - Metabolic Acidosis [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.10)]
-- Kidney Stones [see Warnings and Precautions (5.11)]
-- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.12)]
+- Decrease of Bone Mineral Density [see Warnings and Precautions (5.9)]
+- Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
+- Serious Skin Reactions [see Warnings and Precautions (5.11)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid [VPA] Use) [see Warnings and Precautions (5.12)]
+- Kidney Stones [see Warnings and Precautions (5.13)]
+- Hypothermia with Concomitant Valproic Acid (VPA) Use [see Warnings and Precautions (5.14)]
 
 The data described in the following sections were obtained using topiramate tablets.
 
@@ -351,7 +353,7 @@ Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Tre
 | Taste perversion | 2 | 2 | 6 |
 | Vision Disorders |  |  |  |
 | Conjunctivitis | 4 | 7 | 4 |
-| a 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 10 and 11) b Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events. c Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003 |  |  |  |
+| a 35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults (Tables 11 and 12) b Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events. c Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003 |  |  |  |
 
 In the double-blind placebo-controlled studies, adverse reactions led to discontinuation of treatment in 8% of placebo patients compared with 6% of topiramate-treated patients.
 Adverse reactions associated with discontinuing therapy that occurred in more than one topiramate-treated patient were fatigue (1%), headache (1%), and somnolence (1%).
@@ -373,7 +375,7 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.10)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.12)].
 Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4 % topiramate versus 0.1 % placebo).
 
 Pediatric Patients
@@ -389,12 +391,12 @@ Topiramate is not indicated for the preventive treatment of migraine in pediatri
 The following adverse reactions have been identified during post approval use of topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.10)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.12)]
+Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.9)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.11)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy Hematological Disorders: decrease of the International Normalized Ratio (INR) or prothrombin time when given concomitantly with vitamin K antagonist anticoagulant medications such as warfarin.
