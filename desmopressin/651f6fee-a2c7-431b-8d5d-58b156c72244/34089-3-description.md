@@ -1,21 +1,22 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-DDAVP® Injection (desmopressin acetate) 4 mcg/mL is a synthetic analogue of the natural pituitary hormone 8-arginine vasopressin (ADH), an antidiuretic hormone affecting renal water conservation.
+DDAVP Injection (desmopressin acetate) is a synthetic vasopressin analog for intravenous or subcutaneous use.
 It is chemically defined as follows:
 
 Mol.
 Wt.
 1183.34
 
-Empirical Formula: C46H64N14O12S2•C2H4O2•3H2O
+Empirical Formula: C46H64N14O12S2∙C2H4O2∙3H2O
 
-1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate
+1-(3-mercaptopropionic acid)-8-D-arginine vasopressin monoacetate (salt) trihydrate.
 
-DDAVP Injection 4 mcg/mL is provided as a sterile, aqueous solution for injection.
+DDAVP solution for injection is a sterile solution in a 1 mL single-dose ampule: Each mL contains 4 mcg of desmopressin acetate which is equivalent to 3.6 mcg of desmopressin free base.
+The inactive ingredients are sodium chloride, hydrochloric acid and water for injection.
+Sodium chloride is used to adjust tonicity.
+Hydrochloric acid is used to adjust pH.
 
-| Each mL provides: | Desmopressin acetate | 4 mcg |
-| --- | --- | --- |
-|  | Sodium chloride | 9 mg |
-|  | Hydrochloric acid to adjust pH to 4 |  |
-
-The 10 mL vial contains chlorobutanol as a preservative (5 mg/mL).
+DDAVP solution for injection is a sterile solution in a 10 mL multiple-dose vial: Each mL contains 4 mcg of desmopressin acetate which is equivalent to 3.6 mcg of desmopressin free base.
+The inactive ingredients are sodium chloride, chlorobutanol (5 mg per mL), hydrochloric acid and water for injection.
+Sodium chloride is used to adjust tonicity.
+Hydrochloric acid is used to adjust pH.
