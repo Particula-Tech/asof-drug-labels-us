@@ -19,4 +19,4 @@ Avoid Overheating
 
 If feasible and appropriate, advise the patient to avoid a hot environment and excessive physical activity since atropine can inhibit sweating which can lead to overheating and heat injury.
 
-Manufactured by: Meridian Medical Technologies®, Inc. Columbia, MD 21046 A Pfizer Company
+Manufactured by: Meridian Medical Technologies®, LLC St. Louis, MO 63146

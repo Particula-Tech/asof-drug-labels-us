@@ -69,8 +69,6 @@ Infants may become drowsy or pass out, with muscle floppiness instead of muscle 
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-ATROPEN® is a registered trademark of Meridian Medical Technologies®, Inc. Columbia, MD 21046 A Pfizer Company
+ATROPEN® is a registered trademark of Meridian Medical Technologies®, LLC
 
-1-800-438-1985
-
-Revised: 11/2020
+St. Louis, MO 63146 1-833-739-0945 Revised: 09/2022

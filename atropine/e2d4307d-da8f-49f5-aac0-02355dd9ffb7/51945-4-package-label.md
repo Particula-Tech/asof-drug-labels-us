@@ -2,7 +2,7 @@ Principal Display Panel - 0.25 mg Carton Label
 
 NDC 11704-107-01
 
-MERIDIAN MEDICAL TECHNOLOGIES®
+MERIDIAN MEDICAL TECHNOLOGIES™
 
 ATROPEN® (atropine injection) 0.25 mg
 
@@ -18,7 +18,7 @@ Principal Display Panel - 0.5 mg Carton Label
 
 NDC 11704-104-01
 
-MERIDIAN MEDICAL TECHNOLOGIES®
+MERIDIAN MEDICAL TECHNOLOGIES™
 
 ATROPEN® (atropine injection) 0.5 mg
 
@@ -34,7 +34,7 @@ Principal Display Panel - 1 mg Carton Label
 
 NDC 11704-105-01
 
-MERIDIAN MEDICAL TECHNOLOGIES®
+MERIDIAN MEDICAL TECHNOLOGIES™
 
 ATROPEN® (atropine injection) 1 mg
 
@@ -50,7 +50,7 @@ Principal Display Panel - 2 mg Carton Label
 
 NDC 11704-106-01
 
-MERIDIAN MEDICAL TECHNOLOGIES®
+MERIDIAN MEDICAL TECHNOLOGIES™
 
 ATROPEN® (atropine injection) 2 mg
 
@@ -66,11 +66,11 @@ Principal Display Panel - 2 mg Auto-Injector Label
 
 NDC 11704-101-01
 
-MERIDIAN MEDICAL TECHNOLOGIES®
+MERIDIAN MEDICAL TECHNOLOGIES™
 
-Columbia, MD 21046, U.S.A.
+St. Louis, MO 63146
 
-A Pfizer Company
+1-833-739-0945
 
 Store at 20°C-25°C (68°F-77°F); excursions permitted to 15°C-30°C (59°F-86°F).
 
@@ -91,6 +91,6 @@ Each auto-injector delivers an injection of 1.67 mg/0.7 mL atropine (equivalent 
 
 Rx Only
 
-0002113
+0002208
 
 NDC 11704-101-01
