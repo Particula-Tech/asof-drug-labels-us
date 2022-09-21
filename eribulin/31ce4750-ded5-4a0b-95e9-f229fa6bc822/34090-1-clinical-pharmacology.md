@@ -40,7 +40,7 @@ Unchanged eribulin accounted for approximately 88% and 91% of total eribulin in 
 
 Specific Populations
 
-Age, Sex, and Race/Ethnicity: Based on a population pharmacokinetic analysis with data collected from 340 patients, sex, race, and age do not have a clinically meaningful effect on the exposure of eribulin.
+Age, Sex, and Race/Ethnicity: Based on a population pharmacokinetic analysis, no clinically meaningful differences in the pharmacokinetics of eribulin were observed based on age, sex, or race.
 
 Hepatic Impairment
 

@@ -49,7 +49,11 @@ Based on animal data, HALAVEN may result in damage to male reproductive tissues 
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of HALAVEN in pediatric patients below the age of 18 years have not been established.
+The safety and effectiveness of HALAVEN in pediatric patients have not been established.
+
+The safety and effectiveness of HALAVEN alone or in combination with irinotecan in pediatric patients were assessed but not established in three open-label studies (NCT02171260, NCT03441360, and NCT03245450) in 77 pediatric patients aged 2 to <17 years with relapsed or refractory solid tumors and lymphomas, excluding central nervous system tumors.
+No new safety signals were observed in these studies.
+The pharmacokinetics (PK) of eribulin were within range of values of adult patients with metastatic liposarcoma or other tumors given the same dose per body surface area.
 
 ## 8.5 Geriatric Use
 

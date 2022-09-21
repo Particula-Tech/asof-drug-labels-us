@@ -162,7 +162,7 @@ Table 4: Laboratory Abnormalities Occurring in ≥10% (all Grades) of Patients T
 | Hypokalemia | 30% | 5.4% | 14% | 2.8% |
 | Hypocalcemia | 28% | 5% | 18% | 1.4% |
 | Hypophosphatemia | 20% | 3.2% | 11% | 1.4% |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study measurement and at least 1 grade increase from baseline.Halaven group (range 221-222) and dacarbazine group (range 214-215) † Laboratory results were graded per NCI CTCAE v4.03. |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study measurement and at least 1 grade increase from baseline. Halaven group (range 221-222) and dacarbazine group (range 214-215). † Laboratory results were graded per NCI CTCAE v4.03. |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
