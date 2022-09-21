@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Azelastine HCl Nasal Spray
+Azelastine HCl Nasal Spray.
 
 Important: For use in your nose only.
 
@@ -36,7 +36,7 @@ Do not spray it into your eyes or mouth.
 
 • Use Azelastine HCl Nasal Spray exactly as your healthcare provider tells you to use it.
 
-• Do not use more than your healthcare provider tells you.
+• Do not use more than your healthcare provider tells you
 
 • Throw away your Azelastine HCl Nasal Spray bottle after using 200 sprays.
 Even though the bottle may not be completely empty, you may not get the correct dose of medicine.
@@ -141,7 +141,11 @@ Before you use Azelastine HCl Nasal Spray for the first time, you will need to p
 
 Priming your Azelastine HCl Nasal Spray)
 
-Remove the transparent dust cover over the tip of the pump and the white safety clip just under the “shoulders” of the pump (See Figure B). Figure B Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
+Remove the transparent dust cover over the tip of the pump and the white safety clip just under the “shoulders” of the pump (See Figure B).
+
+Figure B
+
+Hold the bottle upright with 2 fingers on the shoulders of the spray pump unit and
 
 • put your thumb on the bottom of the bottle.
 Press upward with your thumb and release for the pumping action.
@@ -153,6 +157,7 @@ If you see a stream of liquid, the pump is not working correctly and you may hav
 • This should happen in 4 sprays or less.
 
 Now your pump is primed and ready to use.
+
 Figure C
 
 • Do not use Azelastine HCl Nasal Spray unless you see a fine mist after you do the priming sprays.
@@ -197,12 +202,11 @@ Put the safety clip and dust cover back on the bottle.
 
 Cleaning the Spray Tip of your Azelastine HCl Nasal Spray
 
-• the spray tip opening is clogged, do not use a pin or pointed object to unclog the tip.
-Unscrew the spray pump unit from the bottle by turning it to the left (counter-clockwise) (See Figure F).
-
-• Soak only the spray pump unit in warm water.
-Squirt the spray unit several times while holding it under water.
-Use the pumping action to clear the opening in the tip (See Figure G).
+- If the spray tip opening is clogged, do not use a pin or pointed object to unclog the tip.
+  Unscrew the spray pump unit from the bottle by turning it to the left (counter-clockwise) (See Figure F).
+- Soak only the spray pump unit in warm water.
+  Squirt the spray unit several times while holding it under water.
+  Use the pumping action to clear the opening in the tip (See Figure G).
 
 Figure F Figure G
 
@@ -235,6 +239,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-(PT 2531-02)
-
 Revised: 11/2018
+
+(PT 2531-02)

@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-Use of Azelastine HCl Nasal Spray has been associated with somnolence [see Warnings and Precautions (5.1)]
+Use of Azelastine HCl Nasal Spray has been associated with somnolence [see Warnings and Precautions (5.1)].
 
 ## 6.1 Clinical Trials Experience
 
