@@ -29,17 +29,3 @@ Pheburane®
 For oral use only Rx only
 
 Use only the enclosed measuring spoon designed for use with this product.
-
-# PRINCIPAL DISPLAY PANEL - Container
-
-NDC 71770-100-10
-
-Pheburane®
-
-(sodium phenylbutyrate) oral pellets
-
-84 g per bottle*
-
-For oral use only Rx only
-
-Use only the enclosed measuring spoon designed for use with this product.
