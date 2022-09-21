@@ -208,7 +208,8 @@ In the U.S. general population, the estimated risk of major birth defects and of
 ### Fetal/Neonatal Adverse Reactions
 
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
-Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy for signs of withdrawal.
+Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy for signs of withdrawal.
 Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
 
 ## Data

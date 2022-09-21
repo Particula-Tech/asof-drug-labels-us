@@ -8,7 +8,9 @@ Many symptoms common to the depressive state, such as anorexia, fatigue, weaknes
 Granulocytopenia, jaundice and hepatic dysfunction of uncertain etiology have also been observed rarely with chlordiazepoxide and amitriptyline hydrochloride tablets.
 When treatment with chlordiazepoxide and amitriptyline hydrochloride tablets is prolonged, periodic blood counts and liver function tests are advisable.
 
-Note: Included in the listing which follows are adverse reactions which have not been reported with chlordiazepoxide and amitriptyline hydrochloride.
+Note
+
+Included in the listing which follows are adverse reactions which have not been reported with chlordiazepoxide and amitriptyline hydrochloride.
 However, they are included because they have been reported during therapy with one or both of the components or closely related drugs.
 
 Cardiovascular: Hypotension, hypertension, tachycardia, palpitations, myocardial infarction, arrhythmias, heart block, stroke.

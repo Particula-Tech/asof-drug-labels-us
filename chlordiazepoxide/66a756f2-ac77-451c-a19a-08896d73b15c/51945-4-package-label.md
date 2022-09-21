@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 5 mg/12.5 mg
+# PRINCIPAL DISPLAY PANEL – 5 mg/12.5 mg
 
 NDC 0378-0211-01
 
@@ -19,7 +19,7 @@ Store at 20° to 25°C (68° to 77°F).
 
 Store in a dry place.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -27,9 +27,11 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
+3448/0
+
 RALP0211A
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/25 mg
+# PRINCIPAL DISPLAY PANEL – 10 mg/25 mg
 
 NDC 0378-0277-01
 
@@ -50,12 +52,14 @@ Store at 20° to 25°C (68° to 77°F).
 
 Store in a dry place.
 
-Usual Adult Dosage: See accompanying prescribing information.
+Usual Dosage: See accompanying prescribing information.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in Australia
+
+3450/0
 
 RALP0277A
