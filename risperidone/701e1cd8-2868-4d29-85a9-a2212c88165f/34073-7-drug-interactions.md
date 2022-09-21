@@ -2,7 +2,7 @@
 
 ## 7.1 Pharmacokinetic-related Interactions
 
-The dose of risperidone should be adjusted when used in combination with CYP 2D6 enzyme inhibitors (e.g., fluoxetine, and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18 and Dosage and Administration (2.5)].
+The dose of risperidone should be adjusted when used in combination with CYP2D6 enzyme inhibitors (e.g., fluoxetine, and paroxetine) and enzyme inducers (e.g., carbamazepine) [see Table 18 and Dosage and Administration (2.5)].
 Dose adjustment is not recommended for Risperidone when co-administered with ranitidine, cimetidine, amitriptyline, or erythromycin [see Table 18].
 
 Table 18.
@@ -11,7 +11,7 @@ Summary of Effect of Coadministered Drugs on Exposure to Active Moiety (Risperid
 |  | Coadministered Drug | Risperidone | AUC | Cmax |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug | Dosing Schedule |  | Effect on Active Moiety (Risperidone + 9-Hydroxy-Risperidone (RatioChange relative to reference) |  | Risperidone Dose Recommendation |
-| Enzyme (CYP 2D6) Inhibitors |  |  |  |  |  |
+| Enzyme (CYP2D6) Inhibitors |  |  |  |  |  |
 | Fluoxetine | 20 mg/day | 2 or 3 mg twice daily | 1.4 | 1.5 | Re-evaluate dosing. Do not exceed 8 mg/day |
 | Paroxetine | 10 mg/day | 4 mg/day | 1.3 | - | Re-evaluate dosing. Do not exceed 8 mg/day |
 |  | 20 mg/day | 4 mg/day | 1.6 | - |  |

@@ -1,7 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Risperidone Tablets are available in the following strengths and colors: 0.25 mg (dark yellow), 0.5 mg (red-brown), 1 mg (white), 2 mg (orange), 3 mg (yellow), and 4 mg (green).
-All are capsule shaped, and imprinted with "PATR" on one side and either "Ris 0.25", "Ris 0.5", "R1", "R2", "R3", or "R4" on the other side according to their respective strengths.
+Risperidone Tablets are available in the following strengths and colors: 0.5 mg (red-brown), 1 mg (white), 2 mg (orange), 3 mg (yellow), and 4 mg (green).
+All are capsule shaped, and imprinted with "PATR" on one side and either "Ris 0.5", "R1", "R2", "R3", or "R4" on the other side according to their respective strengths.
 
 Risperidone Oral Solution is available in a 1 mg/mL strength.
 

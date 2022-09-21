@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients using the Oral Solution to read the FDA-approved patient labeling (Instructions for Use).
+Advise patients using the oral solution to read the FDA-approved patient labeling (Instructions for Use).
 
 Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone.
 
@@ -44,6 +44,12 @@ Heat Exposure and Dehydration
 
 Counsel patients regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.14)].
 
+Phenylketonurics
+
+Inform patients with Phenylketonuria and caregivers that Risperidone Orally Disintegrating Tablets contain phenylalanine.
+Phenylalanine is a component of aspartame.
+Each 4 mg Risperidone Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg Risperidone Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg Risperidone Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg Risperidone Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg Risperidone Orally Disintegrating Tablet contains 0.14 mg phenylalanine [see Warnings and Precautions (5.15)].
+
 Concomitant Medication
 
 Advise patients to inform their healthcare providers if they are taking, or plan to take any prescription or over-the-counter drugs, as there is a potential for interactions [see Drug Interactions (7)].
@@ -51,12 +57,6 @@ Advise patients to inform their healthcare providers if they are taking, or plan
 Alcohol
 
 Advise patients to avoid alcohol while taking risperidone [see Drug Interactions (7.2)].
-
-Phenylketonurics
-
-Inform patients with Phenylketonuria and caregivers that Risperidone Orally Disintegrating Tablets contain phenylalanine.
-Phenylalanine is a component of aspartame.
-Each 4 mg Risperidone Orally Disintegrating Tablet contains 0.84 mg phenylalanine; each 3 mg Risperidone Orally Disintegrating Tablet contains 0.63 mg phenylalanine; each 2 mg Risperidone Orally Disintegrating Tablet contains 0.42 mg phenylalanine; each 1 mg Risperidone Orally Disintegrating Tablet contains 0.28 mg phenylalanine; and each 0.5 mg Risperidone Orally Disintegrating Tablet contains 0.14 mg phenylalanine [see Warnings and Precautions (5.15)].
 
 Pregnancy
 

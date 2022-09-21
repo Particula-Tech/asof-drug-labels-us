@@ -1,19 +1,3 @@
-PRINCIPAL DISPLAY PANEL - 0.25 mg Tablet Label
-
-NDC 50458-590-60
-
-risperiDONE Tablets
-
-0.25 mg
-
-Each tablet contains: Risperidone 0.25 mg
-
-Keep out of the reach of children.
-
-Rx only
-
-60 Tablets
-
 PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Label
 
 NDC 50458-591-60

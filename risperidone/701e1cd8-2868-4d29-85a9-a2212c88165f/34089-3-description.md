@@ -8,12 +8,12 @@ The structural formula is:
 Risperidone is a white to slightly beige powder.
 It is practically insoluble in water, freely soluble in methylene chloride, and soluble in methanol and 0.1 N HCl.
 
-Risperidone Tablets are for oral administration and available in 0.25 mg (dark yellow), 0.5 mg (red-brown), 1 mg (white), 2 mg (orange), 3 mg (yellow), and 4 mg (green) strengths.
+Risperidone Tablets are for oral administration and available in 0.5 mg (red-brown), 1 mg (white), 2 mg (orange), 3 mg (yellow), and 4 mg (green) strengths.
 Risperidone tablets contain the following inactive ingredients: colloidal silicon dioxide, hypromellose, lactose, magnesium stearate, microcrystalline cellulose, propylene glycol, sodium lauryl sulfate, and starch (corn).
-The 0.25 mg, 0.5 mg, 2 mg, 3 mg, and 4 mg tablets also contain talc and titanium dioxide.
-The 0.25 mg tablets contain yellow iron oxide; the 0.5 mg tablets contain red iron oxide; the 2 mg tablets contain FD&C Yellow No. 6 Aluminum Lake; the 3 mg and 4 mg tablets contain D&C Yellow No. 10; the 4 mg tablets contain FD&C Blue No. 2 Aluminum Lake.
+The 0.5 mg, 2 mg, 3 mg, and 4 mg tablets also contain talc and titanium dioxide.
+The 0.5 mg tablets contain red iron oxide; the 2 mg tablets contain FD&C Yellow No. 6 Aluminum Lake; the 3 mg and 4 mg tablets contain D&C Yellow No. 10; the 4 mg tablets contain FD&C Blue No. 2 Aluminum Lake.
 
-Risperidone is also available as a 1 mg/mL oral solution.
+Risperidone is also available as a 1 mg/mL Oral Solution.
 Risperidone Oral Solution contains the following inactive ingredients: tartaric acid, benzoic acid, sodium hydroxide, and purified water.
 
 Risperidone Orally Disintegrating Tablets are available in 0.5 mg (light coral), 1 mg (light coral), 2 mg (coral), 3 mg (coral), and 4 mg (coral) strengths.

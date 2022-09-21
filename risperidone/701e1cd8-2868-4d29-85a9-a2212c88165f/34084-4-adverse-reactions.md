@@ -436,11 +436,11 @@ When all risperidone doses were pooled from randomized controlled trials in seve
 In short-term schizophrenia trials, higher doses of risperidone (8–16 mg/day) were associated with a higher mean increase in heart rate compared to placebo (4–6 beats per minute).
 In pooled placebo-controlled acute mania trials in adults, there were small decreases in mean heart rate, similar among all treatment groups.
 
-In the two placebo-controlled trials in children and adolescents with autistic disorder (aged 5 to 16 years) mean changes in heart rate were an increase of 8.4 beats per minute in the risperidone groups and 6.5 beats per minute in the placebo group.
+In the two placebo-controlled trials in children and adolescents with autistic disorder (aged 5 – 16 years) mean changes in heart rate were an increase of 8.4 beats per minute in the risperidone groups and 6.5 beats per minute in the placebo group.
 There were no other notable ECG changes.
 
-In a placebo-controlled acute mania trial in children and adolescents (aged 10 to 17 years), there were no significant changes in ECG parameters, other than the effect of risperidone to transiently increase pulse rate (< 6 beats per minute).
-In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), there were no clinically meaningful changes in ECG parameters including corrected QT intervals between treatment groups or within treatment groups over time.
+In a placebo-controlled acute mania trial in children and adolescents (aged 10 – 17 years), there were no significant changes in ECG parameters, other than the effect of risperidone to transiently increase pulse rate (< 6 beats per minute).
+In two controlled schizophrenia trials in adolescents (aged 13 – 17 years), there were no clinically meaningful changes in ECG parameters including corrected QT intervals between treatment groups or within treatment groups over time.
 
 ## 6.2 Postmarketing Experience
 

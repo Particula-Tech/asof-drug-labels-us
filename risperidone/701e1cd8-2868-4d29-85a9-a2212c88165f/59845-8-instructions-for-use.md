@@ -113,4 +113,5 @@ Fabricado para: Patriot Pharmaceuticals, LLC Horsham, PA 19044
 
 Estas Instrucciones de uso han sido aprobadas por la Administración de Alimentos y Medicamentos (FDA) de los EE.
 UU.
+
 Revisado: 6/2022
