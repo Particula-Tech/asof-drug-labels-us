@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA208256"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-200-06",
+    "72205-200-11",
+    "72205-200-30",
+    "72205-200-90",
+    "72205-201-11",
+    "72205-201-13",
+    "72205-201-24",
+    "72205-201-32"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "Roflumilast"
+    }
+  ],
+  "setid": "4d25f69c-58b7-4e2a-b835-4d0c76a83c7c",
+  "source": "dailymed"
+}
