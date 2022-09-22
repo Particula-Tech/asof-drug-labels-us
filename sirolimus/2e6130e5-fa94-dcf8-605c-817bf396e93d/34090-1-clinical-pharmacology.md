@@ -17,6 +17,10 @@ This tolerization effect is alloantigen-specific.
 
 In rodent models of autoimmune disease, sirolimus suppresses immune-mediated events associated with systemic lupus erythematosus, collagen-induced arthritis, autoimmune type I diabetes, autoimmune myocarditis, experimental allergic encephalomyelitis, graft-versus-host disease, and autoimmune uveoretinitis.
 
+Lymphangioleiomyomatosis involves lung tissue infiltration with smooth muscle-like cells that harbor inactivating mutations of the tuberous sclerosis complex (TSC) gene (LAM cells).
+Loss of TSC gene function activates the mTOR signaling pathway, resulting in cellular proliferation and release of lymphangiogenic growth factors.
+Sirolimus inhibits the activated mTOR pathway and thus the proliferation of LAM cells.
+
 ## 12.2 Pharmacodynamics
 
 Orally-administered sirolimus, at doses of 2 mg/day and 5 mg/day, significantly reduced the incidence of organ rejection in low- to moderate-immunologic risk renal transplant patients at 6 months following transplantation compared with either azathioprine or placebo [see Clinical Studies (14.1)].
@@ -111,6 +115,10 @@ d: Week 26 to Week 52; observed CsA Cmin was 136 (54.5 to 218) ng/mL
 
 The withdrawal of cyclosporine and concurrent increases in sirolimus trough concentrations to steady-state required approximately 6 weeks.
 Following cyclosporine withdrawal, larger sirolimus doses were required due to the absence of the inhibition of sirolimus metabolism and transport by cyclosporine and to achieve higher target sirolimus trough concentrations during concentration-controlled administration [see Dosage and Administration (2.1), Drug Interactions (7.1)].
+
+Lymphangioleiomyomatosis
+
+In a clinical trial of patients with lymphangioleiomyomatosis, the median whole blood sirolimus trough concentration after 3 weeks of receiving sirolimus tablets at a dose of 2 mg/day was 6.8 ng/mL (interquartile range 4.6 to 9.0 ng/mL; n = 37).
 
 Pharmacokinetics in Specific Populations
 
@@ -268,7 +276,7 @@ Other drugs that have the potential to increase sirolimus blood concentrations i
 
 • Gastrointestinal prokinetic agents: cisapride, metoclopramide.
 
-• Other drugs: bromocriptine, cimetidine, danazol, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
+• Other drugs: bromocriptine, cimetidine, danazol, letermovir, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
 
 Other drugs that have the potential to decrease sirolimus concentrations include (but are not limited to):
 

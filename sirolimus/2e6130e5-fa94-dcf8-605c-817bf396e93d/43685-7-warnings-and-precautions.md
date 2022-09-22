@@ -157,3 +157,8 @@ Therefore, during treatment with sirolimus, vaccination may be less effective.
 ## 5.20 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
 Avoid concomitant use of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)].
+
+## 5.21 Cannabidiol Drug Interactions
+
+When cannabidiol and sirolimus are co-administered, closely monitor for an increase in sirolimus blood levels and for adverse reactions suggestive of sirolimus toxicity.
+A dose reduction of sirolimus should be considered as needed when sirolimus is co-administered with cannabidiol [see Dosage and Administration (2.5) and Drug Interactions (7.5)].
