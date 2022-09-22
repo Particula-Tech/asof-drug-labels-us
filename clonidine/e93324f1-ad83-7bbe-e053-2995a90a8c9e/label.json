@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022500"
+  ],
+  "inn": "clonidine",
+  "labeler": "PALMETTO PHARMACEUTICALS INC.",
+  "package_ndcs": [
+    "68134-603-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "clonidine",
+      "name": "Clonidine"
+    }
+  ],
+  "setid": "e93324f1-ad83-7bbe-e053-2995a90a8c9e",
+  "source": "dailymed"
+}
