@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA208004"
+  ],
+  "inn": "fingolimod",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-476-14",
+    "67877-476-30",
+    "67877-476-32",
+    "67877-476-33",
+    "67877-476-56",
+    "67877-476-58"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fingolimod hydrochloride",
+      "name": "Fingolimod"
+    }
+  ],
+  "setid": "0f638feb-6986-41e4-8f9c-2e6b84a5bb44",
+  "source": "dailymed"
+}
