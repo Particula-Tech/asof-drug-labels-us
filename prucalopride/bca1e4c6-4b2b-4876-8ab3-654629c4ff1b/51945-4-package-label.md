@@ -9,19 +9,13 @@ motegrity® (prucalopride) tablets
 Usual Dose: One tablet once daily.
 30 Tablets
 
-# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
-NDC 54092-547-03
+Rx Only NDC 54092-547-01
 
 motegrity® (prucalopride) tablets
 
 2 mg
 
 Usual Dose: One tablet once daily.
-Patient Sample - Not for Sale
-
 30 Tablets
-
-Rx Only
-
-Takeda
