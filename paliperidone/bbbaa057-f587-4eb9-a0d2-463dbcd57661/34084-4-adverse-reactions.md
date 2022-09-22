@@ -26,9 +26,9 @@ The most common adverse reactions in clinical trials in adult patients with schi
 
 The most common adverse reactions that were associated with discontinuation from clinical trials in adult subjects with schizophrenia (causing discontinuation in 2% of paliperidone-treated subjects) were nervous system disorders.
 The most common adverse reactions that were associated with discontinuation from clinical trials in adult subjects with schizoaffective disorder were gastrointestinal disorders, which resulted in discontinuation in 1% of paliperidone -treated subjects.
-[See Adverse Reactions (6.4)].
+[See Adverse Reactions (6)].
 
-The safety of paliperidone was evaluated in 1,205 adult subjects with schizophrenia who participated in three placebo-controlled, 6-week, double-blind trials, of whom 850 subjects received paliperidone at fixed doses ranging from 3 mg to 12 mg once daily.
+The safety of paliperidone was evaluated in 1205 adult subjects with schizophrenia who participated in three placebo-controlled, 6-week, double-blind trials, of whom 850 subjects received paliperidone at fixed doses ranging from 3 mg to 12 mg once daily.
 The information presented in this section was derived from pooled data from these three trials.
 Additional safety information from the placebo-controlled phase of the long-term maintenance study, in which subjects received paliperidone at daily doses within the range of 3 mg to 15 mg (n=104), is also included.
 
@@ -186,6 +186,8 @@ Treatment-Emergent Extrapyramidal Symptoms (EPS) Assessed by Incidence of Rating
 | Akathisia2 | 6 | 6 | 4 | 7 | 9 |
 | Use of Anticholinergic medications3 | 10 | 10 | 9 | 22 | 22 |
 
+1. 1 For Parkinsonism, percent of patients with Simpson-Angus global score > 0.3 2 For Akathisia, percent of patients with Barnes Akathisia Rating Scale global score ≥ 2 3 Percent of patients who received anticholinergic medications to treat emergent EPS
+
 Table 8.
 Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDRA Preferred Term – Schizophrenia Studies in Adults
 
@@ -267,7 +269,7 @@ Adverse reactions reported during the long-term double-blind phase of this study
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, ileus, priapism, somnambulism, swollen tongue, tardive dyskinesia, thrombotic thrombocytopenic purpura, urinary incontinence, urinary retention.
+The following adverse reactions have been identified during post-approval use of paliperidone; because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency: angioedema, catatonia, ileus, priapism, somnambulism, swollen tongue, tardive dyskinesia, thrombotic thrombocytopenic purpura, urinary incontinence, urinary retention.
 
 ## 6.3 Adverse Reactions Reported with Risperidone
 

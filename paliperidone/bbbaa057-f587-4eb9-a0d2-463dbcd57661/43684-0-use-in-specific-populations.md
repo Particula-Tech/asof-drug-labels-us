@@ -41,8 +41,8 @@ Human Data
 
 Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
 A prospective observational study including 6 women treated with risperidone, the parent compound of paliperidone, demonstrated placental passage of risperidone and paliperidone.
-A retrospective cohort study from a Medicaid database of 9,258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
-There was a small increase in the risk of major birth defects (RR= 1.26, 95% CI 1.02–1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88–1.81) in a subgroup of 1,566 women exposed to the parent compound of paliperidone, risperidone, during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
+A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+There was a small increase in the risk of major birth defects (RR= 1.26, 95% CI 1.02–1.56) and of cardiac malformations (RR=1.26, 95% CI 0.88–1.81) in a subgroup of 1566 women exposed to the parent compound of paliperidone, risperidone, during the first trimester of pregnancy; however, there is no mechanism of action to explain the difference in malformation rates.
 
 Animal Data
 
@@ -85,11 +85,11 @@ Safety and effectiveness of paliperidone for the treatment of schizoaffective di
 
 Juvenile Animal Studies
 
-In a study in which juvenile rats were treated with oral paliperidone from days 24 to 73 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day, which produced plasma levels (AUC) of paliperidone similar to those in adolescents.
+In a study in which juvenile rats were treated with oral paliperidone from days 24 to 73 of age, a reversible impairment of performance in a test of learning and memory was seen, in females only, with a no-effect dose of 0.63 mg/kg/day, which produced plasma levels (AUC) of paliperidone similar to those in adolescents at MRHD of 12 mg/day.
 No other consistent effects on neurobehavioral or reproductive development were seen up to the highest dose tested (2.5 mg/kg/day), which produced plasma levels of paliperidone 2-3 times those in adolescents.
 
 Juvenile dogs were treated for 40 weeks with oral risperidone, which is extensively metabolized to paliperidone in animals and humans, at doses of 0.31, 1.25, or 5 mg/kg/day.
-Decreased bone length and density were seen with a no-effect dose of 0.31 mg/kg/day, which produced plasma levels (AUC) of risperidone plus paliperidone which were similar to those in children and adolescents receiving the maximum recommended human dose of risperidone.
+Decreased bone length and density were seen with a no-effect dose of 0.31 mg/kg/day, which produced plasma levels (AUC) of risperidone plus paliperidone which were similar to those in children and adolescents receiving the MRHD of risperidone.
 In addition, a delay in sexual maturation was seen at all doses in both males and females.
 The above effects showed little or no reversibility in females after a 12-week drug-free recovery period.
 
@@ -102,7 +102,7 @@ In this study, subjects received flexible doses of paliperidone (3 mg to 12 mg o
 In addition, a small number of subjects 65 years of age and older were included in the 6-week placebo-controlled studies in which adult schizophrenic subjects received fixed doses of paliperidone (3 mg to 15 mg once daily) [see Clinical Studies (14)].
 There were no subjects ≥ 65 years of age in the schizoaffective disorder studies.
 
-Overall, of the total number of subjects in schizophrenia clinical studies of paliperidone (n = 1,796), including those who received paliperidone or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
+Overall, of the total number of subjects in schizophrenia clinical studies of paliperidone (n = 1796), including those who received paliperidone or placebo, 125 (7.0%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 This drug is known to be substantially excreted by the kidney and clearance is decreased in patients with moderate to severe renal impairment [see Clinical Pharmacology (12.3)], who should be given reduced doses.
