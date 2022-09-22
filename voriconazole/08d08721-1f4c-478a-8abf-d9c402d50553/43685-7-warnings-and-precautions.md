@@ -17,16 +17,16 @@ If liver function tests become markedly elevated compared to baseline, VFEND sho
 ## 5.2 Arrhythmias and QT Prolongation
 
 Some azoles, including VFEND, have been associated with prolongation of the QT interval on the electrocardiogram.
-During clinical development and post-marketing surveillance, there have been rare cases of arrhythmias, (including ventricular arrhythmias such as torsade de pointes), cardiac arrests and sudden deaths in patients taking voriconazole.
+During clinical development and postmarketing surveillance, there have been rare cases of arrhythmias, (including ventricular arrhythmias such as torsade de pointes), cardiac arrests and sudden deaths in patients taking voriconazole.
 These cases usually involved seriously ill patients with multiple confounding risk factors, such as history of cardiotoxic chemotherapy, cardiomyopathy, hypokalemia and concomitant medications that may have been contributory.
 
 VFEND should be administered with caution to patients with potentially proarrhythmic conditions, such as:
 
-- Congenital or acquired QT prolongation
-- Cardiomyopathy, in particular when heart failure is present
-- Sinus bradycardia
-- Existing symptomatic arrhythmias
-- Concomitant medicinal product that is known to prolong QT interval [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)]
+- •Congenital or acquired QT prolongation
+- •Cardiomyopathy, in particular when heart failure is present
+- •Sinus bradycardia
+- •Existing symptomatic arrhythmias
+- •Concomitant medicinal product that is known to prolong QT interval [see Contraindications (4), Drug Interactions (7), and Clinical Pharmacology (12.3)]
 
 Rigorous attempts to correct potassium, magnesium and calcium should be made before starting and during voriconazole therapy [see Clinical Pharmacology (12.3)].
 
@@ -39,7 +39,7 @@ Consideration should be given to stopping the infusion should these reactions oc
 ## 5.4 Visual Disturbances
 
 The effect of VFEND on visual function is not known if treatment continues beyond 28 days.
-There have been post-marketing reports of prolonged visual adverse reactions, including optic neuritis and papilledema.
+There have been postmarketing reports of prolonged visual adverse reactions, including optic neuritis and papilledema.
 If treatment continues beyond 28 days, visual function including visual acuity, visual field, and color perception should be monitored [see Adverse Reactions (6.2)].
 
 ## 5.5 Severe Cutaneous Adverse Reactions
@@ -55,7 +55,8 @@ If phototoxic reactions occur, the patient should be referred to a dermatologist
 If VFEND is continued despite the occurrence of phototoxicity-related lesions, dermatologic evaluation should be performed on a systematic and regular basis to allow early detection and management of premalignant lesions.
 Squamous cell carcinoma of the skin and melanoma have been reported during long-term VFEND therapy in patients with photosensitivity skin reactions.
 If a patient develops a skin lesion consistent with premalignant skin lesions, squamous cell carcinoma or melanoma, VFEND should be discontinued.
-In addition, VFEND has been associated with photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus.
+In addition, VFEND has been associated with photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus, as well as increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with ultraviolet (UV) reactivation.
+There is the potential for this risk to be observed with other drugs associated with UV reactivation.
 Patients should avoid strong, direct sunlight during VFEND therapy.
 
 The frequency of phototoxicity reactions is higher in the pediatric population.
