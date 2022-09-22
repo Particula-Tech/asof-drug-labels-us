@@ -2,7 +2,7 @@
 
 Representative sample of labeling (see HOW SUPPLIED section for complete listing):
 
-APOTEX CORP. NDC 60505-0253-1
+APOTEX CORP. NDC 60505-0253-2
 
 Clopidogrel Tablets, USP
 
@@ -10,7 +10,7 @@ Clopidogrel Tablets, USP
 
 Rx
 
-30 count
+90 count
 
 # Principal Display Panel
 

@@ -3,15 +3,9 @@
 Clopidogrel tablets, USP 75 mg are pink, round, biconvex, film coated tablets, engraved "APO" on one side and "CL" over "75" on the other side.
 They are supplied as follows:
 
-Bottles of 30 NDC 60505-0253-1
-
 Bottles of 90 NDC 60505-0253-2
 
 Bottles of 1,000 NDC 60505-0253-3
-
-Blisters of 100 tablets (10 x 10 Unit Dose) NDC 60505-0253-4
-
-Package of 12 bottles x 30 tablets NDC 60505-3992-3
 
 Clopidogrel tablets USP, 300 mg are pink, oblong, biconvex, film-coated tablets, engraved "APO" on one side and "CL 300" on the other side.
 

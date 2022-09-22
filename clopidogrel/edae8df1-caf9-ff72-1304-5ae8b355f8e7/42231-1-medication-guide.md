@@ -4,6 +4,8 @@ Clopidogrel Bisulfate Tablets, USP 75 mg and 300 mg
 
 (kloe pid’ oh grel bye sul’ fate)
 
+Medication Guide available at www1.apotex.com/products/us
+
 Read this Medication Guide before you start taking clopidogrel tablets and each time you get a refill.
 There may be new information.
 This Medication Guide does not take the place of talking with your doctor about your medical condition or your treatment.
@@ -201,7 +203,7 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: April 2021
+Revised: September 2021
 
 Rev.
-27
+28

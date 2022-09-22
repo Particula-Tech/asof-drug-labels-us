@@ -17,6 +17,8 @@ Invasive Procedures Advise patients to inform physicians and dentists that they 
 Proton Pump Inhibitors Advise patients not to take omeprazole or esomeprazole while taking clopidogrel.
 Dexlansoprazole, lansoprazole, and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Drug Interactions (7.2)].
 
+Dispense with Medication Guide available at www1.apotex.com/products/us
+
 APOTEX INC. CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 
 | Manufactured by | Manufactured for |
@@ -25,7 +27,7 @@ APOTEX INC. CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: April 2021
+Revised: September 2021
 
 Rev.
-27
+28
