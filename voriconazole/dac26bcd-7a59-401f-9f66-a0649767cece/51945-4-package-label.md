@@ -2,8 +2,8 @@
 
 NDC 0049-3190-01 Rx ONLY
 
-Vfend® I.V.
-(voriconazole) for Injection
+1. Vfend® I.V.
+   (voriconazole) for Injection
 
 Sterile Single-Dose Vial – Discard Unused Portion
 
