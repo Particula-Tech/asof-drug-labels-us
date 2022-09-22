@@ -18,7 +18,7 @@ Trospium chloride, like other antimuscarinic agents, may decrease gastrointestin
 
 ## 5.4 Controlled Narrow-angle Glaucoma
 
-In patients being treated for narrow-angle glaucoma, trospium chlorideshould only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring [see Contraindications (4)].
+In patients being treated for narrow-angle glaucoma, trospium chloride should only be used if the potential benefits outweigh the risks and in that circumstance only with careful monitoring [see Contraindications (4)].
 
 ## 5.5 Central Nervous System Effects
 

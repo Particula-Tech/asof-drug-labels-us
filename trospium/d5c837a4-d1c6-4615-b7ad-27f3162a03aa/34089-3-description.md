@@ -7,5 +7,5 @@ The structural formula of trospium chloride, USP is represented below:
 Trospium chloride, USP is a white or almost white, crystalline powder.
 It is very soluble in water, freely soluble in methanol, practically insoluble in methylene chloride.
 
-Each Trospium ChlorideTablet USP contains 20 mg of trospium chloride, USP, a muscarinic antagonist, for oral administration.
-Each tablet also contains the following inactive ingredients: microcrystalline cellulose, lactose monohydrate, corn starch, povidone, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, sucrose, copovidone, titanium dioxide, polyethylene glycol 6000, talc, hypromellose, macrogol, yellow iron oxide, red iron oxide.
+Each Trospium Chloride Tablet, USP contains 20 mg of trospium chloride, USP, a muscarinic antagonist, for oral administration.
+Each tablet also contains the following inactive ingredients: microcrystalline cellulose, lactose monohydrate, corn starch, povidone, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, titanium dioxide, polyethylene glycol 400, hypromellose, yellow iron oxide and red iron oxide.

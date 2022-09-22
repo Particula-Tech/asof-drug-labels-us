@@ -33,7 +33,7 @@ In the two U.S. placebo-controlled trials in patients with overactive bladder, t
 ### Absorption:
 
 After oral administration, less than 10% of the dose is absorbed.
-Mean absolute bioavailability of a 20 mg dose is 9.6% (range: 4-16.1%).
+Mean absolute bioavailability of a 20 mg dose is 9.6% (range: 4 to 16.1%).
 Peak plasma concentrations (Cmax) occur between 5 to 6 hours post-dose.
 Mean Cmax increases greater than dose-proportionally; a 3-fold and 4-fold increase in Cmax was observed for dose increases from 20 mg to 40 mg and from 20 mg to 60 mg, respectively.
 AUC exhibits dose linearity for single doses up to 60 mg.
@@ -41,26 +41,26 @@ Trospium chloride exhibits diurnal variability in exposure with a decrease in Cm
 
 ### Effect of Food:
 
-Administration with a high (50%) fat-content meal resulted in reduced absorption, with AUC and Cmax values 70-80% lower than those obtained when trospium chloride was administered while fasting.
-Therefore, it is recommended that trospium chlorideshould be taken at least one hour prior to meals or on an empty stomach [see Dosage and Administration (2)].
+Administration with a high (50%) fat-content meal resulted in reduced absorption, with AUC and Cmax values 70 to 80% lower than those obtained when trospium chloride was administered while fasting.
+Therefore, it is recommended that trospium chloride should be taken at least one hour prior to meals or on an empty stomach [see Dosage and Administration (2)].
 
-A summary of mean (± standard deviation) pharmacokinetic parameters for a single 20 mg dose of trospium chloride tablets is provided in Table 2.
+A summary of mean (± standard deviation) pharmacokinetic parameters for a single 20 mg dose of trospium chloride is provided in Table 2.
 
 Table 2.
 Mean (± SD) Pharmacokinetic Parameter Estimates for a Single 20 mg Trospium Chloride Tablet Dose in Healthy Volunteers
 
-| Cmax | AUC0-∞ | Tmax | t½ |
+| Cmax | AUC0 to ∞ | Tmax | t½ |
 | --- | --- | --- | --- |
 | (ng/mL) | (ng/mL•hr) | (hr) | (hr) |
-| 3.5 ± 4.0 | 36.4 ± 21.8 | 5.3 ± 1.2 | 18.3 ± 3.2 |
+| 3.5 ± 4 | 36.4 ± 21.8 | 5.3 ± 1.2 | 18.3 ± 3.2 |
 
-The mean plasma concentration-time (+ SD) profile for trospium chloride is shown in Figure 1.
+The mean plasma concentration-time (+SD) profile for trospium chloride is shown in Figure 1.
 
-Figure 1 -Mean (+ SD) Concentration-Time Profile for a Single 20 mg Oral Dose of Trospium Chloride Tablets in Healthy Volunteers
+Figure 1 -Mean (+SD) Concentration-Time Profile for a Single 20 mg Oral Dose of Trospium Chloride Tablets in Healthy Volunteers
 
 ### Distribution:
 
-Protein binding ranged from 50 to 85% when concentration levels of trospium chloride (0.5-50 ng/mL) were incubated with human serum in vitro.
+Protein binding ranged from 50 to 85% when concentration levels of trospium chloride (0.5 to 50 ng/mL) were incubated with human serum in vitro.
 
 The 3H-trospium chloride ratio of plasma to whole blood was 1.6:1.
 This ratio indicates that the majority of 3H-trospium chloride is distributed in plasma.
@@ -88,7 +88,7 @@ There may be competition for elimination with other compounds that are also rena
 Digoxin: Concomitant use of 20 mg trospium chloride immediate release twice daily at steady state and a single dose of 0.5 mg digoxin in a crossover study with 40 male and female subjects did not affect the pharmacokinetics of either drug.
 
 Metformin: A drug interaction study was conducted in which trospium chloride extended release 60 mg once daily was coadministered with Glucophage® (metformin hydrochloride) 500 mg twice daily under steady-state conditions in 44 healthy subjects.
-Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0-24 and by 34% for mean Cmax.
+Co-administration of 500 mg metformin immediate release tablets twice daily reduced the steady-state systemic exposure of trospium by approximately 29% for mean AUC0 to 24 and by 34% for mean Cmax.
 The effect of decrease in trospium exposure on the efficacy of trospium chloride extended release is unknown.
 The steady-state pharmacokinetics of metformin were comparable when administered with or without 60 mg trospium chloride extended release once daily under fasted condition.
 The effect of metformin at higher doses on trospium PK is unknown.
@@ -102,13 +102,13 @@ Pediatric: The pharmacokinetics of trospium chloride were not evaluated in pedia
 Race: Pharmacokinetic differences due to race have not been studied.
 
 Gender: Studies comparing the pharmacokinetics in different genders had conflicting results.
-When a single 40 mg trospium chloride tablets dose was administered to 16 elderly subjects, exposure was 45% lower in elderly females compared to elderly males.
-When 20 mg trospium chloride tablets was dosed twice daily for 4 days to 6 elderly males and 6 elderly females (60 to 75 years), AUC and Cmax were 26% and 68% higher, respectively, in females without hormone replacement therapy than in males.
+When a single 40 mg trospium chloride dose was administered to 16 elderly subjects, exposure was 45% lower in elderly females compared to elderly males.
+When 20 mg trospium chloride was dosed twice daily for 4 days to 6 elderly males and 6 elderly females (60 to 75 years), AUC and Cmax were 26% and 68% higher, respectively, in females without hormone replacement therapy than in males.
 
 Renal Impairment: In a clinical pharmacokinetic study where a single dose of 40 mg immediate release trospium chloride was administered to 12 healthy males and 12 males with severe renal impairment, severe renal impairment (creatinine clearance less than 30 mL/minute) significantly altered the disposition of trospium chloride.
-A 4.2-fold and 1.8-fold increase in mean AUC(0-∞) and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours) were detected in patients with severe renal impairment compared with nearly age-matched subjects with creatinine clearance equal to or higher than 80 mL/min.
+A 4.2-fold and 1.8-fold increase in mean AUC(0 to ∞) and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hours vs. 18 hours) were detected in patients with severe renal impairment compared with nearly age-matched subjects with creatinine clearance equal to or higher than 80 mL/min.
 The different pharmacokinetic behavior of trospium chloridein patients with severe renal impairment necessitates adjustment of dosage frequency [see Dosage and Administration (2)].
-The pharmacokinetics of trospium have not been studied in patients with creatinine clearance ranging from 30-80 mL/min.
+The pharmacokinetics of trospium have not been studied in patients with creatinine clearance ranging from 30 to 80 mL/min.
 
-Hepatic Impairment: In a clinical pharmacokinetic study in patients with mild (Child-Pugh score 5-6) and with moderate (Child-Pugh score 7-8) hepatic impairment, given a single dose of 40 mg immediate-release trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC(0-∞) decreased 5% and 15%, respectively, compared to healthy subjects.
+Hepatic Impairment: In a clinical pharmacokinetic study in patients with mild (Child-Pugh score 5 to 6) and with moderate (Child-Pugh score 7 to 8) hepatic impairment, given a single dose of 40 mg immediate-release trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC(0 to ∞) decreased 5% and 15%, respectively, compared to healthy subjects.
 There is no information regarding the effect of severe hepatic impairment on exposure to trospium chloride.

@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Trospium chlorideis contraindicated in patients with:
+Trospium chloride is contraindicated in patients with:
 
 - •urinary retention
 - •gastric retention

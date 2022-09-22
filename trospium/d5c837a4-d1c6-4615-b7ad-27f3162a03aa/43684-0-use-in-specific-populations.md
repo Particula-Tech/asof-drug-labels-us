@@ -5,7 +5,7 @@
 ### Teratogenic Effects
 
 There are no adequate and well-controlled studies of trospium chloride in pregnant women.
-Trospium chlorideshould be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus.
+Trospium chloride should be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus.
 Women who become pregnant during trospium chloride treatment are encouraged to contact their physician.
 
 ### Risk Summary
@@ -54,15 +54,15 @@ Therefore, based upon tolerability, the dose frequency of trospium chloride may 
 ## 8.6 Renal Impairment
 
 Severe renal impairment (creatinine clearance less than 30 mL/minute) significantly altered the disposition of trospium chloride.
-A 4.2-fold and 1.8-fold increase in mean AUC(0-∞) and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hr) were detected in patients with severe renal impairment compared with nearly age-matched subjects with creatinine clearance equal to or higher than 80 mL/min.
+A 4.2-fold and 1.8-fold increase in mean AUC(0 to ∞) and Cmax, respectively, and the appearance of an additional elimination phase with a long half-life (~33 hr) were detected in patients with severe renal impairment compared with nearly age-matched subjects with creatinine clearance equal to or higher than 80 mL/min.
 The different pharmacokinetic behavior of trospium chloride in patients with severe renal impairment necessitates adjustment of dosage frequency [see Dosage and Administration (2)].
-The pharmacokinetics of trospium have not been studied in patients with creatinine clearance ranging from 30-80 mL/min.
+The pharmacokinetics of trospium have not been studied in patients with creatinine clearance ranging from 30 to 80 mL/min.
 
 Trospium is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 
 ## 8.7 Hepatic Impairment
 
 There is no information regarding the effect of severe hepatic impairment on exposure to trospium chloride.
-In a study of patients with mild and with moderate hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC(0-∞) decreased 5% and 15%, respectively, compared to healthy subjects.
+In a study of patients with mild and with moderate hepatic impairment, given 40 mg of immediate-release trospium chloride, mean Cmax increased 12% and 63%, respectively, and mean AUC(0 to ∞) decreased 5% and 15%, respectively, compared to healthy subjects.
 The clinical significance of these findings is unknown.
 Caution should be used when administering trospium chloride to patients with moderate and severe hepatic impairment.

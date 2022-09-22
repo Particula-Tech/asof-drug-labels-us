@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Trospium Chloride Tablets USP, 20 mg (brownish yellow, round, biconvex film-coated tablets, debossed with ‘L’ on one side and ‘1’ on the other side) are supplied as follows:
+Trospium Chloride Tablets, USP, 20 mg (brownish yellow, round, biconvex film-coated tablets, debossed with ‘L’ on one side and ‘1’ on the other side) are supplied as follows:
 
 Bottles of 30 NDC 68462-461-30
 

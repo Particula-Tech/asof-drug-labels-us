@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 The recommended dose is 20 mg twice daily.
-Trospium chloride tablets USP should be dosed at least one hour before meals or given on an empty stomach.
+Trospium chloride tablets should be dosed at least one hour before meals or given on an empty stomach.
 
 Dosage modification is recommended in the following patient populations:
 

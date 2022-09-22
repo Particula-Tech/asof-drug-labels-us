@@ -9,7 +9,7 @@ Patients should be advised to promptly discontinue trospium chloride tablets and
 
 ## 17.2 When Not to Use
 
-Prior to treatment, patients should fully understand the risks and benefits of trospium chloride.
+Prior to treatment, patients should fully understand the risks and benefits of trospium chloride tablets.
 In particular, patients should be informed not to take trospium chloride tablets if they:
 
 - •have urinary retention;

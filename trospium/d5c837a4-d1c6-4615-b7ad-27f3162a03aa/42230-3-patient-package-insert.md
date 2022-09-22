@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Trospium Chloride Tablets USP
+Trospium Chloride (trose’ pee um klor’ ide) Tablets
 
 Read the Patient Information that comes with trospium chloride tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -86,7 +86,7 @@ How should I store trospium chloride tablets?
 
 - •Keep trospium chloride tablets and all other medicines out of the reach of children.
 - •Store trospium chloride tablets at room temperature, 68°F to 77°F (20°C to 25°C).
-- •Protect from lightand moisture.
+- •Protect from light and moisture.
   Store in a dry place.
   Keep container tightly closed.
 - •Safely dispose of trospium chloride tablets that are out of date or that you no longer need.
@@ -94,20 +94,20 @@ How should I store trospium chloride tablets?
 General information about trospium chloride tablets
 
 Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use trospium chloride tabletsfor a condition for which they were not prescribed.
+Do not use trospium chloride tablets for a condition for which they were not prescribed.
 Do not give trospium chloride tablets to other people, even if they have the same symptoms you have.
 It may harm them.
 
 This leaflet summarizes the most important information about trospium chloride tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about trospium chloride tablets that is written for health professionals.
-You can also call Glenmark Pharmaceuticals Inc., USA at 1 (888)721-7115.
+You can also call Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115 or visit www.glenmarkpharma-us.com.
 
 What are the ingredients in trospium chloride tablets?
 
-Active Ingredient: trospium chloride USP.
+Active Ingredient: trospium chloride, USP.
 
-Inactive Ingredients: microcrystalline cellulose, lactose monohydrate, corn starch, povidone, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, sucrose, copovidone, titanium dioxide, polyethylene glycol 6000, talc, hypromellose, macrogol, yellow iron oxide, red iron oxide.
+Inactive Ingredients: microcrystalline cellulose, lactose monohydrate, corn starch, povidone, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, titanium dioxide, polyethylene glycol 400, hypromellose, yellow iron oxide and red iron oxide.
 
 Rx only
 
@@ -122,4 +122,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-October 2020
+February 2022
