@@ -15,15 +15,11 @@ Advise patients to consult a physician if any difficulty in breathing occurs, or
 
 Caution patients subject to spontaneous hypoglycemia, or diabetic patients receiving insulin or oral hypoglycemic agents, that β-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 
-Manufactured in India by:
+Manufactured by:
 
-Alkem Laboratories Limited
+Alkem Laboratories Ltd.,
 
-H.O.: ALKEM HOUSE,
-
-Senapati Bapat Marg, Lower Parel.
-
-Mumbai – 400 013, INDIA
+INDIA.
 
 Distributed by:
 

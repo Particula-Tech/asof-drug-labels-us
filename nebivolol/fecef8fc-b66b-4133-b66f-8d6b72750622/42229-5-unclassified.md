@@ -119,24 +119,9 @@ Nebivolol tablets can help your blood vessels relax so your blood pressure is lo
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 
 Rev.
-May 2021
-
-Manufactured in India by:
-
-Alkem Laboratories Limited
-
-H.O.: ALKEM HOUSE,
-
-Senapati Bapat Marg, Lower Parel.
-
-Mumbai – 400 013, INDIA
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
+November 2021 Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
 Actidose-Aqua® is a registered trademark of Paddock Laboratories, LLC
 
-PT3536
+PT3536-01
