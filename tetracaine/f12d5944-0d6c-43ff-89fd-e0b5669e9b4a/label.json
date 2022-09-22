@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA210821"
+  ],
+  "inn": "tetracaine",
+  "labeler": "Bausch & Lomb Americas Inc.",
+  "package_ndcs": [
+    "82260-920-05",
+    "82260-920-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "tetracaine hydrochloride",
+      "name": "Tetracaine Hydrochloride"
+    }
+  ],
+  "setid": "f12d5944-0d6c-43ff-89fd-e0b5669e9b4a",
+  "source": "dailymed"
+}
