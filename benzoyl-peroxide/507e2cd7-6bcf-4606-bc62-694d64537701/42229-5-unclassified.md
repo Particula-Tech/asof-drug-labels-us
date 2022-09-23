@@ -1,6 +1,6 @@
 Marketed by: GALDERMA LABORATORIES, L.P.
-14501 North Freeway Fort Worth, TX 76177 USA Made in Canada All trademarks are the property of their respective owners.
-P201084-1
+Dallas, TX 75201 USA Made in Canada All trademarks are the property of their respective owners.
+P57267-0
 
 PATIENT INFORMATION EPSOLAY® (ep' soe lay) (benzoyl peroxide) cream
 
@@ -86,8 +86,8 @@ You can ask your pharmacist or healthcare provider for information about EPSOLAY
 What are the ingredients in EPSOLAY?
 Active ingredient: benzoyl peroxide Inactive ingredients: anhydrous citric acid, cetrimonium chloride, cetyl alcohol, cyclomethicone, edetate disodium, glycerin, hydrochloric acid, lactic acid, macrogol stearate Type I, mono and di-glycerides, phenoxyethanol, polyquaternium-7, purified water, silicon dioxide and sodium hydroxide.
 
-Marketed by GALDERMA LABORATORIES, L.P., 14501 North Freeway, Fort Worth, TX 76177, USA Product of Canada All trademarks are the property of their respective owners.
-For more information, go to www.EPSOLAY.com or call GALDERMA LABORATORIES, L.P. at 1-866-735-4137
+Marketed by GALDERMA LABORATORIES, L.P., Dallas, TX 75201 USA Made in Canada All trademarks are the property of their respective owners.
+P57267-0 For more information, go to www.EPSOLAY.com or call GALDERMA LABORATORIES, L.P. at 1-866-735-4137.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Issued: 4/2022
