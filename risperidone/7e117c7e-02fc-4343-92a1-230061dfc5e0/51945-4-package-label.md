@@ -1,19 +1,3 @@
-PRINCIPAL DISPLAY PANEL - 0.25 mg Bottle Label
-
-NDC 50458-301-04
-
-RISPERDAL® (risperiDONE) TABLETS
-
-0.25 mg
-
-Each tablet contains: Risperidone 0.25 mg
-
-Keep out of reach of children.
-
-Rx only
-
-60 Tablets
-
 PRINCIPAL DISPLAY PANEL - 0.5 mg Bottle Label
 
 NDC 50458-302-06
