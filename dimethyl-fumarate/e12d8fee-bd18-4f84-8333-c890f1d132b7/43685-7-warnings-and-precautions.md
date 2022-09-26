@@ -43,7 +43,7 @@ Consider withholding dimethyl fumarate delayed-release capsules treatment in pat
 ## 5.4 Lymphopenia
 
 Dimethyl fumarate delayed-release capsules may decrease lymphocyte counts.
-In the MS placebo controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with dimethyl fumarate delayed-release capsules and then remained stable.
+In the MS placebo-controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with dimethyl fumarate delayed-release capsules and then remained stable.
 Four weeks after stopping dimethyl fumarate delayed-release capsules, mean lymphocyte counts increased but did not return to baseline.
 Six percent (6%) of dimethyl fumarate delayed-release capsules patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with dimethyl fumarate delayed-release capsules or placebo, respectively.

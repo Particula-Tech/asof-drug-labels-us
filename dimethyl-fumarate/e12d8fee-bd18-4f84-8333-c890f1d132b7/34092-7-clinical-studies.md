@@ -14,7 +14,7 @@ Patients were randomized to receive dimethyl fumarate delayed- release capsules 
 The median age was 39 years, median time since diagnosis was 4 years, and median EDSS score at baseline was 2.
 The median time on study drug for all treatment arms was 96 weeks.
 The percentages of patients who completed 96 weeks on study drug per treatment group were 69% for patients assigned to dimethyl fumarate delayed- release capsules 240 mg twice a day, 69% for patients assigned to dimethyl fumarate delayed- release capsules 240 mg three times a day and 65% for patients assigned to placebo groups.
-Dimethyl fumarate delayed- release capsules had a statistically significant effect on all of the endpoints described above and the 240 mg three times daily dose showed no additional benefit over the dimethyl fumarate delayed release capsules 240 mg twice daily dose.
+Dimethyl fumarate delayed- release capsules had a statistically significant effect on all of the endpoints described above and the 240 mg three times daily dose showed no additional benefit over the dimethyl fumarate delayed-release capsules 240 mg twice daily dose.
 The results for this study (240 mg twice a day vs. placebo) are shown in Table 2 and Figure 1.
 Table 2: Clinical and MRI Results of Study 1
 

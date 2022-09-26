@@ -1,6 +1,6 @@
 # Patient Information
 
-Patient Information Dimethyl fumarate (dye-METH-il FUE-ma-rate) delayed-release capsules What is dimethyl fumarate delayed-release capsules?
+Dimethyl fumarate (dye-METH-il FUE-ma-rate) delayed-release capsules What is dimethyl fumarate delayed-release capsules?
 
 - Dimethyl fumarate delayed-release capsules is a prescription medicine used to treat relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.
 - It is not known if dimethyl fumarate delayed-release capsules is safe and effective in children under 18 years of age.
@@ -49,9 +49,9 @@ Dimethyl fumarate delayed-release capsules may cause serious side effects includ
   - loss of appetite
   - pain on the right side of your stomach
   - have dark or brown (tea color) urine
-  - yellowing of your skin or the white part of your eyes
-  - herpes zoster infections (shingles), including central nervous system infections
-  - others serious infections
+- yellowing of your skin or the white part of your eyes
+- herpes zoster infections (shingles), including central nervous system infections
+- others serious infections
 
 The most common side effects of dimethyl fumarate delayed-release capsules include:
 
@@ -79,4 +79,7 @@ What are the ingredients in dimethyl fumarate delayed-release capsules?
 Active ingredient: dimethyl fumarate Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, methacrylic acid and ethyl acrylate copolymer dispersion, methacrylic acid and methyl methacrylate copolymer, polysorbate 80, silicified microcrystalline cellulose, sodium lauryl sulphate, talc, triethyl citrate.
 Capsule Shell: gelatin, titanium dioxide, FD&C blue 2 and iron oxide yellow.
 The imprinting ink contains following ingredients: shellac, propylene glycol, strong ammonia solution, black iron oxide, potassium hydroxide, purified water.
-Manufactured by: Alkem Laboratories Ltd. Mumbai - 400 013, INDIA Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 This Patient Information has been approved by the U.S. Food and Drug Administration Revised: June, 2020 PT 2832
+Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 This Patient Information has been approved by the U.S. Food and Drug Administration Revised: December, 2021
+
+PT2833-02

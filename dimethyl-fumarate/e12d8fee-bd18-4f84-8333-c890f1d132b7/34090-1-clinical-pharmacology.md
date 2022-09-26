@@ -48,7 +48,7 @@ Renal and fecal elimination are minor routes of elimination, accounting for 16% 
 Trace amounts of unchanged MMF were present in urine.
 
 The terminal half-life of MMF is approximately 1 hour and no circulating MMF is present at 24 hours in the majority of individuals.
-Accumulation of MMF does not occur with multiple doses of dimethyl fumarate delayed release capsules.
+Accumulation of MMF does not occur with multiple doses of dimethyl fumarate delayed-release capsules.
 
 Specific Populations
 
