@@ -1,6 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-SYNTHROID tablets are available as follows:
+SYNTHROID tablets are available as follows (Table 4):
+
+Table 4: SYNTHROID Tablet Strengths and Identifying Features
 
 | Tablet Strength | Tablet Color/Shape | Tablet Markings |
 | --- | --- | --- |

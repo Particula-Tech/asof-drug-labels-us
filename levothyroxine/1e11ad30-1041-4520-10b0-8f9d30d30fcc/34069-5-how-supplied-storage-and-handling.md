@@ -1,6 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-SYNTHROID (levothyroxine sodium, USP) tablets are supplied as follows:
+How Supplied
+
+SYNTHROID (levothyroxine sodium, USP) tablets are supplied as follows (Table 11):
+
+Table 11: SYNTHROID Tablet Presentations
 
 | Strength (mcg) | Color/Shape | Tablet Markings | NDC# for bottles of 90 | NDC # for bottles of 1000 | NDC # for unit dose cartons of 100 |
 | --- | --- | --- | --- | --- | --- |
@@ -17,9 +21,8 @@ SYNTHROID (levothyroxine sodium, USP) tablets are supplied as follows:
 | 200 | Pink/Round | “SYNTHROID” and “200” | 0074-7148-90 | 0074-7148-19 | 0074-7148-11 |
 | 300 | Green/Round | “SYNTHROID” and “300” | 0074-7149-90 | 0074-7149-19 | -- |
 
-Storage Conditions
+Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15° to 30° C (59° to 86° F)
+Store SYNTHROID at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) (see USP Controlled Room Temperature).
 
-[see USP Controlled Room Temperature].
 SYNTHROID tablets should be protected from light and moisture.

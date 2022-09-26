@@ -4,4 +4,4 @@ Thyroid hormones, including SYNTHROID, either alone or with other therapeutic ag
 
 In euthyroid patients, doses within the range of daily hormonal requirements are ineffective for weight reduction.
 
-Larger doses may produce serious or even life threatening manifestations of toxicity, particularly when given in association with sympathomimetic amines such as those used for their anorectic effects [see Adverse Reactions (6), Drug Interactions (7.7), and Overdosage (10)].
+Larger doses may produce serious or even life-threatening manifestations of toxicity, particularly when given in association with sympathomimetic amines such as those used for their anorectic effects [see Adverse Reactions (6), Drug Interactions (7.7), and Overdosage (10)].
