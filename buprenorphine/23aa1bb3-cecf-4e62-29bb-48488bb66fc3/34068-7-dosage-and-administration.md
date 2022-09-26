@@ -29,7 +29,7 @@ Healthcare providers should recognize that, as with adults, some pediatric patie
 
 ## Safety and Handling
 
-Buprenorphine hydrochloride injection is supplied in sealed cartridges and poses no known environmental risk to health care providers.
+Buprenorphine hydrochloride injection is supplied in sealed cartridges and poses no known environmental risk to healthcare providers.
 Accidental dermal exposure should be treated by removal of any contaminated clothing and rinsing the affected area with water.
 
 Buprenorphine is a potent opioid and, like all drugs of this class, has been associated with abuse and dependence among healthcare providers.

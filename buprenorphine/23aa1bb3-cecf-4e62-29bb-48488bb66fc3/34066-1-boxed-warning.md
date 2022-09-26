@@ -19,6 +19,6 @@ If opioid use is required for a prolonged period in a pregnant woman, advise the
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death [see WARNINGS, PRECAUTIONS].
 
-- Reserve concomitant prescribing of buprenorphine and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
-- Limit dosages and durations to the minimum required.
+- •Reserve concomitant prescribing of buprenorphine and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
+- •Limit dosages and durations to the minimum required.
   Follow patients for signs and symptoms of respiratory depression and sedation.
