@@ -19,9 +19,7 @@ Hospira
 
 Ten Vials Sterile Powder for Injection
 
-Rx only
-
-NDC 0409-6482-01 Contains 10 of NDC 0409-6482-11
+NDC 0409-6482-01 Rx only
 
 ERYTHROCIN™ Lactobionate - I.V.
 

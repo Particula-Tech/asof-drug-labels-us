@@ -30,13 +30,13 @@ In prophylaxis against bacterial endocarditis (See INDICATIONS AND USAGE) the or
 
 Preparation of Solution:
 
-1. PREPARE THE INITIAL SOLUTION OF ERYTHROCINTM LACTOBIONATE-IV BY ADDING 10 ML OF STERILE WATER FOR INJECTION, USP, TO THE 500 MG VIAL.
+1. 1.PREPARE THE INITIAL SOLUTION OF ERYTHROCINTM LACTOBIONATE-IV BY ADDING 10 ML OF STERILE WATER FOR INJECTION, USP, TO THE 500 MG VIAL.
    Use only Sterile Water for Injection, USP, as other diluents may cause precipitation during reconstitution.
    Do not use diluents containing preservatives or inorganic salts.
    After reconstitution, each mL contains 50 mg of erythromycin activity.
    The initial solution is stable at refrigerator temperature for two weeks, or for 24 hours at room temperature.
-2. ADD THE INITIAL DILUTION TO ONE OF THE FOLLOWING DILUENTS BEFORE ADMINISTRATION to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion: 0.9% SODIUM CHLORIDE INJECTION, USP; LACTATED RINGER'S INJECTION, USP; NORMOSOLTM-R.
-3. THE FOLLOWING SOLUTIONS MAY ALSO BE USED PROVIDING THEY ARE FIRST BUFFERED WITH NEUTTM (4% SODIUM BICARBONATE, HOSPIRA) by adding 1 mL of NeutTM per 100 mL of solution: 5% DEXTROSE INJECTION, USP 5% DEXTROSE AND LACTATED RINGER'S INJECTION 5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION, USP
+2. 2.ADD THE INITIAL DILUTION TO ONE OF THE FOLLOWING DILUENTS BEFORE ADMINISTRATION to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion: 0.9% SODIUM CHLORIDE INJECTION, USP; LACTATED RINGER'S INJECTION, USP; NORMOSOLTM-R.
+3. 3.THE FOLLOWING SOLUTIONS MAY ALSO BE USED PROVIDING THEY ARE FIRST BUFFERED WITH NEUTTM (4% SODIUM BICARBONATE, HOSPIRA) by adding 1 mL of NeutTM per 100 mL of solution: 5% DEXTROSE INJECTION, USP 5% DEXTROSE AND LACTATED RINGER'S INJECTION 5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION, USP
 
 NeutTM (4% sodium bicarbonate, Hospira) must be added to these solutions so that their pH is in the optimum range for erythromycin lactobionate stability.
 Acidic solutions of erythromycin lactobionate are unstable and lose their potency rapidly.
