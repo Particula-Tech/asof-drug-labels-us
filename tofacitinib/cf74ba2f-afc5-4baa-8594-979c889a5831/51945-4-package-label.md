@@ -88,11 +88,11 @@ Xeljanz® (tofacitinib) oral solution
 
 Contents:
 
-- Oral solution bottle
-- 1 Oral dosing syringe
-- 1 Press-in bottle adapter
-- Prescribing Information
-- Medication Guide
-- Instructions for Use
+- •Oral solution bottle
+- •1 Oral dosing syringe
+- •1 Press-in bottle adapter
+- •Prescribing Information
+- •Medication Guide
+- •Instructions for Use
 
 240 mL Rx only

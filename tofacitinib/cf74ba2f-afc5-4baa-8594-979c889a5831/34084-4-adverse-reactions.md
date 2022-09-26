@@ -2,14 +2,14 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Serious Infections [see Warnings and Precautions (5.1)]
-- Mortality [see Warnings and Precautions (5.2)]
-- Malignancy and Lymphoproliferative Disorders [see Warnings and Precautions (5.3)]
-- Major Adverse Cardiovascular Events [see Warnings and Precautions (5.4)]
-- Thrombosis [see Warnings and Precautions (5.5)]
-- Gastrointestinal Perforations [see Warnings and Precautions (5.6)]
-- Hypersensitivity [see Warnings and Precautions (5.7)]
-- Laboratory Abnormalities [see Warnings and Precautions (5.8)]
+- •Serious Infections [see Warnings and Precautions (5.1)]
+- •Mortality [see Warnings and Precautions (5.2)]
+- •Malignancy and Lymphoproliferative Disorders [see Warnings and Precautions (5.3)]
+- •Major Adverse Cardiovascular Events [see Warnings and Precautions (5.4)]
+- •Thrombosis [see Warnings and Precautions (5.5)]
+- •Gastrointestinal Perforations [see Warnings and Precautions (5.6)]
+- •Hypersensitivity [see Warnings and Precautions (5.7)]
+- •Laboratory Abnormalities [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -119,9 +119,9 @@ Lipid Elevations
 In the placebo-controlled clinical trials, dose-related elevations in lipid parameters (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides) were observed at one month of exposure and remained stable thereafter.
 Changes in lipid parameters during the first 3 months of exposure in the placebo-controlled clinical trials are summarized below:
 
-- Mean LDL cholesterol increased by 15% in the XELJANZ 5 mg twice daily arm and 19% in the XELJANZ 10 mg twice daily arm.
-- Mean HDL cholesterol increased by 10% in the XELJANZ 5 mg twice daily arm and 12% in the XELJANZ 10 mg twice daily arm.
-- Mean LDL/HDL ratios were essentially unchanged in XELJANZ-treated patients.
+- •Mean LDL cholesterol increased by 15% in the XELJANZ 5 mg twice daily arm and 19% in the XELJANZ 10 mg twice daily arm.
+- •Mean HDL cholesterol increased by 10% in the XELJANZ 5 mg twice daily arm and 12% in the XELJANZ 10 mg twice daily arm.
+- •Mean LDL/HDL ratios were essentially unchanged in XELJANZ-treated patients.
 
 In a placebo-controlled clinical trial, elevations in LDL cholesterol and ApoB decreased to pretreatment levels in response to statin therapy.
 

@@ -13,8 +13,8 @@ Ask your healthcare provider or pharmacist to show you how to measure your presc
 
 How should I store XELJANZ?
 
-- Store XELJANZ Oral Solution at room temperature between 68°F to 77°F (20°C to 25°C).
-- Always store XELJANZ Oral Solution in the original bottle and carton to protect from light.
+- •Store XELJANZ Oral Solution at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Always store XELJANZ Oral Solution in the original bottle and carton to protect from light.
 
 Keep XELJANZ and all medicines out of the reach of children.
 
@@ -31,9 +31,9 @@ Wash your hands with soap and water and place the items from the carton on a cle
 
 Each carton of XELJANZ Oral Solution contains:
 
-- 1 press-in bottle adapter
-- 1 bottle of XELJANZ Oral Solution
-- 1 oral dosing syringe
+- •1 press-in bottle adapter
+- •1 bottle of XELJANZ Oral Solution
+- •1 oral dosing syringe
 
 Step 1.
 Remove bottle from carton

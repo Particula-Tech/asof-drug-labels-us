@@ -9,12 +9,12 @@ If a serious infection develops, interrupt XELJANZ/XELJANZ XR/XELJANZ Oral Solut
 
 Reported infections include:
 
-- Active tuberculosis, which may present with pulmonary or extrapulmonary disease.
+- •Active tuberculosis, which may present with pulmonary or extrapulmonary disease.
   Patients should be tested for latent tuberculosis before XELJANZ/XELJANZ XR/XELJANZ Oral Solution use and during therapy.
   Treatment for latent infection should be initiated prior to XELJANZ/XELJANZ XR/XELJANZ Oral Solution use.
-- Invasive fungal infections, including cryptococcosis and pneumocystosis.
+- •Invasive fungal infections, including cryptococcosis and pneumocystosis.
   Patients with invasive fungal infections may present with disseminated, rather than localized, disease.
-- Bacterial, viral, including herpes zoster, and other infections due to opportunistic pathogens.
+- •Bacterial, viral, including herpes zoster, and other infections due to opportunistic pathogens.
 
 The risks and benefits of treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
 
