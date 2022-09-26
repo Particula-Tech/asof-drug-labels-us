@@ -17,7 +17,7 @@ An estimated total of 1557 adult patients received mycophenolate mofetil during 
 Of these, 991 were included in the three renal studies, 277 were included in one hepatic study, and 289 were included in one cardiac study.
 Patients in all study arms also received cyclosporine and corticosteroids.
 
-The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2,14.3)].
+The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2, and 14.3)].
 
 Mycophenolate Mofetil Oral:
 
