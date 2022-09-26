@@ -91,6 +91,7 @@ Especially tell your doctor if you take:
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 - rifampin (used to treat severe infections)
+- other antiplatelet agents
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.

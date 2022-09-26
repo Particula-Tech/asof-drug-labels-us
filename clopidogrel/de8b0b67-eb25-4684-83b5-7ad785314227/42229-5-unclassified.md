@@ -1,6 +1,6 @@
 Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
-Revised: March 2021
+Revised: September 2022
 
 Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 

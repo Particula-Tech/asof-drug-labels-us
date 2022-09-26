@@ -19,6 +19,8 @@ Because the half-life of clopidogrel's active metabolite is short, it may be pos
 Use of drugs that induce the activity of CYP2C19 would be expected to result in increased drug levels of the active metabolite of clopidogrel and might potentiate the bleeding risk.
 As a precaution, avoid concomitant use of strong CYP2C19 inducers [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
+Risk factors for bleeding include concomitant use of other drugs that increase the risk of bleeding (e.g., anticoagulants, antiplatelet agents, and chronic use of NSAIDs) [see Drug Interactions (7.4, 7.5, 7.6, 7.7)].
+
 ## 5.3 Discontinuation of Plavix
 
 Discontinuation of Plavix increases the risk of cardiovascular events.

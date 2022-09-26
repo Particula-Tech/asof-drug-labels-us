@@ -38,7 +38,12 @@ However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 
 Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) affect platelet activation, the concomitant administration of SSRIs and SNRIs with clopidogrel may increase the risk of bleeding.
 
-## 7.7 Repaglinide (CYP2C8 Substrates)
+## 7.7 Other Antiplatelet Agents
+
+Coadministration of antiplatelet agents increase the risk of bleeding due to an additive effect.
+Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with other antiplatelet agents [see Warnings and Precautions (5.2)].
+
+## 7.8 Repaglinide (CYP2C8 Substrates)
 
 The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
 Plavix can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose adjustment and appropriate monitoring.
