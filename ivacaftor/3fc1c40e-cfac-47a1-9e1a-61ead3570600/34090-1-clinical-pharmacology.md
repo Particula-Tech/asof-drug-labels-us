@@ -108,12 +108,12 @@ Pediatric Patients
 
 The following conclusions about exposures between adults and the pediatric population are based on population pharmacokinetics (PK) analyses:
 
-Table 5: Mean (SD) lumacaftor and ivacaftor exposure by age group
+Table 5: Mean (SD) Lumacaftor and Ivacaftor Exposure by Age Group
 
-| Age Group | Weight | Dose | Mean lumacaftor (SD)The mean lumacaftor (SD) AUCss is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets AUCss (µg∙h/mL) | Mean ivacaftor (SD)The mean lumacaftor (SD) AUCss is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets AUCss (µg∙h/mL) |
+| Age Group | Weight | Dose | Mean Lumacaftor (SD)The mean lumacaftor (SD) AUCss is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets. AUCss (µg∙h/mL) | Mean Ivacaftor (SD)The mean lumacaftor (SD) AUCss is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets. AUCss (µg∙h/mL) |
 | --- | --- | --- | --- | --- |
 | Patients aged 1 to <2 years | 7 kg to <9 kg | lumacaftor 75 mg/ivacaftor 94 mg every 12 hr. | 234 | 7.98 |
-| 9 kg to < 14 kg | lumacaftor 100 mg/ivacaftor 125 mg every 12 hr. | 191 (40.6) | 5.35 (1.61) |  |
+| 9 kg to <14 kg | lumacaftor 100 mg/ivacaftor 125 mg every 12 hr. | 191 (40.6) | 5.35 (1.61) |  |
 | ≥14 kg | lumacaftor 150 mg/ivacaftor 188 mg every 12 hr. | 116 | 5.82 |  |
 | Patients aged 2 through 5 years | <14 kg | lumacaftor 100 mg/ivacaftor 125 mg every 12 hr. | 180 (45.5) | 5.92 (4.61) |
 | ≥14 kg | lumacaftor 150 mg/ivacaftor 188 mg every 12 hr. | 217 (48.6) | 5.90 (1.93) |  |
@@ -172,4 +172,4 @@ Table 6: Impact of Other Drugs on Lumacaftor 200 mg q12h/Ivacaftor 250 mg q12h
 | ↓ Ivacaftor | 0.43 (0.38, 0.49) | 0.50 (0.43, 0.58) |  |  |
 | Other: ciprofloxacin | 750 mg q12h | ↔ Lumacaftor | 0.86 (0.79, 0.95) | 0.88 (0.80, 0.97) |
 | ↔ Ivacaftor | 1.29 (1.12, 1.48) | 1.29 (1.11, 1.49) |  |  |
-| CI = Confidence interval; PK = Pharmacokinetics. |  |  |  |  |
+| CI = Confidence Interval; PK = Pharmacokinetics. |  |  |  |  |

@@ -11,7 +11,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The overall safety profile of ORKAMBI is based on the pooled data from 1108 patients with CF 12 years and older who are homozygous for the F508del mutation in the CFTR gene and who received at least one dose of study drug in 2 double-blind, placebo-controlled, Phase 3 clinical trials, each with 24 weeks of treatment (Trials 1 and 2).
+The overall safety profile of ORKAMBI is based on the pooled data from 1108 patients with CF 12 years and older who are homozygous for the F508del mutation in the CFTR gene and who received at least one dose of study drug in two double-blind, placebo-controlled, Phase 3 clinical trials, each with 24 weeks of treatment (Trials 1 and 2).
 
 In addition, the following clinical trials have been conducted:
 
@@ -52,25 +52,25 @@ Adverse reactions that are not listed in Table 3, and that occurred in ≥5% of 
 
 In a 24-week, open-label, multicenter, study in 60 patients aged 2 through 5 years with CF who are homozygous for the F508del-CFTR mutation (Trial 6) the safety profile was similar to that observed in studies in patients aged 6 years and older [see Clinical Pharmacology (12.2)].
 
-In a 24-week, open-label, multicenter study in 46 patients aged 1 through 2 years with CF who are homozygous for the F508del-CFTR mutation (Trial 7) the safety profile was similar to that observed in studies in patients aged 2 years and older [see Clinical Pharmacology (12.2)].
+In a 24-week, open-label, multicenter, study in 46 patients aged 1 through 2 years with CF who are homozygous for the F508del-CFTR mutation (Trial 7) the safety profile was similar to that observed in studies in patients aged 2 years and older [see Clinical Pharmacology (12.2)].
 
-Additional information on selected adverse reactions from trials is detailed below.
+Additional information on selected adverse reactions from trials is detailed below:
 
 Description of Selected Adverse Drug Reactions
 
 Liver-related Adverse Reactions
 
 In Trials 1 and 2, the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN elevations was similar between patients treated with ORKAMBI and those who received placebo.
-Three patients who received ORKAMBI had liver-related serious adverse reactions, including 2 reported as transaminase elevations and 1 as hepatic encephalopathy, compared to none in the placebo group.
+Three patients who received ORKAMBI had liver-related serious adverse reactions, including two reported as transaminase elevations and one as hepatic encephalopathy, compared to none in the placebo group.
 Of these three, one had elevated transaminases (>3 × ULN) associated with bilirubin elevation >2 × ULN.
 Following discontinuation or interruption of ORKAMBI, transaminases decreased to <3 × ULN.
 
-Among 6 patients with pre-existing cirrhosis and/or portal hypertension who received ORKAMBI, worsening liver function with increased ALT, AST, bilirubin, and hepatic encephalopathy was observed in one patient.
-The event occurred within 5 days of the start of dosing and resolved following discontinuation of ORKAMBI [see Warnings and Precautions (5.1, 5.2)].
+Among six patients with pre-existing cirrhosis and/or portal hypertension who received ORKAMBI, worsening liver function with increased ALT, AST, bilirubin, and hepatic encephalopathy was observed in one patient.
+The event occurred within five days of the start of dosing and resolved following discontinuation of ORKAMBI [see Warnings and Precautions (5.1, 5.2)].
 
-During the 24-week, open-label clinical trial in 58 patients aged 6 through 11 years (Trial 3), the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN was 5%, 9%, and 19%.
+During the 24-week, open-label, clinical trial in 58 patients aged 6 through 11 years (Trial 3), the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN was 5%, 9%, and 19%.
 No patients had total bilirubin levels >2 × ULN.
-Lumacaftor/ivacaftor dosing was maintained or successfully resumed after interruption in all patients with transaminase elevations, except 1 patient who discontinued treatment permanently.
+Lumacaftor/ivacaftor dosing was maintained or successfully resumed after interruption in all patients with transaminase elevations, except one patient who discontinued treatment permanently.
 
 During the 24-week, placebo-controlled, clinical trial in 204 patients aged 6 through 11 years (Trial 4), the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN was 1%, 5%, and 13% in the lumacaftor/ivacaftor patients, and 2%, 3%, and 8% in the placebo treated patients.
 No patients had total bilirubin levels >2 × ULN.
@@ -92,7 +92,7 @@ In patients treated with ORKAMBI, the majority of the events began during the fi
 
 During a 24-week, open-label, clinical trial in 46 patients aged 12 years and older (Trial 5) with advanced lung disease (ppFEV1 <40) [mean ppFEV1 29.1 at baseline (range: 18.3 to 42.0)], the incidence of respiratory symptom-related adverse reactions was 65% [see Warnings and Precautions (5.3)].
 
-During the 24-week, open-label clinical trial (Trial 3) in 58 patients aged 6 through 11 years (mean baseline ppFEV1 was 91.4), the incidence of respiratory symptom-related adverse reactions was 3% (2/58).
+During the 24-week, open-label, clinical trial (Trial 3) in 58 patients aged 6 through 11 years (mean baseline ppFEV1 was 91.4), the incidence of respiratory symptom-related adverse reactions was 3% (2/58).
 
 During the 24-week, placebo-controlled, clinical trial (Trial 4) in patients aged 6 through 11 years (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]), the incidence of respiratory symptom-related adverse reactions was 11% in lumacaftor/ivacaftor patients and 9% in placebo patients.
 A decline in ppFEV1 at initiation of therapy was observed during serial post-dose spirometry assessments.

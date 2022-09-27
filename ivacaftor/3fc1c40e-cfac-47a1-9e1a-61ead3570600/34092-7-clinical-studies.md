@@ -33,7 +33,7 @@ Improvements in ppFEV1 were observed regardless of age, disease severity, sex, a
 
 | Figure 1. Absolute Change From Baseline at Each Visit in Percent Predicted FEV1 in Trial 1 and Trial 2. |  |
 | --- | --- |
-| LS = least squares; q12h = every 12 hours |  |
+| LS = Least Squares; q12h = every 12 hours |  |
 
 Key secondary efficacy variables included relative change from baseline in ppFEV1 at Week 24, assessed as the average of the treatment effects at Week 16 and at Week 24; absolute change from baseline in BMI at Week 24; absolute change from baseline in Cystic Fibrosis Questionnaire-Revised (CFQ-R) Respiratory Domain score at Week 24, a measure of respiratory symptoms relevant to patients with CF such as cough, sputum production, and difficulty breathing; proportion of patients achieving ≥5% relative change from baseline in ppFEV1 using the average of Week 16 and Week 24; and number of pulmonary exacerbations through Week 24.
 For the purposes of these trials, a pulmonary exacerbation was defined as a change in antibiotic therapy (IV, inhaled, or oral) as a result of 4 or more of 12 pre-specified sino-pulmonary signs/symptoms.

@@ -93,7 +93,7 @@ Avoid concomitant use unless the benefit outweighs the risks.
 
 ## 7.12 Oral Hypoglycemics
 
-Concomitant use of ORKAMBI may reduce the exposure and effectiveness of repaglinide, and may alter the exposure of sulfonylurea.
+Concomitant use of ORKAMBI may reduce the exposure and effectiveness of repaglinide and may alter the exposure of sulfonylurea.
 A dose adjustment may be required to obtain the desired clinical effect.
 No dose adjustment is recommended for metformin.
 

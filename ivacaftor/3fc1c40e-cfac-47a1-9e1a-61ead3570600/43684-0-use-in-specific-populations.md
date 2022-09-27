@@ -62,10 +62,10 @@ Hormonal contraceptives, including oral, injectable, transdermal, and implantabl
 The safety and effectiveness of ORKAMBI in pediatric patients one year of age and older have been established.
 Use of ORKAMBI in these age groups is supported by evidence from adequate and well-controlled studies of ORKAMBI in patients 12 years of age and older [see Clinical Studies (14) and Adverse Reactions (6.1)] with additional data as follows:
 
-- extrapolation of efficacy in patients aged 12 years and older homozygous for the F508del mutation in the CFTR gene to pediatric patients aged 1 through 11 years with support from population pharmacokinetic analyses showing similar drug exposure levels in patients aged 12 years and older and in patients aged 1 through 11 years [see Clinical Pharmacology (12.3)].
+- Extrapolation of efficacy in patients aged 12 years and older homozygous for the F508del mutation in the CFTR gene to pediatric patients aged 1 through 11 years with support from population pharmacokinetic analyses showing similar drug exposure levels in patients aged 12 years and older and in patients aged 1 through 11 years [see Clinical Pharmacology (12.3)].
 - Safety data were obtained from a 24-week, open-label, clinical trial in 58 patients aged 6 through 11 years, mean age 9 years (Trial 3) and a 24-week, placebo-controlled, clinical trial in 204 patients aged 6 through 11 years (Trial 4).
   Trial 3 evaluated subjects with a screening ppFEV1 ≥40 [mean ppFEV1 91.4 at baseline (range: 55 to 122.7)].
-  Trial 4 evaluated subjects with a screening ppFEV1 ≥ 70 (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]).
+  Trial 4 evaluated subjects with a screening ppFEV1 ≥70 [mean ppFEV1 89.8 at baseline (range: 48.6 to 119.6)].
   The safety profile of ORKAMBI in pediatric patients 6 through 11 years of age was similar to that in patients 12 years and older [see Adverse Reactions (6.1)].
   In Trial 3, spirometry (ppFEV1) was assessed as a planned safety endpoint.
   The within-group LS mean absolute change from baseline in ppFEV1 at Week 24 was 2.5 percentage points.
@@ -93,7 +93,7 @@ Clinical trials of ORKAMBI did not include sufficient numbers of patients 65 yea
 
 ## 8.6 Hepatic Impairment
 
-No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A dose reduction to 2 tablets in the morning and 1 tablet in the evening is recommended for patients aged 6 years and older with moderate hepatic impairment (Child-Pugh Class B). A dose reduction to 1 packet of oral granules in the morning daily and 1 packet of oral granules in the evening every other day is recommended for patients aged 2 to 5 years old with moderate hepatic impairment (Child-Pugh Class B).
+No dose adjustment is necessary for patients with mild hepatic impairment (Child-Pugh Class A). A dose reduction to 2 tablets in the morning and 1 tablet in the evening is recommended for patients aged 6 years and older with moderate hepatic impairment (Child-Pugh Class B). A dose reduction to 1 packet of oral granules in the morning daily and 1 packet of oral granules in the evening every other day is recommended for patients aged 1 to 5 years old with moderate hepatic impairment (Child-Pugh Class B).
 
 Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
 Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 tablet in the evening or less frequently, or 1 packet of oral granules once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Warnings and Precautions (5.1), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
@@ -102,7 +102,7 @@ Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 t
 
 ORKAMBI has not been studied in patients with mild, moderate, or severe renal impairment or in patients with end-stage renal disease.
 No dose adjustment is necessary for patients with mild to moderate renal impairment.
-Caution is recommended while using ORKAMBI in patients with severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or end-stage renal disease.
+Caution is recommended while using ORKAMBI in patients with severe renal impairment (creatinine clearance ≤30 mL/min) or end-stage renal disease.
 
 ## 8.8 Patients with Severe Lung Dysfunction
 

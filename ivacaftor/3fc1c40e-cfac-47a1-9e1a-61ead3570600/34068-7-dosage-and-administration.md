@@ -64,7 +64,7 @@ Table 2: Recommended Dosage for Patients with Hepatic Impairment
 | Severe (Child-Pugh Class C) | 1 through 2 years | 7 kg to <9 kg | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg oral granules or less frequently. | N/A |
 | 9 kg to <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |  |  |  |
 | ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules |  |  |  |
-| 2 through 5 years | <14kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |  |  |
+| 2 through 5 years | <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |  |  |
 | ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules |  |  |  |
 | 6 through 11 years | - | 1 tablet of lumacaftor 100 mg/ivacaftor 125 mg | 1 tablet of lumacaftor 100 mg/ivacaftor 125 mg |  |
 | 12 years and older | - | 1 tablet of lumacaftor 200 mg/ivacaftor 125 mg | 1 tablet of lumacaftor 200 mg/ivacaftor 125 mg |  |
@@ -79,7 +79,7 @@ However, when initiating ORKAMBI in patients currently taking strong CYP3A inhib
 
 Following this one-week period, resume the recommended daily dosage.
 
-If ORKAMBI is interrupted for more than 1 week and then re-initiated while taking strong CYP3A inhibitors, reduce the ORKAMBI dosage for the first week of treatment re-initiation based on age as follows:
+If ORKAMBI is interrupted for more than 1-week and then re-initiated while taking strong CYP3A inhibitors, reduce the ORKAMBI dosage for the first week of treatment re-initiation based on age as follows:
 
 - 1 through 5 years of age: 1 packet of granules every other day
 - 6 years of age and older: 1 tablet daily

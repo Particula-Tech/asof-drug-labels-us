@@ -5,8 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Advanced Liver Disease
 
 Inform patients that worsening of liver function, including hepatic encephalopathy, in patients with advanced liver disease occurred in some patients treated with ORKAMBI.
-Liver function decompensation, including liver failure leading to death, has been reported in CF patients with pre-existing cirrhosis with portal hypertension while receiving ORKAMBI.
-[see Warnings and Precautions (5.1)].
+Liver function decompensation, including liver failure leading to death, has been reported in CF patients with pre-existing cirrhosis with portal hypertension while receiving ORKAMBI [see Warnings and Precautions (5.1)].
 
 Abnormalities in Liver Function and Testing
 
@@ -25,7 +24,7 @@ Inform patients that increased blood pressure has been observed in some patients
 Drug Interactions with CYP3A Inhibitors and Inducers
 
 - Advise patients to inform their healthcare providers of all concomitant medications, herbal and dietary supplements.
-  Advise patients to avoid grapefruit products during the first week after treatment initiation with ORKAMBI [see Dosage and Administration (2.3), Warnings and Precautions (5.5) and Drug Interactions (7)].
+  Advise patients to avoid grapefruit products during the first week after treatment initiation with ORKAMBI [see Dosage and Administration (2.3), Warnings and Precautions (5.5), and Drug Interactions (7)].
 - Instruct post-menarchal patients including females of reproductive potential on alternative methods of birth control because hormonal contraceptives should not be relied upon as an effective method of contraception.
   ORKAMBI may decrease the effectiveness of hormonal contraceptives and there is an increased incidence of menstruation-related adverse reactions when co-administered with ORKAMBI [see Warnings and Precautions (5.5), Adverse Reactions (6.1), and Drug Interactions (7.11)].
 
