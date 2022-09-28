@@ -43,11 +43,11 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2021 ViiV Healthcare group of companies or its licensor.
+©2022 ViiV Healthcare group of companies or its licensor.
 
-SEL:15PI
+SEL:16PI
 
 PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
 

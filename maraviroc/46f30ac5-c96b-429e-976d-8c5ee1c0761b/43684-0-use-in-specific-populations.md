@@ -47,7 +47,7 @@ HIV-1–Infected Pediatric Patients Aged 2 to Less Than 18 Years: The safety, ph
 Pharmacokinetics were evaluated in a total of 98 pediatric subjects: 85 subjects received SELZENTRY and concomitant medications that included potent CYP3A inhibitors with or without potent CYP3A inducers, 10 subjects received SELZENTRY and noninteracting medications (not containing potent CYP3A inhibitors or potent CYP3A inducers), and three subjects received SELZENTRY and medications that included potent CYP3A inducers without potent CYP3A inhibitors [see Clinical Pharmacology (12.3)].
 
 HIV-1–Infected Pediatric Patients Aged Older Than 6 Weeks to Less Than 2 Years: No clinical trials have been conducted in children aged older than 6 weeks to less than 2 years.
-Dosing recommendations for SELZENTRY in this population when concomitantly receiving noninteracting medications are based on population pharmacokinetic modeling and simulation only [see Dosage and Recommendations (2.4), Clinical Pharmacology (12.3)].
+Dosing recommendations for SELZENTRY in this population when concomitantly receiving noninteracting medications are based on population pharmacokinetic modeling and simulation only [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 HIV-1–Infected Neonates Aged from Birth to 6 Weeks: The recommendation of SELZENTRY for the treatment of HIV-1 infection in this pediatric population is based on safety and pharmacokinetic data obtained from clinical trial IMPAACT P2007.
 In IMPAACT P2007, the safety and pharmacokinetic profiles of SELZENTRY were evaluated in full-term HIV-1–exposed neonates (born to HIV-1–infected mothers) aged from birth through 6 weeks [see Adverse Reactions (6.1)].
