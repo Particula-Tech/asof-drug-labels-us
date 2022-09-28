@@ -11,7 +11,7 @@ The recommended dosage when Avastin is administered in combination with intraven
 
 - 5 mg/kg intravenously every 2 weeks in combination with bolus-IFL.
 - 10 mg/kg intravenously every 2 weeks in combination with FOLFOX4.
-- 5 mg/kg intravenously every 2 weeks or 7.5 mg/kg intravenously every 3 weeks in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy in patients who have progressed on a first-line Avastin-containing regimen.
+- 5 mg/kg intravenously every 2 weeks or 7.5 mg/kg intravenously every 3 weeks in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy in patients who have progressed on a first-line bevacizumab product-containing regimen.
 
 ## 2.3 First-Line Non-Squamous Non-Small Cell Lung Cancer
 
@@ -92,7 +92,7 @@ Preparation
 - Withdraw necessary amount of Avastin and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 - Discard any unused portion left in a vial, as the product contains no preservatives.
-- Store diluted Avastin solution at 2°C to 8°C (36°F to 46°F) for up to 8 hours.
+- Diluted Avastin solution may be stored at 2°C to 8°C (36°F to 46°F) for up to 8 hours, if not used immediately.
 - No incompatibilities between Avastin and polyvinylchloride or polyolefin bags have been observed.
 
 Administration

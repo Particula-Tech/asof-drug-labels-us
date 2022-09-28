@@ -111,7 +111,7 @@ Data from a postmarketing safety study showed poor correlation between UPCR (Uri
 
 ## 5.9 Infusion-Related Reactions
 
-Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, chest pain, headaches, rigors, and diaphoresis.
+Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, anaphylactoid/anaphylactic reactions, chest pain, headaches, rigors, and diaphoresis.
 In clinical studies, infusion-related reactions with the first dose occurred in < 3% of patients and severe reactions occurred in 0.4% of patients.
 
 Decrease the rate of infusion for mild, clinically insignificant infusion-related reactions.

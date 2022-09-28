@@ -1,25 +1,25 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Gastrointestinal Perforations and Fistulae: Avastin may increase the risk of developing gastrointestinal perforations and fistulae.
-Advise patients to immediately contact their health care provider for high fever, rigors, persistent or severe abdominal pain, severe constipation, or vomiting [see Warnings and Precautions (5.1)].
+Advise patients to immediately contact their healthcare provider for high fever, rigors, persistent or severe abdominal pain, severe constipation, or vomiting [see Warnings and Precautions (5.1)].
 
 Surgery and Wound Healing Complications: Avastin can increase the risk of wound healing complications.
 Instruct patients not to undergo surgery without first discussing this potential risk with their healthcare provider [see Warnings and Precautions (5.2)].
 
 Hemorrhage: Avastin can increase the risk of hemorrhage.
-Advise patients to immediately contact their health care provider for signs and symptoms of serious or unusual bleeding including coughing or spitting blood [see Warnings and Precautions (5.3)].
+Advise patients to immediately contact their healthcare provider for signs and symptoms of serious or unusual bleeding including coughing or spitting blood [see Warnings and Precautions (5.3)].
 
 Arterial and Venous Thromboembolic Events: Avastin increases the risk of arterial and venous thromboembolic events.
-Advise patients to immediately contact their health care provider for signs and symptoms of arterial or venous thromboembolism [see Warnings and Precautions (5.4, 5.5)].
+Advise patients to immediately contact their healthcare provider for signs and symptoms of arterial or venous thromboembolism [see Warnings and Precautions (5.4, 5.5)].
 
 Hypertension: Avastin can increase blood pressure.
 Advise patients that they will undergo routine blood pressure monitoring and to contact their healthcare provider if they experience changes in blood pressure [see Warnings and Precautions (5.6)].
 
 Posterior Reversible Leukoencephalopathy Syndrome: Posterior reversible encephalopathy syndrome (PRES) has been associated with Avastin treatment.
-Advise patients to immediately contact their health care provider for new onset or worsening neurological function [see Warnings and Precautions (5.7)].
+Advise patients to immediately contact their healthcare provider for new onset or worsening neurological function [see Warnings and Precautions (5.7)].
 
 Renal Injury and Proteinuria: Avastin increases the risk of proteinuria and renal injury, including nephrotic syndrome.
-Advise patients that treatment with Avastin requires regular monitoring of renal function and to contact their health care provider for proteinuria or signs and symptoms of nephrotic syndrome [see Warnings and Precautions (5.8)].
+Advise patients that treatment with Avastin requires regular monitoring of renal function and to contact their healthcare provider for proteinuria or signs and symptoms of nephrotic syndrome [see Warnings and Precautions (5.8)].
 
 Infusion-Related Reactions: Avastin can cause infusion-related reactions.
 Advise patients to contact their healthcare provider immediately for signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.9)].

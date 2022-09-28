@@ -53,7 +53,7 @@ After discontinuing Avastin with chemotherapy, recovery of ovarian function occu
 
 The safety and effectiveness of Avastin in pediatric patients have not been established.
 
-In published literature reports, cases of non-mandibular osteonecrosis have been observed in patients under the age of 18 years who have received Avastin.
+In published literature reports, cases of non-mandibular osteonecrosis have been observed in patients under the age of 18 years who received Avastin.
 Avastin is not approved for use in patients under the age of 18 years.
 
 Antitumor activity was not observed among eight pediatric patients with relapsed GBM who received bevacizumab and irinotecan.

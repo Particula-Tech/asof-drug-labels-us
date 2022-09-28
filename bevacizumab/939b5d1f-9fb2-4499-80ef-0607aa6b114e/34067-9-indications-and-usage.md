@@ -4,7 +4,7 @@
 
 Avastin, in combination with intravenous fluorouracil-based chemotherapy, is indicated for the first-or second-line treatment of patients with metastatic colorectal cancer (mCRC).
 
-Avastin, in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy, is indicated for the second-line treatment of patients with mCRC who have progressed on a first-line Avastin-containing regimen.
+Avastin, in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy, is indicated for the second-line treatment of patients with mCRC who have progressed on a first-line bevacizumab product-containing regimen.
 
 Limitations of Use: Avastin is not indicated for adjuvant treatment of colon cancer [see Clinical Studies (14.2)].
 

@@ -216,7 +216,7 @@ The main outcome measure was OS.
 Secondary outcome measures included ORR.
 
 The median age was 48 years (20 to 85 years).
-Of the 452 patients randomized at baseline, 78% of patients were White, 80% had received prior radiation, 74% had received prior chemotherapy concurrent with radiation, and 32% had a platinum-free interval of less than 6 months.
+Of the 452 patients randomized at baseline, 78% of patients were White, 80% had received prior radiation, 74% had received prior chemotherapy concurrent with radiation, and 32% had a platinum-free interval (PFI) of less than 6 months.
 Patients had a GOG performance status of 0 (58%) or 1 (42%).
 Demographic and disease characteristics were balanced across arms.
 
@@ -304,7 +304,7 @@ Secondary outcome measures were ORR and OS.
 
 The median age was 61 years (25 to 84 years) and 37% of patients were ≥65 years.
 Seventy-nine percent had measurable disease at baseline, 87% had baseline CA-125 levels ≥2 times ULN and 31% had ascites at baseline.
-Seventy-three percent had a platinum-free interval (PFI) of 3 months to 6 months and 27% had PFI of <3 months.
+Seventy-three percent had a PFI of 3 months to 6 months and 27% had PFI of <3 months.
 ECOG performance status was 0 for 59%, 1 for 34% and 2 for 7% of the patients.
 
 The addition of Avastin to chemotherapy demonstrated a statistically significant improvement in investigator-assessed PFS, which was supported by a retrospective independent review analysis.
@@ -446,33 +446,33 @@ Table 20: Efficacy Results from IMbrave150
 
 |  | Avastin in combination with Atezolizumab (N= 336) | Sorafenib (N=165) |
 | --- | --- | --- |
-| Overall Survival |  |  |
+|  | Overall Survival |  |
 | Number of deaths (%) | 96 (29) | 65 (39) |
 | Median OS in months (95% CI) | NE (NE, NE) | 13.2 (10.4, NE) |
 | Hazard ratioStratified by geographic region (Asia excluding Japan vs. rest of world), macrovascular invasion and/or extrahepatic spread (presence vs. absence), and baseline AFP (<400 vs. ≥400 ng/mL) (95% CI) | 0.58 (0.42, 0.79) |  |
 | p-valueBased on two-sided stratified log-rank test; as compared to significance level 0.004 (2-sided) based on 161/312=52% information using the OBF method | 0.0006 |  |
-| Progression-Free SurvivalPer independent radiology review |  |  |
+|  | Progression-Free SurvivalPer independent radiology review |  |
 | Number of events(%) | 197 (59) | 109 (66) |
 | Median PFS in months (95% CI) | 6.8 (5.8, 8.3) | 4.3 (4.0, 5.6) |
 | Hazard ratio (95% CI) | 0.59 (0.47, 0.76) |  |
 | p-value | <0.0001 |  |
-| Overall Response Rate,Confirmed responses (ORR), RECIST 1.1 |  |  |
+|  | Overall Response Rate,Confirmed responses (ORR), RECIST 1.1 |  |
 | Number of responders (%) | 93 (28) | 19 (12) |
 | (95% CI) | (23, 33) | (7,17) |
 | p-valueBased on two-sided Cochran-Mantel-Haesnszel test | <0.0001 |  |
 | Complete responses, n (%) | 22 (7) | 0 |
 | Partial responses, n (%) | 71 (21) | 19 (12) |
-| Duration of Response, (DOR) RECIST 1.1 |  |  |
+|  | Duration of Response, (DOR) RECIST 1.1 |  |
 |  | (n=93) | (n=19) |
 | Median DOR in months (95% CI) | NE (NE, NE) | 6.3 (4.7, NE) |
 | Range (months) | (1.3Denotes a censored value, 13.4) | (1.4, 9.1) |
-| Overall Response Rate, (ORR), HCC mRECIST |  |  |
+|  | Overall Response Rate, (ORR), HCC mRECIST |  |
 | Number of responders (%) | 112 (33) | 21 (13) |
 | (95% CI) | (28, 39) | (8, 19) |
 | p-value | <0.0001 |  |
 | Complete responses, n (%) | 37 (11) | 3 (1.8) |
 | Partial responses, n (%) | 75 (22) | 18 (11) |
-| Duration of Response, (DOR) HCC mRECIST |  |  |
+|  | Duration of Response, (DOR) HCC mRECIST |  |
 |  | (n=112) | (n=21) |
 | Median DOR in months (95% CI) | NE (NE, NE) | 6.3 (4.9, NE) |
 | Range (months) | (1.3, 13.4) | (1.4, 9.1) |
