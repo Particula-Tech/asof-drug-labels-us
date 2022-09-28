@@ -17,9 +17,9 @@ Headache response was based on pain intensity as interpreted by the patient usin
 
 |  |  | N | 2 hours | 4 hours |
 | --- | --- | --- | --- | --- |
-| Study 1 | MIGRANAL | 105 | 61%p value <0.001 | 70% |
+| Study 1 | MIGRANAL | 105 | 61%p value < 0.001 | 70% |
 |  | Placebo | 98 | 23% | 28% |
-| Study 2 | MIGRANAL | 103 | 47% | 56%p value <0.01 |
+| Study 2 | MIGRANAL | 103 | 47% | 56%p value < 0.01 |
 |  | Placebo | 102 | 33% | 35% |
 
 Table 2: Studies 3 and 4: Percentage of Patients with Headache ResponseHeadache response was defined as a reduction in headache severity to mild or no pain.
@@ -28,7 +28,7 @@ Headache response was evaluated on a five-point scale that included both pain re
 
 |  |  | N | 2 hours | 4 hours |
 | --- | --- | --- | --- | --- |
-| Study 3 | MIGRANAL | 50 | 32% | 48%p value <0.01 |
+| Study 3 | MIGRANAL | 50 | 32% | 48%p value < 0.01 |
 |  | Placebo | 50 | 20% | 22% |
 | Study 4 | MIGRANAL | 47 | 30% | 47% |
 |  | Placebo | 50 | 20% | 30% |

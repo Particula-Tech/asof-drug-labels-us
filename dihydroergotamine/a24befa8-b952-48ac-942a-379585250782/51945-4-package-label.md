@@ -17,3 +17,5 @@ This Kit Contains:
 - FOR NASAL USE ONLY NOT FOR INJECTION
 
 4 mg/mL (1 mL/Vial)
+
+9605502

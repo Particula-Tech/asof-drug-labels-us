@@ -6,7 +6,7 @@ Serious cardiac events, including some that have been fatal, have occurred follo
 45 Injection), but are extremely rare.
 Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
 
-Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (see WARNINGS: Fibrotic Complications).
+Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (see WARNINGS, Fibrotic Complications).
 
 ## Incidence in Controlled Clinical Trials
 

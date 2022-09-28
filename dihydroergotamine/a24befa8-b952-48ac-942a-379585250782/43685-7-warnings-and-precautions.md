@@ -17,7 +17,7 @@ There have been reports of pleural and retroperitoneal fibrosis in patients foll
 Rarely, prolonged daily use of other ergot alkaloid drugs has been associated with cardiac valvular fibrosis.
 Rare cases have also been reported in association with the use of injectable dihydroergotamine mesylate; however, in those cases, patients also received drugs known to be associated with cardiac valvular fibrosis.
 
-Administration of MIGRANAL (dihydroergotamine mesylate) Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (seeDOSAGE AND ADMINISTRATION).
+Administration of MIGRANAL (dihydroergotamine mesylate) Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
 
 ## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events:
 
@@ -97,7 +97,7 @@ Similarly, patients who experience other symptoms or signs suggestive of decreas
 
 ### Fibrotic Complications:
 
-see WARNINGS: Fibrotic Complications
+see WARNINGS, Fibrotic Complications
 
 ## Information for Patients
 
@@ -108,8 +108,7 @@ Once the nasal spray applicator has been prepared, it should be discarded (with 
 
 Patients should be advised to report to the physician immediately any of the following: numbness or tingling in the fingers and toes, muscle pain in the arms and legs, weakness in the legs, pain in the chest, temporary speeding or slowing of the heart rate, swelling, or itching.
 
-Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided.
-(See Patient Information Sheet and product packaging).
+Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided (see Patient Information Sheet and product packaging).
 
 Administration of MIGRANAL (dihydroergotamine mesylate) Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
 
@@ -124,7 +123,7 @@ MIGRANAL (dihydroergotamine mesylate) Nasal Spray should not be used with periph
 Sumatriptan has been reported to cause coronary artery vasospasm, and its effect could be additive with MIGRANAL (dihydroergotamine mesylate) Nasal Spray.
 Sumatriptan and MIGRANAL (dihydroergotamine mesylate) Nasal Spray should not be taken within 24 hours of each other (see CONTRAINDICATIONS).
 
-### Beta Blockers
+### Beta-Blockers
 
 Although the results of a clinical study did not indicate a safety problem associated with the administration of MIGRANAL (dihydroergotamine mesylate) Nasal Spray to subjects already receiving propranolol, there have been reports that propranolol may potentiate the vasoconstrictive action of ergotamine by blocking the vasodilating property of epinephrine.
 
@@ -136,7 +135,7 @@ Nicotine may provoke vasoconstriction in some patients, predisposing to a greate
 
 See CONTRAINDICATIONS and WARNINGS.
 
-### SSRI's
+### SSRI’s
 
 Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been coadministered with SSRI’s (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI’s and MIGRANAL (dihydroergotamine mesylate) Nasal Spray or D.H.E.

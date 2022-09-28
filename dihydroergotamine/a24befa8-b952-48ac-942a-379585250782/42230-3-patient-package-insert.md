@@ -61,7 +61,7 @@ If you answer YES to any of these questions or are unsure of the answer, you sho
 
 Serious or potentially life-threatening reductions in blood flow to the brain or extremities have been reported rarely due to interactions between MIGRANAL (dihydroergotamine mesylate) Nasal Spray and protease inhibitors or macrolide antibiotics.
 
-REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE MIGRANAL (dihydroergotamine mesylate) Nasal Spray.
+REMEMBER TO TELL YOUR DOCTOR IF YOU HAVE ANSWERED YES TO ANY OF THESE QUESTIONS BEFORE YOU USE MIGRANAL (dihydroergotamine mesylate) NASAL SPRAY.
 
 Side Effects To Watch Out For
 
@@ -187,11 +187,13 @@ Milano, Italy
 
 MIGRANAL is a trademark of Bausch Health Companies Inc. or its affiliates.
 
+All other product/brand names and/or logos are trademarks of the respective owners.
+
 © 2022 Bausch Health Companies Inc. or its affiliates
 
 www.migranal.com
 
 Rev.
-04/2022
+09/2022
 
 9603503
