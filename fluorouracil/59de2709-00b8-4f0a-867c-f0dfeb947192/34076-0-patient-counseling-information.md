@@ -10,6 +10,10 @@ Advise patients of the following:
 - Do not apply to eyes, nose, mouth or mucous membranes.
 - Avoid inadvertent transfer of Tolak Cream to other body areas, or to another person.
 - Keep out of the reach of children.
+- Fluorouracil, including Tolak may be fatal if ingested by pets.
+  Avoid allowing pets to contact the Tolak container or the skin where Tolak has been applied.
+  Store Tolak out of reach of pets.
+  Safely discard or clean any cloth or applicator that may retain Tolak and avoid leaving any residues of Tolak on your hands, clothing, carpeting or furniture.
 
 Instruct patients to do the following:
 

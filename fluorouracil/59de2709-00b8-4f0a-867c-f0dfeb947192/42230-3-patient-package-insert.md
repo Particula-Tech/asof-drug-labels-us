@@ -55,6 +55,14 @@ What should I avoid while using Tolak Cream?
   You could get severe sunburn.
   Limit your time in the sun during treatment with Tolak Cream.
   Talk to your doctor if you get sunburn.
+- Do not breast feed or become pregnant while using Tolak.
+  If you do become pregnant, stop using Tolak and tell your doctor right away.
+- Tolak may be fatal to your pet if your pet licks or ingests Tolak.
+- Avoid allowing pets to contact the Tolak container or your skin where you applied Tolak.
+- Store Tolak out of reach of pets.
+- Safely discard or clean any cloth or applicator that may have Tolak residue.
+- Avoid applying Tolak on your clothing, carpeting, or furniture.
+- If your pet starts vomiting or starts having a seizure after your pet licks or ingests Tolak, seek immediate veterinary care for your pet.
 
 What are the possible side effects of Tolak Cream?
 
@@ -106,4 +114,4 @@ Manufactured and Distributed by: Hill Dermaceuticals, Inc. Sanford, Florida 3277
 For more information, go to www.hillderm.com or call 1-800-344-5707.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 09/2015
+Issued: August 2022
