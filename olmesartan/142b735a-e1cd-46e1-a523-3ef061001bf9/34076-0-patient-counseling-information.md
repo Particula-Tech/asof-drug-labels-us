@@ -10,9 +10,9 @@ Hyperkalemia: Advise patients not to use potassium supplements or salt substitut
 
 Manufactured by:
 
-Alkem Laboratories Ltd.
+Alkem Laboratories Ltd.,
 
-Mumbai - 400 013, INDIA
+INDIA.
 
 Distributed by:
 
@@ -20,8 +20,8 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: December, 2019
+Revised: February, 2022
 
 Rx Only
 
-PT 2245-02
+PT 2245-03
