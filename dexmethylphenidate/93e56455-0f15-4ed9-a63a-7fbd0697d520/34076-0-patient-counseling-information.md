@@ -44,9 +44,7 @@ Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release capsules, during pregnancy [see Use in Specific Populations (8.1)].
 
-Manufactured by: Catalent Pharma Solutions 1100 Enterprise Drive Winchester, KY 40391
-
-Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2021-03
+08-2022-04
