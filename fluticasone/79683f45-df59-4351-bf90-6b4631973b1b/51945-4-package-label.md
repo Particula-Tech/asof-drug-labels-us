@@ -1,14 +1,12 @@
 # Package/Label Display Panel
 
-## ArmonAir™ RespiClick® (fluticasone propionate 55 mcg) Inhalation Powder, 60 Metered Inhalations Carton Text
-
 TEVA
 
 NDC 59310-705-06
 
 Rx Only
 
-ArmonAir™
+ArmonAir®
 
 RespiClick® 55
 
@@ -34,15 +32,13 @@ information on product use and handling.
 
 # Package/Label Display Panel
 
-## ArmonAir™ RespiClick® (fluticasone propionate 113 mcg) Inhalation Powder, 60 Metered Inhalations Carton Text
-
 TEVA
 
 NDC 59310-711-06
 
 Rx Only
 
-ArmonAir™
+ArmonAir®
 
 RespiClick® 113
 
@@ -68,15 +64,13 @@ information on product use and handling.
 
 # Package/Label Display Panel
 
-## ArmonAir™ RespiClick® (fluticasone propionate 232 mcg) Inhalation Powder, 60 Metered Inhalations Carton Text
-
 TEVA
 
 NDC 59310-722-06
 
 Rx Only
 
-ArmonAir™
+ArmonAir®
 
 RespiClick® 232
 

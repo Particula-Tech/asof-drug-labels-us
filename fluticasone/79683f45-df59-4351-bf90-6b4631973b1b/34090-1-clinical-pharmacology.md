@@ -4,12 +4,12 @@
 
 Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity.
 Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide.
-Data from the McKenzie vasoconstrictor assay in man are consistent with these results.
+Data from the McKenzie vasoconstrictor assay in humans are consistent with these results.
 The clinical significance of these findings is unknown.
 
 Inflammation is an important component in the pathogenesis of asthma.
 Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, and lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, and cytokines) involved in inflammation.
-These anti-inflammatory actions of corticosteroids contribute to their efficacy in asthma.
+These anti-inflammatory actions of corticosteroids contribute to their efficacy in the treatment of asthma.
 
 Though effective for the treatment of asthma, corticosteroids do not affect asthma symptoms immediately.
 Individual patients will experience a variable time of onset and degree of symptom relief.
@@ -21,11 +21,9 @@ This is explained by a combination of a relatively high local anti-inflammatory 
 
 ## 12.2 Pharmacodynamics
 
-ARMONAIR RESPICLICK: Hypothalamic Pituitary Adrenal Axis Effects.
+Hypothalamic Pituitary Adrenal Axis Effects (HPA)
 
 The potential systemic effects of ARMONAIR RESPICLICK on the HPA axis were not fully studied, but other clinical trials evaluated the systemic effects of fluticasone propionate inhalation powder on the HPA axis in healthy subjects and in subjects with asthma.
-
-ARMONAIR RESPICLICK: Subjects with Asthma: Adults and Adolescents: Hypothalamic Pituitary Adrenal Axis Effects.
 
 There are no data regarding serum cortisol from controlled trials using ARMONAIR RESPICLICK in healthy subjects or subjects with asthma.
 
@@ -64,21 +62,30 @@ Excretion
 
 Less than 5% of a radiolabeled oral dose of fluticasone propionate was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-Special Populations
+Specific Populations
 
-Age: No pharmacokinetic studies have been performed with ARMONAIR RESPICLICK in children or geriatric patients.
-A subgroup analysis was conducted to compare patients aged 12-17 (n=16) and ≥18 (n=23) years following administration of 232 mcg ARMONAIR RESPICLICK.
+Age:
+
+Adolescents Aged 12 to 17 Years: A pharmacokinetic study in patients with persistent asthma aged 12 years and older was conducted.
+A subgroup analysis was conducted to compare patients aged 12 to 17 (n=16) and ≥18 (n=23) years following administration of 232 mcg ARMONAIR RESPICLICK.
 No overall differences in fluticasone propionate pharmacokinetics were observed.
 
-Sex: A subgroup analysis was conducted to compare male (n=22) and female (n=17) patients following administration of 232 mcg ARMONAIR RESPICLICK.
+Pediatric Patients Aged 4 to 11 Years: Fluticasone propionate concentrations in 18 pediatric patients were measured after a single dose of ARMONAIR RESPICLICK 55 mcg resulting in a mean peak concentration of 26 pg/mL.
+Median tmax for fluticasone propionate plasma concentration occurred around 1 hour.
+
+No pharmacokinetic studies have been performed with ARMONAIR RESPICLICK in geriatric patients.
+
+Male and Female Patients: A subgroup analysis was conducted to compare male (n=22) and female (n=17) patients following administration of 232 mcg ARMONAIR RESPICLICK.
 No overall differences in fluticasone propionate pharmacokinetics were observed.
 
-Renal Impairment: The effect of renal impairment on the pharmacokinetics of ARMONAIR RESPICLICK has not been evaluated.
+Patients with Renal Impairment: The effect of renal impairment on the pharmacokinetics of ARMONAIR RESPICLICK has not been evaluated.
 
-Hepatic Impairment: Formal pharmacokinetic studies using ARMONAIR RESPICLICK have not been conducted in patients with hepatic impairment.
+Patients with Hepatic Impairment: Formal pharmacokinetic studies using ARMONAIR RESPICLICK have not been conducted in patients with hepatic impairment.
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
 
-Drug Interaction Studies: In vitro and in vivo drug interaction studies have not been conducted with ARMONAIR RESPICLICK.
+Drug Interaction Studies:
+
+In vitro and in vivo drug interaction studies have not been conducted with ARMONAIR RESPICLICK.
 Known clinically significant drug interactions are outlined in Drug Interactions (7).
 
 Inhibitors of Cytochrome P450 3A4: Ritonavir: Fluticasone propionate is a substrate of CYP3A4.

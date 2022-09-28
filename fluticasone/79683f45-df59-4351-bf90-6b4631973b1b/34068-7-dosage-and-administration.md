@@ -1,44 +1,66 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General
+## 2.1 Administration Instructions
 
-ARMONAIR RESPICLICK should be administered only by the orally inhaled route [see Instructions for Use in the Patient Information leaflet].
-Advise the patient to rinse his/her mouth with water without swallowing after each dose.
+- ARMONAIR RESPICLICK is for oral inhalation and does not require priming.
+- Do not use ARMONAIR RESPICLICK with a spacer or volume holding chamber.
 
-## 2.2 Dosing
+- Do not use more than 2 times every 24 hours.
+  The safety and effectiveness of ARMONAIR RESPICLICK when administered in excess of recommended dosages have not been established.
+- If symptoms arise between doses, an inhaled short-acting beta2-agonist should be used for immediate relief.
 
-ARMONAIR RESPICLICK should be administered as 1 inhalation twice daily (approximately 12 hours apart) by the orally inhaled route.
-ARMONAIR RESPICLICK should be used at approximately the same time every day.
-Do not use ARMONAIR RESPICLICK more than 2 times every 24 hours.
+## 2.2 Recommended Dosage
 
-The starting dosage for ARMONAIR RESPICLICK is based upon patients’ asthma severity.
-The usual recommended starting dose for patients not on inhaled corticosteroids is 55 mcg twice daily.
-For other patients, the starting dose should be based on previous asthma drug therapy and disease severity.
-For patients switching to ARMONAIR RESPICLICK from another inhaled corticosteroid product, select the low (55 mcg), medium (113 mcg) or high (232 mcg) dose strength of ARMONAIR RESPICLICK based on the strength of the previous inhaled corticosteroid product and disease severity.
-For patients who do not respond to ARMONAIR RESPICLICK 55 mcg after 2 weeks of therapy, increasing the dose may provide additional asthma control.
+Administer 1 inhalation of ARMONAIR RESPICLICK (fluticasone propionate) twice daily by oral inhalation (approximately 12 hours apart at the same time every day).
+Rinse the mouth with water without swallowing after each dose.
 
-If a dosage regimen of ARMONAIR RESPICLICK fails to provide adequate control of asthma, the therapeutic regimen should be re-evaluated and additional therapeutic options (e.g., replacing the current strength of ARMONAIR RESPICLICK with a higher strength, or adding additional controller therapies) should be considered.
+Dosage Selection
 
-The highest recommended dose is 232 mcg twice daily.
-If symptoms arise between doses, an inhaled short-acting beta2-agonist should be used for immediate relief.
+The recommended starting dosage for ARMONAIR RESPICLICK is based on asthma severity and current asthma therapy and strength.
+
+Adult and Pediatric Patients Aged 12 Years and Older:
+
+- Patients with greater asthma severity, use the higher doses:
+  - 1 inhalation of 113 mcg ARMONAIR RESPICLICK (113 mcg of fluticasone propionate) twice daily by oral inhalation; or
+  - 1 inhalation of 232 mcg ARMONAIR RESPICLICK (232 mcg of fluticasone propionate) twice daily by oral inhalation.
+
+- Patients not taking inhaled corticosteroids (ICS), with less severe asthma:
+  - 1 inhalation of 55 mcg ARMONAIR RESPICLICK (55 mcg of fluticasone propionate) twice daily by oral inhalation.
+
+- Patients switching to ARMONAIR RESPICLICK from another ICS:
+  - 1 inhalation of low (55 mcg fluticasone propionate), medium (113 mcg fluticasone propionate), or high (232 mcg fluticasone propionate) ARMONAIR RESPICLICK twice daily by oral inhalation based on the strength of the previous ICS product and disease severity.
+
+- The maximum recommended dosage is 232 mcg twice daily.
+
+Pediatric Patients Aged 4 to 11 Years:
+
+- Patients not taking inhaled corticosteroids (ICS), with less severe asthma:
+  - 1 inhalation of 30 mcg ARMONAIR RESPICLICK (30 mcg of fluticasone propionate) twice daily by oral inhalation.
+
+- Patients switching to ARMONAIR RESPICLICK from another ICS:
+  - 1 inhalation of 30 mcg fluticasone propionate or 55 mcg fluticasone propionate ARMONAIR RESPICLICK twice daily by oral inhalation based on the strength of the previous ICS product and disease severity.
+
+- Dosages above 55 mcg of ARMONAIR RESPICLICK twice daily by oral inhalation have not been established in patients aged 4 to 11 years.
+
+General Dosing Information
 
 The maximum benefit may not be achieved for up to 2 weeks or longer after starting treatment.
 Individual patients will experience a variable time to onset and degree of symptom relief.
-After asthma stability has been achieved, it is desirable to titrate to the lowest effective dosage to reduce the possibility of side effects.
-The safety and efficacy of ARMONAIR RESPICLICK when administered in excess of recommended dosages have not been established.
+For patients who do not respond to lower doses of ARMONAIR RESPICLICK after 2 weeks of therapy, increasing the dose may provide additional asthma control.
 
-ARMONAIR RESPICLICK does not require priming.
-Do not use ARMONAIR RESPICLICK with a spacer or volume holding chamber.
+If a previously effective dosage regimen of ARMONAIR RESPICLICK fails to provide adequate control of asthma, re-evaluate the therapeutic regimen, including patient compliance and inhaler technique, and consider additional therapeutic options (e.g., increasing the dose of ARMONAIR RESPICLICK with a higher strength, or adding additional controller therapies).
+After asthma stability has been achieved, it is desirable to titrate to the lowest effective dosage to reduce the risk of adverse reactions.
 
-Cleaning:
+## 2.3 Storing and Cleaning the Inhaler
 
 - Keep the inhaler in a cool dry place.
-  Never wash or put any part of the inhaler in water.
 - Routine maintenance is not required.
   If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
+- Never wash or put any part of the inhaler in water.
 
-Dose Counter: The ARMONAIR RESPICLICK inhaler has a dose counter.
-When the patient receives the inhaler, the number 60 will be displayed.
-The dose counter will count down each time the mouthpiece is opened and closed.
-The dose counter window displays the number of actuations (inhalations) left in the inhaler in units of two (e.g., 60, 58, 56, etc.). When the dose counter reaches 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
-When the dose counter reaches 0, the background will change to solid red and the color of the numbers will change to black.
+## 2.4 Dose Counter
+
+The ARMONAIR RESPICLICK inhaler has a dose counter.
+
+- The number 60 is displayed (prior to use).
+- The dose counter will count down each time the mouthpiece is opened and closed [see Patient Counseling Information (17)].

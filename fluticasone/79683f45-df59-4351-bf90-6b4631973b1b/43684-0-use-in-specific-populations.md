@@ -57,9 +57,19 @@ Subcutaneous administration of tritiated fluticasone propionate at a dose in lac
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of ARMONAIR RESPICLICK in pediatric patients below the age of 12 years have not been established.
+The safety and effectiveness of ARMONAIR RESPICLICK in the maintenance treatment of asthma as prophylactic therapy in pediatric patients 4 years of age and older have been established.
 
-Effects on Growth: Orally inhaled corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
+Use of ARMONAIR RESPICLICK for this indication in adolescents ages 12 to 17 years is supported by evidence from two adequate and well-controlled trials in adult and adolescent patients 12 years old and older with persistent symptomatic asthma despite ICS or ICS/LABA therapy (Trials 1 and 2) [see Clinical Studies (14.2)].
+In these trials, 50 adolescents received ARMONAIR RESPICLICK one inhalation twice daily.
+
+Use of ARMONAIR RESPICLICK for this indication in pediatric patients aged 4 to 11 years is supported by evidence from one adequate and well-controlled trial of ARMONAIR RESPICLICK (Trial 3) [see Clinical Studies (14.2)].
+In this trial, 419 pediatric patients received ARMONAIR RESPICLICK 30 mcg or 55 mcg one inhalation twice daily.
+
+The safety and effectiveness of ARMONAIR RESPICLICK in patients below the age of 4 years have not been established.
+
+Effect on Growth
+
+Inhaled corticosteroids, including fluticasone propionate, may cause a reduction in growth velocity when administered to pediatric patients [see Warnings and Precautions (5.8)].
 A reduction of growth velocity in children or teenagers may occur as a result of poorly controlled asthma or from use of corticosteroids, including inhaled corticosteroids.
 The effects of long-term treatment of children and adolescents with inhaled corticosteroids, including fluticasone propionate, on final adult height are not known.
 
@@ -70,8 +80,8 @@ No overall differences in safety or efficacy were observed in data collected in 
 ## 8.6 Hepatic Impairment
 
 Formal pharmacokinetic studies using ARMONAIR RESPICLICK have not been conducted in patients with hepatic impairment.
-Since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
-Therefore, patients with hepatic disease should be closely monitored.
+Since fluticasone propionate is predominantly cleared by hepatic metabolism [see Clinical Pharmacology (12.3)], impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
+Therefore, patients with hepatic impairment should be closely monitored.
 
 ## 8.7 Renal Impairment
 
