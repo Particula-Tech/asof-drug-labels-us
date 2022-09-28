@@ -15,8 +15,8 @@ Although this rate is greater than background, it is probably an underestimate o
 There were no confirmed cases of SJS or TEN in the US, European, or Japanese development programs.
 
 In the US and European randomized controlled trials, 6 of 269 (2.2%) zonisamide patients discontinued treatment because of rash compared to none on placebo.
-Across all trials during the US and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1000 patient-years of exposure).
-During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1000 patient-years).
+Across all trials during the US and European development, rash that led to discontinuation of zonisamide was reported in 1.4% of patients (12 events per 1000 patient years of exposure).
+During Japanese development, serious rash or rash that led to study drug discontinuation was reported in 2% of patients (27.8 events per 1000 patient years).
 Rash usually occurred early in treatment, with 85% reported within 16 weeks in the US and European studies and 90% reported within two weeks in the Japanese studies.
 There was no apparent relationship of dose to the occurrence of rash.
 
@@ -40,8 +40,8 @@ Oligohidrosis, sometimes resulting in heat stroke and hospitalization, is seen i
 During the pre-approval development program in Japan, one case of oligohidrosis was reported in 403 pediatric patients, an incidence of 1 case per 285 patient-years of exposure.
 While there were no cases reported in the US or European development programs, fewer than 100 pediatric patients participated in these trials.
 
-In the first 11 years of marketing in Japan, 38 cases were reported, an estimated reporting rate of about 1 case per 10,000 patient-years of exposure.
-In the first year of marketing in the US, 2 cases were reported, an estimated reporting rate of about 12 cases per 10,000 patient-years of exposure.
+In the first 11 years of marketing in Japan, 38 cases were reported, an estimated reporting rate of about 1 case per 10,000 patient years of exposure.
+In the first year of marketing in the US, 2 cases were reported, an estimated reporting rate of about 12 cases per 10,000 patient years of exposure.
 These rates are underestimates of the true incidence because of under-reporting.
 There has also been one report of heat stroke in an 18-year-old patient in the US.
 
@@ -258,7 +258,7 @@ Advise patients as follows: (See Medication Guide)
 8. 8.Warn patients about the possible development of hyperammonemia with or without encephalopathy.
    Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
    Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status (see WARNINGS, Hyperammonemia and Encephalopathy subsection)
-9. 9.Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations which are possible manifestations of metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
+9. 9.Patients should contact their physician immediately if they develop fast breathing, fatigue/tiredness, loss of appetite, or irregular heart beat or palpitations, which are possible manifestations of metabolic acidosis (see WARNINGS, Metabolic Acidosis subsection).
 10. 10.As with other AEDs, patients should contact their physician if they intend to become pregnant or are pregnant during zonisamide therapy.
     Patients should notify their physician if they intend to breastfeed or are breastfeeding an infant (see PRECAUTIONS, Use in Nursing Mothers subsection).
 11. 11.Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
@@ -359,7 +359,7 @@ The effect of zonisamide on growth and bone-related sequelae has not been system
 
 ## Geriatric Use:
 
-Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (see CLINICAL PHARMACOLOGY, Specific Populations subsection).
+Single dose pharmacokinetic parameters are similar in elderly and young healthy volunteers (seeCLINICAL PHARMACOLOGY, Specific Populations subsection).
 Clinical studies of zonisamide did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

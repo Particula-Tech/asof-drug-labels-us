@@ -104,10 +104,10 @@ CYP3A4 Induction: Drugs that induce liver enzymes increase the metabolism and cl
 The half-life of zonisamide following a 400 mg dose in patients concurrently on enzyme-inducing AEDs such as phenytoin, carbamazepine, or phenobarbital was between 27 to 38 hours; the half-life of zonisamide in patients concurrently on the non-enzyme inducing AED, valproate, was 46 hours.
 
 These effects are unlikely to be of clinical significance when zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4 inducing anti-epileptic or other drugs are withdrawn, dose adjusted or introduced, an adjustment of the zonisamide dose may be required.
-If coadministration with a potent CYP3A4 inducer (e.g. rifampicin) is necessary, the patient should be closely monitored and the dose of zonisamide and other drugs that are CYP3A4 substrate may need to be adjusted.
+If co-administration with a potent CYP3A4 inducer (e.g. rifampicin) is necessary, the patient should be closely monitored and the dose of zonisamide and other drugs that are CYP3A4 substrate may need to be adjusted.
 
 CYP3A4 Inhibition: Steady-state dosing of either ketoconazole (400 mg/day) or cimetidine (1200 mg/day) had no clinically relevant effects on the single dose pharmacokinetics of zonisamide given to healthy subjects.
-Therefore, modification of zonisamide dosing is not necessary when coadministered with known CYP3A4 inhibitors.
+Therefore, modification of zonisamide dosing is not necessary when co-administered with known CYP3A4 inhibitors.
 
 ## Interactions of Zonisamide with Other Carbonic Anhydrase Inhibitors:
 
