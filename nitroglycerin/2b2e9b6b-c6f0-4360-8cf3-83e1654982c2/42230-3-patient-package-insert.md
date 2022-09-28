@@ -8,7 +8,7 @@ Important information:
 
 - GONITRO is for use under the tongue.
 - A dose of GONITRO may be either 1 or 2 packets.
-  Follow your healthcare provider’s instructions about how many packets you should take for each dose.
+  Follow your healthcare provider's instructions about how many packets you should take for each dose.
   After you take your first dose of GONITRO, you may take 1 additional packet of GONITRO every 5 minutes, if needed.
 - You should not take more than 3 packets of GONITRO within 15 minutes.
 - Get emergency medical help right away if you still have chest pain after taking a total of 3 packets of GONITRO.

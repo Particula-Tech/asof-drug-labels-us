@@ -22,7 +22,7 @@ Risk summary
 
 Sublingual nitroglycerin has not been studied in lactating women.
 It is not known if nitroglycerin is present in human milk or if nitroglycerin has effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for nitroglycerin and any potential adverse effects on the breastfed child from nitroglycerin or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for nitroglycerin and any potential adverse effects on the breastfed child from nitroglycerin or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
