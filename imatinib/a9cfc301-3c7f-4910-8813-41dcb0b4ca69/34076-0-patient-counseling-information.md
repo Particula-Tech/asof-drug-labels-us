@@ -49,9 +49,9 @@ Zagreb, Croatia
 
 Manufactured For:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
-North Wales, PA 19454
+Parsippany, NJ 07054
 
 Rev.
-N 2/2021
+O 8/2022

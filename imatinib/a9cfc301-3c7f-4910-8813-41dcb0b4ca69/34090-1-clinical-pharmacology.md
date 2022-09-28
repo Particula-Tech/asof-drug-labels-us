@@ -8,12 +8,13 @@ Imatinib inhibits colony formation in assays using ex vivo peripheral blood and 
 
 In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
 
-Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-kit, and inhibits PDGF- and SCF-mediated cellular events.
+Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
+In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, which express an activating c-Kit mutation.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of imatinib mesylate have been evaluated in studies in healthy subjects and in population pharmacokinetic studies in over 900 patients.
-The pharmacokinetics of imatinib mesylate are similar in CML patients.
+The pharmacokinetics of imatinib mesylate are similar in CML and GIST patients.
 
 Absorption and Distribution
 
@@ -69,12 +70,12 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 Pediatric Use
 
 As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2 to 4 hours.
-Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs. 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs. 17.1 hours in adults).
+Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs 17.1 hours in adults).
 Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
-The comparison of AUC on Day 8 vs. Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
+The comparison of AUC on Day 8 vs Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
-Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing body surface area (BSA).
+Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing BSA.
 After correcting for the BSA effect, other demographics, such as age, body weight, and body mass index did not have clinically significant effects on the exposure of imatinib.
 The analysis confirmed that exposure of imatinib in pediatric patients receiving 260 mg/m2 once-daily (not exceeding 400 mg once-daily) or 340 mg/m2 once-daily (not exceeding 600 mg once-daily) were similar to those in adult patients who received imatinib 400 mg or 600 mg once-daily.
 
@@ -84,13 +85,13 @@ Agents Inducing CYP3A Metabolism
 
 Pretreatment of healthy volunteers with multiple doses of rifampin followed by a single dose of imatinib mesylate, increased imatinib mesylate oral-dose clearance by 3.8-fold, which significantly (p less than 0.05) decreased mean Cmax and AUC.
 
-Similar findings were observed in patients receiving 400 to 1200 mg/day imatinib mesylate concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
+Similar findings were observed in patients receiving 400 to 1,200 mg/day imatinib mesylate concomitantly with enzyme-inducing anti-epileptic drugs (EIAED) (e.g., carbamazepine, oxcarbamazepine, phenytoin, fosphenytoin, phenobarbital, and primidone).
 The mean dose normalized AUC for imatinib in the patients receiving EIAED’s decreased by 73% compared to patients not receiving EIAED.
 
 Concomitant administration of imatinib mesylate and St. John’s Wort led to a 30% reduction in the AUC of imatinib.
 
 Consider alternative therapeutic agents with less enzyme induction potential in patients when rifampin or other CYP3A4 inducers are indicated.
-Imatinib mesylate doses up to 1200 mg/day (600 mg twice daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
+Imatinib mesylate doses up to 1,200 mg/day (600 mg twice-daily) have been given to patients receiving concomitant strong CYP3A4 inducers [see Dosage and Administration (2.12)].
 
 Agents Inhibiting CYP3A Metabolism
 
@@ -101,7 +102,7 @@ Grapefruit juice may also increase plasma concentrations of imatinib and should 
 Interactions with Drugs Metabolized by CYP3A4
 
 Imatinib mesylate increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, suggesting an inhibition of the CYP3A4 by imatinib mesylate.
-Particular caution is recommended when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window (e.g., alfentanil, cyclosporine, diergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus or tacrolimus).
+Particular caution is recommended when administering imatinib mesylate with CYP3A4 substrates that have a narrow therapeutic window (e.g., alfentanil, cyclosporine, diergotamine, ergotamine, fentanyl, pimozide, quinidine, sirolimus, or tacrolimus).
 
 Imatinib mesylate will increase plasma concentration of other CYP3A4 metabolized drugs (e.g., triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, etc.).
 
@@ -115,6 +116,6 @@ No dose adjustment is necessary, however, caution is recommended when administer
 Interactions with Acetaminophen
 
 In vitro, imatinib mesylate inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 μM).
-Coadministration of imatinib mesylate (400 mg/day for 8 days) with acetaminophen (1000 mg single dose on day 8) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
+Coadministration of imatinib mesylate (400 mg/day for 8 days) with acetaminophen (1,000 mg single dose on Day 8) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.
 Imatinib mesylate pharmacokinetics were not altered in the presence of single-dose acetaminophen.
 There is no pharmacokinetic or safety data on the concomitant use of imatinib mesylate at doses greater than 400 mg/day or the chronic use of concomitant acetaminophen and imatinib mesylate.

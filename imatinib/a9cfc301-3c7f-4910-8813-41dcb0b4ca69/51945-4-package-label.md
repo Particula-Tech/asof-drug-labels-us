@@ -8,7 +8,7 @@ Imatinib Mesylate Tablets
 
 Rx only
 
-90 TABLETS
+90 Tablets
 
 # Package/Label Display Panel
 
@@ -20,4 +20,4 @@ Imatinib Mesylate Tablets
 
 Rx only
 
-30 TABLETS
+30 Tablets
