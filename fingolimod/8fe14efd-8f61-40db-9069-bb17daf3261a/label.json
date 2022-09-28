@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA207985"
+  ],
+  "inn": "fingolimod",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-166-07",
+    "68462-166-15",
+    "68462-166-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fingolimod",
+      "name": "fingolimod"
+    }
+  ],
+  "setid": "8fe14efd-8f61-40db-9069-bb17daf3261a",
+  "source": "dailymed"
+}
