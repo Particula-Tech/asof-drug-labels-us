@@ -9,14 +9,14 @@ Some of these reactions occurred in patients without known CAD.
 
 Perform a cardiovascular evaluation in triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving zolmitriptan.
 Do not administer zolmitriptan if there is evidence of CAD or coronary artery vasospasm [see Contraindications (4)].
-For patients with multiple cardiovascular risk factors who have a negative cardiovascular evaluation, consider administering the first zolmitriptan dose in a medically-supervised setting and performing an electrocardiogram (ECG) immediately following zolmitriptan administration.
+For patients with multiple cardiovascular risk factors who have a negative cardiovascular evaluation, consider administrating the first zolmitriptan dose in a medically-supervised setting and performing an electrocardiogram (ECG) immediately following zolmitriptan administration.
 For such patients, consider periodic cardiovascular evaluation in intermittent long-term users of zolmitriptan.
 
 ## 5.2 Arrhythmias
 
 Life-threatening disturbances of cardiac rhythm including ventricular tachycardia and ventricular fibrillation leading to death have been reported within a few hours following the administration of 5-HT1 agonists.
 Discontinue zolmitriptan if these disturbances occur.
-Zolmitriptan is contraindicated in patients with Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Contraindications (4)].
+Zolmitriptan is contraindicated in patients with Wolff-Parkinson-White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Contraindications (4)].
 
 ## 5.3 Chest, Throat, Neck and Jaw Pain/Tightness/Pressure
 
@@ -42,7 +42,7 @@ Since visual disorders may be part of a migraine attack, a causal relationship b
 
 ## 5.6 Medication Overuse Headache
 
-Overuse of acute migraine drugs (e.g. ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
 Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
 Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
 
@@ -51,7 +51,7 @@ Detoxification of patients, including withdrawal of the overused drugs, and trea
 Serotonin syndrome may occur with triptans, including zolmitriptan, particularly during co-administration with selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), and MAO inhibitors [see Drug Interactions (7.5)].
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 The onset of symptoms usually rapidly occurs within minutes to hours of receiving a new or a greater dose of a serotonergic medication.
-Discontinue zolmitriptan if serotonin syndrome is suspected [see Drug Interactions (7.4)].
+Discontinue zolmitriptan if serotonin syndrome is suspected [seeDrug Interactions (7.4)].
 
 ## 5.8 Increase in Blood Pressure
 
@@ -59,4 +59,4 @@ Significant elevations in systemic blood pressure have been reported in patients
 In healthy subjects treated with 5 mg of zolmitriptan, an increase of 1 and 5 mm Hg in the systolic and diastolic blood pressure, respectively, was seen.
 In a study of patients with moderate to severe liver impairment, 7 of 27 patients experienced 20 to 80 mm Hg elevations in systolic and/or diastolic blood pressure after a dose of 10 mg of zolmitriptan.
 As with all triptans, blood pressure should be monitored in zolmitriptan-treated patients.
-Zolmitriptan is contraindicated in patients with uncontrolled hypertension [see Contraindications (4)].
+Zolmitriptan is contraindicated in patients with uncontrolled hypertension [seeContraindications (4)].

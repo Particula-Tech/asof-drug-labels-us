@@ -2,13 +2,13 @@
 
 The following adverse reactions are described elsewhere in other sections of the prescribing information:
 
-- •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal Angina [see Warnings and Precautions (5.1)].
+- •Myocardial Ischemia, Myocardial Infarction, and Prinzmetal Angina [seeWarnings and Precautions (5.1)].
 - •Arrhythmias [see Warnings and Precautions (5.2)].
-- •Chest and or Throat, Neck and Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
+- •Chest and or Throat, Neck and Jaw Pain/Tightness/Pressure [seeWarnings and Precautions (5.3)].
 - •Cerebrovascular Events [see Warnings and Precautions (5.4)].
-- •Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
-- • Medication Overuse Headache [see Warnings and Precautions (5.6)].
-- •Serotonin Syndrome [see Warnings and Precautions (5.7)].
+- •Other Vasospasm Reactions [seeWarnings and Precautions (5.5)].
+- • Medication Overuse Headache [seeWarnings and Precautions (5.6)].
+- •Serotonin Syndrome [seeWarnings and Precautions (5.7)].
 - •Increase in Blood Pressure [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
@@ -26,7 +26,7 @@ Several of the adverse reactions appear dose related, notably paresthesia, sensa
 
 Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine Clinical Trials*
 
-|  | Placebo(n=401) | Zolmitriptan Tablets 1 mg(n=163) | Zolmitriptan Tablets 2.5 mg(n=498) | Zolmitriptan Tablets 5 mg(n=1012) |
+|  | Placebo(n=401) | Zolmitriptan 1 mg(n=163) | Zolmitriptan 2.5 mg(n=498) | Zolmitriptan5 mg(n=1012) |
 | --- | --- | --- | --- | --- |
 | ATYPICAL SENSATIONS | 6% | 12% | 12% | 18% |
 | Paresthesia (all types) | 2% | 5% | 7% | 9% |
@@ -54,7 +54,7 @@ Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine C
 There were no differences in the incidence of adverse reactions in controlled clinical trials in the following subgroups: gender, weight, age, use of prophylactic medications, or presence of aura.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
-### Less Common Adverse Reactions with Zolmitriptan Tablets
+### Less Common Adverse Reactions with Zolmitriptan Tablets:
 
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical reactions are presented.
 Because the reports include reactions observed in open and uncontrolled studies, the role of zolmitriptan in their causation cannot be reliably determined.
@@ -73,9 +73,9 @@ Skin: Infrequent were pruritus, rash and urticaria.
 
 Urogenital: Infrequent were polyuria, urinary frequency and urinary urgency.
 
-Adverse Reactions with Zolmitriptan Oral Disintegrating Tablets
+Adverse Reactions with Zolmitriptan Orally Disintegrating Tablets
 
-The adverse reaction profile seen with zolmitriptan oral disintegrating tablets was similar to that seen with zolmitriptan tablets.
+The adverse reaction profile seen with zolmitriptan orally disintegrating tablets was similar to that seen with zolmitriptan tablets.
 
 ## 6.2 Postmarketing Experience
 

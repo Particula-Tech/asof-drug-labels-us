@@ -54,11 +54,11 @@ Clinical studies of zolmitriptan did not include sufficient numbers of subjects 
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of coronary artery disease) prior to receiving zolmitriptan [see Warnings and Precautions (5.1)].
+A cardiovascular evaluation is recommended for geriatric patients who have other cardiovascular risk factors (e.g., diabetes, hypertension, smoking, obesity, strong family history of coronary artery disease) prior to receiving zolmitriptan [seeWarnings and Precautions (5.1)].
 
-The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 65 years) compared to younger patients [see Clinical Pharmacology (12.3)].
+The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 65 years) compared to younger patients [seeClinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Hepatic Impairment
 
-After oral zolmitriptan administration, zolmitriptan blood levels were increased in patients with moderate to severe hepatic impairment, and significant elevation in blood pressure was observed in some of these patients [see Warnings and Precautions (5.8)].
-Therefore, adjust the zolmitriptan dose and administer with caution in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12)].
+After oral zolmitriptan administration, zolmitriptan blood levels were increased in patients with moderate to severe hepatic impairment, and significant elevation in blood pressure was observed in some of these patients [seeWarnings and Precautions (5.8)].
+Therefore, adjust the zolmitriptan dose and administer with caution in patients with moderate or severe hepatic impairment [seeDosage and Administration (2.3), Clinical Pharmacology (12)].

@@ -57,7 +57,7 @@ Tell your doctor if you know that you have any of the following: risk factors fo
 Tell your doctor if you are pregnant or plan to become pregnant.
 It is not known if zolmitriptan tablets will harm your unborn baby.
 
-Tell your doctor if you are breast feeding or plan to breast feed.
+Tell your doctor if you are breastfeeding or plan to breastfeed.
 It is not known if zolmitriptan passes into your breast milk.
 Talk to your doctor about the best way to feed your baby while using zolmitriptan tablets.
 
@@ -134,12 +134,12 @@ Active ingredient: zolmitriptan
 
 Inactive ingredients: anhydrous lactose, hydroxypropyl methylcellulose, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, polyethylene glycol 8000, red iron oxide (5 mg tablet), sodium starch glycolate, titanium dioxide and yellow iron oxide (2.5 mg tablet).
 
-Store zolmitriptan tablets at 20°C to 25°C (68°F to 77°F); [see USP Controlled Room Temperature].
+Store zolmitriptan tablets at 20°C to 25°C (68°F to 77°F); [see USP Controlled Room Temperature] and away from children.
 
 Protect from light and moisture.
 Discard when expired.
 
-Other brands mentioned are trademarks of their respective owners.
+Other brands mentioned are trademarks of their respective owners and are not trademarks of Glenmark Pharmaceuticals Limited.
 The makers of these brands are not affiliated with Glenmark Pharmaceuticals Limited or its products.
 
 Manufactured by:
@@ -159,4 +159,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-August 2019
+Dcember 2021

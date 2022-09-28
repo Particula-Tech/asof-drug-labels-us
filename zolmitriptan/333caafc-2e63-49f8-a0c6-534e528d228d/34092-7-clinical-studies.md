@@ -23,7 +23,7 @@ The results of these controlled clinical studies are summarized in Table 2.
 
 Table 2: Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
 
-|  | Placebo | Zolmitriptan tablets 1 mg | Zolmitriptan tablets 2.5 mg | Zolmitriptan tablets 5 mg |
+|  | Placebo | Zolmitriptan 1 mg | Zolmitriptan 2.5 mg | Zolmitriptan 5 mg |
 | --- | --- | --- | --- | --- |
 | Study 1* | 16% (n†=19) | 27% (n=22) | NA‡ | 60%§¶ (n=20) |
 | Study 2 | 19% (n=88) | NA | NA | 66%§ (n=179) |
