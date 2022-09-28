@@ -57,4 +57,5 @@ Cases of adrenal insufficiency have been reported with opioid use, more often fo
 
 ### Androgen deficiency
 
-Cases of androgen deficiency have occurred with chronic use of opioids [see CLINICAL PHARMACOLOGY: Pharmacodynamics].
+Cases of androgen deficiency have occurred with chronic use of opioids [see Error!
+Hyperlink reference not valid.].
