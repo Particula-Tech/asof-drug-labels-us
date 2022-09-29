@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA202433"
+  ],
+  "inn": "tamsulosin",
+  "labeler": "NorthStar Rx LLC",
+  "package_ndcs": [
+    "72603-115-01",
+    "72603-115-02"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "tamsulosin hydrochloride",
+      "name": "Tamsulosin Hydrochloride"
+    }
+  ],
+  "setid": "7ab14f88-414a-448f-b7bf-de8c9e1b1eb3",
+  "source": "dailymed"
+}
