@@ -5,8 +5,16 @@ See WARNINGS for discussion of heart failure, hypotension, elevated liver enzyme
 Reversible (upon discontinuation of verapamil) non-obstructive, paralytic ileus has been infrequently reported in association with the use of verapamil.
 The following reactions to orally administered verapamil occurred at rates greater than 1% or occurred at lower rates but appeared clearly drug-related in clinical trials in 4,954 patients:
 
-| Constipation 7.3% Dyspnea 1.4% Dizziness 3.3% Bradycardia Nausea 2.7% (HR < 50/min) 1.4% Hypotension 2.5% AV block Headache 2.2% (total 1º, 2º, 3º) 1.2% Edema 1.9% (2º and 3º) 0.8% CHF, Pulmonary Rash 1.2% edema 1.8% Flushing 0.6% Fatigue 1.7% |  |
-| --- | --- |
+| Constipation | 7.3% | Dyspnea | 1.4% |
+| --- | --- | --- | --- |
+| Dizziness | 3.3% | Bradycardia(HR < 50/min) | 1.4% |
+| Nausea | 2.7% | AV block |  |
+| Hypotension | 2.5% | (total 1º, 2º, 3º) | 1.2% |
+| Headache | 2.2% | (2º and 3º) | 0.8% |
+| Edema | 1.9% | Flushing | 0.6% |
+| CHF, Pulmonary Rash | 1.2% |  |  |
+| edema | 1.8% |  |  |
+| Fatigue | 1.7% |  |  |
 
 Elevated liver enzymes (see WARNINGS)
 

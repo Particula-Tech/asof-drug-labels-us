@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Verapamil Hydrochloride Extended-Release Tablets, USP are calcium ion influx inhibitor (slow-channel blocker or calcium ion antagonist).
-Verapamil Hydrochloride Extended-Release Tablets, USP are available for oral administration as brown colored, oval, biconvex, film-coated tablets containing 120 mg verapamil hydrochloride, USP, as brown colored, oval, biconvex, film-coated tablets containing 180 mg verapamil hydrochloride, USP, and as brown colored, oval, biconvex, film-coated tablets containing 240 mg verapamil hydrochloride, USP.
+Verapamil Hydrochloride Extended-Release Tablets, USP are available for oral administration as brown colored, oval, biconvex, film-coated tablets containing 120 mg verapamil hydrochloride, USP (equivalent to 111.08 mg verapamil free base), as brown colored, oval, biconvex, film-coated tablets containing 180 mg verapamil hydrochloride, USP (equivalent to 166.62 mg verapamil free base), and as brown colored, oval, biconvex, film-coated tablets containing 240 mg verapamil hydrochloride, USP (equivalent to 222.16 mg verapamil free base).
 The tablets are designed for sustained release of the drug in the gastrointestinal tract; sustained-release characteristics are not altered when the tablet is divided in half.
 
 The structural formula of verapamil HCl, USP is given below:
@@ -9,7 +9,7 @@ The structural formula of verapamil HCl, USP is given below:
 1. C27H38N2O4·HCl M.W.
    491.06 g/mol
 
-Benzeneacetonitrile, α-[3-[[2-(3,4-dimethoxyphenyl)ethyl]methylamino]propyl]-3,4-dimethoxy-α-(1-methylethyl) hydrochloride
+Benzeneacetonitrile, α-[3-[[2-(3,4-dimethoxyphenyl)-ethyl]methylamino]propyl]-3,4-dimethoxy-α-(1-methylethyl) hydrochloride
 
 Verapamil HCl, USP is an almost white, crystalline powder, practically free of odor, with a bitter taste.
 It is soluble in water, freely soluble in chloroform, sparingly soluble in alcohol and practically insoluble in ether.
