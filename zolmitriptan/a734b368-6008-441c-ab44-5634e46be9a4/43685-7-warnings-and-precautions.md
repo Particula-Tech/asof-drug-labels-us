@@ -9,14 +9,14 @@ Some of these reactions occurred in patients without known CAD.
 
 Perform a cardiovascular evaluation in triptan-naïve patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving zolmitriptan.
 Do not administer zolmitriptan if there is evidence of CAD or coronary artery vasospasm [see Contraindications (4)].
-For patients with multiple cardiovascular risk factors who have a negative cardiovascular evaluation, consider administering the first zolmitriptan dose in a medically-supervised setting and performing an electrocardiogram (ECG) immediately following zolmitriptan administration.
+For patients with multiple cardiovascular risk factors who have a negative cardiovascular evaluation, consider administrating the first zolmitriptan dose in a medically-supervised setting and performing an electrocardiogram (ECG) immediately following zolmitriptan administration.
 For such patients, consider periodic cardiovascular evaluation in intermittent long-term users of zolmitriptan.
 
 ## 5.2 Arrhythmias
 
 Life-threatening disturbances of cardiac rhythm including ventricular tachycardia and ventricular fibrillation leading to death have been reported within a few hours following the administration of 5-HT1 agonists.
 Discontinue zolmitriptan if these disturbances occur.
-Zolmitriptan is contraindicated in patients with Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Contraindications (4)].
+Zolmitriptan is contraindicated in patients with Wolff-Parkinson-White Syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders [see Contraindications (4)].
 
 ## 5.3 Chest, Throat, Neck and Jaw Pain/Tightness/Pressure
 
@@ -42,7 +42,7 @@ Since visual disorders may be part of a migraine attack, a causal relationship b
 
 ## 5.6 Medication Overuse Headache
 
-Overuse of acute migraine drugs (e.g. ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
+Overuse of acute migraine drugs (e.g., ergotamine, triptans, opioids, or a combination of drugs for 10 or more days per month) may lead to exacerbation of headache (medication overuse headache).
 Medication overuse headache may present as migraine-like daily headaches or as a marked increase in frequency of migraine attacks.
 Detoxification of patients, including withdrawal of the overused drugs, and treatment of withdrawal symptoms (which often includes a transient worsening of headache) may be necessary.
 

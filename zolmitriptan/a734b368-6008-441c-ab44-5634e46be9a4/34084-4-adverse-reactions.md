@@ -27,7 +27,7 @@ Several of the adverse reactions appear dose related, notably paresthesia, sensa
 
 Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine Clinical Trials*
 
-|  | Placebo(n=401) | Zolmitriptan Tablets 1 mg (n=163) | Zolmitriptan Tablets 2.5 mg (n=498) | Zolmitriptan Tablets 5 mg (n=1012) |
+|  | Placebo(n=401) | Zolmitriptan 1 mg (n=163) | Zolmitriptan 2.5 mg (n=498) | Zolmitriptan 5 mg (n=1012) |
 | --- | --- | --- | --- | --- |
 | ATYPICAL SENSATIONS | 6% | 12% | 12% | 18% |
 | Paresthesia (all types) | 2% | 5% | 7% | 9% |
@@ -55,7 +55,7 @@ Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine C
 There were no differences in the incidence of adverse reactions in controlled clinical trials in the following subgroups: gender, weight, age, use of prophylactic medications, or presence of aura.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.
 
-### Less Common Adverse Reactions with Zolmitriptan Tablets
+### Less Common Adverse Reactions with Zolmitriptan Tablets:
 
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical reactions are presented.
 Because the reports include reactions observed in open and uncontrolled studies, the role of zolmitriptan in their causation cannot be reliably determined.

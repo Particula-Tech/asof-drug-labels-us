@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 Myocardial Ischemia and/or Infarction, Prinzmetal’s Angina, Other Vasospastic Reactions, and Cerebrovascular Events
 
@@ -37,7 +37,7 @@ Inform patients with phenylketonuria (PKU) that zolmitriptan orally disintegrati
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited
 
 Colvale-Bardez, Goa 403513, India
 
@@ -52,4 +52,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-August 2019
+July 2022

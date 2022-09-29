@@ -23,7 +23,7 @@ The results of these controlled clinical studies are summarized in Table 2.
 
 Table 2: Percentage of Patients with Headache Response (Reduction in Headache Severity from Moderate or Severe Pain to Mild or No Headache) 2 Hours Following Treatment in Studies 1 through 5
 
-|  | Placebo | Zolmitriptan tablets 1 mg | Zolmitriptan tablets 2.5 mg | Zolmitriptan tablets 5 mg |
+|  | Placebo | Zolmitriptan 1 mg | Zolmitriptan 2.5 mg | Zolmitriptan 5 mg |
 | --- | --- | --- | --- | --- |
 | Study 1* | 16% (n†=19) | 27% (n=22) | NA‡ | 60%§¶ (n=20) |
 | Study 2 | 19% (n=88) | NA | NA | 66%§ (n=179) |
@@ -31,11 +31,11 @@ Table 2: Percentage of Patients with Headache Response (Reduction in Headache Se
 | Study 4# | 44%(n=55) | NA | NA | 59%§(n=491) |
 | Study 5 | 36%(n=92) | NA | 62%§(n=178) | NA |
 
-*Study 1 was the only study in which patients treated the headache in a clinic setting
+*Study 1 was the only study in which patients treated the headache in a clinic setting.
 
 † n=number of patients randomized
 
-‡ NA - not applicable
+‡ NA = not applicable
 
 § P<0.05 in comparison with placebo.
 
@@ -81,9 +81,9 @@ For patients with migraine-associated photophobia, phonophobia and nausea at bas
 Two to 24 hours following the initial dose of study treatment, patients were allowed to use additional treatment in the form of a second dose of study treatment or other medication.
 The estimated probability of patients taking a second dose or other medication for migraine over the 24 hours following the initial dose of study treatment in Study 6 is summarized in Figure 4.
 
-Figure 4 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines Over the 24 Hours Following the Initial Dose of Study Treatment in Study 6*
+Figure 4 The Estimated Probability of Patients Taking a Second Dose or Other Medication for Migraines over the 24 Hours Following the Initial Dose of Study Treatment in Study 6*
 
-* In this Kaplan-Meier plot, patients not taking additional treatments were censored at 24 hours.
+* In this Kaplan-Meier plot patients not taking additional treatments were censored at 24 hours.
 The plot includes both patients who had headache response at 2 hours and those who had no response to the initial dose.
 Taking another dose of study medication was allowed 2 hours post-dose in Study 6.
 In contrast to studies of zolmitriptan tablets (Studies 1, 2, 3, 4, and 5), Study 6 allowed re-dosing of zolmitriptan oral disintegrating tablets prior to 4 hours.

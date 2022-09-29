@@ -52,11 +52,11 @@ The renal clearance is greater than the glomerular filtration rate suggesting re
 
 In patients with severe hepatic impairment, the mean Cmax, Tmax, and AUC0 to ∞ of zolmitriptan were increased 1.5-fold, 2-fold (2 vs. 4 hours), and 3-fold, respectively, compared to subjects with normal hepatic function.
 Seven out of 27 patients experienced 20 to 80 mm Hg elevations in systolic and/or diastolic blood pressure after a 10 mg zolmitriptan dose.
-Adjust the zolmitriptan dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+Adjust the zolmitriptan dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 #### Renal Impairment
 
-Clearance of zolmitriptan was reduced by 25% in patients with severe renal impairment (Clcr ≥ 5 ≤ 25 mL/min) compared to subjects with normal renal function (Clcr ≥ 70 mL/min); no significant change in clearance was observed in patients with moderate renal impairment (Clcr ≥ 26 ≤ 50 mL/min).
+Clearance of zolmitriptan was reduced by 25% in patients with severe renal impairment (Clcr ≥ 5 ≤ 25 mL/min) compared to subjects with normal renal function (Clcr > = 70 mL/min); no significant change in clearance was observed in patients with moderate renal impairment (Clcr ≥ 26 ≤ 50 mL/min).
 
 #### Age
 

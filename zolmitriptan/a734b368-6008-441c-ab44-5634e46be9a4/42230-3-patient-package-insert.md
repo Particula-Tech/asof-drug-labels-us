@@ -44,7 +44,8 @@ Do not take zolmitriptan orally disintegrating tablets if you:
 - •Are allergic to zolmitriptan orally disintegrating tablets or any of its ingredients.
   The active ingredient is zolmitriptan.
   The inactive ingredients are listed at the end of this leaflet.
-- •Tell your doctor about all the medicines you take or plan to take, including prescription and non-prescription medicines, supplements, and herbal remedies.
+
+Tell your doctor about all the medicines you take or plan to take, including prescription and non-prescription medicines, supplements, and herbal remedies.
 
 Tell your doctor if you are sensitive to phenylalanine, which can be found in the artificial sweetener aspartame.
 Zolmitriptan orally disintegrating tablets contain phenylalanine.
@@ -59,7 +60,7 @@ Tell your doctor if you know that you have any of the following: risk factors fo
 Tell your doctor if you are pregnant or plan to become pregnant.
 It is not known if zolmitriptan will harm your unborn baby.
 
-Tell your doctor if you are breast feeding or plan to breast feed.
+Tell your doctor if you are breastfeeding or plan to breastfeed.
 It is not known if zolmitriptan passes into your breast milk.
 Talk to your doctor about the best way to feed your baby while using zolmitriptan orally disintegrating tablets.
 
@@ -141,17 +142,17 @@ Active ingredient: zolmitriptan
 Inactive ingredients: aspartame, colloidal silicon dioxide, crospovidone, magnesium stearate, mannitol, microcrystalline cellulose, peppermint flavor and talc.
 The peppermint flavor contains corn starch.
 
-Store zolmitriptan orally disintegrating tablets at 20°C to 25°C (68°F to 77°F); [see USP Controlled Room Temperature].
+Store zolmitriptan orally disintegrating tablets at 20°C to 25°C (68°F to 77°F); [see USP Controlled Room Temperature] and away from children.
 
 Protect from light and moisture.
 Discard when expired.
 
-Other brands mentioned are trademarks of their respective owners.
-The makers of these brands are not affiliated with Glenmark Pharmaceuticals Limited. or its products.
+Other brands mentioned are trademarks of their respective owners and are not trademarks of Glenmark Pharmaceuticals Limited.
+The makers of these brands are not affiliated with Glenmark Pharmaceuticals Limited or its products.
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Ltd.
+Glenmark Pharmaceuticals Limited
 
 Colvale-Bardez, Goa 403513, India
 
@@ -166,4 +167,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-August 2019
+July 2022
