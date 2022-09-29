@@ -7,7 +7,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 ## 6.1 Clinical Studies Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 
 In the rosuvastatin controlled clinical trials database (placebo or active-controlled) of 5394 patients with a mean treatment duration of 15 weeks, 1.4% of patients discontinued due to adverse reactions.
 The most common adverse reactions that led to treatment discontinuation were:
@@ -28,22 +28,22 @@ Adverse reactions reported in ≥2% of patients in placebo-controlled clinical s
 These studies had a treatment duration of up to 12 weeks.
 
 Table 1.
-Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin and > Placebo in Placebo-Controlled Trials (% of Patients)
+Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin and > Placebo in Placebo to Controlled Trials (% of Patients)
 
-| Adverse Reactions | Rosuvastatin 5 mgN=291 | Rosuvastatin 10 mgN=283 | Rosuvastatin 20 mgN=64 | Rosuvastatin 40 mgN=106 | Total Rosuvastatin 5 mg-40 mgN=744 | PlaceboN=382 |
+| Adverse Reactions | Rosuvastatin 5 mgN=291 | Rosuvastatin 10 mgN=283 | Rosuvastatin 20 mgN=64 | Rosuvastatin 40 mgN=106 | Total Rosuvastatin 5 mg to 40 mgN=744 | PlaceboN=382 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Headache | 5.5 | 4.9 | 3.1 | 8.5 | 5.5 | 5 |
 | Nausea | 3.8 | 3.5 | 6.3 | 0 | 3.4 | 3.1 |
 | Myalgia | 3.1 | 2.1 | 6.3 | 1.9 | 2.8 | 1.3 |
 | Asthenia | 2.4 | 3.2 | 4.7 | 0.9 | 2.7 | 2.6 |
 | Constipation | 2.1 | 2.1 | 4.7 | 2.8 | 2.4 | 2.4 |
-| 1Adverse reactions by COSTART preferred term. |  |  |  |  |  |  |
+| 1 Adverse reactions by COSTART preferred term. |  |  |  |  |  |  |
 
 Other adverse reactions reported in clinical studies were abdominal pain, dizziness, hypersensitivity (including rash, pruritus, urticaria, and angioedema) and pancreatitis.
 The following laboratory abnormalities have also been reported: dipstick-positive proteinuria and microscopic hematuria [see Warnings and Precautions (5.5)]; elevated creatine phosphokinase, transaminases, glucose, glutamyl transpeptidase, alkaline phosphatase, and bilirubin; and thyroid function abnormalities.
 
 In a clinical trial, involving 981 participants treated with rosuvastatin 40 mg (n=700) or placebo (n=281) with a mean treatment duration of 1.7 years, 5.6% of subjects treated with rosuvastatin versus 2.8% of placebo-treated subjects discontinued due to adverse reactions.
-The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea.
+The most common adverse reactions that led to treatment discontinuation were: myalgia, hepatic enzyme increased, headache, and nausea [see Clinical Studies (14.8)].
 
 Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 2.
 
@@ -60,8 +60,7 @@ Adverse Reactions1 Reported in ≥2% of Patients Treated with Rosuvastatin and >
 | Abdominal pain | 2.4 | 1.8 |
 | ALT >3 x ULN2 | 2.2 | 0.7 |
 
-- 1Adverse reactions by MedDRA preferred term.
-- 2Frequency recorded as abnormal laboratory value.
+1. 1 Adverse reactions by MedDRA preferred term.
 
 In a clinical trial, 17,802 participants were treated with rosuvastatin 20 mg (n=8901) or placebo (n=8901) for a mean duration of 2 years.
 A higher percentage of rosuvastatin-treated patients versus placebo-treated patients, 6.6% and 6.2%, respectively, discontinued study medication due to an adverse event, irrespective of treatment causality.
@@ -69,7 +68,7 @@ Myalgia was the most common adverse reaction that led to treatment discontinuati
 
 There was a significantly higher frequency of diabetes mellitus reported in patients taking rosuvastatin (2.8%) versus patients taking placebo (2.3%).
 Mean HbA1c was significantly increased by 0.1% in rosuvastatin-treated patients compared to placebo-treated patients.
-The number of patients with a HbA1c > 6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.6)].
+The number of patients with a HbA1c > 6.5% at the end of the trial was significantly higher in rosuvastatin-treated versus placebo-treated patients [see Warnings and Precautions (5.6) and Clinical Studies (14.9)].
 
 Adverse reactions reported in ≥ 2% of patients and at a rate greater than placebo are shown in Table 3.
 
@@ -80,12 +79,16 @@ Adverse Reactions1 Reported in ≥ 2% of Patients Treated with Rosuvastatin and 
 | --- | --- | --- |
 | Myalgia | 7.6 | 6.6 |
 | Arthralgia | 3.8 | 3.2 |
-| Constipation | 3.3 | 3.0 |
+| Constipation | 3.3 | 3 |
 | Diabetes mellitus | 2.8 | 2.3 |
 | Nausea | 2.4 | 2.3 |
 
-- 1.
-  Treatment-emergent adverse reactions by MedDRA preferred term.
+1. 1 Treatment-emergent adverse reactions by MedDRA preferred term.
+
+Pediatric Patients with Heterozygous Familial Hypercholesterolemia
+
+In a 12-week controlled study in boys and postmenarcheal girls 10 to 17 years of age with heterozygous familial hypercholesterolemia with rosuvastatin 5 to 20 mg daily [see Use in Specific Populations (8.4) and Clinical Studies (14.7)], elevations in serum creatine phosphokinase (CK) >10 x ULN were observed more frequently in rosuvastatin compared with placebo-treated children.
+Four of 130 (3%) children treated with rosuvastatin (2 treated with 10 mg and 2 treated with 20 mg) had increased CK >10 x ULN, compared to 0 of 46 children on placebo.
 
 ## 6.2 Postmarketing Experience
 

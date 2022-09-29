@@ -2,7 +2,7 @@
 
 ## 5.1 Skeletal Muscle Effects
 
-Cases of myopathy and rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with HMG-CoA reductase inhibitors, including rosuvastatin calcium.
+Cases of myopathy and rhabdomyolysis with acute renal failure secondary to myoglobinuria have been reported with HMG-CoA reductase inhibitors, including rosuvastatin.
 These risks can occur at any dose level, but are increased at the highest dose (40 mg).
 
 Rosuvastatin should be prescribed with caution in patients with predisposing factors for myopathy (e.g., age ≥ 65 years, inadequately treated hypothyroidism, renal impairment).
@@ -19,7 +19,7 @@ All patients should be advised to promptly report to their physician unexplained
 
 There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use.
 IMNM is characterized by: proximal muscle weakness and elevated serum creatine kinase, which persist despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
-Additional neuromuscular and serologic testing may be necessary.
+Additionalneuromuscular and serologic testingmay be necessary.
 Treatment with immunosuppressive agents may be required.
 Consider risk of IMNM carefully prior to initiation of a different statin.
 If therapy is initiated with a different statin, monitor for signs and symptoms of IMNM.

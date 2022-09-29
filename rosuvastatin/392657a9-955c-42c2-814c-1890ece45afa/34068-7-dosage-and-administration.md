@@ -15,6 +15,10 @@ When initiating rosuvastatin tablets therapy or switching from another HMG-CoA r
 
 After initiation or upon titration of rosuvastatin tablets, lipid levels should be analyzed within 2 to 4 weeks and the dosage adjusted accordingly.
 
+## 2.2 Pediatric Dosing
+
+In heterozygous familial hypercholesterolemia, the recommended dose range is 5 to 10 mg orally once daily in patients 8 to less than 10 years of age, and 5 to 20 mg orally once daily in patients 10 to 17 years of age.
+
 Pediatric use information for patients 7 to 17 years of age is approved for AstraZeneca’s CRESTOR (rosuvastatin calcium) tablets.
 However, due to AstraZeneca’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 

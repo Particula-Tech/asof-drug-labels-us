@@ -22,7 +22,11 @@ Bottles of 30 with child-resistant closure, NDC 68462-263-30 Bottles of 50 with 
 
 Bottles of 30 with child-resistant closure, NDC 68462-264-30 Bottles of 50 with child-resistant closure, NDC 68462-264-50 Bottles of 90 with child-resistant closure, NDC 68462-264-90
 
-Bottles of 100 with child-resistant closure, NDC 68462-264-01 Bottles of 500, NDC 68462-264-05
+Bottles of 100 with child-resistant closure, NDC 68462-264-01
+
+Bottles of 500, NDC 68462-264-05
+
+Bottles of 500, NDC 68462-264-05
 
 Bottles of 1000, NDC 68462-264-10
 

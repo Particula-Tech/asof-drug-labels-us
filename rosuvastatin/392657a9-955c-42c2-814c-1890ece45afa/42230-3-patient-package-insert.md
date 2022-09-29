@@ -1,6 +1,8 @@
 # PATIENT INFORMATION
 
-Rosuvastatin (roe-SOO-va-STAT-in KAL-see-um) Tablets, USP
+Rosuvastatin (roe-SOO-va-STAT-in KAL-see-um)
+
+Tablets, USP
 
 Read this Patient Information carefully before you start taking rosuvastatin tablets and each time you get a refill.
 If you have any questions about rosuvastatin tablets, ask your doctor.
@@ -11,12 +13,17 @@ What are rosuvastatin tablets?
 Rosuvastatin tablets are a prescription medicine that contains a cholesterol-lowering medicine called rosuvastatin.
 
 - •Rosuvastatin tablets are used along with diet to:
-  - •lower the level of your “bad” cholesterol (LDL)
-  - •increase the level of your “good” cholesterol (HDL)
-  - •lower the level of fat in your blood (triglycerides)
-  - •slow the buildup of fatty deposits (plaque) in the walls of blood vessels
+- olower the level of your “bad” cholesterol (LDL)
+- oincrease the level of your “good” cholesterol (HDL)
+- olower the level of fat in your blood (triglycerides)
+- oslow the buildup of fatty deposits (plaque) in the walls of blood vessels
 - •Rosuvastatin tablets are used to treat:
-  - •adults who cannot control their cholesterol levels by diet and exercise alone
+- oadults who cannot control their cholesterol levels by diet and exercise alone
+- ochildren 8 to 17 years of age with heterozygous familial hypercholesterolemia (an inherited condition that causes high levels of LDL)
+
+Rosuvastatin tablets are not approved for use in children with heterozygous familial hypercholesterolemia younger than 8 years of age or for use in children with homozygous familial hypercholesterolemia younger than 7 years of age.
+
+Rosuvastatin tablets are used to reduce the risk of heart attacks and strokes in men 50 years of age and older and women 60 years of age and older who do not have known heart disease but do have certain additional risk factors.
 
 It is not known if rosuvastatin tablets are safe and effective in people who have Fredrickson Type I and V dyslipidemias.
 
@@ -64,15 +71,15 @@ Especially tell your doctor if you take:
 - •gemfibrozil (a fibric acid medicine for lowering cholesterol)
 - •darolutamide (a medicine for the treatment of prostate cancer)
 - •regorafenib (a medicine used to treat cancer of the colon and rectum)
-- •anti-viral medicines including certain HIV or hepatitis C protease inhibitors such as:
-  - •lopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, simeprevir)
-  - •combination of
-    - ▪sofosbuvir/velpatasvir/voxilaprevir
-    - ▪dasabuvir/ombitasvir/paritaprevir/ritonavir
-    - ▪elbasvir/grazoprevir
-    - ▪sofosbuvir/velpatasvir
-    - ▪glecaprevir/pibrentasvir and
-  - •all other combinations with ledipasvir including ledipasvir/sofosbuvir
+- •anti-viral medicines including certain HIV or hepatitis C virus drugs such as:
+  - olopinavir, ritonavir, fosamprenavir, tipranavir, atazanavir, simeprevir
+  - ocombination of
+    - •sofosbuvir/velpatasvir/voxilaprevir
+    - •dasabuvir/ombitasvir/paritaprevir/ritonavir
+    - •elbasvir/grazoprevir
+    - •sofosbuvir/velpatasvir
+    - •glecaprevir/pibrentasvir and
+  - oall other combinations with ledipasvir including ledipasvir/sofosbuvir
 - •certain anti-fungal medicines (such as itraconazole, ketoconazole and fluconazole)
 - •coumarin anticoagulants (medicines that prevent blood clots, such as warfarin)
 - •niacin or nicotinic acid
@@ -107,25 +114,12 @@ Rosuvastatin tablets may cause serious side effects, including:
 - •Muscle pain, tenderness and weakness (myopathy).
   Muscle problems, including muscle breakdown, can be serious in some people and rarely cause kidney damage that can lead to death.
   Tell your doctor right away if:
-  - •you have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take rosuvastatin tablets.
-  - •you have muscle problems that do not go away even after your doctor has told you to stop taking rosuvastatin tablets.
+  - oyou have unexplained muscle pain, tenderness, or weakness, especially if you have a fever or feel more tired than usual, while you take rosuvastatin tablets.
+  - oyou have muscle problems that do not go away even after your doctor has told you to stop taking rosuvastatin tablets.
     Your doctor may do further tests to diagnose the cause of your muscle problems.
 - Your chances of getting muscle problems are higher if you:
-  1. •are taking certain other medicines while you take rosuvastatin tablets
-  2. •are 65 years of age or older
-  3. •have thyroid problems (hypothyroidism) that are not controlled
-  4. •have kidney problems
-  5. •are taking higher doses of rosuvastatin tablets
-- •Liver problems.
-  Your doctor should do blood tests to check your liver before you start taking rosuvastatin tablets and if you have symptoms of liver problems while you take rosuvastatin tablets.
-  Call your doctor right away if you have any of the following symptoms of liver problems:
-  - •feel unusually tired or weak
-  - •loss of appetite
-  - •upper belly pain
-  - •dark urine
-  - •yellowing of your skin or the whites of your eyes
 
-The most common side effects may include headache, muscle aches and pains, abdominal pain, weakness, and nausea.
+The most common side effects may include: headache, muscle aches and pains, abdominal pain, weakness, and nausea.
 
 Additional side effects that have been reported with rosuvastatin tablets include memory loss and confusion.
 
@@ -170,4 +164,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-February 2021
+September 2022
