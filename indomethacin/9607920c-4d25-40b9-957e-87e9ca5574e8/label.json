@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA018829"
+  ],
+  "inn": "indomethacin",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-067-18",
+    "62135-067-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "indomethacin",
+      "name": "INDOMETHACIN"
+    }
+  ],
+  "setid": "9607920c-4d25-40b9-957e-87e9ca5574e8",
+  "source": "dailymed"
+}
