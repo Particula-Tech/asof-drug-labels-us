@@ -27,7 +27,7 @@ The apparent steady-state volume of distribution is approximately 800 liters.
 ### Metabolism
 
 Four dihydroergotamine mesylate metabolites have been identified in human plasma following oral administration.
-The major metabolite, 8'-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.
+The major metabolite, 8’-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.
 The other metabolites, i.e., dihydrolysergic acid, dihydrolysergic amide and a metabolite formed by oxidative opening of the proline ring are of minor importance.
 Following nasal administration, total metabolites represent only 20%-30% of plasma AUC.
 The systemic clearance of dihydroergotamine mesylate following I.V. and I.M. administration is 1.5 L/min.

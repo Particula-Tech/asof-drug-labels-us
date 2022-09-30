@@ -13,7 +13,6 @@ Dihydroergotamine Mesylate Nasal Spray, should not be used for chronic daily adm
 Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use (see administration instructions).
 Once the nasal spray applicator has been prepared, it should be discarded (with any remaining drug in opened vial) after 8 hours.
 
-Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use.
-(See administration instructions)
+Prior to administration, the pump must be primed (i.e., squeeze 4 times) before use (see administration instructions).
 
 Once the nasal spray applicator has been prepared, it should be discarded (with any remaining drug in opened vial after 8 hours).

@@ -155,9 +155,9 @@ Can I assemble the medication vial and the Nasal Sprayer so it is ready before I
 No. The brown (amber) glass vial containing your medication must remain unopened until you are ready to use it.
 It may not be fully effective if opened and not used within 8 hours.
 
-Can I reuse my Dihydroergotamine Mesylate Nasal Spray?
+Can I reuse my Dihydroergotamine Mesylate Nasal Sprayer?
 
-No. After completing the full dose, you must carefully dispose of your Dihydroergotamine Mesylate Nasal Spray and the opened vial.
+No. After completing the full dose, you must carefully dispose of your Dihydroergotamine Mesylate Nasal Sprayer and the opened vial.
 You should use a new unit for your next migraine attack.
 Each Unit contains a new Nasal Sprayer, and a vial of Dihydroergotamine Mesylate Nasal Spray medication.
 

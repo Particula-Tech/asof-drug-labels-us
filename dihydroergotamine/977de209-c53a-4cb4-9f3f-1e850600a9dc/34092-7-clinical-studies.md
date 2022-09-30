@@ -3,7 +3,7 @@
 The efficacy of Dihydroergotamine Mesylate Nasal Spray for the acute treatment of migraine headaches was evaluated in four randomized, double-blind, placebo-controlled studies in the U.S. The patient population for the trials was predominantly female (87%) and Caucasian (95%) with a mean age of 39 years (range 18 to 65 years).
 Patients treated a single moderate to severe migraine headache with a single dose of study medication and assessed pain severity over the 24 hours following treatment.
 Headache response was determined 0.5, 1, 2, 3 and 4 hours after dosing and was defined as a reduction in headache severity to mild or no pain.
-In studies 1 and 2, a four-point pain intensity scale was utilized; in studies 3 and 4, a five-point scale was used that included both pain response and restoration of function for "severe" or "incapacitating" pain, a less clear endpoint.
+In studies 1 and 2, a four-point pain intensity scale was utilized; in studies 3 and 4, a five-point scale was used that included both pain response and restoration of function for “severe” or “incapacitating” pain, a less clear endpoint.
 Although rescue medication was allowed in all four studies, patients were instructed not to use them during the four-hour observation period.
 In studies 3 and 4, a total dose of 2 mg was compared to placebo.
 In studies 1 and 2, doses of 2 and 3 mg were evaluated, and showed no advantage of the higher dose for a single treatment.
@@ -38,12 +38,12 @@ Because studies are conducted at different times, with different samples of pati
 
 The Kaplan-Meier plots below (Figures 1 & 2) provides an estimate of the probability that a patient will have responded to a single 2 mg dose of Dihydroergotamine Mesylate Nasal Spray as a function of the time elapsed since initiation of treatment.
 
-* The figure shows the probability over time of obtaining a response following treatment with Dihydroergotamine Mesylate Nasal Spray.
+*The figure shows the probability over time of obtaining a response following treatment with Dihydroergotamine Mesylate Nasal Spray.
 Headache response was based on pain intensity as interpreted by the patient using a four-point pain intensity scale.
 Patients not achieving response within 4 hours were censored to 4 hours.
 
-* The figure shows the probability over time of obtaining a response following treatment with Dihydroergotamine Mesylate Nasal Spray.
-Headache response was evaluated on a five-point scale that confounded pain response and restoration of function for "severe" or "incapacitating" pain.
+*The figure shows the probability over time of obtaining a response following treatment with Dihydroergotamine Mesylate Nasal Spray.
+Headache response was evaluated on a five-point scale that confounded pain response and restoration of function for “severe” or “incapacitating” pain.
 Patients not achieving response within 4 hours were censored to 4 hours.
 
 For patients with migraine-associated nausea, photophobia, and phonophobia at baseline, there was a lower incidence of these symptoms at 2 and 4 hours following administration of Dihydroergotamine Mesylate Nasal Spray compared to placebo.
@@ -52,11 +52,11 @@ Patients were not allowed to use additional treatments for eight hours prior to 
 Following the 4-hour observation period, patients were allowed to use additional treatments.
 For all studies, the estimated probability of patients using additional treatments for their migraines over the 24 hours following the single 2 mg dose of study treatment is summarized in Figure 3 below.
 
-* Kaplan-Meier plot based on data obtained from all studies with patients not using additional treatments censored to 24 hours.
+*Kaplan-Meier plot based on data obtained from all studies with patients not using additional treatments censored to 24 hours.
 All patients received a single treatment of study medication for their migraine attack.
 The plot also includes patients who had no response to the initial dose.
 
-Neither age nor sex appear to affect the patient's response to Dihydroergotamine Mesylate Nasal Spray.
+Neither age nor sex appear to affect the patient’s response to Dihydroergotamine Mesylate Nasal Spray.
 While patients with menstrual migraine, migraine with aura, and migraine without aura by medical history were included in the clinical evaluation of Dihydroergotamine Mesylate Nasal Spray, patients were not required to report the specific type of migraine treated with study medication.
 Thus, neither the effect of menses on migraine nor the presence or the absence of aura were assessed.
 The racial distribution of patients was insufficient to determine the effect of race on the efficacy of Dihydroergotamine Mesylate Nasal Spray.

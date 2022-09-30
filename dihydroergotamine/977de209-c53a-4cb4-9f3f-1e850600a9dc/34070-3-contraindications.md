@@ -1,9 +1,9 @@
 # CONTRAINDICATIONS
 
 There have been a few reports of serious adverse events associated with the coadministration of dihydroergotamine and potent CYP 3A4 inhibitors, such as protease inhibitors and macrolide antibiotics, resulting in vasospasm that led to cerebral ischemia and/or ischemia of the extremities.
-The use of potent CYP 3A4 inhibitors (ritonavir, nelfinavir, indinavir, erythromycin, clarithromycin, troleandomycin, ketoconazole, itraconazole) with dihydroergotamine is, therefore contraindicated (see WARNINGS: CYP 3A4 Inhibitors).
+The use of potent CYP 3A4 inhibitors (ritonavir, nelfinavir, indinavir, erythromycin, clarithromycin, troleandomycin, ketoconazole, itraconazole) with dihydroergotamine is, therefore contraindicated (seeWARNINGS, CYP 3A4 Inhibitors).
 
-Dihydroergotamine Mesylate Nasal Spray should not be given to patients with ischemic heart disease (angina pectoris, history of myocardial infarction, or documented silent ischemia) or to patients who have clinical symptoms or findings consistent with coronary artery vasospasm including Prinzmetal's variant angina (see WARNINGS).
+Dihydroergotamine Mesylate Nasal Spray should not be given to patients with ischemic heart disease (angina pectoris, history of myocardial infarction, or documented silent ischemia) or to patients who have clinical symptoms or findings consistent with coronary artery vasospasm including Prinzmetal’s variant angina (seeWARNINGS).
 
 Because Dihydroergotamine Mesylate Nasal Spray may increase blood pressure, it should not be given to patients with uncontrolled hypertension.
 

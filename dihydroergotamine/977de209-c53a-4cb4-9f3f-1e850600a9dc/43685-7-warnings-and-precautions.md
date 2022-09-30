@@ -17,16 +17,16 @@ There have been reports of pleural and retroperitoneal fibrosis in patients foll
 Rarely, prolonged daily use of other ergot alkaloid drugs has been associated with cardiac valvular fibrosis.
 Rare cases have also been reported in association with the use of injectable dihydroergotamine mesylate; however, in those cases, patients also received drugs known to be associated with cardiac valvular fibrosis.
 
-Administration of Dihydroergotamine Mesylate Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
+Administration of Dihydroergotamine Mesylate Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (seeDOSAGE AND ADMINISTRATION).
 
 ## Risk of Myocardial Ischemia and/or Infarction and Other Adverse Cardiac Events:
 
 Dihydroergotamine Mesylate Nasal Spray should not be used by patients with documented ischemic or vasospastic coronary artery disease (see CONTRAINDICATIONS).
 It is strongly recommended that Dihydroergotamine Mesylate Nasal Spray not be given to patients in whom unrecognized coronary artery disease (CAD) is predicted by the presence of risk factors (e.g., hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of CAD, females who are surgically or physiologically postmenopausal, or males who are over 40 years of age) unless a cardiovascular evaluation provides satisfactory clinical evidence that the patient is reasonably free of coronary artery and ischemic myocardial disease or other significant underlying cardiovascular disease.
 The sensitivity of cardiac diagnostic procedures to detect cardiovascular disease or predisposition to coronary artery vasospasm is modest, at best.
-If, during the cardiovascular evaluation, the patient's medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia, Dihydroergotamine Mesylate Nasal Spray should not be administered (see CONTRAINDICATIONS).
+If, during the cardiovascular evaluation, the patient’s medical history or electrocardiographic investigations reveal findings indicative of or consistent with coronary artery vasospasm or myocardial ischemia, Dihydroergotamine Mesylate Nasal Spray should not be administered (see CONTRAINDICATIONS).
 
-For patients with risk factors predictive of CAD who are determined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of Dihydroergotamine Mesylate Nasal Spray take place in the setting of a physician's office or similar medically staffed and equipped facility unless the patient has previously received dihydroergotamine mesylate.
+For patients with risk factors predictive of CAD who are determined to have a satisfactory cardiovascular evaluation, it is strongly recommended that administration of the first dose of Dihydroergotamine Mesylate Nasal Spray take place in the setting of a physician’s office or similar medically staffed and equipped facility unless the patient has previously received dihydroergotamine mesylate.
 Because cardiac ischemia can occur in the absence of clinical symptoms, consideration should be given to obtaining on the first occasion of use an electrocardiogram (ECG) during the interval immediately following Dihydroergotamine Mesylate Nasal Spray, in these patients with risk factors.
 
 It is recommended that patients who are intermittent long-term users of Dihydroergotamine Mesylate Nasal Spray and who have or acquire risk factors predictive of CAD, as described above, undergo periodic interval cardiovascular evaluation as they continue to use Dihydroergotamine Mesylate Nasal Spray.
@@ -69,11 +69,11 @@ An 18% increase in mean pulmonary artery pressure was seen following dosing with
 ## General
 
 Dihydroergotamine Mesylate Nasal Spray may cause coronary artery vasospasm; patients who experience signs or symptoms suggestive of angina following its administration should, therefore, be evaluated for the presence of CAD or a predisposition to variant angina before receiving additional doses.
-Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud's syndrome following the use of any 5-HT agonist are candidates for further evaluation (see WARNINGS).
+Similarly, patients who experience other symptoms or signs suggestive of decreased arterial flow, such as ischemic bowel syndrome or Raynaud’s syndrome following the use of any 5-HT agonist are candidates for further evaluation (see WARNINGS).
 
 ### Fibrotic Complications:
 
-see WARNINGS: Fibrotic Complications
+see WARNINGS, Fibrotic Complications
 
 ## Information for Patients
 
@@ -84,8 +84,7 @@ Once the nasal spray applicator has been prepared, it should be discarded (with 
 
 Patients should be advised to report to the physician immediately any of the following: numbness or tingling in the fingers and toes, muscle pain in the arms and legs, weakness in the legs, pain in the chest, temporary speeding or slowing of the heart rate, swelling, or itching.
 
-Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided.
-(See Patient Information Sheet and product packaging).
+Prior to the initial use of the product by a patient, the prescriber should take steps to ensure that the patient understands how to use the product as provided (see Patient Information Sheet and product packaging).
 
 Administration of Dihydroergotamine Mesylate Nasal Spray, should not exceed the dosing guidelines and should not be used for chronic daily administration (see DOSAGE AND ADMINISTRATION).
 
@@ -100,7 +99,7 @@ Dihydroergotamine Mesylate Nasal Spray should not be used with peripheral vasoco
 Sumatriptan has been reported to cause coronary artery vasospasm, and its effect could be additive with Dihydroergotamine Mesylate Nasal Spray.
 Sumatriptan and Dihydroergotamine Mesylate Nasal Spray should not be taken within 24 hours of each other (see CONTRAINDICATIONS).
 
-### Beta Blockers
+### Beta-Blockers
 
 Although the results of a clinical study did not indicate a safety problem associated with the administration of Dihydroergotamine Mesylate Nasal Spray to subjects already receiving propranolol, there have been reports that propranolol may potentiate the vasoconstrictive action of ergotamine by blocking the vasodilating property of epinephrine.
 
@@ -112,10 +111,10 @@ Nicotine may provoke vasoconstriction in some patients, predisposing to a greate
 
 See CONTRAINDICATIONS and WARNINGS.
 
-### SSRI's
+### SSRI’s
 
-Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been coadministered with SSRI's (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
-There have been no reported cases from spontaneous reports of drug interaction between SSRI's and Dihydroergotamine Mesylate Nasal Spray or D.H.E.
+Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been coadministered with SSRI’s (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
+There have been no reported cases from spontaneous reports of drug interaction between SSRI’s and Dihydroergotamine Mesylate Nasal Spray or D.H.E.
 45.
 
 ### Oral Contraceptives

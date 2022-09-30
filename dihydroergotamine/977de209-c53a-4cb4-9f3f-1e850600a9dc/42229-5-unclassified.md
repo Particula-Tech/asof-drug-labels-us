@@ -43,6 +43,6 @@ Milano, Italy
 © 2022 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-04/2022
+09/2022
 
 9606502
