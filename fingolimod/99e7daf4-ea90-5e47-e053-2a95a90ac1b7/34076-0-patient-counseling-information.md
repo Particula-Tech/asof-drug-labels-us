@@ -87,4 +87,4 @@ Distributed by:
 
 Rising Pharmaceuticals, Inc.
 
-East Brunswick, NJ 08816
+Saddle Brook, NJ 07663
