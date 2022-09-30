@@ -80,6 +80,5 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Hepatic Impairment
 
-Patients with moderate to severe hepatic impairment (Child-Pugh Class B and C, respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure to budesonide [see Warnings and Precautions (5.1)].
-Avoid use of ORTIKOS in patients with moderate and severe hepatic impairment.
+Patients with moderate to severe hepatic impairment (Child-Pugh Class B and C, respectively) could be at an increased risk of hypercorticism and adrenal axis suppression due to an increased systemic exposure to budesonide [see Warnings and Precautions (5.1)] Avoid use of ORTIKOS in patients with moderate and severe hepatic impairment.
 No dosage adjustment is needed in patients with mild hepatic impairment (Child-Pugh Class A).

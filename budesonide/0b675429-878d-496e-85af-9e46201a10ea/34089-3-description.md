@@ -9,7 +9,9 @@ Its structural formula is:
 Budesonide is a white to off-white powder that is practically insoluble in water and heptane, sparingly soluble in ethanol, and freely soluble in chloroform.
 Its partition coefficient between octanol and water at pH 5 is 1.6 × 103 ionic strength 0.01.
 
-Each extended-release capsule for oral administration contains 6 mg or 9 mg of budesonide, USP (micronized) with the following inactive ingredients: acetyl tributyl citrate, corn starch, ethylcellulose aqueous dispersion, methacrylic acid and ethyl acrylate copolymer dispersion, polysorbate 80, simethicone emulsion, sucrose, talc, and triethyl citrate.
+Ortikos is formulated as hard gelatin capsules filled with enteric-coated pellets that dissolve at pH greater than 5.5
+
+Each delayed-release capsule for oral administration contains 6 mg or 9 mg of budesonide, USP (micronized) with the following inactive ingredients: acetyl tributyl citrate, corn starch, ethylcellulose aqueous dispersion, methacrylic acid and ethyl acrylate copolymer dispersion, polysorbate 80, simethicone emulsion, sucrose, talc, and triethyl citrate.
 
 Capsule shell contains gelatin, iron oxide black (for 6 mg), iron oxide red, iron oxide yellow, sodium lauryl sulphate and titanium dioxide.
 

@@ -2,7 +2,7 @@
 
 NDC 55566-1002-1
 
-Ortikos™ (budesonide) Extended-Release Capsules
+Ortikos® (budesonide) Delayed-Release Capsules
 
 6 mg
 
@@ -14,7 +14,7 @@ FERRING PHARMACEUTICALS
 
 NDC 55566-1020-1
 
-Ortikos™ (budesonide) Extended-Release Capsules
+Ortikos® (budesonide) Delayed-Release Capsules
 
 9 mg
 

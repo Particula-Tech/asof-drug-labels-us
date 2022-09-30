@@ -1,3 +1,5 @@
 Distributor: Ferring Pharmaceuticals Inc. Parsippany, NJ 07054
 
-Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India.
+Manufactured by: Sun Pharmaceutical Industries Ltd. Halol-Baroda Highway, Halol-389 350, Gujarat, India
+
+5233387 Issued: June 2022
