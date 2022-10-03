@@ -15,12 +15,12 @@ One of these intermediates was also positive in the mouse lymphoma assay.
 Imatinib was not genotoxic when tested in an in vitro bacterial cell assay (Ames test), an in vitro mammalian cell assay (mouse lymphoma) and an in vivo rat micronucleus assay.
 
 In a study of fertility, male rats were dosed for 70 days prior to mating and female rats were dosed 14 days prior to mating and through to gestational Day 6.
-Testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately three-fourths the maximum clinical dose of 800 mg/day based on body surface area.
+Testicular and epididymal weights and percent motile sperm were decreased at 60 mg/kg, approximately three-fourths the maximum clinical dose of 800 mg/day based on BSA.
 This was not seen at doses less than or equal to 20 mg/kg (one-fourth the maximum human dose of 800 mg).
 The fertility of male and female rats was not affected.
 
 Fertility was not affected in the preclinical fertility and early embryonic development study although lower testes and epididymal weights as well as a reduced number of motile sperm were observed in the high dose male rats.
-In the preclinical pre- and postnatal study in rats, fertility in the first-generation offspring was also not affected by imatinib mesylate.
+In the preclinical pre- and postnatal study in rats, fertility in the first generation offspring was also not affected by imatinib mesylate.
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 

@@ -9,10 +9,12 @@ Imatinib inhibits colony formation in assays using ex vivo peripheral blood and 
 In vivo, imatinib inhibits tumor growth of BCR-ABL transfected murine myeloid cells as well as BCR-ABL positive leukemia lines derived from CML patients in blast crisis.
 
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF) and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
+In vitro, imatinib inhibits proliferation and induces apoptosis in GIST cells, which express an activating c-Kit mutation.
 
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of imatinib mesylate have been evaluated in studies in healthy subjects and in population pharmacokinetic studies in over 900 patients.
+The pharmacokinetics of imatinib mesylate are similar in CML and GIST patients.
 
 Absorption and Distribution Imatinib is well absorbed after oral administration with Cmax achieved within 2 to 4 hours post-dose.
 Mean absolute bioavailability is 98%.
@@ -58,7 +60,7 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 Pediatric Use As in adult patients, imatinib was rapidly absorbed after oral administration in pediatric patients, with a Cmax of 2 to 4 hours.
 Apparent oral clearance was similar to adult values (11.0 L/hr/m2 in children vs 10.0 L/hr/m2 in adults), as was the half-life (14.8 hours in children vs 17.1 hours in adults).
 Dosing in children at both 260 mg/m2 and 340 mg/m2 achieved an AUC similar to the 400 mg dose in adults.
-The comparison of AUC on Day 8 vs Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once daily dosing.
+The comparison of AUC on Day 8 vs Day 1 at 260 mg/m2 and 340 mg/m2 dose levels revealed a 1.5- and 2.2-fold drug accumulation, respectively, after repeated once-daily dosing.
 Mean imatinib AUC did not increase proportionally with increasing dose.
 
 Based on pooled population pharmacokinetic analysis in pediatric patients with hematological disorders (CML, Ph+ ALL, or other hematological disorders treated with imatinib), clearance of imatinib increases with increasing BSA.
@@ -89,7 +91,7 @@ Imatinib mesylate tablets will increase plasma concentration of other CYP3A4 met
 Because warfarin is metabolized by CYP2C9 and CYP3A4, patients who require anticoagulation should receive low-molecular weight or standard heparin instead of warfarin.
 
 Interactions with Drugs Metabolized by CYP2D6 Imatinib mesylate tablets increased the mean Cmax and AUC of metoprolol by approximately 23% suggesting that imatinib mesylate has a weak inhibitory effect on CYP2D6-mediated metabolism.
-No dose adjustment is necessary; however, caution is recommended when administering imatinib mesylate tablets with CYP2D6 substrates that have a narrow therapeutic window.
+No dose adjustment is necessary, however, caution is recommended when administering imatinib mesylate tablets with CYP2D6 substrates that have a narrow therapeutic window.
 
 Interactions with Acetaminophen In vitro, imatinib mesylate inhibits the acetaminophen O-glucuronidate pathway (Ki 58.5 mcM).
 Coadministration of imatinib mesylate tablets (400 mg/day for eight days) with acetaminophen (1,000 mg single dose on Day 8) in patients with CML did not result in any changes in the pharmacokinetics of acetaminophen.

@@ -44,11 +44,11 @@ This time-to-event endpoint may be affected by the high crossover rate from IFN+
 Major cytogenetic response, hematologic response, evaluation of minimal residual disease (molecular response), time to accelerated phase or blast crisis and survival were main secondary endpoints.
 Response data are shown in Table 18.
 Complete hematologic response, major cytogenetic response and CCyR were also statistically significantly higher in the imatinib mesylate arm compared to the IFN + Ara-C arm (no cross-over data considered for evaluation of responses).
-Median time to CCyR in the 454 responders was 6 months (range 2 to 64 months, 25th to 75th percentiles = 3 to 11 months) with 10% of responses seen only after 22 months of therapy.
+Median time to CCyR in the 454 responders was 6 months (range, 2 to 64 months, 25th to 75th percentiles = 3 to 11 months) with 10% of responses seen only after 22 months of therapy.
 
 Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
 
-| Best Response Rate | Imatinib mesylate n = 553 | IFN+Ara-C n = 553 |
+| Best Response Rate | Imatinib Mesylate n = 553 | IFN+Ara-C n = 553 |
 | --- | --- | --- |
 | Hematologic Response1 |  |  |
 | CHR Rate n (%) | 534 (96.6%)* | 313 (56.6%)* |
@@ -57,10 +57,10 @@ Table 18: Response in Newly Diagnosed CML Study (84-Month Data)
 | Major Cytogenetic Response n (%) | 472 (85.4%)* | 93 (16.8%)* |
 | [95% CI] | [82.1%, 88.2%] | [13.8%, 20.2%] |
 | Unconfirmed3 | 88.6%* | 23.3%* |
-| CCyR n (%) | 413 (74.7%)* | 36 (6.5%)* |
+| Complete Cytogenetic Response n (%) (%) | 413 (74.7%)* | 36 (6.5%)* |
 | [95% CI] | [70.8, 78.3] | [4.6, 8.9] |
 | Unconfirmed3 | 82.5%* | 11.6%* |
-| *p less than 0.001, Fischer's exact test. 1Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocyte + metamyelocyte less than 5% in blood, no blasts and promyelocytes in blood, no extramedullary involvement. 2Cytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1% to 35%). A major response (0% to 35%) combines both complete and partial responses. 3Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. |  |  |
+| *pless than 0.001, Fischer's exact test. 1Hematologic response criteria (all responses to be confirmed after greater than or equal to 4 weeks): WBC less than 10 x 109/L, platelet less than 450 x 109/L, myelocyte + metamyelocyte less than 5% in blood, no blasts and promyelocytes in blood, no extramedullary involvement. 2Cytogenetic response criteria (confirmed after greater than or equal to 4 weeks): complete (0% Ph+ metaphases) or partial (1% to 35%). A major response (0% to 35%) combines both complete and partial responses. 3Unconfirmed cytogenetic response is based on a single bone marrow cytogenetic evaluation, therefore unconfirmed complete or partial cytogenetic responses might have had a lesser cytogenetic response on a subsequent bone marrow evaluation. |  |  |
 
 Molecular response was defined as follows: in the peripheral blood, after 12 months of therapy, reduction of greater than or equal to 3 logarithms in the amount of BCR-ABL transcripts (measured by real-time quantitative reverse transcriptase PCR assay) over a standardized baseline.
 Molecular response was only evaluated in a subset of patients who had a CCyR by 12 months or later (N = 333).
@@ -72,14 +72,14 @@ There was no apparent change from baseline in median index for patients treated 
 
 An open-label, multicenter, randomized trial (imatinib mesylate versus nilotinib) was conducted to determine the efficacy of imatinib mesylate versus nilotinib in adult patients with cytogenetically confirmed, newly diagnosed Ph+ CML-CP.
 Patients were within 6 months of diagnosis and were previously untreated for CML-CP, except for hydroxyurea and/or anagrelide.
-Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice-daily group.
+Efficacy was based on a total of 846 patients: 283 patients in the imatinib mesylate 400 mg once daily group, 282 patients in the nilotinib 300 mg twice daily group, 281 patients in the nilotinib 400 mg twice daily group.
 
-Median age was 46 years in the imatinib mesylate group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate 400 mg once-daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
-There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib mesylate 400 mg once-daily, nilotinib 300 mg twice-daily and nilotinib 400 mg twice daily treatment groups, respectively).
+Median age was 46 years in the imatinib mesylate group and 47 years in both nilotinib groups, with 12%, 13%, and 10% of patients greater than or equal to 65 years of age in imatinib mesylate 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively.
+There were slightly more male than female patients in all groups (56%, 56%, and 62% in imatinib mesylate 400 mg once daily, nilotinib 300 mg twice daily and nilotinib 400 mg twice daily treatment groups, respectively).
 More than 60% of all patients were Caucasian, and 25% were Asian.
 
 The primary data analysis was performed when all 846 patients completed 12 months of treatment or discontinued earlier.
-Subsequent analyses were done when patients completed 24, 36, 48 and 60 months of treatment or discontinued earlier.
+Subsequent analyses were done when patients completed 24, 36, 48, and 60 months of treatment or discontinued earlier.
 The median time on treatment was approximately 61 months in all three treatment groups.
 
 The primary efficacy endpoint was major molecular response (MMR) at 12 months after the start of study medication.
@@ -90,7 +90,7 @@ Twelve patients in the imatinib mesylate arm progressed to either accelerated ph
 
 Table 19: Efficacy (MMR and CCyR) of Imatinib Mesylate Compared to Nilotinib in Newly Diagnosed Ph+ CML-CP
 
-|  | Imatinib mesylate 400 mg once daily | Nilotinib 300 mg twice daily |
+|  | Imatinib Mesylate 400 mg once daily | Nilotinib 300 mg twice daily |
 | --- | --- | --- |
 |  | N = 283 | N = 282 |
 | MMR at 12 months (95% CI) | 22% (17.6, 27.6) | 44% (38.4, 50.3) |
@@ -142,10 +142,10 @@ Effectiveness was evaluated primarily on the basis of rate of hematologic respon
 Cytogenetic responses were also assessed.
 Median duration of treatment was 4 months with 21% of patients treated for greater than or equal to 12 months and 10% for greater than or equal to 24 months (maximum = 35 months).
 Efficacy results are reported in Table 20.
-The hematologic response rate was higher in untreated patients than in treated patients (36% vs 22%, respectively) and in the group receiving an initial dose of 600 mg rather than 400 mg (33% vs 16%).
+The hematologic response rate was higher in untreated patients than in treated patients (36% vs 22%, respectively) and in the group receiving an initial dose of 600-mg rather than 400-mg (33% vs 16%).
 The confirmed and unconfirmed major cytogenetic response rate was also higher for the 600 mg dose group than for the 400 mg dose group (17% vs 8%).
 
-Table 20: Response in CML Studies
+Table 20: Response in Chronic Myeloid Leukemia Studies
 
 |  | Chronic Phase IFN Failure(n = 532) | Accelerated Phase(n = 235) | Myeloid Blast Crisis(n = 260) |
 | --- | --- | --- | --- |
@@ -212,7 +212,7 @@ In a second study, 2 of 3 patients with Ph+ chronic phase CML resistant to inter
 ## 14.3 Acute Lymphoblastic Leukemia
 
 A total of 48 Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) patients with relapsed/refractory disease were studied, 43 of whom received the recommended imatinib mesylate dose of 600 mg/day.
-In addition, 2 patients with relapsed/refractory Ph+ ALL received imatinib mesylate 600 mg/day in a phase 1 study.
+In addition 2 patients with relapsed/refractory Ph+ ALL received imatinib mesylate 600 mg/day in a Phase 1 study.
 
 Confirmed and unconfirmed hematologic and cytogenetic response rates for the 43 relapsed/refractory Ph+ALL Phase 2 study patients and for the 2 Phase 1 patients are shown in Table 21.
 The median duration of hematologic response was 3.4 months and the median duration of MCyR was 2.3 months.
@@ -244,7 +244,7 @@ Cohort 1 received the lowest intensity and cohort 5 received the highest intensi
 
 There were 50 patients with Ph+ ALL assigned to cohort 5 all of whom received imatinib mesylate tablets plus chemotherapy; 30 were treated exclusively with chemotherapy and imatinib mesylate tablets and 20 received chemotherapy plus imatinib mesylate tablets and then underwent hematopoietic stem cell transplant, followed by further imatinib mesylate tablets treatment.
 Patients in cohort 5 treated with chemotherapy received continuous daily exposure to imatinib mesylate tablets beginning in the first course of post induction chemotherapy continuing through maintenance cycles 1 through 4 chemotherapy.
-During maintenance cycles 5 through 12 imatinib mesylate tablets was administered 28 days out of the 56 day cycle.
+During maintenance cycles 5 through 12, imatinib mesylate tablets was administered 28 days out of the 56 day cycle.
 Patients who underwent hematopoietic stem cell transplant received 42 days of imatinib mesylate tablets prior to HSCT, and 28 weeks (196 days) of imatinib mesylate tablets after the immediate post-transplant period.
 The estimated 4-year EFS of patients in cohort 5 was 70% (95% CI: 54, 81).
 The median follow-up time for EFS at data cutoff in cohort 5 was 40.5 months.
@@ -274,7 +274,7 @@ Table 22: Response in MDS/MPD
 | Overall Population | 31 | 14 (45) | 12 (39) |
 | Chromosome 5 Translocation | 14 | 11 (79) | 11 (79) |
 | Chromosome 4 Translocation | 2 | 2 (100) | 1 (50) |
-| Others / no Translocation | 14 | 1 (7) | 0 |
+| Others/no Translocation | 14 | 1 (7) | 0 |
 | Molecular Relapse | 1 | NE1 | NE1 |
 | Abbreviations: NE, not evaluable; MDS/MPD, myelodysplastic/myeloproliferative disease. |  |  |  |
 
@@ -291,7 +291,7 @@ Patients with this cytogenetic abnormality were predominantly males and had eosi
 Two patients had a Kit mutation in the juxtamembrane region (one Phe522Cys and one K509I) and four patients had a D816V c-Kit mutation (not considered sensitive to imatinib mesylate), one with concomitant CML.
 
 Of the 28 patients treated for ASM, 8 (29%) achieved a complete hematologic response and 9 (32%) a partial hematologic response (PHR) (61% overall response rate).
-Median duration of imatinib mesylate therapy for the 5 ASM patients in the Phase 2 study was 13 months (range 1.4 to 22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature.
+Median duration of imatinib mesylate therapy for the 5 ASM patients in the Phase 2 study was 13 months (range, 1.4 to 22.3 months) and between 1 month and more than 30 months in the responding patients described in the published medical literature.
 A summary of the response rates to imatinib mesylate in ASM is provided in Table 23.
 Response durations of literature patients ranged from 1+ to 30+ months.
 
@@ -304,7 +304,7 @@ Table 23: Response in ASM
 | Unknown or No Cytogenetic Abnormality Detected | 15 | 0 | 7 (44) |
 | D816V Mutation | 4 | 1* (25) | 0 |
 | Total | 28 | 8 (29) | 9 (32) |
-| Abbreviations: ASM, aggressive systemic mastocytosis; PDGFR, platelet-derived growth factor receptor. *Patient had concomitant chronic myeloid leukemia CML and aggressive systemic mastocytosis (ASM). |  |  |  |
+| Abbreviations: ASM, aggressive systemic mastocytosis; PDGFR, platelet-derived growth factor receptor. *Patient had concomitant chronic myeloid leukemia CML and ASM. |  |  |  |
 
 Imatinib mesylate has not been shown to be effective in patients with less aggressive forms of systemic mastocytosis (SM).
 Imatinib mesylate is therefore not recommended for use in patients with cutaneous mastocytosis, indolent systemic mastocytosis (smoldering SM or isolated bone marrow mastocytosis), SM with an associated clonal hematological non-mast cell lineage disease, mast cell leukemia, mast cell sarcoma or extracutaneous mastocytoma.
@@ -338,7 +338,7 @@ Dermatofibrosarcoma Protuberans (DFSP) is a cutaneous soft tissue sarcoma.
 It is characterized by a translocation of chromosomes 17 and 22 that results in the fusion of the collagen type 1 alpha 1 gene and the PDGF B gene.
 
 An open-label, multicenter, Phase 2 study was conducted testing imatinib mesylate in a diverse population of patients with life-threatening diseases associated with Abl, Kit or PDGFR protein tyrosine kinases.
-This study included 12 patients with DFSP who were treated with imatinib mesylate 800 mg daily (imatinib as free base) (age range 23 to 75 years).
+This study included 12 patients with DFSP who were treated with imatinib mesylate 800 mg daily (imatinib as free base) (age range, 23 to 75 years).
 DFSP was metastatic, locally recurrent following initial surgical resection and not considered amenable to further surgery at the time of study entry.
 A further 6 DFSP patients treated with imatinib mesylate are reported in 5 published case reports, their ages ranging from 18 months to 49 years.
 The total population treated for DFSP therefore comprises 18 patients, 8 of them with metastatic disease.
@@ -361,3 +361,81 @@ A further 3 patients achieved a partial response, for an overall response rate o
 Of the 8 patients with metastatic disease, five responded (62%), three of them completely (37%).
 For the 10 study patients with the PDGF B gene rearrangement, there were 4 complete and 6 partial responses.
 The median duration of response in the Phase 2 study was 6.2 months, with a maximum duration of 24.3 months, while in the published literature it ranged between 4 weeks and more than 20 months.
+
+## 14.9 Gastrointestinal Stromal Tumors
+
+Unresectable and/or Malignant Metastatic GIST
+
+Two open-label, randomized, multinational Phase 3 studies were conducted in patients with unresectable or metastatic malignant GIST.
+The two study designs were similar allowing a predefined combined analysis of safety and efficacy.
+A total of 1,640 patients were enrolled into the two studies and randomized 1:1 to receive either 400 mg or 800 mg orally daily continuously until disease progression or unacceptable toxicity.
+Patients in the 400 mg daily treatment group who experienced disease progression were permitted to crossover to receive treatment with 800 mg daily.
+The studies were designed to compare response rates, progression-free survival and overall survival between the dose groups.
+Median age at patient entry was 60 years.
+Males comprised 58% of the patients enrolled.
+All patients had a pathologic diagnosis of CD117 positive unresectable and/or metastatic malignant GIST.
+
+The primary objective of the two studies was to evaluate either progression-free survival (PFS) with a secondary objective of overall survival (OS) in one study or overall survival with a secondary objective of PFS in the other study.
+A planned analysis of both OS and PFS from the combined datasets from these two studies was conducted.
+Results from this combined analysis are shown in Table 26.
+
+Table 26: Overall Survival, Progression-Free Survival and Tumor Response Rates in the Phase 3 GIST Trials
+
+|  | Imatinib Mesylate400 mg | Imatinib Mesylate800 mg |  |  |
+| --- | --- | --- | --- | --- |
+|  | N = 818 | N = 822 |  |  |
+| Progression-Free Survival (months) Median | 18.9 |  | 23.2 |  |
+| 95% CI | 17.4–21.2 |  | 20.8–24.9 |  |
+| Overall Survival (months) | 49 |  | 48.7 |  |
+| 95% CI | 45.3–60 |  | 45.3–51.6 |  |
+| Best Overall Tumor Response Complete Response | 43 (5.3%) |  | 41 (5%) |  |
+| Partial Response | 377 (46.1%) |  | 402 (48.9%) |  |
+
+Abbreviation: GIST, gastrointestinal stromal tumors.
+
+Median follow up for the combined studies was 37.5 months.
+There were no observed differences in overall survival between the treatment groups (p = 0.98).
+Patients who crossed over following disease progression from the 400 mg/day treatment group to the 800 mg/day treatment group (n = 347) had a 3.4 month median and a 7.7 month mean exposure to imatinib mesylate following crossover.
+
+One open-label, multinational Phase 2 study was conducted in patients with Kit (CD117) positive unresectable or metastatic malignant GIST.
+In this study, 147 patients were enrolled and randomized to receive either 400 mg or 600 mg orally every day for up to 36 months.
+The primary outcome of the study was objective response rate.
+Tumors were required to be measurable at entry in at least one site of disease, and response characterization was based on Southwestern Oncology Group (SWOG) criteria.
+There were no differences in response rates between the 2 dose groups.
+The response rate was 68.5% for the 400 mg group and 67.6% for the 600 mg group.
+The median time to response was 12 weeks (range was 3 to 98 weeks) and the estimated median duration of response is 118 weeks (95% CI: 86, not reached).
+
+Adjuvant Treatment of GIST
+
+In the adjuvant setting, imatinib mesylate was investigated in a multicenter, double-blind, placebo-controlled, randomized trial involving 713 patients (Study 1).
+Patients were randomized one to one to imatinib mesylate (imatinib as free base) at 400 mg/day or matching placebo for 12 months.
+The ages of these patients ranged from 18 to 91 years.
+Patients were included who had a histologic diagnosis of primary GIST, expressing KIT protein by immunochemistry and a tumor size greater than or equal to 3 cm in maximum dimension with complete gross resection of primary GIST within 14 to 70 days prior to registration.
+
+Recurrence-free survival (RFS) was defined as the time from date of randomization to the date of recurrence or death from any cause.
+In a planned interim analysis, the median follow up was 15 months in patients without a RFS event; there were 30 RFS events in the 12-month imatinib mesylate arm compared to 70 RFS events in the placebo arm with a hazard ratio of 0.398 (95% CI: 0.259, 0.610), p less than 0.0001.
+After the interim analysis of RFS, 79 of the 354 patients initially randomized to the placebo arm were eligible to cross over to the 12-month imatinib mesylate arm.
+Seventy-two of these 79 patients subsequently crossed over to imatinib mesylate therapy.
+In an updated analysis, the median follow-up for patients without a RFS event was 50 months.
+There were 74 (21%) RFS events in the 12-month imatinib mesylate arm compared to 98 (28%) events in the placebo arm with a hazard ratio of 0.718 (95% CI: 0.531 to 0.971) (Figure 3).
+The median follow-up for OS in patients still living was 61 months.
+There were 26 (7%) and 33 (9%) deaths in the 12-month imatinib mesylate and placebo arms, respectively with a hazard ratio of 0.816 (95% CI: 0.488 to 1.365).
+
+Figure 3: Study 1 Recurrence-Free Survival (ITT Population)
+
+A second randomized, multicenter, open-label, Phase 3 trial in the adjuvant setting (Study 2) compared 12 months of imatinib mesylate treatment to 36 months of imatinib mesylate (imatinib as free base) treatment at 400 mg/day in adult patients with KIT (CD117) positive GIST after surgical resection with one of the following: tumor diameter greater than 5 cm and mitotic count greater than 5/50 high power fields (HPF), or tumor diameter greater than 10 cm and any mitotic count, or tumor of any size with mitotic count greater than 10/50 HPF, or tumors ruptured into the peritoneal cavity.
+There were a total of 397 patients randomized in the trial with 199 patients on the 12-month treatment arm and 198 patients on the 36-month treatment arm.
+The median age was 61 years (range, 22 to 84 years).
+
+RFS was defined as the time from date of randomization to the date of recurrence or death from any cause.
+The median follow-up for patients without a RFS event was 42 months.
+There were 84 (42%) RFS events in the 12-month treatment arm and 50 (25%) RFS events in the 36-month treatment arm.
+Thirty-six months of imatinib mesylate treatment significantly prolonged RFS compared to 12 months of imatinib mesylate treatment with a hazard ratio of 0.46 (95% CI: 0.32, 0.65), p less than 0.0001 (Figure 4).
+
+The median follow-up for overall survival (OS) in patients still living was 48 months.
+There were 25 (13%) deaths in the 12-month treatment arm and 12 (6%) deaths in the 36-month treatment arm.
+Thirty-six months of imatinib mesylate treatment significantly prolonged OS compared to 12 months of imatinib mesylate treatment with a hazard ratio of 0.45 (95% CI: 0.22, 0.89), p=0.0187 (Figure 5).
+
+Figure 4: Study 2 Recurrence-Free Survival (ITT Population)
+
+Figure 5: Study 2 Overall Survival (ITT Population)

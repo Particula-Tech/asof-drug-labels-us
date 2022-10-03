@@ -20,4 +20,6 @@ Complete resolution of muscle cramps occurred following interruption of therapy 
 Another patient that was prescribed 400 mg daily (imatinib as free base), took 800 mg of imatinib mesylate (imatinib as free base) on Day 1 and 1,200 mg (imatinib as free base) on Day 2.
 Therapy was interrupted, no adverse reactions occurred and the patient resumed therapy.
 
-Pediatric Overdose One 3 year old male exposed to a single dose of 400 mg experienced vomiting, diarrhea and anorexia and another 3 year old male exposed to a single dose of 980 mg experienced decreased white blood cell (WBC) count and diarrhea.
+Pediatric Overdose
+
+One 3 year old male exposed to a single dose of 400 mg experienced vomiting, diarrhea, and anorexia and another 3 year old male exposed to a single dose of 980 mg experienced decreased white blood cell (WBC) count and diarrhea.

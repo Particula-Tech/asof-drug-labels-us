@@ -37,10 +37,13 @@ Considering the combined concentration of imatinib and active metabolite, a brea
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Pregnancy Testing Human postmarketing reports and animal studies have shown imatinib mesylate to be harmful to the developing fetus.
+Human postmarketing reports and animal studies have shown imatinib mesylate to be harmful to the developing fetus [see Use in Specific Populations (8.1)].
+
+Pregnancy Testing
+
 Test pregnancy status in females with reproductive potential prior to the initiation of treatment with imatinib mesylate tablets.
 
-Contraception Females Advise female patients of reproductive potential to use effective contraception (methods that result in less than 1 % pregnancy rates) when using imatinib mesylate tablets during treatment and for fourteen days after stopping treatment with imatinib mesylate tablets [see Use in Specific Populations (8.1)].
+Contraception Females Advise female patients of reproductive potential to use effective contraception (methods that result in less than 1% pregnancy rates) when using imatinib mesylate tablets during treatment and for fourteen days after stopping treatment with imatinib mesylate tablets [see Use in Specific Populations (8.1)].
 
 Infertility The risk of infertility in females or males of reproductive potential has not been studied in humans.
 In a rat study, the fertility in males and females was not affected [see Nonclinical Toxicology (13)].
@@ -57,6 +60,13 @@ In the study of patients with newly diagnosed CML, 6% of patients were older tha
 The frequency of edema was higher in patients older than 65 years as compared to younger patients; no other difference in the safety profile was observed [see Warnings and Precautions (5.1)].
 The efficacy of imatinib mesylate was similar in older and younger patients.
 
+In the unresectable or metastatic GIST study, 16% of patients were older than 65 years.
+No obvious differences in the safety or efficacy profile were noted in patients older than 65 years as compared to younger patients, but the small number of patients does not allow a formal analysis.
+
+In the adjuvant GIST study, 221 patients (31%) were older than 65 years.
+No difference was observed in the safety profile in patients older than 65 years as compared to younger patients, with the exception of a higher frequency of edema.
+The efficacy of imatinib mesylate was similar in patients older than 65 years and younger patients.
+
 ## 8.6 Hepatic Impairment
 
 The effect of hepatic impairment on the pharmacokinetics of both imatinib and its major metabolite, CGP74588, was assessed in 84 patients with cancer with varying degrees of hepatic impairment at imatinib doses ranging from 100 mg to 800 mg.
@@ -69,7 +79,7 @@ Table 16: Liver Function Classification
 
 | Liver Function Test | Normal (n = 14) | Mild (n = 30) | Moderate (n = 20) | Severe (n = 20) |
 | --- | --- | --- | --- | --- |
-| Total Bilirubin | less than or equal to ULN | greater than 1.0-1.5 times the ULN | greater than 1.5-3 times the ULN | greater than 3-10 times the ULN |
+| Total Bilirubin | less than or equal to ULN | greater than 1.0 to 1.5 times the ULN | greater than 1.5 to 3 times the ULN | greater than 3 to 10 times the ULN |
 | SGOT | less than or equal to ULN | greater than ULN (can be normal if Total Bilirubin is greater than ULN) | Any | Any |
 
 Abbreviation: SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); ULN, upper limit of normal for the institution.
@@ -83,9 +93,10 @@ Dose reductions are necessary for patients with moderate and severe renal impair
 
 Table 17: Renal Function Classification
 
-| Renal Dysfunction | Renal Function Tests |  |
-| --- | --- | --- |
-| Mild | CrCL = 40-59 mL/min |  |
-| Moderate | CrCL = 20-39 mL/min |  |
-| Severe | CrCL = less than 20 mL/min |  |
-| Abbreviation: CrCL, creatinine clearance. |  |  |
+| Renal Dysfunction | Renal Function Tests |
+| --- | --- |
+| Mild | CrCL = 40 to 59 mL/min |
+| Moderate | CrCL = 20 to 39 mL/min |
+| Severe | CrCL = less than 20 mL/min |
+
+Abbreviation: CrCL, creatinine clearance.
