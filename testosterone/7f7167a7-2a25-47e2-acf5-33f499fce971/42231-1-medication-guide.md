@@ -1,4 +1,4 @@
-33ZATREX™ (testosterone undecanoate) capsules, for oral use CIII
+KYZATREX™ (testosterone undecanoate) capsules, for oral use only CIII
 
 | MEDICATION GUIDE KYZATREX ™ (ky-ZAH-treks) (testosterone undecanoate) capsules, for oral use, CIII |
 | --- |
