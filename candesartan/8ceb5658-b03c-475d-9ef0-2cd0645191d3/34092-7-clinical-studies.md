@@ -18,7 +18,7 @@ In a total of 1268 patients with mild to moderate hypertension who were not rece
 The antihypertensive effects of twice daily dosing of either candesartan cilexetil or losartan potassium were not studied.
 
 The antihypertensive effect was similar in men and women and in patients older and younger than 65.
-Candesartan was effective in reducing blood pressure regardless of race, although the effect was somewhat less in blacks (usually a lowrenin population).
+Candesartan was effective in reducing blood pressure regardless of race, although the effect was somewhat less in blacks (usually a low-renin population).
 This has been generally true for angiotensin II antagonists and ACE inhibitors.
 
 In long-term studies of up to 1 year, the antihypertensive effectiveness of candesartan cilexetil was maintained, and there was no rebound after abrupt withdrawal.

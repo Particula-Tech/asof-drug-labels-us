@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Patient Information Candesartan Cilexetil Tablets (kan" de sar' tan sye lex e til) Read the Patient information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
+Patient Information Candesartan Cilexetil Tablets (kan" de sar' tan sye lex e til) Read the Patient Information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about candesartan cilexetil tablets, ask your doctor or pharmacist.
@@ -100,7 +100,7 @@ See “What is the most important information I should know about candesartan ci
 · Low blood pressure (hypotension).
 Low blood pressure is most likely to happen if you:
 
-- take water pills (diuretics)
+o take water pills (diuretics)
 
 o are on a low salt diet
 
@@ -152,7 +152,7 @@ How should I store candesartan cilexetil tablets?
 
 · Do not keep medicine that is out of date or that you no longer need.
 
-· Store at 20° to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59° to 86°F).
+· Store candesartan cilexetil tablets at room temperature below 86°F (30°C).
 
 · Store candesartan cilexetil tablets oral suspension at room temperature below 86°F (30°C).
 
@@ -171,7 +171,7 @@ It may harm them.
 This leaflet summarizes the most important information about candesartan cilexetil tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about candesartan cilexetil tablets that is written for health professionals.
-For more information, contact Macleods Pharma USA, Inc. at 1-888-943-3210.
+For more information, contact Macleods Pharma USA, Inc. at 1-888-943-3210 or or 1-855-926-3384.
 What are the ingredients in candesartan cilexetil tablets?
 Active ingredient: candesartan cilexetil.
 Inactive ingredients in candesartan cilexetil tablets and candesartan cilexetil oral suspension are: hydroxypropyl cellulose, lactose monohydrate, corn starch, glycerin, carboxymethylcellulose calcium, and magnesium stearate.
@@ -183,4 +183,14 @@ This helps lower blood pressure.
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Manufactured by: Macleods Pharmaceutical Limited Daman (U.T.)
-INDIA Manufactured for: Macleods Pharma USA, Inc., Plainsboro, NJ 08536 Ora-Plus®, Ora-Sweet SF®, and Ora-Blend SF® are registered trademarks of Paddock Laboratories, Inc. Revised: 06/2017 PM02574701
+INDIA
+
+Manufactured for:
+
+Macleods Pharma USA, Inc.
+
+Princeton, NJ 08540
+
+All brand names listed are the registered trademarks of their respective owners.
+
+Revised: 08/2022

@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 There was no evidence of carcinogenicity when candesartan cilexetil was orally administered to mice and rats for up to 104 weeks at doses up to 100 and 1000 mg/kg/day, respectively.
 Rats received the drug by gavage, whereas mice received the drug by dietary administration.

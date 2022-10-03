@@ -57,5 +57,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following have been very rarely reported in post-marketing experience: Digestive: Abnormal hepatic function and hepatitis.
 Hematologic: Neutropenia, leukopenia, and agranulocytosis.
 Immunologic: Angioedema.
-Metabolic and Nutritional Disorders: Hyperkalemia, hyponatremia.Respiratory system disorders: Cough.
+Metabolic and Nutritional Disorders: Hyperkalemia, hyponatremia.Respiratory System Disorders: Cough.
 Skin and Appendages Disorders: Pruritus, rash and urticaria.Rare reports of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers

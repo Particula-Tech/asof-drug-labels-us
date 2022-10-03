@@ -6,5 +6,5 @@ The most likely manifestation of overdosage with candesartan cilexetil would be 
 If symptomatic hypotension should occur, supportive treatment should be instituted.
 Candesartan cannot be removed by hemodialysis.
 Treatment: To obtain up-to-date information about the treatment of overdose, consult your Regional Poison Control Center.
-Telephone numbers of certified poison control centers are listed in the Physician's Desk Reference (PDR).
+Telephone numbers of certified poison control centers are listed in the Physicians' Desk Reference (PDR).
 In managing overdose, consider the possibilities of multiple-drug overdoses, drug-drug interactions, and altered pharmacokinetics in your patient

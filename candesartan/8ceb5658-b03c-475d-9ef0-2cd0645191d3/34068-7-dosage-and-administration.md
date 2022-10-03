@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Adult Hypertension
 
@@ -10,14 +10,14 @@ Larger doses do not appear to have a greater effect, and there is relatively lit
 Most of the antihypertensive effect is present within 2 weeks, and maximal blood pressure reduction is generally obtained within 4 to 6 weeks of treatment with candesartan cilexetil tablets.
 
 Use in Hepatic Impairment: Initiate with 8 mg candesartan cilexetil tablets in patients with moderate hepatic insufficiency.
-Dosing recommendations cannot be provided for patients with severe hepatic insufficiency [see clinical pharmacology (12.3)]
+Dosing recommendations cannot be provided for patients with severe hepatic insufficiency [see Clinical Pharmacology (12.3)]
 
 Candesartan cilexetil tablets may be administered with or without food.
 
 If blood pressure is not controlled by candesartan cilexetil tablets alone, a diuretic may be added.
 Candesartan cilexetil tablets may be administered with other antihypertensive agents.
 
-## 2.2 Pediatric Hypertension 1 to < 17 Years of age
+## 2.2 Pediatric Hypertension 1 to < 17 Years of Age
 
 Candesartan cilexetil tablets may be administered once daily or divided into two equal doses.
 Adjust the dosage according to blood pressure response.
@@ -42,7 +42,7 @@ An antihypertensive effect is usually present within 2 weeks, with full effect g
 
 Children < 1 year of age must not receive candesartan cilexetil tablets for hypertension.
 
-All pediatric patients with a glomerular filtration rate less than 30 ml/min/1.73m2 should not receive candesartan cilexetil tablets since candesartan cilexetil tablets has not been studied in this population [see Use in Specific Populations (8.4)]
+All pediatric patients with a glomerular filtration rate less than 30 mL/min/1.73m2 should not receive candesartan cilexetil tablets since candesartan cilexetil tablets has not been studied in this population [see Use in Specific Populations (8.4)].
 
 For children who cannot swallow tablets, an oral suspension may be substituted as described below:
 
@@ -55,7 +55,7 @@ Any strength of candesartan cilexetil tablets can be used in the preparation of 
 Follow the steps below for preparation of the suspension.
 The number of tablets and volume of vehicle specified below will yield 160 mL of a 1 mg/mL suspension.
 
-• Prepare the vehicle by adding equal volumes of Ora-Plus® (80 mL) and Ora-Sweet SF® (80 mL) or, alternatively, use, 1Ora-Blend SF® (160 mL).
+• Prepare the vehicle by adding equal volumes of Ora-Plus® (80 mL) and Ora-Sweet SF® (80 mL) or, alternatively, use Ora-Blend SF® (160 mL).
 
 • Add a small amount of vehicle to the required number of candesartan cilexetil tablets (five 32 mg tablets) and grind into a smooth paste using a mortar and pestle.
 

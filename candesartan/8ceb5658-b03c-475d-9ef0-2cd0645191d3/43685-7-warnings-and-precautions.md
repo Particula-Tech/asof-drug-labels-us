@@ -2,14 +2,11 @@
 
 ## 5.1 Fetal Toxicity
 
-Pregnancy Category D Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Candesartan cilexetil tablets can cause fetal harm when administered to a pregnant woman.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
 Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations.
 Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure and death.
 When pregnancy is detected, discontinue candesartan cilexetil as soon as possible [see Use in Specific Populations (8.1)].
-Oral doses ≥10 mg of candesartan cilexetil/kg/day administered to pregnant rats during late gestation and continued through lactation were associated with reduced survival and an increased incidence of hydronephrosis in the offspring.
-The 10-mg/kg/day dose in rats is approximately 2.8 times the maximum recommended daily human dose (MRHD) of 32 mg on a mg/m2 basis (comparison assumes human body weight of 50 kg).
-Candesartan cilexetil given to pregnant rabbits at an oral dose of 3 mg/kg/day (approximately 1.7 times the MRHD on a mg/m2 basis) caused maternal toxicity (decreased body weight and death) but, in surviving dams, had no adverse effects on fetal survival, fetal weight, or external, visceral, or skeletal development.
-No maternal toxicity or adverse effects on fetal development were observed when oral doses up to 1000 mg of candesartan cilexetil/kg/day (approximately 138 times the MRHD on a mg/m2 basis) were administered to pregnant mice.
 
 ## 5.2 Morbidity in Infants
 
@@ -41,7 +38,7 @@ In the CHARM-Added program, where candesartan or placebo was given in addition t
 Drugs that inhibit the renin-angiotensin system can cause hyperkalemia.
 Concomitant use of candesartan cilexetil with drugs that increase potassium levels may increase the risk of hyperkalemia [see Drug Interactions (7.1)].
 
-Monitor serum potassium periodically
+Monitor serum potassium periodically.
 
 In the CHARM program (heart failure patients), the incidence of hyperkalemia was 6.3% in patients treated with candesartan cilexetil versus 2.1% in patients treated with placebo.
 The incidence of hyperkalemia leading to drug discontinuation in candesartan cilexetil-treated patients was 2.4% compared with 0.6% in placebo-treated patients.
