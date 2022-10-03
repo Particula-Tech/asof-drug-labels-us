@@ -165,7 +165,7 @@ Anaerobic bacteria
 - Bacteroides thetaiotaomicron
 - Peptostreptococcus species
 
-The followingin vitro data are available, but their clinical significance is unknown.
+The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for meropenem against isolates of similar genus or organism group.
 However, the efficacy of meropenem in treating clinical infections caused by these microorganisms has not been established in adequate and well-controlled clinical trials.
 
