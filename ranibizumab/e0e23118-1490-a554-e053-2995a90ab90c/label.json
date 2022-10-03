@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761165"
+  ],
+  "inn": "ranibizumab",
+  "labeler": "COHERUS BioSciences, Inc.",
+  "package_ndcs": [
+    "70114-440-01",
+    "70114-441-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ranibizumab-eqrn",
+      "name": "CIMERLI"
+    }
+  ],
+  "setid": "e0e23118-1490-a554-e053-2995a90ab90c",
+  "source": "dailymed"
+}
