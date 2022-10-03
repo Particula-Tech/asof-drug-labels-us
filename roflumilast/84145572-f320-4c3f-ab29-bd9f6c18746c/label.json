@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208303"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "package_ndcs": [
+    "68382-969-06",
+    "68382-969-16"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "Roflumilast"
+    }
+  ],
+  "setid": "84145572-f320-4c3f-ab29-bd9f6c18746c",
+  "source": "dailymed"
+}
