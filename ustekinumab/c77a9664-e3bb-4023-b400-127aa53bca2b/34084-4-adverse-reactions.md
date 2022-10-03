@@ -77,7 +77,7 @@ Subjects who were responders in either Study CD-1 or CD-2 were randomized to rec
 Subjects in these 3 studies may have received other concomitant therapies including aminosalicylates, immunomodulatory agents [azathioprine (AZA), 6-mercaptopurine (6-MP), methotrexate (MTX)], oral corticosteroids (prednisone or budesonide), and/or antibiotics for their Crohn's disease [see Clinical Studies (14.4)].
 
 The overall safety profile of STELARA® was consistent with the safety profile seen in the adult psoriasis and psoriatic arthritis clinical studies.
-Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 5 and 6, respectively.
+Common adverse reactions in Studies CD-1 and CD-2 and in Study CD-3 are listed in Tables 6 and 7, respectively.
 
 Table 6: Common adverse reactions through Week 8 in Studies CD-1 and CD-2 occurring in ≥3% of STELARA®-treated subjects and higher than placebo
 
