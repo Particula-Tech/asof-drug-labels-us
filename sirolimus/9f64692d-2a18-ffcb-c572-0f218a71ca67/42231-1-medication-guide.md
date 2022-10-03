@@ -38,6 +38,9 @@ Your doctor will decide:
 
 It is not known if sirolimus oral solution is safe and effective in children under 13 years of age.
 
+Sirolimus is a prescription medicine also used to treat lymphangioleiomyomatosis (LAM).
+LAM is a rare progressive lung disease that affects predominantly women of childbearing age.
+
 Who should not take sirolimus oral solution?
 
 Do not take sirolimus oral solution if you are allergic to sirolimus or any of the other ingredients in sirolimus oral solution.
@@ -54,7 +57,7 @@ What should I tell my doctor before taking sirolimus oral solution?
   In order to avoid pregnancy, a female who can get pregnant should use effective birth control during treatment and for 12 weeks after your final dose of sirolimus oral solution.
   Talk with your doctor about what birth control method is right for you during this time.
   Tell your doctor right away if you become pregnant or think you are pregnant during treatment with sirolimus oral solution or within 12 weeks after your final dose of sirolimus oral solution.
-- It is not known whether sirolimus oral solution passes into breast milk. however, there is a risk of serious side effects in breastfed infants.
+- It is not known whether sirolimus passes into breast milk; however, there is a risk of serious side effects in breastfed infants.
   You and your doctor should decide about the best way to feed your baby if you take sirolimus oral solution.
 
 Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
@@ -73,8 +76,10 @@ Especially tell your doctor if you take:
 - medicines used to treat stomach acid, ulcers, or other gastrointestinal problems
 - bromocriptine mesylate (Parlodel, Cycloset)
 - danazol
+- letermovir (Prevymis)
 - medicines to treat HIV or hepatitis C
 - St. John's Wort
+- cannabidiol (Epidiolex)
 
 How should I take sirolimus oral solution?
 
@@ -84,12 +89,12 @@ How should I take sirolimus oral solution?
   Do not change your dose of sirolimus oral solution unless your doctor tells you to.
 - If you also take cyclosporine (Gengraf, Neoral, Sandimmune), you should take your sirolimus oral solution and cyclosporine about 4 hours apart.
 - Do not stop taking sirolimus oral solution or your other anti-rejection medicines unless your doctor tells you to.
-- Your doctor will check the levels of sirolimus oral solution in your blood.
+- Your doctor will check the levels of sirolimus in your blood.
   Your doctor may change your dose of sirolimus oral solution depending on your blood test results.
 - Sirolimus oral solution is taken by mouth 1 time each day.
 - Take each dose of sirolimus oral solution the same way, either with or without food.
   Food can affect the amount of medicine that gets into your bloodstream.
-  Taking each dose of sirolimus oral solution the same way helps keep your blood levels of sirolimus oral solution more stable.
+  Taking each dose of sirolimus oral solution the same way helps keep your blood levels of sirolimus more stable.
   Do not take sirolimus oral solution with grapefruit juice.
 - Sirolimus oral solution can develop a slight haze when it is refrigerated.
   If this happens, bring the sirolimus oral solution to room temperature and then gently shake the bottle until the haze goes away.
@@ -166,6 +171,20 @@ The most common side effects of sirolimus oral solution in people with renal tra
 - low platelet count (cells that help blood to clot)
 - high blood sugar (diabetes)
 
+The most common side effects of sirolimus oral solution in people with LAM include:
+
+- mouth sores
+- diarrhea
+- stomach pain
+- nausea
+- sore throat
+- acne
+- chest pain
+- upper respiratory tract infection
+- headache
+- dizziness
+- sore muscles
+
 Other side effects that may occur with sirolimus oral solution:
 
 - Sirolimus oral solution may affect fertility in females and may affect your ability to become pregnant.
@@ -191,7 +210,7 @@ Sirolimus oral solution:
 - When a bottle of sirolimus oral solution is opened, it should be used within 1 month.
 - Use any diluted sirolimus oral solution right away.
 
-Do not use sirolimus oral solution after the expiration date, which is located on the carton.
+Do not use sirolimus oral solution after the expiration date.
 The expiration date refers to the last day of that month.
 
 Safely throw away medicine that is out of date or no longer needed.
@@ -233,7 +252,7 @@ SIROLIMUS ORAL SOLUTION
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: January 2020
+Revised: September 2022
 
 Rev.
-6
+7

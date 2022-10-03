@@ -46,9 +46,19 @@ Prednisone should be administered at a minimum of 5 mg/day.
 
 Antibody induction therapy may be used.
 
+## 2.4 Dosing in Patients with Lymphangioleiomyomatosis
+
+For patients with lymphangioleiomyomatosis, the initial sirolimus dose should be 2 mg/day.
+Sirolimus whole blood trough concentrations should be measured in 10-20 days, with dosage adjustment to maintain concentrations between 5-15 ng/mL [see Dosage and Administration (2.5)].
+
+In most patients, dose adjustments can be based on simple proportion: new sirolimus dose = current dose x (target concentration/current concentration).
+Frequent sirolimus dose adjustments based on non-steady-state sirolimus concentrations can lead to overdosing or under dosing because sirolimus has a long half-life.
+Once sirolimus maintenance dose is adjusted, patients should continue on the new maintenance dose for at least 7 to 14 days before further dosage adjustment with concentration monitoring.
+Once a stable dose is achieved, therapeutic drug monitoring should be performed at least every three months.
+
 ## 2.5 Therapeutic Drug Monitoring
 
-Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
+Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Warnings and Precautions (5.20, 5.21), Drug Interactions (7)].
 
 Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus therapy.
 Careful attention should be made to clinical signs/symptoms, tissue biopsy findings, and laboratory parameters.

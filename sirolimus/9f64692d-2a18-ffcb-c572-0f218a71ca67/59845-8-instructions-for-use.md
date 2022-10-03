@@ -21,7 +21,7 @@ Important:
 
 Each sirolimus oral solution carton contains:
 
-|  | a) a 2 oz. (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)b) 1 oral syringe adapter for fitting into the neck of the bottlec) enough disposable amber oral syringes and caps for daily dosingd) 1 carrying case |
+|  | a) a 2 oz. (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)b) 1 oral syringe adapter for fitting into the neck of the bottlec) enough disposable oral syringes (amber color) and caps for daily dosing d) 1 carrying case |
 | --- | --- |
 
 You will also need:
@@ -64,7 +64,7 @@ SIROLIMUS ORAL SOLUTION
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: January 2020
+Revised: September 2022
 
 Rev.
-6
+7

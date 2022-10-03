@@ -4,7 +4,7 @@
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression.
 The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7 to 3.2% (for sirolimus-treated patients) versus 0.6 to 0.8% (azathioprine and placebo control) [see Adverse Reactions (6.1) and (6.2)].
-Over suppression of the immune system can also increase susceptibility to infection, including opportunistic infections such as tuberculosis, fatal infections, and sepsis.
+Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections such as tuberculosis, fatal infections, and sepsis.
 Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use sirolimus for prophylaxis of organ rejection in patients receiving renal transplants.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient.
@@ -135,11 +135,10 @@ Advise female patients of reproductive potential to avoid becoming pregnant and 
 
 ## 5.16 Male Infertility
 
-Azoospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
-
+Azoospermia or oligospermia may be observed [see Adverse Reactions (6.7), Nonclinical Toxicology (13.1)].
 Sirolimus is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
 
-## 5.17 Different Sirolimus Trough Concentrations Reported between Chromatographic and Immunoassay Methodologies
+## 5.17 Different Sirolimus Trough Concentration Reported between Chromatographic and Immunoassay Methodologies
 
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by various chromatographic and immunoassay methodologies.
 Patient sample concentration values from different assays may not be interchangeable [see Dosage and Administration (2.5)].
@@ -158,3 +157,8 @@ Therefore, during treatment with sirolimus, vaccination may be less effective.
 ## 5.20 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
 Avoid concomitant use of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)].
+
+## 5.21 Cannabidiol Drug Interactions
+
+When cannabidiol and sirolimus are co-administered, closely monitor for an increase in sirolimus blood levels and for adverse reactions suggestive of sirolimus toxicity.
+A dose reduction of sirolimus should be considered as needed when sirolimus is co-administered with cannabidiol [see Dosage and Administration (2.5) and Drug Interactions (7.5)].

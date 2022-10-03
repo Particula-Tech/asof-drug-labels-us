@@ -5,11 +5,11 @@
 Sirolimus inhibits T-lymphocyte activation and proliferation that occurs in response to antigenic and cytokine (Interleukin [IL]-2, IL-4, and IL-15) stimulation by a mechanism that is distinct from that of other immunosuppressants.
 Sirolimus also inhibits antibody production.
 In cells, sirolimus binds to the immunophilin, FK Binding Protein-12 (FKBP-12), to generate an immunosuppressive complex.
-The sirolimus: FKBP-12 complex has no effect on calcineurin activity.
+The sirolimus:FKBP-12 complex has no effect on calcineurin activity.
 This complex binds to and inhibits the activation of the mammalian target of rapamycin (mTOR), a key regulatory kinase.
 This inhibition suppresses cytokine-driven T-cell proliferation, inhibiting the progression from the G1 to the S phase of the cell cycle.
 
-Mammalian target of sirolimus (mTOR) inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability
+Mammalian target of sirolimus (mTOR) inhibitors such as sirolimus have been shown in vitro to inhibit production of certain growth factors that may affect angiogenesis, fibroblast proliferation, and vascular permeability.
 
 Studies in experimental models show that sirolimus prolongs allograft (kidney, heart, skin, islet, small bowel, pancreatico-duodenal, and bone marrow) survival in mice, rats, pigs, and/or primates.
 Sirolimus reverses acute rejection of heart and kidney allografts in rats and prolongs the graft survival in presensitized rats.
@@ -17,6 +17,10 @@ In some studies, the immunosuppressive effect of sirolimus lasts up to 6 months 
 This tolerization effect is alloantigen-specific.
 
 In rodent models of autoimmune disease, sirolimus suppresses immune-mediated events associated with systemic lupus erythematosus, collagen-induced arthritis, autoimmune type I diabetes, autoimmune myocarditis, experimental allergic encephalomyelitis, graft-versus-host disease, and autoimmune uveoretinitis.
+
+Lymphangioleiomyomatosis involves lung tissue infiltration with smooth muscle-like cells that harbor inactivating mutations of the tuberous sclerosis complex (TSC) gene (LAM cells).
+Loss of TSC gene function activates the mTOR signaling pathway, resulting in cellular proliferation and release of lymphangiogenic growth factors.
+Sirolimus inhibits the activated mTOR pathway and thus the proliferation of LAM cells.
 
 ## 12.2 Pharmacodynamics
 
@@ -249,7 +253,7 @@ Other drugs that have the potential to increase sirolimus blood concentrations i
 - Antifungal agents: clotrimazole, fluconazole.
 - Antibiotics: troleandomycin.
 - Gastrointestinal prokinetic agents: cisapride, metoclopramide.
-- Other drugs: bromocriptine, cimetidine, danazol, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
+- Other drugs: bromocriptine, cimetidine, danazol, letermovir, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
 
 Other drugs that have the potential to decrease sirolimus concentrations include (but are not limited to):
 

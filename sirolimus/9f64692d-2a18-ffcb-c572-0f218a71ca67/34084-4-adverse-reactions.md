@@ -19,7 +19,10 @@ The following adverse reactions are discussed in greater detail in other section
 
 The most common (≥ 30%) adverse reactions observed with sirolimus in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
+The most common (≥20%) adverse reactions observed with sirolimus in the clinical study for the treatment of LAM are: stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
+
 The following adverse reactions resulted in a rate of discontinuation of > 5% in clinical trials for renal transplant rejection prophylaxis: creatinine increased, hypertriglyceridemia, and TTP.
+In patients with LAM, 11% of subjects discontinued due to adverse reactions, with no single adverse reaction leading to discontinuation in more than one patient being treated with sirolimus.
 
 ## 6.1 Clinical Studies Experience in Prophylaxis of Organ Rejection Following Renal Transplantation
 
@@ -104,10 +107,10 @@ TABLE 2: INCIDENCE (%) OF MALIGNANCIES IN STUDY 1 (24 MONTHS) AND STUDY 2 (36 MO
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Sirolimus Oral Solution 2 mg/day |  | Sirolimus Oral Solution 5 mg/day |  | Azathioprine 2-3 mg/kg/day | Placebo |
 | Lymphoma/lymphoproliferative disease | 0.7 | 1.8 | 1.1 | 3.2 | 0.6 | 0.8 |
-| Skin Carcinoma Any Squamous Cellc | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3.0 |
+| Skin Carcinoma Any Squamous Cellc | 0.4 | 2.7 | 2.2 | 0.9 | 3.8 | 3 |
 | Any Basal Cellc | 0.7 | 2.2 | 1.5 | 1.8 | 2.5 | 5.3 |
-| Melanoma | 0.0 | 0.4 | 0.0 | 1.4 | 0.0 | 0.0 |
-| Miscellaneous/Not Specified | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.8 |
+| Melanoma | 0 | 0.4 | 0 | 1.4 | 0 | 0 |
+| Miscellaneous/Not Specified | 0 | 0 | 0 | 0 | 0 | 0.8 |
 | Total | 1.1 | 4.4 | 3.3 | 4.1 | 4.3 | 7.7 |
 | Other Malignancy | 1.1 | 2.2 | 1.5 | 1.4 | 0.6 | 2.3 |
 
@@ -134,7 +137,6 @@ The incidence of malignancies in Study 3 [see Clinical Studies (14.2)] is presen
 In Study 3, the incidence of lymphoma/lymphoproliferative disease was similar in all treatment groups.
 The overall incidence of malignancy was higher in patients receiving sirolimus plus cyclosporine compared with patients who had cyclosporine withdrawn.
 Conclusions regarding these differences in the incidence of malignancy could not be made because Study 3 was not designed to consider malignancy risk factors or systematically screen subjects for malignancy.
-
 In addition, more patients in the sirolimus with cyclosporine group had a pre-transplantation history of skin carcinoma.
 
 TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY) AT 36 MONTHS POST-TRANSPLANTa,b
@@ -145,8 +147,8 @@ TABLE 3: INCIDENCE (%) OF MALIGNANCIES IN STUDY 3 (CYCLOSPORINE WITHDRAWAL STUDY
 | Lymphoma/lymphoproliferative disease | 1.1 | 1.4 | 0.5 |
 | Skin Carcinoma Any Squamous Cellc | 3.2 | 3.3 | 2.3 |
 | Any Basal Cellc | 3.2 | 6.5 | 2.3 |
-| Melanoma | 0.0 | 0.5 | 0.0 |
-| Miscellaneous/Not Specified | 1.1 | 0.9 | 0.0 |
+| Melanoma | 0 | 0.5 | 0 |
+| Miscellaneous/Not Specified | 1.1 | 0.9 | 0 |
 | Total | 4.2 | 7.9 | 3.7 |
 | Other Malignancy | 3.2 | 3.3 | 1.9 |
 
@@ -169,7 +171,7 @@ In a study evaluating the safety and efficacy of conversion from calcineurin inh
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this stratum of the sirolimus treatment arm.
 
 The subset of patients with a baseline glomerular filtration rate of less than 40 mL/min had 2 years of follow-up after randomization.
-In this population, the rate of pneumonia was 25.9% (15/58) versus 13.8% (4/29), graft loss (excluding death with functioning graft loss) was 22.4% (13/58) versus 31.0% (9/29), and death was 15.5% (9/58) versus 3.4% (1/29) in the sirolimus conversion group and CNI continuation group, respectively.
+In this population, the rate of pneumonia was 25.9% (15/58) versus 13.8% (4/29), graft loss (excluding death with functioning graft loss) was 22.4% (13/58) versus 31% (9/29), and death was 15.5% (9/58) versus 3.4% (1/29) in the sirolimus conversion group and CNI continuation group, respectively.
 
 In the subset of patients with a baseline glomerular filtration rate of greater than 40 mL/min, there was no benefit associated with conversion with regard to improvement in renal function and a greater incidence of proteinuria in the sirolimus conversion arm.
 
@@ -182,6 +184,12 @@ There was also no benefit with respect to renal function and a greater incidence
 
 Safety was assessed in a controlled clinical trial in pediatric (< 18 years of age) renal transplant patients considered at high-immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy [see Clinical Studies (14.6)].
 The use of sirolimus in combination with calcineurin inhibitors and corticosteroids was associated with a higher incidence of deterioration of renal function (creatinine increased) compared to calcineurin inhibitor-based therapy, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections.
+
+## 6.6 Patients with Lymphangioleiomyomatosis
+
+Safety was assessed in a controlled trial involving 89 patients with lymphangioleiomyomatosis, 46 of whom were treated with sirolimus [see Clinical Studies (14.7)].
+The adverse drug reactions observed in this trial were consistent with the known safety profile for renal transplant patients receiving sirolimus, with the addition of weight decreased which was reported at a greater incidence with sirolimus when compared to placebo.
+Adverse reactions occurring at a frequency of ≥20% in the sirolimus treatment group and greater than placebo include stomatitis, diarrhea, abdominal pain, nausea, nasopharyngitis, acne, chest pain, peripheral edema, upper respiratory tract infection, headache, dizziness, myalgia, and hypercholesterolemia.
 
 ## 6.7 Postmarketing Experience
 

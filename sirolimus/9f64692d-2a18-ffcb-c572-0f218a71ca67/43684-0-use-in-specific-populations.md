@@ -10,7 +10,7 @@ In animal studies, sirolimus was embryo/fetotoxic in rats at sub-therapeutic dos
 Advise pregnant women of the potential risk to a fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -72,6 +72,10 @@ The safety and efficacy of sirolimus oral solution have been established for pro
 Use of sirolimus oral solution in this subpopulation of children ≥ 13 years is supported by evidence from adequate and well-controlled trials of sirolimus oral solution in adults with additional pharmacokinetic data in pediatric renal transplantation patients [see Clinical Pharmacology (12.3)].
 
 Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (< 18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of sirolimus oral solution in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival, or patient survival [see Clinical Studies (14.6)].
+
+Lymphangioleiomyomatosis
+
+The safety and efficacy of sirolimus in pediatric patients <18 years have not been established.
 
 ## 8.5 Geriatric Use
 

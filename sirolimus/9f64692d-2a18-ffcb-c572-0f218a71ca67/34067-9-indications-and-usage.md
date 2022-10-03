@@ -19,3 +19,7 @@ In pediatric patients, the safety and efficacy of sirolimus have not been establ
 The safety and efficacy of de novo use of sirolimus without cyclosporine have not been established in renal transplant patients [see Warnings and Precautions (5.12)].
 
 The safety and efficacy of conversion from calcineurin inhibitors to sirolimus in maintenance renal transplant patients have not been established [see Clinical Studies (14.4)].
+
+## 1.3 Treatment of Patients with Lymphangioleiomyomatosis
+
+Sirolimus is indicated for the treatment of patients with lymphangioleiomyomatosis (LAM).

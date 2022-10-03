@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients, their families, and their caregivers to read the Medication Guide and Instructions for Use and assist them in understanding its contents.
-The complete text of the Medication Guide and Instructions for Use are reprinted at the end of the document.
+Advise patients, their families, and their caregivers to read the Medication Guide and Instructions for Use for the Oral Solution and assist them in understanding its contents.
+The complete text of the Medication Guide and Instructions for Use for the Oral Solution are reprinted at the end of the document.
 
 See FDA-Approved Medication Guide and Instructions for Use for the Oral Solution.
 
@@ -15,8 +15,8 @@ Advise patients that exposure to sunlight and ultraviolet (UV) light should be l
 
 ## 17.3 Pregnancy and Lactation
 
-Advise female patients of reproductive potential to avoid becoming pregnant throughout treatment and for 12 weeks after sirolimus oral solution therapy has stopped. sirolimus oral solution can cause fetal harm if taken during pregnancy.
-
+Advise female patients of reproductive potential to avoid becoming pregnant throughout treatment and for 12 weeks after sirolimus oral solution therapy has stopped.
+Sirolimus oral solution can cause fetal harm if taken during pregnancy.
 Advise a pregnant woman of the potential risk to her fetus.
 Before making a decision to breastfeed, inform the patient that the effects of breastfeeding in infants while taking this drug are unknown, but there is potential for serious adverse effects [see Warnings and Precautions (5.15), Use in Specific Populations (8.1, 8.2, 8.3)].
 
@@ -38,7 +38,5 @@ SIROLIMUS ORAL SOLUTION
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: January 2020
-
 Rev.
-6
+7
