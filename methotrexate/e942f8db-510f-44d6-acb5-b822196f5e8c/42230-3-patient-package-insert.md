@@ -5,7 +5,7 @@
 | skin rash, itching and hives |  |  |  | fast heart rate |
 | swelling of the face, lips, tongue, or throat |  |  |  | feeling faint |
 | dizziness |  |  |  | stomach-area pain |
-| trouble breathing |  |  |  | ·vomiting or diarrhea |
+| trouble breathing |  |  |  | vomiting or diarrhea |
 | wheezing |  |  |  |  |
 | Do not take TREXALL if you have had a severe allergic reaction to TREXALL in the past.Get medical help right away if you develop any of the signs or symptoms of a severe allergic reaction listed above.Decreased blood cell counts. TREXALL can affect your bone marrow and cause decreases in red blood counts, white blood cell counts, and platelets that can be severe and life-threatening. Your healthcare provider will check your blood cell counts when you start and during treatment with TREXALL. Call your healthcare provider right away if you develop any of the following: |  |  |  |  |
 | a new fever | symptoms of infection |  | Easy bruising or bleeding that will not stop (persistent bleeding) |  |
