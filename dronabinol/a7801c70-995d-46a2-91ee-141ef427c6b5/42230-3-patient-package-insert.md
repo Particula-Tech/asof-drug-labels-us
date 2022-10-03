@@ -11,3 +11,4 @@
 | These are not all the possible side effects of SYNDROS. Tell your doctor if you have any side effect that bothers you or does not go away. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | General information about the safe and effective use of SYNDROSMedicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use SYNDROS for a condition for which it was not prescribed. Do not give SYNDROS to other people, even if they have the same symptoms that you have. It may harm them. You can ask your doctor or pharmacist for information about SYNDROS that is written for health professionals. |  |
 | What are the ingredients in SYNDROS?Active ingredient: dronabinolInactive ingredients: dehydrated alcohol, polyethylene glycol 400, propylene glycol, sucralose, methyl paraben, propyl paraben, butylated hydroxyanisole, and water. |  |
+| Issued: 9/2022 |  |

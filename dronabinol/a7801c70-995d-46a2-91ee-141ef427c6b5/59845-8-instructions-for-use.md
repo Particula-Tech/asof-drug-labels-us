@@ -64,6 +64,6 @@ Talk to your doctor or pharmacist if you have questions about how to use SYNDROS
 For more information, go to www.syndros.com or call 1-844-558-8289.
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Benuvia Therapeutics Inc. Chandler, AZ 85224 By: Benuvia Manufacturing Round Rock, TX 78665
+Manufactured for: Benuvia Therapeutics Inc. By: Benuvia Manufacturing Round Rock, TX 78665
 
-Revised: July 2020
+Revised: September 2022

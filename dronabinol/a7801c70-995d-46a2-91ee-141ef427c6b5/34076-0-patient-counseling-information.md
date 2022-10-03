@@ -42,15 +42,14 @@ Paradoxical Nausea, Vomiting, or Abdominal Pain
 
 Advise patients to report worsening nausea, vomiting, or abdominal pain to their healthcare provider [see Warnings and Precautions (5.6)].
 
-Pregnancy [see Use in Specific Populations (8.1)]
+Pregnancy
 
-- Advise a pregnant woman of the potential risk to a fetus and to avoid use of SYNDROS during pregnancy.
+Advise a pregnant woman of the potential risk to a fetus and to avoid use of SYNDROS during pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation [see Use in Specific Populations (8.2)]
+Lactation
 
-- Advise HIV infected women with anorexia associated with weight loss, not to breastfeed.
-- Advise women with nausea and vomiting associated with cancer chemotherapy not to breastfeed during treatment with SYNDROS and for 9 days after the last dose.
+Advise HIV infected women with anorexia associated with weight loss, not to breastfeed because HIV can be passed to the baby through the breast milk [see Use in Specific Populations (8.2)].
 
-Manufactured for: Benuvia Therapeutics, Inc. Chandler, AZ 85224 By: Benuvia Manufacturing Round Rock, TX 78665
+Manufactured for: Benuvia Therapeutics, LLC Round Rock, TX 78665 By: Benuvia Manufacturing Inc. Round Rock, TX 78665
 
-SYNDROS® is a registered trademark of Benuvia Therapeutics Inc.
+SYNDROS® is a registered trademark of Benuvia Therapeutics LLC.

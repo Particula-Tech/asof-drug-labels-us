@@ -6,21 +6,23 @@ Risk Summary
 
 SYNDROS, a synthetic cannabinoid containing alcohol, may cause fetal harm.
 Avoid use of SYNDROS in pregnant women.
-Although there is little published data on the use of synthetic cannabinoids during pregnancy, use of cannabis (e.g., marijuana) and use of alcohol during pregnancy have been associated with adverse fetal/neonatal outcomes [see Clinical Considerations].
+Although there is little published data on the use of synthetic cannabinoids during pregnancy, use of cannabis (e.g., marijuana) and use of alcohol during pregnancy have been associated with adverse fetal/neonatal outcomes (see Clinical Considerations).
 Cannabinoids have been found in the umbilical cord blood from pregnant women who smoke cannabis.
-In animal reproduction studies, no teratogenicity was reported in mice administered dronabinol at up to 30 times the MRHD (maximum recommended human doses) and up to 5 times the MRHD for patients with AIDS and cancer, respectively.
+In animal reproduction studies, no teratogenicity was reported in mice administered dronabinol (delta-9-THC) at up to 30 times the MRHD (maximum recommended human doses) and up to 5 times the MRHD for patients with AIDS and cancer, respectively.
 Similar findings were reported in pregnant rats administered dronabinol at up to 5 to 20 times the MRHD and 3 times the MRHD for patients with AIDS and cancer, respectively.
 Decreased maternal weight gain and number of viable pups and increased fetal mortality and early resorptions were observed in both species at doses which induced maternal toxicity.
-In published studies, offspring of pregnant rats administered delta-9-THC during and after organogenesis have been reported to exhibit neurotoxicity with adverse effects on brain development, including abnormal neuronal connectivity and impairments in cognitive and motor function [see Data].
+In rats, maternal administration of dronabinol from pregnancy (implantation) through weaning was associated with maternal toxicity, including mortality of pups, and adverse developmental and neurodevelopmental effects on the pups at 2 to 20 times the MRHD for patients with AIDS and less than and up to 3.3 times the MRHD for patients with cancer.
+(see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Published studies suggest that during pregnancy, the use of cannabis, which includes THC, whether for recreational or medicinal purposes, may increase the risk of adverse fetal/neonatal outcomes including fetal growth restriction, low birth weight, preterm birth, small-for-gestational age, admission to the NICU, and stillbirth.
+Published studies suggest that during pregnancy, the use of cannabis, which includes THC, whether for recreational or medicinal purposes, may increase the risk of adverse fetal/neonatal outcomes including fetal growth restriction, low birth weight, preterm birth, small-for-gestational age, admission to the neonatal intensive care unit, and stillbirth.
 Therefore, use of cannabis during pregnancy should be avoided.
 
 SYNDROS contains alcohol.
@@ -36,20 +38,31 @@ The effects of delta-9-THC on the fetus are not known.
 
 Animal Data
 
-The recommended dose ranges for SYNDROS in AIDS and cancer patients are designed to achieve the same systemic exposure ranges as with the recommended dose ranges for dronabinol capsules.
+The recommended dose ranges for SYNDROS in patients with AIDS and patients with cancer are designed to achieve the same systemic exposure ranges to delta-9-THC as with the recommended dose ranges for dronabinol capsules.
 Therefore, animal to human dose multiples, as shown below, are based on the MRHDs (maximum recommended human doses) for dronabinol capsules, instead of the MRHDs for SYNDROS, which are 15% lower.
 This approach for dose comparison between animals and humans is supported by the demonstrated difference in dronabinol bioavailability between SYNDROS and dronabinol capsules.
 
-Reproduction studies with dronabinol have been performed in mice at 15 to 450 mg/m2, equivalent to 1 to 30 times the MRHD of 15 mg/m2/day (dronabinol capsules) in AIDS patients or 0.2 to 5 times the MRHD of 90 mg/m2/day (dronabinol capsules) in cancer patients, and in rats at 74 to 295 mg/m2 (equivalent to 5 to 20 times the MRHD of 15 mg/m2/day in AIDS patients or 0.8 to 3 times the MRHD of 90 mg/m2/day in cancer patients).
-These studies have revealed no evidence of teratogenicity due to dronabinol.
-At these dosages in mice and rats, dronabinol decreased maternal weight gain and number of viable pups and increased fetal mortality and early resorptions.
+Reproduction studies with dronabinol have been performed in mice at 15 to 450 mg/m2, equivalent to 1 to 30 times the MRHD of 15 mg/m2/day (dronabinol capsules) in patients with AIDS or 0.2 to 5 times the MRHD of 90 mg/m2/day (dronabinol capsules) in patients with cancer, and in rats at 74 to 295 mg/m2 (equivalent to 5 to 20 times the MRHD of 15 mg/m2/day in patients with AIDS or 0.8 to 3 times the MRHD of 90 mg/m2/day in patients with cancer).
+These studies have revealed no evidence of teratogenicity due to delta-9-THC.
+At these dronabinol dosages in mice and rats, delta-9-THC decreased maternal weight gain and number of viable pups and increased fetal mortality and early resorptions.
 Such effects were dose dependent and less apparent at lower doses that produced less maternal toxicity.
 
 Review of published literature indicates that the endocannabinoid system plays a role in neurodevelopmental processes such as neurogenesis, migration, and synaptogenesis.
 Exposure of pregnant rats to delta-9-THC (during and after organogenesis) may modulate these processes to result in abnormal patterns of neuronal connectivity and subsequent cognitive impairments in the offspring.
-Nonclinical toxicity studies in pregnant rats and newborn pups have shown prenatal exposure to THC that resulted in impairment of motor function, alteration in synaptic activity, and interference in cortical projection of neuron development in the offspring.
+Nonclinical toxicity studies in pregnant rats and newborn pups have shown prenatal exposure to delta-9-THC that resulted in impairment of motor function, alteration in synaptic activity, and interference in cortical projection of neuron development in the offspring.
 Prenatal exposure has shown effects on cognitive function such as learning, short- and long-term memory, attention, decreased ability to remember task, and ability to discriminate between novel and same objects.
-Overall, prenatal exposure to THC has resulted in significant and long-term changes in brain development, cognition, and behavior in rat offspring.
+Overall, prenatal exposure to delta-9-THC has resulted in significant and long-term changes in brain development, cognition, and behavior in rat offspring.
+
+In a pre- and post-natal developmental study, female rats administered dronabinol by oral gavage in a vehicle of medium chain triglycerides at doses of 5, 25 and 50 mg/kg/day (equivalent to 1.7, 10, and 20 times the MRHD for patients with AIDS and 0.33, 1.7, and 3.3 times the MRHD for patients with cancer, respectively, based on body surface area) from gestation day 6 (implantation) through lactation day 20 (weaning).
+Maternal toxicity caused mortality of pups at and above 10 times the MRHD for patients with AIDS and 1.7 times the MRHD for patients with cancer.
+At 20 times the MRHD for patients with AIDS and 3.3 times the MRHD for patients with cancer, treatment with dronabinol was associated with an increase in the number of dams with 100% pup mortality on lactation days 1 to 4.
+At 2 and 10 times the MRHD for patients with AIDS and 0.33 and 1.7 times the MRHD for patients with cancer, dronabinol produced adverse effects on the offspring including delays in developmental landmark parameters (e.g., surface righting reflex, negative geotaxis, and air righting reflex), decreased fertility and pregnancy index, reduced ovary and uterus weights, decreased implantations and viable embryos, and increased post-implantation loss.
+
+Neurological adverse effects such as piloerection, landing foot splay and an increase in the number of rears in open field were observed in offspring at 10 and 20 times the MRHD for patients with AIDS and 0.33 and 1.7 times the MRHD for patients with cancer.
+
+Administration of dronabinol in 50% ethanol (used in the vehicle for SYNDOS), was poorly tolerated in maternal animals.
+Serious adverse signs of toxicity were observed in the control group (vehicle only) and in dronabinol-containing dose groups at 10 and 20 times the MRHD for patients with AIDS and 1.7 and 3.3 times the MRHD for patients with cancer, resulting in termination of all animals at the 50 mg/kg dose level prior to delivery of litters.
+These animal findings are difficult to interpret due to effects of alcohol in the vehicle.
 
 ## 8.2 Lactation
 
@@ -60,7 +73,7 @@ Because of the potential for HIV transmission (in HIV-negative infants) and seri
 
 For mothers with nausea and vomiting associated with cancer chemotherapy, there are limited data on the presence of dronabinol in human milk, the effects on the breastfed infant, or the effects on milk production.
 The reported effects of inhaled cannabis transferred to the breastfeeding infant have been inconsistent and insufficient to establish causality.
-Because of the possible adverse effects from SYNDROS on the breastfeeding infant, advise women with nausea and vomiting associated with cancer chemotherapy not to breastfeed during treatment with SYNDROS and for 9 days after the last dose.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for SYNDROS and any potential adverse effects on the breastfed infant from SYNDROS or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

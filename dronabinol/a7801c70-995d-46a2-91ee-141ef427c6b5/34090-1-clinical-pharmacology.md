@@ -49,11 +49,13 @@ Table 1: Summary of Single-Dose Pharmacokinetic Parameters of Dronabinol After R
 | t½ (h) | 5.6 ± 2.7 |
 | * Arithmetic mean ± standard deviation except Tmax for which the median [range] is reported |  |
 
-Food Effect: The effect of food on the pharmacokinetics of SYNDROS was studied by concomitant dosing of SYNDROS with a high-fat (59 grams of fat, approximately 50% of total caloric content of the meal), high calorie meal (approximately 950 calories).
+Food Effect
+
+The effect of food on the pharmacokinetics of SYNDROS was studied by concomitant dosing of SYNDROS with a high-fat (59 grams of fat, approximately 50% of total caloric content of the meal), high calorie meal (approximately 950 calories).
 An appreciable food effect was observed: food resulted in approximately a 2.5-fold increase in total exposure (AUCinf) and approximately a 5 hour delay in median Tmax.
 Food also decreased Cmax by approximately 20% [see Dosage and Administration (2.2, 2.3)].
 
-Distribution:
+Distribution
 
 Dronabinol has an apparent volume of distribution of approximately 10 L/kg, because of its lipid solubility.
 The plasma protein binding of dronabinol and its metabolites is approximately 97% [see Drug Interactions (7.3)].
