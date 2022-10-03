@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA213690"
+  ],
+  "inn": "minocycline",
+  "labeler": "Journey Medical Corporation",
+  "package_ndcs": [
+    "69489-212-07",
+    "69489-212-30"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, FOAM",
+      "generic": "minocycline",
+      "name": "ZILXI"
+    }
+  ],
+  "setid": "cbffa96e-2446-43cf-ba5e-38c645302afd",
+  "source": "dailymed"
+}
