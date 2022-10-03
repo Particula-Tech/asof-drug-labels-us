@@ -3,6 +3,8 @@
 CARDENE® I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
+For Intravenous Infusion Only.
+
 Rx only
 
 40 mg in 200 mL (0.2 mg/mL)
@@ -16,8 +18,7 @@ NDC 43066-016-10 Code 2G3444 Sterile, Nonpyrogenic
 Each mL contains 0.2 mg NICARDIPINE HYDROCHLORIDE in 8.3 mg SODIUM CHLORIDE, USP with 0.0384 mg CITRIC ACID ANHYDROUS, USP and 3.84 mg SORBITOL, NF.
 HYDROCHLORIC ACID and/or SODIUM HYDROXIDE may have been added to adjust pH.
 
-DOSAGE: For Intravenous Use.
-See prescribing information.
+DOSAGE: See prescribing information.
 
 CAUTIONS: Check for minute leaks by squeezing bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
@@ -32,7 +33,7 @@ PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
 U.S. Patent Numbers 7612102 and 7659291 CARDENE is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc.
 
-Baxter Logo Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 To report suspected adverse reactions, contact Baxter Healthcare Corporation at 1-866-888-2472 PL 2501 Plastic
 
@@ -51,6 +52,8 @@ NDC 43066-016-10 Code 2G3444
 
 CARDENE® I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
+
+For Intravenous Infusion Only.
 
 DOUBLE CONCENTRATION: CHECK INFUSION RATE
 
@@ -85,8 +88,7 @@ Iso-osmotic Sterile, nonpyrogenic
 Each mL contains 0.2 mg NICARDIPINE HYDROCHLORIDE in 8.3 mg SODIUM CHLORIDE, USP with 0.0384 mg CITRIC ACID ANHYDROUS, USP and 3.84 mg SORBITOL, NF.
 HYDROCHLORIC ACID and/or SODIUM HYDROXIDE may have been added to adjust pH.
 
-DOSAGE: For Intravenous Use.
-See prescribing information.
+DOSAGE: See prescribing information.
 
 CAUTIONS: Check for minute leaks by squeezing bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
@@ -122,6 +124,8 @@ Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 CARDENE® I.V.
 Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
 
+For Intravenous Infusion Only.
+
 Rx only
 
 20 mg in 200 mL (0.1 mg/mL)
@@ -135,8 +139,7 @@ NDC 43066-009-10 Code 2G3443 Sterile, Nonpyrogenic
 Each mL contains 0.1 mg NICARDIPINE HYDROCHLORIDE in 8.6 mg SODIUM CHLORIDE, USP with 0.0192 mg CITRIC ACID ANHYDROUS, USP and 1.92 mg SORBITOL, NF.
 HYDROCHLORIC ACID and/or SODIUM HYDROXIDE may have been added to adjust pH.
 
-DOSAGE: For Intravenous Use.
-See prescribing information.
+DOSAGE: See prescribing information.
 
 CAUTIONS: Check for minute leaks by squeezing bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
@@ -169,27 +172,22 @@ NDC 43066-009-10 Code 2G3443
 CARDENE® I.V.
 Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
 
-Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in the USA
+For Intravenous Infusion Only.
 
-CARDENE® I.V.
-Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
+Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in the USA
 
 Rx only
 
-20 mg in 200 mL (0.1 mg/mL)
-
 STORE IN CARTON UNTIL READY TO USE
 
-1 GALAXY Single Dose Container
+1 GALAXY Single Dose Container Discard unused portion
 
 20 mg in 200 mL
 
 CARDENE® I.V.
-Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
+Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
 
 20 mg in 200 mL (0.1 mg/mL)
-
-Premixed Injection in 0.86% SODIUM CHLORIDE
 
 UNVARNISHED AREA FOR LOT AND EXP.
 
@@ -200,8 +198,7 @@ Iso-osmotic Sterile, nonpyrogenic
 Each mL contains 0.1 mg NICARDIPINE HYDROCHLORIDE in 8.6 mg SODIUM CHLORIDE, USP with 0.0192 mg CITRIC ACID ANHYDROUS, USP and 1.92 mg SORBITOL, NF.
 HYDROCHLORIC ACID and/or SODIUM HYDROXIDE may have been added to adjust pH.
 
-DOSAGE: For Intravenous Use.
-See prescribing information.
+DOSAGE: See prescribing information.
 
 CAUTIONS: Check for minute leaks by squeezing bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
