@@ -31,4 +31,5 @@ Missing Dose Instruct patients to take rasagiline tablets as prescribed.
 If a dose is missed, the patient should not double-up the dose of rasagiline tablets.
 The next dose should be taken at the usual time on the following day.
 Pregnancy Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant [see Use in Specific Populations (8.1)].
-Manufactured by: Alkem Laboratories Limited Mumbai 400 013, INDIA Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised Date: September, 2020 PT 1464-03
+Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised Date: November, 2021 PT 1464-04
