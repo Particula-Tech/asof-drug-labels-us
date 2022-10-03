@@ -12,6 +12,6 @@ Structural formula:
 
 C13H17N5O8S2 MW 435.44
 
-AZACTAM is a sterile, nonpyrogenic, sodium-free, white powder containing approximately 780 mg arginine per gram of aztreonam.
+AZACTAM is a sterile, nonpyrogenic, sodium-free, white powder containing 0.78 grams arginine per 1 gram of aztreonam and 1.54 grams arginine per 2 grams of aztreonam.
 Following constitution, the product is for intramuscular or intravenous use.
 Aqueous solutions of the product have a pH in the range of 4.5 to 7.5.
