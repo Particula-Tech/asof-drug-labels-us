@@ -4,7 +4,7 @@ Rx Only NDC 0037-6050-93
 
 EDLUAR® 5 mg CIV Zolpidem Tartrate Sublingual Tablets
 
-Each sublingual tablet (to be placed under the tongue) contains 5 mg of zolpidem tartrate.
+Each sublingual tablet (to be placed under the tongue) contains 5 mg of zolpidem tartrate, USP.
 See prescribing information for dosage information.
 
 30 Sublingual Tablets
@@ -15,7 +15,7 @@ Store at controlled room temperature 20-25ºC (68-77ºF).
 Protect from light and moisture.
 Do not use if blisters are torn, or seal is broken.
 
-MX-UC-605093-01
+MX-UC-605093-02
 
 Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 
@@ -33,7 +33,7 @@ Rx Only NDC 0037-6010-93
 
 EDLUAR® 10 mg CIV Zolpidem Tartrate Sublingual Tablets
 
-Each sublingual tablet (to be placed under the tongue) contains 10 mg of zolpidem tartrate.
+Each sublingual tablet (to be placed under the tongue) contains 10 mg of zolpidem tartrate, USP.
 See prescribing information for dosage information.
 
 30 Sublingual Tablets
@@ -42,7 +42,7 @@ Store at controlled room temperature 20-25ºC (68-77ºF).
 Protect from light and moisture.
 Do not use if blisters are torn, or seal is broken.
 
-MX-UC-601093-01
+MX-UC-601093-02
 
 Manufactured for: Meda Pharmaceuticals Inc. Somerset, New Jersey 08873-4120
 

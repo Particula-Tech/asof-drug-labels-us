@@ -179,11 +179,11 @@ Manufactured by: Mylan Laboratories Limited Hyderabad – 500 096, India
 
 Manufactured for: Meda Pharmaceuticals Inc. Somerset, NJ 08873-4120
 
-© 2021 Viatris Inc. U.S. Patents 9,265,720; 9,597,281
+© 2022 Viatris Inc. U.S. Patents 9,265,720; 9,597,281
 
 EDLUAR is a registered trademark of Meda Pharmaceuticals Inc., a Viatris company.
 
 The brands listed are trademarks of their respective owners.
 
-MX-IG-6010-02 Rev.
-9/2021 75082377
+MX-IG-6010-03 Rev.
+8/2022 75092793
