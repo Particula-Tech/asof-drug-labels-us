@@ -17,7 +17,7 @@ Discard unused portion.
 
 Patent, www.emerphed.com/patent
 
-Manufactured in the USA by:
+Manufactured in Italy for:
 
 Nexus Pharmaceuticals, Inc. 400 Knightsbridge Parkway Lincolnshire, IL 60069 USA
 
