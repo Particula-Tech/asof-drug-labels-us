@@ -1,45 +1,30 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1 Important Dosage and Administration Information
 
-The patient should be placed on a standard cholesterol-lowering diet before receiving pravastatin sodium tablets and should continue on this diet during treatment with pravastatin sodium tablets [see NCEP Treatment Guidelines for details on dietary therapy].
+- Take pravastatin sodium tablets orally once daily as a single dose at any time of the day, with or without food.
+- For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving pravastatin sodium tablets 80 mg daily, prescribe alternative LDL-C-lowering treatment.
+- Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating pravastatin sodium tablets, and adjust the dosage if necessary.
 
-## 2.2 Adult Patients
+## 2.2 Recommended Dosage in Adult Patients
 
-The recommended starting dose is 40 mg once daily.
-If a daily dose of 40 mg does not achieve desired cholesterol levels, 80 mg once daily is recommended.
-Pravastatin sodium tablets can be administered orally as a single dose at any time of the day, with or without food.
-Since the maximal effect of a given dose is seen within 4 weeks, periodic lipid determinations should be performed at this time and dosage adjusted according to the patient’s response to therapy and established treatment guidelines.
+The recommended starting dosage is pravastatin sodium tablets 40 mg to 80 mg once daily.
 
-## 2.3 Patients with Renal Impairment
+## 2.3 Recommended Dosage in Pediatric Patients 8 Years of Age and Older with HeFH
 
-In patients with severe renal impairment, a starting dose of 10 mg pravastatin daily is recommended.
+- In pediatric patients aged 8 to 13 years, the recommended dosage is pravastatin sodium tablets 20 mg once daily.
+- In pediatric patients aged 14 to 18 years, the recommended starting dosage is pravastatin sodium tablets 40 mg once daily.
 
-## 2.4 Pediatric Patients
+## 2.4 Recommended Dosage in Patients with Renal Impairment
 
-Children (Ages 8 to 13 Years, Inclusive)
+- In patients with severe renal impairment, the recommended starting dosage is pravastatin sodium 10 mg once daily.
+  The maximum recommended dosage of pravastatin sodium tablets in patients with severe renal impairment is 40 mg once daily [see Clinical Pharmacology (12.3)].
+- The recommended dosage of pravastatin sodium tablets for patients with mild or moderate renal impairment is the same as patients with normal renal function.
 
-The recommended dose is 20 mg once daily in children 8 to 13 years of age.
-Doses greater than 20 mg have not been studied in this patient population.
+## 2.5 Dosage and Administration Modifications Due to Drug Interactions
 
-Adolescents (Ages 14 to 18 Years)
-
-The recommended starting dose is 40 mg once daily in adolescents 14 to 18 years of age.
-Doses greater than 40 mg have not been studied in this patient population.
-
-Children and adolescents treated with pravastatin should be reevaluated in adulthood and appropriate changes made to their cholesterol-lowering regimen to achieve adult goals for LDL-C [see Indications and Usage (1.2)].
-
-## 2.5 Concomitant Lipid-Altering Therapy
-
-Pravastatin sodium tablets may be used with bile acid resins.
-When administering a bile-acid-binding resin (e.g., cholestyramine, colestipol) and pravastatin, pravastatin sodium tablets should be given either 1 hour or more before or at least 4 hours following the resin [see Clinical Pharmacology (12.3)].
-
-## 2.6 Dosage in Patients Taking Cyclosporine
-
-In patients taking immunosuppressive drugs such as cyclosporine concomitantly with pravastatin, therapy should begin with 10 mg of pravastatin sodium once-a-day at bedtime and titration to higher doses should be done with caution.
-Most patients treated with this combination received a maximum pravastatin sodium dose of 20 mg/day.
-In patients taking cyclosporine, therapy should be limited to 20 mg of pravastatin sodium once daily [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
-
-## 2.7 Dosage in Patients Taking Clarithromycin
-
-In patients taking clarithromycin, therapy should be limited to 40 mg of pravastatin sodium once daily [see Drug Interactions (7.2)].
+- In patients taking a bile acid sequestrant, administer pravastatin sodium tablets at least 1 hour before or 4 hours after the bile acid sequestrant [see Drug Interactions (7.2)].
+- Concomitant use of pravastatin sodium tablets with the following drugs requires dosage modifications of pravastatin sodium tablets [see Warnings and Precautions (5.1) and Drug Interactions (7.1)]:In patients taking cyclosporine, the recommended starting dosage is pravastatin sodium 10 mg once daily.
+  The maximum recommended dosage of pravastatin sodium tablets in patients taking cyclosporine is 20 mg once daily.The maximum recommended dosage is pravastatin sodium tablets 40 mg once daily.
+  - Cyclosporine
+  - Clarithromycin and Erythromycin

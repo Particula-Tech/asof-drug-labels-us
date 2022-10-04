@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Pravastatin Sodium Tablets USP are supplied as:
+Pravastatin sodium tablets, USP are supplied as:
 
 10 mg tablets: Pink, unscored, round tablet, debossed “TEVA” on one side and “771” on the other side in bottles of 90 (NDC 0093-0771-98) and 1000 (NDC 0093-0771-10).
 
@@ -10,12 +10,11 @@ Pravastatin Sodium Tablets USP are supplied as:
 
 40 mg tablets: Light-green, unscored, round tablet, debossed “TEVA” on one side and “7202” on the other side in bottles of 90 (NDC 0093-7202-98) and 1000 (NDC 0093-7202-10).
 
-## 16.2 Storage
-
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
-Keep tightly closed (protect from moisture).
+Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature].
+Protect from moisture.
 Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
