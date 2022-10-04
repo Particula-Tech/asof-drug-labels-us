@@ -9,11 +9,12 @@ Pregnancy Inform patients that rizatriptan benzoate tablets should not be used d
 Lactation Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 Ability to Perform Complex Tasks Since migraines or treatment with rizatriptan benzoate tablets may cause somnolence and dizziness, instruct patients to evaluate their ability to perform complex tasks during migraine attacks and after administration of rizatriptan benzoate tablets, USP.
 Medication Overuse Headache Inform patients that use of acute migraine drugs for 10 or more days per month may lead to an exacerbation of headache, and encourage patients to record headache frequency and drug use (e.g., by keeping a headache diary) [see Warnings and Precautions (5.6)].
-Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC
+Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: February, 2021
+Revised: November, 2021
 
 Patient Information
 
@@ -167,8 +168,9 @@ Active ingredient in rizatriptan benzoate tablets: rizatriptan benzoate.
 Inactive ingredients in rizatriptan benzoate tablets: lactose monohydrate, microcrystalline cellulose, pregelatinized starch (maize), and magnesium stearate.
 The brands listed are the trademarks of their respective owners.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured in India by: Alkem Laboratories Limited H.O.: ALKEM HOUSE, Senapati Bapat Marg, Lower Parel, Mumbai – 400 013, INDIA Distributed by: Ascend Laboratories, LLC
+Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: February, 2021 PT 2719-04
+Revised: November, 2021 PT 2719-05

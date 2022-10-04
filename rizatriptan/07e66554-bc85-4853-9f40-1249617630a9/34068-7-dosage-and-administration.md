@@ -22,4 +22,4 @@ Adult Patients In adult patients taking propranolol, only the 5-mg dose of rizat
 Pediatric Patients
 
 For pediatric patients weighing 40 kg (88 lb) or more, taking propranolol, only a single 5-mg dose of rizatriptan benzoate tablets is recommended (maximum dose of 5 mg in a 24-hour period).
-Rizatriptan benzoate tablets should not be prescribed to propranolol-treated pediatric patients who weigh less than 40 kg (88 lb) [see DrugInteractions (7.1) and Clinical Pharmacology (12.3)].
+Rizatriptan benzoate tablets should not be prescribed to propranolol-treated pediatric patients who weigh less than 40 kg (88 lb) [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
