@@ -1,4 +1,4 @@
-# 11. DESCRIPTION
+# 11 DESCRIPTION
 
 MYFEMBREE tablets for oral administration contain a fixed-dose combination of relugolix 40 mg, estradiol 1 mg, and norethindrone acetate 0.5 mg as active ingredients.
 

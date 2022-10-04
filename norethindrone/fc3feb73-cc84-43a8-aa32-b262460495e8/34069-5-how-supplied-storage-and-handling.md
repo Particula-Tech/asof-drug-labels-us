@@ -1,13 +1,13 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1. How Supplied
+## 16.1 How Supplied
 
 MYFEMBREE film-coated tablets contain relugolix 40 mg, estradiol (E2) 1 mg, and norethindrone acetate (NETA) 0.5 mg.
 The tablets are light yellow to yellow, round film-coated tablet with "MVT" on one side and "415" on the other side.
 
 MYFEMBREE is supplied in a white, opaque, high-density polyethylene bottle containing 28 tablets with desiccant and closed with an induction-sealed child-resistant cap (NDC Code 72974-415-01).
 
-## 16.2. Storage and Handling
+## 16.2 Storage and Handling
 
 Store at 15°C to 30°C (59°F to 86°F).
 

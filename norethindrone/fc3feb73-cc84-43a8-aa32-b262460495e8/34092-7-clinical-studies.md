@@ -6,7 +6,7 @@ The efficacy and safety of MYFEMBREE were evaluated in two replicate, 24-week, m
 For study inclusion, women had to have uterine fibroids confirmed by ultrasound examination in which at least one fibroid met at least one of the following criteria:
 
 1. a. Subserosal, intramural, or < 50% intracavitary submucosal fibroid with a diameter ≥ 2 cm, or
-2. b. Multiple small fibroids with a total uterine volume of ≥ 130cm3.
+2. b. Multiple small fibroids with a total uterine volume of ≥ 130 cm3.
 
 Women also had to have menstrual blood loss (MBL) volume of ≥ 80 mL per cycle for two menstrual cycles or ≥ 160 mL during one cycle quantified by the alkaline hematin method from menstrual products collected during baseline menstrual cycles to be included in the studies.
 Women with hemoglobin < 8.0 g/dL were excluded from the study.
@@ -35,7 +35,7 @@ Table 8: Proportion of Responders for Reduction in MBL Volume Over Last 35 days 
 | MYFEMBREE (N = 122) | Placebo (N = 113) | MYFEMBREE (N = 125) | Placebo (N = 129) |  |
 | --- | --- | --- | --- | --- |
 |  | Study L1 |  | Study L2 |  |
-| Women with MBL Volume < 80 mL and ≥50% Reduction in MBL Volume from Baseline to the Last 35 Days of Treatment | 72.1% | 16.8% | 71.2% | 14.7% |
+| Women with MBL Volume < 80 mL and ≥ 50% Reduction in MBL Volume from Baseline to the Last 35 Days of Treatment | 72.1% | 16.8% | 71.2% | 14.7% |
 | Difference from placebo, % 95% CI p-value | 55.3% (44.2%, 65.6%) < 0.0001 |  | 56.5% (46.6%, 66.5%) < 0.0001 |  |
 | Abbreviations: CI = confidence interval. |  |  |  |  |
 

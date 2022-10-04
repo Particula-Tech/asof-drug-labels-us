@@ -227,11 +227,11 @@ Among women with normal HDL at baseline (≥ 60 mg/dL), declines to 40 to < 60 m
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of relugolix monotherapy outside of the United States.
+The following adverse reactions have been identified during post-approval use of MYFEMBREE, as well as post-approval use of relugolix monotherapy outside of the United States.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders: anaphylactoid reaction
 
-Skin and subcutaneous tissue disorders: drug eruption
+Skin and subcutaneous tissue disorders: drug eruption, angioedema, urticaria
 
 Neoplasms (benign, malignant, and unspecified): uterine leiomyoma degeneration
