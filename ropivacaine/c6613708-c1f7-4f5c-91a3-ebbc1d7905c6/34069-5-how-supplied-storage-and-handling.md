@@ -7,7 +7,7 @@ Naropin® Single Dose Vials
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
 | NP278635 | NDC 63323-286-95 Unit of 25 | 0.5% 150 mg per 30 mL (5 mg per mL) | NDC 63323-286-93 30 mL Single Dose Vial |
-| NP278821 | NDC 63323-288-29 Unit of 25 | 1% 200 mg per 20 mL (10 mg per mL) | NDC 63323-288-29 20 mL Single Dose Vial |
+| NP278821 | NDC 63323-288-29 Unit of 25 | 1% 200 mg per 20 mL (10 mg per mL) | NDC 63323-288-23 20 mL Single Dose Vial |
 
 Naropin® Single Dose Infusion Bottles
 
