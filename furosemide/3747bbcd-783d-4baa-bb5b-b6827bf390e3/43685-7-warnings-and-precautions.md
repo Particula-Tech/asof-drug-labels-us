@@ -111,7 +111,7 @@ High-dose treatment of both furosemide and these other drugs may result in eleva
 
 Furosemide can increase the risk of cephalosporin-induced nephrotoxicity even in the setting of minor or transient renal impairment.
 
-Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperurecemia and cyclosporine impairment of renal urate excretion.
+Concomitant use of cyclosporine and furosemide is associated with increased risk of gouty arthritis secondary to furosemide-induced hyperuricemia and cyclosporine impairment of renal urate excretion.
 
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.

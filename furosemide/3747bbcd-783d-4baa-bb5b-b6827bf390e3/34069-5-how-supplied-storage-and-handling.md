@@ -2,13 +2,11 @@
 
 Furosemide injection, USP
 
-| Product No. | NDC No. | Strength | Volume |
-| --- | --- | --- | --- |
-| PRX28002 | 63323-280-16 | 20 mg per 2 mL (10 mg per mL) | 2 mL in a 2 mL amber vial. |
-| PRX28004 | 63323-280-26 | 40 mg per 4 mL (10 mg per mL) | 4 mL in a 5 mL amber vial. |
-| PRX28010 | 63323-280-36 | 100 mg per 10 mL (10 mg per mL) | 10 mL in a 10 mL amber vial. |
-
-2 mL, 4 mL and 10 mL sizes are single dose vials, packaged 25 vials per tray.
+| Product Code | Unit of Sale | Strength | Volume | Each |
+| --- | --- | --- | --- | --- |
+| PRX28002 | NDC 63323-280-16 Unit of 25 | 20 mg per 2 mL (10 mg per mL) | 2 mL fill in a 2 mL amber vial. | NDC 63323-280-41 Single Dose Vial |
+| PRX28004 | NDC 63323-280-26 Unit of 25 | 40 mg per 4 mL (10 mg per mL) | 4 mL fill in a 5 mL amber vial. | NDC 63323-280-43 Single Dose Vial |
+| PRX28010 | NDC 63323-280-36 Unit of 25 | 100 mg per 10 mL (10 mg per mL) | 10 mL fill in a 10 mL amber vial. | NDC 63323-280-45 Single Dose Vial |
 
 Preservative Free.
 Discard unused portion.
