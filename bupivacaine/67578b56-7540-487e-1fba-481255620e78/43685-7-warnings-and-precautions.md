@@ -97,11 +97,11 @@ An intravascular or intrathecal injection is still possible even if results of t
 
 Signs/symptoms of unintended intravascular or intrathecal injection of the test dose of MARCAINE WITH EPINEPHRINE and monitoring recommendations are described below.
 
-- Unintended intravascular injection: Likely to produce a transient "epinephrine response" within 45 seconds, consisting of an increase in heart rate and/or systolic blood pressure, circumoral pallor, palpitations, and nervousness in the unsedated patient.
+- •Unintended intravascular injection: Likely to produce a transient "epinephrine response" within 45 seconds, consisting of an increase in heart rate and/or systolic blood pressure, circumoral pallor, palpitations, and nervousness in the unsedated patient.
   The sedated patient may exhibit only a pulse rate increase of 20 or more beats per minute for 15 or more seconds.
   Therefore, following the test dose, the heart rate should be monitored for increases.
   Patients on beta-blockers may not manifest changes in heart rate, but blood pressure monitoring can detect a transient rise in systolic blood pressure.
-- Unintended intrathecal injection: Evidenced within a few minutes by signs of spinal block (e.g., decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
+- •Unintended intrathecal injection: Evidenced within a few minutes by signs of spinal block (e.g., decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
 
 The test dose itself may produce a systemic toxic reaction, high spinal or epinephrine-induced cardiovascular effects [see Overdosage (10)].
 

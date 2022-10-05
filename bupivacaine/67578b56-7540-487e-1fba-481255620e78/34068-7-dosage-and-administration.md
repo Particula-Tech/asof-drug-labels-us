@@ -2,27 +2,27 @@
 
 ## 2.1 Important Dosage and Administration Information
 
-- MARCAINE / MARCAINE WITH EPINEPHRINE is not for intrathecal use.
-- Avoid use of MARCAINE / MARCAINE WITH EPINEPHRINE solutions containing antimicrobial preservatives (i.e., multiple-dose vials) for epidural or caudal anesthesia [see Warnings and Precautions (5.4)].
-- Discard unused portions of solution not containing preservatives, i.e., those supplied in single-dose vials, following initial use.
-- Visually inspect this product for particulate matter and discoloration prior to administration whenever solution and container permit.
+- •MARCAINE / MARCAINE WITH EPINEPHRINE is not for intrathecal use.
+- •Avoid use of MARCAINE / MARCAINE WITH EPINEPHRINE solutions containing antimicrobial preservatives (i.e., multiple-dose vials) for epidural or caudal anesthesia [see Warnings and Precautions (5.4)].
+- •Discard unused portions of solution not containing preservatives, i.e., those supplied in single-dose vials, following initial use.
+- •Visually inspect this product for particulate matter and discoloration prior to administration whenever solution and container permit.
   MARCAINE / MARCAINE WITH EPINEPHRINE are clear, colorless solutions.
   Do not administer solutions which are discolored or contain particulate matter.
-- Mixing or the prior or intercurrent use of any other local anesthetic with MARCAINE / MARCAINE WITH EPINEPHRINE is not recommended because of insufficient data on the clinical use of such mixtures.
+- •Mixing or the prior or intercurrent use of any other local anesthetic with MARCAINE / MARCAINE WITH EPINEPHRINE is not recommended because of insufficient data on the clinical use of such mixtures.
 
 Administration Precautions
 
-- MARCAINE / MARCAINE WITH EPINEPHRINE are to be administered in carefully adjusted dosages by or under the supervision of experienced clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed.
-- Use MARCAINE / MARCAINE WITH EPINEPHRINE only if the following are immediately available: oxygen, cardiopulmonary resuscitative equipment and drugs, and the personnel resources needed for proper management of toxic reactions and related emergencies [see Warnings and Precautions (5.2), Adverse Reactions (6), Overdosage (10)].
-- The toxic effects of local anesthetics are additive.
+- •MARCAINE / MARCAINE WITH EPINEPHRINE are to be administered in carefully adjusted dosages by or under the supervision of experienced clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed.
+- •Use MARCAINE / MARCAINE WITH EPINEPHRINE only if the following are immediately available: oxygen, cardiopulmonary resuscitative equipment and drugs, and the personnel resources needed for proper management of toxic reactions and related emergencies [see Warnings and Precautions (5.2), Adverse Reactions (6), Overdosage (10)].
+- •The toxic effects of local anesthetics are additive.
   Monitor for neurologic and cardiovascular effects related to local anesthetic systemic toxicity when additional local anesthetics are administered with MARCAINE / MARCAINE WITH EPINEPHRINE [see Warnings and Precautions (5.2), Drug Interactions (7.1), Overdosage (10)].
-- Aspirate for blood or cerebrospinal fluid (where applicable) prior to injecting MARCAINE / MARCAINE WITH EPINEPHRINE, both the initial dose and all subsequent doses, to avoid intravascular or intrathecal injection.
+- •Aspirate for blood or cerebrospinal fluid (where applicable) prior to injecting MARCAINE / MARCAINE WITH EPINEPHRINE, both the initial dose and all subsequent doses, to avoid intravascular or intrathecal injection.
   However, a negative aspiration for blood or cerebrospinal fluid does not ensure against an intravascular or intrathecal injection [see Warnings and Precautions (5.9)].
-- Avoid rapid injection of a large volume of MARCAINE / MARCAINE WITH EPINEPHRINE and use fractional (incremental) doses when feasible.
-- During major regional nerve blocks, such as those of the brachial plexus or lower extremity, the patient should have an indwelling intravenous catheter to assure adequate intravenous access.
+- •Avoid rapid injection of a large volume of MARCAINE / MARCAINE WITH EPINEPHRINE and use fractional (incremental) doses when feasible.
+- •During major regional nerve blocks, such as those of the brachial plexus or lower extremity, the patient should have an indwelling intravenous catheter to assure adequate intravenous access.
   The lowest dosage of MARCAINE / MARCAINE WITH EPINEPHRINE that results in effective anesthesia should be used to avoid high plasma levels and serious adverse reactions.
-- Perform careful and constant monitoring of cardiovascular and respiratory (adequacy of oxygenation and ventilation) vital signs and the patient's level of consciousness after each local anesthetic injection.
-- Use MARCAINE WITH EPINEPHRINE in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis [see Warnings and Precautions (5.12)].
+- •Perform careful and constant monitoring of cardiovascular and respiratory (adequacy of oxygenation and ventilation) vital signs and the patient's level of consciousness after each local anesthetic injection.
+- •Use MARCAINE WITH EPINEPHRINE in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis [see Warnings and Precautions (5.12)].
 
 ## 2.2 Recommended Concentrations and Dosages of MARCAINE / MARCAINE WITH EPINEPHRINE
 

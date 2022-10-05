@@ -2,15 +2,15 @@
 
 The following clinically significant adverse reactions have been reported and described in the Warnings and Precautions section of the labeling:
 
-- Cardiac Arrest in Obstetrical Anesthesia [see Warnings and Precautions (5.1)]
-- Dose-Related Toxicity [see Warnings and Precautions (5.2)]
-- Methemoglobinemia [see Warnings and Precautions (5.3)]
-- Chondrolysis with Intra-Articular Infusion [see Warnings and Precautions (5.5)]
-- Severe, Persistent Hypertension, Cerebrovascular Accidents, and Bradycardia Due to Drug Interactions [see Warnings and Precautions (5.6)]
-- Cardiac Arrest with Intravenous Regional Anesthesia Use [see Contraindications (4), Warnings and Precautions (5.7)]
-- Allergic-Type Reactions [see Warnings and Precautions (5.8)]
-- Systemic Toxicities with Unintended Intravascular or Intrathecal Injection [see Warnings and Precautions (5.9)]
-- Respiratory Arrest Following Retrobulbar Block [see Warnings and Precautions (5.15)]
+- •Cardiac Arrest in Obstetrical Anesthesia [see Warnings and Precautions (5.1)]
+- •Dose-Related Toxicity [see Warnings and Precautions (5.2)]
+- •Methemoglobinemia [see Warnings and Precautions (5.3)]
+- •Chondrolysis with Intra-Articular Infusion [see Warnings and Precautions (5.5)]
+- •Severe, Persistent Hypertension, Cerebrovascular Accidents, and Bradycardia Due to Drug Interactions [see Warnings and Precautions (5.6)]
+- •Cardiac Arrest with Intravenous Regional Anesthesia Use [see Contraindications (4), Warnings and Precautions (5.7)]
+- •Allergic-Type Reactions [see Warnings and Precautions (5.8)]
+- •Systemic Toxicities with Unintended Intravascular or Intrathecal Injection [see Warnings and Precautions (5.9)]
+- •Respiratory Arrest Following Retrobulbar Block [see Warnings and Precautions (5.15)]
 
 The following adverse reactions from voluntary reports or clinical studies have been reported with bupivacaine or bupivacaine and epinephrine.
 Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
