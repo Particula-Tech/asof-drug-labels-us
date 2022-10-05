@@ -44,7 +44,17 @@ Postmarketing cases of cutaneous vasculitis including leukocytoclastic vasculiti
 Withhold TAGRISSO if cutaneous vasculitis is suspected, evaluate for systemic involvement, and consider dermatology consultation.
 If no other etiology can be identified, consider permanent discontinuation of TAGRISSO based on severity.
 
-## 5.7 Embryo-Fetal Toxicity
+## 5.7 Aplastic Anemia
+
+Aplastic anemia has been reported in patients treated with TAGRISSO in clinical trials (0.07% of 1479) and postmarketing [see Postmarketing (6.2)].
+Some cases had a fatal outcome.
+Inform patients of the signs and symptoms of aplastic anemia including but not limited to, new or persistent fevers, bruising, bleeding, and pallor.
+If aplastic anemia is suspected, withhold TAGRISSO and obtain a hematology consultation.
+If aplastic anemia is confirmed, permanently discontinue TAGRISSO [see Dosage and Administration (2.4)].
+
+Perform complete blood count with differential before starting TAGRISSO, periodically throughout treatment, and more frequently if indicated.
+
+## 5.8 Embryo-Fetal Toxicity
 
 Based on data from animal studies and its mechanism of action, TAGRISSO can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, osimertinib caused post-implantation fetal loss when administered during early development at a dose exposure 1.5 times the exposure at the recommended clinical dose.
@@ -52,4 +62,4 @@ When males were treated prior to mating with untreated females, there was an inc
 Verify pregnancy status of females of reproductive potential prior to initiating TAGRISSO.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with TAGRISSO and for 6 weeks after the final dose.
-Advise males with female partners of reproductive potential to use effective contraception for 4 months after the final dose [see Use in Specific Populations (8.1, 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception for 4 months after the final dose [see Use in Specific Populations(8.1, 8.3)].

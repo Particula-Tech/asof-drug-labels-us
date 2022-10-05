@@ -31,10 +31,15 @@ Cutaneous Vasculitis
 - •Inform patients of signs and symptoms that may be indicative of cutaneous vasculitis.
   Advise patients to contact their healthcare provider immediately if they develop multiple, non-blanching red papules on their forearms, lower legs, or buttocks or large hives on their trunk that do not go away within 24 hours and develop a bruised appearance [see Warnings and Precautions (5.6)].
 
+Aplastic Anemia
+
+- •Inform patients of signs and symptoms of aplastic anemia including but not limited to new or persistent fevers, bruising, bleeding, pallor, infection, tiredness or weakness.
+  Advise patients to contact their healthcare provider immediately if signs and symptoms suggestive of aplastic anemia develop [see Warnings and Precautions (5.7)].
+
 Embryo-Fetal Toxicity
 
 - •Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
+  Advise females to inform their healthcare provider if they become pregnant or if pregnancy is suspected, while taking TAGRISSO [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
 
 Females and Males of Reproductive Potential
 
