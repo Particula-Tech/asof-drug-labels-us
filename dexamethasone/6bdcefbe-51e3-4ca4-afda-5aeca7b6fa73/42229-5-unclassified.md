@@ -14,7 +14,7 @@ Patients should be instructed to avoid allowing the tip of the dispensing contai
 Patients should also be instructed that ocular solutions, if handled improperly, can become contaminated by common bacteria known to cause ocular infections.
 Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions (see PRECAUTIONS, General).
 
-Patients should also be advised that if they develop an intercurrent ocular condition (e.g., trauma, ocular surgery or infection), they should immediately seek their physician's advice concerning the continued use of the present multidose container.
+Patients should also be advised that if they develop an intercurrent ocular condition (e.g., trauma, ocular surgery or infection), they should immediately seek their physician’s advice concerning the continued use of the present multidose container.
 
 One of the preservatives in dexamethasone sodium phosphate ophthalmic solution, benzalkonium chloride, may be absorbed by soft contact lenses.
 Patients wearing soft contact lenses should be instructed to wait at least 15 minutes after instilling dexamethasone sodium phosphate ophthalmic solution before they insert their lenses.
