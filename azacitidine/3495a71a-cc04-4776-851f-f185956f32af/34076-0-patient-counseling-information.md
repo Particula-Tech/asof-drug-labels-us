@@ -16,15 +16,9 @@ Infertility
 
 Advise males and females that VIDAZA may impair fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].
 
-| Manufactured for: | Celgene Corporation |
+| Marketed by: | Bristol-Myers Squibb Company |
 | --- | --- |
-|  | Summit, NJ 07901 |
-| Manufactured by: | Baxter Oncology GmbH |
-|  | 33790 Halle/Westfalen Germany |
-|  | Or |
-|  | BSP Pharmaceuticals S.p.A. |
-|  | 04013 Latina Scalo (Lt) |
-|  | Italy |
+|  | Princeton, NJ 08543 USA |
 
-1. VIDAZA® is a registered trademark of Celgene Corporation. ©2021 Celgene Corporation, All Rights Reserved.
-   VIDPI.15
+1. VIDAZA® is a trademark of Celgene Corporation, a Bristol-Myers Squibb company.
+   VIDPI.16
