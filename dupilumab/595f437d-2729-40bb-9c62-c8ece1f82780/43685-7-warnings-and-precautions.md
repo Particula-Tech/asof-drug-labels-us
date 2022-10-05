@@ -9,7 +9,7 @@ If a clinically significant hypersensitivity reaction occurs, institute appropri
 
 Conjunctivitis and keratitis adverse reactions have been reported in clinical trials.
 
-Conjunctivitis and keratitis occurred more frequently in atopic dermatitis subjects who received DUPIXENT compared to those who received placebo.
+Conjunctivitis and keratitis occurred more frequently in AD subjects who received DUPIXENT compared to those who received placebo.
 Conjunctivitis was the most frequently reported eye disorder.
 Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period [see Adverse Reactions (6.1)].
 
@@ -20,7 +20,10 @@ Among subjects with asthma, the frequencies of conjunctivitis and keratitis were
 
 Among subjects with EoE, the frequency of conjunctivitis and keratitis was 0% and 0% in the DUPIXENT group and 2% and 0% in the placebo group, respectively [see Adverse Reactions (6.1)].
 
-Conjunctivitis and keratitis adverse events have also been reported with DUPIXENT in postmarketing settings, predominantly in atopic dermatitis patients.
+In subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; these subjects recovered or were recovering during the treatment period.
+There were no cases of keratitis reported in the PN development program [see Adverse Reactions (6.1)].
+
+Conjunctivitis and keratitis adverse events have also been reported with DUPIXENT in postmarketing settings, predominantly in AD patients.
 Some patients reported visual disturbances (e.g., blurred vision) associated with conjunctivitis or keratitis.
 
 Advise patients to report new onset or worsening eye symptoms to their healthcare provider.

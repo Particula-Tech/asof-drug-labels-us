@@ -5,7 +5,7 @@
 Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes.
 Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor.
 
-Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, atopic dermatitis, CRSwNP, and EoE.
+Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, and PN.
 Multiple cell types that express IL-4Rα (e.g., mast cells, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation.
 Blocking IL-4Rα with dupilumab inhibits IL-4 and IL-13 cytokine-induced inflammatory responses, including the release of proinflammatory cytokines, chemokines, nitric oxide, and IgE.
 The mechanism of dupilumab action has not been definitively established.
@@ -22,7 +22,7 @@ For FeNO, the mean percent reduction from baseline at Week 2 was 35% and 24% in 
 
 Antibody Response to Non-Live Vaccines During DUPIXENT Treatment
 
-In a clinical study, adult subjects with atopic dermatitis were treated once weekly for 16 weeks with 300 mg of DUPIXENT (twice the recommended dosing frequency).
+In a clinical study, adult subjects with AD were treated once weekly for 16 weeks with 300 mg of DUPIXENT (twice the recommended dosing frequency).
 After 12 weeks of administration, subjects received a Tdap vaccine and a meningococcal polysaccharide vaccine.
 Antibody responses to tetanus toxoid and serogroup C meningococcal polysaccharide were assessed 4 weeks later.
 Antibody responses to both tetanus toxoid and serogroup C meningococcal polysaccharide were similar in DUPIXENT-treated and placebo-treated subjects.
@@ -31,7 +31,7 @@ Antibody responses to other non-live vaccines were also not assessed.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of dupilumab is similar in subjects with atopic dermatitis, asthma, CRSwNP, and EoE.
+The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE and PN.
 
 Absorption
 
@@ -39,7 +39,7 @@ Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilu
 Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
 Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 60.3±35.1 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mg/L for 200 mg administered Q2W.
 
-The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, and EoE subjects, ranging between 61% and 64%.
+The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, and PN subjects, ranging between 61% and 64%.
 
 Distribution
 
@@ -81,11 +81,11 @@ Pediatric Patients
 
 Atopic Dermatitis
 
-For pediatric subjects 12 to 17 years of age with atopic dermatitis receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+For pediatric subjects 12 to 17 years of age with AD receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
-For pediatric subjects 6 to 11 years of age with atopic dermatitis receiving every other week dosing (Q2W) with 200 mg (≥30 kg) or every four week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
+For pediatric subjects 6 to 11 years of age with AD receiving every other week dosing (Q2W) with 200 mg (≥30 kg) or every four week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
 
-For pediatric subjects 6 months to 5 years of age with atopic dermatitis receiving every four week dosing (Q4W) with 300 mg (≥15 to <30 kg) or 200 mg (≥5 to <15 kg), the mean ± SD steady-state trough concentration was 110±42.8 mcg/mL and 109±50.8 mcg/mL, respectively.
+For pediatric subjects 6 months to 5 years of age with AD receiving every four week dosing (Q4W) with 300 mg (≥15 to <30 kg) or 200 mg (≥5 to <15 kg), the mean ± SD steady-state trough concentration was 110±42.8 mcg/mL and 109±50.8 mcg/mL, respectively.
 
 Asthma
 
@@ -94,7 +94,7 @@ The mean ± SD steady-state trough concentrations of dupilumab were 107±51.6 mc
 
 In VOYAGE, dupilumab pharmacokinetics was investigated in 270 subjects with moderate-to-severe asthma following subcutaneous administration of either 100 mg Q2W (for 91 pediatric subjects weighing <30 kg) or 200 mg Q2W (for 179 pediatric subjects weighing ≥30 kg).
 The mean ± SD steady-state trough concentration was 58.4±28.0 mcg/mL and 85.1±44.9 mcg/mL, respectively.
-Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years of age with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mg/L) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg).
+Simulation of a 300 mg Q4W subcutaneous dose in pediatric subjects 6 to 11 years of age with body weight of ≥15 to <30 kg resulted in predicted steady-state trough concentrations (98.7±41.0 mcg/L) and average concentrations higher than the observed trough concentrations and average concentrations of 100 mg Q2W (<30 kg).
 
 Eosinophilic Esophagitis
 
@@ -108,6 +108,6 @@ Based on the population analysis, commonly co-administered medications had no ef
 
 Cytochrome P450 Substrates
 
-The effects of dupilumab on the pharmacokinetics of midazolam (metabolized by CYP3A4), warfarin (metabolized by CYP2C9), omeprazole (metabolized by CYP2C19), metoprolol (metabolized by CYP2D6), and caffeine (metabolized by CYP1A2) were evaluated in a study with 12-13 evaluable subjects with atopic dermatitis (a SC loading dose of 600 mg followed by 300 mg SC weekly for six weeks).
+The effects of dupilumab on the pharmacokinetics of midazolam (metabolized by CYP3A4), warfarin (metabolized by CYP2C9), omeprazole (metabolized by CYP2C19), metoprolol (metabolized by CYP2D6), and caffeine (metabolized by CYP1A2) were evaluated in a study with 12-13 evaluable subjects with AD (a SC loading dose of 600 mg followed by 300 mg SC weekly for six weeks).
 No clinically significant changes in AUC were observed.
 The largest effect was observed for metoprolol (CYP2D6) with an increase in AUC of 29%.

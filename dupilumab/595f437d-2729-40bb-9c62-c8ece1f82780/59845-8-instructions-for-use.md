@@ -149,7 +149,7 @@ Do not put the Needle Cap back on.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-REGENERON SANOFI GENZYME
+REGENERON sanofi
 
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 
@@ -311,7 +311,7 @@ Do not put the Needle Cap back on.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-REGENERON SANOFI GENZYME
+REGENERON sanofi
 
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 
@@ -387,7 +387,7 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | D. Dispose of used DUPIXENT Pre-filled Pen |
 | --- |
 | How to Dispose of (throw away) DUPIXENT Pre-filled Pen Put your used DUPIXENT Pre-filled Pens, and Green Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Green Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. This Instructions for Use has been approved by the U.S. Food and Drug Administration. |
-| REGENERON SANOFI GENZYME |
+| REGENERON sanofi |
 | Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2020 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. Issued: June 2020 |
 
 # Instructions for Use
@@ -411,7 +411,7 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 
 | Important Information Read all of the instructions carefully before using the DUPIXENT Pre-filled Pen.Ask your healthcare provider how often you will need to inject the medicine.In adolescents 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.Choose a different injection site for each injection.Do not press or touch the Orange Needle Cover with your fingers.Do not inject through clothes.Do not remove the Yellow Cap until just before you give the injection.Do not try to put the Yellow Cap back on the DUPIXENT Pre-filled Pen.Throw away (dispose of) the used DUPIXENT Pre-filled Pen right away after use.Do not re-use a DUPIXENT Pre-filled Pen. |
 | --- |
-| Storing DUPIXENT Store unused DUPIXENT Pre-filled Pens in the refrigerator between 36°F to 46°F (2°C to 8°C).Store DUPIXENT Pre-filled Pens in the original carton to protect from light.If necessary, you may keep DUPIXENT Pre-filled Pens at room temperature up to 77°F (25°C) for up to 14 days.Do not store DUPIXENT Pre-filled Pens at room temperature more than 77°F (25°C).After removing a DUPIXENT Pre-filled Pen from the refrigerator, it must be used within 14 days or thrown away (disposed of).Do not shake the DUPIXENT Pre-filled Pen at any time.Do not heat the DUPIXENT Pre-filled Pen.Do not freeze the DUPIXENT Pre-filled Pen.Do not put the DUPIXENT Pre-filled Pen into direct sunlight.Keep DUPIXENT Pre-filled Pens and all medicines out of the reach of children. |
+| Storing DUPIXENT Store unused DUPIXENT Pre-filled Pens in the refrigerator between 36°F to 46°F (2°C to 8°C).Store DUPIXENT Pre-filled Pens in the original carton to protect from light.If necessary, you may keep DUPIXENT Pre-filled Pens at room temperature up to 77°F (25°C) for up to 14 days. Do not store DUPIXENT Pre-filled Pens at room temperature more than 77°F (25°C).After removing a DUPIXENT Pre-filled Pen from the refrigerator, it must be used within 14 days or thrown away (disposed of).Do not shake the DUPIXENT Pre-filled Pen at any time.Do not heat the DUPIXENT Pre-filled Pen.Do not freeze the DUPIXENT Pre-filled Pen.Do not put the DUPIXENT Pre-filled Pen into direct sunlight.Keep DUPIXENT Pre-filled Pens and all medicines out of the reach of children. |
 
 | A. Get ready to inject |  |
 | --- | --- |
@@ -457,7 +457,7 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | D. Dispose of used DUPIXENT Pre-filled Pen |
 | --- |
 | How to Dispose of (throw away) DUPIXENT Pre-filled Pen Put your used DUPIXENT Pre-filled Pens and Yellow Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Yellow Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. This Instructions for Use has been approved by the U.S. Food and Drug Administration. |
-| REGENERON SANOFI GENZYME |
+| REGENERON sanofi |
 | Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2021 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. Issued: June 2021 |
 
 # INSTRUCTIONS FOR USE DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
@@ -608,6 +608,8 @@ Do not recycle your used sharps disposal container.
 Do not put the Needle Cap back on.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+REGENERON sanofi
 
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 

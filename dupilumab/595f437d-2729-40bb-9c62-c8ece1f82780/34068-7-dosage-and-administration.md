@@ -20,9 +20,9 @@ In pediatric patients 6 months to 11 years of age, administer DUPIXENT pre-fille
 
 Administration Instructions
 
-For atopic dermatitis and asthma patients taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
+For AD, asthma, and PN patients taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
 
-For atopic dermatitis and asthma patients taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
+For AD and asthma patients taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
 
 Administer subcutaneous injection into the thigh or abdomen, except for the 2 inches (5 cm) around the navel.
 The upper arm can also be used if a caregiver administers the injection.
@@ -48,7 +48,7 @@ The recommended dosage of DUPIXENT for pediatric patients 6 months to 5 years of
 
 Table 1: Dosage of DUPIXENT in Pediatric Patients 6 Months to 5 Years of Age with Atopic Dermatitis
 
-| Body Weight | InitialFor pediatric patients 6 months to 5 years of age with atopic dermatitis, no initial loading dose is recommended. and Subsequent Dosage |
+| Body Weight | InitialFor pediatric patients 6 months to 5 years of age with AD, no initial loading dose is recommended. and Subsequent Dosage |
 | --- | --- |
 | 5 to less than 15 kg | 200 mg (one 200 mg injection) every 4 weeks (Q4W) |
 | 15 to less than 30 kg | 300 mg (one 300 mg injection) every 4 weeks (Q4W) |
@@ -97,7 +97,7 @@ Table 4: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asth
 | 15 to less than 30 kg | 100 mg every other week (Q2W) or 300 mg every four weeks (Q4W) |
 | ≥30 kg | 200 mg every other week (Q2W) |
 
-For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe atopic dermatitis, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
+For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe AD, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
 
 ## 2.5 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyposis
 
@@ -107,7 +107,11 @@ The recommended dosage of DUPIXENT for adult patients is 300 mg given every othe
 
 The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older, weighing at least 40 kg, is 300 mg given every week (QW).
 
-## 2.7 Missed Doses
+## 2.7 Recommended Dosage for Prurigo Nodularis
+
+The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections) followed by 300 mg given every other week (Q2W).
+
+## 2.8 Missed Doses
 
 If a weekly dose is missed, administer the dose as soon as possible, and start a new weekly schedule from the date of the last administered dose.
 
@@ -117,7 +121,7 @@ If the missed dose is not administered within 7 days, wait until the next dose o
 If an every 4 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
 
-## 2.8 Preparation for Use
+## 2.9 Preparation for Use
 
 Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen, and 100 mg/0.67 mL pre-filled syringe) without removing the needle cap.
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.

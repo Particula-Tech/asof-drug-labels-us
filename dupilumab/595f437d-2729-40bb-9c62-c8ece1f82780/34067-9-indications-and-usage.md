@@ -2,7 +2,7 @@
 
 ## 1.1 Atopic Dermatitis
 
-DUPIXENT is indicated for the treatment of adult and pediatric patients aged 6 months and older with moderate-to-severe atopic dermatitis whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.
+DUPIXENT is indicated for the treatment of adult and pediatric patients aged 6 months and older with moderate-to-severe atopic dermatitis (AD) whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.
 DUPIXENT can be used with or without topical corticosteroids.
 
 ## 1.2 Asthma
@@ -20,3 +20,7 @@ DUPIXENT is indicated as an add-on maintenance treatment in adult patients with 
 ## 1.4 Eosinophilic Esophagitis
 
 DUPIXENT is indicated for the treatment of adult and pediatric patients aged 12 years and older, weighing at least 40 kg, with eosinophilic esophagitis (EoE).
+
+## 1.5 Prurigo Nodularis
+
+DUPIXENT is indicated for the treatment of adult patients with prurigo nodularis (PN).
