@@ -14,6 +14,9 @@ For Intravenous Use Only
 
 Rx only
 
+Single-Dose Only.
+Discard Unused Portion
+
 PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Bag Label
 
 NDC 25021-309-82
@@ -31,3 +34,6 @@ For Intravenous Use Only
 DOUBLE STRENGTH
 
 Rx only
+
+Single-Dose Only.
+Discard Unused Portion
