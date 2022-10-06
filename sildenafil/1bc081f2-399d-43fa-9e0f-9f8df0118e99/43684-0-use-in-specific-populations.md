@@ -12,8 +12,8 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Pregnant women with untreated pulmonary arterial hypertension are at risk for heart failure, stroke, preterm delivery, and maternal and fetal death.
 
-Data Animal Data No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m2 basis, 32-and 65-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
-In a rat pre-and postnatal development study, the no-observed-adverse-effect dose was 30 mg/kg/day (equivalent to 5-times the RHD on a mg/m2 basis).
+Data Animal Data No evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed in pregnant rats or rabbits dosed with sildenafil 200 mg/kg/day during organogenesis, a level that is, on a mg/m 2 basis, 32-and 65-times, respectively, the recommended human dose (RHD) of 20 mg three times a day.
+In a rat pre-and postnatal development study, the no-observed-adverse-effect dose was 30 mg/kg/day (equivalent to 5-times the RHD on a mg/m 2 basis).
 
 ## 8.2 Lactation
 
@@ -58,4 +58,4 @@ Severe impairment has not been studied [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 
-No dose adjustment is required (including severe impairment CLcr < 30 mL/min) [see Clinical Pharmacology (12.3)].
+No dose adjustment is required (including severe impairment CLcr <30 mL/min) [see Clinical Pharmacology (12.3)].

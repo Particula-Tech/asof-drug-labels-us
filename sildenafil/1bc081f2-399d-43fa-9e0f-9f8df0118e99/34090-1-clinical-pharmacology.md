@@ -26,7 +26,7 @@ The relationship between these effects and improvements in 6-minute walk distanc
 Table 3.
 Changes from Baseline in Hemodynamic Parameters at Week 12 [mean (95% CI)] for the Sildenafil Tablets 20 mg Three Times a Day and Placebo Group
 
-|  | Placebo (n = 65) * | Sildenafil Tablets 20 mg three times a day (n = 65) * |
+|  | Placebo(n = 65) * | Sildenafil Tablets 20 mg three times a day (n = 65) * |
 | --- | --- | --- |
 | mPAP (mmHg) | 0.6 (-0.8, 2.0) | -2.1 (-4.3, 0.0) |
 | PVR (dyn.s/cm 5) | 49 (-54, 153) | -122 (-217, -27) |
@@ -104,7 +104,7 @@ Renal Impairment
 
 In volunteers with mild (CLcr = 50 to 80 mL/min) and moderate (CLcr = 30 to 49 mL/min) renal impairment, the pharmacokinetics of a single oral dose of sildenafil (50 mg) was not altered.
 In volunteers with severe (CLcr less than 30 mL/min) renal impairment, sildenafil clearance was reduced, resulting in approximately doubling of AUC and C max compared to age-matched volunteers with no renal impairment.
-In addition, N-desmethyl metabolite AUC and C max values were significantly increased 200 % and 79 %, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
+In addition, N-desmethyl metabolite AUC and C max values were significantly increased 200% and 79%, respectively, in subjects with severe renal impairment compared to subjects with normal renal function.
 
 Hepatic Impairment
 

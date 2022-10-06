@@ -75,7 +75,7 @@ Study 3 (Sildenafil citrate monotherapy (1 mg, 5 mg, and 20 mg three times a day
 A randomized, double-blind, parallel dose study (Study 3) was planned in 219 patients with PAH.
 This study was prematurely terminated with 129 subjects enrolled.
 Patients were required to have a mPAP greater than or equal to 25 mmHg and a PCWP less than or equal to 15 mmHg at rest via right heart catheterization within 12 weeks before randomization, and a baseline 6-minute walk test distance greater than or equal to 100 meters and less than or equal to 450 meters (mean 345 meters).
-Patients were randomized to 1 of 3 doses of REVATIO: 1 mg, 5 mg, and 20 mg, three times a day.
+Patients were randomized to 1 of 3 doses of Sildenafil Tablets: 1 mg, 5 mg, and 20 mg, three times a day.
 
 At baseline patients had PPH (74%) or secondary PAH (26%); WHO functional class II (57%), III (41%), or IV (2%); the mean age was 44 years; and 67% were female.
 The majority of subjects were Asian (67%), and 28% were Caucasian.
