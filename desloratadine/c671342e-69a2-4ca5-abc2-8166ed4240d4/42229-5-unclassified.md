@@ -1,10 +1,11 @@
-CLARINEX Tablets are Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
+Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2022 Organon group of companies.
+All rights reserved.
 
-uspi-og4117-mtl-2106r000
+uspi-og4117-mf-2208r001
 
 CLARINEX Tablets are Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
