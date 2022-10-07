@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207933"
+  ],
+  "inn": "fingolimod",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-889-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fingolimod",
+      "name": "Fingolimod"
+    }
+  ],
+  "setid": "c3199508-3d6a-4e44-96f0-bbde9969edcb",
+  "source": "dailymed"
+}
