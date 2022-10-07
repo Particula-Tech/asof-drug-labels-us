@@ -81,7 +81,7 @@ Patients developing peripheral edema may be treated with standard measures, e.g.
 
 ## 5.7 Second Primary Malignancies
 
-Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), Non-Hodgkin’s Lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
+Second primary malignancies, notably acute myeloid leukemia (AML), myelodysplastic syndrome (MDS), non-Hodgkin’s lymphoma (NHL), and renal cancer, have been reported in patients treated with docetaxel-containing regimens.
 These adverse reactions may occur several months or years after docetaxel-containing therapy.
 
 Treatment-related AML or MDS has occurred in patients given anthracyclines and/or cyclophosphamide, including use in adjuvant therapy for breast cancer.

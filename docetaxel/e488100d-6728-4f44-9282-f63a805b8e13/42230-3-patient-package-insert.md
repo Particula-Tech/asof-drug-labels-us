@@ -46,8 +46,8 @@ Your healthcare provider will check you for new cancers during and after your tr
 
 - Severe skin problems
 
-Tell your healthcare provider right away if you have any of these signs of a severe skin reaction: ◦ redness and swelling of your arms and legs. ◦ blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet) with or without a rash.
-You may also have flu-like symptoms such as fever, chills, or muscle aches. ◦ red, scaly rash all over your body with blisters small red or white bumps under the skin that contain pus (pustules) and fever.
+Tell your healthcare provider right away if you have any of these signs of a severe skin reaction: ◦ redness and swelling of your arms and legs. ◦ blistering, peeling, or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet) with or without a rash.
+You may also have flu-like symptoms such as fever, chills, or muscle aches. ◦ red, scaly rash all over your body with blisters, small red or white bumps under the skin that contain pus (pustules), and fever.
 
 What is Docetaxel Injection?
 
@@ -181,7 +181,7 @@ What are the ingredients in Docetaxel Injection?
 
 Active ingredient: docetaxel
 
-Inactive ingredients: polysorbate 80 and dehydrated alcohol solution
+Inactive ingredients: polysorbate 80 and dehydrated alcohol solution, with citric acid for pH adjustment.
 
 Manufactured by:
 
@@ -197,7 +197,7 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2021
+Revised: 08/2022
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancers Take your oral corticosteroid medicine as your healthcare provider tells you. |
 | --- |
@@ -215,6 +215,6 @@ Revised: 08/2021
 | (Docetaxel Injection Treatment Day) |
 | Time: ________ |
 
-Revised: August 2021
+Revised: August 2022
 
-10VUF06
+10VUF07
