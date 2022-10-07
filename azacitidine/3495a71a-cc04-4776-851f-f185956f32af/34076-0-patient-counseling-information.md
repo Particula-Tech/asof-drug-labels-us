@@ -21,4 +21,4 @@ Advise males and females that VIDAZA may impair fertility [see Use in Specific P
 |  | Princeton, NJ 08543 USA |
 
 1. VIDAZA® is a trademark of Celgene Corporation, a Bristol-Myers Squibb company.
-   VIDPI.16
+   VIDPI.18

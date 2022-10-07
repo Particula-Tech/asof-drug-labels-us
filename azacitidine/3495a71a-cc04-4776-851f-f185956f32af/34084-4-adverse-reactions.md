@@ -293,3 +293,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - ‑ Sweet's syndrome (acute febrile neutrophilic dermatosis)
 - ‑ Necrotizing fasciitis (including fatal cases)
 - ‑ Differentiation syndrome
+- ‑Pericardial effusion
+- ‑Pericarditis
