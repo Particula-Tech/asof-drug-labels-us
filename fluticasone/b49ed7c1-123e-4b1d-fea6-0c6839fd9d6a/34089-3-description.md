@@ -1,12 +1,12 @@
 # 11 DESCRIPTION
 
-Flovent HFA is a pressurized metered dose inhaler for oral inhalation.
+FLOVENT HFA is a pressurized metered dose inhaler for oral inhalation.
 The active component of FLOVENT HFA 44 mcg, FLOVENT HFA 110 mcg, and FLOVENT HFA 220 mcg is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 
 Fluticasone propionate is a white powder with a molecular weight of 500.6, and the empirical formula is C25H31F3O5S.
 It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.
 
-Flovent HFA is a dark orange plastic inhaler with a peach cap containing a pressurized metered-dose aerosol canister fitted with a counter.
+FLOVENT HFA is a dark orange plastic inhaler with a peach cap containing a pressurized metered-dose aerosol canister fitted with a counter.
 Each canister contains a microcrystalline suspension of micronized fluticasone propionate in propellant HFA-134a (1,1,1,2-tetrafluoroethane).
 It contains no other excipients.
 

@@ -2,16 +2,16 @@
 
 ## 14.1 Adult and Adolescent Subjects Aged 12 Years and Older
 
-Three randomized, double-blind, parallel-group, placebo-controlled, U.S. clinical trials were conducted in 980 adult and adolescent subjects (aged 12 years and older) with asthma to assess the efficacy and safety of Flovent HFA in the treatment of asthma.
+Three randomized, double-blind, parallel-group, placebo-controlled, U.S. clinical trials were conducted in 980 adult and adolescent subjects (aged 12 years and older) with asthma to assess the efficacy and safety of FLOVENT HFA in the treatment of asthma.
 Fixed dosages of 88, 220, and 440 mcg twice daily (each dose administered as 2 inhalations of the 44-, 110-, and 220-mcg strengths, respectively) and 880 mcg twice daily (administered as 4 inhalations of the 220-mcg strength) were compared with placebo to provide information about appropriate dosing to cover a range of asthma severity.
 Subjects in these trials included those inadequately controlled with bronchodilators alone (Trial 1), those already receiving ICS (Trial 2), and those requiring oral corticosteroid therapy (Trial 3).
 In all 3 trials, subjects were allowed to use VENTOLIN (albuterol, USP) Inhalation Aerosol as needed for relief of acute asthma symptoms.
 In Trials 1 and 2, other maintenance asthma therapies were discontinued.
 
 Trial 1 enrolled 397 subjects with asthma inadequately controlled on bronchodilators alone.
-Flovent HFA was evaluated at dosages of 88, 220, and 440 mcg twice daily for 12 weeks.
+FLOVENT HFA was evaluated at dosages of 88, 220, and 440 mcg twice daily for 12 weeks.
 Baseline FEV1 values were similar across groups (mean 67% of predicted normal).
-All 3 dosages of Flovent HFA demonstrated a statistically significant improvement in lung function as measured by improvement in AM pre-dose FEV1 compared with placebo.
+All 3 dosages of FLOVENT HFA demonstrated a statistically significant improvement in lung function as measured by improvement in AM pre-dose FEV1 compared with placebo.
 This improvement was observed after the first week of treatment and was maintained over the 12-week treatment period.
 
 At Endpoint (last observation), mean change from baseline in AM pre-dose percent predicted FEV1 was greater in all 3 groups treated with FLOVENT HFA (9.0% to 11.2%) compared with the placebo group (3.4%).

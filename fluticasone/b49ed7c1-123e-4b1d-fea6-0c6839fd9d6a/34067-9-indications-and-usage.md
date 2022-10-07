@@ -4,4 +4,4 @@ FLOVENT HFA is indicated for the maintenance treatment of asthma as prophylactic
 
 Limitations of Use
 
-Flovent HFA is not indicated for the relief of acute bronchospasm.
+FLOVENT HFA is not indicated for the relief of acute bronchospasm.
