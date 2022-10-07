@@ -12,5 +12,4 @@ The chemical structure is:
 y=1 for Na+ and K+; y=2 for Mg2+ and Ca2+
 
 The inactive ingredients are purified water and sucralose.
-
 XYWAV contains no ingredient made from a gluten‑containing grain (wheat, barley, or rye).

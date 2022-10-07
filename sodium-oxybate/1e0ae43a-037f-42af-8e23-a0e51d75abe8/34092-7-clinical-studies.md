@@ -165,7 +165,7 @@ IHSS
 At end of DB RWP, patients randomized to placebo experienced a worsening in IHSS total score, compared to patients randomized to XYWAV (p<0.0001) (see Table 11).
 These two treatment groups had comparable median IHSS scores (Placebo=33; XYWAV=33) at entry into the OTTP.
 
-Table 11: Median Change in IHSS Total Score
+Table 11: Median Changes in IHSS Total Score
 
 | Total Score |  |  |
 | --- | --- | --- |

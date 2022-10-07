@@ -48,7 +48,7 @@ Increased apnea and reduced oxygenation may occur with XYWAV administration in a
 A significant increase in the number of central apneas and clinically significant oxygen desaturation may occur in patients with obstructive sleep apnea treated with XYWAV.
 
 In a study assessing the respiratory-depressant effects of Xyrem (same active moiety as XYWAV) at doses up to 9 g per night in 21 adult patients with narcolepsy, no dose-related changes in oxygen saturation were demonstrated in the group as a whole.
-One of the four patients with preexisting, moderate-to-severe sleep apnea had significant worsening of the apnea/hypopnea index during treatment.
+One of the four patients with preexisting moderate-to-severe sleep apnea had significant worsening of the apnea/hypopnea index during treatment.
 
 In a study assessing the effects of Xyrem 9 g per night in 50 adult patients with obstructive sleep apnea, Xyrem did not increase the severity of sleep‑disordered breathing and did not adversely affect the average duration and severity of oxygen desaturation overall.
 However, there was a significant increase in the number of central apneas in patients taking Xyrem, and clinically significant oxygen desaturation (≤55%) was measured in three patients (6%) after Xyrem administration, with one patient withdrawing from the study and two continuing after single brief instances of desaturation.
