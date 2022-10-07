@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761173"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "65219-371-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pegflilgrastim-fpgk",
+      "name": "STIMUFEND"
+    }
+  ],
+  "setid": "b44bcb82-7e60-4dab-a658-115bdf5c053c",
+  "source": "dailymed"
+}
