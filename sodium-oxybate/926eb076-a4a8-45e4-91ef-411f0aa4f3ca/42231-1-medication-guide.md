@@ -90,10 +90,11 @@ Figure H
   Be careful to add only water to the pharmacy container and not more XYREM.
 - •All shipped bottles of XYREM contain the concentrated medicine.
   Water for mixing the medicine is not provided in the shipment.
-- •Place the child-resistant cap provided on the filled pharmacy container on the pharmacy container and turn the cap clockwise (to the right) until it clicks and locks into its child-resistant position.
-  See Figure I.
+- •Place the child-resistant cap on the filled pharmacy container and turn the cap clockwise (to the right) until it clicks and locks into its child-resistant position.
+  See Figure I. (Caution: the pharmacy container cap is reversible with a non-child resistant side.
+  See Figure J. Ensure the child-resistant side of the cap is used to prevent access of the medicine by children.)
 
-Figure I
+Figure I Figure J
 
 Step 3.
 Prepare the second XYREM dose (prepare before bedtime)
@@ -137,7 +138,8 @@ How should I store XYREM?
 
 - •Store XYREM in the original bottle prior to mixing with water.
   After mixing, store XYREM in the pharmacy containers provided by the pharmacy.
-  The caps on the original bottle and pharmacy containers are child-resistant.
+  The cap on the original bottle is child-resistant.
+  The pharmacy container cap is child-resistant only when the child-resistant side of the cap is used.
 - •Store XYREM at room temperature between 68°F to 77°F (20°C to 25°C).
 - •XYREM solution prepared after mixing with water should be taken within 24 hours or emptied down the sink drain.
 
@@ -152,4 +154,4 @@ Throwing away (disposing of) XYREM
 Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Approved: 3/2022
+Approved: 10/2022
