@@ -19,7 +19,6 @@ In each trial, subjects were treated with 2 g of DIFFERIN Lotion applied once da
 Serial plasma samples were collected at 24 or 72 hours following application on days 1, 15 and 28/30.
 
 Daily topical application of DIFFERIN Lotion resulted in low systemic exposure to adapalene in the two populations (adult and adolescent subjects).
-
 In the adult population, all plasma concentrations in 12 out of 14 subjects were below the limit of quantification (LOQ=0.1 ng/mL).
 One subject had one sample above LOQ at day 30 and the other subject had four plasma samples above LOQ on both days 1 and 15, which ranged from 0.102 and 0.131 ng/mL.
 

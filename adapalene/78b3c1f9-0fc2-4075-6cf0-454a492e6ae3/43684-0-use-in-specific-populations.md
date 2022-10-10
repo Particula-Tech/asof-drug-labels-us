@@ -2,31 +2,27 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. There are no well-controlled trials in pregnant women treated with DIFFERIN Lotion.
-Therefore, DIFFERIN Lotion should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Animal reproduction studies have not been conducted with DIFFERIN Lotion.
-Furthermore, such studies are not always predictive of human response.
+Risk Summary Available data from clinical trials with DIFFERIN Lotion use in pregnant women are insufficient to establish a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
+In animal reproduction studies, oral administration of adapalene to pregnant rats and rabbits during organogenesis at dose exposures 122 and 243 times, respectively, the human exposure at the maximum recommended human dose (MRHD) of 2 g resulted in fetal skeletal and visceral malformations (see Data).
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
 
-Human Data
+Data Animal Data No malformations were observed in rats treated with oral adapalene doses of 0.15 to 5.0 mg/kg/day, up to 24 times the MRHD based on a mg/m2 comparison.
+However, malformations were observed in rats and rabbits when treated with oral doses of ≥ 25 mg/kg/day adapalene (122 and 243 times the MRHD, respectively, based on a mg/m2 comparison).
+Findings included cleft palate, microphthalmia, encephalocele, and skeletal abnormalities in rats and umbilical hernia, exophthalmos, and kidney and skeletal abnormalities in rabbits.
+Dermal adapalene embryofetal development studies in rats and rabbits at doses up to 6.0 mg/kg/day (29 and 58 times the MRHD, respectively, based on a mg/m2 comparison) exhibited no fetotoxicity and only minimal increases in skeletal variations (supernumerary ribs in both species and delayed ossification in rabbits).
 
-In clinical trials involving DIFFERIN Lotion, 0.1% in the treatment of acne vulgaris, women of childbearing potential initiated treatment only after a negative pregnancy test.
-Two women became pregnant while using DIFFERIN Lotion, 0.1%.
-One patient delivered a healthy full term baby and the other patient electively terminated her pregnancy.
+## 8.2 Lactation
 
-Animal Data
+Risk Summary There are no data on the presence of topical adapalene lotion or its metabolite in human milk, the effects on the breastfed infant, or the effects on milk production.
+In animal studies, adapalene is present in rat milk with oral administration of the drug.
+When a drug is present in animal milk, it is likely that the drug will be present in human milk.
+It is possible that topical administration of large amounts of adapalene could result in sufficient systemic absorption to produce detectable quantities in human milk (see Clinical Considerations).
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DIFFERIN Lotion and any potential adverse effects on the breastfed child from DIFFERIN Lotion or from the underlying maternal condition.
 
-No teratogenic effects were observed in rats treated with oral doses of 0.15 to 5.0 mg adapalene/kg/day, up to 25 times (mg/m2/day) the maximum recommended human dose (MRHD) of 2 grams of DIFFERIN Lotion.
-However, teratogenic changes were observed in rats and rabbits when treated with oral doses of ≥ 25 mg adapalene/kg/day representing 123 and 246 times MRHD, respectively.
-Findings included cleft palate, microphthalmia, encephalocele and skeletal abnormalities in rats; and umbilical hernia, exophthalmos and kidney and skeletal abnormalities in rabbits.
-
-Dermal teratology studies conducted in rats and rabbits at doses of 0.6-6.0 mg adapalene/kg/day [25-59 times (mg/m2) the MRHD] exhibited no fetotoxicity and only minimal increases in supernumerary ribs in both species and delayed ossification in rabbits.
-
-Systemic exposure (AUC 0-24h) to adapalene at topical doses (6.0 mg/kg/day) in rats represented 101 times the exposure to adapalene in patients with acne treated with DIFFERIN Lotion applied to the face, chest and back (2 grams applied to 1000 cm² of acne-involved skin).
-
-## 8.3 Nursing Mothers
-
-It is not known whether adapalene is excreted in human milk following use of DIFFERIN Lotion.
-Because many drugs are excreted in human milk, caution should be exercised when DIFFERIN Lotion is administered to a nursing woman.
+Clinical Considerations To minimize potential exposure to the breastfed infant via breastmilk, use DIFFERIN Lotion on the smallest area of skin and for the shortest duration possible while breastfeeding.
+Avoid application of DIFFERIN Lotion to areas with increased risk for potential ingestion by or ocular exposure to the breastfeeding child.
 
 ## 8.4 Pediatric Use
 
