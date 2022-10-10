@@ -6,7 +6,7 @@
 
 In patients with renal impairment, metformin can cause lactic acidosis.
 Iodinated contrast agents appear to increase the risk of metformin-induced lactic acidosis, possibly as a result of worsening renal function.
-Stop metformin at the time of, or prior to, OMNIPAQUE administration in patients with an estimated Glomerular Filtration Rate (eGFR) between 30 and 60 mL/min/1.73 m2; in patients with a history of hepatic impairment, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
+Stop metformin at the time of, or prior to, OMNIPAQUE administration in patients with an estimated Glomerular Filtration Rate (eGFR) between 30 and 60 mL/min/1.73 m 2; in patients with a history of hepatic impairment, alcoholism or heart failure; or in patients who will be administered intra-arterial iodinated contrast.
 Re-evaluate eGFR 48 hours after the imaging procedure, and reinstitute metformin only after renal function is stable.
 
 - Radioactive Iodine
@@ -24,4 +24,4 @@ Because of the risk of hypersensitivity reactions, use caution when administerin
 Effect on Thyroid Tests
 
 If iodine-containing isotopes are to be administered for the diagnosis of thyroid disease, the iodine-binding capacity of thyroid tissue may be reduced for up to 2 weeks after contrast agent administration.
-Thyroid function tests which do not depend on iodine estimation, e.g., T3 resin uptake or direct thyroxine assays, are not affected.
+Thyroid function tests which do not depend on iodine estimation, e.g., T 3 resin uptake or direct thyroxine assays, are not affected.

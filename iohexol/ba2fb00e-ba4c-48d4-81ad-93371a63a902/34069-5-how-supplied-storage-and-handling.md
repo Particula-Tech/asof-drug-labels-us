@@ -7,12 +7,12 @@ It is supplied in the following configurations:
 
 OMNIPAQUE Imaging Bulk Package (iohexol) Injection 300 mg iodine/mL:
 
-| 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Imaging Bulk Packages | (NDC 0407-1413-48) |
+| 500 mL in + PLUSPAK™ (polymer bottle), boxes of 10 Imaging Bulk Packages | (NDC 0407-1413-48) |
 | --- | --- |
 
 OMNIPAQUE Imaging Bulk Package (iohexol) Injection 350 mg iodine/mL:
 
-| 500 mL in +PLUSPAK™ (polymer bottle), boxes of 10 Imaging Bulk Packages | (NDC 0407-1414-48) |
+| 500 mL in + PLUSPAK™ (polymer bottle), boxes of 10 Imaging Bulk Packages | (NDC 0407-1414-48) |
 | --- | --- |
 
 ## 16.2 Storage and Handling

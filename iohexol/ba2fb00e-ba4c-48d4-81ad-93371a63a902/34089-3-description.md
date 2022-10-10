@@ -19,7 +19,7 @@ Table 2 summarizes the physical properties of the two concentrations of OMNIPAQU
 
 TABLE 2
 
-| Concentration (mg iodine/mL) | OsmolalityBy vapor-pressure osmometry. (mOsm/kg water) | Absolute Viscosity (cp) |  | Specific Gravity |
+| Concentration (mg iodine/mL) | Osmolality By vapor-pressure osmometry. (mOsm/kg water) | Absolute Viscosity (cp) |  | Specific Gravity |
 | --- | --- | --- | --- | --- |
 |  |  | 20°C | 37°C | 37°C |
 | 300 | 672 | 11.8 | 6.3 | 1.349 |

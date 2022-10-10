@@ -32,7 +32,7 @@ Table 2
 
 |  | STUDY TYPE | 300 mg iodine/mL |
 | --- | --- | --- |
-| Pediatric PatientsThe concentration and volume required will depend on the equipment and imaging technique used. Dosing Recommendations: Intravenous Administration |  |  |
+| Pediatric Patients The concentration and volume required will depend on the equipment and imaging technique used. Dosing Recommendations: Intravenous Administration |  |  |
 | Dosage for infants and children should be administered in proportion to age and body weight. | CT Imaging – Head and Body | 1 – 2 mL/kg Maximum single dose = 3mL/kg 35 grams iodine (116 mL) |
 
 ## 2.3 Imaging Bulk Package Preparation Instructions

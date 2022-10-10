@@ -10,7 +10,7 @@ Omnipaque™ (iohexol) Injection
 
 300 mg Iodine/mL 500 mL
 
-NOVAPLUS®
+NOVAPLUS ®
 
 IMAGING BULK PACKAGE
 
@@ -35,9 +35,9 @@ Protect from light.
 Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP].
 Do not freeze.
 For indications, dosage and further information on the use of the Imaging Bulk Package, see package insert.
-Rx ONLY
+R x ONLY
 
-Distributed by GE Healthcare Inc. Marlborough, MA 01752 U.S.A. Manufactured by GE Healthcare (Shanghai) Co., Ltd., Shanghai, China For inquiries call (800) 654-0118.
+Distributed by GE Healthcare Inc. Marlborough, MA 01752 U.S.A. For inquiries call (800) 654-0118.
 Omnipaque is a registered trademark of GE Healthcare.
 N+ and NOVAPLUS are registered trademarks of Vizient, Inc. Product of Norwegian Origin.
 
@@ -47,7 +47,7 @@ Exp.: Lot:
 
 Qty.: 1
 
-1193031 USA NP
+1196544 USA NP
 
 # PRINCIPAL DISPLAY PANEL - 350 mL Bottle Box Label
 
@@ -57,11 +57,13 @@ Contains 10 x 500 mL Bottles
 
 NDC 0407-1414-48
 
-Omnipaque™ (iohexol) Injection
+Omnipaque™
+
+(iohexol) Injection
 
 350 mg Iodine/mL 500 mL
 
-NOVAPLUS®
+NOVAPLUS ®
 
 IMAGING BULK PACKAGE
 
@@ -85,11 +87,16 @@ Discard unused Omnipaque 8 hours after initial puncture.
 Protect from light.
 Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP].
 Do not freeze.
-For indications, dosage and further information on the use of the Imaging Bulk Package, see package insert.
-Rx ONLY
 
-Distributed by GE Healthcare Inc. Marlborough, MA 01752 U.S.A. Manufactured by GE Healthcare (Shanghai) Co., Ltd., Shanghai, China For inquiries call (800) 654-0118.
+For indications, dosage and further information on the use of the Imaging Bulk Package, see package insert.
+R x ONLY
+
+Distributed by GE Healthcare Inc.
+
+Marlborough, MA 01752 U.S.A. For inquiries call (800) 654-0118
+
 Omnipaque is a registered trademark of GE Healthcare.
+
 N+ and NOVAPLUS are registered trademarks of Vizient, Inc. Product of Norwegian Origin.
 
 (01)20304071414488
@@ -98,4 +105,4 @@ Exp.: Lot:
 
 Qty.: 1
 
-1193033 USA NP
+1196546 USA NP
