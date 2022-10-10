@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+The Medication Guide accompanies the product and can also be accessed on www.keppraxr.com or by calling 1-844-599-2273.
 
 Psychiatric Reactions and Changes in Behavior
 
