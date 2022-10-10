@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Doxycycline is an antibacterial drug [see Microbiology (12.4)].
+Doxycycline is a tetracycline-class antimicrobial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -81,4 +81,4 @@ The precise mechanism of action of the drug is not known.
 
 Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria, associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

@@ -2,15 +2,22 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category D:
-
 Risk Summary
 
 There are no adequate and well-controlled studies on the use of doxycycline in pregnant women.
 The vast majority of reported experience with doxycycline during human pregnancy is short-term, first trimester exposure.
 There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women such as that proposed for the treatment of anthrax exposure.
-An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.1
+An expert review of published data on experiences with doxycycline use during pregnancy by TERIS - the Teratogen Information System - concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk (see Data).1
+
+In the US general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Clinical Considerations
+
+Embryo/Fetal Risk
+
+Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development).
+Evidence of embryotoxicity also has been noted in animals treated early in pregnancy.
+If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus [see Warnings and Precautions (5.1, 5.6)].
 
 Data
 
@@ -23,20 +30,18 @@ This association was not seen when the analysis was confined to maternal treatme
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
 All mothers reported their exposed infants were normal at 1 year of age.3
 
-Nonteratogenic effects: [see Warnings and Precautions (5.1, 5.6)].
-
 ## 8.2 Lactation
 
 Risk Summary
 
 Tetracyclines are excreted in human milk, however, the extent of absorption of tetracyclines including doxycycline, by the breastfed infant is not known.
 Short-term use by lactating women is not necessarily contraindicated.
-The effects of prolonged exposure to doxycycline in breast milk are unknown4.
-Because of the potential for serious adverse reactions in nursing infants from doxycycline, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see Warnings and Precautions (5.1, 5.6)].
+The effects of prolonged exposure to doxycycline in breast milk production and breast fed neonates, infants and children are unknown4.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for DORYX and any potential adverse effects on the breast fed child from DORYX or from the underlying maternal condition [see Warnings and Precautions (5.1, 5.6)].
 
 ## 8.4 Pediatric use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, use DORYX in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly, when there are no alternative therapies [see Warnings and Precautions (5.1, 5.6) and Dosage and Administration (2.1, 2.3)].
+Because of the effects of drugs of the tetracycline-class on tooth development and growth, use DORYX in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly, when there are no alternative therapies [see Dosage and Administration (2.1, 2.3) and Warnings and Precautions (5.1, 5.6)].
 
 ## 8.5 Geriatric use
 

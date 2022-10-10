@@ -7,7 +7,7 @@ This adverse reaction is more common during long-term use of the drugs but it ha
 Enamel hypoplasia has also been reported.
 Use DORYX in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
-## 5.2 Clostridioides difficile Associated Diarrhea
+## 5.2 Clostridioides difficile-Associated Diarrhea
 
 Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including DORYX Tablets, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -27,12 +27,12 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## 5.4 Potential for Microbial Overgrowth
 
-As with other antibacterial preparations, use of DORYX may result in overgrowth of non-susceptible organisms, including fungi.
+DORYX may result in overgrowth of non-susceptible organisms, including fungi.
 If superinfection occurs, the antibacterial should be discontinued and appropriate therapy instituted.
 
 ## 5.5 Severe Skin Reactions
 
-Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline [See Adverse Reactions (6)].
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline [see Adverse Reactions (6)].
 If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
 
 ## 5.6 Intracranial Hypertension
@@ -40,7 +40,7 @@ If severe skin reactions occur, doxycycline should be discontinued immediately a
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline including DORYX.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Avoid concomitant use of isotretinoin and Doryx because isotretinoin is also known to cause pseudotumor cerebri.
+Avoid concomitant use of isotretinoin and DORYX because isotretinoin is also known to cause pseudotumor cerebri.
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.

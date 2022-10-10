@@ -8,7 +8,9 @@ DORYX® (doxycycline hyclate delayed-release tablets)
 
 Do not chew or crush tablets Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 200 mg of doxycycline.
 
-Rx Only mayne pharma
+Rx Only
+
+mayne pharma
 
 60 Tablets
 
@@ -23,7 +25,9 @@ DORYX® (doxycycline hyclate delayed-release tablets)
 Do not chew or crush tablets.
 Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 50 mg of doxycycline.
 
-Rx Only mayne pharma
+Rx Only
+
+mayne pharma
 
 120 Tablets
 
@@ -37,6 +41,8 @@ DORYX® (doxycycline hyclate delayed-release tablets)
 
 Do not chew or crush tablets Each tablet contains specially coated pellets of doxycycline hyclate equivalent to 80 mg of doxycycline.
 
-Rx Only 30 Tablets
+Rx Only
 
 mayne pharma
+
+30 Tablets
