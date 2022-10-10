@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are no adequate and well-controlled studies of XELPROS ophthalmic emulsion in pregnant women to inform drug associated risks.
+There are no adequate and well-controlled studies of XELPROS ophthalmic emulsion in pregnant women to inform drug-associated risks.
 
 In animal reproduction studies, intravenous (IV) administration of latanoprost to pregnant rabbits and rats throughout the period of organogenesis produced malformations, embryofetal lethality and spontaneous abortion at clinically relevant doses [see Data].
 
