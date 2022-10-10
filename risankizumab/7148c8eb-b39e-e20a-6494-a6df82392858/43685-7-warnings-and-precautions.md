@@ -27,7 +27,7 @@ Do not administer SKYRIZI to patients with active TB.
 
 ## 5.4 Hepatotoxicity in Treatment of Crohn’s Disease
 
-A serious adverse reaction of drug-induced liver injury was reported in a patient with Crohn’s disease (ALT 54x ULN, AST 30x ULN, and total bilirubin 2.2x ULN) following two intravenous doses of SKYRIZI 600 mg in conjunction with a rash that required hospitalization.
+A serious adverse reaction of drug-induced liver injury in conjunction with a rash that required hospitalization was reported in a patient with Crohn’s disease (ALT 54x ULN, AST 30x ULN, and total bilirubin 2.2x ULN) following two 600 mg intravenous doses of SKYRIZI.
 The liver test abnormalities resolved following administration of steroids.
 SKYRIZI was subsequently discontinued.
 

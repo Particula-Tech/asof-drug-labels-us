@@ -8,11 +8,12 @@ SKYRIZI Pen
 
 SKYRIZI Prefilled Syringe
 
-- Injection: 150 mg/mL as a colorless to yellow and clear to slightly opalescent solution in each single-dose prefilled syringe.
 - Injection: 75 mg/0.83 mL as a colorless to slightly yellow and clear to slightly opalescent solution in each single-dose prefilled syringe.
+- Injection: 150 mg/mL as a colorless to yellow and clear to slightly opalescent solution in each single-dose prefilled syringe.
 
 SKYRIZI Prefilled Cartridge with Supplied On-Body Injector
 
+- Injection: 180 mg/1.2 mL (150 mg/mL) as a colorless to yellow, and clear to slightly opalescent solution in each single-dose prefilled cartridge for use with the on-body injector.
 - Injection: 360 mg/2.4 mL (150 mg/mL) as a colorless to yellow, and clear to slightly opalescent solution in each single-dose prefilled cartridge for use with the on-body injector.
 
 Intravenous Infusion

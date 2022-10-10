@@ -314,7 +314,9 @@ Revised: 01/2022
 
 Instructions for Use SKYRIZI® (sky-RIZZ-ee) On-Body Injector risankizumab-rzaa
 
-injection, for subcutaneous use only On-Body Injector and 360 mg/2.4 mL Prefilled Cartridge
+injection, for subcutaneous use only
+
+On-Body Injector and 180 mg/1.2 mL Prefilled Cartridge, On-Body Injector and 360 mg/2.4 mL Prefilled Cartridge
 
 Read this Instructions for Use before you start using SKYRIZI and each time you get a refill.
 There may be new information.
@@ -377,7 +379,7 @@ Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 or go to www.SK
 |  | Fully open the gray door Avoid touching the needle cover or the needle on the back of the On-Body Injector. The needle is behind the needle cover. Swing the gray door all the way to the right to open it. If the gray door does not open, press in firmly on the gray door ridges (left side of door) and swing open the door. Do not close the gray door before the prefilled cartridge is loaded. Do not touch the needle cover or needle. Put the On-Body Injector aside. |
 |  | Inspect the prefilled cartridge Carefully remove the prefilled cartridge from the plastic tray. Do not twist or remove cartridge top. Check the prefilled cartridge to make sure: ◦ The expiration date (EXP:) has not passed. ◦ The liquid should look clear to yellow and may contain tiny white or clear particles. It is normal to see one or more bubbles. ◦ The prefilled cartridge parts appear intact, and the clear plastic is not cracked or broken. Do not use if the expiration date (EXP:) has passed. Do not use if the liquid is cloudy, discolored, or contains flakes or large particles. Do not use if the liquid has been frozen (even if thawed). Do not use the prefilled cartridge if you drop it, discover missing pieces, or it is damaged. |
 |  | Clean the smaller bottom tip of the prefilled cartridge Locate the smaller bottom tip of the prefilled cartridge. Clean the smaller bottom tip of the prefilled cartridge with an alcohol wipe. Make sure to use the alcohol wipe to clean the center of the smaller bottom tip of the prefilled cartridge. Do not touch the smaller bottom tip of the prefilled cartridge after cleaning. |
-|  | Load the cleaned prefilled cartridge into the On-Body Injector Do not twist or remove the prefilled cartridge top. Insert the smaller bottom tip of the prefilled cartridge into the On-Body Injector first. Firmly push down on the prefilled cartridge top until you hear a “click”. After loading the prefilled cartridge, you may see a few drops of medicine on the back of the On-Body Injector. This is normal. Make sure that you start the injection within 5 minutes after inserting the prefilled cartridge into the On-Body Injector Waiting will dry out the medicine. |
+|  | Load the cleaned prefilled cartridge into the On-Body Injector Do not twist or remove the prefilled cartridge top. Insert the smaller bottom tip of the prefilled cartridge into the On-Body Injector first. Firmly push down on the prefilled cartridge top until you hear a “click”. After loading the prefilled cartridge, you may see a few drops of medicine on the back of the On-Body Injector. This is normal. Make sure that you start the injection within 5 minutes after inserting the prefilled cartridge into the On-Body Injector. Waiting will dry out the medicine. |
 |  | Close the gray door Swing the gray door to the left, then squeeze firmly and listen for the gray door to "snap" shut. The gray door should stay locked after loading the prefilled cartridge. Do not close the gray door if the prefilled cartridge is not fully inserted or is missing. Proceed without delay to Prepare to inject |
 | Step 3 Prepare to inject |  |
 | Keep electronic devices including cell phones at least 12 inches (30 cm) from On-Body Injector until injection is complete |  |
@@ -518,4 +520,6 @@ Glossary of symbols
 
 Manufactured by: AbbVie Inc., North Chicago, IL 60064, U.S.A. US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. ©2022 AbbVie Inc. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Approved: 06/2022
+Approved: 09/2022
+
+20071101

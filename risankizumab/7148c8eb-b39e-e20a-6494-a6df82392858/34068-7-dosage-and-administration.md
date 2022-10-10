@@ -11,7 +11,7 @@
 ## 2.2 General Considerations for Administration
 
 • Visually inspect SKYRIZI for particulate matter and discoloration prior to administration.
-The solution may contain a few translucent to white particles. ◦ SKYRIZI 150 mg/mL and 360 mg/2.4 mL: a colorless to yellow, and clear to slightly opalescent solution. ◦ SKYRIZI 75 mg/0.83 mL and 600 mg/10 mL: a colorless to slightly yellow, and clear to slightly opalescent solution. ◦ Do not use if the solution contains large particles or is cloudy or discolored.
+The solution may contain a few translucent to white particles. ◦ SKYRIZI 150 mg/mL, 180 mg/1.2 mL, and 360 mg/2.4 mL: a colorless to yellow, and clear to slightly opalescent solution. ◦ SKYRIZI 75 mg/0.83 mL and 600 mg/10 mL: a colorless to slightly yellow, and clear to slightly opalescent solution. ◦ Do not use if the solution contains large particles or is cloudy or discolored.
 
 • Discard after use.
 Do not reuse.
@@ -57,7 +57,8 @@ The recommended induction dosage of SKYRIZI is 600 mg administered by intravenou
 
 Adult Patients: Maintenance
 
-The recommended maintenance dosage of SKYRIZI is 360 mg administered by subcutaneous injection at Week 12, and every 8 weeks thereafter.
+The recommended maintenance dosage of SKYRIZI is 180 mg or 360 mg administered by subcutaneous injection at Week 12, and every 8 weeks thereafter.
+Use the lowest effective dosage needed to maintain therapeutic response.
 
 ## 2.7 Preparation and Administration Instructions (Crohn’s Disease)
 
@@ -83,8 +84,6 @@ Complete the infusion within 8 hours of dilution.
 6.
 Do not administer SKYRIZI diluted solution concomitantly in the same intravenous line with other medicinal products.
 
-Do not administer SKYRIZI diluted solution concomitantly in the same intravenous line with other medicinal products.
-
 Storage of Diluted Solution:
 
 If not used immediately, store the diluted SKYRIZI solution refrigerated and protected from light for up to 20 hours between 36°F to 46°F (2°C to 8°C).
@@ -100,7 +99,7 @@ Provide proper training to patients and/or caregivers on the subcutaneous inject
 
 • Before using the on-body injector with prefilled cartridge, remove the carton from the refrigerator and allow to reach room temperature out of direct sunlight (45 to 90 minutes) without removing the prefilled cartridge or on-body injector from the carton.
 
-• Use the on-body injector to administer SKYRIZI 360 mg/2.4 mL prefilled cartridge subcutaneously on thigh or abdomen.
+• Use the on-body injector to administer SKYRIZI 180 mg/1.2 mL or SKYRIZI 360 mg/2.4 mL prefilled cartridge subcutaneously on thigh or abdomen.
 
 • Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by any lesions.
 

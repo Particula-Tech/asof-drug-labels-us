@@ -19,7 +19,7 @@ In subjects with plaque psoriasis treated with 150 mg subcutaneously at Weeks 0,
 
 With the same dosing regimen, the pharmacokinetics of risankizumab-rzaa in subjects with psoriatic arthritis was similar to that in subjects with plaque psoriasis.
 
-In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 156 mcg/mL and 38.8 mcg/mL, respectively, during Weeks 8-12; and the steady state median Cmax and Ctrough are estimated to be 28.0 mcg/mL and 8.13 mcg/mL, respectively, during Weeks 40-48.
+In subjects with Crohn’s disease treated with 600 mg intravenous induction dose at Weeks 0, 4, and 8, followed by 180 mg or 360 mg subcutaneous maintenance dose at Week 12 and every 8 weeks thereafter, the median Cmax and Ctrough are estimated to be 156 mcg/mL and 38.8 mcg/mL, respectively, during Weeks 8-12; and the steady state median Cmax and Ctrough are estimated to be 14.0 mcg/mL and 4.1 mcg/mL, respectively for 180 mg or 28.0 mcg/mL and 8.1 mcg/mL, respectively, for 360 mg, during Weeks 40-48.
 
 Absorption
 

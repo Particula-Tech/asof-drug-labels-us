@@ -295,3 +295,91 @@ FOR SUBCUTANEOUS USE ONLY
 Single-Dose
 
 Rx Only
+
+NDC 0074-1065-01
+
+1 x 1.2 mL Prefilled Cartridge
+
+1 On-Body Injector
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+(180 mg/1.2 mL)
+
+150 mg/mL
+
+FOR SUBCUTANEOUS USE ONLY
+
+Single Dose
+
+SKYRIZI.com
+
+Rx only
+
+abbvie
+
+NDC 0074-1065-02
+
+NOT FOR SALE
+
+1 x 1.2 mL Prefilled Cartridge
+
+1 On-Body Injector
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+(180 mg/1.2 mL)
+
+150 mg/mL
+
+FOR SUBCUTANEOUS USE ONLY
+
+Single Dose
+
+SKYRIZI.com
+
+Rx only
+
+Abbvie
+
+NDC 0074-1066-01
+
+Skyrizi®
+
+Risankizumab-rzaa
+
+Injection
+
+180 mg/1.2 mL
+
+(150 mg/mL)
+
+FOR SUBCUTANEOUS USE ONLY
+
+Single-Dose
+
+Rx Only
+
+NDC 0074-1066-02
+
+NOT FOR SALE
+
+Skyrizi®
+
+Risankizumab-rzaa
+
+Injection
+
+180 mg/1.2 mL
+
+(150 mg/mL)
+
+FOR SUBCUTANEOUS USE ONLY
+
+Single-Dose
+
+Rx Only

@@ -33,8 +33,8 @@ Instruct patients or caregivers in the technique of pen or syringe disposal [see
 
 Pregnancy
 
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to SKYRIZI during pregnancy and patients can call 1-877-302-2161 [see Use in Specific Populations (8.1)].
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to SKYRIZI during pregnancy [see Use in Specific Populations (8.1)].
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2022 AbbVie Inc. 20070464 06/2022
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2022 AbbVie Inc. 20072970 09/2022
