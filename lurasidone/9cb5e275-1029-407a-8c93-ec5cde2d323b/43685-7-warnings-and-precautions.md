@@ -60,12 +60,12 @@ The syndrome may remit, partially or completely, if antipsychotic treatment is w
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
-Given these considerations, Lurasidone hydrochloride should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
+Given these considerations, lurasidone hydrochloride should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that (1) is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
-If signs and symptoms of tardive dyskinesia appear in a patient on Lurasidone hydrochloride, drug discontinuation should be considered.
+If signs and symptoms of tardive dyskinesia appear in a patient on lurasidone hydrochloride, drug discontinuation should be considered.
 However, some patients may require treatment with lurasidone hydrochloride despite the presence of the syndrome.
 
 ## 5.6 Metabolic Changes
@@ -101,9 +101,9 @@ Table 3: Change in Fasting Glucose in Adult Schizophrenia Studies
 | Mean Change from Baseline (mg/dL) |  |  |  |  |  |  |
 |  | n=680 | n=71 | n=478 | n=508 | n=283 | n=113 |
 | Serum Glucose | -0.0 | -0.6 | +2.6 | -0.4 | +2.5 | +2.5 |
-| Proportion of Patients with Shifts to 126 mg/dL |  |  |  |  |  |  |
+| Proportion of Patients with Shifts to ≥126 mg/dL |  |  |  |  |  |  |
 | Serum Glucose | 8.3% | 11.7% | 12.7% | 6.8% | 10.0% | 5.6% |
-| (126 mg/dL) | (52/628) | (7/60) | (57/449) | (32/472) | (26/260) | (6/108) |
+| (≥126 mg/dL) | (52/628) | (7/60) | (57/449) | (32/472) | (26/260) | (6/108) |
 
 In the uncontrolled, longer-term schizophrenia studies (primarily open-label extension studies), lurasidone hydrochloride was associated with a mean change in glucose of +1.8 mg/dL at week 24 (n=355), +0.8 mg/dL at week 36 (n=299) and +2.3 mg/dL at week 52 (n=307).
 
@@ -128,9 +128,9 @@ Table 4: Change in Fasting Glucose in the Adult Monotherapy Bipolar Depression S
 | Mean Change from Baseline (mg/dL) |  |  |  |
 |  | n=148 | n=140 | n=143 |
 | Serum Glucose | +1.8 | -0.8 | +1.8 |
-| Proportion of Patients with Shifts to 126 mg/dL |  |  |  |
+| Proportion of Patients with Shifts to ≥126 mg/dL |  |  |  |
 | Serum Glucose | 4.3% | 2.2% | 6.4% |
-| (126 mg/dL) | (6/141) | (3/138) | (9/141) |
+| (≥126 mg/dL) | (6/141) | (3/138) | (9/141) |
 
 Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 60 mg/day, lurasidone hydrochloride 80 to 120 mg/day, or placebo
 
@@ -148,9 +148,9 @@ Table 5: Change in Fasting Glucose in the Adult Adjunctive Therapy Bipolar Depre
 | Mean Change from Baseline (mg/dL) |  |  |
 |  | n=302 | n=319 |
 | Serum Glucose | -0.9 | +1.2 |
-| Proportion of Patients with Shifts to 126 mg/dL |  |  |
+| Proportion of Patients with Shifts to ≥126 mg/dL |  |  |
 | Serum Glucose | 1.0% | 1.3% |
-| (126 mg/dL) | (3/290) | (4/316) |
+| (≥126 mg/dL) | (3/290) | (4/316) |
 
 Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate.
 
@@ -186,9 +186,9 @@ Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
 | Triglycerides | -13.4 | -29.1 | -5.1 | -13.0 | -3.1 | -10.6 |
 | Proportion of Patients with Shifts |  |  |  |  |  |  |
 | Total Cholesterol | 5.3% | 13.8% | 6.2% | 5.3% | 3.8% | 4.0% |
-| (240 mg/dL) | (30/571) | (8/58) | (25/402) | (23/434) | (9/238) | (4/101) |
+| (≥240 mg/dL) | (30/571) | (8/58) | (25/402) | (23/434) | (9/238) | (4/101) |
 | Triglycerides | 10.1% | 14.3% | 10.8% | 6.3% | 10.5% | 7.0% |
-| (200 mg/dL) | (53/526) | (7/49) | (41/379) | (25/400) | (22/209) | (7/100) |
+| (≥200 mg/dL) | (53/526) | (7/49) | (41/379) | (25/400) | (22/209) | (7/100) |
 
 In the uncontrolled, longer-term schizophrenia studies (primarily open-label extension studies), lurasidone hydrochloride was associated with a mean change in total cholesterol and triglycerides of -3.8 (n=356) and -15.1 (n=357) mg/dL at week 24, -3.1 (n=303) and -4.8 (n=303) mg/dL at week 36 and -2.5 (n=307) and -6.9 (n=307) mg/dL at week 52, respectively.
 
@@ -215,9 +215,9 @@ Table 7: Change in Fasting Lipids in the Adult Monotherapy Bipolar Depression St
 | Triglycerides | +6.0 | +5.6 | +0.4 |
 | Proportion of Patients with Shifts |  |  |  |
 | Total cholesterol | 4.2% | 4.4% | 4.4% |
-| (240 mg/dL) | (5/118) | (5/113) | (5/114) |
+| (≥240 mg/dL) | (5/118) | (5/113) | (5/114) |
 | Triglycerides | 4.8% | 10.1% | 9.8% |
-| (200 mg/dL) | (6/126) | (12/119) | (12/122) |
+| (≥200 mg/dL) | (6/126) | (12/119) | (12/122) |
 
 Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 60 mg/day, lurasidone hydrochloride 80 to 120 mg/day, or placebo
 
@@ -236,9 +236,9 @@ Table 8: Change in Fasting Lipids in the Adult Adjunctive Therapy Bipolar Depres
 | Total cholesterol | -2.9 | -3.1 |
 | Triglycerides | -4.6 | +4.6 |
 | Total cholesterol | Proportion of Patients with Shifts 5.7% | 5.4% |
-| (240 mg/dL) | (15/263) | (15/276) |
+| (≥240 mg/dL) | (15/263) | (15/276) |
 | Triglycerides | 8.6% | 10.8% |
-| (200 mg/dL) | (21/243) | (28/260) |
+| (≥200 mg/dL) | (21/243) | (28/260) |
 
 Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate.
 
@@ -265,7 +265,7 @@ Adults
 Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 9.
 The mean weight gain was +0.43 kg for lurasidone hydrochloride-treated patients compared to -0.02 kg for placebo-treated patients.
 Change in weight from baseline for olanzapine was +4.15 kg and for quetiapine extended-release was +2.09 kg in Studies 3 and 5 [see Clinical Studies (14.1)], respectively.
-The proportion of patients with a 7% increase in body weight (at Endpoint) was 4.8% for lurasidone hydrochloride-treated patients and 3.3% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 4.8% for lurasidone hydrochloride-treated patients and 3.3% for placebo-treated patients.
 
 Table 9: Mean Change in Weight (kg) from Baseline in Adult Schizophrenia Studies
 
@@ -281,11 +281,13 @@ Adolescents
 
 Data from the short-term, placebo-controlled adolescent schizophrenia study are presented in Table 10.
 The mean change in weight gain was +0.5 kg for lurasidone hydrochloride tablets -treated patients compared to +0.2 kg for placebo-treated patients.
-The proportion of patients with a 7% increase in body weight (at Endpoint) was 3.3% for lurasidone hydrochloride tablets-treated patients and 4.5% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 3.3% for lurasidone hydrochloride tablets-treated patients and 4.5% for placebo-treated patients.
 
-| Table 10: Mean Change in Weight (kg) from Baseline in Adolescent Schizophrenia Studies |  |  |  |
-| --- | --- | --- | --- |
+Table 10.
+Mean Change in Weright (kg) from Baseline in Adolescent Schizophrenia Studies
+
 |  | Lurasidone hydrochloride tablets |  |  |
+| --- | --- | --- | --- |
 |  | Placebo(n=111) | 40 mg/day(n=109) | 80 mg/day(n=104) |
 | All Patients | +0.2 | +0.3 | +0.7 |
 
@@ -297,7 +299,7 @@ Monotherapy
 
 Data from the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study are presented in Table 11.
 The mean change in weight gain was +0.29 kg for lurasidone hydrochloride-treated patients compared to -0.04 kg for placebo-treated patients.
-The proportion of patients with a 7% increase in body weight (at Endpoint) was 2.4% for lurasidone hydrochloride-treated patients and 0.7% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 2.4% for lurasidone hydrochloride-treated patients and 0.7% for placebo-treated patients.
 
 Table 11: Mean Change in Weight (kg) from Baseline in the Adult Monotherapy Bipolar Depression Study
 
@@ -315,7 +317,7 @@ Adjunctive Therapy with Lithium or Valproate
 
 Data from the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies are presented in Table 12.
 The mean change in weight gain was +0.11 kg for lurasidone hydrochloride-treated patients compared to +0.16 kg for placebo-treated patients.
-The proportion of patients with a 7% increase in body weight (at Endpoint) was 3.1% for lurasidone hydrochloride-treated patients and 0.3% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 3.1% for lurasidone hydrochloride-treated patients and 0.3% for placebo-treated patients.
 
 Table 12: Mean Change in Weight (kg) from Baseline in the Adult Adjunctive Therapy Bipolar Depression Studies
 
@@ -333,11 +335,12 @@ Pediatric Patients (10 to 17 years)
 
 Data from the 6-week, placebo-controlled bipolar depression study in patients 10 to 17 years are presented in Table 13.
 The mean change in weight gain was +0.7 kg for lurasidone hydrochloride tablets-treated patients compared to +0.5 kg for placebo-treated patients.
-The proportion of patients with a 7% increase in body weight (at Endpoint) was 4.0% for lurasidone hydrochloride tablets-treated patients and 5.3% for placebo-treated patients.
+The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 4.0% for lurasidone hydrochloride tablets-treated patients and 5.3% for placebo-treated patients.
 
-| Table 13: Mean Change in Weight (kg) from Baseline in Bipolar Depression Study Pediatric Patients (10 to 17 years) |  |  |
-| --- | --- | --- |
+Table 13: Mean Change in Weight (kg) from Baseline in Bipolar Depression Study Pediatric Patients (10 to 17 years)
+
 |  | Placebo(n=170) | Lurasidone hydrochloride 20 to 80 mg/day (n=175) |
+| --- | --- | --- |
 | All Patients | +0.5 | +0.7 |
 
 Pediatric Patients (6 to 17 years)
@@ -390,9 +393,10 @@ In the short-term, placebo-controlled adolescent schizophrenia study, the median
 For lurasidone hydrochloride tablets-treated patients, the median change from baseline to endpoint for males was +1.0 ng/mL and for females was +2.6 ng/mL.
 Median changes for prolactin by dose are shown in Table 15.
 
-| Table 15: Median Change in Prolactin (ng/mL) from Baseline in the Adolescent Schizophrenia Study |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Tabler 15: Median Change in Prolactin (ng/mL) from Baseline in the Adolescent Schizophrenia Study
+
 |  |  | Lurasidone hydrochloride tablets | Lurasidone hydrochloride tablets |  |
+| --- | --- | --- | --- | --- |
 |  | Placebo | 40 mg/day | 80 mg/day |  |
 | All Patients | +0.10 | +0.75 | +1.20 |  |
 |  | (n=103) | (n=102) | (n=99) |  |
@@ -401,8 +405,8 @@ Median changes for prolactin by dose are shown in Table 15.
 | Males | 0.00 | +0.75 | +1.00 |  |
 |  | (n=64) | (n=60) | (n=66) |  |
 
-The proportion of patients with prolactin elevations ≥ 5x ULN was 0.5% for lurasidone hydrochloride tablets-treated patients and 1.0% for placebo-treated patients.
-The proportion of female patients with prolactin elevations ≥ 5x ULN was 1.3% for lurasidone hydrochloride tablets-treated patients and 0% for placebo-treated female patients.
+The proportion of patients with prolactin elevations ≥5x ULN was 0.5% for lurasidone hydrochloride tablets-treated patients and 1.0% for placebo-treated patients.
+The proportion of female patients with prolactin elevations ≥5x ULN was 1.3% for lurasidone hydrochloride tablets-treated patients and 0% for placebo-treated female patients.
 The proportion of male patients with prolactin elevations ≥ 5x ULN was 0% for lurasidone hydrochloride tablets treated patients and 1.6% for placebo-treated male patients.
 
 Bipolar Depression
@@ -451,7 +455,7 @@ Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg
 
 The proportion of patients with prolactin elevations ≥5x upper limit of normal (ULN) was 0.0% for lurasidone hydrochloride-treated patients and 0.0% for placebo-treated patients.
 The proportion of female patients with prolactin elevations ≥5x ULN was 0% for lurasidone hydrochloride-treated patients and 0% for placebo-treated female patients.
-The proportion of male patients with prolactin elevations ≥ 5x ULN was 0% and 0% for placebo-treated male patients.
+The proportion of male patients with prolactin elevations ≥5x ULN was 0% and 0% for placebo-treated male patients.
 
 In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate, in the short-term and continued in the longer-term study, had a median change in prolactin of -2.9 ng/mL at week 24 (n=88).
 
@@ -461,17 +465,18 @@ In the 6-week, placebo-controlled bipolar depression study with pediatric patien
 For Lurasidone hydrochloride tablets-treated patients, the median change from baseline to endpoint for males was +0.85 ng/mL and for females was +2.50 ng/mL.
 Median changes for prolactin are shown in Table 18.
 
-| Table 18: Median Change in Prolactin (ng/mL) from Baseline in the Bipolar Depression Study in Pediatric Patients (10 to 17 years) |  |  |
-| --- | --- | --- |
+Table 18: Median Change in Prolactin (ng/mL) from Baseline in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
+
 |  |  | Lurasidone hydrochloride tablets |
+| --- | --- | --- |
 |  | Placebo | 20 to 80 mg/day |
 | All Patients | +0.50(n=157) | +1.10(n=165) |
 | Females | +0.55(n=78) | +2.50(n=83) |
 | Males | +0.50 (n=79) | +0.85(n=82) |
 
-The proportion of patients with prolactin elevations ≥ 5x ULN was 0% for Llrasidone hydrochloride tablets-treated patients and 0.6% for placebo-treated patients.
-The proportion of female patients with prolactin elevations ≥ 5x ULN was 0% for lurasidone hydrochloride tablets-treated patients and 1.3% for placebo-treated female patients.
-No male patients in the placebo or lurasidone hydrochloride tablets treatment groups had prolactin elevations ≥ 5x ULN.
+The proportion of patients with prolactin elevations ≥5x ULN was 0% for Llrasidone hydrochloride tablets-treated patients and 0.6% for placebo-treated patients.
+The proportion of female patients with prolactin elevations ≥5x ULN was 0% for lurasidone hydrochloride tablets-treated patients and 1.3% for placebo-treated female patients.
+No male patients in the placebo or lurasidone hydrochloride tablets treatment groups had prolactin elevations ≥5x ULN.
 
 Pediatric Patients (6 to 17 years)
 
@@ -490,7 +495,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a pre-existing low WBC or a history of drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and lurasidone hydrochloride should be discontinued at the first sign of decline in WBC, in the absence of other causative factors.
 
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count < 1,000/mm 3) should discontinue lurasidone hydrochloride and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1,000/mm 3) should discontinue lurasidone hydrochloride and have their WBC followed until recovery.
 
 ## 5.9 Orthostatic Hypotension and Syncope
 
@@ -500,7 +505,7 @@ Generally, these risks are greatest at the beginning of treatment and during dos
 Patients at increased risk of these adverse reactions or at increased risk of developing complications from hypotension include those with dehydration, hypovolemia, treatment with antihypertensive medication, history of cardiovascular disease (e.g., heart failure, myocardial infarction, ischemia, or conduction abnormalities), history of cerebrovascular disease, as well as patients who are antipsychotic-naïve.
 In such patients, consider using a lower starting dose and slower titration, and monitor orthostatic vital signs.
 
-Orthostatic hypotension, as assessed by vital sign measurement, was defined by the following vital sign changes: ≥ 20 mm Hg decrease in systolic blood pressure and ≥ 10 bpm increase in pulse from sitting to standing or supine to standing position.
+Orthostatic hypotension, as assessed by vital sign measurement, was defined by the following vital sign changes: ≥20 mm Hg decrease in systolic blood pressure and ≥10 bpm increase in pulse from sitting to standing or supine to standing position.
 
 Schizophrenia
 
@@ -577,7 +582,7 @@ In short-term, placebo-controlled schizophrenia studies, somnolence was reported
 
 Adolescents
 
-In the short-term, placebo-controlled adolescent schizophrenia study, somnolence was reported by 14.5% (31/214) of patients treated with Lurasidone hydrochloride tablets (15.5% Lurasidone hydrochloride tablets 40 mg and 13.5% Lurasidone hydrochloride tablets 80 mg,/day) compared to 7.1% (8/112) of placebo patients.
+In the short-term, placebo-controlled adolescent schizophrenia study, somnolence was reported by 14.5% (31/214) of patients treated with lurasidone hydrochloride tablets (15.5% lurasidone hydrochloride tablets 40 mg and 13.5% lurasidone hydrochloride tablets 80 mg,/day) compared to 7.1% (8/112) of placebo patients.
 
 Bipolar Depression
 

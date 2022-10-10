@@ -4,9 +4,9 @@ MEDICATION GUIDE
 
 Lurasidone Hydrochloride (loo-RAS-i-done HYE-droe-KLOR-ide) Tablets
 
-What is the most important information I should know about lurasidone hydrochloridetablets?
+What is the most important information I should know about lurasidone hydrochloride tablets?
 
-Lurasidone hydrochloridetablets may cause serious side effects, including:
+Lurasidone hydrochloride tablets may cause serious side effects, including:
 
 • Increased risk of death in elderly people with dementia-related psychosis.
 Medicines like lurasidone hydrochloride tablets can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia). lurasidone hydrochloride tablets are not approved for the treatment of people with dementia-related psychosis.
@@ -46,7 +46,7 @@ Call a healthcare provider right away if you or your family member has any of th
 
 • other unusual changes in behavior or mood
 
-What are lurasidone hydrochloridetablets?
+What are lurasidone hydrochloride tablets?
 
 Lurasidone hydrochloride tablets are prescription medicine that are used:
 
@@ -114,7 +114,7 @@ Do not start or stop any other medicines during treatment with lurasidone hydroc
 Know the medicines you take.
 Keep a list of your medicines to show your healthcare provider and pharmacist when you get a new medicine.
 
-How should I take lurasidone hydrochloridetablets?
+How should I take lurasidone hydrochloride tablets?
 
 • Take lurasidone hydrochloride tablets exactly as your healthcare provider tells you to take it.
 Do not change the dose or stop taking lurasidone hydrochloride tablets without first talking to your healthcare provider.
@@ -123,7 +123,7 @@ Do not change the dose or stop taking lurasidone hydrochloride tablets without f
 
 • If you take too much lurasidone hydrochloride tablets, call your healthcare provider or poison control center or go to the nearest hospital emergency room right away.
 
-What should I avoid while taking lurasidone hydrochloridetablets?
+What should I avoid while taking lurasidone hydrochloride tablets?
 
 • Do not drive, operate heavy machinery, or do other dangerous activities until you know how lurasidone hydrochloride tablets affect you.
 Lurasidone hydrochloride tablets may make you drowsy.
@@ -145,9 +145,9 @@ o Do not wear too much clothing or heavy clothing.
 
 o Drink plenty of water.
 
-What are the possible side effects of lurasidone hydrochloridetablets?
+What are the possible side effects of lurasidone hydrochloride tablets?
 
-Lurasidone hydrochloridetablets may cause serious side effects, including:
+Lurasidone hydrochloride tablets may cause serious side effects, including:
 
 • See "What is the most important information I should know about lurasidone hydrochloridetablets?"
 
@@ -176,11 +176,9 @@ If you have diabetes or risk factors for diabetes (such as being overweight or a
 
 Call your healthcare provider if you have any of these symptoms of high blood sugar during treatment with lurasidone hydrochloride tablets:
 
-feel very thirsty need to urinate more than usual
-
-feel very hungry feel weak or tired
-
-feel sick to your stomach feel confused, or your breath smells fruity
+- feel very thirsty • need to urinate more than usual
+- feel very hungry • feel weak or tired
+- feel sick to your stomach • feel confused, or your breath smells fruity
 
 o increased fat levels (cholesterol and triglycerides) in your blood.
 
@@ -297,8 +295,8 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Manufactured For
+Manufactured for
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8083887 Revised August 2021
+8086604 Revised July 2022

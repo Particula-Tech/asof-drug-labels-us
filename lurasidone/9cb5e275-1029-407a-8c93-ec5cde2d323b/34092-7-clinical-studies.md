@@ -47,7 +47,7 @@ Table 35: Primary Efficacy Results for Studies in Adult Patients with Schizophre
 
 |  |  | Primary Efficacy Measure: BPRSd |  |  |
 | --- | --- | --- | --- | --- |
-| Study | Treatment Group | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, unadjusted for multiple comparisons. (95% CI) |
+| Study | Treatment Group | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Difference * (95% CI) |
 | 1 | Lurasidone hydrochloride (40 mg/day)* | 54.2 (8.8) | -9.4 (1.6) | -5.6 (-9.8,-1.4) |
 |  | Lurasidone hydrochloride (120 mg/day)* | 52.7 (7.6) | -11.0 (1.6) | -6.7 (-11.0,-2.5) |
 |  | Placebo | 54.7 (8.1) | -3.8 (1.6) | -- |
@@ -56,7 +56,7 @@ Table 35: Primary Efficacy Results for Studies in Adult Patients with Schizophre
 |  |  | Primary Efficacy Measure: PANSS |  |  |
 | 3 | Lurasidone hydrochloride (40 mg/day)* | 96.6 (10.7) | -25.7 (2.0) | -9.7 (-15.3,-4.1) |
 |  | Lurasidone hydrochloride (120 mg/day)* | 97.9 (11.3) | -23.6 (2.1) | -7.5 (-13.4,-1.7) |
-|  | Olanzapine (15 mg/day)* a Difference (drug minus placebo) in least-squares mean change from baseline. | 96.3 (12.2) | -28.7 (1.9) | -12.6 (-18.2,-7.9) |
+|  | Olanzapine (15 mg/day)* † | 96.3 (12.2) | -28.7 (1.9) | -12.6 (-18.2,-7.9) |
 |  | Placebo | 95.8 (10.8) | -16.0 (2.1) | -- |
 | 4 | Lurasidone hydrochloride (40 mg/day) | 96.5 (11.5) | -19.2 (1.7) | -2.1 (-7.0, 2.8) |
 |  | Lurasidone hydrochloride (80 mg/day)* | 96.0 (10.8) | -23.4 (1.8) | -6.4 (-11.3,-1.5) |
@@ -67,11 +67,13 @@ Table 35: Primary Efficacy Results for Studies in Adult Patients with Schizophre
 |  | Quetiapine Extended-release (600 mg/day)* | 97.7 (10.2) | -27.8 (1.8) | -17.5 (-22.5,-12.4) |
 |  | Placebo | 96.6 (10.2) | -10.3 (1.8) | -- |
 
+SD: Standard deviation; SE standard error; LS Mean: least-squares mean; CI; confidence interval, unadjusted for multiple comparisons. a﻿Difference (drug minus placebo) in least-squares mean change from baseline. ﻿b﻿Included for assay sensitivity *Doses statistically significantly superior to placebo.
+
 Examination of population subgroups based on age (there were few patients over 65), gender and race did not reveal any clear evidence of differential responsiveness.
 
-Adolescents (13 to 17 years)
+Adolsecent (13 to 17 years)
 
-The efficacy of lurasidone hydrochloride tablets, was established in a 6-week, multicenter, randomized, double-blind, placebo-controlled study of adolescents (13 to 17 years) who met DSM-IV-TR criteria for schizophrenia (N=326).
+﻿The efficacy of lurasidone hydrochloride tablets, was established in a 6-week, multicenter, randomized, double-blind, placebo-controlled study of adolescents (13 to 17 years) who met DSM-IV-TR criteria for schizophrenia (N=326).
 Patients were randomized to one of two fixed-doses of lurasidone hydrochloride tablets (40 or 80 mg/day) or placebo.
 
 The primary rating instrument used to assess psychiatric signs and symptoms was the PANSS.
@@ -82,9 +84,10 @@ On average, the 80 mg/day dose did not provide additional benefit compared to th
 
 The primary efficacy results are provided in Table 36.
 
-| Table 36: Primary Efficacy Results (PANSS Total Score) for the Adolescent Schizophrenia Study |  |  |  |
-| --- | --- | --- | --- |
+Table 36: Primary Efficacy Results (PANSS Total Score) for the Adolescent Schizophrenia Study
+
 | Treatment Group | Primary Efficacy Measure: PANSS |  |  |
+| --- | --- | --- | --- |
 |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo- subtracted Difference a (95% CI) |
 | Lurasidone hydrochloride tablets (40 mg/day)* | 94.5 (10.97) | -18.6 (1.59) | -8.0 (-12.4, -3.7) |
 | Lurasidone hydrochloride tablets (80 mg/day)* | 94.0 (11.12) | -18.3 (1.60) | -7.7 (-12.1, -3.4) |
@@ -147,9 +150,10 @@ The key secondary endpoint was the change from baseline in CGI­BP-S depression 
 Lurasidone hydrochloride tablets was superior to placebo in reduction of CDRS-R total score and CGI-BP-S depression score at Week 6.
 The primary efficacy results are provided in Table 38.
 
-| Table 38: Primary Efficacy Results for Study in Depressive Episodes Associated with Bipolar I Disorder (CDRS-R Total Score) in Pediatric Patients (10 to 17 years) |  |  |  |  |
-| --- | --- | --- | --- | --- |
+Table 38: Primary Efficacy Results for Study in Depressive Episodes Associated with Bipolar I Disorder (CDRS-R Total Score) in Pediatric Patients (10 to 17 years)
+
 |  |  | Primary Efficacy Measure: MADRS |  |  |
+| --- | --- | --- | --- | --- |
 |  | Treatment Group | Mean Baseline Score (SD) | LS Mean Changefrom Baseline (SE) | Placebo-subtractedDifference a(95% CI) |
 |  | Lurasidone hydrochloride(20 to 80 mg/day)* | 59.2 (8.24) | -21.0 (1.06) | - 5.7 (-8.4,-3.0) |
 |  | Placebo | 58.6 (8.26) | -15.3 (1.08) |  |

@@ -58,8 +58,8 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-Manufactured For
+Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8083886 Revised August 2021
+8086603 Revised July 2022

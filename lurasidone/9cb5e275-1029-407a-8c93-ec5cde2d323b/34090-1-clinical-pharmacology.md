@@ -31,7 +31,7 @@ Following administration of 40 mg of lurasidone hydrochloride, the mean (%CV) el
 
 Absorption and Distribution: Lurasidone hydrochloride is absorbed and reaches peak serum concentrations in approximately 1 to 3 hours.
 It is estimated that 9 to 19% of an administered dose is absorbed.
-Following administration of 40 mg of lurasidone hydrochloride, the mean (%CV) apparent volume of distribution was 6173 (17.2) L. Lurasidone hydrochloride is highly bound (~99%) to serum proteins.
+Following administration of 40 mg of lurasidone hydrochloride, the mean (%CV) apparent volume of distribution was 6,173 (17.2) L. Lurasidone hydrochloride is highly bound (~99%) to serum proteins.
 
 In a food effect study, lurasidone hydrochloride mean C max and AUC were about 3-times and 2-times, respectively, when administered with food compared to the levels observed under fasting conditions.
 Lurasidone hydrochloride exposure was not affected as meal size was increased from 350 to 1,000 calories and was independent of meal fat content [see Dosage and Administration (2.3)].
@@ -71,6 +71,6 @@ The effect of intrinsic patient factors on the pharmacokinetics of lurasidone hy
 
 Pediatric Patients
 
-Lurasidone hydrochloride tablets exposure (i.e., steady-state Cmax and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 to 160 mg, without adjusting for body weight.
+Lurasidone hydrochloride tablets exposure (i.e., steady-state C max and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 to 160 mg, without adjusting for body weight.
 
 Figure 3: Impact of Other Patient Factors on Lurasidone Hydrochloride Pharmacokinetics

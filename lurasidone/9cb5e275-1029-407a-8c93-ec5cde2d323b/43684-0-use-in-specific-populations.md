@@ -12,7 +12,7 @@ Risk Summary
 Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery [see Clinical Considerations].
 There are no studies of lurasidone hydrochloride tablets use in pregnant women.
 The limited available data are not sufficient to inform a drug-associated risk of birth defects or miscarriage.
-In animal reproduction studies, no teratogenic effects were seen in pregnant rats and rabbits given lurasidone during the period of organogenesis at doses approximately 1.5- and 6-times, the maximum recommended human dose (MRHD) of 160 mg/day, respectively based on mg/m2body surface area [see Data].
+In animal reproduction studies, no teratogenic effects were seen in pregnant rats and rabbits given lurasidone during the period of organogenesis at doses approximately 1.5- and 6-times, the maximum recommended human dose (MRHD) of 160 mg/day, respectively based on mg/m 2 body surface area [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
@@ -33,15 +33,15 @@ Animal Data
 
 Pregnant rats were treated with oral lurasidone at doses of 3, 10, and 25 mg/kg/day during the period of organogenesis.
 These doses are 0.2, 0.6, and 1.5 times the MRHD of 160 mg/day based on mg/m2 body surface area.
-No teratogenic or embryo-fetal effects were observed up to 1.5 times the MHRD of 160 mg/day, based on mg/m2.
+No teratogenic or embryo-fetal effects were observed up to 1.5 times the MHRD of 160 mg/day, based on mg/m 2.
 
 Pregnant rabbits were treated with oral lurasidone at doses of 2, 10, and 50 mg/kg/day during the period of organogenesis.
 These doses are 0.2, 1.2 and 6 times the MRHD of 160 mg/day based on mg/m2.
-No teratogenic or embryo-fetal effects were observed up to 6 times the MHRD of 160 mg/day based on mg/m2.
+No teratogenic or embryo-fetal effects were observed up to 6 times the MHRD of 160 mg/day based on mg/m 2.
 
 Pregnant rats were treated with oral lurasidone at doses of 0.4, 2, and 10 mg/kg/day during the periods of organogenesis and lactation.
 These doses are 0.02, 0.1 and 0.6 times the MRHD of 160 mg/day based on mg/m2.
-No pre- and postnatal developmental effects were observed up to 0.6 times the MRHD of 160 mg/day, based on mg/m2.
+No pre- and postnatal developmental effects were observed up to 0.6 times the MRHD of 160 mg/day, based on mg/m 2.
 
 ## 8.2 Lactation
 
@@ -84,15 +84,15 @@ In this trial, the mean change in height z-score from open-label baseline to Wee
 
 Juvenile animal studies
 
-Adverse effects were seen on growth, physical and neurobehavioral development at doses as low as 0.2 times the MRHD based on mg/m2.
-Lurasidone was orally administered to rats from postnatal days 21 through 91 (this period corresponds to childhood, adolescence, and young adulthood in humans) at doses of 3, 30, and 150 (males) or 300 (females) mg/kg/day which are 0.2 to 10 times (males) and 20 times (females) the maximum recommended adult human dose (MRHD) of 160 mg/day based on mg/m2.
-The adverse effects included dose-dependent decreases in femoral length, bone mineral content, body and brain weights at 2 times the MRHD in both sexes, and motor hyperactivity at 0.2 and 2 times the MRHD in both sexes based on mg/m2.
+Adverse effects were seen on growth, physical and neurobehavioral development at doses as low as 0.2 times the MRHD based on mg/m 2.
+Lurasidone was orally administered to rats from postnatal days 21 through 91 (this period corresponds to childhood, adolescence, and young adulthood in humans) at doses of 3, 30, and 150 (males) or 300 (females) mg/kg/day which are 0.2 to 10 times (males) and 20 times (females) the maximum recommended adult human dose (MRHD) of 160 mg/day based on mg/m 2.
+The adverse effects included dose-dependent decreases in femoral length, bone mineral content, body and brain weights at 2 times the MRHD in both sexes, and motor hyperactivity at 0.2 and 2 times the MRHD in both sexes based on mg/m 2.
 In females, there was a delay in attainment of sexual maturity at 2 times the MRHD, associated with decreased serum estradiol.
-Mortality occurred in both sexes during early post- weaning period and some of the male weanlings died after only 4 treatments at doses as low as 2 times the MRHD based on mg/m2.
-Histopathological findings included increased colloid in the thyroids and inflammation of the prostate in males at 10 times MRHD based on mg/m2 and mammary gland hyperplasia, increased vaginal mucification, and increased ovarian atretic follicles at doses as low as 0.2 times the MRHD based on mg/m2.
+Mortality occurred in both sexes during early post- weaning period and some of the male weanlings died after only 4 treatments at doses as low as 2 times the MRHD based on mg/m 2.
+Histopathological findings included increased colloid in the thyroids and inflammation of the prostate in males at 10 times MRHD based on mg/m 2 and mammary gland hyperplasia, increased vaginal mucification, and increased ovarian atretic follicles at doses as low as 0.2 times the MRHD based on mg/m 2.
 Some of these findings were attributed to transiently elevated serum prolactin which was seen in both sexes at all doses.
 However, there were no changes at any dose level in reproductive parameters (fertility, conception indices, spermatogenesis, estrous cycle, gestation length, parturition, number of pups born).
-The no effect dose for neurobehavioral changes in males is 0.2 times the MHRD based on mg/m2 and could not be determined in females.
+The no effect dose for neurobehavioral changes in males is 0.2 times the MHRD based on mg/m 2 and could not be determined in females.
 The no effect dose for growth and physical development in both sexes is 0.2 times the MRHD based on mg/m 2.
 
 ## 8.5 Geriatric Use
