@@ -1,5 +1,3 @@
-# BOXED WARNING
-
 Congestive Heart Failure, Cardiac Effects and Drug Interactions:
 
 Itraconazole capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.
