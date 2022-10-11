@@ -40,7 +40,8 @@ Table 12: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in
 
 Note: Parameters were estimated based on non-compartmental analysis from 5 pharmacokinetic studies.
 
-AUC12 = area under the curve over 12 hour dosing interval, Cmax = maximum plasma concentration, Cmin = minimum plasma concentration, CV = coefficient of variation.
+AUC12 = area under the curve over 12 hour dosing interval, Cmax = maximum plasma concentration, Cmin = minimum plasma concentration.
+CV = coefficient of variation
 
 When the recommended intravenous loading dose regimen is administered to healthy subjects, plasma concentrations close to steady state are achieved within the first 24 hours of dosing (e.g., 6 mg/kg IV every 12 hours on day 1 followed by 3 mg/kg IV every 12 hours).
 Without the loading dose, accumulation occurs during twice daily multiple dosing with steady state plasma voriconazole concentrations being achieved by day 6 in the majority of subjects.
@@ -90,8 +91,8 @@ The safety profile and plasma concentrations observed in male and female subject
 Therefore, no dosage adjustment based on gender is necessary.
 Geriatric Patients
 
-In an oral multiple dose study the mean Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61% and 86% higher, respectively, than in young males (18 to 45 years).
-No significant differences in the mean Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18 to 45 years).
+In an oral multiple dose study the mean Cmax and AUCτ in healthy elderly males (≥65 years) were 61% and 86% higher, respectively, than in young males (18 to 45 years).
+No significant differences in the mean Cmax and AUCτ were observed between healthy elderly females (≥65 years) and healthy young females (18 to 45 years).
 
 In the clinical program, no dosage adjustment was made on the basis of age.
 An analysis of pharmacokinetic data obtained from 552 patients from 10 voriconazole clinical trials showed that the median voriconazole plasma concentrations in the elderly patients (>65 years) were approximately 80% to 90% higher than those in the younger patients (≤65 years) after either IV or oral administration.
@@ -164,7 +165,7 @@ St. John's Wort (CYP450 inducer; P-gp inducer)–In an independent published stu
 In contrast, coadministration of single oral doses of St. John's Wort and voriconazole had no appreciable effect on voriconazole AUC0-∞.
 Long-term use of St. John's Wort could lead to reduced voriconazole exposure [see Contraindications (4)].
 
-Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions reactions/toxicity:
+Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity:
 
 Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect [see Drug Interactions (7)].
@@ -203,7 +204,7 @@ The mean elimination half-life of oxycodone was also increased by 2-fold (range 
 
 Cyclosporine (CYP3A4 substrate)–In stable renal transplant recipients receiving chronic cyclosporine therapy, concomitant administration of oral voriconazole (200 mg every 12 hours for 8 days) increased cyclosporine Cmax and AUCτ an average of 1.1 times (90% CI: 0.9, 1.41) and 1.7 times (90% CI: 1.5, 2), respectively, as compared to when cyclosporine was administered without voriconazole [see Drug Interactions (7)].
 
-Methadone (CYP3A4, CYP2C19, CYP2C9 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the Cmax and AUCτ of pharmacologically active R-methadone by 31% (90% CI: 22%, 40%) and 47% (90% CI: 38%, 57%), respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours).
+Methadone (CYP3A4, CYP2C19, CYP2C9 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the Cmax and AUCτ of pharmacologically active Rmethadone by 31% (90% CI: 22%, 40%) and 47% (90% CI: 38%, 57%), respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours).
 The Cmax and AUC of (S)-methadone increased by 65% (90% CI: 53%, 79%) and 103% (90% CI: 85%, 124%), respectively [see Drug Interactions (7)].
 
 Tacrolimus (CYP3A4 substrate)–Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7)].
@@ -298,7 +299,7 @@ Fusarium spp. including Fusarium solani
 
 Scedosporium apiospermum
 
-*In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 mcg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥4 mcg/mL) to voriconazole.
+* In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 mcg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥4 mcg/mL) to voriconazole.
 However, based on 1054 isolates tested in surveillance studies the MIC90 was 1 mcg/mL.
 The following data are available, but their clinical significance is unknown.
 At least 90 percent of the following fungi exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for voriconazole against isolates of similar genus or organism group.

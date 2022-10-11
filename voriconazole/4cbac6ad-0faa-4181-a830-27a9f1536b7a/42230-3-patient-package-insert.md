@@ -57,7 +57,7 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How should I take voriconazole tablets?
 
 - •Voriconazole tablets may be prescribed to you as:
-- •voriconazole tablets
+- ovoriconazole tablets
 - •Take voriconazole tablets exactly as your healthcare provider tells you to.
 - •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
 - •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
@@ -88,7 +88,15 @@ Voriconazole tablets may cause serious side effects including:
   Symptoms of vision changes may include:
 - •blurred vision
 - •changes in the way you see colors
-- •sensitivity to light (photophobia)
+- •sensitivity to light or sun (photophobia).
+  Voriconazole tablets can cause serious photosensitivity.
+  There is an increased chance of skin toxicity while taking voriconazole tablets.
+  This can happen with or without taking other medicines like methotrexate.
+
+Photosensitivity reactions may also increase your risk of:
+
+- ofaster skin aging from the sun
+- oskin cancerCall your healthcare provider right away if you get a new skin rash or your skin rash gets worse.
 - •serious heart problems.
   Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
 - •allergic reactions.
@@ -127,7 +135,7 @@ Symptoms of Cushing’s syndrome include:
 | oexcessive hair growth | oexcessive sweating |  |
 
 - •bone problems.
-  Voriconazole may cause weakening of bones and bone pain.
+  Voriconazole tablets may cause weakening of bones and bone pain.
   Tell your healthcare provider if you have bone pain.
 
 Call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the symptoms
@@ -199,6 +207,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-February 2022
+September 2022
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

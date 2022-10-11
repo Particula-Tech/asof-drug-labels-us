@@ -35,8 +35,8 @@ Possibly Related to Therapy or Causality Unknown†
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Therapeutic Studies* | Studies 307/602 and 608 (IV/ oral therapy) |  |  |  | Study 305(oral therapy) |
-|  | Voriconazole N=1655 | Voriconazole N=468 | Ampho B** N=185 | Ampho B Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |
+|  | Therapeutic Studies* | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
+|  | Voriconazole N=1655 | Voriconazole N=468 | Ampho B** N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |
 | Special Senses*** |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
 | Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1) |
@@ -90,8 +90,8 @@ The mechanism underlying these dermatologic adverse reactions remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
-Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
-Less Common Adverse Reactions The following adverse reactions occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
+Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)and Adverse Reactions (6.2)].
+Less Common Adverse Reactions The following adverse reactions occurred in <2% of all voriconazole-treated patients in all therapeutic studies (N=1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
 The list does not include events included in Table 4 above and does not include every event reported in the voriconazole clinical program.
 Body as a Whole: abdominal pain, abdomen enlarged, allergic reaction, anaphylactoid reaction [see Warnings and Precautions (5)], ascites, asthenia, back pain, chest pain, cellulitis, edema, face edema, flank pain, flu syndrome, graft versus host reaction, granuloma, infection, bacterial infection, fungal infection, injection site pain, injection site infection/inflammation, mucous membrane disorder, multi-organ failure, pain, pelvic pain, peritonitis, sepsis, substernal chest pain.
@@ -115,7 +115,7 @@ Urogenital: anuria, blighted ovum, creatinine clearance decreased, dysmenorrhea,
 
 Clinical Laboratory Values in Adults
 
-The overall incidence of transaminase increases >3× upper limit of normal (not necessarily comprising an adverse reaction) was 17.7% (268/1514) in adult subjects treated with voriconazole for therapeutic use in pooled clinical trials.
+The overall incidence of transaminase increases >3x upper limit of normal (not necessarily comprising an adverse reaction) was 17.7% (268/1514) in adult subjects treated with voriconazole for therapeutic use in pooled clinical trials.
 Increased incidence of liver function test abnormalities may be associated with higher plasma concentrations and/or doses.
 The majority of abnormal liver function tests either resolved during treatment without dose adjustment or resolved following dose adjustment, including discontinuation of therapy.
 
@@ -151,7 +151,9 @@ n = number of patients with a clinically significant abnormality while on study 
 
 N = total number of patients with at least one observation of the given lab test while on study therapy
 
-AST = Aspartate aminotransferase; ALT= alanine aminotransferase ULN = upper limit of normal Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+AST = Aspartate aminotransferase; ALT= alanine aminotransferase
+
+ULN = upper limit of normal Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -191,15 +193,15 @@ Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laborat
 
 * Without regard to baseline value
 
-n=number of patients with a clinically significant abnormality while on study therapy
+n = number of patients with a clinically significant abnormality while on study therapy
 
-N=total number of patients with at least one observation of the given lab test while on study therapy
+N = total number of patients with at least one observation of the given lab test while on study therapy
 
-AST = Aspartate aminotransferase; ALT= alanine aminotransferase
+AST = Aspartate aminotransferase; ALT = alanine aminotransferase
 
-ULN=upper limit of normal
+ULN = upper limit of normal
 
-LLN=lower limit of normal
+LLN = lower limit of normal
 
 Clinical Trials Experience in Pediatric Patients
 
@@ -322,10 +324,10 @@ Table 9: Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 |  | Criteria | n/N (%) |
 | --- | --- | --- |
-| Total bilirubin | >1.5× ULN | 19/102 (19) |
-| AST | >3.0× ULN | 16/103 (16) |
-| ALT | >3.0× ULN | 23/102 (23) |
-| Alkaline Phosphatase | >3.0× ULN | 8/97 (8) |
+| Total bilirubin | >1.5x ULN | 19/102 (19) |
+| AST | >3.0x ULN | 16/103 (16) |
+| ALT | >3.0x ULN | 23/102 (23) |
+| Alkaline Phosphatase | >3.0x ULN | 8/97 (8) |
 
 n = number of patients with a clinically significant abnormality while on study therapy
 
@@ -341,6 +343,10 @@ ULN = upper limit of normal
 
 The following adverse reactions have been identified during post-approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Dermatological Reactions
+
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Adults Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].

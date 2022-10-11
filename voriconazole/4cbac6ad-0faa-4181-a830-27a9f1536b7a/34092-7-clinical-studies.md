@@ -147,7 +147,7 @@ c ITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT
 
 Microbiologic success rates by Candida species are presented in Table 17.
 
-Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study 150-305)
+Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150-305)
 
 | Pathogena | Voriconazole |  | Fluconazole |  |
 | --- | --- | --- | --- | --- |
@@ -195,7 +195,7 @@ No patients with rare mold were enrolled.
 A successful global response was defined as resolution or improvement in clinical signs and symptoms and at least 50% resolution of radiological lesions attributed to IA.
 The overall rate of successful global response at 6 weeks in the MITT population is presented in Table 18 below.
 
-Table 18: Global Responseaa in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)b Population
+Table 18: Global Responsea in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)b Population
 
 | Ages 2 to <12 years N=5 | Ages 12 to <18 years N=9 | Overall N=14 |  |
 | --- | --- | --- | --- |

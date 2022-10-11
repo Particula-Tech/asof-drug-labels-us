@@ -40,7 +40,7 @@ Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical P
 | Rifabutin* (CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
 | Efavirenz (400 mg every 24 hours)** (CYP3A4 Inhibition) | Significantly Increased | Contraindicated |
 | Efavirenz (300 mg every 24 hours)** (CYP3A4 Inhibition) | Slight Increase in AUCτ | When voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg every 12 hours and efavirenz should be decreased to 300 mg every 24 hours. |
-| High-dose Ritonavir (400 mg every 12 hours)** (CYP3A4 Inhibition) | No Significant Effect of Voriconazole on Ritonavir Cmax or AUCτ | Contraindicated because of significant reduction of voriconazole Cmax and AUCτ. |
+| High-dose Ritonavir (400 mg every 12 hours)**(CYP3A4 Inhibition) | No Significant Effect of Voriconazole on Ritonavir Cmax or AUCτ | Contraindicated because of significant reduction of voriconazole Cmax and AUCτ. |
 | Low-dose Ritonavir (100 mg every 12 hours)** | Slight Decrease in Ritonavir Cmax and AUCτ | Coadministration of voriconazole and low-dose ritonavir (100 mg every 12 hours) should be avoided (due to the reduction in voriconazole Cmax and AUCτ) unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. |
 | Pimozide, Quinidine, Ivabradine (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated because of potential for QT prolongation and rare occurrence of torsade de pointes. |
 | Ergot Alkaloids (CYP450 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Contraindicated |
@@ -68,19 +68,19 @@ Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical P
 | Other HIV Protease Inhibitors (CYP3A4 Inhibition) | In Vivo Studies Showed No Significant Effects on Indinavir ExposureIn Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) | No dosage adjustment for indinavir when coadministered with voriconazole.Frequent monitoring for adverse reactions and toxicity related to other HIV protease inhibitors. |
 | Other NNRTIs** * * * (CYP3A4 Inhibition) | A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for Voriconazole to Inhibit Metabolism of Other NNRTIs (Increased Plasma Exposure) | Frequent monitoring for adverse reactions and toxicity related to NNRTI. |
 | Tretinoin (CYP3A4 Inhibition) | Although Not Studied, Voriconazole may Increase Tretinoin Concentrations and Increase the Risk of Adverse Reactions | Frequent monitoring for signs and symptoms of pseudotumor cerebri or hypercalcemia. |
-| Methadone***(CYP3A4 Inhibition)Other benzodiazepines including triazolam and alprazolam(CYP3A4 Inhibition) | Significantly Increased In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) | Increased plasma exposures may increase the risk of adverse reactions and toxicities related to benzodiazepines. Refer to drug-specific labeling for details. |
+| Midazolam(CYP3A4 Inhibition)Other benzodiazepines including triazolam and alprazolam(CYP3A4 Inhibition) | Significantly Increased In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) | Increased plasma exposures may increase the risk of adverse reactions and toxicities related to benzodiazepines. Refer to drug-specific labeling for details. |
 | HMG-CoA Reductase Inhibitors (Statins) (CYP3A4 Inhibition) | In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) | Frequent monitoring for adverse reactions and toxicity related to statins. Increased statin concentrations in plasma have been associated with rhabdomyolysis. Adjustment of the statin dosage may be needed. |
 | Dihydropyridine Calcium Channel Blockers (CYP3A4 Inhibition) | In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) | Frequent monitoring for adverse reactions and toxicity related to calcium channel blockers. Adjustment of calcium channel blocker dosage may be needed. |
 | Sulfonylurea Oral Hypoglycemics (CYP2C9 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Frequent monitoring of blood glucose and for signs and symptoms of hypoglycemia. Adjustment of oral hypoglycemic drug dosage may be needed. |
 | Vinca Alkaloids (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Frequent monitoring for adverse reactions and toxicity (i.e., neurotoxicity) related to vinca alkaloids. Reserve azole antifungals, including voriconazole, for patients receiving a vinca alkaloid who have no alternative antifungal treatment options. |
 | Everolimus (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Concomitant administration of voriconazole and everolimus is not recommended. |
 
-*Results based on in vivo clinical studies generally following repeat oral dosing with 200 mg BID voriconazole to healthy subjects
+* Results based on in vivo clinical studies generally following repeat oral dosing with 200 mg BID voriconazole to healthy subjects
 
 ** Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for at least 2 days voriconazole to healthy subjects
 
-***Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days voriconazole to subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours)
+*** Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days voriconazole to subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours)
 
-****Non-Steroidal Anti-Inflammatory Drug
+**** Non-Steroidal Anti-Inflammatory Drug
 
-*****Non-Nucleoside Reverse Transcriptase Inhibitors
+***** Non-Nucleoside Reverse Transcriptase Inhibitors

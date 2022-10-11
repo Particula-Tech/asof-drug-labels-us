@@ -66,7 +66,7 @@ Table 2: Recommended Dosing Regimen for Pediatric Patients 2 to less than 12 yea
 |  | Loading Dose | Maintenance Dose |  |
 | --- | --- | --- | --- |
 |  | Intravenous infusion | Intravenous infusion | Oral |
-| Invasive Aspergillosis | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
+| Invasive Aspergillosis* | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
 | Candidemia in nonneutropenics and other deep tissue Candida infections† |  |  |  |
 | Scedosporiosis and Fusariosis |  |  |  |
 | Esophageal Candidiasis† | Not Evaluated | 4 mg/kg every 12 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
