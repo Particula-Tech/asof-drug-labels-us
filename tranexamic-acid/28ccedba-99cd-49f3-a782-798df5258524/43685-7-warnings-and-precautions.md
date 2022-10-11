@@ -35,7 +35,7 @@ Tranexamic acid injection is contraindicated in patients with a history of hyper
 
 ## 5.5 Visual Disturbances
 
-Although not seen in humans, focal areas of retinal degeneration have been observed in cats and dogs following oral or intravenous tranexamic acid at doses between 250 to 1600 mg/kg/day (1.6 to 22 times the recommended usual human dose based on body surface area) from 6 days to 1 year.
+Although not seen in humans, focal areas of retinal degeneration have been observed in cats and dogs following oral or intravenous tranexamic acid at doses between 250 to 1,600 mg/kg/day (1.6 to 22 times the recommended usual human dose based on body surface area) from 6 days to 1 year.
 No retinal changes have been observed in eye examinations of patients treated with tranexamic acid for up to 8 years.
 Patients expected to be treated for greater than 3 months may consider ophthalmic monitoring including visual acuity and optical coherence tomography at regular intervals.
 
