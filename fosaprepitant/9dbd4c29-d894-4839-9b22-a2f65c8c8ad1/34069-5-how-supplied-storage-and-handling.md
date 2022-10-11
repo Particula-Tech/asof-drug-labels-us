@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Fosaprepitant for Injection is available as follows:
+
 One single-dose glass vial containing 150 mg fosaprepitant as a sterile, white to off-white lyophilized powder for reconstitution.
 Supplied as follows:
 

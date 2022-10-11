@@ -1,4 +1,4 @@
-| Patient InformationFOSAPREPITANT for injection (FOS a PRE pi tant) for intravenous use |  |
+| PATIENT INFORMATION FOSAPREPITANT for injection (FOS a PRE pi tant) for intravenous use |  |
 | --- | --- |
 | What is Fosaprepitant for Injection?Fosaprepitant for Injection is a prescription medicine used with other medicines that treat nausea and vomiting in adults to prevent nausea and vomiting caused by certain anti-cancer (chemotherapy) medicines. Fosaprepitant for Injection is not used to treat nausea and vomiting that you already have. It is not known if Fosaprepitant for Injection is safe and effective in children. |  |
 | Do not receive Fosaprepitant for Injection if you: are allergic to fosaprepitant, aprepitant, or any of the ingredients in Fosaprepitant for Injection. See the end of this leaflet for a complete list of the ingredients in Fosaprepitant for Injection.are taking pimozide (ORAP). |  |
@@ -10,9 +10,9 @@
 | low white blood cell and red blood cell counts | urinary tract infection |
 | weakness | pain in your arms and legs |
 | Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all of the possible side effects of Fosaprepitant for Injection. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
-| General information about the safe and effective use of Fosaprepitant for Injection.If you would like more information about Fosaprepitant for Injection, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about Fosaprepitant for Injection that is written for health professionals. For more information about Fosaprepitant for Injection call Teva Pharmaceuticals USA, Inc. at 1-888-838-2872. |  |
-| What are the ingredients in Fosaprepitant for Injection?Active ingredient: fosaprepitant dimeglumineInactive ingredients: edetate disodium, meglumine, povidone k12, and water for injection. Hydrochloric acid and/or meglumine may have been added for pH adjustment.Brands listed are trademarks of their respective owners.Manufactured by: Actavis Italy, S.p.A., Via Pasteur 10, Nerviano, Italy 20014 or Sindan Pharma SRL, 11th Ion Mihalache Blvd., Bucharest 1, Romania 011171 Manufactured for: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454 |  |
+| General information about the safe and effective use of Fosaprepitant for Injection.If you would like more information about Fosaprepitant for Injection, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about Fosaprepitant for Injection that is written for health professionals. For more information about Fosaprepitant for Injection call Teva at 1-888-838-2872. |  |
+| What are the ingredients in Fosaprepitant for Injection?Active ingredient: fosaprepitant dimeglumineInactive ingredients: edetate disodium, meglumine, povidone k12, and water for injection. Hydrochloric acid and/or meglumine may have been added for pH adjustment.Brands listed are trademarks of their respective owners.Manufactured in Romania By: Sindan Pharma SRL, 11th Ion Mihalache Blvd., Bucharest 1, Romania 011171 Manufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054 |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Iss.
-9/2019
+Rev.
+A 6/2022

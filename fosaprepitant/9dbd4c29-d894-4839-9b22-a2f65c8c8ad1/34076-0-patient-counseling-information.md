@@ -23,8 +23,4 @@ Instruct patients to use effective alternative or back-up methods of contracepti
 Manufactured in Romania By: Sindan Pharma SRL 11 Ion Mihalache Blvd.
 Bucharest 1, Romania 011171
 
-Or
-
-Manufactured in Italy By: Actavis Italy Spa A Socio Unico Nerviano, Italy, 20014
-
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
