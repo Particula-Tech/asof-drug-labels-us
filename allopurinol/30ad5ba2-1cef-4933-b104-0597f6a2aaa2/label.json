@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA016084"
+  ],
+  "inn": "allopurinol",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-883-09",
+    "16571-884-09",
+    "16571-885-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "allopurinol",
+      "name": "Allopurinol"
+    }
+  ],
+  "setid": "30ad5ba2-1cef-4933-b104-0597f6a2aaa2",
+  "source": "dailymed"
+}
