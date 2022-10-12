@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208000"
+  ],
+  "inn": "fingolimod",
+  "labeler": "Dr. Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-285-30",
+    "43598-285-31",
+    "43598-285-70",
+    "43598-285-79"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fingolimod",
+      "name": "Fingolimod"
+    }
+  ],
+  "setid": "56badc2a-6747-9284-300e-bf072eb072ed",
+  "source": "dailymed"
+}
