@@ -6,7 +6,7 @@ Zolpidem is a GABA A receptor positive modulator presumed to exert its therapeut
 
 ## 12.2 Pharmacodynanamics
 
-Zolpidem binds to GABA A receptors with greater affinity for α1subunit relative to α2 and α3 subunit containing receptors.
+Zolpidem binds to GABA A receptors with greater affinity for α1 subunit relative to α2 and α3 subunit containing receptors.
 Zolpidem has no appreciable binding affinity for α5 subunit containing GABA A receptors.
 This binding profile may explain the relative absence of myorelaxant effects in animal studies.
 Zolpidem has no appreciable binding affinity for dopaminergic D2, serotonergic 5HT2, adrenergic, histaminergic or muscarinic receptors.
@@ -85,7 +85,7 @@ Rifampin, a CYP3A4 inducer, significantly reduced the exposure to and the pharma
 
 Similarly, St. John's wort, a CYP3A4 inducer, may also decrease the blood levels of zolpidem.
 
-A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased C max of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30 %) along with an increase in the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2)].
+A single-dose interaction study with zolpidem tartrate 5 mg and ketoconazole, a potent CYP3A4 inhibitor, given as 200 mg twice daily for 2 days increased C max of zolpidem (30%) and the total AUC of zolpidem (70%) compared to zolpidem alone and prolonged the elimination half-life (30%) along with an increase in the pharmacodynamic effects of zolpidem [see Drug Interactions (7.2)].
 
 Additionally, fluvoxamine (a strong inhibitor of CYP1A2 and a weak inhibitor of CYP3A4 and CYP2C9) and ciprofloxacin (a strong inhibitor of CYP1A2 and a moderate inhibitor of CYP3A4) are also likely to inhibit zolpidem's metabolic pathways, potentially leading to an increase in zolpidem exposure.
 

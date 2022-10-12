@@ -33,9 +33,9 @@ Zolpidem has been shown to cross the placenta.
 
 Animal data
 
-Oral administration of zolpidem to pregnant rats during the period of organogenesis at 4, 20, and 100 mg base/kg/day, which are approximately 5, 25, and 120 times the maximum recommended human dose (MRHD) of 10 mg/day (8 mg zolpidem base) based on mg/m 2body surface area, caused delayed fetal development (incomplete fetal skeletal ossification) at maternally toxic (ataxia) doses 25 and 120 times the MRHD based on mg/m 2body surface area.
+Oral administration of zolpidem to pregnant rats during the period of organogenesis at 4, 20, and 100 mg base/kg/day, which are approximately 5, 25, and 120 times the maximum recommended human dose (MRHD) of 10 mg/day (8 mg zolpidem base) based on mg/m 2 body surface area, caused delayed fetal development (incomplete fetal skeletal ossification) at maternally toxic (ataxia) doses 25 and 120 times the MRHD based on mg/m 2 body surface area.
 
-Oral administration of zolpidem to pregnant rabbits during the period of organogenesis at 1, 4, and 16 mg base/kg/day, which are approximately 2.5, 10, and 40 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m2 body surface area caused embryo-fetal death and delayed fetal development (incomplete fetal skeletal ossification) at a maternally toxic (decreased body weight gain) dose 40 times the MRHD based on mg/m 2 body surface area.
+Oral administration of zolpidem to pregnant rabbits during the period of organogenesis at 1, 4, and 16 mg base/kg/day, which are approximately 2.5, 10, and 40 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m 2 body surface area caused embryo-fetal death and delayed fetal development (incomplete fetal skeletal ossification) at a maternally toxic (decreased body weight gain) dose 40 times the MRHD based on mg/m 2 body surface area.
 
 Oral administration of zolpidem to pregnant rats from day 15 of gestation through lactation at 4, 20, and 100 mg base/kg/day, which are approximately 5, 25, and 120 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m 2 body surface area, delayed offspring growth and decreased survival at doses 25 and 120 times, respectively, the MRHD based on mg/m2 body surface area.
 

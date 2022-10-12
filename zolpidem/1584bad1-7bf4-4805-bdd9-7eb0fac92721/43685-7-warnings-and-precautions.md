@@ -63,13 +63,13 @@ Intentional overdosage is more common in this group of patients; therefore, the 
 Although studies with 10 mg zolpidem tartrate did not reveal respiratory depressant effects at hypnotic doses in healthy subjects or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index, together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90%, was observed in patients with mild to moderate sleep apnea when treated with zolpidem compared to placebo.
 Since sedative-hypnotics have the capacity to depress respiratory drive, precautions should be taken if zolpidem is prescribed to patients with compromised respiratory function or concomitant use with opioids or other CNS depressants.
 Post marketing reports of respiratory insufficiency in patients receiving 10 mg of zolpidem tartrate, most of whom had pre-existing respiratory impairment, have been reported.
-The risk of respiratory depression should be considered prior to prescribing zolpidem in patients with respiratory impairment including sleep apnea and myasthenia gravis or with concomitant opioid use [see Dosage and Administration(2.3), Drug Interactions (7.1)].
+The risk of respiratory depression should be considered prior to prescribing zolpidem in patients with respiratory impairment including sleep apnea and myasthenia gravis or with concomitant opioid use [see Dosage and Administration (2.3), Drug Interactions (7.1)].
 
 ## 5.8 Precipitation of Hepatic Encephalopathy
 
 Drugs affecting GABA receptors, such as zolpidem tartrate, have been associated with precipitation of hepatic encephalopathy in patients with hepatic insufficiency.
 In addition, patients with hepatic insufficiency do not clear zolpidem tartrate as rapidly as patients with normal hepatic function.
-Avoid zolpidem tartrate tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Aoid zolpidem tartrate tablets use in patients with severe hepatic impairment as it may contribute to encephalopathy [see Dosage and Administration (2.2), Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 5.9 Withdrawal Effects
 

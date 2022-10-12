@@ -11,7 +11,7 @@ Zolpidem tartrate tablets should be taken as a single dose and should not be rea
 
 The recommended initial doses for women and men are different because zolpidem clearance is lower in women.
 
-Long-term use of Zolpidem is not recommended.
+Long-term use of zolpidem is not recommended.
 Treatment should be as short as possible.
 Extended treatment should not take place without re-evaluation of the patient's status because the risk of abuse and dependence increases with the duration of treatment [see Drug Abuse and Dependence (9.3)].
 

@@ -16,6 +16,6 @@ Zolpidem was negative in in vitro (bacterial reverse mutation, mouse lymphoma, a
 Impairment of fertility
 
 Zolpidem was administered to rats at 4, 20, and 100 mg base/kg/day, which are approximately 5, 25, and 120 times the MRHD of 10 mg/day (8 mg zolpidem base) based on mg/m 2 body surface area, prior to and during mating, and continuing in females through postpartum day 25.
-Zolpidem caused irregular estrus cycles and prolonged precoital intervals at the highest dose tested, which is approximately 120 times the MRHD based on mg/m 2body surface area.
-The NOAEL for these effects is 25 times the MRHD based on a mg/m 2body surface area.
+Zolpidem caused irregular estrus cycles and prolonged precoital intervals at the highest dose tested, which is approximately 120 times the MRHD based on mg/m 2 body surface area.
+The NOAEL for these effects is 25 times the MRHD based on a mg/m 2 body surface area.
 There was no impairment of fertility at any dose tested.

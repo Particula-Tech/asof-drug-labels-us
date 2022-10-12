@@ -69,7 +69,7 @@ Table 2 Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlle
 | Drowsiness | 8 | 5 |
 | Dizziness | 5 | 1 |
 | Lethargy | 3 | 1 |
-| �Drugged feeling | 3 | - |
+| Drugged feeling | 3 | - |
 | Lightheadedness | 2 | 1 |
 | Depression | 2 | 1 |
 | Abnormal dreams | 1 | - |
