@@ -1,9 +1,5 @@
-|  | INSTRUCTIONS FOR USE |
-| --- | --- |
-|  | PURIXAN®(pure-ee-zan) |
-|  | (mercaptopurine) |
-|  | oral suspension |
-|  | 20 mg/mL |
+| INSTRUCTIONS FOR USE PURIXAN® (pure-ee-zan) mercaptopurine) oral suspension 20 mg/mL |
+| --- |
 
 Read these Instructions for Use before you start taking PURIXAN, and each time you get a refill.
 There may be new information.
