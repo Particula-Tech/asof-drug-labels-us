@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216227"
+  ],
+  "inn": "chloroprocaine",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-300-01"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "chloroprocaine hydrochloride ophthalmic gel",
+      "name": "IHEEZO"
+    }
+  ],
+  "setid": "ea3b2d2c-8b33-d199-e053-2995a90a699c",
+  "source": "dailymed"
+}
