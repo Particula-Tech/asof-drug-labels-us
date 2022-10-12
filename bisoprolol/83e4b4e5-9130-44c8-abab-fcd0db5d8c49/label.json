@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA075643"
+  ],
+  "inn": "bisoprolol",
+  "labeler": "Advagen Pharma Ltd",
+  "package_ndcs": [
+    "72888-092-00",
+    "72888-092-01",
+    "72888-092-05",
+    "72888-092-30",
+    "72888-093-00",
+    "72888-093-01",
+    "72888-093-05",
+    "72888-093-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "bisoprolol fumarate",
+      "name": "Bisoprolol Fumarate"
+    }
+  ],
+  "setid": "83e4b4e5-9130-44c8-abab-fcd0db5d8c49",
+  "source": "dailymed"
+}
