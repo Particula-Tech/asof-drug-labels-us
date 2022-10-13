@@ -16,7 +16,7 @@ Both mesalamine dosages had similar efficacy profiles.
 
 Table 6: Proportion of Adult Patients with Mildly to Moderately Active Ulcerative Colitis in Remission at Week 8 in Two Double-Blind Placebo-Controlled Induction Trials
 
-| Dose | Study 1 (n=262) n/N (%) | Study 2 (n=255) n/N (%) |
+| Dose | Study 1(n=262)n/N (%) | Study 2(n=255)n/N (%) |
 | --- | --- | --- |
 | Mesalamine 2.4 g/day | 30/88 (34) | 34/84 (41) |
 | Mesalamine 4.8 g/day | 26/89 (29) | 35/85 (41) |

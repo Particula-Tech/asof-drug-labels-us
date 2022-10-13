@@ -23,7 +23,7 @@ The most common adverse reactions occurring in at least 1% of mesalamine- or pla
 
 Table 2: Adverse Reactions* in Two Eight-Week, Placebo-Controlled Trials of Induction Therapy (Study 1 and Study 2) in Adults with Mildly to Moderately Active Ulcerative Colitis
 
-| Adverse Reaction | Mesalamine 2.4 g once daily (n=177) | Mesalamine 4.8 g once daily (n=179) | Placebo (n=179) |
+| Adverse Reaction | Mesalamine2.4 g once daily(n=177) | Mesalamine4.8 g once daily(n=179) | Placebo(n=179) |
 | --- | --- | --- | --- |
 | Headache | 6% | 3% | <1% |
 | Flatulence | 4% | 3% | 3% |
@@ -41,23 +41,23 @@ The most common adverse reactions with mesalamine in these maintenance trials ar
 
 Table 3: Adverse Reactions* in Three Trials of Maintenance of Remission in Adults with Ulcerative Colitis
 
-|  |  | Mesalamine 2.4 g/day† (n=1082) |
-| --- | --- | --- |
-| Adverse Reaction |  | % |
-| Headache |  | 3% |
-| Liver function test abnormal |  | 2% |
-| Abdominal pain |  | 2% |
-| Diarrhea |  | 2% |
-| Abdominal distension |  | 1% |
-| Abdominal pain upper |  | 1% |
-| Dyspepsia |  | 1% |
-| Back pain |  | 1% |
-| Rash |  | 1% |
-| Arthralgia |  | 1% |
-| Fatigue |  | 1% |
-| Hypertension |  | 1% |
-| *Reported in at least 1% of patients |  |  |
-| †Administered either as 1.2 g twice daily or 2.4 g once daily |  |  |
+|  | Mesalamine2.4 g/day†(n=1082) |
+| --- | --- |
+| Adverse Reaction | % |
+| Headache | 3% |
+| Liver function test abnormal | 2% |
+| Abdominal pain | 2% |
+| Diarrhea | 2% |
+| Abdominal distension | 1% |
+| Abdominal pain upper | 1% |
+| Dyspepsia | 1% |
+| Back pain | 1% |
+| Rash | 1% |
+| Arthralgia | 1% |
+| Fatigue | 1% |
+| Hypertension | 1% |
+| *Reported in at least 1% of patients |  |
+| †Administered either as 1.2 g twice daily or 2.4 g once daily |  |
 
 The following adverse reactions, presented by body system, were reported in less than 1% of mesalamine-treated patients with ulcerative colitis in either induction or maintenance trials:
 
