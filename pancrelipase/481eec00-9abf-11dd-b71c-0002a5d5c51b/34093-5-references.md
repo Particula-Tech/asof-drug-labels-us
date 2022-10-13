@@ -9,12 +9,12 @@
 3. Stallings VA, Start LJ, Robinson KA, et al. Evidence-based practice recommendations for nutrition-related management of children and adults with cystic fibrosis and pancreatic insufficiency: results of a systematic review.
    Journal of the American Dietetic Association.
    2008; 108: 832-839.
-4. Smyth RL, Ashby D, O’Hea U, et al. Fibrosing colonopathy in cystic fibrosis: results of a case-control study.
+4. Smyth RL, Ashby D, O'Hea U, et al. Fibrosing colonopathy in cystic fibrosis: results of a case-control study.
    Lancet.
    1995; 346: 1247-1251.
 5. FitzSimmons SC, Burkhart GA, Borowitz DS, et al. High-dose pancreatic-enzyme supplements and fibrosing colonopathy in children with cystic fibrosis.
    New England Journal of Medicine.
    1997; 336: 1283-1289.
-6. Konstan MW, et al. A Randomized, Double-Blind, Placebo-Controlled, Multicenter, Cross-Over Study to Evaluate the Effectiveness and Safety of a Novel Pancrelipase (PANCRECARB ® MS-16) in Reducing Steatorrhea in Children and Adults with Cystic Fibrosis.
+6. Konstan MW, et al. A Randomized, Double-Blind, Placebo-Controlled, Multicenter, Cross-Over Study to Evaluate the Effectiveness and Safety of a Novel Pancrelipase (PANCRECARB® MS-16) in Reducing Steatorrhea in Children and Adults with Cystic Fibrosis.
    2008 North American Cystic Fibrosis Conference.
    Abstract #618.
