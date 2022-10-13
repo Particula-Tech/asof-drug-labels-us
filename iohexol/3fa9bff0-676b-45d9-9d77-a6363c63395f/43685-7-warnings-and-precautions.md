@@ -22,7 +22,7 @@ In patients with a history of seizure activity who are not on anticonvulsant the
 Prophylactic anticonvulsant treatment with barbiturates should be considered in patients with evidence of inadvertent intracranial entry of a large or concentrated bolus of the contrast medium since there may be an increased risk of seizure in such cases.
 
 Drugs which lower the seizure threshold, especially phenothiazine derivatives, including those used for their antihistamine properties, are not recommended for use with OMNIPAQUE.
-Drugs which lower the seizure thresh old, especially phenothiazine de riva tives, including those used for their antihistamine properties, are not recommended for use with OMNIPAQUE.
+Drugs which lower the seizure thresh old, especially phenothiazine derivatives, including those used for their antihistamine properties, are not recommended for use with OMNIPAQUE.
 Others include MAO inhibitors, tricyclic antidepressants, CNS stimulants, and psychoactive drugs described as analeptics, major tranquilizers, or antipsychotic drugs.
 While the contributory role of these medications has not been established, the use of such drugs should be based on physician evaluation of potential benefits and potential risks.
 Physicians have discontinued these agents at least 48 hours before and for at least 24 hours postprocedure.
@@ -154,12 +154,24 @@ If, in the opinion of the physician, the possible benefits of such procedures ou
 The patient's blood pressure should be assessed throughout the procedure and measures for the treatment of hypertensive crisis should be readily available.
 Reports of thyroid storm following the use of iodinated contrast media in patients with hyperthyroidism or with an autonomously functioning thyroid nodule suggest that this additional risk be evaluated in such patients before use of any contrast medium.
 
+## Thyroid Dysfunction in Pediatric Patients 0 to 3 Years of Age
+
+Thyroid dysfunction characterized by hypothyroidism or transient thyroid suppression has been reported after both single exposure and multiple exposures to iodinated contrast media.
+Among patients 0 to 3 years of age exposed to iodinated contrast media, thyroid dysfunction has been reported in 1% to 15% depending on the age of the patient and the dose of the iodinated contrast agent.
+
+Younger age, very low birth weight, prematurity, and the presence of other conditions, such as, admission to neonatal or pediatric intensive care units, and cardiac conditions are associated with an increased risk.
+Pediatric patients with cardiac conditions may be at the greatest risk given that they often require high doses of contrast during invasive cardiac procedures, such as catheterization and computed tomography (CT).
+
+Pediatric patients 0 to 3 years of age warrant closer monitoring because an underactive thyroid during early life may be harmful for motor, hearing, and cognitive development and may require transient T4 replacement therapy.
+Evaluate thyroid function in all pediatric patients 0 to 3 years of age within 3 weeks following exposure to iodinated contrast media, especially in term and preterm neonates.
+If thyroid dysfunction is detected, treat and monitor thyroid function as clinically needed.
+
 ## Severe Cutaneous Adverse Reactions
 
-Severe cutaneous adverse reactions (SCAR) may develop from 1 hour to several weeks after intravascular Omnipaque administration.
+Severe cutaneous adverse reactions (SCAR) may develop from 1 hour to several weeks after intravascular OMNIPAQUE administration.
 These reactions include Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS).
 Reaction severity may increase and time to onset may decrease with repeat administration of contrast agent; prophylactic medications may not prevent or mitigate severe cutaneous adverse reactions.
-Avoid administering Omnipaque to patients with a history of a severe cutaneous adverse reaction to Omnipaque.
+Avoid administering OMNIPAQUE to patients with a history of a severe cutaneous adverse reaction to OMNIPAQUE.
 
 Urography should be performed with caution in patients with severely impaired renal function and patients with combined renal and hepatic disease.
 
@@ -218,7 +230,10 @@ Patients receiving injectable radiopaque diagnostic agents should be instructed 
 2. Inform your physician if you are diabetic or if you have multiple myeloma, pheochromocytoma, homozygous sickle cell disease, or known thyroid disorder (see WARNINGS).
 3. Inform your physician if you are allergic to any drugs, food, or if you had any reactions to previous injections of dyes used for x-ray procedures (see PRECAUTIONS—General).
 4. Inform your physician about any other medications you are currently taking, including non-prescription drugs, before you are administered this drug.
-5. Advise patients to inform their physician if they develop a rash after receiving Omnipaque.
+5. Advise patients to inform their physician if they develop a rash after receiving OMNIPAQUE.
+6. Advise parents/caregivers about the risk of developing thyroid dysfunction after OMNIPAQUE administration.
+   Advise parents/caregivers about when to seek medical care for their child to monitor for thyroid function.
+   [see WARNINGS]
 
 ## Drug/Laboratory Test Interaction
 
@@ -253,6 +268,9 @@ Bottle feedings may be substituted for breast feedings for 24 hours following ad
 ## Pediatric Use
 
 Pediatric patients at higher risk of experiencing adverse events during contrast medium administration may include those having asthma, a sensitivity to medication and/or allergens, congestive heart failure, a serum creatinine greater than 1.5 mg/dL or those less than 12 months of age.
+Thyroid function tests indicative of thyroid dysfunction, characterized by hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration in pediatric patients, including term and preterm neonates.
+Some patients were treated for hypothyroidism.
+Monitor pediatric patients 0 to 3 years of age closely, particularly those with one or more potential risk factors, for thyroid dysfunction (see WARNINGS and ADVERSE REACTIONS).
 
 # WARNINGS—General
 

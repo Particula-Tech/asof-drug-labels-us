@@ -114,9 +114,7 @@ Reactions due to technique: hematomas and ecchymoses.
 Hemodynamic reactions: vein cramp and thrombophlebitis following intravenous injection.
 Cardiovascular reactions: cardiac arrhythmias, reflex tachycardia, chest pain, cyanosis, hypertension, hypotension, peripheral vasodilatation, shock, and cardiac arrest.
 Renal reactions: transient proteinuria, oliguria or anuria.
-Endocrine reactions: Thyroid function tests indicative of hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration to adult and pediatric patients, including infants.
-Some patients were treated for hypothyroidism.
-Skin and Subcutaneous Tissue Disorders: Reactions range from mild (e.g. rash, erythema, pruritus, urticaria, skin discoloration) to severe: [e.g.
+Endocrine reactions: hyperthyroidism, hypothyroidism.Skin and Subcutaneous Tissue Disorders: Reactions range from mild (e.g. rash, erythema, pruritus, urticaria, skin discoloration) to severe: [e.g.
 Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)].
 Allergic reactions: asthmatic attacks, nasal and conjunctival symptoms, dermal reactions such as urticaria with or without pruritus, as well as pleomorphic rashes, sneezing and lacrimation, anaphylactic reactions and anaphylactic shock.
 Fatalities have occurred, due to this or unknown causes.
@@ -126,7 +124,7 @@ Immediate or delayed rigors can occur, sometimes accompanied by hyperpyrexia.
 Infrequently, "iodism" (salivary gland swelling) from organic iodinated compounds appears two days after exposure and subsides by the sixth day.
 
 In general, the reactions which are known to occur upon parenteral administration of iodinated contrast agents are possible with any nonionic agent.
-Severe, life-threatening, fatal anaphylactoidshock has been reported.
+Severe, life-threatening, fatal anaphylactoid shock has been reported.
 Reported incidences of death range from 6.6 per 1 million (0.00066 percent) to 1 in 10,000 (0.01 percent).
 Most deaths occur during injection or 5 to 10 minutes later; the main feature being cardiac arrest with cardiovascular disease as the main aggravating factor.
 

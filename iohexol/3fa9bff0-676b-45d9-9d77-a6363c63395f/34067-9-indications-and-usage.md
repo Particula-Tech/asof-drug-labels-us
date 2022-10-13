@@ -465,25 +465,19 @@ The following concentrations and volumes are recommended for normal adult knee, 
 
 Passive or active manipulation is used to disperse the medium throughout the joint space.
 
-## HYSTEROSALPINGOGRAPY
+## HYSTEROSALPINGOGRAPHY
 
 OMNIPAQUE 300 at a concentration of 300 mg Iodine/mL is indicated in radiography of the internal group of adult female reproductive organs; ovaries, fallopian tubes, uterus, and vagina.
 Hysterosalpingography is utilized as a diagnostic and therapeutic modality in the treatment of infertility and other abnormal gynecological conditions.
 
 ### Contraindications
 
-The procedure should not be performed during the menstrual period or when menstrual flow is imminent, nor should it be performed when infection is present in any portion of the genital tract, including the external genitalia.
-The procedure is also contraindicated for pregnant women or for those in whom pregnancy is suspected.
-Its use is not advised for 6 months after termination of pregnancy or 30 days after conization or curettage.
-
-### Precautions
-
-In patients with carcinoma or in those in whom the condition is suspected, caution should be exercised to avoid possible spreading of the lesion by the procedure.
+OMNIPAQUE 300 for hysterosalpingography is contraindicated during pregnancy or suspected pregnancy, menstruation or when menstruation is imminent, within 6 months after termination of pregnancy, within 30 days after conization or curettage, when signs of infection are present in any portion of the genital tract including the external genitalia, and when reproductive tract neoplasia is known or suspected because of the risk of peritoneal spread of neoplasm.
 
 ### Adverse Reactions
 
-Injection of OMNIPAQUE in hysterosalpingography is associated with immediate but transient pain.
-The cause of the pain may be due as much to the procedure itself as to the contrast medium injected, therefore attention should be paid to the injection pressure and volume instilled to avoid disruptive distention of the uterus and fallopian tubes.
+Injection of OMNIPAQUE for hysterosalpingography is associated with immediate, transient pain.
+Monitor injection pressure and volume instilled to minimize pain and to avoid disruptive distention of the uterus and fallopian tubes.
 Fluoroscopic monitoring is recommended.
 
 Nervous system: Pain (49%), somnolence and fever each with an individual incidence of 3%.
