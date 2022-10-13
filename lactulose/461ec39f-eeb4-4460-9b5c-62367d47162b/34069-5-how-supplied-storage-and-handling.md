@@ -17,9 +17,8 @@ Viscosity will return to normal upon warming to room temperature.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure.
 
-Manufactured and packaged by: Fresenius Kabi Austria GmbH Estermannstraße 17 4020 Linz Austria
+Manufactured and packaged by: Fresenius Kabi Austria GmbH Estermannstraße 17 4020 Linz, Austria
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured for: Teva Pharmaceuticals Parsippany, NJ 07054 USA
 
-Rev.
-March 2016
+Revised – June 2022
