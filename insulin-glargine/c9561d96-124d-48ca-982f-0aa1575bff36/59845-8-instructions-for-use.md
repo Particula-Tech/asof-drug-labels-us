@@ -1,17 +1,19 @@
-Instructions for Use TOUJEO® SoloStar® (Too-Jay-o) (insulin glargine injection) 1.5 mL single-patient-use prefilled pen
+# Instructions for Use
+
+TOUJEO® U-300 SoloStar® (Too-Jay-o) (insulin glargine) injection, for subcutaneous use 1.5 mL single-patient-use prefilled pen
 
 Read this first
 
 Do not share your TOUJEO SoloStar pen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-TOUJEO contains 300 units/mL insulin glargine
+TOUJEO contains 300 units/mL of insulin glargine
 
 - Do not re-use needles.
-  If you do you might not get your dose (underdosing) or get too much (overdosing) as the needle could block.
+  If you do, you might not get your dose (underdosing) or get too much (overdosing) as the needle could block.
 - Do not use a syringe to remove insulin from your pen.
-  If you do you will get too much insulin.
-  The scale on most syringes is made for non-concentrated insulin only.
+  If you do, you will get too much insulin.
+  The scale on most syringes is made for U-100 (non-concentrated) insulin only.
 - The dose selector of your TOUJEO SoloStar pen dials by 1 unit.
 
 People who are blind or have vision problems should not use the TOUJEO SoloStar pen without help from a person trained to use the TOUJEO SoloStar pen.
@@ -45,7 +47,7 @@ Places to inject
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
 - Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits or thickening of the skin (lipodystrophy) and lumps in the skin (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
-- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
+  - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
 
@@ -71,7 +73,7 @@ Step 2: Attach a new needle
 - Do not re-use needles.
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination and infection.
-- Always use needles* from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®).
+- Always use needlesOther brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC. from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®).
 
 - 2ATake a new needle and peel off the protective seal.
 - 2BKeep the needle straight and screw it onto the pen until fixed.
@@ -106,8 +108,8 @@ If no insulin appears:
 - You may need to repeat this step up to 3 times before seeing insulin.
 - If no insulin comes out after the third time, the needle may be blocked.
   If this happens:
-  - –change the needle (see Step 6 and Step 2),
-  - –then repeat the safety test (see Step 3).
+  - -change the needle (see Step 6 and Step 2),
+  - -then repeat the safety test (see Step 3).
 - Do not use your pen if there is still no insulin coming out of the needle tip.
   Use a new pen.
 - Do not use a syringe to remove insulin from your pen.
@@ -125,7 +127,7 @@ Step 4: Select the dose
   You do not need to do any dose calculations.
 - The dose selector of your TOUJEO SoloStar pen dials by 1 unit.
 
-- 4AMake sure a needle is attached and the dose is set to '0'.
+- 4AMake sure a needle is attached and the dose is set to "0."
 - 4BTurn the dose selector until the dose pointer lines up with your dose.
   - Set the dose by turning the dose selector to a line in the dose window.
     Each line equals 1 unit.
@@ -145,7 +147,11 @@ The dose selector dials by 1 unit.
 
 Even numbers are shown in line with the dose pointer:
 
+30 units selected
+
 Odd numbers are shown as a line between even numbers:
+
+29 units selected
 
 Units of insulin in your pen
 
@@ -173,7 +179,7 @@ See the section below for help.
 - 5EAfter holding and slowly counting to 5, release the injection button.
   Then remove the needle from your skin.
 
-If you find it hard to press the button in:
+If you find it hard to press the injection button in:
 
 - Change the needle (see Step 6 and Step 2) then do a safety test (see Step 3).
 - If you still find it hard to press in, get a new pen.
@@ -209,7 +215,7 @@ Before first use
 
 After first use
 
-- Keep your pen at room temperature below 86°F (30°C).
+- Keep your pen at room temperature up to 86°F (30°C).
 - Protect your pen from direct heat and light.
 - Do not put your pen back in the refrigerator.
 - Do not store your pen with the needle attached.
@@ -232,8 +238,9 @@ Protect your pen from dust and dirt
 
 Throwing your pen away
 
-- Put the used TOUJEO SoloStar pen in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) the TOUJEO SoloStar pen in your household trash.
+- The used TOUJEO SoloStar pen may be thrown away in your household trash after you have removed the needle.
+- Put the used needle in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
   - –made of a heavy-duty plastic,
   - –can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -246,32 +253,30 @@ Throwing your pen away
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+
+©2022 sanofi-aventis U.S. LLC
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2019
-
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
-
-©2019 sanofi-aventis U.S. LLC
-
-* The brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
+Revised: August 2022
 
 # Instructions for Use
 
-TOUJEO® Max SoloStar® (Too-Jay-o) (insulin glargine injection) 3 mL single-patient-use prefilled pen
+TOUJEO® U-300 Max SoloStar® (Too-Jay-o) (insulin glargine), injection, for subcutaneous use 3 mL single-patient-use prefilled pen
 
 Read this first
 
 Do not share your TOUJEO Max SoloStar pen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-TOUJEO contains 300 units/mL insulin glargine
+TOUJEO contains 300 units/mL of insulin glargine
 
 - Do not re-use needles.
-  If you do you might not get your dose (underdosing) or get too much (overdosing) as the needle could block.
+  If you do, you might not get your dose (underdosing) or get too much (overdosing) as the needle could block.
 - Do not use a syringe to remove insulin from your pen.
-  If you do you will get too much insulin.
-  The scale on most syringes is made for non-concentrated insulin only.
+  If you do, you will get too much insulin.
+  The scale on most syringes is made for U-100 (non-concentrated) insulin only.
 - The dose selector of your TOUJEO Max SoloStar pen dials by 2 units.
 
 People who are blind or have vision problems should not use the TOUJEO Max SoloStar pen without help from a person trained to use the TOUJEO Max SoloStar pen.
@@ -305,7 +310,7 @@ Places to inject
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
 - Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting pits or thickening of the skin (lipodystrophy) and lumps in the skin (localized cutaneous amyloidosis) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
-- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
+  - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Get to know your pen
 
@@ -331,7 +336,7 @@ Step 2: Attach a new needle
 - Do not re-use needles.
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination and infection.
-- Always use needles* from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®) that are 8 mm long or shorter.
+- Always use needlesOther brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC. from BD (such as BD Ultra-Fine®), Ypsomed (such as Clickfine®), or Owen Mumford (such as Unifine® Pentips®) that are 8 mm long or shorter.
 
 - 2ATake a new needle and peel off the protective seal.
 - 2BKeep the needle straight and screw it onto the pen until fixed.
@@ -360,15 +365,17 @@ This could cause high blood sugar.
 - 3ASelect 4 units by turning the dose selector until the dose pointer is at the 4 mark.
 - 3BPress the injection button all the way in.
   - When insulin comes out of the needle tip, your pen is working correctly.
-- If no insulin appears:
-  - You may need to repeat this step up to 6 times before seeing insulin.
-  - If no insulin comes out after the sixth time, the needle may be blocked.
-    If this happens:
-    - –change the needle (see Step 6 and Step 2),
-    - –then repeat the safety test (see Step 3).
-  - Do not use your pen if there is still no insulin coming out of the needle tip.
-    Use a new pen.
-  - Do not use a syringe to remove insulin from your pen.
+
+If no insulin appears:
+
+- You may need to repeat this step up to 6 times before seeing insulin.
+- If no insulin comes out after the sixth time, the needle may be blocked.
+  If this happens:
+  - –change the needle (see Step 6 and Step 2),
+  - –then repeat the safety test (see Step 3).
+- Do not use your pen if there is still no insulin coming out of the needle tip.
+  Use a new pen.
+- Do not use a syringe to remove insulin from your pen.
 
 If you see air bubbles
 
@@ -383,7 +390,7 @@ Step 4: Select the dose
   You do not need to do any dose calculations.
 - The dose selector of your TOUJEO Max SoloStar pen dials by 2 units and can only dial even doses of insulin.
 
-- 4AMake sure a needle is attached and the dose is set to '0'.
+- 4AMake sure a needle is attached and the dose is set to "0."
 - 4BTurn the dose selector until the dose pointer lines up with your dose.
   - Set the dose by turning the dose selector to a line in the dose window.
     Each line equals 2 units.
@@ -402,6 +409,10 @@ How to read the dose window
 The dose selector dials by 2 units.
 
 Each line in the dose window is an even number.
+
+60 units selected
+
+58 units selected
 
 Units of insulin in your pen
 
@@ -462,11 +473,11 @@ Before first use
 
 - Keep new pens in the refrigerator between 36°F and 46°F (2°C and 8°C).
 - Do not freeze.
-  Throw away your pen if it has been frozen (See "Throwing your pen away").
+  Throw away your pen if it has been frozen (see "Throwing your pen away").
 
 After first use
 
-- Keep your pen at room temperature below 86°F (30°C).
+- Keep your pen at room temperature up to 86°F (30°C).
 - Protect your pen from direct heat and light.
 - Do not put your pen back in the refrigerator.
 - Do not store your pen with the needle attached.
@@ -489,8 +500,9 @@ Protect your pen from dust and dirt
 
 Throwing your pen away
 
-- Put the used TOUJEO Max SoloStar pen in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) the TOUJEO Max SoloStar pen in your household trash.
+- The used TOUJEO Max SoloStar pen may be thrown away in your household trash after you have removed the needle.
+- Put the used needle in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) needles in your household trash.
 - If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
   - –made of a heavy-duty plastic,
   - –can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -503,12 +515,10 @@ Throwing your pen away
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
+Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+
+©2022 sanofi-aventis U.S. LLC
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: November 2019
-
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
-
-©2019 sanofi-aventis U.S. LLC
-
-* The brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
+Revised: August 2022

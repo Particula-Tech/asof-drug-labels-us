@@ -3,8 +3,8 @@
 The following adverse reactions are discussed elsewhere:
 
 - Hypoglycemia [see Warnings and Precautions (5.3)]
-- Medication errors [see Warnings and Precautions (5.4)]
-- Hypersensitivity and allergic reactions [see Warnings and Precautions (5.5)]
+- Hypoglycemia due to medication errors [see Warnings and Precautions (5.4)]
+- Hypersensitivity reactions [see Warnings and Precautions (5.5)]
 - Hypokalemia [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
@@ -16,14 +16,14 @@ The type 1 diabetes population had the following characteristics: Mean age was 4
 Fifty-five percent were male, 86% were Caucasian, 5% were Black or African American, and 5% were Hispanic.
 At baseline, the mean eGFR was 82 mL/min/1.73 m2 and 35% of patients had eGFR ≥90 mL/min/1.73 m2.
 The mean BMI was 28 kg/m2.
-HbA1c at baseline was greater or equal to 8% in 58% of patients.
+HbA1c at baseline was greater than or equal to 8% in 58% of patients.
 
 The data in Table 2 reflect the exposure of 1242 patients with type 2 diabetes to TOUJEO with mean exposure duration of 25 weeks.
 The type 2 diabetes population had the following characteristics: Mean age was 59 years and mean duration of diabetes was 13 years.
 Fifty-three percent were male, 88% were Caucasian, 7% were Black or African American, and 17% were Hispanic.
 At baseline, mean eGFR was 79 mL/min/1.73 m2 and 27% of patients had an eGFR ≥90 mL/min/1.73 m2.
 The mean BMI was 35 kg/m2.
-HbA1c at baseline was greater or equal to 8% in 66% of patients.
+HbA1c at baseline was greater than or equal to 8% in 66% of patients.
 
 TOUJEO was studied in 233 pediatric patients (6–17 years of age) with type 1 diabetes for a mean duration of 26 weeks [see Clinical Studies (14.1)].
 
@@ -31,14 +31,14 @@ Common adverse reactions (occurring ≥5%) in TOUJEO-treated subjects during cli
 Common adverse reactions for TOUJEO-treated pediatric subjects with type 1 diabetes mellitus were similar to the adverse reactions listed in Table 1.
 Hypoglycemia is discussed in a dedicated subsection below.
 
-Table 1: Adverse Reactions in Two Pooled Clinical Trials of 26 Weeks and 16 Weeks Duration in Adults with Type 1 Diabetes (with incidence ≥5%)
+Table 1: Adverse Reactions Occurring ≥5% in Two Pooled Clinical Trials of 26 Weeks and 16 Weeks Duration in Adults with Type 1 Diabetes
 
 |  | TOUJEO + Mealtime Insulin"mealtime insulin" refers to insulin glulisine, insulin lispro, or insulin aspart., % (n=304) |
 | --- | --- |
 | Nasopharyngitis | 12.8 |
 | Upper respiratory tract infection | 9.5 |
 
-Table 2: Adverse Reactions in Three Pooled Clinical Trials of 26 Weeks Duration in Adults with Type 2 Diabetes (with incidence ≥5%)
+Table 2: Adverse Reactions Occurring ≥5% in Three Pooled Clinical Trials of 26 Weeks Duration in Adults with Type 2 Diabetes
 
 |  | TOUJEOone of the trials in type 2 diabetes included mealtime insulin., % (n=1242) |
 | --- | --- |
@@ -47,7 +47,7 @@ Table 2: Adverse Reactions in Three Pooled Clinical Trials of 26 Weeks Duration 
 
 Hypoglycemia
 
-Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including TOUJEO [see Warnings and Precautions (5.3)].
+Hypoglycemia is the most commonly observed adverse reaction in patients treated with TOUJEO.
 The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for TOUJEO with the incidence of hypoglycemia for other products may be misleading and also may not be representative of hypoglycemia rates that will occur in clinical practice.
 
@@ -69,7 +69,7 @@ However, long-term glycemic control decreases the risk of diabetic retinopathy a
 
 Peripheral Edema
 
-Insulin, including TOUJEO, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+Insulin, including TOUJEO, may cause sodium retention and edema, particularly if previously poor metabolic control was improved by intensified insulin therapy.
 
 Lipodystrophy
 
@@ -77,26 +77,14 @@ Long-term use of insulin, including TOUJEO, can cause lipoatrophy (depression in
 
 Weight Gain
 
-Weight gain has occurred with some insulin therapies including TOUJEO and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
+Weight gain has occurred with insulins including TOUJEO and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
 
-Allergic Reactions
+Hypersensitivity Reactions
 
-Some patients taking insulin therapy, including TOUJEO have experienced erythema, local edema, and pruritus at the site of injection.
+Patients taking TOUJEO experienced erythema, local edema, and pruritus at the site of injection.
 These conditions were usually self-limiting.
 
-Severe cases of generalized allergy (anaphylaxis) have been reported [see Warnings and Precautions (5.5)].
-
-Cardiovascular Safety
-
-No clinical studies to establish the cardiovascular safety of TOUJEO have been conducted.
-A cardiovascular outcomes trial, ORIGIN, has been conducted with LANTUS.
-It is unknown whether the results of ORIGIN can be applied to TOUJEO.
-
-The Outcome Reduction with Initial Glargine Intervention trial (i.e., ORIGIN) was an open-label, randomized, 12,537 patient study that compared LANTUS to standard care on the time to first occurrence of a major adverse cardiovascular event (MACE).
-MACE was defined as the composite of CV death, nonfatal myocardial infarction, and nonfatal stroke.
-The incidence of MACE was similar between LANTUS and standard care in ORIGIN (Hazard Ratio [95% CI] for MACE; 1.02 [0.94, 1.11]).
-
-In the ORIGIN trial, the overall incidence of cancer (all types combined) (Hazard Ratio [95% CI]; 0.99 [0.88, 1.11]) or death from cancer (Hazard Ratio [95% CI]; 0.94 [0.77, 1.15]) was also similar between treatment groups.
+Severe cases of generalized allergy (anaphylaxis) have been reported.
 
 ## 6.2 Immunogenicity
 

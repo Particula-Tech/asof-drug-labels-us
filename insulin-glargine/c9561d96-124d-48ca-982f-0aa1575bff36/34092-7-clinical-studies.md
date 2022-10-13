@@ -8,16 +8,16 @@ At the end of the trial, depending on the patient population and concomitant the
 
 ## 14.2 Clinical Study in Adult and Pediatric Patients with Type 1 Diabetes
 
-Type 1 Diabetes – Adult
+Adult Patients with Type 1 Diabetes
 
 In an open-label, controlled study (Study A), patients with type 1 diabetes (n=546), were randomized to basal-bolus treatment with TOUJEO or LANTUS and treated for 26 weeks.
 TOUJEO and LANTUS were administered once daily in the morning (time period covering from pre-breakfast until pre-lunch) or in the evening (time period defined as prior to the evening meal until at bedtime).
 A mealtime insulin analogue was administered before each meal.
-Mean age was 47.3 years and mean duration of diabetes was 21 years.
-Fifty-seven percent were male, 85.1% were Caucasian, 4.7% Black or African American, and 4.7% were Hispanic; 32.2% of patients had GFR >90 mL/min/1.73 m2.
+Mean age was 47years and mean duration of diabetes was 21 years.
+Fifty-seven percent were male, 85% were Caucasian, 5% Black or African American, and 5% were Hispanic; 32% of patients had GFR >90 mL/min/1.73 m2.
 The mean BMI was approximately 27.6 kg/m2.
 At week 26, treatment with TOUJEO provided a mean reduction in HbA1c that met the prespecified noninferiority margin of 0.4% (Table 4).
-Patients treated with TOUJEO used 17.5% more basal insulin than patients treated with LANTUS.
+Patients treated with TOUJEO used 18% more basal insulin than patients treated with LANTUS.
 There were no clinically important differences in glycemic control when TOUJEO was administered once daily in the morning or in the evening.
 There were no clinically important differences in body weight between treatment groups.
 
@@ -37,16 +37,16 @@ Table 4: Type 1 Diabetes Mellitus – Adult Patients (TOUJEO plus mealtime insul
 | Adjusted mean change from baseline | -17 | -20 |
 | Adjusted mean difference [95% Confidence Interval] | 3 [-10 to 16] |  |
 
-Type 1 Diabetes – Pediatric
+Pediatric Patients with Type 1 Diabetes
 
 The efficacy of TOUJEO was evaluated in a 26-week, randomized, open-label, multicenter trial (Study B) in 463 pediatric patients with type 1 diabetes mellitus.
 Patients were randomized to basal-bolus treatment with TOUJEO or LANTUS and treated for 26 weeks.
 TOUJEO and LANTUS were administered once daily in the morning or in the evening.
 A mealtime insulin analogue was administered before each meal.
 
-The mean age of the trial population was 12.9 years; 30.9% were <12 years of age, 69.1% were ages ≥12 years of age.
-The mean duration of diabetes was 5.7 years.
-Of the 463 pediatric patients, 51.2% were male, 92.1% were White, 3.1% were Black or African American, and 30.2% were Hispanic.
+The mean age of the trial population was 13 years; 31% were <12 years of age, 69% were ages ≥12 years of age.
+The mean duration of diabetes was 6 years.
+Of the 463 pediatric patients, 51% were male, 92% were White, 3% were Black or African American, and 30% were Hispanic.
 The mean baseline BMI percentile was 68.32.
 
 At week 26, the difference in HbA1c reduction from baseline between TOUJEO and LANTUS was 0.02% with a 95% confidence interval (-0.16%; 0.20%) and met the prespecified noninferiority margin (0.3%).
@@ -71,7 +71,7 @@ Table 5: Type 1 Diabetes Mellitus – Pediatric Patients at 26 weeks (TOUJEO plu
 In a 26-week open-label, controlled study (Study C, n=804), adults with type 2 diabetes were randomized to once-daily treatment in the evening with either TOUJEO or LANTUS.
 Short-acting mealtime insulin analogues with or without metformin were also administered.
 The average age was 60 years.
-The majority of patients were White (92.3%) and 52.9% were male; 20.3% of patients had GFR >90 mL/min/1.73 m2.
+The majority of patients were White (92%) and 53% were male; 20% of patients had GFR >90 mL/min/1.73 m2.
 The mean BMI was approximately 36.6 kg/m2.
 At week 26, treatment with TOUJEO provided a mean reduction in HbA1c that met the prespecified noninferiority margin of 0.4% compared to LANTUS (Table 6).
 Patients treated with TOUJEO used 11% more basal insulin than patients treated with LANTUS.
@@ -81,14 +81,14 @@ In two open-label, controlled studies (n=1670), adults with type 2 diabetes mell
 At the time of randomization, 808 patients were treated with basal insulin for more than 6 months (Study D) and 862 patients were insulin-naive (Study E).
 
 In Study D, the average age was 58.2 years.
-The majority of patients were White (93.8%) and 45.9% were male; 32.8% of patients had GFR >90 mL/min/1.73 m2.
+The majority of patients were White (94%) and 46% were male; 33% of patients had GFR >90 mL/min/1.73 m2.
 The mean BMI was approximately 34.8 kg/m2.
 At week 26, treatment with TOUJEO provided a mean reduction in HbA1c that met the prespecified noninferiority margin of 0.4% compared to LANTUS (Table 6).
 Patients treated with TOUJEO used 12% more basal insulin than patients treated with LANTUS.
 There were no clinically important differences in body weight between treatment groups.
 
-In Study E, the average age was 57.7 years.
-The majority of patients were White (78%) and 57.7% were male; 29% of patients had GFR >90 mL/min/1.73 m2.
+In Study E, the average age was 58 years.
+The majority of patients were White (78%) and 58% were male; 29% of patients had GFR >90 mL/min/1.73 m2.
 The mean BMI was approximately 33 kg/m2.
 At week 26, treatment with TOUJEO provided a mean reduction in HbA1c that met the prespecified noninferiority margin compared to LANTUS (Table 6).
 Patients treated with TOUJEO used 15% more basal insulin than patients treated with LANTUS.
@@ -96,11 +96,11 @@ There were no clinically important differences in body weight between treatment 
 
 Table 6: Type 2 Diabetes Mellitus – Adult
 
-|  | TOUJEO | LANTUS | TOUJEO | LANTUS | TOUJEO | LANTUS |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Study C |  | Study D |  | Study E |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Treatment duration | 26 weeks |  | 26 weeks |  | 26 weeks |  |
 | Treatment in combination with | Mealtime insulin analog ± metformin |  | Noninsulin antidiabetic drugs |  |  |  |
+|  | TOUJEO | LANTUS | TOUJEO | LANTUS | TOUJEO | LANTUS |
 | Number of patients treatedm-ITT population: Modified intention-to-treat population. | 404 | 400 | 403 | 405 | 432 | 430 |
 | HbA1c (%) |  |  |  |  |  |  |
 | Baseline mean | 8.13 | 8.14 | 8.27 | 8.22 | 8.49 | 8.58 |
@@ -112,3 +112,15 @@ Table 6: Type 2 Diabetes Mellitus – Adult
 | Adjusted mean change from baseline | -29 | -30 | -18 | -22 | -61 | -68 |
 | Adjusted mean difference | 0.8 |  | 3 |  | 7 |  |
 | [95% Confidence interval] | [-5 to 7] |  | [-3 to 9] |  | [2 to 12] |  |
+
+Cardiovascular Safety
+
+No clinical studies to establish the cardiovascular safety of TOUJEO have been conducted.
+A cardiovascular outcomes trial, ORIGIN, has been conducted with LANTUS.
+It is unknown whether the results of ORIGIN can be applied to TOUJEO.
+
+The Outcome Reduction with Initial Glargine Intervention trial (i.e., ORIGIN) was an open-label, randomized, 12,537 patient study that compared LANTUS to standard care on the time to first occurrence of a major adverse cardiovascular event (MACE).
+MACE was defined as the composite of CV death, nonfatal myocardial infarction, and nonfatal stroke.
+The incidence of MACE was similar between LANTUS and standard care in ORIGIN (Hazard Ratio [95% CI] for MACE; 1.02 [0.94, 1.11]).
+
+In the ORIGIN trial, the overall incidence of cancer (all types combined) (Hazard Ratio [95% CI]; 0.99 [0.88, 1.11]) or death from cancer (Hazard Ratio [95% CI]; 0.94 [0.77, 1.15]) was also similar between treatment groups.

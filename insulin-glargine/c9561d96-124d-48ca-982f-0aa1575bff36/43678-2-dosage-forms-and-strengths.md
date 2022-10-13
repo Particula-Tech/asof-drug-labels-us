@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: 300 units per mL of insulin glargine available as a clear, colorless, solution in:
+Injection: 300 units/mL (U-300) of insulin glargine available as a clear, colorless, solution in:
 
-- 1.5 mL TOUJEO SoloStar single-patient-use prefilled pen (450 units/1.5 mL).
-- 3 mL TOUJEO Max SoloStar single-patient-use prefilled pen (900 units/3 mL).
+- 1.5 mL TOUJEO SoloStar single-patient-use prefilled pen (450 units per 1.5 mL pen)
+- 3 mL TOUJEO Max SoloStar single-patient-use prefilled pen (900 units per 3 mL pen)

@@ -2,8 +2,6 @@
 
 NDC 0024-5869-03
 
-Rx ONLY
-
 Toujeo® SoloStar® insulin glargine injection
 
 For Single Patient Use Only
@@ -19,8 +17,6 @@ SANOFI
 # PRINCIPAL DISPLAY PANEL - 3 mL Pen Carton
 
 NDC 0024-5871-02
-
-Rx ONLY
 
 Toujeo® Max SoloStar® insulin glargine injection
 

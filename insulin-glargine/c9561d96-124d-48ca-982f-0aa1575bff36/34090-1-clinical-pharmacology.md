@@ -33,7 +33,7 @@ Glucose infusion rate: determined as amount of glucose infused to maintain const
 
 ## 12.3 Pharmacokinetics
 
-Absorption and Bioavailability
+Absorption
 
 The pharmacokinetic profiles for single 0.4, 0.6, and 0.9 U/kg doses of TOUJEO in 24 patients with type 1 diabetes mellitus was evaluated in a euglycemic clamp study.
 The median time to maximum serum insulin concentration was 12 (8–14), 12 (12–18), and 16 (12–20) hours, respectively.
@@ -55,7 +55,7 @@ Pediatrics
 Population pharmacokinetic analysis was conducted for TOUJEO based on concentration data of its main metabolite M1 using data from 75 pediatric patients (6 to <18 years of age) with type 1 diabetes.
 The findings with regard to the effect of body weight on systemic exposure of M1 are generally consistent with findings in adults.
 
-Elderly, race, sex, and obesity
+Elderly, Race, Sex, and Obesity
 
 Effect of age ≥65, race, and sex on the pharmacokinetics of TOUJEO has not been evaluated.
 When weight is taken into account as a covariate on clearance, BMI is not an additional covariate.

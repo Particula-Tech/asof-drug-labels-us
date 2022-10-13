@@ -2,12 +2,12 @@
 
 ## 16.1 How Supplied
 
-TOUJEO is supplied as a clear and colorless solution containing 300 units per mL (U-300) of insulin glargine and is available in 2 single-patient-use prefilled pen presentations:
+TOUJEO U-300 (insulin glargine) injection 300 units/mL is a clear and colorless solution and is available as:
 
-| TOUJEO | Total volume | Concentration | Total units available in presentation | Max dose per injection | Dose increment | NDC number | Package size |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| SoloStar single-patient-use prefilled pen | 1.5 mL | 300 units/mL | 450 units | 80 units | 1 unit | 0024-5869-03 | 3 pens/pack |
-| Max SoloStar single-patient-use prefilled pen | 3 mL | 300 units/mL | 900 units | 160 units | 2 units | 0024-5871-02 | 2 pens/pack |
+| TOUJEO | Total volume | Total units available in presentation | Max dose per injection | Dose increment | NDC number | Package size |
+| --- | --- | --- | --- | --- | --- | --- |
+| SoloStar single-patient-use prefilled pen | 1.5 mL | 450 units | 80 units | 1 unit | 0024-5869-03 | 3 pens/pack |
+| Max SoloStar single-patient-use prefilled pen | 3 mL | 900 units | 160 units | 2 units | 0024-5871-02 | 2 pens/pack |
 
 Needles are not included in the packs of TOUJEO SoloStar or TOUJEO Max SoloStar single-patient-use prefilled pen.
 
@@ -26,7 +26,7 @@ Protect TOUJEO SoloStar/TOUJEO Max SoloStar from direct heat and light.
 
 Storage conditions are summarized in the following table:
 
-|  | Not in-use (unopened) Refrigerated 36°F–46°F (2°C–8°C) | In-use (opened)To prevent degradation, always store the prefilled pens with the cap on during in-use period. Room temperature only (Do not refrigerate) below 86°F (30°C) |
+|  | Not in-use (unopened) Refrigerated 36°F–46°F (2°C–8°C) | In-use (opened)To prevent degradation, always store the prefilled pens with the cap on during in-use period. Room temperature only (Do not refrigerate) up to 86°F (30°C) |
 | --- | --- | --- |
 | 1.5 mL TOUJEO SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |
 | 3 mL TOUJEO Max SoloStar single-patient-use prefilled pen | Until expiration date | 56 days |

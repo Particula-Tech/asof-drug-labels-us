@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-In mice and rats, standard two-year carcinogenicity studies with insulin glargine were performed at doses up to 0.455 mg/kg, which was for the rat approximately 65 times the recommended human subcutaneous starting dose of 0.2 Units/kg/day (0.007 mg/kg/day).
+In mice and rats, standard two-year carcinogenicity studies with insulin glargine were performed at doses up to 0.455 mg/kg, which was for the rat approximately 65 times the recommended human subcutaneous starting dosage of 0.2 Units/kg/day (0.007 mg/kg/day).
 The findings in female mice were not conclusive due to excessive mortality in all dose groups during the study.
 Histiocytomas were found at injection sites in male rats (statistically significant) and male mice (not statistically significant) in acid vehicle containing groups.
 These tumors were not found in female animals, in saline control, or insulin comparator groups using a different vehicle.
