@@ -42,16 +42,16 @@ Nebivolol Tablets
 
 Rx Only
 
-Nebivolol Tablets 20 mg - 100's Count Container Label
+Nebivolol Tablets 20 mg- Carton label
 
 Ascend Laboratories LLC
 
-NDC 67877-390-01
+NDC 67877-390-33
 
 Nebivolol Tablets
 
 20 mg
 
-100 Tablets
+10 (1 X 10) Unit-Dose Tablets
 
 Rx Only

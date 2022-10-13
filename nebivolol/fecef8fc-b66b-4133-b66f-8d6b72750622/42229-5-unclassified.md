@@ -124,4 +124,4 @@ Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
 
 Actidose-Aqua® is a registered trademark of Paddock Laboratories, LLC
 
-PT3536-01
+PT3536-02

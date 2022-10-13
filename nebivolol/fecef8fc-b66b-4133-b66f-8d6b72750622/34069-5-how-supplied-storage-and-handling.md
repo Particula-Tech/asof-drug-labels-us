@@ -11,15 +11,19 @@ Nebivolol tablets are supplied in the following strengths and package configurat
 | 2.5 mg | Bottle of 30 | 67877-393-30 | Light Blue |
 | Bottle of 100 | 67877-393-01 |  |  |
 | Bottle of 90 | 67877-393-90 |  |  |
+| Carton of 10 (1 x 10) Unit-dose Tablets | 67877-393-33 |  |  |
 | 5 mg | Bottle of 30 | 67877-392-30 | Beige |
 | Bottle of 100 | 67877-392-01 |  |  |
 | Bottle of 90 | 67877-392-90 |  |  |
+| Carton of 10 (1 x 10) Unit-dose Tablets | 67877-392-33 |  |  |
 | 10 mg | Bottle of 30 | 67877-391-30 | Pinkish-Purple |
 | Bottle of 100 | 67877-391-01 |  |  |
 | Bottle of 90 | 67877-391-90 |  |  |
+| Carton of 10 (1 x 10) Unit-dose Tablets | 67877-391-33 |  |  |
 | 20 mg | Bottle of 30 | 67877-390-30 | Light Blue |
 | Bottle of 100 | 67877-390-01 |  |  |
 | Bottle of 90 | 67877-390-90 |  |  |
+| Carton of 10 (1 x 10) Unit-dose Tablets | 67877-390-33 |  |  |
 
 Store at 20° to 25°C (68° to 77°F) [see USP for Controlled Room Temperature].
 
