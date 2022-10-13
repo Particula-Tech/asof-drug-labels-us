@@ -186,7 +186,7 @@ Table 6: Incidence of Weight Gain or Weight Loss (≥5 lbs) in SAD Trials Using 
 | Gained >5 lbs | 11% | 21% |
 | Lost >5 lbs | 23% | 11% |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post-approval use of bupropion hydrochloride extended-release tablets (XL).
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -230,7 +230,7 @@ Bronchospasm and pneumonia.
 
 Skin
 
-Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism.
+Maculopapular rash, alopecia, angioedema, exfoliative dermatitis, and hirsutism, acute generalized exanthematous pustulosis.
 
 Special Senses
 

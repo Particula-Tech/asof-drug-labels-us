@@ -21,7 +21,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 A prospective, longitudinal study followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants during pregnancy at the beginning of pregnancy.
 The women who discontinued antidepressants during pregnancy were more likely to experience a relapse of major depression than women who continued antidepressants.
@@ -63,14 +63,14 @@ Risk Summary
 
 Data from published literature report the presence of bupropion and its metabolites in human milk (see Data).
 There are no data on the effects of bupropion or its metabolites on milk production.
-Limited data from postmarketing reports have not identified a clear association of adverse reactions in the breastfed infant.
+Limited data from post-marketing reports have not identified a clear association of adverse reactions in the breastfed infant.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for bupropion hydrochloride extended-release tablets (XL) and any potential adverse effects on the breastfed child from bupropion hydrochloride extended-release tablets (XL) or from the underlying maternal condition.
 
 Data
 
 In a lactation study of ten women, levels of orally dosed bupropion and its active metabolites were measured in expressed milk.
 The average daily infant exposure (assuming 150 mL/kg daily consumption) to bupropion and its active metabolites was 2% of the maternal weight-adjusted dose.
-Postmarketing reports have described seizures in breastfed infants.
+Post-marketing reports have described seizures in breastfed infants.
 The relationship of bupropion exposure and these seizures is unclear.
 
 ## 8.4 Pediatric Use
@@ -80,14 +80,14 @@ When considering the use of bupropion hydrochloride extended-release tablets (XL
 
 ## 8.5 Geriatric Use
 
-Of the approximately 6000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥65 years old and 47 were ≥75 years old.
+Of the approximately 6,000 patients who participated in clinical trials with bupropion hydrochloride sustained-release tablets (depression and smoking cessation studies), 275 were ≥65 years old and 47 were ≥75 years old.
 In addition, several hundred patients ≥65 years of age participated in clinical trials using the immediate-release formulation of bupropion hydrochloride (depression studies).
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 Reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Bupropion is extensively metabolized in the liver to active metabolites, which are further metabolized and excreted by the kidneys.
 The risk of adverse reactions may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.7), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Because elderly patients are more likely to have decreased renal function, it may be necessary to consider this factor in dose selection; it may be useful to monitor renal function [see Dosage and Administration (2.7), Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 

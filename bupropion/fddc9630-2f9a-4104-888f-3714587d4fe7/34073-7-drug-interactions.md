@@ -32,20 +32,20 @@ Patients treated concomitantly with bupropion hydrochloride extended-release tab
 
 ## 7.3 Drugs That Lower Seizure Threshold
 
-Use extreme caution when co-administering bupropion hydrochloride extended-release tablets (XL) with other drugs that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
+Use extreme caution when co-administering bupropion hydrochloride extended-release tablets (XL) with other drugs that lower the seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline or systemic corticosteroids).
 Use low initial doses of bupropion hydrochloride extended-release tablets (XL) and increase the dose gradually [see Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
 Bupropion, levodopa, and amantadine have dopamine agonist effects.
 CNS toxicity has been reported when bupropion was co-administered with levodopa or amantadine.
-Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo, and dizziness.
+Adverse reactions have included restlessness, agitation, tremor, ataxia, gait disturbance, vertigo and dizziness.
 It is presumed that the toxicity results from cumulative dopamine agonist effects.
 Use caution when administering bupropion hydrochloride extended-release tablets (XL) concomitantly with these drugs.
 
 ## 7.5 Use with Alcohol
 
-In postmarketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion hydrochloride extended-release tablets (XL).
+In post-marketing experience, there have been rare reports of adverse neuropsychiatric events or reduced alcohol tolerance in patients who were drinking alcohol during treatment with bupropion hydrochloride extended-release tablets (XL).
 The consumption of alcohol during treatment with bupropion hydrochloride extended-release tablets (XL) should be minimized or avoided.
 
 ## 7.6 MAO Inhibitors

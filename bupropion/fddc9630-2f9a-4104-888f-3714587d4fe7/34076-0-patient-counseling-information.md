@@ -74,4 +74,4 @@ All other product/brand names are the trademarks of their respective owners.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
-Rev.12-2021-03
+Rev.09-2022-04
