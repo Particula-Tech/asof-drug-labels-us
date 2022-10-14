@@ -32,6 +32,6 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, NJ 07936
 
 © Novartis
 
-Revised: May 2021
+Revised: October 2022
 
-T2021-74
+T2022-62

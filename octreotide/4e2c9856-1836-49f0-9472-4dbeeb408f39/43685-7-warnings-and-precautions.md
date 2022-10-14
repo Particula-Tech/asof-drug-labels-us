@@ -70,15 +70,15 @@ Pancreatitis
 
 Several cases of pancreatitis have been reported in patients receiving Sandostatin therapy.
 
-Dietary fats malabsorption
+Dietary Fats Malabsorption
 
 Sandostatin may alter absorption of dietary fats in some patients.
 
-Decreased vitamin B12 levels and Abnormal Schilling’s Tests
+Decreased Vitamin B12 Levels and Abnormal Schilling’s Tests
 
 Depressed vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving Sandostatin therapy, and monitoring of vitamin B12 levels is recommended during chronic Sandostatin therapy.
 
-Increased half-life of Sandostatin in patients with renal failure on dialysis
+Increased Half-life of Sandostatin in Patients with Renal Failure on Dialysis
 
 In patients with severe renal failure requiring dialysis, the half-life of Sandostatin may be increased, necessitating adjustment of the maintenance dosage.
 
@@ -93,7 +93,7 @@ Advise patients to contact their healthcare provider if they experience signs or
 Laboratory tests that may be helpful as biochemical markers in determining and following patient response depend on the specific tumor.
 Based on diagnosis, measurement of the following substances may be useful in monitoring the progress of therapy:
 
-Acromegaly: Growth hormone (GH), insulin growth factor-1 (IGF-1; somatomedin C) Responsiveness to Sandostatin may be evaluated by determining GH levels at 1 to 4 hour intervals for 8 to 12 hours post dose.
+Acromegaly: Growth hormone (GH), insulin growth factor-1 (IGF-1; somatomedin C) responsiveness to Sandostatin may be evaluated by determining GH levels at 1 to 4 hour intervals for 8 to 12 hours post dose.
 Alternatively, a single measurement of IGF-1 (somatomedin C) level may be made two weeks after drug initiation or dosage change.
 
 Carcinoid: urinary 5-hydroxyindole acetic acid (5-HIAA), plasma serotonin, plasma Substance P
@@ -112,6 +112,9 @@ Patients receiving insulin, oral hypoglycemic agents, beta blockers, calcium cha
 Concomitant administration of octreotide and bromocriptine increases the availability of bromocriptine.
 Limited published data indicate that somatostatin analogs might decrease the metabolic clearance of compounds known to be metabolized by cytochrome P450 enzymes, which may be due to the suppression of growth hormone (GH).
 Since it cannot be excluded that octreotide may have this effect, other drugs mainly metabolized by CYP3A4 and which have a low therapeutic index (e.g., quinidine, terfenadine) should therefore be used with caution.
+
+Octreotide competitively binds to somatostatin receptors and may interfere with the efficacy of lutetium Lu 177 dotatate.
+Discontinue Sandostatin Injection at least 24 hours prior to each lutetium Lu 177 dotatate dose.
 
 ## Drug/Laboratory Test Interactions
 
