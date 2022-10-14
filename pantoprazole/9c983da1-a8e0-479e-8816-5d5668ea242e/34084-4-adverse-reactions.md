@@ -20,7 +20,7 @@ Adults
 Safety in nine randomized comparative US clinical trials in patients with GERD included 1,473 patients on oral pantoprazole sodium delayed release tablets (20 mg or 40 mg), 299 patients on an H2-receptor antagonist, 46 patients on another PPI, and 82 patients on placebo.
 The most frequently occurring adverse reactions are listed in Table 3.
 
-Table 3 Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
+Table 3: Adverse Reactions Reported in Clinical Trials of Adult Patients with GERD at a Frequency of >2%
 
 |  | Pantoprazole | Comparators | Placebo |
 | --- | --- | --- | --- |

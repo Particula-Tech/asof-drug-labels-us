@@ -22,7 +22,7 @@ Treatment with 40 mg of pantoprazole produced significantly greater increases in
 Doses higher than 40 mg (60, 80, 120 mg) did not result in further significant increases in median gastric pH.
 The effects of pantoprazole on median pH from one double-blind crossover study are shown in Table 5.
 
-Table 5 Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
+Table 5: Effect of Single Daily Doses of Oral Pantoprazole on Intragastric pH
 
 |  | ––––––––––––––––––––––––––Median pH on day 7–––––––––––––––––––––––––––– |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -122,7 +122,7 @@ The pharmacokinetics of pantoprazole sodium delayed-release tablets were evaluat
 The PK parameters following a single oral dose of 20 mg or 40 mg of pantoprazole sodium delayed-release tablets in children ages 6 through 16 years were highly variable (%CV ranges 40 to 80%).
 The geometric mean AUC estimated from population PK analysis after a 40 mg pantoprazole sodium delayed-release tablet in pediatric patients was about 39% and 10% higher respectively in 6 to 11 and 12 to 16 year-old children, compared to that of adults (Table 7).
 
-Table 7 PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg pantoprazole sodium delayed-release tablets
+Table 7: PK Parameters in Children and Adolescents 6 through 16 years with GERD receiving 40 mg pantoprazole sodium delayed-release tablets
 
 |  | 6 to 11 years (n=12) | 12 to 16 years (n=11) |
 | --- | --- | --- |

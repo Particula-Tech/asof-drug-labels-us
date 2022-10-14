@@ -10,7 +10,7 @@ A US multicenter, double-blind, placebo-controlled study of pantoprazole 10 mg, 
 In this study, approximately 25% of enrolled patients had severe EE of grade 3, and 10% had grade 4.
 The percentages of patients healed (per protocol, n = 541) in this study are shown in Table 8.
 
-Table 8 Erosive Esophagitis Healing Rates (Per Protocol)
+Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 
 | ––––––––––––––– Pantoprazole ––––––––––––––– |  |  |  | Placebo |
 | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Patients taking pantoprazole consumed significantly fewer antacid tablets per da
 Pantoprazole 40 mg and 20 mg once daily were also compared with nizatidine 150 mg twice daily in a US multicenter, double-blind study of 243 patients with reflux symptoms and endoscopically diagnosed EE of grade 2 or above.
 The percentages of patients healed (per protocol, n = 212) are shown in Table 9.
 
-Table 9 Erosive Esophagitis Healing Rates (Per Protocol)
+Table 9: Erosive Esophagitis Healing Rates (Per Protocol)
 
 | –––––––––––– Pantoprazole –––––––––––– |  |  | Nizatidine |
 | --- | --- | --- | --- |
@@ -58,7 +58,7 @@ The two US studies enrolled 386 and 404 patients, respectively, to receive eithe
 As demonstrated in Table 10, pantoprazole 40 mg and 20 mg were significantly superior to ranitidine at every timepoint with respect to the maintenance of healing.
 In addition, pantoprazole 40 mg was superior to all other treatments studied.
 
-Table 10 Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
+Table 10: Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Disease (GERD Maintenance): Percentage of Patients Who Remained Healed
 
 |  | Pantoprazole 20 mg daily | Pantoprazole 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ Table 10 Long-Term Maintenance of Healing of Erosive Gastroesophageal Reflux Dis
 Pantoprazole 40 mg was superior to ranitidine in reducing the number of daytime and nighttime heartburn episodes from the first through the twelfth month of treatment.
 Pantoprazole 20 mg, administered once daily, was also effective in reducing episodes of daytime and nighttime heartburn in one trial, as presented in Table 11.
 
-Table 11 Number of Episodes of Heartburn (mean ± SD)
+Table 11: Number of Episodes of Heartburn (mean ± SD)
 
 |  |  | Pantoprazole 40 mg daily | Ranitidine 150 mg twice daily |
 | --- | --- | --- | --- |

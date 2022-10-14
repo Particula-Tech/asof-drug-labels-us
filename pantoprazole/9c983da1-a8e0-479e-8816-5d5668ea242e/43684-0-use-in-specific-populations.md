@@ -11,7 +11,7 @@ Reproduction studies have been performed in rats at oral doses up to 450 mg/kg/d
 
 A pre-and postnatal development toxicity study in rats with additional endpoints to evaluate the effect on bone development was performed with pantoprazole sodium.
 Oral pantoprazole doses of 5, 15, and 30 mg/kg/day (approximately 1, 3, and 6 times the human dose of 40 mg/day) were administered to pregnant females from gestation day (GD) 6 through lactation day (LD) 21.
-Changes in bone morphology were observed in pups exposed to pantoprazole in utero and through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations(8.4)].
+Changes in bone morphology were observed in pups exposed to pantoprazole in utero and through milk during the period of lactation as well as by oral dosing from postnatal day (PND) 4 through PND 21 [see Use in Specific Populations (8.4)].
 There were no drug-related findings in maternal animals.
 Advise pregnant women of the potential risk of fetal harm.
 
@@ -82,7 +82,6 @@ All 4 of these patients with EE were healed (Hetzel-Dent score of 0 or 1) at 8 w
 Because EE is uncommon in the pediatric population, predominantly pediatric patients with endoscopically-proven or symptomatic GERD were also included in these studies.
 Patients were treated with a range of doses of pantoprazole once daily for 8 weeks.
 For safety findings see Adverse Reactions (6.1).
-
 Because these pediatric trials had no placebo, active comparator, or evidence of a dose response, the trials were inconclusive regarding the clinical benefit of pantoprazole for symptomatic GERD in the pediatric population.
 The effectiveness of pantoprazole sodium delayed-release tablets for treating symptomatic GERD in pediatric patients has not been established.
 

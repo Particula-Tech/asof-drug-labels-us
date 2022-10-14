@@ -8,7 +8,7 @@ Advise patients to return to their healthcare provider if they have a suboptimal
 
 Acute Tubulointerstitial Nephritis
 
-Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Contraindications (4),Warnings and Precautions (5.2)].
+Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Contraindications (4), Warnings and Precautions (5.2)].
 
 Clostridium difficile-Associated Diarrhea
 
@@ -28,11 +28,11 @@ Advise patients to immediately call their healthcare provider for any new or wor
 
 Cyanocobalamin (Vitamin B-12) Deficiency
 
-Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving Pantoprazole sodium delayed-release tablets for longer than 3 years [see Warnings and Precautions (5.7)].
+Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving pantoprazole sodium delayed-release tablets for longer than 3 years [see Warnings and Precautions (5.7)].
 
 Hypomagnesemia and Mineral Metabolism
 
-Advise patients to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to their healthcare provider, if they have been receiving Pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.8)].
+Advise patients to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia to their healthcare provider, if they have been receiving pantoprazole sodium delayed-release tablets for at least 3 months [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
@@ -59,8 +59,8 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA
 
-Manufactured For:
+Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057.
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8087104 Revised: April 2022
+8088244 Revised: August 2022
