@@ -51,7 +51,7 @@ In the C3H/10T½ clone 8 mouse embryo cell system, the resulting morphologically
 While no evidence for mutagenic activity was observed in the Ames test (three studies), fluorouracil has been shown to be mutagenic in the survival count rec-assay with Bacillus subtilis and in the Drosophila wing-hair spot test.
 Fluorouracil produced petite mutations in Saccharomyces cerevisiae and was positive in the micronucleus test (bone marrow cells of male mice).
 
-Fluorouracil was clastogenic in vitro (i.e., chromatid gaps, breaks, and exchanges) in Chinese hamster fibroblasts at concentrations of 1.0 and 2.0 mcg/mL and has been shown to increase sister chromatid exchange in vitro in human lymphocytes.
+Fluorouracil was clastogenic in vitro (i.e., chromatid gaps, breaks, and exchanges) in Chinese hamster fibroblasts at concentrations of 1 and 2 mcg/mL and has been shown to increase sister chromatid exchange in vitro in human lymphocytes.
 In addition, 5-fluorouracil has been reported to produce an increase in numerical and structural chromosome aberrations in peripheral lymphocytes of patients treated with this product.
 
 Doses of 125 to 250 mg/kg, administered intraperitoneally, have been shown to induce chromosomal aberrations and changes in chromosome organization of spermatogonia in rats.

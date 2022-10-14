@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 10 mL Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 10 mL Bottle Carton - 2%
 
 10 mL
 
@@ -16,7 +16,7 @@ Keep this and all medications out of the reach of children.
 
 Rx only TARO
 
-# PRINCIPAL DISPLAY PANEL - 10 mL Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 10 mL Bottle Carton - 5%
 
 10 mL
 
