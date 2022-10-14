@@ -16,7 +16,7 @@ Absorption of tetracyclines is impaired by antacids containing aluminum, calcium
 
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
-## 7.5 Barbiturates and anti-epileptics
+## 7.5 Barbiturates and Anti-Epileptics
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 

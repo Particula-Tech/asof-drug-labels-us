@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients taking doxycycline for malaria prophylaxis should be advised:
+Advise patients taking doxycycline for malaria prophylaxis:
 
 - that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
 - to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (for example, staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
@@ -10,7 +10,7 @@ Patients taking doxycycline for malaria prophylaxis should be advised:
   - should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
   - should not exceed 4 months.
 
-All patients taking doxycycline should be advised:
+Advise all patients taking doxycycline:
 
 - to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (for example, skin eruptions, etc.) occurs.
   Sunscreen or sunblock should be considered [see Warnings and Precautions (5.3)].
@@ -20,12 +20,12 @@ All patients taking doxycycline should be advised:
 - that the absorption of tetracyclines is reduced when taken with antacids containing aluminum, calcium or magnesium, bismuth subsalicylate, and iron-containing preparations [see Drug Interactions (7.3)].
 - that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
-Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued.
+Advise patients that diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterials, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of antibacterial.
 If this occurs, patients should contact their physician as soon as possible.
 
 Patients should be counseled that antibacterial drugs including doxycycline hyclate delayed-release tablets should only be used to treat bacterial infections.
-They do not treat viral infections (for example, the common cold).
+They do not treat viral infections (e.g., the common cold).
 When doxycycline hyclate delayed-release tablets is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Doxycycline hyclate delayed-release tablets or other antibacterial drugs in the future.
 
@@ -34,7 +34,9 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 The tablet is marked with separation lines (score lines) and may be broken at these score lines to provide any of the following doses.
 
 - 150 mg treatment (the entire tablet is taken)
+
 - 100 mg treatment (two thirds of the tablet or two 50 mg tablet segments are taken)
+
 - 50 mg treatment (one third of the tablet is taken)
 
 To break the tablet, the tablet is held between the thumbs and index fingers close to the appropriate score line.

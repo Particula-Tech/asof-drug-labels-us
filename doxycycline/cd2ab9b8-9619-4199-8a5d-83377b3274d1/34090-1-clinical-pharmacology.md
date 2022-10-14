@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Doxycycline is an antibacterial drug [see Microbiology (12.4)].
+Doxycycline is a tetracycline-class antimicrobial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 

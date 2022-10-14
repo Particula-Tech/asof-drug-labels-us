@@ -27,12 +27,12 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## 5.4 Potential for Microbial Overgrowth
 
-As with other antibacterial preparations, use of doxycycline hyclate delayed-release tablets may result in overgrowth of non-susceptible organisms, including fungi.
+Doxycycline hyclate delayed-release tablets may result in overgrowth of non-susceptible organisms, including fungi.
 If superinfection occurs, the antibacterial should be discontinued and appropriate therapy instituted.
 
 ## 5.5 Severe Skin Reactions
 
-Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline [See Adverse Reactions (6)].
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline [see Adverse Reactions (6)].
 If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
 
 ## 5.6 Intracranial Hypertension
@@ -40,7 +40,7 @@ If severe skin reactions occur, doxycycline should be discontinued immediately a
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracycline including doxycycline hyclate delayed-release tablets.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Avoid concomitant use of isotretinoin and Doxycycline hyclate delayed-release tablets because isotretinoin is also known to cause pseudotumor cerebri.
+Avoid concomitant use of isotretinoin and doxycycline hyclate delayed-release tablets because isotretinoin is also known to cause pseudotumor cerebri.
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
