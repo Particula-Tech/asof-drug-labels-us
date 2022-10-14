@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016295"
+  ],
+  "inn": "hydroxyurea",
+  "labeler": "H2-Pharma LLC",
+  "package_ndcs": [
+    "61269-835-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "HYDREA"
+    }
+  ],
+  "setid": "6053c775-68de-45e4-9af9-33b18fd0e140",
+  "source": "dailymed"
+}
