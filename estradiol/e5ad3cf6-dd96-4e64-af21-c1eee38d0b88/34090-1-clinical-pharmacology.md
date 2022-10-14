@@ -18,7 +18,8 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-Currently, there are no pharmacodynamic data known for Vagifem.
+Generally, a serum concentration does not predict an individual woman’s therapeutic response to Vagifem nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
@@ -57,7 +58,3 @@ In postmenopausal women, a significant portion of the circulating estrogens exis
 Excretion
 
 Estradiol, estrone, and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
-
-Use in Specific Populations
-
-No pharmacokinetic studies were conducted in specific populations, including patients with renal or hepatic impairment.

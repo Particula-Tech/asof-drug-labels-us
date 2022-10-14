@@ -100,5 +100,3 @@ Urticaria
 Vascular disorders
 
 Deep vein thrombosis
-
-Additional postmarketing adverse reactions have been reported in patients receiving other forms of hormone therapy.

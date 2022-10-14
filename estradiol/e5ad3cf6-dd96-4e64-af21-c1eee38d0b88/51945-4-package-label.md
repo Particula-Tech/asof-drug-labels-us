@@ -1,4 +1,4 @@
-# Principal Display Panel - VAGIFEM 10 MCG – 18 Inserts
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
 NDC 0169-5176-04
 

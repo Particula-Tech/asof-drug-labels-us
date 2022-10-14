@@ -1,11 +1,11 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Effects on Atrophic Vaginitis
+## 14.1 Effects on Atrophic Vaginitis in Postmenopausal Women
 
 A 12-month double-blind, randomized, parallel group, placebo-controlled multicenter study was conducted in the U.S. and Canada to evaluate the efficacy and safety of Vagifem 10 mcg in the treatment of atrophic vaginitis in 309 postmenopausal women between 46 and 81 years of age (mean 57.6 years of age) who at baseline identified their most bothersome symptom of atrophic vaginitis from among six symptoms (vaginal dryness, vaginal and/or vulvar irritation/itching, vaginal soreness, dysuria, dyspareunia and vaginal bleeding associated with intercourse).
 Women inserted one insert intravaginally each day for 14 days, then one insert twice weekly for the remaining 50 weeks.
 The majority (92.9 percent) of the women were Caucasian (n=287), 3.2 percent were Black (n=10), 1.6 percent were Asian (n=5) and 2.2 percent were Other (n=7).
-All subjects were assessed for improvement in the mean change from baseline to Week 12 for co-primary efficacy variables of: a composite of most bothersome symptoms of atrophic vaginitis; percentage of vaginal superficial cells and percentage of vaginal parabasal cells on a vaginal smear; and vaginal pH.
+All participants were assessed for improvement in the mean change from baseline to Week 12 for co-primary efficacy variables of: a composite of most bothersome symptoms of atrophic vaginitis; percentage of vaginal superficial cells and percentage of vaginal parabasal cells on a vaginal smear; and vaginal pH.
 
 Relief of Vaginal Symptoms
 
@@ -24,14 +24,14 @@ Table 3: Mean Change from Baseline to Week 12 in a Composite Score of Most Bothe
 Also demonstrated for Vagifem 10 mcg compared to placebo was a statistically significant increase in the percentage of superficial cells at Week 12 (13.2 percent compared to 3.8 percent for matching placebo, p<0.001), a statistically significant decrease in parabasal cells at Week 12 (-37.0 percent compared to -9.3 percent for matching placebo, p<0.001), and a statistically significant mean reduction between baseline and Week 12 in vaginal pH score (-1.3 compared to -0.4 for matching placebo, p<0.001).
 
 Endometrial safety was assessed by endometrial biopsy at the screening and final study visit.
-Of the 172 subjects in the Vagifem 10 mcg group who had a biopsy performed at end of study, 92 subjects had endometrial tissue that was atrophic or inactive and 73 subjects had no tissue or tissue insufficient for diagnosis.
+Of the 172 women in the Vagifem 10 mcg group who had a biopsy performed at end of study, 92 women had endometrial tissue that was atrophic or inactive and 73 women had no tissue or tissue insufficient for diagnosis.
 There was one case of adenocarcinoma grade 2 and one case of complex hyperplasia without atypia.
-Three subjects exhibited polyps (two atrophic polyps and one adenomyomatus type polyp) and two others had adenomyosis and an atypical epithelial proliferation.
+Three women exhibited polyps (two atrophic polyps and one adenomyomatus type polyp) and two others had adenomyosis and an atypical epithelial proliferation.
 
 Endometrial safety of Vagifem 10 mcg was additionally evaluated in a second, 12 month, open-label, multicenter safety study.
-Of the 297 subjects who had a biopsy performed at end of study, 183 subjects had endometrial tissue that was atrophic or inactive and 111 subjects had no tissue or tissue insufficient for diagnosis.
+Of the 297 women who had a biopsy performed at end of study, 183 women had endometrial tissue that was atrophic or inactive and 111 women had no tissue or tissue insufficient for diagnosis.
 There was one case of complex hyperplasia without atypia.
-Two subjects exhibited polyps.
+Two women exhibited polyps.
 
 ## 14.2 Women’s Health Initiative Studies
 
@@ -118,7 +118,6 @@ The WHI estrogen plus progestin substudy stratified by age showed in women 50-59
 The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominately healthy hysterectomized postmenopausal women 65 to 79 years of age and older (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)-alone on the incidence of probable dementia (primary outcome) compared to placebo.
 
 After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83-2.66).
-
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in this study included Alzheimer's disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo group was AD.
