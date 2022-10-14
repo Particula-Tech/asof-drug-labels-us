@@ -32,7 +32,7 @@ NDC 68382-800-01 in bottle of 100 tablets
 
 NDC 68382-800-05 in bottle of 500 tablets
 
-Labetalol Hydrochloride Tablets USP should be Stored at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Labetalol Hydrochloride Tablets USP should be Stored at 20°C to 25°C (68°F to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP with a child-resistant closure as required.
 
@@ -43,7 +43,7 @@ For current package insert, please visit www.zydususa.com
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
 
 Matoda, Ahmedabad, India
 
@@ -53,4 +53,4 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-Rev.: 05/17
+Rev.: 08/22
