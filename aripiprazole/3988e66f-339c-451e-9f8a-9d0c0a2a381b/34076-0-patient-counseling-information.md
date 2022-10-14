@@ -32,13 +32,13 @@ Patients should be advised to inform their physicians if they are taking, or pla
 
 Heat Exposure and Dehydration
 
-Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.12)].
+Patients should be advised regarding appropriate care in avoiding overheating and dehydration [see Warnings and Precautions (5.13)].
 
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with aripiprazole.
 Advise patients that aripiprazole may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
-Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy [seeUse in Specific Populations (8.1)].
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy [see Use in Specific Populations (8.1)].
 
 Manufactured by:
 
@@ -46,6 +46,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8084381 Revised: September 2021
+8088925 Revised: August 2022

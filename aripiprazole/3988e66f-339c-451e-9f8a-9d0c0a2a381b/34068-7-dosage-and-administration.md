@@ -87,7 +87,7 @@ When the coadministered drug is withdrawn from the combination therapy, aripipra
 When the coadministered CYP3A4 inducer is withdrawn, aripiprazole dosage should be reduced to the original level over 1 to 2 weeks.
 Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
 
-Table 2 Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
+Table 2: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
 
 | Factors | Dosage Adjustments for Aripiprazole |
 | --- | --- |

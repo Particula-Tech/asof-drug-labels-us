@@ -4,7 +4,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular Adverse Events, Including Stroke [see Warnings and Precautions (5.2)]
 - Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults [see Boxed Warning and Warnings and Precautions (5.3)]
 - Neuroleptic Malignant Syndrome (NMS) [see Warnings and Precautions (5.4)]
@@ -56,8 +56,8 @@ Table 16: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled 
 
 | Preferred Term | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Aripiprazole (n=917) | Placebo (n=753) |  |
-| Akasthisia | 13 | 4 |
+| Aripiprazole(n=917) | Placebo (n=753) |  |
+| Akathisia | 13 | 4 |
 | Sedation | 8 | 3 |
 | Restlessness | 6 | 3 |
 | Tremor | 6 | 3 |
@@ -69,46 +69,45 @@ Table 17 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 17: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral Aripiprazole
 
-| System Organ Class Preferred Term | Percentage of Patients Reporting Reaction a |  |
-| --- | --- | --- |
-| Aripiprazole (n=1,843) | Placebo (n=1,166) |  |
-| Eye Disorders |  |  |
-| Blurred Vision | 3 | 1 |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 15 | 11 |
-| Constipation | 11 | 7 |
-| Vomiting | 11 | 6 |
-| Dyspepsia | 9 | 7 |
-| Dry Mouth | 5 | 4 |
-| Toothache | 4 | 3 |
-| Abdominal Discomfort | 3 | 2 |
-| Stomach Discomfort | 3 | 2 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue | 6 | 4 |
-| Pain | 3 | 2 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Musculoskeletal Stiffness | 4 | 3 |
-| Pain in Extremity | 4 | 2 |
-| Myalgia | 2 | 1 |
-| Muscle Spasms | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Headache | 27 | 23 |
-| Dizziness | 10 | 7 |
-| Akathisia | 10 | 4 |
-| Sedation | 7 | 4 |
-| Extrapyramidal Disorder | 5 | 3 |
-| Tremor | 5 | 3 |
-| Somnolence | 5 | 3 |
-| Psychiatric Disorders |  |  |
-| Agitation | 19 | 17 |
-| Insomnia | 18 | 13 |
-| Anxiety | 17 | 13 |
-| Restlessness | 5 | 3 |
-| Respiratory, Thoracic, and Mediastinal Disorders |  |  |
-| Pharyngolaryngeal Pain | 3 | 2 |
-| Cough | 3 | 2 |
-
-a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.
+|  | Percentage of Patients Reporting Reactiona |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| System Organ ClassPreferred Term | Aripiprazole(n=1,843) |  |  | Placebo(n=1,166) |  |
+| Eye Disorders |  |  |  |  |  |
+| Blurred Vision | 3 |  |  | 1 |  |
+| Gastrointestinal Disorders |  |  |  |  |  |
+| Nausea | 15 |  |  | 11 |  |
+| Constipation | 11 |  |  | 7 |  |
+| Vomiting | 11 |  |  | 6 |  |
+| Dyspepsia | 9 |  |  | 7 |  |
+| Dry Mouth | 5 |  |  | 4 |  |
+| Toothache | 4 |  |  | 3 |  |
+| Abdominal Discomfort | 3 |  |  | 2 |  |
+| Stomach Discomfort | 3 |  |  | 2 |  |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |
+| Fatigue | 6 |  | 4 |  |  |
+| Pain | 3 |  | 2 |  |  |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
+| Musculoskeletal Stiffness | 4 |  | 3 |  |  |
+| Pain in Extremity | 4 |  | 2 |  |  |
+| Myalgia | 2 |  | 1 |  |  |
+| Muscle Spasms | 2 |  | 1 |  |  |
+| Nervous System Disorders |  |  |  |  |  |
+| Headache | 27 |  | 23 |  |  |
+| Dizziness | 10 |  | 7 |  |  |
+| Akathisia | 10 |  | 4 |  |  |
+| Sedation | 7 |  | 4 |  |  |
+| Extrapyramidal Disorder | 5 |  | 3 |  |  |
+| Tremor | 5 |  | 3 |  |  |
+| Somnolence | 5 |  | 3 |  |  |
+| Psychiatric Disorders |  |  |  |  |  |
+| Agitation | 19 |  | 17 |  |  |
+| Insomnia | 18 |  | 13 |  |  |
+| Anxiety | 17 |  | 13 |  |  |
+| Restlessness | 5 |  | 3 |  |  |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |  |
+| Pharyngolaryngeal Pain | 3 | 2 |  |  |  |
+| Cough | 3 | 2 |  |  |  |
+| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |  |  |  |
 
 An examination of population subgroups did not reveal any clear evidence of differential adverse reaction incidence on the basis of age, gender, or race.
 
@@ -131,30 +130,29 @@ Table 18 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 18: Adverse Reactions in Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | Percentage of Patients Reporting Reaction a |  |
-| --- | --- | --- |
-| Aripiprazole + Li or Val* (n=253) | Placebo + Li or Val* (n=130) |  |
-| Gastrointestinal Disorders |  |  |
-| Nausea | 8 | 5 |
-| Vomiting | 4 | 0 |
-| Salivary Hypersecretion | 4 | 2 |
-| Dry Mouth | 2 | 1 |
-| Infections and Infestations |  |  |
-| Nasopharyngitis | 3 | 2 |
-| Investigations |  |  |
-| Weight Increased | 2 | 1 |
-| Nervous System Disorders |  |  |
-| Akathisia | 19 | 5 |
-| Tremor | 9 | 6 |
-| Extrapyramidal Disorder | 5 | 1 |
-| Dizziness | 4 | 1 |
-| Sedation | 4 | 2 |
-| Psychiatric Disorders |  |  |
-| Insomnia | 8 | 4 |
-| Anxiety | 4 | 1 |
-| Restlessness | 2 | 1 |
-
-a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Lithium or Valproate
+|  | Percentage of Patients Reporting Reactiona |  |  |  |
+| --- | --- | --- | --- | --- |
+| System Organ ClassPreferred Term | Aripiprazole + Li or Val*(n=253) |  | Placebo + Li or Val*(n=130) |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Nausea | 8 |  | 5 |  |
+| Vomiting | 4 |  | 0 |  |
+| Salivary Hypersecretion | 4 |  | 2 |  |
+| Dry Mouth | 2 |  | 1 |  |
+| Infections and Infestations |  |  |  |  |
+| Nasopharyngitis | 3 | 2 |  |  |
+| Investigations |  |  |  |  |
+| Weight Increased | 2 | 1 |  |  |
+| Nervous System Disorders |  |  |  |  |
+| Akathisia | 19 | 5 |  |  |
+| Tremor | 9 | 6 |  |  |
+| Extrapyramidal Disorder | 5 | 1 |  |  |
+| Dizziness | 4 | 1 |  |  |
+| Sedation | 4 | 2 |  |  |
+| Psychiatric Disorders |  |  |  |  |
+| Insomnia | 8 | 4 |  |  |
+| Anxiety | 4 | 1 |  |  |
+| Restlessness | 2 | 1 |  |  |
+| a Adverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.* Lithium or Valproate |  |  |  |  |
 
 Pediatric Patients (13 to 17 years) with Schizophrenia
 
@@ -182,17 +180,17 @@ Commonly observed adverse reactions associated with the use of aripiprazole in p
 
 Table 19: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (10 to 17 years) with Bipolar Mania Treated with Oral Aripiprazole
 
-| Preferred Term | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| Aripiprazole (n=197) | Placebo (n=97) |  |
-| Somnolence | 23 | 3 |
-| Extrapyramidal Disorder | 20 | 3 |
-| Fatigue | 11 | 4 |
-| Nausea | 11 | 4 |
-| Akathisia | 10 | 2 |
-| Blurred Vision | 8 | 0 |
-| Salivary Hypersecretion | 6 | 0 |
-| Dizziness | 5 | 1 |
+|  | Percentage of Patients Reporting Reaction |  |  |  |
+| --- | --- | --- | --- | --- |
+| Preferred Term | Aripiprazole(n=197) |  | Placebo(n=97) |  |
+| Somnolence | 23 |  | 3 |  |
+| Extrapyramidal Disorder | 20 |  | 3 |  |
+| Fatigue | 11 |  | 4 |  |
+| Nausea | 11 |  | 4 |  |
+| Akathisia | 10 | 2 |  |  |
+| Blurred Vision | 8 | 0 |  |  |
+| Salivary Hypersecretion | 6 | 0 |  |  |
+| Dizziness | 5 | 1 |  |  |
 
 Pediatric Patients (6 to 17 years) with Autistic Disorder
 
@@ -208,17 +206,20 @@ Commonly observed adverse reactions associated with the use of aripiprazole in p
 
 Table 20: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 17 years) with Autistic Disorder Treated with Oral Aripiprazole
 
-| Preferred Term | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| Aripiprazole (n=212) | Placebo (n=101) |  |
-| Sedation | 21 | 4 |
-| Fatigue | 17 | 2 |
-| Vomiting | 14 | 7 |
-| Somnolence | 10 | 4 |
-| Tremor | 10 | 0 |
-| Pyrexia | 9 | 1 |
-| Drooling | 9 | 0 |
-| Decreased Appetite | 7 | 2 |
+|  | Percentage of Patients Reporting Reaction |  |  |  |
+| --- | --- | --- | --- | --- |
+| Preferred Term | Aripiprazole(n=212) |  | Placebo(n=101) |  |
+| Sedation | 21 |  | 4 |  |
+| Fatigue | 17 |  | 2 |  |
+| Vomiting | 14 |  | 7 |  |
+| Somnolence | 10 |  | 4 |  |
+| Tremor | 10 | 0 |  |  |
+| Pyrexia | 9 | 1 |  |  |
+| Drooling | 9 | 0 |  |  |
+| Decreased Appetite | 7 | 2 |  |  |
+| Salivary Hypersecretion | 6 | 1 |  |  |
+| Extrapyramidal Disorder | 6 | 0 |  |  |
+| Lethargy | 5 | 0 |  |  |
 
 Pediatric Patients (6 to 18 years) with Tourette's Disorder
 
@@ -234,17 +235,16 @@ Commonly observed adverse reactions associated with the use of aripiprazole in p
 
 Table 21: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) with Tourette's Disorder Treated with Oral Aripiprazole
 
-| Preferred Term | Percentage of Patients Reporting Reaction |  |
-| --- | --- | --- |
-| Aripiprazole (n=121) | Placebo (n=72) |  |
-| Sedation | 13 | 6 |
-| Somnolence | 13 | 1 |
-| Nausea | 11 | 4 |
-| Headache | 10 | 3 |
-| Nasopharyngitis | 9 | 0 |
-| Fatigue | 8 | 0 |
-| Increased Appetite | 7 | 1 |
-| Sedation | 13 | 6 |
+|  | Percentage of Patients Reporting Reaction |  |  |  |
+| --- | --- | --- | --- | --- |
+| Preferred Term | Aripiprazole(n=121) |  | Placebo(n=72) |  |
+| Sedation | 13 |  | 6 |  |
+| Somnolence | 13 |  | 1 |  |
+| Nausea | 11 |  | 4 |  |
+| Headache | 10 |  | 3 |  |
+| Nasopharyngitis | 9 | 0 |  |  |
+| Fatigue | 8 | 0 |  |  |
+| Increased Appetite | 7 | 1 |  |  |
 
 Less Common Adverse Reactions in Pediatric Patients (6 to 18 years) with Schizophrenia, Bipolar Mania, Autistic Disorder, or Tourette's Disorder
 
@@ -252,7 +252,7 @@ Table 22 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatric Patients (6 to 18 years) Treated with Oral Aripiprazole
 
-| Percentage of Patients Reporting Reaction a |  |  |
+|  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
 | System Organ Class | Aripiprazole | Placebo |
 | Preferred Term | (n=732) | (n=370) |
@@ -296,8 +296,7 @@ Table 22: Adverse Reactions in Short-Term, Placebo-Controlled Trials of Pediatri
 | Epistaxis | 2 | 1 |
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 2 | 1 |
-
-a Adverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.
+| aAdverse reactions reported by at least 2% of pediatric patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. |  |  |
 
 Adult Patients Receiving Aripiprazole as Adjunctive Treatment of Major Depressive Disorder
 
@@ -317,9 +316,9 @@ Table 23 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-| Percentage of Patients Reporting Reaction a |  |  |
+|  | Percentage of Patients Reporting Reactiona |  |
 | --- | --- | --- |
-| System Organ Class | Aripiprazole + ADT * | Placebo + ADT * |
+| System Organ Class | Aripiprazole + ADT* | Placebo + ADT* |
 | Preferred Term | (n=371) | (n=366) |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
@@ -329,7 +328,7 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Fatigue | 8 | 4 |
 | Feeling Jittery | 3 | 1 |
 | Infections and Infestations |  |  |
-| � Upper Respiratory Tract Infection | 6 | 4 |
+| Upper Respiratory Tract Infection | 6 | 4 |
 | Investigations |  |  |
 | Weight Increased | 3 | 2 |
 | Metabolism and Nutrition Disorders |  |  |
@@ -340,16 +339,14 @@ Table 23: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials 
 | Nervous System Disorders |  |  |
 | Akathisia | 25 | 4 |
 | Somnolence | 6 | 4 |
-| Tremor | 5 | 2 |
+| Tremor | 5 | 4 |
 | Sedation | 4 | 2 |
 | Dizziness | 4 | 2 |
 | Disturbance in Attention | 3 | 1 |
 | Extrapyramidal Disorder | 2 | 0 |
 | Psychiatric Disorders |  |  |
-| Restlessness | 2 | 1 |
-| Insomnia | 8 | 2 |
-
-a Adverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo. * Antidepressant Therapy
+| RestlessnessInsomnia | 128 | 22 |
+| aAdverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole, except adverse reactions which had an incidence equal to or less than placebo.*Antidepressant Therapy |  |  |
 
 Dose-Related Adverse Reactions
 
