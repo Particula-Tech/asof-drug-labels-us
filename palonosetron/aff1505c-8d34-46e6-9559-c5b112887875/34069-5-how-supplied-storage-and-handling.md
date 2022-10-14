@@ -8,6 +8,6 @@ NDC 0781-3312-75:
 
 Storage
 
-- •Store at controlled room temperature of 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
-- •Protect from freezing.
-- •Protect from light.
+- Store at controlled room temperature of 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
+- Protect from freezing.
+- Protect from light.
