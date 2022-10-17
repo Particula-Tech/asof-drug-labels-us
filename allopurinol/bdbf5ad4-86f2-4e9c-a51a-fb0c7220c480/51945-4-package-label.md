@@ -8,8 +8,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Allopurinol, USP 100 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
+Dispense in a tight, light-resistant container as deﬁned in the USP using a child-resistant closure.
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
@@ -17,7 +16,7 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Protect from moisture and light.
+Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -27,9 +26,9 @@ Made in Australia
 
 Mylan.com
 
-3392/0
+3392/1
 
-RALP0137A
+RALP0137A1
 
 # PRINCIPAL DISPLAY PANEL – 300 mg
 
@@ -41,8 +40,7 @@ Rx only 100 Tablets
 
 Each tablet contains: Allopurinol, USP 300 mg
 
-Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
-
+Dispense in a tight, light-resistant container as deﬁned in the USP using a child-resistant closure.
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
@@ -50,7 +48,7 @@ Keep this and all medication out of the reach of children.
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Protect from moisture and light.
+Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
@@ -60,6 +58,6 @@ Made in Australia
 
 Mylan.com
 
-3394/0
+3394/1
 
-RALP0181A
+RALP0181A1
