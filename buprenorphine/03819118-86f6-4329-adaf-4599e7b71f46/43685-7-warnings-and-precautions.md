@@ -10,7 +10,7 @@ Multiple refills should not be prescribed early in treatment or without appropri
 ## 5.2 Risk of Life-Threatening Respiratory and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
-Many, but not all, post-marketing reports regarding coma and death involved misuses by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
+Many, but not all, postmarketing reports regarding coma and death involved misuses by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
 Warn patients of the potential danger of self-administration of benzodiazepines or other CNS depressants while under treatment with buprenorphine sublingual tablets [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Use buprenorphine sublingual tablets with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, cor pulmonale, decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression).
@@ -95,7 +95,7 @@ When discontinuing buprenorphine sublingual tablets, gradually taper the dosage 
 
 ## 5.8 Risk of Hepatitis, Hepatic Events
 
-Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through post-marketing adverse event reports.
+Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in individuals receiving buprenorphine in clinical trials and through postmarketing adverse event reports.
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
 In many cases, the presence of pre-existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injecting drug use may have played a causative or contributory role.
 In other cases, insufficient data were available to determine the etiology of the abnormality.
@@ -108,7 +108,7 @@ Depending on the case, buprenorphine sublingual tablets may need to be carefully
 
 ## 5.9 Hypersensitivity Reactions
 
-Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the post-marketing experience.
+Cases of hypersensitivity to buprenorphine products have been reported both in clinical trials and in the postmarketing experience.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 The most common signs and symptoms include rashes, hives, and pruritus.
 A history of hypersensitivity to buprenorphine is a contraindication to the use of buprenorphine sublingual tablets.
@@ -140,24 +140,33 @@ Educate patients to seek dental care and strategies to maintain or improve oral 
 Strategies include, but are not limited to, gently rinsing the teeth and gums with water and then swallowing after buprenorphine sublingual tablets has been completely dissolved in the oral mucosa.
 Advise patients to wait for at least one hour after taking buprenorphine sublingual tablets before brushing teeth [see Dosing and Administration (2.6), Information for Patients (17), Medication Guide].
 
-## 5.14 Impairment of Ability to Drive or Operate Machinery
+## 5.14 QTc Prolongation
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing buprenorphine sublingual tablets to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
+
+## 5.15 Impairment of Ability to Drive or Operate Machinery
 
 Buprenorphine sublingual tablets may impair the mental or physical abilities required for the performance of potentially dangerous tasks such as driving a car or operating machinery, especially during treatment induction and dose adjustment.
 Caution patients about driving or operating hazardous machinery until they are reasonably certain that buprenorphine therapy does not adversely affect his or her ability to engage in such activities.
 
-## 5.15 Orthostatic Hypotension
+## 5.16 Orthostatic Hypotension
 
 Like other opioids, buprenorphine sublingual tablets may produce orthostatic hypotension in ambulatory patients.
 
-## 5.16 Elevation of Cerebrospinal Fluid Pressure
+## 5.17 Elevation of Cerebrospinal Fluid Pressure
 
 Buprenorphine, like other opioids, may elevate cerebrospinal fluid pressure and should be used with caution in patients with head injury, intracranial lesions and other circumstances when cerebrospinal pressure may be increased.
 Buprenorphine can produce miosis and changes in the level of consciousness that may interfere with patient evaluation.
 
-## 5.17 Elevation of Intracholedochal Pressure
+## 5.18 Elevation of Intracholedochal Pressure
 
 Buprenorphine has been shown to increase intracholedochal pressure, as do other opioids, and thus should be administered with caution to patients with dysfunction of the biliary tract.
 
-## 5.18 Effects in Acute Abdominal Conditions
+## 5.19 Effects in Acute Abdominal Conditions
 
 As with other opioids, buprenorphine may obscure the diagnosis or clinical course of patients with acute abdominal conditions.

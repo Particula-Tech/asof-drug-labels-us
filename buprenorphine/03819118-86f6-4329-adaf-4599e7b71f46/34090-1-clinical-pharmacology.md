@@ -41,6 +41,10 @@ Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, le
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date.
 Patients presenting with symptoms of androgen deficiency should undergo laboratory evaluation.
 
+Cardiac Electrophysiology
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤15 msec.
+
 ## 12.3 Pharmacokinetics
 
 Absorption

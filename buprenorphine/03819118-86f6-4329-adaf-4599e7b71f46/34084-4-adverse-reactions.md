@@ -9,9 +9,9 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Opioid Withdrawal [see Warnings and Precautions (5.7, 5.10)]
 - Hepatitis, Hepatic Events [see Warnings and Precautions (5.8)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.15)]
-- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.16)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.17)]
+- Orthostatic Hypotension [see Warnings and Precautions (5.16)]
+- Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.17)]
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -104,7 +104,7 @@ Table 2: Adverse Events (≥ 5%) by Body System and Treatment Group in a 16-week
 The following adverse reactions have been identified during post approval use of buprenorphine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-The most frequently reported post-marketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
+The most frequently reported postmarketing adverse events with buprenorphine not observed in clinical trials, excluding drug exposure during pregnancy, was drug misuse or abuse.
 
 Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
