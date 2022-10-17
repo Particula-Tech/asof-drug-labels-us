@@ -16,7 +16,7 @@ Oxybutynin chloride extended-release tablets, USP also contains the following in
 The 5 mg tablets also contain D&C Red #27 and FD&C Blue #1.
 The 10 mg tablets also contain FD&C Red #40 and FD&C Yellow #6.
 
-Meets USP Dissolution Test 8.
+Meets USP Dissolution Test 7.
 
 System Components and Performance
 
