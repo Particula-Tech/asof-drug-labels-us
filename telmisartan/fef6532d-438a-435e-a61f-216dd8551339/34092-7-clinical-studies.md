@@ -24,10 +24,10 @@ There are no trials of telmisartan demonstrating reductions in cardiovascular ri
 ## 14.2 Cardiovascular Risk Reduction
 
 Support for use to reduce the risk of cardiovascular events was obtained in a pair of studies.
-Both enrolled subjects age ≥55 years, at high cardiovascular risk as evidenced by coronary artery disease (75%), diabetes mellitus (27%) accompanied with end-organ damage (e.g., retinopathy, left ventricular hypertrophy, and, in ONTARGET only, macro-or microalbuminuria), peripheral vascular disease (13%), or transient ischemic attack (4%).
+Both enrolled subjects age ≥55 years, at high cardiovascular risk as evidenced by coronary artery disease (75%), diabetes mellitus (27%) accompanied with end-organ damage (e.g., retinopathy, left ventricular hypertrophy, and, in ONTARGET only, macro- or microalbuminuria), stroke (16%), peripheral vascular disease (13%), or transient ischemic attack (4%).
 Patients without a history of intolerance to ACE inhibitors entered ONTARGET, and those with such a history, usually cough (90%), entered TRANSCEND, but patients with >1+ proteinuria on dipstick were excluded from TRANSCEND.
-For both ONTARGET and TRANSCEND trials, the primary 4-component composite endpoint was death from cardiovascular causes, myocardial infarction, and hospitalization for heart failure.
-The secondary 3-component composite endpoint was death from cardiovascular causes, and myocardial infarction.
+For both ONTARGET and TRANSCEND trials, the primary 4-component composite endpoint was death from cardiovascular causes, myocardial infarction, stroke, and hospitalization for heart failure.
+The secondary 3-component composite endpoint was death from cardiovascular causes, myocardial infarction, and stroke.
 
 ONTARGET was a randomized, active-controlled, multinational, double-blind study in 25,620 patients who were randomized to telmisartan 80 mg, ramipril 10 mg, or their combination.
 The population studied was 73% male, 74% Caucasian, 14% Asian, and 57% were 65 years of age or older.
@@ -50,10 +50,11 @@ Table 2 Incidence of the Primary and Secondary Outcomes from TRANSCEND
 |  | Telmisartan vs. Placebo (n=2954) (n=2972) |  |  |
 | --- | --- | --- | --- |
 | No. of Events Telmisartan / Placebo | Hazard Ratio 95% CI | p-value |  |
-| *Composite of CV death, myocardial infarction, or hospitalization for heart failure | 465 (15.7%) / 504 (17.0%) | 0.92 (0.81 to 1.05) | 0.2129 |
-| *Composite of CV death, or myocardial infarction | 384 (13.0%) / 440 (14.8%) | 0.87 (0.76 to 1.00) | 0.0483 |
+| *Composite of CV death, myocardial infarction, stroke, or hospitalization for heart failure | 465 (15.7%) / 504 (17.0%) | 0.92 (0.81 to 1.05) | 0.2129 |
+| *Composite of CV death, myocardial infarction, or stroke | 384 (13.0%) / 440 (14.8%) | 0.87 (0.76 to 1.00) | 0.0483 |
 | Individual components of the primary composite endpoint | No. of Events Telmisartan / Placebo | Hazard Ratio 95% CI | p-value |
 | **All non-fatal MI | 114 (3.9%) / 145 (4.9%) | 0.79 (0.62 to 1.01) | 0.0574 |
+| **All non-fatal strokes | 112 (3.8%) / 136 (4.6%) | 0.83 (0.64 to 1.06) | 0.1365 |
 
 *The primary endpoint was defined as the time to first event.
 In case of multiple simultaneous events, all individual events were considered; the sum of patients with individual outcomes may exceed the number of patients with composite (primary or secondary) outcomes.
@@ -66,12 +67,12 @@ Table 3 Incidence of the Primary and Secondary Outcomes from ONTARGET
 |  | Telmisartan vs. Ramipril (n=8542) (n=8576) |  |
 | --- | --- | --- |
 | No. of Events Telmisartan / Ramipril | Hazard Ratio 97.5% CI |  |
-| Composite of CV death, myocardial infarction, or hospitalization for heart failure | 1423 (16.7%) / 1412 (16.5%) | 1.01 (0.93 to 1.10) |
-| Composite of CV death, or myocardial infarction | 1190 (13.9%) / 1210 (14.1%) | 0.99 (0.90 to 1.08) |
+| Composite of CV death, myocardial infarction, stroke, or hospitalization for heart failure | 1423 (16.7%) / 1412 (16.5%) | 1.01 (0.93 to 1.10) |
+| Composite of CV death, myocardial infarction, or stroke | 1190 (13.9%) / 1210 (14.1%) | 0.99 (0.90 to 1.08) |
 
 Although the event rates in ONTARGET were similar on telmisartan and ramipril, the results did not unequivocally rule out that telmisartan may not preserve a meaningful fraction of the effect of ramipril in reducing cardiovascular events.
-However, the results of both ONTARGET and TRANSCEND do adequately support telmisartan being more effective than placebo would be in this setting, particularly for the endpoint of time to cardiovascular death, or myocardial infarction.
+However, the results of both ONTARGET and TRANSCEND do adequately support telmisartan being more effective than placebo would be in this setting, particularly for the endpoint of time to cardiovascular death, myocardial infarction, or stroke.
 
-In ONTARGET, there was no evidence that combining ramipril and telmisartan reduced the risk of death from cardiovascular causes, myocardial infarction, or hospitalization for heart failure greater than ramipril alone; instead, patients who received the combination of ramipril and telmisartan in ONTARGET experienced an increased incidence of clinically important renal dysfunction (e.g., acute renal failure) compared to patients receiving telmisartan or ramipril alone.
+In ONTARGET, there was no evidence that combining ramipril and telmisartan reduced the risk of death from cardiovascular causes, myocardial infarction, stroke, or hospitalization for heart failure greater than ramipril alone; instead, patients who received the combination of ramipril and telmisartan in ONTARGET experienced an increased incidence of clinically important renal dysfunction (e.g., acute renal failure) compared to patients receiving telmisartan or ramipril alone.
 
 Multiple sub-group analyses did not demonstrate any differences in the 4-component composite primary endpoint based on age, gender, or ethnicity for either ONTARGET or TRANSCEND trial.
