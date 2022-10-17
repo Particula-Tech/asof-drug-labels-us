@@ -51,7 +51,7 @@ No adverse functional, behavioral, or reproductive outcome was observed in offsp
 
 Linagliptin crosses the placenta into the fetus following oral dosing in pregnant rats and rabbits.
 
-Metformin HCl: Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits at up to 600 mg/kg/day during the period of organogenesis.
+Metformin HCl: Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits at doses up to 600 mg/kg/day during the period of organogenesis.
 This represents an exposure of approximately 2- and 6-times a clinical dose of 2000 mg, based on body surface area (mg/m2) for rats and rabbits, respectively.
 
 ## 8.2 Lactation
@@ -99,9 +99,7 @@ In these studies, volume depletion-related adverse reactions occurred in 2.1%, 2
 
 Linagliptin
 
-In the 15 linagliptin type 2 diabetes studies, 1085 linagliptin-treated patients were 65 years of age and older (including 131 linagliptin-treated patients 75 years of age and older).
-Of these 15 studies, 12 were double-blind placebo-controlled.
-In these 12 studies, 591 linagliptin-treated patients were 65 years of age and older (including 82 linagliptin-treated patients 75 years of age and older).
+In linagliptin studies, 1085 linagliptin-treated patients were 65 years of age and older and 131 patients were 75 years of age and older.
 In these linagliptin studies, no overall differences in safety or effectiveness of linagliptin were observed between geriatric patients and younger adult patients.
 
 Metformin
@@ -117,7 +115,7 @@ Empagliflozin
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
 The risks of renal impairment [see Warnings and Precautions (5.4)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
-Metformin HCl
+Metformin
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment [see Warnings and Precautions (5.1)].
 

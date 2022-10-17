@@ -94,20 +94,19 @@ Monitor for signs and symptoms of volume depletion, and renal function after ini
 
 ## 5.5 Urosepsis and Pyelonephritis
 
-There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
+There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
 ## 5.6 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
-The use of empagliflozin or linagliptin in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin was associated with a higher rate of hypoglycemia compared with placebo in a clinical trial.
-Metformin may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue.
+The risk of hypoglycemia is increased when TRIJARDY XR is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin.
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with TRIJARDY XR.
 
 ## 5.7 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
 Cases have been reported in both females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 
@@ -152,7 +151,7 @@ Consider DPP-4 inhibitors as a possible cause for severe joint pain and disconti
 
 ## 5.12 Bullous Pemphigoid
 
-Bullous pemphigoid was reported in 7 (0.2%) patients treated with linagliptin compared to none in patients treated with placebo in the CARMELINA trial [see Clinical Studies (14.3)], and 3 of these patients were hospitalized due to bullous pemphigoid.
+Bullous pemphigoid was reported in 7 (0.2%) patients treated with linagliptin compared to none in patients treated with placebo in the CARMELINA trial [see Clinical Studies (14)], and 3 of these patients were hospitalized due to bullous pemphigoid.
 Postmarketing cases of bullous pemphigoid requiring hospitalization have been reported with DPP-4 inhibitor use.
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving TRIJARDY XR.
