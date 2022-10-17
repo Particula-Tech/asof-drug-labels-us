@@ -11,13 +11,11 @@ CycloSPORINE Capsules USP MODIFIED
 WARNING: CycloSPORINE Capsules USP MODIFIED are NOT BIOEQUIVALENT to Sandimmune®
 
 (CycloSPORINE Capsules USP).
-DO NOT use interchangeably without physician’s supervision.
+DO NOT use interchangeably without a physician’s supervision.
 
 Rx only
 
 30 SOFT GELATIN CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -34,13 +32,11 @@ CycloSPORINE Capsules USP MODIFIED
 WARNING: CycloSPORINE Capsules USP MODIFIED are NOT BIOEQUIVALENT to Sandimmune®
 
 (CycloSPORINE Capsules USP).
-DO NOT use interchangeably without physician’s supervision.
+DO NOT use interchangeably without a physician’s supervision.
 
 Rx only
 
 30 SOFT GELATIN CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -55,13 +51,11 @@ CycloSPORINE Capsules USP MODIFIED
 WARNING: CycloSPORINE Capsules USP MODIFIED are NOT BIOEQUIVALENT to Sandimmune®
 
 (CycloSPORINE Capsules USP).
-DO NOT use interchangeably without physician’s supervision.
+DO NOT use interchangeably without a physician’s supervision.
 
 Rx only
 
 30 SOFT GELATIN CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -78,13 +72,11 @@ CycloSPORINE Capsules USP MODIFIED
 WARNING: CycloSPORINE Capsules USP MODIFIED are NOT BIOEQUIVALENT to Sandimmune®
 
 (CycloSPORINE Capsules USP).
-DO NOT use interchangeably without physician’s supervision.
+DO NOT use interchangeably without a physician’s supervision.
 
 Rx only
 
 30 SOFT GELATIN CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -99,13 +91,11 @@ CycloSPORINE Capsules USP MODIFIED
 WARNING: CycloSPORINE Capsules USP MODIFIED are NOT BIOEQUIVALENT to Sandimmune®
 
 (CycloSPORINE Capsules USP).
-DO NOT use interchangeably without physician’s supervision.
+DO NOT use interchangeably without a physician’s supervision.
 
 Rx only
 
 30 SOFT GELATIN CAPSULES
-
-TEVA
 
 # Package/Label Display Panel
 
@@ -122,10 +112,8 @@ CycloSPORINE Capsules USP MODIFIED
 WARNING: CycloSPORINE Capsules USP MODIFIED are NOT BIOEQUIVALENT to Sandimmune®
 
 (CycloSPORINE Capsules USP).
-DO NOT use interchangeably without physician’s supervision.
+DO NOT use interchangeably without a physician’s supervision.
 
 Rx only
 
 30 SOFT GELATIN CAPSULES
-
-TEVA
