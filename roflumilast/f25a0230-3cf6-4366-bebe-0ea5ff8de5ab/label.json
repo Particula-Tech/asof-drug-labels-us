@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208213"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-623-30",
+    "31722-623-31",
+    "31722-623-32",
+    "31722-623-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "Roflumilast"
+    }
+  ],
+  "setid": "f25a0230-3cf6-4366-bebe-0ea5ff8de5ab",
+  "source": "dailymed"
+}
