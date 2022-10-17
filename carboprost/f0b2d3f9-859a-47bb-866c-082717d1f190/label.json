@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214499"
+  ],
+  "inn": "carboprost",
+  "labeler": "Long Grove Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "81298-5010-1",
+    "81298-5010-3"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "carboprost tromethamine",
+      "name": "Carboprost Tromethamine"
+    }
+  ],
+  "setid": "f0b2d3f9-859a-47bb-866c-082717d1f190",
+  "source": "dailymed"
+}
