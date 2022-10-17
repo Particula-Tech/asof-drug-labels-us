@@ -45,7 +45,7 @@ In the rabbit, higher doses of empagliflozin resulted in maternal and fetal toxi
 In pre- and postnatal development studies in pregnant rats, empagliflozin was administered from gestation day 6 through to lactation day 20 (weaning) at up to 100 mg/kg/day (approximately 16-times the 25 mg maximum clinical dose) without maternal toxicity.
 Reduced body weight was observed in the offspring at greater than or equal to 30 mg/kg/day (approximately 4-times the 25 mg maximum clinical dose).
 
-Metformin hydrochloride: Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits at up to 600 mg/kg/day during the period of organogenesis.
+Metformin hydrochloride: Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits at doses up to 600 mg/kg/day during the period of organogenesis.
 This represents an exposure of approximately 2- and 6-times a clinical dose of 2000 mg, based on body surface area (mg/m2) for rats and rabbits, respectively.
 
 Empagliflozin and Metformin hydrochloride: No adverse developmental effects were observed when empagliflozin and metformin hydrochloride were coadministered to pregnant rats during the period of organogenesis at exposures of approximately 35- and 14-times the clinical AUC exposure of empagliflozin associated with the 10 mg and 25 mg doses, respectively, and 4-times the clinical AUC exposure of metformin associated with the 2000 mg dose.
@@ -81,14 +81,16 @@ Safety and effectiveness of SYNJARDY have not been established in pediatric pati
 
 ## 8.5 Geriatric Use
 
-Because renal function abnormalities can occur after initiating empagliflozin, metformin is substantially excreted by the kidney, and aging can be associated with reduced renal function, renal function should be assessed more frequently in elderly patients [see Dosage and Administration (2.1) and Warnings and Precautions (5.1, 5.3)].
+Assess renal function more frequently in SYNJARDY-treated geriatric patients because there is a greater risk of empagliflozin-associated intravascular volume contraction and symptomatic hypotension in geriatric patients and there is a greater risk of metformin-associated lactic acidosis in geriatric patients [see Warnings and Precautions (5.1, 5.3)].
+
+The recommended dosage for the metformin component of SYNJARDY in geriatric patients should usually start at the lower end of the dosage range.
 
 Empagliflozin
 
 In empagliflozin type 2 diabetes studies, 2721 empagliflozin-treated patients were 65 years of age and older and 491 patients were 75 years of age and older.
 In these studies, volume depletion-related adverse reactions occurred in 2.1%, 2.3%, and 4.4% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively; and urinary tract infections occurred in 10.5%, 15.7%, and 15.1% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively.
 
-Metformin hydrochloride
+Metformin
 
 Clinical studies of metformin did not include sufficient numbers of geriatric patients to determine whether they respond differently from younger adult patients.
 
@@ -101,7 +103,7 @@ Empagliflozin
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
 The risks of renal impairment [see Warnings and Precautions (5.2)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
-Metformin hydrochloride
+Metformin
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment [see Warnings and Precautions (5.1)].
 

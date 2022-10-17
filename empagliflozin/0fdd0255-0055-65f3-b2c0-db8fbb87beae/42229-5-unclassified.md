@@ -12,4 +12,6 @@ The other brands listed are trademarks of their respective owners and are not tr
 
 Copyright © 2022 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL8974DC162022 SPL8975C
+SPL8975F
+
+COL8974GJ072022

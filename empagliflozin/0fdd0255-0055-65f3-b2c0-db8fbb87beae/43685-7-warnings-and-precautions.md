@@ -83,20 +83,19 @@ Monitor for signs and symptoms of volume depletion, and renal function after ini
 
 ## 5.4 Urosepsis and Pyelonephritis
 
-There have been postmarketing reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
+There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
 Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
 ## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
-The risk of hypoglycemia is increased when empagliflozin is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
-Metformin may increase the risk of hypoglycemia when combined with insulin and/or an insulin secretagogue.
+The risk of hypoglycemia is increased when SYNJARDY is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
 Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with SYNJARDY.
 
 ## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in postmarketing surveillance in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
+Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
 Cases have been reported in both females and males.
 Serious outcomes have included hospitalization, multiple surgeries, and death.
 

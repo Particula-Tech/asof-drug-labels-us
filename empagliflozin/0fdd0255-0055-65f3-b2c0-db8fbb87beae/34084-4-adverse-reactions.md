@@ -110,12 +110,12 @@ Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Control
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL |  |  |  |
 | bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |  |
 | cTreated set (patients who had received at least one dose of study drug) |  |  |  |
-| dInsulin dose could not be adjusted during the initial 18 week treatment period |  |  |  |
+| dInsulin dose could not be adjusted during the initial 18-week treatment period |  |  |  |
 
 Genital Mycotic Infections
 
 In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with empagliflozin compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
-Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 or 25 mg.
+Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 mg or 25 mg.
 
 Genital mycotic infections occurred more frequently in female than male patients (see Table 2).
 
