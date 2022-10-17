@@ -75,7 +75,9 @@ Dose Adjustments for Hematologic Toxicities During MDS Treatment
 
 Patients who are dosed initially at 10 mg and who experience thrombocytopenia should have their dosage adjusted as follows:
 
-Platelet counts If thrombocytopenia develops WITHIN 4 weeks of starting treatment at 10 mg daily in MDS
+Platelet counts
+
+If thrombocytopenia develops WITHIN 4 weeks of starting treatment at 10 mg daily in MDS
 
 | If baseline is at least 100,000/mcL |  |
 | --- | --- |
@@ -92,13 +94,19 @@ If thrombocytopenia develops AFTER 4 weeks of starting treatment at 10 mg daily 
 | Fall below 30,000/mcL or below 50,000/mcL with platelet transfusions | Interrupt lenalidomide capsule treatment |
 | Return to at least 30,000/mcL (without hemostatic failure) | Resume lenalidomide capsule at 5 mg daily |
 
-Patients who experience thrombocytopenia at 5 mg daily should have their dosage adjusted as follows: If thrombocytopenia develops during treatment at 5 mg daily in MDS
+Patients who experience thrombocytopenia at 5 mg daily should have their dosage adjusted as follows:
+
+If thrombocytopenia develops during treatment at 5 mg daily in MDS
 
 | When Platelets | Recommended Course |
 | --- | --- |
 | Fall below 30,000/mcL or below 50,000/mcL with platelet transfusions Return to at least 30,000/mcL (without hemostatic failure) | Interrupt lenalidomide capsule treatment Resume lenalidomide capsule at 2.5 mg daily |
 
-Patients who are dosed initially at 10 mg and experience neutropenia should have their dosage adjusted as follows: Absolute Neutrophil counts (ANC) If neutropenia develops WITHIN 4 weeks of starting treatment at 10 mg daily in MDS
+Patients who are dosed initially at 10 mg and experience neutropenia should have their dosage adjusted as follows:
+
+Absolute Neutrophil counts (ANC)
+
+If neutropenia develops WITHIN 4 weeks of starting treatment at 10 mg daily in MDS
 
 | If baseline ANC is at least 1,000/mcL |  |
 | --- | --- |
@@ -112,7 +120,7 @@ If neutropenia develops AFTER 4 weeks of starting treatment at 10 mg daily in MD
 
 | When Neutrophils | Recommended Course |
 | --- | --- |
-| Fall below 500/mcL for at least 7 days or below 500/mcL associated with fever (at least 38.5°C) Return to at least 500/mcL | Interrupt lenalidomide capsule treatment Resume lenalidomide capsule at 2.5 mg daily |
+| Fall below 500/mcL for at least 7 days or below 500/mcL associated with fever (at least 38.5°C) Return to at least 500/mcL | Interrupt lenalidomide capsule treatment Resume lenalidomide capsule at 5mg daily |
 
 Patients who experience neutropenia at 5 mg daily should have their dosage adjusted as follows: If neutropenia develops during treatment at 5 mg daily in MDS
 
@@ -191,7 +199,7 @@ Table 3: Dose Adjustments for Patients with Renal Impairment
 | CLcr below 30 mL/min (not requiring dialysis) | 15 mg every other day | 5 mg once daily | 2.5 mg once daily |
 | CLcr below 30 mL/min (requiring dialysis) | 5 mg once daily. On dialysis days, administer the dose following dialysis. | 5 mg once daily. On dialysis days, administer the dose following dialysis | 2.5 mg once daily. On dialysis days, administer the dose following dialysis. |
 
-Lenalidomide Capsule Combination Therapy for MM: For CLcr of 30 to 60 mL/min, consider escalating the dose to 15 mg after 2 cycles if the patient tolerates the 10 mg dose of lenalidomide capsule without dose-limiting toxicity.
+Lenalidomide Combination Therapy for MM: For CLcr of 30 to 60 mL/min, consider escalating the dose to 15 mg after 2 cycles if the patient tolerates the 10 mg dose of lenalidomide without dose-limiting toxicity.
 Lenalidomide Capsule Maintenance Therapy Following Auto-HSCT for MM and for MCL and MDS: Base subsequent lenalidomide capsule dose increase or decrease on individual patient treatment tolerance [see Dosage and Administration (2.1- 2.3)].
 Lenalidomide Capsule Combination Therapy for FL or for MZL: For patients with CLcr of 30 to 60 mL/min, after 2 cycles, the lenalidomide capsule dose may be increased to 15 mg orally if the patient has tolerated therapy.
 

@@ -77,12 +77,11 @@ In controlled clinical trials that did not use concomitant thromboprophylaxis, 2
 The median time to first thrombosis event was 2.8 months.
 In the NDMM study in which nearly all patients received antithrombotic prophylaxis, the overall frequency of thrombotic events was 17.4% in patients in the combined Rd Continuous and Rd18 Arms, and was 11.6% in the MPT Arm.
 The median time to first thrombosis event was 4.3 months in the combined Rd Continuous and Rd18 Arms.
-In the AUGMENT trial, the incidence of VTE (including DVT and PE) in FL or MZL patients was 3.4% in the lenalidomide capsule/rituximab arm [see Adverse Reactions (6.1)].
-In the AUGMENT trial, the incidence of ATE (including MI) in FL or MZL patients was 0.6% in the lenalidomide capsule/rituximab arm [see Adverse Reactions (6.1)].
-Thromboprophylaxis is recommended.
-The regimen of thromboprophylaxis should be based on an assessment of the patient's underlying risks.
-Instruct patients to report immediately any signs and symptoms suggestive of thrombotic events.
-ESAs and estrogens may further increase the risk of thrombosis and their use should be based on a benefit-risk decision in patients receiving lenalidomide capsules [see Drug Interactions (7.2)].
+In the AUGMENT trial with FL or MZL patients receiving lenalidomide capsule/rituximab therapy, hematologic plus solid tumor SPMs, notably AML, have been observed.
+In the AUGMENT trial, hematologic SPM of AML occurred in 0.6% of patients with FL or MZL receiving lenalidomide capsule/rituximab therapy.
+The incidence of hematologic plus solid tumor SPMs (excluding nonmelanoma skin cancers) was 1.7% in the lenalidomide capsule/rituximab arm with a median follow-up of 29.8 months (range 0.5 to 51.3 months) [see Adverse Reactions (6.1)].
+Monitor patients for the development of second primary malignancies.
+Take into account both the potential benefit of lenalidomide capsule and the risk of second primary malignancies when considering treatment with lenalidomide capsule.
 
 ## 5.5 Increased Mortality in Patients with CLL
 

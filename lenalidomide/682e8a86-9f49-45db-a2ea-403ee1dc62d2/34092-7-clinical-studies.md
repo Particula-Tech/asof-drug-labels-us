@@ -345,29 +345,6 @@ AUGMENT is a randomized, double-blind, multicenter trial (n=358) in which patien
 AUGMENT included patients diagnosed with Grade 1, 2, or 3a follicular lymphoma, who received at least 1 prior systemic therapy, were refractory or relapsed, not rituximab-refractory, had at least one measurable nodal or extranodal lesion by CT or MRI scan, and had adequate bone marrow, liver, and renal function.
 Randomization was stratified by follicular versus marginal zone lymphoma, previous rituximab therapy, and time since other anti-lymphoma therapy.
 In AUGMENT, lenalidomide capsule was administered orally 20 mg once daily for Days 1 to 21 of repeating 28-day cycles for a maximum of 12 cycles or until unacceptable toxicity.
-The dose of rituximab was 375 mg/m2every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every 28-day cycle from Cycles 2 through 5.
-All dosage calculations for rituximab were based on the patient's body surface area (BSA), using actual patient weight.
-Dose adjustments for lenalidomide capsule were allowed based on clinical and laboratory findings.
-A patient with moderate renal insufficiency (≥30 to <60 mL/minute) received a lower lenalidomide capsule starting dose of 10 mg daily on the same schedule.
-After 2 cycles, the lenalidomide capsule dose could be increased to 15 mg once daily on Days 1 to 21 of each 28-day cycle if the patient tolerated the medication.
-
-MAGNIFY is an open-label, multicenter trial (n=232) in which patients with relapsed or refractory follicular, marginal zone, or mantle cell lymphoma received 12 induction cycles of lenalidomide capsule and rituximab.
-MAGNIFY included patients diagnosed with Grade 1, 2,3a, 3b follicular (including transformed), marginal zone, or mantle cell lymphoma Stage I to IV who were previously treated for their lymphoma, had been refractory or had a relapse after their last treatment, had at least one measurable nodal or extranodal lesion by CT or MRI scan, and had adequate bone marrow, liver, and renal function.
-Patients refractory to rituximab were also included.
-The information from the subjects who received at least 1 dose of initial therapy in the first 12 induction cycles (n=222) in the MAGNIFY trial was included in the evaluation of the efficacy of lenalidomide capsule/rituximab in patients with relapsed or refractory follicular and marginal zone lymphoma.
-In MAGNIFY, lenalidomide capsule 20 mg was given on Days 1-21 of repeated 28-day cycles for up to 12 cycles or until unacceptable toxicity, progression, or withdrawal of consent.
-The dose of rituximab was 375 mg/m2every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every other 28-day cycle (Cycles 3,5,7,9, and 11) up to 12 cycles therapy.
-All dosage calculations for rituximab were based on the patient BSA and actual weight.
-Dose adjustments were allowed based on clinical and laboratory findings.
-
-The demographic and disease-related baseline characteristics in the AUGMENT and MAGNIFY trials are shown in the following table.
-
-The efficacy of lenalidomide capsule with rituximab in patients with relapsed or refractory follicular and marginal zone lymphoma was evaluated in the AUGMENT (NCT01938001) and MAGNIFY (NCT01996865) trials.
-
-AUGMENT is a randomized, double-blind, multicenter trial (n=358) in which patients with relapsed or refractory follicular or marginal zone lymphoma were randomized 1:1 to receive lenalidomide capsule and rituximab or rituximab and placebo.
-AUGMENT included patients diagnosed with Grade 1, 2, or 3a follicular lymphoma, who received at least 1 prior systemic therapy, were refractory or relapsed, not rituximab-refractory, had at least one measurable nodal or extranodal lesion by CT or MRI scan, and had adequate bone marrow, liver, and renal function.
-Randomization was stratified by follicular versus marginal zone lymphoma, previous rituximab therapy, and time since other anti-lymphoma therapy.
-In AUGMENT, lenalidomide capsule was administered orally 20 mg once daily for Days 1 to 21 of repeating 28-day cycles for a maximum of 12 cycles or until unacceptable toxicity.
 The dose of rituximab was 375 mg/m2 every week in Cycle 1 (Days 1, 8, 15, and 22) and on Day 1 of every 28-day cycle from Cycles 2 through 5.
 All dosage calculations for rituximab were based on the patient's body surface area (BSA), using actual patient weight.
 Dose adjustments for lenalidomide capsule were allowed based on clinical and laboratory findings.
@@ -437,7 +414,7 @@ Table 21: Baseline Demographics and Disease-Related Characteristics of Patients 
 In AUGMENT, efficacy was established in the intent-to-treat (ITT) population based on progression-free survival by Independent Review Committee using modified 2007 International Working Group response criteria.
 Efficacy results are summarized in Table 22.
 
-Table 22: Efficacy Results for Patients in the AUGMENT Trial (ITT FL and MZL Population) $EndTableFooter
+Table 22: Efficacy Results for Patients in the AUGMENT Trial (ITT FL and MZL Population)
 
 | Parameter | Lenalidomide Capsule + Rituximab (N=178) | Rituximab + Placebo (N=180) |
 | --- | --- | --- |
@@ -449,6 +426,10 @@ Table 22: Efficacy Results for Patients in the AUGMENT Trial (ITT FL and MZL Pop
 | HR b [95% CI] | 0.46 [0.34, 0.62] |  |
 | p-value c | <0.0001 |  |
 | Objective response (CR+PR), n(%) [95% CI] d | 138 (77.5) [70.7, 83.4] | 96 (53.3) [45.8, 60.8] |
+| a Median estimate is from Kaplan-Meier analysis. |  |  |
+| b hazard ratio and its CI were estimated from Cox proportional hazard model adjusting for the stratification 3: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). |  |  |
+| c p-value from log-rank test stratified by 3 factors noted above: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). |  |  |
+| d Exact confidence interval for binomial distribution. |  |  |
 
 Kaplan-Meier Curves of Progression-free Survival by IRC Assessment Between Arms in AUGMENT Trial (ITT FL and MZL Population)
 

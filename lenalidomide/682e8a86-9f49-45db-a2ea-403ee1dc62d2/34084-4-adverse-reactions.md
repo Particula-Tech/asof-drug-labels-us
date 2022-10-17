@@ -38,6 +38,8 @@ In the Rd Continuous arm, the most common adverse reactions leading to discontin
 In both Rd arms, the frequencies of onset of adverse reactions were generally highest in the first 6 months of treatment and then the frequencies decreased over time or remained stable throughout treatment, except for cataracts.
 The frequency of onset of cataracts increased over time with 0.7% during the first 6 months and up to 9.6% by the 2nd year of treatment with Rd Continuous.
 
+Table 4 summarizes the adverse reactions reported for the Rd Continuous, Rd18, and MPT treatment arms.
+
 Table 4: All Adverse Reactions in ≥5% and Grade 3/4 Adverse Reactions in ≥1% of Patients with MM in the Rd Continuous or Rd18 Arms*
 
 | Body System Adverse Reaction | All Adverse Reactionsa |  |  | Grade 3/4 Adverse Reactionsb |  |  |
@@ -160,6 +162,8 @@ The most common adverse reactions leading to discontinuation of lenalidomide cap
 The frequencies of onset of adverse reactions were generally highest in the first 6 months of treatment and then the frequencies decreased over time or remained stable throughout treatment.
 
 Table 5 summarizes the adverse reactions reported for the lenalidomide capsule and placebo maintenance treatment arms.
+
+Table 5: All Adverse Reactions in ≥5% and Grade 3/4 Adverse Reactions in ≥1% of Patients with MM in the Lenalidomide Capsule Vs Placebo Arms*
 
 | Body System Adverse Reaction | Maintenance Study 1 |  |  |  | Maintenance Study 2 |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -390,7 +394,6 @@ Table 8: Serious Adverse Reactions Reported in ≥1% Patients and with a ≥1% D
 | For Tables 6, 7 and 8 above: |  |  |
 | @ - adverse reactions in which at least one resulted in a fatal outcome |  |  |
 | % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases) |  |  |
-| Median duration of exposure among patients treated with lenalidomide/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks. This should be taken into consideration when comparing frequency of adverse reactions between two treatment groups lenalidomide/dexamethasone vs. placebo/dexamethasone. |  |  |
 
 Median duration of exposure among patients treated with lenalidomide/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks.
 This should be taken into consideration when comparing frequency of adverse reactions between two treatment groups lenalidomide/dexamethasone vs. placebo/dexamethasone.
