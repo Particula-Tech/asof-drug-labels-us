@@ -23,7 +23,7 @@ Emcure Pharmaceuticals Ltd.,
 
 Sanand, Ahmedabad – 382110, India.
 
-Distributed by:
+Manufactured for:
 
 Avet Pharmaceuticals Inc.
 
@@ -31,4 +31,4 @@ East Brunswick, NJ 08816
 
 1.866.901.DRUG (3784)
 
-Revised: 11/2019
+Revised: 12/2021
