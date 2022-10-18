@@ -3,7 +3,7 @@
 ## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
 
 Olmesartan medoxomil was not carcinogenic when administered by dietary administration to rats for up to 2 years.
-The highest dose tested (2000 mg/kg/day) was, on a mg/m2 basis, about 480 times the maximum recommended human dose (MRHD) of 40 mg/day.
+The highest dose tested (2000 mg/kg/day) was, on a mg/m 2 basis, about 480 times the maximum recommended human dose (MRHD) of 40 mg/day.
 Two carcinogenicity studies conducted in mice, a 6-month gavage study in the p53 knockout mouse and a 6-month dietary administration study in the Hras2 transgenic mouse, at doses of up to 1000 mg/kg/day (about 120 times the MRHD), revealed no evidence of a carcinogenic effect of olmesartan medoxomil.
 Both olmesartan medoxomil and olmesartan tested negative in the in vitro Syrian hamster embryo cell transformation assay and showed no evidence of genetic toxicity in the Ames (bacterial mutagenicity) test.
 However, both were shown to induce chromosomal aberrations in cultured cells in vitro (Chinese hamster lung) and tested positive for thymidine kinase mutations in the in vitro mouse lymphoma assay.

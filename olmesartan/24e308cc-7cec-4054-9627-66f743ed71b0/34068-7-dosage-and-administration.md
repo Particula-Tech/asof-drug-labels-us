@@ -20,6 +20,6 @@ Follow the suspension preparation instructions below to administer olmesartan me
 Preparation of Suspension (for 200 mL of a 2 mg/mL suspension) Add 50 mL of Purified Water to an amber polyethylene terephthalate (PET) bottle containing twenty olmesartan medoxomil 20 mg tablets and allow to stand for a minimum of 5 minutes.
 Shake the container for at least 1 minute and allow the suspension to stand for at least 1 minute.
 Repeat 1-minute shaking and 1-minute standing for four additional times.
-Add 100 mL of ORA-Sweet®* and 50 mL of ORA-Plus®* to the suspension and shake well for at least 1 minute.
+Add 100 mL of ORA-Sweet ®* and 50 mL of ORA-Plus ®* to the suspension and shake well for at least 1 minute.
 The suspension should be refrigerated at 2-8°C (36-46°F) and can be stored for up to 4 weeks.
-Shake the suspension well before each use and return promptly to the refrigerator. *ORA-Sweet® and ORA-Plus® are registered trademarks of Paddock Laboratories, Inc.
+Shake the suspension well before each use and return promptly to the refrigerator. *ORA-Sweet ® and ORA-Plus ® are registered trademarks of Paddock Laboratories, Inc.
