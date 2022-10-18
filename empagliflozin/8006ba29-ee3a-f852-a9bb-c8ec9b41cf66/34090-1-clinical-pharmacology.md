@@ -8,8 +8,7 @@ SYNJARDY XR contains: empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) i
 
 Empagliflozin
 
-Sodium-glucose co-transporter 2 (SGLT2) is the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
-Empagliflozin is an inhibitor of SGLT2.
+Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2), the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Metformin HCl
@@ -74,7 +73,7 @@ In vitro studies suggested that the primary route of metabolism of empagliflozin
 Excretion: Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
 The majority of drug-related radioactivity recovered in feces was unchanged parent drug and approximately half of drug-related radioactivity excreted in urine was unchanged parent drug.
 
-Metformin hydrochloride
+Metformin
 
 Absorption
 
@@ -106,13 +105,13 @@ Renal Impairment
 
 SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY XR in renally impaired patients have not been performed.
 
-Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients with kidney failure/end stage renal disease (ESRD), AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
-Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and kidney failure/ESRD compared to subjects with normal renal function.
+Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients on dialysis due to kidney failure, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
+Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and patients on dialysis due to kidney failure compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were roughly 20% higher in patients with mild and severe renal impairment as compared to subjects with normal renal function.
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
-Metformin hydrochloride: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
+Metformin: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Hepatic Impairment
 
