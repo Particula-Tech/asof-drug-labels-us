@@ -1,5 +1,7 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Robinul® (glycopyrrolate, 1 mg) tablets are supplied as: Bottles of 30 NDC 70199-007-30 Bottles of 90 NDC 70199-007-90 Robinul® Forte (glycopyrrolate, 2 mg) tablets are supplied as: Bottles of 30 NDC 70199-008-30 Bottles of 90 NDC 70199-008-90 Store at controlled room temperature, 20°C to 25°C (68°F to 77°F); excursions permitted to 15°- 30°C (59°- 86°F) [see USP Controlled Room Temperature].
+ROBINUL (glycopyrrolate) tablets, 1 mg are white, round, flat-faced, beveled-edge tablet, debossed “CS” and “007” on one side and functionally scored on the other side.
+Available as • Bottles of 30 NDC 70199-007-30 • Bottles of 90 NDC 70199-007-90 ROBINUL FORTE (glycopyrrolate) tablets, 2 mg are white, round, flat-faced, beveled-edge tablet, debossed “CS” score “008” on one side and plain on the other side.
+Available as • Bottles of 30 NDC 70199-008-30 • Bottles of 90 NDC 70199-008-90 Store at controlled room temperature, 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Keep out of reach of children.
-Dispense in tight container. ℞ only PIB00890-02 Manufactured for: Casper Pharma LLC East Brunswick, NJ 08816 Manufactured by: Suven Pharmaceuticals Limited, Telangana, India M.L.No.: 24/MD/AP/2009/F/CC Revised: 06/2021.
+Dispense in a tight container.
