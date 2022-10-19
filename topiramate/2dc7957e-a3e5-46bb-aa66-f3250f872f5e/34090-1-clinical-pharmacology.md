@@ -105,13 +105,13 @@ The same drug interactions can be expected with the use of TROKENDI XR ®.
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 8.
+The effects of these interactions on mean plasma AUCs are summarized in Table 9.
 Interaction of TROKENDI XR ® and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 8, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
+In Table 9, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
 
-Table 8: Summary of AED Interactions with Topiramate
+Table 9: Summary of AED Interactions with Topiramate
 
 | AED Coadministered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |

@@ -102,7 +102,7 @@ Women of childbearing potential who are not planning a pregnancy should use effe
 
 Seizures in Pediatric Patients 6 Years of Age and Older
 
-The safety and effectiveness of TROKENDI XR ® for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients at least 6 years of age is based on controlled trials with immediate-release topiramate [see Clinical Studies (14.2, 14.3)].
+The safety and effectiveness of TROKENDI XR ® for treatment of partial onset seizures, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndromes in pediatric patients at least 6 years of age is based on controlled trials with immediate-release topiramate [see Adverse Reactions (6.1), Clinical Studies (14.2, 14.3)].
 
 The adverse reactions in pediatric patients treated for partial onset seizure, primary generalized tonic-clonic seizures, or Lennox-Gastaut syndrome are similar to those seen in adults [see Warnings and Precautions (5) and Adverse Reactions (6)].
 
@@ -110,7 +110,7 @@ These include, but are not limited to:
 
 - oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)]
 - dose-related increased incidence of metabolic acidosis [see Warnings and Precautions (5.4)]
-- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.11)]
+- dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.13)]
 
 Not Recommended for Pediatric Patients Younger than 6 Years of Age
 
@@ -140,7 +140,7 @@ The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day,
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
-Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.11)].
+Topiramate produced a dose-related increased incidence of hyperammonemia [see Warnings and Precautions (5.13)].
 
 Treatment with immediate-release topiramate for up to 1 year was associated with reductions in Z SCORES for length, weight, and head circumference [see Warnings and Precautions (5.4) and Adverse Reactions (6)].
 
@@ -154,6 +154,35 @@ It is not possible to know whether this mortality rate is related to immediate-r
 Other Pediatric Studies
 
 Topiramate treatment produced a dose-related increased shift in serum creatinine from normal at baseline to an increased value at the end of 4 months treatment in adolescent patients (ages 12 years to 16 years) in a double-blind, placebo-controlled study [see Adverse Reactions (6.1)].
+
+A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of immediate-release topiramate (N=28, 6-15 years of age) versus levetiracetam (N=35, 4-15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
+Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
+Table 8 summarizes effects of immediate-release topiramate at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
+All Least Square Mean values for immediate-release topiramate and the comparator were positive.
+Therefore, the Least Square Mean treatment differences shown reflect an immediate-release topiramate-induced attenuation of the key safety outcomes.
+Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.
+Subgroup analyses according to age demonstrated similar negative effects for all key safety outcomes (i.e., BMD, height, weight).
+
+Table 8 Summary of Immediate-release Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
+
+| Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |  |  |
+| --- | --- | --- | --- |
+| Annual Change in BMD Lumbar Spine (g/cm 2) |  | -0.036 | (-0.058, -0.014) |
+| Annual Change in BMD TBLH TBLH=total body less head (g/cm 2) |  | -0.026 | (-0.039, -0.012) |
+| Annual Change in Height (cm) (4-9 years, Primary Analysis Population for Height) Whereas no patients were randomized to 2-5 year age subgroup for immediate-release topiramate, 5 patients (4-5 years) were randomized to the active control group. |  | -0.84 | (-2.67, 0.99) |
+| Annual Change in Height (cm) (4-15 years) |  | -0.75 | (-2.21, 0.71) |
+| Annual Change in Height (cm) (10-15 years) |  | -1.01 | (-3.64, 1.61) |
+| Height Velocity (cm/year) (4-9 years) |  | -1.00 | (-2.76, 0.76) |
+| Height Velocity (cm/year) (4-15 years) |  | -0.98 | (-2.33, 0.37) |
+| Height Velocity (cm/year) (10-15 years) |  | -0.96 | (-3.24, 1.32) |
+| Annual Change in Weight (kg) |  | -2.05 | (-3.66, -0.45) |
+
+Metabolic acidosis (serum bicarbonate <20 mEq/L) was observed in all immediate-release topiramate-treated patients at some time in the study [see Warnings and Precautions (5.4)].
+Over the whole study, 76% more immediate-release topiramate-treated patients experienced persistent metabolic acidosis (i.e., 2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam-treated patients.
+Over the whole study, 35% more immediate-release topiramate-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value <17 mEq/L and ≥ 5mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam-treated patients.
+The decrease in BMD at 12 months was correlated with decreased serum bicarbonate, suggesting that metabolic acidosis was at least a partial factor contributing to this adverse effect on BMD.
+
+Immediate-release topiramate-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
 
 Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age
 
@@ -171,7 +200,7 @@ The most common cognitive adverse reaction in pooled double-blind studies in ped
 Markedly abnormally low serum bicarbonate values indicative of metabolic acidosis were reported in topiramate-treated pediatric migraine patients [see Warnings and Precautions (5.4)].
 
 In topiramate-treated pediatric patients (12 to 17 years of age) compared to placebo-treated patients, abnormally increased results were more frequent for creatinine, BUN, uric acid, chloride, ammonia, total protein, and platelets.
-Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
+Abnormally decreased results were observed with topiramate vs placebo treatment for phosphorus and bicarbonate [see Adverse Reactions (6.1)].
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse that were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 

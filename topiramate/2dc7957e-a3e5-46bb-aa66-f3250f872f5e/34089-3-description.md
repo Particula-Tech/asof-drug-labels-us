@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Topiramate, USP, is a sulfamate-substituted monosaccharide.
-TROKENDI XR ® (topiramate) extended-release capsules are available as 25 mg, 50 mg, 100 mg and 200 mg capsules for oral administration.
+TROKENDI XR ® (topiramate) extended-release capsules are available as 25 mg, 50 mg, 100 mg, and 200 mg capsules for oral administration.
 
 Topiramate is a white to off-white powder.
 Topiramate is freely soluble in polar organic solvents such as acetonitrile and acetone; and very slightly soluble to practically insoluble in non-polar organic solvents such as hexanes.

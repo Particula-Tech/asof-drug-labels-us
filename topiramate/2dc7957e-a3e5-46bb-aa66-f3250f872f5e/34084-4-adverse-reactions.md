@@ -6,20 +6,24 @@ The following serious adverse reactions are discussed in more detail in other se
 - Visual Field Defects [see Warnings and Precautions 5.2]
 - Oligohydrosis and Hyperthermia [see Warnings and Precautions (5.3)]
 - Metabolic Acidosis [see Warnings and Precautions (5.4)]
+- Interaction With Alcohol [see Warnings and Precautions (5.5)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.7)]
+- Fetal Toxicity [see Warnings and Precautions (5.8)]
 - Withdrawal of Antiepileptic Drugs [see Warnings and Precautions (5.9)]
-- Serious Skin Reactions [see Warnings and Precautions (5.10)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use) [see Warnings and Precautions (5.11)]
-- Kidney Stones [see Warnings and Precautions (5.12)]
-- Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.13)]
+- Decrease of Bone Mineral Density [see Warnings and Precautions (5.10)]
+- Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.11)]
+- Serious Skin Reactions [see Warnings and Precautions (5.12)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use) [see Warnings and Precautions (5.13)]
+- Kidney Stones [see Warnings and Precautions (5.14)]
+- Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.15)]
 
 The data described in the following sections were obtained using immediate-release topiramate tablets.
 TROKENDI XR ® has not been studied in a randomized, placebo-controlled Phase III clinical study; however, it is expected that TROKENDI XR ® would produce a similar adverse reaction profile as immediate-release topiramate.
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Monotherapy Epilepsy
 
@@ -124,7 +128,7 @@ The most common adverse reactions in the controlled clinical trial that occurred
 Table 4 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended topiramate dosing (i.e., 600 to 1000 mg/day) compared to the incidence of these adverse reactions at the recommended dosing (200 to 400 mg/day) range.
 
-Table 4: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adults Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given reaction.
+Table 4: Most Common Adverse Reactions in Pooled Placebo- Controlled, Adjunctive Epilepsy Trials in Adults Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo,Values represent the percentage of patients reporting a given reaction.
 Patient may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category.
 
 | Adverse Reaction | (N=291) % | (N=183) % |
@@ -318,7 +322,7 @@ In five randomized, double-blind, placebo-controlled, parallel group clinical tr
 Among adverse reactions with onset during titration, approximately half persisted into the maintenance period.
 
 In four, fixed-dose, double-blind clinical trials for the preventive treatment of migraine in pediatric patients 12 to 17 years of age, the most common adverse reactions with immediate-release topiramate 100 mg that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 7).
-Table 7 shows adverse reactions from the pediatric trial (Study 13 [see Clinical Studies (14.4)]) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of immediate-release topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg or 200 mg of immediate-release topiramate [see Clinical Studies (14.4)].
+Table 7 shows adverse reactions from the pediatric trial (Study 13 [see Clinical Studies (14.4)]) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of immediate-release topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg, or 200 mg of immediate-release topiramate [see Clinical Studies (14.4)].
 Table 7 also shows adverse reactions in pediatric patients in controlled migraine trials when the incidence in an immediate-release topiramate dose group was at least 5% or higher and greater than the incidence of placebo.
 Many adverse reactions shown in Table 7 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended immediate-release topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
@@ -375,7 +379,7 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride, and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.11)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride, and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.13)].
 Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4% topiramate versus 0.1% placebo).
 
 Pediatric Patients
@@ -393,13 +397,13 @@ TROKENDI XR ® is not indicated for the preventive treatment of migraine in pedi
 The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.11)], hypothermia with concomitant valproic acid [see Warnings and Precautions 5.13)].
+Body as a Whole-General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.13)], hypothermia with concomitant valproic acid [see Warnings and Precautions 5.15)].
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.10)], pemphigus
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.12)], pemphigus
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.12)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.14)]
 
 Vision disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 

@@ -7,13 +7,13 @@ Adults and Pediatric Patients 10 Years of Age and Older with Partial Onset or Pr
 The recommended dose for TROKENDI XR monotherapy in adults and in pediatric patients 10 years of age and older is 400 mg orally once daily.
 Titrate TROKENDI XR ® according to the following schedule:
 
-| Week 1: | 50 mg once daily |
-| --- | --- |
-| Week 2: | 100 mg once daily |
-| Week 3: | 150 mg once daily |
-| Week 4: | 200 mg once daily |
-| Week 5: | 300 mg once daily |
-| Week 6: | 400 mg once daily |
+|  | Week 1: | 50 mg once daily |
+| --- | --- | --- |
+|  | Week 2: | 100 mg once daily |
+|  | Week 3: | 150 mg once daily |
+|  | Week 4: | 200 mg once daily |
+|  | Week 5: | 300 mg once daily |
+|  | Week 6: | 400 mg once daily |
 
 Pediatric Patients Ages 6 to 9 Years of Age
 
@@ -57,11 +57,11 @@ The total daily dose should not exceed 400 mg/day.
 The recommended total daily dose of TROKENDI XR ® as treatment for the preventive treatment of migraine in patients 12 years of age and older is 100 mg once daily.
 Titrate TROKENDI XR ® for the preventive treatment of migraine according to the following schedule:
 
-| Week 1: | 25mg once daily |
-| --- | --- |
-| Week 2: | 50mg once daily |
-| Week 3: | 75mg once daily |
-| Week 4: | 100mg once daily |
+|  | Week 1: | 25mg once daily |
+| --- | --- | --- |
+|  | Week 2: | 50mg once daily |
+|  | Week 3: | 75mg once daily |
+|  | Week 4: | 100mg once daily |
 
 Dose and titration rate should be guided by clinical outcome.
 If required, longer intervals between dose adjustments can be used.

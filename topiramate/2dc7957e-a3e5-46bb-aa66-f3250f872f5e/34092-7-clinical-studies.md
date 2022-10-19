@@ -48,7 +48,7 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In Study 7, the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12-week stabilization period.
-The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 9.
+The numbers of patients randomized to each dose, and the actual mean and median doses in the stabilization period are shown in Table 10.
 
 Pediatric Patients 6 to 16 Years of Age With Partial-Onset Seizures
 
@@ -64,7 +64,7 @@ After titration, patients entered an 8-week stabilization period.
 
 Patients With Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo (see Table 10).
+The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo (see Table 11).
 
 Patients in Study 9 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -76,7 +76,7 @@ After titration, patients entered a 12-week stabilization period.
 
 Patients With Lennox-Gastaut Syndrome
 
-The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10), comparing a single dosage of topiramate with placebo (see Table 10).
+The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in patients 6 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10), comparing a single dosage of topiramate with placebo (see Table 11).
 
 Patients in Study 10 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4 week baseline phase.
@@ -85,7 +85,7 @@ Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then 
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 9: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults With Partial-Onset Seizures Dose-response studies were not conducted for other indications or pediatric partial-onset seizures
+Table 10: Immediate Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults With Partial-Onset Seizures Dose-response studies were not conducted for other indications or pediatric partial-onset seizures
 
 | Study | Stabilization Dose | Placebo Placebo dosages are given as the number of tablets. Placebo target dosages were as follows: Study 4 (4 tablets/day); Studies 2 and 5 (6 tablets/day); Studies 6 and 7 (8 tablets/day); Study 3 (10 tablets/day) | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -110,10 +110,10 @@ Table 9: Immediate Release Topiramate Dose Summary During the Stabilization Peri
 | Median Dose | 8 | 200 | -- | -- | -- | -- |  |
 
 In all adjunctive topiramate trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 10.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 11.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 10: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
+Table 11: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
 | Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6mg/kg/day For Studies 8 and 9, specified target dosages (<9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6mg/kg per day; these dosages corresponded to mg/day dosages of 125, 175, 225, and 400 mg/day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -206,13 +206,13 @@ Approximately 80% or more patients in each treatment group completed the study.
 The median average daily dosages were 45 and 79 mg/day in the target dose groups of immediate-release topiramate 50 and 100 mg/day, respectively.
 
 Effectiveness of treatment was assessed by comparing each immediate-release topiramate treatment group to placebo (ITT population) for the percent reduction from baseline to the last 12 weeks of the double-blind phase in the monthly migraine attack rate (primary endpoint).
-The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 11.
+The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 12.
 The 100 mg immediate-release topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
 The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3.0 for 100 mg immediate-release topiramate dose and 1.7 for placebo.
 This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p=0.0087).
 
-Table 11: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
+Table 12: Percent Reduction from Baseline to the Last 12 Weeks of Double- Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
 
 | Category | Placebo (N=33) | Immediate-Release Topiramate 50 mg/day (N=35) | Immediate-Release Topiramate 100 mg/day (N=35) |
 | --- | --- | --- | --- |
