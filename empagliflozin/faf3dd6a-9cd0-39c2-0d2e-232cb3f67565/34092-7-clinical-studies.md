@@ -13,7 +13,7 @@ Monotherapy
 A total of 986 patients with type 2 diabetes participated in a double-blind, placebo-controlled study to evaluate the efficacy and safety of JARDIANCE monotherapy.
 
 Treatment-naïve patients with inadequately controlled type 2 diabetes entered an open-label placebo run-in for 2 weeks.
-At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7 and 10% were randomized to placebo, JARDIANCE 10 mg, JARDIANCE 25 mg, or a reference comparator.
+At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10% were randomized to placebo, JARDIANCE 10 mg, JARDIANCE 25 mg, or a reference comparator.
 
 At Week 24, treatment with JARDIANCE 10 mg or 25 mg daily provided statistically significant reductions in HbA1c (p-value <0.0001), fasting plasma glucose (FPG), and body weight compared with placebo (see Table 4 and Figure 3).
 
@@ -34,7 +34,7 @@ Table 4 Results at Week 24 From a Placebo-Controlled Monotherapy Study of JARDIA
 | Baseline (mean) in kg | 78 | 78 | 78 |
 | % change from baseline (adjusted mean) | -2.8 | -3.2 | -0.4 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.5b (-3.1, -1.9) | -2.8b (-3.4, -2.2) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 9.4%, 9.4%, and 30.7% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA derived p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=223, for JARDIANCE 25 mg, n=223, and for placebo, n=226 |  |  |  |
+| aModified intent-to-treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 9.4%, 9.4%, and 30.7% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA derived p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=223, for JARDIANCE 25 mg, n=223, and for placebo, n=226 |  |  |  |
 
 At Week 24, the systolic blood pressure was statistically significantly reduced compared to placebo by -2.6 mmHg (placebo-adjusted, p-value=0.0231) in patients randomized to 10 mg of JARDIANCE and by -3.4 mmHg (placebo-corrected, p-value=0.0028) in patients randomized to 25 mg of JARDIANCE.
 
@@ -42,8 +42,8 @@ Add-On Combination Therapy with Metformin
 
 A total of 637 patients with type 2 diabetes participated in a double-blind, placebo-controlled study to evaluate the efficacy and safety of JARDIANCE in combination with metformin.
 
-Patients with type 2 diabetes inadequately controlled on at least 1500 mg of metformin per day entered an open-label 2 week placebo run-in.
-At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7 and 10% were randomized to placebo, JARDIANCE 10 mg, or JARDIANCE 25 mg.
+Patients with type 2 diabetes inadequately controlled on at least 1500 mg of metformin per day entered an open-label 2-week placebo run-in.
+At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10% were randomized to placebo, JARDIANCE 10 mg, or JARDIANCE 25 mg.
 
 At Week 24, treatment with JARDIANCE 10 mg or 25 mg daily provided statistically significant reductions in HbA1c (p-value <0.0001), FPG, and body weight compared with placebo (see Table 5).
 
@@ -64,7 +64,7 @@ Table 5 Results at Week 24 From a Placebo-Controlled Study for JARDIANCE used in
 | Baseline mean in kg | 82 | 82 | 80 |
 | % change from baseline (adjusted mean) | -2.5 | -2.9 | -0.5 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.0b (-2.6, -1.4) | -2.5b (-3.1, -1.9) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 9.7%, 14.1%, and 24.6% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=216, for JARDIANCE 25 mg, n=213, and for placebo, n=207 |  |  |  |
+| aModified intent-to-treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 9.7%, 14.1%, and 24.6% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=216, for JARDIANCE 25 mg, n=213, and for placebo, n=207 |  |  |  |
 
 At Week 24, the systolic blood pressure was statistically significantly reduced compared to placebo by -4.1 mmHg (placebo-corrected, p-value <0.0001) for JARDIANCE 10 mg and -4.8 mmHg (placebo-corrected, p-value <0.0001) for JARDIANCE 25 mg.
 
@@ -73,7 +73,7 @@ Initial Combination Therapy with Metformin
 A total of 1364 patients with type 2 diabetes participated in a double-blind, randomized, active-controlled study to evaluate the efficacy and safety of JARDIANCE in combination with metformin as initial therapy compared to the corresponding individual components.
 
 Treatment-naïve patients with inadequately controlled type 2 diabetes entered an open-label placebo run-in for 2 weeks.
-At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7 and 10.5% were randomized to one of 8 active-treatment arms: JARDIANCE 10 mg or 25 mg; metformin 1000 mg, or 2000 mg; JARDIANCE 10 mg in combination with 1000 mg or 2000 mg metformin; or JARDIANCE 25 mg in combination with 1000 mg or 2000 mg metformin.
+At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10.5% were randomized to one of 8 active-treatment arms: JARDIANCE 10 mg or 25 mg; metformin 1000 mg, or 2000 mg; JARDIANCE 10 mg in combination with 1000 mg or 2000 mg metformin; or JARDIANCE 25 mg in combination with 1000 mg or 2000 mg metformin.
 
 At Week 24, initial therapy of JARDIANCE in combination with metformin provided statistically significant reductions in HbA1c (p-value <0.01) compared to the individual components (see Table 6).
 
@@ -86,7 +86,7 @@ Table 6 Glycemic Parameters at 24 Weeks in a Study Comparing JARDIANCE and Metfo
 | Change from baseline (adjusted mean) | -2.0 | -2.1 | -1.9 | -2.1 | -1.4 | -1.4 | -1.2 | -1.8 |
 | Comparison vs JARDIANCE (adjusted mean) (95% CI) | -0.6b (-0.9, -0.4) | -0.7b (-1.0, -0.5) | -0.6c (-0.8, -0.3) | -0.7c (-1.0, -0.5) | -- | -- | -- | -- |
 | Comparison vs metformin (adjusted mean) (95% CI) | -0.8b (-1.0, -0.6) | -0.3b (-0.6, -0.1) | -0.8c (-1.0, -0.5) | -0.3c (-0.6, -0.1) | -- | -- | -- | -- |
-| aMetformin total daily dose, administered in two equally divided doses per day. bp-value ≤0.0062 (modified intent to treat population [observed case] MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c). cp-value ≤0.0056 (modified intent to treat population [observed case] MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c). |  |  |  |  |  |  |  |  |
+| aMetformin total daily dose, administered in two equally divided doses per day. bp-value ≤0.0062 (modified intent-to-treat population [observed case] MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c). cp-value ≤0.0056 (modified intent-to-treat population [observed case] MMRM model included treatment, renal function, region, visit, visit by treatment interaction, and baseline HbA1c). |  |  |  |  |  |  |  |  |
 
 Add-On Combination Therapy with Metformin and Sulfonylurea
 
@@ -114,14 +114,14 @@ Table 7 Results at Week 24 from a Placebo-Controlled Study for JARDIANCE in Comb
 | Baseline mean in kg | 77 | 78 | 76 |
 | % change from baseline (adjusted mean) | -2.9 | -3.2 | -0.5 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.4b (-3.0, -1.8) | -2.7b (-3.3, -2.1) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 17.8%, 16.7%, and 25.3% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=225, for JARDIANCE 25 mg, n=215, for placebo, n=224 |  |  |  |
+| aModified intent-to-treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 17.8%, 16.7%, and 25.3% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=225, for JARDIANCE 25 mg, n=215, for placebo, n=224 |  |  |  |
 
 In Combination with Linagliptin as Add-On to Metformin Therapy
 
 A total of 686 patients with type 2 diabetes participated in a double-blind, active-controlled study to evaluate the efficacy and safety of JARDIANCE 10 mg or 25 mg in combination with linagliptin 5 mg compared to the individual components.
 
 Patients with type 2 diabetes inadequately controlled on at least 1500 mg of metformin per day entered a single-blind placebo run-in period for 2 weeks.
-At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7 and 10.5% were randomized 1:1:1:1:1 to one of 5 active-treatment arms of JARDIANCE 10 mg or 25 mg, linagliptin 5 mg, or linagliptin 5 mg in combination with 10 mg or 25 mg JARDIANCE as a fixed dose combination tablet.
+At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10.5% were randomized 1:1:1:1:1 to one of 5 active-treatment arms of JARDIANCE 10 mg or 25 mg, linagliptin 5 mg, or linagliptin 5 mg in combination with 10 mg or 25 mg JARDIANCE as a fixed-dose combination tablet.
 
 At Week 24, JARDIANCE 10 mg or 25 mg used in combination with linagliptin 5 mg provided statistically significant improvement in HbA1c (p-value <0.0001) and FPG (p-value <0.001) compared to the individual components in patients who had been inadequately controlled on metformin.
 Treatment with JARDIANCE/linagliptin 25 mg/5 mg or JARDIANCE/linagliptin 10 mg/5 mg daily also resulted in a statistically significant reduction in body weight compared to linagliptin 5 mg (p-value <0.0001).
@@ -153,7 +153,7 @@ Table 8 Results at Week 52 from an Active-Controlled Study Comparing JARDIANCE t
 | Baseline mean in kg | 82.5 | 83 |
 | % change from baseline (adjusted mean) | -3.9 | 2.0 |
 | Difference from glimepiride (adjusted mean) (95% CI) | -5.9c (-6.3, -5.5) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute data missing at Week 52. At Week 52, data was imputed for 15.3% and 21.9% of patients randomized to JARDIANCE 25 mg and glimepiride, respectively. bNon-inferior, ANCOVA model p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region) cANCOVA p-value <0.0001 (Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) dFPG (mg/dL); for JARDIANCE 25 mg, n=764, for glimepiride, n=779 |  |  |
+| aModified intent-to-treat population. Last observation on study (LOCF) was used to impute data missing at Week 52. At Week 52, data was imputed for 15.3% and 21.9% of patients randomized to JARDIANCE 25 mg and glimepiride, respectively. bNon-inferior, ANCOVA model p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and region) cANCOVA p-value <0.0001 (Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) dFPG (mg/dL); for JARDIANCE 25 mg, n=764, for glimepiride, n=779 |  |  |
 
 At Week 52, the adjusted mean change from baseline in systolic blood pressure was -3.6 mmHg, compared to 2.2 mmHg for glimepiride.
 The differences between treatment groups for systolic blood pressure was statistically significant (p-value <0.0001).
@@ -193,7 +193,7 @@ Table 9 Results of Placebo-Controlled Study for JARDIANCE in Combination Therapy
 | Baseline mean in kg | 78 | 79 | 78 |
 | % change from baseline (adjusted mean) | -2.0 | -1.8 | 0.6 |
 | Difference from placebo (adjusted mean) (95% CI) | -2.6b (-3.4, -1.8) | -2.4b (-3.2, -1.6) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 10.9%, 8.3%, and 20.6% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=163 |  |  |  |
+| aModified intent-to-treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 10.9%, 8.3%, and 20.6% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication. Body weight and FPG: same model used as for HbA1c but additionally including baseline body weight/baseline FPG, respectively.) cFPG (mg/dL); for JARDIANCE 10 mg, n=163 |  |  |  |
 
 Add-On Combination with Insulin with or without Metformin and/or Sulfonylureas
 
@@ -226,7 +226,7 @@ Table 10 Results at Week 18 and 78 for a Placebo-Controlled Study for JARDIANCE 
 | Baseline mean in kg | 92 | 95 | 90 | 92 | 95 | 90 |
 | % change from baseline (adjusted mean) | -1.8 | -1.4 | -0.1 | -2.4 | -2.4 | 0.7 |
 | Difference from placebo (adjusted mean) (95% CI) | -1.7d (-3.0, -0.5) | -1.3e (-2.5, -0.0) | -- | -3.0b (-4.4, -1.7) | -3.0b (-4.4, -1.6) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 18 and 78. At Week 18, 21.3%, 30.3%, and 21.8% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. At Week 78, 32.5%, 38.1% and 42.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, and region; FPG: MMRM model includes baseline FPG, baseline HbA1c, treatment, region, visit and visit by treatment interaction. Body weight: MMRM model includes baseline body weight, baseline HbA1c, treatment, region, visit and visit by treatment interaction. cp-value=0.0049 dp-value=0.0052 ep-value=0.0463 |  |  |  |  |  |  |
+| aModified intent-to-treat population. Last observation on study (LOCF) was used to impute missing data at Week 18 and 78. At Week 18, 21.3%, 30.3%, and 21.8% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. At Week 78, 32.5%, 38.1% and 42.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, and region; FPG: MMRM model includes baseline FPG, baseline HbA1c, treatment, region, visit and visit by treatment interaction. Body weight: MMRM model includes baseline body weight, baseline HbA1c, treatment, region, visit and visit by treatment interaction. cp-value=0.0049 dp-value=0.0052 ep-value=0.0463 |  |  |  |  |  |  |
 
 Add-on Combination with MDI Insulin with or without Metformin
 
@@ -247,7 +247,7 @@ Table 11 Results at Week 18 for a Placebo-Controlled Study for JARDIANCE in Comb
 | Baseline (mean) | 8.4 | 8.3 | 8.3 |
 | Change from baseline (adjusted mean) | -0.9 | -1.0 | -0.5 |
 | Difference from placebo (adjusted mean) (95% CI) | -0.4b (-0.6, -0.3) | -0.5b (-0.7, -0.4) | -- |
-| aModified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 18. At Week 18, 23.7%, 22.8% and 23.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, geographical region, and background medication). |  |  |  |
+| aModified intent-to-treat population. Last observation on study (LOCF) was used to impute missing data at Week 18. At Week 18, 23.7%, 22.8% and 23.4% was imputed for patients randomized to JARDIANCE 10 mg, JARDIANCE 25 mg, and placebo, respectively. bANCOVA p-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, geographical region, and background medication). |  |  |  |
 
 During an extension period with treatment for up to 52 weeks, insulin could be adjusted to achieve defined glucose target levels.
 The change from baseline in HbA1c was maintained from 18 to 52 weeks with both JARDIANCE 10 mg and 25 mg.
@@ -275,13 +275,13 @@ Table 12 Results at Week 24 (LOCF) of Placebo-Controlled Study for JARDIANCE in 
 | HbA1c |  |
 | Number of patients | n=284 |
 | Comparison vs placebo (adjusted mean) (95% CI) | -0.5a (-0.6, -0.4) |
-| ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent to treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |
+| ap-value <0.0001 (HbA1c: ANCOVA model includes baseline HbA1c, treatment, renal function, and background medication) beGFR 30 to less than 90 mL/min/1.73 m2- Modified intent-to-treat population. Last observation on study (LOCF) was used to impute missing data at Week 24. At Week 24, 24.6% and 26.2% was imputed for patients randomized to JARDIANCE 25 mg and placebo, respectively. |  |
 
 For patients with severe renal impairment, the analyses of changes in HbA1c and FPG showed no discernible treatment effect of JARDIANCE 25 mg compared to placebo [see Indications and Usage (1), Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
-The effect of JARDIANCE on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease was evaluated in the EMPA-REG OUTCOME study, a multicenter, multi-national, randomized, double-blind parallel group trial.
+The effect of JARDIANCE on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease was evaluated in the EMPA-REG OUTCOME study, a multicenter, multinational, randomized, double-blind parallel group trial.
 The study compared the risk of experiencing a major adverse cardiovascular event (MACE) between JARDIANCE and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
 Coadministered antidiabetic medications were to be kept stable for the first 12 weeks of the trial.
 Thereafter, antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
@@ -292,7 +292,7 @@ The mean age was 63 years and approximately 72% were male.
 
 All patients in the study had inadequately controlled type 2 diabetes mellitus at baseline (HbA1c greater than or equal to 7%).
 The mean HbA1c at baseline was 8.1% and 57% of participants had diabetes for more than 10 years.
-Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators respectively and the mean eGFR was 74 mL/min/1.73 m2.
+Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators, respectively and the mean eGFR was 74 mL/min/1.73 m2.
 At baseline, patients were treated with one (~30%) or more (~70%) antidiabetic medications including metformin (74%), insulin (48%), and sulfonylurea (43%).
 
 All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following: a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
@@ -309,7 +309,7 @@ JARDIANCE significantly reduced the risk of first occurrence of primary composit
 The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 13 and Figures 5 and 6).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 
-Table 13 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
+Table 13 Treatment Effect for the Primary Composite Endpoint and its Componentsa
 
 |  | Placebo N=2333 | JARDIANCE N=4687 | Hazard ratio vs placebo (95% CI) |
 | --- | --- | --- | --- |

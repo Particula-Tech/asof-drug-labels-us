@@ -86,12 +86,12 @@ Table 2 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Control
 | In Combination with MDI Insulin +/-Metformin (18 weeksd) | Placebo (n=188) | JARDIANCE 10 mg (n=186) | JARDIANCE 25 mg (n=189) |
 | Overall (%) | 37.2 | 39.8 | 41.3 |
 | Severe (%) | 0.5 | 0.5 | 0.5 |
-| aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL bSevere hypoglycemic events: requiring assistance regardless of blood glucose cTreated set (patients who had received at least one dose of study drug) dInsulin dose could not be adjusted during the initial 18 week treatment period |  |  |  |
+| aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL bSevere hypoglycemic events: requiring assistance regardless of blood glucose cTreated set (patients who had received at least one dose of study drug) dInsulin dose could not be adjusted during the initial 18-week treatment period |  |  |  |
 
 Genital Mycotic Infections
 
 In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with JARDIANCE compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, JARDIANCE 10 mg, and JARDIANCE 25 mg, respectively.
-Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either JARDIANCE 10 or 25 mg.
+Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either JARDIANCE 10 mg or 25 mg.
 
 Genital mycotic infections occurred more frequently in female than male patients (see Table 1).
 

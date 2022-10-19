@@ -9,6 +9,9 @@ Table 3 Clinically Relevant Interactions with JARDIANCE
 | Insulin or Insulin Secretagogues |  |
 | Clinical Impact | The risk of hypoglycemia is increased when JARDIANCE is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin. |
 | Intervention | Coadministration of JARDIANCE with an insulin secretagogue (e.g., sulfonylurea) or insulin may require lower doses of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
+| Lithium |  |
+| Clinical Impact | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
+| Intervention | Monitor serum lithium concentration more frequently during JARDIANCE initiation and dosage changes. |
 | Positive Urine Glucose Test |  |
 | Clinical Impact | SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests. |
 | Intervention | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
