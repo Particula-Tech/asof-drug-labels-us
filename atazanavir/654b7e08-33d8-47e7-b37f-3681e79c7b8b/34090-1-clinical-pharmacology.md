@@ -195,7 +195,7 @@ For information regarding clinical recommendations, see Drug Interactions (7).
 
 NA = not available.
 
-Table 22: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Atazanavir Sulfate1
+Table 22: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs in the Presence of Atazanavir Sulfate
 
 | Coadministered Drug | Coadministered Drug Dose/Schedule | Atazanavir Dose/Schedule | Ratio (90% Confidence Interval) of Coadministered Drug Pharmacokinetic Parameters With/Without Atazanavir Sulfate; No Effect = 1.00 |  |  |
 | --- | --- | --- | --- | --- | --- |
