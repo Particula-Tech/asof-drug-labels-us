@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA208180"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Micro Labs Limited",
+  "package_ndcs": [
+    "42571-259-05",
+    "42571-259-17",
+    "42571-259-30",
+    "42571-259-32",
+    "42571-259-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "ROFLUMILAST"
+    }
+  ],
+  "setid": "dc2a689f-cfa4-4863-9623-a9813dcf86a9",
+  "source": "dailymed"
+}
