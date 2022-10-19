@@ -27,10 +27,6 @@ In a PPND study conducted in rats, cetirizine was administered at oral doses up 
 Cetirizine did not have any adverse effects on rat dams or offspring development at doses up to approximately 60 times the MRHD (on a mg/m2 basis with a maternal oral dose of 30 mg/kg/day).
 Cetirizine caused excessive maternal toxicity at an oral dose in dams that was approximately 350 times the MRHD (on a mg/m2 basis with a maternal oral dose of 180 mg/kg/day).
 
-### Teratogenic Effects
-
-In rats and rabbits, levocetirizine was not teratogenic at oral doses approximately 320 and 390, respectively, times the maximum recommended daily oral dose in adults on a mg/m2 basis.
-
 ## 8.2 Lactation
 
 Risk Summary

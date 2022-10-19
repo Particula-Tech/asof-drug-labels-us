@@ -23,13 +23,13 @@ Table 4: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of in
 | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI | p-value |  |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
-| Levocetirizine Dihydrochloride 2.5 mg | 133 | 7.14 | 4.12 | 1.17 | (0.71, 1.63) | < 0.001 |
-| Levocetirizine Dihydrochloride 5 mg | 127 | 7.18 | 4.07 | 1.22 | (0.76, 1.69) | < 0.001 |
-| Levocetirizine Dihydrochloride 10 mg | 129 | 7.58 | 4.19 | 1.10 | (0.64, 1.57) | < 0.001 |
+| Levocetirizine Dihydrochloride 2.5 mg | 133 | 7.14 | 4.12 | 1.17 | (0.71, 1.63) | <0.001 |
+| Levocetirizine Dihydrochloride 5 mg | 127 | 7.18 | 4.07 | 1.22 | (0.76, 1.69) | <0.001 |
+| Levocetirizine Dihydrochloride 10 mg | 129 | 7.58 | 4.19 | 1.10 | (0.64, 1.57) | <0.001 |
 | Placebo | 128 | 7.22 | 5.29 |  |  |  |
 
 One clinical trial evaluated the efficacy of levocetirizine dihydrochloride 5 mg once daily in the evening compared to placebo in patients with perennial allergic rhinitis over a 6-week treatment period.
-Another trial conducted over a 6 month treatment period assessed efficacy at 4 weeks.
+Another trial conducted over a 6-month treatment period assessed efficacy at 4 weeks.
 Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective total symptom score than placebo and the difference from placebo was statistically significant.
 Results of the former are shown in Table 5.
 
@@ -39,7 +39,7 @@ Table 5: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of in
 | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI | p-value |  |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
-| Levocetirizine Dihydrochloride 5 mg | 150 | 7.69 | 3.93 | 1.17 | (0.70, 1.64) | < 0.001 |
+| Levocetirizine Dihydrochloride 5 mg | 150 | 7.69 | 3.93 | 1.17 | (0.70, 1.64) | <0.001 |
 | Placebo | 142 | 7.44 | 5.10 |  |  |  |
 
 Onset of action was evaluated in two environmental exposure unit studies in allergic rhinitis patients with a single dose of levocetirizine dihydrochloride 2.5 or 5 mg.
@@ -57,9 +57,9 @@ The clinical efficacy of levocetirizine dihydrochloride in pediatric patients un
 Adult Patients 18 Years of Age and Older
 
 The efficacy of levocetirizine dihydrochloride for the treatment of the uncomplicated skin manifestations of chronic idiopathic urticaria was evaluated in two multi-center, randomized, placebo-controlled, double-blind clinical trials of 4 weeks duration in adult patients 18 to 85 years of age with chronic idiopathic urticaria.
-The two trials included one 4 week dose-ranging trial and one 4-week single-dose level efficacy trial.
+The two trials included one 4-week dose-ranging trial and one 4 week single-dose level efficacy trial.
 These trials included 423 patients (139 males and 284 females).
-Most patients (> 90%) were Caucasian and the mean age was 41.
+Most patients (>90%) were Caucasian and the mean age was 41.
 Of these patients, 146 received levocetirizine dihydrochloride 5 mg once daily in the evening.
 Efficacy was assessed based on patient recording of pruritus severity on a severity score of 0 to 3 (0 = none to 3 = severe).
 The primary efficacy endpoint was the mean reflective pruritus severity score over the first week and over the entire treatment period.
@@ -80,12 +80,12 @@ Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI |  | p-value |  |  |  |  |
 | Dose Ranging Trial – Reflective pruritus severity score |  |  |  |  |  |  |  |
-| Levocetirizine Dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | < 0.001 |  |
-| Levocetirizine Dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | < 0.001 |  |
-| Levocetirizine Dihydrochloride 10 mg | 55 | 2.04 | 0.73 | 1.11 | (0.85, 1.37) | < 0.001 |  |
+| Levocetirizine Dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | <0.001 |  |
+| Levocetirizine Dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | <0.001 |  |
+| Levocetirizine Dihydrochloride 10 mg | 55 | 2.04 | 0.73 | 1.11 | (0.85, 1.37) | <0.001 |  |
 | Placebo | 60 | 2.25 | 1.84 |  |  |  |  |
 | Chronic Idiopathic Urticaria Trial – Reflective pruritus severity score |  |  |  |  |  |  |  |
-| Levocetirizine Dihydrochloride 5 mg | 80 | 2.07 | 0.94 | 0.62 | (0.38, 0.86) | < 0.001 |  |
+| Levocetirizine Dihydrochloride 5 mg | 80 | 2.07 | 0.94 | 0.62 | (0.38, 0.86) | <0.001 |  |
 | Placebo | 82 | 2.06 | 1.56 |  |  |  |  |
 
 Pediatric Patients

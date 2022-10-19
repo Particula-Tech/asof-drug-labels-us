@@ -99,10 +99,10 @@ The corresponding increases of half-life estimates were 1.4-, 2.0-, 2.9-, and 4-
 The total body clearance of levocetirizine after oral dosing was correlated to the creatinine clearance and was progressively reduced based on severity of renal impairment.
 Therefore, it is recommended to adjust the dose and dosing intervals of levocetirizine based on creatinine clearance in patients with mild, moderate, or severe renal impairment.
 In end-stage renal disease patients (CLCR < 10 mL/min) levocetirizine is contraindicated.
-The amount of levocetirizine removed during a standard 4-hour hemodialysis procedure was < 10%.
+The amount of levocetirizine removed during a standard 4-hour hemodialysis procedure was <10%.
 
 The dosage of levocetirizine dihydrochloride should be reduced in patients with mild renal impairment.
-Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.4)].
+Both the dosage and frequency of administration should be reduced in patients with moderate or severe renal impairment [see Dosage and Administration (2.2)].
 
 Hepatic impairment
 
