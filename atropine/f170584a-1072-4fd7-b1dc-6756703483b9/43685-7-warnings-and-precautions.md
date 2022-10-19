@@ -55,16 +55,16 @@ Monitor patients for signs of atropinism.
 
 Advise patients:
 
-- Accidental ingestion of Lomotil in children, especially in those less than 6 years of age, may result in severe respiratory depression or coma.
+- •Accidental ingestion of Lomotil in children, especially in those less than 6 years of age, may result in severe respiratory depression or coma.
   Instruct patients to take steps to store Lomotil securely and out of reach of children, and to dispose of unused Lomotil (see WARNINGS).
-- To take Lomotil at the prescribed dosage.
+- •To take Lomotil at the prescribed dosage.
   Use of a higher than prescribed dosage may include opioid and/or anticholinergic effects (see OVERDOSAGE).
   Report to a healthcare facility if they develop anticholinergic symptoms such as hyperthermia, flushing, tachycardia, tachypnea, hypotonia, lethargy, hallucinations, febrile convulsion, dry mouth, mydriasis or opioid symptoms such as progressive CNS and respiratory depression, miosis, seizures, or paralytic ileus.
-- Lomotil may produce drowsiness or dizziness.
+- •Lomotil may produce drowsiness or dizziness.
   Concomitant use of alcohol or other drugs that also cause CNS depression (e.g., barbiturates, benzodiazepines, opioids, buspirone, antihistamines, and muscle relaxants) may increase this effect.
   Inform patients not to operate motor vehicles or other dangerous machinery until they are reasonably certain that Lomotil does not affect them adversely.
-- To use fluid and electrolyte therapy, if prescribed along with Lomotil, as instructed by their healthcare provider.
-- Clinical improvement of diarrhea is usually observed within 48 hours.
+- •To use fluid and electrolyte therapy, if prescribed along with Lomotil, as instructed by their healthcare provider.
+- •Clinical improvement of diarrhea is usually observed within 48 hours.
   If clinical improvement is not seen within 10 days, discontinue Lomotil and contact their healthcare provider.
 
 ## Drug interactions
