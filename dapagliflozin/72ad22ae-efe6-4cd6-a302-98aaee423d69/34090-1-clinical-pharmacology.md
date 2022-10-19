@@ -90,10 +90,10 @@ Overall, dapagliflozin is unlikely to affect the pharmacokinetics of concurrentl
 
 #### Effects of Other Drugs on Dapagliflozin
 
-Table 5 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin.
+Table 6 shows the effect of coadministered drugs on the pharmacokinetics of dapagliflozin.
 No dose adjustments are recommended for dapagliflozin.
 
-Table 5: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
+Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
 | Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | --- | --- | --- | --- |
@@ -118,10 +118,10 @@ Table 5: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
 #### Effects of Dapagliflozin on Other Drugs
 
-Table 6 shows the effect of dapagliflozin on other coadministered drugs.
+Table 7 shows the effect of dapagliflozin on other coadministered drugs.
 Dapagliflozin did not meaningfully affect the pharmacokinetics of the coadministered drugs.
 
-Table 6: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
+Table 7: Effects of Dapagliflozin on the Systemic Exposures of Coadministered Drugs
 
 | Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Coadministered Drug Exposure (% Change [90% CI]) |  |
 | --- | --- | --- | --- |

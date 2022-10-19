@@ -1,11 +1,17 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Positive Urine Glucose Test
+Table 5: Clinically Relevant Interactions with FARXIGA
 
-Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors as SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests.
-Use alternative methods to monitor glycemic control.
-
-## 7.2 Interference with 1,5-anhydroglucitol (1,5-AG) Assay
-
-Monitoring glycemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors.
-Use alternative methods to monitor glycemic control.
+| Insulin or Insulin Secretagogues |  |
+| --- | --- |
+| Clinical Impact | The risk of hypoglycemia may be increased when FARXIGA is used concomitantly with insulin or insulin secretagogues (e.g., sulfonylurea) [see Warnings and Precautions (5.4)]. |
+| Intervention | Concomitant use may require lower doses of insulin or the insulin secretagogue to reduce the risk of hypoglycemia. |
+| Lithium |  |
+| Clinical Impact | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
+| Intervention | Monitor serum lithium concentration more frequently during FARXIGA initiation and dosage changes. |
+| Positive Urine Glucose Test |  |
+| Clinical Impact | SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests. |
+| Intervention | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
+| Interference with 1,5-anhydroglucitol (1,5-AG) Assay |  |
+| Clinical Impact | Measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors. |
+| Intervention | Monitoring glycemic control with 1,5-AG assay is not recommended. Use alternative methods to monitor glycemic control. |
