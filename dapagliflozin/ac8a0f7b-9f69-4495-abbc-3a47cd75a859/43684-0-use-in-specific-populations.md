@@ -116,7 +116,7 @@ Assess renal function more frequently in elderly patients [see Warnings and Prec
 
 ## 8.6 Renal Impairment
 
-XIGDUO XR is not recommended in patients with an eGFR below 45 mL/min/1.73 m2 and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end-stage renal disease or patients on dialysis [see Dosage and Administration (2.4), Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
+Initiation of XIGDUO XR is not recommended in patients with an eGFR below 45 mL/min/1.73 m2 and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end-stage renal disease or patients on dialysis [see Dosage and Administration (2.4), Contraindications (4) and Warnings and Precautions (5.1, 5.3)].
 
 Dapagliflozin
 

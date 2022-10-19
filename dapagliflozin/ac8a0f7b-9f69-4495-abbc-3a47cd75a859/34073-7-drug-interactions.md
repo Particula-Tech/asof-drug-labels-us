@@ -12,9 +12,15 @@ Table 6: Clinically Relevant Interactions with XIGDUO XR
 | Alcohol |  |
 | Clinical Impact | Alcohol is known to potentiate the effect of metformin on lactate metabolism. |
 | Intervention | Warn patients against excessive alcohol intake while receiving XIGDUO XR. |
+| Insulin or Insulin Secretagogues |  |
+| Clinical Impact | The risk of hypoglycemia may be increased when XIGDUO XR is used concomitantly with insulin or insulin secretagogues (e.g., sulfonylurea) [see Warnings and Precautions (5.5)]. |
+| Intervention | Concomitant use may require lower doses of insulin or the insulin secretagogue to reduce the risk of hypoglycemia. |
 | Drugs Affecting Glycemic Control |  |
 | Clinical Impact | Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. These medications include thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blocking drugs, and isoniazid. |
 | Intervention | When such drugs are administered to a patient receiving XIGDUO XR, observe the patient closely for loss of blood glucose control. When such drugs are withdrawn from a patient receiving XIGDUO XR, observe the patient closely for hypoglycemia. |
+| Lithium |  |
+| Clinical Impact | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
+| Intervention | Monitor serum lithium concentration more frequently during XIGDUO XR initiation and dosage changes. |
 | Positive Urine Glucose Test |  |
 | Clinical Impact | SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests. |
 | Intervention | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
