@@ -30,8 +30,8 @@ The pharmacokinetics of lacosamide are similar in healthy subjects, patients wit
 Lacosamide is completely absorbed after oral administration with negligible first-pass effect with a high absolute bioavailability of approximately 100%.
 The maximum lacosamide plasma concentrations occur approximately 1 to 4 hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
-Pharmacokinetics of lacosamide are dose proportional (100-800 mg) and time invariant, with low inter- and intra-subject variability.
-Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer Tmax (0.5-12 hours) and elimination half-life (15-23 hours).
+Pharmacokinetics of lacosamide are dose proportional (100 to 800 mg) and time invariant, with low inter- and intra-subject variability.
+Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer Tmax (0.5 to 12 hours) and elimination half-life (15 to 23 hours).
 
 Absorption and Bioavailability
 
