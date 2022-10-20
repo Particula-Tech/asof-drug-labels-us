@@ -6,13 +6,12 @@ It has the following structural formula:
 C21H27ClN2O2•C23H16O6 M.W.
 763.27
 
-Hydroxyzine Pamoate Capsules USP are administered in doses equivalent to 25 mg, 50 mg or 100 mg of hydroxyzine hydrochloride.
+Hydroxyzine pamoate capsules, USP are administered in doses equivalent to 25 mg, 50 mg or 100 mg of hydroxyzine hydrochloride.
 In addition, each capsule contains the following inactive ingredients: croscarmellose sodium, magnesium stearate, and pregelatinized corn starch.
 The 25 mg also contains anhydrous lactose.
 The 50 mg and 100 mg also contain lactose monohydrate.
+The capsule shell ingredients for the 25 mg capsule are D&C Red No. 28, D&C Yellow No. 10, FD&C Blue No. 1, FD&C Red No. 40, FD&C Yellow No. 6, gelatin, and titanium dioxide.
+The 50 mg capsule shell contains D&C Red No. 33, D&C Yellow No. 10, FD&C Yellow No. 6, gelatin, and titanium dioxide.
+The 100 mg capsule shell contains D&C Red No. 28, D&C Red No. 33, D&C Yellow No. 10, FD&C Blue No. 1, FD&C Red No. 40, gelatin, and titanium dioxide.
 
-The capsule shell ingredients for the 25 mg capsule are D&C red no. 28, D&C yellow no. 10, FD&C blue no. 1, FD&C red no. 40, FD&C yellow no. 6, gelatin, and titanium dioxide.
-The 50 mg capsule shell contains D&C red no. 33, D&C yellow no. 10, FD&C yellow no. 6, gelatin, and titanium dioxide.
-The 100 mg capsule shell contains D&C red no. 28, D&C red no. 33, D&C yellow no. 10, FD&C blue no. 1, FD&C red no. 40, gelatin, and titanium dioxide.
-
-The edible imprinting ink on the 25 mg, 50 mg and 100 mg capsules contains black iron oxide, D&C yellow no. 10 aluminum lake, FD&C blue no. 1 aluminum lake, FD&C blue no. 2 aluminum lake, FD&C red no. 40 aluminum lake, propylene glycol, and shellac glaze.
+The edible imprinting ink on the 25 mg, 50 mg and 100 mg capsules contains black iron oxide, D&C Yellow No. 10 aluminum lake, FD&C Blue No. 1 aluminum lake, FD&C Blue No. 2 aluminum lake, FD&C Red No. 40 aluminum lake, propylene glycol, and shellac glaze.
