@@ -11,17 +11,9 @@ Maintain careful prescription records, educate patients about abuse, monitor for
 
 Administer EVEKEO ODT orally in the morning with or without food or liquid.
 
-Pediatric Patients 3 to 5 years of age
-
-The recommended starting dosage is 2.5 mg daily.
+The recommended starting dosage for pediatric patients 6 to 17 years of age is 5 mg once or twice daily.
 If necessary, administer an additional dose after 4 to 6 hours.
-Titrate the dosage in increments of 2.5 mg at weekly intervals depending on response and tolerability.
-
-Pediatric Patients 6 to 17 years of age
-
-The recommended starting dosage is 5 mg once or twice daily.
-If necessary, administer an additional dose after 4 to 6 hours.
-Titrate the dosage in increments of 2.5 mg or 5 mg at weekly intervals depending on response and tolerability.
+Titrate the dosage in increments of 5 mg at weekly intervals depending on response and tolerability.
 
 Only in rare cases will it be necessary to exceed a total of 40 mg daily.
 

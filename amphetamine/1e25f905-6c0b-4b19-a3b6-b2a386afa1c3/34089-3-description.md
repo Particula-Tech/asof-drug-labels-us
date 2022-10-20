@@ -9,5 +9,5 @@ It is freely soluble in water and slightly soluble in alcohol.
 Structural Formula:
 
 EVEKEO ODT tablets are intended for oral use.
-Each EVEKEO ODT tablet contains 2.5 mg, 5 mg, 10 mg, 15 mg, or 20 mg of racemic amphetamine sulfate.
+Each EVEKEO ODT tablet contains 5 mg, 10 mg, 15 mg, or 20 mg of racemic amphetamine sulfate.
 Each tablet also contains the following inactive ingredients: amino methacrylate copolymer, citric acid, crospovidone, ethylcellulose, dibutyl sebacate, magnesium stearate, malic acid, mannitol, microcrystalline cellulose, and sucralose.

@@ -41,15 +41,15 @@ Because of the potential for serious adverse reactions in nursing infants, advis
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of EVEKEO ODT have been established in pediatric patients 3 years and older.
+The safety and effectiveness of EVEKEO ODT have been established in pediatric patients 6 years and older.
 Use of EVEKEO ODT is based on one adequate and well-controlled study with another immediate-release amphetamine sulfate product (EVEKEO) in pediatric patients 6 to 12 years [see Clinical Studies (14)], along with dosing and safety information for other amphetamine products.
 
-Safety and efficacy in pediatric patients below the age of 3 years have not been established.
+Safety and efficacy in pediatric patients below the age of 6 years have not been established.
 
 Long-Term Growth Suppression
 
 Growth should be monitored during treatment with stimulants, including EVEKEO ODT.
-Pediatric patients aged 3 to 17 years who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
+Pediatric patients aged 6 to 17 years who are not growing or gaining weight as expected may need to have their treatment interrupted [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
 ## 8.5 Geriatric Use
 

@@ -2,9 +2,6 @@
 
 EVEKEO ODT (amphetamine sulfate) orally disintegrating tablets are supplied as follows:
 
-- 2.5 mg: white to off-white, round, flat-faced radius-edged tablet with "2" on one side and "E" on the other
-  - NDC 24338-045-30: One blister card of 30-count 2.5 mg strength tablets within a plastic sleeve
-  - NDC 24338-045-01: Carton containing one plastic sleeve.
 - 5 mg: white to off-white, round, flat-faced radius-edged tablet with "5" on one side and "EVI" on the other
   - NDC 24338-031-30: One blister card of 30-count 5 mg strength tablets within a plastic sleeve
   - NDC 24338-031-01: Carton containing one plastic sleeve.
