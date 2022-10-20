@@ -21,11 +21,11 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 | weakness in one part or side of your body |  |  |
 | Stop taking your NSAID and call your healthcare provider right away if you get any of the following symptoms: |  |  |
 | nausea | vomit blood |  |
-| more tired or weaker than usual | there is blood in your bowel movement or |  |
-| diarrhea | it is black and sticky like tar |  |
-| itching | unusual weight gain |  |
-| your skin or eyes look yellow | skin rash or blisters with fever |  |
-| indigestion or stomach pain | swelling of the arms, legs, hands and feet |  |
+| more tired or weaker than usual | there is blood in your bowel movement or it is black and sticky like tar |  |
+| diarrhea | unusual weight gain |  |
+| itching | skin rash or blisters with fever |  |
+| your skin or eyes look yellow | swelling of the arms, legs, hands and feet |  |
+| indigestion or stomach pain |  |  |
 | flu-like symptoms |  |  |
 | If you take too much of your NSAID, call your healthcare provider or get medical help right away. These are not all the possible side effects of NSAIDs. For more information, ask your healthcare provider or pharmacist about NSAIDs. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | Other information about NSAIDs: Aspirin is an NSAID medicine but it does not increase the chance of a heart attack. Aspirin can cause bleeding in the brain, stomach, and intestines. Aspirin can also cause ulcers in the stomach and intestines.Some NSAIDs are sold in lower doses without a prescription (over-the-counter). Talk to your healthcare provider before using over-the-counter NSAIDs for more than 10 days. |  |  |
