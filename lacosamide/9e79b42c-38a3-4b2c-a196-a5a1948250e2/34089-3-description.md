@@ -14,7 +14,13 @@ VIMPAT tablets for oral administration contain lacosamide and the following inac
 
 VIMPAT tablets are supplied as debossed tablets and contain the following coloring agents:
 
-50 mg tablets: red iron oxide, black iron oxide, FD&C Blue #2/indigo carmine aluminum lake 100 mg tablets: yellow iron oxide 150 mg tablets: yellow iron oxide, red iron oxide, black iron oxide 200 mg tablets: FD&C Blue #2/indigo carmine aluminum lake
+50 mg tablets: red iron oxide, black iron oxide, FD&C Blue #2/indigo carmine aluminum lake
+
+100 mg tablets: yellow iron oxide
+
+150 mg tablets: yellow iron oxide, red iron oxide, black iron oxide
+
+200 mg tablets: FD&C Blue #2/indigo carmine aluminum lake
 
 ## 11.2 VIMPAT Injection
 

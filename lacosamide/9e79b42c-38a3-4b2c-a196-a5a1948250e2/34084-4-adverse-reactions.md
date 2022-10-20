@@ -185,10 +185,5 @@ Although no serious or severe adverse reactions were noted at the time of infusi
 The following adverse reactions have been identified during post-approval use of VIMPAT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: Agranulocytosis
-
-Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder
-
-Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
-
+Blood and lymphatic system disorders: Agranulocytosis Psychiatric disorders: Aggression, agitation, hallucination, insomnia, psychotic disorder Skin and subcutaneous tissue disorders: Angioedema, rash, urticaria, Stevens-Johnson syndrome, toxic epidermal necrolysis.
 Neurologic disorders: Dyskinesia, new or worsening seizures

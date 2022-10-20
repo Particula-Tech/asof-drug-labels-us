@@ -49,7 +49,6 @@ A gradual withdrawal of the concomitant AED over at least 6 weeks is recommended
 ## 2.3 Dosage Information for Patients with Renal Impairment
 
 For patients with mild to moderate renal impairment, no dosage adjustment is necessary.
-
 For patients with severe renal impairment [creatinine clearance (CLCR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR less than 30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients] or end-stage renal disease, a reduction of 25% of the maximum dosage is recommended.
 
 In all patients with renal impairment, the dose titration should be performed with caution.
@@ -67,7 +66,6 @@ Dose reduction may be necessary in patients with renal impairment who are taking
 
 For patients with mild or moderate hepatic impairment, a reduction of 25% of the maximum dosage is recommended.
 The dose titration should be performed with caution in patients with hepatic impairment.
-
 VIMPAT use is not recommended in patients with severe hepatic impairment.
 
 Concomitant Strong CYP3A4 and CYP2C9 Inhibitors
