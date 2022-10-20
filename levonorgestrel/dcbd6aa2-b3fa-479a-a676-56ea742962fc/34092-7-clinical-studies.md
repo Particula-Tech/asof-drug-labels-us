@@ -17,10 +17,11 @@ The weight range was 38.5–163.5 kg (mean weight: 75.6 kg) and mean BMI was 27.
 
 The pregnancy rate calculated as the Pearl Index (PI) was the primary efficacy endpoint used to assess contraceptive efficacy.
 The PI was based on 28-day equivalent exposure cycles; evaluable cycles excluded those in which back-up contraception was used unless a pregnancy occurred in that cycle.
-The PI for the 6th year of use based on the 1 pregnancy that occurred during Year 6 and within 7 days after Mirena removal or expulsion and 3,722 evaluable cycles was 0.35 with a 95% upper confidence limit of 1.95, and the PI for the 7th year of use based on the 1 pregnancy that occurred during Year 7 and within 7 days after Mirena removal or expulsion and 2,912 evaluable cycles was 0.45 with a 95% upper confidence limit of 2.49.
+The PI for the 6th year of use based on the 1 pregnancy that occurred during Year 6 and within 7 days after Mirena removal or expulsion and 3,870 evaluable cycles was 0.34 with a 95% upper confidence limit of 1.88, and the PI for the 7th year of use based on the 1 pregnancy that occurred during Year 7 and within 7 days after Mirena removal or expulsion and 3,232 evaluable cycles was 0.40 with a 95% upper confidence limit of 2.25.
+The PI for the 8th year of use based on no pregnancies occurring during Year 8 and within 7 days after Mirena removal or expulsion and 2,534 evaluable cycles was 0.00 with a 95% upper confidence limit of 1.90.
 
-The cumulative 2-year pregnancy rate for Years 6 and 7 was estimated by the Kaplan-Meier method.
-Based on 2 pregnancies (1 in Year 6 and 1 in Year 7) and 7,269 exposure cycles, the cumulative pregnancy rate at the end of the 2-year period of extended use (Years 6 and 7) was 0.71% with a 95% upper confidence limit of 2.84%.
+The cumulative 3-year pregnancy rate for Years 6, 7 and 8 was estimated by the Kaplan-Meier method.
+Based on 2 pregnancies (1 in Year 6 and 1 in Year 7) and 10,216 exposure cycles, the cumulative pregnancy rate at the end of the 3-year period of extended use (Years 6, 7 and 8) was 0.68% with a 95% upper confidence limit of 2.71%.
 
 ## 14.2 Clinical Trial on Heavy Menstrual Bleeding
 

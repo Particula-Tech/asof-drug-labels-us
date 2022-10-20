@@ -18,29 +18,67 @@ In a 1-year study, approximately 45% of menstrual cycles were ovulatory, and in 
 ### Absorption
 
 Low doses of LNG are administered into the uterine cavity with the Mirena intrauterine delivery system.
-The initial release rate is approximately 20 mcg/day over the first 3 months tested (day 0 to day 90).
-It is reduced to approximately 18 mcg/day after 1 year, 10 mcg/day after 5 years, and 8 mcg/day after 7 years.
 
-A stable serum concentration, without peaks and troughs, of LNG of 150–200 pg/mL occurs after the first few weeks following insertion of Mirena.
-LNG concentrations after long-term use of 1, 2, 5, and 7 years were 180±66 pg/mL, 192±140 pg/mL, 159±59 pg/mL, and 107±40 pg/mL, respectively.
+Estimated in vivo release rates for different points in time are provided in Table 5.
+
+Table 5: Estimated in vivo release rates for Mirena:
+
+| Time | Estimated in vivo release rate [μg/day] (rounded) |
+| --- | --- |
+| 24 days after insertion | 21 |
+| 60 days after insertion | 21 |
+| 1 year after insertion | 19 |
+| 3 years after insertion | 14 |
+| 5 years after insertion | 11 |
+| 6 years after insertion | 9 |
+| 7 years after insertion | 8 |
+| 8 years after insertion | 7 |
+| Average over 1st year | 20 |
+| Average over 3 years | 18 |
+| Average over 5 years | 15 |
+| Average over 8 years | 13 |
+
+After insertion of Mirena, LNG is detectable in serum/plasma after 1 hour.
+The maximum concentration is reached within 2 weeks after insertion and amounts to about 180 ng/L (CV 38%).
+In correspondence with the declining release rate, the geometric mean serum/plasma concentration of levonorgestrel declines continuously:
+
+Table 6: Estimated Total LNG Mean Plasma Concentrations
+
+| Time after insertion | Total LNG plasma concentrations [ng/L] (geometric CV%) |
+| --- | --- |
+| 24 days | 175 (37.6) |
+| 2 months | 169 (37.1) |
+| 1 year | 159 (37.4) |
+| 3 years | 139 (37.8) |
+| 5 years | 123 (38.2) |
+| 8 years | 100 (39.9) |
 
 ### Distribution
 
+LNG is bound non-specifically to serum albumin and specifically to the Sex hormone-binding globulin (SHBG.)
+Less than 2% of the circulating LNG is present as free steroid.
+Levonorgestrel binds with high affinity to SHBG.
+Accordingly, changes in the concentration of SHBG in serum result in an increase (at higher SHBG concentrations) or in a decrease (at lower SHBG concentrations) of the total levonorgestrel concentration in serum.
+The concentration of SHBG declined on average by about 20% during the two months after insertion of Mirena and remained stable during thereafter, increasing only slightly until the end of the 8 years of use.
+
 The apparent volume of distribution of LNG is reported to be approximately 1.8 L/kg.
-It is about 97.5 to 99% protein-bound, principally to sex hormone binding globulin (SHBG) and, to a lesser extent, serum albumin.
 
-### Metabolism
+### Elimination
 
-Following absorption, LNG is conjugated at the 17β-OH position to form sulfate conjugates and, to a lesser extent, glucuronide conjugates in serum.
-Significant amounts of conjugated and unconjugated 3α, 5β- tetrahydrolevonorgestrel are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
-LNG and its phase I metabolites are excreted primarily as glucuronide conjugates.
+Following intravenous administration of 0.09 mg LNG to healthy volunteers, the total clearance of LNG is approximately 1 mL/min/kg and the elimination half-life is approximately 20 hours.
 Metabolic clearance rates may differ among individuals by several-fold, and this may account in part for wide individual variations in LNG concentrations seen in individuals using LNG–containing contraceptive products.
-In vitro studies have demonstrated that oxidative metabolism of LNG is catalyzed by CYP enzymes, especially CYP3A4.
 
-### Excretion
+#### Metabolism
 
+Following absorption, LNG is extensively metabolized.
+The most important metabolic pathways are the reduction of the Δ4-3-oxo group and hydroxylations at positions 2α, 1β and 16β, followed by conjugation.
+Significant amounts of conjugated and unconjugated 3α, 5β-tetra-hydrolevonorgestrel are also present in serum, along with much smaller amounts of 3α, 5α-tetrahydrolevonorgestrel and 16β-hydroxylevonorgestrel.
+CYP3A4 is the main enzyme involved in the oxidative metabolism of LNG.
+
+#### Excretion
+
+LNG and its phase I metabolites are excreted primarily as glucuronide conjugates.
 About 45% of LNG and its metabolites are excreted in the urine and about 32% are excreted in feces, mostly as glucuronide conjugates.
-The elimination half-life of LNG after daily oral doses is approximately 17 hours.
 
 ### Specific Populations
 

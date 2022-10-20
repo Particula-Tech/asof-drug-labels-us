@@ -2,7 +2,7 @@
 
 ## 1.1 Contraception
 
-Mirena is indicated for prevention of pregnancy for up to 7 years; replace after the end of the seventh year.
+Mirena is indicated for prevention of pregnancy for up to 8 years; replace after the end of the eighth year.
 
 ## 1.2 Heavy Menstrual Bleeding
 

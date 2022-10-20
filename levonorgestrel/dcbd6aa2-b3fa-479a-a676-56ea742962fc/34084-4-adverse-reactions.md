@@ -22,8 +22,7 @@ The frequencies of reported adverse drug reactions represent crude incidences.
 The most common adverse reactions (≥10% users) are alterations of menstrual bleeding patterns [including unscheduled uterine bleeding (31.9%), decreased uterine bleeding (23.4%), increased scheduled uterine bleeding (11.9%), and female genital tract bleeding (3.5%)], abdominal/pelvic pain (22.6%), amenorrhea (18.4%), headache/migraine (16.3%), genital discharge (14.9%), and vulvovaginitis (10.5%).
 Adverse reactions reported in ≥ 5% of users are shown in Table 2.
 
-Table 2.
-Adverse Reactions ≥ 5% Reported in Clinical Trials with Mirena
+Table 2: Adverse Reactions ≥ 5% Reported in Clinical Trials with Mirena
 
 | System Organ Class | Adverse Reactions | % (N= 5,091) |
 | --- | --- | --- |
@@ -42,9 +41,9 @@ Adverse Reactions ≥ 5% Reported in Clinical Trials with Mirena
 
 Other adverse reactions occurring in <5% of subjects include alopecia, (partial and complete) device expulsion, hirsutism, nausea, and PID/endometritis.
 
-A separate study with 362 women who have used Mirena for more than 5 years showed a consistent adverse reaction profile in Years 6 and 7 as shown in Table 2.
-By the end of Year 7 of use, amenorrhea and infrequent bleeding are experienced by 28% and 26% of users, respectively; irregular bleeding occurs in 12%, frequent bleeding in 8%, and prolonged bleeding in 2% of users.
-In this study, 6% of women reported the adverse event of weight gain; it is unknown if the weight gain was caused by Mirena.
+A separate study with 362 women who have used Mirena for more than 5 years showed a consistent adverse reaction profile in Years 6 through 8 as shown in Table 2.
+By the end of Year 8 of use, amenorrhea and infrequent bleeding are experienced by 34% and 26% of users, respectively; irregular bleeding occurs in 10%, frequent bleeding in 3%, and prolonged bleeding in 3% of users.
+In this study, 9% of women reported the adverse event of weight gain; it is unknown if the weight gain was caused by Mirena.
 
 ## 6.2 Postmarketing Experience
 
@@ -80,7 +79,7 @@ Table 3: Uterine Perforation1 rates for LNG IUS, by Breastfeeding Status and Pos
 | Postpartum interval at time of insertion | Number of events/ insertions | Uterine perforation rate per 1,000 insertions | Number of events/ insertions | Uterine perforation rate per 1,000 insertions |
 | 0 to 3 days | 8/1,896 | 4.22 | 0/277 | 0.00 |
 | 4 days to ≤ 6 weeks | 120/10,735 | 11.18 | 28/2,377 | 11.78 |
-| > 6 to ≤ 14 weeks | 268/29,677 | 9.03 | 30/12,011 | 6.66 |
+| > 6 to ≤ 14 weeks | 268/29,677 | 9.03 | 80/12,011 | 6.66 |
 | > 14 to ≤ 52 weeks | 43/6,139 | 7.00 | 22/9,089 | 2.42 |
 | > 52 weeks or no delivery | no data available |  | 243/184,733 | 1.32 |
 

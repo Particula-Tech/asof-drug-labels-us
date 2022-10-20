@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Mirena (levonorgestrel-releasing intrauterine system) contains 52 mg of LNG, a progestin, and is intended to provide an initial release rate of approximately 20 mcg/day of LNG.
+Mirena (levonorgestrel-releasing intrauterine system) contains 52 mg of LNG, a progestin, and is intended to provide an initial release rate of LNG of approximately 21 mcg/day after 24 days.
 
 Levonorgestrel USP, (-)-13-Ethyl-17-hydroxy-18,19-dinor-17α-pregn-4-en-20-yn-3-one, the active ingredient in Mirena, has a molecular weight of 312.4, a molecular formula of C21H28O2, and the following structural formula:
 
