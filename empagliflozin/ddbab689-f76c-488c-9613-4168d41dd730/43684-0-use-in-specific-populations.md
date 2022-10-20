@@ -52,7 +52,7 @@ Linagliptin crosses the placenta into the fetus following oral dosing in pregnan
 
 Risk Summary
 
-There is no information regarding the presence of GLYXAMBI, or its individual components in human milk, the effects on the breastfed infant, or the effects on milk production.
+There is limited information regarding the presence of GLYXAMBI, or its individual components in human milk, the effects on the breastfed infant, or the effects on milk production.
 Empagliflozin and linagliptin are present in rat milk (see Data).
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
 

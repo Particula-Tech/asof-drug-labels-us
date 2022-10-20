@@ -48,7 +48,7 @@ Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mell
 Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease.
 The effect of empagliflozin on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease is presented below.
 
-The EMPA-REG OUTCOME study, a multicenter, multi-national, randomized, double-blind parallel group trial compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
+The EMPA-REG OUTCOME study, a multicenter, multinational, randomized, double-blind parallel group trial compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
 Coadministered antidiabetic medications were to be kept stable for the first 12 weeks of the trial.
 Thereafter, antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
@@ -58,7 +58,7 @@ The mean age was 63 years and approximately 72% were male.
 
 All patients in the study had inadequately controlled type 2 diabetes mellitus at baseline (HbA1c greater than or equal to 7%).
 The mean HbA1c at baseline was 8.1% and 57% of participants had diabetes for more than 10 years.
-Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators respectively and the mean eGFR was 74 mL/min/1.73 m2.
+Approximately 31%, 22% and 20% reported a past history of neuropathy, retinopathy and nephropathy to investigators, respectively and the mean eGFR was 74 mL/min/1.73 m2.
 At baseline, patients were treated with one (~30%) or more (~70%) antidiabetic medications including metformin (74%), insulin (48%), sulfonylurea (43%) and dipeptidyl peptidase-4 inhibitor (11%).
 
 All patients had established atherosclerotic cardiovascular disease at baseline including one (82%) or more (18%) of the following: a documented history of coronary artery disease (76%), stroke (23%) or peripheral artery disease (21%).
@@ -75,7 +75,7 @@ Empagliflozin significantly reduced the risk of first occurrence of primary comp
 The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 7 and Figures 4 and 5).
 Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
 
-Table 7 Treatment Effect for the Primary Composite Endpoint, and its Componentsa
+Table 7 Treatment Effect for the Primary Composite Endpoint and its Componentsa
 
 |  | Placebo N=2333 | Empagliflozin N=4687 | Hazard ratio vs placebo (95% CI) |
 | --- | --- | --- | --- |
@@ -102,7 +102,7 @@ Linagliptin Cardiovascular Safety Trials
 
 CARMELINA
 
-The cardiovascular risk of linagliptin was evaluated in CARMELINA, a multi-national, multi-center, placebo-controlled, double-blind, parallel group trial comparing linagliptin (N=3494) to placebo (N=3485) in adult patients with type 2 diabetes mellitus and a history of established macrovascular and/or renal disease.
+The cardiovascular risk of linagliptin was evaluated in CARMELINA, a multinational, multi-center, placebo-controlled, double-blind, parallel group trial comparing linagliptin (N=3494) to placebo (N=3485) in adult patients with type 2 diabetes mellitus and a history of established macrovascular and/or renal disease.
 The trial compared the risk of major adverse cardiovascular events (MACE) between linagliptin and placebo when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
 The trial was event driven, the median duration of follow-up was 2.2 years and vital status was obtained for 99.7% of patients.
 
@@ -124,7 +124,7 @@ The upper bound of this confidence interval, 1.17, excluded the risk margin of 1
 
 CAROLINA
 
-The cardiovascular risk of linagliptin was evaluated in CAROLINA, a multi-center, multi-national, randomized, double-blind parallel group trial comparing linagliptin (N=3023) to glimepiride (N=3010) in adult patients with type 2 diabetes mellitus and a history of established cardiovascular disease and/or multiple cardiovascular risk factors.
+The cardiovascular risk of linagliptin was evaluated in CAROLINA, a multi-center, multinational, randomized, double-blind parallel group trial comparing linagliptin (N=3023) to glimepiride (N=3010) in adult patients with type 2 diabetes mellitus and a history of established cardiovascular disease and/or multiple cardiovascular risk factors.
 The trial compared the risk of major adverse cardiovascular events (MACE) between linagliptin and glimepiride when these were added to standard of care treatments for diabetes and other cardiovascular risk factors.
 The trial was event driven, the median duration of follow-up was 6.23 years and vital status was obtained for 99.3% of patients.
 

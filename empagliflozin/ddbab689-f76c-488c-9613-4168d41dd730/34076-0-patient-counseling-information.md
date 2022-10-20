@@ -41,7 +41,7 @@ Advise them of treatment options and when to seek medical advice [see Warnings a
 
 Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
 
-Inform male patients that yeast infection of penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
+Inform male patients that yeast infection of the penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
 Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
 Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
 

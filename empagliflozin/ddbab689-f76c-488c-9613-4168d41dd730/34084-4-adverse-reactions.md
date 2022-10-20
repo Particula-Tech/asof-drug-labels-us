@@ -91,7 +91,7 @@ Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 
 
 Increase in Amylase: In a cardiovascular safety study comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
 
-The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis.
+The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.1)].
 
 ## 6.2 Postmarketing Experience
 
