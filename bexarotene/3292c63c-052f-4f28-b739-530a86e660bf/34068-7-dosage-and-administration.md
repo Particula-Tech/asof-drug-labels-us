@@ -8,8 +8,7 @@ Table 1: Bexarotene Capsules Initial Dose Calculation According to Body Surface 
 
 | Initial Dose Level (300 mg/m2/day) |  |  |
 | --- | --- | --- |
-| Body Surface Area | Total Daily Dose | Number of 75 mg |
-| (m2) | (mg/day) | Bexarotene Capsules |
+| Body Surface Area (m2) | Total Daily Dose (mg/day) | Number of 75 mg Bexarotene Capsules |
 | 0.88 to 1.12 | 300 | 4 |
 | 1.13 to 1.37 | 375 | 5 |
 | 1.38 to 1.62 | 450 | 6 |

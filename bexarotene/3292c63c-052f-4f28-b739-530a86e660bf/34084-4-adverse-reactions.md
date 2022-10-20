@@ -111,7 +111,7 @@ Table 3: Incidence of Moderately Severe and Severe Adverse Events Reported in at
 
 |  | Initial Assigned Dose Group (mg/m2/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | 300 (N=84) | >300 (N=53) |  |  |
+|  | 300 (N=84) |  | >300 (N=53) |  |
 |  | Mod Sev | Severe | Mod Sev | Severe |
 | Body System |  |  |  |  |
 | Adverse Event1,2 | N (%) | N (%) | N (%) | N (%) |
@@ -148,8 +148,8 @@ Table 4: Treatment-Emergent Abnormal Laboratory Values in CTCL Trials
 
 |  | Initial Assigned Dose (mg/m2/day) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | 300 | >300 |  |  |
-|  | N=831 | N=531 |  |  |
+|  | 300 |  | >300 |  |
+|  | N=831 |  | N=531 |  |
 |  | Grade 32 | Grade 42 | Grade 3 | Grade 4 |
 | Analyte | % | % | % | % |
 | Triglycerides3 | 21 | 7 | 32 | 14 |
