@@ -11,9 +11,10 @@ SEMGLEE (insulin glargine-yfgn) injection is supplied as a clear and colorless s
 | 49502-251-73 | 3 pens |  |  |
 | 49502-251-75 | 5 pens |  |  |
 
-The SEMGLEE prefilled pen dials in 1-unit increments.
+Additional Information about SEMGLEE:
 
-Needles are not included in the packs.
+- •The SEMGLEE prefilled pen dials in 1-unit increments.
+- •Needles are not included in the packs.
 
 BD® Ultra-Fine needles are compatible with this pen.
 
@@ -21,7 +22,8 @@ BD® Ultra-Fine needles are compatible with this pen.
 
 Dispense in the original sealed carton with the enclosed Instructions for Use.
 
-SEMGLEE should not be stored in the freezer and should not be allowed to freeze.
+Store unused SEMGLEE in a refrigerator between 2° to 8°C (36° to 46°F).
+Do not freeze.
 Discard SEMGLEE if it has been frozen.
 Protect SEMGLEE from direct heat and light.
 
