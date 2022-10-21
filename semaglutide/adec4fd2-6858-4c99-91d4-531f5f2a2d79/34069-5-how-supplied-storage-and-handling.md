@@ -2,10 +2,11 @@
 
 How Supplied
 
-Injection: clear, colorless solution of 1.34 mg/mL or 2.68 mg/mL of semaglutide available in pre-filled, disposable, single-patient-use pens in the following packaging configurations:
+Injection: clear, colorless solution of 0.68 mg/mL, 1.34 mg/mL or 2.68 mg/mL of semaglutide available in pre-filled, disposable, single-patient-use pens in the following packaging configurations:
 
 | Dose per Injection | Use For | Total Strength per Total Volume | Doses per Pen | Carton Contents | NDC |
 | --- | --- | --- | --- | --- | --- |
+| 0.25 mg0.5 mg | Initiation Maintenance | 2 mg / 3 mL | 4 doses of 0.25 mg and2 doses of 0.5 mg or 4 doses of 0.5 mg | 1 pen6 NovoFine® Plus needles | 0169-4181-13 |
 | 0.25 mg0.5 mg | Initiation Maintenance | 2 mg / 1.5 mL | 4 doses of 0.25 mg and2 doses of 0.5 mg or 4 doses of 0.5 mg | 1 pen6 NovoFine® Plus needles | 0169-4132-12 |
 | 1 mg | Maintenance | 4 mg / 3 mL | 4 doses of 1 mg | 1 pen4 NovoFine® Plus needles | 0169-4130-13 |
 | 2 mg | Maintenance | 8 mg / 3 mL | 4 doses of 2 mg | 1 pen4 NovoFine® Plus needles | 0169-4772-12 |

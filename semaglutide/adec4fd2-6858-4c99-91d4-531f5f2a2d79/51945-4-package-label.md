@@ -97,3 +97,25 @@ Use OZEMPIC once weekly
 Contains: 1 OZEMPIC pen, 4 NovoFine® Plus 32G needles, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
+
+# PRINCIPAL DISPLAY PANEL – 2 mg. 3mL Low Dose Pen
+
+0.25 mg NDC 0169-4181-13 List 418113
+
+0.5 mg
+
+OZEMPIC®
+
+(semaglutide) injection
+
+2 mg/3 mL (0.68 mg/mL) Prefilled pen
+
+Pen delivers doses in 0.25 mg or 0.5 mg increments only
+
+For subcutaneous use only
+
+Use OZEMPIC once weekly
+
+Contains: 1 OZEMPIC pen, 6 NovoFine® Plus 32G needles, Product Literature.
+
+Dispense the enclosed Medication Guide to each patient.
