@@ -1,13 +1,13 @@
 # 10 OVERDOSAGE
 
-The toxic dose of diclofenac sodium and misoprostol has not been determined.
+The toxic dose of diclofenac sodium and misoprostol delayed-release tablets has not been determined.
 However, signs of overdosage from the components of the product have been described.
 
 Diclofenac
 
 Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
 Gastrointestinal bleeding has occurred.
-Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
+Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.2, 5.3, 5.5, 5.7)].
 
 Clinical signs that may suggest diclofenac sodium overdose include GI complaints, confusion, drowsiness, or general hypotonia.
 

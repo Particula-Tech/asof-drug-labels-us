@@ -4,11 +4,11 @@ Osteoarthritis
 
 Diclofenac sodium, as a single ingredient or in combination with misoprostol, has been shown to be effective in the management of the signs and symptoms of osteoarthritis.
 
-Rheumatoid arthritis
+Rheumatoid Arthritis
 
 Diclofenac sodium, as a single ingredient or in combination with misoprostol, has been shown to be effective in the management of the signs and symptoms of rheumatoid arthritis.
 
-Upper gastrointestinal safety
+Upper Gastrointestinal Safety
 
 Diclofenac, and other NSAIDs, have caused serious gastrointestinal toxicity, such as bleeding, ulceration, and perforation of the stomach, small intestine or large intestine.
 Misoprostol has been shown to reduce the incidence of endoscopically diagnosed NSAID-induced gastric and duodenal ulcers.
@@ -28,15 +28,15 @@ Table 3
 | N=1623; 12 weeks |  |  |  |  |
 | *Misoprostol significantly different from placebo (p<0.05) |  |  |  |  |
 
-Results of a study in 572 patients with osteoarthritis demonstrate that patients receiving diclofenac sodium and misoprostol have a lower incidence of endoscopically defined gastric ulcers compared to patients receiving diclofenac sodium (see Table 4).
+Results of a study in 572 patients with osteoarthritis demonstrate that patients receiving diclofenac sodium and misoprostol delayed-release tablets have a lower incidence of endoscopically defined gastric ulcers compared to patients receiving diclofenac sodium (see Table 4).
 
 Table 4
 
 | Osteoarthritis patients with history of | Incidence of ulcers |  |
 | --- | --- | --- |
 | ulcer or erosive disease (N=572), 6 weeks | Gastric | Duodenal |
-| Diclofenac Sodium/Misoprostol Tablets 50 mg/ 0.2 mg three times a day | 3%* | 6% |
-| Diclofenac Sodium/Misoprostol Tablets 75 mg/ 0.2 mg two times a day | 4%* | 3% |
+| Diclofenac Sodium/Misoprostol Delayed-Release Tablets 50 mg/ 0.2 mg three times a day | 3%* | 6% |
+| Diclofenac Sodium/Misoprostol Delayed-Release Tablets 75 mg/0.2 mg two times a day | 4%* | 3% |
 | Diclofenac sodium 75 mg two times a day | 11% | 7% |
 | Placebo | 3% | 1% |
 | *Statistically significantly different from diclofenac (p<0.05) |  |  |
