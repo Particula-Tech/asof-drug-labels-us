@@ -64,7 +64,7 @@ Smaller reductions in HbA1C with INVOKANA relative to placebo were seen in older
 
 The efficacy and safety of INVOKANA for glycemic control were evaluated in a trial that included patients with moderate renal impairment (eGFR 30 to less than 50 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 These patients had less overall glycemic efficacy, and patients treated with 300 mg per day had increases in serum potassium, which were transient and similar by the end of study.
-Patients with renal impairment using INVOKANA for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.2)].
+Patients with renal impairment using INVOKANA for glycemic control may also be more likely to experience hypotension and may be at higher risk for acute kidney injury [see Warnings and Precautions (5.3)].
 
 Efficacy and safety studies with INVOKANA did not enroll patients with ESKD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
 INVOKANA is contraindicated in patients with ESKD on dialysis [see Contraindications (4) and Clinical Pharmacology (12.1)].

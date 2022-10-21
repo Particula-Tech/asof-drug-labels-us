@@ -15,10 +15,10 @@ Patients not taking oral antihyperglycemic agents (N=303) entered the 2-week, si
 After the placebo run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily for 26 weeks.
 
 At the end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo.
-INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), in improved postprandial glucose (PPG), and in percent body weight reduction compared to placebo (see Table 9).
+INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), in improved postprandial glucose (PPG), and in percent body weight reduction compared to placebo (see Table 10).
 Statistically significant (p<0.001 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -3.7 mmHg and -5.4 mmHg with INVOKANA 100 mg and 300 mg, respectively.
 
-Table 9: Results from 26-Week Placebo-Controlled Clinical Study with INVOKANA as MonotherapyIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 10: Results from 26-Week Placebo-Controlled Clinical Study with INVOKANA as MonotherapyIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo (N=192) | INVOKANA 100 mg (N=195) | INVOKANA 300 mg (N=197) |
 | --- | --- | --- | --- |
@@ -49,10 +49,10 @@ Patients taking less than the required metformin dose or patients on metformin i
 After the placebo run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, sitagliptin 100 mg, or placebo, administered once daily as add-on therapy to metformin.
 
 At the end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin.
-INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), in improved postprandial glucose (PPG), and in percent body weight reduction compared to placebo when added to metformin (see Table 10).
+INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG), in improved postprandial glucose (PPG), and in percent body weight reduction compared to placebo when added to metformin (see Table 11).
 Statistically significant (p<0.001 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -5.4 mmHg and -6.6 mmHg with INVOKANA 100 mg and 300 mg, respectively.
 
-Table 10: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 11: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Metformin (N=183) | INVOKANA 100 mg + Metformin (N=368) | INVOKANA 300 mg + Metformin (N=367) |
 | --- | --- | --- | --- |
@@ -79,13 +79,13 @@ Initial Combination Therapy with Metformin
 A total of 1,186 patients with type 2 diabetes inadequately controlled with diet and exercise participated in a 26-week double-blind, active-controlled, parallel-group, 5-arm, multicenter trial to evaluate the efficacy and safety of initial therapy with INVOKANA in combination with metformin XR.
 The median age was 56 years, 48% of patients were men, and the mean baseline eGFR was 87.6 mL/min/1.73 m2.
 The median duration of diabetes was 1.6 years, and 72% of patients were treatment naïve.
-After completing a 2-week single-blind placebo run-in period, patients were randomly assigned for a double-blind treatment period of 26 weeks to 1 of 5 treatment groups (Table 11).
+After completing a 2-week single-blind placebo run-in period, patients were randomly assigned for a double-blind treatment period of 26 weeks to 1 of 5 treatment groups (Table 12).
 The metformin XR dose was initiated at 500 mg/day for the first week of treatment and then increased to 1000 mg/day.
 Metformin XR or matching placebo was up-titrated every 2–3 weeks during the next 8 weeks of treatment to a maximum daily dose of 1500 to 2000 mg/day, as tolerated; about 90% of patients reached 2000 mg/day.
 
 At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg in combination with metformin XR resulted in a statistically significant greater improvement in HbA1C compared to their respective INVOKANA doses (100 mg and 300 mg) alone or metformin XR alone.
 
-Table 11: Results from 26-Week Active-Controlled Clinical Study of INVOKANA Alone or INVOKANA as Initial Combination Therapy with MetforminIntent-to-treat population
+Table 12: Results from 26-Week Active-Controlled Clinical Study of INVOKANA Alone or INVOKANA as Initial Combination Therapy with MetforminIntent-to-treat population
 
 | Efficacy Parameter | Metformin XR (N=237) | INVOKANA 100 mg (N=237) | INVOKANA 300 mg (N=238) | INVOKANA 100 mg + Metformin XR (N=237) | INVOKANA 300 mg + Metformin XR (N=237) |
 | --- | --- | --- | --- | --- | --- |
@@ -106,11 +106,11 @@ Patients tolerating maximally required metformin dose (N=928) were randomized af
 Other patients (N=522) were switched to metformin monotherapy (at doses described above) for at least 10 weeks, then completed a 2-week single-blind run-in period.
 After the 2-week run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or glimepiride (titration allowed throughout the 52-week trial to 6 or 8 mg), administered once daily as add-on therapy to metformin.
 
-As shown in Table 12 and Figure 1, at the end of treatment, INVOKANA 100 mg provided similar reductions in HbA1C from baseline compared to glimepiride when added to metformin therapy.
+As shown in Table 13 and Figure 1, at the end of treatment, INVOKANA 100 mg provided similar reductions in HbA1C from baseline compared to glimepiride when added to metformin therapy.
 INVOKANA 300 mg provided a greater reduction from baseline in HbA1C compared to glimepiride, and the relative treatment difference was -0.12% (95% CI: –0.22; –0.02).
-As shown in Table 12, treatment with INVOKANA 100 mg and 300 mg daily provided greater improvements in percent body weight change, relative to glimepiride.
+As shown in Table 13, treatment with INVOKANA 100 mg and 300 mg daily provided greater improvements in percent body weight change, relative to glimepiride.
 
-Table 12: Results from 52–Week Clinical Study Comparing INVOKANA to Glimepiride in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 13: Results from 52–Week Clinical Study Comparing INVOKANA to Glimepiride in Combination with MetforminIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | INVOKANA 100 mg + Metformin (N=483) | INVOKANA 300 mg + Metformin (N=485) | Glimepiride (titrated) + Metformin (N=482) |
 | --- | --- | --- | --- |
@@ -138,10 +138,10 @@ The mean age was 65 years, 57% of patients were men, and the mean baseline eGFR 
 Patients treated with sulfonylurea monotherapy on a stable protocol-specified dose (greater than or equal to 50% maximal dose) for at least 10 weeks completed a 2-week, single-blind, placebo run-in period.
 After the run-in period, patients with inadequate glycemic control were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily as add-on to sulfonylurea.
 
-As shown in Table 13, at the end of treatment, INVOKANA 100 mg and 300 mg daily provided statistically significant (p<0.001 for both doses) improvements in HbA1C relative to placebo when added to sulfonylurea.
+As shown in Table 14, at the end of treatment, INVOKANA 100 mg and 300 mg daily provided statistically significant (p<0.001 for both doses) improvements in HbA1C relative to placebo when added to sulfonylurea.
 INVOKANA 300 mg once daily compared to placebo resulted in a greater proportion of patients achieving an HbA1C less than 7%, (33% vs 5%), greater reductions in fasting plasma glucose (-36 mg/dL vs +12 mg/dL), and greater percent body weight reduction (-2.0% vs -0.2%).
 
-Table 13: Results from 18-Week Placebo–Controlled Clinical Study of INVOKANA in Combination with SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 14: Results from 18-Week Placebo–Controlled Clinical Study of INVOKANA in Combination with SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Sulfonylurea (N=45) | INVOKANA 100 mg + Sulfonylurea (N=42) | INVOKANA 300 mg + Sulfonylurea (N=40) |
 | --- | --- | --- | --- |
@@ -159,9 +159,9 @@ Other patients (N=97) were required to be on a stable protocol-specified dose of
 Following the run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily as add-on to metformin and sulfonylurea.
 
 At the end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin and sulfonylurea.
-INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in a significant reduction in fasting plasma glucose (FPG), and in percent body weight reduction compared to placebo when added to metformin and sulfonylurea (see Table 14).
+INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in a significant reduction in fasting plasma glucose (FPG), and in percent body weight reduction compared to placebo when added to metformin and sulfonylurea (see Table 15).
 
-Table 14: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 15: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Metformin and Sulfonylurea (N=156) | INVOKANA 100 mg + Metformin and Sulfonylurea (N=157) | INVOKANA 300 mg + Metformin and Sulfonylurea (N=156) |
 | --- | --- | --- | --- |
@@ -191,7 +191,7 @@ While up-titration occurred as early as Week 4, most (90%) patients randomized t
 
 At the end of 26 weeks, INVOKANA resulted in a statistically significant improvement in HbA1C (p<0.001) compared to placebo when added to metformin and sitagliptin.
 
-Table 15: Results from 26–Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and Sitagliptin
+Table 16: Results from 26–Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and Sitagliptin
 
 | Efficacy Parameter | Placebo + Metformin and Sitagliptin (N=108To preserve the integrity of randomization, all randomized patients were included in the analysis. The patient who was randomized once to each arm was analyzed on INVOKANA.) | INVOKANA + Metformin and Sitagliptin (N=109) |
 | --- | --- | --- |
@@ -213,11 +213,11 @@ Patients already on protocol-specified doses of metformin and sulfonylurea (N=71
 Other patients (N=39) were required to be on a stable protocol-specified dose of metformin and sulfonylurea for at least 8 weeks before entering the 2-week run-in period.
 Following the run-in period, patients were randomized to INVOKANA 300 mg or sitagliptin 100 mg as add-on to metformin and sulfonylurea.
 
-As shown in Table 16 and Figure 2, at the end of treatment, INVOKANA 300 mg provided greater HbA1C reduction compared to sitagliptin 100 mg when added to metformin and sulfonylurea (p<0.05).
+As shown in Table 17 and Figure 2, at the end of treatment, INVOKANA 300 mg provided greater HbA1C reduction compared to sitagliptin 100 mg when added to metformin and sulfonylurea (p<0.05).
 INVOKANA 300 mg resulted in a mean percent change in body weight from baseline of -2.5% compared to +0.3% with sitagliptin 100 mg.
 A mean change in systolic blood pressure from baseline of -5.06 mmHg was observed with INVOKANA 300 mg compared to +0.85 mmHg with sitagliptin 100 mg.
 
-Table 16: Results from 52-Week Clinical Study Comparing INVOKANA to Sitagliptin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 17: Results from 52-Week Clinical Study Comparing INVOKANA to Sitagliptin in Combination with Metformin and SulfonylureaIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | INVOKANA 300 mg + Metformin and Sulfonylurea (N=377) | Sitagliptin 100 mg + Metformin and Sulfonylurea (N=378) |
 | --- | --- | --- |
@@ -246,10 +246,10 @@ Other patients (N=181) were required to be on stable protocol-specified doses of
 Following the run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily as add-on to metformin and pioglitazone.
 
 At the end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to metformin and pioglitazone.
-INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG) and in percent body weight reduction compared to placebo when added to metformin and pioglitazone (see Table 17).
+INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reduction in fasting plasma glucose (FPG) and in percent body weight reduction compared to placebo when added to metformin and pioglitazone (see Table 18).
 Statistically significant (p<0.05 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -4.1 mmHg and -3.5 mmHg with INVOKANA 100 mg and 300 mg, respectively.
 
-Table 17: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and PioglitazoneIntent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 18: Results from 26-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Metformin and PioglitazoneIntent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Metformin and Pioglitazone (N=115) | INVOKANA 100 mg + Metformin and Pioglitazone (N=113) | INVOKANA 300 mg + Metformin and Pioglitazone (N=114) |
 | --- | --- | --- | --- |
@@ -277,10 +277,10 @@ After the run-in period, patients were randomized to INVOKANA 100 mg, INVOKANA 3
 The mean daily insulin dose at baseline was 83 units, which was similar across treatment groups.
 
 At the end of treatment, INVOKANA 100 mg and 300 mg once daily resulted in a statistically significant improvement in HbA1C (p<0.001 for both doses) compared to placebo when added to insulin.
-INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reductions in fasting plasma glucose (FPG), and in percent body weight reductions compared to placebo (see Table 18).
+INVOKANA 100 mg and 300 mg once daily also resulted in a greater proportion of patients achieving an HbA1C less than 7%, in significant reductions in fasting plasma glucose (FPG), and in percent body weight reductions compared to placebo (see Table 19).
 Statistically significant (p<0.001 for both doses) mean changes from baseline in systolic blood pressure relative to placebo were -2.6 mmHg and -4.4 mmHg with INVOKANA 100 mg and 300 mg, respectively.
 
-Table 18: Results from 18-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Insulin ≥ 30 Units/Day (With or Without Other Oral Antihyperglycemic Agents)Intent-to-treat population using last observation in study prior to glycemic rescue therapy
+Table 19: Results from 18-Week Placebo-Controlled Clinical Study of INVOKANA in Combination with Insulin ≥ 30 Units/Day (With or Without Other Oral Antihyperglycemic Agents)Intent-to-treat population using last observation in study prior to glycemic rescue therapy
 
 | Efficacy Parameter | Placebo + Insulin (N=565) | INVOKANA 100 mg + Insulin (N=566) | INVOKANA 300 mg + Insulin (N=587) |
 | --- | --- | --- | --- |
@@ -312,7 +312,7 @@ A total of 269 patients with type 2 diabetes and a baseline eGFR of 30 mL/min/1.
 The mean age was 68 years, 61% of patients were men, and the mean baseline eGFR was 39 mL/min/1.73 m2.
 Patients were randomized in a 1:1:1 ratio to the addition of INVOKANA 100 mg, INVOKANA 300 mg, or placebo, administered once daily.
 
-At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53%; -0.07%] and -0.40%, [95% CI: -0.64%; -0.17%], respectively) [see Warnings and Precautions (5.2), Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.3)].
+At the end of treatment, INVOKANA 100 mg and INVOKANA 300 mg daily provided greater reductions in HbA1C relative to placebo (-0.30% [95% CI: -0.53%; -0.07%] and -0.40%, [95% CI: -0.64%; -0.17%], respectively) [see Warnings and Precautions (5.3), Adverse Reactions (6.1), Use in Specific Populations (8.6), and Clinical Studies (14.3)].
 
 ## 14.2 Cardiovascular Outcomes in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
@@ -343,11 +343,11 @@ For the primary analysis, a stratified Cox proportional hazards model was used t
 
 In the integrated analysis of CANVAS and CANVAS-R trials, canagliflozin reduced the risk of first occurrence of MACE.
 The estimated hazard ratio (95% CI) for time to first MACE was 0.86 (0.75, 0.97).
-Refer to Table 19.
+Refer to Table 20.
 Vital status was obtained for 99.6% of patients across the trials.
 The Kaplan-Meier curve depicting time to first occurrence of MACE is shown in Figure 3.
 
-Table 19: Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the Integrated Analysis of CANVAS and CANVAS-R studiesIntent-To-Treat Analysis Set
+Table 20: Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in the Integrated Analysis of CANVAS and CANVAS-R studiesIntent-To-Treat Analysis Set
 
 |  | Placebo N=4347(%) | Canagliflozin N=5795 (%) | Hazard ratio (95% C.I.)Stratified Cox-proportional hazards model with treatment as a factor and stratified by study and by prior CV disease |
 | --- | --- | --- | --- |
@@ -378,11 +378,11 @@ Nearly all subjects (99.9%) were on ACEi or ARB at randomization, approximately 
 
 The primary composite endpoint in the CREDENCE study was the time to first occurrence of ESKD (defined as an eGFR < 15 mL/min/1.73 m2, initiation of chronic dialysis or renal transplant), doubling of serum creatinine, and renal or CV death.
 Canagliflozin 100 mg significantly reduced the risk of the primary composite endpoint based on a time-to-event analysis [HR: 0.70; 95% CI: 0.59, 0.82; p<0.0001] (see Figure 4).
-The treatment effect reflected a reduction in progression to ESKD, doubling of serum creatinine and cardiovascular death as shown in Table 20 and Figure 4.
+The treatment effect reflected a reduction in progression to ESKD, doubling of serum creatinine and cardiovascular death as shown in Table 21 and Figure 4.
 There were few renal deaths during the trial.
 Canagliflozin 100 mg also significantly reduced the risk of hospitalization for heart failure [HR: 0.61; 95% CI: 0.47 to 0.80; p<0.001].
 
-Table 20: Analysis of Primary Endpoint (including the Individual Components) and Secondary Endpoints from the CREDENCE Study
+Table 21: Analysis of Primary Endpoint (including the Individual Components) and Secondary Endpoints from the CREDENCE Study
 
 | Endpoint | N=2,199 (%) | Event RateEvent rate per 100 patient-years. | N=2,202 (%) | Event Rate | HRHazard ratio (canagliflozin compared to placebo), 95% CI and p-value are estimated using a stratified Cox proportional hazards model including treatment as the explanatory variable and stratified by screening eGFR (≥ 30 to < 45, ≥ 45 to < 60, ≥ 60 to < 90 mL/min/1.73 m2). HR is not presented for renal death due to the small number of events in each group. (95% CI) |
 | --- | --- | --- | --- | --- | --- |

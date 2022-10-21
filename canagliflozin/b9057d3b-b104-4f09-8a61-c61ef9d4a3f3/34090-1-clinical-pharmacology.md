@@ -74,7 +74,7 @@ Renal impairment did not affect the Cmax of canagliflozin.
 Compared to healthy subjects (N=3; eGFR greater than or equal to 90 mL/min/1.73 m2), plasma AUC of canagliflozin was increased by approximately 15%, 29%, and 53% in subjects with mild (N=10), moderate (N=9), and severe (N=10) renal impairment, respectively, (eGFR 60 to less than 90, 30 to less than 60, and 15 to less than 30 mL/min/1.73 m2, respectively), but was similar for ESKD (N=8) subjects and healthy subjects.
 
 Increases in canagliflozin AUC of this magnitude are not considered clinically relevant.
-The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.2)].
+The glucose lowering pharmacodynamic response to canagliflozin declines with increasing severity of renal impairment [see Contraindications (4) and Warnings and Precautions (5.3)].
 
 Canagliflozin was negligibly removed by hemodialysis.
 
@@ -101,12 +101,12 @@ Canagliflozin is also a substrate of drug transporters P-glycoprotein (P-gp) and
 
 In Vivo Assessment of Drug Interactions
 
-Table 7: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozin
+Table 8: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozin
 
 | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |
-| See Drug Interactions (7.1) for the clinical relevance of the following: |  |  |  |  |
+| See Drug Interactions (7) for the clinical relevance of the following: |  |  |  |  |
 | Rifampin | 600 mg QD for 8 days | 300 mg | 0.49 (0.44; 0.54) | 0.72 (0.61; 0.84) |
 | No dose adjustments of INVOKANA required for the following: |  |  |  |  |
 | Cyclosporine | 400 mg | 300 mg QD for 8 days | 1.23 (1.19; 1.27) | 1.01 (0.91; 1.11) |
@@ -116,12 +116,12 @@ Table 7: Effect of Co–Administered Drugs on Systemic Exposures of Canagliflozi
 | Probenecid | 500 mg BID for 3 days | 300 mg QD for 17 days | 1.21 (1.16; 1.25) | 1.13 (1.00; 1.28) |
 | QD = once daily; BID = twice daily |  |  |  |  |
 
-Table 8: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
+Table 9: Effect of Canagliflozin on Systemic Exposure of Co-Administered Drugs
 
 |  | AUCAUCinf for drugs given as a single dose and AUC24h for drugs given as multiple doses (90% CI) | Cmax (90% CI) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Co-Administered Drug | Dose of Co-Administered DrugSingle dose unless otherwise noted | Dose of Canagliflozin | Geometric Mean Ratio (Ratio With/Without Co-Administered Drug) No Effect = 1.0 |  |  |
-| See Drug Interactions (7.2) for the clinical relevance of the following: |  |  |  |  |  |
+| See Drug Interactions (7) for the clinical relevance of the following: |  |  |  |  |  |
 | Digoxin | 0.5 mg QD first day followed by 0.25 mg QD for 6 days | 300 mg QD for 7 days | Digoxin | 1.20 (1.12; 1.28) | 1.36 (1.21; 1.53) |
 | No dose adjustments of co-administered drug required for the following: |  |  |  |  |  |
 | Acetaminophen | 1,000 mg | 300 mg BID for 25 days | Acetaminophen | 1.06AUC0–12h (0.98; 1.14) | 1.00 (0.92; 1.09) |

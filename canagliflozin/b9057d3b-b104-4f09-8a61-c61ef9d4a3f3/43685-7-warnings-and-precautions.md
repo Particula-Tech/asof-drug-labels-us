@@ -16,15 +16,7 @@ Before initiating INVOKANA, consider factors in the patient history that may pre
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving INVOKANA for signs and symptoms of infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and discontinue INVOKANA if these complications occur.
 
-## 5.2 Volume Depletion
-
-INVOKANA can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
-There have been post-marketing reports of acute kidney injury which are likely related to volume depletion, some requiring hospitalizations and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including INVOKANA.
-Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
-Before initiating INVOKANA in patients with one or more of these characteristics, assess and correct volume status.
-Monitor for signs and symptoms of volume depletion after initiating therapy.
-
-## 5.3 Ketoacidosis
+## 5.2 Ketoacidosis
 
 Reports of ketoacidosis, a serious life-threatening condition requiring urgent hospitalization have been identified in clinical trials and postmarketing surveillance in patients with type 1 and type 2 diabetes mellitus receiving sodium glucose co-transporter-2 (SGLT2) inhibitors, including INVOKANA.
 In placebo-controlled trials of patients with type 1 diabetes, the risk of ketoacidosis was increased in patients who received SGLT2 inhibitors compared to patients who received placebo.
@@ -48,6 +40,14 @@ Consider monitoring for ketoacidosis and temporarily discontinuing INVOKANA in o
 Ensure risk factors for ketoacidosis are resolved prior to restarting INVOKANA.
 
 Educate patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue INVOKANA and seek medical attention immediately if signs and symptoms occur.
+
+## 5.3 Volume Depletion
+
+INVOKANA can cause intravascular volume contraction which may sometimes manifest as symptomatic hypotension or acute transient changes in creatinine [see Adverse Reactions (6.1)].
+There have been post-marketing reports of acute kidney injury which are likely related to volume depletion, some requiring hospitalizations and dialysis, in patients with type 2 diabetes mellitus receiving SGLT2 inhibitors, including INVOKANA.
+Patients with impaired renal function (eGFR less than 60 mL/min/1.73 m2), elderly patients, or patients on loop diuretics may be at increased risk for volume depletion or hypotension.
+Before initiating INVOKANA in patients with one or more of these characteristics, assess and correct volume status.
+Monitor for signs and symptoms of volume depletion after initiating therapy.
 
 ## 5.4 Urosepsis and Pyelonephritis
 

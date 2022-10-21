@@ -8,16 +8,16 @@ Inform patients that INVOKANA is associated with an increased risk of amputation
 Counsel patients about the importance of routine preventative foot care.
 Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.1)].
 
-Volume Depletion
-
-Inform patients that symptomatic hypotension may occur with INVOKANA and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.2)].
-Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
-
 Ketoacidosis
 
 Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of INVOKANA, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKANA and seek medical attention immediately [see Warnings and Precautions (5.3)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKANA and seek medical attention immediately [see Warnings and Precautions (5.2)].
+
+Volume Depletion
+
+Inform patients that symptomatic hypotension may occur with INVOKANA and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.3)].
+Inform patients that dehydration may increase the risk for hypotension, and to have adequate fluid intake.
 
 Serious Urinary Tract Infections
 
@@ -62,7 +62,7 @@ Advise women that breastfeeding is not recommended during treatment with INVOKAN
 
 Laboratory Tests
 
-Inform patients that due to its mechanism of action, patients taking INVOKANA will test positive for glucose in their urine [see Drug Interactions (7.3)].
+Inform patients that due to its mechanism of action, patients taking INVOKANA will test positive for glucose in their urine [see Drug Interactions (7)].
 
 Missed Dose
 

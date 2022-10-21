@@ -2,9 +2,9 @@
 
 ## 2.1 Prior to Initiation of INVOKANA
 
-Assess renal function before initiating INVOKANA and as clinically indicated [see Warnings and Precautions (5.2)].
+Assess renal function before initiating INVOKANA and as clinically indicated [see Warnings and Precautions (5.3)].
 
-In patients with volume depletion, correct this condition before initiating INVOKANA [see Warnings and Precautions (5.2), Use in Specific Populations (8.5, 8.6)].
+In patients with volume depletion, correct this condition before initiating INVOKANA [see Warnings and Precautions (5.3), Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Recommended Dosage
 
@@ -24,7 +24,7 @@ Table 1: Recommended Dosage
 Patients with eGFR 60 mL/min/1.73 m2 or greater
 
 If an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
-The dose may be increased to 300 mg once daily in patients currently tolerating INVOKANA 200 mg and who require additional glycemic control [see Drug Interactions (7.1)].
+The dose may be increased to 300 mg once daily in patients currently tolerating INVOKANA 200 mg and who require additional glycemic control [see Drug Interactions (7)].
 
 Patients with eGFR less than 60 mL/min/1.73 m2
 

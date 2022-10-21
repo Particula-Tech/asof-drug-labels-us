@@ -3,8 +3,8 @@
 The following important adverse reactions are described below and elsewhere in the labeling:
 
 - Lower Limb Amputation [see Warnings and Precautions (5.1)]
-- Volume Depletion [see Warnings and Precautions (5.2)]
-- Ketoacidosis [see Warnings and Precautions (5.3)]
+- Ketoacidosis [see Warnings and Precautions (5.2)]
+- Volume Depletion [see Warnings and Precautions (5.3)]
 - Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
 - Necrotizing Fasciitis of the Perineum (Fournier's gangrene) [see Warnings and Precautions (5.6)]

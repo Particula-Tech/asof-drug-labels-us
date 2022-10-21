@@ -1,27 +1,25 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 UGT Enzyme Inducers
+Table 7: Clinically Significant Drug Interactions with INVOKANA
 
-Co-administration of canagliflozin with rifampin, a nonselective inducer of several UGT enzymes, including UGT1A9, UGT2B4, decreased canagliflozin area under the curve (AUC) by 51%.
-This decrease in exposure to canagliflozin may decrease efficacy.
-
-For patients with eGFR 60 mL/min/1.73 m2 or greater, if an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
-The dose may be increased to 300 mg once daily in patients currently tolerating INVOKANA 200 mg and who require additional glycemic control.
-
-For patients with eGFR less than 60 mL/min/1.73 m2, if an inducer of UGTs (e.g., rifampin, phenytoin, phenobarbital, ritonavir) is co-administered with INVOKANA, increase the dose to 200 mg (taken as two 100 mg tablets) once daily in patients currently tolerating INVOKANA 100 mg.
-Consider adding another antihyperglycemic agent in patients who require additional glycemic control [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
-
-## 7.2 Digoxin
-
-There was an increase in the AUC and mean peak drug concentration (Cmax) of digoxin (20% and 36%, respectively) when co-administered with INVOKANA 300 mg [see Clinical Pharmacology (12.3)].
-Patients taking INVOKANA with concomitant digoxin should be monitored appropriately.
-
-## 7.3 Positive Urine Glucose Test
-
-Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors as SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests.
-Use alternative methods to monitor glycemic control.
-
-## 7.4 Interference with 1,5-anhydroglucitol (1,5-AG) Assay
-
-Monitoring glycemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors.
-Use alternative methods to monitor glycemic control.
+| UGT Enzyme Inducers |  |
+| --- | --- |
+| Clinical Impact: | UGT enzyme inducers decrease canagliflozin exposure which may reduce the effectiveness of INVOKANA. |
+| Intervention: | For patients with eGFR 60 mL/min/1.73 m2 or greater, if an inducer of UGTs is administered with INVOKANA, increase the dosage to 200 mg daily in patients currently tolerating INVOKANA 100 mg daily. The total daily dosage may be increased to 300 mg daily in patients currently tolerating INVOKANA 200 mg daily who require additional glycemic control. For patients with eGFR less than 60 mL/min/1.73 m2, if an inducer of UGTs is administered with INVOKANA, increase the dosage to 200 mg daily in patients currently tolerating INVOKANA 100 mg daily. Consider adding another antihyperglycemic agent in patients who require additional glycemic control [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)]. |
+| Examples: | Rifampin, phenytoin, phenobarbital, ritonavir |
+| Insulin or Insulin Secretagogues |  |
+| Clinical Impact: | The risk of hypoglycemia is increased when INVOKANA is used concomitantly with insulin secretagogues (e.g., sulfonylurea) or insulin. |
+| Intervention: | Concomitant use may require a lower dosage of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
+| Digoxin |  |
+| Clinical Impact: | Canagliflozin increases digoxin exposure [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Monitor patients taking INVOKANA with concomitant digoxin for a need to adjust the dosage of digoxin. |
+| Lithium |  |
+| Clinical Impact: | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
+| Intervention: | Monitor serum lithium concentration more frequently during INVOKANA initiation and dosage changes. |
+| Drug/Laboratory Test Interference |  |
+| Positive Urine Glucose Test |  |
+| Clinical Impact: | SGLT2 inhibitors increase urinary glucose excretion which will lead to positive urine glucose tests. |
+| Intervention: | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
+| Interference with 1,5-anhydroglucitol (1,5-AG) Assay |  |
+| Clinical Impact: | Measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors. |
+| Intervention: | Monitoring glycemic control with 1,5-AG assay is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
