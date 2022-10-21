@@ -19,8 +19,7 @@ OMNIPAQUE Imaging Bulk Package (iohexol) Injection 350 mg iodine/mL:
 
 Protect OMNIPAQUE Imaging Bulk Package from exposure to sunlight.
 
-Store OMNIPAQUE Imaging Bulk Package at controlled room temperature, 20°-25°C (68°- 77°F); excursions permitted to 15°-30°C (59°-86°F) [see USP Controlled Room Temperature].
-
+Store OMNIPAQUE Imaging Bulk Package at controlled room temperature, 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 OMNIPAQUE Imaging Bulk Package may be stored in a contrast media warmer for up to one month at 37°C (98.6°F).
 
 Do not freeze.

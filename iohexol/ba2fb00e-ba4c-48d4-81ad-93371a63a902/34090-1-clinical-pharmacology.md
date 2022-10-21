@@ -11,7 +11,7 @@ A disruption in the blood-brain barrier allows for the accumulation of contrast 
 
 ## 12.2 Pharmacodynamics
 
-Following administration of Omnipaque, the degree of contrast enhancement is directly related to the iodine content in an administered dose; peak iodine blood concentrations occur immediately following rapid intravenous injection.
+Following administration of OMNIPAQUE, the degree of contrast enhancement is directly related to the iodine content in an administered dose; peak iodine blood concentrations occur immediately following rapid intravenous injection.
 The time to maximum contrast enhancement can vary, depending on the organ, from the time that peak blood iodine concentrations are reached to one hour after intravenous bolus administration.
 When a delay between peak blood iodine concentrations and peak contrast is present, it suggests that radiographic contrast enhancement is at least in part dependent on the accumulation of iodine containing agent within the lesion and outside the blood pool.
 
@@ -20,12 +20,12 @@ Urograms become apparent in about 1 to 3 minutes with optimal contrast occurring
 
 ## 12.3 Pharmacokinetics
 
-Following the intravenous administration of iohexol (between 500 mg iodine/kg to 1500 mg iodine/kg) to 16 adult human subjects, apparent first-order terminal elimination half-life was 12.6 hrs and total body clearance was 131 (98-165) mL/min.
+Following the intravenous administration of iohexol (between 500 mg iodine/kg to 1500 mg iodine/kg) to 16 adult human subjects, apparent first-order terminal elimination half-life was 12.6 hrs and total body clearance was 131 (98 to 165) mL/min.
 Clearance does not appear to be dose dependent.
 
 Distribution
 
-In 16 adult subjects (receiving between 500 mg iodine/kg to 1500 mg iodine/kg intravenous iohexol) the volume of distribution was165 (108-219) mL/kg.
+In 16 adult subjects (receiving between 500 mg iodine/kg to 1500 mg iodine/kg intravenous iohexol) the volume of distribution was 165 (108 to 219) mL/kg.
 
 Elimination
 

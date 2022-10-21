@@ -2,7 +2,7 @@
 
 ## 5.1 Risks with Inadvertent Intrathecal Administration
 
-OMNIPAQUE is for intravenous use only [See Dosage and Administration (2.1)].
+OMNIPAQUE is for intravenous use only [see Dosage and Administration (2.1)].
 Inadvertent Intrathecal administration can cause death, convulsions/seizures, cerebral hemorrhage, coma, paralysis, arachnoiditis, acute renal failure, cardiac arrest, rhabdomyolysis, hyperthermia, and brain edema.
 
 ## 5.2 Hypersensitivity Reactions
@@ -46,18 +46,30 @@ Monitor patients for extravasation and advise patients to seek medical care for 
 Thyroid storm has occurred after the intravascular use of iodinated contrast agents in patients with hyperthyroidism, or with an autonomously functioning thyroid nodule.
 Evaluate the risk in such patients before use of OMNIPAQUE.
 
-## 5.7 Hypertensive Crisis in Patients with Pheochromocytoma
+## 5.7 Thyroid Dysfunction in Pediatric Patients 0 to 3 Years of Age
+
+Thyroid dysfunction characterized by hypothyroidism or transient thyroid suppression has been reported after both single exposure and multiple exposures to iodinated contrast media.
+Among patients 0 to 3 years of age exposed to iodinated contrast media, thyroid dysfunction has been reported in 1% to 15% depending on the age of the patient and the dose of the iodinated contrast agent.
+
+Younger age, very low birth weight, prematurity, and the presence of other conditions, such as, admission to neonatal or pediatric intensive care units, and cardiac conditions are associated with an increased risk.
+Pediatric patients with cardiac conditions may be at the greatest risk given that they often require high doses of contrast during invasive cardiac procedures, such as catheterization and computed tomography (CT).
+
+Pediatric patients 0 to 3 years of age warrant closer monitoring because an underactive thyroid during early life may be harmful for motor, hearing, and cognitive development and may require transient T4 replacement therapy.
+Evaluate thyroid function in all pediatric patients 0 to 3 years of age within 3 weeks following exposure to iodinated contrast media, especially in term and preterm neonates.
+If thyroid dysfunction is detected, treat and monitor thyroid function as clinically needed.
+
+## 5.8 Hypertensive Crisis in Patients with Pheochromocytoma
 
 Hypertensive crisis has occurred after the use of iodinated contrast agents in patients with pheochromocytoma.
 Monitor patients when administering OMNIPAQUE if pheochromocytoma or catecholamine-secreting paragangliomas are suspected.
 Inject the minimum amount of contrast necessary, assess the blood pressure throughout the procedure, and have measures for treatment of a hypertensive crisis readily available.
 
-## 5.8 Sickle Cell Crisis in Patients with Sickle Cell Disease
+## 5.9 Sickle Cell Crisis in Patients with Sickle Cell Disease
 
 Iodinated contrast agents when administered intravascularly may promote sickling in individuals who are homozygous for sickle cell disease.
 Hydrate patients prior to and following OMNIPAQUE administration and use OMNIPAQUE only if the necessary imaging information cannot be obtained with alternative imaging modalities.
 
-## 5.9 Severe Cutaneous Adverse Reactions
+## 5.10 Severe Cutaneous Adverse Reactions
 
 Severe cutaneous adverse reactions (SCAR) may develop from 1 hour to several weeks after intravascular contrast agent administration.
 These reactions include Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS).

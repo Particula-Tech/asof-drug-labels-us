@@ -15,9 +15,9 @@ All solutions are sterile and contain no preservatives.
 
 ## 11.2 Physical Characteristics
 
-Table 2 summarizes the physical properties of the two concentrations of OMNIPAQUE Imaging Bulk Package.
+Table 3 summarizes the physical properties of the two concentrations of OMNIPAQUE Imaging Bulk Package.
 
-TABLE 2
+TABLE 3
 
 | Concentration (mg iodine/mL) | Osmolality By vapor-pressure osmometry. (mOsm/kg water) | Absolute Viscosity (cp) |  | Specific Gravity |
 | --- | --- | --- | --- | --- |

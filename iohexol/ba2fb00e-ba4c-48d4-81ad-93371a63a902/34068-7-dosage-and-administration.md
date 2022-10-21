@@ -2,7 +2,7 @@
 
 ## 2.1 Important Administration Instructions
 
-- OMNIPAQUE is for intravenous use only [see Boxed Warning, Contraindications (4), Warnings and Precautions (5.1)]
+- OMNIPAQUE is for intravenous use only [see Boxed Warning, Contraindications (4), and Warnings and Precautions (5.1)]
 - OMNIPAQUE may be administered at body (37°C) or room temperature.
   Do not warm the container beyond 37°C.
 - Inspect OMNIPAQUE for particulate matter or discoloration before administration, whenever solution and container permit.
@@ -22,18 +22,18 @@
 
 Table 1
 
-|  | CT Imaging – Head | 70 – 150 mL (21 to 45 grams iodine) | 80 mL (28 grams iodine) |
+|  | CT Imaging – Head | 70 to 150 mL (21 to 45 grams iodine) | 80 mL (28 grams iodine) |
 | --- | --- | --- | --- |
 | Adult Dosing Recommendations: Intravenous Administration |  |  |  |
 |  | STUDY TYPE | 300 mg iodine/mL | 350 mg iodine/mL |
-|  | CT Imaging – Body | 50 – 200 mL (15 to 60 grams iodine) | 60 – 100 mL (21 to 35 grams iodine) |
+|  | CT Imaging – Body | 50 to 200 mL (15 to 60 grams iodine) | 60 to 100 mL (21 to 35 grams iodine) |
 
 Table 2
 
 |  | STUDY TYPE | 300 mg iodine/mL |
 | --- | --- | --- |
 | Pediatric Patients The concentration and volume required will depend on the equipment and imaging technique used. Dosing Recommendations: Intravenous Administration |  |  |
-| Dosage for infants and children should be administered in proportion to age and body weight. | CT Imaging – Head and Body | 1 – 2 mL/kg Maximum single dose = 3mL/kg 35 grams iodine (116 mL) |
+| Dosage for infants and children should be administered in proportion to age and body weight. | CT Imaging – Head and Body | 1 to 2 mL/kg Maximum single dose = 3mL/kg 35 grams iodine (116 mL) |
 
 ## 2.3 Imaging Bulk Package Preparation Instructions
 
