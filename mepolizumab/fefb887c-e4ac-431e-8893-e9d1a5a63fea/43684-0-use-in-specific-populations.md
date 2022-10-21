@@ -58,7 +58,7 @@ Of the 19 adolescents who received NUCALA, 9 received 100 mg and the mean appare
 The safety profile observed in adolescents was generally similar to that of the overall population in the Phase 3 studies [see Adverse Reactions (6.1)].
 
 Use of NUCALA in pediatric patients aged 6 to 11 years with severe asthma, and with an eosinophilic phenotype, is supported by evidence from adequate and well-controlled trials in adults and adolescents with additional pharmacokinetic, pharmacodynamic, and safety data in children aged 6 to 11 years.
-A single, open-label clinical trial (NCT02377427) was conducted in 36 children aged 6 to 11 years (mean age: 8.6 years, 31% female) with severe asthma.
+A single open-label clinical trial (NCT02377427) was conducted in 36 children aged 6 to 11 years (mean age: 8.6 years, 31% female) with severe asthma.
 Enrollment criteria were the same as for adolescents in the 32-week exacerbation trial (Trial 2).
 Based upon the pharmacokinetic data from this trial, a dose of 40 mg subcutaneous every 4 weeks was determined to have similar exposure to adults and adolescents administered a dose of 100 mg subcutaneous [see Clinical Pharmacology (12.3)].
 

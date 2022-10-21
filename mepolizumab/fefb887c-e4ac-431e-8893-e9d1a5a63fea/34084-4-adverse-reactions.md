@@ -145,7 +145,7 @@ The clinical relevance of the presence of anti-mepolizumab antibodies is not kno
 In the clinical trial of children aged 6 to 11 years with severe asthma receiving NUCALA 40 or 100 mg, 2/35 (6%) had detectable anti‑mepolizumab antibodies during the initial short phase of the trial.
 No children had detectable anti-mepolizumab antibodies during the long phase of the trial.
 
-In patients with CRSwNP receiving NUCALA 100 mg, 6/196 (3%) had detectable anti mepolizumab antibodies.
+In patients with CRSwNP receiving NUCALA 100 mg, 6/196 (3%) had detectable anti-mepolizumab antibodies.
 No neutralizing antibodies were detected in any patients with CRSwNP.
 
 In patients with EGPA receiving 300 mg of NUCALA, 1/68 (<2%) had detectable anti-mepolizumab antibodies.

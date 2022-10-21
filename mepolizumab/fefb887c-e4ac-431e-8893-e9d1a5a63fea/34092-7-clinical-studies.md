@@ -177,12 +177,12 @@ Patients who received NUCALA 100 mg had a statistically significant improvement 
 Table 7.
 Analyses of Endpoints in CRSwNP
 
-| Scoresa(range) | Placebon = 201 |  | NUCALA 100 mgn = 206 |  | Mean Difference vs. Placebo (95% CI) |
-| --- | --- | --- | --- | --- | --- |
-| Baseline Mean(SD) | Mean Changeb(SE) | Baseline Mean (SD) | Mean Changeb (SE) |  |  |
-| NPS(0-8) | 5.6 (1.41) | 0.06 (0.14) | 5.4(1.17) | -0.87 (0.14) | -0.93(-1.31, -0.55) |
-| Nasal obstruction(0-10) | 9.02 (0.83) | -2.54(0.25) | 8.92(0.83) | -4.40 (0.25) | -1.86(-2.53, -1.19) |
-| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps, SD = standard deviation, SE = standard error, CI = Confidence Interval, NPS = Nasal polyp score at Week 52. a Patients with nasal surgery were assigned worst possible score for the period after nasal surgery. Missing data were imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count, visit, interaction terms for visit by baseline and visit by treatment. |  |  |  |  |  |
+| Scoresa(range) | Placebon = 201 |  | NUCALA 100 mgn = 206 |  | Mean Difference vs. Placebo (95% CI) |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Baseline Mean(SD) | Mean Changeb(SE) | Baseline Mean (SD) | Mean Changeb (SE) |  |  |  |  |
+| NPS(0-8) | 5.6 (1.41) | 0.06 (0.14) | 5.4(1.17) | -0.87 (0.14) | -0.93(-1.31, -0.55) |  |  |
+| Nasal obstruction(0-10) | 9.02 (0.83) | -2.54(0.25) | 8.92(0.83) | -4.40 (0.25) | -1.86(-2.53, -1.19) |  |  |
+| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps, SD = standard deviation, SE = standard error, CI = Confidence Interval, NPS = Nasal polyp score at Week 52. a Patients with nasal surgery were assigned worst possible score for the period after nasal surgery. Missing data were imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count, visit, interaction terms for visit by baseline and visit by treatment. |  |  |  |  |  |  |  |
 
 Nasal Polypectomy
 
@@ -197,18 +197,18 @@ CRSwNP = Chronic Rhinosinusitis with Nasal Polyps, SC = subcutaneous.
 
 Additional CRSwNP Symptoms Scores
 
-For patients who received NUCALA 100 mg, statistically significant improvement was observed in loss of smell compared to placebo and improvements were also observed in the individual VAS symptom scores compared with patients in the placebo group in the 4-weeks prior to the end of the 52-week treatment period (Table 81).
+For patients who received NUCALA 100 mg, statistically significant improvement was observed in loss of smell compared to placebo and improvements were also observed in the individual VAS symptom scores compared with patients in the placebo group in the 4-weeks prior to the end of the 52-week treatment period (Table 8).
 
 Table 8: Additional Visual Analog Scale Symptom Scores Assessed at Weeks 49-52
 
-| VAS Scoresa(range) | Placebon = 201 |  | NUCALA 100 mgn = 206 |  | Mean Difference vs. Placebo(95% CI) |
-| --- | --- | --- | --- | --- | --- |
-| Baseline Mean(SD) | Mean Changeb(SE) | Baseline Mean(SD) | Mean Changeb(SE) |  |  |
-| Loss of smell(0-10) | 9.68 (0.60) | -1.46 (0.24) | 9.63 (0.83) | -2.92 (0.24) | -1.46(-2.11, -0.81) |
-| Nasal dischargec(0-10) | 8.78 (1.25) | -2.49 (0.26) | 8.78 (1.07) | -4.38 (0.25) | -1.89(-2.58, -1.20) |
-| Mucus in the throatc(0-10) | 8.58 (1.63) | -2.37 (0.26) | 8.51 (1.61) | -4.07 (0.26) | -1.70(-2.41, -0.99) |
-| Facial painc(0-10) | 7.77 (2.72) | -2.04 (0.28) | 7.76 (2.51) | -3.73 (0.27) | -1.69(-2.43, -0.95) |
-| VAS = Visual Analog Scale; SD = Standard Deviation; SE = Standard Error; CI = Confidence Interval. a Patients with nasal surgery were assigned the worst possible score for the period after nasal surgery. Missing data was imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from an analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count visit, interaction terms for visit by baseline and visit by treatment. c This endpoint was not prespecified in the analysis plan to adjust for multiplicity. |  |  |  |  |  |
+| VAS Scoresa(range) | Placebon = 201 |  | NUCALA 100 mgn = 206 |  | Mean Difference vs. Placebo(95% CI) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Baseline Mean(SD) | Mean Changeb(SE) | Baseline Mean(SD) | Mean Changeb(SE) |  |  |  |  |  |  |  |  |  |  |
+| Loss of smell(0-10) | 9.68 (0.60) | -1.46 (0.24) | 9.63 (0.83) | -2.92 (0.24) | -1.46(-2.11, -0.81) |  |  |  |  |  |  |  |  |
+| Nasal dischargec(0-10) | 8.78 (1.25) | -2.49 (0.26) | 8.78 (1.07) | -4.38 (0.25) | -1.89(-2.58, -1.20) |  |  |  |  |  |  |  |  |
+| Mucus in the throatc(0-10) | 8.58 (1.63) | -2.37 (0.26) | 8.51 (1.61) | -4.07 (0.26) | -1.70(-2.41, -0.99) |  |  |  |  |  |  |  |  |
+| Facial painc(0-10) | 7.77 (2.72) | -2.04 (0.28) | 7.76 (2.51) | -3.73 (0.27) | -1.69(-2.43, -0.95) |  |  |  |  |  |  |  |  |
+| VAS = Visual Analog Scale; SD = Standard Deviation; SE = Standard Error; CI = Confidence Interval. a Patients with nasal surgery were assigned the worst possible score for the period after nasal surgery. Missing data was imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from an analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count visit, interaction terms for visit by baseline and visit by treatment. c This endpoint was not prespecified in the analysis plan to adjust for multiplicity. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Corticosteroid Reduction
 

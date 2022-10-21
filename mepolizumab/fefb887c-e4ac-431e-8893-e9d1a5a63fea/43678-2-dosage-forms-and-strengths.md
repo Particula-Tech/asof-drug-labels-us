@@ -2,7 +2,7 @@
 
 For injection
 
-100 mg white to off-white lyophilized powder in a single-dose vial for reconstitution.
+- •100 mg white to off-white lyophilized powder in a single-dose vial for reconstitution.
 
 Injection
 
