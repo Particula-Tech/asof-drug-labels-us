@@ -6,7 +6,9 @@ NDC 25021-830-82
 
 Zoledronic Acid Injection
 
-5 mg per 100 mL (0.05 mg per mL)
+5 mg per 100 mL
+
+(0.05 mg per mL)
 
 Rx only
 
