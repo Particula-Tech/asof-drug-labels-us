@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "adalimumab",
+  "labeler": "Catalent Indiana, LLC",
+  "package_ndcs": [
+    "61434-053-00"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "adalimumab-afzb",
+      "name": "Abrilada"
+    }
+  ],
+  "setid": "f2ee682a-8ea6-4068-bdbe-8a9e7d1a2514",
+  "source": "dailymed"
+}
