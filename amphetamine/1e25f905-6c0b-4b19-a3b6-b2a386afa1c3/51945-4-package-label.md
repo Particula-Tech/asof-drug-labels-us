@@ -1,23 +1,3 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Blister Pack Case Label
-
-NDC 24338-045-30 Rx Only
-
-EVEKEO ODT® CII
-
-amphetamine sulfate
-
-ORALLY DISINTEGRATING TABLET
-
-2.5 mg tablets
-
-Do not crush or chew tablets.
-
-Dispenser: Please provide the accompanying Medication Guide to each patient.
-
-Contains 30 Tablets
-
-arbor® PHARMACEUTICALS, LLC
-
 # PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Pack Case Label
 
 NDC 24338-031-30 Rx Only
@@ -95,25 +75,5 @@ Do not crush or chew tablets.
 Dispenser: Please provide the accompanying Medication Guide to each patient.
 
 Contains 15 Tablets
-
-arbor® PHARMACEUTICALS, LLC
-
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Blister Pack Case Carton
-
-NDC 24338-045-01 Rx Only
-
-EVEKEO ODT® CII
-
-amphetamine sulfate
-
-ORALLY DISINTEGRATING TABLET
-
-2.5 mg tablets
-
-Do not crush or chew tablets.
-
-Dispenser: Please provide the accompanying Medication Guide to each patient.
-
-Contains 30 Tablets (One plastic sleeve)
 
 arbor® PHARMACEUTICALS, LLC
