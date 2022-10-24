@@ -1,21 +1,9 @@
 © 2001 Janssen Pharmaceutical Companies
 
-Revised: December 2019
-
-Product of Ireland
-
-Capsule contents manufactured by:
-
-Janssen Pharmaceutica NV
-
-Olen, Belgium
-
-Manufactured by:
-
-Janssen Ortho LLC, Gurabo, Puerto Rico 00778
+Revised: October 2022
 
 Manufactured for:
 
 Janssen Pharmaceuticals, Inc.
 
-Titusville, NJ 08560
+Titusville, NJ 08560, USA
