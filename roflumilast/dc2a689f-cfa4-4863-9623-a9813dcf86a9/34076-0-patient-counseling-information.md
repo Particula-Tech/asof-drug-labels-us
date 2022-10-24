@@ -11,7 +11,7 @@ Roflumilast is not a bronchodilator and should not be used for immediate relief 
 Treatment with roflumilast is associated with an increase in psychiatric adverse reactions.
 Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
 The risks and benefits of treatment with roflumilast in patients with a history of depression and/or suicidal thoughts or behavior should be carefully considered.
-Advise patients, caregivers, and families to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider so that the risks and benefits of continuing treatment with roflumilastmay be considered [see Warnings and Precautions (5.2)].
+Advise patients, caregivers, and families to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider so that the risks and benefits of continuing treatment with roflumilast may be considered [see Warnings and Precautions (5.2)].
 
 ● Weight Decrease
 
@@ -25,16 +25,9 @@ If unexplained weight loss occurs, patients should inform their healthcare provi
 The use of cytochrome P450 enzyme inducers resulted in a reduction in exposure which may result in decreased therapeutic effectiveness of roflumilast.
 The use of strong cytochrome P450 enzyme inducers (e.g., rifampicin, phenobarbital, carbamazepine, phenytoin) with roflumilast is not recommended [see Drugs that Induce Cytochrome P450 (CYP) Enzymes (7.1) and Clinical Pharmacology (12.3)].
 
-Manufactured by:
+Manufactured by: Micro Labs Limited Goa-403 722, INDIA.
 
-Micro Labs Limited
+Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873
 
-Goa-403 722, INDIA.
-
-Manufactured for:
-
-Micro Labs USA Inc.
-
-Basking Ridge, NJ 07920
-
-Revised: 07/2018
+Rev.
+03/2022

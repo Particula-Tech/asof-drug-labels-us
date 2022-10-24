@@ -49,7 +49,7 @@ There is no information regarding the presence of roflumilast in human milk, the
 
 Roflumilast and/or its metabolites are excreted into the milk of lactating rats.
 Excretion of roflumilast and/or its metabolites into human milk is probable.
-Roflumilastshould not be used by women who are nursing.
+Roflumilast should not be used by women who are nursing.
 
 Data
 

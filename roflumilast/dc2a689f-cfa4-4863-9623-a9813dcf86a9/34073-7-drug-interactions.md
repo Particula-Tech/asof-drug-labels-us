@@ -1,19 +1,18 @@
 # 7 DRUG INTERACTIONS
 
-A m ajor st ep in ro flumil ast m et abolism is the N -o xid ation of ro flumil ast to ro flumil ast N -o xide by CY P3A4 and CY P1A2 [s ee Clini cal Pharma cology (12.
-3)].
+A major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2 [see Clinical Pharmacology (12.3)].
 
-## 7.1 Drugs that induce Cytochrome P450 (CYP) Enzymes
+## 7.1 Drugs that Induce Cytochrome P450 (CYP) Enzymes
 
 Strong cytochrome P450 enzyme inducers decrease systemic exposure to roflumilast and may reduce the therapeutic effectiveness of roflumilast.
 Therefore the use of strong cytochrome P450 inducers (e.g., rifampicin, phenobarbital, carbamazepine, and phenytoin) with roflumilast is not recommended [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
 
-## 7.2 Drugs that inhibit Cytochrome P450 (CYP) Enzymes
+## 7.2 Drugs that Inhibit Cytochrome P450 (CYP) Enzymes
 
 The co-administration of roflumilast (500 mcg) with CYP3A4 inhibitors or dual inhibitors that inhibit both CYP3A4 and CYP1A2 simultaneously (e.g., erythromycin, ketoconazole, fluvoxamine, enoxacin, cimetidine) may increase roflumilast systemic exposure and may result in increased adverse reactions.
 The risk of such concurrent use should be weighed carefully against benefit [see Clinical Pharmacology (12.3)].
 
-## 7.3 Oral combination contraceptives containing gestodene and ethinyl estradiol
+## 7.3 Oral Contraceptives Containing Gestodene and Ethinyl Estradiol
 
 The co-administration of roflumilast (500 mcg) with oral contraceptives containing gestodene and ethinyl estradiol may increase roflumilast systemic exposure and may result in increased side effects.
 The risk of such concurrent use should be weighed carefully against benefit [see Clinical Pharmacology (12.3)].

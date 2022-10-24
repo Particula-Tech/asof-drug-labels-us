@@ -1,11 +1,9 @@
 # 6 ADVERSE REACTIONS
 
-The following adv er se r e actions are d es cri b ed in g reat er d et ail in oth er s e ctions:
+The following adverse reactions are described in greater detail in other sections:
 
-- P s y chi at ric E v ents In c luding Sui cid ali ty [s ee Warnings and Pr ecautions (5.
-  2)]
-- W ei ght D e c rea se [s ee Warnings and Pr e cautions (5.
-  3)]
+- Psychiatric Events Including Suicidality [see Warnings and Precautions (5.2)]
+- Weight Decrease [see Warnings and Precautions (5.3)]
 
 ## 6.1 Adverse Reactions in Clinical Studies
 
@@ -51,8 +49,6 @@ Musculoskeletal and connective tissue disorders - muscle spasms
 Nervous system disorders - tremor
 
 Psychiatric disorders - anxiety, depression
-
-The safety profile of roflumilast reported during Trial 9 was consistent with the key pivotal studies.
 
 ## 6.2 Postmarketing Experience
 

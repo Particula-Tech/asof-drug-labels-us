@@ -18,7 +18,7 @@ The once daily dosing regimen was primarily based on the determination of a plas
 
 Effect on Exacerbations
 
-The effect of roflumilast 500 mcg once daily on COPD exacerbations was evaluated in five 1-year trials (Trials 3, 4, 5, and 6).
+The effect of roflumilast 500 mcg once daily on COPD exacerbations was evaluated in five 1-year trials (Trials 3, 4, 5 and 6).
 
 Two of the trials (Trials 3 and 4) conducted initially enrolled a population of patients with severe COPD (FEV 1 ≤ 50% of predicted) inclusive of those with chronic bronchitis and/or emphysema who had a history of smoking of at least 10 pack years.
 Inhaled corticosteroids were allowed as concomitant medications and used in 61% of both roflumilast and placebo-treated patients and short-acting beta agonists were allowed as rescue therapy.

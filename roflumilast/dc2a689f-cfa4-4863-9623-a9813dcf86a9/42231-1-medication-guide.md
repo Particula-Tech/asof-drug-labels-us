@@ -61,7 +61,7 @@ Before you take roflumilast tablets, tell your healthcare provider if you:
   It is not known if roflumilast tablets will harm your unborn baby.
   Talk to your healthcare provider if you are pregnant or plan to become pregnant.
 - are breastfeeding or plan to breastfeed.
-  It is not known if roflumilast tablets passes into your breast milk.
+  It is not known if roflumilast passes into your breast milk.
   You and your healthcare provider should decide if you will take roflumilast tablets or breastfeed.
   You should not do both.
 
@@ -98,7 +98,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How do I store Roflumilast Tablets?
 
-- Store roflumilast tablets at 68°F to 77°F (20°C to 25°C); excursions permitted to 15° to 30°C (59° to 86°F).
+- Store roflumilast tablets at 68° to 77°F (20° to 25°C); excursions permitted to 15° to 30°C (59° to 86°F).
   [See USP Controlled Room Temperature].
 
 Keep roflumilast tablets and all medicines out of the reach of children.
@@ -124,16 +124,9 @@ Inactive ingredients: hydroxypropyl cellulose, lactose monohydrate, magnesium st
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured by: Micro Labs Limited Goa-403 722, INDIA.
 
-Micro Labs Limited
+Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873
 
-Goa-403 722, INDIA.
-
-Manufactured for:
-
-Micro Labs USA Inc.
-
-Basking Ridge, NJ 07920
-
-Revised: 07/2018
+Rev.
+03/2022

@@ -2,13 +2,10 @@
 
 ## 5.1 Treatment of Acute Bronchospasm
 
-Roflumilast is not a b ron chodil ator and should not be us ed for t he reli ef of acute b ro n chosp asm.
+Roflumilast is not a bronchodilator and should not be used for the relief of acute bronchospasm.
 
 ## 5.2 Psychiatric Events including Suicidality
 
-Treatment with roflumilast is associated with an increase in psychiatric adverse reactions.
-In 8 controlled clinical trials 5.9% (263) of patients treated with roflumilast tablet 500 mcg daily reported psychiatric adverse reactions compared to 3.3% (137) treated with placebo.
-The most commonly reported psychiatric adverse reactions were insomnia, anxiety, and depression which were reported at higher rates in those treated with roflumilast 500 mcg daily (2.4%, 1.4%, and 1.2% for roflumilast versus 1.0%, 0.9%, and 0.9% for placebo, respectively) Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
 Treatment with roflumilast is associated with an increase in psychiatric adverse reactions.
 In 8 controlled clinical trials 5.9% (263) of patients treated with roflumilast tablet 500 mcg daily reported psychiatric adverse reactions compared to 3.3% (137) treated with placebo.
 The most commonly reported psychiatric adverse reactions were insomnia, anxiety, and depression which were reported at higher rates in those treated with roflumilast 500 mcg daily (2.4%, 1.4%, and 1.2% for roflumilast versus 1.0%, 0.9%, and 0.9% for placebo, respectively) [see Adverse Reactions (6.1)].
@@ -17,8 +14,6 @@ Three patients experienced suicide-related adverse reactions (one completed suic
 Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
 
 Before using roflumilast in patients with a history of depression and/or suicidal thoughts or behavior, prescribers should carefully weigh the risks and benefits of treatment with roflumilast in such patients.
-Patients, their caregivers, and families should be advised of the need to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider.
-Prescribers should carefully evaluate the risks and benefits of continuing treatment with roflumilast if such events occur.Before using roflumilast in patients with a history of depression and/or suicidal thoughts or behavior, prescribers should carefully weigh the risks and benefits of treatment with roflumilast in such patients.
 Patients, their caregivers, and families should be advised of the need to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider.
 Prescribers should carefully evaluate the risks and benefits of continuing treatment with roflumilast if such events occur.
 

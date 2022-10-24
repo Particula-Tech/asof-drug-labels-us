@@ -17,5 +17,4 @@ Carton of 11x10 Unit-dose Tablets NDC 42571-259-17
 
 ## 16.2 Storage and Handling
 
-Store roflumilast tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature].
+Store roflumilast tablets at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
