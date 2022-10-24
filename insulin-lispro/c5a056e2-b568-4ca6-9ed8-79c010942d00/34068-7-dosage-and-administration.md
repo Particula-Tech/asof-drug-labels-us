@@ -6,26 +6,26 @@
 - Inspect LYUMJEV visually before use.
   It should appear clear and colorless.
   Do not use LYUMJEV if particulate matter and discoloration is seen.
+- Use LYUMJEV prefilled pens with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - Do not perform dose conversion when using any LYUMJEV U-100 or U-200 prefilled pens.
   The dose window of LYUMJEV prefilled pens shows the number of units of LYUMJEV to be delivered and no conversion is needed.
 - Do not transfer LYUMJEV U-200 from the prefilled pen to a syringe for administration [see Warnings and Precautions (5.4)].
-- Use LYUMJEV prefilled pens with caution in patients with visual impairment that may rely on audible clicks to dial their dose.
 - Do not mix LYUMJEV with any other insulin products.
 - Do not administer LYUMJEV U-200 using continuous subcutaneous infusion insulin pump.
 - Do not administer LYUMJEV U-200 intravenously.
 
 ## 2.2 Route of Administration Instructions
 
-Subcutaneous Injection
+Subcutaneous Injection for LYUMJEV U-100 or U-200
 
 - Administer LYUMJEV at the start of a meal or within 20 minutes after starting a meal subcutaneously into the abdomen, upper arm, thigh, or buttocks.
 - Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
-  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Adverse Reactions (6.1, 6.3)].
+  Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Adverse Reactions (6.1, 6.2)].
 - LYUMJEV given by subcutaneous injection should generally be used in regimens with intermediate or long-acting insulin.
 - The LYUMJEV U-100 KwikPen, LYUMJEV U-100 Tempo Pen, and LYUMJEV U-200 KwikPen each dial in 1 unit increments and deliver a maximum dose of 60 units per injection.
 - The LYUMJEV U-100 Junior KwikPen dials in 0.5 unit increments and delivers a maximum dose of 30 units per injection.
 
-Continuous Subcutaneous Infusion (Insulin Pump) for LYUMJEV U-100 Only
+Continuous Subcutaneous Insulin Infusion (Insulin Pump) for LYUMJEV U-100 Only
 
 - Do not administer LYUMJEV U-200 using an insulin pump.
 - Refer to the continuous subcutaneous insulin infusion pump user manual to see if LYUMJEV can be used with the insulin pump.
@@ -33,10 +33,10 @@ Continuous Subcutaneous Infusion (Insulin Pump) for LYUMJEV U-100 Only
 - Administer LYUMJEV U-100 by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
   Rotate infusion sites within the same region to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
   Do not infuse into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
-- Train patients using continuous subcutaneous insulin infusion therapy to administer insulin by injection and have alternate insulin therapy available in case of insulin pump failure [see Warnings and Precautions (5.8)].
+- Train patients using continuous subcutaneous insulin infusion (CSII) therapy to administer insulin by injection and have alternate insulin therapy available in case of insulin pump failure [see Warnings and Precautions (5.8)].
 - Change LYUMJEV U-100 in the pump reservoir at least every 9 days or according to the pump user manual, whichever is shorter.
 - Change the infusion sets and the infusion set insertion site according to the manufacturer's user manual.
-- Do not dilute or mix LYUMJEV U-100 when administering by continuous subcutaneous infusion.
+- Do not dilute or mix LYUMJEV U-100 when administering by CSII.
 - Do not expose LYUMJEV in the pump reservoir to temperatures greater than 98.6°F (37°C).
 
 Intravenous Administration for LYUMJEV U-100 Only

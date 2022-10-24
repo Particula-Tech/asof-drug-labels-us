@@ -50,12 +50,19 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of LYUMJEV in pediatric patients have not been established.
+The safety and effectiveness of LYUMJEV to improve glycemic control in pediatric patients with diabetes mellitus have been established.
+Use of LYUMJEV for this indication is supported by evidence from an adequate and well-controlled study in 716 pediatric patients with type 1 diabetes mellitus aged 1 year and older, and from studies in adult and pediatric patients with diabetes mellitus [see Clinical Pharmacology (12.3) and Clinical Studies (14.5)].
+
+LYUMJEV-treated pediatric patients reported a higher incidence of subcutaneous injection site-related reactions compared to LYUMJEV-treated adults [see Adverse Reactions (6.1)].
+It is expected that LYUMJEV-treated pediatric patients who receive continuous subcutaneous insulin infusion (CSII) are more likely to have infusion site-related adverse reactions than those who receive subcutaneous injections [see Adverse Reactions (6.1)].
+Monitor injection and infusion sites closely when initiating therapy with LYUMJEV in pediatric patients.
+If persistent injection or infusion site reactions occur, discontinue LYUMJEV and initiate therapy with an alternative insulin.
 
 ## 8.5 Geriatric Use
 
-In clinical trials, 187 of 1116 (16.8%) LYUMJEV-treated patients with type 1 or type 2 diabetes were ≥65 years of age and 18 of 1116 (1.6%) were ≥75 years of age.
-No overall differences in safety or effectiveness were observed between these elderly patients and younger adult patients.
+Of the total number of LYUMJEV-treated patients in clinical studies for type 1 or type 2 diabetes (PRONTO-T1D and PRONTO-T2D, respectively), 17% (187/1,116) were 65 years of age and older, while 2% (18/1,116) were 75 years of age and older [see Clinical Studies (14.2, 14.3)].
+
+No overall differences in safety or effectiveness of LYUMJEV have been observed between patients 65 years of age and older and younger adult patients.
 
 ## 8.6 Renal Impairment
 

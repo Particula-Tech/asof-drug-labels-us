@@ -53,7 +53,7 @@ Eli Lilly and Company, Indianapolis, IN 46285, USA
 
 US License No. 1891
 
-Copyright © 2020, 2021, Eli Lilly and Company.
+Copyright © 2020, 2022, Eli Lilly and Company.
 All rights reserved.
 
-LUM-0002-USPI-20210813
+LUM-0003-USPI-20221014

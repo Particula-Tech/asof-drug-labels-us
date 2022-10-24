@@ -10,9 +10,9 @@ Insulins inhibit lipolysis and proteolysis, and enhance protein synthesis.
 ## 12.2 Pharmacodynamics
 
 The time course of insulin action (i.e., glucose lowering) may vary considerably in different individuals or within the same individual.
-The average pharmacodynamic profile [i.e., glucose lowering effect measured as glucose infusion rate (GIR) in a euglycemic clamp study] for subcutaneous administration of 7, 15, and 30 units of LYUMJEV in 42 healthy subjects is shown in Figure 1 and key characteristics of the timing of the effect are described in Table 6 below.
+The average pharmacodynamic profile [i.e., glucose lowering effect measured as glucose infusion rate (GIR) in a euglycemic clamp study] for subcutaneous administration of 7, 15, and 30 units of LYUMJEV in 42 healthy subjects is shown in Figure 1 and key characteristics of the timing of the effect are described in Table 7 below.
 
-Table 6.
+Table 7.
 Timing of Insulin Effect (i.e., Mean Pharmacodynamic Effect) After Subcutaneous Administration of 7, 15, and 30 Units of LYUMJEV in Healthy Subjects (N=42) and Corresponding to the Data Shown in Figure 1
 
 | Parameter for Insulin Effect | LYUMJEV 7 units | LYUMJEV 15 units | LYUMJEV 30 units |
@@ -66,9 +66,27 @@ Following a 15 unit intravenous bolus injection of LYUMJEV in healthy subjects, 
 
 Specific Populations
 
-Age (18 to 77 years), gender, and race did not affect the pharmacokinetics and pharmacodynamics of LYUMJEV.
+Age, biological sex, and race did not affect the pharmacokinetics and pharmacodynamics of LYUMJEV.
 
 Patients with Renal and Hepatic Impairment
 
 Renal and hepatic impairment is not known to impact the pharmacokinetics of insulin lispro-aabc.
 Insulin requirements may be reduced in the presence of renal or hepatic impairment.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of insulin lispro-aabc or of other insulin lispro products.
+
+In a 26-week trial in adult patients with type 1 diabetes (Study PRONTO-T1D) [see Clinical Studies (14.2)], 49% of LYUMJEV-treated patients were anti-drug (insulin lispro-aabc) antibody (ADA)-positive at baseline, 91% of whom had cross-reactive antibodies with native insulin.
+During this 26-week period in this trial, 33% of LYUMJEV-treated patients had treatment-emergent ADA post-baseline (i.e., either new ADA or a 57% increase in assay signal over baseline), 75% of whom had cross-reactive antibodies with native insulin.
+
+In a 26-week trial in adult patients with type 2 diabetes (Study PROTO-T2D) [see Clinical Studies (14.3)], 35% of LYUMJEV-treated patients were ADA-positive at baseline, 81% of whom had cross-reactive antibodies with native insulin.
+During this 26-week period in this trial, 31% of LYUMJEV-treated patients had treatment-emergent ADA post-baseline (i.e., either new ADA or a 57% increase in assay signal over baseline), 68% of whom had cross-reactive antibodies with native insulin.
+
+In a 26-week trial in pediatric patients with type 1 diabetes (Study-PRONTO-PEDS) [see Clinical Studies (14.5)], 73% of LYUMJEV-treated patients were ADA-positive at baseline.
+Of these ADA-positive patients, 97% had cross-reactive antibodies with native insulin.
+During this 26-week period in this trial, 31% of LYUMJEV-treated patients had treatment-emergent ADA post-baseline (i.e., either new ADA or a 57% increase in assay signal over baseline).
+Of these treatment-emergent ADA-positive patients, 84% had cross-reactive antibodies with native insulin.
+
+In these clinical trials, there were no identified clinically significant effects of ADA on safety or effectiveness (measured by HbA1c) of LYUMJEV over the treatment duration of 26-weeks.

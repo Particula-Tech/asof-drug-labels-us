@@ -2,9 +2,9 @@
 
 ## 16.1 How Supplied
 
-LYUMJEV (insulin lispro-aabc) injection is a clear and colorless solution available as shown in Table 10.
+LYUMJEV (insulin lispro-aabc) injection is a clear and colorless solution available as shown in Table 12.
 
-Table 10.
+Table 12.
 How Supplied
 
 | LYUMJEV | NDC Number | Concentration | Total Units in Presentation | Dose Increment | Package Size |
@@ -26,9 +26,9 @@ How Supplied
   Do not expose to direct heat.
   Discard opened or unopened LYUMJEV vials, pens, and cartridges stored at room temperature below 86°F (30°C) after 28 days.
 
-The storage conditions for vials, pens, and cartridges are summarized in Table 11.
+The storage conditions for vials, pens, and cartridges are summarized in Table 13.
 
-Table 11.
+Table 13.
 Storage Conditions for Vials, Pens, and Cartridges
 
 | LYUMJEV Presentation | Not In-use (Unopened) |  | In-use (Opened) |  |

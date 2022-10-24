@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Table 5 includes clinically significant drug interactions with LYUMJEV.
+Table 6 includes clinically significant drug interactions with LYUMJEV.
 
-Table 5.
+Table 6.
 Clinically Significant Drug Interactions with LYUMJEV
 
 | Drugs That May Increase the Risk of Hypoglycemia |  |

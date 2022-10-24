@@ -1,7 +1,7 @@
-| Patient Information LYUMJEV™ (LOOM-jehv) (insulin lispro-aabc) injection, for subcutaneous or intravenous use |  |  |
+| Patient Information LYUMJEV® (LOOM-jehv) (insulin lispro-aabc) injection, for subcutaneous or intravenous use |  |  |
 | --- | --- | --- |
 | Do not share your LYUMJEV with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them. |  |  |
-| What is LYUMJEV? LYUMJEV is a man-made fast-acting insulin used to control high blood sugar in adults with diabetes mellitus. It is not known if LYUMJEV is safe and effective in children. |  |  |
+| What is LYUMJEV? LYUMJEV is a man-made fast-acting insulin used to control high blood sugar in adults and children with diabetes mellitus. |  |  |
 | Do not take LYUMJEV if you: are having an episode of low blood sugar (hypoglycemia). have an allergy to insulin lispro-aabc or any of the ingredients in LYUMJEV. See the end of this Patient Information leaflet for a complete list of ingredients in LYUMJEV. |  |  |
 | Before taking LYUMJEV, tell your healthcare provider about all of your medical conditions, including if you: have kidney or liver problems. take any other medicines, especially ones called thiazolidinediones (TZDs). have heart failure or other heart problems. If you have heart failure, it may get worse while you take TZDs with LYUMJEV. are pregnant or plan to become pregnant. Talk with your healthcare provider about the best way to control your blood sugar if you plan to become pregnant or while you are pregnant. are breastfeeding or plan to breastfeed. It is not known if LYUMJEV passes into your breast milk. You and your healthcare provider should decide if you will take LYUMJEV while you breastfeed. |  |  |
 | Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Before you start taking LYUMJEV, talk to your healthcare provider about low blood sugar and how to manage it. |  |  |
@@ -17,7 +17,7 @@
 | These are not all the possible side effects of LYUMJEV. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | General information about the safe and effective use of LYUMJEV. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not take LYUMJEV for a condition for which it was not prescribed. Do not give LYUMJEV to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about LYUMJEV that is written for health professionals. |  |  |
 | What are the ingredients in LYUMJEV? Active ingredient: insulin lispro-aabc Inactive ingredients: glycerol, magnesium chloride hexahydrate, metacresol, sodium citrate dihydrate, treprostinil sodium, zinc oxide (zinc ion), and Water for Injection, USP |  |  |
-| LYUMJEV™ is a trademark of Eli Lilly and Company. Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891 Copyright © 2020, 2021, Eli Lilly and Company. All rights reserved. For more information, go to www.lilly.com or call 1-800-545-5979. |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  | Revised: August 2021 |
+| LYUMJEV® is a registered trademark of Eli Lilly and Company. Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891 Copyright © 2020, 2022, Eli Lilly and Company. All rights reserved. For more information, go to www.lilly.com or call 1-800-545-5979. |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  | Revised: October 2022 |
 
-LUM-0002-PPI-20210813
+LUM-0003-PPI-20221014
