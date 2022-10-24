@@ -19,7 +19,7 @@ Risk Summary
 There is no information regarding the presence of cysteamine in human milk, the effects on the breastfed infants, or the effects on milk production.
 Cysteamine administered orally is present in milk of lactating rats.
 It is not known whether measurable levels of cysteamine would be present in maternal milk following topical ocular administration of CYSTADROPS.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for CYSTADROPS and any potential adverse effects on the breastfed child from CYSTADROPS or from the underlying maternal conditions.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for CYSTADROPS and any potential adverse effects on the breastfed child from CYSTADROPS or from the underlying maternal conditions.
 
 ## 8.4 Pediatric Use
 
