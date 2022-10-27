@@ -43,7 +43,6 @@ www.triumeq.com
 
 1. 62000000078930 Rev.
    06/22
-2. 
 
 PRINICPAL DISPLAY PANEL
 

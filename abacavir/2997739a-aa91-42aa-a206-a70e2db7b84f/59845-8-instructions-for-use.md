@@ -16,6 +16,6 @@
 | Figure E | •Wash the cup with water. See Figure E.•The cup will need to be clean before preparing the next dose. |
 | Storage Information •Store TRIUMEQ PD tablets for oral suspension at room temperature between 68°F to 77°F (20°C to 25°C) in the original bottle. Keep the bottle tightly closed and protect from moisture. •The TRIUMEQ PD bottle contains a desiccant packet to help keep your medicine dry (protect it from moisture). Do not remove the desiccant packet from the bottle. Keep TRIUMEQ PD and all medicines out of the reach of children. |  |
 | Disposal InformationWhen all the tablets in the bottle have been taken or are no longer needed, throw away the bottle and cup. Dispose of them using your local household waste guidelines.You will get a new cup in your next pack. |  |
-| Manufactured for:ViiV HealthcareResearch Triangle Park, NC 27709 | by:GlaxoSmithKlineResearch Triangle Park, NC 27709 |
-| Trademarks are owned by or licensed to the ViiV Healthcare group of companies.©2022 ViiV Healthcare group of companies or its licensor.TRM:1IFU |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Issued: 03/2022 |
+| Manufactured for:ViiV HealthcareDurham, NC 27701 | by:GlaxoSmithKlineDurham, NC 27701 |
+| Trademarks are owned by or licensed to the ViiV Healthcare group of companies.©2022 ViiV Healthcare group of companies or its licensor.TRM:2IFU |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: 10/2022 |

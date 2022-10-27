@@ -66,7 +66,7 @@ See full prescribing information for TIVICAY.
 
 The ADRs observed in the subset of subjects who received TIVICAY + EPZICOM were generally consistent with those seen in the overall treatment-naive patient population.
 
-Less Common Adverse Reactions Observed in Clinical Trials: The following adverse reactions occurred in <2% of treatment- naive or treatment-experienced subjects in any one trial.
+Less Common Adverse Reactions Observed in Clinical Trials: The following adverse reactions occurred in <2% of treatment-naive or treatment-experienced subjects in any one trial.
 These events have been included because of their seriousness and/or assessment of potential causal relationship.
 
 Gastrointestinal Disorders: Abdominal pain, abdominal distention, abdominal discomfort, dyspepsia, flatulence, gastroesophageal reflux disease, upper abdominal pain, vomiting.
@@ -127,9 +127,9 @@ Mean Change from Baseline in Fasted Lipid Values in Treatment-Naive Subjects in 
 | LDL cholesterol (mg/dL) | 16.0 | 14.6 |  |  |  |  |  |  |
 | Triglycerides (mg/dL) | 13.6 | 31.9 |  |  |  |  |  |  |
 | HDL = High-density lipoprotein, LDL = Low-density lipoprotein. |  |  |  |  |  |  |  |  |
-| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM: n = 30 and ATRIPLA: n = 27). Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of if they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36). |  |  |  |  |  |  |  |  |
+| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM: n = 30 and ATRIPLA: n = 27). Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of whether they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36). |  |  |  |  |  |  |  |  |
 
-Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment- naive trials.
+Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naive trials.
 
 Hepatitis C Virus Co-infection: In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
 Overall, the safety profile in subjects with hepatitis C virus co-infection was similar to that observed in subjects without hepatitis C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis C virus co-infection for both treatment groups.

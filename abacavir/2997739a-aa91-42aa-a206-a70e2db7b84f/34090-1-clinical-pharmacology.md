@@ -64,7 +64,7 @@ Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV-1–Infecte
 | Cmax (mcg/mL) | 3.67 (20) |
 | Cmin (mcg/mL) | 1.11 (46) |
 
-Cerebrospinal Fluid (CSF): In 11 treatment- naive subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 18 ng/mL (range: 4 ng/mL to 23.2 ng/mL) 2 to 6 hours postdose after 2 weeks of treatment.
+Cerebrospinal Fluid (CSF): In 11 treatment-naive subjects on dolutegravir 50 mg daily plus abacavir/lamivudine, the median dolutegravir concentration in CSF was 18 ng/mL (range: 4 ng/mL to 23.2 ng/mL) 2 to 6 hours postdose after 2 weeks of treatment.
 The clinical relevance of this finding has not been established.
 
 Lamivudine: Following oral administration, lamivudine is rapidly absorbed and extensively distributed.
@@ -90,6 +90,14 @@ Specific Populations
 Patients with Renal Impairment: The pharmacokinetics for the individual components of TRIUMEQ and TRIUMEQ PD have been evaluated in patients with renal impairment (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
 
 Patients with Hepatic Impairment: The pharmacokinetics for the individual components of TRIUMEQ and TRIUMEQ PD have been evaluated in patients with varying degrees of hepatic impairment (see the U.S. prescribing information for the individual abacavir, dolutegravir, and lamivudine components).
+
+Pregnant women: Abacavir: Abacavir pharmacokinetics were studied in 25 pregnant women during the last trimester of pregnancy receiving abacavir 300 mg twice daily.
+Abacavir exposure (AUC) during pregnancy was similar to those in postpartum and in HIV-infected non-pregnant historical controls.
+Consistent with passive diffusion of abacavir across the placenta, abacavir concentrations in neonatal plasma cord samples at birth were essentially equal to those in maternal plasma at delivery.
+
+Lamivudine: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
+Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
+Lamivudine concentrations were generally similar in maternal, neonatal and umbilical cord serum samples.
 
 Pediatric Patients: The pharmacokinetics for the individual components of TRIUMEQ and TRIUMEQ PD (abacavir, dolutegravir, and lamivudine) have been evaluated in pediatric subjects.
 
@@ -149,7 +157,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 | Etravirine 200 mg twice daily | 50 mg once daily | 16 | 0.48 (0.43 to 0.54) | 0.29 (0.26 to 0.34) | 0.12 (0.09 to 0.16) |  |  |  |  |  |  |  |  |
 | Etravirine + darunavir/ritonavir 200 mg + 600/100 mg twice daily | 50 mg once daily | 9 | 0.88 (0.78 to 1.00) | 0.75 (0.69 to 0.81) | 0.63 (0.52 to 0.76) |  |  |  |  |  |  |  |  |
 | Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |  |  |  |  |  |  |  |  |
-| Fosamprenavir/ritonavir 700 mg /100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |  |  |  |  |  |  |  |  |
+| Fosamprenavir/ritonavir 700 mg/100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |  |  |  |  |  |  |  |  |
 | Lopinavir/ritonavir 400/100 mg twice daily | 30 mg once daily | 15 | 1.00 (0.94 to 1.07) | 0.97 (0.91 to 1.04) | 0.94 (0.85 to 1.05) |  |  |  |  |  |  |  |  |
 | Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |  |  |  |  |  |  |  |  |
 | Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |  |  |  |  |  |  |  |  |

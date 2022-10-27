@@ -2,7 +2,7 @@
 
 ## 14.1 Adult Subjects
 
-The efficacy of TRIUMEQ is supported by data from a randomized, controlled trial (double-blind through 96 weeks and open-label phase from 96 to 144 weeks) in antiretroviral treatment- naive subjects, SINGLE (ING114467, NCT01263015) and other trials in treatment- naive subjects.
+The efficacy of TRIUMEQ is supported by data from a randomized, controlled trial (double-blind through 96 weeks and open-label phase from 96 to 144 weeks) in antiretroviral treatment-naive subjects, SINGLE (ING114467, NCT01263015) and other trials in treatment-naive subjects.
 See full prescribing information for TIVICAY.
 The efficacy of dolutegravir, in combination with at least two active background regimens in treatment-experienced, INSTI- naive subjects is supported by data from SAILING (ING111762, NCT01231516) (refer to the prescribing information for TIVICAY).
 
@@ -54,7 +54,7 @@ At Week 48, 71% of subjects randomized to TIVICAY plus background regimen versus
 
 The efficacy of the individual components of TRIUMEQ and TRIUMEQ PD for the treatment of HIV-1 infection was evaluated in pediatric patients enrolled in the ARROW trial (NCT02028676) and IMPAACT P1093 trial (NCT01302847), as summarized below.
 
-- •Abacavir and lamivudine once daily, in combination with a third antiretroviral drug, were evaluated in a randomized, multicenter trial (ARROW) in treatment- naive pediatric subjects with HIV-1 infection.
+- •Abacavir and lamivudine once daily, in combination with a third antiretroviral drug, were evaluated in a randomized, multicenter trial (ARROW) in treatment-naive pediatric subjects with HIV-1 infection.
   Subjects randomized to once-daily dosing (n = 336) and who weighed at least 25 kg received abacavir 600 mg and lamivudine 300 mg, as either the single entities or as EPZICOM.
   At Week 96, 67% of subjects receiving abacavir and lamivudine once-daily in combination with a third antiretroviral drug, had HIV-1 RNA <80 copies/mL.
 - •Dolutegravir (TIVICAY or TIVICAY PD), in combination with other antiretroviral drugs was evaluated in treatment naive or treatment-experienced, INSTI- naive, HIV-1–infected subjects aged at least 4 weeks to 18 years in an ongoing open-label, multicenter, dose-finding clinical trial, IMPAACT P1093.

@@ -43,6 +43,9 @@ Data from the birth outcome surveillance study described above and postmarketing
 Based on prospective reports to the APR of over 1,000 exposures to dolutegravir during pregnancy resulting in live births (including 634 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 2.1% to 5.0%) following first-trimester exposure to dolutegravir-containing regimens and 5.1% (95% CI: 3.2% to 7.7%) following second-/third-trimester exposure to dolutegravir-containing regimens.
 In the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP), the background birth defect rate was 2.7%.
 
+Dolutegravir has been shown to cross the placenta.
+In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51-2.11) (n = 15).
+
 Abacavir: Based on prospective reports to the APR of over 2,700 exposures to abacavir during pregnancy resulting in live births (including 1,391 exposed in the first trimester), there was no difference between the overall risk of birth defects for abacavir compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
 The prevalence of defects in live births was 3.2% (95% CI: 2.3% to 4.2%) following first trimester exposure to abacavir-containing regimens and 3.0% (95% CI: 2.1% to 4.0%) following second/third trimester exposure to abacavir-containing regimens.
 
@@ -84,15 +87,10 @@ Risk Summary
 
 The Centers for Disease Control and Prevention recommends that HIV‑1‑infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
 
-Abacavir and lamivudine are present in human milk.
-When administered to lactating rats, dolutegravir was present in milk (see Data).
+Abacavir, dolutegravir and lamivudine are present in human milk.
 There is no information on the effects of TRIUMEQ or its components on the breastfed infant or the effects of the drug on milk production.
 
 Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving TRIUMEQ.
-
-Data
-
-Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg/kg/day on Lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -110,7 +108,7 @@ Adolescents and adults of childbearing potential who are taking TRIUMEQ should b
 
 The clinical data supporting use of TRIUMEQ and TRIUMEQ PD in pediatric patients with HIV-1 infection weighing at least 10 kg is derived from the following previously conducted pediatric trials using the individual components of TRIUMEQ and TRIUMEQ PD:
 
-- •The safety and efficacy of once-daily abacavir and lamivudine were established with a randomized, multicenter trial (ARROW [COL105677]) in HIV-1–infected, treatment- naive subjects aged 3 months to 17 years with a first-line regimen containing abacavir and lamivudine, using either the combination of EPIVIR and ZIAGEN or EPZICOM [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+- •The safety and efficacy of once-daily abacavir and lamivudine were established with a randomized, multicenter trial (ARROW [COL105677]) in HIV-1–infected, treatment-naive subjects aged 3 months to 17 years with a first-line regimen containing abacavir and lamivudine, using either the combination of EPIVIR and ZIAGEN or EPZICOM [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 - •The safety, pharmacokinetics, and antiviral activity (efficacy) of TIVICAY and TIVICAY PD were established through an ongoing, open-label, multicenter, dose-finding clinical trial (IMPAACT P1093), in which HIV-1–infected, treatment-naive or treatment-experienced, INSTI-naive, pediatric and adolescent subjects aged 4 weeks to <18 years and weighing at least 3 kg were treated with TIVICAY or TIVICAY PD plus optimized background therapy [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 - •Additional pharmacokinetics data were evaluated in 2 pharmacokinetic substudies in ODYSSEY, an ongoing open-label, randomized, non-inferiority trial to evaluate the safety, efficacy, and pharmacokinetic parameters of TIVICAY or TIVICAY PD plus two NRTIs (mainly abacavir and lamivudine) compared with standard of care in HIV-1–infected pediatric subjects younger than 18 years [see Clinical Pharmacology (12.3)].
 
