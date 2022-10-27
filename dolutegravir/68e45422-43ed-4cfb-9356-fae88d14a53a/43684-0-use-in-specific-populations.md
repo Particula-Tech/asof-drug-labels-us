@@ -15,7 +15,7 @@ As defects related to closure of the neural tube occur from conception through t
 Advise individuals of childbearing potential, including those actively trying to become pregnant, of the potential risk of neural tube defects with use of DOVATO.
 Assess the risks and benefits of DOVATO and discuss with the patient to determine if an alternative treatment should be considered at the time of conception through the first trimester of pregnancy or if pregnancy is confirmed in the first trimester.
 A benefit-risk assessment should consider factors such as feasibility of switching to another antiretroviral regimen, tolerability, ability to maintain viral suppression, and risk of HIV-1 transmission to the infant against the risk of neural tube defects associated with in utero dolutegravir exposure during critical periods of fetal development.
-[See Warnings and Precaution (5.4)].
+[See Warnings and Precautions (5.4)].
 
 There are insufficient human data on the use of DOVATO during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
 The background risk for major birth defects for the indicated population is unknown.
@@ -41,6 +41,9 @@ Data from the birth outcome surveillance study described above and postmarketing
 
 Based on prospective reports to the APR of 842 exposures to dolutegravir during pregnancy resulting in live births (including 512 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 1.9% to 5.3%) following first-trimester exposure to dolutegravir-containing regimens and 4.8% (95% CI: 2.8% to 7.8%) following second-/third-trimester exposure to dolutegravir-containing regimens.
 In the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP), the background birth defect rate was 2.7%.
+
+Dolutegravir has been shown to cross the placenta.
+In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51-2.11) (n = 15).
 
 Lamivudine: Based on prospective reports to the APR of exposures to lamivudine during pregnancy resulting in live births (including over 5,300 exposed in the first trimester and over 7,400 exposed in the second/third trimester), there was no difference between the overall risk of birth defects for lamivudine compared with the background birth defect rate of 2.7% in the U.S. reference population of the MACDP.
 The prevalence of defects in live births was 3.1% (95% CI: 2.7% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
@@ -70,16 +73,10 @@ Risk Summary
 
 The Centers for Disease Control and Prevention recommends that HIV‑1–infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV‑1 infection.
 
-Lamivudine, a component of DOVATO, is present in human milk.
-It is not known whether dolutegravir, a component of DOVATO, is present in human milk.
-When administered to lactating rats, dolutegravir was present in milk (see Data).
+Dolutegravir and lamivudine are present in human milk.
 There is no information on the effects of DOVATO or the components of DOVATO on the breastfed infant or the effects of the drugs on milk production.
 
 Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving DOVATO.
-
-Data
-
-Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg/kg on Lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
 
 ## 8.3 Females and Males of Reproductive Potential
 

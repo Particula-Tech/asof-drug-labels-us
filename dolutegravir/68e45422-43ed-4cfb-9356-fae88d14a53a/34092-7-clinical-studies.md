@@ -62,6 +62,7 @@ Pooled Virologic Outcomes of Randomized Treatment of HIV-1–Infected Adults wit
 | Age (years) |  |  |  |  |
 | <50 | 92% (597/651) | 94% (597/637) | 81% (530/651) | 84% (533/637) |
 | ≥50 | 89% (58/65) | 90% (72/80) | 83% (54/65) | 83% (66/80) |
+| TBR = Tenofovir alafenamide-based regimen. |  |  |  |  |
 | a The results of the pooled analysis are similar to the individual trials, for which the primary endpoint (proportion of subjects with plasma HIV-1 RNA <50 copies/mL at Week 48 based on the Snapshot algorithm for TIVICAY plus EPIVIR versus TIVICAY plus TRUVADA) was met. The adjusted difference was -2.6% (95% CI: -6.7%, 1.5%) for GEMINI-1 and -0.7% (95% CI: -4.3%, 2.9%) for GEMINI-2. b Based on Cochran–Mantel–Haenszel-stratified analysis adjusting for the following baseline stratification factors: plasma HIV-1 RNA (≤100,000 copies/mL versus >100,000 copies/mL) and CD4+ cell count (≤200 cells/mm3 versus >200 cells/mm3). Pooled analysis also stratified by trial. |  |  |  |  |
 
 The primary endpoint was assessed at Week 48 and the virologic success rate was 91% in the group receiving TIVICAY plus EPIVIR and 93% in the group receiving TIVICAY plus TRUVADA, with a treatment difference of -1.7% (95% CI: -4.4%, 1.1%) in the pooled data.

@@ -52,7 +52,8 @@ Pharmacokinetic Properties of the Components of DOVATO
 | Major route of elimination | Metabolism | Renal, by OCT system |  |  |  |
 | Urine (unchanged) | 31% (<1%)e | Approximately 70%f |  |  |  |
 | Feces (unchanged) | 64% (53%)e | − |  |  |  |
-| a After administration of DOVATO (fasted state). b High-fat meal is approximately 900 kcal, 56% fat. c The geometric mean (90% confidence interval) AUC ratio (fed/fasted) of dolutegravir and lamivudine is 1.33 (1.18, 1.48) and 0.91 (0.87, 0.96), respectively. d Based on in vitro data. e Based on single-dose, mass balance study of radiolabeled dolutegravir. f Based on 24-hour urine collection obtained after oral or IV administration. Tmax = Time to maximum concentration (Cmax); t1/2 = Elimination half-life. |  |  |  |  |  |
+| Tmax = Time to maximum concentration (Cmax); t1/2 = Elimination half-life; UGT = uridine diphosphate glucuronosyl transferase; CYP = cytochrome P450. |  |  |  |  |  |
+| a After administration of DOVATO (fasted state). b High-fat meal is approximately 900 kcal, 56% fat. c The geometric mean (90% confidence interval) AUC ratio (fed/fasted) of dolutegravir and lamivudine is 1.33 (1.18, 1.48) and 0.91 (0.87, 0.96), respectively. d Based on in vitro data. e Based on single-dose, mass balance study of radiolabeled dolutegravir. f Based on 24-hour urine collection obtained after oral or IV administration. |  |  |  |  |  |
 
 Specific Populations
 
@@ -64,6 +65,10 @@ See the U.S. prescribing information for the individual components, TIVICAY (dol
 
 Patients with Hepatic Impairment: The pharmacokinetics for the individual components of DOVATO have been evaluated in patients with varying degrees of hepatic impairment.
 See the U.S. prescribing information for the individual components, TIVICAY (dolutegravir) and EPIVIR (lamivudine).
+
+Pregnant women: Lamivudine: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
+Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
+Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
 Drug Interaction Studies
 
@@ -88,7 +93,7 @@ Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 | Norelgestrominb 0.25 mg | 50 mgtwice daily | 0.89(0.82 to 0.97) | 0.98(0.91 to 1.04) | 0.93(0.85 to 1.03) |  |  |  |  |  |  |
 | Sofosbuvir 400 mg once daily Metabolite (GS-331007) | 50 mgonce daily | 0.88(0.80, 0.98)1.01(0.93, 1.10) | 0.92(0.85, 0.99)0.99(0.97, 1.01) | NA 0.99(0.97, 1.01) |  |  |  |  |  |  |
 | Velpatasvir 100 mg once daily | 50 mgonce daily | 0.94(0.86, 1.02) | 0.91(0.84, 0.98) | 0.88(0.82, 0.94) |  |  |  |  |  |  |
-| a OCT2 or MATE1 substrate. b Norelgestromin is the active metabolite of norgestimate. |  |  |  |  |  |  |  |  |  |  |
+| a OCT2 (Organic cation transporter 2) or MATE1 (multidrug and toxin extrusion 1) substrate. b Norelgestromin is the active metabolite of norgestimate. |  |  |  |  |  |  |  |  |  |  |
 
 No clinically significant differences in the pharmacokinetics of tenofovir (organic anion transporter [OAT]1 and OAT3 substrates) or para-amino hippurate (OAT1 and OAT3 substrates) were observed when coadministered with dolutegravir.
 
@@ -157,7 +162,7 @@ The principal mode of action of 3TC‑TP is inhibition of reverse transcriptase 
 
 Antiviral Activity in Cell Culture
 
-Dolutegravir: Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV‑1 with mean concentrations of drug necessary to effect viral replication by 50 percent (EC50) values of 0.5 nM (0.21 ng/mL) to 2.1 nM (0.85 ng/mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
+Dolutegravir: Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV‑1 with mean concentrations of drug necessary to affect viral replication by 50 percent (EC50) values of 0.5 nM (0.21 ng/mL) to 2.1 nM (0.85 ng/mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
 
 Dolutegravir exhibited antiviral activity against 13 clinically diverse clade B isolates with a mean EC50 value of 0.52 nM in a viral integrase susceptibility assay using the integrase coding region from clinical isolates.
 Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV-1 clinical isolates (3 in each group of M [clades A-G], and 3 in group O) with EC50 values ranging from 0.02 nM to 2.14 nM for HIV-1.

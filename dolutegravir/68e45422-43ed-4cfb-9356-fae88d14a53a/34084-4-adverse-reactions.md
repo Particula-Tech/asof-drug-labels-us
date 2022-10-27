@@ -80,7 +80,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4; Week 144 Pooled Analyses) in G
 
 | Laboratory Parameter Abnormality | TIVICAY plus EPIVIR (n = 716) | TIVICAY plus TRUVADA(n = 717) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Alanine aminotransferase(ALT) |  |  |  |  |  |
+| Alanine aminotransferase (ALT) |  |  |  |  |  |
 | Grade 2 (2.5 to <5.0 x ULN) | 4% | 4% |  |  |  |
 | Grade 3 to 4 (≥5.0 x ULN) | 4% | 3% |  |  |  |
 | Aspartate aminotransferase (AST) |  |  |  |  |  |
@@ -113,6 +113,7 @@ Mean Change from Baseline in Fasted Lipid Values (Week 144 Pooled Analysesa) in 
 | LDL cholesterol (mg/dL) | 7 | -4 |  |  |  |  |  |  |
 | Triglycerides (mg/dL) | 10 | -9 |  |  |  |  |  |  |
 | Total cholesterol/HDL cholesterol ratio | -0.2 | -0.4 |  |  |  |  |  |  |
+| HDL = High density lipoprotein; LDL = Low density lipoprotein. |  |  |  |  |  |  |  |  |
 | a Subjects on lipid-lowering agents at baseline are excluded (TIVICAY plus EPIVIR, n = 30; TIVICAY plus TRUVADA, n = 23). The last available fasted, on-treatment lipid value prior to initiation of a lipid-lowering agent was carried forward in place of observed values after initiation of a lipid-lowering agent. A total of 51 and 28 subjects receiving TIVICAY plus EPIVIR and TIVICAY plus TRUVADA, respectively, initiated lipid-lowering agents post-baseline. |  |  |  |  |  |  |  |  |
 
 Changes in Serum Creatinine: Dolutegravir has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
@@ -159,7 +160,7 @@ Weight increased.
 
 Musculoskeletal
 
-Arthralgia, CPK elevation, muscle weakness, myalgia, rhabdomyolysis.
+Arthralgia, creatinine phosphokinase elevation, muscle weakness, myalgia, rhabdomyolysis.
 
 Nervous System
 

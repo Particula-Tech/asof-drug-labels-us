@@ -6,7 +6,7 @@ Emergence of Lamivudine-Resistant HBV in Hepatitis B Co-infection
 
 Advise all patients with HIV-1 to be tested for the presence of HBV prior to or when initiating DOVATO.
 Advise patients co-infected with HIV-1 and HBV that emergence of HBV variants associated with resistance to lamivudine has been reported in HIV‑1–infected subjects who have received lamivudine‑containing antiretroviral regimens.
-Advise patients co-infected with HIV-1 and HBV who are being treated with DOVATO, to discuss with their healthcare provider if additional treatment should be considered for appropriate treatment of chronic HBV [see Warnings and Precautions (5.1)].
+Advise patients co-infected with HIV-1 and HBV who are being treated with DOVATO to discuss with their healthcare provider if additional treatment should be considered for appropriate treatment of chronic HBV [see Warnings and Precautions (5.1)].
 
 Severe Acute Exacerbations of Hepatitis in Patients with HBV Co-infection
 
@@ -68,11 +68,11 @@ ViiV Healthcare Research Triangle Park, NC 27709
 
 by:
 
-GlaxoSmithKline Research Triangle Park, NC 27709
+GlaxoSmithKline Durham, NC 27701
 
 ©2022 ViiV Healthcare group of companies or its licensor.
 
-DVT:8PI
+DVT:9PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
