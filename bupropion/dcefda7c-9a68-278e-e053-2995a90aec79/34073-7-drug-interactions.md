@@ -7,7 +7,7 @@ Table 3: Clinically Important Drug Interactions with AUVELITY
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | --- | --- |
 | Clinical Impact | Concomitant use of AUVELITY with MAOIs increases the risk of hypertensive crisis and serotonin syndrome. |
-| Intervention | AUVELITY is contraindicated in patients taking MAOIs (including MAOIs such as linezolid or intravenous methylene blue) or in patients who have taken MAOIs within the preceding 14 days. Allow at least 14 days after stopping AUVELITY before starting an MAOI [see Dosage and Administration (2.6), Contraindications (4), Warnings and Precautions (5.3), 5.8)] |
+| Intervention | AUVELITY is contraindicated in patients taking MAOIs (including MAOIs such as linezolid or intravenous methylene blue) or in patients who have taken MAOIs within the preceding 14 days. Allow at least 14 days after stopping AUVELITY before starting an MAOI [see Dosage and Administration (2.6), Contraindications (4), Warnings and Precautions (5.3, 5.8)] |
 | Serotonergic Drugs |  |
 | Clinical Impact | Concomitant use of AUVELITY with other serotonergic drugs increases the risk of serotonin syndrome. |
 | Intervention | Monitor for symptoms of serotonin syndrome when AUVELITY is used concomitantly with other drugs that may affect the serotonergic neurotransmitter systems. If serotonin syndrome occurs, consider discontinuation of AUVELITY and/or concomitant serotonergic drug [see Dosage and Administration (2.1), Warnings and Precautions (5.8)]. |

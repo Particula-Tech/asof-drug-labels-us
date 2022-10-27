@@ -16,7 +16,7 @@ Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Beh
 | 18-24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
 | 25-64 years old | 1 fewer patient |
-| 65 years old | 6 fewer patients |
+| ≥65 years old | 6 fewer patients |
 | *AUVELITY is not approved for use in pediatric patients. |  |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.

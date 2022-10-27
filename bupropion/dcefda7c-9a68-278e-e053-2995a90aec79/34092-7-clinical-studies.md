@@ -1,8 +1,8 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of AUVELITY for the treatment of MDD in adults was demonstrated in a placebo-controlled clinical study (Study 1, NCT04019704) and confirmatory evidence which included a second study comparing AUVELITY to bupropion hydrochloride sustained-release tablets (Study 2, NCT03595579).
+The efficacy of AUVELITY for the treatment of MDD in adults was demonstrated in a placebo-controlled clinical study (Study 1, NCT04019704) and confirmatory evidence which included a second study comparing AUVELITY to bupropion hydrochloride sustained-release tablets (Study 2, NCT03595579).)
 
-In Study 1, adult patients (18 to 65 years of age) who met the Diagnostic and Statistical Manual of Mental Disorders (DSM 5) criteria for MDD were randomized to receive AUVELITY (45 mg of dextromethorphan hydrobromide and 105 mg of bupropion hydrochloride) twice daily (N=156) or placebo twice daily (N=162) for 6 weeks.
+In Study 1, adult patients (18 to 65 years of age) who met the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria for MDD were randomized to receive AUVELITY (45 mg of dextromethorphan hydrobromide and 105 mg of bupropion hydrochloride) twice daily (N=156) or placebo twice daily (N=162) for 6 weeks.
 Patients in Study 1 had a median age of 41 years and were 67% female, 55% Caucasian, 35% Black, and 5% Asian.
 
 The primary outcome measure was the change from baseline to Week 6 in the total score of the Montgomery-Asberg Depression Rating Scale (MADRS).

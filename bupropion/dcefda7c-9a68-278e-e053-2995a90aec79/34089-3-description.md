@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-AUVELITY is a combination of dextromethorphan hydrobromide, an uncompetitive NMDA receptor antagonist and sigma 1 receptor agonist, and bupropion hydrochloride, an aminoketone and CYP450 2D6 inhibitor.
+AUVELITY is a combination of dextromethorphan hydrobromide, an uncompetitive NMDA receptor antagonist and sigma-1 receptor agonist, and bupropion hydrochloride, an aminoketone and CYP450 2D6 inhibitor.
 
 The chemical name of dextromethorphan hydrobromide is morphinan, 3- methoxy-17-methyl-, (9α, 13α, 14α), hydrobromide monohydrate.
 Dextromethorphan hydrobromide has the empirical formula C18H25NO•HBr•H2O and a molecular weight of 370.33 (271.4 dextromethorphan base).

@@ -2,7 +2,6 @@
 
 AUVELITY is contraindicated in patients:
 
-- 
 - with a seizure disorder [see Warnings and Precautions (5.2)].
 - with a current or prior diagnosis of bulimia or anorexia nervosa as a higher incidence of seizures was observed in such patients treated with the immediate-release formulation of bupropion [see Warnings and Precautions (5.2)].
 - undergoing abrupt discontinuation of alcohol, benzodiazepines, barbiturates, and antiepileptic drugs [see Warnings and Precautions (5.2), Drug Interactions (7.1)].

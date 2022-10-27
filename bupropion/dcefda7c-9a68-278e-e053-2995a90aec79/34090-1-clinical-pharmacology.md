@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Dextromethorphan is an uncompetitive antagonist of the NMDA receptor (an ionotropic glutamate receptor) and a sigma 1 receptor agonist.
+Dextromethorphan is an uncompetitive antagonist of the NMDA receptor (an ionotropic glutamate receptor) and a sigma-1 receptor agonist.
 The mechanism of dextromethorphan in the treatment of MDD is unclear.
 
 The mechanism of action of bupropion in the treatment of MDD is unclear; however, it may be related to noradrenergic and/or dopaminergic mechanisms.
@@ -19,24 +19,24 @@ At the maximum recommended dose, AUVELITY does not prolong the QT interval to an
 
 AUVELITY is a combination of dextromethorphan and bupropion.
 Bupropion inhibits the metabolism of dextromethorphan via CYP2D6.
-Dextromethorphan when co-administered with bupropion displays nonlinear pharmacokinetics at steady state, with greater than dose-proportional changes in AUC and cmax for varying doses of dextromethorphan [60 to 120 mg (0.67-1.33 times the maximum recommended dose of AUVELITY)] and less than dose-proportional changes for varying doses of bupropion [150 to 300 mg (0.71-1.43 times the maximum recommended dose of AUVELITY)].
+Dextromethorphan when co-administered with bupropion displays nonlinear pharmacokinetics at steady state, with greater than dose-proportional changes in AUC and Cmax for varying doses of dextromethorphan [60 to 120 mg (0.67-1.33 times the maximum recommended dose of AUVELITY)] and less than dose-proportional changes for varying doses of bupropion [150 to 300 mg (0.71-1.43 times the maximum recommended dose of AUVELITY)].
 
 Steady state plasma concentrations of dextromethorphan and bupropion when given as AUVELITY are achieved within 8 days.
-The accumulation ratios for dextromethorphan at steady state when given as AUVELITY are 20 and 32, respectively based on cmax and AUC0 12, compared to 1.3 and 1.4, respectively, for dextromethorphan given without bupropion.
-The accumulation ratios for bupropion at steady state are 1.1 and 1.5, respectively based on cmax and AUC0-12.
+The accumulation ratios for dextromethorphan at steady state when given as AUVELITY are 20 and 32, respectively based on Cmax and AUC0- 12, compared to 1.3 and 1.4, respectively, for dextromethorphan given without bupropion.
+The accumulation ratios for bupropion at steady state are 1.1 and 1.5, respectively based on Cmax and AUC0-12.
 
 Absorption
 
-The median tmax of dextromethorphan and bupropion when given as AUVELITY was 3 hours and 2 hours, respectively.
+The median Tmax of dextromethorphan and bupropion when given as AUVELITY was 3 hours and 2 hours, respectively.
 
-The cmax of the hydroxybupropion metabolite occurred approximately 3 hours post-dose and was approximately 14 times the peak level of bupropion and its AUC0-12 was about 19 times that of bupropion.
-The cmax of the erythrohydroxybupropion and threohydroxybupropion metabolites occurred approximately 4 hours post-dose and were approximately equal to and 5 times that of bupropion, respectively.
+The Cmax of the hydroxybupropion metabolite occurred approximately 3 hours post-dose and was approximately 14 times the peak level of bupropion and its AUC0-12 was about 19 times that of bupropion.
+The Cmax of the erythrohydroxybupropion and threohydroxybupropion metabolites occurred approximately 4 hours post-dose and were approximately equal to and 5 times that of bupropion, respectively.
 The AUC0-12 values were 1.2 and 7 times that of bupropion, respectively.
 
 Effect of Food
 
 AUVELITY can be taken with or without food.
-Dextromethorphan cmax and AUC0-12 were unchanged and decreased by 14%, respectively, and bupropion cmax and AUC0-12 were increased by 3% and 6%, respectively, when AUVELITY was administered with food.
+Dextromethorphan Cmax and AUC0-12 were unchanged and decreased by 14%, respectively, and bupropion Cmax and AUC0-12 were increased by 3% and 6%, respectively, when AUVELITY was administered with food.
 
 Distribution
 
@@ -57,7 +57,7 @@ Bupropion is extensively metabolized with three active metabolites: hydroxybupro
 In vitro findings suggest that CYP2B6 is the principal isoenzyme involved in the formation of hydroxybupropion, while cytochrome P450 enzymes are not involved in the formation of threohydroxybupropion.
 Oxidation of the bupropion side chain results in the formation of a glycine conjugate of meta-chlorobenzoic acid, which is then excreted as the major urinary metabolite.
 The potency and toxicity of the metabolites relative to bupropion have not been fully characterized.
-However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydroxybupropion and erythrohydroxybupropion are 5 fold less potent than bupropion.
+However, it has been demonstrated in an antidepressant screening test in mice that hydroxybupropion is one-half as potent as bupropion, while threohydroxybupropion and erythrohydroxybupropion are 5-fold less potent than bupropion.
 
 Excretion
 
@@ -92,7 +92,7 @@ Figure 1 Effects of Renal Impairment, Hepatic Impairment, and CYP2D6 Poor Metabo
 Results are based on plasma concentrations of AUVELITY after 8 days of twice daily dosing.
 Data are GMRs and 90% CIs.
 Reference = matched healthy subjects for renal and hepatic impairment studies, and extensive or ultra-extensive CYP2D6 metabolizers.
-AUC = area under the plasma concentration-time curve from zero to 12 hours; BUP = bupropion; CI = confidence interval; cmax = maximum plasma concentration; DM = dextromethorphan; GMRs = geometric mean ratios; PK = pharmacokinetics.
+AUC = area under the plasma concentration-time curve from zero to 12 hours; BUP = bupropion; CI = confidence interval; Cmax = maximum plasma concentration; DM = dextromethorphan; GMRs = geometric mean ratios; PK = pharmacokinetics.
 
 Drug Interaction Studies
 

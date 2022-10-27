@@ -79,10 +79,12 @@ Advise patients to inform their healthcare provider of all the medications that 
 
 Distributed by:
 
-Axsome Therapeutics, Inc. New York, NY 10007 AXSOME THERAPEUTICS and AUVELITY are trademarks or registered trademarks of Axsome Therapeutics, Inc. in the United States and other countries.
+Axsome Therapeutics, Inc. New York, NY 10007
 
-U.S. Patent Nos.: 8,569,328, 9,168,234, 9,189,905 9,205,083, 9,238,032, 9,278,095, 9,314,462, 9,370,513, 9,375,429, 9,408,815, 9,421,176, 9,457,023, 9,457,025, 9,474,731, 9,486,450, 9,700,528, 9,700,553, 9,707,191, 9,763,932, 9,861,595, 9,867,819, 9,968,568, 10,058,518, 10,064,857, 10,080,727, 10,092,560, 10,092,561, 10,105,327, 10,105,361, 10,251,879, 10,463,634, 10,512,643, 10,548,857, 10,596,167, 10,772,850, 10,780,064, 10,780,066, 10,786,469, 10,786,496, 10,799,497, 10,806,710, 10,864,209, 10,874,663, 10,874,664, 10,874,665, 10,881,624, 10,881,657, 10,894,046, 10,894,047, 10,898,453
+AXSOME THERAPEUTICS and AUVELITY are trademarks or registered trademarks of Axsome Therapeutics, Inc. in the United States and other countries.
+
+For patent information: www.axsome.com/IP
 
 ©2022 Axsome Therapeutics, Inc. All rights reserved.
 
-AUV-USPI-001.001-20220823
+AUV-USPI-001.002-20221024
