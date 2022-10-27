@@ -25,6 +25,6 @@ WG Critical Care, LLC
 
 Paramus, NJ 07652
 
-Revised:March 2019
+Rev: 08/2022
 
 Made it Italy

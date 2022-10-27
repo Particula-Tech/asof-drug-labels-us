@@ -89,3 +89,37 @@ for Injection, USP
 For Intravenous Infusion Only
 
 Rx Only
+
+# Package/Label Display Panel
+
+NDC 44567-311-10 Rx only
+
+Penicillin G
+
+Potassium
+
+for Injection, USP
+
+5,000,000 Units* per vial
+
+(5 million units* per vial)
+
+For Intramuscular or Intravenous Use
+
+# Package/Label Display Panel
+
+NDC 44567-312-01
+
+Buffered
+
+Penicillin G
+
+Potassium
+
+for Injection, USP
+
+20,000,000 Units* per vial
+
+(20 million units* per vial)
+
+For Intravenous Infusion Only
