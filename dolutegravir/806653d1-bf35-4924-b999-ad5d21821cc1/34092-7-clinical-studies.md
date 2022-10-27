@@ -53,6 +53,7 @@ Pooled Virologic Outcomes of Randomized Treatment in SWORD-1 and SWORD-2 Trials 
 | Age (years) |  |  |
 | <50 | 96% (n = 366) | 94% (n = 369) |
 | ≥50 | 93% (n = 147) | 96% (n = 142) |
+| INSTI = Integrase strand transfer inhibitor; NNRTI = Non-nucleoside reverse transcriptase inhibitor; PI = Protease inhibitor. |  |  |
 | a Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |  |  |
 
 Treatment differences were maintained across baseline characteristics including, CD4+ cell count, age, gender, race, and baseline third-treatment-agent class.

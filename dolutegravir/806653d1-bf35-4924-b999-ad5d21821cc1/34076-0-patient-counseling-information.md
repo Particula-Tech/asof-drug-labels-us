@@ -56,12 +56,12 @@ The maker of this brand is not affiliated with and does not endorse the ViiV Hea
 
 Manufactured for:
 
-ViiV Healthcare Research Triangle Park, NC 27709
+ViiV Healthcare Durham, NC 27701
 
 by:
 
-GlaxoSmithKline Research Triangle Park, NC 27709
+GlaxoSmithKline Durham, NC 27701
 
 ©2022 ViiV Healthcare group of companies or its licensor.
 
-JLC:8PI
+JLC:9PI

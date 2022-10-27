@@ -85,7 +85,7 @@ Selected Laboratory Abnormalities (Grades 2 and 3 to 4; Week 48 Pooled Analyses)
 | Lipase |  |  |  |  |  |
 | Grade 2 (>1.5-3.0 x ULN) | 5% | 5% |  |  |  |
 | Grade 3 to 4 (>3.0 x ULN) | 2% | 2% |  |  |  |
-| ULN = Upper limit of normal. |  |  |  |  |  |
+| ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; ULN = Upper limit of normal. |  |  |  |  |  |
 
 In the Week 148 pooled analyses, there were no additional selected laboratory abnormalities with dolutegravir plus rilpivirine compared with those shown in Table 3.
 

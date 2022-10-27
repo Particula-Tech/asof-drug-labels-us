@@ -13,7 +13,7 @@ Dolutegravir, a component of JULUCA, inhibits the renal organic cation transport
 
 Dolutegravir
 
-Dolutegravir is metabolized by uridine diphosphate (UDP)-glucuronosyl transferase (UGT)1A1 with some contribution from CYP3A.
+Dolutegravir is metabolized by uridine diphosphate (UDP)-glucuronosyl transferase (UGT)1A1 with some contribution from cytochrome P450 (CYP)3A.
 Dolutegravir is also a substrate of UGT1A3, UGT1A9, breast cancer resistance protein (BCRP), and P-glycoprotein (P-gp) in vitro.
 Drugs that induce those enzymes and transporters may decrease dolutegravir plasma concentrations and reduce the therapeutic effect of dolutegravir [see Drug Interactions (7.4)].
 Coadministration of dolutegravir and other drugs that inhibit these enzymes may increase dolutegravir plasma concentrations.

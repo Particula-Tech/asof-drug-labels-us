@@ -52,6 +52,7 @@ Pharmacokinetic Properties of the Components of JULUCA
 | t1/2 (h) | 14 | 50 |
 | % of dose excreted as total 14C (unchanged drug) in urineb | 31 (<1) | 6.5 (<1) |
 | % of dose excreted as total 14C (unchanged drug) in fecesb | 64 (53) | 85 (25) |
+| UGT = uridine diphosphate glucuronosyltransferase; CYP = Cytochrome P450. |  |  |
 | a Geometric mean ratio (fed/fasted) in PK parameters and (90% confidence interval). High-calorie/high-fat meal = ~900 kcal, 56% fat. Moderate-fat meal = ~625 kcal, 32% fat. When rilpivirine was taken with only a protein-rich nutritional drink, exposures were 50% lower than when taken with a meal. b Dosing in mass balance studies: single-dose administration of [14C] dolutegravir or [14C] rilpivirine. |  |  |
 
 Table 6.
@@ -192,7 +193,7 @@ Summary of Effect of Rilpivirine on the Pharmacokinetics of Coadministered Drugs
 | Sildenafil 50 mg single dose | 75 mgonce dailya | 16 | 0.93(0.80 to 1.08) | 0.97(0.87 to 1.08) | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | N-desmethyl-sildenafil |  |  | 0.90(0.80 to 1.02) | 0.92(0.85 to 0.99)c | NA |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Simeprevir 150 mg once daily | 25 mgonce daily | 21 | 1.10(0.97 to 1.26) | 1.06(0.94 to 1.19) | 0.96(0.83 to 1.11) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CI = Confidence Interval; n = Maximum number of subjects with data; NA = Not available. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b N (maximum number of subjects with data) for AUC(0-∞) = 15. c AUC(0-last). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| n = Maximum number of subjects with data; NA = Not available. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b N (maximum number of subjects with data) for AUC(0-∞) = 15. c AUC(0-last). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Table 11.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Rilpivirine
@@ -216,13 +217,13 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Rilpivirine
 | Rifampin 600 mg once daily | 150 mgonce dailya | 16 | 0.31(0.27 to 0.36) | 0.20(0.18 to 0.23) | 0.11(0.10 to 0.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Sildenafil 50 mg single dose | 75 mgonce dailya | 16 | 0.92(0.85 to 0.99) | 0.98(0.92 to 1.05) | 1.04(0.98 to 1.09) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Simeprevir 150 mg once daily | 25 mgonce daily | 23 | 1.04(0.95 to 1.13) | 1.12(1.05 to 1.19) | 1.25(1.16 to 1.35) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CI = Confidence Interval; n = Maximum number of subjects with data; NA = Not available; ↔ = No change. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b Comparison based on historic controls. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| n = Maximum number of subjects with data; NA = Not available; ↔ = No change. a This interaction study has been performed with a dose higher than the recommended dose for rilpivirine (25 mg once daily) assessing the maximal effect on the coadministered drug. b Comparison based on historic controls. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
 Mechanism of Action
 
-Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral deoxyribonucleic acid (DNA) integration which is essential for the HIV replication cycle.
+Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle.
 Strand transfer biochemical assays using purified HIV-1 integrase and pre-processed substrate DNA resulted in IC50 values of 2.7 nM and 12.6 nM.
 
 Rilpivirine is a diarylpyrimidine NNRTI of HIV-1 and inhibits HIV-1 replication by non-competitive inhibition of HIV-1 reverse transcriptase (RT).
