@@ -2,10 +2,10 @@
 
 ## 8.1 Pregnancy
 
-There are no adequate and well-controlled studies of amoxicillin and clavulanate potassium in pregnant women.
-Because animal reproduction studies are not always predictive of human response, use this drug during pregnancy only if clearly needed.
+There are no adequate and well-controlled studies in pregnant women.
+Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Reproduction studies performed in pregnant rats and mice given amoxicillin and clavulanate potassium (2:1 ratio formulation of amoxicillin:clavulanate) at oral doses up to 1200 mg/kg/day revealed no evidence of harm to the fetus due to amoxicillin and clavulanate potassium.
+Reproduction studies performed in pregnant rats and mice given amoxicillin and clavulanate potassium (2:1 ratio formulation of amoxicillin:clavulanate) at oral dosages up to 1200 mg/kg/day revealed no evidence of harm to the fetus due to amoxicillin and clavulanate potassium.
 The amoxicillin doses in rodents (based on body surface area and assuming a 20 kg child) were approximately 2 times (rats) or equal to (mice) the recommended clinical amoxicillin and clavulanate potassium for oral suspension dose of 90/6.4 mg/kg/day.
 For clavulanate, these dose multiples were approximately 15 times and 7.5 times the recommended daily dose of amoxicillin and clavulanate potassium for oral suspension.
 
@@ -23,7 +23,7 @@ Ampicillin-class antibacterial drugs are excreted in human milk; therefore, caut
 ## 8.4 Pediatric Use
 
 Safety and efficacy of amoxicillin and clavulanate potassium for oral suspension in infants younger than 3 months have not been established.
-Safety and efficacy of amoxicillin and clavulanate potassium for oral suspension have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years [see Description of Clinical Studies (14)].
+Safety and efficacy of amoxicillin and clavulanate potassium for oral suspension have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years [see Clinical Studies (14)].
 
 The safety and effectiveness of amoxicillin and clavulanate potassium for oral suspension have been established for the treatment of pediatric patients (3 months to 12 years) with acute bacterial sinusitis.
 This use is supported by evidence from adequate and well-controlled studies of amoxicillin and clavulanate potassium extended-release tablets in adults with acute bacterial sinusitis, studies of amoxicillin and clavulanate potassium for oral suspension in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking amoxicillin and clavulanate potassium for oral suspension [see Clinical Pharmacology (12)] and adults taking amoxicillin and clavulanate potassium extended-release tablets.

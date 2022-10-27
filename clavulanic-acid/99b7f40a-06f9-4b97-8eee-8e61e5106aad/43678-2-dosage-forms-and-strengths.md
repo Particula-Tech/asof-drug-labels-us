@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Oral Suspension
+Amoxicillin and Clavulanate Potassium for Oral Suspension, USP
 
 600 mg/42.9 mg per 5 mL
 

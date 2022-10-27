@@ -8,7 +8,7 @@ Co-administration of probenecid is not recommended.
 
 ## 7.2 Oral Anticoagulants
 
-Abnormal prolongation of prothrombin time (increased international normalized ratio [INRI]) has been reported in patients receiving amoxicillin and oral anticoagulants.
+Abnormal prolongation of prothrombin time (increased international normalized ratio [INR]) has been reported in patients receiving amoxicillin and oral anticoagulants.
 Appropriate monitoring should be undertaken when anticoagulants are prescribed concurrently.
 Adjustments in the dose of oral anticoagulants may be necessary to maintain the desired level of anticoagulation.
 
@@ -22,7 +22,7 @@ There are no data with amoxicillin and clavulanate potassium for oral suspension
 
 Amoxicillin and clavulanate potassium for oral suspension may affect intestinal flora, leading to lower estrogen reabsorption and reduced efficacy of combined oral estrogen/progesterone contraceptives.
 
-## 7.5 Effects on Laboratory Test
+## 7.5 Effects on Laboratory Tests
 
 High urine concentrations of amoxicillin may result in false-positive reactions when testing for the presence of glucose in urine using CLINITEST®, Benedict’s Solution, or Fehling’s Solution.
 Since this effect may also occur with amoxicillin and clavulanate potassium for oral suspension, it is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.

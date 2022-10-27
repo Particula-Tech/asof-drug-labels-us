@@ -1,8 +1,10 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+How Supplied
+
 Amoxicillin and clavulanate potassium for oral suspension, USP
 
-Each 5 mL of reconstituted suspension contains 600 mg amoxicillin and 42.9 mg clavulanic acid as the potassium salt.
+Each 5 mL of reconstituted suspension contains 600 mg amoxicillin as the trihydrate and 42.9 mg clavulanic acid as the potassium salt.
 
 NDC 0781-6139-57 75 mL bottle
 
