@@ -72,7 +72,7 @@ During lithium treatment, progressive or sudden changes in renal function, even 
 
 ## 5.5 Encephalopathic Syndrome
 
-An encephalopathic syndrome, characterized by weakness, lethargy, fever, tremulousness and confusion,extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN and fasting blood glucose, has occurred in patients treated with lithium and an antipsychotic.
+An encephalopathic syndrome, characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN and fasting blood glucose, has occurred in patients treated with lithium and an antipsychotic.
 In some instances, the syndrome was followed by irreversible brain damage.
 Because of a possible causal relationship between these events and the concomitant administration of lithium and antipsychotics, patients receiving such combined treatment should be monitored closely for early evidence of neurological toxicity and treatment discontinued promptly if such signs appear.
 This encephalopathic syndrome may be similar to or the same as neuroleptic malignant syndrome (NMS).

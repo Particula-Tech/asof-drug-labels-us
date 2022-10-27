@@ -61,6 +61,6 @@ Because elderly patients are more likely to have decreased renal function, care 
 ## 8.6 Renal Impairment
 
 As lithium is eliminated primarily through the kidney, lithium renal clearance is decreased in patients with abnormal renal function, and the risk of lithium intoxication increases considerably in this setting.
-Lithium should not be used in severe renal insufficiency (creatinine clearance less than 30 mL/min evaluated by Cockcroft-Gault), especially if the condition requires adherence to a low-sodium diet[see Dosage and Administration (2.5)].
+Lithium should not be used in severe renal insufficiency (creatinine clearance less than 30 mL/min evaluated by Cockcroft-Gault), especially if the condition requires adherence to a low-sodium diet [see Dosage and Administration (2.5)].
 
 Start patients with mild to moderately impaired renal function (creatinine clearance 30 to 89 mL/min evaluated by Cockcroft-Gault) with lower doses of lithium and titrate slowly while frequently monitoring serum lithium concentrations and for signs of lithium toxicity [see Dosage and Administration (2.5)].
