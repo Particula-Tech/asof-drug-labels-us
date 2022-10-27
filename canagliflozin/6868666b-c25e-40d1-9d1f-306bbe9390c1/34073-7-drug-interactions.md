@@ -1,8 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drug Interactions with Metformin
-
-Table 7: Clinically Significant Drug Interactions with Metformin
+Table 7: Clinically Significant Drug Interactions with INVOKAMET/INVOKAMET XR
 
 | Carbonic Anhydrase Inhibitors |  |
 | --- | --- |
@@ -16,28 +14,27 @@ Table 7: Clinically Significant Drug Interactions with Metformin
 | Alcohol |  |
 | Clinical Impact: | Alcohol is known to potentiate the effect of metformin HCl on lactate metabolism. |
 | Intervention: | Warn patients against excessive alcohol intake while receiving INVOKAMET/INVOKAMET XR. |
+| UGT Enzyme Inducers |  |
+| Clinical Impact: | UGT enzyme inducers decrease canagliflozin exposure which may reduce the effectiveness of INVOKAMET/INVOKAMET XR. |
+| Intervention: | For patients with eGFR 60 mL/min/1.73 m2 or greater, if an inducer of UGTs is co-administered with INVOKAMET/INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating INVOKAMET/INVOKAMET XR with a total daily dose of canagliflozin 100 mg. The total daily dose of canagliflozin may be increased to 300 mg in patients currently tolerating canagliflozin 200 mg and who require additional glycemic control. For patients with eGFR less than 60 mL/min/1.73 m2, if an inducer of UGTs is co-administered with INVOKAMET/INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating canagliflozin 100 mg [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)]. |
+| Examples: | Rifampin, phenytoin, phenobarbital, ritonavir |
 | Insulin Secretagogues or Insulin |  |
-| Clinical Impact: | Coadministration of INVOKAMET/INVOKAMET XR with an insulin secretagogue (e.g., sulfonylurea) or insulin may increase the risk of hypoglycemia. |
-| Intervention: | Patients receiving an insulin secretagogue or insulin may require lower doses of the insulin secretagogue or insulin. |
+| Clinical Impact: | The risk of hypoglycemia is increased when INVOKAMET/INVOKAMET XR is used concomitantly with insulin secretagogues (e.g., sulfonylurea) or insulin. |
+| Intervention: | Concomitant use may require a lower dosage of the insulin secretagogue or insulin to reduce the risk of hypoglycemia. |
 | Drugs Affecting Glycemic Control |  |
 | Clinical Impact: | Certain drugs tend to produce hyperglycemia and may lead to loss of glycemic control. |
 | Intervention: | When such drugs are administered to a patient receiving INVOKAMET/INVOKAMET XR, monitor for loss of blood glucose control. When such drugs are withdrawn from a patient receiving INVOKAMET/INVOKAMET XR, monitor for hypoglycemia. |
 | Examples: | Thiazides and other diuretics, corticosteroids, phenothiazines, thyroid products, estrogens, oral contraceptives, phenytoin, nicotinic acid, sympathomimetics, calcium channel blockers, and isoniazid. |
-
-## 7.2 Drug Interactions with Canagliflozin
-
-Table 8: Clinically Significant Drug Interactions with Canagliflozin
-
-| UGT Enzyme Inducers |  |
-| --- | --- |
-| Clinical Impact: | May reduce the efficacy of INVOKAMET/INVOKAMET XR. |
-| Intervention: | For patients with eGFR 60 mL/min/1.73 m 2 or greater, if an inducer of UGTs is co-administered with INVOKAMET/INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating INVOKAMET/INVOKAMET XR with a total daily dose of canagliflozin 100 mg. The total daily dose of canagliflozin may be increased to 300 mg in patients currently tolerating canagliflozin 200 mg and who require additional glycemic control. For patients with eGFR less than 60 mL/min/1.73 m 2, if an inducer of UGTs is co-administered with INVOKAMET/INVOKAMET XR, increase the total daily dose of canagliflozin to 200 mg in patients currently tolerating canagliflozin 100 mg [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)]. |
-| Examples: | Rifampin, phenytoin, phenobarbital, ritonavir |
 | Digoxin |  |
-| Clinical Impact: | Canagliflozin increased digoxin exposure [see Clinical Pharmacology (12.3)]. |
+| Clinical Impact: | Canagliflozin increases digoxin exposure [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Monitor patients taking INVOKAMET/INVOKAMET XR with concomitant digoxin for a need to adjust dose of digoxin. |
+| Lithium |  |
+| Clinical Impact: | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
+| Intervention: | Monitor serum lithium concentration more frequently during INVOKAMET/INVOKAMET XR initiation and dosage changes. |
 | Drug/Laboratory Test Interference |  |
 | Positive Urine Glucose Test |  |
-| Intervention: | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors as SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests. Use alternative methods to monitor glycemic control. |
+| Clinical Impact: | SGLT2 inhibitors increase urinary glucose excretion which will lead to positive urine glucose tests. |
+| Intervention: | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
 | Interference with 1,5-anhydroglucitol (1,5-AG) Assay |  |
-| Intervention: | Monitoring glycemic control with 1,5-AG assay is not recommended as measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
+| Clinical Impact: | Measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors. |
+| Intervention: | Monitoring glycemic control with 1,5-AG assay is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |

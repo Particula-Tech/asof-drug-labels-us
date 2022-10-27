@@ -21,16 +21,16 @@ Inform patients that INVOKAMET/INVOKAMET XR is associated with an increased risk
 Counsel patients about the importance of routine preventative foot care.
 Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.2)].
 
-Volume Depletion
-
-Inform patients that symptomatic hypotension may occur with INVOKAMET/INVOKAMET XR and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.3)].
-Inform patients that dehydration may increase the risk for hypotension and to have adequate fluid intake.
-
 Ketoacidosis
 
 Inform patients that ketoacidosis is a serious life-threatening condition and that cases of ketoacidosis have been reported during use of canagliflozin, sometimes associated with illness or surgery among other risk factors.
 Instruct patients to check ketones (when possible) if symptoms consistent with ketoacidosis occur even if blood glucose is not elevated.
-If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET/INVOKAMET XR and seek medical attention immediately [see Warnings and Precautions (5.4)].
+If symptoms of ketoacidosis (including nausea, vomiting, abdominal pain, tiredness, and labored breathing) occur, instruct patients to discontinue INVOKAMET/INVOKAMET XR and seek medical attention immediately [see Warnings and Precautions (5.3)].
+
+Volume Depletion
+
+Inform patients that symptomatic hypotension may occur with INVOKAMET/INVOKAMET XR and advise them to contact their doctor if they experience such symptoms [see Warnings and Precautions (5.4)].
+Inform patients that dehydration may increase the risk for hypotension and to have adequate fluid intake.
 
 Serious Urinary Tract Infections
 
@@ -66,7 +66,7 @@ Provide them with information on factors that may contribute to fracture risk [s
 
 Laboratory Tests
 
-Inform patients that they will test positive for glucose in their urine while on INVOKAMET/INVOKAMET XR [see Drug Interactions (7.2)].
+Inform patients that they will test positive for glucose in their urine while on INVOKAMET/INVOKAMET XR [see Drug Interactions (7)].
 
 Females of Reproductive Age
 
