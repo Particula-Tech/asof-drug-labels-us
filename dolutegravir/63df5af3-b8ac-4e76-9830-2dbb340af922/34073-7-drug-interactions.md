@@ -9,7 +9,7 @@ Dolutegravir may increase plasma concentrations of drugs eliminated via OCT2 or 
 In vitro, dolutegravir inhibited the basolateral renal transporters, organic anion transporter (OAT) 1 (IC50 = 2.12 microM) and OAT3 (IC50 = 1.97 microM).
 However, in vivo, dolutegravir did not alter the plasma concentrations of tenofovir or para-amino hippurate, substrates of OAT1 and OAT3.
 
-In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, UGT1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, multidrug resistance protein (MRP)2, or MRP4.
+In vitro, dolutegravir did not inhibit (IC50 greater than 50 microM) the following: cytochrome P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A, uridine diphosphate glucuronosyltransferase (UGT)1A1, UGT2B7, P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), bile salt export pump (BSEP), organic anion transporter polypeptide (OATP)1B1, OATP1B3, OCT1, multidrug resistance protein (MRP)2, or MRP4.
 In vitro, dolutegravir did not induce CYP1A2, CYP2B6, or CYP3A4.
 Based on these data and the results of drug interaction trials, dolutegravir is not expected to affect the pharmacokinetics of drugs that are substrates of these enzymes or transporters.
 
@@ -49,6 +49,7 @@ Established and Other Potentially Significant Drug Interactions: Alterations in 
 | Potassium channel blocker:Dalfampridine | ↑Dalfampridine | Elevated levels of dalfampridine increase the risk of seizures. The potential benefits of taking dalfampridine concurrently with TIVICAY or TIVICAY PD should be considered against the risk of seizures in these patients. |
 | Metformin | ↑Metformin | Refer to the prescribing information for metformin for assessing the benefit and risk of concomitant use of TIVICAY or TIVICAY PD and metformin. |
 | Rifampina | ↓Dolutegravir | Adjust dose of TIVICAY to twice daily for treatment-naïve and treatment-experienced, INSTI-naïve adult patients. In pediatric patients, increase the weight-based dose of TIVICAY or TIVICAY PD to twice daily (Tables 2, 3, and 4).Use alternatives to rifampin where possible for INSTI-experienced patients with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance.b |
+| INSTI = integrase strand transfer inhibitor. |  |  |
 | a See Clinical Pharmacology (12.3) Table 11 or Table 12 for magnitude of interaction. b The lower dolutegravir exposures observed in INSTI-experienced patients (with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistance [see Microbiology (12.4)]) upon coadministration with certain inducers may result in loss of therapeutic effect and development of resistance to TIVICAY or other coadministered antiretroviral agents. |  |  |
 
 ## 7.4 Drugs without Clinically Significant Interactions with Dolutegravir

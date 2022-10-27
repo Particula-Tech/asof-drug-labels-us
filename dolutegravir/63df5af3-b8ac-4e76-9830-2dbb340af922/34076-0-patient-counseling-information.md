@@ -64,16 +64,16 @@ Manufactured for:
 
 ViiV Healthcare
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 ©2022 ViiV Healthcare group of companies or its licensor.
 
-TVC:17PI
+TVC:18PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _

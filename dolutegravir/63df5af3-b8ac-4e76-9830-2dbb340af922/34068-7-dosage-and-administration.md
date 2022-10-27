@@ -16,6 +16,7 @@ Dosing Recommendations for TIVICAY Tablets in Adult Patients
 | Treatment-naïve or treatment-experienced INSTI-naïve or virologically suppressed (HIV-1 RNA <50 copies per mL) adults switching to dolutegravir plus rilpivirinea | 50 mg once daily |
 | Treatment-naïve or treatment-experienced INSTI-naïve when coadministered with certain uridine diphosphate (UDP)-glucuronosyl transferase 1A1 (UGT1A) or cytochrome P450 (CYP)3A inducers [see Drug Interactions (7.2, 7.3)] | 50 mg twice daily |
 | INSTI-experienced with certain INSTI-associated resistance substitutions or clinically suspected INSTI resistanceb [see Microbiology (12.4)] | 50 mg twice daily |
+| INSTI = integrase strand transfer inhibitor. |  |
 | a Rilpivirine dose is 25 mg once daily for those switching to dolutegravir plus rilpivirine. b Alternative combinations that do not include metabolic inducers should be considered where possible [see Drug Interactions (7.3)]. |  |
 
 ## 2.3 General Dosing and Administration Instructions for Pediatric Patients
@@ -27,7 +28,7 @@ See administration instructions in Dosage and Administration (2.6).
 
 ## 2.4 Recommended Dosage in Pediatric Patients Weighing 3 to 14 kg
 
-The recommended weight-based dosage of TIVICAY PD tablets for oral suspension in pediatric patients weighing 3 to 14 kg (4 weeks and older, treatment-naïve or treatment-experienced but naïve to INSTI treatment) is described in Table 2.
+The recommended weight-based dosage of TIVICAY PD tablets for oral suspension in pediatric patients weighing 3 to 14 kg (4 weeks and older, treatment-naïve, or treatment-experienced but naïve to INSTI treatment) is described in Table 2.
 
 Do not use TIVICAY tablets in patients weighing 3 to 14 kg.
 See administration instructions in Dosage and Administration (2.6).
@@ -45,7 +46,7 @@ Recommended Dosage of TIVICAY PD in Pediatric Patients 4 Weeks and Older Weighin
 
 ## 2.5 Recommended Dosage in Pediatric Patients Weighing 14 kg or Greater
 
-For pediatric patients weighing 14 kg or greater (4 weeks and older, treatment-naïve or treatment-experienced but naïve to INSTI treatment) administer either:
+For pediatric patients weighing 14 kg or greater (4 weeks and older, treatment-naïve, or treatment-experienced but naïve to INSTI treatment) administer either:
 
 - •TIVICAY PD tablets for oral suspension (preferred in pediatric patients weighing less than 20 kg) (Table 3), or
 - •TIVICAY tablets for oral use (Table 4)

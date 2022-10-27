@@ -17,7 +17,7 @@ Trials Conducted with TIVICAY or TIVICAY PD in HIV-1–Infected Subjects
 | INSTI-experienced | VIKING-3 (ING112574)(NCT01328041) | TIVICAY + OBT (n = 183) | 48 |
 | Virologically suppressed | SWORD-1 (NCT02429791)SWORD-2 (NCT02422797) | Pooled presentationTIVICAY + Rilpivirine (n = 513)CAR (n = 511) | 48 |
 | Pediatrics: 4 weeks and older and weighing at least 3 kg without INSTI resistance | IMPAACT P1093 (NCT01302847) | TIVICAY or TIVICAY PD + BR (n = 75) | 24 |
-| BR = Background regimen; CAR = Current antiretroviral regimen; OBT = Optimized background therapy. |  |  |  |
+| NRTI = nucleoside reverse transcriptase inhibitor; BR = Background regimen; INSTI = integrase strand transfer inhibitor; OBT = Optimized background therapy; CAR = Current antiretroviral regimen. |  |  |  |
 
 ## 14.2 Adult Subjects
 
@@ -61,6 +61,7 @@ Virologic Outcomes of Randomized Treatment in SPRING-2 at Week 96 and SINGLE at 
 | Race |  |  |  |  |
 | White | 83% | 78% | 72% | 71% |
 | African-American/African Heritage/Other | 77% | 75% | 71% | 47% |
+| NRTI = Nucleoside reverse transcriptase inhibitor. |  |  |  |  |
 | a Adjusted for pre-specified stratification factors. b The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 86% in the raltegravir group, with a treatment difference of 2.6% and 95% CI of (-1.9%, 7.2%). c The primary endpoint was assessed at Week 48 and the virologic success rate was 88% in the group receiving TIVICAY and 81% in the ATRIPLA group, with a treatment difference of 7.4% and 95% CI of (2.5%, 12.3%). d Includes subjects who discontinued due to an adverse event or death at any time point if this resulted in no virologic data on treatment during the analysis window. e Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |  |  |  |  |
 
 SPRING-2: Virologic outcomes were also comparable across baseline characteristics including CD4+ cell count, age, and use of EPZICOM or TRUVADA as NRTI background regimen.
@@ -142,19 +143,20 @@ Week 48 virologic outcomes for VIKING-3 are shown in Table 18.
 Table 18.
 Virologic Outcomes of Treatment of VIKING-3 at 48 Weeks (Snapshot Algorithm)
 
-|  | TIVICAY 50 mg Twice Daily + OBT(n = 183) |
-| --- | --- |
-| HIV-1 RNA <50 copies/mL | 63% |
-| Virologic nonresponse | 32% |
-| No virologic dataReasons |  |
-| Discontinued study/study drug due to adverse event or death | 3% |
-| Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category |  |
-| Gender |  |
-| Male | 63% |
-| Female | 64% |
-| Race |  |
-| White | 63% |
-| African-American/African Heritage/Other | 64% |
+|  | TIVICAY 50 mg Twice Daily + OBT(n = 183) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| HIV-1 RNA <50 copies/mL | 63% |  |  |  |  |  |  |  |  |
+| Virologic nonresponse | 32% |  |  |  |  |  |  |  |  |
+| No virologic dataReasons |  |  |  |  |  |  |  |  |  |
+| Discontinued study/study drug due to adverse event or death | 3% |  |  |  |  |  |  |  |  |
+| Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category |  |  |  |  |  |  |  |  |  |
+| Gender |  |  |  |  |  |  |  |  |  |
+| Male | 63% |  |  |  |  |  |  |  |  |
+| Female | 64% |  |  |  |  |  |  |  |  |
+| Race |  |  |  |  |  |  |  |  |  |
+| White | 63% |  |  |  |  |  |  |  |  |
+| African-American/African Heritage/Other | 64% |  |  |  |  |  |  |  |  |
+| OBT = Optimized Background Therapy. |  |  |  |  |  |  |  |  |  |
 
 Subjects harboring virus with Q148 and with additional Q148-associated secondary substitutions also had a reduced response at Week 48 in a stepwise fashion [see Microbiology (12.4)].
 

@@ -39,7 +39,7 @@ The relative bioavailability of TIVICAY PD is approximately 1.6-fold higher than
 
 Absorption
 
-Following oral administration of dolutegravir, peak plasma concentrations were observed 2 to 3 hours postdose.
+Following oral administration of dolutegravir, peak plasma concentrations were observed 1 to 3 hours postdose.
 With once-daily dosing, pharmacokinetic steady state is achieved within approximately 5 days with average accumulation ratios for AUC, Cmax, and C24 h ranging from 1.2 to 1.5.
 
 Dolutegravir plasma concentrations increased in a less than dose-proportional manner above 50 mg.
@@ -176,7 +176,7 @@ Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravi
 
 Mechanism of Action
 
-Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral deoxyribonucleic acid (DNA) integration which is essential for the HIV replication cycle.
+Dolutegravir inhibits HIV integrase by binding to the integrase active site and blocking the strand transfer step of retroviral DNA integration which is essential for the HIV replication cycle.
 Strand transfer biochemical assays using purified HIV-1 integrase and pre-processed substrate DNA resulted in IC50 values of 2.7 nM and 12.6 nM.
 
 Antiviral Activity in Cell Culture
@@ -243,6 +243,7 @@ Response by Baseline Integrase Genotype in Subjects with Prior Experience to an 
 | No Q148 substitutiona | 74% (92/124) |
 | Q148H/R + G140S/A/C without additional INSTI-resistance substitutionb | 61% (17/28) |
 | Q148H/R + ≥2 INSTI-resistance substitutionsb,c | 29% (6/21) |
+| INSTI = integrase strand transfer inhibitor. |  |
 | a Includes INSTI-resistance substitutions Y143R/C/H and N155H. b INSTI-resistance substitutions included T66A, L74I/M, E138A/K/T, G140S/A/C, Y143R/C/H, E157Q, G163S/E/K/Q, or G193E/R. Two additional subjects had baseline genotypes of Q148Q/R plus L74L/I/M (virologic failure) and Q148R plus E138K (responder). c The most common pathway with Q148H/R + greater than or equal to 2 INSTI-resistance substitutions had Q148+G140+E138 substitutions (n = 16). |  |
 
 Response by Baseline Phenotype

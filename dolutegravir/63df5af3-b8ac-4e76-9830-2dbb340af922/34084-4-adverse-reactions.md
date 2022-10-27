@@ -121,7 +121,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects i
 | Total neutrophils |  |  |  |  |  |  |  |  |  |
 | Grade 2 (0.75-0.99 x 109) | 4% | 3% | 4% | 5% |  |  |  |  |  |
 | Grade 3 to 4 (<0.75 x 109) | 2% | 2% | 3% | 3% |  |  |  |  |  |
-| ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |  |
+| ALT = Alanine amino transferase; AST = Aspartate amino tranferase; ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |  |
 
 Table 7.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysisa) and SINGLE Trials (Week 144 Analysisa)
@@ -133,7 +133,8 @@ Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in
 | HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.4 | 7.2 |  |  |  |  |  |  |  |  |  |  |
 | LDL cholesterol (mg/dL) | 5.1 | 6.1 | 16.0 | 14.6 |  |  |  |  |  |  |  |  |  |  |
 | Triglycerides (mg/dL) | 6.7 | 6.6 | 13.6 | 31.9 |  |  |  |  |  |  |  |  |  |  |
-| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless if they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36, ATRIPLA n = 36). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| HDL = High density lipoprotein; LDL = Low density lipoprotein. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of whether they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36, ATRIPLA n = 36). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Laboratory abnormalities observed in the FLAMINGO trial were generally consistent with observations in SPRING-2 and SINGLE.
 

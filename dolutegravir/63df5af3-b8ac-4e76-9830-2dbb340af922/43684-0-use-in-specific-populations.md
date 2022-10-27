@@ -40,6 +40,9 @@ Data from the birth outcome surveillance study described above and postmarketing
 Based on prospective reports to the APR of 842 exposures to dolutegravir during pregnancy resulting in live births (including 512 exposed in the first trimester), the prevalence of defects in live births was 3.3% (95% CI: 1.9% to 5.3%) following first-trimester exposure to dolutegravir-containing regimens and 4.8% (95% CI: 2.8% to 7.8%) following second-/third-trimester exposure to dolutegravir-containing regimens.
 In the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP), the background birth defect rate was 2.7%.
 
+Dolutegravir has been shown to cross the placenta.
+In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51-2.11) (n = 15).
+
 Animal Data: Dolutegravir was administered orally at up to 1,000 mg per kg daily to pregnant rats and rabbits on Gestation Days 6 to 17 and 6 to 18, respectively, and to rats on Gestation Day 6 to Lactation/Postpartum Day 20.
 No adverse effects on embryo-fetal (rats and rabbits) or pre/postnatal (rats) development were observed at up to the highest dose tested.
 During organogenesis, systemic exposures (AUC) to dolutegravir in rabbits were less than the exposure in humans at the MRHD and in rats were approximately 27 times the exposure in humans at the MRHD.
@@ -51,14 +54,10 @@ Risk Summary
 
 The Centers for Disease Control and Prevention recommends that HIV‑1–infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV-1 infection.
 
-It is not known whether dolutegravir is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
-When administered to lactating rats, dolutegravir was present in milk (see Data).
+Dolutegravir is present in human milk.
+It is not known whether dolutegravir affects human milk production or has effects on the breastfed infant.
 
 Because of the potential for (1) HIV‑1 transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving dolutegravir.
-
-Data
-
-Animal Data: Dolutegravir was the primary drug-related component excreted into the milk of lactating rats following a single oral dose of 50 mg per kg on Lactation Day 10, with milk concentrations of up to approximately 1.3 times that of maternal plasma concentrations observed 8 hours postdose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
