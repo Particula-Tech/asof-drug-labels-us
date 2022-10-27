@@ -6,8 +6,18 @@ Its structural formula is
 
 The molecular weight of hydroxychloroquine sulfate is 433.95, and molecular formula is C18H26CIN3O•H2SO4.
 
+Hydroxychloroquine Sulfate Tablets, USP contains 100 mg hydroxychloroquine sulfate, equivalent to 77.50 mg base, and are for oral administration.
+
+Inactive Ingredients: corn starch, crospovidone, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
+
 Hydroxychloroquine Sulfate Tablets, USP contain 200 mg hydroxychloroquine sulfate, equivalent to 155 mg base, and are for oral administration.
 
+Inactive Ingredients: corn starch, crospovidone, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
+
+Hydroxychloroquine Sulfate Tablets, USP contains 300 mg hydroxychloroquine sulfate, equivalent to 232.50 mg base, and are for oral administration.
+Inactive Ingredients: corn starch, crospovidone, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide and yellow iron oxide.
+
+Hydroxychloroquine Sulfate Tablets, USP contain 400 mg hydroxychloroquine sulfate, equivalent to 310 mg base, and are for oral administration.
 Inactive Ingredients: corn starch, crospovidone, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
 
 Meets USP Dissolution Test 1

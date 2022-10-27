@@ -90,5 +90,6 @@ Proteinuria with or without moderate reduction in glomerular filtration rate hav
 
 Renal biopsy showed phospholipidosis without immune deposits, inflammation, and/or increased cellularity.
 Physicians should consider phospholipidosis as a possible cause of renal injury in patients with underlying connective tissue disorders who are receiving hydroxychloroquine sulfate tablets.
+
 Drug-induced phospholipidosis may occur in other organ systems [see Warnings and Precautions (5.1, 5.7)].
 Discontinue hydroxychloroquine sulfate tablets if renal toxicity is suspected or demonstrated by tissue biopsy.
