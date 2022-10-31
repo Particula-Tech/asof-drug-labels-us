@@ -222,21 +222,9 @@ Inactive ingredients: citric acid anhydrous, colloidal silicon dioxide, hydroxye
 The oral suspension does not contain lactose or gluten and is dye-free.
 The oral suspension does contain carbohydrates.
 
-Manufactured by:
-
-Alkem Laboratories Ltd.
-
-Mumbai – 400 013, INDIA
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-339 Jefferson Road,
-
-Parsippany, NJ 07054
-
-Revised: 02/2021 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: 11/2021
 
 # Instructions for Use
 
@@ -293,18 +281,7 @@ The cap will fit over the bottle adapter.
 Store the bottle upright at 59°F to 86°F (15°C to 30°C).
 See Figure K Figure K
 
-Manufactured by:
+Manufactured by: Alkem Laboratories Ltd., INDIA.
+Distributed by: Ascend Laboratories, LLC 339 Jefferson Road, Parsippany, NJ 07054 Revised: 11/2021
 
-Alkem Laboratories Ltd.
-
-Mumbai – 400 013, INDIA
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-339 Jefferson Road,
-
-Parsippany, NJ 07054
-
-Revised: 02/2021
+PT3469-02
