@@ -37,6 +37,7 @@ Following administration of a 20 mg TAGRISSO tablet with a high-fat, high-calori
 Distribution
 
 The mean volume of distribution at steady-state (Vss/F) of osimertinib was 918 L. Plasma protein binding of osimertinib was 95%.
+PET brain imaging studies in healthy volunteers and in patients with brain metastases show that osimertinib is distributed to the brain following intravenous injection of a micro dose of 11C-labeled osimertinib.
 
 Elimination
 

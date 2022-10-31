@@ -210,20 +210,20 @@ QTc interval prolongation represents the incidence of patients who had a QTcF pr
 Table 7.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
-| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |
-| --- | --- | --- | --- | --- |
-| All Grades(%) | Grade 3 or Grade 4(%) | All Grades(%) | Grade 3 or Grade 4(%) |  |
-| Hematology |  |  |  |  |
-| Anemia | 43 | 0 | 79 | 3.1 |
-| Lymphopenia | 63 | 8 | 61 | 10 |
-| Thrombocytopenia | 46 | 0.7 | 48 | 7 |
-| Neutropenia | 27 | 2.2 | 49 | 12 |
-| Chemistry |  |  |  |  |
-| Hypermagnesemia | 27 | 1.8 | 9 | 1.5 |
-| Hyponatremia | 26 | 2.2 | 36 | 1.5 |
-| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm) | 20 | 0 | NA | NA |
-| Hypokalemia | 9 | 1.4 | 18 | 1.5 |
-| NA=not applicable |  |  |  |  |
+| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131) | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |
+| --- | --- | --- | --- | --- | --- |
+| All Grades(%) | Grade 3 or Grade 4(%) | All Grades(%) |  | Grade 3 or Grade 4(%) |  |
+| Hematology |  |  |  |  |  |
+| Anemia | 43 | 0 |  | 79 | 3.1 |
+| Lymphopenia | 63 | 8 |  | 61 | 10 |
+| Thrombocytopenia | 46 | 0.7 |  | 48 | 7 |
+| Neutropenia | 27 | 2.2 |  | 49 | 12 |
+| Chemistry |  |  |  |  |  |
+| Hypermagnesemia | 27 | 1.8 |  | 9 | 1.5 |
+| Hyponatremia | 26 | 2.2 |  | 36 | 1.5 |
+| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm) | 20 | 0 |  | NA | NA |
+| Hypokalemia | 9 | 1.4 |  | 18 | 1.5 |
+| NA=not applicable |  |  |  |  |  |
 
 Clinically relevant laboratory abnormalities in AURA3 that occurred in <20% of patients receiving TAGRISSO included increased blood creatinine (7%).
 
@@ -232,6 +232,6 @@ Clinically relevant laboratory abnormalities in AURA3 that occurred in <20% of p
 The following adverse reactions have been identified during post-approval use of TAGRISSO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and lymphatic system disorders: Aplastic anemia
-
-Skin and subcutaneous tissue: Stevens-Johnson syndrome, erythema multiforme, cutaneous vasculitis
+- 
+  - •Skin and subcutaneous tissue: Stevens-Johnson syndrome, erythema multiforme, cutaneous vasculitis
+  - •Blood and lymphatic system disorders: Aplastic anemia

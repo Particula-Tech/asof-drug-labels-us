@@ -30,6 +30,7 @@ Cutaneous Vasculitis
 
 - •Inform patients of signs and symptoms that may be indicative of cutaneous vasculitis.
   Advise patients to contact their healthcare provider immediately if they develop multiple, non-blanching red papules on their forearms, lower legs, or buttocks or large hives on their trunk that do not go away within 24 hours and develop a bruised appearance [see Warnings and Precautions (5.6)].
+- 
 
 Aplastic Anemia
 
