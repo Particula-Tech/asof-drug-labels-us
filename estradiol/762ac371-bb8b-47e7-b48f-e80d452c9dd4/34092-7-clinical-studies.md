@@ -54,14 +54,16 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 | Overall mortality | 1.04 (0.88-1.22) | 79 | 75 |
 | Global index A subset of the events was combined in a "global index," defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, endometrial cancer, colorectal cancer, hip fracture, or death due to other causes. | 1.02 (0.92-1.13) | 206 | 201 |
 
-For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women‑years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
+For those outcomes included in the WHI “global index” that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women‑years was 7 fewer hip fractures.
+9 The absolute excess risk of events included in the "global index" was a non-significant 5 events per 10,000 women-years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI, and CHD death) and invasive breast cancer in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
 See Table 3.
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in the distribution of stroke subtype or severity, including fatal strokes, in women receiving estrogen-alone compared to placebo.
-Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.10 See Table 3.
+Estrogen-alone therapy increased the risk of ischemic stroke, and this excess risk was present in all subgroups of women examined.
+10 See Table 3.
 
 Timing of initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen-alone substudy stratified by age showed in women 50 to 59 years of age a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI, 0.36-1.09)] and overall mortality [HR 0.71 (95 percent CI, 0.46-1.11)].
