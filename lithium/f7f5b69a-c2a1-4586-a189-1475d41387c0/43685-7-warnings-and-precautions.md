@@ -150,6 +150,9 @@ Indomethacin and piroxicam have been reported to increase significantly steady-s
 There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone.
 
+Concomitant use of lithium with a Sodium-Glucose Cotransporter 2 (SGLT2) inhibitor may decrease serum lithium concentrations.
+Monitor serum lithium concentration more frequently during SGLT2 inhibitor initiation and dosage changes.
+
 Lithium may impair mental and/or physical abilities.
 Patients should be cautioned about activities requiring alertness (e.g., operating vehicles or machinery).
 
