@@ -1,5 +1,3 @@
-# BOXED WARNING
-
 WARNING:
 
 Because ketoconazole tablets have been associated with serious adverse reactions (see WARNINGS section), ketoconazole tablets are not indicated for treatment of onychomycosis, cutaneous dermatophyte infections, or Candida infections.

@@ -9,19 +9,12 @@ Protect from moisture.
 
 Keep this and all medications out of reach of children.
 
-Manufactured by:
-
-Strides Shasun Limited,
-
-Puducherry - 605 014, India
-
 Distributed by:
 
 Strides Pharma Inc,
 
 East Brunswick, NJ 08816
 
-PON/DRUGS/16 13 4193
+Revised: 04/2022
 
-Rev.
-03/2018
+Medication Guide available at: www.strides.com/medication-guides

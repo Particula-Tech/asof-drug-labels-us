@@ -1,5 +1,3 @@
-# SPL MEDGUIDE
-
 MEDICATION GUIDE
 
 KETOCONAZOLE (KEE-toe-KON-a-zole) TABLETS USP
@@ -139,11 +137,6 @@ Strides Pharma Inc,
 
 East Brunswick, NJ 08816
 
-Manufactured by:
+Revised: 04/2022
 
-Strides Shasun Limited,
-
-Puducherry-605 014, India
-
-Rev.
-03/2018
+Medication Guide available at: www.strides.com/medication-guides
