@@ -3,7 +3,7 @@
 Aprepitant capsules, USP contain the active ingredient, aprepitant, USP.
 Aprepitant, USP is a substance P/neurokinin 1 (NK 1) receptor antagonist, an antiemetic agent, chemically described as 5-[[(2 R,3 S)-2-[(1 R)-1-[3,5bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)-4-morpholinyl]methyl]-1,2-dihydro-3 H-1,2,4-triazol-3one.
 
-Its empirical formula is C 23H 21F 7N 4O 3, and its structural formula is:
+Its empirical formula is C23H21F7N4O3, and its structural formula is:
 
 Aprepitant, USP is a white to off-white powder, with a molecular weight of 534.43.
 It is practically insoluble in water.

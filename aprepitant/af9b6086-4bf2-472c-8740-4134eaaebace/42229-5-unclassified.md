@@ -1,6 +1,6 @@
 # 1.1 Prevention of Chemotherapy Induced Nausea and Vomiting (CINV)
 
-Aprepitqnt capsules, in combination with other antiemetic agents, is indicated in patients 12 years of age and older for the prevention of:
+Aprepitant capsules, in combination with other antiemetic agents, is indicated in patients 12 years of age and older for the prevention of:
 
 - acute and delayed nausea and vomiting associted with initial and repeat courses of highly emetogenic cancer chemotherapy (HEC) including high-dose cisplatin.
 - nausea and vomiting associated with initial and repeat courses of moderately emetogenic cancer chemotherapy (MEC).

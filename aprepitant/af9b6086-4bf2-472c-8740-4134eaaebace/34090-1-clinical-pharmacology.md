@@ -15,8 +15,8 @@ NK1Receptor Occupancy
 
 In two single-blind, multiple-dose, randomized, and placebo-controlled studies, healthy young men received oral aprepitant doses of 10 mg (N=2), 30 mg (N=3), 100 mg (N=3) or 300 mg (N=5) once daily (0.08, 0.24, 0.8, and 2.4 times the maximum recommended single dose, respectively) for 14 days with 2 or 3 subjects on placebo.
 Both plasma aprepitant concentration and NK1 receptor occupancy in the corpus striatum by positron emission tomography were evaluated, at predose and 24 hours after the last dose.
-At aprepitant plasma concentrations of approximately 10 ng/mL and 100 ng/mL, the NK 1 receptor occupancies were approximately 50% and 90%, respectively.
-The oral aprepitant regimen for CINV produced mean trough plasma aprepitant concentrations greater than 500 ng/mL in adults, which would be expected to, based on the fitted curve with the Hill equation, result in greater than 95% brain NK 1 receptor occupancy.
+At aprepitant plasma concentrations of approximately 10 ng/mL and 100 ng/mL, the NK1 receptor occupancies were approximately 50% and 90%, respectively.
+The oral aprepitant regimen for CINV produced mean trough plasma aprepitant concentrations greater than 500 ng/mL in adults, which would be expected to, based on the fitted curve with the Hill equation, result in greater than 95% brain NK1 receptor occupancy.
 However, the receptor occupancy for either CINV or PONV dosing regimen has not been determined.
 In addition, the relationship between NK1 receptor occupancy and the clinical efficacy of aprepitant has not been established.
 
@@ -93,7 +93,7 @@ These differences are not considered clinically meaningful.
 Racial or Ethnic Groups
 
 Following oral administration of a single dose of aprepitant ranging from 40 mg to 375 mg (3 times the maximum aprepitant recommended dose), the AUC0-24hr and Cmax are approximately 27% and 19% higher in Hispanics as compared with Caucasians.
-The AUC 0-24hr and C max were 74% and 47% higher in Asians as compared to Caucasians.
+The AUC0-24hr and Cmax were 74% and 47% higher in Asians as compared to Caucasians.
 There was no difference in AUC0-24hr or Cmax between Caucasians and Blacks.
 These differences are not considered clinically meaningful.
 
@@ -101,16 +101,16 @@ Patients with Renal Impairment
 
 A single 240-mg dose of aprepitant (approximately 1.9 times the maximum aprepitant recommended dose) was administered to patients with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2 as measured by 24-hour urinary creatinine clearance) and to patients with end stage renal disease (ESRD) requiring hemodialysis.
 
-In patients with severe renal impairment, the AUC 0-∞ of total aprepitant (unbound and protein bound) decreased by 21% and Cmax decreased by 32%, relative to healthy subjects (creatinine clearance greater than 80 mL/min estimated by Cockcroft-Gault method).
+In patients with severe renal impairment, the AUC0-∞ of total aprepitant (unbound and protein bound) decreased by 21% and Cmax decreased by 32%, relative to healthy subjects (creatinine clearance greater than 80 mL/min estimated by Cockcroft-Gault method).
 In patients with ESRD undergoing hemodialysis, the AUC0-∞ of total aprepitant decreased by 42% and Cmax decreased by 32%.
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound drug was not significantly affected in patients with renal impairment compared with healthy subjects.
 Hemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2% of the dose was recovered in the dialysate [see Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-Following administration of a single 125-mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 and 3 to patients with mild hepatic impairment (Child-Pugh score 5 to 6), the AUC 0-24hr of aprepitant was 11% lower on Day 1 and 36% lower on Day 3, as compared with healthy subjects given the same regimen.
+Following administration of a single 125-mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 and 3 to patients with mild hepatic impairment (Child-Pugh score 5 to 6), the AUC0-24hr of aprepitant was 11% lower on Day 1 and 36% lower on Day 3, as compared with healthy subjects given the same regimen.
 In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC0-24hr of aprepitant was 10% higher on Day 1 and 18% higher on Day 3, as compared with healthy subjects given the same regimen.
-These differences in AUC 0-24hr are not considered clinically meaningful.
+These differences in AUC0-24hr are not considered clinically meaningful.
 There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9) [see Use in Specific Populations (8.7)].
 
 Body Mass Index (BMI)
@@ -170,7 +170,7 @@ Oral contraceptives: When aprepitant was administered as a 3-day regimen (125-mg
 When a daily dosage of an oral contraceptive containing ethinyl estradiol and norgestimate was administered on Days 1 through 21, and aprepitant 40 mg was given on Day 8, the AUC of ethinyl estradiol decreased by 4% and by 29% on Day 8 and Day 12, respectively, while the AUC of norelgestromin increased by 18% on Day 8 and decreased by 10% on Day 12.
 In addition, the trough concentrations of ethinyl estradiol and norelgestromin on Days 8 through 21 were generally lower following coadministration of the oral contraceptive with aprepitant 40 mg on Day 8 compared to the trough levels following administration of the oral contraceptive alone [see Drug Interactions (7.1)].
 
-P-glycoprotein substrates: Aprepitant is unlikely to interact with drugs that are substrates for the Pglycoprotein transporter, as demonstrated by the lack of interaction of aprepitant with digoxin in a clinical drug interaction study.
+P-glycoprotein substrates: Aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter, as demonstrated by the lack of interaction of aprepitant with digoxin in a clinical drug interaction study.
 
 5-HT3 antagonists: In clinical drug interaction studies, aprepitant did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 

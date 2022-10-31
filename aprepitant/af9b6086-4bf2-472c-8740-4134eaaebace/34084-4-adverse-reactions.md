@@ -28,7 +28,7 @@ Table 5: Most Common Adverse Reactions in Patients Receiving HEC and MEC from a 
 | white blood cell count decreased | 4% | 3% |
 | dehydration | 3% | 2% |
 | alanine aminotransferase increased | 3% | 2% |
-| *Reported in ≥ 3% of patients treated with the aprepitant regimen and at a greater incidence than standard therapy. † Aprepitant regimen ‡ Standard therapy |  |  |
+| *Reported in ≥3% of patients treated with the Aprepitant regimen and at a greater incidence than standard therapy. † Aprepitant regimen ‡ Standard therapy |  |  |
 
 In a pooled analysis of the HEC and MEC studies, less common adverse reactions reported in patients with the aprepitant regimen are listed in Table 6.
 
@@ -48,7 +48,7 @@ Table 6: Less Common Adverse Reactions in Aprepitant-Treated Patients from a Poo
 | Musculoskeletal and Connective Tissue Disorders | musculoskeletal pain |
 | General Disorders and Administration Site Condition | edema peripheral, malaise |
 | Investigations | aspartate aminotransferase increased, blood alkaline phosphatase increased, blood sodium decreased, blood urea increased, proteinuria, weight decreased |
-| * Reported in > 0.5% of patients treated with the aprepitant regimen, at a greater incidence than standard therapy and not previously described in Table 5. |  |
+| * Reported in >0.5% of patients treated with the aprepitant regimen, at a greater incidence than standard therapy and not previously described in Table 5. |  |
 
 In additional active-controlled clinical study 1,169 patients receiving aprepitant and HEC, the adverse reactions were generally similar to that seen in the other HEC studies with aprepitant.
 
@@ -77,7 +77,7 @@ Table 7: Most Common Adverse Reactions in Aprepitant-Treated Pediatric Patients 
 | hemoglobin decreased | 5% | 4% |
 | dizziness | 5% | 1% |
 | hiccups | 4% | 1% |
-| * Reported in ≥3% of patients treated with the aprepitant regimen and at a greater incidence than control regimen. † Aprepitant regimen |  |  |
+| * Reported in ≥3% of patients treated with the aprepitant regimen and at a greater incidence than control regimen. †Aprepitant regimen |  |  |
 | ‡ Control regimen |  |  |
 
 Forty-nine patients were treated with ifosfamide chemotherapy in each arm.
@@ -98,7 +98,7 @@ Table 8: Most Common Adverse Reactions in Aprepitant-Treated Patients in a Poole
 | --- | --- | --- |
 | constipation | 9% | 8% |
 | hypotension | 6% | 5% |
-| * Reported in ≥ 3% of patients treated with the aprepitant 40 mg and at a greater incidence than ondansetron. |  |  |
+| * Reported in ≥3% of patients treated with the aprepitant 40 mg and at a greater incidence than ondansetron. |  |  |
 
 In a pooled analysis of PONV studies, less common adverse reactions reported in patients treated with aprepitant are listed in Table 9.
 
@@ -116,7 +116,7 @@ Table 9: Less Common Adverse Reactions in Aprepitant-Treated Patients in a Poole
 | General Disorders and Administration Site Conditions | hypothermia |
 | Investigations | blood albumin decreased, bilirubin increased, blood glucose increased, blood potassium decreased |
 | Injury, Poisoning and Procedural Complications | operative hemorrhage, wound dehiscence |
-| *Reported in > 0.5% of patients treated with aprepitant and at a greater incidence than ondansetron |  |
+| *Reported in >0.5% of patients treated with aprepitant and at a greater incidence than ondansetron |  |
 
 In addition, two serious adverse reactions were reported in PONV clinical studies in patients taking a higher than recommended dose of aprepitant: one case of constipation, and one case of sub-ileus.
 

@@ -14,16 +14,16 @@ Advise patients to discuss all medications they are taking, including other pres
 Warfarin: Instruct patients on chronic warfarin therapy to follow instructions from their healthcare provider regarding blood draws to monitor their INR during the 2-week period, particularly at 7 to 10 days, following initiation of the 3-day regimen of aprepitant with each chemotherapy cycle, or following administration of a single 40-mg dose of aprepitant for the prevention of postoperative nausea and vomiting [see Warnings and Precautions (5.2)].
 
 Hormonal Contraceptives: Advise patients that administration of aprepitant may reduce the efficacy of hormonal contraceptives.
-Instruct patients to use effective alternative or back-up methods of contraception (such as condoms and spermicides) during treatment with aprepitant and for 1 month following the last dose of aprepitant [see Warnings and Precautions (5.3), Use in Specific Populations
-
-(8.3)].
+Instruct patients to use effective alternative or back-up methods of contraception (such as condoms and spermicides) during treatment with aprepitant and for 1 month following the last dose of aprepitant [see Warnings and Precautions (5.3), Use in Specific Populations (8.3)].
 
 Manufactured by:
 
 PHARMATHEN INTERNATION S.A., Rodopi 69300, GREECE (GRC)
 
-Manufactured For
+Manufactured For:
 
-TORRENT PHARMA INC., Levittown, PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-Revised: January 2022
+Revised: 06/2022
+
+2823402/3

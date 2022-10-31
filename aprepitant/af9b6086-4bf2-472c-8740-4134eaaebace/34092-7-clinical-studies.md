@@ -4,7 +4,7 @@
 
 Oral administration of aprepitant in combination with ondansetron and dexamethasone (aprepitant regimen) has been shown to prevent acute and delayed nausea and vomiting associated with HEC including high-dose cisplatin, and nausea and vomiting associated with MEC.
 
-In Studies 1 and 2, both multicenter, randomized, parallel, double-blind, controlled clinical studies in adults, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone alone) in patients receiving a chemotherapy regimen that included cisplatin greater than 50 mg/m 2 (mean cisplatin dose = 80.2 mg/m 2).
+In Studies 1 and 2, both multicenter, randomized, parallel, double-blind, controlled clinical studies in adults, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone alone) in patients receiving a chemotherapy regimen that included cisplatin greater than 50 mg/m2(mean cisplatin dose = 80.2 mg/m2).
 See Table 13.
 
 In these studies, 95% of the patients in the aprepitant group received a concomitant chemotherapeutic agent in addition to protocol-mandated cisplatin.
@@ -39,7 +39,7 @@ Primary endpoint:
 
 Other prespecified endpoints:
 
-• complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25 mm on a 0 to 100 mm scale) • no emesis (defined as no emetic episodes regardless of use of rescue therapy)
+• complete protection (defined as no emetic episodes, no use of rescue therapy, and a maximum nausea visual analogue scale [VAS] score less than 25mm on a 0 to 100 mm scale) • no emesis (defined as no emetic episodes regardless of use of rescue therapy)
 
 • no nausea (maximum VAS less than 5 mm on a 0 to 100 mm scale)
 
@@ -61,13 +61,13 @@ Table 14: Percent of Patients Receiving HEC Responding by Treatment Group and Ph
 | Complete Response |  |  |  |  |  |  |
 | Acute phase ‡ Delayed phase § | 89 75 | 78 56 | <0.001 <0.001 | 83 68 | 68 47 | <0.001 <0.001 |
 | Complete Protection |  |  |  |  |  |  |
-| Overall Acute phase Delayed phase | 63 85 66 | 49 75 52 | 0.001 NS ¶ <0.001 | 56 80 61 | 41 65 44 | <0.001 <0.001 <0.001 |
+| Overall Acute phase Delayed phase | 63 85 66 | 49 75 52 | 0.001 NS¶ <0.001 | 56 80 61 | 41 65 44 | <0.001 <0.001 <0.001 |
 | No Emesis |  |  |  |  |  |  |
 | Overall Acute phase Delayed phase | 78 90 81 | 55 79 59 | <0.001 0.001 <0.001 | 66 84 72 | 44 69 48 | <0.001 <0.001 <0.001 |
 | No Nausea |  |  |  |  |  |  |
-| Overall Delayed phase | 48 51 | 44 48 | NS # NS # | 49 53 | 39 40 | NS ¶ NS ¶ |
+| Overall Delayed phase | 48 51 | 44 48 | NS# NS# | 49 53 | 39 40 | NS¶ NS¶ |
 | No Significant Nausea |  |  |  |  |  |  |
-| Overall Delayed phase | 73 75 | 66 69 | NS # NS # | 71 73 | 64 65 | NS # NS # |
+| Overall Delayed phase | 73 75 | 66 69 | NS# NS# | 71 73 | 64 65 | NS# NS# |
 | Visual analogue scale (VAS) score range: 0 mm=no nausea; 100 mm=nausea as bad as it could be. |  |  |  |  |  |  |
 | *N: Number of patients (older than 18 years of age) who received cisplatin, study drug, and had at least one posttreatment efficacy evaluation. |  |  |  |  |  |  |
 | †Overall: 0 to 120 hours post-cisplatin treatment. |  |  |  |  |  |  |
@@ -94,7 +94,7 @@ Figure 2: Proportion of Patients Receiving HEC with No Emesis and No Significant
 
 Aprepitant was studied in two randomized, double-blind, parallel-group studies (Studies 3 and 4) in adult patients receiving MEC.
 
-In Study 3, in breast cancer patients, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone) in patients receiving a MEC regimen that included cyclophosphamide 750 to 1500 mg/m2; or cyclophosphamide 500 to 1,500 mg/m 2 and doxorubicin (less than or equal to 60 mg/m2) or epirubicin (less than or equal to 100 mg/m2).
+In Study 3, in breast cancer patients, aprepitant in combination with ondansetron and dexamethasone was compared with standard therapy (ondansetron and dexamethasone) in patients receiving a MEC regimen that included cyclophosphamide 750 to 1500 mg/m2; or cyclophosphamide 500 to 1,500 mg/m2 and doxorubicin (less than or equal to 60 mg/m2) or epirubicin (less than or equal to 100 mg/m2).
 See Table 15.
 
 In this study, the most common combinations were cyclophosphamide + doxorubicin (61%); and cyclophosphamide + epirubicin + fluorouracil (22%).
@@ -107,14 +107,14 @@ Table 15: MEC Treatment Regimens – Studies 3 and 4*
 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
-| CINVAPREPITANT Regimen |  |  |  |
-| Oral APREPITANT † | 125 mg | 80 mg | 80 mg |
+| CINV APREPITANT Regimen |  |  |  |
+| Oral APREPITANT† | 125 mg | 80 mg | 80 mg |
 | Oral Dexamethasone | 12 mg ‡ | none | none |
-| Oral Ondansetron | 8 mg x 2 doses § | none | none |
+| Oral Ondansetron | 8 mg x 2 doses§ | none | none |
 | CINV Standard Therapy |  |  |  |
 | Oral Dexamethasone | 20 mg ‡ | none | none |
-| Oral Ondansetron | 8 mg x 2 doses § | 8 mg twice daily | 8 mg twice daily |
-| * APREPITANT placebo and dexamethasone placebo were used to maintain blinding. |  |  |  |
+| Oral Ondansetron | 8 mg x 2 doses§ | 8 mg twice daily | 8 mg twice daily |
+| *APREPITANT placebo and dexamethasone placebo were used to maintain blinding. |  |  |  |
 | †APREPITANT was administered 1 hour prior to chemotherapy treatment on Day 1 and in the mornings on Days 2 and 3. |  |  |  |
 | ‡Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1. The 12 mg dose of dexamethasone on Day 1 reflects a dosage adjustment to account for a drug interaction with the APREPITANT regimen [see Clinical Pharmacology (12.3)]. |  |  |  |
 | §The first ondansetron dose was administered 30 to 60 minutes prior to chemotherapy treatment on Day 1 and the second dose wasadministered 8 hours after first ondansetron dose. |  |  |  |
@@ -146,10 +146,10 @@ Table 16: Percent of Patients Receiving MEC Responding by Treatment Group and Ph
 
 | ENDPOINTS | Aprepitant Regimen (N=433)* % | Standard Therapy (N=424)* % | p-Value |
 | --- | --- | --- | --- |
-| PRIMARY ENDPOINT † |  |  |  |
+| PRIMARY ENDPOINT† |  |  |  |
 | Complete Response | 51 | 42 | 0.015 |
-| OTHER PRESPECIFIED ENDPOINTS † |  |  |  |
-| No Emesis | 76 | 59 | NS ‡ |
+| OTHER PRESPECIFIED ENDPOINTS† |  |  |  |
+| No Emesis | 76 | 59 | NS‡ |
 | No Nausea | 33 | 33 | NS |
 | No Significant Nausea | 61 | 56 | NS |
 | No Rescue Therapy | 59 | 56 | NS |
@@ -215,10 +215,10 @@ Table 18: HEC and MEC Treatment Regimens* for Pediatric Patients 6 Months to 17 
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
 | CINV Aprepitant Regimen |  |  |  |
-| Pediatric Patients 6 Months to less than 12 Years of Age † | 3 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension |
-| Pediatric Patients 12 to 17 Years of Age † | 125 mg capsule | 80 mg capsule | 80 mg capsule |
+| Pediatric Patients 6 Months to less than 12 Years of Age† | 3 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension | 2 mg/kg body weight oral suspension |
+| Pediatric Patients 12 to 17 Years of Age† | 125 mg capsule | 80 mg capsule | 80 mg capsule |
 | Ondansetron | Per standard of care ‡ | none | none |
-| CINV Control Regimen § |  |  |  |
+| CINV Control Regimen§ |  |  |  |
 | Ondansetron | Per standard of care ‡ | none | none |
 | *Intravenous dexamethasone was permitted at the discretion of the physician. A 50% dose reduction of dexamethasone was required for patients in the aprepitant group, reflecting a dosage adjustment to account for a drug interaction [see Clinical Pharmacology (12.3)]. No dexamethasone dose reduction was required for patients in the control regimen. |  |  |  |
 | †Aprepitant was administered 1 hour prior to chemotherapy treatment on Days 1, 2, and 3. If no chemotherapy was given on Days 2 and 3, aprepitant was administered in the morning. |  |  |  |
@@ -227,7 +227,7 @@ Table 18: HEC and MEC Treatment Regimens* for Pediatric Patients 6 Months to 17 
 
 The antiemetic activity of aprepitant was evaluated over a 5-day (120 hour) period following the initiation of chemotherapy on Day 1.
 The primary endpoint in Study 5 was complete response in the delayed phase (25 to 120 hours following chemotherapy) in Cycle 1.
-Patients had the opportunity to receive open-label aprepitant in subsequent cycles (Optional Cycles 2-6); however efficacy was not assessed in these optional cycles.
+Patients had the opportunity to receive open-label aprepitant in subsequent cycles (Optional Cycles 2 to 6); however efficacy was not assessed in these optional cycles.
 Overall efficacy was based on the evaluation of the following endpoints:
 
 Primary endpoint:
@@ -251,10 +251,10 @@ Table 19: Percent of Patients Who Responded to Treatment by Treatment Group and 
 |  | Aprepitant Regimen n/m (%) | Control Regimen n/m (%) |
 | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |
-| Complete Response * - Delayed phase | 77/152 (50.7) † | 39/150 (26.0) |
+| Complete Response * - Delayed phase | 77/152 (50.7)† | 39/150 (26.0) |
 | OTHER PRESPECIFIED ENDPOINTS |  |  |
-| Complete Response * – Acute phase | 101/152 (66.4) ‡ | 78/150 (52.0) |
-| Complete Response * – Overall phase | 61/152 (40.1) † | 30/150 (20.0) |
+| Complete Response * – Acute phase | 101/152 (66.4)‡ | 78/150 (52.0) |
+| Complete Response * – Overall phase | 61/152 (40.1)† | 30/150 (20.0) |
 | *Complete Response = No vomiting or retching and no use of rescue medication. |  |  |
 | †p<0.01 when compared to Control Regimen ‡ p<0.05 when compared to Control Regimen |  |  |
 | n/m = Number of patients with desired response/number of patients included in time point. |  |  |
@@ -264,7 +264,7 @@ Table 19: Percent of Patients Who Responded to Treatment by Treatment Group and 
 
 ## 14.4 Prevention of PONV in Adults
 
-In two multicenter, randomized, double-blind, active comparator-controlled, parallel-group clinical studies (Studies 7 and 8), aprepitant was compared with ondansetron for the prevention of postoperative nausea and vomiting in 1658 patients undergoing open abdominal surgery.
+In two multicenter, randomized, double-blind, active comparator-controlled, parallel-group clinical studies (Studies 7 and 8), aprepitant was compared with ondansetron for the prevention of postoperative nausea and vomiting in 1,658 patients undergoing open abdominal surgery.
 These two studies were of similar design; however, they differed in terms of study hypothesis, efficacy analyses and geographic location.
 Study 7 was a multinational study including the U.S., whereas, Study 8 was conducted entirely in the U.S.
 
@@ -302,17 +302,17 @@ Table 20: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Tr
 | ∆ | Odds ratio * | Analysis |  |  |
 | PRIMARY ENDPOINTS |  |  |  |  |
 | No Vomiting 0 to 24 hours (Superiority) (no emetic episodes) |  |  |  |  |
-| Aprepitant 40 mg | 246/293 (84.0) | 12.6% | 2.1 | P<0.001 † |
+| Aprepitant 40 mg | 246/293 (84.0) | 12.6% | 2.1 | P<0.001† |
 | Ondansetron | 200/280 (71.4) |  |  |  |
 | Complete Response (Non-inferiority: If LB ‡ >0.65) (no emesis and no rescue therapy, 0 to 24 hours) |  |  |  |  |
 | Aprepitant 40 mg | 187/293 (63.8) | 8.8% | 1.4 | LB=1.02 |
 | Ondansetron | 154/280 (55.0) |  |  |  |
 | Complete Response (Superiority: If LB >1.0) (no emesis and no rescue therapy, 0 to 24 hours) |  |  |  |  |
-| Aprepitant 40 mg | 187/293 (63.8) | 8.8% | 1.4 | LB=1.02 ‡ |
+| Aprepitant 40 mg | 187/293 (63.8) | 8.8% | 1.4 | LB=1.02‡ |
 | Ondansetron | 154/280 (55.0) |  |  |  |
 | SECONDARY ENDPOINT |  |  |  |  |
 | No Vomiting 0 to 48 hours (Superiority) (no emetic episodes) |  |  |  |  |
-| Aprepitant 40 mg | 238/292 (81.5) | 15.2% | 2.3 | P<0.001 § |
+| Aprepitant 40 mg | 238/292 (81.5) | 15.2% | 2.3 | P<0.001§ |
 | Ondansetron | 185/279 (66.3) |  |  |  |
 | n/m = Number of responders/number of patients in analysis. |  |  |  |  |
 | ∆Difference (%):Aprepitant 40 mg minus Ondansetron. |  |  |  |  |
@@ -350,7 +350,7 @@ Table 21: Response Rates for Select Efficacy Endpoints (Modified-Intention-to-Tr
 | Ondansetron | 104/246 (42.3) |  |  |  |
 | SECONDARY ENDPOINTS |  |  |  |  |
 | No Vomiting (no emetic episodes, 0 to 24 hours) |  |  |  |  |
-| Aprepitant 40 mg | 223/248 (89.9) | 16.3% | 3.2 | <0.001 † |
+| Aprepitant 40 mg | 223/248 (89.9) | 16.3% | 3.2 | <0.001† |
 | Ondansetron | 181/246 (73.6) |  |  |  |
 | No Use of Rescue Medication (for established emesis or nausea, 0 to 24 hours) |  |  |  |  |
 | Aprepitant 40 mg | 112/248 (45.2) | -0.7% | 1.0 | 0.83 |

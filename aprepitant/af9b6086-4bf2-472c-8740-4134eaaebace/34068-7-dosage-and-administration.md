@@ -4,7 +4,7 @@
 
 Adults and Pediatric Patients 12 Years of Age and Older
 
-The recommended oral dosage of aprepitant capsules, dexamethasone, and a 5_HT3 antagonist in adults and pediatric patients 12 years of age and older who can swallow oral capsules, for the prevention of nausea and vomiting associated with administration of HEC or MEC is shown in Table 1 or Table 2, respectively.
+The recommended oral dosage of aprepitant capsules, dexamethasone, and a 5-HT3 antagonist in adults and pediatric patients 12 years of age and older who can swallow oral capsules, for the prevention of nausea and vomiting associated with administration of HEC or MEC is shown in Table 1 or Table 2, respectively.
 
 Table 1: Recommended Dosing for the Prevention of Nausea and Vomiting Associated with HEC
 
