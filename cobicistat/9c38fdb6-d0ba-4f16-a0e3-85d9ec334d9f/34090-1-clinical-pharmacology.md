@@ -175,8 +175,24 @@ Solid vertical line: ratio of 1.0; dotted vertical lines: reference lines of 0.8
 
 Drug Interactions
 
+Darunavir is metabolized by CYP3A.
+Cobicistat is metabolized by CYP3A and, to a minor extent, by CYP2D6.
+Darunavir co-administered with cobicistat is an inhibitor of CYP3A and CYP2D6.
+Cobicistat inhibits the following transporters: P-gp, BCRP, MATE1, OATP1B1, and OATP1B3.
 Based on in vitro data, cobicistat is not expected to induce CYP1A2 or CYP2B6 and based on in vivo data, cobicistat is not expected to induce MDR1 or, in general, CYP3A to a clinically significant extent.
 The induction effect of cobicistat on CYP2C9, CYP2C19, or UGT1A1 is unknown, but is expected to be low based on CYP3A in vitro induction data [see Drug Interactions (7)].
+
+A drug-drug interaction study between darunavir/cobicistat and dabigatran etexilate was conducted in healthy participants.
+The effects of darunavir on co-administration with dabigatran etexilate are summarized in Table 5.
+
+Table 5: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drugs in the Presence of darunavir/cobicistat
+
+| Co-administered drug | Darunavir/ cobicistat | Cmax | AUC | Cmin |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Co-administered drug | Dose/Schedule |  | N | PK | LS Mean ratio (90% CI) of co-administered drug pharmacokinetic parameters with/without darunavir no effect =1.00 |  |  |
+| Dabigatran etexilate | 150 mg | 800/100 mg single dose | 14 | ↑ | 2.64 (2.29–3.05) | 2.64 (2.32–3.00) | - |
+|  |  | 800/100 mg q.d.800/100 mg q.d. for 14 days before co-administered with dabigatran etexilate. | 14 | ↑ | 1.99 (1.72–2.30) | 1.88 (1.65–2.13) | - |
+| N = number of subjects with data q.d. = once daily |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 

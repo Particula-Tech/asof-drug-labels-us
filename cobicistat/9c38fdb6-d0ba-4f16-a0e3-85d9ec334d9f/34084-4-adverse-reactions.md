@@ -29,8 +29,8 @@ Safety analyses of this trial in these pediatric subjects did not identify new s
 
 ## 6.2 Postmarketing Experience
 
-The following events have been identified during post-approval use of darunavir.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of darunavir.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Metabolism and Nutrition Disorders
 
