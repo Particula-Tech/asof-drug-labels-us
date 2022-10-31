@@ -2,13 +2,16 @@
 
 Table 3: Clinically Significant Drug Interactions with STEGLATRO
 
-| Concomitant Use with Insulin and Insulin Secretagogues |  |
+| Insulin and Insulin Secretagogues |  |
 | --- | --- |
-| Clinical Impact | The risk of hypoglycemia when STEGLATRO is used in combination with insulin and/or an insulin secretagogue. |
-| Intervention | A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLATRO. |
+| Clinical Impact: | The risk of hypoglycemia when STEGLATRO is used in combination with insulin and/or an insulin secretagogue. |
+| Intervention: | A lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with STEGLATRO. |
+| Lithium |  |
+| Clinical Impact: | Concomitant use of an SGLT2 inhibitor with lithium may decrease serum lithium concentrations. |
+| Intervention: | Monitor serum lithium concentration more frequently during STEGLATRO initiation and dosage changes. |
 | Positive Urine Glucose Test |  |
-| Clinical Impact | SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests. |
-| Intervention | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
+| Clinical Impact: | SGLT2 inhibitors increase urinary glucose excretion and will lead to positive urine glucose tests. |
+| Intervention: | Monitoring glycemic control with urine glucose tests is not recommended in patients taking SGLT2 inhibitors. Use alternative methods to monitor glycemic control. |
 | Interference with 1,5-anhydroglucitol (1,5-AG) Assay |  |
-| Clinical Impact | Measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors. |
-| Intervention | Monitoring glycemic control with 1,5-AG assay is not recommended. Use alternative methods to monitor glycemic control. |
+| Clinical Impact: | Measurements of 1,5-AG are unreliable in assessing glycemic control in patients taking SGLT2 inhibitors. |
+| Intervention: | Monitoring glycemic control with 1,5-AG assay is not recommended. Use alternative methods to monitor glycemic control. |
