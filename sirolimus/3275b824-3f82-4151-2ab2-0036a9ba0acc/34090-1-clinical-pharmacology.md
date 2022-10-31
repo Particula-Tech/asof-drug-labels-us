@@ -222,14 +222,14 @@ Drugs Which May Be Co-administered Without Dose Adjustment
 Clinically significant pharmacokinetic drug-drug interactions were not observed in studies of drugs listed below.
 Sirolimus and these drugs may be co-administered without dose adjustments.
 
-- Acyclovir
-- Atorvastatin
-- Digoxin
-- Glyburide
-- Nifedipine
-- Norgestrel/ethinyl estradiol (Lo/Ovral®)
-- Prednisolone
-- Sulfamethoxazole/trimethoprim (Bactrim®)
+- •Acyclovir
+- •Atorvastatin
+- •Digoxin
+- •Glyburide
+- •Nifedipine
+- •Norgestrel/ethinyl estradiol (Lo/Ovral®)
+- •Prednisolone
+- •Sulfamethoxazole/trimethoprim (Bactrim®)
 
 Other Drug-Drug Interactions
 
@@ -239,16 +239,16 @@ In patients in whom strong inhibitors or inducers of CYP3A4 are indicated, alter
 Care should be exercised when drugs or other substances that are substrates and/or inhibitors or inducers of CYP3A4 are administered concomitantly with Rapamune.
 Other drugs that have the potential to increase sirolimus blood concentrations include (but are not limited to):
 
-- Calcium channel blockers: nicardipine.
-- Antifungal agents: clotrimazole, fluconazole.
-- Antibiotics: troleandomycin.
-- Gastrointestinal prokinetic agents: cisapride, metoclopramide.
-- Other drugs: bromocriptine, cimetidine, danazol, letermovir, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
+- •Calcium channel blockers: nicardipine.
+- •Antifungal agents: clotrimazole, fluconazole.
+- •Antibiotics: troleandomycin.
+- •Gastrointestinal prokinetic agents: cisapride, metoclopramide.
+- •Other drugs: bromocriptine, cimetidine, danazol, letermovir, protease inhibitors (e.g., for HIV and hepatitis C that include drugs such as ritonavir, indinavir, boceprevir, and telaprevir).
 
 Other drugs that have the potential to decrease sirolimus concentrations include (but are not limited to):
 
-- Anticonvulsants: carbamazepine, phenobarbital, phenytoin.
-- Antibiotics: rifapentine.
+- •Anticonvulsants: carbamazepine, phenobarbital, phenytoin.
+- •Antibiotics: rifapentine.
 
 Other Drug-Food Interactions
 

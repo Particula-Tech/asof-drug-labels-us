@@ -2,9 +2,7 @@
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1030-04
+Pfizer NDC 0008-1030-04
 
 Rapamune® (sirolimus) Oral Solution
 
@@ -21,9 +19,7 @@ Each mL of RAPAMUNE contains 1 mg sirolimus.
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1030-04
+Pfizer NDC 0008-1030-04
 
 Rapamune® (sirolimus) Oral Solution
 
@@ -62,26 +58,24 @@ Also contains a mixture of propylene glycol and phosphatidylcholine derived from
 
 Each RAPAMUNE Oral Solution carton contains:
 
-- a)a 2 oz.
+- •a 2 oz.
   (60 mL fill) amber glass bottle of sirolimus (concentration of 1 mg/mL)
-- b)1 oral syringe adapter for fitting into the neck of the bottle
-- c)30 amber oral syringes and 30 caps for daily dosing
-- d)1 carrying case
+- •1 oral syringe adapter for fitting into the neck of the bottle
+- •30 amber oral syringes and 30 caps for daily dosing
+- •1 carrying case
 
 Also contains: Package Insert and Medication Guide
 
 You will also need:
 
-- glass or plastic cup
-- 6 oz. of water or orange juice only
+- •glass or plastic cup
+- •6 oz. of water or orange juice only
 
 # PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Bottle Label
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1040-05
+Pfizer NDC 0008-1040-05
 
 Rapamune® (sirolimus) Tablets
 
@@ -109,9 +103,7 @@ LOT X EXP Y
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1040-10
+Pfizer NDC 0008-1040-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -127,9 +119,7 @@ Rx only
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1041-05
+Pfizer NDC 0008-1041-05
 
 Rapamune® (sirolimus) Tablets
 
@@ -157,9 +147,7 @@ LOT X EXP Y
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1041-10
+Pfizer NDC 0008-1041-10
 
 Rapamune® (sirolimus) Tablets
 
@@ -175,9 +163,7 @@ Rx only
 
 ALWAYS DISPENSE WITH MEDICATION GUIDE
 
-Pfizer
-
-NDC 0008-1042-05
+Pfizer NDC 0008-1042-05
 
 Rapamune® (sirolimus) Tablets
 

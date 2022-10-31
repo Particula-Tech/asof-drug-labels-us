@@ -2,20 +2,20 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label.
 
-- Increased susceptibility to infection, lymphoma, and malignancy [see Boxed Warning, Warnings and Precautions (5.1)]
-- Excess mortality, graft loss, and hepatic artery thrombosis in liver transplant patients [see Boxed Warning, Warnings and Precautions (5.2)]
-- Bronchial anastomotic dehiscence in lung transplant patients [see Boxed Warning, Warnings and Precautions (5.3)]
-- Hypersensitivity reactions [see Warnings and Precautions (5.4)]
-- Exfoliative dermatitis [see Warnings and Precautions (5.4)]
-- Angioedema [see Warnings and Precautions (5.5)]
-- Fluid accumulation and impairment of wound healing [see Warnings and Precautions (5.6)]
-- Hypertriglyceridemia, hypercholesterolemia [see Warnings and Precautions (5.7)]
-- Decline in renal function in long-term combination of cyclosporine with Rapamune [see Warnings and Precautions (5.8)]
-- Proteinuria [see Warnings and Precautions (5.9)]
-- Interstitial lung disease [see Warnings and Precautions (5.11)]
-- Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)]
-- Embryo-fetal toxicity [see Warnings and Precautions (5.15)]
-- Male infertility [see Warnings and Precautions (5.16)]
+- •Increased susceptibility to infection, lymphoma, and malignancy [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Excess mortality, graft loss, and hepatic artery thrombosis in liver transplant patients [see Boxed Warning, Warnings and Precautions (5.2)]
+- •Bronchial anastomotic dehiscence in lung transplant patients [see Boxed Warning, Warnings and Precautions (5.3)]
+- •Hypersensitivity reactions [see Warnings and Precautions (5.4)]
+- •Exfoliative dermatitis [see Warnings and Precautions (5.4)]
+- •Angioedema [see Warnings and Precautions (5.5)]
+- •Fluid accumulation and impairment of wound healing [see Warnings and Precautions (5.6)]
+- •Hypertriglyceridemia, hypercholesterolemia [see Warnings and Precautions (5.7)]
+- •Decline in renal function in long-term combination of cyclosporine with Rapamune [see Warnings and Precautions (5.8)]
+- •Proteinuria [see Warnings and Precautions (5.9)]
+- •Interstitial lung disease [see Warnings and Precautions (5.11)]
+- •Increased risk of calcineurin inhibitor-induced HUS/TTP/TMA [see Warnings and Precautions (5.13)]
+- • Embryo-fetal toxicity [see Warnings and Precautions (5.15)]
+- •Male infertility [see Warnings and Precautions (5.16)]
 
 The most common (≥30%) adverse reactions observed with Rapamune in clinical studies for organ rejection prophylaxis in recipients of renal transplantation are: peripheral edema, hypertriglyceridemia, hypertension, hypercholesterolemia, creatinine increased, constipation, abdominal pain, diarrhea, headache, fever, urinary tract infection, anemia, nausea, arthralgia, pain, and thrombocytopenia.
 
@@ -69,15 +69,15 @@ TABLE 1: ADVERSE REACTIONS OCCURRING AT A FREQUENCY OF ≥20% IN AT LEAST ONE OF
 
 The following adverse reactions were reported less frequently (≥3%, but <20%)
 
-- Body as a Whole – Sepsis, lymphocele, herpes zoster, herpes simplex.
-- Cardiovascular – Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardia.
-- Digestive System – Stomatitis.
-- Hematologic and Lymphatic System – Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), leukopenia.
-- Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus.
-- Musculoskeletal System – Bone necrosis.
-- Respiratory System – Pneumonia, epistaxis.
-- Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
-- Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with Rapamune [see Warnings and Precautions (5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
+- •Body as a Whole – Sepsis, lymphocele, herpes zoster, herpes simplex.
+- •Cardiovascular – Venous thromboembolism (including pulmonary embolism, deep venous thrombosis), tachycardia.
+- •Digestive System – Stomatitis.
+- •Hematologic and Lymphatic System – Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), leukopenia.
+- •Metabolic/Nutritional – Abnormal healing, increased lactic dehydrogenase (LDH), hypokalemia, diabetes mellitus.
+- •Musculoskeletal System – Bone necrosis.
+- •Respiratory System – Pneumonia, epistaxis.
+- •Skin – Melanoma, squamous cell carcinoma, basal cell carcinoma.
+- •Urogenital System – Pyelonephritis, decline in renal function (creatinine increased) in long-term combination of cyclosporine with Rapamune [see Warnings and Precautions (5.8)], ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
 
 Less frequently (<3%) occurring adverse reactions included: lymphoma/post-transplant lymphoproliferative disorder, mycobacterial infections (including M. tuberculosis), pancreatitis, cytomegalovirus (CMV), and Epstein-Barr virus.
 
@@ -185,22 +185,22 @@ Adverse reactions occurring at a frequency of ≥20% in the Rapamune treatment g
 The following adverse reactions have been identified during post-approval use of Rapamune in transplant patients.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Body as a Whole – Lymphedema.
-- Cardiovascular – Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults) and fluid accumulation.
-- Digestive System – Ascites.
-- Hematological/Lymphatic – Pancytopenia, neutropenia.
-- Hepatobiliary Disorders – Hepatotoxicity, including fatal hepatic necrosis, with elevated sirolimus trough concentrations.
-- Immune System – Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see Warnings and Precautions (5.4)].
-- Infections – Tuberculosis.
+- •Body as a Whole – Lymphedema.
+- •Cardiovascular – Pericardial effusion (including hemodynamically significant effusions and tamponade requiring intervention in children and adults) and fluid accumulation.
+- •Digestive System – Ascites.
+- •Hematological/Lymphatic – Pancytopenia, neutropenia.
+- •Hepatobiliary Disorders – Hepatotoxicity, including fatal hepatic necrosis, with elevated sirolimus trough concentrations.
+- •Immune System – Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis [see Warnings and Precautions (5.4)].
+- •Infections – Tuberculosis.
   BK virus associated nephropathy has been observed in patients receiving immunosuppressants, including Rapamune.
   This infection may be associated with serious outcomes, including deteriorating renal function and renal graft loss.
   Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal, have been reported in patients treated with immunosuppressants, including Rapamune [see Warnings and Precautions (5.10)].
   Clostridium difficile enterocolitis.
-- Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus.
-- Nervous system - Posterior reversible encephalopathy syndrome.
-- Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
+- •Metabolic/Nutritional – Liver function test abnormal, AST/SGOT increased, ALT/SGPT increased, hypophosphatemia, hyperglycemia, diabetes mellitus.
+- •Nervous system - Posterior reversible encephalopathy syndrome.
+- •Respiratory – Cases of interstitial lung disease (including pneumonitis, bronchiolitis obliterans organizing pneumonia [BOOP], and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
   In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
   The risk may be increased as the sirolimus trough concentration increases [see Warnings and Precautions (5.11)]; pulmonary hemorrhage; pleural effusion; alveolar proteinosis.
-- Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.18)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
-- Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
+- •Skin – Neuroendocrine carcinoma of the skin (Merkel cell carcinoma) [see Warnings and Precautions (5.18)], exfoliative dermatitis [see Warnings and Precautions (5.4)].
+- •Urogenital – Nephrotic syndrome, proteinuria, focal segmental glomerulosclerosis, ovarian cysts, menstrual disorders (including amenorrhea and menorrhagia).
   Azoospermia has been reported with the use of Rapamune and has been reversible upon discontinuation of Rapamune in most cases.
