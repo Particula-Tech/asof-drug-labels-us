@@ -2,17 +2,18 @@
 
 ## 14.1 Description of Clinical Trials
 
-The efficacy and safety of VEMLIDY were evaluated in the trials summarized in Table 10.
+The efficacy and safety of VEMLIDY were evaluated in the trials summarized in Table 11.
 
-Table 10 Trials Conducted with VEMLIDY in Adults with Chronic HBV Infection
+Table 11 Trials Conducted with VEMLIDY in Subjects with Chronic HBV Infection
 
 | Trial | Population | Trial Arms (N) | Primary Endpoint (Week) |
 | --- | --- | --- | --- |
-| Trial 108Randomized, double blind, active controlled trial. (NCT01940341) | HBeAg-negative TN and TE adults with compensated liver disease | VEMLIDY (285) TDF (140) | 48 |
+| Trial 108Randomized, double-blind, active controlled trial. (NCT01940341) | HBeAg-negative TN and TE adults with compensated liver disease | VEMLIDY (285) TDF (140) | 48 |
 | Trial 110 (NCT01940471) | HBeAg-positive TN and TE adults with compensated liver disease | VEMLIDY (581) TDF (292) | 48 |
 | Trial 4018 (NCT02979613) | HBeAg-negative and HBeAg-positive virologically suppressedHBV DNA <20 IU/mL at screening. adults with compensated liver disease | VEMLIDY (243) TDF (245) | 48 |
 | Trial 4035 (Part A, Cohort 1)Open-label trial. (NCT03180619) | Virologically suppressed adults with moderate to severe renal impairmentEstimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method. | VEMLIDY (78) | 24 |
 | Trial 4035 (Part A, Cohort 2) (NCT03180619) | Virologically suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of below 15 mL per minute by Cockcroft-Gault method). receiving chronic hemodialysis | VEMLIDY (15) | 24 |
+| Trial 1092Randomized, double-blind, placebo-controlled trial. (NCT02932150) | Pediatric subjects between the ages of 12 to less than 18 years (at least 35 kg) with compensated liver disease | VEMLIDY (47) Placebo (23) | 24 |
 | TE = treatment-experienced, TN = treatment-naive |  |  |  |
 
 ## 14.2 Clinical Trials in Adults with Chronic Hepatitis B Virus Infection and Compensated Liver Disease
@@ -36,9 +37,9 @@ In both trials, randomization was stratified on prior treatment history (nucleos
 The efficacy endpoint in both trials was the proportion of subjects with plasma HBV DNA levels below 29 IU/mL at Week 48.
 Additional efficacy endpoints include the proportion of subjects with ALT normalization, HBsAg loss and seroconversion, and HBeAg loss and seroconversion in Trial 110.
 
-Treatment outcomes of Trials 108 and 110 at Week 48 are presented in Table 11 and Table 12.
+Treatment outcomes of Trials 108 and 110 at Week 48 are presented in Table 12 and Table 13.
 
-Table 11 Trials 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failure analysis. in Patients with Chronic HBV Infection and Compensated Liver Disease
+Table 12 Trials 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failure analysis. in Subjects with Chronic HBV Infection and Compensated Liver Disease
 
 |  | VEMLIDY (N=285) | TDF (N=140) | VEMLIDY (N=581) | TDF (N=292) |
 | --- | --- | --- | --- | --- |
@@ -59,7 +60,7 @@ Table 11 Trials 108 and 110: HBV DNA Virologic Outcome at Week 48Missing = failu
 In Trial 108, the proportion of subjects with cirrhosis who achieved HBV DNA <29 IU/mL at Week 48 was 92% (22/24) in the VEMLIDY group and 93% (13/14) in the TDF group.
 The corresponding proportions in Trial 110 were 63% (26/41) and 67% (16/24) in the VEMLIDY and TDF groups, respectively.
 
-Table 12 Additional Efficacy Parameters at Week 48Missing = failure analysis.
+Table 13 Additional Efficacy Parameters at Week 48Missing = failure analysis.
 
 |  | VEMLIDY (N=285) | TDF (N=140) | VEMLIDY (N=581) | TDF (N=292) |
 | --- | --- | --- | --- | --- |
@@ -79,14 +80,14 @@ Subjects must have been taking TDF 300 mg once daily for at least 12 months, wit
 Subjects were stratified by HBeAg status (HBeAg-positive or HBeAg-negative) and age (≥50 or <50 years) and randomized in a 1:1 ratio to either switch to VEMLIDY 25 mg once daily (N=243) or stay on TDF 300 mg once daily (N=245).
 The mean age was 51 years (22% were ≥60 years), 71% were male, 82% were Asian, 14% were White, and 68% were HBeAg-negative.
 At baseline, median duration of prior TDF treatment was 220 and 224 weeks in the VEMLIDY and TDF groups, respectively.
-At baseline, mean serum ALT was 27 U/L, and 16% of patients had a history of cirrhosis.
+At baseline, mean serum ALT was 27 U/L, and 16% of subjects had a history of cirrhosis.
 
 The primary efficacy endpoint was the proportion of subjects with plasma HBV DNA levels ≥20 IU/mL at Week 48.
 Additional efficacy endpoints in Trial 4018 included the proportion of subjects with HBV DNA <20 IU/mL, ALT normal and normalization, HBsAg loss and seroconversion, and HBeAg loss and seroconversion.
 
-Treatment outcomes of Trial 4018 at Week 48 are presented in Table 13 and Table 14.
+Treatment outcomes of Trial 4018 at Week 48 are presented in Table 14 and Table 15.
 
-Table 13 Trial 4018: HBV DNA Virologic Outcome at Week 48Week 48 window was between Day 295 and Day 378 (inclusive). in Virologically Suppressed Subjects with Chronic HBV Infection
+Table 14 Trial 4018: HBV DNA Virologic Outcome at Week 48Week 48 window was between Day 295 and Day 378 (inclusive). in Virologically Suppressed Subjects with Chronic HBV Infection
 
 |  | VEMLIDY (N=243) | TDF (N=245) |
 | --- | --- | --- |
@@ -98,7 +99,7 @@ Table 13 Trial 4018: HBV DNA Virologic Outcome at Week 48Week 48 window was betw
 | Discontinued Study Drug Due to AE or Death and Last Available HBV DNA <20 IU/mL | 1% | 0 |
 | Discontinued Study Drug Due to Other ReasonsIncludes subjects who discontinued for reasons other than an AE, death, or lack of efficacy, e.g., withdrew consent, loss to follow-up, etc. and Last Available HBV DNA <20 IU/mL | 2% | 3% |
 
-Table 14 Additional Efficacy Parameters at Week 48Missing = failure analysis.
+Table 15 Additional Efficacy Parameters at Week 48Missing = failure analysis.
 (Trial 4018)
 
 |  | VEMLIDY (N=243) | TDF (N=245) |
@@ -123,5 +124,21 @@ At baseline, 97% and 95% of subjects had ALT ≤ULN based on central laboratory 
 Overall, 98% of subjects achieved HBV DNA <20 IU/mL at Week 24 (Cohort 1, 97%; Cohort 2, 100%).
 Two subjects in Cohort 1 discontinued treatment early (due to subject decision); last available HBV DNA for both of these subjects was <20 IU/mL.
 The overall mean (SD) change from baseline in ALT values was +1 (11.3) U/L (Cohort 1, +1 [11.9] U/L; Cohort 2, +3 [7.9] U/L) at Week 24.
-No patient had HBeAg or HBsAg loss at Week 24.
+No subject had HBeAg or HBsAg loss at Week 24.
 The mean (SD) changes in HBsAg level from baseline were -0.05 (0.122) log10 IU/mL (-0.05 [0.124] log10 IU/mL for Cohort 1 and -0.07 [0.115] log10 IU/mL for Cohort 2) at Week 24.
+
+## 14.5 Clinical Trial in Pediatric Subjects 12 Years of Age and Older with Chronic Hepatitis B Virus Infection
+
+In Trial 1092, the efficacy and safety of VEMLIDY in chronic HBV-infected subjects were evaluated in a randomized, double-blind, placebo-controlled clinical trial of treatment-naïve and treatment-experienced subjects between the ages of 12 to less than 18 years weighing at least 35 kg (Cohort 1; N=70).
+Subjects were randomized to receive VEMLIDY (N=47) or placebo (N=23) once daily.
+Baseline demographics and HBV disease characteristics were comparable between the VEMLIDY treatment arm and the placebo arm: in the VEMLIDY group, 57% were male, 70% were Asian, and 19% were White; 9%, 23%, 26%, and 40% had HBV genotype A, B, C, and D, respectively.
+Ninety-eight percent were HBeAg positive.
+At baseline, median HBV DNA was 8.1 log10 IU/mL, mean ALT was 112 U/L, median HBsAg was 4.5 log10 IU/mL.
+Previous treatment included oral antivirals (N=12 [26%]), including entecavir (N=7 [15%]), lamivudine (N=6 [13%]), and TDF (N=1 [2%]), and/or interferons (N=7 [15%]).
+
+Overall, 21% (10/47) of subjects in Cohort 1 treated with VEMLIDY achieved HBV DNA <20 IU/mL at Week 24 versus 0% (0/23) of subjects in Cohort 1 treated with placebo.
+At Week 24, the overall mean (SD) change from baseline in HBV DNA for the Cohort 1 VEMLIDY and placebo groups, respectively, was -5.04 (1.544) log10 IU/mL and -0.13 (0.689) log10 IU/mL.
+The overall median (Q1, Q3) change from baseline in ALT values for the Cohort 1 VEMLIDY and placebo groups, respectively, was -32.0 U/L (-63.0, -13.0 U/L) and 1.0 U/L (-10.0, 25.0 U/mL) at Week 24.
+ALT normalization (AASLD criteria) was achieved for 44% of VEMLIDY-treated subjects and 0% of placebo-treated subjects in Cohort 1.
+At Week 24 in Cohort 1, 3/46 (7%) of VEMLIDY-treated subjects and 1/23 (4%) placebo-treated subject experienced HBeAg loss, all of whom experienced anti-HBe seroconversion.
+No subject had HBsAg loss or seroconversion at Week 24.

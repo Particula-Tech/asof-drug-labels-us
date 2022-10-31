@@ -39,9 +39,9 @@ Table 6 Multiple Dose PK Parameters of Tenofovir Alafenamide and its Metabolite 
 
 | Parameter Mean (CV%) | Tenofovir AlafenamideFrom Intensive PK analyses in Trial 108 and Trial 110; N = 8. | Tenofovir |
 | --- | --- | --- |
-| Cmax (microgram per mL) | 0.27 (63.3) | 0.03 (24.6) |
-| AUCtau (microgram∙hour per mL) | 0.27 (47.8) | 0.40 (35.2) |
-| Ctrough (microgram per mL) | NA | 0.01 (39.6) |
+| Cmax (mcg per mL) | 0.27 (63.3) | 0.03 (24.6) |
+| AUCtau (mcg∙hour per mL) | 0.27 (47.8) | 0.40 (35.2) |
+| Ctrough (mcg per mL) | NA | 0.01 (39.6) |
 | CV = coefficient of variation; NA = not applicable |  |  |
 
 Specific Populations
@@ -51,18 +51,31 @@ Geriatric Patients, Race, and Gender
 Limited data in subjects aged 65 years and over suggest a lack of clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics.
 No clinically relevant differences in tenofovir alafenamide or tenofovir pharmacokinetics due to race or gender have been identified [see Use in Specific Populations (8.5)].
 
+Pediatric Patients
+
+Steady-state pharmacokinetics of tenofovir alafenamide and its metabolite tenofovir were evaluated in HBV-infected pediatric subjects aged 12 to less than 18 years (Table 7).
+
+Table 7 Multiple Dose PK Parameters of Tenofovir Alafenamide and Tenofovir Following Oral Administration of VEMLIDY 25 mg in HBV-Infected Pediatric Subjects Aged 12 to less than 18 Years
+
+| Parameter Mean (CV%) | Tenofovir AlafenamideFrom Intensive PK analyses in Trial 1092 (N=13 except N=11 for AUCtau). | TenofovirFrom Intensive PK analyses in Trial 1092 (N=12 except N=13 for Cmax). |
+| --- | --- | --- |
+| Cmax (mcg per mL) | 0.188 (45.0) | 0.015 (23.5) |
+| AUCtau (mcg∙hour per mL) | 0.254 (36.4) | 0.203 (27.9) |
+| Ctrough (mcg per mL) | NA | 0.0041 (39.5) |
+| CV = coefficient of variation; NA = not applicable |  |  |
+
 Patients with Renal Impairment
 
-In a Phase 1, open-label study, tenofovir alafenamide and tenofovir systemic exposures (AUCinf) were evaluated in subjects with severe renal impairment and in subjects with normal renal function (Table 7).
-In an open-label trial of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis (Table 7).
-In a Phase 2, open-label trial, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HBV-infected subjects with ESRD receiving chronic hemodialysis (Table 7) [see Use in Specific Populations (8.6)].
+In a Phase 1, open-label study, tenofovir alafenamide and tenofovir systemic exposures (AUCinf) were evaluated in subjects with severe renal impairment and in subjects with normal renal function (Table 8).
+In an open-label trial of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis (Table 8).
+In a Phase 2, open-label trial, tenofovir alafenamide and tenofovir AUC were evaluated in a subset of virologically suppressed HBV-infected subjects with ESRD receiving chronic hemodialysis (Table 8) [see Use in Specific Populations (8.6)].
 The pharmacokinetics of tenofovir alafenamide were similar among subjects with normal renal function, subjects with severe renal impairment, and subjects with ESRD receiving chronic hemodialysis.
 Relative to those with normal renal function, increased tenofovir exposures were observed in subjects with severe renal impairment and subjects with ESRD receiving chronic hemodialysis.
 Within the chronic hemodialysis population, increased tenofovir exposures were observed in subjects with HBV relative to those with HIV.
 
-Table 7 Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir in Subjects with Renal Impairment as Compared to Subjects with Normal Renal Function
+Table 8 Pharmacokinetics of Tenofovir Alafenamide and its Metabolite Tenofovir in Subjects with Renal Impairment as Compared to Subjects with Normal Renal Function
 
-| Estimated Creatinine ClearanceBy Cockcroft-Gault method. Mean (CV%) | ≥90 mL per minute 25 mg TAF (N=13)PK assessed on a single dose of TAF 25 mg in subjects with normal renal function and in subjects with severe renal impairment. | 15–29 mL per minute 25 mg TAF (N=14) | <15 mL per minute 25 mg TAFPK assessed on the day prior to hemodialysis of TAF 25 mg. These subjects from Study 4035 had a median baseline eGFR by Cockcroft-Gault of 7.2 mL/min (range, 4.8 to 12.0). (N=5) | <15 mL per minute 10 mg TAFExposures from TAF 25 mg = exposures from TAF 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. PK assessed on the day prior to hemodialysis following 3 consecutive daily doses of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. These subjects from Study 1825 had a median baseline eGFR by Cockcroft-Gault of 10.2 mL/min (range, 6.8 to 19.2). (N=12) |
+| Estimated Creatinine ClearanceBy Cockcroft-Gault method. Mean (CV%) | ≥90 mL per minute 25 mg TAF (N=13)PK assessed on a single dose of TAF 25 mg in subjects with normal renal function and in subjects with severe renal impairment. | 15–29 mL per minute 25 mg TAF (N=14) | <15 mL per minute 25 mg TAFPK assessed on the day prior to hemodialysis of TAF 25 mg. These subjects from Trial 4035 had a median baseline eGFR by Cockcroft-Gault of 7.2 mL/min (range, 4.8 to 12.0). (N=5) | <15 mL per minute 10 mg TAFExposures from TAF 25 mg = exposures from TAF 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. PK assessed on the day prior to hemodialysis following 3 consecutive daily doses of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide. These subjects from Trial 1825 had a median baseline eGFR by Cockcroft-Gault of 10.2 mL/min (range, 6.8 to 19.2). (N=12) |
 | --- | --- | --- | --- | --- |
 | Tenofovir alafenamide |  |  |  |  |
 | AUC (mcg∙hour per mL) | 0.27 (49.2)AUCinf. | 0.51 (47.3) | 0.30 (26.7)AUClast. | 0.23 (53.2) |
@@ -85,11 +98,11 @@ Drug Interaction Studies
 
 [see Drug Interactions (7)]
 
-The effects of coadministered drugs on the exposure of tenofovir alafenamide are shown in Table 8.
-The effects of tenofovir alafenamide on the exposure of coadministered drugs are shown in Table 9 [For information regarding clinical recommendations, see Drug Interactions (7)].
+The effects of coadministered drugs on the exposure of tenofovir alafenamide are shown in Table 9.
+The effects of tenofovir alafenamide on the exposure of coadministered drugs are shown in Table 10 [For information regarding clinical recommendations, see Drug Interactions (7)].
 Information regarding potential drug-drug interactions with HIV antiretrovirals is not provided (see the prescribing information for emtricitabine/tenofovir alafenamide for interactions with HIV antiretrovirals).
 
-Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide in the Presence of the Coadministered DrugAll interaction studies conducted in healthy subjects.
+Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir Alafenamide in the Presence of the Coadministered DrugAll interaction studies conducted in healthy subjects.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -101,7 +114,7 @@ Table 8 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovir A
 | Sofosbuvir/ Velpatasvir/ Voxilaprevir | 400/100/100+ 100 voxilaprevirStudy conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. once daily | 25 once daily | 30 | 1.32 (1.17, 1.48) | 1.52 (1.43, 1.61) | NC |
 | NC = not calculated |  |  |  |  |  |  |
 
-Table 9 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir AlafenamideAll interaction studies conducted in healthy subjects.
+Table 10 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir AlafenamideAll interaction studies conducted in healthy subjects.
 
 | Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -147,6 +160,10 @@ Genotypic resistance analysis was performed on paired baseline and on-treatment 
 In a pooled analysis of treatment-naïve and treatment-experienced subjects receiving VEMLIDY in Trials 108 and 110 [see Clinical Studies (14.2)], treatment-emergent amino acid substitutions in the HBV reverse transcriptase domain, all occurring at polymorphic positions, were observed in some HBV isolates evaluated (5/20); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to VEMLIDY.
 
 In virologically suppressed subjects receiving VEMLIDY in Trial 4018 [see Clinical Studies (14.3)], no subjects qualified for resistance analysis through 48 weeks of VEMLIDY treatment.
+
+In pediatric Trial 1092, 30/47 subjects aged 12 to less than 18 years receiving VEMLIDY qualified for resistance analysis at Week 24.
+Results were obtained for 27/30 qualified subjects.
+No HBV amino acid substitutions known to be associated with resistance to tenofovir alafenamide were detected through 24 weeks of treatment [see Clinical Studies (14.5)].
 
 Cross-Resistance
 

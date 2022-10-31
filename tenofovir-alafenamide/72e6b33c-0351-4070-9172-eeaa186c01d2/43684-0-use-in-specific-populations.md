@@ -20,7 +20,7 @@ Data
 
 Human Data
 
-Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+Based on prospective reports to the APR of over 800 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 650 exposed in the first trimester and over 150 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.5% (95% CI: 2.3% to 5.2%) and 3.3% (95% CI: 1.1% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 Methodologic limitations of the APR include the use of MACDP as the external comparator group.
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
@@ -47,15 +47,16 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-Animal Data
-
 Studies in rats and monkeys have demonstrated that tenofovir is secreted in milk.
 Tenofovir was excreted into the milk of lactating rats following oral administration of TDF (up to 600 mg/kg/day) at up to approximately 24% of the median plasma concentration in the highest dosed animals at lactation day 11 (see Data 8.1).
 Tenofovir was excreted into the milk of lactating monkeys following a single subcutaneous (30 mg/kg) dose of tenofovir at concentrations up to approximately 4% of plasma concentration, resulting in exposure (AUC) of approximately 20% of plasma exposure.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of VEMLIDY in pediatric patients less than 18 years of age have not been established.
+The pharmacokinetics, safety, and effectiveness of VEMLIDY for the treatment of chronic HBV infection have been established in pediatric patients between the ages of 12 to less than 18 years (N=47) in Trial 1092 for 24 weeks.
+No clinically meaningful differences in pharmacokinetics or safety were observed in comparison to those observed in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+
+Safety and effectiveness of VEMLIDY has not been established in pediatric patients with chronic HBV infection who are less than 12 years of age.
 
 ## 8.5 Geriatric Use
 
@@ -69,7 +70,7 @@ On days of hemodialysis, administer VEMLIDY after completion of hemodialysis tre
 
 The safety and efficacy of VEMLIDY in HBV-infected adult subjects with moderate to severe renal impairment (estimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method) and ESRD (estimated creatinine clearance of less than 15 mL per minute by Cockcroft-Gault method) receiving chronic hemodialysis were evaluated in 78 and 15 subjects, respectively, in an open-label trial (Trial 4035, Part A). Overall, 98% of subjects achieved HBV DNA <20 IU/mL at Week 24 (Cohort 1, 97%; Cohort 2, 100%) and the safety of VEMLIDY was similar to that observed in clinical trials of VEMLIDY in subjects with compensated liver disease but without renal impairment [see Adverse Reactions (6.1) and Clinical Studies (14.4)].
 
-The safety and efficacy of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg was previously evaluated in 55 virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis in an open-label study (Trial 1825).
+The safety and efficacy of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 150/150/200/10 mg was previously evaluated in 55 virologically suppressed HIV-1 infected subjects with ESRD receiving chronic hemodialysis in an open-label trial (Trial 1825).
 Tenofovir alafenamide exposures are similar when comparing tenofovir alafenamide 25 mg and tenofovir alafenamide 10 mg as part of elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide.
 
 Among subjects with ESRD receiving chronic hemodialysis and administered tenofovir alafenamide, higher exposures of tenofovir were observed in HBV-infected subjects (Trial 4035 Part A) compared to HIV-infected subjects (Trial 1825).

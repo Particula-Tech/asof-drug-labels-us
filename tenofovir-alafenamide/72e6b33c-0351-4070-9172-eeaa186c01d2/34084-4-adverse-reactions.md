@@ -124,6 +124,16 @@ Adverse Reactions in Adult Subjects with Chronic Hepatitis B and Renal Impairmen
 In an open-label trial (Trial 4035) in virologically suppressed adult subjects with chronic hepatitis B switching to VEMLIDY 25 mg, the safety of VEMLIDY was assessed in 78 subjects with moderate to severe renal impairment (estimated creatinine clearance between 15 and 59 mL per minute by Cockcroft-Gault method; Part A, Cohort 1) and 15 subjects with ESRD (estimated creatinine clearance below 15 mL per minute) receiving chronic hemodialysis (Part A, Cohort 2).
 The safety of VEMLIDY, including changes from baseline in renal function, BMD, and lipid parameters, was similar to that observed in clinical trials of VEMLIDY in subjects with compensated liver disease but without renal impairment [see Use in Specific Populations (8.6) and Clinical Studies (14.4)].
 
+Adverse Reactions in Pediatric Subjects with Chronic Hepatitis B
+
+The safety of VEMLIDY was evaluated in HBV-infected treatment-naïve and treatment-experienced pediatric subjects between the ages of 12 to less than 18 years (Cohort 1; N=70) through Week 24 in a randomized, double-blind, placebo-controlled clinical trial (Trial 1092) [see Clinical Studies (14.5)].
+The safety profile of VEMLIDY was similar to that in adults.
+
+Bone Mineral Density Effects
+
+Among the Cohort 1 subjects treated with VEMLIDY and placebo, the mean percent change in BMD from baseline to Week 24 was 2.4% (N=37) and 1.9% (N=18) for lumbar spine, and 1.5% (N=39) and 1.9% (N=18) for whole body, respectively.
+At Week 24, mean changes from baseline BMD Z-scores were -0.03 and -0.09 for lumbar spine, and -0.05 and -0.01 for whole body, for the Cohort 1 VEMLIDY and placebo groups, respectively.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of VEMLIDY or other products containing tenofovir alafenamide.
