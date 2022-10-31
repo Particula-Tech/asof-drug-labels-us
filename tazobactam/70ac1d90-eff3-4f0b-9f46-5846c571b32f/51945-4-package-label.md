@@ -9,5 +9,3 @@ Zerbaxa® 1.5 g per vial* (ceftolozane and tazobactam) for injection
 For Intravenous Infusion
 
 Rx only Sterile
-
-GTIN 00367919030017
