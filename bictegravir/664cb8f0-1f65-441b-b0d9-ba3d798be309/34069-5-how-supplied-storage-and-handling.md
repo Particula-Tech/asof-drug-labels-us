@@ -10,6 +10,7 @@ Bottle
   These tablets are pink, capsule-shaped, and film-coated with "GSI" debossed on one side and "B" on the other side (NDC 61958-2505-1).
 
 Each bottle contains 30 tablets, a silica gel desiccant, polyester coil, and is closed with a child-resistant closure.
+Do not remove the desiccant packet.
 
 Store bottle below 30 °C (86 °F).
 

@@ -242,9 +242,9 @@ HIV-1 isolates selected by TAF expressed a K65R substitution in HIV-1 RT, someti
 
 In Clinical Trials
 
-In Subjects with No Antiretroviral Treatment History: Pooled genotypic resistance analyses were performed on paired baseline and on-treatment HIV-1 isolates from subjects receiving BIKTARVY through Week 48 in Trials 1489 and 1490 [see Clinical Studies (14.2)] who had HIV-1 RNA greater than or equal to 200 copies/mL at the time of confirmed virologic failure, Week 48, or early study drug discontinuation.
-No specific amino acid substitutions emerged consistently in the 8 treatment failure subjects with evaluable genotypic resistance data and failed to establish an association with genotypic BIC resistance.
-There were no treatment-emergent NRTI resistance-associated substitutions detected in the 8 evaluated treatment failure isolates.
+In Subjects with No Antiretroviral Treatment History: Pooled results of genotypic resistance analyses were performed on paired baseline and on-treatment HIV-1 isolates from subjects receiving BIKTARVY in Trials 1489 and 1490 through Week 144 of the double-blind phase (N=634) or Week 96 of the extension phase (n=1025) [see Clinical Studies (14.2)] who had HIV-1 RNA greater than or equal to 200 copies/mL at the time of confirmed virologic failure or early study drug discontinuation.
+In the final resistance analysis population, no specific amino acid substitutions emerged consistently in the 11 treatment failure subjects with evaluable genotypic resistance data and failed to establish an association with genotypic BIC resistance.
+There were no treatment-emergent NRTI resistance-associated substitutions detected in the 11 evaluated treatment failure isolates.
 Phenotypic resistance analyses of failure isolates found fold-changes in drug susceptibility below the biological or clinical cutoffs for BIC, FTC, and TFV, compared to wild-type reference HIV-1.
 
 In Virologically Suppressed Adult Subjects: In 2 switch trials, Trials 1844 and 1878 [see Clinical Studies (14.3)], of virologically suppressed HIV-1 infected subjects (n=572), only one subject with virologic rebound in the resistance analysis population had IN genotypic and phenotypic data, and 2 rebounders had RT genotypic and phenotypic data.

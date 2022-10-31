@@ -8,15 +8,16 @@ Table 12 Trials Conducted with BIKTARVY in Subjects with HIV-1 Infection
 
 | Trial | Population | Trial Arms (N) | Timepoint (Week) |
 | --- | --- | --- | --- |
-| Trial 1489Randomized, double blind, active controlled trial. (NCT 02607930) | Adults with no antiretroviral treatment history | BIKTARVY (314) ABC/DTG/3TC (315) | 48 |
-| Trial 1490 (NCT 02607956) | BIKTARVY (320) DTG + FTC/TAF(325) | 48 |  |
+| Trial 1489Randomized, double blind, active controlled trial. (NCT 02607930) | Adults with no antiretroviral treatment history | BIKTARVY (314) ABC/DTG/3TC (315) | 144 + 96 (OLE)144-week double-blind active controlled phase followed by an extension phase in which 1025 subjects from Trials 1489 and 1490 received open-label BIKTARVY for 96 weeks. |
+| Trial 1490 (NCT 02607956) | BIKTARVY (320) DTG + FTC/TAF(325) | 144 + 96 (OLE) |  |
 | Trial 1844 (NCT 02603120) | Virologically-suppressedHIV-1 RNA less than 50 copies per mL. adults | BIKTARVY (282) ABC/DTG/3TC (281) | 48 |
-| Trial 1878Randomized, open label, active controlled trial. (NCT 02603107) | BIKTARVY (290) ATV or DRV (with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC (287) | 48 |  |
-| Trial 1825Open label trial. (NCT 02600819) | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL/min by Cockcroft-Gault method). receiving chronic hemodialysis | FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination (55). In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY. | 48Subjects received FTC+TAF in combination with elvitegravir and cobicistat for 96 weeks, followed by an extension phase in which 10 subjects received BIKTARVY for 48 weeks. |
+| Trial 1878Randomized, open-label, active controlled trial. (NCT 02603107) | BIKTARVY (290) ATV or DRV (with cobicistat or ritonavir) plus either FTC/TDF or ABC/3TC (287) | 48 |  |
+| Trial 1825Open-label trial. (NCT 02600819) | Virologically-suppressed adults with ESRDEnd stage renal disease (estimated creatinine clearance of less than 15 mL/min by Cockcroft-Gault method). receiving chronic hemodialysis | FTC+TAF in combination with elvitegravir and cobicistat as a fixed-dose combination (55). In an extension phase of Trial 1825, 10 virologically-suppressed subjects switched to BIKTARVY. | 48Subjects received FTC+TAF in combination with elvitegravir and cobicistat for 96 weeks, followed by an extension phase in which 10 subjects received BIKTARVY for 48 weeks. |
 | Trial 4449 (NCT 03405935) | Virologically-suppressed adults aged 65 years and over | BIKTARVY (86) | 48 |
 | Trial 1474 (cohort 1) (NCT 02881320) | Virologically-suppressed adolescents between the ages of 12 to less than 18 years (at least 35 kg) | BIKTARVY (50) | 48 |
 | Trial 1474 (cohort 2) (NCT 02881320) | Virologically-suppressed children between the ages of 6 to less than 12 years (at least 25 kg) | BIKTARVY (50) | 24 |
 | Trial 1474 (cohort 3) (NCT 02881320) | Virologically-suppressed children at least 2 years of age (at least 14 to less than 25 kg) | BIKTARVY (22) | 24 |
+| OLE = open-label extension |  |  |  |
 
 ## 14.2 Clinical Trial Results in Adults with HIV-1 and No Antiretroviral Treatment History
 
@@ -37,24 +38,24 @@ The mean baseline CD4+ cell count was 456 cells per mm3 (range 2–1636) and 12%
 
 In both trials, subjects were stratified by baseline HIV-1 RNA (less than or equal to 100,000 copies per mL, greater than 100,000 copies per mL to less than or equal to 400,000 copies per mL, or greater than 400,000 copies per mL), by CD4 count (less than 50 cells per mm3, 50–199 cells per mm3, or greater than or equal to 200 cells per mm3), and by region (US or ex-US).
 
-Treatment outcomes of Trials 1489 and 1490 through Week 48 are presented in Table 13.
+Treatment outcomes of Trials 1489 and 1490 through Week 144 are presented in Table 13.
 
-Table 13 Virologic Outcomes of Randomized Treatment in Trials 1489 and 1490 at Week 48Week 48 window was between Day 295 and 378 (inclusive). in Adults with No Antiretroviral Treatment History
+Table 13 Virologic Outcomes of Randomized Treatment in Trials 1489 and 1490 at Week 144Week 144 window was between Day 967 and 1050 (inclusive). in Adults with No Antiretroviral Treatment History
 
 |  | BIKTARVY (N=314) | ABC/DTG/3TC (N=315) | BIKTARVY (N=320) | DTG + FTC/TAF (N=325) |
 | --- | --- | --- | --- | --- |
 |  | Trial 1489 |  | Trial 1490 |  |
-| HIV-1 RNA < 50 copies/mL | 92% | 93% | 89% | 93% |
-| Treatment Difference (95% CI) BIKTARVY vs. Comparator | -0.6% (-4.8% to 3.6%) |  | -3.5% (-7.9% to 1.0%) |  |
-| HIV-1 RNA ≥ 50 copies/mLIncludes subjects who had ≥ 50 copies/mL in the Week 48 window; subjects who discontinued early due to lack or loss of efficacy; subjects who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL. | 1% | 3% | 4% | 1% |
-| No Virologic Data at Week 48 Window | 7% | 4% | 6% | 6% |
-| Discontinued Study Drug Due to AE or DeathIncludes subjects who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 0 | 1% | 1% | 1% |
-| Discontinued Study Drug Due to Other Reasons and Last Available HIV-1 RNA <50 copies/mLIncludes subjects who discontinued for reasons other than an AE, death, or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc. | 5% | 3% | 3% | 4% |
-| Missing Data During Window but on Study Drug | 2% | <1% | 2% | 1% |
+| HIV-1 RNA < 50 copies/mL | 82% | 84% | 82% | 84% |
+| Treatment Difference (95% CI) BIKTARVY vs. Comparator | -2.6% (-8.5% to 3.4%) |  | -1.9% (-7.8% to 3.9%) |  |
+| HIV-1 RNA ≥ 50 copies/mLIncludes subjects who had ≥ 50 copies/mL in the Week 144 window; subjects who discontinued early due to lack or loss of efficacy; subjects who discontinued for reasons other than an adverse event (AE), death or lack or loss of efficacy and at the time of discontinuation had a viral value of ≥ 50 copies/mL. | 1% | 3% | 5% | 3% |
+| No Virologic Data at Week 144 Window | 18% | 13% | 13% | 13% |
+| Discontinued Study Drug Due to AE or DeathIncludes subjects who discontinued due to AE or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 1% | 2% | 3% | 3% |
+| Discontinued Study Drug Due to Other Reasons and Last Available HIV-1 RNA <50 copies/mLIncludes subjects who discontinued for reasons other than an AE, death, or lack or loss of efficacy, e.g., withdrew consent, loss to follow-up, etc. | 16% | 11% | 11% | 9% |
+| Missing Data During Window but on Study Drug | 1% | <1% | 0% | 1% |
 
 Treatment outcomes were similar across subgroups by age, sex, race, baseline viral load, and baseline CD4+ cell count.
 
-In Trials 1489 and 1490, the mean increase from baseline in CD4+ count at Week 48 was 233 and 229 cells per mm3 in the BIKTARVY and ABC/DTG/3TC groups, respectively, and 180 and 201 cells per mm3 in the BIKTARVY and DTG + FTC/TAF groups, respectively.
+In Trials 1489 and 1490, the mean increase from baseline in CD4+ count at Week 144 was 299 and 317 cells per mm3 in the BIKTARVY and ABC/DTG/3TC groups, respectively, and 278 and 289 cells per mm3 in the BIKTARVY and DTG + FTC/TAF groups, respectively.
 
 ## 14.3 Clinical Trial Results in Adults with Virologically-Suppressed HIV-1 Who Switched to BIKTARVY
 

@@ -13,33 +13,37 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Clinical Trials in Adults with No Antiretroviral Treatment History
 
-The primary safety assessment of BIKTARVY was based on Week 48 data from two randomized, double-blind, active-controlled trials, Trial 1489 and Trial 1490, that enrolled 1274 HIV-1 infected adult subjects with no antiretroviral treatment history.
-A total of 634 subjects received one tablet of BIKTARVY once daily [see Clinical Studies (14.2)].
+The primary safety assessment of BIKTARVY was based on data from two randomized, double-blind, active-controlled trials, Trial 1489 and Trial 1490, that enrolled 1274 HIV-1 infected adult subjects with no antiretroviral treatment history through Week 144.
+After Week 144, subjects received open-label BIKTARVY in an optional extension phase for an additional 96 weeks (end of study).
+A total of 634 and 1025 subjects received one tablet of BIKTARVY once daily during the double-blind (Week 144) and extension phases, respectively [see Clinical Studies (14.2)].
 
 The most common adverse reactions (all Grades) reported in at least 5% of subjects in the BIKTARVY group in either Trial 1489 or Trial 1490 were diarrhea, nausea, and headache.
-The proportion of subjects who discontinued treatment with BIKTARVY, abacavir [ABC]/dolutegravir [DTG]/ lamivudine [3TC]), or DTG + FTC/TAF, due to adverse events, regardless of severity, was 1%, 1%, and <1%, respectively.
+The proportion of subjects who discontinued treatment through Week 144 with BIKTARVY, abacavir [ABC]/dolutegravir [DTG]/ lamivudine [3TC]), or DTG + FTC/TAF, due to adverse events, regardless of severity, was 1%, 2%, and 2%, respectively.
 Table 1 displays the frequency of adverse reactions (all Grades) greater than or equal to 2% in the BIKTARVY group.
 
 Table 1 Adverse ReactionsFrequencies of adverse reactions are based on all adverse events attributed to trial drugs by the investigator.
-No adverse reactions of Grade 2 or higher occurred in ≥ 1% of subjects treated with BIKTARVY.
-(All Grades) Reported in ≥ 2% of HIV-1 Infected Adults with No Antiretroviral Treatment History Receiving BIKTARVY in Trials 1489 or 1490 (Week 48 analysis)
+No adverse reactions of Grade 2 or higher occurred in > 1% of subjects treated with BIKTARVY.
+(All Grades) Reported in ≥ 2% of HIV-1 Infected Adults with No Antiretroviral Treatment History Receiving BIKTARVY in Trials 1489 or 1490 (Week 144 analysis)
 
 | Adverse Reactions | BIKTARVY N=314 | ABC/DTG/3TC N=315 | BIKTARVY N=320 | DTG + FTC/TAF N=325 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1489 |  | Trial 1490 |  |
 | Diarrhea | 6% | 4% | 3% | 3% |
-| Nausea | 5% | 17% | 3% | 5% |
+| Nausea | 6% | 18% | 3% | 5% |
 | Headache | 5% | 5% | 4% | 3% |
-| Fatigue | 3% | 3% | 2% | 2% |
+| Fatigue | 3% | 4% | 2% | 2% |
 | Abnormal dreams | 3% | 3% | <1% | 1% |
 | Dizziness | 2% | 3% | 2% | 1% |
 | Insomnia | 2% | 3% | 2% | <1% |
+| Abdominal distention | 2% | 2% | 1% | 2% |
 
 Additional adverse reactions (all Grades) occurring in less than 2% of subjects administered BIKTARVY in Trials 1489 and 1490 included vomiting, flatulence, dyspepsia, abdominal pain, rash, and depression.
 
-Suicidal ideation, suicide attempt, and depression suicidal occurred in <1% of subjects administered BIKTARVY; all events were serious and primarily occurred in subjects with a preexisting history of depression, prior suicide attempt or psychiatric illness.
+Suicidal ideation, suicide attempt, and depression suicidal occurred in 2% of subjects administered BIKTARVY; these events occurred primarily in subjects with a preexisting history of depression, prior suicide attempt or psychiatric illness.
 
-The majority (87%) of adverse events associated with BIKTARVY were Grade 1.
+The majority (84%) of adverse events associated with BIKTARVY were Grade 1.
+
+Adverse reactions in the open-label extension phases of Trials 1489 and 1490 were similar to those observed in subjects administered BIKTARVY in the Week 144 analysis.
 
 Clinical Trials in Virologically Suppressed Adults
 
@@ -58,29 +62,31 @@ Laboratory Abnormalities
 
 The frequency of laboratory abnormalities (Grades 3–4) occurring in at least 2% of subjects receiving BIKTARVY in Trials 1489 and 1490 are presented in Table 2.
 
-Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving BIKTARVY in Trials 1489 or 1490 (Week 48 analysis)
+Table 2 Laboratory Abnormalities (Grades 3–4) Reported in ≥ 2% of Subjects Receiving BIKTARVY in Trials 1489 or 1490 (Week 144 analysis)
 
 | Laboratory Parameter AbnormalityFrequencies are based on treatment-emergent laboratory abnormalities. | BIKTARVY N=314 | ABC/DTG/3TC N=315 | BIKTARVY N=320 | DTG + FTC/TAF N=325 |
 | --- | --- | --- | --- | --- |
 |  | Trial 1489 |  | Trial 1490 |  |
-| Amylase (>2.0 × ULN) | 2% | 2% | 2% | 2% |
-| ALT (>5.0 × ULN) | 1% | 1% | 2% | 1% |
-| AST (>5.0 × ULN) | 2% | 1% | 1% | 3% |
-| Creatine Kinase (≥10.0 × ULN) | 4% | 3% | 4% | 2% |
-| Neutrophils (<750 mm3) | 2% | 3% | 2% | 1% |
-| LDL-cholesterol (fasted) (>190 mg/dL) | 2% | 3% | 3% | 3% |
+| Amylase (>2.0 × ULN) | 3% | 4% | 3% | 4% |
+| ALT (>5.0 × ULN) | 2% | 2% | 3% | 1% |
+| AST (>5.0 × ULN) | 5% | 3% | 2% | 3% |
+| Creatine Kinase (≥10.0 × ULN) | 8% | 8% | 6% | 4% |
+| Neutrophils (<750 mm3) | 3% | 4% | 3% | 2% |
+| LDL-cholesterol (fasted) (>190 mg/dL) | 5% | 5% | 4% | 6% |
+| Lipase (> 3.0 × ULN)Lipase test performed only in subjects with serum amylase > 1.5 × ULN. | 2% | 2% | <1% | 2% |
+| GGT (>5.0 × ULN) | 2% | 2% | 1% | 1% |
 | ULN = Upper limit of normal |  |  |  |  |
 
 Changes in Serum Creatinine: BIC has been shown to increase serum creatinine due to inhibition of tubular secretion of creatinine without affecting renal glomerular function [see Clinical Pharmacology (12.2)].
-Increases in serum creatinine occurred by Week 4 of treatment and remained stable through Week 48.
-In Trials 1489 and 1490, median (Q1, Q3) serum creatinine increased by 0.10 (0.03, 0.17) mg per dL from baseline to Week 48 in the BIKTARVY group and was similar to the comparator groups who received ABC/DTG/3TC, or DTG + FTC/TAF.
-There were no discontinuations due to renal adverse events and renal serious adverse events were encountered in less than 1% of participants treated with BIKTARVY through Week 48 in clinical trials.
+Increases in serum creatinine occurred by Week 4 of treatment and remained stable through Week 144.
+In Trials 1489 and 1490, median (Q1, Q3) serum creatinine increased by 0.11 (0.03, 0.19) mg per dL from baseline to Week 144 in the BIKTARVY group and was similar to the comparator groups who received ABC/DTG/3TC, or DTG + FTC/TAF.
+There were no discontinuations due to renal adverse events and renal serious adverse events were encountered in less than 1% of participants treated with BIKTARVY through Week 144 in clinical trials.
 
-Changes in Bilirubin: In Trials 1489 and 1490, total bilirubin increases were observed in 12% of subjects administered BIKTARVY through Week 48.
-Increases were primarily Grade 1 (1.0 to 1.5 × ULN) (9%) and Grade 2 (1.5 to 2.5 × ULN) (3%).
-Graded bilirubin increases in the ABC/DTG/3TC, and DTG + FTC/TAF groups, were 4% and 6%, respectively.
-Increases were primarily Grade 1 (3% ABC/DTG/3TC and 5% DTG + FTC/TAF) or Grade 2 (1% ABC/DTG/3TC and 1% DTG + FTC/TAF).
-There were no discontinuations due to hepatic adverse events through Week 48 in BIKTARVY clinical studies.
+Changes in Bilirubin: In Trials 1489 and 1490, total bilirubin increases were observed in 17% of subjects administered BIKTARVY through Week 144.
+Increases were primarily Grade 1 (1.0 to 1.5 × ULN) (12%) and Grade 2 (1.5 to 2.5 × ULN) (4%).
+Graded bilirubin increases in the ABC/DTG/3TC, and DTG + FTC/TAF groups, were 7% and 8%, respectively.
+Increases were primarily Grade 1 (5% ABC/DTG/3TC and 7% DTG + FTC/TAF) or Grade 2 (2% ABC/DTG/3TC and 2% DTG + FTC/TAF).
+There were no discontinuations due to hepatic adverse events through Week 144 in BIKTARVY clinical studies.
 
 Clinical Trials in Pediatric Subjects
 
