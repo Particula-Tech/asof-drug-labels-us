@@ -1,7 +1,5 @@
 # 10 OVERDOSAGE
 
-## 10.1 Human Experience
-
 The following have been reported with escitalopram tablet overdosage:
 
 - Seizures, which may be delayed, and altered mental status including coma.

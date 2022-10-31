@@ -181,7 +181,7 @@ Before starting escitalopram tablets, tell your healthcare provider if you:
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
   Taking escitalopram tablets lat in pregnancy may lead to an increased risk of certain problems in your newborn.
-  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy If you become pregnant while taking escitalopram tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy ο If you become pregnant while taking escitalopram tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
   You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breast-feeding or plan to breast-feed.
   Escitalopram tablets may pass into your breast milk.
@@ -287,8 +287,8 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Levittown PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8086067 Revised January 2022
+8088121 Revised: September 2022
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

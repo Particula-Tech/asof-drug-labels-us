@@ -8,7 +8,7 @@ A major depressive episode (DSM-IV) implies a prominent and relatively persisten
 
 ## 1.2 Generalized Anxiety Disorder
 
-Escitalopram tablets are indicated for the acute treatment of Generalized Anxiety Disorder (GAD) in adults [seeClinicalStudies(14.2)].
+Escitalopram tablets are indicated for the acute treatment of Generalized Anxiety Disorder (GAD) in adults [see ClinicalStudies (14.2)].
 
 Generalized Anxiety Disorder (DSM-IV) is characterized by excessive anxiety and worry (apprehensive expectation) that is persistent for at least 6 months and which the person finds difficult to control.
 It must be associated with at least 3 of the following symptoms: restlessness or feeling keyed up or on edge, being easily fatigued, difficulty concentrating or mind going blank, irritability, muscle tension, and sleep disturbance.

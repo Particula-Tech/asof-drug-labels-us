@@ -149,7 +149,7 @@ Events included are those occurring in 2% or more of patients treated with escit
 | 2Denominator used was for males only (N=182 escitalopram; N=195 placebo). |  |  |
 | 3Denominator used was for females only (N=247 escitalopram; N=232 placebo). |  |  |
 
-### Dose Dependency of Adverse Reactions
+Dose Dependency of Adverse Reactions
 
 The potential dose dependency of common adverse reactions (defined as an incidence rate of ≥5% in either the 10 mg or 20 mg escitalopram groups) was examined on the basis of the combined incidence of adverse reactions in two fixed-dose trials.
 The overall incidence rates of adverse events in 10 mg escitalopram-treated patients (66%) was similar to that of the placebo-treated patients (61%), while the incidence rate in 20 mg/day escitalopram-treated patients was greater (86%).
@@ -171,7 +171,7 @@ Table 4 shows common adverse reactions that occurred in the 20 mg/day escitalopr
 | Fatigue | 2% | 2% | 6% |
 | Indigestion | 1% | 2% | 6% |
 
-### Male and Female Sexual Dysfunction with SSRIs
+Male and Female Sexual Dysfunction with SSRIs
 
 Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
@@ -216,15 +216,15 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ECG Changes
 
-Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QT c changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
-None of the patients in the escitalopram group had a QT cF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
+Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+None of the patients in the escitalopram group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the escitalopram and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the escitalopram group and 0.2% in the placebo group.
 
-QT cF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 113 healthy subjects.
+QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 113 healthy subjects.
 The maximum mean (95% upper confidence bound) difference from placebo arm were 4.5 (6.4) and 10.7 (12.7) msec for 10 mg and supratherapeutic 30 mg escitalopram given once daily, respectively.
-Based on the established exposure-response relationship, the predicted QT cF change from placebo arm (95% confidence interval) under the C max for the dose of 20 mg is 6.6 (7.9) msec.
-Escitalopram 30 mg given once daily resulted in mean C max of 1.7-fold higher than the mean C max for the maximum recommended therapeutic dose at steady state (20 mg).
+Based on the established exposure-response relationship, the predicted QTcF change from placebo arm (95% confidence interval) under the Cmax for the dose of 20 mg is 6.6 (7.9) msec.
+Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
 The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 
 Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tablets
@@ -260,7 +260,7 @@ Urinary System Disorders - urinary frequency, urinary tract infection.
 
 ## 6.2 Post-Marketing Experience
 
-AdverseReactionsReportedSubsequenttotheMarketingofEscitalopram
+Adverse Reactions Reported Subsequent to the Marketing of Escitalopram
 
 The following adverse reactions have been identified during post-approval use of escitalopram.
 Because these reactions are reported voluntarily from a population of uncertain size, it is always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

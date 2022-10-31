@@ -14,3 +14,5 @@ Escitalopram tablets, USP are white to off-white, round, biconvex, film-coated t
 The 10 and 20 mg tablets are scored.
 The tablets also contain the following inactive ingredients: cellulose microcrystalline, colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, povidone and talc.
 The film coating contains hypromellose, polyethylene glycol 400 and titanium dioxide.
+
+Meets USP Dissolution Test 2.

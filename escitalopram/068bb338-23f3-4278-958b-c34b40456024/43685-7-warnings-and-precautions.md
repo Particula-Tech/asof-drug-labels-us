@@ -7,17 +7,17 @@ There was considerable variation in risk of suicidal thoughts and behaviors amon
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
 The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table1.
 
-Table 1: Risk Difference of the Numbers of Patients of Suicidal Thoughts and Behaviors in the Pooled-Placebo-Controlled Trials of ANtidepressants in Pediatric and Adult Patients
+Table 1: Risk Difference of the Numbers of Patients of Suicidal Thoughts and Behaviors in the Pooled-Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
 | TABLE 1 |  |
 | --- | --- |
 | Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts and Behaviors per 1,000 Patients Treated |
 |  | Increases Compared to Placebo |
-| <18 years old | 14 additional cases |
-| 18 to 24 years old | 5 additional cases |
+| <18 years old | 14 additional patients |
+| 18 to 24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25 to 64 years old | 1 fewer case |
-| ≥65 years old | 6 fewer case |
+| 25 to 64 years old | 1 fewer patient |
+| ≥65 years old | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.
 However, there is substantial evidence from placebo-controlled maintenance trials in adults with MDD that antidepressants delay the recurrence of depression and that depression itself is a risk factor for suicidal thoughts and behaviors.
@@ -106,6 +106,8 @@ Caution is advisable in using escitalopram tablets in patients with diseases or 
 
 Escitalopram has not been systematically evaluated in patients with a recent history of myocardial infarction or unstable heart disease.
 
+Patients with these diagnoses were generally excluded from clinical studies during the product's premarketing testing.
+
 In subjects with hepatic impairment, clearance of racemic citalopram was decreased and plasma concentrations were increased.
 The recommended dose of escitalopram tablets in hepatically impaired patients is 10 mg/day [see Dosage and Administration (2.3)].
 
@@ -114,7 +116,7 @@ Until adequate numbers of patients with severe renal impairment have been evalua
 
 ## 5.11 Sexual Dysfunction
 
-Use of SSRIs, including escitalopram, may cause symptoms of sexual dysfunction [see Adverse Reaction (6.1)].
+Use of SSRIs, including escitalopram, may cause symptoms of sexual dysfunction [see Adverse Reactions (6.1)].
 In male patients, SSRI use may result in ejaculatory delay or failure, decreased libido, and erectile dysfunction.
 In female patients, SSRI use may result in decreased libido and delayed or absent orgasm.
 
