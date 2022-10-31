@@ -1,27 +1,16 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Furosemide Injection, USP 10 mg/mL is supplied as follows:
-
-| Unit of Sale | Concentration |
-| --- | --- |
-| NDC 0409-6102-02 Carton Containing 25 Vials | 20 mg/2 mL (10 mg/mL) |
-| NDC 0409-6102-04 Carton Containing 25 Vials | 40 mg/4 mL (10 mg/mL) |
-| NDC 0409-6102-10 Carton Containing 25 Vials | 100 mg/10 mL (10 mg/mL) |
-| NDC 0409-1639-10 Bundle Containing 10 ANSYR Syringes | 100 mg/10 mL (10 mg/mL) |
-| NDC 0409-9631-04 Bundle Containing 10 ANSYR Syringes | 40 mg/4 mL (10 mg/mL) |
-
-Store at 20 to 25°C (68 to 77°F).
+Store at room temperature 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
 [See USP Controlled Room Temperature.]
-
-Do not use if solution is discolored or contains particulate.
-
 Protect from light.
-Do not remove the Ansyr syringe from carton until ready to use.
+
+Furosemide Injection is a sterile, colorless solution for injection, available as a single-dose vial that contains 10 mg/mL of furosemide, and is supplied as follows:
+
+| Unit of Sale | Presentations | Concentration |
+| --- | --- | --- |
+| NDC 0409-6102-02 | Tray of 25 clear glass single-dose vials | 20 mg/2 mL (10 mg/mL) |
+| NDC 0409-6102-04 | Tray of 25 clear glass single-dose vials | 40 mg/4 mL (10 mg/mL) |
+| NDC 0409-6102-10 | Tray of 25 clear glass single-dose vials | 100 mg/10 mL (10 mg/mL) |
 
 Discard unused portion.
-
-Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
-
-LAB-1025-3.0
-
-05/2018
+Do not use if solution is discolored or contains particulate.

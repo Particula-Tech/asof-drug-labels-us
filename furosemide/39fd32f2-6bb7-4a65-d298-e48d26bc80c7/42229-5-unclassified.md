@@ -1,10 +1,6 @@
-Furosemide Injection, USP
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-(10 mg/mL)
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-Fliptop Vial Ansyr™ Plastic Syringe
-
-Rx only
-
-WARNING: Furosemide is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion.
-Therefore, careful medical supervision is required and dose schedule must be adjusted to the individual patient's needs (see DOSAGE AND ADMINISTRATION).
+LAB-1025-4.0
