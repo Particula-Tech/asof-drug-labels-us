@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA216874"
+  ],
+  "inn": "paclitaxel",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-620-05",
+    "62332-621-17",
+    "62332-622-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "paclitaxel",
+      "name": "Paclitaxel"
+    }
+  ],
+  "setid": "0c12c77c-5fd4-48dc-a318-e96892233992",
+  "source": "dailymed"
+}
