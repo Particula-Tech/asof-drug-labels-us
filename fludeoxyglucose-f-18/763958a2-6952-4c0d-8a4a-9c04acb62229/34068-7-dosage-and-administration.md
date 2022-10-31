@@ -32,11 +32,11 @@ These dissimilarities in absorbed radiation dose are due to developmental age va
 The identified critical organs (in descending order) across all age groups evaluated are the urinary bladder, heart, pancreas, spleen, and lungs.
 
 Table 1.
-Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of Fludeoxyglucose F 18 Injectiona
+Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of Fludeoxyglucose F 18 Injection a
 
 | Organ | Newborn (3.4kg) | 1-year old (9.8kg) | 5-year old (19kg) | 10-year old (32kg) | 15-year old (57kg) | Adult (70kg) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bladder wallb | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
+| Bladder wall b | 4.3 | 1.7 | 0.93 | 0.60 | 0.40 | 0.32 |
 | Heart wall | 2.4 | 1.2 | 0.70 | 0.44 | 0.29 | 0.22 |
 | Pancreas | 2.2 | 0.68 | 0.33 | 0.25 | 0.13 | 0.096 |
 | Spleen | 2.2 | 0.84 | 0.46 | 0.29 | 0.19 | 0.14 |
