@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Clopidogrel bisulfate USP is a thienopyridine class inhibitor of P2Y12 ADP platelet receptors.
+Clopidogrel tablets USP is a thienopyridine class inhibitor of P2Y12 ADP platelet receptors.
 Chemically it is methyl (+)-(S)-α-(2-chlorophenyl)-6,7-dihydrothieno[3,2-c]pyridine-5(4H)acetate sulfate (1:1).
 The molecular formula of clopidogrel bisulfate USP is C16H16Cl NO2S•H2SO4 and its molecular weight is 419.9.
 
