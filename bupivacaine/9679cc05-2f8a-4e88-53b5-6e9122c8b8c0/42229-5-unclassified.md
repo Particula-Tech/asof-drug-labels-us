@@ -1,5 +1,3 @@
-bupivacaine hydrochloride in dextrose injection, USP
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-STERILE HYPERBARIC SOLUTION FOR SPINAL ANESTHESIA
-
-Rx only
+LAB-1179-4.0

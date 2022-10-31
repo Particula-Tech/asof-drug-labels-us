@@ -1,9 +1,10 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-MARCAINE Spinal is contraindicated in patients with a known hypersensitivity to it or to any local anesthetic agent of the amide-type.
+MARCAINE SPINAL is contraindicated in:
 
-The following conditions preclude the use of spinal anesthesia:
-
-- 1.Severe hemorrhage, severe hypotension or shock and arrhythmias, such as complete heart block, which severely restrict cardiac output.
-- 2.Local infection at the site of proposed lumbar puncture.
-- 3.Septicemia.
+- intravenous regional anesthesia (Bier Block) [see Warnings and Precautions (5.8)].
+- patients with septicemia.
+- patients with severe hemorrhage, severe hypotension or shock, due to a reduced cardiac output.
+- patients with clinically significant arrhythmias, such as complete heartblock, due a reduced cardiac output.
+- patients with a known hypersensitivity to bupivacaine or to any local anesthetic agent of the amide-type or to other components of MARCAINE SPINAL.
+  - patients with local infection at the site of proposed lumbar puncture.

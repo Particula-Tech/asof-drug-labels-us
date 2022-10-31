@@ -1,5 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-MARCAINE Spinal is indicated for the production of subarachnoid block (spinal anesthesia).
-
-Standard textbooks should be consulted to determine the accepted procedures and techniques for the administration of spinal anesthesia.
+MARCAINE SPINAL is indicated for subarachnoid injection in adults for the production of subarachnoid block (spinal anesthesia).
