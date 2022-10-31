@@ -6,6 +6,7 @@ Blood pressure, heart rate and oxygen levels will be monitored both continuously
 
 - •When dexmedetomidine injection is infused for more than 6 hours, patients should be informed to report nervousness, agitation, and headaches that may occur for up to 48 hours.
 - •Additionally, patients should be informed to report symptoms that may occur within 48 hours after the administration of dexmedetomidine injection such as: weakness, confusion, excessive sweating, weight loss, abdominal pain, salt cravings, diarrhea, constipation, dizziness or light-headedness.
+- •Advise breastfeeding mothers who were exposed to dexmedetomidine injection to monitor breastfed neonates for irritability [see Use in Specific Populations (8.2)].
 
 Sterile, Non-pyrogenic
 
@@ -15,4 +16,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-Revised: 7/2021 0940L103 MI:DEXDIJ:R11
+0940L104
+
+Revised: 8/2022 MI:DEXDIJ:R12

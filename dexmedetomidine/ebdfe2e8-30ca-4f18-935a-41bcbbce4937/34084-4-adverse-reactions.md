@@ -19,9 +19,9 @@ The population was between 17 to 88 years of age, 43% ≥ 65 years of age, 77% m
 Treatment-emergent adverse reactions occurring at an incidence of > 2% are provided in Table 2.
 The most frequent adverse reactions were hypotension, bradycardia and dry mouth [see Warnings and Precautions (5.2)].
 
-Table 2: Adverse Reactions with an Incidence > 2%-Adult Intensive Care Unit Sedation Population < 24 hours26 subjects in the all dexmedetomidine injection group and 10 subjects in the randomized dexmedetomidine injection group had exposure for greater than 24 hours
+Table 2: Adverse Reactions with an Incidence > 2%-Adult Intensive Care Unit Sedation Population < 24 hours26 subjects in the all dexmedetomidine injection group and 10 subjects in the randomized dexmedetomidine injection group had exposure for greater than 24 hours.
 
-| Adverse Event | All Dexmedetomidine Injection (N = 1007) (%) | RandomizedDexmedetomidine Injection (N = 798)(%) | Placebo(N = 400)(%) | Propofol(N = 188)(%) |
+| Adverse Event | All Dexmedetomidine Injection (N = 1007) (%) | RandomizedDexmedetomidine Injection(N = 798)(%) | Placebo(N = 400)(%) | Propofol(N = 188)(%) |
 | --- | --- | --- | --- | --- |
 | Hypotension | 25% | 24% | 12% | 13% |
 | Hypertension | 12% | 13% | 19% | 4% |
@@ -88,16 +88,16 @@ Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 
 | Adverse Event | Dexmedetomidine(N = 244) | Midazolam(N = 122) |
 | --- | --- | --- |
-| HypotensionHypotension was defined in absolute terms as Systolic blood pressure of < 80 mmHg or Diastolic blood pressure of < 50 mmHg or in relative terms as ≤ 30% lower than pre-study drug infusion value | 56% | 56% |
+| HypotensionHypotension was defined in absolute terms as Systolic blood pressure of < 80 mmHg or Diastolic blood pressure of < 50 mmHg or in relative terms as ≤ 30% lower than pre-study drug infusion value. | 56% | 56% |
 | Hypotension Requiring Intervention | 28% | 27% |
-| BradycardiaBradycardia was defined in absolute terms as < 40 bpm or in relative terms as ≤ 30% lower than pre-study drug infusion value | 42% | 19% |
+| BradycardiaBradycardia was defined in absolute terms as < 40 bpm or in relative terms as ≤ 30% lower than pre-study drug infusion value. | 42% | 19% |
 | Bradycardia Requiring Intervention | 5% | 1% |
-| Systolic HypertensionHypertension was defined in absolute terms as Systolic blood pressure > 180 mmHg or Diastolic blood pressure of > 100 mmHg or in relative terms as ≥ 30% higher than pre-study drug infusion value | 28% | 42% |
-| TachycardiaTachycardia was defined in absolute terms as > 120 bpm or in relative terms as ≥ 30% greater than pre-study drug infusion value | 25% | 44% |
+| Systolic HypertensionHypertension was defined in absolute terms as Systolic blood pressure > 180 mmHg or Diastolic blood pressure of > 100 mmHg or in relative terms as ≥ 30% higher than pre-study drug infusion value. | 28% | 42% |
+| TachycardiaTachycardia was defined in absolute terms as > 120 bpm or in relative terms as ≥ 30% greater than pre-study drug infusion value. | 25% | 44% |
 | Tachycardia Requiring Intervention | 10% | 10% |
 | Diastolic Hypertension | 12% | 15% |
 | Hypertension | 11% | 15% |
-| Hypertension Requiring InterventionIncludes any type of hypertension | 19% | 30% |
+| Hypertension Requiring InterventionIncludes any type of hypertension. | 19% | 30% |
 | Hypokalemia | 9% | 13% |
 | Pyrexia | 7% | 2% |
 | Agitation | 7% | 6% |
@@ -116,7 +116,7 @@ Table 5: Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatme
 
 | Dexmedetomidine Injection (mcg/kg/hr) |  |  |  |
 | --- | --- | --- | --- |
-| Adverse Event | ≤ 0.7Average maintenance dose over the entire study drug administration(N = 95) | > 0.7 to ≤ 1.1(N = 78) | > 1.1(N = 71) |
+| Adverse Event | ≤ 0.7Average maintenance dose over the entire study drug administration.(N = 95) | > 0.7 to ≤ 1.1(N = 78) | > 1.1(N = 71) |
 | Constipation | 6% | 5% | 14% |
 | Agitation | 5% | 8% | 14% |
 | Anxiety | 5% | 5% | 9% |
@@ -140,14 +140,14 @@ Table 6: Adverse Reactions with an Incidence > 2%–Procedural Sedation Populati
 
 | Adverse Event | Dexmedetomidine Injection N = 318 (%) | Placebo N = 113 (%) |
 | --- | --- | --- |
-| HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of < 80 mmHg or ≤ 30% lower than pre-study drug infusion value, or Diastolic blood pressure of < 50 mmHg | 54% | 30% |
-| Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) < 8 beats per minute or > 25% decrease from baseline | 37% | 32% |
-| BradycardiaBradycardia was defined in absolute and relative terms as < 40 beats per minute or ≤ 30% lower than pre-study drug infusion value | 14% | 4% |
-| HypertensionHypertension was defined in absolute and relative terms as Systolic blood pressure > 180 mmHg or ≥ 30% higher than pre-study drug infusion value or Diastolic blood pressure of > 100 mmHg | 13% | 24% |
-| TachycardiaTachycardia was defined in absolute and relative terms as > 120 beats per minute or ≥ 30% greater than pre-study drug infusion value | 5% | 17% |
+| HypotensionHypotension was defined in absolute and relative terms as Systolic blood pressure of < 80 mmHg or ≤ 30% lower than pre-study drug infusion value, or Diastolic blood pressure of < 50 mmHg. | 54% | 30% |
+| Respiratory DepressionRespiratory depression was defined in absolute and relative terms as respiratory rate (RR) < 8 beats per minute or > 25% decrease from baseline. | 37% | 32% |
+| BradycardiaBradycardia was defined in absolute and relative terms as < 40 beats per minute or ≤ 30% lower than pre-study drug infusion value. | 14% | 4% |
+| HypertensionHypertension was defined in absolute and relative terms as Systolic blood pressure > 180 mmHg or ≥ 30% higher than pre-study drug infusion value or Diastolic blood pressure of > 100 mmHg. | 13% | 24% |
+| TachycardiaTachycardia was defined in absolute and relative terms as > 120 beats per minute or ≥ 30% greater than pre-study drug infusion value. | 5% | 17% |
 | Nausea | 3% | 2% |
 | Dry Mouth | 3% | 1% |
-| HypoxiaHypoxia was defined in absolute and relative terms as SpO2 < 90% or 10% decrease from baseline | 2% | 3% |
+| HypoxiaHypoxia was defined in absolute and relative terms as SpO2 < 90% or 10% decrease from baseline. | 2% | 3% |
 | Bradypnea | 2% | 4% |
 
 ## 6.2 Postmarketing Experience

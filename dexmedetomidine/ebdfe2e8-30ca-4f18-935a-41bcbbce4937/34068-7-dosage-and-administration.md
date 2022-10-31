@@ -21,13 +21,14 @@ Table 1: Dosage Information
 
 Due to possible pharmacodynamic interactions, a reduction in dosage of dexmedetomidine injection or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)].
 
-Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.7), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.8), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation of Solution
 
 Strict aseptic technique must always be maintained during handling of dexmedetomidine injection.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Do not use if product is discolored or if precipitate matter is present.
 
 ### Dexmedetomidine Injection, 200 mcg/2 mL (100 mcg/mL)
 
@@ -56,5 +57,5 @@ Dexmedetomidine injection has been shown to be compatible when administered with
 
 ## 2.6 Compatibility with Natural Rubber
 
-Compatibility studies have demonstrated the potential for absorption of dexmedetomidine hydrochloride to some types of natural rubber.
+Compatibility studies have demonstrated the potential for absorption of dexmedetomidine injection to some types of natural rubber.
 Although dexmedetomidine injection is dosed to effect, it is advisable to use administration components made with synthetic or coated natural rubber gaskets.
