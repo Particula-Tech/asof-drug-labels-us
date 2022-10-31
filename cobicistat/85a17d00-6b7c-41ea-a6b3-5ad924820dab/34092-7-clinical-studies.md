@@ -7,9 +7,9 @@ The median age was 34.0 years (range 18–71), 88.3% were male, 83% White, 11% B
 The mean baseline plasma HIV-1 RNA was 4.5 log10 copies/mL (range 1.3–6.7), and 18% had a baseline viral load ≥100,000 copies/mL.
 The median baseline CD4+ cell count was 453 cells/mm3 (range 38 to 1456 cells/mm3).
 
-Virologic outcomes at 48 weeks of treatment are presented in Table 10.
+Virologic outcomes at 48 weeks of treatment are presented in Table 11.
 
-Table 10: Virologic Outcomes in AMBER at Week 48 in HIV-1 Subjects with No Prior Antiretroviral Treatment History
+Table 11: Virologic Outcomes in AMBER at Week 48 in HIV-1 Subjects with No Prior Antiretroviral Treatment History
 
 | Virologic Response |  |  |
 | --- | --- | --- |
@@ -38,10 +38,10 @@ The median baseline CD4+ cell count was 628 cells/mm3 (range 111–1921 cells/mm
 Overall, 15% (N=169) of subjects had prior virologic failure.
 Five subjects had archived tenofovir resistance-associated substitutions and 53 subjects had archived emtricitabine resistance-associated substitutions, mainly at RT position M184.
 All of these subjects with emtricitabine resistance-associated substitutions had HIV-1 RNA<50 copies/mL at Week 48 (N=50) or at the last on-treatment viral load (N=3).
-Virologic outcomes are presented in Table 11.
+Virologic outcomes are presented in Table 12.
 Prior virologic failure did not impact treatment outcomes.
 
-Table 11: Virologic Outcomes in EMERALD at Week 48 in HIV-1 Virologically-Suppressed Subjects Who Switched to SYMTUZA
+Table 12: Virologic Outcomes in EMERALD at Week 48 in HIV-1 Virologically-Suppressed Subjects Who Switched to SYMTUZA
 
 |  | SYMTUZA N=763 | bPI+FTC/TDF N=378 |
 | --- | --- | --- |

@@ -183,6 +183,18 @@ In vitro and clinical drug interaction studies have shown that the potential for
 Tenofovir alafenamide is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or UGT1A.
 It is not an inhibitor or inducer of CYP3A in vivo.
 
+A drug-drug interaction study between darunavir/cobicistat and dabigatran etexilate was conducted in healthy participants.
+The effects of darunavir on co-administration with dabigatran etexilate are summarized in Table 10.
+
+Table 10: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drugs in the Presence of darunavir/cobicistat
+
+| Co-administered drug | Co-administered drug | Darunavir/ cobicistat | N | PK | Cmax | AUC | Cmin |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Dose/Schedule |  |  |  | LS Mean ratio (90% CI) of co-administered drug pharmacokinetic parameters with/without darunavir no effect =1.00 |  |  |
+| Dabigatran etexilate | 150 mg | 800/100 mg single dose | 14 | ↑ | 2.64 (2.29–3.05) | 2.64 (2.32–3.00) | - |
+|  |  | 800/100 mg q.d.800/100 mg q.d. for 14 days before co-administered with dabigatran etexilate. | 14 | ↑ | 1.99 (1.72–2.30) | 1.88 (1.65–2.13) | - |
+| N = number of subjects with data q.d. = once daily |  |  |  |  |  |  |  |
+
 ## 12.4 Microbiology
 
 Mechanism of Action

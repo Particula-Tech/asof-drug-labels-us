@@ -4,6 +4,6 @@ Or
 
 Janssen Cilag SpA Latina, IT
 
-Manufactured for: Janssen Therapeutics, Division of Janssen Products, LP, Titusville NJ 08560
+Manufactured for: Janssen Products, LP, Horsham PA 19044
 
-© 2020 Janssen Pharmaceutical Companies
+© 2018, 2020 Janssen Pharmaceutical Companies

@@ -149,7 +149,7 @@ Safety analyses of the trials in these pediatric subjects did not identify new s
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions that may occur in patients taking SYMTUZA have been identified during postmarketing experience in patients receiving a darunavir-containing regimen.
+The following adverse reactions have been identified during post-approval use of darunavir.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Metabolism and Nutrition Disorders:
