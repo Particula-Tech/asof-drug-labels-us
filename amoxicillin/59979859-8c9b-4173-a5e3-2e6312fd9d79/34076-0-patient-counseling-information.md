@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
-
 Administration Instructions
 
 Inform patients to take AUGMENTIN ES-600 every 12 hours with a meal or snack to reduce the possibility of gastrointestinal upset.
