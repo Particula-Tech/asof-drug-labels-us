@@ -81,5 +81,5 @@ Assure good venous access prior to starting TREANDA infusion and monitor the int
 Based on findings from animal reproduction studies and the drug’s mechanism of action, TREANDA can cause fetal harm when administered to a pregnant woman.
 Single intraperitoneal doses of bendamustine (that approximated the maximum recommended human dose based on body surface area) to pregnant mice and rats during organogenesis caused adverse developmental outcomes, including an increase in resorptions, skeletal and visceral malformations, and decreased fetal body weights.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use an effective method of contraception during treatment with TREANDA and for at least 6 months after the final dose.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for at least 3 months after the final dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)]
+Advise females of reproductive potential to use an effective method of contraception during treatment with TREANDA and for 6 months after the last dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)]

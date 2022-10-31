@@ -2,7 +2,7 @@
 
 Safe Handling and Disposal
 
-TREANDA (bendamustine hydrochloride) is a cytotoxic drug.
+TREANDA (bendamustine hydrochloride) is a hazardous drug.
 Follow applicable special handling and disposal procedures1.
 Care should be exercised in the handling and preparation of solutions prepared from TREANDA Injection and TREANDA for Injection.
 The use of gloves and safety glasses is recommended to avoid exposure in case of breakage of the vial or other accidental spillage.

@@ -45,22 +45,25 @@ Embryo-Fetal Toxicity
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.10), Use in Specific Populations (8.1, 8.3), and Nonclinical Toxicology (13.1)].
-Advise female patients of reproductive potential to use effective contraception during treatment with TREANDA and for at least 6 months after the final dose [see Use in Specific Populations (8.1, 8.3)].
-Advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for at least 3 months after the final dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
+Advise female patients of reproductive potential to use effective contraception during treatment with TREANDA and for 6 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for 3 months after the last dose [see Use in Specific Populations (8.3), and Nonclinical Toxicology (13.1)].
 
 Lactation
 
-Advise females not to breastfeed during treatment with TREANDA and for at least 1 week after the final dose [see Use in Specific Populations (8.2)].
+Advise females not to breastfeed during treatment with TREANDA and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
 Infertility
 
 Advise males of reproductive potential that TREANDA may impair fertility [see Use in Specific Populations (8.3)].
 
-Distributed By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured for: Teva Pharmaceuticals Parsippany, NJ 07054
 
-©2021 Cephalon, Inc., a wholly-owned subsidiary of Teva Pharmaceutical Industries, Ltd.
+©2022 Teva Pharmaceuticals USA, Inc.
 
 United States Patent Nos. 8436190, 8445524, 8609863, 8669279, 8791270, 8883836, 8895756, 9533955.
 All rights reserved.
 
-TRE-017
+Rev.
+10/2022
+
+TRE-018

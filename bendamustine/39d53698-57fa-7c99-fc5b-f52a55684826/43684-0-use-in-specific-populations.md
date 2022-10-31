@@ -28,7 +28,7 @@ A significant increase in external (effect on tail, head, and herniation of exte
 Risk Summary
 
 There are no data on the presence of bendamustine hydrochloride or its metabolites in either human or animal milk, the effects on the breastfed child, or the effects on milk production.
-Because of the potential for serious adverse reactions in the breastfed child, advise patients that breastfeeding is not recommended during treatment with TREANDA, and for at least 1 week after the last dose.
+Because of the potential for serious adverse reactions in the breastfed child, advise patients that breastfeeding is not recommended during treatment with TREANDA, and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -43,11 +43,11 @@ Contraception
 Females
 
 TREANDA can cause embryo-fetal harm when administered to pregnant women [see Use in Specific Populations (8.1)].
-Advise female patients of reproductive potential to use effective contraception during treatment with TREANDA and for at least 6 months after the final dose.
+Advise female patients of reproductive potential to use effective contraception during treatment with TREANDA and for 6 months after the last dose.
 
 Males
 
-Based on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for at least 3 months after the final dose [see Nonclinical Toxicology (13.1)].
+Based on genotoxicity findings, advise males with female partners of reproductive potential to use effective contraception during treatment with TREANDA and for 3 months after the last dose [see Nonclinical Toxicology (13.1)].
 
 Infertility
 

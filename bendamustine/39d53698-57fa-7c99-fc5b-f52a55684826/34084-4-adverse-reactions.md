@@ -37,35 +37,19 @@ Table 1 contains the treatment emergent adverse reactions, regardless of attribu
 
 Table 1: Non- Hematologic Adverse Reactions Occurring in Randomized CLL Clinical Study in at Least 5% of Patients
 
-|  | Number (%) of patients |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | TREANDA (N=153) |  | Chlorambucil (N=143) |  |
-| Body System/ Adverse Reaction | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
-| Total number of patients with at least 1 adverse reaction | 121 (79) | 52 (34) | 96 (67) | 25 (17) |
-| Gastrointestinal disorders |  |  |  |  |
-| Nausea | 31 (20) | 1 (<1) | 21 (15) | 1 (<1) |
-| Vomiting | 24 (16) | 1 (<1) | 9 (6) | 0 |
-| Diarrhea | 14 (9) | 2 (1) | 5 (3) | 0 |
-| General disorders and administration site conditions |  |  |  |  |
-| Pyrexia | 36 (24) | 6 (4) | 8 (6) | 2 (1) |
-| Fatigue | 14 (9) | 2 (1) | 8 (6) | 0 |
-| Asthenia | 13 (8) | 0 | 6 (4) | 0 |
-| Chills | 9 (6) | 0 | 1 (<1) | 0 |
-| Immune system disorders |  |  |  |  |
-| Hypersensitivity | 7 (5) | 2 (1) | 3 (2) | 0 |
-| Infections and infestations |  |  |  |  |
-| Nasopharyngitis | 10 (7) | 0 | 12 (8) | 0 |
-| Infection | 9 (6) | 3 (2) | 1 (<1) | 1 (<1) |
-| Herpes simplex | 5 (3) | 0 | 7 (5) | 0 |
-| Investigations |  |  |  |  |
-| Weight decreased | 11 (7) | 0 | 5 (3) | 0 |
-| Metabolism and nutrition disorders |  |  |  |  |
-| Hyperuricemia | 11 (7) | 3 (2) | 2 (1) | 0 |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-| Cough | 6 (4) | 1 (<1) | 7 (5) | 1 (<1) |
-| Skin and subcutaneous tissue disorders |  |  |  |  |
-| Rash | 12 (8) | 4 (3) | 7 (5) | 3 (2) |
-| Pruritus | 8 (5) | 0 | 2 (1) | 0 |
+|  |  | Number (%) of patients |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | TREANDA (N=153) |  | Chlorambucil (N=143) |  |
+| Body System/Adverse Reaction |  | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+| Total number of patients with at least 1 adverse reaction |  | 121 (79) | 52 (34) | 96 (67) | 25 (17) |
+| Gastrointestinaldisorders Nausea Vomiting Diarrhea |  | 31 (20)24 (16)14 (9) | 1 (<1)1 (<1)2 (1) | 21 (15)9 (6)5 (3) | 1 (<1)00 |
+| General disorders andadministration site conditions Pyrexia Fatigue Asthenia Chills |  | 36 (24)14 (9)13 (8)9 (6) | 6 (4)2 (1)00 | 8 (6)8 (6)6 (4)1 (<1) | 2 (1)000 |
+| Immune systemdisorders Hypersensitivity |  | 7 (5) | 2 (1) | 3 (2) | 0 |
+| Infections and infestations Nasopharyngitis Infection Herpes simplex |  | 10 (7)9 (6)5 (3) | 03 (2)0 | 12 (8)1 (<1)7 (5) | 01 (<1)0 |
+| Investigations Weight decreased |  | 11 (7) | 0 | 5 (3) | 0 |
+| Metabolism and nutrition disorders Hyperuricemia |  | 11 (7) | 3 (2) | 2 (1) | 0 |
+| Respiratory, thoracic and mediastinal disorders Cough |  | 6 (4) | 1 (<1) | 7 (5) | 1 (<1) |
+| Skin and subcutaneous tissue disorders Rash Pruritus |  | 12 (8)8 (5) | 4 (3)0 | 7 (5)2 (1) | 3 (2)0 |
 
 The Grade 3 and 4 hematology laboratory test values by treatment group in the randomized CLL clinical study are described in Table 2.
 These findings confirm the myelosuppressive effects seen in patients treated with TREANDA.
@@ -208,6 +192,8 @@ General disorders and administration site conditions: Injection site reactions (
 Immune system disorders: Anaphylaxis
 
 Infections and infestations: Pneumocystis jiroveci pneumonia, progressive multifocal leukoencephalopathy (PML)
+
+Renal and urinary disorders: Nephrogenic diabetes insipidus (NDI)
 
 Respiratory, thoracic and mediastinal disorders: Pneumonitis
 

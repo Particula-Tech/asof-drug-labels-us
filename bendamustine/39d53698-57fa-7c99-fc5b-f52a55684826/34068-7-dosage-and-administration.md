@@ -55,7 +55,7 @@ Dose modifications for non-hematologic toxicity: for Grade 3 or greater toxicity
 
 ## 2.4 Preparation for Intravenous Administration
 
-TREANDA is a cytotoxic drug.
+TREANDA is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 TREANDA Injection (45 mg/0.5 mL or 180 mg/2 mL solution)
