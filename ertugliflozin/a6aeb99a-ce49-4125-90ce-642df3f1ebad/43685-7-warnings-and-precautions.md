@@ -75,7 +75,7 @@ Educate patients on the signs and symptoms of ketoacidosis and instruct patients
 
 ## 5.3 Lower Limb Amputation
 
-In a long-term cardiovascular outcomes study [see Clinical Studies 14.2], in patients with type 2 diabetes and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1,000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
+In a long-term cardiovascular outcomes study [see Clinical Studies (14.2)], in patients with type 2 diabetes and established cardiovascular disease, the occurrence of non-traumatic lower limb amputations was reported with event rates of 4.7, 5.7, and 6.0 events per 1,000 patient-years in the placebo, ertugliflozin 5 mg, and ertugliflozin 15 mg treatment arms, respectively.
 
 Amputation of the toe and foot were most frequent (81 out of 109 patients with lower limb amputations).
 Some patients had multiple amputations, some involving both lower limbs.

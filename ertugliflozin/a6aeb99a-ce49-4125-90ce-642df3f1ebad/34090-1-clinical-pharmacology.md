@@ -200,7 +200,7 @@ These predicted changes in exposure are not considered clinically relevant.
 
 Metformin hydrochloride
 
-Table 6: Effect of Metformin HCl on Systemic Exposure of Coadministered Drugs
+Table 4: Effect of Metformin HCl on Systemic Exposure of Coadministered Drugs
 
 | No dosing adjustments required for the following: |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -213,7 +213,7 @@ Table 6: Effect of Metformin HCl on Systemic Exposure of Coadministered Drugs
 | Propranolol | 40 mg | 850 mg | Propranolol | 1.01 | 0.94 |
 | Ibuprofen | 400 mg | 850 mg | Ibuprofen | 0.97Ratio of arithmetic means. | 1.01 |
 
-Table 7: Effect of Coadministered Drugs on Systemic Exposure of Metformin HCl
+Table 5: Effect of Coadministered Drugs on Systemic Exposure of Metformin HCl
 
 |  |  |  |  | AUCAUC is reported as AUC0-∞ unless otherwise specified. | Cmax |
 | --- | --- | --- | --- | --- | --- |
