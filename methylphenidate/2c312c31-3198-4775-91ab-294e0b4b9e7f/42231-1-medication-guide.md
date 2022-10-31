@@ -193,7 +193,7 @@ How should I store DAYTRANA?
 - Store DAYTRANA at room temperature between 68° F to 77° F (20° C to 25° C).
 - Do not store DAYTRANA in the refrigerator or freezer.
 - Keep DAYTRANA patches in their unopened pouches until you are ready to use them.
-- Use or throw away the patches within 2 months after you open the sealed tray or outer pouch.
+- Use or throw away the patches within 2 months after you open the sealed tray.
 
 Keep DAYTRANA and all medicines out of the reach of children.
 

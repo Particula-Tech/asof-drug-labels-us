@@ -134,7 +134,7 @@ Immune System Disorders: hypersensitivity reactions including skin rash, urticar
 
 Metabolism and Nutrition Disorders: anorexia and weight loss during prolonged therapy
 
-Nervous System Disorders: drowsiness, rare reports of Tourette's syndrome and toxic psychosis.
+Nervous System Disorders: drowsiness, rare reports of Tourette's syndrome and toxic psychosis
 
 Very rare reports of neuroleptic malignant syndrome (NMS) have been received, and, in most of these, patients were concurrently receiving therapies associated with NMS.
 In a single report, a ten-year-old boy who had been taking methylphenidate for approximately 18 months experienced an NMS-like event within 45 minutes of ingesting his first dose of venlafaxine.

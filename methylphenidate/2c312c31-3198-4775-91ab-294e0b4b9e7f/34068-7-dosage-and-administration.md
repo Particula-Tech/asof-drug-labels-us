@@ -63,7 +63,7 @@ Upon removal of DAYTRANA, used patches should be folded so that the adhesive sid
 If the patient stops using the prescription, each unused patch should be removed from its individual pouch, separated from the protective liner, folded onto itself, and disposed of in the same manner as used patches.
 
 The parent or caregiver should be encouraged to record on the administration chart included with each carton the time that each patch was applied and removed.
-If a patch was removed without the parent or caregiver's knowledge, or if a patch is missing from the tray or outer pouch, the parent or caregiver should be encouraged to ask the child when and how the patch was removed.
+If a patch was removed without the parent or caregiver's knowledge, or if a patch is missing from the tray, the parent or caregiver should be encouraged to ask the child when and how the patch was removed.
 
 ## 2.4 Maintenance/Extended Treatment
 
