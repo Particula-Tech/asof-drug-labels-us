@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091156"
+  ],
+  "inn": "theophylline",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-556-47"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "theophylline",
+      "name": "Theophylline"
+    }
+  ],
+  "setid": "1b685384-5d96-46fa-b93b-e96538a2cfe7",
+  "source": "dailymed"
+}

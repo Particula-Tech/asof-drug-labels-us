@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Theophylline Oral Solution, USP 80mg/15mL - NDC-62135-556-47 - 473 mL Bottle Label
