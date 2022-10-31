@@ -2,8 +2,6 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 # PATIENT INFORMATION
 
-PATIENT INFORMATION
-
 MINOCYCLINE HYDROCHLORIDE
 
 (Mi-no-syk-lin hi-droh-clor-ride) TABLETS, USP
@@ -151,6 +149,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA
 
 ​​Manufactured for:
 
-​TORRENT PHARMA INC., Levittown, PA 19057.
+​TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8083733 August 2021
+8089015 August 2022

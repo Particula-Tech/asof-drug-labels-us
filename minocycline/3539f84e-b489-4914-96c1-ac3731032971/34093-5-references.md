@@ -15,3 +15,13 @@ Clinical and Laboratory Standards Institute (CLSI).
 Performance Standards for Antimicrobial Susceptibility Testing; Twenty-sixth Informational Supplement.
 Document M100-S26, Vol. 32, No. 3, January, 2016.
 Clinical and Laboratory Standards, 940 West Valley Rd., Suite 2500, Wayne, PA 19087-1898.
+
+Manufactured by:
+
+TORRENT PHARMACEUTICALS LTD., INDIA
+
+Manufactured for:
+
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
+
+8089014 August 2022
