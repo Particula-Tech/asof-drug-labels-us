@@ -20,7 +20,7 @@ The usual duration of administration is 7 to 10 days [see Clinical Studies (14.2
 A dose of enoxaparin sodium injection of 40 mg once a day subcutaneously may be considered for hip replacement surgery for up to 3 weeks.
 Administer the initial dose 12 (±3) hours prior to surgery.
 
-Medical Patients During Acute Illness
+Medical Patients during Acute Illness
 
 The recommended dose of enoxaparin sodium injection is 40 mg once a day administered by subcutaneous injection for medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness.
 The usual duration of administration is 6 to 11 days [see Clinical Studies (14.3)].
@@ -85,7 +85,7 @@ Do not administer enoxaparin sodium injection by intramuscular injection.
 
 Administer enoxaparin sodium injection by intravenous or subcutaneous injection only.
 
-Enoxaparin sodium injection is a clear, colorless to pale yellow solution, and as with other parenteral drug products, should be inspected visually for particulate matter and discoloration prior to administration.
+Enoxaparin sodium injection is a colorless or light yellow transparent liquid, and as with other parenteral drug products, should be inspected visually for particulate matter and discoloration prior to administration.
 
 Patients may self-inject by the subcutaneous route of administration only after their physicians determine that it is appropriate and with medical follow-up, as necessary.
 Provide proper training in subcutaneous injection technique before allowing self-injection (with or without the assistance of an injection device).
@@ -94,13 +94,15 @@ Subcutaneous Injection Technique
 
 - Position patients in a supine position for enoxaparin sodium injection administration by deep subcutaneous injection.
 - Do not expel the air bubble from the prefilled syringes before the injection, to avoid the loss of drug.
+- Do not inject into skin that has bruises or scars.
+  Do not inject through clothes.
 - Alternate injection sites between the left and right anterolateral and left and right posterolateral abdominal wall.
 - Introduce the whole length of the needle into a skin fold held between the thumb and forefinger; hold the skin fold throughout the injection.
   To minimize bruising, do not rub the injection site after completion of the injection.
 
 Enoxaparin sodium injection prefilled syringes and graduated prefilled syringes are for single, one-time use only and are available with a system that shields the needle after injection.
 
-Remove the prefilled syringe from the blister packaging by peeling at the arrow as directed on the blister.
+Remove the prefilled syringe from the packaging by peeling at the arrow as directed on the lid.
 Do not remove by pulling on the plunger as this may damage the syringe.
 
 1. Remove the needle shield by pulling it straight off the syringe (see Figure A). If less than the full syringe volume is needed to administer the prescribed dose, eject syringe contents until the prescribed dose is left in the syringe.Figure A
@@ -108,7 +110,9 @@ Do not remove by pulling on the plunger as this may damage the syringe.
 3. Remove the syringe from the injection site keeping your finger on the plunger rod (see Figure C).Figure C
 4. Orient the needle away from you and others, and activate the safety system by firmly pushing the plunger rod.
    The protective sleeve will automatically cover the needle and an audible “click” will be heard to confirm shield activation (see Figure D).Figure D
-5. Immediately dispose of the syringe in the nearest sharps container (see Figure E).Figure E
+5. Immediately dispose of the syringe in the nearest sharps container (see Figure E).
+
+Figure E
 
 NOTE:
 

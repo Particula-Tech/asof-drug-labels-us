@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Enoxaparin Sodium Injection, USP is available in two concentrations:
+Enoxaparin Sodium Injection, USP is a colorless or light yellow transparent liquid available in two concentrations:
 
 100 mg per mL Concentration
 

@@ -6,7 +6,7 @@ Risk Summary
 
 Placental transfer of enoxaparin was observed in the animal studies.
 Human data from a retrospective cohort study, which included 693 live births, suggest that enoxaparin does not increase the risk of major developmental abnormalities (see Data).
-Based on animal data, enoxaparin is not predicted to increase the risk of major developmental abnormalities (see Data).
+Based on animal data, enoxaparin sodium injection is not predicted to increase the risk of major developmental abnormalities (see Data).
 
 Adverse outcomes in pregnancy occur regardless of the health of the mother or the use of medications.
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -20,29 +20,29 @@ While not adequately studied, pregnant women with mechanical prosthetic heart va
 Pregnant women with thromboembolic disease, including those with mechanical prosthetic heart valves and those with inherited or acquired thrombophilias, have an increased risk of other maternal complications and fetal loss regardless of the type of anticoagulant used.
 
 All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
-Pregnant women receiving enoxaparin should be carefully monitored for evidence of bleeding or excessive anticoagulation.
+Pregnant women receiving enoxaparin sodium injection should be carefully monitored for evidence of bleeding or excessive anticoagulation.
 Consideration for use of a shorter acting anticoagulant should be specifically addressed as delivery approaches [see Boxed Warning].
 Hemorrhage can occur at any site and may lead to death of mother and/or fetus.
-Pregnant women should be apprised of the potential hazard to the fetus and the mother if enoxaparin is administered during pregnancy.
+Pregnant women should be apprised of the potential hazard to the fetus and the mother if enoxaparin sodium injection is administered during pregnancy.
 
-It is not known if monitoring of anti-Factor Xa activity and dose adjustment (by weight or anti-Factor Xa activity) of enoxaparin sodium affect the safety and the efficacy of the drug during pregnancy.
+It is not known if monitoring of anti-Factor Xa activity and dose adjustment (by weight or anti-Factor Xa activity) of enoxaparin sodium injection affect the safety and the efficacy of the drug during pregnancy.
 
 Data
 
 Human Data
 
 There are no adequate and well-controlled studies in pregnant women.
-A retrospective study reviewed the records of 604 women who used enoxaparin during pregnancy.
+A retrospective study reviewed the records of 604 women who used enoxaparin sodium injection during pregnancy.
 A total of 624 pregnancies resulted in 693 live births.
 There were 72 hemorrhagic events (11 serious) in 63 women.
 There were 14 cases of neonatal hemorrhage.
 Major congenital anomalies in live births occurred at rates (2.5%) similar to background rates.
 
-There have been postmarketing reports of fetal death when pregnant women received enoxaparin sodium.
+There have been postmarketing reports of fetal death when pregnant women received enoxaparin sodium injection.
 Causality for these cases has not been determined.
 Insufficient data, the underlying disease, and the possibility of inadequate anticoagulation complicate the evaluation of these cases.
 
-A clinical study using enoxaparin in pregnant women with mechanical prosthetic heart valves has been conducted [see Warnings and Precautions (5.7)].
+A clinical study using enoxaparin sodium injection in pregnant women with mechanical prosthetic heart valves has been conducted [see Warnings and Precautions (5.7)].
 
 Animal Data
 
@@ -62,6 +62,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of enoxaparin sodium in pediatric patients have not been established.
+
 Enoxaparin sodium is not approved for use in neonates or infants.
 
 ## 8.5 Geriatric Use
@@ -87,8 +88,8 @@ The incidence of bleeding complications was higher in patients ≥65 years of ag
 
 ## 8.6 Patients with Mechanical Prosthetic Heart Valves
 
-The use of enoxaparin sodium has not been adequately studied for thromboprophylaxis in patients with mechanical prosthetic heart valves and has not been adequately studied for long-term use in this patient population.
-Isolated cases of prosthetic heart valve thrombosis have been reported in patients with mechanical prosthetic heart valves who have received enoxaparin for thromboprophylaxis.
+The use of enoxaparin sodium injection has not been adequately studied for thromboprophylaxis in patients with mechanical prosthetic heart valves and has not been adequately studied for long-term use in this patient population.
+Isolated cases of prosthetic heart valve thrombosis have been reported in patients with mechanical prosthetic heart valves who have received enoxaparin sodium injection for thromboprophylaxis.
 Some of these cases were pregnant women in whom thrombosis led to maternal and fetal deaths.
 Insufficient data, the underlying disease and the possibility of inadequate anticoagulation complicate the evaluation of these cases.
 Pregnant women with mechanical prosthetic heart valves may be at higher risk for thromboembolism [see Warnings and Precautions (5.7)].
@@ -99,7 +100,7 @@ In patients with renal impairment, there is an increase in exposure of enoxapari
 All such patients should be observed carefully for signs and symptoms of bleeding.
 Because exposure of enoxaparin sodium is significantly increased in patients with severe renal impairment (creatinine clearance <30 mL/min), a dosage adjustment is recommended for therapeutic and prophylactic dosage ranges.
 No dosage adjustment is recommended in patients with creatinine clearance 30 to <50 mL/min and creatinine clearance 50 to 80 mL/min [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
-In patients with renal failure, treatment with enoxaparin has been associated with the development of hyperkalemia [see Adverse Reactions (6.2)].
+In patients with renal failure, treatment with enoxaparin sodium injection has been associated with the development of hyperkalemia [see Adverse Reactions (6.2)].
 
 ## 8.8 Low-Weight Patients
 

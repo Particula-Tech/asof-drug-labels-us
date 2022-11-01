@@ -15,11 +15,18 @@ These included 1,228 for prophylaxis of deep vein thrombosis following abdominal
 Enoxaparin sodium doses in the clinical trials for prophylaxis of deep vein thrombosis following abdominal or hip or knee replacement surgery or in medical patients with severely restricted mobility during acute illness ranged from 40 mg subcutaneously once daily to 30 mg subcutaneously twice daily.
 In the clinical studies for prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction doses were 1 mg/kg every 12 hours and in the clinical studies for treatment of acute ST-segment elevation myocardial infarction enoxaparin sodium doses were a 30 mg intravenous bolus followed by 1 mg/kg every 12 hours subcutaneously.
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+During clinical development for the approved indications, 15,918 patients were exposed to enoxaparin sodium.
+These included 1,228 for prophylaxis of deep vein thrombosis following abdominal surgery in patients at risk for thromboembolic complications, 1,368 for prophylaxis of deep vein thrombosis following hip or knee replacement surgery, 711 for prophylaxis of deep vein thrombosis in medical patients with severely restricted mobility during acute illness, 1,578 for prophylaxis of ischemic complications in unstable angina and non-Q-wave myocardial infarction, 10,176 for treatment of acute ST-elevation myocardial infarction, and 857 for treatment of deep vein thrombosis with or without pulmonary embolism.
+Enoxaparin sodium doses in the clinical trials for prophylaxis of deep vein thrombosis following abdominal or hip or knee replacement surgery or in medical patients with severely restricted mobility during acute illness ranged from 40 mg subcutaneously once daily to 30 mg subcutaneously twice daily.
+In the clinical studies for prophylaxis of ischemic complications of unstable angina and non-Q-wave myocardial infarction doses were 1 mg/kg every 12 hours and in the clinical studies for treatment of acute ST-segment elevation myocardial infarction enoxaparin sodium doses were a 30 mg intravenous bolus followed by 1 mg/kg every 12 hours subcutaneously.
+
 Hemorrhage
 
 The following rates of major bleeding events have been reported during clinical trials with enoxaparin sodium (see Tables 2 to 7).
 
-Table 2: Major Bleeding Episodes Following Abdominal and Colorectal Surgery*
+Table 2: Major Bleeding Episodes following Abdominal and Colorectal Surgery*
 
 | Indications | Dosing Regimen |  |
 | --- | --- | --- |
@@ -28,16 +35,16 @@ Table 2: Major Bleeding Episodes Following Abdominal and Colorectal Surgery*
 | Colorectal Surgery | n=673 28 (4%) | n=674 21 (3%) |
 | * Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major. |  |  |
 
-Table 3: Major Bleeding Episodes Following Hip or Knee Replacement Surgery*
+Table 3: Major Bleeding Episodes following Hip or Knee Replacement Surgery*
 
 | Indications | Dosing Regimen |  |  |
 | --- | --- | --- | --- |
 | Enoxaparin Sodium 40 mg daily subcutaneously | Enoxaparin Sodium 30 mg q12h subcutaneously | Heparin 15,000 U/24h subcutaneously |  |
-| Hip Replacement Surgery without Extended Prophylaxis† |  | n=786 31 (4%) | n=541 32 (6%) |
-| Hip Replacement Surgery with Extended Prophylaxis |  |  |  |
-| Peri-operative Period‡ | n=288 4 (2%) |  |  |
-| Extended Prophylaxis Period§ | n=221 0 (0%) |  |  |
-| Knee Replacement Surgery without Extended Prophylaxis† |  | n=294 3 (1%) | n=225 3 (1%) |
+| Hip Replacement Surgery without Extended Prophylaxis† | - | n=786 31 (4%) | n=541 32 (6%) |
+| Hip Replacement Surgery with Extended Prophylaxis | - | - | - |
+| Peri-operative Period‡ | n=288 4 (2%) | - | - |
+| Extended Prophylaxis Period§ | n=221 0 (0%) | - | - |
+| Knee Replacement Surgery without Extended Prophylaxis† | - | n=294 3 (1%) | n=225 3 (1%) |
 | * Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal and intracranial hemorrhages were always considered major. In the knee replacement surgery trials, intraocular hemorrhages were also considered major hemorrhages. |  |  |  |
 | † Enoxaparin sodium 30 mg every 12 hours subcutaneously initiated 12 to 24 hours after surgery and continued for up to 14 days after surgery |  |  |  |
 | ‡ Enoxaparin sodium 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery |  |  |  |
@@ -46,12 +53,12 @@ Table 3: Major Bleeding Episodes Following Hip or Knee Replacement Surgery*
 NOTE: At no time point were the 40 mg once a day pre-operative and the 30 mg every 12 hours postoperative hip replacement surgery prophylactic regimens compared in clinical trials.
 Injection site hematomas during the extended prophylaxis period after hip replacement surgery occurred in 9% of the enoxaparin sodium patients versus 1.8% of the placebo patients.
 
-Table 4: Major Bleeding Episodes in Medical Patients with Severely Restricted Mobility During Acute Illness*
+Table 4: Major Bleeding Episodes in Medical Patients with Severely Restricted Mobility during Acute Illness*
 
 | Indication | Dosing Regimen |  |  |
 | --- | --- | --- | --- |
 | Enoxaparin Sodium† 20 mg daily subcutaneously | Enoxaparin Sodium† 40 mg daily subcutaneously | Placebo† |  |
-| Medical Patients During Acute Illness | n=351 1 (<1%) | n=360 3 (<1%) | n=362 2 (<1%) |
+| Medical Patients during Acute Illness | n=351 1 (<1%) | n=360 3 (<1%) | n=362 2 (<1%) |
 | * Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, (2) if the hemorrhage caused a decrease in hemoglobin of ≥2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal and intracranial hemorrhages were always considered major although none were reported during the trial. |  |  |  |
 | † The rates represent major bleeding on study medication up to 24 hours after last dose. |  |  |  |
 
@@ -82,7 +89,7 @@ Table 7: Major Bleeding Episodes in Acute ST-Segment Elevation Myocardial Infarc
 | Acute ST-Segment Elevation Myocardial Infarction | n=10176 n (%) | n=10151 n (%) |
 | Major bleeding (including ICH)† | 211 (2.1) | 138 (1.4) |
 | Intracranial hemorrhages (ICH) | 84 (0.8) | 66 (0.7) |
-| * The rates represent major bleeding (including ICH) up to 30 days |  |  |
+| * The rates represent major bleeding (including ICH) up to 30 days. |  |  |
 | † Bleedings were considered major if the hemorrhage caused a significant clinical event associated with a hemoglobin decrease by ≥5 g/dL. ICH were always considered major. |  |  |
 
 Elevations of Serum Aminotransferases
@@ -122,14 +129,14 @@ Table 9: Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium-Tre
 | Adverse Reaction | Severe | Total | Severe | Total | Severe | Total | Severe | Total | Severe | Total |
 | Fever | 0 | 8 | 0 | 0 | <1 | 5 | <1 | 4 | 0 | 3 |
 | Hemorrhage | <1 | 13 | 0 | 5 | <1 | 4 | 1 | 4 | 0 | 3 |
-| Nausea |  |  |  |  | <1 | 3 | <1 | 2 | 0 | 2 |
+| Nausea | - | - | - |  | <1 | 3 | <1 | 2 | 0 | 2 |
 | Anemia | 0 | 16 | 0 | <2 | <1 | 2 | 2 | 5 | <1 | 7 |
-| Edema |  |  |  |  | <1 | 2 | <1 | 2 | 0 | 2 |
+| Edema | - | - | - | - | <1 | 2 | <1 | 2 | 0 | 2 |
 | Peripheral edema | 0 | 6 | 0 | 0 | <1 | 3 | <1 | 4 | 0 | 3 |
 | * Data represent enoxaparin sodium 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery in 288 hip replacement surgery patients who received enoxaparin sodium peri-operatively in an unblinded fashion in one clinical trial. |  |  |  |  |  |  |  |  |  |  |
 | † Data represent enoxaparin sodium 40 mg subcutaneously once a day given in a blinded fashion as extended prophylaxis at the end of the peri-operative period in 131 of the original 288 hip replacement surgery patients for up to 21 days in one clinical trial. |  |  |  |  |  |  |  |  |  |  |
 
-Table 10: Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium-Treated Medical Patients with Severely Restricted Mobility During Acute Illness
+Table 10: Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium-Treated Medical Patients with Severely Restricted Mobility during Acute Illness
 
 | Adverse Reaction | Dosing Regimen |  |
 | --- | --- | --- |

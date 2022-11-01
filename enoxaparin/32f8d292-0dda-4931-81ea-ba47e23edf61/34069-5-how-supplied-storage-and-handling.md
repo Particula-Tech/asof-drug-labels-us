@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Enoxaparin Sodium Injection, USP is supplied in two concentrations as follows:
+Enoxaparin Sodium Injection, USP is supplied in two concentrations (see table 26 and 27).
 
-| 100 mg per mL Concentration |  |  |  |  |
+| Table 26: 100 mg per mL Concentration |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | NDC | Strength* | Anti-Xa Activity† | Label Color | Package Factor |
 | 16714-006-10 | 30 mg per 0.3 mL Single-Dose Prefilled Syringe with Automatic Safety Device‡ | 3,000 IU | Light Blue | 10 syringes per carton |
@@ -14,7 +14,7 @@ Enoxaparin Sodium Injection, USP is supplied in two concentrations as follows:
 | † Approximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. |  |  |  |  |
 | ‡ Each Enoxaparin Sodium Injection, USP prefilled syringe is for single, one-time use only and is affixed with a 27 gauge x 1/2 inch needle. |  |  |  |  |
 
-| 150 mg per mL Concentration |  |  |  |  |
+| Table 27: 150 mg per mL Concentration |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | NDC | Strength* | Anti-Xa Activity† | Label Color | Package Factor |
 | 16714-056-10 | 120 mg per 0.8 mL Single-Dose Graduated Prefilled Syringe with Automatic Safety Device‡ | 12,000 IU | Purple | 10 syringes per carton |
@@ -23,10 +23,9 @@ Enoxaparin Sodium Injection, USP is supplied in two concentrations as follows:
 | † Approximate anti-Factor Xa activity based on reference to the W.H.O. First International Low Molecular Weight Heparin Reference Standard. |  |  |  |  |
 | ‡ Each Enoxaparin Sodium Injection, USP graduated prefilled syringe is for single, one-time use only and is affixed with a 27 gauge x 1/2 inch needle. |  |  |  |  |
 
-Storage Conditions
-
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
 [See USP Controlled Room Temperature.]
+Store in the original carton or packaging until ready to use.
 
 WARNING: Keep out of the reach of children.
 
