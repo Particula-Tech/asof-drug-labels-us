@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS & STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 Olanzapine tablets USP 2.5 mg are white to off white colored, film-coated, round shaped, biconvex tablets, imprinted “2.5” with black ink on one side and plain on the other side.
 

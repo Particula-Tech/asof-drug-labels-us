@@ -6,14 +6,15 @@ The risks of using olanzapine in combination with other drugs have not been exte
 
 Diazepam — The co-administration of diazepam with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
-Cimetidine and Antacids — Single doses of cimetidine (800 mg) or aluminum- and magnesium-containing antacids did not affect the oral bioavailability of olanzapine.
+Cimetidine and Antacids — Single doses of cimetidine (800 mg) or aluminum-and magnesium-containing antacids did not affect the oral bioavailability of olanzapine.
 
 Inducers of CYP1A2 — Carbamazepine therapy (200 mg bid) causes an approximately 50% increase in the clearance of olanzapine.
 This increase is likely due to the fact that carbamazepine is a potent inducer of CYP1A2 activity.
+
 Higher daily doses of carbamazepine may cause an even greater increase in olanzapine clearance.
 
 Alcohol — Ethanol (45 mg/70 kg single dose) did not have an effect on olanzapine pharmacokinetics.
-The co-administration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
+The co- administration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
 Inhibitors of CYP1A2
 
@@ -35,6 +36,11 @@ Inducers of CYP1A2 or Glucuronyl Transferase — Omeprazole and rifampin may cau
 Charcoal — The administration of activated charcoal (1 g) reduced the Cmax and AUC of oral olanzapine by about 60%.
 As peak olanzapine levels are not typically obtained until about 6 hours after dosing, charcoal may be a useful treatment for olanzapine overdose.
 
+Anticholinergic Drugs — Concomitant treatment with olanzapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
+Olanzapine
+
+should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.14)].
+
 ## 7.2 Potential for Olanzapine to Affect Other Drugs
 
 CNS Acting Drugs — Given the primary CNS effects of olanzapine, caution should be used when olanzapine is taken in combination with other centrally acting drugs and alcohol.
@@ -43,14 +49,11 @@ Antihypertensive Agents — Olanzapine, because of its potential for inducing hy
 
 Levodopa and Dopamine Agonists — Olanzapine may antagonize the effects of levodopa and dopamine agonists.
 
-Lorazepam (IM) — Administration of intramuscular lorazepam (2 mg) 1 hour after intramuscular olanzapine for injection (5 mg) did not significantly affect the pharmacokinetics of olanzapine, unconjugated lorazepam, or total lorazepam.
-However, this co-administration of intramuscular lorazepam and intramuscular olanzapine for injection added to the somnolence observed with either drug alone [see Warnings and Precautions (5.6)].
-
 Lithium — Multiple doses of olanzapine (10 mg for 8 days) did not influence the kinetics of lithium.
-Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [see Warnings and Precautions (5.14)].
+Therefore, concomitant olanzapine administration does not require dosage adjustment of lithium [see Warnings and Precautions (5.16)].
 
 Valproate — Olanzapine (10 mg daily for 2 weeks) did not affect the steady state plasma concentrations of valproate.
-Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate [see Warnings and Precautions (5.14)].
+Therefore, concomitant olanzapine administration does not require dosage adjustment of valproate [see Warnings and Precautions (5.16)].
 
 Effect of Olanzapine on Drug Metabolizing Enzymes — In vitro studies utilizing human liver microsomes suggest that olanzapine has little potential to inhibit CYP1A2, CYP2C9, CYP2C19, CYP2D6, and CYP3A.
 Thus, olanzapine is unlikely to cause clinically important drug interactions mediated by these enzymes.

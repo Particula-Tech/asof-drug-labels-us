@@ -6,9 +6,9 @@ Olanzapine tablets 2.5 mg USP
 
 White to off white colored, film-coated, round shaped, biconvex tablets, imprinted “2.5” with black ink on one side and plain on the other side.
 
-Carton pack of 30 tablets (3 x 10’s Alu-Alu pack) NDC 67877-172-85
+Carton pack of 30 (3 x 10 Unit-dose) tablets NDC 67877-172-85
 
-Carton pack of 100 tablets (10 x 10’s Alu-Alu pack) NDC 67877-172-35
+Carton pack of 100 (10 x 10 Unit-dose) tablets NDC 67877-172-35
 
 Bottles of 7 tablets NDC 67877-172-32
 
@@ -22,9 +22,9 @@ Olanzapine tablets5 mg USP
 
 White to off white colored film-coated, round shaped, biconvex tablets, imprinted “5” with black ink on one side and plain on the other side.
 
-Carton pack of 30 tablets (3 x 10’s Alu-Alu pack) NDC 67877-173-85
+Carton pack of 30 (3 x 10 Unit-dose) tablets NDC 67877-173-85
 
-Carton pack of 100 tablets (10 x 10’s Alu-Alu pack) NDC 67877-173-35
+Carton pack of 100 (10 x 10 Unit-dose) tablets NDC 67877-173-35
 
 Bottles of 7 tablets NDC 67877-173-32
 
@@ -38,9 +38,9 @@ Olanzapine tablets7.5 mg USP
 
 White to off white colored, film-coated, round shaped, biconvex tablets, imprinted “7.5” with black ink on one side and plain on the other side.
 
-Carton pack of 30 tablets (3 x 10’s Alu-Alu pack) NDC 67877-174-85
+Carton pack of 30 (3 x 10 Unit-dose) tablets NDC 67877-174-85
 
-Carton pack of 100 tablets (10 x 10’s Alu-Alu pack) NDC 67877-174-35
+Carton pack of 100 (10 x 10 Unit-dose) tablets NDC 67877-174-35
 
 Bottles of 7 tablets NDC 67877-174-32
 
@@ -54,9 +54,9 @@ Olanzapine tablets10 mg USP
 
 White to off white colored, film-coated, round shaped, biconvex tablets, imprinted “10” with black ink on one side and plain on the other side.
 
-Carton pack of 30 tablets (3 x 10’s Alu-Alu pack) NDC 67877-175-85
+Carton pack of 30 (3 x 10 Unit-dose) tablets NDC 67877-175-85
 
-Carton pack of 100 tablets (10 x 10’s Alu-Alu pack) NDC 67877-175-35
+Carton pack of 100 (10 x 10 Unit-dose) tablets NDC 67877-175-35
 
 Bottles of 7 tablets NDC 67877-175-32
 
@@ -70,9 +70,9 @@ Olanzapine tablets 15 mg USP
 
 Blue colored, film-coated, elliptical shaped, biconvex tablets, imprinted “15” with black ink on one side and plain on the other side.
 
-Carton pack of 30 tablets (3 x 10’s Alu-Alu pack) NDC 67877-176-85
+Carton pack of (3 x 10 Unit-dose) tablets NDC 67877-176-85
 
-Carton pack of 100 tablets (10 x 10’s Alu-Alu pack) NDC 67877-176-35
+Carton pack of 100 (10 x 10 Unit-dose) tablets NDC 67877-176-35
 
 Bottles of 7 tablets NDC 67877-176-32
 
@@ -86,9 +86,9 @@ Olanzapine tablets USP 20 mg
 
 Pink colored, film-coated, elliptical shaped, biconvex tablets, imprinted “20” with black ink on one side and plain on the other side.
 
-Carton pack of 30 tablets (3 x 10’s Alu-Alu pack) NDC 67877-177-85
+Carton pack of 30 (3 x 10 Unit-dose) tablets NDC 67877-177-85
 
-Carton pack of 100 tablets (10 x 10’s Alu-Alu pack) NDC 67877-177-35
+Carton pack of 100 (10 x 10 Unit-dose) tablets NDC 67877-177-35
 
 Bottles of 7 tablets NDC 67877-177-32
 
