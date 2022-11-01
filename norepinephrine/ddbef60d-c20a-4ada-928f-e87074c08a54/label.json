@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA215700"
+  ],
+  "inn": "norepinephrine",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-640-01",
+    "44567-640-10",
+    "44567-641-01",
+    "44567-641-10",
+    "44567-642-01",
+    "44567-642-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "norepinephrine bitartrate",
+      "name": "NOREPINEPHRINE BITARTRATE"
+    }
+  ],
+  "setid": "ddbef60d-c20a-4ada-928f-e87074c08a54",
+  "source": "dailymed"
+}
