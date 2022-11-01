@@ -163,7 +163,5 @@ This Patient Information and Instructions for Use have been approved by the U.S.
 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
-1-888-838-2872
-
-Iss.
-9/2019
+Rev.
+A 9/2022

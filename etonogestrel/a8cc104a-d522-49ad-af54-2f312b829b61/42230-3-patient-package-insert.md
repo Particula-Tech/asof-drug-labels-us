@@ -282,10 +282,12 @@ Inactive ingredients: ethylene vinylacetate copolymers (28% and 9% vinylacetate)
 
 Etonogestrel and ethinyl estradiol vaginal ring is not made with natural rubber latex.
 
-Do Hormonal Birth Control Methods Cause Cancer?
+Does hormonal birth control cause cancer?
 
-Hormonal birth control methods do not seem to cause breast cancer.
-However, if you have breast cancer now or have had it in the past, do not use hormonal birth control, including etonogestrel and ethinyl estradiol vaginal ring, because some breast cancers are sensitive to hormones.
+It is not known if hormonal birth control causes breast cancer.
+Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
+
+If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.
 
 Women who use hormonal birth control methods may have a slightly higher chance of getting cervical cancer.
 However, this may be due to other reasons such as having more sexual partners.
@@ -316,7 +318,5 @@ Consider a visit with your healthcare provider for a pre-pregnancy checkup befor
 
 Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
-1-888-838-2872
-
-Iss.
-9/2019
+Rev.
+A 9/2022
