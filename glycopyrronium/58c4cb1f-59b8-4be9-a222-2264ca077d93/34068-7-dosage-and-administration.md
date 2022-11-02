@@ -1,12 +1,12 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE & ADMINISTRATION
 
-The dosage of Glycopyrrolate Tablets USP, 1 mg or Glycopyrrolate Tablets USP, 2 mg should be adjusted to the needs of the individual patient to assure symptomatic control with a minimum of adverse reactions.
-The presently recommended maximum daily dosage of glycopyrrolate is 8 mg.
-Glycopyrrolate Tablets USP, 1 mg.
-The recommended initial dosage of Glycopyrrolate Tablets USP, 1 mg for adults is one tablet three times daily (in the morning, early afternoon, and at bedtime).
-Some patients may require two tablets at bedtime to assure overnight control of symptoms.
-For maintenance, a dosage of one tablet twice a day is frequently adequate.
-Glycopyrrolate Tablets USP, 2 mg.
-The recommended dosage of Glycopyrrolate Tablets USP, 2 mg for adults is one tablet two or three times daily at equally spaced intervals.
-Glycopyrrolate Tablets are not recommended for use in pediatric patients under the age of 12 years.
-DRUG INTERACTIONS There are no known drug interactions.
+## 2.1 Important Dosing Information
+
+• Glycopyrrolate is not recommended for patients in whom a lower dosage strength of oral glycopyrrolate (e.g., glycopyrrolate or another 1 mg tablet strength) is appropriate for initial or maintenance treatment because the dosage strength of glycopyrrolate may exceed the recommended initial and maintenance dosage of oral glycopyrrolate tablets.
+
+## 2.2 Recommended Dosage
+
+• The recommended initial dosage of glycopyrrolate for adults is 1 mg three times daily (in the morning, early afternoon, and at bedtime).
+Some patients may require 2 mg at bedtime to assure overnight control of symptoms.
+For maintenance, a dosage of 1 mg twice a day is frequently adequate. • The recommended dosage of glycopyrrolate for adults is 2 mg two or three times daily at equally spaced intervals. • The maximum recommended daily dosage of glycopyrrolate is 8 mg. • Use the lowest effective dosage of glycopyrrolate to control symptoms.
+If patients can be titrated to a lower dose, switch from glycopyrrolate or another 1 mg oral tablet of glycopyrrolate.
