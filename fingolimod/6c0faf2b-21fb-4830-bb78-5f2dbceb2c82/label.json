@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208003"
+  ],
+  "inn": "fingolimod",
+  "labeler": "Solco Healthcare US, LLC",
+  "package_ndcs": [
+    "43547-003-03",
+    "43547-003-09"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "fingolimod",
+      "name": "FINGOLIMOD"
+    }
+  ],
+  "setid": "6c0faf2b-21fb-4830-bb78-5f2dbceb2c82",
+  "source": "dailymed"
+}
