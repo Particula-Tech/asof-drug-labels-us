@@ -1,9 +1,5 @@
-Manufactured by: Celgene Corporation A Wholly Owned Subsidiary of Bristol-Myers Squibb 86 Morris Avenue Summit, NJ 07901
+Marketed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-ONUREG® is a registered trademark of Celgene Corporation.
+ONUREG® is a trademark of Celgene Corporation, a Bristol-Myers Squibb company.
 
-© 2020 Celgene Corporation.
-
-All Rights Reserved.
-
-ONUPI.003
+ONUPI.004

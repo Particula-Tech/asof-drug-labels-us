@@ -18,12 +18,12 @@ Delay the start of the cycle until the ANC is 0.5 Gi/L or more.
 
 Instruct patients on the following:
 
-- Swallow tablets whole.
+- •Swallow tablets whole.
   Do not cut, crush, or chew the tablets.
-- Take a dose about the same time each day.
-- If a dose of ONUREG is missed, or not taken at the usual time, take the dose as soon as possible on the same day, and resume the normal schedule the following day.
+- •Take a dose about the same time each day.
+- •If a dose of ONUREG is missed, or not taken at the usual time, take the dose as soon as possible on the same day, and resume the normal schedule the following day.
   Do not take 2 doses on the same day.
-- If a dose is vomited, do not take another dose on the same day.
+- •If a dose is vomited, do not take another dose on the same day.
   Resume the normal schedule the following day.
 
 ONUREG is a hazardous drug.
@@ -40,9 +40,9 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions
 
 | Adverse Reaction | Severity | Recommended Dosage Modification |
 | --- | --- | --- |
-| Myelosuppression [see Warnings and Precautions (5.2)] | Neutrophils less than 0.5 Gi/L on Cycle Day 1 | Interrupt treatment. Resume at the same dose once neutrophils return to 0.5 Gi/L or higher. |
-| Neutrophils less than 1 Gi/L with fever at anytime | First Occurrence Interrupt treatment. Resume at the same dose once neutrophils return to 1 Gi/L or higher. Occurrence in 2 Consecutive Cycles Interrupt treatment. After neutrophils return to 1 Gi/L or higher, resume at reduced dose of 200 mg.If a patient continues to experience febrile neutropenia after dose reduction, reduce the treatment duration by 7 days.If febrile neutropenia reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
-| Platelets less than 50 Gi/L with bleeding | First Occurrence Interrupt dose. Resume at the same dose once platelets return to 50 Gi/L or higher. Occurrence in 2 Consecutive Cycles Interrupt dose. After platelets return to 50 Gi/L or higher, resume at reduced dose of 200 mg.If a patient continues to experience thrombocytopenia with bleeding after dose reduction, reduce the treatment duration by 7 days.If thrombocytopenia with bleeding reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
-| Gastrointestinal Toxicity [see Adverse Reactions (6.1)] | Grade 3 or 4 Nausea or Vomiting | Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower.If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |
-| Grade 3 or 4 Diarrhea | Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower.If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
-| Other Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 or 4 | Interrupt dose and provide medical support. Resume at the same dose once toxicity has resolved to Grade 1 or lower.If toxicity re-occurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |
+| Myelosuppression [see Warnings and Precautions (5.2)] | Neutrophils less than 0.5 Gi/L on Cycle Day 1 | •Interrupt treatment. Resume at the same dose once neutrophils return to 0.5 Gi/L or higher. |
+| Neutrophils less than 1 Gi/L with fever at anytime | First Occurrence •Interrupt treatment. Resume at the same dose once neutrophils return to 1 Gi/L or higher. Occurrence in 2 Consecutive Cycles •Interrupt treatment. After neutrophils return to 1 Gi/L or higher, resume at reduced dose of 200 mg.•If a patient continues to experience febrile neutropenia after dose reduction, reduce the treatment duration by 7 days.•If febrile neutropenia reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
+| Platelets less than 50 Gi/L with bleeding | First Occurrence •Interrupt dose. Resume at the same dose once platelets return to 50 Gi/L or higher. Occurrence in 2 Consecutive Cycles •Interrupt dose. After platelets return to 50 Gi/L or higher, resume at reduced dose of 200 mg.•If a patient continues to experience thrombocytopenia with bleeding after dose reduction, reduce the treatment duration by 7 days.•If thrombocytopenia with bleeding reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
+| Gastrointestinal Toxicity [see Adverse Reactions (6.1)] | Grade 3 or 4 Nausea or Vomiting | •Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower.•If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.•If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.•If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |
+| Grade 3 or 4 Diarrhea | •Interrupt dose. Resume at the same dose once toxicity has resolved to Grade 1 or lower.•If toxicity reoccurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.•If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.•If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |  |
+| Other Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 or 4 | •Interrupt dose and provide medical support. Resume at the same dose once toxicity has resolved to Grade 1 or lower.•If toxicity re-occurs, interrupt dose until resolved to Grade 1 or lower. Resume at reduced dose of 200 mg.•If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days.•If the toxicity continues or reoccurs after dose and schedule reduction, discontinue ONUREG. |
