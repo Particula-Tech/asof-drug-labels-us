@@ -1,8 +1,8 @@
 # Medication Guide
 
-Clopidogrel Bisulfate Tablets, USP 75 mg and 300 mg
+Clopidogrel Tablets, USP 75 mg and 300 mg
 
-(kloe pid’ oh grel bye sul’ fate)
+(kloe pid’ oh grel)
 
 Medication Guide available at www1.apotex.com/products/us
 
@@ -44,7 +44,7 @@ If you must stop clopidogrel tablets because of bleeding, your risk of a heart a
 
 What are clopidogrel tablets?
 
-Clopidogrel bisulfate tablets are a prescription medicine used to treat people who have any of the following:
+Clopidogrel tablets are a prescription medicine used to treat people who have any of the following:
 
 - chest pain due to heart problems
 - poor circulation in their legs (peripheral arterial disease)
@@ -96,12 +96,13 @@ Especially tell your doctor if you take:
 
 - aspirin, especially if you have had a stroke.
   Always talk to your doctor about whether you should take aspirin along with clopidogrel to treat your condition.
-- Non-steroidal anti-inflammatory drugs (NSAIDs).
+- nonsteroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
 - warfarin (Coumadin®, Jantoven®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 - rifampin (used to treat severe infections)
+- other antiplatelet agents
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -116,7 +117,7 @@ How should I take clopidogrel tablets?
   If it is almost time for your next dose, skip the missed dose.
   Take the next dose at your regular time.
   Do not take 2 doses of clopidogrel tablets at the same time unless your doctor tells you to.
-- If you take too much clopidogrel, call your doctor or go to the nearest emergency room right away.
+- If you take too much clopidogrel tablets, call your doctor or go to the nearest emergency room right away.
 - Talk with your doctor about stopping your clopidogrel tablets before you have surgery.
   Your doctor may tell you to stop taking clopidogrel tablets at least 5 days before you have surgery to avoid excessive bleeding during surgery.
 
@@ -128,8 +129,8 @@ Clopidogrel tablets can cause serious side effects including:
 - A blood clotting problem called Thrombotic Thrombocytopenic Purpura (TTP).
   TTP can happen with clopidogrel, sometimes after a short time (less than 2 weeks).
   TTP is a blood clotting problem where blood clots form in blood vessels; and can happen anywhere in the body.
-  TTP needs to be treated in a hospital right away, because it may cause death.
-  Get medical help right away if you have any of these symptoms and they can not be explained by another medical condition:
+  TTP needs to be treated in a hospital right away because it may cause death.
+  Get medical help right away if you have any of these symptoms and they cannot be explained by another medical condition:
   - purplish spots (called purpura) on the skin or in the mouth (mucous membranes) due to bleeding under the skin
   - your skin or the whites of your eyes are yellow (jaundice)
   - you feel tired or weak
@@ -146,8 +147,7 @@ Clopidogrel tablets can cause serious side effects including:
   - stomach area (abdominal) pain
   - nausea, vomiting, or diarrhea
   - vision changes
-
-- Persistent low blood sugar symptoms
+  - persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
 
@@ -164,7 +164,7 @@ How should I store clopidogrel tablets?
 - Store clopidogrel tablets at 59°F to 86°F (15°C to 30°C).
   Protect from moisture.
 
-Keep clopidogrel and all medicines out of the reach of children.
+Keep clopidogrel tablets and all medicines out of the reach of children.
 
 General information about clopidogrel tablets
 
@@ -175,7 +175,7 @@ It may harm them.
 
 This Medication Guide summarizes the most important information about clopidogrel tablets.
 If you would like more information, talk to your doctor.
-Ask your doctor or pharmacist for information about clopidogrel that was written for healthcare professionals.
+Ask your doctor or pharmacist for information about clopidogrel tablets that was written for healthcare professionals.
 
 For more information, go to www.apotex.com or call 1-800-706-5575.
 
@@ -203,7 +203,7 @@ CLOPIDOGREL TABLETS, USP 75 mg and 300 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: September 2021
+Revised: October 2022
 
 Rev.
-28
+29

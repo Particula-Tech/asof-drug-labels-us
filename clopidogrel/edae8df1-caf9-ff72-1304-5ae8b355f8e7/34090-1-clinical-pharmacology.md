@@ -63,7 +63,7 @@ In the 75 to 300 mg dose range, the pharmacokinetics of the active metabolite de
 
 Elimination
 
-Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post-dosing.
+Following an oral dose of 14C-labeled clopidogrel in humans, approximately 50% of total radioactivity was excreted in urine and approximately 46% in feces over the 5 days post dosing.
 After a single, oral dose of 75 mg, clopidogrel has a half-life of approximately 6 hours.
 The half-life of the active metabolite is about 30 minutes.
 
@@ -78,7 +78,7 @@ CYP2C19 inducers
 Concomitant use of strong inducers of CYP2C19 results in increased plasma concentration of the active metabolite of clopidogrel and an increase in platelet inhibition.
 
 Rifampin: Coadministration of rifampin 300 mg twice daily for 7 days with 600 mg loading dose of clopidogrel in healthy adults increased the mean AUC and Cmax of clopidogrel’s thiol metabolites by 3.8-fold.
-Mean inhibition of platelet aggregation at 4 hours post-dose was 34% higher in the presence of rifampin compared to clopidogrel administered alone.
+Mean inhibition of platelet aggregation at 4 hours post dose was 34% higher in the presence of rifampin compared to clopidogrel administered alone.
 
 CYP2C19 inhibitors
 
@@ -96,7 +96,7 @@ Coadministration of 5 mg intravenous morphine with 600 mg loading dose of clopid
 Mean platelet aggregation was higher up to 2 to 4 hours with morphine coadministration.
 
 Effect of clopidogrel on other drugs In vitro studies have shown that the glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
-Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.7)].
+Concomitant administration of repaglinide with clopidogrel increased the systemic exposure to repaglinide (AUC0-∞) by 5.1-fold following the loading dose (300 mg) and by 3.9-fold on day 3 of the maintenance dose (75 mg) of clopidogrel [see Drug Interactions (7.8)].
 
 ## 12.5 Pharmacogenomics
 

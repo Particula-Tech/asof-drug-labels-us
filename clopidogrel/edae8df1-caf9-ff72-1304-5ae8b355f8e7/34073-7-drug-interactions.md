@@ -14,10 +14,10 @@ Concomitant use of drugs that inhibit the activity of this enzyme results in red
 
 Omeprazole or Esomeprazole
 
-Avoid concomitant use of clopidogrel bisulfate with omeprazole or esomeprazole.
-In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of clopidogrel bisulfate when given concomitantly or 12 hours apart.
-A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with clopidogrel bisulfate.
-Dexlansoprazole, lansoprazole, and pantoprazole had less effect on the antiplatelet activity of clopidogrel bisulfate than did omeprazole or esomeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Avoid concomitant use of clopidogrel with omeprazole or esomeprazole.
+In clinical studies, omeprazole was shown to reduce significantly the antiplatelet activity of clopidogrel when given concomitantly or 12 hours apart.
+A similar reduction in antiplatelet activity was observed with esomeprazole when given concomitantly with clopidogrel.
+Dexlansoprazole, lansoprazole, and pantoprazole had less effect on the antiplatelet activity of clopidogrel than did omeprazole or esomeprazole [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 ## 7.3 Opioids
 
@@ -26,11 +26,11 @@ Consider the use of a parenteral antiplatelet agent in acute coronary syndrome p
 
 ## 7.4 Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
-Coadministration of clopidogrel bisulfate and NSAIDs increases the risk of gastrointestinal bleeding.
+Coadministration of clopidogrel and NSAIDs increases the risk of gastrointestinal bleeding.
 
 ## 7.5 Warfarin (CYP2C9 Substrates)
 
-Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of clopidogrel bisulfate with warfarin increases the risk of bleeding because of independent effects on hemostasis.
+Although the administration of clopidogrel 75 mg per day did not modify the pharmacokinetics of S-warfarin (a CYP2C9 substrate) or INR in patients receiving long-term warfarin therapy, coadministration of clopidogrel with warfarin increases the risk of bleeding because of independent effects on hemostasis.
 
 However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 
@@ -38,7 +38,12 @@ However, at high concentrations in vitro, clopidogrel inhibits CYP2C9.
 
 Since selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) affect platelet activation, the concomitant administration of SSRIs and SNRIs with clopidogrel may increase the risk of bleeding.
 
-## 7.7 Repaglinide (CYP2C8 Substrates)
+## 7.7 Other Antiplatelet Agents
+
+Coadministration of antiplatelet agents increase the risk of bleeding due to an additive effect.
+Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with other antiplatelet agents [see Warnings and Precautions (5.2)].
+
+## 7.8 Repaglinide (CYP2C8 Substrates)
 
 The acyl-β-glucuronide metabolite of clopidogrel is a strong inhibitor of CYP2C8.
 Clopidogrel can increase the systemic exposure to drugs that are primarily cleared by CYP2C8, thereby needing dose adjustment and appropriate monitoring.

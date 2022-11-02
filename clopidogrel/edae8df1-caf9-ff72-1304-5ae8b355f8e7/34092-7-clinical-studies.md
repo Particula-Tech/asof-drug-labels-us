@@ -11,10 +11,10 @@ Patients were randomized to receive clopidogrel (300 mg loading dose followed by
 Patients also received aspirin (75 to 325 mg once daily) and other standard therapies such as heparin.
 The use of GPIIb/IIIa inhibitors was not permitted for three days prior to randomization.
 
-The patient population was largely White (82%) and included 38% women, and 52% age ≥ 65 years of age.
+The patient population was largely White (82%) and included 38% women, and 52% age ≥65 years of age.
 Only about 20% of patients underwent revascularization during the initial hospitalization and few underwent emergent or urgent revascularization.
 
-The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p < 0.001) for the clopidogrel-treated group (see Table 4).
+The number of patients experiencing the primary outcome (CV death, MI, or stroke) was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10% to 28%; p <0.001) for the clopidogrel-treated group (see Table 4).
 
 Table 4: Outcome Events in the CURE Primary Analysis
 
@@ -23,7 +23,7 @@ Table 4: Outcome Events in the CURE Primary Analysis
 | Primary outcome (Cardiovascular death, MI, stroke) | 582 (9.3%) | 719 (11.4%) | 20% (10.3, 27.9) p < 0.001 |
 | All Individual Outcome Events:The individual components do not represent a breakdown of the primary and co-primary outcomes, but rather the total number of subjects experiencing an event during the course of the study. |  |  |  |
 | CV death | 318 (5.1%) | 345 (5.5%) | 7% (-7.7, 20.6) |
-| MI | 324 (5.2%) | 419 (6.6%) | 23% (11.0, 33.4) |
+| MI | 324 (5.2%) | 419 (6.6%) | 23% (11, 33.4) |
 | Stroke | 75 (1.2%) | 87 (1.4%) | 14% (-17.7, 36.6) |
 
 Most of the benefit of clopidogrel occurred in the first two months, but the difference from placebo was maintained throughout the course of the trial (up to 12 months) (see Figure 2).
@@ -33,8 +33,8 @@ The benefits associated with clopidogrel were independent of the use of other ac
 The efficacy of clopidogrel was observed independently of the dose of aspirin (75 to 325 mg once daily).
 The use of oral anticoagulants, nonstudy antiplatelet drugs, and chronic NSAIDs was not allowed in CURE.
 
-The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2.0%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
-The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2,253 patients [36.0%] in the clopidogrel group, 2,324 patients [36.9%] in the placebo group; relative risk reduction of 4.0%).
+The use of clopidogrel in CURE was associated with a decrease in the use of thrombolytic therapy (71 patients [1.1%] in the clopidogrel group, 126 patients [2%] in the placebo group; relative risk reduction of 43%), and GPIIb/IIIa inhibitors (369 patients [5.9%] in the clopidogrel group, 454 patients [7.2%] in the placebo group, relative risk reduction of 18%).
+The use of clopidogrel in CURE did not affect the number of patients treated with CABG or PCI (with or without stenting) (2,253 patients [36%] in the clopidogrel group, 2,324 patients [36.9%] in the placebo group; relative risk reduction of 4%).
 
 COMMIT
 
@@ -44,7 +44,7 @@ Patients were randomized to receive clopidogrel (75 mg once daily) or placebo, i
 
 The primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
 
-The patient population was 28% women and 58% age ≥ 60 years (26% age ≥ 70 years).
+The patient population was 28% women and 58% age ≥60 years (26% age ≥70 years).
 Fifty- five percent (55%) of patients received thrombolytics and only 3% underwent PCI.
 
 As shown in Table 5 and Figure 4 and Figure 5 below, clopidogrel significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002).
@@ -72,7 +72,7 @@ The CAPRIE trial was a 19,185-patient, 304-center, international, randomized, do
 To be eligible to enroll, patients had to have: 1) recent history of myocardial infarction (within 35 days); 2) recent histories of ischemic stroke (within 6 months) with at least a week of residual neurological signs; and/or 3) established peripheral arterial disease (PAD).
 Patients received randomized treatment for an average of 1.6 years (maximum of 3 years).
 
-The trial's primary outcome was the time to first occurrence of new ischemic stroke (fatal or not), new myocardial infarction (fatal or not), or other vascular death.
+The trial’s primary outcome was the time to first occurrence of new ischemic stroke (fatal or not), new myocardial infarction (fatal or not), or other vascular death.
 Deaths not easily attributable to nonvascular causes were all classified as vascular.
 
 Table 6: Outcome Events in the CAPRIE Primary Analysis
