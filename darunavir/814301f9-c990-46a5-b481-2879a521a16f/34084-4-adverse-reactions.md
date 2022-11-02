@@ -126,7 +126,7 @@ The most common clinical ADRs to PREZISTA/ritonavir 600/100 mg twice daily (grea
 
 ADRs to PREZISTA/ritonavir 600/100 mg twice daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 8 and subsequent text below the table.
 
-Table 8: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
+Table 8: Selected Clinical Adverse Drug Reactions to PREZISTA/ritonavir 600/100 mg Twice DailyExcluding laboratory abnormalities reported as ADRs. of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
 
 | System organ class, preferred term, % | PREZISTA/ritonavir 600/100 mg twice daily + OBR N=298 | lopinavir/ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
@@ -165,7 +165,8 @@ Laboratory Abnormalities
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with PREZISTA/ritonavir 600/100 mg twice daily are presented in Table 9.
 
-Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale (Trial TMC114-C214)
+Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult SubjectsGrade 4 data not applicable in Division of AIDS grading scale.
+(Trial TMC114-C214)
 
 | Laboratory parameter, % | Limit | PREZISTA/ritonavir 600/100 mg twice daily + OBR | lopinavir/ritonavir 400/100 mg twice daily + OBR |
 | --- | --- | --- | --- |
@@ -247,8 +248,8 @@ There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this t
 
 ## 6.2 Postmarketing Experience
 
-The following events have been identified during post approval use of PREZISTA.
-Because these events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+The following adverse reactions have been identified during post-approval use of PREZISTA.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Redistribution of body fat has been reported.
 

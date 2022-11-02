@@ -94,8 +94,8 @@ Table 21: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Median baseline CD4+ cell count (cells/mm3) (range, cells/mm3) | 219 (24–1306) | 236 (44–864) |
 | Percentage of patients with baseline viral load ≥100,000 copies/mL | 13% | 11% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 43% | 39% |
-| Median darunavir fold change (range)Based on phenotype (Antivirogram®) | 0.50 (0.1–1.8) | 0.50 (0.1–1.9) |
-| Median number of resistance-associatedJohnson VA, Brun-Vézinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: December 2008. Top HIV Med 2008; 16(5): 138–145: |  |  |
+| Median darunavir fold change (range)Based on phenotype (Antivirogram®). | 0.50 (0.1–1.8) | 0.50 (0.1–1.9) |
+| Median number of resistance-associatedJohnson VA, Brun-Vézinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: December 2008. Top HIV Med 2008; 16(5): 138–145.: |  |  |
 | PI mutations | 3 | 4 |
 | NNRTI mutations | 2 | 1 |
 | NRTI mutations | 1 | 1 |
@@ -105,7 +105,7 @@ Table 21: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | 1 | 8% | 9% |
 | 2 | 5% | 4% |
 | ≥3 | 3% | 2% |
-| Median number of ARVs previously usedOnly counting ARVs, excluding low-dose ritonavir: |  |  |
+| Median number of ARVs previously usedOnly counting ARVs, excluding low-dose ritonavir.: |  |  |
 | NRTIs | 3 | 3 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
@@ -161,7 +161,7 @@ Table 23: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 40% | 40% |
 | Median darunavir fold change (range) | 0.60 (0.10–37.40) | 0.60 (0.1–43.8) |
 | Median lopinavir fold change (range) | 0.70 (0.40–74.40) | 0.80 (0.30–74.50) |
-| Median number of resistance-associatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130: |  |  |
+| Median number of resistance-associatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130.: |  |  |
 | PI mutations | 4 | 4 |
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 2 | 2 |
@@ -169,11 +169,11 @@ Table 23: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | ≤1 | 78% | 80% |
 | 2 | 8% | 9% |
 | ≥3 | 13% | 11% |
-| Median number of ARVs previously usedOnly counting ARVs, excluding low-dose ritonavir: |  |  |
+| Median number of ARVs previously usedOnly counting ARVs, excluding low-dose ritonavir.: |  |  |
 | NRTIs | 4 | 4 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
-| Percentage of subjects resistantBased on phenotype (Antivirogram®) to all availableCommercially available PIs at the time of trial enrollment PIs at baseline, excluding darunavir | 2% | 3% |
+| Percentage of subjects resistantBased on phenotype (Antivirogram®). to all availableCommercially available PIs at the time of trial enrollment. PIs at baseline, excluding darunavir | 2% | 3% |
 | OBR=optimized background regimen |  |  |
 
 Week 96 outcomes for subjects on PREZISTA/ritonavir 600/100 mg twice daily from trial TMC114-C214 are shown in Table 24.
@@ -184,7 +184,7 @@ Table 24: Virologic Outcome of Randomized Treatment of Trial TMC114-C214 at 96 W
 | --- | --- | --- |
 | Virologic success HIV-1 RNA <50 copies/mL | 58% | 52% |
 | Virologic failureIncludes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥50 copies in the 96-week window and patients who had a change in their OBR that was not permitted by the protocol. | 26% | 33% |
-| No virologic data at Week 96 windowWindow 90–102 Weeks |  |  |
+| No virologic data at Week 96 windowWindow 90–102 Weeks. |  |  |
 | Reasons |  |  |
 | Discontinued trial due to adverse event or deathIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 7% | 8% |
 | Discontinued trial for other reasonsOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL. | 8% | 7% |
@@ -230,7 +230,7 @@ Table 25: Demographic and Baseline Characteristics of Subjects in the Trials TMC
 | Percentage of patients with baseline viral load >100,000 copies/mL | 24% | 29% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 67% | 58% |
 | Median darunavir fold change | 4.3 | 3.3 |
-| Median number of resistance-associatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130: |  |  |
+| Median number of resistance-associatedJohnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125–130.: |  |  |
 | PI mutations | 12 | 12 |
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 5 | 5 |
@@ -238,11 +238,11 @@ Table 25: Demographic and Baseline Characteristics of Subjects in the Trials TMC
 | ≤1 | 8% | 9% |
 | 2 | 22% | 21% |
 | ≥3 | 70% | 70% |
-| Median number of ARVs previously usedBased on phenotype (Antivirogram®): |  |  |
+| Median number of ARVs previously usedBased on phenotype (Antivirogram®).: |  |  |
 | NRTIs | 6 | 6 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 5 | 5 |
-| Percentage of subjects resistant to all availableCommercially available PIs at the time of trial enrollment PIs at baseline, excluding tipranavir and darunavir | 63% | 61% |
+| Percentage of subjects resistant to all availableCommercially available PIs at the time of trial enrollment. PIs at baseline, excluding tipranavir and darunavir | 63% | 61% |
 | Percentage of subjects with prior use of enfuvirtide | 20% | 17% |
 | OBR=optimized background regimen |  |  |
 
@@ -256,9 +256,9 @@ Table 26: Outcomes of Randomized Treatment Through Week 96 of the Trials TMC114-
 | PREZISTA/ritonavir 600/100 mg twice daily + OBR | Comparator PI(s) + OBR |  |
 | Virologic responders confirmed at least 1 log10 HIV-1 RNA below baseline through Week 96 (<50 copies/mL at Week 96) | 57% (39%) | 10% (9%) |
 | Virologic failures | 29% | 80% |
-| Lack of initial responseSubjects who did not achieve at least a confirmed 0.5 log10 HIV-1 RNA drop from baseline at Week 12 | 8% | 53% |
-| RebounderSubjects with an initial response (confirmed 1 log10 drop in viral load), but without a confirmed 1 log10 drop in viral load at Week 96 | 17% | 19% |
-| Never suppressedSubjects who never reached a confirmed 1 log10 drop in viral load before Week 96 | 4% | 8% |
+| Lack of initial responseSubjects who did not achieve at least a confirmed 0.5 log10 HIV-1 RNA drop from baseline at Week 12. | 8% | 53% |
+| RebounderSubjects with an initial response (confirmed 1 log10 drop in viral load), but without a confirmed 1 log10 drop in viral load at Week 96. | 17% | 19% |
+| Never suppressedSubjects who never reached a confirmed 1 log10 drop in viral load before Week 96. | 4% | 8% |
 | Death or discontinuation due to adverse events | 9% | 3% |
 | Discontinuation due to other reasons | 5% | 7% |
 | OBR=optimized background regimen |  |  |

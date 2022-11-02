@@ -181,7 +181,7 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered drug | Dose/Schedule |  | N | PK | LS Mean ratio (90% CI) of darunavir Pharmacokinetic parameters with/without co-administered drug no effect =1.00 |  |  |
 | Co-administration with other HIV protease inhibitors |  |  |  |  |  |  |  |
-| Atazanavir | 300 mg q.d.q.d. = once daily | 400/100 mg b.i.d. b.i.d. = twice daily | 13 | ↔ | 1.02 (0.96–1.09) | 1.03 (0.94–1.12) | 1.01 (0.88–1.16) |
+| Atazanavir | 300 mg q.d.q.d. = once daily | 400/100 mg b.i.d.b.i.d. = twice daily | 13 | ↔ | 1.02 (0.96–1.09) | 1.03 (0.94–1.12) | 1.01 (0.88–1.16) |
 | Indinavir | 800 mg b.i.d. | 400/100 mg b.i.d. | 9 | ↑ | 1.11 (0.98–1.26) | 1.24 (1.09–1.42) | 1.44 (1.13–1.82) |
 | Lopinavir/ritonavir | 400/100 mg b.i.d. | 1200/100 mg b.i.d.The pharmacokinetic parameters of darunavir in this study were compared with the pharmacokinetic parameters following administration of PREZISTA/ritonavir 600/100 mg twice daily. | 14 | ↓ | 0.79 (0.67–0.92) | 0.62 (0.53–0.73) | 0.49 (0.39–0.63) |
 |  | 533/133.3 mg b.i.d. | 1200 mg b.i.d. | 15 | ↓ | 0.79 (0.64–0.97) | 0.59 (0.50–0.70) | 0.45 (0.38–0.52) |
@@ -190,11 +190,9 @@ Table 15: Drug Interactions: Pharmacokinetic Parameters for Darunavir in the Pre
 | Didanosine | 400 mg q.d. | 600/100 mg b.i.d. | 17 | ↔ | 0.93 (0.86–1.00) | 1.01 (0.95–1.07) | 1.07 (0.95–1.21) |
 | Efavirenz | 600 mg q.d. | 300/100 mg b.i.d. | 12 | ↓ | 0.85 (0.72–1.00) | 0.87 (0.75–1.01) | 0.69 (0.54–0.87) |
 | Etravirine | 200 mg b.i.d. | 600/100 mg b.i.d. | 15 | ↔ | 1.11 (1.01–1.22) | 1.15 (1.05–1.26) | 1.02 (0.90–1.17) |
-| Nevirapine | 200 mg b.i.d. | 400/100 mg b.i.d. | 8 | ↑ | 1.40 Ratio based on between-study comparison. (1.14–1.73) | 1.24 (0.97–1.57) | 1.02 (0.79–1.32) |
+| Nevirapine | 200 mg b.i.d. | 400/100 mg b.i.d. | 8 | ↑ | 1.40Ratio based on between-study comparison. (1.14–1.73) | 1.24 (0.97–1.57) | 1.02 (0.79–1.32) |
 | Rilpivirine | 150 mg q.d. | 800/100 mg q.d. | 15 | ↔ | 0.90 (0.81–1.00) | 0.89 (0.81–0.99) | 0.89 (0.68–1.16) |
 | Tenofovir disoproxil fumarate | 300 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.16 (0.94–1.42) | 1.21 (0.95–1.54) | 1.24 (0.90–1.69) |
-| Co-administration with HCV NS3-4A protease inhibitors |  |  |  |  |  |  |  |
-| Simeprevir | 50 mg q.d. The dose of simeprevir in this interaction study was 50 mg when co-administered in combination with PREZISTA/ritonavir compared to 150 mg once daily in the simeprevir alone treatment group. | 800 mg q.d. | 25Maximum number of subjects | ↑ | 1.04 (0.99–1.10) | 1.18 (1.11–1.25) | 1.31 (1.13–1.52) |
 | Co-administration with other drugs |  |  |  |  |  |  |  |
 | Artemether/lumefantrine | 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 14 | ↔ | 1.00 (0.93–1.07) | 0.96 (0.90–1.03) | 0.87 (0.77–0.98) |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↔ | 1.04 (0.93–1.16) | 0.99 (0.90–1.08) | 0.85 (0.73–1.00) |
@@ -214,7 +212,7 @@ Table 16: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drug
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Co-administered drug | Dose/Schedule |  | N | PK | LS Mean ratio (90% CI) of co-administered drug pharmacokinetic parameters with/without darunavir no effect =1.00 |  |  |
 | Co-administration with other HIV protease inhibitors |  |  |  |  |  |  |  |
-| Atazanavir | 300 mg q.d.q.d. = once daily /100 mg ritonavir q.d. when administered alone | 400/100 mg b.i.d. b.i.d. = twice daily | 13 | ↔ | 0.89 (0.78–1.01) | 1.08 (0.94–1.24) | 1.52 (0.99–2.34) |
+| Atazanavir | 300 mg q.d.q.d. = once daily /100 mg ritonavir q.d. when administered alone | 400/100 mg b.i.d.b.i.d. = twice daily | 13 | ↔ | 0.89 (0.78–1.01) | 1.08 (0.94–1.24) | 1.52 (0.99–2.34) |
 |  | 300 mg q.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
 | Indinavir | 800 mg b.i.d. /100 mg ritonavir b.i.d. when administered alone | 400/100 mg b.i.d. | 9 | ↑ | 1.08 (0.95–1.22) | 1.23 (1.06–1.42) | 2.25 (1.63–3.10) |
 |  | 800 mg b.i.d. when administered with darunavir/ ritonavir |  |  |  |  |  |  |
@@ -233,8 +231,6 @@ Table 16: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drug
 | Tenofovir disoproxil fumarate | 300 mg q.d. | 300/100 mg b.i.d. | 12 | ↑ | 1.24 (1.08–1.42) | 1.22 (1.10–1.35) | 1.37 (1.19–1.57) |
 | Maraviroc | 150 mg b.i.d. | 600/100 mg b.i.d. | 12 | ↑ | 2.29 (1.46–3.59) | 4.05 (2.94–5.59) | 8.00 (6.35–10.1) |
 |  |  | 600/100 mg b.i.d. with 200 mg b.i.d. etravirine | 10 | ↑ | 1.77 (1.20–2.60) | 3.10 (2.57–3.74) | 5.27 (4.51–6.15) |
-| Co-administration with HCV NS3-4A protease inhibitors |  |  |  |  |  |  |  |
-| Simeprevir | 50 mg q.d. The dose of simeprevir in this interaction study was 50 mg when co-administered in combination with PREZISTA/ritonavir compared to 150 mg once daily in the simeprevir alone treatment group. | 800/100 mg q.d. | 25Maximum number of subjects | ↑ | 1.79 (1.55–2.06) | 2.59 (2.15–3.11) | 4.58 (3.54–5.92) |
 | Co-administration with other drugs |  |  |  |  |  |  |  |
 | Atorvastatin | 40 mg q.d. when administered alone | 300/100 mg b.i.d. | 15 | ↑ | 0.56 (0.48–0.67) | 0.85 (0.76–0.97) | 1.81 (1.37–2.40) |
 |  | 10 mg q.d. when administered with darunavir/ritonavir |  |  |  |  |  |  |
@@ -243,11 +239,13 @@ Table 16: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drug
 | Artemether | artemether/lumefantrine 80/480 mg (6 doses at 0, 8, 24, 36, 48, and 60 hours) | 600/100 mg b.i.d. | 15 | ↓ | 0.82 (0.61–1.11) | 0.84 (0.69–1.02) | 0.97 (0.90–1.05) |
 | Dihydroartemisinin |  | 15 | ↓ | 0.82 (0.66–1.01) | 0.82 (0.74–0.91) | 1.00 (0.82–1.22) |  |
 | Lumefantrine |  | 15 | ↑ | 1.65 (1.49–1.83) | 2.75 (2.46–3.08) | 2.26 (1.92–2.67) |  |
-| Buprenorphine/Naloxone | 8/2 mg to 16/4 mg q.d. | 600/100 mg b.i.d. | 17 | ↔ | 0.92 ratio is for buprenorphine; mean Cmax and AUC24 for naloxone were comparable when buprenorphine/naloxone was administered with or without PREZISTA/ritonavir (0.79–1.08) | 0.89 (0.78–1.02) | 0.98 (0.82–1.16) |
+| Buprenorphine/Naloxone | 8/2 mg to 16/4 mg q.d. | 600/100 mg b.i.d. | 17 | ↔ | 0.92Ratio is for buprenorphine; mean Cmax and AUC24 for naloxone were comparable when buprenorphine/naloxone was administered with or without PREZISTA/ritonavir (0.79–1.08) | 0.89 (0.78–1.02) | 0.98 (0.82–1.16) |
 | Norbuprenorphine |  |  | 17 | ↑ | 1.36 (1.06–1.74) | 1.46 (1.15–1.85) | 1.71 (1.29–2.27) |
 | Carbamazepine | 200 mg b.i.d. | 600/100 mg b.i.d. | 16 | ↑ | 1.43 (1.34–1.53) | 1.45 (1.35–1.57) | 1.54 (1.41–1.68) |
 | Carbamazepine epoxide |  |  | 16 | ↓ | 0.46 (0.43–0.49) | 0.46 (0.44–0.49) | 0.48 (0.45–0.51) |
 | Clarithromycin | 500 mg b.i.d. | 400/100 mg b.i.d. | 17 | ↑ | 1.26 (1.03–1.54) | 1.57 (1.35–1.84) | 2.74 (2.30–3.26) |
+| Dabigatran etexilate | 150 mg | 800/100 mg single dose | 14 | ↑ | 1.64 (1.21–2.23) | 1.72 (1.33–2.23) | - |
+|  |  | 800/100 mg q.d.800/100 mg q.d. for 14 days before co-administered with dabigatran etexilate. | 13 | ↑ | 1.22 (0.89–1.67) | 1.18 (0.90–1.53) | - |
 | Dextromethorphan | 30 mg | 600/100 mg b.i.d. | 12 | ↑ | 2.27 (1.59–3.26) | 2.70 (1.80–4.05) | - |
 | Dextrorphan |  |  |  | ↓ | 0.87 (0.77–0.98) | 0.96 (0.90–1.03) | - |
 | Digoxin | 0.4 mg | 600/100 mg b.i.d. | 8 | ↑ | 1.15 (0.89–1.48) | 1.36 (0.81–2.27) | - |
@@ -260,14 +258,14 @@ Table 16: Drug Interactions: Pharmacokinetic Parameters for Co-Administered Drug
 | Paroxetine | 20 mg q.d. | 400/100 mg b.i.d. | 16 | ↓ | 0.64 (0.59–0.71) | 0.61 (0.56–0.66) | 0.63 (0.55–0.73) |
 | Pitavastatin | 4 mg q.d. | 800/100 mg q.d. | 27 | ↓ | 0.96 (0.84–1.09) | 0.74 (0.69–0.80) | NA |
 | Pravastatin | 40 mg single dose | 600/100 mg b.i.d. | 14 | ↑ | 1.63 (0.95–2.82) | 1.81 (1.23–2.66) | - |
-| Rifabutin | 150 mg q.o.d. q.o.d. = every other day when administered with PREZISTA/ritonavir | 600/100 mg b.i.d. In comparison to rifabutin 300 mg once daily. | 11 | ↑ | 0.72 (0.55–0.93) | 0.93 (0.80–1.09) | 1.64 (1.48–1.81) |
+| Rifabutin | 150 mg q.o.d.q.o.d. = every other day when administered with PREZISTA/ritonavir | 600/100 mg b.i.d.In comparison to rifabutin 300 mg once daily. | 11 | ↑ | 0.72 (0.55–0.93) | 0.93 (0.80–1.09) | 1.64 (1.48–1.81) |
 | 25-O-desacetyl-rifabutin | 300 mg q.d. when administered alone |  | 11 | ↑ | 4.77 (4.04–5.63) | 9.81 (8.09–11.9) | 27.1 (22.2–33.2) |
 | Sertraline | 50 mg q.d. | 400/100 mg b.i.d. | 13 | ↓ | 0.56 (0.49–0.63) | 0.51 (0.46–0.58) | 0.51 (0.45–0.57) |
 | Sildenafil | 100 mg (single dose) administered alone | 400/100 mg b.i.d. | 16 | ↑ | 0.62 (0.55–0.70) | 0.97 (0.86–1.09) | - |
 |  | 25 mg (single dose)when administered with darunavir/ritonavir |  |  |  |  |  |  |
 | S-warfarin | 10 mg single dose | 600/100 mg b.i.d. | 12 | ↓ | 0.92 (0.86–0.97) | 0.79 (0.73–0.85) | - |
 | 7-OH-S-warfarin |  |  | 12 | ↑ | 1.42 (1.24–1.63) | 1.23 (0.97–1.57) | - |
-| N = number of subjects with data;- = no information available A cocktail study was conducted in 12 healthy volunteers to evaluate the effect of steady state pharmacokinetics of PREZISTA/ritonavir on the activity of CYP2D6 (using dextromethorphan as probe substrate), CYP2C9 (using warfarin as probe substrate), and CYP2C19 (using omeprazole as probe substrate). The pharmacokinetic results are shown in Table 16. |  |  |  |  |  |  |  |
+| N = number of subjects with data;- = no information available |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -351,7 +349,7 @@ Table 17: Response to PREZISTA/ritonavir 600/100 mg Twice Daily by Baseline Numb
 | ≥6 | 9% (3/32) | 17% (1/6) | 8% (2/26) |
 | ENF=enfuvirtide |  |  |  |
 
-IAS Primary PI Substitutions (2008): D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M
+IAS Primary PI Substitutions (2008): D30N, V32I, L33F, M46I/L, I47A/V, G48V, I50L/V, I54L/M, L76V, V82A/F/L/S/T, I84V, N88S, L90M.
 
 The presence at baseline of two or more of the substitutions V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V or L89V was associated with a decreased virologic response to PREZISTA/ritonavir.
 In subjects not taking enfuvirtide de novo, the proportion of subjects achieving viral load less than 50 plasma HIV-1 RNA copies/mL at 96 weeks was 59%, 29%, and 12% when the baseline genotype had 0–1, 2 and greater than or equal to 3 of these substitutions, respectively.

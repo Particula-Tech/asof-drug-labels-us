@@ -35,7 +35,7 @@ Table 1: Recommended PREZISTA/ritonavir Dosage in Treatment-Experienced Adult Pa
 | Baseline Resistance | PREZISTA tablets with ritonavir tablets or capsule | PREZISTA oral suspension (100 mg/mL) with ritonavir oral solution (80 mg/mL) |
 | --- | --- | --- |
 |  | Formulation and Recommended Dosing |  |
-| With no darunavir resistance associated substitutionsV11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V | One 800 mg PREZISTA tablet with one 100 mg ritonavir tablet/capsule, taken once daily with food | 8 mLAn 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe PREZISTA oral suspension with 1.25 mL ritonavir oral solution, taken once daily with food |
+| With no darunavir resistance associated substitutionsV11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V | One 800 mg PREZISTA tablet with one 100 mg ritonavir tablet/capsule, taken once daily with food | 8 mLAn 8 mL darunavir dose should be taken as two 4 mL administrations with the included oral dosing syringe. PREZISTA oral suspension with 1.25 mL ritonavir oral solution, taken once daily with food |
 | With at least one darunavir resistance associated substitutions, or with no baseline resistance information | One 600 mg PREZISTA tablet with one 100 mg ritonavir tablet/capsule, taken twice daily with food | 6 mL PREZISTA oral suspension with 1.25 mL ritonavir oral solution, taken twice daily with food |
 
 ## 2.4 Recommended Dosage During Pregnancy
@@ -85,7 +85,7 @@ Table 3: Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are
 | --- | --- | --- |
 | Body weight (kg) | Formulation: PREZISTA tablet(s) and ritonavir capsules or tablets (100 mg) | Formulation: PREZISTA oral suspension (100 mg/mL) and ritonavir oral solution (80 mg/mL) |
 | Greater than or equal to 15 kg to less than 30 kg | PREZISTA 600 mg with ritonavir 100 mg | PREZISTA 6 mL (600 mg) with ritonavir 1.25 mL (100 mg) |
-| Greater than or equal to 30 kg to less than 40 kg | PREZISTA 675 mg with ritonavir 100 mg | PREZISTA 6.8 mLThe 675 mg dose using darunavir tablets for this weight group is rounded up to 6.8 mL for suspension dosing convenience.The 6.8 mL and 8 mL darunavir dose should be taken as two (3.4 mL or 4 mL respectively) administrations with the included oral dosing syringe (675 mg) with ritonavir 1.25 mL (100 mg) |
+| Greater than or equal to 30 kg to less than 40 kg | PREZISTA 675 mg with ritonavir 100 mg | PREZISTA 6.8 mLThe 675 mg dose using darunavir tablets for this weight group is rounded up to 6.8 mL for suspension dosing convenience.The 6.8 mL and 8 mL darunavir dose should be taken as two (3.4 mL or 4 mL respectively) administrations with the included oral dosing syringe. (675 mg) with ritonavir 1.25 mL (100 mg) |
 | Greater than or equal to 40 kg | PREZISTA 800 mg with ritonavir 100 mg | PREZISTA 8 mL (800 mg) with ritonavir 1.25 mL (100 mg) |
 
 Dosing Recommendations for Treatment-Experienced Pediatric Patients with At Least One Darunavir Resistance Associated Substitutions
