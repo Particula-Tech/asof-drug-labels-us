@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Secondary Hyperparathyroidism in Patients with Chronic Kidney Disease on Dialysis
 

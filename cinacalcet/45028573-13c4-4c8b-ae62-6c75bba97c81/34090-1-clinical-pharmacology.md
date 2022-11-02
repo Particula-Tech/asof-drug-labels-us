@@ -67,23 +67,23 @@ Tables 5 and 6 list the findings from in vivo drug-drug interaction studies.
 Table 5.
 Effect of co-administered drugs on cinacalcet
 
-| Co-administered drug and dosing regimen | Cinacalcet |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Dose* | Mean change in AUC(0-inf) |  | Mean change in Cmax |  |
-| 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑127% | ↑116% |  |  |
-| 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |  |  |
-| 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |  |  |
-| 2400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |  |  |
-| *Single dose. |  |  |  |  |  |
+| Co-administered drug and dosing regimen | Cinacalcet |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Dose* | Mean change in AUC(0-inf) |  | Mean change in Cmax |
+| 200 mg ketoconazole twice daily for 7 days | 90 mg on day 5 | ↑127% | ↑116% |  |
+| 1500 mg calcium carbonate, single dose | 100 mg | ↓6% | ↓5% |  |
+| 80 mg pantoprazole daily for 3 days | 90 mg on day 3 | ↑1% | ↓3% |  |
+| 2400 mg sevelamer HCl three times a day for 2 days | 90 mg on day 1 with first dose of sevelamer | ↓4% | ↓7% |  |
+| *Single dose. |  |  |  |  |
 
 Table 6.
 Effect of cinacalcet co-administration on other drugs
 
-| Cinacalcet dosing regimen | Co-administered drug |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |  |
-| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1% for R-warfarin ↓1% for S-warfarin | ↓10% for R-warfarin ↓12% for S-warfarin |  |
-| 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine† | ↑264% | ↑75% |  |
-| 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |  |
-| 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline ↑17-23% for nortriptyline‡ | ↑13-21% for amitriptyline ↑11-15% for nortriptyline‡ |  |
-| *No significant change in prothrombin time. †Single dose on day 5. ‡Nortriptyline is an active metabolite of amitriptyline. |  |  |  |  |
+| Cinacalcet dosing regimen | Co-administered drug |  |  |
+| --- | --- | --- | --- |
+|  | Name and Dose | Mean change in AUC(0-inf) | Mean change in Cmax |
+| 30 mg twice daily for 8 days | 25 mg warfarin* tablet† | ↑1% for R-warfarin ↓1% for S-warfarin | ↓10% for R-warfarin ↓12% for S-warfarin |
+| 90 mg daily for 7 days to CYP2D6 extensive metabolizers | 50 mg desipramine† | ↑264% | ↑75% |
+| 90 mg daily for 5 days | 2 mg midazolam† | ↑5% | ↓5% |
+| 25 or 100 mg single dose to CYP2D6 extensive metabolizers | 50 mg amitriptyline single dose | ↑21-22% for amitriptyline ↑17-23% for nortriptyline‡ | ↑13-21% for amitriptyline ↑11-15% for nortriptyline‡ |
+| *No significant change in prothrombin time. †Single dose on day 5. ‡Nortriptyline is an active metabolite of amitriptyline. |  |  |  |

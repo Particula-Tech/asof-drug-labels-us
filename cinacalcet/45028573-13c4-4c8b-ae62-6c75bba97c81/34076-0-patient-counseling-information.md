@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 - Hypocalcemia: Advise patients to report symptoms of hypocalcemia, including paresthesias, myalgias, muscle spasms, and seizures, to their healthcare provider [see Warnings and Precautions (5.1)].
 - Upper Gastrointestinal Bleeding: Advise patients to report any symptoms of upper gastrointestinal bleeding to their health care provider [see Warnings and Precautions (5.2)].
