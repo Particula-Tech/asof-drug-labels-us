@@ -47,13 +47,7 @@ Consider alternatives to EDURANT when coadministered with a drug that is known t
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
 Consider the potential for drug interactions prior to and during EDURANT therapy and review concomitant medications during EDURANT therapy.
 
-## 5.5 Fat Redistribution
-
-Redistribution/accumulation of body fat, including central obesity, dorsocervical fat enlargement (buffalo hump), peripheral wasting, facial wasting, breast enlargement, and "cushingoid appearance" have been observed in patients receiving antiretroviral therapy.
-The mechanism and long-term consequences of these events are currently unknown.
-A causal relationship has not been established.
-
-## 5.6 Immune Reconstitution Syndrome
+## 5.5 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including EDURANT.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia or tuberculosis), which may necessitate further evaluation and treatment.

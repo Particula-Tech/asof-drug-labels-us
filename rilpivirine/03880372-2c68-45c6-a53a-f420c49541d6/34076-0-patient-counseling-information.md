@@ -25,13 +25,9 @@ EDURANT may interact with many drugs; therefore, advise patients to report to th
 For patients concomitantly receiving rifabutin, the EDURANT dose should be increased to 50 mg once daily, taken with a meal.
 When rifabutin coadministration is stopped, the EDURANT dose should be decreased to 25 mg once daily, taken with a meal [see Dosage and Administration (2.3)].
 
-Fat Redistribution
-
-Inform patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy, including EDURANT, and that the cause and long-term health effects of these conditions are not known at this time [see Warnings and Precautions (5.5)].
-
 Immune Reconstitution Syndrome
 
-Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when EDURANT is started [see Warnings and Precautions (5.6)].
+Advise patients to inform their healthcare provider immediately of any signs or symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when EDURANT is started [see Warnings and Precautions (5.5)].
 
 Administration Instruction
 
