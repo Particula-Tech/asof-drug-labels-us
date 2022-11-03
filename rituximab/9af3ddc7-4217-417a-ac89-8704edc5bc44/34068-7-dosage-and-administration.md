@@ -98,10 +98,11 @@ PCP prophylaxis is also recommended for patients with GPA and MPA during treatme
 
 ### Administration
 
+Use a sterile needle and syringe to prepare TRUXIMA.
 Withdraw the necessary amount of TRUXIMA and dilute to a final concentration of 1 mg/mL to 4 mg/mL in an infusion bag containing either 0.9% Sodium Chloride, USP, or 5% Dextrose Injection, USP.
 Gently invert the bag to mix the solution.
 Do not mix or dilute with other drugs.
-Discard any unused portion left in the vial.
+Discard any unused portion left in the vial
 
 #### Storage
 

@@ -42,19 +42,22 @@ The B-cell counts returned to normal levels, and immunologic function was restor
 
 ## 8.2 Lactation
 
-There are no data on the presence of rituximab products in human milk, the effect on the breastfed child, or the effect on milk production.
-However, rituximab is detected in the milk of lactating cynomolgus monkeys, and IgG is present in human milk.
-Because of the potential of serious adverse reactions in the breastfed child, advise women not to breastfeed during treatment with TRUXIMA and for at least 6 months after the last dose.
+There are limited data on the presence of rituximab in human milk and the effect on the breastfed child, and there are no data on the effect on milk production.
+Rituximab is detected in the milk of lactating cynomolgus monkeys, and maternal IgG is present in human breast milk.
+Rituximab has also been reported to be excreted at low concentrations in human breast milk.
+Given that the clinical significance of this finding for children is not known, advise women not to breastfeed during treatment with TRUXIMA and for 6 months after the last dose due to the potential of serious adverse reactions in breastfed children.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Contraception
-
 Rituximab products can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
+Pregnancy Testing Verify pregnancy status in females of reproductive potential prior to initiating TRUXIMA.
+
+Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during treatment with TRUXIMA and for at least 12 months after the last dose.
+Advise females of reproductive potential to use effective contraception during treatment with TRUXIMA and for 12 months after the last dose.
 
 ## 8.4 Pediatric Use
 
