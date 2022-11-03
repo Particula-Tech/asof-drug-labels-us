@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA216437"
+  ],
+  "inn": "regadenoson",
+  "labeler": "Eugia US LLC",
+  "package_ndcs": [
+    "55150-443-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "regadenoson",
+      "name": "regadenoson"
+    }
+  ],
+  "setid": "b553eb2d-0c3f-444e-ad4c-282328683110",
+  "source": "dailymed"
+}
