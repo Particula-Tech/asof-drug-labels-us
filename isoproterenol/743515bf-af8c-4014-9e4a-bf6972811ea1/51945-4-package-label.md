@@ -6,18 +6,16 @@ Rx only
 
 Isuprel®
 
-Isoproterenol Hydrochloride
+Isoproterenol Hydrochloride Injection, USP
 
-Injection, USP
+1 mg/5 ml (0.2 mg/mL)
 
-1 mg/5 mL (0.2 mg/mL)
+Intravenous Use Only.
 
-Sterile Injection
+Sterile Injection Single-Dose Ampul- Discard Unused Portion
 
-Intravenous, Subcutaneous,
-
-Intramuscular or Intracardiac Use Only
-
-5 mL ampule x 10 ampuls per carton
+5 mL single-dose ampul x 10 ampuls per carton
 
 BAUSCH Health
+
+8021406
