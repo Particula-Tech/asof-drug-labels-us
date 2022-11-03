@@ -32,7 +32,7 @@ The interindividual variability of voriconazole pharmacokinetics is high.
 Greater than proportional increase in exposure is observed with increasing dose.
 It is estimated that, on average, increasing the oral dose from 200 mg every 12 hours to 300 mg every 12 hours leads to an approximately 2.5-fold increase in exposure (AUCτ); similarly, increasing the intravenous dose from 3 mg/kg every 12 hours to 4 mg/kg every 12 hours produces an approximately 2.5-fold increase in exposure (Table 12).
 
-1. Table 12: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
+- Table 12: Geometric Mean (%CV) Plasma Voriconazole Pharmacokinetic Parameters in Adults Receiving Different Dosing Regimens
 
 |  | 6 mg/kg IV (loading dose) | 3 mg/kg IV every 12 hours | 4 mg/kg IV every 12 hours | 400 mg Oral (loading dose) | 200 mg Oral every 12 hours | 300 mg Oral every 12 hours |
 | --- | --- | --- | --- | --- | --- | --- |

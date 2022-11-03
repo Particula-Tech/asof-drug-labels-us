@@ -7,7 +7,7 @@ Therefore, voriconazole may increase the plasma concentrations of substances met
 
 Tables 10 and 11 provide the clinically significant interactions between voriconazole and other medical products.
 
-Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
+Table 3: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after 200 mg every 12 hours) | Recommendations for Voriconazole Dosage Adjustment/Comments |
 | --- | --- | --- |
@@ -30,11 +30,11 @@ Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical P
 
 * Results based on in vivo clinical studies generally following repeat oral dosing with 200 mg every 12 hours voriconazole to healthy subjects
 
-1. † Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for at least 2 days voriconazole to healthy subjects
+- † Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for at least 2 days voriconazole to healthy subjects
 
 ‡ Non-Nucleoside Reverse Transcriptase Inhibitors
 
-Table 11: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
+Table 4: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Recommendations for Drug Dosage Adjustment/Comments |
 | --- | --- | --- |
@@ -80,8 +80,8 @@ Table 11: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinica
 
 * Results based on in vivo clinical studies generally following repeat oral dosing with 200 mg BID voriconazole to healthy subjects
 
-1. † Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for at least 2 days voriconazole to healthy subjects
-2. ‡ Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days voriconazole to subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours)
+- † Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for at least 2 days voriconazole to healthy subjects
+- ‡ Results based on in vivo clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days voriconazole to subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours)
 
 § Non-Steroidal Anti-Inflammatory Drug
 

@@ -24,7 +24,8 @@ Clinical Trials Experience in Adults
 
 Overview
 
-The most frequently reported adverse reactions (see Table 4) in the adult therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
+The most frequently reported adverse reactions (see Error!
+Hyperlink reference not valid.) in the adult therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
 The adverse reactions which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.1, 5.4) and Adverse Reactions (6.1)].
 
 The data described in Table 4 reflect exposure to voriconazole in 1,655 patients in nine therapeutic studies.
@@ -42,8 +43,8 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse reactions was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-1. Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
-   Possibly Related to Therapy or Causality Unknown†
+- Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+  Possibly Related to Therapy or Causality Unknown†
 
 | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -108,7 +109,7 @@ The mechanism underlying these dermatologic adverse reactions remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
-Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
+Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 
 Less Common Adverse Reactions
 
@@ -208,7 +209,7 @@ AST = Aspartate aminotransferase; ALT= alanine aminotransferase
 
 ULN = upper limit of normal
 
-1. Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+- Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -232,7 +233,7 @@ AST = Aspartate aminotransferase; ALT = alanine aminotransferase
 
 ULN = upper limit of normal LLN = lower limit of normal
 
-Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
+Table 2: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -271,7 +272,7 @@ Most Common Adverse Reactions
 
 The most common adverse reactions occurring in ≥5% of pediatric patients receiving voriconazole in the pooled pediatric clinical trials are displayed by body system, in Table 8.
 
-1. Table 8: Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
+- Table 8: Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
 
 | Body System | Adverse Reaction | Pooled Pediatric Data*N=105n (%) |
 | --- | --- | --- |
@@ -311,20 +312,20 @@ The most common adverse reactions occurring in ≥5% of pediatric patients recei
 
 * Reflects all adverse reactions and not treatment-related only.
 
-1. † Pooled reports include such terms as: amaurosis (partial or total blindness without visible change in the eye); asthenopia (eye strain); chromatopsia (abnormally colored vision); color blindness; diplopia; photopsia; retinal disorder; vision blurred, visual acuity decreased, visual brightness; visual impairment.
-   Several patients had more than one visual disturbance.
+- † Pooled reports include such terms as: amaurosis (partial or total blindness without visible change in the eye); asthenopia (eye strain); chromatopsia (abnormally colored vision); color blindness; diplopia; photopsia; retinal disorder; vision blurred, visual acuity decreased, visual brightness; visual impairment.
+  Several patients had more than one visual disturbance.
 
 ‡ Pooled reports include such terms as: abdominal pain and abdominal pain, upper.
 
 § Pooled reports include such terms as: ALT abnormal and ALT increased.
 
-1. ¶ Pooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual.
-   Several patients had both visual and auditory hallucinations.
+- ¶ Pooled reports include such terms as: hallucination; hallucination, auditory; hallucination, visual.
+  Several patients had both visual and auditory hallucinations.
 
 # Pooled reports include such terms as: renal failure and a single patient with renal impairment.
 
-1. ÞPooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic.
-2. Abbreviations: ALT = alanine aminotransferase; LFT = liver function test
+- Þ Pooled reports include such terms as: rash; rash generalized; rash macular; rash maculopapular; rash pruritic.
+- Abbreviations: ALT = alanine aminotransferase; LFT = liver function test
 
 The following adverse reactions with incidence less than 5% were reported in 105 pediatric patients treated with voriconazole:
 
@@ -397,6 +398,10 @@ ULN = upper limit of normal
 
 The following adverse reactions have been identified during post-approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Dermatological Reactions
+
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Adults
 
