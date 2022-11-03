@@ -5,12 +5,14 @@ Chlorthalidone tablets, USP 25 mg are available as follows:
 Yellow, round, tablets, debossed MP 30
 
 1. Bottles of 100 CRC NDC 57664-648-88
+2. Bottles of 1000 NDC 57664-648-18
 
 Chlorthalidone tablets, USP 50 mg are available as follows:
 
 Green, round, tablets, debossed MP 43
 
 1. Bottles of 100 CRC NDC 57664-649-88
+2. Bottles of 1000 NDC 57664-649-18
 
 Store at 20° to 25°C (68° to 77°F).
 
