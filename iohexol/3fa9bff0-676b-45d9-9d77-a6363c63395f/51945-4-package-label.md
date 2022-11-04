@@ -4,7 +4,7 @@ NDC 0407-1413-89
 
 Omnipaque™ (iohexol) Injection
 
-NOVAPLUS®
+NOVAPLUS ®
 
 300 mg Iodine/mL
 
@@ -23,7 +23,7 @@ NDC 0407-1414-88
 
 Omnipaque™ (iohexol) Injection
 
-NOVAPLUS®
+NOVAPLUS ®
 
 350 mg Iodine/mL
 

@@ -238,7 +238,7 @@ Patients receiving injectable radiopaque diagnostic agents should be instructed 
 ## Drug/Laboratory Test Interaction
 
 If iodine-containing isotopes are to be administered for the diagnosis of thyroid disease, the iodine-binding capacity of thyroid tissue may be reduced for up to 2 weeks after contrast medium administration.
-Thyroid function tests which do not depend on iodine estimation, eg, T3 resin uptake or direct thyroxine assays, are not affected.
+Thyroid function tests which do not depend on iodine estimation, eg, T 3 resin uptake or direct thyroxine assays, are not affected.
 
 Many radiopaque contrast agents are incompatible in vitro with some antihistamines and many other drugs; therefore, no other pharmaceuticals should be admixed with contrast agents.
 

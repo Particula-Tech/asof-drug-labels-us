@@ -118,7 +118,7 @@ Endocrine reactions: hyperthyroidism, hypothyroidism.Skin and Subcutaneous Tissu
 Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)].
 Allergic reactions: asthmatic attacks, nasal and conjunctival symptoms, dermal reactions such as urticaria with or without pruritus, as well as pleomorphic rashes, sneezing and lacrimation, anaphylactic reactions and anaphylactic shock.
 Fatalities have occurred, due to this or unknown causes.
-Signs and symptoms related to the respiratory system: pulmonary or laryngeal edema, bronchospasm, dyspnea; or to the nervous system: restlessness, tremors, convulsions.
+S igns and symptoms related to the respiratory system: pulmonary or laryngeal edema, bronchospasm, dyspnea; or to the nervous system: restlessness, tremors, convulsions.
 Other reactions: flushing, pain, warmth, metallic taste, nausea, vomiting, anxiety, headache, confusion, pallor, weakness, sweating, localized areas of edema, especially facial cramps, neutropenia, and dizziness.
 Immediate or delayed rigors can occur, sometimes accompanied by hyperpyrexia.
 Infrequently, "iodism" (salivary gland swelling) from organic iodinated compounds appears two days after exposure and subsides by the sixth day.
