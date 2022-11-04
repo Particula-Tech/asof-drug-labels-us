@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA216462"
+  ],
+  "inn": "sodium-phenylbutyrate",
+  "labeler": "GLENMARK PHARMACEUTICALS INC., USA",
+  "package_ndcs": [
+    "68462-853-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sodium phenylbutyrate",
+      "name": "sodium phenylbutyrate"
+    }
+  ],
+  "setid": "0c76d25b-abac-41a3-a547-4fa4796bf7a4",
+  "source": "dailymed"
+}
