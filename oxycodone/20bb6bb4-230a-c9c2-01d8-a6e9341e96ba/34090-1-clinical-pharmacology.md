@@ -62,39 +62,21 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 The activity of oxycodone hydrochloride tablets is primarily due to the parent drug oxycodone.
 Oxycodone hydrochloride tablets are designed to provide immediate release of oxycodone.
 
-| Table 2: |  |  |  |  |  |  |
+Table 2:Pharmacokinetic Parameters (Mean±SD)
+
+| Dose\Parameters | AUC (ngxhr/mL) | Cmax (ng/mL) | Tmax (hr) | Cmin (ng/mL) | Cavg (ng/mL) | Half-Life (hr) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pharmacokinetic Parameters (Mean±SD) |  |  |  |  |  |  |
-| Dose\Parameters | AUC | Cmax | Tmax | Cmin | Cavg | Half-Life |
-|  | (ngxhr/mL) | (ng/mL) | (hr) | (ng/mL) | (ng/mL) | (hr) |
-| Single Dose |  |  |  |  |  |  |
-| Pharmacokinetics |  |  |  |  |  |  |
-| Oxycodone Hydrochloride | 133.2±33 | 22.3±8.2 | 1.8±1.8 | n/a | n/a | 3.73±0.9 |
-| 5 mg tabs x 3 |  |  |  |  |  |  |
-| Oxycodone Hydrochloride | 128.2±35.1 | 22.2±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |
-| 15 mg tab |  |  |  |  |  |  |
-| Oxycodone Hydrochloride | 130.6±34.7 | 21.1±6.1 | 1.9±1.5 | n/a | n/a | 3.71±0.8 |
-| Liquid Concentrate |  |  |  |  |  |  |
-| 15 mg oral solution |  |  |  |  |  |  |
-| Oxycodone Hydrochloride | 268.2±60.7 | 39.3±14.0 | 2.6±3.0 | n/a | n/a | 3.85±1.3 |
-| 30 mg tab |  |  |  |  |  |  |
-| Food-Effect, |  |  |  |  |  |  |
-| Single Dose |  |  |  |  |  |  |
-| Oxycodone Hydrochloride | 105±6.2 | 19.0±3.7 | 1.25±0.5 | n/a | n/a | 2.9±0.4 |
-| 10 mg/10 mL oral |  |  |  |  |  |  |
-| sol’n (fasted) |  |  |  |  |  |  |
-| Oxycodone Hydrochloride | 133±25.2 | 17.7±3.0 | 2.54±1.2 | n/a | n/a | 3.3±0.5 |
-| 10 mg/10 mL oral |  |  |  |  |  |  |
-| sol’n (fed) |  |  |  |  |  |  |
-| Multiple-Dose | AUC |  |  |  |  |  |
-| Studies | (72-84) |  |  |  |  |  |
-| Oxycodone Hydrochloride | 113.3±24.0 | 15.7±3.2 | 1.3±0.3 | 7.4±1.8 | 9.4±2.0 | n/a |
-| 5 mg tabs q6h x 14 |  |  |  |  |  |  |
-| doses |  |  |  |  |  |  |
-| Oxycodone Hydrochloride | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
-| 3.33 mg (3.33 mL) |  |  |  |  |  |  |
-| oral sol’n. |  |  |  |  |  |  |
-| q4h x 21 doses |  |  |  |  |  |  |
+| Single Dose Pharmacokinetics |  |  |  |  |  |  |
+| Oxycodone Hydrochloride 5 mg tabs x 3 | 133.2±33 | 22.3±8.2 | 1.8±1.8 | n/a | n/a | 3.73±0.9 |
+| Oxycodone Hydrochloride 15 mg tab | 128.2±35.1 | 22.2±7.6 | 1.4±0.7 | n/a | n/a | 3.55±1.0 |
+| Oxycodone Hydrochloride Liquid Concentrate 15 mg oral solution | 130.6±34.7 | 21.1±6.1 | 1.9±1.5 | n/a | n/a | 3.71±0.8 |
+| Oxycodone Hydrochloride 30 mg tab | 268.2±60.7 | 39.3±14.0 | 2.6±3.0 | n/a | n/a | 3.85±1.3 |
+| Food-Effect, Single Dose |  |  |  |  |  |  |
+| Oxycodone Hydrochloride 10 mg/10 mL oral sol’n (fasted) | 105±6.2 | 19.0±3.7 | 1.25±0.5 | n/a | n/a | 2.9±0.4 |
+| Oxycodone Hydrochloride 10 mg/10 mL oral sol’n (fed) | 133±25.2 | 17.7±3.0 | 2.54±1.2 | n/a | n/a | 3.3±0.5 |
+| Multiple-Dose Studies | AUC (72-84) |  |  |  |  |  |
+| Oxycodone Hydrochloride 5 mg tabs q6h x 14 doses | 113.3±24.0 | 15.7±3.2 | 1.3±0.3 | 7.4±1.8 | 9.4±2.0 | n/a |
+| Oxycodone Hydrochloride 3.33 mg (3.33 mL) oral sol’n. q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
 
 Absorption
 
