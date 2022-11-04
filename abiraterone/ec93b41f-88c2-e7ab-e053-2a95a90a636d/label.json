@@ -1,0 +1,17 @@
+{
+  "application_numbers": [],
+  "inn": "abiraterone",
+  "labeler": "Catalent Pharma Solutions, LLC",
+  "package_ndcs": [
+    "11014-0566-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "abiraterone acetate",
+      "name": "YONSA"
+    }
+  ],
+  "setid": "ec93b41f-88c2-e7ab-e053-2a95a90a636d",
+  "source": "dailymed"
+}
