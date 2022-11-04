@@ -2,7 +2,7 @@
 
 Misoprostol Tablets, 100 mcg are available as white, round, unscored, flat beveled-edged tablets, marked with “443” on one side and “N” on the reverse side.
 
-NDC NumberSize
+NDC Number Size
 
 70954-443-10 unit-of-use bottle of 60
 
@@ -10,7 +10,7 @@ NDC NumberSize
 
 Misoprostol Tablets, 200 mcg are available as white, round, scored, flat beveled-edged tablets, marked with “N” above the score-line and “444” below the score-line and plain on the reverse side.
 
-NDC NumberSize
+NDC Number Size
 
 70954-444-10 unit-of-use bottle of 60
 
@@ -31,6 +31,6 @@ ANI Pharmaceuticals, Inc.
 
 Baudette, MN 56623
 
-Issued: 02/2022
+Issued: 09/2022
 
-LB4429-01
+LB4429-02
