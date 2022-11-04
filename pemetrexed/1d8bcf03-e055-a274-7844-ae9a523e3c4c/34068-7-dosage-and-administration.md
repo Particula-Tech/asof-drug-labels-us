@@ -87,7 +87,7 @@ a National Cancer Institute Common Toxicity Criteria for Adverse Events version 
 
 ## 2.7 Preparation for Administration
 
-• Pemetrexed for injection is a cytotoxic drug.
+• Pemetrexed for injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 • Calculate the dose of pemetrexed for injection and determine the number of vials needed. • Reconstitute pemetrexed for injection to achieve a concentration of 25 mg/mL as follows:

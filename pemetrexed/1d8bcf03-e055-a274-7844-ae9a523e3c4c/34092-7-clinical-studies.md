@@ -55,11 +55,15 @@ d Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum ch
 
 NR = not reached
 
+At the protocol specified final OS analysis, the median in the pemetrexed for injection in combination with pembrolizumab and platinum chemotherapy arm was 22 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed for injection and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
+
 A+P+C = pemetrexed + pembrolizumab + platinum chemotherapy
 
 .A+C = pemetrexed + platinum chemotherapy + placebo.
 
-Figure1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189
+Figure1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189*
+
+*Based on the protocol-specified final OS analysis
 
 Initial Treatment in Combination with Cisplatin
 

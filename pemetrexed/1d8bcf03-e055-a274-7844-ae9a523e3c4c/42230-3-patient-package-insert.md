@@ -4,6 +4,8 @@ PEMETREXED FOR INJECTION
 
 (pem-e-TREX-ed)
 
+for Intravenous use
+
 What is Pemetrexed for Injection?
 
 Pemetrexed for injection is a prescription medicine used to treat:
@@ -11,16 +13,16 @@ Pemetrexed for injection is a prescription medicine used to treat:
 • a kind of lung cancer called non-squamous non-small cell lung cancer (NSCLC).
 Pemetrexed for injection is used:
 
-| -as the first treatment in combination with pembrolizumab and platinum chemotherapy when your lung cancer with no abnormal EGFR or ALK gene has spread (advanced NSCLC). -as the first treatment in combination with cisplatin when your lung cancer has spread (advanced NSCLC). -alone as maintenance treatment after you have received 4 cycles of chemotherapy that contains platinum for first treatment of your advanced NSCLC and your cancer has not progressed. - alone when your lung cancer has returned or spread after prior chemotherapy. |
+| -as the first treatment in combination with pembrolizumab and platinum chemotherapy when your lung cancer with no abnormal EGFR or ALK gene has spread (advanced NSCLC). -as the first treatment in combination with cisplatin when your lung cancer has spread (advanced NSCLC). -alone as maintenance treatment after you have received 4 cycles of chemotherapy that contains platinum for first treatment of your advanced NSCLC and your cancer has not progressed. - alone when your lung cancer has returned or spread after prior chemotherapy. Pemetrexed for injection is not for use for the treatment of people with squamous cell non-small cell lung cancer |
 | --- |
 
 • a kind of cancer called malignant pleural mesothelioma.
 This cancer affects the lining of the lungs and chest wall.
 Pemetrexed for injection is used in combination with cisplatin as the first treatment for malignant pleural mesothelioma that cannot be removed by surgery or you are not able to have surgery.
 
-It is not known if pemetrexed for Injection is safe and effective in children.
+Pemetrexed for injection has not been shown to be safe and effective in children.
 
-Do not take pemetrexed for injection: if you have had a severe allergic reaction to any medicine that contains pemetrexed.
+Do not take pemetrexed for injection if you have had a severe allergic reaction to any medicine that contains pemetrexed.
 
 Before taking pemetrexed for injection, tell your healthcare provider about all of your medical conditions, including if you:
 
@@ -30,14 +32,18 @@ Before taking pemetrexed for injection, tell your healthcare provider about all 
 
 • are pregnant or plan to become pregnant. pemetrexed for injection can harm your unborn baby.
 
-• Females who are able to become pregnant should use effective birth control (contraception) during treatment with pemetrexed for injection and for 6 months after the final dose.
+Females who are able to become pregnant:
+
+Your healthcare provider will check to see if you are pregnant before you start treatment with pemetrexed for injection
+
+You should use effective birth control (contraception) during treatment with pemetrexed for injection and for 6 months after the last dose.
 Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with pemetrexed for Injection.
 
-• Males with female partners who are able to become pregnant should use effective birth control (contraception) during treatment with pemetrexed for injection and for 3 months after the final dose.
+Males with female partners who are able to become pregnant should use effective birth control (contraception) during treatment with pemetrexed for injection and for 3 months after the last dose.
 
 • are breastfeeding or plan to breastfeed.
 It is not known if pemetrexed for injection passes into breast milk.
-Do not breastfeed during treatment with pemetrexed for Injection and for 1 week after the final dose.
+Do not breastfeed during treatment with pemetrexed for Injection and for 1 week after the last dose.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -63,7 +69,7 @@ Pemetrexed for injection can cause serious side effects, including:
 
 • Low blood cell counts.
 Low blood cell counts can be severe, including low white blood cell counts (neutropenia), low platelet counts (thrombocytopenia), and low red blood cell counts (anemia).
-Your healthcare provider will do blood test to check your blood cell counts regularly during your treatment with pemetrexed for injection.
+Your healthcare provider will do blood tests to check your blood cell counts regularly during your treatment with pemetrexed for injection.
 Tell your healthcare provider right away if you have any signs of infection, fever, bleeding, or severe tiredness during your treatment with pemetrexed for injection.
 
 • Kidney problems, including kidney failure.
@@ -104,7 +110,7 @@ The most common side effects of pemetrexed for Injection when given with cisplat
 | The most common side effects of pemetrexed for injection when given with pembrolizumab and platinum chemotherapy are: |
 | --- |
 
-| • tiredness/weakness • constipation • loss of appetite • vomiting • shortness of breath • nausea • diarrhea • rash • cough • fever |
+| • tiredness and weakness • constipation • loss of appetite • vomiting • shortness of breath • nausea • diarrhea • rash • cough • fever |
 | --- |
 
 Pemetrexed for injection may cause fertility problems in males.
@@ -112,7 +118,7 @@ This may affect your ability to father a child.
 It is not known if these effects are reversible.
 Talk to your healthcare provider if this is a concern for you.
 
-Your healthcare provider will do blood test to check for side effects during treatment with pemetrexed for injection.
+Your healthcare provider will do blood tests to check for side effects during treatment with pemetrexed for injection.
 Your healthcare provider may change your dose of pemetrexed for Injection, delay treatment, or stop treatment if you have certain side effects.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
@@ -149,4 +155,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Issued:0719
+Issued:0922

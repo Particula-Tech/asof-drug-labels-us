@@ -22,20 +22,25 @@ At doses, based on BSA, greater than or equal to 0.0012 times the 500 mg/m2 huma
 Risk Summary
 
 There is no information regarding the presence of pemetrexed or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
-Because of the potential for serious adverse reactions in breastfed infants from pemetrexed for injection, advise women not to breastfeed during treatment with pemetrexed for injection and for one week after last dose.
+Because of the potential for serious adverse reactions in breastfed infants from pemetrexed for injection, advise women not to breastfeed during treatment with pemetrexed for injection and for one week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
+
+Based on animal data pemetrexed can cause malformations and developmental delays when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
+Pregnancy Testing
+
+Verify pregnancy status of females of reproductive potential prior to initiating Pemetrexed Injection [see Use in Specific Populations (8.1)].
 
 Contraception
 
 Females
 
-Pemetrexed for injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with pemetrexed for injection for at least 6 months after the final dose of pemetrexed for injection.
+Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with pemetrexed for injectionand for 6 months after the last dose.
 
 Males
 
-Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with pemetrexed for injection and for 3 months after the final dose [see Nonclinical Toxicology (13.1)].
+Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with pemetrexed for injection and for 3 months after the last dose [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -47,18 +52,14 @@ It is not known whether these effects on fertility are reversible [see Nonclinic
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of pemetrexed for injection in pediatric patients have not been established.
-The safety and pharmacokinetics of pemetrexed for injection were evaluated in two clinical studies conducted in pediatric patients with recurrent solid tumors.
-Pemetrexed for injection was administered at doses ranging from 400 to 2,480 mg/m2 intravenously over 10 minutes on Day 1 of a 21-day cycle to 32 pediatric patients with recurrent solid tumors in a dose-finding study.
-The maximum tolerated dose (MTD) was determined to be 1,910 mg/m2 (60 mg/kg for patients <12 months old).
-Pemetrexed for injection was administered at the MTD every 21 days in an activity-estimating study enrolling 72 patients with relapsed or refractory osteosarcoma, Ewing sarcoma/peripheral primitive neural ectodermal tumor (PNET), rhabdomyosarcoma, neuroblastoma, ependymoma, medulloblastoma/supratentorial PNET, or non-brainstem high grade glioma.
+
+The safety and pharmacokinetics of pemetrexed for injection were evaluated in two clinical studies conducted in pediatric patients with recurrent solid tumors (NCT00070473 N=32 and NCT00520936 N=72).
 Patients in both studies received concomitant vitamin B12 and folic acid supplementation and dexamethasone.
 
 No tumor responses were observed.
 Adverse reactions observed in pediatric patients were similar to those observed in adults.
 
-Single-dose pharmacokinetics of pemetrexed for injection administered at doses ranging from 400 to 2,480 mg/m2 were evaluated in 22 patients (13 males and 9 females) age 4 to 18 years (average age 12 years).
-Pemetrexed exposure (AUC and Cmax) appeared to increase proportionally with dose.
-Average clearance (2.30 L/h/m2) and half-life (2.3 hours) were similar in pediatric patients compared to adults.
+Single-dose pharmacokinetics of pemetrexed for injection were evaluated in 22 patients age 4 to 18 years enrolled in NCT00070473 were within range of values in adults.
 
 ## 8.5 Geriatric Use
 
