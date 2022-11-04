@@ -1,0 +1,27 @@
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
+
+30 Capsules NDC 72989-372-30
+
+PROMETRIUM® (progesterone, USP) Capsules
+
+100 mg
+
+Rx only
+
+DO NOT USE IF ALLERGIC TO PEANUTS
+
+acertisTM PHARMACEUTICALS
+
+# PRINCIPAL DISPLAY PANEL - 200 mg Capsule Bottle Label
+
+30 Capsules NDC 72989-373-30
+
+PROMETRIUM® (progesterone, USP) Capsules
+
+200 mg
+
+Rx only
+
+DO NOT USE IF ALLERGIC TO PEANUTS
+
+acertisTM PHARMACEUTICALS

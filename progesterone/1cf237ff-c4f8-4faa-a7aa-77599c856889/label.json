@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019781"
+  ],
+  "inn": "progesterone",
+  "labeler": "Acertis Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "72989-372-30",
+    "72989-373-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "progesterone",
+      "name": "Prometrium"
+    }
+  ],
+  "setid": "1cf237ff-c4f8-4faa-a7aa-77599c856889",
+  "source": "dailymed"
+}
