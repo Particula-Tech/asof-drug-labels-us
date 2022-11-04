@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA216393"
+  ],
+  "inn": "trimethoprim",
+  "labeler": "Novitium Pharma LLC",
+  "package_ndcs": [
+    "70954-541-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "trimethoprim",
+      "name": "Trimethoprim"
+    }
+  ],
+  "setid": "95a1572c-6109-4d1f-bf92-262015a7654e",
+  "source": "dailymed"
+}

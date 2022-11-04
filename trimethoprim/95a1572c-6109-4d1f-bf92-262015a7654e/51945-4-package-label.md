@@ -1,0 +1,5 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Trimethoprim Tablets, USP 100 mg:
+
+NDC 70954-541-10 - Bottles of 100
