@@ -47,3 +47,5 @@ If you spilled any of the liquid, check with your healthcare provider to find ou
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
 Approved: August 2017
+
+COE5502
