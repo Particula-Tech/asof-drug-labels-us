@@ -4,7 +4,7 @@
 
 Table 1: Recommended Dosage in Adults
 
-| Indication | Renal Considerations Calculate CrCl based on actual weight. [See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)] | Dosage | Food/TimingSee Clinical Pharmacology (12.3) |
+| Indication | Renal Considerations Calculate CrCl based on actual weight. [See Warnings and Precautions (5.4) and Use in Specific Populations (8.6)] | Dosage | Food/Timing See Clinical Pharmacology (12.3) |
 | --- | --- | --- | --- |
 | Reduction in Risk of Stroke in Nonvalvular Atrial Fibrillation | CrCl >50 mL/min | 20 mg once daily | Take with evening meal |
 | CrCl ≤50 mL/min Patients with CrCl <30 mL/min were not studied, but administration of XARELTO is expected to result in serum concentrations of rivaroxaban similar to those in patients with moderate renal impairment (CrCl 30 to <50 mL/min) [see Use in Specific Populations (8.6)] | 15 mg once daily | Take with evening meal |  |
@@ -13,9 +13,9 @@ Table 1: Recommended Dosage in Adults
 | Reduction in the Risk of Recurrence of DVT and/or PE in patients at continued risk for DVT and/or PE | CrCl ≥15 mL/min | 10 mg once daily, after at least 6 months of standard anticoagulant treatment | Take with or without food |
 | CrCl <15 mL/min | Avoid Use |  |  |
 | Prophylaxis of DVT Following: |  |  |  |
-| -Hip Replacement SurgerySee Dosage and Administration (2.4) | CrCl ≥15 mL/min | 10 mg once daily for 35 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
+| Hip Replacement SurgerySee Dosage and Administration (2.4) | CrCl ≥15 mL/min | 10 mg once daily for 35 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
 | CrCl <15 mL/min | Avoid Use |  |  |
-| -Knee Replacement Surgery | CrCl ≥15 mL/min | 10 mg once daily for 12 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
+| Knee Replacement Surgery | CrCl ≥15 mL/min | 10 mg once daily for 12 days, 6–10 hours after surgery once hemostasis has been established | Take with or without food |
 | CrCl <15 mL/min | Avoid Use |  |  |
 | Prophylaxis of VTE in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding | CrCl ≥15 mL/min | 10 mg once daily, in hospital and after hospital discharge, for a total recommended duration of 31 to 39 days | Take with or without food |
 | CrCl <15 mL/min | Avoid Use |  |  |
@@ -26,12 +26,12 @@ Table 1: Recommended Dosage in Adults
 
 Treatment of Venous Thromboembolism and Reduction in Risk of Recurrent Venous Thromboembolism in Pediatric Patients
 
-Table 2: Recommended Dosage in Pediatric Patients Birth to Less than 18 Years for Treatment of and Reduction in Risk of Recurrent VTEInitiate XARELTO treatment following at least 5 days of initial parenteral anticoagulation therapy.,Patients <6 months of age should meet the following criteria: at birth were at least 37 weeks of gestation, have had at least 10 days of oral feeding, and weigh ≥2.6 kg at the time of dosing.
+Table 2: Recommended Dosage in Pediatric Patients Birth to Less than 18 Years for Treatment of and Reduction in Risk of Recurrent VTE Initiate XARELTO treatment following at least 5 days of initial parenteral anticoagulation therapy.,Patients <6 months of age should meet the following criteria: at birth were at least 37 weeks of gestation, have had at least 10 days of oral feeding, and weigh ≥2.6 kg at the time of dosing.
 
-| Once a DayOnce a day: approximately 24 hours apart; 2 times a day: approximately 12 hours apart; 3 times a day: approximately 8 hours apart | 2 Times a Day | 3 Times a Day |  |  |  |
+| Once a Day Once a day: approximately 24 hours apart; 2 times a day: approximately 12 hours apart; 3 times a day: approximately 8 hours apart | 2 Times a Day | 3 Times a Day |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Dosage Form | Body Weight | 1 mg XARELTO = 1 mL Suspension |  |  |  |
-| Dosage |  |  | Total Daily DoseAll doses should be taken with feeding or with food since exposures match that of 20 mg daily dose in adults. |  |  |
+| Dosage |  |  | Total Daily Dose All doses should be taken with feeding or with food since exposures match that of 20 mg daily dose in adults. |  |  |
 | Oral Suspension Only | 2.6 kg to 2.9 kg |  |  | 0.8 mg | 2.4 mg |
 | 3 kg to 3.9 kg |  |  | 0.9 mg | 2.7 mg |  |
 | 4 kg to 4.9 kg |  |  | 1.4 mg | 4.2 mg |  |
@@ -68,10 +68,10 @@ Thromboprophylaxis in Pediatric Patients with Congenital Heart Disease after the
 
 Table 3: Recommended Dosage for Thromboprophylaxis in Pediatric Patients with Congenital Heart Disease
 
-| Once a DayOnce a day: approximately 24 hours apart; 2 times a day: approximately 12 hours apart. | 2 Times a Day |  |  |  |
+| Once a Day Once a day: approximately 24 hours apart; 2 times a day: approximately 12 hours apart. | 2 Times a Day |  |  |  |
 | --- | --- | --- | --- | --- |
 | Dosage Form | Body Weight | 1 mg XARELTO = 1 mL Suspension |  |  |
-| Dosage |  | Total Daily DoseAll doses can be taken with or without food since exposures match that of 10 mg daily dose in adults. |  |  |
+| Dosage |  | Total Daily Dose All doses can be taken with or without food since exposures match that of 10 mg daily dose in adults. |  |  |
 | Oral Suspension Only | 7 kg to 7.9 kg |  | 1.1 mg | 2.2 mg |
 | 8 kg to 9.9 kg |  | 1.6 mg | 3.2 mg |  |
 | 10 kg to 11.9 kg |  | 1.7 mg | 3.4 mg |  |
@@ -101,12 +101,12 @@ Use in Renal Impairment in Pediatric Patients
 
 Patients 1 Year of Age or Older
 
-- Mild renal impairment (eGFR: 50 to ≤ 80 mL/min/1.73 m2): No dose adjustment is required.
-- Moderate or severe renal impairment (eGFR: <50 mL/min/1.73 m2): avoid use, as limited clinical data are available.
+- Mild renal impairment (eGFR: 50 to ≤ 80 mL/min/1.73 m 2): No dose adjustment is required.
+- Moderate or severe renal impairment (eGFR: <50 mL/min/1.73 m 2): avoid use, as limited clinical data are available.
 
 Estimated glomerular filtration rate (eGFR) can be done using the updated Schwartz formula, eGFR (Schwartz) = (0.413 × height in cm)/serum creatinine in mg/dL, if serum creatinine (SCr) is measured by an enzymatic creatinine method that has been calibrated to be traceable to isotope dilution mass spectrometry (IDMS).
 
-If SCr is measured with routine methods that have not been recalibrated to be traceable to IDMS (e.g., the traditional Jaffé reaction), the eGFR should be obtained from the original Schwartz formula: eGFR (mL/min/1.73 m2) = k * height (cm)/SCr (mg/dL), where k is proportionality constant:
+If SCr is measured with routine methods that have not been recalibrated to be traceable to IDMS (e.g., the traditional Jaffé reaction), the eGFR should be obtained from the original Schwartz formula: eGFR (mL/min/1.73 m 2) = k * height (cm)/SCr (mg/dL), where k is proportionality constant:
 
 - k = 0.55 in children 1 year to 13 years
 - k = 0.55 in girls > 13 and < 18 years
@@ -115,11 +115,11 @@ If SCr is measured with routine methods that have not been recalibrated to be tr
 Patients Less than 1 Year of Age
 
 Determine renal function using serum creatinine.
-Avoid use of XARELTO in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile, as no clinical data are available.
+Avoid use of XARELTO in pediatric patients younger than 1 year with serum creatinine results above 97.5 th percentile, as no clinical data are available.
 
 Table 4: Reference Values of Serum Creatinine in Pediatric Patients <1 Year of Age
 
-| Age | 97.5th Percentile of Creatinine (mg/dL) | 97.5th Percentile of Creatinine (µmol/L) |
+| Age | 97.5 th Percentile of Creatinine (mg/dL) | 97.5 th Percentile of Creatinine (µmol/L) |
 | --- | --- | --- |
 | Week 2 | 0.52 | 46 |
 | Week 3 | 0.46 | 41 |

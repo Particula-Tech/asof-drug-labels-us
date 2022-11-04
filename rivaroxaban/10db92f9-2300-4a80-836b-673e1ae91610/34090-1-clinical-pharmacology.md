@@ -11,7 +11,7 @@ By inhibiting FXa, rivaroxaban decreases thrombin generation.
 ## 12.2 Pharmacodynamics
 
 Rivaroxaban produces dose-dependent inhibition of FXa activity.
-Clotting tests, such as prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest®, are also prolonged dose-dependently.
+Clotting tests, such as prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest ®, are also prolonged dose-dependently.
 In children treated with rivaroxaban, the correlation between anti-factor Xa to plasma concentrations is linear with a slope close to 1.
 
 Monitoring for anticoagulation effect of rivaroxaban using anti-FXa activity or a clotting test is not recommended.
@@ -24,7 +24,7 @@ The relationship between systemic exposure and pharmacodynamic activity of rivar
 
 Table 18: Percentage Increase in Rivaroxaban PK and PD Measures in Adult Subjects with Renal Impairment Relative to Healthy Subjects from Clinical Pharmacology Studies
 
-| 50–79 | 30–49 | 15–29 | ESRD (on dialysis)Separate stand-alone study. | ESRD (post-dialysis) |  |  |
+| 50–79 | 30–49 | 15–29 | ESRD (on dialysis) Separate stand-alone study. | ESRD (post-dialysis) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Measure | Parameter | Creatinine Clearance (mL/min) |  |  |  |  |
 | Exposure | AUC | 44 | 52 | 64 | 47 | 56 |
@@ -45,20 +45,20 @@ The absolute bioavailability of rivaroxaban is dose-dependent.
 For the 2.5 mg and 10 mg dose, it is estimated to be 80% to 100% and is not affected by food.
 XARELTO 2.5 mg and 10 mg tablets can be taken with or without food.
 XARELTO 20 mg administered in the fasted state has an absolute bioavailability of approximately 66%.
-Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
+Coadministration of XARELTO with food increases the bioavailability of the 20 mg dose (mean AUC and C max increasing by 39% and 76% respectively with food).
 XARELTO 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
 
-The maximum concentrations (Cmax) of rivaroxaban appear 2 to 4 hours after tablet intake.
+The maximum concentrations (C max) of rivaroxaban appear 2 to 4 hours after tablet intake.
 The pharmacokinetics of rivaroxaban were not affected by drugs altering gastric pH.
-Coadministration of XARELTO (30 mg single dose) with the H2-receptor antagonist ranitidine (150 mg twice daily), the antacid aluminum hydroxide/magnesium hydroxide (10 mL) or XARELTO (20 mg single dose) with the PPI omeprazole (40 mg once daily) did not show an effect on the bioavailability and exposure of rivaroxaban (see Figure 3).
+Coadministration of XARELTO (30 mg single dose) with the H 2-receptor antagonist ranitidine (150 mg twice daily), the antacid aluminum hydroxide/magnesium hydroxide (10 mL) or XARELTO (20 mg single dose) with the PPI omeprazole (40 mg once daily) did not show an effect on the bioavailability and exposure of rivaroxaban (see Figure 3).
 
 Absorption of rivaroxaban is dependent on the site of drug release in the GI tract.
-A 29% and 56% decrease in AUC and Cmax compared to tablet was reported when rivaroxaban granulate is released in the proximal small intestine.
+A 29% and 56% decrease in AUC and C max compared to tablet was reported when rivaroxaban granulate is released in the proximal small intestine.
 Exposure is further reduced when drug is released in the distal small intestine, or ascending colon.
 Avoid administration of rivaroxaban distal to the stomach which can result in reduced absorption and related drug exposure.
 
-In a study with 44 healthy subjects, both mean AUC and Cmax values for 20 mg rivaroxaban administered orally as a crushed tablet mixed in applesauce were comparable to that after the whole tablet.
-However, for the crushed tablet suspended in water and administered via an NG tube followed by a liquid meal, only mean AUC was comparable to that after the whole tablet, and Cmax was 18% lower.
+In a study with 44 healthy subjects, both mean AUC and C max values for 20 mg rivaroxaban administered orally as a crushed tablet mixed in applesauce were comparable to that after the whole tablet.
+However, for the crushed tablet suspended in water and administered via an NG tube followed by a liquid meal, only mean AUC was comparable to that after the whole tablet, and C max was 18% lower.
 
 Distribution
 
@@ -105,7 +105,7 @@ The terminal elimination half-life is 11 to 13 hours in the elderly subjects age
 Pediatric Patients
 
 The rate and extent of absorption were similar between the tablet and suspension.
-After repeated administration of rivaroxaban for the treatment of VTE, the Cmax of rivaroxaban in plasma was observed at median times of 1.5 to 2.2 hours in subjects who ranged from birth to less than 18 years of age.
+After repeated administration of rivaroxaban for the treatment of VTE, the C max of rivaroxaban in plasma was observed at median times of 1.5 to 2.2 hours in subjects who ranged from birth to less than 18 years of age.
 
 In children who were 6 months to 9 years of age, in vitro plasma protein binding of rivaroxaban is approximately 90%.
 
@@ -114,19 +114,19 @@ Mean half-life values were 4.2 hours in adolescents, 3 hours in children 2 to 12
 
 An exploratory analysis in pediatric patients treated for VTE did not reveal relevant differences in rivaroxaban exposure based on gender or race.
 
-Renal Impairment
-
-The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Figure 2).
-Compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased in subjects with renal impairment.
-Increases in pharmacodynamic effects were also observed [see Use in Specific Populations (8.6)].
-
 Hemodialysis in ESRD subjects: Systemic exposure to rivaroxaban administered as a single 15 mg dose in ESRD subjects dosed 3 hours after the completion of a 4-hour hemodialysis session (post-dialysis) is 56% higher when compared to subjects with normal renal function (see Table 18).
 The systemic exposure to rivaroxaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 600 mL/min and a blood flow rate in the range of 320 to 400 mL/min is 47% higher compared to those with normal renal function.
 The extent of the increase is similar to the increase in patients with CrCl 15 to 50 mL/min taking XARELTO 15 mg.
 Hemodialysis had no significant impact on rivaroxaban exposure.
 Protein binding was similar (86% to 89%) in healthy controls and ESRD subjects in this study.
 
-Pediatric Patients: Limited clinical data are available in children 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2) or in children younger than 1 year with serum creatinine results above 97.5th percentile [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Pediatric Patients: Limited clinical data are available in children 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m 2) or in children younger than 1 year with serum creatinine results above 97.5th percentile [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+
+Renal Impairment
+
+The safety and pharmacokinetics of single-dose XARELTO (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Figure 2).
+Compared to healthy subjects with normal creatinine clearance, rivaroxaban exposure increased in subjects with renal impairment.
+Increases in pharmacodynamic effects were also observed [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
@@ -167,7 +167,7 @@ There was no change in the pharmacokinetics of either drug.
 Drug-Disease Interactions with Drugs that Inhibit Cytochrome P450 3A Enzymes and Drug Transport Systems
 
 In a pharmacokinetic trial, XARELTO was administered as a single dose in subjects with mild (CrCl = 50 to 79 mL/min) or moderate renal impairment (CrCl = 30 to 49 mL/min) receiving multiple doses of erythromycin (a combined P-gp and moderate CYP3A inhibitor).
-Compared to XARELTO administered alone in subjects with normal renal function (CrCl >80 mL/min), subjects with mild and moderate renal impairment concomitantly receiving erythromycin reported a 76% and 99% increase in AUCinf and a 56% and 64% increase in Cmax, respectively.
+Compared to XARELTO administered alone in subjects with normal renal function (CrCl >80 mL/min), subjects with mild and moderate renal impairment concomitantly receiving erythromycin reported a 76% and 99% increase in AUC inf and a 56% and 64% increase in C max, respectively.
 Similar trends in pharmacodynamic effects were also observed.
 
 ## 12.6 QT/QTc Prolongation

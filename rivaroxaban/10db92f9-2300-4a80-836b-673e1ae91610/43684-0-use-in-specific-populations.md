@@ -143,10 +143,10 @@ It is not known whether these concentrations will lead to similar CV risk reduct
 
 Pediatric Use
 
-No dosage adjustment is required in patients 1 year of age or older with mild renal impairment (eGFR 50 to ≤ 80 mL/min/1.73 m2).
-There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2); therefore, avoid the use of XARELTO in these patients.
+No dosage adjustment is required in patients 1 year of age or older with mild renal impairment (eGFR 50 to ≤ 80 mL/min/1.73 m 2).
+There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m 2); therefore, avoid the use of XARELTO in these patients.
 
-There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2)].
+There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5 th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2)].
 
 ## 8.7 Hepatic Impairment
 

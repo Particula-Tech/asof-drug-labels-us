@@ -16,7 +16,7 @@ Discontinue XARELTO in patients with active pathological hemorrhage.
 The terminal elimination half-life of rivaroxaban is 5 to 9 hours in healthy subjects aged 20 to 45 years.
 
 Concomitant use of other drugs that impair hemostasis increases the risk of bleeding.
-These include aspirin, P2Y12 platelet inhibitors, dual antiplatelet therapy, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
+These include aspirin, P2Y 12 platelet inhibitors, dual antiplatelet therapy, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
 Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
 
@@ -81,9 +81,9 @@ Discontinue XARELTO in patients who develop acute renal failure while on treatme
 
 Pediatric Patients
 
-There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2); therefore, avoid the use of XARELTO in these patients.
+There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m 2); therefore, avoid the use of XARELTO in these patients.
 
-There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5 th percentile; therefore, avoid the use of XARELTO in these patients [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 ## 5.5 Use in Patients with Hepatic Impairment
 

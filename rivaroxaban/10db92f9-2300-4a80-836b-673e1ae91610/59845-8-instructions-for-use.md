@@ -1,4 +1,4 @@
-# Instructions for Use XARELTO® (zah-REL-toe) (rivaroxaban) for oral suspension
+# Instructions for Use XARELTO ® (zah-REL-toe) (rivaroxaban) for oral suspension
 
 This Instructions for Use contains information on how to give a dose of XARELTO oral suspension.
 
@@ -26,7 +26,7 @@ Keep XARELTO and all medicines out of reach of children.
 
 XARELTO Oral Dosing Syringe:
 
-| Side 1: Dosing in milliliters (mL) | Side 2: Dosing with color bandThe color band is an aid to withdraw the prescribed dose. (mL) |
+| Side 1: Dosing in milliliters (mL) | Side 2: Dosing with color band The color band is an aid to withdraw the prescribed dose. (mL) |
 | --- | --- |
 
 XARELTO Bottle
