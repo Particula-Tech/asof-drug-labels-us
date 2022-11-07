@@ -3,7 +3,7 @@
 ## Lithium Toxicity
 
 The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2 mEq/L).
-Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNING and DOSAGE AND ADMINISTRATION).
+Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNINGandDOSAGE AND ADMINISTRATION).
 Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed.
 
 Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, lack of coordination, and weakness; to moderate manifestations like giddiness, apathy, drowsiness, hyperreflexia, muscle twitching, ataxia, blurred vision, tinnitus, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma, and death.
@@ -148,6 +148,9 @@ In some cases, lithium toxicity has resulted from interactions between a NSAID a
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
 There is also evidence that other nonsteroidal anti‑inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone.
+
+Concomitant use of lithium with a Sodium-Glucose Cotransporter 2 (SGLT2) inhibitor may decrease serum lithium concentrations.
+Monitor serum lithium concentration more frequently during SGLT2 inhibitor initiation and dosage changes.
 
 Lithium may impair mental and/or physical abilities.
 Patients should be cautioned about activities requiring alertness (e.g., operating vehicles or machinery).
