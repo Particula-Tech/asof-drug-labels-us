@@ -7,7 +7,7 @@ Available in amber glass bottles containing 250 mL of oral suspension.
 
 Supplied with a 10 mL dosing syringe and press-in bottle adapter.
 
-250 mL oral suspension in 1 Bottle: NDC 65162-649-78
+250 mL oral suspension in 1 Bottle: NDC 65162-649-78 5 mL unit dose cup NDC 65162-649-43 10 unit dose cups in a tray NDC 65162-649-48
 
 Store oxcarbazepine oral suspension, USP in the original container.
 Shake well before using.

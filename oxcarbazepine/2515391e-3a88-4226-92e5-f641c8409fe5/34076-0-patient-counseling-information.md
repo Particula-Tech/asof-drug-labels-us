@@ -64,4 +64,4 @@ This registry is collecting information about the safety of antiepileptic drugs 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2019-05
+08-2022-06
