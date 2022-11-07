@@ -14,8 +14,6 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
-DEA Order Form Required.
-
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Manufactured For:
@@ -25,4 +23,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-E 2/2022
+F 10/2022

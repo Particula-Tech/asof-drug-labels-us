@@ -1,8 +1,12 @@
-# MEDICATION GUIDE
-
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Dextroamphetamine Sulfate (dex'' troe am fet' uh meen sul' fate) Tablets, USP CII
+MEDICATION GUIDE
+
+Dextroamphetamine Sulfate
+
+(dex" troe am fet' uh meen sul' fate)
+
+Tablets, USP CII
 
 Read the Medication Guide that comes with Dextroamphetamine Sulfate Tablets before you or your child starts taking them and each time you get a refill.
 There may be new information.
