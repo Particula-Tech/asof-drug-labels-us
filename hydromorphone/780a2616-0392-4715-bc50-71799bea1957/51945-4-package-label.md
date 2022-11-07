@@ -1,8 +1,8 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 8 mg
 
-Rx Only
-
 NDC 0574-0293-01
+
+Rx Only
 
 Once Daily
 
@@ -12,15 +12,18 @@ CII
 
 For opioid tolerant patients only
 
-Dispense the accompanying Medication Guide to each patient
+Dispense the accompanying Medication Guide to each patient.
+Print Medication Guides at www.padagis.com/medguide/HDMRTabs
 
-100 Tablets
+100 TABLETS
 
 The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 12 mg
 
 0574-0294-01
+
+Rx Only
 
 Once Daily
 
@@ -30,17 +33,18 @@ CII
 
 For opioid tolerant patients only
 
-Dispense the accompanying Medication Guide to each patient
+Dispense the accompanying Medication Guide to each patient.
+Print Medication Guides at www.padagis.com/medguide/HDMRTabs
 
-100 Tablets
-
-Rx Only
+100 TABLETS
 
 The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 16 mg
 
 NDC 0574-0295-01
+
+Rx Only
 
 Once Daily
 
@@ -50,17 +54,18 @@ CII
 
 For opioid tolerant patients only
 
-Dispense the accompanying Medication Guide to each patient
+Dispense the accompanying Medication Guide to each patient.
+Print Medication Guides at www.padagis.com/medguide/HDMRTabs
 
-100 Tablets
-
-Rx Only
+100 TABLETS
 
 The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.
 
 # Package/Label Display Panel – 32 mg
 
 NDC 0574-0297-01
+
+Rx Only
 
 Once Daily
 
@@ -70,10 +75,9 @@ CII
 
 For opioid tolerant patients only
 
-Dispense the accompanying Medication Guide to each patient
+Dispense the accompanying Medication Guide to each patient.
+Print Medication Guides at www.padagis.com/medguide/HDMRTabs
 
-100 Tablets
-
-Rx Only
+100 TABLETS
 
 The following image is a placeholder representing the product identifier that is either affixed or imprinted on the drug package label during the packaging operation.

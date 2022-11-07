@@ -123,15 +123,13 @@ Advise patients of the potential for severe constipation, including management i
 
 Manufactured By
 
-Perrigo®
+Padagis
 
 Minneapolis, MN 55427
 
-2203457
+1B500 RC J15
 
-1B500 RC J14
-
-Rev 08-20 F
+Rev 10-22
 
 PHARMACIST: Dispense a separate Medication Guide to each patient.
-Medication Guides available at: www.perrigorx.com or call 1-866-634-9120
+Dispense with Medication Guide available at www.padagis.com/medguide/HDRMTabs

@@ -16,6 +16,12 @@ Healthcare providers are strongly encouraged to
 - •emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and
 - •consider other tools to improve patient, household, and community safety.
 
+counsel patients and/or their caregivers, with every prescription, on safe use, serious risks, storage, and disposal of these products,
+
+emphasize to patients and their caregivers the importance of reading the Medication Guide every time it is provided by their pharmacist, and
+
+consider other tools to improve patient, household, and community safety.
+
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of hydromorphone hydrochloride extended-release tablets.
@@ -38,3 +44,7 @@ Concomitant use of opioids with benzodiazepines or other central nervous system 
 - •Reserve concomitant prescribing of hydromorphone hydrochloride extended-release tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate.
 - •Limit dosages and durations to the minimum required.
 - •Follow patients for signs and symptoms of respiratory depression and sedation.
+
+Limit dosages and durations to the minimum required.
+
+Follow patients for signs and symptoms of respiratory depression and sedation.

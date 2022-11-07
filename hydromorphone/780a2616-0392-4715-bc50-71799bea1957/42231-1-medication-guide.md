@@ -1,5 +1,9 @@
 # Medication Guide
 
+Dispense with Medication Guide available at www.padagis.com/medguide/HDRMTabs
+
+Medication Guide
+
 Hydromorphone Hydrochloride (hy-druh-mor-fon hy-druh-klawr-ahyd) Extended-Release Tablets, CII
 
 Hydromorphone hydrochloride extended-release tablets are:
@@ -88,14 +92,14 @@ For more information go to dailymed.nlm.nih.gov
 
 Manufactured By
 
-Perrigo®
+Padagis
 
 Minneapolis, MN 55427
 
-2203068 1B500 RC IC5 Rev 08-20 E
+1B500 RC IC6 Rev 10-22
 
-www.perrigorx.com or call 1-866-634-9120
+www.padagis.com or call 1-866-634-9120
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised August 2020
+Revised October 2022
