@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA022012"
+  ],
+  "inn": "carvedilol",
+  "labeler": "Woodward Pharma Services LLC",
+  "package_ndcs": [
+    "69784-383-13",
+    "69784-385-13",
+    "69784-387-13",
+    "69784-388-13"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carvedilol phosphate",
+      "name": "Coreg CR"
+    }
+  ],
+  "setid": "9008ede8-3e53-4061-ae4c-c51cbbb56ef2",
+  "source": "dailymed"
+}

@@ -1,0 +1,5 @@
+Distributed by: Woodward Pharma Services LLC Wixom, MI 48393
+
+February 2022
+
+PHARMACIST—DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
