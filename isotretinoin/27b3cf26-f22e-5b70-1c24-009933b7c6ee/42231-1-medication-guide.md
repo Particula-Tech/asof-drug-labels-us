@@ -73,7 +73,7 @@ If untreated, nodular acne can lead to permanent scars.
 Who should not take Zenatane?
 
 - Do not take Zenatane if you are pregnant, plan to become pregnant, or become pregnant during Zenatane treatment.
-  Zenatane causes severe birth defects.
+  Zenatane causes life-threatening birth defects.
   See “What is the most important information I should know about Zenatane?”
 - Do not take Zenatane if you are allergic to anything in it.
   See the end of this Medication Guide for a complete list of ingredients in Zenatane.
@@ -293,6 +293,6 @@ Princeton, NJ 08540
 
 Made in India
 
-Revised: 02/2022
+Revised: 09/2022
 
 Zenatane is a trademark of Dr. Reddy's Laboratories, Inc. and/or its affiliates.

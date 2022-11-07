@@ -145,7 +145,7 @@ These include:
 - pharmacies licensed in the US and enrolled and activated in the iPLEDGE REMS
 
 - Notifying the isotretinoin manufacturer (or delegate) of any non-enrolled and/or non-activated pharmacy or unenrolled wholesaler that attempts to order isotretinoin
-- Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
+- Complying with inspection/audit of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
 - Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE REMS or if the wholesaler chooses to not re-enroll annually
 
 Prescribers:
@@ -243,7 +243,7 @@ Isotretinoin is contraindicated in patients who are pregnant.
 To receive isotretinoin all patients must meet all of the following conditions:
 
 - Must be enrolled with the iPLEDGE REMS by the prescriber
-- Must understand that severe birth defects can occur with the use of isotretinoin by patients who can become pregnant
+- Must understand that life threatening birth defects can occur with the use of isotretinoin by patients who can become pregnant
 - Must be reliable in understanding and carrying out instructions
 - Must sign a Patient Enrollment Form for Patients who cannot get Pregnant that contains warnings about the potential risks associated with isotretinoin
 - Must obtain the prescription within 7 days of the date of specimen collection for the pregnancy test for patients who can become pregnant
@@ -318,7 +318,7 @@ The main goal of these educational materials is to explain the iPLEDGE Program r
 The iPLEDGE REMS includes information on the risks and benefits of Zenatane which is linked to the Medication Guide dispensed by pharmacists with each isotretinoin prescription.
 
 4) The Fact Sheet for the iPLEDGE REMS includes information on the iPLEDGE REMS, the product indications and safety information.
-This is handout is provided to both the patient who can become pregnant and the patient who cannot become pregnant.
+This handout is provided to both the patient who can become pregnant and the patient who cannot become pregnant.
 The Patient Enrollment Form for Patients who cannot get Pregnant is also provided to all patients.
 
 5) Patients who can become pregnant are provided with a Guide for Patients Who Can Get Pregnant, which contains information on isotretinoin therapy including precautions and warnings, and a second Patient Enrollment Form for Patients who can get Pregnant concerning birth defects, and a toll-free line which provides Zenatane information in two languages.

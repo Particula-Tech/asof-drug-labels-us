@@ -16,7 +16,7 @@ _________________________________________________________
 (Patient’s Name)
 
 1.
-I understand that there is a very high chance that my unborn baby could have severe birth defects if I am pregnant or become pregnant while taking isotretinoin.
+I understand that there is a very high chance that my unborn baby could have life-threatening birth defects if I am pregnant or become pregnant while taking isotretinoin.
 This can happen with any amount and even if taken for short periods of time.
 This is why I must not be pregnant while taking isotretinoin.
 

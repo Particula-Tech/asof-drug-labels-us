@@ -1,7 +1,7 @@
 CONTRAINDICATIONS AND WARNINGS
 
 ZenataneTM must not be used by patients who are or may become pregnant.
-There is an extremely high risk that severe birth defects will result if pregnancy occurs while taking Zenatane in any amount, even for short periods of time.
+There is an extremely high risk that life-threatening birth defects will result if pregnancy occurs while taking Zenatane in any amount, even for short periods of time.
 Potentially any fetus exposed during pregnancy can be affected.
 There are no accurate means of determining whether an exposed fetus has been affected.
 
