@@ -10,7 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Postural Deformity [see Warnings and Precautions (5.6)].
 - Rhabdomyolysis [see Warnings and Precautions (5.8)].
 - Retinal Pathology [see Warnings and Precautions (5.9)].
-- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)
+- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
 - ﻿Withdrawal Symptoms [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
@@ -88,7 +88,7 @@ In these studies, pramipexole dihydrochloride tablets or placebo was administere
 
 Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Advanced Parkinson's Disease
 
-| Body System/ Adverse Event | Pramipexole Dihydrochloride Tablets (N=260) % | Placebo (N=264) % |
+| Body System/Adverse Event | Pramipexole Dihydrochloride Tablets(N=260)% | Placebo(N=264)% |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dyskinesia | 47 | 31 |
@@ -214,7 +214,7 @@ Cardiac Disorders: cardiac failure
 
 Gastrointestinal Disorders: vomiting
 
-General Disorders and Administration Site Conditions:withdrawal symptoms[see Warnings and Precautions (5.11)]
+General Disorders and Administration Site Conditions:withdrawal symptoms [see Warnings and Precautions (5.11)]
 
 Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase
 
