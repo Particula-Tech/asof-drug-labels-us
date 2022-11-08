@@ -115,7 +115,7 @@ Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 
 | Target topiramate Dosage (mg per day) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Study # |  | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ͌ 6 mg/ kg/day* |
+| Study # |  | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | 6 mg/ kg/day* |
 | Partial-Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |  |
 |  | N |  | 45 | 45 | 45 | 46 | -- | -- | -- |
 | 2 | Median % Reduction |  | 12 | 27a | 48b | 45c | -- | -- | -- |

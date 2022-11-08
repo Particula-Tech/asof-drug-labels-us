@@ -10,7 +10,6 @@ Symptoms typically occur within 1 month of initiating topiramate therapy.
 In contrast to primary narrow angle glaucoma, which is rare under 40 years of age, secondary angle closure glaucoma associated with topiramate has been reported in pediatric patients as well as adults.
 The primary treatment to reverse symptoms is discontinuation of topiramate as rapidly as possible, according to the judgment of the treating physician.
 Other measures, in conjunction with discontinuation of topiramate, may be helpful.
-
 Elevated intraocular pressure of any etiology, if left untreated, can lead to serious sequelae including permanent vision loss.
 
 ## 5.2 Visual Field Defects
@@ -138,7 +137,7 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.7 Fetal Toxicity
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age (SGA).
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
 Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1), Patient Counseling Information (17)].

@@ -30,9 +30,10 @@ Discuss the appropriate level of caution with patients, before patients with epi
 
 Fetal Toxicity
 
-Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
+Inform pregnant women and women of childbearing potential that use of topiramate during pregnancy can cause fetal harm.
+Topiramate increases the risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
 Also inform patients that infants exposed to topiramate monotherapy in utero may be SGA [see Use in Specific Populations (8.1)].
-There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1].
+There may also be risks to the fetus from chronic metabolic acidosis with use of topiramate during pregnancy [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
 
 Advise women of childbearing potential who are not planning a pregnancy to use effective contraception while using topiramate, keeping in mind that there is a potential for decreased contraceptive efficacy when using estrogen-containing birth control with topiramate [see Drug Interactions (7.4)].
@@ -72,4 +73,4 @@ However, if a patient is within 6 hours of taking the next scheduled dose, tell 
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
 
-14-R-02/2022
+16-R-10/2022

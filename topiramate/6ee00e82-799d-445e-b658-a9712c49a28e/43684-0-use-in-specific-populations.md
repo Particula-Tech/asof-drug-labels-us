@@ -13,13 +13,15 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 Risk Summary
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being SGA [see Human Data].
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
 SGA has been observed at all doses and appears to be dose-dependent.
 The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
 In addition, the prevalence of SGA in infants of women who continued topiramate use until later in pregnancy is higher compared to the prevalence in infants of women who stopped topiramate use before the third trimester.
 
 In multiple animal species, topiramate produced developmental toxicity, including increased incidences of fetal malformations, in the absence of maternal toxicity at clinically relevant doses [see Animal Data].
 
+All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2-4% and 15-20%, respectively.
 
 Clinical Considerations
@@ -45,10 +47,11 @@ Data
 
 Human Data
 
-Data from pregnancy registries indicate an increased risk of oral clefts in infants exposed to topiramate during the first trimester of pregnancy.
-In the NAAED pregnancy registry, the prevalence of oral clefts among topiramate-exposed infants (1.1%) was higher than the prevalence of infants exposed to a reference AED (0.36%) or the prevalence of infants in mothers without epilepsy and without exposure to AEDs (0.12%).
+Data from pregnancy registries indicate an increased risk of major congenital malformations, including but not limited to oral clefts in infants exposed to topiramate during the first trimester of pregnancy.
+Other than oral clefts, no specific pattern of major congenital malformations or grouping of major congenital malformation types were observed.
+In the NAAED pregnancy registry, when topiramate-exposed infants with only oral clefts were excluded, the prevalence of major congenital malformations (4.1%) was higher than that in infants exposed to a reference AED (1.8%) or in infants with mothers without epilepsy and without exposure to AEDs (1.1%).The prevalence of oral clefts among topiramate-exposed infants (1.4%) was higher than the prevalence in infants exposed to a reference AED (0.3%) or the prevalence in infants with mothers without epilepsy and without exposure to AEDs (0.11%).
 It was also higher than the background prevalence in United States (0.17%) as estimated by the Centers for Disease Control and Prevention (CDC).
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 9.6 (95% Confidence Interval [CI] 4.0 to 23.0) as compared to the risk in a background population of untreated women.
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI] 5.9-26.37) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
 Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
@@ -97,17 +100,23 @@ Limited data from 5 women with epilepsy treated with topiramate during lactation
 
 Contraception
 
-Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risks of oral clefts and SGA [see Drug Interactions (7.4) and Use in Specific Populations 8.1].
+Women of childbearing potential who are not planning a pregnancy should use effective contraception because of the risk of major congenital malformations, including oral clefts, and the risk of infants being SGA [see Drug Interactions (7.4) and Use in Specific Populations 8.1].
 
 ## 8.4 Pediatric Use
 
-Adjunctive Treatment for Partial-Onset Epilepsy in Pediatric Patients 1 to 24 months
+Adjunctive Treatment for Epilepsy
+
+Pediatric Patients 2 Years of Age and Older
+
+The safety and effectiveness of topiramate as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
+
+Pediatric Patients Below the Age of 2 Years
 
 Safety and effectiveness in patients below the age of 2 years have not been established for the adjunctive therapy treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome.
 In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial-onset seizures were assessed.
 After 20 days of double-blind treatment, topiramate (at fixed doses of 5, 15, and 25 mg/kg/day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
-In general, the adverse reaction profile for topiramate in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications.
+In general, the adverse reaction profile for topiramate in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications).
 
 These very young pediatric patients appeared to experience an increased risk for infections (any topiramate dose 12%, placebo 0%) and of respiratory disorders (any topiramate dose 40%, placebo 16%).
 The following adverse reactions were observed in at least 3% of patients on topiramate and were 3% to 7% more frequent than in patients on placebo: viral infection, bronchitis, pharyngitis, rhinitis, otitis media, upper respiratory infection, cough, and bronchospasm.
@@ -134,13 +143,11 @@ However, because of the absence of an appropriate control group, it is not known
 In this open-label, uncontrolled study, the mortality was 37 deaths/1000 patient years.
 It is not possible to know whether this mortality rate is related to topiramate treatment, because the background mortality rate for a similar, significantly refractory, young pediatric population (1-24 months) with partial epilepsy is not known.
 
-Monotherapy Treatment in Partial-Onset Epilepsy in Patients <2 Years Old
+Monotherapy Treatment for Epilepsy
 
-Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
+Pediatric Patients 2 Years of Age and Older
 
-Monotherapy Treatment in Patients 2 Years of Age and Older
-
-The safety and effectiveness for partial-onset seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+The safety and effectiveness of topiramate as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
 A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of topiramate (N=28, 6-15 years of age) versus levetiracetam (N=35, 4-15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
@@ -172,7 +179,13 @@ The decrease in BMD at 12 months was correlated with decreased serum bicarbonate
 
 Topiramate-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
 
-Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age
+Pediatric Patients Below the Age of 2 Years
+
+Safety and effectiveness in patients below the age of 2 years have not been established for the monotherapy treatment of epilepsy.
+
+Preventive Treatment of Migraine
+
+Pediatric Patients 12 to 17 Years of Age
 
 Safety and effectiveness of topiramate for the preventive treatment of migraine was studied in 5 double-blind, randomized, placebo-controlled, parallel-group trials in a total of 219 pediatric patients, at doses of 50 to 200 mg/day, or 2 to 3 mg/kg/day.
 These comprised a fixed dose study in 103 pediatric patients 12 to 17 years of age [see Clinical Studies (14.3)], a flexible dose (2 to 3 mg/kg/day), placebo-controlled study in 157 pediatric patients 6 to 16 years of age (including 67 pediatric patients 12 to 16 years of age), and a total of 49 pediatric patients 12 to 17 years of age in 3 studies for the preventive treatment of migraine primarily in adults.
@@ -192,7 +205,7 @@ Abnormally decreased results were observed with topiramate vs placebo treatment 
 
 Notable changes (increases and decreases) from baseline in systolic blood pressure, diastolic blood pressure, and pulse were observed occurred more commonly in pediatric patients treated with topiramate compared to pediatric patients treated with placebo [see Clinical Pharmacology (12.2)].
 
-Preventive Treatment of Migraine in Pediatric Patients 6 to 11 Years of Age
+Pediatric Patients Below the Age of 12 Years
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 
