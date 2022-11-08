@@ -4,6 +4,8 @@ Cardiovascular Thrombotic Events
   This risk may occur early in treatment and may increase with duration of use (see WARNINGS and PRECAUTIONS).
 - •Ibuprofen Oral Suspension is contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see CONTRAINDICATIONS and WARNINGS).
 
+Ibuprofen Oral Suspension is contraindicated in the setting of coronary artery bypass graft (CABG) surgery (see CONTRAINDICATIONS and WARNINGS).
+
 Gastrointestinal Risk
 
 - •NSAIDs cause an increased risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal.

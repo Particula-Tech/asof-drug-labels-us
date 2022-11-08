@@ -104,7 +104,7 @@ DRESS typically, although not exclusively, presents with fever, rash, lymphadeno
 Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
 Sometimes symptoms of DRESS may resemble an acute viral infection.
 Eosinophilia is often present.
-Because this disorder is variable in it's presentation, other organ systems not noted here may be involved.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, discontinue Ibuprofen Oral Suspension and evaluate the patient immediately.
 
@@ -259,6 +259,8 @@ Oligohydramnios/Neonatal Renal Impairment
 Use of NSAIDs at about 20 weeks gestation or later in pregnancy has been associated with cases of fetal renal dysfunction leading to oligohydramnios, and in some cases, neonatal renal impairment.
 
 Data from observational studies regarding other potential embryofetal risks of NSAID use in women in the first or second trimesters of pregnancy are inconclusive.
+Animal reproductive studies conducted in rats and rabbits have not demonstrated evidence of developmental abnormalities.
+However, animal reproduction studies are not always predictive of human response.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
 In animal studies, administration of prostaglandin synthesis inhibitors such as ibuprofen, resulted in increased pre- and post-implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
@@ -285,6 +287,9 @@ If oligohydramnios occurs, discontinue Ibuprofen Oral Suspension and follow up a
 Data
 
 Human Data
+
+There are no adequate, well-controlled studies in pregnant women.
+Ibuprofen should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Premature Closure of Fetal Ductus Arteriosus:
 
