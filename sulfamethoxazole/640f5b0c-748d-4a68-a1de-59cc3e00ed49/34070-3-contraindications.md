@@ -1,5 +1,11 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Sulfamethoxazole and trimethoprim are contraindicated in patients with a known hypersensitivity to trimethoprim or sulfonamides, in patients with a history of drug-induced immune thrombocytopenia with use of trimethoprim and/or sulfonamides, and in patients with documented megaloblastic anemia due to folate deficiency.
-Sulfamethoxazole and trimethoprim are also contraindicated in pregnant patients and nursing mothers, because sulfonamides pass the placenta and are excreted in the milk and may cause kernicterus.
-Sulfamethoxazole and trimethoprim are contraindicated in pediatric patients less than 2 months of age.
+Sulfamethoxazole and Trimethoprim Injection is contraindicated in the following situations:
+
+- Known hypersensitivity to trimethoprim or sulfonamides [see Warnings and Precautions (5.2)]
+- History of drug-induced immune thrombocytopenia with use of trimethoprim and/or sulfonamides [see Warnings and Precautions (5.3)]
+- Documented megaloblastic anemia due to folate deficiency [see Warnings and Precautions (5.10)]
+- Pediatric patients less than two months of age [see Use in Specific Populations (8.4)]
+- Marked hepatic damage [see Warnings and Precautions (5.10, 5.13)]
+- Severe renal insufficiency when renal function status cannot be monitored [see Warnings and Precautions (5.10, 5.13)]
+- Concomitant administration with dofetilide2,3 [see Drug Interactions (7)]

@@ -2,16 +2,16 @@
 
 NDC 0703-9514-93
 
-Sulfamethoxazole and Trimethoprim Injection USP
+Sulfamethoxazole and Trimethoprim Injection, USP
 
 For IV Infusion Only
 
 10 mL Multiple Dose Vial
 
-Must be diluted with 5% dextrose injection prior to administration
+Must be diluted with 5% dextrose injection prior to administration.
 
-Rx Only
+Rx ONLY
 
-10 vials
+10 Vials
 
 novaplus+
