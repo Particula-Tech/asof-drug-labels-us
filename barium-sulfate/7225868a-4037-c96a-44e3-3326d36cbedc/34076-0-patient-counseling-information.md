@@ -8,4 +8,6 @@ After administration advise patients to:
 
 Manufactured by: EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4 for: Bracco Diagnostics Inc. Monroe Township, NJ 08831
 
-TX1826 CLDEB01
+CLDEB02
+
+Revised December 2021
