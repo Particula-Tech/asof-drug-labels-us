@@ -1,7 +1,9 @@
 # WARNINGS
 
-Concomitant use of benzodiazepiones, including Valium, and opioids may result in profound sedation, respiratory depression, coma, and death.
-Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
+## Risks from Concomitant Use with Opioids
+
+Concomitant use of benzodiazepines, including Valium, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe Valium concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
@@ -9,7 +11,32 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid is initiated in a patient already taking Valium, prescribe a lower initial dose of the opioid and titrate based upon clinical response.
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Valium is used with opioids.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS: Drug Interactions).
+
+## Abuse, Misuse, and Addiction
+
+The use of benzodiazepines, including Valium, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
+
+Before prescribing Valium and throughout treatment, assess each patient's risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
+Use of Valium, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of Valium along with monitoring for signs and symptoms of abuse, misuse, and addiction.
+Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
+If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
+
+## Dependence and Withdrawal Reactions
+
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Valium or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Valium).
+
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
+
+### Acute Withdrawal Reactions
+
+The continued use of benzodiazepines, including Valium, may lead to clinically significant physical dependence.
+Abrupt discontinuation or rapid dosage reduction of Valium after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
+
+### Protracted Withdrawal Syndrome
+
+In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
 Valium is not recommended in the treatment of psychotic patients and should not be employed instead of appropriate treatment.
 
@@ -25,7 +52,7 @@ There may also be non-teratogenic risks associated with the use of benzodiazepin
 There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
 In addition, children born to mothers receiving benzodiazepines on a regular basis late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
 
-Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m 2 basis).
+Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m2 basis).
 Cleft palate and encephalopathy are the most common and consistently reported malformations produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis.
 Rodent studies have indicated that prenatal exposure to diazepam doses similar to those used clinically can produce long-term changes in cellular immune responses, brain neurochemistry, and behavior.
 
@@ -66,8 +93,23 @@ Some loss of response to the effects of benzodiazepines may develop after repeat
 
 ## Information for Patients
 
-To assure the safe and effective use of benzodiazepines, patients should be informed that, since benzodiazepines may produce psychological and physical dependence, it is advisable that they consult with their physician before either increasing the dose or abruptly discontinuing this drug.
-The risk of dependence increases with duration of treatment; it is also greater in patients with a history of alcohol or drug abuse.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+### Risks from Concomitant Use with Opioids
+
+Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Valium is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
+
+### Abuse, Misuse, and Addiction
+
+Inform patients that the use of Valium, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+
+### Withdrawal Reactions
+
+Inform patients that the continued use of Valium may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Valium may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of Valium may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
 Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during Valium therapy.
 As is true of most CNS-acting drugs, patients receiving Valium should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.

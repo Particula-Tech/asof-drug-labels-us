@@ -1,6 +1,3 @@
-Rx ONLY
+Distributed by: Waylis Therapeutics LLC Wixom, MI 48393 1-303-557-7642
 
-Distributed by: Waylis Therapeutics LLC Wixom, MI 48393 248-313-9675
-
-Revised: March 2022 © 2022 Waylis Therapeutics LLC.
-All rights reserved.
+Revised: October 2022

@@ -1,23 +1,15 @@
 # HOW SUPPLIED
 
-For oral administration, Valium is supplied as round, flat-faced tablet with V-shaped opening and beveled edges.
+For oral administration, Valium is supplied as round, flat-faced scored tablets with V- shaped opening and beveled edges.
 Valium is available as follows:
 
-2 mg, white - bottles of 100 (NDC 80725-004-01);
-
-5 mg, yellow - bottles of 100 (NDC 80725-005-01);
-
-10 mg, blue - bottles of 100 (NDC 80725-006-01)
+2 mg, white - bottles of 100 (NDC 80725-004-01); 5 mg, yellow - bottles of 100 (NDC 80725-005-01); 10 mg, blue - bottles of 100 (NDC 80725-006-01)
 
 Engraved on tablets:
 
-2 mg—2 and VALIUM ® on the outside edge; vertically scored on reverse side
+2 mg—2 VALIUM ® (front) ROCHE (twice on scored side) 5 mg—5 VALIUM ® (front) ROCHE (twice on scored side) 10 mg—10 VALIUM ® (front) ROCHE (twice on scored side)
 
-5 mg—5 and VALIUM ® on the outside edge; vertically scored on reverse side
-
-10 mg—10 and VALIUM ® on the outside edge; vertically scored on reverse side
-
-## STORAGE
+## Storage
 
 Store at room temperature 59° to 86°F (15° to 30°C).
 
