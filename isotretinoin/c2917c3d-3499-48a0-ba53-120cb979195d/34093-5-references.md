@@ -43,4 +43,4 @@ Ortho-Novum 7/7/7 is a registered trademark of Ortho-McNeil Pharmaceutical, Inc.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2022-04
+09-2022-05

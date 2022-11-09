@@ -139,7 +139,7 @@ These include:
 - Distributing only FDA approved isotretinoin product
 - Only shipping isotretinoin to-wholesalers enrolled in the iPLEDGE REMS with prior written consent from the manufactureror-pharmacies licensed in the U.S. and enrolled and activated in the iPLEDGE REMS
 - Notifying the isotretinoin manufacturer (or delegate) of any non-enrolled and/or non-activated pharmacy or unenrolled wholesaler that attempts to order isotretinoin
-- Complying with inspection of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
+- Complying with inspection/audit of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
 - Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE REMS or if the wholesaler chooses to not re-enroll annually
 
 Prescribers:
