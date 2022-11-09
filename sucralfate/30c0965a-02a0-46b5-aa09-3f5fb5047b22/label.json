@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074415"
+  ],
+  "inn": "sucralfate",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-436-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sucralfate",
+      "name": "Sucralfate"
+    }
+  ],
+  "setid": "30c0965a-02a0-46b5-aa09-3f5fb5047b22",
+  "source": "dailymed"
+}
