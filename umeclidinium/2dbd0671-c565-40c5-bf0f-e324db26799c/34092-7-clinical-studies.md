@@ -1,13 +1,13 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of ANORO ELLIPTA were evaluated in a clinical development program that included 6 dose-ranging trials, 4 lung function trials of 6 months’ duration (2 placebo controlled and 2 active controlled), two 12-week crossover trials, and a 12-month long‑term safety trial.
+The safety and effectiveness of ANORO ELLIPTA were evaluated in a clinical development program that included 6 dose-ranging trials, 4 lung function trials of 6 months’ duration (2 placebo controlled and 2 active controlled), two 12-week crossover trials, and a 12-month long‑term safety trial.
 The efficacy of ANORO ELLIPTA is based primarily on the dose-ranging trials in 1,908 subjects with COPD or asthma [see Clinical Studies (14.1)] and the 2 placebo-controlled confirmatory trials, with additional support from the 2 active-controlled and 2 crossover trials in 5,388 subjects with COPD, including chronic bronchitis and/or emphysema [see Clinical Studies (14.2)].
 Evidence of efficacy for ANORO ELLIPTA on COPD exacerbations was established by the efficacy of the umeclidinium component as part of a fixed-dose combination with an ICS/LABA, as assessed in a 12-month trial in 10,355 subjects [see Clinical Studies (14.2)].
 
 ## 14.1 Dose-Ranging Trials
 
 Dose selection for ANORO ELLIPTA in COPD was based on dose-ranging trials for the individual components, vilanterol and umeclidinium.
-Based on the findings from these studies, once-daily doses of umeclidinium/vilanterol 62.5 mcg/25 mcg and umeclidinium/vilanterol 125 mcg/25 mcg were evaluated in the confirmatory COPD trials.
+Based on the findings from these studies, once-daily doses of umeclidinium/vilanterol 62.5/25 mcg and umeclidinium/vilanterol 125/25 mcg were evaluated in the confirmatory COPD trials.
 ANORO ELLIPTA is not indicated for asthma.
 
 Umeclidinium
@@ -56,7 +56,7 @@ Of the 4,713 subjects included in the efficacy analysis, 68% were male and 84% w
 They had a mean age of 63 years and an average smoking history of 45 pack-years, with 50% identified as current smokers.
 At screening, the mean postbronchodilator percent predicted FEV1 was 48% (range: 13% to 76%), the mean postbronchodilator FEV1/FVC ratio was 0.47 (range: 0.13 to 0.78), and the mean percent reversibility was 14% (range: -36% to 109%).
 
-Trial 1 (NCT #01313650) evaluated ANORO ELLIPTA (umeclidinium/vilanterol 62.5 mcg/25 mcg), umeclidinium 62.5 mcg, vilanterol 25 mcg, and placebo.
+Trial 1 (NCT01313650) evaluated ANORO ELLIPTA (umeclidinium/vilanterol 62.5/25 mcg), umeclidinium 62.5 mcg, vilanterol 25 mcg, and placebo.
 The primary endpoint was change from baseline in trough (predose) FEV1 at Day 169 (defined as the mean of the FEV1 values obtained at 23 and 24 hours after the previous dose on Day 168) compared with placebo, umeclidinium 62.5 mcg, and vilanterol 25 mcg.
 The comparison of ANORO ELLIPTA with umeclidinium 62.5 mcg and vilanterol 25 mcg was assessed to evaluate the contribution of the individual comparators to ANORO ELLIPTA.
 ANORO ELLIPTA demonstrated a larger increase in mean change from baseline in trough (predose) FEV1 relative to placebo, umeclidinium 62.5 mcg, and vilanterol 25 mcg (Table 2).
@@ -71,8 +71,8 @@ Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 169 in the In
 | ANORO ELLIPTA | 413 | 167(128, 207) | 52(17, 87) | 95(60, 130) |
 | n = Number in intent-to-treat population. a The umeclidinium and vilanterol comparators used the same inhaler and excipients as ANORO ELLIPTA. |  |  |  |  |
 
-Trial 2 (NCT #01313637) had a similar study design as Trial 1 but evaluated umeclidinium/vilanterol 125 mcg/25 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, and placebo.
-Results for umeclidinium/vilanterol 125 mcg/25 mcg in Trial 2 were similar to those observed for ANORO ELLIPTA in Trial 1.
+Trial 2 (NCT01313637) had a similar study design as Trial 1 but evaluated umeclidinium/vilanterol 125/25 mcg, umeclidinium 125 mcg, vilanterol 25 mcg, and placebo.
+Results for umeclidinium/vilanterol 125/25 mcg in Trial 2 were similar to those observed for ANORO ELLIPTA in Trial 1.
 
 Results from the 2 active-controlled trials and the two 12-week trials provided additional support for the efficacy of ANORO ELLIPTA in terms of change from baseline in trough FEV1 compared with the single-ingredient comparators and placebo.
 
@@ -92,7 +92,7 @@ The median time to onset on Day 1, defined as a 100-mL increase from baseline in
 
 Exacerbations
 
-In Trial 6 (NCT #02164513), a total of 10,355 subjects with COPD with a history of 1 or more moderate or severe exacerbations in the prior 12 months were randomized (1:2:2) to receive ANORO ELLIPTA (n = 2,070), fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg (n = 4,151), or fluticasone furoate/vilanterol 100 mcg/25 mcg (n = 4,134) administered once daily in a 12-month trial.
+In Trial 6 (NCT02164513), a total of 10,355 subjects with COPD with a history of 1 or more moderate or severe exacerbations in the prior 12 months were randomized (1:2:2) to receive ANORO ELLIPTA (n = 2,070), fluticasone furoate/umeclidinium/vilanterol 100/62.5/25 mcg (n = 4,151), or fluticasone furoate/vilanterol 100/25 mcg (n = 4,134) administered once daily in a 12-month trial.
 The population demographics across all treatments were: mean age of 65 years, 77% white, 66% male, and an average smoking history of 46.6 pack-years, with 35% identified as current smokers.
 At trial entry, the most common COPD medications were ICS + anticholinergic + LABA (34%), ICS + LABA (26%), anticholinergic + LABA (8%), and anticholinergic (7%).
 The mean postbronchodilator percent predicted FEV1 was 46% (standard deviation: 15%), the mean postbronchodilator FEV1/FVC ratio was 0.47 (standard deviation: 0.12), and the mean percent reversibility was 10% (range: -59% to 125%).
@@ -116,4 +116,4 @@ Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations (Trial 6
 | FF/UMEC/VI | 4,145 | 0.91 |  |  |  |  |  |  |  |  |
 | FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |  |  |  |  |  |
 | ANORO ELLIPTA | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |  |  |  |  |  |
-| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100 mcg/25 mcg, ANORO ELLIPTA = Umeclidinium/vilanterol 62.5 mcg/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |  |
+| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100/62.5/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100/25 mcg, ANORO ELLIPTA = Umeclidinium/vilanterol 62.5/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |  |

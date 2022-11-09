@@ -1,4 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Inhalation powder: Disposable light grey and red plastic inhaler containing 2 foil blister strips of powder intended for oral inhalation only.
-One strip contains umeclidinium (62.5 mcg per blister), and the other strip contains vilanterol (25 mcg per blister).
+Inhalation powder: 62.5 mcg umeclidinium and 25 mcg vilanterol (62.5/25 mcg) per actuation.

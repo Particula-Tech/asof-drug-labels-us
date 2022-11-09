@@ -6,13 +6,13 @@ ANORO ELLIPTA
 
 ANORO ELLIPTA contains both umeclidinium and vilanterol.
 The mechanisms of action described below for the individual components apply to ANORO ELLIPTA.
-These drugs represent 2 different classes of medications (an anticholinergic and a LABA) that have different effects on clinical and physiological indices.
+These drugs represent 2 different classes of medications (an anticholinergic and a LABA) each having different effects on clinical and physiological indices.
 
 Umeclidinium
 
 Umeclidinium is a long-acting muscarinic antagonist, which is often referred to as an anticholinergic.
 It has similar affinity to the subtypes of muscarinic receptors M1 to M5.
-In the airways, it exhibits pharmacological effects through inhibition of M3 receptors at the smooth muscle leading to bronchodilation.
+In the airways, it exhibits pharmacological effects through inhibition of M3 receptor at the smooth muscle leading to bronchodilation.
 The competitive and reversible nature of antagonism was shown with human and animal origin receptors and isolated organ preparations.
 In preclinical in vitro as well as in vivo studies, prevention of methacholine- and acetylcholine-induced bronchoconstrictive effects was dose-dependent and lasted longer than 24 hours.
 The clinical relevance of these findings is unknown.
@@ -32,15 +32,15 @@ Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhi
 
 ## 12.2 Pharmacodynamics
 
-Cardiovascular Effects
+Cardiac Electrophysiology
 
-Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover trial in 86 healthy subjects.
-The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 4.6 (7.1) milliseconds and 8.2 (10.7) milliseconds for umeclidinium/vilanterol 125 mcg/25 mcg and umeclidinium/vilanterol 500 mcg/100 mcg (8/4 times the recommended dosage), respectively.
+Healthy Subjects: QTc interval prolongation was studied in a double-blind, multiple-dose, placebo- and positive-controlled crossover study in 86 healthy subjects.
+The maximum mean (95% upper confidence bound) difference in QTcF from placebo after baseline correction was 4.6 (7.1) milliseconds and 8.2 (10.7) milliseconds for umeclidinium/vilanterol 125/25 mcg and umeclidinium/vilanterol 500/100 mcg (8/4 times the recommended dosage), respectively.
 
 A dose-dependent increase in heart rate was also observed.
-The maximum mean (95% upper confidence bound) difference in heart rate from placebo after baseline correction was 8.8 (10.5) beats/min and 20.5 (22.3) beats/min seen 10 minutes after dosing for umeclidinium/vilanterol 125 mcg/25 mcg and umeclidinium/vilanterol 500 mcg/100 mcg, respectively.
+The maximum mean (95% upper confidence bound) difference in heart rate from placebo after baseline correction was 8.8 (10.5) beats/min and 20.5 (22.3) beats/min seen 10 minutes after dosing for umeclidinium/vilanterol 125/25 mcg and umeclidinium/vilanterol 500/100 mcg, respectively.
 
-Chronic Obstructive Pulmonary Disease: The effect of ANORO ELLIPTA on cardiac rhythm in subjects diagnosed with COPD was assessed using 24-hour Holter monitoring in 6- and 12-month trials: 53 subjects received ANORO ELLIPTA, 281 subjects received umeclidinium/vilanterol 125 mcg/25 mcg, and 182 subjects received placebo.
+Subjects with Chronic Obstructive Pulmonary Disease: The effect of ANORO ELLIPTA on cardiac rhythm in subjects diagnosed with COPD was assessed using 24-hour Holter monitoring in 6- and 12-month trials: 53 subjects received ANORO ELLIPTA, 281 subjects received umeclidinium/vilanterol 125/25 mcg, and 182 subjects received placebo.
 No clinically meaningful effects on cardiac rhythm were observed.
 
 ## 12.3 Pharmacokinetics
@@ -65,18 +65,16 @@ Umeclidinium: Following intravenous administration to healthy subjects, the mean
 
 Vilanterol: Following intravenous administration to healthy subjects, the mean volume of distribution at steady state was 165 L. In vitro plasma protein binding in human plasma was on average 94%.
 
-Metabolism
+Elimination
 
-Umeclidinium: In vitro data showed that umeclidinium is primarily metabolized by the enzyme cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
+Metabolism: Umeclidinium: In vitro data showed that umeclidinium is primarily metabolized by the enzyme cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-glycoprotein (P-gp) transporter.
 The primary metabolic routes for umeclidinium are oxidative (hydroxylation, O-dealkylation) followed by conjugation (e.g., glucuronidation), resulting in a range of metabolites with either reduced pharmacological activity or for which the pharmacological activity has not been established.
 Systemic exposure to the metabolites is low.
 
 Vilanterol: In vitro data showed that vilanterol is metabolized principally by CYP3A4 and is a substrate for the P-gp transporter.
 Vilanterol is metabolized to a range of metabolites with significantly reduced β1- and β2-agonist activity.
 
-Elimination
-
-Umeclidinium: The effective half-life after once-daily inhaled dosing is 11 hours.
+Excretion: Umeclidinium: The effective half-life after once-daily oral dosing is 11 hours.
 Following intravenous dosing with radiolabeled umeclidinium, mass balance showed 58% of the radiolabel in the feces and 22% in the urine.
 The excretion of the drug-related material in the feces following intravenous dosing indicated elimination in the bile.
 Following oral dosing to healthy male subjects, radiolabel recovered in feces was 92% of the total dose and that in urine was <1% of the total dose, suggesting negligible oral absorption.
@@ -98,7 +96,7 @@ There was no evidence of an increase in systemic exposure to either umeclidinium
 There was no evidence of altered protein binding in subjects with moderate hepatic impairment compared with healthy subjects.
 ANORO ELLIPTA has not been evaluated in subjects with severe hepatic impairment.
 
-Patients with Renal Impairment: The pharmacokinetics of ANORO ELLIPTA has been evaluated in subjects with severe renal impairment (creatinine clearance <30 mL/min).
+Patients with Renal Impairment: The pharmacokinetics of ANORO ELLIPTA has been evaluated in subjects with severe renal impairment (CrCl <30 mL/min).
 Umeclidinium systemic exposure was not increased and vilanterol systemic exposure (AUC(0-24)) was 56% higher in subjects with severe renal impairment compared with healthy subjects (Figure 1).
 There was no evidence of altered protein binding in subjects with severe renal impairment compared with healthy subjects.
 
@@ -111,12 +109,12 @@ A double-blind, repeat-dose, 2-way crossover drug interaction trial was conducte
 The plasma concentrations of vilanterol were higher after single and repeated doses when coadministered with ketoconazole than with placebo (Figure 2).
 The increase in vilanterol exposure was not associated with an increase in beta-agonist–related systemic effects on heart rate or blood potassium.
 
-Inhibitors of P-glycoprotein Transporter: Umeclidinium and vilanterol are both substrates of P-gp.
-The effect of the moderate P-gp transporter inhibitor verapamil (240 mg once daily) on the steady-state pharmacokinetics of umeclidinium and vilanterol was assessed in healthy subjects.
-No effect on umeclidinium or vilanterol Cmax was observed; however, an approximately 1.4-fold increase in umeclidinium AUC was observed with no effect on vilanterol AUC (Figure 2).
-
 Inhibitors of Cytochrome P450 2D6: In vitro metabolism of umeclidinium is mediated primarily by CYP2D6.
 However, no clinically meaningful difference in systemic exposure to umeclidinium (500 mcg) (8 times the approved dose) was observed following repeat daily inhaled dosing in CYP2D6 normal (ultrarapid, extensive, and intermediate metabolizers) and poor metabolizer subjects (Figure 1).
+
+Inhibitors of P-glycoprotein: Umeclidinium and vilanterol are both substrates of P-gp.
+The effect of the moderate P-gp transporter inhibitor verapamil (240 mg once daily) on the steady-state pharmacokinetics of umeclidinium and vilanterol was assessed in healthy subjects.
+No effect on umeclidinium or vilanterol Cmax was observed; however, an approximately 1.4-fold increase in umeclidinium AUC was observed with no effect on vilanterol AUC (Figure 2).
 
 Figure 2.
 Impact of Extrinsic Factors on the Pharmacokinetics (PK) of Umeclidinium (UMEC) and Vilanterol (VI)

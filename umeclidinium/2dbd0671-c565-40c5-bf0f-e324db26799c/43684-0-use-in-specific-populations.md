@@ -15,8 +15,7 @@ In the U.S. general population, the estimated risk of major birth defects and mi
 
 Clinical Considerations
 
-Labor and Delivery: There are no human studies evaluating the effects of ANORO ELLIPTA, umeclidinium, or vilanterol during labor and delivery.
-Because of the potential for beta-agonist interference with uterine contractility, use of ANORO ELLIPTA during labor should be restricted to those patients in whom the benefits clearly outweigh the risks.
+Labor or Delivery: ANORO ELLIPTA should be used during late gestation and labor only if the potential benefit justifies the potential for risks related to beta-agonists interfering with uterine contractility.
 
 Data
 
@@ -47,12 +46,12 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-Subcutaneous administration of umeclidinium to lactating rats at ≥60 mcg/kg/day resulted in a quantifiable level of umeclidinium in 2 of 54 pups, which may indicate transfer of umeclidinium in milk.
+Subcutaneous administration of umeclidinium to lactating rats at greater than or equal to 60 mcg/kg/day resulted in a quantifiable level of umeclidinium in 2 of 54 pups, which may indicate transfer of umeclidinium in rat milk.
 
 ## 8.4 Pediatric Use
 
-ANORO ELLIPTA is not indicated for use in children.
-The safety and efficacy in pediatric patients have not been established.
+The safety and effectiveness of ANORO ELLIPTA have not been established in pediatric patients.
+ANORO ELLIPTA is not indicated for use in pediatric patients.
 
 ## 8.5 Geriatric Use
 
