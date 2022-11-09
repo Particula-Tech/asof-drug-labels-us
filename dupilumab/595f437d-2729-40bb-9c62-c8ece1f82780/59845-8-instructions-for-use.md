@@ -324,7 +324,7 @@ Revised: May 2020
 
 Instructions for Use DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Pen (300 mg/2 mL)
 
-This "Instructions for Use" contains information on how to inject DUPIXENT.
+This Instructions for Use contains information on how to inject DUPIXENT.
 
 Read this Instructions for Use before using the DUPIXENT Pre-filled Pen.
 Do not inject yourself or someone else until you have been shown how to inject DUPIXENT.
@@ -332,16 +332,16 @@ Your healthcare provider can show you or your caregiver how to prepare and injec
 Keep this Instructions for Use.
 Call your healthcare provider if you have any questions.
 
-This DUPIXENT Pre-filled Pen is only for use in adults and children aged 12 years and older.
+This DUPIXENT Pre-filled Pen is only for use in adults and children aged 2 years and older.
 
 This DUPIXENT Pre-filled Pen is a single-dose device.
 It contains 300 mg of DUPIXENT for injection under the skin (subcutaneous injection).
 
 The parts of the DUPIXENT Pre-filled Pen are shown below:
 
-| Important Information Read all of the instructions carefully before using the DUPIXENT Pre-filled Pen.Ask your healthcare provider how often you will need to inject the medicine.In adolescents 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.Choose a different injection site for each injection.Do not press or touch the Yellow Needle Cover with your fingers.Do not inject through clothes.Do not remove the Green Cap until just before you give the injection.Do not try to put the Green Cap back on the DUPIXENT Pre-filled Pen.Throw away (dispose of) the used DUPIXENT Pre-filled Pen right away after use.Do not re-use a DUPIXENT Pre-filled Pen. |
+| Important Information Read all of the instructions carefully before using the DUPIXENT Pre-filled Pen.Ask your healthcare provider how often you will need to inject the medicine.In children 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.In children 2 years to less than 12 years of age, DUPIXENT should be given by a caregiver.Choose a different injection site for each injection.Do not press or touch the Yellow Needle Cover with your fingers.Do not inject through clothes.Do not remove the Green Cap until just before you give the injection.Do not try to put the Green Cap back on the DUPIXENT Pre-filled Pen.Throw away (dispose of) the used DUPIXENT Pre-filled Pen right away after use.Do not re-use a DUPIXENT Pre-filled Pen. |
 | --- |
-| Storing DUPIXENT Store unused DUPIXENT Pre-filled Pens in the refrigerator between 36ºF and 46ºF (2ºC and 8ºC).Store DUPIXENT Pre-filled Pens in the original carton to protect from light.If necessary, you may keep DUPIXENT Pre-filled Pens at room temperature up to 77ºF (25ºC) for up to 14 days.Do not store DUPIXENT Pre-filled Pens at room temperature more than 77ºF.After removing a DUPIXENT Pre-filled Pen from the refrigerator, it must be used within 14 days or thrown away (disposed of).Do not shake the DUPIXENT Pre-filled Pen at any time.Do not heat the DUPIXENT Pre-filled Pen.Do not freeze the DUPIXENT Pre-filled Pen.Do not put the DUPIXENT Pre-filled Pen into direct sunlight.Keep DUPIXENT Pre-filled Pens and all medicines out of the reach of children. |
+| Storing DUPIXENT Store unused DUPIXENT Pre-filled Pens in the refrigerator between 36ºF to 46ºF (2ºC to 8ºC).Store DUPIXENT Pre-filled Pens in the original carton to protect from light.If necessary, you may keep DUPIXENT Pre-filled Pens at room temperature up to 77ºF (25ºC) for up to 14 days.Do not store DUPIXENT Pre-filled Pens at room temperature more than 77ºF (25ºC).After removing a DUPIXENT Pre-filled Pen from the refrigerator, it must be used within 14 days or thrown away (disposed of).Do not shake the DUPIXENT Pre-filled Pen at any time.Do not heat the DUPIXENT Pre-filled Pen.Do not freeze the DUPIXENT Pre-filled Pen.Do not put the DUPIXENT Pre-filled Pen into direct sunlight.Keep DUPIXENT Pre-filled Pens and all medicines out of the reach of children. |
 
 | A. Get ready to inject |  |
 | --- | --- |
@@ -369,26 +369,29 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 
 | B3. Prepare the injection site |  |
 | --- | --- |
-| Clean the injection site with an alcohol wipe.Let your skin dry before injecting. Do not touch the injection site again or blow on it before the injection. |  |
+| Clean the injection site with an alcohol wipe.Let the skin dry before injecting. Do not touch the injection site again or blow on it before the injection. |  |
 | C. Give the injection |  |
 | C1. Remove Green Cap |  |
 | Remove the Green Cap by pulling it straight off, as shown. Do not twist the Green Cap off.Do not remove the Green Cap until you are ready to inject.Do not press or touch the Yellow Needle Cover with your fingers. The Needle is inside. Do not put the Green Cap back on the DUPIXENT Pre-filled Pen after you have removed it. |  |
 
-| C2. Place |  |  |
+| C2. Pinch Skin and Place |  |  |
 | --- | --- | --- |
-| Hold the DUPIXENT Pre-filled Pen as shown so that you can see the Window. Place the Yellow Needle Cover on your skin.Place the Yellow Needle Cover on your skin at approximately a 90-degree angle. |  |  |
+| Children 2 years to less than 12 years old: |  |  |
+| Pinch the skin before and during the injection. Hold the DUPIXENT Pre-filled Pen as shown so that you can see the Window. Place the Yellow Needle Cover on the skin.Place the Yellow Needle Cover on the skin at approximately a 90-degree angle.Pinching is not needed for adults and children aged 12 years and older. |  |  |
 | C3. Press down ➜ Watch Window turn fully yellow ➜ Then count to 5 |  |  |
-| Press and hold the DUPIXENT Pre-filled Pen firmly against your skin until you cannot see the Yellow Needle Cover. There will be a "click" when the injection starts, andThe Window will start to turn yellow.Keep pressing the DUPIXENT Pre-filled Pen against your skin. | Keep pressing the DUPIXENT Pre-filled Pen against your skin and watch the window: The Window will turn completely yellow, andYou will hear a 2nd "click".Keep pressing the DUPIXENT Pre-filled Pen against your skin. | Keep pressing the DUPIXENT Pre-filled Pen against your skin and count to 5 to make sure you get your full dose. |
+| Press and hold the DUPIXENT Pre-filled Pen firmly against the skin until you cannot see the Yellow Needle Cover. There will be a "click" when the injection starts, andThe Window will start to turn yellow.Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and watch the window: The Window will turn completely yellow, andYou will hear a 2nd "click".Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and count to 5 to make sure you get your full dose. |
 
-| C4. Remove |  |
+| C4. Remove |  |  |
+| --- | --- | --- |
+| Pinching of the skin is not needed for adults and children aged 12 years and older. |  |  |
+| After you have completed the injection pull straight up to remove DUPIXENT Pre-filled Pen from the skin. The Yellow Needle Cover will cover the needle. If you see any blood at the site, lightly dab a cotton ball or gauze pad. Do not rub the skin after the injection. If the Window does not turn completely Yellow, or if it looks like medicine is still coming out of the pen, you may not have received a full dose. Dispose of (throw away) the pen and contact your healthcare provider right away. Do not give a second dose without speaking to your healthcare provider. |  |  |
+
+| D. Dispose of used DUPIXENT Pre-filled Pen |  |
 | --- | --- |
-| After you have completed your injection pull straight up to remove DUPIXENT Pre-filled Pen from the skin. The Yellow Needle Cover will cover the needle. If you see any blood at the site, lightly dab a cotton ball or gauze pad. Do not rub your skin after the injection. If the Window does not turn completely Yellow, remove the pen and call your healthcare provider. Do not give yourself a second dose without speaking to your healthcare provider. |  |
-
-| D. Dispose of used DUPIXENT Pre-filled Pen |
-| --- |
-| How to Dispose of (throw away) DUPIXENT Pre-filled Pen Put your used DUPIXENT Pre-filled Pens, and Green Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Green Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. This Instructions for Use has been approved by the U.S. Food and Drug Administration. |
-| REGENERON sanofi |
-| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2020 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. Issued: June 2020 |
+| How to Dispose of (throw away) DUPIXENT Pre-filled Pen: Put the used DUPIXENT Pre-filled Pens and Green Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Green Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. |  |
+| REGENERON sanofi |  |
+| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: October 2022 |
 
 # Instructions for Use
 
@@ -402,14 +405,14 @@ Your healthcare provider can show you or your caregiver how to prepare and injec
 Keep this Instructions for Use.
 Call your healthcare provider if you have any questions.
 
-This DUPIXENT Pre-filled Pen is only for use in adults and children aged 12 years and older.
+This DUPIXENT Pre-filled Pen is only for use in adults and children aged 2 years and older.
 
 This DUPIXENT Pre-filled Pen is a single-dose device.
 It contains 200 mg of DUPIXENT for injection under the skin (subcutaneous injection).
 
 The parts of the DUPIXENT Pre-filled Pen are shown below:
 
-| Important Information Read all of the instructions carefully before using the DUPIXENT Pre-filled Pen.Ask your healthcare provider how often you will need to inject the medicine.In adolescents 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.Choose a different injection site for each injection.Do not press or touch the Orange Needle Cover with your fingers.Do not inject through clothes.Do not remove the Yellow Cap until just before you give the injection.Do not try to put the Yellow Cap back on the DUPIXENT Pre-filled Pen.Throw away (dispose of) the used DUPIXENT Pre-filled Pen right away after use.Do not re-use a DUPIXENT Pre-filled Pen. |
+| Important Information Read all of the instructions carefully before using the DUPIXENT Pre-filled Pen.Ask your healthcare provider how often you will need to inject the medicine.In children 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.In children 2 years to less than 12 years of age, DUPIXENT should be given by a caregiver.Choose a different injection site for each injection.Do not press or touch the Orange Needle Cover with your fingers.Do not inject through clothes.Do not remove the Yellow Cap until just before you give the injection.Do not try to put the Yellow Cap back on the DUPIXENT Pre-filled Pen.Throw away (dispose of) the used DUPIXENT Pre-filled Pen right away after use.Do not re-use a DUPIXENT Pre-filled Pen. |
 | --- |
 | Storing DUPIXENT Store unused DUPIXENT Pre-filled Pens in the refrigerator between 36°F to 46°F (2°C to 8°C).Store DUPIXENT Pre-filled Pens in the original carton to protect from light.If necessary, you may keep DUPIXENT Pre-filled Pens at room temperature up to 77°F (25°C) for up to 14 days. Do not store DUPIXENT Pre-filled Pens at room temperature more than 77°F (25°C).After removing a DUPIXENT Pre-filled Pen from the refrigerator, it must be used within 14 days or thrown away (disposed of).Do not shake the DUPIXENT Pre-filled Pen at any time.Do not heat the DUPIXENT Pre-filled Pen.Do not freeze the DUPIXENT Pre-filled Pen.Do not put the DUPIXENT Pre-filled Pen into direct sunlight.Keep DUPIXENT Pre-filled Pens and all medicines out of the reach of children. |
 
@@ -439,26 +442,29 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 
 | B3. Prepare the injection site |  |
 | --- | --- |
-| Clean the injection site with an alcohol wipe.Let your skin dry before injecting. Do not touch the injection site again or blow on it before the injection. |  |
+| Clean the injection site with an alcohol wipe.Let the skin dry before injecting. Do not touch the injection site again or blow on it before the injection. |  |
 | C. Give the injection |  |
 | C1. Remove Yellow Cap |  |
 | Remove the Yellow Cap by pulling it straight off, as shown. Do not twist the Yellow Cap off.Do not remove the Yellow Cap until you are ready to inject.Do not press or touch the Orange Needle Cover with your fingers. The Needle is inside. Do not put the Yellow Cap back on the DUPIXENT Pre-filled Pen after you have removed it. |  |
 
-| C2. Place |  |  |
+| C2. Pinch Skin and Place |  |  |
 | --- | --- | --- |
-| Hold the DUPIXENT Pre-filled Pen as shown so that you can see the Window. Place the Orange Needle Cover on your skin.Place the Orange Needle Cover on your skin at approximately a 90-degree angle. |  |  |
+| Children 2 years to less than 12 years old: |  |  |
+| Pinch the skin before and during the injection. Hold the DUPIXENT Pre-filled Pen as shown so that you can see the Window. Place the Orange Needle Cover on the skin.Place the Orange Needle Cover on the skin at approximately a 90-degree angle.Pinching is not needed for adults and children aged 12 years and older. |  |  |
 | C3. Press down ➜ Watch Window turn fully yellow ➜ Then count to 5 |  |  |
-| Press and hold the DUPIXENT Pre-filled Pen firmly against your skin until you cannot see the Orange Needle Cover. There will be a "click" when the injection starts, andThe Window will start to turn yellow.Keep pressing the DUPIXENT Pre-filled Pen against your skin. | Keep pressing the DUPIXENT Pre-filled Pen against your skin and watch the window: The Window will turn completely yellow, andYou will hear a 2nd "click".Keep pressing the DUPIXENT Pre-filled Pen against your skin. | Keep pressing the DUPIXENT Pre-filled Pen against your skin and count to 5 to make sure you get your full dose. |
+| Press and hold the DUPIXENT Pre-filled Pen firmly against the skin until you cannot see the Orange Needle Cover. There will be a "click" when the injection starts, andThe Window will start to turn yellow.Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and watch the window: The Window will turn completely yellow, andYou will hear a 2nd "click".Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and count to 5 to make sure you get your full dose. |
 
 | C4. Remove |  |
 | --- | --- |
-| After you have completed your injection pull straight up to remove DUPIXENT Pre-filled Pen from the skin. The Orange Needle Cover will cover the needle. If you see any blood at the site, lightly dab a cotton ball or gauze pad. Do not rub your skin after the injection. If the Window does not turn completely Yellow, or if it looks like medicine is still coming out of the pen, you may not have received a full dose. Dispose of (throw away) the pen and contact your healthcare provider right away. Do not give yourself a second dose without speaking to your healthcare provider. |  |
+| Pinching of the skin is not needed for adults and children aged 12 years and older. |  |
+| After you have completed the injection pull straight up to remove DUPIXENT Pre-filled Pen from the skin. The Orange Needle Cover will cover the needle. If you see any blood at the site, lightly dab a cotton ball or gauze pad. Do not rub the skin after the injection.If the Window does not turn completely Yellow, or if it looks like medicine is still coming out of the pen, you may not have received a full dose. Dispose of (throw away) the pen and contact your healthcare provider right away. Do not give a second dose without speaking to your healthcare provider. |  |
 
-| D. Dispose of used DUPIXENT Pre-filled Pen |
-| --- |
-| How to Dispose of (throw away) DUPIXENT Pre-filled Pen Put your used DUPIXENT Pre-filled Pens and Yellow Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Yellow Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. This Instructions for Use has been approved by the U.S. Food and Drug Administration. |
-| REGENERON sanofi |
-| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2021 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. Issued: June 2021 |
+| D. Dispose of used DUPIXENT Pre-filled Pen |  |
+| --- | --- |
+| How to Dispose of (throw away) DUPIXENT Pre-filled Pen: Put the used DUPIXENT Pre-filled Pens and Yellow Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Yellow Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. |  |
+| REGENERON sanofi |  |
+| Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: October 2022 |
 
 # INSTRUCTIONS FOR USE DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
 

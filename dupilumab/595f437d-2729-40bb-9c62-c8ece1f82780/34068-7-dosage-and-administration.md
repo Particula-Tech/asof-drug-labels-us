@@ -9,14 +9,13 @@ Provide proper training to patients and/or caregivers on the preparation and adm
 
 Use of Pre-filled Pen or Pre-filled Syringe
 
-The DUPIXENT pre-filled pen is for use in adult and pediatric patients aged 12 years and older.
+The DUPIXENT pre-filled pen is for use in adult and pediatric patients aged 2 years and older.
 
 The DUPIXENT pre-filled syringe is for use in adult and pediatric patients aged 6 months and older.
 
 A caregiver or patient 12 years of age and older may inject DUPIXENT using the pre-filled syringe or pre-filled pen.
 In pediatric patients 12 to 17 years of age, administer DUPIXENT under the supervision of an adult.
-
-In pediatric patients 6 months to 11 years of age, administer DUPIXENT pre-filled syringe by a caregiver.
+In pediatric patients 6 months to less than 12 years of age, administer DUPIXENT by a caregiver.
 
 Administration Instructions
 
