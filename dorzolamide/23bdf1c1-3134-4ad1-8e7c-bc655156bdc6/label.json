@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020869"
+  ],
+  "inn": "dorzolamide",
+  "labeler": "Thea Pharma Inc.",
+  "package_ndcs": [
+    "82584-605-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "dorzolamide hydrochloride and timolol maleate",
+      "name": "COSOPT"
+    }
+  ],
+  "setid": "23bdf1c1-3134-4ad1-8e7c-bc655156bdc6",
+  "source": "dailymed"
+}

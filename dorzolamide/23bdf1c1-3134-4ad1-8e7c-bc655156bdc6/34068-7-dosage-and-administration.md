@@ -1,0 +1,5 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+The dose is one drop of COSOPT in the affected eye(s) two times daily.
+
+If more than one topical ophthalmic drug is being used, the drugs should be administered at least five minutes apart [see Drug Interactions (7.3)].
