@@ -1,56 +1,29 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ropivacaine Hydrochloride Injection, USP Single Dose Vials
+Ropivacaine hydrochloride Injection, USP is a clear colorless, and preservative-free solution, available in single-dose containers in 2 mg/mL (0.2%), 5 mg/mL (0.5%), 7.5 mg/mL (0.75%) and 10 mg/mL (1%) concentrations.
 
-| NDC No. | Strength | Size |
+Storage
+
+Solutions should be stored at 20ºC to 25°C (68ºF to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
+
+Ropivacaine Hydrochloride Injection, USP Single-Dose Vials
+
+| Unit of Sale | Strength | Each |
 | --- | --- | --- |
-| 70069- 061 -25 | 0.2% (2 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25 |
-| 70069- 061 -10 | 0.2% (2 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 10 |
-| 70069- 062 -25 | 0.2% (2 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25 |
-| 70069- 062 -10 | 0.2% (2 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 10 |
-| 70069- 063 -25 | 0.5% (5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25 |
-| 70069- 064 -01 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 1 |
-| 70069- 064 -10 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 10 |
-| 70069- 064 -25 | 0.5% (5 mg/mL) | 30 mL fill, in a 30 mL single dose vial, in packages of 25 |
-| 70069- 065 -25 | 0.75% (7.5 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25 |
-| 70069- 066 -25 | 1% (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 25 |
-| 70069- 066 -10 | 1% (10 mg/mL) | 10 mL fill, in a 10 mL single dose vial, in packages of 10 |
-| 70069- 067 -25 | 1% (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 25 |
-| 70069- 067 -10 | 1% (10 mg/mL) | 20 mL fill, in a 20 mL single dose vial, in packages of 10 |
+| NDC 70069- 061 -25 Unit of 25 | 0.2%, 20 mg per 10 mL (2 mg per mL) | NDC 70069- 061 -01 10 mL single-dose vial |
+| NDC 70069- 061 -10 Unit of 10 | 0.2%, 20 mg per 10 mL (2 mg per mL) | NDC 70069- 061 -01 10 mL single-dose vial |
+| NDC 70069- 062 -25 Unit of 25 | 0.2%, 40 mg per 20 mL (2 mg per mL) | NDC 70069- 062 -01 20 mL single-dose vial |
+| NDC 70069- 062 -10 Unit of 10 | 0.2%, 40 mg per 20 mL (2 mg per mL) | NDC 70069- 062 -01 20 mL single-dose vial |
+| NDC 70069- 063 -25 Unit of 25 | 0.5%, 100 mg per 20 mL (5 mg per mL) | NDC 70069- 063 -01 20 mL single-dose vial |
+| NDC 70069- 064 -01 Unit of 01 | 0.5% 150 mg/ 30 mL (5 mg/mL) | NDC 70069- 064 -01 30 mL single-dose vial |
+| NDC 70069- 064 -25 Unit of 25 | 0.5% 150 mg/ 30 mL (5 mg/mL) | NDC 70069- 064 -01 30 mL single-dose vial |
+| NDC 70069- 064 -10 Unit of 10 | 0.5% 150 mg/ 30 mL (5 mg/mL) | NDC 70069- 064 -01 30 mL single-dose vial |
+| NDC 70069- 065 -25 Unit of 25 | 0.75% 150 mg/ 20 mL (7.5 mg/mL) | NDC 70069- 065 -01 20 mL single-dose vial |
+| NDC 70069- 066 -25 Unit of 25 | 1% 100 mg/ 10 mL (10 mg/mL) | NDC 70069- 066 -01 10 mL single-dose vial |
+| NDC 70069- 066 -10 Unit of 10 | 1% 100 mg/ 10 mL (10 mg/mL) | NDC 70069- 066 -01 10 mL single-dose vial |
+| NDC 70069- 067 -25 Unit of 25 | 1% 200 mg/ 20 mL (10 mg/mL) | NDC 70069- 067 -01 20 mL single-dose vial |
+| NDC 70069- 067 -10 Unit of 10 | 1% 200 mg/ 20 mL (10 mg/mL | NDC 70069- 067 -01 20 mL single-dose vial |
 
-The solubility of ropivacaine is limited at pH above 6.
-Thus, care must be taken as precipitation may occur if ropivacaine hydrochloride is mixed with alkaline solutions.
+Ropivacaine hydrochloride injection container closure is not made with natural rubber latex.
 
-Disinfecting agents containing heavy metals, which cause release of respective ions (mercury, zinc, copper, etc.) should not be used for skin or mucous membrane disinfection since they have been related to incidents of swelling and edema.
-
-When chemical disinfection of the container surface is desired, either isopropyl alcohol (91%) or ethyl alcohol (70%) is recommended.
-It is recommended that chemical disinfection be accomplished by wiping vial stopper thoroughly with cotton or gauze that has been moistened with the recommended alcohol just prior to use.
-When a container is required to have a sterile outside, a Sterile-Pak should be chosen.
-Glass containers may, as an alternative, be autoclaved once.
-Stability has been demonstrated using a targeted F0 of 7 minutes at 121°C.
-
-Solutions should be stored at 20º to 25°C (68º to 77°F) [see USP Controlled Room Temperature].
-
-This container closure is not made with natural rubber latex.
-
-These products are intended for single use and are free from preservatives.
-Any solution remaining from an opened container should be discarded promptly.
-In addition, continuous infusion bottles should not be left in place for more than 24 hours.
-
-For Product Inquiry call 1-800-417-9175.
-
-Manufactured for:
-
-Somerset Therapeutics, LLC
-
-Hollywood, FL 33024
-
-Made in India
-
-Code No.: KR/DRUGS/KTK/28/289/97
-
-ST-ROP/P/04
-
-PSSO0431
-
-Revised: February, 2022
+For single-dose vials: Discard unused portion.
