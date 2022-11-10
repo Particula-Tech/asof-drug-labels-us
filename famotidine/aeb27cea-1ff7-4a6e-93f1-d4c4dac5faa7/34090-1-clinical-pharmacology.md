@@ -65,13 +65,13 @@ As shown in Table 1, 70% of patients treated with famotidine 40 mg h.s. were hea
 
 Table 1 Outpatients with Endoscopically Confirmed Healed Duodenal Ulcers
 
-|  | Famotidine | Famotidine | Placebo |  |
-| --- | --- | --- | --- | --- |
-|  | 40 mg h.s. | 20 mg b.i.d. | h.s. |  |
-|  | (N=89) | (N=84) | (N=97) |  |
-| Week 2 | *32% | *38% | 17% |  |
-| Week 4 | *70% | *67% | 31% |  |
-| *Statistically significantly different than placebo (p<0.001) |  |  |  |  |
+|  | Famotidine | Famotidine | Placebo |
+| --- | --- | --- | --- |
+|  | 40 mg h.s. | 20 mg b.i.d. | h.s. |
+|  | (N=89) | (N=84) | (N=97) |
+| Week 2 | *32% | *38% | 17% |
+| Week 4 | *70% | *67% | 31% |
+| *Statistically significantly different than placebo (p<0.001) |  |  |  |
 
 Patients not healed by week 4 were continued in the study.
 By week 8, 83% of patients treated with famotidine had healed versus 45% of patients treated with placebo.
