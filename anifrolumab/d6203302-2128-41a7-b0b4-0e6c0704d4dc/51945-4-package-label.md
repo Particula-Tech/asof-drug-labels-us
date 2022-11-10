@@ -2,7 +2,7 @@
 
 NDC 0310-3040-00 Rx only
 
-SAPHNELO™
+SAPHNELO®
 
 (anifrolumab-fnia)
 
