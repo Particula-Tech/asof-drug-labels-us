@@ -85,8 +85,8 @@ SYNTHROID Dosing Guidelines for Hypothyroidism in Pregnant Patients
 | Patient Population | Starting Dosage | Dose Adjustment and Titration |
 | --- | --- | --- |
 | Pre-existing primary hypothyroidism with serum TSH above normal trimester-specific range | Pre-pregnancy dosage may increase during pregnancy | Increase SYNTHROID dosage by 12.5 to 25 mcg per day. Monitor TSH every 4 weeks until a stable dose is reached and serum TSH is within normal trimester-specific range. Reduce SYNTHROID dosage to pre-pregnancy levels immediately after delivery. Monitor serum TSH 4 to 8 weeks postpartum. |
-| New onset hypothyroidism (TSH ≥ 10 IU per liter) | 1.6 mcg/kg/day | Monitor serum TSH every 4 weeks and adjust SYNTHROID dosage until serum TSH is within normal trimester-specific range. |
-| New onset hypothyroidism (TSH < 10 IU per liter) | 1.0 mcg/kg/day |  |
+| New onset hypothyroidism (TSH ≥ 10 mIU per liter) | 1.6 mcg/kg/day | Monitor serum TSH every 4 weeks and adjust SYNTHROID dosage until serum TSH is within normal trimester-specific range. |
+| New onset hypothyroidism (TSH < 10 mIU per liter) | 1.0 mcg/kg/day |  |
 
 TSH Suppression in Well-differentiated Thyroid Cancer in Adult and Pediatric Patients
 
@@ -111,7 +111,7 @@ Perform routine clinical examination, including assessment of development, menta
 
 The general aim of therapy is to normalize the serum TSH level.
 TSH may not normalize in some patients due to in utero hypothyroidism causing a resetting of pituitary-thyroid feedback.
-Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of SYNTHROID therapy and/or of the serum TSH to decrease below 20 IU per liter within 4 weeks may indicate the patient is not receiving adequate therapy.
+Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of SYNTHROID therapy and/or of the serum TSH to decrease below 20 mIU per liter within 4 weeks may indicate the patient is not receiving adequate therapy.
 Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of SYNTHROID [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
 
 Secondary and Tertiary Hypothyroidism

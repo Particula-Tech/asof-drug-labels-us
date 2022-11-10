@@ -33,4 +33,4 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-20073179 R1 September 2022
+20075189 October 2022
