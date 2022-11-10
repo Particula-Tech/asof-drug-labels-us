@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA209457"
+  ],
+  "inn": "icosapent-ethyl",
+  "labeler": "Northstar Rx LLC",
+  "package_ndcs": [
+    "72603-129-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "icosapent ethyl",
+      "name": "Icosapent Ethyl"
+    }
+  ],
+  "setid": "45f8bb41-bdb1-4afc-83ec-9dc69720ee9c",
+  "source": "dailymed"
+}
