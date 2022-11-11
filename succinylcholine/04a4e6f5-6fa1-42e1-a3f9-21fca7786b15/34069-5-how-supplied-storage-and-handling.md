@@ -11,6 +11,7 @@ Distributed by
 
 Sandoz Inc., Princeton, NJ 08540
 
-Revised: January 2021
+Rev.
+November 2022
 
-46283811
+46314243
