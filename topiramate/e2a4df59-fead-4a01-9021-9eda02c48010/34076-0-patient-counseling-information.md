@@ -40,10 +40,18 @@ Advise women of childbearing potential who are not planning a pregnancy to use e
 Encourage pregnant women using EPRONTIA, to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
+Decrease in Bone Mineral Density
+
+Inform the patient or caregiver that long-term treatment with EPRONTIA can decrease bone formation and increase bone resorption in children [see Warnings and Precautions (5.9)].
+
+Negative Effects on Growth (Height and Weight)
+
+Discuss with the patient or caregiver that long-term EPRONTIA treatment may attenuate growth as reflected by slower height increase and weight gain in pediatric patients [see Warnings and Precautions (5.10)].
+
 Serious Skin Reactions
 
 Inform patients about the signs of serious skin reactions.
-Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.9)]
+Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.11)]
 
 Hyperammonemia and Encephalopathy
 
@@ -51,11 +59,11 @@ Warn patients about the possible development of hyperammonemia with or without e
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemia encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 This hyperammonemia and encephalopathy can develop with EPRONTIA treatment alone or with EPRONTIA treatment with concomitant valproic acid (VPA).
 
-Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.10)].
+Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.12)].
 
 Kidney Stones
 
-Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.11)].
+Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.13)].
 
 Administration Instructions
 
