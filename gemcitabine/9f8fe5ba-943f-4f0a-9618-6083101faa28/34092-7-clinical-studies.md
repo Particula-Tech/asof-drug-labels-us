@@ -27,21 +27,21 @@ Table 17: Efficacy Results in Study 1
 | Efficacy Parameter | Gemcitabine for Injection/Carboplatin (N=178) | Carboplatin (N=178) |
 | --- | --- | --- |
 | Progression-Free Survival |  |  |
-| Median (95% C Ia) in mon ths | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) |
+| Median (95% CIa) in months | 8.6 (8.0, 9.7) | 5.8 (5.2, 7.1) |
 | Hazard Ratio (95% CI) | 0.72 (0.57, 0.90) |  |
-| p-valueb | p =0.0038 |  |
-| O vera ll Su r v i val |  |  |
-| Median (95% C I) in mon ths | 18.0 (16.2, 20.3) | 17.3 (15.2, 19.3) |
+| p-valueb | p=0.0038 |  |
+| Overall Survival |  |  |
+| Median (95% CI) in months | 18.0 (16.2, 20.3) | 17.3 (15.2, 19.3) |
 | Hazard Ratio (95% CI) | 0.98 (0.78, 1.24) |  |
-| p-valueb | p =0.8977 |  |
-| O vera ll Response Rate by I n vest igator Re v i ew | 47.2% | 30.9% |
-| p- valuec | p =0.0016 |  |
+| p-valueb | p=0.8977 |  |
+| Overall Response Rate by Investigator Review | 47.2% | 30.9% |
+| p-valuec | p=0.0016 |  |
 | CRd | 14.6% | 6.2% |
-| PR wi th P RNMe | 32.6% | 24.7% |
-| O vera ll Response Ratef by Independent Re v i ew | 46.3% | 35.6% |
-| p- valuec | p =0.11 |  |
+| PR with PRNMe | 32.6% | 24.7% |
+| Overall Response Ratefby Independent Review | 46.3% | 35.6% |
+| p-valuec | p=0.11 |  |
 | CRd | 9.1% | 4.0% |
-| PR wi th P RNMe | 37.2% | 31.7% |
+| PR with PRNMe | 37.2% | 31.7% |
 
 a CI=confidence interval. b Log rank, unadjusted. c Chi square. d CR=Complete response. e PR with PRNM=Partial response with partial response, non-measurable disease. f Independently reviewed cohort – Gemcitabine for Injection/carboplatin (n=121), carboplatin (n=101); independent reviewers unable to measure disease detected by sonography or physical exam.
 Figure 1: Kaplan-Meier Curves for Progression-Free Survival in Study 1
@@ -72,17 +72,17 @@ Table 19: Efficacy Results in Study 2
 
 | Efficacy Parameter | Gemcitabine for Injection/Paclitaxel (N=267) | Paclitaxel (N=262) |
 | --- | --- | --- |
-| T ime to Do cu ment ed D isease Prog ress iona |  |  |
-| Median (95% C I) in mon ths | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) |
+| Time to Documented Disease Progressiona |  |  |
+| Median (95% CI) in months | 5.2 (4.2, 5.6) | 2.9 (2.6, 3.7) |
 | Hazard Ratio (95% CI) | 0.650 (0.524, 0.805) |  |
-| p-value | p <0.0001 |  |
-| O vera ll Su r v i valb |  |  |
-| Median (95% C I) in mon ths | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |
+| p-value | p<0.0001 |  |
+| Overall Survivalb |  |  |
+| Median (95% CI) in months | 18.6 (16.5, 20.7) | 15.8 (14.1, 17.3) |
 | Hazard Ratio (95% CI) | 0.86 (0.71, 1.04) |  |
-| p-value | Not Signi fi c ant |  |
-| O vera ll Response Rate | 40.8% | 22.1% |
-| (95% C I) | (34.9, 46.7) | (17.1, 27.2) |
-| p-value | p <0.0001 |  |
+| p-value | Not Significant |  |
+| Overall Response Rate | 40.8% | 22.1% |
+| (95% CI) | (34.9, 46.7) | (17.1, 27.2) |
+| p-value | p<0.0001 |  |
 
 a These represent reconciliation of investigator and Independent Review Committee assessments according to a predefined algorithm. b Based on the ITT population.
 Figure 2: Kaplan-Meier Curves for Time to Documented Disease Progression in Study 2
