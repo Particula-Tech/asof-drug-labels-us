@@ -1,52 +1,36 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised to adhere to their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program, and periodic testing of a fasting lipid panel.
+Myopathy and Rhabdomyolysis
 
-Patients should be advised about substances they should not take concomitantly with simvastatin [see Contraindications (4) and Warnings and Precautions (5.1)].
-Patients should also be advised to inform other healthcare professionals prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin tablets.
+Advise patients that simvastatin tablets may cause myopathy and rhabdomyolysis.
+Inform patients taking the 80 mg daily dose of simvastatin tablets that they are at an increased risk.
+Inform patients that the risk is also increased when taking certain types of medication or consuming grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dose of an existing medication that they are taking simvastatin tablets.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7.1)].
 
-## 17.1 Muscle Pain
+Hepatic Dysfunction
 
-All patients starting therapy with simvastatin tablets should be advised of the risk of myopathy, including rhabdomyolysis, and told to report promptly any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing simvastatin tablets.
+Inform patients that simvastatin tablets may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
 
-Patients using the 80-mg dose should be informed that the risk of myopathy, including rhabdomyolysis, is increased with use of the 80-mg dose.
-The risk of myopathy, including rhabdomyolysis, occurring with use of simvastatin tablets are increased when taking certain types of medication or consuming grapefruit juice.
-Patients should discuss all medication, both prescription and over the counter, with their healthcare professional.
+Increases in HbA1c and Fasting Serum Glucose Levels
 
-## 17.2 Liver Enzymes
+Inform patients that increases in HbA1c and fasting serum glucose levels may occur with simvastatin tablets.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.4)].
 
-It is recommended that liver function tests be performed before the initiation of simvastatin tablets, and thereafter when clinically indicated.
-All patients treated with simvastatin tablets should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
+Pregnancy
 
-## 17.3 Pregnancy
+Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if simvastatin tablets should be discontinued [see Use in Specific Populations (8.1)].
 
-Women of childbearing age should be advised to use an effective method of birth control to prevent pregnancy while using simvastatin tablets.
-Discuss future pregnancy plans with your patients, and discuss when to stop taking simvastatin tablets if they are trying to conceive.
-Patients should be advised that if they become pregnant they should stop taking simvastatin tablets and call their healthcare professional.
+Lactation
 
-## 17.4 Breastfeeding
+Advise patients that breastfeeding is not recommended during treatment with simvastatin tablets [see Use in Specific Populations (8.2)].
 
-Women who are breastfeeding should not use simvastatin tablets.
-Patients who have a lipid disorder and are breastfeeding should be advised to discuss the options with their healthcare professional.
+Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
 
-Manufactured For:
+Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
 
-Accord Healthcare, Inc.,
+10 2959 5 6018031
 
-1009 Slater Road,
-
-Suite 210-B,
-
-Durham, NC 27703,
-
-USA
-
-Manufactured By:
-
-Intas Pharmaceuticals Limited,
-
-Ahmedabad -380 054, India.
-
-10 2959 3 605000
-
-Issued November 2020
+Issued July 2022
