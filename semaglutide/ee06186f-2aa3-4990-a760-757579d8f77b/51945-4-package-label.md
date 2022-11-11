@@ -1,10 +1,10 @@
-# wegovy™ 0.25 mg
+# wegovy® 0.25 mg
 
 NDC 0169-4525-14 List 452514
 
 0.25 mg
 
-wegovy™
+wegovy®
 
 (semaglutide) injection
 
@@ -26,13 +26,13 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy™ 0.5 mg
+# wegovy® 0.5 mg
 
 NDC 0169-4505-14 List 450514
 
 0.5 mg
 
-wegovy™
+wegovy®
 
 (semaglutide) injection
 
@@ -54,13 +54,13 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy™ 1 mg
+# wegovy® 1 mg
 
 NDC 0169-4501-14 List 450114
 
 1 mg
 
-wegovy™
+wegovy®
 
 (semaglutide) injection
 
@@ -82,13 +82,13 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy™ 1.7 mg
+# wegovy® 1.7 mg
 
 NDC 0169-4517-14 List 451714
 
 1.7 mg
 
-wegovy™
+wegovy®
 
 (semaglutide) injection
 
@@ -110,13 +110,13 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy™ 2.4 mg
+# wegovy® 2.4 mg
 
 NDC 0169-4524-14 List 452414
 
 2.4 mg
 
-wegovy™
+wegovy®
 
 (semaglutide) injection
 

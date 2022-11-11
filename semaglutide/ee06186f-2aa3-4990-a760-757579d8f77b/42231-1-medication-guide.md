@@ -1,8 +1,6 @@
 # Medication Guide
 
-MedicationGuide
-
-WEGOVY™ (wee-GOH-vee)
+WEGOVY® (wee-GOH-vee)
 
 (semaglutide) injection, for subcutaneous use
 
@@ -94,7 +92,7 @@ What are the possible side effects of WEGOVY?
 WEGOVY may cause serious side effects, including:
 
 - •See “What is the most important information I should know about WEGOVY?”
-- •inflammation of your pancreas(pancreatitis).
+- •inflammation of your pancreas (pancreatitis).
   Stop using WEGOVY and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting.
   You may feel the pain from your abdomen to your back.
 - •gallbladder problems.
@@ -122,7 +120,7 @@ WEGOVY may cause serious side effects, including:
 - •kidney problems (kidney failure).
   In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse.
   It is important for you to drink fluids to help reduce your chance of dehydration.
-- •seriousallergic reactions.
+- •serious allergic reactions.
   Stop using WEGOVY and get medical help right away, if you have any symptoms of a serious allergic reaction including:
 
 | oswelling of your face, lips, tongue or throat | osevere rash or itching | overy rapid heartbeat |
@@ -166,18 +164,18 @@ What are the ingredients in WEGOVY?
 
 Active Ingredient: semaglutide
 
-Inactive Ingredients: disodium phosphate dihydrate, sodium chloride, and water for injection
+Inactive Ingredients: disodium phosphate dihydrate, 1.42 mg; sodium chloride, 8.25 mg; water for injection; and hydrochloric acid or sodium hydroxide may be added to adjust pH.
 
 Manufactured by: Novo Nordisk A/S, DK-2880 Bagsvaerd, Denmark
 
-WEGOVY ™ is a trademark of Novo Nordisk A/S.
+WEGOVY® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2021 Novo Nordisk
+© 2022 Novo Nordisk
 
 For more information, go to startWegovy.com or call 1-833-Wegovy-1.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 06/2021
+Issued: 08/2022
