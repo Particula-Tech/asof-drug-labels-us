@@ -5,7 +5,7 @@ The following are described in greater detail in the Warnings and Precautions se
 - Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
 - Seizure Potential [see Warnings and Precautions (5.2)]
 - Interaction with Valproic Acid [see Warnings and Precautions (5.3)]
-- Clostridium difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.4)]
+- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.4)]
 - Caution with Intramuscular Administration [see Warnings and Precautions (5.5)]
 - Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6)]
 - Laboratory Tests [see Warnings and Precautions (5.7)]
@@ -178,11 +178,11 @@ Immune System Disorders: anaphylaxis including anaphylactoid reactions
 
 Musculoskeletal and Connective Tissue Disorders: muscular weakness
 
-Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor
+Nervous System Disorders: coordination abnormal, depressed level of consciousness, dyskinesia, gait disturbance, myoclonus, tremor, encephalopathy (recovery was prolonged in patients with renal impairment)
 
 Psychiatric Disorders: altered mental status (including aggression, delirium), hallucinations
 
-Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome)
+Skin and Subcutaneous Tissue Disorders: Acute Generalized Exanthematous Pustulosis (AGEP), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS syndrome), hypersensitivity vasculitis
 
 ## 6.3 Adverse Laboratory Changes in Clinical Trials
 

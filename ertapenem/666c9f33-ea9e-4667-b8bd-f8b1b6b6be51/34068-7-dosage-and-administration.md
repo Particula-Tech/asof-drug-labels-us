@@ -109,8 +109,6 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 
 NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
 
-Discard unused portion.
-
 2Refer to the prescribing information for lidocaine HCl.
 
 Pediatric patients 3 months to 12 years of age
@@ -125,6 +123,7 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED AND THEN DILUTED PRIOR TO ADMINIST
 1. Reconstitute the contents of a 1 g vial of Ertapenem for Injection with 10 mL of one of the following: Water for Injection, 0.9% Sodium Chloride Injection or Bacteriostatic Water for Injection, using a syringe equipped with a 21-gauge or smaller diameter needle.
    NOTE: Use with a needleless IV system is not recommended.
 2. Shake well to dissolve and immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and dilute in 0.9% Sodium Chloride Injection to a final concentration of 20 mg/mL or less.
+   Discard vial with unused portion of Ertapenem for Injection reconstituted solution.
 3. Complete the infusion within 6 hours of reconstitution.
 
 Preparation for intramuscular administration:
@@ -134,11 +133,10 @@ ERTAPENEM FOR INJECTION MUST BE RECONSTITUTED PRIOR TO ADMINISTRATION.
 1. Reconstitute the contents of a 1 g vial of Ertapenem for Injection with 3.2 mL of 1% lidocaine HCl injection 2 (without epinephrine).
    Shake vial thoroughly to form solution.
 2. Immediately withdraw a volume equal to 15 mg/kg of body weight (not to exceed 1 g/day) and administer by deep intramuscular injection into a large muscle mass (such as the gluteal muscles or lateral part of the thigh).
+   Discard vial with unused portion of Ertapenem for Injection reconstituted solution.
 3. The reconstituted I.M. solution should be used within 1 hour after preparation.
 
 NOTE: THE RECONSTITUTED SOLUTION SHOULD NOT BE ADMINISTERED INTRAVENOUSLY.
-
-Discard unused portion.
 
 2Refer to the prescribing information for lidocaine HCl.
 

@@ -34,7 +34,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Data
 
 The concentration of ertapenem in breast milk from 5 lactating women with pelvic infections (5 to 14 days postpartum) measured at random time points daily for 5 consecutive days following the last 1 g dose of intravenous therapy (3 to 10 days of therapy) showed low levels.
-The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from (<0.13 (lower limit of quantitation) to 0.38 mcg/ml), although peak concentrations were not assessed.
+The concentration of ertapenem in breast milk within 24 hours of the last dose of therapy in all 5 women ranged from (<0.13 (lower limit of quantitation) to 0.38 mcg/mL), although peak concentrations were not assessed.
 By day 5 after discontinuation of therapy, the level of ertapenem was undetectable in the breast milk of 4 women and below the lower limit of quantitation (<0.13 mcg/mL) in 1 woman.
 The concentration of ertapenem in transitional milk observed in this study may not reflect the concentration of ertapenem in mature milk.
 
