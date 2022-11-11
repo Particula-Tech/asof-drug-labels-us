@@ -6,8 +6,7 @@ Deferiprone tablets are available in a 500 mg formulation.
 
 - Deferiprone tablets - 500 mg - given three times a day [see Dosage and Administration (2.4)]
 
-To prevent medication errors, before prescribing and dispensing, ensure that the tablet formulation is appropriate for the dosing regimen.
-[see Dosage Forms and Strengths (3)].
+To prevent medication errors, before prescribing and dispensing, ensure that the tablet formulation is appropriate for the dosing regimen [see Dosage Forms and Strengths (3)].
 
 For patients who have trouble swallowing tablets, consider the use of oral solution (see the prescribing information for oral solution).
 

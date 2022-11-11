@@ -4,4 +4,4 @@ Deferiprone tablets are indicated for the treatment of transfusional iron overlo
 
 Limitations of Use
 
-- Safety and effectiveness have not been established for the treatment of transfusional iron overload in patients with myelodysplastic syndrome.
+- Safety and effectiveness have not been established for the treatment of transfusional iron overload in patients with myelodysplastic syndrome or in patients with Diamond Blackfan anemia.
