@@ -20,9 +20,10 @@ Avoiding Contamination of the Product Do not touch dropper tip to any surface, a
 
 Concomitant Topical Ocular Therapy If more than one topical ophthalmic medication is being used, the medicines must be administered at least 5 minutes apart.
 
-Distributed by: Allergan, an AbbVie Company Manufactured for: AbbVie Inc. North Chicago, IL 60064 USA Allergan is an affiliate of AbbVie Inc.
+Distributed by: Allergan, an AbbVie company Manufactured for: AbbVie Inc. North Chicago, IL 60064 USA
 
-© 2022 Allergan, an AbbVie Company.
-North Chicago, IL, 60064, USA Patented.
+© 2022 AbbVie.
+All rights reserved.
+VUITY and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
 
-v2.0USPI7098
+v3.0USPI7098
