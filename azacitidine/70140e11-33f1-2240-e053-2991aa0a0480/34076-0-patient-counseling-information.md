@@ -1,16 +1,28 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Hepatotoxicity in Patients with Severe Pre-Existing Hepatic Impairment Instruct patients to inform their physician about any underlying liver disease [see Warnings and Precautions (5.2)].
+Hepatotoxicity in Patients with Severe Pre-Existing Hepatic Impairment
 
-Renal Toxicity Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.3)].
+Instruct patients to inform their physician about any underlying liver disease [see Warnings and Precautions (5.3)].
 
-Embryo-Fetal Risk Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.5) and see Use in Specific Populations (8.1)].
+Renal Toxicity
 
-Advise females of reproductive potential to avoid pregnancy during treatment with Azacitidine for injection.
-Advise males with female sexual partners of reproductive potential to not father a child and to use effective contraception during treatment with Azacitidine for injection.
-Advise patients to report pregnancy to their physicians immediately [see Warnings and Precautions (5.5) and see Use in Specific Populations (8.3)].
+Instruct patients to inform their physician about any underlying renal disease [see Warnings and Precautions (5.4)].
 
-Lactation Advise patients to avoid breastfeeding while receiving Azacitidine for injection [see Use in Specific Populations (8.2)].
+Embryo-Fetal Toxicity
+
+Advise pregnant women of the potential risk to a fetus [see Warnings and Precautions (5.6) and see Use in Specific Populations (8.1)].
+
+Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for injection and for 6 months after the last dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with Azacitidine for injection and for 3 months after the last dose.
+Advise patients to report known or suspected pregnancy to their physicians immediately [see Warnings and Precautions (5.6) and see Use in Specific Populations (8.3)].
+
+Lactation
+
+Advise patients to avoid breastfeeding while receiving Azacitidine for injection and for 1 week after the last dose [see Use in Specific Populations (8.2)].
+
+Infertility
+
+Advise males and females that Azacitidine for injection may impair fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology(13.1)].
 
 Manufactured For:
 
@@ -39,6 +51,6 @@ Ahmedabad-382 213,
 
 India.
 
-51 3597 1 723571
+51 3597 2 730747
 
-Issued: April 2020
+Issued: August 2022

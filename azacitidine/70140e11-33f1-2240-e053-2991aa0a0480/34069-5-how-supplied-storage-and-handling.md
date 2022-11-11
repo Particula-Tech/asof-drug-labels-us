@@ -10,6 +10,6 @@ Store unreconstituted vials at 25º C (77º F); excursions permitted to 15º-30�
 
 Handling and Disposal
 
-Azacitidine for injection is a cytotoxic drug.
+Azacitidine for injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.
 1
