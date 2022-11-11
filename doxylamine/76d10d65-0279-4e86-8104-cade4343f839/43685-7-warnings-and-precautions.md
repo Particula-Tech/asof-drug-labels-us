@@ -10,7 +10,7 @@ The combination may result in severe drowsiness leading to falls or accidents [s
 
 ## 5.2 Concomitant Medical Conditions
 
-Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets have anticholinergic properties and, therefore, should be used with caution in women with: asthma, increased intraocular pressure, narrow angle glaucoma, stenosing peptic ulcer, pyloroduodenal obstruction and urinary bladder-neck obstruction.
+Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets have anticholinergic properties and, therefore, should be used with caution in women with: increased intraocular pressure, narrow angle glaucoma, stenosing peptic ulcer, pyloroduodenal obstruction and urinary bladder-neck obstruction.
 
 ## 5.3 Interference with Urine Screen for Methadone, Opiates and Phencyclidine Phosphate (PCP)
 
