@@ -2,7 +2,8 @@
 
 ## 2.1 Patient Selection
 
-Select patients for treatment with RYBREVANT based on the presence of EGFR exon 20 insertion mutations [see Clinical Studies (14)].
+Select patients for treatment with RYBREVANT based on the presence of EGFR exon 20 insertion mutations in tumor or plasma specimens [see Clinical Studies (14)].
+If no mutation is detected in a plasma specimen, test tumor tissue.
 Information on FDA-approved tests is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage
@@ -66,10 +67,10 @@ Table 5: Recommended RYBREVANT Dosage Modifications for Adverse Reactions
 | Infusion-related reactions (IRR) [see Warnings and Precautions (5.1)] | Grade 1 to 2 | Interrupt RYBREVANT infusion if IRR is suspected and monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Table 6).Include corticosteroid with premedications for subsequent dose (see Table 3). |
 | Grade 3 | Interrupt RYBREVANT infusion and administer supportive care medications. Monitor patient until reaction symptoms resolve. Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Table 6). Include corticosteroid with premedications for subsequent dose (see Table 3). For recurrent Grade 3, permanently discontinue RYBREVANT. |  |
 | Grade 4 | Permanently discontinue RYBREVANT. |  |
-| Interstitial Lung Disease (ILD)/pneumonitis [see Warnings and Precautions (5.2)]. | Any Grade | Withhold RYBREVANT if ILD/pneumonitis is suspected.Permanently discontinue RYBREVANT if ILD/pneumonitis is confirmed. |
+| Interstitial Lung Disease (ILD)/pneumonitis [see Warnings and Precautions (5.2)] | Any Grade | Withhold RYBREVANT if ILD/pneumonitis is suspected.Permanently discontinue RYBREVANT if ILD/pneumonitis is confirmed. |
 | Dermatologic Adverse Reactions (including dermatitis acneiform, pruritus, dry skin) [see Warnings and Precautions (5.3)] | Grade 2 | Initiate supportive care management.Reassess after 2 weeks; if rash does not improve, consider dose reduction. |
 | Grade 3 | Withhold RYBREVANT and initiate supportive care management.Upon recovery to ≤ Grade 2, resume RYBREVANT at reduced dose.If no improvement within 2 weeks, permanently discontinue treatment. |  |
-| Grade 4 | Permanently discontinue RYBREVANT |  |
+| Grade 4 | Permanently discontinue RYBREVANT. |  |
 | Severe bullous, blistering or exfoliating skin conditions (including toxic epidermal necrolysis (TEN) | Permanently discontinue RYBREVANT. |  |
 | Other Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 | Withhold RYBREVANT until recovery to ≤ Grade 1 or baseline.Resume at the same dose if recovery occurs within 1 week.Resume at reduced dose if recovery occurs after 1 week but within 4 weeks.Permanently discontinue if recovery does not occur within 4 weeks. |
 | Grade 4 | Withhold RYBREVANT until recovery to ≤Grade 1 or baseline.Resume at reduced dose if recovery occurs within 4 weeks.Permanently discontinue if recovery does not occur within 4 weeks.Permanently discontinue for recurrent Grade 4 reactions. |  |
@@ -95,7 +96,7 @@ Dilute and prepare RYBREVANT for intravenous infusion before administration.
 ## 2.6 Administration
 
 Administer the diluted solution [see Dosage and Administration (2.5)] by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.2 micrometer) primed with diluent only.
-Administration sets must be made of either polyurethane (PU), polybutadiene (PBD) PVC, PP, or PE.
+Administration sets must be made of either polyurethane (PU), polybutadiene (PBD), PVC, PP, or PE.
 
 Do not infuse RYBREVANT concomitantly in the same intravenous line with other agents.
 

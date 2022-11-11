@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The safety population described in the WARNINGS AND PRECAUTIONS reflect exposure to RYBREVANT as a single agent in the CHRYSALIS study in 302 patients with locally advanced or metastatic NSCLC who received a dose of 1050 mg (for patients <80 kg) or 1400 mg (for patients ≥80 kg) once weekly for 4 weeks, then every 2 weeks thereafter.
 Among 302 patients who received RYBREVANT, 36% were exposed for 6 months or longer and 12% were exposed for greater than one year.
-In the safety population, the most common (≥ 20%) adverse reactions were rash, infusion-related reaction, paronychia, musculoskeletal pain, dyspnea, nausea, edema, cough, fatigue, stomatitis, constipation, vomiting and pruritus.
+In the safety population, the most common (≥ 20%) adverse reactions were rash, infusion-related reaction, paronychia, musculoskeletal pain, dyspnea, nausea, edema, cough, fatigue, stomatitis, constipation, vomiting, and pruritus.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were decreased lymphocytes, decreased phosphate, decreased albumin, increased glucose, increased gamma glutamyl transferase, decreased sodium, decreased potassium, and increased alkaline phosphatase.
 
 The data described below reflect exposure to RYBREVANT at the recommended dosage in 129 patients with locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations whose disease had progressed on or after platinum-based chemotherapy.

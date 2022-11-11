@@ -2,13 +2,13 @@
 
 ## 5.1 Infusion-Related Reactions
 
-RYBREVANT can cause infusion-related reactions (IRR); signs and symptoms of IRR include dyspnea, flushing, fever, chills, nausea, chest discomfort, hypotension, and vomiting.
+RYBREVANT can cause infusion-related reactions (IRR); signs and symptoms of IRR include dyspnea, flushing, fever, chills, nausea, chest discomfort, hypotension and vomiting.
 
 Based on the safety population [see Adverse Reactions (6.1)], IRR occurred in 66% of patients treated with RYBREVANT.
 Among patients receiving treatment on Week 1 Day 1, 65% experienced an IRR, while the incidence of IRR was 3.4% with the Day 2 infusion, 0.4% with the Week 2 infusion, and cumulatively 1.1% with subsequent infusions.
 Of the reported IRRs, 97% were Grade 1–2, 2.2% were Grade 3, and 0.4% were Grade 4.
 The median time to onset was 1 hour (range 0.1 to 18 hours) after start of infusion.
-The incidence of infusion modifications due to IRR was 62% and 1.3% of patients permanently discontinued RYBREVANT due to IRR.
+The incidence of infusion modifications due to IRR was 62%, and 1.3% of patients permanently discontinued RYBREVANT due to IRR.
 
 Premedicate with antihistamines, antipyretics, and glucocorticoids and infuse RYBREVANT as recommended [see Dosage and Administration (2.3)].
 Administer RYBREVANT via a peripheral line on Week 1 and Week 2 [see Dosage and Administration (2.6)].
@@ -55,7 +55,7 @@ Withhold, dose reduce or permanently discontinue RYBREVANT based on severity [se
 ## 5.5 Embryo-Fetal Toxicity
 
 Based on its mechanism of action and findings from animal models, RYBREVANT can cause fetal harm when administered to a pregnant woman.
-Administration of other EGFR inhibitor molecules to pregnant animals has resulted in an increased incidence of impairment of embryo-fetal development, embryolethality, and abortion.
+Administration of other EGFR inhibitor molecules to pregnant animals has resulted in an increased incidence of impairment of embryo-fetal development, embryo lethality, and abortion.
 Advise females of reproductive potential of the potential risk to the fetus.
 Advise female patients of reproductive potential to use effective contraception during treatment and for 3 months after the final dose of RYBREVANT.
 [see Use in Specific Populations (8.1, 8.3)].
