@@ -10,6 +10,4 @@ Distributed by
 Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-January 2021
-
-46283810
+November 2022
