@@ -15,16 +15,28 @@ The following adverse reactions are described in greater detail in other section
 The following adverse reactions have been identified during post-approval use of 4-aminoquinoline drugs, including hydroxychloroquine sulfate tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- •Blood and lymphatic system disorders: Bone marrow depression, anemia, aplastic anemia, agranulocytosis, leukopenia, thrombocytopenia
-- •Cardiac disorders: Cardiomyopathy, cardiac failure, QT-interval prolongation, ventricular tachycardia, torsades de pointes, atrioventricular block, bundle branch block, sick sinus syndrome, pulmonary hypertension
-- •Ear and labyrinth disorders: Vertigo, tinnitus, nystagmus, sensorineural hearing loss
-- •Eye disorders: Retinopathy, retinal pigmentation changes (typically bull’s eye appearance), visual field defects (paracentral scotomas), macular degeneration, corneal edema, corneal opacities, decreased dark adaptation
-- •Gastrointestinal disorders: Nausea, vomiting, diarrhea, abdominal pain
-- •General disorders: Fatigue
-- •Hepatobiliary disorders: Abnormal liver function tests, fulminant hepatic failure
-- •Immune system disorders: Urticaria, angioedema, bronchospasm
-- •Metabolism and nutrition disorders: Anorexia, hypoglycemia, weight loss
-- •Musculoskeletal and connective tissue disorders: Proximal myopathy, depressed tendon reflexes, abnormal nerve conduction
-- •Nervous system disorders: Ataxia, dizziness, headache, seizure, extrapyramidal disorders (dystonia, dyskinesia, tremor)
-- •Psychiatric disorders: Affect/emotional lability, irritability, nervousness, nightmares, psychosis, suicidal ideation, suicidal behavior
-- •Skin and subcutaneous tissue disorders: Alopecia, hair color changes, rash, pruritus, photosensitivity, psoriasis exacerbation, hyperpigmentation, exfoliative dermatitis, erythema multiforme, acute generalized exanthematous pustulosis, Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)
+- Blood and lymphatic system disorders: Bone marrow depression, anemia, aplastic anemia, agranulocytosis, leukopenia, thrombocytopenia
+
+- Cardiac disorders: Cardiomyopathy, cardiac failure, QT-interval prolongation, ventricular tachycardia, torsades de pointes, atrioventricular block, bundle branch block, sick sinus syndrome, pulmonary hypertension
+
+- Ear and labyrinth disorders: Vertigo, tinnitus, nystagmus, sensorineural hearing loss
+
+- Eye disorders: Retinopathy, retinal pigmentation changes (typically bull’s eye appearance), visual field defects (paracentral scotomas), macular degeneration, corneal edema, corneal opacities, decreased dark adaptation
+
+- Gastrointestinal disorders: Nausea, vomiting, diarrhea, abdominal pain
+
+- General disorders: Fatigue
+
+- Hepatobiliary disorders: Abnormal liver function tests, fulminant hepatic failure
+
+- Immune system disorders: Urticaria, angioedema, bronchospasm
+
+- Metabolism and nutrition disorders: Anorexia, hypoglycemia, weight loss
+
+- Musculoskeletal and connective tissue disorders: Proximal myopathy, depressed tendon reflexes, abnormal nerve conduction
+
+- Nervous system disorders: Ataxia, dizziness, headache, seizure, extrapyramidal disorders (dystonia, dyskinesia, tremor)
+
+- Psychiatric disorders: Affect/emotional lability, irritability, nervousness, nightmares, psychosis, suicidal ideation, suicidal behavior
+
+- Skin and subcutaneous tissue disorders: Alopecia, hair color changes, rash, pruritus, photosensitivity, psoriasis exacerbation, hyperpigmentation, exfoliative dermatitis, erythema multiforme, acute generalized exanthematous pustulosis, Drug Rash with Eosinophilia and Systemic Symptoms (DRESS syndrome), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN)
