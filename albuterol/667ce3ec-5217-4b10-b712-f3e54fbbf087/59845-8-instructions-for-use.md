@@ -22,11 +22,18 @@ There are 3 main parts of your ProAir Digihaler inhaler including:
   The electronic module does not control or interfere with delivery of the medicine through the inhaler.There is a dose counter in the back of the inhaler with a viewing window that shows you how many doses of medicine you have left.
   See Figure A.Figure A
 - Your ProAir Digihaler inhaler contains 200 doses (inhalations).
+  If you have a sample inhaler (with "SAMPLE" on the back label), your inhaler contains 30 doses (inhalations).
   See Figure B.
 - The dose counter shows the number of doses left in your inhaler.
 - When there are 20 doses left, the dose counter will change to red and you should refill your prescription or ask your doctor for another prescription.
-- When the dose counter displays ‘0’ your inhaler is empty and you should stop using the inhaler and throw it away.
-  See Figure B.Figure BIMPORTANT:
+- When the dose counter displays ‘0’ your inhaler is empty and you should stop using the inhaler.
+  ProAir Digihaler contains a lithium-manganese dioxide battery and should be thrown away (disposed of) in accordance with state and local regulations.
+  See Figure B.
+
+Figure B
+
+IMPORTANT:
+
 - Always close the cap after each inhalation so your inhaler will be ready for you to take your next dose.
   Do not open the cap unless you are ready for your next dose.
 - You will hear a “click” sound when the cap is opened fully.
@@ -129,9 +136,9 @@ Teva Pharmaceuticals USA, Inc.
 
 Parsippany, NJ 07054
 
-©2020 Teva Respiratory, LLC.
+©2022 Teva Respiratory, LLC.
 All rights reserved.
 
-PRODHIFU-002
+PRODHIFU-003
 
-Revised September 2020
+Revised June 2022

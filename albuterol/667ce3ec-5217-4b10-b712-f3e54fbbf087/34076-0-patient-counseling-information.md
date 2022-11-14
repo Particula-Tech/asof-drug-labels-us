@@ -32,7 +32,7 @@ Instruct patients to store the inhaler at room temperature and to avoid exposure
 Instruct patients to never take the inhaler apart.
 
 Inform patients that ProAir Digihaler has a dose counter.
-When the patient receives the inhaler, the number 200 will be displayed.
+When the patient receives the inhaler, the number 200 will be displayed for the 200 dose canister; and 30 will be displayed for the 30 dose canister.
 The dose counter will count down each time the mouthpiece cap is opened and closed.
 The dose counter window displays the number of actuations left in the inhaler in units of two (e.g., 200, 198, 196, etc.). When the counter displays 20, the color of the numbers will change to red to remind the patient to contact their pharmacist for a refill of medication or consult their physician for a prescription refill.
 When the dose counter reaches 0, the background will change to solid red.
@@ -79,7 +79,7 @@ The Bluetooth® word mark and logos are registered trademarks owned by the Bluet
 
 United States Patent Nos. 6701917, 6718972, 6748947, 6871646, 7540282, 8006690, 8651103, 8978966, 9216260, 9463288, 9731087, 9782550, 9782551, 10022510, 10124131
 
-PRORDH-002
+PRORDH-003
 
 Rev.
-09/2020
+06/2022

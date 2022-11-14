@@ -15,7 +15,7 @@ Each actuation provides a metered dose of 2.6 mg of the formulation containing 1
 Under standardized in vitro test conditions with fixed flow rates ranging from 58 to 71 L/min, and with a total air volume of 2 L, ProAir Digihaler inhaler delivers 108 mcg of albuterol sulfate (equivalent to 90 mcg of albuterol base) with lactose from the mouthpiece.
 The actual amount of drug delivered to the lung will depend on patient factors, such as inspiratory flow profile.
 In a study that investigated the peak inspiratory flow rate (PIFR) in asthma (n=27, ages 12 to 17 years old and n=50, ages 18 to 45 years old) and COPD (n=50, over 50 years old) patients, the mean PIFR achieved by subjects was >60 L/min (range = 31 to 110 L/min.), indicating that patients would be able to achieve the required inspiratory flow to operate the MDPI device correctly.
-The inhaler is provided for 200 actuations (inhalations).
+The inhaler is provided for 200 or 30 actuations (inhalations).
 
 ProAir Digihaler contains a QR code on the electronic module which is built-in to the top of the inhaler and automatically detects, records and stores data on inhaler events, including peak inspiratory flow rate (L/min).
 ProAir Digihaler may pair with and transmit data to the mobile App where inhaler events are categorized.
