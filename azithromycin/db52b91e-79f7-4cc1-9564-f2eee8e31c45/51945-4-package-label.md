@@ -88,7 +88,7 @@ Rx only
 
 Z
 
-Zithromax® (AZITHROMYCIN) 500 mg Tablets
+1. Zithromax® (AZITHROMYCIN) 500 mg Tablets
 
 TRI-PAK™
 
