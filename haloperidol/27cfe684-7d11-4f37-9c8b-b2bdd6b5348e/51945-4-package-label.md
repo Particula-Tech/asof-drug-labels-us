@@ -10,7 +10,7 @@ Store at controlled room temperature (15°-30°C, 59°-86°F).
 Protect from light.
 Do not freeze.
 
-Haldol® BRAND OF
+Haldol ® BRAND OF
 
 HALOPERIDOL INJECTION For Itramuscular Use For Immediate Release
 

@@ -40,7 +40,7 @@ Adverse Reactions Occurring in ≥1% of Haloperidol-Treated Patients in Double-B
 | Dry mouth | 1.8 | 0.4 |
 | Salivary hypersecretion | 1.2 | 0.7 |
 | Nervous System Disorders |  |  |
-| Extrapyramidal disorderRepresents the total reporting rate for extrapyramidal disorder (reported term) and individual symptoms of extrapyramidal disorder, including events that did not meet the threshold of ≥1% for inclusion in this table | 50.7 | 16.0 |
+| Extrapyramidal disorder Represents the total reporting rate for extrapyramidal disorder (reported term) and individual symptoms of extrapyramidal disorder, including events that did not meet the threshold of ≥1% for inclusion in this table | 50.7 | 16.0 |
 | Hyperkinesia | 10.2 | 2.5 |
 | Tremor | 8.1 | 3.6 |
 | Hypertonia | 7.4 | 0.7 |
