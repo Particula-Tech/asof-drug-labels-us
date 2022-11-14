@@ -1,6 +1,6 @@
 # Patient Information
 
-Guanfacine Extended-Release Tablets
+Guanfacine Extended-Release Tablets, USP
 
 (gwahn-fa-seen)
 
@@ -161,7 +161,7 @@ All registered trademarks in this document are the property of their respective 
 
 APOTEX INC.
 
-Guanfacine Extended-Release Tablets
+Guanfacine Extended-Release Tablets, USP
 
 1 mg, 2 mg, 3 mg and 4 mg
 
@@ -171,7 +171,7 @@ Guanfacine Extended-Release Tablets
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: November 2021
+Revised: November 2022
 
 Rev.
-12
+13

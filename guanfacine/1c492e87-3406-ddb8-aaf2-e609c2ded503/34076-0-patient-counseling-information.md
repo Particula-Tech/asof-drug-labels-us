@@ -37,15 +37,10 @@ Dispense with Patient Information available at www1.apotex.com/products/us
 
 APOTEX INC.
 
-Guanfacine Extended-Release Tablets
+Guanfacine Extended-Release Tablets, USP
 
 1 mg, 2 mg, 3 mg and 4 mg
 
 | Manufactured By: | Manufactured For: |
 | --- | --- |
 | Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Apotex Corp. Weston, Florida USA 33326 |
-
-Revised: November 2021
-
-Rev.
-12
