@@ -14,8 +14,6 @@ WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
 
-(For institutional use only)
-
 SANDOZ A Novartis Division
 
 # PRINCIPAL DISPLAY PANEL
@@ -34,8 +32,6 @@ WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
 
-(For institutional use only)
-
 SANDOZ A Novartis Division
 
 # Package/Label Display Panel
@@ -53,8 +49,6 @@ Rx only
 WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
-
-(For institutional use only)
 
 SANDOZA Novartis Division
 
@@ -94,8 +88,6 @@ Rx only
 WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
-
-(For institutional use only)
 
 SANDOZ A Novartis Division
 
