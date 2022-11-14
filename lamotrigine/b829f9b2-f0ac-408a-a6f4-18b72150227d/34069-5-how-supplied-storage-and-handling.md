@@ -38,6 +38,7 @@ Other side scored and engraved with "LMT" above the score and "150" below the sc
 | --- | --- |
 | Bottles of 60 | NDC 51672-4132-4 |
 | Bottles of 100 | NDC 51672-4132-1 |
+| Bottles of 500 | NDC 51672-4132-2 |
 | Bottles of 1000 | NDC 51672-4132-3 |
 | Unit dose packages of 100 | NDC 51672-4132-0 |
 
@@ -51,6 +52,7 @@ Other side scored and engraved with "LMT" above the score and "200" below the sc
 | --- | --- |
 | Bottles of 60 | NDC 51672-4133-4 |
 | Bottles of 100 | NDC 51672-4133-1 |
+| Bottles of 500 | NDC 51672-4133-2 |
 | Bottles of 1000 | NDC 51672-4133-3 |
 | Unit dose packages of 100 | NDC 51672-4133-0 |
 
