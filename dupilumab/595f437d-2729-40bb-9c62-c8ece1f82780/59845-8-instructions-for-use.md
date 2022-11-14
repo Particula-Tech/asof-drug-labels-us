@@ -2,8 +2,6 @@
 
 Read this Instructions for Use before using the DUPIXENT Pre-filled Syringe.
 Do not inject yourself or someone else until you have been shown how to inject DUPIXENT.
-In adolescents 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.
-In children younger than 12 years of age, DUPIXENT should be given by a caregiver.
 Your healthcare provider can show you or your caregiver how to prepare and inject a dose of DUPIXENT before you try to do it yourself the first time.
 Keep these instructions for future use.
 Call your healthcare provider if you have any questions.
@@ -15,7 +13,7 @@ The parts of the DUPIXENT Syringe are shown below:
 
 | Important Information |  |
 | --- | --- |
-| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
+| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.In children 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult. In children 6 months to less than 12 years of age, DUPIXENT should be given by a caregiver. Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
 | How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36°F to 46°F (2°C to 8°C). Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
 
 Step 1: Remove
@@ -155,17 +153,15 @@ Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. Licens
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2020 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Revised: May 2020
+Revised: November 2022
 
 # INSTRUCTIONS FOR USE DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
 
 Read this Instructions for Use before using the DUPIXENT Pre-filled Syringe.
 Do not inject yourself or someone else until you have been shown how to inject DUPIXENT.
-In adolescents 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.
-In children younger than 12 years of age, DUPIXENT should be given by a caregiver.
 Your healthcare provider can show you or your caregiver how to prepare and inject a dose of DUPIXENT before you try to do it yourself the first time.
 Keep these instructions for future use.
 Call your healthcare provider if you have any questions.
@@ -177,7 +173,7 @@ The parts of the DUPIXENT Syringe are shown below:
 
 | Important Information |  |
 | --- | --- |
-| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
+| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.In children 12 years of age and older, it is recommended that DUPIXENT be administered by or under supervision of an adult.In children 6 months to less than 12 years of age, DUPIXENT should be given by a caregiver.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given your injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
 | How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36°F to 46°F (2°C to 8°C). Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
 
 Step 1: Remove
@@ -317,10 +313,10 @@ Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. Licens
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2020 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Revised: May 2020
+Revised: November 2022
 
 Instructions for Use DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Pen (300 mg/2 mL)
 
@@ -376,7 +372,6 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 
 | C2. Pinch Skin and Place |  |  |
 | --- | --- | --- |
-| Children 2 years to less than 12 years old: |  |  |
 | Pinch the skin before and during the injection. Hold the DUPIXENT Pre-filled Pen as shown so that you can see the Window. Place the Yellow Needle Cover on the skin.Place the Yellow Needle Cover on the skin at approximately a 90-degree angle.Pinching is not needed for adults and children aged 12 years and older. |  |  |
 | C3. Press down ➜ Watch Window turn fully yellow ➜ Then count to 5 |  |  |
 | Press and hold the DUPIXENT Pre-filled Pen firmly against the skin until you cannot see the Yellow Needle Cover. There will be a "click" when the injection starts, andThe Window will start to turn yellow.Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and watch the window: The Window will turn completely yellow, andYou will hear a 2nd "click".Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and count to 5 to make sure you get your full dose. |
@@ -391,7 +386,7 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | How to Dispose of (throw away) DUPIXENT Pre-filled Pen: Put the used DUPIXENT Pre-filled Pens and Green Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Green Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. |  |
 | REGENERON sanofi |  |
 | Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: October 2022 |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: November 2022 |
 
 # Instructions for Use
 
@@ -449,7 +444,6 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 
 | C2. Pinch Skin and Place |  |  |
 | --- | --- | --- |
-| Children 2 years to less than 12 years old: |  |  |
 | Pinch the skin before and during the injection. Hold the DUPIXENT Pre-filled Pen as shown so that you can see the Window. Place the Orange Needle Cover on the skin.Place the Orange Needle Cover on the skin at approximately a 90-degree angle.Pinching is not needed for adults and children aged 12 years and older. |  |  |
 | C3. Press down ➜ Watch Window turn fully yellow ➜ Then count to 5 |  |  |
 | Press and hold the DUPIXENT Pre-filled Pen firmly against the skin until you cannot see the Orange Needle Cover. There will be a "click" when the injection starts, andThe Window will start to turn yellow.Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and watch the window: The Window will turn completely yellow, andYou will hear a 2nd "click".Keep pressing the DUPIXENT Pre-filled Pen against the skin. | Keep pressing the DUPIXENT Pre-filled Pen against the skin and count to 5 to make sure you get your full dose. |
@@ -464,13 +458,12 @@ The parts of the DUPIXENT Pre-filled Pen are shown below:
 | How to Dispose of (throw away) DUPIXENT Pre-filled Pen: Put the used DUPIXENT Pre-filled Pens and Yellow Caps in a FDA-cleared sharps disposal container right away after use. Do not dispose of (throw away) DUPIXENT Pre-filled Pens and Yellow Caps in your household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tightfitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used DUPIXENT Pre-filled Pens. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. Keep your sharps disposal container out of the reach of children. |  |
 | REGENERON sanofi |  |
 | Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology © 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC. All rights reserved. |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: October 2022 |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. | Revised: November 2022 |
 
 # INSTRUCTIONS FOR USE DUPIXENT® (DU-pix-ent) (dupilumab) injection, for subcutaneous use Single-Dose Pre-filled Syringe with Needle Shield
 
 Read this Instructions for Use before using the DUPIXENT Pre-filled Syringe.
 Do not inject the child until you have been shown how to inject DUPIXENT.
-In children younger than 12 years of age, DUPIXENT should be given by a caregiver.
 Your healthcare provider can show you how to prepare and inject a dose of DUPIXENT before you try to do it yourself the first time.
 Keep these instructions for future use.
 Call your healthcare provider if you have any questions.
@@ -482,7 +475,7 @@ The parts of the DUPIXENT Syringe are shown below:
 
 | Important Information |  |
 | --- | --- |
-| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given the injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
+| Read all of the instructions carefully before using the DUPIXENT Syringe.Ask your healthcare provider how often you will need to inject the medicine.In children 6 months to less than 12 years of age, DUPIXENT should be given by a caregiver.Rotate the injection site each time you inject.Do not use the DUPIXENT Syringe if it has been dropped on a hard surface or damaged.Do not use the DUPIXENT Syringe if the Needle Cap is missing or not securely attached.Do not touch the Plunger Rod until you are ready to inject.Do not inject through clothes.Do not get rid of any air bubble in the DUPIXENT Syringe. | To reduce the risk of accidental needle sticks, each pre-filled syringe has a Needle Shield that is automatically activated to cover the needle after you have given the injection.Do not pull back on the Plunger Rod at any time.Do not remove the Needle Cap until just before you give the injection.Throw away (dispose of) the used DUPIXENT Single-Dose Pre-filled Syringe right away after use. See "Step 13: Dispose" below.Do not re-use a DUPIXENT Single-Dose Pre-filled Syringe. |
 | How should I store DUPIXENT? Keep DUPIXENT Syringes and all medicines out of the reach of children.Store DUPIXENT Syringes in the refrigerator between 36°F to 46°F (2°C to 8°C). Store DUPIXENT Syringes in the original carton to protect them from light.DUPIXENT Syringes can be stored at room temperature up to 77°F (25°C) up to 14 days. Throw away (dispose of) any DUPIXENT Syringes that have been left at room temperature for longer than 14 days.Do not shake the DUPIXENT Syringe.Do not heat the DUPIXENT Syringe.Do not freeze the DUPIXENT Syringe.Do not put the DUPIXENT Syringe into direct sunlight. |  |
 
 Step 1: Remove
@@ -621,7 +614,7 @@ Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. Licens
 
 Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591) DUPIXENT® is a registered trademark of Sanofi Biotechnology
 
-© 2021 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
+© 2022 Regeneron Pharmaceuticals, Inc. / sanofi-aventis U.S. LLC.
 All rights reserved.
 
-Issued: October 2021
+Issued: November 2022
