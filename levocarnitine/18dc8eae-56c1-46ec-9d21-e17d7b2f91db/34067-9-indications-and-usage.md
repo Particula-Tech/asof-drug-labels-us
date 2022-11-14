@@ -6,4 +6,4 @@ Associated symptoms included hypotonia, muscle weakness and failure to thrive.
 A diagnosis of primary carnitine deficiency requires that serum, red cell and/or tissue carnitine levels be low and that the patient does not have a primary defect in fatty acid or organic acid oxidation (see Clinical Pharmacology).
 In some patients, particularly those presenting with cardiomyopathy, carnitine supplementation rapidly alleviated signs and symptoms.
 Treatment should include, in addition to carnitine, supportive and other therapy as indicated by the condition of the patient.
-Levocarnitine oral solution, USP is also indicated for acute and chronic treatment of patients with an inborn error of metabolism which results in a secondary carnitine deficiency.
+Levocarnitine is also indicated for acute and chronic treatment of patients with an inborn error of metabolism which results in a secondary carnitine deficiency.

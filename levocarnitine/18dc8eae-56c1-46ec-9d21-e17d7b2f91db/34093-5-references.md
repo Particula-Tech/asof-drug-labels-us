@@ -47,6 +47,8 @@
     Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
     Metabolism 40:1305-1310.
 
+All trademarks are the property of their respective owners.
+
 Manufactured by:
 
 Novitium Pharma LLC,
@@ -55,6 +57,6 @@ Novitium Pharma LLC,
 
 East Windsor, New Jersey-08520
 
-Revised: 06/19
+Issued: 02/2022
 
-LB4104-01
+LB4406-00
