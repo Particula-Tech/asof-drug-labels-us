@@ -5,10 +5,9 @@ A prospective study of 51 pediatric patients at a poison-control center suggeste
 
 Interstitial nephritis resulting in oliguric renal failure has been reported in patients after overdosage with amoxicillin/clavulanate potassium.
 
-Crystalluria, in some cases leading to renal failure, has also been reported after amoxicillin/clavulanate potassium overdosage in adult and pediatric patients.
+Crystalluria, in some cases leading to renal failure, has also been reported after amoxicillin and clavulanate potassium overdosage in adult and pediatric patients.
 In case of overdosage, adequate fluid intake and diuresis should be maintained to reduce the risk of amoxicillin/clavulanate potassium crystalluria.
 
 Renal impairment appears to be reversible with cessation of drug administration.
-High blood levels may occur more readily in patients with impaired renal function because of decreased renal clearance of amoxicillin/clavulanate potassium.
-Amoxicillin/clavulanate potassium may be removed from circulation by hemodialysis.
-[see Dosage and Administration (2.3)]
+High blood levels may occur more readily in patients with impaired renal function because of decreased renal clearance of amoxicillin and clavulanate potassium.
+Amoxicillin and clavulanate potassium may be removed from circulation by hemodialysis [see Dosage and Administration (2.4)].

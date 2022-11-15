@@ -1,3 +1,7 @@
-PRINCIPAL DISPLAY PANEL NDC 0143-9981-01 Amoxicillin and Clavulanate Potassium for Oral Suspension, USP *200 MG/28.5 MG Per 5ML
+# PRINCIPAL DISPLAY PANEL
 
-PRINCIPAL DISPLAY PANEL NDC 0143-9982-01 Amoxicillin and Clavulanate Potassium for Oral Suspension, USP *400 MG/57 MG Per 5ML
+NDC 0143-9981-01 Amoxicillin and Clavulanate Potassium for Oral Suspension, USP *200 mg/28.5 mg per 5 mL 100 mL (when reconstituted) Rx Only
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0143-9982-01 Amoxicillin and Clavulanate Potassium for Oral Suspension, USP *400 mg/57 mg per 5 mL 100 mL (when reconstituted) Rx Only

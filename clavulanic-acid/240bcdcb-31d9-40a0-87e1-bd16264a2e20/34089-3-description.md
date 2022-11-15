@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Amoxicillin and Clavulanate Potassium Powder for Oral Suspension, USP is an oral antibacterial combination consisting of amoxicillin and the beta-lactamase inhibitor, clavulanate potassium (the potassium salt of clavulanic acid).
+Amoxicillin and Clavulanate Potassium for Oral Suspension, USP is an oral antibacterial combination consisting of amoxicillin and the beta-lactamase inhibitor, clavulanate potassium (the potassium salt of clavulanic acid).
 
 Amoxicillin is an analog of ampicillin, derived from the basic penicillin nucleus, 6-aminopenicillanic acid.
 The amoxicillin molecular formula is C16H19N3O5S•3H2O, and the molecular weight is 419.46.
@@ -11,11 +11,7 @@ It is a beta-lactam structurally related to the penicillins and possesses the ab
 The clavulanate potassium molecular formula is C8H8KNO5, and the molecular weight is 237.25.
 Chemically, clavulanate potassium is potassium (Z)(2R,5R)-3-(2-hydroxyethylidene)-7-oxo-4-oxa-1-azabicyclo[3.2.0]-heptane-2-carboxylate and may be represented structurally as:
 
-Inactive Ingredients:
-
-Aspartame, colloidal silicon dioxide, HPMC 2910/ hypromellose 5 cP, silicon dioxide, succinic acid, xanthan gum, golden syrup flavor, orange flavor.
-
-• See PRECAUTIONS - Information for the Patient.
+Inactive Ingredients: Aspartame, colloidal silicon dioxide, HPMC 2910/ hypromellose 5 cP, silicon dioxide, succinic acid, xanthan gum, golden syrup flavor, orange flavor.
 
 Each 5 mL of reconstituted amoxicillin and clavulanate potassium 400 mg/57 mg per 5 mL suspension contains 0.268 mEq of potassium.
 
