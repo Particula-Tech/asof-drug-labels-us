@@ -1,36 +1,30 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Isoproterenol hydrochloride injection, USP 0.2 mg/mL – 0.2 mg/mL in 1 mL and 1 mg/5 mL (0.2 mg/mL) in 5 mL fill are clear, colorless to slightly yellow colour solution.
-Free from any visible particles.
+Isoproterenol Hydrochloride Injection, USP is a sterile, clear, colorless to slightly yellow color solution.
+Each mL contains 0.2 mg of isoproterenol hydrochloride, USP.
 
-1 mL in 1mL
+0.2 mg/mL (1 mL):
 
-5 x1 mL (ampoule in a single inner carton) - NDC 42571-294-78
+5 x1 mL single-dose ampuls in single inner carton: NDC 42571-294-78
 
-25 x 1 mL (5 inner carton of 5 x 1 mL carton) - NDC 42571-294-79
+25 x 1 mL (5 inner cartons of 5 x 1 mL carton): NDC 42571-294-79
 
-5 mL in 5 mL
+1 mg/5 mL (0.2 mg/mL) (5 mL):
 
-(10 x 5 mL ampoule in a single carton) - NDC 42571-330-80
+10 x 5 mL single-dose ampuls in a carton: NDC 42571-330-80
 
 Protect from light.
 Keep in opaque container until used.
 
-Store at 20º to 25ºC (68º to 77ºF).
-[See USP Controlled Room Temperature.]
+Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature.]
 
 Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
 
-Manufactured by:
+Discard unused portion.
 
-Micro Labs Limited
+Manufactured by: Micro Labs Limited Bangalore-560 099, INDIA.
 
-Bangalore – 560099, INDIA.
+Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873
 
-Manufactured for:
-
-Micro Labs USA Inc.
-
-Basking Ridge, NJ 07920
-
-Revised: September 2019
+Rev.
+11/2022
