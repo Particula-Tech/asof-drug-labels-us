@@ -85,7 +85,7 @@ Table 6: Outcome Events in the CAPRIE Primary Analysis
 | Total | 939 (9.8%) | 1020 (10.6%) |
 
 As shown in Table 6, clopidogrel bisulfate was associated with a lower incidence of outcome events, primarily MI.
-The overall relative risk reduction (9.8% vs. 10.6%) was 8.7%, p=0.045.
+The overall relative risk reduction (9.8% vs 10.6%) was 8.7%, p=0.045.
 Similar results were obtained when all-cause mortality and all-cause strokes were counted instead of vascular mortality and ischemic strokes (risk reduction 6.9%).
 In patients who survived an on-study stroke or myocardial infarction, the incidence of subsequent events was lower in the clopidogrel bisulfate group.
 The curves showing the overall event rate are shown in Figure 7.

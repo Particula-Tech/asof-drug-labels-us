@@ -14,3 +14,9 @@ Proton Pump Inhibitors Advise patients not to take omeprazole or esomeprazole wh
 Dexlansoprazole, lansoprazole, and pantoprazole had less pronounced effects on the antiplatelet activity of clopidogrel bisulfate than did omeprazole or esomeprazole [see Drug Interactions (7.2)].
 
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
+
+Revised: 10/2022
