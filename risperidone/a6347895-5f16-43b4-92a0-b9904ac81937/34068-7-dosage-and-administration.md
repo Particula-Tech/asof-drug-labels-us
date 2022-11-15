@@ -9,7 +9,7 @@ Recommended Daily Dosage by Indication
 | Schizophrenia: adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 3 mg | 1 to 6 mg |
 | Bipolar mania: adults (2.2) | 2 to 3 mg | 1 mg | 1 to 6 mg | 1 to 6 mg |
 | Bipolar mania: children and adolescents (2.2) | 0.5 mg | 0.5 to 1 mg | 1 to 2.5 mg | 1 to 6 mg |
-| Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of > 2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
+| Irritability in autistic disorder (2.3) | 0.25 mg Can increase to 0.5 mg by Day 4: (body weight less than 20 kg) 0.5 mg Can increase to 1 mg by Day 4: (body weight greater than or equal to 20 kg) | After Day 4, at intervals of >2 weeks: 0.25 mg (body weight less than 20 kg) 0.5 mg (body weight greater than or equal to 20 kg) | 0.5 mg: (body weight less than 20 kg) 1 mg: (body weight greater than or equal to 20 kg) | 0.5 to 3 mg |
 
 Severe Renal and Hepatic Impairment in Adults: use a lower starting dose of 0.5 mg twice daily.
 May increase to dosages above 1.5 mg twice daily at intervals of one week or longer.
@@ -99,7 +99,7 @@ Patients experiencing persistent somnolence may benefit from a once-daily dose a
 
 ## 2.4 Dosing in Patients with Severe Renal or Hepatic Impairment
 
-For patients with severe renal impairment (CLcr < 30 mL/min) or hepatic impairment (10 to 15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
+For patients with severe renal impairment (CLcr <30 mL/min) or hepatic impairment (10 to 15 points on Child Pugh System), the initial starting dose is 0.5 mg twice daily.
 The dose may be increased in increments of 0.5 mg or less, administered twice daily.
 For doses above 1.5 mg twice daily, increase in intervals of one week or greater [see Use in Specific Populations (8.6 and 8.7)].
 

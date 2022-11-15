@@ -12,9 +12,9 @@
 
 4 mg: label
 
-0.25 mg (Dahej)
-
 0.5 mg (Dahej)
+
+0.25 mg (Dahej)
 
 1 mg (Dahej)
 

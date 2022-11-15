@@ -19,7 +19,7 @@ Risperidone is not approved for the treatment of dementia-related psychosis [see
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
 Risperidone is not approved for the treatment of patients with dementia-related psychosis.
-[see Boxed WarningandWarnings and Precautions (5.1)]
+[see Boxed Warningand Warnings and Precautions (5.1)]
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -39,26 +39,16 @@ Whether antipsychotic drug products differ in their potential to cause tardive d
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible increase with the duration of treatment and the cumulative dose.
 The syndrome can develop after relatively brief treatment periods, even at low doses.
 It may also occur after discontinuation of treatment.
+
 Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is discontinued.
 Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, possibly masking the underlying process.
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
+
 Given these considerations, risperidone should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
 Periodically reassess the need for continued treatment.
-Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
-Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
-Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible increase with the duration of treatment and the cumulative dose.
-The syndrome can develop after relatively brief treatment periods, even at low doses.
-It may also occur after discontinuation of treatment.
-Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is discontinued.
-Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome, possibly masking the underlying process.
-The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
-Given these considerations, risperidone should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
-Periodically reassess the need for continued treatment.
+
 If signs and symptoms of tardive dyskinesia appear in a patient on risperidone, drug discontinuation should be considered.
 However, some patients may require treatment with risperidone despite the presence of the syndrome.
 
@@ -141,7 +131,7 @@ Change in Random Lipids from Seven Placebo-Controlled, 3-to 8-Week, Fixed- or Fl
 | Triglycerides | 1.1% | 2.7% | 2.5% |
 | (<500 mg/dL to ≥500 mg/dL) | (2/180) | (8/301) | (3/121) |
 
-In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
+In longer-term, controlled and uncontrolled studies, risperidonewas associated with a mean change in (a) non-fasting cholesterol of +4.4 mg/dL at Week 24 (n=231) and +5.5 mg/dL at Week 48 (n=86); and (b) non-fasting triglycerides of +19.9 mg/dL at Week 24 (n=52).
 
 Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 5.
 
@@ -161,16 +151,16 @@ Change in Fasting Lipids From Three Placebo-Controlled, 3- to 6-Week, Fixed- Dos
 | Triglycerides | n=77 | n=138 |
 | Change from baseline | -9.0 | -2.6 |
 |  | Proportion of patients with shifts |  |
-| Cholesterol | 2.4 % | 3.8 % |
+| Cholesterol | 2.4% | 3.8% |
 | (<170 mg/dL to ≥200 mg/dL) | (1/42) | (3/80) |
-| LDL | 0 % | 0 % |
+| LDL | 0% | 0% |
 | (<110 mg/dL to ≥130 mg/dL) | (0/16) | (0/16) |
-| HDL | 0 % | 10 % |
+| HDL | 0% | 10% |
 | (≥40 mg/dL to <40 mg/dL) | (0/19) | (2/20) |
-| Triglycerides | 1.5 % | 7.1 % |
+| Triglycerides | 1.5% | 7.1% |
 | (<150 mg/dL to ≥200 mg/dL) | (1/65) | (8/113) |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
+In longer-term, uncontrolled, open-label extension pediatric studies, risperidonewas associated with a mean change in (a) fasting cholesterol of +2.1 mg/dL at Week 24 (n=114); (b) fasting LDL of -0.2 mg/dL at Week 24 (n=103); (c) fasting HDL of +0.4 mg/dL at Week 24 (n=103); and (d) fasting triglycerides of +6.8 mg/dL at Week 24 (n=120).
 
 Weight Gain
 
@@ -188,7 +178,7 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain i
 | Weight (kg) |  |  |  |
 | Change from baseline | -0.3 | 0.7 | 2.2 |
 | Weight Gain |  |  |  |
-| ≥ 7% increase from baseline | 2.9% | 8.7% | 20.9% |
+| ≥7% increase from baseline | 2.9% | 8.7% | 20.9% |
 
 In longer-term, controlled and uncontrolled studies, risperidone was associated with a mean change in weight of +4.3 kg at Week 24 (n=395) and +5.3 kg at Week 48 (n=203).
 
@@ -202,9 +192,9 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects With ≥7% Gain i
 | Weight (kg) |  |  |
 | Change from baseline | 0.6 | 2.0 |
 | Weight Gain |  |  |
-| ≥ 7% increase from baseline | 6.9 % | 32.6 % |
+| ≥7% increase from baseline | 6.9% | 32.6% |
 
-In longer-term, uncontrolled, open-label extension pediatric studies, risperidone was associated with a mean change in weight of +5.5 kg at Week 24 (n=748) and +8.0 kg at Week 48 (n=242).
+In longer-term, uncontrolled, open-label extension pediatric studies, risperidonewas associated with a mean change in weight of +5.5 kg at Week 24 (n=748) and +8.0 kg at Week 48 (n=242).
 
 In a long-term, open-label extension study in adolescent patients with schizophrenia, weight increase was reported as a treatment-emergent adverse event in 14% of patients.
 In 103 adolescent patients with schizophrenia, a mean increase of 9.0 kg was observed after 8 months of risperidone treatment.
@@ -219,20 +209,6 @@ In one 3-week, placebo-controlled trial in children and adolescent patients with
 A similar trend was observed in the mean change from baseline in body mass index.
 
 When treating pediatric patients with risperidone for any indication, weight gain should be assessed against that expected with normal growth.
-
-Summary of Heart Protection Study Results
-
-| Endpoint | Simvastatin Tablets (N=10,269) n (%) number of patients with indicated event. | Placebo (N=10,267) n (%) | Risk Reduction (%) (95% CI) | p-Value |
-| --- | --- | --- | --- | --- |
-| Primary |  |  |  |  |
-| Mortality | 1,328 (12.9) | 1,507 (14.7) | 13 (6 to 19) | p=0.0003 |
-| CHD mortality | 587 (5.7) | 707 (6.9) | 18 (8 to 26) | p=0.0005 |
-| Secondary |  |  |  |  |
-| Non-fatal MI | 357 (3.5) | 574 (5.6) | 38 (30 to 46) | p<0.0001 |
-| Stroke | 444 (4.3) | 585 (5.7) | 25 (15 to 34) | p<0.0001 |
-| Tertiary |  |  |  |  |
-| Coronary revascularization | 513 (5) | 725 (7.1) | 30 (22 to 38) | p<0.0001 |
-| 1 volume of distribution/bioavailability. |  |  |  |  |
 
 ## 5.6 Hyperprolactinemia
 
@@ -252,7 +228,7 @@ Neither clinical studies nor epidemiologic studies conducted to date have shown 
 
 Risperidone may induce orthostatic hypotension associated with dizziness, tachycardia, and in some patients, syncope, especially during the initial dose-titration period, probably reflecting its alpha-adrenergic antagonistic properties.
 Syncope was reported in 0.2% (6/2,607) of risperidone-treated patients in Phase 2 and 3 studies in adults with schizophrenia.
-The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [seeDosageandAdministration(2.1, 2.4)].
+The risk of orthostatic hypotension and syncope may be minimized by limiting the initial dose to 2 mg total (either once daily or 1 mg twice daily) in normal adults and 0.5 mg twice daily in the elderly and patients with renal or hepatic impairment [see Dosage and Administration (2.1, 2.4)].
 
 Monitoring of orthostatic vital signs should be considered in patients for whom this is of concern.
 A dose reduction should be considered if hypotension occurs.
@@ -267,7 +243,7 @@ For patients, particularly the elderly, with diseases, conditions, or medication
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
-ClassEffect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
+Class Effect: In clinical trial and/or postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents, including risperidone.
 Agranulocytosis has also been reported.
 
 Possible risk factors for leukopenia/neutropenia include pre-existing low white blood cell count (WBC) and history of drug-induced leukopenia/neutropenia.

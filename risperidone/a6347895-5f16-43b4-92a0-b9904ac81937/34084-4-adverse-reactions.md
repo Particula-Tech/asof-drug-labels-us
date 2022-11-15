@@ -19,7 +19,7 @@ The following are discussed in more detail in other sections of the labeling:
 
 The most common adverse reactions in clinical trials (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
-The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions,Discontinuations Due to Adverse Reactions (6.1)].
+The most common adverse reactions that were associated with discontinuation from clinical trials (causing discontinuation in >1% of adults and/or >2% of pediatrics) were nausea, somnolence, sedation, vomiting, dizziness, and akathisia [see Adverse Reactions, Discontinuations Due to Adverse Reactions (6.1)].
 
 The data described in this section are derived from a clinical trial database consisting of 9,803 adult and pediatric patients exposed to one or more doses of risperidone for the treatment of schizophrenia, bipolar mania, autistic disorder, and other psychiatric disorders in pediatrics and elderly patients with dementia.
 Of these 9,803 patients, 2,687 were patients who received risperidone while participating in double-blind, placebo-controlled trials.
@@ -261,6 +261,8 @@ Adverse Reactions in ≥5% of Risperidone -Treated Pediatric Patients (and great
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 8 | 5 |
 
+*Parkinsonism includes musculoskeletal stiffness, extrapyramidal disorder, muscle rigidity, cogwheel rigidity, and muscle tightness.
+
 Other Adverse Reactions Observed During the Clinical Trial Evaluation of Risperidone
 
 The following additional adverse reactions occurred across all placebo-controlled, active-controlled, and open-label studies of risperidone in adults and pediatric patients.
@@ -342,7 +344,7 @@ The adverse reactions associated with discontinuation in risperidone-treated pat
 Table 15.
 Adverse Reactions Associated With Discontinuation in 2 or More Risperidone - Treated Adult Patients in Bipolar Mania Clinical Trials
 
-| Risperidon |  |  |
+| Risperidone |  |  |
 | --- | --- | --- |
 |  | 1 to 6 mg/day | Placebo |
 | Adverse Reaction | (N=448) | (N=424) |
@@ -410,7 +412,7 @@ In pooled placebo-controlled acute mania trials in adults, there were small decr
 In the two placebo-controlled trials in children and adolescents with autistic disorder (aged 5 to 16 years) mean changes in heart rate were an increase of 8.4 beats per minute in the risperidone groups and 6.5 beats per minute in the placebo group.
 There were no other notable ECG changes.
 
-In a placebo-controlled acute mania trial in children and adolescents (aged 10 to 17 years), there were no significant changes in ECG parameters, other than the effect of risperidone to transiently increase pulse rate (< 6 beats per minute).
+In a placebo-controlled acute mania trial in children and adolescents (aged 10 to 17 years), there were no significant changes in ECG parameters, other than the effect of risperidone to transiently increase pulse rate (<6 beats per minute).
 In two controlled schizophrenia trials in adolescents (aged 13 to 17 years), there were no clinically meaningful changes in ECG parameters including corrected QT intervals between treatment groups or within treatment groups over time.
 
 ## 6.2 Postmarketing Experience
