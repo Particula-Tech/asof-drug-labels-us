@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214253"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "24201-002-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "levothyroxine sodium",
+      "name": "Levothyroxine Sodium"
+    }
+  ],
+  "setid": "6279390b-ee61-4ef9-ac15-25537ca783c1",
+  "source": "dailymed"
+}
