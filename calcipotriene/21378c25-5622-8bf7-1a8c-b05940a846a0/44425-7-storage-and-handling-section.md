@@ -6,5 +6,5 @@ Do not freeze.
 
 Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0318CP1 Iss.
-11/2019
+8-0318CPLNC1 VC7535 Iss.
+02/2021
