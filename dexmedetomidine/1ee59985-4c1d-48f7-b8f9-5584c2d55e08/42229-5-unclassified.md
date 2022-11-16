@@ -1,7 +1,7 @@
 Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
 
-R08/2020
+R09/2022
 
-OS146J-01-90-05
+OS146J-01-90-07
 
-3003319F
+3003391H

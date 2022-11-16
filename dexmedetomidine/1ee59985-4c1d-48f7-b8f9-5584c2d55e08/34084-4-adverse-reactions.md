@@ -57,7 +57,7 @@ Table 2: Adverse Reactions with an Incidence >2%-Adult Intensive Care Unit Sedat
 Adverse reaction information was also derived from the placebo-controlled, continuous infusion trials of dexmedetomidine for sedation in the surgical intensive care unit setting in which 387 adult patients received dexmedetomidine for less than 24 hours.
 The most frequently observed treatment-emergent adverse events included hypotension, hypertension, nausea, bradycardia, fever, vomiting, hypoxia, tachycardia and anemia (see Table 3).
 
-Table 3: Treatment-Emergent Adverse Events Occurring in >1% Of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
+Table 3: Treatment-Emergent Adverse Events Occurring in >1% of All Dexmedetomidine-Treated Adult Patients in the Randomized Placebo-Controlled Continuous Infusion <24 Hours ICU Sedation Studies
 
 | Adverse Event | Randomized Dexmedetomidine(N = 387) | Placebo(N = 379) |
 | --- | --- | --- |
@@ -113,15 +113,15 @@ Table 4: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 | Generalized Edema | 2% | 6% |
 | Hypomagnesemia | 1% | 7% |
 
-† Includes any type of hypertension
+† Includes any type of hypertension.
 
-1 Hypotension was defined in absolute terms as Systolic blood pressure of <80 mmHg or Diastolic blood pressure of <50 mmHg or in relative terms as <30% lower than pre-study drug infusion value
+1 Hypotension was defined in absolute terms as Systolic blood pressure of <80 mmHg or Diastolic blood pressure of <50 mmHg or in relative terms as <30% lower than pre-study drug infusion value.
 
-2 Bradycardia was defined in absolute terms as <40 bpm or in relative terms as <30% lower than pre-study drug infusion value
+2 Bradycardia was defined in absolute terms as <40 bpm or in relative terms as <30% lower than pre-study drug infusion value.
 
-3 Hypertension was defined in absolute terms as Systolic blood pressure >180 mmHg or Diastolic blood pressure of >100 mmHg or in relative terms as >30% higher than pre-study drug infusion value
+3 Hypertension was defined in absolute terms as Systolic blood pressure >180 mmHg or Diastolic blood pressure of >100 mmHg or in relative terms as >30% higher than pre-study drug infusion value.
 
-4 Tachycardia was defined in absolute terms as >120 bpm or in relative terms as >30% greater than pre-study drug infusion value
+4 Tachycardia was defined in absolute terms as >120 bpm or in relative terms as >30% greater than pre-study drug infusion value.
 
 The following adverse events occurred between 2 and 5% for Dexmedetomidine and Midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
 
@@ -139,7 +139,7 @@ Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emerge
 | Respiratory Failure | 2% | 6% | 10% |
 | Acute Respiratory DistressSyndrome | 1% | 3% | 9% |
 
-*Average maintenance dose over the entire study drug administration
+*Average maintenance dose over the entire study drug administration.
 
 Procedural Sedation
 
@@ -152,7 +152,7 @@ The most frequent adverse reactions were hypotension, bradycardia, and dry mouth
 Pre-specified criteria for the vital signs to be reported as adverse reactions are footnoted below the table.
 The decrease in respiratory rate and hypoxia was similar between dexmedetomidine and comparator groups in both studies.
 
-Table 6: Adverse Reactions With an Incidence > 2%—Procedural Sedation Population
+Table 6: Adverse Reactions with an Incidence > 2%—Procedural Sedation Population
 
 | Adverse Event | Dexmedetomidine Hydrochloride (N = 318) (%) | Placebo (N = 113) (%) |
 | --- | --- | --- |
@@ -168,12 +168,12 @@ Table 6: Adverse Reactions With an Incidence > 2%—Procedural Sedation Populati
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of dexmedetomidine hydrochloride.
+The following adverse reactions have been identified during post-approval use of dexmedetomidine hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypotension and bradycardia were the most common adverse reactions associated with the use of dexmedetomidine hydrochloride during post approval use of the drug.
+Hypotension and bradycardia were the most common adverse reactions associated with the use of dexmedetomidine hydrochloride during post-approval use of the drug.
 
-Table 7: Adverse Reactions Experienced During Post-approval Use of Dexmedetomidine Hydrochloride
+Table 7: Adverse Reactions Experienced During Post-Approval Use of Dexmedetomidine Hydrochloride
 
 | System Organ Class | Preferred Term |
 | --- | --- |

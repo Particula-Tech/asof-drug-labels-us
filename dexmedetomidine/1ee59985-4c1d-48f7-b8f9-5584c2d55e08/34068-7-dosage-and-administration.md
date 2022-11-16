@@ -27,20 +27,21 @@ Table 1: Dosage Information
 
 Due to possible pharmacodynamic interactions, a reduction in dosage of dexmedetomidine hydrochloride injection or other concomitant anesthetics, sedatives, hypnotics or opioids may be required when co-administered [see Drug Interactions (7.1)].
 
-Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.7), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Dosage reductions may need to be considered for adult patients with hepatic impairment, and geriatric patients [see Warnings and Precautions (5.8), Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Preparation of Solution
 
 Strict aseptic technique must always be maintained during handling of dexmedetomidine hydrochloride injection.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Do not use if product is discolored or if precipitate matter is present.
 
-Dexmedetomidine Hydrochloride Injection, 200 mcg/2 mL (100 mcg/mL)
+Dexmedetomidine Injection, 200 mcg/2 mL (100 mcg/mL)
 
-Dexmedetomidine Hydrochloride Injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
+Dexmedetomidine Injection must be diluted with 0.9% sodium chloride injection to achieve required concentration (4 mcg/mL) prior to administration.
 Preparation of solutions is the same, whether for the loading dose or maintenance infusion.
 
-To prepare the infusion, withdraw 2 mL of dexmedetomidine hydrochloride injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
+To prepare the infusion, withdraw 2 mL of dexmedetomidine injection, and add to 48 mL of 0.9% sodium chloride injection to a total of 50 mL.
 Shake gently to mix well.
 
 Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection, 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)

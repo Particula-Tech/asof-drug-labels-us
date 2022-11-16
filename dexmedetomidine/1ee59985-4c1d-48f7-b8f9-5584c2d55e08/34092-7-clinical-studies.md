@@ -41,11 +41,11 @@ Table 10: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 | 0-4 mg | 34 (19%) | 36 (20%) |  |
 | >4 mg | 98 (56%) | 34 (19%) |  |
 
-ITT (intent-to-treat) population includes all randomized patients
+ITT (intent-to-treat) population includes all randomized patients.
 
-* ANOVA model with treatment center
+* ANOVA model with treatment center.
 
-** Chi-square
+** Chi-square.
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to patients in the dexmedetomidine hydrochloride and placebo groups.
 On average, dexmedetomidine-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
@@ -79,7 +79,8 @@ A prospective secondary analysis assessed the dose of morphine sulfate administe
 On average, dexmedetomidine -treated patients received less morphine sulfate for pain than placebo-treated patients (0.43 versus 0.89 mg/h).
 In addition, 41% (83 of 203 patients) of dexmedetomidine patients received no morphine sulfate for pain versus 15% (30 of 198 patients) in the placebo group.
 
-In a controlled clinical trial, dexmedetomidine was compared to midazolam for ICU sedation exceeding 24 hours duration. dexmedetomidine was not shown to be superior to midazolam for the primary efficacy endpoint, the percent of time patients were adequately sedated (81% versus 81%).
+In a controlled clinical trial, dexmedetomidine was compared to midazolam for ICU sedation exceeding 24 hours duration.
+Dexmedetomidine was not shown to be superior to midazolam for the primary efficacy endpoint, the percent of time patients were adequately sedated (81% versus 81%).
 In addition, administration of dexmedetomidine for longer than 24 hours was associated with tolerance, tachyphylaxis, and a dose-related increase in adverse events [see Adverse Reactions (6.1)].
 
 ## 14.2 Procedural Sedation
