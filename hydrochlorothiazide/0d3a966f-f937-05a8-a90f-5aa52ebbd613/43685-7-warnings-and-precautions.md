@@ -36,7 +36,7 @@ Hypotension and Related Effects: Excessive hypotension was rarely seen in uncomp
 
 Syncope has been reported in 0.8 percent of patients receiving ZESTORETIC.
 In patients with hypertension receiving lisinopril alone, the incidence of syncope was 0.1 percent.
-The overall incidence of syncope may be reduced by proper titration of the individual components (seePRECAUTIONS, Drug Interactions, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
+The overall incidence of syncope may be reduced by proper titration of the individual components (see PRECAUTIONS, Drug Interactions, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
 
 In patients with severe congestive heart failure, with or without associated renal insufficiency, excessive hypotension has been observed and may be associated with oliguria and/or progressive azotemia, and rarely with acute renal failure and/or death.
 Because of the potential fall in blood pressure in these patients, therapy should be started under very close medical supervision.
@@ -85,7 +85,7 @@ Associated with the decreased fetal weight was a delay in fetal ossification.
 The decreased fetal weight and delay in fetal ossification were not seen in saline-supplemented animals given 90/10 mg/kg/day.
 
 When used in pregnancy, during the second and third trimesters, ACE inhibitors can cause injury and even death to the developing fetus.
-When pregnancy is detected, discontinue ZESTORETIC as soon as possible (seeLisinopril, Fetal Toxicity).
+When pregnancy is detected, discontinue ZESTORETIC as soon as possible (see Lisinopril, Fetal Toxicity).
 
 ## Hydrochlorothiazide
 
@@ -219,7 +219,7 @@ It is not a disclosure of all possible adverse or intended effects.
 
 Hypotension - Patients on Diuretic Therapy: Patients on diuretics and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with lisinopril.
 The possibility of hypotensive effects with lisinopril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with lisinopril.
-If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS, andDOSAGE AND ADMINISTRATION).
+If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS, and DOSAGE AND ADMINISTRATION).
 When a diuretic is added to the therapy of a patient receiving lisinopril, an additional antihypertensive effect is usually observed (see DOSAGE AND ADMINISTRATION).
 
 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors): In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including lisinopril, may result in deterioration of renal function, including possible acute renal failure.

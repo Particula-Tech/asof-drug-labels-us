@@ -18,7 +18,7 @@ In patients who are currently being treated with a diuretic, symptomatic hypoten
 The diuretic should, if possible, be discontinued for two to three days before beginning therapy with lisinopril to reduce the likelihood of hypotension (see WARNINGS).
 If the patient's blood pressure is not controlled with lisinopril alone, diuretic therapy may be resumed.
 
-If the diuretic cannot be discontinued, an initial dose of 5 mg of lisinopril should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGSand PRECAUTIONS, Drug Interactions).
+If the diuretic cannot be discontinued, an initial dose of 5 mg of lisinopril should be used under medical supervision for at least two hours and until blood pressure has stabilized for at least an additional hour (see WARNINGS and PRECAUTIONS, Drug Interactions).
 
 Concomitant administration of ZESTORETIC with potassium supplements, potassium salt substitutes or potassium-sparing diuretics may lead to increases of serum potassium (see PRECAUTIONS).
 
