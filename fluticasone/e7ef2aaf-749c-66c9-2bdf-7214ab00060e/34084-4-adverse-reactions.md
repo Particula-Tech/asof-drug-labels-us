@@ -14,7 +14,7 @@ Each of these events occurred individually in less than 1% of patients.
 
 The following local adverse reactions have been identified during post-approval use of Fluticasone Propionate Ointment, 0.005%: acneiform dermatitis, edema, rash, hypoaesthesia, pustular psoriasis, skin atrophy.
 
-The following systemic adverse reactions have been identified during post-approval use of Fluticasone Propionate Cream and Fluticasone Propionate Ointment, 0.005%: immunosuppression/Pneumocystis jirovecii pneumonia/ leukopenia/thrombocytopenia; hyperglycemia/glycosuria; Cushing syndrome; generalized body edema/blurred vision; and acute urticarial reaction (edema, urticaria, pruritus, and throat swelling).
+The following systemic adverse reactions have been identified during post-approval use of Fluticasone Propionate Cream and Fluticasone Propionate Ointment, 0.005%: immunosuppression/ Pneumocystis jirovecii pneumonia/ leukopenia/thrombocytopenia; hyperglycemia/glycosuria; Cushing syndrome; generalized body edema/blurred vision; and acute urticarial reaction (edema, urticaria, pruritus, and throat swelling).
 
 The following local adverse reactions have also been reported with the use of topical corticosteroids: telangiectasia, striae, dryness, folliculitis, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, and miliaria.
 

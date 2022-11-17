@@ -2,7 +2,7 @@
 
 Fluticasone propionate ointment, 0.005% contains fluticasone propionate [S-Fluoromethyl 6α, 9α-difluoro-11β-hydroxy-16α-methyl-3-oxo-17α-propionyloxyandrosta-1,4-diene-17β-carbothioate], a synthetic fluorinated corticosteroid, for topical use.
 
-Chemically, fluticasone propionate is C25H31F3O5S.
+Chemically, fluticasone propionate is C 25H 31F 3O 5S.
 It has the following structural formula:
 
 Fluticasone propionate has a molecular weight of 500.6.

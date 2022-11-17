@@ -11,8 +11,8 @@ Advise the patient:
 
 Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0632CP2 Rev.
-09/2020
+8-0632CPLNC2 Rev.
+10/2022 VC7680
 
 PATIENT INFORMATION
 
@@ -72,7 +72,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Fluticasone Propionate Ointment, 0.005%?
 
-- Store Fluticasone Propionate Ointment, 0.005% between 36oF to 86oF (2oC to 30oC).
+- Store Fluticasone Propionate Ointment, 0.005% between 36 oF to 86 oF (2 oC to 30 oC).
 
 Keep Fluticasone Propionate Ointment, 0.005% and all medicines out of the reach of children.
 
@@ -87,10 +87,10 @@ Active ingredient: fluticasone propionate Inactive ingredients: base of mineral 
 
 Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0632CP2 Rev.
-09/2020
+8-0632CPLNC2 Rev.
+10/2022 VC7680
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 Rev.
-09/2020
+10/2022
