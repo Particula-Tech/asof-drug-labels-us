@@ -119,7 +119,7 @@ Chronic studies employing oral atenolol performed in animals have revealed the o
 
 ## Usage in Pregnancy
 
-### Pregnancy Category D
+Pregnancy Category D
 
 See WARNINGS - Pregnancy and Fetal Injury.
 

@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-## TENORMIN Tablets
+TENORMIN Tablets
 
 Tablets of 25 mg atenolol are round, flat, uncoated white tablets identified with "T" debossed on one side and 107 debossed on the other side, supplied in bottles of 90 tablets (NDC 52427-429-90).
 
@@ -10,9 +10,3 @@ Tablets of 100 mg atenolol are round, flat, uncoated white tablets identified wi
 
 Store at controlled room temperature, 20°C to 25°C (68°F to 77°F) [see USP].
 Dispense in well-closed, light-resistant containers.
-
-TENORMIN is a trademark of Alvogen AZ IP Holdings LLC.
-
-Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
-
-PI429-05 Revised: 01/2021

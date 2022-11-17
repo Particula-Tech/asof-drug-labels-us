@@ -80,7 +80,7 @@ In the subsequent International Study of Infarct Survival (ISIS-1) including ove
 During postmarketing experience with TENORMIN, the following have been reported in temporal relationship to the use of the drug: elevated liver enzymes and/or bilirubin, hallucinations, headache, impotence, Peyronie's disease, postural hypotension which may be associated with syncope, psoriasiform rash or exacerbation of psoriasis, psychoses, purpura, reversible alopecia, thrombocytopenia, visual disturbance, sick sinus syndrome, and dry mouth.
 TENORMIN, like other beta-blockers, has been associated with the development of antinuclear antibodies (ANA), lupus syndrome, and Raynaud’s phenomenon.
 
-# POTENTIAL ADVERSE EFFECTS
+## POTENTIAL ADVERSE EFFECTS
 
 In addition, a variety of adverse effects have been reported with other beta-adrenergic blocking agents, and may be considered potential adverse effects of TENORMIN.
 
@@ -103,4 +103,4 @@ Patients should be closely monitored following cessation of therapy.
 The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with TENORMIN.
 Furthermore, a number of patients who had previously demonstrated established practolol reactions were transferred to TENORMIN therapy with subsequent resolution or quiescence of the reaction.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma, LLCat 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Almatica Pharma, LLC at 1-877-447-7979 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch for voluntary reporting of adverse reactions.
