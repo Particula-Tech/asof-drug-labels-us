@@ -1,5 +1,5 @@
-|  | INSTRUCTIONS FOR USE MOUNJARO™ (mown-JAHR-OH) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |  |
-| --- | --- | --- |
+| INSTRUCTIONS FOR USE MOUNJARO™ (mown-JAHR-OH) (tirzepatide) injection, for subcutaneous use 2.5 mg/0.5 mL single-dose pen 5 mg/0.5 mL single-dose pen 7.5 mg/0.5 mL single-dose pen 10 mg/0.5 mL single-dose pen 12.5 mg/0.5 mL single-dose pen 15 mg/0.5 mL single-dose pen use 1 time each week |
+| --- |
 
 Important information you need to know before injecting MOUNJARO
 
@@ -14,19 +14,6 @@ Talk to your healthcare provider about how to inject MOUNJARO the right way.
 - Inject under the skin (subcutaneously) only.
 - You or another person can inject into your stomach (abdomen) or thigh.
 - Another person can inject into the back of your upper arm.
-
-Storage and handling
-
-- Store your Pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
-- You may store your Pen at room temperature up to 86°F (30°C) for up to 21 days.
-- Do not freeze your Pen.
-  If the Pen has been frozen, throw the Pen away and use a new Pen.
-- Store your Pen in the original carton to protect your Pen from light.
-- The Pen has glass parts.
-  Handle it carefully.
-  If you drop the Pen on a hard surface, do not use it.
-  Use a new Pen for your injection.
-- Keep your MOUNJARO Pen and all medicines out of the reach of children.
 
 Guide to parts
 
@@ -63,13 +50,21 @@ Preparing to inject MOUNJARO
 | --- |
 | See Disposing of your used Pen. |
 
-| Disposing of your used Pen Put your used Pen in an FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) Pens in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: - made of a heavy-duty plastic, - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, - upright and stable during use, - leak-resistant, and - properly labeled to warn of hazardous waste inside the container. |  |
+| Disposing of your used Pen Put your used Pen in an FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) Pens in your household trash. If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: - made of a heavy-duty plastic, - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, - upright and stable during use, - leak-resistant, and - properly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal. Do not recycle your used sharps disposal container. |  |
 | --- | --- |
 
-- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
-  There may be state or local laws about how you should throw away used needles and syringes.
-  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
-- Do not recycle your used sharps disposal container.
+Storage and handling
+
+- Store your Pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- You may store your Pen at room temperature up to 86°F (30°C) for up to 21 days.
+- Do not freeze your Pen.
+  If the Pen has been frozen, throw the Pen away and use a new Pen.
+- Store your Pen in the original carton to protect your Pen from light.
+- The Pen has glass parts.
+  Handle it carefully.
+  If you drop the Pen on a hard surface, do not use it.
+  Use a new Pen for your injection.
+- Keep your MOUNJARO Pen and all medicines out of the reach of children.
 
 Commonly asked questions
 
@@ -138,6 +133,6 @@ Copyright © 2022, Eli Lilly and Company.
 All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Approved: May 2022
+Revised: September 2022
 
-MOU-0001-IFU-20220513
+MOU-0002-IFU-20220929
