@@ -20,18 +20,18 @@ The following reactions have been reported and appear to be related to serum lit
 
 Central Nervous System: tremor, muscle hyperirritability (fasciculations, twitching, clonic movements of whole limbs), hypertonicity, ataxia, choreoathetotic movements, hyperactive deep tendon reflex, extrapyramidal symptoms including acute dystonia, cogwheel rigidity, blackout spells, epileptiform seizures, slurred speech, dizziness, vertigo, downbeat nystagmus, incontinence of urine or feces, somnolence, psychomotor retardation, restlessness, confusion, stupor, coma, tongue movements, tics, tinnitus, hallucinations, poor memory, slowed intellectual functioning, startled response, worsening of organic brain syndromes.
 
-Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction and severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome [See WARNINGS and PATIENT COUNSELING INFORMATION].
+Cardiovascular: cardiac arrhythmia, hypotension, peripheral circulatory collapse, bradycardia, sinus node dysfunction and severe bradycardia (which may result in syncope), Unmasking of Brugada Syndrome [see WARNINGS and PATIENT COUNSELING INFORMATION].
 
 Gastrointestinal: anorexia, nausea, vomiting, diarrhea, gastritis, salivary gland swelling, abdominal pain, excessive salivation, flatulence, indigestion.
 
 Genitourinary: glycosuria, decreased creatinine clearance, albuminuria, oliguria, and symptoms of nephrogenic diabetes insipidus including polyuria, thirst and polydipsia.
 
-Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema.
+Dermatologic: drying and thinning of hair, alopecia, anesthesia of skin, acne, chronic folliculitis, xerosis cutis, psoriasis or its exacerbation, generalized pruritus with or without rash, cutaneous ulcers, angioedema, drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Autonomic Nervous System: blurred vision, dry mouth, impotence/sexual dysfunction.
 
 Thyroid Abnormalities: euthyroid goiter and/or hypothyroidism (including myxedema) accompanied by lower T3 and T4.
-131Iodine uptake may be elevated (see PRECAUTIONS).
+131Iodine uptake may be elevated [see PRECAUTIONS].
 Paradoxically, rare cases of hyperthyroidism have been reported.
 
 EEG Changes: diffuse slowing, widening of frequency spectrum, potentiation and disorganization of background rhythm.

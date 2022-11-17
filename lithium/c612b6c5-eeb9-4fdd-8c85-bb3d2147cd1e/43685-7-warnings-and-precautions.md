@@ -3,7 +3,7 @@
 ## Lithium Toxicity
 
 The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2 mEq/L).
-Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range (see BOXED WARNING and DOSAGE AND ADMINISTRATION).
+Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range [see BOXED WARNING and DOSAGE AND ADMINISTRATION].
 Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed.
 
 Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, lack of coordination, and weakness; to moderate manifestations like giddiness, apathy, drowsiness, hyperreflexia, muscle twitching, ataxia, blurred vision, tinnitus, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma, and death.
@@ -12,12 +12,12 @@ Cardiac manifestations involve electrocardiographic changes, such as prolonged Q
 Renal manifestations include urine concentrating defect, nephrogenic diabetes insipidus, and renal failure.
 Respiratory manifestations include dyspnea, aspiration pneumonia, and respiratory failure.
 Gastrointestinal manifestations include nausea, vomiting, diarrhea, and bloating.
-No specific antidote for lithium poisoning is known (see OVERDOSAGE).
+No specific antidote for lithium poisoning is known [see OVERDOSAGE].
 
 The risk of lithium toxicity is increased by:
 
 - •Recent onset of concurrent febrile illness
-- •Concomitant administration of drugs which increase lithium serum concentrations by pharmacokinetic interactions or drugs affecting kidney function (see PRECAUTIONS-Drug Interactions)
+- •Concomitant administration of drugs which increase lithium serum concentrations by pharmacokinetic interactions or drugs affecting kidney function [see PRECAUTIONS-Drug Interactions]
 - •Acute ingestion
 - •Impaired renal function
 - •Volume depletion or dehydration
@@ -34,7 +34,7 @@ Brugada Syndrome is a disorder characterized by abnormal electrocardiographic (E
 Lithium should generally be avoided in patients with Brugada Syndrome or those suspected of having Brugada Syndrome.
 Consultation with a cardiologist is recommended if: (1) treatment with lithium is under consideration for patients suspected of having Brugada Syndrome or patients who have risk factors for Brugada Syndrome, e.g., unexplained syncope, a family history of Brugada Syndrome, or a family history of sudden unexplained death before the age of 45 years, (2) patients who develop unexplained syncope or palpitations after starting lithium therapy.
 
-## Psuedotumor Cerebri
+## Pseudotumor Cerebri
 
 Cases of pseudotumor cerebri (increased intracranial pressure and papilledema) have been reported with lithium use.
 If undetected, this condition may result in enlargement of the blind spot, constriction of visual fields, and eventual blindness due to optic atrophy.
@@ -60,7 +60,7 @@ During lithium therapy, progressive or sudden changes in renal function, even wi
 
 ## Encephalopathic Syndrome
 
-An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol.
+An encephalopathic syndrome (characterized by weakness, lethargy, fever, tremulousness and confusion, extrapyramidal symptoms, leukocytosis, elevated serum enzymes, BUN, and FBS) has occurred in a few patients treated with lithium plus a neuroleptic, most notably haloperidol.
 In some instances, the syndrome was followed by irreversible brain damage.
 Because of possible causal relationship between these events and the concomitant administration of lithium and neuroleptic drugs, patients receiving such combined therapy or patients with organic brain syndrome or other CNS impairment should be monitored closely for early evidence of neurologic toxicity and treatment discontinued promptly if such signs appear.
 This encephalopathic syndrome may be similar to or the same as Neuroleptic Malignant Syndrome (NMS).
@@ -68,7 +68,7 @@ This encephalopathic syndrome may be similar to or the same as Neuroleptic Malig
 ## Serotonin Syndrome
 
 Lithium can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including selective serotonin reuptake inhibitors, serotonin and norepinephrine reuptake inhibitors, triptans, tricyclic antidepressants, fentanyl, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs (see PRECAUTIONS).
+The risk is increased with concomitant use of other serotonergic drugs (including selective serotonin reuptake inhibitors, serotonin and norepinephrine reuptake inhibitors, triptans, tricyclic antidepressants, fentanyl, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [see PRECAUTIONS].
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 
@@ -103,7 +103,7 @@ There has been a report of transient syndrome of acute dystonia and hyperreflexi
 
 # PRECAUTIONS
 
-The ability to tolerate lithium is greater during the acute manic phase and decreases when manic symptoms subside (see DOSAGE AND ADMINISTRATION).
+The ability to tolerate lithium is greater during the acute manic phase and decreases when manic symptoms subside [see DOSAGE AND ADMINISTRATION].
 
 The distribution space of lithium approximates that of total body water.
 Lithium is primarily excreted in urine with insignificant excretion in feces.
@@ -123,7 +123,7 @@ If hypothyroidism occurs during lithium stabilization and maintenance, supplemen
 
 Diuretic-, ACE-, and ARB-induced sodium loss may increase serum lithium concentrations.
 Start with lower doses of lithium or reduce dosage, while frequently monitoring serum lithium concentrations and signs of lithium toxicity.
-See WARNINGSfor additional caution information.
+See WARNINGS for additional caution information.
 
 Concomitant administration of lithium with serotonergic drugs can precipitate serotonin syndrome.
 Monitor patients for signs and symptoms of serotonin syndrome, particularly during lithium initiation.
@@ -144,13 +144,14 @@ Patients receiving such combined therapy should be monitored closely.
 Concurrent use of fluoxetine with lithium has resulted in both increased and decreased serum lithium concentrations.
 Patients receiving such combined therapy should be monitored closely.
 
-Nonsteroidal Anti-Inflammatory Drugs (NSAIDS)
-
-Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
+Nonsteroidal Anti-Inflammatory Drugs (NSAIDS): Lithium levels should be closely monitored when patients initiate or discontinue NSAID use.
 In some cases, lithium toxicity has resulted from interactions between an NSAID and lithium.
 Indomethacin and piroxicam have been reported to increase significantly steady-state plasma lithium concentrations.
 There is also evidence that other nonsteroidal anti-inflammatory agents, including the selective cyclooxygenase-2 (COX-2) inhibitors, have the same effect.
 In a study conducted in healthy subjects, mean steady-state lithium plasma levels increased approximately 17% in subjects receiving lithium 450 mg BID with celecoxib 200 mg BID as compared to subjects receiving lithium alone.
+
+Concomitant use of lithium with a Sodium-Glucose Cotransporter 2 (SGLT2) inhibitor may decrease serum lithium concentrations.
+Monitor serum lithium concentration more frequently during SGLT2 inhibitor initiation and dosage changes.
 
 Lithium may impair mental and/or physical abilities.
 Patients should be cautioned about activities requiring alertness (e.g., operating vehicles or machinery).
@@ -161,11 +162,11 @@ See WARNINGS.
 
 ## Usage in Nursing Mothers
 
-Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS).
+Because of the potential for serious adverse reactions in nursing infants and neonates from lithium, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother [see WARNINGS].
 
 ## Pediatric Use
 
-Safety and effectiveness in pediatric patients below the age of 12 have not been established (see WARNINGS).
+Safety and effectiveness in pediatric patients below the age of 12 have not been established [see WARNINGS].
 
 ## Geriatric Use
 

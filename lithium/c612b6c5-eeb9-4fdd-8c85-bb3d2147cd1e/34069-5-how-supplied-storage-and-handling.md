@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Lithium Carbonate Extended-release Tablets USP
+Lithium Carbonate Extended-release Tablets, USP
 
 300 mg tablets are supplied as beige coated, round biconvex tablets with “54 107” debossed on one side and plain on the other side.
 
@@ -15,12 +15,12 @@ Store at 20° to 25°C (68° to 77°F).
 Protect from moisture.
 Dispense in tight, child-resistant container as defined in USP/NF.
 
-Distr. by: West-Ward
+Distributed by:
 
-Pharmaceuticals Corp.
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10002523/10
+C50000334/01
 
-Revised December 2019
+Revised October 2022
