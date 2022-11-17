@@ -14,17 +14,17 @@ Patients should take other drugs at least one hour before or four hours after CO
 
 ## Before COLESTID or FLAVORED COLESTID Administration
 
-1. Define the type of hyperlipoproteinemia, as described in NCEP guidelines.
-2. Institute a trial of diet and weight reduction.
-3. Establish baseline serum total and LDL-cholesterol and triglyceride levels.
+1. 1.Define the type of hyperlipoproteinemia, as described in NCEP guidelines.
+2. 2.Institute a trial of diet and weight reduction.
+3. 3.Establish baseline serum total and LDL-cholesterol and triglyceride levels.
 
 ## During COLESTID or FLAVORED COLESTID Administration
 
-1. The patient should be carefully monitored clinically, including serum cholesterol and triglyceride levels.
+1. 1.The patient should be carefully monitored clinically, including serum cholesterol and triglyceride levels.
    Periodic determinations of serum cholesterol levels as outlined in the NCEP guidelines should be done to confirm a favorable initial and longer-term response.
-2. Failure of total or LDL-cholesterol to fall within the desired range should lead one to first examine dietary and drug compliance.
+2. 2.Failure of total or LDL-cholesterol to fall within the desired range should lead one to first examine dietary and drug compliance.
    If these are deemed acceptable, combined therapy or alternate treatment should be considered.
-3. Significant rise in triglyceride level should be considered as indication for dose reduction, drug discontinuation, or combined or alternate therapy.
+3. 3.Significant rise in triglyceride level should be considered as indication for dose reduction, drug discontinuation, or combined or alternate therapy.
 
 ## Mixing and Administration Guide
 
@@ -37,9 +37,9 @@ Although it may be mixed with a variety of liquids or foods, the selection shoul
 
 ## With Beverages
 
-1. Add the prescribed amount of COLESTID or FLAVORED COLESTID to a glassful (three ounces or more) of water or the beverage of your choice.
+1. 1.Add the prescribed amount of COLESTID or FLAVORED COLESTID to a glassful (three ounces or more) of water or the beverage of your choice.
    A heavy or pulpy juice may minimize complaints relative to consistency.
-2. Stir the mixture until the medication is completely mixed.
+2. 2.Stir the mixture until the medication is completely mixed.
    (COLESTID and FLAVORED COLESTID will not dissolve in the liquid.)
    COLESTID and FLAVORED COLESTID may also be mixed with carbonated beverages, slowly stirred in a large glass; however, this mixture may be associated with GI complaints.
 
