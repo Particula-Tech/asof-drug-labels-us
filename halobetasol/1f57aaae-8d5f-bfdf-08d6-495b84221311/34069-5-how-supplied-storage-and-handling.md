@@ -6,7 +6,7 @@ Halobetasol Propionate Cream, 0.05% is supplied in thefollowing tube sizes: 15 g
 
 Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
 
-Manufactured by: Cosette Pharmaceuticals, Inc. 111 Coolidge Street South Plainfield, NJ 07080
+Distributed by: Cosette Pharmaceuticals, Inc. South Plainfield, NJ 07080
 
-8-0640CP1 Iss.
-09/2019
+8-0640CPLNC2 Rev.
+08/2022 VC7645
