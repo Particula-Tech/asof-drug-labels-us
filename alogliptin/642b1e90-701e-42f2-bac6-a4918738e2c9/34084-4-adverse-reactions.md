@@ -28,10 +28,10 @@ Adverse reactions reported in ≥4% of patients treated with alogliptin and piog
 Table 1.
 Adverse Reactions Reported in ≥4% of Patients Treated with Alogliptin and Pioglitazone Tablets and More Frequently than in Patients Receiving Either Alogliptin, Pioglitazone or Placebo
 
-|  | N=1533 | N=446 | N=949 | N=153 |
-| --- | --- | --- | --- | --- |
 | Number of Patients (%) |  |  |  |  |
+| --- | --- | --- | --- | --- |
 |  | Alogliptin and Pioglitazone TabletsAlogliptin and pioglitazone tablets – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg combined with pioglitazone 15 mg, 30 mg and 45 mg | AlogliptinAlogliptin – includes data pooled for patients receiving alogliptin 25 mg and 12.5 mg | PioglitazonePioglitazone – includes data pooled for patients receiving pioglitazone 15 mg, 30 mg and 45 mg | Placebo |
+|  | N=1533 | N=446 | N=949 | N=153 |
 | Nasopharyngitis | 75 (4.9) | 21 (4.7) | 37 (3.9) | 6 (3.9) |
 | Back Pain | 64 (4.2) | 9 (2.0) | 32 (3.4) | 5 (3.3) |
 | Upper Respiratory Tract Infection | 63 (4.1) | 19 (4.3) | 26 (2.7) | 5 (3.3) |
@@ -63,10 +63,10 @@ Adverse reactions reported in ≥4% of patients treated with alogliptin 25 mg an
 Table 2.
 Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin 25 mg and More Frequently than in Patients Given Placebo in Pooled Studies
 
-|  | N=6447 | N=3469 | N=2257 |
-| --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
+| --- | --- | --- | --- |
 |  | Alogliptin 25 mg | Placebo | Active Comparator |
+|  | N=6447 | N=3469 | N=2257 |
 | Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
 | Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
 | Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
@@ -107,9 +107,10 @@ None of these adverse reactions were related to pioglitazone dose.
 Table 3.
 Three Pooled 16 to 26 Week Placebo-Controlled Clinical Trials of Pioglitazone Monotherapy: Adverse Reactions Reported at an Incidence >5% and More Commonly in Patients Treated with Pioglitazone than in Patients Treated with Placebo
 
-|  | Placebo N=259 | Pioglitazone N=606 |
-| --- | --- | --- |
 | % of Patients |  |  |
+| --- | --- | --- |
+|  | Placebo | Pioglitazone |
+|  | N=259 | N=606 |
 | Upper Respiratory Tract Infection | 8.5 | 13.2 |
 | Headache | 6.9 | 9.1 |
 | Sinusitis | 4.6 | 6.3 |
@@ -127,9 +128,10 @@ A summary of the incidence of adverse reactions related to congestive heart fail
 Table 4.
 Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in Patients with NYHA Class II or III Congestive Heart Failure Treated with Pioglitazone or Glyburide
 
-|  | Pioglitazone N=262 | Glyburide N=256 |
-| --- | --- | --- |
 |  | Number (%) of Subjects |  |
+| --- | --- | --- |
+|  | Pioglitazone | Glyburide |
+|  | N=262 | N=256 |
 | Death due to cardiovascular causes (adjudicated) | 5 (1.9%) | 6 (2.3%) |
 | Overnight hospitalization for worsening CHF (adjudicated) | 26 (9.9%) | 12 (4.7%) |
 | Emergency room visit for CHF (adjudicated) | 4 (1.5%) | 3 (1.2%) |
@@ -140,9 +142,10 @@ Congestive heart failure events leading to hospitalization that occurred during 
 Table 5.
 Treatment-Emergent Adverse Reactions of Congestive Heart Failure (CHF) in PROactive Trial
 
-|  | Placebo N=2633 | Pioglitazone N=2605 |
-| --- | --- | --- |
 |  | Number (%) of Patients |  |
+| --- | --- | --- |
+|  | Placebo | Pioglitazone |
+|  | N=2633 | N=2605 |
 | At least one hospitalized congestive heart failure event | 108 (4.1%) | 149 (5.7%) |
 | Fatal | 22 (0.8%) | 25 (1%) |
 | Hospitalized, nonfatal | 86 (3.3%) | 124 (4.7%) |
@@ -164,9 +167,9 @@ The number of first occurrences and total individual events contributing to the 
 Table 6.
 PROactive: Number of First and Total Events for Each Component Within the Cardiovascular Composite Endpoint
 
-| Cardiovascular Events | First Events n (%) | Total Events n | First Events n (%) | Total Events n |
-| --- | --- | --- | --- | --- |
 |  | Placebo N=2633 |  | Pioglitazone N=2605 |  |
+| --- | --- | --- | --- | --- |
+| Cardiovascular Events | First Events n (%) | Total Events n | First Events n (%) | Total Events n |
 | Any Event | 572 (21.7) | 900 | 514 (19.7) | 803 |
 | All-Cause Mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |
 | Nonfatal Myocardial Infarction (MI) | 118 (4.5) | 157 | 105 (4) | 131 |
@@ -213,7 +216,7 @@ After excluding patients in whom exposure to study drug was less than one year a
 After completion of the trial, a large subset of patients was observed for up to ten additional years, with little additional exposure to pioglitazone.
 During the 13 years of both PROactive and observational follow-up, the occurrence of bladder cancer did not differ between patients randomized to pioglitazone or placebo (HR =1.00; 95% CI: 0.59-1.72) [see Warnings and Precautions (5.7)].
 
-## 6.2 Laboratory Abnormalities
+Laboratory Abnormalities
 
 Pioglitazone
 
@@ -231,25 +234,34 @@ Six of these nine patients continued to receive pioglitazone, two patients were 
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to pioglitazone therapy is unknown.
 
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 Alogliptin
 
 The following adverse reactions have been identified during the postmarketing use of alogliptin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia and bullous pemphigoid, rhabdomyolysis, diarrhea, constipation, nausea and ileus [see Warnings and Precautions (5.2, 5.3, 5.4, 5.10, 5.11)].
+Gastrointestinal disorders: acute pancreatitis, diarrhea, constipation, nausea, ileus
+
+Hepatobiliary disorders: fulminant hepatic failure
+
+Immune system disorders: hypersensitivity reactions including anaphylaxis
+
+Investigations: hepatic enzyme elevations
+
+Musculoskeletal and Connective Tissue Disorders: severe and disabling arthralgia, rhabdomyolysis
+
+Renal and urinary disorders: tubulointerstitial nephritis
+
+Skin and subcutaneous tissue disorders: angioedema, rash, urticaria and severe cutaneous adverse reactions including Stevens-Johnson syndrome, bullous pemphigoid
 
 Pioglitazone
 
 The following adverse reactions have been identified during the postmarketing use of pioglitazone.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-New onset or worsening diabetic macular edema with decreased visual acuity [see Warnings and Precautions (5.9)].
+Cardiac disorders: rapid increases in weight and increases in excess of that generally observed in clinical trials, excessive edema, congestive heart failure both with and without previously known heart disease and both with and without concomitant insulin administration
 
-Fatal and nonfatal hepatic failure [see Warnings and Precautions (5.4)].
+Eye disorders: New onset or worsening diabetic macular edema with decreased visual
 
-Postmarketing reports of congestive heart failure have been reported in patients treated with pioglitazone, both with and without previously known heart disease and both with and without concomitant insulin administration.
-
-In postmarketing experience, there have been reports of unusually rapid increases in weight and increases in excess of that generally observed in clinical trials.
-Patients who experience such increases should be assessed for fluid accumulation and volume-related events such as excessive edema and congestive heart failure [see Boxed Warning and Warnings and Precautions (5.1)].
+Hepatobiliary disorders: Fatal and nonfatal hepatic failure

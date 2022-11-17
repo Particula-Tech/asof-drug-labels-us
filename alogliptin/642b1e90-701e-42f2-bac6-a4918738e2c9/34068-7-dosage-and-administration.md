@@ -3,7 +3,7 @@
 ## 2.1 Recommendations for All Patients
 
 Alogliptin and pioglitazone tablets should be taken once daily and can be taken with or without food.
-The tablets must not be split before swallowing.
+Do not split tablets.
 
 The recommended starting dose for alogliptin and pioglitazone tablets:
 

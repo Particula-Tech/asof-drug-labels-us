@@ -12,15 +12,15 @@ Dispense with Medication Guide
 
 # PRINCIPAL DISPLAY PANEL - 12.5 mg/30 mg Tablet Bottle Label
 
-Rx Only
-
-NDC 45802-260-65
+NDC 45802-260-65 Rx Only
 
 Alogliptin and Pioglitazone Tablets 12.5 mg/30 mg
 
-Dispense with Medication Guide
+DISPENSE WITH MEDICATION GUIDE
 
-30 Tablets Perrigo®
+30 Tablets
+
+Padagis™
 
 # PRINCIPAL DISPLAY PANEL - 12.5 mg/45 mg Tablet Bottle Label
 
@@ -36,36 +36,36 @@ Dispense with Medication Guide
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/15 mg Tablet Bottle Label
 
-Rx Only
-
-NDC 45802-351-65
+NDC 45802-351-65 Rx Only
 
 Alogliptin and Pioglitazone Tablets 25 mg/15 mg
 
-Dispense with Medication Guide
+DISPENSE WITH MEDICATION GUIDE
 
-30 Tablets Perrigo®
+30 Tablets
+
+Padagis™
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/30 mg Tablet Bottle Label
 
-Rx Only
-
-NDC 45802-402-65
+NDC 45802-402-65 Rx Only
 
 Alogliptin and Pioglitazone Tablets 25 mg/30 mg
 
-Dispense with Medication Guide
+DISPENSE WITH MEDICATION GUIDE
 
-30 Tablets Perrigo®
+30 Tablets
+
+Padagis™
 
 # PRINCIPAL DISPLAY PANEL - 25 mg/45 mg Tablet Bottle Label
 
-Rx Only
-
-NDC 45802-499-65
+NDC 45802-499-65 Rx Only
 
 Alogliptin and Pioglitazone Tablets 25 mg/45 mg
 
-Dispense with Medication Guide
+DISPENSE WITH MEDICATION GUIDE
 
-30 Tablets Perrigo®
+30 Tablets
+
+Padagis™
