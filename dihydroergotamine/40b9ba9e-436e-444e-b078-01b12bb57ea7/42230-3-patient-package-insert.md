@@ -24,7 +24,7 @@ Rare cases have also been reported in association with the use of injectable dih
 
 Do not use Dihydroergotamine Mesylate Injection, USP if you:
 
-• are pregnant or nursing. • have any disease affecting your heart, arteries, or circulation. • are taking certain anti-HIV medications (protease inhibitors). • are taking a macrolide antibiotic such as troleandomycin, clarithromycin or erythromycin.
+• have any disease affecting your heart, arteries, or circulation. • are taking certain anti-HIV medications (protease inhibitors). • are taking a macrolide antibiotic such as troleandomycin, clarithromycin or erythromycin.
 
 Important questions to consider before using Dihydroergotamine Mesylate Injection, USP
 
@@ -32,11 +32,30 @@ Please answer the following questions before you use your Dihydroergotamine Mesy
 
 If you answer YES to any of these questions or are unsure of the answer, you should talk to your doctor before using Dihydroergotamine Mesylate Injection, USP.
 
-• Do you have high blood pressure? • Do you have chest pain, shortness of breath, heart disease, or have you had any surgery on your heart arteries? • Do you have risk factors for heart disease (such as high blood pressure, high cholesterol, obesity, diabetes, smoking, strong family history of heart disease, or you are postmenopausal or a male over 40)? • Do you have any problems with blood circulation in your arms or legs, fingers, or toes? • Are you pregnant?
-Do you think you might be pregnant?
-Are you trying to become pregnant?
-Are you sexually active and not using birth control?
-Are you breast feeding? • Have you ever had to stop taking this or any other medication because of an allergy or bad reaction? • Are you taking any other migraine medications, erythromycin or other antibiotics, or medications for blood pressure prescribed by your doctor, or other medicines obtained from your drugstore without a doctor's prescription? • Do you smoke? • Have you had, or do you have, any disease of the liver or kidney? • Is this headache different from your usual migraine attacks? • Are you using Dihydroergotamine Mesylate Injection, USP nasal spray or other dihydroergotamine mesylate containing drugs on a daily basis? • Are you taking a protease inhibitor for HIV therapy? • Are you taking a macrolide class of antibiotic?
+- Do you have high blood pressure?
+- Do you have chest pain, shortness of breath, heart disease, or have you had any surgery on your heart arteries?
+- Do you have risk factors for heart disease (such as high blood pressure, high cholesterol, obesity, diabetes, smoking, strong family history of heart disease, or you are postmenopausal or a male over 40)?
+- Do you have any problems with blood circulation in your arms or legs, fingers, or toes?
+- Are you pregnant?
+  Do you think you might be pregnant?
+  Are you trying to become pregnant?
+  Are you sexually active and not using birth control?
+  - Dihydroergotamine Mesylate Injection, USP may cause preterm labor.
+    Dihydroergotamine Mesylate Injection, USP should be avoided during pregnancy.
+    Talk to your healthcare provider right away if you are pregnant or want to become pregnant.
+- Are you breast feeding?
+  - Dihydroergotamine Mesylate Injection, USP may reduce breast milk supply and pass into your breast milk.
+    Dihydroergotamine Mesylate Injection, USP may be harmful to your baby.
+    Do not breastfeed your baby while taking Dihydroergotamine Mesylate Injection, USP and for 3 days after you use Dihydroergotamine Mesylate Injection, USP.
+    Talk with your healthcare provider about the best way to feed your baby if you take Dihydroergotamine Mesylate Injection, USP.
+- Have you ever had to stop taking this or any other medication because of an allergy or bad reaction?
+- Are you taking any other migraine medications, erythromycin or other antibiotics, or medications for blood pressure prescribed by your doctor, or other medicines obtained from your drugstore without a doctor's prescription?
+- Do you smoke?
+- Have you had, or do you have, any disease of the liver or kidney?
+- Is this headache different from your usual migraine attacks?
+- Are you using Dihydroergotamine Mesylate Injection, USP or other dihydroergotamine mesylate containing drugs on a daily basis?
+- Are you taking a protease inhibitor for HIV therapy?
+- Are you taking a macrolide class of antibiotic?
 
 Serious or potentially life-threatening reductions in blood flow to the brain or extremities have been reported rarely due to interactions between Dihydroergotamine Mesylate Injection, USP and protease inhibitors or macrolide antibiotics.
 
@@ -46,7 +65,12 @@ Side effects to watch out for
 
 Although the following reactions rarely occur, they can be serious and should be reported to your physician immediately:
 
-• Numbness or tingling in your fingers and toes • Pain, tightness, or discomfort in your chest • Muscle pain or cramps in your arms and legs • Weakness in your legs • Temporary speeding or slowing of your heart rate • Swelling or itching
+- Numbness or tingling in your fingers and toes
+- Pain, tightness, or discomfort in your chest
+- Muscle pain or cramps in your arms and legs
+- Weakness in your legs
+- Temporary speeding or slowing of your heart rate
+- Swelling or itching
 
 Dosage
 
@@ -93,7 +117,7 @@ How to use the Dihydroergotamine Mesylate Injection, USP
    If there are air bubbles, tap your finger against the barrel of the syringe to get the bubbles to the top.
    Slowly and carefully push the plunger up so that the bubbles are pushed out through the needle and you see a drop of medication.
 8. When there are no air bubbles, check the dose of the medication.
-   If the dose is incorrect, repeat steps e, f, g and h until you draw up the right dose.
+   If the dose is incorrect, repeat steps e, f, g, and h until you draw up the right dose.
 
 5.Preparing the Injection Site
 
@@ -132,8 +156,10 @@ Dihydroergotamine Mesylate Injection, USP is not intended for chronic daily use.
 
 If you have any other unanswered questions about Dihydroergotamine Mesylate Injection, USP, consult your doctor or pharmacist.
 
-Manufactured for: Provepharm, Inc. 100 Springhouse Drive Suite 105 Collegeville, PA 19426
+Manufactured for: Provepharm SAS
 
-Made in France.
+Distributed by: Provepharm, Inc. Collegeville, PA 19426
 
-Revised: 01/2021
+Made in France
+
+Revised: 11/2022
