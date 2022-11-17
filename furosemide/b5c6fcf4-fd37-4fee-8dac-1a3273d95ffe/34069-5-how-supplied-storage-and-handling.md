@@ -19,4 +19,4 @@ Protect from light.
 Manufactured by: Leading Pharma, LLC Fairfield, NJ 07004
 
 Rev.
-08 05/21
+09 10/22
