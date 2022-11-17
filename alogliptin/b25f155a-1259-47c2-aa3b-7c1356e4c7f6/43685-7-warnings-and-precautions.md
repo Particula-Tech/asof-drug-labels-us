@@ -37,7 +37,7 @@ Measure liver tests promptly in patients who report symptoms that may indicate l
 In this clinical context, if the patient is found to have clinically significant liver enzyme elevations and if abnormal liver tests persist or worsen, alogliptin tablets should be interrupted and investigation done to establish the probable cause.
 Alogliptin tablets should not be restarted in these patients without another explanation for the liver test abnormalities.
 
-## 5.5 Use with Medications Known to Cause Hypoglycemia
+## 5.5 Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues
 
 Insulin and insulin secretagogues, such as sulfonylureas, are known to cause hypoglycemia.
 Therefore, a lower dose of insulin or insulin secretagogue may be required to minimize the risk of hypoglycemia when used in combination with alogliptin tablets.
@@ -56,7 +56,3 @@ Postmarketing cases of bullous pemphigoid requiring hospitalization have been re
 In reported cases, patients typically recovered with topical or systemic immunosuppressive treatment and discontinuation of the DPP-4 inhibitor.
 Tell patients to report development of blisters or erosions while receiving alogliptin tablets.
 If bullous pemphigoid is suspected, alogliptin tablets should be discontinued and referral to a dermatologist should be considered for diagnosis and appropriate treatment.
-
-## 5.8 Macrovascular Outcomes
-
-There have been no clinical studies establishing conclusive evidence of macrovascular risk reduction with alogliptin tablets or any other antidiabetic drug.

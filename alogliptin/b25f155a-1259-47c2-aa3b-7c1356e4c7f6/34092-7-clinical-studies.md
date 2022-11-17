@@ -41,7 +41,7 @@ Glycemic Parameters at Week 26 in a Placebo-Controlled Monotherapy Study of Alog
 | Change from baseline (adjusted mean) | -16 | 11 |
 | Difference from placebo (adjusted mean with 95% confidence interval) | -28 (-40, -15) | ˗ |
 
-In a 26 week, double-blind, active-controlled study, a total of 655 patients (mean baseline A1C = 8.8%) were randomized to receive alogliptin tablets 25 mg alone, pioglitazone 30 mg alone, alogliptin tablets 12.5 mg with pioglitazone 30 mg or alogliptin tablets 25 mg with pioglitazone 30 mg once daily.
+In a 26-week, double-blind, active-controlled study, a total of 655 patients (mean baseline A1C = 8.8%) were randomized to receive alogliptin tablets 25 mg alone, pioglitazone 30 mg alone, alogliptin tablets 12.5 mg with pioglitazone 30 mg or alogliptin tablets 25 mg with pioglitazone 30 mg once daily.
 Coadministration of alogliptin tablets 25 mg with pioglitazone 30 mg resulted in statistically significant improvements from baseline in A1C and FPG compared to alogliptin tablets 25 mg alone and to pioglitazone 30 mg alone (Table 4).
 A total of 3% of patients receiving alogliptin tablets 25 mg coadministered with pioglitazone 30 mg, 11% of those receiving alogliptin tablets 25 mg alone and 6% of those receiving pioglitazone 30 mg alone required glycemic rescue.
 
@@ -306,11 +306,11 @@ The upper bound of the confidence interval was 1.16 and excluded a risk margin l
 Table 12.
 Patients with MACE in EXAMINE
 
-| 305 (11.3) | 7.6 | 316 (11.8) | 7.9 | 0.96 (0.80, 1.16) |  |
-| --- | --- | --- | --- | --- | --- |
 | Composite of first event of CV death, nonfatal MI or nonfatal stroke (MACE) | Alogliptin |  | Placebo |  | Hazard Ratio |
+| --- | --- | --- | --- | --- | --- |
 | Number of Patients (%) | Rate per 100 PYPatient Years (PY) | Number of Patients (%) | Rate per 100 PY | (98% CI) |  |
 | N=2701 |  | N=2679 |  |  |  |
+| 305 (11.3) | 7.6 | 316 (11.8) | 7.9 | 0.96 (0.80, 1.16) |  |
 | CV Death | 89 (3.3) | 2.2 | 111 (4.1) | 2.8 |  |
 | Non-fatal MI | 187 (6.9) | 4.6 | 173 (6.5) | 4.3 |  |
 | Non-fatal stroke | 29 (1.1) | 0.7 | 32 (1.2) | 0.8 |  |

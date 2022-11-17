@@ -25,10 +25,10 @@ Adverse reactions reported in ≥4% of patients treated with alogliptin tablets 
 Table 1.
 Adverse Reactions Reported in ≥4% Patients Treated with Alogliptin Tablets 25 mg and More Frequently Than in Patients Given Placebo in Pooled Studies
 
-|  | N=6447 | N=3469 | N=2257 |
+|  | Alogliptin Tablets 25 mg | Placebo | Active Comparator |
 | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |
-|  | Alogliptin Tablets 25 mg | Placebo | Active Comparator |
+|  | N=6447 | N=3469 | N=2257 |
 | Nasopharyngitis | 309 (4.8) | 152 (4.4) | 113 (5.0) |
 | Upper Respiratory Tract Infection | 287 (4.5) | 121 (3.5) | 113 (5.0) |
 | Headache | 278 (4.3) | 101 (2.9) | 121 (5.4) |
@@ -93,4 +93,16 @@ Worsening of chronic kidney disease stage was seen in 16.8% of patients treated 
 The following adverse reactions have been identified during the postmarketing use of alogliptin tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Acute Pancreatitis, hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria and severe cutaneous adverse reactions, including Stevens-Johnson syndrome, hepatic enzyme elevations, fulminant hepatic failure, severe and disabling arthralgia, bullous pemphigoid, rhabdomyolysis, and diarrhea, constipation, nausea, and ileus [see Warnings and Precautions (5.1, 5.3, 5.4, 5.6, 5.7)].
+Gastrointestinal disorders: acute pancreatitis, diarrhea, constipation, nausea, ileus
+
+Hepatobiliary disorders: fulminant hepatic failure
+
+Immune system disorders: hypersensitivity reactions including anaphylaxis
+
+Investigations: hepatic enzyme elevations
+
+Musculoskeletal and Connective Tissue Disorders: severe and disabling arthralgia, rhabdomyolysis
+
+Renal and urinary disorders: tubulointerstitial nephritis
+
+Skin and subcutaneous tissue disorders: angioedema, rash, urticaria and severe cutaneous adverse reactions including Stevens-Johnson syndrome, bullous pemphigoid

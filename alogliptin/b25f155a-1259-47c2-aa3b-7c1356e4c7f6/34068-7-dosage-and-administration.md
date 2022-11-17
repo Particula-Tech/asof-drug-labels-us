@@ -4,6 +4,7 @@
 
 The recommended dose of alogliptin tablets is 25 mg once daily.
 Alogliptin tablets may be taken with or without food.
+Do not split tablets.
 
 ## 2.2 Patients with Renal Impairment
 

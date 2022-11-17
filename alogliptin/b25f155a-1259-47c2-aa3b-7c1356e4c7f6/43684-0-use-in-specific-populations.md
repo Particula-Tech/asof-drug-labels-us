@@ -7,7 +7,7 @@ Risk Summary
 Limited data with alogliptin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
-No adverse developmental effects were observed when alogliptin was administered to pregnant rats and rabbits during organogenesis at exposures 180 and 149 times the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC) [see Data].
+No adverse developmental effects were observed when alogliptin was administered to pregnant rats and rabbits during organogenesis at exposures 180- and 149-times the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC) [see Data].
 
 The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20-25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -17,14 +17,15 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, still birth and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
 
 Data
 
 Animal Data
 
-Alogliptin administered to pregnant rabbits and rats during the period of organogenesis did not cause adverse developmental effects at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC).Placental transfer of alogliptin into the fetus was observed following oral dosing to pregnant rats.
+Alogliptin administered to pregnant rabbits and rats during the period of organogenesis did not cause adverse developmental effects at doses of up to 200 mg/kg and 500 mg/kg, or 149 times and 180 times, the 25 mg clinical dose, respectively, based on plasma drug exposure (AUC).
+Placental transfer of alogliptin into the fetus was observed following oral dosing to pregnant rats.
 
 No adverse developmental outcomes were observed in offspring when alogliptin was administered to pregnant rats during gestation and lactation at doses up to 250 mg/kg (~ 95 times the 25 mg clinical dose, based on AUC).
 
@@ -58,4 +59,4 @@ The overall incidences of adverse reactions, serious adverse reactions and adver
 ## 8.7 Hepatic Impairment
 
 No dose adjustments are required in patients with mild to moderate hepatic impairment (Child-Pugh Grade A and B) based on insignificant change in systemic exposures (e.g., AUC) compared to subjects with normal hepatic function in a pharmacokinetic study.
-Alogliptin tablets have not been studied in patients with severe hepatic impairment (Child-Pugh Grade C). Use caution when administering alogliptin tablets to patients with liver disease [see Warnings and Precautions (5.3)].
+Alogliptin tablets have not been studied in patients with severe hepatic impairment (Child-Pugh Grade C). Use caution when administering alogliptin tablets to patients with liver disease [see Warnings and Precautions (5.4)].
