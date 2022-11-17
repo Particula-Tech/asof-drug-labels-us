@@ -1,6 +1,8 @@
 # HOW SUPPLIED
 
-Lithium Carbonate Extended-Release Tablets USP 450 mg tablets are speckled, off-white to yellow, round biconvex tablets with “54 346” debossed on one side and scored on the other side.
+Lithium Carbonate Extended-Release Tablets, USP
+
+450 mg tablets are speckled, off-white to yellow, round biconvex tablets with “54 346” debossed on one side and scored on the other side.
 
 (NDC 0054-0020-25) Bottle of 100 Tablets
 
@@ -9,12 +11,8 @@ Storage Conditions
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
-Distr. by: West-Ward
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Pharmaceuticals Corp.
+Berkeley Heights, NJ 07922
 
-Eatontown, NJ 07724
-
-10002294/09
-
-Revised July 2022
+C50000331/01 Revised October 2022
