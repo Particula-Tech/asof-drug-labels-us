@@ -2,7 +2,7 @@
 
 ## 11.1LILETTA
 
-LILETTA (levonorgestrel-releasing intrauterine system) contains 52 mg of levonorgestrel, a progestin, and is intended to provide an initial release rate of 20.1 mcg/day of levonorgestrel.
+LILETTA (levonorgestrel-releasing intrauterine system) contains 52 mg of levonorgestrel, a progestin, and is intended to provide an initial release rate of 20.4 mcg/day of levonorgestrel.
 
 Levonorgestrel USP, (-)-13-ethyl-17-hydroxy-18,19-dinor-17α-pregn-4-en-20-yn-3-one, the active ingredient in LILETTA, is the levorotatory form of norgestrel, which consists of a racemic mixture of D-(–)-norgestrel (levonorgestrel) and L-(+)-norgestrel (dextronorgestrel).
 It has a molecular weight of 312.45, a molecular formula of C21H28O2, and the following structural formula:

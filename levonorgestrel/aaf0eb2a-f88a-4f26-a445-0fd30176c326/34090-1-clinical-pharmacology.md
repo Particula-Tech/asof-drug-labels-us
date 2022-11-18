@@ -17,16 +17,16 @@ In clinical trials with other LNG-releasing IUSs with an LNG release rate simila
 Absorption
 
 Low doses of LNG are administered into the uterine cavity with the LILETTA intrauterine delivery system.
-The initial in vivo release rate is 20.1 mcg/day and decreases to 17.5 mcg/day at 1 year, 15.2 mcg/day at 2 years, 13.2 mcg/day at 3 years, 11.4 mcg/day at 4 years, 9.9 mcg/day at 5 years, and 8.6 mcg/day at 6 years.
+The initial in vivo release rate is 20.4 mcg/day and decreases to 17.7 mcg/day at 1 year, 15.3 mcg/day at 2 years, 13.3 mcg/day at 3 years, 11.5 mcg/day at 4 years, 10.0 mcg/day at 5 years, 8.7 mcg/day at 6 years, 7.5 mcg/day at 7 years, and 6.5 mcg/day at 8 years.
 
-In the phase 3 clinical trial, systemic plasma LNG concentrations were assessed in a subset of subjects through Month 30 and in all subjects in the trial at Month 36 and after.
-Plasma LNG concentrations following insertion of LILETTA are shown in Table 4.
+In the phase 3 clinical trial, systemic plasma LNG concentrations were assessed in a subset of participants through Month 30 and in all participants in the trial at Month 36 and after.
+Plasma LNG concentrations following insertion of LILETTA are shown in Table 5.
 
-Table 4: Plasma LNG Concentrations (mean ± SD, pg/mL) Following LILETTA Insertion
+Table 5: Plasma LNG Concentrations (mean ± SD, pg/mL) Following LILETTA Insertion
 
-| 7 Days (n = 40) | 6 Months (n = 36) | 12 Months (n = 33) | 24 Months (n = 30) | 36 Months (n = 894) | 48 Months (n = 737) | 60 Months (n = 531) | 72 Months (n = 191) |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 252 ± 123 | 195 ± 68 | 168 ± 51 | 150 ± 47 | 132 ± 54 | 114 ± 52 | 101 ± 43 | 93 ± 45 |
+| 7 Days (n=40) | 6 Months (n=36) | 12 Months (n=33) | 24 Months (n=30) | 36 Months (n=914) | 48 Months (n=793) | 60 Months (n=608) | 72 Months (n=243) | 84 Months (n=211) | 96 Months (n=142) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 252±123 | 195±68 | 168±51 | 150±47 | 132±54 | 114±52 | 101±42 | 92±43 | 90±38 | 88±37 |
 
 Distribution
 
@@ -52,13 +52,13 @@ Specific Populations
 
 Racial or Ethnic Groups:
 
-The effect of race on plasma LNG concentrations after LILETTA insertion was assessed in 731 (80%) White subjects, 106 (12%) Black subjects, 40 (4%) Asian subjects, 8 (1%) American Indian/Alaska Native subjects, and 21 (2%) multiple-race subjects.
+The effect of race on plasma LNG concentrations after LILETTA insertion was assessed in 731 (80%) White participants, 106 (12%) Black participants, 40 (4%) Asian participants, 8 (1%) American Indian/Alaska Native participants, and 21 (2%) multiple-race participants.
 Race does not appear to affect LNG concentrations following LILETTA insertion [see Clinical Studies (14)].
 
 BMI/Body Weight:
 
-The effect of BMI on LNG exposure was assessed in 673 non-obese (BMI ≤ 30 kg/m2) and 219 obese women (BMI ≥ 30 kg/m2).
-Plasma LNG concentrations were approximately 24-32% lower in obese subjects than in non-obese subjects based on data collected from Months 36 to 72.
+The effect of BMI on LNG exposure was assessed in 687 non-obese (BMI < 30 kg/m2) and 225 obese participants (BMI ≥ 30 kg/m2).
+Plasma LNG concentrations were approximately 21-34% lower in obese participants than in non-obese participants based on data collected from Months 36 to 96.
 However, since LILETTA has a mainly local progestogenic effect in the uterine cavity, the clinical relevance of the reduced systemic exposure is unclear [see Clinical Studies (14)].
 
 Drug Interaction Studies
