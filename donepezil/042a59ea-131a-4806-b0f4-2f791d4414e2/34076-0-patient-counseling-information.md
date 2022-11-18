@@ -10,19 +10,23 @@ Advise patients and caregivers that donepezil hydrochloride may cause nausea, di
 
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
+Dispense with Patient Information available at: www.solcohealthcare.com/medguide/donepezil-tablets.pdf
+
 Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang, 317024, China
 
 Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Revised: 08/2020
+Revised: 03/2022
 
-200145-01
+200145-02
 
 DONEPEZIL HYDROCHLORIDE PATIENT PACKAGE INSERT
 
 Donepezil (doe NEP e zil) Hydrochloride Tablets, USP
 
 - •Tablets: 5 mg and 10 mg
+
+Dispense with Patient Information available at: www.solcohealthcare.com/medguide/donepezil-tablets.pdf
 
 Read this Patient Information that comes with donepezil hydrochloride before you start taking it and each time you get a refill.
 There may be new information.
@@ -89,7 +93,7 @@ Tell the responsible doctor or dentist that you take donepezil hydrochloride bef
 
 Know the medicines that you take.
 Keep a list of all your medicines.
-Show it to your doctor or pharmacist before you start a new medicine..
+Show it to your doctor or pharmacist before you start a new medicine.
 
 How should you take donepezil hydrochloride?
 
@@ -178,6 +182,6 @@ Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zheji
 
 Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Revised: 08/2020
+Revised: 03/2022
 
 Rx Only
