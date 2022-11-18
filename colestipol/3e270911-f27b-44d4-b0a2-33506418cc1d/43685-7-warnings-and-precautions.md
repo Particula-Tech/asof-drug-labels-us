@@ -63,10 +63,10 @@ If you have had swallowing problems or choking with food, liquids or other table
 
 It is important that you take COLESTID Tablets correctly:
 
-1. Always take one tablet at a time and swallow promptly.
-2. Swallow each tablet whole.
+1. 1.Always take one tablet at a time and swallow promptly.
+2. 2.Swallow each tablet whole.
    Do not cut, crush, or chew the tablets.
-3. COLESTID Tablets must be taken with water or another liquid that you prefer.
+3. 3.COLESTID Tablets must be taken with water or another liquid that you prefer.
    Swallowing the tablets will be easier if you drink plenty of liquid as you swallow each tablet.
 
 Difficulty swallowing and temporary obstruction of the esophagus (the tube between your mouth and stomach) have been rarely reported in patients taking COLESTID Tablets.
