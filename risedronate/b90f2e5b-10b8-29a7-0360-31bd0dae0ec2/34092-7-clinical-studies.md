@@ -17,28 +17,26 @@ The reduction in risk seen in the subgroup of patients who had 2 or more vertebr
 
 Table 3 The Effect of Risedronate SodiumTablets on the Risk of Vertebral Fractures
 
-| VERT MN | Placebo N = 678 | Risedronate Sodium Tablets 5 mg N = 696 |  | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Proportion of Patients with Fracture (%)a |  |  |  |  |  |
-| New and Worsening |  |  |  |  |  |  |
-| 0 - 1 Year | 7.2 | 3.9 |  | 3.3 | 49 |  |
-| 0 - 2 Years | 12.8 | 8.0 |  | 4.8 | 42 |  |
-| 0 - 3 Years | 18.5 | 13.9 |  | 4.6 | 33 |  |
-| New |  |  |  |  |  |  |
-| 0 - 1 Year | 6.4 | 2.4 |  | 4.0 | 65 |  |
-| 0 - 2 Years | 11.7 | 5.8 |  | 5.9 | 55 |  |
-| 0 - 3 Years | 16.3 | 11.3 |  | 5.0 | 41 |  |
-| VERT MN | Placebo N = 346 | Risedronate Sodium Tablets 5 mg N = 344 |  | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |  |
-| New and Worsening |  |  |  |  |  |  |
-| 0 - 1 Year | 15.3 | 8.2 |  | 7.1 | 50 |  |
-| 0 - 2 Years | 28.3 | 13.9 |  | 14.4 | 56 |  |
-| 0 - 3 Years | 34.0 | 21.8 |  | 12.2 | 46 |  |
-| New |  |  |  |  |  |  |
-| 0 - 1 Year | 13.3 | 5.6 |  | 7.7 | 61 |  |
-| 0 - 2 Years | 24.7 | 11.6 |  | 13.1 | 59 |  |
-| 0 - 3 Years | 29.0 | 18.1 |  | 10.9 | 49 |  |
-
-a Calculated by Kaplan-Meier methodology.
+| VERT MN | Placebo N = 678 | Risedronate Sodium Tablets 5 mg N = 696 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| --- | --- | --- | --- | --- |
+|  | Proportion of Patients with Fracture (%)Calculated by Kaplan-Meier methodology. |  |  |  |
+| New and Worsening |  |  |  |  |
+| 0 - 1 Year | 7.2 | 3.9 | 3.3 | 49 |
+| 0 - 2 Years | 12.8 | 8.0 | 4.8 | 42 |
+| 0 - 3 Years | 18.5 | 13.9 | 4.6 | 33 |
+| New |  |  |  |  |
+| 0 - 1 Year | 6.4 | 2.4 | 4.0 | 65 |
+| 0 - 2 Years | 11.7 | 5.8 | 5.9 | 55 |
+| 0 - 3 Years | 16.3 | 11.3 | 5.0 | 41 |
+| VERT MN | Placebo N = 346 | Risedronate Sodium Tablets 5 mg N = 344 | Absolute Risk Reduction (%) | Relative Risk Reduction (%) |
+| New and Worsening |  |  |  |  |
+| 0 - 1 Year | 15.3 | 8.2 | 7.1 | 50 |
+| 0 - 2 Years | 28.3 | 13.9 | 14.4 | 56 |
+| 0 - 3 Years | 34.0 | 21.8 | 12.2 | 46 |
+| New |  |  |  |  |
+| 0 - 1 Year | 13.3 | 5.6 | 7.7 | 61 |
+| 0 - 2 Years | 24.7 | 11.6 | 13.1 | 59 |
+| 0 - 3 Years | 29.0 | 18.1 | 10.9 | 49 |
 
 Effect on Osteoporosis-Related Nonvertebral Fractures In VERT MN and VERT NA, a prospectively planned efficacy endpoint was defined consisting of all radiographically confirmed fractures of skeletal sites accepted as associated with osteoporosis.
 Fractures at these sites were collectively referred to as osteoporosis-related nonvertebral fractures.
