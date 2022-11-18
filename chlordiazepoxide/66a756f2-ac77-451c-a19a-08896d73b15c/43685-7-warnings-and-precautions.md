@@ -90,7 +90,7 @@ Patients receiving chlordiazepoxide and amitriptyline hydrochloride tablets shou
 ## Neonatal Sedation and Withdrawal Syndrome
 
 Use of chlordiazepoxide and amitriptyline hydrochloride tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
-Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy or labor for signs of sedation and monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy for signs of withdrawal; manage these infants accordingly.
+Monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy or labor for signs of sedation and monitor neonates exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 # PRECAUTIONS
 
@@ -196,7 +196,7 @@ Healthcare providers are encouraged to register patients by calling the National
 
 ## Risk Summary
 
-Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -226,7 +226,7 @@ In addition, the majority of more recent case-control and cohort studies of benz
 
 It is not known whether this drug is excreted in human milk.
 There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
-Because of the potential for serious adverse reaction, including sedation and withdrawal symptoms in breastfed neonates and infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide and amitriptyline hydrochloride tablets.
+Because of the potential for serious adverse reactions, including sedation and withdrawal symptoms in breastfed infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide and amitriptyline hydrochloride tablets.
 
 ## Pediatric Use
 
