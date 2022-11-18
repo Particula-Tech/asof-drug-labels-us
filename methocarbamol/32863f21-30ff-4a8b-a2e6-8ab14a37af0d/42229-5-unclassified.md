@@ -24,6 +24,6 @@ Manufactured by: Prinston Laboratories
 
 3241 Woodpark Blvd, Charlotte, NC 28206
 
-Revised: 01/2021 9040321-04
+Revised: 06/2022 9040321-05
 
 Rx only
