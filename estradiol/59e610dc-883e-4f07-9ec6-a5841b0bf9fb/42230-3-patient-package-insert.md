@@ -163,7 +163,7 @@ The most common side effects of Divigel include:
 
 These are not all the possible side effects of Divigel.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
-You may report side effects to Vertical Pharmaceuticals, LLC at 1-877-482-3788 or to FDA at 1-800-FDA-1088.
+You may report side effects to Vertical Pharmaceuticals, LLC at 1-800-444-5164 or to FDA at 1-800-FDA-1088.
 
 What can I do to lower my chances of a serious side effect with Divigel?
 
@@ -207,10 +207,14 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by Orion Corporation Orion Pharma Tengströminkatu 8 FI-20360 Turku Finland
 
-Distributed by VERTICAL PHARMACEUTICALS, LLC Bridgewater, NJ 08807 USA www.verticalpharma.com Customer Service: 1-866-600-4799
+Distributed by VERTICAL PHARMACEUTICALS, LLC Alpharetta, GA 30005 USA
+
+1-800-444-5164
+
+www.verticalpharma.com
 
 Product of Finland
 
-© 2014 Vertical Pharmaceuticals, LLC
+© 2021 Vertical Pharmaceuticals, LLC
 
-151083-8 Revised 10/2020
+151083-10 Revised 04/2022
