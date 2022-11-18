@@ -4,14 +4,14 @@ Although failure of patients to show clinical improvement may reflect under dosa
 As is true of all cholinergic drugs, overdosage of pyridostigmine bromide may result in cholinergic crisis, a state characterized by increasing muscle weakness which, through involvement of the muscles of respiration, may lead to death.
 Myasthenic crisis due to an increase in the severity of the disease is also accompanied by extreme muscle weakness, and thus may be difficult to distinguish from cholinergic crisis on a symptomatic basis.
 Such differentiation is extremely important, since increases in doses of pyridostigmine bromide or other drugs of this class in the presence of cholinergic crisis or of a refractory or "insensitive" state could have grave consequences.
-Osserman and Genkins1 indicate that the differential diagnosis of the two types of crisis may require the use of TensilonTM (edrophonium chloride) as well as clinical judgment.
+Osserman and Genkins 1 indicate that the differential diagnosis of the two types of crisis may require the use of Tensilon TM (edrophonium chloride) as well as clinical judgment.
 The treatment of the two conditions obviously differs radically.
-Whereas the presence of myasthenic crisis suggests the need for more intensive anticholinesterase therapy, the diagnosis of cholinergic crisis, according to Osserman and Genkins1, calls for the prompt withdrawal of all drugs of this type.
+Whereas the presence of myasthenic crisis suggests the need for more intensive anticholinesterase therapy, the diagnosis of cholinergic crisis, according to Osserman and Genkins 1, calls for the prompt withdrawal of all drugs of this type.
 The immediate use of atropine in cholinergic crisis is also recommended.
 
 Atropine may also be used to abolish or obtund gastrointestinal side effects or other muscarinic reactions; but such use, by masking signs of overdosage, can lead to inadvertent induction of cholinergic crisis.
 
-For detailed information on the management of patients with myasthenia gravis, the physician is referred to one of the excellent reviews such as those by Osserman and Genkins2, Grob3 or Schwab4,5
+For detailed information on the management of patients with myasthenia gravis, the physician is referred to one of the excellent reviews such as those by Osserman and Genkins 2, Grob 3 or Schwab 4,5
 
 ## Usage in Pregnancy
 
@@ -21,7 +21,8 @@ Therefore, use of pyridostigmine bromide tablets in women who may become pregnan
 # PRECAUTIONS
 
 Pyridostigmine is mainly excreted unchanged by the kidney.
-6,7,8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.6,7
+6,7,8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.
+6,7
 
 ## Pediatric Use
 
