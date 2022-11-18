@@ -28,6 +28,8 @@ Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Entecavir during pregnancy [see Use in Specific Populations (8.1)].
 
+Dispense with Patient Information available at: www.solcohealthcare.com/medguide/entecavir-tablets.pdf
+
 Distributed by: Solco Healthcare US, LLC
 
 - Somerset, NJ 08873, USA
@@ -36,6 +38,6 @@ Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd.
 
 - Xunqiao, Linhai, Zhejiang, 317024, China
 
-Revised: 06/2020
+Revised: 01/2022
 
-200515-01
+200515-02

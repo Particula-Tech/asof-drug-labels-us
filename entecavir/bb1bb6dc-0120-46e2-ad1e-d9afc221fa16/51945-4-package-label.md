@@ -30,9 +30,9 @@ Solco Healthcare US, LLC
 
 Somerset, NJ 08873, USA
 
-Rev.:06/2020
+Rev.:01/2022
 
-201459-01
+201459-02
 
 # Package/Label Display Panel
 
@@ -66,6 +66,6 @@ Solco Healthcare US, LLC
 
 Somerset, NJ 08873, USA
 
-Rev.:06/2020
+Rev.:01/2022
 
-201461-01
+201461-02

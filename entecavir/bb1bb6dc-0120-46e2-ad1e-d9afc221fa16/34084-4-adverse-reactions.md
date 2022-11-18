@@ -145,18 +145,18 @@ The most commonly reported malignancy in both the entecavir and non-ETV groups w
 The data also showed that long-term entecavir use was not associated with a lower occurrence of HBV disease progression or a lower rate of death overall compared to other HBV nucleos(t)ides.
 The principal clinical outcome event assessments are shown in Table 6.
 
-| Table 6: Principal Analyses of Time to Adjudicated Events - Randomized Treated Subjects |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Endpointc | Number of Subjects with Events |  |  |  |
-| Entecavir N=6,216 |  | Non-ETV N=6,162 | Hazard Ratio [Entecavir:Non-ETV] (CIa) |  |
-| Primary Endpoints |  |  |  |  |
-| Overall malignant neoplasm | 331 | 337 |  | 0.93 (0.800, 1.084) |
-| Liver-related HBV disease progression | 350 | 375 |  | 0.89 (0.769, 1.030) |
-| Death | 238 | 264 |  | 0.89 (0.769, 1.030) |
-| Secondary Endpoints |  |  |  |  |
-| Non-HCC malignant neoplasm | 95 | 81 |  | 1.10 (0.817, 1.478) |
-| HCC | 240b | 263 |  | 0.87 (0.727, 1.032) |
-| Analyses were stratified by geographic region and prior HBV nucleos(t)ide experience. a 95.03% CI for overall malignant neoplasm, death, and liver-related HBV disease progression; 95% CI for non-HCC malignant neoplasm and HCC. b One subject had a pre-treatment HCC event and was excluded from the analysis. c Overall malignant neoplasm is a composite event of HCC or non-HCC malignant neoplasm. Liver-related HBV disease progression is a composite event of liver-related death, HCC, or non-HCC HBV disease progression. CI = confidence interval; N = total number of subjects. |  |  |  |  |
+| Table 6: Principal Analyses of Time to Adjudicated Events - Randomized Treated Subjects |  |  |  |
+| --- | --- | --- | --- |
+|  | Number of Subjects with Events |  |  |
+| Endpointc | Entecavir N=6,216 | Non-ETV N=6,162 | Hazard Ratio [Entecavir:Non-ETV] (CIa) |
+| Primary Endpoints |  |  |  |
+| Overall malignant neoplasm | 331 | 337 | 0.93 (0.800, 1.084) |
+| Liver-related HBV disease progression | 350 | 375 | 0.89 (0.769, 1.030) |
+| Death | 238 | 264 | 0.89 (0.769, 1.030) |
+| Secondary Endpoints |  |  |  |
+| Non-HCC malignant neoplasm | 95 | 81 | 1.10 (0.817, 1.478) |
+| HCC | 240b | 263 | 0.87 (0.727, 1.032) |
+| Analyses were stratified by geographic region and prior HBV nucleos(t)ide experience. a 95.03% CI for overall malignant neoplasm, death, and liver-related HBV disease progression; 95% CI for non-HCC malignant neoplasm and HCC. b One subject had a pre-treatment HCC event and was excluded from the analysis. c Overall malignant neoplasm is a composite event of HCC or non-HCC malignant neoplasm. Liver-related HBV disease progression is a composite event of liver-related death, HCC, or non-HCC HBV disease progression. CI = confidence interval; N = total number of subjects. |  |  |  |
 
 Limitations of the study included population changes over the long-term follow-up period and more frequent post-randomization treatment changes in the non-ETV group.
 In addition, the study was underpowered to demonstrate a difference in the non-HCC malignancy rate because of the lower than expected background rate.
