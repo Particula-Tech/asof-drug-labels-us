@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA079218"
+  ],
+  "inn": "levonorgestrel",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-3472-24"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levonorgestrel and ethinyl estradiol",
+      "name": "Amethyst"
+    }
+  ],
+  "setid": "99073fe0-eac8-44dd-abe6-623fa67d9e79",
+  "source": "dailymed"
+}

@@ -1,0 +1,131 @@
+# ADVERSE REACTIONS
+
+Postmarketing Experience:
+
+Five studies that compared breast cancer risk between ever-users (current or past use) of COCs and never-users of COCs reported no association between ever use of COCs and breast cancer risk, with effect estimates ranging from 0.90 to 1.12 (Figure 6).
+
+Three studies compared breast cancer risk between current or recent COC users (<6 months since last use) and never users of COCs (Figure 6).
+One of these studies reported no association between breast cancer risk and COC use.
+The other two studies found an increased relative risk of 1.19 to 1.33 with current or recent use.
+Both of these studies found an increased risk of breast cancer with current use of longer duration, with relative risks ranging from 1.03 with less than one year of COC use to approximately 1.4 with more than 8 to 10 years of COC use.
+
+Figure 6: Risk of Breast Cancer with Combined Oral Contraceptive Use
+
+RR = relative risk; OR = odds ratio; HR = hazard ratio.
+“ever COC” are females with current or past COC use; “never COC use” are females that never used COCs.
+
+An increased risk of the following serious adverse reactions (see WARNINGS section for additional information) has been associated with the use of oral contraceptives:
+
+• Thromboembolic and thrombotic disorders and other vascular problems (including thrombophlebitis and venous thrombosis with or without pulmonary embolism, mesenteric thrombosis, arterial thromboembolism, myocardial infarction, cerebral hemorrhage, cerebral thrombosis, transient ischemic attack)
+
+• Carcinoma of the reproductive organs and breasts
+
+• Hepatic neoplasia/liver disease (including hepatic adenomas or benign liver tumors)
+
+• Ocular lesions (including retinal vascular thrombosis)
+
+• Gallbladder disease
+
+• Carbohydrate and lipid effects
+
+• Elevated blood pressure
+
+• Headache including migraine
+
+The following adverse reactions have been reported in patients receiving oral contraceptives and are believed to be drug related (alphabetically listed):
+
+• Acne
+
+• Amenorrhea
+
+• Anaphylactic/anaphylactoid reactions, including urticaria, angioedema, and severe reactions with respiratory and circulatory symptoms
+
+• Breast changes: tenderness, pain, enlargement, secretion
+
+• Budd-Chiari syndrome
+
+• Cervical erosion and secretion, change in
+
+• Cholestatic jaundice
+
+• Chorea, exacerbation of
+
+• Colitis
+
+• Contact lenses, intolerance to
+
+• Corneal curvature (steepening), change in
+
+• Dizziness
+
+• Edema/fluid retention
+
+• Erythema multiforme
+
+• Erythema nodosum
+
+• Focal nodular hyperplasia
+
+• Gastrointestinal symptoms (such as abdominal pain, cramps, and bloating)
+
+• Hirsutism
+
+• Infertility after discontinuation of treatment, temporary
+
+• Lactation, diminution in, when given immediately postpartum
+
+• Libido, change in
+
+• Melasma/chloasma which may persist
+
+• Menstrual flow, change in
+
+• Mood changes, including depression
+
+• Nausea
+
+• Nervousness
+
+• Pancreatitis
+
+• Porphyria, exacerbation of
+
+• Rash (allergic)
+
+• Scalp hair, loss of
+
+• Serum folate levels, decrease in
+
+• Spotting
+
+• Systemic lupus erythematosus, exacerbation of
+
+• Unscheduled bleeding
+
+• Vaginitis, including candidiasis
+
+• Varicose veins, aggravation of
+
+• Vomiting
+
+• Weight or appetite (increase or decrease), change in
+
+The following adverse reactions have been reported in users of oral contraceptives:
+
+• Cataracts
+
+• Cystitis-like syndrome
+
+• Dysmenorrhea
+
+• Hemolytic uremic syndrome
+
+• Hemorrhagic eruption
+
+• Optic neuritis, which may lead to partial or complete loss of vision
+
+• Premenstrual syndrome
+
+• Renal function, impaired
+
+To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
