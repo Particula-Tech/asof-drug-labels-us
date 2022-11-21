@@ -4,7 +4,6 @@
 
 Starting Dose for Adult Patients Not Taking a Phosphate Binder.
 The recommended starting dose of sevelamer carbonate for oral suspension is 0.8 to 1.6 g taken orally with meals based on serum phosphorus level.
-
 Table 1 provides recommended starting doses of sevelamer carbonate for oral suspension for adult patients not taking a phosphate binder.
 
 Table 1: Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder

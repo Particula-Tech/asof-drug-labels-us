@@ -33,7 +33,7 @@ Figure 2: Change in Serum Phosphorus (mg/dL) from Baseline to Week 2 by Subgroup
 
 ## 14.4 Sevelamer Hydrochloride versus Active-Control, Cross-Over Study in Hemodialysis Patients
 
-Eighty-four CKD patients on hemodialysis who were hyperphosphatemic (serum phosphorus > 6.0 mg/dL) following a two-week phosphate binder washout period were randomized in a cross-over design to receive in random order sevelamer hydrochloride and active control for eight weeks each.
+Eighty-four CKD patients on hemodialysis who were hyperphosphatemic (serum phosphorus >6.0 mg/dL) following a two-week phosphate binder washout period were randomized in a cross-over design to receive in random order sevelamer hydrochloride and active control for eight weeks each.
 Treatment periods were separated by a two-week phosphate binder washout period.
 Patients started on treatment three times per day with meals.
 Over each eight-week treatment period, at three separate time points the dose of sevelamer hydrochloride could be titrated up to control serum phosphorus, the dose of active control could also be altered to attain phosphorus control.
@@ -46,7 +46,7 @@ Table 6: Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 | Baseline at End of Washout | 8.4 | 8.0 |
 | Endpoint | 6.4 | 5.9 |
 | Change from Baseline at Endpoint (95% Confidence Interval) | -2.0* (-2.5, -1.5) | -2.1* (-2.6, -1.7) |
-| *p<0.0001, within treatment group comparison |  |  |
+| * p<0.0001, within treatment group comparison |  |  |
 
 The distribution of responses is shown in Figure 3.
 The distributions are similar for sevelamer hydrochloride and active control.
@@ -83,5 +83,5 @@ The initial dose for the two groups was 4.8 g/day.
 At the end of the study, the total daily dose was 6.2 g/day of sevelamer carbonate powder once daily and 6.7 g/day of sevelamer hydrochloride tablets three times per day.
 A greater percentage of subjects on the once-daily dose than three-times-per-day regimen discontinued therapy prematurely, 35% versus 15%.
 The reasons for discontinuation were largely driven by adverse events and withdrawal of consent in the once-daily dosing regimen.
-Serum phosphate levels and calcium-phosphate product were better controlled on the three-times-per-day regimen than on the once-daily regimen.
+Serum phosphate levels and calcium-phosphate product were better controlled on the three-times- per-day regimen than on the once-daily regimen.
 Mean serum phosphorus decreased 2.0 mg/dL for sevelamer carbonate powder once daily and 2.9 mg/dL for sevelamer hydrochloride tablets three times per day.
