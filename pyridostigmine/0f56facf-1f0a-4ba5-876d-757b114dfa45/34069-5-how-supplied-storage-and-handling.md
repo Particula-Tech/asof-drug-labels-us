@@ -10,5 +10,6 @@ Bottles of 500: NDC 0115-3511-02
 
 IMPORTANT: These tablets are hygroscopic.
 Keep in a dry place with the silica gel enclosed.
+
 Dispense in a tightly-closed, light-resistant container as defined in the USP, with a child-resistant closure, as required.
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
