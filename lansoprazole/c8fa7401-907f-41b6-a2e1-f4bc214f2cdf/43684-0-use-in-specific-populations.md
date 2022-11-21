@@ -123,7 +123,7 @@ One patient remained unhealed after 12 weeks of treatment (Table 5).
 Table 5.
 GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 12 Years to 17 Years of Age
 
-| GERD | Final Visit% (n/N) |
+| GERD | Final Visit % (n/N) |
 | --- | --- |
 | Symptomatic GERD (All Patients) |  |
 | Improvement in Overall GERD SymptomsSymptoms assessed by patient diary (parents/caregivers as necessary). | 73.2% (60/82)No data available for five patients. |

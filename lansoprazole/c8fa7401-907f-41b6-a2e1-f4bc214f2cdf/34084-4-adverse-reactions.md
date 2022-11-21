@@ -5,10 +5,11 @@ The following serious adverse reactions are described below and elsewhere in lab
 - •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
 - •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
 - •Bone Fracture [see Warnings and Precautions (5.4)]
-- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.5)]
-- •Cyanocobalamin (Vitamin B12) Deficiency [see Warnings and Precautions (5.6)]
-- •Hypomagnesemia [see Warnings and Precautions (5.7)]
-- •Fundic Gland Polyps [see Warnings and Precautions (5.11)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B12) Deficiency [see Warnings and Precautions (5.7)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -82,11 +83,11 @@ Hemic and Lymphatic System: agranulocytosis, aplastic anemia, hemolytic anemia, 
 
 Infections and Infestations: Clostridium difficile-associated diarrhea;
 
-Metabolism and Nutritional Disorders: hypomagnesemia;
+Metabolism and Nutritional Disorders: hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia;
 
 Musculoskeletal System: bone fracture, myositis;
 
-Skin and Appendages: severe dermatologic reactions including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis (some fatal), cutaneous lupus erythematosus;
+Skin and Appendages: severe dermatologic reactions including erythema multiforme, SJS/TEN (some fatal), DRESS, AGEP, cutaneous lupus erythematosus;
 
 Special Senses: speech disorder;
 
