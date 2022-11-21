@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tablets: Renvela® (sevelamer carbonate) tablets, for oral use is supplied as white oval, film-coated, compressed tablets, imprinted with RENVELA 800, containing 800 mg of sevelamer carbonate on an anhydrous basis.
+Tablets: Renvela® (sevelamer carbonate) tablets, for oral use is supplied as white oval, film-coated, compressed tablets, engraved with RV800 on one side, containing 800 mg of sevelamer carbonate on an anhydrous basis.
 
-1 Bottle of 270 ct 800 mg tablets (NDC 58468-0130-1)
+1 Bottle of 270 ct 800 mg tablets (NDC 58468-0133-1)
 
 Powder: Renvela® (sevelamer carbonate) for oral suspension is supplied as opaque, foil-lined, heat-sealed, packets containing 0.8 g or 2.4 g of sevelamer carbonate on an anhydrous basis.
 

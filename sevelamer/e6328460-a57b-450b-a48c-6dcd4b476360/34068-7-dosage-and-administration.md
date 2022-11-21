@@ -56,7 +56,7 @@ Place the sevelamer carbonate powder in a cup and suspend in the amount of water
 
 Table 4: Sevelamer Carbonate Powder Preparation Instructions
 
-|  | Ounces | mL | Tablespoons |
+| Ounces | mL | Tablespoons |  |
 | --- | --- | --- | --- |
 | Amount of Renvela Powder | Minimum Amount of Water for Dose Preparation (either ounces, mL, or tablespoon) |  |  |
 | 0.4 g | 1 | 30 | 2 |
