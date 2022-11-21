@@ -1,12 +1,8 @@
-Manufactured by:
+All trademarks are the property of their respective owners.
 
-Norwich Pharmaceuticals, Inc.
+Manufactured by: Norwich Pharmaceuticals, Inc. Norwich, NY 07960 USA
 
-Norwich, NY 07960 USA
-
-Distributed by:
-
-Almatica Pharma, LLC Morristown, NJ 07960 USA
+Distributed by: Almatica Pharma, LLC Morristown, NJ 07960 USA
 
 Product of Italy
 

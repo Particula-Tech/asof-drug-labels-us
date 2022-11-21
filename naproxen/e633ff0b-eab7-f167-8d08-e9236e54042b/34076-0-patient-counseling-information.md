@@ -29,5 +29,3 @@ Avoid Concomitant Use of NSAIDs Inform patients that the concomitant use of NAPR
 Alert patients that NSAIDs may be present in “over the counter” medications for treatment of colds, fever, or insomnia.
 
 Use of NSAIDS and Low-Dose Aspirin Inform patients not to use low-dose aspirin concomitantly with NAPRELAN until they talk to their healthcare provider [see Drug Interactions (7)].
-
-All trademarks are the property of their respective owners.
