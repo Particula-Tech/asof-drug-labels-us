@@ -10,14 +10,14 @@ After the first dose of fingolimod, the heart rate decrease starts within an hou
 On Day 1, the maximum decline in heart rate generally occurs within 6 hours and recovers, although not to baseline levels, by 8 to 10 hours postdose.
 Because of physiological diurnal variation, there is a second period of heart rate decrease within 24 hours after the first dose.
 In some patients, heart rate decrease during the second period is more pronounced than the decrease observed in the first 6 hours.
-Heart rates below 40 beats per minute (bpm) in adults occurred rarely.
+Heart rates below 40 beats per minute (bpm) in adults, and below 50 bpm in pediatric patients occurred rarely.
 In controlled clinical trials in adult patients, adverse reactions of symptomatic bradycardia following the first dose were reported in 0.6% of patients receiving fingolimod 0.5 mg and in 0.1% of patients on placebo.
 Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.
 
 Patients with some preexisting conditions (e.g., ischemic heart disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, cerebrovascular disease, uncontrolled hypertension, history of symptomatic bradycardia, history of recurrent syncope, severe untreated sleep apnea, AV block, sinoatrial heart block) may poorly tolerate the fingolimod-induced bradycardia, or experience serious rhythm disturbances after the first dose of fingolimod.
 Prior to treatment with fingolimod, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and if treated with fingolimod, should be monitored overnight with continuous ECG in a medical facility after the first dose.
 
-Since initiation of fingolimod treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult males, > 470 msec adult females) before dosing or during 6-hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility
+Since initiation of fingolimod treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6-hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility
 
 Following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
 With continued dosing, the heart rate returns to baseline within 1 month of chronic treatment.
@@ -39,9 +39,6 @@ In the postmarketing setting, third-degree AV block and AV block with junctional
 Isolated delayed onset events, including transient asystole and unexplained death, have occurred within 24 hours of the first dose.
 These events were confounded by concomitant medications and/or preexisting disease, and the relationship to fingolimod is uncertain.
 Cases of syncope were also reported after the first dose of fingolimod.
-
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 5.2 Infections
 

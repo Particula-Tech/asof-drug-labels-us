@@ -67,5 +67,35 @@ Table 3: Clinical and MRI Results of Study 2
 
 Pooled results of study 1 and study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
 
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+## 14.2 Pediatric Patients (10 to less than 18 Years of Age)
+
+Study 4 (NCT 01892722) evaluated the efficacy of once-daily oral doses of fingolimod 0.25 mg or fingolimod 0.5 mg in pediatric patients 10 to less than 18 years of age with relapsing-remitting multiple sclerosis.
+Study 4 was a 215-patient, double-blind, randomized, clinical trial that compared fingolimod to intramuscular interferon beta-1a.
+Prior therapy with interferon-beta, dimethyl fumarate, or glatiramer acetate up to the time of randomization was permitted.
+The study included patients who had experienced at least 1 clinical relapse during the year prior or 2 relapses during the 2 years prior to screening, or evidence of 1 or more Gd-enhancing lesions on MRI within 6 months prior to randomization, and had an EDSS score from 0 to 5.5.
+Neurological evaluations were scheduled at screening, every 3 months, and at the time of suspected relapses.
+MRI evaluations were performed at screening and every 6 months throughout the study.
+The primary endpoint was the annualized relapse rate.
+
+At baseline, the median age was 16 years, median disease duration since first symptom was 1.5 years, and median EDSS score was 1.5.
+One patient received no study drug and is excluded from the analysis of efficacy.
+Median duration of exposure to study drug was 634 days in the fingolimod group (n = 107) and 547 days in the interferon beta-1a group (n = 107).
+In the fingolimod group, 6.5% of patients did not complete the study, compared to 18.5% in the interferon beta-1a group.
+
+The primary endpoint, the annualized relapse rate (ARR), was significantly lower in patients treated with fingolimod (0.122) than in patients who received interferon beta-1a (0.675).
+Relative reduction in ARR was 81.9%.
+The annualized rate of the number of new or newly enlarged T2 lesions up to month 24 (key secondary endpoint) was significantly lower in patients treated with fingolimod, as was the number of Gd-enhancing T1 lesions per scan up to month 24.
+
+Table 4 summarizes the results of Study 4.
+
+Table 4: Clinical and MRI Results of Study 4
+
+|  | Fingolimod 0.25 or 0.5 mg PO N = 107 | Interferon beta-1a 30 mcg IM N = 107 | p-value | Relative Reduction |
+| --- | --- | --- | --- | --- |
+| Clinical endpoints |  |  |  |  |
+| Annualized relapse rate (primary endpoint) | 0.122 | 0.675 | < 0.001 * | 81.9% |
+| Percent of patients remaining relapse-free at 24 months | 86.0% | 45.8% |  |  |
+| MRI endpoints |  |  |  |  |
+| Annualized rate of the number of new or newly enlarging T2 lesions | 4.393 | 9.269 | < 0.001 * | 52.6% |
+| Mean number of Gd-enhancing T1 lesions per scan up to Month 24 | 0.436 | 1.282 | < 0.001 * | 66.0% |
+| All analyses of clinical endpoints were on full analysis set. MRI analyses used the evaluable dataset. *Indicates statistical significance vs. Interferon beta-1a IM at two-sided 0.05 level. |  |  |  |  |

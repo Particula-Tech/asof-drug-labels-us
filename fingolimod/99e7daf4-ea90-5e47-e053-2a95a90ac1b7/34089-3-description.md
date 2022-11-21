@@ -12,5 +12,5 @@ Fingolimod capsules are provided as 0.5 mg hard gelatin capsules for oral use.
 
 Each capsule contains 0.56 mg of fingolimod hydrochloride, equivalent to 0.5 mg of fingolimod.
 
-Each capsule contains the following inactive ingredients: corn starch, magnesium stearate, pregelatinized starch.
+Each capsule contains the following inactive ingredients: magnesium stearate, pregelatinized starch.
 The capsule shells have the following inactive ingredients: black iron oxide, gelatin, potassium hydroxide, shellac and titanium dioxide.

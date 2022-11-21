@@ -28,20 +28,17 @@ It is recommended that pediatric patients if possible, complete all immunization
 ## 2.2 Important Administration Instructions
 
 Patients who initiate fingolimod, and those who reinitiate treatment after discontinuation for longer than 14 days, require first-dose monitoring.
+This monitoring is also recommended when the dose is increased in pediatric patients [see Dosage and Administration (2.4, 2.5)]
 
 Fingolimod capsules can be taken with or without food.
 
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 2.3 Recommended Dosage
 
-In adults, the recommended dosage of fingolimod capsule is 0.5 mg orally once-daily.
+In adults and pediatric patients 10 years of age and older weighing more than 40 kg, the recommended dosage of fingolimod capsule is 0.5 mg orally once-daily.
+
+In pediatric patients 10 years of age and older weighing less than or equal to 40 kg, the recommended dosage of fingolimod capsule is 0.25 mg orally once daily.
 
 Fingolimod doses higher than 0.5 mg are associated with a greater incidence of adverse reactions without additional benefit.
-
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.4 First-Dose Monitoring
 
@@ -57,7 +54,7 @@ Additional Monitoring after 6-Hour Monitoring
 
 Continue monitoring until the abnormality resolves if any of the following is present (even in the absence of symptoms) after 6 hours:
 
-- The heart rate 6 hours postdose is less than 45 bpm in adults
+- The heart rate 6 hours postdose is less than 45 bpm in adults, less than 55 bpm in pediatric patients 12 years of age and older, or less than 60 bpm in pediatric patients 10 or 11 years of age
 - The heart rate 6 hours postdose is at the lowest value postdose suggesting that the maximum pharmacodynamic effect on the heart may not have occurred
 - The ECG 6 hours postdose shows new onset second degree or higher AV block.
 
@@ -73,9 +70,6 @@ Continuous overnight ECG monitoring in a medical facility should be instituted:
 - in patients with some preexisting heart and cerebrovascular conditions [see Warnings and Precautions (5.1)]
 - in patients with a prolonged QTc interval before dosing or during 6-hour observation, or at additional risk for QT prolongation, or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes [see Warnings and Precautions (5.1), Drug Interactions (7.1)]
 - in patients receiving concurrent therapy with drugs that slow heart rate or AV conduction [see Drug Interactions (7.5)].
-
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 2.5 Monitoring After Reinitiation of Therapy Following Discontinuation
 

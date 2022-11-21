@@ -92,8 +92,11 @@ Cases of seizures, including status epilepticus, have been reported with the use
 In adult clinical trials, the rate of seizures was 0.9% in fingolimod-treated patients and 0.3% in placebo-treated patients.
 It is unknown whether these events were related to the effects of multiple sclerosis alone, to fingolimod, or to a combination of both.
 
-Pediatric use information is approved for Novartis Pharmaceuticals Corporation’s GILENYA (fingolimod) capsules.
-However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Patients 10 Years of Age and Older
+
+In the controlled pediatric trial (Study 4), the safety profile in pediatric patients receiving fingolimod 0.25 mg or 0.5 mg daily was similar to that seen in adult patients.
+
+In the pediatric study, cases of seizures were reported in 5.6% of fingolimod-treated patients and 0.9% of interferon beta-1a-treated patients [see Use in Specific Populations (8.4)].
 
 ## 6.2 Postmarketing Experience
 

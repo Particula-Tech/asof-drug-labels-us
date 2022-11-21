@@ -45,9 +45,9 @@ Advise patients that they should contact their physician if they experience new 
 
 Fetal Risk
 
-Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
-Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod and for two months after the final dose [see Use in Specific Populations (8.3)].
+- Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
+  Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
+- Advise female patients of reproductive potential to use effective contraception during treatment with fingolimod and for two months after the final dose [see Use in Specific Populations (8.3)].
 
 Severe Increase in Disability After Stopping Fingolimod
 
@@ -87,4 +87,6 @@ Distributed by:
 
 Rising Pharmaceuticals, Inc.
 
-Saddle Brook, NJ 07663
+East Brunswick, NJ 08816
+
+October 2022 5362
