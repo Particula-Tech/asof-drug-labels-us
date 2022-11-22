@@ -10,7 +10,7 @@ When pregnancy is detected, discontinue olmesartan medoxomil tablets as soon as 
 
 ## 5.2 Morbidity in Infants
 
-Use of olmesartan medoxomil tablets in children <1 year is not recommended.
+Use of olmesartan medoxomil tablets in children <1 year of age is not recommended.
 Drugs that act directly on the renin-angiotensin-aldosterone system (RAAS) can have effects on the development of immature kidneys [see Use in Specific Populations (8.4)].
 
 ## 5.3 Hypotension in Volume- or Salt-Depleted Patients
@@ -23,7 +23,7 @@ A transient hypotensive response is not a contraindication to further treatment,
 ## 5.4 Impaired Renal Function
 
 As a consequence of inhibiting the renin-angiotensin-aldosterone system, changes in renal function may be anticipated in susceptible individuals treated with olmesartan medoxomil tablets In patients whose renal function may depend upon the activity of the renin-angiotensin-aldosterone system (e.g., patients with severe congestive heart failure), treatment with angiotensin converting enzyme (ACE) inhibitors and angiotensin receptor antagonists has been associated with oliguria and/or progressive azotemia and rarely with acute renal failure and/or death.
-Similar results may be anticipated in patients treated with olmesartan medoxomil tablets [see Dosage and Administration (2.1) Drug Interactions (7.3), Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+Similar results may be anticipated in patients treated with olmesartan medoxomil tablets [see Dosage and Administration (2.1), Drug Interactions (7.3), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 In studies of ACE inhibitors in patients with unilateral or bilateral renal artery stenosis, increases in serum creatinine or blood urea nitrogen (BUN) have been reported.
 There has been no long-term use of olmesartan medoxomil tablets in patients with unilateral or bilateral renal artery stenosis, but similar results may be expected.
 

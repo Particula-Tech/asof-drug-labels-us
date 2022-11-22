@@ -24,7 +24,7 @@ Avoid use of aliskiren with olmesartan medoxomil tablets in patients with renal 
 
 ## 7.4 Lithium
 
-Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including olmesartan medoxomil.
+Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including olmesartan medoxomil tablets.
 Monitor serum lithium levels during concomitant use.
 
 ## 7.5 Colesevelam Hydrochloride

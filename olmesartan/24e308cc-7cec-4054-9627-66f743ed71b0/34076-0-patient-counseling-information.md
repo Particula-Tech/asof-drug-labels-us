@@ -8,5 +8,9 @@ Lactation: Advise nursing women not to breastfeed during treatment with olmesart
 
 Hyperkalemia: Advise patients not to use potassium supplements or salt substitutes that contain potassium without consulting their healthcare provider [see Drug Interactions (7.1)].
 
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
-Revised: November 2019
+Manufactured for: Macleods Pharma USA, Inc.
+
+Princeton, NJ 08540
+
+Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA.
+Revised: November 2022
