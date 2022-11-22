@@ -38,9 +38,11 @@ Insertion with the applicator:
 
 Insertion without the applicator:
 
-1. Remove the vaginal ovule from its packaging (See Figure 1).
-2. Holding the ovule with your thumb and a finger, insert it into the vagina.
-3. Using your finger, gently push the ovule into the vagina as far as it will comfortably go.
+1. Remove the vaginal ovule from its packaging (See Figure 1 above).
+2. Holding the ovule with your thumb and a finger, insert it into the vagina (See Figure 4).
+   Figure 4
+3. Using your finger, gently push the ovule into the vagina as far as it will comfortably go (See Figure 5).
+   Figure 5
 4. Once inside the vagina, the ovule melts.
    Lie down as soon as possible.
    This will keep leakage to a minimum.
@@ -53,4 +55,4 @@ Caution: Avoid heat over 30°C (86°F).
 Avoid high humidity.
 See end of carton for the lot number and expiration date.
 
-LAB-0649-1.0 Revised December 2012
+LAB-0649-2.0 Revised July 2022
