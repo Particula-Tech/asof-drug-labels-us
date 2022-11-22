@@ -6,7 +6,7 @@ Each bottle contains 150 mL.
 
 NDC 52652-4001-1
 
-Store refrigerated (2°-8°C/36°-46°F) in a tightly closed container.
-Patients may store EPANED either refrigerated (2°-8°C/36°-46°F) or at room temperature (20°-25°C/68°-77°F).
+Store refrigerated (2°C-8°C/36°F-46°F) in a tightly closed container.
+Patients may store EPANED either refrigerated (2°C-8°C/36°F-46°F) or at room temperature (20°C-25°C/68°F-77°F).
 If stored at room temperature, discard after 60 days.
 Avoid freezing and excessive heat.
