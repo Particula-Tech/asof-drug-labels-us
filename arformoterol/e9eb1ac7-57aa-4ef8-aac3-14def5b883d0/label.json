@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA216128"
+  ],
+  "inn": "arformoterol",
+  "labeler": "Lifestar Pharma LLC",
+  "package_ndcs": [
+    "70756-612-12",
+    "70756-612-44",
+    "70756-612-60",
+    "70756-612-70"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "arformoterol tartrate",
+      "name": "arformoterol tartrate"
+    }
+  ],
+  "setid": "e9eb1ac7-57aa-4ef8-aac3-14def5b883d0",
+  "source": "dailymed"
+}
