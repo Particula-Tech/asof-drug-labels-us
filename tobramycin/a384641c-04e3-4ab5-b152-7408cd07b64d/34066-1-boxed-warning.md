@@ -23,7 +23,7 @@ Blood urea nitrogen, serum creatinine, and creatinine clearance should be measur
 When feasible, it is recommended that serial audiograms be obtained in patients old enough to be tested, particularly high-risk patients.
 Evidence of impairment of renal, vestibular, or auditory function requires discontinuation of the drug or dosage adjustment.
 
-Tobramycin for Injection should be used with caution in premature and neonatal infants because of their renal immaturity and the resulting prolongation of serum half-life of the drug.
+Tobramycin should be used with caution in premature and neonatal infants because of their renal immaturity and the resulting prolongation of serum half-life of the drug.
 
 Concurrent and sequential use of other neurotoxic and/or nephrotoxic antibiotics, particularly other aminoglycosides (eg. amikacin, streptomycin, neomycin, kanamycin, gentamicin, and paromomycin), cephaloridine, viomycin, polymyxin B, colistin, cisplatin, and vancomycin, should be avoided.
 Other factors that may increase patient risk are advanced age and dehydration.

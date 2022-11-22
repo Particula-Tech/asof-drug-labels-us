@@ -1,6 +1,6 @@
 # WARNINGS
 
-See WARNINGS box above.
+See WARNINGSbox above.
 
 This product contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
@@ -23,13 +23,18 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+Risk of Ototoxicity Due to Mitochondrial DNA Variants Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
+
 # PRECAUTIONS
 
 ## General
 
 Prescribing tobramycin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Serum and urine specimens for examination should be collected during therapy, as recommended in the WARNINGS box.
+Serum and urine specimens for examination should be collected during therapy, as recommended in the WARNINGSbox.
 Serum calcium, magnesium, and sodium should be monitored.
 
 Peak and trough serum levels should be measured periodically during therapy.
@@ -39,7 +44,7 @@ Such accumulation, advanced age, and cumulative dosage may contribute to ototoxi
 It is particularly important to monitor serum levels closely in patients with known renal impairment.
 
 A useful guideline would be to perform serum level assays after 2 or 3 doses, so that the dosage could be adjusted if necessary, and at 3- to 4-day intervals during therapy.
-In the event of changing renal function, more frequent serum levels should be obtained and the dosage or the dosage interval adjusted according to the guidelines provided in the DOSAGE AND ADMINISTRATION section.
+In the event of changing renal function, more frequent serum levels should be obtained and the dosage or the dosage interval adjusted according to the guidelines provided in the DOSAGE AND ADMINISTRATIONsection.
 
 In order to measure the peak level, a serum sample should be drawn about 30 minutes following intravenous infusion or 1 hour after an intramuscular injection.
 Trough levels are measured by obtaining serum samples at 8 hours or just prior to the next dose of tobramycin.
@@ -77,6 +82,8 @@ Such inactivation has not been found in patients with normal renal function who 
 Therapy with tobramycin may result in overgrowth of nonsusceptible organisms.
 If overgrowth of nonsusceptible organisms occurs, appropriate therapy should be initiated.
 
+Tobramycin 40 mg/mL in 50 mL Pharmacy Bulk Package vial does not contain sodium.
+
 ## Pregnancy Category D
 
 Aminoglycosides can cause fetal harm when administered to a pregnant woman.
@@ -86,21 +93,19 @@ If tobramycin is used during pregnancy or if the patient becomes pregnant while 
 
 ## Pediatric Use
 
-See INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION.
+See INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION.
 
 ## Geriatric Use
 
 Elderly patients may be at a higher risk of developing nephrotoxicity and ototoxicity while receiving tobramycin (see WARNINGS, PRECAUTIONS, and OVERDOSAGE).
 Other factors that may contribute to nephrotoxicity and ototoxicity are rising trough levels, excessive peak concentrations, dehydration, concomitant use of other neurotoxic or nephrotoxic drugs, and cumulative dose.
-Peak and trough serum levels should be measured periodically during therapy to assure adequate levels and to avoid potentially toxic levels (see WARNINGS and PRECAUTIONS).
+Peak and trough serum levels should be measured periodically during therapy to assure adequate levels and to avoid potentially toxic levels (see WARNINGSand PRECAUTIONS).
 
 Tobramycin is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Dose reduction is required for patients with impaired renal function (see DOSAGE AND ADMINISTRATION).
 Elderly patients may have reduced renal function that may not be evident in the results of routine screening tests, such as BUN or serum creatinine.
 A creatinine clearance determination may be more useful.
 Monitoring of renal function during treatment with aminoglycosides is particularly important in the elderly (see PRECAUTIONS).
-
-Tobramycin 40 mg/mL in 50 mL Pharmacy Bulk Package vial does not contain sodium.
 
 ## Information for Patients
 

@@ -9,23 +9,41 @@ It is desirable to measure both peak and trough serum concentrations (see WARNIN
 
 ## Administration for Patients With Normal Renal Function
 
-### Adults With Serious Infections
+Adults with Serious Infections: 3 mg/kg/day in 3 equal doses every 8 hours (see Table 1).
 
-3 mg/kg/day in 3 equal doses every 8 hours (see Table 3).
-
-### Adults With Life-Threatening Infections
-
-Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 3).
+Adults With Life-Threatening Infections: Up to 5 mg/kg/day may be administered in 3 or 4 equal doses (see Table 1).
 The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
 To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
-### Pediatric Patients (greater than 1 week of age)
+Table 1.
+DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN INJECTION, USP IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
 
-6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
+| For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life-Threatening Injections(Reduce as soon as possible) |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| kg | lb | 1 mg/kg q8h (Total, 3 mg/kg/day) |  |  | 1.66 mg/kg q8h(Total, 5 mg/kg/day) |  |  |
+|  |  | mg/dose |  | mL/dose | mg/dose |  | mL/dose |
+|  |  |  | q8h |  |  | q8h |  |
+| 120 | 264 | 120 mg |  | 3 mL | 200 mg |  | 5 mL |
+| 115 | 253 | 115 mg |  | 2.9 mL | 191 mg |  | 4.75 mL |
+| 110 | 242 | 110 mg |  | 2.75 mL | 183 mg |  | 4.5 mL |
+| 105 | 231 | 105 mg |  | 2.6 mL | 175 mg |  | 4.4 mL |
+| 100 | 220 | 100 mg |  | 2.5 mL | 166 mg |  | 4.2 mL |
+| 95 | 209 | 95 mg |  | 2.4 mL | 158 mg |  | 4 mL |
+| 90 | 198 | 90 mg |  | 2.25 mL | 150 mg |  | 3.75 mL |
+| 85 | 187 | 85 mg |  | 2.1 mL | 141 mg |  | 3.5 mL |
+| 80 | 176 | 80 mg |  | 2 mL | 133 mg |  | 3.3 mL |
+| 75 | 165 | 75 mg |  | 1.9 mL | 125 mg |  | 3.1 mL |
+| 70 | 154 | 70 mg |  | 1.75 mL | 116 mg |  | 2.9 mL |
+| 65 | 143 | 65 mg |  | 1.6 mL | 108 mg |  | 2.7 mL |
+| 60 | 132 | 60 mg |  | 1.5 mL | 100 mg |  | 2.5 mL |
+| 55 | 121 | 55 mg |  | 1.4 mL | 91 mg |  | 2.25 mL |
+| 50 | 110 | 50 mg |  | 1.25 mL | 83 mg |  | 2.1 mL |
+| 45 | 99 | 45 mg |  | 1.1 mL | 75 mg |  | 1.9 mL |
+| 40 | 88 | 40 mg |  | 1 mL | 66 mg |  | 1.6 mL |
 
-### Premature or Full-Term Neonates 1 Week of Age or Less
+Pediatric Patients (greater than 1 week of age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
-Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
+Premature or Full-Term Neonates 1 Week of Age or Less: Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
 
 It is desirable to limit treatment to a short term.
 The usual duration of treatment is 7 to 10 days.
@@ -52,13 +70,13 @@ Neither method should be used when dialysis is being performed.
 
 ## Reduced Dosage at 8-hour Intervals
 
-When the creatinine clearance rate is 70 mL or less per minute or when the serum creatinine value is known, the amount of the reduced dose can be determined by multiplying the normal dose from Table 3 by the percent of normal dose from the accompanying nomogram.
+When the creatinine clearance rate is 70 mL or less per minute or when the serum creatinine value is known, the amount of the reduced dose can be determined by multiplying the normal dose from Table 1by the percent of normal dose from the accompanying nomogram.
 
 An alternate rough guide for determining reduced dosage at 8-hour intervals (for patients whose steady-state serum creatinine values are known) is to divide the normally recommended dose by the patient’s serum creatinine.
 
 ## Normal Dosage at Prolonged Intervals
 
-If the creatinine clearance rate is not available and the patient’s condition is stable, a dosage frequency in hours for the dosage given in Table 3 can be determined by multiplying the patient’s serum creatinine by 6.
+If the creatinine clearance rate is not available and the patient’s condition is stable, a dosage frequency in hours for the dosage given in Table 1can be determined by multiplying the patient’s serum creatinine by 6.
 
 ## Dosage in Obese Patients
 
@@ -69,13 +87,15 @@ The appropriate dose may be calculated by using the patient’s estimated lean b
 For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
 For pediatric patients, the volume of diluent should be proportionately less than that for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
-Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see Warnings box).
+Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see Warningsbox).
 
-Tobramycin for injection, USP should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
+Tobramycin for Injection, USP should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-## Directions for Proper Use of Pharmacy Bulk Package Use Aseptic Technique - Not for Direct Infusion
+## Directions for Proper Use of Pharmacy Bulk Package
+
+Use Aseptic Technique - Not for Direct Infusion
 
 The pharmacy bulk package is for use in a Pharmacy Admixture Service only.
 

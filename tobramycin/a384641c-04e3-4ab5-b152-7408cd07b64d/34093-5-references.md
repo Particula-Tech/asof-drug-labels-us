@@ -17,12 +17,6 @@ January 2009.
 
 †Each vial contains tobramycin sulfate equivalent to 1200 mg of tobramycin.
 
-Manufactured for:
+Manufactured for: XGen Pharmaceuticals DJB, Inc. Big Flats, NY 14814
 
-XGen Pharmaceuticals DJB, Inc.
-
-Big Flats, NY 14814
-
-Revised October 2020
-
-TOBR-PI6-03
+Revised October 2022 TOBR-PI6-04

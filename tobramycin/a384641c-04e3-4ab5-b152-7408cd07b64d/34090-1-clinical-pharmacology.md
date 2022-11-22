@@ -46,7 +46,7 @@ In vitro tests demonstrate that tobramycin is bactericidal.
 
 Although most strains of enterococci demonstrate in vitro resistance, some strains in this group are susceptible.
 In vitro studies have shown that an aminoglycoside combined with an antibiotic that interferes with cell-wall synthesis affects some enterococcal strains synergistically.
-The combination of penicillin G and tobramycin results in a synergistic bactericidal effect in vitro against certain strains of Enterococcus faecalis.
+The combination of penicillin G and tobramycin results in a synergistic bactericidal effect in vitro against certain strains of Enterococcusfaecalis.
 However, this combination is not synergistic against other closely related organisms, e.g. Enterococcus faecium.
 Speciation of enterococci alone cannot be used to predict susceptibility.
 Susceptibility testing and tests for antibiotic synergism are emphasized.
@@ -59,17 +59,16 @@ Tobramycin has been shown to be active against most strains of the following org
 
 Aerobic and facultative Gram-positive microorganisms
 
-Staphylococcus aureus
+| Staphylococcus aureus |
+| --- |
 
 Aerobic and facultative Gram-negative microorganisms
 
-Citrobacter sp Enterobacter sp Escherichia coli
-
-Klebsiella sp Morganella morganii Pseudomonas aeruginosa
-
-Proteus mirabilis Proteus vulgaris Providencia sp
-
-Serratis sp
+| Citrobacter sp | Enterobacter sp | Escherichia coli |
+| --- | --- | --- |
+| Klebsiella sp | Morganella morganii | Pseudomonas aeruginosa |
+| Proteus mirabilis | Proteus vulgaris | Providencia sp |
+| Serratia sp |  |  |
 
 Aminoglycosides have a low order of activity against most gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
 

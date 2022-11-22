@@ -6,7 +6,7 @@ Sulfuric acid and/or sodium hydroxide may have been added during manufacture to 
 After reconstitution, the solution will contain 40 mg of tobramycin per mL.
 The product contains no preservative or sodium bisulfite.
 
-Tobramycin sulfate is O-3-amino-3-deoxy-α-D-glucopyranosyl-(1→4)-O-[2,6-diamino-2,3,6-trideoxy-α-D-ribo-hexopyranosyl-(1→6)-2-deoxy-L-streptamine, sulfate (2:5)(salt) and has the chemical formula (C18H37N5O9)2•5H2SO4.
+Tobramycin sulfate is O-3-amino-3-deoxy-α-D-glucopyranosyl-(1→4)- O-[2,6-diamino-2,3,6-trideoxy-α-D- ribo-hexopyranosyl-(1→6)-2-deoxy-L-streptamine, sulfate (2:5)(salt) and has the chemical formula (C 18H 37N 5O 9) 2•5H 2SO 4.
 The molecular weight is 1425.45.
 The structural formula for tobramycin is as follows:
 
