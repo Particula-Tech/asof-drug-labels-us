@@ -53,7 +53,7 @@ Blood Disorders
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2021 Allergan.
+© 2022 Allergan.
 All rights reserved.
 
 Patented.
@@ -61,4 +61,4 @@ See www.allergan.com/patents
 
 Delzicol® is a registered trademark of Allergan Pharmaceuticals International Limited.
 
-v4.0USPI5853
+V5.1USPI5853
