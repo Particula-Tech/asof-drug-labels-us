@@ -48,3 +48,8 @@ There were no clinically relevant differences in the incidence of adverse reacti
 Clinical trials did not include sufficient numbers of non-Caucasian patients or patients aged 65 years and older to determine whether they respond differently from Caucasian or younger patients, respectively.
 
 The adverse reactions observed during uncontrolled, open-label trials of 3 to 12 months duration in subjects with chronic sinusitis with and without nasal polyps receiving XHANCE 372 mcg twice daily were similar to the adverse reactions reported in clinical trials in patients with nasal polyps.
+
+## 6.2 Postmarketing Experience
+
+In addition to adverse events reported from clinical trials, the following adverse reactions have been identified during postapproval use of XHANCE: dysphonia, pruritus, rash, nasal discomfort, and nasal dryness.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
