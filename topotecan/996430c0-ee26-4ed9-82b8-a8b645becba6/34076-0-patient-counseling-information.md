@@ -34,7 +34,7 @@ These symptoms may impair the ability to safely drive or operate machinery.
 
 Manufactured In Romania By: Sindan Pharma SRL 11 Ion Mihalache Blvd Bucharest 1, Romania 011171
 
-Distributed By: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 10/2019
+C 8/2022

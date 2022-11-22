@@ -22,7 +22,7 @@ The terminal half-life of topotecan is 2 to 3 hours following intravenous admini
 Metabolism
 
 Topotecan undergoes a reversible pH-dependent hydrolysis of its pharmacologically active lactone moiety.
-At pH less than or equal to 4, the lactone is exclusively present, whereas the ring-opened hydroxy-acid form predominates at physiologic pH.
+At pH less than or equal to 4, the lactone is exclusively present, whereas the ring-opened hydroxyl-acid form predominates at physiologic pH.
 Topotecan is metabolized to an N-demethylated metabolite in vitro.
 The mean metabolite: parent AUC ratio was about 3% for total topotecan and topotecan lactone following intravenous administration.
 

@@ -1,9 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Actavis
-
-Rx Only
-
 NDC 45963-615-56
 
 Topotecan Hydrochloride for Injection
@@ -15,3 +11,7 @@ MUST BE RECONSTITUTED AND DILUTED
 For Intravenous Use Only
 
 CAUTION: Cytotoxic Agent
+
+Rx only
+
+1 Single-Dose Vial
