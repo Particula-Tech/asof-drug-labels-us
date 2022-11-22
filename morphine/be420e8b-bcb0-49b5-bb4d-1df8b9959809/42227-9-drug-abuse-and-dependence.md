@@ -9,7 +9,7 @@ Morphine Sulfate Injection contains morphine, a Schedule II controlled substance
 Morphine Sulfate Injection contains morphine, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, oxycodone, oxymorphone, and tapentadol.
 Morphine Sulfate Injection can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1).
 
-All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+1. All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
 Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
 
