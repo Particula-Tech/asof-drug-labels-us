@@ -56,7 +56,7 @@ Important Information
 - Do not reuse the on-body Infusor.
   The on-body Infusor is for single use only.
 - Do not let the on-body Infusor get wet from water or any other liquids.
-  Donot shower, bathe, swim or do activities that may make you sweat while wearing the on-body Infusor.
+  Do not shower, bathe, swim or do activities that may make you sweat while wearing the on-body Infusor.
   It contains parts that should not get wet.
 
 Call your healthcare provider or scPharmaceuticals at 1-855-SCPHARMA (1-855-727-4276) if you have any questions.
@@ -67,9 +67,9 @@ Storage Information
 - Keep the FUROSCIX prefilled cartridge in the original carton to protect from light or physical damage until you are ready to use.
 - Keep the FUROSCIX On-Body Infusor and prefilled cartridge out of the reach of children.
 
-STEP 1 Prepare for the Infusion
+Prepare for the Infusion
 
-Wash Hands, Check Expiration Date and Remove Supplies from Carton
+STEP 1 Wash Hands, Check Expiration Date and Remove Supplies from Carton
 
 ​ 1.1 Wash your hands before using the on-body Infusor (Figure C).
 
@@ -126,9 +126,9 @@ Do not press the blue start button until on-body Infusor is applied to skin and 
 Note: If the indicator light blinks red and the on-body Infusor "beeps", the on-body Infusor has experienced an internal error.
 Do not use the on-body Infusor (see On-Body Infusor Alarm section).
 
-STEP 4 Apply the On-Body Infusor
+Apply the On-Body Infusor
 
-Select and Prepare Application Site
+STEP 4 Select and Prepare Application Site
 
 4.1 Select one site on the stomach on either side of the belly button (navel).
 The site should be a flat area below the rib cage and above the belt line (see Figure M).
@@ -166,9 +166,9 @@ Do not touch the blue start button until you are ready to start the infusion (se
 Do not remove and reapply on-body Infusor.
 The on-body Infusor adhesive might not work as well.
 
-STEP 6 Start the Infusion
-
 Start the Infusion
+
+STEP 6 Start the Infusion
 
 6.1 Firmly press and release the blue start button to begin the infusion (see Figure S).
 
@@ -199,9 +199,9 @@ If You Have to Stop the Infusion Due to An Emergency, Do the Following:
   After the on-body Infusor is removed, it can no longer be used.
 - Call your healthcare provider for further instructions.
 
-STEP 8 Remove and Dispose of the On-Body Infusor
+Remove and Dispose of the On-Body Infusor
 
-When Infusion is Complete, Remove the On-Body Infusor from the Skin
+STEP 8 When Infusion is Complete, Remove the On-Body Infusor from the Skin
 
 8.1 The infusion is complete and the on-body Infusor is ready to be removed when (see Figure U):
 

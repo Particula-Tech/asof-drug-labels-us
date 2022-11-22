@@ -2,7 +2,7 @@ Cartridge Carton
 
 NDC 71767-100
 
-Furoscix®
+FUROSCIX ®
 
 (furosemide injection)
 
@@ -20,7 +20,7 @@ Cartridge
 
 NDC 71767-100
 
-Furoscix®
+FUROSCIX ®
 
 (furosemide injection)
 
@@ -46,7 +46,7 @@ Device (Direct Pad Printing)
 
 On-Body Infusor for
 
-FUROSCIX®
+FUROSCIX ®
 
 (furosemide injection) 80 mg/10 mL (8 mg/mL) For subcutaneous use
 
@@ -58,7 +58,7 @@ NDC 71767-100-01
 
 1 X Single Use On-Body Infusor
 
-Furoscix®
+FUROSCIX ®
 
 (furosemide injection)
 
@@ -68,7 +68,7 @@ Furoscix®
 
 FOR SUBCUTANEOUS USE ONLY
 
-Single-Dose
+Single Dose
 
 Rx Only
 
@@ -76,7 +76,7 @@ Combination Product Physician Sample Primary Carton
 
 NDC 71767-100-01
 
-Physician Sample Only
+PHYSICIAN SAMPLE ONLY
 
 NOT FOR SALE
 
@@ -84,7 +84,7 @@ NOT FOR SALE
 
 1 X Single Use On-Body Infusor
 
-Furoscix®
+FUROSCIX ®
 
 (furosemide injection)
 
@@ -94,6 +94,6 @@ Furoscix®
 
 FOR SUBCUTANEOUS USE ONLY
 
-Single-Dose
+Single Dose
 
 Rx Only
