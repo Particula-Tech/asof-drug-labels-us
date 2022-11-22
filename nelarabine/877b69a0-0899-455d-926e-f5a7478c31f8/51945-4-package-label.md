@@ -19,13 +19,3 @@ Nelarabine Injection 250 mg/5 mL (5 mg/mL)
 For Intravenous Infusion Only
 
 Rx Only
-
-NDC 70771-1685-8
-
-Nelarabine Injection 250 mg/5 mL (5 mg/mL)
-
-6 x 50 mL Single-Dose Vial
-
-For Intravenous Infusion Only
-
-Rx Only
