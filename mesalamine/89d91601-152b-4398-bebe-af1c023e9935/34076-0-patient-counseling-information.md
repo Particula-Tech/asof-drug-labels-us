@@ -48,7 +48,7 @@ Blood Disorders
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
-© 2021 Allergan.
+© 2022 Allergan.
 All rights reserved.
 
 Patented.
@@ -58,4 +58,4 @@ CANASA® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan aff
 
 For more information, go to www.canasa.com or call 1-800-678-1605.
 
-v3.0USPI0501
+V4.1USPI0501
