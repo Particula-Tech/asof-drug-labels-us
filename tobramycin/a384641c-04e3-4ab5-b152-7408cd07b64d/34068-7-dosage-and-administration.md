@@ -41,6 +41,8 @@ DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN INJECTION, USP IN ADULTS WITH NORMAL RENAL 
 | 45 | 99 | 45 mg |  | 1.1 mL | 75 mg |  | 1.9 mL |
 | 40 | 88 | 40 mg |  | 1 mL | 66 mg |  | 1.6 mL |
 
+*Applicable to all product forms except Tobramycin Injection, USP, 10 mg/mL (Pediatric).
+
 Pediatric Patients (greater than 1 week of age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
 Premature or Full-Term Neonates 1 Week of Age or Less: Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
