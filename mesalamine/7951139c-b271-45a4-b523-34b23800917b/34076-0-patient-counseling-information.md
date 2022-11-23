@@ -48,10 +48,11 @@ Blood Disorders
 Inform elderly patients and those taking azathioprine or 6-mercaptopurine of the risk for blood disorders and the need for periodic monitoring of complete blood cell counts and platelet counts while on therapy.
 Advise patients to complete all blood tests ordered by their healthcare provider [see Drug Interactions (7.3), Use in Specific Populations (8.5)].
 
-Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA U.S. Patent Number: 8,865,688
+Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridgewater, NJ 08807 USA Patented.
+See https://patents.salix.com/ for US patent information.
 
 APRISO is a trademark of Salix Pharmaceuticals, Inc. or its affiliates.
 
-© 2021 Salix Pharmaceuticals, Inc. or its affiliates
+© 2022 Salix Pharmaceuticals, Inc. or its affiliates
 
-9602405
+9602406
