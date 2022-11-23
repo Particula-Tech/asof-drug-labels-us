@@ -44,9 +44,9 @@ The hypoglycemia or hyperglycemia which occurs during octreotide acetate therapy
 Hypoglycemia and hyperglycemia occurred on octreotide acetate in 3% and 16% of acromegalic patients, respectively.
 Severe hyperglycemia, subsequent pneumonia, and death following initiation of octreotide acetate therapy was reported in one patient with no history of hyperglycemia.
 
-In patients with concomitant Type I diabetes mellitus, octreotide acetate may affect glucose regulation, and insulin requirements may be reduced.
+In patients with concomitant Type I diabetes mellitus, octreotide acetate injection may affect glucose regulation, and insulin requirements may be reduced.
 Symptomatic hypoglycemia, which may be severe, has been reported in these patients.
-In nondiabetics and Type II diabetics with partially intact insulin reserves, octreotide acetate injection and octreotide acetate for injectable suspension administration may result in decreases in plasma insulin levels and hyperglycemia.
+In nondiabetics and Type II diabetics with partially intact insulin reserves, octreotide acetate injection administration may result in decreases in plasma insulin levels and hyperglycemia.
 It is therefore recommended that glucose tolerance and anti-diabetic treatment be periodically monitored during therapy with these drugs.
 
 ## Thyroid Function Abnormalities
@@ -54,7 +54,7 @@ It is therefore recommended that glucose tolerance and anti-diabetic treatment b
 In acromegalic patients, 12% developed biochemical hypothyroidism only, 8% developed goiter, and 4% required initiation of thyroid replacement therapy while receiving octreotide acetate.
 Baseline and periodic assessment of thyroid function (TSH, total, and/or free T4) is recommended during chronic therapy.
 
-## Cardiac Function Abnormalties [see WARNINGS; Complete Atrioventricular Block]
+## Cardiac Function Abnormalities [see WARNINGS; Complete Atrioventricular Block]
 
 In acromegalics, bradycardia (< 50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias occurred in 9% of patients during octreotide acetate therapy.
 
@@ -114,6 +114,9 @@ Patients receiving insulin, oral hypoglycemic agents, beta blockers, calcium cha
 Concomitant administration of octreotide and bromocriptine increases the availability of bromocriptine.
 Limited published data indicate that somatostatin analogs might decrease the metabolic clearance of compounds known to be metabolized by cytochrome P450 enzymes, which may be due to the suppression of growth hormone (GH).
 Since it cannot be excluded that octreotide may have this effect, other drugs mainly metabolized by CYP3A4 and which have a low therapeutic index (e.g., quinidine, terfenadine) should therefore be used with caution.
+
+Octreotide competitively binds to somatostatin receptors and may interfere with the efficacy of lutetium Lu 177 dotatate.
+Discontinue octreotide acetate injection at least 24 hours prior to each lutetium Lu 177 dotatate dose.
 
 ## Drug/Laboratory Test Interactions
 
