@@ -19,7 +19,7 @@ There is no cumulative effect of pemetrexed exposure on ANC nadir over multiple 
 
 Absorption
 
-The pharmacokinetics of pemetrexed when pemetrexed was administered as a single agent in doses ranging from 0.2 mg/m2 to 838 mg/m2 infused over a 10-minute period have been evaluated in 426 cancer patients with a variety of solid tumors.
+The pharmacokinetics of pemetrexed when pemetrexed was administered as a single agent in doses ranging from 0.2 to 838 mg/m2 infused over a 10-minute period have been evaluated in 426 cancer patients with a variety of solid tumors.
 Pemetrexed total systemic exposure (AUC) and maximum plasma concentration (Cmax) increased proportionally with increase of dose.
 The pharmacokinetics of pemetrexed did not change over multiple treatment cycles.
 
@@ -60,7 +60,7 @@ Patients with Renal Impairment
 
 Pharmacokinetic analyses of pemetrexed included 127 patients with impaired renal function.
 Plasma clearance of pemetrexed decreases as renal function decreases, with a resultant increase in systemic exposure.
-Patients with creatinine clearances of 45 mL/min, 50 mL/min, and 80 mL/min had 65%, 54%, and 13% increases, respectively in systemic exposure (AUC) compared to patients with creatinine clearance of 100 mL/min [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
+Patients with creatinine clearances of 45, 50, and 80 mL/min had 65%, 54%, and 13% increases, respectively in systemic exposure (AUC) compared to patients with creatinine clearance of 100 mL/min [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 Third-Space Fluid
 

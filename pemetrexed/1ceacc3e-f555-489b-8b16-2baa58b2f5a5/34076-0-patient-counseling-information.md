@@ -19,19 +19,19 @@ Instruct patients to immediately contact their healthcare provider for developme
 Radiation Recall: Inform patients who have received prior radiation of the risks of radiation recall.
 Instruct patients to immediately contact their healthcare provider for development of inflammation or blisters in an area that was previously irradiated [see Warnings and Precautions (5.5)].
 
-Increased Risk of Toxicity with Ibuprofen in Patients with Renal Impairment: Advise patients with mild to moderate renal impairment of the risks associated with concomitant ibuprofen use and instruct them to avoid use of all ibuprofen containing products for 2 days before, the day of, and 2 days following administration of Pemetrexed for Injection USP [see Dosage and Administration (2.5), Warnings and Precautions (5.6), and Drug Interactions (7)].
+Increased Risk of Toxicity with Ibuprofen in Patients with Renal Impairment: Advise patients with mild to moderate renal impairment of the risks associated with concomitant ibuprofen use and instruct them to avoid use of all ibuprofen containing products for 2 days before, the day of, and 2 days following administration of Pemetrexed for Injection, USP [see Dosage and Administration (2.5), Warnings and Precautions (5.6), and Drug Interactions (7)].
 
 Embryo-Fetal Toxicity: Advise females of reproductive potential and males with female partners of reproductive potential of the potential risk to a fetus [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with Pemetrexed for Injection USP and for 6 months after the final dose.
+Advise females of reproductive potential to use effective contraception during treatment with Pemetrexed for Injection, USP and for 6 months after the last dose.
 Advise females to inform their prescriber of a known or suspected pregnancy.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with Pemetrexed for Injection USP and for 3 months after the final dose [see Warnings and Precautions (5.7) and Use in Specific Populations (8.3)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with Pemetrexed for Injection, USP and for 3 months after the last dose [see Warnings and Precautions (5.7) and Use in Specific Populations (8.3)].
 
-Lactation: Advise women not to breastfeed during treatment with Pemetrexed for Injection USP and for 1 week after the final dose [see Use in Specific Populations (8.2)].
+Lactation: Advise women not to breastfeed during treatment with Pemetrexed for Injection, USP and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2021 Meitheal Pharmaceuticals Inc.
+meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2022 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Jiangsu Hansoh Pharmaceutical Group Co., Ltd. Lianyungang, Jiangsu, China 222069
 
-July 2021
+Revised: September 2022
 
-600784B01
+600784B02

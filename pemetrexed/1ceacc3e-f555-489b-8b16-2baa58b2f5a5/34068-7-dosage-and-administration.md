@@ -54,7 +54,7 @@ Upon recovery, modify the dosage of pemetrexed for injection in the next cycle a
 
 For dosing modifications for cisplatin, carboplatin, or pembrolizumab, refer to their prescribing information.
 
-Table 1: Recommended Dosage Modifications for Adverse Reactions a
+Table 1: Recommended Dosage Modifications for Adverse Reactionsa
 
 | Toxicity in Most Recent Treatment Cycle | Pemetrexed for Injection Dose Modification for Next Cycle |
 | --- | --- |
@@ -74,9 +74,8 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions a
 
 ## 2.7 Preparation for Administration
 
-- Pemetrexed for injection is a cytotoxic drug.
-  Follow applicable special handling and disposal procedures.
-  1
+- Pemetrexed for injection is a hazardous drug.
+  Follow applicable special handling and disposal procedures.1
 - Calculate the dose of pemetrexed for injection and determine the number of vials needed.
 - Reconstitute pemetrexed for injection to achieve a concentration of 25 mg/mL as follows:
   - Reconstitute each 100-mg vial with 4.2 mL of 0.9% Sodium Chloride Injection, USP (preservative-free)

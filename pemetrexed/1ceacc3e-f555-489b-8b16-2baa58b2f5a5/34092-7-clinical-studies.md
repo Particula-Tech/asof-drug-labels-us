@@ -35,18 +35,18 @@ Table 10: Efficacy Results of KEYNOTE-189
 | OS |  |  |
 | Number (%) of patients with event | 127 (31%) | 108 (52%) |
 | Median in months (95% CI) | NR (NR, NR) | 11.3 (8.7, 15.1) |
-| Hazard ratio a (95% CI) | 0.49 (0.38, 0.64) |  |
-| p-value b | <0.0001 |  |
+| Hazard ratioa (95% CI) | 0.49 (0.38, 0.64) |  |
+| p-valueb | <0.0001 |  |
 | PFS |  |  |
-| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Number of patients with event (%) | 245 (60%) | 166 (81%) |
 | Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
-| Hazard ratio a (95% CI) | 0.52 (0.43, 0.64) |  |
-| p-value b | <0.0001 |  |
+| Hazard ratioa (95% CI) | 0.52 (0.43, 0.64) |  |
+| p-valueb | <0.0001 |  |
 | ORR |  |  |
-| Overall response rate c (95% CI) | 48% (43, 53) | 19% (14, 25) |
+| Overall response ratec (95% CI) | 48% (43, 53) | 19% (14, 25) |
 | Complete response | 0.5% | 0.5% |
 | Partial response | 47% | 18% |
-| p-value d | <0.0001 |  |
+| p-valued | <0.0001 |  |
 | Duration of Response |  |  |
 | Median in months (range) | 11.2 (1.1+, 18.0+) | 7.8 (2.1+, 16.4+) |
 | a Based on the stratified Cox proportional hazard model. |  |  |
@@ -55,8 +55,13 @@ Table 10: Efficacy Results of KEYNOTE-189
 | d Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status. |  |  |
 | NR = not reached |  |  |
 
-| Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189 |
+At the protocol specified final OS analysis, the median in the pemetrexed in combination with pembrolizumab and platinum chemotherapy arm was 22.0 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
+
+| A+P+C = pemetrexed + pembrolizumab + platinum chemotherapy. A+C = pemetrexed + platinum chemotherapy + placebo. |
 | --- |
+| Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189* |
+
+*Based on the protocol-specified final OS analysis
 
 Initial Treatment in Combination with Cisplatin
 
@@ -82,10 +87,10 @@ Table 11: Efficacy Results in Study JMDB
 | --- | --- | --- |
 | Overall Survival |  |  |
 | Median (months) (95% CI) | 10.3 (9.8-11.2) | 10.3 (9.6-10.9) |
-| Hazard ratio (HR) a,b (95% CI) | 0.94 (0.84-1.05) |  |
+| Hazard ratio (HR)a,b (95% CI) | 0.94 (0.84-1.05) |  |
 | Progression-Free Survival |  |  |
 | Median (months) (95% CI) | 4.8 (4.6-5.3) | 5.1 (4.6-5.5) |
-| Hazard ratio (HR) a,b (95% CI) | 1.04 (0.94-1.15) |  |
+| Hazard ratio (HR)a,b (95% CI) | 1.04 (0.94-1.15) |  |
 | Overall Response Rate (95% CI) | 27.1% (24.2-30.1) | 24.7% (21.8-27.6) |
 | a Unadjusted for multiple comparisons. |  |  |
 | b Adjusted for gender, stage, basis of diagnosis, and performance status. |  |  |
@@ -94,7 +99,7 @@ Table 11: Efficacy Results in Study JMDB
 | --- |
 
 In pre-specified analyses assessing the impact of NSCLC histology on overall survival, clinically relevant differences in survival according to histology were observed.
-These subgroup analyses are shown in Table 12 and Figure 3 and Figure 4.
+These subgroup analyses are shown in Table 12 and Figures 3 and 4.
 This difference in treatment effect for pemetrexed based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in Studies JMEN and JMEI.
 
 Table 12: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
@@ -159,7 +164,7 @@ Table 13: Efficacy Results in Study JMEN
 | Figure 5: Kaplan-Meier Curves for Overall Survival in Study JMEN |
 | --- |
 
-The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 14 and Figure 6 and Figure 7.
+The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 14 and Figures 6 and 7.
 
 Table 14: Efficacy Results in Study JMEN by Histologic Subgroup
 
@@ -197,7 +202,7 @@ Patients were required to have an ECOG PS of 0 or 1.
 Patients were randomized to receive pemetrexed 500 mg/m2 intravenously every 21 days or placebo until disease progression.
 Randomization was stratified by response to pemetrexed in combination with cisplatin induction therapy (CR or PR versus SD), disease stage (IIIb versus IV), and ECOG PS (0 versus 1).
 Patients in both arms received folic acid, vitamin B12, and dexamethasone.
-The main efficacy outcome measure was investigator-assessed progression- free survival (PFS) and an additional efficacy outcome measure was overall survival (OS); PFS and OS were measured from the time of randomization.
+The main efficacy outcome measure was investigator-assessed progression-free survival (PFS) and an additional efficacy outcome measure was overall survival (OS); PFS and OS were measured from the time of randomization.
 
 A total of 539 patients were enrolled with 359 patients randomized to pemetrexed and 180 patients randomized to placebo.
 The median age was 61 years (range 32 to 83 years); 58% were male; 95% were White, 4.5% were Asian, and <1% were Black or African American; 67% had an ECOG PS of 1; 78% were current or former smokers; and 43% of the population achieved a partial or complete response to first-line, platinum-based chemotherapy.
@@ -234,7 +239,7 @@ A total of 571 patients were enrolled with 283 patients randomized to pemetrexed
 The median age was 58 years (range 22 to 87 years); 72% were male; 71% were White, 24% were Asian, 2.8% were Black or African American, 1.8% were Hispanic or Latino, and <2% were other ethnicities; 88% had an ECOG PS of 0 or 1.
 With regard to tumor characteristics, 75% had Stage IV disease; 53% had adenocarcinoma, 30% had squamous histology; 8% large cell; and 9% had other histologic subtypes of NSCLC.
 
-The efficacy results in the overall population and in subgroup analyses based on histologic subtype are provided in Table 16 and Table 17, respectively.
+The efficacy results in the overall population and in subgroup analyses based on histologic subtype are provided in Tables 16 and 17, respectively.
 Study JMEI did not show an improvement in overall survival in the intent-to-treat population.
 In subgroup analyses, there was no evidence of a treatment effect on survival in patients with squamous NSCLC; the absence of a treatment effect in patients with NSCLC of squamous histology was also observed Studies JMDB and JMEN [see Clinical Studies (14.1)].
 
@@ -282,7 +287,7 @@ Randomization was stratified by multiple baseline variables including KPS, histo
 The major efficacy outcome measure was overall survival and additional efficacy outcome measures were time to disease progression, overall response rate, and response duration.
 A total of 448 patients received at least one dose of protocol-specified therapy; 226 patients were randomized to and received at least one dose of pemetrexed plus cisplatin, and 222 patients were randomized to and received cisplatin.
 Among the 226 patients who received cisplatin with pemetrexed, 74% received full supplementation with folic acid and vitamin B12 during study therapy, 14% were never supplemented, and 12% were partially supplemented.
-Across the study population, the median age was 61 years (range: 20 to 86 years); 81% were male; 92% were White, 5% were Hispanic or Latino, 3.1% were Asian, and <1% were other ethnicities; and 54% had a baseline KPS score of 90% to100% and 46% had a KPS score of 70% to 80%.
+Across the study population, the median age was 61 years (range: 20 to 86 years); 81% were male; 92% were White, 5% were Hispanic or Latino, 3.1% were Asian, and <1% were other ethnicities; and 54% had a baseline KPS score of 90 to 100% and 46% had a KPS score of 70 to 80%.
 With regard to tumor characteristics, 46% had Stage IV disease, 31% Stage III, 15% Stage II, and 7% Stage I disease at baseline; the histologic subtype of mesothelioma was epithelial in 68% of patients, mixed in 16%, sarcomatoid in 10% and other histologic subtypes in 6%.
 The baseline demographics and tumor characteristics of the subgroup of fully supplemented patients was similar to the overall study population.
 

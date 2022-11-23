@@ -39,19 +39,19 @@ Table 2: Adverse Reactions Occurring in ≥20% of Patients in KEYNOTE-189
 
 |  | Pemetrexed Pembrolizumab Platinum Chemotherapy n=405 |  | Placebo Pemetrexed Platinum Chemotherapy n=202 |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | All Grades a (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
+| Adverse Reaction | All Gradesa (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Nausea | 56 | 3.5 | 52 | 3.5 |
 | Constipation | 35 | 1.0 | 32 | 0.5 |
 | Diarrhea | 31 | 5 | 21 | 3.0 |
 | Vomiting | 24 | 3.7 | 23 | 3.0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
-| Fatigue b | 56 | 12 | 58 | 6 |
+| Fatigueb | 56 | 12 | 58 | 6 |
 | Pyrexia | 20 | 0.2 | 15 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |
 | Decreased appetite | 28 | 1.5 | 30 | 0.5 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| Rash c | 25 | 2.0 | 17 | 2.5 |
+| Rashc | 25 | 2.0 | 17 | 2.5 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
 | Cough | 21 | 0 | 28 | 0 |
 | Dyspnea | 21 | 3.7 | 26 | 5 |
@@ -65,7 +65,7 @@ Table 3: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients i
 
 |  | Pemetrexed Pembrolizumab Platinum Chemotherapy |  | Placebo Pemetrexed Platinum Chemotherapy |  |
 | --- | --- | --- | --- | --- |
-| Laboratory Test a | All Grades b % | Grades 3-4 % | All Grades % | Grades 3-4 % |
+| Laboratory Testa | All Gradesb % | Grades 3-4 % | All Grades % | Grades 3-4 % |
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 63 | 9 | 60 | 7 |
 | Increased ALT | 47 | 3.8 | 42 | 2.6 |
@@ -104,7 +104,7 @@ Study JMDB was not designed to demonstrate a statistically significant reduction
 
 Table 4: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Patients Receiving Pemetrexed in Combination with Cisplatin Chemotherapy in Study JMDB
 
-| Adverse Reaction a | Pemetrexed /Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
+| Adverse Reactiona | Pemetrexed/Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | All adverse reactions | 90 | 37 | 91 | 53 |
@@ -136,9 +136,9 @@ Table 4: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Pati
 
 The following additional adverse reactions of pemetrexed were observed.
 
-Incidence 1% to < 5% Body as a Whole - febrile neutropenia, infection, pyrexia General Disorders - dehydration Metabolism and Nutrition - increased AST, increased ALT Renal - renal failure Eye Disorder- conjunctivitis
+Incidence 1% to <5% Body as a Whole - febrile neutropenia, infection, pyrexia General Disorders - dehydration Metabolism and Nutrition - increased AST, increased ALT Renal - renal failure Eye Disorder - conjunctivitis
 
-Incidence < 1% Cardiovascular - arrhythmia General Disorders - chest pain Metabolism and Nutrition - increased GGT Neurology - motor neuropathy
+Incidence <1% Cardiovascular - arrhythmia General Disorders - chest pain Metabolism and Nutrition - increased GGT Neurology - motor neuropathy
 
 Maintenance Treatment Following First-line Non-Pemetrexed Containing Platinum-Based Chemotherapy
 
@@ -158,10 +158,10 @@ Table 5 provides the frequency and severity of adverse reactions reported in ≥
 
 Table 5: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed in Study JMEN
 
-| Adverse Reaction a | Pemetrexed (N=438) |  | Placebo (N=218) |  |
+| Adverse Reactiona | Pemetrexed (N=438) |  | Placebo (N=218) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
-| All Adverse Reactions | 66 | 16 | 37 | 4 |
+| All adverse reactions | 66 | 16 | 37 | 4 |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
 | Anemia | 15 | 3 | 6 | 1 |
@@ -189,9 +189,9 @@ The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell tr
 
 The following additional adverse reactions were observed in patients who received pemetrexed.
 
-Incidence 1% to < 5% Dermatology/Skin - alopecia, pruritus/itching Gastrointestinal - constipation General Disorders - edema, fever Hematologic - thrombocytopenia Eye Disorder- ocular surface disease (including conjunctivitis), increased lacrimation
+Incidence 1% to <5% Dermatology/Skin - alopecia, pruritus/itching Gastrointestinal - constipation General Disorders - edema, fever Hematologic - thrombocytopenia Eye Disorder - ocular surface disease (including conjunctivitis), increased lacrimation
 
-Incidence < 1% Cardiovascular - supraventricular arrhythmia Dermatology/Skin - erythema multiforme General Disorders - febrile neutropenia, allergic reaction/hypersensitivity Neurology - motor neuropathy Renal - renal failure
+Incidence <1% Cardiovascular - supraventricular arrhythmia Dermatology/Skin - erythema multiforme General Disorders - febrile neutropenia, allergic reaction/hypersensitivity Neurology - motor neuropathy Renal - renal failure
 
 Maintenance Treatment Following First-line Pemetrexed Plus Platinum Chemotherapy
 
@@ -212,22 +212,22 @@ Table 6 provides the frequency and severity of adverse reactions reported in ≥
 
 Table 6: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed in PARAMOUNT
 
-| Adverse Reaction a | Pemetrexed (N=333) |  | Placebo (N=167) |  |
+| Adverse Reactiona | Pemetrexed (N=333) |  | Placebo (N=167) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
-| All Adverse Reactions | 53 | 17 | 34 | 4.8 |
+| All adverse reactions | 53 | 17 | 34 | 4.8 |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
 | Anemia | 15 | 4.8 | 4.8 | 0.6 |
 | Neutropenia | 9 | 3.9 | 0.6 | 0 |
 | Clinical |  |  |  |  |
-| Constitutional Symptoms |  |  |  |  |
+| Constitutional symptoms |  |  |  |  |
 | Fatigue | 18 | 4.5 | 11 | 0.6 |
 | Gastrointestinal |  |  |  |  |
 | Nausea | 12 | 0.3 | 2.4 | 0 |
 | Vomiting | 6 | 0 | 1.8 | 0 |
 | Mucositis/stomatitis | 5 | 0.3 | 2.4 | 0 |
-| General Disorders |  |  |  |  |
+| General disorders |  |  |  |  |
 | Edema | 5 | 0 | 3.6 | 0 |
 | a NCI CTCAE version 3.0. |  |  |  |  |
 
@@ -235,9 +235,9 @@ The requirement for red blood cell (13% versus 4.8%) and platelet (1.5% versus 0
 
 The following additional Grade 3 or 4 adverse reactions were observed more frequently in the pemetrexed arm.
 
-Incidence 1% to < 5% Blood/Bone Marrow - thrombocytopenia General Disorders - febrile neutropenia
+Incidence 1% to <5% Blood/Bone Marrow - thrombocytopenia General Disorders - febrile neutropenia
 
-Incidence < 1% Cardiovascular - ventricular tachycardia, syncope General Disorders - pain Gastrointestinal - gastrointestinal obstruction Neurologic - depression Renal - renal failure Vascular - pulmonary embolism
+Incidence <1% Cardiovascular - ventricular tachycardia, syncope General Disorders - pain Gastrointestinal - gastrointestinal obstruction Neurologic - depression Renal - renal failure Vascular - pulmonary embolism
 
 Treatment of Recurrent Disease After Prior Chemotherapy
 
@@ -256,7 +256,7 @@ Study JMEI is not designed to demonstrate a statistically significant reduction 
 
 Table 7: Adverse Reactions Occurring in ≥5% of Fully Supplemented Patients Receiving Pemetrexed in Study JMEI
 
-| Adverse Reaction a | Pemetrexed (N=265) |  | Docetaxel (N=276) |  |
+| Adverse Reactiona | Pemetrexed (N=265) |  | Docetaxel (N=276) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | Laboratory |  |  |  |  |
@@ -286,9 +286,9 @@ Table 7: Adverse Reactions Occurring in ≥5% of Fully Supplemented Patients Rec
 
 The following additional adverse reactions were observed in patients assigned to receive pemetrexed.
 
-Incidence 1% to < 5% Body as a Whole - abdominal pain, allergic reaction/hypersensitivity, febrile neutropenia, infection Dermatology/Skin - erythema multiforme Neurology - motor neuropathy, sensory neuropathy
+Incidence 1% to <5% Body as a Whole - abdominal pain, allergic reaction/hypersensitivity, febrile neutropenia, infection Dermatology/Skin - erythema multiforme Neurology - motor neuropathy, sensory neuropathy
 
-Incidence < 1% Cardiovascular- supraventricular arrhythmias Renal - renal failure
+Incidence <1% Cardiovascular - supraventricular arrhythmias Renal - renal failure
 
 Mesothelioma
 
@@ -311,7 +311,7 @@ Study JMCH was not designed to demonstrate a statistically significant reduction
 
 Table 8: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of Patients Receiving Pemetrexed/Cisplatin in Study JMCHa
 
-| Adverse Reaction b | Pemetrexed /cisplatin (N=168) |  | Cisplatin (N=163) |  |
+| Adverse Reactionb | Pemetrexed /cisplatin (N=168) |  | Cisplatin (N=163) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | Laboratory |  |  |  |  |
@@ -348,9 +348,9 @@ Table 8: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of 
 
 The following additional adverse reactions were observed in patients receiving pemetrexed plus cisplatin:
 
-Incidence 1% to < 5% Body as a Whole - febrile neutropenia, infection, pyrexia Dermatology/Skin - urticaria General Disorders - chest pain Metabolism and Nutrition - increased AST, increased ALT, increased GGT Renal - renal failure
+Incidence 1% to <5% Body as a Whole - febrile neutropenia, infection, pyrexia Dermatology/Skin - urticaria General Disorders - chest pain Metabolism and Nutrition - increased AST, increased ALT, increased GGT Renal - renal failure
 
-Incidence < 1 % Cardiovascular - arrhythmia Neurology - motor neuropathy
+Incidence <1% Cardiovascular - arrhythmia Neurology - motor neuropathy
 
 Exploratory Subgroup Analyses based on Vitamin Supplementation
 
@@ -383,4 +383,4 @@ Sepsis, with or without neutropenia, including fatal cases: 1% Severe esophagiti
 The following adverse reactions have been identified during post-approval use of pemetrexed.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System - immune-mediated hemolytic anemia Gastrointestinal - colitis, pancreatitis General Disorders and Administration Site Conditions -edema Injury, poisoning, and procedural complications - radiation recall Respiratory - interstitial pneumonitis Skin – Serious and fatal bullous skin conditions, Stevens-Johnson syndrome, and toxic epidermal necrolysis
+Blood and Lymphatic System - immune-mediated hemolytic anemia Gastrointestinal - colitis, pancreatitis General Disorders and Administration Site Conditions - edema Injury, poisoning, and procedural complications - radiation recall Respiratory - interstitial pneumonitis Skin – Serious and fatal bullous skin conditions, Stevens-Johnson syndrome, and toxic epidermal necrolysis
