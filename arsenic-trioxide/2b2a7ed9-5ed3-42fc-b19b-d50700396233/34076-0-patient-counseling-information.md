@@ -24,6 +24,7 @@ Embryo-Fetal Toxicity
 
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.5) and Use in Specific Populations 8.1)].
+
 Advise females of reproductive potential to use effective contraception during treatment with Arsenic Trioxide Injection and for 6 months after the last dose [see Use in Specific Populations (8.3)].
 
 Advise males with female partners of reproductive potential to use effective contraception during treatment with Arsenic Trioxide Injection for 3 months after the last dose [see Use in Specific Populations (8.3)].
@@ -46,16 +47,20 @@ Nexus Pharmaceuticals, Inc., Lincolnshire, Illinois 60069, USA
 
 Carton NDC 14789-600-10
 
-Vial NDC 14789-600-07 Arsenic Trioxide Injection
+Vial NDC 14789-600-07
+
+Arsenic Trioxide Injection
 
 The container closure is not made with natural rubber latex.
 
-10 X 10 mL Vials 10 mg/10 mL (1 mg/mL) For Intravenous Use Only
+10 X 10 mL Vials
+
+10 mg/10 mL (1 mg/mL) For Intravenous Use Only
 
 Rx only
 
-ARSPIR002DE
+ARSPI01DER003
 
 NEXUS PHARMACEUTICALS
 
-Revised by Nexus Pharmaceuticals, Inc. 09/2021
+Revised by Nexus Pharmaceuticals, Inc. 10/2022

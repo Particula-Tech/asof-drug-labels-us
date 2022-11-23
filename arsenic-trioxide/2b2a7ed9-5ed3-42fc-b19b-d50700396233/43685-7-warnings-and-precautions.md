@@ -7,14 +7,11 @@ In clinical trials, 16-23% of patients treated with Arsenic Trioxide Injection f
 Signs and symptoms include unexplained fever, dyspnea, hypoxia, acute respiratory distress, pulmonary infiltrates, pleural or pericardial effusion, weight gain, peripheral edema, hypotension, renal insufficiency, hepatopathy and multi-organ dysfunction.
 Differentiation syndrome has been observed with and without concomitant leukocytosis, and it has occurred as early as day 1 of induction to as late as the second month induction therapy.
 
-When Arsenic Trioxide Injection is used in combination with tretinoin, prophylaxis with prednisone is recommended during the induction cycle [see Dosage and Administration (2.1)].
-
 If differentiation syndrome is suspected, temporarily withhold Arsenic Trioxide Injection and immediately initiate dexamethasone 10 mg intravenously every 12 hours and hemodynamic monitoring until resolution of signs and symptoms for a minimum of 3 days [see Dosage and Administration (2.3)].
 
 ## 5.2 Cardiac Conduction Abnormalities
 
 Patients treated with Arsenic Trioxide Injection can develop QTc prolongation, torsade de pointes, and complete atrioventricular block.
-In the clinical trials of patients with newly-diagnosed low-risk APL treated with Arsenic Trioxide Injection in combination with tretinoin, 11% experienced QTc (Framingham formula) prolongation > 450 msec for men and > 460 msec for women throughout the treatment cycles.
 In the clinical trial of patients with relapsed or refractory APL treated with Arsenic Trioxide Injection monotherapy, 40% had at least one ECG tracing with a QTc interval greater than 500 msec.
 A prolonged QTc was observed between 1 and 5 weeks after start of Arsenic Trioxide Injection infusion, and it usually resolved by 8 weeks after Arsenic Trioxide Injection infusion.
 There are no data on the effect of Arsenic Trioxide Injection on the QTc interval during the infusion of the drug.
@@ -51,12 +48,8 @@ Monitor until symptoms resolve or improve and thiamine levels normalize.
 
 ## 5.4 Hepatotoxicity
 
-In the clinical trials, 44% of patients with newly-diagnosed low-risk APL treated with Arsenic Trioxide Injection in combination with tretinoin experienced elevated aspartate aminotransferase (AST), alkaline phosphatase, and/or serum bilirubin.
-These abnormalities resolved with temporary discontinuation of Arsenic Trioxide Injection and/or tretinoin.
-Long-term liver abnormalities can occur in patients with APL treated with Arsenic Trioxide Injection in combination with tretinoin.
-In a published series, mild liver dysfunction and hepatic steatosis were seen in 15% and 43%, respectively, of patients at a median of 7 years (range 0 to 14 years) after treatment with arsenic trioxide in combination with tretinoin.
 During treatment with Arsenic Trioxide Injection, monitor hepatic function tests at least twice weekly during induction and at least once weekly during consolidation.
-Withhold Arsenic Trioxide Injection and/or tretinoin if elevations in AST or alkaline phosphatase occur to greater than 5 times the upper limit of normal and/or elevation in serum total bilirubin occurs to greater than 3 times the upper limit of normal and resume at reduced dose upon resolution [see Dosage and Administration (2.3)].
+Withhold Arsenic Trioxide Injection if elevations in AST or alkaline phosphatase occur to greater than 5 times the upper limit of normal and/or elevation in serum total bilirubin occurs to greater than 3 times the upper limit of normal and resume at reduced dose upon resolution [see Dosage and Administration (2.3)].
 
 ## 5.5 Carcinogenesis
 

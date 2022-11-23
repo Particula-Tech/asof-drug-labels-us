@@ -8,13 +8,11 @@ Arsenic Trioxide Injection
 
 10 mg/10 mL (1 mg/mL)
 
-For Intravenous Infusion Only
+For Intravenous Use Only
 
-Preservative Free
+Single Dose Vials - Discard Unused Portion
 
-Cytotoxic Agent
-
-10 x 10 mL Single Dose Vial
+10 x 10 mL Single Dose Vials
 
 NEXUS PHARMACEUTICALS
 
@@ -28,8 +26,10 @@ Arsenic Trioxide Injection
 
 10 mg/10 mL (1 mg/mL)
 
-For Intravenous Infusion Only
+For Intravenous Use Only
 
-Cytotoxic Agent
+Cytoxic Agent
 
 10 mL Single Dose Vial
+
+Discard Unused Portion

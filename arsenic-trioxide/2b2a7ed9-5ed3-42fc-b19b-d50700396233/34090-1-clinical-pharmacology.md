@@ -24,7 +24,7 @@ Over the total single-dose range of 7 to 32 mg (administered as 0.15 mg/kg), sys
 
 Peak plasma concentrations of arsenious acid (AsIII), the primary active arsenical species were reached at the end of infusion (2 hours).
 Plasma concentration of AsIII declined in a biphasic manner with a mean elimination half-life of 10 to 14 hours and is characterized by an initial rapid distribution phase followed by a slower terminal elimination phase.
-The daily exposure to AsIII (mean AUC0-24h) was 194 ng·hr/mL (n=5) on Day 1 of Cycle 1 and 332 ng·hr/mL (n=6) on Day 25 of Cycle 1, which represents an approximate 2-fold accumulation.
+The daily exposure to AsIII (mean AUC0-24h) was 194 ng·hr/mL (n=5) on Day 1 of Cycle 1 and 332 ng·hr/mL (n=6) on Day 25 of Cycle 1, which represents an approximate 2- fold accumulation.
 
 The primary pentavalent metabolites, MMAV and DMAV, are slow to appear in plasma (approximately 10-24 hours after first administration of arsenic trioxide), but, due to their longer half-life, accumulate more upon multiple dosing than does AsIII.
 The mean estimated terminal elimination half-lives of the metabolites MMAV and DMAV are 32 hours and 72 hours, respectively.
@@ -57,7 +57,7 @@ Patients with Renal Impairment
 
 The effect of renal impairment on the pharmacokinetics of AsIII, AsV, and the pentavalent metabolites MMAV and DMAV was evaluated in 20 patients with advanced malignancies.
 Patients were classified as having normal renal function (creatinine clearance [CLcr] > 80 mL/min, n=6), mild renal impairment (CLcr 50-80 mL/min, n=5), moderate renal impairment (CLcr 30-49 mL/min, n=6), or severe renal impairment (CLcr < 30 mL/min, n=3).
-Following twice-weekly administration of 0.15 mg/kg over a 2-hour infusion, the mean AUC0-INF for AsIII was comparable among the normal, mild and moderate renal impairment groups.
+Following twice-weekly administration of 0.15 mg/kg over a 2- hour infusion, the mean AUC0-INF for AsIII was comparable among the normal, mild and moderate renal impairment groups.
 However, in the severe renal impairment group, the mean AUC0-INF for AsIII was approximately 48% higher than that in the normal group.
 
 Systemic exposure to MMAV and DMAV tended to be larger in patients with renal impairment; however, the clinical consequences of this increased exposure are not known.

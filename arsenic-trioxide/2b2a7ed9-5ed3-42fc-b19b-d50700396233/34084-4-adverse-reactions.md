@@ -7,71 +7,10 @@ The following clinically significant adverse reactions are described elsewhere i
 - Encephalopathy [see Warnings and Precautions (5.3)]
 - Hepatotoxicity [see Warnings and Precautions (5.4)]
 - Carcinogenesis [see Warnings and Precautions (5.5)]
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-Newly-Diagnosed Low-Risk APL
-
-The safety of Arsenic Trioxide Injection in combination with tretinoin was evaluated in Study APL0406, a randomized trial comparing Arsenic Trioxide Injection plus tretinoin (n=129) versus chemotherapy plus tretinoin (n=137) in patients with newly-diagnosed APL [see Clinical Studies (14.1)].
-In the Arsenic Trioxide Injection/tretinoin group, 98% of patients completed induction therapy and 89% completed at least three consolidation cycles.
-In the chemotherapy/tretinoin group, 96% completed induction therapy and 87% patients completed all three courses of consolidation therapy.
-
-Serious adverse reactions were reported in 25% of patients on the Arsenic Trioxide Injection/tretinoin arm and 24% on the chemotherapy/tretinoin arm.
-The serious adverse reactions reported in ≥ 2% of patients who received Arsenic Trioxide Injection/tretinoin were abnormal liver tests, differentiation syndrome, dyspnea, pneumonia, and other infections.
-Fatal adverse reactions were reported in 1 (1%) patient on the Arsenic Trioxide Injection/tretinoin arm and 8 (6%) patients on the chemotherapy/tretinoin arm.
-
-Arsenic Trioxide Injection/tretinoin was discontinued due to toxicity in 1 patient during induction and in 4 patients during the first three consolidation courses, whereas chemotherapy/tretinoin was discontinued due to toxicity in 4 patients during induction and in 6 patients during consolidation.
-
-Selected hematologic and nonhematologic toxicities that occurred during induction or consolidation are presented in Table 4.
-
-Table 4: Select Adverse Reactions of Arsenic Trioxide Injection in Combination with Tretinoin in Patients with Newly-Diagnosed APL in Study APL0406
-
-| Adverse Reaction | Induction n (%) | First Consolidation n (%) | Second Consolidation n (%) | Third Consolidation n (%) |
-| --- | --- | --- | --- | --- |
-| Thrombocytopenia > 15 days (Grade 3-4) |  |  |  |  |
-| Arsenic Trioxide Injection | 74 (58%) | 6 (5%) | 6 (5%) | 8 (7%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 120 (88%) | 17 (14%) | 77 (63%) | 26 (22%) |
-| Neutropenia >15 days (Grade 3-4) |  |  |  |  |
-| Arsenic Trioxide Injection | 61 (48%) | 8 (7%) | 7 (6%) | 5 (4%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 109 (80%) | 40 (32%) | 90 (73%) | 28 (24%) |
-| Hepatic toxicity (Grade 3-4) |  |  |  |  |
-| Arsenic Trioxide Injection | 51 (40%) | 5 (4%) | 1 (1%) | 0 (0%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 4 (3%) | 1 (1%) | 0 (0%) | 0 (0%) |
-| Infection and fever of unknown origin |  |  |  |  |
-| Arsenic Trioxide Injection | 30 (23%) | 10 (8%) | 4 (3%) | 2 (2%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 75 (55%) | 8 (6%) | 46 (38%) | 2 (2%) |
-| Hypertriglyceridemia |  |  |  |  |
-| Arsenic Trioxide Injection | 29 (22%) | 22 (18%) | 17 (14%) | 16 (14%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 29 (22%) | 19 (15%) | 10 (8%) | 13 (11%) |
-| Hypercholesterolemia |  |  |  |  |
-| Arsenic Trioxide Injection | 14 (10%) | 19 (16%) | 19 (16%) | 16 (14%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 12 (9%) | 12 (10%) | 12 (10%) | 11 (9%) |
-| QT prolongation |  |  |  |  |
-| Arsenic Trioxide Injection | 11 (9%) | 3 (2%) | 3 (2%) | 2 (2%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 1 (1%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| Gastrointestinal toxicity (Grade 3-4) |  |  |  |  |
-| Arsenic Trioxide Injection | 3 (2%) | 0(0%) | 0 (0%) | 0 (0%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 25 (18%) | 1(1%) | 6 (5%) | 0 (0%) |
-| Neurotoxicity* |  |  |  |  |
-| Arsenic Trioxide Injection | 1 (1%) | 5 (4%) | 6 (5%) | 7 (6%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| Cardiac function (Grade 3-4) |  |  |  |  |
-| Arsenic Trioxide Injection | 0 (0%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| /tretinoin |  |  |  |  |
-| Chemotherapy/tretinoin | 5 (4%) | 0 (0%) | 0 (0%) | 0 (0%) |
-| *Mostly cases of reversible peripheral neuropathy |  |  |  |  |
 
 Relapsed or Refractory APL
 
@@ -132,7 +71,6 @@ Table 5: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL 
 | Injection site pain | 8 | 20 |  |  |
 | Pain - non-specific | 6 | 15 | 1 | 3 |
 | Injection site erythema | 5 | 13 |  |  |
-| General disorders and administration site conditions (Continued) |  |  |  |  |
 | Weight gain | 5 | 13 |  |  |
 | Injection site edema | 4 | 10 |  |  |
 | Weakness | 4 | 10 | 2 | 5 |
@@ -150,6 +88,10 @@ Table 5: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL 
 | Coma | 2 | 5 | 2 | 5 |
 | Cardiac disorders |  |  |  |  |
 | Tachycardia | 22 | 55 |  |  |
+
+| Body System Adverse reaction | Any Grade Adverse Reactions |  | Grade ≥ 3 Adverse Reactions |  |
+| --- | --- | --- | --- | --- |
+| n | % | n | % |  |
 | ECG QT corrected interval prolonged > 500 msec | 16 | 40 |  |  |
 | Palpitations | 4 | 10 |  |  |
 | ECG abnormal other than QT interval prolongation | 3 | 8 |  |  |
@@ -213,6 +155,10 @@ Table 5: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL 
 | Oral candidiasis | 2 | 5 |  |  |
 | Sepsis | 2 | 5 | 2 | 5 |
 | Reproductive system disorders |  |  |  |  |
+
+| Body System Adverse reaction | Any Grade Adverse Reactions |  | Grade ≥ 3 Adverse Reactions |  |
+| --- | --- | --- | --- | --- |
+| n | % | n | % |  |
 | Vaginal hemorrhage | 5 | 13 |  |  |
 | Intermenstrual bleeding | 3 | 8 |  |  |
 | Ocular disorders |  |  |  |  |
@@ -234,7 +180,7 @@ Other Clinically Relevant Adverse Reactions
 Leukocytosis
 
 Arsenic Trioxide Injection can induce proliferation of leukemic promyelocytes resulting in a rapid increase in white blood cell count.
-Leukocytosis greater than 10 Gi/L developed during induction therapy in 43% patients receiving Arsenic Trioxide Injection/tretinoin for newlydiagnosed low-risk APL and in 50% of patients receiving Arsenic Trioxide Injection monotherapy for relapsed/refractory APL.
+Leukocytosis greater than 10 Gi/L developed during induction therapy in 50% of patients receiving Arsenic Trioxide Injection monotherapy for relapsed/refractory APL.
 In the relapsed/refractory setting, a relationship did not exist between baseline WBC counts and development of hyperleukocytosis nor baseline WBC counts and peak WBC counts.
 
 ## 6.2 Postmarketing Experience

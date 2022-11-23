@@ -64,8 +64,6 @@ Based on testicular toxicities including decreased testicular weight and impaire
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of Arsenic Trioxide Injection in combination with tretinoin in pediatric patients has not been established.
-
 The safety and efficacy of Arsenic Trioxide Injection as a single agent for treatment of pediatric patients with relapsed or refractory APL is supported by the pivotal phase 2 study in 40 patients with relapsed or refractory APL.
 Five patients below the age of 18 years (age range: 5 to 16 years) were treated with Arsenic Trioxide Injection at the recommended dose of 0.15 mg/kg/day.
 A literature review included an additional 17 patients treated with arsenic trioxide for relapsed or refractory APL, with ages ranging from 4 to 21 years.
@@ -73,13 +71,7 @@ No differences in efficacy and safety were observed by age.
 
 ## 8.5 Geriatric Use
 
-Use of Arsenic Trioxide Injection in combination with tretinoin in newly-diagnosed adult patients with low-risk APL is supported by a randomized, controlled trial that included 16 patients between the ages of 60 and 70 years.
-No overall differences in safety or effectiveness were observed between these patients and younger patients.
-A literature review included an additional 77 patients aged 60 to 84 years who were treated with arsenic trioxide in combination with tretinoin as part of induction and consolidation therapy for low- and high-risk APL.
-These studies showed lower survival rates in older patients.
-Monitor elderly patients frequently during treatment with Arsenic Trioxide Injection.
-
-Use of Arsenic Trioxide Injection as monotherapy in patients with relapsed or refractory APL is supported by the open-label, single-arm trial that included 6 patients aged 65 and older (range: 65 to 73 years).
+Use of Arsenic Trioxide Injection as monotherapy in patients with relapsed or refractory APL is supported by the openlabel, single-arm trial that included 6 patients aged 65 and older (range: 65 to 73 years).
 A literature review included an additional 4 patients aged 69 to 72 years who were treated with arsenic trioxide for relapsed or refractory APL.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.
 

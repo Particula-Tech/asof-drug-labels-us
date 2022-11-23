@@ -14,6 +14,6 @@ Monitor electrolytes more frequently in patients who must receive concomitant us
 
 Drugs That Can Lead to Hepatotoxicity
 
-Concomitant use of these drugs and Arsenic Trioxide Injection, particularly when given in combination with tretinoin, may increase the risk of serious hepatotoxicity [see Warnings and Precautions (5.4)].
+Concomitant use of these drugs and Arsenic Trioxide Injection may increase the risk of serious hepatotoxicity [see Warnings and Precautions (5.4)].
 Discontinue or replace with an alternative drug that does not cause hepatotoxicity while the patient is using Arsenic Trioxide Injection.
 Monitor liver function tests more frequently in patients when it is not feasible to avoid concomitant use.
