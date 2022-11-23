@@ -45,4 +45,4 @@ Infertility
 
 Advise males of reproductive potential that temozolomide may impair fertility [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
 
-Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code No.: TS/DRUGS/24/2015 Issued: 04/2022 PIR82120-00
+Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code No.: TS/DRUGS/24/2015 Revised: 05/2022 PIR82120-01

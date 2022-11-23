@@ -263,7 +263,8 @@ The capsules contain a white capsule body with a color cap, and the colors vary 
 | 180 mg | Swedish Orange Cap |
 | 250 mg | White Cap |
 
-The 5 mg, 20 mg, 100 mg, 140 mg, 180 mg and 250 mg capsule strengths are available in 5 count and 20 count packages.
+The 5 mg, 20 mg, 100 mg, 140 mg, 180 mg capsule strengths are available in 5 count, 14 count and 20 count packages.
+The 250-mg capsule strength is available in 5 count and 20 count packages.
 How is Temozolomide dispensed?
 Dispense each strength of Temozolomide in a separate vial or in its original package (one strength per one container).
 Follow the instructions below: Based on the dose prescribed, determine the number of each strength of Temozolomide capsules needed for the full 42- or 5-day cycle as prescribed by the physician.
@@ -277,7 +278,7 @@ Remember to order enough Temozolomide for the appropriate cycle.
 For example:
 
 - a 5-day course of 360 mg/day would require the following to be ordered: two 5-count packages of 180 mg capsules.
-- a 42-day course of 140 mg/day would require the following to be ordered: two 20-count packages of 140 mg capsules and one 5-count package of 140 mg.
+- a 42-day course of 140 mg/day would require the following to be ordered: three 14-count packages of 140 mg capsules.
 
-Temozolomide Capsules, USP 5 mg: 5 count: NDC 16571-816-51 20 count: NDC 16571-816-02 Temozolomide Capsules, USP 20 mg: 5 count: NDC 16571-817-51 20 count: NDC 16571-817-02 Temozolomide Capsules, USP 100 mg: 5 count: NDC 16571-818-51 20 count: NDC 16571-818-02 Temozolomide Capsules, USP 140 mg: 5 count: NDC 16571-819-51 20 count: NDC 16571-819-02 Temozolomide Capsules, USP 180 mg: 5 count: NDC 16571-820-51 20 count: NDC 16571-820-02 Temozolomide Capsules, USP 250 mg: 5 count: NDC 16571-821-51 20 count: NDC 16571-821-02 References: “OSHA Hazardous Drugs.”
-OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code No.: TS/DRUGS/24/2015 Issued: 04/2022 PLR82120-00
+Temozolomide Capsules, USP 5 mg: 5 count: NDC 16571-816-51 14 count: NDC 16571-816-41 20 count: NDC 16571-816-02 Temozolomide Capsules, USP 20 mg: 5 count: NDC 16571-817-51 14 count: NDC 16571-817-41 20 count: NDC 16571-817-02 Temozolomide Capsules, USP 100 mg: 5 count: NDC 16571-818-51 14 count: NDC 16571-818-41 20 count: NDC 16571-818-02 Temozolomide Capsules, USP 140 mg: 5 count: NDC 16571-819-51 14 count: NDC 16571-819-41 20 count: NDC 16571-819-02 Temozolomide Capsules, USP 180 mg: 5 count: NDC 16571-820-51 14 count: NDC 16571-820-41 20 count: NDC 16571-820-02 Temozolomide Capsules, USP 250 mg: 5 count: NDC 16571-821-51 20 count: NDC 16571-821-02 References: “OSHA Hazardous Drugs.”
+OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code No.: TS/DRUGS/24/2015 Revised: 05/2022 PLR82120-01
