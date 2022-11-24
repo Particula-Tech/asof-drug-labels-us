@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Worsening of Urinary Retention
+New or Worsening Urinary Retention
 
 Instruct patients to be alert for signs and symptoms of urinary retention (e.g., difficulty passing urine, distended bladder).
 Instruct patients to discontinue use and consult a physician immediately should any of these signs or symptoms develop.
@@ -23,14 +23,16 @@ It is important for patients to understand how to correctly apply Qbrexza (see P
 
 - Instruct patients to use one cloth to apply Qbrexza to both axillae by wiping the cloth across one underarm, ONE TIME.
 - Using the same cloth, apply the medication to the other underarm, ONE TIME.
-- Inform patients that Qbrexza can cause temporary dilation of the pupils and blurred vision if it comes in contact with the eyes.
-- Instruct patients to wash their hands with soap and water immediately after discarding the used cloth.
+- After applying Qbrexza, discard the cloth in the household trash out of reach of children and others.
+- Wash your hands with soap and water right away after you apply Qbrexza and have thrown away the cloth.
+- Inform patients to avoid touching the periocular area.
+  The Qbrexza that is still on your hands can cause you to have temporary pupil dilation and blurred vision if you touch your eyes.
 - Remind patients not to apply Qbrexza to other body areas or to broken skin.
   Instruct patients to avoid using Qbrexza with occlusive dressings.
 - Qbrexza is flammable; avoid use near heat or flame.
 
 Manufactured for:
 
-Journey Medical Corporation 9237 Via De Ventura Suite 105 Scottsdale, AZ 85258
+Journey Medical Corporation Scottsdale, AZ 85258
 
-Version 1, April 2021
+Version 2, October 2022

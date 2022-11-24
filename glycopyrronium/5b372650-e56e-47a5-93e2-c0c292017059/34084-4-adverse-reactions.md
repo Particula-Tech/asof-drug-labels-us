@@ -2,7 +2,7 @@
 
 The following adverse reactions are described in greater detail in other sections
 
-- Worsening of Urinary Retention [see Warnings and Precautions (5.1)]
+• New or Worsening Urinary Retention [see Warnings and Precautions (5.1)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -41,3 +41,10 @@ Table 2: Local Skin Reactions
 
 In an open-label safety trial (NCT02553798), 564 subjects were treated for up to an additional 44 weeks after completing Trial 1 or Trial 2.
 Adverse reactions occurring at a frequency ≥2.0% were: dry mouth (16.9%), vision blurred (6.7%), nasopharyngitis (5.8%), mydriasis (5.3%), urinary hesitation (4.2%), nasal dryness (3.6%), dry eye (2.9%), pharyngitis (2.2%), and application site reactions (pain [6.4%], dermatitis [3.8%], pruritus [3.8%], rash [3.8%], erythema [2.4%]).
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of Qbrexza.
+Because the reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to Qbrexza exposure.
+
+• Genitourinary system disorders: new onset urinary retention [see Warnings and Precautions (5.1)]

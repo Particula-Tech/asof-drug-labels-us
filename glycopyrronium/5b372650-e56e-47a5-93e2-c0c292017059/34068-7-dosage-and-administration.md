@@ -12,6 +12,7 @@ Tear open the pouch and pull out the cloth, unfold the cloth, and wipe it across
 Using the same cloth, wipe the other underarm once.
 A single cloth should be used to apply Qbrexza to both underarms.
 
+After applying Qbrexza, discard the cloth in the household trash out of reach of children and others.
 Wash hands immediately with soap and water after applying and discarding the Qbrexza cloth.
 Qbrexza may cause temporary dilation of the pupils and blurred vision if it comes in contact with the eyes.
 Avoid transfer of Qbrexza to the periocular area [see Warnings and Precautions (5.3)].
