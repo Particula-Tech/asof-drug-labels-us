@@ -4,10 +4,10 @@ Baxter Logo Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 To report suspected adverse reactions, contact Baxter Healthcare at 1-866-888-2472.
 
-CARDENE® is a registered trademark of Chiesi USA, Inc.
+Baxter and Galaxy are registered trademarks of Baxter International Inc.
 
-Galaxy is a registered trademark of Baxter International Inc.
+Cardene is a registered trademark of Chiesi USA, Inc. and is used under license.
 
 U.S. Patent Numbers 7612102 and 7659291
 
-07-19-04-232
+07-19-00-5610
