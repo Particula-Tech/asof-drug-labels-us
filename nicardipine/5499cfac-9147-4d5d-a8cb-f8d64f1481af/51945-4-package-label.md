@@ -1,6 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.86% Sodium Chloride Injection
 
 For Intravenous Infusion Only.
@@ -45,7 +45,7 @@ PL 2501 Plastic
 
 *BAR CODE POSITION ONLY 343066021108
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
 
 20 mg in 200 mL
@@ -54,14 +54,14 @@ NDC 43066-021-10
 
 Code 2G3445
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
 
 For Intravenous Infusion Only.
 
 NovaplusTM
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
 
 Rx only
@@ -74,7 +74,7 @@ STORE IN CARTON UNTIL READY TO USE
 
 20 mg in 200 mL
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
 
 20 mg in 200 mL (0.1 mg/mL)
@@ -105,7 +105,7 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 CARDENE® is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
+U.S. Patent Numbers 7612102 and 7659291 CARDENE is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
 
 Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
@@ -113,17 +113,17 @@ To report suspected adverse reactions, contact Baxter Healthcare Corporation at 
 
 07-01-00-0859
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
 
 20 mg in 200 mL
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.86 Sodium Chloride Injection
 
 20 mg in 200 mL
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 For Intravenous Infusion Only.
@@ -172,7 +172,7 @@ POSITION ONLY
 
 343066024109
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 40 mg in 200 mL
@@ -183,14 +183,14 @@ NDC 43066-024-10
 
 Code 2G3446
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 DOUBLE CONCENTRATION: CHECK INFUSION RATE
 
 NovaplusTM
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 Rx only
@@ -203,7 +203,7 @@ STORE IN CARTON UNTIL READY TO USE
 
 40 mg in 200 mL
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 40 mg in 200 mL (0.2 mg/mL)
@@ -234,7 +234,7 @@ Protect from freezing.
 Avoid excessive heat.
 PROTECT FROM LIGHT, STORE IN CARTON UNTIL READY TO USE.
 
-U.S. Patent Numbers 7612102 and 7659291 CARDENE® is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
+U.S. Patent Numbers 7612102 and 7659291 CARDENE is a registered trademark of Chiesi USA, Inc. Galaxy is a registered trademark of Baxter International Inc. Novaplus is a registered trademark of Vizient, Inc.
 
 Manufactured and Marketed by: Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
@@ -242,12 +242,12 @@ To report suspected adverse reactions, contact Baxter Healthcare Corporation at 
 
 07-01-00-0860
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 40 mg in 200 mL
 
-CARDENE® I.V.
+CARDENE I.V.
 Nicardipine Hydrochloride in 0.83% Sodium Chloride Injection
 
 40 mg in 200 mL
