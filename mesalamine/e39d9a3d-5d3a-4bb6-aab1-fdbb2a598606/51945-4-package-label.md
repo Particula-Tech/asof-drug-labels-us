@@ -29,21 +29,3 @@ Rx only
 500 mg
 
 Takeda
-
-# PRINCIPAL DISPLAY PANEL - 500 mg Capsule Sample Carton
-
-191-08 NDC 54092-191-08
-
-Pentasa® (mesalamine)
-
-Controlled-Release Capsules
-
-8 CAPSULES
-
-Rx only
-
-Patient Sample–Not for Sale
-
-500 mg
-
-Shire

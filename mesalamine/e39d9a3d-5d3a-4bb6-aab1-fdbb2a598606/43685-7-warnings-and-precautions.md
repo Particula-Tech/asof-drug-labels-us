@@ -7,6 +7,7 @@ Renal impairment, including minimal change disease, acute and chronic interstiti
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on therapy with PENTASA.
 Evaluate the risks and benefits of using PENTASA in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
+Discontinue PENTASA if renal function deteriorates while on therapy.
 
 ## Mesalamine-Induced Acute Intolerance Syndrome
 
