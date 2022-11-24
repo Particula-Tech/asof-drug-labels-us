@@ -2,17 +2,17 @@
 
 The following adverse reactions are described elsewhere in the labeling:
 
-- Angioedema [see Warnings and Precautions (5.1)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
-- Respiratory Depression [see Warnings and Precautions (5.4)]
-- Dizziness and Somnolence [see Warnings and Precautions (5.5)]
-- Risks Associated with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
-- Peripheral Edema [see Warnings and Precautions (5.7)]
-- Weight Gain [see Warnings and Precautions (5.8)]
-- Ophthalmological Effects [see Warnings and Precautions (5.10)]
-- Creatine Kinase Elevations [see Warnings and Precautions (5.11)]
-- Decreased Platelet Count [see Warnings and Precautions (5.12)]
+- •Angioedema [see Warnings and Precautions (5.1)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.2)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
+- •Respiratory Depression [see Warnings and Precautions (5.4)]
+- •Dizziness and Somnolence [see Warnings and Precautions (5.5)]
+- •Risks Associated with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
+- •Peripheral Edema [see Warnings and Precautions (5.7)]
+- •Weight Gain [see Warnings and Precautions (5.8)]
+- •Ophthalmological Effects [see Warnings and Precautions (5.10)]
+- •Creatine Kinase Elevations [see Warnings and Precautions (5.11)]
+- •Decreased Platelet Count [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -34,8 +34,7 @@ Most Common Adverse Reactions
 
 Table 4 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with postherpetic neuralgia who received LYRICA CR, regardless of the phase of the study.
 
-Table 4.
-Incidence of Adverse Reactions Reported in Greater Than or Equal to 1% of Subjects in Any Phase of the LYRICA CR Study in Patients With Postherpetic NeuralgiaTable is limited to adverse reactions that occurred with higher incidence in LYRICA CR-treated patients than in placebo-treated patients for the DB Phase of the study.
+Table 4.Incidence of Adverse Reactions Reported in Greater Than or Equal to 1% of Subjects in Any Phase of the LYRICA CR Study in Patients With Postherpetic NeuralgiaTable is limited to adverse reactions that occurred with higher incidence in LYRICA CR-treated patients than in placebo-treated patients for the DB Phase of the study.
 
 | LYRICA CR [N=801] n (%) | LYRICA CR [N=208] n (%) | Placebo [N=205] n (%) |  |
 | --- | --- | --- | --- |
