@@ -22,9 +22,9 @@ Packaged Individually NDC 55150-383-01
 
 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
+Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 The vial stopper is not made with natural rubber latex.
 
-Pemetrexed for injection, USP is a cytotoxic drug.
+Pemetrexed for injection, USP is a hazardous drug.
 Follow applicable special handling and disposal procedures1.

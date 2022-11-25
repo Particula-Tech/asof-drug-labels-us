@@ -83,7 +83,7 @@ Table 3: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients i
 | Neutropenia | 48 | 20 | 41 | 19 |
 | Thrombocytopenia | 30 | 12 | 29 | 8 |
 
-a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: pemetrexed /pembrolizumab/platinum chemotherapy (range: 381 to 401 patients) and placebo/pemetrexed/platinum chemotherapy (range: 184 to 197 patients).
+a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: pemetrexed/pembrolizumab/platinum chemotherapy (range: 381 to 401 patients) and placebo/pemetrexed/platinum chemotherapy (range: 184 to 197 patients).
 
 b Graded per NCI CTCAE version 4.03.
 
@@ -105,7 +105,7 @@ Study JMDB was not designed to demonstrate a statistically significant reduction
 
 Table 4: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Patients Receiving Pemetrexed in Combination with Cisplatin Chemotherapy in Study JMDB
 
-| Adverse Reactiona | Pemetrexed /Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
+| Adverse Reactiona | Pemetrexed/Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3 to 4 (%) | All Grades (%) | Grade 3 to 4 (%) |  |
 | All adverse reactions | 90 | 37 | 91 | 53 |
@@ -146,7 +146,7 @@ General Disorders — dehydration
 
 Metabolism and Nutrition — increased AST, increased ALT
 
-Renal —renal failure
+Renal — renal failure
 
 Eye Disorder — conjunctivitis
 
@@ -180,7 +180,7 @@ Table 5: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed i
 
 | All Grades (%) | Grade 3 to 4 (%) | All Grades (%) | Grade 3 to 4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reactiona | Pemetrexed(N=438) |  | Placebo (N=218) |  |
+| Adverse Reactiona | Pemetrexed (N=438) |  | Placebo (N=218) |  |
 | All adverse reactions | 66 | 16 | 37 | 4 |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
@@ -301,7 +301,7 @@ Treatment of Recurrent Disease After Prior Chemotherapy
 
 The safety of pemetrexed was evaluated in Study JMEI, a randomized (1:1), open-label, active-controlled trial conducted in patients who had progressed following platinum-based chemotherapy.
 Patients received pemetrexed 500 mg/m2 intravenously or docetaxel 75 mg/m2 intravenously on Day 1 of each 21-day cycle.
-All patients on the pemetrexed arm received folic acid and vitamin B12 supplementation
+All patients on the pemetrexed arm received folic acid and vitamin B12 supplementation.
 
 Study JMEI excluded patients with an ECOG PS of 3 or greater, uncontrolled third-space fluid retention, inadequate bone marrow reserve and organ function, or a calculated creatinine clearance less than 45 mL/min.
 Patients unable to discontinue aspirin or other non-steroidal anti-inflammatory drugs or unable to take folic acid, vitamin B12 or corticosteroids were also excluded from the study.

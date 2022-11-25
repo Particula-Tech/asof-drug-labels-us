@@ -39,7 +39,7 @@ Table 10: Efficacy Results of KEYNOTE-189
 | Hazard ratioa (95% CI) | 0.49 (0.38, 0.64) |  |
 | p-valueb | <0.0001 |  |
 | PFS |  |  |
-| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Number of patients with event (%) | 245 (60%) | 166 (81%) |
 | Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
 | Hazard ratioa (95% CI) | 0.52 (0.43, 0.64) |  |
 | p-valueb | <0.0001 |  |
@@ -61,18 +61,20 @@ d Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum ch
 
 NR = not reached
 
+At the protocol specified final OS analysis, the median in the pemetrexed in combination with pembrolizumab and platinum chemotherapy arm was 22.0 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
+
 P+P+C = Pemetrexed + pembrolizumab + platinum chemotherapy.
 
 P+C = Pemetrexed + platinum chemotherapy + placebo.
 
-Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189
+Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189*
 
-Initial Treatment in Combination with Cisplatin
+*Based on the protocol-specified final OS analysis
 
-The efficacy of pemetrexed was evaluated in Study JMDB (NCT00087711), a multi-center, randomized (1:1), open-label study conducted in 1,725 chemotherapy-naive patients with Stage IIIb/IV NSCLC.
+Initial Treatment in Combination with Cisplatin The efficacy of pemetrexed was evaluated in Study JMDB (NCT00087711), a multi-center, randomized (1:1), open-label study conducted in 1,725 chemotherapy-naive patients with Stage IIIb/IV NSCLC.
 Patients were randomized to receive pemetrexed with cisplatin or gemcitabine with cisplatin.
 Randomization was stratified by Eastern Cooperative Oncology Group Performance Status (ECOG PS 0 versus 1), gender, disease stage, basis for pathological diagnosis (histopathological/cytopathological), history of brain metastases, and investigative center.
-Pemetrexed was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21- day cycle.
+Pemetrexed was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21-day cycle.
 Cisplatin was administered intravenously at a dose of 75 mg/m2 approximately 30 minutes after pemetrexed administration on Day 1 of each cycle, gemcitabine was administered at a dose of 1,250 mg/m2 on Day 1 and Day 8, and cisplatin was administered intravenously at a dose of 75 mg/m2 approximately 30 minutes after administration of gemcitabine, on Day 1 of each 21-day cycle.
 Treatment was administered up to a total of 6 cycles; patients in both arms received folic acid, vitamin B12, and dexamethasone [see Dosage and Administration (2.4)].
 The primary efficacy outcome measure was overall survival.
@@ -250,7 +252,7 @@ In subgroup analyses, there was no evidence of a treatment effect on survival in
 
 Table 16: Efficacy Results in Study JMEI
 
-| Efficacy Parameter | Pemetrexed(N=283) | Docetaxel (N=288) |
+| Efficacy Parameter | Pemetrexed (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
 | Overall survival |  |  |
 | Median (months) (95% CI) | 8.3 (7 to 9.4) | 7.9 (6.3 to 9.2) |

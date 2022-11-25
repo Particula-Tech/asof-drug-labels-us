@@ -26,7 +26,8 @@ Please refer to the full prescribing information for pembrolizumab and for carbo
 Vitamin Supplementation • Initiate folic acid 400 mcg to 1,000 mcg orally once daily, beginning 7 days before the first dose of pemetrexed for injection and continuing until 21 days after the last dose of pemetrexed for injection [see Warnings and Precautions (5.1)].
 
 • Administer vitamin B12, 1 mg intramuscularly, 1 week prior to the first dose of pemetrexed for injection and every 3 cycles thereafter.
-Subsequent vitamin B12 injections may be given the same day as treatment with pemetrexed for injection [see Warnings and Precautions (5.1)].Do not substitute oral vitamin B12 for intramuscular vitamin B12.
+Subsequent vitamin B12 injections may be given the same day as treatment with pemetrexed for injection [see Warnings and Precautions (5.1)].
+Do not substitute oral vitamin B12 for intramuscular vitamin B12.
 
 Corticosteroids • Administer dexamethasone 4 mg orally twice daily for three consecutive days, beginning the day before each pemetrexed for injection administration.
 
@@ -57,7 +58,7 @@ Table 1: Recommended Dosage Modifications for Adverse Reactionsa
 
 | Toxicity in Most Recent Treatment Cycle | Pemetrexed for Injection Dose Modification for Next Cycle |
 | --- | --- |
-| Myelosuppressive toxicity[see Warnings and Precautions (5.1)] |  |
+| Myelosuppressive toxicity [see Warnings and Precautions (5.1)] |  |
 | ANC less than 500/mm3and platelets greater than or equal to 50,000/mm3 OR Platelet count less than 50,000/mm3 without bleeding. | 75% of previous dose |
 | Platelet count less than 50,000/mm3 with bleeding | 50% of previous dose |
 | Recurrent Grade 3 or 4 myelosuppression after 2 dose reductions | Discontinue |
@@ -74,7 +75,7 @@ a National Cancer Institute Common Toxicity Criteria for Adverse Events version 
 
 ## 2.7 Preparation for Administration
 
-• Pemetrexed for injection is a cytotoxic drug.
+• Pemetrexed for injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 • Calculate the dose of pemetrexed for injection and determine the number of vials needed.

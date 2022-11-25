@@ -4,7 +4,7 @@ Rx only NDC 55150-381-01 Pemetrexed for Injection, USP 100 mg per vial For Intra
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL- 100 mg per vial - Container Carton
 
-Rx only NDC 55150-381-01 Pemetrexed for Injection, USP 100 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial AUROMEDICS
+Rx only NDC 55150-381-01 Pemetrexed for Injection, USP 100 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL- 500 mg per vial - Container Label
 
@@ -12,12 +12,12 @@ Rx only NDC 55150-382-01 Pemetrexed for Injection, USP 500 mg per vial For Intra
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL- 500 mg per Vial - Container Carton
 
-Rx only NDC 55150-382-01 Pemetrexed for Injection, USP 500 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial AUROMEDICS
+Rx only NDC 55150-382-01 Pemetrexed for Injection, USP 500 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL- 1,000 mg per vial - Container Label
 
-Rx only NDC 55150-383-01 Pemetrexed for Injection, USP 1,000 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial Discard Unused Portion
+Rx only NDC 55150-383-01 Pemetrexed for Injection, USP 1,000 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial Discard Unused Portion eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL- 1,000 mg per Vial - Container Carton
 
-Rx only NDC 55150-383-01 Pemetrexed for Injection, USP 1,000 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial AUROMEDICS
+Rx only NDC 55150-383-01 Pemetrexed for Injection, USP 1,000 mg per vial For Intravenous Use Only Caution: Cytotoxic Agent Single-Dose Vial eugia
