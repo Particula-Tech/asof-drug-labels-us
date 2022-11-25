@@ -10,5 +10,5 @@ Refrigeration of undiluted Succinylcholine Chloride Injection, USP will assure f
 Store in refrigerator 2° to 8°C (36° to 46°F).
 The multiple-dose vials are stable for up to 14 days at room temperature without significant loss of potency.
 For Medical Information about Succinylcholine Chloride Injection, USP, call 864-879-9994.
-Manufactured by: Gland Pharma Limited D.P.Pally, Hyderabad-500043, India.
-Revised: January 2022
+Manufactured by: Gland Pharma Limited D.P.Pally, Hyderabad - 500043 India.
+Revised: November 2022

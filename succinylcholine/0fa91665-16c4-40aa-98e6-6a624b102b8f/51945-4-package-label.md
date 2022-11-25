@@ -1,10 +1,12 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Succinylcholine Chloride Injection USP, 200 mg/10 mL (20 mg/mL) - Vial label
+Vial Label:
 
-NDC 68083-450-01
+NDC 68083-450-01 Rx only
 
-Rx only Succinylcholine Chloride Injection, USP 200 mg/10 mL (20 mg/mL)
+Succinylcholine Chloride
+
+Injection, USP 200 mg/10 mL (20 mg/mL)
 
 For Intravenous or Intramuscular use
 
@@ -12,11 +14,11 @@ WARNING: Paralyzing Agent
 
 10 mL Multiple-Dose Vial
 
-Succinylcholine Chloride Injection USP, 200 mg/10 mL (20 mg/mL) - Carton label
+Carton Label:
 
-NDC 68083-450-25
+NDC 68083-450-25 Rx only
 
-Rx only Succinylcholine Chloride Injection, USP 200 mg/10 mL (20 mg/mL)
+Succinylcholine Chloride Injection, USP 200 mg/10 mL (20 mg/mL)
 
 For intravenous or intramuscular use
 
@@ -26,7 +28,7 @@ Store in refrigerator 2° to 8°C (36° to 46°F).
 
 25 x 10 mL Multiple-Dose Vials
 
-Succinylcholine Chloride Injection USP, 200 mg/10 mL (20 mg/mL) - Sticker label
+Sticker Label:
 
 Succinylcholine Chloride Injection, USP
 
