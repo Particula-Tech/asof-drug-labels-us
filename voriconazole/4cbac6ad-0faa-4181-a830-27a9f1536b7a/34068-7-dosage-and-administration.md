@@ -12,7 +12,8 @@ See Table 1.
 Therapy must be initiated with the specified loading dose regimen of intravenous voriconazole on Day 1 followed by the recommended maintenance dose (RMD) regimen.
 Intravenous treatment should be continued for at least 7 days.
 Once the patient has clinically improved and can tolerate medication given by mouth, the oral tablet form or oral suspension form of voriconazole may be utilized.
-The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg intravenously; a 300 mg oral dose achieves an exposure similar to 4 mg/kg intravenously [see Clinical Pharmacology (12.3)].
+The recommended oral maintenance dose of 200 mg achieves a voriconazole exposure similar to 3 mg/kg intravenously; a 300 mg oral dose achieves an exposure similar to 4 mg/kg intravenously [see Clinical Pharmacology (Error!
+Hyperlink reference not valid.)].
 
 Candidemia in non-neutropenic patients and other deep tissue Candida infections
 

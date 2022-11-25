@@ -1,8 +1,8 @@
 # PATIENT INFORMATION
 
-Voriconazole Tablets
+Voriconazole (vor ih KON ah zole)
 
-(vor ih KON ah zole)
+tablets, for oral use
 
 Read the Patient Information that comes with voriconazole tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -21,7 +21,7 @@ Do not take voriconazole tablets if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
 
-| opimozideorifampinoefavirenz oergotamine, dihydroergotamine (ergot alkaloids)otolvaptanovenetoclax | oquinidineocarbamazepine oritonaviroSt.John’s Wort (herbal supplement)olurasidone | osirolimusolong-acting barbiturates like phenobarbitalorifabutinonaloxegoloivabradine |
+| •pimozide•rifampin•efavirenz •ergotamine, dihydroergotamine (ergot alkaloids)•tolvaptan•venetoclax | •quinidine•carbamazepine •ritonavir•St.John’s Wort (herbal supplement)•lurasidone | •sirolimus•long-acting barbiturates like phenobarbital•rifabutin•naloxegol•ivabradine |
 | --- | --- | --- |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
@@ -57,10 +57,10 @@ Keep a list of them to show your healthcare provider or pharmacist when you get 
 How should I take voriconazole tablets?
 
 - •Voriconazole tablets may be prescribed to you as:
-- ovoriconazole tablets
+- •voriconazole tablets
 - •Take voriconazole tablets exactly as your healthcare provider tells you to.
 - •Take voriconazole tablets at least 1 hour before or at least 1 hour after meals.
-- •If you take too much voriconazole, call your healthcare provider or go to the nearest hospital emergency room.
+- •If you take too many voriconazole tablets, call your healthcare provider or go to the nearest hospital emergency room.
 
 What should I avoid while taking voriconazole tablets?
 
@@ -80,37 +80,34 @@ Voriconazole tablets may cause serious side effects including:
 - •liver problems.
   Symptoms of liver problems may include:
 
-| oitchy skin | oyellowing of your eyes | ofeeling very tired |
+| •itchy skin | •yellowing of your eyes | •feeling very tired |
 | --- | --- | --- |
-| oflu-like symptoms | onausea or vomiting |  |
+| •flu-like symptoms | •nausea or vomiting |  |
 
 - •vision changes.
   Symptoms of vision changes may include:
 - •blurred vision
 - •changes in the way you see colors
-- •sensitivity to light or sun (photophobia).
+- •sensitivity to light or sun (photosensitivity).
   Voriconazole tablets can cause serious photosensitivity.
   There is an increased chance of skin toxicity while taking voriconazole tablets.
   This can happen with or without taking other medicines like methotrexate.
 
 Photosensitivity reactions may also increase your risk of:
 
-- ofaster skin aging from the sun
-- oskin cancerCall your healthcare provider right away if you get a new skin rash or your skin rash gets worse.
-- •serious heart problems.
-  Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
-- •allergic reactions.
-  Symptoms of an allergic reaction may include:
+- •faster skin aging from the sun
+- •skin cancer
+- NaNCall your healthcare provider right away if you get a new skin rash or your skin rash gets worse.
 
-| ofever | osweating | ofeels like your heart is beating fast (tachycardia) |
+| •fever | •sweating | •feels like your heart is beating fast (tachycardia) |
 | --- | --- | --- |
-| ochest tightness | otrouble breathing | ofeel faint |
-| onausea | oitching | oskin rash |
+| •chest tightness | •trouble breathing | •feel faint |
+| •nausea | •itching | •skin rash |
 
 - •kidney problems.
   Voriconazole tablets may cause new or worse problems with kidney function, including kidney failure.
   Your healthcare provider should check your kidney function while you are taking voriconazole tablets.
-  Your healthcare provider will decide if you can keep taking voriconazole tablets.
+  Your healthcare provider will decide if you can keep taking voriconazole tablets
 - •serious skin reactions.
   Symptoms of serious skin reactions may include:
 - •rash or hives
@@ -122,17 +119,17 @@ Photosensitivity reactions may also increase your risk of:
   - •Voriconazole tablets may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
 - Symptoms of adrenal insufficiency include:
 
-| ofeeling tired | o lack of energy | oweakness |
+| •feeling tired | • lack of energy | •weakness |
 | --- | --- | --- |
-| o nausea and vomiting | o feeling dizzy or lightheaded | oweight loss |
-| o abdominal pain |  |  |
+| • nausea and vomiting | • feeling dizzy or lightheaded | •weight loss |
+| • abdominal pain |  |  |
 
 Symptoms of Cushing’s syndrome include:
 
-| oweight gain | ofatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | odarkening of the skin on the ostomach, thighs, breasts, and arms |
+| •weight gain | •fatty hump between the shoulders (buffalo hump) and a rounded face (moon face) | •darkening of the skin on the •stomach, thighs, breasts, and arms |
 | --- | --- | --- |
-| othinning skin | obruising easily | ohigh blood sugar |
-| oexcessive hair growth | oexcessive sweating |  |
+| •thinning skin | •bruising easily | •high blood sugar |
+| •excessive hair growth | •excessive sweating |  |
 
 - •bone problems.
   Voriconazole tablets may cause weakening of bones and bone pain.
@@ -144,24 +141,24 @@ listed above.
 
 The most common side effects of voriconazole tablets in adults include:
 
-| ovision changes | orash | ovomiting |
+| •vision changes | •rash | •vomiting |
 | --- | --- | --- |
-| onausea | oheadache | ofast heart beat (tachycardia) |
-| ohallucinations (seeing or hearing things that are not there) | oabnormal liver function testsochills | ofever |
+| •nausea | •headache | •fast heart beat (tachycardia) |
+| •hallucinations (seeing or hearing things that are not there) | •abnormal liver function tests•chills | •fever |
 
 The most common side effects of voriconazole tablets in children include:
 
-| ofever | ohigh blood pressure | oinflammation of mucous membranes |
+| •fever | •high blood pressure | •inflammation of mucous membranes |
 | --- | --- | --- |
-| odiarrhea | ocough | ohallucinations (seeing or hearing things that are not there) |
-| olow platelet counts | olow blood pressure | ocoughing up blood |
-| oabnormal liver function tests | oswelling in the arms and legs |  |
-| olow blood calcium levels | ohigh blood sugar levels | oconstipation |
-| olow blood phosphate levels | oheadache | olow blood magnesium levels |
-| ovision changes | ofast heart beat (tachycardia) | ofullness of the stomach area |
-| orash | onose bleeds | ovomiting |
-| ostomach pain | olow blood potassium levels | onausea |
-|  |  | oupper respiratory tract infection |
+| •diarrhea | •cough | •hallucinations (seeing or hearing things that are not there) |
+| •low platelet counts | •low blood pressure | •coughing up blood |
+| •abnormal liver function tests | •swelling in the arms and legs |  |
+| •low blood calcium levels | •high blood sugar levels | •constipation |
+| •low blood phosphate levels | •headache | •low blood magnesium levels |
+| •vision changes | •fast heart beat (tachycardia) | •fullness of the stomach area |
+| •rash | •nose bleeds | •vomiting |
+| •stomach pain | •low blood potassium levels | •nausea |
+|  |  | •upper respiratory tract infection |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -207,6 +204,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-September 2022
+November 2022
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

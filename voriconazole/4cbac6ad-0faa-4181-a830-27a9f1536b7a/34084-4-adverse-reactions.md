@@ -107,7 +107,7 @@ Musculoskeletal: arthralgia, arthritis, bone necrosis, bone pain, leg cramps, my
 Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amnesia, anxiety, ataxia, brain edema, coma, confusion, convulsion, delirium, dementia, depersonalization, depression, diplopia, dizziness, encephalitis, encephalopathy, euphoria, Extrapyramidal Syndrome, grand mal convulsion, Guillain-Barré syndrome, hypertonia, hypesthesia, insomnia, intracranial hypertension, libido decreased, neuralgia, neuropathy, nystagmus, oculogyric crisis, paresthesia, psychosis, somnolence, suicidal ideation, tremor, vertigo.
 
 Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration.
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease), sweating, toxic epidermal necrolysis, urticaria.
 
 Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect.
 
@@ -346,7 +346,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Dermatological Reactions
 
-Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (Error!
+Hyperlink reference not valid.)].
 
 Adults Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
