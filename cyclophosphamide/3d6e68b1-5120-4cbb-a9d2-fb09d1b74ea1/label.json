@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215892"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-618-31",
+    "62332-619-31"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cyclophosphamide",
+      "name": "Cyclophosphamide"
+    }
+  ],
+  "setid": "3d6e68b1-5120-4cbb-a9d2-fb09d1b74ea1",
+  "source": "dailymed"
+}
