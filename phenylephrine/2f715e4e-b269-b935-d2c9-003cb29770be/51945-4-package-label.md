@@ -1,0 +1,3 @@
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL SECTION
+
+PRINCIPAL DISPLAY PANEL - BIORPHEN (Phenylephrine Hydrochloride) Injection, USP 0.1 mg/ml Ampule Label

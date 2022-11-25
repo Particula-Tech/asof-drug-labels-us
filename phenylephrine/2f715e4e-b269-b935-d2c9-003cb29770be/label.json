@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA212909"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-172-05",
+    "43598-172-15",
+    "43598-199-01",
+    "43598-199-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "Biorphen"
+    }
+  ],
+  "setid": "2f715e4e-b269-b935-d2c9-003cb29770be",
+  "source": "dailymed"
+}
