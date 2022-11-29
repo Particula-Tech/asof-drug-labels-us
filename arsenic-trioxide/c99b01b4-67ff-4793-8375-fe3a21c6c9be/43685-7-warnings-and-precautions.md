@@ -48,6 +48,8 @@ Monitor until symptoms resolve or improve and thiamine levels normalize.
 
 ## 5.4 Hepatotoxicity
 
+Long-term liver abnormalities can occur in patients with APL treated with arsenic trioxide.
+
 During treatment with arsenic trioxide injection, monitor hepatic function tests at least twice weekly during induction and at least once weekly during consolidation.
 Withhold arsenic trioxide injection if elevations in AST or alkaline phosphatase occur to greater than 5 times the upper limit of normal and/or elevation in serum total bilirubin occurs to greater than 3 times the upper limit of normal and resume at reduced dose upon resolution [see Dosage and Administration (2.3)].
 
