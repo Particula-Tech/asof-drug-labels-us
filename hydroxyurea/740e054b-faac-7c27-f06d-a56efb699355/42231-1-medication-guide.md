@@ -141,4 +141,4 @@ Manufactured for: Bristol-Myers Squibb Company, Princeton, New Jersey 08543 USA 
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: Sep 2021
+Revised: January 2022
