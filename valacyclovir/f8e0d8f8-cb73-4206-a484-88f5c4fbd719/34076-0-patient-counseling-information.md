@@ -51,11 +51,11 @@ Distributed by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 ©2022, GSK group of companies or its licensor.
 
-VTX: 10PI
+VTX: 11PI
 
 PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
 
