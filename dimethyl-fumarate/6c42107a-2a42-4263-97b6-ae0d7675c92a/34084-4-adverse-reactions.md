@@ -2,24 +2,27 @@
 
 The following important adverse reactions are described elsewhere in labeling:
 
-- Anaphylaxis and Angioedema [see Warnings and Precautions (5.1)].
-- Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.2)].
-- Herpes Zoster and Other Serious Opportunistic Infections [see Warnings and Precautions (5.3)].
-- Lymphopenia [see Warnings and Precautions (5.4)].
-- Liver Injury[see Warnings and Precautions (5.5)].
-- Flushing [see Warnings and Precautions (5.6)].
+- Anaphylaxis and Angioedema [see Warnings and Precautions (5.1)]
+- Progressive multifocal leukoencephalopathy [see Warnings and Precautions (5.2)]
+- Herpes Zoster and Other Serious Opportunistic Infections [see Warnings and Precautions (5.3)]
+- Lymphopenia [see Warnings and Precautions (5.4)]
+- Liver Injury[see Warnings and Precautions (5.5)]
+- Flushing [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The most common adverse reactions (incidence ≥10% and ≥2% more than placebo) for dimethyl fumarate were flushing, abdominal pain, diarrhea, and nausea.
+In placebo-controlled and uncontrolled clinical studies, a total of 2513 patients have received dimethyl fumarate and been followed for periods up to 13 years with an overall exposure of 11,318 person-years.
+Approximately 1169 patients have received more than 5 years of treatment with dimethyl fumarate, and 426 patients have received at least 10 years of treatment with dimethyl fumarate.
 
 Adverse Reactions in Placebo-Controlled Trials
 
 In the two well-controlled studies demonstrating effectiveness, 1529 patients received dimethyl fumarate with an overall exposure of 2244 person-years [see Clinical Studies (14)].
 
 The adverse reactions presented in the table below are based on safety information from 769 patients treated with dimethyl fumarate 240 mg twice a day and 771 placebo-treated patients.
+
+The most common adverse reactions (incidence ≥10% and ≥2% more than placebo) for dimethyl fumarate were flushing, abdominal pain, diarrhea, and nausea.
 
 Table 1: Adverse Reactions in Study 1 and 2 reported for dimethyl fumarate 240 mg BID at ≥ 2% higher incidence than placebo
 
@@ -56,19 +59,15 @@ Eosinophilia
 
 A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
 
-Adverse Reactions in Placebo-Controlled and Uncontrolled Studies
-
-In placebo-controlled and uncontrolled clinical studies, a total of 2513 patients have received dimethyl fumarate and been followed for periods up to 4 years with an overall exposure of 4603 person-years.
-Approximately 1162 patients have received more than 2 years of treatment with dimethyl fumarate.
-The adverse reaction profile of dimethyl fumarate in the uncontrolled clinical studies was consistent with the experience in the placebo-controlled clinical trials.
-
 ## 6.2 Postmarketing Experience
 
 The following adverse reaction has been identified during post approval use of dimethyl fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [See Warnings and Precautions (5.5)].
+Gastrointestinal Disorders: Acute pancreatitis
 
-Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [See Warnings and Precautions (5.3)].
+Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)]
+
+Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)]
 
 Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea Skin and Subcutaneous: Alopecia
