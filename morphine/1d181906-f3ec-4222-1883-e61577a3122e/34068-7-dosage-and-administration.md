@@ -2,15 +2,13 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-Do Not Use Preservative-free morphine sulfate injection in Continuous Microinfusion Devices.
-
-Preservative-free morphine sulfate injection should be administered by or under the direction of a physician experienced in the techniques of epidural or intrathecal administration and familiar with the patient management problems associated with epidural or intrathecal drug administration and the labeling, and should take place only in settings where adequate patient monitoring is possible.
-
-- Because of the risk of delayed respiratory depression, patients should be observed in a fully equipped and staffed environment for at least 24 hours.
-  Respiratory depression (both early and late onset) has occurred more frequently following intrathecal administration than epidural administration.
-- Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
-- For safety reasons, it is recommended that administration of preservative-free morphine sulfate injection by the epidural or intrathecal routes be limited to the lumbar area.
-- Have resuscitative equipment and a specific antagonist (naloxone injection) immediately available for the management of respiratory depression as well as complications which might result from inadvertent intrathecal or intravascular injection (note: intrathecal dosage is usually 1/10 that of epidural dosage).
+1. Do Not Use Preservative-free morphine sulfate injection in Continuous Microinfusion Devices.
+2. Preservative-free morphine sulfate injection should be administered by or under the direction of a physician experienced in the techniques of epidural or intrathecal administration and familiar with the patient management problems associated with epidural or intrathecal drug administration and the labeling, and should take place only in settings where adequate patient monitoring is possible.
+3. • Because of the risk of delayed respiratory depression, patients should be observed in a fully equipped and staffed environment for at least 24 hours.
+   Respiratory depression (both early and late onset) has occurred more frequently following intrathecal administration than epidural administration.
+4. • Because epidural administration has been associated with less potential for immediate or late adverse effects than intrathecal administration, the epidural route should be used whenever possible.
+5. •For safety reasons, it is recommended that administration of preservative-free morphine sulfate injection by the epidural or intrathecal routes be limited to the lumbar area.
+6. •Have resuscitative equipment and a specific antagonist (naloxone injection) immediately available for the management of respiratory depression as well as complications which might result from inadvertent intrathecal or intravascular injection (note: intrathecal dosage is usually 1/10 that of epidural dosage).
 
 Epidural Administration
 
@@ -20,8 +18,8 @@ Acceptable techniques for verifying proper placement include: a) aspiration to c
 
 Safety and Handling Instructions
 
-Preservative-free morphine sulfate injection is supplied in sealed vials.
-Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
+1. Preservative-free morphine sulfate injection is supplied in sealed vials.
+   Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
 
 Inspect parenteral drug products for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
@@ -34,9 +32,9 @@ Do not heat-sterilize.
 
 The starting dose of preservative-free morphine sulfate injection must be individualized.
 
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.3)].
-- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.3)].
-- Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with preservative-free morphine sulfate injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- •Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5.3)].
+- •Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.3)].
+- •Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with preservative-free morphine sulfate injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
 
 ## 2.3 Dosage for Intravenous Administration
 
@@ -54,13 +52,13 @@ Adult Dosage: Intrathecal dosage is usually 1/10 that of epidural dosage.
 A single injection of 0.2 to 1 mg may provide satisfactory pain relief for up to 24 hours.
 (Caution: this is only 0.4 to 2 mL of the 5 mg/10 mL container or 0.2 to 1 mL of the 10 mg/10 mL container of preservative-free morphine sulfate injection).
 
-- Do not inject intrathecally more than 2 mL of the 5 mg/10 mL container or 1 mL of the 10 mg/10 mL container.
-- Repeated intrathecal injections of preservative-free morphine sulfate injection are not recommended.
+- •Do not inject intrathecally more than 2 mL of the 5 mg/10 mL container or 1 mL of the 10 mg/10 mL container.
+- •Repeated intrathecal injections of preservative-free morphine sulfate injection are not recommended.
   If pain recurs, consider alternative routes of administration
-- A constant intravenous infusion of naloxone, 0.6 mg/hr, for 24 hours after intrathecal injection may be used to reduce the incidence of potential side effects.
+- •A constant intravenous infusion of naloxone, 0.6 mg/hr, for 24 hours after intrathecal injection may be used to reduce the incidence of potential side effects.
 
 ## 2.6 Discontinuation of Preservative-Free Morphine Sulfate Injection
 
-When a patient who has been treated with a regimen of opioid analgesics including preservative-free morphine sulfate injection regularly and may be physically dependent no longer requires therapy with preservative-free morphine sulfate injection, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
-If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue preservative-free morphine sulfate injection in a physically-dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
+1. When a patient who has been treated with a regimen of opioid analgesics including preservative-free morphine sulfate injection regularly and may be physically dependent no longer requires therapy with preservative-free morphine sulfate injection, taper the dose gradually while monitoring carefully for signs and symptoms of withdrawal.
+   If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
+   Do not abruptly discontinue preservative-free morphine sulfate injection in a physically-dependent patient [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].

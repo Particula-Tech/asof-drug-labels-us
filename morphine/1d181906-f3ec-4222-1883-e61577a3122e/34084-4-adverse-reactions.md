@@ -2,18 +2,18 @@
 
 The following serious adverse reactions are described, or described in greater detail, in other sections:
 
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
-- Myoclonic Activity [see Warnings and Precautions (5.6)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.10)]
-- Severe Hypotension [see Warnings and Precautions (5.11)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
-- Seizures [see Warnings and Precautions (5.14)]
-- Withdrawal [see Warnings and Precautions (5.15)]
-- Urinary Retention [see Warnings and Precautions (5.16)]
-- Orthostatic Hypotension [see Warnings and Precautions (5.17)]
+- •Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- •Addiction, Abuse, and Misuse [see Warnings and Precautions (5.3)]
+- •Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- •Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
+- •Myoclonic Activity [see Warnings and Precautions (5.6)]
+- •Adrenal Insufficiency [see Warnings and Precautions (5.10)]
+- •Severe Hypotension [see Warnings and Precautions (5.11)]
+- •Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.13)]
+- •Seizures [see Warnings and Precautions (5.14)]
+- •Withdrawal [see Warnings and Precautions (5.15)]
+- •Urinary Retention [see Warnings and Precautions (5.16)]
+- •Orthostatic Hypotension [see Warnings and Precautions (5.17)]
 
 The following adverse reactions associated with the use of morphine were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

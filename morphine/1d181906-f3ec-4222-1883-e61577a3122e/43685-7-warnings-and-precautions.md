@@ -30,11 +30,11 @@ Carbon dioxide (CO2) retention from opioid-induced respiratory depression can ex
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of preservative-free morphine sulfate injection, the risk is greatest during the initiation of therapy or following a dosage increase.
 This respiratory depression and/or respiratory arrest may be severe and could require intervention.
 
-- Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing.
-- Single-dose neuraxial administration may result in acute or delayed respiratory depression for periods at least as long as 24 hours.
-- Severe respiratory depression up to 24 hours following epidural or intrathecal administration has been reported.
-- Intrathecal use has been associated with a higher incidence of respiratory depression than epidural use.
-- Thoracic administration has been shown to dramatically increase the incidence of early and late respiratory depression even at doses of 1 to 2 mg.
+- •Because of delay in maximum CNS effect with intravenously administered drug (30 min), rapid administration may result in overdosing.
+- •Single-dose neuraxial administration may result in acute or delayed respiratory depression for periods at least as long as 24 hours.
+- •Severe respiratory depression up to 24 hours following epidural or intrathecal administration has been reported.
+- •Intrathecal use has been associated with a higher incidence of respiratory depression than epidural use.
+- •Thoracic administration has been shown to dramatically increase the incidence of early and late respiratory depression even at doses of 1 to 2 mg.
 
 Because of the risk of severe adverse effects when the epidural or intrathecal route of administration is employed, patients must be observed in a fully equipped and staffed environment for at least 24 hours after the initial dose.
 The facility must be equipped to resuscitate patients with severe opiate overdosage, and the personnel must be familiar with the use and limitations of specific narcotic antagonists (naloxone, naltrexone) in such cases.
@@ -48,11 +48,10 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 ## 5.3 Addiction, Abuse, and Misuse
 
-Preservative-free morphine sulfate injection contains morphine, a Schedule II controlled substance.
-As an opioid, preservative-free morphine sulfate injection exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
-
-Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed preservative-free morphine sulfate injection.
-Addiction can occur at recommended dosages and if the drug is misused or abused.
+1. Preservative-free morphine sulfate injection contains morphine, a Schedule II controlled substance.
+   As an opioid, preservative-free morphine sulfate injection exposes users to the risks of addiction, abuse, and misuse [see Drug Abuse and Dependence (9)].
+2. Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed preservative-free morphine sulfate injection.
+   Addiction can occur at recommended dosages and if the drug is misused or abused.
 
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing preservative-free morphine sulfate injection, and monitor all patients receiving preservative-free morphine sulfate injection for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
@@ -106,7 +105,7 @@ Rapid intravenous administration may result in chest wall rigidity.
 
 The use of preservative-free morphine sulfate injection in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended doses of preservative-free morphine sulfate injection [see Warnings and Precautions (5.2)].
+1. Patients with Chronic Pulmonary Disease: Patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended doses of preservative-free morphine sulfate injection [see Warnings and Precautions (5.2)].
 
 Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.2)].
 
