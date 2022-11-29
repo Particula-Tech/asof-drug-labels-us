@@ -15,10 +15,14 @@
 | How should I store colchicine tablets? •Store colchicine tablets at room temperature between 20° to 25°C (68° to 77°F). •Keep colchicine tablets in a tightly closed container. •Keep colchicine tablets out of the light. Keep colchicine tablets and all medicines out of the reach of children. |  |
 | General Information about colchicine tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use colchicine tablets for a condition for which they were not prescribed. Do not give colchicine tablets to other people, even if they have the same symptoms that you have. They may harm them. This Medication Guide summarizes the most important information about colchicine tablets. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about colchicine tablets that is written for healthcare professionals. |  |
 | What are the ingredients in colchicine tablets? Active Ingredient: colchicine. Inactive Ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch (corn), polydextrose, polyethylene glycol, red iron oxide, sodium starch glycolate (potato), titanium dioxide and yellow iron oxide. |  |
-| Manufactured by: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.The brands listed are trademarks of their respective owners.For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
+| Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.The brands listed are trademarks of their respective owners.For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX). |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 8/2020 COLCTA:R6m/MG:COLCTA:R3m
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
+
+Revised: 4/2022 MXI:COLCTA:R1m
+
+75090250

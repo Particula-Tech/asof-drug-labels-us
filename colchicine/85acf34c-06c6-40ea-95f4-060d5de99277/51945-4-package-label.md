@@ -8,11 +8,15 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only 30 Tablets
 
-Each film-coated tablet contains: Colchicine, USP 0.6 mg
-
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 Keep container tightly closed.
+
+Code No.: MP/DRUGS/25/1/2014
+
+Each film-coated tablet contains: Colchicine, USP 0.6 mg
+
+Usual Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
 
@@ -21,10 +25,10 @@ Store at 20° to 25°C (68° to 77°F).
 
 Protect from light.
 
-Usual Dosage: See accompanying prescribing information.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Made in India
 
 Mylan.com
 
-RM1086H
+RMXI1086H
