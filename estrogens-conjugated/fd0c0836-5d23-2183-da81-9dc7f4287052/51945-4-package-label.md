@@ -181,7 +181,7 @@ Pfizer PREMPRO® (conjugated estrogens/ medroxyprogesterone acetate tablets)
 
 0.625 mg / 2.5 mg
 
-Rx only
+1. Rx only
 
 Package contains 1 blister card of 28 tablets. www.PREMPRO.com
 
