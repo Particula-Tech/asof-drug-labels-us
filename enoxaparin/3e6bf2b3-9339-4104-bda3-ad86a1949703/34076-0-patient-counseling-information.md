@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
+
 If patients have had neuraxial anesthesia or spinal puncture, and particularly, if they are taking concomitant NSAIDs, platelet inhibitors, or other anticoagulants, advise them to watch for signs and symptoms of spinal or epidural hematoma, such as tingling, numbness (especially in the lower limbs) and muscular weakness.
 Instruct the patient to seek immediate medical attention if any of these symptoms occur.
 

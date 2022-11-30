@@ -31,12 +31,12 @@ In the knee replacement surgery trials, intraocular hemorrhages were also consid
 | Indications | Enoxaparin Sodium Injection 40 mg dailysubcutaneously | Enoxaparin Sodium Injection 30 mg q12hsubcutaneously | Heparin 15,000 U/24h subcutaneously |
 | --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
-| Hip Replacement Surgery without Extended ProphylaxisEnoxaparin Sodium Injection 30 mg every 12 hours subcutaneously initiated 12 to 24 hours after surgery and continued for up to 14 days after surgery. |  | n = 786 31 (4%) | n = 541 32 (6%) |
-| Hip Replacement Surgery with Extended Prophylaxis |  |  |  |
-| Peri-operative PeriodEnoxaparin Sodium Injection 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery. | n = 288 |  |  |
+| Hip Replacement Surgery without Extended ProphylaxisEnoxaparin Sodium Injection 30 mg every 12 hours subcutaneously initiated 12 to 24 hours after surgery and continued for up to 14 days after surgery. | - | n = 786 31 (4%) | n = 541 32 (6%) |
+| Hip Replacement Surgery with Extended Prophylaxis | - | - | - |
+| Peri-operative PeriodEnoxaparin Sodium Injection 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery. | n = 288 | - | - |
 |  | 4 (2%) |  |  |
-| Extended Prophylaxis PeriodEnoxaparin Sodium Injection 40 mg subcutaneously once a day for up to 21 days after discharge. | n = 221 0 (0%) |  |  |
-| Knee Replacement Surgery without Extended Prophylaxis |  | n = 294 3 (1%) | n = 225 3 (1%) |
+| Extended Prophylaxis PeriodEnoxaparin Sodium Injection 40 mg subcutaneously once a day for up to 21 days after discharge. | n = 221 0 (0%) | - | - |
+| Knee Replacement Surgery without Extended Prophylaxis | - | n = 294 3 (1%) | n = 225 3 (1%) |
 
 NOTE: At no time point were the 40 mg once a day pre-operative and the 30 mg every 12 hours postoperative hip replacement surgery prophylactic regimens compared in clinical trials.
 Injection site hematomas during the extended prophylaxis period after hip replacement surgery occurred in 9% of the Lovenox patients versus 1.8% of the placebo patients.
@@ -72,8 +72,8 @@ Table 7 Major Bleeding Episodes in Acute ST-Segment Elevation Myocardial Infarct
 |  | Dosing Regimen |  |
 | Acute ST-Segment Elevation | n = 10176 | n = 10151 |
 | Myocardial Infarction | n (%) | n (%) |
-| -Major bleeding (including ICH)Bleedings were considered major if the hemorrhage caused a significant clinical event associated with hemoglobin decrease by ≥ 5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
-| -Intracranial hemorrhages (ICH) | 84 (0.8) | 66 (0.7) |
+| Major bleeding (including ICH)Bleedings were considered major if the hemorrhage caused a significant clinical event associated with hemoglobin decrease by ≥ 5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
+| Intracranial hemorrhages (ICH) | 84 (0.8) | 66 (0.7) |
 
 Elevations of Serum Aminotransferases Asymptomatic increases in aspartate (AST [SGOT]) and alanine (ALT [SGPT]) aminotransferase levels greater than three times the upper limit of normal of the laboratory reference range have been reported in up to 6.1% and 5.9% of patients, respectively, during treatment with Enoxaparin Sodium Injection.
 Since aminotransferase determinations are important in the differential diagnosis of myocardial infarction, liver disease, and pulmonary emboli, elevations that might be caused by drugs like Enoxaparin Sodium Injection should be interpreted with caution.
@@ -102,9 +102,9 @@ Table 9 Adverse Reactions Occurring at 2% Incidence in Enoxaparin Sodium Injecti
 |  | n = 288Data represent Enoxaparin Sodium Injection 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery in 288 hip replacement surgery patients who received Enoxaparin Sodium Injection peri-operatively in an unblinded fashion in one clinical trial. % |  | n = 131Data represent Enoxaparin Sodium Injection 40 mg subcutaneously once a day given in a blinded fashion as extended prophylaxis at the end of the peri-operative period in 131 of the original 288 hip replacement surgery patients for up to 21 days in one clinical trial. % |  | n = 1080 % |  | n = 766 % |  | n = 115 % |  |
 | Fever | 0 | 8 | 0 | 0 | <1 | 5 | <1 | 4 | 0 | 3 |
 | Hemorrhage | <1 | 13 | 0 | 5 | <1 | 4 | 1 | 4 | 0 | 3 |
-| Nausea |  |  |  |  | <1 | 3 | <1 | 2 | 0 | 2 |
+| Nausea | - | - | - | - | <1 | 3 | <1 | 2 | 0 | 2 |
 | Anemia | 0 | 16 | 0 | <2 | <1 | 2 | 2 | 5 | <1 | 7 |
-| Edema |  |  |  |  | <1 | 2 | <1 | 2 | 0 | 2 |
+| Edema | - | - | - | - | <1 | 2 | <1 | 2 | 0 | 2 |
 | Peripheral edema | 0 | 6 | 0 | 0 | <1 | 3 | <1 | 4 | 0 | 3 |
 
 Table 10 Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium Injection-Treated Medical Patients with Severely Restricted Mobility During Acute Illness

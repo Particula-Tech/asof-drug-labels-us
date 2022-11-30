@@ -44,7 +44,8 @@ Table 13 Pharmacokinetic Parameters* After 5 Days of 1.5 mg/kg Subcutaneous Once
 
 Distribution The volume of distribution of anti-Factor Xa activity is about 4.3 L.
 
-Elimination Following intravenous dosing, the total body clearance of enoxaparin is 26 mL/min.After intravenous dosing of enoxaparin labeled with the gamma-emitter, 99mTc, 40% of radioactivity and 8 to 20% of anti-Factor Xa activity were recovered in urine in 24 hours.
+Elimination Following intravenous dosing, the total body clearance of enoxaparin is 26 mL/min.
+After intravenous dosing of enoxaparin labeled with the gamma-emitter, 99mTc, 40% of radioactivity and 8 to 20% of anti-Factor Xa activity were recovered in urine in 24 hours.
 Elimination half-life based on anti-Factor Xa activity was 4.5 hours after a single subcutaneous dose to about 7 hours after repeated dosing.
 Significant anti-Factor Xa activity persists in plasma for about 12 hours following a 40 mg subcutaneous once a day dose.
 Following subcutaneous dosing, the apparent clearance (CL/F) of enoxaparin is approximately 15 mL/min.
@@ -61,7 +62,7 @@ Geriatric Apparent clearance and Amax derived from anti-Factor Xa values followi
 Following once a day subcutaneous dosing of 40 mg enoxaparin, the Day 10 mean area under anti-Factor Xa activity versus time curve (AUC) was approximately 15% greater than the mean Day 1 AUC value [see Dosage and Administration (2.4) and Use in Specific Populations (8.5)].
 
 Renal impairment A linear relationship between anti-Factor Xa plasma clearance and creatinine clearance at steady state has been observed, which indicates decreased clearance of enoxaparin sodium in patients with reduced renal function.
-Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in patients with creatinine clearance 50 to 80 mL/min and patients with creatinine clearance 30 to <50 mL/min renal impairment after repeated subcutaneous 40 mg once-daily doses.
+Anti-Factor Xa exposure represented by AUC, at steady state, is marginally increased in patients with creatinine clearance 50 to 80 mL/min and patients with creatinine clearance 30 to <50 mL/min after repeated subcutaneous 40 mg once-daily doses.
 In patients with severe renal impairment (creatinine clearance <30 mL/min), the AUC at steady state is significantly increased on average by 65% after repeated subcutaneous 40 mg once-daily doses [see Dosage and Administration (2.3) and Use in Specific Populations (8.7)].
 
 Hemodialysis In a single study, elimination rate appeared similar but AUC was two-fold higher than control population, after a single 0.25 or 0.5 mg/kg intravenous dose.

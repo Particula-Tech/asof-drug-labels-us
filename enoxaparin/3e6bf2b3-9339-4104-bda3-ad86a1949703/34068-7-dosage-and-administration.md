@@ -20,7 +20,7 @@ The usual duration of administration is 7 to 10 days [see Clinical Studies (14.2
 A dose of Enoxaparin Sodium Injection of 40 mg once a day subcutaneously may be considered for hip replacement surgery for up to 3 weeks.
 Administer the initial dose 12 (±3) hours prior to surgery.
 
-Medical Patients During Acute Illness
+Medical Patients during Acute Illness
 
 The recommended dose of Enoxaparin Sodium Injection is 40 mg once a day administered by subcutaneous injection for medical patients at risk for thromboembolic complications due to severely restricted mobility during acute illness.
 The usual duration of administration is 6 to 11 days [see Clinical Studies (14.3)].
@@ -96,6 +96,8 @@ Subcutaneous Injection Technique
 
 - Position patients in a supine position for Enoxaparin Sodium Injection administration by deep subcutaneous injection.
 - Do not expel the air bubble from the prefilled syringes before the injection, to avoid the loss of drug.
+- Do not inject into skin that has bruises or scars.
+  Do not inject through clothes.
 - Alternate injection sites between the left and right anterolateral and left and right posterolateral abdominal wall.
 - Introduce the whole length of the needle into a skin fold held between the thumb and forefinger; hold the skin fold throughout the injection.
   To minimize bruising, do not rub the injection site after completion of the injection.

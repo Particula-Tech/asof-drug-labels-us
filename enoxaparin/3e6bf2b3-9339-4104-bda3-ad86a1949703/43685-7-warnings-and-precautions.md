@@ -34,7 +34,7 @@ Enoxaparin Sodium Injection should be used with care in patients with a bleeding
 
 ## 5.4 Risk of Heparin-Induced Thrombocytopenia with or without Thrombosis
 
-Enoxaparin Sodium Injection may cause Heparin-Induced Thrombocytopenia (HIT) or Heparin-Induced Thrombocytopenia with Thrombosis (HITTS).
+Enoxaparin Sodium Injection may cause heparin-induced thrombocytopenia (HIT) or heparininduced thrombocytopenia with thrombosis (HITTS).
 HITTS may lead to organ infarction, limb ischemia, or death.
 Monitor thrombocytopenia of any degree closely.
 Use of Enoxaparin Sodium Injection in patients with a history of immune-mediated HIT within the past 100 days or in the presence of circulating antibodies is contraindicated [see Contraindications (4)].
