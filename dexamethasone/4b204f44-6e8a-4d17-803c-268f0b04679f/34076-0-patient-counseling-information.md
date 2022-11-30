@@ -5,9 +5,7 @@ Steroid-related Effects
 Advise patients that a cataract may occur after repeated treatment with OZURDEX®.
 If this occurs, advise patients that their vision will decrease, and they will need an operation to remove the cataract and restore their vision.
 
-Advise patients that they may develop increased intraocular pressure with OZURDEX® treatment, and
-
-the increased IOP will need to be managed with eye drops, and, rarely, with surgery.
+Advise patients that they may develop increased intraocular pressure with OZURDEX® treatment, and the increased IOP will need to be managed with eye drops, and, rarely, with surgery.
 
 Intravitreal Injection-related Effects
 
