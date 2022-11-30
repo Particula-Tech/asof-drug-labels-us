@@ -2,25 +2,25 @@
 
 Clomipramine Hydrochloride Capsules USP, 25 mg are white to off white powder filled in size "2" capsule with opaque pink cap printed with '1065' in black ink and opaque light pink body and are supplied as:
 
-NDC 16714-849-01 in bottle of 30 capsules
+NDC 16714-849-01 in bottle of 30 capsules with child-resistant closure
 
-NDC 16714-849-02 in bottle of 90 capsules
+NDC 16714-849-02 in bottle of 90 capsules with child-resistant closure
 
 NDC 16714-849-03 in bottle of 100 capsules
 
 Clomipramine Hydrochloride Capsules USP, 50 mg are white to off white powder filled in size "1" capsule with opaque yellow cap printed with '1066' in black ink and opaque light pink body and are supplied as:
 
-NDC 16714-850-01 in bottle of 30 capsules
+NDC 16714-850-01 in bottle of 30 capsules with child-resistant closure
 
-NDC 16714-850-02 in bottle of 90 capsules
+NDC 16714-850-02 in bottle of 90 capsules with child-resistant closure
 
 NDC 16714-850-02 in bottle of 100 capsules
 
 Clomipramine Hydrochloride Capsules USP, 75 mg are white to off white powder filled in size "1" capsule with opaque dark pink cap printed with '1067' in black ink and opaque light pink body and are supplied as:
 
-NDC 16714-851-01 in bottle of 30 capsules
+NDC 16714-851-01 in bottle of 30 capsules with child-resistant closure
 
-NDC 16714-851-02 in bottle of 90 capsules
+NDC 16714-851-02 in bottle of 90 capsules with child-resistant closure
 
 NDC 16714-851-03 in bottle of 100 capsules
 
@@ -47,8 +47,8 @@ Memphis, TN 38141
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
 
 Ahmedabad, India.
 
-Rev.:05/19
+Rev.:06/22
