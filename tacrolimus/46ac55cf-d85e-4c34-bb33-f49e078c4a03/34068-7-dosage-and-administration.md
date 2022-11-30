@@ -13,7 +13,7 @@ Intravenous Formulation – Administration Precautions due to Risk of Anaphylaxi
 
 Intravenous use is recommended for patients who cannot tolerate oral formulations, and conversion from intravenous to oral tacrolimus is recommended as soon as oral therapy can be tolerated to minimize the risk of anaphylactic reactions that occurred with injectables containing castor oil derivatives [see Warnings and Precautions (5.9)].
 
-Oral Formulations (Capsules)
+Oral Formulation (Capsules)
 
 If patients are able to initiate oral therapy, the recommended starting doses should be initiated.
 Tacrolimus capsules may be taken with or without food.
@@ -29,30 +29,32 @@ In the presence of elevated tacrolimus or cyclosporine concentrations, dosing wi
 
 Therapeutic drug monitoring (TDM) is recommended for all patients receiving tacrolimus capsules [see Dosage and Administration (2.6)].
 
-## 2.2 Dosage Recommendations for Adult Kidney, Liver, Heart, or Lung Transplant Patients – Capsules and Injection
+## 2.2 Dosage Recommendations for Adult Kidney, Liver, or Heart Transplant Patients – Capsules
 
 Capsules
 
 If patients are able to tolerate oral therapy, the recommended oral starting doses should be initiated.
-The initial dose of tacrolimus capsules should be administered no sooner than 6 hours after transplantation in the liver, heart, or lung transplant patients.
+The initial dose of tacrolimus capsules should be administered no sooner than 6 hours after transplantation in the liver and heart transplant patients.
 In kidney transplant patients, the initial dose of tacrolimus capsules may be administered within 24 hours of transplantation, but should be delayed until renal function has recovered.
 
-The initial oral tacrolimus capsule dosage recommendations for adult patients with kidney, liver, heart, or lung transplants and whole blood trough concentration range are shown in Table 1.
+The initial oral tacrolimus capsule dosage recommendations for adult patients with kidney, liver, or heart transplants and whole blood trough concentration range are shown in Table 1.
 Perform therapeutic drug monitoring (TDM) to ensure that patients are within the ranges listed in Table 1.
 
-Table 1 Summary of Initial Oral Tacrolimus Capsules Dosage Recommendations and Whole Blood Trough Concentration Range in Adults
+- Table 1.
+  Summary of Initial Oral Tacrolimus Capsules Dosage Recommendations and Whole Blood Trough Concentration Range in Adults
 
-| Patient Population | Tacrolimus CapsulesAfrican-American patients may require higher doses compared to Caucasians (see Table 2) Initial Oral Dosage | Whole Blood Trough Concentration Range |
+| Patient Population | Tacrolimus CapsulesInitial Oral Dosage | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
 | Kidney Transplant |  |  |
 | With Azathioprine | 0.2 mg/kg/day, divided in two doses, administered every 12 hours | Month 1 to 3: 7 to 20 ng/mLMonth 4 to 12: 5 to 15 ng/mL |
-| With MMF/IL-2 receptor antagonistIn a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see Clinical Studies (14.1)]. | 0.1 mg/kg/day, divided in two doses, administered every 12 hours | Month 1 to 12: 4 to 11 ng/mL |
+| With MMF/IL-2 receptor antagonist† | 0.1 mg/kg/day, divided in two doses, administered every 12 hours | Month 1 to 12: 4 to 11 ng/mL |
 | Liver Transplant |  |  |
 | With corticosteroids only | 0.10 to 0.15 mg/kg/day, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
 | Heart Transplant |  |  |
 | With azathioprine or MMF | 0.075 mg/kg/day, divided in two doses, administered every 12 hours | Month 1 to 3: 10 to 20 ng/mLMonth ≥4: 5 to 15 ng/mL |
-| Lung Transplant |  |  |
-| With azathioprine or MMF | 0.075 mg/kg/dayPatients with cystic fibrosis may require higher doses due to lower bioavailability [see Clinical Pharmacology (12.3)]., divided in two doses, administered every 12 hours | Month 1 to 3: 10 to 20 ng/mLMonth 4 to 12: 8 to 12 ng/mL |
+
+- *African-American patients may require higher doses compared to Caucasians (see Table 2)
+- † In a second smaller trial, the initial dose of tacrolimus was 0.15 to 0.2 mg/kg/day and observed tacrolimus concentrations were 6 to 16 ng/mL during month 1 to 3 and 5 to 12 ng/mL during month 4 to 12 [see Clinical Studies (14.1)].
 
 Dosage should be titrated based on clinical assessments of rejection and tolerability.
 Tacrolimus capsules dosages lower than the recommended initial dosage may be sufficient as maintenance therapy.
@@ -60,64 +62,49 @@ Adjunct therapy with adrenal corticosteroids is recommended early post-transplan
 
 The data in kidney transplant patients indicate that the African-American patients required a higher dose to attain comparable trough concentrations compared to Caucasian patients (Table 2) [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
 
-Table 2 Comparative Dose and Trough Concentrations Based on Race
+Table 1.
+Comparative Dose and Trough Concentrations Based on Race
 
 | Time After Transplant | CaucasianN=114 |  | African-AmericanN=56 |  |
 | --- | --- | --- | --- | --- |
 | Dose(mg/kg) | Trough Concentrations(ng/mL) | Dose(mg/kg) | Trough Concentrations (ng/mL) |  |
-| Day 7 | 0.18 | 12 | 0.23 | 10.9 |
+| Day 7 | 0.18 | 12.0 | 0.23 | 10.9 |
 | Month 1 | 0.17 | 12.8 | 0.26 | 12.9 |
 | Month 6 | 0.14 | 11.8 | 0.24 | 11.5 |
-| Month 12 | 0.13 | 10.1 | 0.19 | 11 |
-
-In lung transplantation, cystic fibrosis patients may have a reduced bioavailability of orally administered tacrolimus resulting in the need for higher doses to achieve target tacrolimus trough concentrations.
-Monitor tacrolimus trough concentrations and adjust the dose accordingly.
+| Month 12 | 0.13 | 10.1 | 0.19 | 11.0 |
 
 Intravenous Injection
-
-Tacrolimus injection should be used only as a continuous intravenous infusion and should be discontinued as soon as the patient can tolerate oral administration.
-The first dose of tacrolimus capsules should be given 8 to 12 hours after discontinuing the intravenous infusion.
-
-The recommended starting dose of tacrolimus injection is 0.03 to 0.05 mg/kg/day in kidney or liver transplant, 0.01 mg/kg/day in heart transplant, and 0.01 to 0.03 mg/kg/day in lung transplant, given as a continuous intravenous infusion.
-Adult patients should receive doses at the lower end of the dosing range.
-Concomitant adrenal corticosteroid therapy is recommended early post-transplantation.
-
-The whole blood trough concentration range described in Table 1 pertains to oral administration of tacrolimus only; while monitoring tacrolimus concentrations in patients receiving tacrolimus injection as a continuous intravenous infusion may have some utility, the observed concentrations will not represent comparable exposures to those estimated by the trough concentrations observed in patients on oral therapy.
 
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection.
 Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
 
-## 2.3 Dosage Recommendations for Pediatric Kidney, Liver, Heart, or Lung Transplant Patients
+## 2.3 Dosage Recommendations for Pediatric Liver Transplant Patients
 
-Oral formulations (capsules)
+Oral formulation (capsules)
 
 Pediatric patients, in general, need higher tacrolimus doses compared to adults: the higher dose requirements may decrease as the child grows older.
 Recommendations for the initial oral dosage for pediatric transplant patients and whole blood trough concentration range are shown in Table 3.
 Perform TDM to ensure that patients are within the ranges listed in Table 3.
 
-Table 3 Summary of Initial Tacrolimus Capsule Dosage Recommendations and Whole Blood Trough Concentration Range in Children
+- Table 3.
+  Summary of Initial Tacrolimus Capsule Dosage Recommendations and Whole Blood Trough Concentration Range in Children
+
+Table 2.
+Summary of Initial Tacrolimus Capsule Dosage Recommendations and Whole Blood Trough Concentration Range in Children
 
 | Patient Population | Initial Tacrolimus Capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
-| Pediatric kidney transplant patientsSee Clinical Pharmacology (12.3), Pharmacokinetics in Pediatric Patients | 0.3 mg/kg/day capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatric liver transplant patientsSee Clinical Studies (14.2), Liver Transplantation | 0.15 to 0.2 mg/kg/day capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatric heart transplant patients | 0.3 mg/kg/dayDose at 0.1 mg/kg/day if antibody induction treatment is administered. capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatric lung transplant patients | 0.3 mg/kg/dayPatients with cystic fibrosis may require higher doses due to lower bioavailability [see Clinical Pharmacology (12.3)]. capsules, divided in two doses, administered every 12 hours | Week 1 to 2: 10 to 20 ng/mL Week 2 to Month 12: 10 to 15 ng/mL |
-
-In lung transplantation, cystic fibrosis patients may have a reduced bioavailability of orally administered tacrolimus resulting in the need for higher doses to achieve target tacrolimus trough concentrations.
-Monitor tacrolimus trough concentrations and adjust the dose accordingly.
+| Pediatric liver transplant patients | 0.15 to 0.2 mg/kg/day capsules, divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
 
 For conversion of pediatric patients from tacrolimus granules to tacrolimus capsules or from tacrolimus capsules to tacrolimus granules, the total daily dose should remain the same.
 Following conversion from one formulation to another formulation of tacrolimus, therapeutic drug monitoring is recommended [see Dosage and Administration (2.6)].
 
-Intravenous Injection
-
-If a patient is unable to receive an oral formulation, the patient may be started on tacrolimus injection.
-For pediatric liver transplant patients, the intravenous dose is 0.03 to 0.05 mg/kg/day.
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustment in Patients with Renal Impairment
 
-Due to its potential for nephrotoxicity, consider dosing tacrolimus capsules at the lower end of the therapeutic dosing range in patients who have received a liver, heart, or lung transplant, and have pre-existing renal impairment.
+Due to its potential for nephrotoxicity, consider dosing tacrolimus capsules at the lower end of the therapeutic dosing range in patients who have received a liver, or heart transplant, and have pre-existing renal impairment.
 Further reductions in dose below the targeted range may be required.
 
 In kidney transplant patients with post-operative oliguria, the initial dose of tacrolimus capsules should be administered no sooner than 6 hours and within 24 hours of transplantation, but may be delayed until renal function shows evidence of recovery [see Dosage and Administration (2.2), Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].

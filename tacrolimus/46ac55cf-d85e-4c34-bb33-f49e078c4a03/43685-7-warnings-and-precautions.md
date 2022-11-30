@@ -33,7 +33,7 @@ Instruct patients and caregivers to recognize the appearance of tacrolimus dosag
 
 ## 5.4 New Onset Diabetes After Transplant
 
-Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, heart, or lung transplantation.
+Tacrolimus was shown to cause new onset diabetes mellitus in clinical trials of kidney, liver, or heart transplantation.
 New onset diabetes after transplantation may be reversible in some patients.
 African-American and Hispanic kidney transplant patients are at an increased risk.
 Blood glucose concentrations should be monitored closely in patients using tacrolimus [see Adverse Reactions (6.1)].

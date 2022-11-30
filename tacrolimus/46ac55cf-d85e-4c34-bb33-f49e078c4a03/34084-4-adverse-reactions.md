@@ -32,7 +32,11 @@ Based on reported adverse reaction terms related to decreased renal function, ne
 
 Adverse reactions that occurred in ≥15% of kidney transplant patients treated with tacrolimus in conjunction with azathioprine are presented below:
 
-Table 4 Kidney Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
+- Table 4.
+  Kidney Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
+
+Table 3.
+Kidney Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
 
 |  | Tacrolimus /AZA(N=205) | Cyclosporine/AZA (N=207) |
 | --- | --- | --- |
@@ -91,7 +95,11 @@ The 12-month post-transplant information from this trial is presented below.
 Adverse reactions that occurred in ≥10% of kidney transplant patients treated with tacrolimus in conjunction with MMF in Study 1 [Note: This trial was conducted entirely outside of the United States.
 Such trials often report a lower incidence of adverse reactions in comparison to U.S. trials] are presented below:
 
-Table 5 Kidney Transplantation: Adverse Reactions Occurring in ≥10% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 1)
+- Table 5.
+  Kidney Transplantation: Adverse Reactions Occurring in ≥10% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 1)
+
+Table 4.
+Kidney Transplantation: Adverse Reactions Occurring in ≥10% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 1)
 
 |  | Tacrolimus (Group C) | Cyclosporine (Group A) | Cyclosporine (Group B) |
 | --- | --- | --- | --- |
@@ -111,7 +119,11 @@ The 12-month post-transplant information from this trial is presented below.
 
 Adverse reactions that occurred in ≥15% of kidney transplant patients treated with tacrolimus in conjunction with MMF in Study 2 are presented below:
 
-Table 6 Kidney Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 2)
+- Table 6.
+  Kidney Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 2)
+
+Table 5.
+Kidney Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with MMF (Study 2)
 
 |  | Tacrolimus /MMF | Cyclosporine/MMF |
 | --- | --- | --- |
@@ -167,7 +179,8 @@ These all occur with oral administration of tacrolimus and some may respond to a
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.
 
-Table 7 Liver Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus
+Table 7.
+Liver Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus
 
 |  | U.S. TRIAL |  | EUROPEAN TRIAL |  |
 | --- | --- | --- | --- | --- |
@@ -230,7 +243,8 @@ Based on reported adverse reaction terms related to decreased renal function, ne
 
 Adverse reactions in heart transplant patients in the European trial are presented below:
 
-Table 9 Heart Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
+- Table 9.
+  Heart Transplantation: Adverse Reactions Occurring in ≥15% of Patients Treated with Tacrolimus in Conjunction with Azathioprine (AZA)
 
 |  | Tacrolimus/AZA | Cyclosporine/AZA |
 | --- | --- | --- |
@@ -274,7 +288,11 @@ Kidney Transplantation
 New Onset Diabetes After Transplant (NODAT) is defined as a composite of fasting plasma glucose ≥126 mg/dL, HbA1C ≥6%, insulin use ≥30 days, or oral hypoglycemic use.
 In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in the tacrolimus-treated and 61% in the NEORAL-treated patients without pre-transplant history of diabetes mellitus (Table 10) [see Clinical Studies (14.1)].
 
-Table 10 Incidence of New Onset Diabetes After Transplant at 1 Year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
+- Table 10.
+  Incidence of New Onset Diabetes After Transplant at 1 Year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
+
+Table 6.
+Incidence of New Onset Diabetes After Transplant at 1 Year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
 
 | Parameter | Treatment Group |  |
 | --- | --- | --- |
@@ -292,9 +310,13 @@ The median time to onset of PTDM was 68 days.
 Insulin dependence was reversible in 15% of these PTDM patients at one year and in 50% at 2 years post-transplant.
 African-American and Hispanic kidney transplant patients were at an increased risk of development of PTDM (Table 12).
 
-Table 11 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA)
+- Table 11.
+  Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA)
 
-| Status of PTDMUse of insulin for 30 or more consecutive days, with <5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | Tacrolimus/AZA | CsA/AZA |
+Table 7.
+Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kidney Transplant Recipients in a Phase 3 Trial using Azathioprine (AZA)
+
+| Status of PTDM | Tacrolimus/AZA | CsA/AZA |
 | --- | --- | --- |
 | Patients without pre-transplant history of diabetes mellitus | 151 | 151 |
 | New onset PTDM, 1st Year | 30/151 (20%) | 6/151 (4%) |
@@ -302,44 +324,59 @@ Table 11 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Yea
 | New onset PTDM post 1 year | 1 | 0 |
 | Patients with PTDM at 2 years | 16/151 (11%) | 5/151 (3%) |
 
-Table 12 Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
+1. 1.*Use of insulin for 30 or more consecutive days, with <5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.
+2. Table 12.
+   Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
 
-| Patient Race | Patients Who Developed PTDMUse of insulin for 30 or more consecutive days, with <5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
+Table 8.
+Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
+
+| Patient Race | Patients Who Developed PTDM |  |
 | --- | --- | --- |
 | Tacrolimus | Cyclosporine |  |
 | African-American | 15/41 (37%) | 3 (8%) |
 | Hispanic | 5/17 (29%) | 1 (6%) |
 | Caucasian | 10/82 (12%) | 1 (1%) |
 | Other | 0/11 (0%) | 1 (10%) |
-| Total | 30/151 (20%) | 6 (4%) |
+| Total | 30/151 (20%) | 1.(4%) |
+
+1. *Use of insulin for 30 or more consecutive days, with <5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.
 
 Liver Transplantation
 
 Insulin-dependent PTDM was reported in 18% and 11% of tacrolimus-treated liver transplant patients and was reversible in 45% and 31% of these patients at 1 year post-transplant, in the U.S. and European randomized trials, respectively (Table 13).
 Hyperglycemia was associated with the use of tacrolimus in 47% and 33% of liver transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
-Table 13 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
+Table 9.
+Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
 
-| Status of PTDMUse of insulin for 30 or more consecutive days, with <5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
+| Status of PTDM | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | Tacrolimus | Cyclosporine | Tacrolimus | Cyclosporine |  |
-| Patients at riskPatients without pre-transplant history of diabetes mellitus. | 239 | 236 | 239 | 249 |
+| Patients at risk | 239 | 236 | 239 | 249 |
 | New Onset PTDM | 42 (18%) | 30 (13%) | 26 (11%) | 12 (5%) |
 | Patients still on insulin at 1 year | 23 (10%) | 19 (8%) | 18 (8%) | 6 (2%) |
+
+*Patients without pre-transplant history of diabetes mellitus.
+
+- †Use of insulin for 30 or more consecutive days, with <5 day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.
 
 Heart Transplantation
 
 Insulin-dependent PTDM was reported in 13% and 22% of tacrolimus-treated heart transplant patients receiving mycophenolate mofetil (MMF) or azathioprine (AZA) and was reversible in 30% and 17% of these patients at one year post-transplant, in the U.S. and European randomized trials, respectively (Table 14).
 Hyperglycemia, defined as two fasting plasma glucose levels ≥126 mg/dL, was reported with the use of tacrolimus plus MMF or AZA in 32% and 35% of heart transplant recipients in the U.S. and European randomized trials, respectively, and may require treatment [see Adverse Reactions (6.1)].
 
-Table 14 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
+Table 14.
+Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
 
-| Status of PTDMUse of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
+| Status of PTDM | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | Tacrolimus/MMF | Cyclosporine/MMF | Tacrolimus/AZA | Cyclosporine/AZA |  |
-| Patients at riskPatients without pre-transplant history of diabetes mellitus. | 75 | 83 | 132 | 138 |
+| Patients at risk | 75 | 83 | 132 | 138 |
 | New Onset PTDM | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
-| Patients still on insulin at 1 year7 to 12 months for the U.S. trial. | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
+| Patients still on insulin at 1 year | 7 (9%) | 1 (1%) | 24 (18%) | 1.(3%) |
+
+1. *Use of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.
 
 Less Frequently Reported Adverse Reactions (>3% and <15%) in Liver, Kidney, and Heart Transplant Studies
 
@@ -370,9 +407,8 @@ The following adverse reactions were reported in either liver, kidney, and/or he
 - •Skin
 - Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating
 
-Lung Transplantation
-
-Adverse reactions in lung transplant patients were similar to those in kidney, liver, or heart transplant patients treated with tacrolimus [see Adverse Reactions (6.2)].
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information
 
 ## 6.2 Postmarketing Experience
 
@@ -406,9 +442,3 @@ Other reactions include:
 - Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - •Urogenital
 - Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome
-
-Postmarketing Adverse Reactions in Lung Transplantation
-
-Based on U.S. Scientific Registry of Transplant Recipients (SRTR) data, published clinical trials, and postmarketing reports, the safety profile for lung transplant patients treated with tacrolimus is consistent with the safety profile in kidney, liver, and heart transplant patients treated with tacrolimus.
-The primary adverse reactions described include renal dysfunction, infection, diabetes, gastrointestinal disturbances (e.g., diarrhea), hypertension, and neurological events (e.g., tremor).
-As expected, lung transplant patients have a higher incidence of pulmonary complications (e.g., pneumonia, bronchiolitis obliterans syndrome) than other solid organ transplant patients, which is in part due to the underlying disease and to the nature of the transplanted organ.

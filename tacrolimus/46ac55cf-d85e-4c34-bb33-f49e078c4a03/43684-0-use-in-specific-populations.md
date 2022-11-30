@@ -65,16 +65,17 @@ In the table below, the number of recipients exposed to tacrolimus concomitantly
 Because MPA products may also cause birth defects, the birth defect rate may be confounded and this should be taken into consideration when reviewing the data, particularly for birth defects.
 Birth defects observed include cardiac malformations, craniofacial malformations, renal/urogenital disorders, skeletal abnormalities, neurological abnormalities and multiple malformations.
 
-Table 16 TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacrolimus
+Table 16.
+TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacrolimus
 
 |  | Kidney | Liver |
 | --- | --- | --- |
-| Pregnancy OutcomesIncludes multiple births and terminations. | 462 | 253 |
+| Pregnancy Outcomes | 462 | 253 |
 | Miscarriage | 24.5% | 25% |
 | Live births | 331 | 180 |
 | Pre-term delivery (< 37 weeks) | 49% | 42% |
 | Low birth weight (< 2500 g) | 42% | 30% |
-| Birth defects | 8%Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. | 5% |
+| Birth defects | 8% | 5% |
 
 Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
 
@@ -114,15 +115,16 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric liver, kidney, heart, and lung transplant patients.
+Safety and effectiveness have been established in pediatric liver transplant patients.
 
-Kidney and Heart Transplantation
+Liver Transplantation
 
-Use of tacrolimus capsules in pediatric kidney and heart transplant patients is supported by adequate and well-controlled studies and pharmacokinetic data in adult kidney and heart transplant patients with additional pharmacokinetic data in pediatric kidney and heart transplant patients and safety data in pediatric liver transplant patients [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Safety and efficacy in pediatric liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus.
+Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
+Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
 
-Lung Transplantation
-
-The use of tacrolimus capsules in pediatric lung transplantation is supported by the experience in the U.S. Scientific Registry of Transplant Recipients (SRTR) including 450 pediatric patients receiving tacrolimus immediate-release products in combination with mycophenolate mofetil and 72 pediatric patients receiving tacrolimus immediate-release products in combination with azathioprine between 1999-2017.
+Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
+However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
@@ -147,7 +149,8 @@ Some evidence suggests that lower doses should be used in these patients [see Do
 
 ## 8.8 Race or Ethnicity
 
-African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (Error!
+Hyperlink reference not valid.) and Clinical Pharmacology (12.3)].
 
 African-American and Hispanic patients are at increased risk for new onset diabetes after transplant.
 Monitor blood glucose concentrations and treat appropriately [see Warnings and Precautions (5.4)].
