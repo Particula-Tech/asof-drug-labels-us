@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA212501"
+  ],
+  "inn": "cyclophosphamide",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-563-84",
+    "68001-564-22",
+    "68001-565-28"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cyclophosphamide",
+      "name": "CYCLOPHOSPHAMIDE"
+    }
+  ],
+  "setid": "0afd2cc7-09e6-481a-afea-9d2e3742da46",
+  "source": "dailymed"
+}
