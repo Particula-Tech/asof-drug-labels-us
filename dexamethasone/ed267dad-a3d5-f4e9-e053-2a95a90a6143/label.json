@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050023"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Novartis Pharmaceuticals Corporation",
+  "package_ndcs": [
+    "0078-0792-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "neomycin sulfate, polymyxin b sulfate and dexamethasone",
+      "name": "Maxitrol"
+    }
+  ],
+  "setid": "ed267dad-a3d5-f4e9-e053-2a95a90a6143",
+  "source": "dailymed"
+}
