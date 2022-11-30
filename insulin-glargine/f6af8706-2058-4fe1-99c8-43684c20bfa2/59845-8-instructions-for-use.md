@@ -1,54 +1,54 @@
-Instructions for Use
+INSTRUCTIONS FOR USE
 
-REZVOGLAR™ KwikPen® Single-Patient-Use Prefilled Pen
+REZVOGLARTM KwikPen® (REHZ-voh-glahr)
 
 (insulin glargine-aglr)
 
-injection for subcutaneous use
+injection, for subcutaneous use
 
-100 units/mL, 3 mL single-patient-use prefilled pen
+3 mL Single-Patient-Use PREFILLED-PEN: 100 units/mL (U-100)
 
-Your healthcare professional has decided that REZVOGLAR KwikPen is right for you.
-Talk with your healthcare professional about proper injection technique before using REZVOGLAR KwikPen.
-
-Read these instructions carefully before using your REZVOGLAR KwikPen (“Pen”).
-If you are not able to follow all the instructions completely on your own, use REZVOGLAR KwikPen only if you have help from a person who is able to follow the instructions.
+Read these Instructions for Use before you start taking the REZVOGLAR KwikPen (“Pen”) and each time you get a new REZVOGLAR KwikPen.
+There may be new information.
+This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
 Do not share your REZVOGLAR KwikPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-People who are blind or have vision problems should not use REZVOGLAR KwikPen single-patient-use prefilled pen without help from a person trained to use REZVOGLAR KwikPen single-patient-use prefilled pen.
+People who are blind or have vision problems should not use REZVOGLAR KwikPen prefilled pen without help from a person trained to use REZVOGLAR KwikPen prefilled pen.
 
-Follow these instructions completely each time you use REZVOGLAR KwikPen to ensure that you get an accurate dose.
-If you do not follow these instructions you may get too much or too little insulin, which may affect your blood glucose.
+REZVOGLAR KwikPen is a disposable prefilled pen used to inject REZVOGLAR.
+Each REZVOGLAR KwikPen has 300 units of insulin which can be used for multiple injections.
+You can select doses from 1 to 80 units in steps of 1 unit.
+The Pen plunger moves with each dose, but you may not notice that it moves.
+The plunger will only move to the end of the cartridge when 300 units of REZVOGLAR have been given.
 
-REZVOGLAR KwikPen is a disposable pen for the injection of insulin.
-Each REZVOGLAR KwikPen contains in total 300 units of insulin.
-You can give doses from 1 to 80 units in steps of 1 unit.
-If you need a dose greater than 80 units, you should give it as two or more injections.
-The Pen plunger moves with each injection, but you may not notice that it moves.
-The plunger will only move to the end of the cartridge when all 300 units of insulin have been given.
+Important Information You Need to Know Before Injecting REZVOGLAR
 
-Keep this leaflet for future reference.
-
-If you have any questions about REZVOGLAR KwikPen or about diabetes, ask your healthcare professional, go to www.xxxxxx.com or call Eli Lilly and Company at 1-800-545-5979.
-
-Important information for use of REZVOGLAR KwikPen:
-
-- Do not share your REZVOGLAR KwikPen with other people, even if the needle has been changed.
-  You may give other people a serious infection, or get a serious infection from them.
-- Do not re-use needles.
-  Always attach a new needle before each use.
-- Use needles compatible with REZVOGLAR KwikPen.
-  Becton, Dickinson and Company (BD) Pen Needles are recommended.
-  These are sold separately.
-  Contact your healthcare professional for further information.
-- Always perform the safety test (prime the REZVOGLAR KwikPen) before each injection.
-- Do not select a dose or press the Dose Knob without a needle attached.
-- If your injection is given by another person, special caution must be taken by this person to avoid accidental needle injury and transmission of infection.
-- Never use REZVOGLAR KwikPen if it is damaged or if you are not sure that it is working properly.
-- Always have a spare REZVOGLAR KwikPen in case your Pen is lost or damaged.
+- Do not use your Pen if it is damaged or if you are not sure that it is working properly.
+- Do not use a syringe to remove REZVOGLAR from your Pen.
+- Do not reuse Needles.
+  If you do, you might get the wrong dose of REZVOGLAR and/or increase the chance of getting an infection.
+- Always perform a safety test (prime the REZVOGLAR KwikPen) (see Step 3).
+- Always carry a spare Pen and spare Needles in case of loss or damage.
 - Change (rotate) your injection sites within the area you choose for each dose (see “Places to inject”).
+
+Learn to Inject
+
+- Talk with your healthcare provider about how to inject before using your Pen.
+- Ask for help if you have problems handling the Pen, for example if you have problems with your sight.
+- Read all these instructions before using your Pen.
+  If you do not follow all these instructions, you may get too much or too little insulin.
+
+Need Help?
+
+If you have any questions about your Pen or about diabetes, ask your healthcare provider, or go to www.rezvoglar.com or call Eli Lilly and Company at 1-800-545-5979.
+
+Extra Items You Will Need
+
+- a new sterile Pen Needle (see Step 2).
+- an alcohol swab.
+- a puncture-resistant container for used Needles and Pens (See "Throwing your Pen away").
 
 Places to inject
 
@@ -59,168 +59,241 @@ Places to inject
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 - Do not try to change your dose while injecting.
 
-Step 1.
-Check the insulin
+Get to know your Pen
 
-1. Check the Label on your Pen to make sure you have the correct insulin.
-   The REZVOGLAR KwikPen is light grey with a light grey Dose Knob that has a green ring on the end.
-   The label on the Pen is light grey with green color bars.
-2. Take off the Pen Cap.
-3. Check the appearance of your insulin.
-   REZVOGLAR KwikPen contains a clear and colorless insulin.
-   Do not use this Pen if the insulin is cloudy, colored or has particles or clumps in it.
+Step 1: Check your Pen
 
-Step 2.
-Attach the needle
+Take a new Pen out of the refrigerator at least 1 hour before you inject.
+Cold insulin is more painful to inject.
 
-Do not re-use needles.
-Always use a new sterile needle for each injection.
-This helps prevent contamination and potential needle blocks.
+1A Check the name and expiration date on the label of your Pen.
+The REZVOGLAR KwikPen is light grey with a light grey Dose Knob that has a green ring on the end.
+The label on the Pen is light grey with green color bars.
 
-1. Wipe the Rubber Seal with alcohol.
-2. Remove the Paper Tab from a new needle.
-3. Line up the needle with the Pen, and keep it straight as you attach it.
-   Push the capped needle straight onto the REZVOGLAR KwikPen and twist the needle on until it is tight.
-   - If the needle is not kept straight while you attach it, it can damage the rubber seal and cause leakage, or break the needle.
+- Make sure you have the correct insulin.
 
-Step 3.
-Perform a Safety test (Prime your REZVOGLAR KwikPen)
+- Do not use your Pen after the expiration date.
 
-Always perform the safety test (prime) before each injection.
-Performing the safety test (priming) ensures that you get an accurate dose by:
+1B Pull off the Pen Cap.
 
-- ensuring that Pen and needle work properly
-- removing air bubbles
+1C Check that the insulin is clear.
 
-1. Select a dose of 2 units by turning the Dose Knob.
-2. Take off the Outer Needle Shield and keep it to remove the used needle after injection.
-   Take off the Inner Needle Shield and discard it.
-3. Hold the Pen with the needle pointing upwards.
-4. Tap the insulin reservoir so that any air bubbles rise up towards the needle.
-5. Press the Dose Knob all the way in.
-   Hold the Dose Knob in and count to 5 slowly.
-   Check if insulin comes out of the needle tip.
+- Do not use the Pen if the insulin looks cloudy, colored or contains particles.
 
-You may have to perform the safety test (prime) several times before insulin is seen.
+1D Wipe the Rubber Seal with an alcohol swab.
 
-- If no insulin comes out, check for air bubbles and repeat the safety test (prime) no more than 4 times.
-- If still no insulin comes out, the needle may be blocked.
-  Change the needle and try again.
-- If no insulin comes out after changing the needle, your REZVOGLAR KwikPen may be damaged.
-  Do not use this Pen.
+If you have other injector pens:
 
-Step 4.
-Select the dose
+- Making sure you have the correct medicine is especially important if you have other injector pens.
 
-You can set the dose in steps of 1 unit, from a minimum of 1 unit to a maximum of 80 units.
-If you need a dose greater than 80 units, you should give it as two or more injections.
+Step 2: Attach a new Needle
 
-1. Check that the dose window shows "0" following the safety test (priming).
-2. Select your required dose (in the example below, the selected dose is 8 units).
-   If you turn past your dose, you can turn back down.
-   The Dose Knob clicks as you turn it.
-   Do not dial your dose by counting the clicks because you may dial the wrong dose.
+- Do not re-use Needles.
+  Always use a new sterile Needle for each injection.
+  This helps stop blocked Needles, contamination, and infection.
 
-- Do not push the Dose Knob while turning, as insulin will come out.
-- You cannot turn the Dose Knob past the number of units left in the Pen.
-  Do not force the Dose Knob to turn.
-  In this case, either you can inject what is remaining in the Pen and complete your dose with a new Pen or use a new Pen for your full dose.
-  - Even numbers are printed on the dial.
-  - Odd numbers, after the number 1, are shown as full lines.
-- Always check the number in the Dose Window to make sure you have dialed the correct dose.
+Only use Needles that are compatible with REZVOGLAR KwikPen.
+Becton, Dickinson and Company (BD) Pen Needles are recommended.
+These are sold separately.
+Contact your healthcare provider for further information.
+
+2A Take a new Needle and peel off the Paper Tab.
+
+2B Keep the Needle straight and screw it onto the Pen until fixed.
+Do not over-tighten.
+
+2C Pull off the Outer Needle Shield.
+Keep this for later.
+
+2D Pull off the Inner Needle Shield and throw away.
+
+Handling Needles
+
+- Take care when handling Needles to prevent needle-stick injury and cross-infection.
+
+Step 3: Do a safety test (Prime your REZVOGLAR KwikPen)
+
+Always do a safety test (prime) before each injection to:
+
+- Check your Pen and the Needle to make sure they are working properly.
+- Make sure that you get the correct REZVOGLAR dose.
+
+3A Select 2 units by turning the Dose Knob until the Dose Indicator is at the 2 mark.
+
+3B Press the Dose Knob all the way in.
+
+When insulin comes out of the Needle tip, your Pen is working correctly:
+
+If no insulin appears:
+
+- You may need to repeat this step up to 4 times before seeing insulin.
+- If no insulin comes out after the fourth time, the Needle may be blocked.
+  If this happens:
+  - change the Needle (see Step 6 and Step 2),
+  - then repeat the safety test (prime) (Step 3).
+- Do not use your Pen if there is still no insulin coming out of the Needle tip.
+  Use a new Pen.
+- Do not use a syringe to remove insulin from your Pen.
+
+If you see air bubbles:
+
+- You may see air bubbles in the insulin.
+  This is normal, they will not harm you.
+
+Step 4: Select the dose
+
+Do not select a dose or press the Dose Knob without a Needle attached.
+This may damage your Pen.
+
+4A Make sure a Needle is attached and the dose is set to "0".
+
+4B Turn the Dose Knob until the Dose Indicator lines up with your dose.
+
+- If you turn past your dose, you can turn back down.
+- The Dose Knob clicks as you turn it.
+  Do not dial your dose by counting the clicks because you may dial the wrong dose.
+- If there are not enough units left in your Pen for your dose, the Dose Indicator will stop at the number of units left.
+- If you cannot select your full prescribed dose, use a new Pen or inject the remaining units and use a new Pen to complete your dose.
+
+How to read the Dose Window
+
+Even numbers are shown in line with Dose Indicator.
 
 (Example: 12 units shown in the Dose Window)
 
+Odd numbers, after the number 1, are shown as a line between even numbers.
+
 (Example: 25 units shown in the Dose Window)
 
-Step 5.
-Inject the dose
+Units of REZVOGLAR in your Pen:
 
-1. Use the injection method as instructed by your healthcare professional.
-2. Insert the needle into the skin.
-3. Deliver the dose by pressing the Dose Knob in all the way.
-   The number in the Dose Window will return to "0" as you inject.
-   - Do not try to inject your insulin by turning the Dose Knob.
-     You will not receive your insulin by turning the Dose Knob.
-4. Keep the Dose Knob pressed all the way in.
-   - Slowly count to 5 before you withdraw the needle from the skin.
-     This ensures that the full dose will be delivered.
-   - If you do not see “0” in the Dose Window, you did not receive your full dose.
-     Do not redial.
-     Insert the needle into your skin and finish your injection.
-   - If you still do not think you received the full amount you dialed for your injection, do not start over or repeat the injection.
-     Monitor your blood glucose and call your healthcare provider for further instructions.
-   - If you normally need to give 2 injections for your full dose, be sure to give your second injection.
+- Your Pen contains a total of 300 units of REZVOGLAR.
+  You can select doses from 1 to 80 in steps of 1 unit.
+  Each Pen contains more than 1 dose.
+- You can see roughly how many units of insulin are left by looking at where the Plunger is on the insulin scale.
 
-Step 6.
-Remove and discard the needle
+Step 5: Injecting Your REZVOGLAR Dose
 
-Always remove the needle after each injection.
-Store REZVOGLAR KwikPen without a needle attached.
-This helps prevent:
+If you find it hard to press the Dose Knob in, do not force it as this may break your Pen.
+See the section below for help.
 
-- Contamination and/or infection.
-- Entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
+5A Choose a place to inject as shown in the picture above.
 
-1. Put the Outer Needle Shield back on the needle, and use it to unscrew the needle from the Pen.
-   - To reduce the risk of accidental needle injury, never replace the Inner Needle Shield.
-     - If your injection is given by another person, special caution must be taken by this person when removing and disposing the needle.
-       Follow recommended safety measures for removal and disposal of needles (e.g., a one-handed capping technique) in order to reduce the risk of accidental needle injury and transmission of infectious diseases.
-2. Dispose of the needle safely.
-   Used needles should be placed in sharps containers (such as red biohazard containers), hard plastic containers (such as detergent bottles), or metal containers (such as an empty coffee can).
-   Such containers should be sealed and disposed of properly.
-   If you are giving an injection to another person, you should remove the needle in an approved manner to avoid needle-stick injuries.
-3. Always put the Pen Cap back on the Pen by lining up the Cap Clip with the Dose Indicator and pushing straight on.
-   Store the Pen until your next injection.
+5B Push the Needle into the skin as shown by your healthcare provider.
 
-Storage Instructions
+Do not touch the Dose Knob yet.
 
-Please check the leaflet for the insulin for complete instructions on how to store REZVOGLAR KwikPen.
+5C Place your thumb on the Dose Knob.
+Then press all the way in and hold.
 
-If your REZVOGLAR KwikPen is in cool storage, take it out 1 to 2 hours before you inject to allow it to warm up.
-Cold insulin is more painful to inject.
+5D Keep the Dose Knob held in and when you see "0" in the Dose Window, slowly count to 5.
 
-Keep REZVOGLAR KwikPen out of the reach and sight of children.
+- This will make sure you get your full dose.
+- Do not try to inject your insulin by turning the Dose Knob.
+  You will not receive your insulin by turning the Dose Knob.
 
-Keep your REZVOGLAR KwikPen in cool storage (36°F–46°F [2°C–8°C]) until first use.
-Do not allow it to freeze.
-Do not put it next to the freezer compartment of your refrigerator or next to a freezer pack.
+5E After holding and slowly counting to 5, release the Dose Knob.
+Then remove the Needle from your skin.
 
-Once you take your REZVOGLAR KwikPen out of cool storage, for use or as a spare, you can use it for up to 28 days.
-During this time it can be safely kept at room temperature up to 86°F (30°C).
-Do not use it after this time.
-REZVOGLAR KwikPen in use must not be stored in a refrigerator.
+- If you do not see “0” in the Dose Window, you did not receive your full dose.
+  Do not redial.
+  Insert the needle into your skin and finish your injection.
+- If you still do not think you received the full amount you dialed for your injection, do not start over or repeat the injection.
+  Monitor your blood glucose and call your healthcare provider for further instructions.
 
-Do not use REZVOGLAR KwikPen after the expiration date printed on the Label of the Pen or on the carton.
+If you find it hard to press the Dose Knob in:
 
-Protect REZVOGLAR KwikPen from heat and light.
+- Change the Needle (see Step 6 and Step 2) then do a safety test (prime the Pen) (see Step 3).
+- If you still find it hard to press in, get a new Pen.
+- Do not use a syringe to remove insulin from your Pen.
 
-Discard your used REZVOGLAR KwikPen as required by your local authorities.
+Step 6: Remove the Needle
 
-Maintenance
+- Take care when handling Needles to prevent needle-stick injury and cross-infection.
+- Do not put the Inner Needle Shield back on.
 
-Protect your REZVOGLAR KwikPen from dust and dirt.
+6A Leave the Outer Needle Shield on a flat surface.
+Using one hand, scoop the Outer Needle Shield straight onto the Needle.
+When the tip is covered, lift the Needle and Pen.
+Then push firmly on.
 
-You can clean the outside of your REZVOGLAR KwikPen by wiping it with a damp cloth.
+6B Grip and squeeze the widest part of the Outer Needle Shield.
+Turn your Pen several times with your other hand to remove the Needle.
 
-Do not soak, wash, or lubricate the Pen as this may damage it.
+- Try again if the Needle does not come off the first time.
 
-Your REZVOGLAR KwikPen is designed to work accurately and safely.
-It should be handled with care.
-Avoid situations where REZVOGLAR KwikPen might be damaged.
-If you are concerned that your REZVOGLAR KwikPen may be damaged, use a new one.
+6C Throw away the used Needle in a puncture-resistant container (see "Throwing your Pen away" at the end of this Instructions for Use).
+
+6D Put your Pen Cap back on
+
+- Do not put the Pen back in the refrigerator.
+
+Storing the REZVOGLAR KwikPen
+
+Before first use
+
+- Keep new Pens in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Do not freeze.
+  Do not use REZVOGLAR if it has been frozen.
+- Unused Pens may be used until the expiration date printed on the Label, if the Pen has been kept in the refrigerator.
+
+After first use
+
+- Keep your Pen at room temperature below 86°F (30°C).
+- Keep your Pen away from heat or light.
+- Store your Pen with the Pen Cap on.
+- Do not put your Pen back in the refrigerator.
+- Do not store your Pen with the Needle attached.
+- Keep out of the reach of children.
+- Only use your Pen for up to 28 days after its first use.
+  Throw away the REZVOGLAR KwikPen you are using after 28 days, even if it still has insulin left in it.
+
+Caring for Your REZVOGLAR KwikPen
+
+Handle your Pen with care
+
+- Do not drop your Pen or knock it against hard surfaces.
+- If you think that your Pen may be damaged, do not try to fix it.
+  Use a new one.
+
+Protect your Pen from dust and dirt
+
+- You can clean the outside of your Pen by wiping it with a damp cloth (water only).
+  Do not soak, wash or lubricate your Pen.
+  This may damage it.
+
+Throwing your Pen away
+
+- The used REZVOGLAR KwikPen may be thrown away in your household trash after you have removed the Needle.
+- Put the used Needle in an FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) the used Needles in your household trash.
+- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - made of a heavy-duty plastic,
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+  - upright and stable during use,
+  - leak-resistant, and
+  - properly labeled to warn of hazardous waste inside the container.
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used Needles and syringes.
+  For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Instructions for Use issued: December 2021
-
 Manufactured by:
 
-Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
+Eli Lilly and Company
 
-Copyright © 2021 Eli Lilly and Company.
+Indianapolis, IN 46285, USA
+
+US License Number 1891
+
+Copyright © 2021, 2022, Eli Lilly and Company.
 All rights reserved.
 
-REZVOGLAR™ and REZVOGLAR™ KwikPen® are trademarks of Eli Lilly and Company.
+REZVOGLARTM and REZVOGLARTM KwikPen® are trademarks of Eli Lilly and Company.
 
-REZKP-0001-IFU-20211217
+Instructions for Use revised: Nov 2022
+
+REZKP-0002-IFU-20221116
