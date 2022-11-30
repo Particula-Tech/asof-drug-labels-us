@@ -2,6 +2,8 @@
 
 Patients who receive spironolactone tablets should be advised to avoid potassium supplements and foods containing high levels of potassium, including salt substitutes.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 3/2021 SP:R25
+Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+
+Revised: 10/2022 ALP:SP:R2 (3544/1)
