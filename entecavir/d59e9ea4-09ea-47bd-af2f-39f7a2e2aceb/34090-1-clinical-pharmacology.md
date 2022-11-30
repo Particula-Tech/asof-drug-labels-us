@@ -51,61 +51,6 @@ Entecavir AUC was 29.3% greater in elderly subjects compared to young subjects.
 The disparity in exposure between elderly and young subjects was most likely attributable to differences in renal function.
 Dosage adjustment of entecavir should be based on the renal function of the patient, rather than age [see Dosage and Administration (2.4)].
 
-Pediatrics:
-
-The steady-state pharmacokinetics of entecavir were evaluated in nucleoside-inhibitor- naïve and lamivudine-experienced HBeAg-positive pediatric subjects 2 to less than 18 years of age with compensated liver disease.
-Results are shown in Table 7.
-Entecavir exposure among nucleoside-inhibitor-naïve subjects was similar to the exposure achieved in adults receiving once-daily doses of 0.5 mg.
-Entecavir exposure among lamivudine-experienced subjects was similar to the exposure achieved in adults receiving once-daily doses of 1 mg.
-
-Table 7: Pharmacokinetic Parameters in Pediatric Subjects
-
-|  | Nucleoside-Inhibitor-Naïvea n=24 | Lamivudine-Experiencedb n=19 |
-| --- | --- | --- |
-| Cmax (ng/mL) (CV%) | 6.31 (30) | 14.48 (31) |
-| AUC(0–24) (ng•h/mL) (CV%) | 18.33 (27) | 38.58 (26) |
-| Cmin (ng/mL) (CV%) | 0.28 (22) | 0.47 (23) |
-| a Subjects received once-daily doses of 0.015 mg/kg up to a maximum of 0.5 mg. |  |  |
-| b Subjects received once-daily doses of 0.030 mg/kg up to a maximum of 1 mg. |  |  |
-
-Renal impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in subjects (without chronic hepatitis B virus infection) with selected degrees of renal impairment, including subjects whose renal impairment was managed by hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-Results are shown in Table 8 [see Dosage and Administration (2.4)].
-
-Table 8: Pharmacokinetic Parameters in Subjects with Selected Degrees of Renal Function
-
-|  | Renal Function Group |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Baseline Creatinine Clearance (mL/min) |  |  |  |  |  |
-|  | Unimpaired >80 n=6 | Mild >50–≤80 n=6 | Moderate 30–50 n=6 | Severe <30 n=6 | Severe Managed with Hemodialysisa n=6 | Severe Managed with CAPD n=4 |
-| Cmax (ng/mL) (CV%) | 8.1 (30.7) | 10.4 (37.2) | 10.5 (22.7) | 15.3 (33.8) | 15.4 (56.4) | 16.6 (29.7) |
-| AUC(0–T) (ng•h/mL) (CV) | 27.9 (25.6) | 51.5 (22.8) | 69.5 (22.7) | 145.7 (31.5) | 233.9 (28.4) | 221.8 (11.6) |
-| CLR (mL/min) (SD) | 383.2 (101.8) | 197.9 (78.1) | 135.6 (31.6) | 40.3 (10.1) | NA | NA |
-| CLT/F (mL/min) (SD) | 588.1 (153.7) | 309.2 (62.6) | 226.3 (60.1) | 100.6 (29.1) | 50.6 (16.5) | 35.7 (19.6) |
-| a Dosed immediately following hemodialysis. |  |  |  |  |  |  |
-| CLR = renal clearance; CLT/F = apparent oral clearance. |  |  |  |  |  |  |
-
-Following a single 1 mg dose of entecavir administered 2 hours before the hemodialysis session, hemodialysis removed approximately 13% of the entecavir dose over 4 hours.
-CAPD removed approximately 0.3% of the dose over 7 days [see Dosage and Administration (2.4)].
-
-Hepatic impairment: The pharmacokinetics of entecavir following a single 1 mg dose were studied in adult subjects (without chronic hepatitis B virus infection) with moderate or severe hepatic impairment (Child-Turcotte-Pugh Class B or C). The pharmacokinetics of entecavir were similar between hepatically impaired and healthy control subjects; therefore, no dosage adjustment of entecavir is recommended for patients with hepatic impairment.
-The pharmacokinetics of entecavir have not been studied in pediatric subjects with hepatic impairment.
-
-Post-liver transplant: Limited data are available on the safety and efficacy of entecavir in liver transplant recipients.
-In a small pilot study of entecavir use in HBV-infected liver transplant recipients on a stable dose of cyclosporine A (n=5) or tacrolimus (n=4), entecavir exposure was approximately 2-fold the exposure in healthy subjects with normal renal function.
-Altered renal function contributed to the increase in entecavir exposure in these subjects.
-The potential for pharmacokinetic interactions between entecavir and cyclosporine A or tacrolimus was not formally evaluated [see Use in Specific Populations (8.8)].
-
-Drug Interactions
-
-The metabolism of entecavir was evaluated in in vitro and in vivo studies.
-Entecavir is not a substrate, inhibitor, or inducer of the cytochrome P450 (CYP450) enzyme system.
-At concentrations up to approximately 10,000-fold higher than those obtained in humans, entecavir inhibited none of the major human CYP450 enzymes 1A2, 2C9, 2C19, 2D6, 3A4, 2B6, and 2E1.
-At concentrations up to approximately 340-fold higher than those observed in humans, entecavir did not induce the human CYP450 enzymes 1A2, 2C9, 2C19, 3A4, 3A5, and 2B6.
-The pharmacokinetics of entecavir are unlikely to be affected by coadministration with agents that are either metabolized by, inhibit, or induce the CYP450 system.
-Likewise, the pharmacokinetics of known CYP substrates are unlikely to be affected by coadministration of entecavir.
-
-The steady-state pharmacokinetics of entecavir and coadministered drug were not altered in interaction studies of entecavir with lamivudine, adefovir dipivoxil, and tenofovir disoproxil fumarate [see Drug Interactions (7)].
-
 ## 12.4 Microbiology
 
 Mechanism of Action
