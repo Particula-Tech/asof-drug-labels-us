@@ -110,6 +110,7 @@ How to store glipizide extended-release tablets?
 
 - Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 - Store glipizide extended-release tablets in a dry place, in its original container.
+- Drug glipizide extended-release tablets come in child-resistant bottles of 30s and 100s.
 - Keep glipizide extended-release tablets and all medicines out of reach of children.
 
 General information about the safe and effective use of glipizide extended-release tablets Medicines are sometimes prescribed for purposes other than those listed in a patient information leaflet.
@@ -142,8 +143,8 @@ Memphis, TN 38141.
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
 
 Ahmedabad, India.
 
-Iss.10/2018
+Rev.: 06/22

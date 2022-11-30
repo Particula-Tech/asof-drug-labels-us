@@ -6,8 +6,8 @@ Memphis, TN 38141.
 
 Manufactured by:
 
-Cadila Healthcare Ltd.
+Zydus Lifesciences Ltd.
 
 Ahmedabad, India.
 
-Iss.10/2018
+Rev.: 06/22
