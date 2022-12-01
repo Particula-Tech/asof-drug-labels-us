@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020439"
+  ],
+  "inn": "timolol",
+  "labeler": "Thea Pharma Inc.",
+  "package_ndcs": [
+    "82584-001-05",
+    "82584-002-05",
+    "82584-002-15"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "timolol",
+      "name": "BETIMOL"
+    }
+  ],
+  "setid": "3ae775f4-340c-4bf4-aa49-8a31daba0f8b",
+  "source": "dailymed"
+}
