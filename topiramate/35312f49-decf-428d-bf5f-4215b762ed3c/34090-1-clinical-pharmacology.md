@@ -49,7 +49,7 @@ Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance > 70 mL/min/1.73 m2) [see Dosage and Administration (2.4) and (2.5)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance >70 mL/min/1.73 m2) [see Dosage and Administration (2.4) and (2.5)].
 
 Hemodialysis
 
@@ -75,10 +75,10 @@ Clearance of topiramate in adults was not affected by gender or race.
 
 Pediatric Pharmacokinetics
 
-Pharmacokinetics of topiramate were evaluated in patients age 2 to < 16 years.
+Pharmacokinetics of topiramate were evaluated in patients age 2 to <16 years.
 Patients received either no or a combination of other antiepileptic drugs.
 A population pharmacokinetic model was developed on the basis of pharmacokinetic data from relevant topiramate clinical studies.
-This dataset contained data from 1217 subjects including 258 pediatric patients age 2 to < 16 years (95 pediatric patients < 10 years of age).
+This dataset contained data from 1217 subjects including 258 pediatric patients age 2 to <16 years (95 pediatric patients <10 years of age).
 
 Pediatric patients on adjunctive treatment exhibited a higher oral clearance (L/h) of topiramate compared to patients on monotherapy, presumably because of increased clearance from concomitant enzyme-inducing antiepileptic drugs.
 In comparison, topiramate clearance per kg is greater in pediatric patients than in adults and in young pediatric patients (down to 2 years) than in older pediatric patients.

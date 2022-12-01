@@ -58,9 +58,9 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Topiramate tablets can harm your unborn baby.
 
-- •If you take topiramate tablets during pregnancy, your baby has a higher risk for birth defects called cleft lip and cleft palate.
+- •If you take topiramate tablets during pregnancy, your baby has a higher risk for birth defects including cleft lip and cleft palate.
   These defects can begin early in pregnancy, even before you know you are pregnant.
-- •Cleft lip and cleft palate may happen even in children born to women who are not taking any medicines and do not have other risk factors.
+- •Birth defects may happen even in children born to women who are not taking any medicines and do not have other risk factors.
 - •There may be other medicines to treat your condition that have a lower chance of birth defects.
 - •All women of childbearing age should talk to their healthcare providers about using other possible treatments instead of topiramate tablets.
   If the decision is made to use topiramate tablets, you should use effective birth control (contraception) unless you are planning to become pregnant.
@@ -75,8 +75,10 @@ Topiramate tablets can harm your unborn baby.
 - •Pregnancy Registry: If you become pregnant while taking topiramate tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of topiramate tablets and other antiepileptic drugs during pregnancy.
-- •Topiramate tablets may decrease the density of bones when used over a long period.
-- •Topiramate tables may slow height increase and weight gain in children and adolescents when used over a long period.
+
+Topiramate tablets may decrease the density of bones when used over a long period.
+
+Topiramate tables may slow height increase and weight gain in children and adolescents when used over a long period.
 
 What is topiramate tablets?
 
@@ -242,4 +244,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-February 2022
+November 2022
