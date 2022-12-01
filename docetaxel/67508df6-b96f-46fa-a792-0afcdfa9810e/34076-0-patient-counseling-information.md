@@ -99,4 +99,4 @@ Ltd. Telangana 509301, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2020-04
+08-2022-05

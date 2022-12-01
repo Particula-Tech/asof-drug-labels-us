@@ -55,7 +55,7 @@ Tell your healthcare provider right away if you have any of these signs of a sev
 - redness and swelling of your arms and legs.
 - blistering, peeling or bleeding on any part of your skin (including your lips, eyes, mouth, nose, genitals, hands or feet) with or without a rash.
   You may also have flu-like symptoms such as fever, chills, or muscle aches.
-- red, scaly rash all over your body with blisters small red or white bumps under the skin that contain pus (pustules) and fever.
+- red, scaly rash all over your body with blisters, small red or white bumps under the skin that contain pus (pustules) and fever.
 
 What is docetaxel injection?
 
@@ -197,7 +197,7 @@ Distributed by:
 Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2020-04
+08-2022-05
 
 | Every three-week injection of docetaxel injection forbreast, non-small cell lung and stomach,and head and neck cancersTake your oral corticosteroid medicine as your healthcare provider tells you.Oral corticosteroid dosing:Day 1 Date: _____ Time: ___ AM _____ PMDay 2 Date: _____ Time: ___ AM _____ PM(Docetaxel Injection Treatment Day)Day 3 Date: _____ Time: ___ AM _____ PM |
 | --- |
