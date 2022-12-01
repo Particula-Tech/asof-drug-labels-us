@@ -24,7 +24,7 @@ After the infusion, blood samples were taken until Day 28 after infusion for the
 Table 4 summarizes the Total IgG Pharmacokinetic Parameters of ASCENIV, based on serum concentration of total IgG.
 The mean ± SD half-life of ASCENIV was 28.5 ± 4.4 days for subjects on a 3-week dosing interval and 39.7 ± 11.6 days for subjects on a 4-week dosing interval for the 30 subjects in the pharmacokinetic subgroup.
 Although no systematic study was conducted to evaluate the effect of sex on the pharmacokinetics of ASCENIV, based on the small sample size (11 males and 19 females) the pharmacokinetics of ASCENIV was comparable between males and females.
-In adolescents the pharmacokinetics of ASCENIV was comparable with adults.
+In adolescents, the pharmacokinetics of ASCENIV was comparable with adults.
 There were insufficient PK data in children younger than 12 years.
 
 Table 4: Total IgG Pharmacokinetic Parameter Estimates (PK Population) in Subjects
