@@ -113,7 +113,7 @@ Alkalinizing agents - Gastrointestinal alkalinizing agents (sodium bicarbonate, 
 Urinary alkalinizing agents (acetazolamide, some thiazides) increase the concentration of the non-ionized species of the amphetamine molecule, thereby decreasing urinary excretion.
 Both groups of agents increase blood levels and therefore potentiate the action of amphetamines.
 
-Antidepressants tricyclic - Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d- amphetamine in the brain; cardiovascular effects can be potentiated.
+Antidepressants tricyclic - Amphetamines may enhance the activity of tricyclic or sympathomimetic agents; d-amphetamine with desipramine or protriptyline and possibly other tricyclics cause striking and sustained increases in the concentration of d-amphetamine in the brain; cardiovascular effects can be potentiated.
 
 CYP2D6 Inhibitors - The concomitant use of amphetamine sulfate and CYP2D6 inhibitors may increase the exposure of amphetamine sulfate compared to the use of the drug alone and increase the risk of serotonin syndrome.
 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome particularly during amphetamine sulfate initiation and after a dosage increase.
@@ -148,7 +148,7 @@ Methenamine therapy - Urinary excretion of amphetamines is increased, and effica
 Norepinephrine - Amphetamines enhance the adrenergic effect of norepinephrine.
 
 Phenobarbital - Amphetamines may delay intestinal absorption of Phenobarbital.
-Co- administration of phenobarbital may produce a synergistic anticonvulsant action.
+Co-administration of phenobarbital may produce a synergistic anticonvulsant action.
 
 Phenytoin - Amphetamines may delay intestinal absorption of phenytoin; co- administration of phenytoin may produce a synergistic anticonvulsant action.
 
@@ -170,7 +170,7 @@ Mutagenicity studies and long term studies in animals to determine the carcinoge
 
 Teratogenic Effects
 
-Pregnancy Category C. Dextroamphetamine sulfate has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
+Dextroamphetamine sulfate has been shown to have embryotoxic and teratogenic effects when administered to A/Jax mice and C57BL mice in doses approximately 41 times the maximum human dose.
 Embryotoxic effects were not seen in New Zealand white rabbits given the drug in doses 7 times the human dose nor in rats given 12.5 times the maximum human dose.
 There are no adequate and well-controlled studies in pregnant women. amphetamine sulfate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
