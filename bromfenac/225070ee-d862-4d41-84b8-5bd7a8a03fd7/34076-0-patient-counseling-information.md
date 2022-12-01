@@ -24,4 +24,8 @@ Made in India.
 
 Manufactured by: Gland Pharma Limited Hyderabad-500 043,INDIA.
 
-Revised: 06/2021
+or
+
+Alembic Pharmaceuticals Limited Karkhadi – 391 450 Gujarat, India
+
+Revised: 11/2022
