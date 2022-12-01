@@ -10,8 +10,9 @@ Store at 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C to 30°C
 
 Protect from light.
 Keep covered in carton until time of use.
-For single use only.
-Discard unused portion.
+The 1 mL vials are for single use only.
+The diluted solution should not be held for more than 4 hours at room temperature or for more than 24 hours under refrigerated conditions.
+Discard any unused portion.
 
 Sterile, Nonpyrogenic.
 The container closure is not made with natural rubber latex.

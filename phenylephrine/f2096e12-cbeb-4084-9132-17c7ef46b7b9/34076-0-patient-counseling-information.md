@@ -10,8 +10,10 @@ Common, less serious symptoms include the following:
 - nausea, vomiting
 - excitability, dizziness, sweating, flushing
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2019 Meitheal Pharmaceuticals Inc.
+meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2022 Meitheal Pharmaceuticals Inc.
 
-November 2019
+Mfd. by Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
-810043-00
+Revised: October 2022
+
+8H7EAM9-00
