@@ -1,12 +1,12 @@
-# 4 CONTRAINDICATIONS
+# 4. CONTRAINDICATIONS
 
 MYFEMBREE is contraindicated in women:
 
 - With a high risk of arterial, venous thrombotic, or thromboembolic disorders [see Boxed Warning and Warnings and Precautions (5.1)].
-  Examples include women over 35 years of age who smoke and women who are known to have:
+  Examples include women over 35 years of age who smoke, and women who are known to have:
   - current or history of deep vein thrombosis or pulmonary embolism
   - vascular disease (e.g., cerebrovascular disease, coronary artery disease, peripheral vascular disease)
-  - thrombogenic valvular or thrombogenic rhythm diseases of the heart (e.g., subacute bacterial endocarditis with valvular disease, or atrial fibrillation)
+  - thrombogenic valvular or thrombogenic rhythm diseases of the heart (for example, subacute bacterial endocarditis with valvular disease, or atrial fibrillation)
   - inherited or acquired hypercoagulopathies
   - uncontrolled hypertension
   - headaches with focal neurological symptoms or migraine headaches with aura if over 35 years of age

@@ -22,7 +22,7 @@ Impairment of Fertility
 In a fertility study in rats, no effect on female fertility was observed at up to 1000 mg/kg/day (300 times the MRHD of 40 mg daily in women).
 In rats, the binding affinity of relugolix for GnRH receptors is greater than 1000-fold less than in humans, and this study represents an assessment of non-pharmacological targets of relugolix.
 
-In human GnRH-receptor knock-in mice, administration of relugolix at oral doses of 100 mg/kg and above twice daily to female mice induced a constant diestrus phase and decreased ovarian and uterine weights, effects which were reversible following cessation of treatment.
+In human GnRH-receptor knock-in mice, administration of relugolix at oral doses of 100 mg/kg and above twice daily to female mice induced a constant diestrous phase and decreased ovarian and uterine weights, effects which were reversible following cessation of treatment.
 In male knock-in mice, oral administration of relugolix decreased prostate and seminal vesicle weights at doses 3 mg/kg and above twice daily for 28 days, effects which were reversible, except for testis weight, which did not fully recover within 28 days after drug withdrawal.
 
 In a 39-week toxicology study in monkeys, a decrease in the frequency of menses was observed in female monkeys at 50 mg/kg/day (99 times the MRHD of 40 mg daily in women, based on AUC), which was partially reversed following a 13-week recovery period.

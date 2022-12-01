@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to MYFEMBREE during pregnancy.
-Pregnant females exposed to MYFEMBREE and healthcare providers are encouraged to call the MYFEMBREE Pregnancy Exposure Registry at 1-855-428-0707.
+Pregnant females exposed to MYFEMBREE and healthcare providers are encouraged to call the MYFEMBREE Pregnancy Exposure Registry at 1-(855) 428-0707.
 
 Risk Summary
 
@@ -21,7 +21,7 @@ In both rabbits and rats, no fetal malformations were present at any dose level 
 Epidemiologic studies and meta-analyses have not found an increased risk of genital or non-genital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to estrogens and progestins before conception or during early pregnancy.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-There are insufficient data to conclude whether the presence of uterine fibroids or endometriosis reduces the likelihood of achieving pregnancy or increases the risk of adverse pregnancy outcomes.
+There are insufficient data to conclude whether the presence of uterine fibroids reduces the likelihood of achieving pregnancy or increases the risk of adverse pregnancy outcomes.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the United States general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2% to 4% and 15% to 20%, respectively.
 
@@ -29,7 +29,7 @@ Data
 
 Animal Data
 
-In an embryo-fetal development study, oral administration of relugolix to pregnant rabbits during the period of organogenesis (Days 6 to 18 of gestation) resulted in abortion, total litter loss, or decreased number of live fetuses at a dose of 9 mg/kg/day (about half the human exposure at the maximum recommended human dose [MRHD] of 40 mg daily, based on AUC).
+In an embryo-fetal development study, oral administration of relugolix to pregnant rabbits during the period of organogenesis (Days 6 to 18 of gestation) resulted in abortion, total litter loss, or decreased number of live fetuses at a dose of 9 mg/kg/day (about half the human exposure at the maximum recommended human dose (MRHD) of 40 mg daily, based on AUC).
 No treatment related malformations were observed in surviving fetuses.
 No treatment related effects were observed at 3 mg/kg/day (about 0.1-fold the MRHD) or lower.
 The binding affinity of relugolix for rabbit GnRH receptors is unknown.
@@ -73,7 +73,7 @@ Perform pregnancy testing if pregnancy is suspected during treatment with MYFEMB
 
 Contraception
 
-Advise women of reproductive potential to use effective non-hormonal contraception during treatment with MYFEMBREE and for at least 1 week following discontinuation.
+Advise women of reproductive potential to use effective non-hormonal contraception during treatment with MYFEMBREE and for 1 week following discontinuation.
 Avoid concomitant use of hormonal contraceptives with MYFEMBREE.
 The use of estrogen-containing hormonal contraceptives may increase the risk of estrogen-associated adverse events and is expected to decrease the efficacy of MYFEMBREE [see Warnings and Precautions (5.8)].
 
@@ -81,7 +81,7 @@ The use of estrogen-containing hormonal contraceptives may increase the risk of 
 
 Safety and effectiveness of MYFEMBREE in pediatric patients have not been established.
 
-## 8.6 Hepatic Impairment
+## 8.7 Hepatic Impairment
 
 MYFEMBREE is contraindicated in women with hepatic impairment or disease [see Contraindications (4)].
 The use of E2 (a component of MYFEMBREE) in patients with hepatic impairment is expected to increase the exposure to E2 and increase the risk of E2-associated adverse reactions [see Clinical Pharmacology (12.3)].

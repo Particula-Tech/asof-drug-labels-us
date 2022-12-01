@@ -1,4 +1,4 @@
-# 10 OVERDOSAGE
+# 10. OVERDOSAGE
 
 Overdosage of estrogen plus progestin may cause nausea, vomiting, breast tenderness, abdominal pain, drowsiness, fatigue, and withdrawal bleeding.
 
