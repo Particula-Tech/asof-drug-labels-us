@@ -15,7 +15,7 @@ During the clinical trial, the patient experienced prolonged lymphopenia (lympho
 The patient had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
 The patient was also not taking any immunosuppressive or immunomodulatory medications concomitantly.
 
-PML has also occurred in the postmarketing setting in the presence of lymphopenia (< 0.9x109/L).
+PML has also occurred in the post-marketing setting in the presence of lymphopenia (< 0.9x109/L).
 While the role of lymphopenia in these cases is uncertain, the PML cases have occurred predominantly in patients with lymphocyte counts < 0.8x 109/L persisting for more than 6 months.
 
 At the first sign or symptom suggestive of PML, withhold dimethyl fumarate and perform an appropriate diagnostic evaluation.
@@ -45,7 +45,7 @@ Consider withholding dimethyl fumarate treatment in patients with herpes zoster 
 ## 5.4 Lymphopenia
 
 Dimethyl fumarate may decrease lymphocyte counts.
-In the MS placebo controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with dimethyl fumarate and then remained stable.
+In the MS placebo-controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with dimethyl fumarate and then remained stable.
 Four weeks after stopping dimethyl fumarate, mean lymphocyte counts increased but did not return to baseline.
 Six percent (6%) of dimethyl fumarate patients and < 1% of placebo patients experienced lymphocyte counts < 0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs. 58%) and serious infections (2% vs. 2%) was similar in patients treated with dimethyl fumarate or placebo, respectively.
@@ -62,7 +62,7 @@ Decisions about whether or not to restart dimethyl fumarate should be individual
 
 ## 5.5 Liver Injury
 
-Clinically significant cases of liver injury have been reported in patients treated with dimethyl fumarate in the postmarketing setting.
+Clinically significant cases of liver injury have been reported in patients treated with dimethyl fumarate in the post-marketing setting.
 The onset has ranged from a few days to several months after initiation of treatment with dimethyl fumarate.
 Signs and symptoms of liver injury, including elevation of serum aminotransferases to greater than 5-fold the upper limit of normal and elevation of total bilirubin to greater than 2-fold the upper limit of normal have been observed.
 These abnormalities resolved upon treatment discontinuation.

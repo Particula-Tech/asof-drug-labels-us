@@ -13,13 +13,16 @@ The following important adverse reactions are described elsewhere in labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-The most common adverse reactions (incidence ≥ 10% and ≥ 2% more than placebo) for dimethyl fumarate were flushing, abdominal pain, diarrhea, and nausea.
+In placebo-controlled and uncontrolled clinical studies, a total of 2,513 patients have received dimethyl fumarate and been followed for periods up to 13 years with an overall exposure of 11,318 person-years.
+Approximately 1,169 patients have received more than 5 years of treatment with dimethyl fumarate, and 426 patients have received at least 10 years of treatment with dimethyl fumarate.
 
 Adverse Reactions in Placebo-Controlled Trials
 
 In the two well-controlled studies demonstrating effectiveness, 1,529 patients received dimethyl fumarate with an overall exposure of 2,244 person-years [see Clinical Studies (14)].
 
 The adverse reactions presented in the table below are based on safety information from 769 patients treated with dimethyl fumarate delayed-release capsules 240 mg twice a day and 771 placebo-treated patients.
+
+The most common adverse reactions (incidence ≥ 10% and ≥ 2% more than placebo) for dimethyl fumarate were flushing, abdominal pain, diarrhea, and nausea.
 
 Table 1: Adverse Reactions in Study 1 and 2 reported for Dimethyl Fumarate Delayed-Release Capsules 240 mg BID at ≥ 2% higher incidence than placebo
 
@@ -56,16 +59,12 @@ Eosinophilia
 
 A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
 
-Adverse Reactions in Placebo-Controlled and Uncontrolled Studies
-
-In placebo-controlled and uncontrolled clinical studies, a total of 2,513 patients have received dimethyl fumarate and been followed for periods up to 4 years with an overall exposure of 4,603 person-years.
-Approximately 1,162 patients have received more than 2 years of treatment with dimethyl fumarate.
-The adverse reaction profile of dimethyl fumarate in the uncontrolled clinical studies was consistent with the experience in the placebo-controlled clinical trials.
-
 ## 6.2 Post-marketing Experience
 
 The following adverse reaction has been identified during post-approval use of dimethyl fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal Disorders: Acute pancreatitis
 
 Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)].
 
