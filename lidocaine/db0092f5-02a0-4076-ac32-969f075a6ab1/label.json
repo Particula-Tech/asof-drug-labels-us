@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA020612"
+  ],
+  "inn": "lidocaine",
+  "labeler": "TPU Pharma, Inc.",
+  "package_ndcs": [
+    "61959-001-01",
+    "61959-001-30"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "lidocaine patch 5%",
+      "name": "LIDODERM"
+    }
+  ],
+  "setid": "db0092f5-02a0-4076-ac32-969f075a6ab1",
+  "source": "dailymed"
+}
