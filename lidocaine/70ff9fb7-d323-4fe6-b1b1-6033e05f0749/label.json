@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA022221"
+  ],
+  "inn": "lidocaine",
+  "labeler": "Thea Pharma Inc.",
+  "package_ndcs": [
+    "82584-792-01",
+    "82584-792-25"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "lidocaine hydrochloride anhydrous",
+      "name": "AKTEN"
+    }
+  ],
+  "setid": "70ff9fb7-d323-4fe6-b1b1-6033e05f0749",
+  "source": "dailymed"
+}
