@@ -9,4 +9,4 @@
 
 ## 1.2 Recent MI, Recent Stroke, or Established Peripheral Arterial Disease
 
-In patients with established peripheral arterial disease or with a history of recent myocardial infarction (MI) or recent stroke clopidogrel bisulfate tablets is indicated to reduce the rate of MI and stroke.
+In patients with established peripheral arterial disease or with a history of recent myocardial infarction (MI) or recent stroke clopidogrel tablets are indicated to reduce the rate of MI and stroke.

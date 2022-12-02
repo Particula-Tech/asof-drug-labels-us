@@ -1,6 +1,4 @@
-# SPL MEDGUIDE
-
-Medication Guide
+# Medication Guide
 
 Clopidogrel (kloe PID oh grel) Tablets, USP
 
@@ -68,13 +66,13 @@ What should I tell my doctor before taking clopidogrel tablets?
 
 Before you take clopidogrel tablets, tell your doctor if you:
 
-- have a history of bowel (gastrointestinal) or stomach ulcers
-- have a history of bleeding problems
+- have a history of bowel (gastrointestinal) or stomach ulcers.
+- have a history of bleeding problems.
 - plan to have surgery or a dental procedure.
   See " How should I take clopidogrel tablets?
   "
 - are pregnant or plan to become pregnant.
-  It is not known if clopidogrel tablets will harm your unborn baby
+  It is not known if clopidogrel tablets will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if clopidogrel bisulfate passes into your breast milk.
   A decision should be made with your healthcare provider to avoid or discontinue breastfeeding when continuing clopidogrel tablets is needed.
@@ -95,12 +93,13 @@ Especially tell your doctor if you take:
 
 - aspirin, especially if you have had a stroke.
   Always talk to your doctor about whether you should take aspirin along with clopidogrel tablets to treat your condition.
-- Non-steroidal anti-inflammatory drugs (NSAIDs).
+- non-steroidal anti-inflammatory drugs (NSAIDs).
   Ask your doctor or pharmacist for a list of NSAID medicines if you are not sure.
 - warfarin (Coumadin ®, Jantoven ®).
 - selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs).
   Ask your doctor or pharmacist for a list of SSRI or SNRI medicines if you are not sure.
 - rifampin (used to treat severe infections)
+- other antiplatelet agents
 
 Know the medicines you take.
 Keep a list of them to show your doctor or pharmacist when you get a new medicine.
@@ -128,7 +127,7 @@ Clopidogrel tablets can cause serious side effects including:
   TTP can happen with clopidogrel tablets, sometimes after a short time (less than 2 weeks).
   TTP is a blood clotting problem where blood clots form in blood vessels; and can happen anywhere in the body.
   TTP needs to be treated in a hospital right away, because it may cause death.
-  Get medical help right away if you have any of these symptoms and they can not be explained by another medical condition:
+  Get medical help right away if you have any of these symptoms and they cannot be explained by another medical condition:
 
 - purplish spots (called purpura) on the skin or in the mouth (mucous membranes) due to bleeding under the skin
 - your skin or the whites of your eyes are yellow (jaundice)
@@ -145,7 +144,7 @@ Clopidogrel tablets can cause serious side effects including:
 - low amount of urine, or urine that is pink or has blood in it
 - stomach area (abdominal) pain
 - nausea, vomiting, or diarrhea
-- vision changes.
+- vision changes
 - persistent low blood sugar symptoms
 
 Tell your doctor if you have any side effect that bothers you or that does not go away.
@@ -188,7 +187,7 @@ Film coating: ferric oxide red, hypromellose 2910, and titanium dioxide
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Trade marks are the property of their respective owners.
+Trademarks are the property of their respective owners.
 
 Manufactured by:
 
@@ -198,4 +197,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8088269 Revised July 2022
+8089894 Revised November 2022

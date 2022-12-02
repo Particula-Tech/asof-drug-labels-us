@@ -2,21 +2,21 @@
 
 The following serious adverse reactions are discussed below and elsewhere in the labeling:
 
-- Bleeding [see Warnings and Precautions(5.2)]
-- Thrombotic thrombocytopenic purpura [seeWarnings and Precautions (5.4)]
+- Bleeding [see Warnings and Precautions (5.2)]
+- Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clopidogrel bisulfate has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for 1 year or more.
-The clinically important adverse reactions observed in trials comparing clopidogrel bisulfate plus aspirin to placebo plus aspirin and trials comparing clopidogrel bisulfate alone to aspirin alone are discussed below.
+Clopidogrel tablets has been evaluated for safety in more than 54,000 patients, including over 21,000 patients treated for one year or more.
+The clinically important adverse reactions observed in trials comparing clopidogrel tablets plus aspirin to placebo plus aspirin and trials comparing clopidogrel tablets alone to aspirin alone are discussed below.
 
 Bleeding
 
 CURE
 
-In CURE, clopidogrel bisulfate use with aspirin was associated with an increase in major bleeding (primarily gastrointestinal and at puncture sites) compared to placebo with aspirin (see Table 1).
+In CURE, clopidogrel tablets use with aspirin was associated with an increase in major bleeding (primarily gastrointestinal and at puncture sites) compared to placebo with aspirin (see Table 1).
 The incidence of intracranial hemorrhage (0.1%) and fatal bleeding (0.2%) were the same in both groups.
 Other bleeding events that were reported more frequently in the clopidogrel group were epistaxis, hematuria, and bruise.
 
@@ -24,7 +24,7 @@ The overall incidence of bleeding is described in Table 1.
 
 Table 1: CURE Incidence of Bleeding Complications (% patients)
 
-| Event | Clopidogrel bisulfate (+ aspirin) (n=6,259) | Placebo (+ aspirin) (n=6,303) |
+| Event | Clopidogrel tablets (+ aspirin) (n=6,259) | Placebo (+ aspirin) (n=6,303) |
 | --- | --- | --- |
 | Major bleeding * | 3.7 | 2.7 |
 | Life-threatening bleeding | 2.2 | 1.8 |
@@ -44,37 +44,37 @@ Table 1: CURE Incidence of Bleeding Complications (% patients)
 
 COMMIT
 
-In COMMIT, similar rates of major bleeding were observed in the clopidogrel bisulfate and placebo groups, both of which also received aspirin (see Table 2).
+In COMMIT, similar rates of major bleeding were observed in the clopidogrel tablets and placebo groups, both of which also received aspirin (see Table 2).
 
 Table 2: Incidence of Bleeding Events in COMMIT (% patients)
 
-| Type of Bleeding | Clopidogrel bisulfate (+ aspirin) (n=22,961) | Placebo (+ aspirin) (n=22,891) | p-value |
+| Type of Bleeding | Clopidogrel tablets (+ aspirin) (n=22,961) | Placebo (+ aspirin) (n=22,891) | p-value |
 | --- | --- | --- | --- |
 | Major* noncerebral or cerebral bleeding Major noncerebral Fatal Hemorrhagic stroke Fatal | 0.6 0.4 0.2 0.2 0.2 | 0.5 0.3 0.2 0.2 0.2 | 0.59 0.48 0.90 0.91 0.81 |
 | Other noncerebral bleeding (nonmajor) | 3.6 | 3.1 | 0.005 |
 | Any noncerebral bleeding | 3.9 | 3.4 | 0.004 |
 | * Major bleeds were cerebral bleeds or noncerebral bleeds thought to have caused death or that required transfusion. |  |  |  |
 
-CAPRIE (Clopidogrel bisulfate vs Aspirin)
+CAPRIE (Clopidogrel tablets vs Aspirin)
 
-In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel bisulfate versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
-The incidence of intracranial hemorrhage was 0.4% for clopidogrel bisulfate compared to 0.5% for aspirin.
+In CAPRIE, gastrointestinal hemorrhage occurred at a rate of 2.0% in those taking clopidogrel tablets versus 2.7% in those taking aspirin; bleeding requiring hospitalization occurred in 0.7% and 1.1%, respectively.
+The incidence of intracranial hemorrhage was 0.4% for clopidogrel tablets compared to 0.5% for aspirin.
 
-Other bleeding events that were reported more frequently in the clopidogrel bisulfate group were epistaxis and hematoma.
+Other bleeding events that were reported more frequently in the clopidogrel tablets group were epistaxis and hematoma.
 
 Other Adverse Events
 
-In CURE and CHARISMA, which compared clopidogrel bisulfate plus aspirin to aspirin alone, there was no difference in the rate of adverse events (other than bleeding) between clopidogrel bisulfate and placebo.
+In CURE and CHARISMA, which compared clopidogrel tablets plus aspirin to aspirin alone, there was no difference in the rate of adverse events (other than bleeding) between clopidogrel tablets and placebo.
 
-In CAPRIE, which compared clopidogrel bisulfate to aspirin, pruritus was more frequently reported in those taking clopidogrel bisulfate.
+In CAPRIE, which compared clopidogrel tablets to aspirin, pruritus was more frequently reported in those taking clopidogrel tablets.
 No other difference in the rate of adverse events (other than bleeding) was reported.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of clopidogrel bisulfate.
+The following adverse reactions have been identified during postapproval use of clopidogrel tablets.
 Because these reactions are reported voluntarily from a population of an unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel bisulfate.
+Hemorrhages, including those with fatal outcome, have been reported in patients treated with clopidogrel tablets.
 
 - Blood and lymphatic system disorders: Agranulocytosis, aplastic anemia/pancytopenia, thrombotic thrombocytopenic purpura (TTP), acquired hemophilia A
 - Gastrointestinal disorders: Colitis (including ulcerative or lymphocytic colitis), pancreatitis, stomatitis, gastric/duodenal ulcer, diarrhea
