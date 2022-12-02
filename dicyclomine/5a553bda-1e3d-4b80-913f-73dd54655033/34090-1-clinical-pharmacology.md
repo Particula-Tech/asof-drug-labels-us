@@ -7,9 +7,10 @@ Animal studies indicate that this action is achieved via a dual mechanism:
 
 - a specific anticholinergic effect (antimuscarinic) at the acetylcholine-receptor sites with approximately 1/8 the milligram potency of atropine (in vitro, guinea pig ileum); and
 - a direct effect upon smooth muscle (musculotropic) as evidenced by dicyclomine’s antagonism of bradykinin- and histamine-induced spasms of the isolated guinea pig ileum.
-  Atropine did not affect responses to these two agonists.
-  In vivo studies in cats and dogs showed dicyclomine to be equally potent against acetylcholine (ACh)- or barium chloride (BaCl2)-induced intestinal spasm while atropine was at least 200 times more potent against effects of ACh than BaCl2.
-  Tests for mydriatic effects in mice showed that dicyclomine was approximately 1/500 as potent as atropine; antisialagogue tests in rabbits showed dicyclomine to be 1/300 as potent as atropine.
+
+Atropine did not affect responses to these two agonists.
+In vivo studies in cats and dogs showed dicyclomine to be equally potent against acetylcholine (ACh)- or barium chloride (BaCl2)-induced intestinal spasm while atropine was at least 200 times more potent against effects of ACh than BaCl2.
+Tests for mydriatic effects in mice showed that dicyclomine was approximately 1/500 as potent as atropine; antisialagogue tests in rabbits showed dicyclomine to be 1/300 as potent as atropine.
 
 ## 12.2 Pharmacodynamics
 

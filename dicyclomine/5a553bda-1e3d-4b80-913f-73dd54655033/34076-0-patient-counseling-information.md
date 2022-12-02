@@ -15,12 +15,12 @@ If symptoms occur, the drug should be discontinued and a physician contacted.
 Dicyclomine hydrochloride may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking dicyclomine hydrochloride [see Warnings and Precautions (5.3)].
 
-Distr. by:
+Distributed by:
 
-West-Ward Pharmaceuticals Corp.
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-Revised May 2018
+C50000477/01
 
-C50000174/01
+Revised November 2021
