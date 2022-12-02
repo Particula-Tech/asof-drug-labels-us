@@ -11,9 +11,13 @@ Patients should be informed that this reaction is extremely rare, but if not bro
 
 • Administration Advise the patient that tamsulosin hydrochloride capsules should not be crushed, chewed or opened [see Dosage and Administration (2)].
 
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc.
 
-Manufactured by: Macleods Pharmaceuticals Ltd. Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA Revised: April 2019
+Princeton, NJ 08540
+
+Manufactured by: Macleods Pharmaceuticals Ltd. Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
+
+Revised: November 2022
 
 ## .
 

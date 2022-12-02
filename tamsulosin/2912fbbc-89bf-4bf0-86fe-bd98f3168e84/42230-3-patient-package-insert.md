@@ -1,4 +1,4 @@
-# SPL PATIENT PACKAGE INSERT
+# SPL PATIENT INFORMATION
 
 Tamsulosin Hydrochloride Capsules (tam-SOO-loe-sin HIGH-droe-KLOR-ide)
 
@@ -11,7 +11,7 @@ Tamsulosin hydrochloride capsules are a prescription alpha-blocker medicine used
 
 • Tamsulosin hydrochloride capsules are not for women. • Tamsulosin hydrochloride capsules are not for children.
 
-Who should not take tamsulosin Hydrochloride capsules?
+Who should not take tamsulosin hydrochloride capsules?
 Do not take tamsulosin hydrochloride capsules if you are allergic to any of its ingredients.
 See the end of this leaflet for a complete list of ingredients in tamsulosin hydrochloride capsules.
 
@@ -99,8 +99,10 @@ What are the ingredients in tamsulosin hydrochloride capsules? • Active Ingred
 The capsule shells have the following inactive ingredients: FD & C Blue 2, iron oxide black, iron oxide red, iron oxide yellow, titanium dioxide and gelatin.
 The black ink have the following inactive ingredients: shellac, propylene glycol, black iron oxide E172 and potassium hydroxide.
 
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc.
+
+Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised: April 2019
+Revised: November 2022
