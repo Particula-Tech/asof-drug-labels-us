@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of dexmedetomidine hydrochloride has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1,185 adult patients.
+The safety and efficacy of dexmedetomidine has been evaluated in four randomized, double-blind, placebo-controlled multicenter clinical trials in 1,185 adult patients.
 
 ## 14.1 Intensive Care Unit Sedation
 
@@ -96,7 +96,7 @@ Demographic characteristics were similar between the dexmedetomidine and compara
 Efficacy results showed that dexmedetomidine was more effective than the comparator group when used to sedate non-intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 13).
 
 In Study 2, the sedative properties of dexmedetomidine were evaluated by comparing the percent of patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score ≥2 (see Table 9).
-Patients were randomized to receive a loading infusion of dexmedetomidine 1 mcg/kg, or placebo (normal saline) given over 10 minutes and followed by a fixed maintenance infusion of 0.7 mcg/kg/hr.
+Patients were randomized to receive a loading infusion of dexmedetomidine 1 mcg/kg or placebo (normal saline) given over 10 minutes and followed by a fixed maintenance infusion of 0.7 mcg/kg/hr.
 After achieving the desired level of sedation, topicalization of the airway occurred.
 Patients were allowed to receive rescue midazolam as needed to achieve and/or maintain a Ramsay Sedation Scale ≥2.
 Demographic characteristics were similar between the dexmedetomidine and comparator groups.

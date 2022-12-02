@@ -120,7 +120,7 @@ Number (%) of Adult Subjects Who Had a Dose-Related Increase in Treatment Emerge
 | Atrial Fibrillation | 2% | 4% | 9% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Respiratory Failure | 2% | 6% | 10% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Acute Respiratory Distress Syndrome | 1% | 3% | 9% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *Average maintenance dose over the entire study drug administration |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| *Average maintenance dose over the entire study drug administration. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Procedural Sedation Adverse reaction information is derived from the two trials for procedural sedation [see Clinical Studies (14.2)] in which 318 adult patients received dexmedetomidine.
 The mean total dose was 1.6 mcg/kg (range: 0.5 to 6.7), mean dose per hour was 1.3 mcg/kg/hr (range: 0.3 to 6.1) and the mean duration of infusion of 1.5 hours (range: 0.1 to 6.2).

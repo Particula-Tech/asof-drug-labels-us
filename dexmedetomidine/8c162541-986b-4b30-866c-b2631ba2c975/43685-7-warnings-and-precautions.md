@@ -42,6 +42,11 @@ Procedural Sedation In adult subjects, withdrawal symptoms were not seen after d
 
 Use of dexmedetomidine beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose-related increase in adverse reactions [see Adverse Reactions (6.1)].
 
-## 5.7 Hepatic Impairment
+## 5.7 Hyperthermia or Pyrexia
+
+Dexmedetomidine may induce hyperthermia or pyrexia, which may be resistant to traditional cooling methods, such as administration of cooled intravenous fluids and antipyretic medications.
+Discontinue dexmedetomidine if drug-related hyperthermia or pyrexia is suspected and monitor patients until body temperature normalizes.
+
+## 5.8 Hepatic Impairment
 
 Since dexmedetomidine clearance decreases with severity of hepatic impairment, dose reduction should be considered in patients with impaired hepatic function [see Dosage and Administration (2.2, 2.3)].

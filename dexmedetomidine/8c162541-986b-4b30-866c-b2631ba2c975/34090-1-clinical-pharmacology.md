@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Dexmedetomidine is a relatively selective alpha2-adrenergic agonist with sedative properties.
+Dexmedetomidine is a relatively selective centrally acting alpha2-adrenergic agonist with sedative properties.
 Alpha2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10 to 300 mcg/kg).
 Both alpha1 and alpha2 activity is observed following slow intravenous infusion of high doses (≥1,000 mcg/kg) or with rapid intravenous administration.
 
@@ -29,7 +29,7 @@ Table 8: Mean ± SD Pharmacokinetic Parameters
 | CL, liter/hour | 46.3 ± 8.3 | 43.1 ± 6.5 | 35.3 ± 6.8 | 36.5 ± 7.5 |
 | Vss, liter | 88.7 ± 22.9 | 102.4 ± 20.3 | 93.6 ± 17.0 | 99.6 ± 17.8 |
 | Avg Css#, ng/mL | 0.27 ± 0.05 | 0.27 ± 0.05 | 0.67 ± 0.10 | 1.37 ± 0.20 |
-| Abbreviations: t1/2 = half-life, CL = clearance, Vss = steady-state volume of distribution * Presented as harmonic mean and pseudo standard deviation. # Mean Css = Average steady-state concentration of dexmedetomidine. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. |  |  |  |  |
+| Abbreviations: t1/2 = half-life, CL = clearance, Vss = steady-state volume of distribution. * Presented as harmonic mean and pseudo standard deviation. # Mean Css = Average steady-state concentration of dexmedetomidine. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions. |  |  |  |  |
 
 The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively.
 Dexmedetomidine pharmacokinetic parameters after dexmedetomidine maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the pharmacokinetic (PK) parameters after dexmedetomidine maintenance dosing for <24 hours in other studies.
@@ -53,12 +53,12 @@ In addition, aliphatic hydroxylation of parent drug to form 3-hydroxy-dexmedetom
 N-methylation of dexmedetomidine to form 3-hydroxy N-methyl dexmedetomidine, 3-carboxy N-methyl dexmedetomidine, and N-methyl O-glucuronide dexmedetomidine accounted for approximately 18% of the dose in urine.
 The N-Methyl metabolite itself was a minor circulating component and was undetected in urine.
 Approximately 28% of the urinary metabolites have not been identified.
-Specific Populations Male and Female Patients There was no observed difference in dexmedetomidine pharmacokinetics due to gender.
+Specific Populations Male and Female Patients There was no observed difference in dexmedetomidine pharmacokinetics due to sex.
 Geriatric Patients The pharmacokinetic profile of dexmedetomidine was not altered by age.
 There were no differences in the pharmacokinetics of dexmedetomidine in young (18 to 40 years), middle age (41 to 65 years), and elderly (>65 years) subjects.
 Patients with Hepatic Impairment In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, or C), clearance values for dexmedetomidine were lower than in healthy subjects.
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
-Although dexmedetomidine is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.7)].
+Although dexmedetomidine is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
 Patients with Renal Impairment Dexmedetomidine pharmacokinetics (Cmax, Tmax, AUC, t1/2, CL, and Vss) were not significantly different in patients with severe renal impairment (creatinine clearance: <30 mL/min) compared to healthy subjects.
 Drug Interaction Studies In vitro studies: In vitro studies in human liver microsomes demonstrated no evidence of cytochrome P450 mediated drug interactions that are likely to be of clinical relevance.
