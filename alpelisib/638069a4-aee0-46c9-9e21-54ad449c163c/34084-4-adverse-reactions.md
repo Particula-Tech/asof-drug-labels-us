@@ -6,7 +6,7 @@ The following clinically significant adverse reactions are discussed elsewhere i
 - Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
 - Hyperglycemia [see Warnings and Precautions (5.3)]
 - Pneumonitis [see Warnings and Precautions (5.4)]
-- Diarrhea [see Warnings and Precautions (5.5)]
+- Diarrhea or Colitis [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

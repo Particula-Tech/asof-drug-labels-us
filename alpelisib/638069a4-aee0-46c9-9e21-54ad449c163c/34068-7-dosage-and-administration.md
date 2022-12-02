@@ -103,7 +103,7 @@ Table 5: Dosage Modification and Management for Hyperglycemia
 | Grade 1 Fasting glucose > ULN -160 mg/dL or > ULN -8.9 mmol/L | No VIJOICE dosage modification is required. Initiate or intensify oral anti-hyperglycemic treatmentb. |
 | Grade 2 Fasting glucose > 160 - 250 mg/dL or > 8.9 - 13.9 mmol/L | No VIJOICE dosage modification is required. Initiate or intensify oral anti-hyperglycemic treatmentb. Adult Patients: If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days under appropriate anti-hyperglycemic treatmentb, reduce VIJOICE dose by 1 dose level and follow fasting glucose value specific recommendations. Pediatric Patients: If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days under appropriate anti-hyperglycemic treatmentb, interrupt VIJOICE until improvement to Grade ≤ 1, then resume VIJOICE at 50 mg and follow fasting glucose value specific recommendations. |
 | Grade 3 Fasting glucose > 250 - 500 mg/dL or > 13.9 - 27.8 mmol/L | Interrupt VIJOICE. Initiate or intensify oral anti-hyperglycemic treatmentb and consider additional anti-hyperglycemic medications for 1-2 days until hyperglycemia improves, as clinically indicated. Administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances). Adult Patients: If fasting glucose decreases to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-hyperglycemic treatment, resume VIJOICE at 1 lower dose level. If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-hyperglycemic treatment, consultation with a physician with expertise in the treatment of hyperglycemia is recommended.If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days following appropriate anti-hyperglycemic treatmentb, permanently discontinue VIJOICE. Pediatric Patients: If fasting glucose decreases to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-hyperglycemic treatment, resume VIJOICE at 50 mg.If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 3 to 5 days under appropriate anti-hyperglycemic treatment, consultation with a physician with expertise in the treatment of hyperglycemia is recommended to determine if treatment with VIJOICE should be resumed or permanently discontinued.If fasting glucose does not decrease to ≤ 160 mg/dL or 8.9 mmol/L within 21 days following appropriate anti-hyperglycemic treatmentb, permanently discontinue VIJOICE.If hyperglycemia recurs at Grade ≥ 3, consider permanent discontinuation of VIJOICE. |
-| Grade 4 Fasting glucose > 500 mg/dL or ≥ 27.8 mmol/L | Interrupt VIJOICE. Initiate or intensify appropriate oral anti-hyperglycemic treatmentb. Administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances). Re-check fasting glucose within 24 hours and as clinically indicated. If fasting glucose decreases to ≤ 500 mg/dL or 27.8 mmol/L, follow fasting glucose value-specific recommendations for Grade 3.If fasting glucose is confirmed at > 500 mg/dL or 27.8 mmol/L, permanently discontinue VIJOICE. |
+| Grade 4 Fasting glucose > 500 mg/dL or > 27.8 mmol/L | Interrupt VIJOICE. Initiate or intensify appropriate oral anti-hyperglycemic treatmentb. Administer intravenous hydration and consider appropriate treatment (e.g., intervention for electrolyte/ketoacidosis/hyperosmolar disturbances). Re-check fasting glucose within 24 hours and as clinically indicated. If fasting glucose decreases to ≤ 500 mg/dL or 27.8 mmol/L, follow fasting glucose value-specific recommendations for Grade 3.If fasting glucose is confirmed at > 500 mg/dL or 27.8 mmol/L, permanently discontinue VIJOICE. |
 | Abbreviation: ULN, upper limit of normal. aFPG/Fasting Blood Glucose/Grade levels reflect hyperglycemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) Version 4.03. bInitiate applicable anti-hyperglycemic medications, including metformin in adult and pediatric patients ≥ 10 years, SGLT2 inhibitors or insulin sensitizers (such as thiazolidinediones or dipeptidyl peptidase-4 inhibitors) in adult patients, and review respective prescribing information for dosing and dose titration recommendations, including local hyperglycemic treatment guidelines [see Warnings and Precautions (5.3)]. |  |
 
 Pneumonitis
@@ -116,20 +116,20 @@ Table 6: Dosage Modification for Pneumonitis
 | Any Grade | • Interrupt VIJOICE if pneumonitis is suspected. • Permanently discontinue VIJOICE if pneumonitis is confirmed. |
 | aGrading according to CTCAE Version 5.0. |  |
 
-Diarrhea
+Diarrhea or Colitis
 
 In pediatric patients, consider consultation with a physician with experience in the treatment of gastrointestinal conditions.
 
-Table 7: Dosage Modification and Management for Diarrhea
+Table 7: Dosage Modification and Management for Diarrhea or Colitis
 
 | [see Warnings and Precautions (5.5)] |  |
 | --- | --- |
 | Gradea | Recommendation for adult and pediatric patients |
 | Grade 1 | No VIJOICE dosage modification is required. Initiate appropriate medical therapy and monitor as clinically indicated. |
-| Grade 2 | Interrupt VIJOICE dose until improvement to Grade ≤ 1, then resume VIJOICE at the same dose level. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. Adult Patients: If diarrhea recurs at Grade ≥ 2, interrupt VIJOICE dose until improvement to Grade ≤ 1, then resume VIJOICE at the next lower dose level. Pediatric Patients: If diarrhea recurs at Grade ≥ 2, interrupt VIJOICE dose until improvement to Grade ≤ 1, then resume VIJOICE at 50 mg. |
-| Grade 3 | Interrupt VIJOICE dose until improvement to Grade ≤ 1. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. Adult Patients: Once improved to Grade ≤ 1, then resume VIJOICE at the next lower dose level. Pediatric Patients: Once improved to Grade ≤ 1, either resume VIJOICE at 50 mg or permanently discontinue VIJOICE.If diarrhea recurs at Grade ≥ 3, consider permanent discontinuation of VIJOICE. |
+| Grade 2 | Interrupt VIJOICE dose until improvement to Grade ≤ 1, then resume VIJOICE at the same dose level. Initiate or intensify appropriate medical therapy and monitor as clinically indicatedb. Adult Patients: For recurrent Grade ≥ 2, interrupt VIJOICE dose until improvement to Grade ≤ 1, then resume VIJOICE at the next lower dose level. Pediatric Patients: For recurrent Grade ≥ 2, interrupt VIJOICE dose until improvement to Grade ≤ 1, then resume VIJOICE at 50 mg. |
+| Grade 3 | Interrupt VIJOICE dose until improvement to Grade ≤ 1. Initiate or intensify appropriate medical therapy and monitor as clinically indicatedb. Adult Patients: Once improved to Grade ≤ 1, then resume VIJOICE at the next lower dose level. Pediatric Patients: Once improved to Grade ≤ 1, either resume VIJOICE at 50 mg or permanently discontinue VIJOICE.For recurrent Grade ≥ 3, consider permanent discontinuation of VIJOICE. |
 | Grade 4 | Permanently discontinue VIJOICE. |
-| aGrading according to CTCAE Version 5.0. |  |
+| aGrading according to CTCAE Version 5.0. bFor Grade 2 and 3 colitis consider additional treatment, such as enteric-acting and/or systemic steroids. |  |
 
 Pancreatitis
 
@@ -144,7 +144,7 @@ Table 8: Dosage Modification for Pancreatitis
 
 Other Adverse Reactions
 
-Table 9: Dosage Modification and Management for Other Adverse Reactions (Excluding Rash and Severe Cutaneous Adverse Reactions, Hyperglycemia, Pneumonitis, Diarrhea, and Pancreatitis)
+Table 9: Dosage Modification and Management for Other Adverse Reactions (Excluding Rash and Severe Cutaneous Adverse Reactions, Hyperglycemia, Pneumonitis, Diarrhea or Colitis, and Pancreatitis)
 
 | Gradea | Recommendation for adult and pediatric patients |
 | --- | --- |

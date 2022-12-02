@@ -2,7 +2,7 @@
 
 ## 5.1 Severe Hypersensitivity
 
-Severe hypersensitivity reactions, including anaphylaxis and anaphylactic shock, have occurred in adult patients treated with alpelisib in the oncology setting and may occur in patients treated with VIJOICE.
+Severe hypersensitivity reactions, including anaphylaxis, anaphylactic shock, and angioedema, have occurred in adult patients treated with alpelisib in the oncology setting and may occur in patients treated with VIJOICE.
 VIJOICE is not approved for use in the oncology setting.
 
 Permanently discontinue VIJOICE in the event of severe hypersensitivity [see Contraindications (4)].
@@ -39,7 +39,7 @@ The safety of VIJOICE in patients with Type 1 and uncontrolled Type 2 diabetes h
 Patients with a history of diabetes mellitus may require intensified hyperglycemic treatment.
 Closely monitor patients with diabetes.
 
-Interrupt, reduce the dose, or permanently discontinue VIJOICE based on the severity as decribed in Table 5 [see Dosage and Administration (2.3)].
+Interrupt, reduce the dose, or permanently discontinue VIJOICE based on the severity as described in Table 5 [see Dosage and Administration (2.3)].
 
 ## 5.4 Pneumonitis
 
@@ -51,14 +51,17 @@ Consider a diagnosis of non-infectious pneumonitis in patients presenting with n
 
 Permanently discontinue VIJOICE in all patients with confirmed pneumonitis [see Dosage and Administration (2.3)].
 
-## 5.5 Diarrhea
+## 5.5 Diarrhea or Colitis
 
-Severe diarrhea, including cases resulting in dehydration and acute kidney injury, has occurred in adult patients treated with alpelisib in the oncology setting and may occur in patients treated with VIJOICE.
+Severe diarrhea, resulting in dehydration and in some cases in acute kidney injury, as well as colitis, have occurred in adult patients treated with alpelisib in the oncology setting and may occur in patients treated with VIJOICE.
 VIJOICE is not approved for use in the oncology setting.
 
 In the EPIK-P1 study, 16% of patients experienced Grade 1 diarrhea during treatment with VIJOICE [see Adverse Reactions (6.1)].
 
-Interrupt, reduce the dose or permanently discontinue VIJOICE based on severity [see Dosage and Administration (2.3)].
+Monitor patients for diarrhea and additional symptoms of colitis, such as abdominal pain and mucus or blood in stool.
+Interrupt, reduce the dose or permanently discontinue VIJOICE based on the severity of diarrhea or colitis [see Dosage and Administration (2.3)].
+
+For patients with colitis, additional treatment, such as enteric-acting and/or systemic steroids, may be required [see Dosage and Administration (2.3)].
 
 ## 5.6 Embryo-Fetal Toxicity
 

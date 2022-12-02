@@ -14,17 +14,18 @@ Advise patients and their caregivers to contact their healthcare provider immedi
 
 Hyperglycemia
 
-Advise patients and their caregivers of the possibility of developing hyperglycemia and the need to monitor fasting glucose periodically during therapy.
+Advise patients and their caregivers that VIJOICE may cause hyperglycemia and requires monitoring of fasting glucose periodically during therapy.
 Advise patients and their caregivers of the signs and symptoms of hyperglycemia (e.g., excessive thirst, urinating more often than usual or higher amount of urine than usual, or increased appetite with weight loss) [see Warnings and Precautions (5.3)].
 
 Pneumonitis
 
-Inform patients and their caregivers of the possibility of developing pneumonitis and to immediately report new or worsening respiratory symptoms [see Warnings and Precautions (5.4)].
+Inform patients and their caregivers that VIJOICE may cause pneumonitis and to immediately report new or worsening respiratory symptoms [see Warnings and Precautions (5.4)].
 
-Diarrhea
+Diarrhea or Colitis
 
-Advise patients and their caregivers that VIJOICE may cause diarrhea, which may be severe in some cases.
-Inform patients and their caregivers to start anti-diarrheal treatment, increase oral fluids, and notify their healthcare provider if diarrhea occurs while taking VIJOICE [see Warnings and Precautions (5.5)].
+Advise patients and their caregivers that VIJOICE may cause diarrhea, which may be severe, and to start anti-diarrheal treatment, increase oral fluids, and notify their healthcare provider if diarrhea occurs while taking VIJOICE [see Warnings and Precautions (5.5)].
+
+Advise patients and their caregivers that VIJOICE may cause colitis and to notify their healthcare provider immediately of any symptoms of colitis, such as abdominal pain and mucus or blood in stool, while taking VIJOICE [see Warnings and Precautions (5.5)].
 
 Alopecia
 
@@ -66,4 +67,4 @@ Distributed by Novartis Pharmaceuticals Corporation East Hanover, New Jersey 079
 
 © Novartis
 
-T2022-27
+T2022-66
