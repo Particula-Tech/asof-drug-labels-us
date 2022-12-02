@@ -22,7 +22,7 @@ Therapy with Penicillin G Potassium for Injection, USP may be initiated before r
 | Haverhill fever |  | Streptobacillus moniliformis |
 | Rat bite fever |  | Spirillum minus or Streptobacillus moniliformis |
 | Disseminated gonococcal infections |  | Neisseria gonorrhoeae (Penicillin-susceptible) |
-| Syphillis (congenital and neurosyphilis) |  | Treponema pallidum |
+| Syphilis (congenital and neurosyphilis) |  | Treponema pallidum |
 | Meningococcal meningitis and/or septicemia |  | Neisseria meningitidis |
 | Gram-negative bacillary infections (bacteremias) Penicillin G is not the drug of choice in the treatment of Gram-negative bacillary infections. |  | Gram-negative bacillary organisms (i.e. Enterobacteriaceae) |
 
