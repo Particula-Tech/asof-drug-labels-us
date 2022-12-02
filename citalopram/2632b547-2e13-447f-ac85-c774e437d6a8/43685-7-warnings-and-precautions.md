@@ -69,7 +69,6 @@ If concomitant use of citalopram with other serotonergic drugs is clinically war
 ## 5.4 Increased Risk of Bleeding
 
 Drugs that interfere with serotonin reuptake inhibition, including citalopram, increase the risk of bleeding events.
-
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDS), other antiplatelet drugs, warfarin, and other anticoagulants may add to this risk.
 Case reports and epidemiological studies (case-control and cohort design) have demonstrated an association between use of drugs that interfere with serotonin reuptake and the occurrence of gastrointestinal bleeding.
 Bleeding events related to drugs that interfere with serotonin reuptake have ranged from ecchymosis, hematoma, epistaxis, and petechiae to life-threatening hemorrhages.
