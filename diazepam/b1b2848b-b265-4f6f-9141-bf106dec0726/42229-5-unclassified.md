@@ -21,11 +21,11 @@ To the caregiver using Diazepam Rectal Gel 10 mg rectal delivery system or 20 mg
 Please do not give Diazepam Rectal Gel 10 mg rectal delivery system or 20 mg rectal delivery system until:
 
 1. 1.You have confirmed:
-2. •Prescribed dose is visible and if known, is correct
-3. •green “READY” band is visible
-4. 2.You have thoroughly read these instructions
-5. 3.Reviewed administration steps with the doctor
-6. 4.Understand the directions
+2. 2.Prescribed dose is visible and if known, is correct
+3. 3.green “READY” band is visible
+4. 4.You have thoroughly read these instructions
+5. 5.Reviewed administration steps with the doctor
+6. 6.Understand the directions
 
 Please do not administer Diazepam Rectal Gel until you feel comfortable with how to use Diazepam Rectal Gel.
 The doctor will tell you exactly when to use Diazepam Rectal Gel.
@@ -35,15 +35,15 @@ If you are not comfortable, then discuss your role with the doctor again.
 
 To help the person with seizures:
 
-- ✓You must be able to tell the difference between cluster and ordinary seizures.
-- ✓You must be comfortable and satisfied that you are able to give Diazepam Rectal Gel.
-- ✓You need to agree with the doctor on the exact conditions when to treat with Diazepam Rectal Gel.
-- ✓You must know how and for how long you should check the person after giving Diazepam Rectal Gel.
+- •You must be able to tell the difference between cluster and ordinary seizures.
+- •You must be comfortable and satisfied that you are able to give Diazepam Rectal Gel.
+- •You need to agree with the doctor on the exact conditions when to treat with Diazepam Rectal Gel.
+- •You must know how and for how long you should check the person after giving Diazepam Rectal Gel.
 
 To know what responses to expect:
 
-- ✓You need to know how soon seizures should stop or decrease in frequency after giving Diazepam Rectal Gel.
-- ✓You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
+- •You need to know how soon seizures should stop or decrease in frequency after giving Diazepam Rectal Gel.
+- •You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
 
 If you have any questions or feel unsure about using the treatment, CALL THE DOCTOR before using Diazepam Rectal Gel.
 
