@@ -162,7 +162,7 @@ Scan this code to launch www.basaglar.com
 This Instructions for Use have been approved by the U.S. Food and Drug Administration.
 BASAGLAR® and BASAGLAR® KwikPen® are trademarks of Eli Lilly and Company.
 
-Instructions for Use revised: July 2021
+Instructions for Use revised: November 2022
 
 Manufactured by:
 
@@ -172,13 +172,13 @@ Indianapolis, IN 46285, USA
 
 US License Number 1891
 
-Copyright © 2015, 2021, Eli Lilly and Company.
+Copyright © 2015, 2022, Eli Lilly and Company.
 All rights reserved.
 
 | BASAGLAR KwikPen meets the current dose accuracy and functional requirements of ISO 11608-1. |  |
 | --- | --- |
 
-BASKP-0008-IFU-20210720
+BASKP-0009-IFU-20221115
 
 Instructions for Use
 
@@ -347,14 +347,14 @@ This Instructions for Use have been approved by the U.S. Food and Drug Administr
 
 BASAGLAR® is a registered trademark and Tempo PenTM is a trademark of Eli Lilly and Company.
 
-Instructions for Use revised: July 2021
+Instructions for Use revised: November 2022
 
 Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Number 1891
 
-Copyright © 2021, Eli Lilly and Company.
+Copyright © 2021, 2022, Eli Lilly and Company.
 All rights reserved.
 
 | BASAGLAR Tempo Pen meets the current dose accuracy and functional requirements of ISO 11608-1. |
 | --- |
 
-BASTP-0003-IFU-20210720
+BASTP-0004-IFU-20221115
