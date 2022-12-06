@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+How Supplied
+
 Levothyroxine sodium tablets USP are round, colored, scored and debossed with following debossing details on one side and break-line on other side.
 They are supplied as follows:
 
@@ -18,7 +20,7 @@ They are supplied as follows:
 | 200 | Pink/Round | L26 | 68180-975-09 | 68180-975-01 | 68180-975-02 | 68180-975-03 |
 | 300 | Green/Round | L27 | 68180-976-09 | 68180-976-01 | 68180-976-02 | 68180-976-03 |
 
-Storage Conditions
+Storage and Handling
 
 Store at 25°C (77°F); excursions permitted to 15° to 30° C (59° to 86° F) [see USP Controlled Room Temperature].
 Levothyroxine sodium tablets USP should be protected from light and moisture.

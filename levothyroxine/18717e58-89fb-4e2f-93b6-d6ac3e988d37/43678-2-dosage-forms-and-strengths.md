@@ -1,7 +1,9 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
 Levothyroxine sodium tablets USP are round, colored, scored and debossed with following debossing details on one side and break-line on other side.
-They are supplied as follows:
+They are available as follows (Table 4)
+
+Table 4: Levothyroxine Sodium Tablet Strengths and Identifying Features
 
 | Tablet Strength | Tablet Color/Shape | Debossing Details |
 | --- | --- | --- |
