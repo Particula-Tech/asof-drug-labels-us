@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215809"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Mylan Specialty L.P.",
+  "package_ndcs": [
+    "49502-378-15",
+    "49502-378-75"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levothyroxine sodium",
+      "name": "ERMEZA"
+    }
+  ],
+  "setid": "8ceeadb4-18be-46c7-9204-68b4edfbb96b",
+  "source": "dailymed"
+}
