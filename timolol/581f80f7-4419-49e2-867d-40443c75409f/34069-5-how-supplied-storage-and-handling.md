@@ -14,20 +14,6 @@ Storage Store at 15°C to 25°C (59°F to 77°F).
 Avoid freezing.
 Protect from light.
 
-Distributed by:
-
-Bausch & Lomb Americas Inc.
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Bausch & Lomb Incorporated
-
-Tampa, FL 33637 USA
-
-© 2022 Bausch & Lomb Incorporated or its affiliates
-
-Revised: 03/2022
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA © 2022 Bausch & Lomb Incorporated or its affiliates Revised: 03/2022
 
 9753401

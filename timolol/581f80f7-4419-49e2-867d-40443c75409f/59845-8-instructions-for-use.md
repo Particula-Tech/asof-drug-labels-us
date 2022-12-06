@@ -69,17 +69,9 @@ You can ask your pharmacist or doctor for more information about Timolol Maleate
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
-Bausch & Lomb Americas Inc.
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Bausch & Lomb Incorporated
-
-Tampa, FL 33637 USA
+Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA
 
 © 2022 Bausch & Lomb Incorporated or its affiliates
 
