@@ -17,7 +17,7 @@ For additional Medication Guides call 1-800-617-8191 or visit www.gene.com/gene/
 
 Genentech
 
-10216331
+10235320
 
 # PRINCIPAL DISPLAY PANEL - 250 mg Capsule Bottle Carton
 
@@ -38,7 +38,7 @@ For additional Medication Guides call 1-800-617-8191 or visit www.gene.com/gene/
 
 Genentech
 
-10216330
+10225420
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Vial Carton
 
@@ -60,7 +60,7 @@ Rx only 4 Single-Dose Vials
 
 Genentech
 
-10215811
+10225424
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/mL Bottle Carton
 
@@ -79,4 +79,4 @@ Rx only
 
 Genentech
 
-10167216
+10225425
