@@ -33,9 +33,9 @@ Table 1 Mean Pharmacokinetic Parameters (CV%) for Naloxone Following NARCAN (Nal
 
 Figure 1 Mean ± SD Plasma Concentration of Naloxone, (a) 0-6 h and (b) 0-1h Following Intranasal Administration and Intramuscular Injection
 
-| (a) |
+| (a) Figure 1 Mean ± SD Plasma Concentration of Naloxone, (a) 0-6 h and (b) 0-1h Following Intranasal Administration and Intramuscular Injection |
 | --- |
-| (b) |
+| (b) Figure 1 Mean ± SD Plasma Concentration of Naloxone, (a) 0-6 h and (b) 0-1h Following Intranasal Administration and Intramuscular Injection |
 
 The median naloxone tmax after intranasal administration of NARCAN Nasal Spray (one nasal spray in one nostril (2 mg or 4 mg) or two nasal sprays as one spray in each nostril (4 mg or 8 mg) was not significantly different compared to the 0.4 mg dose of naloxone hydrochloride intramuscular injection (Table 1).
 
