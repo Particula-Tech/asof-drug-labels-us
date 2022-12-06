@@ -60,10 +60,10 @@
 | TEMODAR for injection: |  |  |
 | Active ingredient: temozolomide. |  |  |
 | Inactive ingredients: mannitol, L-threonine, polysorbate 80, sodium citrate dihydrate, and hydrochloric acid. |  |  |
-| Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA |  |  |
-| For patent information: www.merck.com/product/patent/home.html |  |  |
+| Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA |  |  |
+| For patent information: www.msd.com/research/patent |  |  |
 | The trademarks depicted herein are owned by their respective companies. |  |  |
-| Copyright © 1999-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. |  |  |
-| Revised: 11/2019 |  |  |
-| usppi-mk7365-mtl-1911r011 |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  | Revised: November 2019 |
+| Copyright © 1999-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. |  |  |
+| Revised: 11/2022 |  |  |
+| usppi-mk7365-mtl-2211r012 |  |  |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  | Revised: November 2022 |

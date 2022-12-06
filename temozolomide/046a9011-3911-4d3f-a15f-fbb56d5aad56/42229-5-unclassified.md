@@ -1,10 +1,11 @@
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 1999-2019 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 1999-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk7365-mtl-1911r022
+uspi-mk7365-mtl-2211r023
 
 TEMODAR® (temozolomide) for injection
 
@@ -130,15 +131,16 @@ TEMODAR is also available as capsules in 5-mg, 20-mg, 100-mg, 140-mg, 180-mg, an
 References: “OSHA Hazardous Drugs.”
 OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.
 
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2008-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2008-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-Revised: 11/2020
+Revised: 11/2022
 
-usphi-mk7365-pwi-2011r015
+usphi-mk7365-pwi-2211r016
 
 TEMODAR® (temozolomide) capsules
 
@@ -293,12 +295,13 @@ For example:
 References: “OSHA Hazardous Drugs.”
 OSHA. http://www.osha.gov/SLTC/hazardousdrugs/index.
 
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
-Copyright © 2005-2020 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2005-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-Revised: 11/2020
+Revised: 11/2022
 
-usphi-mk7365-cp-2011r012
+usphi-mk7365-cp-2211r013

@@ -88,11 +88,11 @@ NDC 0085-1381-01
 
 Temodar® [temozolomide] for Injection
 
-100 mg/VIAL
+100 mg / VIAL
 
 For Intravenous Use Only
 
-Single-Use Vial.
-Discard after use.
+Single-Dose Vial.
+Discard unused portion.
 
 Rx only
