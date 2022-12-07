@@ -28,3 +28,5 @@ Instruct patients that if they develop symptoms of esophageal disease (such as d
 
 If patients miss a dose of once weekly alendronate sodium tablet, instruct patients to take one dose on the morning after they remember.
 They should not take two doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day.
+
+Manufactured by: Hangzhou Minsheng Binjiang Pharmaceutical Co., Ltd, 658 Bin’an Road Binjiang District, Hangzhou, 310051, CHINA Revised: 02/2020

@@ -206,4 +206,4 @@ Hangzhou, 310051, CHINA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-REV091919
+Revised: 02/2020
