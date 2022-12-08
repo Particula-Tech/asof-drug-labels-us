@@ -10,19 +10,21 @@ The polyglutamate forms are retained in cells and are inhibitors of TS and GARFT
 
 ## 12.2 Pharmacodynamics
 
+Pemetrexed inhibited the in vitro growth of mesothelioma cell lines (MSTO-211H, NCI-H2052) and showed synergistic effects when combined with cisplatin.
+
 Based on population pharmacodynamic analyses, the depth of the absolute neutrophil counts (ANC) nadir correlates with the systemic exposure to pemetrexed and supplementation with folic acid and vitamin B12.
 There is no cumulative effect of pemetrexed exposure on ANC nadir over multiple treatment cycles.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of pemetrexed were evaluated in patients with cancer at doses ranging from 0.2 to 838 mg/m2 [0.0004 to 1.7 times the recommended dosage] infused over a 10-minutes.
+The pharmacokinetics of pemetrexed when pemetrexed was administered as a single agent in doses ranging from 0.2 to 838 mg/m2 [0.0004 to 1.7 times the recommended dosage] infused over a 10-minute period have been evaluated in 426 cancer patients with a variety of solid tumors.
 Pemetrexed total systemic exposure (AUC) and maximum plasma concentration (Cmax) increased proportionally with increase of dose.
 The pharmacokinetics of pemetrexed did not change over multiple treatment cycles.
 
 Distribution
 
 Pemetrexed has a steady-state volume of distribution of 16.1 liters.
-In vitro pemetrexed is 81% bound to plasma proteins.
+In vitro studies indicated that pemetrexed is 81% bound to plasma proteins.
 
 Elimination
 
@@ -56,7 +58,7 @@ Patients with Renal Impairment
 
 Pharmacokinetic analyses of pemetrexed included 127 patients with impaired renal function.
 Plasma clearance of pemetrexed decreases as renal function decreases, with a resultant increase in systemic exposure.
-Patients with creatinine clearances of 45, 50, and 80 mL/min had 65%, 54%, and 13% increases, respectively in systemic exposure (AUC) compared to patients with creatinine clearance of 100 mL/min [see Dosage and Administration (2.2) and Warnings and Precautions (5.2)].
+Patients with creatinine clearances of 45, 50, and 80 mL/min had 65%, 54%, and 13% increases, respectively in systemic exposure (AUC) compared to patients with creatinine clearance of 100 mL/min [see Dosage and Administration (2.3) and Warnings and Precautions (5.2)].
 
 Third-Space Fluid
 
@@ -81,6 +83,10 @@ In vitro, ibuprofen and other NSAIDs (naproxen, diclofenac, celecoxib) are not i
 Aspirin
 
 Aspirin, administered in low to moderate doses (325 mg every 6 hours), does not affect the pharmacokinetics of pemetrexed.
+
+Cisplatin
+
+Cisplatin does not affect the pharmacokinetics of pemetrexed and the pharmacokinetics of total platinum are unaltered by pemetrexed.
 
 Vitamins
 
