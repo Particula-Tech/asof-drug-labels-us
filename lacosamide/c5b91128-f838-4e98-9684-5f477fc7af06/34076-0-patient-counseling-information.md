@@ -18,8 +18,10 @@ Pregnancy Registry Advise patients to notify their healthcare provider if they b
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
 
+Lactation Advise breastfeeding women using lacosamide tablets to monitor infants for excess sleepiness and to seek medical care if they notice this sign [see Use in Specific Populations (8.2)].
+
 Manufactured for:
 
 Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: Annora Pharma Pvt.
 Ltd. Sangareddy - 502313, Telangana, India.
-Revised: 06/2022
+Revised: 12/2022

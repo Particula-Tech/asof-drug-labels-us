@@ -51,7 +51,7 @@ Hepatic Impairment Lacosamide undergoes metabolism.
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50 to 60% higher AUC compared to healthy subjects).
 The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.4)].
 
-Pediatric Patients (4 to less than 17 Years of Age) The pediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 pediatric patients with epilepsy aged 4 years to less than 17 years who received oral solution or oral tablet formulations.
+Pediatric Patients (4 to less than 17 Years of Age) The pediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 pediatric patients with epilepsy aged 4 years to less than 17 years who received oral solution, or oral tablet formulations.
 A weight based dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 4 years to less than 17 years of age similar to those observed in adults treated at effective doses of lacosamide [see Dosage and Administration (2.1)].
 For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t 1/2) is 7.4 hours, 10.6 hours, and 14.8 hours, respectively.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.

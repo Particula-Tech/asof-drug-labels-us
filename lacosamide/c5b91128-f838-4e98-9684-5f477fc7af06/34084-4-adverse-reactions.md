@@ -2,11 +2,12 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-• Suicidal Behavior and Ideation [see Warnings and Precautions (5.1)] • Dizziness and Ataxia [see Warnings and Precautions (5.2)] • Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.3)] • Syncope [see Warnings and Precautions (5.4)] • Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reaction s [see Warnings and Precautions (5.6)]
+• Suicidal Behavior and Ideation [see Warnings and Precautions (5.1)] • Dizziness and Ataxia [see Warnings and Precautions (5.2)] • Cardiac Rhythm and Conduction Abnormalities [see Warnings and Precautions (5.3)] • Syncope [see Warnings and Precautions (5.4)] • Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 Lacosamide Tablet in Adults In the premarketing development of adjunctive therapy for partial-onset seizures, 1327 adult patients received lacosamide tablets in controlled and uncontrolled trials, of whom 1000 were treated for longer than 6 months, and 852 for longer than 12 months.
 The monotherapy development program for partial-onset seizures included 425 adult patients, 310 of whom were treated for longer than 6 months, and 254 for longer than 12 months.
 Partial-Onset Seizures Monotherapy Historical-Control Trial (Study 1) In the monotherapy trial for partial-onset seizures, 16% of patients randomized to receive lacosamide at the recommended doses of 300 and 400 mg/day discontinued from the trial as a result of an adverse reaction.

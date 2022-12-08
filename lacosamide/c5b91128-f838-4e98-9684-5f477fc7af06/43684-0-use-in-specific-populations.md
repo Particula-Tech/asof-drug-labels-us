@@ -7,12 +7,13 @@ Pregnancy Exposure Registry
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as lacosamide, during pregnancy.
 Encourage women who are taking lacosamide during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
-Risk Summary There are no adequate data on the developmental risks associated with the use of lacosamide in pregnant women.
+Risk Summary Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with lacosamide use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
 Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
 Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy.
 These effects were observed at doses associated with clinically relevant plasma exposures (see Data).
-In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 Data Animal Data Oral administration of lacosamide to pregnant rats (20, 75, or 200 mg/kg/day) and rabbits (6.25, 12.5, or 25 mg/kg/day) during the period of organogenesis did not produce any effects on the incidences of fetal structural abnormalities.
 However, the maximum doses evaluated were limited by maternal toxicity in both species and embryofetal death in rats.
 These doses were associated with maternal plasma lacosamide exposures (AUC) approximately 2 and 1 times (rat and rabbit, respectively) that in humans at the maximum recommended human dose (MRHD) of 400 mg/day.
@@ -26,9 +27,12 @@ Potential adverse effects on CNS development related to this activity cannot be 
 
 ## 8.2 Lactation
 
-Risk Summary There are no data on the presence of lacosamide in human milk, the effects on the breastfed infant, or the effects on milk production.
-Studies in lactating rats have shown excretion of lacosamide and/or its metabolites in milk.
+Risk Summary Data from published literature indicate that lacosamide is present in human milk.
+There are reports of increased sleepiness in breastfed infants exposed to lacosamide (see Clinical Considerations).
+There is no information on the effects of lacosamide on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for lacosamide and any potential adverse effects on the breastfed infant from lacosamide or from the underlying maternal condition.
+
+Clinical Considerations Monitor infants exposed to lacosamide through breastmilk for excess sedation.
 
 ## 8.4 Pediatric Use
 
