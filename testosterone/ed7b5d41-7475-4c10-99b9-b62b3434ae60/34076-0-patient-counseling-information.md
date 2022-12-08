@@ -1,8 +1,6 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE)
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-
-Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE)
 
 - Inform patients that JATENZO can increase BP that can increase the risk for MACE, including myocardial infarction, stroke, and cardiovascular death.
 - Instruct patients about the importance of monitoring BP periodically while on JATENZO.
