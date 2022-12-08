@@ -11,23 +11,17 @@ In addition, two studies on PYLERA were conducted to determine the effect of co-
 
 Bismuth Subcitrate Potassium (Bismuth)
 
-Absorption and Distribution
-
-Orally absorbed bismuth is distributed throughout the entire body.
+Absorption and Distribution Orally absorbed bismuth is distributed throughout the entire body.
 Bismuth is highly bound to plasma proteins (>90%).
 
-Metabolism and Excretion
-
-The elimination half-life of bismuth is approximately 5 days in both blood and urine.
+Metabolism and Excretion The elimination half-life of bismuth is approximately 5 days in both blood and urine.
 Elimination of bismuth is primarily through urinary and biliary routes.
 The rate of renal elimination appears to reach steady state 2 weeks after treatment discontinuation with similar rates of elimination at 6 weeks after discontinuation.
 The average urinary elimination of bismuth is 2.6% per day in the first two weeks after discontinuation (urine drug concentrations 24 to 250 mcg/mL) suggesting tissue accumulation and slow elimination.
 
 Metronidazole
 
-Absorption and Distribution
-
-Following oral administration, metronidazole is well absorbed, with peak plasma concentrations occurring between 1 and 2 hours after administration.
+Absorption and Distribution Following oral administration, metronidazole is well absorbed, with peak plasma concentrations occurring between 1 and 2 hours after administration.
 Plasma concentrations of metronidazole are proportional to the administered dose, with oral administration of 500 mg producing a peak plasma concentration of 12 mcg/mL.
 
 Metronidazole appears in the plasma mainly as unchanged compound with lesser quantities of the 2-hydroxymethyl metabolite also present.
@@ -44,11 +38,7 @@ Renal clearance of metronidazole is approximately 10 mL/min/1.73m2.
 Decreased renal function does not alter the single dose pharmacokinetics of metronidazole.
 In patients with decreased liver function, plasma clearance of metronidazole is decreased.
 
-Tetracycline Hydrochloride
-
-Absorption, Distribution, Metabolism and Excretion
-
-Tetracycline hydrochloride is absorbed (60%-90%) in the stomach and upper small intestine.
+Tetracycline Hydrochloride Absorption, Distribution, Metabolism and Excretion Tetracycline hydrochloride is absorbed (60%-90%) in the stomach and upper small intestine.
 The presence of food, milk or cations may significantly decrease the extent of absorption.
 In the plasma, tetracycline is bound to plasma proteins in varying degrees.
 It is concentrated by the liver in the bile and excreted in the urine and feces at high concentrations in biologically active form.
@@ -58,9 +48,7 @@ It is distributed into the bile and undergoes varying degrees of enterohepatic r
 Tetracycline hydrochloride tends to localize in tumors, necrotic or ischemic tissue, liver and spleen and form tetracycline-calcium orthophosphate complexes at sites of new bone formation or tooth development.
 Tetracycline readily crosses the placenta and is excreted in high amounts in breast milk.
 
-PYLERA Capsules
-
-A comparative bioavailability study of metronidazole (375 mg), tetracycline hydrochloride (375 mg) and bismuth subcitrate potassium (420 mg, equivalent to 120 mg Bi2O3) administered as PYLERA or as 3 separate capsule formulations administered simultaneously was conducted in healthy male volunteers.
+PYLERA Capsules A comparative bioavailability study of metronidazole (375 mg), tetracycline hydrochloride (375 mg) and bismuth subcitrate potassium (420 mg, equivalent to 120 mg Bi2O3) administered as PYLERA or as 3 separate capsule formulations administered simultaneously was conducted in healthy male volunteers.
 The pharmacokinetic parameters for the individual drugs, when administered as separate capsule formulations or as PYLERA, are similar as shown in Table 3.
 
 Table 3: Mean (%CV) Pharmacokinetic Parameters for Metronidazole, Tetracycline hydrochloride, and Bismuth Subcitrate Potassium in Healthy Volunteers (N=18)
@@ -74,18 +62,12 @@ Table 3: Mean (%CV) Pharmacokinetic Parameters for Metronidazole, Tetracycline h
 | Bismuth | Bismuth Capsule | 22 (123) | 47 (129) | 65.4 (113) |
 |  | PYLERA* | 17 (202) | 43 (191) | 57 (178) |
 
-*PYLERA given as a single dose of 3 capsules
+*PYLERA given as a single dose of 3 capsules **C.V. – Coefficient Variation
 
-**C.V. – Coefficient Variation
-
-Effect of Bismuth on the Bioavailability of Tetracycline Hydrochloride
-
-There is an anticipated reduction in tetracycline hydrochloride systemic absorption due to an interaction with bismuth.
+Effect of Bismuth on the Bioavailability of Tetracycline Hydrochloride There is an anticipated reduction in tetracycline hydrochloride systemic absorption due to an interaction with bismuth.
 The effect of a reduced tetracycline hydrochloride systemic exposure, due to an interaction with bismuth, on the clinical efficacy of PYLERA is not thought to be clinically meaningful as the contribution of systemic, as compared to local, antimicrobial activity against Helicobacter pylori has not been established.
 
-Effect of Food on the Bioavailability of PYLERA
-
-The pharmacokinetic parameters for metronidazole, tetracycline hydrochloride and bismuth were also determined when PYLERA was administered under fasting and fed conditions, as shown in Table 4.
+Effect of Food on the Bioavailability of PYLERA The pharmacokinetic parameters for metronidazole, tetracycline hydrochloride and bismuth were also determined when PYLERA was administered under fasting and fed conditions, as shown in Table 4.
 Food reduced the systemic absorption of all three PYLERA components, with AUC values for metronidazole, tetracycline hydrochloride and bismuth being reduced by 6%, 34% and 60%, respectively.
 Reduction in the absorption of all three PYLERA components in the presence of food is not considered to be clinically significant.
 PYLERA should be given after meals and at bedtime, in combination with omeprazole twice a day.
@@ -103,9 +85,7 @@ Table 4: Mean PYLERA Pharmacokinetic Parameters in Fasted and Fed States (N=18)*
 
 **Tmax is expressed as median (range)
 
-Effect of Omeprazole on the Bioavailability of Bismuth
-
-The effect of omeprazole on bismuth absorption was assessed in 34 healthy volunteers given PYLERA (four times daily) with or without omeprazole (20 mg twice daily) for 6 days.
+Effect of Omeprazole on the Bioavailability of Bismuth The effect of omeprazole on bismuth absorption was assessed in 34 healthy volunteers given PYLERA (four times daily) with or without omeprazole (20 mg twice daily) for 6 days.
 In the presence of omeprazole, the extent of absorption of bismuth from PYLERA was significantly increased, compared to when no omeprazole was given (Table 5).
 Concentration-dependent neurotoxicity is associated with long-term use of bismuth and not likely to occur with short-term administration or at steady state concentrations below 50 ng/mL.
 One subject transiently achieved a maximum bismuth concentration (Cmax) higher than 50 ng/mL (73 ng/mL) following multiple dosing of PYLERA with omeprazole.
@@ -126,19 +106,13 @@ Table 5: Mean Bismuth Pharmacokinetic Parameters following PYLERA Administration
 
 ## 12.4 Microbiology
 
-Mechanism of Action
-
-PYLERA is a combination of antibacterial agents (metronidazole and tetracycline hydrochloride) and bismuth subcitrate potassium.
+Mechanism of Action PYLERA is a combination of antibacterial agents (metronidazole and tetracycline hydrochloride) and bismuth subcitrate potassium.
 Tetracycline hydrochloride interacts with the 30S subunit of the bacterial ribosome and inhibits protein synthesis.
 Metronidazole’s antibacterial mechanism of action in an anaerobic environment is not fully understood but a possible mechanism includes reduction by intracellular electron transport proteins after entry into the organism.
 Because of this alteration to the metronidazole molecule, a concentration gradient is created and maintained which promotes the drug’s intracellular transport.
 Presumably, free radicals are formed which, in turn, react with cellular components resulting in death of bacteria.
 The antibacterial action of bismuth salts is not well understood.
 
-Antimicrobial Activity
+Antimicrobial Activity PYLERA plus omeprazole therapy has been shown to be active against most isolates of Helicobacter pylori both in vitro and in clinical infections [see Clinical Studies (14)].
 
-PYLERA plus omeprazole therapy has been shown to be active against most isolates of Helicobacter pylori both in vitro and in clinical infections [see Clinical Studies (14)].
-
-Susceptibility Testing
-
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

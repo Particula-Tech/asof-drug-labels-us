@@ -102,31 +102,21 @@ Discontinue treatment at the first evidence of a cutaneous reaction [see Adverse
 
 ## 5.14 Drug Interactions
 
-Oral Contraceptives
-
-Concurrent use of PYLERA with oral contraceptive may make oral contraceptives less effective due to an interaction with the tetracycline component of PYLERA.
+Oral Contraceptives Concurrent use of PYLERA with oral contraceptive may make oral contraceptives less effective due to an interaction with the tetracycline component of PYLERA.
 Breakthrough bleeding has been reported.
 Advise women of child-bearing potential to use a different or additional form of contraception while taking PYLERA [see Drug Interactions (7.4)].
 
-Anticoagulants
-
-PYLERA may alter the anticoagulant effects of warfarin and other oral coumarin anticoagulants.
+Anticoagulants PYLERA may alter the anticoagulant effects of warfarin and other oral coumarin anticoagulants.
 Metronidazole has been reported to potentiate the anticoagulant effect of warfarin, and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time.
 Tetracycline has been shown to depress plasma prothrombin activity.
 Closely monitor prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests if PYLERA is administered concomitantly with warfarin.
 Patients should also be monitored for evidence of bleeding [see Drug Interactions (7.5)].
 
-Lithium
-
-In patients stabilized on relatively high doses of lithium, short-term use of PYLERA may cause elevation of serum lithium concentrations and signs of lithium toxicity due to the interaction between metronidazole and lithium.
+Lithium In patients stabilized on relatively high doses of lithium, short-term use of PYLERA may cause elevation of serum lithium concentrations and signs of lithium toxicity due to the interaction between metronidazole and lithium.
 Monitor serum lithium and serum creatinine concentrations daily for several days after beginning treatment with PYLERA to detect any increase that may precede clinical symptoms of lithium toxicity [see Drug Interactions (7.6)].
 
-Busulfan
-
-Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity.
+Busulfan Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity.
 Do not administer PYLERA concomitantly with busulfan unless the benefit outweighs the risk.
 If no therapeutic alternatives to PYLERA are available, and concomitant administration with busulfan is medically needed, monitor for busulfan toxicity and busulfan plasma concentrations and adjust the busulfan dose accordingly [see Drug Interactions (7.8)].
 
-Drugs that Prolong the QT interval
-
-QT prolongation has been reported with metronidazole, a component of PYLERA, particularly when administered with drugs with the potential for prolonging the QT interval.
+Drugs that Prolong the QT interval QT prolongation has been reported with metronidazole, a component of PYLERA, particularly when administered with drugs with the potential for prolonging the QT interval.

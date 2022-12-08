@@ -4,14 +4,10 @@
 
 No long-term studies have been performed to evaluate the effect of PYLERA on carcinogenesis, mutagenesis, or impairment of fertility.
 
-Bismuth Subcitrate Potassium
-
-No carcinogenicity or reproductive toxicity studies have been conducted with bismuth subcitrate potassium.
+Bismuth Subcitrate Potassium No carcinogenicity or reproductive toxicity studies have been conducted with bismuth subcitrate potassium.
 Bismuth subsalicylate did not show mutagenic potential in the NTP Salmonella plate assay.
 
-Metronidazole
-
-Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic, oral administration in mice and rats.
+Metronidazole Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic, oral administration in mice and rats.
 Prominent among the effects in the mouse was an increased incidence of pulmonary tumorigenesis.
 This has been observed in all six reported studies in that species, including one study in which the animals were dosed on an intermittent schedule (administration during every fourth week only).
 At the highest dose levels, (approximately 500 mg/kg/day, which is approximately 1.6 times the indicated human dose for a 60 kg adult based on body surface area) there was a statistically significant increase in the incidence of malignant liver tumors in male mice.
@@ -42,9 +38,7 @@ Two lifetime tumorigenicity studies in hamsters have been performed and reported
 Metronidazole has shown mutagenic activity in in vitro assay systems including the Ames test.
 Studies in mammals in vivo have failed to demonstrate a potential for genetic damage.
 
-Tetracycline hydrochloride
-
-There has been no evidence of carcinogenicity for tetracycline hydrochloride in studies conducted with rats and mice.
+Tetracycline hydrochloride There has been no evidence of carcinogenicity for tetracycline hydrochloride in studies conducted with rats and mice.
 Some related antibiotics (oxytetracycline, minocycline) have shown evidence of oncogenic activity in rats.
 
 There was evidence of mutagenicity by tetracycline hydrochloride in two in vitro mammalian cell assay systems (L51784y mouse lymphoma and Chinese hamster lung cells).

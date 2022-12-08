@@ -4,7 +4,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 58914-601-21
 
-Pylera Capsules
+PYLERA CAPSULES
 
 (bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) Rx Only
 
@@ -18,9 +18,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 58914-601-21
 
-Pylera Capsules
-
-(bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) Rx Only
+PYLERA CAPSULES (bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) Rx Only
 
 Combination therapy indicated for the eradication of Helicobacter pylori
 
@@ -28,9 +26,9 @@ Daily Dosing Dispenser included
 
 PRINCIPAL DISPLAY PANEL NDC 58914-601-20
 
-120 Capsules in 10 blister cards Each card contains 4 blisters Each blister contains 3 capsules Pylera Capsules
+120 Capsules in 10 blister cards Each card contains 4 blisters Each blister contains 3 capsules PYLERA CAPSULES
 
-(bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) 10-Day Therapy Pak Rx Only
+(bismuth subcitrate potassium 140 mg, metronidazole 125 mg, tetracycline HCl 125 mg) 10-Day Therapy PAK Rx only
 
 Combination therapy indicated for the eradication of Helicobacter pylori
 

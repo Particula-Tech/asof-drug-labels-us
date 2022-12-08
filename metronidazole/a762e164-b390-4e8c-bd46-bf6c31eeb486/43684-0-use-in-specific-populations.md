@@ -2,9 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
-
-PYLERA is contraindicated in women who are pregnant because treatment of Helicobacter pylori infection can be delayed in pregnant women, and the use of drugs of the tetracycline class during the second and third trimester pregnancy can also cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [see Warnings and Precautions (5.2) and Data].
+Risk Summary PYLERA is contraindicated in women who are pregnant because treatment of Helicobacter pylori infection can be delayed in pregnant women, and the use of drugs of the tetracycline class during the second and third trimester pregnancy can also cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [see Warnings and Precautions (5.2) and Data].
 Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in the newborn animals.
 There are maternal risks with high intravenous doses of tetracycline [see Clinical Considerations].
 
@@ -13,20 +11,14 @@ In animals, no fetotoxicity was observed when metronidazole was orally administe
 There are no human or animal data on the use of bismuth subcitrate potassium during pregnancy.
 Although there are data on the separate components, there are no available data on the use of PYLERA in pregnant women.
 
-Clinical Considerations
-
-Maternal Adverse Reactions
-
-Tetracycline administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity.
+Clinical Considerations Maternal Adverse Reactions Tetracycline administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity.
 This syndrome may result in stillborn or premature birth due to maternal pathology [see Warnings and Precautions (5.3)].
 
 Data
 
 Human Data
 
-Tetracycline
-
-Published case reports have described the yellowing of bones and teeth in human infants exposed to tetracycline during the second and third trimester of pregnancy.
+Tetracycline Published case reports have described the yellowing of bones and teeth in human infants exposed to tetracycline during the second and third trimester of pregnancy.
 The yellowing is caused by the direct deposition of tetracycline during the mineralization process.
 This discoloration is more common during long-term use of the drug but has also been observed following repeated short-term courses.
 All tetracyclines form a stable calcium complex in any bone forming tissue.
@@ -34,18 +26,14 @@ A decrease in fibula growth rate was observed in premature infants given oral te
 The effect resolved when the drug was discontinued.
 One long-term follow-up study in children exposed to tetracycline in-utero showed no adverse effects on bone growth and development.
 
-Metronidazole
-
-There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
+Metronidazole There are published data from case-control studies, cohort studies, and 2 meta-analyses that include more than 5000 pregnant women who used metronidazole during pregnancy.
 Many studies included first trimester exposures.
 One study showed an increased risk of cleft lip, with or without cleft palate, in infants exposed to metronidazole in-utero; however, these findings were not confirmed.
 In addition, more than ten randomized, placebo-controlled clinical trials enrolled more than 5000 pregnant women to assess the use of antibiotic treatment (including metronidazole) for bacterial vaginosis on the incidence of preterm delivery.
 Most studies did not show an increased risk for congenital anomalies or other adverse fetal outcomes following metronidazole exposure during pregnancy.
 Three studies conducted to assess the risk of infant cancer following metronidazole exposure during pregnancy did not show an increased risk; however, the ability of these studies to detect such a signal was limited.
 
-Bismuth subcitrate potassium
-
-There are no human data on the use of bismuth subcitrate potassium during pregnancy.
+Bismuth subcitrate potassium There are no human data on the use of bismuth subcitrate potassium during pregnancy.
 
 Animal Data
 
@@ -61,9 +49,7 @@ Metronidazole crosses the placental barrier.
 No fetotoxicity was observed when metronidazole was administered orally to pregnant mice at 10 mg/kg/day, approximately 5 percent of the indicated human dose (1500 mg/day) based on body surface area; however in a single small study where the drug was administered intraperitoneally, some intrauterine deaths were observed.
 The relationship of these findings to the drug is unknown.
 
-Bismuth subcitrate potassium
-
-Animal reproductive studies have not been conducted with bismuth subcitrate potassium.
+Bismuth subcitrate potassium Animal reproductive studies have not been conducted with bismuth subcitrate potassium.
 
 ## 8.2 Lactation
 
