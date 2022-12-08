@@ -44,22 +44,6 @@ Call a healthcare provider right away if you have any of the following symptoms,
 - An extreme increase in activity and talking (mania)
 - Other unusual changes in behavior or mood
 
-Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
-- Thoughts about suicide or dying
-- Attempts to commit suicide
-- New or worse depression
-- New or worse anxiety
-- Feeling very agitated or restless
-- Panic attacks
-- Trouble sleeping (insomnia)
-- New or worse irritability
-- Acting aggressive, being angry or violent
-- Acting on dangerous impulses
-- An extreme increase in activity and talking (mania)
-- Other unusual changes in behavior or mood
-
 What else do I need to know about antidepressant medicines?
 
 - Never stop an antidepressant medicine without first talking to a healthcare provider.
@@ -213,12 +197,12 @@ Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
 
-For:
+Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
 For more information, go to www.torrentpharma.com or call 1-800-FDA-1088
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-8082845 Revised: July 2021
+8090150 Revised: October 2022

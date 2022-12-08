@@ -15,7 +15,7 @@ Table 3: Clinically Important Drug Interactions with Trazodone Hydrochloride Tab
 | Examples: | triptans, antidepressants (tricyclic and serotonin uptake inhibitors), fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort |
 | Antiplatelet Agents and Anticoagulants |  |
 | Clinical Impact: | Serotonin release by platelets plays an important role in hemostasis. The concurrent use of an antiplatelet agent or anticoagulant with trazodone may potentiate the risk of bleeding. |
-| Intervention: | Inform patients of the increased risk of bleeding with the concomitant use of trazodone and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio (INR) when initiating or discontinuing trazodone [see Warningsand Precautions (5.5)]. |
+| Intervention: | Inform patients of the increased risk of bleeding with the concomitant use of trazodone and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio (INR) when initiating or discontinuing trazodone [see Warnings and Precautions (5.5)]. |
 | Examples: | warfarin, rivaroxaban, dabigatran, clopidogrel |
 | Strong CYP3A4 Inhibitors |  |
 | Clinical Impact: | The concomitant use of trazodone and strong CYP3A4 inhibitors increased the exposure of trazodone compared to the use of trazodone alone. |

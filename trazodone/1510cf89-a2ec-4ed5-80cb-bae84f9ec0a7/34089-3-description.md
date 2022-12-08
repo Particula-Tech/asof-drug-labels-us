@@ -5,7 +5,7 @@ Trazodone hydrochloride is a triazolopyridine derivative designated as 2-[3-[4-(
 It is a white odorless crystalline powder which is freely soluble in water.
 The structural formula is represented as follows:
 
-Molecular Formula: C 19H 22ClN 5O · HCl
+Molecular Formula: C19H22ClN5O · HCl
 
 Molecular Weight: 408.33
 
