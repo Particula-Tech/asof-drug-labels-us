@@ -27,9 +27,9 @@ Patients randomized to PROGRAF/MMF were more likely to develop diarrhea and diab
 Table 20.
 Estimated Creatinine Clearance at 12 Months (Study 1)
 
-| Group | eCLcr [mL/min] at Month 12All death/graft loss (n = 41, 27, 23, and 42 in Groups A, B, C, and D) and patients whose last recorded creatinine values were prior to month 3 visit (n = 10, 9, 7, and 9 in Groups A, B, C, and D, respectively) were imputed with Glomerular Filtration Rate (GFR) of 10 mL/min; a subject's last observed creatinine value from month 3 on was used for the remainder of subjects with missing creatinine at month 12 (n = 11, 12, 15, and 19 for Groups A, B, C, and D, respectively). Weight was also imputed in the calculation of estimated GFR, if missing. |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | N | MEAN | SD | MEDIAN | Treatment Difference with Group C (99.2% CIAdjusted for multiple (6) pairwise comparisons using Bonferroni corrections.) |  |
+| --- | --- | --- | --- | --- | --- |
+| Group | eCLcr [mL/min] at Month 12All death/graft loss (n = 41, 27, 23, and 42 in Groups A, B, C, and D) and patients whose last recorded creatinine values were prior to month 3 visit (n = 10, 9, 7, and 9 in Groups A, B, C, and D, respectively) were imputed with Glomerular Filtration Rate (GFR) of 10 mL/min; a subject's last observed creatinine value from month 3 on was used for the remainder of subjects with missing creatinine at month 12 (n = 11, 12, 15, and 19 for Groups A, B, C, and D, respectively). Weight was also imputed in the calculation of estimated GFR, if missing. |  |  |  |  |
 | (A) CsA/MMF/CS | 390 | 56.5 | 25.8 | 56.9 | -8.6 (-13.7, -3.7) |
 | (B) CsA/MMF/CS/Daclizumab | 399 | 58.9 | 25.6 | 60.9 | -6.2 (-11.2, -1.2) |
 | (C) Tac/MMF/CS/Daclizumab | 401 | 65.1 | 27.4 | 66.2 | - |
@@ -40,7 +40,7 @@ Estimated Creatinine Clearance at 12 Months (Study 1)
 Table 21.
 Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 1)
 
-|  | Group AN = 390 | Group BN = 399 | Group CN = 401 | Group DN = 399 |
+|  | Group A N = 390 | Group B N = 399 | Group C N = 401 | Group D N = 399 |
 | --- | --- | --- | --- | --- |
 | Overall Failure | 141 (36.2%) | 126 (31.6%) | 82 (20.4%) | 185 (46.4%) |
 | Components of efficacy failure |  |  |  |  |
@@ -57,7 +57,7 @@ Approximately 80% of patients maintained tacrolimus whole blood concentrations b
 Table 22.
 Tacrolimus Whole Blood Trough Concentration Range (Study 1)
 
-| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac.) tacrolimus whole blood trough concentration range(ng/mL) |
+| Time | Median (P10-P9010 to 90th Percentile: range of Ctrough,Tac that excludes lowest 10% and highest 10% of Ctrough,Tac) tacrolimus whole blood trough concentration range (ng/mL) |
 | --- | --- |
 | Day 30 (N = 366) | 6.9 (4.4 – 11.3) |
 | Day 90 (N = 351) | 6.8 (4.1 – 10.7) |
@@ -73,9 +73,9 @@ By comparison, the MMF dose was reduced to less than 2 g per day in 49% and 45% 
 Table 23.
 MMF Dose Over Time in PROGRAF/MMF (Group C) (Study 1)
 
-| Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Administration of 2 g per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
-| --- | --- | --- | --- |
 | Less than 2.0 | 2.0 | Greater than 2.0 |  |
+| --- | --- | --- | --- |
+| Time period (Days) | Time-averaged MMF dose (grams per day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Administration of 2 g per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | 0-30 (N = 364) | 37% | 60% | 2% |
 | 0-90 (N = 373) | 47% | 51% | 2% |
 | 0-180 (N = 377) | 56% | 42% | 2% |
@@ -89,9 +89,9 @@ There was, however, an imbalance in mortality at 12 months in those patients rec
 Table 24.
 Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 2)
 
-|  | PROGRAF/MMF | Cyclosporine/MMF |
-| --- | --- | --- |
 |  | (N = 212) | (N = 212) |
+| --- | --- | --- |
+|  | PROGRAF/MMF | Cyclosporine/MMF |
 | Overall Failure | 32 (15.1%) | 36 (17.0%) |
 | Components of efficacy failure |  |  |
 | BPAR | 16 (7.5%) | 29 (13.7%) |
@@ -125,9 +125,9 @@ Approximately 63% and 55% of these MMF dose reductions were because of adverse r
 Table 26.
 MMF Dose Over Time in the PROGRAF/MMF Group (Study 2)
 
-| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that the MMF dose was not reduced in those patients during the treatment periods. |  |  |
-| --- | --- | --- | --- |
 | Less than 2.0 | 2.0 | Greater than 2.0 |  |
+| --- | --- | --- | --- |
+| Time period (Days) | Time-averaged MMF dose (g/day)Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that the MMF dose was not reduced in those patients during the treatment periods. |  |  |
 | 0-30 (N = 212) | 25% | 69% | 6% |
 | 0-90 (N = 212) | 41% | 53% | 6% |
 | 0-180 (N = 212) | 52% | 41% | 7% |
@@ -173,7 +173,7 @@ At 12 months, the incidence rate of BPAR, graft loss, death, or loss to follow-u
 Table 27.
 Key Efficacy Results at 12 Months in Pediatric Liver Transplant Recipients Receiving PROGRAF Granules or Cyclosporine
 
-|  | PROGRAF Granules(N = 91) | Cyclosporine(N = 90) |
+|  | PROGRAF Granules (N = 91) | Cyclosporine (N = 90) |
 | --- | --- | --- |
 | Overall Failure | 48 (52.7%) | 55 (61.1%) |
 | Components of efficacy failure |  |  |

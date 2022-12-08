@@ -7,7 +7,6 @@
 | Shape/color | oblong/light yellow | oblong/white | oblong/grayish red |
 | Branding on capsule cap/body | 607 | 617 | 657 |
 | 100 count bottle | NDC 0469-0607-73 | NDC 0469-0617-73 | NDC 0469-0657-73 |
-| 10 blister cards of 10 capsules |  | NDC 0469-0617-11 | NDC 0469-0657-11 |
 
 Note: PROGRAF capsules USP are not filled to maximum capsule capacity.
 Capsule contains labeled amount.

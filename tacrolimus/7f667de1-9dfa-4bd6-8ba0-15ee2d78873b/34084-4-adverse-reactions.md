@@ -12,6 +12,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - •Anaphylactic Reactions with PROGRAF Injection [see Warnings and Precautions (5.9)]
 - •Myocardial Hypertrophy [see Warnings and Precautions (5.13)]
 - •Pure Red Cell Aplasia [see Warnings and Precautions (5.15)]
+- •Thrombotic Microangiopathy, Including Hemolytic Uremic Syndrome and Thrombotic Thrombocytopenic Purpura [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -113,9 +114,10 @@ Adverse reactions that occurred in ≥ 15% of kidney transplant patients treated
 Table 6.
 Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treated with PROGRAF in Conjunction with MMF (Study 2)
 
-| Gastrointestinal Disorders |  |  |
+|  | (N = 212) | (N = 212) |
 | --- | --- | --- |
-|  | PROGRAF/MMF (N = 212) | Cyclosporine/MMF (N = 212) |
+|  | PROGRAF/MMF | Cyclosporine/MMF |
+| Gastrointestinal Disorders |  |  |
 | Diarrhea | 44% | 26% |
 | Nausea | 39% | 47% |
 | Constipation | 36% | 41% |
@@ -310,9 +312,9 @@ In a trial in kidney transplant patients (Study 2), NODAT was observed in 75% in
 Table 10.
 Incidence of New Onset Diabetes After Transplant at 1 year in Kidney Transplant Recipients in a Phase 3 Trial (Study 2)
 
-| Parameter | Treatment Group |  |
+| PROGRAF/MMF (N = 212) | NEORAL/MMF (N = 212) |  |
 | --- | --- | --- |
-| PROGRAF/MMF(N = 212) | NEORAL/MMF(N = 212) |  |
+| Parameter | Treatment Group |  |
 | NODAT | 112/150 (75%) | 93/152 (61%) |
 | Fasting Plasma Glucose ≥ 126 mg/dL | 96/150 (64%) | 80/152 (53%) |
 | HbA1C ≥ 6% | 59/150 (39%) | 28/152 (18%) |
@@ -340,9 +342,9 @@ Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 2 Years in Kid
 Table 12.
 Development of Post-Transplant Diabetes Mellitus by Race or Ethnicity and by Treatment Group During First Year Post Kidney Transplantation in a Phase 3 Trial
 
-| Patient Race | Patients Who Developed PTDMUse of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
-| --- | --- | --- |
 | PROGRAF | Cyclosporine |  |
+| --- | --- | --- |
+| Patient Race | Patients Who Developed PTDMUse of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. |  |
 | African-American | 15/41 (37%) | 3 (8%) |
 | Hispanic | 5/17 (29%) | 1 (6%) |
 | Caucasian | 10/82 (12%) | 1 (1%) |
@@ -357,9 +359,9 @@ Hyperglycemia was associated with the use of PROGRAF in 47% and 33% of liver tra
 Table 13.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
 
-| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
-| --- | --- | --- | --- | --- |
 | PROGRAF | Cyclosporine | PROGRAF | Cyclosporine |  |
+| --- | --- | --- | --- | --- |
+| Status of PTDMUse of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | Patients at riskPatients without pre-transplant history of diabetes mellitus. | 239 | 236 | 239 | 249 |
 | New Onset PTDM | 42 (18%) | 30 (13%) | 26 (11%) | 12 (5%) |
 | Patients still on insulin at 1 year | 23 (10%) | 19 (8%) | 18 (8%) | 6 (2%) |
@@ -372,9 +374,9 @@ Hyperglycemia, defined as two fasting plasma glucose levels ≥ 126 mg/dL, was r
 Table 14.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
 
-| Status of PTDMUse of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
-| --- | --- | --- | --- | --- |
 | PROGRAF/MMF | Cyclosporine/MMF | PROGRAF/AZA | Cyclosporine/AZA |  |
+| --- | --- | --- | --- | --- |
+| Status of PTDMUse of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. | US Trial |  | European Trial |  |
 | Patients at riskPatients without pre-transplant history of diabetes mellitus. | 75 | 83 | 132 | 138 |
 | New Onset PTDM | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
 | Patients still on insulin at 1 year7-12 months for the U.S. trial. | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
@@ -410,18 +412,19 @@ Other reactions include:
 
 - •Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsades de pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
 - •Gastrointestinal: Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal reflux disease, hepatic cytolysis, hepatic necrosis, hepatotoxicity, impaired gastric emptying, liver fatty, mouth ulceration, pancreatitis hemorrhagic, pancreatitis necrotizing, stomach ulcer, veno-occlusive liver disease
-- •Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia
+- •Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia, thrombotic microangiopathy
 - •Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy (PVAN) including graft loss
 - •Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
 - •Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
 - •Musculoskeletal and Connective Tissue Disorders: Pain in extremity including Calcineurin-Inhibitor Induced Pain Syndrome (CIPS)
-
 - •Nervous System: Carpal tunnel syndrome, cerebral infarction, hemiparesis, leukoencephalopathy, mental disorder, mutism, posterior reversible encephalopathy syndrome (PRES), progressive multifocal leukoencephalopathy (PML), quadriplegia, speech disorder, syncope
 - •Respiratory: Acute respiratory distress syndrome, interstitial lung disease, lung infiltration, respiratory distress, respiratory failure
 - •Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
 - •Special Senses: Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - •Urogenital: Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome
 
-Postmarketing Adverse Reactions in Lung Transplantation Based on U.S. Scientific Registry of Transplant Recipients (SRTR) data, published clinical trials, and postmarketing reports, the safety profile for lung transplant patients treated with PROGRAF is consistent with the safety profile in kidney, liver, and heart transplant patients treated with PROGRAF.
+Postmarketing Adverse Reactions in Lung Transplantation
+
+Based on U.S. Scientific Registry of Transplant Recipients (SRTR) data, published clinical trials, and postmarketing reports, the safety profile for lung transplant patients treated with PROGRAF is consistent with the safety profile in kidney, liver, and heart transplant patients treated with PROGRAF.
 The primary adverse reactions described include renal dysfunction, infection, diabetes, gastrointestinal disturbances (e.g., diarrhea), hypertension, and neurological events (e.g., tremor).
 As expected, lung transplant patients have a higher incidence of pulmonary complications (e.g., pneumonia, bronchiolitis obliterans syndrome) than other solid organ transplant patients, which is in part due to the underlying disease and to the nature of the transplanted organ.

@@ -48,12 +48,19 @@ Monitoring of potassium levels may be necessary, especially with concomitant use
 Inform patients that PROGRAF can cause high blood pressure which may require treatment with antihypertensive therapy.
 Advise patients to monitor their blood pressure [see Warnings and Precautions (5.8)].
 
-## 17.9 Drug Interactions
+## 17.9 Thrombotic Microangiopathy
+
+Inform patients that PROGRAF can cause blood clotting problems.
+The risk of this occurring increases when patients take PROGRAF and sirolimus or everolimus concomitantly, or when patients develop certain infections.
+Advise them to seek medical attention promptly if they develop fever, petequiae or bruises, fatigue, confusion, jaundice, oliguria.
+[see Warnings and Precautions (5.16)]
+
+## 17.10 Drug Interactions
 
 Instruct patients to tell their healthcare providers when they start or stop taking any medicines, including prescription medicines and nonprescription medicines, natural or herbal remedies, nutritional supplements, and vitamins.
 Advise patients to avoid grapefruit and grapefruit juice [see Drug Interactions (7)].
 
-## 17.10 Pregnancy, Lactation and Infertility
+## 17.11 Pregnancy, Lactation and Infertility
 
 Inform women of childbearing potential that PROGRAF can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
@@ -64,11 +71,11 @@ To enroll or register, patients can call the toll free number 1-877-955-6877 or 
 
 Based on animal studies, PROGRAF may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
-## 17.11 Myocardial Hypertrophy
+## 17.12 Myocardial Hypertrophy
 
 Inform patients to report symptoms of tiredness, swelling, and/or shortness of breath (heart failure).
 
-## 17.12 Immunizations
+## 17.13 Immunizations
 
 Inform patients that PROGRAF can interfere with the usual response to immunizations and that they should avoid live vaccines.
 [see Warnings and Precautions (5.14)].

@@ -103,4 +103,4 @@ PROGRAF® is a registered trademark of Astellas Pharma Inc.
 
 341124-PRG
 
-Revised: May 2022
+Revised: 11/2022

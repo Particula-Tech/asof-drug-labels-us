@@ -122,14 +122,14 @@ Intravenous Injection
 If a patient is unable to receive an oral formulation, the patient may be started on PROGRAF injection.
 For pediatric liver transplant patients, the intravenous dose is 0.03-0.05 mg/kg/day.
 
-## 2.4 Dosage Adjustment in Patients with Renal Impairment
+## 2.4 Dosage Modification for Patients with Renal Impairment
 
 Due to its potential for nephrotoxicity, consider dosing PROGRAF at the lower end of the therapeutic dosing range in patients who have received a liver, heart, or lung transplant, and have pre-existing renal impairment.
 Further reductions in dose below the targeted range may be required.
 
 In kidney transplant patients with post-operative oliguria, the initial dose of PROGRAF should be administered no sooner than 6 hours and within 24 hours of transplantation, but may be delayed until renal function shows evidence of recovery [see Dosage and Administration (2.2), Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 2.5 Dosage Adjustment in Patients with Hepatic Impairment
+## 2.5 Dosage Modification for Patients with Hepatic Impairment
 
 Due to the reduced clearance and prolonged half-life, patients with severe hepatic impairment (Child-Pugh ≥ 10) may require lower doses of PROGRAF.
 Close monitoring of blood concentrations is warranted.

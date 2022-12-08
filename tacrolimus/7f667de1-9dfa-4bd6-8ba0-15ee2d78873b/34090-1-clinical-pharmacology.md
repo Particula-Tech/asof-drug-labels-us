@@ -79,11 +79,11 @@ Elimination
 
 Metabolism
 
-Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
+Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A4 and CYP3A5).
 A metabolic pathway leading to the formation of 8 possible metabolites has been proposed.
 Demethylation and hydroxylation were identified as the primary mechanisms of biotransformation in vitro.
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.
-In in vitro studies, a 31-demethyl metabolite has been reported to have the same activity as tacrolimus.
+In in vitro studies, a 31‑demethyl metabolite has been reported to have the same activity as tacrolimus.
 
 Excretion
 
@@ -200,3 +200,4 @@ Frequent monitoring of whole blood concentrations and appropriate dosage adjustm
 - •Voriconazole (see complete prescribing information for VFEND): Repeat oral dose administration of voriconazole (400 mg every 12 hours for one day, then 200 mg every 12 hours for 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7.2)].
 - •Posaconazole (see complete prescribing information for Noxafil): Repeat oral administration of posaconazole (400 mg twice daily for 7 days) increased tacrolimus (0.05 mg/kg single dose) Cmax and AUC in healthy subjects by an average of 2-fold (90% CI: 2.01, 2.42) and 4.5-fold (90% CI 4.03, 5.19), respectively [see Drug Interactions (7.2)].
 - •Caspofungin (see complete prescribing information for CANCIDAS): Caspofungin reduced the blood AUC0-12 of tacrolimus by approximately 20%, peak blood concentration (Cmax) by 16%, and 12-hour blood concentration (C12hr) by 26% in healthy adult subjects when tacrolimus (2 doses of 0.1 mg/kg 12 hours apart) was administered on the 10th day of CANCIDAS 70 mg daily, as compared to results from a control period in which tacrolimus was administered alone [see Drug Interactions (7.2)].
+  The mechanism of interaction has not been confirmed.
