@@ -65,7 +65,7 @@ In such children or adults who have not had these diseases or been properly immu
 How the dose, route, and duration of corticosteroid administration affects the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If a patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see the respective package inserts for complete VZIG and IG prescribing information).
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (see the Prescribing Information for VZIG and IG).
 If chicken pox develops, treatment with antiviral agents may be considered.
 
 ICS should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.

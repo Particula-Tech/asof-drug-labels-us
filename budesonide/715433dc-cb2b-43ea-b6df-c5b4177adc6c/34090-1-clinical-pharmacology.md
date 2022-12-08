@@ -146,7 +146,7 @@ Estimated glomerular filtration rate (eGFR) varied from 31-192 mL/min representi
 Simulation of the systemic exposure (AUC0-12) in subjects with COPD with moderate renal impairment (eGFR of 45 mL/min) indicates an approximate 68% increase for glycopyrronium compared to subjects with COPD with normal renal function (eGFR of >90 mL/min).
 Renal function was found not to significantly affect exposure to budesonide or formoterol after drug clearance adjusted by age or body weight in a population pharmacokinetic analysis.
 
-### Drug Interactions
+### Drug Interaction Studies
 
 No pharmacokinetic interaction has been observed between budesonide, glycopyrrolate, and formoterol fumarate when administered in combination by the inhaled route.
 Specific drug interaction studies of BREZTRI AEROSPHERE with other co-administered drugs have not been performed.

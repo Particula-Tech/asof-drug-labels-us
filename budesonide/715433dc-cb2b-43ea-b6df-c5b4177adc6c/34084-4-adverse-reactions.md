@@ -3,7 +3,7 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling.
 
 - •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
-- •Candida albicans infection [see Warnings and Precautions (5.4)]
+- •Oropharyngeal candidiasis infection [see Warnings and Precautions (5.4)]
 - •Increased risk of pneumonia in COPD [see Warnings and Precautions (5.5)]
 - •Immunosuppression and risk of infections [see Warnings and Precautions (5.6)]
 - •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
@@ -30,7 +30,7 @@ In Trial 2, a 24-week, randomized, double-blind clinical trial, with a 28-week l
 
 The incidence of adverse reactions from the 52-week trial (Trial 1) is presented in Table 1 for subjects treated with BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg, GFF MDI 18 mcg/9.6 mcg, or BFF MDI 320 mcg/9.6 mcg.
 
-Table 1: Adverse reactions occurring at an incidence of ≥ 2% of subjects and more common in BREZTRI AEROSPHERE compared to GFF MDI and BFF MDI (Trial 1)
+Table 1: Adverse reactions occurring at an incidence of ≥ 2% of subjects and more common in BREZTRI AEROSPHERE compared to GFF MDI and/or BFF MDI (Trial 1)
 
 | Adverse Reaction | BREZTRI AEROSPHEREBREZTRI AEROSPHERE = budesonide/glycopyrrolate/formoterol fumarate 320 mcg/18 mcg/9.6 mcg; GFF MDI = glycopyrrolate/formoterol fumarate 18 mcg/9.6 mcg; BFF MDI = budesonide/formoterol fumarate 320 mcg/9.6 mcg; all treatments were administered twice daily.320 mcg/18 mcg/9.6 mcgN=2144 (%) | GFF MDI18 mcg/9.6 mcgN=2125 (%) | BFF MDI320 mcg/9.6 mcgN=2136 (%) |
 | --- | --- | --- | --- |
@@ -45,7 +45,7 @@ Table 1: Adverse reactions occurring at an incidence of ≥ 2% of subjects and m
 | Sinusitis | 56 (2.6) | 47 (2.2) | 55 (2.6) |
 | Diarrhea | 44 (2.1) | 37 (1.7) | 38 (1.8) |
 
-In 24-week data from Trial 2, adverse reactions that occurred in subjects treated with BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg (n=639) at an incidence of ≥ 2% included dysphonia (3.3%) and muscle spasms (3.3%).
+In 24-week data from Trial 2, adverse reactions that occurred in subjects treated with BREZTRI AEROSPHERE 320 mcg/18 mcg/9.6 mcg (n=639) at an incidence of ≥ 2% included dysphonia (3.1%) and muscle spasms (3.3%).
 
 Additional Adverse Reactions
 

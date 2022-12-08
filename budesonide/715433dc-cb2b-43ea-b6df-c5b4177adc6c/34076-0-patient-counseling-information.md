@@ -78,4 +78,4 @@ Manufactured by: AstraZeneca Dunkerque Production (AZDP), Dunkerque, France
 
 BREZTRI and AEROSPHERE are trademarks of the AstraZeneca group of companies.
 
-© AstraZeneca 2020
+© AstraZeneca 2022
