@@ -22,9 +22,9 @@ Preparation of dilution for pediatric use:
 BRIDION 100 mg/mL may be diluted to a concentration of 10 mg/mL, using 0.9% sodium chloride injection, USP, to increase the accuracy of dosing in the pediatric population.
 
 - To prepare the required dose, aseptically transfer all the contents of the 2 mL vial of BRIDION 2-mL single-dose vials containing 200 mg sugammadex (100 mg/mL) to a bottle (or intravenous bag) containing 18 mL of 0.9% sodium chloride injection, to achieve a final concentration of 10 mg/mL sugammadex.
+  The diluted solution should be used immediately.
 - BRIDION injection is a single-dose sterile solution without preservatives.
   Discard any unused portion from the vial.
-- If not used immediately, the diluted solution can be stored up to 48 hours refrigerated (5°C; 41°F) or at room temperature (25°C; 77°F).
 
 ## 2.2 Recommended Dosing
 
