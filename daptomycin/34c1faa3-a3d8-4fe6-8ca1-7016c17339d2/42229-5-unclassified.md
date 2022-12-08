@@ -1,13 +1,14 @@
-Distributed by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA
+Distributed by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA
 
 PREMIERProRx®
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-Copyright © 2016-2021 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2016-2022 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk3009-rf-2110r009-plprem
+uspi-mk3009-rf-2211r010-plprem
