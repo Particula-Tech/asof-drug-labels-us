@@ -8,7 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Pneumonitis [see Warnings and Precautions (5.4)]
 - Diarrhea or Colitis [see Warnings and Precautions (5.5)]
 
-## 6.1 Clinical Trials Experience
+## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -81,18 +81,18 @@ Table 7: Laboratory Abnormalities Occurring in ≥ 10% of Patients in SOLAR-1
 
 |  | PIQRAY plus fulvestrant N = 284 |  | Placebo plus fulvestrant N = 287 |  |
 | --- | --- | --- | --- | --- |
-| Laboratory abnormality | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
+| Laboratory Abnormality | All Grades | Grade 3-4 | All Grades | Grade 3-4 |
 |  | % | % | % | % |
 | Hematological parameters |  |  |  |  |
 | Lymphocyte count decreased | 52 | 8 | 40 | 4.5* |
 | Hemoglobin decreased | 42 | 4.2* | 29 | 1* |
-| Activated partial thromboplastin time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |
+| Activated Partial Thromboplastin Time (aPTT) prolonged | 21 | 0.7* | 16 | 0.3* |
 | Platelet count decreased | 14 | 1.1 | 6 | 0* |
 | Biochemical parameters |  |  |  |  |
 | Glucose increased1 | 79 | 39 | 34 | 1 |
 | Creatinine increased | 67 | 2.8* | 25 | 0.7* |
-| Gamma-glutamyl transferase (GGT) increased | 52 | 11 | 44 | 10 |
-| Alanine aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |
+| Gamma Glutamyl Transferase (GGT) increased | 52 | 11 | 44 | 10 |
+| Alanine Aminotransferase (ALT) increased | 44 | 3.5 | 34 | 2.4* |
 | Lipase increased | 42 | 7 | 25 | 6 |
 | Calcium (corrected) decreased | 27 | 2.1 | 20 | 1.4 |
 | Glucose decreased | 26 | 0.4 | 14 | 0* |

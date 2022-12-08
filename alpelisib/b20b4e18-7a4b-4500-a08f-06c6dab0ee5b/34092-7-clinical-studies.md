@@ -27,24 +27,24 @@ Primary endocrine resistance, defined as relapsed within 24 months on adjuvant e
 The major efficacy outcome was investigator-assessed progression-free survival (PFS) in the cohort with a PIK3CA mutation per Response Evaluation Criteria in Solid Tumors (RECIST) v1.1.
 Additional efficacy outcome measures were overall response rate (ORR) and overall survival (OS) in the cohort with a PIK3CA mutation.
 
-Efficacy results for the cohort with a PIK3CA mutation in tumor tissue are presented in Table 8 and Figure 1.
-PFS results for the cohort with a PIK3CA mutation by investigator assessment were supported by consistent results from a blinded independent review committee (BIRC) assessment.
-Consistent results were seen in patients with tissue or plasma PIK3CA mutations.
-At the time of final PFS analysis, 27% (92/341) of patients had died, and overall survival follow-up was immature.
+The results from the investigator-assessed PFS and ORR for the cohort with a PIK3CA mutation in tumor tissue are presented in Table 8, and Figure 1.
+Investigator-assessed PFS results for the cohort with a PIK3CA mutation were supported by consistent results from a blinded independent review committee (BIRC) assessment.
+Similar results were seen in patients with tissue or plasma PIK3CA mutations.
+At the pre-specified final OS analysis, there was no significant difference in OS between the PIQRAY plus fulvestrant arm and the placebo plus fulvestrant arm (hazard ratio [HR] = 0.86, 95% CI: 0.64, 1.15).
 
-No PFS benefit was observed in patients whose tumors did not have a PIK3CA tissue mutation (HR = 0.85; 95% CI: 0.58, 1.25).
+No benefit was observed in patients whose tumors did not have a PIK3CA tissue mutation (PFS: HR = 0.85, 95% CI: 0.58, 1.25; OS: HR = 0.92, 95% CI: 0.65, 1.29).
 
 Table 8: Efficacy Results in SOLAR-1 (Per Investigator Assessment of Patients with a PIK3CA Tumor Mutation)
 
 |  | PIQRAY plus fulvestrant | Placebo plus fulvestrant |
 | --- | --- | --- |
-| Progression-free survival | N = 169 | N = 172 |
+| Progression-free Survival | N = 169 | N = 172 |
 | Number of PFS events – n (%) | 103 (61) | 129 (75) |
 | Median PFS months (95% CI) | 11.0 (7.5, 14.5) | 5.7 (3.7, 7.4) |
 | Hazard ratio (95% CI) | 0.65 (0.50, 0.85) |  |
 | p-value1 | 0.0013 |  |
 | Overall Response Rate | N = 126 | N = 136 |
 | ORR2 (95% CI) | 35.7 (27.4, 44.7) | 16.2 (10.4, 23.5) |
-| 1Both log-rank test and Cox proportional hazards model are stratified by prior CDK4/6 inhibitor usage and presence of lung/liver metastases. P-value was compared to prespecified Haybittle-Peto stopping boundary (two-sided p ≤ 0.0398). 2ORR = percentage of patients with confirmed Complete Response or Partial Response with measurable disease at baseline. |  |  |
+| Abbreviation: CI, confidence interval. 1p-value obtained from the two sided stratified log-rank test, stratified by prior CDK4/6 inhibitor usage and presence of lung/liver metastases. P-value was compared to prespecified Haybittle-Peto efficacy boundary (two-sided p ≤ 0.0398). 2ORR = percentage of patients with confirmed Complete Response or Partial Response with measurable disease at baseline. |  |  |
 
 Figure 1: Progression Free Survival in SOLAR-1 (Per Investigator Assessment of Patients with a PIK3CA Tumor Mutation)

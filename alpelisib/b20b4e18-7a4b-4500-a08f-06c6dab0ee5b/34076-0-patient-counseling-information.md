@@ -14,7 +14,7 @@ Advise patients to contact their healthcare provider immediately for signs and s
 
 Hyperglycemia
 
-Advise patients that PIQRAY may cause hyperglycemia and requires monitoring of fasting blood glucose periodically during therapy.
+Advise patients that PIQRAY may cause hyperglycemia and the need to monitor fasting blood glucose periodically during therapy.
 Advise patients to contact their healthcare provider immediately for signs and symptoms of hyperglycemia [see Warnings and Precautions (5.3)].
 
 Pneumonitis
@@ -48,8 +48,7 @@ Refer to the Full Prescribing Information of fulvestrant for infertility informa
 Drug Interactions
 
 Advise patients to avoid the use of strong CYP3A4 inducers in patients treated with PIQRAY.
-Advise patients to avoid the use of BCRP inhibitors in patients treated with PIQRAY.
-If unable to use alternative drugs, closely monitor for increased adverse reactions.
+Advise patients to avoid the use of BCRP inhibitors while taking PIQRAY If unable to use alternative drugs, closely monitor for increased adverse reactions.
 Advise patients that close monitoring may be required when PIQRAY is coadministered with CYP2C9 substrates where decreases in the plasma concentration of CYP2C9 substrates may reduce activity of these drugs [see Drug Interactions (7.1, 7.2)].
 
 Dosing
@@ -66,4 +65,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2022-33
+T2022-51

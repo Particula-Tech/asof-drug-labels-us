@@ -40,7 +40,7 @@ Ketoacidosis was reported in 0.7% of patients (n = 2) treated with PIQRAY.
 
 Among the patients who experienced Grade ≥ 2 (FPG 160 to 250 mg/dL) hyperglycemia, the median time to first occurrence of hyperglycemia was 15 days (range, 5 to 517 days).
 
-In the 187 patients with hyperglycemia, 87% (163/187) were managed with anti- hyperglycemic medication, and 76% (142/187) reported use of metformin as single agent or in combination with other anti- hyperglycemic medication [i.e., insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, and sulfonylureas].
+In the 187 patients with hyperglycemia, 87% (163/187) were managed with anti-hyperglycemic medication, and 76% (142/187) reported use of metformin as single agent or in combination with other anti-hyperglycemic medication [i.e., insulin, dipeptidyl peptidase-4 (DPP-4) inhibitors, and sulfonylureas].
 In patients with Grade ≥ 2 hyperglycemia with at least 1 grade improvement (n = 153), median time to improvement from the first event was 8 days (range, 2 to 65 days).
 
 In all patients with elevated FPG who continued fulvestrant treatment after discontinuing PIQRAY (n = 54), 96% (n = 52) of patients had FPG levels that returned to baseline.
@@ -93,7 +93,7 @@ Based on the severity of the diarrhea or colitis, PIQRAY may require dose interr
 
 Advise patients to start antidiarrheal treatment, increase oral fluids, and notify their healthcare provider if diarrhea occurs while taking PIQRAY.
 
-For patients with colitis, additional treatment, such as enteric-acting and/or systemic steroids, may be required.
+Patients with colitis may require additional treatment, such as enteric-acting and/or systemic steroids.
 
 ## 5.6 Embryo-Fetal Toxicity
 

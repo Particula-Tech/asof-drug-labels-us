@@ -46,7 +46,7 @@ The mean (% CV) clearance of alpelisib is predicted to be 9.2 L/hr (21%) under f
 
 Metabolism
 
-Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and to a lesser extent by CYP3A4, in vitro.
+Alpelisib is primarily metabolized by chemical and enzymatic hydrolysis to form its metabolite BZG791 and followed by CYP3A4 mediated hydroxylation.
 
 Excretion
 
@@ -69,6 +69,15 @@ In the presence of a low-fat low-calorie meal, AUC was decreased on average by 2
 Under the fasted state, AUC was decreased on average by 30% and Cmax by 51% with ranitidine.
 
 CYP3A4 Substrates: No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when coadministered with alpelisib.
+
+Effect of CYP3A4 Inducers on Alpelisib: Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single 300 mg dose of alpelisib decreased alpelisib Cmax by 38% and AUC by 57%, respectively.
+Coadministration of rifampin with repeat doses of 300 mg alpelisib decreased alpelisib Cmax by 59% and AUC by 74%, respectively.
+
+Model-Informed Approaches
+
+Coadministration of repeat doses of ketoconazole (a strong CYP3A4 inhibitor) with a single 300 mg dose of alpelisib is expected to increase alpelisib AUC by 37% or less.
+
+Coadministration of repeat doses of efavirenz (a moderate CYP3A4 inducer) with a single 300 mg dose of alpelisib is expected to decrease alpelisib AUC by 30% or less.
 
 In Vitro Studies
 
