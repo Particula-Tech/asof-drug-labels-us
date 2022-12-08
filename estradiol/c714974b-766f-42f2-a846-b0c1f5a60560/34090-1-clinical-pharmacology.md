@@ -18,26 +18,25 @@ Estrogens act to reduce the elevated levels of these hormones seen in postmenopa
 
 ## 12.2 Pharmacodynamics
 
-There are no pharmacodynamic data for Estradiol Transdermal System.
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to the Estradiol Transdermal System nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 
 ### Absorption
 
 Transdermal administration of the Estradiol Transdermal System produces mean serum concentrations of estradiol comparable to those produced by premenopausal women in the early follicular phase of the ovulatory cycle.
-The pharmacokinetics of estradiol following application of the Estradiol Transdermal System were investigated in 197 healthy postmenopausal women in six studies.
-In five of the studies, the Estradiol Transdermal System was applied to the abdomen, and in a sixth study, application to the buttocks and abdomen were compared.
+The pharmacokinetics of estradiol following application of the Estradiol Transdermal System transdermal system were investigated in 197 healthy postmenopausal women in six studies.
+In five of the studies, the Estradiol Transdermal System transdermal system was applied to the abdomen, and in a sixth study, application to the buttocks and abdomen were compared.
 
-The Estradiol Transdermal System continuously releases estradiol which is transported across intact skin leading to sustained circulating levels of estradiol during a 7-day treatment period.
+The Estradiol Transdermal System transdermal delivery system continuously releases estradiol which is transported across intact skin leading to sustained circulating levels of estradiol during a 7-day treatment period.
 The systemic availability of estradiol after transdermal administration is about 20 times higher than that after oral administration.
 This difference is due to the absence of first pass metabolism when estradiol is given by the transdermal route.
 
 In a bioavailability study, the Estradiol Transdermal System 6.5 cm2 was studied with the Estradiol Transdermal System 12.5 cm2 as reference.
 The mean estradiol levels in serum from the two sizes are shown in Figure 1.
 
-Figure 1: Mean Serum 17ß -Estradiol Concentrations versus Time Profile following Application of a 6.5 cm2 Estradiol Transdermal System and Application of a 12.5 cm2 Estradiol Transdermal System
-
-Dose proportionality was demonstrated for the 6.5 cm2 Estradiol Transdermal System as compared to the 12.5 cm2 Estradiol Transdermal System in a 2-week crossover study with a 1-week washout period between the two-transdermal systems in 24 postmenopausal women.
+Dose proportionality was demonstrated for the Estradiol Transdermal System 6.5 cm2 as compared to the Estradiol Transdermal System 12.5 cm2 in a 2-week crossover study with a 1-week washout period between the two-transdermal systems in 24 postmenopausal women.
 
 Dose proportionality was also demonstrated for the Estradiol Transdermal System (12.5 cm2 and 25 cm2) in a 1-week study conducted in 54 postmenopausal women.
 The mean steady state levels (Cavg) of the estradiol during the application of the Estradiol Transdermal System 25 cm2 and 12.5 cm2 on the abdomen were about 80 and 40 pg/mL, respectively.
@@ -47,13 +46,11 @@ Trough values at the end of each wear interval (Cmin) were approximately 35 pg/m
 Nearly identical serum curves were seen each week, indicating little or no accumulation of estradiol in the body.
 Serum estrone peak and trough levels were 60 and 40 pg/mL, respectively.
 
-In a single dose, randomized, crossover study conducted to compare the effect of site of application, 38 postmenopausal women wore a single 25 cm2 Estradiol Transdermal System for 1 week on the abdomen and buttocks.
+In a single dose, randomized, crossover study conducted to compare the effect of site of application, 38 postmenopausal women wore a single Estradiol Transdermal System 25 cm2 transdermal system for 1 week on the abdomen and buttocks.
 The estradiol serum concentration profiles are shown in Figure 2.
 Values of Cmax and Cavg were, respectively, 25 percent and 17 percent higher with the buttock application than with the abdomen application.
 
-Figure 2: Observed Mean (± SE) Estradiol Serum Concentrations for a One Week Application of the Estradiol Transdermal System (25 cm2) to the Abdomen and Buttocks of 38 Postmenopausal Women
-
-Table 2 provides a summary of estradiol pharmacokinetic parameters determined during evaluation of the Estradiol Transdermal System.
+Table 2 provides a summary of estradiol pharmacokinetic parameters determined during evaluation of the Estradiol Transdermal System transdermal system.
 
 Table 2: Pharmacokinetic Summary (Mean Estradiol Values)
 

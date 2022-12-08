@@ -5,6 +5,8 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - •Cardiovascular Disorders [see Boxed Warning, and Warnings and Precautions (5.1)]
 - •Malignant Neoplasms [see Boxed Warning, and Warnings and Precautions (5.2)]
 
+## The Estradiol Transdermal System
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -18,7 +20,7 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥5 Pe
 
 |  | The Estradiol Transdermal System |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System Adverse Reactions | 0.025 mg/daya (N=219) | 0.05 mg/dayb (N=201) | 0.1 mg/dayb (N=194) | Placeboc (N=72) |
+| Body System Adverse Reactions | 0.025 mg/dayAdverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator; and trial of the Estradiol Transdermal System versus placebo for the prevention of osteoporosis (N=219) | 0.05 mg/dayAdverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator (N=201) | 0.1 mg/day (N=194) | PlaceboAdverse reactions occurring in placebo group in the Estradiol Transdermal System trial of clinical efficacy versus placebo. (N=72) |
 | Body as a Whole Headache Pain Back Pain Edema | 21% 5% 1%4%0.5% | 39%18%8%8%13% | 37%13%11%9%10% | 29%10%7%6%6% |
 | Digestive System Abdominal Pain Nausea Flatulence | 9%0%1%1% | 21%11%5%3% | 29%16%6%7% | 18%8%3%1% |
 | Musculoskeletal System Arthralgia | 7%1% | 9%5% | 11%5% | 4%3% |
@@ -27,9 +29,7 @@ Table 1: Treatment-Emergent Adverse Reactions Reported at a Frequency of ≥5 Pe
 | Respiratory System URTI Pharyngitis Sinusitis Rhinitis | 15%6%0.5%4%2% | 26%17%3%4%4% | 29%17%7%5%6% | 14%8%3%3%1% |
 | Skin and Appendages Pruritus | 19%0.5% | 12%6% | 12%3% | 15%6% |
 
-1. 1.Adverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator; and trial of the Estradiol Transdermal System versus placebo for the prevention of osteoporosis
-2. 2.Adverse reactions occurring at rate of ≥5 percent in the Estradiol Transdermal System trials of clinical efficacy versus placebo and versus active comparator
-3. 3.Adverse reactions occurring in placebo group in the Estradiol Transdermal System trial of clinical efficacy versus placebo
+### The Estradiol Transdermal System
 
 ## 6.2 Postmarketing Experience
 

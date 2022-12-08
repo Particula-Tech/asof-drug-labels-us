@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The Estradiol Transdermal System is designed to release estradiol continuously upon application to intact skin.
+The Estradiol Transdermal System (estradiol transdermal system), is designed to release estradiol continuously upon application to intact skin.
 Six (6.5, 9.375, 12.5, 15, 18.75 and 25 cm2) systems are available to provide nominal in vivo delivery of 0.025, 0.0375, 0.05, 0.06, 0.075 or 0.1 mg respectively of estradiol per day.
 The period of use is 7 days.
 Each system has a contact surface area of either 6.5, 9.375, 12.5, 15, 18.75 or 25 cm2, and contains 2, 2.85, 3.8, 4.55, 5.7 or 7.6 mg of estradiol USP respectively.
@@ -10,7 +10,7 @@ Estradiol USP is a white, crystalline powder, chemically described as estra-1,3,
 It has an empirical formula of C18 H24 O2 and molecular weight of 272.38.
 The structural formula is:
 
-The Estradiol Transdermal System comprises three layers.
+The Estradiol Transdermal System transdermal system comprises three layers.
 Proceeding from the visible surface toward the surface attached to the skin, these layers are:
 
 1. 1.A translucent polyethylene film.
