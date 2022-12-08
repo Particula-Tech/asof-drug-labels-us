@@ -1,4 +1,4 @@
-# HOW SUPPLIED:
+# HOW SUPPLIED
 
 Ketorolac Tromethamine Injection, USP is supplied as follows:
 
@@ -18,9 +18,23 @@ NOT FOR INTRAVENOUS USE.
 
 The container closure is not made with natural rubber latex.
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20 to 25°C (68 to 77°F).
+[See USP Controlled Room Temperature.]
 
 Protect from light.
 
 Retain in carton until time of use.
+
 Novaplus is a registered trademark of Vizient, Inc.
+
+Manufactured by:
+
+Fresenius Kabi
+
+Lake Zurich, IL 60047
+
+www.fresenius-kabi.com/us
+
+451430D
+
+Revised: July 2022
