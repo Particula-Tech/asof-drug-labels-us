@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212209"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Slayback Pharma LLC",
+  "package_ndcs": [
+    "71225-120-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "VIVIMUSTA"
+    }
+  ],
+  "setid": "cbcc6eb7-aa62-4599-af49-05203fedb4bb",
+  "source": "dailymed"
+}
