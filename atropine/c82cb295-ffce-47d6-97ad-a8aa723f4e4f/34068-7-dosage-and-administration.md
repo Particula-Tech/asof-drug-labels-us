@@ -11,6 +11,15 @@ For intravenous administration.
 
 Titrate based on heart rate, PR interval, blood pressure and symptoms.
 
+## INSTRUCTIONS FOR USE:
+
+CAUTION: Certain glass syringes may malfunction, break or clog when connected to some Needleless Luer Access Devices (NLADs).
+This syringe has a larger internal syringe tip and an external collar (luer collar).
+The external collar must remain attached to the syringe.
+Data shows that, the syringe achieves acceptable connection with the following NLADs: BD SmartSite ™, BBraun Ultrasite ™, BD Q-Syte ™, BD MaxPlus ™, and BBraun Safsite ™.
+Assure that the needle or NLAD is securely attached before beginning the injection.
+Visually inspect the glass syringe-needle or glass syringe-NLAD connection before and during drug administration.
+
 ## 2.2 Adult Dosage
 
 Table 1: Recommended Dosage
