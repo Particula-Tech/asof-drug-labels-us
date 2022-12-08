@@ -33,6 +33,10 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
 
+Lactation
+
+Advise breastfeeding women using lacosamide to monitor infants for excess sleepiness and to seek medical care if they notice this sign [see Use in Specific Populations (8.2)].
+
 SAGENT® Mfd. for SAGENT Pharmaceuticals
 
 Schaumburg, IL 60195 (USA)
@@ -41,6 +45,6 @@ Made in India
 
 ©2022 Sagent Pharmaceuticals, Inc.
 
-Revised: July 2022
+Revised: October 2022
 
 SAGENT Pharmaceuticals ®
