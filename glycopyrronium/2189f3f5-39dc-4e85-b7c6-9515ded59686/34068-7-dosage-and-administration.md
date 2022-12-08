@@ -126,7 +126,7 @@ NOTES:
 
 All steps must be done sequentially
 
-- -Do not re-sterilize syringe
-- -Do not use this product on a sterile field
-- -Do not introduce any other fluid into the syringe at any time
-- -This product is for single dose only
+- •Do not re-sterilize syringe
+- •Do not use this product on a sterile field
+- •Do not introduce any other fluid into the syringe at any time
+- •This product is for single dose only
