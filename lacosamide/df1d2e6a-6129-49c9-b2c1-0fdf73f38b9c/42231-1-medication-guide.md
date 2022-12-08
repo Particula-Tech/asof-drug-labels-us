@@ -1,8 +1,8 @@
 Medication Guide
 
-Lacosamide Tablets, for oral use, USP CV
+Lacosamide (la-KOE-sa-mide)
 
-(la-KOE-sa-mide)
+Tablets, for oral use, USP CV
 
 Read this Medication Guide before you start taking lacosamide tablets and each time you get a refill.
 There may be new information.
@@ -76,12 +76,13 @@ Before you take lacosamide tablets, tell your healthcare provider about all of y
   It is not known if lacosamide tablets can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking lacosamide tablets.
   You and your healthcare provider will decide if you should take lacosamide tablets while you are pregnant.
-- •If you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+- oIf you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
-- •are breastfeeding or plan to breastfeed.
-  It is not known if lacosamide passes into your breast milk or if it can harm your baby.
-  Talk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
+- •are breastfeeding or plan to breastfeed. lacosamide passes into breast milk.
+- oBreastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
+  If this happens, contact your baby’s healthcare provider.
+- oTalk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -93,7 +94,7 @@ Keep a list of them and show it to your healthcare provider and pharmacist each 
 How should I take lacosamide tablets?
 
 - •Take lacosamide tablets exactly as your healthcare provider tells you.
-- •Your healthcare provider will tell you how much lacosamide to take and when to take it.
+- •Your healthcare provider will tell you how many lacosamide tablets to take and when to take it.
 - •Your healthcare provider may change your dose if needed.
 - •Do not stop lacosamide tablets without first talking to a healthcare provider.
   Stopping lacosamide tablets suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
@@ -116,11 +117,11 @@ Lacosamide tablets may cause other serious side effects including:
 - •A serious allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
   Call your healthcare provider right away if you have:
 
-| •a skin rash, hives | •swelling of the legs |
+| oa skin rash, hives | oswelling of the legs |
 | --- | --- |
-| •fever or swollen glands that do not go away | •yellowing of the skin or whites of the eyes |
-| •shortness of breath | •dark urine |
-| •tiredness (fatigue) |  |
+| ofever or swollen glands that do not go away | oyellowing of the skin or whites of the eyes |
+| oshortness of breath | odark urine |
+| otiredness (fatigue) |  |
 
 The most common side effects of lacosamide tablets include:
 
@@ -193,4 +194,4 @@ www.glenmarkpharma-us.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-March 2022
+November 2022

@@ -73,7 +73,7 @@ Dose reduction may be necessary in patients with hepatic impairment who are taki
 Lacosamide tablets may be taken with or without food.
 
 Lacosamide tablets should be swallowed whole with liquid.
-Do not divide Lacosamide tablets.
+Do not divide lacosamide tablets.
 
 ## 2.7 Discontinuation of Lacosamide Tablets
 
