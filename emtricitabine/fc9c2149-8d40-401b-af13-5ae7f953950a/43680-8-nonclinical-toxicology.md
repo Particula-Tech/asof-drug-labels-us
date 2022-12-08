@@ -23,7 +23,7 @@ Emtricitabine: In long-term carcinogenicity studies of FTC, no drug-related incr
 Emtricitabine was not genotoxic in the reverse mutation bacterial test (Ames test), or the mouse lymphoma or mouse micronucleus assays.
 
 Emtricitabine did not affect fertility in male rats at approximately 140-fold or in male and female mice at approximately 60-fold higher exposures (AUC) than in humans given the recommended 200 mg daily dose.
-Fertility was normal in the offspring of mice exposed daily from before birth (in utero) through sexual maturity at daily exposures (AUC) of approximately 60 fold higher than human exposures at the recommended 200 mg daily dose.
+Fertility was normal in the offspring of mice exposed daily from before birth (in utero) through sexual maturity at daily exposures (AUC) of approximately 60-fold higher than human exposures at the recommended 200 mg daily dose.
 
 Tenofovir DF: Long-term oral carcinogenicity studies of TDF in mice and rats were carried out at exposures up to approximately 16 times (mice) and 5 times (rats) those observed in humans at the therapeutic dose for HIV-1 infection.
 At the high dose in female mice, liver adenomas were increased at exposures 16 times that in humans.

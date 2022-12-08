@@ -15,5 +15,3 @@ ALERT: Find out about medicines that should NOT be taken with efavirenz, emtrici
 PHARMACIST: PLEASE DISPENSE WITH ACCOMPANYING PATIENT INFORMATION LEAFLET
 
 30 TABLETS
-
-TEVA
