@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Store at room temperature 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from light.
 
@@ -8,9 +8,9 @@ Furosemide Injection is a sterile, colorless solution for injection, available a
 
 | Unit of Sale | Presentations | Concentration |
 | --- | --- | --- |
-| NDC 0409-6102-02 | Tray of 25 clear glass single-dose vials | 20 mg/2 mL (10 mg/mL) |
-| NDC 0409-6102-04 | Tray of 25 clear glass single-dose vials | 40 mg/4 mL (10 mg/mL) |
-| NDC 0409-6102-10 | Tray of 25 clear glass single-dose vials | 100 mg/10 mL (10 mg/mL) |
+| NDC 0409-6102-02 | Tray of 25 amber glass single-dose vials | 20 mg/2 mL (10 mg/mL) |
+| NDC 0409-6102-04 | Tray of 25 amber glass single-dose vials | 40 mg/4 mL (10 mg/mL) |
+| NDC 0409-6102-10 | Tray of 25 amber glass single-dose vials | 100 mg/10 mL (10 mg/mL) |
 
 Discard unused portion.
 Do not use if solution is discolored or contains particulate.

@@ -2,8 +2,8 @@
 
 The following adverse reactions are described elsewhere in the labeling:
 
-- Fluid, Electrolyte, and Metabolic Abnormalities [see Warnings and Precautions (5.1)]
-- Ototoxicity [see Warnings and Precautions (5.3)]
+- •Fluid, Electrolyte, and Metabolic Abnormalities [see Warnings and Precautions (5.1)]
+- •Ototoxicity [see Warnings and Precautions (5.3)]
 
 The following adverse reactions associated with the use of furosemide were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
