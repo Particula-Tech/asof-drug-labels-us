@@ -10,22 +10,15 @@ Protect from freezing.
 Marketed by:
 
 GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA
+Dallas, Texas 75201 USA
 
 Manufactured by:
 
-G Production Inc.
-
-Baie d'Urfé, QC
-
-H9X 3S4 Canada
+G Production Inc., Baie d'Urfé, QC, H9X 3S4 Canada
 
 Made in Canada.
+All trademarks are the property of their respective owners.
 
-GALDERMA is a registered trademark.
+P50448-2
 
-www.differin.com
-
-P50448-1
-
-Revised: November 2011
+Revised: October 2022

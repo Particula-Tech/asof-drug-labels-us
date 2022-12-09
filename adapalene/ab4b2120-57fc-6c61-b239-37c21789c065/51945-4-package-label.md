@@ -29,8 +29,8 @@ Marketed by:
 
 GALDERMA LABORATORIES, L.P.
 
-Fort Worth, Texas 76177 USA Made in Canada
+Dallas, Texas 75201 USA Made in Canada
 
 All trademarks are the property of their respective owners.
 
-P50446-4
+P50446-5
