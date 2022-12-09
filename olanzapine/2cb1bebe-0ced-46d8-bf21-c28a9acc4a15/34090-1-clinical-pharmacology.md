@@ -7,8 +7,8 @@ However, the efficacy of olanzapine in schizophrenia could be mediated through a
 
 ## 12.2 Pharmacodynamics
 
-Olanzapine binds with high affinity to the following receptors: serotonin 5HT 2A/2C, 5HT 6 (K i=4, 11, and 5 nM, respectively), dopamine D 1 - 4 (K i=11 to 31 nM), histamine H 1 (K i=7 nM), and adrenergic α 1 receptors (K i=19 nM).
-Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT 3 (K i=57 nM) and muscarinic M 1 - 5 (K i=73, 96, 132, 32, and 48 nM, respectively).
+Olanzapine binds with high affinity to the following receptors: serotonin 5HT 2A/2C, 5HT 6 (K i=4, 11, and 5 nM, respectively), dopamine D 1-4 (K i=11 to 31 nM), histamine H 1 (K i=7 nM), and adrenergic α 1 receptors (K i=19 nM).
+Olanzapine is an antagonist with moderate affinity binding for serotonin 5HT 3 (K i=57 nM) and muscarinic M 1-5 (K i=73, 96, 132, 32, and 48 nM, respectively).
 Olanzapine binds with low affinity to GABA A, BZD, and β-adrenergic receptors (K i>10 μM).
 
 ## 12.3 Pharmacokinetics
@@ -29,7 +29,7 @@ Olanzapine is extensively distributed throughout the body, with a volume of dist
 Metabolism and Elimination — Following a single oral dose of 14C labeled olanzapine, 7% of the dose of olanzapine was recovered in the urine as unchanged drug, indicating that olanzapine is highly metabolized.
 Approximately 57% and 30% of the dose was recovered in the urine and feces, respectively.
 In the plasma, olanzapine accounted for only 12% of the AUC for total radioactivity, indicating significant exposure to metabolites.
-After multiple dosing, the major circulating metabolites were the 10-N-glucuronide, present at steady state at 44% of the concentration of olanzapine, and 4´-N-desmethyl olanzapine, present at steady state at 31% of the concentration of olanzapine.
+After multiple dosing, the major circulating metabolites were the 10-N-glucuronide, present at steady state at 44% of the concentration of olanzapine, and 4-N-desmethyl olanzapine, present at steady state at 31% of the concentration of olanzapine.
 Both metabolites lack pharmacological activity at the concentrations observed.
 
 Direct glucuronidation and cytochrome P450 (CYP) mediated oxidation are the primary metabolic pathways for olanzapine.

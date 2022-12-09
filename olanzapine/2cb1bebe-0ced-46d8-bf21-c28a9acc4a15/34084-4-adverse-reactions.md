@@ -312,10 +312,10 @@ Special Senses — Infrequent: abnormality of accommodation, dry eyes; Rare: myd
 
 Urogenital System — Infrequent: amenorrhea 2, breast pain, decreased menstruation, impotence 2, increased menstruation 2, menorrhagia 2, metrorrhagia 2, polyuria 2, urinary frequency, urinary retention, urinary urgency, urination impaired.
 
-1 These terms represent serious adverse events but do not meet the definition for adverse drug reactions.
+1These terms represent serious adverse events but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.
 
-2 Adjusted for gender.
+2Adjusted for gender.
 
 Clinical Trials in Adolescent Patients (age 13 to 17 years)
 
@@ -412,7 +412,7 @@ This increase in heart rate may be related to olanzapine's potential for inducin
 The following adverse reactions have been identified during post-approval use of olanzapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, salivary hypersecretion, stuttering 1and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
+Adverse reactions reported since market introduction that were temporally (but not necessarily causally) related to olanzapine therapy include the following: allergic reaction (e.g., anaphylactoid reaction, angioedema, pruritus or urticaria), cholestatic or mixed liver injury, diabetic coma, diabetic ketoacidosis, discontinuation reaction (diaphoresis, nausea or vomiting), Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hepatitis, jaundice, neutropenia, pancreatitis, priapism, rash, restless legs syndrome, rhabdomyolysis, salivary hypersecretion, stuttering 1 and venous thromboembolic events (including pulmonary embolism and deep venous thrombosis).
 Random cholesterol levels of ≥240 mg/dL and random triglyceride levels of ≥1,000 mg/dL have been reported.
 
 1Stuttering was only studied in oral formulations.

@@ -1,6 +1,4 @@
-# SPL MEDGUIDE
-
-Medication Guide
+# Medication Guide
 
 Olanzapine (oh-LAN-za-peen) Tablets, USP
 
@@ -22,13 +20,13 @@ Olanzapine tablets or orally disintegrating tablets may cause serious side effec
 
 These serious side effects are described below.
 
-1. 1.
-   Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
-   Olanzapine tablets or orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
-2. 2.
-   High blood sugar (hyperglycemia).
-   High blood sugar can happen if you have diabetes already or if you have never had diabetes.
-   High blood sugar could lead to:
+1.
+Increased risk of death in elderly people who are confused, have memory loss and have lost touch with reality (dementia-related psychosis).
+Olanzapine tablets or orally disintegrating tablets are not approved for treating psychosis in elderly people with dementia.
+2.
+High blood sugar (hyperglycemia).
+High blood sugar can happen if you have diabetes already or if you have never had diabetes.
+High blood sugar could lead to:
 
 • a build up of acid in your blood due to ketones (ketoacidosis)
 
@@ -239,6 +237,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8083986 Revised: September 2021
+8089748 Revised: October 2022

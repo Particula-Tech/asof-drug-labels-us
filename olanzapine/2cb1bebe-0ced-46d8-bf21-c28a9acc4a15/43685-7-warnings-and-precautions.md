@@ -253,9 +253,7 @@ Table 8: Weight Gain with Olanzapine Use in Adolescents
 ## 5.6 Tardive Dyskinesia
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
-Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
+Although the prevalence of the syndrome appears to bve the highest among the elderly, especially women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to deveop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
@@ -263,22 +261,17 @@ However, the syndrome can develop, although much less commonly, after relatively
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
 
 Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
-The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and therevy may possibly mask the underlying process.
+The effect that symptomatic suppression has upon the long-term course od the syndrome is unknown.
 
 Given these considerations, olanzapine should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
-The need for continued treatment should be reassessed periodically.Given these considerations, olanzapine should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
+Chronic antipsychotic treatment should generally be reserved for patients (1) who suffer from chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clincal response should be sought.
 The need for continued treatment should be reassessed periodically.
 
-If signs and symptoms of tardive dyskinesia appear in a patient on olanzapine, drug discontinuation should be considered.
-However, some patients may require treatment with olanzapine despite the presence of the syndrome.If signs and symptoms of tardive dyskinesia appear in a patient on olanzapine, drug discontinuation should be considered.
+If signs and symptoms of tardive dyskinesia apear in a patient on olanzapine, drug discontinuation should be considered.
 However, some patients may require treatment with olanzapine despite the presence of the syndrome.
 
-For specific information about the warnings of lithium or valproate, refer to the Warnings section of the package inserts for these other products.
 For specific information about the warnings of lithium or valproate, refer to the Warnings section of the package inserts for these other products.
 
 ## 5.7 Orthostatic Hypotension

@@ -83,7 +83,7 @@ Compared to patients from adult clinical trials, adolescents were likely to gain
 Patients should be counseled about the potential long-term risks associated with olanzapine and advised that these risks may lead them to consider other drugs first [see Indications and Usage (1.1, 1.2)].
 Safety and effectiveness of olanzapine in patients under 13 years of age have not been established.
 Safety and efficacy of olanzapine and fluoxetine in combination in patients 10 to 17 years of age have been established for the acute treatment of depressive episodes associated with bipolar I disorder.
-Safety and effectiveness of olanzapine and fluoxetine in combination in patients < 10 years of age have not been established [see Warnings and Precautions (5.5) and Use in Specific Populations (8.4)].
+Safety and effectiveness of olanzapine and fluoxetine in combination in patients <10 years of age have not been established [see Warnings and Precautions (5.5) and Use in Specific Populations (8.4)].
 
 Need for Comprehensive Treatment Program in Pediatric Patients
 
@@ -99,6 +99,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Levittown, PA 19057
+TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8083985 Revised September 2021
+8089747 Revised October 2022
