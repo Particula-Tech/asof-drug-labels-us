@@ -29,7 +29,7 @@ Blood samples for serum lithium determination should be drawn immediately prior 
 Total reliance must not be placed on serum concentrations alone.
 Accurate patient evaluation requires both clinical and laboratory analysis.
 
-In addition to regular monitoring of serum lithium concentrations for patients on maintenance treatment, serum lithium concentrations should be monitored after any change in dosage, concurrent medication (e.g., diuretics, non-steroidal anti-inflammatory drugs, renin-angiotensin system antagonists, or metronidazole), marked increase or decrease in routinely performed strenuous physical activity (such as an exercise program) and in the event of a concomitant disease [See Boxed Warning, Warnings and Precautions (5.1), Drug Interactions (7.1)].
+In addition to regular monitoring of serum lithium concentrations for patients on maintenance treatment, serum lithium concentrations should be monitored after any change in dosage, concurrent medication (e.g., diuretics, non-steroidal anti-inflammatory drugs, renin-angiotensin system antagonists, or metronidazole), marked increase or decrease in routinely performed strenuous physical activity (such as an exercise program) and in the event of a concomitant disease [see Boxed Warning, Warnings and Precautions (5.1), Drug Interactions (7.1)].
 
 Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are within what is considered the therapeutic range.
 Geriatric patients often respond to reduced dosage, and may exhibit signs of toxicity at serum concentrations ordinarily tolerated by other patients [see Specific Populations (8.5)].

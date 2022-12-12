@@ -32,6 +32,4 @@ Specific Populations:
 Pediatric Use: A pharmacokinetic study of lithium was performed in 39 subjects with bipolar I disorder.
 Both apparent clearance and apparent volume of distribution increase as body weight increases.
 A lower dose in patients < 30 kg is necessary to achieve lithium exposures in pediatric patients similar to those observed in adults treated at recommended doses of lithium [see Dosage and Administration (2.2)].
-The estimated plasma clearance was 0.59 L/h, 0.79 L/h and 1.17
-
-L/h for pediatric patients weighing 20 kg, 30 kg and 50 kg, respectively.
+The estimated plasma clearance was 0.59 L/h, 0.79 L/h and 1.17 L/h for pediatric patients weighing 20 kg, 30 kg and 50 kg, respectively.
