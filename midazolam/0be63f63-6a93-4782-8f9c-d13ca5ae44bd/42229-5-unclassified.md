@@ -4,6 +4,6 @@ Minneapolis, MN 55427
 
 2204610
 
-7H800 RC J6
+7H800 RC J7
 
-Rev 08-22 A
+Rev 12-22 B

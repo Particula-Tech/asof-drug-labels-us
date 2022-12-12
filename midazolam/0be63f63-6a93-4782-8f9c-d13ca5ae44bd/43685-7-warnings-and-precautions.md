@@ -69,7 +69,7 @@ Particular care should be taken to assure safe ambulation.
 Neonatal Sedation and Withdrawal Syndrome
 
 Use of midazolam HCl syrup late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
-Monitor neonates exposed to midazolam HCl syrup during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam HCl syrup during pregnancy for signs of withdrawal; manage these infants accordingly.
+Monitor neonates exposed to midazolam HCl syrup during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam HCl syrup during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 Usage in Preterm Infants and Neonates
 
@@ -192,7 +192,7 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
-Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.

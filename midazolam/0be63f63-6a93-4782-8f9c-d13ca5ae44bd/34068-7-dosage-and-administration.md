@@ -45,21 +45,21 @@ USE OF ORAL DISPENSERS AND PIBA
 2. 2.Before inserting the tip of the oral dispenser into bottle adapter, push the plunger completely down toward the tip of the oral dispenser.
    Insert tip firmly into opening of the bottle adapter.
 
-1. 3.Turn the entire unit (bottle and oral dispenser) upside down.
-2. 4.Pull the plunger out slowly until the desired amount of medication is withdrawn into the oral dispenser.
+1. 1.Turn the entire unit (bottle and oral dispenser) upside down.
+2. 2.Pull the plunger out slowly until the desired amount of medication is withdrawn into the oral dispenser.
 
-1. 5.Turn the entire unit right side up and remove the oral dispenser slowly from the bottle.
+1. 1.Turn the entire unit right side up and remove the oral dispenser slowly from the bottle.
 
-1. 6.The tip of the dispenser may be covered with a tip cap, until time of use.
-2. 7.Close bottle with cap after each use.
-3. 8.Dispense directly into mouth.
+1. 1.The tip of the dispenser may be covered with a tip cap, until time of use.
+2. 2.Close bottle with cap after each use.
+3. 3.Dispense directly into mouth.
    Do not mix with any liquid (such as grapefruit juice) prior to dispensing.
 
 INSERTION OF PRESS-IN BOTTLE ADAPTER (PIBA)
 
 1. 1.Remove the cap and push bottle adapter into neck of bottle.
 
-1. 2.Close the bottle tightly with cap.
+1. 1.Close the bottle tightly with cap.
    This will assure the proper seating of the bottle adapter in the bottle.
 
 DISPOSAL OF MIDAZOLAM HCl SYRUP
