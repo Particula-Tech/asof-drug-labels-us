@@ -4,7 +4,7 @@
 
 Confirm the selection of the correct formulation and strength prior to administration of the drug.
 
-Do not use HEPARIN SODIUM IN 5% DEXTROSE INJECTION as a "catheter lock flush" product.
+Do not use HEPARIN SODIUM IN 5% DEXTROSE INJECTION as a “catheter lock flush” product.
 
 Do not admix with other drugs.
 
@@ -18,21 +18,21 @@ Do not administer unless the solution is clear and container is undamaged.
 
 Discard unused portion
 
-To Open Tear outer wrap at notch and remove solution container.
+To Open Tear outer wrap and remove solution container.
 
 (Use aseptic technique)
 
-1. Close flow control clamp of administration set.
-2. Remove cover from outlet port at bottom of container.
-3. Insert piercing pin of administration set into port with a twisting motion until the set is firmly seated.
+1. 1.Close flow control clamp of administration set.
+2. 2.Remove cover from outlet port at bottom of container.
+3. 3.Insert piercing pin of administration set into port with a twisting motion until the set is firmly seated.
    NOTE: See full directions on administration set carton.
-4. Suspend container from hanger.
-5. Squeeze and release drip chamber to establish proper fluid level in chamber.
-6. Open flow control clamp and clear air from set.
+4. 4.Suspend container from hanger.
+5. 5.Squeeze and release drip chamber to establish proper fluid level in chamber.
+6. 6.Open flow control clamp and clear air from set.
    Close clamp.
-7. Attach set to venipuncture device.
+7. 7.Attach set to venipuncture device.
    If device is not indwelling, prime and make venipuncture.
-8. Regulate rate of administration with flow control clamp.
+8. 8.Regulate rate of administration with flow control clamp.
 
 Warning: Do not use flexible container in series connections.
 

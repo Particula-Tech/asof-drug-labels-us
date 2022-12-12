@@ -109,3 +109,33 @@ FOR INTRAVENOUS USE ONLY.
 
 DIST.
 BY HOSPIRA, INC., LAKE FOREST, IL 60045 USA IM-5192 Hospira
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label – 12135-02
+
+250 mL NDC 0409-4520-02
+
+Heparin
+
+25,000 USP Units/250 mL (100 USP Units/mL)
+
+Heparin Sodium in 5% Dextrose Injection
+
+Warning: contains sulfites Each 100 mL contains Heparin Sodium 10,000 USP units (Porcine Intestinal Mucosa); Dextrose, Hydrous 5 g; Citric Acid, Anhydrous 51 mg; Sodium Citrate, Dihydrate 334 mg; Sodium Metabisulfite 20 mg; Sterile.
+Not made with natural rubber latex.
+Recommended dosage: See prescribing information.
+Additives should not be made to this solution.
+Single dose container.
+Discard unused portion.
+Inspect bag by squeezing firmly.
+If leaks are found, discard.
+Store at 20°C to 25°C (68°F to 77°F).
+[See USP Controlled Room Temperature.]
+Protect from freezing.
+For Intravenous Use only.
+Do not remove from overwrap until ready for use.
+
+Rx ONLY
+
+5 PP
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA 12135-02 Hospira

@@ -14,12 +14,12 @@ It has the following structural formula:
 Water for Injection, USP is chemically designated H2O.
 
 Intravenous solutions with heparin sodium (derived from porcine intestinal mucosa) are sterile, nonpyrogenic fluids for intravenous administration.
-Each 100 mL contains heparin sodium 4,000, 5,000 or 10,000 USP Units; dextrose, hydrous 5 g; citric acid, anhydrous, 51 mg and sodium citrate, dihydrate 334 mg added as buffers; sodium metabisulfite 20 mg added as an antioxidant.
+Each 100 mL contains heparin sodium 5,000 or 10,000 USP Units; dextrose, hydrous 5 g; citric acid, anhydrous, 51 mg and sodium citrate, dihydrate 334 mg added as buffers; sodium metabisulfite 20 mg added as an antioxidant.
 Each liter contains electrolytes sodium and citrate in amounts as listed in HOW SUPPLIED/STORAGE AND HANDLING Table.
 See Table for summary of contents and characteristics of this solution.
 The potency is determined by a biological assay using a USP reference standard based on units of heparin activity per milligram.
 
-The flexible plastic container is fabricated from a specially formulated nonplasticized, thermoplastic co-polyester (CR3).
+The flexible plastic container is fabricated either from a specially formulated nonplasticized, thermoplastic co-polyester (CR3) or from a polyolefin film.
 Water can permeate from inside the container into the overwrap but not in amounts sufficient to affect the solution significantly.
 Solutions inside the plastic container also can leach out certain of its chemical components in very small amounts before the expiration period is attained.
 However, the safety of the plastic has been confirmed by tests in animals according to USP biological standards for plastic containers.
