@@ -120,4 +120,4 @@ May contain hydrochloric acid for pH adjustment.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Marketed by: GALDERMA LABORATORIES, L.P., Dallas, Texas 75201 USA Manufactured by: G Production Inc., Baie d’Urfé, QC, H9X 3S4 Canada Made in Canada.
 All trademarks are the property of their respective owners.
-P52321-X Issued: 08/2022
+P52321-1 Issued: 08/2022
