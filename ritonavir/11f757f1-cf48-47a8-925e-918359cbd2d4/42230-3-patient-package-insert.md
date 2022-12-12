@@ -206,4 +206,4 @@ The makers of these brands are not affiliated with and do not endorse Aurobindo 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Dispense with Patient Information available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 11/2022
