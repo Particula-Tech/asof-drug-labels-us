@@ -33,9 +33,9 @@ Specific Populations Race There were insufficient numbers from racial and ethnic
 
 Gender Tenofovir pharmacokinetics are similar in male and female subjects.
 
-Pediatric Patients Steady-state pharmacokinetics of tenofovir were evaluated in HIV-1 infected pediatric subjects 12 years to less than 18 years (Table 13).
+Pediatric Patients 2 Years and Older: Steady-state pharmacokinetics of tenofovir were evaluated in 31 HIV-1 infected pediatric subjects 2 years to less than 18 years of age (Table 13).
 Tenofovir exposure achieved in these pediatric subjects receiving oral once daily doses of tenofovir disoproxil fumarate 300 mg (tablet) was similar to exposures achieved in adults receiving once-daily doses of tenofovir disoproxil fumarate 300 mg.
-Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for HIV-1-infected Pediatric Patients 12 years and older for the Tablet.
+Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters by Age Groups for HIV-1-infected Pediatric Patients 2 years and older for the Tablet.
 
 | Dose and Formulation | 300 mg Tablet |
 | --- | --- |
@@ -43,14 +43,14 @@ Table 13 Mean (± SD) Tenofovir Pharmacokinetic Parameters for HIV-1-infected Pe
 | Cmax (μg/mL) | 0.38 ± 0.13 |
 | AUCtau (μg•hr/mL) | 3.39 ± 1.22 |
 
-Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
+Tenofovir exposures in HBV-infected pediatric subjects (12 years to less than 18 years of age) receiving oral once-daily doses of tenofovir disoproxil fumarate 300 mg tablet and pediatric subjects 2 years to less than 12 years of age receiving tenofovir disoproxil fumarate 8 mg/kg of body weight (tablet or powder) up to a maximum dose of 300 mg were comparable to exposures achieved in HIV-1 infected adult subjects receiving identical doses.
 Geriatric Patients Pharmacokinetic trials have not been performed in the elderly (65 years and older).
 Patients with Renal Impairment The pharmacokinetics of tenofovir are altered in subjects with renal impairment [see Warnings and Precautions (5.2)].
-In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, C, and AUC of tenofovir were increased (Table 14).
+In subjects with creatinine clearance below 50 mL/min or with end-stage renal disease (ESRD) requiring dialysis, Cmax, and AUC0-∞ of tenofovir were increased (Table 14).
 
 Table 14 Pharmacokinetic Parameters (Mean ± SD) of Tenofovira in Subjects with Varying Degrees of Renal Function
 
-| Baseline Creatinine Clearance (mL/min) | >80 (N=3) | 50-80 (N=10) | 30-49 (N=8) | 12-29 (N=11) |
+| Baseline Creatinine Clearance (mL/min) | >80 N=3 | 50-80 N=10 | 30-49 N=8 | 12-29 N=11 |
 | --- | --- | --- | --- | --- |
 | Cmax (μg/mL) | 0.34 ± 0.03 | 0.33 ± 0.06 | 0.37 ± 0.16 | 0.60 ± 0.19 |
 | AUC0-∞ (μg•hr/mL) | 2.18 ± 0.26 | 3.06 ± 0.93 | 6.01 ± 2.50 | 15.98 ± 7.22 |
@@ -60,9 +60,9 @@ Table 14 Pharmacokinetic Parameters (Mean ± SD) of Tenofovira in Subjects with 
 a. 300 mg, single dose of tenofovir disoproxil fumarate tablets Patients with Hepatic Impairment The pharmacokinetics of tenofovir following a 300 mg single dose of tenofovir disoproxil fumarate have been studied in non-HIV infected subjects with moderate to severe hepatic impairment.
 There were no substantial alterations in tenofovir pharmacokinetics in subjects with hepatic impairment compared with unimpaired subjects.
 No change in tenofovir disoproxil fumarate dosing is required in patients with hepatic impairment.
-Assessment of Drug Interactions At concentrations substantially higher (~300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the following human CYPisoforms: CYP3A4, CYP2D6, CYP2C9, or CYP2E1.
+Assessment of Drug Interactions At concentrations substantially higher (~300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the following human CYP isoforms: CYP3A4, CYP2D6, CYP2C9, or CYP2E1.
 However, a small (6%) but statistically significant reduction in metabolism of CYP1A substrate was observed.
-Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP - mediated interactions involving tenofovir with other medicinal products is low.
+Based on the results of in vitro experiments and the known elimination pathway of tenofovir, the potential for CYP-mediated interactions involving tenofovir with other medicinal products is low.
 Tenofovir disoproxil fumarate has been evaluated in healthy volunteers in combination with other antiretroviral and potential concomitant drugs.
 Tables 15 and 16 summarize pharmacokinetic effects of coadministered drug on tenofovir pharmacokinetics and effects of tenofovir disoproxil fumarate on the pharmacokinetics of coadministered drug.
 TDF is a substrate of P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) transporters.
@@ -90,8 +90,8 @@ Table 15 Drug Interactions: Changes in Pharmacokinetic Parameters for Tenofovira
 | Tipranavir/ Ritonavirn | 500/100 twice daily | 22 | ↓ 23 (↓ 32 to ↓ 13) | ↓ 2 (↓ 9 to ↑ 5) | ↑ 7 (↓ 2 to ↑ 17) |
 | 750/200 twice daily (23 doses) | 20 | ↓ 38 (↓ 46 to ↓ 29) | ↑ 2 (↓ 6 to ↑ 10) | ↑ 14 (↑ 1 to ↑ 27) |  |
 
-a. Subjects received tenofovir disoproxil fumarate 300 mg once daily. b. Increase = ↑; Decrease = ↓; No Effect = ⇔ c. Reyataz Prescribing Information d. Prezista Prescribing Information e. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir).
-Staggered administration (12 hours apart) provided similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. g. Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. h. Study conducted with ATRIPLA (EFV/FTC/TDF.) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA (FTC /rilpivirine/TDF.), or TRUVADA + dolutegravir. i. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). j. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, (elvitegravir/cobicistat/FTC/TDF), TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. k. Administered as raltegravir + FTC/TDF. l. Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. m. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. n. Aptivus Prescribing Information.
+a. Subjects received tenofovir disoproxil fumarate 300 mg once daily. b. Increase = ↑; Decrease = ↓; No Effect = ⇔ c. Reyataz Prescribing Information. d. Prezista Prescribing Information. e. Data generated from simultaneous dosing with HARVONI (ledipasvir/sofosbuvir).
+Staggered administration (12 hours apart) provided similar results. f. Comparison based on exposures when administered as atazanavir/ritonavir + FTC/TDF. g. Comparison based on exposures when administered as darunavir/ritonavir + FTC/TDF. h. Study conducted with ATRIPLA (EFV/FTC/TDF) coadministered with HARVONI; coadministration with HARVONI also results in comparable increases in tenofovir exposure when TDF is administered as COMPLERA (FTC /rilpivirine/TDF.), or TRUVADA + dolutegravir. i. Study conducted with ATRIPLA coadministered with SOVALDI® (sofosbuvir). j. Study conducted with COMPLERA coadministered with EPCLUSA; coadministration with EPCLUSA also results in comparable increases in tenofovir exposures when TDF is administered as ATRIPLA, STRIBILD, (elvitegravir/cobicistat/FTC/TDF), TRUVADA + atazanavir/ritonavir, or TRUVADA + darunavir/ritonavir. k. Administered as raltegravir + FTC/TDF. l. Comparison based on exposures when administered as darunavir + ritonavir + FTC/TDF. m. Study conducted with additional voxilaprevir 100 mg to achieve voxilaprevir exposures expected in HCV-infected patients. n. Aptivus Prescribing Information.
 No effect on the pharmacokinetic parameters of the following coadministered drugs was observed with tenofovir disoproxil fumarate: abacavir, didanosine (buffered tablets), emtricitabine, entecavir and lamivudine.
 Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of Tenofovir Disoproxil Fumarate
 
@@ -113,15 +113,14 @@ Table 16 Drug Interactions: Changes in Pharmacokinetic Parameters for Coadminist
 | Tipranaviri | Tipranavir/Ritonavir 500/100 twice daily | 22 | ↓ 17 (↓ 26 to ↓ 6) | ↓ 18 (↓ 25 to ↓ 9) | ↓ 21 (↓ 30 to ↓ 10) |
 | Tipranavir/Ritonavir 750/200 twice daily (23 doses) | 20 | ↓ 11 (↓ 16 to ↓ 4) | ↓ 9 (↓ 15 to ↓ 3) | ↓ 12 (↓ 22 to 0) |  |
 
-a. Increase = ↑; Decrease = ↓; No Effect =⇔; NA = Not Applicable b. Reyataz Prescribing Information. c. In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3-and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. d. Prezista Prescribing Information e. Videx EC Prescribing Information.
-Subjects received didanosine enteric-coated capsules. f. 373 kcal, 8.2 g fat g. Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. h. Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when TDF and ritonavir-boosted saquinavir are coadministered. i. Aptivus Prescribing Information Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.
-However, due to Gilead Sciences, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+a. Increase = ↑; Decrease = ↓; No Effect =⇔; NA = Not Applicable b. Reyataz Prescribing Information. c. In HIV-infected subjects, addition of TDF to atazanavir 300 mg plus ritonavir 100 mg, resulted in AUC and Cmin values of atazanavir that were 2.3-and 4-fold higher than the respective values observed for atazanavir 400 mg when given alone. d. Prezista Prescribing Information. e. Videx EC Prescribing Information.
+Subjects received didanosine enteric-coated capsules. f. 373 kcal, 8.2 g fat g. Compared with didanosine (enteric-coated) 400 mg administered alone under fasting conditions. h. Increases in AUC and Cmin are not expected to be clinically relevant; hence no dose adjustments are required when TDF and ritonavir-boosted saquinavir are coadministered. i. Aptivus Prescribing Information.
 
 ## 12.4 Microbiology
 
 Mechanism of Action Tenofovir disoproxil fumarate is an acyclic nucleoside phosphonate diester analog of adenosine monophosphate.
 Tenofovir disoproxil fumarate requires initial diester hydrolysis for conversion to tenofovir and subsequent phosphorylations by cellular enzymes to form tenofovir diphosphate (TFV-DP), an obligate chain terminator.
-Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase (RT) and HBV RT and HBV RT by competing with the natural substrate deoxyadenosine 5’-triphosphate and, after incorporation into DNA, by DNA chain termination.
+Tenofovir diphosphate inhibits the activity of HIV-1 reverse transcriptase (RT) and HBV RT by competing with the natural substrate deoxyadenosine 5’-triphosphate and, after incorporation into DNA, by DNA chain termination.
 Tenofovir diphosphate is a weak inhibitor of mammalian DNA polymerases α, β, and mitochondrial DNA polymerase γ.
 Activity against HIV Antiviral Activity The antiviral activity of tenofovir against laboratory and clinical isolates of HIV-1 was assessed in lymphoblastoid cell lines, primary monocyte/macrophage cells and peripheral blood lymphocytes.
 The EC50 (50% effective concentration) values for tenofovir were in the range of 0.04 μM to 8.5 μM.
@@ -158,11 +157,30 @@ In the protocol defined analyses, virologic response to tenofovir disoproxil fum
 HIV-1 RNA responses among these subjects were durable through Week 48.
 Trials 902 and 907 Phenotypic Analyses Phenotypic analysis of baseline HIV-1 from treatment-experienced subjects (N=100) demonstrated a correlation between baseline susceptibility to tenofovir disoproxil fumarate and response to tenofovir disoproxil fumarate therapy.
 Table 17 summarizes the HIV-1 RNA response by baseline tenofovir disoproxil fumarate susceptibility.
-Table 17 HIV-1 RNA Response at Week 24 by Baseline tenofovir disoproxil fumarate Susceptibility (Intent-To-Treat)a
+Table 17 HIV-1 RNA Response at Week 24 by Baseline Tenofovir Disoproxil Fumarate Susceptibility (Intent-To-Treat)a
 
 | Baseline Tenofovir Disoproxil Fumarate Susceptibilityb | Change in HIV-1 RNAc (N) |
 | --- | --- |
 | <1 >1 and ≤3 >3 and ≤4 >4 | -0.74 (35) -0.56 (49) -0.3 (7) -0.12 (9) |
+
+a. Tenofovir susceptibility was determined by recombinant phenotypic Antivirogram assay (Virco). b. Fold change in susceptibility from wild-type. c. Average HIV-1 RNA change from baseline through Week 24 (DAVG24) in log10 copies/mL.
+
+Activity against HBV
+
+Antiviral Activity
+
+The antiviral activity of tenofovir against HBV was assessed in the HepG2 2.2.15 cell line.
+The EC50 values for tenofovir ranged from 0.14 to 1.5 μM, with CC50 (50% cytotoxicity concentration) values >100 μM.
+In cell culture combination antiviral activity studies of tenofovir with HBV NRTIs entecavir, lamivudine, and telbivudine, and with the HIV-1 NRTIs emtricitabine, no antagonistic activity was observed.
+
+Resistance
+
+Cumulative tenofovir disoproxil fumarate genotypic resistance has been evaluated annually for up to 384 weeks in Trials 0102, 0103, 0106, 0108, and 0121 [see Clinical Studies (14.4)] with the paired HBV rt amino acid sequences of the pretreatment and on-treatment isolates from subjects who received at least 24 weeks of tenofovir disoproxil fumarate monotherapy and remained viremic with HBV DNA ≥400 copies/mL (69 IU/mL) at the end of each study year (or at discontinuation of tenofovir disoproxil fumarate monotherapy) using an as-treated analysis.
+In the nucleotide-naïve population from Trials 0102 and 0103, HBeAg-positive subjects had a higher baseline viral load than HBeAg-negative subjects and a significantly higher proportion of the subjects remained viremic at their last time point on tenofovir disoproxil fumarate monotherapy (15% versus 5%, respectively).
+
+HBV isolates from these subjects who remained viremic showed treatment-emergent substitutions (Table 18); however, no specific substitutions occurred at a sufficient frequency to be associated with resistance to tenofovir disoproxil fumarate (genotypic and phenotypic analyses).
+
+Table 18 Amino Acid Substitutions in Viremic Subjects across HBV Trials of Tenofovir Disoproxil Fumarate.
 
 |  | Compensated Liver Disease |  |  | Decompensated Liver Disease (N=39)d |
 | --- | --- | --- | --- | --- |
@@ -170,8 +188,8 @@ Table 17 HIV-1 RNA Response at Week 24 by Baseline tenofovir disoproxil fumarate
 | Viremic at Last Time Point on Tenofovir Disoproxil Fumarate | 38/417 (9%) | 37/247 (15%) | 9/136 (7%) | 7/39 (18%) |
 | Treatment-Emergent Amino Acid Substitutionse | 18f/32 (56%) | 11g/31 (35%) | 6h/8 (75%) | 3/5 (60%) |
 
-a. Nucleotide-naïve subjects from Trials 0102 (N=246) and 0103 (N=171) receiving up to 384 weeks of treatment with Tenofovir Disoproxil Fumarate. b. HEPSERA-experienced subjects from Trials 0102/0103 (N=195) and 0106 (N=52) receiving up to 336 weeks of treatment with Tenofovir Disoproxil Fumarate after switching to Tenofovir Disoproxil Fumarate from HEPSERA.
-Trial 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. c. Lamivudine-resistant subjects from Trial 0121 (N=136) receiving up to 96 weeks of treatment with Tenofovir Disoproxil Fumarate after switching to Tenofovir Disoproxil Fumarate from lamivudine. d. Subjects with decompensated liver disease from Trial 0108 (N=39) receiving up to 48 weeks of treatment with Tenofovir Disoproxil Fumarate. e. Denominator includes those subjects who were viremic at last time point on Tenofovir Disoproxil Fumarate monotherapy and had evaluable paired genotypic data. f. Of the 18 subjects with treatment-emergent amino acid substitutions during Trials 0102 and 0103, 5 subjects had substitutions at conserved sites and 13 subjects had substitutions only at polymorphic sites, and 8 subjects had only transient substitutions that were not detected at the last time point on Tenofovir Disoproxil Fumarate. g. Of the 11 HEPSERA-experienced subjects with treatment-emergent amino acid substitutions, 2 subjects had substitutions at conserved sites and 9 had substitutions only at polymorphic sites. h. Of the 6 lamivudine-resistant subjects with treatment-emergent substitutions during Trial 0121, 3 subjects had substitutions at conserved sites and 3 had substitutions only at polymorphic sites.
+a. Nucleotide-naïve subjects from Trials 0102 (N=246) and 0103 (N=171) receiving up to 384 weeks of treatment with tenofovir disoproxil fumarate. b. HEPSERA-experienced subjects from Trials 0102/0103 (N=195) and 0106 (N=52) receiving up to 336 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from HEPSERA.
+Trial 0106, a randomized, double-blind, 168-week Phase 2 trial, has been completed. c. Lamivudine-resistant subjects from Trial 0121 (N=136) receiving up to 96 weeks of treatment with tenofovir disoproxil fumarate after switching to tenofovir disoproxil fumarate from lamivudine. d. Subjects with decompensated liver disease from Trial 0108 (N=39) receiving up to 48 weeks of treatment with tenofovir disoproxil fumarate. e. Denominator includes those subjects who were viremic at last time point on tenofovir disoproxil fumarate monotherapy and had evaluable paired genotypic data. f. Of the 18 subjects with treatment-emergent amino acid substitutions during Trials 0102 and 0103, 5 subjects had substitutions at conserved sites and 13 subjects had substitutions only at polymorphic sites, and 8 subjects had only transient substitutions that were not detected at the last time point on tenofovir disoproxil fumarate. g. Of the 11 HEPSERA-experienced subjects with treatment-emergent amino acid substitutions, 2 subjects had substitutions at conserved sites and 9 had substitutions only at polymorphic sites. h. Of the 6 lamivudine-resistant subjects with treatment-emergent substitutions during Trial 0121, 3 subjects had substitutions at conserved sites and 3 had substitutions only at polymorphic sites.
 Cross Resistance Cross resistance has been observed between HBV NRTIs.
 In cell-based assays, HBV strains expressing the rtV173L, rtL180M, and rtM204I/V substitutions associated with resistance to lamivudine (3TC) and telbivudine showed a susceptibility to tenofovir ranging from 0.7-to 3.4-fold that of wild type virus.
 The rtL180M and rtM204I/V double substitutions conferred 3.4-fold reduced susceptibility to tenofovir.

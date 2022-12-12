@@ -12,7 +12,7 @@ Risk Summary
 Available data from the APR show no increase in the overall risk of major birth defects with first trimester exposure for tenofovir disoproxil fumarate (TDF) (2.1%) compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) (see Data).
 The rate of miscarriage for individual drugs is not reported in the APR.
 In the U.S. general population, the estimated background risk of miscarriage in clinically recognized pregnancies is 15–20%.
-Published studies in HBV-infected subjects do not report an increased risk of adverse pregnancy-related outcomes with the use of tenofovir disoproxyl fumarate during the third trimester of pregnancy (see Data).
+Published studies in HBV-infected subjects do not report an increased risk of adverse pregnancy-related outcomes with the use of tenofovir disoproxil fumarate during the third trimester of pregnancy (see Data).
 In animal reproduction studies, no adverse developmental effects were observed when TDF was administered at doses/exposures ≥14 (TDF) and 2.7 (tenofovir) times those of the recommended daily dose of tenofovir disoproxil fumarate (see Data).
 
 Data
@@ -25,10 +25,10 @@ The prevalence of major birth defects in live births was 2.3% (95% CI: 1.8% to 2
 Prospective reports from the APR of overall major birth defects in pregnancies exposed to TDF are compared with a U.S. background major birth defect rate.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
 Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
-In published data from three controlled clinical trials, a total of 327 pregnant women with chronic HBV infection were administered tenofovir disoproxyl fumarate from 28 to 32 weeks gestation through 1 to 2 months postpartum and followed for up to 12 months after delivery.
-There were no new safety findings in pregnant women compared with the known safety profile of tenofovir disoproxyl fumarate in HBV-infected adults.
-An increased risk of adverse pregnancy-related outcomes was not observed; 2 stillbirths were identified, and there was 1 major birth defect (talipes) and 1 occurrence of multiple congenital abnormalities (not further specified) in tenofovir disoproxyl fumarate-exposed infants.
-Infants were followed for up to 12 months after delivery; there were no clinically relevant drug-related safety findings in infants exposed to tenofovir disoproxyl fumarate during late gestation.
+In published data from three controlled clinical trials, a total of 327 pregnant women with chronic HBV infection were administered tenofovir disoproxil fumarate from 28 to 32 weeks gestation through 1 to 2 months postpartum and followed for up to 12 months after delivery.
+There were no new safety findings in pregnant women compared with the known safety profile of tenofovir disoproxil fumarate in HBV-infected adults.
+An increased risk of adverse pregnancy-related outcomes was not observed; 2 stillbirths were identified, and there was 1 major birth defect (talipes) and 1 occurrence of multiple congenital abnormalities (not further specified) in tenofovir disoproxil fumarate-exposed infants.
+Infants were followed for up to 12 months after delivery; there were no clinically relevant drug-related safety findings in infants exposed to tenofovir disoproxil fumarate during late gestation.
 
 Animal Data
 
@@ -43,7 +43,7 @@ It is not known if tenofovir affects milk production or has effects on the breas
 Treatment of HIV-1 infection: The Centers for Disease Control and Prevention recommend that HIV-1 infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV-1.
 Because of the potential for: (1) HIV transmission (in HIV-negative infants); (2) developing viral resistance (in HIV-positive infants); and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are taking tenofovir disoproxil fumarate for the treatment of HIV-1.
 Treatment of HBV infection: The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for tenofovir disoproxil fumarate and any potential adverse effects on the breastfed infant from tenofovir disoproxil fumarate or from the underlying maternal condition.
-Data In a study of 50 HIV-uninfected, breastfeeding women on a tenofovircontaining regimen initiated between 1 and 24 weeks postpartum (median 13 weeks), tenofovir was undetectable in the plasma of most infants after 7 days of treatment in mothers.
+Data In a study of 50 HIV-uninfected, breastfeeding women on a tenofovir-containing regimen initiated between 1 and 24 weeks postpartum (median 13 weeks), tenofovir was undetectable in the plasma of most infants after 7 days of treatment in mothers.
 There were no serious adverse events in mothers or infants.
 
 ## 8.4 Pediatric Use
@@ -59,15 +59,14 @@ The effects of tenofovir disoproxil fumarate -associated changes in BMD and bioc
 The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients 2 years and older, and in particular, the effects of long-duration exposure in younger children is unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
 Safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients younger than 2 years of age and weighing less than 10 kg with HIV-1 infection have not been established.
-Pediatric Patients 12 Years of Age and Older with Chronic Hepatitis B The safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients 12 years to less than 18 years of age is supported by data from one randomized trial (Trial 115) in which tenofovir disoproxil fumarate was administered to HBV-infected treatment-experienced subjects.
+Pediatric Patients 2 Years of Age and Older with Chronic Hepatitis B The safety and effectiveness of tenofovir disoproxil fumarate in pediatric patients 2 years to less than 18 years of age is supported by data from two randomized trials (Trial 115 and Trial 144) in which tenofovir disoproxil fumarate was administered to HBV-infected treatment-experienced subjects.
 In Trial 115, 106 HBeAg negative (9%) and positive (91%) subjects 12 years to less than 18 years of age with chronic HBV infection were randomized to receive blinded treatment with tenofovir disoproxil fumarate or placebo for 72 weeks.
-At Week 72, 88% of subjects in the tenofovir disoproxil fumarate group and 0% of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
+At Week 72, 88% of subjects in the tenofovir disoproxil fumarate group and 0% of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).In Trial 144, 89 HBeAg positive (96%) and negative (4%) subjects 2 years to less than 12 years of age were treated with tenofovir disoproxil fumarate 8 mg/kg up to maximum dose of 300 mg or placebo once daily for 48 weeks.
+At Week 48, 77% of subjects in the tenofovir disoproxil fumarate group and 7% of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
 The effects of tenofovir disoproxil fumarate-associated changes in BMD and biochemical markers on long-term bone health and future fracture risk in chronic HBV-infected pediatric patients 2 years and older are unknown.
 The long-term effect of lower spine and total body BMD on skeletal growth in pediatric patients 2 years and older, and in particular, the effects of long-duration exposure in younger children is unknown [see Warnings and Precautions (5.5), Adverse Reactions (6.1)].
 
 Safety and effectiveness of tenofovir disoproxil fumarate in chronic HBV-infected pediatric patients younger than 2 years of age and weighing less than 10 kg have not been established.
-Pediatric use information is approved for Gilead Sciences, Inc.'s VIREAD (tenofovir disoproxil fumarate) tablets.
-However, due to Gilead Sciences, Inc.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 

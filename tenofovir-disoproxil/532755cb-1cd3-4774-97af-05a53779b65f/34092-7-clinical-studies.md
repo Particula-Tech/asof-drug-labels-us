@@ -3,23 +3,23 @@
 ## 14.1 Overview of Clinical Trials
 
 The efficacy and safety of tenofovir disoproxil fumarate in adults and pediatric subjects were evaluated in the trials summarized in Table 19.
+Table 19 Trials Conducted with Tenofovir Disoproxil Fumarate in Adults and Pediatric Subjects for HIV-1 Treatment and Chronic HBV Treatment
 
 | Trial | Population | Study Arms (N)a | Timepoint (Week) |
 | --- | --- | --- | --- |
-| Trial 903b (NCT00158821) | HIV-1 treatment-naïve adults | tenofovir disoproxil fumarate +lamivudine+efavirenz (299) stavudine+lamivudine+efavirenz (301) | 144 |
-| Trial 934c (NCT00112047 | emtricitabine+ tenofovir disoproxil fumarate +efavirenz (257) zidovudine/lamivudine+efavirenz (254) | 144 |  |
-| Trial 907d (NCT00002450) | HIV-1 treatment-experienced adults | tenofovir disoproxil fumarate (368) Placebo (182) | 24 |
-| Trial 0102b (NCT00117676) | HBeAg-negative adults with chronic HBV | tenofovir disoproxil fumarate (250) HEPSERA (125) | 48 |
-| Trial 0103b (NCT00116805) | HBeAg-positive adults with chronic HBV | tenofovir disoproxil fumarate (176) HEPSERA (90) | 48 |
-| Trial 121b (NCT00737568) | Adults with lamivudine-resistant chronic HBV | tenofovir disoproxil fumarate (141) | 96 |
-| Trial 0108b (NCT00298363) | Adults with chronic HBV and decompensated liver disease | tenofovir disoproxil fumarate (45) | 48 |
-| Trial 352c (NCT00528957) | HIV-1 treatment experienced pediatric subjects 2 years to <12 years | tenofovir disoproxil fumarate (44) stavudine or zidovudine (48) | 48 |
-| Trial 321d (NCT00352053) | HIV-1 treatment-experienced pediatric subjects 12 years to <18 years | tenofovir disoproxil fumarate (45) Placebo (42) | 48 |
-| Trial 115d (NCT00734162) | Pediatric subjects 12 years to <18 years with chronic HBV | tenofovir disoproxil fumarate (52) Placebo (54) | 72 |
+| Trial 903b (NCT00158821) | HIV-1 treatment-naïve adults | Tenofovir Disoproxil Fumarate +lamivudine+efavirenz (299) stavudine+lamivudine+efavirenz (301) | 144 |
+| Trial 934c (NCT00112047) | emtricitabine+ Tenofovir Disoproxil Fumarate +efavirenz (257) zidovudine/lamivudine+efavirenz (254) | 144 |  |
+| Trial 907d (NCT00002450) | HIV-1 treatment-experienced adults | Tenofovir Disoproxil Fumarate (368) Placebo (182) | 24 |
+| Trial 0102b (NCT00117676) | HBeAg-negative adults with chronic HBV | Tenofovir Disoproxil Fumarate (250) HEPSERA (125) | 48 |
+| Trial 0103b (NCT00116805) | HBeAg-positive adults with chronic HBV | Tenofovir Disoproxil Fumarate (176) HEPSERA (90) | 48 |
+| Trial 121b (NCT00737568) | Adults with lamivudine-resistant chronic HBV | Tenofovir Disoproxil Fumarate (141) | 96 |
+| Trial 0108b (NCT00298363) | Adults with chronic HBV and decompensated liver disease | Tenofovir Disoproxil Fumarate (45) | 48 |
+| Trial 352c (NCT00528957) | HIV-1 treatment experienced pediatric subjects 2 years to <12 years | Tenofovir Disoproxil Fumarate (44) stavudine or zidovudine (48) | 48 |
+| Trial 321d (NCT00352053) | HIV-1 treatment-experienced pediatric subjects 12 years to <18 years | Tenofovir Disoproxil Fumarate (45) Placebo (42) | 48 |
+| Trial 115d (NCT00734162) | Pediatric subjects 12 years to <18 years with chronic HBV | Tenofovir Disoproxil Fumarate (52) Placebo (54) | 72 |
+| Trial 144d (NCT01651403) | Pediatric subjects 2 years to <12 years with chronic HBV | Tenofovir Disoproxil Fumarate (60) Placebo (29) | 48 |
 
 a. Randomized and dosed. b. Randomized, double-blind, active-controlled trial. c. Randomized, open-label active-controlled trial. d. Randomized, double-blind, placebo-controlled trial.
-Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.
-However, due to Gilead Sciences, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 14.2 Clinical Trial Results in Adults with HIV-1 Infection
 
@@ -136,8 +136,7 @@ Table 23 Histological, Virological, Biochemical, and Serological Response at Wee
 | Serology HBeAg Loss/ Seroconversion | NAc | NAc | 20%/19% | 16%/16% |
 | HBsAg Loss/ Seroconversion | 0/0 | 0/0 | 3%/1% | 0/0 |
 
-a. Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis. b. The population used for analysis of ALT normalization included only subjects with ALT above ULN at baseline. c. NA = Not Applicable.
-Treatment Beyond 48 Weeks: Trials 0102 and 0103 In Trials 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects who completed double-blind treatment (389 and 196 subjects who were originally randomized to tenofovir disoproxil fumarate and HEPSERA, respectively) were eligible to roll over to open-label tenofovir disoproxil fumarate with no interruption in treatment.
+a. Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis. b. The population used for analysis of ALT normalization included only subjects with ALT above ULN at baseline. c. NA = Not Applicable Treatment Beyond 48 Weeks: Trials 0102 and 0103 In Trials 0102 (HBeAg-negative) and 0103 (HBeAg-positive), subjects who completed double-blind treatment (389 and 196 subjects who were originally randomized to tenofovir disoproxil fumarate and HEPSERA, respectively) were eligible to roll over to open-label tenofovir disoproxil fumarate with no interruption in treatment.
 In Trial 0102, 266 of 347 subjects who entered the open-label period (77%) continued in the trial through Week 384.
 Among subjects randomized to tenofovir disoproxil fumarate followed by open-label treatment with tenofovir disoproxil fumarate, 73% had HBV DNA <400 copies/ml (69 IU/ml), and 63% had ALT normalization at Week 384.
 Among subjects randomized to HEPSERA followed by open-label treatment with tenofovir disoproxil fumarate, 80% had HBV DNA <400 copies/mL (69 IU/mL) and 70% had ALT normalization through Week 384.
@@ -182,7 +181,22 @@ Thirty-one of the 32 nucleos(t)ide-experienced subjects had prior lamivudine exp
 At Week 72, 88% (46/52) of subjects in the tenofovir disoproxil fumarate group and 0% (0/54) of subjects in the placebo group had HBV DNA <400 copies/mL (69 IU/mL).
 Among subjects with abnormal ALT at baseline, 74% (26/35) of subjects receiving tenofovir disoproxil fumarate had normalized ALT at Week 72 compared to 31% (13/42) in the placebo group.
 One tenofovir disoproxil fumarate -treated subject experienced sustained HBsAg-loss and seroconversion to anti-HBs during the first 72 weeks of trial participation.
-In Trial 115, sequencing data from paired baseline and on treatment HBV isolates from subjects who received tenofovir disoproxil fumarate were available for 14 of 15 subjects who had plasma HBV DNA ≥400 copies/mL.
-No amino acid substitutions associated with resistance to tenofovir disoproxil fumarate were identified in these isolates by Week 72 (Trial 115).
-Pediatric use information is approved for Gilead Sciences, Inc.’s VIREAD® (tenofovir disoproxil fumarate) tablets.
-However, due to Gilead Sciences, Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+Pediatric Subjects 2 Years to less than 12 Years of Age with Chronic HBV In Trial 144, 89 HBeAg positive (96%) and negative (4%) subjects 2 years to less than 12 years of age with chronic HBV infection were treated with tenofovir disoproxil fumarate 8 mg/kg up to a maximum dose of 300 mg (N=60) or placebo (N=29) once daily for 48 weeks.
+At trial entry, the mean HBV DNA was 8.1 log10 IU/mL and mean ALT was 123 U/L.
+There was an overall higher proportion in the tenofovir disoproxil fumarate group with HBV DNA <400 copies/mL (69 IU/mL) and ALT normalization rate at Week 48 compared to the placebo group (Table 24).
+There was no difference between treatment groups in those who achieved HBeAg loss or HBeAg seroconversion.
+
+Table 24 Outcomes of Randomized Treatment (Trial 144) in Children 2 Years to <12 Years of Age
+
+| Endpoint at Week 48 | Tenofovir Disoproxil Fumarate N=60 | Placebo N=29 |
+| --- | --- | --- |
+| HBV DNA <400 copies/mL (69 IU/ml) | 46/60 (77%) | 2/29 (7%) |
+| ALT Normalizationa | 38/58 (66%) | 4/27 (15%) |
+| HBeAg lossb | 17/56 (30%) | 8/29 (28%) |
+| HBeAg seroconversionb | 14/56 (25%) | 7/29 (24%) |
+
+a. Normal ALT was defined as ≤ 34 U/L for females 2-15 years or males 1-9 years old, and ≤ 43 U/L for males 10-15 years.
+The ALT Normalization analysis excluded 4 treated subjects who had normal ALT at baseline. b. The analysis excluded 4 subjects who were HBeAg negative and HBeAb positive at baseline.
+In Trials 115 and 144, sequencing data from paired baseline and on treatment HBV isolates from subjects who received tenofovir disoproxil fumarate were available for 14 of 15 subjects who had plasma HBV DNA ≥400 copies/mL.
+No amino acid substitutions associated with resistance to tenofovir disoproxil fumarate were identified in these isolates by Week 72 (Trial 115) or Week 48 (Trial 144).
