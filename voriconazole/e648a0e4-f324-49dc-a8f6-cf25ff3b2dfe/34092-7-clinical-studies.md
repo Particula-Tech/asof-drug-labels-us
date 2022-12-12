@@ -76,8 +76,6 @@ Patients had various underlying diseases and species other than A. fumigatus con
 
 For patients who were infected with a single pathogen and were refractory to, or intolerant of, other antifungal agents, the satisfactory response rates for voriconazole in studies 304 and 309/604 are presented in Table 14.
 
-- Table 14: Combined Response Data in Salvage Patients with Single Aspergillus Species (Studies 304 and 309/604)
-
 Table 14: Combined Response Data in Salvage Patients with Single Aspergillus Species (Studies 304 and 309/604)
 
 |  | Success n/N |
@@ -105,8 +103,6 @@ The primary analysis, which counted DRC-assessed successes at the fixed time poi
 Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
 The overall clinical and mycological success rates by Candida species in Study 150-608 are presented in Table 15.
-
-- Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline Pathogen*, †
 
 Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline Pathogen*, †
 
@@ -146,13 +142,11 @@ Table 16: Success Rates in Patients Treated for Esophageal Candidiasis
 
 * Confidence Interval for the difference (Voriconazole – Fluconazole) in success rates.
 
-† PP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment).
+1. † PP (Per Protocol) patients had confirmation of Candida esophagitis by endoscopy, received at least 12 days of treatment, and had a repeat endoscopy at EOT (end of treatment).
 
 ‡ ITT (Intent to Treat) patients without endoscopy or clinical assessment at EOT were treated as failures.
 
 Microbiologic success rates by Candida species are presented in Table 17.
-
-- Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150-305)
 
 Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150-305)
 
@@ -202,15 +196,13 @@ No patients with rare mold were enrolled.
 A successful global response was defined as resolution or improvement in clinical signs and symptoms and at least 50% resolution of radiological lesions attributed to IA.
 The overall rate of successful global response at 6 weeks in the MITT population is presented in Table 18 below.
 
-1. Table 18: Global Responsea in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)b Population
+Table 18: Global ResponseGlobal response rate was defined as the number of subjects with a successful response (complete or partial) as a percentage of all subjects (including subjects with an indeterminate or missing response) at 6 weeks in the MITT population. in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)The Modified Intent-to-Treat (MITT) population was defined as all subjects who received at least 1 dose of study drug and who were diagnosed with proven or probable IA as defined by the modified EORTC/MSG criteria.
+Population
 
-| Parameter |  | Global Response at Week 6 |  |  |
-| --- | --- | --- | --- | --- |
-|  |  | Ages 2-<12 yearsN=5 | Ages 12-<18 years N=9 | OverallN=14 |
-| Number of successes, n (%) | 2 (40%) |  | 7 (78%) | 9 (64%) |
-
-1. a Global response rate was defined as the number of subjects with a successful response (complete or partial) as a percentage of all subjects (including subjects with an indeterminate or missing response) at 6 weeks in the MITT population.
-2. b The Modified Intent-to-Treat (MITT) population was defined as all subjects who received at least 1 dose of study drug and who were diagnosed with proven or probable IA as defined by the modified EORTC/MSG criteria.
+| Parameter | Global Response at Week 6 |  |  |
+| --- | --- | --- | --- |
+|  | Ages 2-<12 years N=5 | Ages 12-<18 years N=9 | OverallN=14 |
+| Number of successes, n (%) | 2 (40%) | 7 (78%) | 9 (64%) |
 
 The second study enrolled 22 patients with invasive candidiasis including candidemia (ICC) and EC requiring either primary or salvage therapy.
 Patients with ICC aged 2 to less than 12 years and 12 to 14 years with body weight less than 50 kg received an intravenous voriconazole loading dose of 9 mg/kg every 12 hours for the first 24 hours followed by an 8 mg/kg intravenous maintenance dose every 12-hours.
@@ -231,10 +223,11 @@ Of the 17 patients included in the MITT analyses, 9 were 2 to less than 12 years
 For ICC and EC, a successful global response was defined as clinical cure or improvement with microbiological eradication or presumed eradication.
 The overall rate of successful global response at EOT in the MITT population is presented in Table 19 below.
 
-1. Table 19: Global Responsea at the End of Treatment in the Treatment of Invasive Candidiasis with Candidemia and Esophageal Candidiasis Modified Intent-to-Treat (MITT) Populationb
+Table 19: Global ResponseGlobal response was determined based on the investigator’s assessment of clinical and microbiological response in the Modified Intent-to-Treat (MITT) analysis population at end of treatment.
+Subjects with missing data or whose response was deemed indeterminate were considered failures. at the End of Treatment in the Treatment of Invasive Candidiasis with Candidemia and Esophageal Candidiasis Modified Intent-to-Treat (MITT) PopulationThe MITT population was defined as all subjects who received at least 1 dose of study drug and who had microbiologically confirmed invasive candidiasis with candidemia (ICC) and EC, or subjects with EC who had at least confirmation of oropharyngeal candidiasis without confirmation on esophagoscopy.
 
 | Parameter | Global Response at End of Treatment |  |  |  |
 | --- | --- | --- | --- | --- |
-| EC N=10 |  |  | ICCcN=7 |  |
+| EC N=10 |  |  | ICCAll subjects with ICC were aged 2 to less than 12.N=7 |  |
 |  | Ages 2-<12N=2 | Ages 12-<18N=8 | OverallN=10 | OverallN=7 |
 | Number of successes, n (%) | 2 (100%) | 5 (63%) | 7 (70%) | 6 (86%) |

@@ -6,11 +6,11 @@ Voriconazole for Injection
 
 200 mg/vial
 
-Sterile Single Use Vial
+Rx only
+
+Sterile Single-dose Vial
 
 For I.V.
 Infusion Only
-
-Rx only
 
 SANDOZ

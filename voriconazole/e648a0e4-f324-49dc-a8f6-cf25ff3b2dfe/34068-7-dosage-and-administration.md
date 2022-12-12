@@ -55,15 +55,14 @@ Table 1: Recommended Dosing Regimen (Adults)
 
 * Increase dose when voriconazole is co-administered with phenytoin or efavirenz (7); Decrease dose in patients with hepatic impairment (2.5)
 
-† In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
+1. † In healthy volunteer studies, the 200 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 3 mg/kg intravenous infusion every 12 hours dose; the 300 mg oral every 12 hours dose provided an exposure (AUCτ) similar to a 4 mg/kg intravenous infusion every 12 hours dose (12).
 
 ‡ Adult patients who weigh less than 40 kg should receive half of the oral maintenance dose.
 
-§ In a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
-The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) (14.1).
-
-¶ In clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
-Appropriate dose should be based on the severity and nature of the infection.
+1. § In a clinical study of IA, the median duration of intravenous voriconazole therapy was 10 days (range 2 to 85 days).
+   The median duration of oral voriconazole therapy was 76 days (range 2 to 232 days) (14.1).
+2. ¶ In clinical trials, patients with candidemia received 3 mg/kg intravenous infusion every 12 hours as primary therapy, while patients with other deep tissue Candida infections received 4 mg/kg every 12 hours as salvage therapy.
+   Appropriate dose should be based on the severity and nature of the infection.
 
 # Not evaluated in patients with EC.
 
@@ -90,10 +89,10 @@ For pediatric patients 12 to 14 years of age with a body weight greater than or 
 | Scedosporiosis and Fusariosis |  |  |  |
 | Esophageal Candidiasis† | Not Evaluated | 4 mg/kg every 12 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
 
-1. ˆ Based on a population pharmacokinetic analysis in 112 immunocompromised pediatric patients aged 2 to less than 12 years of age and 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.
-2. * In the Phase 3 clinical trials, patients with IA received intravenous (IV) treatment for at least 6 weeks and up to a maximum of 12 weeks.
+1. ˆBased on a population pharmacokinetic analysis in 112 immunocompromised pediatric patients aged 2 to less than 12 years of age and 26 immunocompromised pediatric patients aged 12 to less than 17 years of age.
+2. *In the Phase 3 clinical trials, patients with IA received intravenous (IV) treatment for at least 6 weeks and up to a maximum of 12 weeks.
    Patients received IV treatment for at least the first 7 days of therapy and then could be switched to oral voriconazole therapy.
-3. † Study treatment for primary or salvage invasive candidiasis and candidemia (ICC) or EC consisted of intravenous voriconazole, with an option to switch to oral therapy after at least 5 days of IV therapy, based on subjects meeting switch criteria.
+3. †Study treatment for primary or salvage invasive candidiasis and candidemia (ICC) or EC consisted of intravenous voriconazole, with an option to switch to oral therapy after at least 5 days of IV therapy, based on subjects meeting switch criteria.
    For subjects with primary or salvage ICC, voriconazole was administered for at least 14 days after the last positive culture.
    A maximum of 42 days of treatment was permitted.
    Patients with primary or salvage EC were treated for at least 7 days after the resolution of clinical signs and symptoms.
