@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA076665"
+  ],
+  "inn": "fluconazole",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-130-30",
+    "62135-131-30",
+    "62135-132-77",
+    "62135-133-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "fluconazole",
+      "name": "FLUCONAZOLE"
+    }
+  ],
+  "setid": "f86ea347-78f5-43b8-9574-a52569a4237b",
+  "source": "dailymed"
+}
