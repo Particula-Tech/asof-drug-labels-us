@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205574"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Accord Healthcare, Inc.",
+  "package_ndcs": [
+    "16729-250-03",
+    "16729-251-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "bendamustine hydrochloride"
+    }
+  ],
+  "setid": "33867f0f-f317-1fd0-e054-00144ff8d46c",
+  "source": "dailymed"
+}
