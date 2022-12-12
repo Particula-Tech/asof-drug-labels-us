@@ -2,6 +2,7 @@ Rx ONLY
 
 Manufactured by MW Encap Ltd., Scotland, UK.
 
-Copyright © Chiasma 2020
+©2022 Amryt Pharmaceuticals, Inc. Mycapssa is a registered trademark of the Amryt Pharma Group.
+All rights reserved
 
-Revised: 06/2020
+Revised: 03/2022

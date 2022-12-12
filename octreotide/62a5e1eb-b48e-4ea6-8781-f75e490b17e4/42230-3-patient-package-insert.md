@@ -30,6 +30,6 @@
 | What are the ingredients in MYCAPSSA? |  |  |  |  |
 | Active ingredient: octreotide acetate |  |  |  |  |
 | Inactive ingredients: polyvinylpyrrolidone (PVP-12), sodium caprylate, magnesium chloride, polysorbate 80, glyceryl monocaprylate, glyceryl tricaprylate, gelatin, gelatin capsules, and Acryl-EZE® (methacrylate). |  |  |  |  |
-| Chiasma, Inc. Needham, MA 02494 |  |  |  |  |
-| For more information about MYCAPSSA call the product information department at 1-844-312-2462 or go to www.MYCAPSSA.com and select patient information. |  |  |  |  |
+| Amryt Pharmaceuticals DAC. Dublin, Ireland |  |  |  |  |
+| For more information about MYCAPSSA call the medical information department at 1-855-303-2347 or medinfo@amrytpharma.com or go to www.MYCAPSSA.com and select patient information. |  |  |  |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Approved: 06/2020 |

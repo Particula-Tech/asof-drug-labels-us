@@ -47,5 +47,3 @@ OPENING AND CLOSING INSTRUCTIONS
 28 capsules
 
 Always take with a glass of water on an empty stomach at least 1 hour before a meal or at least 2 hours after a meal.
-
-CHIASMA®

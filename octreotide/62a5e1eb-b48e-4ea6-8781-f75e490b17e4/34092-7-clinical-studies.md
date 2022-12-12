@@ -16,4 +16,4 @@ The primary efficacy endpoint was somatostatin dose-adjusted proportion of patie
 58% of patients treated with MYCAPSSA vs. 19% of patients treated with placebo maintained their biochemical response.
 
 25% of patients treated with MYCAPSSA required discontinuation of MYCAPSSA and treatment with other somatostatin analogs at some point during the 9-month study.
-Criteria for somatostatin analog rescue were IGF-1 levels higher than 1.3 times ULN and exacerbation of acromegaly signs and symptoms on two consecutive assessments while treated for at least 2 weeks with 80 mg/day or other reasons such as adverse reactions or patient's decision.
+Criteria for somatostatin analog rescue were IGF-1 levels ≥ 1.3 times ULN and exacerbation of acromegaly signs and symptoms on two consecutive assessments while treated for at least 2 weeks with 80 mg/day or other reasons such as adverse reactions or patient's decision.

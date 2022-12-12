@@ -82,18 +82,20 @@ Table 3 Effect of Co-administered Drugs on MYCAPSSA Systemic Exposure
 | --- | --- | --- | --- |
 | Co-administered drug and dosing regimen | MYCAPSSA |  |  |
 | Dose (mg) | Mean Ratio (ratio with/without co-administered drug) No Effect=1.0 |  |  |
-| Esomeprazole 40 mg QD on days 2-7 | 20 mg on Day 1 and 20 mg on Day 7 | 0.59Clinically significant [see Dosage and Administration (‎2) and Drug Interactions (‎7.1, ‎7.2)] (0.40 – 0.88)Mean ratio with 90% CI (with/without co-administered drug, e.g., 1= no change, 0.6 = 40% decrease,1.3=1.3-fold increase in exposure) | 0.55 (0.40 – 0.75) |
+| Esomeprazole 40 mg QD on days 2-7 | 20 mg on Day 1 and 20 mg on Day 7 | 0.591 (0.40 – 0.88)2 | 0.551 (0.40 – 0.75)2 |
 | Metoclopramide 20 mg | 40 mg | 0.91 (0.61 – 1.35) | 0.95 (0.62 – 1.44) |
-| Loperamide 4 mg | 40 mg | 0.97 (0.65 – 1.44)3 | 0.91 (0.59 – 1.39)3 |
+| Loperamide 4 mg | 40 mg | 0.97 (0.65 – 1.44)2 | 0.91 (0.59 – 1.39)2 |
+| 1Clinically significant [see Dosage and Administration (‎2) and Drug Interactions (‎7.1, ‎7.2)] 2Mean ratio with 90% CI (with/without co-administered drug, e.g., 1= no change, 0.6 = 40% decrease,1.3=1.3-fold increase in exposure) |  |  |  |
 
 Table 4 Effect of MYCAPSSA on Systemic Exposure of Co-administered Drugs
 
 | Change in AUC | Change in Cmax |  |  |
 | --- | --- | --- | --- |
 | Co-administered drug and dosing regimen | MYCAPSSA |  |  |
-| Dose (mg)Single dose unless otherwise noted. | Mean Ratio (ratio with/without co-administered drug) No Effect=1.0 |  |  |
-| Cyclosporine 300 mg | 20 mg | 0.38Clinically significant [see Dosage and Administration (‎2) and Drug Interactions (‎7.1, ‎7.2)] (0.31 – 0.46)Mean ratio with 90% CI (with/without co-administered drug, e.g., 1= no change, 0.6 = 40% decrease, 1.5=1.5-fold increase in exposure) | 0.29 (0.22 – 0.37) |
-| Digoxin 0.5 mg | 40 mg | 1.0 (0.94 – 1.13) | 0.63 (0.55 – 0.72) |
-| Lisinopril 20 mg | 40 mg | 1.40 (1.21 – 1.61) | 1.50 (1.32 – 1.71) |
-| Ethinyl Estradiol 0.06 mg | 40 mg | 0.94 (0.86 – 1.03) | 0.92 (0.83 – 1.01) |
-| Levonorgestrel 0.3 mg | 40 mg | 0.76 (0.67 – 0.86) | 0.62 (0.54 – 0.71) |
+| Dose (mg)1 | Mean Ratio (ratio with/without co-administered drug) No Effect=1.0 |  |  |
+| Cyclosporine 300 mg | 20 mg | 0.382 (0.31 – 0.46)3 | 0.292 (0.22 – 0.37)3 |
+| Digoxin 0.5 mg | 40 mg | 1.0 (0.94 – 1.13)3 | 0.632 (0.55 – 0.72)3 |
+| Lisinopril 20 mg | 40 mg | 1.402 (1.21 – 1.61)3 | 1.502 (1.32 – 1.71)3 |
+| Ethinyl Estradiol 0.06 mg | 40 mg | 0.94 (0.86 – 1.03)3 | 0.92 (0.83 – 1.01)3 |
+| Levonorgestrel 0.3 mg | 40 mg | 0.762 (0.67 – 0.86)3 | 0.622 (0.54 – 0.71)3 |
+| 1Single dose 2Clinically significant [see Dosage and Administration (‎2) and Drug Interactions (‎7.1, ‎7.2)] 3Mean ratio with 90% CI (with/without co-administered drug, e.g., 1= no change, 0.6 = 40% decrease, 1.5=1.5-fold increase in exposure) |  |  |  |
