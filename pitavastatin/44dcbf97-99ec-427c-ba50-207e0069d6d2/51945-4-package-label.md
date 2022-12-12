@@ -1,14 +1,14 @@
-Principal Display Panel - Bottle Label Livalo 1 mg
+# PRINCIPAL DISPLAY PANEL - 1 mg Tablet Bottle Label
 
 NDC 66869-104-90
 
-Livalo ® (pitavastatin) tablets
+Livalo® (pitavastatin) tablets
 
 1 mg*
 
 Rx Only
 
-LOGO-Kowa-LOGO
+Kowa
 
 Principal Display Panel - Bottle Label Livalo 2 mg
 
@@ -38,7 +38,7 @@ Principal display Panel – Carton 2 mg
 
 FREE SAMPLE NDC 66869-204-07
 
-Livalo ®
+Livalo®
 
 (pitavastatin) tablets
 
@@ -60,7 +60,7 @@ Principal display Panel – Carton 4 mg
 
 FREE SAMPLE NDC 66869-404-07
 
-Livalo ® (pitavastatin) tablets
+Livalo® (pitavastatin) tablets
 
 4 mg*
 

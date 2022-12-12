@@ -17,12 +17,3 @@ Pitavastatin treatment in rabbits resulted in mortality in males and females giv
 Although the cause of death was not determined, rabbits had gross signs of renal toxicity (kidneys whitened) indicative of possible ischemia.
 Lower doses (15-times human systemic exposure) did not show significant toxicity in adult males and females.
 However, decreased implantations, increased resorptions, and decreased viability of fetuses were observed.
-
-## 13.2 Animal Toxicology and/or Pharmacology
-
-Central Nervous System Toxicity
-
-CNS vascular lesions, characterized by perivascular hemorrhages, edema, and mononuclear cell infiltration of perivascular spaces, have been observed in dogs treated with several other members of this drug class.
-A chemically similar drug in this class produced dose-dependent optic nerve degeneration (Wallerian degeneration of retinogeniculate fibers) in dogs, at a dose that produced plasma drug levels about 30 times higher than the mean drug level in humans taking the highest recommended dose.
-Wallerian degeneration has not been observed with pitavastatin.
-Cataracts and lens opacities were seen in dogs treated for 52 weeks at a dose level of 1 mg/kg/day (9 times clinical exposure at the maximum human dose of 4 mg/day based on AUC comparisons).
