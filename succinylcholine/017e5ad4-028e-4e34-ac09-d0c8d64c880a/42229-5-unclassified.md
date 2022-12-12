@@ -1,3 +1,13 @@
-A short-acting depolarizing skeletal muscle relaxant.
+Manufactured by
 
-This drug should be used only by individuals familiar with its actions, characteristics and hazards.
+Cadila Healthcare Ltd.
+
+Vadodara, India
+
+Distributed by
+
+Zydus Pharmaceuticals (USA) Inc.
+
+Pennington, NJ 08534
+
+Rev: 01/22

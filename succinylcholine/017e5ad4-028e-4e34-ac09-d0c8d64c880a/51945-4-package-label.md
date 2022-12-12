@@ -18,8 +18,6 @@ Rx only
 
 Zydus Pharmaceuticals
 
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
-
 Carton Label
 
 NDC 70710-1377-2
