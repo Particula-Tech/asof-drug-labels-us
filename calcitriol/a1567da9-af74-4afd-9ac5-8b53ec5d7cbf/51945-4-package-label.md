@@ -11,7 +11,7 @@ Each gram contains: calcitriol 3mcg in an ointment base consisting of mineral oi
 
 Storage: Store at controlled room temperature 68° - 77° (20° -25°C) with excursions permitted between 59° - 86°F (15° - 30°C).
 Do not freeze or refrigerate.
-US Patent No. 7,749,986 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Made in Canada.
+Marketed by: GALDERMA LABORATORIES, L.P.
+Dallas, Texas 75201 USA Made in Canada.
 All trademarks are the property of their respective owners.
-P51459-5
+P51459-6

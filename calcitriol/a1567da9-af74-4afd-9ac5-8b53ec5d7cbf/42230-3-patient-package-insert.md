@@ -73,4 +73,4 @@ G. Production Inc.
 
 Baie d’Urfé, QC H9X 3S4 Canada
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 07/2020
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 10/2022

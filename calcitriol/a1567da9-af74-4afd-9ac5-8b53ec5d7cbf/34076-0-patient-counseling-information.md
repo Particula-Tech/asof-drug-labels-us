@@ -19,6 +19,6 @@ Patients using VECTICAL Ointment should receive the following information:
 To report SUSPECTED ADVERSE REACTIONS, contact Galderma Laboratories, L.P. at 866-735-4137 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 US Patent No. 7,749,986 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA Made in Canada.
+Dallas, Texas 75201 USA Made in Canada.
 Galderma is a registered trademark.
-P51460-5
+P51460-6
