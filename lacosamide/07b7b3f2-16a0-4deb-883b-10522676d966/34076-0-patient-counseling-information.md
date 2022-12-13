@@ -32,3 +32,25 @@ Pregnancy Registry
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during lacosamide tablets therapy.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding women using lacosamide tablets to monitor infants for excess sleepiness and to seek medical care if they notice this sign [see Use in Specific Populations (8.2)].
+
+Medication Guide available at http://www.alembicusa.com/medicationguide.aspx or call 1-866-210-9797.
+
+Manufactured by:
+
+Alembic Pharmaceuticals Limited
+
+(Formulation Division),
+
+Panelav 389350, Gujarat, India
+
+Manufactured for:
+
+Alembic Pharmaceuticals, Inc.
+
+Bedminster, NJ 07921, USA
+
+Revised: 10/2022
