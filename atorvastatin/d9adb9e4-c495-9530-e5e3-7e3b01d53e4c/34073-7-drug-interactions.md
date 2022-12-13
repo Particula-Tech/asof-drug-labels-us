@@ -1,11 +1,11 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with atorvastatin
+## 7.1 Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin Calcium
 
 Atorvastatin calcium is a substrate of CYP3A4 and transporters (e.g., OATP1B1/1B3, P-gp, or BCRP). atorvastatin calcium plasma levels can be significantly increased with concomitant administration of inhibitors of CYP3A4 and transporters.
-Table 3 includes a list of drugs that may increase exposure to atorvastatin calcium and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Table 3 includes a list of drugs that may increase exposure to atorvastatin and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with atorvastatin calcium
+Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin Calcium
 
 | Cyclosporine or Gemfibrozil |  |
 | --- | --- |
@@ -32,22 +32,22 @@ Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyol
 | Clinical Impact: | Grapefruit juice consumption, especially excessive consumption, more than 1.2 liters/daily, can raise the plasma levels of atorvastatin and may increase the risk of myopathy and rhabdomyolysis. |
 | Intervention: | Avoid intake of large quantities of grapefruit juice, more than 1.2 liters daily, when taking atorvastatin calcium. |
 
-## 7.2 Drug Interactions that may Decrease Exposure to atorvastatin calcium
+## 7.2 Drug Interactions that may Decrease Exposure to Atorvastatin Calcium
 
-Table 4 presents drug interactions that may decrease exposure to atorvastatin calcium and instructions for preventing or managing them.
+Table 4 presents drug interactions that may decrease exposure to Atorvastatin Calcium and instructions for preventing or managing them.
 
-Table 4: Drug Interactions that may Decrease Exposure to atorvastatin calcium
+Table 4: Drug Interactions that may Decrease Exposure to Atorvastatin Calcium
 
 | Rifampin |  |
 | --- | --- |
 | Clinical Impact: | Concomitant administration of atorvastatin calcium with rifampin, an inducer of cytochrome P450 3A4 and inhibitor of OATP1B1, can lead to variable reductions in plasma concentrations of atorvastatin. Due to the dual interaction mechanism of rifampin, delayed administration of atorvastatin calcium after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. |
 | Intervention: | Administer atorvastatin calcium and rifampin simultaneously. |
 
-## 7.3 Atorvastatin calcium Effects on Other Drugs
+## 7.3 Atorvastatin Calcium Effects on Other Drugs
 
 Table 5 presents atorvastatin calcium effect on other drugs and instructions for preventing or managing them.
 
-Table 5: Atorvastatin calcium Effects on Other Drugs
+Table 5: Atorvastatin Calcium Effects on Other Drugs
 
 | Oral Contraceptives |  |
 | --- | --- |

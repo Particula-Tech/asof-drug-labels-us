@@ -89,7 +89,7 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Co-administered drug and dosing regimen | Atorvastatin |  |  |
 | #Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDa for 28 days | 8.69 | 10.66 |
 | #Tipranavir 500 mg BIDb/ritonavir 200 mg BIDb, 7 days | 10 mg, SDc | 9.36 | 8.58 |
-| #Glecaprevir 400 mg QDa/pibrentasvir 120 mg QDa, 7 days | 10 mg QDa for 7 days | 8.28 | 22.00 |
+| #Glecaprevir 400 mg QDa/pibrentasvir 120 mg QDa, 7 days | 10 mg QDa for 7 days | 8.28 | 22 |
 | #Telaprevir 750 mg q8hf, 10 days | 20 mg, SDc | 7.88 | 10.60 |
 | #, ‡Saquinavir 400 mg BIDb/ ritonavir 400 mg BIDb, 15 days | 40 mg QDa for 4 days | 3.93 | 4.31 |
 | #Elbasvir 50 mg QDa /grazoprevir 200 mg QDa, 13 days | 10 mg SDc | 1.94 | 4.34 |
@@ -102,16 +102,16 @@ Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | #Fosamprenavir 1400 mg BIDb, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
 | #Nelfinavir 1250 mg BIDb, 14 days | 10 mg QDa for 28 days | 1.74 | 2.22 |
 | #Grapefruit Juice, 240 mL QDa * | 40 mg, SDc | 1.37 | 1.16 |
-| Diltiazem 240 mg QDa, 28 days | 40 mg, SDc | 1.51 | 1.00 |
+| Diltiazem 240 mg QDa, 28 days | 40 mg, SDc | 1.51 | 1 |
 | Erythromycin 500 mg QIDe, 7 days | 10 mg, SDc | 1.33 | 1.38 |
 | Amlodipine 10 mg, single dose | 80 mg, SDc | 1.18 | 0.91 |
-| Cimetidine 300 mg QIDe, 2 weeks | 10 mg QDa for 2 weeks | 1.00 | 0.89 |
+| Cimetidine 300 mg QIDe, 2 weeks | 10 mg QDa for 2 weeks | 1 | 0.89 |
 | Colestipol 10 g BIDb, 24 weeks | 40 mg QDa for 8 weeks | NA | 0.74** |
 | Maalox TC® 30 mL QIDe, 17 days | 10 mg QDa for 15 days | 0.66 | 0.67 |
 | Efavirenz 600 mg QDa, 14 days | 10 mg for 3 days | 0.59 | 1.01 |
 | #Rifampin 600 mg QDa, 7 days (co-administered) † | 40 mg SDc | 1.12 | 2.90 |
 | #Rifampin 600 mg QDa, 5 days (doses separated) † | 40 mg SDc | 0.20 | 0.60 |
-| #Gemfibrozil 600 mg BIDb, 7 days | 40 mg SDc | 1.35 | 1.00 |
+| #Gemfibrozil 600 mg BIDb, 7 days | 40 mg SDc | 1.35 | 1 |
 | #Fenofibrate 160 mg QDa, 7 days | 40 mg SDc | 1.03 | 1.02 |
 | Boceprevir 800 mg TIDd, 7 days | 40 mg SDc | 2.32 | 2.66 |
 

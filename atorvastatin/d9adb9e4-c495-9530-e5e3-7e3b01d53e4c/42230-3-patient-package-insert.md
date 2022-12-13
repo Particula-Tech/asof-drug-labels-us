@@ -42,7 +42,7 @@ Who Should Not Take Atorvastatin Calcium Tablets?
 Do not take atorvastatin calcium tablets if you:
 
 - are pregnant or think you may be pregnant or are planning to become pregnant.
-  Atorvastatin calcium tablets may harm your unborn baby.
+  Atorvastatin calcium may harm your unborn baby.
   If you get pregnant, stop taking atorvastatin calcium tablets and call your doctor right away.
 - are breast feeding.
   Atorvastatin calcium can pass into your breast milk and may harm your baby.
@@ -182,7 +182,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: January 2021
+Revised: December 2022
 
 Rev.
-19
+20
