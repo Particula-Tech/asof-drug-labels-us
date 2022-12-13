@@ -1,13 +1,29 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-## PRINCIPAL DISPLAY PANEL-25 MG CONTAINER LABEL - 30'S COUNT
+## PRINCIPAL DISPLAY PANEL-25 MG CONTAINER LABEL
 
 NDC 70954-135-10
 
-Dapsone Tablets USP 25 mg Rx only 30 Tablets Novitium Pharma
+Dapsone Tablets USP, 25 mg
 
-## PRINCIPAL DISPLAY PANEL-100 MG CONTAINER LABEL - 30'S COUNT
+Rx only 30 Tablets
+
+NDC 70954-135-20
+
+Dapsone Tablets USP, 25 mg
+
+Rx only 100 Tablets
+
+## PRINCIPAL DISPLAY PANEL-100 MG CONTAINER LABEL
 
 NDC 70954-136-10
 
-Dapsone Tablets USP 100 mg Rx only 30 Tablets Novitium Pharma
+Dapsone Tablets USP, 100 mg
+
+Rx only 30 Tablets
+
+NDC 70954-136-20
+
+Dapsone Tablets USP, 100 mg
+
+Rx only 100 Tablets
