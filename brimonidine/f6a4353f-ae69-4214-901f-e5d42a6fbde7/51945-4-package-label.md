@@ -24,4 +24,4 @@ See bottom of carton for lot number and expiration date.
 All trademarks are the property of their respective owners.
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, TX 76177 USA Made in Canada P52848-2
+Dallas, TX 75201 USA Made in Canada P52848-3
