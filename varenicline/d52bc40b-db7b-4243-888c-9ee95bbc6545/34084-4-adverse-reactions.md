@@ -2,10 +2,10 @@
 
 The following serious adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the labeling:
 
-- Neuropsychiatric symptoms and suicidality [see Boxed Warning and Warnings and Precautions (5.1)
-- Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.2)]
-- Serious skin reactions [see Warnings and Precautions (5.3)]
-- Accidental injury [see Warnings and Precautions (5.5)]
+- • Neuropsychiatric symptoms and suicidality [see Boxed Warning and Warnings and Precautions (5.1)
+- • Angioedema and hypersensitivity reactions [see Warnings and Precautions (5.2)]
+- • Serious skin reactions [see Warnings and Precautions (5.3)]
+- • Accidental injury [see Warnings and Precautions (5.5)]
 
 In the placebo-controlled studies, the most common adverse events associated with CHANTIX (>5% and twice the rate seen in placebo-treated patients) were nausea, abnormal (vivid, unusual, or strange) dreams, constipation, flatulence, and vomiting.
 
