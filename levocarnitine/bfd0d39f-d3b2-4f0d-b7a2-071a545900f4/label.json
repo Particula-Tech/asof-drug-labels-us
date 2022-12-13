@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA216384"
+  ],
+  "inn": "levocarnitine",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-492-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levocarnitine",
+      "name": "Levocarnitine"
+    }
+  ],
+  "setid": "bfd0d39f-d3b2-4f0d-b7a2-071a545900f4",
+  "source": "dailymed"
+}
