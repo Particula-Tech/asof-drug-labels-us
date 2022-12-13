@@ -14,7 +14,7 @@
 - •Advise patients to avoid eating grapefruit or drinking grapefruit juice or alcoholic beverages while taking ASTAGRAF XL [see Drug Interactions (7.2)].
 - •Therapeutic drug monitoring is recommended for all patients receiving ASTAGRAF XL [see Dosage and Administration (2.4)].
 
-## 2.2 Dosing for Kidney Transplant Patients
+## 2.2 Dosage Recommendations for Kidney Transplant Patients
 
 Table 1 includes the recommended starting ASTAGRAF XL dosages and whole blood trough concentration ranges; the observed trough concentrations are shown in another section of the Full Prescribing Information [see Clinical Studies (14)].
 Titrate the ASTAGRAF XL dosage based on clinical assessments of rejection and tolerability, and to achieve target trough concentration ranges [see Dosage and Administration (2.4) and Warnings and Precautions (5.6, 5.7, 5.10, 5.11)].
@@ -31,7 +31,7 @@ Table 1: Recommended Starting Daily Dosage Regimen of ASTAGRAF XL
 | With basiliximab, MMF and steroids | 0.3 mg/kg once daily, administered within 24 hours following reperfusion. | • Month 1: 10-20 ng/mL • > Month 1: 5-15 ng/mL |
 | MMF = mycophenolate mofetil |  |  |
 
-## 2.3 Dosage Adjustments: African-American Patients, Patients with Hepatic Impairment, Drug Interactions
+## 2.3 Dosage Modifications for African-American Patients, Patients with Hepatic Impairment, and Drug Interactions
 
 African-American patients, compared to Caucasian patients, may need to be titrated to higher ASTAGRAF XL dosages to attain comparable trough concentrations [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
@@ -41,7 +41,7 @@ Dose adjustments of ASTAGRAF XL may be necessary when administered concomitantly
 
 ## 2.4 Therapeutic Drug Monitoring
 
-Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after a change in dosage, after a change in coadministration of CYP3A4 inducers and/or inhibitors, or after a change in renal or hepatic function.
+Measure tacrolimus whole blood trough concentrations at least two times on separate days during the first week after initiation of dosing and after a change in dosage, after a change in co-administration of CYP3A4 inducers and/or inhibitors, or after a change in renal or hepatic function.
 When interpreting measured concentrations, consider that the time to achieve tacrolimus steady state is approximately 7 days after initiating or changing the ASTAGRAF XL dose.
 
 Monitor tacrolimus whole blood trough concentrations using a validated assay [e.g., immunoassays or high performance liquid chromatography with tandem mass spectrometric detection (HPLC/MS/MS)].

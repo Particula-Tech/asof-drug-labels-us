@@ -21,7 +21,7 @@ Advise patients or caregivers to:
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients that they are at an increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
@@ -51,13 +51,19 @@ Monitoring of potassium levels may be necessary, especially with concomitant use
 Inform patients that ASTAGRAF XL can cause high blood pressure which may require treatment with anti-hypertensive therapy [see Warnings and Precautions (5.9)].
 Advise patients to monitor their blood pressure.
 
-## 17.9 Drug Interactions
+## 17.9 Thrombotic Microangiopathy
+
+Inform patients that ASTAGRAF XL can cause blood clotting problems.
+The risk of this occurring increases when patients take ASTAGRAF XL and sirolimus or everolimus concomitantly, or when patients develop certain infections.
+Advise them to seek medical attention promptly if they develop fever, petequiae or bruises, fatigue, confusion, jaundice, oliguria [see Warnings and Precautions (5.14)].
+
+## 17.10 Drug Interactions
 
 Instruct patients to tell their healthcare providers when they start or stop taking any medicines, including prescription and nonprescription medicines, herbal and dietary supplements.
 Some medications could alter tacrolimus concentrations in the blood and thus may require the adjustment of the dosage of ASTAGRAF XL.
 Advise patients to avoid grapefruit, grapefruit juice and alcoholic beverages [see Warnings and Precautions (5.10) and Drug Interactions (7)].
 
-## 17.10 Pregnancy, Lactation and Infertility
+## 17.11 Pregnancy, Lactation and Infertility
 
 Inform women of childbearing potential that ASTAGRAF XL can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
@@ -68,16 +74,14 @@ To enroll or register, patients can call the toll free number 1-877-955-6877 or 
 
 Based on animal studies, ASTAGRAF XL may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
-## 17.11 Immunizations
+## 17.12 Immunizations
 
 Inform patients that ASTAGRAF XL can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.12)].
 
 Product of Japan
 
-Manufactured by: Astellas Ireland Co., Limited Killorglin, County Kerry, Ireland
-
-Marketed by: Astellas Pharma US, Inc. Northbrook, IL 60062
+Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
 ASTAGRAF XL® is a registered trademark of Astellas Pharma Inc. Prograf ® is a registered trademark of Astellas Pharma Inc.
 
-283237-AST
+341124-AST

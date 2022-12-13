@@ -55,9 +55,7 @@ Data
 
 Human Data There are no adequate and well-controlled studies on the effects of tacrolimus in human pregnancy.
 
-Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight
-
-(< 2500 g), birth defects/congenital anomalies and fetal distress.
+Safety data from the TPRI and postmarketing surveillance suggest infants exposed to tacrolimus in utero have an increased risk for miscarriage, pre-term delivery (< 37 weeks), low birth weight (< 2500 g), birth defects/congenital anomalies and fetal distress.
 
 TPRI reported 450 and 241 total pregnancies in kidney and liver transplant recipients exposed to tacrolimus, respectively.
 The TPRI pregnancy outcomes are summarized in Table 6.

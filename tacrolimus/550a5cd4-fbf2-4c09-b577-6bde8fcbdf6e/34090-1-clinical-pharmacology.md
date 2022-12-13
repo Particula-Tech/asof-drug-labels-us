@@ -55,7 +55,7 @@ In a U.S. trial in which tacrolimus was administered as tacrolimus immediate-rel
 Elimination
 
 Metabolism The desired pharmacological activity of tacrolimus is primarily due to the parent drug.
-Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
+Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A4 and CYP3A5).
 A metabolic pathway leading to the formation of 8 possible metabolites has been proposed.
 Demethylation and hydroxylation were identified as the primary mechanisms of biotransformation in vitro.
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.
@@ -108,7 +108,7 @@ Table 9: Tacrolimus Pharmacokinetic Parameters at Steady State Following 1:1 (mg
 | Cmax (ng/mL) | 14.9 ± 5.8(4.9 – 34.4) | 12.5 ± 4.5(5.4 – 24.4) |  |
 | C24a (ng/mL) | 5.6 ± 1.9(2.9 – 13.8) | 5.1 ± 1.4(2.0 – 8.4) |  |
 
-- a Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules and at 24 hours after the morning dose of ASTAGRAF XL once daily under steady-state conditions.
+1. a Observed whole blood tacrolimus trough levels at 12 hours following the evening dose of Prograf capsules and at 24 hours after the morning dose of ASTAGRAF XL once daily under steady-state conditions.
 
 Patients with Renal Impairment Tacrolimus pharmacokinetics following a single administration of tacrolimus immediate-release injection (administered as a continuous IV infusion) were determined in 12 patients (7 not on dialysis and 5 on dialysis, serum creatinine of 3.9 ± 1.6 and 12.0 ± 2.4 mg/dL, respectively) prior to their kidney transplant.
 The mean clearance of tacrolimus in patients with renal dysfunction given tacrolimus IV was similar to that in healthy subjects given tacrolimus IV and in healthy subjects given oral tacrolimus immediate-release [see Use in Specific Populations (8.6)].
@@ -138,3 +138,7 @@ Dosing adjustments, when using drugs that inhibit or increase CYP3A enzymes, may
 Figure 1: Effect of Co-administered Drugs on the Pharmacokinetics of Tacrolimus (when Given as ASTAGRAF XL)
 
 Figure 2: Effect of Co-administered Drugs on the Pharmacokinetics of Tacrolimus (when Given as Immediate-Release Tacrolimus)
+
+1. Other Drug Interaction Studies
+2. •Caspofungin (see complete prescribing information for CANCIDAS): Caspofungin reduced the blood AUC0-12 of tacrolimus by approximately 20%, peak blood concentration (Cmax) by 16%, and 12-hour blood concentration (C12hr) by 26% in healthy adult subjects when tacrolimus (2 doses of 0.1 mg/kg 12 hours apart) was administered on the 10th day of CANCIDAS 70 mg daily, as compared to results from a control period in which tacrolimus was administered alone [see Drug Interactions (7.2)].
+   The mechanism of interaction has not been confirmed.
