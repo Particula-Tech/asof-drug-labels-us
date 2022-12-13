@@ -1,11 +1,95 @@
-# Revlimid (lenalidomide) Capsules 2.5 mg 28 Count Bottle
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-# Revlimid (lenalidomide) Capsules 5 mg 28 Count Bottle
+NDC 59572-402-28
 
-# Revlimid (lenalidomide) Capsules 10 mg 28 Count Bottle
+Revlimid
 
-# Revlimid (lenalidomide) Capsules 15 mg 21 Count Bottle
+(lenalidomide) Capsules
 
-# Revlimid (lenalidomide) Capsules 20 mg 21 Count Bottle
+2.5 mg
 
-Revlimid (lenalidomide) Capsules, 25 mg - 21 Count Bottle
+WARNING: POTENTIAL FOR HUMAN BIRTH DEFECTS.
+
+Rx Only
+
+28 Capsules
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 59572-405-28
+
+Revlimid
+
+(lenalidomide) Capsules
+
+5 mg
+
+WARNING: POTENTIAL FOR HUMAN BIRTH DEFECTS.
+
+Rx Only
+
+28 Capsules
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 59572-410-28
+
+Revlimid
+
+(lenalidomide) Capsules
+
+10 mg
+
+WARNING: POTENTIAL FOR HUMAN BIRTH DEFECTS.
+
+Rx Only
+
+28 Capsules
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 59572-415-21
+
+Revlimid
+
+(lenalidomide) Capsules
+
+15 mg
+
+WARNING: POTENTIAL FOR HUMAN BIRTH DEFECTS.
+
+Rx Only
+
+21 Capsules
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 59572-420-21
+
+Revlimid
+
+(lenalidomide) Capsules
+
+20 mg
+
+WARNING: POTENTIAL FOR HUMAN BIRTH DEFECTS.
+
+Rx Only
+
+21 Capsules
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 59572-425-21
+
+Revlimid
+
+(lenalidomide) Capsules
+
+25 mg
+
+WARNING: POTENTIAL FOR HUMAN BIRTH DEFECTS.
+
+Rx Only
+
+21 Capsules

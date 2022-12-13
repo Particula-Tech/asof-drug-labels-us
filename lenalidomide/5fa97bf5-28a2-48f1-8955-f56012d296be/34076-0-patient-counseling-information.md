@@ -25,7 +25,7 @@ Because of the risk of embryo-fetal toxicity, REVLIMID is only available through
 - •Patients must sign a Patient-Physician agreement form and comply with the requirements to receive REVLIMID.
   In particular, females of reproductive potential must comply with the pregnancy testing, contraception requirements and participate in monthly telephone surveys.
   Males must comply with the contraception requirements [see Use in Specific Populations (8.3)].
-- •REVLIMID is available only from pharmacies that are certified in Lenalidomide REMS program.
+- •REVLIMID is available only from pharmacies that are certified in the Lenalidomide REMS program.
   Provide patients with the telephone number and website for information on how to obtain the product.
 
 Pregnancy Exposure Registry
@@ -88,10 +88,8 @@ Inform patients how to take REVLIMID [see Dosage and Administration (2)]
   The next day, they should take REVLIMID at the usual time.
   Warn patients to not take 2 doses to make up for the one that they missed.
 
-Manufactured for: Celgene Corporation 86 Morris Avenue Summit, NJ 07901
+Marketed by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-REVLIMID® is a registered trademark of Celgene Corporation.
+REVLIMID® is a trademark of Celgene Corporation, a Bristol-Myers Squibb company.
 
-© 2022 Celgene Corporation, All Rights Reserved.
-
-RevPlyPI.029/MG.029
+RevPlyPI.030/MG.030
