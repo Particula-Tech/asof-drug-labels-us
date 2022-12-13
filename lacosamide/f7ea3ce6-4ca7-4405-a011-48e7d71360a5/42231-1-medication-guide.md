@@ -1,4 +1,6 @@
-# MEDICATION GUIDE Lacosamide (la-KOE-sa-mide) film coated tablet, for oral use, CV
+# MEDICATION GUIDE
+
+Lacosamide (la-KOE-sa-mide) film coated tablet, for oral use, CV
 
 Read this Medication Guide before you start taking lacosamide tablets and each time you get a refill.
 There may be new information.
@@ -60,8 +62,10 @@ Before you take lacosamide tablets, tell your healthcare provider about all of y
     You can enroll in this registry by calling 1-888-233-2334.
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 - are breastfeeding or plan to breastfeed.
-  It is not known if lacosamide passes into your breast milk or if it can harm your baby.
-  Talk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
+  Lacosamide passes into breast milk.
+  - Breastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
+    If this happens, contact your baby's healthcare provider.
+  - Talk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -148,4 +152,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Revised: 03/2022
+Revised: 10/2022

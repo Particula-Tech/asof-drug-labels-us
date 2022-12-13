@@ -9,14 +9,14 @@ Encourage women who are taking lacosamide during pregnancy to enroll in the Nort
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with the use of lacosamide in pregnant women.
-
+Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with lacosamide use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
 Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
 Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy.
 These effects were observed at doses associated with clinically relevant plasma exposures (see Data).
 
-In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
@@ -42,10 +42,15 @@ Potential adverse effects on CNS development related to this activity cannot be 
 
 Risk Summary
 
-There are no data on the presence of lacosamide in human milk, the effects on the breastfed infant, or the effects on milk production.
-Studies in lactating rats have shown excretion of lacosamide and/or its metabolites in milk.
+Data from published literature indicate that lacosamide is present in human milk.
+There are reports of increased sleepiness in breastfed infants exposed to lacosamide (see Clinical Considerations).
+There is no information on the effects of lacosamide on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for lacosamide and any potential adverse effects on the breastfed infant from lacosamide or from the underlying maternal condition.
+
+Clinical Considerations
+
+Monitor infants exposed to lacosamide through breastmilk for excess sedation.
 
 ## 8.4 Pediatric Use
 
