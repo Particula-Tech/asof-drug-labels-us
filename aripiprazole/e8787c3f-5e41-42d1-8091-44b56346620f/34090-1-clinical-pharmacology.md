@@ -8,7 +8,7 @@ However, the efficacy of aripiprazole could be mediated through a combination of
 ## 12.2 Pharmacodynamics
 
 Aripiprazole exhibits high affinity for dopamine D2 and D3, serotonin 5-HT1A and 5-HT2A receptors (Ki values of 0.34 nM, 0.8 nM, 1.7 nM, and 3.4 nM, respectively), moderate affinity for dopamine D4, serotonin 5-HT2C and 5-HT7, alpha1-adrenergic and histamine H1 receptors (Ki values of 44 nM, 15 nM, 39 nM, 57 nM, and 61 nM, respectively), and moderate affinity for the serotonin reuptake site (Ki=98 nM).
-Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1000 nM).
+Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1,000 nM).
 Actions at receptors other than D2, 5-HT1A, and 5-HT2A may explain some of the adverse reactions of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
 ## 12.3 Pharmacokinetics
@@ -49,25 +49,25 @@ Less than 1% of unchanged aripiprazole was excreted in the urine and approximate
 
 Drug Interaction Studies
 
-Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
+Effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
 Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
 A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
-Figure 1: The Effects of Other Drugs on Aripiprazole Pharmacokinetics
+Figure 1: The Effect of Other Drugs on Aripiprazole Pharmacokinetics
 
-Figure 2: The Effects of Other Drugs on Dehydro-aripiprazole Pharmacokinetics
+Figure 2: The Effect of Other Drugs on Dehydro-Aripiprazole Pharmacokinetics
 
-The effects of aripiprazole on the exposures of other drugs are summarized in Figure 3.
+The effect of aripiprazole on the exposures of other drugs are summarized in Figure 3.
 A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 or 40 mg/day), paroxetine CR (37.5 or 50 mg/day), or sertraline (100 or 150 mg/day) dosed to steady-state.
 The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
 The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were coadministered with aripiprazole.
 
-Figure 3: The Effects of Aripiprazole on Pharmacokinetics of Other Drugs
+Figure 3: The Effect of Aripiprazole on Pharmacokinetics of Other Drugs
 
 Specific Populations
 
-Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
+Exposure of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
 
-Figure 4: Effects of Intrinsic Factors on Aripiprazole Pharmacokinetics
+Figure 4: Effect of Intrinsic Factors on Aripiprazole Pharmacokinetics
 
-Figure 5: Effects of Intrinsic Factors on Dehydro-aripiprazole Pharmacokinetics
+Figure 5: Effect of Intrinsic Factors on Dehydro-Aripiprazole Pharmacokinetics

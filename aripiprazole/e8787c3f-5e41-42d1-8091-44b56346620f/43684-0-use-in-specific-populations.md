@@ -76,8 +76,8 @@ Antidepressants increased the risk of suicidal thoughts and behaviors in pediatr
 
 No dosage adjustment of ABILIFY MYCITE is recommended for elderly patients for the approved indications [see Boxed Warning, Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
-Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1,073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
+Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Elderly patients treated with antipsychotic drugs with dementia-related psychosis had a greater incidence of stroke and transient ischemic attack.

@@ -84,9 +84,9 @@ Adjunctive Therapy
 The efficacy of adjunctive aripiprazole tablets with concomitant lithium or valproate in the treatment of manic or mixed episodes associated with Bipolar I Disorder was established in a 6-week placebo-controlled study (n=384) with a 2-week lead-in mood stabilizer monotherapy phase in adult patients who met DSM-IV criteria for bipolar I disorder.
 This study included patients with manic or mixed episodes and with or without psychotic features.
 
-Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 μg/mL) at therapeutic serum levels and remained on stable doses for 2 weeks.
+Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 mcg/mL) at therapeutic serum levels and remained on stable doses for 2 weeks.
 At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤25% improvement on the Y-MRS total score) to lithium or valproate were randomized to receive either aripiprazole tablets (15 mg/day or an increase to 30 mg/day as early as Day 7) or placebo as adjunctive therapy with open-label lithium or valproate.
-In the 6-week placebo-controlled phase, adjunctive aripiprazole tablets starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 to 1.0 mEq/L or 50 to 125 μg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score (Study 5 in Table 15) and CGI-BP Severity of Illness score (mania).
+In the 6-week placebo-controlled phase, adjunctive aripiprazole tablets starting at 15 mg/day with concomitant lithium or valproate (in a therapeutic range of 0.6 to 1.0 mEq/L or 50 to 125 mcg/mL, respectively) was superior to lithium or valproate with adjunctive placebo in the reduction of the Y-MRS total score (Study 5 in Table 15) and CGI-BP Severity of Illness score (mania).
 Seventy-one percent of the patients coadministered valproate and 62% of the patients coadministered lithium were on 15 mg/day at 6-week endpoint.
 
 Table 15: Bipolar Studies
@@ -94,16 +94,16 @@ Table 15: Bipolar Studies
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: Y-MRS |  |  |
-| Study 1 | Aripiprazole tablets (30/15 mg/day) Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
+| Study 1 | Aripiprazole tablets (30/15 mg/day)Doses statistically significantly superior to placebo. | 29.0 (5.9) | -12.52 (1.05) | -5.33 (-7.90, -2.76) |
 |  | Placebo | 28.5 (4.6) | -7.19 (1.07) | -- |
 | Study 2 | Aripiprazole tablets (30/15 mg/day) | 27.8 (5.7) | -8.15 (1.23) | -4.80 (-7.80, -1.80) |
-|  | Placebo | 29.1 (6.9) | -3.35(1.22) | -- |
+|  | Placebo | 29.1 (6.9) | -3.35 (1.22) | -- |
 | Study 3 | Aripiprazole tablets (15 to 30 mg/day) | 28.5 (5.6) | -12.64 (0.84) | -3.63 (-5.75, -1.51) |
 |  | Placebo | 28.9 (5.9) | 9.01 (0.81) | -- |
 | Study 4 | Aripiprazole tablets (15 to 30 mg/day) | 28.0 (5.8) | -11.98 (0.80) | -2.28 (-4.44, -0.11) |
 |  | Placebo | 28.3 (5.8) | -9.70 (0.83) | -- |
 | Study 5 | Aripiprazole tablets (15 or 30 mg/day) + Lithium/Valproate | 23.2 (5.7) | -13.31 (0.50) | -2.62 (-4.29, -0.95) |
-|  | Placebo + Lithium/Valproate | 23.0 (4.9) | -10.70 (0.69) | -- |
+| Placebo + Lithium/Valproate | 23.0 (4.9) | -10.70 (0.69) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: unadjusted confidence interval. |  |  |  |  |
 
 Maintenance Treatment of Bipolar I Disorder
@@ -125,7 +125,7 @@ Figure 7: Kaplan-Meier Estimation of Cumulative Proportion of Patients with Rela
 Adjunctive Maintenance Therapy
 
 An adjunctive maintenance trial was conducted in adult patients meeting DSM-IV criteria for bipolar I disorder with a recent manic or mixed episode.
-Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 μg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
+Patients were initiated on open-label lithium (0.6 to 1.0 mEq/L) or valproate (50 to 125 mcg/mL) at therapeutic serum levels, and remained on stable doses for 2 weeks.
 At the end of 2 weeks, patients demonstrating inadequate response (Y-MRS total score ≥16 and ≤35% improvement on the Y-MRS total score) to lithium or valproate received aripiprazole tablets with a starting dose of 15 mg/day with the option to increase to 30 mg or reduce to 10 mg as early as Day 4, as adjunctive therapy with open-label lithium or valproate.
 Prior to randomization, patients on the combination of single-blind aripiprazole tablets and lithium or valproate were required to maintain stability (Y-MRS and MADRS total scores ≤12) for 12 consecutive weeks.
 Three hundred thirty-seven patients were then randomized in a double-blind fashion, to either the same dose of aripiprazole tablets they were on at the end of the stabilization period or placebo plus lithium or valproate and were then monitored for manic, mixed, or depressive relapse for a maximum of 52 weeks.
@@ -165,7 +165,7 @@ Table 16: Adjunctive Treatment of Major Depressive Disorder Studies
 |  |  | Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted DifferenceDifference (drug minus placebo) in least-squares mean change from baseline. (95% CI) |
 | --- | --- | --- | --- | --- |
 | Study Number | Treatment Group | Primary Efficacy Measure: MADRS |  |  |
-| Study 1 | Aripiprazole tablets (5 to 20 mg/day) Doses statistically significantly superior to placebo. + Antidepressant | 25.2(6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
+| Study 1 | Aripiprazole tablets (5 to 20 mg/day)Doses statistically significantly superior to placebo. + Antidepressant | 25.2 (6.2) | -8.49 (0.66) | -2.84 (-4.53, -1.15) |
 |  | Placebo + Antidepressant | 27.0 (5.5) | -5.65 (0.64) | -- |
 | Study 2 | Aripiprazole tablets (5 to 20 mg/day) + Antidepressant | 26.0 (6.0) | -8.78 (0.63) | -3.01 (-4.66, -1.37) |
 |  | Placebo + Antidepressant | 26.0 (6.5) | -5.77 (0.67) | -- |

@@ -168,7 +168,7 @@ Weight Gain
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
-In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1673) compared to –0.1 kg (N=1100) in placebo-controlled patients.
+In an analysis of 13 placebo-controlled monotherapy trials, primarily from pooled schizophrenia and bipolar disorder, with a median exposure of 21 to 25 days, the mean change in body weight in aripiprazole-treated patients was +0.3 kg (N=1,673) compared to –0.1 kg (N=1,100) in placebo-controlled patients.
 At 24 weeks, the mean change from baseline in body weight in aripiprazole-treated patients was –1.5 kg (n=73) compared to –0.2 kg (n=46) in placebo-treated patients.
 
 In the trials adding aripiprazole to antidepressants, patients first received 8 weeks of antidepressant treatment followed by 6 weeks of adjunctive aripiprazole or placebo in addition to their ongoing antidepressant treatment.
@@ -221,11 +221,11 @@ In patients with a history of a clinically significant low WBC/ANC or drug-induc
 In such patients, consider discontinuation of ABILIFY MYCITE at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue ABILIFY MYCITE in patients with severe neutropenia (absolute neutrophil count <1000/mm3) and follow their WBC counts until recovery.
+Discontinue ABILIFY MYCITE in patients with severe neutropenia (absolute neutrophil count <1,000/mm3) and follow their WBC counts until recovery.
 
 ## 5.11 Seizures
 
-In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2467) of undiagnosed adult patients treated with oral aripiprazole.
+In short-term, placebo-controlled trials, patients with a history of seizures excluded seizures/convulsions occurred in 0.1% (3/2,467) of undiagnosed adult patients treated with oral aripiprazole.
 
 As with other antipsychotic drugs, ABILIFY MYCITE should be used cautiously in patients with a history of seizures or with conditions that lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
@@ -234,7 +234,7 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 
 ABILIFY MYCITE, like other antipsychotics, has the potential to impair judgment, thinking, or motor skills.
 In short-term, placebo-controlled trials, somnolence (including sedation) was reported in 11% of aripiprazole-treated patients compared with 6% of placebo-treated patients.
-Somnolence (including sedation) led to discontinuation in 0.3% (8/2467) of adult patients on oral aripiprazole in short-term, placebo-controlled trials.
+Somnolence (including sedation) led to discontinuation in 0.3% (8/2,467) of adult patients on oral aripiprazole in short-term, placebo-controlled trials.
 
 Patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that therapy with ABILIFY MYCITE does not affect them adversely.
 

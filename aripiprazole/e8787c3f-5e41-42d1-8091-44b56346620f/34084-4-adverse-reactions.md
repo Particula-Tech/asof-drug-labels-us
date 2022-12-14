@@ -21,8 +21,8 @@ The following adverse reactions are discussed in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of ABILIFY MYCITE for the treatment of adults with schizophrenia, treatment of adults with manic and mixed episodes associated with bipolar I disorder, and adjunctive treatment of adults with major depressive disorder (MDD) has been established and is based on trials of aripiprazole including 13,543 adult patients who participated in multiple-dose clinical trials in schizophrenia, bipolar disorder, major depressive disorder, and other disorders, and who had approximately 7619 patient-years of exposure to oral aripiprazole.
-A total of 3390 patients were treated with oral aripiprazole for at least 180 days and 1933 patients treated with oral aripiprazole had at least 1 year of exposure.
+The safety of ABILIFY MYCITE for the treatment of adults with schizophrenia, treatment of adults with manic and mixed episodes associated with bipolar I disorder, and adjunctive treatment of adults with major depressive disorder (MDD) has been established and is based on trials of aripiprazole including 13,543 adult patients who participated in multiple-dose clinical trials in schizophrenia, bipolar disorder, major depressive disorder, and other disorders, and who had approximately 7,619 patient-years of exposure to oral aripiprazole.
+A total of 3,390 patients were treated with oral aripiprazole for at least 180 days and 1,933 patients treated with oral aripiprazole had at least one year of exposure.
 
 The conditions and duration of treatment with aripiprazole (monotherapy and adjunctive therapy with antidepressants or mood stabilizers) included (in overlapping categories) double-blind, comparative and noncomparative open-label studies, inpatient and outpatient studies, fixed- and flexible-dose studies, and short- and longer-term exposure.
 
@@ -44,9 +44,9 @@ Commonly observed adverse reactions associated with the use of aripiprazole tabl
 
 Table 9: Commonly Observed Adverse Reactions in Short-Term, Placebo-Controlled Trials of Adult Patients with Bipolar Mania Treated with Oral Aripiprazole Monotherapy
 
-| Preferred Term | Aripiprazole tablets (n=917) | Placebo (n=753) |
+|  | Aripiprazole tablets (n=917) | Placebo (n=753) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting Reaction |  |
+| Preferred Term | Percentage of Patients Reporting Reaction |  |
 | Akathisia | 13 | 4 |
 | Sedation | 8 | 3 |
 | Restlessness | 6 | 3 |
@@ -57,9 +57,9 @@ Table 10 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 10: Adverse Reactions in Short-Term, Placebo-Controlled Trials in Adult Patients Treated with Oral Aripiprazole
 
-| System Organ Class Preferred Term | Aripiprazole tablets (n=1843) | Placebo (n=1166) |
+|  | Aripiprazole tablets (n=1843) | Placebo (n=1166) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
+| System Organ Class Preferred Term | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 3 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -111,9 +111,9 @@ Table 11 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Table 11: Adverse Reactions in a Short-Term, Placebo-Controlled Trial of Adjunctive Therapy in Patients with Bipolar Disorder
 
-| System Organ Class Preferred Term | Aripiprazole tablets + Li or ValLithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
+|  | Aripiprazole tablets + Li or ValLithium or Valproate (n=253) | Placebo + Li or Val (n=130) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
+| System Organ Class Preferred Term | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with oral aripiprazole, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 8 | 5 |
 | Vomiting | 4 | 0 |
@@ -146,9 +146,9 @@ Table 12 enumerates the pooled incidence, rounded to the nearest percent, of adv
 
 Table 12: Adverse Reactions in Short-Term, Placebo-Controlled Adjunctive Trials in Patients with Major Depressive Disorder
 
-| System Organ Class Preferred Term | Aripiprazole tablets + ADTAntidepressant Therapy (n=371) | Placebo + ADT (n=366) |
+|  | Aripiprazole tablets + ADTAntidepressant Therapy (n=371) | Placebo + ADT (n=366) |
 | --- | --- | --- |
-|  | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole tablets, except adverse reactions which had an incidence equal to or less than placebo |  |
+| System Organ Class Preferred Term | Percentage of Patients Reporting ReactionAdverse reactions reported by at least 2% of patients treated with adjunctive aripiprazole tablets, except adverse reactions which had an incidence equal to or less than placebo |  |
 | Eye Disorders |  |  |
 | Blurred Vision | 6 | 1 |
 | Gastrointestinal Disorders |  |  |
@@ -230,7 +230,7 @@ Tremor led to discontinuation (<1%) of aripiprazole tablets.
 In addition, in a long-term (52 weeks), active-controlled study, the incidence of tremor was 5% (40/859) for aripiprazole tablets.
 A similar profile was observed in a long-term monotherapy study and a long-term adjunctive study with lithium and valproate in bipolar disorder.
 
-Other Adverse Reactions Observed during the Premarketing Evaluation of Aripiprazole
+Other Adverse Reactions Observed during Clinical Trial Evaluation of Aripiprazole
 
 Other adverse reactions associated with aripiprazole are presented below.
 The listing does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
@@ -245,7 +245,7 @@ Reactions are categorized by body system according to the following definitions:
 - Hepatobiliary Disorders: rare - hepatitis, jaundice
 - Immune System Disorders: rare- hypersensitivity
 - Injury, Poisoning, and Procedural Complications: infrequent – fall; rare – heatstroke
-- Investigations: frequent - weight decreased; infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
+- Investigations: frequent - blood prolactin decreased, weight decreased; infrequent - hepatic enzyme increased, blood glucose increased, blood lactate dehydrogenase increased, gamma glutamyl transferase increased; rare – blood prolactin increased, blood urea increased, blood creatinine increased, blood bilirubin increased, electrocardiogram QT prolonged, glycosylated hemoglobin increased
 - Metabolism and Nutrition Disorders: frequent – anorexia; rare - hypokalemia, hyponatremia, hypoglycemia
 - Musculoskeletal and Connective Tissue Disorders: infrequent - muscular weakness, muscle tightness; rare – rhabdomyolysis, mobility decreased
 - Nervous System Disorders: infrequent - parkinsonism, memory impairment, cogwheel rigidity, hypokinesia, bradykinesia; rare – akinesia, myoclonus, coordination abnormal, speech disorder, grand mal convulsion; <1/10,000 patients - choreoathetosis
@@ -259,4 +259,4 @@ Reactions are categorized by body system according to the following definitions:
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of aripiprazole.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), pathological gambling, hiccups, blood glucose fluctuation, oculogyric crisis and Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: occurrences of allergic reaction (anaphylactic reaction, angioedema, laryngospasm, pruritus/urticaria, or oropharyngeal spasm), blood glucose fluctuation, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), hiccups, oculogyric crisis, and pathological gambling.

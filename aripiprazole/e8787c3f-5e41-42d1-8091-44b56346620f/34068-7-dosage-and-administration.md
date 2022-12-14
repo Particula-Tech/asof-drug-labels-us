@@ -59,7 +59,7 @@ The maximum recommended daily dosage is 30 mg.
 
 The recommended starting dose for ABILIFY MYCITE as adjunctive treatment of adults with MDD taking an antidepressant is 2 to 5 mg daily.
 The recommended dosage range is 2 to 15 mg daily.
-Dosage adjustments of up to 5 mg daily should occur gradually, at intervals of no less than 1 week.
+Dosage adjustments of up to 5 mg daily should occur gradually, at intervals of no less than one week.
 The maximum recommended daily dosage is 15 mg.
 Periodically reassess to determine the continued need for maintenance treatment.
 
