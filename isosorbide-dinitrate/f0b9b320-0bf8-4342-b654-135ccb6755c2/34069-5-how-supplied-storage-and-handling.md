@@ -24,8 +24,10 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from light and moisture.
 
 Manufactured by: HIKMA Pharmaceuticals P.O.
-Box 182400 Amman 11118 – Jordan
+Box 182400 Amman, 11118 - Jordan
 
-Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised October 2019
+2INISOD
+
+Revised May 2022
