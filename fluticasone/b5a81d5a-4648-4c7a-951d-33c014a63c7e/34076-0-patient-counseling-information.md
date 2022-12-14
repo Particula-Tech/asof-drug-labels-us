@@ -93,12 +93,10 @@ Instruct patients to consult a health care practitioner immediately should any o
 
 Trademarks are owned by or licensed to the GSK group of companies.
 
-TRELEGY ELLIPTA was developed in collaboration with Innoviva.
-
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 ©2022 GSK group of companies or its licensor.
 
-TRL:7PI
+TRL:8PI

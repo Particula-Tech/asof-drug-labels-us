@@ -24,7 +24,6 @@ Made in UK
 
 1. 10000000149452 Rev.
    7/18
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -52,4 +51,3 @@ Made in UK
 
 1. 62000000055048 Rev.
    9/20
-2. 

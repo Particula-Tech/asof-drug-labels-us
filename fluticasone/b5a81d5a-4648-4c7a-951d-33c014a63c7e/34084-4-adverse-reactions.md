@@ -2,16 +2,16 @@
 
 The following clinically significant adverse reactions are described elsewhere in labeling:
 
-- •Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1)]
-- •Candida albicans infection [see Warnings and Precautions (5.4)]
-- •Increased risk of pneumonia in COPD [see Warnings and Precautions (5.5)]
-- •Immunosuppression and risk of infections [see Warnings and Precautions (5.6)]
-- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8)]
-- •Paradoxical bronchospasm [see Warnings and Precautions (5.10)]
-- •Cardiovascular effects [see Warnings and Precautions (5.12)]
-- •Reduction in bone mineral density [see Warnings and Precautions (5.13)]
-- •Worsening of narrow-angle glaucoma [see Warnings and Precautions (5.14)]
-- •Worsening of urinary retention [see Warnings and Precautions (5.15)]
+- •Serious Asthma-Related Events – Hospitalizations, Intubations, Death [see Warnings and Precautions (5.1)]
+- •Oropharyngeal Candidiasis [see Warnings and Precautions (5.4)]
+- •Increased Risk of Pneumonia in COPD [see Warnings and Precautions (5.5)]
+- •Immunosuppression and Risk of Infections [see Warnings and Precautions (5.6)]
+- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.8)]
+- •Paradoxical Bronchospasm [see Warnings and Precautions (5.10)]
+- •Cardiovascular Effects [see Warnings and Precautions (5.12)]
+- •Reduction in Bone Mineral Density [see Warnings and Precautions (5.13)]
+- •Worsening of Narrow-Angle Glaucoma [see Warnings and Precautions (5.14)]
+- •Worsening of Urinary Retention [see Warnings and Precautions (5.15)]
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -97,3 +97,7 @@ Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticar
 Eye Disorders
 
 Blurred vision, eye pain, glaucoma.
+
+Renal and Urinary Disorders
+
+Dysuria, urinary retention.

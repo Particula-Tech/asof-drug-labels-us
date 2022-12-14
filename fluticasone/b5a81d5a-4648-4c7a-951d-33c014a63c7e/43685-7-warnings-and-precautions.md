@@ -95,6 +95,7 @@ Adjudicated, on‑treatment deaths due to pneumonia occurred in 13 subjects rece
 
 ## 5.6 Immunosuppression and Risk of Infections
 
+Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
 Chickenpox and measles can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
 In such children or adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
