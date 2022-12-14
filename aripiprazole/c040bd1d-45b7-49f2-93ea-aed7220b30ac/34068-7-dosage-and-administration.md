@@ -49,7 +49,7 @@ Adults
 
 The recommended starting dose for ABILIFY as adjunctive treatment for patients already taking an antidepressant is 2 to 5 mg/day.
 The recommended dosage range is 2 to 15 mg/day.
-Dosage adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see Clinical Studies (14.3)].
+Dosage adjustments of up to 5 mg/day should occur gradually, at intervals of no less than one week [see Clinical Studies (14.3)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 ## 2.4 Irritability Associated with Autistic Disorder
@@ -60,7 +60,7 @@ The recommended dosage range for the treatment of pediatric patients with irrita
 
 Dosing should be initiated at 2 mg/day.
 The dose should be increased to 5 mg/day, with subsequent increases to 10 or 15 mg/day if needed.
-Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than 1 week [see Clinical Studies (14.4)].
+Dose adjustments of up to 5 mg/day should occur gradually, at intervals of no less than one week [see Clinical Studies (14.4)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 ## 2.5 Tourette's Disorder
@@ -71,12 +71,11 @@ The recommended dosage range for Tourette's Disorder is 5 to 20 mg/day.
 
 For patients weighing less than 50 kg, dosing should be initiated at 2 mg/day with a target dose of 5 mg/day after 2 days.
 The dose can be increased to 10 mg/day in patients who do not achieve optimal control of tics.
-Dosage adjustments should occur gradually at intervals of no less than 1 week.
+Dosage adjustments should occur gradually at intervals of no less than one week.
 
-For patients weighing 50 kg or more, dosing should be initiated at 2 mg/day for 2 days, and then increased to 5 mg/day for 5 days, with a target dose of 10 mg/day on day 8.
+For patients weighing 50 kg or more, dosing should be initiated at 2 mg/day for 2 days, and then increased to 5 mg/day for 5 days, with a target dose of 10 mg/day on Day 8.
 The dose can be increased up to 20 mg/day for patients who do not achieve optimal control of tics.
-Dosage adjustments should occur gradually in increments of 5 mg/day at intervals of no less than 1 week.
-[See Clinical Studies (14.5)].
+Dosage adjustments should occur gradually in increments of 5 mg/day at intervals of no less than one week [see Clinical Studies (14.5)].
 
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 

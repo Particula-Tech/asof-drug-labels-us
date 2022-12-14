@@ -4,6 +4,6 @@ Orally Disintegrating Tablets, Oral Solution, and Injection manufactured by Bris
 
 Distributed and marketed by Otsuka America Pharmaceutical, Inc., Rockville, MD 20850 USA
 
-ABILIFY is a trademark of Otsuka Pharmaceutical Company.
+ABILIFY is a registered trademark of Otsuka Pharmaceutical Co., Ltd.
 
-©2020, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan
+© 2022, Otsuka Pharmaceutical Co., Ltd., Tokyo, 101-8535 Japan

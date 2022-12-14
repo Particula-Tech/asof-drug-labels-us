@@ -7,7 +7,7 @@ MedDRA terminology has been used to classify the adverse reactions.
 In clinical trials and in postmarketing experience, adverse reactions of deliberate or accidental overdosage with oral ABILIFY have been reported worldwide.
 These include overdoses with oral ABILIFY alone and in combination with other substances.
 No fatality was reported with ABILIFY alone.
-The largest known dose with a known outcome involved acute ingestion of 1260 mg of oral ABILIFY (42 times the maximum recommended daily dose) by a patient who fully recovered.
+The largest known dose with a known outcome involved acute ingestion of 1,260 mg of oral ABILIFY (42 times the maximum recommended daily dose) by a patient who fully recovered.
 Deliberate or accidental overdosage was also reported in children (age 12 years and younger) involving oral ABILIFY ingestions up to 195 mg with no fatalities.
 
 Common adverse reactions (reported in at least 5% of all overdose cases) reported with oral ABILIFY overdosage (alone or in combination with other substances) include vomiting, somnolence, and tremor.

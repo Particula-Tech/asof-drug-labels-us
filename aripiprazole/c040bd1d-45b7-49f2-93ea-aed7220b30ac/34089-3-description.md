@@ -5,11 +5,11 @@ Aripiprazole is 7-[4-[4-(2,3-dichlorophenyl)-1-piperazinyl]butoxy]-3,4-dihydroca
 The empirical formula is C23H27Cl2N3O2 and its molecular weight is 448.38.
 The chemical structure is:
 
-ABILIFY Tablets are available in 2, 5, 10, 15, 20, and 30 mg strengths.
+ABILIFY Tablets are available in 2 mg, 5 mg, 10 mg, 15 mg, 20 mg, and 30 mg strengths.
 Inactive ingredients include cornstarch, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and microcrystalline cellulose.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
-ABILIFY DISCMELT Orally Disintegrating Tablets are available in 10 and 15 mg strengths.
+ABILIFY DISCMELT Orally Disintegrating Tablets are available in 10 mg and 15 mg strengths.
 Inactive ingredients include acesulfame potassium, aspartame, calcium silicate, croscarmellose sodium, crospovidone, crème de vanilla (natural and artificial flavors), magnesium stearate, microcrystalline cellulose, silicon dioxide, tartaric acid, and xylitol.
 Colorants include ferric oxide (yellow or red) and FD&C Blue No. 2 Aluminum Lake.
 
@@ -18,4 +18,4 @@ The inactive ingredients for this solution include disodium edetate, fructose, g
 The oral solution is flavored with natural orange cream and other natural flavors.
 
 ABILIFY Injection is available in single-dose vials as a ready-to-use, 9.75 mg/1.3 mL (7.5 mg/mL) clear, colorless, sterile, aqueous solution for intramuscular use only.
-Inactive ingredients for this solution include 199.5 mg of sulfobutylether β-cyclodextrin (SBECD), 10.4 mg of tartaric acid, qs to pH 4.3 of sodium hydroxide, and qs to 1.33 mL of water for injection.
+Inactive ingredients for this solution include 199.5 mg of sulfobutylether β-cyclodextrin (SBECD), 10.4 mg of tartaric acid, q.s. to pH 4.3 of sodium hydroxide, and q.s. to 1.33 mL of water for injection.

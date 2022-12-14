@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-ABILIFY® (aripiprazole) Tablets have markings on one side and are available in the strengths and packages listed in Table 32.
+ABILIFY® (aripiprazole) Tablets have markings on one side an are available in the strengths and packages listed in Table 32.
 
 Table 32: ABILIFY Tablet Presentations
 
