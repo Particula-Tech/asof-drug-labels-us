@@ -1,4 +1,4 @@
-# 17. PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
@@ -12,7 +12,7 @@ Advise patients about the risk of bone loss.
 Advise patients that supplementary calcium and vitamin D may be beneficial if dietary intake of calcium and vitamin D is not adequate.
 Advise women that oral iron supplementation should not be taken at the same time as calcium and vitamin D [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-Depression, Mood Disorders, and Suicidal Ideation
+Suicidal Ideation and Mood Disorders (Including Depression)
 
 Advise patients that depression, mood disorders, and suicidal ideation may occur with MYFEMBREE use.
 Instruct women with new onset or worsening depression, anxiety, or other mood changes to promptly seek medical attention [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].
@@ -29,9 +29,9 @@ Advise pregnant patients that there is a pregnancy registry that monitors pregna
 
 Alopecia
 
-Advise women that alopecia, hair loss, and hair thinning in no specific pattern may occur with MYFEMBREE.
-Advise women that hair loss and hair thinning may not resolve completely after stopping MYFEMBREE.
-Advise women to contact their healthcare provider if they have concerns about changes to their hair [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
+Advise women with uterine fibroids that alopecia, hair loss, and hair thinning in no specific pattern may occur with MYFEMBREE.
+Advise these women that hair loss and hair thinning may not resolve completely after stopping MYFEMBREE.
+Advise these women to contact their healthcare provider if they have concerns about changes to their hair [see Warnings and Precautions (5.11) and Adverse Reactions (6.1)].
 
 Females of Reproductive Potential
 
