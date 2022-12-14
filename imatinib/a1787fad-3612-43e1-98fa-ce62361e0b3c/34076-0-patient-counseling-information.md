@@ -31,4 +31,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Auro PR Inc. RD 156 Caguas West Industrial Park, Lot 24 Caguas, PR 00725 U.S.A.
 
-Revised: 3/2022 IMAT:R12
+Revised: 11/2022 IMAT:RX2

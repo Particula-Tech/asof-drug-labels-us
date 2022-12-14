@@ -6,7 +6,7 @@ Imatinib Mesylate Tablets 100 mg*
 
 Rx only 90 Tablets
 
-*Each film-coated tablet contains imatinib mesylate equivalent to 100 mg of imatinib.
+Each film-coated tablet contains 119.5 mg of imatinib mesylate equivalent to 100 mg of imatinib.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -27,7 +27,7 @@ Made in Puerto Rico
 
 Mylan.com
 
-RM2245MM1
+RM2245MM2
 
 # PRINCIPAL DISPLAY PANEL – 400 mg
 
@@ -37,7 +37,7 @@ Imatinib Mesylate Tablets 400 mg*
 
 Rx only 30 Tablets
 
-*Each film-coated tablet contains imatinib mesylate equivalent to 400 mg of imatinib.
+*Each film-coated tablet contains 478 mg of imatinib mesylate equivalent to 400 mg of imatinib.
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -58,4 +58,4 @@ Made in Puerto Rico
 
 Mylan.com
 
-RM2246H1
+RM2246H2

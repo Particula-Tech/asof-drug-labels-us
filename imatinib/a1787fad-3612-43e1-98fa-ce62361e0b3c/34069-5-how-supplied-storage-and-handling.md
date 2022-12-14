@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Imatinib Mesylate Tablets are available containing imatinib mesylate equivalent to 100 mg or 400 mg of imatinib.
+Imatinib Mesylate Tablets are available containing 119.5 mg or 478 mg of imatinib mesylate equivalent to 100 mg or 400 mg of imatinib.
 
 The 100 mg tablets are brown-orange, film-coated, round, scored tablets debossed with M on one side of the tablet and I above the score and 100 below the score on the other side.
 They are available as follows:
@@ -12,7 +12,7 @@ They are available as follows:
 
 NDC 0378-2246-93 bottles of 30 tablets
 
-Store at 20° to 25°C (68° to 77°F).
+Storage and Handling: Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
 Protect from moisture.

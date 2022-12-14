@@ -8,17 +8,17 @@ Newly diagnosed adult and pediatric patients with Philadelphia chromosome positi
 
 Patients with Philadelphia chromosome positive chronic myeloid leukemia in blast crisis, accelerated phase, or in chronic phase after failure of interferon-alpha therapy.
 
-## 1.3 Adult Patients with Ph+ Acute Lymphoblastic Leukemia (ALL)
+## 1.3 Adult Patients With Ph+ Acute Lymphoblastic Leukemia (ALL)
 
 Adult patients with relapsed or refractory Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL).
 
-## 1.4 Pediatric Patients with Ph+ Acute Lymphoblastic Leukemia (ALL)
+## 1.4 Pediatric Patients With Ph+ Acute Lymphoblastic Leukemia (ALL)
 
 Pediatric patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukemia (Ph+ ALL) in combination with chemotherapy.
 
 ## 1.5 Myelodysplastic/Myeloproliferative Diseases (MDS/MPD)
 
-Adult patients with myelodysplastic/myeloproliferative diseases associated with PDGFR (platelet-derived growth factor receptor) gene re-arrangements.
+Adult patients with myelodysplastic/myeloproliferative diseases associated with platelet-derived growth factor receptor (PDGFR) gene re-arrangements.
 
 ## 1.6 Aggressive Systemic Mastocytosis (ASM)
 
@@ -26,8 +26,16 @@ Adult patients with aggressive systemic mastocytosis without the D816V c-Kit mut
 
 ## 1.7 Hypereosinophilic Syndrome (HES) and/or Chronic Eosinophilic Leukemia (CEL)
 
-Adult patients with hypereosinophilic syndrome and/or chronic eosinophilic leukemia who have the FIP1L1-PDGFRα fusion kinase (mutational analysis or FISH demonstration of CHIC2 allele deletion) and for patients with HES and/or CEL who are FIP1L1-PDGFRα fusion kinase negative or unknown.
+Adult patients with hypereosinophilic syndrome and/or chronic eosinophilic leukemia who have the FIP1L1-PDGFRα fusion kinase (mutational analysis or fluorescence in situ hybridization [FISH] demonstration of CHIC2 allele deletion) and for patients with HES and/or CEL who are FIP1L1-PDGFRα fusion kinase negative or unknown.
 
 ## 1.8 Dermatofibrosarcoma Protuberans (DFSP)
 
 Adult patients with unresectable, recurrent and/or metastatic dermatofibrosarcoma protuberans.
+
+## 1.9 Kit+ Gastrointestinal Stromal Tumors (GIST)
+
+Patients with Kit (CD117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumors.
+
+## 1.10 Adjuvant Treatment of GIST
+
+Adjuvant treatment of adult patients following complete gross resection of Kit (CD117) positive GIST.
