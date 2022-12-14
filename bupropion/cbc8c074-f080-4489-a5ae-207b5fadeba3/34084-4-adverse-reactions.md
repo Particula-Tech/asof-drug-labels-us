@@ -46,7 +46,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 
 | Body System/Adverse Reaction | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) | Placebo(n = 385) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body (General) |  |  |  |  |  |  |  |
+| Body (general) |  |  |  |  |  |  |  |
 | Headache | 26% | 25% | 23% |  |  |  |  |
 | Infection | 8% | 9% | 6% |  |  |  |  |
 | Abdominal pain | 3% | 9% | 2% |  |  |  |  |
@@ -155,7 +155,7 @@ If weight loss is a major presenting sign of a patient’s depressive illness, t
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of WELLBUTRIN SR and are not described elsewhere in the label.
+The following adverse reactions have been identified during postapproval use of WELLBUTRIN SR and are not described elsewhere in the label.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body (General)
@@ -198,7 +198,7 @@ Pneumonia.
 
 Skin
 
-Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
+Alopecia, angioedema, exfoliative dermatitis, hirsutism, Stevens-Johnson syndrome, acute generalized exanthematous pustulosis.
 
 Special Senses
 

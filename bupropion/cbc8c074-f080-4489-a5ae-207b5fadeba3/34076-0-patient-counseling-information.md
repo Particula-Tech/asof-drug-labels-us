@@ -73,8 +73,8 @@ The makers of these brands are not affiliated with and do not endorse the GSK gr
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 ©2020 GSK group of companies or its licensor.
 
-WLS:19PI
+WLS:20PI
