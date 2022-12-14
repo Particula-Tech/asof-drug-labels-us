@@ -24,7 +24,7 @@ Effects of Food on Oral Absorption: EPIVIR-HBV tablets and oral solution may be 
 The 100-mg tablet was administered orally to 24 healthy subjects on 2 occasions, once in the fasted state and once with food (standard meal: 967 kcal; 67 grams fat, 33 grams protein, 58 grams carbohydrate).
 There was no significant difference in systemic exposure (AUC) in the fed and fasted states.
 
-Distribution: The apparent volume of distribution after IV administration of lamivudine to 20 HIV-1-infected subjects was 1.3 ± 0.4 L per kg, suggesting that lamivudine distributes into extravascular spaces.
+Distribution: The apparent volume of distribution after IV administration of lamivudine to 20 HIV-1–infected subjects was 1.3 ± 0.4 L per kg, suggesting that lamivudine distributes into extravascular spaces.
 Volume of distribution was independent of dose and did not correlate with body weight.
 
 Binding of lamivudine to human plasma proteins is less than 36%.
@@ -37,10 +37,10 @@ Lamivudine is not significantly metabolized by cytochrome P450 enzymes.
 
 Elimination: The majority of lamivudine is eliminated unchanged in urine by active organic cationic secretion.
 In 9 healthy subjects given a single 300-mg oral dose of lamivudine, renal clearance was 199.7 ± 56.9 mL per min (mean ± SD).
-In 20 HIV-1-infected subjects given a single IV dose, renal clearance was 280.4 ± 75.2 mL per min (mean ± SD), representing 71% ± 16% (mean ± SD) of total clearance of lamivudine.
+In 20 HIV-1–infected subjects given a single IV dose, renal clearance was 280.4 ± 75.2 mL per min (mean ± SD), representing 71% ± 16% (mean ± SD) of total clearance of lamivudine.
 
 In most single-dose trials with plasma sampling for up to 48 or 72 hours after dosing, the observed mean elimination half-life (t½) ranged from 13 to 19 hours.
-In HIV-1-infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
+In HIV-1–infected subjects, total clearance was 398.5 ± 69.1 mL per min (mean ± SD).
 Oral clearance and elimination half-life were independent of dose and body weight over an oral dosing range of 0.25 to 10 mg per kg.
 
 Specific Populations
@@ -133,7 +133,7 @@ Each subject received treatment with a single 300-mg dose of lamivudine and TMP 
 Coadministration of TMP/SMX with lamivudine resulted in an increase of 43% ± 23% (mean ± SD) in lamivudine AUC(∞), a decrease of 29% ± 13% in lamivudine oral clearance, and a decrease of 30% ± 36% in lamivudine renal clearance.
 The pharmacokinetic properties of TMP and SMX were not altered by coadministration with lamivudine.
 
-Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1‑infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
+Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV-1–infected adult subjects given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
 ## 12.4 Microbiology
 

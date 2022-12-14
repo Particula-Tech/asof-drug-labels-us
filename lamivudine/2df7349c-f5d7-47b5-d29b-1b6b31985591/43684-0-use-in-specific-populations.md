@@ -13,8 +13,8 @@ Available data from the APR show no substantial difference in the risk of overal
 The APR uses the MACDP as a U.S. reference population for birth defects in the general population.
 The MACDP evaluates women and infants from a limited geographic area and does not include outcomes for births that occur at less than 20 weeks’ gestation.
 Of over 12,900 women exposed to lamivudine in the APR, less than 2% were HBV mono-infected.
-The majority of women exposed to lamivudine in the APR were HIV-1-infected and were treated with higher doses of lamivudine compared with HBV mono-infected women.
-In addition to lamivudine, HIV-1-infected women were also treated with other concomitant medications for HIV-1 infection (see Data).
+The majority of women exposed to lamivudine in the APR were HIV-1–infected and were treated with higher doses of lamivudine compared with HBV mono-infected women.
+In addition to lamivudine, HIV-1–infected women were also treated with other concomitant medications for HIV-1 infection (see Data).
 The estimated rate of miscarriage for women exposed to lamivudine in the indicated population is unknown.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15% to 20%.
 
@@ -22,7 +22,7 @@ Oral administration of lamivudine to pregnant rabbits during organogenesis resul
 
 Data
 
-Human Data: Based on prospective reports from the APR of over 12,900 exposures to lamivudine, during pregnancy resulting in live births (including over 5,400 exposed in the first trimester and over 7,500 exposed in the second/third trimester), there was no difference between the overall risk of birth defects with lamivudine compared with the background birth defect rate of 2.7% observed in the U.S. reference population of the MACDP.
+Human Data: Based on prospective reports from the APR of over 12,900 exposures to lamivudine during pregnancy resulting in live births (including over 5,400 exposed in the first trimester and over 7,500 exposed in the second/third trimester), there was no difference between the overall risk of birth defects with lamivudine compared with the background birth defect rate of 2.7% observed in the U.S. reference population of the MACDP.
 The prevalence of birth defects in live births was 3.1% (95% CI: 2.7% to 3.6%) following first trimester exposure to lamivudine-containing regimens and 2.9% (95% CI: 2.5% to 3.3%) following second/third trimester exposure to lamivudine-containing regimens.
 
 The pharmacokinetics of lamivudine in patients with HBV or HIV-1 infection and in healthy volunteers are similar at similar doses.
