@@ -5,6 +5,7 @@ CORPHEDRA (ephedrine sulfate injection), 50 mg/mL, is supplied as follows:
 | NDC | Strength | How Supplied |
 | --- | --- | --- |
 | 42023-196-01 | 50 mg/mL | 1 mL clear glass vial; for single use (supplied in packages of 25) |
+| 42023-233-01 | 500 mg/10 mL (50 mg/mL) | 10 mL clear glass vial; multi-dose |
 
 Vial stoppers are not manufactured with natural rubber latex.
 
