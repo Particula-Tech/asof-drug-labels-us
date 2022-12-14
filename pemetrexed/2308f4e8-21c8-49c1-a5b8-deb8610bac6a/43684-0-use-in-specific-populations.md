@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on findings from animal studies and its mechanism of action, PEMFEXY can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
+Based on findings from animal studies and its mechanism of action, pemetrexed can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data on pemetrexed use in pregnant women.
 In animal reproduction studies, intravenous administration of pemetrexed to pregnant mice during the period of organogenesis was teratogenic, resulting in developmental delays and malformations at doses lower than the recommended human dose of 500 mg/m2 (see Data).
 Advise pregnant women of the potential risk to a fetus [see use in Specific Population (8.3)].
@@ -21,10 +21,12 @@ At doses, based on BSA, greater than or equal to 0.0012 times the 500 mg/m2 huma
 
 Risk Summary
 
-There is no information regarding the presence of pemetrexed or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
-Because of the potential for serious adverse reactions in breastfed infants from PEMFEXY, advise women not to breastfeed during treatment with PEMFEXY and for one week after last dose.
+There is no information regarding the presence of pemetrexed or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
+Because of the potential for serious adverse reactions in a breastfed child from PEMFEXY, advise women not to breastfeed during treatment with PEMFEXY and for one week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
+
+Based on animal data, pemetrexed can cause malformations and developmental delays when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
@@ -32,10 +34,9 @@ Verify pregnancy status of females of reproductive potential prior to initiating
 
 Contraception
 
-Females PEMFEXY can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with PEMFEXY and for 6 months after the final dose.
+Females Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with PEMFEXY and for 6 months after the last dose.
 
-Males Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with PEMFEXY and for 3 months after the final dose [see Nonclinical Toxicology (13.1)].
+Males Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with PEMFEXY and for 3 months after the last dose [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
@@ -46,17 +47,13 @@ It is not known whether these effects on fertility are reversible [see Nonclinic
 
 The safety and effectiveness of PEMFEXY in pediatric patients have not been established.
 
-The safety and pharmacokinetics of pemetrexed were evaluated in two clinical studies conducted in pediatric patients with recurrent solid tumors.
-Pemetrexed was administered at doses ranging from 400 to 2480 mg/m2 intravenously over 10 minutes on Day 1 of a 21-day cycle to 32 pediatric patients with recurrent solid tumors in a dose-finding study.
-The maximum tolerated dose (MTD) was determined to be 1910 mg/m2 (60 mg/kg for patients < 12 months old).
-Pemetrexed was administered at the MTD every 21 days in an activity-estimating study enrolling 72 patients with relapsed or refractory osteosarcoma, Ewing sarcoma/peripheral primitive neural ectodermal tumor (PNET), rhabdomyosarcoma, neuroblastoma, ependymoma, medulloblastoma/supratentorial PNET, or non-brainstem high grade glioma.
+The safety and pharmacokinetics of pemetrexed were evaluated in two clinical studies conducted in pediatric patients with recurrent solid tumors (NCT00070473 N=32 and NCT00520936 N=72).
 Patients in both studies received concomitant vitamin B12 and folic acid supplementation and dexamethasone.
+
 No tumor responses were observed.
 Adverse reactions observed in pediatric patients were similar to those observed in adults.
 
-The single dose pharmacokinetics of pemetrexed administered at doses ranging from 400 to 2480 mg/m2 were evaluated in 22 patients (13 males and 9 females) aged 4 to 18 years (average age 12 years).
-Pemetrexed exposure (AUC and Cmax) appeared to increase proportionally with dose.
-Average clearance (2.30 L/h/m2) and half-life (2.3 hours) were similar in pediatric patients compared to adults.
+Single-dose pharmacokinetics of pemetrexed were evaluated in 22 patients age 4 to 18 years enrolled in NCT00070473 were within range of values in adults.
 
 ## 8.5 Geriatric Use
 

@@ -16,9 +16,9 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 - Increased Risk of Toxicity with Ibuprofen in Patients with Renal Impairment: Advise patients with mild to moderate renal impairment of the risks associated with concomitant ibuprofen use and instruct them to avoid use of all ibuprofen containing products for 2 days before, the day of, and 2 days following administration of PEMFEXY [see Dosage and Administration (2.5), Warnings and Precautions (5.6), and Drug Interactions (7)].
 - Embryo-Fetal Toxicity:
   - Advise females of reproductive potential and males with female partners of reproductive potential of the potential risk to a fetus.
-    Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
-  - Advise females of reproductive potential to use effective contraception during treatment with PEMFEXY and for 6 months after the final dose [see Use in Specific Populations (8.3)].
-  - Advise males with female partners of reproductive potential to use effective contraception during treatment with PEMFEXY and for 3 months after the final dose [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
-- Lactation: Advise women not to breastfeed during treatment with PEMFEXY and for 1 week after the final dose [see Use in Specific Populations (8.2)].
+    Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
+  - Advise females of reproductive potential to use effective contraception during treatment with PEMFEXY and for 6 months after the last dose [see Use in Specific Populations (8.3)].
+  - Advise males with female partners of reproductive potential to use effective contraception during treatment with PEMFEXY and for 3 months after the last dose [see Use in Specific Populations (8.3), Nonclinical Toxicology (13.1)].
+- Lactation: Advise women not to breastfeed during treatment with PEMFEXY and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
 Marketed by: Eagle Pharmaceuticals, Inc. Woodcliff Lake, NJ 07677

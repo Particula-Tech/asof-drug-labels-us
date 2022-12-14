@@ -13,9 +13,11 @@ The following clinically significant adverse reactions are described elsewhere i
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates observed in clinical trials of drugs cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In clinical trials, the most common adverse reactions (incidence ≥ 20%) of pemetrexed, when administered as a single-agent, are fatigue, nausea and anorexia.
-The most common adverse reactions (incidence 20%) of pemetrexed, when administered with cisplatin, are vomiting, neutropenia, anemia, stomatitis/pharyngitis, thrombocytopenia and constipation.
+The most common adverse reactions (incidence ≥ 20%) of pemetrexed, when administered with cisplatin, are vomiting, neutropenia, anemia, stomatitis/pharyngitis, thrombocytopenia and constipation.
 
-Non-Squamous Non-Small Cell Lung Cancer (NSCLC) Initial Treatment in Combination with Cisplatin The safety of pemetrexed was evaluated in Study JMDB, a randomized (1:1), open-label, multicenter trial conducted in chemotherapy-naive patients with locally advanced or metastatic NSCLC.
+Non-Squamous Non-Small Cell Lung Cancer (NSCLC)
+
+Initial Treatment in Combination with Cisplatin The safety of pemetrexed was evaluated in Study JMDB, a randomized (1:1), open-label, multicenter trial conducted in chemotherapy-naive patients with locally advanced or metastatic NSCLC.
 Patients received either pemetrexed 500 mg/m2 intravenously in combination with cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle (n=839) or gemcitabine 1250 mg/m2 intravenously on Days 1 and 8 in combination with cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle (n=830).
 All patients were fully supplemented with folic acid and vitamin B12.
 
@@ -31,9 +33,9 @@ Study JMDB was not designed to demonstrate a statistically significant reduction
 
 | Table 2: Adverse Reactions Occurring in ≥ 5% of Fully Vitamin-Supplemented Patients Receiving Pemetrexed in Combination with Cisplatin in Study JMDB |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reactiona | Pemetrexed/cisplatin (N=839) |  | Gemcitabine/cisplatin (N=830) |  |
+| Adverse Reactiona | Pemetrexed/Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
-| All adverse reactions | 90 | 37 | 91 | 53 |
+| All Adverse Reactions | 90 | 37 | 91 | 53 |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
 | Anemia | 33 | 6 | 46 | 10 |
@@ -62,7 +64,7 @@ Study JMDB was not designed to demonstrate a statistically significant reduction
 
 The following additional adverse reactions of pemetrexed were observed.
 
-Incidence 1% to < 5% Body as a Whole — febrile neutropenia, infection, pyrexia General Disorders — dehydration Metabolism and Nutrition — increased AST, increased ALT Renal — renal failure Eye Disorder — conjunctivitis
+Incidence 1% to < 5% Body as a Whole — febrile neutropenia, infection, pyrexia General Disorders— dehydration Metabolism and Nutrition— increased AST, increased ALT Renal — renal failure Eye Disorder — conjunctivitis
 
 Incidence < 1% Cardiovascular — arrhythmia General Disorders — chest pain Metabolism and Nutrition — increased GGT Neurology — motor neuropathy
 
@@ -80,7 +82,7 @@ Approximately half the patients (48%) completed at least six 21-day cycles and 2
 
 Table 3 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 438 pemetrexed-treated patients in Study JMEN.
 
-| Table 3: Adverse Reactions Occurring in ≥ 5% of Patients Receiving Pemetrexed in Study JMEN |  |  |  |  |
+| Table 3: Adverse Reactions Occurring in ≥ 5% Fully Supplemented Patients Receiving Pemetrexed in Study JMEI |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reactiona | Pemetrexed (N=438) |  | Placebo (N=218) |  |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
@@ -126,15 +128,14 @@ Patients unable to stop using aspirin or other non-steroidal anti-inflammatory d
 The data described below reflect exposure to pemetrexed in 333 patients in PARAMOUNT.
 Median age was 61 years (range 32 to 83 years); 58% of patients were men; 94% were White, 4.8% were Asian, and < 1% were Black or African American; 36% had an ECOG PS 0.
 The median number of maintenance cycles was 4 for pemetrexed and placebo arms.
-
 Dose reductions for adverse reactions occurred in 3.3% of patients in the pemetrexed arm and 0.6% in the placebo arm.
 Dose delays for adverse reactions occurred in 22% of patients in the pemetrexed arm and 16% in the placebo arm.
 
 Table 4 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 333 pemetrexed-treated patients in PARAMOUNT.
 
-| Table 4: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed in PARAMOUNT |  |  |  |  |
+| Table 4: Adverse Reactions Occurring in ≥ 5% of Patients Receiving Pemetrexed in PARAMOUNT |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reactiona | Pemetrexed (N=333) |  | Placebo (N=167) |  |
+| Adverse Reactiona | Pemetrexed (N=333) |  | Cisplatin (N=167) |  |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | All Adverse Reactions | 53 | 17 | 34 | 4.8 |
 | Laboratory |  |  |  |  |
@@ -175,7 +176,7 @@ Study JMEI is not designed to demonstrate a statistically significant reduction 
 
 | Table 5: Adverse Reactions Occurring in ≥ 5% Fully Supplemented Patients Receiving Pemetrexed in Study JMEI |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reactiona | Pemetrexed (N=265) |  | Placebo (N=276) |  |
+| Adverse Reactiona | Pemetrexed (N=265) |  | Docetaxel (N=276) |  |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | Laboratory |  |  |  |  |
 | Hematologic |  |  |  |  |
@@ -206,9 +207,11 @@ The following additional adverse reactions were observed in patients assigned to
 
 Incidence 1% to < 5% Body as a Whole — abdominal pain, allergic reaction/hypersensitivity, febrile neutropenia, infection Dermatology/Skin — erythema multiforme Neurology — motor neuropathy, sensory neuropathy
 
-Incidence < 1% Cardiovascular — supraventricular arrhythmiase Renal — renal failur
+Incidence < 1% Cardiovascular — supraventricular arrhythmias Renal — renal failure
 
-Mesothelioma The safety of pemetrexed was evaluated in Study JMCH, a randomized (1:1), single-blind study conducted in patients with MPM who had received no prior chemotherapy for MPM.
+Mesothelioma
+
+The safety of pemetrexed was evaluated in Study JMCH, a randomized (1:1), single-blind study conducted in patients with MPM who had received no prior chemotherapy for MPM.
 Patients received pemetrexed 500 mg/m2 intravenously in combination with cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle or cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle administered until disease progression or unacceptable toxicity.
 Safety was assessed in 226 patients who received at least one dose of pemetrexed in combination with cisplatin and 222 patients who received at least one dose of cisplatin alone.
 Among 226 patients who received pemetrexed in combination with cisplatin, 74% (n=168) received full supplementation with folic acid and vitamin B12 during study therapy, 14% (n=32) were never supplemented, and 12% (n=26) were partially supplemented.
@@ -236,7 +239,7 @@ Study JMCH was not designed to demonstrate a statistically significant reduction
 | Thrombocytopenia | 23 | 5 | 9 | 0 |
 | Renal |  |  |  |  |
 | Decreased creatinine clearance | 16 | 1 | 18 | 2 |
-| Elevated creatinine | 11 | 1 | 10 | 2 |
+| Elevated creatinine | 11 | 1 | 10 | 1 |
 | Clinical |  |  |  |  |
 | Gastrointestinal |  |  |  |  |
 | Nausea | 82 | 12 | 77 | 6 |
@@ -258,7 +261,8 @@ Study JMCH was not designed to demonstrate a statistically significant reduction
 | Dehydration | 7 | 4 | 1 | 1 |
 | Eye Disorder |  |  |  |  |
 | Conjunctivitis | 5 | 0 | 1 | 0 |
-| a In Study JMCH, 226 patients received at least one dose of pemetrexed in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 6 provides the ADRs for subgroup of patients treated with pemetrexed in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. b NCI CTCAE version 2.0 |  |  |  |  |
+| a In Study JMCH, 226 patients received at least one dose of pemetrexed in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 6 provides the ADRs for subgroup of patients treated with pemetrexed in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. |  |  |  |  |
+| b NCI CTCAE version 2.0 |  |  |  |  |
 
 The following additional adverse reactions were observed in patients receiving pemetrexed plus cisplatin.
 
@@ -268,16 +272,16 @@ Incidence < 1% Cardiovascular — arrhythmia Neurology — motor neuropathy
 
 Exploratory Subgroup Analyses based on Vitamin Supplementation Table 7 provides the results of exploratory analyses of the frequency and severity of NCI CTCAE Grade 3 or 4 adverse reactions reported in more pemetrexed-treated patients who did not receive vitamin supplementation (never supplemented) as compared with those who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in Study JMCH (fully-supplemented).
 
-| Table 7: Exploratory Subgroup Analysis of Selected Grade 3-4 Adverse Reactions Occurring in Patients Receiving Pemetrexed in Combination with Cisplatin with or without Full Vitamin Supplementation in Study JMCHa |  |  |
-| --- | --- | --- |
-| Grade 3-4 Adverse Reaction | Fully Supplemented Patients (N=168) | Never Supplemented Patients (N=32) |
-| Neutropenia | 23 | 38 |
-| Vomiting | 11 | 31 |
-| Thrombocytopenia | 5 | 9 |
-| Diarrhea | 4 | 9 |
-| Febrile neutropenia | 1 | 9 |
-| Infection with Grade 3/4 neutropenia | 0 | 6 |
-| a NCI CTCAE version 2.0 |  |  |
+| Table 7: Exploratory Subgroup Analysis of Selected Grade 3-4 Adverse Reactions Occurring in Patients Receiving Pemetrexed in Combination with Cisplatin with or without Full Vitamin Supplementation in Study JMCHa |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Grade 3-4 Adverse Reaction | Fully Supplemented Patients (N=168) | Never Supplemented Patients (N=32) |  |  |
+| Neutropenia | 23 | 38 |  |  |
+| Vomiting | 11 | 31 |  |  |
+| Thrombocytopenia | 5 | 9 |  |  |
+| Diarrhea | 4 | 9 |  |  |
+| Febrile neutropenia | 1 | 9 |  |  |
+| Infection with Grade 3-4 neutropenia | 0 | 6 |  |  |
+| a NCI CTCAE version 2.0 |  |  |  |  |
 
 The following adverse reactions occurred more frequently in patients who were fully vitamin supplemented than in patients who were never supplemented:
 

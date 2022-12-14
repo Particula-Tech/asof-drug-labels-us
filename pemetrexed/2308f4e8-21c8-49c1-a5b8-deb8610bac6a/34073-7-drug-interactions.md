@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Effect of Other Drugs on PEMFEXY
+## 7.1 Effect of Other Drugs on Pemetrexed
 
 Ibuprofen
 

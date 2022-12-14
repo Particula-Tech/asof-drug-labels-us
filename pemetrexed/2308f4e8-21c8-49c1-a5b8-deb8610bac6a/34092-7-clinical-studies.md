@@ -2,9 +2,7 @@
 
 ## 14.1 Non-Squamous NSCLC
 
-Initial Treatment in Combination with Cisplatin
-
-The efficacy of pemetrexed was evaluated in Study JMDB (NCT00087711), a multi-center, randomized (1:1), open-label study conducted in 1725 chemotherapy-naive patients with Stage IIIb/IV NSCLC.
+Initial Treatment in Combination with Cisplatin The efficacy of pemetrexed was evaluated in Study JMDB (NCT00087711), a multi-center, randomized (1:1), open-label study conducted in 1725 chemotherapy-naive patients with Stage IIIb/IV NSCLC.
 Patients were randomized to receive pemetrexed with cisplatin or gemcitabine with cisplatin.
 Randomization was stratified by Eastern Cooperative Oncology Group Performance Status (ECOG PS 0 versus 1), sex, disease stage, basis for pathological diagnosis (histopathological/cytopathological), history of brain metastases, and investigative center.
 Pemetrexed was administered intravenously over 10 minutes at a dose of 500 mg/m2 on Day 1 of each 21-day cycle and cisplatin was administered intravenously at a dose of 75 mg/m2 approximately 30 minutes after pemetrexed administration on Day 1 of each cycle.
@@ -13,7 +11,7 @@ Treatment was administered up to a total of 6 cycles; patients in both arms rece
 The major efficacy outcome measure was overall survival.
 
 A total of 1725 patients were enrolled with 862 patients randomized to pemetrexed in combination with cisplatin and 863 patients to gemcitabine in combination with cisplatin.
-The median age was 61 years (range 26-83 years), 70% were male, 78% were White, 17% were Asian, 2.9% were Hispanic or Latino, and 2.1% were Black or African American, and <1% were other races.
+The median age was 61 years (range 26-83 years), 70% were male, 78% were White, 17% were Asian, 2.9% were Hispanic or Latino, and 2.1% were Black or African American, and < 1% were other races.
 Among patients for whom ECOG PS (n=1722) and smoking history (n=1516) were collected, 65% had an ECOG PS of 1, 36% had an ECOG PS of 0, and 84% were smokers.
 For tumor characteristics, 73% had non-squamous NSCLC and 27% had squamous NSCLC; 76% had Stage IV disease.
 Among 1252 patients with non-squamous NSCLC histology, 68% had a diagnosis of adenocarcinoma, 12% had large cell histology and 20% had other histologic subtypes.
@@ -76,7 +74,7 @@ Median time from initiation of platinum-based chemotherapy to randomization was 
 With regard to tumor characteristics, 81% had Stage IV disease, 73% had non-squamous NSCLC and 27% had squamous NSCLC.
 Among the 481 patients with non-squamous NSCLC, 68% had adenocarcinoma, 4% had large cell, and 28% had other histologies.
 
-Efficacy results for Study JMEN are presented in Table 10 and Figure 4.
+Efficacy results for Study JMEN are presented in Table 10 and Figure4.
 
 | Table 10: Efficacy Results in Study JMEN |  |  |
 | --- | --- | --- |
@@ -99,10 +97,10 @@ The results of pre-specified subgroup analyses by NSCLC histology are presented 
 | --- | --- | --- | --- | --- |
 | Histologic Subgroup | Overall Survival |  | Progression-Free Survival Per Independent Review |  |
 | Pemetrexed (N=441) | Placebo (N=222) | Pemetrexed (N=387) | Placebo (N=194) |  |
-| Non-squamous NSCLC (N=1252) |  |  |  |  |
+| Non-squamous NSCLC (n=481) |  |  |  |  |
 | Median (months) | 15.5 | 10.3 | 4.4 | 1.8 |
 | Hazard ratio (HR)a (95% CI) | 0.70 (0.56,0.88) |  | 0.47 (0.37,0.60) |  |
-| Adenocarcinoma (N=328) |  |  |  |  |
+| Adenocarcinoma (n=328) |  |  |  |  |
 | Median (months) | 16.8 | 11.5 | 4.6 | 2.7 |
 | Hazard ratio (HR)a (95% CI) | 0.73 (0.56,0.96) |  | 0.51 (0.38,0.68) |  |
 | Large cell carcinoma (n=20) |  |  |  |  |
@@ -181,7 +179,7 @@ In subgroup analyses, there was no evidence of a treatment effect on survival in
 | --- | --- | --- |
 | Histologic Subgroup | Pemetrexed (N=283) | Docetaxel (N=288) |
 | Non-squamous NSCLC (N=399) |  |  |
-| Median (months) (95% CI) | 9.3 | 8.0 (6.3,9.3) |
+| Median (months) (95% CI) | 9.3 (7.8,9.7) | 8.0 (6.3,9.3) |
 | Hazard ratio (HR)a (95% CI) | 0.89 (0.71,1.13) |  |
 | Adenocarcinoma (N=301) |  |  |
 | Median (months) (95% CI) | 9.0 (7.6,9.6) | 9.2 (7.5,11.3) |

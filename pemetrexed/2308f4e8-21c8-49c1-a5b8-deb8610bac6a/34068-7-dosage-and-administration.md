@@ -48,11 +48,11 @@ Upon recovery, modify the dosage of PEMFEXY in the next cycle as specified in Ta
 
 For dosage modifications for cisplatin, refer to the prescribing information for cisplatin.
 
-| Table 1: Recommended Dosage Modifications for Adverse Reactions |  |
+| Table 1: Recommended Dosage Modifications for Adverse Reactionsa |  |
 | --- | --- |
 | Toxicity in Most Recent Treatment Cycle | PEMFEXY Dosage Modifications for Next Cycle |
 | Myelosuppressive toxicity [see Warnings and Precautions (5.1)] |  |
-| ANC less than 500/mm3and platelets greater than or equal to 50,000/mm3 OR Platelet count less than 50,000/mm3 without bleeding. | 75% of previous dose |
+| ANC less than 500/mm3 and platelets greater than or equal to 50,000/mm3 OR Platelet count less than 50,000/mm3 without bleeding. | 75% of previous dose |
 | Platelet count less than 50,000/mm3 with bleeding | 50% of previous dose |
 | Recurrent Grade 3 or 4 myelosuppression after 2 dose reductions | Permanently discontinue. |
 | Non-hematologic toxicity |  |
@@ -63,25 +63,26 @@ For dosage modifications for cisplatin, refer to the prescribing information for
 | Recurrent Grade 3 or 4 non-hematologic toxicity after 2 dose reductions | Permanently discontinue. |
 | Severe and life-threatening skin toxicity [see Warnings and Precautions (5.3)] | Permanently discontinue. |
 | Interstitial pneumonitis [see Warnings and Precautions (5.4)] | Permanently discontinue. |
-| aNational Cancer Institute Common Toxicity Criteria for Adverse Events version 2 (NCI CTCAE v2) |  |
+| a National Cancer Institute Common Toxicity Criteria for Adverse Events version 2 (NCI CTCAE v2) |  |
 
 ## 2.7 Preparation and Administration
 
-PEMFEXY is a cytotoxic drug.
+PEMFEXY is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 Calculate the dose of PEMFEXY and determine the number of vials needed.
 Withdraw the calculated dose of PEMFEXY from the vial(s).
-Store unused portion in vial refrigerated at 2°C to 8°C (36°F to 46°F) for up to 28 days.”
+Store unused portion in vial refrigerated at 2°C to 8°C (36°F to 46°F) for up to 28 days.
 Each vial contains 500 mg pemetrexed per 20 mL (25 mg/mL).
 The vial contains an excess of pemetrexed to facilitate delivery of labeled amount.
 
-- Dilute PEMFEXY with 5% Dextrose in Water, USP to achieve a total volume of 100 mL for intravenous infusion.
+- Dilute PEMFEXY with 5% Dextrose in Water, USP or Normal Saline to achieve a total volume of 100 mL for intravenous infusion.
   Do not use other diluents, such as Lactated Ringer’s Injection, USP or Ringer’s Injection, USP.
 - Visually inspect for particulate matter and discoloration prior to administration, whenever solution and container permit.
   Discard if particulate matter or discoloration is observed.
 - Administer PEMFEXY as an intravenous infusion over 10 minutes.
-- Store diluted PEMFEXY refrigerated at 2°C to 8°C (36 °F to 46°F) or at ambient room temperature and room lighting for no more than 48 hours.
+- Store diluted PEMFEXY refrigerated at 2°C to 8°C (36 °F to 46°F) for no more than 48 hours.
+  PEMFEXY diluted with 5% Dextrose in Water, USP can also be stored at ambient room temperature and room light for no more than 48 hours.
   When prepared as directed, infusion solutions of PEMFEXY contain no antimicrobial preservatives.
   Discard after 48 hours.
 
