@@ -1,3 +1,3 @@
-Distributed by: Currax™ Pharmaceuticals LLC Morristown, NJ 07960 USA
+Distributed by: Currax™ Pharmaceuticals LLC Brentwood, TN 37027 USA
 
-SIL-LC087.01
+SIL-LC087.02

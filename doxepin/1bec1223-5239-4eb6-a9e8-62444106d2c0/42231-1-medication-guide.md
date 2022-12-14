@@ -29,5 +29,5 @@
 | What are the ingredients in SILENOR? |  |  |
 | Active Ingredient: doxepin hydrochloride |  |  |
 | Inactive Ingredients: microcrystalline cellulose, colloidal silicon dioxide, and magnesium stearate. The 3 mg tablet also contains FD&C Blue No. 1. The 6 mg tablet also contains FD&C Yellow No. 10 and FD&C Blue No. 1. |  |  |
-| Distributed by: Currax™ Pharmaceuticals LLC, Morristown, NJ 07960 USA SIL-LC088.00 For more information, contact Currax Pharmaceuticals LLC at 1-800-793-2145. |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 10/2020 |
+| Distributed by: Currax™ Pharmaceuticals LLC, Brentwood, TN 37027 USA SIL-LC088.02 For more information, contact Currax Pharmaceuticals LLC at 1-800-793-2145. |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 12/2022 |
