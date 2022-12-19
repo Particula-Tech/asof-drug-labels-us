@@ -2,6 +2,17 @@
 
 The following are discussed in more detail in other sections of the labeling: • Hypokalemia, Fluid Retention and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)]. • Adrenocortical Insufficiency [see Warnings and Precautions (5.2)]. • Hepatotoxicity [see Warnings and Precautions (5.3)]. • Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride [see Warnings and Precautions (5.4)].
 
+## 6.2 Postmarketing Experience
+
+The following additional adverse reactions have been identified during post approval use of abiraterone acetate with prednisone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
+Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
+Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
+Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
+
+Immune System Disorders – Hypersensitivity: anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).
+
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -75,7 +86,7 @@ Table 2: Laboratory Abnormalities of Interest in COU-AA-301
 
 | Laboratory Abnormality | Abiraterone acetate with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |
 | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3- 4 (%) | All Grades (%) | Grade 3- 4 (%) |  |
+| All Grades (%) | Grade 3- 4 (%) | �All Grades (%) | Grade 3- 4 (%) |  |
 | Hypertriglyceridemia | 63 | 0.4 | 53 | 0 |
 | High AST | 31 | 2.1 | 36 | 1.5 |
 | Hypokalemia | 28 | 5.3 | 20 | 1.0 |
@@ -193,14 +204,3 @@ In the same combined data, the majority of arrhythmias were grade 1 or 2.
 There was one death associated with arrhythmia and three patients with sudden death in the abiraterone acetate arms and five deaths in the placebo arms.
 There were 7 (0.3%) deaths due to cardiorespiratory arrest in the abiraterone acetate arms and 2 (0.1%) deaths in the placebo arms.
 Myocardial ischemia or myocardial infarction led to death in 3 patients in the placebo arms and 3 deaths in the abiraterone acetate arms.
-
-## 6.2 Postmarketing Experience
-
-The following additional adverse reactions have been identified during post approval use of abiraterone acetate with prednisone.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
-Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
-Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
-Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
-
-Immune System Disorders – Hypersensitivity: anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).
