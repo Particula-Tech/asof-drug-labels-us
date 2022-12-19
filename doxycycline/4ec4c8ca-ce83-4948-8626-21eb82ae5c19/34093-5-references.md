@@ -13,9 +13,9 @@
    9th edition.
    Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.
 
-Manufactured by: HIKMA Pharmaceuticals P.O.
-Box 182400 Amman 11118 - Jordan
+Manufactured by: Hikma Pharmaceuticals P.O.
+Box 182400 Amman, 11118 - Jordan
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-2INDOXY-E Revised June 2020
+2INDOXY-E Revised 02/2022

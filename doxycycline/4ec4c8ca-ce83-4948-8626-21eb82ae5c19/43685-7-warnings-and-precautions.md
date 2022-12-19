@@ -1,9 +1,9 @@
 # WARNINGS
 
 The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-­gray-­brown).
-This adverse reaction is more common during long­term use of the drugs, but it has been observed following repeated short­term courses.
+This adverse reaction is more common during long-­term use of the drugs, but it has been observed following repeated short-­term courses.
 Enamel hypoplasia has also been reported.
-Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life­threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
+Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-­threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Doxycycline Hyclate Capsules, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -16,7 +16,7 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens­Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline (See ADVERSE REACTIONS).
+Severe skin reactions such as exfoliative dermatitis, erythema multiforme, Stevens-­Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline (See ADVERSE REACTIONS).
 If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Doxycycline Hyclate Capsules.
@@ -90,7 +90,7 @@ All patients taking doxycycline should be advised:
 
 - that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
-Patients should be counseled that antibacterial drugs, including Doxycycline Hyclate Capsules should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs, including Doxycycline Hyclate Capsules, should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When Doxycycline Hyclate Capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Doxycycline Hyclate Capsules or other antibacterial drugs in the future.
@@ -152,7 +152,7 @@ All mothers reported their exposed infants were normal at 1 year of age.3
 
 ## Nonteratogenic Effects
 
-(See WARNINGS.)
+(See WARNINGS).
 
 ## Labor and Delivery
 
