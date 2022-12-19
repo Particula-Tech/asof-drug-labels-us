@@ -36,7 +36,7 @@ Although the degree to which these abnormalities are related to octreotide aceta
 
 Although acromegaly may lead to infertility, there are reports of pregnancy in acromegalic women.
 In women with active acromegaly who have been unable to become pregnant, normalization of GH and IGF-1 (somatomedin C) may restore fertility.
-Female patients of childbearing potential should be advised to use adequate contraception during treatment with octreotide.
+Female patients of child-bearing potential should be advised to use adequate contraception during treatment with octreotide.
 
 ## Hyperglycemia and Hypoglycemia
 
@@ -47,7 +47,7 @@ Severe hyperglycemia, subsequent pneumonia, and death following initiation of oc
 In patients with concomitant Type I diabetes mellitus, octreotide acetate injection may affect glucose regulation, and insulin requirements may be reduced.
 Symptomatic hypoglycemia, which may be severe, has been reported in these patients.
 In nondiabetics and Type II diabetics with partially intact insulin reserves, octreotide acetate injection administration may result in decreases in plasma insulin levels and hyperglycemia.
-It is therefore recommended that glucose tolerance and antidiabetic treatment be periodically monitored during therapy with these drugs.
+It is therefore recommended that glucose tolerance and anti-diabetic treatment be periodically monitored during therapy with these drugs.
 
 ## Thyroid Function Abnormalities
 
@@ -78,7 +78,7 @@ Octreotide acetate injection may alter absorption of dietary fats in some patien
 
 Depressed vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide acetate injection therapy, and monitoring of vitamin B12 levels is recommended during chronic octreotide acetate injection therapy.
 
-## Increased half-life of Octreotide Acetate Injection in Patients with Renal Failure on Dialysis
+## Increased Half-life of Octreotide Acetate Injection in Patients with Renal Failure on Dialysis
 
 In patients with severe renal failure requiring dialysis, the half-life of octreotide acetate injection may be increased, necessitating adjustment of the maintenance dosage.
 
@@ -112,6 +112,9 @@ Patients receiving insulin, oral hypoglycemic agents, beta blockers, calcium cha
 Concomitant administration of octreotide and bromocriptine increases the availability of bromocriptine.
 Limited published data indicate that somatostatin analogs might decrease the metabolic clearance of compounds known to be metabolized by cytochrome P450 enzymes, which may be due to the suppression of growth hormone (GH).
 Since it cannot be excluded that octreotide may have this effect, other drugs mainly metabolized by CYP3A4 and which have a low therapeutic index (e.g., quinidine, terfenadine) should therefore be used with caution.
+
+Octreotide competitively binds to somatostatin receptors and may interfere with the efficacy of lutetium Lu 177 dotatate.
+Discontinue octreotide acetate injection at least 24 hours prior to each lutetium Lu 177 dotatate dose.
 
 ## Drug/Laboratory Test Interactions
 
