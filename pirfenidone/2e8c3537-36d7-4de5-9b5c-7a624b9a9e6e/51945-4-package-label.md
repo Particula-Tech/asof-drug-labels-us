@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 267 mg Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 267 mg Capsule Bottle Carton
 
 NDC 50242-121-01
 
@@ -8,11 +8,11 @@ Esbriet® (pirfenidone) capsules
 
 Keep out of reach of children.
 
-Rx only 270 Capsules
+Rx only 270 capsules
 
 Genentech
 
-10177533
+10232150
 
 # PRINCIPAL DISPLAY PANEL - 267 mg Tablet Bottle Carton
 
@@ -28,7 +28,7 @@ Rx only
 
 270 tablets Genentech
 
-10190520
+10190507
 
 # PRINCIPAL DISPLAY PANEL - 801 mg Tablet Bottle Carton
 
