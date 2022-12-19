@@ -1,5 +1,9 @@
-Distd by: Civica, Inc. Lehi, Utah 84043
+Dist by: Civica, Inc. Lehi, Utah 84043
 
-Mfd for: Xellia Pharmaceuticals USA, LLC Made in Hyderabad, Telangana India
+Mfd for: Xellia Pharmaceuticals USA, LLC
 
-PSLEA-020239-01 Code No: AP/DRUGS/103/97
+Made in Hyderabad, Telangana India
+
+PSLEA-020239-02
+
+Code No: AP/DRUGS/103/97
