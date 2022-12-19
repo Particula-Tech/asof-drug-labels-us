@@ -27,7 +27,7 @@ Serious viral infections reported include:
 - Polyomavirus-associated nephropathy (PVAN), especially due to BK virus infection
 - JC virus-associated progressive multifocal leukoencephalopathy (PML), and
 - Cytomegalovirus (CMV) infections: CMV seronegative transplant patients who receive an organ from a CMV seropositive donor are at highest risk of CMV viremia and CMV disease.
-- Viral reactivation in patients infected with Hepatitis B and C.
+- Viral reactivation in patients infected with Hepatitis B and C
 - COVID-19
 
 Consider dose reduction or discontinuation of mycophenolate mofetil in patients who develop new infections or reactivate viral infections, weighing the risk that reduced immunosuppression represents to the functioning allograft.
@@ -70,7 +70,7 @@ Physicians should be aware of these serious adverse effects particularly when ad
 
 Mycophenolate mofetil is an inosine monophosphate dehydrogenase (IMPDH) inhibitor; therefore it should be avoided in patients with hereditary deficiencies of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndromes because it may cause an exacerbation of disease symptoms characterized by the overproduction and accumulation of uric acid leading to symptoms associated with gout such as acute arthritis, tophi, nephrolithiasis or urolithiasis and renal disease including renal failure.
 
-## 5.7 Acute Inflammatory Syndrome
+## 5.7 Acute Inflammatory Syndrome Associated with Mycophenolate Products
 
 Acute inflammatory syndrome (AIS) has been reported with the use of MMF and mycophenolate products, and some cases have resulted in hospitalization.
 AIS is a paradoxical pro-inflammatory reaction characterized by fever, arthralgias, arthritis, muscle pain and elevated inflammatory markers including, C-reactive protein and erythrocyte sedimentation rate, without evidence of infection or underlying disease recurrence.

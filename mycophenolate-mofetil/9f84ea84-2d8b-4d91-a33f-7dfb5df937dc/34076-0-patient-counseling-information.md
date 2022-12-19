@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 ## 17.1 Embryofetal Toxicity
 
-Pregnancy loss and malformations.
+Pregnancy loss and malformations
 
 - Inform females of reproductive potential and pregnant women that use of mycophenolate mofetil during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of congenital malformations.
   Advise that they must use an acceptable form of contraception [see Warnings and Precautions (5.1), Use in Specific Populations (8.1, 8.3)].
@@ -51,8 +51,7 @@ Advise patients to contact their physician if they develop fever, joint stiffnes
 ## 17.7 Immunizations
 
 Inform patients that mycophenolate mofetil can interfere with the usual response to immunizations.
-Before seeking vaccines on their own, advise patients to discuss first with their physician.
-[see Warnings and Precautions (5.8)].
+Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.8)].
 
 ## 17.8 Administration Instructions
 
@@ -68,15 +67,13 @@ Advise patients not to donate blood during therapy and for at least 6 weeks foll
 
 ## 17.10 Semen Donation
 
-Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.11)].
+Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Warnings and Precautions (5.12)].
 
 ## 17.11 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [see Warnings and Precautions (5.11)].
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [see Warnings and Precautions (5.14)].
 
 Manufactured by: Alkem Laboratories Ltd., INDIA.
 
 Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
-
-PT2075-10

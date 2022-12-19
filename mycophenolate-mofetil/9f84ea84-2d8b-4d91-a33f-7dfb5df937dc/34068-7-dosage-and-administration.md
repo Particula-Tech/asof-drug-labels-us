@@ -19,39 +19,76 @@ If needed, mycophenolate mofetil for oral suspension can be administered via a n
 
 Patients should be instructed to take a missed dose as soon as they remember, except if it is closer than 2 hours to the next scheduled dose; in this case, they should continue to take mycophenolate mofetil at the usual times.
 
-## 2.2 Dosing for Kidney Transplant Patients: Adults and Pediatrics
+## 2.2 Dosage Recommendations for Kidney Transplant Patients
 
 Adults
 
-The recommended dosage for adult kidney transplant patients is 1 g orally or intravenously infused over no less than 2 hours, twice daily (daily dose of 2 g).
+The recommended dosage for adult kidney transplant patients is 1 g orally or intravenously infused over no less than 2 hours, twice daily (total daily dose of 2 g).
 
 Pediatrics (3 months and older)
 
 Pediatric dosing is based on body surface area (BSA).
-The recommended dosage of mycophenolate mofetil for oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum daily dose of 2g or 10 mL of the oral suspension).
+The recommended dosage of mycophenolate mofetil for oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum total daily dose of 2g or 10 mL of the oral suspension).
 Pediatric patients with BSA ≥ 1.25 m2 may be dosed with capsules or tablets as follows:
 
-Table 1.
-Pediatric Dosing Using Capsules or Tablets for Pediatric Kidney Transplant
+Table 1 Pediatric Kidney Transplant: Dosage Using Capsules or Tablets
 
-| Body Surface Area | Dosing |
+| Body Surface Area | Dosage |
 | --- | --- |
-| 1.25 m2 to less than 1.5 m2 | Mycophenolate mofetil capsule 750 mg twice daily (1.5 g daily dose) |
-| Greater than and equal to 1.5 m2 | Mycophenolate mofetil capsules or tablets 1 g twice daily (2 g daily dose) |
+| 1.25 m2 to less than 1.5 m2 | Mycophenolate mofetil capsule 750 mg twice daily (1.5 g total daily dose) |
+| Greater than and equal to 1.5 m2 | Mycophenolate mofetil capsules or tablets 1 g twice daily (2 g total daily dose) |
 
-## 2.3 Dosing for Heart Transplant Patients: Adults
+## 2.3 Dosage Recommendations for Heart Transplant Patients
 
-The recommended dosage of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally or intravenously infused over no less than 2 hours administered twice daily (daily dose of 3 g).
+Adults
 
-## 2.4 Dosing for Liver Transplant Patients: Adults
+The recommended dosage of mycophenolate mofetil for adult heart transplant patients is 1.5 g orally or intravenously infused over no less than 2 hours administered twice daily (total daily dose of 3 g).
 
-The recommended dosage of mycophenolate mofetil for adult liver transplant patients is 1.5 g administered orally twice daily (daily dose of 3 g) or 1 g infused intravenously over no less than 2 hours, twice daily (daily dose of 2 g).
+Pediatrics (3 months and older)
 
-## 2.5 Dosing Adjustments: Patients with Renal Impairment, Neutropenia
+The recommended starting dosage of mycophenolate mofetil oral suspension for pediatric heart transplant patients 3 months and older is 600 mg/m2, administered twice daily.
+If well tolerated, the dose can be increased to a maintenance dosage of 900 mg/m2 twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
+The dose may be individualized based on clinical assessment.
+
+Pediatric patients with BSA ≥1.25 m2 may be started on therapy with capsules or tablets as follows:
+
+Table 2 Pediatric Heart Transplant: Pediatric Starting Dosage Using Capsules or Tablets
+
+| Body Surface Area | Starting Dosage* |
+| --- | --- |
+| 1.25 m2 to less than 1.5 m2 | Mycophenolate mofetil capsule 750 mg twice daily (1.5 g total daily dose) |
+| ≥ 1.5 m2 | Mycophenolate mofetil capsules or tablets 1 g twice daily (2 g total daily dose) |
+
+*Maximum maintenance dose: 3 g total daily.
+
+## 2.4 Dosage Recommendations for Liver Transplant Patients
+
+Adults
+
+The recommended dosage of mycophenolate mofetil for adult liver transplant patients is 1.5 g administered orally twice daily (total daily dose of 3 g) or 1 g infused intravenously over no less than 2 hours, twice daily (total daily dose of 2 g).
+
+Pediatrics (3 months and older)
+
+The recommended starting dosage of mycophenolate mofetil oral suspension for pediatric liver transplant patients 3 months of age and older is 600 mg/m2, administered twice daily.
+If well tolerated, the dose can be increased to a maintenance dosage of 900 mg/m2 twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
+The dose may be individualized based on clinical assessment.
+
+Pediatric patients with BSA ≥1.25 m2 may be started on therapy with capsules or tablets as follows:
+
+Table 3 Pediatric Liver Transplant: Pediatric Starting Dosage Using Capsules or Tablets
+
+| Body Surface Area | Starting Dosage* |
+| --- | --- |
+| 1.25 m2 to less than 1.5 m2 | mycophenolate mofetil capsule 750 mg twice daily (1.5 g total daily dose) |
+| ≥ 1.5 m2 | mycophenolate mofetil capsules or tablets 1 g twice daily (2 g total daily dose) |
+
+*Maximum maintenance dose: 3 g total daily.
+
+## 2.5 Dosage Modifications: Patients with Renal Impairment, Neutropenia
 
 Renal Impairment
 
-No dose adjustments are needed in kidney transplant patients with delayed graft function postoperatively [see Clinical Pharmacology (12.3)].
+No dosage modifications are needed in kidney transplant patients with delayed graft function postoperatively [see Clinical Pharmacology (12.3)].
 In kidney transplant patients with severe chronic impairment of the graft (GFR less than 25 mL/min/1.73 m2), do not administer doses of mycophenolate mofetil greater than 1 g twice a day.
 These patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 
@@ -64,7 +101,8 @@ If neutropenia develops (ANC less than 1.3 x 103/mcL), dosing with mycophenolate
 General Preparation Instructions Before Handling the Formulations
 
 Mycophenolate mofetil (MMF) has demonstrated teratogenic effects in humans.
-Follow applicable special handling and disposal procedures.1 [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Use in Specific Populations (8.1, 8.3), How Supplied/Storage and Handling (16.1)]
+Follow applicable special handling and disposal procedures1.
+[see Warnings and Precautions (5.1), Adverse Reactions (6.2), Use in Specific Populations (8.1, 8.3), How Supplied/Storage and Handling (16.1)].
 
 Care should be taken to avoid inhalation or direct contact with skin or mucous membranes of the dry powder or the constituted suspension because MMF has demonstrated teratogenic effects in humans.
 Wearing disposable gloves is recommended during reconstitution and when wiping the outer surface of the bottle/cap and the table surface after reconstitution.

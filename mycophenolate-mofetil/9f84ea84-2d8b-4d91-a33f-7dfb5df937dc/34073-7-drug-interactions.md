@@ -2,21 +2,20 @@
 
 ## 7.1 Effect of Other Drugs on Mycophenolate Mofetil
 
-Table 5.
-Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA) Exposure
+Table 7 Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA) Exposure
 
 | Antacids with Magnesium or Aluminum Hydroxide |  |
 | --- | --- |
 | Clinical Impact | Concomitant use with an antacid containing magnesium or aluminum hydroxide decreases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
 | Prevention or Management | Administer magnesium or aluminum hydroxide containing antacids at least 2h after mycophenolate mofetil administration. |
 | Proton Pump Inhibitors (PPIs) |  |
-| Clinical Impact | Concomitant use with PPIs decreases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy |
+| Clinical Impact | Concomitant use with PPIs decreases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
 | Prevention or Management | Monitor patients for alterations in efficacy when PPIs are co-administered with mycophenolate mofetil |
 | Examples | Lansoprazole, pantoprazole |
 | Drugs that Interfere with Enterohepatic Recirculation |  |
 | Clinical Impact | Concomitant use with drugs that directly interfere with enterohepatic recirculation, or indirectly interfere with enterohepatic recirculation by altering the gastrointestinal flora, can decrease MPA systemic exposure [see Clinical Pharmacology (12.3)], which may reduce mycophenolate mofetil efficacy. |
 | Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil |
-| Examples | Trimethoprim/sulfamethoxazole, bile acid sequestrants (cholestyramine), rifampin as well as aminoglycoside, cephalosporin, fluoroquinolone and penicillin classes of antimicrobials |
+| Examples | Cyclosporine A, trimethoprim / sulfamethoxazole, bile acid sequestrants (cholestyramine), rifampin as well as aminoglycoside, cephalosporin, fluoroquinolone and penicillin classes of antimicrobials |
 | Drugs Modulating Glucuronidation |  |
 | Clinical Impact | Concomitant use with drugs inducing glucuronidation decreases MPA systemic exposure, potentially reducing mycophenolate mofetil efficacy, while use with drugs inhibiting glucuronidation increases MPA systemic exposure [see Clinical Pharmacology (12.3)], which may increase the risk of mycophenolate mofetil related adverse reactions. |
 | Prevention or Management | Monitor patients for alterations in efficacy or mycophenolate mofetil related adverse reactions when these drugs are co-administered with mycophenolate mofetil |
@@ -28,13 +27,12 @@ Drug Interactions with Mycophenolate Mofetil that Affect Mycophenolic Acid (MPA)
 
 ## 7.2 Effect of Mycophenolate Mofetil on Other Drugs
 
-Table 6.
-Drug Interactions with Mycophenolate Mofetil that Affect Other Drugs
+Table 8 Drug Interactions with Mycophenolate Mofetil that Affect Other Drugs
 
 | Drugs that Undergo Renal Tubular Secretion |  |
 | --- | --- |
-| Clinical Impact | When concomitantly used with mycophenolate mofetil, its metabolite MPAG, may compete with drugs eliminated by renal tubular secretion which may increase plasma concentrations and/or adverse reactions associated with these drugs |
-| Prevention or Management | Monitor for drug-related adverse reactions in patients with renal impairment |
+| Clinical Impact | When concomitantly used with mycophenolate mofetil, its metabolite MPAG, may compete with drugs eliminated by renal tubular secretion which may increase plasma concentrations and/or adverse reactions associated with these drugs. |
+| Prevention or Management | Monitor for drug-related adverse reactions in patients with renal impairment. |
 | Examples | Acyclovir, ganciclovir, probenecid, valacyclovir, valganciclovir |
 | Combination Oral Contraceptives |  |
 | Clinical Impact | Concomitant use with mycophenolate mofetil decreased the systemic exposure to levonorgestrel, but did not affect the systemic exposure to ethinylestradiol [see Clinical Pharmacology (12.3)], which may result in reduced combination oral contraceptive effectiveness. |

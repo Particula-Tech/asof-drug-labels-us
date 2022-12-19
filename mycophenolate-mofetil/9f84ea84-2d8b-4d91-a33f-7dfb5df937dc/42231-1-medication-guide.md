@@ -1,8 +1,8 @@
 # MEDICATION GUIDE
 
-Mycophenolate Mofetil (MYE-koe-FEN-oh-late MOE-fe-til) Capsules USP 250mg
+Mycophenolate Mofetil (MYE-koe-FEN-oh-late MOE-fe-til) Capsules USP 250 mg
 
-Mycophenolate Mofetil (MYE-koe-FEN-oh-late MOE-fe-til) Tablets USP 500mg
+Mycophenolate Mofetil (MYE-koe-FEN-oh-late MOE-fe-til) Tablets USP 500 mg
 
 Read the Medication Guide that comes with mycophenolate mofetil capsules or tablets before you start taking it and each time you refill your prescription.
 There may be new information.
@@ -34,7 +34,7 @@ Females who take mycophenolate mofetil during pregnancy have a higher risk of mi
 
 o By phone at 1-800-617-8191 or
 
-o By visiting the REMS website at:www.mycophenolateREMS.com
+o By visiting the REMS website at: www.mycophenolateREMS.com
 
 The purpose of this registry is to gather information about the health of you and your baby.
 
@@ -154,14 +154,14 @@ How should I take mycophenolate mofetil?
   Do not take 2 doses at the same time.
   Call your doctor if you are not sure what to do.
 - Take mycophenolate mofetil capsules, tablets and oral suspension on an empty stomach, unless your doctor tells you otherwise.
-- Do not crush mycophenolate mofetil tablets.
-- Do not open or crush mycophenolate mofetil capsules
+  Do not crush mycophenolate mofetil tablets.
+- Do not open or crush mycophenolate mofetil capsules.
 - If you are not able to swallow mycophenolate mofetil tablets or capsules, your doctor may prescribe mycophenolate mofetil for oral suspension.
   This is a liquid form of mycophenolate mofetil.
   Your pharmacist will mix the medicine before you pick it up from a pharmacy.
 - Do not mix mycophenolate mofetil for oral suspension with any other medicine.
   Mycophenolate mofetil for oral suspension should not be mixed with any type of liquids before taking the dose.
-  See the instructions for use at the end of this medication guide for detailed instructions about how to take mycophenolate mofetil for oral suspension the right way.
+  See the Instructions for Use at the end of this Medication Guide for detailed instructions about how to take mycophenolate mofetil for oral suspension the right way.
 - Do not breathe in (inhale) or let mycophenolate mofetil powder or oral suspension come in contact with your skin or mucous membranes.
 
 - If you accidentally get the powder or oral suspension on the skin, wash the area well with soap and water.
@@ -172,7 +172,7 @@ How should I take mycophenolate mofetil?
 What should I avoid while taking mycophenolate mofetil?
 
 - Avoid becoming pregnant.
-  See “What is the most important information I should know about mycophenolate mofetil?”
+  (See “What is the most important information I should know about mycophenolate mofetil?”).
 
 - Limit the amount of time you spend in sunlight.
   Avoid using tanning beds or sunlamps.
@@ -187,7 +187,7 @@ What should I avoid while taking mycophenolate mofetil?
 
 What are the possible side effects of mycophenolate mofetil?
 
-mycophenolate mofetil can cause serious side effects, including:
+mycophenolate mofetil may cause serious side effects, including:
 
 - See “What is the most important information I should know about mycophenolate mofetil?”
 - Low blood cell counts.
@@ -253,22 +253,22 @@ How should I store mycophenolate mofetil?
 
 Keep mycophenolate mofetil and all medicines out of the reach of children.
 
-General Information about the safe and effective use of mycophenolate mofetil.
+General information about the safe and effective use of mycophenolate mofetil.
 
-Medicines are sometimes prescribed for purposes other than those listed in a medication guide.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use mycophenolate mofetil for a condition for which it was not prescribed.
 Do not give mycophenolate mofetil to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This medication guide summarizes the most important information about mycophenolate mofetil.
+This Medication Guide summarizes the most important information about mycophenolate mofetil.
 If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about mycophenolate mofetil that is written for health professionals.
+You can ask your doctor or pharmacist about mycophenolate mofetil that is written for health professionals.
 
 What are the ingredients in mycophenolate mofetil?
 
-Active Ingredient: Mycophenolate mofetil
+Active ingredient: Mycophenolate mofetil
 
-Inactive Ingredients: Mycophenolate mofetil 250 mg capsules: croscarmellose sodium, pregelatinized starch, povidone (K-90), isopropyl alcohol, and magnesium stearate.
+Inactive ingredients: Mycophenolate mofetil 250 mg capsules: croscarmellose sodium, pregelatinized starch, povidone (K-90), isopropyl alcohol, and magnesium stearate.
 The capsule shells contain gelatin, sodium lauryl sulphate, FD&C blue 2, red iron oxide, yellow iron oxide, and titanium dioxide.
 The capsule is printed with edible black ink comprised of shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution, black iron oxide, and potassium hydroxide.
 
@@ -278,7 +278,7 @@ All trademarks in this document are the property of their respective owners.
 
 For more information call at Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272-7901)
 
-This Medication Guide has been approved by the US Food and Drug Administration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
@@ -292,6 +292,6 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: May, 2022
+Revised: September, 2022
 
-PT1264-09
+PT 2075-12
