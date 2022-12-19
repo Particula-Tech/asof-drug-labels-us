@@ -48,7 +48,7 @@ Mortality
 Death was not a pre-specified end point in any trial, but was analyzed in all trials.
 Overall, in these 4 US trials, mortality was reduced, nominally significantly so in 2 trials.
 
-COMET Trial
+The COMET Trial
 
 In this double-blind trial, 3,029 subjects with NYHA class II-IV heart failure (left ventricular ejection fraction ≤35%) were randomized to receive either carvedilol (target dose: 25 mg twice daily) or immediate-release metoprolol tartrate (target dose: 50 mg twice daily).
 The mean age of the subjects was approximately 62 years, 80% were males, and the mean left ventricular ejection fraction at baseline was 26%.

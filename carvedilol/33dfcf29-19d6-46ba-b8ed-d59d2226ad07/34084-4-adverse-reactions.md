@@ -59,9 +59,9 @@ The adverse event profile of Carvedilol Tablets observed in the long-term COMET 
 | Vision abnormal | 5 | 2 | - | - |
 
 Cardiac failure and dyspnea were also reported in these trials, but the rates were equal or greater in subjects who received placebo.
-The following adverse events were reported with a frequency of >1% but ≤3% and more frequently with Carvedilol Tablets in either the US placebo-controlled trials in subjects with mild-to-moderate heart failure, or in subjects with severe heart failure in the COPERNICUS trial.
+The following adverse events were reported with a frequency of greater than 1% but less than or equal to 3% and more frequently with Carvedilol Tablets in either the US placebo-controlled trials in subjects with mild-to-moderate heart failure, or in subjects with severe heart failure in the COPERNICUS trial.
 
-Incidence >1% to ≤ 3%
+Incidence greater than 1% to less than or equal to 3%
 
 Body as a Whole: Allergy, malaise, hypovolemia, fever, leg edema.
 
@@ -94,7 +94,7 @@ Approximately 75% of the subjects received Carvedilol Tablet for at least 6 mont
 Subjects were treated for an average of 12.9 months and 12.8 months with Carvedilol Tablet and placebo, respectively.
 
 The most common adverse events reported with Carvedilol Tablets in the CAPRICORN trial were consistent with the profile of the drug in the US heart failure trials and the COPERNICUS trial.
-The only additional adverse events reported in CAPRICORN in >3% of the subjects and more commonly on carvedilol were dyspnea, anemia, and lung edema.
+The only additional adverse events reported in CAPRICORN in greater than 3% of the subjects and more commonly on carvedilol were dyspnea, anemia, and lung edema.
 
 The following adverse events were reported with a frequency of greater than 1% but less than or equal to 3% and more frequently with Carvedilol Tablet: Flu syndrome, cerebrovascular accident, peripheral vascular disorder, hypotonia, depression, gastrointestinal pain, arthritis, and gout.
 The overall rates of discontinuations due to adverse events were similar in both groups of patients.
@@ -163,17 +163,14 @@ Hematologic: Anemia, leukopenia.
 
 The following events were reported in less than or equal to 0.1% of patients and are potentially important: Complete AV block, bundle branch block, myocardial ischemia, cerebrovascular disorder, convulsions, migraine, neuralgia, paresis, anaphylactoid reaction, alopecia, exfoliative dermatitis, amnesia, GI hemorrhage, bronchospasm, pulmonary edema, decreased hearing, respiratory alkalosis, increased BUN, decreased HDL, pancytopenia, and atypical lymphocytes.
 
-## 6.2 Laboratory Abnormalities
+Laboratory Abnormalities Reversible elevations in serum transaminases (ALT or AST) have been observed during treatment with Carvedilol Tablet.
+Rates of transaminase elevations (2 to 3 times the upper limit of normal) observed during controlled clinical trials have generally been similar between subjects treated with Carvedilol Tablet and those treated with placebo.
+However, transaminase elevations, confirmed by re-challenge, have been observed with Carvedilol Tablet.
+In a long-term, placebo-controlled trial in severe heart failure, subjects treated with Carvedilol Tablet had lower values for hepatic transaminases than subjects treated with placebo, possibly because improvements in cardiac function induced by Carvedilol Tablet led to less hepatic congestion and/or improved hepatic blood flow.
+Carvedilol Tablet has not been associated with clinically significant changes in serum potassium, total triglycerides, total cholesterol, HDL, Uric acid, blood urea nitrogen, or creatinine.
+No clinically relevant changes were noted in fasting serum glucose in hypertensive patients; fasting serum glucose was not evaluated in the heart failure clinical trials.
 
-Reversible elevations in serum transaminases (ALT or AST) have been observed during treatment with Carvedilol Tablet.
-Rates of transaminase elevations (2 to 3 times the upper limit of normal) observed during controlled clinical trials have generally been similar between patients treated with Carvedilol Tablet and those treated with placebo.
-However, transaminase elevations, confirmed by rechallenge, have been observed with Carvedilol Tablet.
-In a long-term, placebo-controlled trial in severe heart failure, patients treated with Carvedilol Tablet had lower values for hepatic transaminases than patients treated with placebo, possibly because improvements in cardiac function induced by Carvedilol Tablet led to less hepatic congestion and/or improved hepatic blood flow.
-
-Carvedilol Tablet has not been associated with clinically significant changes in serum potassium, total triglycerides, total cholesterol, HDL cholesterol, uric acid, blood urea nitrogen, or creatinine.
-No clinically relevant changes were noted in fasting serum glucose in hypertensive patients.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of Carvedilol Tablet.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

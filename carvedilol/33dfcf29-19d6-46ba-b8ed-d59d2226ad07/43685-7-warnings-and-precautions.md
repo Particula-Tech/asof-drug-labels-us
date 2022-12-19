@@ -2,7 +2,7 @@
 
 ## 5.1 Cessation of Therapy
 
-Patients with coronary artery disease, who are being treated with Carvedilol Tablets, should be advised against abrupt discontinuation of therapy.
+Patients with coronary artery disease, who are being treated with Carvedilol Tablet should be advised against abrupt discontinuation of therapy.
 Severe exacerbation of angina and the occurrence of myocardial infarction and ventricular arrhythmias have been reported in angina patients following the abrupt discontinuation of therapy with β-blockers.
 The last 2 complications may occur with or without preceding exacerbation of the angina pectoris.
 As with other β-blockers, when discontinuation of Carvedilol Tablet is planned, the patients should be carefully observed and advised to limit physical activity to a minimum.
@@ -13,7 +13,7 @@ Because coronary artery disease is common and may be unrecognized, it may be pru
 ## 5.2 Bradycardia
 
 In clinical trials, Carvedilol Tablet caused bradycardia in about 2% of hypertensive patients, 9% of heart failure patients and 6.5% of myocardial infarction patients with left ventricular dysfunction.
-If pulse rate drops below 55 beats/minute, the dosage should be reduced.
+If pulse rate drops below 55 beats per minute, the dosage should be reduced.
 
 ## 5.3 Hypotension
 
@@ -23,9 +23,11 @@ In a long-term, placebo-controlled trial in severe heart failure (COPERNICUS), h
 These events were a cause for discontinuation of therapy in 1.1% of subjects receiving Carvedilol Tablets, compared with 0.8% of placebo subjects.
 
 Postural hypotension occurred in 1.8% and syncope in 0.1% of hypertensive patients, primarily following the initial dose or at the time of dose increase and was a cause for discontinuation of therapy in 1% of patients.
+
 In the CAPRICORN study of survivors of an acute myocardial infarction, hypotension or postural hypotension occurred in 20.2% of patients receiving Carvedilol Tablet compared to 12.6% of placebo patients.
 Syncope was reported in 3.9% and 1.9% of patients, respectively.
 These events were a cause for discontinuation of therapy in 2.5% of patients receiving Carvedilol Tablet, compared to 0.2% of placebo patients.
+
 Starting with a low dose, administration with food, and gradual up-titration should decrease the likelihood of syncope or excessive hypotension [see Dosage and Administration (2.2, 2.3)].
 During initiation of therapy, the patient should be cautioned to avoid situations such as driving or hazardous tasks, where injury could result should syncope occur.
 
@@ -35,7 +37,6 @@ Worsening heart failure or fluid retention may occur during up-titration of Carv
 If such symptoms occur, diuretics should be increased and the Carvedilol Tablet dose should not be advanced until clinical stability resumes [see Dosage and Administration (2)].
 Occasionally it is necessary to lower the Carvedilol Tablet dose or temporarily discontinue it.
 Such episodes do not preclude subsequent successful titration of, or a favorable response to carvedilol.
-
 In a placebo-controlled trial of subjects with severe heart failure, worsening heart failure during the first 3 months was reported to a similar degree with carvedilol and with placebo.
 When treatment was maintained beyond 3 months, worsening heart failure was reported less frequently in subjects treated with carvedilol than with placebo.
 Worsening heart failure observed during long-term therapy is more likely to be related to the patients’ underlying disease than to treatment with carvedilol.
