@@ -1,10 +1,8 @@
-Revised: July 2021 L103I R-2110
+Revised: February 2017 L103I R-1704
 
 Manufactured for:
 
-BPI Labs, LLC,
-
-Largo, FL 33773 USA
+BPI Labs, LLC, Freehold, NJ 07728 USA
 
 Manufactured by:
 

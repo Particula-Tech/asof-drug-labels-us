@@ -7,7 +7,7 @@ For Intravenous Infusion, Intramuscular and Subcutaneous Use, and Intraocular Us
 
 Usual Dose: See insert labeling
 
-Each mL contains: 1 mg Epinephrine, Sodium Chloride 8.6 mg, Water for Injection, USP pH adjusted with Hydrochloric Acid.
+Each mL contains: 1 mg Epinephrine, Sodium Chloride 9 mg, Water for Injection, USP pH adjusted with Hydrochloric Acid.
 
 WARNING: Do not use the solution if it is colored or cloudy, or if it contains particulate matter.
 
@@ -16,6 +16,6 @@ WARNING: Do not use the solution if it is colored or cloudy, or if it contains p
 CONTAINS NO SULFITES OR PRESERVATIVES
 
 Rev.
-R-2110
+R-1702
 
 LOT EXP
