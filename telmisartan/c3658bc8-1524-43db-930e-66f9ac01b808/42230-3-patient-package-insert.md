@@ -17,6 +17,7 @@ What are telmisartan tablets?
 Telmisartan tablets are a prescription medicine used:
 
 - •to treat high blood pressure (hypertension)
+- •in certain high risk people aged 55 years and older to help lower their risk of having certain cardiovascular problems such as stroke, heart attack, or death
 
 It is not known if telmisartan tablets are safe and effective in children.
 
@@ -148,6 +149,10 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 High blood pressure makes the heart work harder to pump blood throughout the body and causes damage to the blood vessels.
 If high blood pressure is not treated, it can lead to stroke, heart attack, heart failure, kidney failure, and vision problems.
 
+What is Cardiovascular Risk?
+
+Patients older than 55 years of age who have been diagnosed with blood vessel disease in the heart, legs, or brain (coronary, peripheral, or cerebral vascular disease) or diabetes with end organ damage (for example: kidney, heart, and brain) are at higher risk of cardiovascular events (for example: death from cardiovascular causes, stroke, and/or heart attack).
+
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
 The brands listed are trademarks of their respective owners.
@@ -156,6 +161,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75064479
+75093593
 
-Revised: 3/2018 MX:TLMS:R5p/MX:PL:TLMS:R3p
+Revised: 10/2022 MX:TLMS:R6p/MX:PL:TLMS:R4p

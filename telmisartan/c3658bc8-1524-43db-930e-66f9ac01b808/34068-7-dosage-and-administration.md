@@ -15,3 +15,10 @@ Patients on dialysis may develop orthostatic hypotension; their blood pressure s
 Telmisartan tablets may be administered with other antihypertensive agents.
 
 Telmisartan tablets may be administered with or without food.
+
+## 2.2 Cardiovascular Risk Reduction
+
+The recommended dose of telmisartan tablets is 80 mg once a day and can be administered with or without food.
+It is not known whether doses lower than 80 mg of telmisartan are effective in reducing the risk of cardiovascular morbidity and mortality.
+
+When initiating telmisartan therapy for cardiovascular risk reduction, monitoring of blood pressure is recommended, and if appropriate, adjustment of medications that lower blood pressure may be necessary.
