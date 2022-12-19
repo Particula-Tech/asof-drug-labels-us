@@ -3,17 +3,16 @@
 ## 7.1 Use with Other CNS Depressants
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABAAsites and opioids interact primarily at mu receptors.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 If alprazolam orally disintegrating tablets are coadministered with other psychotropic agents or anticonvulsant drugs, carefully consider the pharmacology of the agents to be employed, particularly with compounds which might potentiate the action of benzodiazepines.
-The benzodiazepines, including alprazolam, produce additive CNS depressant effects when coadministered with other psychotropic medications, anticonvulsants, antihistaminics, alcohol and other drugs which themselves produce CNS depression
+The benzodiazepines, including alprazolam, produce additive CNS depressant effects when coadministered with other psychotropic medications, anticonvulsants, antihistaminics, alcohol and other drugs which themselves produce CNS depression.
 
 ## 7.2 Drugs Effecting Salivary Flow and Stomach pH
 
-Because alprazolam orally disintegrating tablets disintegrates in the presence of saliva, and the formulation requires an acidic environment to dissolve, concomitant drugs or diseases that cause dry mouth or raise stomach pH might slow disintegration or dissolution, resulting in slowed or decreased absorption.
+Because alprazolam orally disintegrating tablets disintegrate in the presence of saliva, and the formulation requires an acidic environment to dissolve, concomitant drugs or diseases that cause dry mouth or raise stomach pH might slow disintegration or dissolution, resulting in slowed or decreased absorption.
 
 ## 7.3 Use with Imipramine and Desipramine
 
@@ -23,11 +22,11 @@ The clinical significance of these changes is unknown.
 ## 7.4 Drugs that Inhibit Alprazolam Metabolism via Cytochrome P450 3A
 
 The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
-Drugs which inhibit this metabolic pathway can have a profound effect on the clearance of alprazolam [see CONTRAINDICATIONS (4) and Warnings and Precautions (5.9)].
+Drugs which inhibit this metabolic pathway can have a profound effect on the clearance of alprazolam [see Contraindications (4) and Warnings and Precautions (5.8)].
 
-## 7.5 Drugs Demonstrated to be CYP3A Inhibitors of Possible Clinical Significance on the Basis of Clinical Studies Involving Alprazolam (caution is recommended during coadministration with alprazolam)
+## 7.5 Drugs Demonstrated to be CYP3A Inhibitors of Possible Clinical Significance on the Basis of Clinical Studies Involving Alprazolam
 
-Use caution during coadministration of alprazolam and the following drugs:
+Use caution during coadministration of Alprazolam and the following drugs:
 
 Fluoxetine — Coadministration of fluoxetine with alprazolam increased the maximum plasma concentration of alprazolam by 46%, decreased clearance by 21%, increased half-life by 17%, and decreased measured psychomotor performance.
 
@@ -37,13 +36,12 @@ Oral Contraceptives — Coadministration of oral contraceptives increased the ma
 
 ## 7.6 Drugs and Other Substances Demonstrated to be CYP3A Inhibitors on the Basis of Clinical Studies Involving Benzodiazepines Metabolized Similarly to Alprazolam or on the Basis of In Vitro Studies with Alprazolam or Other Benzodiazepines
 
-Use caution during the coadministration of alprazolam and the following:
+Use caution during the coadministration of Alprazolam and the following:
 
 Available data from clinical studies of benzodiazepines other than alprazolam suggest a possible drug interaction between alprazolam and the following: diltiazem, isoniazid, macrolide antibiotics such as erythromycin and clarithromycin, and grapefruit juice.
 Data from in vitro studies of alprazolam suggest a possible drug interaction between alprazolam and the following: sertraline and paroxetine.
 However, data from an in vivo drug interaction study involving a single dose of alprazolam 1 mg and steady state doses of sertraline (50 mg to 150 mg per day) did not reveal any clinically significant changes in the pharmacokinetics of alprazolam.
-Data from in vitro studies of benzodiazepines other than alprazolam suggest a possible drug interaction between benzodiazepines and the following: ergotamine, cyclosporine, amiodarone, nicardipine, and nifedipine.
-[see Warnings and Precautions (5.9)].
+Data from in vitro studies of benzodiazepines other than alprazolam suggest a possible drug interaction between benzodiazepines and the following: ergotamine, cyclosporine, amiodarone, nicardipine, and nifedipine [see Warnings and Precautions (5.8)].
 
 ## 7.7 Inducers of CYP3A
 

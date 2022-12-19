@@ -6,7 +6,7 @@ In such cases, the dosage should be increased cautiously to avoid adverse reacti
 In general, benzodiazepines should be prescribed for short periods.
 Reevaluate the need for continued therapy before extending the treatment period.
 
-## 2.1 Generalized Anxiety Disorders
+## 2.1 Generalized Anxiety Disorder
 
 Initiate treatment with a dose of 0.25 mg to 0.5 mg three times daily.
 The dose may be increased to achieve a maximum therapeutic effect, at intervals of 3 to 4 days, to a maximum daily dose of 4 mg, given in divided doses.
@@ -35,8 +35,7 @@ Dose Maintenance
 
 For patients receiving doses greater than 4 mg per day, periodically reassess treatment and consider a reduction of dosage.
 In a controlled postmarketing dose-response study, patients treated with doses of alprazolam greater than 4 mg per day for 3 months were able to taper to 50% of their total daily maintenance dose without apparent loss of clinical benefit.
-Because of the danger of withdrawal, avoid abrupt discontinuation of treatment.
-[see WARNINGS AND PRECAUTIONS (5.3), Drug Abuse and Dependence (9.3)].
+Because of the danger of withdrawal, avoid abrupt discontinuation of treatment [see Warnings and Precautions (5.3), Drug Abuse and Dependence (9.3)].
 
 The necessary duration of treatment for panic disorder patients responding to alprazolam is unknown.
 After a period of extended freedom from attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena.
@@ -50,7 +49,7 @@ Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3)
 In a controlled postmarketing discontinuation study of panic disorder patients which compared this recommended taper schedule with a slower taper schedule, there was no difference between the groups in the proportion of patients who tapered and completely discontinued treatment with alprazolam; however, the slower schedule was associated with a reduction in symptoms associated with a withdrawal syndrome.
 Reduce the dose by no more than 0.5 mg every 3 days.
 Some patients may benefit from an even more gradual discontinuation.
-Some patients may prove resistant to all discontinuation regimens
+Some patients may prove resistant to all discontinuation regimens.
 
 ## 2.4 Dosing in Special Populations
 
@@ -62,5 +61,5 @@ If adverse reactions occur at the recommended starting dose, the dose may be low
 ## 2.5 Instructions to be Given to Patients for Use/Handling Alprazolam Orally Disintegrating Tablets
 
 Just prior to administration, with dry hands, remove the tablet from the blister.
-Immediately place the Alprazolam Orally Disintegrating Tablet on top of the tongue where it will disintegrate and be swallowed with saliva.
+Immediately place the alprazolam orally disintegrating tablet on top of the tongue where it will disintegrate and be swallowed with saliva.
 Administration with liquid is not necessary.

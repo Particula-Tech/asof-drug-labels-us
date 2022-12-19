@@ -12,7 +12,7 @@ Absorption
 Following oral administration, alprazolam is readily absorbed.
 The peak plasma concentration is reached about 1.5 to 2 hours after administration of alprazolam given with or without water.
 When taken with water, mean Tmax occurs about 15 minutes earlier than when taken without water with no change in Cmax or AUC.
-Plasma levels are proportional to the dose given; over the dose range of 0.5 mg to 3.0 mg, peak levels of 8.0 to 37 ng/mL are observed.
+Plasma levels are proportional to the dose given; over the dose range of 0.5 mg to 3 mg, peak levels of 8 to 37 ng/mL are observed.
 The elimination half-life of alprazolam is approximately 12.5 hours (range 7.9 to 19.2 hours) after administration of alprazolam in healthy adults.
 
 Food decreased the mean Cmax by about 25% and increased the mean Tmax by 2 hours from 2.2 hours to 4.4 hours after the ingestion of a high-fat meal.
@@ -30,7 +30,7 @@ A benzophenone derived from alprazolam is also found in humans.
 Their half-lives appear to be similar to that of alprazolam.
 The plasma concentrations of 4-hydroxyalprazolam and α-hydroxyalprazolam relative to unchanged alprazolam concentration were always less than 4%.
 The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4-hydroxyalprazolam and α-hydroxyalprazolam.
-Such low concentrations and the lesser potencies of 4¬hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
+Such low concentrations and the lesser potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam suggest that they are unlikely to contribute much to the pharmacological effects of alprazolam.
 The benzophenone metabolite is essentially inactive.
 
 Alprazolam and its metabolites are excreted primarily in the urine.
@@ -59,10 +59,10 @@ Alprazolam is primarily eliminated by metabolism via cytochrome P450 3A (CYP3A).
 Most of the interactions that have been documented with alprazolam are with drugs that inhibit or induce CYP3A.
 
 Compounds that are potent inhibitors of CYP3A would be expected to increase plasma alprazolam concentrations.
-Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold [see CONTRAINDICATIONS (4), Warnings and Precautions (5.9), and DRUG INTERACTIONS (7)].
+Drug products that have been studied in vivo, along with their effect on increasing alprazolam AUC, are as follows: ketoconazole, 3.98 fold; itraconazole, 2.70 fold; nefazodone, 1.98 fold; fluvoxamine, 1.96 fold; and erythromycin, 1.61 fold [see Contraindications (4), Warnings and Precautions (5.8), and Drug Interactions (7)].
 
 CYP3A inducers would be expected to decrease alprazolam concentrations and this has been observed in vivo.
-The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90 ± 0.21 mL/min/kg to 2.13 ± 0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1 ± 4.9 to 7.7 ± 1.7 h) following administration of 300 mg/day carbamazepine for 10 days [see DRUG INTERACTIONS (7)].
+The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90 ± 0.21 mL/min/kg to 2.13 ± 0.54 mL/min/kg and the elimination t1/2 was shortened (from 17.1 ± 4.9 to 7.7 ± 1.7 h) following administration of 300 mg/day carbamazepine for 10 days [see Drug Interactions (7)].
 However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000 mg to 1200 mg/day); the effect at usual carbamazepine doses is unknown.
 
 The ability of alprazolam to induce or inhibit human hepatic enzyme systems has not been determined.

@@ -5,9 +5,10 @@
   Limit dosages and durations to the minimum required.
   Follow patients for signs and symptoms of respiratory depression and sedation [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
 
-- The use of benzodiazepines, including Alprazolam orally disintegrating tablets, exposes users torisks of abuse, misuse, and addiction, which can lead to overdose or death.
+- The use of benzodiazepines, including Alprazolam orally disintegrating tablets, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
   Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
   Before prescribing Alprazolam orally disintegrating tablets and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction [see Warnings and Precautions (5.2)].
+
 - The continued use of benzodiazepines, including Alprazolam orally disintegrating tablets, may lead to clinically significant physical dependence.
   The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
   Abrupt discontinuation or rapid dosage reduction of Alprazolam orally disintegrating tablets after continued use may precipitate acute withdrawal reactions, which can be life-threatening.

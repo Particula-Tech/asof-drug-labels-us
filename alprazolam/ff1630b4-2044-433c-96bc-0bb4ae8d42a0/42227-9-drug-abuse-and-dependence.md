@@ -27,15 +27,15 @@ Physical Dependence
 
 Alprazolam orally disintegrating tablets may produce physical dependence from continued therapy.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
-Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be lifethreatening.
+Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Alprazolam orally disintegrating tablets or reduce the dosage [see Dosage and Administration (2.3) and Warnings and Precautions (5.3)].
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue alprazolam orally disintegrating tablets or reduce the dosage [see Dosage and Administration (2.3) and Warnings and Precautions (5.3)].
 
 Acute Withdrawal Signs and Symptoms
 
 Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
-More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures and suicidality.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
 
 Protracted Withdrawal Syndrome
 
@@ -45,6 +45,6 @@ As a result, there may be difficulty in differentiating withdrawal symptoms from
 
 Tolerance
 
-Tolerance to Alprazolam orally disintegrating tablets may develop from continued therapy.
+Tolerance to alprazolam orally disintegrating tablets may develop from continued therapy.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
-Tolerance to the therapeutic effect of Alprazolam orally disintegrating tablets may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
+Tolerance to the therapeutic effect of alprazolam orally disintegrating tablets may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
