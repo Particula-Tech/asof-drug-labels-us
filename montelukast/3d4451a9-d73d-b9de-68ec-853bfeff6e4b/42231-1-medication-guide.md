@@ -17,6 +17,6 @@ Rx only
 
 Distributor: Dr. Reddy’s Laboratories Inc., Princeton, NJ 08540 Made in India
 
-Revised: 0221
+Revised: 10/2022
 
 Dispense with Medication Guide available at: www.drreddys.com/pi/montelukasttabsandchewtabs.pdf

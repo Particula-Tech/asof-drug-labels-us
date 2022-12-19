@@ -29,7 +29,7 @@ Table 2: Recommended Dosage in Exercise-Induced Bronchoconstriction (EIB).
 | Adult and adolescent patients 15 years of age and older | one 10 mg tablet |
 | Pediatric patients 6 to 14 yearsof age* | one 5 mg chewable tablet |
 
-*Safety and effectiveness in patients younger than 6 years of age have not been established.
+* Safety and effectiveness in patients younger than 6 years of age have not been established.
 
 An additional dose of montelukast sodium should not be taken within 24 hours of a previous dose.
 Patients already taking montelukast sodium daily for another indication (including chronic asthma) should not take an additional dose to prevent EIB.
