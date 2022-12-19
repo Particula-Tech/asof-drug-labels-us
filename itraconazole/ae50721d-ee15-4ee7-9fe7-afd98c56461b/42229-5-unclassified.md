@@ -1,17 +1,9 @@
-Revised: 04/2019
+Revised: 12/2022
 
-©2003 Janssen Pharmaceutical Companies
-
-Product of Belgium
-
-Manufactured by:
-
-Janssen Pharmaceutica NV
-
-Beerse, Belgium
+© 2003 Janssen Pharmaceutical Companies
 
 Manufactured for:
 
 Janssen Pharmaceuticals, Inc.
 
-Titusville, NJ 08560
+Titusville, NJ 08560, USA

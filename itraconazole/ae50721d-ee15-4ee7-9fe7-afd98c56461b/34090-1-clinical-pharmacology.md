@@ -8,8 +8,8 @@
 
 Peak plasma concentrations are reached within 2.5 hours following administration of the oral solution.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with Cmax and AUC values 4 to 7-fold higher than those seen after a single dose.
-Steady-state Cmax values of about 2 µg/mL are reached after oral administration of 200 mg once daily.
+Steady-state concentrations are generally reached within about 15 days, with C max and AUC values 4 to 7-fold higher than those seen after a single dose.
+Steady-state C max values of about 2 µg/mL are reached after oral administration of 200 mg once daily.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
@@ -50,8 +50,8 @@ Based on an oral radiolabeled dose, fecal excretion of unchanged drug ranges fro
 
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n = 7; hemodialysis: n = 7; and continuous ambulatory peritoneal dialysis: n = 5).
-In uremic subjects with a mean creatinine clearance of 13 mL/min.×1.73 m2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
-This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0–8h).
+In uremic subjects with a mean creatinine clearance of 13 mL/min.×1.73 m 2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
+This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (T max, C max, and AUC 0–8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
 
 After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50–79 mL/min), moderate (defined in this study as CrCl 20–49 mL/min), and severe renal impairment (defined in this study as CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42–49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
@@ -65,7 +65,7 @@ Dialysis has no effect on the half-life or clearance of itraconazole or hydroxy-
 
 Itraconazole is predominantly metabolized in the liver.
 A pharmacokinetic study was conducted in 6 healthy and 12 cirrhotic subjects who were administered a single 100-mg dose of itraconazole as capsule.
-A statistically significant reduction in mean Cmax (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
+A statistically significant reduction in mean C max (47%) and a twofold increase in the elimination half-life (37 ± 17 hours vs. 16 ± 5 hours) of itraconazole were noted in cirrhotic subjects compared with healthy subjects.
 However, overall exposure to itraconazole, based on AUC, was similar in cirrhotic patients and in healthy subjects.
 Data are not available in cirrhotic patients during long-term use of itraconazole.
 (See CONTRAINDICATIONS, PRECAUTIONS: Drug Interactions and DOSAGE AND ADMINISTRATION.)
@@ -74,7 +74,7 @@ Data are not available in cirrhotic patients during long-term use of itraconazol
 
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
-If signs or symptoms of congestive heart failure appear during administration of SPORANOX® Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX® Oral Solution administration.
+If signs or symptoms of congestive heart failure appear during administration of SPORANOX ® Oral Solution, monitor carefully and consider other treatment alternatives which may include discontinuation of SPORANOX ® Oral Solution administration.
 (See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
 
 ### Cystic Fibrosis
@@ -83,7 +83,7 @@ Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered it
 Sixteen patients completed the study.
 Steady state trough concentrations >250 ng/mL were achieved in 6 out of 11 patients ≥16 years of age but in none of the 5 patients <16 years of age.
 Large variability was observed in the pharmacokinetic data (%CV for trough concentrations = 98% and 70% for ≥16 and <16 years, respectively; %CV for AUC = 75% and 58% for ≥16 and <16 years, respectively).
-If a patient with cystic fibrosis does not respond to SPORANOX® Oral Solution, consideration should be given to switching to alternative therapy.
+If a patient with cystic fibrosis does not respond to SPORANOX ® Oral Solution, consideration should be given to switching to alternative therapy.
 
 ### Hydroxypropyl-β-Cyclodextrin
 
