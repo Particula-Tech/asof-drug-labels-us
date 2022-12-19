@@ -22,20 +22,20 @@ There is no clear benefit of the dipyridamole/aspirin combination over aspirin w
 
 Table 1 Incidence of Adverse Events in ESPS2a
 
-| Individual Treatment Group |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body System/Preferred Term | Aspirin and Extended-Release Dipyridamolen (%/year)b |  | ER-DP Alonen (%/year)b |  |  | ASA Alonen (%/year)b |  | Placebon (%/year)b |  |
-| Total Number of Patients | 1,650 |  | 1,654 |  |  | 1,649 |  | 1,649 |  |
-| Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |  |
-| Headache | 647 | (28.25) |  | 634 | (27.91) | 558 | (22.10) | 543 | (22.29) |
-| Gastrointestinal System Disorders |  |  |  |  |  |  |  |  |  |
-| Dyspepsia | 303 | (13.23) |  | 288 | (12.68) | 299 | (11.84) | 275 | (11.29) |
-| Abdominal Pain | 289 | (12.62) |  | 255 | (11.22) | 262 | (10.38) | 239 | (9.81) |
-| Nausea | 264 | (11.53) |  | 254 | (11.18) | 210 | (8.32) | 232 | (9.53) |
-| Diarrhea | 210 | (9.17) |  | 257 | (11.31) | 112 | (4.44) | 161 | (6.61) |
-| Vomiting | 138 | (6.03) |  | 129 | (5.68) | 101 | (4.00) | 118 | (4.84) |
-| Platelet, Bleeding and Clotting Disorders |  |  |  |  |  |  |  |  |  |
-| Hemorrhage NOS | 52 | (2.27) |  | 24 | (1.06) | 46 | (1.82) | 24 | (0.99) |
+| Individual Treatment Group |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Body System/Preferred Term | Aspirin and Extended-Release Dipyridamolen (%/year)b |  | ER-DP Alonen (%/year)b |  | ASA Alonen (%/year)b |  | Placebon (%/year)b |  |
+| Total Number of Patients | 1,650 |  | 1,654 |  | 1,649 |  | 1,649 |  |
+| Central and Peripheral Nervous System Disorders |  |  |  |  |  |  |  |  |
+| Headache | 647 | (28.25) | 634 | (27.91) | 558 | (22.10) | 543 | (22.29) |
+| Gastrointestinal System Disorders |  |  |  |  |  |  |  |  |
+| Dyspepsia | 303 | (13.23) | 288 | (12.68) | 299 | (11.84) | 275 | (11.29) |
+| Abdominal Pain | 289 | (12.62) | 255 | (11.22) | 262 | (10.38) | 239 | (9.81) |
+| Nausea | 264 | (11.53) | 254 | (11.18) | 210 | (8.32) | 232 | (9.53) |
+| Diarrhea | 210 | (9.17) | 257 | (11.31) | 112 | (4.44) | 161 | (6.61) |
+| Vomiting | 138 | (6.03) | 129 | (5.68) | 101 | (4.00) | 118 | (4.84) |
+| Platelet, Bleeding and Clotting Disorders |  |  |  |  |  |  |  |  |
+| Hemorrhage NOS | 52 | (2.27) | 24 | (1.06) | 46 | (1.82) | 24 | (0.99) |
 
 aReported by ≥1%/year of patients during aspirin and extended-release dipyridamole treatment where the incidence was at least 1%/year greater than in those treated with placebo.
 
