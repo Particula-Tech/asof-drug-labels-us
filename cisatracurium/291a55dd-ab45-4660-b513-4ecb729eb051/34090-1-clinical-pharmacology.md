@@ -127,7 +127,7 @@ The compartmental PK modeling suggests that approximately 80% of the cisatracuri
 These findings are consistent with the low magnitude of interpatient variability in CL (16%) estimated as part of the population PK/PD analyses and with the recovery of parent and metabolites in urine.
 
 In studies of healthy surgical patients, mean t½β values of cisatracurium ranged from 22 to 29 minutes and were consistent with the t½β of cisatracurium in vitro (29 minutes).
-The mean ± SD t½β values of laudanosine were 3.1 ± 0.4 and 3.3 ± 2.1 hours in healthy surgical patients receiving cisatracurium besylate (n=10).
+The mean ± SD t½β values of laudanosine were 3.1 ± 0.4 hours in healthy surgical patients receiving cisatracurium besylate (n=10).
 
 Metabolism
 

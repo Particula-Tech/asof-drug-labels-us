@@ -4,11 +4,12 @@
 
 Risk Summary
 
-There are no adequate and well-controlled studies of cisatracurium besylate in pregnant women.
-Animal studies conducted in rats administered cisatracurium besylate during organogenesis found no evidence of fetal harm at 0.8 times (ventilated rats) the exposure from a human starting IV bolus dose of 0.2 mg/kg.
-The background risk for major birth defects and miscarriage in the indicated population is unknown.
+There are no available clinical trial data on cisatracurium use in pregnancy to evaluate a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+Animal studies conducted in rats administered cisatracurium besylate during organogenesis (Gestational Day 6 to 15) found no evidence of fetal harm at 0.8 times (ventilated rats) the exposure from a human starting IV bolus dose of 0.2 mg/kg (see Data).
+
+The estimated background risk for major birth defects and miscarriage in the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -23,11 +24,11 @@ Animal Data
 Two embryofetal developmental reproductive toxicity studies were conducted in rats.
 In a non-ventilated rat study, pregnant animals were treated with cisatracurium besylate subcutaneously twice per day from Gestational Day 6 to 15 using subparalyzing doses (2 and 4 mg/kg daily; equivalent to 6- and 12-times, respectively, the AUC exposure in humans following a bolus dose of 0.2 mg/kg IV).
 In the ventilated rat study, pregnant animals were treated with cisatracurium besylate intravenously once a day between Gestational Day 6 to 15 using paralyzing doses (0.5 and 1 mg/kg; equivalent to 0.4- and 0.8-times, respectively, the exposure in humans following a bolus dose of 0.2 mg/kg IV based on mg/m2 comparison).
-Neither of these studies revealed maternal or fetal toxicity or teratogenic effects.
+Neither of these studies revealed maternal or fetal toxicity or malformations.
 
 ## 8.2 Lactation
 
-It is not known whether cisatracurium besylate is present in human milk.
+There are no data on the presence of cisatracurium besylate in human milk, the effects on the breastfed child, or the effects on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for cisatracurium besylate and any potential adverse effects on the breastfed child from cisatracurium besylate or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
@@ -86,7 +87,7 @@ However, based on its structural similarity to another neuromuscular blocking ag
 
 ## 8.9 Patients with Hemiparesis or Paraparesis
 
-Patients with hemiparesis or paraparesis may demonstrate resistance to nondepolarizing muscle relaxants in the affected limbs.
+Patients with hemiparesis or paraparesis may demonstrate resistance to nondepolarizing neuromuscular blocking agents in the affected limbs.
 To avoid inaccurate dosing, perform neuromuscular monitoring on a non-paretic limb.
 
 ## 8.10 Patients with Neuromuscular Disease

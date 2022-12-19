@@ -7,7 +7,3 @@ Advise the caregiver and/or family that severe hypersensitivity reactions have o
 Manufactured in India by Gland Pharma Limited for
 
 Sandoz Inc., Princeton, NJ 08540
-
-Rev: May 2020
-
-LEA-019404-03

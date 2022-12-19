@@ -2,7 +2,12 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-Important administration instructions include:
+Risk of Medication Errors
+
+Accidental administration of neuromuscular blocking agents may be fatal.
+Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings andPrecautions (5.5)].
+
+Important Administration Instructions
 
 - •Cisatracurium besylate injection is for intravenous use only.
 - •Administer cisatracurium besylate injection in carefully adjusted dosage by or under the supervision of experienced clinicians who are familiar with the drug’s actions and the possible complications.
@@ -14,11 +19,6 @@ Important administration instructions include:
   - oAssess the extent of recovery from neuromuscular blockade (e.g., spontaneous recovery or recovery after administration of a reversal agent, e.g., neostigmine).
   - oAppropriately titrate doses to potentially limit exposure to toxic metabolites.
   - oFacilitate more rapid reversal of the cisatracurium besylate injection-induced paralysis.
-
-Risk of Medication Errors
-
-Accidental administration of neuromuscular blocking agents may be fatal.
-Store cisatracurium besylate injection with the cap and ferrule intact and in a manner that minimizes the possibility of selecting the wrong product [see Warnings andPrecautions (5.5)].
 
 ## 2.2 Recommended Cisatracurium Besylate Injection Dose for Performing Tracheal Intubation
 
@@ -85,7 +85,7 @@ Greater reductions in the cisatracurium besylate injection infusion rate may be 
 Patients Undergoing Coronary Artery Bypass Graft (CABG) Surgery
 
 Consider reducing the infusion rate in patients undergoing CABG with induced hypothermia to half the rate required during normothermia [see Clinical Pharmacology (12.2)].
-Spontaneous recovery from neuromuscular block following discontinuation of infusion of cisatracurium besylate injection infusion is expected to proceed at a rate comparable to that following administration of a single bolus dose.
+Spontaneous recovery from neuromuscular block following discontinuation of cisatracurium besylate injection infusion is expected to proceed at a rate comparable to that following administration of a single bolus dose.
 
 Continuous Infusion for Mechanical Ventilation in the Intensive Care Unit in Adults
 
@@ -129,6 +129,8 @@ Tables 1 and 2 provide guidelines for the cisatracurium besylate injection infus
 Visually inspect cisatracurium besylate injection for particulate matter and discoloration prior to administration.
 If a cisatracurium besylate injection solution is cloudy or contains visible particulates, do not use cisatracurium besylate injection.
 Cisatracurium besylate injection is a colorless to slightly yellow or greenish-yellow solution.
+
+Discard unused portion.
 
 Cisatracurium besylate injection may be diluted to 0.1 mg/mL in the following solutions:
 
