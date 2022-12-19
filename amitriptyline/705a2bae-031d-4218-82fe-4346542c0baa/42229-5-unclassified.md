@@ -9,15 +9,13 @@ Amitriptyline is metabolized by N-demethylation and bridge hydroxylation in man,
 Virtually the entire dose is excreted as glucuronide or sulfate conjugate of metabolites, with little unchanged drug appearing in the urine.
 Other metabolic pathways may be involved.
 
-Manufactured by
+Manufactured in India by
 
-Sandoz Inc.
+Sandoz Private Ltd., for
 
-Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540
 
 Rev.
-November 2021
+May 2022
 
-46299644
-
-MF42029394REV11/21
+46309875
