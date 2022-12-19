@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA204744"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-425-30",
+    "62135-426-30",
+    "62135-427-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "paroxetine",
+      "name": "Paroxetine"
+    }
+  ],
+  "setid": "52c3c5c4-6434-4f95-b5f0-9ecfdc0a7e0a",
+  "source": "dailymed"
+}
