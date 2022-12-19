@@ -23,7 +23,7 @@ The duration of maintenance doses was affected to a greater extent, increasing b
 
 Potentiation by these agents is also observed with respect to the infusion rates of rocuronium bromide required to maintain approximately 95% neuromuscular block.
 Under isoflurane and enflurane anesthesia, the infusion rates are decreased by approximately 40% compared to opioid/nitrous oxide/oxygen anesthesia.
-The median spontaneous recovery time (from 25 to 75% of control T1) is not affected by halothane, but is prolonged by enflurane (15% longer) and isoflurane (62% longer).
+The median spontaneous recovery time (from 25 to 75% of control T 1) is not affected by halothane, but is prolonged by enflurane (15% longer) and isoflurane (62% longer).
 Reversal-induced recovery of rocuronium bromide neuromuscular block is minimally affected by anesthetic technique [see Dosage and Administration (2.6) and Warnings and Precautions (5.10)].
 
 ## 7.4 Lithium Carbonate
@@ -61,4 +61,4 @@ This possibility must also be considered for rocuronium bromide [see Warnings an
 The use of rocuronium bromide before succinylcholine, for the purpose of attenuating some of the side effects of succinylcholine, has not been studied.
 
 If rocuronium bromide is administered following administration of succinylcholine, it should not be given until recovery from succinylcholine has been observed.
-The median duration of action of rocuronium bromide 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T1 returned to 75% of control was 36 minutes (range: 14-57, n=12) vs. 28 minutes (range: 17-51, n=12) without succinylcholine.
+The median duration of action of rocuronium bromide 0.6 mg/kg administered after a 1 mg/kg dose of succinylcholine when T 1 returned to 75% of control was 36 minutes (range: 14-57, n=12) vs. 28 minutes (range: 17-51, n=12) without succinylcholine.

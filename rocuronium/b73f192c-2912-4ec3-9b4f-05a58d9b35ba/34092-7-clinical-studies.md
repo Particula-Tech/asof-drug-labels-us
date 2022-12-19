@@ -53,7 +53,7 @@ Recovery times from 25 to 75% after these doses were not prolonged in geriatric 
 Rocuronium bromide 0.45, 0.6, or 1 mg/kg was evaluated under sevoflurane (induction) and isoflurane/nitrous oxide (maintenance) anesthesia for intubation in 326 patients in 2 studies.
 In 1 of these studies maintenance bolus and infusion requirements were evaluated in 137 patients.
 In all age groups, doses of 0.6 mg/kg provided time to maximum block in about 1 minute.
-Across all age groups, median (range) time to reappearance of T3 for doses of 0.6 mg/kg was shortest in the children [36.7 (20.1-65.9) minutes] and longest in infants [59.8 (32.3-87.8) minutes].
+Across all age groups, median (range) time to reappearance of T 3 for doses of 0.6 mg/kg was shortest in the children [36.7 (20.1-65.9) minutes] and longest in infants [59.8 (32.3-87.8) minutes].
 For pediatric patients older than 3 months, the time to recovery was shorter after stopping infusion maintenance when compared with bolus maintenance [see Dosage and Administration (2.6) and Use in Specific Populations (8.4)].
 
 Rocuronium bromide 0.6 or 0.8 mg/kg was evaluated for intubation in 75 pediatric patients (n=28; age 3 to 12 months, n=47; age 1 to 12 years) in 3 studies using halothane (1-5%) and nitrous oxide (60-70%) in oxygen.
