@@ -1,11 +1,11 @@
 ABRAXANE® for Injectable Suspension (paclitaxel protein-bound particles for injectable suspension) (albumin-bound)
 
-Manufactured for: Celgene Corporation Summit, NJ 07901
+Manufactured by:
 
-ABRAXANE® is a registered trademark of Abraxis BioScience, LLC. © 2005-2020 Abraxis BioScience, LLC.
-All Rights Reserved.
-Abraxis BioScience, LLC is a wholly owned subsidiary of Celgene Corporation.
+Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-U.S. Patent Numbers: www.celgene.com/therapies
+ABRAXANE® is a trademark of Abraxis BioScience, LLC, a Bristol-Myers Squibb company.
 
-ABRPI.012/PPI.012
+U.S. Patent Numbers: www.bms.com/patient-and-caregivers/our-medicines.html
+
+ABRPI.013/PPI.013
