@@ -95,10 +95,11 @@ ARIMIDEX may cause serious side effects including:
   Get medical help right away if you get:
 - -swelling of your face, lips, tongue, or throat
 - -trouble swallowing or breathing
+
 - •liver problems.
   ARIMIDEX can cause inflammation of your liver and changes in liver function blood tests.
   Your healthcare provider may check you for this.
-- Stop taking ARIMIDEX and call your healthcare provider right away if you have any of these signs or symptoms of a liver problem:
+  Stop taking ARIMIDEX and call your healthcare provider right away if you have any of these signs or symptoms of a liver problem:
 - -a general feeling of not being well
 - -yellowing of your skin or whites of your eyes
 - -pain on the right side of your stomach-area (abdomen)
