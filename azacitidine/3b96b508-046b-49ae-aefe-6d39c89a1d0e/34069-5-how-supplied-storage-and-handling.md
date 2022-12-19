@@ -6,8 +6,7 @@ Azacitidine for Injection is a white to off-white lyophilized powder or lyophili
 
 | NDC | Azacitidine for Injection (100 mg per vial) | Package Factor |
 | --- | --- | --- |
-| 71288-153-95 | 100 mg of Azacitidine and 100 mg Mannitol | 1 vial per carton |
-|  | in a 30mL Single-Dose Vial |  |
+| 71288-153-95 | 100 mg of Azacitidine and 100 mg Mannitol in a 30mL Single-Dose Vial | 1 vial per carton |
 
 Storage
 
@@ -21,6 +20,6 @@ The container closure is not made with natural rubber latex.
 
 Handling and Disposal
 
-Azacitidine for Injection is a cytotoxic drug.
+Azacitidine for Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.
 1

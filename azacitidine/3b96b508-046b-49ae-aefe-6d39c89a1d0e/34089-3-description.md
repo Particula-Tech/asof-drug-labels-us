@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Azacitidine for Injection contains azacitidine, which is a pyrimidine nucleoside analog of cytidine.
+Azacitidine for Injection contains azacitidine, which is a nucleoside metabolic inhibitor.
 Azacitidine is 4-amino-1-β-D-ribofuranosyl-s-triazin-2(1H)-one.
 The structural formula is as follows:
 

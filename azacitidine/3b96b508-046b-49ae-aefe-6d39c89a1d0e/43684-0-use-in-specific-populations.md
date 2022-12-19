@@ -30,7 +30,7 @@ Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomal
 Risk Summary
 
 There is no information regarding the presence of azacitidine in human milk, the effects of azacitidine on the breastfed infant, or the effects of azacitidine on milk production.
-Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies [see Nonclinical Toxicology (13.1)] and the potential for serious adverse reactions in nursing infants from azacitidine, advise patients not to breastfeed during treatment with azacitidine.
+Because many drugs are excreted in human milk and because of the potential for tumorigenicity shown for azacitidine in animal studies [see Nonclinical Toxicology (13.1)] and the potential for serious adverse reactions in nursing infants from azacitidine, advise patients not to breastfeed during treatment with azacitidine and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -44,11 +44,12 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to avoid pregnancy during treatment with azacitidine.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with azacitidine and for 6 months after the last dose.
 
 Males
 
-Males with female sexual partners of reproductive potential should not father a child and should use effective contraception during treatment with azacitidine.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with azacitidine and for 3 months after the last dose.
 
 Infertility
 
@@ -56,17 +57,20 @@ Based on animal data, azacitidine could have an effect on male or female fertili
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+Safety and effectiveness of azacitidine in pediatric patients with MDS have not been established.
+
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
 Of the total number of patients in Studies 1, 2 and 3, 62% were 65 years and older and 21% were 75 years and older.
 No overall differences in effectiveness were observed between these patients and younger patients.
-In addition there were no relevant differences in the frequency of adverse reactions observed in patients 65 years and older compared to younger patients.
+In addition, there were no relevant differences in the frequency of adverse reactions observed in patients 65 years and older compared to younger patients.
 
 Of the 179 patients randomized to azacitidine in Study 4, 68% were 65 years and older and 21% were 75 years and older.
 Survival data for patients 65 years and older were consistent with overall survival results.
 The majority of adverse reactions occurred at similar frequencies in patients <65 years of age and patients 65 years of age and older.
 
 Elderly patients are more likely to have decreased renal function.
-Monitor renal function in these patients [see Dosage and Administration (2.5) and Warnings and Precautions (5.3)].
+Monitor renal function in these patients [see Dosage and Administration (2.7) and Warnings and Precautions (5.4)].
