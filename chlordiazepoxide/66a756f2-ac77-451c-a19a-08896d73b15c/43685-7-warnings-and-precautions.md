@@ -43,17 +43,17 @@ In some cases, benzodiazepine users have developed a protracted withdrawal syndr
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
 There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 1.
 
 Table 1: Risk Differences of the Number of Patients of Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
-| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
+| Age Range | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1,000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | < 18 years old | 14 additional patients |
-| 18-24 years old | 5 additional patients |
+| 18 to 24 years old | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25-64 years old | 1 fewer patient |
+| 25 to 64 years old | 1 fewer patient |
 | ≥ 65 years old | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in children, adolescents, and young adults extends to longer-term use, i.e., beyond four months.

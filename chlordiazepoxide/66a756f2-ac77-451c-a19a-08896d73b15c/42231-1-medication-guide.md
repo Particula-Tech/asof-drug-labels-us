@@ -23,4 +23,4 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
 
-Revised: 11/2022 ALP:CDAM:RX1
+Revised: 12/2022 ALP:CDAM:RX2

@@ -1,9 +1,15 @@
 # OVERDOSAGE
 
+Overdosage of chlordiazepoxide and amitriptyline hydrochloride tablets, which contain a benzodiazepine (chlordiazepoxide) and a tricyclic antidepressant (amitriptyline hydrochloride), may manifest signs and symptoms related to either of its components.
 Deaths may occur from overdosage with this class of drugs.
 Multiple drug ingestion (including alcohol) is common in deliberate tricyclic antidepressant overdose.
-As the management is complex and changing, it is recommended that the physician contact a poison control center for current information on treatment.
-Signs and symptoms of toxicity develop rapidly after tricyclic antidepressant overdose; therefore, hospital monitoring is required as soon as possible.
+Signs and symptoms of toxicity develop rapidly after tricyclic antidepressant overdose.
+
+Critical manifestations of tricyclic antidepressant overdosage include cardiac dysrhythmias, severe hypotension, convulsions and CNS depression, including coma.
+Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of tricyclic antidepressant toxicity.
+Obtain an ECG and immediately initiate cardiac monitoring; hospital monitoring is required as soon as possible.
+
+Other signs of overdosage may include confusion, disturbed concentration, transient visual hallucinations, dilated pupils, agitation, hyperactive reflexes, stupor, drowsiness, muscle rigidity, vomiting, hypothermia, hyperpyrexia or any of the symptoms listed under ADVERSE REACTIONS.
 
 Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma.
 In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
@@ -13,70 +19,9 @@ Overdosage of benzodiazepines in combination with other CNS depressants (includi
 Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
 
 In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway management.
-Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.
-The risk of withdrawal seizures with flumazenil use may be increased in patients with epilepsy.
+Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures with chlordiazepoxide and amitriptyline hydrochloride tablets because overdosage with amitriptyline and other tricyclic and tetracyclic antidepressants increases the risk of seizures.
+Seizure risk is also increased in patients with long-term benzodiazepine use and physical dependency.
+The risk of withdrawal seizures with flumazenil use also may be increased in patients with epilepsy.
 Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus).
-If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage.
-See the flumazenil injection Prescribing Information.
 
-Consider contacting a poison center (1-800-222-1222), poisoncontrol.org, or a medical toxicologist for additional overdosage management recommendations.
-
-## Manifestations
-
-Critical manifestations of overdose include: cardiac dysrhythmias, severe hypotension, convulsions and CNS depression, including coma.
-Changes in the electrocardiogram, particularly in QRS axis or width, are clinically significant indicators of tricyclic antidepressant toxicity.
-
-Other signs of overdose may include: confusion, disturbed concentration, transient visual hallucinations, dilated pupils, agitation, hyperactive reflexes, stupor, drowsiness, muscle rigidity, vomiting, hypothermia, hyperpyrexia or any of the symptoms listed under ADVERSE REACTIONS.
-
-## Management
-
-### General
-
-Obtain an ECG and immediately initiate cardiac monitoring.
-Protect the patient’s airway, establish an intravenous line and initiate gastric decontamination.
-A minimum of 6 hours of observation with cardiac monitoring and observation for signs of CNS or respiratory depression, hypotension, cardiac dysrhythmias and/or conduction blocks, and seizures is necessary.
-If signs of toxicity occur at any time during this period, extended monitoring is required.
-There are case reports of patients succumbing to fatal dysrhythmias late after overdose; these patients had clinical evidence of significant poisoning prior to death and most received inadequate gastrointestinal decontamination.
-Monitoring of plasma drug levels should not guide management of the patient.
-
-### Gastrointestinal Decontamination
-
-All patients suspected of tricyclic antidepressant overdose should receive gastrointestinal decontamination.
-This should include large volume gastric lavage followed by activated charcoal.
-If consciousness is impaired, the airway should be secured prior to lavage.
-Emesis is contraindicated.
-
-### Cardiovascular
-
-A maximal limb-lead QRS duration of ≥ 0.10 seconds may be the best indication of the severity of the overdose.
-Serum alkalinization, to a pH of 7.45 to 7.56, using intravenous sodium bicarbonate and hyperventilation (as needed) should be instituted for patients with dysrhythmias and/or QRS widening.
-A pH > 7.60 or a pCO2 < 20 mm Hg is undesirable.
-Dysrhythmias unresponsive to sodium bicarbonate therapy/hyperventilation may respond to lidocaine, bretylium or phenytoin.
-Type 1A and 1C antiarrhythmics are generally contraindicated (e.g., quinidine, disopyramide and procainamide).
-
-In rare instances, hemoperfusion may be beneficial in acute refractory cardiovascular instability in patients with acute toxicity.
-However, hemodialysis, peritoneal dialysis, exchange transfusions and forced diuresis generally have been reported as ineffective in tricyclic antidepressant poisoning.
-
-### CNS
-
-In patients with CNS depression, early intubation is advised because of the potential for abrupt deterioration.
-Seizures should be controlled with benzodiazepines, or if these are ineffective, other anticonvulsants (e.g., phenobarbital, phenytoin).
-Physostigmine is not recommended except to treat life-threatening symptoms that have been unresponsive to other therapies, and then only in consultation with a poison control center.
-
-### Psychiatric Follow-up
-
-Since overdosage is often deliberate, patients may attempt suicide by other means during the recovery phase.
-Psychiatric referral may be appropriate.
-
-### Pediatric Management
-
-The principles of management of child and adult overdosages are similar.
-It is strongly recommended that the physician contact the local poison control center for specific pediatric treatment.
-
-### Chlordiazepoxide Overdosage
-
-Manifestations of benzodiazepine overdosage include somnolence, confusion, coma and diminished reflexes.
-Dialysis is of limited value.
-There have been occasional reports of excitation in patients following benzodiazepine overdosage; if this occurs, barbiturates should not be used.
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE).
-Since chlordiazepoxide and amitriptyline hydrochloride tablets contain amitriptyline, it is important to note that use of the benzodiazepine antagonist flumazenil is contraindicated in patients who are showing signs of serious cyclic antidepressant overdose.
+Contact the Poison Help line (1-800-222-1222) or medical toxicologist for additional overdosage management recommendations.
