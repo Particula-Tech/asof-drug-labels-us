@@ -118,6 +118,7 @@ Consequently, SPORANOX® has the potential to interact with many concomitant dru
 Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
 Table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but is not a comprehensive list.
+
 Refer to the approved product labeling to become familiar with the interaction pathways, risk potential, and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with SPORANOX®.
 
 Although many of the clinical drug interactions in Table 1 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with SPORANOX®.
@@ -158,14 +159,16 @@ Table 1 Drug Interactions with SPORANOX® that Affect Concomitant Drug Concentra
 | Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
+| Venetoclax |  | Contraindicated during the dose initiation and ramp-up phase in patients with CLL/SLL. Refer to the venetoclax prescribing information for dosing and safety monitoring instructions. |
 | Axitinib Bosutinib Cabazitaxel Cabozantinib Ceritinib Cobimetinib Crizotinib Dabrafenib Dasatinib | Docetaxel Ibrutinib Lapatinib Nilotinib Olaparib Pazopanib Sunitinib Trabectedin Trastuzumab-emtansine Vinca alkaloids | Not recommended during and 2 weeks after SPORANOX® treatment. |
-| Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
+| Talazoparib |  | Refer to the talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |
+| Glasdegib |  | Refer to the glasdegib prescribing information for safety monitoring if concomitant use cannot be avoided. |
+| Bortezomib Brentuximab-vedotin Busulfan Erlotinib Gefitinib Idelalisib Imatinib Ixabepilone | Nintedanib Panobinostat Ponatinib Ruxolitinib Sonidegib Tretinoin (oral) Vandetanib | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
 | Alprazolam Aripiprazole Buspirone Cariprazine Diazepam Haloperidol | Midazolam (IV) Quetiapine Ramelteon Risperidone Suvorexant | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Zopiclone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lurasidone Midazolam (oral) Pimozide Triazolam |  | Contraindicated during and 2 weeks after SPORANOX® treatment. |
 | Antivirals |  |  |
-| Simeprevir |  | Not recommended during and 2 weeks after SPORANOX® treatment. |
 | Daclatasvir Indinavir Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir, see also Table 2. |
 | Cobicistat Elvitegravir (ritonavir-boosted) Ombitasvir/Paritaprevir/Ritonavir with or without Dasabuvir Ritonavir Saquinavir (unboosted) |  | Monitor for adverse reactions. See also Table 2. |
 | Elbasvir/grazoprevir |  | Not recommended during and 2 weeks after SPORANOX® treatment. |

@@ -1,6 +1,6 @@
 © 2001 Janssen Pharmaceutical Companies
 
-Revised: October 2022
+Revised: December 2022
 
 Manufactured for:
 
