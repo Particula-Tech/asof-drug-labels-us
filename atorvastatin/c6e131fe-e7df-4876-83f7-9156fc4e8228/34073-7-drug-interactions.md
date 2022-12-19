@@ -4,9 +4,9 @@
 
 LIPITOR is a substrate of CYP3A4 and transporters (e.g., OATP1B1/1B3, P-gp, or BCRP).
 LIPITOR plasma levels can be significantly increased with concomitant administration of inhibitors of CYP3A4 and transporters.
-Table 3 includes a list of drugs that may increase exposure to Lipitor and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Table 2 includes a list of drugs that may increase exposure to LIPITOR and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with LIPITOR
+Table 2: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with LIPITOR
 
 | Cyclosporine or Gemfibrozil |  |
 | --- | --- |
@@ -14,11 +14,11 @@ Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyol
 | Intervention: | Concomitant use of cyclosporine or gemfibrozil with LIPITOR is not recommended. |
 | Anti-Viral Medications |  |
 | Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of LIPITOR with many anti-viral medications, which are inhibitors of CYP3A4 and/or transporters (e.g., BCRP, OATP1B1/1B3, P-gp, MRP2, and/or OAT2) [see Clinical Pharmacology (12.3)]. Cases of myopathy and rhabdomyolysis have been reported with concomitant use of ledipasvir plus sofosbuvir with LIPITOR. |
-| Intervention: | Concomitant use of tipranavir plus ritonavir or glecaprevir plus pibrentasvir with LIPITOR is not recommended. In patients taking lopinavir plus ritonavir, or simeprevir, consider the risk/benefit of concomitant use with atorvastatin. In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir or letermovir, do not exceed LIPITOR 20 mg. In patients taking nelfinavir, do not exceed LIPITOR 40 mg [see Dosage and Administration (2.6)].Consider the risk/benefit of concomitant use of ledipasvir plus sofosbuvir with LIPITOR.Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Intervention: | •Concomitant use of tipranavir plus ritonavir or glecaprevir plus pibrentasvir with LIPITOR is not recommended. •In patients taking lopinavir plus ritonavir, or simeprevir, consider the risk/benefit of concomitant use with atorvastatin. •In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir or letermovir, do not exceed LIPITOR 20 mg. •In patients taking nelfinavir, do not exceed LIPITOR 40 mg [see Dosage and Administration (2.5)].•Consider the risk/benefit of concomitant use of ledipasvir plus sofosbuvir with LIPITOR.•Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
 | Examples: | Tipranavir plus ritonavir, glecaprevir plus pibrentasvir, lopinavir plus ritonavir, simeprevir, saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir, nelfinavir, and ledipasvir plus sofosbuvir. |
 | Select Azole Antifungals or Macrolide Antibiotics |  |
 | Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of LIPITOR with select azole antifungals or macrolide antibiotics, due to inhibition of CYP3A4 and/or transporters [see Clinical Pharmacology (12.3)]. |
-| Intervention: | In patients taking clarithromycin or itraconazole, do not exceed LIPITOR 20 mg [see Dosage and Administration (2.6)]. Consider the risk/benefit of concomitant use of other azole antifungals or macrolide antibiotics with LIPITOR. Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Intervention: | In patients taking clarithromycin or itraconazole, do not exceed LIPITOR 20 mg [see Dosage and Administration (2.5)]. Consider the risk/benefit of concomitant use of other azole antifungals or macrolide antibiotics with LIPITOR. Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
 | Examples: | Erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole. |
 | Niacin |  |
 | Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin (≥1 gram/day niacin) with LIPITOR. |
@@ -35,9 +35,9 @@ Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyol
 
 ## 7.2 Drug Interactions that may Decrease Exposure to LIPITOR
 
-Table 4 presents drug interactions that may decrease exposure to LIPITOR and instructions for preventing or managing them.
+Table 3 presents drug interactions that may decrease exposure to LIPITOR and instructions for preventing or managing them.
 
-Table 4: Drug Interactions that may Decrease Exposure to LIPITOR
+Table 3: Drug Interactions that may Decrease Exposure to LIPITOR
 
 | Rifampin |  |
 | --- | --- |
@@ -46,9 +46,9 @@ Table 4: Drug Interactions that may Decrease Exposure to LIPITOR
 
 ## 7.3 LIPITOR Effects on Other Drugs
 
-Table 5 presents LIPITOR's effect on other drugs and instructions for preventing or managing them.
+Table 4 presents LIPITOR’s effect on other drugs and instructions for preventing or managing them.
 
-Table 5: LIPITOR Effects on Other Drugs
+Table 4: LIPITOR Effects on Other Drugs
 
 | Oral Contraceptives |  |
 | --- | --- |

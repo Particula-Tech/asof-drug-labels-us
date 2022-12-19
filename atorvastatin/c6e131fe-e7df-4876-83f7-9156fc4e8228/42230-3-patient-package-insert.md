@@ -1,177 +1,22 @@
-# PATIENT INFORMATION
+# Patient Information
 
-LIPITOR® atorvastatin calcium tablets
+LIPITOR (LIP-ih-tore) atorvastatin calcium tablets, for oral use
 
-(LIP-ih-tore))
+| What is LIPITOR?LIPITOR is a prescription medicine that contains a cholesterol lowering medicine (statin) called atorvastatin. LIPITOR is used: •to reduce the risk of: oheart attack, stroke, certain types of heart surgery and chest pain in adults who do not have heart disease but have other multiple risk factors for heart disease.oheart attack and stroke in adults with type 2 diabetes mellitus who do not have heart disease but have other multiple risk factors.oheart attack that does not cause death, stroke, certain types of heart surgery, hospitalization for congestive heart failure, and chest pain in adults with heart disease. •along with diet to reduce low density lipoprotein cholesterol (LDL-C) or bad cholesterol: oin adults with primary hyperlipidemia.oin adults and children aged 10 years and older with heterozygous familial hypercholesterolemia (HeFH). This is an inherited condition that causes high levels of bad cholesterol. •along with other cholesterol lowering treatments or alone if such treatments are unavailable in adults and children aged 10 years and older with homozygous familial hypercholesterolemia (HoFH). This is an inherited condition that causes high levels of bad cholesterol.•along with diet for the treatment of adults with: oprimary dysbetalipoproteinemia (an inherited condition that causes high levels of cholesterol and fat).ohypertriglyceridemia. It is not known if LIPITOR is safe and effective in children younger than 10 years of age with HeFH or HoFH or in children with other types of hyperlipidemias (other than HeFH or HoFH). |  |  |
+| --- | --- | --- |
+| Do not take LIPITOR if you: •have liver problems (acute liver failure or decompensated cirrhosis)•are allergic to atorvastatin or any of the ingredients in LIPITOR. Stop using LIPITOR and get medical help right away if you have symptoms of a serious allergic reaction including: oswelling of your face, lips, tongue or throatoproblems breathing or swallowingofainting or feeling dizzyovery rapid heartbeatosevere skin rash or itchingoflu-like symptoms including fever, sore throat, cough, tiredness, and joint pain See the end of this leaflet for a complete list of ingredients in LIPITOR. |  |  |
+| Before you take LIPITOR, tell your doctor about all of your medical conditions, including if you: •have unexplained muscle aches or weakness•drink more than 2 glasses of alcohol daily•have diabetes•have thyroid problems•have kidney problems•had a stroke•are pregnant or plan to become pregnant. LIPITOR may harm your unborn baby. If you become pregnant, stop taking LIPITOR and call your doctor right away. •are breastfeeding or plan to breastfeed. You and your doctor should decide if you will take LIPITOR or breastfeed. You should not do both. Talk to your doctor about the best way to feed your baby if you take LIPITOR. Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. LIPITOR and certain other medicines can increase the risk of muscle problems or other side effects. Especially tell your doctor if you take medicines for: •your immune system (cyclosporine)•cholesterol (gemfibrozil)•infections (erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole)•birth control pills•heart failure (digoxin)•gout (colchicine)•niacin•fibrates•viruses that treat HIV, AIDS, or hepatitis C (anti-virals) |  |  |
+| otipranavir plus ritonaviroledipasvir plus sofosbuvirosaquinavir plus ritonavirofosamprenaviroelbasvir plus grazoprevironelfinavir | oglecaprevir plus pibrentasvirosimeprevirodarunavir plus ritonavirofosamprenavir plus ritonaviroletermovir |  |
+| Ask your doctor or pharmacist for a list of medicines if you are not sure. Know all the medicines you take. Keep a list of them to show your doctor and pharmacist when you get a new medicine. |  |  |
+| How should I take LIPITOR? •Take LIPITOR exactly as your doctor tells you to take it. •Do not change your dose or stop LIPITOR without talking to your doctor. •Your doctor may do blood tests to check your cholesterol levels during your treatment with LIPITOR. Your dose of LIPITOR may be changed based on these blood test results.•Take LIPITOR each day at any time of day. LIPITOR can be taken with or without food.•Your doctor may start you on a cholesterol lowering diet before giving you LIPITOR. Stay on this low-fat diet when you take LIPITOR. •If you miss a dose of LIPITOR, take it as soon as you remember. Do not take LIPITOR if it has been more than 12 hours since you missed your last dose. Wait and take the next dose at your regular time. Do not take 2 doses of LIPITOR at the same time. If you take too much LIPITOR or overdose, call your doctor or Poison Control Center at 1-800-222-1222 or go to the nearest emergency room right away. |  |  |
+| What should I avoid while taking LIPITOR? •Avoid drinking more than 1.2 liters of grapefruit juice each day. |  |  |
+| What are the possible side effects of LIPITOR?LIPITOR may cause serious side effects including: •Muscle pain, tenderness and weakness (myopathy). Muscle problems, including muscle breakdown, can be serious in some people and, rarely, cause kidney damage that can lead to death. Tell your doctor right away if you have: ounexplained muscle pain, tenderness, or weakness, especially if you also have a fever or feel more tired than usual while you take LIPITOR.omuscle problems that do not go away after your doctor has told you to stop taking LIPITOR. Your doctor may do further tests to diagnose the cause of your muscle problems. Your chances of getting muscle problems are higher if you: oare taking certain other medicines while you take LIPITORodrink large amounts of grapefruit juiceoare 65 years of age or olderohave thyroid problems (hypothyroidism) that are not controlledohave kidney problemsoare taking higher doses of LIPITOR •Liver problems. Your doctor should do blood tests to check your liver before you start taking LIPITOR and if you have symptoms of liver problems while you take LIPITOR. Call your doctor right away if you have the following symptoms of liver problems: ofeel tired or weak onausea or vomitingoloss of appetiteoupper belly painodark amber colored urineoyellowing of your skin or the whites of your eyes •Increase in blood sugar level. Your blood sugar level may increase while you are taking LIPITOR. Exercise regularly and make healthy food choices to maintain healthy body weight. The most common side effects of LIPITOR include: |  |  |
+| •nasal congestion, sore throat, runny nose•diarrhea•urinary tract infection•nausea•muscle spasms•throat pain |  | •muscle and joint pain•pain in extremity•upset stomach•musculoskeletal pain•trouble sleeping |
+| Talk to your doctor or pharmacist if you have side effects that bother you or that will not go away.These are not all the side effects of LIPITOR. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
+| How do I store LIPITOR? •Store LIPITOR at room temperature between 68°F to 77°F (20 C to 25°C).•Do not keep medicine that is out of date or that you no longer need.•Keep LIPITOR and all medicines out of the reach of children. |  |  |
+| General information about the safe and effective use of LIPITOR.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use LIPITOR for a condition for which it was not prescribed. Do not give LIPITOR to other people, even if they have the same symptoms that you have. It may harm them. If you would like more information about LIPITOR, talk with your doctor. You can ask your pharmacist or doctor for information about LIPITOR that is written for health professionals. |  |  |
+| What are the ingredients in LIPITOR?Active Ingredient: atorvastatin calciumInactive Ingredients: calcium carbonate, USP; candelilla wax, FCC; croscarmellose sodium, NF; hydroxypropyl cellulose, NF; lactose monohydrate, NF; magnesium stearate, NF; microcrystalline cellulose, NF; Opadry White YS-1-7040 (hypromellose, polyethylene glycol, talc, titanium dioxide); polysorbate 80, NF; simethicone emulsion. Distributed by:Viatris Specialty LLCMorgantown, WV 26505 U.S.A. For more information, go to the LIPITOR website at www.lipitor.com |  |  |
 
-Read the Patient Information that comes with LIPITOR before you start taking it and each time you get a refill.
-There may be new information.
-This leaflet does not take the place of talking with your doctor about your condition or treatment.
+This Patient Package Information has been approved by the U.S. Food and Drug Administration 12/2022
 
-If you have any questions about LIPITOR, ask your doctor or pharmacist.
-
-What is LIPITOR?
-
-LIPITOR is a prescription medicine that lowers cholesterol in your blood.
-It lowers the LDL-C ("bad" cholesterol) and triglycerides in your blood.
-It can raise your HDL-C ("good" cholesterol) as well.
-LIPITOR is for adults and children over 10 whose cholesterol does not come down enough with exercise and a low-fat diet alone.
-
-LIPITOR can lower the risk for heart attack, stroke, certain types of heart surgery, and chest pain in patients who have heart disease or risk factors for heart disease such as:
-
-- age, smoking, high blood pressure, low HDL-C, heart disease in the family.
-
-LIPITOR can lower the risk for heart attack or stroke in patients with diabetes and risk factors such as:
-
-- eye problems, kidney problems, smoking, or high blood pressure.
-
-LIPITOR starts to work in about 2 weeks.
-
-What is Cholesterol?
-
-Cholesterol and triglycerides are fats that are made in your body.
-They are also found in foods.
-You need some cholesterol for good health, but too much is not good for you.
-Cholesterol and triglycerides can clog your blood vessels.
-It is especially important to lower your cholesterol if you have heart disease, smoke, have diabetes or high blood pressure, are older, or if heart disease starts early in your family.
-
-Who Should Not Take LIPITOR?
-
-Do not take LIPITOR if you:
-
-- are pregnant or think you may be pregnant, or are planning to become pregnant.
-  LIPITOR may harm your unborn baby.
-  If you get pregnant, stop taking LIPITOR and call your doctor right away.
-- are breast feeding.
-  LIPITOR can pass into your breast milk and may harm your baby.
-- have liver problems.
-- are allergic to LIPITOR or any of its ingredients.
-  The active ingredient is atorvastatin.
-  See the end of this leaflet for a complete list of ingredients in LIPITOR.
-
-LIPITOR dosing has not been established in children under 10 years of age.
-
-Before You Start LIPITOR
-
-Tell your doctor if you:
-
-- have muscle aches or weakness
-- drink more than 2 glasses of alcohol daily
-- have diabetes
-- have a thyroid problem
-- have kidney problems
-
-Some medicines should not be taken with LIPITOR.
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-LIPITOR and certain other medicines can interact causing serious side effects.
-Especially tell your doctor if you take medicines for:
-
-- your immune system
-- cholesterol
-- infections
-- birth control
-- heart failure
-- HIV or AIDS
-- hepatitis C virus
-- anti-virals
-
-Know all the medicines you take.
-Keep a list of them with you to show your doctor and pharmacist.
-
-How Should I Take LIPITOR?
-
-- Take LIPITOR exactly as prescribed by your doctor.
-  Do not change your dose or stop LIPITOR without talking to your doctor.
-  Your doctor may do blood tests to check your cholesterol levels during your treatment with LIPITOR.
-  Your dose of LIPITOR may be changed based on these blood test results.
-- Take LIPITOR each day at any time of day at about the same time each day.
-  LIPITOR can be taken with or without food.
-  Don't break LIPITOR tablets before taking.
-- Your doctor should start you on a low-fat diet before giving you LIPITOR.
-  Stay on this low-fat diet when you take LIPITOR.
-- If you miss a dose of LIPITOR, take it as soon as you remember.
-  Do not take LIPITOR if it has been more than 12 hours since you missed your last dose.
-  Wait and take the next dose at your regular time.
-  Do not take 2 doses of LIPITOR at the same time.
-- If you take too much LIPITOR or overdose, call your doctor or Poison Control Center right away.
-  Or go to the nearest emergency room.
-
-What Should I Avoid While Taking LIPITOR?
-
-- Talk to your doctor before you start any new medicines.
-  This includes prescription and non-prescription medicines, vitamins, and herbal supplements.
-  LIPITOR and certain other medicines can interact causing serious side effects.
-- Do not get pregnant.
-  If you get pregnant, stop taking LIPITOR right away and call your doctor.
-
-What are the Possible Side Effects of LIPITOR?
-
-LIPITOR can cause serious side effects.
-These side effects have happened only to a small number of people.
-Your doctor can monitor you for them.
-These side effects usually go away if your dose is lowered or LIPITOR is stopped.
-These serious side effects include:
-
-- Muscle problems.
-  LIPITOR can cause serious muscle problems that can lead to kidney problems, including kidney failure.
-  You have a higher chance for muscle problems if you are taking certain other medicines with LIPITOR.
-- Liver problems.
-  Your doctor should do blood tests to check your liver before you start taking LIPITOR and if you have symptoms of liver problems while you take LIPITOR.
-  Call your doctor right away if you have the following symptoms of liver problems:
-  - feel tired or weak
-  - loss of appetite
-  - upper belly pain
-  - dark amber colored urine
-  - yellowing of your skin or the whites of your eyes
-
-Call your doctor right away if you have:
-
-- muscle problems like weakness, tenderness, or pain that happen without a good reason, especially if you also have a fever or feel more tired than usual.
-  This may be an early sign of a rare muscle problem.
-- muscle problems that do not go away even after your doctor has advised you to stop taking LIPITOR.
-  Your doctor may do further tests to diagnose the cause of your muscle problems.
-- allergic reactions including swelling of the face, lips, tongue, and/or throat that may cause difficulty in breathing or swallowing which may require treatment right away.
-- nausea and vomiting.
-- passing brown or dark-colored urine.
-- you feel more tired than usual
-- your skin and whites of your eyes get yellow.
-- stomach pain.
-- allergic skin reactions.
-
-In clinical studies, patients reported the following common side effects while taking LIPITOR: diarrhea, upset stomach, muscle and joint pain, and alterations in some laboratory blood tests.
-
-The following additional side effects have been reported with LIPITOR:
-
-tiredness, tendon problems, memory loss, and confusion.
-
-Talk to your doctor or pharmacist if you have side effects that bother you or that will not go away.
-
-These are not all the side effects of LIPITOR.
-Ask your doctor or pharmacist for a complete list.
-
-How do I store LIPITOR
-
-- Store LIPITOR at room temperature, 68 to 77°F (20 to 25°C).
-- Do not keep medicine that is out of date or that you no longer need.
-- Keep LIPITOR and all medicines out of the reach of children.
-  Be sure that if you throw medicine away, it is out of the reach of children.
-
-General Information About LIPITOR
-
-Medicines are sometimes prescribed for conditions that are not mentioned in patient information leaflets.
-Do not use LIPITOR for a condition for which it was not prescribed.
-Do not give LIPITOR to other people, even if they have the same problem you have.
-It may harm them.
-
-This leaflet summarizes the most important information about LIPITOR.
-If you would like more information, talk with your doctor.
-You can ask your doctor or pharmacist for information about LIPITOR that is written for health professionals.
-Or you can go to the LIPITOR website at www.lipitor.com.
-
-What are the Ingredients in LIPITOR?
-
-Active Ingredient: atorvastatin calcium
-
-Inactive Ingredients: calcium carbonate, USP; candelilla wax, FCC; croscarmellose sodium, NF; hydroxypropyl cellulose, NF; lactose monohydrate, NF; magnesium stearate, NF; microcrystalline cellulose, NF; Opadry White YS-1-7040 (hypromellose, polyethylene glycol, talc, titanium dioxide); polysorbate 80, NF; simethicone emulsion.
-
-LAB-0348-11.0 November 2019
+UPJ:PL:LPTR: RX2

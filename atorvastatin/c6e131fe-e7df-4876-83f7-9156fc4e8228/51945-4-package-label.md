@@ -1,135 +1,55 @@
-PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL – 10 mg
 
 NDC 0071-0155-23
 
-Pfizer
-
-Lipitor® (atorvastatin calcium) tablets
+Lipitor® atorvastatin calcium) tablets
 
 10 mg*
 
 90 Tablets Rx only
 
-PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack
+Store at controlled room temperature 20-25ºC (68-77ºF).
 
-Lipitor®
+Dispense in tight containers (USP).
 
-(Atorvastatin Calcium) Tablet
+DOSAGE AND USE
 
-10 mg
+See package insert for full prescribing information.
 
-DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+* Each tablet contains atorvastatin 10 mg (equivalent to 10.36 mg atorvastatin calcium anhydrous).
 
-EXP & LOT AREA
+MADE IN IRELAND
 
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Blister Pack Carton
+Distributed by Parke-Davis Division of Pfizer Inc NY, NY 10017
 
-Pfizer
-
-NDC 0071-0155-40
-
-Lipitor® (atorvastatin calcium)
-
-10 mg*
-
-tablets
-
-For in-institution use only
-
-UNIT DOSE
-
-100 Tablets Rx only
-
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Packet Carton
-
-NDC 0071-0155-97 PROFESSIONAL SAMPLE – NOT FOR SALE
-
-LIPITOR® atorvastatin calcium tablets
-
-10 mg* 7 TABLETS
-
-PACKAGE NOT CHILD RESISTANT.
-KEEP OUT OF REACH OF CHILDREN.
-
-Rx only
-
-Patient information enclosed
-
-7 Tablets x 10 mg
-
-# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Packet
-
-LIPITOR ® (atorvastatin calcium) tablets
-
-PRINCIPAL DISPLAY PANEL - 20 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL – 20 mg
 
 NDC 0071-0156-23
 
-Pfizer
-
 Lipitor® (atorvastatin calcium) tablets
 
 20 mg*
 
 90 Tablets Rx only
 
-PRINCIPAL DISPLAY PANEL - 20 mg Tablet Blister Pack
+Store at controlled room temperature 20-25ºC (68-77ºF).
 
-Lipitor®
+Dispense in tight containers (USP).
 
-(Atorvastatin Calcium) Tablet
+DOSAGE AND USE
 
-20 mg
+See package insert for full prescribing information.
 
-DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+* Each tablet contains atorvastatin 20 mg (equivalent to 20.72 mg atorvastatin calcium anhydrous).
 
-EXP & LOT AREA
+MADE IN IRELAND
 
-# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Blister Pack Carton
+Distributed by Parke-Davis Division of Pfizer Inc NY, NY 10017
 
-Pfizer
-
-NDC 0071-0156-40
-
-Lipitor® (atorvastatin calcium)
-
-20 mg*
-
-tablets
-
-For in-institution use only
-
-UNIT DOSE
-
-100 Tablets Rx only
-
-# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Packet Carton
-
-NDC 0071-0156-96 PROFESSIONAL SAMPLE – NOT FOR SALE
-
-LIPITOR® atorvastatin calcium tablets
-
-20 mg* 7 TABLETS
-
-PACKAGE NOT CHILD RESISTANT.
-KEEP OUT OF REACH OF CHILDREN.
-
-Rx only
-
-Patient information enclosed
-
-7 Tablets x 20 mg
-
-# PRINCIPAL DISPLAY PANEL - 20 mg Tablet Packet
-
-LIPITOR ® (atorvastatin calcium) tablets
-
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL – 40 mg
 
 NDC 0071-0157-23
 
-Pfizer
-
 Lipitor® (atorvastatin calcium)
 
 40 mg*
@@ -138,63 +58,22 @@ tablets
 
 90 Tablets Rx only
 
-PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack
+Store at controlled room temperature 20-25ºC (68-77ºF).
 
-Lipitor®
+Dispense in tight containers (USP).
 
-(Atorvastatin Calcium) Tablet
+DOSAGE AND USE See package insert for full prescribing information.
 
-40 mg
+* Each tablet contains atorvastatin 40 mg (equivalent to 41.44 mg atorvastatin calcium anhydrous).
 
-DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+Distributed by Parke-Davis Division of Pfizer Inc NY, NY 10017
 
-EXP & LOT AREA
+MADE IN IRELAND
 
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Blister Pack Carton
-
-Pfizer
-
-NDC 0071-0157-40
-
-Lipitor® (atorvastatin calcium)
-
-40 mg*
-
-tablets
-
-For in-institution use only
-
-UNIT DOSE
-
-100 Tablets Rx only
-
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Packet Carton
-
-NDC 0071-0157-97 PROFESSIONAL SAMPLE – NOT FOR SALE
-
-LIPITOR® atorvastatin calcium tablets
-
-40 mg* 7 TABLETS
-
-PACKAGE NOT CHILD RESISTANT.
-KEEP OUT OF REACH OF CHILDREN.
-
-Rx only
-
-Patient information enclosed
-
-7 Tablets x 40 mg
-
-# PRINCIPAL DISPLAY PANEL - 40 mg Tablet Packet
-
-LIPITOR ® (atorvastatin calcium) tablets
-
-# PRINCIPAL DISPLAY PANEL - 80 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL – 80 mg
 
 NDC 0071-0158-23
 
-Pfizer
-
 Lipitor® (atorvastatin calcium)
 
 80 mg*
@@ -203,32 +82,14 @@ tablets
 
 90 Tablets Rx only
 
-PRINCIPAL DISPLAY PANEL - 80 mg Tablet Blister Pack
+Store at controlled room temperature 20-25ºC (68-77ºF).
 
-Lipitor®
+Dispense in tight containers (USP).
 
-(Atorvastatin Calcium) Tablet
+DOSAGE AND USE See package insert for full prescribing information.
 
-80 mg
+* Each tablet contains atorvastatin 80 mg (equivalent to 82.88 mg atorvastatin calcium anhydrous).
 
-DISTRIBUTED BY: PARKE-DAVIS DIV OF PFIZER INC, NY, NY 10017 MADE IN IRELAND
+MADE IN IRELAND
 
-EXP & LOT AREA
-
-# PRINCIPAL DISPLAY PANEL - 80 mg Tablet Blister Pack Carton
-
-Pfizer
-
-NDC 0071-0158-92
-
-Lipitor® (atorvastatin calcium)
-
-80 mg*
-
-tablets
-
-For in-institution use only
-
-UNIT DOSE
-
-64 Tablets Rx only
+Distributed by Parke-Davis Division of Pfizer Inc NY, NY 10017
