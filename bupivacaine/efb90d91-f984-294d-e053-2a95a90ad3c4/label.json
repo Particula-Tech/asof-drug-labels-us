@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204803"
+  ],
+  "inn": "bupivacaine",
+  "labeler": "Renaissance Lakewood, LLC",
+  "package_ndcs": [
+    "49396-6601-0"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bupivacaine",
+      "name": "POSIMIR"
+    }
+  ],
+  "setid": "efb90d91-f984-294d-e053-2a95a90ad3c4",
+  "source": "dailymed"
+}
