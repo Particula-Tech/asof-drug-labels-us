@@ -5,7 +5,7 @@ The effectiveness of IGALMI for the acute treatment of agitation associated with
 - Study 1 (NCT04268303) included 380 patients who met DSM-5 criteria for schizophrenia, schizoaffective or schizophreniform disorder.
   The population was 18 to 71 years of age (mean age was 46 years old); 37% female and 63% male; 78% Black, 20% White, 1% multiracial, and 1% Asian.
 - Study 2 (NCT04276883) included 378 patients who met DSM-5 criteria for bipolar I or II disorder.
-  The population was 18 to 70 years of age (mean age was 47 years old); 45% female and 55% male; 56% Black, 41% White, 1% Asian, 1% multiracial, and 1% other.
+  The population was 18 to 70 years of age (mean age was 47 years old); 55% female and 45% male; 56% Black, 41% White, 1% Asian, 1% multiracial, and 1% other.
 
 The Positive and Negative Syndrome Scale-Excited Component (PEC) is an investigator-rated instrument consisting of 5 items: poor impulse control, tension, hostility, uncooperativeness, and excitement.
 Each item is scored on a scale from 1 to 7 (1=absent, 2=minimal, 3=mild, 4=moderate, 5=moderate-severe, 6=severe, 7=extremely severe).

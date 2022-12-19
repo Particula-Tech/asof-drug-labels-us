@@ -23,7 +23,7 @@ After at least an additional 2 hours, an additional second half dose (total IGAL
 
 In these studies, one patient discontinued treatment due to an adverse reaction of oropharyngeal pain.
 
-The most common adverse reactions (incidence ≥ 5% and at least twice the rate of placebo) were: somnolence, paresthesia or oral hypoesthesia, dizziness, dry mouth, hypotension, and orthostatic hypotension.
+The most common adverse reactions (incidence ≥ 5% and at least twice the rate of placebo) were: somnolence, oral paresthesia or oral hypoesthesia, dizziness, dry mouth, hypotension, and orthostatic hypotension.
 
 Table 2 presents the adverse reactions that occurred in IGALMI-treated patients at a rate of at least 2% and at a higher rate than in placebo-treated patients in Studies 1 and 2.
 
@@ -32,7 +32,7 @@ Table 2: Adverse Reactions Reported in ≥2% of IGALMI-Treated Patients and Grea
 | Adverse Reaction | IGALMI 180 mcg N=252 % | IGALMI 120 mcg N=255 % | Placebo N=252 % |
 | --- | --- | --- | --- |
 | SomnolenceSomnolence includes the terms fatigue and sluggishness | 23 | 22 | 6 |
-| Paresthesia or hypoesthesia oral | 7 | 6 | 1 |
+| Paresthesia oral or hypoesthesia oral | 7 | 6 | 1 |
 | Dizziness | 6 | 4 | 1 |
 | Hypotension | 5 | 5 | 0 |
 | Orthostatic hypotension | 5 | 3 | <1 |
