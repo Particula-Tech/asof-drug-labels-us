@@ -87,4 +87,4 @@ For patent information: www.axsome.com/IP
 
 ©2022 Axsome Therapeutics, Inc. All rights reserved.
 
-AUV-USPI-001.002-20221024
+AUV-USPI-001.003-20221219
