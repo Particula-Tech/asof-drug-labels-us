@@ -2,7 +2,7 @@ MANUFACTURED BY
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R12/20
+R07/22
 
 What To Expect When Using Chlorhexidine Gluconate Oral Rinse USP, 0.12%
 
