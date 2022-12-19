@@ -9,7 +9,7 @@ A sudden drop in blood pressure can cause you to feel dizzy, faint, or have a he
 
 Do not take SILDENAFIL CITRATE TABLETS if you take medicines called guanylate cyclase stimulators which include:
 
-- Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
+1. 1.Riociguat (Adempas®) a medicine that treats pulmonary arterial hypertension and chronic-thromboembolic pulmonary hypertension.
 
 Tell all your healthcare providers that you take SILDENAFIL CITRATE TABLETS.
 If you need emergency medical care for a heart problem, it will be important for your healthcare provider to know when you last took SILDENAFIL CITRATE TABLETS.
@@ -35,50 +35,50 @@ Who should not take SILDENAFIL CITRATE TABLETS?
 
 Do not take SILDENAFIL CITRATE TABLETS if you:
 
-- take medicines called nitrates (such as nitroglycerin)
-- use street drugs called "poppers" such as amyl nitrate or amyl nitrite, and butyl nitrate
-- take any medicines called guanylate cyclase stimulators such as riociguat (Adempas)
-- are allergic to sildenafil, as contained in SILDENAFIL CITRATE TABLETS and REVATIO, or any of the ingredients in SILDENAFIL CITRATE TABLETS.
-  See the end of this leaflet for a complete list of ingredients in SILDENAFIL CITRATE TABLETS.
+1. 1.take medicines called nitrates (such as nitroglycerin)
+2. 2.use street drugs called "poppers" such as amyl nitrate or amyl nitrite, and butyl nitrate
+3. 3.take any medicines called guanylate cyclase stimulators such as riociguat (Adempas)
+4. 4.are allergic to sildenafil, as contained in SILDENAFIL CITRATE TABLETS and REVATIO, or any of the ingredients in SILDENAFIL CITRATE TABLETS.
+   See the end of this leaflet for a complete list of ingredients in SILDENAFIL CITRATE TABLETS.
 
 What should I tell my healthcare provider before taking SILDENAFIL CITRATE TABLETS?
 
 Before you take SILDENAFIL CITRATE TABLETS, tell your healthcare provider if you:
 
-- have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
-- have had heart surgery within the last 6 months
-- have pulmonary hypertension
-- have had a stroke
-- have low blood pressure, or high blood pressure that is not controlled
-- have a deformed penis shape
-- have had an erection that lasted for more than 4 hours
-- have problems with your blood cells such as sickle cell anemia, multiple myeloma, or leukemia
-- have retinitis pigmentosa, a rare genetic (runs in families) eye disease
-- have ever had severe vision loss, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION)
-- have bleeding problems
-- have or have had stomach ulcers
-- have liver problems
-- have kidney problems or are having kidney dialysis
-- have any other medical conditions
+1. 1.have or have had heart problems such as a heart attack, irregular heartbeat, angina, chest pain, narrowing of the aortic valve or heart failure
+2. 2.have had heart surgery within the last 6 months
+3. 3.have pulmonary hypertension
+4. 4.have had a stroke
+5. 5.have low blood pressure, or high blood pressure that is not controlled
+6. 6.have a deformed penis shape
+7. 7.have had an erection that lasted for more than 4 hours
+8. 8.have problems with your blood cells such as sickle cell anemia, multiple myeloma, or leukemia
+9. 9.have retinitis pigmentosa, a rare genetic (runs in families) eye disease
+10. 10.have ever had severe vision loss, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION)
+11. 11.have bleeding problems
+12. 12.have or have had stomach ulcers
+13. 13.have liver problems
+14. 14.have kidney problems or are having kidney dialysis
+15. 15.have any other medical conditions
 
 Tell your healthcare provider about all the medicines you takeThe other brands listed are trademarks of their respective owners and are not trademarks of Pfizer Inc. The makers of these brands are not affiliated with and do not endorse Pfizer Inc or its products., including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
 SILDENAFIL CITRATE TABLETS may affect the way other medicines work, and other medicines may affect the way SILDENAFIL CITRATE TABLETS works causing side effects.
 Especially tell your healthcare provider if you take any of the following:
 
-- medicines called nitrates (see "What is the most important information I should know about SILDENAFIL CITRATE TABLETS?")
-- medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
-- medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
-  Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
-  In some patients, the use of SILDENAFIL CITRATE TABLETS with alpha-blockers can lead to a drop in blood pressure or to fainting.
-- medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
-- some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconazole (Sporanox)
-- some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
-- other medicines that treat high blood pressure
-- other medicines or treatments for ED
-- SILDENAFIL CITRATE TABLETS contains sildenafil, which is the same medicine found in another drug called SILDENAFIL TABLETS.
-  SILDENAFIL TABLETS is used to treat a rare disease called pulmonary arterial hypertension (PAH).
-  SILDENAFIL CITRATE TABLETS should not be used with SILDENAFIL TABLETS or with other PAH treatments containing sildenafil or any other PDE5 inhibitors (such as Adcirca [tadalafil]).
+1. 1.medicines called nitrates (see "What is the most important information I should know about SILDENAFIL CITRATE TABLETS?")
+2. 2.medicines called guanylate cyclase stimulators, such as riociguat (Adempas)
+3. 3.medicines called alpha blockers such as Hytrin (terazosin HCl), Flomax (tamsulosin HCl), Cardura (doxazosin mesylate), Minipress (prazosin HCl), Uroxatral (alfuzosin HCl), Jalyn (dutasteride and tamsulosin HCl), or Rapaflo (silodosin).
+   Alpha-blockers are sometimes prescribed for prostate problems or high blood pressure.
+   In some patients, the use of SILDENAFIL CITRATE TABLETS with alpha-blockers can lead to a drop in blood pressure or to fainting.
+4. 4.medicines called HIV protease inhibitors, such as ritonavir (Norvir), indinavir sulfate (Crixivan), saquinavir (Fortovase or Invirase) or atazanavir sulfate (Reyataz)
+5. 5.some types of oral antifungal medicines, such as ketoconazole (Nizoral), and itraconazole (Sporanox)
+6. 6.some types of antibiotics, such as clarithromycin (Biaxin), telithromycin (Ketek), or erythromycin
+7. 7.other medicines that treat high blood pressure
+8. 8.other medicines or treatments for ED
+9. 9.SILDENAFIL CITRATE TABLETS contains sildenafil, which is the same medicine found in another drug called SILDENAFIL TABLETS.
+   SILDENAFIL TABLETS is used to treat a rare disease called pulmonary arterial hypertension (PAH).
+   SILDENAFIL CITRATE TABLETS should not be used with SILDENAFIL TABLETS or with other PAH treatments containing sildenafil or any other PDE5 inhibitors (such as Adcirca [tadalafil]).
 
 Ask your healthcare provider or pharmacist for a list of these medicines, if you are not sure.
 
@@ -87,44 +87,44 @@ Keep a list of them to show to your healthcare provider and pharmacist when you 
 
 How should I take SILDENAFIL CITRATE TABLETS?
 
-- Take SILDENAFIL CITRATE TABLETS exactly as your healthcare provider tells you to take it.
-- Your healthcare provider will tell you how much SILDENAFIL CITRATE TABLETS to take and when to take it.
-- Your healthcare provider may change your dose if needed.
-- Take SILDENAFIL CITRATE TABLETS about 1 hour before sexual activity.
-  You may take SILDENAFIL CITRATE TABLETS between 30 minutes to 4 hours before sexual activity if needed.
-- SILDENAFIL CITRATE TABLETS can be taken with or without food.
-  If you take SILDENAFIL CITRATE TABLETS after a high fat meal (such as a cheeseburger and french fries), SILDENAFIL CITRATE TABLETS may take a little longer to start working
-- Do not take SILDENAFIL CITRATE TABLETS more than 1 time a day.
-- If you accidentally take too much SILDENAFIL CITRATE TABLETS, call your doctor or go to the nearest hospital emergency room right away.
+1. 1.Take SILDENAFIL CITRATE TABLETS exactly as your healthcare provider tells you to take it.
+2. 2.Your healthcare provider will tell you how much SILDENAFIL CITRATE TABLETS to take and when to take it.
+3. 3.Your healthcare provider may change your dose if needed.
+4. 4.Take SILDENAFIL CITRATE TABLETS about 1 hour before sexual activity.
+   You may take SILDENAFIL CITRATE TABLETS between 30 minutes to 4 hours before sexual activity if needed.
+5. 5.SILDENAFIL CITRATE TABLETS can be taken with or without food.
+   If you take SILDENAFIL CITRATE TABLETS after a high fat meal (such as a cheeseburger and french fries), SILDENAFIL CITRATE TABLETS may take a little longer to start working
+6. 6.Do not take SILDENAFIL CITRATE TABLETS more than 1 time a day.
+7. 7.If you accidentally take too much SILDENAFIL CITRATE TABLETS, call your doctor or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of SILDENAFIL CITRATE TABLETS?
 
 SILDENAFIL CITRATE TABLETS can cause serious side effects.
 Rarely reported side effects include:
 
-- an erection that will not go away (priapism).
-  If you have an erection that lasts more than 4 hours, get medical help right away.
-  If it is not treated right away, priapism can permanently damage your penis.
-- sudden vision loss in one or both eyes.
-  Sudden vision loss in one or both eyes can be a sign of a serious eye problem called non-arteritic anterior ischemic optic neuropathy (NAION).
-  It is uncertain whether PDE5 inhibitors directly cause the vision loss.
-  Stop taking SILDENAFIL CITRATE TABLETS and call your healthcare provider right away if you have sudden vision loss in one or both eyes.
-- sudden hearing decrease or hearing loss.
-  Some people may also have ringing in their ears (tinnitus) or dizziness.
-  If you have these symptoms, stop taking SILDENAFIL CITRATE TABLETS and contact a doctor right away.
+1. 1.an erection that will not go away (priapism).
+   If you have an erection that lasts more than 4 hours, get medical help right away.
+   If it is not treated right away, priapism can permanently damage your penis.
+2. 2.sudden vision loss in one or both eyes.
+   Sudden vision loss in one or both eyes can be a sign of a serious eye problem called non-arteritic anterior ischemic optic neuropathy (NAION).
+   It is uncertain whether PDE5 inhibitors directly cause the vision loss.
+   Stop taking SILDENAFIL CITRATE TABLETS and call your healthcare provider right away if you have sudden vision loss in one or both eyes.
+3. 3.sudden hearing decrease or hearing loss.
+   Some people may also have ringing in their ears (tinnitus) or dizziness.
+   If you have these symptoms, stop taking SILDENAFIL CITRATE TABLETS and contact a doctor right away.
 
 The most common side effects of SILDENAFIL CITRATE TABLETS are:
 
-- headache
-- flushing
-- upset stomach
-- abnormal vision, such as changes in color vision (such as having a blue color tinge) and blurred vision
-- stuffy or runny nose
-- back pain
-- muscle pain
-- nausea
-- dizziness
-- rash
+1. 1.headache
+2. 2.flushing
+3. 3.upset stomach
+4. 4.abnormal vision, such as changes in color vision (such as having a blue color tinge) and blurred vision
+5. 5.stuffy or runny nose
+6. 6.back pain
+7. 7.muscle pain
+8. 8.nausea
+9. 9.dizziness
+10. 10.rash
 
 In addition, heart attack, stroke, irregular heartbeats and death have happened rarely in men taking SILDENAFIL CITRATE TABLETS.
 Most, but not all, of these men had heart problems before taking SILDENAFIL CITRATE TABLETS.
@@ -140,7 +140,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store SILDENAFIL CITRATE TABLETS?
 
-- Store SILDENAFIL CITRATE TABLETS at room temperature between 68°F to 77°F (20°C to 25°C).
+1. 1.Store SILDENAFIL CITRATE TABLETS at room temperature between 68°F to 77°F (20°C to 25°C).
 
 Keep SILDENAFIL CITRATE TABLETS and all medicines out of the reach of children.
 
