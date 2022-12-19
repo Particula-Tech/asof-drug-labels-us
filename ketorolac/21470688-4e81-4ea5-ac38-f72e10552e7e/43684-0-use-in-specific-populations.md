@@ -24,7 +24,7 @@ Animal Data
 No well-controlled animal reproduction studies have been conducted with Omidria or phenylephrine.
 
 Ketorolac, administered during organogenesis, did not cause embryofetal abnormalities or mortalities in rabbits or rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively.
-These doses produced systemic exposure that is 1150 times and 4960 times the plasma exposure (based on Cmax) at the RHOD, respectively.
+These doses produced systemic exposure that is 1150 times and 4960 times the plasma exposure (based on C max) at the RHOD, respectively.
 When administered to rats during late gestation (after Day 17 of gestation) at oral doses up to 1.5 mg/kg/day (740 times the plasma exposure at the RHOD), ketorolac produced dystocia and increased pup mortality.
 
 ## 8.2 Lactation
