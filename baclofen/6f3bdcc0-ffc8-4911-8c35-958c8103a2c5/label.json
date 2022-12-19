@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020075"
+  ],
+  "inn": "baclofen",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-2501-1",
+    "70121-2502-2",
+    "70121-2503-1",
+    "70121-2504-2"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "baclofen",
+      "name": "Lioresal (baclofen)"
+    }
+  ],
+  "setid": "6f3bdcc0-ffc8-4911-8c35-958c8103a2c5",
+  "source": "dailymed"
+}
