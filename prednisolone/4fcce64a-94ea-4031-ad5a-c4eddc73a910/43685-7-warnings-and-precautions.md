@@ -25,7 +25,7 @@ Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic p
 
 ## General
 
-The initial prescription and renewal of the medication order beyond 20 milliliters of PRED MILD® should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and, where appropriate, fluorescein staining.
+The initial prescription and renewal of the medication order of PRED MILD® should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and, where appropriate, fluorescein staining.
 If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.
 
 As fungal infections of the cornea are particularly prone to develop coincidentally with long-term local corticosteroid applications, fungal invasion should be suspected in any persistent corneal ulceration where a corticosteroid has been used or is in use.
