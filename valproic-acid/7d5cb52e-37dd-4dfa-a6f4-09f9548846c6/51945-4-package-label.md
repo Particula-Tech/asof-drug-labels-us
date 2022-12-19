@@ -1,23 +1,5 @@
 # PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
 
-NDC 0121-0675-16
-
-Valproic Acid Oral Solution USP
-
-250 mg/5 mL
-
-Each 5 mL contains: Equivalent of 250 mg valproic acid as the sodium salt.
-
-Pharmacist: Please dispense with attached Medication Guide.
-
-Rx ONLY
-
-16 fl oz (473 mL)
-
-Pharmaceutical Associates, Inc. Greenville, SC 29605
-
-# PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
-
 NDC 0121-0675-85
 
 Valproic Acid Oral Solution USP
@@ -33,6 +15,17 @@ Rx ONLY
 16 fl oz (473 mL)
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605
+
+PHARMACIST: Dispense in the orginial container or USP tight container.
+
+Do not accept if inner foil seal is broken or missing.
+
+Store at 20º to 25ºC (68º to 77ºF).
+[See USP Controlled Room Temperature].
+
+USUAL DOSAGE: See Package Insert for prescribing information.
+
+X06575850322 R03/22
 
 # PRINCIPAL DISPLAY PANEL - 5 mL Cup Label
 

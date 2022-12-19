@@ -33,7 +33,7 @@ Valproic acid can cause serious side effects, including:
     Decreased hearing or hearing loss can also happen.
   - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
   - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
-  - If you take valproic acid during pregnancy for any medical condition, your child is at risk for having lower IQ.
+  - If you take valproic acid during pregnancy for any medical condition, your child is at risk for having lower IQ and may be at risk for developing autism or attention deficit/hyperactivity disorder.
   - There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
   - Women who are pregnant must not take valproic acid to prevent migraine headaches.
   - All women of childbearing age (including girls from the start of puberty) should talk to their healthcare provider about using other possible treatments instead of valproic acid.
@@ -136,7 +136,7 @@ What are the possible side effects of valproic acid?
 
 - See " What is the most important information I should know about valproic acid?"
 
-Valproic acid may cause other serious side effects including:
+Valproic acid can cause serious side effects including:
 
 - Bleeding problems: red or purple spots on your skin, bruising, pain and swelling into your joints due to bleeding or bleeding from your mouth or nose.
 - High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
@@ -201,10 +201,10 @@ What are the ingredients in Valproic Acid Oral Solution USP?
 Active ingredient: valproic acid
 
 Inactive ingredients: cherry flavor, FD&C Red No. 40, glycerin, methylparaben, purified water, sodium hydroxide, sorbitol and sucrose.
-May also contain citric acid to adjust pH.
+May also contain citric acid and sodium hydroxide to adjust pH.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
 
-R10/20
+R3/22

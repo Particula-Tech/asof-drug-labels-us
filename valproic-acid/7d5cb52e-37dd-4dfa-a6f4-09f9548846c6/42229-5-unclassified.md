@@ -1,5 +1,9 @@
 MANUFACTURED BY
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605 www.paipharma.com
+Pharmaceutical Associates, Inc.
 
-R10/20
+Greenville, SC 29605
+
+www.paipharma.com
+
+R03/22
