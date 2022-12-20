@@ -13,38 +13,37 @@ Adverse reactions reported with Activella 1 mg/0.5 mg by investigators during cl
 
 TABLE 1
 
-ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ≥
+ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ³ 5 PERCENT WITH ACTIVELLA 1 MG/0.5 MG
 
-5 PERCENT WITH ACTIVELLA 1 MG/0.5 MG
-
-|  |  | Endometrial Hyperplasia Study (12-Months) | VasomotorSymptoms Study(3-Months) |  | Osteoporosis Study (2-Years) |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | Activella 1 mg/0.5 mg (n=295) | 1 mg E2(n=296) | Activella1 mg/0.5 mg (n=29) | Placebo (n=34) | Activella 1 mg/0.5 mg (n=47) |  | Placebo (n=48) |
-| Body as a Whole |  |  |  |  |  |  |  |  |
-| Back Pain |  | 6% | 5% | 3% | 3% | 6% |  | 4% |
-| Headache |  | 16% | 16% | 17% | 18% | 11% |  | 6% |
-| Digestive System |  |  |  |  |  |  |  |  |
-| Nausea |  | 3% | 5% | 10% | 0% | 11% |  | 0% |
-| Gastroenteritis |  | 2% | 2% | 0% | 0% | 6% |  | 4% |
-| Nervous System |  |  |  |  |  |  |  |  |
-| Insomnia |  | 6% | 4% | 3% | 3% | 0% |  | 8% |
-| Emotional Lability |  | 1% | 1% | 0% | 0% | 6% |  | 0% |
-| Respiratory System |  |  |  |  |  |  |  |  |
-| Upper RespiratoryTract Infection |  | 18% | 15% | 10% | 6% | 15% |  | 19% |
-| Sinusitis |  | 7% | 11% | 7% | 0% | 15% |  | 10% |
-| Metabolic and Nutritional |  |  |  |  |  |  |  |  |
-| Weight Increase |  | 0% | 0% | 0% | 0% | 9% |  | 6% |
-| Urogenital System |  |  |  |  |  |  |  |  |
-| Breast Pain |  | 24% | 10% | 21% | 0% | 17% |  | 8% |
-| Post-Menopausal Bleeding |  | 5% | 15% | 10% | 3% | 11% |  | 0% |
-| Uterine Fibroid |  | 5% | 4% | 0% | 0% | 4% |  | 8% |
-| Ovarian Cyst |  | 3% | 2% | 7% | 0% | 0% |  | 8% |
-| Resistance Mechanism |  |  |  |  |  |  |  |  |
-| Infection Viral |  | 4% | 6% | 0% | 3% | 6% |  | 6% |
-| Moniliasis Genital |  | 4% | 7% | 0% | 0% | 6% |  | 0% |
-| Secondary Terms |  |  |  |  |  |  |  |  |
-| Injury Accidental |  | 4% | 3% | 3% | 0% | 17%* |  | 4%* |
-| Other Events |  | 2% | 3% | 3% | 0% | 6% |  | 4% |
+|  | EndometrialHyperplasia Study(12-Months) |  | VasomotorSymptoms Study(3-Months) |  | OsteoporosisStudy(2-Years) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Activella1 mg/0.5 mg | 1 mg E2 | Activella1 mg/0.5 mg | Placebo | Activella1 mg/0.5 mg | Placebo |
+|  | (n=295) | (n=296) | (n=29) | (n=34) | (n=47) | (n=48) |
+| Body as a Whole |  |  |  |  |  |  |
+| Back Pain | 6% | 5% | 3% | 3% | 6% | 4% |
+| Headache | 16% | 16% | 17% | 18% | 11% | 6% |
+| Digestive System |  |  |  |  |  |  |
+| Nausea | 3% | 5% | 10% | 0% | 11% | 0% |
+| Gastroenteritis | 2% | 2% | 0% | 0% | 6% | 4% |
+| Nervous System |  |  |  |  |  |  |
+| Insomnia | 6% | 4% | 3% | 3% | 0% | 8% |
+| Emotional Lability | 1% | 1% | 0% | 0% | 6% | 0% |
+| Respiratory System |  |  |  |  |  |  |
+| Upper Respiratory Tract Infection | 18% | 15% | 10% | 6% | 15% | 19% |
+| Sinusitis | 7% | 11% | 7% | 0% | 15% | 10% |
+| Metabolic and Nutritional |  |  |  |  |  |  |
+| Weight Increase | 0% | 0% | 0% | 0% | 9% | 6% |
+| Urogenital System |  |  |  |  |  |  |
+| Breast Pain | 24% | 10% | 21% | 0% | 17% | 8% |
+| Post-Menopausal Bleeding | 5% | 15% | 10% | 3% | 11% | 0% |
+| Uterine Fibroid | 5% | 4% | 0% | 0% | 4% | 8% |
+| Ovarian Cyst | 3% | 2% | 7% | 0% | 0% | 8% |
+| Resistance Mechanism |  |  |  |  |  |  |
+| Infection Viral | 4% | 6% | 0% | 3% | 6% | 6% |
+| Moniliasis Genital | 4% | 7% | 0% | 0% | 6% | 0% |
+| Secondary Terms |  |  |  |  |  |  |
+| Injury Accidental | 4% | 3% | 3% | 0% | 17%* | 4%* |
+| Other Events | 2% | 3% | 3% | 0% | 6% | 4% |
 
 * including one upper extremity fracture in each group
 

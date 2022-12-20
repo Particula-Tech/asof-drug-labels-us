@@ -75,13 +75,15 @@ A summary of the results comparing Activella 1 mg/0.5 mg and estradiol 0.5 mg to
 
 TABLE 5
 
-PERCENTAGE CHANGE (MEAN ± SD) IN BONE MINERAL DENSITY (BMD) FOR ACTIVELLA 1 MG/0.5 MG AND 0.5 MG E2†
+PERCENTAGE CHANGE (MEAN ± SD) IN BONE MINERAL DENSITY (BMD) FOR
+
+ACTIVELLA 1 MG/0.5 MG AND 0.5 MG E2†
 
 (Intent to Treat Analysis, Last Observation Carried Forward)
 
-|  | US Trial | EU Trial |  |  |  |
+|  | US Trial |  |  | EU Trial |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=37) | 0.5 mg E2†(n=31) | Activella1 mg/0.5 mg (n=37) | Placebo(n=40) | Activella 1 mg/0.5 mg (n=38) |
+|  | Placebo (n=37) | 0.5 mg E2†(n=31) | Activella1 mg/0.5 mg (n=37) | Placebo(n=40) | Activella1 mg/0.5 mg (n=38) |
 | Lumbar spine | -2.1 ± 2.9 | 2.3 ± 2.8 * | 3.8 ± 3.0 * | -0.9 ± 4.0 | 5.4 ± 4.8 * |
 | Femoral neck | -2.3 ± 3.4 | 0.3 ± 2.9 ** | 1.8 ± 4.1 * | -1.0 ± 4.6 | 0.7 ± 6.1 |
 | Femoral trochanter | -2.0 ± 4.3 | 1.7 ± 4.1*** | 3.7 ± 4.3 * | 0.8 ± 6.9 | 6.3 ± 7.6 * |
