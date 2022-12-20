@@ -51,16 +51,25 @@ Based on animal studies, TECENTRIQ may impair fertility in females of reproducti
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of TECENTRIQ have not been established in pediatric patients.
+Alveolar Soft Part Sarcoma
 
-The safety and antitumor activity of TECENTRIQ were assessed but not established in a single-arm, multi-center, multi-cohort trial (NCT02541604) in 60 pediatric patients aged 7 months to <17 years with relapsed or progressive solid tumors and lymphomas.
+The safety and effectiveness of TECENTRIQ for unresectable or metastatic ASPS have been established in pediatric patients aged 2 years and older.
+Use of TECENTRIQ for this indication is supported by evidence from an adequate and well controlled study of TECENTRIQ in adults and 2 adolescent pediatric patients (≥12 years of age) with ASPS with additional pharmacokinetic and safety data in pediatric patients 2 years to <17 years.
+These data suggest that atezolizumab exposure in pediatric patients aged 2 years and older is comparable with that of adults and is expected to result in similar safety and efficacy to that of adults [see Adverse Reactions (6.1), Pharmacokinetics (12.3), Clinical Studies (14.5)].
+The course of unresectable or metastatic ASPS is sufficiently similar between pediatric patients 2 to 11 years old and that of adults and adolescent patients to allow extrapolation of efficacy and safety to pediatric patients 2 years and older.
+
+The safety and effectiveness of TECENTRIQ for ASPS have not been established in pediatric patients younger than 2 years of age.
+
+Solid Tumors and Lymphomas
+
+The safety and effectiveness of TECENTRIQ in pediatric patients have not been established in non-small cell lung cancer, small-cell lung cancer, hepatocellular carcinoma, or melanoma.
+
+The safety and effectiveness of TECENTRIQ were assessed, but not established in a single-arm, multi-center, multi-cohort trial (NCT02541604) in 60 pediatric patients aged 7 months to <17 years with relapsed or progressive solid tumors and lymphomas.
 No new safety signals were observed in pediatric patients in this study.
-
-In pediatric patients who received TECENTRIQ 15 mg/kg with a maximum dose of 1200 mg every 3 weeks, the steady-state exposure (AUC) of atezolizumab in pediatric patients aged 12 years or older was comparable to that in adult patients who received TECENTRIQ 1200 mg every 3 weeks, while the exposure trended lower in pediatric patients less than 12 years old.
 
 ## 8.5 Geriatric Use
 
-Of 2616 patients with metastatic urothelial carcinoma, metastatic NSCLC, and other tumor types treated with single agent TECENTRIQ in clinical studies, 49% were 65 years and over and 15% were 75 years and over.
+Of 2616 patients with metastatic NSCLC and other tumor types treated with single agent TECENTRIQ in clinical studies, 49% were 65 years and over and 15% were 75 years and over.
 
 Of 2421 patients with NSCLC and SCLC treated with TECENTRIQ in combination with other antineoplastic drugs in clinical studies, 48% were 65 years and over and 10% were 75 years and over.
 
