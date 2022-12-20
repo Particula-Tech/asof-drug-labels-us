@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Formulation of amoxicillin tablets, USP contains amoxicillin, a semisynthetic antibiotic, an analog of ampicillin, with a broad spectrum of bactericidal activity against many Gram-positive and Gram-negative microorganisms.
+Amoxicillin tablets, USP are a semisynthetic antibacterial (amoxicillin), an analog of ampicillin, with a broad spectrum of bactericidal activity against many Gram-positive and Gram-negative microorganisms.
 Chemically, it is (2S,5R,6R)-6-[(R)-(-)-2-amino-2-(p-hydroxyphenyl) acetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid trihydrate.
 It may be represented structurally as:
 

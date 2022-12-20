@@ -2,8 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Amoxicillin is an antibacterial drug.
-[see Microbiology (12.4)].
+Amoxicillin is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.3 Pharmacokinetics
 
@@ -15,7 +14,7 @@ Dosing was at the start of a light meal following an overnight fast.
 Orally administered doses of amoxicillin suspension, 125 mg/5 mL and 250 mg/5 mL, result in average peak blood levels 1 to 2 hours after administration in the range of 1.5 mcg/mL to 3 mcg/mL and 3.5 mcg/mL to 5 mcg/mL, respectively.
 Oral administration of single doses of 400 mg chewable tablets and 400 mg/5 mL suspension of amoxicillin to 24 adult volunteers yielded comparable pharmacokinetic data:
 
-Table 3.
+Table 4.
 Mean Pharmacokinetic Parameters of Amoxicillin (400 mg chewable tablets and 400 mg/5 mL suspension) in Healthy Adults
 
 | Dose * | AUC0-∞ (mcg●hr/mL) | Cmax (mcg/mL)† |
@@ -27,7 +26,7 @@ Mean Pharmacokinetic Parameters of Amoxicillin (400 mg chewable tablets and 400 
 
 Distribution: Amoxicillin diffuses readily into most body tissues and fluids, with the exception of brain and spinal fluid, except when meninges are inflamed.
 In blood serum, amoxicillin is approximately 20% protein-bound.
-Following a 1 gram dose and utilizing a special skin window technique to determine levels of the antibiotic, it was noted that therapeutic levels were found in the interstitial fluid.
+Following a 1 gram dose, and utilizing a special skin window technique to determine levels of the antibiotic, it was noted that therapeutic levels were found in the interstitial fluid.
 Metabolism and Excretion: The half-life of amoxicillin is 61.3 minutes.
 Approximately 60% of an orally administered dose of amoxicillin is excreted in the urine within 6 to 8 hours.
 Detectable serum levels are observed up to 8 hours after an orally administered dose of amoxicillin.
@@ -40,11 +39,13 @@ Mechanism of Action
 Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication.
 It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria.
 
-Mechanism of Resistance
+Resistance
 
 Resistance to amoxicillin is mediated primarily through enzymes called beta-lactamases that cleave the beta-lactam ring of amoxicillin, rendering it inactive.
 
-Amoxicillin has been shown to be active against most isolates of the bacteria listed below, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+Antimicrobial Activity
+
+Amoxicillin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Gram-Positive Bacteria
 
@@ -65,4 +66,4 @@ Helicobacter pylori
 
 Proteus mirabilis
 
-Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+Susceptibility Testing: For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

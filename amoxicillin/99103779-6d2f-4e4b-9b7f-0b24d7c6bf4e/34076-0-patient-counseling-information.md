@@ -1,15 +1,39 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Information for Patients
+Administration Instructions
 
-- Patients should be advised that amoxicillin may be taken every 8 hours or every 12 hours, depending on the dose prescribed.
-- Patients should be counseled that antibacterial drugs, including amoxicillin, should only be used to treat bacterial infections.
-  They do not treat viral infections (e.g., the common cold).
-  When amoxicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-  Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by amoxicillin or other antibacterial drugs in the future.
-- Patients should be counseled that diarrhea is a common problem caused by antibiotics, and it usually ends when the antibiotic is discontinued.
-  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken their last dose of the antibiotic.
-  If this occurs, patients should contact their physician as soon as possible.
-- Patients should be aware that amoxicillin contains a penicillin class drug product that can cause allergic reactions in some individuals.
+Advise patients that amoxicillin tablets may be taken every 8 hours or every 12 hours, depending on the dose prescribed.
 
-CLINITEST® is a registered trademark of Siemens Medical Solutions Diagnostics, and Ames Company, Inc. CLINISTIX® is a registered trademark of Bayer Healthcare Llc, and Ames Company, Inc. CLOtest® is a registered trademark of Kimberly-Clark Worldwide, Inc. Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2021
+Allergic Reactions
+
+Counsel patients that amoxicillin tablets contains a penicillin class drug product that can cause allergic reactions in some individuals.
+
+Severe Cutaneous Adverse Reactions (SCAR)
+
+Advise patients about the signs and symptoms of serious skin manifestations.
+Instruct patients to stop taking amoxicillin tablets immediately and promptly report the first signs or symptoms of skin rash, mucosal lesions, or any other sign of hypersensitivity [see Warnings and Precautions (5.2)].
+
+Diarrhea
+
+Counsel patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial drug is discontinued.
+Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken their last dose of the antibacterial drug.
+If this occurs, patients should contact their physician as soon as possible.
+
+Antibacterial Resistance
+
+Patients should be counseled that antibacterial drugs, including amoxicillin tablets, should only be used to treat or prevent bacterial infections.
+Antibacterial drugs do not treat viral infections (e.g., the common cold).
+When amoxicillin tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by amoxicillin tablets or other antibacterial drugs in the future.
+
+CLINITEST is a registered trademark of Miles, Inc.
+
+CLINISTIX is a registered trademark of Bayer Corporation.
+
+CLOtest is a registered trademark of Kimberly-Clark Corporation.
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
+
+Revised: 12/2022
