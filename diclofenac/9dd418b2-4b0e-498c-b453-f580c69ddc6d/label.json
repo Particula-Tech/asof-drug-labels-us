@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA022165"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Leading Pharma, LLC",
+  "package_ndcs": [
+    "69315-506-09"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "diclofenac potassium",
+      "name": "DICLOFENAC POTASSIUM"
+    }
+  ],
+  "setid": "9dd418b2-4b0e-498c-b453-f580c69ddc6d",
+  "source": "dailymed"
+}

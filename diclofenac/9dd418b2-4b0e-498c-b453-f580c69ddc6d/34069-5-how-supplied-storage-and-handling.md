@@ -1,0 +1,12 @@
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+Diclofenac Potassium 50 mg, is a white to off-white, buffered, flavored powder for oral solution, supplied as one or more sets of three perforated co-joined individual dose packets.
+Each individual packet is designed to deliver a dose of 50 mg diclofenac potassium when mixed in water.
+
+NDC 69315-506-09 Boxes of nine (9) Diclofenac Potassium Packets
+
+Storage
+
+Store at 25°C (77°F).
+Excursions permitted from 15°C-30°C (59°F-86°F).
+[See USP Controlled Room Temperature]
