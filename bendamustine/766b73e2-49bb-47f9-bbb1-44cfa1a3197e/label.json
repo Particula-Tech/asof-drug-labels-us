@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216078"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "10019-079-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "BENDAMUSTINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "766b73e2-49bb-47f9-bbb1-44cfa1a3197e",
+  "source": "dailymed"
+}
