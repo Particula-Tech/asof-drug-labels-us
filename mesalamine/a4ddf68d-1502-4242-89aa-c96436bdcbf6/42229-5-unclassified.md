@@ -39,8 +39,6 @@ Take care in choosing a suitable location for administration of this product.
 
 Rx Only
 
-Made in Israel
-
 Manufactured By Padagis
 
 Yeruham, Israel
@@ -49,6 +47,6 @@ Distributed By Padagis
 
 Allegan, MI 49010 • www.padagis.com
 
-Rev 11-21
+Rev 12-22
 
-2N900 RC J11
+2N900 RC J12

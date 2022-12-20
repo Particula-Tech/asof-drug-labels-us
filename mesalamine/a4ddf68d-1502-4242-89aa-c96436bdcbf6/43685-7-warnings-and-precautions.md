@@ -29,6 +29,7 @@ In animal studies, the kidney was the principal organ of mesalamine toxicity.
 Evaluate the risks and benefits of using mesalamine rectal suspension enema in patients with known renal impairment or a history of renal disease or taking concomitant nephrotoxic drugs.
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on mesalamine rectal suspension enema therapy.
+Discontinue mesalamine rectal suspension enema if renal function deteriorates while on therapy.
 
 ## Mesalamine-Induced Acute Intolerance Syndrome
 
