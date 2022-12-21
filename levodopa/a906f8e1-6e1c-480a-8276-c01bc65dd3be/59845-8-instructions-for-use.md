@@ -81,12 +81,10 @@ Disposing of the Inhaler and Capsules
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration Rev: 08/2020
 
-Marketed by: Acorda Therapeutics, Inc. 420 Saw Mill River Road Ardsley, NY 10502 USA
+Marketed by: Acorda Therapeutics, Inc. Pearl River, NY 10965 USA
 
-Inbrija ® is a trademark of Acorda Therapeutics, Inc.
+Inbrija ® is a trademark of Acorda Therapeutics, Inc. ©2022 Acorda Therapeutics, Inc. All rights reserved.
 
-U.S. Patent Nos. 6858199, 7182961, 7384649, 7556798, 8404276, 8545878, 8586093, 8685442, 8945612, 9155699, 9393210 and RE43711
+U.S. Patent Nos. 7182961, 8404276, 8545878, 8586093, 8685442, 8945612, 9155699, 9393210 and RE43711
 
-©2021 Acorda Therapeutics, Inc. All rights reserved.
-
-2103342MFPI-1
+2212342MFPI-0
