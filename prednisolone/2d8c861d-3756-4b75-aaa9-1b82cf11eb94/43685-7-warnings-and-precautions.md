@@ -191,7 +191,7 @@ Children who are treated with corticosteroids by any route, including systemical
 This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (i.e., cosyntropin stimulation and basal cortisol plasma levels).
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in children than some commonly used tests of HPA axis function.
 The linear growth of children treated with corticosteroids by any route should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of other treatment alternatives.
-In order to minimize the potential growth effects of corticosteroids, children should be titratedto the lowest effective dose.
+In order to minimize the potential growth effects of corticosteroids, children should be titrated to the lowest effective dose.
 
 Geriatric Use
 
