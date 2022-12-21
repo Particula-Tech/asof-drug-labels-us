@@ -1,167 +1,20 @@
-NDC 0074-4378-05
+NDC 0074-4378-05 Nimbex® (cisatracurium besylate) injection 10 mg/5 mL* (2 mg/mL) WARNING: Paralyzing Agent Single-dose vial Discard Unused Portion Rx only abbvie
 
-Nimbex®
+NDC 0074-4378-05 Nimbex® (cisatracurium besylate) injection 10 mg/5 mL* (2 mg/mL) WARNING: Paralyzing Agent Single-dose vial Discard Unused Portion Rx only abbvie
 
-(cisatracurium besylate) injection
+NDC 0074–4378–05 Nimbex® (cisatracurium besylate) injection 10mg/5mL* (2mg/mL) WARNING: Paralyzing Agent Single-dose vial Discard Unused Portion Rx only abbvie
 
-10 mg/5 mL* (2 mg/mL)
+NDC 0074-4380-10 Nimbex® (cisatracurium besylate) injection 20 mg/10 mL* (2 mg/mL) WARNING: Paralyzing Agent Multiple-dose vial 0.9% benzyl alcohol (added as a preservative) Rx only abbvie
 
-WARNING: Paralyzing Agent
+NDC 0074-4380-10 Nimbex® (cisatracurium besylate) injection 20 mg/10 mL* (2 mg/mL) WARNING: Paralyzing Agent Multiple-dose vial 0.9% benzyl alcohol (added as a preservative) Rx only abbvie
 
-Single-dose vial
+NDC 0074–4380–10 Nimbex® (cisatracurium besylate) injection 20 mg/10mL* (2 mg/mL) WARNING: Paralyzing Agent Multiple-dose vial 0.9% benzyl alcohol (added as a preservative) Rx only abbvie
 
-Discard Unused Portion
+NDC 0074-4382-20 Nimbex® (cisatracurium besylate) injection 200 mg/20 mL* (10 mg/mL) WARNING: Paralyzing Agent Single-dose vial Discard Unused Portion For ICU use only.
+Rx only abbvie
 
-Rx only
+NDC 0074-4382-20 Nimbex® (cisatracurium besylate) injection 200 mg/20 mL* (10 mg/mL) WARNING: Paralyzing Agent Single-dose vial Discard Unused Portion For ICU use only.
+Rx only abbvie
 
-abbvie
-
-NDC 0074-4378-05
-
-Nimbex®
-
-(cisatracurium besylate) injection
-
-10 mg/5 mL* (2 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Single-dose vial
-
-Discard Unused Portion
-
-Rx only
-
-abbvie
-
-NDC 0074–4378–05
-
-Nimbex®
-
-(cisatracurium besylate) injection
-
-10mg/5mL* (2mg/mL)
-
-WARNING: Paralyzing Agent
-
-Single-dose vial
-
-Discard Unused Portion
-
-Rx only
-
-abbvie
-
-NDC 0074-4380-10
-
-Nimbex®
-
-(cisatracurium besylate) injection
-
-20 mg/10 mL* (2 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Multiple-dose vial
-
-0.9% benzyl alcohol (added as a preservative)
-
-Rx only
-
-abbvie
-
-NDC 0074-4380-10
-
-Nimbex®
-
-(cisatracurium besylate) injection
-
-20 mg/10 mL* (2 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Multiple-dose vial
-
-0.9% benzyl alcohol (added as a preservative)
-
-Rx only
-
-abbvie
-
-NDC 0074–4380–10
-
-Nimbex®
-
-(cisatracurium besylate) injection
-
-20 mg/10mL* (2 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Multiple-dose vial
-
-0.9% benzyl alcohol (added as a preservative)
-
-Rx only
-
-abbvie
-
-NDC 0074-4382-20
-
-Nimbex®
-
-(cisatracurium besylate) injection
-
-200 mg/20 mL* (10 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Single-dose vial
-
-Discard Unused Portion
-
-For ICU use only.
-
-Rx only
-
-abbvie
-
-NDC 0074-4382-20
-
-Nimbex®
-
-(cisatracurium besylate) injection
-
-200 mg/20 mL* (10 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Single-dose vial
-
-Discard Unused Portion
-
-For ICU use only.
-
-Rx only
-
-abbvie
-
-NDC 0074–4382–20
-
-Nimbex®
-
-(cistracurium besylate) injection
-
-200 mg/20 mL* (10 mg/mL)
-
-WARNING: Paralyzing Agent
-
-Single-dose vial
-
-Discard Unused Portion
-
-For ICU use only.
-
-Rx only
-
-abbvie
+NDC 0074–4382–20 Nimbex® (cistracurium besylate) injection 200 mg/20 mL* (10 mg/mL) WARNING: Paralyzing Agent Single-dose vial Discard Unused Portion For ICU use only.
+Rx only abbvie

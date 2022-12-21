@@ -12,7 +12,7 @@ Discard unused portion of the 5 mL and 20 mL single-dose vials.
 
 Storage
 
-Refrigerate NIMBEX at 2° to 8°C (36° to 46°F) in the carton to preserve potency.
+Refrigerate NIMBEX at 2°C to 8°C (36°F to 46°F) in the carton to preserve potency.
 Protect from light.
 DO NOT FREEZE.
-Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use NIMBEX within 21 days, even if re-refrigerated.
+Upon removal of the unused vial from refrigeration to room temperature storage conditions (25°C/77°F), use NIMBEX within 21 days, even if re-refrigerated.

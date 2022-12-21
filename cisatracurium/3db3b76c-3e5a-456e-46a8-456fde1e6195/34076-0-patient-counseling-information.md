@@ -4,13 +4,12 @@ Hypersensitivity Reactions Including Anaphylaxis
 
 Advise the caregiver and/or family that severe hypersensitivity reactions have occurred with NIMBEX [see Warnings and Precautions (5.4)].
 
-©2019 AbbVie Inc.
+©2022 AbbVie.
+All rights reserved.
 
 Mfd.
-For: AbbVie Inc.
+For: AbbVie Inc. North Chicago, IL 60064 USA
 
-North Chicago, IL 60064 USA
+Nimbex® is a registered trademark of GlaxoSmithKline LLC, used under license by AbbVie Inc.
 
-Nimbex® is a registered trademark of GlaxoSmithKline, licensed for use by AbbVie Inc.
-
-PAA122983 October, 2019
+8021397 October, 2022
