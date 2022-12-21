@@ -7,7 +7,7 @@ Tetracycline is very slightly soluble in water, freely soluble in dilute acid an
 The chemical name for tetracycline hydrochloride is 4-(Dimethylamino) -1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,-12a-pentahydroxy-6-methyl-1,11-dioxo-2-naphthacenecarboxamide monohydrochloride.
 Its structural formula is as follows:
 
-C22H24N208·HCI M.W.
+C 22H 24N 20 8·HCI M.W.
 480.90
 
 Each capsule, for oral administration, contains 250 mg or 500 mg tetracycline hydrochloride.
