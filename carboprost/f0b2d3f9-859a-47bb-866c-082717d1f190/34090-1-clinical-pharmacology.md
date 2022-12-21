@@ -20,7 +20,7 @@ In some patients, carboprost tromethamine may cause transient bronchoconstrictio
 Drug plasma concentrations were determined by radioimmunoassay in peripheral blood samples collected by different investigators from 10 patients undergoing abortion.
 The patients had been injected intramuscularly with 250 micrograms of carboprost at two hour intervals.
 Blood levels of drug peaked at an average of 2060 picograms/mL one-half hour after the first injection then declined to an average concentration of 770 picograms/mL two hours after the first injection just before the second injection.
-The average plasma concentration one-half hour after the second injection was slightly higher (2663 picograms/mL) than that after the first injection and decreased again to an average of 1047 picograms/mL by two hours after the second injection.
+The average plasma concentration one-half hour after the second injection was slightly higher (2663 picograms/ mL) than that after the first injection and decreased again to an average of 1047 picograms/mL by two hours after the second injection.
 Plasma samples were collected from 5 of these 10 patients following additional injections of the prostaglandin.
 The average peak concentrations of drug were slightly higher following each successive injection of the prostaglandin, but always decreased to levels less than the preceding peak values by two hours after each injection.
 

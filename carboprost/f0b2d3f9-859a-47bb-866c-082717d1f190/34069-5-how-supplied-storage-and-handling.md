@@ -1,10 +1,10 @@
 # HOW SUPPLIED
 
-Carboprost tromethamine injection, USP is available in the following package:
+Carboprost tromethamine injection, USP is available in the following packages:
 
-| 1 mL single dose vial | NDC 81298-5010-1 |
+| 1 mL single dose vial | NDC 81298-5010-5 |
 | --- | --- |
-| 10 x 1 mL vial | NDC 81298-5010-3 |
+| 10 x 1 mL single dose vial | NDC 81298-5010-3 |
 
 Each mL of carboprost tromethamine injection contains carboprost tromethamine equivalent to 250 mcg of carboprost.
 
@@ -14,8 +14,10 @@ Rx only
 
 Manufactured by Pharmascience Inc. Canada
 
-For Long Grove Pharmaceuticals, LLC Rosemont, IL 60018 USA 1-855-642-2594
+For Long Grove Pharmaceuticals, LLC
 
-39282
+Rosemont, IL 60018 USA
 
-May 2022
+1-855-642-2594
+
+42362 October 2022
