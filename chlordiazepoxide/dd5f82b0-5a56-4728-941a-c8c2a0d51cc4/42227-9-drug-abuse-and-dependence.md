@@ -65,4 +65,4 @@ The risk of withdrawal seizures with flumazenil use may be increased in patients
 Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus).
 If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage.
 See the flumazenil injection Prescribing Information.
-Consider contacting a poison center (1-800-222-1222) or medical toxicologist for additional overdosage management recommendations.
+Consider contacting a poison center (1-800-222-1222), poisoncontrol.org, or medical toxicologist for additional overdosage management recommendations.

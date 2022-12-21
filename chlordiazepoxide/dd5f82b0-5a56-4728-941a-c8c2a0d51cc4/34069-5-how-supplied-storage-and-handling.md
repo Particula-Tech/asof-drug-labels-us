@@ -23,6 +23,6 @@ Manufactured by: CorePharma, LLC Middlesex, NJ 08846
 
 Manufactured for: Chartwell RX, LLC Congers, NY 10920
 
-L70777 Rev 09/2022
+L70777 Rev 11/2022
 
 Dispense with Medication Guide available at www.chartwellpharma.com/medguides

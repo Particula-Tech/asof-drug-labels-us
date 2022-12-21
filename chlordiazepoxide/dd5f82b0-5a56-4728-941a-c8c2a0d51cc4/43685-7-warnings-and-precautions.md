@@ -99,7 +99,7 @@ Limit dosage and duration of concomitant use of benzodiazepines and opioids, and
 
 Pregnancy: Pregnancy Exposure Registry There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including chlordiazepoxide hydrochloride, during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
-Risk Summary Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Risk Summary Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -112,4 +112,4 @@ Although early studies reported an increased risk of congenital malformations wi
 In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
 Nursing: Risk Summary There are no data on the presence of chlordiazepoxide in human milk.
 There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
-Because of chlordiazepoxide’s long half-life, the potential for chlordiazepoxide to accumulate in breast milk and the potential for serious adverse reactions, including sedation and withdrawal symptoms in breastfed neonates and infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide hydrochloride.
+Because of chlordiazepoxide’s long half-life, the potential for chlordiazepoxide to accumulate in breast milk and the potential for serious adverse reactions, including sedation and withdrawal symptoms in breastfed infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide hydrochloride.
