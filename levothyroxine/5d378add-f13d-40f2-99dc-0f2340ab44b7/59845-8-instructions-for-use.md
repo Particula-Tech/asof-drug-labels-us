@@ -66,6 +66,6 @@ Keep TIROSINT-SOL and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufacturer: IBSA Institut Biochimique SA, 6915 Pambio-Noranco, Switzerland Marketed and Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
+Manufacturer: IBSA Institut Biochimique SA, 6912 Pazzallo, Switzerland Marketed and Distributed by: IBSA Pharma Inc., Parsippany, NJ 07054 USA
 
-Issued: January 2021
+Issued: 10/2022

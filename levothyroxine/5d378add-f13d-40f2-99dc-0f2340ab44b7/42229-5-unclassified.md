@@ -2,7 +2,7 @@ Rx Only
 
 Manufactured for IBSA Pharma Inc. by:
 
-IBSA Institut Biochimique SA 6915 Pambio-Noranco Switzerland
+IBSA Institut Biochimique SA 6912 Pazzallo Switzerland
 
 Distributed by:
 
