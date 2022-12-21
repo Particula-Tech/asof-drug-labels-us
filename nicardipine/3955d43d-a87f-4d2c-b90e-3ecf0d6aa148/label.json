@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA216357"
+  ],
+  "inn": "nicardipine",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-120-05",
+    "68462-120-90",
+    "68462-121-05",
+    "68462-121-90"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nicardipine hydrochloride",
+      "name": "Nicardipine Hydrochloride"
+    }
+  ],
+  "setid": "3955d43d-a87f-4d2c-b90e-3ecf0d6aa148",
+  "source": "dailymed"
+}
