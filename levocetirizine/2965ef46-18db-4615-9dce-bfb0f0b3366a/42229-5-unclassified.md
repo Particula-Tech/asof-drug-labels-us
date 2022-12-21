@@ -1,15 +1,9 @@
-Made in Israel
-
-Manufactured By Perrigo
+Manufactured By Padagis
 
 Yeruham, Israel
 
-Distributed By
+Distributed By Padagis Allegan, MI 49010
 
-Perrigo®
+www.padagis.com
 
-Allegan, MI 49010
-
-www.perrigorx.com
-
-Rev 04-20
+Rev 09-22

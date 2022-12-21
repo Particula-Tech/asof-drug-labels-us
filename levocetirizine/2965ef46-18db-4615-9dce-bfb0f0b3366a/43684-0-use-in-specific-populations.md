@@ -31,7 +31,6 @@ Cetirizine caused excessive maternal toxicity at an oral dose in dams that was a
 Risk Summary
 
 There are no data on the presence of levocetirizine in human milk, the effects on the breastfed infant, or the effects on milk production.
-
 However, cetirizine has been reported to be present in human breast milk.
 In mice and beagle dogs, studies indicated that cetirizine was excreted in milk (see Data).
 When a drug is present in animal milk, it is likely the drug will be present in human milk.
