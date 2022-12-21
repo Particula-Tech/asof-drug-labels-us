@@ -69,7 +69,7 @@ What are the possible side effects of LYMEPAK?
 LYMEPAK may cause serious side effects, including:
 
 - Harm to an unborn baby.
-  See "What should I tell my doctor before taking LYMEPAK?"
+  See " What should I tell my doctor before taking LYMEPAK?"
 - Harm to infants and children under 8 years of age:
   - Permanent teeth discoloration.
     LYMEPAK may permanently turn a baby or child's teeth yellow-gray-brown during tooth development.

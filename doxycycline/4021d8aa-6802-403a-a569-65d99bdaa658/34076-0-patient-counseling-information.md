@@ -18,7 +18,7 @@ Advise all patients taking LYMEPAK:
 Tooth Discoloration and Inhibition of Bone Growth
 
 Advise patients that LYMEPAK, like other tetracycline-class drugs, may cause permanent tooth discoloration of deciduous teeth and reversible inhibition of bone growth when administered during the second and third trimesters of pregnancy.
-Tell your healthcare provider right away if you become pregnant during treatment [see Warnings and Precautions (5.1,5.2) and Use in Specific Populations (8.1, 8.4)].
+Tell your healthcare provider right away if you become pregnant during treatment [see Warnings and Precautions (5.1, 5.2) and Use in Specific Populations (8.1, 8.4)].
 
 Lactation
 

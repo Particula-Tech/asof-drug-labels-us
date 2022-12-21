@@ -3,7 +3,7 @@
 LYMEPAK contains doxycycline hyclate, USP which is the hyclate salt form of doxycycline, a tetracycline class antibacterial drug derived from oxytetracycline.
 
 The chemical name of doxycycline hyclate is 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-2- naphthacenecarboxamide monohydrochloride, compound with ethyl alcohol (2:1), monohydrate.
-The molecular formula for doxycycline hyclate is (C22H24N2O8∙HCl) 2∙C2H6O∙H2O and the molecular weight is 1025.89.
+The molecular formula for doxycycline hyclate is (C 22H 24N 2O 8∙HCl) 2∙C 2H 6O∙H 2O and the molecular weight is 1025.89.
 Doxycycline is a light-yellow crystalline powder.
 Doxycycline hyclate is soluble in water.
 
