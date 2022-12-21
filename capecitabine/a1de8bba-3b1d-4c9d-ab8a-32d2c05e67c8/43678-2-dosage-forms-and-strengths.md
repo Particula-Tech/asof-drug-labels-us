@@ -1,4 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-XELODA is supplied as biconvex, oblong film-coated tablets for oral administration.
-Each light peach-colored tablet contains 150 mg of capecitabine and each peach-colored tablet contains 500 mg of capecitabine.
+Tablets, film-coated:
+
+- 150 mg: biconvex, oblong, light-peach colored, with "XELODA" on one side and "150" on the other
+- 500 mg: biconvex, oblong, peach colored, with "XELODA on one side and "500" on the other

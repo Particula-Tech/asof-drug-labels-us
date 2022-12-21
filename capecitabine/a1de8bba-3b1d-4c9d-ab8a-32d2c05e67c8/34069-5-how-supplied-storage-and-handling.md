@@ -1,24 +1,14 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-150 mg
+XELODA (capecitabine) tablets are supplied as follows:
 
-| Color: | Light peach |
-| --- | --- |
-| Engraving: | XELODA on one side and 150 on the other |
-| 150 mg tablets are packaged in bottles of 60 (NDC 0004-1100-20), individually packaged in a carton. |  |
-
-500 mg
-
-| Color: | Peach |
-| --- | --- |
-| Engraving: | XELODA on one side and 500 on the other |
-| 500 mg tablets are packaged in bottles of 120 (NDC 0004-1101-50), individually packaged in a carton. |  |
+- 150 mg, biconvex, oblong, film-coated, light peach tablets with "XELODA" on one side and "150" on the other; available in bottles of 60 tablets (NDC 0004-1100-20), individually packaged in a carton.
+- 500 mg, biconvex, oblong, film-coated, peach tablets with "XELODA" on one side and "500" on the other; available in bottles of 120 tablets (NDC 0004-1101-50), individually packaged in a carton.
 
 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 KEEP TIGHTLY CLOSED.
 
-XELODA is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1 Any unused product should be disposed of in accordance with local requirements, or drug take back programs.
+XELODA is a hazardous drug.
+Follow applicable special handling and disposal procedures.1

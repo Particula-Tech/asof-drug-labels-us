@@ -8,11 +8,15 @@ Xeloda® (capecitabine) Tablets
 
 Each tablet contains 150 mg capecitabine.
 
+Warning: Hazardous Drug
+
 Rx only
 
-60 tablets Genentech
+60 tablets
 
-10210268
+Genentech
+
+10250281
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton
 
@@ -24,8 +28,12 @@ Xeloda® (capecitabine) Tablets
 
 Each tablet contains 500 mg capecitabine.
 
+Warning: Hazardous Drug
+
 Rx only
 
-120 tablets Genentech
+120 tablets
 
-10210269
+Genentech
+
+10250280
