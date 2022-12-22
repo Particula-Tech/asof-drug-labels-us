@@ -80,5 +80,4 @@ Pediatric Use of fluoxetine — Fluoxetine is approved for use in pediatric pati
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 11/2021
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 11/2021

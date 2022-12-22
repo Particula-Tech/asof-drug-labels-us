@@ -259,5 +259,4 @@ Symbyax® and Sarafem® are registered trademarks of Eli Lilly and Company.
 Mellaril® is a registered trademark of Novartis AG Corporation.
 Orap® is a registered trademark of Teva Pharmaceuticals USA.
 Coumadin® is a registered trademark of Bristol Myers Squibb.
-Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 11/2021
+Jantoven® is a registered trademark of Upsher-Smith Laboratories Inc. Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 11/2021

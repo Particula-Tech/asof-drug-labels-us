@@ -19,6 +19,7 @@ The following adverse reactions are discussed in more detail in other sections o
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect or predict the rates observed in practice.
+
 Multiple doses of fluoxetine have been administered to 10,782 patients with various diagnoses in U.S. clinical trials.
 In addition, there have been 425 patients administered fluoxetine in panic clinical trials.
 The stated frequencies represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse reaction of the type listed.
@@ -30,10 +31,10 @@ Table 4 provides combined data for the pool of studies that are provided separat
 
 Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1,2
 
-| Body System/ Adverse Reaction | Fluoxetine (N=1728) | Placebo (N=975) | Fluoxetine (N=266) | Placebo (N=89) | Fluoxetine (N=450) | Placebo (N=267) | Fluoxetine (N=425) | Placebo (N=342) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Percentage of Patients Reporting Event |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Major Depressive Disorder |  | OCD |  | Bulimia |  | Panic Disorder |  |  |
+| Body System/ Adverse Reaction | Fluoxetine (N=1728) | Placebo (N=975) | Fluoxetine (N=266) | Placebo (N=89) | Fluoxetine (N=450) | Placebo (N=267) | Fluoxetine (N=425) | Placebo (N=342) |
 | Body as a Whole |  |  |  |  |  |  |  |  |
 | Asthenia | 9 | 5 | 15 | 11 | 21 | 9 | 7 | 7 |
 | Flu syndrome | 3 | 4 | 10 | 7 | 8 | 3 | 5 | 5 |
@@ -63,14 +64,19 @@ Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major De
 | Urogenital System |  |  |  |  |  |  |  |  |
 | Impotence3 | 2 | -- | -- | -- | 7 | -- | 1 | -- |
 | Abnormal ejaculation3 | -- | -- | 7 | -- | 7 | -- | 2 | 1 |
-| 1 Incidence less than 1%. 2 Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials. 3 Denominator used was for males only (N=690 fluoxetine Major Depressive Disorder; N=410 placebo Major Depressive Disorder; N=116 fluoxetine OCD; N=43 placebo OCD; N=14 fluoxetine bulimia; N=1 placebo bulimia; N=162 fluoxetine panic disorder; N=121 placebo panic disorder). |  |  |  |  |  |  |  |  |
+
+1 Incidence less than 1%.
+
+2 Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials.
+
+3 Denominator used was for males only (N=690 fluoxetine Major Depressive Disorder; N=410 placebo Major Depressive Disorder; N=116 fluoxetine OCD; N=43 placebo OCD; N=14 fluoxetine bulimia; N=1 placebo bulimia; N=162 fluoxetine panic disorder; N=121 placebo panic disorder).
 
 Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1,2
 
-| Body System/ Adverse Reaction | Fluoxetine (N=2869) | Placebo (N=1673) |
-| --- | --- | --- |
 |  | Percentage of Patients Reporting Event |  |
+| --- | --- | --- |
 | Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Combined |  |  |
+| Body System/ Adverse Reaction | Fluoxetine (N=2869) | Placebo (N=1673) |
 | Body as a Whole |  |  |
 | Headache | 21 | 19 |
 | Asthenia | 11 | 6 |
@@ -106,7 +112,10 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 | Pruritus | 3 | 2 |
 | Special Senses |  |  |
 | Abnormal vision | 2 | 1 |
-| 1 Incidence less than 1%. 2 Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials. |  |  |
+
+1 Incidence less than 1%.
+
+2 Includes U.S. data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. data for Panic Disorder clinical trials.
 
 Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-U.S.
 Panic Disorder clinical trials.
@@ -119,22 +128,30 @@ Table 5: Most Common Adverse Reactions Associated with Discontinuation in Major 
 | -- | -- | -- | Insomnia (2%) | -- |
 | -- | Nervousness (1%) | -- | -- | Nervousness (1%) |
 | -- | -- | Rash (1%) | -- | -- |
-| 1 Includes U.S. Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S. Panic Disorder clinical trials. |  |  |  |  |
+
+1 Includes U.S. Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-U.S.
+Panic Disorder clinical trials.
 
 Other adverse reactions in pediatric patients (children and adolescents) — Treatment-emergent adverse reactions were collected in 322 pediatric patients (180 fluoxetine-treated, 142 placebo-treated).
 The overall profile of adverse reactions was generally similar to that seen in adult studies, as shown in Tables 4 and 5.
 However, the following adverse reactions (excluding those which appear in the body or footnotes of Tables 4 and 5 and those for which the COSTART terms were uninformative or misleading) were reported at an incidence of at least 2% for fluoxetine and greater than placebo: thirst, hyperkinesia, agitation, personality disorder, epistaxis, urinary frequency, and menorrhagia.
+
 The most common adverse reaction (incidence at least 1% for fluoxetine and greater than placebo) associated with discontinuation in 3 pediatric placebo-controlled trials (N=418 randomized; 228 fluoxetine-treated; 190 placebo-treated) was mania/hypomania (1.8% for fluoxetine-treated, 0% for placebo-treated).
 In these clinical trials, only a primary reaction associated with discontinuation was collected.
+
 Male and female sexual dysfunction with SSRIs — Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance, cited in product labeling, are likely to underestimate their actual incidence.
 In patients enrolled in U.S. Major Depressive Disorder, OCD, and bulimia placebo-controlled clinical trials, decreased libido was the only sexual side effect reported by at least 2% of patients taking fluoxetine (4% fluoxetine, <1% placebo).
 There have been spontaneous reports in women taking fluoxetine of orgasmic dysfunction, including anorgasmia.
+
 There are no adequate and well-controlled studies examining sexual dysfunction with fluoxetine treatment.
+
 Symptoms of sexual dysfunction occasionally persist after discontinuation of fluoxetine treatment.
+
 Priapism has been reported with all SSRIs.
+
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
 
 ## 6.2 Other Reactions
