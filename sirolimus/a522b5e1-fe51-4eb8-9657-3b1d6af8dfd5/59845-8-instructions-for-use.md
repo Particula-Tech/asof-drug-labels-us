@@ -8,7 +8,7 @@ Ask your pharmacist or doctor if you are not sure.
 Important:
 
 - Always keep the bottle in an upright position.
-- You may store sirolimus oral solution that is in a syringe at room temperature up to 77°F (25°C) or in the refrigerator at 36°F to 46°F (2°C to 8°C) for up to 24 hours.
+- You may store sirolimus oral solution that is in a syringe at room temperature up to 77°F (25°C) or in the refrigerator at 36° to 46°F (2° to 8°C) for up to 24 hours.
   See “How should I store sirolimus oral solution?” at the end of this Instructions for Use.
 - Sirolimus oral solution can develop a slight haze when it is refrigerated.
   If this happens, bring the sirolimus oral solution to room temperature and then gently shake the bottle until the haze goes away.
@@ -104,9 +104,9 @@ Always store the bottles of medication in the refrigerator.
 
 How should I store sirolimus oral solution?
 
-- Store bottles of sirolimus oral solution in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- Store bottles of sirolimus oral solution in the refrigerator at 36° to 46°F (2° to 8°C).
 - Protect from light.
-- Store sirolimus oral solution that is in a syringe at room temperature up to 77°F (25°C) or in the refrigerator at 36°F to 46°F (2°C to 8°C) for up to 24 hours.
+- Store sirolimus oral solution that is in a syringe at room temperature up to 77°F (25°C) or in the refrigerator at 36° to 46°F (2° to 8°C) for up to 24 hours.
 - If necessary, bottles of sirolimus oral solution can be stored at room temperature up to 77°F (25°C) for up to 15 days.
 - When a bottle of sirolimus oral solution is opened, it should be used within 1 month.
 - Use any diluted sirolimus oral solution right away.
@@ -118,4 +118,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-01-2020-02
+12-2022-03

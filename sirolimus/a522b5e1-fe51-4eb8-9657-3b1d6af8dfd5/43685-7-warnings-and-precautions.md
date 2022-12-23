@@ -3,13 +3,13 @@
 ## 5.1 Increased Susceptibility to Infection and the Possible Development of Lymphoma
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression.
-The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7% to 3.2% (for sirolimus-treated patients) versus 0.6% to 0.8% (azathioprine and placebo control) [see Adverse Reactions (6.1) and (6.2)].
+The rates of lymphoma/lymphoproliferative disease observed in Studies 1 and 2 were 0.7% to 3.2% (for sirolimus-treated patients) versus 0.6% to 0.8% (azathioprine and placebo control) [see Adverse Reactions (6.1), (6.2)].
 Oversuppression of the immune system can also increase susceptibility to infection, including opportunistic infections such as tuberculosis, fatal infections, and sepsis.
 Only physicians experienced in immunosuppressive therapy and management of organ transplant patients should use sirolimus for prophylaxis of organ rejection in patients receiving renal transplants.
 Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
 The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient.
 
-## 5.2 Liver Transplantation – Excess Mortality, Graft Loss, and Hepatic Artery Thrombosis
+## 5.2 Liver Transplantation – Excess Mortality, Graft Loss and Hepatic Artery Thrombosis
 
 The safety and efficacy of sirolimus as immunosuppressive therapy have not been established in liver transplant patients; therefore, such use is not recommended.
 The use of sirolimus has been associated with adverse outcomes in patients following liver transplantation, including excess mortality, graft loss and hepatic artery thrombosis (HAT).
@@ -55,7 +55,7 @@ There were increased incidences of hypercholesterolemia (43% to 46%) and/or hype
 The risk/benefit should be carefully considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including sirolimus.
 
 Any patient who is administered sirolimus should be monitored for hyperlipidemia.
-If detected, interventions such as diet, exercise, and lipid-lowering agents should be initiated as outlined by the National Cholesterol Education Program guidelines.
+If detected, interventions such as diet, exercise and lipid-lowering agents should be initiated as outlined by the National Cholesterol Education Program guidelines.
 
 In clinical trials of patients receiving sirolimus plus cyclosporine or sirolimus after cyclosporine withdrawal, up to 90% of patients required treatment for hyperlipidemia and hypercholesterolemia with anti-lipid therapy (e.g., statins, fibrates).
 Despite anti-lipid management, up to 50% of patients had fasting serum cholesterol levels >240 mg/dL and triglycerides above recommended target levels.
@@ -73,12 +73,13 @@ The rate of decline in renal function in these studies was greater in patients r
 Appropriate adjustment of the immunosuppressive regimen, including discontinuation of sirolimus and/or cyclosporine, should be considered in patients with elevated or increasing serum creatinine levels.
 In patients at low- to moderate-immunologic risk, continuation of combination therapy with cyclosporine beyond 4 months following transplantation should only be considered when the benefits outweigh the risks of this combination for the individual patients.
 Caution should be exercised when using agents (e.g., aminoglycosides and amphotericin B) that are known to have a deleterious effect on renal function.
+
 In patients with delayed graft function, sirolimus may delay recovery of renal function.
 
 ## 5.9 Proteinuria
 
 Periodic quantitative monitoring of urinary protein excretion is recommended.
-In a study evaluating conversion from calcineurin inhibitors (CNI) to sirolimus in maintenance renal transplant patients 6 to 120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to sirolimus compared with CNI continuation [see Clinical Studies (14.4), Adverse Reactions (6.4)].
+In a study evaluating conversion from calcineurin inhibitors (CNI) to sirolimus in maintenance renal transplant patients 6 to 120 months post-transplant, increased urinary protein excretion was commonly observed from 6 through 24 months after conversion to sirolimus compared with CNI continuation [see Clinical Studies (14.4) and Adverse Reactions (6.4)].
 Patients with the greatest amount of urinary protein excretion prior to sirolimus conversion were those whose protein excretion increased the most after conversion.
 New onset nephrosis (nephrotic syndrome) was also reported as a treatment-emergent adverse reaction in 2.2% of the sirolimus conversion group patients in comparison to 0.4% in the CNI continuation group of patients.
 Nephrotic range proteinuria (defined as urinary protein to creatinine ratio > 3.5) was also reported in 9.2% in the sirolimus conversion group of patients in comparison to 3.7% in the CNI continuation group of patients.
@@ -134,7 +135,7 @@ Advise female patients of reproductive potential to avoid becoming pregnant and 
 
 ## 5.16 Male Infertility
 
-Azoospermia or oligospermia may be observed [see Adverse Reactions (6.2), Nonclinical Toxicology (13.1)].
+Azoospermia or oligospermia may be observed [see Adverse Reactions (6.7) and Nonclinical Toxicology (13.1)].
 Sirolimus is an anti-proliferative drug and affects rapidly dividing cells like the germ cells.
 
 ## 5.17 Different Sirolimus Trough Concentrations Reported between Chromatographic and Immunoassay Methodologies
@@ -156,3 +157,8 @@ Therefore, during treatment with sirolimus, vaccination may be less effective.
 ## 5.20 Interaction with Strong Inhibitors and Inducers of CYP3A4 and/or P-gp
 
 Avoid concomitant use of sirolimus with strong inhibitors of CYP3A4 and/or P-gp (such as ketoconazole, voriconazole, itraconazole, erythromycin, telithromycin, or clarithromycin) or strong inducers of CYP3A4 and/or P-gp (such as rifampin or rifabutin) [see Drug Interactions (7.2)].
+
+## 5.21 Cannabidiol Drug Interactions
+
+When cannabidiol and sirolimus are co-administered, closely monitor for an increase in sirolimus blood levels and for adverse reactions suggestive of sirolimus toxicity.
+A dose reduction of sirolimus should be considered as needed when sirolimus is co-administered with cannabidiol [see Dosage and Administration (2.5) and Drug Interactions (7.5)].

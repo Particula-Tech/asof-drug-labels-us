@@ -53,11 +53,11 @@ Contraception
 Females should not be pregnant or become pregnant while receiving sirolimus.
 Advise females of reproductive potential that animal studies have been shown sirolimus to be harmful to the developing fetus.
 Females of reproductive potential are recommended to use highly effective contraceptive method.
-Effective contraception must be initiated before sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped [see Warnings and Precautions (5.15), Use in Specific Populations (8.1)].
+Effective contraception must be initiated before sirolimus therapy, during sirolimus therapy, and for 12 weeks after sirolimus therapy has been stopped [see Warnings and Precautions (5.15) and Use in Specific Populations (8.1)].
 
 Infertility
 
-Based on clinical findings and findings in animals, male and female fertility may be compromised by the treatment with sirolimus [see Adverse Reactions (6.7), Nonclinical Toxicology (13.1)].
+Based on clinical findings and findings in animals, male and female fertility may be compromised by the treatment with sirolimus [see Adverse Reactions (6.7) and Nonclinical Toxicology (13.1)].
 Ovarian cysts and menstrual disorders (including amenorrhea and menorrhagia) have been reported in females with the use of sirolimus.
 Azoospermia has been reported in males with the use of sirolimus and has been reversible upon discontinuation of sirolimus in most cases.
 
@@ -70,7 +70,11 @@ The safety and efficacy of sirolimus in pediatric patients < 13 years have not b
 The safety and efficacy of sirolimus oral solution has been established for prophylaxis of organ rejection in renal transplantation in children ≥ 13 years judged to be at low- to moderate-immunologic risk.
 Use of sirolimus oral solution in this subpopulation of children ≥ 13 years is supported by evidence from adequate and well-controlled trials of sirolimus oral solution in adults with additional pharmacokinetic data in pediatric renal transplantation patients [see Clinical Pharmacology (12.3)].
 
-Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (< 18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of sirolimus oral solution in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival, or patient survival [see Clinical Studies (14.6)].
+Safety and efficacy information from a controlled clinical trial in pediatric and adolescent (< 18 years of age) renal transplant patients judged to be at high-immunologic risk, defined as a history of one or more acute rejection episodes and/or the presence of chronic allograft nephropathy, do not support the chronic use of sirolimus oral solution in combination with calcineurin inhibitors and corticosteroids, due to the higher incidence of lipid abnormalities and deterioration of renal function associated with these immunosuppressive regimens compared to calcineurin inhibitors, without increased benefit with respect to acute rejection, graft survival or patient survival [see Clinical Studies (14.6)].
+
+Lymphangioleiomyomatosis
+
+The safety and efficacy of sirolimus oral solution in pediatric patients <18 years have not been established.
 
 ## 8.5 Geriatric Use
 
@@ -81,8 +85,8 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Patients with Hepatic Impairment
 
-The maintenance dose of sirolimus should be reduced in patients with hepatic impairment [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
+The maintenance dose of sirolimus should be reduced in patients with hepatic impairment [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 
-Dosage adjustment is not required in patients with renal impairment [see Dosage and Administration (2.8), Clinical Pharmacology (12.3)].
+Dosage adjustment is not required in patients with renal impairment [see Dosage and Administration (2.8) and Clinical Pharmacology (12.3)].

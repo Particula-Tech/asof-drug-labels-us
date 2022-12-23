@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Sirolimus oral solution is to be administered orally once daily, consistently with or without food [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+Sirolimus oral solution is to be administered orally once daily, consistently with or without food [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 2.1 General Dosing Guidance for Renal Transplant Patients
 
@@ -46,20 +46,30 @@ Prednisone should be administered at a minimum of 5 mg/day.
 
 Antibody induction therapy may be used.
 
+## 2.4 Dosing in Patients with Lymphangioleiomyomatosis
+
+For patients with lymphangioleiomyomatosis, the initial sirolimus oral solution dose should be 2 mg/day.
+Sirolimus whole blood trough concentrations should be measured in 10 to 20 days, with dosage adjustment to maintain concentrations between 5 ng/mL to 15 ng/mL [see Dosage and Administration (2.5)].
+
+In most patients, dose adjustments can be based on simple proportion: new sirolimus oral solution dose = current dose x (target concentration/current concentration).
+Frequent sirolimus oral solution dose adjustments based on non-steady-state sirolimus concentrations can lead to overdosing or under dosing because sirolimus has a long half-life.
+Once sirolimus oral solution maintenance dose is adjusted, patients should continue on the new maintenance dose for at least 7 to 14 days before further dosage adjustment with concentration monitoring.
+Once a stable dose is achieved, therapeutic drug monitoring should be performed at least every three months.
+
 ## 2.5 Therapeutic Drug Monitoring
 
-Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus oral solution dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Drug Interactions (7)].
+Monitoring of sirolimus trough concentrations is recommended for all patients, especially in those patients likely to have altered drug metabolism, in patients ≥ 13 years who weigh less than 40 kg, in patients with hepatic impairment, when a change in the sirolimus oral solution dosage form is made, and during concurrent administration of strong CYP3A4 inducers and inhibitors [see Warnings and Precautions (5.20, 5.21) and Drug Interactions (7)].
 
 Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus oral solution therapy.
-Careful attention should be made to clinical signs/symptoms, tissue biopsy findings, and laboratory parameters.
+Careful attention should be made to clinical signs/symptoms, tissue biopsy findings and laboratory parameters.
 
-When used in combination with cyclosporine, sirolimus trough concentrations should be maintained within the target-range [see Clinical Studies (14), Clinical Pharmacology (12.3)].
+When used in combination with cyclosporine, sirolimus trough concentrations should be maintained within the target-range [see Clinical Studies (14) and Clinical Pharmacology (12.3)].
 Following cyclosporine withdrawal in transplant patients at low- to moderate-immunologic risk, the target sirolimus trough concentrations should be 16 ng/mL to 24 ng/mL for the first year following transplantation.
 Thereafter, the target sirolimus concentrations should be 12 ng/mL to 20 ng/mL.
 
 The above recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
 Currently in clinical practice, sirolimus whole blood concentrations are being measured by both chromatographic and immunoassay methodologies.
-Because the measured sirolimus whole blood concentrations depend on the type of assay used, the concentrations obtained by these different methodologies are not interchangeable [see Warnings and Precautions (5.17), Clinical Pharmacology (12.3)].
+Because the measured sirolimus whole blood concentrations depend on the type of assay used, the concentrations obtained by these different methodologies are not interchangeable [see Warnings and Precautions (5.17) and Clinical Pharmacology (12.3)].
 Adjustments to the targeted range should be made according to the assay utilized to determine sirolimus trough concentrations.
 Since results are assay and laboratory dependent, and the results may change over time, adjustments to the targeted therapeutic range must be made with a detailed knowledge of the site-specific assay used.
 Therefore, communication should be maintained with the laboratory performing the assay.
@@ -73,7 +83,7 @@ The loading dose should be 3 mg/m2.
 ## 2.7 Patients with Hepatic Impairment
 
 It is recommended that the maintenance dose of sirolimus oral solution be reduced by approximately one third in patients with mild or moderate hepatic impairment and by approximately one half in patients with severe hepatic impairment.
-It is not necessary to modify the sirolimus oral solution loading dose [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+It is not necessary to modify the sirolimus oral solution loading dose [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.8 Patients with Renal Impairment
 
@@ -83,9 +93,9 @@ Dosage adjustment is not needed in patients with impaired renal function [see Us
 
 The amber oral dose syringe should be used to withdraw the prescribed amount of sirolimus oral solution from the bottle.
 Empty the correct amount of sirolimus oral solution from the syringe into only a glass or plastic container holding at least two (2) ounces (1/4 cup, 60 mL) of water or orange juice.
-No other liquids, including grapefruit juice, should be used for dilution [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
+No other liquids, including grapefruit juice, should be used for dilution [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
 Stir vigorously and drink at once.
-Refill the container with an additional volume [minimum of four (4) ounces (1/2 cup, 120 mL)] of water or orange juice, stir vigorously, and drink at once.
+Refill the container with an additional volume [minimum of four (4) ounces (1/2 cup, 120 mL)] of water or orange juice, stir vigorously and drink at once.
 
 Sirolimus oral solution contains polysorbate 80, which is known to increase the rate of di-(2-ethylhexyl)phthalate (DEHP) extraction from polyvinyl chloride (PVC).
 This should be considered during the preparation and administration of sirolimus oral solution.
