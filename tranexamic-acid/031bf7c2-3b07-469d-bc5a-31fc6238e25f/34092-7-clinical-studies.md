@@ -38,23 +38,23 @@ No statistically significant treatment difference was observed in response rates
 
 Table 5: Secondary Outcomes in 3-Cycle Study in Women with Heavy Menstrual Bleeding (Study 1)
 
-| Outcome Measure | N | Baseline Meana | Least Squares Mean Reductionb |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Social and Leisure Activities |  |  |  |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 112 | 3.00 | 0.98c |  |  |  |
-| Placebo | 66 | 2.85 | 0.39 |  |  |  |
-| Physical Activities |  |  |  |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 112 | 3.07 | 0.94c |  |  |  |
-| Placebo | 66 | 2.96 | 0.34 |  |  |  |
-|  | N |  | Respondersd |  |  |  |
-| Reduction in Large Stains |  |  |  |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 111 |  | 64%e |  |  |  |
-| Placebo | 67 |  | 52% |  |  |  |
-| a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |  |  |  |
-| b Positive means reflect an improvement from baseline. |  |  |  |  |  |  |
-| c p-value <0.05 versus placebo |  |  |  |  |  |  |
-| d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |  |  |  |  |  |  |
-| e Non-significant difference versus placebo |  |  |  |  |  |  |
+| Outcome Measure | N | Baseline Meana | Least Squares Mean Reductionb |
+| --- | --- | --- | --- |
+| Social and Leisure Activities |  |  |  |
+| 3900 mg/day tranexamic acid USP tablets | 112 | 3.00 | 0.98c |
+| Placebo | 66 | 2.85 | 0.39 |
+| Physical Activities |  |  |  |
+| 3900 mg/day tranexamic acid USP tablets | 112 | 3.07 | 0.94c |
+| Placebo | 66 | 2.96 | 0.34 |
+|  | N |  | Respondersd |
+| Reduction in Large Stains |  |  |  |
+| 3900 mg/day tranexamic acid USP tablets | 111 |  | 64%e |
+| Placebo | 67 |  | 52% |
+| a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |
+| b Positive means reflect an improvement from baseline. |  |  |  |
+| c p-value <0.05 versus placebo |  |  |  |
+| d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |  |  |  |
+| e Non-significant difference versus placebo |  |  |  |
 
 ## 14.3 Heavy Menstrual Bleeding in the Six-Cycle Treatment Study
 
