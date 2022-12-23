@@ -35,7 +35,7 @@ For this trial the endoscopy score definition of 1 (mild disease) was modified s
 
 The proportion of patients who maintained remission at Month 6 in this study using mesalamine delayed-release tablets 2.4 g once daily (84%) was similar to the comparator (82%).
 
-## 14.2 Pediatric Patients With Mildly to Moderately Active Ulcerative Colitis Weighing at Least 24 kg
+## 14.2 Pediatric Patients with Mildly to Moderately Active Ulcerative Colitis Weighing at Least 24 kg
 
 A multicenter, randomized, double-blind, parallel-group study (NCT02093663) was conducted in pediatric patients aged 5 through 17 years with mildly to moderately active ulcerative colitis to determine the safety and effectiveness of mesalamine delayed-release tablets.
 The study consisted of two treatment phases, an initial 8-week phase and a 26-week phase.
