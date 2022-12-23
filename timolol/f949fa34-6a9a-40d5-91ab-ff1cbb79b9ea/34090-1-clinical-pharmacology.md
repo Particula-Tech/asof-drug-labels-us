@@ -16,9 +16,9 @@ The higher the level of intraocular pressure, the greater the likelihood of glau
 
 The onset of reduction in intraocular pressure following administration of timolol maleate ophthalmic solution can usually be detected within one-half hour after a single dose.
 The maximum effect usually occurs in one to two hours and significant lowering of intraocular pressure can be maintained for periods as long as 24 hours with a single dose.
-Repeated observations over a period of one year indicate that the intraocular pressure-lowering effect of timolol is well maintained.
+Repeated observations over a period of one year indicate that the intraocular pressure-lowering effect of timolol maleate is well maintained.
 
-The precise mechanism of the ocular hypotensive action of timolol is not clearly established at this time.
+The precise mechanism of the ocular hypotensive action of timolol maleate is not clearly established at this time.
 Tonography and fluorophotometry studies in man suggest that its predominant action may be related to reduced aqueous formation.
 However, in some studies a slight increase in outflow facility was also observed.
 
@@ -31,5 +31,5 @@ The mean peak plasma concentration following morning dosing was 0.46 ng/mL and f
 
 In controlled multiclinic studies in patients with untreated intraocular pressures of 22 mmHg or greater, timolol maleate ophthalmic solution 0.25% or 0.5% administered twice a day produced a greater reduction in intraocular pressure than 1, 2, 3, or 4% pilocarpine solution administered four times a day or 0.5, 1, or 2% epinephrine hydrochloride solution administered twice a day.
 
-In these studies, timolol was generally well tolerated and produced fewer and less severe side effects than either pilocarpine or epinephrine.
-A slight reduction of resting heart rate in some patients receiving timolol (mean reduction 2.9 beats/minute standard deviation 10.2) was observed.
+In these studies, timolol maleate was generally well tolerated and produced fewer and less severe side effects than either pilocarpine or epinephrine.
+A slight reduction of resting heart rate in some patients receiving timolol maleate (mean reduction 2.9 beats/minute standard deviation 10.2) was observed.

@@ -8,7 +8,7 @@ Beta-adrenergic receptor blocking agents may mask the signs and symptoms of acut
 Beta-adrenergic blocking agents may mask certain clinical signs (e.g., tachycardia) of hyperthyroidism.
 Patients suspected of developing thyrotoxicosis should be managed carefully to avoid abrupt withdrawal of beta-adrenergic blocking agents that might precipitate a thyroid storm.
 
-# Instructions for Use Timolol (tye-MOE-lawl) Maleate Ophthalmic Solution
+# Instructions for Use Timolol (tye-MOE-lawl) Maleate Ophthalmic Solution, USP 0.25% and 0.5%
 
 Read this Instructions for Use that comes with timolol maleate ophthalmic solution before you start using it and each time you get a refill.
 There may be new information.
@@ -74,9 +74,10 @@ If you think that your medication may be contaminated, or if you develop an eye 
 
 The dispenser tip is designed to provide a pre-measured drop; therefore, do NOT enlarge the hole of the dispenser tip.
 
-After you have used all doses, there will be some timolol maleate ophthalmic solution left in the bottle.
+After you have used all your timolol maleate ophthalmic solution doses, there will be some timolol maleate ophthalmic solution left in the bottle.
 You should not be concerned since an extra amount of timolol maleate ophthalmic solution has been added and you will get the full amount of timolol maleate ophthalmic solution that your doctor prescribed.
 Do not attempt to remove excess medicine from the bottle.
+Throw it away.
 
 How should I store timolol maleate ophthalmic solution?
 
@@ -99,6 +100,6 @@ Fort Worth, Texas 76134 for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Revised: January 2022
+Revised: November 2022
 
-300055868-0122
+300059412-1122

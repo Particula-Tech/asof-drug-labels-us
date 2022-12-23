@@ -10,13 +10,13 @@ Ophthalmic
 
 Solution, USP
 
-Equivalent to Timolol
-
-Maleate 3.4 mg/mL
-
 0.25%
 
-Rx only
+FOR TOPICAL APPLICATION
+
+IN THE EYE
+
+Rx Only
 
 STERILE
 
@@ -36,13 +36,13 @@ Ophthalmic
 
 Solution, USP
 
-Equivalent to Timolol
-
-Maleate 6.8 mg/mL
-
 0.5%
 
-Rx only
+FOR TOPICAL APPLICATION
+
+IN THE EYE
+
+Rx Only
 
 STERILE
 

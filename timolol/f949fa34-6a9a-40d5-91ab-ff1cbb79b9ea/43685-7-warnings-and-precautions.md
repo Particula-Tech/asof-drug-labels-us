@@ -10,11 +10,11 @@ For example, severe respiratory reactions and cardiac reactions, including death
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition of beta-adrenergic receptor blockade may precipitate more severe failure.
 
 In Patients Without a History of Cardiac Failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
-At the first sign or symptom of cardiac failure, timolol should be discontinued.
+At the first sign or symptom of cardiac failure, timolol maleate should be discontinued.
 
 ## Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which timolol is contraindicated [see Contraindications]) should, in general, not receive beta-blockers, including timolol.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which timolol maleate is contraindicated [see Contraindications]) should, in general, not receive beta-blockers, including timolol maleate.
 
 ## Major Surgery
 
@@ -32,7 +32,7 @@ If necessary during surgery, the effects of beta-adrenergic blocking agents may 
 ## General
 
 Because of potential effects of beta-adrenergic blocking agents on blood pressure and pulse, these agents should be used with caution in patients with cerebrovascular insufficiency.
-If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with timolol, alternative therapy should be considered.
+If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with timolol maleate, alternative therapy should be considered.
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Precautions, Information for Patients].
@@ -73,16 +73,16 @@ Lenses may be reinserted 15 minutes following timolol maleate ophthalmic solutio
 
 ## Drug Interactions
 
-Although timolol used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with timolol and epinephrine has been reported occasionally.
+Although timolol maleate used alone has little or no effect on pupil size, mydriasis resulting from concomitant therapy with timolol maleate and epinephrine has been reported occasionally.
 
 Beta-adrenergic blocking agents
 
-Patients who are receiving a beta-adrenergic blocking agent orally and timolol should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
+Patients who are receiving a beta-adrenergic blocking agent orally and timolol maleate should be observed for potential additive effects of beta-blockade, both systemic and on intraocular pressure.
 The concomitant use of two topical beta-adrenergic blocking agents is not recommended.
 
 Calcium antagonists
 
-Caution should be used in the coadministration of beta-adrenergic blocking agents, such as timolol, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
+Caution should be used in the coadministration of beta-adrenergic blocking agents, such as timolol maleate, and oral or intravenous calcium antagonists because of possible atrioventricular conduction disturbances, left ventricular failure, and hypotension.
 In patients with impaired cardiac function, coadministration should be avoided.
 
 Catecholamine-depleting drugs
@@ -135,12 +135,12 @@ Doses of 1,000 mg/kg/day (142,000 times the systemic exposure following the maxi
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose, in this case without apparent maternotoxicity.
 
 There are no adequate and well-controlled studies in pregnant women.
-Timolol should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Timolol maleate should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
 Timolol maleate has been detected in human milk following oral and ophthalmic drug administration.
-Because of the potential for serious adverse reactions from timolol in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+Because of the potential for serious adverse reactions from timolol maleate in nursing infants, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 

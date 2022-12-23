@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Timolol maleate ophthalmic solution, USP is a non-selective beta-adrenergic receptor blocking agent.
+Timolol maleate, USP is a non-selective beta-adrenergic receptor blocking agent.
 Its chemical name is (-)-1-(tert-butylamino)-3-[(4-morpholino-1,2,5-thiadiazol-3-yl)oxy]-2-propanol maleate (1:1) (salt).
 Timolol maleate possesses an asymmetric carbon atom in its structure and is provided as the levo-isomer.
 The optical rotation of timolol maleate is:
@@ -17,6 +17,7 @@ Timolol maleate ophthalmic solution, USP is stable at room temperature.
 
 Timolol maleate ophthalmic solution, USP is supplied as a sterile, isotonic, buffered, aqueous solution of timolol maleate in two dosage strengths.
 Each mL of timolol maleate ophthalmic solution 0.25% contains 2.5 mg of timolol (3.4 mg of timolol maleate).
-Each mL of timolol maleate ophthalmic solution 0.5% contains 5.0 mg of timolol (6.8 mg of timolol maleate).
-Inactive ingredients: monobasic and dibasic sodium phosphate, sodium hydroxide and/or hydrochloric acid to adjust pH (6.5 to 7.5), and purified water.
+The pH of the solution is 6.5 to 7.5, and the osmolality is 280 to 320 mOsm/kg.
+Each mL of timolol maleate ophthalmic solution 0.5% contains 5 mg of timolol (6.8 mg of timolol maleate).
+Inactive ingredients: monobasic and dibasic sodium phosphate, sodium hydroxide to adjust pH, and purified water.
 Benzalkonium chloride 0.01% is added as preservative.
