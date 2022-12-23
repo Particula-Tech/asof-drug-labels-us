@@ -45,10 +45,10 @@ Laboratory test abnormalities for these studies are discussed under Clinical Lab
 Table 3: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602–608 Combined, or Study 305.
 Possibly Related to Therapy or Causality UnknownStudy 307/602: IA; Study 608: candidemia; Study 305: EC
 
-|  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Therapeutic StudiesStudies 303, 304, 305, 307, 309, 602, 603, 604, 608 | Studies 307/602 and 608 (IV/ oral therapy) |  |  | Study 305 (oral therapy) |  |
+| --- | --- | --- | --- | --- | --- | --- |
 |  | Voriconazole N=1655 | Voriconazole N=468 | Ampho BAmphotericin B followed by other licensed antifungal therapy N=185 | Ampho B→ Fluconazole N=131 | Voriconazole N=200 | Fluconazole N=191 |
+|  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
 | Special SensesSee Warnings and Precautions (5.4) |  |  |  |  |  |  |
 | Abnormal vision | 310 (18.7) | 63 (13.5) | 1 (0.5) | 0 | 31 (15.5) | 8 (4.2) |
 | Photophobia | 37 (2.2) | 8 (1.7) | 0 | 0 | 5 (2.5) | 2 (1.0) |
@@ -100,7 +100,7 @@ The mechanism underlying these dermatologic adverse reactions remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
-Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
+Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 
 Less Common Adverse Reaction
 
@@ -126,7 +126,7 @@ Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amn
 
 Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration.
 
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease), sweating, toxic epidermal necrolysis, urticaria.
 
 Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect.
 
@@ -158,9 +158,9 @@ In study 608, patients with candidemia were randomized to either voriconazole or
 
 Table 4: Protocol 305 – Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
 
-|  |  | n/N (%) | n/N (%) |
-| --- | --- | --- | --- |
 |  | CriteriaWithout regard to baseline value | Voriconazole | Fluconazole |
+| --- | --- | --- | --- |
+|  |  | n/N (%) | n/N (%) |
 | T. Bilirubin | >1.5× ULN | 8/185 (4.3) | 7/186 (3.8) |
 | AST | >3.0× ULN | 38/187 (20.3) | 15/186 (8.1) |
 | ALT | >3.0× ULN | 20/187 (10.7) | 12/186 (6.5) |
@@ -169,9 +169,9 @@ Table 4: Protocol 305 – Patients with Esophageal Candidiasis Clinically Signif
 
 Table 5: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
-|  |  | n/N (%) | n/N (%) |
-| --- | --- | --- | --- |
 |  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin BAmphotericin B followed by other licensed antifungal therapy |
+| --- | --- | --- | --- |
+|  |  | n/N (%) | n/N (%) |
 | T. Bilirubin | >1.5× ULN | 35/180 (19.4) | 46/173 (26.6) |
 | AST | >3.0× ULN | 21/180 (11.7) | 18/174 (10.3) |
 | ALT | >3.0× ULN | 34/180 (18.9) | 40/173 (23.1) |
@@ -182,9 +182,9 @@ Table 5: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinic
 
 Table 6: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
-|  |  | n/N (%) | n/N (%) |
-| --- | --- | --- | --- |
 |  | CriteriaWithout regard to baseline value | Voriconazole | Amphotericin B followed by Fluconazole |
+| --- | --- | --- | --- |
+|  |  | n/N (%) | n/N (%) |
 | T. Bilirubin | >1.5× ULN | 50/261 (19.2) | 31/115 (27.0) |
 | AST | >3.0× ULN | 40/261 (15.3) | 16/116 (13.8) |
 | ALT | >3.0× ULN | 22/261 (8.4) | 15/116 (12.9) |
@@ -311,6 +311,10 @@ Table 8: Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 The following adverse reactions have been identified during post-approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Dermatological Reactions
+
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Adults
 

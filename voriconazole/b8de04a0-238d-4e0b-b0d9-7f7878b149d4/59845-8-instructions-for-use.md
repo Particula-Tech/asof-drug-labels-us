@@ -6,14 +6,14 @@ This information does not take the place of talking with your healthcare provide
 
 Important information:
 
-- Follow your healthcare provider's instructions for the dose of voriconazole to take.
-- Ask your healthcare provider or pharmacist if you are not sure how to take voriconazole.
-- Voriconazole for oral suspension is a liquid form of voriconazole.
+- •Follow your healthcare provider's instructions for the dose of voriconazole to take.
+- •Ask your healthcare provider or pharmacist if you are not sure how to take voriconazole.
+- •Voriconazole for oral suspension is a liquid form of voriconazole.
   Your pharmacist will mix (reconstitute) the medicine before it is dispensed to you.
   If voriconazole is still in powder form, do not use it.
   Return it to your pharmacist.
-- Always use the oral dispenser provided with voriconazole to make sure you measure the right amount of voriconazole.
-- Shake the closed bottle of mixed (reconstituted) oral suspension well for about 10 seconds before each use.
+- •Always use the oral dispenser provided with voriconazole to make sure you measure the right amount of voriconazole.
+- •Shake the closed bottle of mixed (reconstituted) oral suspension well for about 10 seconds before each use.
 
 Each pack contains:
 
@@ -26,24 +26,21 @@ How to prepare the bottle and take voriconazole:
 
 Rinse the oral dispenser after each use.
 
-- Pull the plunger out of the oral dispenser and wash both parts with warm soapy water.
-- Rinse both parts with water and allow to air dry after each use.
-- After air drying, push the plunger back into the oral dispenser.
-- Store the oral dispenser with voriconazole oral suspension in a clean safe place.
+- •Pull the plunger out of the oral dispenser and wash both parts with warm soapy water.
+- •Rinse both parts with water and allow to air dry after each use.
+- •After air drying, push the plunger back into the oral dispenser.
+- •Store the oral dispenser with voriconazole oral suspension in a clean safe place.
 
 How should I store voriconazole oral suspension?
 
-- Store voriconazole oral suspension at room temperature between 59°F to 86°F (15°C to 30°C).
-- Do not refrigerate or freeze.
-- Keep the bottle cap tightly closed.
-- Use voriconazole oral suspension within 14 days after it has been mixed (reconstituted) by the pharmacist.
+- •Store voriconazole oral suspension at room temperature between 59°F to 86°F (15°C to 30°C).
+- •Do not refrigerate or freeze.
+- •Keep the bottle cap tightly closed.
+- •Use voriconazole oral suspension within 14 days after it has been mixed (reconstituted) by the pharmacist.
   The pharmacist will write the expiration date on the bottle label (the expiration date of the oral suspension is 14 days from the date it was mixed (reconstituted) by the pharmacist).
   Throw away (discard) any unused voriconazole after the expiration date.
-- Keep voriconazole and all medicines out of the reach of children.
-
-This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.greenstonellc.com.
+- •Keep voriconazole and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-LAB-1397-4.0 Revised: 1/2022
+LAB-1397-6.0 Revised: 8/2022
