@@ -17,8 +17,7 @@ In Studies 2 and 3, cisatracurium besylate doses of 0.25 and 0.4 mg/kg were eval
 In Study 4, two minutes after fentanyl and midazolam were administered, patients received thiopental anesthesia.
 Intubating conditions were assessed at 120 seconds following administration of 0.15 mg/kg or 0.2 mg/kg of cisatracurium besylate in 51 patients (see Table 11).
 
-1. Table 11.
-   Intubating Conditions at 120 Seconds after Cisatracurium Besylate Administration with Thiopental Anesthesia in Adult Surgery Patients in Study 4
+Table 11: Intubating Conditions at 120 Seconds after Cisatracurium Besylate Administration with Thiopental Anesthesia in Adult Surgery Patients in Study 4
 
 |  | Cisatracurium Besylate 0.15 mg/kg(n=26) | Cisatracurium Besylate 0.20 mg/kg(n=25) |
 | --- | --- | --- |
@@ -26,7 +25,12 @@ Intubating conditions were assessed at 120 seconds following administration of 0
 | 95% CI | 76,100 | 88,100 |
 | Excellent | 31% | 60% |
 | Good | 58% | 36% |
-| *Excellent: Easy passage of tube without coughing. Vocal cords relaxed and abducted. Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. |  |  |
+
+1. *Excellent: Easy passage of tube without coughing.
+   Vocal cords relaxed and abducted.
+
+Good: Passage of tube with slight coughing and/or bucking.
+Vocal cords relaxed and abducted.
 
 Excellent intubating conditions were more frequently achieved with the 0.2 mg/kg dose (60%) than the 0.15 mg/kg dose (31%) when intubation was attempted 120 seconds following cisatracurium besylate.
 
@@ -34,8 +38,7 @@ Study 5 evaluated intubating conditions after 3 and 4 × ED95 (0.15 mg/kg and 0.
 This study compared intubation conditions produced by these doses of cisatracurium besylate after 90 seconds.
 Table 12 displays these results.
 
-1. Table 12.
-   Intubating Conditions at 90 Seconds after Cisatracurium Besylate Administration with Thiopental or Propofol Anesthesia in Study 5
+Table 12: Intubating Conditions at 90 Seconds after Cisatracurium Besylate Administration with Thiopental or Propofol Anesthesia in Study 5
 
 | Intubating Condition | Cisatracurium Besylate 0.15 mg/kg with Propofol (n=31) | Cisatracurium Besylate 0.15 mg/kg with Thiopental (n=31) | Cisatracurium Besylate 0.20 mg/kg with Propofol (n=30) | Cisatracurium Besylate 0.20 mg/kg with Thiopental (n=28) |
 | --- | --- | --- | --- | --- |
@@ -46,8 +49,9 @@ Table 12 displays these results.
 
 1. * Excellent: Easy passage of tube without coughing.
    Vocal cords relaxed and abducted.
-2. Good: Passage of tube with slight coughing and/or bucking.
-   Vocal cords relaxed and abducted.
+
+Good: Passage of tube with slight coughing and/or bucking.
+Vocal cords relaxed and abducted.
 
 Excellent intubating conditions were more frequently observed with the 0.2 mg/kg dose when intubation was attempted 90 seconds following cisatracurium besylate.
 
@@ -68,8 +72,7 @@ Table 13 displays the intubating conditions by type of anesthesia, and pediatric
 Excellent or good intubating conditions were produced 120 seconds following 0.15 mg/kg of cisatracurium besylate in 88/90 (98%) of patients induced with halothane and in 85/90 (94%) of patients induced with thiopentone and fentanyl.
 There were no patients for whom intubation was not possible, but there were 7/120 patients aged 1 year to 12 years old for whom intubating conditions were described as poor.
 
-Table 13.
-Intubating Conditions at 120 Seconds* in Pediatric Patients Ages 1 Month to 12 Years Old in Study 7
+Table 13: Intubating Conditions at 120 Seconds* in Pediatric Patients Ages 1 Month to 12 Years Old in Study 7
 
 |  | Cisatracurium Besylate 0.15 mg/kg1-11 mo. |  | Cisatracurium Besylate 0.15 mg/kg1-4 years |  | Cisatracurium Besylate 0.15 mg/kg5-12 years |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -78,7 +81,16 @@ Intubating Conditions at 120 Seconds* in Pediatric Patients Ages 1 Month to 12 Y
 | Excellent | 100% | 83% | 90% | 63% | 73% | 70% |
 | Good | 0% | 17% | 7% | 23% | 23% | 27% |
 | Poor | 0% | 0% | 3% | 13% | 3% | 3% |
-| *Excellent: Easy passage of the tube without coughing. Vocal cords relaxed and abducted.Good: Passage of tube with slight coughing and/or bucking. Vocal cords relaxed and abducted. Poor: Passage of tube with moderate coughing and/or bucking. Vocal cords moderately adducted. Response of patient requires adjustment of ventilation pressure and/or rate. |  |  |  |  |  |  |
+
+*Excellent: Easy passage of the tube without coughing.
+Vocal cords relaxed and abducted.
+
+Good: Passage of tube with slight coughing and/or bucking.
+Vocal cords relaxed and abducted.
+
+Poor: Passage of tube with moderate coughing and/or bucking.
+Vocal cords moderately adducted.
+Response of patient requires adjustment of ventilation pressure and/or rate.
 
 ## 14.3 Skeletal Muscle Relaxation in ICU Patients
 
