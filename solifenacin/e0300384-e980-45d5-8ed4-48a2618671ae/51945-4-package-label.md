@@ -2,7 +2,7 @@
 
 NDC 51248-250-99
 
-VESIcare LSTM
+VESIcare LS®
 
 (solifenacin succinate)
 
@@ -14,7 +14,7 @@ Oral Suspension
 
 Shake the bottle well before use.
 
-Discard remaining VESIcare LSTM 28 days after first opening.
+Discard remaining VESIcare LS® 28 days after first opening.
 
 150 mL
 
@@ -22,7 +22,7 @@ Discard remaining VESIcare LSTM 28 days after first opening.
 
 NDC 51248-250-99
 
-VESIcare LSTM
+VESIcare LS®
 
 (solifenacin succinate)
 

@@ -48,4 +48,4 @@ If more than 12 hours have passed, the missed dose can be skipped and the next d
 
 Marketed and Distributed by: Astellas Pharma US, Inc. Northbrook, IL 60062
 
-VESIcare LSTM is a trademark of Astellas US LLC. © 2004 – 2020 Astellas Pharma US, Inc. 283701-VES
+VESIcare LS is a registered trademark of Astellas US LLC. © 2004 – 2022 Astellas Pharma US, Inc. 366572-VES
