@@ -53,7 +53,7 @@ VFEND has been associated with photosensitivity skin reaction.
 Patients, including pediatric patients, should avoid exposure to direct sunlight during VFEND treatment and should use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 If phototoxic reactions occur, the patient should be referred to a dermatologist and VFEND discontinuation should be considered.
 If VFEND is continued despite the occurrence of phototoxicity-related lesions, dermatologic evaluation should be performed on a systematic and regular basis to allow early detection and management of premalignant lesions.
-Squamous cell carcinoma of the skin and melanoma have been reported during long-term VFEND therapy in patients with photosensitivity skin reactions.
+Squamous cell carcinoma of the skin (including cutaneous SCC in situ, or Bowen’s disease) and melanoma have been reported during long-term VFEND therapy in patients with photosensitivity skin reactions.
 If a patient develops a skin lesion consistent with premalignant skin lesions, squamous cell carcinoma or melanoma, VFEND should be discontinued.
 In addition, VFEND has been associated with photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus, as well as increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with ultraviolet (UV) reactivation.
 There is the potential for this risk to be observed with other drugs associated with UV reactivation.

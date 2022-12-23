@@ -223,7 +223,7 @@ Voriconazole increased the mean Cmax and AUC of diclofenac by 114% and 78%, resp
 No significant pharmacokinetic interactions were observed when voriconazole was coadministered with the following agents.
 Therefore, no dosage adjustment for these agents is recommended:
 
-Prednisolone (CYP3A4 substrate)–Voriconazole (200 mg every 12 hours × 30 days) increased Cmax and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects.
+Prednisolone (CYP3A4 substrate)–Voriconazole (200 mg every 12 hours × 30 days) increased Cmax and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects [see Warnings and Precautions (5.8)].
 
 Digoxin (P-glycoprotein mediated transport)–Voriconazole (200 mg every 12 hours × 12 days) had no significant effect on steady state Cmax and AUCτ of digoxin (0.25 mg once daily for 10 days) in healthy subjects.
 
@@ -288,7 +288,7 @@ Antimicrobial Activity
 
 Voriconazole has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections.
 
-Aspergillus fumigatus Aspergillus flavus Aspergillus niger Aspergillus terreus Candida albicans Candida glabrata (In clinical studies, the voriconazole MIC90 was 4 µg/mL) In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 µg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥4 µg/mL) to voriconazole.
+Aspergillus fumigatus Aspergillus flavus Aspergillus niger Aspergillus terreus Candida albicans Candida glabrata (In clinical studies, the voriconazole MIC90 was 4 µg/mL)In clinical studies, voriconazole MIC90 for C. glabrata baseline isolates was 4 µg/mL; 13/50 (26%) C. glabrata baseline isolates were resistant (MIC ≥4 µg/mL) to voriconazole.
 However, based on 1054 isolates tested in surveillance studies the MIC90 was 1 µg/mL.
 Candida krusei Candida parapsilosis Candida tropicalis Fusarium spp. including Fusarium solani Scedosporium apiospermum
 

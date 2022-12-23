@@ -19,7 +19,8 @@ Data
 
 Animal Data
 
-Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6–17) at 10, 30, and 60 mg/kg/day..Voriconazole was associated with increased incidences of the malformations hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on body surface area comparisons, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on body surface area comparisons.
+Voriconazole was administered orally to pregnant rats during organogenesis (gestation days 6–17) at 10, 30, and 60 mg/kg/day.
+Voriconazole was associated with increased incidences of the malformations hydroureter and hydronephrosis at 10 mg/kg/day or greater, approximately 0.3 times the recommended human dose (RMD) based on body surface area comparisons, and cleft palate at 60 mg/kg, approximately 2 times the RMD based on body surface area comparisons.
 Reduced ossification of sacral and caudal vertebrae, skull, pubic, and hyoid bone, supernumerary ribs, anomalies of the sternebrae, and dilatation of the ureter/renal pelvis were also observed at doses of 10 mg/kg or greater.
 There was no evidence of maternal toxicity at any dose.
 
@@ -47,7 +48,7 @@ Monitoring for adverse reactions associated with oral contraceptives and voricon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of VFEND have been established in pediatric patients 2 years of age and older based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data..
+The safety and effectiveness of VFEND have been established in pediatric patients 2 years of age and older based on evidence from adequate and well-controlled studies in adult and pediatric patients and additional pediatric pharmacokinetic and safety data.
 
 A total of 105 pediatric patients aged 2 to less than 12 [N=26] and aged 12 to less than 18 [N=79] from two, non-comparative Phase 3 pediatric studies and eight adult therapeutic trials provided safety information for VFEND use in the pediatric population [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
