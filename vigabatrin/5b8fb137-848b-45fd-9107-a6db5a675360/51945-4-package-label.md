@@ -2,7 +2,7 @@
 
 NDC 69238-1425-1
 
-Vigabatrin Oral Solution
+Vigabatrin for Oral Solution, USP
 
 Rx only
 
@@ -12,7 +12,7 @@ Amneal Pharmaceuticals LLC
 
 NDC 69238-1425-5
 
-Vigabatrin Oral Solution
+Vigabatrin for Oral Solution, USP
 
 Rx only
 

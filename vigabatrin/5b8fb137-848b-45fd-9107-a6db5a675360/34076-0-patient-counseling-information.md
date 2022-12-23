@@ -62,4 +62,6 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-04-2022-06
+12-2022-07
+
+Dispense with Medication Guide available at: documents.amneal.com/mg/vigabatrinoralsolution.pdf
