@@ -33,9 +33,9 @@ Table 13 also summarizes the response (success) based on mycological confirmatio
 
 Table 13: Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
-|  | n/N (%) | n/N (%) |  |
-| --- | --- | --- | --- |
 |  | Voriconazole | Ampho B Amphotericin B followed by other licensed antifungal therapy | Stratified Difference (95% CI) Difference and corresponding 95% confidence interval are stratified by protocol |
+| --- | --- | --- | --- |
+|  | n/N (%) | n/N (%) |  |
 | Efficacy as Primary Therapy |  |  |  |
 | Satisfactory Global Response Assessed by independent Data Review Committee (DRC) | 76/144 (53) | 42/133 (32) | 21.8% (10.5%, 33.0%) p<0.0001 |
 | Survival at Day 84 Proportion of subjects alive | 102/144 (71) | 77/133 (58) | 13.1% (2.1%, 24.2%) |
@@ -94,9 +94,9 @@ The overall clinical and mycological success rates by Candida species in Study 1
 
 Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline PathogenA few patients had more than one pathogen at baseline.Patients who did not have a 12-week assessment for any reason were considered a treatment failure.
 
-| Voriconazole | Amphotericin B --> Fluconazole |  |
-| --- | --- | --- |
 | Baseline Pathogen | Clinical and Mycological Success (%) |  |
+| --- | --- | --- |
+| Voriconazole | Amphotericin B --> Fluconazole |  |
 | C. albicans | 46/107 (43%) | 30/63 (48%) |
 | C. tropicalis | 17/53 (32%) | 1/16 (6%) |
 | C. parapsilosis | 24/45 (53%) | 10/19 (53%) |
@@ -128,10 +128,10 @@ Microbiologic success rates by Candida species are presented in Table 17.
 
 Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150-305)
 
-| Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |  |
-| --- | --- | --- | --- | --- |
 | PathogenSome patients had more than one species isolated at baseline. | Voriconazole |  | Fluconazole |  |
+| --- | --- | --- | --- | --- |
 | Favorable endoscopic responsePatients with endoscopic and/or mycological assessment at end of therapy. | Mycological eradication | Favorable endoscopic response | Mycological eradication |  |
+| Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |  |
 | C. albicans | 134/140 (96%) | 90/107 (84%) | 147/156 (94%) | 91/115 (79%) |
 | C. glabrata | 8/8 (100%) | 4/7 (57%) | 4/4 (100%) | 1/4 (25%) |
 | C. krusei | 1/1 | 1/1 | 2/2 (100%) | 0/0 |
@@ -170,11 +170,11 @@ No patients with rare mold were enrolled.
 A successful global response was defined as resolution or improvement in clinical signs and symptoms and at least 50% resolution of radiological lesions attributed to IA.
 The overall rate of successful global response at 6 weeks in the MITT population is presented in Table 18 below.
 
-Table 18: Global ResponseGlobal response rate was defined as the number of subjects with a successful response (complete or partial) as a percentage of all subjects (including subjects with an indeterminate or missing response) at 6 weeks in the MITT population.The Modified Intent-to-Treat (MITT) population was defined as all subjects who received at least 1 dose of study drug and who were diagnosed with proven or probable IA as defined by the modified EORTC/MSG criteria. in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT)2 Population
+Table 18: Global ResponseGlobal response rate was defined as the number of subjects with a successful response (complete or partial) as a percentage of all subjects (including subjects with an indeterminate or missing response) at 6 weeks in the MITT population.The Modified Intent-to-Treat (MITT) population was defined as all subjects who received at least 1 dose of study drug and who were diagnosed with proven or probable IA as defined by the modified EORTC/MSG criteria. in Patients with Invasive Aspergillosis, Modified Intent-to-Treat (MITT) Population
 
-| Ages 2–<12 years N=5 | Ages 12–<18 years N=9 | Overall N=14 |  |
-| --- | --- | --- | --- |
 | Parameter | Global Response at Week 6 |  |  |
+| --- | --- | --- | --- |
+| Ages 2–<12 years N=5 | Ages 12–<18 years N=9 | Overall N=14 |  |
 | Number of successes, n (%) | 2 (40%) | 7 (78%) | 9 (64%) |
 
 The second study enrolled 22 patients with invasive candidiasis including candidemia (ICC) and EC requiring either primary or salvage therapy.
@@ -199,8 +199,8 @@ The overall rate of successful global response at EOT in the MITT population is 
 Table 19: Global ResponseGlobal response was determined based on the investigator's assessment of clinical and microbiological response in the Modified Intent-to-Treat (MITT) analysis population at end of treatment.
 Subjects with missing data or whose response was deemed indeterminate were considered failures. at the End of Treatment in the Treatment of Invasive Candidiasis with Candidemia and Esophageal Candidiasis Modified Intent-to-Treat (MITT) PopulationThe MITT population was defined as all subjects who received at least 1 dose of study drug and who had microbiologically confirmed invasive candidiasis with candidemia (ICC) and EC, or subjects with EC who had at least confirmation of oropharyngeal candidiasis without confirmation on esophagoscopy.
 
-| Ages 2–<12 N=2 | Ages 12–<18 N=8 | Overall N=10 | Overall N=7 |  |
-| --- | --- | --- | --- | --- |
 | Parameter | Global Response at End of Treatment |  |  |  |
+| --- | --- | --- | --- | --- |
 | EC N=10 |  |  | ICCAll subjects with ICC were aged 2 to less than 12. N=7 |  |
+| Ages 2–<12 N=2 | Ages 12–<18 N=8 | Overall N=10 | Overall N=7 |  |
 | Number of successes, n (%) | 2 (100%) | 5 (63%) | 7 (70%) | 6 (86%) |

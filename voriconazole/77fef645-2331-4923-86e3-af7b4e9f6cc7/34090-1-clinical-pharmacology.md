@@ -172,7 +172,7 @@ Long-term use of St. John's Wort could lead to reduced voriconazole exposure [se
 
 Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity:
 
-Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every24 hours for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
+Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect [see Drug Interactions (7)].
 
 Letermovir (CYP2C9/2C19 inducer)–Coadministration of oral letermovir with oral voriconazole decreased the steady state Cmax and AUC0–12 of voriconazole by an average of 39% and 44%, respectively [see Drug Interactions (7)].
@@ -200,7 +200,7 @@ Sirolimus (CYP3A4 substrate)–Repeat dose administration of oral voriconazole (
 Coadministration of voriconazole with the following agents results in increased exposure to these drugs.
 Therefore, careful monitoring and/or dosage adjustment of these drugs is needed:
 
-Alfentanil (CYP3A4 substrate)–Coadministration of multiple doses of oral voriconazole (400 mg every 12 hours on day 1, 200 mg every 12 hours on day 2) with a single 20 mcg/kg intravenous dose of alfentanil with concomitant naloxone resulted in a 6-fold increase in mean alfentanil AUC0–∞ and a 4-fold prolongation of mean alfentanil elimination half-life, compared to when alfentanil was given alone[see Drug Interactions (7)].
+Alfentanil (CYP3A4 substrate)–Coadministration of multiple doses of oral voriconazole (400 mg every 12 hours on day 1, 200 mg every 12 hours on day 2) with a single 20 mcg/kg intravenous dose of alfentanil with concomitant naloxone resulted in a 6-fold increase in mean alfentanil AUC0–∞ and a 4-fold prolongation of mean alfentanil elimination half-life, compared to when alfentanil was given alone [see Drug Interactions (7)].
 
 Fentanyl (CYP3A4 substrate): In an independent published study, concomitant use of voriconazole (400 mg every 12 hours on Day 1, then 200 mg every 12 hours on Day 2) with a single intravenous dose of fentanyl (5 µg/kg) resulted in an increase in the mean AUC0–∞ of fentanyl by 1.4-fold (range 0.81- to 2.04-fold) [see Drug Interactions (7)].
 
