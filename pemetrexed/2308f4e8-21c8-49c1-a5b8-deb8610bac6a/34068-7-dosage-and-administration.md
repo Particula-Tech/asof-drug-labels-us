@@ -2,6 +2,9 @@
 
 ## 2.1 Recommended Dosage for Non-squamous Non-Small Cell Lung Cancer
 
+- The recommended dose of PEMFEXY, when administered with pembrolizumab and platinum chemotherapy for the initial treatment of metastatic non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes administered after pembrolizumab and prior to carboplatin or cisplatin on Day 1 of each 21-day cycle for 4 cycles.
+  Following completion of platinum-based therapy, treatment with PEMFEXY with or without pembrolizumab is administered until disease progression or unacceptable toxicity.
+  Please refer to the full prescribing information for pembrolizumab and for carboplatin or cisplatin.
 - The recommended dosage of PEMFEXY, when administered with cisplatin for initial treatment of locally advanced or metastatic non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater, is 500 mg/m2 as an intravenous infusion over 10 minutes administered prior to cisplatin on Day 1 of each 21-day cycle for up to six cycles in the absence of disease progression or unacceptable toxicity.
 - The recommended dosage of PEMFEXY for maintenance treatment of non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity after four cycles of platinum-based first-line chemotherapy.
 - The recommended dosage of PEMFEXY for treatment of recurrent non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
@@ -46,7 +49,7 @@ Delay initiation of the next cycle of PEMFEXY until:
 
 Upon recovery, modify the dosage of PEMFEXY in the next cycle as specified in Table 1.
 
-For dosage modifications for cisplatin, refer to the prescribing information for cisplatin.
+For dosing modifications for cisplatin, carboplatin, or pembrolizumab, refer to their prescribing information.
 
 | Table 1: Recommended Dosage Modifications for Adverse Reactionsa |  |
 | --- | --- |

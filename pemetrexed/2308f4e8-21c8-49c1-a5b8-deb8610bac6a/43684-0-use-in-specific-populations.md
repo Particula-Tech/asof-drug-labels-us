@@ -28,19 +28,13 @@ Because of the potential for serious adverse reactions in a breastfed child from
 
 Based on animal data, pemetrexed can cause malformations and developmental delays when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
-Pregnancy Testing
+Pregnancy Testing Verify pregnancy status of females of reproductive potential prior to initiating PEMFEXY [see Use in Specific Populations (8.1)].
 
-Verify pregnancy status of females of reproductive potential prior to initiating PEMFEXY [see Use in Specific Populations (8.1)].
-
-Contraception
-
-Females Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with PEMFEXY and for 6 months after the last dose.
+Contraception Females Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with PEMFEXY and for 6 months after the last dose.
 
 Males Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use effective contraception during treatment with PEMFEXY and for 3 months after the last dose [see Nonclinical Toxicology (13.1)].
 
-Infertility
-
-Males PEMFEXY may impair fertility in males of reproductive potential.
+Infertility Males PEMFEXY may impair fertility in males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
