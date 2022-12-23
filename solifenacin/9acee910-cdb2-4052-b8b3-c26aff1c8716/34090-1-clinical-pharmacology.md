@@ -24,8 +24,8 @@ Table 2: QTc changes in msec (90% CI) from baseline at Tmax (relative to placebo
 
 | Drug/Dose | Fridericia method (using mean difference) |
 | --- | --- |
-| Solifenacin succinate 10 mg | 2 (-3,6) |
-| Solifenacin succinate 30 mg | 8 (4,13) |
+| Solifenacin succinate 10 mg | 2 (-3, 6) |
+| Solifenacin succinate 30 mg | 8 (4, 13) |
 
 Moxifloxacin was included as a positive control in this study and, given the length of the study, its effect on the QT interval was evaluated in 3 different sessions.
 The placebo-subtracted mean changes (90% CI) in QTcF for moxifloxacin in the three sessions were 11 (7, 14), 12 (8, 17), and 16 (12, 21), respectively.
