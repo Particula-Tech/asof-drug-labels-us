@@ -63,7 +63,8 @@ Table 1: UNITHROID Dosing Guidelines for Pediatric Hypothyroidism
 | 6 to 12 years | 4 mcg/kg to 5 mcg/kg daily |
 | Greater than 12 years but growth and puberty incomplete | 2 mcg/kg to 3 mcg/kg daily |
 | Growth and puberty complete | 1.6 mcg/kg daily |
-| a - The dose should be adjusted based on clinical response and laboratory parameters [see Warnings and Precautions (5.4), Drug Interactions (7.10), and Use In Specific Populations (8.4)]. |  |
+
+a - The dose should be adjusted based on clinical response and laboratory parameters [see Warnings and Precautions (5.4), Drug Interactions (7.10), and Use In Specific Populations (8.4)].
 
 Newborns (0 to 3 months) at Risk for Cardiac Failure:
 
