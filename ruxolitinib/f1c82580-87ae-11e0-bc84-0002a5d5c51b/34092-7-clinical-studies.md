@@ -114,18 +114,18 @@ A significantly larger proportion of patients on the Jakafi arm compared to best
 
 Table 22: Percent of Patients with Polycythemia Vera Achieving the Primary and Key Secondary Endpoints in Study 3 (Intent to Treat)
 
-|  | Jakafi (N=110) | Best Available Therapy (N=112) |  |  |
-| --- | --- | --- | --- | --- |
-| Number (%) of Patients Achieving a Primary Response at Week 32 | 25 (23%) | 1 (< 1%) |  |  |
-| 95% CI of the response rate (%) | (15%, 32%) | (0%, 5%) |  |  |
-| P-value | < 0.0001 |  |  |  |
-| Number (%) of Patients Achieving a Durable Primary Response at Week 48 | 22 (20%) | 1 (< 1%) |  |  |
-| 95% CI of the response rate (%) | (13%, 29%) | (0%, 5%) |  |  |
-| P-value | < 0.0001 |  |  |  |
-| Number (%) of Patients Achieving Complete Hematological Remission at Week 32 | 26 (24%) | 9 (8%) |  |  |
-| 95% CI of the response rate (%) | (16%, 33%) | (4%, 15%) |  |  |
-| P-value | 0.0016 |  |  |  |
-| Primary Response defined as having achieved both the absence of phlebotomy eligibility beginning at the Week 8 visit and continuing through Week 32 and a greater than or equal to 35% reduction from baseline in spleen volume at Week 32. |  |  |  |  |
+|  | Jakafi (N=110) | Best Available Therapy (N=112) |
+| --- | --- | --- |
+| Number (%) of Patients Achieving a Primary Response at Week 32 | 25 (23%) | 1 (< 1%) |
+| 95% CI of the response rate (%) | (15%, 32%) | (0%, 5%) |
+| P-value | < 0.0001 |  |
+| Number (%) of Patients Achieving a Durable Primary Response at Week 48 | 22 (20%) | 1 (< 1%) |
+| 95% CI of the response rate (%) | (13%, 29%) | (0%, 5%) |
+| P-value | < 0.0001 |  |
+| Number (%) of Patients Achieving Complete Hematological Remission at Week 32 | 26 (24%) | 9 (8%) |
+| 95% CI of the response rate (%) | (16%, 33%) | (4%, 15%) |
+| P-value | 0.0016 |  |
+| Primary Response defined as having achieved both the absence of phlebotomy eligibility beginning at the Week 8 visit and continuing through Week 32 and a greater than or equal to 35% reduction from baseline in spleen volume at Week 32. |  |  |
 
 Additional analyses for Study 3 to assess durability of response were conducted at Week 80 only in the Jakafi arm.
 On this arm, 91 (83%) patients were still on treatment at the time of the Week 80 data cut-off.
@@ -212,4 +212,4 @@ Table 25: Overall Response Rate through Cycle 7 Day 1 for Patients with Chronic 
 | Complete Response (%) | 14 (8%) | 8 (5%) |
 | Partial Response (%) | 102 (62%) | 86 (52%) |
 
-ORR results were supported by exploratory analyses of patient-reported symptom bother which showed at least a 7-point decrease in the cGVHD Total Symptom Score at any time through Cycle 7 Day 1 in 66 (40%; 95% CI 32, 48) patients in the Jakafi arm and 47 (29%; 95% CI 22, 36) patients in the BAT arm.
+ORR results were supported by exploratory analyses of patient-reported symptom severity which showed at least a 7-point decrease in the cGVHD Total Symptom Score at any time through Cycle 7 Day 1 in 66 (40%; 95% CI 32, 48) patients in the Jakafi arm and 47 (29%; 95% CI 22, 36) patients in the BAT arm.

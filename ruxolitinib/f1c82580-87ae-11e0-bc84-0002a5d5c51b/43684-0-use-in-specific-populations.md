@@ -43,22 +43,36 @@ Additional analysis showed the presence of ruxolitinib and several of its metabo
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Jakafi for treatment of myelofibrosis or polycythemia vera in pediatric patients have not been established.
+Myelofibrosis
 
-The safety and effectiveness of Jakafi for treatment of steroid-refractory aGVHD has been established for treatment of children 12 years and older.
+The safety and effectiveness of Jakafi for treatment of myelofibrosis in pediatric patients have not been established.
+
+Polycythemia Vera
+
+The safety and effectiveness of Jakafi for treatment of polycythemia vera in pediatric patients have not been established.
+
+Acute Graft-Versus-Host Disease
+
+The safety and effectiveness of Jakafi for treatment of steroid-refractory aGVHD has been established for treatment of pediatric patients 12 years and older.
 Use of Jakafi in pediatric patients with steroid-refractory aGVHD is supported by evidence from adequate and well-controlled trials of Jakafi in adults [see Clinical Studies (14.3)] and additional pharmacokinetic and safety data in pediatric patients.
 The safety and effectiveness of Jakafi for treatment of steroid-refractory aGVHD has not been established in pediatric patients younger than 12 years old.
 
-The safety and effectiveness of Jakafi for treatment of cGVHD after failure of one or two lines of systemic therapy has been established for treatment of children 12 years and older.
-Use of Jakafi in pediatric patients with cGVHD after failure of one or two lines of systemic therapy is supported by evidence from adequate and well-controlled trials of Jakafi in adults and adolescents [see Clinical Studies (14.3, 14.4)] and additional pharmacokinetic and safety data in pediatric patients.
+Chronic Graft-Versus-Host Disease
+
+The safety and effectiveness of Jakafi for treatment of cGVHD after failure of one or two lines of systemic therapy has been established for treatment of pediatric patients 12 years and older.
+Use of Jakafi in pediatric patients with cGVHD after failure of one or two lines of systemic therapy is supported by evidence from adequate and well-controlled trials of Jakafi in adults and adolescents [see Clinical Studies (14.4)] and additional pharmacokinetic and safety data in pediatric patients.
 The safety and effectiveness of Jakafi for treatment of cGVHD has not been established in pediatric patients younger than 12 years old.
 
-Jakafi was evaluated in a single-arm, dose-escalation study (NCT01164163) in 27 pediatric patients with relapsed or refractory solid tumors (Cohort A) and 20 with leukemias or myeloproliferative neoplasms (Cohort B). The patients had a median age of 14 years (range, 2 to 21 years) and included 18 children (age 2 to < 12 years), and 14 adolescents (age 12 to < 17 years).
-The dose levels tested were 15, 21, 29, 39, or 50 mg/m2 twice daily in 28-day cycles with up to 6 patients per dose group.
+Other Myeloproliferative Neoplasms, Leukemias, and Solid Tumors
 
-Overall, 38 (81%) patients were treated with no more than a single cycle of Jakafi, while 3, 1, 2, and 3 patients received 2, 3, 4, and 5 or more cycles, respectively.
-A protocol-defined maximal tolerated dose was not observed, but since few patients were treated for multiple cycles, tolerability with continued use was not assessed adequately to establish a recommended Phase 2 dose higher than the recommended dose for adults.
-The safety profile in children was similar to that seen in adults.
+The safety and effectiveness of ruxolitinib were assessed but not established in a single-arm trial (NCT01164163) in patients with relapsed or refractory solid tumors, leukemias, or myeloproliferative neoplasms.
+The patients included 18 children (age 2 to < 12 years) and 14 adolescents (age 12 to < 17 years).
+Overall, 19% of patients received more than one cycle.
+No new safety signals were observed in pediatric patients in this trial.
+
+The safety and effectiveness of ruxolitinib in combination with chemotherapy for treatment of high-risk, de novo CRLF2 rearranged or JAK pathway–mutant Ph-like acute lymphoblastic leukemia (ALL) were assessed but not established in a single-arm trial (NCT02723994).
+The patients included 2 infants (age < 2 years), 42 children (age 2 to < 12 years) and 62 adolescents (age 12 to < 17 years).
+No new safety signals were observed in pediatric patients in this trial.
 
 Juvenile Animal Toxicity Data
 
