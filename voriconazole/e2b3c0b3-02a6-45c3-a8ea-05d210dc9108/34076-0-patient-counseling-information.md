@@ -10,7 +10,7 @@ Photosensitivity
 
 - •Advise patients of the risk of photosensitivity (with or without concomitant methotrexate), accelerated photoaging, and skin cancer.
 - •Advise patients that voriconazole can cause serious photosensitivity and to immediately contact their healthcare provider for new or worsening skin rash.
-  - oAdvise patients to avoid exposure to direct sun light and to use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
+  - •Advise patients to avoid exposure to direct sun light and to use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 
 Embryo-Fetal Toxicity
 

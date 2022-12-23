@@ -7,7 +7,7 @@ Therefore, voriconazole may increase the plasma concentrations of substances met
 
 Tables 10 and 11 provide the clinically significant interactions between voriconazole and other medical products.
 
-Table 3: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
+Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by the Drug) | Voriconazole Plasma Exposure (Cmax and AUCτ after 200 mg every 12 hours) | Recommendations for Voriconazole Dosage Adjustment/Comments |
 | --- | --- | --- |
@@ -34,7 +34,7 @@ Table 3: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Ph
 
 ‡ Non-Nucleoside Reverse Transcriptase Inhibitors
 
-Table 4: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
+Table 11: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)]
 
 | Drug/Drug Class (Mechanism of Interaction by Voriconazole) | Drug Plasma Exposure (Cmax and AUCτ) | Recommendations for Drug Dosage Adjustment/Comments |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Table 4: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical
 | Venetoclax(CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Venetoclax Plasma Exposure Likely to be Significantly Increased | Coadministration of voriconazole is contraindicated at initiation and during the ramp-up phase in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL). Refer to the venetoclax labeling for safety monitoring and dose reduction in the steady daily dosing phase in CLL/SLL patients. For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering voriconazole with venetoclax. Refer to the venetoclax prescribing information for dosing instructions. |
 | Lemborexant (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Avoid concomitant use of voriconazole with lemborexant. |
 | Glasdegib(CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Consider alternative therapies. If concomitant use cannot be avoided, monitor patients for increased risk of adverse reactions including QTc interval prolongation |
-| Tyrosine kinase inhibitors (e.g., axitinib, bosutinib, cabozantinib, ceritinib, cobimetinib, dabrafenib, dasatinib, nilotinib, sunitinib, ibrutinib, ribociclib) (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Avoid concomitant use of voriconazole. If concomitant use cannot be avoided, dose reduction of the tyrosine kinase inhibitor is recommended. Refer to the prescribing information for the relevant product. |
+| Tyrosine kinase inhibitors (including but not limited to axitinib, bosutinib, cabozantinib, ceritinib, cobimetinib, dabrafenib, dasatinib, nilotinib, sunitinib, ibrutinib, ribociclib) (CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Drug Plasma Exposure Likely to be Increased | Avoid concomitant use of voriconazole. If concomitant use cannot be avoided, dose reduction of the tyrosine kinase inhibitor is recommended. Refer to the prescribing information for the relevant product. |
 | Lurasidone(CYP3A4 Inhibition) | Not Studied In Vivo or In Vitro, but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Lurasidone | Contraindicated |
 | Cyclosporine* (CYP3A4 Inhibition) | AUCτ Significantly Increased; No Significant Effect on Cmax | When initiating therapy with voriconazole in patients already receiving cyclosporine, reduce the cyclosporine dose to one-half of the starting dose and follow with frequent monitoring of cyclosporine blood levels. Increased cyclosporine levels have been associated with nephrotoxicity. When voriconazole is discontinued, cyclosporine concentrations must be frequently monitored and the dose increased as necessary. |
 | Methadone‡ (CYP3A4 Inhibition) | Increased | Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation. Frequent monitoring for adverse reactions and toxicity related to methadone is recommended during coadministration. Dose reduction of methadone may be needed. |

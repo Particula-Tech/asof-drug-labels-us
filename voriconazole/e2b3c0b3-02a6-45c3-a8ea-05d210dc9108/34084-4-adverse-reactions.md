@@ -24,8 +24,7 @@ Clinical Trials Experience in Adults
 
 Overview
 
-The most frequently reported adverse reactions (see Error!
-Hyperlink reference not valid.) in the adult therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
+The most frequently reported adverse reactions (see Table 4) in the adult therapeutic trials were visual disturbances (18.7%), fever (5.7%), nausea (5.4%), rash (5.3%), vomiting (4.4%), chills (3.7%), headache (3%), liver function test increased (2.7%), tachycardia (2.4%), hallucinations (2.4%).
 The adverse reactions which most often led to discontinuation of voriconazole therapy were elevated liver function tests, rash, and visual disturbances [see Warning and Precautions (5.1, 5.4) and Adverse Reactions (6.1)].
 
 The data described in Table 4 reflect exposure to voriconazole in 1,655 patients in nine therapeutic studies.
@@ -43,8 +42,8 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse reactions was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-- Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
-  Possibly Related to Therapy or Causality Unknown†
+1. Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+   Possibly Related to Therapy or Causality Unknown†
 
 | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -155,7 +154,7 @@ Cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngiti
 
 Skin and Appendages
 
-Alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
+Alopecia, angioedema, contact dermatitis, discoid lupus erythematosis, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease), sweating, toxic epidermal necrolysis, urticaria.
 
 Special Senses
 
@@ -209,7 +208,7 @@ AST = Aspartate aminotransferase; ALT= alanine aminotransferase
 
 ULN = upper limit of normal
 
-- Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+1. Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -233,7 +232,7 @@ AST = Aspartate aminotransferase; ALT = alanine aminotransferase
 
 ULN = upper limit of normal LLN = lower limit of normal
 
-Table 2: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
+Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -272,7 +271,7 @@ Most Common Adverse Reactions
 
 The most common adverse reactions occurring in ≥5% of pediatric patients receiving voriconazole in the pooled pediatric clinical trials are displayed by body system, in Table 8.
 
-- Table 8: Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
+1. Table 8: Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
 
 | Body System | Adverse Reaction | Pooled Pediatric Data*N=105n (%) |
 | --- | --- | --- |

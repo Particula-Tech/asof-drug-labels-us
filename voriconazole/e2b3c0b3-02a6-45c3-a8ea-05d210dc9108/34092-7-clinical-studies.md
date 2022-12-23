@@ -31,7 +31,7 @@ A benefit of voriconazole compared to amphotericin B on patient survival at Day 
 
 Table 13 also summarizes the response (success) based on mycological confirmation and species.
 
-- Table 13: Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
+1. Table 13: Overall Efficacy and Success by Species in the Primary Treatment of Acute Invasive Aspergillosis Study 307/602
 
 |  | Voriconazole | Ampho B‡ | Stratified Difference (95% CI)§ |
 | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ Patients who did not have a 12-week assessment for any reason were considered a 
 
 The overall clinical and mycological success rates by Candida species in Study 150 to 608 are presented in Table 15.
 
-- Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline Pathogen*,†
+1. Table 15: Overall Success Rates Sustained From EOT To The Fixed 12-Week Follow-Up Time Point By Baseline Pathogen*,†
 
 |  | Voriconazole | Amphotericin B --> Fluconazole |
 | --- | --- | --- |
@@ -148,7 +148,7 @@ Table 16: Success Rates in Patients Treated for Esophageal Candidiasis
 
 Microbiologic success rates by Candida species are presented in Table 17.
 
-- Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150-305)
+1. Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with Esophageal Candidiasis (Study-150-305)
 
 |  | Success/Total (%) | Eradication/Total (%) | Success/Total (%) | Eradication/Total (%) |
 | --- | --- | --- | --- | --- |
@@ -229,7 +229,7 @@ Of the 17 patients included in the MITT analyses, 9 were 2 to less than 12 years
 For ICC and EC, a successful global response was defined as clinical cure or improvement with microbiological eradication or presumed eradication.
 The overall rate of successful global response at EOT in the MITT population is presented in Table 19 below.
 
-- Table 19: Global Responsea at the End of Treatment in the Treatment of Invasive Candidiasis with Candidemia and Esophageal Candidiasis Modified Intent-to-Treat (MITT) Populationb
+1. Table 19: Global Responsea at the End of Treatment in the Treatment of Invasive Candidiasis with Candidemia and Esophageal Candidiasis Modified Intent-to-Treat (MITT) Populationb
 
 | Parameter | Global Response at End of Treatment |  |  |  |
 | --- | --- | --- | --- | --- |
