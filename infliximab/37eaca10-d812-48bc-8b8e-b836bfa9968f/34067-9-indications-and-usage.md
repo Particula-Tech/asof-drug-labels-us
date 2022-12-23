@@ -4,8 +4,8 @@
 
 INFLECTRA is indicated for:
 
-- reducing signs and symptoms and inducing and maintaining clinical remission in adult patients with moderately to severely active Crohn's disease (CD) who have had an inadequate response to conventional therapy.
-- reducing the number of draining enterocutaneous and rectovaginal fistulas and maintaining fistula closure in adult patients with fistulizing CD.
+- •reducing signs and symptoms and inducing and maintaining clinical remission in adult patients with moderately to severely active Crohn's disease (CD) who have had an inadequate response to conventional therapy.
+- •reducing the number of draining enterocutaneous and rectovaginal fistulas and maintaining fistula closure in adult patients with fistulizing CD.
 
 ## 1.2 Pediatric Crohn's Disease
 

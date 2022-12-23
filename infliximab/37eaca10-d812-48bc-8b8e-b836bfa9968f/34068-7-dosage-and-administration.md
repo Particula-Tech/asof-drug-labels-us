@@ -58,30 +58,30 @@ INFLECTRA is intended for use under the guidance and supervision of a healthcare
 The supplied lyophilized powder must be reconstituted and diluted prior to administration.
 The infusion solution should be prepared and administered by a trained medical professional using aseptic technique by the following procedure:
 
-1. Calculate the dose, total volume of reconstituted INFLECTRA solution required and the number of INFLECTRA vials needed.
+1. 1.Calculate the dose, total volume of reconstituted INFLECTRA solution required and the number of INFLECTRA vials needed.
    More than one vial may be needed for a full dose.
-2. Reconstitute each 100 mg INFLECTRA vial with 10 mL of Sterile Water for Injection, USP, to obtain a concentration of 10 mg/ml, using a syringe equipped with a 21-gauge or smaller needle as follows:
-   - Remove the flip-top from the vial and wipe the top with an alcohol swab.
-   - Insert the syringe needle into the vial through the center of the rubber stopper and direct the stream of Sterile Water for Injection, USP, to the glass wall of the vial.
-     Gently swirl the solution by rotating the vial to dissolve the lyophilized powder, which has a cake-like appearance.
-     Avoid prolonged or vigorous agitation.
-     DO NOT SHAKE.
-     Foaming of the solution on reconstitution is not unusual.
-   - Allow the reconstituted solution to stand for 5 minutes.
-     Visually inspect the reconstituted solution for particulate matter and discoloration.
-     The reconstituted solution should be colorless to light yellow and opalescent, and the solution may develop a few translucent particles as infliximab-dyyb is a protein.
-     Do not use if the lyophilized powder has not fully dissolved or if opaque particles, discoloration, or other foreign particles are present.
-     Do not store unused reconstituted INFLECTRA solution.
-3. Dilute the total volume of the reconstituted INFLECTRA solution to 250 mLFor volumes greater than 250 mL, either use a larger infusion bag (e.g.
+2. 2.Reconstitute each 100 mg INFLECTRA vial with 10 mL of Sterile Water for Injection, USP, to obtain a concentration of 10 mg/ml, using a syringe equipped with a 21-gauge or smaller needle as follows:
+   1. oRemove the flip-top from the vial and wipe the top with an alcohol swab.
+   2. oInsert the syringe needle into the vial through the center of the rubber stopper and direct the stream of Sterile Water for Injection, USP, to the glass wall of the vial.
+      Gently swirl the solution by rotating the vial to dissolve the lyophilized powder, which has a cake-like appearance.
+      Avoid prolonged or vigorous agitation.
+      DO NOT SHAKE.
+      Foaming of the solution on reconstitution is not unusual.
+   3. oAllow the reconstituted solution to stand for 5 minutes.
+      Visually inspect the reconstituted solution for particulate matter and discoloration.
+      The reconstituted solution should be colorless to light yellow and opalescent, and the solution may develop a few translucent particles as infliximab-dyyb is a protein.
+      Do not use if the lyophilized powder has not fully dissolved or if opaque particles, discoloration, or other foreign particles are present.
+      Do not store unused reconstituted INFLECTRA solution.
+3. 3.Dilute the total volume of the reconstituted INFLECTRA solution to 250 mLFor volumes greater than 250 mL, either use a larger infusion bag (e.g.
    500 mL) or multiple 250 mL infusion bags to ensure that the concentration of the infusion solution does not exceed 4 mg/mL. with sterile 0.9% Sodium Chloride Injection, USP, (do not dilute with any other diluent) as follows:
-   - Withdraw a volume from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag equal to the total volume of reconstituted INFLECTRA required for a dose.
-     Slowly add the total volume of reconstituted INFLECTRA solution from the vial(s) to the 250 mL infusion bottle or bag.
-   - Discard any unused portion of the reconstituted INFLECTRA solution remaining in the vial(s).
-   - Gently invert the bag to mix the solution.
-     The resulting infusion concentration should range between 0.4 mg/mL (minimum recommended concentration) and 4 mg/mL (maximum recommended concentration) of infliximab-dyyb.
-4. The INFLECTRA infusion should begin within 3 hours of reconstitution and dilution.
+   1. oWithdraw a volume from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag equal to the total volume of reconstituted INFLECTRA required for a dose.
+      Slowly add the total volume of reconstituted INFLECTRA solution from the vial(s) to the 250 mL infusion bottle or bag.
+   2. oDiscard any unused portion of the reconstituted INFLECTRA solution remaining in the vial(s).
+   3. oGently invert the bag to mix the solution.
+      The resulting infusion concentration should range between 0.4 mg/mL (minimum recommended concentration) and 4 mg/mL (maximum recommended concentration) of infliximab-dyyb.
+4. 4.The INFLECTRA infusion should begin within 3 hours of reconstitution and dilution.
    The infusion must be administered intravenously for at least 2 hours with an infusion set with an in-line, sterile, non-pyrogenic, low-protein-binding filter (pore size of 1.2 µm or less).
-5. Given that the vials do not contain antibacterial preservatives, discard any unused portion of the infusion solution (do not store for reuse).
+5. 5.Given that the vials do not contain antibacterial preservatives, discard any unused portion of the infusion solution (do not store for reuse).
 
 No physical biochemical compatibility studies have been conducted to evaluate the co-administration of INFLECTRA with other agents.
 INFLECTRA should not be infused concomitantly in the same intravenous line with other agents.

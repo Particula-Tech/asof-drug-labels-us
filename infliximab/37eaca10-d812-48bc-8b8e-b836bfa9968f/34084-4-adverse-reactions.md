@@ -161,22 +161,22 @@ Table 2 Adverse Reactions that Occurred in ≥ 5% of Patients who Received ≥ 4
 The most common serious adverse reactions observed in clinical trials were infections [see Adverse Reactions (6.1)].
 Other serious, medically relevant adverse reactions ≥0.2% or clinically significant adverse reactions by body system were as follows:
 
-- Body as a whole: allergic reaction, edema
-- Blood: pancytopenia
-- Cardiovascular: hypotension
-- Gastrointestinal: constipation, intestinal obstruction
-- Central and Peripheral Nervous: dizziness
-- Heart Rate and Rhythm: bradycardia
-- Liver and Biliary: hepatitis
-- Metabolic and Nutritional: dehydration
-- Platelet, Bleeding and Clotting: thrombocytopenia
-- Neoplasms: lymphoma
-- Red Blood Cell: anemia, hemolytic anemia
-- Resistance Mechanism: cellulitis, sepsis, serum sickness, sarcoidosis
-- Respiratory: lower respiratory tract infection (including pneumonia), pleurisy, pulmonary edema
-- Skin and Appendages: increased sweating
-- Vascular (Extracardiac): thrombophlebitis
-- White Cell and Reticuloendothelial: leukopenia, lymphadenopathy
+- •Body as a whole: allergic reaction, edema
+- •Blood: pancytopenia
+- •Cardiovascular: hypotension
+- •Gastrointestinal: constipation, intestinal obstruction
+- •Central and Peripheral Nervous: dizziness
+- •Heart Rate and Rhythm: bradycardia
+- •Liver and Biliary: hepatitis
+- •Metabolic and Nutritional: dehydration
+- •Platelet, Bleeding and Clotting: thrombocytopenia
+- •Neoplasms: lymphoma
+- •Red Blood Cell: anemia, hemolytic anemia
+- •Resistance Mechanism: cellulitis, sepsis, serum sickness, sarcoidosis
+- •Respiratory: lower respiratory tract infection (including pneumonia), pleurisy, pulmonary edema
+- •Skin and Appendages: increased sweating
+- •Vascular (Extracardiac): thrombophlebitis
+- •White Cell and Reticuloendothelial: leukopenia, lymphadenopathy
 
 Adverse Reactions in Pediatric Patients
 
@@ -270,16 +270,16 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Postmarketing Adverse Reactions in Adults and Pediatric Patients
 
-- Neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab products), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
-- Interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and rapidly progressive disease).
-- Pericardial effusion, systemic and cutaneous vasculitis.
-- Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
-- Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy) transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)].
-- Acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)]
-- Serious infections [see Warnings and Precautions (5.1)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab products [see Warnings and Precautions (5.13)].
-- Malignancies, including leukemia, melanoma, Merkel cell carcinoma, and cervical cancer [see Warnings and Precautions (5.2)]
-- Anaphylactic reactions, including anaphylactic shock, laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with administration of infliximab products.
-- Transient visual loss have been reported in association with infliximab products during or within 2 hours of infusion.
+- •Neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab products), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
+- •Interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and rapidly progressive disease).
+- •Pericardial effusion, systemic and cutaneous vasculitis.
+- •Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
+- •Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy) transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)].
+- •Acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)]
+- •Serious infections [see Warnings and Precautions (5.1)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab products [see Warnings and Precautions (5.13)].
+- •Malignancies, including leukemia, melanoma, Merkel cell carcinoma, and cervical cancer [see Warnings and Precautions (5.2)]
+- •Anaphylactic reactions, including anaphylactic shock, laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with administration of infliximab products.
+- •Transient visual loss have been reported in association with infliximab products during or within 2 hours of infusion.
   Cerebrovascular accidents, myocardial ischemia/infarction (some fatal), and arrhythmia occurring within 24 hours of initiation of infusion have also been reported [see Warnings and Precautions (5.8)].
 
 Postmarketing Serious Adverse Reactions in Pediatric Patients

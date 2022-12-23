@@ -11,11 +11,11 @@ Treatment with INFLECTRA should not be initiated in patients with an active infe
 Patients greater than 65 years of age, patients with comorbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.
 The risks and benefits of treatment should be considered prior to initiating therapy in patients:
 
-- with chronic or recurrent infection;
-- who have been exposed to tuberculosis;
-- with a history of an opportunistic infection;
-- who have resided or traveled in areas of endemic tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis; or
-- with underlying conditions that may predispose them to infection.
+- •with chronic or recurrent infection;
+- •who have been exposed to tuberculosis;
+- •with a history of an opportunistic infection;
+- •who have resided or traveled in areas of endemic tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis; or
+- •with underlying conditions that may predispose them to infection.
 
 Tuberculosis
 

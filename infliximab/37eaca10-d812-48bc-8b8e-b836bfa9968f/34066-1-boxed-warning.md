@@ -9,15 +9,15 @@ INFLECTRA should be discontinued if a patient develops a serious infection or se
 
 Reported infections include:
 
-- Active tuberculosis, including reactivation of latent tuberculosis.
+- •Active tuberculosis, including reactivation of latent tuberculosis.
   Patients with tuberculosis have frequently presented with disseminated or extrapulmonary disease.
   Patients should be tested for latent tuberculosis before INFLECTRA use and during therapy.
   Treatment for latent infection should be initiated prior to INFLECTRA use.
-- Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis.
+- •Invasive fungal infections, including histoplasmosis, coccidioidomycosis, candidiasis, aspergillosis, blastomycosis, and pneumocystosis.
   Patients with histoplasmosis or other invasive fungal infections may present with disseminated, rather than localized, disease.
   Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
   Empiric anti-fungal therapy should be considered in patients at risk for invasive fungal infections who develop severe systemic illness.
-- Bacterial, viral and other infections due to opportunistic pathogens, including Legionella and Listeria.
+- •Bacterial, viral and other infections due to opportunistic pathogens, including Legionella and Listeria.
 
 The risks and benefits of treatment with INFLECTRA should be carefully considered prior to initiating therapy in patients with chronic or recurrent infection.
 
