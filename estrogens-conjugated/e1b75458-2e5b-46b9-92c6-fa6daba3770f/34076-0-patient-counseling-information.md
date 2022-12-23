@@ -1,15 +1,15 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 ## 17.1 Instructions for Patients
 
-- Keep DUAVEE in the original container to protect from moisture.
+- •Keep DUAVEE in the original container to protect from moisture.
   Do not place DUAVEE in pill boxes or pill organizers.
-- If more than one blister package is dispensed to the patient, instruct them to open one foil pouch at a time.
-- Instruct patient to record the date the blister package is opened in the space provided on the blister package label.
+- •If more than one blister package is dispensed to the patient, instruct them to open one foil pouch at a time.
+- •Instruct patient to record the date the blister package is opened in the space provided on the blister package label.
   Do not use if the blister package has been open more than 60 days.
-- Instruct patient to remove only one tablet from the blister package at the time of use.
+- •Instruct patient to remove only one tablet from the blister package at the time of use.
 
 ## 17.2 Venous Thromboembolic Events
 
