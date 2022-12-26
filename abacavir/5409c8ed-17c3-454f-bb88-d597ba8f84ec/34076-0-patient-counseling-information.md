@@ -41,4 +41,4 @@ Availability of Medication Guide
 Instruct patients to read the Medication Guide before starting abacavir and to re-read it each time the prescription is renewed.
 Instruct patients to inform their physician or pharmacist if they develop any unusual symptom, or if any known symptom persists or worsens.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 12/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 12/2022
