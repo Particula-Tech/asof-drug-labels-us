@@ -103,7 +103,7 @@ Reproduction studies have not been conducted with ZYNRELEF.
 
 Bupivacaine
 
-Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, and 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
+Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, and 40 mg/kg and to rabbits at doses of 1.3, 5.8, and 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
 The high doses are comparable to the daily MRHD of 400 mg on a mg/m2 (BSA) basis.
 No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
 An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level representing approximately 0.3 times the MRHD on a BSA basis.

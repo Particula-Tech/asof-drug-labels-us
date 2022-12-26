@@ -21,13 +21,12 @@
 - ZYNRELEF is applied without a needle into the surgical site following final irrigation and suctioning, and prior to suturing of each layer, when multiple tissue layers are involved.
 - When ZYNRELEF comes in contact with moisture in the tissues, it becomes more viscous, allowing it to stay in place.
 - ZYNRELEF does not degrade sutures.
-  When using monofilament sutures, 3 or more knots are recommended, as contact with ZYNRELEF may cause a single knot to loosen or untie.
-- ZYNRELEF should not be administered via the following routes.
-  - –Epidural
-  - –Intrathecal
-  - –Intravascular or intra-articular
-  - –Regional nerve blocks
-  - –Pre-incisional or pre-procedural locoregional anesthetic techniques.
+  When tying knots with monofilament sutures, contact with ZYNRELEF may cause knots to loosen or untie due to the viscosity of ZYNRELEF.
+  In vitro studies showed an increase in elasticity with monofilament sutures exposed to ZYNRELEF with unknown clinical significance.
+  Minimize administration of ZYNRELEF near the incision line and wipe off excess ZYNRELEF from the skin prior to suturing.
+  Three (3) or more knots ending in a multi-throw knot (e.g. a Surgeon's knot) are recommended with monofilament sutures.
+  Braided or barbed sutures are recommended, especially for closure of deeper layers.
+- ZYNRELEF should not be administered via the following routes.–Epidural–Intrathecal–Intravascular or intra-articular–Regional nerve blocks–Pre-incisional or pre-procedural locoregional anesthetic techniques.
 
 ## 2.2 Preparation Instructions
 
@@ -52,7 +51,9 @@ Before administration, remove the syringe tip cap and attach the Luer lock cone-
    2. b.For small-to-medium open abdominal surgical procedures, close the peritoneum (if applicable), then apply ZYNRELEF above and below the fascial repair.
    3. c.For lower extremity total joint arthroplasty surgical procedures, apply ZYNRELEF directly to the joint capsule, the anteromedial tissues and periosteum, and the anterolateral tissues and periosteum after placement of the components.
 2. Only apply ZYNRELEF to the tissue layers below the skin incision and not directly onto the subdermal layer or the skin.
+   Minimize administration of ZYNRELEF near the incision line.
 3. Use only the amount necessary to coat the tissues, such that ZYNRELEF does not leak from the surgical wound after closure.
+   Wipe off excess ZYNRELEF from the skin prior to or during closure of the wound.
 
 ## 2.4 Dosing Instructions
 

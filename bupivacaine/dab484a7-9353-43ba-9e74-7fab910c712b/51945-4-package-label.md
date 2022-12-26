@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 14 mL Vial Carton Kit
 
-ZYNRELEF™ (bupivacaine and meloxicam) extende-release solution
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 400 mg bupivacaine and 12 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
@@ -40,9 +40,9 @@ Vial Contents: 14 mL* Withdraw 14 mL to deliver 13.5 mL
 
 Rx Only
 
-# PRINCIPAL DISPLAY PANEL - 10.5 mL Vial Carton Kit
+# PRINCIPAL DISPLAY PANEL - 10.5 mL Vial Carton kit
 
-ZYNRELEF™ (bupivacaine and meloxicam) extende-release solution
+ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution
 
 300 mg bupivacaine and 9 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
@@ -73,9 +73,9 @@ Each Kit Contains:
 Vial Contents Sterile Vial exterior NOT STERILE
 
 - One sterile vented vial spike
-- One sterile 12 mL Luer Lock syringe
-- One sterile Luer lock applicator
-- One sterile syringe tip cap
+- Two sterile 12 mL Luer Lock syringes
+- Two sterile Luer lock applicators
+- Two sterile syringe tip caps
 - Instructions for Use and Prescribing Information
 
 Vial Contents: 10.5 mL* Withdraw 10.5 mL to deliver 10.2 mL
@@ -84,7 +84,7 @@ Rx Only
 
 # PRINCIPAL DISPLAY PANEL - 7 mL Vial Carton Kit
 
-ZYNRELEF™ (bupivacaine and meloxicam) extende-release solution
+ZYNRELEF® (bupivacaine and meloxicam) extended-release solution
 
 200 mg bupivacaine and 6 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
@@ -126,7 +126,7 @@ Rx Only
 
 # PRINCIPAL DISPLAY PANEL - 2.3 mL Vial Carton Kit
 
-ZYNRELEF™ (bupivacaine and meloxicam) extende-release solution
+ZYNRELEF™ (bupivacaine and meloxicam) extended-release solution
 
 60 mg bupivacaine and 1.8 mg meloxicam Each mL contains 29.25 mg bupivacaine and 0.88 mg meloxicam
 
