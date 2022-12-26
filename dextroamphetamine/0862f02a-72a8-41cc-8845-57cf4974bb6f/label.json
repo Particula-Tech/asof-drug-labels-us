@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA215401"
+  ],
+  "inn": "dextroamphetamine",
+  "labeler": "Noven Therapeutics, LLC",
+  "package_ndcs": [
+    "68968-0205-1",
+    "68968-0205-3",
+    "68968-0210-1",
+    "68968-0210-3",
+    "68968-0215-1",
+    "68968-0215-3",
+    "68968-0220-1",
+    "68968-0220-3"
+  ],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "dextroamphetamine",
+      "name": "XELSTRYM"
+    }
+  ],
+  "setid": "0862f02a-72a8-41cc-8845-57cf4974bb6f",
+  "source": "dailymed"
+}
