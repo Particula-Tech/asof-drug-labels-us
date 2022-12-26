@@ -131,7 +131,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store budesonide delayed-release capsules?
 
 1. • Store budesonide delayed-release capsules at room temperature between 68°F to 77°F (20°C to 25°C).
-2. • Keep budesonide delayed-release capsules in a tightly closed container.
+2. •Keep budesonide delayed-release capsules in a tightly closed container.
 
 Keep budesonide delayed-release capsules and all medicines out of the reach of children.
 

@@ -18,10 +18,10 @@ Advise female patients that budesonide delayed-release capsules may cause fetal 
 
 Administration
 
-1. • Take budesonide delayed-release capsules once daily in the morning.
-2. • Swallow budesonide delayed-release capsules whole.
+1. •Take budesonide delayed-release capsules once daily in the morning.
+2. •Swallow budesonide delayed-release capsules whole.
    Do not chew or crush.
-3. • For patients unable to swallow an intact capsule, budesonide delayed-release capsules can be opened and administered as follows:
+3. •For patients unable to swallow an intact capsule, budesonide delayed-release capsules can be opened and administered as follows:
 4. 1.Place one tablespoonful of applesauce into a clean container (e.g., empty bowl).
    The applesauce used should not be hot and should be soft enough to be swallowed without chewing.
 5. 2.Open the capsule(s).
@@ -31,7 +31,7 @@ Administration
    Do not chew or crush the granules.
    Do not save the applesauce and granules for future use.
 9. 6.Follow the applesauce and granules immediately with a glass (8 ounces) of cool water to ensure complete swallowing of the granules.
-10. • Avoid consumption of grapefruit juice for the duration of their budesonide delayed-release capsules therapy [see Drug Interactions (7.1)].
+10. •Avoid consumption of grapefruit juice for the duration of their budesonide delayed-release capsules therapy [see Drug Interactions (7.1)].
 
 ENTOCORT is a registered trademark of Perrigo Pharma International DAC. © Perrigo Pharma International DAC 2016
 
