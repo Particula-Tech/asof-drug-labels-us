@@ -73,7 +73,7 @@ Figure 1: Kaplan-Meier Curve of PFS in APOLLO
 
 Additional efficacy results from APOLLO are presented in Table 21.
 
-Table 21: Efficacy results from APOLLOBased on intent-to-treat population
+Table 21: Efficacy Results from APOLLOBased on intent-to-treat population
 
 |  | DARZALEX FASPRO-Pd (n=151) | Pd (n=153) |
 | --- | --- | --- |
@@ -176,7 +176,7 @@ The majority (79%) of patients had lambda free light chain disease.
 
 Efficacy results are summarized in Table 24.
 
-Table 24: Efficacy results from ANDROMEDABased on intent-to-treat population
+Table 24: Efficacy Results from ANDROMEDABased on intent-to-treat population
 
 |  | DARZALEX FASPRO-VCd (n=195) | VCd (n=193) |
 | --- | --- | --- |
