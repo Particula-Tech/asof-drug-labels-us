@@ -80,7 +80,7 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 ## Laboratory Tests
 
-In sexually transmitted infections, when coexistent syphilis is suspected, perform dark field examinations e before treatment is started and the blood serology repeated monthly for at least four months.
+In sexually transmitted infections, when coexistent syphilis is suspected, perform dark field examinations before treatment is started and the blood serology repeated monthly for at least four months.
 
 ## Drug Interactions
 
