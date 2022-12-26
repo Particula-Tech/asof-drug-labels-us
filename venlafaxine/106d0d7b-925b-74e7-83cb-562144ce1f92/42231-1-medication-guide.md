@@ -63,14 +63,32 @@ Venlafaxine tablets may:
 Enlarged pupils (mydriasis).
 
 5.
-Anxiety and insomnia.
+Sexual problems (dysfunction).
+Taking serotonin and norepinephrine reuptake inhibitors (SNRIs), including venlafaxine tablets, may cause sexual problems.
+
+Symptoms in males may include:
+
+- Delayed ejaculation or inability to have an ejaculation
+- Decreased sex drive
+- Problems getting or keeping an erection
+
+Symptoms in females may include:
+
+- Decreased sex drive
+- Delayed orgasm or inability to have an orgasm
+
+Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with venlafaxine tablets.
+There may be treatments your healthcare provider can suggest.
 
 6.
+Anxiety and insomnia.
+
+7.
 Changes in appetite or weight.
 
 - children and adolescents should have height and weight monitored during treatment
 
-7.
+8.
 Manic/hypomanic episodes:
 
 - greatly increased energy
@@ -81,7 +99,7 @@ Manic/hypomanic episodes:
 - excessive happiness or irritability
 - talking more or faster than usual
 
-8.
+9.
 Low salt (sodium) levels in the blood.
 
 Elderly people may be at greater risk for this.
@@ -91,18 +109,18 @@ Symptoms may include:
 - weakness or feeling unsteady
 - confusion, problems concentrating or thinking or memory problems
 
-9.
+10.
 Seizures or convulsions.
 
-10.
+11.
 Abnormal bleeding:
 
 Venlafaxine tablets and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal anti-inflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
 
-11.
+12.
 Elevated cholesterol.
 
-12.
+13.
 Lung disease and pneumonia:
 
 Venlafaxine tablets may cause rare lung problems.
@@ -112,7 +130,7 @@ Symptoms include:
 - cough
 - chest discomfort
 
-13.
+14.
 Severe allergic reactions:
 
 - trouble breathing
@@ -308,4 +326,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 1016
+Revised: 0621

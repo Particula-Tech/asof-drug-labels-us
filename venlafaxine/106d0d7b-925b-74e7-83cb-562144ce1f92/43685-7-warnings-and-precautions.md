@@ -103,6 +103,16 @@ For patients who experience a sustained increase in blood pressure while receivi
 
 Mydriasis has been reported in association with venlafaxine; therefore patients with risk of acute narrow-angle glaucoma (angle-closure glaucoma) should be monitored (see PRECAUTIONS, Information for Patients).
 
+## Sexual Dysfunction
+
+Use of SNRIs, including venlafaxine tablets, may cause symptoms of sexual dysfunction (see ADVERSE REACTIONS).
+In male patients, SNRI use may result in ejaculatorydelay or failure, decreased libido, and erectile dysfunction.
+In female patients, SNRI use may result in decreased libido and delayed or absent orgasm.
+
+It is important for prescribers to inquire about sexual function prior to initiation of venlafaxine tablets and to inquire specifically about changes in sexual function during treatment, because sexual function may not be spontaneously reported.
+When evaluating changes in sexual function, obtaining a detailed history (including timing of symptom onset) is important because sexual symptoms may have other causes, including the underlying psychiatric disorder.
+Discuss potential management strategiesto support patients in making informed decisions about treatment.
+
 # PRECAUTIONS
 
 ## General
@@ -286,6 +296,11 @@ Patients should be advised to notify their physician if they are breast-feeding 
 
 Mydriasis (prolonged dilation of the pupils of the eye) has been reported with venlafaxine.
 Patients should be advised to notify their physician if they have a history of glaucoma (see WARNINGS).
+
+### Sexual Dysfunction
+
+Advise patients that use of venlafaxine tablets may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider (see WARNINGS).
 
 ### Concomitant Medication
 

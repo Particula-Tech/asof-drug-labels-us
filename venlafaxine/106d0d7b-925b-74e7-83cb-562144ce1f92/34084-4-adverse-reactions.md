@@ -39,62 +39,69 @@ The prescriber should be aware that these figures cannot be used to predict the 
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence rate in the population studied.
 
-TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4- to 8-Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with venlafaxine hydrochloride are included, and are rounded to the nearest %.
-Events for which the venlafaxine hydrochloride incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea‡.
+TABLE 2 Treatment-Emergent Adverse Experience Incidence in 4- to 8-Week Placebo-Controlled Clinical Trials1
 
-|  |  | (n=1033) | (n=609) |  |
-| --- | --- | --- | --- | --- |
-| Body System | Preferred Term | Venlafaxine Hydrochloride | Placebo |  |
-| Body as a Whole | Headache | 25% | 24% |  |
-|  | Asthenia | 12% | 6% |  |
-|  | Infection | 6% | 5% |  |
-|  | Chills | 3% | — |  |
-|  | Chest pain | 2% | 1% |  |
-|  | Trauma | 2% | 1% |  |
-| Cardiovascular | Vasodilatation | 4% | 3% |  |
-|  | Increased blood pressure/hypertension | 2% | — |  |
-|  | Tachycardia | 2% | — |  |
-|  | Postural hypotension | 1% | — |  |
-| Dermatological | Sweating | 12% | 3% |  |
-|  | Rash | 3% | 2% |  |
-|  | Pruritus | 1% | — |  |
-| Gastrointestinal | Nausea | 37% | 11% |  |
-|  | Constipation | 15% | 7% |  |
-|  | Anorexia | 11% | 2% |  |
-|  | Diarrhea | 8% | 7% |  |
-|  | Vomiting | 6% | 2% |  |
-|  | Dyspepsia | 5% | 4% |  |
-|  | Flatulence | 3% | 2% |  |
-| Metabolic | Weight loss | 1% | — |  |
-| Nervous System | Somnolence | 23% | 9% |  |
-|  | Dry mouth | 22% | 11% |  |
-|  | Dizziness | 19% | 7% |  |
-|  | Insomnia | 18% | 10% |  |
-|  | Nervousness | 13% | 6% |  |
-|  | Anxiety | 6% | 3% |  |
-|  | Tremor | 5% | 1% |  |
-|  | Abnormal dreams | 4% | 3% |  |
-|  | Hypertonia | 3% | 2% |  |
-|  | Paresthesia | 3% | 2% |  |
-|  | Libido decreased | 2% | — |  |
-|  | Agitation | 2% | — |  |
-|  | Confusion | 2% | 1% |  |
-|  | Thinking abnormal | 2% | 1% |  |
-|  | Depersonalization | 1% | — |  |
-|  | Depression | 1% | — |  |
-|  | Urinary retention | 1% | — |  |
-|  | Twitching | 1% | — |  |
-| Respiration | Yawn | 3% | — |  |
-| Special Senses | Blurred vision | 6% | 2% |  |
-|  | Taste perversion | 2% | — |  |
-|  | Tinnitus | 2% | — |  |
-|  | Mydriasis | 2% | — |  |
-| Urogenital System | Abnormal ejaculation/ orgasm | 12%Incidence based on number of male patients. | — |  |
-|  | Impotence | 6% | — |  |
-|  | Urinary frequency | 3% | 2% |  |
-|  | Urination impaired | 2% | — |  |
-|  | Orgasm disturbance | 2%Incidence based on number of female patients. | — |  |
-| — Incidence less than 1%. |  |  |  |  |
+| Body System | Preferred Term | Venlafaxine Hydrochloride | Placebo |
+| --- | --- | --- | --- |
+|  |  | (n=1033) | (n=609) |
+| Body as a Whole | Headache | 25% | 24% |
+|  | Asthenia | 12% | 6% |
+|  | Infection | 6% | 5% |
+|  | Chills | 3% | — |
+|  | Chest pain | 2% | 1% |
+|  | Trauma | 2% | 1% |
+| Cardiovascular | Vasodilatation | 4% | 3% |
+|  | Increased blood pressure/hypertension | 2% | — |
+|  | Tachycardia | 2% | — |
+|  | Postural hypotension | 1% | — |
+| Dermatological | Sweating | 12% | 3% |
+|  | Rash | 3% | 2% |
+|  | Pruritus | 1% | — |
+| Gastrointestinal | Nausea | 37% | 11% |
+|  | Constipation | 15% | 7% |
+|  | Anorexia | 11% | 2% |
+|  | Diarrhea | 8% | 7% |
+|  | Vomiting | 6% | 2% |
+|  | Dyspepsia | 5% | 4% |
+|  | Flatulence | 3% | 2% |
+| Metabolic | Weight loss | 1% | — |
+| Nervous System | Somnolence | 23% | 9% |
+|  | Dry mouth | 22% | 11% |
+|  | Dizziness | 19% | 7% |
+|  | Insomnia | 18% | 10% |
+|  | Nervousness | 13% | 6% |
+|  | Anxiety | 6% | 3% |
+|  | Tremor | 5% | 1% |
+|  | Abnormal dreams | 4% | 3% |
+|  | Hypertonia | 3% | 2% |
+|  | Paresthesia | 3% | 2% |
+|  | Libido decreased | 2% | — |
+|  | Agitation | 2% | — |
+|  | Confusion | 2% | 1% |
+|  | Thinking abnormal | 2% | 1% |
+|  | Depersonalization | 1% | — |
+|  | Depression | 1% | — |
+|  | Urinary retention | 1% | — |
+|  | Twitching | 1% | — |
+| Respiration | Yawn | 3% | — |
+| Special Senses | Blurred vision | 6% | 2% |
+|  | Taste perversion | 2% | — |
+|  | Tinnitus | 2% | — |
+|  | Mydriasis | 2% | — |
+| Urogenital System | Abnormal ejaculation/ orgasm | 12%2 | —2 |
+|  | Impotence | 6%2 | —2 |
+|  | Urinary frequency | 3% | 2% |
+|  | Urination impaired | 2% | — |
+|  | Orgasm disturbance | 2%3 | —3 |
+
+1 Events reported by at least 1% of patients treated with venlafaxine hydrochloride are included, and are rounded to the nearest %.
+Events for which the venlafaxine hydrochloride incidence was equal to or less than placebo are not listed in the table, but included the following: abdominal pain, pain, back pain, flu syndrome, fever, palpitation, increased appetite, myalgia, arthralgia, amnesia, hypesthesia, rhinitis, pharyngitis, sinusitis, cough increased, and dysmenorrhea3.
+
+— Incidence less than 1%.
+
+2 Incidence based on number of male patients.
+
+3 Incidence based on number of female patients.
 
 ### Dose Dependency of Adverse Events
 
@@ -106,7 +113,7 @@ TABLE 3 Treatment-Emergent Adverse Experience Incidence in a Dose Comparison Tri
 
 |  | (n=92) | (n=89) | (n=89) | (n=88) |
 | --- | --- | --- | --- | --- |
-|  |  | Venlafaxine Hydrochloride (mg/day) |  |  |
+|  | Venlafaxine Hydrochloride (mg/day) |  |  |  |
 | Body System/ Preferred Term | Placebo | 75 | 225 | 375 |
 | Body as a Whole |  |  |  |  |
 | Abdominal pain | 3.3% | 3.4% | 2.2% | 8.0% |
