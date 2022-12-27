@@ -1,43 +1,40 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Pre-treatment Screening
 
 Before initiating treatment with lithium, renal function, vital signs, serum electrolytes, and thyroid function should be evaluated.
 Concurrent medications should be assessed, and if the patient is a woman of childbearing potential, pregnancy status and potential should be considered.
 
-## 2.2 Starting Dosage
+## 2.2 Recommended Dosage
 
-Consider medical conditions and drug interactions that would affect lithium dosage and administration [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
-In the absence of medical conditions and concomitant medications that would suggest starting at a lower dose, the recommended starting dose in adults is: • Capsules: 300 mg three times daily Obtain serum lithium concentration assay after 4 days, drawn 12 hours after the last oral dose.
-Adjust daily dosage based on serum lithium concentration and clinical response.
-Fine hand tremor, polyuria and mild thirst may occur during initial therapy for the acute manic phase, and may persist throughout treatment.
-Transient and mild nausea and general discomfort may also appear during the first few days of lithium administration.
-These adverse reactions may subside with continued treatment, concomitant administration with food, temporary reduction or cessation of dosage.
+See Table 1 for dosage recommendations for acute and maintenance treatment of bipolar I disorder in adult and pediatric patients (7 to 17 years).
 
-## 2.3 Dosage for Acute Treatment of Manic Episodes in Bipolar I Disorder
+Obtain serum lithium concentration assay after 3 days, drawn 12 hours after the last oral dose and regularly until patient is stabilized.
+Fine hand tremor, polyuria, and thirst may occur during initial therapy for the acute manic phase and may persist throughout treatment.
+Nausea and general discomfort may also appear during the first few days of lithium administration.
+These adverse reactions may subside with continued treatment, concomitant administration with food, or temporary reduction or cessation of dosage.
 
-Titrate to serum lithium concentrations between 0.8 and 1.2 mEq/L, which may be achieved in adults with: • Capsules: 600 mg, two to three times daily Obtain serum lithium concentrations regularly until the serum concentration and clinical condition of the patient has stabilized [see Dosage and Administration (2.6)].
-Adjust daily dosage based on serum lithium concentration and clinical response.
+Table 1.
+Lithium Dosing for Bipolar I Disorder
 
-## 2.4 Dosage for Maintenance Treatment of Bipolar I Disorder
+| Patient Group | Formulation | Starting Dose | Dose Titration | Acute Goal |  | Maintenance Goal |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Serum Level | Usual Dose | Serum Level | Usual Dose |  |  |  |  |
+| Adult and Pediatric Patients over 30 kg | Capsules | 300 mg three times daily | 300 mg every 3 days | 0.8 to 1.2 mEq/L | 600 mg two to three times daily | 0.8 to 1.0 mEq/L | 300 to 600 mg two to three times daily |
+| Pediatric Patients 20 to 30 kg | Capsules | 300 mg twice daily | 300 mg weekly | 600 to 1500 mg in divided doses daily | 600 to 1200 mg in divided doses daily |  |  |
 
-Titrate to serum lithium concentrations between 0.8 and 1 mEq/L, which may be achieved in adults with: • Capsules: 300 mg to 600 mg, two to three times daily Monitor the patient's clinical state and serum lithium concentrations regularly [see Dosage and Administration (2.6)].
-Adjust daily dosage based on serum lithium concentration and clinical response.
-
-## 2.5 Dosage Recommendations in Pediatric Patients 12 to 17 Years of Age
-
-Dosage recommendations for lithium in patients 12 years and older are similar to that of adults [see Use in Specific Populations (8.4)].
-
-## 2.6 Serum Lithium Monitoring
+## 2.3 Serum Lithium Monitoring
 
 Blood samples for serum lithium determination should be drawn immediately prior to the next dose when lithium concentrations are relatively stable (i.e., 12 hours after the previous dose).
 Total reliance must not be placed on serum concentrations alone.
 Accurate patient evaluation requires both clinical and laboratory analysis.
-In addition to regular monitoring of serum lithium concentrations for patients on maintenance treatment, serum lithium concentrations should be monitored after any change in dosage, concurrent medication (e.g., diuretics, non-steroidal anti-inflammatory drugs, renin-angiotensin system antagonists, or metronidazole), marked increase or decrease in routinely performed strenuous physical activity (such as an exercise program) and in the event of a concomitant disease [See Boxed Warning, Warnings and Precautions (5.1), Drug Interactions (7.1)].
-Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are within what is considered the therapeutic range.
-Geriatric patients often respond to reduced dosage, and may exhibit signs of toxicity at serum concentrations ordinarily tolerated by other patients [see Use in Specific Populations (8.5)].
 
-## 2.7 Dosage Adjustments during Pregnancy and the Postpartum Period
+In addition to regular monitoring of serum lithium concentrations for patients on maintenance treatment, serum lithium concentrations should be monitored after any change in dosage, concurrent medication (e.g., diuretics, non-steroidal anti-inflammatory drugs, renin-angiotensin system antagonists, or metronidazole), marked increase or decrease in routinely performed strenuous physical activity (such as an exercise program) and in the event of a concomitant disease [See BoxedWarning, Warnings and Precautions (5.1), Drug Interactions (7.1)].
+
+Patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are within what is considered the therapeutic range.
+Geriatric patients often respond to reduced dosage, and may exhibit signs of toxicity at serum concentrations ordinarily tolerated by other patients [see Specific Populations (8.5)].
+
+## 2.4 DosageAdjustments during Pregnancy and the Postpartum Period
 
 If the decision is made to continue lithium treatment during pregnancy, monitor serum lithium concentrations and adjust the dosage as needed in a pregnant woman because renal lithium clearance increases during pregnancy.
 Avoid sodium restriction or diuretic administration.
@@ -45,8 +42,8 @@ To decrease the risk of postpartum lithium intoxication, decrease or discontinue
 At delivery, vascular volume rapidly decreases and the renal clearance of lithium may decrease to pre-pregnancy concentrations.
 Restart treatment at the preconception dose when the patient is medically stable after delivery with careful monitoring of serum lithium concentrations [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
-## 2.8 Dosage Adjustments for Patients with Renal Impairment
+## 2.5 Dosage Adjustments for Patients with Renal Impairment
 
-Start patients with mild to moderately impaired renal function (creatinine clearance 30 to 89 mL/min evaluated by Cockcroft-Gault) with dosages less than those for patients with normal renal function [see Dosage and Administration (2.2)].
+Start patients with mild to moderately impaired renal function (creatinine clearance 30 to 89 mL/min evaluated by Cockcroft-Gault) with dosages less than those for patients with normal renal function [see Dosage and Administration(2.2)].
 Titrate slowly while frequently monitoring serum lithium concentrations and monitoring for signs of lithium toxicity.
 Lithium is not recommended for use in patients with severe renal impairment (creatinine clearance less than 30 mL/min evaluated by Cockcroft-Gault) [see Use in Specific Populations (8.6)].

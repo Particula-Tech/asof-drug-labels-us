@@ -1,3 +1,5 @@
-# 1 INDICATIONS & USAGE
+# 1 INDICATIONS AND USAGE
 
-Lithium is a mood-stabilizing agent indicated for the treatment of manic episodes and as maintenance treatment for Bipolar I Disorder.
+Lithium is a mood-stabilizing agent indicated as monotherapy for the treatment of bipolar I disorder:
+
+• Treatment of acute manic and mixed episodes in patients 7 years and older [see Clinical Studies (14)] • Maintenance treatment in patients 7 years and older [see Clinical Studies (14)]

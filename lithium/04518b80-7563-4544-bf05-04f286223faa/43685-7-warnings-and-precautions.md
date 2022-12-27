@@ -1,28 +1,31 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Acute Lithium Toxicity
+## 5.1 Lithium Toxicity
 
 The toxic concentrations for lithium (≥1.5 mEq/L) are close to the therapeutic range (0.8 to 1.2mEq/L).
-Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range [see Boxed Warning, Dosage and Administration (2.6)].
+Some patients abnormally sensitive to lithium may exhibit toxic signs at serum concentrations that are considered within the therapeutic range [see Boxed Warning, Dosage and Administration (2.3)].
 Lithium may take up to 24 hours to distribute into brain tissue, so occurrence of acute toxicity symptoms may be delayed.
-Diarrhea, vomiting, drowsiness, muscular weakness and lack of coordination may be early signs of lithium toxicity, and can occur at lithium concentrations below 2.0 mEq/L.
-At higher concentrations, giddiness, ataxia, blurred vision, tinnitus and a large output of dilute urine may be seen.
-Serum lithium concentrations above 3.0 mEq/L may produce a complex clinical picture involving multiple organs and organ systems, coma, and eventually death.
-Serum lithium concentrations should not be permitted to exceed 2.0 mEq/L.
-Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, and weakness; to moderate manifestations like apathy, drowsiness, hyperreflexia, muscle twitching, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma and death.
+
+Neurological signs of lithium toxicity range from mild neurological adverse reactions such as fine tremor, lightheadedness, lack of coordination, and weakness; to moderate manifestations like giddiness, apathy, drowsiness, hyperreflexia, muscle twitching, ataxia, blurred vision, tinnitus, and slurred speech; and severe manifestations such as clonus, confusion, seizure, coma, and death.
+In rare cases, neurological sequelae may persist despite discontinuing lithium treatment and may be associated with cerebellar atrophy.
 Cardiac manifestations involve electrocardiographic changes, such as prolonged QT interval, ST and T-wave changes and myocarditis.
 Renal manifestations include urine concentrating defect, nephrogenic diabetes insipidus, and renal failure.
 Respiratory manifestations include dyspnea, aspiration pneumonia, and respiratory failure.
-Gastrointestinal manifestations include nausea, vomiting, and bloating.
-No specific antidote for lithium poisoning is known.
-Early symptoms of lithium toxicity can usually be treated by reduction or cessation of lithium, before restarting treatment at a lower dose 24 to 48 hours later [See Overdosage (10)].
-The risk of acute toxicity is increased with a recent onset of concurrent illness or with the concomitant administration of drugs which increase lithium serum concentrations by pharmacokinetic interactions [see Drug Interactions (7)].
-Additional risk factors for acute lithium toxicity include acute ingestion, age-related decline in renal function, volume depletion and/or changes in electrolyte concentrations, especially sodium and potassium.
-Dose requirements during the acute manic phase are higher to maintain therapeutic serum concentrations and decrease when manic symptoms subside.
-The risk of lithium toxicity is very high in patients with significant renal or cardiovascular disease, severe debilitation or dehydration, or sodium depletion, and for patients receiving prescribed medications that may affect kidney function, such as angiotensin converting enzyme inhibitors (ACE inhibitors), diuretics (loops and thiazides) and NSAIDs.
-For these patients, consider starting with lower doses and titrating slowly while frequently monitoring serum lithium concentrations and signs of lithium toxicity.
-To reduce the risk of acute lithium toxicity during treatment initiation, facilities for prompt and accurate serum lithium determinations should be available before initiating treatment [see Boxed Warning, Dosage and Administration (2.6)].
-Advise patients and caregivers to watch for signs of early toxicity and to discontinue lithium and immediately inform their health care provider if they occur.
+Gastrointestinal manifestations include nausea, vomiting, diarrhea, and bloating.
+No specific antidote for lithium poisoning is known [see Overdosage (10)].
+
+The risk of lithium toxicity is increased by:
+
+- Recent onset of concurrent febrile illness
+- Concomitant administration of drugs which increase lithium serum concentrations by pharmacokinetic interactions or drugs affecting kidney function [see Drug Interactions (7)].
+- Acute ingestion
+- Impaired renal function
+- Volume depletion or dehydration
+- Significant cardiovascular disease
+- Changes in electrolyte concentrations (especially sodium and potassium)
+
+Monitor for signs and symptoms of lithium toxicity.
+If symptoms occur, decrease dosage or discontinue lithium treatment.
 
 ## 5.2 Lithium-Induced Polyuria
 
@@ -36,14 +39,14 @@ Amiloride may be considered as a therapeutic agent for lithium-induced nephrogen
 ## 5.3 Hyponatremia
 
 Lithium can cause hyponatremia by decreasing sodium reabsorption by the renal tubules, leading to sodium depletion.
-Therefore, it is essential for patients receiving lithium treatment to maintain a normal diet, including salt, and an adequate fluid intake (2500 to 3000 mL) at least during the initial stabilization period.
+Therefore, it is essential for patients receiving lithium treatment to maintain a normal diet, including salt, and an adequate fluid intake (2,500 to 3,000 mL) at least during the initial stabilization period.
 Decreased tolerance to lithium has also been reported to ensue from protracted sweating or diarrhea and, if such occur, supplemental fluid and salt should be administered under careful medical supervision and lithium intake reduced or suspended until the condition is resolved.
 In addition, concomitant infection with elevated temperatures may also necessitate a temporary reduction or cessation of medication.
 Symptoms are also more severe with faster-onset hyponatremia.
 Mild hyponatremia (i.e., serum Na > 120 mEq/L) can be asymptomatic.
 Below this threshold, clinical signs are usually present, consisting mainly of changes in mental status, such as altered personality, lethargy, and confusion.
 For more severe hyponatremia (serum Na < 115 mEq/L), stupor, neuromuscular hyperexcitability, hyperreflexia, seizures, coma, and death can result.
-During treatment of hyponatremia, serum sodium should not be elevated by more than 10 to 12 meq/L in 24 hours or 18 meq/L in 48 hours.
+During treatment of hyponatremia, serum sodium should not be elevated by more than 10 to 12 mEq/L in 24 hours, or 18 mEq/L in 48 hours.
 In the case of severe hyponatremia where severe neurologic symptoms are present, a faster infusion rate to correct serum sodium concentration may be needed.
 Patients rapidly treated or with serum sodium <120mEq/L are more at risk of developing osmotic demyelination syndrome (previously called central pontine myelinolysis).
 Occurrence is more common among patients with alcoholism, undernutrition, or other chronic debilitating illness.
@@ -63,7 +66,7 @@ The biopsy findings in patients with nephrotic syndrome include minimal change d
 The discontinuation of lithium in patients with nephrotic syndrome has resulted in remission of nephrotic syndrome.
 Kidney function should be assessed prior to and during lithium treatment.
 Routine urinalysis and other tests may be used to evaluate tubular function (e.g., urine specific gravity or osmolality following a period of water deprivation, or 24-hour urine volume) and glomerular function (e.g., serum creatinine, creatinine clearance, or proteinuria).
-During lithium treatment, progressive or sudden changes in renal function, even within the normal range, indicate the need for revaluation of treatment.
+During lithium treatment, progressive or sudden changes in renal function, even within the normal range, indicate the need for re-valuation of treatment.
 
 ## 5.5 Encephalopathic Syndrome
 
