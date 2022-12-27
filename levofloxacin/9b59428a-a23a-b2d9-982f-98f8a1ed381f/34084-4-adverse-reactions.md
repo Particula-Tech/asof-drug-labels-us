@@ -55,36 +55,77 @@ The most common adverse drug reactions (≥3%) are nausea, headache, diarrhea, i
 
 Table 4: Common (≥1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin#
 
-| System/Organ Class | Adverse Reaction | % (N=7537) |
+| System/Organ Class | AdverseReaction | % (N=7537) |
 | --- | --- | --- |
-| Infections and Infestations | moniliasis | 1 |
+| Infections andInfestations | moniliasis | 1 |
 | Psychiatric Disorders | insomnia* [see Warnings and Precautions (5.4)] | 4 |
-| Nervous System Disorders | headachedizziness [see Warnings and Precautions (5.4)] | 63 |
-| Respiratory, Thoracic andMediastinal Disorders | dyspnea [see Warnings and Precautions (5.7)]. | 1 |
-| Gastrointestinal Disorders | nauseadiarrhea constipation abdominal pain vomiting dyspepsia | 753222 |
-| Skin and SubcutaneousTissue Disorders | rash [see Warnings and Precautions (5.7)] pruritus | 2 1 |
-| Reproductive System andBreast Disorders | Vaginitis | 1† |
-| General Disorders andAdministration SiteConditions | edemainjection site reaction chest pain | 111 |
-| * N = 7274 † N=3758 (women)# pool of studies included IV and oral administration |  |  |
+| NervousSystem Disorders | headache | 6 |
+|  | dizziness [see Warningsand Precautions (5.4)] | 3 |
+| Respiratory, Thoracic and Mediastinal Disorders | dyspnea [see Warningsand Precautions (5.7)] | 1 |
+| Gastrointestinal Disorders | nausea | 7 |
+|  | diarrhea | 5 |
+|  | constipation | 3 |
+|  | abdominal pain | 2 |
+|  | vomiting | 2 |
+|  | dyspepsia | 2 |
+| Skinand Subcutaneous Tissue Disorders | rash [see Warningsand Precautions (5.7)] | 2 |
+|  | pruritus | 1 |
+| ReproductiveSystem and Breast Disorders | Vaginitis | 1† |
+| GeneralDisorders and Administration SiteConditions | edema | 1 |
+|  | injection site reaction | 1 |
+|  | chest pain | 1 |
 
 Table 5: Less Common (0.1 to 1%) Adverse Reactions Reported in Clinical Trials with Levofloxacin (N=7537)
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
-| Infections and Infestations | genital moniliasis |
-| Blood and Lymphatic SystemDisorders | anemiathrombocytopenia granulocytopenia[see Warnings and Precautions (5.6)] |
-| Immune System Disorders | allergic reaction [see Warnings and Precautions (5.6, 5.7)] |
-| Metabolism and NutritionDisorders | hyperglycemiahypoglycemia[see Warnings and Precautions (5.13)]hyperkalemia |
-| Psychiatric Disorders | anxietyagitation confusion depression hallucination nightmare*[see Warnings and Precautions (5.4)]sleep disorder*anorexiaabnormal dreaming* |
-| Nervous System Disorders | tremorconvulsions[see Warnings and Precautions (5.4)]paresthesia [see Warnings and Precautions (5.3)]vertigo hypertonia hyperkinesiasabnormal gait somnolence*syncope |
-| Respiratory, Thoracic andMediastinal Disorders | epistaxis |
-| Cardiac Disorders | cardiac arrestpalpitationventricular tachycardia ventricular arrhythmia |
+| Infections andInfestations | genital moniliasis |
+| Bloodand Lymphatic System Disorders | anemia |
+|  | thrombocytopenia |
+|  | Granulocytopenia [see Warnings andPrecautions (5.6)] |
+| ImmuneSystem Disorders | allergic reaction [see Warnings and Precautions (5.6, 5.7)] |
+| Metabolismand Nutrition Disorders | hyperglycemia |
+|  | hypoglycemia [see Warnings and Precautions(5.13)] |
+|  | hyperkalemia |
+| Psychiatric Disorders | anxiety |
+|  | agitation confusion |
+|  | depression |
+|  | hallucination |
+|  | nightmare* [see Warnings and Precautions (5.4)] |
+|  | sleep disorder* |
+|  | anorexia |
+|  | abnormal dreaming* |
+| NervousSystem Disorders | tremor |
+|  | convulsions [see Warnings andPrecautions (5.4)] |
+|  | paresthesia [see Warnings and Precautions (5.3)] |
+|  | vertigo hypertonia |
+|  | hyperkinesias |
+|  | abnormal gait |
+|  | somnolence* |
+|  | syncope |
+| Respiratory, Thoracic and Mediastinal Disorders | epistaxis |
+| Cardiac Disorders | cardiac arrest |
+|  | palpitation |
+|  | ventricular tachycardia |
+|  | ventricular arrhythmia |
 | Vascular Disorders | phlebitis |
-| Gastrointestinal Disorders | gastritisstomatitis pancreatitis esophagitisgastroenteritisglossitispseudomembranous/ C. difficile colitis [see Warnings and Precautions (5.10)] |
-| Hepatobiliary Disorders | abnormal hepatic functionincreased hepatic enzymes increased alkaline phosphatase |
-| Skin and Subcutaneous TissueDisorders | urticaria [see Warnings and Precautions (5.7)] |
-| Musculoskeletal and ConnectiveTissue Disorders | arthralgiatendinitis[see Warnings and Precautions (5.2)]myalgia skeletal pain |
-| Renal and Urinary Disorders | abnormal renal functionacute renal failure [see Warnings and Precautions (5.6)] |
+| Gastrointestinal Disorders | gastritis |
+|  | stomatitis |
+|  | pancreatitis |
+|  | esophagitis |
+|  | gastroenteritis |
+|  | glossitis |
+|  | pseudomembranous/ C. difficile colitis [see Warnings andPrecautions (5.10)] |
+| Hepatobiliary Disorders | abnormal hepatic function |
+|  | increased hepatic enzymes |
+|  | increased alkaline phosphatase |
+| Skinand Subcutaneous Tissue Disorders | urticaria [see Warnings and Precautions (5.7)] |
+| Musculoskeletal and Connective Tissue Disorders | arthralgia |
+|  | tendinitis [see Warnings andPrecautions (5.2)] |
+|  | myalgia |
+|  | skeletal pain |
+| Renal and Urinary Disorders | abnormal renal function |
+|  | acute renal failure [see Warnings and Precautions (5.6)] |
 
 * N=7274
 
@@ -100,18 +141,62 @@ Table 6: Postmarketing Reports Of Adverse Drug Reactions
 
 | System/Organ Class | Adverse Reaction |
 | --- | --- |
-| Blood and Lymphatic System Disorders | pancytopenia aplastic anemia leukopenia hemolytic anemia [see Warnings and Precautions (5.6)] eosinophilia |
-| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: anaphylactic/anaphylactoid reactions anaphylactic shock angioneurotic edema serum sickness [see Warnings and Precautions (5.6, 5.7)] |
-| Psychiatric Disorders | psychosis paranoia isolated reports of suicidal ideation, suicide attempt and completed suicide [see Warnings and Precautions (5.4)] |
-| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.5)] anosmia ageusia parosmia dysgeusia peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.3)] isolated reports of encephalopathy abnormal electroencephalogram (EEG) dysphonia pseudotumor cerebri [see Warnings and Precautions (5.4)] |
-| Eye Disorders | uveitis vision disturbance, including diplopia visual acuity reduced vision blurred scotoma |
-| Ear and Labyrinth Disorders | hypoacusis tinnitus |
-| Cardiac Disorders | isolated reports of torsade de pointes electrocardiogram QT prolonged [see Warnings and Precautions (5.11)] tachycardia |
+| Blood and Lymphatic System Disorders | pancytopenia |
+|  | aplastic anemia |
+|  | leukopenia |
+|  | hemolytic anemia |
+|  | [see Warnings and Precautions (5.6)] |
+|  | eosinophilia |
+| Immune System Disorders | hypersensitivity reactions, sometimes fatal including: |
+|  | anaphylactic/anaphylactoid reactions |
+|  | anaphylactic shock |
+|  | angioneurotic edema |
+|  | serum sickness |
+|  | [see Warnings and Precautions (5.6, 5.7)] |
+| Psychiatric Disorders | psychosis |
+|  | paranoia |
+|  | isolated reports of suicidal ideation, suicide attempt and completed suicide |
+|  | [see Warnings and Precautions (5.4)] |
+| Nervous System Disorders | exacerbation of myasthenia gravis [see Warnings and Precautions (5.5)] |
+|  | anosmia |
+|  | ageusia |
+|  | parosmia |
+|  | dysgeusia |
+|  | peripheral neuropathy (may be irreversible) [see Warnings and Precautions (5.3)] |
+|  | isolated reports of encephalopathy |
+|  | abnormal electroencephalogram (EEG) |
+|  | dysphoniapseudotumor cerebri [see Warnings and Precautions (5.4)] |
+| Eye Disorders | uveitis |
+|  | vision disturbance, including diplopia |
+|  | visual acuity reduced |
+|  | vision blurred |
+|  | scotoma |
+| Ear and Labyrinth Disorders | hypoacusis |
+|  | tinnitus |
+| Cardiac Disorders | isolated reports of torsade de pointes |
+|  | electrocardiogram QT prolonged |
+|  | [see Warnings and Precautions (5.11)] |
+|  | tachycardia |
 | Vascular Disorders | vasodilatation |
-| Respiratory, Thoracic andMediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings and Precautions (5.6)] |
-| Hepatobiliary Disorders | hepatic failure (including fatal cases) hepatitis jaundice [see Warnings and Precautions (5.6), (5.8)] |
-| Skin and Subcutaneous TissueDisorders | bullous eruptions to include: Stevens-Johnson Syndrome toxic epidermal necrolysis Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions erythema multiforme [see Warnings and Precautions (5.6)]] photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.14)] leukocytoclastic vasculitis |
-| Musculoskeletal and ConnectiveTissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] muscle injury, including rupture rhabdomyolysis |
+| Respiratory, Thoracic andMediastinal Disorders | isolated reports of allergic pneumonitis [see Warnings andPrecautions (5.6)] |
+| Hepatobiliary Disorders | hepatic failure (including fatal cases) |
+|  | hepatitis |
+|  | jaundice |
+|  | [see Warnings and Precautions (5.6), (5.8)] |
+| Skin and Subcutaneous TissueDisorders | bullous eruptions to include: |
+|  | Stevens-Johnson Syndrome |
+|  | toxic epidermal necrolysis |
+|  | Acute Generalized Exanthematous Pustulosis (AGEP) fixed drug eruptions |
+|  | erythema multiforme |
+|  | [see Warnings and Precautions (5.6)] |
+|  | photosensitivity/phototoxicity reaction [see Warnings and Precautions (5.14)] |
+|  | leukocytoclastic vasculitis |
+| Musculoskeletal and ConnectiveTissue Disorders | tendon rupture [see Warnings and Precautions (5.2)] |
+|  | muscle injury, including rupture |
+|  | rhabdomyolysis |
 | Renal and Urinary Disorders | interstitial nephritis [see Warnings and Precautions (5.6)] |
-| General Disorders andAdministration Site Conditions | multi-organ failure pyrexia |
-| Investigations | prothrombin time prolonged international normalized ratio prolonged muscle enzymes increased |
+| General Disorders andAdministration Site Conditions | multi-organ failure |
+|  | pyrexia |
+| Investigations | prothrombin time prolonged |
+|  | international normalized ratio prolonged |
+|  | muscle enzymes increased |
