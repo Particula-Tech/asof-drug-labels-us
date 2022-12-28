@@ -7,7 +7,7 @@ PRECEDEX contains dexmedetomidine hydrochloride as the active pharmaceutical ing
 Dexmedetomidine hydrochloride is a central alpha2-adrenergic agonist.
 Dexmedetomidine hydrochloride is the S-enantiomer of medetomidine.
 Dexmedetomidine hydrochloride chemical name is 1H-Imidazole, 4-[1-(2,3-dimethylphenyl)ethyl]-, monohydrochloride, (S).
-Dexmedetomidine hydrochloride has a molecular weight of 236.7 and the empirical formula is C13H16N2 ∙ HCl and the structural formula is:
+Dexmedetomidine hydrochloride has a molecular weight of 236.7 and the empirical formula is C13H16N2•HCl and the structural formula is:
 
 Dexmedetomidine hydrochloride is a white or almost white powder that is freely soluble in water and has a pKa of 7.1.
 Its partition coefficient in-octanol: water at pH 7.4 is 2.89.

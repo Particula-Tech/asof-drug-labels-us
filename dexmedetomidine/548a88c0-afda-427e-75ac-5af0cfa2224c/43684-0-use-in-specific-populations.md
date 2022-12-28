@@ -50,10 +50,20 @@ The relative infant dose was estimated to range from 0.02 to 0.098%.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy have not been established for Procedural or ICU Sedation in pediatric patients.
+Sedation for Non-Invasive Procedures
+
+The safety and efficacy of PRECEDEX have been established in pediatric patients 1 month to less than 18 years of age for sedation during non-invasive procedures.
+Use in this age group is based on one randomized double-blind, dose-ranging safety and efficacy trial in non-intubated pediatric patients 1 month to less than 17 years of age who required sedation prior to undergoing MRI scans [see Clinical Studies (14.2)].
+An increase in frequency of bradypnea, bradycardia, hypertension and hypotension was observed in pediatric patients treated with PRECEDEX [see Adverse Reactions (6.1)].
+The overall safety profile of PRECEDEX in pediatric patients was consistent with the known safety profile in adults [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of PRECEDEX have not been established in pediatric patients less than 1 month of age.
+
+ICU Sedation
+
+The safety and efficacy of PRECEDEX have not been established in pediatric patients for ICU sedation.
 One assessor-blinded trial in pediatric patients and two open label studies in neonates were conducted to assess efficacy for ICU sedation.
-These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of PRECEDEX for this patient population.
-The use of PRECEDEX for procedural sedation in pediatric patients has not been evaluated.
+These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of PRECEDEX for these patient populations.
 
 ## 8.5 Geriatric Use
 
