@@ -13,4 +13,4 @@ Oxybutynin chloride showed no increase of mutagenic activity when tested in Schi
 
 Impairment of Fertility
 
-No impairment of fertility was seen in rats at dosages up to 75 mg/kg/day (24 times the MRHD on a mg/m2 basis) when administered for 2 weeks prior to mating in females and for 9 weeks prior to mating in males.
+No impairment of fertility was seen in rats at dosages up to 75 mg/kg/day (24 times the MRHD on a mg/m 2 basis) when administered for 2 weeks prior to mating in females and for 9 weeks prior to mating in males.

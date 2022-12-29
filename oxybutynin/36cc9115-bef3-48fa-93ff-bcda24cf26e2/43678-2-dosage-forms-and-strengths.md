@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-DITROPAN XL® extended-release tablets are available as 5 and 10 mg tablets for oral use:
+DITROPAN XL ® extended-release tablets are available as 5 and 10 mg tablets for oral use:
 
 5 mg: Pale yellow, round, tablet with "5 XL" printed on one side with black ink.
 

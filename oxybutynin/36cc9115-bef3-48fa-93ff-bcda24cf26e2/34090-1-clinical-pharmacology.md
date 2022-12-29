@@ -17,42 +17,42 @@ In patients with conditions characterized by involuntary bladder contractions, c
 
 Absorption
 
-Following the first dose of DITROPAN XL®, oxybutynin plasma concentrations rise for 4 to 6 hours; thereafter steady concentrations are maintained for up to 24 hours, minimizing fluctuations between peak and trough concentrations associated with oxybutynin.
+Following the first dose of DITROPAN XL ®, oxybutynin plasma concentrations rise for 4 to 6 hours; thereafter steady concentrations are maintained for up to 24 hours, minimizing fluctuations between peak and trough concentrations associated with oxybutynin.
 
-The relative bioavailabilities of R- and S-oxybutynin from DITROPAN XL® are 156% and 187%, respectively, compared with oxybutynin.
+The relative bioavailabilities of R- and S-oxybutynin from DITROPAN XL ® are 156% and 187%, respectively, compared with oxybutynin.
 The mean pharmacokinetic parameters for R- and S-oxybutynin are summarized in Table 2.
 The plasma concentration-time profiles for R- and S-oxybutynin are similar in shape; Figure 1 shows the profile for R-oxybutynin.
 
-Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of DITROPAN XL® 10 mg (n=43)
+Table 2: Mean (SD) R- and S-Oxybutynin Pharmacokinetic Parameters Following a Single Dose of DITROPAN XL ® 10 mg (n=43)
 
 | Parameters (units) | R-Oxybutynin |  | S-Oxybutynin |  |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
-| Tmax (h) | 12.7 | (5.4) | 11.8 | (5.3) |
-| t1/2 (h) | 13.2 | (6.2) | 12.4 | (6.1) |
-| AUC(0–48) (ng∙h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
-| AUCinf (ng∙h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
+| C max (ng/mL) | 1.0 | (0.6) | 1.8 | (1.0) |
+| T max (h) | 12.7 | (5.4) | 11.8 | (5.3) |
+| t 1/2 (h) | 13.2 | (6.2) | 12.4 | (6.1) |
+| AUC (0–48) (ng∙h/mL) | 18.4 | (10.3) | 34.2 | (16.9) |
+| AUC inf (ng∙h/mL) | 21.3 | (12.2) | 39.5 | (21.2) |
 
-Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of DITROPAN XL® 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment).
+Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of DITROPAN XL ® 10 mg and oxybutynin 5 mg administered every 8 hours (n=23 for each treatment).
 
-Steady state oxybutynin plasma concentrations are achieved by Day 3 of repeated DITROPAN XL® dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters.
+Steady state oxybutynin plasma concentrations are achieved by Day 3 of repeated DITROPAN XL ® dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters.
 
-DITROPAN XL® steady state pharmacokinetics were studied in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
-The children were on DITROPAN XL® total daily dose ranging from 5 to 20 mg (0.10 to 0.77 mg/kg).
+DITROPAN XL ® steady state pharmacokinetics were studied in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
+The children were on DITROPAN XL ® total daily dose ranging from 5 to 20 mg (0.10 to 0.77 mg/kg).
 Sparse sampling technique was used to obtain serum samples.
-When all available data are normalized to an equivalent of 5 mg per day of DITROPAN XL®, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3.
+When all available data are normalized to an equivalent of 5 mg per day of DITROPAN XL ®, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg per day.
 
-Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5–15 Following Administration of 5 to 20 mg DITROPAN XL® Once Daily (n=19), All Available Data Normalized to an Equivalent of DITROPAN XL® 5 mg Once Daily
+Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5–15 Following Administration of 5 to 20 mg DITROPAN XL ® Once Daily (n=19), All Available Data Normalized to an Equivalent of DITROPAN XL ® 5 mg Once Daily
 
 |  | R-Oxybutynin | S-Oxybutynin | R- Desethyloxybutynin | S- Desethyloxybutynin |
 | --- | --- | --- | --- | --- |
-| Cmax (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
-| Tmax (h) | 5.0 | 5.0 | 5.0 | 5.0 |
+| C max (ng/mL) | 0.7 ± 0.4 | 1.3 ± 0.8 | 7.8 ± 3.7 | 4.2 ± 2.3 |
+| T max (h) | 5.0 | 5.0 | 5.0 | 5.0 |
 | AUC (ng∙h/mL) | 12.8 ± 7.0 | 23.7 ± 14.4 | 125.1 ± 66.7 | 73.6 ± 47.7 |
 
-Figure 2: Mean steady state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg DITROPAN XL® once daily in children aged 5–15.
-Plot represents all available data normalized to an equivalent of DITROPAN XL® 5 mg once daily.
+Figure 2: Mean steady state (± SD) R-oxybutynin plasma concentrations following administration of 5 to 20 mg DITROPAN XL ® once daily in children aged 5–15.
+Plot represents all available data normalized to an equivalent of DITROPAN XL ® 5 mg once daily.
 
 Food Effects
 
@@ -70,7 +70,7 @@ Metabolism
 
 Oxybutynin is metabolized primarily by the cytochrome P450 enzyme systems, particularly CYP3A4 found mostly in the liver and gut wall.
 Its metabolic products include phenylcyclohexylglycolic acid, which is pharmacologically inactive, and desethyloxybutynin, which is pharmacologically active.
-Following DITROPAN XL® administration, plasma concentrations of R- and S-desethyloxybutynin are 73% and 92%, respectively, of concentrations observed with oxybutynin.
+Following DITROPAN XL ® administration, plasma concentrations of R- and S-desethyloxybutynin are 73% and 92%, respectively, of concentrations observed with oxybutynin.
 
 Excretion
 
@@ -79,19 +79,19 @@ Also, less than 0.1% of the administered dose is excreted as the metabolite dese
 
 Dose Proportionality
 
-Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (Cmax and AUC) following administration of 5–20 mg of DITROPAN XL® are dose proportional.
+Pharmacokinetic parameters of oxybutynin and desethyloxybutynin (C max and AUC) following administration of 5–20 mg of DITROPAN XL ® are dose proportional.
 
 Use in Specific Populations
 
 Pediatric
 
-The pharmacokinetics of DITROPAN XL® were evaluated in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
-The pharmacokinetics of DITROPAN XL® in these pediatric patients were consistent with those reported for adults (see Tables 2 and 3, and Figures 1 and 2 above).
+The pharmacokinetics of DITROPAN XL ® were evaluated in 19 children aged 5–15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
+The pharmacokinetics of DITROPAN XL ® in these pediatric patients were consistent with those reported for adults (see Tables 2 and 3, and Figures 1 and 2 above).
 
 Gender
 
-There are no significant differences in the pharmacokinetics of oxybutynin in healthy male and female volunteers following administration of DITROPAN XL®.
+There are no significant differences in the pharmacokinetics of oxybutynin in healthy male and female volunteers following administration of DITROPAN XL ®.
 
 Race
 
-Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on race in healthy volunteers following administration of DITROPAN XL®.
+Available data suggest that there are no significant differences in the pharmacokinetics of oxybutynin based on race in healthy volunteers following administration of DITROPAN XL ®.

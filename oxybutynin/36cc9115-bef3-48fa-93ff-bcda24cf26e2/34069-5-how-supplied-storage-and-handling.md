@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-DITROPAN XL® extended-release tablets are available in two dosage strengths, 5 mg (pale yellow) and 10 mg (pink) and are imprinted on one side with "5 XL" or "10 XL" with black ink.
-DITROPAN XL® extended-release tablets are supplied in bottles of 100 tablets.
+DITROPAN XL ® extended-release tablets are available in two dosage strengths, 5 mg (pale yellow) and 10 mg (pink) and are imprinted on one side with "5 XL" or "10 XL" with black ink.
+DITROPAN XL ® extended-release tablets are supplied in bottles of 100 tablets.
 
 | 5 mg | 100 count bottle | NDC 50458-805-01 |
 | --- | --- | --- |

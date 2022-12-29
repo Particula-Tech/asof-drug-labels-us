@@ -2,7 +2,7 @@
 
 NDC 50458-805-01
 
-DITROPAN XL® (oxybutynin chloride) Extended-release tablets
+DITROPAN XL ® (oxybutynin chloride) Extended-release tablets
 
 5 mg
 
@@ -16,7 +16,7 @@ Rx only
 
 NDC 50458-810-01
 
-DITROPAN XL® (oxybutynin chloride) Extended-release tablets
+DITROPAN XL ® (oxybutynin chloride) Extended-release tablets
 
 10 mg
 
