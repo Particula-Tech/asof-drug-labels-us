@@ -48,7 +48,7 @@ In patients with mild to moderate disease, the initial dose is usually 1 tablet 
 In patients with mild to moderate disease, the initial recommended dose is 1 tablet of 50 mg/200 mg carbidopa and levodopa extended-release tablets b.i.d.
 Initial dosage should not be given at intervals of less than 6 hours.
 
-### Titration with Carbidopa and Levodopa Extended-ReleaseTablets
+### Titration with Carbidopa and Levodopa Extended-Release Tablets
 
 Following initiation of therapy, doses and dosing intervals may be increased or decreased depending upon therapeutic response.
 Most patients have been adequately treated with doses of carbidopa and levodopa extended-release tablets that provide 400 to 1600 mg of levodopa per day, administered as divided doses at intervals ranging from 4 to 8 hours during the waking day.

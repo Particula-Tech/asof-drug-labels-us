@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 25 mg/100 mg
+# PRINCIPAL DISPLAY PANEL – 25 mg/100 mg
 
 NDC 0378-0088-01
 
@@ -17,17 +17,19 @@ Keep this and all medication out of the reach of children.
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 
-Usual Adult Dosage: See accom- panying prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
 Tablets should be swallowed without chewing or crushing.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM0088A5
+RALP0088A
 
-# PRINCIPAL DISPLAY PANEL - 50 mg/200 mg
+# PRINCIPAL DISPLAY PANEL – 50 mg/200 mg
 
 NDC 0378-0094-01
 
@@ -46,12 +48,14 @@ Keep this and all medication out of the reach of children.
 Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 [See USP Controlled Room Temperature.]
 
-Usual Adult Dosage: See accom- panying prescribing information.
+Usual Adult Dosage: See accompanying prescribing information.
 
 Tablets should be swallowed without chewing or crushing.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+
+Made in Australia
 
 Mylan.com
 
-RM0094A7
+RALP0094A

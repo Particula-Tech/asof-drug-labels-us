@@ -20,4 +20,4 @@ The 50 mg/200 mg tablets are purple, oval, scored tablets debossed with MYLAN on
 Carbidopa and levodopa extended-release tablets are designed in a drug delivery system that controls the release of carbidopa and levodopa as the tablets slowly erode.
 The 25 mg/100 mg carbidopa and levodopa extended-release tablet is available to facilitate titration and as an alternative to the half-tablet of 50 mg/200 mg carbidopa and levodopa extended-release.
 
-Meets USP Dissolution Test 3.
+FDA approved dissolution test specifications differ from USP.
