@@ -1,15 +1,3 @@
-Expiration Date and Time
+Manufactured for: Precision Nuclear 830 Suncrest Drive Johnson City, TN 37615
 
-The expiration date and time are provided on the container label.
-
-Caution: Rx ONLY
-
-| Manufactured by: | Precision Nuclear LLC |
-| --- | --- |
-|  | 830 Suncrest Dr |
-|  | Gray, TN 37615 |
-
-| Distributed by: | Precision Nuclear LLC |
-| --- | --- |
-|  | 830 Suncrest Dr |
-|  | Gray, TN 37615 |
+Revised: 05/2022

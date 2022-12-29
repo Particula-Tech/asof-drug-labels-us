@@ -9,7 +9,7 @@ The presence of ammonia N 13 and glutamine N 13 in the myocardium allows for PET
 ## 12.2 Pharmacodynamics
 
 Following intravenous injection, ammonia N 13 enters the myocardium through the coronary arteries.
-The PET technique measures myocardial blood flow based on the assumption of a three-compartmental disposition of intravenous ammonia N 13 in the myocardium.
+The PET technique measures myocardial blood flow based on the assumption of a three- compartmental disposition of intravenous ammonia N 13 in the myocardium.
 In this model, the value of the rate constant, which represents the delivery of blood to myocardium, and the fraction of ammonia N 13 extracted into the myocardial cells, is a measure of myocardial blood flow.
 Optimal PET imaging of the myocardium is generally achieved between 10 to 20 minutes after administration.
 
@@ -18,7 +18,7 @@ Optimal PET imaging of the myocardium is generally achieved between 10 to 20 min
 Following intravenous injection, Ammonia N 13 Injection is cleared from the blood with a biologic half-life of about 2.84 minutes (effective half-life of about 2.21 minutes).
 In the myocardium, its biologic half-life has been estimated to be less than 2 minutes (effective half-life less than 1.67 minutes).
 
-The mass dose of Ammonia N 13 Injection is very small as compared to the normal range of ammonia in the blood (0.72-3.30 mg) in a healthy adult man [see Description (11.1)].
+The mass dose of Ammonia N 13 Injection is very small as compared to the normal range of ammonia in the blood (0.72 to 3.30 mg) in a healthy adult man [see Description (11.1)].
 
 Plasma protein binding of ammonia N 13 or its N 13 metabolites has not been studied.
 

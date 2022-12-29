@@ -11,7 +11,7 @@ Ammonia N 13 Injection should be given to a pregnant woman only if clearly neede
 ## 8.3 Nursing Mothers
 
 It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk and because of the potential for radiation exposure to nursing infants from Ammonia N 13 Injection, use alternative infant nutrition sources (e.g. stored breast milk or infant formula) for 2 hours (>10 half-lives of radioactive decay for N 13 isotope) after administration of the drug or avoid use of the drug, taking into account the importance of the drug to the mother.
+Because many drugs are excreted in human milk and because of the potential for radiation exposure to nursing infants from Ammonia N 13 Injection, use alternative infant nutrition sources (e.g., stored breast milk or infant formula) for 2 hours (> 10 half-lives of radioactive decay for N 13 isotope) after administration of the drug or avoid use of the drug, taking into account the importance of the drug to the mother.
 
 ## 8.4 Pediatric Use
 

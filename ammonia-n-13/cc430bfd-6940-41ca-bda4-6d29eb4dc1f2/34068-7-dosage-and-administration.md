@@ -2,30 +2,30 @@
 
 ## 2.1 Rest Imaging Study
 
-- Aseptically withdraw Ammonia N 13 Injection from its container and administer 10-20 mCi (0.368 �0.736 GBq) as a bolus through a catheter inserted into a large peripheral vein.
-- Start imaging 3 minutes after the injection and acquire images for a total of 10 - 20 minutes.
+- Aseptically withdraw Ammonia N 13 Injection from its container (if applicable) and administer 10 to 20 mCi (0.368 to 0.736 GBq) as a bolus through a catheter inserted into a large peripheral vein.
+- Start imaging 3 minutes after the injection and acquire images for a total of 10 to 20 minutes.
 
 ## 2.2 Stress Imaging Study
 
 - If a rest imaging study is performed, begin the stress imaging study 40 minutes or more after the first Ammonia N 13 injection to allow sufficient isotope decay.
 - Administer a pharmacologic stress-inducing drug in accordance with its labeling.
-- Aseptically withdraw Ammonia N 13 Injection from its container (if applicable) and administer 10-20 mCi (0.368 - 0.736 GBq) of Ammonia N 13 Injection as a bolus at 8 minutes after the administration of the pharmacologic stress-inducing drug.
-- Start imaging 3 minutes after the Ammonia N 13 Injection and acquire images for a total of 10-20 minutes,
+- Aseptically withdraw Ammonia N 13 Injection from its container (if applicable) and administer 10 to 20 mCi (0.368 to 0.736 GBq) of Ammonia N 13 Injection as a bolus at 8 minutes after the administration of the pharmacologic stress-inducing drug.
+- Start imaging 3 minutes after the Ammonia N 13 Injection and acquire images for a total of 10 to 20 minutes.
 
 ## 2.3 Patient Preparation
 
-To increase renal clearance of radioactivity and to minimize radiation dose to the bladder, ensure that the patient is well hydrated before the procedure and encourage voiding as soon as a study is completed and as often as possible thereafter for at least one hour.
+- To increase renal clearance of radioactivity and to minimize radiation dose to the bladder, ensure that the patient is well hydrated before the procedure and encourage voiding as soon as a study is completed and as often as possible thereafter for at least one hour.
 
 ## 2.4 Radiation Dosimetry
 
-The converted radiation absorbed doses in rem/mCi are shown in Table I. These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.
-1
+The converted radiation absorbed doses in rem/mCi are shown in Table 1.
+These estimates are calculated from the Task Group of Committee 2 of the International Commission on Radiation Protection.1
 
-Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and Pediatric Groups.
+Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and Pediatric Groups
 
-|  | Adult | 15 | 10 | 5 | 1 |
+| Adult | 15 | 10 | 5 | 1 |  |
 | --- | --- | --- | --- | --- | --- |
-| Organ | Age (years) |  |  |  |  |
+| Organ | Age (Years) |  |  |  |  |
 | Adrenals | 0.0085 | 0.0096 | 0.016 | 0.025 | 0.048 |
 | Bladder wall | 0.030 | 0.037 | 0.056 | 0.089 | 0.17 |
 | Bone surfaces | 0.0059 | 0.0070 | 0.011 | 0.019 | 0.037 |
@@ -37,7 +37,7 @@ Table 1: N 13 Absorbed Radiation Dose Per Unit Activity (rem/mCi) for Adults and
 | Lower large intestineLLI | 0.0070 | 0.0078 | 0.013 | 0.020 | 0.037 |
 | Heart | 0.0078 | 0.0096 | 0.015 | 0.023 | 0.041 |
 | Kidneys | 0.017 | 0.021 | 0.031 | 0.048 | 0.089 |
-| Liver | 0.015 | 0.018 | 0.029 | 0.044 | 0.085 |
+| Liver | 0.029 | 0.044 |  |  | 0.085 |
 | Lungs | 0.0093 | 0.011 | 0.018 | 0.029 | 0.056 |
 | Ovaries | 0.0063 | 0.0085 | 0.014 | 0.021 | 0.041 |
 | Pancreas | 0.0070 | 0.0085 | 0.014 | 0.021 | 0.041 |
