@@ -24,7 +24,7 @@ A no-observed-adverse-effect-level (NOAEL) was not identified in the mouse or ra
 Risk Summary
 
 Systemically administered corticosteroids are present in human milk and can suppress growth and interfere with endogenous corticosteroid production or cause other unwanted effects.
-There is no information regarding the presence of dexamethasone in human milk, the effects on the breastfed infants, or the effects on milk producton to inform risk of OZURDEX® to an infant during lactation.
+There is no information regarding the presence of dexamethasone in human milk, the effects on the breastfed infants, or the effects on milk production to inform risk of OZURDEX® to an infant during lactation.
 The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for OZURDEX® and any potential adverse effects on the breastfed child from OZURDEX®.
 
 ## 8.4Pediatric Use

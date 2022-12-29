@@ -79,11 +79,7 @@ Table 3: Summary of Elevated Intraocular Pressure (IOP) Related Adverse Reaction
 | Any IOP lowering medication | 136 (42%) | 32 (10%) |
 | Any surgical intervention for elevated IOP * | 4 (1.2%) | 1 (0.3%) |
 
-* OZURDEX®: 1 surgical trabeculectomy for steroid-induced IOP increase, 1 surgical trabeculectomy for iris neovascularization,
-
-1 laser iridotomy, 1 surgical iridectomy
-
-Sham: 1 laser iridotomy
+* OZURDEX®: 1 surgical trabeculectomy for steroid-induced IOP increase, 1 surgical trabeculectomy for iris neovascularization, 1 laser iridotomy, 1 surgical iridectomy Sham: 1 laser iridotomy
 
 The increase in mean IOP was seen with each treatment cycle, and the mean IOP generally returned to baseline between treatment cycles (at the end of the 6 month period) shown below:
 
