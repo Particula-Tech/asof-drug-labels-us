@@ -2,10 +2,10 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
-- Cardiovascular Disorders [see Warnings and Precautions (5.2)]
-- Malignant Neoplasms [see Warnings and Precautions (5.3)]
-- Gallbladder Disease [see Warnings and Precautions (5.5)]
-- Hypertriglyceridemia [see Warnings and Precautions (5.8)]
+- •Cardiovascular Disorders [see Warnings and Precautions (5.2)]
+- •Malignant Neoplasms [see Warnings and Precautions (5.3)]
+- •Gallbladder Disease [see Warnings and Precautions (5.5)]
+- •Hypertriglyceridemia [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 

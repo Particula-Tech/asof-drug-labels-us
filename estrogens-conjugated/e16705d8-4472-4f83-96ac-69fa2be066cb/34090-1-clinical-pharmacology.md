@@ -9,7 +9,10 @@ Bazedoxifene is an estrogen agonist/antagonist that acts as an agonist in some e
 The pairing of conjugated estrogens with bazedoxifene produces a composite effect that is specific to each target tissue.
 The bazedoxifene component reduces the risk of endometrial hyperplasia that can occur with the conjugated estrogens component.
 
-Pharmacodynamic studies have not been conducted with DUAVEE.
+## 12.2 Pharmacodynamics
+
+Generally, a serum estrogen concentration does not predict an individual woman’s therapeutic response to DUAVEE nor her risk for adverse outcomes.
+Likewise, exposure comparisons across different estrogen products to infer efficacy or safety for the individual woman may not be valid.
 
 ## 12.3 Pharmacokinetics
 

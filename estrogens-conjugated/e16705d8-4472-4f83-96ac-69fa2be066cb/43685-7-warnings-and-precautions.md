@@ -100,7 +100,7 @@ If examination reveals papilledema or retinal vascular lesions, DUAVEE should be
 In a small number of case reports in women receiving estrogens, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
 In a large, randomized, placebo-controlled clinical study, a generalized effect of estrogens on blood pressure was not seen.
 
-## 5.8 Hypertriglyceridemia
+## 5.8Hypertriglyceridemia
 
 In women with pre-existing hypertriglyceridemia, treatment with estrogens may be associated with elevations of plasma triglycerides leading to pancreatitis.
 Consider discontinuation of DUAVEE if pancreatitis occurs.
