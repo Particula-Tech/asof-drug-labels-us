@@ -15,10 +15,10 @@ Immediately following administration, take a sip of fluids to ensure all granule
 
 Adrenal Crisis
 
-Inform the patient or caregiver that undertreatment or sudden discontinuation of ALKINDI SPRINKLE or switching to ALKINDI SPRINKLE from another oral hydrocortisone formulation, may lead to adrenocortical insufficiency, adrenal crisis, and death.
-Inform the caregiver that potential dosing inaccuracy of the manipulated oral hydrocortisone formulation (e.g., split or crushed tablets, compounded formulations) may result in dosing differences when switching to ALKINDI SPRINKLE, which may require dose adjustments.
-Advise caregivers to watch the patient for symptoms of adrenocortical insufficiency during days after the switching to ALKINDI SPRINKLE.
-Inform the patient or caregiver to contact their healthcare provider if they have symptoms of adrenocortical insufficiency, prolonged vomiting, are severely ill or are unable to take oral medications.
+Inform the patient or caregiver that undertreatment or sudden discontinuation of ALKINDI SPRINKLE may lead to symptoms of adrenocortical insufficiency, adrenal crisis, and death.
+Advise the caregiver that the potential dosing inaccuracy of manipulated oral hydrocortisone preparations (e.g., split or crushed tablets or compounded suspension) may result in differences.
+When switching treatment from conventional oral hydrocortisone to ALKINDI SPRINKLE, advise the patient or caregiver that this could lead to unintended clinical consequences and recommend close monitoring of patients after the switch.
+Inform the patient or caregiver to contact their healthcare provider if they have prolonged vomiting, are severely ill or are unable to take oral medications.
 [see Warnings and Precautions (5.1)]
 
 Infections
@@ -35,7 +35,7 @@ Discuss with the caregiver that long-term use of corticosteroids in excessive do
 
 Cushing’s Syndrome
 
-Inform patients and caregivers that prolonged use of corticosteroids in supraphysiologic doses may cause Cushing’s syndrome and that symptoms and signs include weight gain, decreased height velocity, hyperglycemia, hypertension, edema, easy bruising, muscle weakness, red, round face, depression or mood swings.
+Inform patients and caregivers that prolonged use of corticosteroids in supraphysiologic doses may cause Cushing’s syndrome and that symptoms and signs include weight gain, decreased height velocity, hyperglycemia, hypertension, edema, easy bruising, muscle weakness, red round face, depression or mood swings.
 [see Warnings and Precautions (5.4)]
 
 Decrease in Bone Mineral Density
@@ -66,7 +66,7 @@ Inform patients or caregivers that this does not mean the product is ineffective
 
 ALKINDI SPRINKLE is manufactured for Eton Pharmaceuticals, Inc. by Glatt Pharmaceutical Services GmbH & Co. KG Werner-Glatt-Strasse 1, Binzen, Baden-Wuerttemberg, 79589, Germany.
 
-ALKINDI® is a registered trademark of Diurnal Limited.
+ALKINDI ® is a registered trademark of Diurnal Limited.
 
 ALKINDI is covered by the following US patents: 9,649,280; 9,675,559; 9,717,740; and other patents in other countries internationally.
 
