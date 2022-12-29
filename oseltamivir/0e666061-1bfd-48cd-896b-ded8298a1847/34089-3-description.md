@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Oseltamivir Phosphate Capsules, USP, an influenza neuraminidase inhibitor (NAI), are available as capsules containing 30 mg, 45 mg, or 75 mg oseltamivir for oral use, in the form of oseltamivir phosphate.
+Oseltamivir Phosphate Capsules, USP, an influenza neuraminidase inhibitor (NAI), are available as capsules containing 30 mg, 45 mg, or 75 mg of oseltamivir for oral use, in the form of oseltamivir phosphate.
 In addition to the active ingredient, each capsule contains pregelatinized starch, talc, povidone, croscarmellose sodium, and sodium stearyl fumarate.
 The 30 mg capsule shell contains gelatin, titanium dioxide, and sodium lauryl sulfate.
 The 45 mg and 75 mg capsule shells contain gelatin, titanium dioxide, and sodium lauryl sulfate, FD&C Blue 1, D&C Red 28, and FD&C Red 40.

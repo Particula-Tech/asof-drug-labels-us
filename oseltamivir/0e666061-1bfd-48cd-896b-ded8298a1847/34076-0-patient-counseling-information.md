@@ -24,13 +24,11 @@ Instruct patients that oseltamivir phosphate capsules are not a substitute for r
 Patients should continue receiving an annual flu vaccination according to guidelines on immunization practices.
 Because of the potential for oseltamivir phosphate capsules to inhibit replication of live attenuated influenza vaccine (LAIV) and possibly reduce efficacy of LAIV, avoid administration of LAIV within 2 weeks or 48 hours after oseltamivir phosphate capsules administration, unless medically necessary [see Drug Interactions (7.1)].
 
-Oseltamivir Phosphate Capsules, USP
-
 Manufactured by:
 
-Nesher Pharmaceuticals USA LLC.
+Zydus Lifesciences Ltd.
 
-St. Louis, MO 63044
+Ahmedabad, India
 
 Distributed by:
 
@@ -38,7 +36,5 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-P10268-9
-
 Rev.
-06/2020
+12/2022
