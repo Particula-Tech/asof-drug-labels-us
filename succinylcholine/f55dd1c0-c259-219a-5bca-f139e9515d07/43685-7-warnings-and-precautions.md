@@ -49,16 +49,19 @@ Consider avoiding use of succinylcholine chloride injection in these patients or
 
 ## 5.5 Malignant Hyperthermia
 
-Succinylcholine administration has been associated with acute onset of malignant hyperthermia, a potentially fatal hypermetabolic state of skeletal muscle.
-The risk of developing malignant hyperthermia following succinylcholine administration increases with the concomitant administration of volatile anesthetics.
-Malignant hyperthermia frequently presents as intractable spasm of the jaw muscles (masseter spasm) which may progress to generalized rigidity, increased oxygen demand, tachycardia, tachypnea and profound hyperpyrexia
+In susceptible individuals, succinylcholine may trigger malignant hyperthermia, a skeletal muscle hypermetabolic state leading to high oxygen demand.
+Fatal outcomes of malignant hyperthermia have been reported.
 
-Successful outcome depends on recognition of early signs, such as jaw muscle spasm, acidosis, or generalized rigidity to initial administration of succinylcholine for tracheal intubation, or failure of tachycardia to respond to deepening anesthesia.
-Skin mottling, rising temperature and coagulopathies may occur later in the course of the hypermetabolic process.
-Recognition of the syndrome is a signal for discontinuance of anesthesia, attention to increased oxygen consumption, correction of acidosis, support of circulation, assurance of adequate urinary output and institution of measures to control rising temperature.
-Intravenous dantrolene sodium is recommended as an adjunct to supportive measures in the management of malignant hyperthermia.
-Consult the dantrolene prescribing information for additional information about the management of malignant hyperthermic crisis.
-Continuous monitoring of temperature and expired CO2 is recommended as an aid to early recognition of malignant hyperthermia.
+The risk of developing malignant hyperthermia increases with the concomitant administration of succinylcholine and volatile anesthetic agents.
+Succinylcholine chloride injection can induce malignant hyperthermia in patients with known or suspected susceptibility based on genetic factors or family history, including those with certain inherited ryanodine receptor (RYR1) or dihydropyridine receptor (CACNA1S) variants[see Contraindications (4), Clinical Pharmacology (12.5)].
+
+Signs consistent with malignant hyperthermia may include hyperthermia, hypoxia, hypercapnia, muscle rigidity (e.g., jaw muscle spasm), tachycardia (e.g., particularly that unresponsive to deepening anesthesia or analgesic medication administration), tachypnea, cyanosis, arrhythmias, hypovolemia, and hemodynamic instability.
+Skin mottling, coagulopathies, and renal failure may occur later in the course of the hypermetabolic process.
+
+Successful treatment of malignant hyperthermia depends on early recognition of the clinical signs.
+If malignant hyperthermia is suspected, discontinue all triggering agents (i.e., volatile anesthetic agents and succinylcholine), administer intravenous dantrolene sodium, and initiate supportive therapies.
+Consult prescribing information for intravenous dantrolene sodium for additional information on patient management.
+Supportive therapies include administration of supplemental oxygen and respiratory support based on clinical need, maintenance of hemodynamic stability and adequate urinary output, management of fluid and electrolyte balance, correction of acid base derangements, and institution of measures to control rising temperature.
 
 ## 5.6 Bradycardia
 
@@ -68,7 +71,7 @@ The incidence and severity of bradycardia is higher in pediatric patients than a
 Whereas bradycardia is common in pediatric patients after an initial dose of 1.5 mg/kg, bradycardia is seen in adults only after repeated exposure.
 Pretreatment with anticholinergic agents (e.g., atropine) may reduce the occurrence of bradyarrhythmias.
 
-## 5.7 Increase in Intraocular Pressure
+## 5.7 Increased in Intraocular Pressure
 
 Succinylcholine causes an increase in intraocular pressure.
 Avoid succinylcholine chloride injection in instances in which an increase in intraocular pressure is undesirable (e.g., narrow angle glaucoma, penetrating eye injury) unless the potential benefit of its use outweighs the potential risk.
@@ -112,7 +115,7 @@ Succinylcholine may increase intragastric pressure, which could result in regurg
 Evaluate patients at risk for aspiration and regurgitation.
 Monitor patients during induction of anesthesia and neuromuscular blockade for clinical signs of vomiting and/or aspiration.
 
-## 5.13 Prolonged Neuromuscular block in Patients with Hypokalemia or Hypocalcemia
+## 5.13 Prolonged Neuromuscular Block in Patients with Hypokalemia or Hypocalcemia
 
 Neuromuscular blockade may be prolonged in patients with hypokalemia (e.g., after severe vomiting, diarrhea, digitalisation and diuretic therapy) or hypocalcemia (e.g., after massive transfusions).
 Correct severe electrolyte disturbances when possible.

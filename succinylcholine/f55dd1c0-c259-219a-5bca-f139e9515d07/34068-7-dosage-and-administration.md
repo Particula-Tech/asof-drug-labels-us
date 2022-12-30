@@ -3,7 +3,7 @@
 ## 2.1 Important Dosage and Administration Information
 
 - Succinylcholine chloride injection is for intravenous or intramuscular use only.
-- Succinylcholine chloride injection must be titrated to effect by or under supervision of experienced clinicians who are familiar with its actions and with appropriate neuromuscular monitoring techniques
+- Succinylcholine chloride injection must be titrated to effect by or under supervision of experienced clinicians who are familiar with its actions and with appropriate neuromuscular monitoring techniques.
 - Succinylcholine chloride injection should be administered only by those skilled in the management of artificial respiration and only when facilities are instantly available for tracheal intubation and for providing adequate ventilation of the patient, including the administration of oxygen under positive pressure and the elimination of CO2.
   The clinician must be prepared to assist or control respiration.
 - The dosage of succinylcholine chloride injection should be individualized and should always be determined by the clinician after careful assessment of the patient.
@@ -62,10 +62,10 @@ Succinylcholine chloride injection supplied in multiple-dose vials does not requ
 Succinylcholine chloride injection may be diluted to 1 mg/mL or 2 mg/mL in a solution such as:
 
 - 5% Dextrose Injection, USP, or
-- 0.9% Sodium Chloride Injection, US
+- 0.9% Sodium Chloride Injection, USP
 
 Prepare the diluted succinylcholine chloride solution for single patient use only.
-Store the diluted succinylcholine chloride solution in a refrigerator [2° C to 8° C (36° F to 46° F)] and use within 24 hours after preparation.
+Store the diluted succinylcholine chloride solution in a refrigerator [2°C to 8°C (36°F to 46°F)] and use within 24 hours after preparation.
 Visually inspect the diluted succinylcholine chloride solution for particulate matter and discoloration prior to administration.
 Do not administer solutions that are not clear and colorless.
 Discard any unused portion of the diluted succinylcholine chloride solution.

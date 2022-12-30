@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Succinylcholine Chloride Injection, USP is supplied as a clear, colorless solution in the following concentrations and packages:
+Succinylcholine chloride injection, USP is supplied as a clear, colorless solution in the following concentrations and packages:
 
 | Unit of Sale | Concentration |
 | --- | --- |
@@ -21,4 +21,4 @@ Princeton, NJ 08540
 
 Made in India
 
-Revised: 03/2022
+Revised: 11/2022

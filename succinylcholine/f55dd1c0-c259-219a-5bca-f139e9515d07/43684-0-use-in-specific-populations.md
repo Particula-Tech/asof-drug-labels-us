@@ -11,7 +11,7 @@ Animal reproduction studies have not been conducted with succinylcholine chlorid
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -34,7 +34,7 @@ Succinylcholine is known to cross the placental barrier in an amount that is dep
 Risk Summary
 
 There are no data on the presence of succinylcholine or its metabolite in either human or animal milk, the effects on the breastfed infant, or the effects on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for succinylcholine chloride and any potential adverse effects on the breastfed infant from succinylcholine chloride or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for succinylcholine chloride and any potential adverse effects on the breastfed infant from succinylcholine chloride or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
