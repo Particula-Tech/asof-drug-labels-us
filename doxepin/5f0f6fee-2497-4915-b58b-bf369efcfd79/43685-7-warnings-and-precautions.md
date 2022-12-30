@@ -5,11 +5,11 @@
 Patients with major depressive disorder (MDD), both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
 Suicide is a known risk of depression and certain other psychiatric disorders, and these disorders themselves are the strongest predictors of suicide.
 There has been a long-standing concern, however, that antidepressants may have a role in inducing worsening of depression and the emergence of suicidality in certain patients during the early phases of treatment.
-Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children,adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
+Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (SSRIs and others) showed that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction with antidepressants compared to placebo in adults aged 65 and older.
 
-The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short- term trials of 9 antidepressant drugs in over 4,400 patients.
-The pooled analyses of placebo- controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short- term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
+The pooled analyses of placebo-controlled trials in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of 9 antidepressant drugs in over 4,400 patients.
+The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of 2 months) of 11 antidepressant drugs in over 77,000 patients.
 
 There was considerable variation in risk of suicidality among drugs, but a tendency toward an increase in the younger patients for almost all drugs studied.
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
@@ -45,11 +45,11 @@ Prescriptions for doxepin hydrochloride should be written for the smallest quant
 
 ### Screening Patients for Bipolar Disorder
 
-A major depressive episode may be the initial presentation of bipolar disorder.
-It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
-Whether any of the symptoms described above represent such a conversion is unknown.
-However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
-It should be noted that doxepin hydrochloride is not approved for use in treating bipolar depression.
+1. A major depressive episode may be the initial presentation of bipolar disorder.
+   It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
+   Whether any of the symptoms described above represent such a conversion is unknown.
+   However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
+   It should be noted that doxepin hydrochloride is not approved for use in treating bipolar depression.
 
 ### Angle-Closure Glaucoma
 
@@ -85,7 +85,7 @@ Patients should be advised of the following issues and asked to alert their pres
 ### Clinical Worsening and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to‑ day basis, since changes may be abrupt.
+Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to‑day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 
@@ -100,11 +100,9 @@ Safety and effectiveness in the pediatric population have not been established (
 
 Anyone considering the use of doxepin hydrochloride capsules in a child or adolescent must balance the potential risks with the clinical need.
 
-### Drug Interactions
+## Drug Interactions
 
-#### Drugs Metabolized by P450 2D6
-
-The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7 to 10% of Caucasians are so-called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
+Drugs Metabolized by P450 2D6: The biochemical activity of the drug metabolizing isozyme cytochrome P450 2D6 (debrisoquin hydroxylase) is reduced in a subset of the Caucasian population (about 7 to 10% of Caucasians are so-called “poor metabolizers”); reliable estimates of the prevalence of reduced P450 2D6 isozyme activity among Asian, African and other populations are not yet available.
 Poor metabolizers have higher than expected plasma concentrations of tricyclic antidepressants (TCAs) when given usual doses.
 Depending on the fraction of drug metabolized by P450 2D6, the increase in plasma concentration may be small, or quite large (8-fold increase in plasma AUC of the TCA).
 
@@ -125,28 +123,19 @@ Inhibitors or substrates of CYP2D6 (i.e., quinidine, selective serotonin reuptak
 The extent of interaction depends on the variability of effect on CYP2D6.
 The clinical significance of this interaction with doxepin has not been systematically evaluated.
 
-#### MAO Inhibitors
-
-Serious side effects and even death have been reported following the concomitant use of certain drugs with MAO inhibitors.
+MAO Inhibitors: Serious side effects and even death have been reported following the concomitant use of certain drugs with MAO inhibitors.
 Therefore, MAO inhibitors should be discontinued at least two weeks prior to the cautious initiation of therapy with doxepin hydrochloride capsules.
 The exact length of time may vary and is dependent upon the particular MAO inhibitor being used, the length of time it has been administered, and the dosage involved.
 
-#### Cimetidine
-
-Cimetidine has been reported to produce clinically significant fluctuations in steady-state serum concentrations of various tricyclic antidepressants.
+Cimetidine: Cimetidine has been reported to produce clinically significant fluctuations in steady-state serum concentrations of various tricyclic antidepressants.
 Serious anticholinergic symptoms (i.e., severe dry mouth, urinary retention and blurred vision) have been associated with elevations in the serum levels of tricyclic antidepressant when cimetidine therapy is initiated.
-
 Additionally, higher than expected tricyclic antidepressant levels have been observed when they are begun in patients already taking cimetidine.
 In patients who have been reported to be well controlled on tricyclic antidepressants receiving concurrent cimetidine therapy, discontinuation of cimetidine has been reported to decrease established steady-state serum tricyclic antidepressant levels and compromise their therapeutic effects.
 
-#### Alcohol
-
-It should be borne in mind that alcohol ingestion may increase the danger inherent in any intentional or unintentional doxepin hydrochloride overdosage.
+Alcohol: It should be borne in mind that alcohol ingestion may increase the danger inherent in any intentional or unintentional doxepin hydrochloride overdosage.
 This is especially important in patients who may use alcohol excessively.
 
-#### Tolazamide
-
-A case of severe hypoglycemia has been reported in a type II diabetic patient maintained on tolazamide (1 gm/day) 11 days after the addition of doxepin (75 mg/day).
+Tolazamide: A case of severe hypoglycemia has been reported in a type II diabetic patient maintained on tolazamide (1 gm/day) 11 days after the addition of doxepin (75 mg/day).
 
 ### Drowsiness
 
@@ -154,7 +143,7 @@ Since drowsiness may occur with the use of this drug, patients should be warned 
 Patients should also be cautioned that their response to alcohol may be potentiated.
 
 Sedating drugs may cause confusion and oversedation in the elderly; elderly patients generally should be started on low doses of doxepin hydrochloride and observed closely.
-(See PRECAUTIONS - Geriatric Use.)
+(See PRECAUTIONS Geriatric Use.)
 
 ### Suicide
 
@@ -165,7 +154,7 @@ Prescriptions should be written for the smallest feasible amount.
 
 Should increased symptoms of psychosis or shift to manic symptomatology occur, it may be necessary to reduce dosage or add a major tranquilizer to the dosage regimen.
 
-### Geriatric Use
+## Geriatric Use
 
 A determination has not been made whether controlled clinical studies of doxepin hydrochloride included sufficient numbers of subjects aged 65 and over to define a difference in response from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
