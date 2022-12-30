@@ -97,10 +97,3 @@ The therapeutic outcomes for the 134 subjects who received trial medication in t
 
 Table 9.
 Outcome of Treatment for PCP-Positive Subjects (%) Enrolled in the Pentamidine Comparative Trial
-
-| Outcome of Therapy | Primary Treatment |  |  |  | Salvage Treatment |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Atovaquone (n = 56) | Pentamidine (n = 53) |  | Atovaquone (n = 14) |  | Pentamidine (n = 11) |  |  |
-| Therapy success | 32 | 57% | 21 | 40% | 13 | 93% | 7 | 64% |
-| Therapy failure due to: -Lack of response -Adverse reaction -Unevaluable | 16 2 6 | 29% 3.6% 11% | 9 19 4 | 17% 36% 8% | 0 0 1 | 7% | 0 3 1 | 27% 9% |
-| Required alternate PCP therapy during trial | 19 | 34% | 29 | 55% | 0 |  | 4 | 36% |
