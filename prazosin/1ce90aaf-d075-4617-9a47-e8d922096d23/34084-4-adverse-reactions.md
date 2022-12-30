@@ -48,7 +48,7 @@ Autonomic Nervous System: flushing.
 
 Body As A Whole: allergic reaction, asthenia, malaise, pain.
 
-Cardiovascular: General: angina pectoris, hypotension.
+Cardiovascular:General: angina pectoris, hypotension.
 
 Endocrine: gynecomastia.
 

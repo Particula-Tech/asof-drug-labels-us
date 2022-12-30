@@ -1,8 +1,10 @@
-PRINCIPAL DISPLAY PANEL - 1 mg
+# PRINCIPAL DISPLAY PANEL – 1 mg
 
 NDC 0378-1101-01
 
-Prazosin Hydrochloride Capsules, USP 1 mg*
+Prazosin Hydrochloride Capsules, USP
+
+1 mg*
 
 Rx only 100 Capsules
 
@@ -16,7 +18,6 @@ Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
@@ -27,13 +28,15 @@ Made in Puerto Rico
 
 Mylan.com
 
-RM1101A9
+RVPL1101A
 
-PRINCIPAL DISPLAY PANEL - 2 mg
+# PRINCIPAL DISPLAY PANEL – 2 mg
 
 NDC 0378-2302-01
 
-Prazosin Hydrochloride Capsules, USP 2 mg*
+Prazosin Hydrochloride Capsules, USP
+
+2 mg*
 
 Rx only 100 Capsules
 
@@ -47,7 +50,6 @@ Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
@@ -58,13 +60,15 @@ Made in Puerto Rico
 
 Mylan.com
 
-RM2302A9
+RVPL2302A
 
-PRINCIPAL DISPLAY PANEL - 5 mg
+# PRINCIPAL DISPLAY PANEL – 5 mg
 
 NDC 0378-3205-01
 
-Prazosin Hydrochloride Capsules, USP 5 mg*
+Prazosin Hydrochloride Capsules, USP
+
+5 mg*
 
 Rx only 100 Capsules
 
@@ -78,7 +82,6 @@ Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
-
 Protect from moisture and light.
 
 Usual Dosage: See accompanying prescribing information.
@@ -89,4 +92,4 @@ Made in Puerto Rico
 
 Mylan.com
 
-RM3205A9
+RVPL3205A

@@ -17,9 +17,7 @@ More common than loss of consciousness are the symptoms often associated with lo
 The patient should be cautioned about these possible adverse effects and advised what measures to take should they develop.
 The patient should also be cautioned to avoid situations where injury could result should syncope occur during the initiation of prazosin hydrochloride capsules therapy.
 
-## Priapism
-
-Prolonged erections and priapism have been reported with alpha-1 blockers including prazosin in post marketing experience.
+Priapism: Prolonged erections and priapism have been reported with alpha-1 blockers including prazosin in post marketing experience.
 In the event of an erection that persists longer than 4 hours, seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency could result.
 
@@ -43,7 +41,9 @@ While taking prazosin hydrochloride capsules, be careful in the amount of alcoho
 Also, use extra care during exercise or hot weather, or if standing for long periods.
 Check with your physician if you have any questions.
 
-## Drug Interactions
+## Interactions
+
+### Drug Interactions
 
 Prazosin hydrochloride capsules have been administered without any adverse drug interaction in limited clinical experience to date with the following: (1) cardiac glycosides‒digitalis and digoxin; (2) hypoglycemics‒insulin, chlorpropamide, phenformin, tolazamide, and tolbutamide; (3) tranquilizers and sedatives‒chlordiazepoxide, diazepam, and phenobarbital; (4) antigout‒allopurinol, colchicine, and probenecid; (5) antiarrhythmics‒procainamide, propranolol (see WARNINGS however), and quinidine; and (6) analgesics, antipyretics and anti-inflammatories-propoxyphene, aspirin, indomethacin, and phenylbutazone.
 
@@ -52,7 +52,7 @@ This effect can be minimized by reducing the prazosin hydrochloride capsules dos
 
 Concomitant administration of prazosin hydrochloride capsules with a phosphodiesterase-5 (PDE-5) inhibitor can result in additive blood pressure lowering effects and symptomatic hypotension (see DOSAGE AND ADMINISTRATION).
 
-## Drug/Laboratory Test Interactions
+### Drug/Laboratory Test Interactions
 
 In a study on five patients given from 12 to 24 mg of prazosin per day for 10 to 14 days, there was an average increase of 42% in the urinary metabolite of norepinephrine and an average increase in urinary VMA of 17%.
 Therefore, false positive results may occur in screening tests for pheochromocytoma in patients who are being treated with prazosin.
@@ -93,6 +93,6 @@ Prazosin hydrochloride capsules should be used during pregnancy only if the pote
 Prazosin has been shown to be excreted in small amounts in human milk.
 Caution should be exercised when prazosin hydrochloride capsules are administered to a nursing woman.
 
-## Usage in Children
+## Pediatric Use
 
 Safety and effectiveness in children have not been established.

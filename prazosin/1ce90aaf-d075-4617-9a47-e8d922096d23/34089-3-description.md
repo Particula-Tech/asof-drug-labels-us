@@ -3,8 +3,6 @@
 Prazosin hydrochloride capsules, USP a quinazoline derivative, is the first of a new chemical class of antihypertensives.
 It is the hydrochloride salt of 1-(4-amino-6,7-dimethoxy-2-quinazolinyl)-4-(2-furoyl) piperazine and its structural formula is:
 
-Molecular formula C19H21N5O4 • HCl
-
 It is a white to tan powder, slightly soluble in water and methanol, very slightly soluble in alcohol, practically insoluble in chloroform and acetone and has a molecular weight of 419.87.
 Each capsule, for oral use, contains prazosin hydrochloride, USP equivalent (as the polyhydrate) to 1 mg, 2 mg or 5 mg of prazosin.
 
