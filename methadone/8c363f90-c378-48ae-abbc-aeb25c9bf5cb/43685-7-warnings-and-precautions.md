@@ -65,18 +65,18 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper[see Dosage and Administration (2.5)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Methadone Hydrochloride Oral Solution.
 
-For Patients Being Treated for Pain:
+For Patients Being Treated for Pain
 
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 
-For Patients Being Treated for Opioid Addiction:
+For Patients Being Treated for Opioid Addiction
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Oral Solution itself [see Overdosage (10)].
@@ -132,7 +132,7 @@ When using Methadone Hydrochloride Oral Solution with CYP3A4, CYP2B6, CYP2C19, o
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Methadone Hydrochloride Oral Solution with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 
-For Patients Being Treated for Pain:
+For Patients Being Treated for Pain
 
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
@@ -150,7 +150,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7), Patient Counseling Information (17)].
 
-For Patients Being Treated for Opioid Addiction:
+For Patients Being Treated for Opioid Addiction
 
 Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -180,11 +180,11 @@ Toxicology screening should test for prescribed and illicit benzodiazepines [see
 
 The use of Methadone Hydrochloride Oral Solution in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease:
+Patients with Chronic Pulmonary Disease
 
 Methadone Hydrochloride Oral Solution-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Methadone Hydrochloride Oral Solution [see Warnings and Precautions (5.4)].
 
-Elderly, Cachectic, or Debilitated Patients:
+Elderly, Cachectic, or Debilitated Patients
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.4)].
 
@@ -245,10 +245,10 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 Do not abruptly discontinue Methadone Hydrochloride Oral Solution in a patient physically dependent on opioids.
 When discontinuing Methadone Hydrochloride Oral Solution in a physically dependent patient, gradually taper the dosage.
-Rapid tapering of methadone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain[see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
+Rapid tapering of methadone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Methadone Hydrochloride Oral Solution.
-In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms [see Drug Interactions (7)].
+In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms[see Drug Interactions (7)].
 
 ## 5.17 Risks of Driving and Operating Machinery
 

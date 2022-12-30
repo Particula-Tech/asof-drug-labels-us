@@ -16,7 +16,7 @@
 | Potentially Arrhythmogenic Agents |  |
 | Clinical Impact: | Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia). |
 | Intervention: | Monitor patients closely for cardiac conduction changes. |
-| Examples: | Drugs known to have potential to prolong QT interval: Class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers.Drugs capable of inducing electrolyte disturbances: Diuretics, laxatives, and, in rare cases, mineralocortocoid hormones. |
+| Examples: | Drugs known to have potential to prolong QT interval: Class I and III antiarrhythmics, some neuroleptics and tricyclic antidepressants, and calcium channel blockers.Drugs capable of inducing electrolyte disturbances: Diuretics, laxatives, and, in rare cases, mineralocorticoid hormones. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome [see Warnings and Precautions (5.10)]. |
 | Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue Methadone Hydrochloride Oral Solution if serotonin syndrome is suspected. |
@@ -39,19 +39,19 @@
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
 | Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when Methadone Hydrochloride Oral Solution are used concomitantly with anticholinergic drugs. |
 
-Paradoxical Effects of Antiretroviral Agents on Methadone Hydrochloride Oral Solution:
+Paradoxical Effects of Antiretroviral Agents on Methadone Hydrochloride Oral Solution
 
 Concurrent use of certain antiretroviral agents with CYP3A4 inhibitory activity, alone and in combination, such as abacavir, amprenavir, darunavir+ritonavir, efavirenz, nelfinavir, nevirapine, ritonavir, telaprevir, lopinavir+ritonavir, saquinavir+ritonavir, and tipranavir+ritonavir, has resulted in increased clearance or decreased plasma levels of methadone.
 This may result in reduced efficacy of Methadone Hydrochloride Oral Solution and could precipitate a withdrawal syndrome.
 Monitor methadone-maintained patients receiving any of these anti-retroviral therapies closely for evidence of withdrawal effects and adjust the methadone dose accordingly.
 
-Effects of Methadone Hydrochloride Oral Solution on Antiretroviral Agents:
+Effects of Methadone Hydrochloride Oral Solution on Antiretroviral Agents
 
 Didanosine and Stavudine: Experimental evidence demonstrated that methadone decreased the area under the concentration-time curve (AUC) and peak levels for didanosine and stavudine, with a more significant decrease for didanosine.
 Methadone disposition was not substantially altered.
 
 Zidovudine: Experimental evidence demonstrated that methadone increased the AUC of zidovudine, which could result in toxic effects.
 
-Effects of Methadone Hydrochloride Oral Solution on Antidepressants:
+Effects of Methadone Hydrochloride Oral Solution on Antidepressants
 
 Desipramine: Blood levels of desipramine have increased with concurrent methadone administration.

@@ -1,11 +1,15 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Methadone Hydrochloride Oral Solution, 5mg/5mL
+NDC 0054-3555-63 500 mL Methadone Hydrochloride Oral Solution USP CII
 
-0054-3555-63, Rx only
+5 mg per 5mL
+
+Rx only
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Methadone Hydrochloride Oral Solution, 10mg/5mL
+NDC 0054-3556-63 500 mL Methadone Hydrochloride Oral Solution USP CII
 
-0054-3556-63, Rx only
+10 mg per 5mL (2 mg/mL)
+
+Rx only

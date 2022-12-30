@@ -1,12 +1,17 @@
 # 10 OVERDOSAGE
 
-Clinical Presentation:
+Clinical Presentation
 
-Acute overdose of methadone can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal-muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
+Acute overdosage of methadone can be manifested by respiratory depression somnolence progressing to stupor or coma, skeletal-muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 In severe overdosage, particularly by the intravenous route, apnea, circulatory collapse, cardiac arrest, and death may occur.
 
-Treatment of Overdose:
+Methadone overdosage is associated with rhabdomyolysis.
+Seek medical attention, especially if abuse/misuse results in prolonged immobilization.
+Acute toxic leukoencephalopathy has been reported after methadone overdose, often weeks after apparent recovery from the initial intoxication.
+Hearing loss has been reported after methadone overdose, in some cases permanent.
+
+Treatment of Overdose
 
 In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen, vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
