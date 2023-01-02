@@ -29,4 +29,4 @@ Pointe-Claire, QC, Canada H9R 1C9
 
 Manufactured for: Metacel Pharmaceuticals, LLC Athens, GA 30601
 
-OZOBAX® is a registered U.S. trademark of Metacel Pharmaceuticals LLC U.S. Patent No. 10,610,502
+OZOBAX ® is a registered U.S. trademark of Metacel Pharmaceuticals LLC U.S. Patent No. 10,610,502
