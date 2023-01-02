@@ -11,11 +11,14 @@ Manufactured for:
 
 Macleods Pharma USA Inc.
 
-Plainsboro, NJ 08536
+Princeton, NJ 08540
 
 Manufactured by:
 
 Macleods Pharmaceutical Ltd.
 
 Baddi, Himachal Pradesh, India.
-Revised: December 2016
+
+Medication Guide available at: www.macleodspharma.com/usa
+
+Revised: November 2022

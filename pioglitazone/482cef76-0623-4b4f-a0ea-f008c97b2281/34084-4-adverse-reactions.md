@@ -2,10 +2,11 @@
 
 The following serious adverse reactions are discussed elsewhere in the labeling:
 
-- Congestive heart failure [see Boxed Warningand Warnings and Precautions (5.1)]
-- Edema [see Warnings and Precautions (5.2)]
+Congestive heart failure [see Boxed Warningand Warnings and Precautions (5.1)]
 
-Fractures [see Warnings and Precautions (5.4)]
+- Edema [see Warnings and Precautions (5.5)]
+
+Fractures [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -39,7 +40,7 @@ Three Pooled 16- to 26-Week Placebo-Controlled Clinical Trials of Pioglitazone H
 Common Adverse Events.
 16- to 24-Week Add-on Combination Therapy Trials
 
-A summary of the overall incidence and types of common adverse events reported in trials of Pioglitazone hydrochloride add-on to sulfonylurea is provided in Table 2.
+A summary of the overall incidence and types of common adverse events reported in trials of pioglitazone hydrochloride add-on to sulfonylurea is provided in Table 2.
 Terms that are reported represent those that occurred at an incidence of >5% and more commonly with the highest tested dose of pioglitazone tablets.
 
 Table 2.
@@ -48,7 +49,7 @@ Table 2.
 |  | 16-Week Placebo-Controlled Trial Adverse Events Reported in > 5% of Patients and More Commonly in Patients Treated with Pioglitazone Tablets 30 mg + Sulfonylurea than in Patients Treated with Placebo + Sulfonylurea |  |  |  |
 | --- | --- | --- | --- | --- |
 | % of Patients |  |  |  |  |
-| Placebo + Sulfonylurea N=187 | Pioglitazone Hydrochloride15 mg + Sulfonylurea N=184 |  | Pioglitazone Hydrochloride30 mg + Sulfonylurea N=189 |  |
+| Placebo + Sulfonylurea N=187 | Pioglitazone Hydrochloride15 mg + Sulfonylurea N=184 |  | Pioglitazone Hydrochloride 30 mg + Sulfonylurea N=189 |  |
 | Edema | 2.1 | 1.6 |  | 12.7 |
 | Headache | 3.7 | 4.3 |  | 5.3 |
 | Flatulence | 0.5 | 2.7 |  | 6.3 |
@@ -198,7 +199,7 @@ PROactive: Number of First and Total Events for Each Component within the Cardio
 
 | First Events n (%) | Total events n | First Events n (%) | Total events n |  |
 | --- | --- | --- | --- | --- |
-| Cardiovascular Events | Placebo N=2633 |  | Pioglitazone Hydrochloride N=2605 |  |
+| cardiovascular events | Placebo N=2633 |  | Pioglitazone Hydrochloride N=2605 |  |
 | Any event | 572 (21.7) | 900 | 514 (19.7) | 803 |
 | All-cause mortality | 122 (4.6) | 186 | 110 (4.2) | 177 |
 | Nonfatal myocardial infarction (MI) | 118 (4.5) | 157 | 105 (4.0) | 131 |
@@ -217,7 +218,7 @@ Tables 10 and 11 summarize the changes in body weight with pioglitazone hydrochl
 Table 10.
 Weight Changes (kg) from Baseline During Randomized, Double-Blind Clinical Trials
 
-| Median (25 th/75 th percentile) | Median (25 th/75 th percentile) | Median (25 th/75 th percentile) | Median (25 th/75 th percentile) |  |  |
+| Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) | Median (25th/75th percentile) |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Control Group (Placebo) | Pioglitazone Hydrochloride 15 mg | Pioglitazone Hydrochloride 30 mg | Pioglitazone Hydrochloride 45 mg |
 | Mono therapy (16 to 26 weeks) |  | -1.4 (-2.7/0.0) N=256 | 0.9 (-0.5/3.4) N=79 | 1.0 (-0.9/3.4) N=188 | 2.6 (0.2/5.4) N=79 |
@@ -228,10 +229,10 @@ Weight Changes (kg) from Baseline During Randomized, Double-Blind Clinical Trial
 Table 11.
 Median Change in Body Weight in Patients Treated with Pioglitazone Hydrochloride Versus Patients Treated with Placebo During the Double-Blind Treatment Period in the PROactive Trial
 
-| Median (25 th/75 th percentile) | Median (25 th/75 th percentile) |  |
+| Median (25th/75th percentile) | Median (25th/75th percentile) |  |
 | --- | --- | --- |
 |  | Placebo | Pioglitazone Hydrochloride |
-| Change from Baseline to Final Visit (kg) | -0.5 (-3.3, 2.0) N=2581 | +3.6 (0.0, 7.5) N=2560 |
+| Change from Baseline to final visit (kg) | -0.5 (-3.3, 2.0) N=2581 | +3.6 (0.0, 7.5) N=2560 |
 
 Note: Median exposure for both pioglitazone hydrochloride
 
@@ -264,7 +265,7 @@ Adverse Events of Edema in Patients in the PROactive Trial
 Note: The preferred terms of edema peripheral, generalized edema, pitting edema and fluid retention were combined to form the aggregate term of "edema."
 
 Hepatic Effects There has been no evidence of induced hepatotoxicity in the pioglitazone hydrochloride controlled clinical trial database to date.
-One randomized, double-blind, 3-year trial comparing pioglitazone hydrochloride to glyburide as add-on to metformin and insulin therapy was specifically designed to evaluate the incidence of serum ALT elevation to greater than three times the upper limit of the reference range, measured every eight weeks for the first 48 weeks of the trial then every twelve weeks thereafter.
+One randomized, double-blind, 3-year trial comparing pioglitazone hydrochloride to glyburide as add-on to metformin and insulin therapy was specifically designed to evaluate the incidence of serum ALT elevation to greater than three times the upper limit of the reference range, measured every eight weeks for the first 48 weeks of the trial then every 12 weeks thereafter.
 A total of 3/1051 (0.3%) patients treated with pioglitazone hydrochloride and 9/1046 (0.9%) patients treated with glyburide developed ALT values greater than three times the upper limit of the reference range.
 None of the patients treated with pioglitazone hydrochloride in the pioglitazone hydrochloride controlled clinical trial database to date have had a serum ALT greater than three times the upper limit of the reference range and a corresponding total bilirubin greater than two times the upper limit of the reference range, a combination predictive of the potential for severe drug-induced liver injury.
 
@@ -291,8 +292,8 @@ In placebo-controlled monotherapy trials, mean hemoglobin values declined by 2% 
 These changes primarily occurred within the first 4 to 12 weeks of therapy and remained relatively constant thereafter.
 These changes may be related to increased plasma volume associated with pioglitazone hydrochloride therapy and are not likely to be associated with any clinically significant hematologic effects.
 
-Creatine Phosphokinase During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone hydrochloride clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in 9 (0.2%) patients treated with Pioglitazone Hydro chloride (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
-Six of these nine patients continued to receive pioglitazone hydrochloride, two patients were noted to have the CPK elevation on the last day of dosing and one patient discontinued Pioglitazone Hydro chloride due to the elevation.
+Creatine Phosphokinase During protocol-specified measurement of serum creatine phosphokinase (CPK) in pioglitazone hydrochloride clinical trials, an isolated elevation in CPK to greater than 10 times the upper limit of the reference range was noted in nine (0.2%) patients treated with Pioglitazone hydrochloride (values of 2150 to 11400 IU/L) and in no comparator-treated patients.
+Six of these nine patients continued to receive pioglitazone hydrochloride, two patients were noted to have the CPK elevation on the last day of dosing and one patient discontinued pioglitazone hydrochloride due to the elevation.
 These elevations resolved without any apparent clinical sequelae.
 The relationship of these events to pioglitazone hydrochloride therapy is unknown.
 

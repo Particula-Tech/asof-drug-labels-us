@@ -19,7 +19,7 @@ Call your doctor right away if you have any of the following:
 •swelling or fluid retention, especially in the ankles or legs •shortness of breath or trouble breathing, especially when you lie down •an unusually fast increase in weight •unusual tiredness Pioglitazone tablets can have other serious side effects.
 See "What are the possible side effects of pioglitazone tablets?"
 
-What is pioglitazone tablet?
+What is pioglitazone tablets?
 
 Pioglitazone tablets are a prescription medicine used with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
 Pioglitazone tablets are a diabetes medicine called pioglitazone hydrochloride that may be taken alone or with other diabetes medicines.
@@ -49,7 +49,7 @@ Tell your doctor right away if you become pregnant while taking pioglitazone tab
 It is not known if pioglitazone passes into your milk and if it can harm your baby.
 Talk to your doctor about the best way to control your blood glucose levels while breastfeeding.
 
-Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplement.
+Tell your doctor about all the medicines you take including prescription and over the counter medicines, vitamins, and herbal supplements.
 Pioglitazone tablets and some of your other medicines can affect each other.
 You may need to have your dose of pioglitazone tablets or certain other medicines changed.
 Know the medicines you take.
@@ -97,7 +97,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pioglitazone tablets?
 
-•Store pioglitazone tablets at 20 - 25°C (68 - 77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+•Store pioglitazone tablets at 20 to 25°C (68 to 77°F); excursions permitted to 15 to 30°C (59 to 86°F) [see USP Controlled Room Temperature].
 Keep pioglitazone tablets in the original container and protect from light •Keep the pioglitazone tablets bottle tightly closed and keep tablets dry •Keep pioglitazone tablets and all medicines out of the reach of children
 
 General information about the safe and effective use of pioglitazone tablets
@@ -111,7 +111,7 @@ This Medication Guide summarizes the most important information about pioglitazo
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about pioglitazone tablets that is written for healthcare professionals.
 
-For more information, call 1-888-943-3210.
+For more information, call 1-888-943-3210 or 1-855-926-3384.
 
 What are the ingredients in pioglitazone tablets?
 
@@ -125,12 +125,14 @@ Manufactured for:
 
 Macleods Pharma USA Inc.
 
-Plainsboro, NJ 08536
+Princeton, NJ 08540
 
 Manufactured by:
 
 Macleods Pharmaceutical Ltd.
 
-Baddi, Himachal Pradesh, India.
+Baddi, Himachal Pradesh, INDIA.
 
-Revised: December 2016 PM01603504
+Medication Guide available at: www.macleodspharma.com/usa
+
+Revised: November 2022
