@@ -11,9 +11,9 @@ The absolute bioavailability of progesterone is not known.
 Table 1 summarizes the mean pharmacokinetic parameters in postmenopausal women after five oral daily doses of progesterone capsules 100 mg as a soft-gelatin capsule formulation.
 
 TABLE 1.
-Pharmacokinetic Parameters of ProgesteroneCapsules
+Pharmacokinetic Parameters of Progesterone Capsules
 
-| Parameter | ProgesteroneCapsules Daily Dose |  |  |
+| Parameter | Progesterone Capsules Daily Dose |  |  |
 | --- | --- | --- | --- |
 | 100 mg | 200 mg | 300 mg |  |
 | Cmax (ng/mL) | 17.3 ± 21.9 a | 38.1 ± 37.8 | 60.6 ± 72.5 |
@@ -68,12 +68,12 @@ Table 2 summarizes the pharmacokinetic parameters.
 
 TABLE 2.
 Mean (± S.D.)
-Pharmacokinetic Parameters for Estradiol, Estrone and Equilin Following Co-administration of Conjugated Estrogens 0.625 mg and ProgesteroneCapsules 200 mg for 12 Days to Postmenopausal Women
+Pharmacokinetic Parameters for Estradiol, Estrone and Equilin Following Co-administration of Conjugated Estrogens 0.625 mg and Progesterone Capsules 200 mg for 12 Days to Postmenopausal Women
 
 |  | Conjugated Estrogens |  |  | Conjugated Estrogens plus Progesterone Capsules |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Drug | Cmax (ng/mL) | Tmax (hr) | AUC(0-24h) (ng × h/mL) | Cmax (ng/mL) | Tmax (hr) | AUC(0-24h) (ng × h/mL) |
-| Estradiol | 0.037 ± 0.048 | 12.7 ± 9.1 | 0.676 ± 0.737 | 0.030 ± 0.032 | 17.32 ± 1.21 | 0.561 ± 0.572 |
+| Estradiol | 0.037 ± 0.048 | 12.7 ± 9.1 | 0.676 ± 0.737 | 0.030± 0.032 | 17.32 ± 1.21 | 0.561 ± 0.572 |
 | Estrone Total a | 3.68 ± 1.55 | 10.6 ± 6.8 | 61.3 ± 26.36 | 4.93 ± 2.07 | 7.5 ± 3.8 | 85.9 ± 41.2 |
 | Equilin Total a | 2.27 ± 0.95 | 6 ± 4 | 28.8 ± 13 | 3.22 ± 1.13 | 5.3 ± 2.6 | 38.1 ± 20.2 |
 
