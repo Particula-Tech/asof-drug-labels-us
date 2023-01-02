@@ -2,7 +2,7 @@
 
 ## 10.1 Human Experience
 
-In premarketing clinical studies, accidental or intentional overdosage of lurasidone hydrochloride was identified in one patient who ingested an estimated 560 mg of lurasidone hydrochloride.
+In pre-marketing clinical studies, accidental or intentional overdosage of lurasidone hydrochloride was identified in one patient who ingested an estimated 560 mg of lurasidone hydrochloride.
 This patient recovered without sequelae.
 This patient resumed lurasidone hydrochloride treatment for an additional two months.
 

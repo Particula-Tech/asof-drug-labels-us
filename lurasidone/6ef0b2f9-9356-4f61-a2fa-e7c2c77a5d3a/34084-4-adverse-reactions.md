@@ -109,6 +109,46 @@ Table 21: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Pa
 | Restlessness | < 1 | 4 |
 | Note: Figures rounded to the nearest integer * Extrapyramidal symptoms include adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, glabellar reflex abnormal, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus ** Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence |  |  |
 
+Pediatric Patients (10 to 17 years)
+
+Bipolar Depression
+
+The following findings are based on the 6-week, placebo-controlled study for bipolar depression in pediatric patients 10 to 17 years in which lurasidone hydrochloride was administered at daily doses ranging from 20 mg to 80 mg (N=175).
+
+Commonly Observed Adverse Reactions:The most common adverse reactions (incidence ≥ 5%, and at least twice the rate of placebo) in pediatric patients (10 to 17 years) treated with lurasidone hydrochloride were nausea, weight increase, and insomnia.
+
+Adverse Reactions Associated with Discontinuation of Treatment: The incidence of discontinuation due to adverse reactions between lurasidone hydrochloride- and placebo-treated pediatric patients 10 to 17 years was 2% and 2%, respectively.
+
+Adverse Reactions Occurring at an Incidence of 2% or More in Lurasidone Hydrochloride-Treated Patients: Adverse reactions associated with the use of lurasidone hydrochloride (incidence of 2% or greater, rounded to the nearest percent and lurasidone hydrochloride incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in pediatric patients with bipolar depression) are shown in Table 23.
+
+Table 23: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the 6-Week Bipolar Depression Study in Pediatric Patients (10 to 17 years)
+
+|  | Percentage of Patients Reporting Reaction |  |
+| --- | --- | --- |
+| Body System or Organ Class Dictionary-derived Term | Placebo(N=172) | Lurasidone Hydrochloride20 to 80 mg/day(N=175) |
+| Gastrointestinal Disorders |  |  |
+| Nausea | 6 | 16 |
+| Vomiting | 4 | 6 |
+| Abdominal Pain Upper | 2 | 3 |
+| Diarrhea | 2 | 3 |
+| Abdominal Pain | 1 | 3 |
+| General Disorders And Administration Site Conditions |  |  |
+| Fatigue | 2 | 3 |
+| Investigations |  |  |
+| Weight Increased | 2 | 7 |
+| Metabolism and Nutrition Disorders |  |  |
+| Decreased Appetite | 2 | 4 |
+| Nervous System Disorders |  |  |
+| Somnolence* | 6 | 11 |
+| Extrapyramidal symptoms** | 5 | 6 |
+| Dizziness | 5 | 6 |
+| Psychiatric Disorders |  |  |
+| Insomnia | 2 | 5 |
+| Abnormal Dreams | 2 | 2 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |
+| Oropharyngeal Pain | 2 | 2 |
+| Note: Figures rounded to the nearest integer *Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence**EPS includes adverse event terms: akathisia, cogwheel rigidity, dyskinesia, dystonia, hyperkinesia, joint stiffness, muscle rigidity, muscle spasms, musculoskeletal stiffness, oculogyric crisis, parkinsonism, tardive dyskinesia, and tremor |  |  |
+
 Extrapyramidal Symptoms
 
 Bipolar Depression
@@ -154,6 +194,25 @@ Table 27: Incidence of EPS Compared to Placebo in the Adult Adjunctive Therapy B
 
 In the short-term, placebo-controlled bipolar depression studies, data was objectively collected on the Simpson Angus Rating Scale (SAS) for extrapyramidal symptoms (EPS), the Barnes Akathisia Scale (BAS) for akathisia and the Abnormal Involuntary Movement Scale (AIMS) for dyskinesias.
 
+Pediatric Patients (10 to 17 years)
+
+In the 6-week, placebo-controlled study of bipolar depression in pediatric patients 10 to 17 years, the incidence of EPS, excluding events related to akathisia, for lurasidone hydrochloride-treated patients was similar in the lurasidone hydrochloride 20 to 80 mg/day (3.4%) treatment group vs. placebo (3.5%); and the incidence of akathisia-related events for lurasidone hydrochloride-treated patients was 2.9% vs. 3.5% for placebo-treated patients.
+Incidence of EPS by dose is provided in Table 28.
+
+Table 28: Incidence of EPS Compared to Placebo in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
+
+| Adverse Event Term | Placebo(N=172)(%) | Lurasidone Hydrochloride20 to 80 mg/day(N=175)(%) |
+| --- | --- | --- |
+| All EPS events* | 5 | 6 |
+| All EPS events, excluding Akathisia/Restlessness | 4 | 3 |
+| Akathisia | 4 | 3 |
+| Parkinsonism** | < 1 | < 1 |
+| Dystonia*** | 1 | < 1 |
+| Salivary hypersecretion | < 1 | < 1 |
+| Psychomotor hyperactivity | 0 | < 1 |
+| Tardive Dyskinesia | < 1 | 0 |
+| Note: Figures rounded to the nearest integer* EPS include adverse event terms: akathisia, cogwheel rigidity, dyskinesia, dystonia, hyperkinesia, jointstiffness, muscle rigidity, muscle spasms, musculoskeletal stiffness, oculogyric crisis, parkinsonism, tardivedyskinesia, and tremor** Parkinsonism includes adverse event terms: bradykinesia, drooling, extrapyramidal disorder, glabellar reflexabnormal, hypokinesia, parkinsonism, and psychomotor retardation***Dystonia includes adverse event terms: dystonia, oculogyric crisis, oromandibular dystonia, tongue spasm,torticollis, and trismus |  |  |
+
 Bipolar Depression
 
 Adults
@@ -167,6 +226,11 @@ Adjunctive Therapy with Lithium or Valproate
 
 The mean change from baseline for lurasidone hydrochloride-treated adult patients for the SAS, BAS and AIMS was comparable to placebo-treated patients.
 The percentage of patients who shifted from normal to abnormal was greater in lurasidone hydrochloride-treated patients and placebo for the BAS (lurasidone hydrochloride, 8.7%; placebo, 2.1%), the SAS (lurasidone hydrochloride, 2.8%; placebo, 2.1%) and the AIMS (lurasidone hydrochloride, 2.8%; placebo, 0.6%).
+
+Pediatric Patients (10 to 17 years)
+
+The mean change from baseline for lurasidone hydrochloride-treated pediatric patients 10 to 17 years with bipolar depression for the SAS, BAS and AIMS was comparable to placebo-treated patients.
+The percentage of patients who shifted from normal to abnormal was greater in lurasidone hydrochloride-treated patients and placebo for the BAS (lurasidone hydrochloride, 4.6%; placebo, 2.4%), the SAS (lurasidone hydrochloride, 0.6%; placebo, 0%) and was the same for the AIMS (lurasidone hydrochloride, 0%; placebo, 0%).
 
 Dystonia
 
@@ -188,6 +252,11 @@ Adjunctive Therapy with Lithium or Valproate
 
 In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, dystonia occurred in 1.1% of lurasidone hydrochloride-treated subjects (20 mg to 120 mg) compared to 0.6% of subjects receiving placebo.
 No subject discontinued the clinical study due to dystonic events.
+
+Pediatric Patients (10 to 17 years)
+
+In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, dystonia occurred in 0.6% of lurasidone hydrochloride-treated patients compared to 1.2% of patients receiving placebo.
+No patients discontinued the clinical study due to dystonic events.
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Lurasidone Hydrochloride
 
@@ -221,7 +290,7 @@ Psychiatric Disorders: Infrequent: abnormal dreams, panic attack, sleep disorder
 
 Renal and Urinary Disorders: Infrequent: dysuria; Rare: renal failure
 
-Reproductive System and Breast Disorders: Infrequent: amenorrhea, dysmenorrhea; Rare: breast enlargement, breast pain, galactorrhea, erectile dysfunction
+Reproductive System and Breast Disorders: Infrequent: amenorrhea, dysmenorrhea; Rare: breast enlargement, breast pain, galactorrhea, erectile dysfunction, priapism
 
 Skin and Subcutaneous Tissue Disorders: Frequent: rash, pruritus; Rare: angioedema
 
@@ -255,10 +324,23 @@ Table 32: Serum Creatinine Shifts from Normal at Baseline to High at Study End-P
 | --- | --- | --- |
 | Serum Creatinine Elevated | 2% | 4% |
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients (10 to 17 years)
 
-## 6.2 Postmarketing Experience
+Serum Creatinine: In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, the mean change from Baseline in serum creatinine was +0.021 mg/dL for lurasidone hydrochloride-treated patients compared to +0.009 mg/dL for placebo-treated patients.
+A creatinine shift from normal to high (based on the centralized laboratory definition) occurred in 6.7% (11/163) of lurasidone hydrochloride-treated patients and 4.5% (7/155) on placebo (Table 33).
+
+Table 33: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
+
+| Laboratory Parameter | Placebo(N=155) | Lurasidone Hydrochloride20 to 80 mg/day(N=163) |
+| --- | --- | --- |
+| Serum Creatinine Elevated | 4.5% | 6.7% |
+
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study in pediatric patients with bipolar depression, autistic disorder, or another indication, the mean change from baseline to Week 104 in serum creatinine was +0.07 mg/dL.
+In patients with a normal serum creatinine at baseline, 6% experienced a shift to high at endpoint.
+
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during postapproval use of lurasidone hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

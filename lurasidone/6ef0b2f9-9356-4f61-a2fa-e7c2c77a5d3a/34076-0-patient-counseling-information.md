@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Suicidal Thoughts and Behavior
 
-Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Boxed Warning, Warning and Precautions (5.2)].
+Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Boxed Warning, Warnings and Precautions (5.2)].
 
 Neuroleptic Malignant Syndrome
 
@@ -62,4 +62,4 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2021-01
+12-2022-02

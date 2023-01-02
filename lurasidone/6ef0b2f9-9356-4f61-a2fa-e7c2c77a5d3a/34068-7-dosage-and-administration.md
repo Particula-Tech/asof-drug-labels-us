@@ -10,10 +10,16 @@ Lurasidone hydrochloride tablets have been shown to be effective in a dose range
 The maximum recommended dose, as monotherapy or as adjunctive therapy with lithium or valproate, is 120 mg per day.
 In the monotherapy study, the higher dose range (80 mg to 120 mg per day) did not provide additional efficacy, on average, compared to the lower dose range (20 mg to 60 mg per day) [see Clinical Studies (14.2)].
 
-The efficacy of lurasidone hydrochloride tablets in the treatment of mania associated with bipolar disorder has not been established.
+Pediatric Patients (10 to 17 years)
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+The recommended starting dose of lurasidone hydrochloride tablet is 20 mg given once daily as monotherapy.
+Initial dose titration is not required.
+The dose may be increased after one week based on clinical response.
+Lurasidone hydrochloride tablet has been shown to be effective in a dose range of 20 mg per day to 80 mg per day as monotherapy.
+At the end of the clinical study, most of the patients (67%) received 20 mg or 40 mg once daily [see Clinical Studies (14.2)].
+The maximum recommended dose is 80 mg per day.
+
+The efficacy of lurasidone hydrochloride tablets in the treatment of mania associated with bipolar disorder has not been established.
 
 ## 2.3 Administration Information
 

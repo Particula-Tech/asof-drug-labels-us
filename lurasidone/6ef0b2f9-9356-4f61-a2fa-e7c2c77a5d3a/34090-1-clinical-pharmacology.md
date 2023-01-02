@@ -68,7 +68,8 @@ Studies in Specific Populations
 
 The effect of intrinsic patient factors on the pharmacokinetics of lurasidone hydrochloride is presented in Figure 3.
 
-Figure 3: Impact of Other Patient Factors on Lurasidone Hydrochloride Pharmacokinetics
+Pediatric Patients
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Lurasidone hydrochloride exposure (i.e. steady-state Cmax and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 mg to 160 mg, without adjusting for body weight.
+
+Figure 3: Impact of Other Patient Factors on Lurasidone Hydrochloride Pharmacokinetics

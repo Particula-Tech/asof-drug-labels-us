@@ -40,5 +40,25 @@ Table 37: Primary Efficacy Results for Adult Studies in Depressive Episodes Asso
 | Placebo + lithium or valproate | 30.8 (4.8) | -13.5 (0.9) | -- |  |
 | SD: standard deviation; SE: standard error; LS Mean: least‐squares mean; CI: confidence interval, unadjusted for multiple comparisons. a Difference (drug minus placebo) in least‐squares mean change from baseline. * Treatment group statistically significantly superior to placebo. |  |  |  |  |
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients (10 to 17 years)
+
+The efficacy of lurasidone hydrochloride was established in a 6-week, multicenter, randomized, double-blind, placebo-controlled study of pediatric patients (10 to 17 years) who met DSM-5 criteria for a major depressive episode associated with bipolar I disorder, with or without rapid cycling, and without psychotic features (N=343).
+Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 80 mg/day or placebo.
+At the end of the clinical study, most patients (67%) received 20 mg/day or 40 mg/day.
+
+The primary rating scale used to assess depressive symptoms in this study was the Children’s Depression Rating Scale, Revised (CDRS-R) total score.
+The CDRS-R is a 17-item clinician- rated scale with total scores ranging from 17 to 113.
+The primary endpoint was the change from baseline in CDRS-R score at Week 6.
+The key secondary endpoint was the change from baseline in CGI-BP-S depression score.
+
+Lurasidone hydrochloride was superior to placebo in reduction of CDRS-R total score and CGI-BP-S depression score at Week 6.
+The primary efficacy results are provided in Table 38.
+
+Table 38: Primary Efficacy Results for the Study in Depressive Episodes Associated with Bipolar I Disorder (CDRS-R Total Score) in Pediatric Patients (10 to 17 years)
+
+| Treatment Group | Primary Efficacy Measure: CDRS-R |  |  |
+| --- | --- | --- | --- |
+| Mean Baseline Score (SD) | LS Mean Change from Baseline (SE) | Placebo-subtracted Differencea(95% CI) |  |
+| Lurasidone hydrochloride (20 to 80 mg/day)* | 59.2 (8.24) | -21.0 (1.06) | -5.7 (-8.4,-3.0) |
+| Placebo | 58.6 (8.26) | -15.3 (1.08) | -- |
+| SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval, unadjusted for multiple comparisons. a Difference (drug minus placebo) in least-squares mean change from baseline.* Treatment group statistically significantly superior to placebo. |  |  |  |

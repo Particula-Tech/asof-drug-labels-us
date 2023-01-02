@@ -127,6 +127,15 @@ Table 5: Change in Fasting Glucose in the Adult Adjunctive Therapy Bipolar Depre
 
 In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in glucose of +1.7 mg/dL at week 24 (n=88).
 
+Pediatric Patients (10 to 17 years)
+
+In studies of pediatric patients 10 to 17 years and adults with bipolar depression, changes in fasting glucose were similar.
+In the 6-week, placebo-controlled study of pediatric patients with bipolar depression, mean change in fasting glucose was +1.6 mg/dL for lurasidone hydrochloride 20 to 80 mg/day (n=145) and -0.5 mg/dL for placebo (n=145).
+
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study in pediatric patients with bipolar depression, autistic disorder, or another indication, 7 % of patients with a normal baseline fasting glucose experienced a shift to high at endpoint while taking lurasidone.
+
 Dyslipidemia
 
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
@@ -175,6 +184,15 @@ Table 8: Change in Fasting Lipids in the Adult Adjunctive Therapy Bipolar Depres
 
 In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in total cholesterol and triglycerides of -0.9 (n=88) and +5.3 (n=88) mg/dL at week 24, respectively.
 
+Pediatric Patients (10 to 17 years)
+
+In the 6-week, placebo-controlled bipolar depression study with pediatric patients 10 to 17 years, mean change in fasting cholesterol was -6.3 mg/dL for lurasidone hydrochloride 20 to 80 mg/day (n=144) and -1.4 mg/dL for placebo (n=145), and mean change in fasting triglyceride was -7.6 mg/dL for lurasidone hydrochloride 20 to 80 mg/day (n=144) and +5.9 mg/dL for placebo (n=145).
+
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study of pediatric patients with bipolar depression, autistic disorder, or another indication, shifts in baseline fasting cholesterol from normal to high at endpoint were reported in 12% (total cholesterol), 3% (LDL cholesterol), and shifts in baseline from normal to low were reported in 27% (HDL cholesterol) of patients taking lurasidone.
+Of patients with normal baseline fasting triglycerides, 12% experienced shifts to high.
+
 Weight Gain
 
 Weight gain has been observed with atypical antipsychotic use.
@@ -216,8 +234,26 @@ Table 12: Mean Change in Weight (kg) from Baseline in the Adult Adjunctive Thera
 
 In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate in the short-term and continued in the longer-term study, had a mean change in weight of +1.28 kg at week 24 (n=86).
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients (10 to 17 years)
+
+Data from the 6-week, placebo-controlled bipolar depression study in patients 10 to 17 years are presented in Table 13.
+The mean change in weight gain was +0.7 kg for lurasidone hydrochloride-treated patients compared to +0.5 kg for placebo-treated patients.
+The proportion of patients with a ≥ 7% increase in body weight (at Endpoint) was 4.0% for lurasidone hydrochloride-treated patients and 5.3% for placebo-treated patients.
+
+Table 13: Mean Change in Weight (kg) from Baseline in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
+
+|  |  | Lurasidone Hydrochloride |
+| --- | --- | --- |
+|  | Placebo(n=170) | 20 to 80 mg/day(n=175) |
+| All Patients | +0.5 | +0.7 |
+
+Pediatric Patients (6 to 17 years)
+
+In a long-term, open-label study that enrolled pediatric patients with bipolar depression, autistic disorder or another indication, from three short-term, placebo-controlled trials, 54% (378/701) received lurasidone for 104 weeks.
+The mean increase in weight from open-label baseline to Week 104 was 5.85 kg.
+To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of children and adolescents by comparisons to age- and sex-matched population standards.
+A z-score change < 0.5 SD is considered not clinically significant.
+In this trial, the mean change in z-score from open-label baseline to Week 104 was -0.06 SD for body weight and -0.13 SD for body mass index (BMI), indicating minimal deviation from the normal curve for weight gain.
 
 ## 5.7 Hyperprolactinemia
 
@@ -280,8 +316,32 @@ The proportion of male patients with prolactin elevations ≥ 5x ULN was 0% and 
 
 In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate, in the short-term and continued in the longer-term study, had a median change in prolactin of -2.9 ng/mL at week 24 (n=88).
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients (10 to 17 years)
+
+In the 6-week, placebo-controlled bipolar depression study with pediatric patients 10 to 17 years, the median change from baseline to endpoint in prolactin levels for lurasidone hydrochloride-treated patients was +1.10 ng/mL and was +0.50 ng/mL for placebo-treated patients.
+For lurasidone hydrochloride-treated patients, the median change from baseline to endpoint for males was +0.85 ng/mL and for females was +2.50 ng/mL.
+Median changes for prolactin are shown in Table 18.
+
+Table 18: Median Change in Prolactin (ng/mL) from Baseline in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
+
+|  |  | Lurasidone Hydrochloride |
+| --- | --- | --- |
+|  | Placebo | 20 to 80 mg/day |
+| All Patients | +0.50(n=157) | +1.10 (n=165) |
+| Females | +0.55 (n=78) | +2.50 (n=83) |
+| Males | +0.50 (n=79) | +0.85 (n=82) |
+
+The proportion of patients with prolactin elevations ≥ 5x ULN was 0% for lurasidone hydrochloride-treated patients and 0.6% for placebo-treated patients.
+The proportion of female patients with prolactin elevations ≥ 5x ULN was 0% for lurasidone hydrochloride-treated patients and 1.3% for placebo-treated female patients.
+No male patients in the placebo or lurasidone hydrochloride treatment groups had prolactin elevations ≥ 5x ULN.
+
+Pediatric Patients (6 to 17 years)
+
+In a 104-week, open-label study of pediatric patients with bipolar depression, autistic disorder, or another indication, the median changes from baseline to endpoint in serum prolactin levels were -0.20 ng/mL (all patients), -0.30 ng/mL (females), and -0.05 ng/mL (males).
+The proportions of patients with a markedly high prolactin level (≥5 times the upper limit of normal) at any time during open-label treatment were 2% (all patients), 3% (females), and 1% (males).
+
+Adverse events among females in this trial that are potentially prolactin-related include galactorrhea (0.6%).
+Among male patients in this study, decreased libido was reported in one patient (0.2%) and there were no reports of impotence, gynecomastia, or galactorrhea.
 
 ## 5.8 Leukopenia, Neutropenia and Agranulocytosis
 
@@ -309,6 +369,7 @@ Bipolar Depression Adults
 Monotherapy
 
 In the adult short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, there were no reported adverse events of orthostatic hypotension and syncope.
+
 Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 0.6% with lurasidone hydrochloride 20 mg to 60 mg and 0.6% with lurasidone hydrochloride 80 mg to 120 mg compared to 0% with placebo.
 
 Adjunctive Therapy with Lithium or Valproate
@@ -316,8 +377,11 @@ Adjunctive Therapy with Lithium or Valproate
 In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression therapy studies, there were no reported adverse events of orthostatic hypotension and syncope.
 Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with lurasidone hydrochloride 20 mg to 120 mg compared to 0.9% with placebo.
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients (10 to 17 years)
+
+In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, there were no reported adverse events of orthostatic hypotension or syncope.
+
+Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with lurasidone hydrochloride 20 to 80 mg/day, compared to 0.6% with placebo.
 
 ## 5.10 Falls
 
@@ -331,14 +395,11 @@ Conditions that lower the seizure threshold may be more prevalent in patients 65
 
 Bipolar Depression Monotherapy
 
-In the adult 6-week, flexible-dose, placebo-controlled monotherapy bipolar depression study, no patients experienced seizures/convulsions.
+In the adult and pediatric 6-week, flexible-dose, placebo-controlled monotherapy bipolar depression studies, no patients experienced seizures/convulsions.
 
 Adjunctive Therapy with Lithium or Valproate
 
 In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, no patient experienced seizures/convulsions.
-
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
@@ -359,8 +420,9 @@ Adjunctive Therapy with Lithium or Valproate
 
 In the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies, somnolence was reported by 11.4% (41/360) of patients treated with lurasidone hydrochloride 20 mg to 120 mg compared to 5.1% (17/334) of placebo patients.
 
-Pediatric use information is approved for Sunovion Pharmaceuticals Inc.’s Latuda® (lurasidone hydrochloride) tablets.
-However, due to Sunovion Pharmaceuticals Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Patients (10 to 17 years)
+
+In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, somnolence was reported by 11.4% (20/175) of patients treated with lurasidone hydrochloride 20 to 80 mg/day compared to 5.8% (10/172) of placebo treated patients.
 
 ## 5.13 Body Temperature Dysregulation
 
