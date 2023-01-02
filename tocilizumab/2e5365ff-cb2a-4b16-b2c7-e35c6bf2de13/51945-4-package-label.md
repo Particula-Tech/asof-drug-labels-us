@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 4 mL Vial Box
+# PRINCIPAL DISPLAY PANEL - 80 mg/4 mL Vial Carton
 
 NDC 50242-135-01
 
@@ -9,7 +9,7 @@ Actemra® (tocilizumab) Injection
 (20 mg/mL)
 
 For Intravenous Infusion only after dilution.
-Single-Dose Vial; Discard unused portion
+Single-Dose Vial; Discard unusued portion
 
 ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
 
@@ -19,9 +19,9 @@ Rx only
 
 Genentech
 
-10241776
+11001081
 
-# PRINCIPAL DISPLAY PANEL - 10 mL Vial Box
+# PRINCIPAL DISPLAY PANEL - 200 mg/10 mL Vial Carton
 
 NDC 50242-136-01
 
@@ -32,7 +32,7 @@ Actemra® (tocilizumab) Injection
 (20 mg/mL)
 
 For Intravenous Infusion only after dilution.
-Single-Dose Vial; Discard unused portion
+Single-Dose Vial; Discard unusued portion
 
 ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
 
@@ -42,9 +42,9 @@ Rx only
 
 Genentech
 
-10241771
+11001065
 
-# PRINCIPAL DISPLAY PANEL - 20 mL Vial Box
+# PRINCIPAL DISPLAY PANEL - 400 mg/20 mL Vial Carton
 
 NDC 50242-137-01
 
@@ -55,7 +55,7 @@ Actemra® (tocilizumab) Injection
 (20 mg/mL)
 
 For Intravenous Infusion only after dilution.
-Single-Dose Vial; Discard unused portion
+Single-Dose Vial; Discard unusued portion
 
 ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
 
@@ -65,9 +65,9 @@ Rx only
 
 Genentech
 
-10241779
+11001057
 
-# PRINCIPAL DISPLAY PANEL - 0.9 mL Syringe Box
+# PRINCIPAL DISPLAY PANEL - 162 mg/0.9 mL Prefilled Syringe Carton
 
 NDC 50242-138-01
 
@@ -75,7 +75,7 @@ Rx only
 
 Actemra® (tocilizumab) Injection
 
-162 mg / 0.9 mL
+162 mg/0.9 mL
 
 For Subcutaneous Injection Only
 
@@ -91,11 +91,11 @@ Each Prefilled Syringe Contains: 162 mg/0.9 mL
 
 Genentech
 
-⬇ TO OPEN ⬇
+↓ TO OPEN ↓
 
 10249853
 
-# PRINCIPAL DISPLAY PANEL - 0.9 mL Autoinjector Box
+# PRINCIPAL DISPLAY PANEL - 162 mg/0.9 mL Autoinjector Carton
 
 NDC 50242-143-01
 
@@ -103,11 +103,9 @@ Rx only
 
 Actemra® ACTPen® (tocilizumab) Injection
 
-162 mg / 0.9 mL
+162 mg/0.9 mL
 
-For Subcutaneous Injection Only
-
-Sterile
+For Subcutaneous Injection Only Sterile
 
 ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medication Guide.
 
@@ -123,6 +121,6 @@ Refer to instructions for use.
 
 Genentech
 
-⬇ TO OPEN ⬇
+↓ TO OPEN ↓
 
 10249859

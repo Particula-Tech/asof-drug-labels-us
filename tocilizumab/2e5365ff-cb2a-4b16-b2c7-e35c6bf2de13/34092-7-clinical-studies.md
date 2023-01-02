@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Rheumatoid Arthritis—Intravenous Administration
+## 14.1 Rheumatoid Arthritis – Intravenous Administration
 
 The efficacy and safety of intravenously administered ACTEMRA was assessed in five randomized, double-blind, multicenter studies in patients greater than 18 years with active rheumatoid arthritis diagnosed according to American College of Rheumatology (ACR) criteria.
 Patients had at least 8 tender and 6 swollen joints at baseline.
@@ -33,12 +33,12 @@ The primary endpoint was the proportion of patients who achieved an ACR 20 respo
 
 Clinical Response
 
-The percentages of intravenous ACTEMRA-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 3.
+The percentages of intravenous ACTEMRA-treated patients achieving ACR 20, 50 and 70 responses are shown in Table 4.
 In all intravenous studies, patients treated with 8 mg per kg ACTEMRA had higher ACR 20, ACR 50, and ACR 70 response rates versus MTX- or placebo-treated patients at week 24.
 
 During the 24 week controlled portions of Studies I to V, patients treated with ACTEMRA at a dose of 4 mg per kg in patients with inadequate response to DMARDs or TNF antagonist therapy had lower response rates compared to patients treated with ACTEMRA 8 mg per kg.
 
-Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous ACTEMRA (Percent of Patients)
+Table 4 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Trials of Intravenous ACTEMRA (Percent of Patients)
 
 |  | (95% CI)CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) |  | (95% CI) | (95% CI) |  | (95% CI) | (95% CI) |  | (95% CI) |  | (95% CI) | (95% CI) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -59,9 +59,9 @@ Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | Week 52 | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg ACTEMRA + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
-The proportion of ACTEMRA-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 4.
+The proportion of ACTEMRA-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 5.
 
-Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous ACTEMRA
+Table 5 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous ACTEMRA
 
 |  | Placebo + MTX N = 393 | ACTEMRA 4 mg per kg + MTX N = 399 | ACTEMRA 8 mg per kg + MTX N = 398 |
 | --- | --- | --- | --- |
@@ -74,10 +74,10 @@ Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Resid
 | Of responders, proportion with 3 or more active joints (n) | 33% (4) | 41% (29) | 47% (59) |
 | *n denotes numerator of all the percentage. Denominator is the intent-to-treat population. Not all patients received DAS28 assessments at Week 52. |  |  |  |
 
-The results of the components of the ACR response criteria for Studies III and V are shown in Table 5.
+The results of the components of the ACR response criteria for Studies III and V are shown in Table 6.
 Similar results to Study III were observed in Studies I, II and IV.
 
-Table 5 Components of ACR Response at Week 24 in Trials of Intravenous ACTEMRA
+Table 6 Components of ACR Response at Week 24 in Trials of Intravenous ACTEMRA
 
 | Component (mean) | Baseline | Week 24Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -102,10 +102,10 @@ Radiographic Response
 
 In Study II, structural joint damage was assessed radiographically and expressed as change in total Sharp-Genant score and its components, the erosion score and joint space narrowing score.
 Radiographs of hands/wrists and forefeet were obtained at baseline, 24 weeks, 52 weeks, and 104 weeks and scored by readers unaware of treatments group and visit number.
-The results from baseline to week 52 are shown in Table 6.
+The results from baseline to week 52 are shown in Table 7.
 ACTEMRA 4 mg per kg slowed (less than 75% inhibition compared to the control group) and ACTEMRA 8 mg per kg inhibited (at least 75% inhibition compared to the control group) the progression of structural damage compared to placebo plus MTX at week 52.
 
-Table 6 Mean Radiographic Change from Baseline to Week 52 in Study II
+Table 7 Mean Radiographic Change from Baseline to Week 52 in Study II
 
 |  | N=294 | N=343 | N=353 |
 | --- | --- | --- | --- |
@@ -139,7 +139,7 @@ General health status was assessed by the Short Form Health Survey (SF-36) in St
 
 Cardiovascular Outcomes
 
-Study WA25204 (NCT01331837) was a randomized, open-label (sponsor-blinded), 2-arm parallel-group, multi-center, non-inferiority, cardiovascular (CV) outcomes trial in patients with a diagnosis of moderate to severe RA.
+Study WA25204 (NCT01331837) was a randomized, open-label (sponsor-blinded), 2-arm parallel-group, multicenter, non-inferiority, cardiovascular (CV) outcomes trial in patients with a diagnosis of moderate to severe RA.
 This CV safety study was designed to exclude a moderate increase in CV risk in patients treated with ACTEMRA compared with a TNF inhibitor standard of care (etanercept).
 
 The study included 3,080 seropositive RA patients with active disease and an inadequate response to non-biologic disease-modifying anti-rheumatic drugs, who were aged ≥50 years with at least one additional CV risk factor beyond RA.
@@ -149,7 +149,7 @@ The primary endpoint was the comparison of the time-to-first occurrence of any c
 Non-inferiority of ACTEMRA to etanercept for cardiovascular risk was determined by excluding >80% relative increase in the risk of MACE.
 The estimated hazard ratio (HR) for the risk of MACE comparing ACTEMRA to etanercept was 1.05; 95% CI (0.77, 1.43).
 
-## 14.2 Rheumatoid Arthritis—Subcutaneous Administration
+## 14.2 Rheumatoid Arthritis – Subcutaneous Administration
 
 The efficacy and safety of subcutaneously administered ACTEMRA was assessed in two double-blind, controlled, multicenter studies in patients with active RA.
 One study, SC-I (NCT01194414), was a non-inferiority study that compared the efficacy and safety of ACTEMRA 162 mg administered every week subcutaneously to 8 mg per kg intravenously every four weeks.
@@ -161,14 +161,14 @@ In SC-I, 1262 patients were randomized 1:1 to receive ACTEMRA-SC 162 mg every we
 In SC-II, 656 patients were randomized 2:1 to ACTEMRA-SC 162 mg every other week or placebo, in combination with DMARD(s).
 The primary endpoint in both studies was the proportion of patients who achieved an ACR20 response at Week 24.
 
-The clinical response to 24 weeks of ACTEMRA-SC therapy is shown in Table 7.
+The clinical response to 24 weeks of ACTEMRA-SC therapy is shown in Table 8.
 In SC-I, the primary outcome measure was ACR20 at Week 24.
 The pre-specified non-inferiority margin was a treatment difference of 12%.
-The study demonstrated non-inferiority of ACTEMRA with respect to ACR20 at Week 24; ACR50, ACR70, and DAS28 responses are also shown in Table 7.
-In SC-II, a greater portion of patients treated with ACTEMRA 162 mg subcutaneously every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 7).
-Further, a greater proportion of patients treated with ACTEMRA 162 mg subcutaneously every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 7).
+The study demonstrated non-inferiority of ACTEMRA with respect to ACR20 at Week 24; ACR50, ACR70, and DAS28 responses are also shown in Table 8.
+In SC-II, a greater portion of patients treated with ACTEMRA 162 mg subcutaneously every other week achieved ACR20, ACR50, and ACR70 responses compared to placebo-treated patients (Table 8).
+Further, a greater proportion of patients treated with ACTEMRA 162 mg subcutaneously every other week achieved a low level of disease activity as measured by a DAS28-ESR less than 2.6 at Week 24 compared to those treated with placebo (Table 8).
 
-Table 7 Clinical Response at Week 24 in Trials of Subcutaneous ACTEMRA (Percent of Patients)
+Table 8 Clinical Response at Week 24 in Trials of Subcutaneous ACTEMRA (Percent of Patients)
 
 |  | N=558 | N=537 | N=437 | N=219 |
 | --- | --- | --- | --- | --- |
@@ -209,7 +209,7 @@ General health status was assessed by the SF-36 in Studies SC-I and SC-II.
 In Study SC-II, patients receiving ACTEMRA every other week demonstrated greater improvement from baseline compared to placebo in the PCS, MCS, and in all 8 domains of the SF-36.
 In Study SC-I, improvements in these scores were similar between ACTEMRA-SC every week and ACTEMRA-IV 8 mg/kg.
 
-## 14.3 Giant Cell Arteritis—Subcutaneous Administration
+## 14.3 Giant Cell Arteritis – Subcutaneous Administration
 
 The efficacy and safety of subcutaneously administered ACTEMRA was assessed in a single, randomized, double-blind, multicenter study in patients with active GCA.
 In Study WA28119 (NCT01791153), 251 screened patients with new-onset or relapsing GCA were randomized to one of four treatment arms.
@@ -221,10 +221,10 @@ Each of the ACTEMRA-treated groups and one of the placebo-treated groups followe
 
 The primary efficacy endpoint was the proportion of patients achieving sustained remission from Week 12 through Week 52.
 Sustained remission was defined by a patient attaining a sustained (1) absence of GCA signs and symptoms from Week 12 through Week 52, (2) normalization of erythrocyte sedimentation rate (ESR) (to < 30 mm/hr without an elevation to ≥ 30 mm/hr attributable to GCA) from Week 12 through Week 52, (3) normalization of C-reactive protein (CRP) (to < 1 mg/dL, with an absence of successive elevations to ≥ 1mg/dL) from Week 12 through Week 52, and (4) successful adherence to the prednisone taper defined by not more than 100 mg of excess prednisone from Week 12 through Week 52.
-ACTEMRA 162 mg weekly and 162 mg every other week + 26 weeks prednisone taper both showed superiority in achieving sustained remission from Week 12 through Week 52 compared with placebo + 26 weeks prednisone taper (Table 8).
-Both ACTEMRA treatment arms also showed superiority compared to the placebo + 52 weeks prednisone taper (Table 8).
+ACTEMRA 162 mg weekly and 162 mg every other week + 26 weeks prednisone taper both showed superiority in achieving sustained remission from Week 12 through Week 52 compared with placebo + 26 weeks prednisone taper (Table 9).
+Both ACTEMRA treatment arms also showed superiority compared to the placebo + 52 weeks prednisone taper (Table 9).
 
-Table 8 Efficacy Results from Study WA28119
+Table 9 Efficacy Results from Study WA28119
 
 |  | PBO + 26 weeks prednisone taper N=50 | PBO + 52 weeks prednisone taper N=51 | TCZ 162mg SC QW + 26 weeks prednisone taper N=100 | TCZ 162 mg SC Q2W + 26 weeks prednisone taper N=49 |
 | --- | --- | --- | --- | --- |
@@ -274,7 +274,7 @@ Of the 212 patients who were randomized in Study WA29767, 68 patients (65%) in t
 The mean ppFVC at baseline for patients with SSc-ILD identified by HRCT was 79.6% (median 80.5%).
 Post-hoc analyses were performed to evaluate results within the subgroups of patients with and without SSc-ILD.
 
-Table 9 shows results from Study WA29767 for the changes from baseline to Week 48 in ppFVC, observed FVC, and mRSS both in the overall population and within subgroups based on SSc-ILD status at baseline.
+Table 10 shows results from Study WA29767 for the changes from baseline to Week 48 in ppFVC, observed FVC, and mRSS both in the overall population and within subgroups based on SSc-ILD status at baseline.
 The ppFVC and observed FVC results in the overall population were primarily driven by results in the SSc-ILD subgroup.
 In the SSc-ILD subgroup, the differences in mean changes from baseline to Week 48 for ACTEMRA, as compared to placebo, were 6.47% and 241 mL for ppFVC and observed FVC, respectively.
 Figure 2 illustrates the mean change from baseline through Week 48 in observed FVC in patients with SSc-ILD.
@@ -282,7 +282,7 @@ Figure 2 illustrates the mean change from baseline through Week 48 in observed F
 The results of the key FVC secondary endpoints from Study WA29767 support a conclusion of effectiveness of ACTEMRA in reducing the rate of progressive loss of lung function in the study population.
 However, in settings where a trial does not provide evidence of an effect on the primary endpoint, the estimated magnitude of effect on other endpoints should be interpreted with caution, and comparisons to results of other products and studies may be misleading.
 
-Table 9 Efficacy Results from Study WA29767
+Table 10 Efficacy Results from Study WA29767
 
 | Number of patients | 106 | 104 | 36 | 34 | 68 | 68 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -304,7 +304,7 @@ Figure 2 Mean Change from Baseline to Week 48 in Observed Forced Vital Capacity 
 | PBO = placebo; TCZ = tocilizumab; QW = every week dose |
 | --- |
 
-## 14.6 Polyarticular Juvenile Idiopathic Arthritis—Intravenous Administration
+## 14.6 Polyarticular Juvenile Idiopathic Arthritis – Intravenous Administration
 
 The efficacy of ACTEMRA was assessed in a three-part study, WA19977 (NCT00988221), including an open-label extension in children 2 to 17 years of age with active polyarticular juvenile idiopathic arthritis (PJIA), who had an inadequate response to methotrexate or inability to tolerate methotrexate.
 Patients had at least 6 months of active disease (mean disease duration of 4.2 ± 3.7 years), with at least five joints with active arthritis (swollen or limitation of movement accompanied by pain and/or tenderness) and/or at least 3 active joints having limitation of motion (mean, 20 ± 14 active joints).
@@ -328,7 +328,7 @@ ACTEMRA treated patients experienced significantly fewer disease flares compared
 
 During the withdrawal phase (Part II), more patients treated with ACTEMRA showed JIA ACR 30/50/70 responses at Week 40 compared to patients withdrawn to placebo.
 
-## 14.7 Polyarticular Juvenile Idiopathic Arthritis—Subcutaneous Administration
+## 14.7 Polyarticular Juvenile Idiopathic Arthritis – Subcutaneous Administration
 
 Subcutaneously administered ACTEMRA in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) was assessed in WA28117 (NCT01904279), a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of ACTEMRA that achieved comparable PK/PD profiles to the ACTEMRA-IV regimen.
 PJIA patients aged 1 to 17 years with an inadequate response or inability to tolerate MTX, including patients with well-controlled disease on treatment with ACTEMRA-IV and ACTEMRA-naïve patients with active disease, were treated with subcutaneous ACTEMRA based on body weight.
@@ -338,7 +338,7 @@ Of these 52 patients, 37 (71%) were naive to ACTEMRA and 15 (29%) had been recei
 
 The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in polyarticular JIA patients and subcutaneous ACTEMRA in patients with RA [see Clinical Pharmacology (12.3) and Clinical Studies (14.2 and 14.6)].
 
-## 14.8 Systemic Juvenile Idiopathic Arthritis—Intravenous Administration
+## 14.8 Systemic Juvenile Idiopathic Arthritis – Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of active SJIA was assessed in WA18221 (NCT00642460), a 12-week randomized, double blind, placebo-controlled, parallel group, 2-arm study.
 Patients treated with or without MTX, were randomized (ACTEMRA:placebo = 2:1) to one of two treatment groups: 75 patients received ACTEMRA infusions every two weeks at either 8 mg per kg for patients at or above 30 kg or 12 mg per kg for patients less than 30 kg and 37 were randomized to receive placebo infusions every two weeks.
@@ -349,9 +349,9 @@ The primary endpoint was the proportion of patients with at least 30% improvemen
 JIA ACR (American College of Rheumatology) responses are defined as the percentage improvement (e.g., 30%, 50%, 70%) in 3 of any 6 core outcome variables compared to baseline, with worsening in no more than 1 of the remaining variables by 30% or more.
 Core outcome variables consist of physician global assessment, parent per patient global assessment, number of joints with active arthritis, number of joints with limitation of movement, erythrocyte sedimentation rate (ESR), and functional ability (childhood health assessment questionnaire-CHAQ).
 
-Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 10.
+Primary endpoint result and JIA ACR response rates at Week 12 are shown in Table 11.
 
-Table 10 Efficacy Findings at Week 12
+Table 11 Efficacy Findings at Week 12
 
 |  | ACTEMRA N=75 | Placebo N=37 |
 | --- | --- | --- |
@@ -389,7 +389,7 @@ Health Related Outcomes
 Physical function and disability were assessed using the Childhood Health Assessment Questionnaire Disability Index (CHAQ-DI).
 Seventy-seven percent (58 out of 75) of patients in the ACTEMRA treatment group achieved a minimal clinically important improvement in CHAQ-DI (change from baseline of ≥ 0.13 units) at week 12 compared to 19% (7 out of 37) in the placebo treatment group.
 
-## 14.9 Systemic Juvenile Idiopathic Arthritis—Subcutaneous Administration
+## 14.9 Systemic Juvenile Idiopathic Arthritis – Subcutaneous Administration
 
 Subcutaneously administered ACTEMRA in pediatric patients with systemic juvenile idiopathic arthritis (SJIA) was assessed in WA28118 (NCT01904292), a 52-week, open-label, multicenter, PK-PD and safety study to determine the appropriate subcutaneous dose of ACTEMRA that achieved comparable PK/PD profiles to the ACTEMRA-IV regimen.
 
@@ -398,7 +398,7 @@ Of these 51 patients, 26 (51%) were naive to subcutaneous ACTEMRA and 25 (49%) h
 
 The efficacy of subcutaneous ACTEMRA in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous ACTEMRA in systemic JIA patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.8)].
 
-## 14.10 Cytokine Release Syndrome—Intravenous Administration
+## 14.10 Cytokine Release Syndrome – Intravenous Administration
 
 The efficacy of ACTEMRA for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
 Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
@@ -408,3 +408,75 @@ Resolution of CRS was defined as lack of fever and off vasopressors for at least
 Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, if no more than 2 doses of tocilizumab were needed, and if no drugs other than tocilizumab and corticosteroids were used for treatment.
 Thirty-one patients (69%; 95% CI: 53%–82%) achieved a response.
 Achievement of resolution of CRS within 14 days was confirmed in a second study using an independent cohort that included 15 patients (range: 9–75 years old) with CAR T cell-induced CRS.
+
+## 14.11 COVID-19 – Intravenous Administration
+
+The efficacy of ACTEMRA for the treatment of COVID-19 was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
+Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262), which evaluated the efficacy of ACTEMRA for the treatment of COVID-19 are also summarized.
+
+RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
+
+RECOVERY was a randomized, controlled, open-label, multicenter platform study conducted in the United Kingdom to evaluate the efficacy and safety of potential treatments in hospitalized adult patients with severe COVID-19 pneumonia.
+Eligible patients for the ACTEMRA portion of the study had clinically suspected or laboratory-confirmed SARS-CoV-2 infection and no medical contraindications to any of the treatments and had clinical evidence of progressive COVID-19 (defined as oxygen saturation <92% on room air or receiving oxygen therapy, and CRP ≥75 mg/L).
+Patients were then randomized to receive either standard of care (SoC) or intravenous ACTEMRA at a weight-tiered dosing comparable to the recommended dosage [see Clinical Pharmacology (12.3)] in addition to SoC.
+
+Efficacy analyses were performed in the intent-to-treat (ITT) population comprising 4116 adult patients who were randomized to the ACTEMRA + SoC arm (n=2022) or to the SoC arm (n=2094).
+The mean age of participants was 64 years (range: 20 to 101), and patients were 67% male, 76% White, 11% Asian, 3% Black or African American, and 1% mixed race.
+At baseline, 0.2% of patients were not on supplemental oxygen, 45% of patients required low flow oxygen, 41% of patients required non-invasive ventilation or high-flow oxygen, and 14% of patients required invasive mechanical ventilation; 82% of patients were reported to be receiving systemic corticosteroids.
+
+The primary efficacy endpoint was time to death through Day 28.
+The results for the overall population and the subgroups of patients who were or were not receiving systemic corticosteroids at time of randomization are summarized in Table 12.
+
+Table 12 Mortality through Day 28 in RECOVERY
+
+|  | ACTEMRA+ SoC N=2022 n (%)P-value reflects that the RECOVERY trial primary analysis results were statistically significant at the two-sided significance level of α = 0.05. | SoC N=2094 n (%) | Hazard Ratio (95% CI) | Risk Difference (95% CI) |
+| --- | --- | --- | --- | --- |
+| Mortality | 621 (30.7%) | 729 (34.9%) | 0.85 (0.76, 0.94) p= 0.0028 | -4.1% (-7.0, -1.3) |
+| By baseline receipt of corticosteroid use |  |  |  |  |
+| Mortality for patients receiving systemic corticosteroids at randomizationProbabilities of dying by Day 28 were estimated by the Kaplan-Meier method. | 482/1664 (29.0%) | 600/1721 (34.9%) | 0.79 (0.70, 0.89) | -5.9% (-9.1, -2.8) |
+| Mortality for patients not receiving systemic corticosteroids at randomization | 139/357 (39.0%) | 127/367 (34.6%) | 1.16 (0.91, 1.48) | 4.4% (-2.6, 11.5) |
+
+EMPACTA
+
+EMPACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous ACTEMRA 8 mg/kg in combination with SoC in hospitalized, non-ventilated adult patients with COVID-19 pneumonia.
+Eligible patients were at least 18 years of age, had confirmed SARS-CoV-2 infection by a positive reverse-transcriptase polymerase chain reaction (RT-PCR) result, had pneumonia confirmed by radiography, and had SpO2 < 94% on ambient air.
+
+Of the 389 patients randomized, efficacy analyses were performed in the modified intent-to-treat (mITT) population comprising 377 patients who were randomized and received study medication (249 in the ACTEMRA arm; 128 in the placebo arm).
+The mean age of participants was 56 years (range: 20 to 95); 59% of patients were male, 56% were of Hispanic or Latino ethnicity, 53% were White, 20% were American Indian/Alaska Native, 15% were Black/African American and 2% were Asian.
+At baseline, 9% patients were not on supplemental oxygen, 64% patients required low flow oxygen, 27% patients required high-flow oxygen, and 73% were on corticosteroids.
+
+The primary efficacy endpoint evaluated time to progression to mechanical ventilation or death through Day 28.
+The hazard ratio comparing ACTEMRA to placebo was 0.56 (95% CI, 0.33 to 0.97), a statistically significant result (log-rank, p-value = 0.036).
+The cumulative proportion of patients who required mechanical ventilation or died by Day 28 was 12.0% (95% CI, 8.5% to 16.9%) in the ACTEMRA arm and 19.3% (95% CI, 13.3% to 27.4%) in the placebo arm.
+
+Mortality at Day 28 was 10.4% in the ACTEMRA arm versus 8.6% in the placebo arm (weighted difference (ACTEMRA arm - placebo arm): 2.0% [95% CI, -5.2% to 7.8%]).
+
+COVACTA
+
+COVACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous ACTEMRA 8 mg/kg in combination with SoC for the treatment of adult patients hospitalized with severe COVID-19 pneumonia.
+The study randomized 452 patients who were at least 18 years of age with confirmed SARS-CoV-2 infection by a positive RT-PCR result, had pneumonia confirmed by radiography, and had oxygen saturation of 93% or lower on ambient air or a ratio of arterial oxygen partial pressure to fractional inspired oxygen of 300 mmHg or less.
+At baseline, 3% of patients were not on supplemental oxygen, 28% were on low flow oxygen, 30% were on non-invasive ventilation or high flow oxygen, 38% were on invasive mechanical ventilation, and 22% were on corticosteroids.
+The primary efficacy endpoint was clinical status on Day 28 assessed on a 7-category ordinal scale that ranged from "discharged" to "death."
+There were no statistically significant differences observed in the distributions of clinical status on the 7-category ordinal scale at Day 28 when comparing the ACTEMRA arm to the placebo arm.
+
+Mortality at Day 28 was 19.7% in the ACTEMRA arm versus 19.4% in the placebo arm (weighted difference (ACTEMRA arm - placebo arm): 0.3% [95% CI, -7.6 to 8.2]).
+
+REMDACTA
+
+REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous ACTEMRA 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized patients with severe COVID-19 pneumonia.
+The study randomized 649 adult patients with SARS-CoV-2 infection confirmed by a positive polymerase chain reaction (PCR) result, pneumonia confirmed by radiography, and who required supplemental oxygen > 6 L/min to maintain SpO2 >93%.
+At baseline, 7% of patients were on low flow oxygen, 80% were on non-invasive ventilation or high flow oxygen, 14% were on invasive mechanical ventilation, and 84% were on corticosteroids.
+
+The primary efficacy endpoint was time from randomization to hospital discharge or 'ready for discharge' up to Day 28.
+There was no statistically significant difference between the treatment arms with respect to time to hospital discharge or "ready for discharge" through Day 28.
+
+Mortality at Day 28 was 18.1% in the ACTEMRA+ RDV arm versus 19.5% in the placebo +RDV arm (weighted difference (ACTEMRA arm - placebo arm): -1.3% [95% CI, -7.8% to 5.2%]).
+
+Mortality Across Studies in Patients Receiving Baseline Corticosteroids
+
+A study-level meta-analysis was conducted on EMPACTA, COVACTA, REMDACTA and RECOVERY studies.
+For each of the four studies, the risk difference through Day 28 was estimated by the Kaplan-Meier method in the subgroup of patients receiving baseline corticosteroids, summarized in Figure 3.
+Patients from the RECOVERY trial represent 78.8% of the total sample size in this meta-analysis.
+The combined risk difference showed that ACTEMRA treatment (n=2261) resulted in a 4.61% absolute reduction in the risk of death at Day 28 (risk difference=-4.6%; 95% CI: -7.3% to -1.9%) compared to SoC (n=2034).
+
+Figure 3 Risk Differences Through Day 28 for Baseline Corticosteroid Use Subpopulation in RECOVERY, EMPACTA, COVACTA and REMDACTA studies

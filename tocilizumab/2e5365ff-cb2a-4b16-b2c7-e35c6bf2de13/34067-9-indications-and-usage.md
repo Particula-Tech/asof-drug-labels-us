@@ -23,3 +23,7 @@ ACTEMRA® (tocilizumab) is indicated for the treatment of active systemic juveni
 ## 1.6 Cytokine Release Syndrome (CRS)
 
 ACTEMRA® (tocilizumab) is indicated for the treatment of chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome in adults and pediatric patients 2 years of age and older.
+
+## 1.7 Coronavirus Disease 2019 (COVID-19)
+
+ACTEMRA® (tocilizumab) is indicated for the treatment of coronavirus disease 2019 (COVID-19) in hospitalized adult patients who are receiving systemic corticosteroids and require supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).

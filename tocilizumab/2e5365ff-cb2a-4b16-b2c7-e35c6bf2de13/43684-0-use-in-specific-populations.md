@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ACTEMRA during pregnancy.
-Physicians are encouraged to register patients and pregnant women are encouraged to register themselves by calling 1-877-311-8972.
+Healthcare providers are encouraged to register patients and pregnant women are encouraged to register themselves by calling 1-877-311-8972.
 
 Risk Summary
 
@@ -24,7 +24,7 @@ Clinical Considerations
 Fetal/Neonatal adverse reactions
 
 Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
-Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions (5.9)].
+Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to ACTEMRA in utero [see Warnings and Precautions 5.9)].
 
 Data
 
@@ -67,7 +67,7 @@ The safety and effectiveness in pediatric patients below the age of 2 have not b
 
 Systemic Juvenile Idiopathic Arthritis – Intravenous Use
 
-A multi-center, open-label, single arm study to evaluate the PK, safety and exploratory PD and efficacy of ACTEMRA over 12-weeks in SJIA patients (N=11) under 2 years of age was conducted.
+A multicenter, open-label, single arm study to evaluate the PK, safety and exploratory PD and efficacy of ACTEMRA over 12-weeks in SJIA patients (N=11) under 2 years of age was conducted.
 Patients received intravenous ACTEMRA 12 mg/kg every two weeks.
 Concurrent use of stable background treatment with corticosteroids, MTX, and/or non-steroidal anti-inflammatory drugs was permitted.
 Patients who completed the 12-week period could continue to the optional extension period (a total of 52-weeks or until the age of 2 years, whichever was longer).
@@ -96,9 +96,15 @@ As there is a higher incidence of infections in the elderly population in genera
 
 Clinical studies that included ACTEMRA for CRS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
 
+In the EMPACTA, COVACTA, and REMDACTA studies, of the 974 COVID-19 patients in the ACTEMRA arm, 375 (39%) were 65 years of age or older.
+No overall differences in safety or effectiveness of ACTEMRA were observed between patients 65 years of age and older and those under the age of 65 years of age in these studies [see Adverse Reactions (6.1) and Clinical Studies (14.11)].
+
+In the RECOVERY study, of the 2022 COVID-19 patients in the ACTEMRA arm, 930 (46%) were 65 years of age or older.
+No overall differences in effectiveness of ACTEMRA were observed between patients 65 years of age and older and those under the age 65 years of age in this study [see Clinical Studies (14.11)].
+
 ## 8.6 Hepatic Impairment
 
-The safety and efficacy of ACTEMRA have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions (5.8)].
+The safety and efficacy of ACTEMRA have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions 5.8)].
 
 ## 8.7 Renal Impairment
 

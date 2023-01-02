@@ -57,7 +57,7 @@ For Ctrough, approximately 90% of the steady-state value was reached after the 6
 
 Population PK analysis identified body weight as a significant covariate impacting the pharmacokinetics of tocilizumab.
 When given IV on a mg/kg basis, individuals with body weight ≥ 100 kg are predicted to have mean steady-state exposures higher than mean values for the patient population.
-Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended in patients with RA [see Dosage and Administration (2.1)].
+Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended in patients with RA [see Dosage and Administration (2.2)].
 Due to the flat dosing employed for SC administration of tocilizumab, no modifications are necessary by this dosing route.
 
 Giant Cell Arteritis – Subcutaneous and Intravenous Administration
@@ -75,7 +75,7 @@ The pharmacokinetics of tocilizumab IV in GCA patients was characterized by a no
 The median (range) Cmax, Ctrough and Cmean of tocilizumab at steady state were 178 (115-320) mcg/mL, 22.7 (3.38-54.5) mcg/mL and 57.5 (32.9-110) mcg/mL, respectively.
 Steady state trough concentrations were within the range observed in GCA patients treated with 162 mg TCZ SC administered every week or every other week.
 
-Based on pharmacokinetic exposure and extrapolation between RA and GCA patients, when given IV on a mg/kg basis, tocilizumab doses exceeding 600 mg per infusion are not recommended in patients with GCA [see Dosage and Administration (2.2)].
+Based on pharmacokinetic exposure and extrapolation between RA and GCA patients, when given IV on a mg/kg basis, tocilizumab doses exceeding 600 mg per infusion are not recommended in patients with GCA [see Dosage and Administration (2.3)].
 
 Systemic Sclerosis-Associated Interstitial Lung Disease – Subcutaneous Administration
 
@@ -104,7 +104,7 @@ Following subcutaneous dosing, steady state Ctrough was comparable for patients 
 All patients treated with TCZ SC had steady-state Ctrough at or higher than that achieved with TCZ IV across the spectrum of body weights.
 The average and trough concentrations in patients after subcutaneous dosing were within the range of those achieved in adult patients with RA following the subcutaneous administration of the recommended regimens.
 
-Systemic Juvenile Idiopathic Arthritis—Intravenous and Subcutaneous Administration
+Systemic Juvenile Idiopathic Arthritis – Intravenous and Subcutaneous Administration
 
 The pharmacokinetics of tocilizumab (TCZ) in SJIA patients was characterized by a population pharmacokinetic analysis which included 89 patients who were treated with TCZ IV or 51 patients treated with TCZ SC.
 
@@ -123,6 +123,14 @@ The accumulation ratios were 2.27 and 4.28 for AUC4weeks, 3.21 and 4.39 for Ctro
 Following subcutaneous dosing, steady state was reached by 12 weeks for both body weight groups.
 All patients treated with tocilizumab SC had steady-state Cmax lower than that achieved with tocilizumab IV across the spectrum of body weights.
 Trough and mean concentrations in patients after SC dosing were similar to those achieved with tocilizumab IV across body weights.
+
+COVID-19 -Intravenous Administration
+
+The pharmacokinetics of tocilizumab in COVID-19 patients was characterized by a population pharmacokinetic analysis of a dataset composed of 380 adult patients treated with tocilizumab 8mg/kg intravenously (IV) in the COVACTA study [see Clinical Studies (14.11)] and another clinical study.
+
+For one dose of 8 mg/kg tocilizumab IV, the estimated median (range) Cmax and Cday28 of tocilizumab were 151 (77.5-319) mcg/mL and 0.229 (0.00119-19.4) mcg/mL, respectively.
+For two doses of 8 mg/kg tocilizumab IV separated by at least 8 hours, the estimated median (range) Cmax and Cday28 of tocilizumab was 290 (152-604) mcg/mL and 7.04 (0.00474-54.8) mcg/mL, respectively.
+The weight-tiered dosing used in RECOVERY study, 800 mg for patients >90 kg, 600 mg for patients >65 and ≤90 kg, 400 mg for patients >40 and ≤65 kg, and 8mg/kg for patients ≤40 kg, is comparable to 8 mg/kg dosing and is expected to have similar exposure.
 
 Absorption
 
@@ -152,6 +160,8 @@ In pediatric patients with PJIA, the central volume of distribution was 1.98 L, 
 
 In pediatric patients with SJIA, the central volume of distribution was 1.87 L, the peripheral volume of distribution was 2.14 L resulting in a volume of distribution at steady state of 4.01 L.
 
+In COVID-19 patients treated with one or two infusions of tocilizumab 8 mg/kg intravenously separated by 8 hours, the estimated central volume of distribution was 4.52 L, and the estimated peripheral volume of distribution was 4.23 L, resulting in a volume of distribution of 8.75 L.
+
 Elimination
 
 ACTEMRA is eliminated by a combination of linear clearance and nonlinear elimination.
@@ -163,6 +173,8 @@ The pharmacokinetic parameters of ACTEMRA do not change with time.
 Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
 
 The linear clearance in the population pharmacokinetic analysis was estimated to be 12.5 mL per h in RA patients, 6.7 mL per h in GCA patients, 8.8 mL per h in SSc-ILD patients, 5.8 mL per h in pediatric patients with PJIA, and 5.7 mL per h in pediatric patients with SJIA.
+In COVID-19 patients, serum concentrations were below the limit of quantification after 35 days on average following one infusion of tocilizumab 8 mg/kg intravenously.
+The average linear clearance in the population pharmacokinetic analysis was estimated to be 17.6 mL per hour in patients with baseline ordinal scale category 3 (OS 3, patients requiring supplemental oxygen), 22.5 mL per hour in patients with baseline OS 4 (patients requiring high-flow oxygen or non-invasive ventilation), 29 mL per hour in patients with baseline OS 5 (patients requiring mechanical ventilation), and 35.4 mL per hour in patients with baseline OS 6 (patients requiring extracorporeal membrane oxygenation (ECMO) or mechanical ventilation and additional organ support).
 
 Due to the dependence of total clearance on ACTEMRA serum concentrations, the half-life of ACTEMRA is also concentration-dependent and varies depending on the serum concentration level.
 
@@ -180,7 +192,7 @@ For subcutaneous administration, the t1/2 of tocilizumab in PJIA patients is up 
 The t1/2 of tocilizumab intravenous in pediatric patients with SJIA is up to 16 days for the two body weight categories (8 mg/kg for body weight at or above 30 kg and 12 mg/kg for body weight below 30 kg every other week) during a dosing interval at steady-state.
 Following subcutaneous administration, the effective t1/2 of tocilizumab subcutaneous in SJIA patients is up to 14 days for both the body weight categories (162 mg every week for body weight at or above 30 kg and 162 mg every two weeks for body weight below 30 kg) during a dosing interval at steady state.
 
-Pharmacokinetics in Special Populations
+Specific Populations
 
 Population pharmacokinetic analyses in adult rheumatoid arthritis patients and GCA patients showed that age, gender and race did not affect the pharmacokinetics of tocilizumab.
 Linear clearance was found to increase with body size.
@@ -192,11 +204,16 @@ For the 162 mg every week subcutaneous dosing regimen, the steady-state Cmean wa
 For the 162 mg every other week subcutaneous regimen, the steady-state Cmean was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
 There is limited data for patients above 100 kg (n=7).
 
-Hepatic Impairment
+In COVID-19 patients, exposure following body-weight-based intravenous dosing (8 mg per kg tocilizumab up to 100 kg body weight with a maximum dose of 800 mg) was dependent on body weight and disease severity assessed by an ordinal scale (OS).
+Within an OS category, compared to patients with a mean body weight of 80 kg, exposure was 20% lower in patients weighing less than 60 kg.
+Exposure in patients weighing more than 100 kg was in the same range as exposure in patients with a mean body weight of 80 kg.
+For an 80 kg patient, exposure decreases as OS category increases; for each category increase, exposure decreases by 13%.
+
+Patients with Hepatic Impairment
 
 No formal study of the effect of hepatic impairment on the pharmacokinetics of tocilizumab was conducted.
 
-Renal Impairment
+Patients with Renal Impairment
 
 No formal study of the effect of renal impairment on the pharmacokinetics of tocilizumab was conducted.
 
@@ -208,7 +225,7 @@ No impact on tocilizumab exposure was noted in these patients.
 
 No dose adjustment is required in patients with mild or moderate renal impairment.
 
-Drug Interactions
+Drug Interaction Studies
 
 In vitro data suggested that IL-6 reduced mRNA expression for several CYP450 isoenzymes including CYP1A2, CYP2B6, CYP2C9, CYP2C19, CYP2D6 and CYP3A4, and this reduced expression was reversed by co-incubation with tocilizumab at clinically relevant concentrations.
 Accordingly, inhibition of IL-6 signaling in RA patients treated with tocilizumab may restore CYP450 activities to higher levels than those in the absence of tocilizumab leading to increased metabolism of drugs that are CYP450 substrates.

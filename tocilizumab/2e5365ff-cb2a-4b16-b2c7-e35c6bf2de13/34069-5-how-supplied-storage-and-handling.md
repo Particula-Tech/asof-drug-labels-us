@@ -13,7 +13,7 @@ The following packaging configurations are available:
 - Each single-dose prefilled syringe delivers 162 mg/0.9 mL (NDC 50242-138-01).
 - Each single-dose ACTPen® autoinjector delivers 162 mg/0.9 mL (NDC 50242-143-01).
 
-Storage and Stability: Do not use beyond expiration date on the container, package, prefilled syringe, or autoinjector.
+Storage and Handling: Do not use beyond expiration date on the container, package, prefilled syringe, or autoinjector.
 ACTEMRA must be refrigerated at 36°F to 46°F (2ºC to 8ºC).
 Do not freeze.
 Protect the vials, syringes, and autoinjectors from light by storage in the original package until time of use, and keep syringes and autoinjectors dry.

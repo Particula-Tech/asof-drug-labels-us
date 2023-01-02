@@ -89,7 +89,7 @@ In the all-exposure population, the pattern and incidence of decreases in platel
 Elevated Liver Enzymes
 
 Liver enzyme abnormalities are summarized in Table 1.
-In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA-IV, or reduction in ACTEMRA-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.7)].
+In patients experiencing liver enzyme elevation, modification of treatment regimen, such as reduction in the dose of concomitant DMARD, interruption of ACTEMRA-IV, or reduction in ACTEMRA-IV dose, resulted in decrease or normalization of liver enzymes [see Dosage and Administration (2.11)].
 These elevations were not associated with clinically relevant increases in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic insufficiency [see Warnings and Precautions (5.3, 5.4)].
 
 Table 1 Incidence of Liver Enzyme Abnormalities in the 24 Week Controlled Period of Studies I to VFor a description of these studies, see Section 14, Clinical Studies.
@@ -428,9 +428,41 @@ No patient developed positive anti-tocilizumab antibodies post-baseline.
 
 In a retrospective analysis of pooled outcome data from multiple clinical trials 45 patients were treated with tocilizumab 8 mg/kg (12 mg/kg for patients less than 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CAR T-cell-induced CRS.
 A median of 1 dose of tocilizumab (range, 1-4 doses) was administered.
-No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.9)].
+No adverse reactions related to tocilizumab were reported [see Clinical Studies (14.10)].
 
-## 6.11 Postmarketing Experience
+## 6.11 Clinical Trials Experience in COVID-19 Patients Treated with Intravenous ACTEMRA (ACTEMRA-IV)
+
+The safety of ACTEMRA in hospitalized COVID-19 patients was evaluated in a pooled safety population that includes patients enrolled in EMPACTA, COVACTA, AND REMDACTA.
+The analysis of adverse reactions included a total of 974 patients exposed to ACTEMRA.
+Patients received a single, 60-minute infusion of intravenous ACTEMRA 8 mg/kg (maximum dose of 800 mg).
+If clinical signs or symptoms worsened or did not improve, one additional dose of ACTEMRA 8 mg/kg could be administered between 8- 24 hours after the initial dose.
+
+Adverse reactions summarized in Table 3 occurred in at least 3% of ACTEMRA-treated patients and more commonly than in patients on placebo in the pooled safety population.
+
+Table 3 Adverse ReactionsPatients are counted once for each category regardless of the number of reactions Identified From the Pooled COVID-19 Safety Population
+
+| N = 974 (%) | N = 483 (%) |  |
+| --- | --- | --- |
+| Adverse Reaction | ACTEMRA 8 mg per kg | Placebo |
+| Hepatic Transaminases increased | 10% | 8% |
+| Constipation | 9 % | 8% |
+| Urinary tract infection | 5% | 4% |
+| Hypertension | 4% | 1% |
+| Hypokalaemia | 4% | 3% |
+| Anxiety | 4% | 2% |
+| Diarrhea | 4% | 2% |
+| Insomnia | 4% | 3% |
+| Nausea | 3% | 2% |
+
+In the pooled safety population, the rates of infection/serious infection events were 30%/19% in patients receiving ACTEMRA versus 32%/23% receiving placebo.
+
+Laboratory Abnormalities
+
+In the pooled safety population of EMPACTA, COVACTA, and REMDACTA, neutrophil counts <1000 cells/mcl occurred in 3.4% of patients who received ACTEMRA and 0.5% of patients who received placebo.
+Platelet counts <50,000 cells/mcl occurred in 3.2% of patients who received ACTEMRA and 1.5% of patients who received placebo.
+ALT or AST at or above 5× ULN occurred in 11.7% of patients who received ACTEMRA and 9.9% of patients who received placebo.
+
+## 6.12 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ACTEMRA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

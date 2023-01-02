@@ -17,21 +17,27 @@ The risks and benefits of treatment should be considered prior to initiating ACT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.7), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with ACTEMRA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.8), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 Hold ACTEMRA if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with ACTEMRA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.
 
+COVID-19
+
+In patients with COVID-19, monitor for signs and symptoms of new infections during and after treatment with ACTEMRA.
+There is limited information regarding the use of ACTEMRA in patients with COVID-19 and concomitant active serious infections.
+The risks and benefits of treatment with ACTEMRA in COVID-19 patients with other concurrent infections should be considered.
+
 Tuberculosis
 
 Evaluate patients for tuberculosis risk factors and test for latent infection prior to initiating ACTEMRA.
+In patients with COVID-19, testing for latent infection is not necessary prior to initiating treatment with ACTEMRA.
 
 Consider anti-tuberculosis therapy prior to initiation of ACTEMRA in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed, and for patients with a negative test for latent tuberculosis but having risk factors for tuberculosis infection.
 Consultation with a physician with expertise in the treatment of tuberculosis is recommended to aid in the decision whether initiating anti-tuberculosis therapy is appropriate for an individual patient.
 
 Closely monitor patients for the development of signs and symptoms of tuberculosis including patients who tested negative for latent tuberculosis infection prior to initiating therapy.
 
-It is recommended that patients be screened for latent tuberculosis infection prior to starting ACTEMRA.
 The incidence of tuberculosis in worldwide clinical development programs is 0.1%.
 Patients with latent tuberculosis should be treated with standard antimycobacterial therapy before initiating ACTEMRA.
 
@@ -59,7 +65,13 @@ Increased frequency and magnitude of these elevations was observed when potentia
 For RA, GCA and SSc-ILD patients, obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) before initiating ACTEMRA, every 4 to 8 weeks after start of therapy for the first 6 months of treatment and every 3 months thereafter.
 It is not recommended to initiate ACTEMRA treatment in RA, GCA or SSc-ILD patients with elevated transaminases ALT or AST greater than 1.5× ULN.
 In patients who develop elevated ALT or AST greater than 5× ULN, discontinue ACTEMRA.
-For recommended modifications based upon increase in transaminases see Dosage and Administration (2.10).
+For recommended modifications based upon increase in transaminases see Dosage and Administration (2.11).
+
+Patients hospitalized with COVID-19 may have elevated ALT or AST levels.
+Multi-organ failure with involvement of the liver is recognized as a complication of severe COVID-19.
+The decision to administer ACTEMRA should balance the potential benefit of treating COVID-19 against the potential risks of acute treatment with ACTEMRA.
+It is not recommended to initiate ACTEMRA treatment in COVID-19 patients with elevated ALT or AST above 10 × ULN.
+Monitor ALT and AST during treatment.
 
 Measure liver tests promptly in patients who report symptoms that may indicate liver injury, such as fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice.
 In this clinical context, if the patient is found to have abnormal liver tests (e.g., ALT greater than three times the upper limit of the reference range, serum total bilirubin greater than two times the upper limit of the reference range), ACTEMRA treatment should be interrupted and investigation done to establish the probable cause.
@@ -70,32 +82,36 @@ Monitor liver test panel at the time of the second administration and thereafter
 
 ## 5.4 Changes in Laboratory Parameters
 
-Patients with Rheumatoid Arthritis, Giant Cell Arteritis and Systemic Sclerosis-Associated Interstitial Lung Disease
+Patients with Rheumatoid Arthritis, Giant Cell Arteritis, Systemic Sclerosis-Associated Interstitial Lung Disease and Coronavirus Disease 2019
 
 Neutropenia
 
 Treatment with ACTEMRA was associated with a higher incidence of neutropenia.
 Infections have been uncommonly reported in association with treatment-related neutropenia in long-term extension studies and postmarketing clinical experience.
 
-- –It is not recommended to initiate ACTEMRA treatment in patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
+- –It is not recommended to initiate ACTEMRA treatment in RA, GCA and SSc-ILD patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
 - –Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see Dosage and Administration (2.10).
+  For recommended modifications based on ANC results see Dosage and Administration (2.11).
+- –It is not recommended to initiate ACTEMRA treatment in COVID-19 patients with an ANC less than 1000 per mm3.
+  Neutrophils should be monitored.
 
 Thrombocytopenia
 
 Treatment with ACTEMRA was associated with a reduction in platelet counts.
 Treatment-related reduction in platelets was not associated with serious bleeding events in clinical trials [see Adverse Reactions (6.1, 6.2)].
 
-- –It is not recommended to initiate ACTEMRA treatment in patients with a platelet count below 100,000 per mm3.
+- –It is not recommended to initiate ACTEMRA treatment in RA, GCA and SSc-ILD patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
 - –Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
-  For recommended modifications based on platelet counts see Dosage and Administration (2.10).
+  For recommended modifications based on platelet counts see Dosage and Administration (2.11).
+- –In COVID-19 patients with a platelet count less than 50,000 per mm3, treatment is not recommended.
+  Platelets should be monitored.
 
 Elevated Liver Enzymes
 
 Refer to 5.3 Hepatotoxicity.
-For recommended modifications [see Dosage and Administration (2.10)]
+For recommended modifications [see Dosage and Administration (2.11)]
 
 Lipid Abnormalities
 
@@ -108,7 +124,7 @@ Patients with Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with ACTEMRA treatment in the PJIA and SJIA populations.
 Monitor neutrophils, platelets, ALT and AST at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
-Monitor lipids as above for approved adult indications [see Dosage and Administration (2.10)].
+Monitor lipids as above for approved adult indications [see Dosage and Administration (2.11)].
 
 ## 5.5 Immunosuppression
 

@@ -4,7 +4,7 @@
 
 In RA patients, population pharmacokinetic analyses did not detect any effect of methotrexate (MTX), non-steroidal anti-inflammatory drugs or corticosteroids on tocilizumab clearance.
 Concomitant administration of a single intravenous dose of 10 mg/kg ACTEMRA with 10-25 mg MTX once weekly had no clinically significant effect on MTX exposure.
-ACTEMRA has not been studied in combination with biological DMARDs such as TNF antagonists [see Dosage and Administration (2.1)].
+ACTEMRA has not been studied in combination with biological DMARDs such as TNF antagonists [see Dosage and Administration (2.2)].
 
 In GCA patients, no effect of concomitant corticosteroid on tocilizumab exposure was observed.
 
