@@ -17,7 +17,7 @@ Data
 
 Animal Data
 
-The exposure margins listed below are based on body surface area comparisons (mg/m 2) to the highest daily triamcinolone acetonide exposure at the MRHD of 32 mg triamcinolone acetonide via ZILRETTA.
+The exposure margins listed below are based on body surface area comparisons (mg/m2) to the highest daily triamcinolone acetonide exposure at the MRHD of 32 mg triamcinolone acetonide via ZILRETTA.
 
 Pregnant mice dosed with triamcinolone acetonide via intramuscular or subcutaneous injection at doses equivalent to 0.8 times the MRHD or higher during organogenesis caused cleft palate and a higher rate of resorption.
 In pregnant rats dosed with triamcinolone acetonide via intramuscular or subcutaneous injection at doses equivalent to 0.3 times the MRHD or higher during organogenesis caused developmental abnormality (cleft palate, omphalocele, late resorption, and growth retardation) and fetal mortality.

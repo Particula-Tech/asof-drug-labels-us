@@ -26,9 +26,9 @@ Table 4: Summary of Mean (SD) Plasma Pharmacokinetic Parameters for Triamcinolon
 | --- | --- | --- |
 | Cmax(pg/mL) | 1,143.7 (611.06) | 21,062.2 (18,466.79) |
 | AUC0-24 hour (pg•h/mL) | 21,219.2 (11,325.62) | 297,545.3 (222,402.77) |
-| AUC0-inf (pg•h/mL) | 842,149.2 (1,062,004.97)* | 1,567,565.0 (1,246,330.95) † |
+| AUC0-inf (pg•h/mL) | 842,149.2 (1,062,004.97)* | 1,567,565.0 (1,246,330.95)† |
 | tmax (h) | 7 (1, 1,008) | 6 (2, 24) |
-| t1/2 (h) | 633.9 (893.0)* | 146.9 (213.29) † |
+| t1/2 (h) | 633.9 (893.0)* | 146.9 (213.29)† |
 | * 33 patients contributed to the analyses of these parameters |  |  |
 | † 14 patients contributed to the analyses of these parameters |  |  |
-| 1 Median (min, max) values for t max |  |  |
+| 1 Median (min, max) values for tmax |  |  |

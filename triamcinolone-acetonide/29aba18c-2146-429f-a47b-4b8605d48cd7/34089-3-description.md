@@ -10,7 +10,7 @@ Active Ingredient
 The chemical name for triamcinolone acetonide is 9-fluoro-11β,16α,17,21-tetrahydroxypregna-1,4-diene- 3,20-dione cyclic 16,17-acetal with acetone.
 Its structural formula is:
 
-| MW 434.50 with a molecular formula of C 24H 31FO 6 |
+| MW 434.50 with a molecular formula of C24H31FO6 |
 | --- |
 
 Triamcinolone acetonide occurs as a white to almost white, crystalline powder having not more than a slight odor and is practically insoluble in water and very soluble in alcohol.

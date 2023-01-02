@@ -1,6 +1,6 @@
 Instructions for Use
 
-ZILRETTA ® (triamcinolone acetonide extended-release injectable suspension)
+ZILRETTA® (triamcinolone acetonide extended-release injectable suspension)
 
 For intra-articular injection only
 
@@ -31,7 +31,7 @@ Supplied
 
 Not Supplied
 
-- Three sterile needles, 21-gauge, 1½” length
+- Three sterile needles, 21-gauge, 1½" length
 - One sterile Luer Lock compatible syringe, 5 mL
 - Sterile alcohol pads
 - Paper towels or pad to cushion vial tapping (not shown in Fig. 1)
