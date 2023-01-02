@@ -9,8 +9,8 @@ The Podhaler device is provided in a case that protects the device during shipme
 
 Unit dose (blister pack), Box of 224 capsules contains: NDC 49502-401-24
 
-1. 4 weekly packs, each containing: 56 capsules (7 blister cards of 8 capsules) 1 Podhaler device
-2. 1 reserve Podhaler device
+- 4 weekly packs, each containing: 56 capsules (7 blister cards of 8 capsules) 1 Podhaler device
+- 1 reserve Podhaler device
 
 Unit dose (blister pack), Box of 56 capsules (7-day pack) contains: NDC 49502-401-56
 
@@ -24,9 +24,9 @@ Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F)
 
 Protect TOBI Podhaler from moisture.
 
-- oTOBI Podhaler capsules should be used with the Podhaler device only.
+- •TOBI Podhaler capsules should be used with the Podhaler device only.
   The Podhaler device should not be used with any other capsules.
-- oCapsules should always be stored in the blister and each capsule should only be removed immediately before use.
-- oAlways use the new Podhaler device provided with each weekly pack.
+- •Capsules should always be stored in the blister and each capsule should only be removed immediately before use.
+- •Always use the new Podhaler device provided with each weekly pack.
 
 Keep this and all drugs out of the reach of children.
