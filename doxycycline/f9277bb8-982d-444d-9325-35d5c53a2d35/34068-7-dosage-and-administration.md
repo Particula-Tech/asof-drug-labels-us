@@ -14,12 +14,13 @@
 
 When switching from DORYX to DORYX MPC:
 
+- A 60 mg dose of DORYX MPC will replace a 50 mg dose of DORYX
 - A 120 mg dose of DORYX MPC will replace a 100 mg dose of DORYX
 
 ## 2.3 Dosage in Adult Patients
 
 - The usual dosage of DORYX MPC is 240 mg on the first day of treatment (administered 120 mg every 12 hours) followed by a maintenance dose of 120 mg daily.
-  The maintenance dose may be administered as a single dose.
+  The maintenance dose may be administered as a single dose or as 60 mg every 12 hours.
 - In the management of more severe infections (particularly chronic infections of the urinary tract), 120 mg every 12 hours is recommended.
 - For certain selected specific indications, the recommended duration or dosage and duration of DORYX MPC in adult patients are as follows:
   1. Streptococcal infections, therapy should be continued for 10 days.

@@ -6,6 +6,8 @@ Doxycycline is a tetracycline-class antimicrobial drug [see Microbiology (12.4)]
 
 ## 12.3 Pharmacokinetics
 
+Effect of Food
+
 Following administration of a single dose of DORYX MPC under fasting conditions, the AUCinf and Cmax were 26.7 mcg-h/mL and 1.6 mcg/mL, respectively.
 The Tmax was 2.8 hours.
 In a single-dose study to evaluate the relative bioavailability in healthy adult subjects under fasted conditions, DORYX MPC 120 mg Tablets were found to be bioequivalent to Doryx 100 mg Tablets.

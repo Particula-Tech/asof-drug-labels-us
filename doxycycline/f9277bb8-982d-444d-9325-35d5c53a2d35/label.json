@@ -5,7 +5,9 @@
   "inn": "doxycycline",
   "labeler": "Mayne Pharma",
   "package_ndcs": [
-    "51862-559-30"
+    "51862-559-30",
+    "51862-560-00",
+    "51862-560-12"
   ],
   "products": [
     {
