@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216934"
+  ],
+  "inn": "nelarabine",
+  "labeler": "Dr. Reddy's Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-142-06",
+    "43598-142-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "Nelarabine"
+    }
+  ],
+  "setid": "57275b05-f40f-7298-5a5e-93594bc41437",
+  "source": "dailymed"
+}
