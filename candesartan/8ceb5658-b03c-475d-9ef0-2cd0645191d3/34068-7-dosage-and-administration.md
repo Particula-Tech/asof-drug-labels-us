@@ -38,7 +38,7 @@ The recommended starting dose is 8 to 16 mg.
 
 Doses above 0.4 mg/kg (1 to < 6 year olds) or 32 mg (6 to < 17 year olds) have not been studied in pediatric patients [see Clinical Studies (14.1)].
 
-An antihypertensive effect is usually present within 2 weeks, with full effect generally obtained within 4 weeks of treatment with candesartan cilexetil tablets.
+An antihypertensive effect is usually present within 2 weeks, with full effect generally obtained within 4 weeks of treatment with candesartan cilexetil tablets
 
 Children < 1 year of age must not receive candesartan cilexetil tablets for hypertension.
 

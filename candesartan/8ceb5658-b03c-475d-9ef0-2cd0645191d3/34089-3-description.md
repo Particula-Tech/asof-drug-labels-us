@@ -5,7 +5,7 @@ Candesartan is a selective AT1 subtype angiotensin II receptor antagonist.
 
 Candesartan cilexetil, USP a nonpeptide, is chemically described as (±)-1-Hydroxyethyl 2-ethoxy-1-[p-(o-1H-tetrazol-5-ylphenyl)benzyl]-7-benzimidazolecarboxylate, cyclohexyl carbonate (ester).
 
-Its molecular formula is C33H34N6O6, and its structural formula is:
+Its molecular formula is C33H34N6O6, and its structural formula is
 
 Candesartan cilexetil, USP is a white to off-white powder with a molecular weight of 610.67.
 It is practically insoluble in water and sparingly soluble in methanol.

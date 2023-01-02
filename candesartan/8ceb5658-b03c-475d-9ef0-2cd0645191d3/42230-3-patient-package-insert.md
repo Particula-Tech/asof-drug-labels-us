@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Patient Information Candesartan Cilexetil Tablets (kan" de sar' tan sye lex e til) Read the Patient Information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
+Candesartan Cilexetil (kan" de sar' tan sye lex'e til)Tablets Read the Patient Information that comes with candesartan cilexetil tablets before you start taking it and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking with your doctor about your medical condition or your treatment.
 If you have any questions about candesartan cilexetil tablets, ask your doctor or pharmacist.
@@ -171,7 +171,7 @@ It may harm them.
 This leaflet summarizes the most important information about candesartan cilexetil tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about candesartan cilexetil tablets that is written for health professionals.
-For more information, contact Macleods Pharma USA, Inc. at 1-888-943-3210 or or 1-855-926-3384.
+For more information, contact Macleods Pharma USA, Inc. at 1-888-943-3210 or 1-855-926-3384.
 What are the ingredients in candesartan cilexetil tablets?
 Active ingredient: candesartan cilexetil.
 Inactive ingredients in candesartan cilexetil tablets and candesartan cilexetil oral suspension are: hydroxypropyl cellulose, lactose monohydrate, corn starch, glycerin, carboxymethylcellulose calcium, and magnesium stearate.
@@ -182,8 +182,7 @@ Candesartan cilexetil tablets are a type of medicine called angiotensin receptor
 This helps lower blood pressure.
 Medicines that lower your blood pressure lower your chance of having a stroke or heart attack.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured by: Macleods Pharmaceutical Limited Daman (U.T.)
-INDIA
+Manufactured by: Macleods Pharmaceuticals Limited, INDIA
 
 Manufactured for:
 
@@ -193,4 +192,4 @@ Princeton, NJ 08540
 
 All brand names listed are the registered trademarks of their respective owners.
 
-Revised: 08/2022
+Revised: 12/2022

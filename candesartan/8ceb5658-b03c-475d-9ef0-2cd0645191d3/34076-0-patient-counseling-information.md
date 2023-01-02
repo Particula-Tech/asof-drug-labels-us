@@ -5,8 +5,7 @@ Pregnancy Advise female patients of childbearing age about the consequences of e
 Discuss treatment options with women planning to become pregnant.
 Tell patients to report pregnancies to their physicians as soon as possible.
 
-Manufactured by: Macleods Pharmaceutical Limited Daman (U.T.)
-INDIA
+Manufactured by: Macleods Pharmaceuticals Limited, INDIA
 
 Manufactured for:
 
@@ -14,5 +13,7 @@ Macleods Pharma USA, Inc.
 
 Princeton, NJ 08540
 
-Revised: 08/2022 All brand names listed are the registered trademarks of their respective owners.
 All brand names listed are the registered trademarks of their respective owners.
+All brand names listed are the registered trademarks of their respective owners.
+
+Revised: 12/2022

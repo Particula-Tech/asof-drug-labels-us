@@ -1,7 +1,5 @@
 # WARNING: FETAL TOXICITY
 
-WARNING: FETAL TOXICITY
-
 - When pregnancy is detected, discontinue candesartan cilexetil tablets as soon as possible.
   [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)]
 

@@ -1,9 +1,25 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-PRINCIPAL DISPLAY PANEL NDC 33342-114-07 Candesartan Cilexetil Tablets 4 mg Bottle Label Rx only 30 Tablets PRINCIPAL DISPLAY PANEL NDC 33342-114-10 Candesartan Cilexetil Tablets 4 mg Bottle Label Rx only 90 Tablets NDC 33342-114-12 Candesartan Cilexetil Tablet 4 mg carton label Rx only Unit dose package of 100 Tablets
+NDC 33342-114-07 Candesartan Cilexetil Tablets 4 mg Bottle Label Rx only 30 Tablets
 
-NDC 33342-115-07 Candesartan Cilexetil Tablets 8 mg Bottle Label Rx only 30 Tablets NDC 33342-115-10 Candesartan Cilexetil Tablets 8 mg Bottle Label Rx only 90 Tablets NDC 33342-115-12 Candesartan Cilexetil Tablets 8 mg Carton Label Rx only Unit dose package of 100 Tablets
+PRINCIPAL DISPLAY PANEL NDC 33342-114-10 Candesartan Cilexetil Tablets 4 mg Bottle Label Rx only 90 Tablets
 
-NDC 33342-116-07 Candesartan Cilexetil Tablets 16 mg Bottle Label Rx only 30 Tablet NDC 33342-116-10 Candesartan Cilexetil Tablets 16 mg Bottle Label Rx only 90 Tablets NDC 33342-116-12 Candesartan Cilexetil Tablets 16 mg carton Rx only Unit dose package of 100 Tablets
+NDC 33342-114-12 Candesartan Cilexetil Tablet 4 mg carton label Rx only Unit dose package of 100 Tablets
 
-NDC 33342-117-07 Candesartan Cilexetil Tablets 32 mg Bottle Label Rx only 30 Tablets NDC 33342-117-10 Candesartan Cilexetil Tablets 32 mg Bottle Label Rx only 90 Tablets NDC 33342-117-12 Candesartan Cilexetil Tablets 32 mg Carton Label Rx only Unit dose package of 100 Tablets
+NDC 33342-115-07 Candesartan Cilexetil Tablets 8 mg Bottle Label Rx only 30 Tablets
+
+NDC 33342-115-10 Candesartan Cilexetil Tablets 8 mg Bottle Label Rx only 90 Tablets
+
+NDC 33342-115-12 Candesartan Cilexetil Tablets 8 mg Carton Label Rx only Unit dose package of 100 Tablets
+
+NDC 33342-116-07 Candesartan Cilexetil Tablets 16 mg Bottle Label Rx only 30 Tablet
+
+NDC 33342-116-10 Candesartan Cilexetil Tablets 16 mg Bottle Label Rx only 90 Tablets
+
+NDC 33342-116-12 Candesartan Cilexetil Tablets 16 mg carton Rx only Unit dose package of 100 Tablets
+
+NDC 33342-117-07 Candesartan Cilexetil Tablets 32 mg Bottle Label Rx only 30 Tablets
+
+NDC 33342-117-10 Candesartan Cilexetil Tablets 32 mg Bottle Label Rx only 90 Tablets
+
+NDC 33342-117-12 Candesartan Cilexetil Tablets 32 mg Carton Label Rx only Unit dose package of 100 Tablets
