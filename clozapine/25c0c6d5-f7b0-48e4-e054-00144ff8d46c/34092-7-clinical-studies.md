@@ -37,7 +37,7 @@ To enter the trial, patients must have met 1 of the following criteria:
 - They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
-Dosing was flexible, with a dose range of 200 mg to 900 mg/day for clozapine and 5 to 20 mg/day for olanzapine.
+Dosing was flexible, with a dose range of 200 mg to 900 mg/day for clozapine and 5 mg to 20 mg/day for olanzapine.
 For the 956 patients who received clozapine or olanzapine in this study, there was extensive use of concomitant psychotropics: 84% with antipsychotics, 65% with anxiolytics, 53% with antidepressants, and 28% with mood stabilizers.
 There was significantly greater use of concomitant psychotropic medications among the patients in the olanzapine group.
 

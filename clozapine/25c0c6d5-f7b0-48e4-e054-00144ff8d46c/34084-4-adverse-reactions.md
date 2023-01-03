@@ -30,7 +30,7 @@ The most commonly reported adverse reactions (≥5%) across clozapine clinical t
 Table 9 summarizes the most commonly reported adverse reactions (≥5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
 Table 9.
-Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-Controlled Trial in Treatment-Resistant Schizophrenia
+Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
 
 | Adverse Reaction | Clozapine (N=126) (%) | Chlorpromazine (N=142) (%) |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Table 10 summarizes the adverse reactions reported in clozapine-treated patients
 These rates are not adjusted for duration of exposure.
 
 Table 10.
-Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) Across all Clozapine Studies (excluding the 2-year InterSePT TM Study)
+Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT TM Study)
 
 | Body System Adverse Reaction * | Clozapine N=842 Percentage of Patients |
 | --- | --- |
@@ -130,11 +130,11 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Central Nervous System
 
-Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, and post-discontinuation cholinergic rebound adverse reactions.
+Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome, and post-discontinuation cholinergic rebound adverse reactions.
 
 Cardiovascular System
 
-Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, and periorbital edema.
+Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest,myocarditis, and periorbital edema.
 
 Endocrine System
 
@@ -178,4 +178,4 @@ Narrow-angle glaucoma.
 
 Miscellaneous
 
-Creatine phosphokinase elevation, hyperuricemia, hyponatremia, and weight loss.
+Creatine phosphokinase elevation, hyperuricemia, hyponatremia, polyserositis, and weight loss.

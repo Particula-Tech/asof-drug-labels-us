@@ -11,7 +11,7 @@ Other granulocytes (basophils and eosinophils) contribute minimally to neutropen
 Neutropenia may be mild, moderate, or severe (see Tables 2 and 3).
 To improve and standardize understanding, “severe neutropenia” replaces the previous terms severe leukopenia, severe granulocytopenia, or agranulocytosis.
 
-Severe neutropenia, ANC less than (<) 500/μL, occurs in a small percentage of patients taking Clozapine and is associated with an increase in the risk of serious and potentially fatal infections.
+Severe neutropenia, ANC less than (<) 500/μL, occurs in a small percentage of patients taking clozapine and is associated with an increase in the risk of serious and potentially fatal infections.
 Risk of neutropenia appears greatest during the first 18 weeks on treatment and then declines.
 The mechanism by which clozapine causes neutropenia is unknown and is not dose-dependent.
 
@@ -114,8 +114,8 @@ Use clozapine cautiously in patients with cardiovascular disease (history of myo
 
 ## 5.4 Falls
 
-clozapine may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
-For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on longterm antipsychotic therapy.
+Clozapine may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.5 Seizures
 
