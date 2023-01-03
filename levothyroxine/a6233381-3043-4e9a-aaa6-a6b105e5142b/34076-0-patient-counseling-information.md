@@ -5,7 +5,7 @@ Inform the patient of the following information to aid in the safe and effective
 Dosing and Administration
 
 - Instruct patients to take levothyroxine sodium tablets only as directed by their healthcare provider.
-- Instruct patients to take levothyroxine sodium tablets as a single dose, preferably on an empty stomach, one-half to one hour before breakfast.
+- Instruct patients to take levothyroxine sodium tablets as a single dose, preferably on an empty stomach, one-half to one hour before breakfast with a full glass of water to avoid choking or gagging.
 - Inform patients that agents such as iron and calcium supplements and antacids can decrease the absorption of levothyroxine.
   Instruct patients not to take levothyroxine sodium tablets within 4 hours of these agents.
 - Instruct patients to notify their healthcare provider if they are pregnant or breastfeeding or are thinking of becoming pregnant while taking levothyroxine sodium tablets.
@@ -31,6 +31,6 @@ Manufactured For: Accord Healthcare, Inc., 1009, Slater Road, Suite 210-B, Durha
 
 Manufactured By: Intas Pharmaceuticals Limited, Camp Road, Selaqui, Dehradun, Uttarakhand 248197, India (IND)
 
-80 3024 1 8615929
+80 3024 2 8618232
 
-Issued July 2020
+Issued September 2022

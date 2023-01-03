@@ -2,7 +2,9 @@
 
 All tablets having functional scoring
 
-Levothyroxine sodium tablets USP are available as follows:
+Levothyroxine sodium tablets USP are available as follows (Table 4):
+
+Table 4: Levothyroxine Sodium Tablet Strengths and Identifying Features
 
 | Tablet Strength | Tablet Description |
 | --- | --- |

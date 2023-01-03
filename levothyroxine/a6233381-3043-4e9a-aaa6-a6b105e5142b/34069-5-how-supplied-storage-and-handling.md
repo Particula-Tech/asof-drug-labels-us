@@ -2,7 +2,9 @@
 
 All tablets having functional scoring.
 
-Levothyroxine sodium, USP tablets are supplied as follows:
+Levothyroxine sodium, USP tablets are supplied as follows (Table 11):
+
+Table 11: Levothyroxine Sodium Tablet Presentations
 
 | Strength (mcg) | Tablet Description | NDC# for bottles with child-resistant closure of 90 | NDC # for bottles of 1000 |
 | --- | --- | --- | --- |
@@ -21,7 +23,6 @@ Levothyroxine sodium, USP tablets are supplied as follows:
 
 Storage Conditions
 
-Store at 25°C (77°F); excursions permitted to 15° to 30° C (59° to 86° F)
+Store levothyroxine sodium tablets at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).
 
-[see USP Controlled Room Temperature].
 Levothyroxine sodium tablets should be protected from light and moisture.
