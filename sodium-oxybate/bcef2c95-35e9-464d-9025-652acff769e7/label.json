@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021196"
+  ],
+  "inn": "sodium-oxybate",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-9628-57"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sodium oxybate",
+      "name": "N/A"
+    }
+  ],
+  "setid": "bcef2c95-35e9-464d-9025-652acff769e7",
+  "source": "dailymed"
+}
