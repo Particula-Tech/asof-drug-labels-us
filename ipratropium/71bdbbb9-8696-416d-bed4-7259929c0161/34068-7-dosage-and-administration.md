@@ -10,7 +10,7 @@ The safety and effectiveness of the use of ipratropium bromide nasal solution 0.
 
 ## For Symptomatic Relief of Rhinorrhea Associated with Seasonal Allergic Rhinitis
 
-The recommended dose of ipratropium bromide nasal solution 0.06% is two sprays (84 mcg) per nostril four times daily (total dose 672 mcg/day) in adults and children age 5 years and older.
+The recommended dose of ipratropium bromide nasal solution, 0.06% is two sprays (84 mcg) per nostril four times daily (total dose 672 mcg/day) in adults and children age 5 years and older.
 
 The safety and effectiveness of the use of ipratropium bromide nasal solution 0.06% beyond three weeks in patients with seasonal allergic rhinitis have not been established.
 

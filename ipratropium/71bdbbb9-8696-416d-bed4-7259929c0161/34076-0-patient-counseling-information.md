@@ -1,6 +1,6 @@
-# PATIENT'S INSTRUCTIONS FOR USE
+# PATIENT’S INSTRUCTIONS FOR USE
 
-Ipratropium Bromide Nasal Solution 0.06% Nasal Spray 42 mcg/spray
+Ipratropium Bromide Nasal Solution 0.06% Nasal Spray, 42 mcg/spray
 
 Rx Only
 
@@ -16,51 +16,35 @@ Read complete instructions carefully and use only as directed.
 
 To Use:
 
-1.
-Remove the clear plastic dust cap and the green safety clip from the nasal spray pump (Figure 1).
-The safety clip prevents the accidental discharge of the spray in your pocket or purse.
+1. 1.Remove the clear plastic dust cap and the green safety clip from the nasal spray pump (Figure 1).
+   The safety clip prevents the accidental discharge of the spray in your pocket or purse.
 
 Figure 1
 
-2.
-The nasal spray pump must be primed before ipratropium bromide nasal solution 0.06% is used for the first time.
-To prime the pump, hold the bottle with your thumb at the base and your index and middle fingers on the white shoulder area.
-Make sure the bottle points upright and away from your eyes.
-Press your thumb firmly and quickly against the bottle seven times (Figure 2).
-The pump is now primed and can be used.
-Your pump should not have to be reprimed unless you have not used the medication for more than 24 hours; repriming the pump will only require two sprays.
-If you have not used your nasal spray for more than seven days, repriming the pump will require seven sprays.
+1. 2.The nasal spray pump must be primed before ipratropium bromide nasal solution, 0.06% is used for the first time.
+   To prime the pump, hold the bottle with your thumb at the base and your index and middle fingers on the white shoulder area.
+   Make sure the bottle points upright and away from your eyes.
+   Press your thumb firmly and quickly against the bottle seven times (Figure 2).
+   The pump is now primed and can be used.
+   Your pump should not have to be reprimed unless you have not used the medication for more than 24 hours; repriming the pump will only require two sprays.
+   If you have not used your nasal spray for more than seven days, repriming the pump will require seven sprays.
 
 Figure 2
 
-3.
-Before using ipratropium bromide nasal solution 0.06%, blow your nose gently to clear your nostrils if necessary.
-
-4.
-Close one nostril by gently placing your finger against the side of your nose, tilt your head slightly forward and, keeping the bottle upright, insert the nasal tip into the other nostril (Figure 3).
-Point the tip toward the back and outer side of the nose.
+1. 3.Before using ipratropium bromide nasal solution 0.06%, blow your nose gently to clear your nostrils if necessary.
+2. 4.Close one nostril by gently placing your finger against the side of your nose, tilt your head slightly forward and, keeping the bottle upright, insert the nasal tip into the other nostril (Figure 3).
+   Point the tip toward the back and outer side of the nose.
 
 Figure 3
 
-5.
-Press firmly and quickly upwards with the thumb at the base while holding the white shoulder portion of the pump between your index and middle fingers.
-Following each spray, sniff deeply and breathe out through your mouth.
-
-6.
-After spraying the nostril and removing the unit, tilt your head backwards for a few seconds to let the spray spread over the back of the nose.
-
-7.
-Repeat steps 4 through 6 in the same nostril.
-
-8.
-Repeat steps 4 through 7 in the other nostril (i.e., two sprays per nostril).
-
-9.
-Replace the clear plastic dust cap and safety clip.
-
-10.
-At some time before the medication is completely used up, you should consult your physician or pharmacist to determine whether a refill is needed.
-You should not take extra doses or stop using ipratropium bromide nasal solution, 0.06% without consulting your physician.
+1. 5.Press firmly and quickly upwards with the thumb at the base while holding the white shoulder portion of the pump between your index and middle fingers.
+   Following each spray, sniff deeply and breathe out through your mouth.
+2. 6.After spraying the nostril and removing the unit, tilt your head backwards for a few seconds to let the spray spread over the back of the nose.
+3. 7.Repeat steps 4 through 6 in the same nostril.
+4. 8.Repeat steps 4 through 7 in the other nostril (i.e., two sprays per nostril).
+5. 9.Replace the clear plastic dust cap and safety clip.
+6. 10.At some time before the medication is completely used up, you should consult your physician or pharmacist to determine whether a refill is needed.
+   You should not take extra doses or stop using ipratropium bromide nasal solution 0.06% without consulting your physician.
 
 To Clean:
 
@@ -82,7 +66,7 @@ Should this occur, immediately flush your eye with cool tap water for several mi
 If you accidentally spray ipratropium bromide nasal solution 0.06% in your eyes, you may experience a temporary blurring of vision, visual halos or colored images in association with red eyes from conjunctival and corneal congestion, development or worsening of narrow-angle glaucoma, pupil dilation, or acute eye pain/discomfort, and increased sensitivity to light, which may last a few hours.
 Should eye pain or blurred vision occur, contact your doctor.
 
-Should you experience excessive nasal dryness or episodes of nasal bleeding contact your doctor.
+Should you experience excessive nasal dryness or episodes of nasal bleeding, contact your doctor.
 
 If you have glaucoma or difficulty urinating due to an enlargement of the prostate, be sure to tell your physician prior to using ipratropium bromide nasal solution 0.06%.
 
@@ -94,14 +78,14 @@ Store at 20° to 25°C (68° to 77°F).[See USP Controlled Room Temperature.]
 Avoid freezing.
 Keep out of reach of children.
 
-Address medical inquiries to West-Ward Pharmaceuticals Corp. at 1-800-962-8364.
+Address medical inquiries to Hikma Pharmaceuticals USA Inc. at 1-800-962-8364.
 
-Distr. by: West-Ward
+Distributed by:
 
-Pharmaceuticals Corp.
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10001010/07
+C50000618/01
 
-Revised May2016
+Revised July 2022

@@ -1,18 +1,20 @@
 # ADVERSE REACTIONS
 
-Adverse reaction information on ipratropium bromide 0.06% in patients with the common cold was derived from two multicenter, vehicle-controlled clinical trials involving 1,276 patients (195 patients on ipratropium bromide 0.03%, 352 patients on ipratropium bromide 0.06% 189 patients on ipratropium bromide 0.12%, 351 patients on vehicle and 189 patients receiving no treatment).
+Adverse reaction information on ipratropium bromide 0.06% in patients with the common cold was derived from two multicenter, vehicle-controlled clinical trials involving 1,276 patients (195 patients on ipratropium bromide 0.03%, 352 patients on ipratropium bromide 0.06%, 189 patients on ipratropium bromide 0.12%, 351 patients on vehicle and 189 patients receiving no treatment).
 
-Table 1 shows adverse events reported for patients who received ipratropium bromide 0.06% at the recommended dose of 84 mcg per nostril, or vehicle, administered three or four times daily, where the incidence is 1% or greater in the Ipratropium Bromide group and higher in the ipratropium bromide group than in the vehicle group.
+Table 1 shows adverse events reported for patients who received ipratropium bromide 0.06% at the recommended dose of 84 mcg per nostril, or vehicle, administered three or four times daily, where the incidence is 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group.
 
-Table 1: % of Patients with Common Cold Reporting EventsThis table includes adverse events for which the incidence was 1% or greater in the Ipratropium Bromide group and higher in the ipratropium bromide group than in the vehicle group
+Table 1: % of Patients with Common Cold Reporting Events1
 
 |  | Ipratropium Bromide 0.06% | Vehicle Control |
 | --- | --- | --- |
 | No. of Patients | 352 | 351 |
-| EpistaxisEpistaxis reported by 5.4% of ipratropium bromide patients and 1.4% of vehicle patients, blood tinged nasal mucus by 2.8% of ipratropium bromide patients and 0.9% of vehicle patients. | 8.2% | 2.3% |
+| Epistaxis2 | 8.2% | 2.3% |
 | Nasal Dryness | 4.8% | 2.8% |
 | Dry Mouth/Throat | 1.4% | 0.3% |
 | Nasal Congestion | 1.1% | 0.0% |
+| 1 This table includes adverse events for which the incidence was 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group. |  |  |
+| 2 Epistaxis reported by 5.4% of ipratropium bromide patients and 1.4% of vehicle patients, blood tinged nasal mucus by 2.8% of ipratropium bromide patients and 0.9% of vehicle patients. |  |  |
 
 Ipratropium bromide 0.06% was well tolerated by most patients.
 The most frequently reported adverse events were transient episodes of nasal dryness or epistaxis.
@@ -27,12 +29,12 @@ Nasal adverse events seen in the clinical trial with seasonal allergic rhinitis 
 Additional events were reported at a higher rate in the SAR trial due in part to the longer duration of the trial and the inclusion of Upper Respiratory Tract Infection (URI) as an adverse event.
 In common cold trials, URI was the disease under study and not an adverse event.
 
-Table 2: % of Patients with SAR Reporting EventsThis table includes adverse events for which the incidence was 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group.
+Table 2: % of Patients with SAR Reporting Events1
 
 |  | Ipratropium Bromide 0.06% | Vehicle Control |
 | --- | --- | --- |
 | No. of Patients | 218 | 211 |
-| EpistaxisEpistaxis reported by 3.7% of ipratropium bromide patients and 2.4% of vehicle patients, blood tinged nasal mucus by 2.3% of ipratropium bromide patients and 1.9% of vehicle patients. | 6.0% | 3.3% |
+| Epistaxis2 | 6.0% | 3.3% |
 | Pharyngitis | 5.0% | 3.8% |
 | URI | 5.0% | 3.3% |
 | Nasal Dryness | 4.6% | 0.9% |
@@ -42,6 +44,8 @@ Table 2: % of Patients with SAR Reporting EventsThis table includes adverse even
 | Sinusitis | 2.8% | 2.8% |
 | Pain | 1.8% | 0.9% |
 | Diarrhea | 1.8% | 0.5% |
+| 1 This table includes adverse events for which the incidence was 1% or greater in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group. |  |  |
+| 2 Epistaxis reported by 3.7% of ipratropium bromide patients and 2.4% of vehicle patients, blood tinged nasal mucus by 2.3% of ipratropium bromide patients and 1.9% of vehicle patients. |  |  |
 
 There were no reports of allergic-type reactions in the controlled clinical common cold and SAR trials.
 

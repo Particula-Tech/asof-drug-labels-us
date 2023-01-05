@@ -48,7 +48,7 @@ No specific pharmacokinetic studies were conducted to evaluate potential drug-dr
 ### Pharmacodynamics
 
 In two single dose trials (n=17), doses up to 336 mcg of ipratropium bromide did not significantly affect pupillary diameter, heart rate, or systolic/diastolic blood pressure.
-Similarly, ipratropium bromide nasal spray 0.06% in adult patients (n=22) with induced-colds (84 mcg/nostril four times a day) and in pediatric patients (n=45) with naturally acquired common cold (84 mcg/nostril three times a day) had no significant effects on pupillary diameter, heart rate, or systolic/diastolic blood pressure.
+Similarly, ipratropium bromide 0.06% in adult patients (n=22) with induced-colds (84 mcg/nostril four times a day) and in pediatric patients (n=45) with naturally acquired common cold (84 mcg/nostril three times a day) had no significant effects on pupillary diameter, heart rate, or systolic/diastolic blood pressure.
 
 Controlled clinical trials demonstrated that intranasal fluorocarbon-propelled ipratropium bromide does not alter physiologic nasal functions (e.g., sense of smell, ciliary beat frequency, mucociliary clearance, or the air conditioning capacity of the nose).
 
@@ -61,7 +61,7 @@ There was no effect of ipratropium bromide 0.06% on degree of nasal congestion o
 The response to ipratropium bromide 0.06% did not appear to be affected by age or gender.
 No controlled clinical trials directly compared the efficacy of three times daily versus four times daily treatment.
 
-One clinical trial was conducted with ipratropium bromide 0.06% administered four times daily for three weeks, in 218 patients with rhinorrhea associated with Seasonal Allergic Rhinitis (SAR), compared to its vehicle in 211 patients.
+One clinical trial was conducted with ipratropium bromide 0.06%, administered four times daily for three weeks, in 218 patients with rhinorrhea associated with Seasonal Allergic Rhinitis (SAR), compared to its vehicle in 211 patients.
 Patients in this trial were adults and adolescents 12 years of age and above.
 Ipratropium bromide 0.06% was significantly more effective in reducing the severity and duration of rhinorrhea over the three weeks of the study, as measured by daily patient symptom scores.
 There was no difference between treatment groups in the effect on nasal congestion, sneezing or itching eyes.
