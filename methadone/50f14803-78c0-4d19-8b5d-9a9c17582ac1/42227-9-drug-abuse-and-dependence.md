@@ -29,7 +29,7 @@ Careful record-keeping of prescribing information, including quantity, frequency
 
 Proper assessment and selection of the patient, proper prescribing practices, periodic re-evaluation of therapy, and proper dispensing and storage are appropriate measures that help to limit abuse of opioid drugs.
 
-Risks Specific to Abuse of Methadone Hydrochloride Tablets:
+Risks Specific to Abuse of Methadone Hydrochloride Tablets
 
 Abuse of Methadone Hydrochloride Tablets poses a risk of overdose and death.
 This risk is increased with concurrent abuse of methadone and alcohol or other substances.

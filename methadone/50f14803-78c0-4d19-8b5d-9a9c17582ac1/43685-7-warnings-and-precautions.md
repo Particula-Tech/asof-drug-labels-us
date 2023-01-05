@@ -125,7 +125,7 @@ When using Methadone Hydrochloride Tablets with CYP3A4, CYP2B6, CYP2C19, or CYP2
 
 Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Methadone Hydrochloride Tablets with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 
-For Patients Being Treated for Pain:
+For Patients Being Treated for Pain
 
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
@@ -143,7 +143,7 @@ Advise both patients and caregivers about the risks of respiratory depression an
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
 Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see Drug Interactions (7) and Patient Counseling Information (17)].
 
-For Patients Being Treated for Opioid Addiction:
+For Patients Being Treated for Opioid Addiction
 
 Concomitant use of methadone and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -173,11 +173,11 @@ Toxicology screening should test for prescribed and illicit benzodiazepines [see
 
 The use of Methadone Hydrochloride Tablets in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease:
+Patients with Chronic Pulmonary Disease
 
 Methadone Hydrochloride Tablets-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of Methadone Hydrochloride Tablets [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients:
+Elderly, Cachectic, or Debilitated Patients
 
 Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 

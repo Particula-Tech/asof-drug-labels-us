@@ -27,13 +27,13 @@ Discuss the availability of naloxone for the emergency treatment of opioid overd
 
 For Patients Being Treated for Pain
 
-1. Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-   The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+- Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
+  The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 
 For Patients Being Treated for Opioid Addiction
 
-1. Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
-   Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Tablets itself.
+- Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
+  Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Tablets itself.
 
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.3), Patient Counseling Information (17)].
@@ -42,7 +42,7 @@ Inform patients and caregivers of their options for obtaining naloxone as permit
 
 ## 2.4 Methadone Hydrochloride Tablets for Management of Pain
 
-Important Dosage and Administration Information:
+Important Dosage and Administration Information
 
 Methadone Hydrochloride Tablets should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
 
@@ -103,21 +103,21 @@ Step 1:
 
 Sum the total daily dose of the opioid (in this case, Morphine Extended Release Tablets 50 mg twice daily)
 
-1. 50 mg Morphine Extended Release Tablets 2 times daily = 100 mg total daily dose of Morphine
+- 50 mg Morphine Extended Release Tablets 2 times daily = 100 mg total daily dose of Morphine
 
 Step 2:
 
 Calculate the approximate equivalent dose of Methadone Hydrochloride Tablets based on the total daily dose of Morphine using Table 1.
 
-1. 100 mg total daily dose of Morphine x 15% (10% to 20% per Table 1) = 15 mg Methadone Hydrochloride Tablets daily
+- 100 mg total daily dose of Morphine x 15% (10% to 20% per Table 1) = 15 mg Methadone Hydrochloride Tablets daily
 
 Step 3:
 
 Calculate the approximate starting dose of Methadone Hydrochloride Tablets to be given every 12 hours.
 Round down, if necessary, to the appropriate Methadone Hydrochloride Tablets strengths available.
 
-1. 15 mg daily / 2 = 7.5 mg Methadone Hydrochloride Tablets every 12 hours
-2. Then 7.5 mg is rounded down to 5 mg Methadone Hydrochloride Tablets every 12 hours
+- 15 mg daily / 2 = 7.5 mg Methadone Hydrochloride Tablets every 12 hours
+- Then 7.5 mg is rounded down to 5 mg Methadone Hydrochloride Tablets every 12 hours
 
 Close observation and frequent titration are warranted until pain management is stable on the new opioid.
 Monitor patients for signs and symptoms of opioid withdrawal or for signs of over-sedation/toxicity after converting patients to Methadone Hydrochloride Tablets.
@@ -167,7 +167,7 @@ If withdrawal symptoms arise, it may be necessary to pause the taper for a perio
 In addition, monitor patients for any changes in mood, emergence of suicidal thoughts, or use of other substances.
 
 When managing patients taking opioid analgesics, particularly those who have been treated for a long duration and/or with high doses for chronic pain, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper.
-A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warningsand Precautions (5.15), Drug Abuse and Dependence (9.3)].
+A multimodal approach to pain management may optimize the treatment of chronic pain, as well as assist with the successful tapering of the opioid analgesic [see Warnings and Precautions (5.15), Drug Abuse and Dependence (9.3)].
 
 ## 2.7 Induction/Initial Dosing for Detoxification and Maintenance Treatment of Opioid Addiction
 
@@ -190,7 +190,7 @@ Do not determine initial doses based on previous treatment episodes or dollars s
 During the induction phase of methadone maintenance treatment, patients are being withdrawn from opioids and may have opioid withdrawal symptoms.
 Monitor patients for signs and symptoms of opioid withdrawal including: lacrimation, rhinorrhea, sneezing, yawning, excessive perspiration, goose-flesh, fever, chilling alternating with flushing, restlessness, irritability, weakness, anxiety, depression, dilated pupils, tremors, tachycardia, abdominal cramps, body aches, involuntary twitching and kicking movements, anorexia, nausea, vomiting, diarrhea, intestinal spasms, and weight loss and consider dose adjustment as indicated.
 
-Short-term Detoxification:
+Short-term Detoxification
 
 For a brief course of stabilization followed by a period of medically supervised withdrawal, titrate the patient to a total daily dose of about 40 mg in divided doses to achieve an adequate stabilizing level.
 After 2 to 3 days of stabilization, gradually decrease the dose of Methadone Hydrochloride Tablets.
@@ -224,5 +224,4 @@ When opioids are required for management of acute pain in methadone maintenance 
 ## 2.12 Dosage Adjustment during Pregnancy
 
 Methadone clearance may be increased during pregnancy.
-During pregnancy, a woman’s methadone dose may need to be increased or the dosing interval decreased.
-Methadone should be used in pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
+During pregnancy, a woman’s methadone dose may need to be increased or the dosing interval decreased [see Use in Specific Populations (8.1)].

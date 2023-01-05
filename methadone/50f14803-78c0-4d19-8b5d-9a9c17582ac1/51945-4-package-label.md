@@ -1,23 +1,15 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Methadone Hydrochloride Tablets USP, 5 mg
-
-0054-0709-25, Rx only
+NDC 0054-0709-25 100 Tablets Methadone Hydrochloride Tablets, USP CII 5 mg Rx only
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Methadone Hydrochloride Tablets USP, 10 mg
-
-0054-0709-20, Rx only
+NDC 0054-0709-20 10x10 Unit-Dose Tablets Methadone Hydrochloride Tablets, USP CII 5 mg Rx only
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Methadone Hydrochloride Tablets USP, 5 mg
-
-0054-0710-25, Rx only
+NDC 0054-0710-25 100 Tablets Methadone Hydrochloride Tablets, USP CII 10 mg Rx only
 
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Methadone Hydrochloride Tablets USP, 10 mg
-
-0054-0710-20, Rx only
+NDC 0054-0710-20 10x10 Unit-Dose Tablets Methadone Hydrochloride Tablets, USP CII 10 mg Rx only
