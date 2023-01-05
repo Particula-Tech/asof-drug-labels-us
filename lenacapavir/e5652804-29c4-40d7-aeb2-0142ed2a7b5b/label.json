@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA215973",
+    "NDA215974"
+  ],
+  "inn": "lenacapavir",
+  "labeler": "Gilead Sciences",
+  "package_ndcs": [
+    "61958-3001-1",
+    "61958-3001-2",
+    "61958-3002-1",
+    "61958-3004-1"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "lenacapavir sodium",
+      "name": "Sunlenca"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lenacapavir sodium",
+      "name": "Sunlenca"
+    }
+  ],
+  "setid": "e5652804-29c4-40d7-aeb2-0142ed2a7b5b",
+  "source": "dailymed"
+}
