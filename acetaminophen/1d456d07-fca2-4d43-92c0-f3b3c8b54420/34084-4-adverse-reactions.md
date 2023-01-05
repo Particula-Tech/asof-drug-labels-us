@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adult Population
 
-A total of 1020 adult patient have received acetaminophen in clinical trials, including 37.3% (n=380) who received 5 or more doses, and 17.0% (n=173) who received more than 10 doses.
+A total of 1020 adult patients have received acetaminophen in clinical trials, including 37.3% (n=380) who received 5 or more doses, and 17.0% (n=173) who received more than 10 doses.
 Most patients were treated with acetaminophen 1000 mg every 6 hours.
 A total of 13.1% (n=134) received acetaminophen 650 mg every 4 hours.
 

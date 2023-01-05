@@ -29,7 +29,7 @@ Manufactured in India for:
 
 Mylan Institutional LLC
 
-Rockford, IL 61103 U.S.A.
+Morgantown, WV 26505 U.S.A.
 
 Code No.: KR/DRUGS/KTK/28D/18/2016
 
@@ -79,7 +79,7 @@ Manufactured for:
 
 Mylan Institutional LLC
 
-Rockford, IL 61103 U.S.A.
+Morgantown, WV 26505 U.S.A.
 
 Made in India
 

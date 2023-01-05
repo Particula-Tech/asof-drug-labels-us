@@ -19,7 +19,7 @@ Manufactured for:
 
 Mylan Institutional LLC
 
-Rockford, IL 61103 U.S.A.
+Morgantown, WV 26505 U.S.A.
 
 Manufactured by:
 
@@ -27,4 +27,4 @@ Mylan Laboratories Limited
 
 Bangalore, India
 
-DECEMBER 2019
+MAY 2022

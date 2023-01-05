@@ -6,7 +6,7 @@ Administration of acetaminophen in doses higher than recommended may result in h
 Do not exceed the maximum recommended daily dose of acetaminophen [see Dosage and Administration (2)].
 The maximum recommended daily dose of acetaminophen includes all routes of acetaminophen administration and all acetaminophen-containing products administered, including combination products.
 
-Use caution when administering acetaminophen in patients with the following conditions: hepatic impairment or active hepatic disease, alcoholism, chronic malnutrition, severe hypovolemia (e.g., due to dehydration or blood loss), or severe renal impairment (creatinine clearance ≤ 30 mL/min) [see Use in Specific Populations (8.6,8.7)].
+Use caution when administering acetaminophen in patients with the following conditions: hepatic impairment or active hepatic disease, alcoholism, chronic malnutrition, severe hypovolemia (e.g., due to dehydration or blood loss), or severe renal impairment (creatinine clearance ≤ 30 mL/min) [see Use in Specific Populations (8.6, 8.7)].
 
 ## 5.2 Serious Skin Reactions
 
@@ -15,7 +15,7 @@ Patients should be informed about the signs of serious skin reactions, and use o
 
 ## 5.3 Risk of Medication Errors
 
-Take care when prescribing, preparing, and administering acetaminophen in order to avoid dosing errors which could result in accidental overdose and death.
+Take care when prescribing, preparing, and administering acetaminophen injection in order to avoid dosing errors which could result in accidental overdose and death.
 In particular, be careful to ensure that:
 
 - •the dose in milligrams (mg) and milliliters (mL) is not confused;
