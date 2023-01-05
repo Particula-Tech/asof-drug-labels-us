@@ -10,4 +10,4 @@ HLS Therapeutics (USA), Inc. Rosemont, PA 19010 (844) 457-8721
 
 © HLS Therapeutics
 
-2020HER008 February 2021
+2022HER002 December 2022
