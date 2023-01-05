@@ -8,23 +8,17 @@ Oxaliplatin Injection, USP
 
 (5 mg/mL)
 
-Must be diluted
+For Intravenous Infusion After Dilution
 
-CYTOTOXIC AGENT
-
-See package insert for further required dilution.
+Warning: Cytotoxic Agent
 
 DO NOT MIX OR ADD TO SODIUM CHLORIDE/CHLORIDE-CONTAINING SOLUTIONS
-
-Sterile
-
-FOR INTRAVENOUS USE ONLY
 
 Mylan
 
 Rx only
 
-Single-Use Vial
+One Single-Dose Vial
 
 # Package/Label Display Panel
 
@@ -36,20 +30,14 @@ Oxaliplatin Injection, USP
 
 (5 mg/mL)
 
-Must be diluted
+For Intravenous Infusion After Dilution
 
-CYTOTOXIC AGENT
+Warning: Cytotoxic Agent
 
-See package insert for further required dilution.
-
-DO NOT MIX OR ADD TO SODIUM CHLORIDE/ CHLORIDE-CONTAINING SOLUTIONS
-
-Sterile
-
-For Intravenous Use Only
+DO NOT MIX OR ADD TO SODIUM CHLORIDE/CHLORIDE-CONTAINING SOLUTIONS
 
 Mylan
 
 Rx only
 
-Single-Use Vial
+One Single-Dose Vial
