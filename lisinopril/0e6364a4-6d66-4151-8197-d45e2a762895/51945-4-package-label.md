@@ -1,6 +1,6 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 2.5 mg (100 Tablets Bottle)
 
-ONCE - DAILY NDC 65862-037-01 Lisinopril Tablets, USP 2.5 mg Rx only 100 Tablets AUROBINDO
+NDC 65862-037-01 ONCE - DAILY Lisinopril Tablets, USP 2.5 mg Rx only 100 Tablets AUROBINDO
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 5 mg (100 Tablets Bottle)
 
