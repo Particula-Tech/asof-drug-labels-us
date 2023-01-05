@@ -5,7 +5,7 @@ Telmisartan
 Limited data are available with regard to overdosage of telmisartan in humans.
 The most likely manifestations of overdosage with telmisartan are hypotension, dizziness, and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation.
 If symptomatic hypotension should occur, supportive treatment should be instituted.
-Telmisartan is not removed by hemodialysis.
+Telmisartan is not removed by hemofiltration and is not dialyzable.
 
 Hydrochlorothiazide
 

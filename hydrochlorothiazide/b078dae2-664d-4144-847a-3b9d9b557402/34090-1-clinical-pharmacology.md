@@ -109,7 +109,7 @@ Specific Populations
 
 Telmisartan
 
-Renal Insufficiency: Telmisartan is not removed from blood by hemofiltration [see Warnings and Precautions (5.3), and Use in Specific Populations (8.7)].
+Renal Insufficiency: Telmisartan is not removed from blood by hemofiltration and is not dialyzable [see Warnings and Precautions (5.3) and Use in Specific Populations (8.7)].
 
 Hepatic Insufficiency: In patients with hepatic insufficiency, plasma concentrations of telmisartan are increased, and absolute bioavailability approaches 100% [see Use in Specific Populations (8.6)].
 

@@ -142,7 +142,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store MICARDIS HCT tablets?
 
-- Store MICARDIS HCT tablets at room temperature 68°F to 77°F (20°C to 25°C).
+- Store MICARDIS HCT tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 - Do not remove MICARDIS HCT tablets from blisters until right before you take them.
 
 Keep MICARDIS HCT tablets and all medicines out of the reach of children.
@@ -158,7 +158,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about MICARDIS HCT tablets that is written for health professionals.
 
-For current prescribing information, scan the code below or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257 or (TTY) 1-800-459-9906.
+For current prescribing information, scan the code or call Boehringer Ingelheim Pharmaceuticals, Inc. at 1-800-542-6257.
 
 What are the ingredients in MICARDIS HCT tablets?
 
@@ -191,12 +191,14 @@ Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc. Ridgefield, CT 06877 
 
 Licensed from: Boehringer Ingelheim International GmbH Ingelheim, Germany
 
-Copyright © 2020 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2022 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
 MICARDIS® is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
+Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the ONTARGET® trademark under license.
+
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Revised: August 2020
+Revised: December 2022
 
-IT5825EH262020
+COL10674AL272022 SPL10694A

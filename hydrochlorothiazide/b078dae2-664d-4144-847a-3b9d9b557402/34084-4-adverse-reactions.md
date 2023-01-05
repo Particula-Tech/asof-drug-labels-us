@@ -102,37 +102,35 @@ No patient discontinued treatment with MICARDIS HCT tablets because of an increa
 The following adverse reactions have been identified during post-approval use of MICARDIS HCT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: eosinophilia
+Blood and Lymphatic System Disorders: Eosinophilia
 
-Cardiac Disorders: atrial fibrillation, congestive heart failure, myocardial infarction, tachycardia, bradycardia
+Cardiac Disorders: Tachycardia
 
-Ear and Labyrinth Disorders: vertigo
+Ear and Labyrinth Disorders: Vertigo
 
-General Disorders and Administration Site Conditions: asthenia, edema
+General Disorders and Administration Site Conditions: Asthenia, edema
 
 Hepato-biliary: Abnormal hepatic function/liver disorder
 
-Immune System Disorders: anaphylactic reaction
+Immune System Disorders: Anaphylactic reaction
 
-Infections and Infestations: urinary tract infection
+Investigations: Increased CPK
 
-Investigations: increased CPK
+Metabolism and Nutrition Disorders: Hypoglycemia (in diabetic patients), hyponatremia
 
-Metabolism and Nutrition Disorders: hypoglycemia (in diabetic patients)
+Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis
 
-Musculoskeletal and Connective Tissue Disorders: tendon pain (including tendonitis, tenosynovitis), rhabdomyolysis
+Nervous System Disorders: Headache, syncope
 
-Nervous System Disorders: syncope, headache
+Renal and Urinary Disorders: Renal failure, renal impairment including acute renal failure
 
-Renal and Urinary Disorders: renal failure, renal impairment including acute renal failure
+Reproductive System and Breast Disorders: Erectile dysfunction
 
-Reproductive System and Breast Disorders: erectile dysfunction
+Respiratory, Thoracic and Mediastinal Disorders: Coughing
 
-Respiratory, Thoracic and Mediastinal Disorders: coughing
+Skin and Subcutaneous Tissue Disorders: Angioedema (with fatal outcome), drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria)
 
-Skin and Subcutaneous Tissue Disorders: drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria), angioedema (with fatal outcome)
-
-Vascular Disorder: orthostatic hypotension
+Vascular Disorder: Orthostatic hypotension
 
 Non-melanoma Skin Cancer
 
