@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021879"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "Otsuka America Pharmaceutical, Inc",
+  "package_ndcs": [
+    "59148-053-07",
+    "59148-053-16",
+    "59148-053-98"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, GELATIN COATED",
+      "generic": "dextromethorphan hydrobromide and quinidine sulfate",
+      "name": "Nuedexta"
+    }
+  ],
+  "setid": "c8cce784-8c5f-415b-8068-76e5d481d159",
+  "source": "dailymed"
+}
