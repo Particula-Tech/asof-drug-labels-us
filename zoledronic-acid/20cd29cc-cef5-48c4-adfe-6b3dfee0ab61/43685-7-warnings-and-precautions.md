@@ -91,4 +91,4 @@ In animal reproduction studies, administration of zoledronic acid to pregnant ra
 Bisphosphonates, such as zoledronic acid, are incorporated into the bone matrix, from where they are gradually released over periods of weeks to years.
 There may be a risk of fetal harm (e.g., skeletal and other abnormalities) if a woman becomes pregnant after completing a course of bisphosphonate therapy.
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during and after zoledronic acid treatment [see Use in Specific Populations (8.1,8.3), Clinical Pharmacology (12.1)].
+Advise females of reproductive potential to use effective contraception during and after zoledronic acid treatment [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
