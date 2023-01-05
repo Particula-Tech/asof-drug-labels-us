@@ -18,9 +18,11 @@ Serious damage to the eye and subsequent loss of vision may result from using co
 
 When to Seek Physician Advice
 
-Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician's advice concerning the continued use of the multiple-dose container.
+Advise patients that if they develop an intercurrent ocular condition (e.g., trauma or infection) or have ocular surgery, or develop any ocular reactions, particularly conjunctivitis and eyelid reactions, they should immediately seek their physician’s advice concerning the continued use of the multiple-dose container.
 
-Contact Lens UseAdvise patients that XALATAN contains benzalkonium chloride, which may be absorbed by contact lenses.
+Contact Lens Use
+
+Advise patients that XALATAN contains benzalkonium chloride, which may be absorbed by contact lenses.
 Contact lenses should be removed prior to administration of the solution.
 Lenses may be reinserted 15 minutes following administration of XALATAN.
 
@@ -31,3 +33,10 @@ Advise patients that if more than one topical ophthalmic drug is being used, the
 If a Dose is Missed
 
 Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
+
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
+
+Pfizer Manufacturing Belgium NV Puurs, Belgium
+
+LAB-0135-14.1

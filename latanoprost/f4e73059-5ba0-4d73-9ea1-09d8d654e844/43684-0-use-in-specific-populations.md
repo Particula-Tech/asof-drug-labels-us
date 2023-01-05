@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+### Risk Summary
 
 There are no adequate and well-controlled studies of XALATAN administration in pregnant women.to inform drug-associated risks.
 
@@ -11,9 +11,9 @@ In animal reproduction studies, intravenous (IV) administration of latanoprost t
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 However, the background risk in the U.S. general population of major birth defects is 2 to 4%, and of miscarriage is 15 to 20% of clinically recognized pregnancies.
 
-Data
+### Data
 
-Animal Data
+#### Animal Data
 
 Embryofetal studies were conducted in pregnant rabbits administered latanoprost daily by IV injection on gestation days 6 through 18, to target the period of organogenesis.
 A no observed adverse effect level (NOAEL) was not established for rabbit developmental toxicity.
@@ -37,12 +37,12 @@ At 100 mcg/kg/day (324 times the maximum RHOD), maternal deaths and pup mortalit
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 It is not known whether this drug or its metabolites are excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when XALATAN is administered to a nursing woman.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for XALATAN and any potential adverse effects on the breastfed child from XALATAN.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for XALATAN and any potential adverse effects on the breastfed child from XALATAN.
 
 ## 8.4 Pediatric Use
 

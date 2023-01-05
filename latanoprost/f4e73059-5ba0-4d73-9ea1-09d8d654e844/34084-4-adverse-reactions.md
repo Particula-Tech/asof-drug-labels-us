@@ -2,11 +2,11 @@
 
 The following adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the label:
 
-- Iris pigmentation changes [see Warnings and Precautions (5.1)]
-- Eyelid skin darkening [see Warnings and Precautions (5.1)]
-- Eyelash changes (increased length, thickness, pigmentation, and number of lashes) [see Warnings and Precautions (5.2)]
-- Intraocular inflammation (iritis/uveitis) [see Warnings and Precautions (5.3)]
-- Macular edema, including cystoid macular edema [see Warnings and Precautions (5.4)]
+- •Iris pigmentation changes [see Warnings and Precautions (5.1)]
+- •Eyelid skin darkening [see Warnings and Precautions (5.1)]
+- •Eyelash changes (increased length, thickness, pigmentation, and number of lashes) [see Warnings and Precautions (5.2)]
+- •Intraocular inflammation (iritis/uveitis) [see Warnings and Precautions (5.3)]
+- •Macular edema, including cystoid macular edema [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -17,11 +17,11 @@ Patients received 50 mcg/mL XALATAN once daily or 5 mg/mL active-comparator (tim
 The patient population studied had a mean age of 65±10 years.
 Seven percent of patients withdrew before the 6-month endpoint.
 
-Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% of Patients Receiving Latanoprost
+Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5-15% of Patients Receiving Latanoprost
 
-| Latanoprost (n=460) | Timolol (n=369) |  |
-| --- | --- | --- |
 | Symptom/Finding | Adverse Reactions (incidence (%)) |  |
+| --- | --- | --- |
+| Latanoprost (n=460) | Timolol (n=369) |  |
 | Foreign body sensation | 13 | 8 |
 | Punctate keratitis | 10 | 9 |
 | Stinging | 9 | 12 |
@@ -33,11 +33,11 @@ Table 1: Ocular Adverse Reactions and Ocular Signs/Symptoms Reported by 5–15% 
 
 Less than 1% of the patients treated with XALATAN required discontinuation of therapy because of intolerance to conjunctival hyperemia.
 
-Table 2: Adverse Reactions That Were Reported in 1–5% of Patients Receiving Latanoprost
+Table 2: Adverse Reactions That Were Reported in 1-5% of Patients Receiving Latanoprost
 
-| Latanoprost (n=460) | Timolol (n=369) |  |
-| --- | --- | --- |
 |  | Adverse Reactions (incidence (%)) |  |
+| --- | --- | --- |
+| Latanoprost (n=460) | Timolol (n=369) |  |
 | Ocular Events/Signs and Symptoms |  |  |
 | Excessive tearing | 4 | 6 |
 | Eyelid discomfort/pain | 4 | 2 |
@@ -65,7 +65,9 @@ Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, 
 
 Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Pruritus
+Gastrointestinal Disorders: Nausea; vomiting
+
+Skin and Subcutaneous Tissue Disorders: Pruritis
 
 Infections and Infestations: Herpes keratitis
 
