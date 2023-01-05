@@ -1590,6 +1590,6 @@ Table 85: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Figure 26: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-## 14.19 Adult Indications: Additional Dosing Regimen of 400 mg Every 6 Weeks
+## 14.19 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks
 
-The efficacy and safety of KEYTRUDA using a dosage of 400 mg every 6 weeks for all approved adult indications was primarily based on the modeling of dose/exposure efficacy and safety relationships and observed pharmacokinetic data in patients with melanoma [see Clinical Pharmacology (12.2)].
+The efficacy and safety of KEYTRUDA using a dosage of 400 mg every 6 weeks for the classical Hodgkin lymphoma and primary mediastinal large B-cell lymphoma indications for adults was primarily based on the dose/exposure efficacy and safety relationships and observed pharmacokinetic data in patients with melanoma [see Clinical Pharmacology (12.2)].

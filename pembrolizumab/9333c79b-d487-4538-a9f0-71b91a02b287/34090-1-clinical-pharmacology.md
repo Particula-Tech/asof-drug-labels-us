@@ -9,7 +9,9 @@ In syngeneic mouse tumor models, blocking PD-1 activity resulted in decreased tu
 
 ## 12.2 Pharmacodynamics
 
-Based on the modeling of dose/exposure efficacy and safety relationships and observed pharmacokinetic data from an interim analysis of 41 patients with melanoma treated with pembrolizumab 400 mg every 6 weeks, there are no anticipated clinically significant differences in efficacy and safety between pembrolizumab doses of 200 mg or 2 mg/kg every 3 weeks or 400 mg every 6 weeks.
+There are no clinically significant exposure-response relationships for efficacy or safety at pembrolizumab dosages of 200 mg or 2 mg/kg every 3 weeks regardless of cancer type.
+There are no clinically significant exposure-response relationships for efficacy or safety at pembrolizumab dosages of 200 mg or 2 mg/kg every 3 weeks and 400 mg every 6 weeks in patients with solid tumors based on observed data in adult patients with melanoma.
+The exposure-response relationships for efficacy or safety at pembrolizumab dosages of 400 mg every 6 weeks in patients with classical Hodgkin lymphoma or mediastinal large B-cell lymphoma have not been fully characterized.
 
 ## 12.3 Pharmacokinetics
 
