@@ -133,3 +133,35 @@ PROTECT FROM FREEZING.
 SEE INSERT.
 
 98-4321-R14-3/98
+
+# PRINCIPAL DISPLAY PANEL - 500 mL Bag Label - 3150
+
+500mL NDC 0409-3150-05
+
+25,000 USP Units / 500 mL (50 USP Units / mL)
+
+Heparin Sodium 25,000 USP Units / 500 mL (50 USP Units / mL) in 0.45% Sodium Chloride Injection
+
+Each 100 mL contains Heparin Sodium 5,000 USP Units (Porcine Intestinal Mucosa); Sodium Chloride 0.45 g; Edetate Disodium, Anhydrous 10 mg added as stabilizer.
+May contain Sodium Hydroxide and/or Hydrochloric Acid for pH adjustment.
+Sterile.
+Not made with natural rubber latex.
+Recommended dosage: See prescribing information.
+Additives should not be made to this solution.
+Single dose container.
+Discard unused portion.
+For Intravenous Use only.
+Inspect bag by squeezing firmly.
+If leaks are found, discard.
+Store at 20℃ to 25℃ (68℉ to 77℉).
+[See USP Controlled Room Temperature.]
+Protect from freezing.
+Do not remove from overwrap until ready for use.
+
+Rx ONLY
+
+5 PP
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+HOSPIRA
