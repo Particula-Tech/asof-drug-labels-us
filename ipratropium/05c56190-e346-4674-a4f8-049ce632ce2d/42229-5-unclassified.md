@@ -5,7 +5,7 @@ Rx only
 # DESCRIPTION
 
 The active ingredient in Ipratropium Bromide Nasal Solution is ipratropium bromide (as the monohydrate).
-It is an anticholinergic agent chemically described as 8-azoniabicyclo (3.2.1) octane, 3-(3-hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1- methylethyl)-, bromide monohydrate (3-endo, 8-syn)-: a synthetic quaternary ammonium compound, chemically related to atropine.
+It is an anticholinergic agent chemically described as 8-azoniabicyclo (3.2.1) octane, 3-(3-hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1-methylethyl)-, bromide monohydrate (3-endo, 8-syn)-: a synthetic quaternary ammonium compound, chemically related to atropine.
 The structural formula is:
 
 ipratropium bromide C20H30BrNO3 • H2O Mol.
@@ -180,20 +180,25 @@ The majority (>86%) of patients treated for one year were maintained on 42 mcg p
 Table 1 shows adverse events, and the frequency that these adverse events led to the discontinuation of treatment, reported for patients who received ipratropium bromide 0.03% at the recommended dose of 42 mcg per nostril, or vehicle two or three times daily for four or eight weeks.
 Only adverse events reported with an incidence of at least 2.0% in the ipratropium bromide group and higher in the ipratropium bromide group than in the vehicle group are shown.
 
-Table 1: % of Patients Reporting Events
+Table 1: % of Patients Reporting Events+
 
-|  | Incidence% | Discontinued% | Incidence% | Discontinued% |
+|  | Ipratropium Bromide Nasal Spray 0.03%(n=356) |  | Vehicle Control(n=347) |  |
 | --- | --- | --- | --- | --- |
-|  | Ipratropium Bromide Nasal Spray 0.03% (n=356) |  | Vehicle Control (n=347) |  |
+|  | Incidence% | Discontinued% | Incidence% | Discontinued% |
 | Headache | 9.8 | 0.6 | 9.2 | 0.0 |
 | Upper respiratory tract infection | 9.8 | 1.4 | 7.2 | 1.4 |
-| Epistaxis | 9.0 | 0.3 | 4.6 | 0.3 |
-| Rhinitis |  |  |  |  |
+| Epistaxis1 | 9.0 | 0.3 | 4.6 | 0.3 |
+| Rhinitis* |  |  |  |  |
 | Nasal dryness | 5.1 | 0.0 | 0.9 | 0.3 |
-| Nasal irritation | 2.0 | 0.0 | 1.7 | 0.6 |
-| Other nasal symptoms | 3.1 | 1.1 | 1.7 | 0.3 |
+| Nasal irritation2 | 2.0 | 0.0 | 1.7 | 0.6 |
+| Other nasal symptoms3 | 3.1 | 1.1 | 1.7 | 0.3 |
 | Pharyngitis | 8.1 | 0.3 | 4.6 | 0.0 |
 | Nausea | 2.2 | 0.3 | 0.9 | 0.0 |
+| + This table includes adverse events which occurred at an incidence rate of at least 2.0% in the Ipratropium Bromide group and more frequently in the Ipratropium Bromide group than in the vehicle group. |  |  |  |  |
+| 1 Epistaxis reported by 7.0% of Ipratropium Bromide patients and 2.3% of vehicle patients, blood-tinged mucus by 2.0% of Ipratropium Bromide patients and 2.3% of vehicle patients. |  |  |  |  |
+| 2 Nasal irritation includes reports of nasal itching, nasal burning, nasal irritation, and ulcerative rhinitis. |  |  |  |  |
+| 3 Other nasal symptoms include reports of nasal congestion, increased rhinorrhea, increased rhinitis, posterior nasal drip, sneezing, nasal polyps, and nasal edema. |  |  |  |  |
+| * All events are listed by their WHO term; rhinitis has been presented by descriptive terms for clarification. |  |  |  |  |
 
 Ipratropium bromide 0.03% was well tolerated by most patients.
 The most frequently reported nasal adverse events were transient episodes of nasal dryness or epistaxis.
@@ -250,16 +255,16 @@ Avoid freezing.
 Keep out of reach of children.
 Do not spray in the eyes.
 
-Address medical inquiries to West-Ward Pharmaceuticals Corp. at 1-800-962-8364.
+Address medical inquiries to Hikma Pharmaceuticals USA Inc. at 1-800-962-8364.
 
 Patients should be reminded to read and follow the accompanying “Patient’s Instructions for Use”, which should be dispensed with the product.
 
-Distr. by: West-Ward
+Distributed by:
 
-Pharmaceuticals Corp.
+Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10001011/07
+C50000619/01
 
-Revised May 2016
+Revised July 2022
