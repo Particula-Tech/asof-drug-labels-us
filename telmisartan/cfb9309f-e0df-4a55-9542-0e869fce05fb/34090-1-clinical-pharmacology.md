@@ -53,7 +53,7 @@ Total plasma clearance of telmisartan is >800 mL/min.
 Terminal half-life and total clearance appear to be independent of dose.
 
 Specific Populations Renal Insufficiency No dosage adjustment is necessary in patients with decreased renal function.
-Telmisartan is not removed from blood by hemofiltration [see Warnings and Precautions (5.5) and Dosage and Administration (2.1)].
+Telmisartan is not removed from blood by hemofiltration and is not dialyzable [see Warnings and Precautions (5.5) and Dosage and Administration (2.1)].
 Hepatic Insufficiency In patients with hepatic insufficiency, plasma concentrations of telmisartan are increased, and absolute bioavailability approaches 100% [see Warnings and Precautions (5.4) and Use in Specific Populations (8.6)].
 Gender Plasma concentrations of telmisartan are generally 2 to 3 times higher in females than in males.
 In clinical trials, however, no significant increases in blood pressure response or in the incidence of orthostatic hypotension were found in women.
