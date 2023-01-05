@@ -7,7 +7,7 @@ Before prescribing carbamazepine, the physician should be thoroughly familiar wi
 DOSAGE AND ADMINISTRATION (see table below)
 
 Monitoring of blood levels has increased the efficacy and safety of anticonvulsants (see PRECAUTIONS, Laboratory Tests).
-Dosage should be adjusted to the needs of the indi vidual patient.
+Dosage should be adjusted to the needs of the individual patient.
 A low initial daily dosage with a gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the mini mum effective level.
 Medication should be taken with meals.
@@ -30,10 +30,10 @@ Maintenance: Adjust dosage to the minimum effective level, usually 400 to 800 mg
 Children under 6 years of age-Initial: 10 to 20 mg/kg/day twice a day or three times a day.
 Increase weekly to achieve optimal clinical response administered three times a day or four times a day.
 Maintenance: Ordinarily, optimal clinical response is achieved at daily doses below 35 mg/kg.
-If sat isfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the therapeutic range.
+If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the therapeutic range.
 No recommendation regarding the safety of carbamazepine for use at doses above 35 mg/kg/24 hours can be made.
 
-Combination Therapy: Carbamazepine may be used alone or with other anticonvul sants.
+Combination Therapy: Carbamazepine may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy).
 
 Trigeminal Neuralgia (see INDICATIONS AND USAGE)

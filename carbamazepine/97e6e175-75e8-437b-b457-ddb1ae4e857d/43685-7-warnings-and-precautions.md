@@ -10,7 +10,7 @@ If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and
 
 SJS/TEN and HLA-B*1502 Allele
 
-Retrospective case-control studies have found that in patients of Chinese ancestry there is a strong association between the risk of developing SJS/TEN with carbamazepine treatment and the presence of an inherited variant of the HLA-B gene, HLA-B *1502.
+Retrospective case-control studies have found that in patients of Chinese ancestry there is a strong association between the risk of developing SJS/TEN with carbamazepine treatment and the presence of an inherited variant of the HLA-B gene, HLA-B*1502.
 The occurrence of higher rates of these reactions in countries with higher frequencies of this allele suggests that the risk may be increased in allele-positive individuals of any ethnicity.
 
 Across Asian populations, notable variation exists in the prevalence of HLA-B*1502.
@@ -20,9 +20,9 @@ HLA-B*1502 is pres ent in less than 1% of the population in Japan and Korea.
 
 HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 
-Prior to initiating carbamazepine therapy, testing forHLA-B *1502 should be performed in patients with ancestry in populations in which HLA-B *1502 may be present.
-In deciding which patients to screen, the rates provided above for the prevalence of HLA-B *1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
-Carbamazepine should not be used in patients positive for HLA-B *1502 unless the benefits clearly outweigh the risks.
+Prior to initiating carbamazepine therapy, testing forHLA-B* 1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
+In deciding which patients to screen, the rates provided above for the prevalence of HLA-B* 1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
+Carbamazepine should not be used in patients positive for HLA-B* 1502 unless the benefits clearly outweigh the risks.
 Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see BOXED WARNING and PRECAUTIONS, Laboratory Tests).
 
 Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
@@ -131,8 +131,8 @@ Consider discontinuing carbamazepine in patients with symptomatic hyponatremia.
 
 Carbamazepine can cause fetal harm when administered to a pregnant woman.
 
-Epidemiological data suggest that there may be an association between the use of carba mazepine during pregnancy and congenital malformations, including spina bifida.
-There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, and anom alies involving various body systems).
+Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
+There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, and anomalies involving various body systems).
 Developmental delays based on neurobehavioral assessments have been reported.
 When treating or counseling women of childbearing poten tial, the prescribing physician will wish to weigh the benefits of therapy against the risks.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
@@ -252,9 +252,7 @@ Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma le
 Agents That Decrease Carbamazepine Levels
 
 CYP3A4 inducers can increase the rate of carbamazepine metabolism.
-Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include
-
-cisplatin, doxorubicin HCl, felbamate, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
+Drugs that have been shown, or that would be expected, to decrease plasma carbamazepine levels include cisplatin, doxorubicin HCl, felbamate, fosphenytoin, rifampin, phenobarbital, phenytoin, primidone, methsuximide, theophylline, aminophylline.
 
 ## Effect of Carbamazepine on Plasma Levels of Concomitant Agents
 
@@ -326,7 +324,7 @@ Substantial evidence of carbamazepine's effectiveness for use in the management 
 Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e.
 4 to 12 mcg/mL) is the same in children and adults.
 
-The evidence assembled was primarily obtained from short-term use of carba mazepine.
+The evidence assembled was primarily obtained from short-term use of carbamazepine.
 The safety of carbamazepine in children has been systematically studied up to 6 months.
 No longer-term data from clinical trials is available.
 

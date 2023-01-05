@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-If adverse reactions are of such severity that the drug must be discontinued, the physi cian must be aware that abrupt discontinuation of any anticonvulsant drug in a responsive epileptic patient may lead to seizures or even status epilepticus with its life-threatening hazards.
+If adverse reactions are of such severity that the drug must be discontinued, the physician must be aware that abrupt discontinuation of any anticonvulsant drug in a responsive epileptic patient may lead to seizures or even status epilepticus with its life-threatening hazards.
 
 The most severe adverse reactions have been observed in the hemopoietic system and skin (see boxed WARNING), the liver, and the cardiovascular system.
 
@@ -11,7 +11,7 @@ The following additional adverse reactions have been reported:
 
 Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda.
 
-Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reac tions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
+Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
 
 Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism (e.g., pulmonary embolism), and adenopathy or lymphadenopathy.
@@ -25,25 +25,25 @@ Pancreatic: Pancreatitis.
 
 Respiratory System: Pulmonary hypersensitivity characterized by fever, dyspnea, pneumonitis, or pneumonia.
 
-Genitourinary System: Urinary frequency, acute urinary retention, oliguria with ele vated blood pressure, azotemia, renal failure, and impotence.
+Genitourinary System: Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, renal failure, and impotence.
 Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported.
 There have been rare reports of impaired male fertility and/or abnormal spermatogenesis.
 
 Testicular atrophy occurred in rats receiving carbamazepine orally from 4 to 52 weeks at dosage levels of 50 to 400 mg/kg/day.
-Additionally, rats receiving carbamazepine in the diet for 2 years at dosage levels of 25, 75, and 250 mg/kg/day had a dose-related inci dence of testicular atrophy and aspermatogenesis.
+Additionally, rats receiving carbamazepine in the diet for 2 years at dosage levels of 25, 75, and 250 mg/kg/day had a dose-related incidence of testicular atrophy and aspermatogenesis.
 In dogs, it produced a brownish discoloration, presumably a metabolite, in the urinary bladder at dosage levels of 50 mg/kg and higher.
 Relevance of these findings to humans is unknown.
 
-Nervous System: Dizziness, drowsiness, disturbances of coordination, confusion, headache, fatigue, blurred vision, visual hallucinations, transient diplopia, oculomotor dis turbances, nystagmus, speech disturbances, abnormal involuntary movements, peripheral neuritis and paresthesias, depression with agitation, talkativeness, tinnitus, hyperacusis, neuroleptic malignant syndrome.
+Nervous System: Dizziness, drowsiness, disturbances of coordination, confusion, headache, fatigue, blurred vision, visual hallucinations, transient diplopia, oculomotor disturbances, nystagmus, speech disturbances, abnormal involuntary movements, peripheral neuritis and paresthesias, depression with agitation, talkativeness, tinnitus, hyperacusis, neuroleptic malignant syndrome.
 
-There have been reports of associated paralysis and other symptoms of cerebral arte rial insufficiency, but the exact relationship of these reactions to the drug has not been established.
+There have been reports of associated paralysis and other symptoms of cerebral arterial insufficiency, but the exact relationship of these reactions to the drug has not been established.
 
-Isolated cases of neuroleptic malignant syndrome have been reported both with and without concomi tant use of psychotropic drugs.
+Isolated cases of neuroleptic malignant syndrome have been reported both with and without concomitant use of psychotropic drugs.
 
 Digestive System: Nausea, vomiting, gastric distress and abdominal pain, diarrhea, constipation, anorexia, and dryness of the mouth and pharynx, including glossitis and stomatitis.
 
-Eyes: Scattered punctate cortical lens opacities, increased intraocular pressure (see WARNINGS, General)as well as conjunctivitis, have been reported.
-Although a direct causal relationship has not been established, many phe nothiazines and related drugs have been shown to cause eye changes.
+Eyes: Scattered punctate cortical lens opacities, increased intraocular pressure (see WARNINGS, General) as well as conjunctivitis, have been reported.
+Although a direct causal relationship has not been established, many phenothiazines and related drugs have been shown to cause eye changes.
 
 Musculoskeletal System: Aching joints and muscles, and leg cramps.
 
@@ -53,7 +53,7 @@ Decreased levels of plasma calcium have been reported.
 Osteoporosis has been reported.
 
 Isolated cases of a lupus erythematosus-like syndrome have been reported.
-There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglyc erides in patients taking anticonvulsants.
+There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.
 
-A case of aseptic meningitis, accompanied by myoclonus and peripheral eosinophilia, has been reported in a patient taking carbamazepine in combination with other med ications.
+A case of aseptic meningitis, accompanied by myoclonus and peripheral eosinophilia, has been reported in a patient taking carbamazepine in combination with other medications.
 The patient was successfully dechallenged, and the meningitis reappeared upon rechallenge with carbamazepine.
