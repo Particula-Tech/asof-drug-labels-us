@@ -5,11 +5,11 @@ Inform patients, families, or their caregivers of the following information befo
 
 Uterine Rupture, Abortion, Premature Birth, or Birth Defects with Misoprostol and Embryo-Fetal Toxicity with NSAIDs
 
-- Advise females that ARTHROTEC is contraindicated in pregnant women.
+- •Advise females that ARTHROTEC is contraindicated in pregnant women.
   Use of misoprostol, a component of ARTHROTEC during pregnancy can result in maternal and fetal harm, including uterine rupture, abortion, premature birth, or birth defects.
   Use of diclofenac may cause oligohydramnios/fetal renal dysfunction and premature closure of the fetal ductus arteriosus.
-- Advise patients not to give ARTHROTEC to others.
-- Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with ARTHROTEC.
+- •Advise patients not to give ARTHROTEC to others.
+- •Advise females of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with ARTHROTEC.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
 
 Infertility
@@ -54,3 +54,5 @@ Inform patients not to use low-dose aspirin concomitantly with ARTHROTEC until t
 
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
+
+For medical information about Arthrotec, please visit www.pfizermedinfo.com or call 1‑800‑438-1985

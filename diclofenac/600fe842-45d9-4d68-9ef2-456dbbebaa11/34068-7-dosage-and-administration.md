@@ -2,11 +2,11 @@
 
 ## 2.1 Important Dosage Information
 
-- Carefully consider the potential benefits and risks of ARTHROTEC and other treatment options before deciding to use ARTHROTEC.
+- •Carefully consider the potential benefits and risks of ARTHROTEC and other treatment options before deciding to use ARTHROTEC.
   Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-- After observing the response to initial therapy with ARTHROTEC, the dose and frequency should be adjusted to suit an individual patient's needs.
-- ARTHORTEC is not recommended for patients who would not receive the appropriate dosage of both active ingredients.
-- ARTHROTEC, a fixed combination product, is administered as ARTHROTEC 50 (50 mg diclofenac sodium and 200 mcg misoprostol) or ARTHROTEC 75 (75 mg diclofenac sodium and 200 mcg misoprostol).
+- •After observing the response to initial therapy with ARTHROTEC, the dose and frequency should be adjusted to suit an individual patient's needs.
+- •ARTHORTEC is not recommended for patients who would not receive the appropriate dosage of both active ingredients.
+- •ARTHROTEC, a fixed combination product, is administered as ARTHROTEC 50 (50 mg diclofenac sodium and 200 mcg misoprostol) or ARTHROTEC 75 (75 mg diclofenac sodium and 200 mcg misoprostol).
 
 ## 2.2 Recommended Dosage in Patients with Osteoarthritis
 

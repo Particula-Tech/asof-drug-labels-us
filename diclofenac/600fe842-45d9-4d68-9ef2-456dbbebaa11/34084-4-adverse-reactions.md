@@ -2,15 +2,15 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.2)]
-- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.3)]
-- Hepatotoxicity [see Warnings and Precautions (5.4)]
-- Hypertension [see Warnings and Precautions (5.5)]
-- Heart Failure and Edema [see Warnings and Precautions (5.6)]
-- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.7)]
-- Anaphylactic Reactions [see Warnings and Precautions (5.8)]
-- Serious Skin Reactions [see Warnings and Precautions (5.10)]
-- Hematologic Toxicity [see Warnings and Precautions (5.12)]
+- •Cardiovascular Thrombotic Events [see Warnings and Precautions (5.2)]
+- •GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.3)]
+- •Hepatotoxicity [see Warnings and Precautions (5.4)]
+- •Hypertension [see Warnings and Precautions (5.5)]
+- •Heart Failure and Edema [see Warnings and Precautions (5.6)]
+- •Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.7)]
+- •Anaphylactic Reactions [see Warnings and Precautions (5.8)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.10)]
+- •Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -43,7 +43,8 @@ Gynecological
 
 Gynecological disorders previously reported with misoprostol use have also been reported for women receiving ARTHROTEC (see below).
 Postmenopausal vaginal bleeding may be related to administration of ARTHROTEC.
-If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology [see Boxed Warnings, Contraindications (4) and Warnings and Precautions (5)].
+If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology [see Error!
+Hyperlink reference not valid., Contraindications (4) and Warnings and Precautions (5)].
 
 Other adverse experiences reported occasionally with ARTHROTEC, diclofenac or other NSAIDs, or misoprostol are:
 

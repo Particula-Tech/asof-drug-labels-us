@@ -74,11 +74,11 @@ Additionally, patients with advanced liver disease and/or coagulopathy are at in
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
 
-- Use the lowest effective dosage for the shortest possible duration.
-- Avoid administration of more than one NSAID at a time.
-- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
-- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue ARTHROTEC until a serious GI adverse event is ruled out.
-- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+- •Use the lowest effective dosage for the shortest possible duration.
+- •Avoid administration of more than one NSAID at a time.
+- •Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- •If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue ARTHROTEC until a serious GI adverse event is ruled out.
+- •In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
 ## 5.4 Hepatotoxicity
 
