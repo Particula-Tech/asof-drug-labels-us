@@ -63,10 +63,6 @@ NR = not reached
 
 At the protocol specified final OS analysis, the median in the pemetrexed in combination with pembrolizumab and platinum chemotherapy arm was 22.0 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
 
-P+P+C = Pemetrexed + pembrolizumab + platinum chemotherapy.
-
-P+C = Pemetrexed + platinum chemotherapy + placebo.
-
 Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189*
 
 *Based on the protocol-specified final OS analysis
