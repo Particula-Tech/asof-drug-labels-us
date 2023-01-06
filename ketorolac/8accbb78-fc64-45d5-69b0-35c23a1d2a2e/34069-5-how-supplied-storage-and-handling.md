@@ -13,8 +13,13 @@ Store at 20 to 25°C (68 to 77°F).
 Protect from light.
 Retain in carton until time of use.
 
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
+
+For medical information about ketorolac tromethamine, please visit www.pfizermedinfo.com or call 1‑800-438-1985.
+
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0894-7.0
+LAB-0894-8.0
 
-Revised: 11/2021
+Revised: 11/2022

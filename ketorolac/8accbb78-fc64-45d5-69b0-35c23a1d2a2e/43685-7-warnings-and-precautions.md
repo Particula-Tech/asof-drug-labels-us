@@ -105,7 +105,7 @@ Blood pressure (BP) should be monitored closely during the initiation of NSAID t
 
 Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective‑treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -184,7 +184,7 @@ Patients receiving ketorolac tromethamine who may be adversely affected by alter
 Pre-existing Asthma
 
 Patients with asthma may have aspirin-sensitive asthma.
-The use of aspirin in patients with aspirin-sensitive asthma has been associated with severe bronchospasm which can be fatal.
+The use of aspirin in patients with aspirin‑sensitive asthma has been associated with severe bronchospasm which can be fatal.
 Since cross reactivity, including bronchospasm, between aspirin and other nonsteroidal anti-inflammatory drugs has been reported in such aspirin-sensitive patients, ketorolac tromethamine should not be administered to patients with this form of aspirin sensitivity and should be used with caution in patients with pre-existing asthma.
 
 Information for Patients
@@ -197,18 +197,18 @@ Ketorolac tromethamine is not indicated for use in pediatric patients.
 Patients should be informed of the following information before initiating therapy with an NSAID and periodically during the course of ongoing therapy.
 Patients should also be encouraged to read the NSAID Medication Guide that accompanies each prescription dispensed.
 
-- 1.Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their healthcare provider immediately (see WARNINGS).
-- 2.Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
-  Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
-  Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
-- 3.Serious Skin Reactions, including DRESS Advise patients to stop taking ketorolac tromethamine immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
-- 4.Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
-- 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
-  If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
-- 6.Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
-  If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
-- 7.Fetal Toxicity Inform pregnant women to avoid use of ketorolac tromethamine and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
-  If treatment with ketorolac tromethamine is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
+1. 1.Advise patients to be alert for the symptoms of cardiovascular thrombotic events, including chest pain, shortness of breath, weakness, or slurring of speech, and to report any of these symptoms to their healthcare provider immediately (see WARNINGS).
+2. 2.Ketorolac tromethamine, like other NSAIDs, can cause GI discomfort and, rarely, serious GI side effects, such as ulcers and bleeding, which may result in hospitalization and even death.
+   Although serious GI tract ulcerations and bleeding can occur without warning symptoms, patients should be alert for the signs and symptoms of ulcerations and bleeding, and should ask for medical advice when observing any indicative sign or symptoms including epigastric pain, dyspepsia, melena, and hematemesis.
+   Patients should be apprised of the importance of this follow-up (see WARNINGS, Gastrointestinal Effects: Risk of Ulceration, Bleeding, and Perforation).
+3. 3.Serious Skin Reactions, including DRESS Advise patients to stop taking ketorolac tromethamine immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible (see WARNINGS).
+4. 4.Advise patients to be alert for the symptoms of congestive heart failure including shortness of breath, unexplained weight gain, or edema and to contact their healthcare provider if such symptoms occur (see WARNINGS).
+5. 5.Patients should be informed of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+   If these occur, patients should be instructed to stop therapy and seek immediate medical therapy.
+6. 6.Patients should be informed of the signs of an anaphylactoid reaction (e.g., difficulty breathing, swelling of the face or throat).
+   If these occur, patients should be instructed to seek immediate emergency help (see WARNINGS).
+7. 7.Fetal Toxicity Inform pregnant women to avoid use of ketorolac tromethamine and other NSAIDs starting at 30 weeks gestation because of the risk of the premature closing of the fetal ductus arteriosus.
+   If treatment with ketorolac tromethamine is needed for a pregnant woman between about 20 to 30 weeks gestation, advise her that she may need to be monitored for oligohydramnios, if treatment continues for longer than 48 hours (see WARNINGS; Fetal Toxicity, PRECAUTIONS; Pregnancy).
 
 Laboratory Tests
 
@@ -323,7 +323,7 @@ Results of these studies did not reveal evidence of teratogenicity to the fetus.
 However, animal reproduction studies are not always predictive of human response.
 Oral doses of ketorolac tromethamine at 1.5 mg/kg (0.14 times the human AUC), administered after gestation Day 17, caused dystocia and higher pup mortality in rats.
 Based on animal data, prostaglandins have been shown to have an important role in endometrial vascular permeability, blastocyst implantation, and decidualization.
-In animal studies, administration of prostaglandin synthesis inhibitors such as ketorolac tromethamine, resulted in increased pre- and post-implantation loss.
+In animal studies, administration of prostaglandin synthesis inhibitors such as ketorolac tromethamine, resulted in increased pre- and post‑implantation loss.
 Prostaglandins also have been shown to have an important role in fetal kidney development.
 In published animal studies, prostaglandin synthesis inhibitors have been reported to impair kidney development when administered at clinically relevant doses.
 

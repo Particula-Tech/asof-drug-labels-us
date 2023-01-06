@@ -6,8 +6,8 @@ NSAIDs can cause serious side effects, including:
 
 - •Increased risk of a heart attack or stroke that can lead to death.
   This risk may happen early in treatment and may increase:
-  - •with increasing doses of NSAIDs
-  - •with longer use of NSAIDs
+  - owith increasing doses of NSAIDs
+  - owith longer use of NSAIDs
 
 Do not take NSAIDs right before or after a heart surgery called a "coronary artery bypass graft (CABG)."
 
@@ -15,9 +15,9 @@ Avoid taking NSAIDs after a recent heart attack, unless your healthcare provider
 You may have an increased risk of another heart attack if you take NSAIDs after a recent heart attack.
 
 - •Increased risk of bleeding, ulcers, and tears (perforation) of the esophagus (tube leading from the mouth to the stomach), stomach and intestines:
-  - •anytime during use
-  - •without warning symptoms
-  - •that may cause death
+  - oanytime during use
+  - owithout warning symptoms
+  - othat may cause death
 
 The risk of getting an ulcer or bleeding increases with:
 
@@ -51,7 +51,7 @@ Before taking NSAIDs, tell your healthcare provider about all of your medical co
   You should not take NSAIDs after about 30 weeks of pregnancy.
 - •are breastfeeding or plan to breast feed
 
-Tell your healthcare provider about all of the medicines you take, including prescription or over-the-counter medicines, vitamins or herbal supplements.
+Tell your healthcare provider about all of the medicines you take, including prescription or over‑the-counter medicines, vitamins or herbal supplements.
 NSAIDs and some other medicines can interact with each other and cause serious side effects.
 Do not start taking any new medicine without talking to your healthcare provider first.
 
@@ -107,12 +107,13 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-For more information go to www.hospira.com or call 1-800-615-0187.
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0895-3.0
+LAB-0895-4.0
 
-Revised: 11/2021
+Revised: 11/2022
