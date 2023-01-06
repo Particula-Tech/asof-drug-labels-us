@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA065329"
+  ],
+  "inn": "ceftriaxone",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-701-95",
+    "44567-702-95"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "ceftriaxone",
+      "name": "Ceftriaxone"
+    }
+  ],
+  "setid": "7bed9b33-29e3-4f04-9766-43a21c7ad47a",
+  "source": "dailymed"
+}
