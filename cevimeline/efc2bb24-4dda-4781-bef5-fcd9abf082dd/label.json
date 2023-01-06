@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020989"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-0937-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "cevimeline hydrochloride"
+    }
+  ],
+  "setid": "efc2bb24-4dda-4781-bef5-fcd9abf082dd",
+  "source": "dailymed"
+}
