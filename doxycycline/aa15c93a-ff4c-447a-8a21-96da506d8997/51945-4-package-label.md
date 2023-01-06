@@ -2,9 +2,9 @@
 
 NDC 0299-3822-30
 
-Oracea®
+ORACEA®
 
-(DOXYCYCLINE, USP) Capsules
+(doxycycine, USP) capsules
 
 40 mg*
 
@@ -16,5 +16,5 @@ RX ONLY
 
 GALDERMA
 
-Marketed by: GALDERMA Laboratories, L.P.
-Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners. oracea.com P56801-0
+Marketed by: Galderma Laboratories, L.P.
+Dallas, TX 75201 USA All trademarks are the property of their respective owners. oracea.com P56801-1
