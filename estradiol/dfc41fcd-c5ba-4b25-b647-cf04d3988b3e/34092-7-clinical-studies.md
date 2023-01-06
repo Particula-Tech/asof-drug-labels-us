@@ -61,7 +61,7 @@ For those outcomes included in the WHI “global index” that reached statistic
 Results of the CE plus MPA substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other), are presented in Table 2.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-TABLE 2 -Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Years a,b
+TABLE 2 -Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 Yearsa,b
 
 Timing of the initiation of estrogen plus progestin therapy relative to the start of menopause may affect the overall risk benefit profile.
 The WHI estrogen plus progestin substudy stratified by age showed in women 50 to 59 years of age, a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI, 0.44-1.07)].

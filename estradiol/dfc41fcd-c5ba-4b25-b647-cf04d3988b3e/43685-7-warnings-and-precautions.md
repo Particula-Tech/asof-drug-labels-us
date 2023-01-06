@@ -2,7 +2,7 @@
 
 See BOXED WARNINGS.
 
-Systemic absorption may occur with the use of ESTRACE (estradiol vaginal cream, USP, 0.01%).
+Systemic absorption may occur with the use of ESTRACE (estradiol vaginal cream USP 0.01%).
 The warnings, precautions, and adverse reactions associated with oral estrogen treatment should be taken into account.
 
 ## 1. Cardiovascular Disorders
@@ -98,7 +98,7 @@ In addition, mammography examinations should be scheduled based on patient age, 
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
 After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77-3.24).
-The absolute risk for CE plus MPA was 4 versus 3 cases per 10,000 women-years 9.
+The absolute risk for CE plus MPA was 4 versus 3 cases per 10,000 women-years9.
 
 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
 The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
@@ -118,10 +118,10 @@ In the WHIMS estrogen plus progestin ancillary study, a population of 4,532 post
 
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
 The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21-3.48).
-The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years 10 [see CLINICAL STUDIES and PRECAUTIONS, Geriatric Use].
+The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years10 [see CLINICAL STUDIES and PRECAUTIONS, Geriatric Use].
 
 When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19-2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women 10 [see PRECAUTIONS, Geriatric Use].
+Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women10 [see PRECAUTIONS, Geriatric Use].
 
 ## 4. Gallbladder Disease
 
@@ -141,7 +141,7 @@ If examination reveals papilledema or retinal vascular lesions, estrogens should
 ## 7. Anaphylactic Reaction and Angioedema
 
 Cases of anaphylaxis, which develop within minutes to hours after taking orally-administered estrogen and require emergency medical management, have been reported in the postmarketing setting.
-Skin (hives, pruritis, swollen lips-tongue-face) and either respiratory tract (respiratory compromise) or gastrointestinal tract (abdominal pain, vomiting) involvement has been noted.
+Skin (hives, pruritus, swollen lips-tongue-face) and either respiratory tract (respiratory compromise) or gastrointestinal tract (abdominal pain, vomiting) involvement has been noted.
 
 Angioedema involving the tongue, larynx, face, hands and feet requiring medical intervention has occurred postmarketing in patients taking orally-administered estrogen.
 If angioedema involves the tongue, glottis, or larynx, airway obstruction may occur.
@@ -196,7 +196,7 @@ Estrogen therapy should be used with caution in women with hypoparathyroidism as
 
 8.Exacerbation of Endometriosis
 
-A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen-alone therapy.
+A few cases of malignant transformation of residual endometrial implants have been reported in women treated post-hysterectomy with estrogen alone therapy.
 For patients known to have residual endometriosis post-hysterectomy, the addition of progestin should be considered.
 
 9.
@@ -206,7 +206,7 @@ Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epileps
 
 ## B. Patient Information
 
-Physicians are advised to discuss the PATIENT INFORMATION leaflet with women for whom they prescribe ESTRACE (estradiol vaginal cream, USP, 0.01%).
+Physicians are advised to discuss the PATIENT INFORMATION leaflet with women for whom they prescribe ESTRACE (estradiol vaginal cream USP 0.01%).
 
 ## C.Laboratory Tests
 
