@@ -10,9 +10,7 @@ Dispense in a well-closed container as defined in the USP with a child-resistant
 
 Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
-Made in the USA
-
-CIB70329B
+CIB70329C
 
 Rev.
-04/16
+07/20

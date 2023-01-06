@@ -2,12 +2,14 @@
 
 NDC 0527-1326-01
 
-Lannett
+Ursodiol
 
-URSODIOL CAPSULES, USP
+Capsules, USP
 
 300 mg
 
 Rx Only
 
-100 CAPSULES
+100 Capsules
+
+Lannett
