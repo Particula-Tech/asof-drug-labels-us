@@ -4,7 +4,7 @@
 
 Diclofenac sodium/misoprostol is a combination product containing diclofenac sodium, an NSAID with analgesic, anti-inflammatory and antipyretic properties, and misoprostol, a GI mucosal protective prostaglandin-1 (PGE1) analog.
 
-Diclofenac
+### Diclofenac
 
 The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
 
@@ -14,7 +14,7 @@ Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin
 Prostaglandins are mediators of inflammation.
 Because diclofenac is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
 
-Misoprostol
+### Misoprostol
 
 Misoprostol is a synthetic PGE1 analog with gastric antisecretory and mucosal protective properties.
 NSAIDs inhibit prostaglandin synthesis.
@@ -31,14 +31,14 @@ It is likely that these specific receptors allow misoprostol taken with food to 
 
 Misoprostol, over the range of 50 mcg to 200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
 Activity is apparent 30 minutes after oral administration and persists for at least 3 hours.
-In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal-stimulated secretion.
+In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal‑stimulated secretion.
 
 Misoprostol also produces a moderate decrease in pepsin concentration during basal conditions, but not during histamine stimulation.
 It has no significant effect on fasting or postprandial gastrin nor intrinsic factor output.
 
 ## 12.3 Pharmacokinetics
 
-General pharmacokinetic characteristics
+### General Pharmacokinetic Characteristics
 
 The pharmacokinetic profiles of diclofenac and misoprostol administered as the fixed combination (diclofenac sodium/misoprostol 50 or 75) are similar to the profiles when the two drugs are administered as separate tablets (see Table 2).
 No pharmacokinetic interaction between the two drugs has been observed following multiple dosing.
@@ -50,20 +50,21 @@ Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following
 
 | MISOPROSTOL ACID Mean (SD) |  |  |  |
 | --- | --- | --- | --- |
-| Treatment (n=36) | Cmax (pg/mL) | Tmax (hr) | AUC(0–4h) (pg∙hr/mL) |
+| Treatment (n=36) | Cmax (pg/mL) | Tmax (hr) | AUC(0–4h)(pg·hr/mL) |
 | Diclofenac sodium/misoprostol 50 | 441 (137) | 0.30 (0.13) | 266 (95) |
 | Misoprostol | 478 (201) | 0.30 (0.10) | 295 (143) |
 | Diclofenac sodium/misoprostol 75 | 304 (110) | 0.26 (0.09) | 177 (49) |
 | Misoprostol | 290 (130) | 0.35 (0.12) | 176 (58) |
 | DICLOFENAC Mean (SD) |  |  |  |
-| Treatment (n=36) | Cmax (ng/mL) | Tmax (hr) | AUC(0–12h) (ng∙hr/mL) |
+| Treatment (n=36) | Cmax (ng/mL) | Tmax (hr) | AUC(0–12h)(ng·hr/mL) |
 | Diclofenac sodium/misoprostol 50 | 1207 (364) | 2.4 (1.0) | 1380 (272) |
 | Diclofenac Sodium | 1298 (441) | 2.4 (1.0) | 1357 (290) |
 | Diclofenac sodium/misoprostol 75 | 2025 (2005) | 2.0 (1.4) | 2773 (1347) |
 | Diclofenac Sodium | 2367 (1318) | 1.9 (0.7) | 2609 (1185) |
-| SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration |  |  |  |
 
-Absorption
+SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration
+
+### Absorption
 
 Diclofenac: Diclofenac is completely absorbed from the GI tract after oral administration under fasted condition, and peak plasma levels are achieved in 2 hours (range 1–4 hours), and the area under the plasma concentration curve (AUC) is dose-proportional within the range of 25 mg to 150 mg.
 Peak plasma levels are less than dose-proportional and are approximately 1.5 and 2.0 mcg/mL for 50 mg and 75 mg doses, respectively.
@@ -76,7 +77,7 @@ Clinical trials were conducted with concomitant antacid; this effect does not ap
 
 Food decreases the multiple-dose bioavailability profile of diclofenac sodium/misoprostol 50 and diclofenac sodium/misoprostol 75.
 
-Distribution
+### Distribution
 
 Diclofenac: The volume of distribution of diclofenac is approximately 0.55 L/kg.
 More than 99% of diclofenac is bound to plasma albumin.
@@ -88,9 +89,9 @@ The maximum concentration of misoprostol acid in expressed breast milk was achie
 The misoprostol acid concentrations in breast milk declined to <1 pg/mL at 5 hours post-dose.
 These data may not reflect drug level in mature milk and in a daily dosing regimen for osteoarthritis or rheumatoid arthritis.
 
-Elimination
+### Elimination
 
-Metabolism
+### Metabolism
 
 Diclofenac: Metabolism is predominantly mediated via CYP2C9 in the liver.
 Five metabolites (4'hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac) have been identified.
@@ -102,7 +103,7 @@ CYP3A4 is responsible for the formation of minor metabolites, 5-hydroxy and 3'-h
 
 Misoprostol: Undergoes rapid and extensive metabolism to its biologically active metabolite, misoprostol acid.
 
-Excretion
+### Excretion
 
 Diclofenac: Diclofenac is eliminated through metabolism and subsequent urinary and biliary excretion of the glucuronide and the sulfate conjugates of the metabolites.
 Approximately 65% of the dose is excreted in the urine and 35% in the bile.
@@ -115,42 +116,43 @@ Conjugates of the principal metabolite account for 20% to 30% of the dose excret
 
 Conjugates of three other metabolites together account for 10% to 20% of the dose excreted in the urine and for small amounts excreted in the bile.
 The elimination half-life values for these metabolites are shorter than those for the parent drug.
-Urinary excretion of an additional metabolite (half-life = 80 hours) accounts for only 1.4% of the oral dose.
+Urinary excretion of an additional metabolite (half‑life = 80 hours) accounts for only 1.4% of the oral dose.
 The degree of accumulation of diclofenac metabolites is unknown.
 Some of the metabolites may have activity.
 
 Misoprostol: After oral administration of radio-labeled misoprostol, approximately 70% of detected radioactivity appears in the urine.
 The elimination half-life is approximately 30 minutes.
 
-Specific Populations
+### Specific Populations
 
-Age: Geriatric Population
+#### Geriatric Patients
 
-A 4-week study, comparing plasma level profiles of diclofenac (50 mg two times a day) in younger adults (26–46 years, N=10) versus elderly subjects (66–81 years, N=10), did not show differences between age groups.
-In subjects over 64 years of age, the AUC for misoprostol acid was increased.
+No differences in the pharmacokinetics of diclofenac were observed in geriatric subjects (66 to 81 years; N=10) compared to younger adult subjects (26 to 46 years; N=10) following administration of diclofenac 50 mg twice daily for 4 weeks.
 
-In a multiple-dose crossover study of 24 elderly subjects aged 65 years or older, the misoprostol contained in diclofenac sodium/misoprostol (two times a day) did not affect the pharmacokinetics of diclofenac.
+Though the mean AUC value of misoprostol acid for elderly subjects was 41% higher in geriatric healthy subjects (mean age, 69.5±4.6 years, N=24) compared to younger adult healthy subjects (mean age, 25.4±4.2 years, N=24) following single dose of misoprostol 400 µg, the increase in exposure is not clinically meaningful.
 
-Race
+In a multiple-dose crossover study of diclofenac sodium/misoprostol administered twice daily to 24 subjects aged 65 years of age and older, misoprostol did not affect the pharmacokinetics of diclofenac [see Use in Specific Populations (8.5)].
+
+#### Racial or Ethnic groups
 
 Pharmacokinetic differences due to race have not been identified.
 
-Renal Impairment
+#### Patients with Renal Impairment
 
 In patients with renal impairment (N=5, creatinine clearance 3 to 42 mL/min) following intravenous administration of 50 mg diclofenac, AUC values and elimination rates were comparable to those in healthy subjects.
 
-Pharmacokinetic studies with misoprostol in patients with varying degrees of renal impairment showed an approximate doubling of elimination half-life, Cmax, and AUC compared to healthy subjects.
+Pharmacokinetic studies with misoprostol in patients with severe renal impairment requiring hemodialysis (n=8, mean creatinine clearance 6.2±3.3 mL/min/1.73m2) who received a single dose of 400 mcg misoprostol during a interdialytic period showed an approximate doubling of elimination half-life, Cmax, and AUC of misoprostol acid compared to healthy subjects [see Use in Specific Populations (8.6)]
 
-Hepatic Impairment
+#### Patients with Hepatic Impairment
 
 In patients with biopsy-confirmed cirrhosis or chronic active hepatitis (variably elevated transaminases and mildly elevated bilirubin, N=10), diclofenac concentrations and urinary elimination values following administration of 100 mg oral solution were comparable to those in healthy subjects.
 
 In a study of subjects with mild to moderate hepatic impairment, mean misoprostol acid AUC and Cmax showed approximately twice high as the mean values obtained in healthy subjects.
-Three subjects who had the lowest antipyrine and lowest indocyanine green clearance values had the highest misoprostol acid AUC and Cmax values.
+Three subjects who had the lowest antipyrine and lowest indocyanine green clearance values had the highest misoprostol acid AUC and Cmax values
 
-Drug Interaction Studies
+### Drug Interaction Studies
 
-Diclofenac
+#### Diclofenac
 
 Aspirin: When diclofenac sodium/misoprostol was administered with aspirin, the protein binding of diclofenac was reduced, although the clearance of the free diclofenac was not altered.
 The clinical significance of this interaction is not known.
@@ -163,7 +165,7 @@ Benzylpenicillin, ampicillin, oxacillin, chlortetracycline, doxycycline, cephalo
 
 Other drugs: In small groups of patients (7 to 10 patients/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline or digitoxin did not significantly affect Cmax and AUC of diclofenac.
 
-Misoprostol
+#### Misoprostol
 
 Diazepam: Misoprostol given for 1 week had no effect on the steady state pharmacokinetics of diazepam when the two drugs were administered 2 hours apart.
 

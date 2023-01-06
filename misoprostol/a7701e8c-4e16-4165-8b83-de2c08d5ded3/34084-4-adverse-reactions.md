@@ -2,15 +2,15 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
-- GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Hypertension [see Warnings and Precautions (5.4)]
-- Heart Failure and Edema [see Warnings and Precautions (5.5)]
-- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
-- Anaphylactic Reactions [see Warnings and Precautions (5.7)]
-- Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hematologic Toxicity [see Warnings and Precautions (5.12)]
+- •Cardiovascular Thrombotic Events [see Warnings and Precautions (5.2)]
+- •GI Bleeding, Ulceration and Perforation [see Warnings and Precautions (5.3)]
+- •Hepatotoxicity [see Warnings and Precautions (5.4)]
+- •Hypertension [see Warnings and Precautions (5.5)]
+- •Heart Failure and Edema [see Warnings and Precautions (5.6)]
+- •Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.7)]
+- •Anaphylactic Reactions [see Warnings and Precautions (5.8)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.10)]
+- •Hematologic Toxicity [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -44,10 +44,6 @@ Gynecological
 Gynecological disorders previously reported with misoprostol use have also been reported for women receiving diclofenac sodium/misoprostol (see below).
 Postmenopausal vaginal bleeding may be related to administration of diclofenac sodium/misoprostol.
 If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology [see Boxed Warnings, Contraindications (4) and Warnings and Precautions (5)].
-
-Elderly
-
-Overall, there were no significant differences in the safety profile of diclofenac sodium/misoprostol in over 500 patients 65 years of age or older compared with younger patients.
 
 Other adverse experiences reported occasionally with diclofenac sodium/misoprostol, diclofenac or other NSAIDs, or misoprostol are:
 
@@ -118,4 +114,4 @@ Special senses: hearing impairment, taste loss.
 
 Renal and urinary disorders: cystitis, hematuria, interstitial nephritis, micturition frequency, nephrotic syndrome, oliguria, papillary necrosis, renal failure, glomerulonephritis membranous, glomerulonephritis minimal lesion, glomerulonephritis.
 
-Vision: amblyopia, blurred vision, conjunctivitis, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.
+Vision:amblyopia, blurred vision, conjunctivitis, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.

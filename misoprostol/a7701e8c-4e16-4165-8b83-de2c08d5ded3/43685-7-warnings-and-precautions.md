@@ -1,6 +1,33 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Cardiovascular Thrombotic Events
+## 5.1 Uterine Rupture, Abortion, Premature Birth, or Birth Defects with Misoprostol and Embryo-Fetal Toxicity with NSAIDs
+
+### Misoprostol
+
+Administration of misoprostol, a component of diclofenac sodium/misoprostol, to pregnant women can cause uterine rupture, abortion, premature birth, or birth defects.
+Uterine rupture has occurred when misoprostol was administered to pregnant women to induce labor or an abortion.
+
+Diclofenac sodium/misoprostol is contraindicated in pregnant women.
+Diclofenac sodium/misoprostol is not recommended in women of childbearing potential.
+Patients must be advised of the abortifacient property and warned not to give the drug to others [see Use in Specific Populations (8.1)].
+
+If diclofenac sodium/misoprostol is prescribed, verify the pregnancy status of females of reproductive potential prior to initiation of treatment and advise the use effective contraception during treatment with diclofenac sodium/misoprostol [see Use in Specific Populations (8.3)].
+
+### Diclofenac
+
+#### Premature Closure of Fetal Ductus Arteriosus
+
+NSAIDs, including diclofenac, a component of diclofenac sodium/misoprostol, increase the risk of premature closure of the fetal ductus arteriosus at about 30 weeks of gestation and later.
+
+#### Oligohydramnios/Neonatal Renal Impairment
+
+Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required [see Use in Specific Populations (8.1)].
+
+## 5.2 Cardiovascular Thrombotic Events
 
 Clinical trials of several cyclooxygenase-2 (COX-2) selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
@@ -14,7 +41,7 @@ Physicians and patients should remain alert for the development of such events, 
 Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID, such as diclofenac, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
+The concurrent use of aspirin and an NSAID, such as diclofenac, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.3)].
 
 Status Post Coronary Artery Bypass Graft (CABG) Surgery
 
@@ -30,7 +57,7 @@ Although the absolute rate of death declined somewhat after the first year post-
 Avoid the use of diclofenac sodium/misoprostol in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
 If diclofenac sodium/misoprostol is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
-## 5.2 Gastrointestinal Bleeding, Ulceration, and Perforation
+## 5.3 Gastrointestinal Bleeding, Ulceration, and Perforation
 
 NSAIDs, including diclofenac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the esophagus, stomach, small intestine, or large intestine, which can be fatal.
 These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.
@@ -47,15 +74,13 @@ Additionally, patients with advanced liver disease and/or coagulopathy are at in
 
 Strategies to Minimize the GI Risks in NSAID-treated patients:
 
-- Use the lowest effective dosage for the shortest possible duration.
-- Avoid administration of more than one NSAID at a time.
-- Avoid use in patients at high risk unless benefits are expected to outweigh the increased risk of bleeding.
-  For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
-- Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
-- If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue diclofenac sodium/misoprostol until a serious GI adverse event is ruled out.
-- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+- •Use the lowest effective dosage for the shortest possible duration.
+- •Avoid administration of more than one NSAID at a time.
+- •Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
+- •If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue diclofenac sodium/misoprostol until a serious GI adverse event is ruled out.
+- •In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
 
-## 5.3 Hepatotoxicity
+## 5.4 Hepatotoxicity
 
 In clinical trials with diclofenac sodium/misoprostol, meaningful elevation of alanine aminotransferase (ALT) (serum glutamic pyruvic transaminase [SGPT], more than 3 times the upper limit of the normal range [ULN]) occurred in 1.6% of 2,184 patients treated with diclofenac sodium/misoprostol and in 1.4% of 1,691 patients treated with diclofenac sodium.
 These increases were generally transient, and enzyme levels returned to within the normal range upon discontinuation of therapy with diclofenac sodium/misoprostol.
@@ -91,14 +116,14 @@ If clinical signs and symptoms consistent with liver disease develop, or if syst
 To minimize the potential risk for an adverse liver related event in patients treated with diclofenac sodium/misoprostol, the lowest effective dose should be used for the shortest duration possible.
 Exercise caution when prescribing diclofenac sodium/misoprostol with concomitant drugs that are known to be potentially hepatotoxic (e.g., antibiotics, anti-epileptics).
 
-## 5.4 Hypertension
+## 5.5 Hypertension
 
 NSAIDs, including diclofenac, a component of diclofenac sodium/misoprostol, can lead to new onset of hypertension or worsening of pre-existing hypertension, either of which may contribute to the increased incidence of CV events.
 Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
 
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
-## 5.5 Heart Failure and Edema
+## 5.6 Heart Failure and Edema
 
 The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
@@ -109,7 +134,7 @@ Use of diclofenac may blunt the CV effects of several therapeutic agents used to
 Avoid the use of diclofenac sodium/misoprostol in patients with severe heart failure unless the benefits are expected to outweigh the risk of worsening heart failure.
 If diclofenac sodium/misoprostol is used in patients with severe heart failure, monitor patients for signs of worsening heart failure.
 
-## 5.6 Renal Toxicity and Hyperkalemia
+## 5.7 Renal Toxicity and Hyperkalemia
 
 Renal Toxicity
 
@@ -132,26 +157,26 @@ Hyperkalemia
 Increases in serum potassium concentration, including hyperkalemia, with use of NSAIDs, even in some patients without renal impairment.
 In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
 
-## 5.7 Anaphylactic Reactions
+## 5.8 Anaphylactic Reactions
 
-Diclofenac sodium/misoprostol has been associated with anaphylactic reactions in patients with and without known hypersensitivity to the individual components of diclofenac sodium and misoprostol and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
+Diclofenac sodium/misoprostol has been associated with anaphylactic reactions in patients with and without known hypersensitivity to the individual components of diclofenac sodium and misoprostol and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.9)].
 
 Seek emergency help if an anaphylactic reaction occurs.
 
-## 5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
+## 5.9 Exacerbation of Asthma Related to Aspirin Sensitivity
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
 Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, diclofenac sodium/misoprostol is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
 When diclofenac sodium/misoprostol is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
-## 5.9 Serious Skin Reactions
+## 5.10 Serious Skin Reactions
 
 NSAIDs, including diclofenac, a component of diclofenac sodium/misoprostol, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of diclofenac sodium/misoprostol at the first appearance of skin rash or any other sign of hypersensitivity.
 Diclofenac sodium/misoprostol is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+## 5.11 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as diclofenac sodium/misoprostol.
 Some of these events have been fatal or life-threatening.
@@ -162,31 +187,6 @@ Eosinophilia is often present.
 Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, discontinue diclofenac sodium/misoprostol and evaluate the patient immediately.
-
-## 5.11 Fetal Toxicity
-
-Diclofenac sodium/misoprostol is contraindicated in pregnant women.
-Advise pregnant women of the potential risk to a fetus.
-Verify the pregnancy status of females of reproductive potential prior to initiation of diclofenac sodium/misoprostol.
-Advise females of reproductive potential to use effective contraception during treatment with diclofenac sodium/misoprostol [see Contraindications (4), Use in Specific Populations (8.1, 8.3)].
-
-Misoprostol
-
-Misoprostol during pregnancy can result in maternal and fetal harm.
-
-Diclofenac
-
-Premature Closure of Fetal Ductus Arteriosus
-
-NSAIDs, including diclofenac, increase the risk of premature closure of the fetal ductus arteriosus at about 30 weeks of gestation and later.
-
-Oligohydramnios/Neonatal Renal Impairment
-
-Use of NSAIDs, including diclofenac, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
-These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
-Oligohydramnios is often, but not always, reversible with treatment discontinuation.
-Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
-In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required [see Use in Specific Populations (8.1)].
 
 ## 5.12 Hematologic Toxicity
 
@@ -204,4 +204,4 @@ The pharmacological activity of diclofenac, a component of diclofenac sodium/mis
 
 ## 5.14 Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a complete blood count (CBC) and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a complete blood count (CBC) and a chemistry profile periodically [see Warnings and Precautions (5.3, 5.7)].

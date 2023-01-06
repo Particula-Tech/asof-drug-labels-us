@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Diclofenac sodium and misoprostol delayed release tablets are supplied as:
+Diclofenac sodium and misoprostol delayed-release tablets are supplied as:
 
-- 50 mg diclofenac sodium and 200 mcg misoprostol as round, biconvex, white to off-white tablets imprinted with a "50" in the middle on one side and "G" and "0028" on the other.
-- 75 mg diclofenac sodium and 200 mcg misoprostol as round, biconvex, white to off-white tablets imprinted with a "75" in the middle on one side and "G" and "0029" on the other.
+- •50 mg diclofenac sodium and 200 mcg misoprostol as round, biconvex, white to off-white tablets imprinted with a "50" in the middle on one side and "G" and "0028" on the other.
+- •75 mg diclofenac sodium and 200 mcg misoprostol as round, biconvex, white to off-white tablets imprinted with a "75" in the middle on one side and "G" and "0029" on the other.
 
 The dosage strengths are supplied in:
 
