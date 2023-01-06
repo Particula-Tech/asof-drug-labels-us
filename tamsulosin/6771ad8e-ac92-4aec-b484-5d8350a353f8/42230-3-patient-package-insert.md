@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Flomax® (Flō-max) (tamsulosin hydrochloride, USP) Capsules, 0.4 mg
+Flomax ® (Flō-max) (tamsulosin hydrochloride, USP) Capsules, 0.4 mg
 
 Read the Patient Information that comes with FLOMAX capsules before you start taking it and each time you refill your prescription.
 The information may have changed.
@@ -56,7 +56,8 @@ What are the possible side effects of FLOMAX capsules?
 Possible side effects of FLOMAX may include:
 
 - Decreased blood pressure when changing positions.
-  FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to FLOMAX capsules.
+  FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
+  Change positions slowly from lying down to sitting up or from a sitting to a standing position until you learn how you react to FLOMAX capsules.
   If you begin to feel dizzy, sit or lie down until you feel better.
   If the symptoms are severe or do not improve, call your doctor.
   - Symptoms may include:
@@ -98,7 +99,7 @@ What should I avoid while taking FLOMAX capsules?
 
 Avoid driving, operating machinery, or other dangerous activities, until you know how FLOMAX affects you.
 FLOMAX capsules may cause a sudden drop in blood pressure upon standing, especially after the first dose or when changing doses.
-See "What are the possible side effects of FLOMAX capsules?"
+See " What are the possible side effects of FLOMAX capsules?"
 
 How do I store FLOMAX capsules?
 
