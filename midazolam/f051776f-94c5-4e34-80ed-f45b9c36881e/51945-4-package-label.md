@@ -12,7 +12,7 @@ Midazolam in 0.9% Sodium Chloride Injection
 
 High Alert Medication
 
-NDC 44567-611-01 Do Not Dilute 50 mL
+NDC 44567-611-01 Do Not Dilute 100 mL
 
 Midazolam in 0.9% Sodium Chloride Injection
 
