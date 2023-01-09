@@ -2,9 +2,9 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).
+Teratogenic Effects: Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).
 There was no evidence of harm to the fetus due to amoxicillin.
-There are, however, no adequate and well controlled studies in pregnant women.
+There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, amoxicillin should be used during pregnancy only if clearly needed.
 
 ## 8.2 Labor and Delivery
@@ -20,8 +20,12 @@ Caution should be exercised when amoxicillin is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of amoxicillin for the treatment of upper respiratory tract infections, and infections of the genitourinary tract, skin and skin structure and lower respiratory tract have been established in pediatric patients.
+
+The safety and effectiveness of amoxicillin tablets for the treatment of H.Pylori infection have not been established in pediatric patients.
+
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
-Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (≤ 3 months) [See Dosage and Administration (2.2).]
+Dosing of amoxicillin should be modified in pediatric patients 12 weeks or younger (3 months or younger) [see Dosage and Administration (2.3)].
 
 ## 8.5 Geriatric Use
 
@@ -33,5 +37,5 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Dosing in Renal Impairment
 
-Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR <30 mL/min).
-See Dosing in Renal Impairment (2.4) for specific recommendations in patients with renal impairment.
+Amoxicillin is primarily eliminated by the kidney and dosage adjustment is usually required in patients with severe renal impairment (GFR less than 30 mL/min).
+See Dosing in Renal Impairment (2.5) for specific recommendations in patients with renal impairment.
