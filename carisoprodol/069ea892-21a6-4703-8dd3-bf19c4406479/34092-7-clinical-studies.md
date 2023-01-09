@@ -16,19 +16,19 @@ The proportion of patients who used concomitant acetaminophen, NSAIDs, tramadol,
 
 The results for the primary efficacy evaluations in the acute, low back pain studies are presented in Table 3.
 
-| Table 3. Results of the Primary Efficacy Endpointsa in Studies 1 and 2 |  |  |  |  |
+| Table 3. Results of the Primary Efficacy Endpoints a in Studies 1 and 2 |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Study | Parameter | Placebo | Carisoprodol 250 mg | Carisoprodol 350 mg |
 | 1 | Number of Patients | n=269 | n=264 | n=273 |
-| Relief from Starting Backache, Mean (SE)b | 1.4 (0.1) | 1.8 (0.1) | 1.8 (0.1) |  |
-| Difference between Carisoprodol and Placebo, Mean (SE)b (95% CI) |  | 0.4 (0.2, 0.5) | 0.4 (0.2, 0.6) |  |
-| Global Impression of Change, Mean (SE)b | 1.9 (0.1) | 2.2 (0.1) | 2.2 (0.1) |  |
-| Difference between Carisoprodol and Placebo, Mean (SE)b (95% CI) |  | 0.2 (0.1, 0.4) | 0.3 (0.1, 0.4) |  |
+| Relief from Starting Backache, Mean (SE) b | 1.4 (0.1) | 1.8 (0.1) | 1.8 (0.1) |  |
+| Difference between Carisoprodol and Placebo, Mean (SE) b (95% CI) |  | 0.4 (0.2, 0.5) | 0.4 (0.2, 0.6) |  |
+| Global Impression of Change, Mean (SE) b | 1.9 (0.1) | 2.2 (0.1) | 2.2 (0.1) |  |
+| Difference between Carisoprodol and Placebo, Mean (SE) b (95% CI) |  | 0.2 (0.1, 0.4) | 0.3 (0.1, 0.4) |  |
 | 2 | Number of Patients | n=278 | n=269 |  |
-| Relief from Starting Backache, Mean (SE)b | 1.1 (0.1) | 1.8 (0.1) |  |  |
-| Difference between Carisoprodol and Placebo, Mean (SE)b (95% CI) |  | 0.7 (0.5, 0.9) |  |  |
-| Global Impression of Change, Mean (SE)b | 1.7 (0.1) | 2.2 (0.1) |  |  |
-| Difference between Carisoprodol and Placebo, Mean (SE)b (95% CI) |  | 0.5 (0.4, 0.7) |  |  |
+| Relief from Starting Backache, Mean (SE) b | 1.1 (0.1) | 1.8 (0.1) |  |  |
+| Difference between Carisoprodol and Placebo, Mean (SE) b (95% CI) |  | 0.7 (0.5, 0.9) |  |  |
+| Global Impression of Change, Mean (SE) b | 1.7 (0.1) | 2.2 (0.1) |  |  |
+| Difference between Carisoprodol and Placebo, Mean (SE) b (95% CI) |  | 0.5 (0.4, 0.7) |  |  |
 | a The primary efficacy endpoints (Relief from Starting Backache and Global Impression of Change) were assessed by the patients on Study Day 3. These endpoints were scored on a 5-point rating scale from 0 (worst outcome) to 4 (best outcome). b Mean is the least squared mean and SE is the standard error of the mean. The ANOVA model was used for the primary statistical comparison between the carisoprodol 250 mg and placebo groups. |  |  |  |  |
 
 Patients treated with carisoprodol experienced improvement in function as measured by the Roland-Morris Disability Questionnaire (RMDQ) score on Days 3 and 7.

@@ -17,24 +17,24 @@ The degree to which these properties of meprobamate contribute to the safety and
 
 Absorption The pharmacokinetics of carisoprodol and its metabolite meprobamate were studied in a crossover study of 24 healthy subjects (12 male and 12 female) who received single doses of 250 mg and 350 mg carisoprodol (see Table 2).
 The exposure of carisoprodol and meprobamate was dose proportional between the 250 mg and 350 mg doses.
-The Cmax of meprobamate was 2.5 ± 0.5 μg/mL (mean ± SD) after administration of a single 350 mg dose of carisoprodol, which is approximately 30% of the Cmax of meprobamate (approximately 8 μg/mL) after administration of a single 400 mg dose of meprobamate.
+The C max of meprobamate was 2.5 ± 0.5 μg/mL (mean ± SD) after administration of a single 350 mg dose of carisoprodol, which is approximately 30% of the Cmax of meprobamate (approximately 8 μg/mL) after administration of a single 400 mg dose of meprobamate.
 
 | Table 2. Pharmacokinetic Parameters of Carisoprodol and Meprobamate (Mean ± SD, n=24) |  |  |  |
 | --- | --- | --- | --- |
 |  | 250 mg Carisoprodol | 350 mg Carisoprodol |  |
 | Carisoprodol |  |  |  |
-| Cmax (μg/mL) | 1.2 ± 0.5 | 1.8 ± 1.0 |  |
-| AUCinf (μg*hr/mL) | 4.5 ± 3.1 | 7.0 ± 5.0 |  |
-| Tmax (hr) | 1.5 ± 0.8 | 1.7 ± 0.8 |  |
-| T1/2 (hr) | 1.7 ± 0.5 | 2.0 ± 0.5 |  |
+| C max (μg/mL) | 1.2 ± 0.5 | 1.8 ± 1.0 |  |
+| AUC inf (μg*hr/mL) | 4.5 ± 3.1 | 7.0 ± 5.0 |  |
+| T max (hr) | 1.5 ± 0.8 | 1.7 ± 0.8 |  |
+| T 1/2 (hr) | 1.7 ± 0.5 | 2.0 ± 0.5 |  |
 | Meprobamate |  |  |  |
-| Cmax (μg/mL) | 1.8 ± 0.3 | 2.5 ± 0.5 |  |
-| AUCinf (μg*hr/mL) | 32 ± 6.2 | 46 ± 9.0 |  |
-| Tmax (hr) | 3.6 ± 1.7 | 4.5 ± 1.9 |  |
-| T1/2 (hr) | 9.7 ± 1.7 | 9.6 ± 1.5 |  |
+| C max (μg/mL) | 1.8 ± 0.3 | 2.5 ± 0.5 |  |
+| AUC inf (μg*hr/mL) | 32 ± 6.2 | 46 ± 9.0 |  |
+| T max (hr) | 3.6 ± 1.7 | 4.5 ± 1.9 |  |
+| T 1/2 (hr) | 9.7 ± 1.7 | 9.6 ± 1.5 |  |
 
 Absolute bioavailability of carisoprodol has not been determined.
-The mean time to peak plasma concentrations (Tmax) of carisoprodol was approximately 1.5 to 2 hours.
+The mean time to peak plasma concentrations (T max) of carisoprodol was approximately 1.5 to 2 hours.
 
 Food Effect: Co-administration of a high-fat meal with carisoprodol (350 mg tablet) had no effect on the pharmacokinetics of carisoprodol.
 Therefore, carisoprodol may be administered with or without food.
