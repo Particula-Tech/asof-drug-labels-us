@@ -83,7 +83,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store montelukast sodium? • Store montelukast sodium at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature]. • Keep montelukast sodium in the package it comes in. • Keep montelukast sodium in a dry place and keep it away from light. • Keep montelukast sodium and all medicines out of reach of children.
 
-General information about the safe and effective use of montelukast sodium Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
+General information about the safe and effective use of montelukast sodium.
+Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use montelukast sodium for a condition for which it was not prescribed.
 Do not give montelukast sodium to other people even if they have the same symptoms you have.
 It may harm them.
@@ -107,4 +108,4 @@ TORRENT PHARMACEUTICALS LTD., INDIA
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920 8082781 Revised: July 2021
+TORRENT PHARMA INC., Basking Ridge, NJ 07920 8089425 Revised: October 2022

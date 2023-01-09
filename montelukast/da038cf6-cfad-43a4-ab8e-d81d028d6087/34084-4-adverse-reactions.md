@@ -134,4 +134,4 @@ General disorders and administration site conditions: edema.
 
 Patients with asthma on therapy with montelukast sodium may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
 These events have been sometimes associated with the reduction of oral corticosteroid therapy.
-Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [seeWarnings and Precautions (5.5)].
+Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients [see Warnings and Precautions (5.5)].

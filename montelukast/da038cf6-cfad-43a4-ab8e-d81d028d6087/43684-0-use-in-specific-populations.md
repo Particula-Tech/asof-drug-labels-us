@@ -69,7 +69,7 @@ Growth rate (expressed as mean change in height over time) for each treatment gr
 
 Figure 1: Change in Height (cm) from Randomization Visit by Scheduled Week
 
-(Treatment Group Mean ± Standard Error *of the Mean)
+(Treatment Group Mean ± Standard Error* of the Mean)
 
 *The standard errors of the treatment group means in change in height are too small to be visible on the plot
 
@@ -83,7 +83,7 @@ No dosage adjustment in the elderly is required.
 
 ## 8.6 Hepatic Insufficiency
 
-No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency [seeClinicalPharmacology(12.3)].
+No dosage adjustment is required in patients with mild-to-moderate hepatic insufficiency [seeClinical Pharmacology (12.3)].
 
 ## 8.7 Renal Insufficiency
 

@@ -1,6 +1,6 @@
 ## WARNING: SERIOUS NEUROPSYCHIATRIC EVENTS
 
-Some neuropsychiatric (NP) events have been reported with the use of montelukast sodium [see Warnings and Precautions (5.1)].
+Some neuropsychiatric (NP) events have been reported with the use of montelukast sodium.
 The types of events reported were highly variable, and included, but were not limited to, agitation, aggression, depression, sleep distrubances, suicidal thoughts and behavior (including suicide).
 The mechanisms underlying (NP) events associated with montelukast sodium use are currently not well understood.
 

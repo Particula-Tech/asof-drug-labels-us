@@ -10,7 +10,7 @@ This Instructions for Use contains information on how to use montelukast oral gr
 
 Important Information:
 
-- Before giving a dose of montelukast sodium oral granules, read this Instrucrions for Use to be sure you prepare and give the oral granules correctly.
+- Before giving a dose of montelukast sodium oral granules, read this Instructions for Use to be sure you prepare and give the oral granules correctly.
 - Give montelukast sodium oral granules to your child exactly as instructed by your health provider.
 - Stop giving montelukast sodium and tell your healthcare provider right away if your child has any unusual changes in behavior or thinking.
 - Continue to give your child their asthma medicines as prescribed, unless your healthcare provider tells you to change how you give these medicines.
@@ -20,7 +20,7 @@ How can I give montelukast sodium oralo granules to my child?
 
 - Do not open the packet until ready to use.
 - There are different ways you can give montelukast sodium 4-mg oral granules.
-  You should choose the best method for your child: ο right into then mouth ο dissolved in 1 teaspoonful (5 mL) of cold or room temperature nbaby formula or breast milk ο mixed with 1 spoonful nof one of the following soft foods at cold or room temperature: applesauce, mashed carrots, rice, or ice cream.
+  You should choose the best method for your child: ο right into then mouth ο dissolved in 1 teaspoonful (5 mL) of cold or room temperature baby formula or breast milk ο mixed with 1 spoonful nof one of the following soft foods at cold or room temperature: applesauce, mashed carrots, rice, or ice cream.
 - Give the child all nof the mixture within 15 minutes.
 - Do not store any leftover montelukast sodium mixturen (oral granules nmixed with food, babyn formula, or breastn milk) for use at a later time.
   Throw away any unused portion.
@@ -44,4 +44,4 @@ TORRENT PHARMA., Basking Ridge, NJ 07920
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration
 
-8082779 Revised: July 2021
+8089424 Revised: October 2022

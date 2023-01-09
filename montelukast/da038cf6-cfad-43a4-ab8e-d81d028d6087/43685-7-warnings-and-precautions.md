@@ -22,7 +22,7 @@ Re-evaluate the benefits and risks of restarting treatment with montelukast sodi
 
 ## 5.2 Acute Asthma
 
-sMontelukast sodium is not indicated for use in the reversal of bronchospasm in acute asthma attacks, including status asthmaticus.
+Montelukast sodium is not indicated for use in the reversal of bronchospasm in acute asthma attacks, including status asthmaticus.
 Patients should be dvised to have appropriate rescue medication available.
 Therapy with montelukast sodium can be continued during acute exacerbations of asthma.
 Patients who have exacerbations of asthma after exercise should have available for rescue a short-acting inhaled ß-agonist.
@@ -43,6 +43,9 @@ These events have been sometimes associated with the reduction of oral corticost
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
 A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions (6.2)].
 
-## 5.6 Phenylketonuria
+## 5.6 Risk in Patients with Phenylketonuria
 
-Phenylketonuric patients should be informed that the 4-mg and 5-mg chewable tablets contain phenylalanine (a component of aspartame), 0.674 and 0.842 mg per 4-mg and 5-mg chewable tablet, respectively.
+Montelukast sodium contains aspartame, a source of phenylalanine.
+Phenylalanine can be harmful to patients with phenylketonuria (PKU).
+Each 4 mg and 5 mg chewable tablet contains 0.674 mg and 0.842 mg of phenylalanine, respectively.
+Before prescribing montelukast sodium to a patient with PKU, consier the combined daily amount of phenylalanine from all sources, including montelukast sodium.

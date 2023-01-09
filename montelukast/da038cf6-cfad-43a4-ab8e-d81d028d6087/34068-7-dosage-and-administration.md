@@ -2,7 +2,8 @@
 
 ## 2.1 Asthma
 
-For ashthma, administer montelukast sodium orally once daily in the evening, with or without food. there have been no clinical trials in patients with ashtma to evaluate the relative efficacy of morning versus evening dosing.
+For ashthma, administer montelukast sodium orally once daily in the evening, with or without food.
+There have been no clinical trials in patients with ashtma to evaluate the relative efficacy of morning versus evening dosing.
 
 The following doses are recommended:
 
@@ -76,7 +77,7 @@ Patients who miss a dose should take the next dose at their regular time and sho
 
 Patients with both asthma and allergic rhinitis should take only one montelukast sodium dose daily in the evening.
 
-Patients who miss a dose should take the next dose at their regular time and should ot take 2 doses at the same time.
+Patients who miss a dose should take the next dose at their regular time and should not take 2 doses at the same time.
 
 ## 2.5 Instructions for Administration of Oral Granules
 
