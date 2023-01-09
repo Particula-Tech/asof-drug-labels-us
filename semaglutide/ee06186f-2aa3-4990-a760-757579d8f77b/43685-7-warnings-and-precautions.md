@@ -29,8 +29,13 @@ It is unknown if patients with a history of pancreatitis are at higher risk for 
 
 ## 5.3 Acute Gallbladder Disease
 
-In WEGOVY randomized clinical trials, cholelithiasis was reported by 1.6% of WEGOVY-treated patients and 0.7% of placebo-treated patients.
-Cholecystitis was reported by 0.6% of WEGOVY-treated patients and 0.2% of placebo-treated patients.
+Treatment with WEGOVY was associated with an increased occurrence of cholelithiasis and cholecystitis.
+The incidence of cholelithiasis and cholecystitis was higher in WEGOVY-treated pediatric patients aged 12 years and older than in WEGOVY-treated adults.
+In randomized clinical trials in adult patients, cholelithiasis was reported by 1.6% of WEGOVY-treated patients and 0.7% of placebo-treated patients.
+Cholecystitis was reported by 0.6% of WEGOVY-treated adult patients and 0.2% of placebo-treated patients.
+In a clinical trial in pediatric patients aged 12 years and older, cholelithiasis was reported by 3.8% of WEGOVY-treated patients and 0% placebo-treated patients.
+Cholecystitis was reported by 0.8% of WEGOVY-treated pediatric patients and 0% placebo-treated patients [see Adverse Reactions (6.1)].
+
 Substantial or rapid weight loss can increase the risk of cholelithiasis; however, the incidence of acute gallbladder disease was greater in WEGOVY-treated patients than in placebo-treated patients, even after accounting for the degree of weight loss.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 
@@ -38,7 +43,7 @@ If cholelithiasis is suspected, gallbladder studies and appropriate clinical fol
 
 WEGOVY lowers blood glucose and can cause hypoglycemia.
 
-In a trial of patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2, hypoglycemia (defined as a plasma glucose less than 54 mg/dL) was reported in 6.2% of WEGOVY-treated patients versus 2.5% of placebo-treated patients.
+In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2, hypoglycemia (defined as a plasma glucose less than 54 mg/dL) was reported in 6.2% of WEGOVY-treated patients versus 2.5% of placebo-treated patients.
 One episode of severe hypoglycemia (requiring the assistance of another person) was reported in one WEGOVY-treated patient versus no placebo-treated patients.
 
 Patients with type 2 diabetes mellitus taking WEGOVY in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia, including severe hypoglycemia [see Adverse Reactions (6.1)].
@@ -58,20 +63,20 @@ A majority of the reported events occurred in patients who had experienced nause
 Monitor renal function when initiating or escalating doses of WEGOVY in patients reporting severe adverse gastrointestinal reactions.
 Monitor renal function in patients with renal impairment reporting any adverse reactions that could lead to volume depletion.
 
-## 5.6 Hypersensitivity
+## 5.6 Hypersensitivity Reactions
 
-Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported with semaglutide.
+Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported with WEGOVY.
 If hypersensitivity reactions occur, discontinue use of WEGOVY, treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity to semaglutide or any of the excipients in WEGOVY [see Contraindications (4)].
+WEGOVY is contraindicated in patients with a prior serious hypersensitivity reaction to semaglutide or to any of the excipients in WEGOVY [see Adverse Reactions (6.2)].
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with WEGOVY.
 
 ## 5.7 Diabetic Retinopathy Complications in Patients with Type 2 Diabetes
 
-In a trial of patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2, diabetic retinopathy was reported by 4.0% of WEGOVY-treated patients and 2.7% placebo-treated patients.
+In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2, diabetic retinopathy was reported by 4.0% of WEGOVY-treated patients and 2.7% placebo-treated patients [see Adverse Reactions (6.1)].
 
-In a 2-year trial with semaglutide 0.5 mg and 1 mg once-weekly injection in patients with type 2 diabetes and high cardiovascular risk, diabetic retinopathy complications (which was a 4-component adjudicated endpoint) occurred in patients treated with semaglutide injection (3.0%) compared to placebo (1.8%).
+In a 2-year trial with semaglutide 0.5 mg and 1 mg once-weekly injection in adult patients with type 2 diabetes and high cardiovascular risk, diabetic retinopathy complications (which was a 4-component adjudicated endpoint) occurred in patients treated with semaglutide injection (3.0%) compared to placebo (1.8%).
 The absolute risk increase for diabetic retinopathy complications was larger among patients with a history of diabetic retinopathy at baseline (semaglutide injection 8.2%, placebo 5.2%) than among patients without a known history of diabetic retinopathy (semaglutide injection 0.7%, placebo 0.4%).
 
 Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy.
@@ -80,8 +85,10 @@ Patients with a history of diabetic retinopathy should be monitored for progress
 
 ## 5.8 Heart Rate Increase
 
-Mean increases in resting heart rate of 1 to 4 beats per minute (bpm) were observed in WEGOVY-treated patients compared to placebo in clinical trials.
-More patients treated with WEGOVY compared with placebo had maximum changes from baseline at any visit of 10 to 19 bpm (41% versus 34%, respectively) and 20 bpm or more (26% versus 16%, respectively).
+Treatment with WEGOVY was associated with increases in resting heart rate.
+Mean increases in resting heart rate of 1 to 4 beats per minute (bpm) were observed in WEGOVY-treated adult patients compared to placebo in clinical trials.
+More adult patients treated with WEGOVY compared with placebo had maximum changes from baseline at any visit of 10 to 19 bpm (41% versus 34%, respectively) and 20 bpm or more (26% versus 16%, respectively).
+In a clinical trial in pediatric patients aged 12 years and older with normal baseline heart rate, more patients treated with WEGOVY compared to placebo had maximum changes in heart rate of 20 bpm or more (54% versus 39%) [see Adverse Reactions (6.1)].
 
 Monitor heart rate at regular intervals consistent with usual clinical practice.
 Instruct patients to inform their healthcare providers of palpitations or feelings of a racing heartbeat while at rest during WEGOVY treatment.

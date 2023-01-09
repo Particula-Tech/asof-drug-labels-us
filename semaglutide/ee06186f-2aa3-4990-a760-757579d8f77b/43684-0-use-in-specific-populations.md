@@ -64,19 +64,30 @@ Because of the potential for fetal harm, discontinue WEGOVY in patients at least
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of WEGOVY have not been established in pediatric patients.
+The safety and effectiveness of WEGOVY as an adjunct to a reduced calorie diet and increased physical activity for chronic weight management have been established in pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile standardized for age and sex.
+Use of WEGOVY for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex and from studies in adult patients with obesity [see Clinical Studies (14.2)].
+
+Adverse reactions with WEGOVY treatment in pediatric patients aged 12 years and older were similar to those reported in adults.
+Pediatric patients aged 12 years and older treated with WEGOVY had greater incidences of cholelithiasis, cholecystitis, hypotension, rash, and urticaria compared to adults treated with WEGOVY [see Adverse Reactions (6.1)].
+
+There are insufficient data in pediatric patients with type 2 diabetes treated with WEGOVY for obesity to determine if there is an increased risk of hypoglycemia with WEGOVY treatment similar to that reported in adults.
+Inform patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
+In pediatric patients aged 12 years and older with type 2 diabetes, monitor blood glucose prior to starting WEGOVY and during WEGOVY treatment.
+When initiating WEGOVY in pediatric patients aged 12 years and older with type 2 diabetes, consider reducing the dose of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
+
+The safety and effectiveness of WEGOVY have not been established in pediatric patients less than 12 years of age.
 
 ## 8.5 Geriatric Use
 
-In the WEGOVY clinical trials, 233 (8.8%) WEGOVY-treated patients were between 65 and 75 years of age and 23 (0.9%) WEGOVY-treated patients were 75 years of age and over.
-No overall differences in safety or efficacy were detected between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+In the WEGOVY clinical trials, 233 (9%) WEGOVY-treated patients were between 65 and 75 years of age and 23 (1%) WEGOVY-treated patients were 75 years of age and over [see Clinical Studies (14.1)].
+No overall differences in safety or effectiveness have been observed between patients 65 years of age and older and younger adult patients.
 
 ## 8.6 Renal Impairment
 
 No dose adjustment of WEGOVY is recommended for patients with renal impairment.
-In a study in subjects with renal impairment, including end-stage renal disease, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].
+In a study in patients with renal impairment, including end-stage renal disease, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 No dose adjustment of WEGOVY is recommended for patients with hepatic impairment.
-In a study in subjects with different degrees of hepatic impairment, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].
+In a study in patients with different degrees of hepatic impairment, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].

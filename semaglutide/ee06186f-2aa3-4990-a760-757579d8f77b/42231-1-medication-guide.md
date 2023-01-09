@@ -21,13 +21,13 @@ WEGOVY may cause serious side effects, including:
 
 What is WEGOVY?
 
-WEGOVY is an injectable prescription medicine used for adults with obesity or overweight (excess weight) who also have weight-related medical problems to help them lose weight and keep the weight off.
+WEGOVY is an injectable prescription medicine that may help adults and children aged 12 years and older with obesity, or some adults with excess weight (overweight) who also have weight-related medical problems to help them lose weight and keep the weight off.
 
 - •WEGOVY should be used with a reduced calorie meal plan and increased physical activity.
 - •WEGOVY contains semaglutide and should not be used with other semaglutide-containing products or other GLP-1 receptor agonist medicines.
 - •It is not known if WEGOVY is safe and effective when taken with other prescription, over-the-counter, or herbal weight loss products.
 - •It is not known if WEGOVY can be used safely in people with a history of pancreatitis.
-- •It is not known if WEGOVY is safe and effective for use in children under 18 years of age.
+- •It is not known if WEGOVY is safe and effective for use in children under 12 years of age.
 
 Do not use WEGOVY if:
 
@@ -78,7 +78,7 @@ How should I use WEGOVY?
   In your second month, increase your weekly dose to 0.5 mg.
   In the third month, increase your weekly dose to 1 mg.
   In the fourth month, increase your weekly dose to 1.7 mg and in the fifth month onwards, increase your weekly dose to the full dose of 2.4 mg.
-  If you need to change the day of the week, you may do so as long as your last dose of WEGOVY was given 2 or more days before.
+- •If you need to change the day of the week, you may do so as long as your last dose of WEGOVY was given 2 or more days before.
 - •If you miss a dose of WEGOVY and the next scheduled dose is more than 2 days away (48 hours), take the missed dose as soon as possible.
   If you miss a dose of WEGOVY and the next schedule dose is less than 2 days away (48 hours), do not administer the dose.
   Take your next dose on the regularly scheduled day.
@@ -92,7 +92,7 @@ What are the possible side effects of WEGOVY?
 WEGOVY may cause serious side effects, including:
 
 - •See “What is the most important information I should know about WEGOVY?”
-- •inflammation of your pancreas (pancreatitis).
+- •inflammation of your pancreas(pancreatitis).
   Stop using WEGOVY and call your healthcare provider right away if you have severe pain in your stomach area (abdomen) that will not go away, with or without vomiting.
   You may feel the pain from your abdomen to your back.
 - •gallbladder problems.
@@ -120,7 +120,7 @@ WEGOVY may cause serious side effects, including:
 - •kidney problems (kidney failure).
   In people who have kidney problems, diarrhea, nausea, and vomiting may cause a loss of fluids (dehydration) which may cause kidney problems to get worse.
   It is important for you to drink fluids to help reduce your chance of dehydration.
-- •serious allergic reactions.
+- •Seriousallergic reactions.
   Stop using WEGOVY and get medical help right away, if you have any symptoms of a serious allergic reaction including:
 
 | oswelling of your face, lips, tongue or throat | osevere rash or itching | overy rapid heartbeat |
@@ -137,12 +137,12 @@ WEGOVY may cause serious side effects, including:
   You should pay attention to any mental changes, especially sudden changes in your mood, behaviors, thoughts, or feelings.
   Call your healthcare provider right away if you have any mental changes that are new, worse, or worry you.
 
-The most common side effects of WEGOVY may include:
+The most common side effects of WEGOVY in adults or children aged 12 years and older may include:
 
 | •nausea | •stomach (abdomen) pain | •dizziness | •stomach flu |
 | --- | --- | --- | --- |
 | •diarrhea | •headache | •feeling bloated | •heartburn |
-| •vomiting | •tiredness (fatigue) | •belching |  |
+| •vomiting | •tiredness (fatigue) | •belching | •runny nose or sore throat |
 | •constipation | •upset stomach | •gas |  |
 
 Talk to your healthcare provider about any side effect that bothers you or does not go away.
@@ -164,7 +164,7 @@ What are the ingredients in WEGOVY?
 
 Active Ingredient: semaglutide
 
-Inactive Ingredients: disodium phosphate dihydrate, 1.42 mg; sodium chloride, 8.25 mg; water for injection; and hydrochloric acid or sodium hydroxide may be added to adjust pH.
+Inactive Ingredients: disodium phosphate dihydrate, sodium chloride, and water for injection
 
 Manufactured by: Novo Nordisk A/S, DK-2880 Bagsvaerd, Denmark
 
@@ -178,4 +178,4 @@ For more information, go to startWegovy.com or call 1-833-Wegovy-1.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Issued: 08/2022
+Issued: 12/2022

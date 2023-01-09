@@ -28,7 +28,7 @@ Dehydration and Renal Impairment
 Advise patients treated with WEGOVY of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
 Inform patients of the potential risk for worsening renal function and explain the associated signs and symptoms of renal impairment, as well as the possibility of dialysis as a medical intervention if renal failure occurs [see Warnings and Precautions (5.5)].
 
-Hypersensitivity
+Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of semaglutide, the active ingredient in WEGOVY.
 Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking WEGOVY and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.6)].
@@ -58,7 +58,7 @@ DK-2880 Bagsvaerd
 
 Denmark
 
-For information about WEGOVY contact:
+For additional information about WEGOVY contact:
 
 Novo Nordisk Inc.
 
@@ -68,12 +68,10 @@ Plainsboro, NJ 08536
 
 1-833-934-6891
 
-Date of Issue: June 2021
+Version: 2
 
-Version: 1
-
-WEGOVY™ is a trademark of Novo Nordisk A/S and Ozempic® is a registered trademark of Novo Nordisk A/S.
+WEGOVY® and Ozempic® are registered trademarks of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2021 Novo Nordisk
+© 2022 Novo Nordisk

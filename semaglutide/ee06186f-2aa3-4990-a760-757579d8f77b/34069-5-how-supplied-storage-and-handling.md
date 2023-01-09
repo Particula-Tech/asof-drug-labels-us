@@ -2,15 +2,16 @@
 
 How Supplied
 
-WEGOVY injection is a clear, colorless solution in a pre-filled, disposable, single-dose pen-injector with an integrated needle in the following packaging configurations:
+WEGOVY injection is a clear, colorless solution in a pre-filled, disposable, single-dose pen-injector with an integrated needle.
+It is supplied in cartons containing 4 pen-injectors in the following packaging configurations:
 
-| Total Strength per Total Volume | Dose per Pen | Carton Contents | NDC |
-| --- | --- | --- | --- |
-| 0.25 mg/0.5 mL | 1 dose of 0.25 mg | 4 pens | 0169-4525-14 |
-| 0.5 mg/0.5 mL | 1 dose of 0.5 mg | 4 pens | 0169-4505-14 |
-| 1 mg/0.5 mL | 1 dose of 1 mg | 4 pens | 0169-4501-14 |
-| 1.7 mg/0.75 mL | 1 dose of 1.7 mg | 4 pens | 0169-4517-14 |
-| 2.4 mg/0.75 mL | 1 dose of 2.4 mg | 4 pens | 0169-4524-14 |
+| Total Strength per Total Volume | NDC |
+| --- | --- |
+| 0.25 mg/0.5 mL | 0169-4525-14 |
+| 0.5 mg/0.5 mL | 0169-4505-14 |
+| 1 mg/0.5 mL | 0169-4501-14 |
+| 1.7 mg/0.75 mL | 0169-4517-14 |
+| 2.4 mg/0.75 mL | 0169-4524-14 |
 
 Recommended Storage
 
