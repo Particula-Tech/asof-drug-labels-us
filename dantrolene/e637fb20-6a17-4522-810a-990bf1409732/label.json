@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076686"
+  ],
+  "inn": "dantrolene",
+  "labeler": "Elite Laboratories, Inc.",
+  "package_ndcs": [
+    "64850-840-01",
+    "64850-841-01",
+    "64850-842-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dantrolene sodium",
+      "name": "Dantrolene Sodium"
+    }
+  ],
+  "setid": "e637fb20-6a17-4522-810a-990bf1409732",
+  "source": "dailymed"
+}
