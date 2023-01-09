@@ -22,9 +22,9 @@ Pregnancy and Lactation
 
 Patients should be counseled that piperacillin and tazobactam can cross the placenta in humans and is excreted in human milk [see Use in Specific Populations (8.1, 8.2)].
 
-All brands listed are the trademarks of their respective owners and are not trademarks of Wytells Pharma Private Limited.
+All brands listed are the trademarks of their respective owners and are not trademarks of Eugia Pharma Specialities Limited.
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
-Manufactured by: Wytells Pharma Private Limited Hyderabad - 500032 India
+Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India

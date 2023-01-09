@@ -68,7 +68,7 @@ The volume of reconstituted solution required to deliver the dose of piperacilli
 Reconstituted piperacillin and tazobactam solutions for single-dose vials should be further diluted in a compatible intravenous solution listed above.
 
 1. Calculate patient dose as described in Table 2 above [see Dosage and Administration (2.5)].
-2. Reconstitute vial with a compatible reconstitution diluent, as listed above under the subheading "Compatible Reconstitution Diluents for Single-Dose Vials," using the appropriate volume of diluent, as listed in tables 3 below.
+2. Reconstitute vial with a compatible reconstitution diluent, as listed above under the subheading "Compatible Reconstitution Diluents for Single-Dose Vials," using the appropriate volume of diluent, as listed in table 3 below.
    Following the addition of the diluent, swirl the single-dose vial until the powder is completely dissolved.
    Table 3: Reconstitution of Single-Dose Vials and Resulting Concentration Strength per Single-Dose Vial Volume of Diluent to be Added to the Vial Concentration of the Reconstituted Product 2.25 g (2 g piperacillin/0.25 g tazobactam) 10 mL 202.5 mg/mL (180 mg/mL piperacillin/22.5 mg/mL tazobactam) 3.375 g (3 g piperacillin/0.375 g tazobactam) 15 mL 4.5 g (4 g piperacillin/0.5 g tazobactam) 20 mL
 3. Calculate the required volume (mL) of reconstituted piperacillin and tazobactam solution based on the required dose.
