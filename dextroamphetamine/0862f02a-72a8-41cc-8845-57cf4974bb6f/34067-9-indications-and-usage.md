@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-XELSTRYMTM is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in adults and patient patients 6 years and older [see CLINICAL TRIALS (14)].
+XELSTRYM™ is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in adults and patient patients 6 years and older [see CLINICAL TRIALS (14)].
 
 Limitations of Use
 
