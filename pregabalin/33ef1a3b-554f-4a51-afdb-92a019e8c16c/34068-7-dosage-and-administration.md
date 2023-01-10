@@ -32,7 +32,8 @@ The recommended dosage for adult patients 17 years of age and older are included
 Administer the total daily dosage orally in two or three divided doses as indicated in Table 1.
 Based on clinical response and tolerability, dosage may be increased, approximately weekly.
 
-Table 1: Recommended Dosage for Adult Patients 17 Years and Older
+Table 1.
+Recommended Dosage for Adult Patients 17 Years and Older
 
 | Age and Body Weight | Recommended Initial Dosage | Recommended Maximum Dosage | Frequency of Administration |
 | --- | --- | --- | --- |
