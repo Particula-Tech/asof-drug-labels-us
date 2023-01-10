@@ -9,12 +9,16 @@ Lacosamide Tablets, USP
 
 Bottles of 30 NDC 50228-192-30
 
+Bottles of 60 � NDC 50228-192-60
+
 Bottles of 1,000 NDC 50228-192-10
 
 - Lacosamide Tablets, USP 100 mg are yellow, oval, film coated tablets debossed with ‘SG’ on one side and ‘193’on the other.
   They are supplied as follows:
 
 Bottles of 30 NDC 50228-193-30
+
+Bottles of 60 NDC 50228-193-60
 
 Bottles of 1,000 NDC 50228-193-10
 
@@ -23,12 +27,16 @@ Bottles of 1,000 NDC 50228-193-10
 
 Bottles of 30 NDC 50228-194-30
 
+Bottles of 60 NDC 50228-194-60
+
 Bottles of 1,000 NDC 50228-194-10
 
 - Lacosamide Tablets, USP 200 mg are blue, oval, film coated tablets debossed with ‘SG’ on one side and ‘195’ on the other.
   They are supplied as follows:
 
 Bottles of 30 NDC 50228-195-30
+
+Bottles of 60 NDC 50228-195-60
 
 Bottles of 1,000 NDC 50228-195-10
 

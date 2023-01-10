@@ -5,7 +5,7 @@ Lacosamide is a functionalized amino acid.
 Its molecular formula is C 13H 18N 2O 3 and its molecular weight is 250.30.
 The chemical structure is:
 
-Lacosamide is a white to light yellow powder.
+Lacosamide, USP is a white to light yellow powder.
 It is sparingly soluble in water, slightly soluble in acetonitrile, soluble in dichloromethane and methanol.
 
 ## 11.1 Lacosamide Tablets

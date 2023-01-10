@@ -38,8 +38,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Lacosamide may cause dizziness and ataxia in adult and pediatric patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide tablets (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
-There was a substantial increase in these adverse events at doses higher than 400 mg/day.
-[see Adverse Reactions (6.1)].
+There was a substantial increase in these adverse events at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 

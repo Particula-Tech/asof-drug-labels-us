@@ -1,97 +1,41 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 50228-192-30
+NDC 50228-192-60
 
-Lacosamide Tablets CV
-
-50 mg
-
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
-
-30 Tablets
-
-Rx Only
-
-NDC 50228-192-10
-
-Lacosamide Tablets CV
+Lacosamide Tablets, USP CV
 
 50 mg
 
 PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
-1,000 Tablets
+60 Tablets Rx Only
 
-Rx Only
+NDC 50228-193-60
 
-NDC 50228-193-30
-
-Lacosamide Tablets CV
+Lacosamide Tablets, USP CV
 
 100 mg
 
 PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
-30 Tablets
+60 Tablets Rx Only
 
-Rx Only
+NDC 50228-194-60
 
-NDC 50228-193-10
-
-Lacosamide Tablets CV
-
-100 mg
-
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
-
-1,000 Tablets
-
-Rx Only
-
-NDC 50228-194-30
-
-Lacosamide Tablets CV
+Lacosamide Tablets, USP CV
 
 150 mg
 
 PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
-30 Tablets
+60 Tablets Rx Only
 
-Rx Only
+NDC 50228-195-60
 
-NDC 50228-194-10
-
-Lacosamide Tablets CV
-
-150 mg
-
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
-
-1,000 Tablets
-
-Rx Only
-
-NDC 50228-195-30
-
-Lacosamide Tablets CV
+Lacosamide Tablets, USP CV
 
 200 mg
 
 PHARMACIST: Dispense the enclosed Medication Guide to each patient.
 
-30 Tablets
-
-Rx Only
-
-NDC 50228-195-10
-
-Lacosamide Tablets CV
-
-200 mg
-
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
-
-1,000 Tablets
-
-Rx Only
+60 Tablets Rx Only

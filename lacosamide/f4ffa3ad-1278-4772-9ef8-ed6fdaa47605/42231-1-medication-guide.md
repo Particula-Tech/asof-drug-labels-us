@@ -88,8 +88,10 @@ Before you take lacosamide tablets, tell your healthcare provider about all of y
     You can enroll in this registry by calling 1-888-233-2334.
     The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 - are breastfeeding or plan to breastfeed.
-  It is not known if lacosamide tablet passes into your breast milk or if it can harm your baby.
-  Talk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
+  Lacosamide tablets passes into breast milk.
+  - Breastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
+    If this happens, contact your baby’s healthcare provider.
+  - Talk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -166,7 +168,7 @@ For more information, call 1-855-724-3436.
 
 What are the ingredients in lacosamide tablets, USP?
 
-Active ingredient: lacosamide
+Active ingredient: lacosamide, USP
 
 Tablet inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose and additional ingredients listed below:
 
@@ -180,6 +182,6 @@ However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is
 
 Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
-Rev: 4/2022
+Rev: 12/2022
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
