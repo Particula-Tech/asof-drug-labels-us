@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761269"
+  ],
+  "inn": "lecanemab",
+  "labeler": "Eisai Inc.",
+  "package_ndcs": [
+    "62856-212-01",
+    "62856-215-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "lecanemab",
+      "name": "LEQEMBI"
+    }
+  ],
+  "setid": "9d1ff786-e577-410a-a273-c4d7d0e4e975",
+  "source": "dailymed"
+}
