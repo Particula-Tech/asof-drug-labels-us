@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040245"
+  ],
+  "inn": "carisoprodol",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-241-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "carisoprodol",
+      "name": "Carisoprodol"
+    }
+  ],
+  "setid": "a44a3dfc-a427-4584-a086-4bc0c538b125",
+  "source": "dailymed"
+}

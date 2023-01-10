@@ -1,0 +1,3 @@
+# PACKAGE LABEL PRINCIPAL DISPLAY PANEL
+
+Carisoprodol Tablets USP 350 mg- NDC 62135-241-12 -120s Bottle Label
