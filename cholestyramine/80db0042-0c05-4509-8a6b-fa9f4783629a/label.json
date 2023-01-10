@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA074561",
+    "ANDA074562"
+  ],
+  "inn": "cholestyramine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-008-56",
+    "62135-937-54"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "cholestyramine for oral suspension",
+      "name": "Cholestyramine for Oral Suspension"
+    }
+  ],
+  "setid": "80db0042-0c05-4509-8a6b-fa9f4783629a",
+  "source": "dailymed"
+}
