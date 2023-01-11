@@ -9,4 +9,4 @@ The clinical significance of these nonclinical findings is not known, and health
 
 For more information concerning this drug, please call 1-800-438-1985 or visit www.pfizer.com.
 
-To report SUSPECTED ADVERSE REACTIONS, please call 1-800-438-1985 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, please call 1-800-438-1985 or FDA at 1-800-FDA-1088 orwww.fda.gov/medwatch.

@@ -69,13 +69,13 @@ For pediatric patients, particular care should be taken to assure safe ambulatio
 ## Neonatal Sedation and Withdrawal Syndrome
 
 Use of midazolam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
-Monitor neonates exposed to midazolam during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam during pregnancy for signs of withdrawal; manage these infants accordingly.
+Monitor neonates exposed to midazolam during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## Pediatric Neurotoxicity
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS/ Pregnancy and Pediatric Use and ANIMAL TOXICOLOGY AND/OR PHARMCOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS/ Pregnancy and Pediatric Use and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
@@ -102,14 +102,14 @@ For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
 To assure safe and effective use of benzodiazepines, the following information and instructions should be communicated to the patient when appropriate:
 
-1. Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
+1. 1.Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
    Alcohol has an increased effect when consumed with benzodiazepines; therefore, caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment.
-2. Inform your physician if you are pregnant or are planning to become pregnant.
-3. Inform your physician if you are nursing.
-4. Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
+2. 2.Inform your physician if you are pregnant or are planning to become pregnant.
+3. 3.Inform your physician if you are nursing.
+4. 4.Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
    The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
-5. Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
-6. Effect of anesthetic and sedation drugs on early brain development: Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+5. 5.Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
+6. 6.Effect of anesthetic and sedation drugs on early brain development: Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
    Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
 
 ### Pregnancy
@@ -199,7 +199,7 @@ There were no adverse effects on either male or female fertility noted
 
 ### Risk Summary
 
-Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and PRECAUTIONS: Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -244,7 +244,7 @@ The study included no functional assessments of the pups, such as learning and m
 In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS/Pediatric Neurotoxicity, PRECAUTIONS/Pediatric Use and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use, and Animal Toxicology and/or Pharmacology).
 
 ## Nursing Mothers
 
@@ -282,7 +282,7 @@ Based on comparisons across species, the window of vulnerability to these change
 
 In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
 Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
-The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data (see WARNINGS/Pediatric Neurotoxicity, PRECAUTIONS/Pregnancy and ANIMAL TOXICOLOGY AND/ORPHARMACOLOGY).
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data (see WARNINGS/Pediatric Neurotoxicity, PRECAUTIONS/Pregnancy and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Geriatric Use
 
