@@ -15,8 +15,10 @@ This increase in drug concentrations caused by coadministration with itraconazol
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsade de pointes, a potentially fatal arrhythmia.
 Specific examples are listed in PRECAUTIONS: Drug Interactions.
 
+Coadministration with venetoclax is contraindicated in patients with CLL/SLL during the dose initiation and ramp-up phase venetoclax to the potential for an increased risk of tumor lysis syndrome.
+
 Itraconazole should not be administered for the treatment of onychomycosis to pregnant patients or to women contemplating pregnancy.
 
 Itraconazole is contraindicated for patients who have shown hypersensitivity to itraconazole.
 There is limited information regarding cross-hypersensitivity between itraconazole and other azole antifungal agents.
-Caution should be used when prescribing itraconazole to patients with hypersensitivity to other azoles.
+Caution should be used when prescribing itraconazoleto patients with hypersensitivity to other azoles.

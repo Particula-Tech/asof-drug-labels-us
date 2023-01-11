@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Itraconazole USP is an azole antifungal agent.
+Itraconazole, USP is an azole antifungal agent.
 Itraconazole is a 1:1:1:1 racemic mixture of four diastereomers (two enantiomeric pairs), each possessing three chiral centers.
 It may be represented by the following structural formula and nomenclature:
 
@@ -20,4 +20,4 @@ Inactive ingredients are hard gelatin capsule, hypromellose, polyethylene glycol
 In addition, the blue opaque capsule shell contains FD&C Blue No. 1, FD&C Blue No. 2, gelatin & titanium dioxide and the pink transparent body contains D&C Red No. 28 & gelatin.
 The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol and shellac.
 
-USP Dissolution test is pending
+Meets USP Dissolution Test 2.

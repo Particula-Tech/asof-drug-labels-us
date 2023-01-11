@@ -6,7 +6,7 @@ General Pharmacokinetic Characteristics
 
 Peak plasma concentrations of itraconazole are reached within 2 to 5 hours following oral administration.
 As a consequence of non-linear pharmacokinetics, itraconazole accumulates in plasma during multiple dosing.
-Steady-state concentrations are generally reached within about 15 days, with C max values of 0.5 mcg/mL, 1.1 mcg/mL and 2.0 mcg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
+Steady-state concentrations are generally reached within about 15 days, with Cmax values of 0.5 µg/mL, 1.1 µg/mL and 2.0 µg/mL after oral administration of 100 mg once daily, 200 mg once daily and 200 mg b.i.d., respectively.
 The terminal half-life of itraconazole generally ranges from 16 to 28 hours after single dose and increases to 34 to 42 hours with repeated dosing.
 Once treatment is stopped, itraconazole plasma concentrations decrease to an almost undetectable concentration within 7 to 14 days, depending on the dose and duration of treatment.
 Itraconazole mean total plasma clearance following intravenous administration is 278 mL/min.
@@ -25,7 +25,7 @@ Absorption of itraconazole under fasted conditions in these subjects is increase
 When itraconazole capsules were administered as a single 200-mg dose under fasted conditions with non-diet cola after ranitidine pretreatment, a H 2-receptor antagonist, itraconazole absorption was comparable to that observed when itraconazole capsules were administered alone.
 (See PRECAUTIONS: Drug Interactions.)
 
-Itraconazole exposure is lower with the capsule formulation than with the Oral Solution when the same dose of drug is given.
+Itraconazole exposure is lower with the capsule formulation than with the oral solution when the same dose of drug is given.
 (See WARNINGS)
 
 Distribution
@@ -59,7 +59,7 @@ Renal Impairment:
 Limited data are available on the use of oral itraconazole in patients with renal impairment.
 A pharmacokinetic study using a single 200-mg oral dose of itraconazole was conducted in three groups of patients with renal impairment (uremia: n=7; hemodialysis: n=7; and continuous ambulatory peritoneal dialysis: n=5).
 In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m 2, the exposure, based on AUC, was slightly reduced compared with normal population parameters.
-This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (T max, C max, and AUC 0-8h).
+This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (T max, C max, and AUC 0 to 8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
 After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50 to 79 mL/min), moderate (defined in this study as CrCl 20 to 49 mL/min), and severe renal impairment (defined in this study as CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42 to 49 hours vs. 48 hours in renally impaired patients and healthy subjects, respectively).
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
@@ -93,6 +93,10 @@ Antimicrobial Activity:
 
 Itraconazole exhibits in vitro activity against Blastomyces dermatitidis, Histoplasma capsulatum, Histoplasma duboisii, Aspergillus flavus, Aspergillus fumigatus, and Trichophyton species (See INDICATIONS AND USAGE, Description of Clinical Studies).
 
+Susceptibility Testing
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
+
 Resistance:
 
 Isolates from several fungal species with decreased susceptibility to itraconazole have been isolated in vitro and from patients receiving prolonged therapy.
@@ -108,7 +112,3 @@ Studies (both in vitro and in vivo) suggest that the activity of amphotericin B 
 As with other azoles, itraconazole inhibits the 14C-demethylation step in the synthesis of ergosterol, a cell wall component of fungi.
 Ergosterol is the active site for amphotericin B. In one study the antifungal activity of amphotericin B against Aspergillus fumigatus infections in mice was inhibited by ketoconazole therapy.
 The clinical significance of test results obtained in this study is unknown.
-
-Susceptibility Testing
-
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

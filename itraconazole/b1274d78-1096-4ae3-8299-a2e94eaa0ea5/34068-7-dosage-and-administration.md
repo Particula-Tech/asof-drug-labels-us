@@ -1,7 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-Itraconazole capsules USP should be taken with a full meal to ensure maximal absorption.
-Itraconazole capsules USP must be swallowed whole.
+Itraconazolecapsules USP should be taken with a full meal to ensure maximal absorption.
+Itraconazole capsules must be swallowed whole.
 
 Itraconazole capsules USP are a different preparation than itraconazole oral solution and should not be used interchangeably.
 
