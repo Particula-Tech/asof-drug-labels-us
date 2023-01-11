@@ -103,7 +103,7 @@ Table 4 lists adverse reactions reported with an incidence of 5% or greater, reg
 
 Table 4: Adverse Reactions in Studies 0020 and 0021 (≥ 5% from Combined Data)
 
-| Adverse Reactions | Fulvestrant 250 mgN=423% | Anastrozole 1 mgN=423% |
+| Adverse Reactions | Fulvestrant 250 mg N=423 % | Anastrozole 1 mg N=423 % |
 | --- | --- | --- |
 | Body as a Whole | 68 | 68 |
 | Asthenia | 23 | 27 |
@@ -327,38 +327,38 @@ Adverse reactions and laboratory abnormalities occurring in patients in MONALEES
 
 Table 9: Adverse Reactions Occurring in ≥10% and ≥2% higher than fulvestrant plus Placebo Arm in MONALEESA-3 (All Grades)
 
-| Adverse Reactions |  | Fulvestrant plus Ribociclib N=483 |  |  | Fulvestrant plus Placebo N=241 |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |  |
-| Infections and Infestations |  |  |  |  |  |  |  |
-| Infections1 |  | 42 | 5 | 0 | 30 | 2 | 0 |
-| Blood and Lymphatic System Disorders |  |  |  |  |  |  |  |
-| Neutropenia |  | 69 | 46 | 7 | 2 | 0 | 0 |
-| Leukopenia |  | 27 | 12 | <1 | <1 | 0 | 0 |
-| Anemia |  | 17 | 3 | 0 | 5 | 2 | 0 |
-| Metabolism and Nutrition Disorders |  |  |  |  |  |  |  |
-| Decreased appetite |  | 16 | <1 | 0 | 13 | 0 | 0 |
-| Nervous System Disorders |  |  |  |  |  |  |  |
-| Dizziness |  | 13 | <1 | 0 | 8 | 0 | 0 |
-| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |  |  |  |
-| Cough |  | 22 | 0 | 0 | 15 | 0 | 0 |
-| Dyspnea |  | 15 | 1 | <1 | 12 | 2 | 0 |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |
-| Nausea |  | 45 | 1 | 0 | 28 | <1 | 0 |
-| Diarrhea |  | 29 | <1 | 0 | 20 | <1 | 0 |
-| Vomiting |  | 27 | 1 | 0 | 13 | 0 | 0 |
-| Constipation |  | 25 | <1 | 0 | 12 | 0 | 0 |
-| Abdominal pain |  | 17 | 1 | 0 | 13 | <1 | 0 |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |  |
-| Alopecia |  | 19 | 0 | 0 | 5 | 0 | 0 |
-| Pruritus |  | 20 | <1 | 0 | 7 | 0 | 0 |
-| Rash |  | 23 | <1 | 0 | 7 | 0 | 0 |
-| General Disorders and Administration Site Conditions |  |  |  |  |  |  |  |
-| Edema peripheral |  | 15 | 0 | 0 | 7 | 0 | 0 |
-| Pyrexia |  | 11 | <1 | 0 | 7 | 0 | 0 |
-| Investigations |  |  |  |  |  |  |  |
-| Alanine aminotransferase increased |  | 15 | 7 | 2 | 5 | <1 | 0 |
-| Aspartate aminotransferase increased |  | 13 | 5 | 1 | 5 | <1 | 0 |
+| Adverse Reactions | Fulvestrant plus Ribociclib N=483 |  |  | Fulvestrant plus Placebo N=241 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | All Grades % | Grade 3 % | Grade 4 % | All Grades % | Grade 3 % | Grade 4 % |
+| Infections and Infestations |  |  |  |  |  |  |
+| Infections1 | 42 | 5 | 0 | 30 | 2 | 0 |
+| Blood and Lymphatic System Disorders |  |  |  |  |  |  |
+| Neutropenia | 69 | 46 | 7 | 2 | 0 | 0 |
+| Leukopenia | 27 | 12 | <1 | <1 | 0 | 0 |
+| Anemia | 17 | 3 | 0 | 5 | 2 | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |
+| Decreased appetite | 16 | <1 | 0 | 13 | 0 | 0 |
+| Nervous System Disorders |  |  |  |  |  |  |
+| Dizziness | 13 | <1 | 0 | 8 | 0 | 0 |
+| Respiratory, Thoracic, and Mediastinal Disorders |  |  |  |  |  |  |
+| Cough | 22 | 0 | 0 | 15 | 0 | 0 |
+| Dyspnea | 15 | 1 | <1 | 12 | 2 | 0 |
+| Gastrointestinal Disorders |  |  |  |  |  |  |
+| Nausea | 45 | 1 | 0 | 28 | <1 | 0 |
+| Diarrhea | 29 | <1 | 0 | 20 | <1 | 0 |
+| Vomiting | 27 | 1 | 0 | 13 | 0 | 0 |
+| Constipation | 25 | <1 | 0 | 12 | 0 | 0 |
+| Abdominal pain | 17 | 1 | 0 | 13 | <1 | 0 |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
+| Alopecia | 19 | 0 | 0 | 5 | 0 | 0 |
+| Pruritus | 20 | <1 | 0 | 7 | 0 | 0 |
+| Rash | 23 | <1 | 0 | 7 | 0 | 0 |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |
+| Edema peripheral | 15 | 0 | 0 | 7 | 0 | 0 |
+| Pyrexia | 11 | <1 | 0 | 7 | 0 | 0 |
+| Investigations |  |  |  |  |  |  |
+| Alanine aminotransferase increased | 15 | 7 | 2 | 5 | <1 | 0 |
+| Aspartate aminotransferase increased | 13 | 5 | 1 | 5 | <1 | 0 |
 
 Grading according to CTCAE4.03.
 

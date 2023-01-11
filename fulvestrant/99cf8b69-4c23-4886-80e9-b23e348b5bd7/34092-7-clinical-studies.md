@@ -293,9 +293,6 @@ Table 17: Efficacy Results – MONALEESA-3 (Investigator Assessment, Intent-to-T
 | Patients with measurable disease (95% CI) | 40.9 (35.9, 45.8) | 28.7 (22.1, 35.3) |
 
 1. Abbreviation: NR, not reached
-2. 1.p-value is obtained from the one-sided log-rank
-3. 2.Based on confirmed responses
-4. *Investigator Assessment
 
 Figure 13 Kaplan-Meier Progression Free Survival Curves – MONALEESA-3 (Intent-To-Treat Population, Investigator assessment)
 
