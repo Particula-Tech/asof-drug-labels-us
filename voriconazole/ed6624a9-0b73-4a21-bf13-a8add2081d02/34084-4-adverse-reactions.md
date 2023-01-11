@@ -99,7 +99,7 @@ The mechanism underlying these dermatologic adverse reactions remains unknown.
 Severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported during treatment with voriconazole.
 Erythema multiforme has also been reported during treatment with voriconazole [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
 
-Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6)].
+Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 
 Less Common Adverse Reactions
 
@@ -125,7 +125,7 @@ Nervous System: abnormal dreams, acute brain syndrome, agitation, akathisia, amn
 
 Respiratory System: cough increased, dyspnea, epistaxis, hemoptysis, hypoxia, lung edema, pharyngitis, pleural effusion, pneumonia, respiratory disorder, respiratory distress syndrome, respiratory tract infection, rhinitis, sinusitis, voice alteration.
 
-Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosus, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma, sweating, toxic epidermal necrolysis, urticaria.
+Skin and Appendages: alopecia, angioedema, contact dermatitis, discoid lupus erythematosus, eczema, erythema multiforme, exfoliative dermatitis, fixed drug eruption, furunculosis, herpes simplex, maculopapular rash, melanoma, melanosis, photosensitivity skin reaction, pruritus, pseudoporphyria, psoriasis, skin discoloration, skin disorder, skin dry, Stevens-Johnson syndrome, squamous cell carcinoma (including cutaneous SCC in situ, or Bowen’s disease), sweating, toxic epidermal necrolysis, urticaria.
 
 Special Senses: abnormality of accommodation, blepharitis, color blindness, conjunctivitis, corneal opacity, deafness, ear pain, eye pain, eye hemorrhage, dry eyes, hypoacusis, keratitis, keratoconjunctivitis, mydriasis, night blindness, optic atrophy, optic neuritis, otitis externa, papilledema, retinal hemorrhage, retinitis, scleritis, taste loss, taste perversion, tinnitus, uveitis, visual field defect.
 
@@ -312,6 +312,10 @@ Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 The following adverse reactions have been identified during post-approval use of voriconazole.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Dermatological Reactions
+
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in post-marketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Adults
 

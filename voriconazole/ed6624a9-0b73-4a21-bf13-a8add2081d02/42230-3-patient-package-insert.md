@@ -96,7 +96,16 @@ Voriconazole for oral suspension may cause serious side effects including:
 
 - blurred vision
 - changes in the way you see colors
-- sensitivity to light (photophobia)
+- sensitivity to light or sun (photosensitivity).
+  Voriconazole for oral suspension can cause serious photosensitivity.
+  There is an increased chance of skin toxicity while taking voriconazole for oral suspension.
+  This can happen with or without taking other medicines like methotrexate.
+  Photosensitivity reactions may also increase your risk of:
+
+- faster skin aging from the sun
+- skin cancer
+
+Call your healthcare provider right away if you get a new skin rash or your skin rash gets worse.
 
 - serious heart problems.
   Voriconazole for oral suspension may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
@@ -213,4 +222,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-03-2022-08
+12-2022-09

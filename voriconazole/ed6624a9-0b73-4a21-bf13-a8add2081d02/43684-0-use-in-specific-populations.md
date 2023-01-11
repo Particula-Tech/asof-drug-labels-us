@@ -66,7 +66,7 @@ Hepatic function and serum creatinine levels should be closely monitored in pedi
 
 ## 8.5 Geriatric Use
 
-In multiple-dose therapeutic trials of voriconazole, 9.2% of patients were ≥ 65 years of age and 1.8% of patients were ≥ 75 years of age.
+In multiple dose therapeutic trials of voriconazole, 9.2% of patients were ≥ 65 years of age and 1.8% of patients were ≥ 75 years of age.
 In a study in healthy subjects, the systemic exposure (AUC) and peak plasma concentrations (Cmax) were increased in elderly males compared to young males.
 Pharmacokinetic data obtained from 552 patients from 10 voriconazole therapeutic trials showed that voriconazole plasma concentrations in the elderly patients were approximately 80% to 90% higher than those in younger patients after either IV or oral administration.
 However, the overall safety profile of the elderly patients was similar to that of the young so no dosage adjustment is recommended [see Clinical Pharmacology (12.3)].

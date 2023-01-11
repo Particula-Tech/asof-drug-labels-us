@@ -52,13 +52,13 @@ Based on a population pharmacokinetic analysis of pooled data in healthy subject
 Bioequivalence was established between the 200 mg tablet and the 40 mg/mL oral suspension when administered as a 400 mg every 12 hours loading dose followed by a 200 mg every 12 hours maintenance dose.
 
 Maximum plasma concentrations (Cmax) are achieved 1 to 2 hours after dosing.
-When multiple-doses of voriconazole are administered with high-fat meals, the mean Cmax and AUCτ are reduced by 34% and 24%, respectively when administered as a tablet and by 58% and 37% respectively when administered as the oral suspension [see Dosage and Administration (2)].
+When multiple doses of voriconazole are administered with high-fat meals, the mean Cmax and AUCτ are reduced by 34% and 24%, respectively when administered as a tablet and by 58% and 37% respectively when administered as the oral suspension [see Dosage and Administration (2)].
 
 In healthy subjects, the absorption of voriconazole is not affected by co-administration of oral ranitidine, cimetidine, or omeprazole, drugs that are known to increase gastric pH.
 
 Distribution
 
-The volume of distribution at steady-state for voriconazole is estimated to be 4.6 L/kg, suggesting extensive distribution into tissues.
+The volume of distribution at steady state for voriconazole is estimated to be 4.6 L/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58% and was shown to be independent of plasma concentrations achieved following single and multiple oral doses of 200 mg or 300 mg (approximate range: 0.9 to 15 mcg/mL).
 Varying degrees of hepatic and renal impairment do not affect the protein binding of voriconazole.
 
@@ -89,7 +89,7 @@ Male and Female Patients
 In a multiple oral dose study, the mean Cmax and AUCτ for healthy young females were 83% and 113% higher, respectively, than in healthy young males (18 to 45 years), after tablet dosing.
 In the same study, no significant differences in the mean Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (> 65 years).
 In a similar study, after dosing with the oral suspension, the mean AUC for healthy young females was 45% higher than in healthy young males whereas the mean Cmax was comparable between genders.
-The steady-state trough voriconazole concentrations (Cmin) seen in females were 100% and 91% higher than in males receiving the tablet and the oral suspension, respectively.
+The steady state trough voriconazole concentrations (Cmin) seen in females were 100% and 91% higher than in males receiving the tablet and the oral suspension, respectively.
 
 In the clinical program, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female subjects were similar.
@@ -97,7 +97,7 @@ Therefore, no dosage adjustment based on gender is necessary.
 
 Geriatric Patients
 
-In an oral multiple-dose study the mean Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61% and 86% higher, respectively, than in young males (18 to 45 years).
+In an oral multiple dose study the mean Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61% and 86% higher, respectively, than in young males (18 to 45 years).
 No significant differences in the mean Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18 to 45 years).
 
 In the clinical program, no dosage adjustment was made on the basis of age.
@@ -209,7 +209,7 @@ The mean elimination half-life of oxycodone was also increased by 2.0-fold (rang
 
 Cyclosporine (CYP3A4 substrate)–In stable renal transplant recipients receiving chronic cyclosporine therapy, concomitant administration of oral voriconazole (200 mg every 12 hours for 8 days) increased cyclosporine Cmax and AUCτ an average of 1.1 times (90% CI: 0.9, 1.41) and 1.7 times (90% CI: 1.5, 2.0), respectively, as compared to when cyclosporine was administered without voriconazole [see Drug Interactions (7)].
 
-Methadone (CYP3A4, CYP2C19, CYP2C9 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the Cmax and AUCτ of pharmacologically active Rmethadone by 31% (90% CI: 22%, 40%) and 47% (90% CI: 38%, 57%), respectively, in subjects receiving a methadone maintenance dose (30 mg to 100 mg every 24 hours).
+Methadone (CYP3A4, CYP2C19, CYP2C9 substrate)–Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the Cmax and AUCτ of pharmacologically active R-methadone by 31% (90% CI: 22%, 40%) and 47% (90% CI: 38%, 57%), respectively, in subjects receiving a methadone maintenance dose (30 mg to 100 mg every 24 hours).
 The Cmax and AUC of (S)-methadone increased by 65% (90% CI: 53%, 79%) and 103% (90% CI: 85%, 124%), respectively [see Drug Interactions (7)].
 
 Tacrolimus (CYP3A4 substrate)–Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCτ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7)].

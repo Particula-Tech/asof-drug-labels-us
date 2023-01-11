@@ -2,6 +2,16 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
+Visual Disturbances
+
+Patients should be instructed that visual disturbances such as blurring and sensitivity to light may occur with the use of voriconazole.
+
+Photosensitivity
+
+- Advise patients of the risk of photosensitivity (with or without concomitant methotrexate), accelerated photoaging, and skin cancer.
+- Advise patients that voriconazole can cause serious photosensitivity and to immediately contact their healthcare provider for new or worsening skin rash.
+- Advise patients to avoid exposure to direct sun light and to use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
+
 Embryo-Fetal Toxicity
 
 - Advise female patients of the potential risks to a fetus.
@@ -12,11 +22,7 @@ For the most recent prescribing information, please visit www.amneal.com or call
 
 All brands listed are trademark of their respective owner.
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2022-09
+12-2022-10
