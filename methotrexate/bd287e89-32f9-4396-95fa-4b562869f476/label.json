@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA011719"
+  ],
+  "inn": "methotrexate",
+  "labeler": "Hospira, Inc.",
+  "package_ndcs": [
+    "61703-124-40"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "methotrexate",
+      "name": "Methotrexate"
+    }
+  ],
+  "setid": "bd287e89-32f9-4396-95fa-4b562869f476",
+  "source": "dailymed"
+}
