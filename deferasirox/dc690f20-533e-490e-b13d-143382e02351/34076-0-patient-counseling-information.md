@@ -79,6 +79,9 @@ Distributed by:
 
 Bionpharma Inc. 600 Alexander Road, Princeton, NJ 08540
 
+Manufactured by: Bluepharma - Indústria Farmacêutica, S.A.
+Rua Da Bayer, Sao Martinho do Bispo Coimbra 3045-016, Portugal
+
 February 2021
 
-FDA-11
+FDA-10

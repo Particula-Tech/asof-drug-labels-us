@@ -34,22 +34,6 @@ Table 1 displays adverse reactions occurring in greater than 5% of deferasirox-t
 Abdominal pain, nausea, vomiting, diarrhea, skin rashes, and increases in serum creatinine were the most frequent adverse reactions reported with a suspected relationship to deferasirox.
 Gastrointestinal symptoms, increases in serum creatinine, and skin rash were dose related.
 
-Table 1.
-Adverse Reactions a Occurring in Greater Than 5% of Deferasirox-treated Patients in Study 1, Study 3, and MDS Pool
-
-|  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reactions | Deferasirox N = 296 n (%) | Deferoxamine N = 290 n (%) | Deferasirox N = 132 n (%) | Deferoxamine N = 63 n (%) | Deferasirox N = 627 n (%) |  |
-| Abdominal Pain b | 63 (21) | 41 (14) | 37 (28) | 9 (14) | 145 (23) |  |
-| Diarrhea | 35 (12) | 21 (7) | 26 (20) | 3 (5) | 297 (47) |  |
-| Creatinine Increased c | 33 (11) | 0 (0) | 9 (7) | 0 | 89 (14) |  |
-| Nausea | 31 (11) | 14 (5) | 30 (23) | 7 (11) | 161 (26) |  |
-| Vomiting | 30 (10) | 28 (10) | 28 (21) | 10 (16) | 83 (13) |  |
-| Rash | 25 (8) | 9 (3) | 14 (11) | 3 (5) | 83 (13) |  |
-| Abbreviation: MDS, myelodysplastic syndrome.aAdverse reaction frequencies are based on adverse events reported regardless of relationship to study drug. |  |  |  |  |  |  |
-| bIncludes abdominal pain', 'abdominal pain lower', and 'abdominal pain upper'. |  |  |  |  |  |  |
-| cIncludes 'blood creatinine increased' and 'blood creatinine abnormal'. See also Table 2. |  |  |  |  |  |  |
-
 In Study 1, a total of 113 (38%) patients treated with deferasirox had increases in serum creatinine greater than 33% above baseline on 2 separate occasions (Table 2) and 25 (8%) patients required dose reductions.
 Increases in serum creatinine appeared to be dose related [see Warnings and Precautions (5.1)].
 In this study, 17 (6%) patients treated with deferasirox developed elevations in serum glutamic-pyruvic transaminase (SGPT)/ALT levels greater than 5 times the upper limit of normal (ULN) at 2 consecutive visits.
@@ -68,20 +52,6 @@ A total of 5 (0.8%) patients developed SGPT/ALT levels greater than 5 times the 
 The most frequent adverse reactions that led to discontinuation included increases in serum creatinine, diarrhea, nausea, rash, and vomiting.
 Death was reported in the first year in 52 (8%) of patients [see Clinical Studies (14)].
 
-Table 2.
-Number (%) of Patients with Increases in Serum Creatinine or SGPT/ALT in Study 1, Study 3, and MDS Pool
-
-|  | Study 1 (Beta-thalassemia) |  | Study 3 (Sickle Cell Disease) |  | MDS Pool |
-| --- | --- | --- | --- | --- | --- |
-| Laboratory Parameter | Deferasirox N = 296 n (%) | Deferoxamine N = 290 n (%) | Deferasirox N = 132 n (%) | Deferoxamine N = 63 n (%) | Deferasirox N = 627 n (%) |
-| Serum Creatinine |  |  |  |  |  |
-| Creatinine increase > 33% at 2 consecutive post-baseline visits | 113 (38) | 41 (14) | 48 (36) | 14 (22) | 229 (37) |
-| Creatinine increase > 33% and > ULN at 2 consecutive post-baseline visits | 7 (2) | 1 (0) | 3 (2) | 2 (3) | 126 (20) |
-| SGPT/ALT |  |  |  |  |  |
-| SGPT/ALT > 5 x ULN at 2 post-baseline visits | 25 (8) | 7 (2) | 2 (2) | 0 | 9 (1) |
-| SGPT/ALT > 5 x ULN at 2 consecutive post-baseline visits | 17 (6) | 5 (2) | 5 (4) | 0 | 5 (1) |
-| Abbreviations: ALT, alanine transaminase; MDS, myelodysplastic syndrome; SGPT, serum glutamic-pyruvic transaminase; ULN, upper limit of normal. |  |  |  |  |  |
-
 Non-Transfusion-Dependent Thalassemia Syndromes
 
 In Study 5, 110 patients with NTDT received 1 year of treatment with deferasirox 5 or 10 mg/kg/day and 56 patients received placebo in a double-blind, randomized trial.
@@ -89,34 +59,11 @@ In Study 6, 130 of the patients who completed Study 5 were treated with open-lab
 Tables 3 and 4 display the frequency of adverse reactions in patients with NTDT.
 Adverse reactions with a suspected relationship to study drug were included in Table 3 if they occurred at ≥ 5% of patients in Study 5.
 
-Table 3.
-Adverse Reactions Occurring in Greater Than 5% in Patients with NTDT
-
-|  | Study 5 |  | Study 6 |
-| --- | --- | --- | --- |
-|  | Deferasirox N = 110 n (%) | Placebo N = 56 n (%) | Deferasirox N = 130 n (%) |
-| Any adverse reaction | 31 (28) | 9 (16) | 27 (21) |
-| Nausea | 7 (6) | 4 (7) | 2 (2) a |
-| Rash | 7 (6) | 1 (2) | 2 (2) a |
-| Diarrhea | 5 (5) | 1 (2) | 7 (5) |
-| Abbreviation: NTDT, non-transfusion-dependent thalassemia. |  |  |  |
-| a The occurrence of nausea, and rash are included for Study 6. There were no additional adverse reactions with a suspected relationship to study drug occurring in greater than 5% of patients in Study 6. |  |  |  |
-
 In Study 5, 1 patient in the placebo 10 mg/kg/day group experienced an ALT increase to greater than 5 times ULN and greater than 2 times baseline (Table 4).
 Three deferasirox-treated patients (all in the 10 mg/kg/day group) had 2 consecutive serum creatinine level increases greater than 33% from baseline and greater than ULN.
 Serum creatinine returned to normal in all 3 patients (in 1 spontaneously and in the other 2 after drug interruption).
 Two additional cases of ALT increase and 2 additional cases of serum creatinine increase were observed in the 1-year extension of Study 5.
 The number (%) of patients with NTDT with increase in serum creatinine or SGPT/ALT in Study 5 and Study 6 are presented in Table 4 below.
-
-Table 4.
-Number (%) of Patients with NTDT with Increases in Serum Creatinine or SGPT/ALT
-
-|  | Study 5 |  | Study 6 |
-| --- | --- | --- | --- |
-| Laboratory Parameter | Deferasirox N = 110 n (%) | Placebo N = 56 n (%) | Deferasirox N = 130 n (%) |
-| Serum creatinine (> 33% increase from baseline and > ULN at ≥ 2 consecutive post-baseline values) | 3 (3) | 0 | 2 (2) |
-| SGPT/ALT (> 5 x ULN and > 2 x baseline) | 1 (1) | 1 (2) | 2 (2) |
-| Abbreviations: ALT, alanine transaminase; NTDT, non-transfusion-dependent thalassemia; SGPT, serum glutamic-pyruvic transaminase; ULN, upper limit of normal. |  |  |  |
 
 Proteinuria
 
