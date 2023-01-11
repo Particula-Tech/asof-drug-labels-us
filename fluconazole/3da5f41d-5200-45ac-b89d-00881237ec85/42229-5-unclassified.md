@@ -34,15 +34,19 @@ Ask your healthcare provider for tips on what you can do to help prevent vaginal
 
 If you get a vaginal yeast infection, you may have any of the following symptoms:
 
-- 
+- •itching
+- •a burning feeling when you urinate
+- •redness
+- •soreness
+- •a thick white vaginal discharge that looks like cottage cheese
 
 Do not take Fluconazole Tablets if you.
 
 - •take the following medicines:
-- oquinidine
-- oerythromycin
-- opimozide
-- oare allergic to fluconazole, the active ingredient in fluconazole tablets, or any of the ingredients in fluconazole tablets.
+- •quinidine
+- •erythromycin
+- •pimozide
+- •are allergic to fluconazole, the active ingredient in fluconazole tablets, or any of the ingredients in fluconazole tablets.
   See the end of this Patient Information leaflet for a complete list of ingredients in fluconazole tablets.
 
 Before you take fluconazole tablets, tell your healthcare provider about all of your medical conditions, if you:
@@ -64,7 +68,7 @@ Before you start taking Fluconazole Tablets, tell your healthcare provider about
 Especially tell your healthcare provider if you take:
 
 - •diabetes medicines such as glyburide, tolbutamide, glipizide
-- •blood pressure medicines like hydrochlorothiazide, losartan, amlodipine, verapamil nifedipine or felodipine
+- •blood pressure medicines like hydrochlorothiazide, losartan, amlodipine, verapamil, nifedipine or felodipine
 - •blood thinners such as warfarin
 - •cyclosporine, tacrolimus or sirolimus (used to prevent rejection of organ transplants)
 - •rifampin or rifabutin for tuberculosis
@@ -79,6 +83,8 @@ Especially tell your healthcare provider if you take:
 - •olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - •fentanyl, alfentanil or methadone for chronic pain
 - •ibrutinib used for treating blood cancer
+- •ivacaftor or ivacaftor combinations, such as tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor, used to treat cystic fibrosis
+- •lurasidone used to treat schizophrenia or depression
 - •lemborexant, used for the treatment of insomnia
 - •lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
 - •non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
@@ -110,18 +116,18 @@ Fluconazole Tablets may cause serious side effects including:
   Sometimes these liver problems can be reversed when you stop taking fluconazole tablets.
   Tell your healthcare provider right away if you have symptoms of serious liver problems including:
 
-| odark colored urine | olight-colored stools | ovomiting |
+| •dark colored urine | •light-colored stools | •vomiting |
 | --- | --- | --- |
-| osevere skin itching | otiredness | oloss of appetite |
-| oyellowing of the skin and eyes (jaundice) |  |  |
+| •severe skin itching | •tiredness | •loss of appetite |
+| •yellowing of the skin and eyes (jaundice) |  |  |
 
-- •serious allergic reactions: In rare cases, serious allergic reactions (anaphylaxis) have happened while taking fluconazole tablets.
+- •serious allergic reactions: Serious allergic reactions (anaphylaxis) have happened while taking fluconazole tablets.
   Stop taking fluconazole tablets, call your healthcare provider or go to the nearest hospital emergency room right away if you get any signs or symptoms of an allergic reaction including:
 
-| oshortness of breath | ocoughing | owheezing |
+| •shortness of breath | •coughing | •wheezing |
 | --- | --- | --- |
-| ofever | oskin rash, hives, blisters or skin peeling | othrobbing of the heart or ears |
-| oswelling of the eyelids | oface, mouth, neck, or any other part of the body | ochills |
+| •fever | •skin rash, hives, blisters or skin peeling | •throbbing of the heart or ears |
+| •swelling of the eyelids | •face, mouth, neck, or any other part of the body | •chills |
 
 - •serious skin problems.
   Some people with serious medical problems have developed serious skin problems that have caused death while taking fluconazole tablets.
@@ -138,10 +144,10 @@ Other side effects include:
 - •adrenal insufficiency: Some people who have taken fluconazole tablets developed adrenal insufficiency that was reversible.
   Tell your healthcare provider right away if you have symptoms of adrenal insufficiency including:
 
-| olong lasting fatigue | omuscle weakness | oloss of appetite |
+| •long lasting fatigue | •muscle weakness | •loss of appetite |
 | --- | --- | --- |
-| oweight loss | ostomach pain | odizziness |
-| onausea | ovomiting |  |
+| •weight loss | •stomach pain | •dizziness |
+| •nausea | •vomiting |  |
 
 - •dizziness or seizures.
 
@@ -192,4 +198,4 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-November 2021
+April 2022

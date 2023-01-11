@@ -26,7 +26,7 @@ A single oral 150 mg dose of fluconazole administered to 27 patients penetrated 
 
 A single oral 150 mg dose of fluconazole administered to 14 patients penetrated into vaginal fluid, resulting in fluid: plasma ratios ranging from 0.36 to 0.71 over the first 72 hours following dosing.
 
-| Tissue or Fluid | Ratio of FluconazoleTissue (Fluid)/Plasma Concentration* |
+| Tissue or Fluid | Ratio of Fluconazole Tissue (Fluid)/Plasma Concentration* |
 | --- | --- |
 | Cerebrospinal fluid† | 0.5 to 0.9 |
 | Saliva | 1 |
@@ -39,8 +39,9 @@ A single oral 150 mg dose of fluconazole administered to 14 patients penetrated 
 | Vaginal tissue | 1 |
 | Vaginal fluid | 0.4 to 0.7 |
 
-- * Relative to concurrent concentrations in plasma in subjects with normal renal function.
-- † Independent of degree of meningeal inflammation.
+* Relative to concurrent concentrations in plasma in subjects with normal renal function.
+
+† Independent of degree of meningeal inflammation.
 
 In normal volunteers, fluconazole is cleared primarily by renal excretion, with approximately 80% of the administered dose appearing in the urine as unchanged drug.
 About 11% of the dose is excreted in the urine as metabolites.

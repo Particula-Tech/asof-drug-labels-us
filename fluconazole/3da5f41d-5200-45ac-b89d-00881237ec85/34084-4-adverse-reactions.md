@@ -71,9 +71,10 @@ The most commonly reported events were vomiting (5%), abdominal pain (3%), nause
 Treatment was discontinued in 2.3% of patients due to adverse clinical events and in 1.4% of patients due to laboratory test abnormalities.
 The majority of treatment-related laboratory abnormalities were elevations of transaminases or alkaline phosphatase.
 
-| Percentage of Patients With Treatment-Related Side Effects |  |  |
-| --- | --- | --- |
+Percentage of Patients With Treatment-Related Side Effects
+
 |  | Fluconazole(N=577) | Comparative Agents (N=451) |
+| --- | --- | --- |
 | With any side effect | 13 | 9.3 |
 | Vomiting | 5.4 | 5.1 |
 | Abdominal pain | 2.8 | 1.6 |

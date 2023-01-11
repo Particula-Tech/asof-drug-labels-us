@@ -50,10 +50,10 @@ The convenience and efficacy of the single dose oral tablet of fluconazole regim
 
 Drug Interactions: (See CONTRAINDICATIONS)
 
-- Fluconazole is a moderate CYP2C9 and CYP3A4 inhibitor.
-  Fluconazole is also a strong inhibitor of CYP2C19.
-  Patients treated with fluconazole, who are also concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4, should be monitored for adverse reactions associated with the concomitantly administered drugs.
-  In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
+Fluconazole is a moderate CYP2C9 and CYP3A4 inhibitor.
+Fluconazole is also a strong inhibitor of CYP2C19.
+Patients treated with fluconazole, who are also concomitantly treated with drugs with a narrow therapeutic window metabolized through CYP2C9 and CYP3A4, should be monitored for adverse reactions associated with the concomitantly administered drugs.
+In addition to the observed/documented interactions mentioned below, there is a risk of increased plasma concentration of other compounds metabolized by CYP2C9, CYP2C19, and CYP3A4 coadministered with fluconazole.
 
 Therefore, caution should be exercised when using these combinations and the patients should be carefully monitored.
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
@@ -104,9 +104,11 @@ The author judged that the patient died from fentanyl intoxication.
 Furthermore, in a randomized crossover study with 12 healthy volunteers, it was shown that fluconazole delayed the elimination of fentanyl significantly.
 Elevated fentanyl concentration may lead to respiratory depression.
 
-HMG-CoA reductase inhibitors: The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin.
+HMG-CoA reductase inhibitors: The risk of myopathy and rhabdomyolysis increases when fluconazole is coadministered with HMG-CoA reductase inhibitors metabolized through CYP3A4, such as atorvastatin and simvastatin, or through CYP2C9, such as fluvastatin (decreased hepatic metabolism of the statin).
 If concomitant therapy is necessary, the patient should be observed for symptoms of myopathy and rhabdomyolysis and creatinine kinase should be monitored.
 HMG-CoA reductase inhibitors should be discontinued if a marked increase in creatinine kinase is observed or myopathy/rhabdomyolysis is diagnosed or suspected.
+Dose reduction of statins may be needed.
+Refer to the statin-specific prescribing information for details.
 
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
@@ -114,11 +116,17 @@ An effect of this magnitude should not necessitate a change in the fluconazole d
 Ibrutinib: Moderate inhibitors of CYP3A4 such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
 If ibrutinib and fluconazole are concomitantly administered, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and the patient should be frequently monitored for any adverse reactions associated with ibrutinib.
 
+Ivacaftor and fixed dose ivacaftor combinations (e.g., tezacaftor/ivacaftor and ivacaftor/ tezacaftor/ elexacaftor): Coadministration with ivacaftor, a cystic fibrosis transmembrane conductance regulator (CFTR) potentiator, increased ivacaftor exposure by 3-fold.
+If used concomitantly with a moderate inhibitor of CYP3A4, such as fluconazole, a reduction in the dose of ivacaftor (or ivacaftor combination) is recommended as instructed in the ivacaftor (or ivacaftor combination) prescribing information.
+
 Lemborexant: Concomitant administration of fluconazole increased lemborexant Cmax and AUC by approximately 1.6- and 4.2-fold, respectively which is expected to increase risk of adverse reactions, such as somnolence.
 Avoid concomitant use of fluconazole with lemborexant.
 
 Losartan: Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin Il-receptor antagonism which occurs during treatment with losartan.
 Patients should have their blood pressure monitored continuously.
+
+Lurasidone: Concomitant use of moderate inhibitors of CYP3A4 such as fluconazole may increase lurasidone plasma concentrations.
+If concomitant use cannot be avoided, reduce the dose of lurasidone as instructed in the lurasidone prescribing information.
 
 Methadone: Fluconazole may enhance the serum concentration of methadone.
 Dosage adjustment of methadone may be necessary.
@@ -185,7 +193,7 @@ Tofacitinib: Systemic exposure to tofacitinib is increased when tofacitinib is c
 Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label) (see CLINICAL PHARMACOLOGY: Drug Interaction Studies).
 
 Tolvaptan: Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is coadministered with fluconazole, a moderate CYP3A4 inhibitor.
-This interaction may result in the risk of a significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration and acute renal failure.
+This interaction may result in the risk of a significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration, and acute renal failure.
 If tolvaptan and fluconazole are concomitantly administered, the tolvaptan dose should be reduced as instructed in the tolvaptan prescribing information and the patient should be frequently monitored for any adverse reactions associated with tolvaptan.
 
 Triazolam: Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t½ by 25% to 50 % due to the inhibition of metabolism of triazolam.
