@@ -10,4 +10,4 @@ CONTAINS BENZYL ALCOHOL
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0851-9.0 Revised: 08/2022
+LAB-0851-10.0 Revised: 11/2022

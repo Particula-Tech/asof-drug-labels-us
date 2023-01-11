@@ -72,7 +72,7 @@ For pediatric patients, particular care should be taken to assure safe ambulatio
 ## Neonatal Sedation and Withdrawal Syndrome
 
 Use of midazolam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
-Monitor neonates exposed to midazolam during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam during pregnancy for signs of withdrawal; manage these infants accordingly.
+Monitor neonates exposed to midazolam during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 Exposure to excessive amounts of benzyl alcohol has been associated with toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
 There have been rare reports of deaths, primarily in preterm infants, associated with exposure to excessive amounts of benzyl alcohol.
@@ -112,14 +112,14 @@ For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
 To assure safe and effective use of benzodiazepines, the following information and instructions should be communicated to the patient when appropriate:
 
-1. Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
+1. 1.Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
    Alcohol has an increased effect when consumed with benzodiazepines; therefore, caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment.
-2. Inform your physician if you are pregnant or are planning to become pregnant.
-3. Inform your physician if you are nursing.
-4. Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
+2. 2.Inform your physician if you are pregnant or are planning to become pregnant.
+3. 3.Inform your physician if you are nursing.
+4. 4.Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
    The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
-5. Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
-6. Effect of anesthetic and sedation drugs on early brain development: Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+5. 5.Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time, may experience symptoms of withdrawal following abrupt discontinuation.
+6. 6.Effect of anesthetic and sedation drugs on early brain development: Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
    Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
 
 ### Pregnancy
@@ -212,7 +212,7 @@ There were no adverse effects on either male or female fertility noted.
 
 ### Risk Summary
 
-Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and PRECAUTIONS: Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
