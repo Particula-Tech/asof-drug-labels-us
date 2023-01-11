@@ -1,4 +1,4 @@
-# 5. WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Acute Kidney Injury, Including Acute Renal Failure Requiring Dialysis and Renal Tubular Toxicity Including Fanconi Syndrome
 

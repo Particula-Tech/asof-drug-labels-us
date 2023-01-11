@@ -1,4 +1,4 @@
-# 16. HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Deferasirox tablets, 90 mg are white to off-white-colored, oval-shaped, biconvex, film-coated tablets, debossed with "1275" on one side and plain on other side and are supplied
 

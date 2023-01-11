@@ -1,4 +1,4 @@
-# 10. OVERDOSAGE
+# 10 OVERDOSAGE
 
 Cases of overdose (2 to 3 times the prescribed dose for several weeks) have been reported.
 In one case, this resulted in hepatitis which resolved without long-term consequences after a dose interruption.

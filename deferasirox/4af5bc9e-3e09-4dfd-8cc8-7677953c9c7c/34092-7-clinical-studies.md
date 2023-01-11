@@ -1,4 +1,4 @@
-# 14. CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 Deferasirox tablets were evaluated in healthy subjects.
 There are no clinical data in patients with deferasirox tablets.
