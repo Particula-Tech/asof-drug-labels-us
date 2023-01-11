@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA215697"
+  ],
+  "inn": "prazosin",
+  "labeler": "Lifestar Pharma LLC",
+  "package_ndcs": [
+    "70756-429-11",
+    "70756-429-12",
+    "70756-430-11",
+    "70756-430-12",
+    "70756-440-11",
+    "70756-440-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "prazosin hydrochloride",
+      "name": "prazosin hydrochloride"
+    }
+  ],
+  "setid": "73bbc360-5bfb-4139-a63e-0cb6e4ea8313",
+  "source": "dailymed"
+}
