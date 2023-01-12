@@ -67,7 +67,7 @@ Cycle Through Cycle 6, Intent to Treat Population, LOCF
 The results of two randomized, multicenter, calcium-supplemented (500 to 1,000 mg per day), placebo-controlled, 2 year clinical trials have shown that Lopreeza 1 mg/0.5 mg and estradiol 0.5 mg are effective in preventing bone loss in postmenopausal women.
 A total of 462 postmenopausal women with intact uteri and baseline BMD values for lumbar spine within 2 standard deviations of the mean in healthy young women (T-score > -2.0) were enrolled.
 In a US trial, 327 postmenopausal women (mean time from menopause 2.5 to 3.1 years) with a mean age of 53 years were randomized to 7 groups (0.25 mg, 0.5 mg, and 1 mg of estradiol alone, 1 mg estradiol with 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, and 2 mg estradiol with 1 mg norethindrone acetate, and placebo.)
-In a European trial (EU trial), 135 postmenopausal women (mean time from menopause 8.4 to 9.3 years) with a mean age of 58 years were randomized to 1 mg estradiol with 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, and placebo.
+In a European trial (EU trial), 135 postmenopausal women (mean time from menopause 8.4 to 9.3 years) with a mean age of 58 years were randomized to 1 mg estradiolwith 0.25 mg norethindrone acetate, 1 mg estradiol with 0.5 mg norethindrone acetate, andplacebo.
 Approximately 58 percent and 67 percent of the randomized subjects in the two clinical trials, respectively, completed the two clinical trials.
 BMD was measured using dual-energy x-ray absorptiometry (DXA).
 
@@ -81,9 +81,9 @@ LOPREEZA 1 MG/0.5 MG AND 0.5 MG E2†
 
 (Intent to Treat Analysis, Last Observation Carried Forward)
 
-|  | US Trial | EU Trial |  |  |  |
+|  | US Trial |  |  | EU Trial |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=37) | 0.5 mg E2†(n=31) | Lopreeza1 mg/0.5 mg (n=37) | Placebo(n=40) | Lopreeza1 mg/0.5 mg (n=38) |
+|  | Placebo (n=37) | 0.5 mg E2†(n=31) | Lopreeza1 mg/0.5 mg (n=37) | Placebo(n=40) | Lopreeza 1 mg/0.5 mg (n=38) |
 | Lumbar spine | -2.1 ± 2.9 | 2.3 ± 2.8 * | 3.8 ± 3.0 * | -0.9 ± 4.0 | 5.4 ± 4.8 * |
 | Femoral neck | -2.3 ± 3.4 | 0.3 ± 2.9 ** | 1.8 ± 4.1 * | -1.0 ± 4.6 | 0.7 ± 6.1 |
 | Femoral trochanter | -2.0 ± 4.3 | 1.7 ± 4.1*** | 3.7 ± 4.3 * | 0.8 ± 6.9 | 6.3 ± 7.6 * |

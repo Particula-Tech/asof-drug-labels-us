@@ -9,13 +9,13 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse reactions reported with Lopreeza 1 mg/0.5 mg by investigators in the Phase 3 studies regardless of causality assessment are shown in Table 1.
+Adverse reactions reported with Lopreeza 1 mg/0.5 mg by investigators during clinical trials regardless of causality assessment are shown in Table 1.
 
 TABLE 1
 
-ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ≥ 5 PERCENT WITH LOPREEZA 1 MG/0.5 MG
+ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ³ 5 PERCENT WITH LOPREEZA 1 MG/0.5 MG
 
-|  | EndometrialHyperplasia Study(12-Months) | VasomotorSymptoms Study(3-Months) |  | OsteoporosisStudy(2-Years) |  |  |
+|  | Endometrial Hyperplasia Study | (12-Months) | VasomotorSymptoms Study | (3-Months) | Osteoporosis Study | (2-Years) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Lopreeza1 mg/0.5 mg | 1 mg E2 | Lopreeza1 mg/0.5 mg | Placebo | Lopreeza1 mg/0.5 mg | Placebo |
 |  | (n=295) | (n=296) | (n=29) | (n=34) | (n=47) | (n=48) |
@@ -29,7 +29,7 @@ ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT 
 | Insomnia | 6% | 4% | 3% | 3% | 0% | 8% |
 | Emotional Lability | 1% | 1% | 0% | 0% | 6% | 0% |
 | Respiratory System |  |  |  |  |  |  |
-| Upper Respiratory Tract Infection | 18% | 15% | 10% | 6% | 15% | 19% |
+| Upper RespiratoryTract Infection | 18% | 15% | 10% | 6% | 15% | 19% |
 | Sinusitis | 7% | 11% | 7% | 0% | 15% | 10% |
 | Metabolic and Nutritional |  |  |  |  |  |  |
 | Weight Increase | 0% | 0% | 0% | 0% | 9% | 6% |
@@ -47,13 +47,13 @@ ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT 
 
 * including one upper extremity fracture in each group
 
-Adverse reactions reported with Lopreeza 0.5 mg/0.1 mg by investigators during the Phase 3 study regardless of causality assessment are shown in Table 2.
+Adverse reactions reported with Lopreeza 0.5 mg/0.1 mg by investigators during clinical trials regardless of causality assessment are shown in Table 2.
 
 TABLE 2
 
-ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ≥ 5 PERCENT WITH LOPREEZA 0.5 MG/0.1 MG
+ALL TREATMENT-EMERGENT ADVERSE REACTIONS REGARDLESS OF RELATIONSHIP REPORTED AT A FREQUENCY OF ³ 5 PERCENT WITH LOPREEZA 0.5 MG/0.1 MG
 
-|  | Lopreeza 0.5 mg/0.1 mg | Placebo |
+|  | Lopreeza0.5 mg/0.1 mg | Placebo |
 | --- | --- | --- |
 |  | (n=194) | (n=200) |
 | Body as a Whole |  |  |
