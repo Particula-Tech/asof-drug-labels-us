@@ -40,7 +40,7 @@ Taking memantine hydrochloride tablets with other medicines can cause serious si
 
 Especially tell your doctor if you take:
 
-- other NMDA antagonists such as amantadine, ketamine, and dextromethorphan
+- other NMDA antagonists such as amantadine, and dextromethorphan
 - medicines that make your urine alkaline such as carbonic anhydrase inhibitors and sodium bicarbonate
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
@@ -78,11 +78,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store memantine hydrochloride tablets?
 
-- Store memantine hydrochloride tablets at room temperature between 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+- Store memantine hydrochloride tablets at room temperature between 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F).
 
 What are the ingredients in memantine hydrochloride tablets?
 
-Memantine Hydrochloride Tablets:
+Memantine hydrochloride tablets:
 
 Active ingredients: memantine hydrochloride
 
@@ -108,4 +108,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised 0119
+Revised: 10/2022

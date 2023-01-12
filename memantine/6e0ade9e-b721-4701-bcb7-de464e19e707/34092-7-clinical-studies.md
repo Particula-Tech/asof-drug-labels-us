@@ -33,7 +33,7 @@ Using an analysis based on all patients and carrying their last study observatio
 | --- |
 
 Figure 2 shows the cumulative percentages of patients from each of the treatment groups who had attained at least the change in the ADCS-ADL shown on the X axis.
-The curves show that both patients assigned to memantine and placebo have a wide range of responses and generally show deterioration (a negative change in ADCS-ADL compared to baseline), but that the memantine group is more likely to show a smaller decline or an improvement.
+The curves show that both patients assigned to memantine, and placebo have a wide range of responses and generally show deterioration (a negative change in ADCS-ADL compared to baseline), but that the memantine group is more likely to show a smaller decline or an improvement.
 (In a cumulative distribution display, a curve for an effective treatment would be shifted to the left of the curve for placebo, while an ineffective or deleterious treatment would be superimposed upon or shifted to the right of the curve for placebo).
 
 | Figure 2: Cumulative percentage of patients completing 28 weeks of double-blind treatment with specified changes from baseline in ADCS-ADL scores. |
@@ -49,7 +49,7 @@ Using an LOCF analysis, memantine treatment was statistically significantly supe
 | --- |
 
 Figure 4 shows the cumulative percentages of patients from each treatment group who had attained at least the measure of change in SIB score shown on the X axis.
-The curves show that both patients assigned to memantine and placebo have a wide range of responses and generally show deterioration, but that the memantine group is more likely to show a smaller decline or an improvement.
+The curves show that both patients assigned to memantine, and placebo have a wide range of responses and generally show deterioration, but that the memantine group is more likely to show a smaller decline or an improvement.
 
 | Figure 4: Cumulative percentage of patients completing 28 weeks of double-blind treatment with specified changes from baseline in SIB scores. |
 | --- |

@@ -4,7 +4,7 @@
 
 The clearance of memantine was reduced by about 80% under alkaline urine conditions at pH 8.
 Therefore, alterations of urine pH towards the alkaline condition may lead to an accumulation of the drug with a possible increase in adverse effects.
-Urine pH is altered by diet, drugs (e.g. carbonic anhydrase inhibitors, sodium bicarbonate) and clinical state of the patient (e.g. renal tubular acidosis or severe infections of the urinary tract).
+Urine pH is altered by diet, drugs (e.g., carbonic anhydrase inhibitors, sodium bicarbonate) and clinical state of the patient (e.g., renal tubular acidosis or severe infections of the urinary tract).
 Hence, memantine should be used with caution under these conditions.
 
 ## 7.2 Use with Other N-methyl-D-aspartate (NMDA) Antagonists

@@ -2,7 +2,7 @@
 
 NDC 0832-1112-60
 
-Memantine Hydrochloride Tablets
+Memantine Hydrochloride Tablets, USP
 
 5 mg
 
@@ -14,7 +14,7 @@ UPSHER-SMITH
 
 NDC 0832-1113-60
 
-Memantine Hydrochloride Tablets
+Memantine Hydrochloride Tablets, USP
 
 10 mg
 

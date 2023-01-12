@@ -9,7 +9,7 @@ There are no adequate data on the developmental risk associated with the use of 
 Adverse developmental effects (decreased body weight, and skeletal ossification) were observed in the offspring of rats administered memantine during pregnancy at doses associated with minimal maternal toxicity.
 These doses are higher than those used in humans at the maximum recommended daily dose of memantine [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Data
@@ -41,10 +41,10 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Safety and effectiveness in pediatric patients have not been established.
 
-Memantine failed to demonstrate efficacy in two 12-week controlled clinical studies of 578 pediatric patients aged 6 to 12 years with autism spectrum disorders (ASD), including autism, Asperger's disorder and Pervasive Development Disorder - Not Otherwise Specified (PDD-NOS).
+Memantine failed to demonstrate efficacy in two 12-week controlled clinical studies of 578 pediatric patients aged 6 to 12 years with autism spectrum disorders (ASD), including autism, Asperger's disorder, and Pervasive Development Disorder - Not Otherwise Specified (PDD-NOS).
 Memantine has not been studied in pediatric patients under 6 years of age or over 12 years of age.
 Memantine treatment was initiated at 3 mg/day and the dose was escalated to the target dose (weight-based) by week 6.
-Oral doses of memantine 3, 6, 9, or 15 mg extended-release capsules were administered once daily to patients with weights < 20 kg, 20-39 kg, 40-59 kg and ≥ 60 kg, respectively.
+Oral doses of memantine 3, 6, 9, or 15 mg extended-release capsules were administered once daily to patients with weights < 20 kg, 20 to 39 kg, 40 to 59 kg and ≥ 60 kg, respectively.
 
 In a randomized, 12-week double-blind, placebo-controlled parallel study (Study A) in patients with autism, there was no statistically significant difference in the Social Responsiveness Scale (SRS) total raw score between patients randomized to memantine (n=54) and those randomized to placebo (n=53).
 In a 12-week responder-enriched randomized withdrawal study (Study B) in 471 patients with ASD, there was no statistically significant difference in the loss of therapeutic response rates between patients randomized to remain on full-dose memantine (n=153) and those randomized to switch to placebo (n=158).
@@ -65,9 +65,9 @@ Table 2: Study A Commonly Reported Adverse Reactions with a Frequency ≥ 5% and
 | Aggression | 3.6% | 1.7% |
 | Irritability | 1.8% | 3.4% |
 
-The adverse reactions that were reported in at least 5% of patients in the 12-48 week open-label study to identify responders to enroll in Study B are listed in Table 3:
+The adverse reactions that were reported in at least 5% of patients in the 12 to 48 week open-label study to identify responders to enroll in Study B are listed in Table 3:
 
-Table 3: 12-48 Week Open Label Lead-In study to Study B Commonly Reported Adverse Reactions with a Frequency ≥ 5%
+Table 3: 12 to 48 Week Open Label Lead-In study to Study B Commonly Reported Adverse Reactions with a Frequency ≥ 5%
 
 | Adverse Reaction | Memantine N=903 |
 | --- | --- |
@@ -79,12 +79,12 @@ Table 3: 12-48 Week Open Label Lead-In study to Study B Commonly Reported Advers
 | Irritability | 1.2% |
 | Aggression | 1.0% |
 
-In the randomized withdrawal study (Study B), the adverse reaction in patients randomized to placebo (n=160) and reported in at least 5% of patients and at twice the frequency of the full-dose memantine treatment group (n=157) was irritability (5.0% vs 2.5%).
+In the randomized withdrawal study (Study B), the adverse reaction in patients randomized to placebo (n=160) and reported in at least 5% of patients and at twice the frequency of the full dose memantine treatment group (n=157) was irritability (5.0% vs 2.5%).
 
 Juvenile Animal Study
 
 In a study in which memantine (0, 15, 30 or 45 mg/kg/day) was orally administered to rats during the juvenile period of development (postnatal days [PND] 14 through 70), delays in sexual maturation were noted in males and females at all but the lowest dose tested, and body weight was reduced at the high dose.
-In rats orally administered memantine as a single dose (PND 14) or three daily doses (PND 14-16), neuronal lesions were observed in several areas of the brain at all but the lowest dose tested.
+In rats orally administered memantine as a single dose (PND 14) or three daily doses (PND 14 to 16), neuronal lesions were observed in several areas of the brain at all, but the lowest dose tested.
 Adverse neurobehavioral effects (decreased auditory startle habituation) were observed at the high dose.
 The no-effect dose for developmental toxicity was the lowest dose tested (15 mg/kg/day).
 

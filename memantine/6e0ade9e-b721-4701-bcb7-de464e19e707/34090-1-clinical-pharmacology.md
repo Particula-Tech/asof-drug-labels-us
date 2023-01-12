@@ -8,7 +8,7 @@ There is no evidence that memantine prevents or slows neurodegeneration in patie
 
 ## 12.2 Pharmacodynamics
 
-Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage-dependent Ca2+, Na+ or K+ channels.
+Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage dependent Ca2+, Na+ or K+ channels.
 Memantine also showed antagonistic effects at the 5HT3 receptor with a potency similar to that for the NMDA receptor and blocked nicotinic acetylcholine receptors with one-sixth to one-tenth the potency.
 
 In vitro studies have shown that memantine does not affect the reversible inhibition of acetylcholinesterase by donepezil, galantamine, or tacrine.
@@ -71,7 +71,7 @@ Use with Cholinesterase Inhibitors
 
 Coadministration of memantine with the AChE inhibitor donepezil hydrochloride did not affect the pharmacokinetics of either compound.
 Furthermore, memantine did not affect AChE inhibition by donepezil.
-In a 24-week controlled clinical study in patients with moderate to severe Alzheimer's disease, the adverse event profile observed with a combination of memantine and donepezil was similar to that of donepezil alone.
+In a 24-week controlled clinical study in patients with moderate to severe Alzheimer's disease, the adverse event profile observed with a combination of memantine, and donepezil was similar to that of donepezil alone.
 
 Effect of Memantine on the Metabolism of Other Drugs
 

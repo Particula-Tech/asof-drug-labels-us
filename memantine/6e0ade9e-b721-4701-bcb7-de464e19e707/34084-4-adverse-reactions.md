@@ -2,7 +2,7 @@
 
 ## 6.1 Clinical Trials Experience
 
-Memantine was evaluated in eight double-blind placebo-controlled trials involving a total of 1862 dementia (Alzheimer's disease, vascular dementia) patients (940 patients treated with memantine and 922 patients treated with placebo) for a treatment period up to 28 weeks.
+Memantine was evaluated in eight double-blind placebo-controlled trials involving a total of 1,862 dementia (Alzheimer's disease, vascular dementia) patients (940 patients treated with memantine and 922 patients treated with placebo) for a treatment period up to 28 weeks.
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -13,7 +13,7 @@ No individual adverse reaction was associated with the discontinuation of treatm
 
 Most Common Adverse Reactions
 
-In double-blind placebo-controlled trials involving dementia patients, the most common adverse reactions (incidence ≥ 5% and higher than placebo) in patients treated with memantine were dizziness, headache, confusion and constipation.
+In double-blind placebo-controlled trials involving dementia patients, the most common adverse reactions (incidence ≥ 5% and higher than placebo) in patients treated with memantine were dizziness, headache, confusion, and constipation.
 Table 1 lists all adverse reactions that occurred in at least 2% of patients treated with memantine and at an incidence greater than placebo.
 
 Table 1: Adverse Reactions Reported in Controlled Clinical Trials in at Least 2% of Patients Receiving Memantine and at a Higher Frequency than Placebo-treated Patients
@@ -49,7 +49,7 @@ Seizures
 Memantine has not been systematically evaluated in patients with a seizure disorder.
 In clinical trials of memantine, seizures occurred in 0.2% of patients treated with memantine and 0.5% of patients treated with placebo.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post marketing Experience
 
 The following adverse reactions have been identified during post-approval use of memantine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
