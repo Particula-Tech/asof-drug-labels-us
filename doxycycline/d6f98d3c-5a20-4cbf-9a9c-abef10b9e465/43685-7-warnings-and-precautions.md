@@ -66,27 +66,27 @@ Prescribing Vibramycin in the absence of proven or strongly suspected bacterial 
 
 Patients taking doxycycline for malaria prophylaxis should be advised:
 
-- —that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
-- —to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (e.g., staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
-- —that doxycycline prophylaxis:
-  - —should begin 1–2 days before travel to the malarious area,
-  - —should be continued daily while in the malarious area and after leaving the malarious area,
-  - —should be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
-  - —should not exceed 4 months.
+- •that no present-day antimalarial agent, including doxycycline, guarantees protection against malaria.
+- •to avoid being bitten by mosquitoes by using personal protective measures that help avoid contact with mosquitoes, especially from dusk to dawn (e.g., staying in well-screened areas, using mosquito nets, covering the body with clothing, and using an effective insect repellent).
+- •that doxycycline prophylaxis:
+  - oshould begin 1–2 days before travel to the malarious area,
+  - oshould be continued daily while in the malarious area and after leaving the malarious area,
+  - oshould be continued for 4 further weeks to avoid development of malaria after returning from an endemic area,
+  - oshould not exceed 4 months.
 
 All patients taking doxycycline should be advised:
 
-- —to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs.
+- •to avoid excessive sunlight or artificial ultraviolet light while receiving doxycycline and to discontinue therapy if phototoxicity (e.g., skin eruption, etc.) occurs.
   Sunscreen or sunblock should be considered.
   (See WARNINGS.)
-- —to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration.
+- •to drink fluids liberally along with doxycycline to reduce the risk of esophageal irritation and ulceration.
   (See ADVERSE REACTIONS.)
-- —that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
+- •that the absorption of tetracyclines is reduced when taken with foods, especially those which contain calcium.
   However, the absorption of doxycycline is not markedly influenced by simultaneous ingestion of food or milk.
   (See DRUG INTERACTIONS.)
-- —that the absorption of tetracyclines is reduced when taking bismuth subsalicylate.
+- •that the absorption of tetracyclines is reduced when taking bismuth subsalicylate.
   (See DRUG INTERACTIONS.)
-- —that the use of doxycycline might increase the incidence of vaginal candidiasis.
+- •that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
 Patients should be counseled that antibacterial drugs, including Vibramycin should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
