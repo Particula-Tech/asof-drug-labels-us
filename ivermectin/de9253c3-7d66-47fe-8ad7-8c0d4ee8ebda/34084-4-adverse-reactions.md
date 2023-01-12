@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 During clinical trials, 2,047 subjects with inflammatory lesions of rosacea received ivermectin cream once daily.
 A total of 1,555 subjects were treated once daily for more than 12 weeks, and 519 for approximately one year.
 
-Adverse reactions, reported in less than or equal to 1% of subjects treated with ivermectin cream for at least 3 months in vehicle-controlled clinical trials, included skin burning sensation and skin irritation.
+Adverse reactions, reported in ≤ 1% of subjects treated with ivermectin cream for at least 3 months in vehicle-controlled clinical trials, included skin burning sensation and skin irritation.
 
 ## 6.2 Postmarketing Experience
 

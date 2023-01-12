@@ -9,4 +9,4 @@ Keep out of reach of children.
 Manufactured By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
 
 Rev.
-A 7/2021
+B 11/2022

@@ -1,8 +1,7 @@
 # 11 DESCRIPTION
 
-Ivermectin cream, 1% is a white to pale yellow hydrophilic cream.
+Ivermectin cream, 1% is a white to pale yellow hydrophilic cream intended for topical use.
 Each gram of ivermectin cream contains 10 mg of ivermectin, USP.
-It is intended for topical use.
 
 Ivermectin, USP is a semi-synthetic derivative isolated from the fermentation of Streptomyces avermitilis that belongs to the avermectin family of macrocyclic lactones.
 

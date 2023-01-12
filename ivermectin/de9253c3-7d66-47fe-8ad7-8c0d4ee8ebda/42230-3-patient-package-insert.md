@@ -1,0 +1,17 @@
+# PATIENT INFORMATION
+
+| Ivermectin (eye" ver mek' tin) Cream, 1% |
+| --- |
+| Important: Ivermectin cream is for use on the skin only (topical use). Do not use ivermectin cream in your mouth, eyes, or vagina. |
+| What is ivermectin cream?Ivermectin cream is a prescription medicine used on the skin (topical) to treat pimples and bumps (inflammatory lesions) caused by a condition called rosacea.It is not known if ivermectin cream is safe and effective in children. |
+| Before using ivermectin cream, tell your healthcare provider about all your medical conditions, including if you: are pregnant or plan to become pregnant. It is not known if ivermectin cream will harm your unborn baby.are breastfeeding or plan to breastfeed. It is not known if ivermectin passes into your breast milk. Talk to your healthcare provider about the best way to feed your baby if you use ivermectin cream. Tell your healthcare provider about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. |
+| How should I use ivermectin cream?See the detailed “Instructions for Use” that comes with ivermectin cream for information on how to apply ivermectin cream. Use ivermectin cream exactly as your healthcare provider tells you to.Apply ivermectin cream to the affected areas of your face 1 time a day.Avoid contact with your eyes and lipsIf ivermectin cream is accidentally swallowed (ingested), call your healthcare provider or go to the nearest hospital emergency room right away. |
+| What are the possible side effects of ivermectin cream?The most common side effects of ivermectin cream include skin burning sensation and skin irritation. These are not all of the possible side effects of ivermectin cream.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. You may also report side effects to Teva at 1-888-838-2872. |
+| How should I store ivermectin cream? Store ivermectin cream at room temperature between 68°F to 77°F (20°C to 25°C). Keep ivermectin cream and all medicines out of the reach of children. |
+| General information about the safe and effective use of ivermectin cream.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ivermectin cream for a condition for which it was not prescribed. Do not give ivermectin cream to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ivermectin cream that is written for health professionals. |
+| What are the ingredients in ivermectin cream?Active ingredient: ivermectinInactive ingredients: benzyl alcohol, citric acid anhydrous, carbomer homopolymer type c, di-isopropyl adipate, edetate disodium, hexylene glycol, methylparaben, oleyl alcohol, polysorbate 80, propylparaben, purified water, sodium citrate, sodium hydroxide, and sorbitan tristearate |
+| Manufactured By: Teva Pharmaceuticals USA, Inc., Parsippany, NJ 07054 For more information, call Teva at 1-888-838-2872. |
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Rev.
+A 11/2022
