@@ -6,4 +6,4 @@
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2019-00
+08-2022-01
