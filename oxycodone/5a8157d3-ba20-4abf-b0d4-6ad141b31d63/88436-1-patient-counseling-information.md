@@ -85,7 +85,7 @@ To request medical information or to report suspected adverse reactions, contact
 
 960B00
 
-Rev 05/2022
+Rev 11/2022
 
 Mallinckrodt™ Pharmaceutical
 
