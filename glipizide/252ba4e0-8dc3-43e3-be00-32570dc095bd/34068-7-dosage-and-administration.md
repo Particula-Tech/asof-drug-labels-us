@@ -29,7 +29,7 @@ When transferring patients from insulin to glipizide, the following general guid
 
 1. For patients whose daily insulin requirement is 20 units or less, insulin may be discontinued and glipizide therapy may begin at usual dosages.
    Several days should elapse between glipizide titration steps.
-2. For patients whose daily insulin requirement is greater than 20 units, the insulin dose should be reduced by 50% and glipizide therapy may begin at usual dosages.
+   For patients whose daily insulin requirement is greater than 20 units, the insulin dose should be reduced by 50% and glipizide therapy may begin at usual dosages.
    Subsequent reductions in insulin dosage should depend on individual patient response.
    Several days should elapse between glipizide titration steps.
 

@@ -14,8 +14,6 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of ANI Pharmaceuticals, Inc.
 
-Manufactured by: ANI Pharmaceuticals Canada, Inc. Oakville, ON L6H 1M5 Canada
-
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-N4730B Rev 04/22
+Issued: 08/2022 LB4530-00
