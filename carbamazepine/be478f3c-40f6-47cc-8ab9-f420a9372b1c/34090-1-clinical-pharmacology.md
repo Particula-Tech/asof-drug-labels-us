@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Although numerous pharmacological effects of carbamazepine have been described in the published literature (e.g., modulation of ion channels [sodium and calcium], receptor-mediated neurotransmission [GABAergic, glutamatergic, and monoaminergic], and intracellular signaling pathways in experimental preparations), the contribution of these effects to the efficacy of carbamazepine in acute manic or mixed episodes associated with bipolar disorder is unknown.
+The mechanism of action of carbamazepine in the treatment of acute manic or mixed episodes associated with bipolar disorder is unclear.
 
 ## 12.3 Pharmacokinetics
 

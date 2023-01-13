@@ -111,27 +111,17 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ## 5.5 Embryofetal Toxicity
 
-EQUETRO is a Category D drug [see Use in Specific Populations (8.1)].
+EQUETRO can cause fetal harm when administered to a pregnantfemale.
+[see Use in Specific Populations (8.1)].
+Pregnancy registries and epidemiological data suggest a potential association between the use of carbamazepine during pregnancy and major congenital malformations, including neural tube defects and malformations involving other body systems (e.g., craniofacial defects and cardiovascular malformations).
+These available data suggest that, compared with monotherapy, there may be a higher prevalence of teratogenic effects associated with the use of anticonvulsants in combination therapy.
 
-EQUETRO can cause fetal harm when administered to a pregnant woman.
-Apprise women of childbearing potential of this risk.
-Use in pregnancy only if the potential benefits of treatment outweigh the risks.
+In animal studies, administration of carbamazepine at clinically relevant doses during pregnancy resulted in developmental toxicity, including increased incidences of fetal malformations.
 
-Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-
-Retrospective case reviews suggest that, compared with monotherapy, there may be a higher prevalence of teratogenic effects associated with the use of anticonvulsants in combination therapy.
-
-In humans, transplacental passage of carbamazepine is rapid (30–60 minutes), and the drug is accumulated in the fetal tissues, with higher levels found in liver and kidney than in brain and lung.
-
-Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10 to 25 times a human daily dosage of 1200 mg on a mg/kg basis or 1.5 to 4 times the human daily dosage of 1200 mg on a mg/m2 basis.
-In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg, and 4 of 119 offspring showed other anomalies at 650 mg/kg (cleft palate, 1; talipes, 1; anophthalmos, 2).
-
-Tests to detect defects using current accepted procedures should be considered a part of routine prenatal care in childbearing women receiving EQUETRO.
-
-To provide additional information regarding the effects of in utero exposure to EQUETRO, physicians are advised to recommend that pregnant patients taking EQUETRO enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/
+Inform females who may become pregnant about the potential increased risk of major congenital malformations with EQUETRO use during pregnancy.
+Assess the risks and benefits of EQUETRO and discuss with the patient to determine if an alternative treatment should be considered.
+EQUETRO can reduce the effectiveness of hormonal contraceptives.
+Females of reproductive potential should be counseled on the consistent use of effective nonhormonal contraception or barrier methods during treatment with EQUETRO [see Drug Interactions (7.2) and Use in Specific Populations (8.1, 8.3)].
 
 ## 5.6 Abrupt Discontinuation and Risk of Seizure
 

@@ -145,13 +145,11 @@ Before you take EQUETRO, tell your healthcare provider if you:
   EQUETRO may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking EQUETRO.
   You and your healthcare provider will decide if you should take EQUETRO while you are pregnant. ○ If you become pregnant while taking EQUETRO, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-  The purpose of this registry is to collect information about the safety of antiepileptic medicines during pregnancy.
-  EQUETRO is also an antiepileptic drug.
-  You can enroll in this registry by calling 1-888-233-2334.
+  You can register by calling 1-888-233-2334.
+  For more information about the registry go to http://www.aedpregnancyregistry.org.
+  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 - are breastfeeding or plan to breastfeed.
-  EQUETRO can pass into breast milk.
-  You and your healthcare provider should decide if you will take EQUETRO or breastfeed.
-  You should not do both.
+  EQUETRO can pass into breast milk. ○ Talk to your healthcare provider about the best way to feed your baby while you take EQUETRO.
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -214,14 +212,16 @@ The most common side effects of EQUETRO include:
 - blurred vision
 - problems speaking
 
+EQUETRO may cause fertility problems in males.
+This may affect your ability to father a child while you are taking EQUETRO.
+Talk to your healthcare provider if this is a concern for you.
+
 These are not all the possible side effects of EQUETRO.
 For more information, ask your healthcare provider or pharmacist.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at
-
-1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store EQUETRO?
 
@@ -260,6 +260,6 @@ Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 
 
 Product of India
 
-© 2021 Validus Pharmaceuticals LLC
+© 2022 Validus Pharmaceuticals LLC
 
-60080-03 June 2021
+60080-04 October 2022

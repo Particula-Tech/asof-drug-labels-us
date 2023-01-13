@@ -2,15 +2,15 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
-Carcinogenicity: Administration of carbamazepine to Sprague-Dawley rats for 2 years in the diet at doses of 25, 75, and 250 mg/kg/day (low dose approximately 0.2 times the human daily dose of 1200 mg on a mg/m2 basis) resulted in a dose-related increase in the incidence of hepatocellular tumors in females and of benign interstitial cell adenomas in the testes of males.
+Carcinogenicity
 
-Mutagenicity: Bacterial and mammalian mutagenicity studies using carbamazepine produced negative results.
+Oral administration of carbamazepine to rats for 2 years at doses of 25, 75, and 250 mg/kg/day resulted in a dose-related increase in the incidence of hepatocellular tumors (females) and of benign interstitial cell adenomas in the testes.
 
-Impairment of Fertility: The effects of carbamazepine on male and female fertility have not been studied.
+Mutagenicity
 
-Testicular atrophy occurred in rats receiving carbamazepine orally from 4–52 weeks at dosage levels of 50–
+Carbamazepine was negative in in vitro bacterial and mammalian genotoxicity.
 
-400 mg/kg/day.
-Additionally, rats receiving carbamazepine in the diet for 2 years at dosage levels of 25, 75, and
+Impairment of Fertility
 
-250 mg/kg/day had a dose-related incidence of testicular atrophy and aspermatogenesis.
+The effects of carbamazepine on male and female fertility have not been adequately studied in animals.
+However, testicular atrophy and/or aspermatogenesis were observed in rats with repeat oral administration of carbamazepine at clinically relevant doses.

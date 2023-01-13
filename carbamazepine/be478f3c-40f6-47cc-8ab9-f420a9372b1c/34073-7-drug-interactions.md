@@ -30,12 +30,12 @@ When used concomitantly with EQUETRO, monitoring of concentrations or dosage adj
 
 EQUETRO decreases the concentrations of the following drugs through induction of their metabolism:
 
-Oral Contraceptives (CYP3A4 Substrates)
+Hormonal Contraceptives (CYP3A4 Substrates)
 
 EQUETRO is a strong inducer of CYP3A4.
-EQUETRO can increase the metabolism of certain oral contraceptives (through CYP3A4 induction), leading to significantly lower concentrations.
+EQUETRO can increase the metabolism of certain hormonal contraceptives (through CYP3A4 induction) such as oral and subdermal implant contraceptives, leading to significantly lower plasma concentrations of hormones.
 This can cause contraceptive failure or breakthrough bleeding.
-Consider alternatives to oral contraceptives that are significantly affected by induction of CYP3A4; or consider alternatives to EQUETRO.
+Consider alternatives to oral and subdermal implant contraceptives that are significantly affected by induction of CYP3A4; or consider alternatives to EQUETRO [see Warnings and Precautions (5.5) and Use in Specific Populations (8.3)].
 
 Delavirdine and other Non-Nucleoside Reverse Transcriptase Inhibitors (CYP3A4 Substrates)
 
