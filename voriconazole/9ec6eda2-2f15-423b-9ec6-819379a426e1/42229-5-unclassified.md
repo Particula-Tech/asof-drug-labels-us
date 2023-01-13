@@ -1,4 +1,4 @@
-Manufactured for/Distributed by: PSLEA-xxxxxx-xx
+Manufactured for/Distributed by: Document code pending
 
 xellia PHARMACEUTICALS
 

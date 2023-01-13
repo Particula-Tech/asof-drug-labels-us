@@ -4,7 +4,7 @@
 
 Voriconazole for injection requires reconstitution to 10 mg/mL and subsequent dilution to 5 mg/mL or less prior to administration as an infusion, at a maximum rate of 3 mg/kg per hour over 1 to 3 hours.
 
-Administer diluted Voriconazole for injection by intravenous infusion over 1 to 3 hours.
+Administer diluted Voriconazole for injection by intravenous infusion over 1 to 3 hours only.
 Do not administer as an IV bolus injection.
 
 ## 2.2 Use of Voriconazole for injection With Other Parenteral Drug Products
@@ -80,7 +80,7 @@ Dose adjustments are not necessary for adult patients with this degree of abnorm
 
 It is recommended that the recommended Voriconazole for injection loading dose regimens be used, but that the maintenance dose be halved in adult patients with mild to moderate hepatic cirrhosis (Child-Pugh Class A and B) [see Clinical Pharmacology (12.3)].
 
-Voriconazole for injection has not been studied in patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
+Voriconazole for injection has not been studied in adult patients with severe hepatic cirrhosis (Child-Pugh Class C) or in patients with chronic hepatitis B or chronic hepatitis C disease.
 Voriconazole for injection has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice.
 Voriconazole for injection should only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
 Patients with hepatic impairment must be carefully monitored for drug toxicity.

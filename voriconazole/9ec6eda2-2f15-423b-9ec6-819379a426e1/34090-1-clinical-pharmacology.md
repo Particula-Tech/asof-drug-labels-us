@@ -124,7 +124,7 @@ In these patients, successive infusions may result in accumulation of HPβCD unt
 HPβCD is hemodialyzed with a clearance of 37.5±24 mL/min.
 
 A pharmacokinetic study in subjects with renal failure undergoing hemodialysis showed that voriconazole is dialyzed with clearance of 121 mL/min.
-A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
+A 4-hour hemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment [see Dosage and Administration (2.6)].
 
 Patients at Risk of Aspergillosis
 

@@ -5,7 +5,7 @@
 Voriconazole for injection is supplied in a single dose-vial as a sterile white to off white lyophilized cake or powder equivalent to 200 mg voriconazole and 3,200 mg hydroxypropyl β-cyclodextrin (HPβCD).
 It does not contain preservatives and is not made with natural rubber latex.
 
-Individually packaged vials of Voriconazole for injection, 200 mg, NDC NDC 70594-067-01.
+Individually packaged vials of Voriconazole for injection, 200 mg, NDC 70594-067-01.
 
 ## 16.2 Storage
 
