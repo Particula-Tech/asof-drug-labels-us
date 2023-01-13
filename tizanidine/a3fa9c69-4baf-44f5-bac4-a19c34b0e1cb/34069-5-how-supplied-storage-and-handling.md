@@ -6,6 +6,8 @@ Tizanidine (tizanidine hydrochloride) tablets, USP are available as white to off
 
 Tizanidine tablets USP, 2 mg are debossed with "U" and "168" on one side and bisecting score on other side.
 
+Bottles of 90: NDC 29300-168-19
+
 Bottles of 150: NDC 29300-168-15
 
 Bottles of 500: NDC 29300-168-05
@@ -13,6 +15,8 @@ Bottles of 500: NDC 29300-168-05
 Bottles of 1,000: NDC 29300-168-10
 
 Tizanidine tablets USP, 4 mg are debossed with "U" and "169" on one side and quadrisecting score on other side.
+
+Bottles of 90: NDC 29300-169-19
 
 Bottles of 150: NDC 29300-169-15
 
