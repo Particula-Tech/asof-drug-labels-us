@@ -70,14 +70,14 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled Adjunctive 
 |  | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
 | Adverse Reaction | Placebo (n = 73) | Lamotrigine 300 mg (n = 71) | Lamotrigine 500 mg (n = 72) |
-| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24 a 31 18 11 | 28 a, b 25 a, b 49 a, b 54 a, b 25 a 18 a |
+| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24 a 31 18 11 | 28 a,b 25 a,b 49 a,b 54 a,b 25 a 18 a |
 | a Significantly greater than placebo group (P <0.05). |  |  |  |
 | b Significantly greater than group receiving lamotrigine 300 mg (P <0.05). |  |  |  |
 
 The overall adverse reaction profile for lamotrigine was similar between females and males and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to lamotrigine in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
 Generally, females receiving either lamotrigine as adjunctive therapy or placebo were more likely to report adverse reactions than males.
-The only adverse reaction for which the reports on lamotrigine were > 10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
+The only adverse reaction for which the reports on lamotrigine were >10% more frequent in females than males (without a corresponding difference by gender on placebo) was dizziness (difference = 16.5%).
 There was little difference between females and males in the rates of discontinuation of lamotrigine for individual adverse reactions.
 
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lists adverse reactions that occurred in patients with epilepsy treated with monotherapy with lamotrigine in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
@@ -92,7 +92,7 @@ Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Parti
 | Metabolic and nutritional Weight decrease | 5 | 2 |
 | Nervous Coordination abnormality Dizziness Anxiety Insomnia | 7 7 5 5 | 0 0 0 2 |
 | Respiratory Rhinitis | 7 | 2 |
-| Urogenital (female patients only) Dysmenorrhea | (n = 21) 5 | (n = 28) 0 |
+| Urogenital (female patients only) Dysmenorrhea | (n=21) 5 | (n=28) 0 |
 | a Adverse reactions that occurred in at least 5% of patients treated with lamotrigine and at a greater incidence than valproate-treated patients. |  |  |
 | b Patients in this trial were converted to lamotrigine or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. |  |  |
 | c Up to 500 mg/day. |  |  |
@@ -147,7 +147,7 @@ The overall adverse reaction profile for lamotrigine was similar between females
 Table 12.
 Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disorder a,b
 
-| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n = 227) | Percent of Patients Receiving Placebo (n = 190) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine (n=227) | Percent of Patients Receiving Placebo (n=190) |
 | --- | --- | --- |
 | General Back pain Fatigue Abdominal pain | 8 8 6 | 6 5 3 |
 | Digestive Nausea Constipation Vomiting | 14 5 5 | 11 2 2 |
@@ -181,8 +181,8 @@ Urogenital: Urinary frequency.
 Adverse Reactions following Abrupt Discontinuation: In the 2 controlled clinical trials, there was no increase in the incidence, severity, or type of adverse reactions in patients with bipolar disorder after abruptly terminating therapy with lamotrigine.
 In the clinical development program in adults with bipolar disorder, 2 patients experienced seizures shortly after abrupt withdrawal of lamotrigine [see Warnings and Precautions (5.10)].
 
-Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with lamotrigine (100 to 400-mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n = 227), 4% for patients treated with lithium (n = 166), and 7% for patients treated with placebo (n = 190).
-In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n = 956), 3% of patients treated with lithium (n = 280), and 4% of patients treated with placebo (n = 803).
+Mania/Hypomania/Mixed Episodes: During the double-blind placebo-controlled clinical trials in bipolar I disorder in which adults were converted to monotherapy with lamotrigine (100 to 400-mg/day) from other psychotropic medications and followed for up to 18 months, the rates of manic or hypomanic or mixed mood episodes reported as adverse reactions were 5% for patients treated with lamotrigine (n=227), 4% for patients treated with lithium (n=166), and 7% for patients treated with placebo (n=190).
+In all bipolar controlled trials combined, adverse reactions of mania (including hypomania and mixed mood episodes) were reported in 5% of patients treated with lamotrigine (n=956), 3% of patients treated with lithium (n=280), and 4% of patients treated with placebo (n=803).
 
 ## 6.2 Other Adverse Adverse Reactions Observed in All Clinical Trials
 

@@ -14,7 +14,7 @@ Criteria for escape relative to baseline were: (1) doubling of average monthly s
 The primary efficacy variable was the proportion of patients in each treatment group who met escape criteria.
 
 The percentages of patients who met escape criteria were 42% (32/76) in the group receiving lamotrigine and 69% (55/80) in the valproate group.
-The difference in the percentage of patients meeting escape criteria was statistically significant (P= 0.0012) in favor of lamotrigine.
+The difference in the percentage of patients meeting escape criteria was statistically significant (P=0.0012) in favor of lamotrigine.
 No differences in efficacy based on age, sex, or race were detected.
 
 Patients in the control group were intentionally treated with a relatively low dose of valproate; as such, the sole objective of this trial was to demonstrate the effectiveness and safety of monotherapy with lamotrigine, and cannot be interpreted to imply the superiority of lamotrigine to an adequate dose of valproate.
@@ -29,18 +29,18 @@ In all 3 trials, change from baseline in seizure frequency was the primary measu
 The results given below are for all partial-onset seizures in the intent-to-treat population (all patients who received at least 1 dose of treatment) in each trial, unless otherwise indicated.
 The median seizure frequency at baseline was 3 per week while the mean at baseline was 6.6 per week for all patients enrolled in efficacy trials.
 
-One trial (n = 216) was a double-blind, placebo-controlled, parallel trial consisting of a 24-week treatment period.
+One trial (n=216) was a double-blind, placebo-controlled, parallel trial consisting of a 24-week treatment period.
 Patients could not be on more than 2 other anticonvulsants and valproate was not allowed.
 Patients were randomized to receive placebo, a target dose of 300 mg/day of lamotrigine, or a target dose of 500 mg/day of lamotrigine.
 The median reductions in the frequency of all partial-onset seizures relative to baseline were 8% in patients receiving placebo, 20% in patients receiving 300 mg/day of lamotrigine, and 36% in patients receiving 500 mg/day of lamotrigine.
 The seizure frequency reduction was statistically significant in the 500-mg/day group compared with the placebo group, but not in the 300-mg/day group.
 
-A second trial (n = 98) was a double-blind, placebo-controlled, randomized, crossover trial consisting of two 14-week treatment periods (the last 2 weeks of which consisted of dose tapering) separated by a 4-week washout period.
+A second trial (n=98) was a double-blind, placebo-controlled, randomized, crossover trial consisting of two 14-week treatment periods (the last 2 weeks of which consisted of dose tapering) separated by a 4-week washout period.
 Patients could not be on more than 2 other anticonvulsants and valproate was not allowed.
 The target dose of lamotrigine was 400 mg/day.
 When the first 12 weeks of the treatment periods were analyzed, the median change in seizure frequency was a 25% reduction on lamotrigine compared with placebo (P<0.001).
 
-The third trial (n = 41) was a double-blind, placebo-controlled, crossover trial consisting of two 12-week treatment periods separated by a 4-week washout period.
+The third trial (n=41) was a double-blind, placebo-controlled, crossover trial consisting of two 12-week treatment periods separated by a 4-week washout period.
 Patients could not be on more than 2 other anticonvulsants.
 Thirteen patients were on concomitant valproate; these patients received 150 mg/day of lamotrigine.
 The 28 other patients had a target dose of 300 mg/day of lamotrigine.
@@ -59,7 +59,7 @@ For the intent-to-treat population, the median reduction of all partial-onset se
 
 Adjunctive Therapy with Lamotrigine in Pediatric and Adult Patients with Lennox-Gastaut Syndrome
 
-The effectiveness of lamotrigine as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients aged 3 to 25 years (n = 79 on lamotrigine, n = 90 on placebo).
+The effectiveness of lamotrigine as adjunctive therapy in patients with Lennox-Gastaut syndrome was established in a multicenter, double-blind, placebo-controlled trial in 169 patients aged 3 to 25 years (n=79 on lamotrigine, n=90 on placebo).
 Following a 4-week, single-blind, placebo phase, patients were randomized to 16 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 3 drugs.
 Patients were dosed on a fixed-dose regimen based on body weight and valproate use.
 Target doses were designed to approximate 5 mg/kg/day for patients taking valproate (maximum dose: 200 mg/day) and 15 mg/kg/day for patients not taking valproate (maximum dose: 400 mg/day).
@@ -69,12 +69,12 @@ Drop attacks were significantly reduced by lamotrigine (34%) compared with place
 
 Adjunctive Therapy with Lamotrigine in Pediatric and Adult Patients with Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of lamotrigine as adjunctive therapy in patients with PGTC seizures was established in a multicenter, double-blind, placebo-controlled trial in 117 pediatric and adult patients aged 2 years and older (n = 58 on lamotrigine, n = 59 on placebo).
+The effectiveness of lamotrigine as adjunctive therapy in patients with PGTC seizures was established in a multicenter, double-blind, placebo-controlled trial in 117 pediatric and adult patients aged 2 years and older (n=58 on lamotrigine, n=59 on placebo).
 Patients with at least 3 PGTC seizures during an 8-week baseline phase were randomized to 19 to 24 weeks of treatment with lamotrigine or placebo added to their current AED regimen of up to 2 drugs.
 Patients were dosed on a fixed-dose regimen, with target doses ranging from 3 to 12 mg/kg/day for pediatric patients and from 200 to 400 mg/day for adult patients based on concomitant AEDs.
 
 The primary efficacy endpoint was percentage change from baseline in PGTC seizures.
-For the intent-to-treat population, the median percent reduction in PGTC seizures was 66% in patients treated with lamotrigine and 34% on placebo, a difference that was statistically significant (P = 0.006).
+For the intent-to-treat population, the median percent reduction in PGTC seizures was 66% in patients treated with lamotrigine and 34% on placebo, a difference that was statistically significant (P=0.006).
 
 ## 14.2 Bipolar Disorder
 
@@ -90,11 +90,11 @@ Patients with a CGI-severity score of 3 or less maintained for at least 4 contin
 The primary endpoint was TIME (time to intervention for a mood episode or one that was emerging, time to discontinuation for either an adverse event that was judged to be related to bipolar disorder, or for lack of efficacy).
 The mood episode could be depression, mania, hypomania, or a mixed episode.
 
-In Trial 1, patients received double-blind monotherapy with lamotrigine 50 mg/day (n = 50), lamotrigine 200 mg/day (n = 124), lamotrigine 400 mg/day (n = 47), or placebo (n = 121).
+In Trial 1, patients received double-blind monotherapy with lamotrigine 50 mg/day (n=50), lamotrigine 200 mg/day (n=124), lamotrigine 400 mg/day (n=47), or placebo (n=121).
 Lamotrigine (200- and 400-mg/day treatment groups combined) was superior to placebo in delaying the time to occurrence of a mood episode (Figure 1).
 Separate analyses of the 200- and 400-mg/day dose groups revealed no added benefit from the higher dose.
 
-In Trial 2, patients received double-blind monotherapy with lamotrigine (100 to 400 mg/day, n = 59), or placebo (n = 70).
+In Trial 2, patients received double-blind monotherapy with lamotrigine (100 to 400 mg/day, n = 59), or placebo (n=70).
 Lamotrigine was superior to placebo in delaying time to occurrence of a mood episode (Figure 2).
 The mean dose of lamotrigine was about 211 mg/day.
 

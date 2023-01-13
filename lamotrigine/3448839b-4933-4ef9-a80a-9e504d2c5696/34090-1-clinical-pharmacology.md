@@ -30,7 +30,7 @@ Reduced concentrations were partially returned to normal when supplemented with 
 
 Cardiac Electrophysiology
 
-Effect of Lamotrigine:In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
+Effect of Lamotrigine: In vitro studies show that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations.
 It inhibits human cardiac sodium channels with rapid onset and offset kinetics and strong voltage dependence, consistent with other Class IB antiarrhythmic agents.
 At therapeutic doses, lamotrigine did not slow ventricular conduction (widen QRS) in healthy individuals in a thorough QT study; however, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease), lamotrigine could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death.
 Elevated heart rates could also increase the risk of ventricular conduction slowing with lamotrigine.
@@ -77,7 +77,7 @@ Peak plasma concentrations occur anywhere from 1.4 to 4.8 hours following drug a
 Dose Proportionality
 
 In healthy volunteers not receiving any other medications and given single doses, the plasma concentrations of lamotrigine increased in direct proportion to the dose administered over the range of 50 to 400 mg.
-In 2 small studies (n = 7 and 8) of patients with epilepsy who were maintained on other AEDs, there also was a linear relationship between dose and lamotrigine plasma concentrations at steady state following doses of 50 to 350 mg twice daily.
+In 2 small studies (n=7 and 8) of patients with epilepsy who were maintained on other AEDs, there also was a linear relationship between dose and lamotrigine plasma concentrations at steady state following doses of 50 to 350 mg twice daily.
 
 Distribution
 
@@ -119,7 +119,7 @@ Table 15 Summary of Drug Interactions with Lamotrigine
 
 | Drug | Drug Plasma Concentration with Adjunctive Lamotrigine a | Lamotrigine Plasma Concentration with Adjunctive Drugs b |
 | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel) c | ↔ d | ↓ |
+| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel c | ↔ d | ↓ |
 | Aripiprazole | Not assessed | ↔ e |
 | Atazanavir/ritonavir | ↔ f | ↓ |
 | Bupropion | Not assessed | ↔ |
@@ -207,7 +207,7 @@ Lamotrigine has no appreciable effect on steady-state carbamazepine plasma conce
 Limited clinical data suggest there is a higher incidence of dizziness, diplopia, ataxia, and blurred vision in patients receiving carbamazepine with lamotrigine than in patients receiving other AEDs with lamotrigine [see Adverse Reactions (6.1)].
 The mechanism of this interaction is unclear.
 The effect of lamotrigine on plasma concentrations of carbamazepine-epoxide is unclear.
-In a small subset of patients (n = 7) studied in a placebo-controlled trial, lamotrigine had no effect on carbamazepine-epoxide plasma concentrations, but in a small, uncontrolled study (n = 9), carbamazepine-epoxide levels increased.
+In a small subset of patients (n=7) studied in a placebo-controlled trial, lamotrigine had no effect on carbamazepine-epoxide plasma concentrations, but in a small, uncontrolled study (n=9), carbamazepine-epoxide levels increased.
 
 The addition of carbamazepine decreases lamotrigine steady-state concentrations by approximately 40%.
 
@@ -235,7 +235,7 @@ These data indicate that lamotrigine does not influence the pharmacokinetics of 
 
 Lithium
 
-The pharmacokinetics of lithium were not altered in healthy subjects (n = 20) by coadministration of lamotrigine (100 mg/day) for 6 days.
+The pharmacokinetics of lithium were not altered in healthy subjects (n=20) by coadministration of lamotrigine (100 mg/day) for 6 days.
 
 Lopinavir/Ritonavir
 
@@ -244,14 +244,14 @@ The pharmacokinetics of lopinavir/ritonavir were similar with concomitant lamotr
 
 Olanzapine
 
-The AUC and Cmax of olanzapine were similar following the addition of olanzapine (15 mg once daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 16) compared with the AUC and C max in healthy male volunteers receiving olanzapine alone (n = 16).
+The AUC and Cmax of olanzapine were similar following the addition of olanzapine (15 mg once daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n=16) compared with the AUC and C max in healthy male volunteers receiving olanzapine alone (n=16).
 
 In the same trial, the AUC and C max of lamotrigine were reduced on average by 24% and 20%, respectively, following the addition of olanzapine to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 This reduction in lamotrigine plasma concentrations is not expected to be clinically meaningful.
 
 Oxcarbazepine
 
-The AUC and C max of oxcarbazepine and its active 10-monohydroxy oxcarbazepine metabolite were not significantly different following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n = 13) compared with healthy male volunteers receiving oxcarbazepine alone (n = 13).
+The AUC and C max of oxcarbazepine and its active 10-monohydroxy oxcarbazepine metabolite were not significantly different following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine (200 mg once daily) in healthy male volunteers (n=13) compared with healthy male volunteers receiving oxcarbazepine alone (n=13).
 
 In the same trial, the AUC and C max of lamotrigine were similar following the addition of oxcarbazepine (600 mg twice daily) to lamotrigine in healthy male volunteers compared with those receiving lamotrigine alone.
 Limited clinical data suggest a higher incidence of headache, dizziness, nausea, and somnolence with coadministration of lamotrigine and oxcarbazepine compared with lamotrigine alone or oxcarbazepine alone.
@@ -291,7 +291,7 @@ Administration of lamotrigine resulted in a 15% increase in topiramate concentra
 
 Valproate
 
-When lamotrigine was administered to healthy volunteers (n = 18) receiving valproate, the trough steady-state valproate plasma concentrations decreased by an average of 25% over a 3-week period, and then stabilized.
+When lamotrigine was administered to healthy volunteers (n=18) receiving valproate, the trough steady-state valproate plasma concentrations decreased by an average of 25% over a 3-week period, and then stabilized.
 However, adding lamotrigine to the existing therapy did not cause a change in valproate plasma concentrations in either adult or pediatric patients in controlled clinical trials.
 
 The addition of valproate increased lamotrigine steady-state concentrations in normal volunteers by slightly more than 2-fold.
@@ -321,11 +321,11 @@ The mean plasma half-lives determined in the study were 42.9 hours (chronic rena
 On average, approximately 20% (range: 5.6 to 35.1) of the amount of lamotrigine present in the body was eliminated by hemodialysis during a 4-hour session [see Dosage and Administration (2.1)].
 
 Patients with Hepatic Impairment: The pharmacokinetics of lamotrigine following a single 100-mg dose of lamotrigine were evaluated in 24 subjects with mild, moderate, and severe hepatic impairment (Child-Pugh classification system) and compared with 12 subjects without hepatic impairment.
-The subjects with severe hepatic impairment were without ascites (n = 2) or with ascites (n = 5).
-The mean apparent clearances of lamotrigine in subjects with mild (n = 12), moderate (n = 5), severe without ascites (n = 2), and severe with ascites (n = 5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
+The subjects with severe hepatic impairment were without ascites (n=2) or with ascites (n=5).
+The mean apparent clearances of lamotrigine in subjects with mild (n=12), moderate (n=5), severe without ascites (n = 2), and severe with ascites (n=5) liver impairment were 0.30 ± 0.09, 0.24 ± 0.1, 0.21 ± 0.04, and 0.15 ± 0.09 mL/min/kg, respectively, as compared with 0.37 ± 0.1 mL/min/kg in the healthy controls.
 Mean half-lives of lamotrigine in subjects with mild, moderate, severe without ascites, and severe with ascites hepatic impairment were 46 ± 20, 72 ± 44, 67 ± 11, and 100 ± 48 hours, respectively, as compared with 33 ± 7 hours in healthy controls [see Dosage and Administration (2.1)].
 
-Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies in pediatric subjects (n = 29 for subjects aged 10 months to 5.9 years and n = 26 for subjects aged 5 to 11 years).
+Pediatric Patients: The pharmacokinetics of lamotrigine following a single 2-mg/kg dose were evaluated in 2 studies in pediatric subjects (n=29 for subjects aged 10 months to 5.9 years and n=26 for subjects aged 5 to 11 years).
 Forty-three subjects received concomitant therapy with other AEDs and 12 subjects received lamotrigine as monotherapy.
 Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in Table 16.
 
@@ -340,7 +340,7 @@ Concomitant AEDs which influence lamotrigine clearance in adults were found to h
 Table 16.
 Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 
-| Pediatric Study Population | Number of Subjects | Tmax (h) | t1/2 (h) | CL/F (mL/min/kg) |
+| Pediatric Study Population | Number of Subjects | T max (h) | t 1/2 (h) | CL/F (mL/min/kg) |
 | --- | --- | --- | --- | --- |
 | Ages 10 months to 5.3 years Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea Subjects taking antiepileptic | 10 | 3.0 (1.0 to 5.9) | 7.7 (5.7 to 11.4) | 3.62 (2.44 to 5.28) |
 | drugs with no known effect on the apparent clearance of lamotrigine Subjects taking | 7 | 5.2 (2.9 to 6.1) | 19.0 (12.9 to 27.1) | 1.2 (0.75 to 2.42) |
@@ -359,6 +359,6 @@ Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-m
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
 
 Male and Female Patients: The clearance of lamotrigine is not affected by gender.
-However, during dose escalation of lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n = 77), mean trough lamotrigine concentrations unadjusted for weight were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
+However, during dose escalation of lamotrigine in 1 clinical trial in patients with epilepsy on a stable dose of valproate (n=77), mean trough lamotrigine concentrations unadjusted for weight were 24% to 45% higher (0.3 to 1.7 mcg/mL) in females than in males.
 
 Racial or Ethnic Groups: The apparent oral clearance of lamotrigine was 25% lower in non-Caucasians than Caucasians.

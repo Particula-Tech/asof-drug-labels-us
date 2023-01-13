@@ -34,7 +34,7 @@ Dosing of lamotrigine tablets should be based on therapeutic response [see Clini
 
 Women Taking Estrogen-Containing Oral Contraceptives
 
-Starting Lamotrigine tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Starting Lamotrigine tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine tablets [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives.
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine tablets based on the concomitant AED or other concomitant medications (see Tables 1, 5, and 7).
 See below for adjustments to maintenance doses of lamotrigine in women taking estrogen-containing oral contraceptives.
 
@@ -77,9 +77,9 @@ Escalation and maintenance doses may be adjusted according to clinical response.
 
 Patients with Renal Impairment
 
-Initial doses of lamotrigine should be based on patients' concomitant medications (see Tables 1-3, and 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
-Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine tablets.
-Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients.
+Initial doses of lamotrigine should be based on patients' concomitant medications (see Tables 1 to 3, and 5); reduced maintenance doses may be effective for patients with significant renal impairment [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
+Because there is inadequate experience in this population, lamotrigine tablets should be used with caution in these patients.
 
 Discontinuation Strategy
 
