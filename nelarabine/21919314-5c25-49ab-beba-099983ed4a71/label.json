@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216038"
+  ],
+  "inn": "nelarabine",
+  "labeler": "Meitheal Pharmaceuticals Inc",
+  "package_ndcs": [
+    "71288-165-52",
+    "71288-165-53"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "Nelarabine"
+    }
+  ],
+  "setid": "21919314-5c25-49ab-beba-099983ed4a71",
+  "source": "dailymed"
+}
