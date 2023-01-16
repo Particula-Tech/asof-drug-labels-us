@@ -2,8 +2,8 @@
 
 The following are described elsewhere in the labeling:
 
-- Prolonged Erection and Priapism [see Warnings and Precautions (5.1)]
-- Penile Fibrosis [see Warnings and Precautions (5.2)]
+- •Prolonged Erection and Priapism [see Warnings and Precautions (5.1)]
+- •Penile Fibrosis [see Warnings and Precautions (5.2)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -32,9 +32,9 @@ Penile Pain: In the majority of the cases, penile pain was rated mild or moderat
 Three percent of patients discontinued treatment because of penile pain
 
 Prolonged Erection/Priapism: Prolonged erection was defined as an erection that lasted for 4 to 6 hours; priapism was defined as an erection that lasted 6 hours or longer.
-In clinical studies the frequency of prolonged erection after intracavernosal administration of CAVERJECT was 4%, while the frequency of priapism was 0.4% [see Warnings and Precautions (5.1)].
+In clinical studies the frequency of prolonged erection after CAVERJECT was 4%, while the frequency of priapism was 0.4% [see Warnings and Precautions (5.1)].
 
-Penile Hematoma/Ecchymosis: In clinical studies the frequency of penile hematoma and ecchymosis was 3% and 2%, respectively.
+Penile Hematoma/Ecchymosis: In clinical studies, the frequency of penile hematoma and ecchymosis was 3% and 2%, respectively.
 
 Systemic Adverse Reactions: Systemic adverse reactions reported by ≥ 1% of subjects in clinical studies of CAVERJECT included: dizziness (1%).
 
@@ -56,7 +56,9 @@ Adverse reactions reported for the CAVERJECT IMPULSE formulation included: penil
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reaction has been identified during post-approval use of CAVERJECT:
+The following adverse reaction has been identified during post-approval use of CAVERJECT.
 
-There have been reports of needle breakage during administration of CAVERJECT.
-In some instances surgical removal of the needle was required.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Injury and procedural complications: Needle breakage during administration of CAVERJECT.
+In some instances, surgical removal of the needle was required.

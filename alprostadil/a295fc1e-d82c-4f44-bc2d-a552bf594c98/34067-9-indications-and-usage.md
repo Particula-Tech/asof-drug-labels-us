@@ -4,6 +4,6 @@
 
 CAVERJECT is indicated for the treatment of erectile dysfunction.
 
-## 1.2 Diagnostic Testing for Erectile Dysfunction
+## 1.2 Diagnostic Test
 
 CAVERJECT is indicated as an adjunct to other diagnostic tests in the diagnosis of erectile dysfunction.

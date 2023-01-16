@@ -12,5 +12,5 @@ Alprostadil was negative in bacterial mutation (Ames), alkaline elution, rat mic
 
 Impairment of Fertility
 
-Rat reproductive studies indicate that alprostadil at doses of up to 0.2 mg/kg/day does not adversely affect or alter rat spermatogenesis.
-These doses are approximately 48-fold higher than the maximum recommended human dose (MRHD) of 40 µg based on body surface area.
+Rat reproductive studies indicate that alprostadil at doses of up to 0.2 mg/kg/day does not adversely affect or alter male rat fertility.
+These doses are approximately 32-fold higher than the maximum recommended human dose of 60 mcg based on body surface area.

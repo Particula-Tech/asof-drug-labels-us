@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of CAVERJECT was investigated in men with a diagnosis of erectile dysfunction due to psychogenic, vasculogenic, neurogenic, and/or mixed etiology in two double-blind placebo controlled studies (Study 1 and Study 2) and in one 6-month open-label study (Study 3).
+The efficacy of CAVERJECT was investigated in men with a diagnosis of erectile dysfunction due to psychogenic, vasculogenic, neurogenic, and/or mixed etiology in two double-blind, placebo-controlled studies (Study 1 and Study 2) and in one 6-month open-label study (Study 3).
 In clinical studies (Study 1 and Study 3), over 80% of patients experienced an erection sufficient for sexual intercourse after intracavernosal injection of CAVERJECT.
 
 Study 1: A total of 153 men with ED with a mean age of 53 years (range 23–69 years) were enrolled.
@@ -12,7 +12,7 @@ Seventy-three percent of the injections in 102 men who used CAVERJECT in the at-
 Seventy-five percent of the men who used CAVERJECT in the at-home phase remained on the dose identified as optimum for them during the dose-titration phase; 17% and 8% of the men decreased or increased their dose, respectively.
 The mean duration of erection per injection was 70.8 minutes.
 
-Study 2: A total of 296 men with ED with a mean age of 54 years (range 21–74 years) were enrolled in this double-blind, placebo controlled, parallel-arm design study.
+Study 2: A total of 296 men with ED with a mean age of 54 years (range 21–74 years) were enrolled in this double-blind, placebo-controlled, parallel-arm design study.
 The men were randomly assigned to one of five groups and received either a single dose of placebo, 2.5 mcg, 5 mcg, 10 mcg, or 20 mcg of CAVERJECT.
 No patient responded to placebo.
 The differences in the response rates in both the clinical and the RigiScan evaluations between each of the doses of CAVERJECT and placebo were statistically significant.
