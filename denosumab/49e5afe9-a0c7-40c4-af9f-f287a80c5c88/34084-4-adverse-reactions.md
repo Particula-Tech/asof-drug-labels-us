@@ -249,11 +249,12 @@ The following adverse reactions have been identified during post approval use of
 - Drug-related hypersensitivity reactions: anaphylaxis, rash, urticaria, facial swelling, and erythema
 - Hypocalcemia: severe symptomatic hypocalcemia
 - Musculoskeletal pain, including severe cases
-- Parathyroid Hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
+- Parathyroid hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following discontinuation of Prolia
 - Cutaneous and mucosal lichenoid drug eruptions (e.g. lichen planus-like reactions)
 - Alopecia
-- Vasculitis (e.g., ANCA positive vasculitis, leukocytoclastic vasculitis)
+- Vasculitis (e.g.
+  ANCA positive vasculitis, leukocytoclastic vasculitis)
 - Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome
 
 ## 6.3 Immunogenicity

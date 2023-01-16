@@ -35,7 +35,7 @@ Advise patients to seek prompt medical attention if they develop signs or sympto
 
 Dermatologic Adverse Reactions
 
-Advise patients to seek prompt medical attention if they develop signs or symptoms of dermatological reactions (dermatitis, rashes, and eczema) [see Warnings and Precautions (5.8)].
+Advise patients to seek prompt medical attention if they develop signs or symptoms of dermatological reactions (such as dermatitis, rashes, and eczema) [see Warnings and Precautions (5.8)].
 
 Musculoskeletal Pain
 

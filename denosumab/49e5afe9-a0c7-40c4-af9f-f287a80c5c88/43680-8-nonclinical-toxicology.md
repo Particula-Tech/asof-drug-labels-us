@@ -18,7 +18,7 @@ Denosumab had no effect on female fertility or male reproductive organs in monke
 
 Denosumab is an inhibitor of osteoclastic bone resorption via inhibition of RANKL.
 
-In ovariectomized monkeys, once-monthly treatment with denosumab suppressed bone turnover and increased bone mineral density (BMD) and strength of cancellous and cortical bone at doses 50-fold higher than the recommended human dose of 60 mg administered once every 6 months, based on body weight (mg/kg).
+In ovariectomized monkeys, once-monthly treatment with denosumab suppressed bone turnover and increased BMD and strength of cancellous and cortical bone at doses 50-fold higher than the recommended human dose of 60 mg administered once every 6 months, based on body weight (mg/kg).
 Bone tissue was normal with no evidence of mineralization defects, accumulation of osteoid, or woven bone.
 
 Because the biological activity of denosumab in animals is specific to nonhuman primates, evaluation of genetically engineered ("knockout") mice or use of other biological inhibitors of the RANK/RANKL pathway, namely OPG-Fc, provided additional information on the pharmacodynamic properties of denosumab.
