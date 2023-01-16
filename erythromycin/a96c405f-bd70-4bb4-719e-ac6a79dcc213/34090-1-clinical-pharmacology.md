@@ -26,7 +26,9 @@ Interactions With Other Antimicrobials
 
 Antagonism has been demonstrated in vitro between erythromycin and clindamycin, lincomycin and chloramphenicol.
 
-Antimicrobial Activity
+1. Antimicrobial Activity
+
+Erythromycin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections (see INDICATIONS AND USAGE):
 
 Aerobic bacteria
 

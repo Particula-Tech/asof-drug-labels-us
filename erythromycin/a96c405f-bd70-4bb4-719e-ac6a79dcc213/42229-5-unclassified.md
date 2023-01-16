@@ -2,7 +2,7 @@ Erythromycin Lactobionate for Injection, USP
 
 INTRAVENOUS USE ONLY
 
-Vials
+Single-Dose Vials
 
 Rx only
 

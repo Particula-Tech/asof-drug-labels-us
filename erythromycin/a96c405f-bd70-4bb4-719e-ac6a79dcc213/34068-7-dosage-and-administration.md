@@ -30,22 +30,27 @@ In prophylaxis against bacterial endocarditis (See INDICATIONS AND USAGE) the or
 
 Preparation of Solution:
 
-1. 1.PREPARE THE INITIAL SOLUTION OF ERYTHROCINTM LACTOBIONATE-IV BY ADDING 10 ML OF STERILE WATER FOR INJECTION, USP, TO THE 500 MG VIAL.
-   Use only Sterile Water for Injection, USP, as other diluents may cause precipitation during reconstitution.
+Erythrocin Lactobionate-IV is a lyophilized powder, which requires reconstitution and further dilution before administration according to the steps below:
+
+1. 1.
+   Reconstitute Erythrocin Lactobionate-IV by adding 10 mL of Sterile Water for Injection, USP to the 500 mg single-dose vial to give a concentration of 50 mg of erythromycin activity per milliliter (50 mg/mL).
+   Do not use other diluents in this step because other diluents may cause precipitation during reconstitution.
    Do not use diluents containing preservatives or inorganic salts.
-   After reconstitution, each mL contains 50 mg of erythromycin activity.
-   The initial solution is stable at refrigerator temperature for two weeks, or for 24 hours at room temperature.
-2. 2.ADD THE INITIAL DILUTION TO ONE OF THE FOLLOWING DILUENTS BEFORE ADMINISTRATION to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion: 0.9% SODIUM CHLORIDE INJECTION, USP; LACTATED RINGER'S INJECTION, USP; NORMOSOLTM-R.
-3. 3.THE FOLLOWING SOLUTIONS MAY ALSO BE USED PROVIDING THEY ARE FIRST BUFFERED WITH NEUTTM (4% SODIUM BICARBONATE, HOSPIRA) by adding 1 mL of NeutTM per 100 mL of solution: 5% DEXTROSE INJECTION, USP 5% DEXTROSE AND LACTATED RINGER'S INJECTION 5% DEXTROSE AND 0.9% SODIUM CHLORIDE INJECTION, USP
+   The reconstituted solution is stable at refrigerator temperature for 2 weeks, or for 24 hours at room temperature.
+2. 2.
+   Add the reconstituted solution to one of the following diluents before administration to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion:
+3. • 0.9% Sodium Chloride Injection, USP
+4. • Lactated Ringer’s Injection, USP
+5. • NormosolTM-R.
 
-NeutTM (4% sodium bicarbonate, Hospira) must be added to these solutions so that their pH is in the optimum range for erythromycin lactobionate stability.
-Acidic solutions of erythromycin lactobionate are unstable and lose their potency rapidly.
-A pH of at least 5.5 is desirable for the final diluted solution of erythromycin lactobionate.
+Do not use other diluents in this step 2.
+Acidic solutions of Erythrocin Lactobionate-IV (solutions with a pH < 5.5) are unstable and lose their potency rapidly.
 
-No drug or chemical agent should be added to an erythromycin lactobionate-IV fluid admixture unless its effect on the chemical and physical stability of the solution has first been determined.
+Do not add any drug or chemical agent to an erythromycin lactobionate-IV solution unless its effect on the chemical and physical stability of the solution has first been determined.
 
 Stability
 
 The final diluted solution of erythromycin lactobionate should be completely administered within 8 hours, since it is not suitable for storage.
+Discard unused portion.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
