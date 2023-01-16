@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE
+# INSTRUCTIONS FOR USE CAVERJECT [KAV-er-jeckt]® (alprostadil) for injection, for intracavernosal use
 
 Before you use CAVERJECT, your doctor must train you in how to prepare and give the injection properly.
 
@@ -25,8 +25,8 @@ Then go back to Step 1 and begin to prepare the syringe for use.
 CAVERJECT IMPULSE is available in two versions: the 10 mcg strength (white plunger) and the 20 mcg strength (blue plunger).
 Each syringe is designed to be used only one time, but you can select the dose that will be delivered:
 
-- The 10 mcg strength syringe (white plunger) can deliver 10 mcg (the full dose), or one of three partial doses: 7.5 mcg, or 5 mcg, or 2.5 mcg.
-- The 20 mcg strength syringe (blue plunger) can deliver 20 mcg (the full dose), or one of three partial doses: 15 mcg, or 10 mcg, or 5 mcg.
+- •The 10 mcg strength syringe (white plunger) can deliver 10 mcg (the full dose), or one of three partial doses: 7.5 mcg, or 5 mcg, or 2.5 mcg.
+- •The 20 mcg strength syringe (blue plunger) can deliver 20 mcg (the full dose), or one of three partial doses: 15 mcg, or 10 mcg, or 5 mcg.
 
 If you deliver a partial dose there will be left-over solution in the syringe – this is normal.
 
@@ -63,15 +63,15 @@ INSTRUCTIONS for PREPARING the SYRINGE (Step 1 through Step 12)
 |  |  |  | DO NOT PUSH on the plunger while trying to rotate it. This can cause the plastic threads on the plunger rod to stick. If the plunger does stick, you can try to free it by gently turning it backward ("unscrewing it") and trying again. |
 |  |  | TO SET THE DOSE: Locate the Dose Window on the syringe. This small oval window (above the left thumb in Figure I) is where the dose number will appear when the plunger is rotated. Then – holding the syringe as shown in Figure I, slowly turn the plunger rod clockwise (like tightening a screw – see arrow in Figure I) until the correct dose number appears in the center of the window (Figure J). If you pass the correct number, keep turning the plunger in the same direction until the correct number comes around again – do not try to turn it backward |  |
 
-| STEP 12. | The syringe is now ready for use. Set the syringe down on a flat level surface. The needle is sterile.Make sure the needle does not touch the surface or anything else. |
+| STEP 12. | The syringe is now ready for use. Set the syringe down on a flat level surface. The needle is sterile. Make sure the needle does not touch the surface or anything else. |
 | --- | --- |
 
 How to give the injection
 
-- Make yourself comfortable.
+- •Make yourself comfortable.
   Take some time to relax yourself and your partner.
   If your doctor has recommended you use an alcohol cleansing swab, open one now.
-- Make sure that the needle is not bent.
+- •Make sure that the needle is not bent.
   If it is, do not use it.
   Do not attempt to straighten the needle out.
   Properly discard it.
@@ -81,13 +81,15 @@ How to give the injection
 |  | 2.The correct injection angle is shown in Figure L. 3.If your doctor has recommended that you use an alcohol swab, wipe over the area for injection and let it dry. Reconfirm that the correct dose is visible in the dose window. If the correct dose is not in the dose window, repeat Step 11. |
 |  | 4.Take hold of the penis from the front, with the first two fingers underneath close to the testicles and the thumb on top (Figure M). 5.Gently squeeze the penis between your thumb and finger so that the injection site bulges out. If there is a foreskin on the penis, make sure it is stretched. 6.Keeping a firm grip on the penis and taking the syringe in your free hand, push the needle straight through the skin all the way into the bulgy part (corpora cavernosa). Avoid veins or other obvious blood vessels (Figures K and L). 7.Push the plunger firmly and steadily until it no longer moves. Plunger movement may be very small or undetectable if administering a partial dose. 8.If the plunger does not move easily adjust the needle depth slightly and try again. Do not force the solution from the syringe. 9.After completing the injection, carefully pull the needle out. A drop of liquid may remain on the tip of the needle. Press gently on the injection site with the alcohol swab. Massage the penis to help the Caverject Impulse solution spread through it. |
 
-- Some liquid will remain in the syringe if you delivered a PARTIAL dose.
-  This is expected.
-  Do not try to inject left-over liquid from a partial dose.
-  Syringes used to inject a partial dose must be discarded since each syringe can only be used one time.
-  Discard syringes with left-over liquid.
-  - A partial dose is 5 mcg, 10 mcg or 15 mcg for the BLUE plunger syringe.
-  - A partial dose is 2.5 mcg, 5 mcg, or 7.5 mcg for the WHITE plunger syringe.
+Some liquid will remain in the syringe if you delivered a PARTIAL dose.
+This is expected.
+Do not try to inject left-over liquid from a partial dose.
+Syringes used to inject a partial dose must be discarded since each syringe can only be used one time.
+Discard syringes with left-over liquid.
+
+- 
+  - oA partial dose is 5 mcg, 10 mcg or 15 mcg for the BLUE plunger syringe.
+  - oA partial dose is 2.5 mcg, 5 mcg, or 7.5 mcg for the WHITE plunger syringe.
 
 Do not keep any solution in the cartridge to use for a second injection.
 When you have finished with the syringe, discard it carefully as recommended by your doctor, so no one will use it or stick themselves with it.
@@ -96,37 +98,34 @@ After your injection:
 
 Dispose of your used CAVERJECT IMPULSE syringes and needle.
 
-- Put your used CAVERJECT IMPULSE syringe and needle in a FDA-cleared sharps disposal container right away after use.
+- •Put your used CAVERJECT IMPULSE syringe and needle in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.
-- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
-  - made of a heavy-duty plastic
-  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
-  - upright and stable during use
-  - leak-resistant
-  - properly labeled to warn of hazardous waste inside the container
-- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - omade of a heavy-duty plastic
+  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - oupright and stable during use
+  - oleak-resistant
+  - oproperly labeled to warn of hazardous waste inside the container
+- •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   Do not reuse or share your needles or syringes with other people.
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
-- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+- •Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
 How should I store CAVERJECT IMPULSE?
 
-- 1.Store unmixed CAVERJECT IMPULSE at room temperature between 68°F to 77°F (20°C to 25°C).
-- 2.Store mixed CAVERJECT IMPULSE between 36–77°F (2°C to 25°C).
-  Do not freeze.
-- 3.CAVERJECT IMPULSE should be used within 24 hours after it is mixed.
+1. 1.Store unmixed CAVERJECT IMPULSE at room temperature between 68°F to 77°F (20°C to 25°C).
+2. 2.Store mixed CAVERJECT IMPULSE between 36°F to 77°F (2°C to 25°C).
+   Do not freeze.
+3. 3.CAVERJECT IMPULSE should be used within 24 hours after it is mixed.
 
 Keep CAVERJECT IMPULSE and all medicines out of the reach of children.
 
 This Patient Information and Instructions for Use has been approved by the U.S Food and Drug Administration.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
-
-Rx only
-
 Manufactured by:
 
-LAB-0641-6.0 October 2016
+LAB-1504-1.0
+
+Revised December 2022
