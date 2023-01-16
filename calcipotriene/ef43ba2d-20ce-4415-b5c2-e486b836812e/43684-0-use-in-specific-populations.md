@@ -13,7 +13,7 @@ Advise pregnant women that Taclonex® Ointment may increase the potential risk o
 In animal reproduction studies, oral administration of calcipotriene to pregnant rats during the period of organogenesis resulted in an increased incidence of minor skeletal abnormalities, including enlarged fontanelles and extra ribs (see Data).
 Oral administration of calcipotriene to pregnant rabbits during the period of organogenesis had no apparent effects on embryo-fetal development.
 Subcutaneous administration of betamethasone dipropionate to pregnant rats and rabbits during the period of organogenesis resulted in fetal toxicity, including fetal deaths, reduced fetal weight, and fetal malformations (cleft palate and crooked or short tail) (see Data).
-The available data do not allow the calculation of relevant comparisons between the systemic exposures of calcipotriene and betamethasone diproprionate observed in animal studies to the systemic exposures that would be expected in humans after topical use of Taclonex® Ointment.
+The available data do not allow the calculation of relevant comparisons between the systemic exposures of calcipotriene and betamethasone dipropionate observed in animal studies to the systemic exposures that would be expected in humans after topical use of Taclonex® Ointment.
 
 The estimated background risk of major birth defects and miscarriage of the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
