@@ -25,4 +25,4 @@ Advise patients of the potential risk of infusion-related reactions, which can i
 
 Manufactured by: Eisai Inc. Nutley, NJ 07110 U.S. License No. 1862
 
-LEQEMBITM is a trademark of Eisai R&D Management Co., Ltd. © XXXX Eisai Inc. and Biogen
+LEQEMBITM is a trademark of Eisai R&D Management Co., Ltd. © 2023 Eisai Inc. and Biogen

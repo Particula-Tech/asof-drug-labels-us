@@ -23,7 +23,7 @@ Figure 1: Reduction in Brain Amyloid Beta Plaque (Adjusted Mean Change from Base
 
 | Table 5: Biomarker Results of LEQEMBI in Study 1 |  |  |
 | --- | --- | --- |
-| Biomarker Endpoints1 | LEQEMBI 10 mg/kg every two weeks | Placebo |
+| Biomarker Endpoints1 | LEQEMBI 10 mg/kg Every Two Weeks | Placebo |
 | Amyloid Beta PET Composite SUVR | N=44 | N=98 |
 | Mean baseline | 1.373 | 1.402 |
 | Adjusted mean change from baseline at Week 79 Difference from placebo | -0.306 -0.310 (p<0.001) | 0.004 |
