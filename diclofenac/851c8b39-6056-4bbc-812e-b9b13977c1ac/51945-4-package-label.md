@@ -2,7 +2,7 @@
 
 NDC 71858-0305-5
 
-Licart™ (diclofenac epolamine) topical system 1.3%
+Licart® (diclofenac epolamine) topical system 1.3%
 
 CHANGE LICART ONCE DAILY 24hr
 
