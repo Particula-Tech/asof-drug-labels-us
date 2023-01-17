@@ -41,3 +41,25 @@ Coated Caplets** Do not use if pouch is torn or damaged.
 **Capsule-Shaped Tablets
 
 30 POUCHES OF 2 COATED CAPLETS* EACH
+
+# Mortin CVP 4 Count Carton
+
+See Revised Warnings
+
+Motrin ® IB
+
+Ibuprofen Tablets USP, 200 mg
+
+Pain Reliever/Fever Reducer (NSAID)
+
+[caplet image]
+
+4 Coated Caplets**
+
+2 POUCHES OF 2 CAPLETS EACH
+
+**Capsule-Shaped Tablets
+
+CVP
+
+HEALTH
