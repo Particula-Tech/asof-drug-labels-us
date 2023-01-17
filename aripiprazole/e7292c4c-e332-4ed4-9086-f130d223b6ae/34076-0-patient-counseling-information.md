@@ -48,7 +48,7 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19136
 
-PI# 10-1112
+CIB72165A
 
 Rev.
-01/2020
+12/2022

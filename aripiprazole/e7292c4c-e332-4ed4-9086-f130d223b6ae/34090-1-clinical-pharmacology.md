@@ -20,7 +20,7 @@ At steady-state, the pharmacokinetics of aripiprazole is dose-proportional.
 Elimination of aripiprazole is mainly through hepatic metabolism involving two P450 isozymes, CYP2D6 and CYP3A4.
 For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is about 146 hours.
 
-ORAL ADMINISTRATION
+Oral Administration
 
 Absorption
 
@@ -39,27 +39,47 @@ The steady-state volume of distribution of aripiprazole following intravenous ad
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
 In healthy human volunteers administered 0.5 mg/day to 30 aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
 
-Metabolism and Elimination
+Elimination
+
+Metabolism
 
 Aripiprazole is metabolized primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalyzed by CYP3A4.
 Aripiprazole is the predominant drug moiety in the systemic circulation.
 At steady-state, dehydro-aripiprazole, the active metabolite, represents about 40% of aripiprazole AUC in plasma.
 
+Excretion
+
 Following a single oral dose of [14C]-labeled aripiprazole, approximately 25% and 55% of the administered radioactivity was recovered in the urine and feces, respectively.
 Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% of the oral dose was recovered unchanged in the feces.
 
 Drug Interaction Studies
 
-Effects of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-A 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+Effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
+Based on simulation, a 4.5 fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+A 3 fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
-The effects of aripiprazole on the exposures of other drugs are summarized in Figure 3.
+Figure 1: The Effect of Other Drugs on Aripiprazole Pharmacokinetics
 
-Studies in Specific Populations
+Effect of Other Drugs on Aripiprazole
 
-Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
+Figure 2: The Effect of Other Drugs on Dehydro-Aripiprazole Pharmacokinetics
+
+Effect of Other Drugs on Aripiprazole
+
+The effect of aripiprazole on the exposures of other drugs are summarized in Figure 3.
+
+Figure 3: The Effect of Aripiprazole on Pharmacokinetics of Other Drugs
+
+Effect of Aripiprazole on Other Drugs
+
+Specific Populations
+
+Exposure of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 4 and Figure 5, respectively.
 In addition, in pediatric patients (10 to 17 years of age) administered with aripiprazole (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
 
-Figure 5: Effects of intrinsic factors on dehydro-aripiprazole pharmacokinetics
+Figure 4: Effect of Intrinsic Factors on Aripiprazole Pharmacokinetics
+
+Special Populations
+
+Figure 5: Effect of Intrinsic Factors on Dehydro-Aripiprazole Pharmacokinetics
