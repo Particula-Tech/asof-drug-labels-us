@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Based on mechanism of action and findings in animal studies, spironolactone may affect sex differentiation of the male during embryogenesis [see Clinical Pharmacology (12.1)]..
+Risk Summary Based on mechanism of action and findings in animal studies, spironolactone may affect sex differentiation of the male during embryogenesis [see Clinical Pharmacology (12.1)].
 Rat embryofetal studies report feminization of male fetuses and endocrine dysfunction in females exposed to spironolactone in utero.
 Limited available data from published case reports and case series did not demonstrate an association of major malformations or other adverse pregnancy outcomes with spironolactone.
 There are risks to the mother and fetus associated with heart failure, cirrhosis and poorly controlled hypertension during pregnancy (see Clinical Considerations).

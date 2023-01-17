@@ -11,7 +11,7 @@ It may be given alone or with other diuretic agents that act more proximally in 
 
 Aldosterone antagonist activity: Increased levels of the mineralocorticoid, aldosterone, are present in primary and secondary hyperaldosteronism.
 Edematous states in which secondary aldosteronism is usually involved include congestive heart failure, hepatic cirrhosis, and nephrotic syndrome.
-By competing with aldosterone for receptor sites, Spironolactone provides effective therapy for the edema and ascites in those conditions.
+By competing with aldosterone for receptor sites, spironolactone provides effective therapy for the edema and ascites in those conditions.
 Spironolactone counteracts secondary aldosteronism induced by the volume depletion and associated sodium loss caused by active diuretic therapy.
 
 ## 12.3 Pharmacokinetics

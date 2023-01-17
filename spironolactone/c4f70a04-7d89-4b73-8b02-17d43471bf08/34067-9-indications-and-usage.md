@@ -1,7 +1,5 @@
 # 1 INDICATIONS AND USAGE
 
-CAROSPIR (spironolactone) is indicated in the management of:
-
 ## 1.1 Heart Failure
 
 CAROSPIR is indicated for treatment of NYHA Class III-IV heart failure and reduced ejection fraction to increase survival, manage edema, and to reduce the need for hospitalization for heart failure.

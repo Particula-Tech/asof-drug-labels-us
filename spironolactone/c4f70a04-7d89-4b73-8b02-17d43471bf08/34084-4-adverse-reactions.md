@@ -13,7 +13,7 @@ Because these reactions were reported voluntarily from a population of uncertain
 
 Digestive: Gastric bleeding, ulceration, gastritis, diarrhea and cramping, nausea, vomiting.
 
-Reproductive: Gynecomastia [see Warnings and Precautions (5.4)], decreased libido, inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast nad nipple pain.
+Reproductive: Gynecomastia [see Warnings and Precautions (5.4)], decreased libido, inability to achieve or maintain erection, irregular menses or amenorrhea, postmenopausal bleeding, breast and nipple pain.
 
 Hematologic: Leukopenia (including agranulocytosis), thrombocytopenia.
 

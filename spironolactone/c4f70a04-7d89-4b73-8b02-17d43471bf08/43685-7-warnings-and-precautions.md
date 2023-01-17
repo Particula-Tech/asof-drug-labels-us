@@ -5,6 +5,7 @@
 CAROSPIR can cause hyperkalemia.
 This risk is increased by impaired renal function or concomitant potassium supplementation, potassium-containing salt substitutes or drugs that increase potassium, such as angiotensin converting enzyme inhibitors and angiotensin receptor blockers [see Drug Interactions (7.1)].
 
+Monitor serum potassium within 1 week of initiation or titration of CAROSPIR and regularly thereafter.
 Closer monitoring may be needed when CAROSPIR is given with other drugs that cause hyperkalemia or in patients with impaired renal function.
 
 If hyperkalemia occurs, decrease the dose or discontinue CAROSPIR and treat hyperkalemia.
