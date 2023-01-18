@@ -31,11 +31,11 @@ The average serum half-life after doses of CLEOCIN PEDIATRIC is approximately tw
 
 ### Special Populations
 
-#### Patients with Renal Impairment
+#### Patients with Renal/Hepatic Impairment
 
-Serum half-life of clindamycin is increased slightly in patients with markedly reduced renal function.
+The elimination half-life of clindamycin is increased slightly in patients with markedly reduced renal or hepatic function.
 Hemodialysis and peritoneal dialysis are not effective in removing clindamycin from the serum.
-Dosage schedules do not need to be modified in patients with renal disease.
+Dosage schedules do not need to be modified in patients with renal or hepatic disease.
 
 #### Elderly Patients
 
@@ -99,7 +99,7 @@ Anaerobic Bacteria
 - Micromonas (Peptostreptococcus) micros
 - Prevotella bivia
 - Prevotella intermedia
-- Propionibacterium acnes
+- Cutibacterium acnes
 
 ### Susceptibility Testing
 

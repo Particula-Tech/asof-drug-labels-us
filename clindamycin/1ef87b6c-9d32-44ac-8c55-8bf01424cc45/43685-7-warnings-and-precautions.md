@@ -2,9 +2,9 @@
 
 See BOXED WARNING.
 
-## Clostridium difficile Associated Diarrhea
+## Clostridioides difficile-Associated Diarrhea
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PEDIATRIC (Clindamycin Palmitate HCL), and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PEDIATRIC (Clindamycin Palmitate HCL), and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -25,11 +25,11 @@ In case of such an anaphylactic or severe hypersensitivity reaction, discontinue
 
 A careful inquiry should be made concerning previous sensitivities to drugs and other allergens.
 
-## Renal Toxicity
+## Nephrotoxicity
 
-Clindamycin is potentially nephrotoxic.
-Acute kidney injury including acute renal failure has been reported.
-Therefore, monitoring of renal function should be considered during therapy of patients with pre-existing renal dysfunction or taking concomitant nephrotoxic drugs and monitoring of renal function should be performed if therapy is prolonged.
+Clindamycin is potentially nephrotoxic and cases with acute kidney injury have been reported.
+Consider monitoring of renal function particularly in patients with pre-existing renal dysfunction or those taking concomitant nephrotoxic drugs.
+In case of acute kidney injury, discontinue CLEOCIN PEDIATRIC when no other etiology is identified.
 
 ## Usage in Meningitis
 
@@ -119,7 +119,7 @@ When CLEOCIN PEDIATRIC is administered to the pediatric population (birth to 16 
 ## Geriatric Use
 
 Clinical studies of clindamycin did not include sufficient numbers of patients age 65 and over to determine whether they respond differently from younger patients.
-However, other reported clinical experience indicates that antibiotic-associated colitis and diarrhea (due to Clostridium difficile) seen in association with most antibiotics occur more frequently in the elderly (>60 years) and may be more severe.
+However, other reported clinical experience indicates that antibiotic-associated colitis and diarrhea (due to Clostridioides difficile) seen in association with most antibiotics occur more frequently in the elderly (>60 years) and may be more severe.
 These patients should be carefully monitored for the development of diarrhea.
 
 Pharmacokinetic studies with clindamycin have shown no clinically important differences between young subjects (18–39 years) and elderly subjects (61–79 years) with normal hepatic function and normal (age-adjusted) renal function after oral or intravenous administration.
