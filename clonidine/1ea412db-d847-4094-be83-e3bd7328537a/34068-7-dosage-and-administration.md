@@ -16,4 +16,4 @@ Renal Impairment: Patients with renal impairment may benefit from a lower initia
 Patients should be carefully monitored.
 Since only a minimal amount of clonidine is removed during routine hemodialysis, there is no need to give supplemental clonidine following dialysis.
 
-For questions regarding this product call Actavis at 1-800-432-8534.
+For questions regarding this product call Actavis at 1-888-838-2872.

@@ -18,4 +18,5 @@ For BluePoint Laboratories
 
 40-9247
 
-Revised — December 2016
+REv.
+A 10/2022

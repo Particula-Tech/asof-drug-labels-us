@@ -78,8 +78,6 @@ In a separate experiment, fertility of female rats appeared to be affected at do
 
 ### Teratogenic Effects
 
-Pregnancy Category C
-
 Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of clonidine hydrochloride tablets produced no evidence of a teratogenic or embryotoxic potential in rabbits.
 In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m 2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment at the same time or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6 to 15.
