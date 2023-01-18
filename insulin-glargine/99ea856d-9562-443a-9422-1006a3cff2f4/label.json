@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "BLA206538"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Winthrop U.S.",
+  "package_ndcs": [
+    "0955-2900-01",
+    "0955-2900-02",
+    "0955-3900-01",
+    "0955-3900-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine",
+      "name": "Insulin glargine U-300"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine",
+      "name": "Insulin glargine U-300 Max"
+    }
+  ],
+  "setid": "99ea856d-9562-443a-9422-1006a3cff2f4",
+  "source": "dailymed"
+}
