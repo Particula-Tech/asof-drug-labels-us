@@ -30,7 +30,7 @@ Instruct patients to tell their healthcare provider if they develop any signs or
 Thrombocytopenia, Anemia, and Neutropenia
 
 Advise patients of the risk of thrombocytopenia, anemia, and neutropenia with OPZELURA.
-Instruct patients to tell their healthcare provider if they develop any signs or symptoms of thrombocytopenia, anemia or neutropenia [see Warnings and Precautions (5.6)].
+Instruct patients to tell their healthcare provider if they develop any signs or symptoms of thrombocytopenia, anemia, or neutropenia [see Warnings and Precautions (5.6)].
 
 Administration Instructions
 
@@ -50,5 +50,5 @@ Manufactured for: Incyte Corporation 1801 Augustine Cut-off Wilmington, DE 19803
 
 OPZELURA is a trademark of Incyte.
 All rights reserved.
-U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 9079912; 9974790; 10639310; 10610530; 10758543; 10869870; 11219624 © 2021-2022 Incyte Corporation.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 9079912; 9974790; 10639310; 10610530; 10758543; 10869870; 11219624 © 2021-2023 Incyte Corporation.
 All rights reserved.

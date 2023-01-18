@@ -5,7 +5,7 @@
 Do not use more than one 60 gram tube per week or one 100 gram tube per 2 weeks.
 
 OPZELURA is for topical use only.
-OPZELURA is not for intraocular, oral, or intravaginal use.
+OPZELURA is not for ophthalmic, oral, or intravaginal use.
 
 ## 2.2 Recommended Dosage for Atopic Dermatitis
 

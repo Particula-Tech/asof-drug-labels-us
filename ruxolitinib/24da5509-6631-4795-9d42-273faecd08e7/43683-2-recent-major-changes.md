@@ -1,5 +1,3 @@
-# RECENT MAJOR CHANGES
-
 Boxed Warning7/2022
 
 Indications and Usage (1.2, 1.3)7/2022
