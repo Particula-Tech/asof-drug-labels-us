@@ -202,7 +202,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store pregabalin?
 
-· Store pregabalin capsul e at 25 °C (77°F); e xcursions pe r mitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room T e m perature) in its o riginal package.
+· Store pregabalin capsule at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature) in its original package.
 
 · Safely throw away any pregabalin that is out of date or no longer needed.
 
@@ -218,17 +218,17 @@ You can ask your healthcare provider or pharmacist for information about pregaba
 
 What are the ingredients in pregabalin?
 
-Active i ng re die nt: pre ga balin
+Active ingredient: pregabalin
 
 Inactive ingredients: corn starch and talc
 
-The caps ule shells contain gelatin and titanium dioxide.
+The capsule shells contain gelatin and titanium dioxide.
 In addition, the orange capsule shells contain red iron oxide which is used in 50 mg, 75 mg, 100 mg, 200 mg, 225 mg and 300 mg strength of pregabalin capsules.
-The i mprinting ink contains shellac, propylene glycol, black iron oxide, and potassium hydroxide.
+The imprinting ink contains shellac, propylene glycol, black iron oxide, and potassium hydroxide.
 Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
 However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
-This Medication Guide has been approved by t he U.S. Food and Drug A dm in istration.
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Trademarks are the property of their respective owners.
 

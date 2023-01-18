@@ -84,4 +84,4 @@ NDC 46708-126-10 carton of 100 (10 x 10) unit-dose capsules
 
 Storage and Handling
 
-Store at 25 °C (77°F); e xcursions pe r mitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room T e m perature).
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) (see USP Controlled Room Temperature).

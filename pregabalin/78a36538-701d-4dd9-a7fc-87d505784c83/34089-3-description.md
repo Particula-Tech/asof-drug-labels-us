@@ -4,7 +4,7 @@ Pregabalin, USP is described chemically as (S)-3-(aminomethyl)-5-methylhexanoic 
 The molecular formula is C8H17NO2 and the molecular weight is 159.23.
 The chemical structure of pregabalin is:
 
-Pregabalin, USP is a white to off-white, c rystalline solid with a p Ka1 of 4.2 and a pKa2 of 10.6.
+Pregabalin, USP is a white to off-white, crystalline solid with a pKa1 of 4.2 and a pKa2 of 10.6.
 It is sparingly soluble in water.
 The log of the partition coefficient (n-octanol/0.05M phosphate buffer) at pH 7.4 is – 1.35.
 
