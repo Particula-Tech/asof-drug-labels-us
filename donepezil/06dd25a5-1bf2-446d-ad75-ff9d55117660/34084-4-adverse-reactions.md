@@ -9,7 +9,8 @@ Donepezil hydrochloride has been administered to over 1,700 individuals during c
 Approximately 1200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
 Controlled and uncontrolled trials in the United States included approximately 900 patients.
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months, and 116 patients treated for over 1 year.
-The range of patient exposure is from 1 to 1,214 days Mild to Moderate Alzheimer's Disease Adverse Reactions Leading to Discontinuation The rates of discontinuation from controlled clinical trials of Donepezil hydrochloride due to adverse reactions for the donepezil hydrochloride tablets 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
+The range of patient exposure is from 1 to 1,214 days.
+Mild to Moderate Alzheimer's Disease Adverse Reactions Leading to Discontinuation The rates of discontinuation from controlled clinical trials of donepezil hydrochloride due to adverse reactions for the donepezil hydrochloride tablets 5 mg/day treatment groups were comparable to those of placebo treatment groups at approximately 5%.
 The rate of discontinuation of patients who received 7-day escalations from 5 mg/day to 10 mg/day was higher at 13%.
 
 The most common adverse reactions leading to discontinuation, defined as those occurring in at least 2% of patients and at twice or more the incidence seen in placebo patients, are shown in Table 1.
@@ -121,7 +122,7 @@ Table 4 lists adverse reactions that occurred in at least 2% of patients in pool
 | Syncope | 1 | 2 |
 | Urinary Incontinence | 1 | 2 |
 
-Moderate to Severe Alzheimer’s Disease (Donepezil Hydrochloride Tablets 23 mg/day) Donepezil hydrochloride tablets 23 mg/day has been administered to over 1300 individuals globally in clinical trials.
+Moderate to Severe Alzheimer’s Disease (Donepezil Hydrochloride Tablets 23 mg/day) Donepezil hydrochloride tablets 23 mg/day have been administered to over 1300 individuals globally in clinical trials.
 Approximately 1050 of these patients have been treated for at least three months and more than 950 patients have been treated for at least six months.
 The range of patient exposure was from 1 to over 500 days.
 Adverse Reactions Leading to Discontinuation The rate of discontinuation from a controlled clinical trial of donepezil hydrochloride tablets 23 mg/day due to adverse reactions was higher (19%) than for the 10 mg/day treatment group (8%).
@@ -156,7 +157,7 @@ In this study, there were no important differences in the type of adverse reacti
 | Weight Loss | 5 | 3 |
 | Headache | 4 | 3 |
 | Insomnia | 3 | 2 |
-| Urinary incontinence | 3 | 1 |
+| Urinary Incontinence | 3 | 1 |
 | Asthenia | 2 | 1 |
 | Contusion | 2 | 0 |
 | Fatigue | 2 | 1 |

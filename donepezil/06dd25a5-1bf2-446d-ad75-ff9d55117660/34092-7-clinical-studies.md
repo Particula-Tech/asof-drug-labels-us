@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Mild to Moderate Alzheimer's disease
+## 14.1 Mild to Moderate Alzheimer's Disease
 
 The effectiveness of donepezil hydrochloride as a treatment for mild to moderate Alzheimer’s disease is demonstrated by the results of two randomized, double-blind, placebo-controlled clinical investigations in patients with Alzheimer’s disease (diagnosed by NINCDS and DSM III-R criteria, Mini-Mental State Examination ≥ 10 and ≤ 26 and Clinical Dementia Rating of 1 or 2).
 The mean age of patients participating in donepezil hydrochloride trials was 73 years with a range of 50 to 94.
@@ -115,7 +115,7 @@ Results of a controlled clinical trial in moderate to severe Alzheimer’s Disea
 Swedish 6 Month Study (10 mg/day) The effectiveness of donepezil hydrochloride as a treatment for severe Alzheimer’s disease is demonstrated by the results of a randomized, double-blind, placebo-controlled clinical study conducted in Sweden (6 month study) in patients with probable or possible Alzheimer’s disease diagnosed by NINCDS-ADRDA and DSM-IV criteria, MMSE: range of 1-10.
 Two hundred and forty eight (248) patients with severe Alzheimer’s disease were randomized to donepezil hydrochloride or placebo.
 For patients randomized to donepezil hydrochloride, treatment was initiated at 5 mg once daily for 28 days and then increased to 10 mg once daily.
-At the end of the 6 month treatment period, 90.5% of the donepezil hydrochloride tablets treated patients were receiving the 10 mg/day dose.
+At the end of the 6 month treatment period, 90.5% of the donepezil hydrochloride treated patients were receiving the 10 mg/day dose.
 The mean age of patients was 84.9 years, with a range of 59 to 99.
 Approximately 77% of patients were women, and 23% were men.
 Almost all patients were Caucasian.
@@ -190,7 +190,7 @@ The dose of 23 mg/day was statistically significantly superior to the dose of 10
 Figure 11.
 Time-course of the Change from Baseline in SIB Score for Patients Completing 24 Weeks of Treatment.
 
-Figure 12 illustrates the cumulative percentages of patients from each of the two treatment groups who attained the measure of improvement in SIB score shown on the Xaxis.
+Figure 12 illustrates the cumulative percentages of patients from each of the two treatment groups who attained the measure of improvement in SIB score shown on the X-axis.
 While patients assigned both to 23 mg/day and to 10 mg/day have a wide range of responses, the curves show that the 23 mg-group is more likely to show a greater improvement in cognitive performance.
 When such curves are shifted to the left, this indicates a greater percentage of patients responding to treatment on the SIB.
 

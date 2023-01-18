@@ -1,9 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 Donepezil Hyrochloride Tablets
+## 16.1 Donepezil Hydrochloride Tablets
 
 Supplied as film-coated, round tablets containing either 5 mg, 10 mg or 23 mg donepezil hydrochloride USP.
-Donepezil Hydrochloride 5 mg and 10 mg Tablets USP The 5 mg tablets are white to off white, round, biconvex, film-coated tablets debossed with 'ML 89' on one side and plain on the other side.
+Donepezil Hydrochloride 5 mg and 10 mg Tablets, USP
+
+Supplied as film-coated, round tablets containing either 5 mg or 10 mg of donepezil hydrochloride USP.
+The 5 mg tablets are white to off white, round, biconvex, film-coated tablets debossed with 'ML 89' on one side and plain on the other side.
 
 - Bottles of 30 NDC 33342-027-07
 - Bottles of 90 NDC 33342-027-10
@@ -27,7 +30,7 @@ Donepezil Hydrochloride 23 mg Tablets The 23 mg tablets are red, round, biconvex
 - Bottles of 90 NDC 33342-061-10
 - Unit Dose Blister Package 100 (10 x 10) NDC 33342-061-12
 
-## 16.2 Donepezil Hydrochloride Orally Disintegrating Tablets
+## 16.2 Donepezil Hydrochloride Orally Disintegrating Tablets, USP
 
 Supplied as round tablets containing either 5 mg or 10 mg of donepezil hydrochloride USP.
 The 5 mg orally disintegrating tablets are yellow coloured, circular, flat face beveled edge uncoated tablets debossed with "CL 31" on one side and plain on the other side.
