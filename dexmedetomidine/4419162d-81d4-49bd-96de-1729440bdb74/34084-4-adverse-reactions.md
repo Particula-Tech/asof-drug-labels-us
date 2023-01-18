@@ -2,8 +2,8 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypotension, bradycardia and sinus arrest [see Warnings and Precautions (5.2)]
-- Transient hypertension [see Warnings and Precautions (5.3)]
+- •Hypotension, bradycardia and sinus arrest [see Warnings and Precautions (5.2)]
+- •Transient hypertension [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 

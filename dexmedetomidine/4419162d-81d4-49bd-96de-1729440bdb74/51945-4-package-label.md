@@ -81,3 +81,31 @@ Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 For Intravenous Use
 
 novaplus™
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bottle Label
+
+250 mL Rx only NDC 0409-2815-01
+
+Single-dose bottle.
+Discard unused portion.
+
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+
+1000 mcg/250 mL (4 mcg/mL)
+
+For Intravenous Use
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bottle Carton
+
+1 Unit X 250 mL Rx only NDC 0409-2815-01
+
+Single-dose bottle.
+Discard unused portion.
+
+Precedex™ Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
+
+1000 mcg/250 mL (4 mcg/mL)
+
+For Intravenous Use
+
+novaplus™

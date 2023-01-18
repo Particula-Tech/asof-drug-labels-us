@@ -11,6 +11,7 @@ Discard unused portion.
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-3301-10 Carton of 10 single-dose clear glass vials | 80 mcg/20 mL (4 mcg/mL) |
-| NDC 0409-1454-20 Tray of 20 single-dose clear glass bottles | 200 mcg/50 mL (4 mcg/mL) |
-| NDC 0409-1174-10 Tray of 10 single-dose clear glass bottles | 400 mcg/100 mL (4 mcg/mL) |
+| NDC 0409-3301-10Carton of 10 single‑dose clear glass vials | 80 mcg/20 mL(4 mcg/mL) |
+| NDC 0409-1454-20Tray of 20 single‑dose clear glass bottles | 200 mcg/50 mL(4 mcg/mL) |
+| NDC 0409-1174-10Tray of 10 single‑dose clear glass bottles | 400 mcg/100 mL(4 mcg/mL) |
+| NDC 0409-2815-01Carton containing 1 single‑dose clear glass bottle | 1,000 mcg/250 mL(4 mcg/mL) |
