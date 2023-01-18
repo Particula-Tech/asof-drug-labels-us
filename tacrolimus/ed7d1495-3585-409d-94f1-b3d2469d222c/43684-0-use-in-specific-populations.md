@@ -5,6 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy registry that monitors pregnancy outcomes in women exposed to tacrolimus during pregnancy.
+
 The Transplantation Pregnancy Registry International (TPRI) is a voluntary pregnancy exposure registry that monitors outcomes of pregnancy in female transplant recipients and those fathered by male transplant recipients exposed to immunosuppressants including tacrolimus.
 Healthcare providers are encouraged to advise their patients to register by contacting the Transplantation Pregnancy Registry International at 1-877-955-6877 or https://www.transplantpregnancyregistry.org/.
 
@@ -69,14 +70,14 @@ TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacro
 
 |  | Kidney | Liver |
 | --- | --- | --- |
-| Pregnancy Outcomes 1 | 462 | 253 |
+| Pregnancy Outcomes1 | 462 | 253 |
 | Miscarriage | 24.5% | 25% |
 | Live births | 331 | 180 |
 | Pre-term delivery (< 37 weeks) | 49% | 42% |
 | Low birth weight (< 2500 g) | 42% | 30% |
 | Birth defects | 8%2 | 5% |
-| 1 Includes multiple births and terminations. |  |  |
-| 2 Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. |  |  |
+| 1. Includes multiple births and terminations. |  |  |
+| 2. Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. |  |  |
 
 Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients, and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
 
@@ -116,18 +117,14 @@ Based on findings in animals, male and female fertility may be compromised by tr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness have been established in pediatric liver and lung transplant patients.
+Safety and effectiveness have been established in pediatric liver transplant patients.
 
 Liver Transplantation
 
-Safety and efficacy in pediatric de novo liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus and supported by two pharmacokinetic and safety studies in 151 children who received tacrolimus.
+Safety and efficacy in pediatric liver transplant patients less than 16 years of age are based on evidence from active controlled studies that included 56 pediatric patients, 31 of which received tacrolimus, and supported by two pharmacokinetic and safety studies in 151 children who received tacrolimus.
 Additionally, 122 pediatric patients were studied in an uncontrolled trial of tacrolimus in living related donor liver transplantation.
 Dose adjustments were made in the PK studies based on clinical status and whole blood concentrations.
 Pediatric patients generally required higher doses of tacrolimus to maintain blood trough concentrations of tacrolimus similar to adult patients [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
-
-Lung Transplantation
-
-The use of tacrolimus capsules in pediatric lung transplantation is supported by the experience in the U.S. Scientific Registry of Transplant Recipients (SRTR) including 450 pediatric patients receiving tacrolimus immediate-release products in combination with mycophenolate mofetil and 72 pediatric patients receiving tacrolimus immediate-release products in combination with azathioprine between 1999-2017
 
 Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
@@ -146,10 +143,10 @@ Further reductions in dose below the targeted range may be required [see Dosage 
 
 ## 8.7 Hepatic Impairment
 
-The mean clearance of tacrolimus was substantially lower in patients with severe hepatic impairment (mean Child-Pugh score: >10) compared to healthy volunteers with normal hepatic function.
+The mean clearance of tacrolimus was substantially lower in patients with severe hepatic impairment (mean Child-Pugh score: > 10) compared to healthy volunteers with normal hepatic function.
 Close monitoring of tacrolimus trough concentrations is warranted in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
-The use of tacrolimus in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole-blood trough concentrations of tacrolimus.
+The use of tacrolimus in liver transplant recipients experiencing post-transplant hepatic impairment may be associated with increased risk of developing renal insufficiency related to high whole blood trough concentrations of tacrolimus.
 These patients should be monitored closely and dosage adjustments should be considered.
 Some evidence suggests that lower doses should be used in these patients [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 

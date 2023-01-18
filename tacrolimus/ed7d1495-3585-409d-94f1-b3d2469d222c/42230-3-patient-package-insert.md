@@ -17,22 +17,25 @@ Tacrolimus can cause serious side effects, including:
   Tacrolimus can lower the ability of your immune system to fight infections.
   Serious infections can happen in people receiving tacrolimus that can cause death.
   Call your healthcare provider right away if you have any symptoms of an infection, including:
-- fever
-- sweats or chills
-- cough or flu-like symptoms
-- muscle aches
-- warm, red, or painful areas on your skin
+
+o fever o muscle aches
+
+o sweats or chills o warm, red, or painful areas on your skin
+
+o cough or flu-like symptoms
 
 What is tacrolimus?
 
-• Tacrolimus is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, heart, or lung transplant.
+• Tacrolimus is a prescription medicine used with other medicines to help prevent organ rejection in people who have had a kidney, liver, or heart transplant.
 
-• Tacrolimus capsules is a type of tacrolimus immediate-release drug and it is not the same as tacrolimus extended-release tablets or tacrolimus extended-release capsules.
+• Tacrolimus capsules is a type of tacrolimus immediate-release drugs and it is not the same as tacrolimus extended-release tablets or tacrolimus extended-release capsules.
 Your healthcare provider should decide what medicine is right for you.
 
 Who should not take tacrolimus?
 
-Do not take tacrolimus capsules if you are allergic to tacrolimus or any of the ingredients in tacrolimus capsules.
+Do not take tacrolimus capsules if you:
+
+• are allergic to tacrolimus or any of the ingredients in tacrolimus capsules.
 See the end of this leaflet for a complete list of ingredients in tacrolimus capsules.
 
 What should I tell my healthcare provider before taking tacrolimus?
@@ -44,13 +47,17 @@ Before taking tacrolimus, tell your healthcare provider about all of your medica
 - have or have had liver, kidney, or heart problems.
 - are pregnant or plan to become pregnant.
   Tacrolimus can harm your unborn baby.
-  - If you are able to become pregnant, you should use effective birth control before and during treatment with tacrolimus.
-    Talk to your healthcare provider before starting treatment with tacrolimus about birth control methods that may be right for you.
-  - Males who have female partners who are able to become pregnant should also use effective birth control before and during treatment with tacrolimus.
-    Talk to your healthcare provider before starting treatment with tacrolimus about birth control methods that may be right for you.
-  - There is a pregnancy registry for females who become pregnant and males who have fathered a pregnancy during treatment with tacrolimus.
-    The purpose of this registry is to collect information about the health of you and your baby.
-    To enroll in this voluntary registry, call 1-877-955-6877 or go to https://www.transplantpregnancyregistry.org/.
+
+o If you are able to become pregnant, you should use effective birth control before and during treatment with tacrolimus.
+Talk to your healthcare provider before starting treatment with tacrolimus about birth control methods that may be right for you.
+
+o Males who have female partners who are able to become pregnant should also use effective birth control before and during treatment with tacrolimus.
+Talk to your healthcare provider before starting treatment with tacrolimus about birth control methods that may be right for you.
+
+o There is a pregnancy registry for females who become pregnant and males who have fathered a pregnancy during treatment with tacrolimus.
+The purpose of this registry is to collect information about the health of you and your baby.
+To enroll in this voluntary registry, call 1-877-955-6877 or go to https://www.transplantpregnancyregistry.org/.
+
 - are breastfeeding or plan to breastfeed.
   Tacrolimus passes into your breast milk.
   You and your healthcare provider should decide if you will breastfeed while taking tacrolimus capsules.
@@ -61,7 +68,7 @@ Tell your healthcare provider about all the medicines you take, and when you sta
 
 Especially tell your healthcare provider if you take:
 
-- sirolimus (RAPAMUNE): You should not take tacrolimus if you take sirolimus.
+- sirolimus (RAPAMUNE): You should not take tacrolimus if you take sirolimus
 - cyclosporine (GENGRAF, NEORAL, and SANDIMMUNE)
 - medicines called aminoglycosides that are used to treat bacterial infections
 - ganciclovir (CYTOVENE IV, VALCYTE)
@@ -79,6 +86,7 @@ Especially tell your healthcare provider if you take:
 - ketoconazole
 - itraconazole (ONMEL, SPORANOX)
 - voriconazole (VFEND)
+- caspofungin (CANCIDAS)
 - clarithromycin (BIAXIN, BIAXIN XL, PREVPAC)
 - rifampin (RIFADIN, RIFAMATE, RIFATER, RIMACTANE)
 - rifabutin (MYCOBUTIN)
@@ -128,14 +136,14 @@ Tacrolimus capsules may cause serious side effects, including:
 - high blood sugar (diabetes).
   Your healthcare provider may do blood tests to check for diabetes while you take tacrolimus capsules.
   Call your healthcare provider right away if you have any symptoms of high blood sugar, including:
-  - frequent urination
-  - increased thirst or hunger
-  - blurred vision
-  - confusion
-  - drowsiness
-  - loss of appetite
-  - fruity smell on your breath
-  - nausea, vomiting, or stomach pain
+
+o frequent urination o drowsiness
+
+o increased thirst or hunger o loss of appetite
+
+o blurred vision o fruity smell on your breath
+
+o confusion o nausea, vomiting, or stomach pain
 
 - kidney problems.
   Kidney problems are a serious and common side effect of tacrolimus.
@@ -144,14 +152,22 @@ Tacrolimus capsules may cause serious side effects, including:
   Nervous system problems are a serious and common side effect of tacrolimus.
   Call your healthcare provider right away if you get any of these symptoms while taking tacrolimus capsules.
   These could be signs of a serious nervous system problem:
-  - headache
-  - confusion
-  - seizures
-  - changes in your vision
-  - changes in behavior
-  - coma
-  - tremors
-  - numbness and tingling
+
+o headache
+
+o confusion
+
+o seizures
+
+o changes in your vision
+
+o changes in behavior
+
+o coma
+
+o tremors
+
+o numbness and tingling
 
 - high levels of potassium in your blood.
   Your healthcare provider may do blood tests to check your potassium level while you take tacrolimus capsules.
@@ -162,36 +178,58 @@ Tacrolimus capsules may cause serious side effects, including:
 - changes in the electrical activity of your heart (QT prolongation).
 - heart problems (myocardial hypertrophy).
   Tell your healthcare provider right away if you get any of these symptoms of heart problems while taking tacrolimus capsules:
-  - shortness of breath
-  - chest pain
-  - feel lightheaded
-  - feel faint
-- severe low red blood cell count (anemia)
 
-The most common side effects of tacrolimus capsules in people who have received a kidney, liver, heart, or lung transplant are:
+o shortness of breath o feel lightheaded
 
-- infections in general, including cytomegalovirus (cmv) infection
-- tremors (shaking of the body)
-- constipation
-- diarrhea
-- headache
-- stomach pain
-- trouble sleeping
-- nausea
-- high blood sugar (diabetes)
-- low levels of magnesium in your blood
-- low levels of phosphate in your blood
-- swelling of the hands, legs, ankles, or feet
-- weakness
-- pain
-- high levels of fat in your blood
-- high levels of potassium in your blood
-- low red blood cell count (anemia)
-- low white blood cell count
-- fever
-- numbness or tingling in your hands and feet
-- inflammation of your airway (bronchitis)
-- fluid around your heart
+o chest pain o feel faint
+
+- severe low red blood cell count (anemia).
+- blood clotting problems: Tell your healthcare provider right away if you have fever and bruising under the skin that may appear as red dots, with or without unexplained tiredness, confusion, yellowing of the skin or eyes, decreased urination.
+  When taken with sirolimus or everolimus, the risk of developing these symptoms may increase.
+
+The most common side effects of tacrolimus capsules in people who have received a kidney, liver, or heart transplant are:
+
+• infections in general, including cytomegalovirus (cmv) infection
+
+• tremors (shaking of the body)
+
+• constipation
+
+• diarrhea
+
+• headache
+
+• stomach pain
+
+• trouble sleeping
+
+• nausea
+
+• high blood sugar (diabetes)
+
+• low levels of magnesium in your blood
+
+• swelling of the hands, legs, ankles, or feet
+
+• weakness
+
+• pain
+
+• high levels of fat in your blood
+
+• high levels of potassium in your blood
+
+• low red blood cell count (anemia)
+
+• low white blood cell count
+
+• fever
+
+• numbness or tingling in your hands and feet
+
+• inflammation of your airway (bronchitis)
+
+• fluid around your heart
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -199,7 +237,7 @@ These are not all the possible side effects of tacrolimus capsules.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to Strides Pharma Inc at 1-877-244-9825 or go to www.strides.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
+You may report side effects to Strides Pharma Inc at 1-877-244-9825 or go to www.strides.com or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I store tacrolimus capsules?
 
@@ -207,7 +245,7 @@ Store Tacrolimus capsules at room temperature between 68°F to 77°F (20°C to 2
 
 Keep tacrolimus capsules and all medicines out of the reach of children.
 
-General information about the safe and effective use of tacrolimus capsules
+General information about the safe and effective use of tacrolimus capsules.
 
 •Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
 Do not use tacrolimus capsules for a condition for which it was not prescribed.
@@ -237,7 +275,7 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 09/2021
+Revised: 01/2023
 
 Additional pediatric use information is approved for Astellas Pharma US, Inc.'s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
