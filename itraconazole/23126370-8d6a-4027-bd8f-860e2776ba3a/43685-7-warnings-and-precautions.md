@@ -83,20 +83,14 @@ The hearing loss usually resolves when treatment is stopped, but can persist in 
 
 ## Information for Patients:
 
-- The topical effects of mucosal exposure may be different between the itraconazole capsules and Oral Solution.
-  Only the Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
-  Itraconazole capsules should not be used interchangeably with itraconazoleOral Solution.
-- Instruct patients to take Itraconazole capsules with a full meal.
-  Itraconazole capsules must be swallowed whole.
-- Instruct patients about the signs and symptoms of congestive heart failure, and if these signs or symptoms occur during itraconazole administration, they should discontinue itraconazole and contact their healthcare provider immediately.
-- Instruct patients to stop itraconazole treatment immediately and contact their healthcare provider if any signs and symptoms suggestive of liver dysfunction develop.
-  Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vomiting, jaundice, dark urine, or pale stools.
-- Instruct patients to contact their physician before taking any concomitant medications with itraconazole to ensure there are no potential drug interactions.
-- Instruct patients that hearing loss can occur with the use of itraconazole.
-  The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
-  Advise patients to discontinue therapy and inform their physicians if any hearing loss symptoms occur.
-- Instruct patients that dizziness or blurred/double vision can sometimes occur with itraconazole.
-  Advise patients that if they experience these events, they should not drive or use machines.
+• The topical effects of mucosal exposure may be different between the itraconazole capsules and Oral Solution.
+Only the Oral Solution has been demonstrated effective for oral and/or esophageal candidiasis.
+Itraconazole capsules should not be used interchangeably with itraconazole Oral Solution. • Instruct patients to take itraconazole capsules with a full meal.
+Itraconazole capsules must be swallowed whole. • Instruct patients about the signs and symptoms of congestive heart failure, and if these signs or symptoms occur during itraconazole administration, they should discontinue itraconazole and contact their healthcare provider immediately. • Instruct patients to stop itraconazole treatment immediately and contact their healthcare provider if any signs and symptoms suggestive of liver dysfunction develop.
+Such signs and symptoms may include unusual fatigue, anorexia, nausea and/or vomiting, jaundice, dark urine, or pale stools. • Instruct patients to contact their physician before taking any concomitant medications with itraconazole to ensure there are no potential drug interactions. • Instruct patients that hearing loss can occur with the use of itraconazole.
+The hearing loss usually resolves when treatment is stopped, but can persist in some patients.
+Advise patients to discontinue therapy and inform their physicians if any hearing loss symptoms occur. • Instruct patients that dizziness or blurred/double vision can sometimes occur with itraconazole.
+Advise patients that if they experience these events, they should not drive or use machines.
 
 ## Drug Interactions:
 
@@ -108,14 +102,13 @@ Consequently, itraconazolehas the potential to interact with many concomitant dr
 Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes, respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism).
 Reduced concentrations of concomitant drugs may reduce their efficacy.
 Table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but is not a comprehensive list.
+
 Refer to the approved product labeling to become familiar with the interaction pathways, risk potential, and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with itraconazole.
 
 Although many of the clinical drug interactions in Table 1 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole.
 
-| Table 1. Drug Interactions with Itraconazole that Affect Concomitant Drug Concentrations |  |  |
-| --- | --- | --- |
 | Concomitant Drug Within Class |  | Prevention or Management |
-| Drug Interactions with Itraconazolethat Increase Concomitant Drug Concentrations and May Increase Risk of Adverse Reactions Associated with the Concomitant Drug |  |  |
+| --- | --- | --- |
 | Alpha Blockers |  |  |
 | Alfuzosin Silodosin Tamsulosin |  | Not recommended during and 2 weeks after itraconazole treatment. |
 | Analgesics |  |  |
@@ -147,14 +140,16 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Eletriptan |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary |
 | Antineoplastics |  |  |
 | Irinotecan |  | Contraindicated during and 2 weeks after itraconazole treatment. |
+| Venetoclax |  | Contraindicated during the dose initiation and ramp-up phase in patients with CLL/SLL. Refer to the venetoclax prescribing information for dosing and safety monitoring instructions. |
 | Docetaxel Axitinib Ibrutinib Bosutinib Lapatinib Cabazitaxel Nilotinib Cabozantinib Olapariba Ceritinib Pazopanib Cobimetiniba Sunitinib Crizotinib Trabectedin Dabrafenib Trastuzumab­ Dasatinib emtansine Vinca alkaloids |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Bortezomib Nintedanib Brentuximab- Panobinostat vedotin Ponatinib Busulfana Ruxolitinib Erlotinib Sonidegib Gefitinibb Vandetaniba Idelalisib Imatinib Ixabepilone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
+| Talazopariba |  | Refer to the talazoparib prescribing information for dosing instructions if concomitant use cannot be avoided. |
+| Glasdegib |  | Refer to the glasdegib prescribing information for safety monitoring if concomitant use cannot be avoided. |
+| Bortezomib Nintedanib Brentuximab- Panobinostat vedotin Ponatinib Busulfana Ruxolitinib Erlotinib Sonidegib Gefitinibb Tretinoin (oral) Idelalisib Vandetaniba ImatinibIxabepilone |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For idelalisib, see also Table 2. |
 | Antipsychotics, Anxiolytics and Hypnotics |  |  |
 | Alprazolama Midazolam (IV) a Aripiprazolea Quetiapine Buspironea Cariprazine Ramelteon Diazepama Risperidonea Haloperidola Suvorexant |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Zopiclonea |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lurasidone Midazolam (oral) a Pimozide Triazolama |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Antivirals |  |  |
-| Simeprevir |  | Not recommended during and 2 weeks after itraconazole treatment. |
 | Daclatasvir Indinavira Maraviroc |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For indinavir, see also Table 2. |
 | Cobicistat Elvitegravir (ritonavir-boosted) Ombitasvir/Paritaprevir/Ritonavir with or without Dasabuvir Ritonavir Saquinavir (unboosted) a |  | Monitor for adverse reactions. See also Table 2. |
 | Elbasvir/grazoprevir Glecaprevir/pibrentasvir Tenofovir disoproxil fumarate |  | Not recommended during and 2 weeks after itraconazole treatment. Monitor for adverse reactions. Monitor for adverse reactions. |
@@ -177,7 +172,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Netupitant |  | Monitor for adverse reactions. |
 | Immunosuppressants |  |  |
 | Everolimus Sirolimus Temsirolimus (IV) |  | Not recommended during and 2 weeks after itraconazole treatment. |
-| Budesonide (inhalation) a Budesonide (non­-­­­inhalation) Ciclesonide (inhalation) Cyclosporine (IV) a Cyclosporine (non-IV) Dexamethasonea | Fluticasone (inhalation)a Fluticasone (nasal) Methylprednisolonea Tacrolimus (IV) a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Budesonide (inhalation) a Budesonide (non­-­­­inhalation) Ciclesonide (inhalation) Cyclosporine (IV) a Cyclosporine (non-IV) Dexamethasonea | Fluticasone (inhalation) a Fluticasone (nasal)Methylprednisolonea Tacrolimus (IV) a Tacrolimus (oral) | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Lipid-Lowering Drugs |  |  |
 | Lomitapide Lovastatina Simvastatina |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Atorvastatina |  | Monitor for drug adverse reactions. Concomitant drug dose reduction may be necessary |
@@ -188,7 +183,7 @@ Although many of the clinical drug interactions in Table 1 are based on informat
 | Urologic Drugs |  |  |
 | Avanafil |  | Contraindicated during and 2 weeks after itraconazole treatment. |
 | Fesoterodine |  | Patients with moderate to severe renal or hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
-| Solifenacin |  | Patients with severe renal or moderate to severe hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment. Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
+| Solifenacin |  | Patients with severe renal or moderate to severe hepatic impairment: Contraindicated during and 2 weeks after itraconazole treatment.Other patients: Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. |
 | Darifenacin Vardenafil |  | Not recommended during and 2 weeks after itraconazole treatment. |
 | Dutasteride Oxybutynina Sildenafil (for erectile dysfunction) Tadalafil (for erectile dysfunction and benign prostatic hyperplasia) Tolterodine |  | Monitor for adverse reactions. Concomitant drug dose reduction may be necessary. For sildenafil and tadalafil, see also Cardiovascular Drugs above. |
 | Miscellaneous Drugs and Other Substances |  |  |
@@ -230,7 +225,6 @@ Although many of the clinical drug interactions in Table 2 are based on informat
 | Table 2. Drug Interactions with Other Drugs that Affect Itraconazole Concentrations |  |
 | --- | --- |
 | Concomitant Drug Within Class | Prevention or Management |
-| Drug Interactions with Other Drugs that Increase ItraconazoleConcentrations and May Increase Risk of Adverse Reactions Associated with Itraconazole |  |
 | Antibacterials |  |
 | Ciprofloxacina Erythromycina Clarithromycina | Monitor for adverse reactions. Itraconazole dose reduction may be necessary. |
 | Antineoplastics |  |

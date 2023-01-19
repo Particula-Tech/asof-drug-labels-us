@@ -18,4 +18,4 @@ Manufactured for: Alembic Pharmaceuticals, Inc.
 
 Bedminster, NJ 07921, USA
 
-Revised: 02/2022
+Revised: 12/2022

@@ -42,18 +42,18 @@ The following adverse events led to temporary or permanent discontinuation of th
 
 Table 4: Clinical Trials of Onychomycosis of the Toenail: Adverse Events Leading to Temporary or Permanent Discontinuation of Therapy
 
-| Adverse Event |  | Incidence (%) Itraconazole (N=112) |
-| --- | --- | --- |
-| Elevated Liver Enzymes (greater than twice the upper limit of normal) |  | 4 |
-| Gastrointestinal Disorders |  | 4 |
-| Rash |  | 3 |
-| Hypertension |  | 2 |
-| Orthostatic Hypotension |  | 1 |
-| Headache |  | 1 |
-| Malaise |  | 1 |
-| Myalgia |  | 1 |
-| Vasculitis |  | 1 |
-| Vertigo |  | 1 |
+| Adverse Event | Incidence (%) Itraconazole (N=112) |
+| --- | --- |
+| Elevated Liver Enzymes (greater than twice the upper limit of normal) | 4 |
+| Gastrointestinal Disorders | 4 |
+| Rash | 3 |
+| Hypertension | 2 |
+| Orthostatic Hypotension | 1 |
+| Headache | 1 |
+| Malaise | 1 |
+| Myalgia | 1 |
+| Vasculitis | 1 |
+| Vertigo | 1 |
 
 The following adverse events occurred with an incidence of greater than or equal to 1% (N=112): headache: 10%; rhinitis: 9%; upper respiratory tract infection: 8%; sinusitis, injury: 7%; diarrhea, dyspepsia, flatulence, abdominal pain, dizziness, rash: 4%; cystitis, urinary tract infection, liver function abnormality, myalgia, nausea: 3%; appetite increased, constipation, gastritis, gastroenteritis, pharyngitis, asthenia, fever, pain, tremor, herpes zoster, abnormal dreaming: 2%.
 
