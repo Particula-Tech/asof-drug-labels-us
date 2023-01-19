@@ -67,5 +67,5 @@ Clinical studies of CARAFATE Oral Suspension did not include sufficient numbers 
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (See DOSAGE AND ADMINISTRATION).
 
-This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (See PRECAUTIONS, Special Populations: Chronic Renal Failure and Dialysis Patients).
+This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function (See PRECAUTIONS Special Populations: Chronic Renal Failure and Dialysis Patients).
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.

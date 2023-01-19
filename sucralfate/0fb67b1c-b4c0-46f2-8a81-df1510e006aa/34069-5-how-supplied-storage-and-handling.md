@@ -10,15 +10,15 @@ Store at controlled room temperature 20-25°C (68-77°F) [see USP].
 Rx Only
 
 Prescribing Information rev.
-June 2018
+Jan 2023
 
 Distributed by: Allergan USA, Inc. Madison, NJ 07940
 
 CARAFATE® is a registered trademark of Aptalis Pharma Canada ULC, an Allergan affiliate.
 
-® 2018 Allergan.
+® 2023 Allergan.
 All rights reserved.
 
 Allergan® and its design are trademarks of Allergan, Inc.
 
-v1.0USPI170
+v2.0USPI0170
