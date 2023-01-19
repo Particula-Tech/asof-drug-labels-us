@@ -151,14 +151,14 @@ Figure 9: Patients Achieving Various Levels of Improvement in Pain Intensity –
 Table 14.
 Patient Global Response in Fibromyalgia Study F1
 
-| Treatment Group (mg/day) | % Any Improvement | 95% CI |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Patient Global Impression of Change |  |  |  |  |  |
-| Placebo | 47.6 | (40.0,55.2) |  |  |  |
-| PGB 300 | 68.1 | (60.9, 75.3) |  |  |  |
-| PGB 450 | 77.8 | (71.5, 84.0) |  |  |  |
-| PGB 600 | 66.1 | (59.1, 73.1) |  |  |  |
-| PGB = Pregabalin |  |  |  |  |  |
+| Treatment Group (mg/day) | % Any Improvement | 95% CI |
+| --- | --- | --- |
+| Patient Global Impression of Change |  |  |
+| Placebo | 47.6 | (40.0,55.2) |
+| PGB 300 | 68.1 | (60.9, 75.3) |
+| PGB 450 | 77.8 | (71.5, 84.0) |
+| PGB 600 | 66.1 | (59.1, 73.1) |
+| PGB = Pregabalin |  |  |
 
 Study F2: This randomized withdrawal study compared pregabalin capsules with placebo.
 Patients were titrated during a 6-week open-label dose optimization phase to a total daily dose of 300 mg, 450 mg, or 600 mg.
