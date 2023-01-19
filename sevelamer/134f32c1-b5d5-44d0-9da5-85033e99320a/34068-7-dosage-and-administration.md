@@ -11,7 +11,7 @@ Table 1: Starting Dose for Adult Dialysis Patients Not Taking a Phosphate Binder
 | Serum Phosphorus | Sevelamer Carbonate 800 mg Tablet |
 | --- | --- |
 | > 5.5 and < 7.5 mg/dL | 0.8 g three times daily with meals |
-| ≥ 7.5 mg/dL | 1.6 g three times daily with meals |
+| 7.5 mg/dL | 1.6 g three times daily with meals |
 
 Dose Titration for Adult Patients Taking Sevelamer Carbonate Tablets.
 Titrate the sevelamer carbonate dose by 0.8 g three times per day with meals at two-week intervals as necessary to achieve target serum phosphorus levels.
@@ -19,9 +19,9 @@ Based on clinical studies, the average prescribed adult daily dose of sevelamer 
 The highest daily adult dose of sevelamer carbonate studied was 14 grams in CKD patients on dialysis.
 
 Starting Dose for Pediatric Patients Not Taking a Phosphate Binder.
-The recommended starting dose for pediatric patients 6 years of age and older is 0.8 g to 1.6 g taken three times per day with meals based on the patient’s body surface area (BSA) category; see Table 2.
+The recommended starting dose for pediatric patients 6 years of age and older is 0.8 g to 1.6 g taken three times per day with meals based on the patients body surface area (BSA) category; see Table 2.
 
-Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patient’s Body Surface Area (m2)
+Table 2: Recommended Starting Dosage and Titration Increment Based on Pediatric Patients Body Surface Area (m2)
 
 | BSA (m2) | Starting Dose Per Meal/Snack | Titration Increases/Decreases Per Dose |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ Switching between Sevelamer Carbonate Tablets and Powder.
 Use the same dose in grams.
 
 Switching from Calcium Acetate.
-Table 3 gives recommended starting doses of sevelamer carbonate based on a patient’s current calcium acetate dose.
+Table 3 gives recommended starting doses of sevelamer carbonate based on a patients current calcium acetate dose.
 
 Table 3: Starting Dose for Dialysis Patients Switching from Calcium Acetate to Sevelamer Carbonate
 
