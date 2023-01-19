@@ -1,5 +1,7 @@
 # ADVERSE REACTIONS
 
+To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
 In a series of 225 patients, there were 6 deaths (see CLINICAL STUDIES).
 Cardiovascular events (hypotension, congestive heart failure, bradycardia, and heart block) were the most common.
 The only other event reported by more than one patient was nausea.
