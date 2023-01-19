@@ -6,7 +6,7 @@ The effects of fenofibrate at a dose equivalent to 130 mg fenofibrate per day we
 Fenofibrate therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
 Fenofibrate therapy also lowered triglycerides and raised HDL-C (See Table 4).
 
-Table 4 Mean Percent Change in Lipid Parameters at End of Treatment†
+$ Table 4 Mean Percent Change in Lipid Parameters at End of Treatment†
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
@@ -34,26 +34,26 @@ The effects of fenofibrate on serum triglycerides were studied in two randomized
 Patients were treated for eight weeks under protocols that differed only in that one entered patients with baseline TG levels of 500 to 1500 mg/dL, and the other TG levels of 350 to 499 mg/dL.
 In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate at dosages equivalent to 130 mg fenofibrate capsules per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol Treatment of patients with elevated triglycerides often results in an increase of LDL-C (See Table 5).
 
-Table 5 Effects of Fenofibrate in Patients with Hypertriglyceridemia
+$ Table 5 Effects of Fenofibrate in Patients with Hypertriglyceridemia
 
-| Study 1 | Placebo |  |  |  | Fenofibrate |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Baseline TG levels 350 to 499 mg/dL | N | Baseline (mean) | Endpoint (mean) | % Change (mean) | N | Baseline (mean) | Endpoint (mean) | % Change (mean) |
-| Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2 * |
-| VLDL Triglycerides | 19 | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1 * |
-| Total Cholesterol | 28 | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1 * |
-| HDL Cholesterol | 28 | 35 | 36 | 4 | 27 | 34 | 40 | 19.6 * |
-| LDL Cholesterol | 28 | 120 | 129 | 1.2 | 27 | 128 | 137 | 14.5 |
-| VLDL Cholesterol | 27 | 99 | 99 | 5.8 | 27 | 92 | 46 | -44.7 * |
-| Study 2 | Placebo |  |  |  | Fenofibrate |  |  |  |
-| Baseline TG levels 500 to 1500 mg/dL | N | Baseline (mean) | Endpoint (mean) | % Change (mean) | N | Baseline (mean) | Endpoint (mean) | % Change (mean) |
-| Triglycerides | 44 | 710 | 750 | 7.2 | 48 | 726 | 308 | -54.5 * |
-| VLDL Triglycerides | 29 | 537 | 571 | 18.7 | 33 | 543 | 205 | -50.6 * |
-| Total Cholesterol | 44 | 272 | 271 | 0.4 | 48 | 261 | 223 | -13.8 * |
-| HDL Cholesterol | 44 | 27 | 28 | 5.0 | 48 | 30 | 36 | 22.9 * |
-| LDL Cholesterol | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45.0 * |
-| VLDL Cholesterol | 42 | 137 | 142 | 11.0 | 45 | 126 | 54 | -49.4 * |
-| * p < 0.05 vs. placebo |  |  |  |  |  |  |  |  |
+| Study 1 | Placebo |  |  |  |  | Fenofibrate |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Baseline TG levels 350 to 499 mg/dL | N |  | Baseline (mean) | Endpoint (mean) | % Change (mean) | N | Baseline (mean) | Endpoint (mean) | % Change (mean) |
+| Triglycerides | 28 |  | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2 * |
+| VLDL Triglycerides | 19 |  | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1 * |
+| Total Cholesterol | 28 |  | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1 * |
+| HDL Cholesterol | 28 |  | 35 | 36 | 4 | 27 | 34 | 40 | 19.6 * |
+| LDL Cholesterol | 28 |  | 120 | 129 | 1.2 | 27 | 128 | 137 | 14.5 |
+| VLDL Cholesterol | 27 |  | 99 | 99 | 5.8 | 27 | 92 | 46 | -44.7 * |
+| Study 2 | Placebo |  |  |  |  | Fenofibrate |  |  |  |
+| Baseline TG levels 500 to 1500 mg/dL | N | Baseline (mean) |  | Endpoint (mean) | % Change (mean) | N | Baseline (mean) | Endpoint (mean) | % Change (mean) |
+| Triglycerides | 44 | 710 |  | 750 | 7.2 | 48 | 726 | 308 | -54.5 * |
+| VLDL Triglycerides | 29 | 537 |  | 571 | 18.7 | 33 | 543 | 205 | -50.6 * |
+| Total Cholesterol | 44 | 272 |  | 271 | 0.4 | 48 | 261 | 223 | -13.8 * |
+| HDL Cholesterol | 44 | 27 |  | 28 | 5.0 | 48 | 30 | 36 | 22.9 * |
+| LDL Cholesterol | 42 | 100 |  | 90 | -4.2 | 45 | 103 | 131 | 45.0 * |
+| VLDL Cholesterol | 42 | 137 |  | 142 | 11.0 | 45 | 126 | 54 | -49.4 * |
+| * p < 0.05 vs. placebo |  |  |  |  |  |  |  |  |  |
 
 The effect of fenofibrate on serum triglycerides was studied in a double-blind, randomized, 3 arm parallel-group trial of 146.
 The study population was comprised of 61% male and 39% female patients.
@@ -61,7 +61,7 @@ Approximately 70% of patients had hypertension and 32% had diabetes.
 Patients were treated for eight weeks with either fenofibrate capsules 130 mg taken once daily with meals, fenofibrate capsules 130 mg taken once daily between meals, or placebo.
 Fenofibrate capsules 130 mg, whether taken with meals or between meals, had comparable effects on TG and all lipid parameters (See Table 6).
 
-Table 6 Fenofibrate Treatment in Patients with Hypertriglyceridemia
+$ Table 6 Fenofibrate Treatment in Patients with Hypertriglyceridemia
 
 |  | Placebo (n=50) |  | fenofibrate capsules with meals (n=54) |  | fenofibrate capsules between meals (n=42) |  |
 | --- | --- | --- | --- | --- | --- | --- |

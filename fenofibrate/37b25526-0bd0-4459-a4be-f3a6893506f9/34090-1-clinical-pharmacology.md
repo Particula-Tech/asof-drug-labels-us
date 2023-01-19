@@ -78,8 +78,6 @@ They are weak inhibitor of CYP2C8, CYP2C19 and CYP2A6, and mild-to-moderate inhi
 Table 2 describes the effects of co-administered drugs on fenofibric acid systemic exposure.
 Table 3 describes the effects of co-administered fenofibric acid on exposure to other drugs.
 
-Table 2 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure from Fenofibrate Capsules or Fenofibrate Administration
-
 | Co-Administered Drug | Dosage Regimen of Co-Administered Drug | Dosage Regimen of Fenofibrate | Changes in Fenofibric Acid Exposure |  |
 | --- | --- | --- | --- | --- |
 |  |  |  | AUC | Cmax |
@@ -93,20 +91,20 @@ Table 2 Effects of Co-Administered Drugs on Fenofibric Acid Systemic Exposure fr
 | Metformin | 850 mg three times daily for 10 days | Fenofibrate 54 mg three times daily for 10 days | ↓9% | ↓6% |
 | Rosiglitazone | 8 mg once daily for 5 days | Fenofibrate 145 mg once daily for 14 days | ↑10% | ↑3% |
 
-Table 3 Effects of Fenofibrate Capsules or Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
+$ Table 3 Effects of Fenofibrate Capsules or Fenofibrate Co-Administration on Systemic Exposure of Other Drugs
 
 | Dosage Regimen of Fenofibrate | Dosage Regimen of Co-Administered Drug | Changes in Co-Administered Drug Exposure |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Analyte | AUC | Cmax |
 | No dosing adjustments required for these co-administered drugs with fenofibrate capsules |  |  |  |  |
 | Lipid-lowing agents |  |  |  |  |
-| Fenofibrate 160 mgTriCor (fenofibrate) oral tablet once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
-| Fenofibrate 3 x 67 mgTriCor (fenofibrate) oral micronized capsule as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
+| Fenofibrate 160 mg1 once daily for 10 days | Atorvastatin, 20 mg once daily for 10 days | Atorvastatin | ↓17% | 0% |
+| Fenofibrate 3 x 67 mg2 as a single dose | Pravastatin, 40 mg as a single dose | Pravastatin | ↑13% | ↑13% |
 |  |  | 3α-Hydroxyl-iso-pravastatin | ↑26% | ↑29% |
-| Fenofibrate 160 mg once daily for 10 days | Pravastatin, 40 mg once daily for 10 days | Pravastatin | ↑28% | ↑36% |
+| Fenofibrate 160 mg1 once daily for 10 days | Pravastatin, 40 mg once daily for 10 days | Pravastatin | ↑28% | ↑36% |
 |  |  | 3α-Hydroxyl-iso-pravastatin | ↑39% | ↑55% |
-| Fenofibrate 160 mg as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
+| Fenofibrate 160 mg1 as a single dose | Fluvastatin, 40 mg as a single dose | (+)-3R, 5S-Fluvastatin | ↑15% | ↑16% |
 | Anti-diabetic agents |  |  |  |  |
-| Fenofibrate 145 mg once daily for 10 days | Glimepiride, 1 mg once daily as a single dose | Glimepiride | ↑35% | ↑18% |
-| Fenofibrate 54 mg three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
-| Fenofibrate 145 mg once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
+| Fenofibrate 145 mg1 once daily for 10 days | Glimepiride, 1 mg once daily as a single dose | Glimepiride | ↑35% | ↑18% |
+| Fenofibrate 54 mg1 three times daily for 10 days | Metformin, 850 mg three times daily for 10 days | Metformin | ↑3% | ↑6% |
+| Fenofibrate 145 mg1 once daily for 14 days | Rosiglitazone, 8 mg once daily for 5 days | Rosiglitazone | ↑6% | ↓1% |
