@@ -19,7 +19,7 @@ Episodes of oxygen desaturation, respiratory depression, apnea, and airway obstr
 ## Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including midazolam, and opioids may result in profound sedation, respiratory depression, coma and death.
-If a decision is made to use midazolam concomitantly with opioids, monitor patients for respiratory depression and sedation [see PRECAUTIONS/Drug Interactions].
+If a decision is made to use midazolam concomitantly with opioids, monitor patients for respiratory depression and sedation [seePRECAUTIONS/Drug Interactions].
 
 ## Risk of Respiratory Adverse Events
 
@@ -66,10 +66,10 @@ Gross tests of recovery from the effects of midazolam HCl syrup [see CLINICAL PH
 It is recommended that no patient operate hazardous machinery or a motor vehicle until the effects of the drug, such as drowsiness, have subsided or until one full day after anesthesia and surgery, whichever is longer.
 Particular care should be taken to assure safe ambulation.
 
-## Usage in Pregnancy
+## Neonatal Sedation and Withdrawal Syndrome
 
-Although midazolam HCl syrup has not been studied in pregnant patients, an increased risk of congenital malformations associated with the use of benzodiazepine drugs (diazepam and chlordiazepoxide) have been suggested in several studies.
-If this drug is used during pregnancy, the patient should be apprised of the potential hazard to the fetus.
+Use of midazolam HCl syrup late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see PRECAUTIONS: Pregnancy].
+Monitor neonates exposed to midazolam HCl syrup during pregnancy or labor for signs of sedation and monitor neonates exposed to midazolam HCl syrup during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## Usage in Preterm Infants and Neonates
 
@@ -110,6 +110,28 @@ To assure safe and effective use of midazolam HCl syrup, the following informati
 6. 6.For pediatric patients, particular care should be taken to assure safe ambulation.
 7. 7.Effect of Anesthetic and Sedation Drugs on Early Brain Development: Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
    Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
+
+Pregnancy
+
+Advise pregnant females that use of midazolam HCl syrup late in pregnancy can result in sedation
+
+(respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia,
+
+irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see
+
+WARNINGS: Neonatal Sedation and Withdrawal Syndrome andPRECAUTIONS: Pregnancy].
+
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in
+
+women exposed to midazolam HCl syrup during pregnancy [see PRECAUTIONS, Pregnancy].
+
+Nursing
+
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients receiving midazolam to monitor infants for excessive sedation, poor feeding, and poor weight gain, and to seek medical attention if they notice these signs.
+A lactating woman may consider pumping and discarding breastmilk for at least 4 to 8 hours after receiving midazolam for sedation or anesthesia to minimize drug exposure to a breastfed infant [see PRECAUTIONS, Nursing Mothers].
 
 ## Drug Interactions
 
@@ -171,56 +193,105 @@ There were no adverse effects on either male or female fertility noted.
 
 ## Pregnancy
 
-Teratogenic Effects
+Pregnancy Exposure Registry
 
-Pregnancy Category D: [see WARNINGS].
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including midazolam HCl syrup, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
 
-Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
-There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans [see Data].
+Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand PRECAUTIONS: Clinical Considerations].
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to midazolam HCl syrup during pregnancy and labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to midazolam HCl syrup during pregnancy for signs of withdrawal.
+Manage these neonates accordingly [see WARNINGS: Neonatal Sedation and Withdrawal Syndrome].
 
 Data
 
-Animal Data: Pregnant mice were treated with midazolam using oral doses of 30, 60, and 120 mg/kg (2.4, 4.9, and 9.7 times the human dose of 1 mg/kg based on body surface area) during the period of organogenesis (Gestation Day 6 through 15).
-Midazolam did not cause adverse effects on the fetus at doses up to 9.7 times the human dose of 1 mg/kg).
-In dams allowed to litter, there were no adverse effects on pup survival or growth.
+Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+Animal Data
 
 Pregnant rats were treated with midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 7 through 15).
 Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human induction dose.
 All doses produced slight to moderate ataxia.
 The high dose produced a 5% decrease in maternal body weight gain compared to control.
 
-Pregnant rabbits were treated with midazolam using intravenous doses of 0.2, 0.6, and 2 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 7 to 18).
-Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human induction dose.
-The high dose was associated with findings of ataxia and sedation but no evidence of maternal toxicity.
+Pregnant rabbits were treated with midazolam using intravenous doses of 0.2, 0.6, and 2
 
-Pregnant rabbits were treated with midazolam using oral doses of 25, 50, and 100 mg/kg/day (8, 16, and 32 times the human dose of 1.0 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 6 to 18).
-Midazolam decreased fetal body weight and decreased maternal weight gain in a dose dependent manner.
+mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body
 
-Pregnant rats were administered midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation Day 21).
+surface area comparisons) during the period of organogenesis (Gestation Day 7 to 18).
+
+Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human
+
+induction dose.
+The high dose was associated with findings of ataxia and sedation but no
+
+evidence of maternal toxicity.
+
+Pregnant rats were administered midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day
+
+(0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area
+
+comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation
+
+Day 21).
 All doses produced ataxia.
-The high dose produced a slight decrease in maternal body weight gain compared to control.
+The high dose produced a slight decrease in maternal body
+
+weight gain compared to control.
 There were no clear adverse effects noted in the offspring.
-The study included no functional assessments of the pups, such as learning and memory testing or reproductive capacity.
+The
 
-Pregnant rats were administered midazolam using oral doses of 10, 25, and 50 mg/kg (1.6, 4.1, and 8.1 times the human dose of 1 mg/kg based on body surface area comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation Day 20).
-No adverse effects on fetal development or pup viability or growth were noted.
+study included no functional assessments of the pups, such as learning and memory testing or
 
-In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
-In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
-With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits [See WARNINGS; Pediatric Neurotoxicity, PRECAUTIONS; Pediatric Use, and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY].
+reproductive capacity.
 
-## Labor and Delivery
+In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours
 
-In humans, measurable levels of midazolam were found in maternal venous serum, umbilical venous and arterial serum and amniotic fluid, indicating placental transfer of the drug.
+on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
+In other
 
-The use of midazolam HCl syrup in obstetrics has not been evaluated in clinical studies.
-Because midazolam is transferred transplacentally and because other benzodiazepines given in the last weeks of pregnancy have resulted in neonatal CNS depression, midazolam HCl syrup is not recommended for obstetrical use.
+published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day
+
+120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the
+
+offspring.
+With respect to brain development, this time period corresponds to the third trimester
+
+of gestation in the human.
+The clinical significance of these findings is not clear; however,
+
+studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits
+
+[see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use,and Animal Toxicology and/or Pharmacology].
 
 ## Nursing Mothers
 
-Midazolam is excreted in human milk.
-Caution should be exercised when midazolam HCl syrup is administered to a nursing woman.
+Risk Summary
+
+There are reports of sedation, poor feeding, and poor weight gain in infants exposed to benzodiazepines through breast milk.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Midazolam HCl syrup and any potential adverse effects on the breastfed infants from Midazolam HCl syrup or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to Midazolam HCl syrup through breast milk should be monitored for sedation, poor feeding and poor weight gain.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment for a range of at least 4 to 8 hours after midazolam administration in order to minimize drug exposure to a breastfed infant.
 
 ## Pediatric Use
 
@@ -230,7 +301,7 @@ Based on comparisons across species, the window of vulnerability to these change
 In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
 Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
 The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data.
-[See WARNINGS; Pediatric Neurotoxicity, PRECAUTIONS; Pregnancy, and Pediatric Use and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY].
+[see WARNINGS; Pediatric Neurotoxicity, PRECAUTIONS; Pregnancy, and Pediatric Use and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY].
 
 ## Geriatric Use
 
