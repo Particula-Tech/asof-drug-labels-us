@@ -88,8 +88,7 @@ However, the attributable risk of liver cancers in CHC users is less than one ca
 
 ## 5.4 Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
 
-During clinical trials with some HCV combination drug regimens, ALT elevations were observed in women using ethinyl estradiol containing medications [see Drug Interactions (7)].
-For example, the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with and without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
+During clinical trials with the Hepatitis C combination drug regimen that contains ombitasvir/paritaprevir/ritonavir, with and without dasabuvir, ALT elevations greater than 5 times the upper limit of normal (ULN), including some cases greater than 20 times the ULN, were significantly more frequent in women using ethinyl estradiol-containing medications, such as CHCs.
 Discontinue NuvaRing prior to starting therapy with the combination drug regimen ombitasvir/paritaprevir/ritonavir, with or without dasabuvir [see Contraindications (4)].
 NuvaRing can be restarted approximately 2 weeks following completion of treatment with the Hepatitis C combination drug regimen.
 
@@ -196,9 +195,9 @@ The dose of replacement thyroid hormones or cortisol therapy may need to be incr
 
 A woman who is using NuvaRing should have a yearly visit with her healthcare provider for a blood pressure check and for other indicated healthcare.
 
-## 5.17 Hereditary and Acquired Angioedema
+## 5.17 Hereditary Angioedema
 
-In women with hereditary and acquired angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
+In women with hereditary angioedema, exogenous estrogens may induce or exacerbate symptoms of angioedema.
 
 ## 5.18 Chloasma
 
