@@ -36,4 +36,4 @@ Mylan.com
 
 ERMEZA is a trademark of Mylan Pharmaceuticals Inc., a Viatris Company. © 2022 Viatris Inc.
 
-DPT:37875:1C:R2 117605-0522
+DPT:37875:1C:R3 117715-1222
