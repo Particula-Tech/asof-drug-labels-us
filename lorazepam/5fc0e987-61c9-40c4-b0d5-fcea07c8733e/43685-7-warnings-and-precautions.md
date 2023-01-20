@@ -89,24 +89,10 @@ IN THE EVENT THAT A PATIENT COMPLAINS OF PAIN DURING INTENDED INTRAVENOUS INJECT
 Since the liver is the most likely site of conjugation of lorazepam and since excretion of conjugated lorazepam (glucuronide) is a renal function, this drug is not recommended for use in patients with hepatic and/or renal failure.
 ATIVAN should be used with caution in patients with mild-to-moderate hepatic or renal disease (see DOSAGE AND ADMINISTRATION).
 
-## Pregnancy
+Neonatal Sedation and Withdrawal Syndrome
 
-ATIVAN MAY CAUSE FETAL DAMAGE WHEN ADMINISTERED TO PREGNANT WOMEN.
-Ordinarily, ATIVAN Injection should not be used during pregnancy except in serious or life-threatening conditions where safer drugs cannot be used or are ineffective.
-Status epilepticus may represent such a serious and life-threatening condition.
-
-An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
-In humans, blood levels obtained from umbilical cord blood indicate placental transfer of lorazepam and lorazepam glucuronide.
-
-Reproductive studies in animals were performed in mice, rats, and two strains of rabbits.
-Occasional anomalies (reduction of tarsals, tibia, metatarsals, malrotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage.
-Although all of these anomalies were not present in the concurrent control group, they have been reported to occur randomly in historical controls.
-At doses of 40 mg/kg orally or 4 mg/kg intravenously and higher, there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen at lower doses.
-
-The possibility that a woman of childbearing potential may be pregnant at the time of therapy should be considered.
-
-There are insufficient data regarding obstetrical safety of parenteral lorazepam, including use in cesarean section.
-Such use, therefore, is not recommended.
+Use of ATIVAN Injection late in pregnancy can result in sedation (respiratory depression. lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS, Pregnancy).
+Monitor neonates exposed to Ativan Injection during pregnancy or labor for signs of sedation and monitor neonates exposed to Ativan Injection during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## Usage in Preterm Infants and Neonates
 
@@ -189,6 +175,18 @@ Elderly patients should be told that ATIVAN Injection may make them very sleepy 
 Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
 Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs (see WARNINGS, Pediatric Neurotoxicity).
 
+### PREGNANCY
+
+Advise pregnant females who are administered ATIVAN Injection late in pregnancy that ATIVAN Injection can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS, Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Ativan Injection during pregnancy (see PRECAUTIONS, Pregnancy).
+
+### NURSING
+
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who are administered ATIVAN Injection to monitor infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS, Nursing Mothers).
+
 ## Laboratory Tests
 
 In clinical trials, no laboratory test abnormalities were identified with either single or multiple doses of ATIVAN Injection.
@@ -248,7 +246,69 @@ The results of a preimplantation study in rats, in which the oral lorazepam dose
 
 ## Pregnancy
 
-Teratogenic Effects (see WARNINGS).
+There is a pregnancy registry that monitors pregnancy outcomes in woman exposed to psychiatric medications including ATIVAN Injection during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medication’s at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS, Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognizable pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to Ativan Injection during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to Ativan Injection during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome).
+
+Labor or Delivery
+
+There are insufficient data regarding obstetrical safety of parenteral lorazepam, including use in cesarean section.
+Such use, therefore, is not recommended.
+
+Data
+
+Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition. the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol. tobacco and other medications, have not confirmed these findings.
+
+Animal Data
+
+Reproductive studies in animals were performed in mice, rats, and two strains of rabbits.
+Occasional anomalies (reduction of tarsals, tibia, metatarsals, malrotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage.
+Although all of these anomalies were not present in the concurrent control group; they have been reported to occur randomly in historical controls.
+At doses of 40 mg/kg orally or 4 mg/kg intravenously and higher, there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen al lower doses.
+
+## Nursing
+
+Risk Summary
+
+Lorazepam is present in breast milk.
+There are reports of sedation. poor feeding and poor weight gain in
+
+infants exposed to benzodiazepines through breast milk.
+The effects of lorazepam on milk production are
+
+unknown.
+The developmental and health benefits of breastfeeding should be considered along with the
+
+mother's clinical need for ATIVAN Injection and any potential adverse effects on the breastfed infant from
+
+ATIVAN Injection or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to ATIVAN injection through breast milk should be monitored for sedation, poor feeding
+
+and poor weight gain.
 
 Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
 There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
@@ -257,15 +317,6 @@ In a published study in primates, administration of an anesthetic dose of ketami
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
 The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, Pediatric Neurotoxicity, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
-
-## Labor and Delivery
-
-There are insufficient data to support the use of ATIVAN (lorazepam) Injection during labor and delivery, including cesarean section; therefore, its use in this clinical circumstance is not recommended.
-
-## Nursing Mothers
-
-Lorazepam has been detected in human breast milk.
-Therefore, lorazepam should not be administered to nursing mothers because, like other benzodiazepines, the possibility exists that lorazepam may sedate or otherwise adversely affect the infant.
 
 ## Pediatric Use
 
