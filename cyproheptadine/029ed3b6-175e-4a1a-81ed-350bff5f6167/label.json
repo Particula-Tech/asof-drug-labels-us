@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA088212"
+  ],
+  "inn": "cyproheptadine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-236-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "cyproheptadine hydrochloride",
+      "name": "Cyproheptadine Hydrochloride"
+    }
+  ],
+  "setid": "029ed3b6-175e-4a1a-81ed-350bff5f6167",
+  "source": "dailymed"
+}
