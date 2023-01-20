@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA085070"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-186-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "hydrocortisone",
+      "name": "Hydrocortisone"
+    }
+  ],
+  "setid": "5b707a9f-32b6-42f3-beb6-111df98dfde5",
+  "source": "dailymed"
+}

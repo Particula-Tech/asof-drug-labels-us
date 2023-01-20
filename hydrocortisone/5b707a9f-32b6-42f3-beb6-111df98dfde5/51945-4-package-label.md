@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Hydrocortisone Tablet USP 20mg NDC-62135-186-60 -60s Bottle Label
