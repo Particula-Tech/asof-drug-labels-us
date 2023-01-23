@@ -1454,7 +1454,7 @@ For further support, you can:
 | AC wall plug not properly connected | Ensure that the plug adapter piece (the detachable piece with the metal prongs) is securely attached to the AC wall plug. Then, make sure the AC wall plug is properly connected to an outlet and device. The status lights on the back of the AC wall plug and device should light green. You can conduct a treatment session with the device plugged in. |  |
 | AC wall plug is defective | Use the replacement AC wall plug. Confirm that status light on AC wall plug is green when plugged in. You can conduct a treatment session with the device plugged in. |  |
 | If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
-| Call Support screen appears | Temporary device failure. | Unplug device, if plugged in, and power off device. Power on device and check that Call Support screen does not reappear. Continue treatment. |
+| Call Support screen appears | Temporary device failure. | If device is plugged in, unplug device and wait for the device to power off. Power on device from internal battery and check that Call Support screen does not reappear. Continue taking breaths to complete the treatment session. |
 | If device still does not function after taking corrective actions listed above, contact your specialty pharmacy provider for assistance. |  |  |
 | Loss of power during treatment | Device is disconnected from power source and battery is empty | Reconnect device to power source and confirm the power status light on back of device is green (battery is charging). Press and hold the blue On/Off button to turn on the device. The display will show how many breaths are left in that treatment session. Press and immediately release (do not hold down) the blue button again to continue your treatment session. |
 | Power source is temporarily disrupted (for example, electricity interruption due to a storm) | Reconnect device to power source and confirm the power status light on back of device is green (battery is charging). Press and hold the blue On/Off button to turn on the device. The display will show how many breaths are left in that treatment session. Press and immediately release (do not hold down) the blue button again to continue your treatment session. |  |
@@ -1504,7 +1504,7 @@ For further support, you can:
 
 | TYVASO Mass and Particle Specifications for 9 breaths |  |
 | --- | --- |
-| Mass Median Aerosol Diameter (MMAD)n=108 data points from r=3 inhalation devices. Each data point was 9 breaths. | mean = 2.0 µm SD = 0.3 |
+| Mass Median Aerodynamic Diameter (MMAD)n=108 data points from r=3 inhalation devices. Each data point was 9 breaths. | mean = 2.0 µm SD = 0.3 |
 | Total Emitted Dose per Breathn=216 data points from r=6 inhalation devices. Each data point was 1 breath. | mean = 6.0 µg SD = 0.4 |
 | Total Aerosol Mass | mean = 58 µg SD = 5.9 |
 | Total Respirable Dose | mean = 44.6 µg SD = 3.5 |
@@ -1560,7 +1560,7 @@ Table 2: Guidance and manufacturer's declaration – electromagnetic immunity
 | Voltage dips, short interruptions and voltage variations on power supply input lines IEC 61000-4-11 | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | 0 % UT (100 % dip in UT) for 0,5 cycle 0 % UT (100 % dip in UT) for 1 cycle 70 % UT (30 % dip in UT) for 25/30 cycles 0 % UT (100 % dip in UT) for 250/300 cycle | Mains power quality should be that of a typical commercial or hospital environment. If the user of the TYVASO Inhalation System requires continued operation during power mains interruptions, it is recommended that the TYVASO Inhalation System be powered from an uninterruptible power supply or the internal battery. |
 | Power frequency (50/60 Hz) magnetic field IEC 61000-4-8 | 30 A/m | 30 A/m | Power frequency magnetic fields should be at levels characteristic of a typical location in a typical commercial or hospital environment. |
 | Conducted RF IEC 61000-4-6 Radiated RF IEC 61000-4-3 | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | 3 Vrms 150 kHz to 80 MHz 10 V/m 80 MHz to 2.6 GHz | Portable and mobile RF communications equipment should be used no closer to any part of TYVASO Inhalation System, including cables, than the recommended separation distance calculated from the equation applicable to the frequency of the transmitter. Recommended separation distance d = 1.2 √P d = 1.2 √P 80 MHz to 800 MHz d = 2.3 √P 800 MHz to 2.5 GHz where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer and d is the recommended separation distance in meters (m). Field strengths from fixed RF transmitters, as determined by an electromagnetic site surveyField strengths from fixed transmitters, such as base stations for radio (cellular/cordless) telephones and land mobile radios, amateur radio, AM and FM radio broadcast and TV broadcast cannot be predicted theoretically with accuracy. To assess the electromagnetic environment due to fixed RF transmitters, an electromagnetic site survey should be considered. If the measured field strength in the location in which the TYVASO Inhalation System is used exceeds the applicable RF compliance level above, the TYVASO Inhalation System should be observed to verify normal operation. If abnormal performance is observed, additional measures may be necessary, such as re-orienting or relocating the TYVASO Inhalation System., should be less than the compliance level in each frequency rangeOver the frequency range 150 kHz to 80 MHz, field strengths should be less than [V1] V/m.. Interference may occur in the vicinity of equipment marked with the following symbol: |
-| NOTE UT is the a.c. mains voltage prior to application of the test level. NOTE 1 At 80 MHz and 800 MHz, the higher frequency range applies. NOTE 2 These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structures, objects and people. |  |  |  |
+| NOTE: UT is the a.c. mains voltage prior to application of the test level. NOTE 1: At 80 MHz and 800 MHz, the higher frequency range applies. NOTE 2: These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structures, objects and people. |  |  |  |
 
 Table 3: Manufacturer's Declaration – Recommended separation distances between portable and mobile communications equipment and the TYVASO Inhalation System
 
@@ -1574,7 +1574,7 @@ Table 3: Manufacturer's Declaration – Recommended separation distances between
 | 1 | 1.2 | 1.2 | 2.3 |
 | 10 | 3.8 | 3.8 | 7.3 |
 | 100 | 12 | 12 | 23 |
-| For transmitters rated at a maximum output power not listed above, the recommended separation distance d in meters (m) can be estimated using the equation applicable to the frequency of the transmitter, where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer. NOTE 1 At 80 MHz and 800 MHz, the separation distance for the higher frequency range applies. NOTE 2 These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structures, objects and people. |  |  |  |
+| For transmitters rated at a maximum output power not listed above, the recommended separation distance d in meters (m) can be estimated using the equation applicable to the frequency of the transmitter, where P is the maximum output power rating of the transmitter in watts (W) according to the transmitter manufacturer. NOTE 1: At 80 MHz and 800 MHz, the separation distance for the higher frequency range applies. NOTE 2: These guidelines may not apply in all situations. Electromagnetic propagation is affected by absorption and reflection from structures, objects and people. |  |  |  |
 
 | D: Glossary |
 | --- |
@@ -1677,13 +1677,13 @@ For further questions and information, or to report a problem with your device o
 
 Distributed by: United Therapeutics Corporation Research Triangle Park, North Carolina 27709
 
-© 2021, United Therapeutics Corporation.
+© 2022, United Therapeutics Corporation.
 All rights reserved.
 
-100956
+102040
 
 TYVASO is a registered trademark of United Therapeutics Corporation.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: April 2021
+Revised: August 2022
