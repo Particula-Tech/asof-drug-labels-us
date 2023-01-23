@@ -1,13 +1,12 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-5 mg: Yellow, round, biconvex, coated tablets.
-Debossed “ZD4522” and “5” on one side of the tablet.
+CRESTOR tablets:
 
-10 mg: Pink, round, biconvex, coated tablets.
-Debossed “ZD4522” and “10” on one side of the tablet.
-
-20 mg: Pink, round, biconvex, coated tablets.
-Debossed “ZD4522” and “20” on one side of the tablet.
-
-40 mg: Pink, oval, biconvex, coated tablets.
-Debossed “ZD4522” on one side and “40” on the other side of the tablet.
+- •5 mg of rosuvastatin: yellow, round, biconvex, coated tablets.
+  Debossed “ZD4522” and “5” on one side of the tablet.
+- •10 mg of rosuvastatin: pink, round, biconvex, coated tablets.
+  Debossed “ZD4522” and “10” on one side of the tablet.
+- •20 mg of rosuvastatin: pink, round, biconvex, coated tablets.
+  Debossed “ZD4522” and “20” on one side of the tablet.
+- •40 mg of rosuvastatin: pink, oval, biconvex, coated tablets.
+  Debossed “ZD4522” on one side and “40” on the other side of the tablet.
