@@ -14,7 +14,7 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals LP
+By: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
@@ -38,7 +38,7 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals LP
+By: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
@@ -62,7 +62,7 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals LP
+By: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 
@@ -86,7 +86,7 @@ Mfd. for: AstraZeneca Pharmaceuticals LP
 
 Wilmington, DE 19850
 
-By: IPR Pharmaceuticals LP
+By: IPR Pharmaceuticals, Inc.
 
 Canóvanas, PR 00729
 

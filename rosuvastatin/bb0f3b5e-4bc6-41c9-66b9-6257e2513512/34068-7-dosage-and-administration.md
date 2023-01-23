@@ -1,52 +1,62 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 General Dosing Information
+## 2.1 General Dosage and Administration Information
 
-The dose range for CRESTOR in adults is 5 to 40 mg orally once daily.
-The usual starting dose is 10 to 20 mg once daily.
-The usual starting dose in adult patients with homozygous familial hypercholesterolemia is 20 mg once daily.
+- •Administer CRESTOR orally as a single dose at any time of day, with or without food.
+  The tablet should be swallowed whole.
+- •Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating CRESTOR, and adjust the dosage if necessary.
+- •If a dose is missed, advise patients not take an extra dose.
+  Resume treatment with the next dose.
 
-The maximum CRESTOR dose of 40 mg should be used only for those patients who have not achieved their LDL-C goal utilizing the 20 mg dose [see Warnings and Precautions (5.1)].
+## 2.2 Recommended Dosage in Adult Patients
 
-CRESTOR can be administered as a single dose at any time of day, with or without food.
-The tablet should be swallowed whole.
+- •The dosage range for CRESTOR is 5 to 40 mg orally once daily.
+- •The recommended dose of CRESTOR depends on a patient’s indication for usage, LDL-C, and individual risk for cardiovascular events.
 
-When initiating CRESTOR therapy or switching from another HMG‑CoA reductase inhibitor therapy, the appropriate CRESTOR starting dose should first be utilized, and only then titrated according to the patient’s response and individualized goal of therapy.
+## 2.3 Recommended Dosage in Pediatric Patients
 
-After initiation or upon titration of CRESTOR, lipid levels should be analyzed within 2 to 4 weeks and the dosage adjusted accordingly.
+Dosage in Pediatric Patients 8 Years of Age and Older with HeFH
 
-## 2.2 Pediatric Dosing
+The recommended dosage range is 5 mg to 10 mg orally once daily in patients aged 8 years to less than 10 years and 5 mg to 20 mg orally once daily in patients aged 10 years and older.
 
-In heterozygous familial hypercholesterolemia, the recommended dose range is 5 to 10 mg orally once daily in patients 8 to less than 10 years of age, and 5 to 20 mg orally once daily in patients 10 to 17 years of age.
+Dosage in Pediatric Patients 7 Years of Age and Older with HoFH
 
-In homozygous familial hypercholesterolemia, the recommended dose is 20 mg orally once daily in patients 7 to 17 years of age.
+The recommended dosage is 20 mg orally once daily.
 
-## 2.3 Dosing in Asian Patients
+## 2.4 Dosing in Asian Patients
 
-In Asian patients, consider initiation of CRESTOR therapy with 5 mg once daily due to increased rosuvastatin plasma concentrations.
-The increased systemic exposure should be taken into consideration when treating Asian patients not adequately controlled at doses up to 20 mg/day [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].
+Initiate CRESTOR at 5 mg once daily due to increased rosuvastatin plasma concentrations.
+Consider the risks and benefits of CRESTOR when treating Asian patients not adequately controlled at doses up to 20 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.8), and Clinical Pharmacology (12.3)].
 
-## 2.4 Use with Concomitant Therapy
+## 2.5 Recommended Dosage in Patients with Renal Impairment
 
-Patients taking cyclosporine and darolutamide
+In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m2) not on hemodialysis, the recommended starting dosage is 5 mg once daily and should not exceed 10 mg once daily [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
 
-The dose of CRESTOR should not exceed 5 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.1), Drug Interactions (7.4) and Clinical Pharmacology (12.3)].
+There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.
 
-Patients taking gemfibrozil
+## 2.6 Dosage and Administration Modifications Due to Drug Interactions
 
-Avoid concomitant use of CRESTOR with gemfibrozil.
-If concomitant use cannot be avoided, initiate CRESTOR at 5 mg once daily.
-The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
+CRESTOR Dosage Modifications Due to Drug Interactions
 
-Patients taking regorafenib
+Table 1 displays dosage modifications for CRESTOR due to drug interactions [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
-Concomitant use of CRESTOR and regorafenib, the dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.5) and Clinical Pharmacology (12.3)].
+Table 1: CRESTOR Dosage Modifications Due to Drug Interactions
 
-Patients taking atazanavir and ritonavir, lopinavir and ritonavir, simeprevir or combination of dasabuvir/ombitasvir/paritaprevir/ritonavir, elbasvir/grazoprevir, sofosbuvir/velpatasvir and glecaprevir/pibrentasvir
+| Concomitantly Used Drug | CRESTOR Dosage Modifications |
+| --- | --- |
+| Cyclosporine | Do not exceed 5 mg once daily. |
+| Teriflunomide | Do not exceed 10 mg once daily. |
+| Capmatinib | Do not exceed 10 mg once daily. |
+| Fostamatinib | Do not exceed 20 mg once daily. |
+| Febuxostat | Do not exceed 20 mg once daily. |
+| Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
+| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
+| Antiviral Medications |  |
+| ∘Sofbuvir/velpatasvir/voxilaprevir ∘Ledipasvir/sofosbuvir | Concomitant use not recommended. |
+| ∘Simeprevir∘Dasabuvir/ombitasvir/paritaprevir/ritonavir∘Elbasvir/Grazoprevir∘Sofosbuvir/Velpatasvir∘Glecaprevir/Pibrentasvir∘Atazanavir/Ritonavir ∘Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
+| Darolutamide | Do not exceed 5 mg once daily. |
+| Regorafenib | Do not exceed 10 mg once daily. |
 
-Initiate CRESTOR therapy with 5 mg once daily.
-The dose of CRESTOR should not exceed 10 mg once daily [see Warnings and Precautions (5.1), Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+CRESTOR Administration Modifications Due to Drug Interactions
 
-## 2.5 Dosing in Patients with Severe Renal Impairment
-
-For patients with severe renal impairment (CLcr <30 mL/min/1.73 m2) not on hemodialysis, dosing of CRESTOR should be started at 5 mg once daily and not exceed 10 mg once daily [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+When taking CRESTOR with an aluminum and magnesium hydroxide combination antacid, administer CRESTOR at least 2 hours before the antacid [see Drug Interactions (7.2)].

@@ -1,21 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CRESTOR® (rosuvastatin calcium) Tablets are supplied as:
+CRESTOR tablets are supplied as:
 
-- •NDC 0310-0755-90: 5 mg.
-  Yellow, round, biconvex, coated tablets.
-  Debossed “CRESTOR” and “5” on one side; bottle of 90 tablets
-- •NDC 0310-0751-90: 10 mg.
-  Pink, round, biconvex, coated tablets.
-  Debossed “CRESTOR” and “10” on one side; bottle of 90 tablets
-- •NDC 0310-0752-90: 20 mg.
-  Pink, round, biconvex, coated tablets.
-  Debossed “CRESTOR” and “20” on one side; bottles of 90
-- •NDC 0310-0754-30: 40 mg.
-  Pink, oval, biconvex, coated tablets.
-  Debossed “CRESTOR” on one side and “40” on the other side; bottles of 30
+| Strength | How Supplied | NDC | Tablet Description |
+| --- | --- | --- | --- |
+| 5 mg | bottles of 90 tablets | 0310-755-90 | Yellow, round, biconvex, coated tablets. Debossed “CRESTOR” and “5” on one side |
+| 10 mg | bottles of 90 tablets | 0310-751-90 | Pink, round, biconvex, coated tablets. Debossed “CRESTOR” and “10” on one side |
+| 20 mg | bottles of 90 tablets | 0310-752-90 | Pink, round, biconvex, coated tablets. Debossed “CRESTOR” and “20” on one side |
+| 40 mg | bottles of 30 tablets | 0310-754-30 | Pink, oval, biconvex, coated tablets. Debossed “CRESTOR” on one side and “40” on the other side |
 
 Storage
 
-Store at controlled room temperature, 20‑25ºC (68-77ºF) [see USP Controlled Room Temperature].
+Store at controlled room temperature, 20ºC to 25ºC (68ºF to 77ºF); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 Protect from moisture.
