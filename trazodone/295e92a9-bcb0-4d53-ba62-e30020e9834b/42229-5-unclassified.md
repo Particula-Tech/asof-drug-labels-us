@@ -171,4 +171,4 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about Trazodone hydrochloride tablets that is written for health professionals.
 What are the ingredients in Trazodone hydrochloride tablets?
 Active ingredient: trazodone hydrochloride, USP Inactive ingredients: colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized starch (physically modified corn (maize) starch), sodium lauryl sulfate, and sodium starch glycolate.
-This Medication Guide has been approved by the U.S. Food and Drug Administration Dispense with Medication Guide available at www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Revised: 01/2020
+This Medication Guide has been approved by the U.S. Food and Drug Administration Dispense with Medication Guide available at www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Revised: 06/2022

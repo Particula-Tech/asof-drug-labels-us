@@ -34,4 +34,4 @@ Concomitant Medications
 
 Advise patients to inform their health care providers if they are taking, or plan to take any prescription or over-the-counter medications since there is a potential for interactions [see Drug Interactions (7.1)].
 
-Dispense with Medication Guide available at www.aurobindousa.com/product-medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Revised: 01/2020
+Dispense with Medication Guide available at www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Revised: 06/2022
