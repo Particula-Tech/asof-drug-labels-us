@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Lopressor, metoprolol tartrate USP is a selective beta1-adrenoreceptor blocking agent, available as 50 mg and 100 mg tablets for oral administration.
-Metoprolol tartrate USP is (±)-1-(Isopropylamino)-3-[p-(2-methoxyethyl)phenoxy]-2-propanol L-(+)-tartrate (2:1) salt, and its structural formula is
+Metoprolol tartrate USP is (±)-1-(Isopropylamino)-3-[p-(2-methoxyethyl) phenoxy]-2-propanol L-(+)-tartrate (2:1) salt, and its structural formula is
 
 Metoprolol tartrate USP is a white, practically odorless, crystalline powder with a molecular weight of 684.82.
 It is very soluble in water; freely soluble in methylene chloride, in chloroform, and in alcohol; slightly soluble in acetone; and insoluble in ether.
