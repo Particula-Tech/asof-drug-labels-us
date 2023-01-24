@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA070311"
+  ],
+  "inn": "diazepam",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6243-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "diazepam",
+      "name": "Diazepam"
+    }
+  ],
+  "setid": "f466f8a3-f31c-44f4-b0e8-444464f20f66",
+  "source": "dailymed"
+}
