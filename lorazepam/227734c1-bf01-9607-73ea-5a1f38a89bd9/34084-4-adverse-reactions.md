@@ -8,6 +8,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Central Nervous System (CNS) Depression [see Warnings and Precautions (5.4)]
 - Patients with Depression or Psychosis [see Warnings and Precautions (5.5)]
 - Allergic Reactions to FD&C Yellow No. 5 (Tartrazine) [see Warnings and Precautions (5.7)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 - Risk in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
 
 The safety of LOREEV XR in adults is based on studies with lorazepam tablets.

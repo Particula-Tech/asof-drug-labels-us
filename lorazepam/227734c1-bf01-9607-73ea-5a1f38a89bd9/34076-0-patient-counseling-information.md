@@ -37,10 +37,13 @@ Administration Information
 Advise patients to take LOREEV XR capsules whole or open the capsule and sprinkle the entire contents over a tablespoon of applesauce, followed by drinking water.
 Advise patients to consume the mixture immediately, without chewing, within 2 hours; do not store for future use [see Dosage and Administration (2.2)].
 
-Pregnancy Registry
+Pregnancy
+
+Advise pregnant females that use of LOREEV XR late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8), Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant.
 
 Advise pregnant women that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to LOREEV XR [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with LOREEV XR [see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding is not recommended during treatment with LOREEV XR [see Use in Specific Populations (8.2)].

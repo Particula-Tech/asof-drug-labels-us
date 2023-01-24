@@ -5,18 +5,16 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to LOREEV XR during pregnancy.
-Health care providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or by visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/othermedications.
+Health care providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or by visiting online at https://womensmentalhealth.org/pregnancyregistry.
 
 Risk Summary
 
-Infants born to mothers using benzodiazepines during the later stages of pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8), Clinical Considerations].
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8), Clinical Considerations].
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
-Available data from observational studies have identified a small increased relative risk with benzodiazepine use in early pregnancy and miscarriage, and a small increase in relative risk with benzodiazepine use later in pregnancy and preterm birth (see Data).
-
 In animal studies, administration of lorazepam during the organogenesis period of pregnancy resulted in increased incidences of fetal malformations at doses greater than those used clinically.
 Data for benzodiazepines suggest the possibility of increased neuronal cell death and long-term effects on neurobehavioral function based on findings in animals following prenatal or early postnatal exposure at clinically relevant doses (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
@@ -25,16 +23,14 @@ Clinical Considerations
 Fetal/Neonatal Adverse Reactions
 
 Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
-Monitor neonates exposed to benzodiazepines during pregnancy and labor for signs of sedation, respiratory depression, hypotonia, and feeding problems Monitor neonates exposed to benzodiazepines during pregnancy for signs of withdrawal.
+Monitor neonates exposed to LOREEV XR during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to LOREEV XR during pregnancy for signs of withdrawal.
 Manage these neonates accordingly [see Warnings and Precautions (5.8)].
 
 Data
 
 Human Data
 
-Available data from observational studies suggest a possible association between benzodiazepine use in early pregnancy and risk of miscarriage.
-Data from observational studies also suggest a small increased relative risk with benzodiazepine use later in pregnancy and preterm birth.
-Important methodological limitations with these studies include the uncertainty of whether women who filled a prescription actually took the medication and inability to control for severity of underlying disease.
 Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
 Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
 In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
@@ -54,14 +50,10 @@ The window of vulnerability to these changes in rats (postnatal days 0-14) inclu
 Risk Summary
 
 Lorazepam is present in breastmilk.
-
-There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk (see Clinical Considerations).
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
 The effects of lorazepam on milk production are unknown.
-Because of the potential for serious adverse reactions, including sedation and withdrawal, advise patients that breastfeeding is not recommended during treatment with LOREEV XR.
 
-Clinical Considerations
-
-Infants exposed to LOREEV XR through breast milk should be monitored for sedation, poor feeding, and poor weight gain.
+Because of the potential for serious adverse reactions, including sedation and withdrawal symptoms in breastfed infants, advise patients that breastfeeding is not recommended during treatment with LOREEV XR.
 
 ## 8.4 Pediatric Use
 

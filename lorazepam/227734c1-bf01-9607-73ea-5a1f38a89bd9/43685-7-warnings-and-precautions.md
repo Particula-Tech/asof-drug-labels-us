@@ -68,8 +68,8 @@ Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in 
 
 ## 5.8 Neonatal Sedation and Withdrawal Syndrome
 
-Use of LOREEV XR during the later stages of pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
-Monitor neonates exposed to benzodiazepines during pregnancy and labor for signs of sedation and neonates exposed to LOREEV XR during pregnancy for signs of withdrawal; manage these infants accordingly.
+Use of LOREEV XR late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
+Monitor neonates exposed to LOREEV XR during pregnancy or labor for signs of sedation and monitor neonates exposed to LOREEV XR during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## 5.9 Risk in Patients with Impaired Respiratory Function
 
