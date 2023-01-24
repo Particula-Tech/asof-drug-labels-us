@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Dimethyl fumarate delayed-release capsules contain dimethyl fumarate which is also known by its chemical name, dimethyl (E) butenedioate, (C6H8O4).
+Dimethyl fumarate delayed-release capsules contain dimethyl fumarate which is also known by its chemical name, dimethyl (E) butenedioate, (C 6H 8O 4).
 It has the following structure:
 
 Dimethyl fumarate is a white to off white powder that is slightly soluble in dimethylformamide with a molecular mass of 144.13.

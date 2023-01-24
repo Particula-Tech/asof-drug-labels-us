@@ -45,7 +45,6 @@ Dimethyl fumarate delayed-release capsules had a statistically significant effec
 There was no statistically significant effect on disability progression.
 The dimethyl fumarate delayed-release capsules 240 mg three times daily dose resulted in no additional benefit over the dimethyl fumarate delayed-release capsules 240 mg twice daily dose.
 The results for this study (240 mg twice a day vs. placebo) are shown in Table 3.
-
 Table 3: Clinical and MRI Results of Study 2
 
 |  | Dimethyl Fumarate Delayed-Release Capsules 240 mg BID | Placebo | P-value |

@@ -11,9 +11,9 @@ Mutagenesis Dimethyl fumarate (DMF) and monomethyl fumarate (MMF) were not mutag
 DMF and MMF were clastogenic in the in vitro chromosomal aberration assay in human peripheral blood lymphocytes in the absence of metabolic activation.
 DMF was not clastogenic in the in vivo micronucleus assay in the rat.
 Impairment of Fertility In male rats, oral administration of DMF (75, 250, and 375 mg/kg/day) prior to and throughout the mating period had no effect on fertility; however, increases in non-motile sperm were observed at the mid and high doses.
-The no-effect dose for adverse effects on sperm is similar to the recommended human dose (RHD) of 480 mg/day on a body surface area (mg/m2) basis.
+The no-effect dose for adverse effects on sperm is similar to the recommended human dose (RHD) of 480 mg/day on a body surface area (mg/m 2) basis.
 In female rats, oral administration of DMF (20, 100, and 250 mg/kg/day) prior to and during mating and continuing to gestation day 7 caused disruption of the estrous cycle and increases in embryolethality at the highest dose tested.
-The highest dose not associated with adverse effects (100 mg/kg/day) is twice the RHD on a mg/m2 basis.
+The highest dose not associated with adverse effects (100 mg/kg/day) is twice the RHD on a mg/m 2 basis.
 Testicular toxicity (germinal epithelial degeneration, atrophy, hypospermia, and/or hyperplasia) was observed at clinically relevant doses in mice, rats, and dogs in subchronic and chronic oral toxicity studies of DMF, and in a chronic oral toxicity study evaluating a combination of four fumaric acid esters (including DMF) in rats.
 
 ## 13.2 Animal Toxicology and/or Pharmacology

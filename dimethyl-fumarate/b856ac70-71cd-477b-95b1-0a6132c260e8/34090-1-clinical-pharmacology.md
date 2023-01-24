@@ -17,18 +17,18 @@ After oral administration of dimethyl fumarate delayed-release capsules, dimethy
 Dimethyl fumarate is not quantifiable in plasma following oral administration of dimethyl fumarate delayed-release capsules.
 Therefore all pharmacokinetic analyses related to dimethyl fumarate delayed-release capsules were performed with plasma MMF concentrations.
 Pharmacokinetic data were obtained in subjects with multiple sclerosis and healthy volunteers.
-Absorption The median Tmax of MMF is 2 to 2.5 hours.
-The peak plasma concentration (Cmax) and overall exposure (AUC) increased approximately dose proportionally in the dose range studied (120 mg to 360 mg).
-Following administration of dimethyl fumarate delayed-release capsules 240 mg twice a day with food, the mean Cmax of MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
-A high-fat, high-calorie meal did not affect the AUC of MMF but decreased its Cmax by 40%.
-The Tmax was delayed from 2.0 hours to 5.5 hours.
+Absorption The median T max of MMF is 2 to 2.5 hours.
+The peak plasma concentration (C max) and overall exposure (AUC) increased approximately dose proportionally in the dose range studied (120 mg to 360 mg).
+Following administration of dimethyl fumarate delayed-release capsules 240 mg twice a day with food, the mean C max of MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
+A high-fat, high-calorie meal did not affect the AUC of MMF but decreased its C max by 40%.
+The T max was delayed from 2.0 hours to 5.5 hours.
 In this study, the incidence of flushing was reduced by approximately 25% in the fed state.
 Distribution The apparent volume of distribution of MMF varies between 53 and 73 L in healthy subjects.
 Human plasma protein binding of MMF is 27 to 45% and independent of concentration.
 Metabolism In humans, dimethyl fumarate is extensively metabolized by esterases, which are ubiquitous in the gastrointestinal tract, blood, and tissues, before it reaches the systemic circulation.
 Further metabolism of MMF occurs through the tricarboxylic acid (TCA) cycle, with no involvement of the cytochrome P450 (CYP) system.
 MMF, fumaric and citric acid, and glucose are the major metabolites in plasma.
-Elimination Exhalation of CO2 is the primary route of elimination, accounting for approximately 60% of the dimethyl fumarate delayed-release capsules dose.
+Elimination Exhalation of CO 2 is the primary route of elimination, accounting for approximately 60% of the dimethyl fumarate delayed-release capsules dose.
 Renal and fecal elimination are minor routes of elimination, accounting for 16% and 1% of the dose respectively.
 Trace amounts of unchanged MMF were present in urine.
 The terminal half-life of MMF is approximately 1 hour and no circulating MMF is present at 24 hours in the majority of individuals.
