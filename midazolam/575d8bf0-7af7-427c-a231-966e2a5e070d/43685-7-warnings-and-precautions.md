@@ -70,21 +70,12 @@ Gross tests of recovery from the effects of midazolam (see CLINICAL PHARMACOLOGY
 It is recommended that no patient operate hazardous machinery or a motor vehicle until the effects of the drug, such as drowsiness, have subsided or until one full day after anesthesia and surgery, whichever is longer.
 For pediatric patients, particular care should be taken to assure safe ambulation.
 
-## Usage in Pregnancy
+## Neonatal Sedation and Withdrawal Syndrome
 
-An increased risk of congenital malformations associated with the use of benzodiazepine drugs (diazepam and chlordiazepoxide) has been suggested in several studies.
-If this drug is used during pregnancy, the patient should be apprised of the potential hazard to the fetus.
-
-Withdrawal symptoms of the barbiturate type have occurred after the discontinuation of benzodiazepines (see DRUG ABUSE AND DEPENDENCE section).
+Use of Midazolam Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to Midazolam Injection during pregnancy or labor for signs of sedation and monitor neonates exposed to Midazolam Injection during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## Usage in Preterm Infants and Neonates
-
-Rapid injection should be avoided in the neonatal population.
-Midazolam administered rapidly as an intravenous injection (less than 2 minutes) has been associated with severe hypotension in neonates, particularly when the patient has also received fentanyl.
-Likewise, severe hypotension has been observed in neonates receiving a continuous infusion of midazolam who then receive a rapid intravenous injection of fentanyl.
-Seizures have been reported in several neonates following rapid intravenous administration.
-
-The neonate also has reduced and/or immature organ function and is also vulnerable to profound and/or prolonged respiratory effects of midazolam.
 
 Exposure to excessive amounts of benzyl alcohol has been associated with toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
 There have been rare reports of deaths, primarily in preterm infants, associated with exposure to excessive amounts of benzyl alcohol.
@@ -131,10 +122,20 @@ To assure safe and effective use of benzodiazepines, the following information a
 4. Patients should be informed of the pharmacological effects of midazolam, such as sedation and amnesia, which in some patients may be profound.
    The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 5. Patients receiving continuous infusion of midazolam in critical care settings over an extended period of time may experience symptoms of withdrawal following abrupt discontinuation.
-6. Effect of anesthetic and sedation drugs on early brain development
+6. Effect of anesthetic and sedation drugs on early brain development.
+   Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
+   Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
 
-Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
-Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
+Pregnancy
+
+Advise pregnant females that use of Midazolam Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Nursing
+
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients receiving midazolam to monitor infants for excessive sedation, poor feeding. and poor weight gain, and to seek medical attention if they notice these signs.
+A lactating woman may consider pumping and discarding breastmilk for at least 4 to 8 hours after receiving midazolam for sedation or anesthesia to minimize drug exposure to a breastfed infant (see PRECAUTIONS: Nursing Mothers).
 
 ## Drug Interactions
 
@@ -212,12 +213,30 @@ There were no adverse effects on either male or female fertility noted.
 
 ## Pregnancy
 
-Teratogenic Effects: Pregnancy Category D (see WARNINGS)
+Risk Summary
 
-Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
-There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans (see Data).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
-### Data
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
+Monitor neonates exposed to Midazolam injection during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems Monitor neonates exposed to Midazolam injection during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+Data
+
+Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
 
 Animal Data
 
@@ -226,11 +245,11 @@ Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 time
 All doses produced slight to moderate ataxia.
 The high dose produced a 5% decrease in maternal body weight gain compared to control.
 
-Pregnant rabbits were treated with midazolam using intravenous doses of 0.2, 0.6, and 2 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 7 to 18).
+Pregnant rabbits were treated with midazolam using intravenous doses of 0.2, 0.6, and 2 mg/kg/day (0.09,0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 7 to 18).
 Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human induction dose.
 The high dose was associated with findings of ataxia and sedation but no evidence of maternal toxicity.
 
-Pregnant rats were administered midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation Day 21).
+Pregnant rats were administered midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day (0.09,0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation Day 21).
 All doses produced ataxia.
 The high dose produced a slight decrease in maternal body weight gain compared to control.
 There were no clear adverse effects noted in the offspring.
@@ -239,20 +258,22 @@ The study included no functional assessments of the pups, such as learning and m
 In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (See WARNINGS: Pediatric Neurotoxicity, PRECAUTIONS: Pediatric Use, and ANIMAL PHARMACOLOGY AND/OR TOXICOLOGY).
-
-## Labor and Delivery
-
-In humans, measurable levels of midazolam were found in maternal venous serum, umbilical venous and arterial serum and amniotic fluid, indicating placental transfer of the drug.
-Following intramuscular administration of 0.05 mg/kg of midazolam, both the venous and the umbilical arterial serum concentrations were lower than maternal concentrations.
-
-The use of injectable midazolam in obstetrics has not been evaluated in clinical studies.
-Because midazolam is transferred transplacentally and because other benzodiazepines given in the last weeks of pregnancy have resulted in neonatal CNS depression, midazolam is not recommended for obstetrical use.
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS: Pediatric Neurotoxicity, PRECAUTIONS: Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Nursing Mothers
 
-Midazolam is excreted in human milk.
-Caution should be exercised when midazolam is administered to a nursing woman.
+Risk Summary
+
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+Based on data from published studies, midazolam is present in human milk in low levels (see Data).
+There are no data on the effects of midazolam on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Midazolam injection and any potential adverse effects on the breastfed infant from Midazolam injection or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to Midazolam injection through breast milk should be monitored for sedation, poor feeding and poor weight gain.
+Alactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment for a range of at least 4 to 8 hours after midazolam administration in order to minimize drug exposure to a breastfed infant.
 
 ## Pediatric Use
 

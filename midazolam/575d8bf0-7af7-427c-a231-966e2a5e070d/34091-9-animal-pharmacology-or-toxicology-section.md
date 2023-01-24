@@ -17,6 +17,6 @@ Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-Revised September 2021
+Revised January 2023
 
-462-051-12
+462-051-13
