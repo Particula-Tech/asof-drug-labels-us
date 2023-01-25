@@ -12,15 +12,15 @@ This information does not take the place of talking to your healthcare provider 
 
 | Important information you need to know before using TYRVAYA: | Parts of your TYRVAYA nasal spray: |
 | --- | --- |
-| TYRVAYA is for use in the nose. Do not shake the bottles. The TYRVAYA carton contains enough medicine for 30 days. Each carton has 2 glass nasal spray bottles. Each nasal spray bottle has enough medicine for 15 days of treatment. Do not open the second nasal spray bottle until you have used the entire first bottle. |  |
+| •TYRVAYA is for use in the nose. •Do not shake the bottles. •The TYRVAYA carton contains enough medicine for 30 days. •Each carton has 2 glass nasal spray bottles. •Each nasal spray bottle has enough medicine for 15 days of treatment. •Do not open the second nasal spray bottle until you have used the entire first bottle. |  |
 | Steps for priming TYRVAYA before first Use |  |
 | Step 1. Remove the cap and the clip. Do not throw away the cap or the clip. The cap and the clip will be placed back on to the nasal applicator after each use. |  |
 | Step 2. Hold the nasal spray bottle upright and away from your face. Place 1 finger on each side of the base of the nasal applicator and place your thumb underneath the bottle. |  |
 | Step 3. Prime the nasal spray bottle by pressing and releasing the nasal applicator 7 times with your thumb and fingers. You may not see a spray released each time you press and release the nasal applicator. Spray away from yourself and others. TYRVAYA is now primed for use. |  |
 
-- Reprime: If you do not use TYRVAYA for more than 5 days, you will need to reprime the nasal spray bottle with 1 spray before you start using it.
+- •Reprime: If you do not use TYRVAYA for more than 5 days, you will need to reprime the nasal spray bottle with 1 spray before you start using it.
   To reprime, hold the nasal spray bottle upright and away from your face and press and release the nasal spray applicator 1 time.
-- Avoid priming the nasal spray bottle more than needed: Priming the nasal spray bottle more than needed will reduce the amount of medicine in the nasal spray bottle.
+- •Avoid priming the nasal spray bottle more than needed: Priming the nasal spray bottle more than needed will reduce the amount of medicine in the nasal spray bottle.
 
 | Steps for using TYRVAYA nasal spray after priming |  |
 | --- | --- |
@@ -41,4 +41,4 @@ TYRVAYA™ and/or the use of TYRVAYA™ in a method may be covered by one or mor
 
 Manufactured for: Oyster Point Pharma, Inc., 202 Carnegie Center, Suite 109, Princeton, NJ 08540
 
-©2021 Oyster Point Pharma, Inc. Issued: 10/2021
+1. ©2021 Oyster Point Pharma, Inc. Issued: 10/2021
