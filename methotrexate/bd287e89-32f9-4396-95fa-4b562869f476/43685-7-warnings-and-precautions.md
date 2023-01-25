@@ -13,9 +13,8 @@ Advise males with female partners of reproductive potential to use effective con
 
 ## 5.2 Hypersensitivity Reactions
 
-Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Adverse Reactions (6.1)Error!
-Hyperlink reference not valid.].
-If signs or symptoms of anaphylaxis or any other serious hypersensitivity reaction occurs, immediately discontinue Methotrexate Injection and institute appropriate therapy [see Contraindications (4)].
+Hypersensitivity reactions, including anaphylaxis, can occur with methotrexate [see Error!
+Hyperlink reference not valid.]If signs or symptoms of anaphylaxis or any other serious hypersensitivity reaction occurs, immediately discontinue Methotrexate Injection and institute appropriate therapy [see Contraindications (4)].
 
 ## 5.3 Risks of Serious Adverse Reactions due to Benzyl Alcohol-Preservative
 
