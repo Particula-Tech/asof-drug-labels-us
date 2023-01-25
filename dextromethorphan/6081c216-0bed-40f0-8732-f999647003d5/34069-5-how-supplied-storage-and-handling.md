@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Promethazine hydrochloride and dextromethorphan hydrobromide oral solution is available as a clear, yellow colored, berry-flavored oral solution containing 6.25 mg promethazine hydrochloride, USP, 15 mg dextromethorphan hydrobromide, USP and 7 percent alcohol in each teaspoonful (5 mL).
+Promethazine hydrochloride and dextromethorphan hydrobromide oral solution is available as a clear, yellow to orange colored, berry-flavored oral solution containing 6.25 mg promethazine hydrochloride, USP, 15 mg dextromethorphan hydrobromide, USP and 7 percent alcohol in each teaspoonful (5 mL).
 
 It is supplied as follows:
 
@@ -21,4 +21,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-09-2019-00
+12-2022-01
