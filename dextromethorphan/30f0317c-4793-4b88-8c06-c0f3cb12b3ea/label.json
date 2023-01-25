@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213125"
+  ],
+  "inn": "dextromethorphan",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-302-47",
+    "62135-302-48"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "brompheniramine maleate, pseudoephedrine hydrochloride, and dextromethorphan hydrobromide",
+      "name": "Brompheniramine Maleate, Pseudoephedrine Hydrochloride, and Dextromethorphan Hydrobromide"
+    }
+  ],
+  "setid": "30f0317c-4793-4b88-8c06-c0f3cb12b3ea",
+  "source": "dailymed"
+}
