@@ -16,15 +16,11 @@ Patients should be advised of the following:
 Long-term studies to assess the carcinogenic potential of ketoconazole shampoo, 2% have not been conducted.
 A long-term feeding study of ketoconazole in Swiss Albino mice and in Wistar rats showed no evidence of oncogenic activity.
 The dominant lethal mutation test in male and female mice revealed that single oral doses of ketoconazole as high as 80 mg/kg were not genotoxic.
-The Ames Salmonella microsomal activator assay was also negative.
+The Ames Salmonella microsomal activator assay was also negative
 
-## Pregnancy:
+## Pregnancy
 
-### Teratogenic effects:
-
-#### Pregnancy Category C-
-
-There are no adequate and well-controlled studies in pregnant women.
+Teratogenic effects: Pregnancy Category C - There are no adequate and well-controlled studies in pregnant women.
 Ketoconazole should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 In humans, ketoconazole is not detected in plasma after chronic shampooing on the scalp.
 

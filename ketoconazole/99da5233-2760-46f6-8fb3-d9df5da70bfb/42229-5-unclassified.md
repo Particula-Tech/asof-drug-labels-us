@@ -1,31 +1,17 @@
 Rx Only
 
-Made in Israel
-
-Manufactured By Perrigo
+Manufactured By Padagis
 
 Yeruham, Israel
 
-OR
-
-Manufactured By Perrigo
-
-Bronx, NY 10457
-
 Distributed By
 
-Perrigo®
+Padagis
 
 Allegan, MI 49010
 
-www.perrigo.com
+www.padagis.com
 
-4L926RCF5
+4L926RCF6
 
-Rev 03-17
-
-OR
-
-2P326RCF6
-
-Rev 08-14
+Rev 10-22
