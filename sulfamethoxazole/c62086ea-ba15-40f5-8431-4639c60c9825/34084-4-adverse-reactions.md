@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
-The most common adverse effects are gastrointestinal disturbances (nausea, vomiting, anorexia) and allergic skin reactions (such as rash and urticaria).
-FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HAVE OCCURRED DUE TO SEVERE REACTIONS, INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS (SEE WARNINGS SECTION).
+The most common adverse reactions are gastrointestinal disturbances (nausea, vomiting, anorexia) and allergic skin reactions (such as rash and urticaria).
+Fatalities and serious adverse reactions, including severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products, (see WARNINGS).
 
 ## Hematologic
 
@@ -9,8 +9,7 @@ Agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, neutropenia, hem
 
 ## Allergic Reactions
 
-Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schönlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria and rash.
-In addition, periarteritis nodosa and systemic lupus erythematosus have been reported.
+Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schönlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria and rash, periarteritis nodosa, systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized erythematous pustulosis (AGEP), and acute febrile neutrophilic dermatosis (AFND) (see WARNINGS).
 
 ## Gastrointestinal
 
@@ -45,7 +44,7 @@ Isolated cases of rhabdomyolysis have been reported with sulfamethoxazole and tr
 
 ## Respiratory
 
-Cough, shortness of breath and pulmonary infiltrates (see WARNINGS).
+Cough, shortness of breath, pulmonary infiltrates, acute eosinophilic pneumonia, acute and delayed lung injury, interstitial lung disease, acute respiratory failure (see WARNINGS).
 
 ## Cardiovascular
 
@@ -60,5 +59,5 @@ Weakness, fatigue, insomnia.
 The following adverse reactions have been identified during post-approval use of trimethoprim-sulfamethoxazole.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Σ Thrombotic thrombocytopenia purpura
-- Σ Idiopathic thrombocytopenic purpura
+- Thrombotic thrombocytopenia purpura
+- Idiopathic thrombocytopenic purpura

@@ -8,6 +8,20 @@ Clinical signs, such as rash, sore throat, fever, arthralgia, pallor, purpura or
 
 Cough, shortness of breath, and pulmonary infiltrates are hypersensitivity reactions of the respiratory tract that have been reported in association with sulfonamide treatment.
 
+## Hypersensitivity and Other Serious or Fatal Reactions
+
+Fatalities and serious adverse reactions including severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products,(see ADVERSE REACTIONS).
+
+Cough, shortness of breath, and pulmonary infiltrates potentially representing hypersensitivity reactions of the respiratory tract have been reported in association with sulfamethoxazole and trimethoprim treatment.
+
+Other severe pulmonary adverse reactions occurring within days to weeks of sulfamethoxazole and trimethoprim initiation and resulting in prolonged respiratory failure requiring mechanical ventilation or extracorporeal membrane oxygenation (ECMO), lung transplantation or death have also been reported in patients and otherwise healthy individuals treated with sulfamethoxazole and trimethoprim products.
+
+Circulatory shock with fever, severe hypotension, and confusion requiring intravenous fluid resuscitation and vasopressors has occurred within minutes to hours of re-challenge with trimethoprim-sulfamethoxazole products in patients with history of recent (days to weeks) exposure to sulfamethoxazole and trimethoprim.
+
+Sulfamethoxazole and trimethoprim should be discontinued at the first appearance of skin rash or any sign of a serious adverse reaction.
+A skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis, or serious blood disorders (see PRECAUTIONS and ADVERSE REACTIONS).
+Clinical signs, such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice may be early indications of serious reactions.
+
 ## Thrombocytopenia
 
 Sulfamethoxazole/trimethoprim-induced thrombocytopenia may be an immune-mediated disorder.
@@ -111,8 +125,7 @@ Like other sulfonamide-containing drugs, sulfamethoxazole and trimethoprim poten
 
 In the literature, a single case of toxic delirium has been reported after concomitant intake of sulfamethoxazole/trimethoprim and amantadine.
 
-In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.
-7,8
+In the literature, three cases of hyperkalemia in elderly patients have been reported after concomitant intake of sulfamethoxazole/trimethoprim and an angiotensin converting enzyme inhibitor.7,8
 
 ## Drug/Laboratory Test Interactions
 
