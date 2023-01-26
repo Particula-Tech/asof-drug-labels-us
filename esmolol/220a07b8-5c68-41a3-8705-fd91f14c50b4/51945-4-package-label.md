@@ -12,30 +12,6 @@ MANUFACTURED BY Baxter Logo USA novaplus logo
 
 460-324-01 2J1416
 
-10 x 100 mL Single Use NDC 10019-668-10 INTRAVIA containers BREVIBLOC PREMIXED Double Strength Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL) Store at 25˚C (77˚F).
-Excursions permitted to 15˚-30˚C (59˚-86˚F).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-
-2D DATA MATRIX BAR CODE PLACEMENT ONLY
-
-Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
-
-Rx only
-
-(01)50310019668104 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
-
-Code 2J1416 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 475-345-00 07-06-00-0285
-
-EXP LOT
-
-BAR CODE PLACEMENT ONLY
-
-(01)50310019668104(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMDD(10)XXXXXXXXX
-
 LOT EXP
 
 NDC 10019-672-10 BREVIBLOC PREMIXED Double Strength Injection Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
@@ -49,25 +25,3 @@ USUAL DOSAGE SEE PACKAGE INSERT CAUTIONS CHECK FOR LE AKS BY SQUEEZING CONTAINER
 MANUFACTURED BY BAXTER LOGO novaplus logo USA
 
 INTRAVIA CONTAINER 460-327-02 2J1417 FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784)
-
-10 x 250 mL Single Use NDC 10019-672-10 INTRAVIA containers BREVIBLOC PREMIXED Injection Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL) Store at 25˚C (77˚F).
-Excursions permitted to 15˚-30˚C (59˚-86˚F).
-[See USP Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-
-2D DATA MATRIX BAR CODE PLACEMENT ONLY
-
-Baxter, Brevibloc Premixed and IntraVia are trademarks of Baxter International Inc.
-
-Rx only
-
-(01)50310019672101 (21)NNNNNNNNN (17)YYMMDD (10)XXXXXXX
-
-Code 2J1417 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
-
-Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in USA 475-344-00 07-06-00-0286
-
-EXP LOT
-
-BAR CODE PLACEMENT ONLY (01)50310019672101(21)NNNNNNNNNNNNNNNNNNNN(17)YYMMDD(10)XXXXXXXXX
