@@ -38,7 +38,7 @@ Table 1: Cumulative Incidence of Adverse Reactions for ULTRAM in Chronic Trials 
 | Somnolence | 16% | 23% | 25% |
 | Vomiting | 9% | 13% | 17% |
 | Pruritus | 8% | 10% | 11% |
-| "CNS Stimulation""CNS Stimulation" is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional lability and hallucinations | 7% | 11% | 14% |
+| "CNS Stimulation" "CNS Stimulation" is a composite of nervousness, anxiety, agitation, tremor, spasticity, euphoria, emotional lability and hallucinations | 7% | 11% | 14% |
 | Asthenia | 6% | 11% | 12% |
 | Sweating | 6% | 7% | 9% |
 | Dyspepsia | 5% | 9% | 13% |

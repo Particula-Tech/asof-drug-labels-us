@@ -83,11 +83,11 @@ Figure 1: Mean Tramadol and M1 Plasma Concentration Profiles after a Single 100 
 
 Table 3: Mean (%CV) Pharmacokinetic Parameters for Racemic Tramadol and M1 Metabolite
 
-| Population/Dosage RegimenSD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily | Parent Drug/ Metabolite | Peak Conc.(ng/mL) | Time to Peak (hrs) | Clearance/FF represents the oral bioavailability of tramadol (mL/min/Kg) | t1/2 (hrs) |
+| Population/Dosage Regimen SD = Single dose, MD = Multiple dose, p.o.= Oral administration, i.v.= Intravenous administration, q.i.d. = Four times daily | Parent Drug/ Metabolite | Peak Conc.(ng/mL) | Time to Peak (hrs) | Clearance/F F represents the oral bioavailability of tramadol (mL/min/Kg) | t 1/2 (hrs) |
 | --- | --- | --- | --- | --- | --- |
-| Healthy Adults, 100 mg qid, MD p.o. | Tramadol M1 | 592 (30) 110 (29) | 2.3 (61) 2.4 (46) | 5.90 (25)Not applicable | 6.7 (15) 7.0 (14) |
+| Healthy Adults, 100 mg qid, MD p.o. | Tramadol M1 | 592 (30) 110 (29) | 2.3 (61) 2.4 (46) | 5.90 (25) Not applicable | 6.7 (15) 7.0 (14) |
 | Healthy Adults, 100 mg SD p.o. | Tramadol M1 | 308 (25) 55.0 (36) | 1.6 (63) 3.0 (51) | 8.50 (31) | 5.6 (20) 6.7 (16) |
-| Geriatric, (>75 yrs) 50 mg SD p.o. | Tramadol M1 | 208 (31)Not measured | 2.1 (19) | 6.89 (25) | 7.0 (23) |
+| Geriatric, (>75 yrs) 50 mg SD p.o. | Tramadol M1 | 208 (31) Not measured | 2.1 (19) | 6.89 (25) | 7.0 (23) |
 | Hepatic Impaired, 50 mg SD p.o. | Tramadol M1 | 217 (11) 19.4 (12) | 1.9 (16) 9.8 (20) | 4.23 (56) | 13.3 (11) 18.5 (15) |
 | Renal Impaired, CLcr10–30 mL/min 100 mg SD i.v. | Tramadol M1 |  |  | 4.23 (54) | 10.6 (31) 11.5 (40) |
 | Renal Impaired, CLcr<5 mL/min 100 mg SD i.v. | Tramadol M1 |  |  | 3.73 (17) | 11.0 (29) 16.9 (18) |

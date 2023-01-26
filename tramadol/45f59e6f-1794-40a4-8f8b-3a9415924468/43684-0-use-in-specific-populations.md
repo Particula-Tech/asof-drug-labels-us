@@ -46,7 +46,7 @@ Data
 Animal Data
 
 Tramadol has been shown to be embryotoxic and fetotoxic in mice, (120 mg/kg), rats (25 mg/kg) and rabbits (75 mg/kg) at maternally toxic dosages, but was not teratogenic at these dose levels.
-These doses on a mg/m2 basis are 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
+These doses on a mg/m 2 basis are 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD) for mouse, rat and rabbit, respectively.
 
 No drug-related teratogenic effects were observed in progeny of mice (up to 140 mg/kg), rats (up to 80 mg/kg) or rabbits (up to 300 mg/kg) treated with tramadol by various routes.
 Embryo and fetal toxicity consisted primarily of decreased fetal weights, decreased skeletal ossification and increased supernumerary ribs at maternally toxic dose levels.
