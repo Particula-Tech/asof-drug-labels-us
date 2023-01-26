@@ -68,6 +68,4 @@ Manufactured for:
 
 Alembic Pharmaceuticals, Inc.
 
-750 Route 202, Bridgewater, NJ 08807
-
-USA Revised: 12/2019
+Bedminster, NJ 07921, USA Revised: 04/2022
