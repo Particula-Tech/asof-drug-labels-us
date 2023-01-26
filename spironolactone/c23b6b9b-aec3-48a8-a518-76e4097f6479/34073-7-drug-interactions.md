@@ -9,18 +9,18 @@ Check serum potassium levels when ACE inhibitor or ARB therapy is altered in pat
 
 Examples of drugs that can increase potassium include:
 
-- ACE inhibitors
-- angiotensin receptor blockers
-- non-steroidal anti-inflammatory drugs (NSAIDs)
-- heparin and low molecular weight heparin
-- trimethoprim
+- •ACE inhibitors
+- •angiotensin receptor blockers
+- •non-steroidal anti-inflammatory drugs (NSAIDs)
+- •heparin and low molecular weight heparin
+- •trimethoprim
 
 ## 7.2 Lithium
 
 Like other diuretics, spironolactone tablets reduces the renal clearance of lithium, thus increasing the risk of lithium toxicity.
 Monitor lithium levels periodically when spironolactone tablets are coadministered [see Clinical Pharmacology (12.3)].
 
-## 7.3 Nonsteroidal anti-inflammatory drugs (NSAIDs)
+## 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 
 In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of diuretics.
 Therefore, when spironolactone tablets and NSAIDs are used concomitantly, monitor closely to determine if the desired effect of the diuretic is obtained [see Clinical Pharmacology (12.3)].
@@ -38,4 +38,9 @@ Hyperkalemic metabolic acidosis has been reported in patients given spironolacto
 ## 7.6 Acetylsalicylic Acid
 
 Acetylsalicylic acid may reduce the efficacy of spironolactone.
-Therefore, when spironolactone tablets and acetylsalicylic acid are used concomitantly, spironolactone tablets may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3)].
+Therefore, when spironolactone tablets and acetylsalicylic acid are used concomitantly, spironolactone tablets may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3)]
+
+## 7.7 Abiraterone
+
+Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients.
+Concomitant use of spironolactone and abiraterone is not recommended.
