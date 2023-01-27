@@ -13,9 +13,9 @@ Monotherapy and In Combination with Lenalidomide (D-Rd) or Pomalidomide (D-Pd) a
 
 The DARZALEX dosing schedule in Table 1 is for combination therapy (4-week cycle regimens) and monotherapy as follows:
 
-- -combination therapy with lenalidomide and low-dose dexamethasone for newly diagnosed patients ineligible for autologous stem cell transplant (ASCT) and in patients with relapsed/refractory multiple myeloma
-- -combination therapy with pomalidomide and low-dose dexamethasone for patients with relapsed/refractory multiple myeloma
-- -monotherapy for patients with relapsed/refractory multiple myeloma.
+- combination therapy with lenalidomide and low-dose dexamethasone for newly diagnosed patients ineligible for autologous stem cell transplant (ASCT) and in patients with relapsed/refractory multiple myeloma
+- combination therapy with pomalidomide and low-dose dexamethasone for patients with relapsed/refractory multiple myeloma
+- monotherapy for patients with relapsed/refractory multiple myeloma.
 
 The recommended dose of DARZALEX is 16 mg/kg actual body weight administered as an intravenous infusion according to the following dosing schedule:
 
@@ -24,8 +24,8 @@ Table 1: DARZALEX Dosing Schedule in Combination With Lenalidomide or Pomalidomi
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
-| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
 For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14) and manufacturer's prescribing information.
 
@@ -40,8 +40,8 @@ Table 2: DARZALEX Dosing Schedule in Combination With Bortezomib, Melphalan and 
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 6 | weekly (total of 6 doses) |
-| Weeks 7 to 54First dose of the every-3-week dosing schedule is given at Week 7 | every three weeks (total of 16 doses) |
-| Week 55 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 55 | every four weeks |
+| Weeks 7 to 54 First dose of the every-3-week dosing schedule is given at Week 7 | every three weeks (total of 16 doses) |
+| Week 55 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 55 | every four weeks |
 
 For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.1).
 
@@ -56,9 +56,9 @@ Table 3: DARZALEX Dosing Schedule in Combination With Bortezomib, Thalidomide an
 | Treatment phase | Weeks | Schedule |
 | --- | --- | --- |
 | Induction | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 16First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
+| Weeks 9 to 16 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
 | Stop for high dose chemotherapy and ASCT |  |  |
-| Consolidation | Weeks 1 to 8First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
+| Consolidation | Weeks 1 to 8 First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
 
 For dosing instructions of combination agents administered with DARZALEX, see Clinical Studies (14.1) and the manufacturer's prescribing information.
 
@@ -73,8 +73,8 @@ Table 4: DARZALEX Dosing Schedule With Bortezomib and Dexamethasone (3-Week Cycl
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 9 | weekly (total of 9 doses) |
-| Weeks 10 to 24First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
-| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 10 to 24 First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
+| Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
 For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.2) and manufacturer's prescribing information.
 
@@ -84,12 +84,12 @@ The recommended dosage for DARZALEX when administered in combination with carfil
 
 Table 5: DARZALEX Dosing Schedule With Carfilzomib and Dexamethasone (4-Week Cycle)
 
-| Weeks | DARZALEX DoseBased on actual body weight | Schedule |
+| Weeks | DARZALEX Dose Based on actual body weight | Schedule |
 | --- | --- | --- |
 | Week 1 | 8 mg/kg | days 1 and 2 (total 2 doses) |
 | Weeks 2 to 8 | 16 mg/kg | weekly (total of 7 doses) |
-| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | 16 mg/kg | every two weeks (total of 8 doses) |
-| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | 16 mg/kg | every four weeks |
+| Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | 16 mg/kg | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | 16 mg/kg | every four weeks |
 
 For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.1) and manufacturer's prescribing information.
 
@@ -102,7 +102,7 @@ The recommended dose of 16 mg/kg to be administered on Day 1 when DARZALEX is ad
 
 Table 6: Infusion Rates for DARZALEX (16 mg/kg) Administration
 
-|  | Dilution volume | Initial rate (first hour) | Rate incrementConsider incremental escalation of the infusion rate only in the absence of infusion-related reactions. | Maximum rate |
+|  | Dilution volume | Initial rate (first hour) | Rate increment Consider incremental escalation of the infusion rate only in the absence of infusion-related reactions. | Maximum rate |
 | --- | --- | --- | --- | --- |
 | Week 1 Infusion |  |  |  |  |
 | Option 1 (Single dose infusion) |  |  |  |  |
