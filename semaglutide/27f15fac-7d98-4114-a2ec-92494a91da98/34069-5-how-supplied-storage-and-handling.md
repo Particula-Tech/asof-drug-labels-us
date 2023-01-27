@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+How Supplied
+
 RYBELSUS tablets are available as follows:
 
 | Tablet Strength | Description | Package Configuration | NDC No. |

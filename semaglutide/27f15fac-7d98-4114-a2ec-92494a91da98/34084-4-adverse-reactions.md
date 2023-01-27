@@ -16,7 +16,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Pool of Placebo-Controlled Trials
 
-The data in Table 1 are derived from 2 placebo-controlled trials in patients with type 2 diabetes [see Clinical Studies (14)].
+The data in Table 1 are derived from 2 placebo-controlled trials in adult patients with type 2 diabetes [see Clinical Studies (14)].
 These data reflect exposure of 1071 patients to RYBELSUS with a mean duration of exposure of 41.8 weeks.
 The mean age of patients was 58 years, 3.9% were 75 years or older and 52% were male.
 In these trials, 63% were White, 6% were Black or African American, and 27% were Asian; 19% identified as Hispanic or Latino ethnicity.
@@ -26,7 +26,7 @@ Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m2) in 66.2%
 
 Pool of Placebo- and Active-Controlled Trials
 
-The occurrence of adverse reactions was also evaluated in a larger pool of patients with type 2 diabetes participating in 9 placebo- and active-controlled trials [see Clinical Studies (14)].
+The occurrence of adverse reactions was also evaluated in a larger pool of adult patients with type 2 diabetes participating in 9 placebo- and active-controlled trials [see Clinical Studies (14)].
 In this pool, 4116 patients with type 2 diabetes were treated with RYBELSUS for a mean duration of 59.8 weeks.
 The mean age of patients was 58 years, 5% were 75 years or older and 55% were male.
 In these trials, 65% were White, 6% were Black or African American, and 24% were Asian; 15% identified as Hispanic or Latino ethnicity.
@@ -36,7 +36,7 @@ Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m2) in 65.9%
 
 Common Adverse Reactions
 
-Table 1 shows common adverse reactions, excluding hypoglycemia, associated with the use of RYBELSUS in the pool of placebo-controlled trials.
+Table 1 shows common adverse reactions, excluding hypoglycemia, associated with the use of RYBELSUS in adult patients with type 2 diabetes in the pool of placebo-controlled trials.
 These adverse reactions occurred more commonly on RYBELSUS than on placebo and occurred in at least 5% of patients treated with RYBELSUS.
 
 Table 1.
@@ -62,6 +62,14 @@ More patients receiving RYBELSUS 7 mg (4%) and RYBELSUS 14 mg (8%) discontinued 
 In addition to the reactions in Table 1, the following gastrointestinal adverse reactions with a frequency of <5% were associated with RYBELSUS (frequencies listed, respectively, as placebo; 7 mg; 14 mg): abdominal distension (1%, 2%, 3%), dyspepsia (0.6%, 3%, 0.6%), eructation (0%, 0.6%, 2%), flatulence (0%, 2%, 1%), gastroesophageal reflux disease (0.3%, 2%, 2%), and gastritis (0.8%, 2%, 2%).
 
 Other Adverse Reactions
+
+Pancreatitis
+
+In the pool of placebo- and active-controlled trials with RYBELSUS, pancreatitis was reported as a serious adverse event in 6 RYBELSUS-treated patients (0.1 events per 100 patient years) versus 1 in comparator-treated patients (<0.1 events per 100 patient years).
+
+Diabetic Retinopathy Complications
+
+In the pool of placebo- and active-controlled trials with RYBELSUS, patients reported diabetic retinopathy related adverse reactions during the trial (4.2% with RYBELSUS and 3.8% with comparator).
 
 Hypoglycemia
 
@@ -104,21 +112,12 @@ Increases in Heart Rate
 In placebo-controlled trials, RYBELSUS 7 mg and 14 mg resulted in a mean increase in heart rate of 1 to 3 beats per minute.
 There was no change in heart rate in placebo-treated patients.
 
-## 6.2 Immunogenicity
-
-Consistent with the potentially immunogenic properties of protein and peptide pharmaceuticals, patients treated with RYBELSUS may develop anti-semaglutide antibodies.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, the incidence of antibodies to semaglutide in the studies described below cannot be directly compared with the incidence of antibodies in other studies or to other products.
-
-Across the placebo- and active-controlled glycemic control trials with antibody measurements, 14 (0.5%) RYBELSUS-treated patients developed anti-drug antibodies (ADAs) to the active ingredient in RYBELSUS (i.e., semaglutide).
-Of the 14 semaglutide-treated patients that developed semaglutide ADAs, 7 patients (0.2% of the overall population) developed antibodies cross-reacting with native GLP-1.
-The neutralizing activity of the antibodies is uncertain at this time.
-
-## 6.3 Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of RYBELSUS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Gastrointestinal: ileus
 
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 

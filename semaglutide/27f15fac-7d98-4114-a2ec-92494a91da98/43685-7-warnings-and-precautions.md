@@ -52,7 +52,8 @@ Monitor renal function when initiating or escalating doses of RYBELSUS in patien
 
 Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported in patients treated with RYBELSUS.
 If hypersensitivity reactions occur, discontinue use of RYBELSUS; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous hypersensitivity to RYBELSUS [see Contraindications (4) and Adverse Reactions (6.3)].
+RYBELSUS is contraindicated in patients with a prior serious hypersensitivity reaction to semaglutide or to any of the excipients in RYBELSUS.
+[seeAdverse Reactions (6.2)].
 
 Anaphylaxis and angioedema have been reported with GLP-1 receptor agonists.
 Use caution in a patient with a history of angioedema or anaphylaxis with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to anaphylaxis with RYBELSUS.
@@ -62,4 +63,4 @@ Use caution in a patient with a history of angioedema or anaphylaxis with anothe
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
 In placebo-controlled trials, cholelithiasis was reported in 1% of patients treated with RYBELSUS 7 mg.
 Cholelithiasis was not reported in RYBELSUS 14 mg or placebo-treated patients.
-If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
+If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated [see Adverse Reactions (6.2)].

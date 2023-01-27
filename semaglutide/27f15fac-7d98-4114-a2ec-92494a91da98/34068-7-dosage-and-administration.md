@@ -11,10 +11,10 @@
 ## 2.2 Recommended Dosage
 
 - •Start RYBELSUS with 3 mg once daily for 30 days.
-  The 3 mg dose is intended for treatment initiation and is not effective for glycemic control.
-- •After 30 days on the 3 mg dose, increase the dose to 7 mg once daily.
-- •Dose may be increased to 14 mg once daily if additional glycemic control is needed after at least 30 days on the 7 mg dose.
-- •Taking two 7 mg RYBELSUS tablets to achieve a 14 mg dose is not recommended.
+  The 3 mg dosage is intended for treatment initiation and is not effective for glycemic control.
+- •After 30 days on the 3 mg dosage, increase the dosage to 7 mg once daily.
+- •The dosage may be increased to 14 mg once daily if additional glycemic control is needed after at least 30 days on the 7 mg dosage.
+- •Taking two 7 mg RYBELSUS tablets to achieve a 14 mg dosage is not recommended.
 - •If a dose is missed, the missed dose should be skipped, and the next dose should be taken the following day.
 
 ## 2.3 Switching Patients between OZEMPIC and RYBELSUS

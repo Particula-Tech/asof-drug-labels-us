@@ -69,18 +69,18 @@ Discontinue RYBELSUS in women at least 2 months before a planned pregnancy due t
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of RYBELSUS have not been established in pediatric patients (younger than 18 years).
+The safety and effectiveness of RYBELSUS have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-In the pool of glycemic control trials, 1229 (29.9%) RYBELSUS-treated patients were 65 years of age and over and 199 (4.8%) RYBELSUS-treated patients were 75 years of age and over.
-In PIONEER 6, the cardiovascular outcomes trial, 891 (56.0%) RYBELSUS-treated patients were 65 years of age and over and 200 (12.6%) RYBELSUS-treated patients were 75 years of age and over.
+In the pool of glycemic control trials, 1229 (30%) RYBELSUS-treated patients were 65 years of age and over and 199 (5%) RYBELSUS-treated patients were 75 years of age and over [see Clinical Studies (14)].
+In PIONEER 6, the cardiovascular outcomes trial, 891 (56%) RYBELSUS-treated patients were 65 years of age and over and 200 (13%) RYBELSUS-treated patients were 75 years of age and over.
 
-No overall differences in safety or efficacy were detected between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness for RYBELSUS have been observed between patients 65 years of age and older and younger adult patients.
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of RYBELSUS was evaluated in a 26-week clinical study that included 324 patients with moderate renal impairment (eGFR 30 to 59 mL/min/1.73m2) [see Clinical Studies (14.1)].
+The safety and effectiveness of RYBELSUS was evaluated in a 26-week clinical study that included 324 patients with moderate renal impairment (eGFR 30 to 59 mL/min/1.73m2) [see Clinical Studies (14.1)].
 In patients with renal impairment including end-stage renal disease (ESRD), no clinically relevant change in semaglutide pharmacokinetics (PK) was observed [see Clinical Pharmacology (12.3)].
 
 No dose adjustment of RYBELSUS is recommended for patients with renal impairment.

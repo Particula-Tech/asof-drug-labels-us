@@ -132,3 +132,18 @@ Cmax: maximum concentration.
 CI: confidence interval.
 
 No clinically relevant change in semaglutide exposure was observed when taken with omeprazole.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of semaglutide or of other semaglutide products.
+
+During the 26-78 week treatment periods in 5 clinical trials [see Clinical Studies (14.2and 14.3)] and 1 clinical trial in Japanese adults with type 2 diabetes mellitus, 14/2924 (0.5%) of RYBELSUS-treated patients developed anti-semaglutide antibodies.
+Of these 14 RYBELSUS-treated patients, 7 patients (0.2% of the total RYBELSUS-treated study population) developed antibodies that cross-reacted with native GLP-1.
+No identified
+
+clinically significant effect of anti-semaglutide antibodies on pharmacokinetics of RYBELSUS was observed.
+
+There is insufficient information to characterize the effects of anti-semaglutide antibodies on
+
+pharmacodynamics, safety, or effectiveness of semaglutide.
