@@ -14,51 +14,6 @@ MANUFACTURED BY BAXTER LOGO PREMIER ProRx® USA
 
 INTRAVIA CONTAINER 460-327-02 2J1419 FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784)
 
-10 x 250 mL Single Use INTRAVIA containers BREVIBLOC PREMIXED Injection
-
-Esmolol Hydrochloride in Sodium Chloride
-
-2,500 mg/250 mL (10 mg/mL)
-
-Store at 25˚C (77˚F).
-Excursions permitted to 15˚-30˚C (59˚-86˚F).
-[See USP
-
-Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-Baxter, Brevibloc Premixed and IntraVia are
-
-trademarks of Baxter International Inc.
-
-Rx only
-
-Code 2J1419 For Product Inquiry
-
-1 800 ANA DRUG
-
-(1-800-262-3784)
-
-2D DATA MATRIX BAR CODE PLACEMENT ONLY
-
-(01)50310019670107
-
-(21)NNNNNNNNN
-
-(17)YYMMDD
-
-(10)XXXXXXX
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
-
-Made in USA
-
-475-344-00 07-06-00-0321 BAR CODE PLACEMENT ONLY (01)50310019670107(21) NNNNNNNNNNNNNNNNNNNN(17)YYMMDD(10)XXXXXXXXX
-
-EXP LOT
-
 LOT EXP
 
 NDC 10019-666-10 BREVIBLOC PREMIXED Double Strength Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
@@ -70,47 +25,3 @@ STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP 
 MANUFACTURED BY BAXTER LOGO USA
 
 PREMIER ProRx® 460-324-01 2J1420
-
-10 x 100 mL Single Use INTRAVIA containers BREVIBLOC PREMIXED Double Strength Injection
-
-Esmolol Hydrochloride in Sodium Chloride 2000 mg/100 mL (20 mg/mL)
-
-Store at 25˚C (77˚F).
-Excursions permitted to 15˚-30˚C (59˚-86˚F).
-[See USP
-
-Controlled Room Temperature.]
-PROTECT FROM FREEZING.
-Avoid excessive heat.
-
-Baxter, Brevibloc Premixed and IntraVia are
-
-trademarks of Baxter International Inc.
-
-Rx only
-
-Code 2J1420 For Product Inquiry
-
-1 800 ANA DRUG
-
-(1-800-262-3784)
-
-2D DATA MATRIX BAR CODE PLACEMENT ONLY
-
-(01)50310019666100
-
-(21)NNNNNNNNN
-
-(17)YYMMDD
-
-(10)XXXXXXX
-
-Baxter Healthcare Corporation
-
-Deerfield, IL 60015 USA
-
-Made in USA
-
-475-345-00 07-06-00-0320 BAR CODE PLACEMENT ONLY (01)50310019666100(21) NNNNNNNNNNNNNNNNNNNN(17)YYMMDD(10)XXXXXXXXX
-
-EXP LOT
