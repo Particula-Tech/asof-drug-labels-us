@@ -25,7 +25,7 @@ Using an appropriately sized sterile syringe, needle and aseptic technique, draw
 Insert the needle into the DYSPORT vial.
 The partial vacuum will begin to pull the saline into the vial.
 Any remaining required saline should be expressed into the vial manually.
-Do not use the vial if no vacuum is observed.
+Do not use the vial if no partial vacuum is observed.
 Swirl gently to dissolve.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 
@@ -55,7 +55,7 @@ The recommended initial dose of DYSPORT for the treatment of cervical dystonia i
 (A description of the average DYSPORT dose and percentage of total dose injected into specific muscles in the pivotal clinical trials can be found in Table 15 of Section 14.1, Clinical Studies – Cervical Dystonia.)
 Limiting the dose injected into the sternocleidomastoid muscle may reduce the occurrence of dysphagia.
 Clinical studies with DYSPORT in cervical dystonia suggest that the peak effect occurs between two and four weeks after injection.
-Simultaneous EMG-guided application of DYSPORT may be helpful in locating active muscles.
+Simultaneous guided injection of DYSPORT with EMG and/or ultrasound may be helpful in locating active muscles.
 
 Dose Modification
 
@@ -103,7 +103,7 @@ Dosing in initial and subsequent treatment sessions should be tailored to the in
 No more than 1 mL should generally be administered at any single injection site.
 The maximum recommended total dose (upper and lower limb combined) of DYSPORT for the treatment of spasticity in adults is 1500 Units.
 
-Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography, electrical stimulation) is recommended to target the injection sites.
+Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography, electrical stimulation, or ultrasound) is recommended to target the injection sites.
 
 Upper Limb Spasticity
 
@@ -161,7 +161,7 @@ Dosing in initial and sequential treatment sessions should be tailored to the in
 No more than 0.5 mL should generally be administered at any single injection site.
 The maximum recommended total dose of DYSPORT in a single treatment session for spasticity in pediatric patients 2 years and older is 30 Units/kg or 1000 Units in a 3-month interval.
 
-Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography or electrical stimulation) is recommended to target the injection sites.
+Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography or electrical stimulation, or ultrasound) is recommended to target the injection sites.
 
 Upper Limb Spasticity in Pediatric Patients 2 Years of Age and Older
 
@@ -209,7 +209,7 @@ Table 6: DYSPORT Dosing by Muscle for Lower Limb Spasticity in Pediatric Patient
 
 Figure 5: Muscles for Injection for Lower Limb Spasticity in Pediatric Patients
 
-Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography or electrical stimulation) is recommended to target the injection sites.
+Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography or electrical stimulation, or ultrasound) is recommended to target the injection sites.
 
 Repeat DYSPORT treatment should be administered when the effect of a previous injection has diminished but no sooner than 12 weeks after the previous injection.
 A majority of patients in the clinical studies were retreated between 16-22 weeks, however; some had a longer duration of response.
