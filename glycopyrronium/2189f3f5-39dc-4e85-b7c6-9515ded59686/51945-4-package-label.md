@@ -1,3 +1,36 @@
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 3 mL Syringe Label
+
+NDC 51754-6013-1 Rx only
+
+GLYRX®-PF
+
+Glycopyrrolate Injection 0.6 mg/3 mL
+
+(0.2 mg/mL)
+
+3 mL Single Dose prefilled syringe.
+Discard Unused Portion.
+For IM or IV Use.
+
+Store at 20°C to 25°C (68°F to 77°F).
+[See USP Controlled Room Temperature
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL- 3 mL Syringe Carton
+
+NDC 51754-6013-3 Rx only
+
+GLYRX®-PF
+
+Glycopyrrolate Injection
+
+0.6 mg/3 mL (0.2 mg/mL)
+
+For Intravenous or Intramuscular Use
+
+10 x 3 mL Single Dose Prefilled Syringes
+
+Discard Unused Portion
+
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL-5 mL Syringe Label
 
 NDC 51754-6015-1 Rx Only

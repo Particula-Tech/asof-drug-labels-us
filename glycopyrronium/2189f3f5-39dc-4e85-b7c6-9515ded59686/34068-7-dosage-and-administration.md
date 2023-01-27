@@ -91,10 +91,11 @@ Perform visual inspection on the syringe by verifying:
 - •Expiration date to be sure the drug has not expired
 
 2.
+Do not remove the tamper evident seal.
 Push plunger rod slightly in to break the stopper lose while tip cap is still on
 
 3.
-Remove tip cap by twisting off.
+Remove tip cap and tamper evident seal by twisting off.
 (See Figure 1):
 
 Figure 1.
