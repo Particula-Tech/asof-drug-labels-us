@@ -46,11 +46,3 @@ For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 07-04-73-109
 
 3 10019 12001 0
-
-NDC 10019-120-01 Esmolol Hydrochloride Injection 100 mg/10 mL (10 mg/mL) Store at 25°C (77°F)
-
-4 packs each containing 25 x 10 mL Ready-to-use Vials 475-775-01 Bar Code
-
-EXP DEC2099 LOT ABCDE12345 QTY 4 Bar Code (17)991231(10)ABCDE12345(30)4 Bar Code (01)50310019120015(21)00000000000001
-
-Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
