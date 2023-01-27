@@ -7,7 +7,7 @@
 - •The use of benzodiazepines, including Ativan, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
   Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
   Before prescribing Ativan and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).
-- •The continued use of benzodiazepines, including Ativan may lead to clinically significant physical dependence.
+- •The continued use of benzodiazepines, including Ativan, may lead to clinically significant physical dependence.
   The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
   Abrupt discontinuation or rapid dosage reduction of Ativan after continued use may precipitate acute withdrawal reactions, which can be life-threatening.
   To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (DOSAGE AND ADMINISTRATION and WARNINGS).

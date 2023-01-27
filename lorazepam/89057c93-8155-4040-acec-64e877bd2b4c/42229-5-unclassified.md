@@ -1,1 +1,3 @@
-Ativan® (lorazepam) Tablets
+Ativan® (lorazepam)
+
+Tablets

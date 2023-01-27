@@ -1,6 +1,6 @@
 # WARNINGS
 
-Risks from Concomitant Use with Opioids
+## Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including Ativan, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
@@ -12,7 +12,7 @@ If an opioid is initiated in a patient already taking Ativan, prescribe a lower 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Ativan is used with opioids.
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS: Drug Interactions).
 
-Abuse, Misuse, and Addiction
+## Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including Ativan, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
@@ -22,7 +22,7 @@ Use of Ativan, particularly in patients at elevated risk, necessitates counselin
 Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
-Dependence and Withdrawal Reactions
+### Dependence and Withdrawal Reactions
 
 To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Ativan).
 
@@ -43,6 +43,11 @@ Ativan (lorazepam) is not recommended for use in patients with a primary depress
 Use of benzodiazepines, including lorazepam, both used alone and in combination with other CNS depressants, may lead to potentially fatal respiratory depression (see PRECAUTIONS: Drug Interactions).
 
 As with all patients on CNS-depressant drugs, patients receiving lorazepam should be warned not to operate dangerous machinery or motor vehicles and that their tolerance for alcohol and other CNS depressants will be diminished.
+
+## Neonatal Sedation and Withdrawal Syndrome
+
+Use of Ativan late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (seePRECAUTIONS: Pregnancy).
+Monitor neonates exposed to Ativan during pregnancy or labor for signs of sedation and monitor neonates exposed to Ativan during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 # PRECAUTIONS
 
@@ -91,6 +96,18 @@ Inform patients that the continued use of Ativan may lead to clinically signific
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
 Instruct patients that discontinuation or dosage reduction of Ativan may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
+Pregnancy
+
+Advise pregnant females that use of Ativan late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal SyndromeandPRECAUTIONS: Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Ativan during pregnancy (see PRECAUTIONS: Pregnancy).
+
+Nursing
+
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients using Ativan to monitor infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS: Nursing Mothers).
+
 ## Essential Laboratory Tests
 
 Some patients on Ativan (lorazepam) have developed leukopenia, and some have had elevations of LDH.
@@ -124,27 +141,56 @@ No studies regarding mutagenesis have been performed.
 
 ## Pregnancy
 
+Pregnancy Exposure Registry
+
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including Ativan, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to Ativan during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to Ativan during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+### Data
+
+Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+Animal Data
+
 Reproductive studies in animals were performed in mice, rats, and two strains of rabbits.
 Occasional anomalies (reduction of tarsals, tibia, metatarsals, malrotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage.
 Although all of these anomalies were not present in the concurrent control group, they have been reported to occur randomly in historical controls.
 At doses of 40 mg/kg and higher, there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen at lower doses.
 
-The clinical significance of the above findings is not known.
-However, an increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam, and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
-Because the use of these drugs is rarely a matter of urgency, the use of lorazepam during this period should be avoided.
-The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
-Patients should be advised that if they become pregnant, they should communicate with their physician about the desirability of discontinuing the drug.
-
-In humans, blood levels obtained from umbilical cord blood indicate placental transfer of lorazepam and lorazepam glucuronide.
-Infants of mothers who ingested benzodiazepines for several weeks or more preceding delivery have been reported to have withdrawal symptoms during the postnatal period.
-Symptoms such as hypoactivity, hypotonia, hypothermia, respiratory depression, apnea, feeding problems, and impaired metabolic response to cold stress have been reported in neonates born of mothers who have received benzodiazepines during the late phase of pregnancy or at delivery.
-
 ## Nursing Mothers
 
-Lorazepam has been detected in human breast milk; therefore, it should not be administered to breast-feeding women, unless the expected benefit to the woman outweighs the potential risk to the infant.
+Risk Summary
 
-Sedation and inability to suckle have occurred in neonates of lactating mothers taking benzodiazepines.
-Infants of lactating mothers should be observed for pharmacological effects (including sedation and irritability).
+Lorazepam is present in breast milk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+The effects of lorazepam on milk production are unknown.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Ativan and any potential adverse effects on the breastfed infant from Ativan or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to Ativan through breast milk should be monitored for sedation, poor feeding and poor weight gain.
 
 ## Geriatric Use
 
