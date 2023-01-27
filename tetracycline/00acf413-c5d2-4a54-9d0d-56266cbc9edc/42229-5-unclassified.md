@@ -6,8 +6,8 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Rx only
 
-Manufactured by: RA Chem Pharma Ltd. Plot No. A-19/C Road No.18, IDA Nacharam Hyderabad 500 076 Telangana, India
+Manufactured by: Cohance Lifesciences Limited Plot No. A-19/C, A-23A & A-23B, Road No.18, IDA Nacharam, Uppal Mandal, Medchal- Malkajgiri District- 500 076 Telangana state, India
 
 Distributed by: Breckenridge Pharmaceutical, Inc. Berlin, CT 06037
 
-Revised: 07/19
+Revised: 01/23

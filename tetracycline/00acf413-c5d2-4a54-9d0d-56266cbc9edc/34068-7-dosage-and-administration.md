@@ -1,9 +1,13 @@
 # DOSAGE AND ADMINISTRATION
 
-Adults: Usual daily dose, 1 gram as 500 mg twice a day or 250 mg four times a day.
+## Adults
+
+Usual daily dose, 1 gram as 500 mg twice a day or 250 mg four times a day.
 Higher doses such as 500 mg four times a day may be required for severe infections or for those infections which do not respond to the smaller doses.
 
-For pediatric patients above eight years of age: Usual daily dose, 10 mg/lb to 20 mg/lb (25mg/kg to 50 mg/kg) body weight divided in four equal doses.
+## For pediatric patients above eight years of age
+
+Usual daily dose, 10 mg/lb to 20 mg/lb (25mg/kg to 50 mg/kg) body weight divided in four equal doses.
 
 Administration of adequate amounts of fluid with the capsule formulation of tetracycline is recommended to wash down the drug and reduce the risk of esophageal irritation and ulceration (see ADVERSE REACTIONS).
 
