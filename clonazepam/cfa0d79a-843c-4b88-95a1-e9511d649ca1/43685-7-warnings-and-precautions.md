@@ -75,6 +75,11 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
+## Neonatal Sedation and Withdrawal Syndrome
+
+Use of Klonopin late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to Klonopin during pregnancy or labor for signs of sedation and monitor neonates exposed to Klonopin during pregnancy for signs of withdrawal; manage these neonates accordingly.
+
 # PRECAUTIONS
 
 ## General
@@ -149,14 +154,15 @@ Behaviors of concern should be reported immediately to healthcare providers.
 
 ### Pregnancy
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with Klonopin (see PRECAUTIONS: Pregnancy).
-Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll-free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
+Advise pregnant females that use of Klonopin late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking Klonopin.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy (see PRECAUTIONS: Pregnancy).
 
 ### Nursing
 
-Patients should be advised to notify their physician if they are breastfeeding or intend to breastfeed during therapy.
+Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who take Klonopin to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS: Nursing Mothers).
 
 ### Concomitant Medication
 
@@ -213,32 +219,61 @@ The lowest dose tested is approximately 5 and 24 times the maximum recommended h
 
 ## Pregnancy
 
-There are no adequate and well-controlled studies of Klonopin in pregnant women.
-Available human data on the risk of teratogenicity are inconclusive.
-There is insufficient evidence in humans to assess the effect of benzodiazepine exposure during pregnancy on neurodevelopment.
-Administration of benzodiazepines immediately prior to or during childbirth can result in a syndrome of hypothermia, hypotonia, respiratory depression, and difficulty feeding.
-In addition, infants born to mothers who have taken benzodiazepines during the later stages of pregnancy can develop dependence, and subsequently withdrawal, during the postnatal period.
+### Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as Klonopin, during pregnancy.
+Healthcare providers are encouraged to recommend that pregnant women taking Klonopin enroll in the NAAED Pregnancy Registry by calling 1-888-233-2334 or online at http://www.aedpregnancyregistry.org/.
+
+### Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+Administration of clonazepam to pregnant rabbits during the period of organogenesis resulted in developmental toxicity, including increased incidences of fetal malformations, at doses similar to or below therapeutic doses in patients (see Animal Data).
+Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Clinical Considerations
+
+#### Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to Klonopin during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to Klonopin during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+### Data
+
+#### Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+#### Animal Data
 
 In three studies in which clonazepam was administered orally to pregnant rabbits at doses of 0.2, 1, 5, or 10 mg/kg/day during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed at all doses, in a low, non-dose-related incidence.
 The lowest dose tested is less than the maximum recommended human dose (MRHD) of 20 mg/day for seizure disorders and similar to the MRHD of 4 mg/day for panic disorder, on a mg/m2 basis.
 Reductions in maternal weight gain occurred at doses of 5 mg/kg/day or greater and reduction in embryofetal growth occurred in one study at a dose of 10 mg/kg/day.
-
 No adverse maternal or embryofetal effects were observed in mice or rats following oral administration of clonazepam during organogenesis of doses up to 15 or 40 mg/kg/day, respectively (4 and 20 times the MRHD of 20 mg/day for seizure disorders and 20 and 100 times the MRHD of 4 mg/day for panic disorder, respectively, on a mg/m2 basis).
-
 Data for other benzodiazepines suggest the possibility of adverse developmental effects (long-term effects on neurobehavioral and immunological function) in animals following prenatal exposure to benzodiazepines.
-
-To provide information regarding the effects of in utero exposure to Klonopin, physicians are advised to recommend that pregnant patients taking Klonopin enroll in the NAAED Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on this registry can also be found at the website http://www.aedpregnancyregistry.org/.
-
-## Labor and Delivery
-
-The effect of Klonopin on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see PRECAUTIONS: Pregnancy).
 
 ## Nursing Mothers
 
-The effects of Klonopin on the breastfed infant and on milk production are unknown.
+### Risk Summary
+
+Clonazepam is excreted in human milk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+There are no data on the effects of clonazepam on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Klonopin and any potential adverse effects on the breastfed infant from Klonopin or from the underlying maternal condition.
+
+### Clinical Considerations
+
+Infants exposed to Klonopin through breast milk should be monitored for sedation, poor feeding and poor weight gain.
 
 ## Pediatric Use
 

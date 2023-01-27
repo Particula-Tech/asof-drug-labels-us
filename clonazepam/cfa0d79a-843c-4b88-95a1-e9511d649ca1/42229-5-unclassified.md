@@ -10,7 +10,7 @@ Licensed by:
 
 CHEPLAPHARM Arzneimittel GmbH Ziegelhof 24, 17489 Greifswald Germany
 
-Revised: 12/2021
+Revised: 1/2023
 
 © 2021 CHEPLAPHARM Arzneimittel GmbH
 
