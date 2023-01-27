@@ -11,6 +11,6 @@ It is unstable in solution and the powder must be protected from light.
 The molecular weight is 336.22.
 The structural formula of chlordiazepoxide hydrochloride is as follows:
 
-Clidinium bromide is a synthetic anticholinergic agent which has been shown in experimental and clinical studies to have a antispasmodic and antisecretory effects on the gastrointestinal tract.
+Clidinium bromide is a synthetic anticholinergic agent which has been shown in experimental and clinical studies to have antispasmodic and antisecretory effects on the gastrointestinal tract.
 
 Structurally clidinium bromide is:

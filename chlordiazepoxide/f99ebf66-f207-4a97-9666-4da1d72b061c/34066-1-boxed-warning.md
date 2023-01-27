@@ -4,7 +4,7 @@
   Reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
   Limit dosages and durations to the minimum required.
   Follow patients for signs and symptoms of respiratory depression and sedation (see WARNINGS and PRECAUTIONS and PRECAUTIONS, Drug Interactions).
-- •The use of benzodiazepines, including chlodiazepoxide hydrochloride, a component of Librax, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
+- •The use of benzodiazepines, including chlordiazepoxide hydrochloride, a component of Librax, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose or death.
   Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
   Before prescribing Librax and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).
 - •The continued use of benzodiazepines, including Librax, may lead to clinically significant physical dependence.
