@@ -35,13 +35,13 @@ The Instructions are also available on the bottom of each drug product package.
 
 CAUTION: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.
 
-Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Manufactured for: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 ®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-© 2021 Bausch Health Companies Inc. or its affiliates
+© 2023 Bausch Health Companies Inc. or its affiliates
 
-9435004 Rev.
-3/2021
+9435005 Rev.
+01/2023

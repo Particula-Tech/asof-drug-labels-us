@@ -16,9 +16,9 @@ To the caregiver using DIASTAT® ACUDIAL™: Please do not give DIASTAT® ACUDIA
 2. • Prescribed dose is visible and if known, is correct
 3. • green “READY” band is visible
 
-1. 1.You have thoroughly read these instructions
-2. 2.Reviewed administration steps with the doctor
-3. 3.Understand the directions
+1. 2.You have thoroughly read these instructions
+2. 3.Reviewed administration steps with the doctor
+3. 4.Understand the directions
 
 Please do not administer DIASTAT until you feel comfortable with how to use DIASTAT.
 The doctor will tell you exactly when to use DIASTAT.
@@ -94,15 +94,13 @@ Stay with the person for 4 hours and make notes on the following:
 - 
 - 
 
-Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Manufactured for: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 ®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-© 2021 Bausch Health Companies Inc. or its affiliates
+© 2023 Bausch Health Companies Inc. or its affiliates
 
-9435004
-
-Rev.
-3/2021
+9435005 Rev.
+01/2023

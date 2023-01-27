@@ -15,3 +15,5 @@ Rectal Delivery System
 TWIN PACK Contains two pre-filled, unit dose, rectal delivery systems with lubricating jelly and instructions for use
 
 BAUSCH Health
+
+9442604
