@@ -2,3 +2,5 @@ This product and/or the use of this product in a method may be covered by one or
 
 © 2020 Intersect ENT, Inc. All rights reserved.
 INTERSECT ENT and SINUVA are trademarks or registered trademarks of Intersect ENT, Inc.
+
+Manufactured by: Intersect ENT 1555 Adams Dr. Menlo Park, CA 94025

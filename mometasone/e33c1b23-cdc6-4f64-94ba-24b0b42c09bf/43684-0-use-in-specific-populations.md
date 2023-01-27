@@ -6,11 +6,11 @@ Risk Summary
 
 There are no randomized clinical studies of SINUVA Sinus Implant or mometasone furoate in pregnant women.
 The active pharmaceutical ingredient, mometasone furoate is systemically available when administered topically or when inhaled.
-In animal reproduction studies, subcutaneous administration of mometasone furoate to pregnant mice, rats, or rabbits caused increased fetal malformations and decreased fetal survival and growth following administration of doses that produced exposures approximately 1/3 to 8 times the maximum recommended human dose (MRHD) on a mcg/m2 or AUC basis [see Data].
+In animal reproduction studies, subcutaneous administration of mometasone furoate to pregnant mice, rats, or rabbits caused increased fetal malformations and decreased fetal survival and growth following administration of doses that produced exposures approximately 1/3 to 8 times the maximum recommended human dose (MRHD) on a mcg/m2 or AUC basis (see Data).
 However, experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroid exposure than humans.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Data
 
@@ -43,7 +43,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of the SINUVA Sinus Implant have not been established in children or adolescents less than 18 years of age.
+The safety and effectiveness of the SINUVA Sinus Implant have not been established in pediatric patients less than 18 years of age.
 
 ## 8.5 Geriatric Use
 

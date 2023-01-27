@@ -1,22 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosing
+## 2.1 Recommended Dosage
 
-One SINUVA Sinus Implant containing 1350 mcg of mometasone furoate.
-
-## 2.2 General Instructions
-
-The SINUVA Sinus Implant (Figure 1) is loaded into a Delivery System and placed in the ethmoid sinus under endoscopic visualization.
-The SINUVA Sinus Implant is made from bioabsorbable polymers designed to gradually soften over time.
+The recommended dosage is one SINUVA Sinus Implant (1350 mcg of mometasone furoate) placed in an ethmoid sinus [see Dosage and Administration (2.3)].
 The SINUVA Sinus Implant may be left in the sinus to gradually release the corticosteroid over 90 days.
-Remove the SINUVA Sinus Implant by 90 days or earlier at the physician's discretion using standard surgical instruments.
+Remove the SINUVA Sinus Implant by 90 days or earlier at the physician's discretion [see Dosage and Administration (2.4)].
 
-## 2.3 Health Care Provider Training
+## 2.2 Health Care Provider Training
 
 The SINUVA Sinus Implant is to be used by physicians trained in otolaryngology.
 Specialized training is not required for these physicians.
 
-## 2.4 Placement of SINUVA Sinus Implant
+## 2.3 Placement of SINUVA Sinus Implant
 
 The SINUVA Sinus Implant is designed for single patient use only.
 Do not reprocess or reuse.
@@ -32,6 +27,8 @@ Patient Preparation
 The patient should be prepared following routine protocols for in-office sinonasal endoscopic procedures.
 
 Implant Preparation
+
+The SINUVA Sinus Implant (Figure 1) is loaded into a Delivery System and placed in the ethmoid sinus.
 
 Remove the Crimper (Figure 2) and the Delivery System (Figure 3) from their protective packaging using sterile technique.
 Inspect the SINUVA Sinus Implant located inside of the Crimper (Figure 2).
@@ -53,7 +50,8 @@ Figure 2: Crimper with Implant
 Figure 3: Delivery System
 
 1. Place the Crimper on a flat surface and hold to prevent any potential slipping of the Crimper during loading of the SINUVA Sinus Implant into the Delivery System.
-   Orient the Crimper such that the short ends of the Implant are in the 12 o'clock and 6 o'clock position (Figure 4) Figure 4
+   Orient the Crimper such that the short ends of the Implant are in the 12 o'clock and 6 o'clock position (Figure 4).
+   Figure 4
 2. Grasp the Delivery System with the index and middle fingers on the left or right hand using the Finger Rests and the thumb in the Thumb Rest (Figure 5).
    Figure 5
 3. Pull back on the Finger Rests while pressing down on the Thumb Rest to retract the Cup and expose the Seeker (Figure 6).
@@ -75,7 +73,9 @@ Figure 3: Delivery System
    Figure 10
 9. Retract the Delivery System from the Crimper.
    The SINUVA Sinus Implant should remain symmetrically loaded in the Cup of the Delivery System (Figure 11).
-   Figure 11 CAUTION: Do not leave the SINUVA Sinus Implant in the crimped state for more than 5 minutes prior to placement.
+   Figure 11
+
+CAUTION: Do not leave the SINUVA Sinus Implant in the crimped state for more than 5 minutes prior to placement.
 
 Instructions to Secure the SINUVA Sinus Implant in the Crimper
 
@@ -112,8 +112,7 @@ Post Placement Instructions
 Reposition the Implant if its ends are perpendicular to and in contact with the nasal septum.
 Avoid excessive manipulation of the Implant during follow-up, as this can cause dislodgement.
 
-## 2.5 Removal Instructions
+## 2.4 Removal Instructions
 
 The SINUVA Sinus Implant is made from bioabsorbable polymers designed to gradually soften over time.
-The Implant may be left in the sinus to gradually release the corticosteroid over 90 days.
 Remove the SINUVA Sinus Implant by day 90 or earlier at the physician's discretion using standard endoscopic instruments.

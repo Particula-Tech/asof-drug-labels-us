@@ -1,12 +1,12 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in more detail in other sections of the labeling:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Local effects including epistaxis, irritation, infection, or perforation [see Warnings and Precautions (5.1)]
-- Cataracts and glaucoma [see Warnings and Precautions (5.2)]
+- Local Nasal Adverse Reactions [see Warnings and Precautions (5.1)]
+- Glaucoma and Cataracts [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.3)]
-- Immunosuppression [see Warnings and Precautions (5.4)]
-- Hypothalamic-pituitary-adrenal (HPA) axis effects [see Warnings and Precautions (5.5)]
+- Immunosuppression and Risk of Infections [see Warnings and Precautions (5.4)]
+- Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -36,10 +36,10 @@ Table 1: Adverse Reactions with > 1% Incidence and More Common than Control in 9
 | Values represent patient counts and percentages. A patient reporting more than one adverse event for a particular MedDRA preferred term is counted only once. |  |  |
 
 Study 1 monitored patients from Day 90 through 6 months.
-Hypersensitivity (4% (n=2) vs. 0), chronic sinusitis (11% (n=6) vs. 9% (n=4)), and upper respiratory tract infections (8% (n=4) vs. 2% (n=1)) were reported in more than 2 subjects in the treatment group, and more commonly than the control group during this time period.
+Hypersensitivity (4% (n=2) vs. 0), chronic rhinosinusitis (11% (n=6) vs. 9% (n=4)), and upper respiratory tract infections (8% (n=4) vs. 2% (n=1)) were reported in more than 2 subjects in the treatment group, and more commonly than the control group during this time period.
 
 The safety of repeat administration of the SINUVA Sinus Implant was evaluated in Study 3 that was an open-label, single-arm, multicenter study in 50 patients.
-All patients underwent an in-office bilateral placement of the SINUVA Sinus Implant in each ethmoid sinus (totaling 2 implants) and were followed for 365 days.
+All patients underwent an in- office bilateral placement of the SINUVA Sinus Implant in each ethmoid sinus (totaling 2 implants) and were followed for 365 days.
 Patients were required to use mometasone furoate nasal spray once daily (200 mcg of mometasone furoate) through 365 days.
 At 90 days, the remaining implants were removed.
 To maximize the size of the safety population, patients with ethmoid sinus polyps grade ≥ 1 on any side were considered for repeat implant placement.
@@ -47,7 +47,7 @@ Repeat placement was not performed if polyp grade was < 1, or if the patient dec
 Of the 50 patients, 41 received repeat implant placement (33 bilaterally and 8 unilaterally).
 Acute sinusitis (29%, n=12), upper respiratory infection (17%, n=7) epistaxis (12%, n=5), nasal discomfort or rhinalgia (12%, n=5), headache (7%, n=3), were the common adverse reactions that occurred in at least 3 subjects who underwent repeat placement during the study period.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of the SINUVA sinus implant.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to SINUVA, or a combination of these factors, include: implant migration, lack of efficacy, nasal pain, headache, epistaxis.

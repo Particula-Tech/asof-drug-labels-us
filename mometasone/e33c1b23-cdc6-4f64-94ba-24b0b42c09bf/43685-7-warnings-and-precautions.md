@@ -1,12 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Effects
+## 5.1 Local Nasal Adverse Reactions
 
 Monitor nasal mucosa adjacent to the SINUVA Sinus Implant for any signs of bleeding (epistaxis), irritation, infection, or perforation.
 Avoid use in patients with nasal ulcers or trauma.
 
-## 5.2 Ocular Effects
+## 5.2 Glaucoma and Cataracts
 
+Nasal steroids may result in development of glaucoma and/or cataracts.
 Glaucoma, cataracts, and clinically significant elevation of intraocular pressure were not observed in patients from the treatment group of one randomized controlled clinical study (N = 53) who underwent bilateral placement of SINUVA Sinus Implants.
 Close monitoring is warranted in patients with a change in vision or with a history of increased intraocular pressure, glaucoma, and/or cataracts.
 
@@ -14,17 +15,19 @@ Close monitoring is warranted in patients with a change in vision or with a hist
 
 Hypersensitivity reactions, including rash, pruritus, and angioedema have been reported with use of corticosteroids.
 
-## 5.4 Immunosuppression
+## 5.4 Immunosuppression and Risk of Infections
 
-Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals.
+Persons who are using drugs that suppress the immune system, such as corticosteroids, including SINUVA Sinus Implant are more susceptible to infections than healthy individuals.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible children or adults using corticosteroids.
 In such children or adults who have not had these diseases or who are not properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
+The safety and effectiveness of SINUVA Sinus Implant have not been established in pediatric patients less than 18 years of age and SINVA is not indicated for use in this population.
 
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
-If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (See the respective package inserts for complete VZIG and IG prescribing information).
+If exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated (See the respective Prescribing Information for VZIG and IG).
 If chickenpox develops, treatment with antiviral agents may be considered.
+
 Corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infection of the respiratory tract; untreated systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex.
 
 ## 5.5 Hypercorticism and Adrenal Suppression
