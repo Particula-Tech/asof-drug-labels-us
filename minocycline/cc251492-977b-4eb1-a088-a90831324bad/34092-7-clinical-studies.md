@@ -2,6 +2,10 @@
 
 The safety and efficacy of AMZEEQ was assessed in three 12-week, multicenter, randomized, double-blind, vehicle-controlled studies (Study 1 [NCT02815267], Study 2 [NCT02815280], and Study 3 [NCT03271021]) in subjects with moderate to severe acne vulgaris.
 Efficacy was assessed in a total of 2,418 subjects 9 years of age and older.
+AMZEEQ or its vehicle were applied once daily for 12 weeks; no other topical or systemic medication affecting the course of acne vulgaris was permitted for use during these studies.], and Study 3 [NCT03271021]) in subjects with moderate to severe acne vulgaris.
+Efficacy was assessed in a total of 2,418 subjects 9 years of age and older.
+AMZEEQ or its vehicle were applied once daily for 12 weeks; no other topical or systemic medication affecting the course of acne vulgaris was permitted for use during these studies.], Study 2 [NCT02815280], and Study 3 [NCT03271021]) in subjects with moderate to severe acne vulgaris.
+Efficacy was assessed in a total of 2,418 subjects 9 years of age and older.
 AMZEEQ or its vehicle were applied once daily for 12 weeks; no other topical or systemic medication affecting the course of acne vulgaris was permitted for use during these studies.
 
 Subjects were required to have an inflammatory and non-inflammatory lesion count in the range 20-50 lesions and 25-100 lesions respectively, and an Investigator Global Assessment (IGA) score of 3 (“moderate”) or 4 (“severe”) at baseline.
