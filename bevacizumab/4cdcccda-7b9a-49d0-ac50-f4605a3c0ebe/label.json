@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761268"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "CELLRION USA, Inc.",
+  "package_ndcs": [
+    "72606-011-01",
+    "72606-011-10",
+    "72606-012-01",
+    "72606-012-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bevacizumab-adcd",
+      "name": "Vegzelma"
+    }
+  ],
+  "setid": "4cdcccda-7b9a-49d0-ac50-f4605a3c0ebe",
+  "source": "dailymed"
+}
