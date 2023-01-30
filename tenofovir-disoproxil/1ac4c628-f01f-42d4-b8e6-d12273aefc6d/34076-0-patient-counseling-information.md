@@ -1,23 +1,30 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
-Inform patients that tenofovir disoproxil fumarate tablets are not a cure for HIV-1 infection and patients may continue to experience illnesses associated with HIV-1 infection, including opportunistic infections.
-Patients should remain under the care of a physician when using tenofovir disoproxil fumarate tablets.
-Advise patients to avoid doing things that can spread HIV or HBV to others. • Do not share needles or other injection equipment. • Do not share personal items that can have blood or body fluids on them, like toothbrushes and razor blades. • Do not have any kind of sex without protection.
-Always practice safer sex by using a latex or polyurethane condom to lower the chance of sexual contact with semen, vaginal secretions, or blood. • Do not breastfeed.
-Tenofovir is excreted in breast milk and it is not known whether it can harm the baby.
-Mothers with HIV-1 should not breastfeed because HIV-1 can be passed to the baby in the breast milk.
-Inform patients that: • The long-term effects of tenofovir disoproxil fumarate tablets are unknown. • Tenofovir disoproxil fumarate tablets are for oral ingestion only. • Tenofovir disoproxil fumarate tablets should not be discontinued without first informing their physician. • If you have HIV-1 infection, with or without HBV coinfection, it is important to take tenofovir disoproxil fumarate tablets with combination therapy. • It is important to take tenofovir disoproxil fumarate tablets on a regular dosing schedule and to avoid missing doses. • Severe acute exacerbations of hepatitis have been reported in patients who are infected with HBV or coinfected with HBV and HIV-1 and have discontinued tenofovir disoproxil fumarate tablets [See Warnings and Precautions (5.1)]. • Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported.
-Tenofovir disoproxil fumarate tablets should be avoided with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [See Warnings and Precautions (5.2)]. • Lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
-Treatment with tenofovir disoproxil fumarate tablets should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [See Warnings and Precautions (5.3)]. • Tenofovir disoproxil fumarate tablets should not be coadministered with ATRIPLA, BIKTARVY, COMPLERA, DESCOVY, GENVOYA, ODEFSEY, STRIBILD, TRUVADA, or VEMLIDY [See Warnings and Precautions (5.4)]. • Tenofovir disoproxil fumarate tablets should not be administered in combination with HEPSERA [See Warnings and Precautions (5.4)]. • Decreases in bone mineral density have been observed with the use of tenofovir disoproxil fumarate tablets.
-Bone mineral density monitoring should be considered in patients who have a history of pathologic bone fracture or at risk for osteopenia [See Warnings and Precautions (5.6)]. • In some patients treated with combination antiretroviral therapy, including tenofovir disoproxil fumarate tablets, signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
-It is believed that these symptoms are due to an improvement in the body’s immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
-Advise patients to inform their healthcare provider immediately of any symptoms of infection [See Warnings and Precautions (5.7)]. • In the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for use).
+Severe Acute Exacerbation of Hepatitis B in Patients Infected with HBV Inform patients that severe acute exacerbations of hepatitis B have been reported in patients infected with hepatitis B virus (HBV) and have discontinued tenofovir disoproxil fumarate.
+Advise patients not to discontinue tenofovir disoproxil fumarate without first informing their healthcare provider.
+All patients should be tested for HBV infection before or when starting tenofovir disoproxil fumarate and those who are infected with HBV need close medical follow-up for several months after stopping tenofovir disoproxil fumarate to monitor for exacerbations of hepatitis [see Warnings and Precautions (5.1)].
+New Onset or Worsening Renal Impairment Inform patients that renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported in association with the use of tenofovir disoproxil fumarate.
+Advise patients to avoid tenofovir disoproxil fumarate with concurrent or recent use of a nephrotoxic agent (e.g., high-dose or multiple NSAIDs) [see Warnings and Precautions (5.2)].
+The dosing interval of tenofovir disoproxil fumarate may need adjustment in HIV-1 infected patients with renal impairment.
+Immune Reconstitution Syndrome Inform patients that in some patients with advanced HIV infection (AIDS) signs and symptoms of inflammation from previous infections may occur soon after anti-HIV treatment is started.
+It is believed that these symptoms are due to an improvement in the body's immune response, enabling the body to fight infections that may have been present with no obvious symptoms.
+Advise patients to inform their healthcare provider immediately of any symptoms of infection [see Warnings and Precautions (5.4)].
+Bone Loss and Mineralization Defects Inform patients that decreases in bone mineral density have been observed with the use of tenofovir disoproxil fumarate.
+Consider bone monitoring in patients who have a history of pathologic bone fracture or at risk for osteopenia [see Warnings and Precautions (5.5)].
+Lactic Acidosis and Severe Hepatomegaly Inform patients that lactic acidosis and severe hepatomegaly with steatosis, including fatal cases, have been reported.
+Treatment with tenofovir disoproxil fumarate should be suspended in any patient who develops clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Warnings and Precautions (5.6)].
+Drug Interactions Advise patients that tenofovir disoproxil fumarate may interact with many drugs; therefore, advise patients to report to their healthcare provider the use of any other medication, including other HIV drugs and drugs for treatment of hepatitis C virus [see Warnings and Precautions (5.7) and Drug Interactions (7)].
+Dosing Recommendations Inform patients that it is important to take tenofovir disoproxil fumarate on a regular dosing schedule with or without food and to avoid missing doses as it can result in development of resistance [see Dosage and Administration (2)].
+Pregnancy Registry Inform patients that there is an antiretroviral pregnancy registry to monitor fetal outcomes of pregnant women exposed to tenofovir disoproxil fumarate [see Use in Specific Populations (8.1)].
+Lactation Instruct mothers not to breastfeed if they are taking tenofovir disoproxil fumarate for the treatment of HIV-1 infection because of the risk of passing the HIV-1 virus to the baby [see Use in Specific Populations (8.2)].
+Treatment Duration Advise patients that in the treatment of chronic hepatitis B, the optimal duration of treatment is unknown.
 The relationship between response and long-term prevention of outcomes such as hepatocellular carcinoma is not known.
+
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
+
+By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India
+
+Revised: 01/2023
+
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of Hetero Labs Limited.
-
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854.
-
-By: HETEROTM HETERO LABS LIMITED 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
-
-Revised: September 2018
