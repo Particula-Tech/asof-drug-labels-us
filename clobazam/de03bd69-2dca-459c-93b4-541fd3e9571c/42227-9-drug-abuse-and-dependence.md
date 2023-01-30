@@ -30,8 +30,7 @@ Physical Dependence
 ONFI may produce physical dependence from continued therapy.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
-Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
-In clinical trials, cases of dependency were reported following abrupt discontinuation of ONFI.
+Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].In clinical trials, cases of dependency were reported following abrupt discontinuation of ONFI.
 
 To reduce the risk of withdrawal reactions, use a gradual taper to discontinue ONFI or reduce the dosage [see Dosage and Administration (2.2) and Warnings and Precautions (5.3)].
 

@@ -9,7 +9,7 @@ Inform patients and caregivers that potentially fatal additive effects may occur
 Abuse, Misuse, and Addiction
 
 Inform patients that the use of ONFI, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug[see Warnings and Precautions (5.2) and Drug Abuse and Dependence (9.2)].
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions (5.2) and Drug Abuse and Dependence (9.2)].
 
 Withdrawal Reactions
 
@@ -37,14 +37,15 @@ If a skin reaction occurs while taking ONFI, patients or caregivers should consu
 Suicidal Thinking and Behavior Counsel patients, their caregivers, and their families that AEDs, including ONFI, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
 Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.7)].
 
-Pregnancy Advise pregnant women and women of childbearing potential that the use of ONFI during pregnancy can cause fetal harm which may occur early in pregnancy before many women know they are pregnant.
-Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
+Pregnancy Advise pregnant females that the use of ONFI late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Instruct patients to notify their healthcare provider if they are pregnant.
 
-Advise patients that there is a pregnancy exposure registry that collects information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking ONFI.
+The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
-Nursing Counsel patients that ONFI is excreted in breast milk.
-Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy and counsel nursing mothers to observe their infants for poor sucking and somnolence [see Use in Specific Populations (8.2)].
+Lactation Counsel patients that clobazam, the active ingredient in ONFI, is excreted in breast milk.
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who have been administered ONFI to observe their infants for sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].
 
 Tablets manufactured by: Catalent Pharma Solutions, LLC Winchester, KY 40391, U.S.A.
 

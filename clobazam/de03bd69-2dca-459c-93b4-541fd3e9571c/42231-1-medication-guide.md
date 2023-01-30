@@ -90,18 +90,16 @@ Before you take ONFI, tell your healthcare provider about all your medical condi
   ONFI may cause your birth control medicine to be less effective.
   Talk to your healthcare provider about the best birth control method to use.
 - are pregnant or plan to become pregnant.
-  ONFI may harm your unborn baby.
-  - Tell your healthcare provider right away if you become pregnant while taking ONFI.
-    You and your healthcare provider will decide if you should take ONFI while you are pregnant.
-  - Babies born to mothers receiving benzodiazepine medications (including ONFI) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, dangerously low body temperature, and withdrawal symptoms.
-- If you become pregnant while taking ONFI, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-  You can register by calling 1-888-233-2334.
-  For more information about the registry go to http://www.aedpregnancyregistry.org.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-- ONFI can pass into breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you take ONFI.
-  You and your healthcare provider should decide if you will take ONFI or breast feed.
-  You should not do both.
+  - Taking ONFI late in pregnancy may cause your baby to have symptoms of sedation (breathing problems, sluggishness, low muscle tone), and/or withdrawal symptoms (jitteriness, irritability, restlessness, shaking, excessive crying, feeding problems).
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant while taking ONFI.
+  - If you become pregnant while taking ONFI, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+    You can register by calling 1-888-233-2334.
+    For more information about the registry go to http://www.aedpregnancyregistry.org.
+    The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+- are breastfeeding or plan to breastfeed.
+  ONFI can pass into breast milk.
+  - Breastfeeding during treatment with ONFI may cause your baby to have sleepiness, feeding problems, and decreased weight gain.
+  - Talk to your healthcare provider about the best way to feed your baby if you take ONFI.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Taking ONFI with certain other medicines can cause side effects or affect how well ONFI or the other medicines work.
@@ -184,7 +182,7 @@ ONFI is a registered trademark of Lundbeck
 
 For more information about ONFI, go to www.ONFI.com or call Lundbeck at 1-866-402-8520.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 2/2021
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 1/2023
 
 Instructions for Use ONFI® (ON-fee) (clobazam) Oral Suspension, CIV
 
