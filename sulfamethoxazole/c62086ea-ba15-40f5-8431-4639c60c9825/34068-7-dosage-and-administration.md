@@ -70,10 +70,10 @@ The recommended dosage for prophylaxis in adults is four teaspoonfuls (20 mL) of
 
 ### Children
 
-For children, the recommended dose is 750 mg/m 2/day sulfamethoxazole with 150 mg/m 2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
+For children, the recommended dose is 750 mg/m2/day sulfamethoxazole with 150 mg/m2/day trimethoprim given orally in equally divided doses twice a day, on 3 consecutive days per week.
 The total daily dose should not exceed 1600 mg sulfamethoxazole and 320 mg trimethoprim.12 The following table is a guideline for the attainment of this dosage in children:
 
-| (m 2) | Teaspoonfuls |
+| (m2) | Teaspoonfuls |
 | --- | --- |
 | Body Surface Area | Dose every 12 hours |
 | 0.26 | ½ (2.5 mL) |

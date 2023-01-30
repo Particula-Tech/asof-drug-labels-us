@@ -1,13 +1,5 @@
 # WARNINGS
 
-FATALITIES ASSOCIATED WITH THE ADMINISTRATION OF SULFONAMIDES, ALTHOUGH RARE, HAVE OCCURRED DUE TO SEVERE REACTIONS, INCLUDING STEVENS-JOHNSON SYNDROME, TOXIC EPIDERMAL NECROLYSIS, FULMINANT HEPATIC NECROSIS, AGRANULOCYTOSIS, APLASTIC ANEMIA AND OTHER BLOOD DYSCRASIAS.
-
-SULFONAMIDES, INCLUDING SULFONAMIDE-CONTAINING PRODUCTS SUCH AS SULFAMETHOXAZOLE/ TRIMETHOPRIM, SHOULD BE DISCONTINUED AT THE FIRST APPEARANCE OF SKIN RASH OR ANY SIGN OF ADVERSE REACTION.
-In rare instances, a skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, hepatic necrosis and serious blood disorders (see PRECAUTIONS).
-Clinical signs, such as rash, sore throat, fever, arthralgia, pallor, purpura or jaundice may be early indications of serious reactions.
-
-Cough, shortness of breath, and pulmonary infiltrates are hypersensitivity reactions of the respiratory tract that have been reported in association with sulfonamide treatment.
-
 ## Hypersensitivity and Other Serious or Fatal Reactions
 
 Fatalities and serious adverse reactions including severe cutaneous adverse reactions (SCARs) including Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute febrile neutrophilic dermatosis (AFND), acute generalized erythematous pustulosis (AGEP); fulminant hepatic necrosis; agranulocytosis, aplastic anemia and other blood dyscrasias; acute and delayed lung injury; anaphylaxis and circulatory shock have occurred with the administration of sulfamethoxazole and trimethoprim products,(see ADVERSE REACTIONS).
