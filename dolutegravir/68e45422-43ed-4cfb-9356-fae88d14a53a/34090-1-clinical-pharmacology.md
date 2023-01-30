@@ -28,7 +28,8 @@ Multiple-Dose Pharmacokinetic Parameters of the Components of DOVATO
 | Cmax (mcg/mL) | 3.67 (20%) | 2.04 (26%) |
 | Ctrough (mcg/mL) | 1.11 (46%) | 0.042 (38%) |
 | AUCtau (mcg/h/mL) | 53.6 (27%) | 8.87 (21%) |
-| a Based on dolutegravir 50-mg once-daily dosage administered to antiretroviral treatment-naive adults. b Based on lamivudine 300-mg once-daily dosage administered to healthy subjects. Cmax = Maximum concentration; Ctrough = Lowest concentration before administration of the next dose; AUCtau = Area under the concentration-time curve integrated across the dosing interval. |  |  |
+| Cmax = Maximum concentration; Ctrough = Lowest concentration before administration of the next dose; AUCtau = Area under the concentration-time curve integrated across the dosing interval. |  |  |
+| a Based on dolutegravir 50-mg once-daily dosage administered to antiretroviral treatment-naive adults. b Based on lamivudine 300-mg once-daily dosage administered to healthy subjects. |  |  |
 
 The absorption, distribution, and elimination pharmacokinetic parameters of the components of DOVATO are provided in Table 7.
 
@@ -52,7 +53,7 @@ Pharmacokinetic Properties of the Components of DOVATO
 | Major route of elimination | Metabolism | Renal, by OCT system |  |  |  |
 | Urine (unchanged) | 31% (<1%)e | Approximately 70%f |  |  |  |
 | Feces (unchanged) | 64% (53%)e | − |  |  |  |
-| Tmax = Time to maximum concentration (Cmax); t1/2 = Elimination half-life; UGT = uridine diphosphate glucuronosyl transferase; CYP = cytochrome P450. |  |  |  |  |  |
+| Tmax = Time to maximum concentration (Cmax); t1/2 = Elimination half-life; UGT = Uridine diphosphate glucuronosyl transferase; CYP = Cytochrome P450; OCT = Organic cation transporter. |  |  |  |  |  |
 | a After administration of DOVATO (fasted state). b High-fat meal is approximately 900 kcal, 56% fat. c The geometric mean (90% confidence interval) AUC ratio (fed/fasted) of dolutegravir and lamivudine is 1.33 (1.18, 1.48) and 0.91 (0.87, 0.96), respectively. d Based on in vitro data. e Based on single-dose, mass balance study of radiolabeled dolutegravir. f Based on 24-hour urine collection obtained after oral or IV administration. |  |  |  |  |  |
 
 Specific Populations
@@ -93,7 +94,7 @@ Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 | Norelgestrominb 0.25 mg | 50 mgtwice daily | 0.89(0.82 to 0.97) | 0.98(0.91 to 1.04) | 0.93(0.85 to 1.03) |  |  |  |  |  |  |
 | Sofosbuvir 400 mg once daily Metabolite (GS-331007) | 50 mgonce daily | 0.88(0.80, 0.98)1.01(0.93, 1.10) | 0.92(0.85, 0.99)0.99(0.97, 1.01) | NA 0.99(0.97, 1.01) |  |  |  |  |  |  |
 | Velpatasvir 100 mg once daily | 50 mgonce daily | 0.94(0.86, 1.02) | 0.91(0.84, 0.98) | 0.88(0.82, 0.94) |  |  |  |  |  |  |
-| a OCT2 (Organic cation transporter 2) or MATE1 (multidrug and toxin extrusion 1) substrate. b Norelgestromin is the active metabolite of norgestimate. |  |  |  |  |  |  |  |  |  |  |
+| a OCT2 or multidrug and toxin extrusion (MATE)1 substrate. b Norelgestromin is the active metabolite of norgestimate. |  |  |  |  |  |  |  |  |  |  |
 
 No clinically significant differences in the pharmacokinetics of tenofovir (organic anion transporter [OAT]1 and OAT3 substrates) or para-amino hippurate (OAT1 and OAT3 substrates) were observed when coadministered with dolutegravir.
 
@@ -132,7 +133,8 @@ Effect of Sorbitol on the Pharmacokinetics of Lamivudine
 | Sorbitol(Excipient) | 3.2 grams | 28% | 20% | 14% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 10.2 grams | 52% | 39% | 32% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 13.4 grams | 55% | 44% | 36% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Coadministered with a single dose of lamivudine 300 mg. Cmax = Maximum concentration; AUC(0-24) = Area under the concentration-time curve integrated from time of administration to 24 hours; AUC(inf) = Area under the concentration-time curve from the time of administration to infinity. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Cmax = Maximum concentration; AUC(0-24) = Area under the concentration-time curve integrated from time of administration to 24 hours; AUC(inf) = Area under the concentration-time curve from the time of administration to infinity. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Coadministered with a single dose of lamivudine 300 mg. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 No clinically significant differences in the pharmacokinetics of lamivudine were observed when coadministered with trimethoprim (MATE1, MATE2-K, and OCT2 inhibitor)/sulfamethoxazole, interferon alfa, or ribavirin.
 
@@ -187,7 +189,7 @@ Substitutions M184V or I confer high-level resistance to lamivudine.
 
 Clinical Subjects: At Week 144, none of the 12 subjects in the dolutegravir plus lamivudine group or the 9 subjects in the dolutegravir plus TDF/FTC group who met the protocol-defined confirmed virologic withdrawal criteria across the pooled GEMINI-1 and GEMINI-2 trials had emergent INSTI- or NRTI-resistance substitutions.
 
-No subject who received DOVATO in the TANGO trial met the protocol-defined confirmed virologic withdrawal criteria through Week 96.
+No subject who received DOVATO in the TANGO trial met the protocol-defined confirmed virologic withdrawal criteria through Week 144.
 No emergent INSTI- or NRTI-resistance was detected by genotypic or phenotypic analyses of the last on-treatment isolate from one subject who received DOVATO with HIV-1 RNA ≥400 copies/mL at withdrawal.
 No emergent resistance was detected by genotypic or phenotypic analyses of HIV-1 integrase, protease, or reverse transcriptase at the time of virologic failure in 3 subjects in the TBR arm who met the confirmed virologic withdrawal criteria.
 

@@ -66,9 +66,11 @@ Skin and Subcutaneous Tissue Disorders: Pruritus, rash.
 
 Clinical Trials in Virologically Suppressed Adults
 
-The safety of DOVATO in virologically suppressed adults was based on Week 96 data from 740 subjects in a randomized, parallel-group, open-label, multicenter, non-inferiority controlled trial (TANGO).
-Subjects who were on a stable suppressive tenofovir alafenamide-based regimen (TBR) were randomized to receive DOVATO once daily or continue with their TBR for up to 200 weeks.
+The safety of DOVATO in virologically suppressed adults was based on Week 144 data from 740 subjects in a randomized, parallel-group, open-label, multicenter, non-inferiority controlled trial (TANGO).
+Subjects who were on a stable suppressive tenofovir alafenamide-based regimen (TBR) were randomized to receive DOVATO once daily or continue with their TBR for up to 148 weeks; at Week 148, the subjects randomized to continue with their TBR were switched to DOVATO once daily.
+All subjects are followed up to Week 200.
 Overall, the safety profile of DOVATO in virologically suppressed adult subjects in the TANGO trial was similar to that of TIVICAY plus EPIVIR in subjects with no antiretroviral treatment history in the GEMINI trials [see Clinical Studies (14.3)].
+Adverse reactions observed in at least 2% of subjects in the TANGO trial who were treated with DOVATO were weight increased (3%) and insomnia (2%).
 
 Laboratory Abnormalities
 
@@ -160,7 +162,7 @@ Weight increased.
 
 Musculoskeletal
 
-Arthralgia, creatinine phosphokinase elevation, muscle weakness, myalgia, rhabdomyolysis.
+Arthralgia, creatinine phosphokinase (CPK) elevation, muscle weakness, myalgia, rhabdomyolysis.
 
 Nervous System
 

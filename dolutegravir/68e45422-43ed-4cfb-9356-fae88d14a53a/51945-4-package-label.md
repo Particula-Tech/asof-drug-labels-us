@@ -35,17 +35,19 @@ Mfd for:
 
 ViiV Healthcare
 
-RTP, NC 27709
+Durham, NC 27701
 
-by: GlaxoSmithKline, RTP, NC 27709
+by: GlaxoSmithKline,
+
+Durham, NC 27701
 
 Trademarks owned or licensed by ViiV Healthcare.
 
-©2019 ViiV Healthcare or licensor.
+©2023 ViiV Healthcare or licensor.
 
 www.dovato.com
 
 Rev.
-3/19
+1/23
 
-62000000031103
+62000000084478
