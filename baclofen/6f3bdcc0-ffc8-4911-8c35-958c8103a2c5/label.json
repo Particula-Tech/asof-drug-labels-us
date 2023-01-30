@@ -5,12 +5,19 @@
   "inn": "baclofen",
   "labeler": "Amneal Pharmaceuticals LLC",
   "package_ndcs": [
+    "70121-2496-5",
     "70121-2501-1",
     "70121-2502-2",
     "70121-2503-1",
-    "70121-2504-2"
+    "70121-2504-2",
+    "70121-2505-2"
   ],
   "products": [
+    {
+      "form": "INJECTION",
+      "generic": "baclofen",
+      "name": "Lioresal (baclofen)"
+    },
     {
       "form": "KIT",
       "generic": "baclofen",
