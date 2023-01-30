@@ -12,7 +12,7 @@ The pharmacokinetics of valacyclovir and acyclovir after oral administration of 
 
 #### Absorption and Bioavailability
 
-After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valine by first-pass intestinal and/or hepatic metabolism.
+After oral administration, valacyclovir hydrochloride is rapidly absorbed from the gastrointestinal tract and nearly completely converted to acyclovir and L-valineby first-pass intestinal and/or hepatic metabolism.
 
 The absolute bioavailability of acyclovir after administration of valacyclovir tablets is 54.5% ± 9.1% as determined following a 1-gram oral dose of valacyclovir tablets and a 350-mg intravenous acyclovir dose to 12 healthy volunteers.
 Acyclovir bioavailability from the administration of valacyclovir tablets is not altered by administration with food (30 minutes after an 873 Kcal breakfast, which included 51 grams of fat).
