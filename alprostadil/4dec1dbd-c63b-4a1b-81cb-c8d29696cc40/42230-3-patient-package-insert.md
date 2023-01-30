@@ -122,8 +122,6 @@ Inactive ingredients: alpha cyclodextrin, lactose, sodium citrate, benzyl alcoho
 This product’s label may have been updated.
 For current full prescribing information, please visit www.pfizer.com
 
-Manufactured by:
+LAB-0641-8.0
 
-LAB-0641-7.0
-
-Revised December 2022
+Revised January 2023

@@ -124,8 +124,6 @@ Keep CAVERJECT IMPULSE and all medicines out of the reach of children.
 
 This Patient Information and Instructions for Use has been approved by the U.S Food and Drug Administration.
 
-Manufactured by:
+LAB-1504-2.0
 
-LAB-1504-1.0
-
-Revised December 2022
+Revised January 2023
