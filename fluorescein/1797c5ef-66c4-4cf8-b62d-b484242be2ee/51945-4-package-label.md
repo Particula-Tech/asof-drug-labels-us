@@ -2,10 +2,24 @@
 
 NDC 24208-734-05
 
-Paragon BioTeck, Inc.
+Fluorescein Sodium
 
-Fluorescein Sodium and Benoxinate Hydrochloride Ophthalmic Solution, 0.3%/0/4%
+and Benoxinate
 
-Rx Only
+Hydrochloride
+
+Ophthalmic Solution
+
+0.3%/0.4%
+
+(Sterile)
+
+FOR TOPICAL OPHTHALMIC USE
+
+Rx only
 
 5 mL
+
+BAUSCH + LOMB
+
+9785300

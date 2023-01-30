@@ -5,18 +5,13 @@ Accidental Injury Precaution
 Advise patients not to touch their eyes for approximately 20 minutes after application.
 Their eyes will be insensitive due to the effect of the anesthetic, and care should be taken to avoid accidental injuries.
 
-Manufactured for and Distributed by:
+Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
-Paragon BioTeck, Inc.
+Manufactured by: Siegfried-Irvine Irvine, CA 92618 USA
 
-4640 SW Macadam Ave, Ste 80
+Patented.
+See https://patents.bausch.com for US patent information.
 
-Portland, OR 97239
+© 2022 Bausch & Lomb Incorporated or its affiliates
 
-Manufactured by:
-
-Siegfried-Irvine,
-
-9342 Jeronimo Road,
-
-Irvine, CA 92618
+9785500
