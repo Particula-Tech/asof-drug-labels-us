@@ -73,7 +73,12 @@ Measurements of intraocular pressure in patients without eye disease show a mode
 Patients with open-angle glaucoma may need to have their ophthalmologic status evaluated following treatment with SEIZALAM.
 SEIZALAM is not recommended in patients with narrow-angle glaucoma.
 
-## 5.9 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative
+## 5.9 Neonatal Sedation and Withdrawal Syndrome
+
+Use of SEIZALAM late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
+Monitor neonates exposed to SEIZALAM during pregnancy or labor for signs of sedation and monitor neonates exposed to SEIZALAM during pregnancy for signs of withdrawal; manage these neonates accordingly.
+
+## 5.10 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative
 
 SEIZALAM is not approved for use in neonates or infants.
 Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs, including SEIZALAM.

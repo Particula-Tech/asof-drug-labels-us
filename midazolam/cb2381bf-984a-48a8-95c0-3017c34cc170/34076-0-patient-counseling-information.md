@@ -27,18 +27,17 @@ Advise patients not to operate hazardous machinery or a motor vehicle until the 
 
 Pregnancy
 
-Instruct patients to inform their physician if they are pregnant or are planning to become pregnant.
-Several studies have suggested an increased risk of congenital malformations associated with the use of benzodiazepine drugs.
-Animal studies have demonstrated an effect on early brain development and long-term cognitive effects with exposure to anesthetic and sedation drugs in the third trimester of gestation.
+Advise pregnant females that the use of SEIZALAM late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant.
 Encourage patients to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct patients to inform their physician if they are nursing [see Use in Specific Populations (8.2)].
+Counsel patients that midazolam, the active ingredient in SEIZALAM, is excreted in breast milk.
+Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who have been administered SEIZALAM to monitor infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].
 
 Manufactured by: Hospira, Inc. Lake Forest, IL 60045 A Pfizer Company
 
-Distributed by: Meridian Medical Technologies, Inc. Columbia, MD 21046 A Pfizer Company
-
-LAB-1070-3.0
+Distributed by: Meridian Medical Technologies®, LLC St. Louis, MO 63146 0002218

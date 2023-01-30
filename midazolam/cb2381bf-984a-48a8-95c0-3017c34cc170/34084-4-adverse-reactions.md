@@ -10,7 +10,8 @@ The following serious adverse reactions are discussed in greater detail in other
 - Risks from Concomitant Use of Central Nervous System Depressants [see Warnings and Precautions (5.6)]
 - Impaired Cognitive Function [see Warnings and Precautions (5.7)]
 - Glaucoma [see Warnings and Precautions (5.8)]
-- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.9)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.9)]
+- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
