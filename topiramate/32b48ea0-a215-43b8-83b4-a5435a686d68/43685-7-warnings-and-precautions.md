@@ -35,9 +35,11 @@ This metabolic acidosis is caused by renal bicarbonate loss due to carbonic anhy
 Topiramate-induced metabolic acidosis can occur at any time during treatment.
 Bicarbonate decrements are usually mild-moderate (average decrease of 4 mEq/L at daily doses of 400 mg in adults and at approximately 6 mg/kg/day in pediatric patients); rarely, patients can experience severe decrements to values below 10 mEq/L.
 Conditions or therapies that predispose patients to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhea, ketogenic diet, or specific drugs) may be additive to the bicarbonate lowering effects of topiramate.
+
 Metabolic acidosis was commonly observed in adult and pediatric patients treated with topiramate in clinical trials.
 The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial-onset seizures was as high as 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to < 2% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to < 2% for placebo.
+
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
 Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.9, 5.13)].
 A one-year, active-controlled study of pediatric patients treated with topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
@@ -45,7 +47,10 @@ Chronic metabolic acidosis in pediatric patients may also reduce growth rates, w
 Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24 month old pediatrics.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
 Topiramate treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
-Measurement of Serum Bicarbonate in Epilepsy and Migraine Patients Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
+
+Measurement of Serum Bicarbonate in Epilepsy and Migraine Patients
+
+Measurement of baseline and periodic serum bicarbonate during topiramate treatment is recommended.
 If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing topiramate (using dose tapering).
 If the decision is made to continue patients on topiramate in the face of persistent acidosis, alkali treatment should be considered.
 
@@ -107,7 +112,7 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.7 Fetal Toxicity
 
 Topiramate can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age (SGA).
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 Consider the benefits and the risks of topiramate when administering this drug in women of childbearing potential, particularly when topiramate is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
 Topiramate should be used during pregnancy only if the potential benefit outweighs the potential risk.
@@ -178,9 +183,9 @@ Topiramate is not approved for treatment of epilepsy in pediatric patients less 
 Topiramate is a carbonic anhydrase inhibitor.
 Carbonic anhydrase inhibitors can promote stone formation by reducing urinary citrate excretion and by increasing urinary pH [see Warnings and Precautions (5.4)].
 The concomitant use of topiramate with any other drug producing metabolic acidosis, or potentially in patients on a ketogenic diet, may create a physiological environment that increases the risk of kidney stone formation, and should therefore be avoided.
-
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
+
 An increase in urinary calcium and a marked decrease in urinary citrate was observed in topiramate-treated pediatric patients in a one-year active-controlled study [see Use in Specific Populations (8.4)].
 This increased ratio of urinary calcium/citrate increases the risk of kidney stones and/or nephrocalcinosis.
 
