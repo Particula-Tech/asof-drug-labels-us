@@ -10,19 +10,15 @@ The diazepam rectal gel delivery system is available in the following three pres
 | --- | --- | --- |
 | 2.5 mg Twin Pack | 4.4 cm | 66490-650-20 |
 | DIASTAT® ACUDIAL™ | Rectal Tip Size | NDC |
-| 10 mg Delivery | 4.4 cm | 0187-0658-20 |
-| System Twin Pack |  |  |
-| 20 mg Delivery | 6.0 cm | 0187-0659-20 |
-| System Twin Pack |  |  |
+| 10 mg DeliverySystem Twin Pack | 4.4 cm | 0187-0658-20 |
+| 20 mg DeliverySystem Twin Pack | 6.0 cm | 0187-0659-20 |
 
 Each Twin Pack contains two diazepam rectal gel delivery systems, two packets of lubricating jelly, and administration and disposal Instructions available on the bottom of the package.
 DIASTAT ACUDIAL is also packed with Instructions for Caregivers upon receipt from pharmacy.
 
 Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-DIASTAT® ACUDIAL™
-
-INSTRUCTIONS FOR CAREGIVERS UPON RECEIPT FROM PHARMACY
+DIASTAT® ACUDIAL™ INSTRUCTIONS FOR CAREGIVERS UPON RECEIPT FROM PHARMACY
 
 - •Remove the syringe from the case.
 - •Confirm the dose prescribed by your doctor is visible and if known, is correct.
@@ -39,15 +35,13 @@ The Instructions are also available on the bottom of each drug product package.
 
 CAUTION: Federal law prohibits the transfer of this drug to any person other than the patient for whom it was prescribed.
 
-Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Manufactured for: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 ®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-© 2021 Bausch Health Companies Inc. or its affiliates
+© 2023 Bausch Health Companies Inc. or its affiliates
 
-9435004
-
-Rev.
-3/2021
+9435005 Rev.
+01/2023

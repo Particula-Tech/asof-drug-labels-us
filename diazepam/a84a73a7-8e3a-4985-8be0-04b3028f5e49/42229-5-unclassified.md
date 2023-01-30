@@ -1,5 +1,3 @@
-ADMINISTRATION AND DISPOSAL INSTRUCTIONS
-
 IMPORTANT
 
 Read first before using
@@ -12,17 +10,15 @@ Please do not give DIASTAT® until:
 2. 2.Reviewed administration steps with the doctor
 3. 3.Understand the directions
 
-To the caregiver using DIASTAT® ACUDIAL™:
-
-Please do not give DIASTAT® ACUDIAL™ until:
+To the caregiver using DIASTAT® ACUDIAL™: Please do not give DIASTAT® ACUDIAL™ until:
 
 1. 1.You have confirmed:
-2. 2.Prescribed dose is visible and if known, is correct
-3. 3.green “READY” band is visible
+2. • Prescribed dose is visible and if known, is correct
+3. • green “READY” band is visible
 
-1. 1.You have thoroughly read these instructions
-2. 2.Reviewed administration steps with the doctor
-3. 3.Understand the directions
+1. 2.You have thoroughly read these instructions
+2. 3.Reviewed administration steps with the doctor
+3. 4.Understand the directions
 
 Please do not administer DIASTAT until you feel comfortable with how to use DIASTAT.
 The doctor will tell you exactly when to use DIASTAT.
@@ -32,15 +28,11 @@ If you are not comfortable, then discuss your role with the doctor again.
 
 To help the person with seizures:
 
-- •You must be able to tell the difference between cluster and ordinary seizures.
-- •You must be comfortable and satisfied that you are able to give DIASTAT.
-- •You need to agree with the doctor on the exact conditions when to treat with DIASTAT.
-- •You must know how and for how long you should check the person after giving DIASTAT.
+✓ You must be able to tell the difference between cluster and ordinary seizures. ✓ You must be comfortable and satisfied that you are able to give DIASTAT. ✓ You need to agree with the doctor on the exact conditions when to treat with DIASTAT. ✓ You must know how and for how long you should check the person after giving DIASTAT.
 
 To know what responses to expect:
 
-- •You need to know how soon seizures should stop or decrease in frequency after giving DIASTAT.
-- •You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
+✓ You need to know how soon seizures should stop or decrease in frequency after giving DIASTAT. ✓ You need to know what you should do if the seizures do not stop or there is a change in the person’s breathing, behavior or condition that alarms you.
 
 If you have any questions or feel unsure about using the treatment, CALL THE DOCTOR before using DIASTAT.
 
@@ -49,9 +41,9 @@ Based on the doctor’s directions or prescription.
 Your doctor may prescribe a second dose of diazepam rectal gel.
 If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
-________________________________________________________
+____________________________________________________________________________________
 
-________________________________________________________
+____________________________________________________________________________________
 
 Special considerations.
 
@@ -72,7 +64,7 @@ Confirm current weight is still the same as when DIASTAT was prescribed ________
 Check expiration date and always remove cap before using.
 Be sure seal pin is removed with the cap.
 
-TREATMENT 1 ------------------------------------------------------------------------------------------------------------
+TREATMENT 1 ------------------------------------------------------------------------------------------------------------------------------
 
 Important things to tell the doctor.
 
@@ -80,15 +72,15 @@ Things to do after treatment with DIASTAT:
 
 Stay with the person for 4 hours and make notes on the following:
 
-- •Changes in resting breathing rate __________________________________________________
-- •Changes in color _______________________________________________________________
-- •Possible side effects from treatment ________________________________________________
+- •Changes in resting breathing rate_______________________________________________________
+- •Changes in color ___________________________________________________________________
+- •Possible side effects from treatment_____________________________________________________
 - •Your doctor may prescribe a second dose of diazepam rectal gel.
   If a second dose is needed, give it 4 hours to 12 hours after the first dose.
 
 TREATMENT 2
 
-------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------
 
 Important things to tell the doctor:
 
@@ -96,21 +88,19 @@ Things to do after treatment with DIASTAT:
 
 Stay with the person for 4 hours and make notes on the following:
 
-- •Changes in resting breathing rate___________________________________________________
-- •Changes in color ________________________________________________________________
-- •Possible side effects from treatment_________________________________________________
+- •Changes in resting breathing rate_______________________________________________________
+- •Changes in color ___________________________________________________________________
+- •Possible side effects from treatment_____________________________________________________
+- 
+- 
 
-ADMINISTRATION AND DISPOSAL INSTRUCTIONS
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Manufactured for: Bausch Health US, LLC Bridgewater, NJ 08807 USA
-
-Manufactured by: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
+Manufactured for: DPT Laboratories, Ltd. San Antonio, TX 78215 USA
 
 ®/™ are trademarks of Bausch Health Companies Inc. or its affiliates.
 
-© 2021 Bausch Health Companies Inc. or its affiliates
+© 2023 Bausch Health Companies Inc. or its affiliates
 
-9435004
-
-Rev.
-3/2021
+9435005 Rev.
+01/2023
