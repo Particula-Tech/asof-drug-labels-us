@@ -103,7 +103,7 @@ Permanent treatment discontinuation should be considered in patients who experie
 
 ## 5.9 Neurologic Reactions
 
-Severe neurosensory symptoms (e.g., paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients, and resulted in treatment discontinuation in 6.1%.
+Severe neurosensory symptoms (e.g. paresthesia, dysesthesia, pain) were observed in 5.5% (53/965) of metastatic breast cancer patients, and resulted in treatment discontinuation in 6.1%.
 When these symptoms occur, dosage must be adjusted.
 If symptoms persist, treatment should be discontinued [see Dosage and Administration (2.7)].
 Patients who experienced neurotoxicity in clinical trials and for whom follow-up information on the complete resolution of the event was available had spontaneous reversal of symptoms with a median of 9 weeks from onset (range: 0 to 106 weeks).
@@ -129,8 +129,8 @@ In animal reproduction studies, administration of docetaxel to pregnant rats and
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Verify pregnancy status in females of reproductive potential prior to initiating docetaxel.
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of docetaxel.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of docetaxel [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.13 Alcohol Content
 

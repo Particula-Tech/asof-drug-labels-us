@@ -36,5 +36,5 @@ Freezing does not adversely affect the product.
 
 ## 16.3 Handling and Disposal
 
-Docetaxel is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1
+Docetaxel is a hazardous drug.
+Follow applicable special handling and disposal procedures.

@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Bone Marrow Suppression
 
-Advise patients that periodic assessment of their blood count will be performed to detect neutropenia, thrombocytopenia and/or anemia [see Contraindications (4), Warnings and Precautions (5.3)].
+Advise patients that periodic assessment of their blood count will be performed to detect neutropenia, thrombocytopenia, and/or anemia [see Contraindications (4), Warnings and Precautions (5.3)].
 Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
 
 Enterocolitis and Neutropenic Colitis
@@ -18,7 +18,7 @@ Instruct patients to immediately report to their healthcare provider signs of a 
 
 Fluid Retention
 
-Advise patients to report signs of fluid retention such as peripheral edema in the lower extremities, weight gain and dyspnea immediately to their healthcare provider [see Warnings and Precautions (5.6)].
+Advise patients to report signs of fluid retention such as peripheral edema in the lower extremities, weight gain, and dyspnea immediately to their healthcare provider [see Warnings and Precautions (5.6)].
 
 Second Primary Malignancies
 
@@ -63,8 +63,8 @@ Embryo-Fetal Toxicity
 Docetaxel can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
-Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
+Advise female patients of reproductive potential to use effective contraceptives during treatment and for 2 months after the last dose of docetaxel.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of docetaxel [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 

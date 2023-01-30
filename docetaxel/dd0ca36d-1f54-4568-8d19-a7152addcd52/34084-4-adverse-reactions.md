@@ -664,7 +664,7 @@ Ophthalmologic: conjunctivitis, lacrimation or lacrimation with or without conju
 Excessive tearing which may be attributable to lacrimal duct obstruction.
 Transient visual disturbances (flashes, flashing lights, scotomata), typically occurring during drug infusion and reversible upon discontinuation of the infusion, in association with hypersensitivity reactions.
 
-Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis which may be fatal.
+Respiratory: dyspnea, acute pulmonary edema, acute respiratory distress syndrome/pneumonitis, interstitial lung disease, interstitial pneumonia, respiratory failure, and pulmonary fibrosis, which may be fatal.
 Radiation pneumonitis in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure, the majority of cases were associated with concomitant nephrotoxic drugs.

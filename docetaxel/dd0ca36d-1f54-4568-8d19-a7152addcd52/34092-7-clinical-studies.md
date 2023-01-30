@@ -80,7 +80,7 @@ At the time of this interim analysis, based on 219 deaths, overall survival was 
 (See Figure 2.)
 There will be further analysis at the time survival data mature.
 
-Figure 1: TAX316 Disease-Free Survival K-M curve
+Figure 1: TAX316 Disease Free Survival K-M curve
 
 Figure 2: TAX316 Overall Survival K-M Curve
 
@@ -90,7 +90,7 @@ Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
 | Patient subset | Number of patients | Hazard ratioa hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Disease-Free Survival |  | Overall Survival |  |
+|  |  | Disease Free Survival |  | Overall Survival |  |
 | No. of positive nodes |  |  |  |  |  |
 | Overall | 744 | 0.74 | (0.60, 0.92) | 0.69 | (0.53, 0.90) |
 | 1–3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
