@@ -24,7 +24,7 @@ In some cases, but not all, the urges were reported to have stopped when the dos
 
 Interference with Cognitive and Motor Performance
 
-Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see Warnings and Precautions (5.11)].
+Because aripiprazole may have the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that aripiprazole therapy does not affect them adversely [see Warnings and Precautions (5.12)].
 
 Concomitant Medication
 
@@ -46,6 +46,6 @@ TORRENT PHARMACEUTICALS LTD., INDIA.
 
 Manufactured for:
 
-TORRENT PHARMA INC., Basking Ridge, NJ 07920
+TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8088925 Revised: August 2022
+8091276 Revised: January 2023
