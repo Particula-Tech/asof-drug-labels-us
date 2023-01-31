@@ -33,7 +33,7 @@ Assess pregnancy status prior to inserting LILETTA, as recommended [see Dosage a
 
 Safety and effectiveness of LILETTA have been established in females of reproductive potential.
 The safety and effectiveness are expected to be the same for postpubertal females under the age of 16 as for users 16 years and older.
-The LILETTA clinical trial included 11 participants who were 16 to 17 years of age; no differences in safety or effectiveness were identified in these participants through 6 years of use of LILETTA.
+The LILETTA clinical trial included 11 participants who were 16 to 17 years of age; no differences in safety or effectiveness were identified in these participants through 8 years of use of LILETTA.
 Use of this product is not indicated before menarche.
 
 ## 8.5 Geriatric Use

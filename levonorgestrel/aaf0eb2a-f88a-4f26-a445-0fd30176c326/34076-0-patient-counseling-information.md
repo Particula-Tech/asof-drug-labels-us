@@ -76,7 +76,7 @@ Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
 Marketed by: Allergan USA, Inc. Medicines360 Irvine, CA 92612 San Francisco, CA 94105
 
-© 2022 Allergan and Medicines360.
+© 2023 Allergan and Medicines360.
 All rights reserved.
 
 V2.0USPI5858
