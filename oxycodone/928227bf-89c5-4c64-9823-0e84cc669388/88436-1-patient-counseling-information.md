@@ -74,13 +74,13 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company. © 2021 Mallinckrodt.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company. © 2022 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
 To request medical information or to report suspected adverse reactions, contact Mallinckrodt at 1‑800‑778‑7898.
 
-Rev 08/2021
+Rev 11/2022
 
 Mallinckrodt™ Pharmaceuticals
 
