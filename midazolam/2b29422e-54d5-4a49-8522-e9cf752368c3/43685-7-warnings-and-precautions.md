@@ -105,7 +105,12 @@ NAYZILAM may be used in patients with open-angle glaucoma only if they are recei
 Patients with open-angle glaucoma may need to have their ophthalmologic status evaluated following treatment with NAYZILAM.
 NAYZILAM is contraindicated in patients with narrow-angle glaucoma.
 
-## 5.9 Other Adverse Reactions
+## 5.9 Neonatal Sedation and Withdrawal Syndrome
+
+Use of NAYZILAM late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
+Monitor neonates exposed to NAYZILAM during pregnancy or labor for signs of sedation and monitor neonates exposed to NAYZILAM during pregnancy for signs of withdrawal; manage these neonates accordingly.
+
+## 5.10 Other Adverse Reactions
 
 When midazolam was used for sedation, reactions such as agitation, involuntary movements (including tonic/clonic movements and muscle tremor), hyperactivity, and combativeness have been reported.
 These reactions may be caused by inadequate or excessive dosing or improper administration of midazolam; however, consideration should be given to the possibility of cerebral hypoxia or true paradoxical reactions.

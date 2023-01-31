@@ -41,15 +41,16 @@ Counsel patients on when they can engage in activities requiring complete mental
 
 Pregnancy
 
-Instruct patients to inform their physician if they are pregnant or are planning to become pregnant.
-Several studies have suggested an increased risk of congenital malformations associated with the use of benzodiazepine drugs.
-Animal studies have demonstrated an effect on early brain development and long-term cognitive effects with exposure to anesthetic and sedation drugs in the third trimester of gestation.
+Advise pregnant females that the use of NAYZILAM late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct patients to inform their physicians if they are nursing [see Use in Specific Populations (8.2)].
+Counsel patients that midazolam, the active ingredient in NAYZILAM, is excreted in breast milk.
+Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who take NAYZILAM to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].
 
 Important Treatment Instructions
 

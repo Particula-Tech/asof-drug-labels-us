@@ -15,14 +15,14 @@ If you and your family members or caregivers have any questions about NAYZILAM, 
 
 | Call for help if any of the following happens: |  |
 | --- | --- |
-| Seizure or seizures continue after giving NAYZILAM to the person as instructed by the healthcare provider. | Local Emergency Number: |
-| Seizure behavior in the person is different from other episodes. | Healthcare Provider's Number: |
+| Seizure or seizures continue after giving NAYZILAM to the person as instructed by the healthcare provider. | Local Emergency Number:________________________ |
+| Seizure behavior in the person is different from other episodes. | Healthcare Provider's Number:_______________________ |
 | You are alarmed by the number or severity of the seizure or seizures in the person. | Information for Emergency Responder |
 | You are alarmed by the color or breathing of the person. | Time of first NAYZILAM dose:________________ |
-| Time of second NAYZILAM dose (if given):______ |  |
+| Time of second NAYZILAM dose (if given):_________________________ |  |
 
 Manufactured for UCB, Inc., Smyrna, GA 30080.
-NAYZILAM® is a registered trademark of the UCB Group of Companies. ©2020.
+NAYZILAM® is a registered trademark of the UCB Group of Companies. ©2022.
 All rights reserved.
 For more information, go to www.nayzilam.com or call 1-844-599-2273.
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Issued: 5/2019
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Issued: 1/2023
