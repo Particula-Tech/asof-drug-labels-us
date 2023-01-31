@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211363"
+  ],
+  "inn": "epinephrine",
+  "labeler": "International Medication Systems, Limited",
+  "package_ndcs": [
+    "76329-3318-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "epinephrine",
+      "name": "Epinephrine"
+    }
+  ],
+  "setid": "f2b5f15b-8541-466a-a27a-ee57bc4aac67",
+  "source": "dailymed"
+}
