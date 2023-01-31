@@ -198,7 +198,7 @@ Pneumonia.
 
 ### Skin
 
-Alopecia, angioedema, exfoliative dermatitis, hirsutism, and Stevens-Johnson syndrome.
+Alopecia, angioedema, exfoliative dermatitis, hirsutism, Stevens-Johnson syndrome, and acute generalized exanthematous pustulosis.
 
 ### Special Senses
 

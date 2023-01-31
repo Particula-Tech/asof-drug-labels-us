@@ -47,7 +47,7 @@ Prescriptions for bupropion hydrochloride extended-release tablets (SR) should b
 
 ## 5.2 Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
-Bupropion hydrochloride extended-release tablets (SR) are not approved for smoking cessation treatment; however, they contain the same active ingredient as the smoking cessation medication ZYBAN.
+Bupropion hydrochloride extended-release tablets (SR) are not approved for smoking cessation treatment; however, it contains the same active ingredient as the smoking cessation medication ZYBAN.
 Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
 These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
