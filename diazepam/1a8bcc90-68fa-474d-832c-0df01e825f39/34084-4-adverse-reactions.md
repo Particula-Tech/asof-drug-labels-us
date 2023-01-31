@@ -8,7 +8,8 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 - CNS depression [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Glaucoma [see Warnings and Precautions (5.6)]
-- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.7)].
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.7)]
+- Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 

@@ -29,12 +29,13 @@ Advise patients and caregivers on how frequently they can treat successive seizu
 
 Pregnancy
 
-Instruct patients to inform their healthcare provider if they are pregnant or are planning to become pregnant.
-Several studies have suggested an increased risk of congenital malformations associated with the use of benzodiazepine drugs.
-Animal studies have demonstrated an effect on early brain development and long-term cognitive effects with exposure to anesthetic and sedation drugs in the third trimester of gestation.
+Advise pregnant females that the use of VALTOCO late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.7) and Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant.
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking VALTOCO.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Instruct patients to inform their healthcare provider if they are nursing [see Use in Specific Populations (8.2)].
+Counsel patients that diazepam, the active ingredient in VALTOCO, is excreted in breast milk.
+Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who take VALTOCO to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].

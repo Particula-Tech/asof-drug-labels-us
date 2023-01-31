@@ -77,7 +77,12 @@ Benzodiazepines, including VALTOCO, can increase intraocular pressure in patient
 VALTOCO may be used in patients with open-angle glaucoma only if they are receiving appropriate therapy.
 VALTOCO is contraindicated in patients with narrow-angle glaucoma.
 
-## 5.7 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative
+## 5.7 Neonatal Sedation and Withdrawal Syndrome
+
+Use of VALTOCO late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
+Monitor neonates exposed to VALTOCO during pregnancy or labor for signs of sedation and monitor neonates exposed to VALTOCO during pregnancy for signs of withdrawal; manage these neonates accordingly.
+
+## 5.8 Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative
 
 VALTOCO is not approved for use in neonates or infants.
 Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low birth weight infants treated with benzyl alcohol-preserved drugs, including VALTOCO.

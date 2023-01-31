@@ -25,4 +25,4 @@ Inducers of CYP2C19 (e.g., rifampin) and CYP3A4 (e.g., carbamazepine, phenytoin,
 
 ## 7.4 Effect of VALTOCO on the Metabolism of Other Drugs
 
-Diazepam is a substrate for CYP2C19 and CYP3A4; therefore, it is possible that VALTOCO may interfere with the metabolism of drugs which are substrates for CYP2C19 (e.g., omeprazole, propranolol, and imipramine) and CYP3A4 (e.g., cyclosporine, paclitaxel, terfenadine, theophylline, and warfarin) leading to a potential drug-drug interaction.
+Diazepam is a substrate for CYP2C19 and CYP3A4; therefore, it is possible that VALTOCO may interfere with the metabolism of drugs which are substrates for CYP2C19 (e.g., omeprazole, propranolol, and imipramine) and CYP3A4 (e.g., cyclosporine, paclitaxel, theophylline, and warfarin) leading to a potential drug-drug interaction.
