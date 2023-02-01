@@ -1,4 +1,4 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
 ## 14.1 Adjuvant Breast Cancer
 
@@ -25,7 +25,7 @@ The secondary endpoint was overall survival (OS).
 A total of 3752 patients were included in the joint efficacy analysis of the primary endpoint of DFS following a median follow-up of 2.0 years in the AC→paclitaxel + trastuzumab arm.
 The pre-planned final OS analysis from the joint analysis included 4063 patients and was performed when 707 deaths had occurred after a median follow-up of 8.3 years in the AC→paclitaxel + trastuzumab arm.
 The data from both arms in Study 1 and two of the three study arms in Study 2 were pooled for efficacy analyses.
-The patients included in the primary DFS analysis had a median age of 49 years (range, 22–80 years; 6% > 65 years), 84% were white, 7% black, 4% Hispanic, and 4% Asian/Pacific Islander.
+The patients included in the primary DFS analysis had a median age of 49 years (range: 22–80 years; 6% > 65 years), 84% were white, 7% black, 4% Hispanic, and 4% Asian/Pacific Islander.
 Disease characteristics included 90% infiltrating ductal histology, 38% T1, 91% nodal involvement, 27% intermediate and 66% high grade pathology, and 53% ER+ and/or PR+ tumors.
 Similar demographic and baseline characteristics were reported for the efficacy evaluable population, after 8.3 years of median follow-up in the AC→paclitaxel + trastuzumab arm.
 
@@ -43,7 +43,7 @@ Trastuzumab was administered with an initial dose of 8 mg/kg followed by subsequ
 The main outcome measure was Disease-Free Survival (DFS), defined as in Studies 1 and 2.
 
 A protocol specified interim efficacy analysis comparing one-year trastuzumab treatment to observation was performed at a median follow-up duration of 12.6 months in the trastuzumab arm and formed the basis for the definitive DFS results from this study.
-Among the 3386 patients randomized to the observation (n = 1693) and trastuzumab one-year (n = 1693) treatment arms, the median age was 49 years (range 21–80), 83% were Caucasian, and 13% were Asian.
+Among the 3386 patients randomized to the observation (n = 1693) and trastuzumab one-year (n = 1693) treatment arms, the median age was 49 years (range: 21–80), 83% were Caucasian, and 13% were Asian.
 Disease characteristics: 94% infiltrating ductal carcinoma, 50% ER+ and/or PgR+, 57% node positive, 32% node negative, and in 11% of patients, nodal status was not assessable due to prior neo-adjuvant chemotherapy.
 Ninety-six percent (1055/1098) of patients with node-negative disease had high risk features: among the 1098 patients with node-negative disease, 49% (543) were ER− and PgR−, and 47% (512) were ER and/or PgR + and had at least one of the following high risk features: pathological tumor size greater than 2 cm, Grade 2–3, or age < 35 years.
 Prior to randomization, 94% of patients had received anthracycline-based chemotherapy regimens.
@@ -85,15 +85,14 @@ In the subgroup of patients with tumor size > 2 cm (n = 2448), the hazard ratio 
 | Table 9 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Efficacy Results from Adjuvant Treatment of Breast Cancer (Studies 1 + 2, Study 3, and Study 4) |  |  |  |  |  |
-| DFS Hazard |  |  |  |  |  |
-| ratio |  |  |  |  |  |
+| DFS Hazard ratio |  |  |  |  |  |
 |  | DFS |  | (95% CI) | Deaths | OS Hazard ratio |
 |  |  | events | p-value | (OS events) | p-value |
 | Studies 1 + 2a |  |  |  |  |  |
-| AC→TH (n = 1872)b (n =2031)c | 133b |  | 0.48b,d (0.39, 0.59) p ˂ 0.0001e | 289c | 0.64c,d (0.55, 0.74) p ˂ 0.0001e |
+| AC→TH (n = 1872)b (n = 2031)c | 133b |  | 0.48b,d (0.39, 0.59) p ˂ 0.0001e | 289c | 0.64c,d (0.55, 0.74) p ˂ 0.0001e |
 | AC→T | 261b |  |  | 418c |  |
 | (n = 1880)b |  |  |  |  |  |
-| (n =2032)c |  |  |  |  |  |
+| (n = 2032)c |  |  |  |  |  |
 | Study 3f |  |  |  |  |  |
 | Chemo→ Trastuzumab (n = 1693) | 127 |  | 0.54 (0.44, 0.67) p ˂ 0.0001g | 31 | 0.75 p = NSh |
 | Chemo→ | 219 |  |  | 40 |  |
@@ -138,7 +137,7 @@ The number of events in Study 3 was adequate to demonstrate significant effects 
 | FISH (+) |  |  | (0.18, 5.65) |  |  | (0.20, 1.42) |
 | IHC unknown / |  | - | - |  | 724 | 0.59 |
 | FISH (+) |  |  |  |  |  | (0.38, 0.93) |
-| a IHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. b All cases in this category in Study 3 were IHC 2 c Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. |  |  |  |  |  |  |
+| a IHC by HercepTest, FISH by PathVysion (HER2/CEP17 ratio ≥ 2.0) as performed at a central laboratory. b All cases in this category in Study 3 were IHC 2. c Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. |  |  |  |  |  |  |
 
 ## 14.2 Metastatic Breast Cancer
 
@@ -213,7 +212,8 @@ The safety and efficacy of trastuzumab in combination with cisplatin and a fluor
 In this open-label, multi-center trial, 594 patients were randomized 1:1 to trastuzumab in combination with cisplatin and a fluoropyrimidine (FC+H) or chemotherapy alone (FC).
 Randomization was stratified by extent of disease (metastatic vs. locally advanced), primary site (gastric vs. gastroesophageal junction), tumor measurability (yes vs. no), ECOG performance status (0,1 vs. 2), and fluoropyrimidine (capecitabine vs. 5-fluorouracil).
 All patients were either HER2 gene amplified (FISH+) or HER2 overexpressing (IHC 3+).
-Patients were also required to have adequate cardiac function (e.g., LVEF > 50%).
+Patients were also required to have adequate cardiac function (e.g.
+LVEF > 50%).
 
 On the trastuzumab-containing arm, trastuzumab was administered as an IV infusion at an initial dose of 8 mg/kg followed by 6 mg/kg every 3 weeks until disease progression.
 On both study arms cisplatin was administered at a dose of 80 mg/m2 Day 1 every 3 weeks for 6 cycles as a 2 hour IV infusion.

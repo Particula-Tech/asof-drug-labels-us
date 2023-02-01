@@ -1,4 +1,4 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 ## 2.1 Patient Selection
 
@@ -28,7 +28,7 @@ During and following paclitaxel, docetaxel, or docetaxel and carboplatin:
 As a single agent within three weeks following completion of multi-modality, anthracycline-based chemotherapy regimens:
 
 - Initial dose at 8 mg/kg as an intravenous infusion over 90 minutes.
-- Subsequent doses at 6 mg/kg as an intravenous infusion over 30–90 minutes every three weeks [see Dosage and Administration (2.3)].
+- Subsequent doses at 6 mg/kg as an intravenous infusion over 30-90 minutes every three weeks [see Dosage and Administration (2.3)].
 - Extending adjuvant treatment beyond one year is not recommended [see Adverse Reactions (6.1)].
 
 Metastatic Treatment, Breast Cancer:

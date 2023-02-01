@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Cardiomyopathy
 
@@ -10,7 +10,7 @@ Embryo-Fetal Toxicity
   Advise female patients to contact their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment and for 7 months following the last dose of KANJINTI [see Use in Specific Populations (8.3)].
 
-KANJINTI™ (trastuzumab-anns)
+KANJINTI® (trastuzumab-anns)
 
 Manufactured by:
 
@@ -20,14 +20,14 @@ One Amgen Center Drive
 
 Thousand Oaks, CA 91320-1799
 
-US License No. 1080
+U.S. License No. 1080
 
 Marketed by Amgen Inc.
 
-AMGEN® and KANJINTI™ (trastuzumab-anns) are trademarks owned or licensed by Amgen Inc., its subsidiaries, or affiliates.
+AMGEN® and KANJINTI® (trastuzumab-anns) are trademarks owned or licensed by Amgen Inc., its subsidiaries, or affiliates.
 
-© 2019 Amgen Inc. All rights reserved.
+© 2019, 2022 Amgen Inc. All rights reserved.
 
 1xxxxxx
 
-v2
+V3

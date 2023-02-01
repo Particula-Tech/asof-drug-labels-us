@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 Trastuzumab-anns is a humanized IgG1 kappa monoclonal antibody that selectively binds with high affinity to the extracellular domain of the human epidermal growth factor receptor 2 protein, HER2.
 

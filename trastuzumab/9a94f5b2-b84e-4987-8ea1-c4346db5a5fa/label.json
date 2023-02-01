@@ -6,12 +6,20 @@
   "labeler": "Amgen Inc",
   "package_ndcs": [
     "55513-132-01",
-    "55513-141-01"
+    "55513-132-02",
+    "55513-141-01",
+    "55513-152-01",
+    "55513-164-01"
   ],
   "products": [
     {
       "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
       "generic": "trastuzumab-anns",
+      "name": "Kanjinti"
+    },
+    {
+      "form": "KIT",
+      "generic": "traztuzumab-anns",
       "name": "Kanjinti"
     }
   ],

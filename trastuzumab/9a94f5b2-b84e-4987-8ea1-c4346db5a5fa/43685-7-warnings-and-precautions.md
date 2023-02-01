@@ -1,4 +1,4 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 ## 5.1 Cardiomyopathy
 
@@ -55,7 +55,7 @@ In Study 3 (one-year trastuzumab treatment), at a median follow-up duration of 8
 | 6 | Cardiac Dysfunctionc | 7% | N/A | 5% | N/A |
 | a Congestive heart failure or significant asymptomatic decrease in LVEF. b Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. c Includes 1 patient with fatal cardiomyopathy. |  |  |  |  |  |
 
-In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the trastuzumab containing regimens (AC-TH: 0.3% (3/1068) and TCH: 0.2% (2/1056)) as compared to none in AC-T.
+In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the trastuzumab-containing regimens (AC-TH: 0.3% (3/1068) and TCH: 0.2% (2/1056)) as compared to none in AC-T.
 
 ## 5.2 Infusion Reactions
 

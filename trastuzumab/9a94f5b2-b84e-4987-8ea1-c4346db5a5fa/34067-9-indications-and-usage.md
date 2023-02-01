@@ -1,4 +1,4 @@
-# 1INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 ## 1.1 Adjuvant Breast Cancer
 
@@ -6,7 +6,7 @@ KANJINTI is indicated for adjuvant treatment of HER2 overexpressing node positiv
 
 - as part of a treatment regimen consisting of doxorubicin, cyclophosphamide, and either paclitaxel or docetaxel
 - as part of a treatment regimen with docetaxel and carboplatin
-- as a single agent following multi-modality anthracycline based therapy.
+- as a single agent following multi-modality anthracycline-based therapy.
 
 Select patients for therapy based on an FDA-approved companion diagnostic for a trastuzumab product [see Dosage and Administration (2.1)].
 

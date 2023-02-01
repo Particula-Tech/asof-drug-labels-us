@@ -1,4 +1,4 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
 ## 12.1 Mechanism of Action
 
@@ -29,7 +29,7 @@ Population PK based simulations indicate that following discontinuation of trast
 | Table 7 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Population Predicted Cycle 1 PK Exposures (Median with 5th – 95th Percentiles) in Breast Cancer and MGC Patients |  |  |  |  |  |
-| Schedule | Primary tumor type | N | Cmin (µg/mL) | Cmax (µg/mL) | AUC0 -21days (µg.day/mL) |
+| Schedule | Primary tumor type | N | Cmin (µg/mL) | Cmax (µg/mL) | AUC0 - 21days (µg.day/mL) |
 | 8 mg/kg + 6 mg/kg q3w | Breast cancer | 1195 | 29.4 (5.8 - 59.5) | 178 (117 - 291) | 1373 (736 - 2245) |
 |  | MGC | 274 | 23.1 (6.1 - 50.3) | 132 (84.2 - 225) | 1109 (588 - 1938) |
 | 4 mg/kg + 2 mg/kg qw | Breast cancer | 1195 | 37.7 (12.3 - 70.9) | 88.3 (58 - 144) | 1066 (586 - 1754) |
@@ -41,7 +41,7 @@ Population PK based simulations indicate that following discontinuation of trast
 | 8 mg/kg + 6 mg/kg q3w | Breast cancer | 1195 | 47.4 (5 - 115) | 179 (107 - 309) | 1794 (673 - 3618) | 12 | 0.173 - 0.283 |
 |  | MGC | 274 | 32.9 (6.1 - 88.9) | 131 (72.5 - 251) | 1338 (557 - 2875) | 9 | 0.189 - 0.337 |
 | 4 mg/kg + 2 mg/kg qw | Breast cancer | 1195 | 66.1 (14.9 - 142) | 109 (51.0 - 209) | 1765 (647 - 3578) | 12 | 0.201 - 0.244 |
-| a Steady-state trough serum concentration of trastuzumab b Maximum steady-state serum concentration of trastuzumab |  |  |  |  |  |  |  |
+| a Steady-state trough serum concentration of trastuzumab. b Maximum steady-state serum concentration of trastuzumab. |  |  |  |  |  |  |  |
 
 Specific Populations: Based on a population pharmacokinetic analysis, no clinically significant differences were observed in the pharmacokinetics of trastuzumab based on age (< 65 (n = 1294); ≥ 65 (n = 288)), race (Asian (n = 264); non-Asian (n = 1324)) and renal impairment (mild (creatinine clearance [CLcr] 60 to 90 mL/min) (n = 636) or moderate (CLcr 30 to 60 mL/min) (n = 133).
 The pharmacokinetics of trastuzumab products in patients with severe renal impairment, end-stage renal disease with or without hemodialysis, or hepatic impairment is unknown.

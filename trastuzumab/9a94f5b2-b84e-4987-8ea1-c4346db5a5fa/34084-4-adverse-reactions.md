@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 The following adverse reactions are discussed in greater detail in other sections of the label:
 
@@ -64,7 +64,7 @@ Among the 3386 patients enrolled in the observation and one-year trastuzumab arm
 | Muscle Spasm | 46 (3%) | 3 (0.2%) |
 | Nervous System Disorders |  |  |
 | Headache | 162 (10%) | 49 (3%) |
-| Paraesthesia | 29 (2%) | 11 (0.6%) |
+| Paresthesia | 29 (2%) | 11 (0.6%) |
 | Skin & Subcutaneous Tissue Disorders |  |  |
 | Rash | 70 (4%) | 10 (0.6%) |
 | Nail Disorders | 43 (2%) | 0 (0%) |
@@ -82,7 +82,7 @@ Among the 3386 patients enrolled in the observation and one-year trastuzumab arm
 | Immune System Disorders |  |  |
 | Hypersensitivity | 10 (0.6%) | 1 (0.06%) |
 | Autoimmune Thyroiditis | 4 (0.3%) | 0 (0%) |
-| a Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. b The incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term c Higher level grouping term |  |  |
+| a Median follow-up duration of 12.6 months in the one-year trastuzumab treatment arm. b The incidence of Grade 3 or higher adverse reactions was <1% in both arms for each listed term. c Higher level grouping term. |  |  |
 
 In Study 3, a comparison of 3-weekly trastuzumab treatment for two years versus one year was also performed.
 The rate of asymptomatic cardiac dysfunction was increased in the 2-year trastuzumab treatment arm (8.1% versus 4.6% in the one-year trastuzumab treatment arm).
@@ -102,7 +102,7 @@ The majority of these events were Grade 2 in severity.
 Safety data from Study 4 reflect exposure to trastuzumab as part of an adjuvant treatment regimen from 2124 patients receiving at least one dose of study treatment [AC-TH: n = 1068; TCH: n = 1056].
 The overall median treatment duration was 54 weeks in both the AC-TH and TCH arms.
 The median number of infusions was 26 in the AC-TH arm and 30 in the TCH arm, including weekly infusions during the chemotherapy phase and every three week dosing in the monotherapy period.
-Among these patients, the median age was 49 years (range 22 to 74 years).
+Among these patients, the median age was 49 years (range: 22 to 74 years).
 In Study 4, the toxicity profile was similar to that reported in Studies 1, 2, and 3 with the exception of a low incidence of CHF in the TCH arm.
 
 Metastatic Breast Cancer Studies
@@ -111,18 +111,18 @@ The data below reflect exposure to trastuzumab in one randomized, open-label stu
 Data in Table 4 are based on Studies 5 and 6.
 
 Among the 464 patients treated in Study 5, the median age was 52 years (range: 25–77 years).
-Eighty-nine percent were White, 5% Black, 1% Asian and 5% other racial/ethnic groups.
+89% were White, 5% Black, 1% Asian and 5% other racial/ethnic groups.
 All patients received 4 mg/kg initial dose of trastuzumab followed by 2 mg/kg weekly.
 The percentages of patients who received trastuzumab treatment for ≥ 6 months and ≥ 12 months were 58% and 9%, respectively.
 
-Among the 352 patients treated in single agent studies (213 patients from Study 6), the median age was 50 years (range 28–86 years), 86% were White, 3% were Black, 3% were Asian, and 8% in other racial/ethnic groups.
+Among the 352 patients treated in single agent studies (213 patients from Study 6), the median age was 50 years (range: 28–86 years), 86% were White, 3% were Black, 3% were Asian, and 8% in other racial/ethnic groups.
 Most of the patients received 4 mg/kg initial dose of trastuzumab followed by 2 mg/kg weekly.
 The percentages of patients who received trastuzumab treatment for ≥ 6 months and ≥ 12 months were 31% and 16%, respectively.
 
 | Table 4 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Per-Patient Incidence of Adverse Reactions Occurring in ≥5% of Patients in Uncontrolled Studies or at Increased Incidence in the Trastuzumab Arm (Studies 5 and 6) |  |  |  |  |  |
-|  | Single Agenta n = 352 | Trastuzumab + Paclitaxel n = 91 | Paclitaxel Alone n = 95 | Trastuzumab+ ACb n = 143 | ACb Alone n =135 |
+|  | Single Agenta n = 352 | Trastuzumab + Paclitaxel n = 91 | Paclitaxel Alone n = 95 | Trastuzumab+ ACb n = 143 | ACb Alone n = 135 |
 | Body as a Whole |  |  |  |  |  |
 | Pain | 47% | 61% | 62% | 57% | 42% |
 | Asthenia | 42% | 62% | 57% | 54% | 55% |
@@ -185,7 +185,7 @@ Median duration of trastuzumab treatment was 21 weeks; median number of trastuzu
 
 | Table 5 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Study 7: Per Patient Incidence of Adverse Reactions of All Grades (Incidence ≥ 5% between Arms) or Grade 3 /4 (Incidence > 1% between Arms) and Higher Incidence in Trastuzumab Arm |  |  |  |  |  |
+| Study 7: Per-Patient Incidence of Adverse Reactions of All Grades (Incidence ≥ 5% between Arms) or Grade 3/4 (Incidence > 1% between Arms) and Higher Incidence in Trastuzumab Arm |  |  |  |  |  |
 |  | Trastuzumab + FC (N = 294) N (%) |  |  | FC (N = 290) N (%) |  |
 | Body System/Adverse Event | All Grades | Grades 3/4 | All Grades |  | Grades 3/4 |
 | Investigations |  |  |  |  |  |
@@ -203,7 +203,7 @@ Median duration of trastuzumab treatment was 21 weeks; median number of trastuzu
 | Fatigue | 102 (35) | 12 (4) | 82 (28) |  | 7 (2) |
 | Fever | 54 (18) | 3 (1) | 36 (12) |  | 0 (0) |
 | Mucosal Inflammation | 37 (13) | 6 (2) | 18 (6) |  | 2 (1) |
-| Chills | 23 (8) | 1 (≤1) | 0 (0) |  | 0 (0) |
+| Chills | 23 (8) | 1 (≤ 1) | 0 (0) |  | 0 (0) |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |
 | Weight Decrease | 69 (23) | 6 (2) | 40 (14) |  | 7 (2) |
 | Infections and Infestations |  |  |  |  |  |
