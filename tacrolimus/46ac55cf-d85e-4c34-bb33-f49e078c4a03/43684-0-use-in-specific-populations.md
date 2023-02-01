@@ -70,14 +70,14 @@ TPRI Reported Pregnancy Outcomes in Transplant Recipients with Exposure to Tacro
 
 |  | Kidney | Liver |
 | --- | --- | --- |
-| Pregnancy Outcomes | 462 | 253 |
+| Pregnancy OutcomesIncludes multiple births and terminations. | 462 | 253 |
 | Miscarriage | 24.5% | 25% |
 | Live births | 331 | 180 |
 | Pre-term delivery (< 37 weeks) | 49% | 42% |
 | Low birth weight (< 2500 g) | 42% | 30% |
-| Birth defects | 8% | 5% |
+| Birth defects | 8%Birth defect rate confounded by concomitant MPA products exposure in over half of offspring with birth defects. | 5% |
 
-Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
+Additional information reported by TPRI in pregnant transplant patients receiving tacrolimus included diabetes during pregnancy in 9% of kidney recipients and 13% of liver recipients, and hypertension during pregnancy in 53% of kidney recipients and 16.2% of liver recipients.
 
 Animal Data
 
@@ -149,8 +149,7 @@ Some evidence suggests that lower doses should be used in these patients [see Do
 
 ## 8.8 Race or Ethnicity
 
-African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (Error!
-Hyperlink reference not valid.) and Clinical Pharmacology (12.3)].
+African-American patients may need to be titrated to higher dosages to attain comparable trough concentrations compared to Caucasian patients [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
 African-American and Hispanic patients are at increased risk for new onset diabetes after transplant.
 Monitor blood glucose concentrations and treat appropriately [see Warnings and Precautions (5.4)].
