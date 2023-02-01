@@ -367,14 +367,17 @@ What are the ingredients in mirtazapine tablets?
 
 Active ingredient: mirtazapine
 
-Inactive ingredients: Colloidal silicon dioxide anhydrous, corn starch, ferric oxide (yellow), hydroxypropyl cellulose, hypromellose, polyethylene glycol 8000, lactose monohydrate, magnesium stearate, and titanium dioxide.
-The 30 mg tablets also contain ferric oxide (red).
+Inactive ingredients:
+
+- 15 mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron oxide yellow.
+- 30 mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron oxide yellow and iron oxide red.
+- 45 mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide.
 
 APOTEX INC. MIRTAZAPINE TABLETS, USP 15 mg, 30 mg and 45 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: March 2022
+Revised: January 2023
 
 Rev.
-18
+19

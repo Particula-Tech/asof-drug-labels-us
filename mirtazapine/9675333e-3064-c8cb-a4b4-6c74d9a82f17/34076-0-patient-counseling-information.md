@@ -76,7 +76,3 @@ MIRTAZAPINE TABLETS, USP
 | Apotex Inc | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
 | Canada M9l 1T9 | 33326 |
-
-Revised: March 2022
-
-Rev: 18
