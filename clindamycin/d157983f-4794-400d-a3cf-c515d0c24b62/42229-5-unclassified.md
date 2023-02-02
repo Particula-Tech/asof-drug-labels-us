@@ -18,9 +18,9 @@ Such use could result in air embolism due to residual air being drawn from the p
 
 ## Preparation for Administration
 
-1. Suspend container from eyelet support.
-2. Remove protector from outlet port at bottom of container.
-3. Attach administration set.
+1. 1.Suspend container from eyelet support.
+2. 2.Remove protector from outlet port at bottom of container.
+3. 3.Attach administration set.
    Refer to complete directions accompanying set.
 
 This product's labeling may have been updated.
