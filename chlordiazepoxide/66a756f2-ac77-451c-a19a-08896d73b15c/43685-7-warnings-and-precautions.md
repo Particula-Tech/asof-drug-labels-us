@@ -112,7 +112,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 ## Risks from Concomitant Use with Opioids
 
 Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when chlordiazepoxide and amitriptyline tablets are used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioids have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
 
 ## Abuse, Misuse, and Addiction
 
@@ -127,11 +127,11 @@ Instruct patients that discontinuation or dosage reduction of chlordiazepoxide a
 
 ## Suicidal Thoughts and Behaviors
 
-Advise patients and caregivers to look for emergence of suicidal thoughts and behaviors, especially early during the treatment and when the dosage is adjusted up or down (see WARNINGS: Suicidal Thoughts and Behaviors in Adolescents and Young Adults).
+Advise patients and caregivers to look for the emergence of suicidal thoughts and behaviors, especially early during treatment and when the dosage is adjusted up or down (see WARNINGS: Suicidal Thoughts and Behaviors in Adolescents and Young Adults).
 
 ## Pregnancy
 
-Advise pregnant females that the use of chlordiazepoxide and amitriptyline hydrochloride tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Precautions, Pregnancy).
+Advise pregnant females that use of chlordiazepoxide and amitriptyline hydrochloride tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Precautions, Pregnancy).
 Instruct patients to inform their healthcare provider if they are pregnant.
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to chlordiazepoxide and amitriptyline hydrochloride tablets during pregnancy (see PRECAUTIONS: Pregnancy).
@@ -146,16 +146,16 @@ Patients on prolonged treatment should have periodic liver function tests and bl
 
 ## Drug-Drug Interactions
 
+The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
+Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+
 ### Topiramate
 
 Some patients may experience a large increase in amitriptyline concentration in the presence of topiramate and any adjustments in amitriptyline dose should be made according to the patient's clinical response and not on the basis of plasma levels.
 
 ## Drug and Treatment Interactions
-
-The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
-When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
-Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
 Because of its amitriptyline component, chlordiazepoxide and amitriptyline hydrochloride tablets may block the antihypertensive action of guanethidine or compounds with a similar mechanism of action.
 
@@ -226,7 +226,7 @@ In addition, the majority of more recent case-control and cohort studies of benz
 
 It is not known whether this drug is excreted in human milk.
 There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
-Because of the potential for serious adverse reactions, including sedation and withdrawal symptoms in breastfed infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide and amitriptyline hydrochloride tablets.
+Because of the potential for serious adverse reaction, including sedation and withdrawal symptoms in breastfed infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide and amitriptyline hydrochloride tablets.
 
 ## Pediatric Use
 
