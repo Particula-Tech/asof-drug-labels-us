@@ -42,4 +42,4 @@ NDC 0187-3013-30 Rx Only MESTINON® (pyridostigmine bromide) TIMESPAN® Tablets
 
 30 Tablets
 
-Each tablet contains180 mg pyridostigmine bromide in a specially constructed tablet for sustained release BAUSCH Health
+Each tablet contains180 mg pyridostigmine bromide in a specially constructed tablet for sustained release BAUSCH Health 9549902 50104061C
