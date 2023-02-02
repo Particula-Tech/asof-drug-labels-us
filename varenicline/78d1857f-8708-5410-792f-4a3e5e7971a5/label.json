@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA201962"
+  ],
+  "inn": "varenicline",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-3613-2",
+    "60505-3613-5",
+    "60505-3614-2",
+    "60505-3614-5"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "varenicline",
+      "name": "VARENICLINE"
+    }
+  ],
+  "setid": "78d1857f-8708-5410-792f-4a3e5e7971a5",
+  "source": "dailymed"
+}
