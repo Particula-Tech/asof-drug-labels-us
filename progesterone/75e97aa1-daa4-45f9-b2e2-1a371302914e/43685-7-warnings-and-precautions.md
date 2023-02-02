@@ -10,15 +10,15 @@ No adequate evidence is available to show that they are effective for this purpo
 
 ## General
 
-- The pretreatment physical examination should include special reference to breast and pelvic organs, as well as Papanicolaou smear.
-- In cases of breakthrough bleeding, as in all cases of irregular vaginal bleeding, nonfunctional causes should be considered.
-  In cases of undiagnosed vaginal bleeding, adequate diagnostic measures should be undertaken.
-- Because progestogens may cause some degree of fluid retention, conditions which might be influenced by this factor (e.g., epilepsy, migraine, asthma, cardiac or renal dysfunction) require careful observation.
-- The pathologist should be advised of progesterone therapy when relevant specimens are submitted.
-- Patients who have a history of psychic depression should be carefully observed and the drug discontinued if the depression recurs to a serious degree.
-- A decrease in glucose tolerance has been observed in a small percentage of patients on estrogen-progestin combination drugs.
-  The mechanism of this decrease is not known.
-  For this reason, diabetic patients should be carefully observed while receiving progestin therapy.
+1. The pretreatment physical examination should include special reference to breast and pelvic organs, as well as Papanicolaou smear.
+2. In cases of breakthrough bleeding, as in all cases of irregular vaginal bleeding, nonfunctional causes should be considered.
+   In cases of undiagnosed vaginal bleeding, adequate diagnostic measures should be undertaken.
+3. Because progestogens may cause some degree of fluid retention, conditions which might be influenced by this factor (e.g., epilepsy, migraine, asthma, cardiac or renal dysfunction) require careful observation.
+4. The pathologist should be advised of progesterone therapy when relevant specimens are submitted.
+5. Patients who have a history of psychic depression should be carefully observed and the drug discontinued if the depression recurs to a serious degree.
+6. A decrease in glucose tolerance has been observed in a small percentage of patients on estrogen-progestin combination drugs.
+   The mechanism of this decrease is not known.
+   For this reason, diabetic patients should be carefully observed while receiving progestin therapy.
 
 ## Information for Patients
 

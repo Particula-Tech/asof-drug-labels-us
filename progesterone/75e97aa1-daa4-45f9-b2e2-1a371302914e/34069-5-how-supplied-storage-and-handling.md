@@ -26,4 +26,11 @@ Allergan USA, Inc. Irvine, CA 92612
 
 Distributed by: Allergan USA, Inc. Irvine, CA 92612
 
-Content Updated: June 2017 202084-01
+Content Updated: June 2017 © 2017 Allergan.
+All rights reserved.
+
+CRINONE® is a registered trademark of Allergan Sales, LLC.
+
+Allergan® and its design are trademarks of Allergan, Inc.
+
+Product of the Netherlands.

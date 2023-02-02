@@ -46,6 +46,8 @@ TABLE 2 Multiple Dose Pharmacokinetics
 | AUC0-t (ng∙hr/mL) | 391.98 ±153.28 | 138.72 ± 41.58 | 242.15 ± 167.88 | 438.36 ± 223.36 |
 | t1/2 (hr) | 45.00 ± 34.70 | 25.91 ± 6.15 | 49.87 ± 31.20 | 39.08 ± 12.88 |
 
+Cmax -maximum progesterone serum concentration Cavg -average progesterone serum concentration Tmax -time to maximum progesterone concentration AUC0-t -area under the drug concentration versus time curve t1/2 -elimination half-life
+
 Distribution
 
 Progesterone is extensively bound to serum proteins (~ 96-99%), primarily to serum albumin and corticosteroid binding globulin.

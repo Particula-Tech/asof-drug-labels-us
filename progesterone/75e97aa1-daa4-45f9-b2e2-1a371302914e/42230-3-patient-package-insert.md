@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 Crinone® 4% and Crinone® 8% (progesterone gel) For Vaginal Use Only Please read this information carefully before you start to use Crinone and each time your prescription is renewed, in case anything has changed.
 This leaflet does not take the place of discussions with your doctor.
@@ -59,7 +59,7 @@ Common side effects include:
 - headache
 - fatigue
 - increased appetite
-- contstipation
+- constipation
 - diarrhea
 - nausea
 - joint pain
@@ -75,7 +75,7 @@ Common side effects include:
 
 These are not all the possible side effects of Crinone.
 For more information, ask your healthcare provider or pharmacist for advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+To report SUSPECTED ADVERSE REACTIONS, contact Allergan at 1-800-678-1605 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 How should I use Crinone?
 
@@ -115,69 +115,3 @@ How should I store Crinone?
 
 Store Crinone at room temperature between 68°F to 77°F (20°C to 25°C).
 Do not use Crinone after the expiration date printed on the box.
-INSTRUCTIONS FOR USE Crinone® 4% and Crinone® 8% ("KRI-noan") (progesterone gel)
-
-For Vaginal Use Only
-
-You will need the following supplies: See Figure A.
-
-Step 1.
-Remove the applicator from the sealed wrapper.
-
-- Open the sealed wrapper and remove the applicator.
-  Do not remove the twist-off cap at this time.
-  See Figure B.
-
-Step 2.
-Insert the plunger into the open end of the applicator.
-See Figure C.
-
-- Hold the applicator on each side and push the plunger into the applicator until the plunger snaps into place.
-- You will see about 1 inch of the plunger outside of the applicator.
-
-Step 3.
-Remove the cap.
-See Figures D and E.
-
-- Remove the cap from the tip of the applicator by twisting it counterclockwise.
-- Do not push the plunger while you are removing the cap.
-  This could cause some gel to come out.
-
-Step 4.
-Prepare to insert the applicator.
-See Figure F. Choose the position that is most comfortable for you.
-For example, lying down on your back with your knees bent.
-
-Step 5.
-Insert the applicator.
-See Figure G.
-
-- After you are in a comfortable position, gently insert the rounded tip of the applicator into your vagina.
-
-Step 6.
-Push the plunger.
-See Figure H.
-
-- While the applicator is inserted in your vagina, push the plunger to release the gel into your vagina.
-
-Step 7.
-Remove the applicator from your vagina and throw it away in your household trash.
-
-- It is normal for a small amount of gel to be left in the applicator.
-  You will still get the right dose of medicine.
-
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-
-Rx only
-
-For all medical inquiries contact: Allergan USA, Inc.
-
-Irvine, CA 92612 1-800-678-1605
-
-Distributed by: Allergan USA, Inc.
-
-Irvine, CA 92612
-
-Content Updated: June 2017
-
-202084-01
