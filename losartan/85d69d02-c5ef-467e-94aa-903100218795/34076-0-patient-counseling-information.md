@@ -8,14 +8,15 @@ Tell patients to report pregnancies to their physicians as soon as possible [see
 
 Potassium Supplements Advise patients receiving losartan potassium tablets not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider [see Drug Interactions (7.1)].
 
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc.
+
+Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised: November 2021
+Revised: November 2022
 
 The trademarks depicted herein are owned by their respective companies.
-PM01807906
 
 ## .
 

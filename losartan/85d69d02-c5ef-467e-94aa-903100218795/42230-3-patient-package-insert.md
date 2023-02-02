@@ -1,4 +1,4 @@
-# SPL PATIENT PACKAGE INSERT
+# PATIENT INFORMATION
 
 Patient Information Losartan Potassium Tablets (low-SAHR-tan poe-TASS-ee-uhm) 25 mg, 50 mg, 100 mg Rx only
 
@@ -81,10 +81,10 @@ Inactive ingredients:
 
 silicified microcrystalline cellulose, lactose monohydrate, corn starch, povidone, collodial silicon dioxide, magnesium stearate, hydroxypropyl cellulose, hypromellose, and titanium dioxide.
 
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc.
+
+Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
 
-Revised: November 2021
-
-PM01808003
+Revised:November 2022
