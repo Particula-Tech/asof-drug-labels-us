@@ -2,11 +2,8 @@
 
 ## 2.1 Important Administration Instructions
 
-Non-substitutable
-
-[see Dosage and Administration (2.2,2.3).Posaconazole oral suspension is not substitutable with Posaconazole delayed-release tablets or Posaconazole powdermix for delayed-release oral suspension due to the differences in the dosing of each formulation.
-Therefore, follow the specific dosage recommendations for each of the formulations
-
+Non-substitutable Posaconazole oral suspension is not substitutable with Posaconazole delayed-release tablets or Posaconazole powdermix for delayed-release oral suspension due to the differences in the dosing of each formulation.
+Therefore, follow the specific dosage recommendations for each of the formulations [see Dosage and Administration (2.2,2.3).
 Posaconazole delayed-release tablets
 
 - Swallow tablets whole.
@@ -34,7 +31,7 @@ The recommended dosing regimen of posaconazole for pediatric patients 13 to less
 
 Table 2: Posaconazole delayed-release tablet Dosing Regimens for Pediatric Patients (Ages 2 to less than 18 years of age)
 
-| Indication | Recomended Pediatric Dosage | Duration of Therapy |
+| Indication | Recommended Pediatric Dosage | Duration of Therapy |
 | --- | --- | --- |
 | Prophylaxis of invasive Aspergillus and Candida infections | Loading dose: 300 mg twice daily on the first day. Maintenance dose: 300 mg once daily. | Duration of therapy is based on recovery from neutropenia or immunosuppression. |
 
@@ -48,7 +45,7 @@ However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this d
 - Administer posaconazole delayed-release tablets with food to enhance the oral absorption of posaconazole and optimize plasma concentrations [see Clinical Pharmacology (12.3)].
 - Posaconazole delayed-release tablets should be used only for the prophylaxis indication[see Dosage and Administration (2.1)].
 
-## 2.7 Non-Substitutability between Posaconazole Oral Suspension and Other Formulations
+## 2.7 Non-substitutability between Posaconazole Oral Suspension and Other Formulations
 
 Posaconazole oral suspension is not substitutable with posaconazole delayed-release tablets or posaconazole powdermix for delayed-release oral suspension due to the differences in the dosing of each formulation.
 Therefore, follow the specific dosage recommendations for each of the formulations [see Dosage and Administration (2.2, 2.3)].

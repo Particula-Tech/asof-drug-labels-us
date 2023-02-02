@@ -21,3 +21,7 @@ Coadministration with the HMG-CoA reductase inhibitors that are primarily metabo
 ## 4.5 Use with Ergot Alkaloids
 
 Posaconazole may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) which may lead to ergotism [see Drug Interactions (7.4)].
+
+## 4.6 Use with Venetoclax
+
+Coadministration of Posaconazole with venetoclax at initiation and during the ramp-up phase is contraindicated in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) due to the potential for increased risk of tumor lysis syndrome [see Warnings and Precautions (5.10) and Drug Interactions (7.16)].

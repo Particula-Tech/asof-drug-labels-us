@@ -7,10 +7,10 @@ Posaconazole is an azole antifungal agent [see Clinical Pharmacology (12.4)].
 ## 12.2 Pharmacodynamics
 
 Exposure Response Relationship: In clinical studies of neutropenic patients who were receiving cytotoxic chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes (MDS) or hematopoietic stem cell transplant (HSCT) recipients with Graft versus Host Disease (GVHD), a wide range of plasma exposures to posaconazole was noted following administration of posaconazole oral suspension.
-A pharmacokinetic-pharmacodynamic analysis of patient data revealed an apparent association between average posaconazole concentrations (Cavg) and prophylactic efficacy (Table 15).
+A pharmacokinetic-pharmacodynamic analysis of patient data revealed an apparent association between average posaconazole concentrations (Cavg) and prophylactic efficacy (Table 17).
 A lower Cavg may be associated with an increased risk of treatment failure, defined as treatment discontinuation, use of empiric systemic antifungal therapy (SAF), or occurrence of breakthrough invasive fungal infections.
 
-Table 15: Posaconazole Oral Suspension Exposure Analysis (Cavg) in Prophylaxis Trials
+Table 17: Posaconazole Oral Suspension Exposure Analysis (Cavg) in Prophylaxis Trials
 
 |  | Prophylaxis in AML/MDS* |  | Prophylaxis in GVHD† |  |
 | --- | --- | --- | --- | --- |
@@ -20,16 +20,15 @@ Table 15: Posaconazole Oral Suspension Exposure Analysis (Cavg) in Prophylaxis T
 | Quartile 3 | 490-734 | 46.8 | 915-1563 | 17.5 |
 | Quartile 4 | 734-2200 | 27.8 | 1563-3650 | 17.5 |
 | Cavg = the average posaconazole concentration when measured at steady state * Neutropenic patients who were receiving cytotoxic chemotherapy for AML or MDS † HSCT recipients with GVHD ‡ Defined as treatment discontinuation, use of empiric systemic antifungal therapy (SAF), or occurrence of breakthrough invasive fungal infections |  |  |  |  |
-| Cavg = the average posaconazole concentration when measured at steady state |  |  |  |  |
 
 ## 12.3 Pharmacokinetics
 
 General Pharmacokinetic Characteristics
 
 Posaconazole delayed-release tablets exhibit dose proportional pharmacokinetics after single and multiple dosing up to 300 mg.
-The mean pharmacokinetic parameters of posaconazole at steady state following administration of posaconazole delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 18.
+The mean pharmacokinetic parameters of posaconazole at steady state following administration of posaconazole delayed-release tablets 300 mg twice daily on Day 1, then 300 mg once daily thereafter in healthy volunteers and in neutropenic patients who are receiving cytotoxic chemotherapy for AML or MDS or HSCT recipients with GVHD are shown in Table 20.
 
-Table 18: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunteers and Patients Following Administration of Posaconazole Delayed-Release Tablets (300 mg)*
+Table 20: Arithmetic Mean (%CV) of Steady State PK Parameters in Healthy Volunteers and Patients Following Administration of Posaconazole Delayed-Release Tablets (300 mg)*
 
 |  | N | AUC 0-24 hr (ng·hr/mL) | Cav† (ng/mL) | C max (ng/mL) | C min (ng/mL) | ‡Tmax(hr) | t 1/2 (hr) | CL/F (L/hr) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -43,10 +42,9 @@ Absorption:
 When given orally in healthy volunteers, posaconazole delayed-release tablets are absorbed with a median Tmax of 4 to 5 hours.
 Steady-state plasma concentrations are attained by Day 6 at the 300 mg dose (once daily after twice daily loading dose at Day 1).
 The absolute bioavailability of the oral delayed-release tablet is approximately 54% under fasted conditions.
-The Cmax and AUC of posaconazole following administration of posaconazole delayed-release tablets is increased 16% and 51%, respectively, when given with a high fat meal compared to a fasted state (see Table 20).
-In order to enhance the oral absorption of posaconazole and optimize plasma concentrations, posaconazole delayed-release tablets should be administered with food.
+The Cmax and AUC of posaconazole following administration of posaconazole delayed-release tablets is increased 16% and 51%, respectively, when given with a high fat meal compared to a fasted state (see Table 22).
 
-Table 20: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Following Single Oral Dose Administration of 300 mg Posaconazole Delayed-Release Tablet to Healthy Subjects under Fasting and Fed Conditions
+Table 22: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Following Single Oral Dose Administration of 300 mg Posaconazole Delayed-Release Tablet to Healthy Subjects under Fasting and Fed Conditions
 
 |  | Fasting Conditions |  | Fed Conditions (High Fat Meal)* |  | Fed/Fasting |
 | --- | --- | --- | --- | --- | --- |
@@ -57,9 +55,9 @@ Table 20: Statistical Comparison of Plasma Pharmacokinetics of Posaconazole Foll
 | GMR=Geometric least-squares mean ratio; CI=Confidence interval * 48.5 g fat † Median (Min, Max) reported for Tmax |  |  |  |  |  |
 | GMR=Geometric least-squares mean ratio; CI=Confidence interval |  |  |  |  |  |
 
-Concomitant administration of posaconazole delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 21).
+Concomitant administration of posaconazole delayed-release tablets with drugs affecting gastric pH or gastric motility did not demonstrate any significant effects on posaconazole pharmacokinetic exposure (see Table 23).
 
-Table 21: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Delayed-Release Tablets in Healthy Volunteers
+Table 23: The Effect of Concomitant Medications that Affect the Gastric pH and Gastric Motility on the Pharmacokinetics of Posaconazole Delayed-Release Tablets in Healthy Volunteers
 
 | Coadministered Drug | Administration Arms | Change in Cmax (ratio estimate*; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate*; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- |
@@ -82,9 +80,9 @@ The excreted metabolites in urine and feces account for ~17% of the administered
 
 Posaconazole is primarily metabolized via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux.
 Therefore, inhibitors or inducers of these clearance pathways may affect posaconazole plasma concentrations.
-A summary of drugs studied clinically with the oral suspension or an early tablet formulation, which affect posaconazole concentrations, is provided in Table 25.
+A summary of drugs studied clinically with the oral suspension or an early tablet formulation, which affect posaconazole concentrations, is provided in Table 27.
 
-Table 25: Summary of the Effect of Coadministered Drugs on Posaconazole in Healthy Volunteers
+Table 27: Summary of the Effect of Coadministered Drugs on Posaconazole in Healthy Volunteers
 
 | Coadministered Drug (Postulated Mechanism of Interaction) | Coadministered Drug Dose/Schedule | Posaconazole Dose/Schedule | Effect on Bioavailability of Posaconazole |  |
 | --- | --- | --- | --- | --- |
@@ -98,9 +96,9 @@ Table 25: Summary of the Effect of Coadministered Drugs on Posaconazole in Healt
 In vitro studies with human hepatic microsomes and clinical studies indicate that posaconazole is an inhibitor primarily of CYP3A4.
 A clinical study in healthy volunteers also indicates that posaconazole is a strong CYP3A4 inhibitor as evidenced by a >5-fold increase in midazolam AUC.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
-A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 26 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
+A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 28 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
 
-Table 26: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Volunteers and Patients
+Table 28: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Volunteers and Patients
 
 | Coadministered Drug (Postulated Mechanism of Interaction is Inhibition of CYP3A4 by posaconazole) | Coadministered Drug Dose/Schedule | Posaconazole Dose/ Schedule | Effect on Bioavailability of Coadministered Drugs |  |
 | --- | --- | --- | --- | --- |

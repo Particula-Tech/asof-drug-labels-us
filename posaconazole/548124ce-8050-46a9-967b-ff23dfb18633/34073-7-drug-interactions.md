@@ -104,3 +104,8 @@ No dosage adjustment of posaconazole delayed-release tablets is required when gi
 ## 7.14 Glipizide
 
 Although no dosage adjustment of glipizide is required, it is recommended to monitor glucose concentrations when posaconazole and glipizide are concomitantly used.
+
+## 7.16 Venetoclax
+
+Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.10)].
+Refer to the venetoclax prescribing information for more information on the dosing instructions and the extent of increase in venetoclax exposure.
