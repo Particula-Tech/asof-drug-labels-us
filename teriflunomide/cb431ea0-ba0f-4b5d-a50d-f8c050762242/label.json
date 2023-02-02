@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA209663"
+  ],
+  "inn": "teriflunomide",
+  "labeler": "Glenmark Pharmaceuticals Inc., USA",
+  "package_ndcs": [
+    "68462-423-15",
+    "68462-423-30",
+    "68462-423-85",
+    "68462-424-15",
+    "68462-424-30",
+    "68462-424-85"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "teriflunomide",
+      "name": "teriflunomide"
+    }
+  ],
+  "setid": "cb431ea0-ba0f-4b5d-a50d-f8c050762242",
+  "source": "dailymed"
+}
