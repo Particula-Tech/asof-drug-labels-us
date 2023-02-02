@@ -1,5 +1,7 @@
 # Medication Guide
 
+Dispense with Medication Guide available at: documents.amneal.com/mg/tramadol-tablets.pdf
+
 | Tramadol Hydrochloride (tram’ a dol hye” droe klor’ ide) Tablets, USP C-IV |  |
 | --- | --- |
 | Tramadol hydrochloride tablets are: A strong prescription pain medicine that contains an opioid (narcotic) that is used for the management pain in adults, when other pain treatments such as non-opioid pain medicines do not treat your pain well enough or you cannot tolerate them. An opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death. |  |
