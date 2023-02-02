@@ -11,10 +11,10 @@ Advise patients that if the eye becomes red, sensitive to light, painful, or dev
 Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA
 
 Patented.
-See http://patents.bausch.com for US patent information.
+See https://patents.bausch.com for US patent information.
 
-XIPERE™, SCS®, and SCS Microinjector® are trademarks of Clearside Biomedical, Inc. used under license.
+XIPERE®, SCS®, and SCS Microinjector® are trademarks of Clearside Biomedical, Inc. used under license.
 
 © 2022 Bausch & Lomb Incorporated or its affiliates
 
-9772100
+9772101

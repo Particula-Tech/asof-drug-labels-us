@@ -3,20 +3,20 @@
 ## 2.1 Dosing Information
 
 For suprachoroidal injection using the SCS Microinjector®.
-The recommended dose of XIPERE™ is 4 mg (0.1 mL of the 40 mg/mL injectable suspension).
+The recommended dose of XIPERE® is 4 mg (0.1 mL of the 40 mg/mL injectable suspension).
 
 ## 2.2 Preparation for Administration
 
 | Suprachoroidal injection is performed under aseptic conditions. The components for administration include: A.One single-dose glass vial of triamcinolone acetonide injectable suspension 40 mg/mLB.One SCS Microinjector® syringe with vial adapter attachedC.One 30-G x 900-µm needle D.One 30-G x 1100-µm needle |  |
 | --- | --- |
 
-| Step 1 Figure A | Remove the tray from the carton (see Figure A). The tray consists of two compartments: |
+| Step 1 Figure A | Remove the tray from the carton (see Figure A). The tray consists of two compartments: • An open, non-sterile compartment that holds the vial • A sealed compartment that contains a sterile tray |
 | --- | --- |
 
 | Step 2 Figure B | Examine the tray for damage (see Figure B). Ensure that the sealed compartment cover is intact and that there is no evidence of damage. If damage is present, do not use. |
 | --- | --- |
 
-| Step 3 Figure C | Remove the vial from the tray (see Figure C). Examine the vial and ensure there is no evidence of damage. Set aside for use in step 6. |
+| Step 3 Figure C | Remove the vial from the tray (see Figure C). Examine the vial and ensure there is no evidence of damage. Set aside for use in Step 6. |
 | --- | --- |
 
 | Step 4 Figure D | Peel off the compartment cover, exposing the sterile tray (see Figure D). |
@@ -84,13 +84,13 @@ If continued resistance is experienced during injection attempts:
   If patient safety is not at risk, the physician may use medical judgment to restart the injection procedure at a new site adjacent to the original injection site.
 - •If resistance continues and patient safety is not at risk, the physician may use appropriate medical judgment to change to the additional included needle in the sterile tray.
   Twist to remove the needle and reconnect the syringe to the vial by twisting the syringe onto the vial adapter.
-  Repeat the preparation and injection process as stated in steps 9 – 18 with the additional needle (allowing for any partial dose given with the first needle when completing preparation Step 12).
+  Repeat the preparation and injection process as stated in Steps 9 – 18 with the additional needle (allowing for any partial dose given with the first needle when completing preparation Step 12).
 
 Immediately following suprachoroidal injection, patients should be monitored for elevation of intraocular pressure.
 Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry.
 
 Following suprachoroidal injection, patients should be instructed to report any symptoms suggestive of endophthalmitis or retinal detachment (e.g., eye pain, redness of eye, photophobia, blurring of vision) without delay [see Patient Counseling Information (17)].
 
-Each XIPERE™ package (microinjector syringe with vial adapter, 900-µm needle, 1100-µm needle, and vial of triamcinolone acetonide injectable suspension 40 mg/mL) is single-dose and should only be used for the treatment of one eye.
+Each XIPERE® package (microinjector syringe with vial adapter, 900-µm needle, 1100-µm needle, and vial of triamcinolone acetonide injectable suspension 40 mg/mL) is single-dose and should only be used for the treatment of one eye.
 
 After suprachoroidal injection, all drug product and components (used or unused) must be discarded appropriately.

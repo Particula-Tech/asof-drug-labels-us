@@ -4,14 +4,14 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-XIPERE™ was studied in a multicenter, randomized, sham-controlled, double-masked study in patients with macular edema associated with uveitis.
-Table 1 summarizes data available from the clinical trial for XIPERE™ treated patients and control patients.
+XIPERE® was studied in a multicenter, randomized, sham-controlled, double-masked study in patients with macular edema associated with uveitis.
+Table 1 summarizes data available from the clinical trial for XIPERE® treated patients and control patients.
 
 The most common ocular (study eye) adverse reactions occurring in ≥ 2% of patients and non-ocular adverse reactions occurring in ≥ 5% of patients are shown in Table 1.
 
-Table 1: Ocular Adverse Reactions Reported in ≥ 2% of Patients and Non-ocular Adverse Reactions Reported by ≥ 5% of Patients
+Table 1: Ocular Adverse Reactions Reported in ≥ 2% of Patients and Non-ocular Adverse Reactions Reported in ≥ 5% of Patients
 
-| Adverse Reaction | XIPERE™ (N = 96) n (%) | Control (N = 64) n (%) |
+| Adverse Reaction | XIPERE® (N = 96) n (%) | Control (N = 64) n (%) |
 | --- | --- | --- |
 | Ocular |  |  |
 | Increased intraocular pressure, non-acute a, b | 13 (14%) | 9 (14%) |

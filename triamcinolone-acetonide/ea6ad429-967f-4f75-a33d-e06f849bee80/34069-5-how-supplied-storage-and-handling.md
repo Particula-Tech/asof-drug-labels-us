@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-XIPERE™ is supplied with the following sterile components for administration, sealed in a Tyvek covered tray, and one single-dose glass vial, in a carton with a package insert (NDC 24208-040-40):
+XIPERE® is supplied with the following sterile components for administration, sealed in a Tyvek covered tray, and one single-dose glass vial, in a carton with a package insert (NDC 24208-040-40):
 
 - •One SCS Microinjector® syringe with vial adapter attached
 - •One 30-G x 900-µm needle
