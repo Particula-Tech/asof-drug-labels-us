@@ -1,5 +1,3 @@
-CIV
-
 Rx only
 
 For intravenous or intramuscular use.
@@ -10,4 +8,4 @@ CONTAINS BENZYL ALCOHOL
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0851-10.0 Revised: 11/2022
+LAB-0851-11.0 Revised: 1/2023
