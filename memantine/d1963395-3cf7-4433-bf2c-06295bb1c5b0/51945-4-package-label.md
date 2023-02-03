@@ -1,7 +1,7 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL_5mg
-
-NDC 47335-321-86 Memantine Hydrochloride Tablets, USP 5 mg Rx only 60 Tablets SUN PHARMA
-
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 47335-322-86 Memantine Hydrochloride Tablets, USP 10 mg Rx only 60 Tablets SUN PHARMA
+
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL_5mg
+
+NDC 47335-321-86 Memantine Hydrochloride Tablets, USP 5 mg Rx only 60 Tablets SUN PHARMA
