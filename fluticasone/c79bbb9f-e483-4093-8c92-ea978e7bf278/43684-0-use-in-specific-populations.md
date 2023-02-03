@@ -4,7 +4,7 @@
 
 ### Risk Summary
 
-Available data from published literature on the use of inhaled or intranasal fluticasone propionate in pregnant women have not reported a clear association with adverse developmental outcomes.
+Available data from published literature on the use of inhaled or nasal fluticasone propionate in pregnant women have not reported a clear association with adverse developmental outcomes.
 In animals, teratogenicity characteristic of corticosteroids, decreased fetal body weight, and/or skeletal variations in rats, mice, and rabbits were observed with subcutaneously administered maternal toxic doses of fluticasone propionate less than the maximum recommended human daily inhaled dose (MRHDID) on a mcg/m2 basis.
 However, fluticasone propionate administered via inhalation to rats decreased fetal body weight, but did not induce teratogenicity at a maternal toxic dose less than the MRHDID on a mcg/m2 basis (see Data).
 Experience with oral corticosteroids suggests that rodents are more prone to teratogenic effects from corticosteroids than humans.
@@ -50,15 +50,15 @@ Subcutaneous administration of tritiated fluticasone propionate at a dose in lac
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of XHANCE in pediatric patients have not been established.
+The safety and effectiveness of XHANCE in pediatric patients have not been established.
 
 Effects on Growth
 
-Controlled clinical trials have shown that intranasal corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
+Controlled clinical trials have shown that nasal corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
 This effect was observed in the absence of laboratory evidence of HPA axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
-The long-term effects of this reduction in growth velocity associated with intranasal corticosteroids, including the impact on final adult height, are unknown.
-The potential for “catch-up” growth following discontinuation of treatment with intranasal corticosteroids has not been adequately studied.
-The growth of pediatric patients receiving intranasal corticosteroids should be monitored routinely (e.g., via stadiometry).
+The long-term effects of this reduction in growth velocity associated with nasal corticosteroids, including the impact on final adult height, are unknown.
+The potential for “catch-up” growth following discontinuation of treatment with nasal corticosteroids has not been adequately studied.
+The growth of pediatric patients receiving nasal corticosteroids should be monitored routinely (e.g., via stadiometry).
 The potential growth effects of prolonged treatment should be weighed against the clinical benefits obtained and the risks associated with alternative therapies.
 
 Controlled clinical trials have shown that corticosteroids orally inhaled into the lungs may cause a reduction in growth in pediatric patients.
@@ -69,7 +69,7 @@ The growth of children and adolescents receiving corticosteroids should be monit
 ## 8.5 Geriatric Use
 
 Clinical trials of XHANCE did not include sufficient numbers of subjects aged 65 years and older to determine whether they responded differently than younger subjects.
-Other reported clinical experience with fluticasone administered intranasal or orally inhaled has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Other reported clinical experience with fluticasone administered nasally or orally inhaled has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Hepatic Impairment
 

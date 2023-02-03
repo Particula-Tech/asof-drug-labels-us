@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-XHANCE® nasal spray is indicated for the treatment of nasal polyps in patients 18 years of age or older.
+XHANCE® is indicated for the treatment of chronic rhinosinusitis with nasal polyps (CRSwNP) in adult patients 18 years of age or older.

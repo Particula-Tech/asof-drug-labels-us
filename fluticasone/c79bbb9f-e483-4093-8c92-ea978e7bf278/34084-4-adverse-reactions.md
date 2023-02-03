@@ -1,13 +1,13 @@
 # 6 ADVERSE REACTIONS
 
-Systemic and local corticosteroid use may result in the following:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- •Local nasal effects: epistaxis, erosion, ulceration, septal perforation, Candida albicans infection, and impaired wound healing [see Warnings and Precautions (5.1)]
-- •Cataracts and glaucoma [see Warnings and Precautions (5.2)]
-- •Hypersensitivity reactions including anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.3)]
-- •Immunosuppression [see Warnings and Precautions (5.4)]
-- •HPA axis effects, including growth reduction [see Warnings and Precautions (5.5 and 5.8)]
-- •Reduction in bone mineral density [see Warnings and Precautions (5.7)]
+- •Local Nasal Adverse Reactions: [see Warnings and Precautions (5.1)]
+- •Cataracts and Glaucoma [see Warnings and Precautions (5.2)]
+- •Hypersensitivity Reactions including Anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.3)]
+- •Immunosuppression and Risk of Infections [see Warnings and Precautions (5.4)]
+- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.5)]
+- •Reduction in Bone Mineral Density [see Warnings and Precautions (5.7)]
 - •Effect on Growth [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
@@ -23,7 +23,7 @@ Of these patients, 45 (7%) were 65 years of age or older.
 Table 1 displays adverse reactions with an incidence of ≥ 3% in the XHANCE 186 mcg and 372 mcg twice daily subjects, and more common than placebo.
 
 Table 1.
-Summary of Adverse Reactions with XHANCE Reported in ≥ 3% of Subjects with Nasal Polyps and More Common Than Placebo in Placebo-Controlled Studies
+Summary of Adverse Reactions with XHANCE Reported in ≥ 3% of Subjects with CRSwNP and More Common Than Placebo in Placebo-Controlled Studies
 
 | Adverse Reaction | Placebo (N = 161) n (%) | 186 mcg bid (N = 160) n (%) | 372 mcg bid (N = 161) n (%) |
 | --- | --- | --- | --- |
@@ -47,9 +47,13 @@ Other adverse reactions with XHANCE observed with an incidence < 3% but ≥ 1% a
 There were no clinically relevant differences in the incidence of adverse reactions based on gender.
 Clinical trials did not include sufficient numbers of non-Caucasian patients or patients aged 65 years and older to determine whether they respond differently from Caucasian or younger patients, respectively.
 
-The adverse reactions observed during uncontrolled, open-label trials of 3 to 12 months duration in subjects with chronic sinusitis with and without nasal polyps receiving XHANCE 372 mcg twice daily were similar to the adverse reactions reported in clinical trials in patients with nasal polyps.
+The adverse reactions observed during uncontrolled, open-label trials of 3 to 12 months duration in subjects with chronic rhinosinusitis with and without nasal polyps receiving XHANCE 372 mcg twice daily were similar to the adverse reactions reported in clinical trials in patients with nasal CRSwNP.
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse events reported from clinical trials, the following adverse reactions have been identified during postapproval use of XHANCE: dysphonia, pruritus, rash, nasal discomfort, and nasal dryness.
+The following adverse reactions have been identified during postapproval use of XHANCE.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Respiratory, thoracic, and mediastinal disorders: dysphonia, nasal discomfort, and nasal dryness
+
+Skin and subcutaneous tissue disorders: pruritus, rash

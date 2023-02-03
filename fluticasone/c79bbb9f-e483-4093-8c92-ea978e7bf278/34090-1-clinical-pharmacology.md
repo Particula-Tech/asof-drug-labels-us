@@ -7,7 +7,7 @@ Fluticasone propionate has been shown in vitro to exhibit a binding affinity for
 Data from the McKenzie vasoconstrictor assay in man are consistent with these results.
 The clinical significance of these findings is unknown.
 
-The precise mechanism through which fluticasone propionate affects nasal polyps and associated inflammatory symptoms is not known.
+The precise mechanism through which fluticasone propionate affects CRSwNP and associated inflammatory symptoms is not known.
 Corticosteroids have been shown to have a wide range of effects on multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) involved in inflammation.
 The anti-inflammatory action of corticosteroids contributes to their efficacy.
 In 7 trials in adults, fluticasone propionate nasal spray decreased nasal mucosal eosinophils in 66% of patients (35% for placebo) and basophils in 39% of patients (28% for placebo).
@@ -35,7 +35,7 @@ A study specifically designed to evaluate the effect of XHANCE on the QT interva
 ## 12.3 Pharmacokinetics
 
 The activity of XHANCE is due to the parent drug, fluticasone propionate.
-Due to the low bioavailability by the intranasal route, the majority of the pharmacokinetic data were obtained via other routes of administration.
+Due to the low bioavailability by the nasal route, the majority of the pharmacokinetic data were obtained via other routes of administration.
 
 Absorption
 
@@ -63,19 +63,19 @@ Other metabolites detected in vitro using cultured human hepatoma cells have not
 
 Excretion: Less than 5% of a radiolabeled oral dose was excreted in the urine as metabolites, with the remainder excreted in the feces as parent drug and metabolites.
 
-Special Populations
+Specific Populations
 
 XHANCE was not studied in any special populations, and no gender-specific pharmacokinetic data have been obtained.
 
-Pediatrics: XHANCE was not studied in pediatric patients, and no pediatric-specific pharmacokinetic data have been obtained with the product.
+Pediatric Patients: XHANCE was not studied in pediatric patients, and no pediatric-specific pharmacokinetic data have been obtained with the product.
 
-Hepatic and Renal Impairment: Formal pharmacokinetic studies using XHANCE have not been conducted in patients with hepatic or renal impairment.
+Patients with Hepatic and Renal Impairment: Formal pharmacokinetic studies using XHANCE have not been conducted in patients with hepatic or renal impairment.
 However, since fluticasone propionate is predominantly cleared by hepatic metabolism, impairment of liver function may lead to accumulation of fluticasone propionate in plasma.
 Therefore, patients with hepatic disease should be closely monitored.
 
-Race: No significant difference in clearance (CL/F) of fluticasone propionate in Caucasian, African-American, Asian, or Hispanic populations has been observed.
+Racial or Ethnic Groups: No significant difference in clearance (CL/F) of fluticasone propionate in Caucasian, African-American, Asian, or Hispanic populations has been observed.
 
-Drug Interactions
+Drug Interaction Studies
 
 Inhibitors of Cytochrome P450 3A4
 

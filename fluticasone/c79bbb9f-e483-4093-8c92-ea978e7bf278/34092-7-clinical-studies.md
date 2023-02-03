@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Treatment of Nasal Polyps in Adults 18 Years of Age and Older
+## 14.1 Treatment of Chronic Rhinosinusitis with Nasal Polyps (CRSwNP) in Adults 18 Years of Age and Older
 
-The efficacy of XHANCE was evaluated in two randomized, double-blind, parallel‑group, multicenter, placebo-controlled, dose-ranging trials in adults 18 years and older with nasal polyps and associated moderate to severe nasal congestion (NCT 01622569, NCT 01624662).
+The efficacy of XHANCE was evaluated in two randomized, double-blind, parallel‑group, multicenter, placebo-controlled, dose-ranging trials in adults 18 years and older with CRSwNP and associated moderate to severe nasal congestion (NCT01622569, NCT01624662).
 The two trials included a total of 646 subjects [348 (53.9%) males and 298 (46.1%) females] with a mean age of 45.5 years.
 Subjects were randomized 1:1:1:1 to receive 93 mcg, 186 mcg, or 372 mcg twice daily or placebo for a period of 16 weeks.
 At baseline 35.7%, 79.0%, and 18.3% had polyps graded as mild, moderate, or severe, respectively.
-In addition, 90.6% of patients reported previous use of a topical steroid nasal spray for the treatment of nasal polyps and 53.6% reported previous sinus surgery or polypectomy.
+In addition, 90.6% of patients reported previous use of a topical steroid nasal spray for the treatment of CRSwNP and 53.6% reported previous sinus surgery or polypectomy.
 
 The co-primary efficacy endpoints were 1) change from baseline to Week 4 in nasal congestion / obstruction averaged over the preceding 7 days of treatment and 2) change from baseline to Week 16 in bilateral polyp grade.
 Nasal congestion was rated by the patient on a 0 to 3 categorical severity scale (0 = none, 1 = mild, 2 = moderate, 3 = severe) at the time immediately prior to the next dose (instantaneous).
@@ -15,7 +15,7 @@ Polyps on each side of the nose were graded on a categorical scale (0 = No polyp
 
 Efficacy was demonstrated for both XHANCE 186-mcg twice daily and XHANCE 372-mcg twice daily (Table 2).
 
-Table 2: Effect of XHANCE nasal spray in two randomized, placebo-controlled trials in patients with nasal polyps.
+Table 2: Effect of XHANCE nasal spray in two randomized, placebo-controlled trials in patients with CRSwNP.
 
 |  | XHANCE 186-mcg bid | XHANCE 372-mcg bid | Placebo | Diff. (95% CI) XHANCE 186-mcg bid vs placebo | Diff. (95% CI) XHANCE 372-mcg bid vs placebo |
 | --- | --- | --- | --- | --- | --- |

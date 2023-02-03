@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Local Nasal Effects
+## 5.1 Local Nasal Adverse Reactions
 
 Epistaxis, Nasal Erosions and Ulcerations
 
@@ -8,8 +8,8 @@ In placebo-controlled clinical trials of 16 weeks duration, epistaxis, nasal ero
 
 Nasal Septal Perforation
 
-Nasal septal perforations have been reported in patients following the intranasal application of XHANCE.
-In placebo-controlled clinical trials of 16 weeks duration, nasal septal perforations were reported in 1 (0.3%) patient treated with XHANCE compared with none treated with placebo.
+Nasal septal perforations have been reported in patients following the nasal application of XHANCE.
+In placebo-controlled clinical trials of 16 weeks duration, nasal septal perforation was reported in 1 (0.3%) patient treated with XHANCE compared with none treated with placebo.
 The patient had a prior history of nasal/sinus surgery.
 Three (0.3%) patients treated with XHANCE in uncontrolled, open-label trials of 3 to 12 months duration developed nasal septal perforations.
 
@@ -41,23 +41,23 @@ Therefore, close monitoring is warranted in patients with a change in vision or 
 XHANCE is contraindicated in patients with known hypersensitivity to fluticasone propionate or any of the ingredients of XHANCE.
 Discontinue XHANCE if such reactions (e.g., anaphylaxis, angioedema, urticaria, contact dermatitis, rash, hypotension, and bronchospasm) occur [see Contraindications (4) and Adverse Reactions (6.1)].
 
-## 5.4 Immunosuppression
+## 5.4 Immunosuppression and Risk of Infection
 
-Persons who are using drugs that suppress the immune system are more susceptible to infections than healthy individuals and may experience a worsening of existing infections.
+Persons who are using drugs that suppress the immune system, such as corticosteroids, including XHANCE, are more susceptible to infections than healthy individuals and may experience a worsening of existing infections.
 Chickenpox and measles, for example, can have a more serious or even fatal course in susceptible adults using corticosteroids.
 In such adults who have not had these diseases or been properly immunized, particular care should be taken to avoid exposure.
 How the dose, route, and duration of corticosteroid administration affect the risk of developing a disseminated infection is not known.
 The contribution of the underlying disease and/or prior corticosteroid treatment to the risk is also not known.
 If a patient is exposed to chickenpox, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
 If a patient is exposed to measles, prophylaxis with pooled intramuscular immunoglobulin (IG) may be indicated.
-(See the respective package inserts for complete VZIG and IG prescribing information.)
+(See the respective Prescribing Information for VZIG and IG.)
 If chickenpox develops, treatment with antiviral agents may be considered.
 
 Corticosteroids should be used with caution, if at all, in patients with active or quiescent tuberculosis infections of the respiratory tract; systemic fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex [see Adverse Reactions (6.1)].
 
-## 5.5 Hypothalamic-Pituitary-Adrenal Axis Effects
+## 5.5 Hypercorticism and Adrenal Suppression
 
-Hypercorticism and adrenal suppression may occur when intranasal corticosteroids, such as XHANCE, are used at higher than recommended dosages or in susceptible individuals at recommended dosages.
+Hypercorticism and adrenal suppression may occur when nasal corticosteroids, such as XHANCE, are used at higher than recommended dosages or in susceptible individuals at recommended dosages.
 Since fluticasone propionate is absorbed into the circulation and can be systemically active at higher doses, recommended dosages of XHANCE should not be exceeded to avoid hypothalamic-pituitary-adrenal (HPA) dysfunction.
 A relationship between plasma levels of fluticasone propionate and inhibitory effects on stimulated cortisol production has been shown after 4 weeks of pulmonary treatment with fluticasone propionate inhalation aerosol.
 Since individual sensitivity to effects on cortisol production exists, physicians should consider this information when prescribing XHANCE.
@@ -86,5 +86,5 @@ A 2-year trial in 160 subjects (females aged 18 to 40 years, males aged 18 to 50
 
 ## 5.8 Effect on Growth
 
-Intranasal corticosteroids may cause a reduction in growth velocity when administered to pediatric patients.
-The safety and efficacy of XHANCE has not been established in pediatric patients [see Use in Specific Populations (8.4)].
+Nasal corticosteroids, including XHANCE, may cause a reduction in growth velocity when administered to pediatric patients.
+The safety and effectiveness of XHANCE has not been established in pediatric patients [see Use in Specific Populations (8.4)].

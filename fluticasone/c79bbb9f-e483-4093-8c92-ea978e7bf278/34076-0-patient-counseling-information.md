@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
-Local Nasal Effects
+Local Nasal Adverse Reactions
 
 Inform patients that treatment with XHANCE may lead to adverse reactions, which include epistaxis, nasal erosions, and nasal ulceration.
 Candida infection may also occur with treatment with XHANCE.
@@ -20,7 +20,7 @@ Hypersensitivity Reactions, Including Anaphylaxis
 Inform patients that hypersensitivity reactions, including anaphylaxis, angioedema, urticaria, contact dermatitis, rash, bronchospasm, and hypotension, may occur after administration of fluticasone.
 If such reactions occur during use with XHANCE, patients should discontinue use of the product [see Warnings and Precautions (5.3)].
 
-Immunosuppression
+Immunosuppression and Risk of Infections
 
 Warn patients who are on immunosuppressant doses of corticosteroids to avoid exposure to chickenpox or measles, and if they are exposed to consult their healthcare provider without delay.
 Inform patients of potential worsening of existing tuberculosis; fungal, bacterial, viral, or parasitic infections; or ocular herpes simplex [see Warnings and Precautions (5.4)].
@@ -37,13 +37,13 @@ Advise patients who are at an increased risk for decreased bone mineral density 
 
 Reduced Growth Velocity
 
-The safety and efficacy of XHANCE use in pediatric patients has not been established.
-Inform patients that corticosteroids administered by oral inhalation into the lungs or intranasally may cause a reduction in growth velocity when administered to pediatric patients [see Warnings and Precautions (5.8)].
+The safety and effectiveness of XHANCE use in pediatric patients has not been established.
+Inform patients that corticosteroids administered by oral inhalation into the lungs or nasally may cause a reduction in growth velocity when administered to pediatric patients [see Warnings and Precautions (5.8)].
 
 Use Twice Daily for Best Effect
 
 Inform patients that they should use XHANCE on a regular basis as directed.
-XHANCE, like other corticosteroids, does not have an immediate effect on nasal polyps or symptoms.
+XHANCE, like other corticosteroids, does not have an immediate effect on CRSwNP or symptoms.
 Individual patients will experience a variable time to onset and degree of symptom relief and the full benefit may not be achieved until treatment has been administered for up to 16 weeks or longer.
 Maximum benefit may not be reached for a period of months.
 Patients should not increase the prescribed dosage, but should contact their healthcare providers if symptoms do not improve or if the condition worsens.
@@ -78,6 +78,6 @@ Patients should be advised not to block the other nostril because the exhaled br
 
 Distributed by: OptiNose US, Inc. 1020 Stony Hill Rd Yardley, PA 19067
 
-XHANCE and OPTINOSE are registered trademarks of OptiNose AS
+XHANCE and OPTINOSE are registered trademarks of OptiNose, Inc.
 
-©2022, OptiNose US, Inc. All rights reserved.
+©2023, OptiNose US, Inc. All rights reserved.
