@@ -26,7 +26,7 @@ Dosing Recommendations for EPIVIR Scored (150-mg) Tablets in Pediatric Patients
 Oral Solution
 
 The recommended dosage of EPIVIR oral solution in HIV-1‑infected pediatric patients aged 3 months and older is 5 mg per kg taken orally twice daily or 10 mg per kg taken orally once daily (up to a maximum of 300 mg daily), administered in combination with other antiretroviral agents [see Clinical Pharmacology (12.3)].
-Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosing interval for patients initiating treatment with oral solution [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
+Consider HIV-1 viral load and CD4+ cell count/percentage when selecting the dosing interval for patients initiating treatment with oral solution [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 
 ## 2.3 Patients with Renal Impairment
 
