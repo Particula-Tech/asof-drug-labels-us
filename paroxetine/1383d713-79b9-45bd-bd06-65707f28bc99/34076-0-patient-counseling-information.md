@@ -21,11 +21,19 @@ Instruct patients to read the Medication Guide before starting therapy with paro
   Caution patients about operating hazardous machinery, including motor vehicles, until they are reasonably certain that paroxetine therapy does not affect their ability to engage in such activities [see Warnings and Precautions (5.11)].
 - •Advise patients to inform their healthcare provider if they are taking, or plan to take, any prescription or over-the-counter drugs, including herbal supplements, because there is a potential for interaction with paroxetine [see Drug Interactions (7.3)].
 - •Advise patients that paroxetine, the active ingredient in paroxetine capsules, is also the active ingredient in certain other drugs and these medications should not be taken concomitantly [see Indications and Usage (1) and Drug Interactions (7.3)].
+- •Advise patients that use of paroxetine capsules may cause symptoms of sexual dysfunction in female patients.
+  Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.12)].
+
+BRISDELLE is a registered trademark of Sebela Ireland Limited.
+
+© 2021 Sebela Pharmaceuticals Inc. All rights reserved.
 
 Distributed By
 
-Perrigo®
+Padagis
 
-Minneapolis, MN 55427
+Allegan, MI 49010
 
-0S900 RC J1 Rev 07-17
+Rev 02-22
+
+0S900 RC J5

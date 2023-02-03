@@ -87,6 +87,12 @@ You may want to undergo an eye examination to see if you are at risk and receive
 16. 11.Driving.
     Paroxetine capsules may affect your ability to make decisions, think clearly, or react quickly.
     Do not drive, operate heavy machinery, or do other potentially dangerous activities until you know how paroxetine capsules affect you.
+17. 12.Sexual problems (dysfunction).
+    Taking selective serotonin reuptake inhibitors (SSRIs), including paroxetine capsules may cause symptoms of sexual problems.
+18. Symptoms in females may include:
+19. •Decrease sexual drive
+20. •Delayed or inability to have an orgasm
+21. Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with paroxetine capsules There may be treatments your healthcare provider can suggest.
 
 What are paroxetine capsules?
 
@@ -231,7 +237,7 @@ This Medication Guide summarizes the most important information about paroxetine
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about paroxetine capsules that is written for healthcare professionals.
 
-For more information about paroxetine capsules call 1-866-634-9120 or go to www.perrigo.com.
+For more information about paroxetine capsules call 1-866-634-9120 or go to www.padagis.com.
 
 What are the ingredients in paroxetine capsules?
 
@@ -241,8 +247,8 @@ Inactive ingredients: dibasic calcium phosphate, sodium starch glycolate, magnes
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed By Perrigo
+Distributed By Padagis
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.padagis.com
 
-Revised March 2017
+Revised February 2022

@@ -1,8 +1,8 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-Rx Only
-
 NDC 0574-0279-30
+
+Rx Only
 
 Paroxetine Capsules
 
