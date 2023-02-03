@@ -20,19 +20,13 @@ Inform patients of the following:
 
 Made in Israel
 
-Manufactured By Perrigo
+Manufactured By Padagis Yeruham, Israel
 
-Yeruham, Israel
+Distributed By Padagis Allegan, MI 49010 • www.padagis.com
 
-Distributed By
+Rev 01-22
 
-Perrigo®
-
-Allegan, MI 49010 • www.perrigo.com
-
-Rev 02-19
-
-1V200 RC J1
+1V200 RC J2
 
 # PATIENT INFORMATION
 
@@ -188,14 +182,10 @@ Inactive ingredients: mineral oil, PPG-15 stearyl ether, dl-alpha tocopherol, wh
 
 Made in Israel
 
-Manufactured By Perrigo
+Manufactured By Padagis
 
 Yeruham, Israel
 
-Distributed By
+Distributed By Padagis Allegan, MI 49010 • www.padagis.com
 
-Perrigo®
-
-Allegan, MI 49010 • www.perrigo.com
-
-Rev 02-19
+Rev 01-22
