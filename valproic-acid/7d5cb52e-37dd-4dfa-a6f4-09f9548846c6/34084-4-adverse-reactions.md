@@ -20,9 +20,9 @@ Because clinical studies are conducted under widely varying conditions, adverse 
 The data described in the following section were obtained using divalproex sodium tablets.
 
 Based on a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures, divalproex sodium was generally well tolerated with most adverse reactions rated as mild to moderate in severity.
-Intolerance was the primary reason for discontinuation in the divalproex sodium­treated patients (6%), compared to 1% of placebo-treated patients.
+Intolerance was the primary reason for discontinuation in the divalproex sodium­ treated patients (6%), compared to 1% of placebo-treated patients.
 
-Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of divalproex sodium ­treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
+Table 3 lists treatment-emergent adverse reactions which were reported by ≥ 5% of divalproex sodium-­treated patients and for which the incidence was greater than in the placebo group, in a placebo-controlled trial of adjunctive therapy for treatment of complex partial seizures.
 Since patients were also treated with other antiepilepsy drugs, it is not possible, in most cases, to determine whether the following adverse reactions can be ascribed to divalproex sodium alone, or the combination of divalproex sodium and other antiepilepsy drugs.
 
 Table 3.
@@ -66,7 +66,7 @@ Table 4 lists treatment-emergent adverse reactions which were reported by ≥ 5%
 Since patients were being titrated off another antiepilepsy drug during the first portion of the trial, it is not possible, in many cases, to determine whether the following adverse reactions can be ascribed to divalproex sodium alone, or the combination of divalproex sodium and other antiepilepsy drugs.
 
 Table 4.
-Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Divalproex Sodium Monotherapy for Complex Partial Seizures Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group.
+Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the Controlled Trial of Divalproex Sodium Monotherapy for Complex Partial Seizures1
 
 | Body System/Reaction | High Dose (n = 131) % | Low Dose (n = 134) % |
 | --- | --- | --- |
@@ -103,6 +103,9 @@ Adverse Reactions Reported by ≥ 5% of Patients in the High Dose Group in the C
 | Special Senses |  |  |
 | Amblyopia/Blurred Vision | 8 | 4 |
 | Tinnitus | 7 | 1 |
+
+| 1 Headache was the only adverse reaction that occurred in ≥ 5% of patients in the high dose group and at an equal or greater incidence in the low dose group. |
+| --- |
 
 The following additional adverse reactions were reported by greater than 1% but less than 5% of the 358 patients treated with divalproex sodium in the controlled trials of complex partial seizures:
 
@@ -158,7 +161,7 @@ Digestive System: Dry mouth, stomatitis.
 
 Urogenital System: Cystitis, metrorrhagia, and vaginal hemorrhage.
 
-## 6.4 Post-marketing Experience
+## 6.4 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of divalproex sodium.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

@@ -12,4 +12,4 @@ Valproic Acid Oral Solution USP is an antiepileptic for oral administration and 
 Inactive Ingredients
 
 Cherry flavor, FD&C Red No. 40, glycerin, methylparaben, purified water, sodium hydroxide, sorbitol and sucrose.
-May also contain citric acid to adjust pH.
+May also contain citric acid and sodium hydroxide to adjust pH.

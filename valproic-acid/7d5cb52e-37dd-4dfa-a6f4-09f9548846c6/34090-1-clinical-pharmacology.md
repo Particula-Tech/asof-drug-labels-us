@@ -26,8 +26,8 @@ Absorption/Bioavailability
 Equivalent oral doses of divalproex sodium products and valproic acid capsules deliver equivalent quantities of valproate ion systemically.
 Although the rate of valproate ion absorption may vary with the formulation administered (liquid, solid, or sprinkle), conditions of use (e.g., fasting or postprandial) and the method of administration (e.g., whether the contents of the capsule are sprinkled on food or the capsule is taken intact), these differences should be of minor clinical importance under the steady state conditions achieved in chronic use in the treatment of epilepsy.
 
-However, it is possible that differences among the various valproate products in T max and C max could be important upon initiation of treatment.
-For example, in single dose studies, the effect of feeding had a greater influence on the rate of absorption of the divalproex sodium tablet (increase in T max from 4 to 8 hours) than on the absorption of the divalproex sodium sprinkle capsules (increase in T max from 3.3 to 4.8 hours).
+However, it is possible that differences among the various valproate products in Tmax and Cmax could be important upon initiation of treatment.
+For example, in single dose studies, the effect of feeding had a greater influence on the rate of absorption of the divalproex sodium tablet (increase in Tmax from 4 to 8 hours) than on the absorption of the divalproex sodium sprinkle capsules (increase in T max from 3.3 to 4.8 hours).
 
 While the absorption rate from the G.I. tract and fluctuation in valproate plasma concentrations vary with dosing regimen and formulation, the efficacy of valproate as an anticonvulsant in chronic use is unlikely to be affected.
 Experience employing dosing regimens from once-a-day to four-times-a-day, as well as studies in primate epilepsy models involving constant rate infusion, indicate that total daily systemic bioavailability (extent of absorption) is the primary determinant of seizure control and that differences in the ratios of plasma peak to trough concentrations between valproate formulations are inconsequential from a practical clinical standpoint.
@@ -60,8 +60,8 @@ The kinetics of unbound drug are linear.
 
 Elimination
 
-Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m 2 and 11 L/1.73 m 2, respectively.
-Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m 2 and 92 L/1.73 m 2.
+Mean plasma clearance and volume of distribution for total valproate are 0.56 L/hr/1.73 m2 and 11 L/1.73 m2, respectively.
+Mean plasma clearance and volume of distribution for free valproate are 4.6 L/hr/1.73 m2 and 92 L/1.73 m2.
 Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours following oral dosing regimens of 250 to 1,000 mg.
 
 The estimates cited apply primarily to patients who are not taking drugs that affect hepatic metabolizing enzyme systems.
@@ -91,7 +91,7 @@ Accordingly, the initial dosage should be reduced in the elderly [see Dosage and
 
 Effect of Sex
 
-There are no differences in the body surface area adjusted unbound clearance between males and females (4.8 ± 0.17 and 4.7 ± 0.07 L/hr per 1.73 m 2, respectively).
+There are no differences in the body surface area adjusted unbound clearance between males and females (4.8 ± 0.17 and 4.7 ± 0.07 L/hr per 1.73 m2, respectively).
 
 Effect of Race
 

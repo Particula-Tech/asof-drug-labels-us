@@ -17,7 +17,7 @@ Women with epilepsy who become pregnant while taking valproate should not discon
 
 Maternal valproate use during pregnancy for any indication increases the risk of congenital malformations, particularly neural tube defects including spina bifida, but also malformations involving other body systems (e.g., craniofacial defects including oral clefts, cardiovascular malformations, hypospadias, limb malformations).
 This risk is dose-dependent; however, a threshold dose below which no risk exists cannot be established.
-In utero to valproate may also result in hearing impairment or hearing loss.
+In utero exposure to valproate may also result in hearing impairment or hearing loss.
 Valproate polytherapy with other AEDs has been associated with an increased frequency of congenital malformations compared with AED monotherapy.
 The risk of major structural abnormalities is greatest during the first trimester; however, other serious developmental effects can occur with valproate use throughout pregnancy.
 The rate of congenital malformations among babies born to epileptic mothers who used valproate during pregnancy has been shown to be about four times higher than the rate among babies born to epileptic mothers who used other anti-seizure monotherapies [see Warnings and Precautions (5.2) and Data (Human)].
@@ -84,11 +84,12 @@ The largest of these studies 1 is a prospective cohort study conducted in the Un
 It is not known when during pregnancy cognitive effects in valproate-exposed children occur.
 Because the women in this study were exposed to AEDs throughout pregnancy, whether the risk for decreased IQ was related to a particular time period during pregnancy could not be assessed [see Warnings and Precautions (5.3)].
 
-Although the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on neurodevelopment, including increases in autism spectrum disorders.
+Although the available studies have methodological limitations, the weight of the evidence supports a causal association between valproate exposure in utero and subsequent adverse effects on neurodevelopment, including increases in autism spectrum disorders disorders and attention deficit/hyperactivity disorder (ADHD).
 An observational study has suggested that exposure to valproate products during pregnancy increases the risk of autism spectrum disorders.
 In this study, children born to mothers who had used valproate products during pregnancy had 2.9 times the risk (95% confidence interval [CI]: 1.7-4.9) of developing autism spectrum disorders compared to children born to mothers not exposed to valproate products during pregnancy.
 The absolute risks for autism spectrum disorders were 4.4% (95% CI: 2.6%-7.5%) in valproate-exposed children and 1.5% (95% CI: 1.5%-1.6%) in children not exposed to valproate products.
-Because the study was observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder cannot be considered definitive.
+Another observational study found that children who were exposed to valproate in utero had an increased risk of ADHD (adjusted HR 1.48; 95% CI, 1.09-2.00) compared with the unexposed children.
+Because these studies were observational in nature, conclusions regarding a causal association between in utero valproate exposure and an increased risk of autism spectrum disorder and ADHD cannot be considered definitive.
 
 Other
 
@@ -96,7 +97,7 @@ There are published case reports of fatal hepatic failure in offspring of women 
 
 Animal
 
-In developmental toxicity studies conducted in mice, rats, rabbits, and monkeys, increased rates of fetal structural abnormalities, intrauterine growth retardation, and embryo-fetal death occurred following administration of valproate to pregnant animals during organogenesis at clinically relevant doses (calculated on a body surface area [mg/m 2] basis).
+In developmental toxicity studies conducted in mice, rats, rabbits, and monkeys, increased rates of fetal structural abnormalities, intrauterine growth retardation, and embryo-fetal death occurred following administration of valproate to pregnant animals during organogenesis at clinically relevant doses (calculated on a body surface area [mg/m2] basis).
 Valproate induced malformations of multiple organ systems, including skeletal, cardiac, and urogenital defects.
 In mice, in addition to other malformations, fetal neural tube defects have been reported following valproate administration during critical periods of organogenesis, and the teratogenic response correlated with peak maternal drug levels.
 Behavioral abnormalities (including cognitive, locomotor, and social interaction deficits) and brain histopathological changes have also been reported in mice and rat offspring exposed prenatally to clinically relevant doses of valproate.
@@ -185,7 +186,7 @@ In these seven clinical trials, the safety and tolerability of divalproex sodium
 Juvenile Animal Toxicology
 
 In studies of valproate in immature animals, toxic effects not observed in adult animals included retinal dysplasia in rats treated during the neonatal period (from postnatal day 4) and nephrotoxicity in rats treated during the neonatal and juvenile (from postnatal day 14) periods.
-The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m 2 basis.
+The no-effect dose for these findings was less than the maximum recommended human dose on a mg/m2 basis.
 
 ## 8.5 Geriatric Use
 

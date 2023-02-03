@@ -6,7 +6,7 @@ The studies described in the following section were conducted using divalproex s
 
 The efficacy of divalproex sodium in reducing the incidence of complex partial seizures (CPS) that occur in isolation or in association with other seizure types was established in two controlled trials.
 
-In one, multi-clinic, placebo controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium or placebo.
+In one, multi-clinic, placebo-controlled study employing an add-on design (adjunctive therapy), 144 patients who continued to suffer eight or more CPS per 8 weeks during an 8 week period of monotherapy with doses of either carbamazepine or phenytoin sufficient to assure plasma concentrations within the "therapeutic range" were randomized to receive, in addition to their original antiepilepsy drug (AED), either divalproex sodium or placebo.
 Randomized patients were to be followed for a total of 16 weeks.
 The following table presents the findings.
 
@@ -15,7 +15,7 @@ Adjunctive Therapy Study Median Incidence of CPS per 8 Weeks
 
 | Add-on Treatment | Number of Patients | Baseline Incidence | Experimental Incidence |
 | --- | --- | --- | --- |
-| Divalproex sodium | 75 | 16.0 | 8.9 Reduction from baseline statistically significantly greater for divalproex sodium than placebo at p ≤ 0.05 level. |
+| Divalproex sodium | 75 | 16.0 | 8.9 * |
 | Placebo | 69 | 14.5 | 11.5 |
 
 Figure 1 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the adjunctive therapy study.
@@ -40,7 +40,7 @@ Monotherapy Study Median Incidence of CPS per 8 Weeks
 
 | Treatment | Number of Patients | Baseline Incidence | Randomized Phase Incidence |
 | --- | --- | --- | --- |
-| High dose divalproex sodium | 131 | 13.2 | 10.7 Reduction from baseline statistically significantly greater for high dose than low dose at p ≤ 0.05 level. |
+| High dose divalproex sodium | 131 | 13.2 | 10.7 * |
 | Low dose divalproex sodium | 134 | 14.2 | 13.8 |
 
 Figure 2 presents the proportion of patients (X axis) whose percentage reduction from baseline in complex partial seizure rates was at least as great as that indicated on the Y axis in the monotherapy study.

@@ -16,51 +16,62 @@ Stopping valproic acid suddenly can cause serious problems.
 
 Valproic acid can cause serious side effects, including:
 
-- Serious liver damage that can cause death, especially in children younger than 2 years old.
-  The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.
-  Call your healthcare provider right away if you get any of the following symptoms:In some cases, liver damage may continue despite stopping the drug.
-  - nausea or vomiting that does not go away
-  - loss of appetite
-  - pain on the right side of your stomach (abdomen)
-  - dark urine
-  - swelling of your face
-  - yellowing of your skin or the whites of your eyes
-- Valproic acid may harm your unborn baby.
-  - If you take valproic acid during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
-    These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
-    These defects can begin in the first month, even before you know you are pregnant.
-    Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
-    Decreased hearing or hearing loss can also happen.
-  - Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
-  - Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
-  - If you take valproic acid during pregnancy for any medical condition, your child is at risk for having lower IQ and may be at risk for developing autism or attention deficit/hyperactivity disorder.
-  - There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
-  - Women who are pregnant must not take valproic acid to prevent migraine headaches.
-  - All women of childbearing age (including girls from the start of puberty) should talk to their healthcare provider about using other possible treatments instead of valproic acid.
-    If the decision is made to use valproic acid, you should use effective birth control (contraception).
-  - Tell your healthcare provider right away if you become pregnant while taking valproic acid.
-    You and your healthcare provider should decide if you will continue to take valproic acid while you are pregnant.
-  - Pregnancy Registry: If you become pregnant while taking valproic acid, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
-    You can enroll in this registry by calling toll-free 1-888-233-2334 or by visiting the website, http://www.aedpregnancyregistry.org/.
-    The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-- Inflammation of your pancreas that can cause death.
-  Call your healthcare provider right away if you have any of these symptoms:
-  - severe stomach pain that you may also feel in your back
-  - nausea or vomiting that does not go away
-- Like other antiepileptic drugs, valproic acid may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-  Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
-  - thoughts about suicide or dying
-  - attempts to commit suicide
-  - new or worse depression
-  - new or worse anxiety
-  - feeling agitated or restless
-  - panic attacks
-  - trouble sleeping (insomnia)
-  - new or worse irritability
-  - acting aggressive, being angry, or violent
-  - acting on dangerous impulses
-  - an extreme increase in activity and talking (mania)
-  - other unusual changes in behavior or mood
+1.
+Serious liver damage that can cause death, especially in children younger than 2 years old.
+The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.
+Call your healthcare provider right away if you get any of the following symptoms: In some cases, liver damage may continue despite stopping the drug.
+
+- nausea or vomiting that does not go away
+- loss of appetite
+- pain on the right side of your stomach (abdomen)
+- dark urine
+- swelling of your face
+- yellowing of your skin or the whites of your eyes
+
+2.
+Valproic acid may harm your unborn baby.
+
+- If you take valproic acid during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
+  These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
+  These defects can begin in the first month, even before you know you are pregnant.
+  Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
+  Decreased hearing or hearing loss can also happen.
+- Birth defects may occur even in children born to women who are not taking any medicines and do not have other risk factors.
+- Taking folic acid supplements before getting pregnant and during early pregnancy can lower the chance of having a baby with a neural tube defect.
+- If you take valproic acid during pregnancy for any medical condition, your child is at risk for having lower IQ and may be at risk for developing autism or attention deficit/hyperactivity disorder.
+- There may be other medicines to treat your condition that have a lower chance of causing birth defects, decreased IQ, or other disorders in your child.
+- Women who are pregnant must not take valproic acid to prevent migraine headaches.
+- All women of childbearing age (including girls from the start of puberty) should talk to their healthcare provider about using other possible treatments instead of valproic acid.
+  If the decision is made to use valproic acid, you should use effective birth control (contraception).
+- Tell your healthcare provider right away if you become pregnant while taking valproic acid.
+  You and your healthcare provider should decide if you will continue to take valproic acid while you are pregnant.
+- Pregnancy Registry: If you become pregnant while taking valproic acid, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+  You can enroll in this registry by calling toll-free 1-888-233-2334 or by visiting the website, http://www.aedpregnancyregistry.org/.
+  The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
+
+3.
+Inflammation of your pancreas that can cause death.
+Call your healthcare provider right away if you have any of these symptoms:
+
+- severe stomach pain that you may also feel in your back
+- nausea or vomiting that does not go away
+
+4.
+Like other antiepileptic drugs, valproic acid may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+
+- thoughts about suicide or dying
+- attempts to commit suicide
+- new or worse depression
+- new or worse anxiety
+- feeling agitated or restless
+- panic attacks
+- trouble sleeping (insomnia)
+- new or worse irritability
+- acting aggressive, being angry, or violent
+- acting on dangerous impulses
+- an extreme increase in activity and talking (mania)
+- other unusual changes in behavior or mood
 
 How can I watch for early symptoms of suicidal thoughts and actions?
 
@@ -134,7 +145,7 @@ What should I avoid while taking valproic acid?
 
 What are the possible side effects of valproic acid?
 
-- See " What is the most important information I should know about valproic acid?"
+- See "What is the most important information I should know about valproic acid?"
 
 Valproic acid can cause serious side effects including:
 

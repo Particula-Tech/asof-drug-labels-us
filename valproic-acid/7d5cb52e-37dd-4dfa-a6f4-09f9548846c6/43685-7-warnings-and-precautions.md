@@ -14,7 +14,7 @@ However, healthcare providers should not rely totally on serum biochemistry sinc
 
 Caution should be observed when administering valproate products to patients with a prior history of hepatic disease.
 Patients on multiple anticonvulsants, children, those with congenital metabolic disorders, those with severe seizure disorders accompanied by mental retardation, and those with organic brain disease may be at particular risk.
-See below, " Patients with Known or Suspected Mitochondrial Disease."
+See below, "Patients with Known or Suspected Mitochondrial Disease."
 
 Experience has indicated that children under the age of two years are at a considerably increased risk of developing fatal hepatotoxicity, especially those with the aforementioned conditions.
 When valproic acid products are used in this patient group, they should be used with extreme caution and as a sole agent.
@@ -67,8 +67,7 @@ This is especially important when valproate use is considered for a condition no
 Women should use effective contraception while using valproate.
 
 Women of childbearing potential should be counseled regularly regarding the relative risks and benefits of valproate use during pregnancy.
-This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients.
-[see Boxed Warning and Use in Specific Populations (8.1)].
+This is especially important for women planning a pregnancy and for girls at the onset of puberty; alternative therapeutic options should be considered for these patients [see Boxed Warning and Use in Specific Populations (8.1)].
 
 To prevent major seizures, valproate should not be discontinued abruptly, as this can precipitate status epilepticus with resulting maternal and fetal hypoxia and threat to life.
 
@@ -114,7 +113,7 @@ The risk did not vary substantially by age (5-100 years) in the clinical trials 
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 2.
-Risk by indication for antiepileptic drugs in the pooled analysis
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
@@ -132,10 +131,10 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 ## 5.8 Bleeding and Other Hematopoietic Disorders
 
 Valproate is associated with dose-related thrombocytopenia.
-In a clinical trial of divalproex sodium as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 × 10 9/L.
+In a clinical trial of divalproex sodium as monotherapy in patients with epilepsy, 34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 × 109/L.
 Approximately half of these patients had treatment discontinued, with return of platelet counts to normal.
 In the remaining patients, platelet counts normalized with continued treatment.
-In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥ 110 mcg/mL (females) or ≥ 135 mcg/mL (males).
+In this study, the probability of thrombocytopenia appeared to increase significantly at total valproate concentrations of ≥110 mcg/mL (females) or ≥ 135 mcg/mL (males).
 The therapeutic benefit which may accompany the higher doses should therefore be weighed against the possibility of a greater incidence of adverse effects.
 Valproate use has also been associated with decreases in other cell lines and myelodysplasia.
 
@@ -176,7 +175,7 @@ Clinical management and assessment should include examination of blood ammonia l
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, has been reported in patients taking valproate.
 DRESS may be fatal or life-threatening.
-DRESS typically, although not exclusively, presents with fever, rash, and/or lymphadenopathy and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.

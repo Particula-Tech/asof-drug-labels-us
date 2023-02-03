@@ -1,4 +1,4 @@
-MANUFACTURED BY
+# MANUFACTURED BY
 
 Pharmaceutical Associates, Inc.
 
