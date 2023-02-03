@@ -8,11 +8,11 @@ In the eye, phenylephrine acts locally as a potent vasoconstrictor and mydriatic
 
 ## 12.2 Pharmacodynamics
 
-Maximal mydriasis occurs in 20 to 90 minutes with recovery after 3 to 8 hours.
+Maximal mydriasis occurs in 20-90 minutes with recovery after 3 to 8 hours.
 
 Systemic absorption of sufficient quantities of phenylephrine may lead to systemic α-adrenergic effects, such as rise in blood pressure which may be accompanied by a reflex atropine-sensitive bradycardia.
 
 ## 12.3 Pharmacokinetics
 
 The systemic exposure following topical administration of phenylephrine hydrochloride ophthalmic solution has not been studied.
-A higher systemic absorption is expected for the 10% solution than the 2.5% solution and when the corneal barrier function is compromised.
+A higher systemic absorption is expected for the 10% solution and when the corneal barrier function has been compromised.

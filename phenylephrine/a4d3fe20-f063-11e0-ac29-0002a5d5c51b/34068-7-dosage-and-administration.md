@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Recommendations
 
-In patients 1 year of age or greater, apply one drop of either Phenylephrine Hydrochloride Ophthalmic Solution, USP 2.5% or 10% every 3 to 5 minutes to the conjunctival fornix as required up to a maximum of 3 drops.
+For patients 1 year of age or greater, apply one drop of either Phenylephrine Hydrochloride Ophthalmic Solution, USP 2.5% or 10% every 3 to 5 minutes to the conjunctival fornix as required up to a maximum of 3 drops.
 If necessary, this dose may be repeated.
 
 In order to obtain a greater degree of mydriasis, Phenylephrine Hydrochloride Ophthalmic Solution, USP 10% may be needed.
