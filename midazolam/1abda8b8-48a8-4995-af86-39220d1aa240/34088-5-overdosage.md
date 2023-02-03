@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-## Clinical Presentation
+Clinical Presentation
 
 Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma.
 In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
@@ -9,7 +9,7 @@ In severe overdosage cases, patients may develop respiratory depression and coma
 Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal (see WARNINGS: Risks from Concomitant Use With Opioids, and Concomitant Use of Central Nervous System Depressants).
 Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
 
-## Management of Overdose
+Management of Overdose
 
 In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway maintenance.
 Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.

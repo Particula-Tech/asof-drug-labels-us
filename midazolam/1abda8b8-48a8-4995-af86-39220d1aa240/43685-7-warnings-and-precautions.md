@@ -25,7 +25,9 @@ Hypotension occurred more frequently in the sedation studies in patients premedi
 
 ## Individualization of Dosage
 
-Midazolam must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression. see DOSAGE AND ADMINISTRATION for complete information.
+Midazolam must never be used without individualization of dosage particularly when used with other medications capable of producing central nervous system depression.
+
+See DOSAGE AND ADMINISTRATION for complete information.
 
 ## Other Adverse Events
 
@@ -61,7 +63,8 @@ Midazolam should only be administered intramuscularly or intravenously.
 
 ## Return to Full Cognitive Function
 
-Midazolam is associated with a high incidence of partial or complete impairment of recall for the next several hours The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
+Midazolam is associated with a high incidence of partial or complete impairment of recall for the next several hours.
+The decision as to when patients who have received injectable midazolam, particularly on an outpatient basis, may again engage in activities requiring complete mental alertness, operate hazardous machinery or drive a motor vehicle must be individualized.
 Gross tests of recovery from the effects of midazolam (see CLINICAL PHARMACOLOGY) cannot be relied upon to predict reaction time under stress.
 It is recommended that no patient operate hazardous machinery or a motor vehicle until the effects of the drug, such as drowsiness, have subsided or until 1 full day after anesthesia and surgery, whichever is longer.
 For pediatric patients, particular care should be taken to assure safe ambulation.
@@ -75,7 +78,7 @@ Monitor neonates exposed to midazolam during pregnancy or labor for signs of sed
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS/ Pregnancy and Pediatric Use and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS, Pregnancy and Pediatric Use and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
@@ -85,9 +88,7 @@ Decisions regarding the timing of any elective procedures requiring anesthesia s
 
 # PRECAUTIONS
 
-## General
-
-Intravenous doses of midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
+General: Intravenous doses of midazolam should be decreased for elderly and for debilitated patients (see WARNINGS and DOSAGE AND ADMINISTRATION).
 These patients will also probably take longer to recover completely after midazolam administration for the induction of anesthesia.
 
 Midazolam does not protect against the increase in intracranial pressure or against the heart rate rise and/or blood pressure rise associated with endotracheal intubation under light general anesthesia.
@@ -98,9 +99,7 @@ Care must be taken to individualize and carefully titrate the dose of midazolam 
 Practitioners administering midazolam must have the skills necessary to manage reasonably foreseeable adverse effects, particularly skills in airway management.
 For information regarding withdrawal (see DRUG ABUSE AND DEPENDENCE).
 
-## Information for Patients
-
-To assure safe and effective use of benzodiazepines, the following information and instructions should be communicated to the patient when appropriate:
+Information for Patients: To assure safe and effective use of benzodiazepines, the following information and instructions should be communicated to the patient when appropriate:
 
 1. 1.Inform your physician about any alcohol consumption and medicine you are now taking, especially blood pressure medication and antibiotics, including drugs you buy without a prescription.
    Alcohol has an increased effect when consumed with benzodiazepines; therefore, caution should be exercised regarding simultaneous ingestion of alcohol during benzodiazepine treatment.
@@ -123,7 +122,7 @@ Instruct patients to notify their healthcare provider if they are breastfeeding 
 Instruct breastfeeding patients receiving midazolam to monitor infants for excessive sedation, poor feeding, and poor weight gain, and to seek medical attention if they notice these signs.
 A lactating woman may consider pumping and discarding breastmilk for at least 4 to 8 hours after receiving midazolam for sedation or anesthesia to minimize drug exposure to a breastfed infant (see PRECAUTIONS: Nursing Mothers).
 
-## Drug Interactions
+## Drug Interactions:
 
 ### Effect of Concomitant Use of Benzodiazepines and Opioids
 
@@ -131,6 +130,8 @@ The concomitant use of benzodiazepines and opioids increases the risk of respira
 Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Monitor patients closely for respiratory depression and sedation.
+
+Other CNS Depressants
 
 The sedative effect of intravenous midazolam is accentuated by any concomitantly administered medication, which depresses the central nervous system, particularly opioids (e.g., morphine, meperidine and fentanyl) and also secobarbital and droperidol.
 Consequently, the dosage of midazolam should be adjusted according to the type and amount of concomitant medications administered and the desired clinical response (see DOSAGE AND ADMINISTRATION).
@@ -150,7 +151,7 @@ The half-life was approximately doubled.
 
 Caution is advised when midazolam is administered to patients receiving erythromycin since this may result in a decrease in the plasma clearance of midazolam.
 
-The effects of diltiazem (60 mg three times a day) and verapamil (80 mg three times day) on the pharmacokinetics and pharmacodynamics of midazolam were investigated in a three-way crossover study (n=9).
+The effects of diltiazem (60 mg three times a day) and verapamil (80 mg three times a day) on the pharmacokinetics and pharmacodynamics of midazolam were investigated in a three-way crossover study (n=9).
 The half-life of midazolam increased from 5 to 7 hours when midazolam was taken in conjunction with verapamil or diltiazem.
 No interaction was observed in healthy subjects between midazolam and nifedipine.
 
@@ -170,30 +171,22 @@ No significant adverse interactions with commonly used premedications or drugs u
 In neonates, however, severe hypotension has been reported with concomitant administration of fentanyl.
 This effect has been observed in neonates on an infusion of midazolam who received a rapid injection of fentanyl and in patients on an infusion of fentanyl who have received a rapid injection of midazolam.
 
-## Drug/Laboratory Test Interactions
-
-Midazolam has not been shown to interfere with results obtained in clinical laboratory tests.
+Drug/Laboratory Test Interactions: Midazolam has not been shown to interfere with results obtained in clinical laboratory tests.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
-
-Midazolam maleate was administered with diet in mice and rats for 2 years at dosages of 1, 9 and 80 mg/kg/day.
+Carcinogenesis: Midazolam maleate was administered with diet in mice and rats for 2 years at dosages of 1, 9 and 80 mg/kg/day.
 In female mice in the highest dose group there was a marked increase in the incidence of hepatic tumors.
 In high-dose male rats there was a small but statistically significant increase in benign thyroid follicular cell tumors.
 Dosages of 9 mg/kg/day of midazolam maleate (4 times a human induction dose of 0.35 mg/kg based on body surface area comparison) do not increase the incidence of tumors.
 The pathogenesis of induction of these tumors is not known.
 These tumors were found after chronic administration, whereas human use will ordinarily be of single or several doses.
 
-### Mutagenesis
+Mutagenesis: Midazolam did not have mutagenic activity in Salmonella typhimurium (5 bacterial strains), Chinese hamster lung cells (V79), human lymphocytes or in the micronucleus test in mice.
 
-Midazolam did not have mutagenic activity in Salmonella typhimurium (5 bacterial strains), Chinese hamster lung cells (V79), human lymphocytes or in the micronucleus test in mice.
-
-### Impairment of Fertility
-
-Male rats were treated orally with 1, 4, or 16 mg/kg midazolam beginning 62 days prior to mating with female rats treated with the same doses for 14 days prior to mating to Gestation Day 13 or Lactation Day 21.
+Impairment of Fertility: Male rats were treated orally with 1, 4, or 16 mg/kg midazolam beginning 62 days prior to mating with female rats treated with the same doses for 14 days prior to mating to Gestation Day 13 or Lactation Day 21.
 The high dose produced an equivalent exposure (AUC) as 4 mg/kg intravenous midazolam (1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparison).
-There were no adverse effects on either male or female fertility noted
+There were no adverse effects on either male or female fertility noted.
 
 ## Pregnancy
 
@@ -244,7 +237,7 @@ The study included no functional assessments of the pups, such as learning and m
 In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use, and Animal Toxicology and/or Pharmacology).
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Nursing Mothers
 
@@ -264,7 +257,7 @@ A lactating woman may consider interrupting breastfeeding and pumping and discar
 ## Pediatric Use
 
 The safety and efficacy of midazolam for sedation/anxiolysis/amnesia following single dose intramuscular administration, intravenously by intermittent injections and continuous infusion have been established in pediatric and neonatal patients.
-For specific safety monitoring and dosage guidelines see Boxed WARNING, CLINICAL PHARMACOLOGY, INDICATIONS, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION.
+For specific safety monitoring and dosage guidelines (see Boxed WARNING, CLINICAL PHARMACOLOGY, INDICATIONS AND USAGE, WARNINGS, PRECAUTIONS, ADVERSE REACTIONS, OVERDOSAGE and DOSAGE AND ADMINISTRATION).
 UNLIKE ADULT PATIENTS, PEDIATRIC PATIENTS GENERALLY RECEIVE INCREMENTS OF MIDAZOLAM ON A MG/KG BASIS.
 As a group, pediatric patients generally require higher dosages of midazolam (mg/kg) than do adults.
 Younger (less than six years) pediatric patients may require higher dosages (mg/kg) than older pediatric patients, and may require closer monitoring.
@@ -282,7 +275,7 @@ Based on comparisons across species, the window of vulnerability to these change
 
 In primates, exposure to 3 hours of ketamine that produced a light surgical plane of anesthesia did not increase neuronal cell loss, however, treatment regimens of 5 hours or longer of isoflurane increased neuronal cell loss.
 Data from isoflurane-treated rodents and ketamine-treated primates suggest that the neuronal and oligodendrocyte cell losses are associated with prolonged cognitive deficits in learning and memory.
-The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data (see WARNINGS/Pediatric Neurotoxicity, PRECAUTIONS/Pregnancy and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+The clinical significance of these nonclinical findings is not known, and healthcare providers should balance the benefits of appropriate anesthesia in pregnant women, neonates, and young children who require procedures with the potential risks suggested by the nonclinical data (see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pregnancy and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Geriatric Use
 
