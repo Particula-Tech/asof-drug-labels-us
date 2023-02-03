@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050805"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Mayne Pharma Inc.",
+  "package_ndcs": [
+    "68308-668-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxycycline",
+      "name": "DOXYCYCLINE"
+    }
+  ],
+  "setid": "0e6b3e17-aeee-4910-8e94-c7ac925b9cca",
+  "source": "dailymed"
+}
