@@ -20,6 +20,8 @@ KEYTRUDA, as a single agent, is indicated for the first-line treatment of patien
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after platinum-containing chemotherapy.
 Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving KEYTRUDA.
 
+KEYTRUDA, as a single agent, is indicated as adjuvant treatment following resection and platinum-based chemotherapy for adult patients with Stage IB (T2a ≥4 cm), II, or IIIA NSCLC.
+
 ## 1.3 Head and Neck Squamous Cell Cancer
 
 KEYTRUDA, in combination with platinum and fluorouracil (FU), is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent head and neck squamous cell carcinoma (HNSCC).

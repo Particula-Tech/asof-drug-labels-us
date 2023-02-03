@@ -405,6 +405,43 @@ Table 56: Efficacy Results of All Randomized Patients (TPS ≥1%) in KEYNOTE-010
 | Median duration of response in months (range) | NR (0.7+, 20.1+) | NR (2.1+, 17.8+) | 6.2 (1.4+, 8.8+) |
 | NR = not reached |  |  |  |
 
+Adjuvant treatment of resected NSCLC
+
+The efficacy of KEYTRUDA was investigated in KEYNOTE-091 (NCT02504372), a multicenter, randomized, triple-blind, placebo-controlled trial conducted in 1177 patients with completely resected stage IB (T2a ≥4 cm), II, or IIIA NSCLC by AJCC 7th edition.
+Patients had not received neoadjuvant radiotherapy or chemotherapy.
+Adjuvant chemotherapy up to 4 cycles was optional.
+Patients were ineligible if they had active autoimmune disease, were on chronic immunosuppressive agents or had a history of interstitial lung disease or pneumonitis.
+Randomization was stratified by stage (IB vs. II vs. IIIA), receipt of adjuvant chemotherapy (yes vs. no), PD-L1 status (TPS <1% [negative] vs. TPS 1-49% vs. TPS ≥50%), and geographic region (Western Europe vs. Eastern Europe vs. Asia vs. Rest of World).
+Patients were randomized (1:1) to receive KEYTRUDA 200 mg or placebo intravenously every 3 weeks.
+
+Treatment continued until RECIST v1.1-defined disease recurrence as determined by the investigator, unacceptable toxicity or up to one year.
+Tumor assessments were conducted every 12 weeks for the first year, then every 6 months for years 2 to 3, and then annually through year 5.
+After year 5, imaging was performed as per local standard of care.
+The major efficacy outcome measure was investigator-assessed disease-free survival (DFS).
+An additional efficacy outcome measure was OS.
+
+Of 1177 patients randomized, 1010 (86%) received adjuvant platinum-based chemotherapy following resection.
+Among these 1010 patients, the median age was 64 years (range: 35 to 84), 49% age 65 or older; 68% male; 77% White, 18% Asian; 86% current or former smokers; and 39% with ECOG PS of 1.
+Eleven percent had stage IB, 57% had stage II, and 31% had stage IIIA disease.
+Thirty-nine percent had PD-L1 TPS <1% [negative], 33% had TPS 1-49%, and 28% had TPS ≥50%.
+Fifty-two percent were from Western Europe, 20% from Eastern Europe, 17% from Asia, and 11% from Rest of World.
+
+The trial met its primary endpoint, demonstrating a statistically significant improvement in DFS in the overall population for patients randomized to the KEYTRUDA arm compared to patients randomized to the placebo arm.
+In an exploratory subgroup analysis of the 167 patients (14%) who did not receive adjuvant chemotherapy, the DFS HR was 1.25 (95% CI: 0.76, 2.05).
+OS results were not mature with only 42% of pre-specified OS events in the overall population.
+
+Table 57 and Figure 10 summarize the efficacy results for KEYNOTE-091 in patients who received adjuvant chemotherapy.
+
+Table 57: Efficacy Results in KEYNOTE-091 for Patients Who Received Adjuvant Chemotherapy
+
+| Endpoint | KEYTRUDA 200 mg every 3 weeks n=506 | Placebo n=504 |
+| --- | --- | --- |
+| DFS |  |  |
+| Number (%) of patients with event | 177 (35%) | 231 (46%) |
+| Median in months (95% CI) | 58.7 (39.2, NR) | 34.9 (28.6, NR) |
+| Hazard ratioBased on the unstratified univariate Cox regression model (95% CI) | 0.73 (0.60, 0.89) |  |
+| NR = not reached |  |  |
+
 ## 14.3 Head and Neck Squamous Cell Cancer
 
 First-line treatment of metastatic or unresectable, recurrent HNSCC
@@ -430,9 +467,9 @@ Twenty-two percent of patients' tumors were HPV-positive, 23% had PD-L1 TPS ≥5
 Eighty-five percent of patients' tumors had PD-L1 expression of CPS ≥1 and 43% had CPS ≥20.
 
 The trial demonstrated a statistically significant improvement in OS for patients randomized to KEYTRUDA in combination with chemotherapy compared to those randomized to cetuximab in combination with chemotherapy at a pre-specified interim analysis in the overall population.
-Table 57 and Figure 10 summarize efficacy results for KEYTRUDA in combination with chemotherapy.
+Table 58 and Figure 11 summarize efficacy results for KEYTRUDA in combination with chemotherapy.
 
-Table 57: Efficacy ResultsResults at a pre-specified interim analysis for KEYTRUDA plus Platinum/Fluorouracil in KEYNOTE-048
+Table 58: Efficacy ResultsResults at a pre-specified interim analysis for KEYTRUDA plus Platinum/Fluorouracil in KEYNOTE-048
 
 |  | n=281 | n=278 |
 | --- | --- | --- |
@@ -460,10 +497,10 @@ In addition, KEYNOTE-048 demonstrated a statistically significant improvement in
 The trial also demonstrated a statistically significant improvement in OS for the subgroup of patients with PD-L1 CPS ≥1 randomized to KEYTRUDA as a single agent compared to those randomized to cetuximab in combination with chemotherapy at a pre-specified interim analysis.
 At the time of the interim and final analyses, there was no significant difference in OS between the KEYTRUDA single agent arm and the control arm for the overall population.
 
-Table 58 summarizes efficacy results for KEYTRUDA as a single agent in the subgroups of patients with CPS ≥1 HNSCC and CPS ≥20 HNSCC.
-Figure 11 summarizes the OS results in the subgroup of patients with CPS ≥1 HNSCC.
+Table 59 summarizes efficacy results for KEYTRUDA as a single agent in the subgroups of patients with CPS ≥1 HNSCC and CPS ≥20 HNSCC.
+Figure 12 summarizes the OS results in the subgroup of patients with CPS ≥1 HNSCC.
 
-Table 58: Efficacy ResultsResults at a pre-specified interim analysis for KEYTRUDA as a Single Agent in KEYNOTE-048 (CPS ≥1 and CPS ≥20)
+Table 59: Efficacy ResultsResults at a pre-specified interim analysis for KEYTRUDA as a Single Agent in KEYNOTE-048 (CPS ≥1 and CPS ≥20)
 
 | n=257 | n=255 | n=133 | n=122 |  |
 | --- | --- | --- | --- | --- |
@@ -527,9 +564,9 @@ The study population characteristics were: median age of 35 years (range: 18 to 
 The median number of prior therapies was 2 (range: 1 to 10) in the KEYTRUDA arm and 3 (range: 1 to 11) in the BV arm, with 18% in both arms having 1 prior line.
 Forty-two percent of patients were refractory to the last prior therapy, 29% had primary refractory disease, 37% had prior autologous HSCT, 5% had received prior BV, and 39% had prior radiation therapy.
 
-Efficacy is summarized in Table 59 and Figure 12.
+Efficacy is summarized in Table 60 and Figure 13.
 
-Table 59: Efficacy Results in Patients with cHL in KEYNOTE-204
+Table 60: Efficacy Results in Patients with cHL in KEYNOTE-204
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=151 | Brentuximab Vedotin 1.8 mg/kg every 3 weeks n=153 |
 | --- | --- | --- |
@@ -559,9 +596,9 @@ The median number of prior lines of therapy administered for the treatment of cH
 Fifty-eight percent were refractory to the last prior therapy, including 35% with primary refractory disease and 14% whose disease was chemo-refractory to all prior regimens.
 Sixty-one percent of patients had undergone prior autologous HSCT, 83% had received prior brentuximab vedotin and 36% of patients had prior radiation therapy.
 
-Efficacy results for KEYNOTE-087 are summarized in Table 60.
+Efficacy results for KEYNOTE-087 are summarized in Table 61.
 
-Table 60: Efficacy Results in Patients with cHL in KEYNOTE-087
+Table 61: Efficacy Results in Patients with cHL in KEYNOTE-087
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=210Median follow-up time of 9.4 months |
 | --- | --- |
@@ -587,9 +624,9 @@ Twenty-six percent of patients had undergone prior autologous HSCT, and 32% of p
 All patients had received rituximab as part of a prior line of therapy.
 
 For the 24 responders, the median time to first objective response (complete or partial response) was 2.8 months (range 2.1 to 8.5 months).
-Efficacy results for KEYNOTE-170 are summarized in Table 61.
+Efficacy results for KEYNOTE-170 are summarized in Table 62.
 
-Table 61: Efficacy Results in Patients with PMBCL in KEYNOTE-170
+Table 62: Efficacy Results in Patients with PMBCL in KEYNOTE-170
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=53Median follow-up time of 9.7 months |
 | --- | --- |
@@ -621,9 +658,9 @@ Fifty percent of patients had baseline creatinine clearance of <60 mL/min, 32% h
 Ninety percent of patients were treatment naïve, and 10% received prior adjuvant or neoadjuvant platinum-based chemotherapy.
 
 The median follow-up time for 370 patients treated with KEYTRUDA was 11.4 months (range 0.1 to 63.8 months).
-Efficacy results are summarized in Table 62.
+Efficacy results are summarized in Table 63.
 
-Table 62: Efficacy Results in KEYNOTE-052
+Table 63: Efficacy Results in KEYNOTE-052
 
 |  | All Subjects n=370 |
 | --- | --- |
@@ -670,9 +707,9 @@ Seventy-six percent of patients received prior cisplatin, 23% had prior carbopla
 The study demonstrated statistically significant improvements in OS and ORR for patients randomized to KEYTRUDA as compared to chemotherapy.
 There was no statistically significant difference between KEYTRUDA and chemotherapy with respect to PFS.
 The median follow-up time for this trial was 9.0 months (range: 0.2 to 20.8 months).
-Table 63 and Figure 13 summarize the efficacy results for KEYNOTE-045.
+Table 64 and Figure 14 summarize the efficacy results for KEYNOTE-045.
 
-Table 63: Efficacy Results in KEYNOTE-045
+Table 64: Efficacy Results in KEYNOTE-045
 
 |  | n=270 | n=272 |
 | --- | --- | --- |
@@ -714,9 +751,9 @@ Baseline high-risk NMIBC disease status was 27% persistent and 73% recurrent.
 The median number of prior instillations of BCG was 12.
 
 The median follow-up time was 28.0 months (range: 4.6 to 40.5 months).
-Efficacy results are summarized in Table 64.
+Efficacy results are summarized in Table 65.
 
-Table 64: Efficacy Results in KEYNOTE-057
+Table 65: Efficacy Results in KEYNOTE-057
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=96 |
 | --- | --- |
@@ -734,7 +771,7 @@ Treatment continued until unacceptable toxicity or disease progression that was 
 A maximum of 24 months of treatment with KEYTRUDA was administered.
 For the purpose of assessment of anti-tumor activity across these 5 trials, the major efficacy outcome measures were ORR as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, and DoR.
 
-Table 65: MSI-H Trials
+Table 66: MSI-H Trials
 
 | Study | Design and Patient Population | Number of Patients | MSI-H/dMMR Testing | Dosage | Prior Therapy |
 | --- | --- | --- | --- | --- | --- |
@@ -756,9 +793,9 @@ The identification of MSI-H or dMMR tumor status for the majority of patients (1
 Fourteen of the 149 patients were retrospectively identified as MSI-H by testing tumor samples from a total of 415 patients using a central laboratory developed PCR test.
 Forty-seven patients had dMMR cancer identified by IHC, 60 had MSI-H identified by PCR, and 42 were identified using both tests.
 
-Efficacy results are summarized in Tables 66 and 67.
+Efficacy results are summarized in Tables 67 and 68.
 
-Table 66: Efficacy Results for Patients with MSI-H/dMMR Cancer
+Table 67: Efficacy Results for Patients with MSI-H/dMMR Cancer
 
 | Endpoint | KEYTRUDA n=149 |
 | --- | --- |
@@ -771,7 +808,7 @@ Table 66: Efficacy Results for Patients with MSI-H/dMMR Cancer
 | % with duration ≥6 months | 78% |
 | NR = not reached |  |
 
-Table 67: Response by Tumor Type
+Table 68: Response by Tumor Type
 
 |  | N | n (%) | 95% CI | (months) |
 | --- | --- | --- | --- | --- |
@@ -823,9 +860,9 @@ The trial demonstrated a statistically significant improvement in PFS for patien
 There was no statistically significant difference between KEYTRUDA and chemotherapy in the final OS analysis.
 Sixty percent of the patients who had been randomized to receive chemotherapy had crossed over to receive subsequent anti-PD-1/PD-L1 therapies including KEYTRUDA.
 The median follow-up time at the final analysis was 38.1 months (range: 0.2 to 58.7 months).
-Table 68 and Figure 14 summarize the key efficacy measures for KEYNOTE-177.
+Table 69 and Figure 15 summarize the key efficacy measures for KEYNOTE-177.
 
-Table 68: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
+Table 69: Efficacy Results in Patients with MSI-H or dMMR CRC in KEYNOTE-177
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=153 | Chemotherapy n=154 |
 | --- | --- | --- |
@@ -872,9 +909,9 @@ Ninety-one percent (n=240) had tumors that were not MSI-H, 1% (n=2) had tumors t
 Eighty-seven percent of patients received CAPOX.
 
 A statistically significant improvement in ORR was demonstrated in patients randomized to KEYTRUDA in combination with trastuzumab and chemotherapy compared with placebo in combination with trastuzumab and chemotherapy.
-Efficacy results are summarized in Table 69.
+Efficacy results are summarized in Table 70.
 
-Table 69: Efficacy Results for KEYNOTE-811
+Table 70: Efficacy Results for KEYNOTE-811
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=133 | Placebo Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=131 |
 | --- | --- | --- |
@@ -915,9 +952,9 @@ Seventy-three percent had a tumor histology of squamous cell carcinoma, and 27% 
 
 The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to KEYTRUDA in combination with chemotherapy, compared to chemotherapy.
 
-Table 70 and Figure 15 summarize the efficacy results for KEYNOTE-590 in all patients.
+Table 71 and Figure 16 summarize the efficacy results for KEYNOTE-590 in all patients.
 
-Table 70: Efficacy Results in Patients with Locally Advanced Unresectable or Metastatic Esophageal Cancer in KEYNOTE-590
+Table 71: Efficacy Results in Patients with Locally Advanced Unresectable or Metastatic Esophageal Cancer in KEYNOTE-590
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks Cisplatin FU n=373 | Placebo Cisplatin FU n=376 |
 | --- | --- | --- |
@@ -970,9 +1007,9 @@ Thirty-three percent of patients received prior treatment with a taxane.
 
 The observed OS hazard ratio was 0.77 (95% CI: 0.63, 0.96) in patients with ESCC, 0.70 (95% CI: 0.52, 0.94) in patients with tumors expressing PD-L1 CPS ≥10, and 0.89 (95% CI: 0.75, 1.05) in all randomized patients.
 On further examination in patients whose ESCC tumors expressed PD-L1 (CPS ≥10), an improvement in OS was observed among patients randomized to KEYTRUDA as compared with chemotherapy.
-Table 71 and Figure 16 summarize the key efficacy measures for KEYNOTE-181 for patients with ESCC CPS ≥10.
+Table 72 and Figure 17 summarize the key efficacy measures for KEYNOTE-181 for patients with ESCC CPS ≥10.
 
-Table 71: Efficacy Results in Patients with Recurrent or Metastatic ESCC (CPS ≥10) in KEYNOTE-181
+Table 72: Efficacy Results in Patients with Recurrent or Metastatic ESCC (CPS ≥10) in KEYNOTE-181
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=85 | Chemotherapy n=82 |
 | --- | --- | --- |
@@ -1040,9 +1077,9 @@ The baseline characteristics of the 548 patients were: median age of 51 years (r
 Seventy-five percent had squamous cell carcinoma, 21% adenocarcinoma, and 5% adenosquamous histology, and 32% of patients had metastatic disease at diagnosis.
 At study entry, 21% of patients had metastatic disease only and 79% had persistent or recurrent disease with or without distant metastases, of whom 39% had received prior chemoradiation only and 17% had received prior chemoradiation plus surgery.
 
-Table 72 and Figure 17 summarize the key efficacy measures for KEYNOTE-826 for patients with tumors expressing PD-L1 (CPS ≥1).
+Table 73 and Figure 18 summarize the key efficacy measures for KEYNOTE-826 for patients with tumors expressing PD-L1 (CPS ≥1).
 
-Table 72: Efficacy Results in Patients with Persistent, Recurrent, or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-826
+Table 73: Efficacy Results in Patients with Persistent, Recurrent, or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-826
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks and chemotherapyChemotherapy (paclitaxel and cisplatin or paclitaxel and carboplatin) with or without bevacizumab n=273 | Placebo and chemotherapy with or without bevacizumab n=275 |
 | --- | --- | --- |
@@ -1079,9 +1116,9 @@ PD-L1 status was determined using the IHC 22C3 pharmDx kit.
 The baseline characteristics of these 77 patients were: median age of 45 years (range: 27 to 75); 81% White, 14% Asian, and 3% Black; 32% ECOG PS of 0 and 68% ECOG PS of 1; 92% had squamous cell carcinoma, 6% adenocarcinoma, and 1% adenosquamous histology; 95% had M1 disease and 5% had recurrent disease; and 35% had one and 65% had two or more prior lines of therapy in the recurrent or metastatic setting.
 
 No responses were observed in patients whose tumors did not have PD-L1 expression (CPS <1).
-Efficacy results are summarized in Table 73 for patients with PD-L1 expression (CPS ≥1).
+Efficacy results are summarized in Table 74 for patients with PD-L1 expression (CPS ≥1).
 
-Table 73: Efficacy Results in Patients with Recurrent or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-158
+Table 74: Efficacy Results in Patients with Recurrent or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-158
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=77Median follow-up time of 11.7 months (range 0.6 to 22.7 months) |
 | --- | --- |
@@ -1112,9 +1149,9 @@ Thirty-eight percent (38%) of patients had alpha-fetoprotein (AFP) levels ≥400
 All patients received prior sorafenib; of whom 20% were unable to tolerate sorafenib.
 No patient received more than one prior systemic therapy (sorafenib).
 
-Efficacy results are summarized in Table 74.
+Efficacy results are summarized in Table 75.
 
-Table 74: Efficacy Results in KEYNOTE-224
+Table 75: Efficacy Results in KEYNOTE-224
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=104 |
 | --- | --- |
@@ -1140,9 +1177,9 @@ The study population characteristics were: median age of 71 years (range: 46 to 
 Fourteen percent had stage IIIB disease and 86% had stage IV.
 Eighty-four percent of patients had prior surgery and 70% had prior radiation therapy.
 
-Efficacy results are summarized in Table 75.
+Efficacy results are summarized in Table 76.
 
-Table 75: Efficacy Results in KEYNOTE-017
+Table 76: Efficacy Results in KEYNOTE-017
 
 | Endpoint | KEYTRUDA 2 mg/kg every 3 weeks n=50 |
 | --- | --- |
@@ -1185,9 +1222,9 @@ Additional efficacy outcome measures included ORR, as assessed by BICR.
 A statistically significant improvement in OS was demonstrated at the first pre-specified interim analysis in patients randomized to KEYTRUDA in combination with axitinib compared with sunitinib.
 The trial also demonstrated statistically significant improvements in PFS and ORR.
 An updated OS analysis was conducted when 418 deaths were observed based on the planned number of deaths for the pre-specified final analysis.
-Table 76 and Figure 18 summarize the efficacy results for KEYNOTE-426.
+Table 77 and Figure 19 summarize the efficacy results for KEYNOTE-426.
 
-Table 76: Efficacy Results in KEYNOTE-426
+Table 77: Efficacy Results in KEYNOTE-426
 
 | n=432 | n=429 |  |
 | --- | --- | --- |
@@ -1213,7 +1250,7 @@ Table 76: Efficacy Results in KEYNOTE-426
 | p-ValueBased on Miettinen and Nurminen method stratified by IMDC risk group and geographic region | <0.0001 |  |
 | NR = not reached |  |  |
 
-| Figure 18: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-426 |
+| Figure 19: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-426 |
 | --- |
 
 In an exploratory analysis, the updated analysis of OS in patients with IMDC favorable, intermediate, intermediate/poor, and poor risk demonstrated a HR of 1.17 (95% CI: 0.76, 1.80), 0.67 (95% CI: 0.52, 0.86), 0.64 (95% CI: 0.52, 0.80), and 0.51 (95% CI: 0.32, 0.81), respectively.
@@ -1244,9 +1281,9 @@ Common sites of metastases in patients were lung (68%), lymph node (45%), and bo
 The major efficacy outcome measures were PFS, as assessed by independent radiologic review (IRC) according to RECIST v1.1, and OS.
 Additional efficacy outcome measures included confirmed ORR as assessed by IRC.
 KEYTRUDA in combination with lenvatinib demonstrated statistically significant improvements in PFS, OS, and ORR compared with sunitinib.
-Table 77 and Figures 19 and 20 summarize the efficacy results for KEYNOTE-581.
+Table 78 and Figures 20 and 21 summarize the efficacy results for KEYNOTE-581.
 
-Table 77: Efficacy Results in KEYNOTE-581
+Table 78: Efficacy Results in KEYNOTE-581
 
 | n=355 | n=357 |  |
 | --- | --- | --- |
@@ -1271,10 +1308,10 @@ Table 77: Efficacy Results in KEYNOTE-581
 | p-ValueTwo-sided p-Value based upon CMH test. | <0.0001 |  |
 | Tumor assessments were based on RECIST 1.1; only confirmed responses are included for ORR. Data cutoff date = 28 Aug 2020 CI = confidence interval; NE= Not estimable; NR= Not reached |  |  |
 
-| Figure 19: Kaplan-Meier Curve for PFS in KEYNOTE-581 |
+| Figure 20: Kaplan-Meier Curve for PFS in KEYNOTE-581 |
 | --- |
 
-| Figure 20: Kaplan-Meier Curve for Overall Survival in KEYNOTE-581 |
+| Figure 21: Kaplan-Meier Curve for Overall Survival in KEYNOTE-581 |
 | --- |
 
 Adjuvant Treatment of RCC (KEYNOTE‑564)
@@ -1297,9 +1334,9 @@ The major efficacy outcome measure was investigator-assessed disease-free surviv
 An additional outcome measure was OS.
 A statistically significant improvement in DFS was demonstrated at the pre-specified interim analysis in patients randomized to the KEYTRUDA arm compared with placebo.
 At the time of the DFS analysis, OS data were not mature, with 5% deaths in the overall population.
-Efficacy results are summarized in Table 78 and Figure 21.
+Efficacy results are summarized in Table 79 and Figure 22.
 
-Table 78: Efficacy Results in KEYNOTE-564
+Table 79: Efficacy Results in KEYNOTE-564
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks n=496 | Placebo n=498 |
 | --- | --- | --- |
@@ -1311,7 +1348,7 @@ Table 78: Efficacy Results in KEYNOTE-564
 | 24-month DFS rate (95% CI) | 77% (73, 81) | 68% (64, 72) |
 | NR = not reached |  |  |
 
-| Figure 21: Kaplan-Meier Curve for Disease-Free Survival in KEYNOTE-564 |
+| Figure 22: Kaplan-Meier Curve for Disease-Free Survival in KEYNOTE-564 |
 | --- |
 
 ## 14.15 Endometrial Carcinoma
@@ -1338,9 +1375,9 @@ The histologic subtypes were endometrioid carcinoma (55%), serous (30%), clear c
 All 697 of these patients received prior systemic therapy for endometrial carcinoma: 67% had one, 30% had two, and 3% had three or more prior systemic therapies.
 Thirty-seven percent of patients received only prior neoadjuvant or adjuvant therapy.
 
-Efficacy results for the pMMR or not MSI-H patients are summarized in Table 79 and Figures 22 and 23.
+Efficacy results for the pMMR or not MSI-H patients are summarized in Table 80 and Figures 23 and 24.
 
-Table 79: Efficacy Results in KEYNOTE-775
+Table 80: Efficacy Results in KEYNOTE-775
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks and Lenvatinib n=346 | Doxorubicin or Paclitaxel n=351 |
 | --- | --- | --- |
@@ -1363,10 +1400,10 @@ Table 79: Efficacy Results in KEYNOTE-775
 | Duration of Response | n=105 | n=53 |
 | Median in months (range) | 9.2 (1.6+, 23.7+) | 5.7 (0.0+, 24.2+) |
 
-| Figure 22: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 23: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
-| Figure 23: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 24: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
@@ -1383,9 +1420,9 @@ The major efficacy outcome measures were ORR and DoR as assessed by BICR accordi
 Among the 90 patients evaluated, the baseline characteristics were: median age of 64 years (range: 42 to 86); 83% White, 8% Asian, and 3% Black; 12% Hispanic or Latino; 39% ECOG PS of 0 and 61% ECOG PS of 1; 96% had M1 disease and 4% had M0 disease at study entry; and 51% had one and 48% had two or more prior lines of therapy.
 Nine patients received only adjuvant therapy and one patient received only neoadjuvant and adjuvant therapy before participating in the study.
 
-Efficacy results are summarized in Table 80.
+Efficacy results are summarized in Table 81.
 
-Table 80: Efficacy Results in Patients with Advanced MSI-H or dMMR Endometrial Carcinoma in KEYNOTE-158
+Table 81: Efficacy Results in Patients with Advanced MSI-H or dMMR Endometrial Carcinoma in KEYNOTE-158
 
 | Endpoint | KEYTRUDA n=90Median follow-up time of 16.0 months (range 0.5 to 62.1 months) |
 | --- | --- |
@@ -1416,9 +1453,9 @@ Of the 790 patients, 102 (13%) had tumors identified as TMB-H, defined as TMB �
 Among the 102 patients with TMB-H advanced solid tumors, the study population characteristics were: median age of 61 years (range: 27 to 80), 34% age 65 or older; 34% male; 81% White; and 41% ECOG PS of 0 and 58% ECOG PS of 1.
 Fifty-six percent of patients had at least two prior lines of therapy.
 
-Efficacy results are summarized in Tables 81 and 82.
+Efficacy results are summarized in Tables 82 and 83.
 
-Table 81: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158
+Table 82: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158
 
 |  | TMB ≥10 mut/Mb n=102Median follow-up time of 11.1 months | TMB ≥13 mut/Mb n=70 |
 | --- | --- | --- |
@@ -1433,7 +1470,7 @@ Table 81: Efficacy Results for Patients with TMB-H Cancer in KEYNOTE-158
 | % with duration ≥24 months | 50% | 50% |
 | + Denotes ongoing response NR = not reached |  |  |
 
-Table 82: Response by Tumor Type (TMB ≥10 mut/Mb)
+Table 83: Response by Tumor Type (TMB ≥10 mut/Mb)
 
 |  | N | n (%) | 95% CI | (months) |
 | --- | --- | --- | --- | --- |
@@ -1470,9 +1507,9 @@ Eighty-seven percent received one or more prior lines of therapy; 74% received p
 Among the 54 patients with locally advanced cSCC treated, the study population characteristics were: median age of 76 years (range: 35 to 95), 80% age 65 or older; 72% male; 83% White, 13% race unknown; 41% ECOG PS of 0 and 59% ECOG PS of 1.
 Twenty-two percent received one or more prior lines of therapy; 63% received prior radiation therapy.
 
-Efficacy results are summarized in Table 83.
+Efficacy results are summarized in Table 84.
 
-Table 83: Efficacy Results in KEYNOTE-629
+Table 84: Efficacy Results in KEYNOTE-629
 
 | Endpoint | KEYTRUDA Recurrent or Metastatic cSCC n=105 | KEYTRUDA Locally Advanced cSCC n=54 |
 | --- | --- | --- |
@@ -1524,10 +1561,10 @@ An additional efficacy outcome was overall survival (OS).
 
 The study population characteristics were: median age of 49 years (range: 22 to 80), 11% age 65 or older; 99.9% female; 64% White, 20% Asian, 4.5% Black, and 1.8% American Indian or Alaska Native; 87% ECOG PS of 0 and 13% ECOG PS of 1; 56% were pre-menopausal status and 44% were post-menopausal status; 7% were primary Tumor 1 (T1), 68% T2, 19% T3, and 7% T4; 49% were nodal involvement 0 (N0), 40% N1, 11% N2, and 0.2% N3; 75% of patients were overall stage II and 25% were stage III.
 
-Table 84 and Figure 24 summarize the efficacy results for KEYNOTE-522.
+Table 85 and Figure 25 summarize the efficacy results for KEYNOTE-522.
 At the protocol pre-specified IA4 interim analysis of OS, OS data were not mature with 45% of the required events for the final analysis.
 
-Table 84: Efficacy Results in KEYNOTE-522
+Table 85: Efficacy Results in KEYNOTE-522
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks with chemotherapy/KEYTRUDA n=784 | Placebo with chemotherapy/Placebo n=390 |
 | --- | --- | --- |
@@ -1540,7 +1577,7 @@ Table 84: Efficacy Results in KEYNOTE-522
 | Hazard ratio (95% CI)Based on stratified Cox regression model | 0.63 (0.48, 0.82) |  |
 | p-ValueBased on a pre-specified EFS interim analysis (compared to a significance level of 0.0052),Based on log-rank test stratified by nodal status, tumor size, and choice of carboplatin | 0.00031 |  |
 
-| Figure 24: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
+| Figure 25: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
 | --- |
 
 Locally Recurrent Unresectable or Metastatic TNBC
@@ -1561,9 +1598,9 @@ Additional efficacy outcome measures were ORR and DoR as assessed by BICR.
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 85 and Figures 25 and 26 summarize the efficacy results for KEYNOTE-355.
+Table 86 and Figures 26 and 27 summarize the efficacy results for KEYNOTE-355.
 
-Table 85: Efficacy Results in KEYNOTE-355 (CPS ≥10)
+Table 86: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
 | Endpoint | KEYTRUDA 200 mg every 3 weeks with chemotherapy n=220 | Placebo every 3 weeks with chemotherapy n=103 |
 | --- | --- | --- |
@@ -1584,10 +1621,10 @@ Table 85: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Duration of Response | n=116 | n=42 |
 | Median in months (95% CI) | 12.8 (9.9, 25.9) | 7.3 (5.5, 15.4) |
 
-| Figure 25: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 26: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-| Figure 26: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 27: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.19 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks

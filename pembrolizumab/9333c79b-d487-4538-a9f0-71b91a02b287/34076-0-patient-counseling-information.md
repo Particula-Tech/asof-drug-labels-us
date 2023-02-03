@@ -31,7 +31,7 @@ Embryo-Fetal Toxicity
 
 Lactation
 
-- Advise women not to breastfeed during treatment with KEYTRUDA and for 4 months after the final dose [see Use in Specific Populations (8.2)].
+- Advise women not to breastfeed during treatment with KEYTRUDA and for 4 months after the last dose [see Use in Specific Populations (8.2)].
 
 Laboratory Tests
 

@@ -40,7 +40,7 @@ Table 1: Recommended Dosage
 | --- | --- | --- |
 | Monotherapy |  |  |
 | Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks30-minute intravenous infusion or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
-| Adjuvant treatment of adult patients with melanoma or RCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease recurrence, unacceptable toxicity, or up to 12 months |
+| Adjuvant treatment of adult patients with melanoma, NSCLC, or RCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease recurrence, unacceptable toxicity, or up to 12 months |
 | Adult patients with NSCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, MSI-H or dMMR Endometrial Carcinoma, Esophageal Cancer, Cervical Cancer, HCC, MCC, TMB-H Cancer, or cSCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with high-risk BCG- unresponsive NMIBC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until persistent or recurrent high-risk NMIBC, disease progression, unacceptable toxicity, or up to 24 months |
 | Pediatric patients with cHL, PMBCL, MSI-H or dMMR Cancer, MCC, or TMB- H Cancer | 2 mg/kg every 3 weeks (up to a maximum of 200 mg) | Until disease progression, unacceptable toxicity, or up to 24 months |

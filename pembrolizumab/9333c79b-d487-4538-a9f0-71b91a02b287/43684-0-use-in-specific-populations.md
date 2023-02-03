@@ -27,7 +27,9 @@ Based on its mechanism of action, fetal exposure to pembrolizumab may increase t
 Risk Summary
 
 There are no data on the presence of pembrolizumab in either animal or human milk or its effects on the breastfed child or on milk production.
-Because of the potential for serious adverse reactions in breastfed children, advise women not to breastfeed during treatment with KEYTRUDA and for 4 months after the final dose.
+Maternal IgG is known to be present in human milk.
+The effects of local gastrointestinal exposure and limited systemic exposure in the breastfed child to KEYTRUDA are unknown.
+Because of the potential for serious adverse reactions in breastfed children, advise women not to breastfeed during treatment with KEYTRUDA and for 4 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -38,7 +40,7 @@ Verify pregnancy status in females of reproductive potential prior to initiating
 Contraception
 
 KEYTRUDA can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with KEYTRUDA and for at least 4 months following the final dose.
+Advise females of reproductive potential to use effective contraception during treatment with KEYTRUDA and for 4 months after the last dose.
 
 ## 8.4 Pediatric Use
 
@@ -60,6 +62,9 @@ No overall differences in safety or effectiveness were observed between elderly 
 Of 389 adult patients with cHL who were treated with KEYTRUDA in clinical studies, 46 (12%) were 65 years and over.
 Patients aged 65 years and over had a higher incidence of serious adverse reactions (50%) than patients aged younger than 65 years (24%).
 Clinical studies of KEYTRUDA in cHL did not include sufficient numbers of patients aged 65 years and over to determine whether effectiveness differs from that in younger patients.
+
+Of 506 adult patients with stage IB (T2a ≥4 cm), II, or IIIA NSCLC following complete resection and platinum-based chemotherapy who were treated with KEYTRUDA in KEYNOTE-091, 242 (48%) were 65 years and over.
+No overall differences in safety or effectiveness were observed between elderly patients and younger patients.
 
 Of 596 adult patients with TNBC who were treated with KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin in KEYNOTE-355, 137 (23%) were 65 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.

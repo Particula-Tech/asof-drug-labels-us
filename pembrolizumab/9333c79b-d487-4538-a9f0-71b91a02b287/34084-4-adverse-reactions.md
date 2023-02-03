@@ -10,7 +10,7 @@ The following clinically significant adverse reactions are described elsewhere i
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described in the WARNINGS AND PRECAUTIONS reflect exposure to KEYTRUDA as a single agent in 2799 patients in three randomized, open-label, active-controlled trials (KEYNOTE-002, KEYNOTE-006, and KEYNOTE-010), which enrolled 912 patients with melanoma and 682 patients with NSCLC, and one single-arm trial (KEYNOTE-001), which enrolled 655 patients with melanoma and 550 patients with NSCLC.
-In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), a non-randomized, open-label, single-cohort trial (KEYNOTE-055), and two randomized, open-label, active-controlled trials (KEYNOTE-040 and KEYNOTE-048 single agent arms), which enrolled 909 patients with HNSCC; in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087) and one randomized, open-label, active-controlled trial (KEYNOTE-204), which enrolled 389 patients with cHL; in a randomized, open-label, active-controlled trial (KEYNOTE-048 combination arm), which enrolled 276 patients with HNSCC; in combination with axitinib in a randomized, active-controlled trial (KEYNOTE 426), which enrolled 429 patients with RCC; and in post-marketing use.
+In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in a randomized, placebo-controlled trial (KEYNOTE-091), which enrolled 580 patients with resected NSCLC, a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), a non-randomized, open-label, single-cohort trial (KEYNOTE-055), and two randomized, open-label, active-controlled trials (KEYNOTE-040 and KEYNOTE-048 single agent arms), which enrolled 909 patients with HNSCC; in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087) and one randomized, open-label, active-controlled trial (KEYNOTE-204), which enrolled 389 patients with cHL; in a randomized, open-label, active-controlled trial (KEYNOTE-048 combination arm), which enrolled 276 patients with HNSCC; in combination with axitinib in a randomized, active-controlled trial (KEYNOTE 426), which enrolled 429 patients with RCC; and in post-marketing use.
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
@@ -392,6 +392,18 @@ Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of NSCLC Pat
 | Increased ALT | 22 | 2.7 | 9 | 0.4 |
 
 Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUDA were hyperglycemia (44% all Grades; 4.1% Grades 3-4), anemia (37% all Grades; 3.8% Grades 3-4), hypertriglyceridemia (36% all Grades; 1.8% Grades 3-4), lymphopenia (35% all Grades; 9% Grades 3-4), hypoalbuminemia (34% all Grades; 1.6% Grades 3-4), and hypercholesterolemia (20% all Grades; 0.7% Grades 3-4).
+
+Adjuvant Treatment of Resected NSCLC
+
+The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-091, a multicenter, randomized (1:1), triple-blind, placebo-controlled trial in patients with completely resected stage IB (T2a ≥4 cm), II, or IIIA NSCLC; adjuvant chemotherapy up to 4 cycles was optional [see Clinical Studies (14.2)].
+A total of 1161 patients received KEYTRUDA 200 mg (n=580) or placebo (n=581) every 3 weeks.
+Patients were ineligible if they had active autoimmune disease, were on chronic immunosuppressive agents or had a history of interstitial lung disease or pneumonitis.
+
+The median duration of exposure to KEYTRUDA was 11.7 months (range: 1 day to 18.9 months).
+Sixty-eight percent of patients in the KEYTRUDA arm were exposed to KEYTRUDA for ≥6 months.
+
+The adverse reactions observed in KEYNOTE-091 were generally similar to those occurring in other patients with NSCLC receiving KEYTRUDA as a single agent, with the exception of hypothyroidism (22%), hyperthyroidism (11%), and pneumonitis (7%).
+Two fatal adverse reactions of myocarditis occurred.
 
 HNSCC
 

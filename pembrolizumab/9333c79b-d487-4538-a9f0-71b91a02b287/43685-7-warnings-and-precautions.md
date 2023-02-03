@@ -39,6 +39,11 @@ Pneumonitis rates were similar in patients with and without prior thoracic radia
 Pneumonitis led to discontinuation of KEYTRUDA in 21 (5.4%) patients.
 Of the patients who developed pneumonitis, 42% interrupted KEYTRUDA, 68% discontinued KEYTRUDA, and 77% had resolution.
 
+In a clinical study enrolling 580 adult patients with resected NSCLC (KEYNOTE-091) who received KEYTRUDA as a single agent for adjuvant treatment, pneumonitis occurred in 41 (7%) patients, including fatal (0.2%), Grade 4 (0.3%), and Grade 3 (1%) adverse reactions.
+Patients received high-dose corticosteroids for a median duration of 10 days (range: 1 day to 2.3 months).
+Pneumonitis led to discontinuation of KEYTRUDA in 26 (4.5%) of patients.
+Of the patients who developed pneumonitis, 54% interrupted KEYTRUDA, 63% discontinued KEYTRUDA, and 71% had resolution.
+
 Immune-Mediated Colitis
 
 KEYTRUDA can cause immune-mediated colitis, which may present with diarrhea.
@@ -118,6 +123,8 @@ Hyperthyroidism occurred in 3.4% (96/2799) of patients receiving KEYTRUDA, inclu
 Hyperthyroidism led to permanent discontinuation of KEYTRUDA in <0.1% (2) of patients and withholding of KEYTRUDA in 0.3% (7) of patients.
 All patients who were withheld reinitiated KEYTRUDA after symptom improvement.
 
+The incidence of new or worsening hyperthyroidism was higher in 580 patients with resected NSCLC, occurring in 11% of patients receiving KEYTRUDA as a single agent as adjuvant treatment (KEYNOTE-091), including Grade 3 (0.2%) hyperthyroidism.
+
 Hypothyroidism occurred in 8% (237/2799) of patients receiving KEYTRUDA, including Grade 3 (0.1%) and Grade 2 (6.2%).
 Hypothyroidism led to permanent discontinuation of KEYTRUDA in <0.1% (1) of patients and withholding of KEYTRUDA in 0.5% (14) of patients.
 All patients who were withheld reinitiated KEYTRUDA after symptom improvement.
@@ -125,6 +132,8 @@ The majority of patients with hypothyroidism required long-term thyroid hormone 
 
 The incidence of new or worsening hypothyroidism was higher in 1185 patients with HNSCC, occurring in 16% of patients receiving KEYTRUDA as a single agent or in combination with platinum and FU, including Grade 3 (0.3%) hypothyroidism.
 The incidence of new or worsening hypothyroidism was higher in 389 patients with cHL (17%) receiving KEYTRUDA as a single agent, including Grade 1 (6.2%) and Grade 2 (10.8%) hypothyroidism.
+
+The incidence of new or worsening hypothyroidism was higher in 580 patients with resected NSCLC, occurring in 22% of patients receiving KEYTRUDA as a single agent as adjuvant treatment (KEYNOTE-091), including Grade 3 (0.3%) hypothyroidism.
 
 Type 1 Diabetes Mellitus, which can present with Diabetic Ketoacidosis
 
