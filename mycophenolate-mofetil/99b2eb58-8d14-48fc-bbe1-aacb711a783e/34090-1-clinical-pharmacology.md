@@ -3,13 +3,16 @@
 ## 12.1 Mechanism of Action
 
 Mycophenolate mofetil (MMF) is absorbed following oral administration and hydrolyzed to mycophenolic acid (MPA), the active metabolite.
-MPA is a selective, uncompetitive, and reversible inhibitor of inosine monophosphate dehydrogenase (IMPDH), and therefore inhibits the de novo pathway of guanosine nucleotide synthesis without incorporation into DNA.
-Because T- and B-lymphocytes are critically dependent for their proliferation on de novo synthesis of purines, whereas other cell types can utilize salvage pathways, MPA has potent cytostatic effects on lymphocytes.
-MPA inhibits proliferative responses of T- and B-lymphocytes to both mitogenic and allospecific stimulation.
-Addition of guanosine or deoxyguanosine reverses the cytostatic effects of MPA on lymphocytes.
-MPA also suppresses antibody formation by B-lymphocytes.
-MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
-MMF did not inhibit early events in the activation of human peripheral blood mononuclear cells, such as the production of interleukin-1 (IL-1) and interleukin-2 (IL-2), but did block the coupling of these events to DNA synthesis and proliferation.
+MPA is a selective uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novo pathway of guanosine nucleotide synthesis and blocks DNA synthesis.
+The mechanism of action of MPA is multifaceted and includes effects on cellular checkpoints responsible for metabolic programming of lymphocytes.
+MPA shifts transcriptional activities in lymphocytes from a proliferative state to catabolic processes.
+In vitro studies suggest that MPA modulates transcriptional activities in human CD4+ T-lymphocytes by suppressing the Akt/mTOR and STAT5 pathways that are relevant to metabolism and survival, leading to an anergic state of T-cells whereby the cells become less responsive to antigenic stimulation.
+Additionally, MPA enhanced the expression of negative co-stimulators such as CD70, PD-1, CTLA-4, and transcription factor FoxP3 as well as decreased the expression of positive co-stimulators CD27 and CD28.
+
+MPA decreases proliferative responses of T- and B-lymphocytes to both mitogenic and allo-antigenic stimulation, anitbody responses, as well as the production of cytokines from lymphocytes and monocytes such as GM-CSF, IFN-Ɣ, IL-17, and TNF-α.
+Additionally, MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
+
+Overall, the effect of MPA is cytostatic and reversible.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,8 +30,8 @@ Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have 
 The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 10.
 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 10).
 
-- Table 10.
-  Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
+1. Table 10.
+   Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administration of MMF to Healthy Volunteers (Single Dose), and Kidney, Heart, and Liver Transplant Patients (Multiple Doses)
 
 | Healthy Volunteers | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Total AUC (mcg∙h/mL) |
 | --- | --- | --- | --- | --- |
@@ -41,7 +44,7 @@ The area under the plasma-concentration time curve (AUC) for MPA appears to incr
 | Late (Greater than 3 months) | 1.5 g/oral | 0.90 (±0.24) (n=23) | 24.1 (±12.1) (n=23) | 65.3 (±35.4) (n=23) |
 | Heart transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0–12h) (mcg∙h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (±1.3) (n=11) | 11.5 (±6.8) (n=11) | 43.3 (±20.8) (n=9) |
-| Late (Greater than 6 months) | 1.5 g/oral | 1.1 (±0.7) (n=52) | 20 (±9.4) (n=52) | 54.1* (±20.4) (n=49) |
+| Late (Greater than 6 months) | 1.5 g/oral | 1.1 (±0.7) (n=52) | 20 (±9.4) (n=52) | 54.1*(±20.4) (n=49) |
 | Liver transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | Tmax (h) | Cmax (mcg/mL) | Interdosing Interval AUC(0–12h) (mcg∙h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 (±0.517) (n=22) | 17 (±12.7) (n=22) | 34 (±17.4) (n=22) |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15 (±0.432) (n=20) | 13.1 (±6.76) (n=20) | 29.2 (±11.9) (n=20) |
@@ -133,8 +136,8 @@ However, it should be noted that for unexplained reasons, the healthy volunteers
 In a single-dose (1 g intravenous) study of 6 volunteers with severe hepatic impairment (aminopyrine breath test less than 0.2% of dose) due to alcoholic cirrhosis, MMF was rapidly converted to MPA.
 MPA AUC was 44.1 mcg•h/mL (±15.5).
 
-- Table 11.
-  Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
+1. Table 11.
+   Pharmacokinetic Parameters for MPA [mean (±SD)] Following Single Doses of MMF Capsules in Chronic Renal and Hepatic Impairment
 
 | Pharmacokinetic Parameters for Renal Impairment |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -153,8 +156,8 @@ Pediatric Patients
 The pharmacokinetic parameters of MPA and MPAG have been evaluated in 55 pediatric patients (ranging from 1 year to 18 years of age) receiving mycophenolate mofetil oral suspension at a dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) after allogeneic kidney transplantation.
 The pharmacokinetic data for MPA is provided in Table 12.
 
-- Table 12.
-  Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
+1. Table 12.
+   Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time after Allogeneic Kidney Transplantation
 
 | Age Group (n) | Time | Tmax (h) | Dose Adjusted* Cmax (mcg/mL) | Dose Adjusted* AUC0–12 (mcg∙h/mL) |
 | --- | --- | --- | --- | --- |

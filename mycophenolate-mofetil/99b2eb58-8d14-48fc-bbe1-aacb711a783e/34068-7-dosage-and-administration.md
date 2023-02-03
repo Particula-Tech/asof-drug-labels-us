@@ -38,7 +38,7 @@ Pediatric patients with BSA ≥1.25 m2 may be dosed with capsules or tablets as 
 Table 1.
 Pediatric Kidney Transplant: Dosage Using Capsules or Tablets
 
-| Body Surface Area | Dosing |
+| Body Surface Area | Dosage |
 | --- | --- |
 | 1.25 m2 to <1.5 m2 | Mycophenolate mofetil capsule 750 mg twice daily (1.5 g total daily dose) |
 | ≥1.5 m2 | Mycophenolate mofetil capsules or tablets 1 g twice daily (2 g total daily dose) |

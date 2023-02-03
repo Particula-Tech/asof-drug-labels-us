@@ -41,8 +41,8 @@ No advantage of mycophenolate mofetil at 12 months with respect to graft loss or
 Numerically, patients receiving mycophenolate mofetil 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving mycophenolate mofetil 2 g/day experienced a better outcome than mycophenolate mofetil 3 g/day in two of the three studies.
 Patients in all treatment groups who terminated treatment early were found to have a poor outcome with respect to graft loss or patient death at 1 year.
 
-- Table 14.
-  De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
+1. Table 14.
+   De Novo Kidney Transplantation Studies Cumulative Incidence of Combined Graft Loss or Patient Death at 12 Months
 
 | Study | Mycophenolate mofetil 2 g/day | Mycophenolate mofetil 3 g/day | Control (AZA or Placebo) |
 | --- | --- | --- | --- |
@@ -74,11 +74,11 @@ The analyses of the endpoints showed:
 Table 15.
 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
-|  | All Patients(ITT) |  | Treated Patients |  |
-| --- | --- | --- | --- | --- |
-| AZAN=323 | Mycophenolate mofetilN = 327 | AZAN = 289 | Mycophenolate mofetilN = 289 |  |
-| Biopsy-proven rejection with hemodynamic compromise at 6 months* | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
-| Death or re-transplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
+|  | All Patients(ITT) |  |  | Treated Patients |  |
+| --- | --- | --- | --- | --- | --- |
+| AZAN=323 | Mycophenolate mofetilN = 327 | AZAN = 289 |  | Mycophenolate mofetilN = 289 |  |
+| Biopsy-proven rejection with hemodynamic compromise at 6 months* | 121 (38%) | 120 (37%) | 100 (35%) |  | 92 (32%) |
+| Death or re-transplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) |  | 18 (6.2%) |
 
 - *Hemodynamic compromise occurred if any of the following criteria were met: pulmonary capillary wedge pressure ≥20 mm or a 25% increase; cardiac index <2 L/min/m2 or a 25% decrease; ejection fraction ≤30%; pulmonary artery oxygen saturation ≤60% or a 25% decrease; presence of new S3 gallop; fractional shortening was ≤20% or a 25% decrease; inotropic support required to manage the clinical condition.
 

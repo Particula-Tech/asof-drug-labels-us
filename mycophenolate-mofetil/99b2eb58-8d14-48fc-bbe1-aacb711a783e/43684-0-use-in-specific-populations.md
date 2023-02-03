@@ -10,7 +10,7 @@ To report a pregnancy or obtain information about the registry, visit www.mycoph
 Risk Summary
 
 Use of mycophenolate mofetil (MMF) during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of multiple congenital malformations in multiple organ systems [see Human Data].
-Oral administration of mycophenolate to rats and rabbits during the period of organogenesis produced congenital malformations and pregnancy loss at doses less than the recommended clinical dose (0.02 to 0.1 times the recommended clinical doses in kidney and heart transplant patients) [see Animal Data].
+Oral administration of mycophenolate to rats and rabbits during the period of organogenesis produced congenital malformations and pregnancy loss at doses less than the recommended clinical dose (0.01 to 0.05 times the recommended clinical doses in kidney and heart transplant patients) [see Animal Data].
 
 Consider alternative immunosuppressants with less potential for embryofetal toxicity.
 Risks and benefits of mycophenolate mofetil should be discussed with the pregnant woman.
@@ -86,12 +86,12 @@ Pick from the following birth control options:
 
 OR
 
-| Option 2 | Hormone Methods choose 1 |  | Barrier Methods choose 1 |
+| Option 2 | Hormone Methodschoose 1 |  | Barrier Methodschoose 1 |
 | --- | --- | --- | --- |
-| Choose One Hormone Method AND One Barrier Method | Estrogen and Progesterone •Oral Contraceptive Pill•Transdermal patch•Vaginal ring Progesterone-only •Injection•Implant | AND | •Diaphragm with spermicide •Cervical cap with spermicide•Contraceptive sponge•Male condom•Female condom |
+| Choose OneHormoneMethod ANDOne Barrier Method | Estrogen and Progesterone •Oral Contraceptive Pill•Transdermal patch•Vaginal ring Progesterone-only •Injection•Implant | AND | •Diaphragm with spermicide•Cervical cap with spermicide•Contraceptive sponge•Male condom•Female condom |
 | OR |  |  |  |
-| Option 3 | Barrier Methods choose 1 |  | Barrier Methods choose 1 |
-| Choose One Barrier Method from each column(must choose two methods) | •Diaphragm with spermicide •Cervical cap with spermicide•Contraceptive sponge | AND | •Male condom•Female condom |
+| Option 3 | Barrier Methodschoose 1 |  | Barrier Methodschoose 1 |
+| Choose OneBarrier Method from each column(must choose two methods) | •Diaphragm with spermicide•Cervical cap with spermicide•Contraceptive sponge | AND | •Male condom•Female condom |
 
 Male Patients
 
@@ -136,7 +136,7 @@ Mycophenolate mofetil may be used for heart or liver transplant patients with se
 Patients with Kidney Transplant
 
 No dosage adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
-However, it is not known whether dose adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
+However, it is not known whether dosage adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
 
 Patients with Heart Transplant
 
