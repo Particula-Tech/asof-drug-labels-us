@@ -37,10 +37,10 @@ Figure 1: Mean R-oxybutynin plasma concentrations following a single dose of oxy
 
 Steady-state oxybutynin plasma concentrations are achieved by Day 3 of repeated oxybutynin chloride extended-release tablets dosing, with no observed drug accumulation or change in oxybutynin and desethyloxybutynin pharmacokinetic parameters.
 
-Oxybutynin chloride steady-state pharmacokinetics were studied in 19 children aged 5 to 15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
-The children were on oxybutynin chloride total daily dose ranging from 5 to 20 mg (0.10 to 0.77 mg/kg).
+Oxybutynin chloride extended-release tablets steady-state pharmacokinetics were studied in 19 children aged 5 to 15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
+The children were on oxybutynin chloride extended-release tablets total daily dose ranging from 5 to 20 mg (0.10 to 0.77 mg/kg).
 Sparse sampling technique was used to obtain serum samples.
-When all available data are normalized to an equivalent of 5 mg per day of oxybutynin chloride, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3.
+When all available data are normalized to an equivalent of 5 mg per day of oxybutynin chloride extended-release tablets, the mean pharmacokinetic parameters derived for R- and S-oxybutynin and R- and S-desethyloxybutynin are summarized in Table 3.
 The plasma-time concentration profiles for R- and S-oxybutynin are similar in shape; Figure 2 shows the profile for R-oxybutynin when all available data are normalized to an equivalent of 5 mg per day.
 
 Table 3: Mean ± SD R- and S-Oxybutynin and R- and S-Desethyloxybutynin Pharmacokinetic Parameters in Children Aged 5 to 15 Following Administration of 5 to 20 mg Oxybutynin Chloride Extended-Release Tablets Once Daily (n=19), All Available Data Normalized to an Equivalent of Oxybutynin Chloride Extended-Release Tablets 5 mg Once Daily
@@ -85,8 +85,8 @@ Use in Specific Populations
 
 Pediatric
 
-The pharmacokinetics of oxybutynin chloride were evaluated in 19 children aged 5 to 15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
-The pharmacokinetics of oxybutynin chloride in these pediatric patients were consistent with those reported for adults (see Tables 2 and 3, and Figures 1 and 2 above).
+The pharmacokinetics of oxybutynin chloride extended-release tablets were evaluated in 19 children aged 5 to 15 years with detrusor overactivity associated with a neurological condition (e.g., spina bifida).
+The pharmacokinetics of oxybutynin chloride extended-release tablets in these pediatric patients were consistent with those reported for adults (see Tables 2 and 3, and Figures 1 and 2 above).
 
 Gender
 

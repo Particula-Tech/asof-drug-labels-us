@@ -5,7 +5,7 @@
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
 The safety and efficacy of oxybutynin chloride extended-release tablets (5 to 30 mg/day) was evaluated in 774 adult subjects who participated in five double-blind, controlled clinical trials.
-In four of the five studies, oxybutynin chloride immediate-release (5 to 20 mg/day in 199 subjects) was an active comparator.
+In four of the five studies, oxybutynin chloride immediate-release tablets (5 to 20 mg/day in 199 subjects) was an active comparator.
 Adverse reactions reported by ≥ 1% of subjects are shown in Table 1.
 
 Table 1: Adverse Drug Reactions Reported by ≥ 1% of Oxybutynin Chloride Extended-Release Tablets-treated Adult Subjects in Five Double-blind, Controlled Clinical Trials of Oxybutynin Chloride Extended-Release Tablets
@@ -57,7 +57,7 @@ The following adverse reactions were reported by <1% of oxybutynin chloride exte
 
 ## 6.2 Postmarketing Experience
 
-The following additional adverse reactions have been reported from worldwide postmarketing experience with oxybutynin chloride.
+The following additional adverse reactions have been reported from worldwide postmarketing experience with oxybutynin chloride extended-release tablets.
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Infections and Infestations: Urinary tract infection; Psychiatric Disorders: psychotic disorder, agitation, confusional state, hallucinations, memory impairment, abnormal behavior; Nervous System Disorders: convulsions; Eye Disorders: glaucoma; Respiratory, Thoracic and Mediastinal Disorders: nasal congestion; Cardiac Disorders: arrhythmia, tachycardia, palpitations, QT interval prolongation; Vascular Disorders: flushing, hypertension; Skin and Subcutaneous Tissue Disorders: rash; Renal and Urinary Disorders: impotence; General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; anaphylactic reactions requiring hospitalization for emergency treatment; Injury, poisoning and procedural complications: fall.
