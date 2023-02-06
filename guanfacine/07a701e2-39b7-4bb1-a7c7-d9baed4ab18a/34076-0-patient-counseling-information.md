@@ -11,7 +11,7 @@ Instruct the parent or caregiver to supervise the child or adolescent taking gua
 
 Advise patients not to abruptly discontinue guanfacine extended-release tablets as abrupt discontinuation can result in clinically significant rebound hypertension.
 Concomitant stimulant use and abrupt discontinuation of guanfacine extended-release tablets may increase this hypertensive response.
-Instruct patients on how to properly taper the dose to minimize the risk of rebound hypertension [see Dosage and Administration (2.5) and Warnings and Precautions (5.4].
+Instruct patients on how to properly taper the dose to minimize the risk of rebound hypertension [see Dosage and Administration (2.5) and Warnings and Precautions (5.4)].
 
 Adverse Reactions
 
@@ -22,6 +22,14 @@ If any of these symptoms persist, or other symptoms occur, the patient should be
 
 Advise patients to avoid becoming dehydrated or overheated, which may potentially increase the risks of hypotension and syncope [see Warnings and Precautions (5.1)].
 Advise patients to avoid use with alcohol.
+
+Pregnancy Registry
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to guanfacine extended-release tablets during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise breastfeeding mothers to monitor infants exposed to guanfacine through breastmilk for sedation, lethargy and poor feeding [see Use in Specific Populations (8.2)].
 
 ## Patient Information
 
@@ -59,6 +67,9 @@ Before you take guanfacine extended-release tablets, tell your doctor if you:
 - are pregnant or plan to become pregnant.
   It is not known if guanfacine extended-release tablets will harm your unborn baby.
   Talk to your doctor if you are pregnant or plan to become pregnant.
+- ○ There is a pregnancy registry for females who are exposed to ADHD medications, including guanfacine extended-release tablets, during pregnancy.
+  The purpose of the registry is to collect information about the health of females exposed to guanfacine extended-release tablets and their baby.
+  If you or your child becomes pregnant during treatment with guanfacine extended-release tablets, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD medications at 1-866-961-2388.
 - are breastfeeding or plan to breastfeed.
   It is not known if guanfacine extended-release tablets pass into your breast milk.
   Talk to your doctor about the best way to feed your baby while taking guanfacine extended-release tablets.
@@ -185,6 +196,6 @@ TWi Pharmaceuticals, Inc.
 
 Taoyuan City, 32063, Taiwan
 
-Revised: 10/19
+Revised: 10/22
 
 OS24979533
