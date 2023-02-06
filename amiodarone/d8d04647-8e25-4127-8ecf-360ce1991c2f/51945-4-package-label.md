@@ -32,7 +32,9 @@ NDC 63323-616-02 601609
 
 Amiodarone Hydrochloride Injection, USP
 
-450 mg per 9 mL (50 mg per mL)
+450 mg per 9 mL
+
+(50 mg per mL)
 
 MUST BE DILUTED FOR IV USE ONLY
 
@@ -46,11 +48,17 @@ PACKAGE LABEL – PRINCIPAL DISPLAY – Amiodarone 9 mL Single Dose Tray Label
 
 NDC 63323-616-09 601609
 
-Amiodarone Hydrochloride Injection, USP
+Amiodarone Hydrochloride
 
-450 mg per 9 mL (50 mg per mL)
+Injection, USP
 
-MUST BE DILUTED FOR IV USE ONLY
+450 mg per 9 mL
+
+(50 mg per mL)
+
+MUST BE DILUTED
+
+FOR IV USE ONLY
 
 9 mL Rx only
 
