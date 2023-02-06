@@ -165,3 +165,32 @@ Rx ONLY
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
 HOSPIRA
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label - 7650
+
+250mL NDC 0409-7650-05
+
+Heparin Sodium 25,000 USP Units / 250 mL (100 USP Units / mL) in 0.45% Sodium Chloride Injection
+
+Each 100 mL contains Heparin Sodium 10,000 USP Units (Porcine Intestinal Mucosa); Sodium Chloride 0.45 g; Edetate Disodium, Anhydrous 10 mg added as stabilizer.
+May contain Sodium Hydroxide and/or Hydrochloric Acid for pH adjustment.
+Sterile.
+Not made with natural rubber latex.
+Recommended dosage: See prescribing information.
+Additives should not be made to this solution.
+Single dose container.
+Discard unused portion.
+For Intravenous Use only.
+Inspect bag by squeezing firmly.
+If leaks are found, discard.
+Store at 20℃ to 25℃ (68℉ to 77℉).
+[See USP Controlled Room Temperature.]
+Protect from freezing.
+Do not remove from overwrap until ready for use.
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+Rx ONLY
+
+5 PP
+
+HOSPIRA
