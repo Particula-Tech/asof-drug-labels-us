@@ -2,32 +2,57 @@
 
 ## 8.1 Pregnancy
 
-There are no adequate and well-controlled studies of dexmedetomidine use in pregnant women.
-In an in vitro human placenta study, placental transfer of dexmedetomidine occurred.
+Risk Summary
+
+Available data from published randomized controlled trials and case reports over several decades of use with intravenously administered dexmedetomidine during pregnancy have not identified a drug-associated risk of major birth defects and miscarriage; however, the reported exposures occurred after the first trimester.
+Most of the available data are based on studies with exposures that occurred at the time of caesarean section delivery, and these studies have not identified an adverse effect on maternal outcomes or infant Apgar scores.
+Available data indicate that dexmedetomidine crosses the placenta.
+
+In animal reproduction studies, fetal toxicity that lower fetal viability and reduced live fetuses occurred with subcutaneous administration of dexmedetomidine to pregnant rats during organogenesis at doses 1.8 times the maximum recommended human dose (MRHD) of 17.8 mcg/kg/day.
+
+Developmental toxicity (low pup weights and adult offspring weights, decreased F1 grip strength, increased early implantation loss and decreased viability of second-generation offspring) occurred when pregnant rats were subcutaneously administered dexmedetomidine at doses less than the clinical dose from late pregnancy through lactation and weaning (see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+Data
+
+Animal Data
+
+Increased post-implantation losses and reduced live fetuses in the presence of maternal toxicity (i.e. decreased body weight) were noted in a rat embryo-fetal development study in which pregnant dams were administered subcutaneous doses of dexmedetomidine 200 mcg/kg/day (equivalent to 1.8 times the intravenous MRHD of 17.8 mcg/kg/day based on body surface area [BSA]) during the period of organogenesis (Gestation Day [GD] 6 to 15).
+No malformations were reported.
+
+No malformations or embryo-fetal toxicity were noted in a rabbit embryo-fetal development study in which pregnant does were administered dexmedetomidine intravenously at doses of up to 96 mcg/kg/day (approximately half the human exposure at the MRHD based on AUC) during the period of organogenesis (GD 6 to 18).
+
+Reduced pup and adult offspring birth weights, and grip strength were reported in a rat developmental toxicology study in which pregnant females were administered dexmedetomidine subcutaneously at doses of 8 mcg/kg/day (0.07 times the MRHD based on BSA) during late pregnancy through lactation and weaning (GD 16 to postnatal day [PND] 25).
+Decreased viability of second generation offspring and an increase in early implantation loss along with delayed motor development occurred in the 32 mcg/kg/day group (equivalent to less than the clinical dose based on BSA) when first generation offspring were allowed to mate.
+This study limited dosing to hard palate closure (GD 15 to 18) through weaning instead of dosing from implantation (GD 6 to 7) to weaning (PND 21).
+
 In a study in the pregnant rat, placental transfer of dexmedetomidine was observed when radiolabeled dexmedetomidine was administered subcutaneously.
-Thus, fetal exposure should be expected in humans, and dexmedetomidine should be used during pregnancy only if the potential benefits justify the potential risk to the fetus.
 
-Teratogenic effects were not observed in rats following subcutaneous administration of dexmedetomidine during the period of fetal organogenesis (from gestation day 5 to 16) with doses up to 200 mcg/kg (representing a dose approximately equal to the maximum recommended human intravenous dose based on body surface area) or in rabbits following intravenous administration of dexmedetomidine during the period of fetal organogenesis (from gestation day 6 to 18) with doses up to 96 mcg/kg (representing approximately half the human exposure at the maximum recommended dose based on plasma area under the time-curve comparison).
-However, fetal toxicity, as evidenced by increased post-implantation losses and reduced live pups, was observed in rats at a subcutaneous dose of 200 mcg/kg.
-The no-effect dose in rats was 20 mcg/kg (representing a dose less than the maximum recommended human intravenous dose based on a body surface area comparison).
-In another reproductive toxicity study when dexmedetomidine was administered subcutaneously to pregnant rats at 8 and 32 mcg/kg (representing a dose less than the maximum recommended human intravenous dose based on a body surface area comparison) from gestation day 16 through weaning, lower offspring weights were observed.
-Additionally, when offspring of the 32 mcg/kg group were allowed to mate, elevated fetal and embryocidal toxicity and delayed motor development was observed in second generation offspring.
+## 8.2 Lactation
 
-## 8.2 Labor and Delivery
+Risk Summary
 
-The safety of dexmedetomidine during labor and delivery has not been studied.
+Available published literature reports the presence of dexmedetomidine in human milk following intravenous administration (see Data).
+There is no information regarding the effects of dexmedetomidine on the breastfed infant or the effects on milk production.
+Advise women to monitor the breastfed infant for irritability.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for dexmedetomidine and any potential adverse effects on the breastfed infant from dexmedetomidine or from the underlying condition.
 
-## 8.3 Nursing Mothers
+Data
 
-It is not known whether dexmedetomidine is excreted in human milk.
-Radio-labeled dexmedetomidine administered subcutaneously to lactating female rats was excreted in milk.
-Because many drugs are excreted in human milk, caution should be exercised when dexmedetomidine is administered to a nursing woman.
+In two published clinical studies, a total of 14 women were given intravenous dexmedetomidine 6 mcg/kg/hour for 10 minutes after delivery followed by continuous infusion of 0.2–0.7 mcg/kg/hour.
+Breast milk and maternal blood samples were collected at 0, 6, 12, and 24 hours after discontinuation of dexmedetomidine.
+Plasma and milk dexmedetomidine concentrations were detectable up to 6 hours in most subjects, up to 12 hours in one subject and undetectable in all at 24 hours.
+The milk-to-plasma ratio from single paired maternal milk and plasma concentrations at each time point ranged from 0.53 to 0.95.
+The relative infant dose was estimated to range from 0.02 to 0.098%.
 
 ## 8.4 Pediatric Use
 
 Safety and efficacy have not been established for Procedural or ICU Sedation in pediatric patients.
 One assessor-blinded trial in pediatric patients and two open label studies in neonates were conducted to assess efficacy for ICU sedation.
-These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of dexmedetomidine injection for this patient population.
+These studies did not meet their primary efficacy endpoints and the safety data submitted were insufficient to fully characterize the safety profile of dexmedetomidine for this patient population.
 The use of dexmedetomidine for procedural sedation in pediatric patients has not been evaluated.
 
 ## 8.5 Geriatric Use

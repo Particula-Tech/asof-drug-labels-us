@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Dexmedetomidine is a relatively selective alpha 2-adrenergic agonist with sedative properties.
+Dexmedetomidine is a relatively selective centrally acting alpha 2-adrenergic agonist with sedative properties.
 Alpha 2 selectivity is observed in animals following slow intravenous infusion of low and medium doses (10 - 300 mcg/kg).
 Both alpha 1 and alpha 2 activity is observed following slow intravenous infusion of high doses (≥ 1,000 mcg/kg) or with rapid intravenous administration.
 
@@ -70,7 +70,7 @@ Specific Populations
 
 Male and Female patients
 
-There was no observed difference in dexmedetomidine pharmacokinetics due to gender.
+There was no observed difference in dexmedetomidine pharmacokinetics due to sex.
 
 Geriatric Patients
 
@@ -83,7 +83,7 @@ In subjects with varying degrees of hepatic impairment (Child-Pugh Class A, B, o
 The mean clearance values for patients with mild, moderate, and severe hepatic impairment were 74%, 64% and 53% of those observed in the normal healthy subjects, respectively.
 Mean clearances for free drug were 59%, 51% and 32% of those observed in the normal healthy subjects, respectively.
 
-Although dexmedetomidine is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.7)].
+Although dexmedetomidine is dosed to effect, it may be necessary to consider dose reduction in subjects with hepatic impairment [see Dosage and Administration (2.2), Warnings and Precautions (5.8)].
 
 Patients with Renal Impairment
 
