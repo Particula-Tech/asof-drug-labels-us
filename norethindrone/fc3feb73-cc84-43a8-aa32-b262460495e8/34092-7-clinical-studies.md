@@ -3,10 +3,11 @@
 ## 14.1 Heavy Menstrual Bleeding Associated with Uterine Fibroids
 
 The efficacy and safety of MYFEMBREE were evaluated in two replicate, 24-week, multinational, randomized, double-blind, placebo-controlled studies in a total of 768 premenopausal women with heavy menstrual bleeding associated with uterine fibroids in Study L1 (NCT03049735) and Study L2 (NCT03103087).
+
 For study inclusion, women had to have uterine fibroids confirmed by ultrasound examination in which at least one fibroid met at least one of the following criteria:
 
 1. a. Subserosal, intramural, or < 50% intracavitary submucosal fibroid with a diameter ≥ 2 cm, or
-2. b. Multiple small fibroids with a total uterine volume of ≥ 130 cm3.
+2. b. Multiple small fibroids with a total uterine volume of ≥ 130cm3.
 
 Women also had to have menstrual blood loss (MBL) volume of ≥ 80 mL per cycle for two menstrual cycles or ≥ 160 mL during one cycle quantified by the alkaline hematin method from menstrual products collected during baseline menstrual cycles to be included in the studies.
 Women with hemoglobin < 8.0 g/dL were excluded from the study.
@@ -35,13 +36,13 @@ Table 8: Proportion of Responders for Reduction in MBL Volume Over Last 35 days 
 | MYFEMBREE (N = 122) | Placebo (N = 113) | MYFEMBREE (N = 125) | Placebo (N = 129) |  |
 | --- | --- | --- | --- | --- |
 |  | Study L1 |  | Study L2 |  |
-| Women with MBL Volume < 80 mL and ≥ 50% Reduction in MBL Volume from Baseline to the Last 35 Days of Treatment | 72.1% | 16.8% | 71.2% | 14.7% |
+| Women with MBL Volume < 80 mL and ≥50% Reduction in MBL Volume from Baseline to the Last 35 Days of Treatment | 72.1% | 16.8% | 71.2% | 14.7% |
 | Difference from placebo, % 95% CI p-value | 55.3% (44.2%, 65.6%) < 0.0001 |  | 56.5% (46.6%, 66.5%) < 0.0001 |  |
 | Abbreviations: CI = confidence interval. |  |  |  |  |
 
 Amenorrhea
 
-In Studies L1 and L2, 50.0% and 50.4% of women treated with MYFEMBREE, respectively, achieved amenorrhea compared to 6.2% and 3.1% treated with placebo, respectively, over the last 35 days of treatment.
+In Studies L1 and L2, 50.0% and 50.4% of women treated with MYFEMBREE, respectively, achieved amenorrhea as compared to 6.2% and 3.1% treated with placebo, respectively, over the last 35 days of treatment.
 
 Percent Change in MBL Volume
 
@@ -50,11 +51,10 @@ The mean reduction in MBL volume from baseline to Week 24 in the MYFEMBREE group
 
 Reductions in MBL volume for MYFEMBREE and placebo groups are depicted in Figure 1.
 
-Figure 1: Percent Change from Baseline in Menstrual Blood Loss over Time
+Figure 1: Percent Change from Baseline in Menstrual Blood Loss Over 24 weeks
 
-Study L1
-
-Study L2
+| Study L1 | Study L2 |
+| --- | --- |
 
 Hemoglobin Levels
 
@@ -71,6 +71,11 @@ Table 9: Proportion of Women with Baseline Hgb ≤ 10.5 and > 2 g/dL Improvement
 | Abbreviation: CI = confidence interval. |  |  |  |  |
 | n = number of patients with Hgb ≤10.5 g/dL at baseline. |  |  |  |  |
 | N = number of patients in each treatment group. |  |  |  |  |
+
+Recurrence of Heavy Menstrual Bleeding After Discontinuation of MYFEMBREE
+
+In a randomized withdrawal study (L4), 229 women from the open label extension Study L3 were rerandomized to either continue blinded treatment with MYFEMBREE or withdrawal of therapy (placebo) for an additional 52 weeks.
+The median time to return to heavy menstrual bleeding among women randomized to placebo (treatment withdrawal) was 5.9 weeks.
 
 ## 14.2 Moderate to Severe Pain Associated with Endometriosis
 
@@ -103,7 +108,7 @@ At baseline, 48% of women used an opioid rescue analgesic for moderate to severe
 
 The results for the co-primary efficacy endpoints as assessed at Week 24 are shown below in Table 10.
 
-Table 10: Proportions of Dysmenorrhea and Non-Menstrual Pelvic Pain Responders at Week 24
+Table 10: Proportion of Dysmenorrhea and Non-Menstrual Pelvic Pain Responders at Week 24
 
 | MYFEMBREE (N = 212) | Placebo (N = 212) | MYFEMBREE (N = 205) | Placebo (N = 200) |  |
 | --- | --- | --- | --- | --- |
@@ -119,7 +124,7 @@ Key secondary efficacy endpoints included changes from baseline in the DYS NRS s
 
 Reduction in DYS and NMPP NRS Scores
 
-Women treated with MYFEMBREE had a greater reduction in DYS and NMPP NRS scores compared to placebo from baseline to Week 24 in both Studies S1 and S2 (Figure 2 and Figure 3).
+Women treated with MYFEMBREE had a greater reduction in DYS and NMPP NRS scores as compared to placebo from baseline to Week 24 in both Studies S1 and S2 (Figure 2 and Figure 3).
 
 | Figure 2: Mean DYS NRS Scores in Study S1 and Study S2 over 24 Weeks |  |
 | --- | --- |
@@ -144,7 +149,7 @@ Reduction in Dyspareunia
 
 Dyspareunia associated with endometriosis was evaluated in a subgroup of women who engaged in sexual activity with vaginal intercourse at baseline and during treatment (68% of enrolled women).
 Dyspareunia (pain during sexual intercourse) was assessed daily using an 11-point NRS ranging from 0 ("no pain") to 10 ("pain as bad as you can imagine").
-In Studies S1 and S2, women treated with MYFEMBREE had a greater reduction in dyspareunia from baseline to Week 24 compared with placebo (LS mean change in Study S1: -2.4 vs. -1.7, with a treatment difference of -0.7 [95% CI: -1.3, -0.1]; in Study S2: -2.4 vs. -1.9, with a treatment difference of -0.5 [95% CI: -1.0, 0.0]).
+In Studies S1 and S2, women treated with MYFEMBREE had a greater reduction in dyspareunia from baseline to Week 24 compared with placebo [LS mean change in Study S1: -2.4 vs. -1.7, with a treatment difference of -0.7 (95% CI: -1.3, -0.1); in Study S2: -2.4 vs. -1.9, with a treatment difference of -0.5 (95% CI: -1.0, 0.0)].
 
 Use of Opioid Rescue Analgesics
 

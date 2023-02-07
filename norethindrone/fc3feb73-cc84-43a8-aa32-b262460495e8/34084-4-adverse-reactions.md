@@ -26,6 +26,7 @@ Additionally, 256 women received placebo for 24 weeks, and 258 women received re
 Of these, 476 women were treated with MYFEMBREE in a 28-week extension trial, Study L3 (LIBERTY Extension), for a total treatment duration of up to 12 months.
 Demographics were similar across the studies; approximately 43% were White, 51% were Black, and approximately 23% were of Hispanic or Latino ethnicity.
 The mean age at study entry was approximately 42 years (range 19 to 51 years).
+Of women who completed Study L3, 229 were rerandomized to continue MYFEMBREE or withdraw from therapy (placebo) for an additional 52 weeks (Study L4).
 
 Serious Adverse Reactions
 
@@ -93,8 +94,9 @@ The mean percent changes from baseline (95% CI) in lumbar spine BMD at Months 6 
 A decline in lumbar spine BMD of > 3% was observed in 23% (30/132) of women who had a DXA scan following 12 months of MYFEMBREE treatment in Study L3 and in 17.4% (37/213) of untreated women in the Observational Uterine Fibroids Cohort.
 A decline of > 8% was seen in 0.8% (1/132) of women treated with MYFEMBREE who completed a DXA scan at Month 12 and in 0.9% (2/213) of untreated women in the Observational Uterine Fibroids Cohort.
 
-In Studies L1, L2, and L3, 0.6% (4/634) of women treated with MYFEMBREE experienced low trauma fractures (defined as a fall from standing height or less).
-Two of these women were treated with relugolix monotherapy for 12 weeks prior to MYFEMBREE therapy.
+In Studies L1, L2, and L3, four of women treated with MYFEMBREE experienced low trauma fractures (defined as a fall from standing height or less).
+Two women, one from Study L1 and one from Study L2, fractured after 117 and 166 days of treatment with MYFEMBREE.
+Two women in Study L3, both treated with relugolix monotherapy for 12 weeks prior to MYFEMBREE therapy, fractured after 149 and 164 days of treatment with MYFEMBREE.
 
 Depression, Mood Disorders, and Suicidal Ideation
 

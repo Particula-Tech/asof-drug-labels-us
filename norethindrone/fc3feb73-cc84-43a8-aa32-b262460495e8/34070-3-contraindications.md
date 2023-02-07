@@ -17,4 +17,4 @@ MYFEMBREE is contraindicated in women:
 - With known hepatic impairment or disease [see Warnings and Precautions (5.5)].
 - With undiagnosed abnormal uterine bleeding.
 - With known anaphylactic reaction, angioedema, or hypersensitivity to MYFEMBREE or any of its components.
-  Anaphylactoid reactions have been reported [see Warnings and Precautions (5.14)].
+  Anaphylactoid reactions, urticaria, and angioedema have been reported [see Warnings and Precautions (5.14), Adverse Reactions (6.2)].

@@ -133,5 +133,6 @@ The use of estrogen and progestin may also affect the levels of sex hormone-bind
 
 ## 5.14 Hypersensitivity Reactions
 
-MYFEMBREE is contraindicated in women with a history of hypersensitivity reactions to relugolix or any component of MYFEMBREE [Contraindications (4)].
+Hypersensitivity reactions, including anaphylactoid reactions, urticaria and angioedema, have been reported with MYFEMBREE [see Adverse Reactions (6.2)].
+MYFEMBREE is contraindicated in women with a history of hypersensitivity reactions to relugolix or any component of MYFEMBREE [see Contraindications (4)].
 Immediately discontinue MYFEMBREE if a hypersensitivity reaction occurs.
