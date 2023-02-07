@@ -77,12 +77,12 @@ Healthcare professionals can telephone Mallinckrodt at 1-800-778-7898, or visit 
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and M are trademarks of a Mallinckrodt company.
 
-© 2021 Mallinckrodt.
+© 2022 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
 Mallinckrodt™ Pharmaceuticals
 
-Issued 03/2021
+Issued 11/2022
 
 An electronic copy of this medication guide can be obtained from www.mallinckrodt.com/Medguide/L20M55.pdf or by calling 1-800-778-7898 for alternate delivery options.
