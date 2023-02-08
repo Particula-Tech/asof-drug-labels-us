@@ -207,22 +207,22 @@ Table 10 Changes in Pharmacokinetic Parameters for Coadministered Drugs in the P
 
 Table 11 Changes in Pharmacokinetic Parameters for Coadministered Drug in the Presence of TAF in Healthy Subjects
 
-| Cmax | AUC | Cmin |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |  |
-| MidazolamA sensitive CYP3A4 substrate. | 2.5 single dose, orally | 25 once dailyStudy conducted with TAF. | 18 | 1.02 (0.92, 1.13) | 1.13 (1.04, 1.23) | NA |  |
-| 1 single dose, IV | 0.99 (0.89, 1.11) | 1.08 (1.04, 1.13) | NA |  |  |  |  |
-| LedipasvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98,1.07) |  |
-| Sofosbuvir | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NA |  |  |  |  |
-| GS-331007,The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |  |
-| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily/ethinyl estradiol 0.025 once daily | 25 once dailyStudy conducted with FTC/TAF. | 29 | 1.17 (1.07,1.26) | 1.12 (1.07, 1.17) | 1.16 (1.08,1.24) |  |
-| Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03,1.20) |  |  |  |  |
-| Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.93,1.12) |  |  |  |  |
-| Sofosbuvir | 400 once daily | 25 once daily | 30 | 0.95 (0.86, 1.05) | 1.01 (0.97, 1.06) | NA |  |
-| GS-331007 | 1.02 (0.98, 1.06) | 1.04 (1.01, 1.06) | NA |  |  |  |  |
-| Velpatasvir | 100 once daily | 1.05 (0.96, 1.16) | 1.01 (0.94, 1.07) | 1.01 (0.95,1.09) |  |  |  |
-| Voxilaprevir | 100 + 100 once daily | 0.96 (0.84, 1.11) | 0.94 (0.84, 1.05) | 1.02 (0.92,1.12) |  |  |  |
-| CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available |  |  |  |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | TAF (mg) | N | Mean Ratio of Coadministered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |  |
+| MidazolamA sensitive CYP3A4 substrate. | 2.5 single dose, orally | 25 once dailyStudy conducted with TAF. | 18 | 1.02 (0.92, 1.13) | 1.13 (1.04, 1.23) | NA |
+| 1 single dose, IV | 0.99 (0.89, 1.11) | 1.08 (1.04, 1.13) | NA |  |  |  |
+| LedipasvirStudy conducted with ODEFSEY (FTC/RPV/TAF). | 90/400 once daily | 25 once daily | 41 | 1.01 (0.97, 1.05) | 1.02 (0.97, 1.06) | 1.02 (0.98,1.07) |
+| Sofosbuvir | 0.96 (0.89, 1.04) | 1.05 (1.01, 1.09) | NA |  |  |  |
+| GS-331007,The predominant circulating nucleoside metabolite of sofosbuvir. | 1.08 (1.05, 1.11) | 1.08 (1.06, 1.10) | 1.10 (1.07, 1.12) |  |  |  |
+| Norelgestromin | norgestimate 0.180/0.215/0.250 once daily/ethinyl estradiol 0.025 once daily | 25 once dailyStudy conducted with FTC/TAF. | 29 | 1.17 (1.07,1.26) | 1.12 (1.07, 1.17) | 1.16 (1.08,1.24) |
+| Norgestrel | 1.10 (1.02, 1.18) | 1.09 (1.01, 1.18) | 1.11 (1.03,1.20) |  |  |  |
+| Ethinyl estradiol | 1.22 (1.15, 1.29) | 1.11 (1.07, 1.16) | 1.02 (0.93,1.12) |  |  |  |
+| Sofosbuvir | 400 once daily | 25 once daily | 30 | 0.95 (0.86, 1.05) | 1.01 (0.97, 1.06) | NA |
+| GS-331007 | 1.02 (0.98, 1.06) | 1.04 (1.01, 1.06) | NA |  |  |  |
+| Velpatasvir | 100 once daily | 1.05 (0.96, 1.16) | 1.01 (0.94, 1.07) | 1.01 (0.95,1.09) |  |  |
+| Voxilaprevir | 100 + 100 once daily | 0.96 (0.84, 1.11) | 0.94 (0.84, 1.05) | 1.02 (0.92,1.12) |  |  |
+| CI=Confidence Interval; N=maximum number of subjects with data; NA=Not Available |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
