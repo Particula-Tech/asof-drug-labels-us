@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA210274"
+  ],
+  "inn": "vancomycin",
+  "labeler": "HIKMA PHARMACEUTICALS USA INC.",
+  "package_ndcs": [
+    "0143-9161-01",
+    "0143-9161-25",
+    "0143-9162-01",
+    "0143-9162-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "VANCOMYCIN HYDROCHLORIDE"
+    }
+  ],
+  "setid": "8eccafe8-40c9-495a-872d-7f45a98ee759",
+  "source": "dailymed"
+}
