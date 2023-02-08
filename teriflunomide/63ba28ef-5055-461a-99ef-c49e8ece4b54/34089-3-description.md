@@ -7,5 +7,4 @@ Teriflunomide is a white to almost white powder that is soluble in N, N-Dimethyl
 
 Teriflunomide is formulated as film-coated tablets for oral administration.
 Teriflunomide tablets contain 7 mg or 14 mg of teriflunomide and the following inactive ingredients: colloidal silicon dioxide, corn starch, hydroxy propyl cellulose, lactose monohydrate, magnesium stearate and sodium starch glycolate.
-The film coating for the 14 mg tablet is made of hypromellose, titanium dioxide, polyethylene glycol indigo carmine aluminum lake and iron oxide yellow.
-In addition to these, the 7 mg tablet film coating includes talc and brilliant blue aluminum lake.
+The film coating for the 7 mg and 14 mg tablet is made of hypromellose, titanium dioxide and polyethylene glycol.

@@ -27,6 +27,8 @@ Teriflunomide inhibits the activity of OAT3 in vivo.
 In patients taking teriflunomide, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased.
 Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3)].
 
-Effect of Teriflunomide on BCRP and Organic Anion Transporting Polypeptide B1 and B3 (OATP1B1/1B3) SubstratesTeriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.
+Effect of Teriflunomide on BCRP and Organic Anion Transporting Polypeptide B1 and B3 (OATP1B1/1B3) Substrates
+
+Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.
 For a patient taking teriflunomide, the dose of rosuvastatin should not exceed 10 mg once daily.
 For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking teriflunomide [see Clinical Pharmacology (12.3)].

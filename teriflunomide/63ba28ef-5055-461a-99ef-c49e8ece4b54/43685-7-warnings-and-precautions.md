@@ -9,15 +9,14 @@ Clinically significant liver injury can occur at any time during treatment with 
 Patients with pre-existing acute or chronic liver disease, or those with serum alanine aminotransferase (ALT) greater than two times the upper limit of normal (ULN) before initiating treatment, should not normally be treated with teriflunomide.
 Teriflunomide is contraindicated in patients with severe hepatic impairment [see Contraindications (4)].
 
-In placebo-controlled trials, ALT greater than three times the ULN occurred in 61/1045 (5.8%) and 62/1002 (6.2%) of patients receiving teriflunomide 7 mg and 14 mg, respectively, and 38/997 (3.8%) of patients receiving placebo, during the treatment period.
+In placebo-controlled trials in adult patients, ALT greater than three times the ULN occurred in 61/1045 (5.8%) and 62/1002 (6.2%) of patients receiving teriflunomide 7 mg and 14 mg, respectively, and 38/997 (3.8%) of patients receiving placebo, during the treatment period.
 These elevations occurred mostly within the first year of treatment.
 Half of the cases returned to normal without drug discontinuation.
 In clinical trials, if ALT elevation was greater than three times the ULN on two consecutive tests, teriflunomide was discontinued and patients underwent an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 Of the patients who underwent discontinuation and accelerated elimination in controlled trials, half returned to normal or near normal values within 2 months.
 
-One patient in the controlled trials developed ALT 32 times the ULN and jaundice 5 months after initiation of teriflunomide 14 mg treatment.
+One patient in the controlled trials in adult patients developed ALT 32 times the ULN and jaundice 5 months after initiation of teriflunomide 14 mg treatment.
 The patient was hospitalized for 5 weeks and recovered after plasmapheresis and cholestyramine accelerated elimination procedure.
-
 Teriflunomide-induced liver injury in this patient could not be ruled out.
 
 Obtain serum transaminase and bilirubin levels within 6 months before initiation of teriflunomide therapy.
@@ -40,7 +39,7 @@ Advise females of reproductive potential to use effective contraception during t
 If a woman becomes pregnant while taking teriflunomide, stop treatment with teriflunomide, apprise the patient of the potential risk to a fetus, and perform an accelerated drug elimination procedure to achieve a plasma teriflunomide concentration of less than 0.02 mg/L [see Warnings and Precautions (5.3)].
 Upon discontinuing teriflunomide, it is recommended that all females of reproductive potential undergo an accelerated drug elimination procedure.
 Women receiving teriflunomide treatment who wish to become pregnant must discontinue teriflunomide and undergo an accelerated drug elimination procedure, which includes verification that plasma concentrations of teriflunomide are less than 0.02 mg/L (0.02 mcg/mL).
-Men wishing to father a child should also discontinue use of teriflunomide and either undergo an accelerated elimination procedure or wait until verification that the plasma teriflunomide concentration is less than 0.02 mg/L (0.02 mcg/mL) [see Use in Specific Population (8.3)].
+Men wishing to father a child should also discontinue use of teriflunomide and either undergo an accelerated elimination procedure or wait until verification that the plasma teriflunomide concentration is less than 0.02 mg/L (0.02 mcg/mL) [see Use in Specific Populations (8.3)].
 Based on animal data, human plasma concentrations of teriflunomide of less than 0.02 mg/L (0.02 mcg/mL) are expected to have minimal embryofetal risk [see Contraindications (4), Warnings and Precautions (5.3), and Use in Specific Populations (8.1)].
 
 ## 5.3 Procedure for Accelerated Elimination of Teriflunomide
@@ -64,9 +63,9 @@ Use of the accelerated elimination procedure may potentially result in return of
 
 Bone Marrow Effects
 
-A mean decrease compared to baseline in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials with 7 mg and 14 mg of teriflunomide.
+A mean decrease compared to baseline in white blood cell (WBC) count of approximately 15% (mainly neutrophils and lymphocytes) and in platelet count of approximately 10% was observed in placebo-controlled trials in adult patients with 7 mg and 14 mg of teriflunomide.
 The decrease in mean WBC count occurred during the first 6 weeks and WBC count remained low during treatment.
-In placebo-controlled studies, neutrophil count <1.5x109/L was observed in 12% and 16% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8x109/L was observed in 10% and 12% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
+In placebo-controlled studies in adult patients, neutrophil count <1.5 x 109/L was observed in 12% and 16% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 7% of patients receiving placebo; lymphocyte count <0.8 x 109/L was observed in 10% and 12% of patients receiving teriflunomide 7 mg and 14 mg, respectively, compared with 6% of patients receiving placebo.
 No cases of serious pancytopenia were reported in premarketing clinical trials of teriflunomide but rare cases of pancytopenia and agranulocytosis have been reported in the postmarketing setting with leflunomide.
 A similar risk would be expected for teriflunomide [see Clinical Pharmacology (12.3)].
 Cases of thrombocytopenia with teriflunomide, including rare cases with platelet counts less than 50,000/mm3, have been reported in the postmarketing setting.
@@ -83,14 +82,14 @@ Instruct patients receiving teriflunomide to report symptoms of infections to a 
 Teriflunomide is not recommended for patients with severe immunodeficiency, bone marrow disease, or severe, uncontrolled infections.
 Medications like teriflunomide that have immunosuppression potential may cause patients to be more susceptible to infections, including opportunistic infections.
 
-In placebo-controlled studies of teriflunomide, no overall increase in the risk of serious infections was observed with teriflunomide 7 mg (2.2%) or 14 mg (2.7%) compared to placebo (2.2%).
+In placebo-controlled studies of teriflunomide in adult patients, no overall increase in the risk of serious infections was observed with teriflunomide 7 mg (2.2%) or 14 mg (2.7%) compared to placebo (2.2%).
 
 However, one fatal case of klebsiella pneumonia sepsis occurred in a patient taking teriflunomide 14 mg for 1.7 years.
 Fatal infections have been reported in the post-marketing setting in patients receiving leflunomide, especially Pneumocystis jirovecii pneumonia and aspergillosis.
 Most of the reports were confounded by concomitant immunosuppressant therapy and/or comorbid illness which, in addition to rheumatoid disease, may predispose patients to infection.
 In clinical studies with teriflunomide, cytomegalovirus hepatitis reactivation has been observed.
 
-In clinical studies with teriflunomide, cases of tuberculosis have been observed.
+In clinical studies with teriflunomide in adult patients, cases of tuberculosis have been observed.
 Prior to initiating teriflunomide, screen patients for latent tuberculosis infection with a tuberculin skin test or with a blood test for mycobacterium tuberculosis infection.
 Teriflunomide has not been studied in patients with a positive tuberculosis screen, and the safety of teriflunomide in individuals with latent tuberculosis infection is unknown.
 For patients testing positive in tuberculosis screening, treat by standard medical practice prior to therapy with teriflunomide.
@@ -137,7 +136,7 @@ In such cases, patients should not be re-exposed to teriflunomide [see Contraind
 
 ## 5.8 Peripheral Neuropathy
 
-In placebo-controlled studies, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), occurred more frequently in patients taking teriflunomide than in patients taking placebo.
+In placebo-controlled studies in adult patients, peripheral neuropathy, including both polyneuropathy and mononeuropathy (e.g., carpal tunnel syndrome), occurred more frequently in patients taking teriflunomide than in patients taking placebo.
 The incidence of peripheral neuropathy confirmed by nerve conduction studies was 1.4% (13 patients) and 1.9% (17 patients) of patients receiving 7 mg and 14 mg of teriflunomide, respectively, compared with 0.4% receiving placebo (4 patients).
 Treatment was discontinued in 0.7% (8 patients) with confirmed peripheral neuropathy (3 patients receiving teriflunomide 7 mg and 5 patients receiving teriflunomide 14 mg).
 Five of them recovered following treatment discontinuation.
@@ -149,7 +148,7 @@ If a patient taking teriflunomide develops symptoms consistent with peripheral n
 
 ## 5.9 Increased Blood Pressure
 
-In placebo-controlled studies, the mean change from baseline to the end of study in systolic blood pressure was +2.3 mmHg and +2.7 mmHg for teriflunomide 7 mg and 14 mg, respectively, and -0.6 mmHg for placebo.
+In placebo-controlled studies in adult patients, the mean change from baseline to the end of study in systolic blood pressure was +2.3 mmHg and +2.7 mmHg for teriflunomide 7 mg and 14 mg, respectively, and -0.6 mmHg for placebo.
 The change from baseline in diastolic blood pressure was +1.4 mmHg and +1.9 mmHg for teriflunomide 7 mg and 14 mg, respectively, and -0.3 mmHg for placebo.
 Hypertension was an adverse reaction in 3.1% and 4.3% of patients treated with 7 mg or 14 mg of teriflunomide compared with 1.8% for placebo.
 Check blood pressure before start of teriflunomide treatment and periodically thereafter.
@@ -164,7 +163,13 @@ Interstitial lung disease may be fatal and may occur acutely at any time during 
 New onset or worsening pulmonary symptoms, such as cough and dyspnea, with or without associated fever, may be a reason for discontinuation of therapy and for further investigation as appropriate.
 If discontinuation of the drug is necessary, consider initiation of an accelerated elimination procedure [see Warnings and Precautions (5.3)].
 
-## 5.11 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
+## 5.11 Pancreatitis in Pediatric Patients
+
+Teriflunomide is not approved for use in pediatric patients.
+In the pediatric clinical trial, cases of pancreatitis were observed in 1.8% (2/109) of patients receiving teriflunomide; one of these cases was serious [see Use in Specific Populations (8.4)].
+If pancreatitis is suspected, discontinue teriflunomide and start an accelerated elimination procedure [see Warnings and Precautions (5.3)].
+
+## 5.12 Concomitant Use with Immunosuppressive or Immunomodulating Therapies
 
 Coadministration with antineoplastic or immunosuppressive therapies used for treatment of multiple sclerosis has not been evaluated.
 Safety studies in which teriflunomide was concomitantly administered with other immune modulating therapies for up to one year (interferon beta, glatiramer acetate) did not reveal any specific safety concerns.

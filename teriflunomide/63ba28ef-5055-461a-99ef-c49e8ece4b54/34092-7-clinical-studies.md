@@ -6,7 +6,7 @@ Study 1 was a double-blind, placebo-controlled clinical trial that evaluated onc
 Patients were required to have a diagnosis of multiple sclerosis exhibiting a relapsing clinical course, with or without progression, and to have experienced at least one relapse over the year preceding the trial or at least two relapses over the two years preceding the trial.
 Patients were required not to have received interferon-beta for at least four months, or any other multiple sclerosis medication for at least six months before entering the study, nor were these medications permitted during the study.
 Neurological evaluations were to be performed at screening, every 12 weeks until week 108, and after suspected relapses.
-MRI was to be performed at screening, and at Week 24, 48, 72, and 108.
+MRI was to be performed at screening, and at week 24, 48, 72, and 108.
 The primary endpoint was the annualized relapse rate (ARR).
 
 In Study 1, 1088 patients were randomized to receive teriflunomide 7 mg (n=366), teriflunomide 14 mg (n=359), or placebo (n=363).
@@ -36,12 +36,10 @@ Table 2: Clinical and MRI Results of Study 1
 | Percent disability progression at week 108 | 21.7% (p=0.084) | 20.2% (p=0.028) | 27.3% |
 | Hazard ratio | 0.76 | 0.70 | - |
 | MRI Endpoints |  |  |  |
-| Median change from baseline in Total lesion volume 1(mL) at week 108 | 0.755 (p=0.0317)2 | 0.345 (p=0.0003)2 | 1.127 |
+| Median change from baseline in Total lesion volume*(mL) at week 108 | 0.755 (p=0.0317)† | 0.345 (p=0.0003)† | 1.127 |
 | Mean number of Gd-enhancing T1-lesions per scan | 0.570 (p<0.0001) | 0.261 (p<0.0001) | 1.331 |
 
-1Total lesion volume: sum of T2 and hypointense T1 lesion volume in mL
-
-2p-values based on cubic root transformed data for total lesion volume
+*Total lesion volume: sum of T2 and hypointense T1 lesion volume in mL †p-values based on cubic root transformed data for total lesion volume
 
 Figure 1: Kaplan-Meier Plot of Time to Disability Progression Sustained for 12 Weeks (Study 1)
 
@@ -60,7 +58,7 @@ The percentage of patients who completed the study treatment period was 67%, 66%
 There was a statistically significant reduction in the ARR for patients who received teriflunomide 7 mg or teriflunomide 14 mg compared to patients who received placebo (see Table 3).
 There was a consistent reduction of the ARR noted in subgroups defined by sex, age group, prior multiple sclerosis therapy, and baseline disease activity.
 
-There was a statistically significant reduction in the relative risk of disability progression at week 108 sustained for 12 weeks (as measured by at least a 1-point increase from baseline EDSS ≤ 5.5 or a 0.5 point increase for those with a baseline EDSS > 5.5) in the teriflunomide 14 mg group compared to placebo (See Table 3 and Figure 2).
+There was a statistically significant reduction in the relative risk of disability progression at week 108 sustained for 12 weeks (as measured by at least a 1-point increase from baseline EDSS ≤ 5.5 or a 0.5 point increase for those with a baseline EDSS >5.5) in the teriflunomide 14 mg group compared to placebo (see Table 3 and Figure 2).
 
 Table 3: Clinical Results of Study 2
 

@@ -9,11 +9,13 @@ Hepatotoxicity
 Inform patients that teriflunomide may cause liver injury, which can be life-threatening, and that their liver enzymes will be checked before starting teriflunomide and at least monthly for 6 months after starting teriflunomide [see Dosage and Administration (2) and Warnings and Precautions (5.1)].
 Advise patients that they should contact their physician if they have any unexplained nausea, vomiting, abdominal pain, fatigue, anorexia, or jaundice and/or dark urine.
 
-Embryofetal Toxicity Advise females of reproductive potential
+Embryofetal Toxicity
+
+- Advise females of reproductive potential
 
 - of the potential for fetal harm if teriflunomide is taken during pregnancy
 - to notify their healthcare provider immediately if a pregnancy occurs or is suspected
-- to use effective contraception during treatment with teriflunomide and until the teriflunomide plasma concentration is verified to be less than 0.02 mg/L [see Warnings and Precautions (5.2, 5.3), Use in Specific Populations (8.1, 8.3),Clinical Pharmacology (12.3)].
+- to use effective contraception during treatment with teriflunomide and until the teriflunomide plasma concentration is verified to be less than 0.02 mg/L [see Warnings and Precautions (5.2, 5.3), Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.3)].
 - Instruct men taking teriflunomide and not wishing to father a child to use effective contraception to minimize any possible risk to the fetus; their female partners should also use effective contraception.
 - Advise men wishing to father a child to discontinue use of teriflunomide and undergo an accelerated elimination procedure.
 
@@ -54,4 +56,6 @@ Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
 Distributed by: MSN Pharmaceuticals Inc. Piscataway, NJ 08854 -3714
 
-Issued on: December 2020
+Issued on:
+
+February 2023
