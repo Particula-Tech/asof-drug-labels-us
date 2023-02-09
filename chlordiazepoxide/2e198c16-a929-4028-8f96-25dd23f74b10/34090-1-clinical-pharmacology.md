@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Chlordiazepoxide Hydrochloride has antianxiety, sedative, appetite-stimulating and weak analgesic actions.
+Chlordiazepoxide hydrochloride has antianxiety, sedative, appetite-stimulating and weak analgesic actions.
 The precise mechanism of action is not known.
 The drug blocks EEG arousal from stimulation of the brain stem reticular formation.
 It takes several hours for peak blood levels to be reached and the half-life of the drug is between 24 and 48 hours.
@@ -12,11 +12,11 @@ Chlordiazepoxide is excreted in the urine, with 1% to 2% unchanged and 3% to 6% 
 The drug has been studied extensively in many species of animals and these studies are suggestive of action on the limbic system of the brain, which recent evidence indicates is involved in emotional responses.
 
 Hostile monkeys were made tame by oral drug doses which did not cause sedation.
-Chlordiazepoxide Hydrochloride revealed a “taming” action with the elimination of fear and aggression.
+Chlordiazepoxide hydrochloride revealed a “taming” action with the elimination of fear and aggression.
 The taming effect of chlordiazepoxide hydrochloride was further demonstrated in rats made vicious by lesions in the septal area of the brain.
 The drug dosage which effectively blocked the vicious reaction was well below the dose which caused sedation in these animals.
 
-The LD50 of parenterally administered chlordiazepoxide hydrochloride was determined in mice (72 hours) and rats (5 days), and calculated according to the method of Miller and Tainter, with the following results: mice, IV, 123±12mg/kg; mice, IM, 366±7mg/kg; rats, IV, 120±7 mg/kg; rats, IM, >160 mg/kg.
+The LD50 of parenterally administered chlordiazepoxide hydrochloride was determined in mice (72 hours) and rats (5 days), and calculated according to the method of Miller and Tainter, with the following results: mice, IV, 123±12 mg/kg; mice, IM, 366±7 mg/kg; rats, IV, 120±7 mg/kg; rats, IM, >160 mg/kg.
 
 ## Effects on Reproduction
 

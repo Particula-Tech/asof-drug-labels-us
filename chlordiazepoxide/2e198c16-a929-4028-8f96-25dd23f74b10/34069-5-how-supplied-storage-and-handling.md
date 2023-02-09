@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Chlordiazepoxide Hydrochloride Capsules, USP are available in the following presentations:
+Chlordiazepoxide hydrochloride capsules, USP are available in the following presentations:
 
 5 mg hard gelatin capsules in bottles of 100 (NDC 42806-564-01), with 564 imprinted on the opaque green cap with an opaque yellow body.
 
@@ -17,8 +17,8 @@ Epic Pharma, LLC
 Laurelton, NY 11413
 
 Rev.
-07-2021-00
+01-2023-00
 
-MF564REV07/21
+MF564REV01/23
 
 LN0002A

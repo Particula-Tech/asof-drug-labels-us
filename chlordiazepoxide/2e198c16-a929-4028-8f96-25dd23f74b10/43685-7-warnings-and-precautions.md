@@ -38,21 +38,21 @@ Protracted Withdrawal Syndrome
 
 In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
-Chlordiazepoxide Hydrochloride may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a vehicle or operating machinery.
+Chlordiazepoxide hydrochloride may impair the mental and/or physical abilities required for the performance of potentially hazardous tasks such as driving a vehicle or operating machinery.
 Similarly, it may impair mental alertness in children.
 The concomitant use of alcohol or other central nervous system depressants may have an additive effect.
 PATIENTS SHOULD BE WARNED ACCORDINGLY.
 
-Usage in Pregnancy: An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
-Because use of these drugs is rarely a matter of urgency, their use during this period should almost always be avoided.
-The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
-Patients should be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physicians about the desirability of discontinuing the drug.
+## Neonatal Sedation and Withdrawal Syndrome
+
+Use of chlordiazepoxide hydrochloride capsules late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to chlordiazepoxide hydrochloride capsules during pregnancy or labor for signs of sedation and monitor neonates exposed to chlordiazepoxide hydrochloride capsules during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 # PRECAUTIONS
 
 In elderly and debilitated patients, it is recommended that the dosage be limited to the smallest effective amount to preclude the development of ataxia or oversedation (10 mg or less per day initially, to be increased gradually as needed and tolerated).
 In general, the concomitant administration of chlordiazepoxide and other psychotropic agents is not recommended.
-If such combination therapy seems indicated, careful consideration should be given to the pharmacology of the agents to be employed - particularly when the known potentiating compounds such as MAO inhibitors and phenothiazines are to be used.
+If such combination therapy seems indicated, careful consideration should be given to the pharmacology of the agents to be employed particularly when the known potentiating compounds such as MAO inhibitors and phenothiazines are to be used.
 The usual precautions in treating patients with impaired renal or hepatic function should be observed.
 
 Paradoxical reactions, e.g., excitement, stimulation and acute rage, have been reported in psychiatric patients and in hyperactive aggressive pediatric patients, and should be watched for during chlordiazepoxide therapy.
@@ -70,7 +70,7 @@ Hyperactive aggressive pediatric patients should be monitored for paradoxical re
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-### Risks from Concomitant Use with Opioids
+### Risks from Concomitant Use With Opioids
 
 Advise both patients and caregivers about the risk of potentially fatal respiratory depression and sedation when chlordiazepoxide is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider.
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
@@ -86,6 +86,17 @@ Inform patients that the continued use of chlordiazepoxide may lead to clinicall
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
 Instruct patients that discontinuation or dosage reduction of chlordiazepoxide may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
+### Pregnancy
+
+Advise pregnant females that use of chlordiazepoxide hydrochloride capsules late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to chlordiazepoxide hydrochloride capsules during pregnancy (see PRECAUTIONS: Pregnancy).
+
+### Nursing
+
+Advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide hydrochloride capsules (see PRECAUTIONS: Nursing).
+
 ### Drug Interactions
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
@@ -93,3 +104,44 @@ Benzodiazepines interact at GABAA sites and opioids interact primarily at mu rec
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
+
+#### Pregnancy:
+
+##### Pregnancy Exposure Registry
+
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including chlordiazepoxide hydrochloride capsules, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+##### Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+##### Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to chlordiazepoxide hydrochloride capsules during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to chlordiazepoxide hydrochloride capsules during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+##### Data
+
+Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+#### Nursing
+
+##### Risk Summary
+
+There are no data on the presence of chlordiazepoxide in human milk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+Because of chlordiazepoxide’s long half-life, the potential for chlordiazepoxide to accumulate in breast milk and the potential for serious adverse reactions, including sedation and withdrawal symptoms in breastfed neonates and infants, advise patients that breastfeeding is not recommended during treatment with chlordiazepoxide hydrochloride capsules.
