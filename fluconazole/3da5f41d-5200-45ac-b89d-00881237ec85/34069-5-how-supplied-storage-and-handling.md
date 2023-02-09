@@ -20,19 +20,13 @@ Storage: Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Tempe
 
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
-Glenmark Pharmaceuticals Inc., USA
-
-Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888) 721-7115
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-www.glenmarkpharma-us.com
-
-April 2022
+February 2023

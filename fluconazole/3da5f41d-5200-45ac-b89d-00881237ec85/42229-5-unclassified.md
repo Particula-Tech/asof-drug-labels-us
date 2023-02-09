@@ -1,8 +1,8 @@
 # PATIENT INFORMATION
 
-PATIENT INFORMATION
+FLUCONAZOLE (floo-KON-a-zole)
 
-FLUCONAZOLE (floo-KON-a-zole) TABLETS
+TABLETS
 
 This leaflet contains important information about fluconazole.
 It is not meant to take the place of your healthcare provider’s instructions.
@@ -83,20 +83,19 @@ Especially tell your healthcare provider if you take:
 - •olaparib, cyclophosphamide or vinca alkaloids such as vincristine or vinblastine for treatment of cancer
 - •fentanyl, alfentanil or methadone for chronic pain
 - •ibrutinib used for treating blood cancer
-- •ivacaftor or ivacaftor combinations, such as tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor, used to treat cystic fibrosis
-- •lurasidone used to treat schizophrenia or depression
 - •lemborexant, used for the treatment of insomnia
 - •lipid lowering drugs such as atorvastatin, simvastatin, and fluvastatin
 - •non-steroidal anti-inflammatory drugs including celecoxib, ibuprofen, and naproxen
 - •prednisone, a steroid used to treat skin, gastrointestinal, hematological or respiratory disorders
 - •antiviral medications used to treat HIV like saquinavir or zidovudine
 - •tofacitinib for rheumatoid arthritis
+- •abrocitinib (used to treat atopic dermatitis, also known as eczema)
 - •vitamin A nutritional supplement
 - •tolvaptan used to treat hyponatremia (low levels of sodium in your blood) or to slow kidney function decline
 
 Since there are many brand names for these medicines, check with your healthcare provider or pharmacist if you have any questions.
 
-How should I take Fluconazole Tablets
+How should I take Fluconazole Tablets?
 
 - •Take fluconazole tablets exactly as your healthcare provider tells you to.
 - •Take fluconazole tablets by mouth with or without food.
@@ -121,7 +120,7 @@ Fluconazole Tablets may cause serious side effects including:
 | •severe skin itching | •tiredness | •loss of appetite |
 | •yellowing of the skin and eyes (jaundice) |  |  |
 
-- •serious allergic reactions: Serious allergic reactions (anaphylaxis) have happened while taking fluconazole tablets.
+- •serious allergic reactions: In rare cases,serious allergic reactions (anaphylaxis) have happened while taking fluconazole tablets.
   Stop taking fluconazole tablets, call your healthcare provider or go to the nearest hospital emergency room right away if you get any signs or symptoms of an allergic reaction including:
 
 | •shortness of breath | •coughing | •wheezing |
@@ -179,23 +178,15 @@ Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous
 
 *Trademarks are the property of their respective owners.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
-
 Manufactured by:
 
-Glenmark Pharmaceuticals Limited
-
-Colvale-Bardez, Goa 403513, India
+Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
 
 Manufactured for:
 
-Glenmark Pharmaceuticals Inc., USA
-
-Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888) 721-7115
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-www.glenmarkpharma-us.com
-
-April 2022
+1. This Patient Information has been approved by the U.S. Food and Drug Administration February 2023
