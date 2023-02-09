@@ -1,0 +1,32 @@
+# 7 DRUG INTERACTIONS
+
+Effect of teriflunomide tablets on CYP2C8 substrates
+
+Teriflunomide is an inhibitor of CYP2C8 in vivo.
+In patients taking teriflunomide tablets, exposure of drugs metabolized by CYP2C8 (e.g., paclitaxel, pioglitazone, repaglinide, rosiglitazone) may be increased.
+Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP2C8 as required [see Clinical Pharmacology (12.3)].
+
+Effect of teriflunomide tablets on warfarin
+
+Coadministration of teriflunomide tablets with warfarin requires close monitoring of the international normalized ratio (INR) because teriflunomide tablets may decrease peak INR by approximately 25%.
+
+Effect of teriflunomide tablets on oral contraceptives
+
+Teriflunomide tablets may increase the systemic exposures of ethinylestradiol and levonorgestrel.
+Consideration should be given to the type or dose of contraceptives used in combination with teriflunomide tablets [see Clinical Pharmacology (12.3)].
+
+Effect of teriflunomide tablets on CYP1A2 substrates
+
+Teriflunomide may be a weak inducer of CYP1A2 in vivo.
+In patients taking teriflunomide tablets, exposure of drugs metabolized by CYP1A2 (e.g., alosetron, duloxetine, theophylline, tizanidine) may be reduced.
+Monitor these patients and adjust the dose of the concomitant drug(s) metabolized by CYP1A2 as required [see Clinical Pharmacology (12.3)].
+
+Effect of teriflunomide tablets on organic anion transporter 3 (OAT3) substrates
+
+Teriflunomide inhibits the activity of OAT3 in vivo.
+In patients taking teriflunomide tablets, exposure of drugs which are OAT3 substrates (e.g., cefaclor, cimetidine, ciprofloxacin, penicillin G, ketoprofen, furosemide, methotrexate, zidovudine) may be increased.
+Monitor these patients and adjust the dose of the concomitant drug(s) which are OAT3 substrates as required [see Clinical Pharmacology (12.3)].
+
+Effect of teriflunomide tablets on BCRP and organic anion transporting polypeptide B1 and B3 (OATP1B1/1B3) substrates Teriflunomide inhibits the activity of BCRP and OATP1B1/1B3 in vivo.
+For a patient taking teriflunomide tablets, the dose of rosuvastatin should not exceed 10 mg once daily.
+For other substrates of BCRP (e.g., mitoxantrone) and drugs in the OATP family (e.g., methotrexate, rifampin), especially HMG-Co reductase inhibitors (e.g., atorvastatin, nateglinide, pravastatin, repaglinide, and simvastatin), consider reducing the dose of these drugs and monitor patients closely for signs and symptoms of increased exposures to the drugs while patients are taking teriflunomide tablets [see Clinical Pharmacology (12.3)].

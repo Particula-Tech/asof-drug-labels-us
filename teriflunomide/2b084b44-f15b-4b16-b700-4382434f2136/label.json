@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA209572"
+  ],
+  "inn": "teriflunomide",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-313-14",
+    "46708-313-30",
+    "46708-314-14",
+    "46708-314-30",
+    "46708-314-91"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "teriflunomide",
+      "name": "TERIFLUNOMIDE"
+    }
+  ],
+  "setid": "2b084b44-f15b-4b16-b700-4382434f2136",
+  "source": "dailymed"
+}
