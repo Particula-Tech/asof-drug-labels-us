@@ -47,7 +47,7 @@ Advise patients to inform their healthcare providers of all medications they are
 
 Dialysis
 
-Inform patients on dialysis that their dose should not be taken before dialysis but only following dialysis [see Dosage and Administration (2.6)].
+Inform patients on dialysis that their dose should not be taken before dialysis but only following dialysis [see Dosage and Administration (2.7)].
 
 Lactation
 
@@ -63,5 +63,5 @@ Manufactured for: Incyte Corporation 1801 Augustine Cut-off Wilmington, DE 19803
 
 Jakafi is a registered trademark of Incyte.
 All rights reserved.
-U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013; 9079912; 9814722; 10016429 © 2011-2022 Incyte Corporation.
+U.S. Patent Nos. 7598257; 8415362; 8722693; 8822481; 8829013; 9079912; 9814722; 10016429 © 2011-2023 Incyte Corporation.
 All rights reserved.

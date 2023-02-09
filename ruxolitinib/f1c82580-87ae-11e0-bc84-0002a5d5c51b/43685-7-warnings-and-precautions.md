@@ -36,9 +36,14 @@ Progressive Multifocal Leukoencephalopathy
 Progressive multifocal leukoencephalopathy (PML) has occurred with Jakafi treatment.
 If PML is suspected, stop Jakafi and evaluate.
 
-Herpes Zoster
+Herpes Zoster and Herpes Simplex
 
+Herpes zoster infection has been reported in patients receiving Jakafi [see Adverse Reactions (6.1)].
 Advise patients about early signs and symptoms of herpes zoster and to seek treatment as early as possible if suspected.
+
+Herpes simplex virus reactivation and/or dissemination has been reported in patients receiving Jakafi [see Adverse Reactions (6.2)].
+Monitor patients for the development of herpes simplex infections.
+If a patient develops evidence of dissemination of herpes simplex, consider interrupting treatment with Jakafi; patients should be promptly treated and monitored according to clinical guidelines.
 
 Hepatitis B
 
@@ -52,7 +57,7 @@ Following discontinuation of Jakafi, symptoms from myeloproliferative neoplasms 
 Some patients with MF have experienced one or more of the following adverse events after discontinuing Jakafi: fever, respiratory distress, hypotension, DIC, or multi-organ failure.
 If one or more of these occur after discontinuation of, or while tapering the dose of Jakafi, evaluate for and treat any intercurrent illness and consider restarting or increasing the dose of Jakafi.
 Instruct patients not to interrupt or discontinue Jakafi therapy without consulting their physician.
-When discontinuing or interrupting therapy with Jakafi for reasons other than thrombocytopenia or neutropenia [see Dosage and Administration (2.7)], consider tapering the dose of Jakafi gradually rather than discontinuing abruptly.
+When discontinuing or interrupting therapy with Jakafi for reasons other than thrombocytopenia or neutropenia [see Dosage and Administration (2.8)], consider tapering the dose of Jakafi gradually rather than discontinuing abruptly.
 
 ## 5.4 Non-Melanoma Skin Cancer (NMSC)
 

@@ -234,3 +234,10 @@ Table 19: Chronic Graft-Versus-Host Disease: Selected Laboratory Abnormalities i
 | Creatinine increased | 47 | 1 | 40 | 2 |
 | Elevated lipase | 38 | 12 | 30 | 9 |
 | Elevated amylase | 35 | 8 | 25 | 4 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of Jakafi.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
+
+- Infections and Infestations: Herpes simplex virus reactivation and/or dissemination

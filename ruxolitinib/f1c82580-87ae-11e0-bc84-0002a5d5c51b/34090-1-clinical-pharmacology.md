@@ -91,9 +91,9 @@ Drug Interaction Studies
 
 Clinical Studies and Model-Informed Approaches
 
-Fluconazole: Fluconazole 100 to 400 mg once daily (a moderate CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% [see Dosage and Administration (2.5) and Drug Interactions (7)].
+Fluconazole: Fluconazole 100 to 400 mg once daily (a moderate CYP3A4 and CYP2C9 inhibitor) increases steady state ruxolitinib AUC by approximately 100% to 300% [see Dosage and Administration (2.6) and Drug Interactions (7)].
 
-Strong CYP3A4 inhibitors: Ketoconazole (strong CYP3A4 inhibitor) increased ruxolitinib Cmax by 33% and AUC by 91% and prolonged ruxolitinib half-life from 3.7 hours to 6 hours [see Dosage and Administration (2.5) and Drug Interactions (7)].
+Strong CYP3A4 inhibitors: Ketoconazole (strong CYP3A4 inhibitor) increased ruxolitinib Cmax by 33% and AUC by 91% and prolonged ruxolitinib half-life from 3.7 hours to 6 hours [see Dosage and Administration (2.6) and Drug Interactions (7)].
 
 Moderate CYP3A4 inhibitors: Erythromycin (moderate CYP3A4 inhibitor) increased ruxolitinib Cmax by 8% and AUC by 27% [see Drug Interactions (7)].
 

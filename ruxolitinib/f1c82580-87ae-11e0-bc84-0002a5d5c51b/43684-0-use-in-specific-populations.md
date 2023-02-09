@@ -95,13 +95,13 @@ No overall differences in safety or effectiveness of Jakafi were observed betwee
 ## 8.6 Renal Impairment
 
 Total exposure of ruxolitinib and its active metabolites increased with moderate (CLcr 30 to 59 mL/min) and severe (CLcr 15 to 29 mL/min) renal impairment, and ESRD (CLcr less than 15 mL/min) on dialysis [see Clinical Pharmacology (12.3)].
-Modify Jakafi dosage as recommended [see Dosage and Administration (2.6)].
+Modify Jakafi dosage as recommended [see Dosage and Administration (2.7)].
 
 ## 8.7 Hepatic Impairment
 
 Exposure of ruxolitinib increased with mild (Child-Pugh A), moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment [see Clinical Pharmacology (12.3)].
 
-Reduce Jakafi dosage as recommended in patients with MF or PV with hepatic impairment [see Dosage and Administration (2.6)].
+Reduce Jakafi dosage as recommended in patients with MF or PV with hepatic impairment [see Dosage and Administration (2.7)].
 Reduce Jakafi dosage as recommended for patients with Stage 4 liver aGVHD.
 
-Monitor blood counts more frequently for toxicity and modify the Jakafi dosage for adverse reactions if they occur for patients with Score 3 liver cGVHD [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+Monitor blood counts more frequently for toxicity and modify the Jakafi dosage for adverse reactions if they occur for patients with Score 3 liver cGVHD [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
