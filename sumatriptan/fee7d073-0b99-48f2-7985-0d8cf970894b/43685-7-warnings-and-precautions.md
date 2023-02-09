@@ -10,7 +10,7 @@ IMITREX injection may cause coronary artery vasospasm (Prinzmetal’s angina), e
 Perform a cardiovascular evaluation in triptan-naive patients who have multiple cardiovascular risk factors (e.g., increased age, diabetes, hypertension, smoking, obesity, strong family history of CAD) prior to receiving IMITREX injection.
 If there is evidence of CAD or coronary artery vasospasm, IMITREX injection is contraindicated.
 For patients with multiple cardiovascular risk factors who have a negative cardiovascular evaluation, consider administering the first dose of IMITREX injection in a medically supervised setting and performing an electrocardiogram (ECG) immediately following administration of IMITREX injection.
-For such patients, consider periodic cardiovascular evaluation in intermittent long-term users of IMITREX injection.
+For such patients, consider periodic cardiovascular evaluation in intermittent long‑term users of IMITREX injection.
 
 ## 5.2 Arrhythmias
 

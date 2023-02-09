@@ -14,10 +14,10 @@
 | How should I store IMITREX injection? •Store IMITREX between 36°F to 86°F (2°C to 30°C).•Store your medicine away from light.•Keep your medicine in the packaging or carrying case provided with it. Keep IMITREX and all medicines out of the reach of children. |  |
 | General information about the safe and effective use of IMITREXMedicines are sometimes prescribed for purposes other than those listed in Patient Information leaflets. Do not use IMITREX for a condition for which it was not prescribed. Do not give IMITREX to other people, even if they have the same symptoms you have. It may harm them.This Patient Information leaflet summarizes the most important information about IMITREX. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about IMITREX that is written for healthcare professionals.For more information, call 1-888-825-5249. |  |
 | What are the ingredients in IMITREX injection?Active ingredient: sumatriptan succinateInactive ingredients: sodium chloride, water for injection |  |
-| IMITREX and AMERGE are trademarks owned by or licensed to the GSK group of companies. The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies. The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.GlaxoSmithKlineResearch Triangle Park, NC 27709©2020 GSK group of companies or its licensor.IMJ:8PPI |  |
+| IMITREX and AMERGE are trademarks owned by or licensed to the GSK group of companies. The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies. The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.GlaxoSmithKlineDurham, NC 27701©2023 GSK group of companies or its licensor.IMJ:9PPI |  |
 
 1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Revised September 2020
+   Revised February 2023
 
 | Instructions for UseIMITREX (IM-i-trex) STATdose System(sumatriptan)Injection |  |
 | --- | --- |
@@ -101,11 +101,11 @@ How to insert a new Cartridge Pack
 
 How to dispose of your used Syringe Cartridge Pack
 
-Put your used syringe cartridge pack in a FDA-cleared sharps disposal container right away after use (see Figure Q). Do not throw away (dispose of) loose needles and syringes in your household trash.
+Put your used syringe cartridge pack in an FDA-cleared sharps disposal container right away after use (see Figure Q). Do not throw away (dispose of) loose needles and syringes in your household trash.
 
 Figure Q
 
-- •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
   - omade of a heavy-duty plastic,
   - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, upright and stable during use,
   - oleak-resistant, and
@@ -122,10 +122,10 @@ Trademarks are owned by or licensed to the GSK group of companies.
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2020 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
-September 2020
+February 2023
 
-IMJ:9PIL
+IMJ:10PIL

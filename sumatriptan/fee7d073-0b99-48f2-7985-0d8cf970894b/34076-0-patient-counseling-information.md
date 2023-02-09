@@ -53,8 +53,8 @@ IMITREX, IMITREX STATdose System and IMITREX STATdose Pen are trademarks owned b
 The other brand listed is a trademark owned by or licensed to its owner and is not owned by or licensed to the GSK group of companies.
 The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
-GlaxoSmithKline Research Triangle Park, NC 27709
+GlaxoSmithKline Durham, NC 27701
 
-©2021 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
-IMJ:11PI
+IMJ:12PI

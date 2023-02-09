@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Sumatriptan binds with high affinity to human cloned 5-HT1B/1D receptors.
-Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine and cluster headaches through agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro-inflammatory neuropeptide release.
+Sumatriptan presumably exerts its therapeutic effects in the treatment of migraine and cluster headaches through agonist effects at the 5-HT1B/1D receptors on intracranial blood vessels and sensory nerves of the trigeminal system, which result in cranial vessel constriction and inhibition of pro‑inflammatory neuropeptide release.
 
 ## 12.2 Pharmacodynamics
 

@@ -5,7 +5,7 @@
 Carcinogenesis
 
 In carcinogenicity studies in mouse and rat, sumatriptan was administered orally for 78 weeks and 104 weeks, respectively, at doses up to 160 mg/kg/day (the high dose in rat was reduced from 360 mg/kg/day during Week 21).
-The highest dose to mice and rats was approximately 130 and 260 times the single MRHD of 6 mg administered subcutaneously on a mg/m2 basis.
+The highest dose to mice and rats was approximately 130 and 260 times the single maximum recommended human dose (MRHD) of 6 mg administered subcutaneously on a mg/m2 basis.
 There was no evidence in either species of an increase in tumors related to sumatriptan administration.
 
 Mutagenesis
