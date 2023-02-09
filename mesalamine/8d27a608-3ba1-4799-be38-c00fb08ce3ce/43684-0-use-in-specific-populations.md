@@ -57,7 +57,7 @@ Safety and effectiveness of mesalamine extended-release capsules in pediatric pa
 
 ## 8.5 Geriatric Use
 
-Clinical studies of mesalamine extended-release capsules did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently than younger subjects.
+Clinical studies of mesalamine extended-release capsules did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently than younger subjects.
 Reports from uncontrolled clinical studies and postmarketing reporting systems suggested a higher incidence of blood dyscrasias (i.e., agranulocytosis, neutropenia and pancytopenia) in patients who were 65 years or older compared to younger patients taking mesalamine-containing products such as mesalamine extended-release capsules.
 Monitor complete blood cell counts and platelet counts in elderly patients during treatment with mesalamine extended-release capsules.
 In general, consider the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy in elderly patients when prescribing mesalamine extended-release capsules [see Use in Specific Populations (8.6)].
@@ -66,4 +66,5 @@ In general, consider the greater frequency of decreased hepatic, renal, or cardi
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on mesalamine extended-release capsules therapy.
-Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions [see Warningsand Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].
+Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions.
+Discontinue mesalamine extended-release capsules if renal function deteriorates while on therapy [see Warningsand Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.2)].

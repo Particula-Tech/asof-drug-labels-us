@@ -55,6 +55,6 @@ Parsippany, NJ 07054
 Patented.
 See https://patents.salix.com/ for US patent information.
 
-© 2021 Bausch Health Companies Inc. or its affiliates
+© 2022 Bausch Health Companies Inc. or its affiliates
 
-9731402 20005003
+9731403 20005208

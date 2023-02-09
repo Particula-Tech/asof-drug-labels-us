@@ -11,3 +11,5 @@ Mesalamine Extended-Release Capsules
 120 Capsules
 
 TEVA
+
+9731301 20003058
