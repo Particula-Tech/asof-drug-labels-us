@@ -96,10 +96,12 @@ Constipation:
 
 Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
-Distr. by: Hikma Pharmaceuticals USA Inc.
+Distributed by:
 
-Eatontown, NJ 07724
+Hikma Pharmaceuticals USA Inc.
 
-C50000748/01
+Berkeley Heights, NJ 07922
 
-Revised April 2020
+C50000748/02
+
+Revised March 2022
