@@ -8,9 +8,10 @@ The drug-placebo differences in the number of cases of suicidal thoughts and beh
 No suicides occurred in any of the pediatric studies.
 There were suicides in the adult studies, but the number was not sufficient to reach any conclusion about antidepressant drug effect on suicide.
 
-| Table 1: Risk Differences of the Number of Cases of Suicidal Thoughts or Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients |  |
-| --- | --- |
+Table 1: Risk Differences of the Number of Cases of Suicidal Thoughts or Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
+
 | Age Range(years) | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
+| --- | --- |
 |  | Increases Compared to Placebo |
 | < 18 | 14 additional patients |
 | 18 to 24 | 5 additional patients |
