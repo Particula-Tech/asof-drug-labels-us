@@ -46,4 +46,4 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in the breast milk.
 Atazanavir can also be passed to the baby in breast milk and it is not known whether it could harm the baby [see Use in Specific Populations (8.2)].
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India Revised: 11/2020
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2023
