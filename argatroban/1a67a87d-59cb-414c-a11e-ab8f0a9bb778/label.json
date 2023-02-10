@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA091665"
+  ],
+  "inn": "argatroban",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "42023-182-89"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "argatroban",
+      "name": "Argatroban"
+    }
+  ],
+  "setid": "1a67a87d-59cb-414c-a11e-ab8f0a9bb778",
+  "source": "dailymed"
+}
