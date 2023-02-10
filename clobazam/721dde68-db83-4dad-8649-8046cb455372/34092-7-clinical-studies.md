@@ -35,7 +35,7 @@ Patients in whom the seizure frequency increased are shown at left as â€œworse.â
 Patients in whom the seizure frequency decreased are shown in five categories.
 
 Figure 2.
-Drop Seizure Response by Category for clobazam and Placebo (Study 1)
+Drop Seizure Response by Category for Clobazam and Placebo (Study 1)
 
 There was no evidence that tolerance to the therapeutic effect of clobazam developed during the 3-month maintenance period.
 

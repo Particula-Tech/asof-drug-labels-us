@@ -4,7 +4,7 @@ Clobazam (KLOE-ba-zam) Tablets, CIV
 
 What is the most important information I should know about clobazam tablets?
 
-- Clobazam tablet is a benzodiazepine medicine.
+- Clobazam tablets are a benzodiazepine medicine.
   Taking benzodiazepines with opioid medicines, alcohol, or other central nervous system (CNS) depressants (including street drugs) can cause severe drowsiness, breathing problems (respiratory depression), coma, and death.
   Get emergency help right away if any of the following happens:
 
@@ -56,7 +56,7 @@ Call your healthcare provider right away if you have any of these symptoms, espe
 | new or worse depression | new or worse anxiety or irritability |
 | feeling agitated or restless | an extreme increase in activity and talking (mania) |
 | trouble sleeping (insomnia) | new or worse panic attacks |
-| acting aggressive, being angry, or violent | acting on dangerous impulses |
+| acting aggressive, being angry or violent | acting on dangerous impulses |
 | other unusual changes in behavior or mood |  |
 
 How can I watch for early symptoms of suicidal thoughts and actions?
@@ -96,20 +96,19 @@ Before you take clobazam tablets, tell your healthcare provider about all your m
   Clobazam tablets may cause your birth control medicine to be less effective.
   Talk to your healthcare provider about the best birth control method to use.
 - are pregnant or plan to become pregnant.
-  Clobazam tablets may harm your unborn baby.
 
-- Tell your healthcare provider right away if you become pregnant while taking clobazam tablets.
-  You and your healthcare provider will decide if you should take clobazam while you are pregnant.
-- Babies born to mothers receiving benzodiazepine medications (including clobazam tablets) late in pregnancy may be at some risk of experiencing breathing problems, feeding problems, dangerously low body temperature, and withdrawal symptoms.
-
+- Taking clobazam tablets late in pregnancy may cause your baby to have symptoms of sedation (breathing problems, sluggishness, low muscle tone), and/or withdrawal symptoms (jitteriness, irritability, restlessness, shaking, excessive crying, feeding problems).
+- Tell your healthcare provider right away if you become pregnant or think you are pregnant while taking clobazam tablets.
 - If you become pregnant while taking clobazam tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can register by calling 1-888-233-2334.
   For more information about the registry go to http://www.aedpregnancyregistry.org.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
-- Clobazam can pass into breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you take clobazam tablets.
-  You and your healthcare provider should decide if you will take clobazam or breastfeed.
-  You should not do both.
+
+- are breastfeeding or plan to breastfeed.
+  Clobazam can pass into breast milk.
+
+- Breastfeeding during treatment with clobazam tablets may cause your baby to have sleepiness, feeding problems, and decreased weight gain.
+- Talk to your healthcare provider about the best way to feed your baby if you take clobazam tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 Taking clobazam tablets with certain other medicines can cause side effects or affect how well clobazam tablets or the other medicines work.
@@ -169,22 +168,14 @@ What are the ingredients in clobazam tablets?
 
 Active ingredient: clobazam
 
-Inactive ingredients: colloidal silicon dioxide, lactose monohydrate, magnesium stearate, maize starch 5%, pregelatinized starch, and talc.
+Inactive ingredients: colloidal silicon dioxide, lactose monohydrate, lactose anhydrous, magnesium stearate, maize starch 5%, pregelatinized starch, and talc.
 
 For more information call 1-855-839-8195.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Manufactured by:
+Manufactured by: Micro Labs Limited Goa- 403 722, INDIA.
 
-Micro Labs Limited
+Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873
 
-Goa- 403 722, INDIA.
-
-Manufactured for:
-
-Micro Labs USA, Inc.
-
-Somerset, NJ 08873
-
-Rev.11/2021
+Rev.02/2023

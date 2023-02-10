@@ -9,6 +9,7 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Somnolence or Sedation [see Warnings and Precautions (5.5)]
 - Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
