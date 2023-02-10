@@ -11,16 +11,12 @@ Other metabolic pathways may be involved.
 
 Manufactured for:
 
-Lifestar Pharma LLC (a Mankind Group Company)
+Lifestar Pharma LLC
 
 1200 MacArthur Blvd.
 
 Mahwah, NJ 07430 USA
 
-Manufactured by:
+Made in India
 
-Mankind Pharma Ltd.
-
-New Delhi, INDIA
-
-Revised: October 2019, V-01
+Revised: August 2021, V-02

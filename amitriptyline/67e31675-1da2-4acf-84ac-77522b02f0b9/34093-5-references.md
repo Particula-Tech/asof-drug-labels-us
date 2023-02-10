@@ -40,16 +40,16 @@ Dis Nerv Syst, (Sect 2) May 1961, pp 5-56.
 
 Manufactured for:
 
-Lifestar Pharma LLC (a Mankind Group Company)
+Lifestar Pharma LLC
 
 1200 MacArthur Blvd.
 
 Mahwah, NJ 07430 USA
 
-Manufactured by:
+Made in India
 
-Mankind Pharma Ltd.
+Revised: August 2021, V-02
 
-New Delhi, INDIA
+Dispense with Medication Guide available at:
 
-Revised: October 2019, V-01
+www.lifestarpharma.com/medguide/amitriptylinehcltablets.pdf

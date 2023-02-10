@@ -8,7 +8,7 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets
 
@@ -22,7 +22,7 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 1000 Tablets
 
@@ -36,7 +36,7 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets
 
@@ -50,7 +50,7 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 1000 Tablets
 
@@ -64,13 +64,13 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-NDC 70756-203-11
+NDC 70756-203-12
 
 Amitriptyline Hydrochloride Tablets, USP
 
@@ -78,7 +78,7 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 1000 Tablets
 
@@ -92,7 +92,7 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets
 
@@ -106,7 +106,7 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets
 
@@ -120,6 +120,6 @@ Amitriptyline Hydrochloride Tablets, USP
 
 Rx Only
 
-PHARMACIST: Dispense the accompanying Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 100 Tablets

@@ -1,3 +1,7 @@
+Dispense with Medication Guide available at:
+
+www.lifestarpharma.com/medguide/amitriptylinehcltablets.pdf
+
 MEDICATION GUIDE
 
 Amitriptyline Hydrochloride Tablets, USP
