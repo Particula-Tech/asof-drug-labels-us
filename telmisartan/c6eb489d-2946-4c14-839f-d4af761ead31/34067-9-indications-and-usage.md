@@ -23,9 +23,9 @@ Telmisartan tablets may be used alone or in combination with other antihypertens
 
 ## 1.2 Cardiovascular Risk Reduction
 
-Telmisartan tablets are indicated for reduction of the risk of myocardial infarction, or death from cardiovascular causes in patients 55 years of age or older at high risk of developing major cardiovascular events who are unable to take ACE inhibitors.
+Telmisartan tablets are indicated for reduction of the risk of myocardial infarction, stroke, or death from cardiovascular causes in patients 55 years of age or older at high risk of developing major cardiovascular events who are unable to take ACE inhibitors.
 
-High risk for cardiovascular events can be evidenced by a history of coronary artery disease, peripheral arterial disease, transient ischemic attack, or high-risk diabetes (insulin-dependent or non-insulin dependent) with evidence of end-organ damage [see Clinical Studies (14.2)].
+High risk for cardiovascular events can be evidenced by a history of coronary artery disease, peripheral arterial disease, stroke, transient ischemic attack, or high-risk diabetes (insulin-dependent or non-insulin dependent) with evidence of end-organ damage [see Clinical Studies (14.2)].
 Telmisartan tablets can be used in addition to other needed treatment (such as antihypertensive, antiplatelet or lipid-lowering therapy) [see Clinical Studies (14.2)].
 
 Studies of telmisartan in this setting do not exclude the possibility that telmisartan may not preserve a meaningful fraction of the effect of the ACE inhibitor to which it was compared.

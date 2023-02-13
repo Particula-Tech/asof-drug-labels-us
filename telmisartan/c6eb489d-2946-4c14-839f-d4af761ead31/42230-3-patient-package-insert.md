@@ -19,7 +19,7 @@ What are telmisartan tablets?
 Telmisartan tablets are a prescription medicine used:
 
 - •to treat high blood pressure (hypertension)
-- •in certain high risk people aged 55 years and older to help lower their risk of having certain cardiovascular problems such as heart attack, or death
+- •in certain high risk people aged 55 years and older to help lower their risk of having certain cardiovascular problems such as stroke, heart attack, or death
 
 It is not known if telmisartan tablets are safe and effective in children.
 
@@ -122,7 +122,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store telmisartan tablets?
 
-- •Store telmisartan tablets between 59°F to 86°F (15°C to 30°C).
+- •Store telmisartan tablets at room temperature between 68°F to 77°F (20°C to 25°C).
 - •Do not remove telmisartan tablets from blisters or bottles until right before you take them.
 
 Keep telmisartan tablets and all medicines out of the reach of children.
@@ -142,7 +142,7 @@ For more information, call Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-711
 
 What are the ingredients in telmisartan tablets?
 
-Active Ingredient: telmisartan
+Active Ingredient: telmisartan, USP
 
 Inactive Ingredients: crospovidone, lactose monohydrate, magnesium stearate, meglumine, povidone and sodium hydroxide pellets
 
@@ -158,7 +158,7 @@ If high blood pressure is not treated, it can lead to stroke, heart attack, hear
 
 What is Cardiovascular Risk?
 
-Patients older than 55 years of age who have been diagnosed with blood vessel disease in the heart, legs, or brain (coronary, peripheral, or cerebral vascular disease) or diabetes with end organ damage (for example: kidney, heart, and brain) are at higher risk of cardiovascular events (for example: death from cardiovascular causes, and/or heart attack).
+Patients older than 55 years of age who have been diagnosed with blood vessel disease in the heart, legs, or brain (coronary, peripheral, or cerebral vascular disease) or diabetes with end organ damage (for example: kidney, heart, and brain) are at higher risk of cardiovascular events (for example: death from cardiovascular causes, stroke, and/or heart attack).
 
 How to open the blister:
 
@@ -183,4 +183,4 @@ Questions?
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-March 2021
+February 2023
