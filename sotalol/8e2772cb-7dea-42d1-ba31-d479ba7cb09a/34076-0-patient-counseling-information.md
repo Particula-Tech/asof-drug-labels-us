@@ -11,14 +11,14 @@
 
 Lactation
 
-- Advise women not to breastfeed while on treatment with sotalol hydrochloride [see Use in Specific Populations (8.2)].
+- Advise women not to breastfeed while on treatment with sotalol hydrochloride tablets [see Use in Specific Populations (8.2)].
 
 Brands listed are the trademarks of their respective owners.
 
 Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
 Opava-Komarov, Czech Republic
 
-Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-N 10/2021
+O 1/2023
