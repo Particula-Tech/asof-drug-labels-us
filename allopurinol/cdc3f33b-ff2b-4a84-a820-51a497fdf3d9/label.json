@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA077353"
+  ],
+  "inn": "allopurinol",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-516-31",
+    "62135-516-90",
+    "62135-517-31",
+    "62135-517-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "allopurinol",
+      "name": "Allopurinol"
+    }
+  ],
+  "setid": "cdc3f33b-ff2b-4a84-a820-51a497fdf3d9",
+  "source": "dailymed"
+}
