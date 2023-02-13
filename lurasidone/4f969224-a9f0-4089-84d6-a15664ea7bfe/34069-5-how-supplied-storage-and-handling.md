@@ -1,0 +1,7 @@
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
+
+Lurasidone hydrochloride tablets are available as follows: 20 mg tablets are white colored, round shaped, biconvex, film-coated tablets, debossed with “20” on one side and “ML” on other side.
+NDC 72205-207-30, bottle of 30 tablets NDC 72205-207-90, bottle of 90 tablets NDC 72205-207-05, bottle of 500 tablets 40 mg tablets are white colored, round shaped, biconvex, film-coated tablets, debossed with “40” on one side and “ML” on other side.
+NDC 72205-208-30, bottle of 30 tablets NDC 72205-208-90, bottle of 90 tablets NDC 72205-208-05, bottle of 500 tablets 60 mg tablets are white colored, oval shaped, biconvex, film-coated tablets, debossed with “60” on one side and “ML” on other side.
+NDC 72205-209-30, bottle of 30 tablets NDC 72205-209-90, bottle of 90 tablets NDC 72205-209-05, bottle of 500 tablets 80 mg tablets are white colored, oval shaped, biconvex, film-coated tablets, debossed with “80” on one side and “ML” on other side.
+NDC 72205-210-30, bottle of 30 tablets NDC 72205-210-90, bottle of 90 tablets NDC 72205-210-05, bottle of 500 tablets 120 mg tablets are white colored, oval shaped, biconvex, film-coated tablets, debossed with “120” on one side and “ML” on other side NDC 72205-211-30, bottle of 30 tablets NDC 72205-211-90, bottle of 90 tablets NDC 72205-211-05, bottle of 500 tablets Storage Store lurasidone hydrochloride tablets at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].

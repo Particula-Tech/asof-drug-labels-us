@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA208037"
+  ],
+  "inn": "lurasidone",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-207-05",
+    "72205-207-30",
+    "72205-207-90",
+    "72205-208-05",
+    "72205-208-30",
+    "72205-208-90",
+    "72205-209-05",
+    "72205-209-30",
+    "72205-209-90",
+    "72205-210-05",
+    "72205-210-30",
+    "72205-210-90",
+    "72205-211-05",
+    "72205-211-30",
+    "72205-211-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lurasidone hydrochloride",
+      "name": "lurasidone hydrochloride"
+    }
+  ],
+  "setid": "4f969224-a9f0-4089-84d6-a15664ea7bfe",
+  "source": "dailymed"
+}
