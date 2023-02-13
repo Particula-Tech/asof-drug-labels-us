@@ -58,7 +58,7 @@ See Figure G
 
 Figure G
 
-Measure the mLs of medicine from the white layer at the end of the plunger, not the black layer.
+Measure the mLs of medicine from the end of the plunger.
 See Figure H
 
 Figure H
@@ -107,3 +107,6 @@ Store the bottle upright at 59°F to 86°F (15°C to 30°C).
 See Figure K
 
 Figure K
+
+This Instructions for Use has been approved by the U. S. Food and Drug Administration.
+Revised: 12/2022
