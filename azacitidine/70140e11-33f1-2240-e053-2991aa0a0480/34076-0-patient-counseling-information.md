@@ -40,17 +40,15 @@ Manufactured By:
 
 Intas Pharmaceuticals Limited,
 
-Plot No. 5 to 14 Pharmez,
+Plot No. 5 to 14, Pharmez, Sarkhej-Bavla,
+
+National Highway No. 8-A,
 
 Nr.
-Village Matoda, Bavla Road,
+Village Matoda, Tal Sanand,
 
-Ta.-Sanand, Dist.
+Ahmedabad-382 213, Gujarat, India.
 
-Ahmedabad-382 213,
+51 3597 3 731218
 
-India.
-
-51 3597 2 730747
-
-Issued: August 2022
+Issued: November 2022

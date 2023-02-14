@@ -128,3 +128,8 @@ Effect of Azacitidine on RBC Transfusions in Patients with MDS
 | Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 10/68 (14.7%) | 28/65 (43.1%) |
 | (95% CI: 7.3%, 25.4%) | (95% CI: 30.9%, 56.0%) |  |
 | 1A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |
+
+## 14.2
+
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

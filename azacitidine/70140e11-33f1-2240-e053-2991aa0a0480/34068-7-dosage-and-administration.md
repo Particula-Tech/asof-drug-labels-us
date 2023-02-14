@@ -22,9 +22,14 @@ Treatment may be continued as long as the patient continues to benefit.
 
 Monitor patients for hematologic response and renal toxicities [see Warnings and Precautions (5.4)], and delay or reduce dosage if necessary [see Dosage and Administration (2.6)].
 
+## 2.4
+
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 2.5 Dosage Adjustment Based on Hematology Laboratory Values
 
-- For Adult patients with baseline (start of treatment) WBC greater than or equal to 3 x10 9/L, ANC greater than or equal to 1.5 x10 9/L, and platelets greater than or equal to 75 x10 9/L, adjust the dose as follows, based on nadir counts for any given cycle:
+- For adult patients with baseline (start of treatment) WBC greater than or equal to 3 x10 9/L, ANC greater than or equal to 1.5 x10 9/L, and platelets greater than or equal to 75 x10 9/L, adjust the dose as follows, based on nadir counts for any given cycle:
 
 | Nadir Counts |  | % Dose in the Next Course |
 | --- | --- | --- |
@@ -42,6 +47,9 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 If a nadir as defined in the table above has occurred, give the next course 28 days after the start of the preceding course, provided that both the WBC and the platelet counts are greater than 25% above the nadir and rising.
 If a greater than 25% increase above the nadir is not seen by day 28, reassess counts every 7 days.
 If a 25% increase is not seen by day 42, reduce the scheduled dose by 50%.
+
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.6 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
@@ -131,3 +139,6 @@ Administer the total dose over a period of 10 - 40 minutes.
 The administration must be completed within 1 hour of reconstitution of the Azacitidine for injection vial.
 
 Solution Stability: Azacitidine for injection reconstituted and diluted for intravenous administration may be stored at 25°C (77°F), but administration must be completed within 1 hour of reconstitution.
+
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

@@ -205,6 +205,9 @@ Surgical and medical procedures: cholecystectomy.
 
 Vascular disorders: orthostatic hypotension.
 
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during postmarketing use of Azacitidine for injection.
@@ -216,3 +219,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Sweet’s syndrome (acute febrile neutrophilic dermatosis)
 - Necrotizing fasciitis (including fatal cases)
 - Differentiation syndrome
+- Pericardial effusion
+- Pericarditis

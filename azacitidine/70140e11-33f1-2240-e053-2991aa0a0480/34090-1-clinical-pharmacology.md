@@ -9,6 +9,11 @@ Hypomethylation may restore normal function to genes that are critical for diffe
 The cytotoxic effects of azacitidine cause the death of rapidly dividing cells, including cancer cells that are no longer responsive to normal growth control mechanisms.
 Non-proliferating cells are relatively insensitive to azacitidine.
 
+## 12.2 Pharmacodynamics
+
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of azacitidine were studied in 6 adult patients with MDS following a single 75 mg/m 2 subcutaneous dose and a single 75 mg/m 2 intravenous dose.
@@ -43,8 +48,8 @@ Specific Populations
 
 The effects of hepatic impairment, gender, or race/ethnicity on the pharmacokinetics of intravenous and subcutaneous azacitidine have not been studied.
 
-Population PK analysis of 6 adults patients did not identify any clinically meaningful differences in the pharmacokinetics of intravenous azacitidine according to sex (62.5% male), and tumor type (MDS, AML).
-Increased clearance was associated with increased baseline body weight (4.6 to 102 kg).
+Pediatric Patients Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 Patients with Renal Impairment
 
