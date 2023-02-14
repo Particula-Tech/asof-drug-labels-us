@@ -41,7 +41,7 @@ Patients should be observed for signs of bradycardia or heart block, particularl
 ## 7.7 Calcium Channel Blockers
 
 Conduction disturbance (rarely with hemodynamic compromise) has been observed when COREG CR is coadministered with diltiazem.
-As with other ‑blockers, if COREG CR is administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
+As with other β‑blockers, if COREG CR is administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored.
 
 ## 7.8 Insulin or Oral Hypoglycemics
 
