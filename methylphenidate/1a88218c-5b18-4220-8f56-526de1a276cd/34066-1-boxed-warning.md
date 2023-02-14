@@ -1,12 +1,12 @@
 # WARNING: DRUG DEPENDENCE
 
-CONCERTA® should be given cautiously to patients with a history of drug dependence or alcoholism.
+CONCERTA ® should be given cautiously to patients with a history of drug dependence or alcoholism.
 Chronic abusive use can lead to marked tolerance and psychological dependence with varying degrees of abnormal behavior.
 Frank psychotic episodes can occur, especially with parenteral abuse.
 Careful supervision is required during withdrawal from abusive use since severe depression may occur.
 Withdrawal following chronic therapeutic use may unmask symptoms of the underlying disorder that may require follow-up.
 
-What is the most important information I should know about CONCERTA®?
+What is the most important information I should know about CONCERTA ®?
 
 The following have been reported with use of methylphenidate HCl and other stimulant medicines:
 
@@ -19,11 +19,11 @@ Heart-related problems:
 
 Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.
 
-Your doctor should check you or your child carefully for heart problems before starting CONCERTA®.
+Your doctor should check you or your child carefully for heart problems before starting CONCERTA ®.
 
-Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with CONCERTA®.
+Your doctor should check your or your child's blood pressure and heart rate regularly during treatment with CONCERTA ®.
 
-Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking CONCERTA®.
+Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking CONCERTA ®.
 
 2.
 Mental (Psychiatric) problems:
@@ -40,10 +40,10 @@ Children and Teenagers
 
 Tell your doctor about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression.
 
-Call your doctor right away if you or your child has any new or worsening mental symptoms or problems while taking CONCERTA®, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
+Call your doctor right away if you or your child has any new or worsening mental symptoms or problems while taking CONCERTA ®, especially seeing or hearing things that are not real, believing things that are not real, or are suspicious.
 
-CONCERTA® is a federally controlled substance (CII) because it can be abused or lead to dependence.
-Keep CONCERTA® in a safe place to prevent misuse and abuse.
-Selling or giving away CONCERTA® may harm others, and is against the law.
+CONCERTA ® is a federally controlled substance (CII) because it can be abused or lead to dependence.
+Keep CONCERTA ® in a safe place to prevent misuse and abuse.
+Selling or giving away CONCERTA ® may harm others, and is against the law.
 
 Tell your doctor if you or your child has (or has a family history of) ever abused or been dependent on alcohol, prescription medicines, or street drugs.

@@ -2,16 +2,16 @@
 
 ## 2.1 General Dosing Information
 
-CONCERTA® should be administered orally once daily in the morning with or without food.
+CONCERTA ® should be administered orally once daily in the morning with or without food.
 
-CONCERTA® must be swallowed whole with the aid of liquids, and must not be chewed, divided, or crushed [see Patient Counseling Information (17)].
+CONCERTA ® must be swallowed whole with the aid of liquids, and must not be chewed, divided, or crushed [see Patient Counseling Information (17)].
 
 ## 2.2 Patients New to Methylphenidate
 
-The recommended starting dose of CONCERTA® for patients who are not currently taking methylphenidate or stimulants other than methylphenidate is 18 mg once daily for children and adolescents and 18 or 36 mg once daily for adults (see Table 1).
+The recommended starting dose of CONCERTA ® for patients who are not currently taking methylphenidate or stimulants other than methylphenidate is 18 mg once daily for children and adolescents and 18 or 36 mg once daily for adults (see Table 1).
 
 Table 1.
-CONCERTA® Recommended Starting Doses and Dose Ranges
+CONCERTA ® Recommended Starting Doses and Dose Ranges
 
 | Patient Age | Recommended Starting Dose | Dose Range |
 | --- | --- | --- |
@@ -21,14 +21,14 @@ CONCERTA® Recommended Starting Doses and Dose Ranges
 
 ## 2.3 Patients Currently Using Methylphenidate
 
-The recommended dose of CONCERTA® for patients who are currently taking methylphenidate twice daily or three times daily at doses of 10 to 60 mg/day is provided in Table 2.
+The recommended dose of CONCERTA ® for patients who are currently taking methylphenidate twice daily or three times daily at doses of 10 to 60 mg/day is provided in Table 2.
 Dosing recommendations are based on current dose regimen and clinical judgment.
 Conversion dosage should not exceed 72 mg daily.
 
 Table 2.
-Recommended Dose Conversion from Methylphenidate Regimens to CONCERTA®
+Recommended Dose Conversion from Methylphenidate Regimens to CONCERTA ®
 
-| Previous Methylphenidate Daily Dose | Recommended CONCERTA® Starting Dose |
+| Previous Methylphenidate Daily Dose | Recommended CONCERTA ® Starting Dose |
 | --- | --- |
 | 5 mg Methylphenidate twice daily or three times daily | 18 mg every morning |
 | 10 mg Methylphenidate twice daily or three times daily | 36 mg every morning |
@@ -47,11 +47,11 @@ A 27 mg dosage strength is available for physicians who wish to prescribe betwee
 
 ## 2.5 Maintenance/Extended Treatment
 
-There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with CONCERTA®.
+There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with CONCERTA ®.
 It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
 
-The effectiveness of CONCERTA® for long-term use, i.e., for more than 7 weeks, has not been systematically evaluated in controlled trials.
-The physician who elects to use CONCERTA® for extended periods in patients with ADHD should periodically re-evaluate the long-term usefulness of the drug for the individual patient with trials off medication to assess the patient's functioning without pharmacotherapy.
+The effectiveness of CONCERTA ® for long-term use, i.e., for more than 7 weeks, has not been systematically evaluated in controlled trials.
+The physician who elects to use CONCERTA ® for extended periods in patients with ADHD should periodically re-evaluate the long-term usefulness of the drug for the individual patient with trials off medication to assess the patient's functioning without pharmacotherapy.
 Improvement may be sustained when the drug is either temporarily or permanently discontinued.
 
 ## 2.6 Dose Reduction and Discontinuation

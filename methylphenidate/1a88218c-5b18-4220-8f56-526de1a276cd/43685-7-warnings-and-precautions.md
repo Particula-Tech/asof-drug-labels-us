@@ -55,14 +55,14 @@ In the presence of seizures, the drug should be discontinued.
 
 ## 5.4 Priapism
 
-Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products, including CONCERTA®, in both pediatric and adult patients [see Adverse Reactions (6.6)].
+Prolonged and painful erections, sometimes requiring surgical intervention, have been reported with methylphenidate products, including CONCERTA ®, in both pediatric and adult patients [see Adverse Reactions (6.6)].
 Priapism was not reported with drug initiation but developed after some time on the drug, often subsequent to an increase in dose.
 Priapism has also appeared during a period of drug withdrawal (drug holidays or during discontinuation).
 Patients who develop abnormally sustained or frequent and painful erections should seek immediate medical attention.
 
 ## 5.5 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
-Stimulants, including CONCERTA®, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
+Stimulants, including CONCERTA ®, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
 Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports at different times and at therapeutic doses in all age groups throughout the course of treatment.
 Signs and symptoms generally improve after reduction in dose or discontinuation of drug.
@@ -81,9 +81,9 @@ Difficulties with accommodation and blurring of vision have been reported with s
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
-Because the CONCERTA® tablet is nondeformable and does not appreciably change in shape in the GI tract, CONCERTA® should not ordinarily be administered to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel's diverticulum).
+Because the CONCERTA ® tablet is nondeformable and does not appreciably change in shape in the GI tract, CONCERTA ® should not ordinarily be administered to patients with preexisting severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel's diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in nondeformable controlled-release formulations.
-Due to the controlled-release design of the tablet, CONCERTA® should be used only in patients who are able to swallow the tablet whole [see Patient Counseling Information (17)].
+Due to the controlled-release design of the tablet, CONCERTA ® should be used only in patients who are able to swallow the tablet whole [see Patient Counseling Information (17)].
 
 ## 5.9 Hematologic Monitoring
 

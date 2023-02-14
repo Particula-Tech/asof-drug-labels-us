@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-CONCERTA® is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in children 6 years of age and older, adolescents, and adults up to the age of 65 [see Clinical Studies (14)].
+CONCERTA ® is indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD) in children 6 years of age and older, adolescents, and adults up to the age of 65 [see Clinical Studies (14)].
 
 A diagnosis of Attention Deficit Hyperactivity Disorder (ADHD; DSM-IV) implies the presence of hyperactive-impulsive or inattentive symptoms that caused impairment and were present before age 7 years.
 The symptoms must cause clinically significant impairment, e.g., in social, academic, or occupational functioning, and be present in two or more settings, e.g., school (or work) and at home.
@@ -18,7 +18,7 @@ The diagnosis must be based upon a complete history and evaluation of the patien
 
 ## 1.2 Need for Comprehensive Treatment Program
 
-CONCERTA® is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social).
+CONCERTA ® is indicated as an integral part of a total treatment program for ADHD that may include other measures (psychological, educational, social).
 Drug treatment may not be indicated for all patients with ADHD.
 Stimulants are not intended for use in patients who exhibit symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.

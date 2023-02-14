@@ -5,12 +5,12 @@
 Carcinogenesis
 
 In a lifetime carcinogenicity study carried out in B6C3F1 mice, methylphenidate caused an increase in hepatocellular adenomas and, in males only, an increase in hepatoblastomas at a daily dose of approximately 60 mg/kg/day.
-This dose is approximately 30 times and 4 times the maximum recommended human dose of CONCERTA® on a mg/kg and mg/m2 basis, respectively.
+This dose is approximately 30 times and 4 times the maximum recommended human dose of CONCERTA ® on a mg/kg and mg/m 2 basis, respectively.
 Hepatoblastoma is a relatively rare rodent malignant tumor type.
 There was no increase in total malignant hepatic tumors.
 The mouse strain used is sensitive to the development of hepatic tumors, and the significance of these results to humans is unknown.
 
-Methylphenidate did not cause any increases in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 22 times and 5 times the maximum recommended human dose of CONCERTA® on a mg/kg and mg/m2 basis, respectively.
+Methylphenidate did not cause any increases in tumors in a lifetime carcinogenicity study carried out in F344 rats; the highest dose used was approximately 45 mg/kg/day, which is approximately 22 times and 5 times the maximum recommended human dose of CONCERTA ® on a mg/kg and mg/m 2 basis, respectively.
 
 In a 24-week carcinogenicity study in the transgenic mouse strain p53+/-, which is sensitive to genotoxic carcinogens, there was no evidence of carcinogenicity.
 Male and female mice were fed diets containing the same concentration of methylphenidate as in the lifetime carcinogenicity study; the high-dose groups were exposed to 60 to 74 mg/kg/day of methylphenidate.
@@ -24,4 +24,4 @@ Methylphenidate was negative in vivo in males and females in the mouse bone marr
 Impairment of Fertility
 
 Methylphenidate did not impair fertility in male or female mice that were fed diets containing the drug in an 18-week Continuous Breeding study.
-The study was conducted at doses up to 160 mg/kg/day, approximately 80-fold and 8-fold the highest recommended human dose of CONCERTA® on a mg/kg and mg/m2 basis, respectively.
+The study was conducted at doses up to 160 mg/kg/day, approximately 80-fold and 8-fold the highest recommended human dose of CONCERTA ® on a mg/kg and mg/m 2 basis, respectively.

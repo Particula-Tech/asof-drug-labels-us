@@ -2,11 +2,11 @@
 
 ## 7.1 MAO Inhibitors
 
-CONCERTA® should not be used in patients being treated (currently or within the preceding 2 weeks) with MAO inhibitors [see Contraindications (4.5)].
+CONCERTA ® should not be used in patients being treated (currently or within the preceding 2 weeks) with MAO inhibitors [see Contraindications (4.5)].
 
 ## 7.2 Vasopressor Agents
 
-Because of possible increases in blood pressure, CONCERTA® should be used cautiously with vasopressor agents [see Warnings and Precautions (5.1)].
+Because of possible increases in blood pressure, CONCERTA ® should be used cautiously with vasopressor agents [see Warnings and Precautions (5.1)].
 
 ## 7.3 Coumarin Anticoagulants, Antidepressants, and Selective Serotonin Reuptake Inhibitors
 

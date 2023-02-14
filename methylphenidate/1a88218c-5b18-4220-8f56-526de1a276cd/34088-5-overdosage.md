@@ -2,7 +2,7 @@
 
 ## 10.1 Signs and Symptoms
 
-Signs and symptoms of CONCERTA® overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, muscle twitching, convulsion, grand mal convulsion, confusional state, hallucinations (auditory and/or visual), hyperhidrosis, headache, pyrexia, tachycardia, palpitations, heart rate increased, sinus arrhythmia, hypertension, rhabdomyolysis, mydriasis, and dry mouth.
+Signs and symptoms of CONCERTA ® overdosage, resulting principally from overstimulation of the CNS and from excessive sympathomimetic effects, may include the following: vomiting, agitation, muscle twitching, convulsion, grand mal convulsion, confusional state, hallucinations (auditory and/or visual), hyperhidrosis, headache, pyrexia, tachycardia, palpitations, heart rate increased, sinus arrhythmia, hypertension, rhabdomyolysis, mydriasis, and dry mouth.
 
 ## 10.2 Recommended Treatment
 
@@ -13,9 +13,9 @@ Before performing gastric lavage, control agitation and seizures if present and 
 Other measures to detoxify the gut include administration of activated charcoal and a cathartic.
 Intensive care must be provided to maintain adequate circulation and respiratory exchange; external cooling procedures may be required for pyrexia.
 
-Efficacy of peritoneal dialysis or extracorporeal hemodialysis for CONCERTA® overdosage has not been established.
+Efficacy of peritoneal dialysis or extracorporeal hemodialysis for CONCERTA ® overdosage has not been established.
 
-The prolonged release of methylphenidate from CONCERTA® should be considered when treating patients with overdose.
+The prolonged release of methylphenidate from CONCERTA ® should be considered when treating patients with overdose.
 
 ## 10.3 Poison Control Center
 
