@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202605"
+  ],
+  "inn": "acetaminophen",
+  "labeler": "Solupharm Pharmazeutische Erzeugnisse GmbH",
+  "package_ndcs": [
+    "55579-110-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "acetaminophen",
+      "name": "Acetaminophen"
+    }
+  ],
+  "setid": "adeebc6c-c82f-40dc-b813-1b02244984ce",
+  "source": "dailymed"
+}
