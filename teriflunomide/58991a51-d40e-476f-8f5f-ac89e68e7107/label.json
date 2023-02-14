@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA209668"
+  ],
+  "inn": "teriflunomide",
+  "labeler": "Cadila Healthcare Limited",
+  "package_ndcs": [
+    "70771-1010-3",
+    "70771-1010-7",
+    "70771-1010-8",
+    "70771-1011-3",
+    "70771-1011-7",
+    "70771-1011-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "teriflunomide",
+      "name": "Teriflunomide"
+    }
+  ],
+  "setid": "58991a51-d40e-476f-8f5f-ac89e68e7107",
+  "source": "dailymed"
+}
