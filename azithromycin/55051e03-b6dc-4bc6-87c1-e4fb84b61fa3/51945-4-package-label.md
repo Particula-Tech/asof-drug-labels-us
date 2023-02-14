@@ -1,25 +1,23 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Carton Label: NDC 68083-199-10 10 Single Dose Vials AZITHROMYCIN
+Carton Label
 
-for Injection, USP Equivalent to
+NDC 68083-199-10 Rx only Azithromycin for Injection, USP 500 mg/vial
 
-500 mg*/vial
+For Intravenous Infusion Only
 
-azithromycin
+Equivalent to 500 mg/vial of azithromycin To yield 100 mg/mL* of solution when reconstituted as directed
 
-FOR INTRAVENOUS INFUSION ONLY
+Sterile 10 Single-Dose Vials
 
-Sterile, Rx Only Vial Label: NDC 68083-199-01
+Container Label
 
-Single Dose Vial AZITHROMYCIN
+NDC 68083-199-01
 
-for Injection, USP Equivalent to
+Single-Dose Vial Azithromycin for Injection, USP 500 mg/vial
 
-500 mg*/vial
+For Intravenous Infusion Only
 
-azithromycin
+Equivalent to 500 mg/vial of azithromycin
 
-FOR IV INFUSION ONLY
-
-Sterile Rx Only
+Sterile Rx only

@@ -17,10 +17,10 @@ Animal Data Reproductive and developmental toxicology studies have not been cond
 Azithromycin administered during the period of organogenesis did not cause fetal malformations in rats and mice at oral doses up to 200 mg/kg/day (moderately maternally toxic).
 Based on body surface area, this dose is approximately 4 (rats) and 2 (mice) times an adult human daily dose of 500 mg.
 In rabbits administered azithromycin at oral doses of 10, 20, and 40 mg/kg/day during organogenesis, reduced maternal body weight and food consumption were observed in all groups; no evidence of fetotoxicity or teratogenicity was observed at these doses, the highest of which is estimated to be 2 times an adult human daily dose of 500 mg based on body surface area.
-In a pre- and post-natal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day.
+In a pre- and postnatal development study, azithromycin was administered orally to pregnant rats from day 6 of pregnancy until weaning at doses of 50 or 200 mg/kg/day.
 Maternal toxicity (reduced food consumption and body weight gain; increased stress at parturition) was observed at the higher dose.
-Effects in the offspring were noted at 200 mg/kg/day during the post-natal development period (decreased viability, delayed developmental landmarks).
-These effects were not observed in a pre- and post-natal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
+Effects in the offspring were noted at 200 mg/kg/day during the postnatal development period (decreased viability, delayed developmental landmarks).
+These effects were not observed in a pre- and postnatal rat study when up to 200 mg/kg/day of azithromycin was given orally beginning on day 15 of pregnancy until weaning.
 
 ## 8.2 Lactation
 

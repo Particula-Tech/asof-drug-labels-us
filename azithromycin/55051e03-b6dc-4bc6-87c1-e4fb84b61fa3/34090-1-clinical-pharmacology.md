@@ -92,8 +92,10 @@ Drug Interaction Studies
 
 Drug interaction studies were performed with oral azithromycin and other drugs likely to be co-administered.
 The effects of co-administration of azithromycin on the pharmacokinetics of other drugs are shown in Table 1 and the effects of other drugs on the pharmacokinetics of azithromycin are shown in Table 2.
+
 Co-administration of azithromycin at therapeutic doses had a modest effect on the pharmacokinetics of the drugs listed in Table 1.
 No dosage adjustment of drugs listed in Table 1 is recommended when co-administered with azithromycin.
+
 Co-administration of azithromycin with efavirenz or fluconazole had a modest effect on the pharmacokinetics of azithromycin.
 Nelfinavir significantly increased the Cmax and AUC of azithromycin.
 No dosage adjustment of azithromycin is recommended when administered with drugs listed in Table 2 [see Drug Interactions (7.3)].
@@ -101,37 +103,37 @@ No dosage adjustment of azithromycin is recommended when administered with drugs
 Table 1.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin
 
-| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio(with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
+| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio(with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
 | --- | --- | --- | --- | --- | --- |
-| Mean C max | Mean AUC |  |  |  |  |
+| Mean Cmax | Mean AUC |  |  |  |  |
 | Atorvastatin | 10 mg/day for 8 days | 500 mg/day orally on days 6 to 8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
 | Carbamazepine | 200 mg/day for 2 days, then 200 mg twice a day for 18 days | 500 mg/day orally for days 16 to 18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
 | Cetirizine | 20 mg/day for 11 days | 500 mg orally on day 7, then 250 mg/day on days 8 to 11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
 | Didanosine | 200 mg orally twice a day for 21 days | 1,200 mg/day orally on days 8 to 21 | 6 | 1.44 (0.85 to 2.43) | 1.14 (0.83 to 1.57) |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.04* | 0.95* |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 1.04 (0.98 to 1.11) | 1.01 (0.97 to 1.05) |
-| Indinavir | 800 mg three times a day for 5 days | 1,200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.90 (0.81 to 1.00) |
+| Indinavir | 800 mg three times a day for 5 days | 1,200 mg orally on day 5 | 18 | 0.96 (0.86 to 1.08) | 0.9 (0.81 to 1) |
 | Midazolam | 15 mg orally on day 3 | 500 mg/day orally for 3 days | 12 | 1.27 (0.89 to 1.81) | 1.26 (1.01 to 1.56) |
-| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 0.90 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
+| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 0.9 (0.81 to 1.01) | 0.85 (0.78 to 0.93) |
 | Sildenafil | 100 mg on days 1 and 4 | 500 mg/day orally for 3 days | 12 | 1.16 (0.86 to 1.57) | 0.92 (0.75 to 1.12) |
-| Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8 to 11 | 10 | 1.19 (1.02 to 1.40) | 1.02 (0.86 to 1.22) |
+| Theophylline | 4 mg/kg IV on days 1, 11, 25 | 500 mg orally on day 7, 250 mg/day on days 8 to 11 | 10 | 1.19 (1.02 to 1.4) | 1.02 (0.86 to 1.22) |
 | Theophylline | 300 mg orally BID × 15 days | 500 mg orally on day 6, then 250 mg/day on days 7 to 10 | 8 | 1.09 (0.92 to 1.29) | 1.08 (0.89 to 1.31) |
 | Triazolam | 0.125 mg on day 2 | 500 mg orally on day 1, then 250 mg/day on day 2 | 12 | 1.06* | 1.02* |
-| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.90 (0.78 to 1.03) | 0.87 (0.80 to 0.95/ 0.96 (0.88 to 1.03) |
-| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.70) |
-| Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.30 (0.69 to 2.43) |
+| Trimethoprim/ Sulfamethoxazole | 160 mg/800 mg/day orally for 7 days | 1,200 mg orally on day 7 | 12 | 0.85 (0.75 to 0.97)/ 0.9 (0.78 to 1.03) | 0.87 (0.8 to 0.95)/ 0.96 (0.88 to 1.03) |
+| Zidovudine | 500 mg/day orally for 21 days | 600 mg/day orally for 14 days | 5 | 1.12 (0.42 to 3.02) | 0.94 (0.52 to 1.7) |
+| Zidovudine | 500 mg/day orally for 21 days | 1,200 mg/day orally for 14 days | 4 | 1.31 (0.43 to 3.97) | 1.3 (0.69 to 2.43) |
 
 * - 90% Confidence interval not reported
 
 Table 2.
 Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs [see Drug Interactions (7.3)].
 
-| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1.00 |  |
+| Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Mean C max | Mean AUC |  |  |  |
+|  | Mean Cmax | Mean AUC |  |  |  |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22 (1.04 to 1.42) | 0.92* |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 0.82 (0.66 to 1.02) | 1.07 (0.94 to 1.22) |
-| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.50) |
+| Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.5) |
 
 * - 90% Confidence interval not reported
 
@@ -176,6 +178,7 @@ Mycoplasma hominis
 Mycoplasma pneumoniae The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for azithromycin against isolates of similar genus or organism group.
 However, the efficacy of azithromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
+
 Aerobic Gram-Positive Bacteria
 
 Streptococci (Groups C, F, G)

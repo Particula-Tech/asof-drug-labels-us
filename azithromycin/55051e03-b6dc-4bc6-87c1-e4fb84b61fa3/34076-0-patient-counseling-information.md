@@ -7,4 +7,4 @@ If this occurs, patients should notify their physician as soon as possible.
 
 Manufactured by: Gland Pharma Limited D.P.
 Pally, Dundigal post, Hyderabad-500 043, India.
-Revised: December 2021
+Revised: December 2022
