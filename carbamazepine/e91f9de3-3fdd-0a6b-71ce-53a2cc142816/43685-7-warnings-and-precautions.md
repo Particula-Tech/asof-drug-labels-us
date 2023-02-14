@@ -311,7 +311,7 @@ Concomitant administration of carbamazepine and lithium may increase the risk of
 Given the anticonvulsant properties of carbamazepine, carbamazepine extended-release capsules may reduce the thyroid function as has been reported with other anticonvulsants.
 Additionally, anti-malarial drugs, such as chloroquine and mefloquine, may antagonize the activity of carbamazepine.
 
-Thus if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with carbamazepine extended-release capsules, it is reasonable to expect that a dose adjustment may be necessary.
+Thus, if a patient has been titrated to a stable dosage on one of the agents in this category, and then begins a course of treatment with carbamazepine extended-release capsules, it is reasonable to expect that a dose adjustment may be necessary.
 
 Because of its primary CNS effect, caution should be used when carbamazepine extended-release capsules is taken with other centrally acting drugs and alcohol.
 

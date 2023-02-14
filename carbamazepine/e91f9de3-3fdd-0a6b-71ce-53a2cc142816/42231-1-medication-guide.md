@@ -2,7 +2,7 @@ Medication Guide Carbamazepine Extended-Release Capsules
 
 (kar” ba maz’ e peen)
 
-Medication Guide available at www1.apotex.com/products/us
+Medication Guide available at https://www.apotex.com/products/us/mg.asp
 
 Read this Medication Guide before you start taking carbamazepine extended-release capsules and each time you get a refill.
 There may be new information.
@@ -232,7 +232,7 @@ APOTEX INC. CARBAMAZEPINE EXTENDED-RELEASE CAPSULES 100 mg, 200 mg and 300 mg
 | Manufactured by: Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for: Apotex Corp. Weston, Florida USA 33326 |
 | --- | --- |
 
-Revised: January 2022
+Revised: January 2023
 
 Rev.
-9
+10

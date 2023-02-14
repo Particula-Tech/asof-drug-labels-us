@@ -9,4 +9,4 @@ Carbamazepine extended-release capsules are a multi-component capsule formulatio
 
 Inactive ingredients: colloidal silicon dioxide, ethylcellulose, and stearic acid.
 
-The 100 mg, 200 mg and 300 mg capsule shells contain FD&C Blue #2, gelatin, iron oxide yellow, titanium dioxide and are imprinted with black ink (S-1-8114 andS-1-8115) contain FD&C BLUE #2, FD&C RED #40, FD&C BLUE #1, D&C YELLOW #10 and shellac.
+The 100 mg, 200 mg and 300 mg capsule shells contain FD&C Blue #2, gelatin, iron oxide yellow, titanium dioxide and are imprinted with black ink (S-1-8114 and S-1-8115) contain FD&C BLUE #2, FD&C RED #40, FD&C BLUE #1, D&C YELLOW #10 and shellac.
