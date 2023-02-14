@@ -77,8 +77,8 @@ Distributed by
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
-©2022 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
-LMT:25PI
+LMT:26PI

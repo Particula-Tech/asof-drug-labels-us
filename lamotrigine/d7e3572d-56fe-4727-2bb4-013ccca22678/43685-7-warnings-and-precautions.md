@@ -158,7 +158,7 @@ During the premarketing development of LAMICTAL, 20 sudden and unexplained death
 
 Some of these could represent seizure-related deaths in which the seizure was not observed, e.g., at night.
 This represents an incidence of 0.0035 deaths per patient-year.
-Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in epilepsy (SUDEP) in patients not receiving LAMICTAL (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for LAMICTAL, to 0.005 for patients with refractory epilepsy).
+Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of SUDEP in patients not receiving LAMICTAL (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for LAMICTAL, to 0.005 for patients with refractory epilepsy).
 Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon with the cohort receiving LAMICTAL and the accuracy of the estimates provided.
 Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving LAMICTAL and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
 This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
