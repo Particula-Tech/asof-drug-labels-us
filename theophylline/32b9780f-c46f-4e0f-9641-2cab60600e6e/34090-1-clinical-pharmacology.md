@@ -29,44 +29,42 @@ Within-subject variability in metabolism has also been reported in some studies,
 It is, therefore, recommended that serum theophylline concentrations be measured frequently in acutely ill patients (e.g., at 24-hour intervals) and periodically in patients receiving long-term therapy, e.g., at 6-12 month intervals.
 More frequent measurements should be made in the presence of any condition that may significantly alter theophylline clearance (see PRECAUTIONS, Laboratory tests).
 
-Table I. Mean and range of total body clearance and half-life of theophylline related to age and altered physiological states.
-For various North American patient populations from literature reports.
-Different rates of elimination and consequent dosage requirements have been observed among other peoples.
+Table I. Mean and range of total body clearance and half-life of theophylline related to age and altered physiological states.¶
 
-| Population characteristics | Total body clearance Clearance represents the volume of blood completely cleared of theophylline by the liver in one minute. Values listed were generally determined at serum theophylline concentrations <20 mcg/mL; clearance may decrease and half-life may increase at higher serum concentrations due to non-linear pharmacokinetics. mean (range) Reported range or estimated range (mean ±2 SD) where actual range not reported. (mL/kg/min) | Half-life mean (range) (hr) |
+| Population characteristics | Total body clearance * mean (range) †† (mL/kg/min) | Half-life mean (range) †† (hr) |
 | --- | --- | --- |
 | Age |  |  |
 | Premature neonates |  |  |
 | postnatal age 3-15 days | 0.29 (0.09-0.49) | 30 (17-43) |
 | postnatal age 25-57 days | 0.64 (0.04-1.2) | 20 (9.4-30.6) |
 | Term infants |  |  |
-| postnatal age 1-2 days | NR NR = not reported or not reported in a comparable format. | 25.7 (25-26.5) |
-| postnatal age 3-30 weeks | NR | 11 (6-29) |
+| postnatal age 1-2 days | NR† | 25.7 (25-26.5) |
+| postnatal age 3-30 weeks | NR† | 11 (6-29) |
 | Children |  |  |
 | 1-4 years | 1.7 (0.5-2.9) | 3.4 (1.2-5.6) |
-| 4-12 years | 1.6 (0.8-2.4) | NR |
-| 13-15 years | 0.9 (0.48-1.3) | NR |
+| 4-12 years | 1.6 (0.8-2.4) | NR† |
+| 13-15 years | 0.9 (0.48-1.3) | NR† |
 | 16-17 years | 1.4 (0.2-2.6) | 3.7 (1.5-5.9) |
 | Adults (16-60 years) |  |  |
 | otherwise healthy non-smoking asthmatics | 0.65 (0.27-1.03) | 8.7 (6.1-12.8) |
 | Elderly (>60 years) |  |  |
 | non-smokers with normal cardiac, liver, and renal function | 0.41 (0.21-0.61) | 9.8 (1.6-18) |
 | Concurrent illness or altered physiological state |  |  |
-| Acute pulmonary edema | 0.33 Median (0.07-2.45) | 19 (3.1-82) |
+| Acute pulmonary edema | 0.33** (0.07-2.45) | 19** (3.1-82) |
 | COPD - >60 years, stable non-smoker >1 year | 0.54 (0.44-64) | 11 (9.4-12.6) |
-| COPD with cor pulmonale | 0.48 (0.08-0.88) | NR |
+| COPD with cor pulmonale | 0.48 (0.08-0.88) | NR† |
 | Cystic fibrosis (14-28 years) | 1.25 (0.31-2.2) | 6.0 (1.8-10.2) |
-| Fever associated with acute viral respiratory illness (children 9-15 years) | NR | 7.0 (1.0-13) |
-| Liver disease - cirrhosis | 0.31 (0.1-0.7) | 32 (10-56) |
+| Fever associated with acute viral respiratory illness (children 9-15 years) | NR† | 7.0 (1.0-13) |
+| Liver disease - cirrhosis | 0.31 (0.1-0.7) | 32** (10-56) |
 | acute hepatitis | 0.35 (0.25-0.45) | 19.2 (16.6-21.8) |
 | cholestasis | 0.65 (0.25-1.45) | 14.4 (5.7-31.8) |
-| Pregnancy - 1st trimester | NR | 8.5 (3.1-13.9) |
-| 2nd trimester | NR | 8.8 (3.8-13.8) |
-| 3rd trimester | NR | 13.0 (8.4-17.6) |
+| Pregnancy - 1st trimester | NR† | 8.5 (3.1-13.9) |
+| 2nd trimester | NR† | 8.8 (3.8-13.8) |
+| 3rd trimester | NR† | 13.0 (8.4-17.6) |
 | Sepsis with multi-organ failure | 0.47 (0.19-1.9) | 18.8 (6.3-24.1) |
 | Thyroid disease - hypothyroid | 0.38 (0.13-0.57) | 11.6 (8.2-25) |
 | hyperthyroid | 0.8 (0.68-0.97) | 4.5 (3.7-5.6) |
-| Note: In addition to the factors listed above, theophylline clearance is increased and half-life decreased by low carbohydrate/high protein diets, parenteral nutrition, and daily consumption of charcoal-broiled beef. A high carbohydrate/low protein diet can decrease the clearance and prolong the half-life of theophylline. |  |  |
+| ¶ For various North American patient populations from literature reports. Different rates of elimination and consequent dosage requirements have been observed among other peoples.* Clearance represents the volume of blood completely cleared of theophylline by the liver in one minute. Values listed were generally determined at serum theophylline concentrations <20 mcg/mL; clearance may decrease and half-life may increase at higher serum concentrations due to non-linear pharmacokinetics.†† Reported range or estimated range (mean ±2 SD) where actual range not reported. † NR = not reported or not reported in a comparable format. ** MedianNote: In addition to the factors listed above, theophylline clearance is increased and half-life decreased by low carbohydrate/high protein diets, parenteral nutrition, and daily consumption of charcoal-broiled beef. A high carbohydrate/low protein diet can decrease the clearance and prolong the half-life of theophylline. |  |  |
 
 ### Absorption
 

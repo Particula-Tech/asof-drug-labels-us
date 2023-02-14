@@ -4,9 +4,11 @@
 
 Theophylline should be used with extreme caution in patients with the following clinical conditions due to the increased risk of exacerbation of the concurrent condition:
 
-- Active peptic ulcer disease
-- Seizure disorders
-- Cardiac arrhythmias (not including bradyarrhythmias)
+Active peptic ulcer disease
+
+Seizure disorders
+
+Cardiac arrhythmias (not including bradyarrhythmias)
 
 ## Conditions That Reduce Theophylline Clearance
 
@@ -62,10 +64,10 @@ The dose of theophylline selected for initiation of therapy should be low and, i
 Serum theophylline concentration measurements are readily available and should be used to determine whether the dosage is appropriate.
 Specifically, the serum theophylline concentration should be measured as follows:
 
-1. When initiating therapy to guide final dosage adjustment after titration.
-2. Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
-3. Whenever signs or symptoms of theophylline toxicity are present.
-4. Whenever there is a new illness, worsening of a chronic illness or a change in the patient's treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for ≥24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
+- When initiating therapy to guide final dosage adjustment after titration.
+- Before making a dose increase to determine whether the serum concentration is sub-therapeutic in a patient who continues to be symptomatic.
+- Whenever signs or symptoms of theophylline toxicity are present.
+- Whenever there is a new illness, worsening of a chronic illness or a change in the patient's treatment regimen that may alter theophylline clearance (e.g., fever >102°F sustained for ≥24 hours, hepatitis, or drugs listed in Table II are added or discontinued).
 
 To guide a dose increase, the blood sample should be obtained at the time of the expected peak serum theophylline concentration; 1-2 hours after a dose at steady-state.
 For most patients, steady-state will be reached after 3 days of dosing when no doses have been missed, no extra doses have been added, and none of the doses have been taken at unequal intervals.
@@ -111,9 +113,9 @@ The clinician should not assume that a drug does not interact with theophylline 
 Before addition of a newly available drug in a patient receiving theophylline, the package insert of the new drug and/or the medical literature should be consulted to determine if an interaction between the new drug and theophylline has been reported.
 
 Table II.
-Clinically significant drug interactions with theophylline Refer to PRECAUTIONS, Drug Interactions for further information regarding table..
+Clinically significant drug interactions with theophylline*.
 
-| Drug | Type of Interaction | Effect Average effect on steady state theophylline concentration or other clinical effect for pharmacologic interactions. Individual patients may experience larger changes in serum theophylline concentration than the value listed. |
+| Drug | Type of Interaction | Effect** |
 | --- | --- | --- |
 | Adenosine | Theophylline blocks adenosine receptors. | Higher doses of adenosine may be required to achieve desired effect. |
 | Alcohol | A single large dose of alcohol (3 ml/kg of whiskey) decreases theophylline clearance for up to 24 hours. | 30% increase |
@@ -155,9 +157,17 @@ Clinically significant drug interactions with theophylline Refer to PRECAUTIONS,
 | Troleandomycin | Similar to erythromycin. | 33-100% increase depending on troleandomycin dose. |
 | Verapamil | Similar to disulfiram. | 20% increase |
 
+* Refer to PRECAUTIONS, Drug Interactions for further information regarding table.
+
+** Average effect on steady state theophylline concentration or other clinical effect for
+
+pharmacologic interactions.
+Individual patients may experience larger changes in serum
+
+theophylline concentration than the value listed.
+
 Table III.
-Drugs that have been documented not to interact with theophylline or drugs that produce no clinically significant interaction with theophylline.
-Refer to PRECAUTIONS, Drug Interactions for information regarding table.
+Drugs that have been documented not to interact with theophylline or drugs that produce no clinically significant interaction with theophylline.*
 
 | albuterol, systemic and inhaled | lomefloxacin mebendazole |
 | --- | --- |
@@ -178,6 +188,8 @@ Refer to PRECAUTIONS, Drug Interactions for information regarding table.
 | isradipine | terfenadine |
 | influenza vaccine | tetracycline |
 | ketoconazole | tocainide |
+
+* Refer to PRECAUTIONS, Drug Interactions for information regarding table.
 
 ## The Effect of Other Drugs on Theophylline Serum Concentration Measurements
 
@@ -204,7 +216,7 @@ At the high dose, systemic toxicity was observed in both species including decre
 
 There are no adequate and well controlled studies in pregnant women.
 Additionally, there are no teratogenicity studies in non-rodents (e.g., rabbits).
-Theophylline was not shown to be teratogenic in CD-1 mice at oral doses up to 400 mg/kg, approximately 2.0 times the human dose on a mg/m 2 basis or in CD-1 rats at oral doses up to 260 mg/kg, approximately 3.0 times the recommended human dose on a mg/m 2 basis.
+Theophylline was not shown to be teratogenic in CD-1 mice at oral doses up to 400 mg/kg, approximately 2.0 times the human dose on a mg/m2 basis or in CD-1 rats at oral doses up to 260 mg/kg, approximately 3.0 times the recommended human dose on a mg/m2 basis.
 At a dose of 220 mg/kg, embryotoxicity was observed in rats in the absence of maternal toxicity.
 
 ## Nursing Mothers

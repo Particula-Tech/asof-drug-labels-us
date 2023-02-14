@@ -79,32 +79,32 @@ General Recommendations for Patients with Symptoms of Theophylline Overdose or S
 ### Acute Overdose
 
 1. Serum Concentration >20<30 mcg/mL
-   1. Administer a single dose of oral activated charcoal.
-   2. Monitor the patient and obtain a serum theophylline concentration in 2-4 hours to insure that the concentration is not increasing.
+   - Administer a single dose of oral activated charcoal.
+   - Monitor the patient and obtain a serum theophylline concentration in 2-4 hours to insure that the concentration is not increasing.
 2. Serum Concentration >30<100 mcg/mL
-   1. Administer multiple dose oral activated charcoal and measures to control emesis.
-   2. Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
-   3. Institute extracorporeal removal if emesis, seizures, or cardiac arrhythmias cannot be adequately controlled (see OVERDOSAGE, Extracorporeal Removal).
+   - Administer multiple dose oral activated charcoal and measures to control emesis.
+   - Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
+   - Institute extracorporeal removal if emesis, seizures, or cardiac arrhythmias cannot be adequately controlled (see OVERDOSAGE, Extracorporeal Removal).
 3. Serum Concentration >100 mcg/mL
-   1. Consider prophylactic anticonvulsant therapy.
-   2. Administer multiple-dose oral activated charcoal and measures to control emesis.
-   3. Consider extracorporeal removal, even if the patient has not experienced a seizure (see OVERDOSAGE, Extracorporeal Removal).
-   4. Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
+   - Consider prophylactic anticonvulsant therapy.
+   - Administer multiple-dose oral activated charcoal and measures to control emesis.
+   - Consider extracorporeal removal, even if the patient has not experienced a seizure (see OVERDOSAGE, Extracorporeal Removal).
+   - Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
 
 ## Chronic Overdosage
 
 1. Serum Concentration >20<30 mcg/mL (with manifestations of theophylline toxicity)
-   1. Administer a single dose of oral activated charcoal.
-   2. Monitor the patient and obtain a serum theophylline concentration in 2-4 hours to insure that the concentration is not increasing.
+   - Administer a single dose of oral activated charcoal.
+   - Monitor the patient and obtain a serum theophylline concentration in 2-4 hours to insure that the concentration is not increasing.
 2. Serum Concentration >30 mcg/mL in patients <60 years of age
-   1. Administer multiple-dose oral activated charcoal and measures to control emesis.
-   2. Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
-   3. Institute extracorporeal removal if emesis, seizures, or cardiac arrhythmias cannot be adequately controlled (see OVERDOSAGE, Extracorporeal Removal).
+   - Administer multiple-dose oral activated charcoal and measures to control emesis.
+   - Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
+   - Institute extracorporeal removal if emesis, seizures, or cardiac arrhythmias cannot be adequately controlled (see OVERDOSAGE, Extracorporeal Removal).
 3. Serum Concentration >30 mcg/mL in patients ≥60 years of age.
-   1. Consider prophylactic anticonvulsant therapy.
-   2. Administer multiple-dose oral activated charcoal and measures to control emesis.
-   3. Consider extracorporeal removal even if the patient has not experienced a seizure (see OVERDOSAGE, Extracorporeal Removal).
-   4. Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
+   - Consider prophylactic anticonvulsant therapy.
+   - Administer multiple-dose oral activated charcoal and measures to control emesis.
+   - Consider extracorporeal removal even if the patient has not experienced a seizure (see OVERDOSAGE, Extracorporeal Removal).
+   - Monitor the patient and obtain serial theophylline concentrations every 2-4 hours to gauge the effectiveness of therapy and to guide further treatment decisions.
 
 ## Extracorporeal Removal
 

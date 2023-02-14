@@ -26,29 +26,48 @@ In general, these recommendations should serve as the upper limit for dosage adj
 | Table V. Dosing initiation and titration (as anhydrous theophylline).* |
 | --- |
 
-- Infants <1 year old.
-  - Initial Dosage
-  - Premature Neonates:
-    1. <24 days postnatal age; 1.0 mg/kg every 12 hr
-    2. ≥24 days postnatal age; 1.5 mg/kg every 12 hr
-  - Full term infants and infants up to 52 weeks of age: Total daily dose (mg) = [(0.2 × age in weeks)+5.0] × (Kg body Wt).
-    1. up to age 26 weeks; divide dose into 3 equal amounts administered at 8 hour intervals.
-    2. >26 weeks of age; divide dose into 4 equal amounts administered at 6 hour intervals.
-  - Final Dosage.
-    Adjusted to maintain a peak steady state serum theophylline concentration of 5-10 mcg/mL in neonates and 10-15 mcg/mL in older infants (see Table VI).
-    Since the time required to reach steady state is a function of theophylline half-life, up to 5 days may be required to achieve steady state in a premature neonate, while only 2-3 days may be required in a 6 month old infant without other risk factors for impaired clearance in the absence of a loading dose.
-    If a serum theophylline concentration is obtained before steady state is achieved, the maintenance dose should not be increased, even if the serum theophylline concentration is <10 mcg/mL.
-- Children (1-15 years) and adults (16-60 years) without risk factors for impaired clearance.
-  Titration StepChildren <45 kgChildren >45 kg and adults Starting Dosage 12-14 mg/kg/day up to a maximum of 300 mg/day divided Q4-6 hrs*300 mg/day divided Q6-8 hrs* After 3 days, if tolerated, increase dose to: 16 mg/kg/day up to a maximum of 400 mg/day divided Q4-6 hrs*400 mg/day divided Q6-8 hrs* After 3 more days, if tolerated, increase dose to: 20 mg/kg/day up to a maximum of 600 mg/day divided Q4-6 hrs*600 mg/day divided Q6-8 hrs*
-- Patients With Risk Factors For Impaired Clearance, The Elderly (>60 Years), And Those In Whom It Is Not Feasible To Monitor Serum Theophylline Concentrations: In children 1-15 years of age, the final theophylline dose should not exceed 16 mg/kg/day up to a maximum of 400 mg/day in the presence of risk factors for reduced theophylline clearance (see WARNINGS) or if it is not feasible to monitor serum theophylline concentrations.
-  In adolescents ≥16 years and adults, including the elderly, the final theophylline dose should not exceed 400 mg/day in the presence of risk factors for reduced theophylline clearance (see WARNINGS) or if it is not feasible to monitor serum theophylline concentrations.
-- Loading Dose for Acute Bronchodilatation: An inhaled beta-2 selective agonist, alone or in combination with a systemically administered corticosteroid, is the most effective treatment for acute exacerbations of reversible airways obstruction.
-  Theophylline is a relatively weak bronchodilator, is less effective than an inhaled beta-2 selective agonist and provides no added benefit in the treatment of acute bronchospasm.
-  If an inhaled or parenteral beta agonist is not available, a loading dose of an oral immediate release theophylline can be used as a temporary measure.
-  A single 5 mg/kg dose of theophylline, in a patient who has not received any theophylline in the previous 24 hours, will produce an average peak serum theophylline concentration of 10 mcg/mL (range 5-15 mcg/mL).
-  If dosing with theophylline is to be continued beyond the loading dose, the guidelines in Sections A.1.b., B.3, or C., above, should be utilized and serum theophylline concentration monitored at 24 hour intervals to adjust final dosage.
-  - Patients with more rapid metabolism, clinically identified by higher than average dose requirements, should receive a smaller dose more frequently to prevent breakthrough symptoms resulting from low trough concentrations before the next dose.
-    A reliably absorbed slow-release formulation will decrease fluctuations and permit longer dosing intervals.
+A. Infants <1 year old.
+
+1.
+Initial Dosage
+
+a. Premature Neonates:
+
+i. <24 days postnatal age; 1.0 mg/kg every 12 hr
+
+ii. ≥24 days postnatal age; 1.5 mg/kg every 12 hr
+
+b. Full term infants and infants up to 52 weeks of age: Total daily dose (mg) = [(0.2 × age in weeks)+5.0] × (Kg body Wt).
+
+i. up to age 26 weeks; divide dose into 3 equal amounts administered at 8 hour intervals.
+
+ii. >26 weeks of age; divide dose into 4 equal amounts administered at 6 hour intervals.
+
+2.
+Final Dosage.
+Adjusted to maintain a peak steady state serum theophylline concentration of 5-10 mcg/mL in neonates and 10-15 mcg/mL in older infants (see Table VI).
+Since the time required to reach steady state is a function of theophylline half-life, up to 5 days may be required to achieve steady state in a premature neonate, while only 2-3 days may be required in a 6 month old infant without other risk factors for impaired clearance in the absence of a loading dose.
+If a serum theophylline concentration is obtained before steady state is achieved, the maintenance dose should not be increased, even if the serum theophylline concentration is <10 mcg/mL.
+
+B. Children (1-15 years) and adults (16-60 years) without risk factors for impaired clearance.
+
+| Titration Step | Children <45 kg | Children >45 kg and adults |
+| --- | --- | --- |
+| Starting Dosage | 12-14 mg/kg/day up to a maximum of 300 mg/day divided Q4-6 hrs* | 300 mg/day divided Q6-8 hrs* |
+| After 3 days, if tolerated, increase dose to: | 16 mg/kg/day up to a maximum of 400 mg/day divided Q4-6 hrs* | 400 mg/day divided Q6-8 hrs* |
+| After 3 more days, if tolerated, increase dose to: | 20 mg/kg/day up to a maximum of 600 mg/day divided Q4-6 hrs* | 600 mg/day divided Q6-8 hrs* |
+
+C. Patients With Risk Factors For Impaired Clearance, The Elderly (>60 Years), And Those In Whom It Is Not Feasible To Monitor Serum Theophylline Concentrations: In children 1-15 years of age, the final theophylline dose should not exceed 16 mg/kg/day up to a maximum of 400 mg/day in the presence of risk factors for reduced theophylline clearance (see WARNINGS) or if it is not feasible to monitor serum theophylline concentrations.
+In adolescents ≥16 years and adults, including the elderly, the final theophylline dose should not exceed 400 mg/day in the presence of risk factors for reduced theophylline clearance (see WARNINGS) or if it is not feasible to monitor serum theophylline concentrations.
+
+D. Loading Dose for Acute Bronchodilatation: An inhaled beta-2 selective agonist, alone or in combination with a systemically administered corticosteroid, is the most effective treatment for acute exacerbations of reversible airways obstruction.
+Theophylline is a relatively weak bronchodilator, is less effective than an inhaled beta-2 selective agonist and provides no added benefit in the treatment of acute bronchospasm.
+If an inhaled or parenteral beta agonist is not available, a loading dose of an oral immediate release theophylline can be used as a temporary measure.
+A single 5 mg/kg dose of theophylline, in a patient who has not received any theophylline in the previous 24 hours, will produce an average peak serum theophylline concentration of 10 mcg/mL (range 5-15 mcg/mL).
+If dosing with theophylline is to be continued beyond the loading dose, the guidelines in Sections A.1.b., B.3, or C., above, should be utilized and serum theophylline concentration monitored at 24 hour intervals to adjust final dosage.
+
+- Patients with more rapid metabolism, clinically identified by higher than average dose requirements, should receive a smaller dose more frequently to prevent breakthrough symptoms resulting from low trough concentrations before the next dose.
+  A reliably absorbed slow-release formulation will decrease fluctuations and permit longer dosing intervals.
 
 Table VI.
 Dosage adjustment guided by serum theophylline concentration.
@@ -56,8 +75,10 @@ Dosage adjustment guided by serum theophylline concentration.
 | Peak Serum Concentration | Dosage Adjustment |
 | --- | --- |
 | <9.9 mcg/mL | If symptoms are not controlled and current dosage is tolerated, increase dose about 25%. Recheck serum concentration after three days for further dosage adjustment. |
-| 10 - 14.9 mcg/mL | If symptoms are controlled and current dosage is tolerated, maintain dose and recheck serum concentration at 6-12 month intervals. Dose reduction and/or serum theophylline concentration measurement is indicated whenever adverse effects are present, physiologic abnormalities that can reduce theophylline clearance occur (e.g., sustained fever), or a drug that interacts with theophylline is added or discontinued (see WARNINGS). If symptoms are not controlled and current dosage is tolerated consider adding additional medication(s) to treatment regimen. |
-| 15 - 19.9 mcg/mL | Consider 10% decrease in dose to provide greater margin of safety even if current dosage is tolerated. |
+| 10 - 14.9 mcg/mL | If symptoms are controlled and current dosage is tolerated, maintain dose and recheck serum concentration at 6-12 month intervals. * If symptoms are not controlled and current dosage is tolerated consider adding additional medication(s) to treatment regimen. |
+| 15 - 19.9 mcg/mL | Consider 10% decrease in dose to provide greater margin of safety even if current dosage is tolerated.¶ |
 | 20 - 24.9 mcg/mL | Decrease dose by 25% even if no adverse effects are present. Recheck serum concentration after 3 days to guide further dosage adjustment. |
 | 25 - 30 mcg/mL | Skip next dose and decrease subsequent doses at least 25% even if no adverse effects are present. Recheck serum concentration after 3 days to guide further dosage adjustment. If symptomatic, consider whether overdose treatment is indicated (see recommendations for chronic overdosage). |
 | >30 mcg/mL | Treat overdose as indicated (see recommendations for chronic overdosage). If theophylline is subsequently resumed, decrease dose by at least 50% and recheck serum concentration after 3 days to guide further dosage adjustment. |
+
+¶ Dose reduction and/or serum theophylline concentration measurement is indicated whenever adverse effects are present, physiologic abnormalities that can reduce theophylline clearance occur (e.g., sustained fever), or a drug that interacts with theophylline is added or discontinued (see WARNINGS).
