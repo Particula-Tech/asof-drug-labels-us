@@ -1,6 +1,6 @@
-# INSTRUCTIONS FOR USE
+# Instructions For Use
 
-Morphine Sulfate Oral Solution, CII 100 mg per 5 mL (20 mg/mL) Oral Syringe
+Morphine Sulfate Oral Solution, CII 100 mg per 5 mL (20 mg/mL)
 
 Important Information You Need to Know Before Using Morphine Sulfate Oral Solution:
 

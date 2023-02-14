@@ -12,7 +12,7 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2021 L20M50
+Revised: October 2021 L20M50
 
 Pediatric use information is approved for Hikma Pharmaceuticals USA Inc.’s morphine sulfate oral solution.
 However, due to Hikma Pharmaceuticals USA Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
