@@ -2,16 +2,16 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis
+### Carcinogenesis
 
-No evidence of carcinogenic potential was observed in rats or mice administered alprazolam for 2-years at doses up to 30 and 10 mg/kg day respectively.
+No evidence of carcinogenic potential was observed in rats or mice administered alprazolam for 2 years at doses up to 30 and 10 mg/kg day respectively.
 These doses are 29 times and 4.8 times the maximum recommended human dose of 10 mg/day based on mg/m2 body surface area, respectively.
 
-Mutagenesis
+### Mutagenesis
 
 Alprazolam was negative in the in vitro Ames bacterial reverse mutation assay and DNA Damage/Alkaline Elution Assay and in vivo rat micronucleus genetic toxicology assays.
 
-Impairment of Fertility
+### Impairment of Fertility
 
 Alprazolam produced no impairment of fertility in rats at doses up to 5 mg/kg per day, which is approximately 5 times the maximum recommended human dose of 10 mg per day based on mg/m2 body surface area.
 

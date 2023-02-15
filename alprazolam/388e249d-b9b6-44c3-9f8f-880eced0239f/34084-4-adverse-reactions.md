@@ -2,13 +2,13 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
-- Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
-- Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
-- Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
-- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- Patients with Depression [see Warnings and Precautions (5.7)]
-- Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
+- •Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1)]
+- •Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
+- •Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
+- •Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
+- •Patients with Depression [see Warnings and Precautions (5.6)]
+- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
+- •Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -16,12 +16,12 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in the two tables below are estimates of adverse reaction incidence among adult patients who participated in:
 
-- 4-week placebo-controlled clinical studies with XANAX dosages up to 4 mg per day for the acute treatment of generalized anxiety disorder (Table 1)
-- Short-term (up to 10 weeks) placebo-controlled clinical studies with XANAX dosages up to 10 mg per day for panic disorder, with or without agoraphobia (Table 2).
+- •4-week placebo-controlled clinical studies with XANAX dosages up to 4 mg per day for the acute treatment of generalized anxiety disorder (Table 1)
+- •Short-term (up to 10 weeks) placebo-controlled clinical studies with XANAX dosages up to 10 mg per day for panic disorder, with or without agoraphobia (Table 2).
 
 Table 1: Adverse Reactions Occurring in ≥1% in XANAX-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials for Generalized Anxiety
 
-|  | XANAX n=565 | Placebo n=505 |
+|  | XANAXn=565 | Placebon=505 |
 | --- | --- | --- |
 | Nervous system disorders |  |  |
 | Drowsiness | 41% | 22% |
@@ -38,19 +38,11 @@ Table 1: Adverse Reactions Occurring in ≥1% in XANAX-treated Patients and Grea
 
 In addition to the adverse reactions (i.e., greater than 1%) enumerated in the table above for patients with generalized anxiety disorder, the following adverse reactions have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
-Table 2: Adverse Reactions Occuring in ≥1% in XANAX-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials (Up to 10 Weeks) for Panic Disorder
+Table 2: Adverse Reactions Occurring in ≥1% in XANAX-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials (Up to 10 Weeks) for Panic Disorder
 
 |  | XANAX n=1388 | Placebo n=1231 |
 | --- | --- | --- |
-| Drowsiness | 77% | 43% |
-| Fatique and Tiredness | 49% | 42% |
-| Impaired Coordination | 40% | 18% |
-| Irritability | 33% | 30% |
-| Memory Impairment | 33% | 22% |
-| Cognitive Disorder | 29% | 21% |
-| Decreased Libido | 14% | 8% |
-| Dysartharia | 23% | 6% |
-| Confusional state | 10% | 8% |
+| Drowsiness Fatigue and Tiredness Impaired Coordination Irritability Memory Impairment Cognitive Disorder Decreased Libido Dysarthria Confusional state | 77%49%40%33%33%29%14%23%10% | 43%42%18%30%22%21%8%6%8% |
 | Increased libido | 8% | 4% |
 | Change in libido (not specified) | 7% | 6% |
 | Disinhibition | 3% | 2% |
@@ -79,39 +71,39 @@ In a larger database comprised of both controlled and uncontrolled studies in wh
 
 Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of XANAX-treated Patients and > Placebo-treated Patients
 
-|  | XANAX-treated Patients n=641 |
-| --- | --- |
-| Nervous system disorders |  |
-| Insomnia | 29.5% |
-| Light-headedness | 19.3% |
-| Abnormal involuntary movement | 17.3% |
-| Headache | 17.0% |
-| Muscular twitching | 6.9% |
-| Impaired coordination | 6.6% |
-| Muscle tone disorders | 5.9% |
-| Weakness | 5.8% |
-| Psychiatric disorders |  |
-| Anxiety | 19.2% |
-| Fatigue and Tiredness | 18.4% |
-| Irritability | 10.5% |
-| Cognitive disorder | 10.3% |
-| Memory impairment | 5.5% |
-| Depression | 5.1% |
-| Confusional state | 5.0% |
-| Gastrointestinal disorders |  |
-| Nausea/Vomiting | 16.5% |
-| Diarrhea | 13.6% |
-| Decreased salivation | 10.6% |
-| Metabolism and nutrition disorders |  |
-| Weight loss | 13.3% |
-| Decreased appetite | 12.8% |
-| Dermatological disorders |  |
-| Sweating | 14.4% |
-| Cardiovascular disorders |  |
-| Tachycardia | 12.2% |
-| Special Senses |  |
-| Blurred vision | 10.0% |
-| n=number of patients. |  |
+|  | XANAX-treated Patients n=641 |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nervous system disorders |  |  |  |  |  |  |  |
+| Insomnia | 29.5% |  |  |  |  |  |  |
+| Light-headedness | 19.3% |  |  |  |  |  |  |
+| Abnormal involuntary movement | 17.3% |  |  |  |  |  |  |
+| Headache | 17.0% |  |  |  |  |  |  |
+| Muscular twitching | 6.9% |  |  |  |  |  |  |
+| Impaired coordination | 6.6% |  |  |  |  |  |  |
+| Muscle tone disorders | 5.9% |  |  |  |  |  |  |
+| Weakness | 5.8% |  |  |  |  |  |  |
+| Psychiatric disorders |  |  |  |  |  |  |  |
+| Anxiety | 19.2% |  |  |  |  |  |  |
+| Fatigue and Tiredness | 18.4% |  |  |  |  |  |  |
+| Irritability | 10.5% |  |  |  |  |  |  |
+| Cognitive disorder | 10.3% |  |  |  |  |  |  |
+| Memory impairment | 5.5% |  |  |  |  |  |  |
+| Depression | 5.1% |  |  |  |  |  |  |
+| Confusional state | 5.0% |  |  |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |  |  |  |
+| Nausea/Vomiting | 16.5% |  |  |  |  |  |  |
+| Diarrhea | 13.6% |  |  |  |  |  |  |
+| Decreased salivation | 10.6% |  |  |  |  |  |  |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |  |
+| Weight loss | 13.3% |  |  |  |  |  |  |
+| Decreased appetite | 12.8% |  |  |  |  |  |  |
+| Dermatological disorders |  |  |  |  |  |  |  |
+| Sweating | 14.4% |  |  |  |  |  |  |
+| Cardiovascular disorders |  |  |  |  |  |  |  |
+| Tachycardia | 12.2% |  |  |  |  |  |  |
+| Special Senses |  |  |  |  |  |  |  |
+| Blurred vision | 10.0% |  |  |  |  |  |  |
+| n=number of patients. |  |  |  |  |  |  |  |
 
 There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of XANAX [see Warning and Precautions (5.2) and Drug Abuse and Dependence (9.3)].
 
