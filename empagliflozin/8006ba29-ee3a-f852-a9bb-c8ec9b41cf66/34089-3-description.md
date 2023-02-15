@@ -4,7 +4,7 @@ SYNJARDY XR tablets for oral use contain: empagliflozin and metformin hydrochlor
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2).
+Empagliflozin is an inhibitor of the SGLT2.
 
 The chemical name of empagliflozin is D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4-[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S).
 
@@ -27,10 +27,10 @@ Each film-coated tablet of SYNJARDY XR consists of an extended-release metformin
 
 SYNJARDY XR tablets for oral administration are available in four dosage strengths containing:
 
-- 5 mg empagliflozin and 1000 mg metformin hydrochloride extended-release
-- 10 mg empagliflozin and 1000 mg metformin hydrochloride extended-release
-- 12.5 mg empagliflozin and 1000 mg metformin hydrochloride extended-release
-- 25 mg empagliflozin and 1000 mg metformin hydrochloride extended-release
+- 5 mg empagliflozin and 1,000 mg metformin hydrochloride extended-release
+- 10 mg empagliflozin and 1,000 mg metformin hydrochloride extended-release
+- 12.5 mg empagliflozin and 1,000 mg metformin hydrochloride extended-release
+- 25 mg empagliflozin and 1,000 mg metformin hydrochloride extended-release
 
 Each film-coated tablet of SYNJARDY XR contains the following inactive ingredients: Tablet Core: polyethylene oxide, hypromellose, and magnesium stearate.
-Film Coatings and Printing Ink: hypromellose, titanium dioxide, polydextrose, polyethylene glycol, talc, carnauba wax, purified water, ferrosoferric oxide, propylene glycol, isopropyl alcohol, ferric oxide yellow (5 mg/1000 mg, 10 mg/1000 mg, 25 mg/1000 mg), ferric oxide red (10 mg/1000 mg), FD&C blue#2/indigo carmine aluminum lake (12.5 mg/1000 mg, 25 mg/1000 mg).
+Film Coatings and Printing Ink: hypromellose, titanium dioxide, polydextrose, polyethylene glycol, talc, carnauba wax, purified water, ferrosoferric oxide, propylene glycol, isopropyl alcohol, ferric oxide yellow (5 mg/1,000 mg, 10 mg/1,000 mg, 25 mg/1,000 mg), ferric oxide red (10 mg/1,000 mg), FD&C blue#2/indigo carmine aluminum lake (12.5 mg/1,000 mg, 25 mg/1,000 mg).

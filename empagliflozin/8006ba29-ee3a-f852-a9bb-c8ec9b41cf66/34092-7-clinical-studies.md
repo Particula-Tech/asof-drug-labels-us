@@ -1,15 +1,15 @@
 # 14 CLINICAL STUDIES
 
-SYNJARDY XR Glycemic Control Studies
+## 14.1 Glycemic Control Studies in Adult Patients with Type 2 Diabetes Mellitus
 
-In patients with type 2 diabetes, treatment with empagliflozin and metformin produced clinically and statistically significant improvements in HbA1c compared to placebo.
-Reductions in HbA1c were observed across subgroups including age, gender, race, and baseline body mass index (BMI).
+In adult patients with type 2 diabetes mellitus, treatment with empagliflozin and metformin produced clinically and statistically significant improvements in HbA1c compared to placebo and metformin.
+Reductions in HbA1c were observed across subgroups including age, sex, race, and baseline BMI.
 
-Empagliflozin Add-On Combination Therapy with Metformin
+Empagliflozin Add-On Combination Therapy with Metformin in Adult Patients with Type 2 Diabetes Mellitus
 
-A total of 637 patients with type 2 diabetes participated in a double-blind, placebo-controlled study to evaluate the efficacy and safety of empagliflozin in combination with metformin.
+A total of 637 patients with type 2 diabetes mellitus participated in a double-blind, placebo-controlled study to evaluate the efficacy of empagliflozin in combination with metformin.
 
-Patients with type 2 diabetes inadequately controlled on at least 1500 mg of metformin hydrochloride per day entered an open-label 2-week placebo run-in.
+Patients with type 2 diabetes mellitus inadequately controlled on at least 1,500 mg of metformin HCl per day entered an open-label 2-week placebo run-in.
 At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10% were randomized to placebo, empagliflozin 10 mg, or empagliflozin 25 mg.
 
 At Week 24, treatment with empagliflozin 10 mg or 25 mg daily provided statistically significant reductions in HbA1c (p-value <0.0001), FPG, and body weight compared with placebo (see Table 7).
@@ -39,16 +39,16 @@ At Week 24, the systolic blood pressure was statistically significantly reduced 
 
 Empagliflozin Initial Combination Therapy with Metformin
 
-A total of 1364 patients with type 2 diabetes participated in a double-blind, randomized, active-controlled study to evaluate the efficacy and safety of empagliflozin in combination with metformin as initial therapy compared to the corresponding individual components.
+A total of 1,364 patients with type 2 diabetes mellitus participated in a double-blind, randomized, active-controlled study to evaluate the efficacy of empagliflozin in combination with metformin as initial therapy compared to the corresponding individual components.
 
-Treatment-naïve patients with inadequately controlled type 2 diabetes entered an open-label placebo run-in for 2 weeks.
-At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10.5% were randomized to one of 8 active-treatment arms: empagliflozin 10 mg or 25 mg; metformin hydrochloride 1000 mg, or 2000 mg; empagliflozin 10 mg in combination with 1000 mg or 2000 mg metformin; or empagliflozin 25 mg in combination with 1000 mg or 2000 mg metformin hydrochloride.
+Treatment-naïve patients with inadequately controlled type 2 diabetes mellitus entered an open-label placebo run-in for 2 weeks.
+At the end of the run-in period, patients who remained inadequately controlled and had an HbA1c between 7% and 10.5% were randomized to one of 8 active-treatment arms: empagliflozin 10 mg or 25 mg; metformin hydrochloride 1,000 mg, or 2,000 mg; empagliflozin 10 mg in combination with 1,000 mg or 2,000 mg metformin; or empagliflozin 25 mg in combination with 1,000 mg or 2,000 mg metformin hydrochloride.
 
 At Week 24, initial therapy of empagliflozin in combination with metformin provided statistically significant reductions in HbA1c (p-value <0.01) compared to the individual components (see Table 8).
 
 Table 8 Glycemic Parameters at 24 Weeks in a Study Comparing Empagliflozin and Metformin to the Individual Components as Initial Therapy
 
-|  | Empagliflozin 10 mg + Metformin 1000 mga N=161 | Empagliflozin 10 mg + Metformin 2000 mga N=167 | Empagliflozin 25 mg + Metformin 1000 mga N=165 | Empagliflozin 25 mg + Metformin 2000 mga N=169 | Empagliflozin 10 mg N=169 | Empagliflozin 25 mg N=163 | Metformin 1000 mga N=167 | Metformin 2000 mga N=162 |
+|  | Empagliflozin 10 mg + Metformin 1,000 mga N=161 | Empagliflozin 10 mg + Metformin 2,000 mga N=167 | Empagliflozin 25 mg + Metformin 1,000 mga N=165 | Empagliflozin 25 mg + Metformin 2,000 mga N=169 | Empagliflozin 10 mg N=169 | Empagliflozin 25 mg N=163 | Metformin 1,000 mga N=167 | Metformin 2,000 mga N=162 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HbA1c (%) |  |  |  |  |  |  |  |  |
 | Baseline (mean) | 8.7 | 8.7 | 8.8 | 8.7 | 8.6 | 8.9 | 8.7 | 8.6 |
@@ -62,9 +62,9 @@ Table 8 Glycemic Parameters at 24 Weeks in a Study Comparing Empagliflozin and M
 
 Empagliflozin Add-On Combination Therapy with Metformin and Sulfonylurea
 
-A total of 666 patients with type 2 diabetes participated in a double-blind, placebo-controlled study to evaluate the efficacy and safety of empagliflozin in combination with metformin plus a sulfonylurea.
+A total of 666 patients with type 2 diabetes mellitus participated in a double-blind, placebo-controlled study to evaluate the efficacy of empagliflozin in combination with metformin plus a sulfonylurea.
 
-Patients with inadequately controlled type 2 diabetes on at least 1500 mg per day of metformin hydrochloride and on a sulfonylurea, entered a 2-week open-label placebo run-in.
+Patients with inadequately controlled type 2 diabetes mellitus on at least 1,500 mg per day of metformin HCl and on a sulfonylurea, entered a 2-week open-label placebo run-in.
 At the end of the run-in, patients who remained inadequately controlled and had an HbA1c between 7% and 10% were randomized to placebo, empagliflozin 10 mg, or empagliflozin 25 mg.
 
 Treatment with empagliflozin 10 mg or 25 mg daily provided statistically significant reductions in HbA1c (p-value <0.0001), FPG, and body weight compared with placebo (see Table 9).
@@ -92,13 +92,13 @@ Table 9 Results at Week 24 from a Placebo-Controlled Study for Empagliflozin in 
 
 Active-Controlled Study vs Glimepiride in Combination with Metformin
 
-The efficacy of empagliflozin was evaluated in a double-blind, glimepiride-controlled, study in 1545 patients with type 2 diabetes with insufficient glycemic control despite metformin therapy.
+The efficacy of empagliflozin was evaluated in a double-blind, glimepiride-controlled, study in 1,545 patients with type 2 diabetes mellitus with insufficient glycemic control despite metformin therapy.
 
 Patients with inadequate glycemic control and an HbA1c between 7% and 10% after a 2-week run-in period were randomized to glimepiride or empagliflozin 25 mg.
 
 At Week 52, empagliflozin 25 mg and glimepiride lowered HbA1c and FPG (see Table 10, Figure 3).
 The difference in observed effect size between empagliflozin 25 mg and glimepiride excluded the pre-specified non-inferiority margin of 0.3%.
-The mean daily dose of glimepiride was 2.7 mg and the maximal approved dose in the United States is 8 mg per day.
+The mean daily dosage of glimepiride was 2.7 mg and the maximal approved dosage in the United States is 8 mg per day.
 
 Table 10 Results at Week 52 from an Active-Controlled Study Comparing Empagliflozin to Glimepiride as Add-On Therapy in Patients Inadequately Controlled on Metformin
 
@@ -128,23 +128,20 @@ The differences between treatment groups for systolic blood pressure was statist
 
 At Week 104, the adjusted mean change from baseline in HbA1c was -0.75% for empagliflozin 25 mg and -0.66% for glimepiride.
 The adjusted mean treatment difference was -0.09% with a 97.5% confidence interval of (-0.32%, 0.15%), excluding the pre-specified non-inferiority margin of 0.3%.
-The mean daily dose of glimepiride was 2.7 mg and the maximal approved dose in the United States is 8 mg per day.
+The mean daily dosage of glimepiride was 2.7 mg and the maximal approved dosage in the United States is 8 mg per day.
 The Week 104 analysis included data with and without concomitant glycemic rescue medication, as well as off-treatment data.
 Missing data for patients not providing any information at the visit were imputed based on the observed off-treatment data.
 In this multiple imputation analysis, 13.9% of the data were imputed for empagliflozin 25 mg and 12.9% for glimepiride.
 
 At Week 104, empagliflozin 25 mg daily resulted in a statistically significant difference in change from baseline for body weight compared to glimepiride (-3.1 kg for empagliflozin 25 mg vs. +1.3 kg for glimepiride; ANCOVA-LOCF, p-value <0.0001).
 
-Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
+## 14.2 Empagliflozin Cardiovascular Outcome Study in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease
 
-Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease.
-The effect of empagliflozin on cardiovascular risk in adult patients with type 2 diabetes and established, stable, atherosclerotic cardiovascular disease is presented below.
-
-The EMPA-REG OUTCOME study, a multicenter, multinational, randomized, double-blind parallel group trial compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
-Coadministered antidiabetic medications were to be kept stable for the first 12 weeks of the trial.
+EMPA-REG OUTCOME was a multicenter, multinational, randomized, double-blind parallel group study that compared the risk of experiencing a major adverse cardiovascular event (MACE) between empagliflozin and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and atherosclerotic cardiovascular disease.
+Concomitant antidiabetic medications were kept stable for the first 12 weeks of the trial.
 Thereafter, antidiabetic and atherosclerotic therapies could be adjusted, at the discretion of investigators, to ensure participants were treated according to the standard care for these diseases.
 
-A total of 7020 patients were treated (empagliflozin 10 mg = 2345; empagliflozin 25 mg = 2342; placebo = 2333) and followed for a median of 3.1 years.
+A total of 7,020 patients were treated (empagliflozin 10 mg = 2,345; empagliflozin 25 mg = 2,342; placebo = 2,333) and followed for a median of 3.1 years.
 Approximately 72% of the study population was Caucasian, 22% was Asian, and 5% was Black.
 The mean age was 63 years and approximately 72% were male.
 
@@ -159,17 +156,17 @@ At baseline, approximately 81% of patients were treated with renin angiotensin s
 
 The primary endpoint in EMPA-REG OUTCOME was the time to first occurrence of a Major Adverse Cardiac Event (MACE).
 A major adverse cardiac event was defined as occurrence of either a cardiovascular death or a non-fatal myocardial infarction (MI) or a non-fatal stroke.
-The statistical analysis plan had pre-specified that the 10 and 25 mg doses would be combined.
+The statistical analysis plan had pre-specified that the 10 and 25 mg dosages would be combined.
 A Cox proportional hazards model was used to test for non-inferiority against the pre-specified risk margin of 1.3 for the hazard ratio of MACE and superiority on MACE if non-inferiority was demonstrated.
 Type-1 error was controlled across multiples tests using a hierarchical testing strategy.
 
 Empagliflozin significantly reduced the risk of first occurrence of primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke (HR: 0.86; 95% CI: 0.74, 0.99).
 The treatment effect was due to a significant reduction in the risk of cardiovascular death in subjects randomized to empagliflozin (HR: 0.62; 95% CI: 0.49, 0.77), with no change in the risk of non-fatal myocardial infarction or non-fatal stroke (see Table 11 and Figures 4 and 5).
-Results for the 10 mg and 25 mg empagliflozin doses were consistent with results for the combined dose groups.
+Results for the 10 mg and 25 mg empagliflozin dosages were consistent with results for the combined dosage groups.
 
 Table 11 Treatment Effect for the Primary Composite Endpoint and its Componentsa
 
-|  | Placebo N=2333 | Empagliflozin N=4687 | Hazard ratio vs placebo (95% CI) |
+|  | Placebo N=2,333 | Empagliflozin N=4,687 | Hazard ratio vs placebo (95% CI) |
 | --- | --- | --- | --- |
 | Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence)b | 282 (12.1%) | 490 (10.5%) | 0.86 (0.74, 0.99) |
 | Non-fatal myocardial infarctionc | 121 (5.2%) | 213 (4.5%) | 0.87 (0.70, 1.09) |
@@ -189,3 +186,63 @@ Vital status was obtained for 99.2% of subjects in the trial.
 A total of 463 deaths were recorded during the EMPA-REG OUTCOME trial.
 Most of these deaths were categorized as cardiovascular deaths.
 The non-cardiovascular deaths were only a small proportion of deaths and were balanced between the treatment groups (2.1% in patients treated with empagliflozin, and 2.4% of patients treated with placebo).
+
+## 14.3 Empagliflozin Heart Failure Studies, Including Patients with Type 2 Diabetes Mellitus
+
+EMPEROR-Reduced Study (Chronic Heart Failure with Left Ventricular Ejection Fraction ≤ 40%)
+
+EMPEROR-Reduced (NCT03057977) was a double-blind study conducted in patients with chronic heart failure (New York Heart Association [NYHA] functional class II-IV) with left ventricular ejection fraction (LVEF) ≤40% to evaluate the efficacy of empagliflozin as adjunct to standard of care heart failure therapy.
+Of 3,730 patients, 1,863 were randomized to empagliflozin 10 mg once daily and 1,867 to placebo once daily and were followed for a median of 16 months.
+
+Baseline Disease Characteristics and Demographics
+
+EMPEROR-Reduced included patients with type 2 diabetes mellitus (n=1,856) and patients without type 2 diabetes mellitus (n=1,874).
+The mean age of the study population was 67 years (range: 25 to 94 years) and 76% were males, 24% were women, and 27% were 75 years of age or older.
+Approximately 71% of the study population were White, 18% Asian and 7% Black or African American.
+At randomization, 75% of patients were NYHA class II, 24% were class III and 0.5% were class IV.
+The mean LVEF was 28%.
+At baseline, the mean eGFR was 62 mL/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 22 mg/g.
+Approximately half of the patients (52%) had eGFR equal to or above 60 mL/min/1.73 m2, 24% had eGFR 45 to less than 60 mL/min/1.73 m2, and 19% had eGFR 30 to less than 45 mL/min/1.73 m2.
+At baseline, 88% of patients were treated with angiotensin-converting enzyme (ACE) inhibitors, angiotensin receptor blockers (ARB), or angiotensin receptor-neprilysin inhibitors (ARNI), 95% with beta-blockers, 71% with mineralocorticoid receptor antagonists (MRA), and 95% with diuretics.
+
+In EMPEROR-Reduced, history of type 2 diabetes mellitus was present in 50% of the patients, and 46% of these patients were treated with metformin (444 patients in the empagliflozin group and 418 in the placebo group) and 25% were treated with insulin.
+In the type 2 diabetes mellitus subpopulation, the mean age was 67 years; 77% were males; 69% White, 19% Asian and 7% Black or African American; 32% were Hispanic/Latino.
+In the type 2 diabetes mellitus subpopulation, at baseline, 71% of patients were classified as NYHA class II, 28% class III and 0.7% class IV; the mean LVEF was 27%; the mean baseline eGFR was 61 mL/min/1.73 m2.
+In this subpopulation, at baseline, 88% of patients were treated with ACE inhibitors, ARB, or ARNI, 95% with beta-blockers, 70% with MRA, and 96% with diuretics.
+
+Results
+
+In EMPEROR-Reduced, empagliflozin 10 mg, compared with placebo, reduced the risk of the primary composite endpoint of cardiovascular death or hospitalization for heart failure (HHF) mostly through a reduction in HHF (HR 0.75 [95% CI 0.65, 0.86]).
+Empagliflozin reduced the risk of first and recurrent HHF, a key secondary endpoint.
+Because of the metformin component, SYNJARDY XR is not indicated for use in patients with heart failure without type 2 diabetes mellitus [see Indications and Usage (1)].
+
+The effect of empagliflozin in reducing the risk of the primary composite endpoint was consistent in patients with type 2 diabetes mellitus (HR 0.73 [95% CI 0.60, 0.87]), and in patients with type 2 diabetes mellitus and metformin as background therapy (HR 0.65 [95% CI 0.49, 0.86]).
+
+EMPEROR-Preserved Study (Chronic Heart Failure with Left Ventricular Ejection Fraction > 40%)
+
+EMPEROR-Preserved (NCT03057951) was a double-blind study conducted in patients with chronic heart failure NYHA Class II-IV with LVEF >40% to evaluate the efficacy of empagliflozin as adjunct to standard of care therapy.
+Of 5,988 patients, 2,997 patients were randomized to empagliflozin 10 mg once daily and 2,991 patients to placebo once daily and were followed for a median of 26 months.
+
+Baseline Disease Characteristics and Demographics
+
+EMPEROR-Preserved included patients with type 2 diabetes mellitus (n=2,928) and patients without type 2 diabetes mellitus (n=3,060).
+The mean age of the study population was 72 years (range: 22 to 100 years) and 55% were males, 45% were women, and 43% were 75 years of age or older.
+Approximately 76% of the study population were White, 14% Asian and 4% Black or African American.
+At randomization, 82% of patients were NYHA class II, 18% were class III and 0.3% were class IV.
+This study included patients with a LVEF <50% (33.1%), with a LVEF 50 to <60% (34.4%) and a LVEF ≥60% (32.5%).
+At baseline, the mean eGFR was 61 mL/min/1.73 m2 and the median urinary albumin to creatinine ratio (UACR) was 21 mg/g.
+Approximately half of the patients (50%) had eGFR equal to or above 60 mL/min/1.73 m2, 26% had eGFR 45 to less than 60 mL/min/1.73 m2, and 19% had eGFR 30 to less than 45 mL/min/1.73 m2.
+At baseline, 81% of patients were treated with ACE inhibitors, ARBs, or ARNI, 86% with beta-blockers, 38% with MRAs, and 86% with diuretics.
+
+In EMPEROR-Preserved, history of type 2 diabetes mellitus was present in 49% of the patients, and 54% of these patients were treated with metformin (773 patients in the empagliflozin group and 803 in the placebo group) and 29% were treated with insulin.
+In the type 2 diabetes mellitus subpopulation, the mean age was 71 years, 57% were males, 75% White, 13% Asian and 5% Black or African American.
+In the type 2 diabetes mellitus subpopulation, at baseline, 79% of patients were classified as NYHA class II, 20% class III and 0.2% class IV; the study also included type 2 diabetics with LVEF <50% (35%), with a LVEF 50 to <60% (34%) and a LVEF ≥60% (31%).
+For this subpopulation, the mean baseline eGFR was 60 mL/min/1.73 m2; and at baseline, 83% of patients were treated with ACE inhibitors, ARB, or ARNI, 88% with beta-blockers, 39% with MRA, and 89% with diuretics.
+
+Results
+
+In EMPEROR-Preserved, empagliflozin 10 mg, compared with placebo, reduced the risk of the primary composite endpoint (time to first event of either cardiovascular death or HHF) mostly through a reduction in hospitalization for heart failure (HR 0.79 [95% CI 0.69, 0.90]).
+Empagliflozin reduced the risk of first and recurrent HHF, a key secondary endpoint.
+Because of the metformin component, SYNJARDY XR is not indicated for use in patients with heart failure without type 2 diabetes mellitus [see Indications and Usage (1)].
+
+The effect of empagliflozin in reducing the risk of the primary composite endpoint was consistent in patients with type 2 diabetes mellitus (HR 0.80 [95% CI 0.67, 0.95]), and in patients with type 2 diabetes mellitus and metformin as background therapy (HR 0.79 [95% CI 0.61, 1.02]).

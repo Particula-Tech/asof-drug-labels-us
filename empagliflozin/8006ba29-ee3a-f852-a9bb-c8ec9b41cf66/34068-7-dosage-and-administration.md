@@ -1,23 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Prior to Initiation of SYNJARDY XR
+## 2.1 Recommendations Prior to Initiation of SYNJARDY XR
 
 - Assess renal function before initiating SYNJARDY XR and as clinically indicated [see Warnings and Precautions (5.1, 5.3)].
 - In patients with volume depletion, correct this condition before initiating SYNJARDY XR [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Recommended Dosage and Administration
 
-- Individualize the starting dose of SYNJARDY XR based on the patient's current regimen:
-  - In patients on metformin HCl, switch to SYNJARDY XR containing a similar total daily dose of metformin HCl and a total daily dose of empagliflozin 10 mg;
-  - In patients on empagliflozin, switch to SYNJARDY XR containing the same total daily dose of empagliflozin and a total daily dose of metformin HCl extended-release 1000 mg;
-  - In patients already treated with empagliflozin and metformin HCl, switch to SYNJARDY XR containing the same total daily doses of empagliflozin and a similar total daily dose of metformin HCl.
-- Monitor effectiveness and tolerability, and adjust dosing as appropriate, not to exceed the maximum recommended daily dose of empagliflozin 25 mg and metformin HCl 2000 mg.
-- The dose of metformin HCl should be gradually escalated to reduce the gastrointestinal side effects due to metformin.
-- Take SYNJARDY XR orally once daily with a meal in the morning
+- When switching to SYNJARDY XR from:
+  - Metformin HCl: initiate SYNJARDY XR at a similar total daily dosage of metformin HCl and a total daily empagliflozin dosage of 10 mg.
+  - Empagliflozin: initiate SYNJARDY XR at the same total daily dosage of empagliflozin and a total daily metformin HCl dosage of extended-release 1,000 mg.
+  - Empagliflozin and metformin HCl: initiate SYNJARDY XR at the same total daily dosages of each component.
+- Recommended dosage of SYNJARDY XR:
+  - The recommended dosage of empagliflozin is 10 mg once daily.
+  - For additional glycemic control, empagliflozin may be increased to a maximum once daily dosage of 25 mg in patients tolerating 10 mg once daily and metformin may be increased to a maximum once daily dosage of 2,000 mg, with gradual escalation to reduce gastrointestinal adverse reactions with metformin [see Adverse Reactions (6.1)].
+- Take SYNJARDY XR orally once daily with a meal in the morning.
 - Swallow SYNJARDY XR tablets whole.
   Do not split, crush, dissolve, or chew.
-- SYNJARDY XR 10 mg/1000 mg and 25 mg/1000 mg tablets should be taken as a single tablet once daily.
-  SYNJARDY XR 5 mg/1000 mg and 12.5 mg/1000 mg tablets should be taken as two tablets together once daily.
 
 ## 2.3 Dosage Recommendations in Patients with Renal Impairment
 
