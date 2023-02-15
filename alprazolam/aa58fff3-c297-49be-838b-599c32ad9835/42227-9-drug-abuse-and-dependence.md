@@ -23,7 +23,7 @@ Death is more often associated with polysubstance use (especially benzodiazepine
 
 ## 9.3 Dependence
 
-Physical Dependence
+### Physical Dependence
 
 XANAX XR may produce physical dependence from continued therapy.
 Physical dependence is a state that develops as a result of physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
@@ -32,18 +32,18 @@ Patients at an increased risk of withdrawal adverse reactions after benzodiazepi
 
 To reduce the risk of withdrawal reactions, use a gradual taper to discontinue XANAX XR or reduce the dosage [see Dosage and Administration (2.3), Warnings and Precautions (5.3)].
 
-Acute Withdrawal Signs and Symptoms
+#### Acute Withdrawal Signs and Symptoms
 
 Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
 More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
 
-Protracted Withdrawal Syndrome
+#### Protracted Withdrawal Syndrome
 
 Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
 Protracted withdrawal symptoms may last weeks to more than 12 months.
 As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
-Tolerance
+### Tolerance
 
 Tolerance to XANAX XR may develop from continued therapy.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).

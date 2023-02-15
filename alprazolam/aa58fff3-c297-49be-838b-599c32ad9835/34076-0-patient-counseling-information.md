@@ -25,7 +25,7 @@ Also advise patients to avoid use of alcohol or other CNS depressants while taki
 
 Patients with Depression
 
-Advise patients, their families and caregivers to look for signs of suicidality or worsening depression, and to inform the patient's healthcare provider immediately [see Warnings and Precautions (5.6)].
+Advise patients, their families and caregivers to look for signs of suicidality or worsening depression, and to inform the patient’s healthcare provider immediately [see Warnings and Precautions (5.6)].
 
 Concomitant Medications
 
@@ -33,11 +33,15 @@ Advise patients to inform their healthcare provider of all medicines they take, 
 
 Pregnancy
 
-Benzodiazepines cross the placenta and may produce respiratory depression and sedation in neonates.
-Advise mothers using XANAX XR to monitor neonates for signs of sedation, respiratory depression, withdrawal symptoms, and feeding problems.
-Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant during treatment with XANAX XR [see Warnings and Precautions (5.4)].
+Advise pregnant females that use of XANAX XR late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8), Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant.
+
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to XANAX XR during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with XANAX XR [see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding is not recommended during treatment with XANAX XR [see Use in Specific Populations (8.2)].
+
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
+
+UPJ:XNXXRT:RX2
