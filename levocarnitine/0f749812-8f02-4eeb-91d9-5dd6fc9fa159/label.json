@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA076858"
+  ],
+  "inn": "levocarnitine",
+  "labeler": "Rising Pharma Holdings, Inc.",
+  "package_ndcs": [
+    "16571-762-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "levocarnitine",
+      "name": "Levocarnitine"
+    }
+  ],
+  "setid": "0f749812-8f02-4eeb-91d9-5dd6fc9fa159",
+  "source": "dailymed"
+}
