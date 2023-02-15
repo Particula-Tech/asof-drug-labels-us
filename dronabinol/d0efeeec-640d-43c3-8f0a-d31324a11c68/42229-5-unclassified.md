@@ -7,7 +7,7 @@ What is the most important information I should know about MARINOL?
 MARINOL can cause serious side effects, including:
 
 - Worsening mental (psychiatric) symptoms.
-  Psychiatric symptoms can worsen in people who have mania, depression, or schizophrenia and who take MARINOL® (dronabinol capsules, USP).
+  Psychiatric symptoms can worsen in people who have mania, depression, or schizophrenia and who take MARINOL.
   MARINOL taken with medicines that cause psychiatric symptoms can worsen psychiatric symptoms.
   Elderly people who take MARINOL may have a greater risk of having psychiatric symptoms.
   Tell your doctor if you have new or worsening mood symptoms, including symptoms of mania, depression, or schizophrenia.
@@ -50,10 +50,10 @@ Before taking MARINOL, tell your doctor about all of your medical conditions, in
   MARINOL may harm your unborn baby.
   Avoid the use of MARINOL if you are pregnant.
 - are breastfeeding or plan to breastfeed.
-  The Centers for Disease Control and Prevention recommends that mothers with HIV not breastfeed because they can pass the HIV through their breast milk to the baby.
   It is not known if MARINOL passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take MARINOL.
-  Do not breastfeed while taking MARINOL and for 9 days after your last dose of MARINOL if you are being treated for nausea and vomiting caused by anti-cancer medicine.
+  The Centers for Disease Control and Prevention recommends that mothers with HIV not breastfeed because they can pass the HIV through their breast milk to the baby.
+  If you are being treated for nausea and vomiting caused by anti-cancer medicine and you breastfeed while taking MARINOL, your doctor should check the weight of your baby regularly.
 
 Tell your doctor about all the medicines you take or have taken in the last 14 days, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 MARINOL and certain other medicines can affect each other, causing serious side effects.
@@ -67,11 +67,11 @@ How should I take MARINOL?
   - MARINOL is usually taken 2 times each day, 1 hour before lunch and 1 hour before dinner.
     If you are elderly or unable to tolerate this dose of MARINOL, your doctor may prescribe MARINOL to be taken 1 time each day, 1 hour before dinner or bedtime to reduce your chance of having nervous system problems.
 - If you are an adult with nausea and vomiting caused by anti-cancer medicine:
-  - MARINOL® (dronabinol capsules, USP), is usually taken 1 to 3 hours before your chemotherapy treatment and then every 2 to 4 hours after chemotherapy for up to 4 to 6 doses each day.
+  - MARINOL is usually taken 1 to 3 hours before your chemotherapy treatment and then every 2 to 4 hours after chemotherapy for up to 4 to 6 doses each day.
     If you are elderly, your doctor may prescribe MARINOL to be taken 1 to 3 hours before your chemotherapy, 1 time each day to reduce your chance of having nervous system problems.
   - Take your first dose of MARINOL on an empty stomach at least 30 minutes before eating.
     After your first dose of MARINOL, you can take MARINOL with or without food.
-    Always take your dose at the same time with regard to meals.
+    Always take your dose at the same time in relation to your meal times for each chemotherapy treatment.
 - If you take too much MARINOL, call your Poison Control Center at 1-800-222-1222 right away.
 
 What should I avoid while taking MARINOL?
@@ -79,7 +79,9 @@ What should I avoid while taking MARINOL?
 - Do not drive, operate machinery, or do other dangerous activities until you know how MARINOL affects you.
   MARINOL taken with other medicines that cause dizziness, confusion, and sleepiness may make these symptoms worse.
 
-What are the possible side effects of MARINOL?MARINOL may cause serious side effects, including:
+What are the possible side effects of MARINOL?
+
+MARINOL may cause serious side effects, including:
 
 - See “What is the most important information I should know about MARINOL?”
 - Seizures.
@@ -114,10 +116,10 @@ How should I store MARINOL?
 
 Keep MARINOL and all medicines out of the reach of children.
 
-General information about the safe and effective use of MARINOL
+General information about the safe and effective use of MARINOL.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-Do not use MARINOL® (dronabinol capsules, USP), for a condition for which it was not prescribed.
+Do not use MARINOL for a condition for which it was not prescribed.
 Do not give MARINOL to other people, even if they have the same symptoms that you have.
 It may harm them.
 You can ask your doctor or pharmacist for information about MARINOL that is written for health professionals.
@@ -128,7 +130,7 @@ Active ingredient: dronabinol
 
 Inactive ingredients: 2.5 mg capsules contain gelatin, glycerin, sesame oil, and titanium dioxide; 5 mg capsules contain iron oxide red and iron oxide black, gelatin, glycerin, sesame oil, and titanium dioxide; 10 mg capsules contain iron oxide red and iron oxide yellow, gelatin, glycerin, sesame oil, and titanium dioxide.
 
-Manufactured by: Patheon Softgels Inc., High Point, NC 27265
+Manufactured by: Patheon Softgels Inc. High Point, NC 27265
 
 Manufactured for: Alkem Laboratories Ltd.,
 
@@ -142,6 +144,4 @@ For more information, go to www.thepharmanetwork.com or call 1-877-272-7901.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: December, 2019
-
-1248D99 12/19
+Revised: January, 2023

@@ -28,8 +28,8 @@ Advise pregnant women of the potential risk to a fetus and to avoid use of MARIN
 
 Lactation
 
-- Advise HIV infected women with anorexia associated with weight loss, not to breastfeed.
-- Advise women with nausea and vomiting associated with cancer chemotherapy not to breastfeed during treatment with MARINOL and for 9 days after the last dose [see Use in Specific Populations (8.2)].
+- Advise HIV infected women with anorexia associated with weight loss, not to breastfeed because HIV can be passed to the baby through the breast milk.
+- Advise women with nausea and vomiting associated with cancer chemotherapy that breastfeeding infants should have their weight monitored [see Use in Specific Populations (8.2)].
 
 Manufactured by: Patheon Softgels Inc.
 
@@ -43,4 +43,4 @@ Distributed by: ThePharmaNetwork
 
 Parsippany, New Jersey 07054
 
-1248F00 10/20
+1248F00 01/23
