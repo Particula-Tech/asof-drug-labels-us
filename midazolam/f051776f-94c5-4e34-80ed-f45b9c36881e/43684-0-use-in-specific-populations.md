@@ -4,7 +4,9 @@
 
 Risk Summary
 
-Infants born to mothers using benzodiazepines, including midazolam, during the later stages of pregnancy have been reported to experience symptoms of sedation [see Warnings and Precautions (5.10), and Clinical Considerations].
+Neonates born to mothers using benzodiazepines, including midazolam, late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.10), and Clinical Considerations].
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
 Available data from randomized controlled trials, cohort studies and case reports over several decades with midazolam use in pregnant women for anesthesia have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 Most of the reported exposures to midazolam occurred at the time of cesarean delivery.
 Rare case reports of the prolonged use of midazolam in pregnant women for sedation in a critical care setting are insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes (see Data).
@@ -14,16 +16,18 @@ In pregnant rats and rabbits, midazolam did not cause adverse effects to the fet
 Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
 There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
-Fetal/neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
-Midazolam crosses the placenta and may produce respiratory depression and sedation in neonates.
-Monitor neonates exposed to midazolam during pregnancy and labor for signs of sedation, respiratory depression, and manage accordingly [see Warnings and Precautions (5.2)].
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
+Monitor neonates exposed to midazolam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to midazolam during pregnancy for signs of withdrawal.
+Manage these neonates accordingly [see Warnings and Precautions (5.2)].
 
 Data
 
@@ -32,8 +36,6 @@ Human Data
 Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
 Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
 In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
-
-Infants exposed to benzodiazepines, including midazolam, during the late third trimester of pregnancy or during labor have been reported to exhibit sedation and neonatal withdrawal symptoms.
 
 Animal Data
 
@@ -61,13 +63,16 @@ The clinical significance of these findings is not clear; however, studies in ju
 
 Risk Summary
 
+There are reports of sedation, poor feeding, and poor weight gain in infants exposed to benzodiazepines through breast milk.
 Based on data from published studies, midazolam is present in human milk in low levels (see Data).
 There are no data on the effects of midazolam on milk production.
-There are reports of sedation in infants exposed to benzodiazepines through breast milk.
-Monitor infants exposed to midazolam through breast milk for sedation, respiratory depression, and feeding problems.
-Based on published clinical studies and guidelines, a lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment for a range of at least 4 to 8 hours after midazolam administration in order to minimize drug exposure to a breastfed infant.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Midazolam in Sodium Chloride Injection and any potential adverse effects on the breastfed infant form Midazolam in Sodium Chloride Injection or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Midazolam in Sodium Chloride Injection and any potential adverse effects on the breastfed infant from Midazolam in Sodium Chloride Injection or from the underlying maternal condition.
+
+Clinical Considerations
+
+Infants exposed to midazolam through breast milk should be monitored for sedation, poor feeding, and poor weight gain.
+A lactating woman may consider interrupting breastfeeding and pumping and discarding breast milk during treatment for a range of at least 4 to 8 hours after midazolam administration in order to minimize drug exposure to a breastfed infant.
 
 Data
 

@@ -7,7 +7,7 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Dependence and Withdrawal [see Warnings and Precautions (5.5)]
 - •Impaired Cognitive Function [see Warnings and Precautions (5.8)]
 - •Hypotension and Seizure in Preterm Infants and Neonates [see Warnings and Precautions (5.9)]
-- •Neonatal Sedation [see Warnings and Precautions (5.10)]
+- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.10), Use in Specific Populations (8.1)]
 - •Pediatric Neurotoxicity [see Warnings and Precautions (5.11)]
 
 The following adverse reactions have been identified from literature or postmarketing reports of midazolam.

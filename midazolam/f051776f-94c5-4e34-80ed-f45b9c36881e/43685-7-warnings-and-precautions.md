@@ -90,10 +90,10 @@ Seizures have been reported in several neonates following rapid intravenous admi
 
 The neonate also has reduced and/or immature organ function and is also vulnerable to profound and/or prolonged respiratory effects of midazolam.
 
-## 5.10 Risk of Neonatal Sedation in Later Stages of Pregnancy
+## 5.10 Neonatal Sedation and Withdrawal Syndrome
 
-Use of benzodiazepines during the later stages of pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) in the neonate.
-Observe newborns for signs of sedation and manage accordingly [see Use in Specific Populations (8.1, 8.4)].
+Receiving Midazolam in Sodium Chloride Injection late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate.
+Monitor neonates exposed to Midazolam in Sodium Chloride Injection during pregnancy or labor for signs of sedation and manage these neonates accordingly [see Use in Specific Populations (8.1)].
 
 ## 5.11 Pediatric Neurotoxicity
 
