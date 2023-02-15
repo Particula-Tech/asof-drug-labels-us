@@ -1,45 +1,47 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 REVATIO Tablets and Oral Suspension
+## 2.1 Recommended Dosage in Adults
 
-The recommended dose of REVATIO is 5 mg or 20 mg three times a day.
-Administer REVATIO doses 4–6 hours apart.
+### Oral Dosage
 
-In the clinical trial no greater efficacy was achieved with the use of higher doses.
-Treatment with doses higher than 20 mg three times a day is not recommended.
+The recommended dosage of REVATIO is 20 mg three times a day.
+Dose may be titrated to a maximum of 80 mg three times a day, if required, based on symptoms and tolerability [see Clinical Studies (14)].
 
-## 2.2 REVATIO Injection
+Although dose-response improvement in exercise ability was not observed in short-term studies in adults with PAH, the delay in clinical worsening with long-term use of sildenafil in Study A1481324 supports dosing up to a maximum of 80 mg three times a day [see Clinical Studies (14)].
 
-REVATIO injection is for the continued treatment of patients with PAH who are currently prescribed oral REVATIO and who are temporarily unable to take oral medication.
+### Intravenous Dosage
 
-The recommended dose is 2.5 mg or 10 mg administered as an intravenous bolus injection three times a day.
+The recommended dose is 10 mg administered as an intravenous bolus injection three times a day.
 The dose of REVATIO injection does not need to be adjusted for body weight.
 
-A 10 mg dose of REVATIO injection is predicted to provide pharmacological effect of sildenafil and its N-desmethyl metabolite equivalent to that of a 20 mg oral dose.
+A 10-mg dose of REVATIO injection is predicted to provide pharmacological effect of sildenafil and its N-desmethyl metabolite equivalent to that of a 20-mg oral dose.
+
+## 2.2 Recommended Dosage in Pediatric Patients
+
+### Oral Dosage
+
+The recommended dosage in patients ≤20 kg is 10 mg three times a day.
+
+For pediatric patients 20 kg to 45 kg, the recommended dosage is 20 mg three times a day.
+
+For pediatric patients 45 kg and greater, the recommended dosage is 20 mg three times a day.
+A maximum dose in pediatric patients has not been identified.
+Based on the experience in adults, dose may be titrated to a maximum of 40 mg three times a day for pediatric patients >45 kg, if required, based on symptoms and tolerability [see Clinical Studies (14)].
 
 ## 2.3 Reconstitution of the Powder for Oral Suspension
 
 Note: Reconstitute the contents of the bottle with a total volume of 90 mL (60 mL followed by 30 mL).
 Refer to the detailed instructions below.
 
-1. Tap the bottle to release the powder.
-2. Remove the cap.
-3. Accurately measure out 60 mL of water and pour the water into the bottle.
-   (Figure 1)
-4. Replace the cap and shake the bottle vigorously for a minimum of 30 seconds.
-   (Figure 2)
-5. Remove the cap.
-6. Accurately measure out another 30 mL of water and add this to the bottle.
-   You should always add a total of 90 mL of water irrespective of the dose prescribed.
-   (Figure 3)
-7. Replace the cap and shake the bottle vigorously for a minimum of 30 seconds.
-   (Figure 4)
-8. Remove the cap.
-9. Press the bottle adaptor into the neck of the bottle (as shown on Figure 5, below).
-   The adaptor is provided so that you can fill the oral syringe with medicine from the bottle.
+1. 1.Tap the bottle to loosen the powder.
+2. 2.Add 60 mL of water to the bottle.
+3. 3.Replace the cap and shake the bottle vigorously for a minimum of 30 seconds.
+4. 4.Add another 30 mL of water to the bottle.
+5. 5.Replace the cap and shake the bottle vigorously for a minimum of 30 seconds.
+6. 6.Remove cap and press the bottle adaptor into the neck of the bottle.
    Replace the cap on the bottle.
-10. Write the expiration date of the reconstituted oral suspension on the bottle label (the expiration date of the reconstituted oral suspension is 60 days from the date of reconstitution).
+7. 7.Write the expiration date of the reconstituted oral suspension on the bottle label (the expiration date of the reconstituted oral suspension is 60 days from the date of reconstitution).
 
-Incompatibilities
+### Incompatibilities
 
 Do not mix with any other medication or additional flavoring agent.

@@ -9,12 +9,12 @@ Sildenafil citrate is a white to off-white crystalline powder with a solubility 
 
 REVATIO (sildenafil) Tablets: REVATIO is formulated as white, film-coated round tablets for oral administration.
 Each tablet contains sildenafil citrate equivalent to 20 mg of sildenafil.
-In addition to the active ingredient, sildenafil citrate, each tablet contains the following inactive ingredients: microcrystalline cellulose, anhydrous dibasic calcium phosphate, croscarmellose sodium, magnesium stearate, hypromellose, titanium dioxide, lactose monohydrate, and triacetin.
+In addition to the active ingredient, sildenafil citrate, each tablet contains the following inactive ingredients: anhydrous dibasic calcium phosphate, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide, and triacetin.
 
-REVATIO (sildenafil) Injection: REVATIO is supplied as a clear, colorless, sterile, ready to use solution in a single-use vial containing 10 mg/12.5 mL of sildenafil.
-Each mL of solution contains 1.124 mg sildenafil citrate (equivalent to 0.8 mg sildenafil), 50.5 mg dextrose and water for injection.
+REVATIO (sildenafil) Injection: REVATIO is supplied as a clear, colorless, sterile, ready to use solution in a single‑use vial containing 10 mg/12.5 mL of sildenafil.
+Each mL of solution contains 1.124 mg sildenafil citrate (equivalent to 0.8 mg sildenafil), 50.5 mg dextrose, and water for injection.
 
 REVATIO (sildenafil) for Oral Suspension: REVATIO is supplied as white to off-white powders containing 1.57 g of sildenafil citrate (equivalent to1.12 g sildenafil) in an amber glass bottle intended for reconstitution.
-Following reconstitution with 90 mL water, the volume of the oral suspension is 112 mL and the oral suspension contains 10 mg/mL sildenafil.
-The inactive ingredients include sorbitol, citric acid anhydrous, sucralose, sodium citrate dihydrate, xanthan gum, titanium dioxide, sodium benzoate, colloidal silicon dioxide anhydrous and grape flavor.
+Following reconstitution with 90 mL water, the total volume of the oral suspension is 112 mL and the oral suspension contains 10 mg/mL sildenafil.
+The inactive ingredients include citric acid anhydrous, colloidal silicon dioxide anhydrous, grape flavor, sodium benzoate, sodium citrate dihydrate, sorbitol, sucralose, titanium dioxide, and xanthan gum.
 In addition to the bottle, a press-in bottle adapter and an oral dosing syringe (with 0.5 mL and 2 mL dose markings) are provided.
