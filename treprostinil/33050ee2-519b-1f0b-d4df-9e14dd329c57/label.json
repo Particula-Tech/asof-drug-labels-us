@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA210214"
+  ],
+  "inn": "treprostinil",
+  "labeler": "Dr.Reddy's Laboratories Inc.,",
+  "package_ndcs": [
+    "43598-126-11",
+    "43598-646-11",
+    "43598-647-11",
+    "43598-648-11",
+    "43598-649-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "water",
+      "name": "Sterile Diluent for Treprostinil"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "treprostinil",
+      "name": "Treprostinil"
+    }
+  ],
+  "setid": "33050ee2-519b-1f0b-d4df-9e14dd329c57",
+  "source": "dailymed"
+}
