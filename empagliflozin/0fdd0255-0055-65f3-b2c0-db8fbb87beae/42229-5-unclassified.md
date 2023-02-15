@@ -6,12 +6,12 @@ Licensed from: Boehringer Ingelheim International GmbH, Ingelheim, Germany
 
 SYNJARDY is a registered trademark of and used under license from Boehringer Ingelheim International GmbH.
 
-Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Jardiance® and EMPA-REG OUTCOME® trademarks under license.
+Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Jardiance®, EMPA-REG OUTCOME®, EMPEROR-Reduced® and EMPEROR-Preserved® trademarks under license.
 
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2022 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-SPL8975F
+COL8974HB072023
 
-COL8974GJ072022
+SPL8975E

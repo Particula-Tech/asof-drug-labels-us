@@ -17,7 +17,7 @@ For each of the known and possible risk factors for metformin-associated lactic 
 
 Renal Impairment: The postmarketing metformin-associated lactic acidosis cases primarily occurred in patients with significant renal impairment.
 The risk of metformin accumulation and metformin-associated lactic acidosis increases with the severity of renal impairment because metformin is substantially excreted by the kidney.
-Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Clinical recommendations based upon the patient's renal function include [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)]:
 
 - Before initiating SYNJARDY, obtain an estimated glomerular filtration rate (eGFR).
 - SYNJARDY is contraindicated in patients with an eGFR below 30 mL/min/1.73 m2 [see Contraindications (4)].
@@ -61,7 +61,7 @@ Treatment of ketoacidosis may require insulin, fluid and carbohydrate replacemen
 
 In many of the postmarketing reports, and particularly in patients with type 1 diabetes, the presence of ketoacidosis was not immediately recognized and institution of treatment was delayed because presenting blood glucose levels were below those typically expected for diabetic ketoacidosis (often less than 250 mg/dL).
 Signs and symptoms at presentation were consistent with dehydration and severe metabolic acidosis and included nausea, vomiting, abdominal pain, generalized malaise, and shortness of breath.
-In some but not all cases, factors predisposing to ketoacidosis such as insulin dose reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
+In some but not all cases, factors predisposing to ketoacidosis such as insulin dosage reduction, acute febrile illness, reduced caloric intake, surgery, pancreatic disorders suggesting insulin deficiency (e.g., type 1 diabetes, history of pancreatitis or pancreatic surgery), and alcohol abuse were identified.
 
 Before initiating SYNJARDY, consider factors in the patient history that may predispose to ketoacidosis including pancreatic insulin deficiency from any cause, caloric restriction, and alcohol abuse.
 
@@ -83,15 +83,15 @@ Monitor for signs and symptoms of volume depletion, and renal function after ini
 
 ## 5.4 Urosepsis and Pyelonephritis
 
-There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving SGLT2 inhibitors, including empagliflozin.
-Treatment with SGLT2 inhibitors increases the risk for urinary tract infections.
+There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving empagliflozin.
+Treatment with empagliflozin increases the risk for urinary tract infections.
 Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
 
 ## 5.5 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
 Insulin and insulin secretagogues are known to cause hypoglycemia.
 The risk of hypoglycemia is increased when SYNJARDY is used in combination with insulin secretagogues (e.g., sulfonylurea) or insulin [see Adverse Reactions (6.1)].
-Therefore, a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with SYNJARDY.
+Therefore, a lower dosage of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia when used in combination with SYNJARDY.
 
 ## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 

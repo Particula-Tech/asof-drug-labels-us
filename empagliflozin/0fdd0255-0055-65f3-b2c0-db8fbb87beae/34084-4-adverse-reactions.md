@@ -16,20 +16,16 @@ The following important adverse reactions are described below and elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of concomitantly administered empagliflozin (daily dose 10 mg and 25 mg) and metformin hydrochloride (mean daily dose of approximately 1800 mg) has been evaluated in 3456 patients with type 2 diabetes mellitus treated for 16 to 24 weeks, of which 926 patients received placebo, 1271 patients received a daily dose of empagliflozin 10 mg, and 1259 patients received a daily dose of empagliflozin 25 mg.
+The safety of concomitantly administered empagliflozin (daily dosage 10 mg or 25 mg) and metformin hydrochloride (mean daily dosage of approximately 1,800 mg) has been evaluated in 3,456 adult patients with type 2 diabetes mellitus treated for 16 to 24 weeks, of which 926 patients received placebo, 1,271 patients received a daily dosage of empagliflozin 10 mg, and 1,259 patients received a daily dosage of empagliflozin 25 mg.
 Discontinuation of therapy due to adverse events across treatment groups was 3.0%, 2.8%, and 2.9% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Empagliflozin Add-On Combination Therapy with Metformin
+Adverse Reactions in a Clinical Trial with Empagliflozin (Add-On Combination Therapy with Metformin and Sulfonylurea) for Glycemic Control in Adults with Type 2 Diabetes Mellitus
 
-In a 24-week placebo-controlled trial of empagliflozin 10 mg and 25 mg administered once daily added to metformin, there were no adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo.
+In a 24-week placebo-controlled trial of empagliflozin 10 mg or 25 mg administered once daily added to metformin and sulfonylurea, adverse reactions reported in ≥5% of empagliflozin-treated patients and more commonly than in placebo-treated patients are presented in Table 1 (see also Table 4).
 
-Empagliflozin Add-On Combination Therapy with Metformin and Sulfonylurea
+Table 1 Adverse Reactions Reported in ≥5% of Adults with Type 2 Diabetes Mellitus Treated with Empagliflozin added on to Metformin plus Sulfonylurea and Greater than with Placebo in a 24-week Placebo Controlled Clinical Study
 
-In a 24-week placebo-controlled trial of empagliflozin 10 mg and 25 mg administered once daily added to metformin and sulfonylurea, adverse reactions reported regardless of investigator assessment of causality in ≥5% of patients and more commonly than in patients given placebo are presented in Table 1 (see also Table 4).
-
-Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empagliflozin added on to Metformin plus Sulfonylurea and Greater than with Placebo in a 24-week Placebo Controlled Clinical Study
-
-| Adverse Reactions | Placebo (%) n=225 | Empagliflozin 10 mg (%) n=224 | Empagliflozin 25 mg (%) n=217 |
+| Adverse Reactions | Placebo + metformin and sulfonylurea (%) n=225 | Empagliflozin 10 mg + metformin and sulfonylurea (%) n=224 | Empagliflozin 25 mg + metformin and sulfonylurea (%) n=217 |
 | --- | --- | --- | --- |
 | Hypoglycemia | 9.8 | 15.6 | 12.9 |
 | Urinary tract infection | 6.7 | 9.4 | 6.9 |
@@ -37,10 +33,12 @@ Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empaglifloz
 
 Empagliflozin
 
-The data in Table 2 are derived from a pool of four 24-week placebo-controlled trials and 18-week data from a placebo-controlled trial with basal insulin.
+Clinical Trials in Patients with Type 2 Diabetes Mellitus
+
+The data in Table 2 are derived from a pool of four 24-week placebo-controlled trials and 18-week data from a placebo-controlled trial with basal insulin in adult patients with type 2 diabetes mellitus.
 Empagliflozin was used as monotherapy in one trial and as add-on therapy in four trials [see Clinical Studies (14)].
 
-These data reflect exposure of 1976 patients to empagliflozin with a mean exposure duration of approximately 23 weeks.
+These data reflect exposure of 1,976 patients to empagliflozin with a mean exposure duration of approximately 23 weeks.
 Patients received placebo (N=995), empagliflozin 10 mg (N=999), or empagliflozin 25 mg (N=977) once daily.
 The mean age of the population was 56 years and 3% were older than 75 years of age.
 More than half (55%) of the population was male; 46% were White, 50% were Asian, and 3% were Black or African American.
@@ -48,10 +46,9 @@ At baseline, 57% of the population had diabetes more than 5 years and had a mean
 Established microvascular complications of diabetes at baseline included diabetic nephropathy (7%), retinopathy (8%), or neuropathy (16%).
 Baseline renal function was normal or mildly impaired in 91% of patients and moderately impaired in 9% of patients (mean eGFR 86.8 mL/min/1.73 m2).
 
-Table 2 shows common adverse reactions (excluding hypoglycemia) associated with the use of empagliflozin.
-The adverse reactions were not present at baseline, occurred more commonly on empagliflozin than on placebo and occurred in greater than or equal to 2% of patients treated with empagliflozin 10 mg or empagliflozin 25 mg.
+Table 2 shows adverse reactions (excluding hypoglycemia) that were not present at baseline, occurred more commonly in empagliflozin-treated patients than placebo-treated patients, and occurred in greater than or equal to 2% of empagliflozin-treated patients.
 
-Table 2 Adverse Reactions Reported in ≥2% of Patients Treated with Empagliflozin and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Empagliflozin Monotherapy or Combination Therapy
+Table 2 Adverse Reactions Reported in ≥2% of Adults with Type 2 Diabetes Mellitus Treated with Empagliflozin and Greater than Placebo in Pooled Placebo-Controlled Clinical Studies of Empagliflozin Monotherapy or Combination Therapy
 
 | Adverse Reactions | Placebo (%) N=995 | Empagliflozin 10 mg (%) N=999 | Empagliflozin 25 mg (%) N=977 |
 | --- | --- | --- | --- |
@@ -81,12 +78,12 @@ Increased Urination
 In the pool of five placebo-controlled clinical trials, adverse reactions of increased urination (e.g., polyuria, pollakiuria, and nocturia) occurred more frequently on empagliflozin than on placebo (see Table 2).
 Specifically, nocturia was reported by 0.4%, 0.3%, and 0.8% of patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Hypoglycemia
+Hypoglycemia in Clinical Trials with Empagliflozin for Glycemic Control in Adults with Type 2 Diabetes Mellitus
 
 The incidence of hypoglycemia by study is shown in Table 3.
 The incidence of hypoglycemia increased when empagliflozin was administered with insulin or sulfonylurea.
 
-Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studiesc
+Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Controlled Clinical Studies for Glycemic Control in Adults with Type 2 Diabetes Mellitusc
 
 | Monotherapy (24 weeks) | Placebo (n=229) | Empagliflozin 10 mg (n=224) | Empagliflozin 25 mg (n=223) |
 | --- | --- | --- | --- |
@@ -109,50 +106,43 @@ Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Control
 | Severe (%) | 0.5 | 0.5 | 0.5 |
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL |  |  |  |
 | bSevere hypoglycemic events: requiring assistance regardless of blood glucose |  |  |  |
-| cTreated set (patients who had received at least one dose of study drug) |  |  |  |
-| dInsulin dose could not be adjusted during the initial 18-week treatment period |  |  |  |
+| cTreated set (patients who had received at least one dosage of study drug) |  |  |  |
+| dInsulin dosage could not be adjusted during the initial 18-week treatment period |  |  |  |
 
-Genital Mycotic Infections
+Other Adverse Reactions in Clinical Trials with Empagliflozin for Glycemic Control in Adults with Type 2 Diabetes Mellitus
 
-In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with empagliflozin compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
-Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 mg or 25 mg.
+- Genital Mycotic Infections: In the pool of five placebo-controlled clinical trials, the incidence of genital mycotic infections (e.g., vaginal mycotic infection, vaginal infection, genital infection fungal, vulvovaginal candidiasis, and vulvitis) was increased in patients treated with empagliflozin compared to placebo, occurring in 0.9%, 4.1%, and 3.7% of patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
+  Discontinuation from study due to genital infection occurred in 0% of placebo-treated patients and 0.2% of patients treated with either empagliflozin 10 or 25 mg.
+  Genital mycotic infections occurred more frequently in female than male patients (see Table 2).
+  Phimosis occurred more frequently in male patients treated with empagliflozin 10 mg (less than 0.1%) and empagliflozin 25 mg (0.1%) than placebo (0%).
 
-Genital mycotic infections occurred more frequently in female than male patients (see Table 2).
+- Urinary Tract Infections: In the pool of five placebo-controlled clinical trials, the incidence of urinary tract infections (e.g., urinary tract infection, asymptomatic bacteriuria, and cystitis) was increased in patients treated with empagliflozin compared to placebo (see Table 2).
+  Patients with a history of chronic or recurrent urinary tract infections were more likely to experience a urinary tract infection.
+  The rate of treatment discontinuation due to urinary tract infections was 0.1%, 0.2%, and 0.1% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
+  Urinary tract infections occurred more frequently in female patients.
+  The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
+  The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
 
-Phimosis occurred more frequently in male patients treated with empagliflozin 10 mg (less than 0.1%) and empagliflozin 25 mg (0.1%) than placebo (0%).
-
-Urinary Tract Infections
-
-In the pool of five placebo-controlled clinical trials, the incidence of urinary tract infections (e.g., urinary tract infection, asymptomatic bacteriuria, and cystitis) was increased in patients treated with empagliflozin compared to placebo (see Table 2).
-Patients with a history of chronic or recurrent urinary tract infections were more likely to experience a urinary tract infection.
-The rate of treatment discontinuation due to urinary tract infections was 0.1%, 0.2%, and 0.1% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
-
-Urinary tract infections occurred more frequently in female patients.
-The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
-The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
-
-Metformin
+Adverse Reactions with Clinical Trials of Metformin
 
 The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
-Laboratory Tests
+Laboratory Test Abnormalities in Clinical Trials of Empagliflozin or Metformin
 
 Empagliflozin
 
-Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
-In a study of patients with moderate renal impairment, larger mean changes were observed.
-In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
-
-Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
-LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
-The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
-
-Increase in Hematocrit: In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg-treated patients.
-At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
+- Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
+  In a study of patients with moderate renal impairment, larger mean changes were observed.
+  In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
+- Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
+  LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
+  The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
+- Increase in Hematocrit: In a pool of four placebo-controlled studies, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg-treated patients.
+  At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Metformin
 
-Decrease in Vitamin B12: In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+- Decrease in Vitamin B12: In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
 ## 6.2 Postmarketing Experience
 
@@ -161,16 +151,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Empagliflozin
 
-Gastrointestinal Disorders: Constipation
-
-Infections: Necrotizing fasciitis of the perineum (Fournier's gangrene), urosepsis and pyelonephritis
-
-Metabolism and Nutrition Disorders: Ketoacidosis
-
-Renal and Urinary Disorders: Acute kidney injury
-
-Skin and Subcutaneous Tissue Disorders: Angioedema, skin reactions (e.g., rash, urticaria)
+- Gastrointestinal Disorders: Constipation
+- Infections: Necrotizing fasciitis of the perineum (Fournier's gangrene), urosepsis and pyelonephritis
+- Metabolism and Nutrition Disorders: Ketoacidosis
+- Renal and Urinary Disorders: Acute kidney injury
+- Skin and Subcutaneous Tissue Disorders: Angioedema, skin reactions (e.g., rash, urticaria)
 
 Metformin hydrochloride
 
-Hepatobiliary Disorders: Cholestatic, hepatocellular, and mixed hepatocellular liver injury
+- Hepatobiliary Disorders: Cholestatic, hepatocellular, and mixed hepatocellular liver injury

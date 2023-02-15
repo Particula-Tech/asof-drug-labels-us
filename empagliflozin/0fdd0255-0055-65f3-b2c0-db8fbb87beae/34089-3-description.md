@@ -4,7 +4,7 @@ SYNJARDY tablets for oral use contain: empagliflozin and metformin hydrochloride
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2).
+Empagliflozin is an inhibitor of the SGLT2.
 
 The chemical name of empagliflozin is D-Glucitol,1,5-anhydro-1-C-[4-chloro-3-[[4-[[(3S)-tetrahydro-3-furanyl]oxy]phenyl]methyl]phenyl]-, (1S).
 
@@ -25,7 +25,7 @@ The structural formula is:
 
 SYNJARDY
 
-SYNJARDY tablets for oral administration are available in four dosage strengths containing 5 mg empagliflozin and 500 mg metformin hydrochloride, 5 mg empagliflozin and 1000 mg metformin hydrochloride, 12.5 mg empagliflozin and 500 mg metformin hydrochloride, or 12.5 mg empagliflozin and 1000 mg metformin hydrochloride.
+SYNJARDY tablets for oral administration are available in four dosage strengths containing 5 mg empagliflozin and 500 mg metformin hydrochloride, 5 mg empagliflozin and 1,000 mg metformin hydrochloride, 12.5 mg empagliflozin and 500 mg metformin hydrochloride, or 12.5 mg empagliflozin and 1,000 mg metformin hydrochloride.
 
 Each film-coated tablet of SYNJARDY contains the following inactive ingredients: copovidone, corn starch, colloidal silicon dioxide, magnesium stearate.
-Film-coating: hypromellose, titanium dioxide, talc, polyethylene glycol 400, and yellow ferric oxide (5 mg/500 mg, 5 mg/1000 mg) or red ferric oxide and black ferrosoferric oxide (12.5 mg/500 mg, 12.5 mg/1000 mg).
+Film-coating: hypromellose, titanium dioxide, talc, polyethylene glycol 400, and yellow ferric oxide (5 mg/500 mg, 5 mg/1,000 mg) or red ferric oxide and black ferrosoferric oxide (12.5 mg/500 mg, 12.5 mg/1,000 mg).

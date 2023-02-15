@@ -46,9 +46,9 @@ In pre- and postnatal development studies in pregnant rats, empagliflozin was ad
 Reduced body weight was observed in the offspring at greater than or equal to 30 mg/kg/day (approximately 4-times the 25 mg maximum clinical dose).
 
 Metformin hydrochloride: Metformin hydrochloride did not cause adverse developmental effects when administered to pregnant Sprague Dawley rats and rabbits at doses up to 600 mg/kg/day during the period of organogenesis.
-This represents an exposure of approximately 2- and 6-times a clinical dose of 2000 mg, based on body surface area (mg/m2) for rats and rabbits, respectively.
+This represents an exposure of approximately 2- and 6-times a clinical dose of 2,000 mg, based on body surface area (mg/m2) for rats and rabbits, respectively.
 
-Empagliflozin and Metformin hydrochloride: No adverse developmental effects were observed when empagliflozin and metformin hydrochloride were coadministered to pregnant rats during the period of organogenesis at exposures of approximately 35- and 14-times the clinical AUC exposure of empagliflozin associated with the 10 mg and 25 mg doses, respectively, and 4-times the clinical AUC exposure of metformin associated with the 2000 mg dose.
+Empagliflozin and Metformin hydrochloride: No adverse developmental effects were observed when empagliflozin and metformin hydrochloride were coadministered to pregnant rats during the period of organogenesis at exposures of approximately 35- and 14-times the clinical AUC exposure of empagliflozin associated with the 10 mg and 25 mg doses, respectively, and 4-times the clinical AUC exposure of metformin associated with the 2,000 mg dose.
 
 ## 8.2 Lactation
 
@@ -87,12 +87,16 @@ The recommended dosage for the metformin component of SYNJARDY in geriatric pati
 
 Empagliflozin
 
-In empagliflozin type 2 diabetes studies, 2721 empagliflozin-treated patients were 65 years of age and older and 491 patients were 75 years of age and older.
+In empagliflozin type 2 diabetes mellitus studies, 2,721 empagliflozin-treated patients were 65 years of age and older and 491 patients were 75 years of age and older.
 In these studies, volume depletion-related adverse reactions occurred in 2.1%, 2.3%, and 4.4% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively; and urinary tract infections occurred in 10.5%, 15.7%, and 15.1% of patients 75 years of age and older in the placebo, empagliflozin 10 mg, and empagliflozin 25 mg once daily groups, respectively.
+
+In heart failure studies, EMPEROR-Reduced included 1,188 (64%) patients treated with empagliflozin 65 years of age and older, and 503 (27%) patients 75 years of age and older.
+EMPEROR-Preserved included 2,402 (80%) patients treated with empagliflozin 65 years of age and older, and 1,281 (43%) patients 75 years of age and older.
+No overall differences in safety and effectiveness have been observed between patients 65 years of age and older and younger adult patients.
 
 Metformin
 
-Clinical studies of metformin did not include sufficient numbers of geriatric patients to determine whether they respond differently from younger adult patients.
+Clinical studies of metformin did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.
 
 ## 8.6 Renal Impairment
 

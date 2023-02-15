@@ -1,18 +1,20 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Prior to Initiation of SYNJARDY
+## 2.1 Recommendations Prior to Initiation of SYNJARDY
 
 - Assess renal function before initiating SYNJARDY and as clinically indicated [see Warnings and Precautions (5.1, 5.3)].
 - In patients with volume depletion, correct this condition before initiating SYNJARDY [see Warnings and Precautions (5.3) and Use in Specific Populations (8.5, 8.6)].
 
 ## 2.2 Recommended Dosage and Administration
 
-- Individualize the starting dose of SYNJARDY based on the patient's current regimen:
-  - In patients on metformin HCl, switch to SYNJARDY containing empagliflozin 5 mg with a similar total daily dose of metformin HCl;
-  - In patients on empagliflozin, switch to SYNJARDY containing metformin HCl 500 mg with a similar total daily dose of empagliflozin;
-  - In patients already treated with empagliflozin and metformin HCl, switch to SYNJARDY containing the same total daily doses of each component.
-- Monitor effectiveness and tolerability, and adjust dosing as appropriate, not to exceed the maximum recommended daily dose of empagliflozin 25 mg and metformin HCl 2000 mg.
-- Take SYNJARDY twice daily with meals; with gradual dose escalation to reduce the gastrointestinal side effects due to metformin.
+- When switching to SYNJARDY from:
+  - Metformin HCl: initiate SYNJARDY at a similar total daily dosage of metformin HCl and a total daily empagliflozin dosage of 10 mg.
+  - Empagliflozin: initiate SYNJARDY at the same total daily dosage of empagliflozin and a total daily metformin HCl dosage of 1,000 mg.
+  - Empagliflozin and metformin HCl: initiate SYNJARDY at the same total daily dosages of each component.
+- Recommended dosage of SYNJARDY:
+  - The recommended total daily dosage of empagliflozin is 10 mg.
+  - For additional glycemic control, empagliflozin may be increased to a maximum total daily dosage of 25 mg in patients tolerating 10 mg daily and metformin may be increased to a maximum total daily dosage of 2,000 mg, with gradual escalation to reduce gastrointestinal adverse reactions with metformin [see Adverse Reactions (6.1)].
+- Take SYNJARDY orally twice daily with meals.
 
 ## 2.3 Dosage Recommendations in Patients with Renal Impairment
 

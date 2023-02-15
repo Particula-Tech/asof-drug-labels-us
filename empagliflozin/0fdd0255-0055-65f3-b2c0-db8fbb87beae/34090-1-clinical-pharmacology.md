@@ -4,12 +4,15 @@
 
 SYNJARDY
 
-SYNJARDY contains: empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor, and metformin, a biguanide.
+SYNJARDY contains: empagliflozin, a SGLT2 inhibitor, and metformin, a biguanide.
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the sodium-glucose co-transporter 2 (SGLT2), the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
+Empagliflozin is an inhibitor of the SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
+
+Empagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
+This may influence several physiological functions such as lowering both pre-and afterload of the heart and downregulating sympathetic activity.
 
 Metformin HCl
 
@@ -25,7 +28,7 @@ Empagliflozin
 
 Urinary Glucose Excretion
 
-In patients with type 2 diabetes, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily [see Clinical Studies (14)].
+In patients with type 2 diabetes mellitus, urinary glucose excretion increased immediately following a dose of empagliflozin and was maintained at the end of a 4-week treatment period averaging at approximately 64 grams per day with 10 mg empagliflozin and 78 grams per day with 25 mg empagliflozin once daily [see Clinical Studies (14)].
 Data from single oral doses of empagliflozin in healthy subjects indicate that, on average, the elevation in urinary glucose excretion approaches baseline by about 3 days for the 10 mg and 25 mg doses.
 
 Urinary Volume
@@ -41,7 +44,7 @@ No increase in QTc was observed with either 25 mg or 200 mg empagliflozin.
 
 SYNJARDY
 
-Administration of 12.5 mg empagliflozin/1000 mg metformin hydrochloride under fed conditions resulted in a 9% decrease in AUC and a 28% decrease in Cmax for empagliflozin, when compared to fasted conditions.
+Administration of 12.5 mg empagliflozin/1,000 mg metformin hydrochloride under fed conditions resulted in a 9% decrease in AUC and a 28% decrease in Cmax for empagliflozin, when compared to fasted conditions.
 For metformin, AUC decreased by 12% and Cmax decreased by 26% compared to fasting conditions.
 The observed effect of food on empagliflozin and metformin is not considered to be clinically relevant.
 
@@ -49,10 +52,10 @@ Empagliflozin
 
 Absorption
 
-The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes and no clinically relevant differences were noted between the two populations.
+The pharmacokinetics of empagliflozin has been characterized in healthy volunteers and patients with type 2 diabetes mellitus and no clinically relevant differences were noted between the two populations.
 After oral administration, peak plasma concentrations of empagliflozin were reached at 1.5 hours post-dose.
 Thereafter, plasma concentrations declined in a biphasic manner with a rapid distribution phase and a relatively slow terminal phase.
-The steady-state mean plasma AUC and Cmax were 1870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
+The steady-state mean plasma AUC and Cmax were 1,870 nmol∙h/L and 259 nmol/L, respectively, with 10 mg empagliflozin once daily treatment, and 4,740 nmol∙h/L and 687 nmol/L, respectively, with 25 mg empagliflozin once daily treatment.
 Systemic exposure of empagliflozin increased in a dose-proportional manner in the therapeutic dose range.
 The single-dose and steady-state pharmacokinetic parameters of empagliflozin were similar, suggesting linear pharmacokinetics with respect to time.
 
@@ -81,7 +84,7 @@ Metformin
 Absorption
 
 The absolute bioavailability of a metformin hydrochloride 500-mg tablet given under fasting conditions is approximately 50% to 60%.
-Studies using single oral doses of metformin hydrochloride tablets 500 mg to 1500 mg, and 850 mg to 2550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
+Studies using single oral doses of metformin hydrochloride tablets 500 mg to 1,500 mg, and 850 mg to 2,550 mg, indicate that there is a lack of dose proportionality with increasing doses, which is due to decreased absorption rather than an alteration in elimination.
 
 Food decreases the extent of and slightly delays the absorption of metformin, as shown by approximately a 40% lower Cmax, a 25% lower AUC, and a 35 minute prolongation of time to peak plasma concentration (Tmax) following administration of a single 850 mg tablet of metformin with food, compared to the same tablet strength administered fasting.
 The clinical relevance of these decreases is unknown.
@@ -107,7 +110,7 @@ Renal Impairment
 
 SYNJARDY: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY in renally impaired patients have not been performed.
 
-Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients on dialysis due to kidney failure, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
+Empagliflozin: In patients with type 2 diabetes mellitus with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients on dialysis due to kidney failure, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and patients on dialysis due to kidney failure, compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were roughly 20% higher in patients with mild and severe renal impairment as compared to subjects with normal renal function.
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
@@ -159,7 +162,7 @@ Based on in vitro studies, empagliflozin is considered unlikely to cause interac
 Empagliflozin is a substrate of the human uptake transporters OAT3, OATP1B1, and OATP1B3, but not OAT1 and OCT2.
 Empagliflozin does not inhibit any of these human uptake transporters at clinically relevant plasma concentrations and, therefore, no effect of empagliflozin is anticipated on concomitantly administered drugs that are substrates of these uptake transporters.
 
-In vivo Assessment of Drug Interactions: Empagliflozin pharmacokinetics were similar with and without coadministration of metformin hydrochloride, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes (see Figure 1).
+In vivo Assessment of Drug Interactions: Empagliflozin pharmacokinetics were similar with and without coadministration of metformin hydrochloride, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes mellitus (see Figure 1).
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
 
@@ -194,7 +197,7 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | * All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
 | † AUC = AUC(INF) |  |  |  |  |  |
 | ‡ Ratio of arithmetic means |  |  |  |  |  |
-| **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12hours) |  |  |  |  |  |
+| **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
 
 Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 

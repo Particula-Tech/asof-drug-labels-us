@@ -28,7 +28,7 @@ Advise them to seek medical advice if such symptoms occur [see Warnings and Prec
 
 Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues
 
-Inform patients that the risk of hypoglycemia is increased when SYNJARDY is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin, and that a lower dose of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
+Inform patients that the risk of hypoglycemia is increased when SYNJARDY is used in combination with an insulin secretagogue (e.g., sulfonylurea) or insulin, and that a lower dosage of the insulin secretagogue or insulin may be required to reduce the risk of hypoglycemia [see Warnings and Precautions (5.5)].
 
 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
 
@@ -53,7 +53,7 @@ Advise patients to report immediately any skin reaction or angioedema, and to di
 
 Vitamin B12 Deficiency
 
-Inform patients about importance of regular hematological parameters while receiving SYNJARDY [see Warnings and Precautions (5.9)].
+Inform patients about the importance of regular hematological parameters while receiving SYNJARDY [see Warnings and Precautions (5.9)].
 
 Laboratory Tests
 
