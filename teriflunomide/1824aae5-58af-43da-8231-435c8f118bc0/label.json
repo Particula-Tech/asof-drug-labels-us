@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209702"
+  ],
+  "inn": "teriflunomide",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-0627-93",
+    "0378-0628-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "teriflunomide",
+      "name": "Teriflunomide"
+    }
+  ],
+  "setid": "1824aae5-58af-43da-8231-435c8f118bc0",
+  "source": "dailymed"
+}
