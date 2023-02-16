@@ -308,4 +308,8 @@ Immune system disorders: hypersensitivity, anaphylactic reaction, anaphylactic s
 
 Nervous system disorders: hemiparesis
 
+Renal disorders: Anticoagulant-related nephropathy
+
+Respiratory, thoracic and mediastinal disorders: Eosinophilic pneumonia
+
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)

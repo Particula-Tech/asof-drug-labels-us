@@ -151,10 +151,11 @@ Disposing XARELTO bottle and syringe
 - Do not pour XARELTO suspension down the drain (for example: sink, toilet, shower or tub).
 - Do not recycle the bottle.
 
-Active ingredient made in Germany.
 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560 Licensed from: Bayer HealthCare AG 51368 Leverkusen, Germany
+
+For patent information: www.janssenpatents.com
 
 © 2021 Janssen Pharmaceutical Companies
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 12/2021
+Issued: 02/2023
