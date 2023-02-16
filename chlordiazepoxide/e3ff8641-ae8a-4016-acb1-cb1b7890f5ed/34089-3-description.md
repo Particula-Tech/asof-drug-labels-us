@@ -4,7 +4,7 @@ Chlordiazepoxide hydrochloride, USP is the prototype for the benzodiazepine comp
 It is a versatile therapeutic agent of proven value for the relief of anxiety.
 Chlordiazepoxide hydrochloride, USP is among the safer of the effective psychopharmacologic compounds available, as demonstrated by extensive clinical evidence.
 
-Chlordiazepoxide hydrochloride, USP is 7-chloro-2- (methylamino)-5-phenyl-3H-1,4-benzodiazepine 4-oxide hydrochloride.
+Chlordiazepoxide hydrochloride, USP is 7-chloro-2-(methylamino)-5-phenyl-3H-1,4-benzodiazepine 4-oxide hydrochloride.
 A white to practically white crystalline substance, it is soluble in water.
 It is unstable in solution and the powder must be protected from light.
 The structural formula is:

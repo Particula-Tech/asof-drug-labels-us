@@ -1,7 +1,7 @@
 # ADVERSE REACTIONS
 
 The necessity of discontinuing therapy because of undesirable effects has been rare.
-Drowsiness, ataxia and confusion have been reported in some patients — particularly the elderly and debilitated.
+Drowsiness, ataxia and confusion have been reported in some patients particularly the elderly and debilitated.
 While these effects can be avoided in almost all instances by proper dosage adjustment, they have occasionally been observed at the lower dosage ranges.
 In a few instances syncope has been reported.
 
