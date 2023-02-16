@@ -1,4 +1,4 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
 SYMPAZAN® contains clobazam, a benzodiazepine derivative, which is chemically known as 7-Chloro-1-methyl-5-phenyl-1H-1,5 benzodiazepine-2,4(3H,5H)-dione with a molecular formula of C16H13ClN2O2, molecular weight of 300.74, and it has the following structural formula:
 

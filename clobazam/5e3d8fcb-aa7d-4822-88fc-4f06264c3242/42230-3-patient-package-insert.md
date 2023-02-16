@@ -4,7 +4,7 @@ SYMPAZAN® (SIM-pa-zan)
 
 (clobazam) oral film, CIV
 
-Read this Instructions for Usebefore you start using SYMPAZAN and each time you get a refill.
+Read this Instructions for Use before you start using SYMPAZAN and each time you get a refill.
 There may be new information.
 The information does not take the place of talking with your healthcare provider about your medical condition or treatment.
 
@@ -18,7 +18,7 @@ How should I store SYMPAZAN?
 - Store SYMPAZAN at room temperature between 68°F to 77°F (20°C to 25°C).
 - Keep SYMPAZAN in the foil pouch until you are ready to use.
   Use right away after opening foil pouch.
-- Keep SYMPAZAN and all medicines out of the reach ofchildren.
+- Keep SYMPAZAN and all medicines out of the reach of children.
 
 How to Use SYMPAZAN:
 
@@ -30,11 +30,11 @@ How to Use SYMPAZAN:
 - Check the expiration date printed on the foil pouch.
   Do not use SYMPAZAN if expired.
 
-| Step 1. Open Pouch Fold foil pouch along solid line. Note where the slit is and carefully tear it to open pouch. |  |
+| Step 1. Open Pouch Fold foil pouch along solid line.Note where the slit is and carefully tear it to open pouch. |  |
 | --- | --- |
 | Step 2. Remove Film Remove the SYMPAZAN from the foil pouch. |  |
 | Step 3. Place on Tongue Place SYMPAZAN on top of the tongue. The film will stick to the tongue and begin to dissolve. |  |
-| Step 4. Close Mouth and Swallow Saliva Normally Close mouth. Swallow saliva normally as SYMPAZAN dissolves. Do not take with liquids. Do not chew, spit, or talk while SYMPAZAN dissolves. |  |
+| Step 4. Close Mouth and Swallow Saliva Normally Close mouth.Swallow saliva normally as SYMPAZAN dissolves.Do not take with liquids.Do not chew, spit, or talk while SYMPAZAN dissolves. |  |
 
 - Wash your hands after taking SYMPAZAN.
 - Throw away the empty foil pouch in the regular trash.

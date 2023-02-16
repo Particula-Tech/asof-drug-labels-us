@@ -1,10 +1,10 @@
-# 9DRUG ABUSE AND DEPENDENCE
+# 9 DRUG ABUSE AND DEPENDENCE
 
-## 9.1Controlled Substance
+## 9.1 Controlled Substance
 
 SYMPAZAN® contains clobazam, a Schedule IV controlled substance.
 
-## 9.2Abuse
+## 9.2 Abuse
 
 SYMPAZAN is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
@@ -21,7 +21,7 @@ The following adverse reactions have occurred with benzodiazepine abuse and/or m
 The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
 Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).The World Health Organization epidemiology database contains reports of drug abuse, misuse, and overdoses associated with clobazam.
 
-## 9.3Dependence
+## 9.3 Dependence
 
 Physical Dependence
 

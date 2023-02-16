@@ -1,4 +1,4 @@
-# 6ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
 Clinically significant adverse reactions that appear in other sections of the labeling include the following:
 
@@ -9,8 +9,9 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Somnolence or Sedation [see Warnings and Precautions (5.5)]
 - Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 
-## 6.1Clinical Trials Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 The following adverse events have been reported in clinical trials of patients treated with clobazam, the active ingredient of SYMPAZAN®.
@@ -60,7 +61,7 @@ Most Common Adverse Reactions in an LGS Placebo Controlled Clinical Trial (Study
 
 a Maximum daily dose of 5 mg for ≤30 kg body weight; 10 mg for >30 kg body weight b Maximum daily dose of 10 mg for ≤30 kg body weight; 20 mg for >30 kg body weight c Maximum daily dose of 20 mg for ≤30 kg body weight; 40 mg for >30 kg body weight
 
-## 6.2Postmarketing Experience
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of clobazam tablets.
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.

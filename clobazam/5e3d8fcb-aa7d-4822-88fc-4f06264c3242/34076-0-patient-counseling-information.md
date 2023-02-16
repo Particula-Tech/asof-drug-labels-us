@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
@@ -18,13 +18,13 @@ Inform patients that the continued use of SYMPAZAN may lead to clinically signif
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
 Instruct patients that discontinuation or dosage reduction of SYMPAZAN may require a slow taper [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
 
-Somnolence or Sedation Advise patients or caregivers to check with their healthcare provider before SYMPAZAN® is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.4,5.5)].
+Somnolence or Sedation Advise patients or caregivers to check with their healthcare provider before SYMPAZAN® is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.4, 5.5)].
 
 If applicable, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that SYMPAZAN® does not affect them adversely (e.g., impair judgment, thinking or motor skills).
 
 Hypersensitivity
 
-Inform patients or caregivers that SYMPAZAN® is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions (5.6)
+Inform patients or caregivers that SYMPAZAN® is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions (5.6)].
 
 Interactions with Hormonal Contraceptives Counsel women to also use non-hormonal methods of contraception when SYMPAZAN® is used with hormonal contraceptives and to continue these alternative methods for 28 days after discontinuing SYMPAZAN® to ensure contraceptive reliability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 
@@ -35,13 +35,18 @@ If a skin reaction occurs while taking SYMPAZAN®, patients or caregivers should
 Suicidal Thinking and Behavior Counsel patients, their caregivers, and their families that AEDs, including SYMPAZAN®, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
 Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.7)].
 
-Use in Pregnancy Advise pregnant women and women of childbearing potential that the use of SYMPAZAN® during pregnancy can cause fetal harm which may occur early in pregnancy before many women know they are pregnant.
-Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
+Pregnancy
 
-Advise patients that there is a pregnancy registry that collects information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
+Advise pregnant females that the use of SYMPAZAN® late in pregnancy can result in in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Instruct patients to notify their healthcare provider if they are pregnant.
 
-Use in Lactation Counsel patients that SYMPAZAN® is excreted in breast milk.
-Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy and counsel nursing mothers to observe their infants for poor sucking and somnolence [see Use in Specific Populations (8.2)].
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking SYMPAZAN.
+The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Counsel patients that clobazam, the active ingredient in SYMPAZAN®, is excreted in breast milk.
+Instruct patients to notify their healthcare provider if they are breast feeding or intend to breastfeed.
+Instruct breastfeeding patients who take SYMPAZAN to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].
 
 Manufactured by: Aquestive Therapeutics Warren, NJ 07059

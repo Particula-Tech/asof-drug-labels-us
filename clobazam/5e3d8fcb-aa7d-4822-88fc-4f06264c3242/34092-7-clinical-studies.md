@@ -1,10 +1,10 @@
-# 14CLINICAL STUDIES
+# 14 CLINICAL STUDIES
 
-## 14.1Demonstration of Pharmacokinetic Equivalence Between SYMPAZAN® and Clobazam Tablets
+## 14.1 Demonstration of Pharmacokinetic Equivalence Between SYMPAZAN® and Clobazam Tablets
 
 The efficacy of SYMPAZAN® is based upon bioavailability studies comparing clobazam tablets to SYMPAZAN®[see Clinical Pharmacology (12.3)].
 
-## 14.2Adjunctive Treatment of Seizures Associated with Lennox-Gastaut Syndrome (LGS)
+## 14.2 Adjunctive Treatment of Seizures Associated with Lennox-Gastaut Syndrome (LGS)
 
 The effectiveness of clobazam for the adjunctive treatment of seizures associated with Lennox-Gastaut Syndrome was established in two multicenter controlled studies (Study 1 and Study 2).
 Both studies were similar in terms of disease characteristics and concomitant AED treatments.
@@ -29,9 +29,13 @@ Figure 1 presents the mean percent reduction in weekly drop seizures from this b
 All dose groups of clobazam were statistically superior (p≤0.05) to the placebo group.
 This effect appeared to be dose dependent.
 
+Figure 1: Mean Percent Reduction from Baseline in Weekly Drop Seizure Frequency (Study 1)
+
 Figure 2 shows changes from baseline in weekly drop seizure frequency by category for patients treated with clobazam and placebo in Study 1.
 Patients in whom the seizure frequency increased are shown at left as "worse."
 Patients in whom the seizure frequency decreased are shown in five categories.
+
+Figure 2: Drop Seizure Response by Category for Clobazam and Placebo (Study 1)
 
 There was no evidence that tolerance to the therapeutic effect of clobazam developed during the 3-month maintenance period.
 

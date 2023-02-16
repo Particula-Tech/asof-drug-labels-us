@@ -1,4 +1,4 @@
-# 3DOSAGE FORMS AND STRENGTHS
+# 3 DOSAGE FORMS AND STRENGTHS
 
 SYMPAZAN® Oral Film: Thin, white, rectangular, orally dissolving film strips:
 

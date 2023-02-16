@@ -1,4 +1,4 @@
-# 16HOW SUPPLIED/STORAGE AND HANDLING
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Each SYMPAZAN® oral film is a white rectangular film that contains 5 mg, 10 mg or 20 mg of clobazam and printed in black ink either "C5,” "C10" or "C20" on the strip according to their respective strengths and each film is packaged in a pouch (sachet).
 

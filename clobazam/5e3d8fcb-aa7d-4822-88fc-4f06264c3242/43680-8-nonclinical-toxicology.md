@@ -1,6 +1,6 @@
-# 13NONCLINICAL TOXICOLOGY
+# 13 NONCLINICAL TOXICOLOGY
 
-## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis In mice, oral administration of clobazam (0, 6, 12, or 24 mg/kg/day) for 2 years did not result in an increase in tumors.
 The highest dose tested was approximately 3 times the maximum recommended human dose (MRHD) of 40 mg/day, based on body surface area (mg/m2).
