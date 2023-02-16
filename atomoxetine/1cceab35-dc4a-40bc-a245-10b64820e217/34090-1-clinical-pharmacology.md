@@ -46,7 +46,7 @@ The major oxidative metabolite formed, regardless of CYP2D6 status, is 4-hydroxy
 N-Desmethylatomoxetine is formed by CYP2C19 and other cytochrome P450 enzymes, but has substantially less pharmacological activity compared with atomoxetine and circulates in plasma at lower concentrations (5% of atomoxetine concentration in Ems and 45% of atomoxetine concentration in PMs).
 Mean apparent plasma clearance of atomoxetine after oral administration in adult Ems is 0.35 L/hr/kg and the mean half-life is 5.2 hours.
 Following oral administration of atomoxetine to PMs, mean apparent plasma clearance is 0.03 L/hr/kg and mean half-life is 21.6 hours.
-For PMs, AUC of atomoxetine is approximately 10-fold and Css,max is about 5-fold greater than Ems.
+For PMs, AUC of atomoxetine is approximately 10-fold and Css, max is about 5-fold greater than Ems.
 The elimination half-life of 4-hydroxyatomoxetine is similar to that of N-desmethylatomoxetine (6 to 8 hours) in EM subjects, while the half-life of N-desmethylatomoxetine is much longer in PM subjects (34 to 40 hours).
 Atomoxetine is excreted primarily as 4-hydroxyatomoxetine-O-glucuronide, mainly in the urine (greater than 80% of the dose) and to a lesser extent in the feces (less than 17% of the dose).
 Only a small fraction of the atomoxetine dose is excreted as unchanged atomoxetine (less than 3% of the dose), indicating extensive biotransformation.

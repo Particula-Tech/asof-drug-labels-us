@@ -55,3 +55,5 @@ Interference with Psychomotor Performance
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
 Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
+
+Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 01/2023
