@@ -40,12 +40,12 @@ Discontinue ONIVYDE in patients with a confirmed diagnosis of ILD.
 
 ## 5.4 Severe Hypersensitivity Reaction
 
-Irinotecan HCl can cause severe hypersensitivity reactions, including anaphylactic reactions.
-Permanently discontinue ONIVYDE in patients who experience a severe hypersensitivity reaction.
+Irinotecan including ONIVYDE can cause severe hypersensitivity reactions, including anaphylactic reactions.
+Permanently discontinue ONIVYDE in patients who experience a severe hypersensitivity reaction.[see Contraindications (4), Adverse reactions (6.2)]
 
 ## 5.5 Embryo-Fetal Toxicity
 
 Based on animal data with irinotecan HCl and the mechanism of action of ONIVYDE, ONIVYDE can cause fetal harm when administered to a pregnant woman.
 Embryotoxicity and teratogenicity were observed following treatment with irinotecan HCl, at doses resulting in irinotecan exposures lower than those achieved with ONIVYDE 70 mg/m2 in humans, administered to pregnant rats and rabbits during organogenesis.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with ONIVYDE and for one month following the final dose [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].
+Advise females of reproductive potential to use effective contraception during treatment with ONIVYDE and for seven months following the last dose [see Use in Specific Populations (8.1, 8.3), Clinical Pharmacology (12.1)].

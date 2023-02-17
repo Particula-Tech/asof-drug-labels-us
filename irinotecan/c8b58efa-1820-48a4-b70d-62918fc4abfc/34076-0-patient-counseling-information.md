@@ -24,10 +24,10 @@ Instruct patients to seek immediate medical attention for signs of severe hypers
 
 Females and males of reproductive potential
 
-Embryo-fetal toxicity: Inform females of reproductive potential of the potential risk to a fetus, to use effective contraception during treatment and for one month after the final dose, and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
+Embryo-fetal toxicity: Inform females of reproductive potential of the potential risk to a fetus, to use effective contraception during treatment and for seven months after the last dose, and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
 
-Contraception: Advise male patients with female partners of reproductive potential to use condoms during treatment with ONIVYDE and for four months after the final dose [see Females and Males of Reproductive Potential (8.3)].
+Contraception: Advise male patients with female partners of reproductive potential to use condoms during treatment with ONIVYDE and for four months after the last dose [see Females and Males of Reproductive Potential (8.3)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with ONIVYDE and for one month after the final dose [see Use in Special Populations (8.2)].
+Advise women not to breastfeed during treatment with ONIVYDE and for one month after the last dose [see Use in Special Populations (8.2)].

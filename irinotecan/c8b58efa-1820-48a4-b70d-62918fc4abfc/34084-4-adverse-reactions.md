@@ -82,3 +82,10 @@ Table 3: Laboratory Abnormalities with Higher Incidence (≥5% Difference) in th
 | Hyponatremia | 27 | 5 | 12 | 3 |
 | Renal |  |  |  |  |
 | Increased creatinine | 18 | 0 | 13 | 0 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during postapproval use of ONIVYDE.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune system disorders: Hypersensitivity (including Anaphylactic reaction and Angioedema)

@@ -30,7 +30,7 @@ Risk Summary
 There is no information regarding the presence of irinotecan liposome, irinotecan, or SN-38 (an active metabolite of irinotecan) in human milk, or the effects on the breastfed infant or on milk production.
 Irinotecan is present in rat milk [see Data].
 
-Because of the potential for serious adverse reactions in breastfed infants from ONIVYDE, advise a nursing woman not to breastfeed during treatment with ONIVYDE and for one month after the final dose.
+Because of the potential for serious adverse reactions in breastfed infants from ONIVYDE, advise a nursing woman not to breastfeed during treatment with ONIVYDE and for one month after the last dose.
 
 Data
 
@@ -43,11 +43,11 @@ Contraception
 Females
 
 ONIVYDE can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with ONIVYDE and for one month after the final dose.
+Advise females of reproductive potential to use effective contraception during treatment with ONIVYDE and for seven months after the last dose.
 
 Males
 
-Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use condoms during treatment with ONIVYDE and for four months after the final dose [see Nonclinical Toxicology (13.1)].
+Because of the potential for genotoxicity, advise males with female partners of reproductive potential to use condoms during treatment with ONIVYDE and for four months after the last dose [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
