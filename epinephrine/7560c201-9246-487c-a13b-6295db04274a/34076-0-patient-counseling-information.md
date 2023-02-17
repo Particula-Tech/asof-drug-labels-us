@@ -68,11 +68,11 @@ Inform patients that they can visit the FDA website for additional information o
 
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each EpiPen Auto-Injector carton.
 
-Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
+Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, LLC, St. Louis, MO 63146, U.S.A.
 
-EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc. licensed exclusively to its wholly-owned affiliate, Mylan Specialty L. P. of Morgantown, WV 26505, U.S.A.
+EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
 
-Copyright © 2020 Meridian Medical Technologies.
+Copyright © 2022 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 12/2020 MS:EPI:R7 0002138
+Revised: 02/2023 MS:EPI:R8 0002199

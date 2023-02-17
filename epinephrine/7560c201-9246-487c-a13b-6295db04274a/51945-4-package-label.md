@@ -1,99 +1,73 @@
 # PRINCIPAL DISPLAY PANEL – 0.3 mg
 
+EPIPEN 2-PAK® (epinephrine injection, USP) Single-Dose Auto-Injector 0.3 mg For Allergic Emergencies (Anaphylaxis)
+
 NDC 49502-500-02
 
-Rx only
+This carton contains: Two EpiPen® in protective cases Patient Information Leaflet & Trainer Instructions for Use One gray Trainer
 
-For Allergic Emergencies (Anaphylaxis)
+The EpiPen auto-injector and Trainer are not toys and should be used under adult supervision.
 
-EpiPen 2-PAK® (epinephrine injection, USP) Single-Dose Auto-Injectors 0.3 mg
+Never put thumb, fingers or hand over orange needle end.
+Do not remove blue safety top until ready to use.
 
-Each carton contains:
-
-The EpiPen Auto-Injector and Trainer are not toys and should be used under adult supervision.
-
-Never put thumb, fingers or hand over orange tip.
-Do not remove blue safety release until ready to use.
-
-EpiPen 2-Pak® contains 2 EpiPen® Auto-Injectors and 1 Trainer.
-
-Each EpiPen® Auto-Injector delivers one 0.3 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.3 mg/0.3mL.
+EpiPen 2-Pak® contains 2 EpiPen® auto-injectors and 1 Trainer.
+Each EpiPen® delivers one 0.3 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.3 mg/0.3 mL.
 Each 0.3 mL also contains 1.8 mg sodium chloride and 0.5 mg sodium metabisulfite.
-
 Discard unit after use.
 The Trainer contains no medicine and no needle.
-
-Read enclosed patient package insert carefully before using.
+Read enclosed Patient Information Leaflet carefully before using.
 
 Usual dosage: See insert.
 
-See enclosed Patient Information Leaflet for complete instructions for use.
+Replace if medicine is discolored.
 
-Note: The needle comes out of the orange tip.
-
-Never put your thumb, fingers or hand over the orange tip.
-
-Replace if discolored.
 Store at 68º to 77ºF (20º to 25ºC).
-Do not refrigerate.
+Do not refrigerate or freeze.
+Protect from heat and light.
 
-Protect from light.
+EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
 
-Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company
+Mfd. for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, LLC St. Louis, MO 63146, USA
 
-EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
-
-Copyright © 2020 Meridian Medical Technologies.
+Copyright © 2022 Meridian Medical Technologies.
 All rights reserved.
 
-0002171 MS:50002:2C:R6
+0002182 MS:50002:2C:R7
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
+EPIPEN Jr 2-PAK® (epinephrine injection, USP) Single-Dose Auto-Injector 0.15 mg For Allergic Emergencies (Anaphylaxis)
+
 NDC 49502-501-02
 
-Rx only
+This carton contains: Two EpiPen Jr® in protective cases Patient Information Leaflet & Trainer Instructions for Use One gray Trainer
 
-For Allergic Emergencies (Anaphylaxis)
+The EpiPen Jr auto-injector and Trainer are not toys and should be used under adult supervision.
 
-EpiPen Jr 2-PAK® (epinephrine injection, USP) Single-Dose Auto-Injectors 0.15 mg
+Never put thumb, fingers or hand over orange needle end.
+Do not remove blue safety top until ready to use.
 
-Each carton contains:
-
-The EpiPen Jr Auto-Injector and Trainer are not toys and should be used under adult supervision.
-
-Never put thumb, fingers or hand over orange tip.
-Do not remove blue safety release until ready to use.
-
-EpiPen Jr 2-Pak® contains 2 EpiPen Jr® Auto-Injectors and 1 Trainer.
-
-Each EpiPen Jr® Auto-Injector delivers one 0.15 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL.
+EpiPen Jr 2-Pak® contains 2 EpiPen Jr® auto-injectors and 1 Trainer.
+Each EpiPen Jr® delivers one 0.15 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL.
 Each 0.3 mL also contains 1.8 mg sodium chloride and 0.5 mg sodium metabisulfite.
-
 Discard unit after use.
 The Trainer contains no medicine and no needle.
-
-Read enclosed patient package insert carefully before using.
+Read enclosed Patient Information Leaflet carefully before using.
 
 Usual dosage: See insert.
 
-See enclosed Patient Information Leaflet for complete instructions for use.
+Replace if medicine is discolored.
 
-Note: The needle comes out of the orange tip.
-
-Never put your thumb, fingers or hand over the orange tip.
-
-Replace if discolored.
 Store at 68º to 77ºF (20º to 25ºC).
-Do not refrigerate.
+Do not refrigerate or freeze.
+Protect from heat and light.
 
-Protect from light.
+EpiPen® and EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
 
-Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company
+Mfd. for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, LLC St. Louis, MO 63146, USA
 
-EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company
-
-Copyright © 2020 Meridian Medical Technologies.
+Copyright © 2022 Meridian Medical Technologies.
 All rights reserved.
 
-0002172 MS:50102:2C:R6
+0002183 MS:50102:2C:R7
