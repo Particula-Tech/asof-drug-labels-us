@@ -49,6 +49,17 @@ The terminal elimination half-life (t1/2) of free aflibercept in plasma was appr
 
 Specific Populations
 
+Pediatric Patients
+
+Pharmacokinetics of aflibercept were evaluated in pre-term infants with ROP at a dose of 0.4 mg aflibercept (per eye) administered unilaterally or bilaterally.
+In the BUTTERFLEYE study, mean concentrations of free aflibercept in plasma declined from a maximum of 0.583 mcg/mL at Day 1 to 0.0406 mcg/mL at Day 28 in bilaterally treated patients.
+
+In the FIREFLEYE study, mean concentrations of free aflibercept in plasma for all patients (bilateral and unilateral administration combined) declined from a maximum of 0.481 mcg/mL at Day 1 to 0.13 mcg/mL at Day 28.
+Concentrations of free aflibercept in plasma subsequently declined to values below or close to the lower limit of quantitation within approximately 8 weeks.
+
+Following an IVT dose of aflibercept 0.4 mg per eye given bilaterally at 10 or 14 day intervals, the population pharmacokinetic estimated mean maximal accumulation ratio of free aflibercept in plasma was approximately 2.0 and 1.4.
+No accumulation of free aflibercept in plasma is expected for IVT doses of 0.4 mg per eye given bilaterally at dosing intervals of 21 days or longer.
+
 Renal Impairment
 
 Pharmacokinetic analysis of a subgroup of patients (n=492) in one wet AMD study, of which 43% had renal impairment (mild n=120, moderate n=74, and severe n=16), revealed no differences with respect to plasma concentrations of free aflibercept after intravitreal administration every 4 or 8 weeks.
@@ -57,4 +68,18 @@ No dose adjustment based on renal impairment status is needed for either wet AMD
 
 Other
 
-No special dosage modification is required for any of the populations that have been studied (e.g., gender, elderly).
+No dosage modification is required based on gender or in the elderly.
+
+## 12.6 Immunogenicity
+
+As with all therapeutic proteins, there is a potential for an immune response in patients treated with EYLEA.
+The immunogenicity of EYLEA was evaluated in serum samples.
+The immunogenicity data reflect the percentage of patients whose test results were considered positive for antibodies to EYLEA in immunoassays.
+The detection of an immune response is highly dependent on the sensitivity and specificity of the assays used, sample handling, timing of sample collection, concomitant medications, and underlying disease.
+For these reasons, comparison of the incidence of antibodies to EYLEA with the incidence of antibodies to other products may be misleading.
+
+In the wet AMD, RVO, and DME studies, the pre-treatment incidence of immunoreactivity to EYLEA was approximately 1% to 3% across treatment groups.
+After dosing with EYLEA for 24-100 weeks, antibodies to EYLEA were detected in a similar percentage range of patients.
+Similarly, after unilateral or bilateral dosing in pediatric ROP studies, antibodies to EYLEA were detected in less than 1% of patients.
+
+There were no differences in efficacy or safety between patients with or without immunoreactivity.

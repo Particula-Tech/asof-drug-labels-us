@@ -5,13 +5,13 @@ The following potentially serious adverse reactions are described elsewhere in t
 - Hypersensitivity [see Contraindications (4.3)]
 - Endophthalmitis and retinal detachments [see Warnings and Precautions (5.1)]
 - Increase in intraocular pressure [see Warnings and Precautions (5.2)]
-- Thromboembolic events [see Warnings and Precautions (5.3)]
+- Thromboembolic events [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-A total of 2980 patients treated with EYLEA constituted the safety population in eight phase 3 studies.
+A total of 2980 adult patients treated with EYLEA constituted the safety population in eight phase 3 studies.
 Among those, 2379 patients were treated with the recommended dose of 2 mg.
 Serious adverse reactions related to the injection procedure have occurred in <0.1% of intravitreal injections with EYLEA including endophthalmitis and retinal detachment.
 The most common adverse reactions (≥5%) reported in patients receiving EYLEA were conjunctival hemorrhage, eye pain, cataract, vitreous detachment, vitreous floaters, and intraocular pressure increased.
@@ -103,14 +103,21 @@ Less common adverse reactions reported in <1% of the patients treated with EYLEA
 
 Safety data observed in 269 patients with nonproliferative diabetic retinopathy (NPDR) through week 52 in the PANORAMA trial were consistent with those seen in the phase 3 VIVID and VISTA trials (see Table 3 above).
 
-## 6.2 Immunogenicity
+Retinopathy of Prematurity (ROP)
 
-As with all therapeutic proteins, there is a potential for an immune response in patients treated with EYLEA.
-The immunogenicity of EYLEA was evaluated in serum samples.
-The immunogenicity data reflect the percentage of patients whose test results were considered positive for antibodies to EYLEA in immunoassays.
-The detection of an immune response is highly dependent on the sensitivity and specificity of the assays used, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to EYLEA with the incidence of antibodies to other products may be misleading.
+The data described below reflect exposure to EYLEA in 168 pre-term infants with ROP randomized to EYLEA and treated with the 0.4 mg dose in 2 clinical studies (BUTTERFLEYE and FIREFLEYE/FIREFLEYE NEXT) from time of first administration up to 52 weeks of chronological age [see Clinical Studies (14.6)].
+Adverse reactions established for adult indications are considered applicable to pre-term infants with ROP, though not all were observed in the clinical studies.
 
-In the wet AMD, RVO, and DME studies, the pre-treatment incidence of immunoreactivity to EYLEA was approximately 1% to 3% across treatment groups.
-After dosing with EYLEA for 24-100 weeks, antibodies to EYLEA were detected in a similar percentage range of patients.
-There were no differences in efficacy or safety between patients with or without immunoreactivity.
+Table 4: Adverse Reactions in ROP Studies Five year follow-up studies are ongoing through 2026
+
+|  | EYLEA (N=93) | Laser (N=27) | EYLEA (N=75) | Laser (N=28) |
+| --- | --- | --- | --- | --- |
+| Adverse Reactions | Baseline to 52 weeks of chronological age |  | Baseline to 52 weeks of chronological age |  |
+| BUTTERFLEYE |  | FIREFLEYE/FIREFLEYE NEXT |  |  |
+| Retinal detachment | 6% | 7% | 5% | 5% |
+| Conjunctival hemorrhageIncludes injection site hemorrhage | 5% | 0% | 9% | 0% |
+| Intraocular pressure increased | 0% | 0% | 4% | 0% |
+| Corneal epithelium defect | 1% | 0% | 0% | 0% |
+| Eyelid edema | 0% | 4% | 3% | 8% |
+| Corneal edema | 0% | 0% | 1% | 3% |
+| Lenticular Opacities | 0% | 0% | 1% | 0% |

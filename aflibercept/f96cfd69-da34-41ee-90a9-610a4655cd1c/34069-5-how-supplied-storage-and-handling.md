@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Each pre-filled syringe or vial is for single eye use only.
-EYLEA is supplied in the following presentations [see Dosage and Administration (2.6), (2.7), and (2.8)].
+EYLEA is supplied in the following presentations [see Dosage and Administration (2.1), (2.2), (2.3), (2.4) and (2.9)].
 
 | NDC NUMBER | CARTON TYPE | CARTON CONTENTS |
 | --- | --- | --- |
@@ -10,7 +10,7 @@ EYLEA is supplied in the following presentations [see Dosage and Administration 
 
 Storage
 
-Refrigerate EYLEA at 2°C to 8ºC (36°F to 46ºF).
+Refrigerate EYLEA at 2°C to 8°C (36°F to 46°F).
 Do not freeze.
 Do not use beyond the date stamped on the carton and container label.
 Store in the original carton until time of use to protect from light.

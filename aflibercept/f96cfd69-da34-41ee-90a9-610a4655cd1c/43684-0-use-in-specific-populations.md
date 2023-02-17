@@ -26,7 +26,7 @@ In two embryofetal development studies, aflibercept produced adverse embryofetal
 Adverse embryofetal effects included increased incidences of postimplantation loss and fetal malformations, including anasarca, umbilical hernia, diaphragmatic hernia, gastroschisis, cleft palate, ectrodactyly, intestinal atresia, spina bifida, encephalomeningocele, heart and major vessel defects, and skeletal malformations (fused vertebrae, sternebrae, and ribs; supernumerary vertebral arches and ribs; and incomplete ossification).
 The maternal No Observed Adverse Effect Level (NOAEL) in these studies was 3 mg per kg.
 Aflibercept produced fetal malformations at all doses assessed in rabbits and the fetal NOAEL was not identified.
-At the lowest dose shown to produce adverse embryofetal effects in rabbits (0.1 mg per kg), systemic exposure (AUC) of free aflibercept was approximately 6 times higher than systemic exposure (AUC) observed in humans after a single intravitreal dose of 2 mg.
+At the lowest dose shown to produce adverse embryofetal effects in rabbits (0.1 mg per kg), systemic exposure (AUC) of free aflibercept was approximately 6 times higher than systemic exposure (AUC) observed in adult patients after a single intravitreal dose of 2 mg.
 
 ## 8.2 Lactation
 
@@ -46,13 +46,16 @@ Females of reproductive potential are advised to use effective contraception pri
 Infertility
 
 There are no data regarding the effects of EYLEA on human fertility.
-Aflibercept adversely affected female and male reproductive systems in cynomolgus monkeys when administered by intravenous injection at a dose approximately 1500 times higher than the systemic level observed humans with an intravitreal dose of 2 mg.
+Aflibercept adversely affected female and male reproductive systems in cynomolgus monkeys when administered by intravenous injection at a dose approximately 1500 times higher than the systemic level observed in adult patients with an intravitreal dose of 2 mg.
 A No Observed Adverse Effect Level (NOAEL) was not identified.
 These findings were reversible within 20 weeks after cessation of treatment [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of EYLEA in pediatric patients have not been established.
+The safety and effectiveness of EYLEA have been demonstrated in two clinical studies of pre-term infants with ROP.
+
+These two studies randomized pre-term infants between initial treatment with EYLEA or laser.
+Efficacy of each treatment is supported by the demonstration of a clinical course which was better than would have been expected without treatment [see Dosage and Administration (2.9), Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.6)].
 
 ## 8.5 Geriatric Use
 

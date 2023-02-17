@@ -4,15 +4,21 @@
 
 Intravitreal injections, including those with EYLEA, have been associated with endophthalmitis and retinal detachments [see Adverse Reactions (6.1)].
 Proper aseptic injection technique must always be used when administering EYLEA.
-Patients should be instructed to report any symptoms suggestive of endophthalmitis or retinal detachment without delay and should be managed appropriately [see Dosage and Administration (2.8) and Patient Counseling Information (17)].
+Patients and/or caregivers should be instructed to report any signs and/or symptoms suggestive of endophthalmitis or retinal detachment without delay and should be managed appropriately [see Dosage and Administration (2.4) and Patient Counseling Information (17)].
 
 ## 5.2 Increase in Intraocular Pressure
 
 Acute increases in intraocular pressure have been seen within 60 minutes of intravitreal injection, including with EYLEA [see Adverse Reactions (6.1)].
 Sustained increases in intraocular pressure have also been reported after repeated intravitreal dosing with vascular endothelial growth factor (VEGF) inhibitors.
-Intraocular pressure and the perfusion of the optic nerve head should be monitored and managed appropriately [see Dosage and Administration (2.8)].
+Intraocular pressure and the perfusion of the optic nerve head should be monitored and managed appropriately [see Dosage and Administration (2.4)].
 
-## 5.3 Thromboembolic Events
+## 5.3 Extended Monitoring and Additional Treatment in ROP
+
+Reactivation of abnormal angiogenesis and tortuosity may occur following treatment with EYLEA.
+Infants should be monitored closely after injection with EYLEA until retinal vascularization has completed or until the examiner is assured that reactivation of ROP will not occur.
+In infants with ROP, treatment with EYLEA will necessitate extended periods of ROP monitoring and additional EYLEA injections and/or laser treatments may be necessary.
+
+## 5.4 Thromboembolic Events
 
 There is a potential risk of arterial thromboembolic events (ATEs) following intravitreal use of VEGF inhibitors, including EYLEA.
 ATEs are defined as nonfatal stroke, nonfatal myocardial infarction, or vascular death (including deaths of unknown cause).

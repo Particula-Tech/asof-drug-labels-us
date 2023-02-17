@@ -11,14 +11,14 @@ Patient ages ranged from 49 to 99 years with a mean of 76 years.
 In both studies, the primary efficacy endpoint was the proportion of patients who maintained vision, defined as losing fewer than 15 letters of visual acuity at week 52 compared to baseline.
 Both EYLEA 2Q8 and EYLEA 2Q4 groups were shown to have efficacy that was clinically equivalent to the ranibizumab 0.5 mg Q4 group in year 1.
 
-Detailed results from the analysis of the VIEW1 and VIEW2 studies are shown in Table 4 and Figure 13 below.
+Detailed results from the analysis of the VIEW1 and VIEW2 studies are shown in Table 5 and Figure 14 below.
 
-Table 4: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and VIEW2 Studies
+Table 5: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and VIEW2 Studies
 
 | Full Analysis Set | N=301 | N=304 | N=304 | N=306 | N=309 | N=291 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | VIEW1 |  |  | VIEW2 |  |  |
-|  | EYLEA 2 mg Q8 weeks After treatment initiation with 3 monthly doses | EYLEA 2 mg Q4 weeks | ranibizumab 0.5 mg Q4 weeks | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | ranibizumab 0.5 mg Q4 weeks |
+|  | EYLEA 2 mg Q8 weeks After treatment initiation with 3 monthly doses | EYLEA 2 mg Q4 weeks | ranibizu-mab 0.5 mg Q4 weeks | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | ranibizu-mab 0.5 mg Q4 weeks |
 | Efficacy Outcomes |  |  |  |  |  |  |
 | Proportion of patients who maintained visual acuity (%) (<15 letters of BCVA loss) | 94% | 95% | 94% | 95% | 95% | 95% |
 | DifferenceEYLEA group minus the ranibizumab group (%) (95.1% CI) | 0.6 (-3.2, 4.4) | 1.3 (-2.4, 5.0) |  | 0.6 (-2.9, 4.0) | -0.3 (-4.0, 3.3) |  |
@@ -30,11 +30,12 @@ Table 4: Efficacy Outcomes at Week 52 (Full Analysis Set with LOCF) in VIEW1 and
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visual acuity) in each study were in general consistent with the results in the overall populations.
 
-| Figure 13: Mean Change in Visual Acuity from Baseline to Week 96Patient dosing schedules were individualized from weeks 52 to 96 using a modified 12-week dosing regimen. in VIEW1 and VIEW2 Studies |
-| --- |
+Figure 14: Mean Change in Visual Acuity from Baseline to Week 96* in VIEW1 and VIEW2 Studies
+
+*Patient dosing schedules were individualized from weeks 52 to 96 using a modified 12-week dosing regimen.
 
 VIEW1 and VIEW2 studies were both 96 weeks in duration.
-However after 52 weeks patients no longer followed a fixed dosing schedule.
+However, after 52 weeks patients no longer followed a fixed dosing schedule.
 Between week 52 and week 96, patients continued to receive the drug and dosage strength to which they were initially randomized on a modified 12 week dosing schedule (doses at least every 12 weeks and additional doses as needed).
 Therefore, during the second year of these studies there was no active control comparison arm.
 
@@ -49,9 +50,9 @@ Patient ages ranged from 22 to 89 years with a mean of 64 years.
 In both studies, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA compared to baseline.
 At week 24, the EYLEA 2 mg Q4 group was superior to the control group for the primary endpoint.
 
-Results from the analysis of the COPERNICUS and GALILEO studies are shown in Table 5 and Figure 14 below.
+Results from the analysis of the COPERNICUS and GALILEO studies are shown in Table 6 and Figure 15 below.
 
-Table 5: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICUS and GALILEO Studies
+Table 6: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICUS and GALILEO Studies
 
 |  | N=73 | N=114 | N=68 | N=103 |
 | --- | --- | --- | --- | --- |
@@ -63,7 +64,7 @@ Table 5: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in COPERNICU
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | -4.0 (18.0) | 17.3 (12.8) | 3.3 (14.1) | 18.0 (12.2) |
 | Difference in LS mean, LS mean and CI based on an ANCOVA model (95.1% CI) |  | 21.7 (17.3, 26.1) |  | 14.7 (10.7, 18.7) |
 
-Figure 14: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in COPERNICUS and GALILEO Studies
+Figure 15: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in COPERNICUS and GALILEO Studies
 
 Treatment effects in evaluable subgroups (e.g., age, gender, race, baseline visual acuity, retinal perfusion status, and CRVO duration) in each study and in the combined analysis were in general consistent with the results in the overall populations.
 
@@ -78,9 +79,9 @@ Patient ages ranged from 42 to 94 years with a mean of 65 years.
 In the VIBRANT study, the primary efficacy endpoint was the proportion of patients who gained at least 15 letters in BCVA at week 24 compared to baseline.
 At week 24, the EYLEA 2 mg Q4 group was superior to the control group for the primary endpoint.
 
-Detailed results from the analysis of the VIBRANT study are shown in Table 6 and Figure 15 below.
+Detailed results from the analysis of the VIBRANT study are shown in Table 7 and Figure 16 below.
 
-Table 6: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in VIBRANT Study
+Table 7: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in VIBRANT Study
 
 |  | N=90 | N=91 |
 | --- | --- | --- |
@@ -92,7 +93,7 @@ Table 6: Efficacy Outcomes at Week 24 (Full Analysis Set with LOCF) in VIBRANT S
 | Mean change in BCVA as measured by ETDRS letter score from Baseline (SD) | 6.9 (12.9) | 17.0 (11.9) |
 | Difference in LS mean, LS mean and CI based on an ANCOVA model (95% CI) |  | 10.5 (7.1, 14.0) |
 
-Figure 15: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in VIBRANT Study
+Figure 16: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 24 in VIBRANT Study
 
 Treatment effects in evaluable subgroups (e.g., age, gender, and baseline retinal perfusion status) in the study were in general consistent with the results in the overall populations.
 
@@ -111,9 +112,9 @@ In both studies, the primary efficacy endpoint was the mean change from baseline
 Efficacy of both EYLEA 2Q8 and EYLEA 2Q4 groups was statistically superior to the control group.
 This statistically superior improvement in BCVA was maintained at week 100 in both studies.
 
-Results from the analysis of the VIVID and VISTA studies are shown in Table 7 and Figure 16 below.
+Results from the analysis of the VIVID and VISTA studies are shown in Table 8 and Figure 17 below.
 
-Table 7: Efficacy Outcomes at Weeks 52 and 100 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
+Table 8: Efficacy Outcomes at Weeks 52 and 100 (Full Analysis Set with LOCF) in VIVID and VISTA Studies
 
 | Full Analysis Set | N=135 | N=136 | N=132 | N=151 | N=154 | N=154 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -130,7 +131,7 @@ Table 7: Efficacy Outcomes at Weeks 52 and 100 (Full Analysis Set with LOCF) in 
 | Proportion of patients who gained at least 15 letters in BCVA from Baseline (%) | 31.1% | 38.2% | 12.1% | 33.1% | 38.3% | 13.0% |
 | Adjusted Difference, (%) (97.5% CI) | 19.0% (8.0, 29.9) | 26.1% (14.8, 37.5) |  | 20.1% (9.6, 30.6) | 25.8% (15.1, 36.6) |  |
 
-Figure 16: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID and VISTA Studies
+Figure 17: Mean Change in BCVA as Measured by ETDRS Letter Score from Baseline to Week 100 in VIVID and VISTA Studies
 
 Treatment effects in the subgroup of patients who had previously been treated with a VEGF inhibitor prior to study participation were similar to those seen in patients who were VEGF inhibitor naïve prior to study participation.
 
@@ -149,16 +150,18 @@ All enrolled patients had DR and DME at baseline.
 The majority of patients enrolled in these studies (77%) had moderate-to-severe nonproliferative diabetic retinopathy (NPDR) based on the ETDRS-DRSS.
 At week 100, the proportion of patients improving by at least 2 steps on the ETDRS-DRSS was significantly greater in both EYLEA treatment groups (2Q4 and 2Q8) when compared to the control group.
 
-Results from the analysis of ETDRS-DRSS at week 100 in the VIVID and VISTA studies are shown in Table 8 below.
+Results from the analysis of ETDRS-DRSS at week 100 in the VIVID and VISTA studies are shown in Table 9 below.
 
-Table 8: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Week 100 in VIVID and VISTA Studies
+Table 9: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Week 100 in VIVID and VISTA Studies
 
 | Evaluable PatientsThe number of evaluable patients included all patients who had valid ETDRS-DRSS data at baseline | N=101 | N=97 | N=99 | N=148 | N=153 | N=150 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | VIVID |  |  | VISTA |  |  |
 |  | EYLEA 2 mg Q8 weeks After treatment initiation with 5 monthly injections | EYLEA 2 mg Q4 weeks | Control | EYLEA 2 mg Q8 weeks | EYLEA 2 mg Q4 weeks | Control |
-| Number of patients with a ≥2-step improvement on ETDRS-DRSS from Baseline (%) | 32 (32%) | 27 (28%) | 7 (7%) | 56 (38%) | 58 (38%) | 24 (16%) |
-| Difference Difference with confidence interval (CI) was calculated using Mantel-Haenszel weighting scheme adjusted by protocol specified stratification factors, Difference is EYLEA minus Control group(%) (97.5% CI) | 24%p<0.01 compared with Control (12, 36) | 21% (9, 33) |  | 22% (11, 33) | 22% (11, 33) |  |
+| Number of patients with a ≥2-step improvement on ETDRS-DRSS from | 32 | 27 | 7 | 56 | 58 | 24 |
+| Baseline (%) | (32%) | (28%) | (7%) | (38%) | (38%) | (16%) |
+| DifferenceDifference with confidence interval (CI) was calculated using Mantel-Haenszel weighting scheme adjusted by protocol specified stratification factors, Difference is EYLEA minus Control group (%) | 24%p<0.01 compared with Control | 21% |  | 22% | 22% |  |
+| (97.5% CI) | (12, 36) | (9, 33) |  | (11, 33) | (11, 33) |  |
 | Non-gradable post-baseline ETDRS-DRSS values were treated as missing and were imputed using the last gradable ETDRS-DRSS values (including baseline values if all post-baseline values were missing or non-gradable) |  |  |  |  |  |  |
 
 Results of the evaluable subgroups (e.g., age, gender, race, baseline HbA1c, baseline visual acuity) on the proportion of patients who achieved a ≥2-step improvement on the ETDRS-DRSS from baseline to week 100 were, in general, consistent with those in the overall population.
@@ -175,10 +178,10 @@ Patients were randomly assigned in a 1:1:1 ratio to 1 of 3 dosing regimens: 1) 3
 The primary efficacy endpoint was the proportion of patients who improved by ≥2 steps on the DRSS from baseline to week 24 in the combined EYLEA groups and at week 52 in the 2Q16 and 2Q8 groups individually versus sham.
 A key secondary endpoint was the proportion of patients developing the composite endpoint of proliferative diabetic retinopathy or anterior segment neovascularization through week 52.
 
-At week 52, efficacy in the 2Q16 and 2Q8 groups was superior to the sham group (see Table 9 and Table 10).
-The proportion of patients with a ≥2-step improvement over time is shown in Figure 17.
+At week 52, efficacy in the 2Q16 and 2Q8 groups was superior to the sham group (see Table 10 and Table 11).
+The proportion of patients with a ≥2-step improvement over time is shown in Figure 18.
 
-Table 9: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Weeks 24 and 52 in PANORAMA
+Table 10: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Weeks 24 and 52 in PANORAMA
 
 | Full Analysis Set | N=269 | N=133 | N=135 | N=134 | N=133 |
 | --- | --- | --- | --- | --- | --- |
@@ -186,12 +189,12 @@ Table 9: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseli
 |  | Week 24 |  | Week 52 |  |  |
 |  | EYLEA Combined | Control (sham) | EYLEA 2Q16 | EYLEA 2Q8 | Control (sham) |
 | Proportion of patients with a ≥2-step improvement on ETDRS-DRSS from Baseline (%) | 58% | 6% | 65% | 80% | 15% |
-| Adjusted DifferenceDifference is EYLEA group minus sham (%) (95% CI)Difference with CI was calculated using the Mantel-Haenszel weighting scheme adjusted by baseline DRSS stratification variable | 52% p<0.01 compared with Control. p-value was calculated using a 2-sided Cochran-Mantel-Haenszel test adjusted by baseline DRSS stratification variable. (45, 60) |  | 50% (40, 60) | 65% (56, 74) |  |
+| Adjusted DifferenceDifference is EYLEA group minus sham (%) (95% CI)Difference with CI was calculated using the Mantel-Haenszel weighting scheme adjusted by baseline DRSS stratification variable | 52%p<0.01 compared with Control. p-value was calculated using a 2-sided Cochran-Mantel-Haenszel test adjusted by baseline DRSS stratification variable. (45, 60) |  | 50% (40, 60) | 65% (56, 74) |  |
 | Non-gradable post-baseline ETDRS-DRSS values were treated as missing and were imputed using the last gradable ETDRS-DRSS values (including baseline values if all post-baseline values were missing or non-gradable) |  |  |  |  |  |
 
-Figure 17: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score Through Week 52 in PANORAMA
+Figure 18: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score Through Week 52 in PANORAMA
 
-Table 10: Effect of EYLEA on Worsening of Diabetic Retinopathy in PANORAMA through Week 52
+Table 11: Effect of EYLEA on Worsening of Diabetic Retinopathy in PANORAMA through Week 52
 
 | Full Analysis Set | N=135 | N=134 | N=133 |
 | --- | --- | --- | --- |
@@ -203,3 +206,47 @@ Table 10: Effect of EYLEA on Worsening of Diabetic Retinopathy in PANORAMA throu
 | Event Rate | 1.6% | 0.0% | 11.9% |
 | Hazard Ratio | 0.11 | 0.00 |  |
 | PDR = Proliferative Diabetic Retinopathy; ASNV = Anterior Segment Neovascularization |  |  |  |
+
+## 14.6 Retinopathy of Prematurity (ROP)
+
+Efficacy and safety data of EYLEA in ROP are derived from two studies (BUTTERFLEYE and FIREFLEYE/FIREFLEYE NEXT).
+BUTTERFLEYE was a 52-week study.
+FIREFLEYE included 24 weeks of treatment and follow-up.
+FIREFLEYE NEXT was an observational follow-up of FIREFLEYE through week 52.
+
+Both BUTTERFLEYE and FIREFLEYE studies assessed the efficacy, safety and tolerability of EYLEA in randomized, 2-arm, open-label, parallel-group studies.
+The studies were conducted in pre-term infants with ROP providing a comparison between EYLEA treatment and laser photocoagulation therapy (laser).
+Each eligible eye received the assigned study treatment at baseline.
+Re-treatment and/or rescue treatment was administered if needed based on pre-specified criteria.
+Rescue treatment could potentially include the alternative treatment (EYLEA or laser).
+Re-treatment with aflibercept, if required, was administered up to 2 times in a particular eye, with at least 28 days between consecutive injections.
+
+Eligible patients had a maximum gestational age at birth of 32 weeks or a maximum birth weight of 1500 g, had to weigh > 800 g on the day of treatment and had treatment-naïve ROP classified according to the International Classification for Retinopathy of Prematurity (IC-ROP 2005) in at least one eye with one of the following retinal findings:
+
+- ROP Zone 1 Stage 1+, 2+, 3 or 3+, or
+- ROP Zone II Stage 2+ or 3+, or
+- AP-ROP (aggressive posterior ROP)
+
+The primary efficacy endpoint of each study was the proportion of patients with absence of active ROP and unfavorable structural outcomes (retinal detachment, macular dragging, macular fold, retrolental opacity) at week 52 of chronological age.
+
+In BUTTERFLEYE, patients were randomized in a 3:1 ratio to receive 1 of 2 treatment regimens: 1) EYLEA 0.4 mg at baseline and if required, up to 2 additional injections and 2) laser photocoagulation in each eye at baseline and if required, retreatment.
+In FIREFLEYE, patients were randomized to the same two treatments, but in a 2:1 ratio.
+Rescue treatment was administered if required, per pre-specified criteria.
+In both studies, greater than 92% of all treated patients in the aflibercept group received bilateral injections during the study.
+
+Results from week 52 of chronological age in the BUTTERFLEYE and FIREFLEYE/FIREFLEYE NEXT studies are shown in Table 12 below.
+
+The proportion of patients without clinically significant reactivations of ROP who also did not develop unfavorable structural outcomes was higher in each arm of each study than would have been expected in infants who had not received treatment.
+Neither trial demonstrated superiority of one arm compared to the other arm.
+Neither trial demonstrated inferiority of one arm compared to the other arm.
+
+Table 12: Efficacy Outcomes at Week 52 Chronological Age in BUTTERFLEYE and FIREFLEYE/FIREFLEYE NEXT Studies
+
+| Efficacy Outcomes |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | BUTTERFLEYEIn case of bilateral treatment, success was achieved only if both eyes met the primary endpoint. Treatment interval between 2 doses injected into the same eye had to be at least 28 days. |  | FIREFLEYE/FIREFLEYE NEXT |  |
+|  | EYLEA 0.4 mg | Laser | EYLEA 0.4 mg | Laser |
+| Full Analysis SetIncluded patients who were both randomized and treated from the BUTTERFLEYE and FIREFLEYE/FIREFLEYE NEXT studies. This was the primary analysis population as defined in the Statistical Analysis Plans. |  |  |  |  |
+|  | N=93 | N=27 | N=75 | N=38 |
+| Proportion of patients with absence of active ROP and unfavorable structural outcomes (%) | 79.6% | 77.8% | 78.7% | 81.6% |
+| Adjusted DifferenceDifference with confidence interval (CI) was calculated using Mantel-Haenszel weighting scheme adjusted by baseline ROP status. Success criterion: Lower limit of 95.1% CI above -5%. (%) (95.1% CI) | 1.81% (-15.7, 19.3) |  | -1.88% (-17.0, 13.2) |  |
