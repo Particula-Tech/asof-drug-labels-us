@@ -28,12 +28,10 @@ Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Woodstock Sterile Solutions, Inc. Woodstock, IL 60098 U.S.A.
 
-© 2021 Viatris Inc.
+© 2023 Viatris Inc.
 
 TOBI is a registered trademark of BGP Products Operations GmbH, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-WS:TOBRIS:R1
-
-PCR-750-15626
+WS:TOBRIS:R2
