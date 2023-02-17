@@ -7,12 +7,21 @@ Bronchospasm should be treated as medically appropriate.
 
 ## 5.2 Ototoxicity
 
+Ototoxicity with use of TOBI Podhaler
+
 Caution should be exercised when prescribing TOBI Podhaler to patients with known or suspected auditory or vestibular dysfunction.
 
-Ototoxicity, as measured by complaints of hearing loss or tinnitus, was reported by patients in the TOBI Podhaler clinical studies [see Adverse Reactions (6.1)].
+Ototoxicity, as measured by complaints of hearing loss or tinnitus, was reported by patients in the TOBI Podhaler clinical studies [seeAdverse Reactions (6.1)].
 Tinnitus may be a sentinel symptom of ototoxicity, and therefore the onset of this symptom warrants caution.
 Ototoxicity, manifested as both auditory (hearing loss) and vestibular toxicity, has been reported with parenteral aminoglycosides.
 Vestibular toxicity may be manifested by vertigo, ataxia or dizziness.
+
+Risk of Ototoxicity Due to Mitochondrial DNA Variants
+
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
 
 ## 5.3 Nephrotoxicity
 

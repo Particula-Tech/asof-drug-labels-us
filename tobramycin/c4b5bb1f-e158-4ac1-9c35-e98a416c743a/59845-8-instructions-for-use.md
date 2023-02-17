@@ -171,4 +171,4 @@ Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Pharmaceuticals Inc. 150 Industrial Road San Carlos, CA 94070 U.S.A.
 
-Revised: 10/2020 N:TOBRIP:R3/PI:TOBRIP:R2/IFU:TOBRIP:R2
+Revised: 2/2023 N:TOBRIP:R4/PI:TOBRIP:R4/IFU:TOBRIP:R2

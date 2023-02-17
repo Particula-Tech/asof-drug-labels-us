@@ -36,4 +36,4 @@ Manufactured by: Mylan Pharmaceuticals Inc. San Carlos, CA 94070 U.S.A.
 
 © 2020 Mylan Inc.
 
-GTIN: 00349502346248 EXP/LOT
+GTIN: 00349502401244 EXP/LOT
