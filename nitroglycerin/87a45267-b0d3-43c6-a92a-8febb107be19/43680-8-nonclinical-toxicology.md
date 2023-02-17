@@ -11,7 +11,7 @@ Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not
 
 Nitroglycerin was found to have reverse mutation activity in the Salmonella typhimurium strain TA1535 (Ames assay).
 A similar mutation in S. typhimurium strain was also reported for other NO donors.
-Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with oral doses of up to about 363 mg/kg/day or in ex vitro cytogenic tests in rat and dog tissues.
+Nevertheless, there was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with oral doses of up to about 363 mg/kg/day or in ex vitrocytogenic tests in rat and dog tissues.
 In vitro cytogenetic assay using Chinese hamster ovary cells showed no chromosomal aberrations.
 
 In a 3-generation reproduction study, rats received dietary nitroglycerin at doses up to about 408 mg/kg/day (males) to 452 mg/kg/day (females) for 5 months (females) or 6 months (males) prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations.

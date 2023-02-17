@@ -34,7 +34,7 @@ Because NitroMist contains a highly flammable propellant (butane), do not have t
 While the container is in the upright position, if the liquid reaches the top to middle of the hole on the side of the container, a new supply should be obtained.
 When the liquid reaches the bottom of the hole, the remaining doses will have less than label content.
 
-Manufactured for Mist Pharmaceuticals, LLC Cranford, NJ 07016 by Dynamit Nobel GmbH, Leverkusen, Germany
+Manufactured for MistPharmaceuticals, LLC Cranford, NJ 07016 by Dynamit Nobel GmbH, Leverkusen, Germany
 
 Marketed and Distributed by: Mist Pharmaceuticals, LLC Cranford, NJ 07016 USA
 
