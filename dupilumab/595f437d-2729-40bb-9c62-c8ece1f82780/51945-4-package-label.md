@@ -21,9 +21,7 @@ Do not use if seal is broken or damaged.
 Store refrigerated at 36° to 46°F (2° to 8°C) in the original carton.
 Dosage and Administration: See package insert for dosage information and directions for use.
 
-SANOFI GENZYME
-
-REGENERON
+sanofi | REGENERON
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/1.14 mL Syringe Carton
 
@@ -48,9 +46,7 @@ Do not use if seal is broken or damaged.
 Store refrigerated at 36° to 46°F (2° to 8°C) in the original carton.
 Dosage and Administration: See package insert for dosage information and directions for use.
 
-SANOFI GENZYME
-
-REGENERON
+sanofi | REGENERON
 
 # PRINCIPAL DISPLAY PANEL - 300 mg/2 mL Pre-filled Pen Carton
 
@@ -77,9 +73,7 @@ Dosage and Administration: See package insert for dosage information and directi
 
 300 mg/2 mL
 
-SANOFI GENZYME
-
-REGENERON
+sanofi | REGENERON
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/1.14 mL Pre-filled Pen Carton
 
@@ -106,9 +100,7 @@ Dosage and Administration: See package insert for dosage information and directi
 
 200 mg/1.14 mL
 
-SANOFI GENZYME
-
-REGENERON
+sanofi | REGENERON
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/0.67 mL Syringe Carton
 
@@ -133,6 +125,4 @@ Dosage and Administration: See package insert for dosage information and directi
 
 100 mg/0.67 mL
 
-SANOFI GENZYME
-
-REGENERON
+sanofi | REGENERON
