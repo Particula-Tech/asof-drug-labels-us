@@ -2,9 +2,7 @@
 
 Single oral doses of 3 g/kg benazepril were associated with significant lethality in mice.
 Rats, however, tolerated single oral doses of up to 6 g/kg.
-Reduced activity was seen at
-
-1 g/kg in mice and at 5 g/kg in rats.
+Reduced activity was seen at 1 g/kg in mice and at 5 g/kg in rats.
 Human overdoses of benazepril have not been reported, but the most common manifestation of human benazepril overdosage is likely to be hypotension, for which the usual treatment would be intravenous infusion of normal saline solution.
 Hypotension can be associated with electrolyte disturbances and renal failure.
 
