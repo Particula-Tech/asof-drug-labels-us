@@ -7,6 +7,6 @@ The molecular formula is C21H27N5O4S; the molecular weight is 445.55; the struct
 
 Glipizide is a whitish, odorless powder with a pKa of 5.9.
 It is insoluble in water and alcohols, but soluble in 0.1 N NaOH; it is freely soluble in dimethylformamide.
-GLUCOTROL tablets for oral use are available in 5 and 10 mg strengths.
+GLUCOTROL tablets for oral use are available in 5 mg strength.
 
 Inert ingredients are: colloidal silicon dioxide; lactose; microcrystalline cellulose; starch; stearic acid.
