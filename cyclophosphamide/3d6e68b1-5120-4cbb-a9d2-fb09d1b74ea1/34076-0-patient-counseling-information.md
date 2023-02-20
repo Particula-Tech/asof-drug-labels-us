@@ -21,4 +21,4 @@ Do not open, chew, or crush capsules [see DOSAGE AND ADMINISTRATION (2.1)]. • 
 If contact with broken capsules occurs, wash hands immediately and thoroughly [see DOSAGE AND ADMINISTRATION (2.1)].
 For more information call Alembic Pharmaceuticals Limited at 1-866-210-9797.
 Manufactured by: Alembic Pharmaceuticals Limited Formulation Division II, Survey No. 84, 87 And 88, Panelav, Taluka-Halol, Panchmahal- 389350, Gujarat, India.
-Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Revised: 11/2022
+Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Revised: 02/2023
