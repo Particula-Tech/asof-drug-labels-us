@@ -148,66 +148,16 @@ Levothyroxine Sodium Tablets, USP
 
 Rx only abbvie
 
-NDC 0074-4341-72
-
-2 cards x 7 tablets
-
-orange 25mcg (0.025mg) SYNTHROID
-
-Synthroid ®
-
-(levothyroxine sodium tablets, USP)
-
-www.synthroid.com
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
-
-Professional sample.
-Not for sale.
-Rx only abbvie
-
 NDC 0074-4552-90
 
 Synthroid®
 
 Levothyroxine Sodium Tablets, USP
 
-50 mcg (0.05mg)
+50 mcg (0.05 mg)
 
 90 Tablets
 
-Rx only abbvie
-
-NDC 0074-5182-72 2 cards x 7 tablets
-
-violet 75 mcg (0.075 mg) SYNTHROID
-
-Synthroid®
-
-(levothyroxine sodium tablets, USP)
-
-www.synthroid.com
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
-
-Professional sample.
-Not for sale.
-Rx only abbvie
-
-NDC 0074-9296-72 2 cards x 7 tablets
-
-rose 112 mcg (0.112 mg) SYNTHROID
-
-Synthroid®
-
-(levothyroxine sodium tablets, USP)
-
-www.synthroid.com
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
-
-Professional sample.
-Not for sale.
 Rx only abbvie
 
 NDC 0074-7148-90
@@ -216,28 +166,10 @@ Synthroid®
 
 Levothyroxine Sodium Tablets, USP
 
-200 mcg
-
-(0.2 mg)
+200 mcg (0.2 mg)
 
 90 Tablets
 
-Rx only abbvie
-
-NDC 0074-6624-72 2 cards x 7 tablets
-
-yellow 100 mcg (0.1mg) SYNTHROID
-
-Synthroid®
-
-(levothyroxine sodium tablets, USP)
-
-www.synthroid.com
-
-THIS PACKAGE FOR HOUSEHOLDS WITHOUT YOUNG CHILDREN
-
-Professional sample.
-Not for sale.
 Rx only abbvie
 
 NDC 0074-6624-90
@@ -246,9 +178,7 @@ Synthroid®
 
 Levothyroxine Sodium Tablets, USP
 
-100 mcg
-
-(0.1 mg)
+100 mcg (0.1 mg)
 
 90 Tablets
 
