@@ -4,7 +4,7 @@ Hydroxyzine Pamoate Capsules, USP, for oral administration, are available as
 
 25 mg
 
-(equivalent to 25 mg hydroxyzine hydrochloride) are light green/dark green capsules imprinted “E 613” and supplied as:
+(equivalent to 25 mg hydroxyzine hydrochloride) are light green/dark green capsules imprinted “E613” and supplied as:
 
 NDC 0185-0674-01 bottles of 100
 
@@ -34,17 +34,13 @@ KEEP TIGHTLY CLOSED.
 
 KEEP OUT OF THE REACH OF CHILDREN.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Sandoz Inc. at 1-800-525-8747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Manufactured in India by
 
-Manufactured by
+Sandoz Private Ltd., for
 
-Sandoz Inc.
+Sandoz Inc., Princeton, NJ 08540
 
-Princeton, NJ 08540
-
-46299654
+46309877
 
 Rev.
-November 2021
-
-MF42024530REV11/21
+June 2022
