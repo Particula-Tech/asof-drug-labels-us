@@ -2,23 +2,37 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Risks from Concomitant Use with Opioids Inform patients and caregivers that potentially fatal additive effects may occur if clobazam tablet is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
-Somnolence or Sedation Advise patients or caregivers to check with their healthcare provider before clobazam tablet is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.2, 5.3)].
+
+Abuse, Misuse, and Addiction
+
+Inform patients that the use of clobazam tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug [see Warnings and Precautions (5.2) and Drug Abuse and Dependence (9.2)].
+
+Withdrawal Reactions
+
+Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure.
+Inform patients that the continued use of clobazam tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of clobazam tablets may precipitate acute withdrawal reactions, which can be life-threatening.
+Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
+Instruct patients that discontinuation or dosage reduction of clobazam tablets may require a slow taper [see Warnings and Precautions (5.3) and Drug Abuse and Dependence (9.3)].
+
+Somnolence or Sedation
+
+Advise patients or caregivers to check with their healthcare provider before clobazam tablet is taken with other CNS depressants such as other benzodiazepines, opioids, tricyclic antidepressants, sedating antihistamines, or alcohol [see Warnings and Precautions (5.4, 5.5)].
 If applicable, caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clobazam tablets does not affect them adversely (e.g., impair judgment, thinking or motor skills).
-Increasing or Decreasing the Clobazam Dose Inform patients or caregivers to consult their healthcare provider before increasing the clobazam tablets dose or abruptly discontinuing clobazam tablets.
-Advise patients or caregivers that abrupt withdrawal of AEDs may increase their risk of seizure [see Dosage and Administration (2.2), Warnings and Precautions (5.4)].
-Hypersensitivity Inform patients or caregivers that clobazam tablet is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions (5.5)].
+Hypersensitivity Inform patients or caregivers that clobazam tablet is contraindicated in patients with a history of hypersensitivity to the drug or its ingredients [see Warnings and Precautions (5.6)].
 Interactions with Hormonal Contraceptives Counsel women to also use non-hormonal methods of contraception when clobazam tablet is used with hormonal contraceptives and to continue these alternative methods for 28 days after discontinuing clobazam tablets to ensure contraceptive reliability [see Drug Interactions (7.3), Clinical Pharmacology (12.3)].
 Serious Dermatological Reactions Advise patients or caregivers that serious skin reactions have been reported in patients taking clobazam tablets.
 Serious skin reactions, including SJS/TEN, may need to be treated in a hospital and may be life-threatening.
-If a skin reaction occurs while taking clobazam tablets, patients or caregivers should consult with healthcare providers immediately [see Warnings and Precautions (5.5)].
+If a skin reaction occurs while taking clobazam tablets, patients or caregivers should consult with healthcare providers immediately [see Warnings and Precautions (5.6)].
 Suicidal Thinking and Behavior Counsel patients, their caregivers, and their families that AEDs, including clobazam tablets, may increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts of self-harm.
 Patients should report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.7)].
-Pregnancy Advise pregnant women and women of childbearing potential that the use of clobazam tablets during pregnancy can cause fetal harm which may occur early in pregnancy before many women know they are pregnant.
-Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
-Advise patients that there is a pregnancy exposure registry that collects information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
-Nursing Counsel patients that clobazam is excreted in breast milk.
-Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy and counsel nursing mothers to observe their infants for poor sucking and somnolence [see Use in Specific Populations (8.2)].
+Pregnancy Advise pregnant females that the use of clobazam tablets late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Instruct patients to notify their healthcare provider if they are pregnant.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking clobazam tablets.
+The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
+Lactation Counsel patients that clobazam, the active ingredient in clobazam tablets, is excreted in breast milk.
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who have been administered clobazam tablets to observe their infants for sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM HETERO LABS LIMITED Jeedimetla, Hyderabad – 500055, India.
-2050284 Revised: September 2018
+Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM HETERO LABS LIMITED Jeedimetla, Hyderabad – 500055, India.
+Revised: 01/2023
