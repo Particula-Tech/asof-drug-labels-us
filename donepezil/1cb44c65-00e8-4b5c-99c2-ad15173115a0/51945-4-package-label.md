@@ -90,27 +90,6 @@ Rx Only Contains 1 transdermal system
 
 Dispense in this sealed carton
 
-# Primary Panel - Sample Carton (Contains 10 transdermal systems) 5 mg
-
-NDC: 65038-055-07
-
-Adlarity®
-
-(donepezil transdermal system)
-
-5 mg/day Store in refrigerator.
-
-For Transdermal Use Only
-
-For Once Weekly Administration
-
-Professional Sample: Not for Sale
-
-Contains ten sample packs.
-Each sample pack contains one transdermal system.
-
-Rx Only
-
 # Primary Panel - Pouch (Contains 1 transdermal system) 10 mg
 
 Adlarity®
@@ -204,25 +183,3 @@ Avoid applying heat
 Rx Only Contains 1 transdermal system
 
 Dispense in this sealed carton
-
-# Primary Panel - Carton (Contains 10 transdermal systems) 10 mg
-
-NDC: 65038-056-07
-
-Adlarity®
-
-(donepezil transdermal system)
-
-10 mg/day Store in refrigerator.
-
-For Transdermal Use Only
-
-For Once Weekly Administration
-
-Professional Sample: Not for Sale
-
-Contains ten sample packs.
-
-Each sample pack contains one transdermal system.
-
-Rx Only
