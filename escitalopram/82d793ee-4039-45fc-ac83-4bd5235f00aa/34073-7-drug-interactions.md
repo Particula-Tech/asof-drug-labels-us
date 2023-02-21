@@ -21,7 +21,7 @@ Given the primary CNS effects of escitalopram, caution should be used when it is
 
 Although escitalopram did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking escitalopram is not recommended.
 
-## 7.6 Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
+## 7.6 Drugs That Interfere with Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
 
 Serotonin release by platelets plays an important role in hemostasis.
 Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.

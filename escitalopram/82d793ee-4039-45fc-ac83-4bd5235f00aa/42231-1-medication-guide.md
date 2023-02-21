@@ -94,7 +94,7 @@ Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
 By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderbad-500 055, India
 
-Revised: 08/2022
+Revised: 02/2023
 
 The brands listed are the trademarks of their respective owners and are not trademarks of Hetero Labs Limited.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -10,7 +10,7 @@ Pre-existing glaucoma is almost always open-angle glaucoma because angle closure
 Open-angle glaucoma is not a risk factor for angle closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible [see Warnings and Precautions (5.9)].
 Sexual Dysfunction Advise patients that use of escitalopram oral solution may cause symptoms of sexual dysfunction in both male and female patients.
-Inform patients that they should discuss any changes in sexual function and potential strategies with their healthcare provider [see Warnings and Precautions (5.11)].
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.11)].
 Concomitant Medications Since escitalopram is the active isomer of racemic citalopram (Celexa), the two agents should not be coadministered.
 Patients should be advised to inform their physician if they are taking, or plan to take, any prescription or over-the-counter drugs, as there is a potential for interactions.
 Continuing the Therapy Prescribed While patients may notice improvement with escitalopram oral solution therapy in 1 to 4 weeks, they should be advised to continue therapy as directed.
@@ -33,4 +33,4 @@ Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
 By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderbad-500 055, India
 
-Revised: 08/2022
+Revised: 02/2023

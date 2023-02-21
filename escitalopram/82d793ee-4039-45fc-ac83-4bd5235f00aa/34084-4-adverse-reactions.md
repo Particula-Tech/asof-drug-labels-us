@@ -3,6 +3,7 @@
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+
 Clinical Trial Data Sources Pediatrics (6 to 17 years) Adverse events were collected in 576 pediatric patients (286 escitalopram, 290 placebo) with major depressive disorder in double-blind placebo-controlled studies.
 Safety and effectiveness of escitalopram in pediatric patients less than 12 years of age has not been established.
 Adults Adverse events information for escitalopram was collected from 715 patients with major depressive disorder who were exposed to escitalopram and from 592 patients who were exposed to placebo in double-blind, placebo-controlled trials.
@@ -60,7 +61,6 @@ Events included are those occurring in 2% or more of patients treated with escit
 | Anorgasmia 3 |  |  |  | 2% | <1% |  |
 
 1 Primarily ejaculatory delay.
-
 2 Denominator used was for males only (N=225 escitalopram; N=188 placebo).
 3 Denominator used was for females only (N=490 escitalopram; N=404 placebo).
 Generalized Anxiety Disorder Adults The most commonly observed adverse reactions in escitalopram patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were nausea, ejaculation disorder (primarily ejaculatory delay), insomnia, fatigue, decreased libido, and anorgasmia.
@@ -130,9 +130,7 @@ Table 4 shows common adverse reactions that occurred in the 20 mg/day escitalopr
 | Fatigue | 2% | 2% | 6% |
 | Indigestion | 1% | 2% | 6% |
 
-Male and Female Sexual Dysfunction with SSRIs
-
-Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
+Male and Female Sexual Dysfunction with SSRIs Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
 Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance cited in product labeling are likely to underestimate their actual incidence.
@@ -154,7 +152,6 @@ Accordingly, estimates of the incidence of untoward sexual experience and perfor
 There are no adequately designed studies examining sexual dysfunction with escitalopram treatment.
 
 Priapism has been reported with all SSRIs.
-
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
 Vital Sign Changes Escitalopram and placebo groups were compared with respect to (1) mean change from baseline in vital signs (pulse, systolic blood pressure, and diastolic blood pressure) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses did not reveal any clinically important changes in vital signs associated with escitalopram treatment.
