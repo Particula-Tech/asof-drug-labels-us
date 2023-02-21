@@ -31,7 +31,7 @@ Response to vaccinations could be impaired by BENLYSTA [see Warnings and Precaut
 
 Pregnancy Registry
 
-Inform patients that there is a pregnancy registry to monitor fetal outcomes of pregnant women exposed to BENLYSTA [see Use in Specific Populations (8.1)].
+Inform patients that there is a pregnancy registry to evaluate fetal outcomes of pregnant women with lupus exposed to BENLYSTA [see Use in Specific Populations (8.1)].
 
 Pregnancy
 

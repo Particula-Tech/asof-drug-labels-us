@@ -76,11 +76,11 @@ The following information is based on the population pharmacokinetic analyses of
 
 Age: Age did not significantly influence the pharmacokinetics of belimumab, where the majority of subjects were between 18 and 45 years (70% with intravenous dosing; 74% with subcutaneous dosing).
 
-1. Geriatric Patients: Limited pharmacokinetic data are available for elderly patients as less than 2% of the subjects included in the pharmacokinetic analysis were 65 years or older [see Use in Specific Populations (8.5)].
-2. Pediatric Patients: The pharmacokinetic parameters of belimumab are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients with SLE (Trial 6).
-   Following IV administration of 10 mg/kg on Days 0, 14, and 28, and at 4‑week intervals thereafter, belimumab exposures were similar between pediatric and adult subjects with SLE.
-   Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mcg/mL, and 2,569 day•mcg/mL in the 5- to 11-year-old group, and 317, 52, 112 mcg/mL and 3,126 day•mcg/mL in the 12- to 17-year-old group.
-   [See Use in Specific Populations (8.4).]
+- Geriatric Patients: Limited pharmacokinetic data are available for elderly patients as less than 2% of the subjects included in the pharmacokinetic analysis were 65 years or older [see Use in Specific Populations (8.5)].
+- Pediatric Patients: The pharmacokinetic parameters of belimumab are based on individual parameter estimates from a population pharmacokinetic analysis of 53 pediatric patients with SLE (Trial 6).
+  Following IV administration of 10 mg/kg on Days 0, 14, and 28, and at 4‑week intervals thereafter, belimumab exposures were similar between pediatric and adult subjects with SLE.
+  Steady-state geometric mean Cmax, Cmin, Cavg, and AUC values were 305, 42, 92 mcg/mL, and 2,569 day•mcg/mL in the 5- to 11-year-old group, and 317, 52, 112 mcg/mL and 3,126 day•mcg/mL in the 12- to 17-year-old group.
+  [See Use in Specific Populations (8.4).]
 
 For active lupus nephritis, the pharmacokinetics of belimumab in pediatric patients were estimated based on a population pharmacokinetic model developed from 224 adults with active lupus nephritis and validated using data from 53 pediatric patients with SLE.
 With IV administration of 10 mg/kg on Days 0, 14 and 28 and at 4-week intervals thereafter, the simulated belimumab exposures for both the 5- to 11-year-old group and the 12- to 17-year-old group were estimated to be comparable to adults with active lupus nephritis.
@@ -110,3 +110,19 @@ No formal drug interaction studies have been conducted with BENLYSTA.
 Concomitant use of mycophenolate, cyclophosphamide, azathioprine, methotrexate, antimalarials, NSAIDs, aspirin, and/or HMG-CoA reductase inhibitors did not significantly influence belimumab pharmacokinetics.
 Coadministration of steroids and angiotensin-converting enzyme (ACE) inhibitors resulted in an increase of systemic clearance of belimumab that was not clinically significant because the magnitude was well within the range of normal variability of clearance.
 The effect of belimumab on the pharmacokinetics of other drugs has not been evaluated.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of BENLYSTA or of other belimumab products.
+
+In Trials 2 and 3 (intravenous dosing in adults with SLE), anti-belimumab antibodies were assessed during the respective 52-week and 76-week, placebo-controlled periods and detected in 4 of 563 (0.7%) patients receiving BENLYSTA 10 mg/kg and in 27 of 559 (4.8%) patients receiving BENLYSTA 1 mg/kg.
+The reported frequency for the group receiving 10 mg/kg may underestimate the actual frequency due to lower assay sensitivity in the presence of high drug concentrations.
+Neutralizing antibodies were detected in 3 patients receiving BENLYSTA 1 mg/kg.
+Three patients with anti-belimumab antibodies experienced mild infusion reactions of nausea, erythematous rash, pruritus, eyelid edema, headache, and dyspnea; none of the reactions were life-threatening.
+In Trial 4 (intravenous dosing in adult Black patients), anti-belimumab antibodies were detected in 2 of 321 (0.6%) patients receiving BENLYSTA 10 mg/kg during the 52-week, placebo-controlled period.
+In Trial 5 (intravenous dosing in adults with lupus nephritis), there was no formation of anti-belimumab antibodies in 224 patients receiving BENLYSTA 10 mg/kg plus standard therapy during the 104-week, placebo‑controlled period.
+In Trial 6 (intravenous dosing in pediatric patients with SLE), there was no formation of anti-belimumab antibodies in 53 patients receiving BENLYSTA 10 mg/kg plus standard therapy during the 52-week, placebo‑controlled period.
+In Trial 7 (subcutaneous dosing in adults with SLE), there was no formation of anti‑belimumab antibodies in 556 patients receiving BENLYSTA 200 mg during the 52-week, placebo-controlled period.
+
+The clinical relevance of the presence of anti-belimumab antibodies is not known.

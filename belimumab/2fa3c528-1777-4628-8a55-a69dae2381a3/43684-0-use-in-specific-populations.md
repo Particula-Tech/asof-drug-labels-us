@@ -4,8 +4,8 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to BENLYSTA during pregnancy.
-Healthcare professionals are encouraged to register patients by calling 1-877-681-6296.
+There is a pregnancy exposure registry that evaluates pregnancy outcomes in women with lupus exposed to BENLYSTA during pregnancy.
+Healthcare professionals are encouraged to refer patients and pregnant women are encouraged to enroll themselves by calling 1-877-311-8972 or visiting https://mothertobaby.org/ongoing-study/benlysta-belimumab/.
 
 Risk Summary
 

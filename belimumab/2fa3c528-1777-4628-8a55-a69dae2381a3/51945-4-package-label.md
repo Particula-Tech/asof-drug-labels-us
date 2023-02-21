@@ -10,6 +10,8 @@ for Injection
 
 120 mg/vial
 
+GSK
+
 For Intravenous Infusion after dilution only.
 Single-dose vial.
 
@@ -28,12 +30,12 @@ Federal Law requires dispensing of BENLYSTA with the Medication Guide provided w
 
 Rx only
 
-©2021 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
 Rev.
-4/21
+9/22
 
-62000000063941
+62000000082255
 
 PRINCIPAL DISPLAY PANEL
 
@@ -47,6 +49,8 @@ for Injection
 
 400 mg/vial
 
+GSK
+
 For Intravenous Infusion after dilution only.
 Single-dose vial.
 
@@ -55,7 +59,7 @@ Discard unused portion.
 Reconstitution: Reconstitute with 4.8 mL of Sterile Water for Injection, USP.
 After reconstitution, the concentration of BENLYSTA is 80 mg/mL.
 
-Dilute: Further dilute to 250 mL of one of the following solutions before use:
+Dilution: Further dilute to 250 mL of one of the following solutions before use:
 
 - •0.9% Sodium Chloride Injection, USP
 - •0.45% Sodium Chloride Injection, USP
@@ -65,12 +69,12 @@ Federal Law requires dispensing of BENLYSTA with the Medication Guide provided w
 
 Rx only
 
-©2021 GSK group of companies or its licensor.
+©2022 GSK group of companies or its licensor.
 
 Rev.
-4/21
+9/22
 
-62000000063921
+62000000082242
 
 PRINCIPAL DISPLAY PANEL
 
@@ -86,6 +90,8 @@ Injection
 
 Rx only
 
+GSK
+
 Once-weekly
 
 For Subcutaneous Use
@@ -99,9 +105,9 @@ Contents:
 
 Federal Law requires dispensing of BENLYSTA with the Medication Guide provided with this package.
 
-©2021 GSK group of companies or is licensor.
+©2022 GSK group of companies or is licensor.
 
 Rev.
-7/21
+10/22
 
-62000000063282
+62000000083051

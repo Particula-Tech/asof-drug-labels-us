@@ -78,9 +78,9 @@ However, the treatment difference was not statistically significant (Table 5).
 Table 5.
 Clinical Response Rate in Black Patients with SLE after 52 Weeks of Treatment (Trial 4)
 
-| Response | Placebo +Standard Therapy(n = 149) | BENLYSTA10 mg/kg +Standard Therapy(n = 299) |  |  |  |  |  |  |  |
+| Responsea | Placebo +Standard Therapy(n = 149) | BENLYSTA10 mg/kg +Standard Therapy(n = 298) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SLE Responder Index (SRI-S2K)a | 42% | 49% |  |  |  |  |  |  |  |
+| SLE Responder Index (SRI-S2K)b | 42% | 49% |  |  |  |  |  |  |  |
 | Odds Ratio (95% CI) |  | 1.4 (0.9, 2.1)P = 0.107 |  |  |  |  |  |  |  |
 | Components of SLE Responder Index (SRI-S2K) |  |  |  |  |  |  |  |  |  |
 | Percent of patients with reduction in SELENA‑SLEDAI-S2K ≥4 | 42% | 50% |  |  |  |  |  |  |  |
@@ -89,7 +89,8 @@ Clinical Response Rate in Black Patients with SLE after 52 Weeks of Treatment (T
 | Odds Ratio (95% CI) |  | 1.2 (0.8, 1.9) |  |  |  |  |  |  |  |
 | Percent of patients with no worsening by PGA | 64% | 70% |  |  |  |  |  |  |  |
 | Odds Ratio (95% CI) |  | 1.3 (0.8, 1.9) |  |  |  |  |  |  |  |
-| a Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. A higher proportion of patients receiving placebo were considered as failures for this reason compared with the group receiving BENLYSTA. |  |  |  |  |  |  |  |  |  |
+| a Analyses excluded any subject missing a baseline assessment for any of the components (1 for belimumab). |  |  |  |  |  |  |  |  |  |
+| b Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. A higher proportion of patients receiving placebo were considered as failures for this reason compared with the group receiving BENLYSTA. |  |  |  |  |  |  |  |  |  |
 
 Effect on Concomitant Steroid Treatment: In Trial 2 and Trial 3, 46% and 69% of patients, respectively, were receiving prednisone at doses >7.5 mg/day at baseline.
 The proportion of patients able to reduce their average prednisone dose by at least 25% to ≤7.5 mg/day during Weeks 40 through 52 was not consistently significantly different for BENLYSTA plus standard therapy relative to placebo plus standard therapy in both trials.
@@ -198,7 +199,7 @@ There was a numerically higher proportion of pediatric patients achieving a resp
 Table 8.
 Pediatric Response Rate at Week 52a (Trial 6)
 
-| Response | Placebo +Standard Therapy(n = 40) | BENLYSTA10 mg/kg +Standard Therapy(n = 53) |
+| Responseb | Placebo +Standard Therapy(n = 39) | BENLYSTA10 mg/kg +Standard Therapy(n = 53) |
 | --- | --- | --- |
 | SLE Responder Index | 44% | 53% |
 | Odds Ratio(95% CI) vs. Placebo |  | 1.49(0.64, 3.46) |
@@ -210,6 +211,7 @@ Pediatric Response Rate at Week 52a (Trial 6)
 | SRI-6 using SELENA SLEDAI ≥6-point reduction | 34% | 41% |
 | Proportion of patients with a sustained SRI response | 41% | 43% |
 | a Based on a non-powered trial. |  |  |
+| b Analyses excluded any subject missing a baseline assessment for any of the components (1 for placebo). |  |  |
 
 Effect on Concomitant Steroid Treatment: At baseline, 95% of pediatric patients were receiving prednisone.
 Among those pediatric patients, 20% of pediatric patients receiving BENLYSTA plus standard therapy reduced their average prednisone dose by at least 25% per day during Weeks 44 through 52 compared with 21% of pediatric patients on placebo plus standard therapy.
@@ -250,15 +252,16 @@ The trends comparing the treatment groups with respect to the probability of res
 Table 9.
 Clinical Response Rate in Patients with SLE after 52 Weeks of Treatment (Trial 7)
 
-| Response | Placebo +Standard Therapy(n = 279) | BENLYSTA +Standard Therapy(n = 554) |
+| Responsea | Placebo +Standard Therapy(n = 279) | BENLYSTA +Standard Therapy(n = 554) |
 | --- | --- | --- |
-| SLE Responder Index-4 (SRI-4)a | 48% | 61%P = 0.0006 |
+| SLE Responder Index-4 (SRI-4)b | 48% | 61%P = 0.0006 |
 | Odds Ratio(95% CI) vs. placebo |  | 1.7(1.3, 2.3) |
 | Components of SLE Responder Index-4 (SRI-4) |  |  |
 | Percent of patients with reduction in SELENA-SLEDAI ≥4 | 49% | 62% |
 | Percent of patients with no worsening by BILAG index | 74% | 81% |
 | Percent of patients with no worsening by PGA | 73% | 81% |
-| a Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. A higher proportion of patients receiving placebo plus standard therapy were considered as failures for this reason compared with the group receiving BENLYSTA plus standard therapy. |  |  |
+| a Analyses excluded any subject missing a baseline assessment for any of the components (1 for placebo; 2 for belimumab). |  |  |
+| b Patients dropping out of the trial early or experiencing certain increases in background medication were considered as failures in these analyses. A higher proportion of patients receiving placebo plus standard therapy were considered as failures for this reason compared with the group receiving BENLYSTA plus standard therapy. |  |  |
 
 The reduction in disease activity seen in the SRI-4 was related primarily to improvement in the most commonly involved organ systems, namely, mucocutaneous, musculoskeletal, immunologic, and vascular.
 

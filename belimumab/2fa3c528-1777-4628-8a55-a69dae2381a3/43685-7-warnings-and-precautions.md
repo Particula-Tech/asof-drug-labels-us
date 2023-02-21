@@ -13,7 +13,7 @@ Progressive Multifocal Leukoencephalopathy (PML)
 Cases of JC virus-associated PML resulting in neurological deficits, including fatal cases, have been reported in patients with SLE receiving immunosuppressants, including BENLYSTA.
 Risk factors for PML include treatment with immunosuppressant therapies and impairment of immune function.
 Consider the diagnosis of PML in any patient presenting with new-onset or deteriorating neurological signs and symptoms and consult with a neurologist or other appropriate specialist as clinically indicated.
-In patients with confirmed PML, consider stopping immunosuppressant therapy, including BENLYSTA.
+In patients with confirmed PML, discontinue immunosuppressant therapy, including BENLYSTA.
 
 ## 5.2 Hypersensitivity Reactions, including Anaphylaxis
 
@@ -56,7 +56,9 @@ Because of its mechanism of action, BENLYSTA may interfere with the response to 
 Live vaccines should not be given for 30 days before or concurrently with BENLYSTA as clinical safety has not been established.
 No data are available on the secondary transmission of infection from persons receiving live vaccines to patients receiving BENLYSTA or the effect of BENLYSTA on new immunizations.
 
-## 5.6 Not Recommended for Concomitant Use with Other Biologic Therapies
+## 5.6 Concomitant Use with Other Biologic Therapies
 
-BENLYSTA has not been studied in combination with other biologic therapies, including B-cell-targeted therapies.
-Therefore, use of BENLYSTA is not recommended in combination with biologic therapies.
+Available data do not support the safety and efficacy of concomitant use of BENLYSTA with rituximab in patients with SLE.
+An increased incidence of serious infections and post-injection systemic reactions in patients receiving BENLYSTA concomitantly with rituximab compared to patients receiving BENLYSTA alone has been observed [see Adverse Reactions (6.1)].
+The safety and efficacy of BENLYSTA concomitantly with other biologic therapies, including B-cell-targeted therapies, have not been established.
+Caution should be exercised if BENLYSTA is administered in combination with other biologic therapies [see Warnings and Precautions (5)].

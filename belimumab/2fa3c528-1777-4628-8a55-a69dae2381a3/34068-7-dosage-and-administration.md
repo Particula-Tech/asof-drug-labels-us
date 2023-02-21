@@ -49,10 +49,10 @@ Dilution Instructions for Intravenous Use:
 
 1. 1.Dextrose intravenous solutions are incompatible with BENLYSTA.
    BENLYSTA should only be diluted in 0.9% Sodium Chloride Injection, USP (normal saline), 0.45% Sodium Chloride Injection, USP (half-normal saline), or Lactated Ringer’s Injection, USP to a volume of 250 mL for intravenous infusion.
-   For patients whose body weight is less than or equal to 40 kg, 100 mL may be used such that the resulting belimumab concentration in the infusion bag does not exceed 4 mg/mL.
+   To prepare the intravenous infusion solution for patients whose body weight is less than or equal to 40 kg, a 100 mL bag or bottle of normal saline, half-normal saline, or Lactated Ringer’s Injection may be used such that the resulting belimumab concentration in the infusion bag does not exceed 4 mg/mL.
    From a 250‑mL (or 100‑mL) infusion bag or bottle of normal saline, half-normal saline, or Lactated Ringer’s Injection, withdraw and discard a volume equal to the volume of the reconstituted solution of BENLYSTA required for the patient’s dose.
-   Then add the required volume of the reconstituted solution of BENLYSTA into the infusion bag or bottle.
-   Gently invert the bag or bottle to mix the solution.
+   Then add the required volume of the reconstituted solution of BENLYSTA into the intravenous infusion solution in the infusion bag or bottle.
+   Gently invert the bag or bottle to mix the intravenous infusion solution.
    Any unused solution in the vials must be discarded.
 2. 2.Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
    Discard the solution if any particulate matter or discoloration is observed.
