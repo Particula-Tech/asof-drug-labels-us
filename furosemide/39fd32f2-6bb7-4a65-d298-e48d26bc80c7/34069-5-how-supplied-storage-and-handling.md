@@ -4,7 +4,7 @@ Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C
 [See USP Controlled Room Temperature.]
 Protect from light.
 
-Furosemide Injection is a sterile, colorless solution for injection, available as a single-dose vial that contains 10 mg/mL of furosemide, and is supplied as follows:
+Furosemide Injection, USP is a sterile, colorless solution for injection, available as a single-dose vial that contains 10 mg/mL of furosemide, and is supplied as follows:
 
 | Unit of Sale | Presentations | Concentration |
 | --- | --- | --- |

@@ -52,7 +52,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Published reports indicate that premature infants with post conceptual age (gestational plus postnatal) less than 31 weeks receiving doses exceeding 1 mg/kg/24 hours may develop plasma levels which could be associated with potential toxic effects including ototoxicity [see Warnings and Precautions (5.3)].
 
-Furosamide in the first year of life, especially in patients born pre-term, may precipitate nephrocalcinosis/nephrolithiasis [see Warnings and Precautions (5.2)].
+Furosemide in the first year of life, especially in patients born pre-term, may precipitate nephrocalcinosis/nephrolithiasis [see Warnings and Precautions (5.2)].
 
 ## 8.5 Geriatric Use
 
