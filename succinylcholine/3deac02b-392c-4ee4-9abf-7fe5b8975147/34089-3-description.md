@@ -1,18 +1,13 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Succinylcholine Chloride Injection, USP is a sterile, nonpyrogenic solution to be used as an ultra short-acting, depolarizing, skeletal muscle relaxant See HOW SUPPLIED for summary of content and characteristics of the solutions.
-The solutions are for intramuscular (IM) or intravenous (IV) use.
-Succinylcholine Chloride, USP is chemically designated C14H30Cl2N2O4.2H2O and its molecular weight is 397.34.
+Succinylcholine Chloride Injection, USP is a sterile, nonpyrogenic solution to be used as a short-acting, depolarizing neuromuscular blocker for intravenous or intramuscular use.
+Succinylcholine Chloride Injection, USP contains succinylcholine chloride as the active pharmaceutical ingredient.
+Succinylcholine Chloride, USP is chemically designated C 14H 30Cl 2N 2O 4.2H 2O and its molecular weight is 397.34.
+The chemical name of succinylcholine chloride is 2,2'-[(1,4-dioxo-1,4-butanediyl)bis(oxy)]bis[N,N,N-trimethyl-ethanaminium],dichloride.
+Succinylcholine chloride is a diquaternary base consisting of the dichloride salt of the dicholine ester of succinic acid.
+It is a white or almost white, odourless, crystalline powder, freely soluble in water.
 It has the following structural formula:
 
-Succinylcholine is a diquaternary base consisting of the dichloride salt of the dicholine ester of succinic acid.
-It is a white or almost white, odourless, crystalline powder, freely soluble in water.
-The drug is incompatible with alkaline solutions but relatively stable in acid solutions.
-Solutions of the drug lose potency unless refrigerated.
-Solution intended for multiple-dose administration contains 0.18% methylparaben and 0.02% propylparaben as preservatives (List No. 6629).
-Solution intended for single-dose administration contains no preservatives.
-Unused solution should be discarded.
-Product not requiring dilution (multiple-dose fliptop vial) contains sodium chloride to render isotonic.
-May contain sodium hydroxide and/or hydrochloric acid for pH adjustment. pH is 3.6 (3.0 to 4.5).
-See table in HOW SUPPLIED for characteristics.
-Sodium Chloride, USP, chemically designated NaCl, is a white crystalline compound freely soluble in water.
+Succinylcholine chloride injection USP, 200 mg/10 mL (20 mg/mL) is intended for multiple-dose administration and contains preservative.
+Each 1 mL of succinylcholine chloride injection USP, 200 mg/10 mL (20 mg/mL) multiple-dose fliptop vials contains: 20 mg of succinylcholine chloride anhydrous (equivalent to 21.994 mg of succinylcholine chloride dihydrate), 1.8 mg of methylparaben and 0.2 mg of propylparaben as preservatives, 4.8 mg of sodium chloride as iso-osmotic agent, and sodium hydroxide and hydrochloric acid as pH adjusters in water for injection.
+The pH of the solution is between 3.0 and 4.5, with an osmolarity of 0.338 mOsm/mL (calc.).
