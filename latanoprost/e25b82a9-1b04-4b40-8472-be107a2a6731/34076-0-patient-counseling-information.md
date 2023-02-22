@@ -3,7 +3,7 @@
 Potential for Pigmentation
 
 Advise patients about the potential for increased brown pigmentation of the iris, which may be permanent.
-Inform patients about the possibility of eyelid skin darkening, which may be reversible after discontinuation of Latanoprost Ophthalmic Solution [seeWarnings and Precautions (5.1)].
+Inform patients about the possibility of eyelid skin darkening, which may be reversible after discontinuation of Latanoprost Ophthalmic Solution [see Warnings and Precautions (5.1)].
 
 Potential for Eyelash Changes
 
@@ -14,7 +14,7 @@ Eyelash changes are usually reversible upon discontinuation of treatment.
 Handling the Container
 
 Instruct patients to avoid allowing the tip of the dispensing container to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [seeWarnings and Precautions (5.6)].
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Warnings and Precautions (5.6)].
 
 When to Seek Physician Advice
 
@@ -28,7 +28,11 @@ Lenses may be reinserted 15 minutes following administration of Latanoprost Opht
 
 Use with Other Ophthalmic Drugs
 
-If more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+Advise patients that if more than one topical ophthalmic drug is being used, the drugs should be administered at least five (5) minutes apart.
+
+If a Dose is Missed
+
+Advise patients that if one dose is missed, treatment should continue with the next dose as normal.
 
 Made in India by:
 
@@ -38,9 +42,9 @@ Distributed by:
 
 Rising Pharmaceuticals, Inc.
 
-Saddle Brook, NJ 07663
+East Brunswick, NJ 08816
 
-Revised: 03/2020
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
@@ -91,8 +95,8 @@ FDC Limited
 
 Distributed by:
 
-Rising Pharmaceuticals, Inc
+Rising Pharmaceuticals, Inc.
 
-Saddle Brook, NJ 07663
+East Brunswick, NJ 08816
 
-Revised: 03/2020
+Revised: 02/2023
