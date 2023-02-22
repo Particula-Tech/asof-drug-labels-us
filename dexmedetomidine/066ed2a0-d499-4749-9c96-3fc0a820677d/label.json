@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021038"
+  ],
+  "inn": "dexmedetomidine",
+  "labeler": "Fareva Amboise",
+  "package_ndcs": [
+    "69271-046-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dexmedetomidine hydrochloride, sodium chloride",
+      "name": "Precedex Dexmedetomidine HCI Chloride"
+    }
+  ],
+  "setid": "066ed2a0-d499-4749-9c96-3fc0a820677d",
+  "source": "dailymed"
+}
