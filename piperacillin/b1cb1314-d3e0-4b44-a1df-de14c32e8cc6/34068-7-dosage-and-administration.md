@@ -1,17 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.2 Dosage in Adult Patients with Indications Other Than Nosocomial Pneumonia
+## 2.1 Dosage in Adult Patients with Indications Other Than Nosocomial Pneumonia
 
-The usual total daily dosage of piperacillin and tazobactam for injection for adult patients with indications other than nosocomial pneumonia is 3.375 g every six hours [totaling 13.5 g (12 g piperacillin/1.5 g tazobactam)], to be administered by intravenous infusion over 30 minutes.
+The usual total daily dosage of piperacillin and tazobactam for injection for adult patients with indications other than nosocomial pneumonia is 3.375 g every six hours [totaling 13.5 g (12 g piperacillin and 1.5 g tazobactam)], to be administered by intravenous infusion over 30 minutes.
 The usual duration of piperacillin and tazobactam for injection treatment is from 7 to 10 days.
 
-## 2.3 Dosage in Adult Patients with Nosocomial Pneumonia
+## 2.2 Dosage in Adult Patients with Nosocomial Pneumonia
 
-Initial presumptive treatment of adult patients with nosocomial pneumonia should start with piperacillin and tazobactam for injection at a dosage of 4.5 g every six hours plus an aminoglycoside, [totaling 18 g (16 g piperacillin/2 g tazobactam)], administered by intravenous infusion over 30 minutes.
+Initial presumptive treatment of adult patients with nosocomial pneumonia should start with piperacillin and tazobactam for injection at a dosage of 4.5 g every six hours plus an aminoglycoside, [totaling 18 g (16 g piperacillin and 2 g tazobactam)], administered by intravenous infusion over 30 minutes.
 The recommended duration of piperacillin and tazobactam for injection treatment for nosocomial pneumonia is 7 to 14 days.
 Treatment with the aminoglycoside should be continued in patients from whom P. aeruginosa is isolated.
 
-## 2.4 Dosage in Adult Patients with Renal Impairment
+## 2.3 Dosage in Adult Patients with Renal Impairment
 
 In adult patients with renal impairment (creatinine clearance ≤ 40 mL/min) and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced based on the degree of renal impairment.
 The recommended daily dosage of piperacillin and tazobactam for injection for patients with renal impairment administered by intravenous infusion over 30 minutes is described in Table 1.
@@ -36,7 +36,7 @@ For patients on hemodialysis, the maximum dose is 2.25 g every twelve hours for 
 Since hemodialysis removes 30% to 40% of the administered dose, an additional dose of 0.75 g piperacillin and tazobactam for injection (0.67 g piperacillin/0.08 g tazobactam) should be administered following each dialysis period on hemodialysis days.
 No additional dosage of piperacillin and tazobactam for injection is necessary for CAPD patients.
 
-## 2.5 Dosage in Pediatric Patients with Appendicitis/Peritonitis or Nosocomial Pneumonia
+## 2.4 Dosage in Pediatric Patients with Appendicitis/Peritonitis or Nosocomial Pneumonia
 
 The recommended dosage for pediatric patients with appendicitis and/or peritonitis or nosocomial pneumonia aged 2 months of age and older, weighing up to 40 kg, and with normal renal function, is described in Table 2[see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
@@ -44,16 +44,16 @@ Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pedi
 
 | Age | Appendicitis and /or Peritonitis | Nosocomial Pneumonia |
 | --- | --- | --- |
-| 2 months to 9 months | 90 mg/kg (80 mg piperacillin/10 mg tazobactam) every 8 (eight) hours | 90 mg/kg (80 mg piperacillin/10 mg tazobactam) every 6 (six) hours |
-| Older than 9 months of age | 112.5 mg/kg (100 mg piperacillin/12.5 mg tazobactam) every 8 (eight) hours | 112.5 mg/kg (100 mg piperacillin/12.5 mg tazobactam) every 6 (six) hours |
+| 2 months to 9 months | 90 mg/kg (80 mg piperacillin and 10 mg tazobactam) every 8 (eight) hours | 90 mg/kg (80 mg piperacillin and 10 mg tazobactam) every 6 (six) hours |
+| Older than 9 months of age | 112.5 mg/kg (100 mg piperacillin and 12.5 mg tazobactam) every 8 (eight) hours | 112.5 mg/kg (100 mg piperacillin and 12.5 mg tazobactam) every 6 (six) hours |
 
 * Administer piperacillin and tazobactam for injection by intravenous infusion over 30 minutes.
 
-Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose [see Dosage and Administration (2.2, 2.3)].
+Pediatric patients weighing over 40 kg and with normal renal function should receive the adult dose [see Dosage and Administration (2.1, 2.2)].
 
 Dosage of piperacillin and tazobactam for injection in pediatric patients with renal impairment has not been determined.
 
-## 2.6 Reconstitution and Dilution of Piperacillin and Tazobactam for Injection
+## 2.5 Reconstitution and Dilution of Piperacillin and Tazobactam for Injection
 
 Reconstitution of Piperacillin and Tazobactam for Injection for Adult Patients and Pediatric Patients Weighing Over 40 kg
 
@@ -113,18 +113,18 @@ Parenteral drug products should be inspected visually for particulate matter or 
 
 Dilution of the Reconstituted Piperacillin and Tazobactam Solution for Pediatric Patients Weighing up to 40 kg
 
-The volume of reconstituted solution required to deliver the dose of piperacillin and tazobactam is dependent on the weight of the child [see Dosage and Administration (2.5)].
+The volume of reconstituted solution required to deliver the dose of piperacillin and tazobactam is dependent on the weight of the child [see Dosage and Administration (2.4)].
 Reconstituted piperacillin and tazobactam solutions for bulk bottles should be further diluted in a compatible intravenous solution listed above.
 
-1. 1.Calculate patient dose as described in Table 2 above [see Dosage and Administration (2.5)].
+1. 1.Calculate patient dose as described in Table 2 above [see Dosage and Administration (2.4)].
 2. 2.Reconstitute bottle with a compatible reconstitution diluent, as listed above under the subheading “Compatible Reconstitution Diluents for Pharmacy Bulk Bottles,” using the appropriate volume of diluent, as listed in Table 4 below.
    Following the addition of the diluent, shake the pharmacy bulk bottle until the powder is completely dissolved.
 3. Table 4: Reconstitution of Pharmacy Bulk Bottle and Resulting Concentration
 
 | Strength per Pharmacy Bulk Bottle | Volume of Diluent to be Added to the Bottle | Concentration of the Reconstituted Product |
 | --- | --- | --- |
-| 13.5 g (12 g piperacillin/1.5 g tazobactam) | 51 mL | 225 mg/mL (200 mg/mL piperacillin/ 25 mg/mL tazobactam) |
-| 40.5 g (36 g piperacillin /4.5 g tazobactam) | 152 mL |  |
+| 13.5 g (12 g piperacillin and 1.5 g tazobactam) | 51 mL | 225 mg/mL (200 mg/mL piperacillin and 25 mg/mL tazobactam) |
+| 40.5 g (36 g piperacillin and 4.5 g tazobactam) | 152 mL |  |
 
 1. 3.Calculate the required volume (mL) of reconstituted piperacillin and tazobactam solution based on the required dose.
 2. 4.Aseptically withdraw the required volume of reconstituted piperacillin and tazobactam solution from pharmacy bulk bottle.
@@ -151,7 +151,7 @@ One-day supply of dosing solution were aseptically transferred into the medicati
 The reservoir was fitted to a preprogrammed ambulatory intravenous infusion pump per the manufacturer's instructions.
 Stability of piperacillin and tazobactam for injection is not affected when administered using an ambulatory intravenous infusion pump.
 
-## 2.8 Compatibility with Aminoglycosides
+## 2.6 Compatibility with Aminoglycosides
 
 Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration.
 Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated [see Drug Interactions (7.1)].

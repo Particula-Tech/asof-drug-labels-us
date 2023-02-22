@@ -64,8 +64,8 @@ Nosocomial Pneumonia Trials
 
 Two trials of nosocomial lower respiratory tract infections were conducted.
 In one study, 222 patients were treated with piperacillin and tazobactam for injection in a dosing regimen of 4.5 g every 6 hours in combination with an aminoglycoside and 215 patients were treated with imipenem/cilastatin (500 mg/500 mg every 6 hours) in combination with an aminoglycoside.
-In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin/tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
-Twenty-five (11%) patients in the piperacillin/tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
+In this trial, treatment-emergent adverse events were reported by 402 patients, 204 (91.9%) in the piperacillin and tazobactam group and 198 (92.1%) in the imipenem/cilastatin group.
+Twenty-five (11%) patients in the piperacillin and tazobactam group and 14 (6.5%) in the imipenem/cilastatin group (p > 0.05) discontinued treatment due to an adverse event.
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
@@ -119,7 +119,7 @@ Table 7: Adverse Reactions from Piperacillin and Tazobactam Injection plus Amino
 
 Other Trials: Nephrotoxicity
 
-In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin/tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1[see Warnings and Precautions (5.6)].
+In a randomized, multicenter, controlled trial in 1200 adult critically ill patients, piperacillin and tazobactam was found to be a risk factor for renal failure (odds ratio 1.7, 95% CI 1.18 to 2.43), and associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs1[see Warnings and Precautions (5.6)].
 
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
@@ -147,7 +147,7 @@ Six patients (2.2%) in the piperacillin and tazobactam group and 5 patients (1.9
 In a retrospective, cohort study, 140 pediatric patients 2 months to less than 18 years of age with nosocomial pneumonia were treated with piperacillin and tazobactam and 267 patients were treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin).
 The rates of serious adverse reactions were generally similar between the piperacillin and tazobactam and comparator groups, including patients aged 2 months to 9 months treated with piperacillin and tazobactam 90 mg/kg IV every 6 hours and patients older than 9 months and less than 18 years of age treated with piperacillin and tazobactam 112.5 mg/kg IV every 6 hours.
 
-## 6.2 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 In addition to the adverse drug reactions identified in clinical trials in Table 6 and Table 7, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -168,7 +168,7 @@ Respiratory - eosinophilic pneumonia
 
 Skin and Appendages - erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms, (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative
 
-Post-marketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.
+Postmarketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.
 
 ## 6.3 Additional Experience with Piperacillin
 

@@ -31,5 +31,3 @@ Manufactured by Sandoz GmbH for
 Sandoz Inc., Princeton, NJ 08540
 
 CLINITEST® is a registered trademark of Siemens Healthcare Diagnostics Inc.
-
-46304941

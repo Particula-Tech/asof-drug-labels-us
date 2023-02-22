@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Piperacillin and tazobactam for injection, USP is an injectable antibacterial combination products consisting of the semisynthetic antibacterial piperacillin sodium and the beta-lactamase inhibitor tazobactam sodium for intravenous administration.
+Piperacillin and tazobactam for injection, USP is an injectable antibacterial combination product consisting of the semisynthetic antibacterial piperacillin sodium and the beta-lactamase inhibitor tazobactam sodium for intravenous administration.
 
 Piperacillin sodium is derived from D(-)-α-aminobenzyl-penicillin.
 The chemical name of piperacillin sodium is sodium (2S,5R,6R)-6-[(R)-2-(4-ethyl-2,3-dioxo-1-piperazine‑carboxamido)-2-phenylacetamido]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2‑carboxylate.
