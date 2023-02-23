@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA205574"
+  ],
+  "inn": "bendamustine",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-571-41",
+    "68001-572-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "bendamustine hydrochloride"
+    }
+  ],
+  "setid": "0df025d2-c093-427a-b599-f605e71fe835",
+  "source": "dailymed"
+}
