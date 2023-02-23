@@ -6,8 +6,8 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
 - •Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
 - •Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
-- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- •Patients with Depression [see Warnings and Precautions (5.7)]
+- •Patients with Depression [see Warnings and Precautions (5.6)]
+- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 - •Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
@@ -49,7 +49,7 @@ Table 2: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and
 | Memory Impairment | 33% | 22% |
 | Cognitive Disorder | 29% | 21% |
 | Decreased Libido | 14% | 8% |
-| Dysartharia | 23% | 6% |
+| Dysarthria | 23% | 6% |
 | Confusional state | 10% | 8% |
 | Increased libido | 8% | 4% |
 | Change in libido (not specified) | 7% | 6% |

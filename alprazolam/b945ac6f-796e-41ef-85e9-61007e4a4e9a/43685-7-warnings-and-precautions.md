@@ -40,7 +40,7 @@ In some cases, benzodiazepine users have developed a protracted withdrawal syndr
 
 Certain adverse clinical events, some life-threatening, are a direct consequence of physical dependence to alprazolam.
 These include a spectrum of withdrawal symptoms; the most important is seizure [see Drug Abuse and Dependence (9.3)].
-Even after relatively short-term use at doses of < 4 mg/day, there is some risk of dependence.
+Even after relatively short-term use at doses of ≤ 4 mg/day, there is some risk of dependence.
 Spontaneous reporting system data suggest that the risk of dependence and its severity appear to be greater in patients treated with doses greater than 4 mg/day and for long periods (more than 12 weeks).
 However, in a controlled postmarketing discontinuation study of panic disorder patients who received alprazolam, the duration of treatment (3 months compared to 6 months) had no effect on the ability of patients to taper to zero dose.
 In contrast, patients treated with doses of alprazolam greater than 4 mg/day had more difficulty tapering to zero dose than those treated with less than 4 mg/day.
@@ -59,12 +59,7 @@ In either case, it is presumed that the prescribed dose is not sufficient to mai
 Because of its CNS depressant effects, patients receiving alprazolam should be cautioned against engaging in hazardous occupations or activities requiring complete mental alertness such as operating machinery or driving a motor vehicle.
 For the same reason, patients should be cautioned about the concomitant use of alcohol and other CNS depressant drugs during treatment with alprazolam [see Drug Interactions (7.1)].
 
-## 5.5 Neonatal Sedation and Withdrawal Syndrome
-
-Use of alprazolam during later stages of pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate.
-Observe newborns for signs of sedation and neonatal withdrawal syndrome and manage accordingly [see Use in Specific Populations (8.1)].
-
-## 5.6 Interaction with Drugs that Inhibit Metabolism via Cytochrome P450 3A
+## 5.5 Interaction with Drugs that Inhibit Metabolism via Cytochrome P450 3A
 
 The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
 Drugs that inhibit this metabolic pathway may have a profound effect on the clearance of alprazolam.
@@ -79,15 +74,20 @@ Dosage adjustment is necessary when alprazolam and ritonavir are initiated conco
 Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies involving alprazolam: nefazodone, fluvoxamine, and cimetidine [see Drug Interaction (7.1), Clinical Pharmacology (12.3)].
 Use caution and consider dose reduction of alprazolam, as appropriate, during co-administration with these drugs.
 
-## 5.7 Patients with Depression
+## 5.6 Patients with Depression
 
 Benzodiazepines may worsen depression.
 Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients.
 Consequently, appropriate precautions (e.g., limiting the total prescription size and increased monitoring for suicidal ideation) should be considered in patients with depression.
 
-## 5.8 Mania
+## 5.7 Mania
 
 Episodes of hypomania and mania have been reported in association with the use of alprazolam in patients with depression [see Adverse Reactions (6.2)].
+
+## 5.8 Neonatal Sedation and Withdrawal Syndrome
+
+Use of alprazolam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
+Monitor neonates exposed to alprazolam during pregnancy or labor for signs of sedation and monitor neonates exposed to alprazolam during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## 5.9 Risk in Patients with Impaired Respiratory Function
 

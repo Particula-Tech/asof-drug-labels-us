@@ -5,7 +5,7 @@
 Alprazolam was compared to placebo in double-blind clinical studies (doses up to 4 mg per day) in patients with a diagnosis of anxiety or anxiety with associated depressive symptomatology.
 Alprazolam was significantly better than placebo at each of the evaluation periods of these 4-week studies as judged by the following psychometric instruments: Physician’s Global Impressions, Hamilton Anxiety Rating Scale, Target Symptoms, Patient’s Global Impressions, and Self-Rating Symptom Scale.
 
-## 14.2 Panic Disorder
+## 14.2 Panic Disorders
 
 The effectiveness of alprazolam in the treatment of panic disorder was studied in 3 short-term, placebo-controlled studies (up to 10 weeks) in patients with diagnoses closely corresponding to DSM-III-R criteria for panic disorder.
 

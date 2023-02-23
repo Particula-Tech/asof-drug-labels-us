@@ -33,19 +33,15 @@ Advise patients to inform their healthcare provider of all medicines they take, 
 
 Pregnancy
 
-Benzodiazepines cross the placenta and may produce respiratory depression and sedation in neonates.
-Advise mothers using alprazolam to monitor neonates for signs of sedation, respiratory depression, withdrawal symptoms, and feeding problems.
-Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant during treatment with alprazolam [see Warnings and Precautions (5.4)].
+Advise pregnant females that use of alprazolam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8), Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant.
+
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to alprazolam during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with alprazolam [see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding is not recommended during treatment with alprazolam [see Use in Specific Populations (8.2)].
 
-Distributed by:
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Hikma Pharmaceuticals USA Inc.
-
-Berkeley Heights, NJ 07922
-
-C50000247/01 Revised: May 2021
+C50000247/02 Revised: January 2023
