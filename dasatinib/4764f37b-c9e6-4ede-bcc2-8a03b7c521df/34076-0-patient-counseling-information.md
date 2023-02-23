@@ -68,6 +68,11 @@ Advise patients to seek medical attention if this symptom is bothersome or persi
 
 Inform patients that SPRYCEL contains 135 mg of lactose monohydrate in a 100-mg daily dose and 189 mg of lactose monohydrate in a 140-mg daily dose.
 
+### Hepatotoxicity
+
+Advise patients that SPRYCEL can cause hepatotoxicity and that patients with previous history of liver diseases may be at risk.
+Advise patients to seek immediate medical attention if any symptoms suggestive of hepatotoxicity occur, such as abdominal pain, jaundice and scleral icterus, anorexia, bleeding, bruising, and dark-colored urine [see Warnings and Precautions (5.11)].
+
 ### Instructions for Taking SPRYCEL
 
 - •Missed Dose

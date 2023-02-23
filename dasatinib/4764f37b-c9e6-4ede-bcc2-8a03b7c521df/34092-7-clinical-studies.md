@@ -90,14 +90,14 @@ Table 17: Efficacy of SPRYCEL in Adult Patients with Imatinib-Resistant or -Into
 
 Table 18: Long-Term MMR of SPRYCEL in the Dose Optimization Trial: Adult Patients with Imatinib-Resistant or -Intolerant Chronic Phase CMLa
 
-|  | 2 Years | 5 Years | 7 Years |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Minimum Follow-up Period |  |  |  |  |
-| Major Molecular Responseb % (n/N) |  |  |  |  |  |
-| All Patients Randomized | 34% (57/167) | 43% (71/167) | 44% (73/167) |  |  |
-| Imatinib-Resistant Patients | 33% (41/124) | 40% (50/124) | 41% (51/124) |  |  |
-| Imatinib-Intolerant Patients | 37% (16/43) | 49% (21/43) | 51% (22/43) |  |  |
-| a Results reported in recommended starting dose of 100 mg once daily. b Major molecular response criteria: Defined as BCR-ABL/control transcripts ≤0.1% by RQ-PCR in peripheral blood samples. |  |  |  |  |  |
+|  | 2 Years | 5 Years | 7 Years |
+| --- | --- | --- | --- |
+|  | Minimum Follow-up Period |  |  |
+| Major Molecular Responseb % (n/N) |  |  |  |
+| All Patients Randomized | 34% (57/167) | 43% (71/167) | 44% (73/167) |
+| Imatinib-Resistant Patients | 33% (41/124) | 40% (50/124) | 41% (51/124) |
+| Imatinib-Intolerant Patients | 37% (16/43) | 49% (21/43) | 51% (22/43) |
+| a Results reported in recommended starting dose of 100 mg once daily. b Major molecular response criteria: Defined as BCR-ABL/control transcripts ≤0.1% by RQ-PCR in peripheral blood samples. |  |  |  |
 
 Based on data 7 years after the last patient was enrolled in the trial, 44% were known to be alive, 31% were known to have died, and 25% had an unknown survival status.
 

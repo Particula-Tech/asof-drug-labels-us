@@ -16,7 +16,7 @@ Myelosuppression is generally reversible and usually managed by withholding SPRY
 
 SPRYCEL can cause serious and fatal bleeding.
 In all CML or Ph+ ALL clinical studies, Grade ≥3 central nervous system (CNS) hemorrhages, including fatalities, occurred in <1% of patients receiving SPRYCEL.
-The incidence of Grade 3/4 hemorrhage, occurred in 5.8% of adult patients and generally required treatment interruptions and transfusions.
+The incidence of Grade 3/4 hemorrhage occurred in 5.8% of adult patients and generally required treatment interruptions and transfusions.
 The incidence of Grade 5 hemorrhage occurred in 0.4% of adult patients.
 The most frequent site of hemorrhage was gastrointestinal [see Adverse Reactions (6.1)].
 Most bleeding events in clinical studies were associated with severe thrombocytopenia.
@@ -81,3 +81,11 @@ These 5 cases included cases of epiphyses delayed fusion, osteopenia, growth ret
 Of these 5 cases, 1 case of osteopenia and 1 case of gynecomastia resolved during treatment.
 
 Monitor bone growth and development in pediatric patients.
+
+## 5.11 Hepatotoxicity
+
+SPRYCEL may cause hepatotoxicity as measured by elevations in bilirubin, aspartate aminotransferase (AST), alanine aminotransferase (ALT), and alkaline phosphatase [see Adverse Reactions (6.1)].
+Monitor transaminases at baseline and monthly or as clinically indicated during treatment.
+Reduce dose, withhold, or permanently discontinue SPRYCEL based on severity [see Dosage and Administration (2.5)].
+When SPRYCEL is administered in combination with chemotherapy, liver toxicity in the form of transaminase elevation and hyperbilirubinemia has been observed.
+Monitor hepatic function when SPRYCEL is used in combination with chemotherapy.

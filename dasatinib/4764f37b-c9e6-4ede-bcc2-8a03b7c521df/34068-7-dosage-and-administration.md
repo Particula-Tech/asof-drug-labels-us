@@ -39,9 +39,11 @@ Strong CYP3A4 Inhibitors Avoid the use of concomitant strong CYP3A4 inhibitors a
 Recommend selecting an alternate concomitant medication with no or minimal enzyme inhibition potential, if possible.
 If SPRYCEL must be administered with a strong CYP3A4 inhibitor, consider a dose decrease to:
 
-1. • 40 mg daily for patients taking SPRYCEL 140 mg daily.
-2. • 20 mg daily for patients taking SPRYCEL 100 mg daily.
-3. • 20 mg daily for patients taking SPRYCEL 70 mg daily.
+• 40 mg daily for patients taking SPRYCEL 140 mg daily.
+
+• 20 mg daily for patients taking SPRYCEL 100 mg daily.
+
+• 20 mg daily for patients taking SPRYCEL 70 mg daily.
 
 For patients taking SPRYCEL 60 mg or 40 mg daily, consider interrupting SPRYCEL until the inhibitor is discontinued.
 Allow a washout period of approximately 1 week after the inhibitor is stopped before reinitiating SPRYCEL.
@@ -85,14 +87,14 @@ Table 3: Dose Adjustments for Neutropenia and Thrombocytopenia in Adults
 
 Table 4: Dose Adjustments for Neutropenia and Thrombocytopenia in Pediatric Patients with Ph+ CML
 
-|  |  | Dose (maximum dose per day) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1. If cytopenia persists for more than 3 weeks, check if cytopenia is related to leukemia (marrow aspirate or biopsy).2. If cytopenia is unrelated to leukemia, stop SPRYCEL until ANC* ≥1.0 × 109/L and platelets ≥75 × 109/L and resume at the original starting dose or at a reduced dose.3. If cytopenia recurs, repeat marrow aspirate/biopsy and resume SPRYCEL at a reduced dose. |  | Original Starting Dose | One-Level Dose Reduction | Two-Level Dose Reduction |  |  |  |
-| Tablets | 40 mg | 20 mg | ** |  |  |  |  |
-|  | 60 mg | 40 mg | 20 mg |  |  |  |  |
-|  | 70 mg | 60 mg | 50 mg |  |  |  |  |
-|  | 100 mg | 80 mg | 70 mg |  |  |  |  |
-| *ANC: absolute neutrophil count ** lower tablet dose not available |  |  |  |  |  |  |  |
+|  |  | Dose (maximum dose per day) |  |  |
+| --- | --- | --- | --- | --- |
+| 1. If cytopenia persists for more than 3 weeks, check if cytopenia is related to leukemia (marrow aspirate or biopsy).2. If cytopenia is unrelated to leukemia, stop SPRYCEL until ANC* ≥1.0 × 109/L and platelets ≥75 × 109/L and resume at the original starting dose or at a reduced dose.3. If cytopenia recurs, repeat marrow aspirate/biopsy and resume SPRYCEL at a reduced dose. |  | Original Starting Dose | One-Level Dose Reduction | Two-Level Dose Reduction |
+| Tablets | 40 mg | 20 mg | ** |  |
+|  | 60 mg | 40 mg | 20 mg |  |
+|  | 70 mg | 60 mg | 50 mg |  |
+|  | 100 mg | 80 mg | 70 mg |  |
+| *ANC: absolute neutrophil count ** lower tablet dose not available |  |  |  |  |
 
 For pediatric patients with chronic phase CML, if Grade ≥ 3 neutropenia or thrombocytopenia recurs during complete hematologic response (CHR), interrupt SPRYCEL and resume at a reduced dose.
 Implement temporary dose reductions for intermediate degrees of cytopenia and disease response as needed.
@@ -104,8 +106,8 @@ If marrow cellularity is >10%, resumption of treatment with SPRYCEL may be consi
 
 ### Non-Hematologic Adverse Reactions
 
-For adults with Ph+ CML and ALL, and pediatric patients with Ph+ CML, if a severe non-hematologic adverse reaction develops with SPRYCEL use, treatment must be withheld until the event has resolved or improved.
-Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the severity and recurrence of the event [see Warnings and Precautions (5.1)].
+For adults with Ph+ CML and ALL, and pediatric patients with Ph+ CML, if a severe non-hematologic adverse reaction develops with SPRYCEL use, treatment must be withheld until the adverse reaction has resolved or improved.
+Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the severity and recurrence [see Warnings and Precautions (5)].
 
 For pediatric patients with Ph+ ALL, interrupt treatment for cases of grade ≥ 3 non-hematologic adverse reactions with the exception of liver function test abnormalities, and resume at a reduced dose when resolved to grade ≤1.
 For elevated direct bilirubin over 5 times the institutional upper limit of normal (ULN), interrupt treatment until improvement to baseline or grade ≤1.
@@ -117,7 +119,7 @@ Table 5: Dose Adjustments for Non-Hematologic Toxicities in Pediatric Patients
 
 |  |  | Dose (maximum dose per day) |  |  |
 | --- | --- | --- | --- | --- |
-| 1. If a non-hematologic toxicity grade 2 occurs, consider interrupting SPRYCEL if no recovery despite symptomatic therapy; once recovered to grade ≤1, resume at the original starting dose. Resume SPRYCEL at a reduced dose for recurrent events.2. If a non-hematologic toxicity grade 3 occurs, stop SPRYCEL until recovery to grade ≤1 and then resume at a reduced dose.3. If direct bilirubin is >5 ULN or AST/ALT >15 ULN, interrupt SPRYCEL until recovery to grade ≤1 and then resume SPRYCEL at the original starting dose. Resume SPRYCEL at a reduced dose for recurrent events. |  | Original Starting Dose | One-Level Dose Reduction | Two-Level Dose Reduction |
+| 1. If a non-hematologic toxicity grade 2 occurs, consider interrupting SPRYCEL if no recovery despite symptomatic therapy; once recovered to grade ≤1, resume at the original starting dose. Resume SPRYCEL at a reduced dose for recurrent events.2. If a non-hematologic toxicity grade 3 occurs, stop SPRYCEL until recovery to grade ≤1 and then resume at a reduced dose.3. If direct bilirubin is >5 ULN or AST/ALT >15 ULN, interrupt SPRYCEL until recovery to grade ≤1 and then resume SPRYCEL at the original starting dose. Resume SPRYCEL at a reduced dose for recurrent hepatotoxicity. |  | Original Starting Dose | One-Level Dose Reduction | Two-Level Dose Reduction |
 | Tablets | 40 mg | 20 mg | ** |  |
 |  | 60 mg | 40 mg | 20 mg |  |
 |  | 70 mg | 60 mg | 50 mg |  |
