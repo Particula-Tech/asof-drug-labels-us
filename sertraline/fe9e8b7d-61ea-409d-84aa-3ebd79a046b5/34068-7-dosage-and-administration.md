@@ -13,12 +13,12 @@ Table 1: Recommended Daily Dosage of ZOLOFT in Patients with MDD, OCD, PD, PTSD,
 | Indication | Starting Dose | Therapeutic Range |
 | --- | --- | --- |
 | Adults |  |  |
-| MDD | 50 mg | 50–200 mg |
+| MDD | 50 mg | 50-200 mg |
 | OCD | 50 mg |  |
 | PD, PTSD, SAD | 25 mg |  |
 | Pediatric Patients |  |  |
-| OCD (ages 6–12 years old) | 25 mg | 50–200 mg |
-| OCD (ages 13–17 years old) | 50 mg |  |
+| OCD (ages 6-12 years old) | 25 mg | 50-200 mg |
+| OCD (ages 13-17 years old) | 50 mg |  |
 
 ## 2.2 Dosage in Patients with PMDD
 
@@ -26,8 +26,8 @@ The recommended starting ZOLOFT dosage in adult women with PMDD is 50 mg per day
 ZOLOFT may be administered either continuously (every day throughout the menstrual cycle) or intermittently (only during the luteal phase of the menstrual cycle, i.e., starting the daily dosage 14 days prior to the anticipated onset of menstruation and continuing through the onset of menses).
 Intermittent dosing would be repeated with each new cycle.
 
-- When dosing continuously, patients not responding to a 50 mg dosage may benefit from dosage increases at 50 mg increments per menstrual cycle up to 150 mg per day.
-- When dosing intermittently, patients not responding to a 50 mg dosage may benefit from increasing the dosage up to a maximum of 100 mg per day during the next menstrual cycle (and subsequent cycles) as follows: 50 mg per day during the first 3 days of dosing followed by 100 mg per day during the remaining days in the dosing cycle.
+- •When dosing continuously, patients not responding to a 50 mg dosage may benefit from dosage increases at 50 mg increments per menstrual cycle up to 150 mg per day.
+- •When dosing intermittently, patients not responding to a 50 mg dosage may benefit from increasing the dosage up to a maximum of 100 mg per day during the next menstrual cycle (and subsequent cycles) as follows: 50 mg per day during the first 3 days of dosing followed by 100 mg per day during the remaining days in the dosing cycle.
 
 ## 2.3 Screen for Bipolar Disorder Prior to Starting ZOLOFT
 
@@ -36,7 +36,7 @@ Prior to initiating treatment with ZOLOFT or another antidepressant, screen pati
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
 Both the recommended starting dosage and therapeutic range in patients with mild hepatic impairment (Child Pugh scores 5 or 6) are half the recommended daily dosage [See Dosage and Administration (2.1, 2.2)].
-The use of ZOLOFT in patients with moderate (Child Pugh scores 7 to 9) or severe hepatic impairment (Child Pugh scores 10–15) is not recommended [See Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+The use of ZOLOFT in patients with moderate (Child Pugh scores 7 to 9) or severe hepatic impairment (Child Pugh scores 10-15) is not recommended [See Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor Antidepressant
 
@@ -52,9 +52,9 @@ Gradually reduce the dosage rather than stopping ZOLOFT abruptly whenever possib
 
 ZOLOFT oral solution must be diluted before use.
 
-- Use the supplied calibrated dropper to measure the amount of ZOLOFT oral solution needed
-- Note: The supplied calibrated dropper has 25 mg and 50 mg graduation marks only
-- Mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
+- •Use the supplied calibrated dropper to measure the amount of ZOLOFT oral solution needed
+- •Note: The supplied calibrated dropper has 25 mg and 50 mg graduation marks only
+- •Mix with 4 ounces (1/2 cup) of water, ginger ale, lemon/lime soda, lemonade or orange juice ONLY.
   After mixing, a slight haze may appear, which is normal.
 
 Instruct patients or caregivers to immediately take the dose after mixing.

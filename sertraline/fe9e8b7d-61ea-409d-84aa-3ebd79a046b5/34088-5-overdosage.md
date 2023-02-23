@@ -2,10 +2,10 @@
 
 The following have been reported with sertraline tablet overdosage:
 
-- Seizures, which may be delayed, and altered mental status including coma.
-- Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation.
+- •Seizures, which may be delayed, and altered mental status including coma.
+- •Cardiovascular toxicity, which may be delayed, including QRS and QTc interval prolongation.
   Hypertension most commonly seen, but rarely can see hypotension alone or with co-ingestants including alcohol.
-- Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
+- •Serotonin syndrome (patients with a multiple drug overdosage with other proserotonergic drugs may have a higher risk).
 
 Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a sertraline overdose.
 Consider contacting a Poison Center (1-800-221-2222) or a medical toxicologist for additional overdosage management recommendations.

@@ -14,9 +14,9 @@ Table 2: Risk Differences of the Number of Cases of Suicidal Thoughts or Behavio
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional patients |
-| 18–24 | 5 additional patients |
+| 18-24 | 5 additional patients |
 |  | Decreases Compared to Placebo |
-| 25–64 | 1 fewer patient |
+| 25-64 | 1 fewer patient |
 | ≥65 | 6 fewer patients |
 
 It is unknown whether the risk of suicidal thoughts and behaviors in pediatric and young adult patients extends to longer-term use, i.e., beyond four months.
@@ -29,7 +29,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing ZOLO
 ## 5.2 Serotonin Syndrome
 
 Serotonin-norepinephrine reuptake inhibitors (SNRIs) and selective serotonin reuptake inhibitors (SSRIs), including ZOLOFT, can precipitate serotonin syndrome, a potentially life-threatening condition.
-The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John's Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [See Contraindications (4), Drug Interactions (7.1)].
+The risk is increased with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., MAOIs [See Contraindications (4), Drug Interactions (7.1)].
 Serotonin syndrome can also occur when these drugs are used alone.
 
 Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).

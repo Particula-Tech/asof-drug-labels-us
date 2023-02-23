@@ -28,7 +28,7 @@ Zoloft ® (sertraline hydrochloride) tablets
 
 # PRINCIPAL DISPLAY PANEL - 50 mg Tablet Blister Pack
 
-Zoloft® (sertraline HCl) Tablet
+1. Zoloft® (sertraline HCl) Tablet
 
 50 mg
 
@@ -72,7 +72,7 @@ Zoloft ® (sertraline hydrochloride) tablets
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Blister Pack
 
-Zoloft® (sertraline HCl) Tablet
+1. Zoloft® (sertraline HCl) Tablet
 
 100 mg
 
@@ -92,17 +92,27 @@ NDC 0049-4910-41
 
 Pfizer
 
-Zoloft ® (sertraline hydrochloride) tablets
+Zoloft®
 
-100 mg *
+(sertraline hydrochloride)
+
+tablets
+
+100 mg*
 
 For in-institution use only
 
-100 Tablets Rx only
+100 Tablets
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 60 mL Bottle Label
 
-Pfizer ALWAYS DISPENSE WITH MEDICATION GUIDE NDC 0049-0050-01
+Pfizer
+
+ALWAYS DISPENSE WITH MEDICATION GUIDE
+
+NDC 0049-0050-01
 
 Zoloft® (sertraline hydrochloride) oral solution equivalent to 20 mg/mL* of sertraline
 

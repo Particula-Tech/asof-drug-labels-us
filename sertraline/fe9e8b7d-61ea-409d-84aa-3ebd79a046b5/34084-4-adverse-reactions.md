@@ -2,18 +2,18 @@
 
 The following adverse reactions are described in more detail in other sections of the prescribing information:
 
-- Hypersensitivity reactions to sertraline [See Contraindications (4)]
-- Disulfiram-alcohol reaction when ZOLOFT oral solution is taken with disulfiram [See Contraindications (4)]
-- QTc prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4), Clinical Pharmacology (12.2)]
-- Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
-- Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
-- Increased risk of bleeding [See Warnings and Precautions (5.3)]
-- Activation of mania/hypomania [See Warnings and Precautions (5.4)]
-- Discontinuation syndrome [See Warnings and Precautions (5.5)]
-- Seizures [See Warnings and Precautions (5.6)]
-- Angle-closure glaucoma [See Warnings and Precautions (5.7)]
-- Hyponatremia [See Warnings and Precautions (5.8)]
-- Sexual Dysfunction [See Warnings and Precautions (5.11)]
+- •Hypersensitivity reactions to sertraline [See Contraindications (4)]
+- •Disulfiram-alcohol reaction when ZOLOFT oral solution is taken with disulfiram [See Contraindications (4)]
+- •QTc prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4), Clinical Pharmacology (12.2)]
+- •Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
+- •Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
+- •Increased risk of bleeding [See Warnings and Precautions (5.3)]
+- •Activation of mania/hypomania [See Warnings and Precautions (5.4)]
+- •Discontinuation syndrome [See Warnings and Precautions (5.5)]
+- •Seizures [See Warnings and Precautions (5.6)]
+- •Angle-closure glaucoma [See Warnings and Precautions (5.7)]
+- •Hyponatremia [See Warnings and Precautions (5.8)]
+- •Sexual Dysfunction [See Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -26,24 +26,24 @@ The mean age was 40 years; 57% were females and 43% were males.
 The most common adverse reactions (≥5% and twice placebo) in all pooled placebo-controlled clinical trials of all ZOLOFT-treated patients with MDD, OCD, PD, PTSD, SAD and PMDD were nausea, diarrhea/loose stool, tremor, dyspepsia, decreased appetite, hyperhidrosis, ejaculation failure, and decreased libido (see Table 3).
 The following are the most common adverse reactions in trials of ZOLOFT (≥5% and twice placebo) by indication that were not mentioned previously.
 
-- MDD: somnolence;
-- OCD: insomnia, agitation;
-- PD: constipation, agitation;
-- PTSD: fatigue;
-- PMDD: somnolence, dry mouth, dizziness, fatigue, and abdominal pain;
-- SAD: insomnia, dizziness, fatigue, dry mouth, malaise.
+- •MDD: somnolence;
+- •OCD: insomnia, agitation;
+- •PD: constipation, agitation;
+- •PTSD: fatigue;
+- •PMDD: somnolence, dry mouth, dizziness, fatigue, and abdominal pain;
+- •SAD: insomnia, dizziness, fatigue, dry mouth, malaise.
 
 Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDDAdverse reactions that occurred greater than 2% in ZOLOFT-treated patients and at least 2% greater in ZOLOFT-treated patients than placebo-treated patients.
 
-|  | ZOLOFT (N=3066) | Placebo (N=2293) |
+|  | ZOLOFT(N=3066) | Placebo(N=2293) |
 | --- | --- | --- |
 | Cardiac disorders |  |  |
 | Palpitations | 4% | 2% |
 | Eye disorders |  |  |
 | Visual impairment | 4% | 2% |
-| Gastrointestinal Disorders |  |  |
+| Gastrointestinal disorders |  |  |
 | Nausea | 26% | 12% |
-| Diarrhea/Loose Stools | 20% | 10% |
+| Diarrhea/Loose stools | 20% | 10% |
 | Dry mouth | 14% | 9% |
 | Dyspepsia | 8% | 4% |
 | Constipation | 6% | 4% |
@@ -59,9 +59,9 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Psychiatric Disorders |  |  |
 | Insomnia | 20% | 13% |
 | Agitation | 8% | 5% |
-| Libido Decreased | 6% | 2% |
+| Libido decreased | 6% | 2% |
 | Reproductive system and breast disorders |  |  |
-| Ejaculation failure Denominator used was for male patients only (n=1316 ZOLOFT; n=973 placebo). | 8% | 1% |
+| Ejaculation failureDenominator used was for male patients only (n=1316 ZOLOFT; n=973 placebo). | 8% | 1% |
 | Erectile dysfunction | 4% | 1% |
 | Ejaculation disorder | 3% | 0% |
 | Male sexual dysfunction | 2% | 0% |
@@ -73,10 +73,10 @@ Adverse Reactions Leading to Discontinuation in Placebo-Controlled Clinical Tria
 In all placebo-controlled studies in patients with MDD, OCD, PD, PTSD, SAD and PMDD, 368 (12%) of the 3066 patients who received ZOLOFT discontinued treatment due to an adverse reaction, compared with 93 (4%) of the 2293 placebo-treated patients.
 In placebo-controlled studies, the following were the common adverse reactions leading to discontinuation in ZOLOFT-treated patients:
 
-- MDD, OCD, PD, PTSD, SAD and PMDD: nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).
-- MDD (>2% and twice placebo): decreased appetite, dizziness, fatigue, headache, somnolence, tremor, and vomiting.
-- OCD: somnolence.
-- PD: nervousness and somnolence.
+- •MDD, OCD, PD, PTSD, SAD and PMDD: nausea (3%), diarrhea (2%), agitation (2%), and insomnia (2%).
+- •MDD (>2% and twice placebo): decreased appetite, dizziness, fatigue, headache, somnolence, tremor, and vomiting.
+- •OCD: somnolence.
+- •PD: nervousness and somnolence.
 
 Male and Female Sexual Dysfunction
 
@@ -110,41 +110,71 @@ Other Adverse Reactions Observed During the Premarketing Evaluation of ZOLOFT
 
 Other infrequent adverse reactions, not described elsewhere in the prescribing information, occurring at an incidence of < 2% in patients treated with ZOLOFT were:
 
-- Cardiac disorders – tachycardia
-- Ear and labyrinth disorders – tinnitus
-- Endocrine disorders - hypothyroidism
-- Eye disorders - mydriasis, blurred vision
-- Gastrointestinal disorders - hematochezia, melena, rectal hemorrhage
-- General disorders and administration site conditions - edema, gait disturbance, irritability, pyrexia
-- Hepatobiliary disorders - elevated liver enzymes
-- Immune system disorders - anaphylaxis
-- Metabolism and nutrition disorders - diabetes mellitus, hypercholesterolemia, hypoglycemia, increased appetite
-- Musculoskeletal and connective tissue disorders - arthralgia, muscle spasms, tightness, or twitching
-- Nervous system disorders - ataxia, coma, convulsion, decreased alertness, hypoesthesia, lethargy, psychomotor hyperactivity, syncope
-- Psychiatric disorders - aggression, bruxism, confusional state, euphoric mood, hallucination
-- Renal and urinary disorders - hematuria
-- Reproductive system and breast disorders - galactorrhea, priapism, vaginal hemorrhage
-- Respiratory, thoracic and mediastinal disorders - bronchospasm, epistaxis, yawning
-- Skin and subcutaneous tissue disorders - alopecia; cold sweat; dermatitis; dermatitis bullous; pruritus; purpura; erythematous, follicular, or maculopapular rash; urticaria
-- Vascular disorders - hemorrhage, hypertension, vasodilation
+Cardiac disorders - tachycardia
+
+Ear and labyrinth disorders - tinnitus
+
+Endocrine disorders - hypothyroidism
+
+Eye disorders - mydriasis, blurred vision
+
+Gastrointestinal disorders - hematochezia, melena, rectal hemorrhage
+
+General disorders and administration site conditions - edema, gait disturbance, irritability, pyrexia
+
+Hepatobiliary disorders - elevated liver enzymes
+
+Immune system disorders - anaphylaxis
+
+Metabolism and nutrition disorders - diabetes mellitus, hypercholesterolemia, hypoglycemia, increased appetite
+
+Musculoskeletal and connective tissue disorders - arthralgia, muscle spasms, tightness, or twitching
+
+Nervous system disorders - ataxia, coma, convulsion, decreased alertness, hypoesthesia, lethargy, psychomotor hyperactivity, syncope
+
+Psychiatric disorders - aggression, bruxism, confusional state, euphoric mood, hallucination
+
+Renal and urinary disorders - hematuria
+
+Reproductive system and breast disorders - galactorrhea, priapism, vaginal hemorrhage
+
+Respiratory, thoracic and mediastinal disorders - bronchospasm, epistaxis, yawning
+
+Skin and subcutaneous tissue disorders - alopecia; cold sweat; dermatitis; dermatitis bullous; pruritus; purpura; erythematous, follicular, or maculopapular rash; urticaria
+
+Vascular disorders - hemorrhage, hypertension, vasodilation
 
 ## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during postapproval use of ZOLOFT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Bleeding or clotting disorders - increased coagulation times (altered platelet function)
-- Cardiac disorders - AV block, bradycardia, atrial arrhythmias, QTc-interval prolongation, ventricular tachycardia (including Torsade de Pointes) [See Clinical Pharmacology (12.2)]
-- Endocrine disorders - gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH
-- Eye disorders - blindness, optic neuritis, cataract
-- Hepatobiliary disorders - severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis
-- Hemic and lymphatic disorders - agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
-- Immune system disorders - angioedema
-- Metabolism and nutrition disorders - hyponatremia, hyperglycemia
-- Musculoskeletal and connective tissue disorders - rhabdomyolysis, trismus
-- Nervous system disorders - serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
-- Psychiatric disorders - psychosis, enuresis, paroniria
-- Renal and urinary disorders - acute renal failure
-- Respiratory, thoracic and mediastinal disorders - pulmonary hypertension
-- Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN)
-- Vascular disorders - cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call-Fleming syndrome), vasculitis
+Bleeding or clotting disorders - increased coagulation times (altered platelet function)
+
+Cardiac disorders - AV block, bradycardia, atrial arrhythmias, QTc-interval prolongation, ventricular tachycardia (including Torsade de Pointes) [See Clinical Pharmacology (12.2)]
+
+Endocrine disorders - gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH
+
+Eye disorders - blindness, optic neuritis, cataract
+
+Hepatobiliary disorders - severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis
+
+Hemic and lymphatic disorders - agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness
+
+Immune system disorders - angioedema
+
+Metabolism and nutrition disorders - hyponatremia, hyperglycemia
+
+Musculoskeletal and connective tissue disorders - rhabdomyolysis, trismus
+
+Nervous system disorders - serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis
+
+Psychiatric disorders - psychosis, enuresis, paroniria
+
+Renal and urinary disorders - acute renal failure
+
+Respiratory, thoracic and mediastinal disorders - pulmonary hypertension, eosinophilic pneumonia
+
+Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN)
+
+Vascular disorders - cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call‑Fleming syndrome), vasculitis
