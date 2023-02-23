@@ -51,13 +51,13 @@ Rx Only
 
 Distributed by: MEDA PHARMACEUTICALS® Somerset, New Jersey 08873-4120
 
-©2021 Viatris Inc.
+©2022 Viatris Inc.
 
 U.S. Patent No. 7,645,801
 
 SFROWASA is a registered trademark of Alaven Pharmaceutical LLC, a Viatris Company.
 
-IN-003260-05 Rev.
-11/2021
+IN-003260-06 Rev.
+11/2022
 
 For Medical Inquiries, Call Toll Free: 1-866-210-5950
