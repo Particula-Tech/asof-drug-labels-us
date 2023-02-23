@@ -74,8 +74,8 @@ by Woodstock Sterile Solutions, Inc.
 
 Woodstock, Illinois 60098
 
-© Chiesi USA, Inc. 2021
+© Chiesi USA, Inc. 2023
 
 Printed in USA
 
-CTB-004-0521-06-SPL
+CTB-004-1022-07-SPL

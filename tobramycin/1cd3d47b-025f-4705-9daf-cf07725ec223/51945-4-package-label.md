@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 14 day
+PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 14 day
 
 NDC 10122-820-28
 
@@ -23,7 +23,7 @@ Bethkis® is light sensitive; unopened ampules should be returned to the foil po
 
 Each carton contains 28 Single-Use Ampules (14-Day Supply)
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - carton label
+PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - carton label
 
 NDC 10122-820-56
 
@@ -48,7 +48,10 @@ Bethkis® is light sensitive; unopened ampules should be returned to the foil po
 
 Each carton contains 56 Single-Use Ampules (28-Day Supply)
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - pouch label
+PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - pouch label
+
+| Bethkis foil pouch |
+| --- |
 
 NDC 10122-820-04
 
@@ -78,7 +81,7 @@ Contains No Preservatives
 
 Rx Only
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - ampule label
+PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - ampule label
 
 Bethkis® 300 mg/ 4 mL
 
