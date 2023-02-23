@@ -2,6 +2,8 @@
 
 ## 5.1 Ototoxicity
 
+Ototoxicity with use of Tobramycin Inhalation Solution
+
 Caution should be exercised when prescribing Tobramycin Inhalation Solution to patients with known or suspected auditory or vestibular dysfunction.
 
 Findings related to ototoxicity as measured by audiometric evaluations and auditory adverse event reports were similar between Tobramycin Inhalation Solution and placebo in controlled clinical trials.
@@ -17,6 +19,13 @@ Vestibular toxicity may be manifested by vertigo, ataxia or dizziness.
 Patients with known or suspected auditory or vestibular dysfunction should be closely monitored when taking Tobramycin Inhalation Solution.
 Monitoring may include obtaining audiometric evaluations and serum tobramycin levels.
 If ototoxicity is noted, the patient should be managed as medically appropriate, including potentially discontinuing Tobramycin Inhalation Solution.
+
+Risk of Ototoxicity Due to Mitochondrial DNA Variants
+
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
 
 ## 5.2 Nephrotoxicity
 
@@ -48,13 +57,13 @@ Bronchospasm and wheezing should be treated as medically appropriate.
 
 ## 5.5 Laboratory Tests
 
-### Audiograms
+Audiograms
 
 Clinical studies of inhaled tobramycin solutions did not identify hearing loss using audiometric tests which evaluated hearing up to 8000 Hz.
 Physicians should consider an audiogram for patients who show any evidence of auditory dysfunction, or who are at increased risk for auditory dysfunction.
 Tinnitus may be a sentinel symptom of ototoxicity, and therefore the onset of this symptom warrants caution.
 
-### Serum Concentrations
+Serum Concentrations
 
 In patients with normal renal function treated with Tobramycin Inhalation Solution, serum tobramycin concentrations range from approximately 0.06-1.89 mcg/mL one hour after dose administration and do not require routine monitoring.
 Serum concentrations of tobramycin in patients with renal dysfunction or patients treated with concomitant parenteral tobramycin should be monitored at the discretion of the treating physician [see Clinical Pharmacology (12.3)].
@@ -63,7 +72,7 @@ The serum concentration of tobramycin should only be monitored through venipunct
 Contamination of the skin of the fingers with tobramycin may lead to falsely increased measurements of serum levels of the drug.
 This contamination cannot be completely avoided by hand washing before testing.
 
-### Renal Function
+Renal Function
 
 The clinical studies of Tobramycin Inhalation Solution did not reveal any imbalance in the percentage of patients who experienced at least a 50% rise in serum creatinine from baseline in either the Tobramycin Inhalation Solution group (n=26, 14%) or the placebo group (n=15, 13%).
 Laboratory tests of urine and renal function should be conducted at the discretion of the treating physician.

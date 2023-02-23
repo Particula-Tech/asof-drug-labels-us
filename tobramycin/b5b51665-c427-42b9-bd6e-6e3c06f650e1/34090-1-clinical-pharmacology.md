@@ -8,19 +8,19 @@ Tobramycin Inhalation Solution is an aminoglycoside antibacterial [see Clinical 
 
 Tobramycin Inhalation Solution contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.1 The bioavailability of Tobramycin Inhalation Solution may vary because of individual differences in nebulizer performance and airway pathology.2
 
-### Sputum Concentrations
+Sputum Concentrations
 
 Thirty minutes after inhalation of the first 300 mg dose of Tobramycin Inhalation Solution, the maximum geometric mean concentration of tobramycin was 814 mcg/g (ranging from 23 to 2843 mcg/g) in sputum.
 High variability of tobramycin concentration in sputum was observed.
 Three hours after inhalation started, sputum tobramycin concentrations declined to approximately 15% of those observed at 30 minutes.
 After four weeks of therapy with Tobramycin Inhalation Solution average mean sputum tobramycin concentrations obtained 10 minutes following administration were 717 mcg/g.
 
-### Distribution
+Distribution
 
 Following administration of Tobramycin Inhalation Solution, tobramycin remains concentrated primarily in the airways.
 Binding of tobramycin to serum proteins is negligible.
 
-### Elimination
+Elimination
 
 Tobramycin is not metabolized.
 The elimination half-life of tobramycin from serum is approximately two hours after intravenous (IV) administration.
@@ -30,31 +30,31 @@ Unabsorbed tobramycin following inhalation is likely eliminated in expectorated 
 
 ## 12.4 Microbiology
 
-### Mechanism of Action
+Mechanism of Action
 
 Tobramycin, an aminoglycoside antibacterial, acts primarily by disrupting protein synthesis in the bacterial cell which eventually leads to death of the cell.
 Tobramycin has activity against a wide range of gram-negative bacteria including P. aeruginosa.
 It is bactericidal at or above the minimal inhibitory concentration (MIC) needed to inhibit growth of bacteria.
 
-### Mechanism of Resistance
+Mechanism of Resistance
 
 The predominant mechanism of resistance to tobramycin in P. aeruginosa isolated from CF patients is impermeability and to a lesser extent enzymatic modification and other mechanisms which cumulatively lead to decreased susceptibility of P. aeruginosa to tobramycin.
 
-### Cross Resistance
+Cross Resistance
 
 Cross resistance between aminoglycosides exists but the cross resistance is variable.
 
-### Development of Resistance
+Development of Resistance
 
 Treatment for six months with Tobramycin Inhalation Solution in one clinical trial did not affect the susceptibility of the majority of P. aeruginosa isolates tested; however, increases in minimal inhibitory concentrations (MIC) were noted in some patients.
 The clinical significance of this information has not been clearly established in the treatment of cystic fibrosis patients.
 
-### Susceptibility Testing
+Susceptibility Testing
 
 The clinical microbiology laboratory should provide cumulative results of the in vitro susceptibility test results for antimicrobial drugs used in local hospitals and practice areas to the physicians as periodic reports that describe the susceptibility profile of nosocomial and community-acquired pathogens.
 These reports should aid the physician in selecting the most effective antimicrobial.
 
-#### Susceptibility Testing Techniques
+Susceptibility Testing Techniques
 
 Dilution Techniques
 
@@ -80,9 +80,9 @@ Standard tobramycin powder should provide the following MIC and a 10 mcg tobramy
 
 Table 2: Acceptable Quality Control Ranges for Tobramycin
 
-| Bacteria | MIC Range(mcg/mL) | Disk Diffusion ZoneDiameter (mm) |
+| Bacteria | MIC Range (mcg/mL) | Disk Diffusion Zone Diameter (mm) |
 | --- | --- | --- |
-| Pseudomonas æruginosaATCC 27853 | 0.25-1 | 19-25 |
+| Pseudomonas æruginosa ATCC 27853 | 0.25-1 | 19-25 |
 
 Other
 

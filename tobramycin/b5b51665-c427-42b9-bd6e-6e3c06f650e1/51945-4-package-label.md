@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - carton label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - CARTON LABEL
 
 NDC 66993-195-94
 
@@ -24,7 +24,7 @@ Tobramycin Inhalation Solution is light sensitive; unopened ampules should be re
 
 Each carton contains 56 Single-Use Ampules (28-Day Supply)
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - pouch label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - POUCH LABEL
 
 NDC 66993-195-44
 
@@ -54,4 +54,4 @@ Contains No Preservatives
 
 Rx Only
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - ampule label
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - AMPULE LABEL

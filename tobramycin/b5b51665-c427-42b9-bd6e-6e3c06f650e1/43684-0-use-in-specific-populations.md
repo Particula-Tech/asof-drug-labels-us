@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-### Risk Summary
+Risk Summary
 
 Aminoglycosides can cause fetal harm.
 Published literature reports that use of streptomycin, an aminoglycoside, can cause total, irreversible, bilateral congenital deafness when administered to a pregnant woman [Warnings and Precautions (5.6)].
@@ -15,13 +15,13 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-### Clinical Considerations
+Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
 Cystic fibrosis may increase the risk for preterm delivery.
 
-### Data
+Data
 
 Animal Data
 
@@ -32,7 +32,7 @@ Ototoxicity was not evaluated in offspring during nonclinical reproductive toxic
 
 ## 8.2 Lactation
 
-### Risk Summary
+Risk Summary
 
 There are no data on the presence of tobramycin in either human or animal milk, the effects on the breastfed infant, or the effects on milk production following oral inhalation of Tobramycin Inhalation Solution.
 Limited published data on other formulations of tobramycin in lactating women indicate that tobramycin is present in human milk.
@@ -40,7 +40,7 @@ However, systemic absorption of tobramycin following inhaled administration is e
 Tobramycin may cause alteration in the intestinal flora of the breastfeeding infant (see Clinical Considerations).
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Tobramycin Inhalation Solution and any potential adverse effects on the breastfed child from Tobramycin Inhalation Solution or from the underlying maternal condition.
 
-### Clinical Considerations
+Clinical Considerations
 
 Tobramycin may cause intestinal flora alteration.
 Advise a woman to monitor the breastfed infant for loose or bloody stools and candidiasis (thrush, diaper rash).
