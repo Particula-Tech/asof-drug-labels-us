@@ -22,7 +22,7 @@ Pharmacokinetic data were obtained in subjects with multiple sclerosis and healt
 
 Absorption
 
-The median Tmax of MMF is 2 - 2.5 hours.
+The median Tmax of MMF is 2 to 2.5 hours.
 The peak plasma concentration (Cmax) and overall exposure (AUC) increased approximately dose proportionally in the dose range studied (120 mg to 360 mg).
 Following administration of dimethyl fumarate delayed- release capsules 240 mg twice a day with food, the mean Cmax of MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
 
@@ -33,7 +33,7 @@ In this study, the incidence of flushing was reduced by approximately 25% in the
 Distribution
 
 The apparent volume of distribution of MMF varies between 53 and 73 L in healthy subjects.
-Human plasma protein binding of MMF is 27 - 45% and independent of concentration.
+Human plasma protein binding of MMF is 27 to 45% and independent of concentration.
 
 Metabolism
 

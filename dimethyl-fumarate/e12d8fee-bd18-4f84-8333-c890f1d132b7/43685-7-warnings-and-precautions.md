@@ -11,12 +11,12 @@ Patients should be instructed to discontinue dimethyl fumarate delayed-release c
 Progressive multifocal leukoencephalopathy (PML) has occurred in patients with MS treated with dimethyl fumarate delayed-release capsules.
 PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
 A fatal case of PML occurred in a patient who received dimethyl fumarate delayed-release capsules for 4 years while enrolled in a clinical trial.
-During the clinical trial, the patient experienced prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) while taking dimethyl fumarate delayed-release capsules [see Warnings and Precautions (5.4)].
+During the clinical trial, the patient experienced prolonged lymphopenia (lymphocyte counts predominantly less than 0.5x109/L for 3.5 years) while taking dimethyl fumarate delayed-release capsules [see Warnings and Precautions (5.4)].
 The patient had no other identified systemic medical conditions resulting in compromised immune system function and had not previously been treated with natalizumab, which has a known association with PML.
 The patient was also not taking any immunosuppressive or immunomodulatory medications concomitantly.
 
-PML has also occurred in the postmarketing setting in the presence of lymphopenia (<0.9x109/L).
-While the role of lymphopenia in these cases is uncertain, the PML cases have occurred predominantly in patients with lymphocyte counts <0.8x109/L persisting for more than 6 months.
+PML has also occurred in the postmarketing setting in the presence of lymphopenia (less than 0.9x109/L).
+While the role of lymphopenia in these cases is uncertain, the PML cases have occurred predominantly in patients with lymphocyte counts less than 0.8x109/L persisting for more than 6 months.
 At the first sign or symptom suggestive of PML, withhold dimethyl fumarate delayed-release capsules and perform an appropriate diagnostic evaluation.
 Typical symptoms associated with PML are diverse, progress over days to weeks, and include progressive weakness on one side of the body or clumsiness of limbs, disturbance of vision, and changes in thinking, memory, and orientation leading to confusion and personality changes.
 MRI findings may be apparent before clinical signs or symptoms.
@@ -45,10 +45,10 @@ Consider withholding dimethyl fumarate delayed-release capsules treatment in pat
 Dimethyl fumarate delayed-release capsules may decrease lymphocyte counts.
 In the MS placebo-controlled trials, mean lymphocyte counts decreased by approximately 30% during the first year of treatment with dimethyl fumarate delayed-release capsules and then remained stable.
 Four weeks after stopping dimethyl fumarate delayed-release capsules, mean lymphocyte counts increased but did not return to baseline.
-Six percent (6%) of dimethyl fumarate delayed-release capsules patients and <1% of placebo patients experienced lymphocyte counts <0.5x109/L (lower limit of normal 0.91x109/L).
+Six percent (6%) of dimethyl fumarate delayed-release capsules patients and less than 1% of placebo patients experienced lymphocyte counts less than 0.5x109/L (lower limit of normal 0.91x109/L).
 The incidence of infections (60% vs 58%) and serious infections (2% vs 2%) was similar in patients treated with dimethyl fumarate delayed-release capsules or placebo, respectively.
-There was no increased incidence of serious infections observed in patients with lymphocyte counts <0.8x109/L or <0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly <0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
-In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts <0.5 x 109/L for at least six months, and in this group the majority of lymphocyte counts remained <0.5x109/L with continued therapy.
+There was no increased incidence of serious infections observed in patients with lymphocyte counts less than 0.8x109/L or ≤0.5x109/L in controlled trials, although one patient in an extension study developed PML in the setting of prolonged lymphopenia (lymphocyte counts predominantly less than 0.5x109/L for 3.5 years) [see Warnings and Precautions (5.2)].
+In controlled and uncontrolled clinical trials, 2% of patients experienced lymphocyte counts less than 0.5x109/L for at least six months, and in this group the majority of lymphocyte counts remained less than 0.5x109/L with continued therapy.
 Dimethyl fumarate delayed-release capsules has not been studied in patients with pre-existing low lymphocyte counts.
 Obtain a CBC, including lymphocyte count, before initiating treatment with dimethyl fumarate delayed-release capsules, 6 months after starting treatment, and then every 6 to 12 months thereafter, and as clinically indicated.
 Consider interruption of dimethyl fumarate delayed-release capsules in patients with lymphocyte counts less than 0.5 x 109/L persisting for more than six months.
@@ -77,6 +77,6 @@ Dimethyl fumarate delayed-release capsules may cause flushing (e.g., warmth, red
 In clinical trials, 40% of dimethyl fumarate delayed-release capsules treated patients experienced flushing.
 Flushing symptoms generally began soon after initiating dimethyl fumarate delayed-release capsules and usually improved or resolved over time.
 In the majority of patients who experienced flushing, it was mild or moderate in severity.
-Three percent (3%) of patients discontinued dimethyl fumarate delayed-release capsules for flushing and <1% had serious flushing symptoms that were not life-threatening but led to hospitalization.
+Three percent (3%) of patients discontinued dimethyl fumarate delayed-release capsules for flushing and less than 1% had serious flushing symptoms that were not life-threatening but led to hospitalization.
 Administration of dimethyl fumarate delayed-release capsules with food may reduce the incidence of flushing.
 Alternatively, administration of non-enteric coated aspirin (up to a dose of 325 mg) 30 minutes prior to dimethyl fumarate delayed-release capsules dosing may reduce the incidence or severity of flushing [see Dosing and Administration (2.1) and Clinical Pharmacology (12.3)].

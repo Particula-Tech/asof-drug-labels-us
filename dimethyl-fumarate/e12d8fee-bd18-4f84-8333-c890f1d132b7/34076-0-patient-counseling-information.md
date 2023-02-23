@@ -1,7 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
-Dosage Inform patients that they will be provided two strengths of dimethyl fumarate delayed- release capsules when starting treatment: 120 mg capsules for the 7 day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
+Dosage Inform patients that they will be provided two strengths of dimethyl fumarate delayed- release capsules when starting treatment: 120 mg capsules for the 7-day starter dose and 240 mg capsules for the maintenance dose, both to be taken twice daily.
 Inform patients to swallow dimethyl fumarate delayed- release capsules whole and intact.
 Inform patients to not crush, chew, or sprinkle capsule contents on food.
 Inform patients that dimethyl fumarate delayed- release capsules can be taken with or without food [see Dosage and Administration (2.1)].
@@ -35,7 +35,6 @@ Pregnancy
 Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate delayed-release capsules they should inform their physician.
 
 Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054.
-Revised: June, 2022
+Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054 Revised: October, 2022
 
-PT2832-02
+PT2832-03

@@ -3,7 +3,7 @@
 Dimethyl fumarate (dye-METH-il FUE-ma-rate) delayed-release capsules What is dimethyl fumarate delayed-release capsules?
 
 - Dimethyl fumarate delayed-release capsules is a prescription medicine used to treat relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults.
-- It is not known if dimethyl fumarate delayed-release capsules is safe and effective in children under 18 years of age.
+- It is not known if dimethyl fumarate delayed-release capsules is safe and effective in children under 18 years of age
 
 Who should not take dimethyl fumarate delayed-release capsules?
 
@@ -44,14 +44,10 @@ Dimethyl fumarate delayed-release capsules may cause serious side effects includ
 - decreases in your white blood cell count Your doctor should do a blood test before you start treatment with dimethyl fumarate delayed-release capsules and while on therapy.
 - liver problems.
   Your doctor should do blood tests to check your liver function before you start taking dimethyl fumarate delayed-release capsules and during treatment if needed.
-  Tell your doctor right away if you get any of these symptoms of a liver problem during treatment.
-  - severe tiredness
-  - loss of appetite
-  - pain on the right side of your stomach
-  - have dark or brown (tea color) urine
+  Tell your doctor right away if you get any of these symptoms of a liver problem during treatment. o severe tiredness o loss of appetite o pain on the right side of your stomach o have dark or brown (tea color) urine
 - yellowing of your skin or the white part of your eyes
 - herpes zoster infections (shingles), including central nervous system infections
-- others serious infections
+- other serious infections
 
 The most common side effects of dimethyl fumarate delayed-release capsules include:
 
@@ -80,6 +76,8 @@ Active ingredient: dimethyl fumarate Inactive ingredients: colloidal silicon dio
 Capsule Shell: gelatin, titanium dioxide, FD&C blue 2 and iron oxide yellow.
 The imprinting ink contains following ingredients: shellac, propylene glycol, strong ammonia solution, black iron oxide, potassium hydroxide, purified water.
 Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 This Patient Information has been approved by the U.S. Food and Drug Administration Revised: December, 2021
+Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 For more information, call 1-877-ASC-RX01 (877272-7901).
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: October, 2022
 
-PT2833-02
+PT2833-03

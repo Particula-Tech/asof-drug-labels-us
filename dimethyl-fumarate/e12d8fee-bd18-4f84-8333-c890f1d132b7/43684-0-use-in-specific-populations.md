@@ -4,7 +4,7 @@
 
 Risk Summary There are no adequate data on the developmental risk associated with the use of dimethyl fumarate delayed-release capsules in pregnant women.
 In animals, adverse effects on offspring survival, growth, sexual maturation, and neurobehavioral function were observed when dimethyl fumarate (DMF) was administered during pregnancy and lactation at clinically relevant doses [see Data].
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 Data Animal Data In rats administered DMF orally (25, 100, 250 mg/kg/day) throughout organogenesis, embryofetal toxicity (reduced fetal body weight and delayed ossification) were observed at the highest dose tested.
 This dose also produced evidence of maternal toxicity (reduced body weight).

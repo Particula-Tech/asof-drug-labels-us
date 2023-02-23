@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Carcinogenesis Carcinogenicity studies of dimethyl fumarate (DMF) were conducted in mice and rats.
 In mice, oral administration of DMF (25, 75, 200, and 400 mg/kg/day) for up to two years resulted in an increase in nonglandular stomach (forestomach) and kidney tumors: squamous cell carcinomas and papillomas of the forestomach in males and females at 200 and 400 mg/kg/day; leiomyosarcomas of the forestomach at 400 mg/kg/day in males and females; renal tubular adenomas and carcinomas at 200 and 400 mg/kg/day in males; and renal tubule adenomas at 400 mg/kg/day in females.
@@ -16,7 +16,7 @@ In female rats, oral administration of DMF (20, 100, and 250 mg/kg/day) prior to
 The highest dose not associated with adverse effects (100 mg/kg/day) is twice the RHD on a mg/m2 basis.
 Testicular toxicity (germinal epithelial degeneration, atrophy, hypospermia, and/or hyperplasia) was observed at clinically relevant doses in mice, rats, and dogs in subchronic and chronic oral toxicity studies of DMF, and in a chronic oral toxicity study evaluating a combination of four fumaric acid esters (including DMF) in rats.
 
-## 13.2 Animal Pharmacology & OR Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Kidney toxicity was observed after repeated oral administration of dimethyl fumarate (DMF) in mice, rats, dogs, and monkeys.
 Renal tubule epithelia regeneration, suggestive of tubule epithelial injury, was observed in all species.

@@ -21,13 +21,13 @@ Table 2: Clinical and MRI Results of Study 1
 |  | Dimethyl fumarate delayed-release capsules 240 mg BID | Placebo | P-value |
 | --- | --- | --- | --- |
 | Clinical Endpoints | N=410 | N=408 |  |
-| Proportion relapsing (primary endpoint) Relative risk reduction | 27% 49% | 46% | <0.0001 |
-| Annualized relapse rate Relative reduction | 0.172 53% | 0.364 | <0.0001 |
+| Proportion relapsing (primary endpoint) Relative risk reduction | 27% 49% | 46% | Less than 0.0001 |
+| Annualized relapse rate Relative reduction | 0.172 53% | 0.364 | Less than 0.0001 |
 | Proportion with disability progression Relative risk reduction | 16% 38% | 27% | 0.0050 |
 | MRI Endpoints | N=152 | N=165 |  |
-| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 2.6 45% | 17 27% | <0.0001 |
-| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.1 (0) 93% 5% <1% 0 <1% 90% | 1.8 (0) 62% 10% 8% 9% 11% | <0.0001 |
-| Mean number of new T1 hypointense lesions over 2 years | 1.5 | 5.6 | <0.0001 |
+| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 2.6 45% | 17 27% | Less than 0.0001 |
+| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.1 (0) 93% 5% Less than1% 0 Less than 1% 90% | 1.8 (0) 62% 10% 8% 9% 11% | Less than 0.0001 |
+| Mean number of new T1 hypointense lesions over 2 years | 1.5 | 5.6 | Less than 0.0001 |
 
 Figure 1: Time to 12-Week Confirmed Progression of Disability (Study 1)
 
@@ -47,10 +47,10 @@ Table 3: Clinical and MRI Results of Study 2
 |  | Dimethyl fumarate delayed- release capsules 240 mg BID | Placebo | P-value |
 | --- | --- | --- | --- |
 | Clinical Endpoints | N=359 | N=363 |  |
-| Annualized relapse rate Relative reduction | 0.224 44% | 0.401 | <0.0001 |
+| Annualized relapse rate Relative reduction | 0.224 44% | 0.401 | Less than 0.0001 |
 | Proportion relapsing Relative risk reduction | 29% 34% | 41% | 0.0020 |
 | Proportion with disability progression Relative risk reduction | 13% 21% | 17% | 0.25 |
 | MRI Endpoints | N=147 | N=144 |  |
-| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 5.1 27% | 17.4 12% | <0.0001 |
-| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.5 (0.0) 80% 11% 3% 3% 3% 74% | 2.0 (0.0) 61% 17% 6% 2% 14% | <0.0001 |
-| Mean number of new T1 hypointense lesions over 2 years | 3.0 | 7.0 | <0.0001 |
+| Mean number of new or newly enlarging T2 lesions over 2 years Percentage of subjects with no new or newly enlarging lesions | 5.1 27% | 17.4 12% | Less than 0.0001 |
+| Number of Gd+ lesions at 2 years Mean (median) Percentage of subjects with 0 lesions 1 lesion 2 lesions 3 to 4 lesions 5 or more lesions Relative odds reduction (percentage) | 0.5 (0.0) 80% 11% 3% 3% 3% 74% | 2.0 (0.0) 61% 17% 6% 2% 14% | Less than 0.0001 |
+| Mean number of new T1 hypointense lesions over 2 years | 3.0 | 7.0 | Less than 0.0001 |
