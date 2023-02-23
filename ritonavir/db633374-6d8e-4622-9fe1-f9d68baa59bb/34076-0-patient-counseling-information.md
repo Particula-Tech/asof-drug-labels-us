@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information) General Information Dosing and Preparation Information • Advise patients and caregivers to pay special attention to accurate preparation and administration of their dose to minimize the risk of accidental overdose or underdose of ritonavir. • Advise caregivers to inform their healthcare provider if their children's weight changes in order to make sure that the child's ritonavir dose is adjusted as needed. • Advise patients to take ritonavir with meals. • For adult patients taking ritonavir tablets, the maximum dose of 600 mg twice daily by mouth with meals should not be exceeded. • Advise patients to remain under the care of a physician while using ritonavir and to take ritonavir and other concomitant antiretroviral therapy every day as prescribed.
+Advise the patient to read the FDA-approved patient labeling (Patient Information) General Administration Information [see Dosage and Administration (2)]: • Advise patients and caregivers to pay special attention to accurate preparation and administration of their dose to minimize the risk of accidental overdose or underdose of ritonavir. • Advise caregivers to inform their healthcare provider if their child's weight changes in order to make sure that the child's ritonavir dose is adjusted as needed. • Advise patients to take ritonavir with meals. • For adult patients taking ritonavir tablets, the maximum dose of 600 mg twice daily by mouth with meals should not be exceeded. • Advise patients to remain under the care of a physician while using ritonavir and to take ritonavir and other concomitant antiretroviral therapy every day as prescribed.
 Ritonavir must always be used in combination with other antiretroviral drugs.
 Advise patients not to alter the dose or discontinue therapy without consulting with their healthcare provider.
 If a dose of ritonavir is missed patients should take the dose as soon as possible and then return to their normal schedule.
@@ -21,10 +21,14 @@ Diabetes Mellitus/Hyperglycemia Advise patients that new onset of diabetes or ex
 Immune Reconstitution Syndrome Advise patients that immune reconstitution syndrome has been reported in HIV-infected patients treated with combination antiretroviral therapy, including ritonavir [see Warnings and Precautions (5.9)].
 Fat Redistribution Advise patients that redistribution or accumulation of body fat may occur in patients receiving antiretroviral therapy and that the cause and long term health effects of these conditions are not known at this time [see Warnings and Precautions (5.10)].
 Patients with Hemophilia Advise patients with hemophilia that they may experience increased bleeding when treated with protease inhibitors such as ritonavir [see Warnings and Precautions (5.11)].
-Ritonavir Oral Solution Not Recommended During Pregnancy Advise pregnant women that use of ritonavir oral solution during pregnancy is not recommended due to its alcohol content [see Dosage and Administration (2.3) and Use in Specific Populations (8.1)].
+Ritonavir Oral Solution Not Recommended During Pregnancy Advise pregnant women that use of ritonavir oral solution during pregnancy is not recommended due to its alcohol content [see Dosage and Administration (2.3) and Use in Specific Population (8.1)].
 Pregnancy Exposure Registry Inform patients that there is an antiretroviral pregnancy registry that monitors fetal outcomes of pregnant women exposed to ritonavir [see Use in Specific Populations (8.1)].
 Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passed to the baby in breast milk [see Use in Specific Populations (8.2)].
 
 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad -500055, India Revised: August 2018
+By: HETERO TM Hetero Labs Limited Jeedimetla,
+
+Hyderabad -500 055,
+
+India Revised: 02/2023
