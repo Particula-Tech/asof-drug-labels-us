@@ -11,6 +11,8 @@ NDC 82667-300-01 Package of 1 unit of 1.25 mL single-patient‑use vial (800 mg 
 
 NDC 82667-300-10 Package of 10 units of 1.25 mL single-patient‑use vials (800 mg filled)
 
+NDC 82667-300-00 Sample package of 1 unit of 1.25 mL single-patient-use vial (800 mg filled)
+
 Storage
 
 Store at 15°C to 25°C (59°F to 77°F).

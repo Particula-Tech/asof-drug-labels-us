@@ -13,9 +13,7 @@ The most common adverse reactions in these studies, (incidence greater than or e
 Adverse Reactions Reported in Controlled Trials
 
 Table 1.
-Adverse Reactions in 5% or more of IHEEZO TM
-
-Treated Patients in Studies 1 and 2
+Adverse Reactions in 5% or more of IHEEZO TM Treated Patients in Studies 1 and 2
 
 |  | IHEEZO TM | Placebo |
 | --- | --- | --- |
