@@ -7,7 +7,7 @@ Based on body surface area, for a 50 kg person of average height (1.46 m2 body s
 
 In a two-year oral carcinogenicity study in Fischer 344 rats, ursodiol at doses up to 300 mg/kg/day (1,800 mg/m2/day, 3.2 times the recommended maximum human dose based on body surface area) was not tumorigenic.
 
-In a life-span (126-138 weeks) oral carcinogenicity study, Sprague-Dawley rats were treated with doses of 33 to 300 mg/kg/day, 0.4 to 3.2 times the recommended maximum human dose based on body surface area.
+In a life-span (126 to 138 weeks) oral carcinogenicity study, Sprague-Dawley rats were treated with doses of 33 to 300 mg/kg/day, 0.4 to 3.2 times the recommended maximum human dose based on body surface area.
 Ursodiol produced a significantly (p<0.5, Fisher's exact test) increased incidence of pheochromocytomas of the adrenal medulla in females of the highest dose group.
 
 In 103-week oral carcinogenicity studies of lithocholic acid, a metabolite of ursodiol, doses up to 250 mg/kg/day in mice and 500 mg/kg/day in rats did not produce any tumors.

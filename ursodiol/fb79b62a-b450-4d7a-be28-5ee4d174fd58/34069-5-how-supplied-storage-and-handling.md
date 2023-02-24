@@ -2,18 +2,22 @@
 
 ## 16.1 Ursodiol Tablets, USP 250 mg
 
-Each ursodiol tablet, USP 250 mg is a white to off-white, oval shaped, film-coated tablet debossed with “G72” on one side and “250” on the other side and contains 250 mg ursodiol, USP.
+Each Ursodiol Tablet, USP 250 mg is a white to off-white, oval shaped, film-coated tablet debossed with “G72” on one side and “250” on the other side and contains 250 mg ursodiol, USP.
 
-Ursodiol tablets, USP 250 mg are available in bottles of 30 tablets (NDC 68462-473-30), 100 tablets (NDC 68462-473-01) and 500 tablets (NDC 68462-473-05).
+Ursodiol Tablets, USP 250 mg are available in:
 
-## 16.2 Ursodiol Tablets, USP 500 mg:
+Bottles of 30 tablets, NDC 68462-473-30 Bottles of 100 tablets, NDC 68462-473-01 Bottles of 500 tablets, NDC 68462-473-05
 
-Each ursodiol tablet, USP 500 mg is a white to off-white, oval shaped, film-coated tablet debossed with “U 11” on one side and a score line on the other side and contains 500 mg ursodiol, USP.
+## 16.2 Ursodiol Tablets, USP 500 mg
 
-Ursodiol Tablets, USP 500 mg are available in bottles of 30 tablets (NDC 68462-474-30), 100 tablets (NDC 68462-474-01) and 500 tablets (NDC 68462-474-05).
+Each Ursodiol Tablet, USP 500 mg is a white to off-white, oval shaped, film-coated tablet debossed with “U 11” on one side and a score line on the other side and contains 500 mg ursodiol, USP.
 
-Store at 20oC to 25oC (68oF to 77oF) [see USP Controlled Room Temperature].
-Dispense in a tight container
+Ursodiol Tablets, USP 500 mg are available in:
 
-Half-tablets (scored ursodiol 500 mg tablets broken in half) maintain acceptable quality for up to 28 days when stored in the current packaging (bottles) at 20ºC to 25ºC (68ºF to 77ºF).
-Due to the bitter taste, the halved segments should be stored separately from the whole tablets [see Dosage and Administration (2.3)]
+Bottles of 30 tablets, NDC 68462-474-30 Bottles of 100 tablets, NDC 68462-474-01 Bottles of 500 tablets, NDC 68462-474-05
+
+Store at 20℃ to 25℃ (68℉ to 77℉) [see USP Controlled Room Temperature].
+Dispense in a tight container.
+
+Half-tablets (scored Ursodiol Tablets, USP 500 mg broken in half) maintain acceptable quality for up to 28 days when stored in the current packaging (bottles) at 20℃ to 25℃ (68℉ to 77℉).
+Due to the bitter taste, the halved segments should be stored separately from the whole tablets [see Dosage and Administration (2.3)].

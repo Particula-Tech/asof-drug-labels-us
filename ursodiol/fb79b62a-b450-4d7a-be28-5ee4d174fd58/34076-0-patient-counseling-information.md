@@ -1,11 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-## 17.1 Appropriate Treatments
+Enteroliths in Patients with Risk for Intestinal Stenosis or Stasis
 
-Patients with the following conditions should be instructed to receive appropriate management measures: variceal bleeding, hepatic encephalopathy, ascites, in need of an urgent liver transplant or hepatic function deterioration [see Warnings and Precautions (5)].
+Advise patients or their caretaker(s) to notify their healthcare provider if they experience obstructive gastrointestinal symptoms due to the risk of enteroliths [see Warnings and Precautions (5.2)].
 
-Caution has to be exercised to maintain the bile flow of the patients taking ursodiol.
-
-## 17.2 Drug Interactions
+Drug Interactions
 
 Patients should be informed that absorption of ursodiol tablets, 250 mg and 500 mg may be reduced if they are taking bile acid sequestering agents, such as cholestyramine and colestipol, aluminum-based antacids, or drugs known to alter the metabolism of cholesterol [see Drug Interactions (7)].

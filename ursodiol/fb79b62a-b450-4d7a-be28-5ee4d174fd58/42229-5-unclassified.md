@@ -7,6 +7,6 @@ Manufactured for:
 Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
 
 Questions?
-1 (888)721-7115 www.glenmarkpharma-us.com
+1 (888) 721-7115 www.glenmarkpharma-us.com
 
-June 2021
+February 2023

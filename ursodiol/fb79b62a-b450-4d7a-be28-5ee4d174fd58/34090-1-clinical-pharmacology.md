@@ -5,7 +5,7 @@
 Ursodiol, a naturally occurring hydrophilic bile acid, derived from cholesterol, is present as a minor fraction of the total human bile acid pool.
 Oral administration of ursodiol increases this fraction in a dose related manner, to become the major biliary acid, replacing/displacing toxic concentrations of endogenous hydrophobic bile acids that tend to accumulate in cholestatic liver disease.
 
-In addition to the replacement and displacement of toxic bile acids, other mechanisms of action include cytoprotection of the injured bile duct epithelial cells (cholangiocytes) against toxic effects of bile acids, inhibition of apotosis of hepatocytes, immunomodulatory effects, and stimulation of bile secretion by hepatocytes and cholangiocytes.
+In addition to the replacement and displacement of toxic bile acids, other mechanisms of action include cytoprotection of the injured bile duct epithelial cells (cholangiocytes) against toxic effects of bile acids, inhibition of apoptosis of hepatocytes, immunomodulatory effects, and stimulation of bile secretion by hepatocytes and cholangiocytes.
 
 ## 12.2 Pharmacodynamics
 
@@ -38,4 +38,4 @@ Ursodiol is excreted primarily in the feces.
 With treatment, urinary excretion increases, but remains less than 1% except in severe cholestatic liver disease.
 
 During chronic administration of ursodiol, it becomes a major biliary and plasma bile acid.
-At a chronic dose of 13 to 15 mg/kg/day, ursodiol constitutes 30-50% of biliary and plasma bile acids.
+At a chronic dose of 13 to 15 mg/kg/day, ursodiol constitutes 30 to 50% of biliary and plasma bile acids.

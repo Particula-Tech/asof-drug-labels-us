@@ -2,7 +2,7 @@
 
 Ursodiol Tablets, USP
 
-NDC 68462-4723-01
+NDC 68462-473-01
 
 250 mg
 
