@@ -11,13 +11,11 @@ Do not store above 30˚C (86˚F).
 Protect from moisture.
 Dispense in tight container (USP).
 
-Dispense with Medication Guide available at www1.apotex.com/products/us
+Dispense with Medication Guide available at https://www.apotex.com/products/us/mg.asp
 
 APOTEX INC. CARBAMAZEPINE TABLETS, USP 200 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-September 2021
-
 Rev.
-15
+16

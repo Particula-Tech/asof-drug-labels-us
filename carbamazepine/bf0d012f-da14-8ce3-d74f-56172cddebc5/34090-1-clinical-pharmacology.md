@@ -33,7 +33,7 @@ Autoinduction is completed after 3 to 5 weeks of a fixed dosing regimen.
 Initial half-life values range from 25 to 65 hours, decreasing to 12 to 17 hours on repeated doses.
 Carbamazepine is metabolized in the liver.
 Cytochrome P450 3A4 was identified as the major isoform responsible for the formation of carbamazepine-10,11-epoxide from carbamazepine.
-Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-­ 10,11 epoxide.
+Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine­-10,11 epoxide.
 After oral administration of 14C-carbamazepine, 72% of the administered radioactivity was found in the urine and 28% in the feces.
 This urinary radioactivity was composed largely of hydroxylated and conjugated metabolites, with only 3% of unchanged carbamazepine.
 

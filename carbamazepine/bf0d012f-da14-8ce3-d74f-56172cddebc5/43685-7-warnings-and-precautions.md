@@ -48,7 +48,7 @@ The role of other possible factors in the development of, and morbidity from, SJ
 
 ## Aplastic Anemia and Agranulocytosis
 
-Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine (see Boxed Warning).
+Aplastic anemia and agranulocytosis have been reported in association with the use of carbamazepine (see BOXED WARNING).
 Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
 
 ## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity

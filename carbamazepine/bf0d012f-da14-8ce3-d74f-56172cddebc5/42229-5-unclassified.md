@@ -1,4 +1,4 @@
-Rx only
+Rx Only
 
 Prescribing Information
 
