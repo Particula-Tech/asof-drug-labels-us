@@ -43,13 +43,16 @@ Both tolerance and physical dependence can develop during chronic opioid therapy
 Tolerance is the need for increasing doses of opioids to maintain a defined effect such as analgesia (in the absence of disease progression or other external factors).
 Tolerance may occur to both the desired and undesired effects of drugs, and may develop at different rates for different effects.
 
-Physical dependence results in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
+Physical dependence is a physiological state in which the body adapts to the drug after a period of regular exposure, resulting in withdrawal symptoms after abrupt discontinuation or a significant dosage reduction of a drug.
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Acetaminophen and codeine phosphate oral solution should not be abruptly discontinued [see DOSAGE AND ADMINISTRATION].
-If acetaminophen and codeine phosphate oral solution is abruptly discontinued in a physically- dependent patient, a withdrawal syndrome may occur.
-Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
-Other signs and symptoms also may develop, including irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
+Do not abruptly discontinue acetaminophen and codeine phosphate oral solution in a patient physically dependent on opioids.
+Rapid tapering of acetaminophen and codeine phosphate oral solution in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+
+When discontinuing acetaminophen and codeine phosphate oral solution, gradually taper the dosage using a patient-specific plan that considers the following: the dose of acetaminophen and codeine phosphate oral solution the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
+To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
+In patients taking opioids for a long duration at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see DOSAGE AND ADMINISTRATION, WARNINGS].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see PRECAUTIONS; Pregnancy].

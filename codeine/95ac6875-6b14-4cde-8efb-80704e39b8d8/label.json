@@ -3,15 +3,12 @@
     "ANDA087508"
   ],
   "inn": "codeine",
-  "labeler": "Pharmaceutical Associates, Inc.",
+  "labeler": "PAI Holdings, LLC",
   "package_ndcs": [
     "0121-0504-00",
     "0121-0504-04",
     "0121-0504-05",
-    "0121-0504-12",
-    "0121-0504-16",
-    "0121-1008-00",
-    "0121-1008-12"
+    "0121-0504-16"
   ],
   "products": [
     {

@@ -25,7 +25,7 @@ In case of overdose, priorities are the reestablishment of a patent and protecte
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or serious arrhythmias will require advanced life-support measures.
 
-The opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
+Opioid antagonists, naloxone or nalmefene, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to acetaminophen and codeine phosphate oral solution overdose, administer an opioid antagonist.
 Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to codeine overdose.
 

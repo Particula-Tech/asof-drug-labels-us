@@ -53,37 +53,17 @@ X0504041116
 
 R11/16
 
-# PRINCIPAL DISPLAY PANEL -12.5 mL Unit Dose Cup Label
-
-Delivers 12.5 mL
-
-NDC 0121-1008-12
-
-Acetaminophen and CodeinePhosphateOralSolution USP CV
-
-Each 12.5 mL contains: Acetaminophen 300 mg, Codeine Phosphate 30 mg and Alcohol 7%
-
-FOR INSTITUTIONAL USE ONLY
-
-Rx ONLY
-
-PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
-
-SEE INSERT
-
-A05041201
-
-# PRINCIPAL DISPLAY PANEL -5 mL Unit Dose Cup Label
+# PRINCIPAL DISPLAY PANEL -5 mL Unit Dose Cup Lidding
 
 Delivers 5 mL
 
 NDC 0121-0504-05
 
-Acetaminophen and CodeinePhosphateOralSolution USP CV
+Acetaminophen and Codeine Phosphate Oral Solution USP CV
 
 Each 5 mL contains: Acetaminophen 120 mg, Codeine Phosphate 12 mg and Alcohol 7%
 
-FOR INSTITUTIONAL USE ONLY
+Package Not Child-Resistant
 
 Rx ONLY
 
@@ -91,4 +71,4 @@ PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
 
 SEE INSERT
 
-A05040500
+A0504121020
