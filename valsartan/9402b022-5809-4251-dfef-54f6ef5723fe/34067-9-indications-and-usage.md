@@ -17,6 +17,9 @@ Some antihypertensive drugs have smaller blood pressure effects (as monotherapy)
 These considerations may guide selection of therapy.
 Valsartan tablets may be used alone or in combination with other antihypertensive agents.
 
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 1.2 Heart Failure
 
 Valsartan tablets are indicated to reduce the risk of hospitalization for heart failure in patients with heart failure (NYHA class II-IV).

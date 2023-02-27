@@ -31,31 +31,32 @@ In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxici
 Risk Summary There is no information regarding the presence of valsartan in human milk, the effects on the breastfed infant, or the effects on milk production.
 Valsartan is present in rat milk.
 Because of the potential for serious adverse reactions in breastfed infants from exposure to valsartan, advise a nursing woman that breastfeeding is not recommended during treatment with valsartan.
-Data Valsartan was detected in the milk of lactating rats 15 minutes after oral administration of a 3 mg/kg dose.
 
 ## 8.4 Pediatric Use
 
 The antihypertensive effects of valsartan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1 to 5 and 6 to 16 years of age [see Clinical Studies (14.1)].
 The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
-Valsartan was generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults.
+Valsartan was generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults [see Adverse Reactions (6.1).
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
-Valsartan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
+Use of valsartan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
 No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
-There is limited clinical experience with valsartan in pediatric patients with mild to moderate hepatic impairment [see Warnings and Precautions (5.3)].
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
 In the controlled clinical trials of valsartan, 1,214 (36.2%) hypertensive patients treated with valsartan were ≥65 years and 265 (7.9%) were ≥75 years.
 No overall difference in the efficacy or safety of valsartan was observed in this patient population, but greater sensitivity of some older individuals cannot be ruled out.
-Exposure (measured by AUC) to valsartan is higher by 70% in the elderly than in the young, however no dosage adjustment is necessary [see Clinical Pharmacology (12.3)].
+Exposure [measured by area under the curve (AUC)] to valsartan is higher by 70% in the elderly than in the young, however no dosage adjustment is necessary [see Clinical Pharmacology (12.3)].
 Of the 2,511 patients with heart failure randomized to valsartan in the Valsartan Heart Failure Trial, 45% (1,141) were 65 years of age or older.
 In the VALsartan In Acute myocardial iNfarcTion trial (VALIANT), 53% (2,596) of the 4,909 patients treated with valsartan and 51% (2,515) of the 4,885 patients treated with valsartan + captopril were 65 years of age or older.
 There were no notable differences in efficacy or safety between older and younger patients in either trial.
 
 ## 8.6 Renal Impairment
 
-Safety and effectiveness of valsartan in patients with severe renal impairment (CrCl ≤ 30 mL/min) have not been established.
-No dose adjustment is required in patients with mild (CrCl 60 to 90 mL/min) or moderate (CrCl 30 to 60 mL/min) renal impairment.
+Safety and effectiveness of valsartan in patients with severe renal impairment (glomerular filtration rate less than 30 mL/min/1.73 m2) have not been established.
+No dose adjustment is required in patients with mild (glomerular filtration rate 60 to 90 mL/min/1.73 m2) or moderate (glomerular filtration rate 30 to 60 mL/min/1.73 m2) renal impairment.
 
 ## 8.7 Hepatic Impairment
 

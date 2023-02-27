@@ -36,20 +36,23 @@ There was essentially no change in heart rate in valsartan-treated patients in c
 
 Pediatric Hypertension
 
-The antihypertensive effects of valsartan were evaluated in two randomized, double-blind clinical studies.
-In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed < 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed ≥ 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
+Children Between 6 to 16 Years of Age
+
+In a clinical study involving 261 hypertensive pediatric patients 6 to 16 years of age, patients who weighed less than 35 kg received 10, 40 or 80 mg of valsartan daily (low, medium and high doses), and patients who weighed greater than or equal to 35 kg received 20, 80, and 160 mg of valsartan daily (low, medium and high doses).
 Renal and urinary disorders, and essential hypertension with or without obesity were the most common underlying causes of hypertension in children enrolled in this study.
 At the end of 2 weeks, valsartan reduced both systolic and diastolic blood pressure in a dose-dependent manner.
-Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by -8, -10, -12 mmHg from the baseline, respectively.
+Overall, the three dose levels of valsartan (low, medium and high) significantly reduced systolic blood pressure by 8,10, and 12 mmHg from the baseline, respectively.
 Patients were re-randomized to either continue receiving the same dose of valsartan or were switched to placebo.
-In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was -4 and -7 mmHg lower than patients who received the placebo treatment.
+In patients who continued to receive the medium and high doses of valsartan, systolic blood pressure at trough was 4 and 7 mm Hg lower than patients who received the placebo treatment.
 In patients receiving the low dose of valsartan, systolic blood pressure at trough was similar to that of patients who received the placebo treatment.
 Overall, the dose-dependent antihypertensive effect of valsartan was consistent across all the demographic subgroups.
-In a clinical study involving 90 hypertensive pediatric patients 1 to 5 years of age with a similar study design, there was some evidence of effectiveness, but safety findings for which a relationship to treatment could not be excluded mitigate against recommending use in this age group [see Adverse Reactions (6.1)].
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 14.2 Heart Failure
 
-The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF <40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years.
+The Valsartan Heart Failure Trial (Val-HeFT) was a multinational, double-blind study in which 5,010 patients with NYHA class II (62%) to IV (2%) heart failure and LVEF less than 40%, on baseline therapy chosen by their physicians, were randomized to placebo or valsartan (titrated from 40 mg twice daily to the highest tolerated dose or 160 mg twice daily) and followed for a mean of about 2 years.
 Although Val-HeFT’s primary goal was to examine the effect of valsartan when added to an ACE inhibitor, about 7% were not receiving an ACE inhibitor.
 Other background therapy included diuretics (86%), digoxin (67%), and beta-blockers (36%).
 The population studied was 80% male, 46% 65 years or older and 89% Caucasian.

@@ -14,11 +14,8 @@ In trials in which valsartan was compared to an ACE inhibitor with or without pl
 In a 129-patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p <0.001).
 Dose-related orthostatic effects were seen in less than 1% of patients.
 An increase in the incidence of dizziness was observed in patients treated with valsartan 320 mg (8%) compared to 10 to 160 mg (2% to 4%).
-Pediatric Hypertension Valsartan has been evaluated for safety in over 400 pediatric patients aged 6 to 17 years and more than 160 pediatric patients aged 6 months to 5 years.
-No relevant differences were identified between the adverse experience profile for pediatric patients aged 6 to 16 years and that previously reported for adult patients.
-Headache and hyperkalemia were the most common adverse events suspected to be study drug-related in older children (6 to 17 years old) and younger children (6 months to 5 years old), respectively.
-Hyperkalemia was mainly observed in children with underlying renal disease.
-Neurocognitive and developmental assessment of pediatric patients aged 6 to 16 years revealed no overall clinically relevant adverse impact after treatment with valsartan for up to 1 year.
+Pediatric Hypertension Valsartan has been evaluated for safety in over 400 patients aged 6 to 17 years No relevant differences were identified between the adverse experience profile for pediatric patients and that previously reported for adult patients.
+Hyperkalemia was more frequently observed in pediatric patients with underlying chronic kidney disease (CKD).
 Valsartan is not recommended for pediatric patients under 6 years of age.
 In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
 These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
@@ -26,7 +23,7 @@ A causal relationship to valsartan has not been established.
 In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
 The most common adverse reaction in children less than 6 years old was hyperkalemia.
 Hyperkalemia was mainly observed in children with underlying renal disease.
-Heart Failure In the Valsartan Heart Failure Trial, comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
+Heart Failure In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
 All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers.
 About 93% of patients received concomitant ACE inhibitors.

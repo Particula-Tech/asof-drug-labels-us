@@ -9,7 +9,7 @@ Its action is therefore independent of the pathways for angiotensin II synthesis
 There is also an AT2 receptor found in many tissues, but AT2 is not known to be associated with cardiovascular homeostasis.
 Valsartan has much greater affinity (about 20,000-fold) for the AT1 receptor than for the AT2 receptor.
 The increased plasma levels of angiotensin II following AT1 receptor blockade with valsartan may stimulate the unblocked AT2 receptor.
-The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one­-200th that of valsartan itself.
+The primary metabolite of valsartan is essentially inactive with an affinity for the AT1 receptor about one­-200th (1/200th) that of valsartan itself.
 
 Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension.
 ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE.
@@ -38,7 +38,7 @@ Absorption In healthy volunteers, valsartan peak plasma concentration is reached
 Valsartan shows bi-exponential decay kinetics following intravenous administration, with an average elimination half-life of about 6 hours.
 Absolute bioavailability for valsartan is about 25% (range 10% to 35%).
 The bioavailability of the suspension [see Dosage and Administration (2.2)] is 1.6 times as great as with the tablet.
-AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80 mg to 320 mg).
+AUC and Cmax values of valsartan increase approximately linearly with increasing dose over the clinical dosing range (80 - 320 mg).
 Valsartan does not accumulate appreciably in plasma following repeated administration of 200 mg once daily.
 In heart failure patients, the average time to peak plasma concentration and elimination half-life of valsartan are similar to those observed in healthy volunteers.
 The average accumulation factor is about 1.7 in heart failure patients following repeated administration of 160 mg twice daily.
@@ -59,6 +59,7 @@ Age does not affect the apparent clearance in heart failure patients.
 Specific Populations: Geriatric: Exposure (measured by AUC) to valsartan is higher by 70% and the half-life is longer by 35% in the elderly than in the young.
 [see Use in Specific Populations (8.5)].
 Pediatric: In a study of pediatric hypertensive patients (n=26, 1 to 16 years of age) given single doses of a suspension of valsartan (mean: 0.9 to 2 mg/kg), the clearance (L/h/kg) of valsartan for children was similar to that of adults receiving the same formulation.
+Valsartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age.
 Gender: Pharmacokinetics of valsartan does not differ significantly between males and females.
 Renal Insufficiency: There is no apparent correlation between renal function (measured by creatinine clearance) and exposure (measured by AUC) to valsartan in patients with different degrees of renal impairment (down to creatinine clearance of 10 mL/min).
 Valsartan is not removed from the plasma by hemodialysis [see Use in Specific Populations (8.6)].
