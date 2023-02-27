@@ -24,4 +24,4 @@ Most patients receiving the combination of two RAS inhibitors do not obtain any 
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on irbesartan and other agents that affect the RAS.
 Do not coadminister aliskiren with irbesartan in patients with diabetes.
-Avoid use of aliskiren with irbesartan in patients with renal impairment (GFR <60 mL/min).
+Avoid use of aliskiren with irbesartan in patients with renal impairment (GFR <60 mL/min)1.

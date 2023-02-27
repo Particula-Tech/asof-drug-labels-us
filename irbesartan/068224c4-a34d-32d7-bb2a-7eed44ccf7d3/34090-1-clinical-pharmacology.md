@@ -18,7 +18,7 @@ Inhibition was complete (100%) 4 hours following oral doses of 150 mg or 300 mg 
 In hypertensive patients, angiotensin II receptor inhibition following chronic administration of irbesartan causes a 1.5-fold to 2-fold rise in angiotensin II plasma concentration and a 2-fold to 3-fold increase in plasma renin levels.
 Aldosterone plasma concentrations generally decline following irbesartan administration, but serum potassium levels are not significantly affected at recommended doses.
 In hypertensive patients, chronic oral doses of irbesartan (up to 300 mg) had no effect on glomerular filtration rate, renal plasma flow, or filtration fraction.
-In multiple dose studies in hypertensive patients, there were no clinically important effects on fasting triglycerides, total cholesterol, HDL-cholesterol, or fasting glucose concentrations.
+In multiple dose studies in hypertensive patients, there were no clinically important effects on fasting triglycerides, total cholesterol or HDL-cholesterol, or fasting glucose concentrations.
 There was no effect on serum uric acid during chronic oral administration, and no uricosuric effect.
 
 ## 12.3 Pharmacokinetics
