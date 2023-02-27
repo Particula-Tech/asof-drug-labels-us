@@ -234,7 +234,7 @@ Acute renal failure
 
 Respiratory, Thoracic and Mediastinal Disorders
 
-Pulmonary hypertension
+Pulmonary hypertension, eosinophilic pneumonia
 
 Skin and Subcutaneous Tissue Disorders
 
