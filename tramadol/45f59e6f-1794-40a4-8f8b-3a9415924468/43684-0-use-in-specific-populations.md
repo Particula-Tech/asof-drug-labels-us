@@ -5,6 +5,7 @@
 Risk Summary
 
 Prolonged use of opioid analgesics during pregnancy may cause neonatal opioid withdrawal syndrome.
+
 Available data with ULTRAM in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
 
 In animal reproduction studies, tramadol administration during organogenesis decreased fetal weights and reduced ossification in mice, rats, and rabbits at 1.4, 0.6, and 3.6 times the maximum recommended human daily dosage (MRHD).

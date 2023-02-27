@@ -103,8 +103,8 @@ Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that prolonged use of ULTRAM during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated and that the patient should inform their healthcare provider if they have used opioids at any time during their pregnancy, especially near the time of birth.
-[see Warnings and Precautions (5.5); Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that prolonged use of ULTRAM during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated.
+The patient should inform their healthcare provider if they have used opioids at any time during their pregnancy [see Warnings and Precautions (5.5); Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 

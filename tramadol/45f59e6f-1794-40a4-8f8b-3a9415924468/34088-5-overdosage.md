@@ -13,6 +13,7 @@ Treatment of Overdose
 In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or serious arrhythmias will require advanced life-supporting measures.
+Because strategies for the management of overdose are continually evolving, it is advisable to contact a poison control center (where available) to determine the latest recommendations for the management of an overdose.
 
 Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
