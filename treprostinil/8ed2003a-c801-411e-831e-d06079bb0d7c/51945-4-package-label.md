@@ -137,3 +137,71 @@ Do not split, chew, crush, or break tablets.
 Pharmacist: Dispense the accompanying Patient Information Leaflet to each patient.
 
 Rx Only NDC 66302-350-02
+
+# PRINCIPAL DISPLAY PANEL - 0.125 mg 0.25 mg Titration Kit Carton - Month 1
+
+Rx Only
+
+NDC 66302-361-28
+
+Orenitram® (treprostinil) EXTENDED-RELEASE TABLETS
+
+Titration Kit
+
+Month 1
+
+0.125 mg per tablet
+
+0.25 mg per tablet
+
+Swallow whole.
+Do not split, chew, crush, or break tablets.
+
+Kit Contains: 168 tablets (126 x 0.125 mg per tablet and 42 x 0.25 mg per tablet).
+Monthly carton contains 4 individual weekly cartons each with 7 daily wallet blister packs.
+
+# PRINCIPAL DISPLAY PANEL - 0.125 mg 0.25 mg Titration Kit Carton - Month 2
+
+Rx Only
+
+NDC 66302-362-56
+
+Orenitram® (treprostinil) EXTENDED-RELEASE TABLETS
+
+Titration Kit
+
+Month 2
+
+0.125 mg per tablet
+
+0.25 mg per tablet
+
+Swallow whole.
+Do not split, chew, crush, or break tablets.
+
+Kit Contains: 336 tablets (126 x 0.125 mg per tablet and 210 x 0.25 mg per tablet).
+Monthly carton contains 4 individual weekly cartons each with 7 daily wallet blister packs.
+
+# PRINCIPAL DISPLAY PANEL - 0.125 mg 0.25 mg 1 mg Titration Kit Carton - Month 3
+
+Rx Only
+
+NDC 66302-363-84
+
+Orenitram® (treprostinil) EXTENDED-RELEASE TABLETS
+
+Titration Kit
+
+Month 3
+
+0.125 mg per tablet
+
+0.25 mg per tablet
+
+1 mg per tablet
+
+Swallow whole.
+Do not split, chew, crush, or break tablets.
+
+Kit Contains: 252 tablets (126 x 0.125 mg per tablet, 42 x 0.25 mg per tablet, and 84 × 1 mg per tablet).
+Monthly carton contains 4 individual weekly cartons each with 7 daily wallet blister packs.

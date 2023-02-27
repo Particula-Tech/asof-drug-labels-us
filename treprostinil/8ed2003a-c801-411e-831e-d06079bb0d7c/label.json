@@ -19,9 +19,17 @@
     "66302-325-10",
     "66302-350-01",
     "66302-350-02",
-    "66302-350-10"
+    "66302-350-10",
+    "66302-361-28",
+    "66302-362-56",
+    "66302-363-84"
   ],
   "products": [
+    {
+      "form": "KIT",
+      "generic": "treprostinil",
+      "name": "Orenitram"
+    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "treprostinil",

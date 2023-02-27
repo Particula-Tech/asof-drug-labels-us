@@ -3,7 +3,7 @@
 Orenitram is an extended-release osmotic tablet for oral administration.
 Orenitram is formulated as the diolamine salt of treprostinil, a tricyclic benzindene analogue of prostacyclin.
 The chemical name is Acetic acid, 2-[[(1R,2R,3aS,9aS)-2,3,3a,4,9,9a-hexahydro-2-hydroxy-1-[(3S)-3-hydroxyoctyl]-1H-benz[f]inden-5-yl]oxy]-, complexed with 2,2'-iminobis[ethanol] (1:1).
-The molecular formula is C23H34O5.C4H11NO2, the molecular weight is 495.65, and it has the following structural formula:
+The molecular formula is C23H34O5∙C4H11NO2, the molecular weight is 495.65, and it has the following structural formula:
 
 Orenitram tablets are formulated in five strengths, which contain 0.125 mg of treprostinil (equivalent to 0.159 mg treprostinil diolamine), 0.25 mg of treprostinil (equivalent to 0.317 mg treprostinil diolamine), 1 mg of treprostinil (equivalent to 1.27 mg treprostinil diolamine), 2.5 mg of treprostinil (equivalent to 3.17 mg treprostinil diolamine), or 5 mg of treprostinil (equivalent to 6.35 mg treprostinil diolamine).
 The formulations also contain xylitol, maltodextrin, sodium lauryl sulfate, magnesium stearate, cellulose acetate, triethyl citrate, polyvinyl alcohol, titanium dioxide, polyethylene glycol, and talc.
