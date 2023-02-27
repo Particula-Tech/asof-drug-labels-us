@@ -19,7 +19,7 @@ Furry tongue, glossitis, and stomatitis have occurred; these may be associated w
 
 ## Dermatologic
 
-Erythematous rash and pruritus.
+Dermatitis bullous, fixed drug eruption, erythematous rash and pruritus.
 
 ## Hematopoietic
 
@@ -32,7 +32,7 @@ Flattening of the T-wave may be seen in electrocardiographic tracings.
 
 ## Hypersensitivity
 
-Urticaria, erythematous rash, Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
+Toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
 
 ## Renal
 
