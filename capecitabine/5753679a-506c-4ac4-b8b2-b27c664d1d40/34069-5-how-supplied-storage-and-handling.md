@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Capecitabine Tablets, USP are available as follows:
+Capecitabine tablets, USP are available as follows:
 
 150 mg: Peach to light peach, oblong, film-coated, biconvex, unscored tablets, debossed with 190 on one side and 77 on the other side.
 Available in bottles of 60 tablets (NDC 0093-7473-06).
@@ -16,7 +16,7 @@ Dispense in a tight, light-resistant container as defined in the USP, with a chi
 
 KEEP TIGHTLY CLOSED.
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
 
-Capecitabine is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1 Any unused product should be disposed of in accordance with local requirements, or drug take back programs.
+Capecitabine is a hazardous drug.
+Follow applicable special handling and disposal procedures.1
