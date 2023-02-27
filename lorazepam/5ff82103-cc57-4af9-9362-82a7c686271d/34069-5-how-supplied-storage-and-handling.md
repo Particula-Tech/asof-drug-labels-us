@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Lorazepam Intensol™ Oral Concentrate USP
+Lorazepam Intensol™ Oral Concentrate, USP
 
 The 2 mg per mL oral concentrate is supplied as a clear colorless solution.
 
@@ -15,12 +15,10 @@ Dispense only in the bottle and only withthe calibrated oral syringe provided.
 
 Discard opened bottle after 90 days.
 
-Distr. by: West-Ward
+Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Pharmaceuticals Corp.
+Berkeley Heights, NJ 07922
 
-Eatontown, NJ 07724
+C50000716/01
 
-4055805//07
-
-Revised March 2021
+Revised January 2023

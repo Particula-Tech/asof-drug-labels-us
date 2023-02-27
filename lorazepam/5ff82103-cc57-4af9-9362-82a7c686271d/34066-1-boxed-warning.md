@@ -9,7 +9,7 @@
   Abuse and misuse of benzodiazepines commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes.
   Before prescribing lorazepam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (see WARNINGS).
 
-- •The continued use of benzodiazepines, including lorazepam may lead to clinically significant physical dependence.
+- •The continued use of benzodiazepines, including lorazepam, may lead to clinically significant physical dependence.
   The risks of dependence and withdrawal increase with longer treatment duration and higher daily dose.
   Abrupt discontinuation or rapid dosage reduction of lorazepam after continued use may precipitate acute withdrawal reactions, which can be life-threatening.
   To reduce the risk of withdrawal reactions, use a gradual taper to discontinue lorazepam or reduce the dosage (DOSAGE AND ADMINISTRATION and WARNINGS).
