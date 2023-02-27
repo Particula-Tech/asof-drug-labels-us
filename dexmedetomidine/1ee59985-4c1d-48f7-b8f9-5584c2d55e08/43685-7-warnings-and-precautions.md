@@ -38,14 +38,15 @@ This alone should not be considered as evidence of lack of efficacy in the absen
 Intensive Care Unit Sedation
 
 With administration up to 7 days, regardless of dose, 12 (5%) dexmedetomidine hydrochloride adult subjects experienced at least 1 event related to withdrawal within the first 24 hours after discontinuing study drug and 7 (3%) dexmedetomidine hydrochloride adult subjects experienced at least 1 event 24 to 48 hours after end of study drug.
-The most common events were nausea, vomiting, and agitation.
+The most common events were nausea, vomiting, and agitation [see Adverse Reactions (6.1)].
 
 In adult subjects, tachycardia and hypertension requiring intervention in the 48 hours following study drug discontinuation occurred at frequencies of <5%.
-If tachycardia and/or hypertension occurs after discontinuation of dexmedetomidine hydrochloride supportive therapy is indicated.
 
 Procedural Sedation
 
 In adult subjects, withdrawal symptoms were not seen after discontinuation of short-term infusions of dexmedetomidine hydrochloride (<6 hours).
+
+In pediatric patients, mild transient withdrawal symptoms of emergence delirium or agitation were seen after discontinuation of short-term infusions of dexmedetomidine hydrochloride (<2 hours) [see Adverse Reactions (6.1)].
 
 ## 5.6 Tolerance and Tachyphylaxis
 
