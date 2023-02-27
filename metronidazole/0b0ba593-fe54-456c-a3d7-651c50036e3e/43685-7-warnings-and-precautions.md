@@ -1,10 +1,13 @@
 # WARNINGS
 
+## Hypersensitivity Reactions
+
+Hypersensitivity reactions including toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
+Symptoms can be serious and potentially life threatening (see ADVERSE REACTIONS)
+
 ## Central and Peripheral Nervous System Effects
 
-### Encephalopathy and peripheral neuropathy
-
-Cases of encephalopathy and peripheral neuropathy (including optic neuropathy) have been reported with metronidazole.
+Encephalopathy and peripheral neuropathy: Cases of encephalopathy and peripheral neuropathy (including optic neuropathy) have been reported with metronidazole.
 
 Encephalopathy has been reported in association with cerebellar toxicity characterized by ataxia, dizziness, and dysarthria.
 CNS lesions seen on MRI have been described in reports of encephalopathy.
@@ -15,9 +18,7 @@ Peripheral neuropathy, mainly of sensory type has been reported and is character
 
 Convulsive seizures have been reported in patients treated with metronidazole.
 
-### Aseptic meningitis
-
-Cases of aseptic meningitis have been reported with metronidazole.
+Aseptic meningitis: Cases of aseptic meningitis have been reported with metronidazole.
 Symptoms can occur within hours of dose administration and generally resolve after metronidazole therapy is discontinued.
 
 The appearance of abnormal neurologic signs and symptoms demands the prompt evaluation of the benefit/risk ratio of the continuation of therapy (see ADVERSE REACTIONS).
