@@ -1,3 +1,3 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of FLAGYL® and other antibacterial drugs, FLAGYL should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of FLAGYL® and other antibacterial drugs, FLAGYL® should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
-LAB-0163-16.0 Revised: 12/2021
+LAB-0163-17.0 Revised: 01/2023

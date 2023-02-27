@@ -11,14 +11,14 @@ Gastrointestinal: The most common adverse reactions reported have been referable
 Mouth: A sharp, unpleasant metallic taste is not unusual.
 Furry tongue, glossitis, and stomatitis have occurred; these may be associated with a sudden overgrowth of Candida which may occur during therapy.
 
-Dermatologic: Erythematous rash and pruritus.
+Dermatologic: Dermatitis bullous, fixed drug eruption, erythematous rash and pruritus.
 
 Hematopoietic: Reversible neutropenia (leukopenia); rarely, reversible thrombocytopenia.
 
 Cardiovascular: QT prolongation has been reported, particularly when metronidazole was administered with drugs with the potential for prolonging the QT interval.
 Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-Hypersensitivity: Urticaria, erythematous rash, Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
+Hypersensitivity: Toxic epidermal necrolysis (TEN), Stevens-Johnson Syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), urticaria, erythematous rash, flushing, nasal congestion, dryness of the mouth (or vagina or vulva), and fever.
 
 Renal: Dysuria, cystitis, polyuria, incontinence, and a sense of pelvic pressure.
 Instances of darkened urine have been reported by approximately one patient in 100,000.
