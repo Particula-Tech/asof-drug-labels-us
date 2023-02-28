@@ -14,7 +14,7 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520
 
 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India Novaplus is a registered trademark of Vizient, Inc.
