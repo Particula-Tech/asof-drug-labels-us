@@ -1,6 +1,6 @@
 # INDICATIONS
 
-Valium is indicated for the management of anxiety disorders or for the short-term relief of the symptoms of anxiety.
+Valium is indicated for the management of anxiety disorders or for the short- term relief of the symptoms of anxiety.
 Anxiety or tension associated with the stress of everyday life usually does not require treatment with an anxiolytic.
 
 In acute alcohol withdrawal, Valium may be useful in the symptomatic relief of acute agitation, tremor, impending or acute delirium tremens and hallucinosis.

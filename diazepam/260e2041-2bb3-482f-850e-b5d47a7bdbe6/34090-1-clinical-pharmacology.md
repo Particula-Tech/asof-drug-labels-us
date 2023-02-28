@@ -23,14 +23,14 @@ The initial distribution phase has a half-life of approximately 1 hour, although
 
 ### Metabolism
 
-Diazepam is N-demethylated by CYP3A4 and 2C19 to the active metabolite N- desmethyldiazepam, and is hydroxylated by CYP3A4 to the active metabolite temazepam.
+Diazepam is N-demethylated by CYP3A4 and 2C19 to the active metabolite N-desmethyldiazepam, and is hydroxylated by CYP3A4 to the active metabolite temazepam.
 N-desmethyldiazepam and temazepam are both further metabolized to oxazepam.
 Temazepam and oxazepam are largely eliminated by glucuronidation.
 
 ### Elimination
 
-The initial distribution phase is followed by a prolonged terminal elimination phase (half- life up to 48 hours).
-The terminal elimination half-life of the active metabolite N- desmethyldiazepam is up to 100 hours.
+The initial distribution phase is followed by a prolonged terminal elimination phase (half-life up to 48 hours).
+The terminal elimination half-life of the active metabolite N-desmethyldiazepam is up to 100 hours.
 Diazepam and its metabolites are excreted mainly in the urine, predominantly as their glucuronide conjugates.
 The clearance of diazepam is 20 to 30 mL/min in young adults.
 Diazepam accumulates upon multiple dosing and there is some evidence that the terminal elimination half-life is slightly prolonged.
@@ -52,14 +52,14 @@ Longer half-lives in infants may be due to incomplete maturation of metabolic pa
 Elimination half-life increases by approximately 1 hour for each year of age beginning with a half-life of 20 hours at 20 years of age.
 This appears to be due to an increase in volume of distribution with age and a decrease in clearance.
 Consequently, the elderly may have lower peak concentrations, and on multiple dosing higher trough concentrations.
-It will also take longer to reach steady-state.
+It will also take longer to reach steady- state.
 Conflicting information has been published on changes of plasma protein binding in the elderly.
 Reported changes in free drug may be due to significant decreases in plasma proteins due to causes other than simply aging.
 
 #### Hepatic Insufficiency
 
 In mild and moderate cirrhosis, average half-life is increased.
-The average increase has been variously reported from 2-fold to 5-fold, with individual half-lives over 500 hours reported.
+The average increase has been variously reported from 2-fold to 5-fold, with individual half- lives over 500 hours reported.
 There is also an increase in volume of distribution, and average clearance decreases by almost half.
 Mean half-life is also prolonged with hepatic fibrosis to 90 hours (range 66 - 104 hours), with chronic active hepatitis to 60 hours (range 26 - 76 hours), and with acute viral hepatitis to 74 hours (range 49 - 129).
 In chronic active hepatitis, clearance is decreased by almost half.
