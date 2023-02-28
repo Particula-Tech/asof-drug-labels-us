@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA209638"
+  ],
+  "inn": "teriflunomide",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-054-28",
+    "59651-054-30",
+    "59651-055-28",
+    "59651-055-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "teriflunomide",
+      "name": "Teriflunomide"
+    }
+  ],
+  "setid": "2fd80242-c607-4c50-b497-8259abb4a2f8",
+  "source": "dailymed"
+}
