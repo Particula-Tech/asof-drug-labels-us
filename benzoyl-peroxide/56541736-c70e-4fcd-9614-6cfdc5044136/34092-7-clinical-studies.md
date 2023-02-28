@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of Adapalene and Benzoyl Peroxide gel applied once daily for 12 weeks for the treatment of acne vulgaris were assessed in a multicenter, randomized, double-blind, vehicle-controlled study, comparing Adapalene and Benzoyl Peroxide gel to vehicle gel in subjects with acne vulgaris.
-The study also evaluated Adapalene and Benzoyl Peroxide gel, 0.1%/2.5%, a lower strength product than Adapalene and Benzoyl Peroxide gel, 0.3%/2.5%.
-In this study, 217 subjects were treated with Adapalene and Benzoyl Peroxide gel 0.3%/2.5%, 217 subjects with Adapalene and Benzoyl Peroxide, gel, 0.1%/2.5% and 69 subjects with the vehicle gel.
+The safety and efficacy of Adapalene and Benzoyl Peroxide gel applied once daily for 12 weeks for the treatment of acne vulgaris were assessed in a multicenter, randomized, double-blind, vehicle-controlled trial, comparing Adapalene and Benzoyl Peroxide gel to vehicle gel in subjects with acne vulgaris.
+The trial also evaluated adapalene and benzoyl peroxide gel, 0.1%/2.5%, a lower strength product than Adapalene and Benzoyl Peroxide gel, 0.3%/2.5%.
+In this trial, 217 subjects were treated with Adapalene and Benzoyl Peroxide gel, 217 subjects with adapalene and benzoyl peroxide, gel, 0.1%/2.5% and 69 subjects with the vehicle gel.
 
-Treatment response was defined as the percent of subjects who were rated “clear” or “almost clear” at Week 12 with at least a two-grade improvement based on the Investigator’s Global Assessment (IGA), and mean absolute change from baseline at Week 12 in both inflammatory and non-inflammatory lesion counts.
+Treatment response was defined as the percent of subjects who were rated “clear” or “almost clear’ at Week 12 with at least a two-grade improvement based on the Investigator’s Global Assessment (IGA), and mean absolute change from baseline at Week 12 in both inflammatory and non-inflammatory lesion counts.
 An IGA score of ‘Clear’ corresponded to clear skin with no inflammatory or non-inflammatory lesions.
 An IGA score of “almost clear” corresponded to a few scattered comedones and a few small papules.
 
@@ -24,6 +24,6 @@ Clinical Efficacy of Adapalene and Benzoyl Peroxide Gel at Week 12 in Subjects w
 | Inflammatory lesions: mean absolute (percent) reduction | 27.8 (68.7%) | 26.5 (69.3%) | 13.2 (39.2%) |
 | Non-inflammatory lesions: mean absolute (percent) reduction | 40.5 (68.3%) | 40.0 (68.0%) | 19.7 (37.4%) |
 
-* This study was not designed or powered to compare the efficacy of Adapalene and Benzoyl Peroxide gel to the lower strength Adapalene and Benzoyl Peroxide gel, 0.1%/2.5%, nor to compare the lower strength adapalene and Benzoyl Peroxide Gel, 0.1%/2.5% to the vehicle control.
+* This trial was not designed or powered to compare the efficacy of Adapalene and Benzoyl Peroxide gel to the lower strength Adapalene and Benzoyl Peroxide gel, 0.1%/2.5%, nor to compare the lower strength adapalene and Benzoyl Peroxide Gel, 0.1%/2.5% to the vehicle control.
 
 In subjects graded as “severe” (IGA Grade 4), efficacy was observed in the Adapalene and Benzoyl Peroxide group.

@@ -2,7 +2,7 @@
 
 NDC 68308-662-45
 
-Adapalene and Benzoyl Peroxide Gel 0.3%/2.5%
+Adapalene and Benzoyl Peroxide Topical Gel 0.3%/2.5%
 
 PUMP
 
@@ -28,10 +28,10 @@ Distributed by:
 
 Mayne Pharma
 
-Greenville, NC 27834
+Raleigh, NC 27609
 
 Product of Canada
 
 All trademarks are the property of their respective owners
 
-10174-1221
+P57032-1

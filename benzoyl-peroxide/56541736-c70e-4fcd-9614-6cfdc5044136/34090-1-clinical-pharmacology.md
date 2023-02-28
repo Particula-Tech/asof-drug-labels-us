@@ -18,10 +18,12 @@ Pharmacodynamics of Adapalene and Benzoyl Peroxide gel is unknown.
 
 ## 12.3 Pharmacokinetics
 
-A pharmacokinetic study was conducted in 26 adult and adolescent subjects (12 to 33 years of age) with severe acne vulgaris who were treated with once-daily applications during a 4-week period with, on average, 2.3 grams/day (range 1.6-3.1 grams/day) of Adapalene and Benzoyl Peroxide gel applied as a thin layer to the face, shoulders, upper chest, and upper back.
+A pharmacokinetic trial was conducted in 26 adult and adolescent subjects (12 to 33 years of age) with severe acne vulgaris who were treated with once-daily applications during a 4-week period with, on average, 2.3 grams/day (range 1.6-3.1 grams/day) of Adapalene and Benzoyl Peroxide gel applied as a thin layer to the face, shoulders, upper chest, and upper back.
 
 After a 4-week treatment, 16 subjects (62%) had quantifiable adapalene plasma concentrations above the limit of quantification of 0.1 ng/mL, with a mean Cmax of 0.16 ± 0.08 ng/mL and a mean AUC0-24hr of 2.49 ± 1.21 ng.h/mL.
 The most exposed subject had adapalene Cmax and AUC0-24hr of 0.35 ng/mL and 6.41 ng.h/mL, respectively.
 Excretion of adapalene appears to be primarily by the biliary route.
 
 Benzoyl peroxide is absorbed by the skin where it is converted to benzoic acid and eliminated in the urine.
+
+Drug Interactions No formal drug-drug interaction studies were conducted with Adapalene and Benzoyl Peroxide gel.

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Adapalene and Benzoyl Peroxide (adapalene and benzoyl peroxide) gel, 0.3%/2.5% is a white to very pale yellow, opaque gel for topical use containing adapalene 0.3% and benzoyl peroxide 2.5%.
+Adapalene and Benzoyl Peroxide gel, 0.3%/2.5% is a white to very pale yellow, opaque gel for topical use containing adapalene 0.3% and benzoyl peroxide 2.5%.
 Adapalene, a synthetic retinoid, is a naphthoic acid derivative with retinoid-like properties.
 The chemical name for adapalene is (6-[3-(1-adamantyl)-4-methoxyphenyl]-2-naphthoic acid).
 It has the following structural formula:
