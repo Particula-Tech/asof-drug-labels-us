@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 - Valacyclovir tablets may be given without regard to meals.
-- Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500 mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
+- Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500 mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration(2.3)].
 
 ## 2.1 Adult Dosing Recommendations
 
@@ -62,7 +62,7 @@ Instructions for Preparing Suspension at Time of Dispensing
 
 ## 2.4 Patients with Renal Impairment
 
-Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5, 8.6), Clinical Pharmacology (12.3)].
+Dosage recommendations for adult patients with reduced renal function are provided in Table 1 [see Use in Specific Populations (8.5,8.6), Clinical Pharmacology (12.3)].
 Data are not available for the use of valacyclovir tablets in pediatric patients with a creatinine clearance less than 50 mL/min/1.73 m2.
 Table 1.
 Valacyclovir Tablets Dosage Recommendations for Adults with Renal Impairment
@@ -70,7 +70,7 @@ Valacyclovir Tablets Dosage Recommendations for Adults with Renal Impairment
 | Indications | Normal Dosage Regimen (Creatinine Clearance ≥ 50 mL/min) | Creatinine Clearance (mL/min) |  |  |
 | --- | --- | --- | --- | --- |
 | 30-49 | 10-29 | <10 |  |  |
-| Cold sores (Herpes Labialis)Do not exceed 1 day of treatment. | Two 2 gram doses taken 12 hours apart | Two 1 gram doses taken 12 hours apart | Two 500 mg doses taken 12 hours apart | 500 mg single dose |
+| Cold sores (Herpes Labialis) Do not exceed 1 day of treatment. | Two 2 gram doses taken 12 hours apart | Two 1 gram doses taken 12 hours apart | Two 500 mg doses taken 12 hours apart | 500 mg single dose |
 | Genital herpes: Initial episode | 1 gram every 12 hours | no reduction | 1 gram every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Suppressive therapy |  |  |  |  |

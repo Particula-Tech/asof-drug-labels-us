@@ -45,7 +45,7 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes Tr
 
 | Laboratory Abnormality | Herpes Zoster |  | Genital Herpes Treatment |  |  | Genital Herpes Suppression |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Valacyclovir Hydrochloride 1 gram 3 Times Daily(n = 967) | Placebo(n = 195) | Valacyclovir Hydrochloride 1 gram Twice Daily (n = 1,194) | Valacyclovir Hydrochloride 500 mg Twice Daily(n = 1,159) | Placebo(n = 439) | Valacyclovir Hydrochloride 1 gram Once Daily (n = 269) | Valacyclovir Hydrochloride 500 mg Once Daily (n = 266) | Placebo (n = 134) |  |
+| Valacyclovir Hydrochloride 1 gram 3 Times Daily(n = 967) | Placebo (n = 195) | Valacyclovir Hydrochloride 1 gram Twice Daily (n = 1,194) | Valacyclovir Hydrochloride 500 mg Twice Daily(n = 1,159) | Placebo(n = 439) | Valacyclovir Hydrochloride 1 gram Once Daily (n = 269) | Valacyclovir Hydrochloride 500 mg Once Daily (n = 266) | Placebo (n = 134) |  |
 | Hemoglobin (<0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
 | White blood cells (<0.75 x LLN) | 1.3% | 0.6% | 0.7% | 0.6% | 0.2% | 0.7% | 0.8% | 1.5% |
 | Platelet count (<100,000/mm3) | 1.0% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
@@ -83,7 +83,7 @@ General
 Facial edema, hypertension, tachycardia.
 Allergic
 
-Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [see Contraindications (4)].
+Acute hypersensitivity reactions including anaphylaxis, angioedema, dyspnea, pruritus, rash, and urticaria [seeContraindications (4)].
 Central Nervous System (CNS) Symptoms
 
 Aggressive behavior; agitation; ataxia; coma; confusion; decreased consciousness; dysarthria; encephalopathy; mania; and psychosis, including auditory and visual hallucinations, seizures, tremors [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), (8.6)].

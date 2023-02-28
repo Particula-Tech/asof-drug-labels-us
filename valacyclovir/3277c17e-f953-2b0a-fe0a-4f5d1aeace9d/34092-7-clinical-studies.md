@@ -38,14 +38,14 @@ Suppressive Therapy
 Two clinical trials were conducted, one in immunocompetent adults and one in HIV-1−infected adults.
 
 A double-blind, 12-month, placebo-and active-controlled trial enrolled immunocompetent adults with a history of 6 or more recurrences per year.
-Outcomes for the overall trial population are shown in Table 5.
+Outcomes for the overall trial population are shown in Table 8.
 
-Table 5.
+Table 8.
 Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 | Outcome | 6 Months |  |  | 12 Months |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Valacyclovir Hydrochloride 1 gram Once Daily (n = 269) | Oral Acyclovir 400 mg Twice Daily(n = 267) | Placebo(n = 134) | Valacyclovir Hydrochloride 1 gram Once Daily (n = 269) | Oral Acyclovir 400 mg Twice Daily(n = 267) | Placebo(n = 134) |  |
+| Valacyclovir Hydrochloride 1 gram Once Daily (n = 269) | Oral Acyclovir 400 mg Twice Daily(n = 267) | Placebo (n = 134) | Valacyclovir Hydrochloride 1 gram Once Daily (n = 269) | Oral Acyclovir 400 mg Twice Daily (n = 267) | Placebo (n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
 | Unknowna | 10% | 10% | 10% | 19% | 19% | 10% |
@@ -58,8 +58,7 @@ In a second trial, 293 HIV-1−infected adults on stable antiretroviral therapy 
 The median duration of recurrent genital herpes in enrolled subjects was 8 years, and the median number of recurrences in the year prior to enrollment was 5.
 Overall, the median pretrial HIV-1 RNA was 2.6 log10 copies/mL.
 Among subjects who received valacyclovir hydrochloride, the pretrial median CD4+ cell count was 336 cells/mm3; 11% had less than 100 cells/mm3, 16% had 100 to 199 cells/mm3, 42% had 200 to 499 cells/mm3, and 31% had greater than or equal to 500 cells/mm3.
-Outcomes for the overall trial population are shown in Table 6.
-Table 6.
+Outcomes for the overall trial population are shown in Table 9 Table 9.
 Recurrence Rates in HIV-1 Infected Adults at 6 Months
 
 | Outcome | Valacyclovir Hydrochloride 500 mg Twice Daily (n = 194) | Placebo (n = 99) |
@@ -79,9 +78,9 @@ Both partners were counseled on safer sex practices and were advised to use cond
 Source partners were randomized to treatment with either valacyclovir hydrochloride 500 mg once daily or placebo once daily for 8 months.
 The primary efficacy endpoint was symptomatic acquisition of HSV-2 in susceptible partners.
 Overall HSV-2 acquisition was defined as symptomatic HSV-2 acquisition and/or HSV-2 seroconversion in susceptible partners.
-The efficacy results are summarized in Table 7.
+The efficacy results are summarized in Table 10.
 
-Table 7.
+Table 10.
 Percentage of Susceptible Partners Who Acquired HSV‑2 Defined by the Primary and Selected Secondary Endpoints
 
 | Endpoint | Valacyclovir Hydrochloridea (n = 743) | Placebo (n = 741) |

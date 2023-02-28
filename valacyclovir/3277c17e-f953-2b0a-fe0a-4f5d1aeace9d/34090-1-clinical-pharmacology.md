@@ -127,11 +127,47 @@ In Cell Culture: Acyclovir-resistant HSV-1, HSV-2, and VZV strains were isolated
 Acyclovir-resistant HSV and VZV resulted from mutations in the viral thymidine kinase (TK, pUL23) and DNA polymerase (POL; pUL30) genes.
 Frameshifts were commonly isolated and result in premature truncation of the HSV TK product with consequent decreased susceptibility to acyclovir.
 Mutations in the viral TK gene may lead to complete loss of TK activity (TK negative), reduced levels of TK activity (TK partial), or alteration in the ability of viral TK to phosphorylate the drug without an equivalent loss in the ability to phosphorylate thymidine (TK altered).
+In cell culture, acyclovir resistance-associated substitutions in TK of HSV-1 and HSV-2 were observed (Table 5).
 
-HSV-Infected Patients: Clinical HSV-1 and HSV-2 isolates obtained from patients who failed treatment for their α-herpes virus infections were evaluated for genotypic changes in the TK and POL genes and for phenotypic resistance to acyclovir.
+Table 5.
+Summary of Acyclovir Resistance-Associated Amino Acid Substitutions in Cell Culture
+
+| Virus | Gene | Substitution |
+| --- | --- | --- |
+| HSV-1 | TK | P5A, H7Q, L50V, G56V, G59R/V/W/A, G61A/V, K62I/N, T63A, E83K, P84L/S, R89W, D116N, P131S, P155R, F161I/C, R163H/P, A167V, P173L, R176Q/W, Q185R, A189L/V, G200S, G206R, R216S, R220H, L227F, Y239S, T245M, Q261stop, R281stop, T287M, M322K, C336Y, V348A |
+| HSV-2 | TK | L69P, C172R, A175V, T288M |
+| HSV-1 | POL | D368A, Y557S, E597D, V621S, L702H, A719V, S742N, N815S, V817M, Y818C, G841C/S |
+| HSV-2 | POL | No substitutions detected |
+
+HSV-Infected Patients: Clinical HSV-1 and HSV-2 isolates obtained from patients who failed treatment for their α-herpes virus infections were evaluated for genotypic changes in the TK and POL genes and for phenotypic resistance to acyclovir (Table 6).
 HSV isolates with frameshift mutations and resistance-associated substitutions in TK and POL were identified.
-The possibility of viral resistance to acyclovir should be considered in patients who fail to respond or experience recurrent viral shedding during therapy.
+The listing of substitutions in the HSV TK and POL leading to decreased susceptibility to acyclovir is not all inclusive and additional changes will likely be identified in HSV variants isolated from patients who fail acyclovir-containing regimens The possibility of viral resistance to acyclovir should be considered in patients who fail to respond or experience recurrent viral shedding during therapy.
+
+Table 6.
+Summary of Acyclovir Resistance-Associated Amino Acid Substitutions Observed in Treated Patients
+
+| Virus | Gene | Substitution |
+| --- | --- | --- |
+| HSV-1 | TK | G6C, R32H, R41H, R51W, Y53C/D/H, Y53stop, D55N, G56D/E/S, P57H, G58N/R, G59R, G61A/E/W, K62N, T63I, Q67stop, S74stop, Y80N, E83K, P84L, Y87H, E95stop, T103P, Q104H, Q104stop, H105P, M121K/L/R, Q125N, M128L, G129D, I143V, A156V, D162A/H/N, R163G/H, L170P, Y172C, P173L/R, A174P, A175V, R176Q/W, R176stop, L178R, S181N, A186P, V187M, A189V, V192A, G200C/D/S, T201P, T202A, V204G, A207P, L208F/H, R216C/H, R220C/H, R221C/H, R222C/H, E226K, D229H, L242P, T245M/P, L249P, Q250stop, C251G, E257K, Q261R, A265T, R281stop, T287M, L288stop, L291R, L297S, L315S, L327R, C336Y, C336stop, Q342stop, T354P, L364P, A365T |
+| HSV-2 | TK | G25A, R34C, G39E, R51W, Y53N/D, G59P, G61A/E/W, S66P, A72S, D78N, P85S, R86P, A94V, L98stop, N100H, I101S, Q103stop, Q105P, A125T, T131P, Y133F, D137stop, F140L, L158P, S169P, R177W, S182N, M183Istop, V192M, G201D, R217H, R221C/H, Q222stop, R223H, D229stop, Y239stop, D231N, L263stop, R271V, P272S, D273R, T287M, C337Y |
+| HSV-1 | POL | K532T, S559L, Q570R, L583V, A605V, V621S, A657T, D672N, V715G, A719T/V, S724N, F733C, E771Q, S775N, L778M, E798K, V813M, N815S, G841S, R842S, I890M, V958L, H1228D |
+| HSV-2 | POL | E250Q, D307N, K533E, A606V, C625R, R628C, E678G, A724V, S725G, S729N, I731F, Q732R, D785N, M789K/T, V818A, N820S, Y823C, Q829R, T843A, M910T, D912N/V, A915V, F923L, T934A, R964H |
+
+Note: Many additional pathways to acyclovir resistance likely exist.
 
 Cross-Resistance
 
-Cross-resistance has been observed among HSV isolates carrying frameshift mutations and resistance-associated substitutions, which confer reduced susceptibility to penciclovir, famciclovir, and foscarnet.
+Cross-resistance has been observed among HSV isolates carrying frameshift mutations and resistance-associated substitutions, which confer reduced susceptibility to penciclovir (PCV), famciclovir (FCV), and foscarnet (FOS).
+(Table 7)
+
+Table 7.
+Summary of Acyclovir Resistance-Associated Amino Acid Substitutions Conferring Cross-Resistance to PCV, FCV or FOS
+
+| Cross-Resistant Drug | Virus/Gene | Substitution |
+| --- | --- | --- |
+| PCV-FCV | HSV-1 TK | G6C, R32H, R51W, Y53C/H/N, H58N, G61A, S74stop, E83K, P84L, T103P, Q104stop, D116N, M121R, I143V, P155R, R163G/H, A167V, L170P, Y172C, P173L, A174P, R176Q/W, Q185R, A186P, A189L/V, G200D/S, G206R, L208H, R216C, R220H, R222C/H, Y239S, T245M, Q250stop, Q261stop, R281stop, T287M, L315S, M322K, C336Y, V348A |
+|  | HSV-1 POL | A657T, D672N, V715G, A719V, S724N, E798K, N815S, G841C/S |
+|  | HSV-2 TK | G39E, R51W, Y53N, R86P, Y133F, R177W, R221H, T288M |
+|  | HSV-2 POL | K533E, A606V, C625R, R628C, S729N, Q732R, M789K/T, V818A, N820S, F923L, T934A |
+| FOS | HSV-1 POL | D368A, A605V, D672N, L702H, V715G, A719T/V, S724N, L778M, E798K, V813M, N815S, V817M, G841C/S, I890M |
+|  | HSV-2 POL | K533E, A606V, C625R, R628C, A724V, S725G, S729N, I731F, Q732R, M789K/T, V818A, Y823C, D912V, F923L, T934A, R964H |
