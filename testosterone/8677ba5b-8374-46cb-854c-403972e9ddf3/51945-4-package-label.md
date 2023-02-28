@@ -1,44 +1,6 @@
 NDC 0051–8462–31
 
-Clear, colorless gel provides transdermal delivery of testosterone through the skin of the shoulders, and upper arms*
-
-AndroGel® (testosterone gel) 1.62% CIII
-
-30 Unit-dose Packets
-
-Contains 20.25 mg of testosterone in 1.25 Grams of gel per unit dose
-
-Rx only
-
-For Topical Use Only
-
-Topical testosterone products may have different doses, strengths, or application instructions that may result in different systemic exposure.
-Dispense the enclosed Medication Guide to each patient.
-
-*See accompanying package insert.
-
-abbvie
-
 NDC 0051–8462–30
-
-Clear, colorless gel provides transdermal delivery of testosterone through the skin of the shoulders, and upper arms*
-
-AndroGel® (testosterone gel) 1.62% CIII
-
-30 Unit-dose Packets
-
-Contains 40.5 mg of testosterone in 2.5 Grams of gel per unit dose
-
-Rx Only
-
-For Topical Use Only
-
-Topical testosterone products may have different doses, strengths, or application instructions that may result in different systemic exposure.
-Dispense the enclosed Medication Guide to each patient.
-
-* See accompanying package insert.
-
-abbvie
 
 NDC 0051–8462–33
 
