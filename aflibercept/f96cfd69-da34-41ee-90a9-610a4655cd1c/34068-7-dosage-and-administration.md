@@ -7,7 +7,7 @@ EYLEA must only be administered by a qualified physician.
 
 Pre-filled Syringe: A 30-gauge × ½-inch sterile injection needle is needed but not provided.
 
-Vial: A 5-micron sterile filter needle (19-gauge × 1½-inch), a 1-mL Luer lock syringe and a 30-gauge × ½-inch sterile injection needle are needed.
+Vial: A 5-micron sterile filter needle (18-gauge × 1½-inch), a 1-mL Luer lock syringe and a 30-gauge × ½-inch sterile injection needle are needed.
 
 EYLEA is available packaged as follows:
 
@@ -81,7 +81,8 @@ To eliminate all bubbles and to expel excess drug, slowly depress the plunger ro
 | Figure 5a: | Figure 5b: |
 | --- | --- |
 
-7 The pre-filled syringe is for single use only.
+7.
+The pre-filled syringe is for single use only.
 After injection any unused product must be discarded.
 
 ## 2.3 Preparation for Administration - Vial
@@ -95,7 +96,7 @@ Use aseptic technique to carry out the following preparation steps:
 
 Prepare for intravitreal injection with the following medical devices for single use:
 
-- a 5-micron sterile filter needle (19-gauge × 1½-inch)
+- a 5-micron sterile filter needle (18-gauge × 1½-inch)
 - a 1-mL sterile Luer lock syringe with marking to measure 0.05 mL for adults or 0.01 mL for pre-term infants with ROP
 - a sterile injection needle (30-gauge × ½-inch)
 
@@ -103,7 +104,7 @@ Prepare for intravitreal injection with the following medical devices for single
    Figure 6:
 2. Clean the top of the vial with an alcohol wipe (see Figure 7).
    Figure 7:
-3. Remove the 19-gauge × 1½-inch, 5-micron, filter needle and the 1-mL syringe from their packaging.
+3. Remove the 18-gauge × 1½-inch, 5-micron, filter needle and the 1-mL syringe from their packaging.
    Attach the filter needle to the syringe by twisting it onto the Luer lock syringe tip (see Figure 8).
    Figure 8:
 4. Push the filter needle into the center of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
@@ -175,7 +176,7 @@ Recommended Dosage
 The recommended dose for EYLEA is 0.4 mg (0.01 mL or 10 microliters) administered by intravitreal injection.
 Treatment is initiated with a single injection per eligible eye and may be given bilaterally on the same day.
 Injections may be repeated in each eye.
-The treatment interval between doses injected into the same eye should be at least 10 days[see Clinical Pharmacology (12.3) and Clinical Studies (14.6)].
+The treatment interval between doses injected into the same eye should be at least 10 days [see Clinical Pharmacology (12.3) and Clinical Studies (14.6)].
 
 Administration Instructions in Pre-Term Infants with ROP
 

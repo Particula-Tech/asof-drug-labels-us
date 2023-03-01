@@ -6,7 +6,7 @@ EYLEA is supplied in the following presentations [see Dosage and Administration 
 | NDC NUMBER | CARTON TYPE | CARTON CONTENTS |
 | --- | --- | --- |
 | 61755-005-01 | Pre-filled Syringe | one blister pack containing one EYLEA 2 mg/0.05 mL sterile, single-dose pre-filled glass syringe one package insert |
-| 61755-005-02 | Vial Kit with Injection Components | one EYLEA 2 mg/0.05 mL single-dose glass vial one 19-gauge × 1½-inch, 5-micron, filter needle for withdrawal of the vial contents one 30-gauge × ½-inch injection needle for intravitreal injection one 1-mL syringe for administration one package insert |
+| 61755-005-02 | Vial Kit with Injection Components | one EYLEA 2 mg/0.05 mL single-dose glass vial one 18-gauge × 1½-inch, 5-micron, filter needle for withdrawal of the vial contents one 30-gauge × ½-inch injection needle for intravitreal injection one 1-mL syringe for administration one package insert |
 
 Storage
 
