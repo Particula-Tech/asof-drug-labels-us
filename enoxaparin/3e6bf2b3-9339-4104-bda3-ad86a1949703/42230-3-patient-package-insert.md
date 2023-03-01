@@ -168,7 +168,9 @@ For more information about safe sharps disposal, and for specific information ab
 
 Figure N
 
-Amphastar Pharmaceuticals, Inc. Rancho Cucamonga, CA 91730 U.S.A. Rev.
+Amphastar Pharmaceuticals, Inc.
+
+Rancho Cucamonga, CA 91730 U.S.A. Rev.
 09/22 6756016B/9-22
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.

@@ -122,7 +122,9 @@ You may report side effects to FDA at 1-800-FDA-1088
 
 AMPHASTAR PHARMACEUTICALS, INC.
 
-Rancho Cucamonga, CA 91730, U.S.A. Made in U.S.A. © 2018
+Rancho Cucamonga, CA 91730, U.S.A. Made in U.S.A.
+
+© 2018
 
 # PRINCIPAL DISPLAY PANEL: 10 x 120 mg Syringe Carton
 
