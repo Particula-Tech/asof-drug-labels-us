@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA216109"
+  ],
+  "inn": "cefazolin",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9139-25",
+    "0143-9140-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefazolin",
+      "name": "Cefazolin"
+    },
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "cefazolin",
+      "name": "Cefazolin"
+    }
+  ],
+  "setid": "6c7761d3-c154-4802-9876-627cd42913f0",
+  "source": "dailymed"
+}
