@@ -10,16 +10,16 @@ The Fludeoxyglucose F 18 Injection doses in the studies ranged from 200 MBq to 7
 In the studies, the diagnostic performance of Fludeoxyglucose F 18 Injection varied with the type of cancer, size of cancer, and other clinical conditions.
 False negative and false positive scans were observed.
 Negative Fludeoxyglucose F 18 Injection PET scans do not exclude the diagnosis of cancer.
-Positive Fludeoxyglucose F 18 Injection PET scans can not replace pathology to establish a diagnosis of cancer.
+Positive Fludeoxyglucose F 18 Injection PET scans cannot replace pathology to establish a diagnosis of cancer.
 Non-malignant conditions such as fungal infections, inflammatory processes and benign tumors have patterns of increased glucose metabolism that may give rise to false-positive scans.
 The efficacy of Fludeoxyglucose F 18 Injection PET imaging in cancer screening was not studied.
 
 ## 14.2 Cardiology
 
 The efficacy of Fludeoxyglucose F 18 Injection for cardiac use was demonstrated in ten independent, prospective studies of patients with coronary artery disease and chronic left ventricular systolic dysfunction who were scheduled to undergo coronary revascularization.
-Before revascularization, patients underwent PET imaging with Fludeoxyglucose F 18 Injection (74 – 370 MBq, 2 – 10 mCi) and perfusion imaging with other diagnostic radiopharmaceuticals.
-Doses of Fludeoxyglucose F 18 Injection ranged from 74-370 MBq (2-10 mCi).
-Segmental, left ventricular, wall-motion assessments of asynergic areas made before revascularization were compared in a blinded manner to assessments made after successful revascularization to identify myocardial segments with functional recovery.
+Before revascularization, patients underwent PET imaging with Fludeoxyglucose F 18 Injection (74 to 370 MBq, 2 to 10 mCi) and perfusion imaging with other diagnostic radiopharmaceuticals.
+Doses of Fludeoxyglucose F 18 Injection ranged from 74 to 370 MBq (2 to10 mCi).
+Segmental, left ventricular, wall-motion assessments of asynergic areas made before revascularization were compared in a blinded manner to assessments made after successful revascularization to identify myocardial segments with function recovery.
 
 Left ventricular myocardial segments were predicted to have reversible loss of systolic function if they showed Fludeoxyglucose F 18 accumulation and reduced perfusion (i.e., flow-metabolism mismatch).
 Conversely, myocardial segments were predicted to have irreversible loss of systolic function if they showed reductions in both Fludeoxyglucose F 18 accumulation and perfusion (i.e., matched defects).
@@ -34,8 +34,8 @@ Therefore, in patients with a low likelihood of successful revascularization, th
 ## 14.3 Neurology
 
 In a prospective, open label trial, Fludeoxyglucose F 18 Injection was evaluated in 86 patients with epilepsy.
-Each patient received a dose of Fludeoxyglucose F 18 Injection in the range of 185-370 MBq (5-10 mCi).
-The mean age was 16.4 years (range: 4 months - 58 years; of these, 42 patients were less than 12 years and 16 patients were less than 2 years old).
+Each patient received a dose of Fludeoxyglucose F 18 Injection in the range of 185 to 370 MBq (5 to 10 mCi).
+The mean age was 16.4 years (range: 4 months to 58 years; of these, 42 patients were less than 12 years and 16 patients were less than 2 years old).
 Patients had a known diagnosis of complex partial epilepsy and were under evaluation for surgical treatment of their seizure disorder.
 Seizure foci had been previously identified on ictal EEGs and sphenoidal EEGs.
 Fludeoxyglucose F 18 Injection PET imaging confirmed previous diagnostic findings in 16% (14/87) of the patients; in 34% (30/87) of the patients, Fludeoxyglucose F 18 Injection PET images provided new findings.

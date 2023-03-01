@@ -6,7 +6,7 @@ Fludeoxyglucose F 18 is a glucose analog that concentrates in cells that rely up
 Fludeoxyglucose F 18 is transported through the cell membrane by facilitative glucose transporter proteins and is phosphorylated within the cell to [18F] FDG-6-phosphate by the enzyme hexokinase.
 Once phosphorylated it cannot exit until it is dephosphorylated by glucose-6-phosphatase.
 Therefore, within a given tissue or pathophysiological process, the retention and clearance of Fludeoxyglucose F 18 reflect a balance involving glucose transporter, hexokinase and glucose-6-phosphatase activities.
-When allowance is made for the kinetic differences between glucose and Fludeoxyglucose F 18 transport and phosphorylation (expressed as the "lumped constant" ratio), Fludeoxyglucose F 18 is used to assess glucose metabolism.
+Fludeoxyglucose F 18 is used to assess glucose metabolism.
 
 In comparison to background activity of the specific organ or tissue type, regions of decreased or absent uptake of Fludeoxyglucose F 18 reflect the decrease or absence of glucose metabolism.
 Regions of increased uptake of Fludeoxyglucose F 18 reflect greater than normal rates of glucose metabolism.
@@ -34,28 +34,25 @@ Interictally, the seizure focus tends to be hypometabolic.
 ## 12.3 Pharmacokinetics
 
 Distribution: In four healthy male volunteers, receiving an intravenous administration of 30 seconds in duration, the arterial blood level profile for Fludeoxyglucose F 18 decayed triexponentially.
-The effective half-life ranges of the three phases were 0.2-0.3 minutes, 10-13 minutes with a mean and standard deviation (STD) of 11.6 (±) 1.1 min, and 80-95 minutes with a mean and STD of 88 (±) 4 min.
+The effective half-life ranges of the three phases were 0.2 to 0.3 minutes, 10 to 13 minutes with a mean and standard deviation (STD) of 12 ±(1) min, and 80 to 95 minutes with a mean and STD of 88 (±) 4 min.
 
 Plasma protein binding of Fludeoxyglucose F 18 has not been studied.
 
-Metabolism: Fludeoxyglucose F 18 is transported into cells and phosphorylated to [18F]FDG-6-phosphate at a rate proportional to the rate of glucose utilization within that tissue.
+Metabolism: Fludeoxyglucose F 18 is transported into cells and phosphorylated to [F 18]-FDG-6-phosphate at a rate proportional to the rate of glucose utilization within that tissue.
 [F 18]-FDG-6-phosphate presumably is metabolized to 2-deoxy-2-[F 18]fluoro-6-phospho-D-mannose ([F 18]FDM-6-phosphate).
 
-Fludeoxyglucose F 18 Injection may contain several impurities (e.g., 2-deoxy-2-chloro-D-glucose (ClDG)).
-Biodistribution and metabolism of ClDG are presumed to be similar to Fludeoxyglucose F 18 and would be expected to result in intracellular formation of 2-deoxy-2-chloro-6-phospho-D-glucose (ClDG-6-phosphate) and 2-deoxy-2-chloro-6-phospho-D-mannose (ClDM-6-phosphate).
-The phosphorylated deoxyglucose compounds are dephosphorylated and the resulting compounds (FDG, FDM, ClDG, and ClDM) presumably leave cells by passive diffusion.
+Fludeoxyglucose F 18 Injection may contain several impurities (e.g., 2-deoxy-2-chloro-D-glucose (C1DG)).
+Biodistribution and metabolism of C1DG are presumed to be similar to Fludeoxyglucose F 18 and would be expected to result in intracellular formation of 2-deoxy-2-chloro-6-phospho-D-glucose (C1DG-6-phosphate) and 2-deoxy-2-chloro-6-phospho-D-mannose (C1DM-6-phosphate).
+The phosphorylated deoxyglucose compounds are dephosphorylated and the resulting compounds (FDG, FDM, C1DG, and C1DM) presumably leave cells by passive diffusion.
 Fludeoxyglucose F 18 and related compounds are cleared from non-cardiac tissues within 3 to 24 hours after administration.
 Clearance from the cardiac tissue may require more than 96 hours.
 Fludeoxyglucose F 18 that is not involved in glucose metabolism in any tissue is then excreted in the urine.
 
 Elimination: Fludeoxyglucose F 18 is cleared from most tissues within 24 hours and can be eliminated from the body unchanged in the urine.
-Three elimination phases have been identified in the reviewed literature.
-Within 33 minutes, a mean of 3.9% of the administrated radioactive dose was measured in the urine.
+Within 33 minutes, a mean of 3.9% of the administered radioactive dose was measured in the urine.
 The amount of radiation exposure of the urinary bladder at two hours post-administration suggests that 20.6% (mean) of the radioactive dose was present in the bladder.
 
-Special Populations:
-
-The pharmacokinetics of Fludeoxyglucose F 18 Injection have not been studied in renally-impaired, hepatically impaired or pediatric patients.
+Special Populations: The pharmacokinetics of Fludeoxyglucose F 18 Injection have not been studied in renally-impaired, hepatically impaired or pediatric patients.
 Fludeoxyglucose F 18 is eliminated through the renal system.
 Avoid excessive radiation exposure to this organ system and adjacent tissues.
 
