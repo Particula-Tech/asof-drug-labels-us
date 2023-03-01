@@ -27,7 +27,7 @@ Risk Summary
 
 No data are available regarding the presence of bevacizumab products in human milk, the effects on the breast fed infant, or the effects on milk production.
 Human IgG is present in human milk, but published data suggest that breast milk antibodies do not enter the neonatal and infant circulation in substantial amounts.
-Because of the potential for serious adverse reactions in breastfed infants from bevacizumab products, advise women not to breastfeed during treatment with ZIRABEV and for 6 months after the last dose.
+Because of the potential for serious adverse reactions in breastfed infants, advise women not to breastfeed during treatment with ZIRABEV and for 6 months after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 

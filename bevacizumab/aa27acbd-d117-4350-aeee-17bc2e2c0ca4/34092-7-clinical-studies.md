@@ -206,10 +206,10 @@ A total of 452 patients were randomized (1:1:1:1) to receive paclitaxel and cisp
 
 The dosing regimens for bevacizumab, paclitaxel, cisplatin and topotecan were as follows:
 
-- Day 1: Paclitaxel 135 mg/m2 over 24 hours, Day 2: cisplatin 50 mg/m2 with bevacizumab;
-- Day 1: Paclitaxel 175 mg/m2 over 3 hours, Day 2: cisplatin 50 mg/m2 with bevacizumab;
-- Day 1: Paclitaxel 175 mg/m2 over 3 hours with cisplatin 50 mg/m2 with bevacizumab;
-- Day 1: Paclitaxel 175 mg/m2 over 3 hours with bevacizumab, Days 1–3: topotecan IV 0.75 mg/m2 over 30 minutes.
+- •Day 1: Paclitaxel 135 mg/m2 over 24 hours, Day 2: cisplatin 50 mg/m2 with bevacizumab;
+- •Day 1: Paclitaxel 175 mg/m2 over 3 hours, Day 2: cisplatin 50 mg/m2 with bevacizumab;
+- •Day 1: Paclitaxel 175 mg/m2 over 3 hours with cisplatin 50 mg/m2 with bevacizumab;
+- •Day 1: Paclitaxel 175 mg/m2 over 3 hours with bevacizumab, Days 1–3: topotecan IV 0.75 mg/m2 over 30 minutes.
 
 Patients were treated until disease progression or unacceptable adverse reactions.
 The main outcome measure was OS.
@@ -255,9 +255,9 @@ Study GOG-0218
 The safety and efficacy of bevacizumab were evaluated in a multicenter, randomized, double-blind, placebo-controlled, three arm study [Study GOG-0218 (NCT00262847)] evaluating the effect of adding bevacizumab to carboplatin and paclitaxel for the treatment of patients with stage III or IV epithelial ovarian, fallopian tube, or primary peritoneal cancer (N=1873) following initial surgical resection.
 Patients were randomized (1:1:1) to one of the following arms:
 
-- CPP: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent placebo started at cycle 2, followed by placebo alone every three weeks for a total of up to 22 cycles of therapy (n=625) or
-- CPB15: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent bevacizumab started at cycle 2, followed by placebo alone every three weeks for a total of up to 22 cycles of therapy (n=625) or
-- CPB15+: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent bevacizumab started at cycle 2, followed by bevacizumab as a single agent every three weeks for a total of up to 22 cycles of therapy (n=623).
+- •CPP: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent placebo started at cycle 2, followed by placebo alone every three weeks for a total of up to 22 cycles of therapy (n=625) or
+- •CPB15: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent bevacizumab started at cycle 2, followed by placebo alone every three weeks for a total of up to 22 cycles of therapy (n=625) or
+- •CPB15+: carboplatin (AUC 6) and paclitaxel (175 mg/m2) for six cycles, with concurrent bevacizumab started at cycle 2, followed by bevacizumab as a single agent every three weeks for a total of up to 22 cycles of therapy (n=623).
 
 The main outcome measure was investigator-assessed PFS.
 OS was a secondary outcome measure.

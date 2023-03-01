@@ -9,9 +9,9 @@ Do not administer ZIRABEV until at least 28 days following major surgery and unt
 
 The recommended dosage when ZIRABEV is administered in combination with intravenous fluorouracil-based chemotherapy is:
 
-- 5 mg/kg intravenously every 2 weeks in combination with bolus-IFL.
-- 10 mg/kg intravenously every 2 weeks in combination with FOLFOX4.
-- 5 mg/kg intravenously every 2 weeks or 7.5 mg/kg intravenously every 3 weeks in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy in patients who have progressed on a first-line bevacizumab product-containing regimen.
+- •5 mg/kg intravenously every 2 weeks in combination with bolus-IFL.
+- •10 mg/kg intravenously every 2 weeks in combination with FOLFOX4.
+- •5 mg/kg intravenously every 2 weeks or 7.5 mg/kg intravenously every 3 weeks in combination with fluoropyrimidine-irinotecan- or fluoropyrimidine-oxaliplatin-based chemotherapy in patients who have progressed on a first-line bevacizumab product-containing regimen.
 
 ## 2.3 First-Line Non-Squamous Non-Small Cell Lung Cancer
 
@@ -58,39 +58,40 @@ Table 1: Dosage Modifications for Adverse Reactions
 
 | Adverse Reaction | Severity | Dosage Modification |
 | --- | --- | --- |
-| Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)]. | Gastrointestinal perforation, any gradeTracheoesophageal fistula, any gradeFistula, Grade 4Fistula formation involving any internal organ | Discontinue ZIRABEV |
-| Wound Healing Complications [see Warnings and Precautions (5.2)]. | Any | Withhold ZIRABEV until adequate wound healing. The safety of resumption of bevacizumab products after resolution of wound healing complications has not been established. |
-| Necrotizing fasciitis | Discontinue ZIRABEV |  |
-| Hemorrhage [see Warnings and Precautions (5.3)]. | Grade 3 or 4 | Discontinue ZIRABEV |
-| Recent history of hemoptysis of 1/2 teaspoon (2.5 mL) or more | Withhold ZIRABEV |  |
-| Thromboembolic Events [see Warnings and Precautions (5.4, 5.5)]. | Arterial thromboembolism, severe | Discontinue ZIRABEV |
-| Venous thromboembolism, Grade 4 | Discontinue ZIRABEV |  |
-| Hypertension [see Warnings and Precautions (5.6)]. | Hypertensive crisisHypertensive encephalopathy | Discontinue ZIRABEV |
-| Hypertension, severe | Withhold ZIRABEV if not controlled with medical management; resume once controlled |  |
-| Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.7)]. | Any | Discontinue ZIRABEV |
-| Renal Injury and Proteinuria [see Warnings and Precautions (5.8)]. | Nephrotic syndrome | Discontinue ZIRABEV |
-| Proteinuria greater than or equal to 2 grams per 24 hours in absence of nephrotic syndrome | Withhold ZIRABEV until proteinuria less than 2 grams per 24 hours |  |
-| Infusion-Related Reactions [see Warnings and Precautions (5.9)]. | Severe | Discontinue ZIRABEV |
-| Clinically significant | Interrupt infusion; resume at a decreased rate of infusion after symptoms resolve |  |
-| Mild, clinically insignificant | Decrease infusion rate |  |
-| Congestive Heart Failure [see Warnings and Precautions (5.12)]. | Any | Discontinue ZIRABEV |
+| Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)]. | •Gastrointestinal perforation, any grade•Tracheoesophageal fistula, any grade•Fistula, Grade 4•Fistula formation involving any internal organ | Discontinue ZIRABEV |
+| Wound Healing Complications [see Warnings and Precautions (5.2)]. | •Any | Withhold ZIRABEV until adequate wound healing. The safety of resumption of bevacizumab products after resolution of wound healing complications has not been established. |
+| •Necrotizing fasciitis | Discontinue ZIRABEV |  |
+| Hemorrhage [see Warnings and Precautions (5.3)]. | •Grade 3 or 4 | Discontinue ZIRABEV |
+| •Recent history of hemoptysis of 1/2 teaspoon (2.5 mL) or more | Withhold ZIRABEV |  |
+| Thromboembolic Events [see Warnings and Precautions (5.4, 5.5)]. | •Arterial thromboembolism, severe | Discontinue ZIRABEV |
+| •Venous thromboembolism, Grade 4 | Discontinue ZIRABEV |  |
+| Hypertension [see Warnings and Precautions (5.6)]. | •Hypertensive crisis•Hypertensive encephalopathy | Discontinue ZIRABEV |
+| •Hypertension, severe | Withhold ZIRABEV if not controlled with medical management; resume once controlled |  |
+| Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.7)]. | •Any | Discontinue ZIRABEV |
+| Renal Injury and Proteinuria [see Warnings and Precautions (5.8)]. | •Nephrotic syndrome | Discontinue ZIRABEV |
+| •Proteinuria greater than or equal to 2 grams per 24 hours in absence of nephrotic syndrome | Withhold ZIRABEV until proteinuria less than 2 grams per 24 hours |  |
+| Infusion-Related Reactions [see Warnings and Precautions (5.9)]. | •Severe | Discontinue ZIRABEV |
+| •Clinically significant | Interrupt infusion; resume at a decreased rate of infusion after symptoms resolve |  |
+| •Mild, clinically insignificant | Decrease infusion rate |  |
+| Congestive Heart Failure [see Warnings and Precautions (5.12)]. | •Any | Discontinue ZIRABEV |
 
 ## 2.9 Preparation and Administration
 
 Preparation
 
-- Use appropriate aseptic technique.
-- Visually inspect vial for particulate matter and discoloration prior to preparation for administration.
+- •Use appropriate aseptic technique.
+- •Use sterile needle and syringe to prepare ZIRABEV.
+- •Visually inspect vial for particulate matter and discoloration prior to preparation for administration.
   Discard vial if solution is cloudy, discolored, or contains particulate matter.
-- Withdraw necessary amount of ZIRABEV and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
+- •Withdraw necessary amount of ZIRABEV and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
-- Discard any unused portion left in a vial, as the product contains no preservatives.
-- Store diluted ZIRABEV solution at 2°C to 8°C (36°F to 46°F) for up to 8 hours.
-- No incompatibilities between ZIRABEV and polyvinylchloride or polyolefin bags have been observed.
+- •Discard any unused portion left in a vial, as the product contains no preservatives.
+- •Diluted ZIRABEV solution may be stored at 2°C to 8°C (36°F to 46°F) for up to 8 hours, if not used immediately.
+- •No incompatibilities between ZIRABEV and polyvinylchloride or polyolefin bags have been observed.
 
 Administration
 
-- Administer as an intravenous infusion.
-- First infusion: Administer infusion over 90 minutes.
-- Subsequent infusions: Administer second infusion over 60 minutes if first infusion is tolerated.
+- •Administer as an intravenous infusion.
+- •First infusion: Administer infusion over 90 minutes.
+- •Subsequent infusions: Administer second infusion over 60 minutes if first infusion is tolerated.
   Administer all subsequent infusions over 30 minutes if second infusion over 60 minutes is tolerated.

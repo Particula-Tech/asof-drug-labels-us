@@ -2,17 +2,17 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)].
-- Surgery and Wound Healing Complications [see Warnings and Precautions (5.2)].
-- Hemorrhage [see Warnings and Precautions (5.3)].
-- Arterial Thromboembolic Events [see Warnings and Precautions (5.4)].
-- Venous Thromboembolic Events [see Warnings and Precautions (5.5)].
-- Hypertension [see Warnings and Precautions (5.6)].
-- Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.7)].
-- Renal Injury and Proteinuria [see Warnings and Precautions (5.8)].
-- Infusion-Related Reactions [see Warnings and Precautions (5.9)].
-- Ovarian Failure [see Warnings and Precautions (5.11)].
-- Congestive Heart Failure [see Warnings and Precautions (5.12)].
+- •Gastrointestinal Perforations and Fistulae [see Warnings and Precautions (5.1)].
+- •Surgery and Wound Healing Complications [see Warnings and Precautions (5.2)].
+- •Hemorrhage [see Warnings and Precautions (5.3)].
+- •Arterial Thromboembolic Events [see Warnings and Precautions (5.4)].
+- •Venous Thromboembolic Events [see Warnings and Precautions (5.5)].
+- •Hypertension [see Warnings and Precautions (5.6)].
+- •Posterior Reversible Encephalopathy Syndrome [see Warnings and Precautions (5.7)].
+- •Renal Injury and Proteinuria [see Warnings and Precautions (5.8)].
+- •Infusion-Related Reactions [see Warnings and Precautions (5.9)].
+- •Ovarian Failure [see Warnings and Precautions (5.11)].
+- •Congestive Heart Failure [see Warnings and Precautions (5.12)].
 
 ## 6.1 Clinical Trials Experience
 

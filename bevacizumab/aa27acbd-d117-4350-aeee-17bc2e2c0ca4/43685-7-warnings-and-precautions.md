@@ -82,7 +82,7 @@ The safety of reinitiating bevacizumab products in patients who developed PRES i
 
 ## 5.8 Renal Injury and Proteinuria
 
-The incidence and severity of proteinuria was higher in patients receiving bevacizumab products as compared to patients receiving chemotherapy.
+The incidence and severity of proteinuria was higher in patients receiving bevacizumab as compared to patients receiving chemotherapy.
 Grade 3 (defined as urine dipstick 4+ or >3.5 grams of protein per 24 hours) to Grade 4 (defined as nephrotic syndrome) ranged from 0.7% to 7% in clinical studies.
 
 The overall incidence of proteinuria (all grades) was only adequately assessed in Study BO17705, in which the incidence was 20%.
@@ -110,7 +110,7 @@ Data from a postmarketing safety study showed poor correlation between UPCR (Uri
 
 ## 5.9 Infusion-Related Reactions
 
-Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, chest pain, headaches, rigors, and diaphoresis.
+Infusion-related reactions reported across clinical studies and postmarketing experience include hypertension, hypertensive crises associated with neurologic signs and symptoms, wheezing, oxygen desaturation, Grade 3 hypersensitivity, anaphylactoid/anaphylactic reactions, chest pain, headaches, rigors, and diaphoresis.
 In clinical studies, infusion-related reactions with the first dose occurred in <3% of patients and severe reactions occurred in 0.4% of patients.
 
 Decrease the rate of infusion for mild, clinically insignificant infusion-related reactions.
