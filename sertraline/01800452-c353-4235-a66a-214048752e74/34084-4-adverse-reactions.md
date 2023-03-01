@@ -41,9 +41,9 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Palpitations | 4% | 2% |
 | Eye disorders |  |  |
 | Visual impairment | 4% | 2% |
-| Gastrointestinal Disorders |  |  |
+| Gastrointestinal disorders |  |  |
 | Nausea | 26% | 12% |
-| Diarrhea/Loose Stools | 20% | 10% |
+| Diarrhea/Loose stools | 20% | 10% |
 | Dry mouth | 14% | 9% |
 | Dyspepsia | 8% | 4% |
 | Constipation | 6% | 4% |
@@ -59,7 +59,7 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Psychiatric Disorders |  |  |
 | Insomnia | 20% | 13% |
 | Agitation | 8% | 5% |
-| Libido Decreased | 6% | 2% |
+| Libido decreased | 6% | 2% |
 | Reproductive system and breast disorders |  |  |
 | Ejaculation failure (1) | 8% | 1% |
 | Erectile dysfunction (1) | 4% | 1% |
@@ -177,10 +177,6 @@ Psychiatric disorders – psychosis, enuresis, paroniria
 
 Renal and urinary disorders - acute renal failure
 
-Respiratory, thoracic and mediastinal
-
-disorders - pulmonary hypertension
-
-Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)
+Respiratory, thoracic and mediastinal disorders - pulmonary hypertension, eosinophilic pneumonia Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN)
 
 Vascular disorders - cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call-Fleming syndrome), vasculitis

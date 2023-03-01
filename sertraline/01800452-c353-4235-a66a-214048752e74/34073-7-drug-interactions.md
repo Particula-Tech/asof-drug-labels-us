@@ -29,7 +29,7 @@ Table 5: Clinically-Significant Drug Interactions with Sertraline Hydrochloride
 | Drugs Metabolized by CYP2D6 |  |
 | Clinical Impact: | Sertraline hydrochloride is a CYP2D6 inhibitor [See Clinical Pharmacology (12.3)]. The concomitant use of sertraline hydrochloride with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate. |
 | Intervention: | Decrease the dosage of a CYP2D6 substrate if needed with concomitant sertraline hydrochloride use. Conversely, an increase in dosage of a CYP2D6 substrate may be needed if sertraline hydrochloride is discontinued. |
-| Examples: | propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, thoridazine, tolterodine, venlafaxine |
+| Examples: | propafenone, flecainide, atomoxetine, desipramine, dextromethorphan, metoprolol, nebivolol, perphenazine, thioridazine, tolterodine, venlafaxine |
 | Phenytoin |  |
 | Clinical Impact: | Phenytoin is a narrow therapeutic index drug. sertraline hydrochloride may increase phenytoin concentrations. |
 | Intervention: | Monitor phenytoin levels when initiating or titrating sertraline hydrochloride. Reduce phenytoin dosage if needed. |

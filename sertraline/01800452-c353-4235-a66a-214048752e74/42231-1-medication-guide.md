@@ -78,11 +78,11 @@ Symptoms may include:
 
 - Headache
 - weakness or feeling unsteady
-- confusion, problems concentrating or thinking, or memory problems
+- confusion, problems concentrating or thinking, memory problems
 
 9.
 Sexual problems (dysfunction).
-Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including sertraline hydrochloride oral solution, may cause sexual problems.
+Taking selective serotonin reuptake inhibitors (SSRIs), including sertraline hydrochloride oral solution, may cause sexual problems.
 
 Symptoms in males may include:
 
@@ -255,7 +255,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
-
 Distributed by:
 
 Aurobindo Pharma USA, Inc.
@@ -266,6 +265,4 @@ East Windsor, NJ 08520
 
 Manufactured by: Aurobindo Pharma Limited
 
-Hyderabad-500 032, India
-
-Revised: 10/2021
+Hyderabad-500 032, India Revised: 02/2023
