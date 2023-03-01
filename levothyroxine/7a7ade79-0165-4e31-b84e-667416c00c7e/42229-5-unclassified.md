@@ -1,6 +1,6 @@
 Manufactured for IBSA Pharma Inc. by:
 
-IBSA Institut Biochimique SA 6912 Lugano Switzerland
+IBSA Institut Biochimique SA 6912 Pazzallo Switzerland
 
 Distributed by:
 

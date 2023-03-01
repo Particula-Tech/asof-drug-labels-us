@@ -32,6 +32,40 @@ R x Only 3 blisters x 10 capsules
 
 IBSA
 
+# PRINCIPAL DISPLAY PANEL - 37.5 mcg Capsule Blister Pack Carton
+
+TIROSINT ® (levothyroxine sodium) capsules
+
+NDC 71858-0012-4
+
+37.5 mcg per capsule
+
+Do not remove individual capsules from blister packaging until ready to use
+
+Swallow capsule whole.
+Do not cut, crush, or chew.
+
+R x Only 3 blisters x 10 capsules
+
+IBSA
+
+# PRINCIPAL DISPLAY PANEL - 44 mcg Capsule Blister Pack Carton
+
+TIROSINT ® (levothyroxine sodium) capsules
+
+NDC 71858-0013-4
+
+44 mcg per capsule
+
+Do not remove individual capsules from blister packaging until ready to use
+
+Swallow capsule whole.
+Do not cut, crush, or chew.
+
+R x Only 3 blisters x 10 capsules
+
+IBSA
+
 # PRINCIPAL DISPLAY PANEL - 50 mcg Capsule Blister Pack Carton
 
 TIROSINT ® (levothyroxine sodium) capsules
@@ -39,6 +73,23 @@ TIROSINT ® (levothyroxine sodium) capsules
 NDC 71858-0015-4
 
 50 mcg per capsule
+
+Do not remove individual capsules from blister packaging until ready to use
+
+Swallow capsule whole.
+Do not cut, crush, or chew.
+
+R x Only 3 blisters x 10 capsules
+
+IBSA
+
+# PRINCIPAL DISPLAY PANEL - 62.5 mcg Capsule Blister Pack Carton
+
+TIROSINT ® (levothyroxine sodium) capsules
+
+NDC 71858-0017-4
+
+62.5 mcg per capsule
 
 Do not remove individual capsules from blister packaging until ready to use
 

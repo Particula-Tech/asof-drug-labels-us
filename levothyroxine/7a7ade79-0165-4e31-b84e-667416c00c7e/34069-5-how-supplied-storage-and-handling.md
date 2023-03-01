@@ -11,7 +11,10 @@ Table 7: TIROSINT Packaging Description - Boxes of 30 capsules, consisting of 3 
 | --- | --- | --- | --- |
 | 13 | Green | A | 71858-0005-4 |
 | 25 | Orange | E | 71858-0010-4 |
+| 37.5 | Dark Blue | O | 71858-0012-4 |
+| 44 | Red | R | 71858-0013-4 |
 | 50 | White | G | 71858-0015-4 |
+| 62.5 | Grey | L | 71858-0017-4 |
 | 75 | Purple | H | 71858-0020-4 |
 | 88 | Olive | J | 71858-0025-4 |
 | 100 | Yellow | K | 71858-0030-4 |

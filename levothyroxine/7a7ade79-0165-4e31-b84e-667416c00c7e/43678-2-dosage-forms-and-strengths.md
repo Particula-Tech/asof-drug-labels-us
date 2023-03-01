@@ -6,7 +6,10 @@ TIROSINT capsules are amber-colored, round/biconvex capsules, imprinted with a d
 | --- | --- |
 | 13 | A |
 | 25 | E |
+| 37.5 | O |
+| 44 | R |
 | 50 | G |
+| 62.5 | L |
 | 75 | H |
 | 88 | J |
 | 100 | K |
