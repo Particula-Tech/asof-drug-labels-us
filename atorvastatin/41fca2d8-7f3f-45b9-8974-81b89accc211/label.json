@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213260"
+  ],
+  "inn": "atorvastatin",
+  "labeler": "CMP Pharma, Inc.",
+  "package_ndcs": [
+    "46287-030-01"
+  ],
+  "products": [
+    {
+      "form": "Suspension",
+      "generic": "atorvaliq",
+      "name": "ATORVALIQ"
+    }
+  ],
+  "setid": "41fca2d8-7f3f-45b9-8974-81b89accc211",
+  "source": "dailymed"
+}
