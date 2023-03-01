@@ -14,7 +14,7 @@ Table 3: Summary of Adverse Events Reported by ≥2% of Itraconazole Treated Pat
 
 | Body System/ Adverse Event | Itraconazole |  |  |  |
 | --- | --- | --- | --- | --- |
-| Total (n = 350*) % | All controlled studies (n = 272) % | Fluconazole (n = 125†) % | Clotrimazole (n = 81‡) % |  |
+| Total (n = 350*) % | All controlled studies (n = 272) % | Fluconazole (n = 125 †) % | Clotrimazole (n = 81 ‡) % |  |
 | Gastrointestinal disorders |  |  |  |  |
 | Nausea Diarrhea Vomiting Abdominal pain Constipation | 11 11 7 6 2 | 10 10 6 4 2 | 11 10 8 7 1 | 5 4 1 7 0 |
 | Body as a whole |  |  |  |  |
@@ -34,18 +34,26 @@ Table 3: Summary of Adverse Events Reported by ≥2% of Itraconazole Treated Pat
 
 † Of the 125 patients, 62 were treated for oropharyngeal candidiasis and 63 were treated for esophageal candidiasis.
 
+‡ All 81 patients were treated for oropharyngeal candidiasis.
+
 Adverse events reported by less than 2% of patients in U.S. clinical trials with itraconazole included: adrenal insufficiency, asthenia, back pain, dehydration, dyspepsia, dysphagia, flatulence, gynecomastia, hematuria, hemorrhoids, hot flushes, implantation complication, infection unspecified, injury, insomnia, male breast pain, myalgia, pharyngitis, pruritus, rhinitis, rigors, stomatitis ulcerative, taste perversion, tinnitus, upper respiratory tract infection, vision abnormal, and weight decrease.
 Edema, hypokalemia and menstrual disorders have been reported in clinical trials with itraconazole capsules.
 
-Averse Events Reported from Other Clinical Trials A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials” or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
+Adverse Events Reported from Other Clinical Trials
+
+A comparative clinical trial in patients who received intravenous itraconazole followed by itraconazole oral solution or received Amphotericin B reported the following adverse events in the itraconazole intravenous/itraconazole oral solution treatment arm which are not listed above in the subsection “Adverse Events Reported in Oropharnyngeal or Esophageal Candidiasis Trials” or listed below as postmarketing reports of adverse drug reactions: serum creatinine increased, blood urea nitrogen increased, renal function abnormal, hypocalcemia, hypomagnesemia, hypophosphatemia, hypotension, tachycardia and pulmonary infiltration.
 In addition, the following adverse drug reactions were reported in patients who participated in itraconazole oral solution clinical trials:
 
-Cardiac Disorders: cardiac failure; General Disorders and Administration Site Conditions: edema; Hepatobiliary Disorders: hepatic failure, hyperbilirubinemia; Metabolism and Nutrition Disorders: hypokalemia; Reproductive System and Breast Disorders: menstrual disorder The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of itraconazole capsules and itraconazole IV excluding the adverse reaction term “Injection site inflammation” which is specific to the injection route of administration: Cardiac Disorders: left ventricular failure; Gastrointestinal Disorders: gastrointestinal disorder; General Disorders and Administration Site Conditions: face edema; Hepatobiliary Disorders: jaundice, hepatic function abnormal; Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, gamma-glutamyltransferase increased, urine analysis abnormal; Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia; Nervous System Disorders: somnolence; Psychiatric Disorders: confusional state; Renal and Urinary Disorders: renal impairment; Respiratory, Thoracic and Mediastinal Disorders: dysphonia; Skin and Subcutaneous Tissue Disorders: rash erythematous; Vascular Disorders: hypertension In addition, the following adverse drug reaction was reported in children only who participated in itraconazole oral solution clinical trials: mucosal inflammation.
+Cardiac Disorders: cardiac failure;
 
-Post-marketing Experience Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 4 below.
+General Disorders and Administration Site Conditions: edema; Hepatobiliary Disorders: hepatic failure, hyperbilirubinemia; Metabolism and Nutrition Disorders: hypokalemia; Reproductive System and Breast Disorders: menstrual disorder The following is a list of additional adverse drug reactions associated with itraconazole that have been reported in clinical trials of itraconazole capsules and itraconazole IV excluding the adverse reaction term “Injection site inflammation” which is specific to the injection route of administration: Cardiac Disorders: left ventricular failure; Gastrointestinal Disorders: gastrointestinal disorder; General Disorders and Administration Site Conditions: face edema; Hepatobiliary Disorders: jaundice, hepatic function abnormal; Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood lactate dehydrogenase increased, gamma-glutamyltransferase increased, urine analysis abnormal; Metabolism and Nutrition Disorders: hyperglycemia, hyperkalemia; Nervous System Disorders: somnolence; Psychiatric Disorders: confusional state; Renal and Urinary Disorders: renal impairment; Respiratory, Thoracic and Mediastinal Disorders: dysphonia; Skin and Subcutaneous Tissue Disorders: rash erythematous; Vascular Disorders: hypertension In addition, the following adverse drug reaction was reported in children only who participated in itraconazole oral solution clinical trials: mucosal inflammation.
+
+Post-marketing Experience
+
+Adverse drug reactions that have been first identified during post-marketing experience with itraconazole (all formulations) are listed in Table 4 below.
 Because these reactions are reported voluntarily from a population of uncertain size, reliably estimating their frequency or establishing a causal relationship to drug exposure is not always possible.
 
-Table 4: Postmarketding Reports of Adverse Drug Reactions
+Table 4: Postmarketing Reports of Adverse Drug Reactions
 
 | Blood and Lymphatic System Disorders: | Leukopenia, neutropenia, thrombocytopenia |
 | --- | --- |
@@ -68,4 +76,4 @@ Table 4: Postmarketding Reports of Adverse Drug Reactions
 There is limited information on the use of itraconazole during pregnancy.
 Cases of congenital abnormalities including skeletal, genitourinary tract, cardiovascular and ophthalmic malformations as well as chromosomal and multiple malformations have been reported during post-marketing experience.
 A causal relationship with itraconazole has not been established.
-(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, andPRECAUTIONS: Drug Interactions for more information.)
+(See CLINICAL PHARMACOLOGY: Special Populations, CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS: Drug Interactions for more information.)
