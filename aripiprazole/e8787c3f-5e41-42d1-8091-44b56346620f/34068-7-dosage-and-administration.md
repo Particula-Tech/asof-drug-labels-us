@@ -29,11 +29,9 @@ Swallow tablets with sensor whole; do not divide, crush, or chew.
 
 MYCITE Patch
 
-There are two types of MYCITE Patch (referred to as patch).
-Each type has a corresponding Instructions for Use (IFU) within the app [see How Supplied/Storage and Handling (16.1)]:
+Refer to the Instructions for Use (IFU) within the app [see How Supplied/Storage and Handling (16.1)]:
 
-- For the 1-component patch, apply only when instructed by the app to the left side of the body just above the lower edge of the rib cage.
-- For the 2-component patch, apply only when instructed by the app to the right or left side of the body just above the lower edge of the rib cage.
+- Apply only when instructed by the app to the right or left side of the body just above the lower edge of the rib cage.
 
 Additional patch instructions:
 

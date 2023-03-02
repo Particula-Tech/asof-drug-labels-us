@@ -2,11 +2,11 @@
 
 | ANIMATION: MyCite logo fades in, followed by section title. | ANIMATION: Three containers expand with a generic phone w/ MyCite app, a patch, and a MyCite bottle. Patch and pod are separated slightly in space. | ANIMATION: Containers fade out, the three items rearrange from a column to a circle. Patch and pod come together before moving. | ANIMATION: A line draws from the bottle to the patch, leaving a dotted line behind. |
 | --- | --- | --- | --- |
-| VO: | VO: The MyCite system works in three connected parts: the MyCite App, a two-part patch consisting of a pod and adhesive strip, and an Abilify tablet with an ingestible sensor. | VO: | VO: The Abilify MyCite Tablet sends a signal to the Patch when you swallow your medication. The Patch records when you've taken your medication, as well as your rest and activity levels. |
+| VO: | VO: The MyCite system works in three connected parts: the MyCite App, a two-part patch consisting of a pod and adhesive strip, and an Abilify MyCite tablet with an ingestible sensor. | VO: | VO: The Abilify MyCite Tablet sends a signal to the Patch when you swallow your medication. The Patch records when you've taken your medication, as well as your rest and activity levels. |
 
-| ANIMATION: The line segments draw in until a circle is formed. The circle rotates. | ANIMATION: The phone expands to fill the screen, the rest of the scene fades. | ANIMATION: The shot stays on the phone. An indicator pops over the "get started" button to indicate a click. | ANIMATION: Shot fades to disclaimer screen. |
+| ANIMATION: The line segments draw in until a circle is formed. The circle rotates. | ANIMATION: The phone expands to fill the screen, the rest of the scene fades. | ANIMATION: The shot stays on the phone. An indicator pops over the "Create an Account" button to indicate a click. | ANIMATION: Shot fades to disclaimer screen. |
 | --- | --- | --- | --- |
-| VO: Then your patch communicates this information to the App. The App lets you view all your information and shares your Tablet information with your healthcare provider. | VO: (cont.) | VO: This app will help you set up and use your MyCite system. First, create your account, and then follow along to complete the set-up process. | VO: |
+| VO: Then your patch communicates this information to the App. The App lets you view your information and share it with your healthcare provider. | VO: (cont.) | VO: This app will help you set up and use your MyCite system. First, create your account, and then follow along to complete the set-up process. | VO: |
 
 02_PREPARING_YOUR_SKIN
 
@@ -58,76 +58,14 @@
 | --- | --- | --- | --- |
 | VO: Be sure to take it with plenty of water. | VO: Swallow your tablet whole; do not divide, crush, or chew. Remember to take your medication as prescribed by your doctor. | VO: (cont.) | VO: Once you've taken your tablet, your App will let you know when your Tablet has registered. |
 
-| ANIMATION: Generic phone is centered on screen. |  |  |  |
+| ANIMATION: Generic phone is centered on screen. | ANIMATION: Modal disapears to reveal home screen. | ANIMATION: Zooms in on the home screen. | ANIMATION: Tiles slide down to display all is good. |
 | --- | --- | --- | --- |
-| VO: Do not change your medication pattern or dosage based on what MyCite shows you. If you want to change your medication regimen, consult your doctor. |  |  |  |
+| VO: Do not change your medication pattern or dosage based on what MyCite shows you. If you want to change your medication regimen, consult your doctor. | VO: This is your home screen on the MyCite app. |  | VO: Your Tablet Status appears at the top when your Abilify MyCite tablet has registered. |
 
-07_USING_YOUR_APP
-
-| ANIMATION: MyCite logo fades in, followed by section title | ANIMATION: Fade in on app home screen | ANIMATION: App toolbar is highlighted | ANIMATION: Highlight narrows to the menu, patch status, and help buttons when mentioned in the VO. |
+| ANIMATION: Highlight patch status button and the patch status turns red and back to green | ANIMATION: Highlight hamburger. | ANIMATION: Highlight disapears. Immediately show a tap on the menu icon and expand it. | ANIMATION: Home menu expands from the left while background overlay appears over homescren. Show Tap on Weekly view. |
 | --- | --- | --- | --- |
-| VO: | VO: Now, let's get to know your MyCite App. | VO: This is your toolbar. At the top, you'll see three icons: | VO: The menu, the patch status, and help. |
+| VO: A red Check Patch button means your patch is not working Properly. Tap the button to review your patch status and to resolve any issues, such as changing your patch every seven days. A green Patch OK button means your patch is working properly. | VO:In the upper left hand corner, you'll find the menu icon. | VO: Tap the menu icon to go to your home Menu. | VO: From the home menu select Weekly View. |
 
-| ANIMATION: Highlight returns to the patch status button. A tap occurs and the patch status turns green. | ANIMATION: After a tap on the menu button, the menu expands from left. | ANIMATION: After a tap on "Weekly View", the perspective rotates and the weekly view screen fades in. | ANIMATION: A Checkmark is highlighted, then an X and finally an exclaimation. |
+| ANIMATION: After tap on "Weekly View", the perspective rotates and the weekly view screen fades in. | ANIMATION: Green checkmark is highlighted, then red X, then an ! in the same fashion. | ANIMATION: the perspective rotates to Home menu over the background overlay of homescren. Show Tap on Monthly view. | ANIMATION: After tap on Monthly View", the perspective rotates and the monthly view screen fades in. |
 | --- | --- | --- | --- |
-| VO: Most important is the patch status button. A red Check Patch button means your patch is not working properly. Tap the button to review your patch status and to resolve any issues, such as changing your patch every seven days. A green Patch OK button means your patch is working properly. | VO:Next is the menu. | VO: Here, you can view your information for past weeks. | VO: A green checkmark indicates that your tablet has registered. An X indicates when a tablet has not registered. An exclaimation point shows where more than one tablet has registered. |
-
-| ANIMATION: Highlight fades, a tap expands the menu and another tap on "Monthly View" a moment later. | ANIMATION: Monthly View fades in. | ANIMATION: Navigation buttons are highlighted. | ANIMATION: Highlight fades, then menu fades to profile view |
-| --- | --- | --- | --- |
-| VO: You can also view your historical information for past months. | VO: First, you will see your tablet information, as shown here. | VO: You can also view your mood, rest, and activity information by tapping on the icons on the top right corner of the screen. | VO: |
-
-| ANIMATION: The profile screen fades in. | ANIMATION: Help button is highlighted | ANIMATION: A tap on the help button fades to the help screen. |  |
-| --- | --- | --- | --- |
-| VO: Here, you can update your personal details, such as your name or your phone number. | VO: Finally, you'll notice the help button on the far right side. | VO: |  |
-
-08_USING_YOUR_TIMELINE
-
-| ANIMATION: MyCite logo fades in, followed by section title | ANIMATION: Fades in on the home screen. | ANIMATION: Timeline is highlighted. | ANIMATION: Timeline begins to scroll. |
-| --- | --- | --- | --- |
-| VO: | VO: Now that we have reviewed the navigation, let's take a look at your timeline. | VO: This is your timeline, which is the home screen for the app. Your most recent information is always at the top. | VO: |
-
-| ANIMATION: Timeline scrolls to Mood card. | ANIMATION: Timeline scrolls to Tablet | ANIMATION: Timeline scrolls to My Rest card. | ANIMATION: Timeline scrolls to Yesterday's Summary card. |
-| --- | --- | --- | --- |
-| VO: My Mood helps you record how you are feeling. | VO: Your Tablet Status shows whether or not your Abilify MyCite tablet has registered. | VO: My Rest shows how much you've rested and lets you rate your rest. | VO: Finally, if you want to see yesterday's data, Yesterday's Summary gives you a view of all your information from the day before. |
-
-09_MENU_OVERVIEW
-
-| ANIMATION: MyCite logo fades in, followed by section title | ANIMATION: Fades in on the home screen. Immediately a tap on the menu expands it. | ANIMATION: A tap on the activity button brings up the activity modal. | ANIMATION: The activity modal fades, and a tap on Weekly View rotates the screen and fades in the Weekly View screen. |
-| --- | --- | --- | --- |
-| VO: | VO: The MyCite app menu screen has several key features. | VO: Tap here to view your activity, which is measured in how many steps you take per day. | VO: Tap Weekly View to see your tablet, mood, rest, and activity information from the past week. You can scroll through all your information from past weeks as well. You can turn your phone to see the full chart. |
-
-| ANIMATION: Green checkmark is highlighted, then red X. | ANIMATION: Highlight fades, a tap brings up the menu. | ANIMATION: A tap on Monthly View brings up the Monthly Tablet status screen. | ANIMATION: Tap on mood icon brings up Mood screen. |
-| --- | --- | --- | --- |
-| VO: When you've taken your Abilify MyCite tablet, it will look like this. On any days you haven't taken your tablet, it will look like this. | VO: | VO: Tap Monthly View to see all your information from the past month. First, you'll see your tablet information. | VO: You can then tap the icons in the upper right corner to see your mood information, |
-
-| ANIMATION: Tap on Rest icon brings up Rest screen. | ANIMATION: Tap on Activity icon brings up Activity screen. | ANIMATION: Tap on menu expands it. | ANIMATION: Tap on profile button rotates the screen and fades in the Profile screen. |
-| --- | --- | --- | --- |
-| VO: Rest information, | VO: and Activity information. You can scroll through all your information from past months as well. | VO: You can also view your Profile. | VO: Here you can update your personal details, like changing your password. |
-
-| ANIMATION: A tap expands the menu, and a tap on the Friends and Family icon brings up the Invite Screen. | ANIMATION: Screen shifts from Invite Doctor screen to Invite Friends & Family screen. | ANIMATION: Screen shifts to Connection Details screen with only Tablet box checked. Consequtive taps check the 3 other boxes. | ANIMATION: Screen fades to log in screen. |
-| --- | --- | --- | --- |
-| VO: This is where you can view the people you are sharing information with. | VO: To share with more people, just tap on the screen and enter their details, then tap Invite. | VO: You can change which information you share like this. | VO: Make sure to sign in at least once a day, for example, first thing in the morning. |
-
-| ANIMATION: Screen fades to app home screen. | ANIMATION: A tap on the menu expands it, a tap on Sign Out brings up the sign out sequence. |  |  |
-| --- | --- | --- | --- |
-| VO: | VO: When you're signed out of the app, you'll still recieve notifica- tions from your MyCite app. Turning off your phone will immediately sign you out from the MyCite app. |  |  |
-
-10_ENTER_YOUR_MOOD
-
-| ANIMATION: MyCite logo fades in, followed by section title | ANIMATION: Fades in on the MyCite app timeline, Mood tile. | ANIMATION: In time with VO, swipes through the faces revealing the different Mood choices. | ANIMATION: In time with VO, swipes through the faces revealing the different Mood choices. |
-| --- | --- | --- | --- |
-| VO: | VO: Tap on ''My Mood'' in your timeline to record how you are feeling at dierent times of the day. | VO: To review the choices, swipe through the pictures until you find a face that best shows how you are feeling. | VO:(cont) |
-
-| ANIMATION: In time with VO tap on the "Select" button on the smartphone. | ANIMATION: Mood entered. |  |  |
-| --- | --- | --- | --- |
-| VO: Make sure it's in the center of the screen, then tap ''Select'' to enter your mood. | VO: Your mood is now entered. |  |  |
-
-11_RATE_YOUR_REST
-
-| ANIMATION: MyCite logo fades in, followed by section title | ANIMATION: Fades in on the MyCite app timeline, Rest tile. | ANIMATION: Modal with rest icon. | ANIMATION: In time with VO, taps the third star and then "Select," |
-| --- | --- | --- | --- |
-| VO: | VO: Tap on "My Rest" to see how much and how well you've rested that day. | VO: You don't have to be asleep for MyCite to record your rest. Rest is measured as any time you're sitting back, lying down, or sleeping. | VO: Tap the star to rate how well you've rested, then tap "Select." |
-
-| ANIMATION: Stars highlight. |  |  |  |
-| --- | --- | --- | --- |
-| VO: (cont) |  |  |  |
+| VO: Here, you can view your information for current and past weeks. | VO: A green Check indicates that your tablet has been registered. An X indicates when a tablet has not registered. An exclamation point shows when more than one tablet has registered. | VO: You can also view your historical information for current or past months. |  |
