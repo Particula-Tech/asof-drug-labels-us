@@ -10,6 +10,13 @@ Although serious side effects to fetus or newborn have not been reported in the 
 Animal reproduction studies of neomycin have not been conducted.
 If neomycin is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
+Risk of Ototoxicity Due to Mitochondrial DNA Variants
+
+Cases of ototoxicity with aminoglycosides have been observed in patients with certain variants in the mitochondrially encoded 12S rRNA gene (MT-RNR1), particularly the m.1555A>G variant.
+Ototoxicity occurred in some patients even when their aminoglycoside serum levels were within the recommended range.
+Mitochondrial DNA variants are present in less than 1% of the general US population, and the proportion of the variant carriers who may develop ototoxicity as well as the severity of ototoxicity is unknown.
+In case of known maternal history of ototoxicity due to aminoglycoside use or a known mitochondrial DNA variant in the patient, consider alternative treatments other than aminoglycosides unless the increased risk of permanent hearing loss is outweighed by the severity of infection and lack of safe and effective alternative therapies.
+
 # PRECAUTIONS
 
 ## General
