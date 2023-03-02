@@ -71,6 +71,10 @@ Respiratory, Thoracic and Mediastinal Disorders
 
 Asthma and exacerbation of asthma; dyspnea
 
+Gastrointestinal Disorders
+
+Nausea; vomiting
+
 Skin and Subcutaneous Tissue Disorders
 
 Pruritis
