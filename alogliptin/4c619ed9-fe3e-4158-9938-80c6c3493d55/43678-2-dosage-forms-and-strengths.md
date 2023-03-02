@@ -1,8 +1,10 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-- 25 mg/15 mg tablets are yellow, round, biconvex, and film-coated, with both "A/P" and "25/15" printed on one side.
-- 25 mg/30 mg tablets are peach, round, biconvex, and film-coated, with both "A/P" and "25/30" printed on one side.
-- 25 mg/45 mg tablets are red, round, biconvex, and film-coated, with both "A/P" and "25/45" printed on one side.
-- 12.5 mg/15 mg tablets are pale yellow, round, biconvex, and film-coated, with both "A/P" and "12.5/15" printed on one side.
-- 12.5 mg/30 mg tablets are pale peach, round, biconvex, and film-coated, with both "A/P" and "12.5/30" printed on one side.
-- 12.5 mg/45 mg tablets are pale red, round, biconvex, and film-coated, with both "A/P" and "12.5/45" printed on one side.
+| Pharmaceutical form | Strength (alogliptin/ pioglitazone) | Color | Shape | Markings (on one side) |
+| --- | --- | --- | --- | --- |
+| film-coated tablets | 12.5 mg/15 mg | Pale yellow | Round biconvex | "A/P" and 12.5/15" |
+| film-coated tablets | 12.5 mg/30 mg | Pale peach | Round biconvex | "A/P and "12.5/30" |
+| film-coated tablets | 12.5 mg/45 mg | Pale red | Round biconvex | "A/P" and 12.5/45" |
+| film-coated tablets | 25 mg/15 mg | Yellow | Round biconvex | "A/P" and "25/15" |
+| film-coated tablets | 25 mg/30 mg | Peach | Round biconvex | "A/P" and "25/30" |
+| film-coated tablets | 25 mg/45 mg | Red | Round biconvex | "A/P" and "25/45" |
