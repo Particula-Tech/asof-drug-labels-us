@@ -1,30 +1,18 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are described in other labeling sections:
+The following adverse reactions are described in other labelingsections:
 
-• Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.1)]
+- Anemia, Neutropenia and Thrombocytopenia [see Warnings and Precautions (5.2)]
+- Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.3)]
+- Renal Toxicity[see Warnings and Precautions (5.4)]
+- Tumor Lysis Syndrome [see Warnings and Precautions (5.5)]
 
-• Hepatotoxicity in Patients with Severe Pre-existing Hepatic Impairment [see Warnings and Precautions (5.2)]
+## 6.1 Clinical TrialsExperience
 
-• Renal Toxicity [see Warnings and Precautions (5.3)]
+ecause clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-• Tumor Lysis Syndrome [see Warnings and Precautions (5.4)]
-
-• Embryo-Fetal Risk [see Warnings and Precautions (5.5)]
-
-Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route): nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
-The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
-
-Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route): Discontinuation: leukopenia, thrombocytopenia, neutropenia.
-Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
-Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
-
-## 6.1 Adverse Reactions in Clinical Trials
-
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-
-The data described below reflect exposure to azacitidine for injection in 443 MDS patients from 4 clinical studies.
-Study 1 was a supportive-care controlled trial (subcutaneous administration), Studies 2 and 3 were single arm studies (one with subcutaneous administration and one with intravenous administration), and Study 4 was an international randomized trial (subcutaneous administration) [see Clinical Studies (14)].
+MDSThe data described below reflect exposure to azacitidine for injection in 443 patients with MDS from 4 clinical studies.
+Study 1 was a supportive-care controlled trial (subcutaneous administration), Studies 2 and 3 were single arm studies (one with subcutaneous administration and one with intravenous administration), and Study 4 was an international randomized trial (subcutaneous administration) [see Clinical Studies (14.1)].
 
 In Studies 1, 2 and 3, a total of 268 patients were exposed to azacitidine for injection, including 116 exposed for 6 cycles (approximately 6 months) or more and 60 exposed for greater than 12 cycles (approximately one year).
 Azacitidine for injection was studied primarily in supportive-care controlled and uncontrolled trials (n=150 and n=118, respectively).
@@ -37,10 +25,18 @@ Of these patients, 119 were exposed for 6 or more cycles, and 63 for at least 12
 The mean age of this population was 68.1 years (ranging from 42 to 83 years), 74% were male, and 99% were white.
 Most patients received daily azacitidine for injection doses of 75 mg/m2.
 
-Table 1 presents adverse reactions occurring in at least 5% of patients treated with azacitidine for injection (subcutaneous) in Studies 1 and 2.
+Most Commonly Occurring Adverse Reactions (Subcutaneous or Intravenous Route) in Adult Patients with MDS: nausea, anemia, thrombocytopenia, vomiting, pyrexia, leukopenia, diarrhea, injection site erythema, constipation, neutropenia, ecchymosis.
+The most common adverse reactions by intravenous route also included petechiae, rigors, weakness and hypokalemia.
+
+Adverse Reactions Most Frequently (>2%) Resulting in Clinical Intervention (Subcutaneous or Intravenous Route) in Adult Patients with MDS:Discontinuation: leukopenia, thrombocytopenia, neutropenia.
+
+Dose Held: leukopenia, neutropenia, thrombocytopenia, pyrexia, pneumonia, febrile neutropenia.
+Dose Reduced: leukopenia, neutropenia, thrombocytopenia.
+
+Table 3 presents adverse reactions occurring in at least 5% of patients treated with azacitidine for injection (subcutaneous) in Studies 1 and 2.
 It is important to note that duration of exposure was longer for the azacitidine for injection-treated group than for the observation group: patients received azacitidine for injection for a mean of 11.4 months while mean time in the observation arm was 6.1 months.
 
-Table 1: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC Azacitidine for Injection Treated Patients; Studies 1 and 2)
+Table 3: Most Frequently Observed Adverse Reactions (≥ 5.0% in All SC Azacitidine for Injection Treated Patients; Studies 1 and 2)
 
 |  | Number (%) of Patients |  |  |
 | --- | --- | --- | --- |
@@ -113,10 +109,10 @@ b Includes adverse reactions from all patients exposed to azacitidine for inject
 
 c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine for injection.
 
-Table 2 presents adverse reactions occurring in at least 5% of patients treated with azacitidine for injection in Study 4.
+Table 4 presents adverse reactions occurring in at least 5% of patients treated with azacitidine for injection in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with azacitidine for injection was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
 
-Table 2: Most Frequently Observed Adverse Reactions (≥ 5% in the Azacitidine For Injection Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
+Table 4: Most Frequently Observed Adverse Reactions (≥ 5% in the Azacitidine For Injection Treated Patients and the Percentage with NCI CTC Grade 3/4 Reactions; Study 4)
 
 |  | Number (%) of Patients |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -180,11 +176,11 @@ There did not appear to be any adverse reactions that increased in frequency ove
 Overall, adverse reactions were qualitatively similar between the intravenous and subcutaneous studies.
 Adverse reactions that appeared to be specifically associated with the intravenous route of administration included infusion site reactions (e.g. erythema or pain) and catheter site reactions (e.g. infection, erythema, or hemorrhage).
 
-In clinical studies of either subcutaneous or intravenous azacitidine for injection, the following serious adverse reactions occurring at a rate of < 5% (and not described in Tables 1 or 2) were reported:
+In clinical studies of either subcutaneous or intravenous azacitidine for injection, the following serious adverse reactions occurring at a rate of <5% (and not described in Tables 2 or 3) were reported:
 
 Blood and lymphatic system disorders: agranulocytosis, bone marrow failure, pancytopenia splenomegaly.
 
-Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardio­-respiratory arrest, congestive cardiomyopathy.
+Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardio- respiratory arrest, congestive cardiomyopathy.
 
 Eye disorders: eye hemorrhage
 
@@ -194,7 +190,7 @@ General disorders and administration site conditions: catheter site hemorrhage, 
 
 Hepatobiliary disorders: cholecystitis.
 
-Immune system disorders: anaphylactic shock, hypersensitivity.
+Immune system disorders: anaphylactic shock,hypersensitivity.
 
 Infections and infestations: abscess limb, bacterial infection, cellulitis, blastomycosis, injection site infection, Klebsiella sepsis, neutropenic sepsis, pharyngitis streptococcal, pneumonia Klebsiella, sepsis, septic shock, Staphylococcal bacteremia, Staphylococcal infection, toxoplasmosis.
 
@@ -215,6 +211,9 @@ Skin and subcutaneous tissue disorders: pyoderma gangrenosum, rash pruritic, ski
 Surgical and medical procedures: cholecystectomy.
 
 Vascular disorders: orthostatic hypotension.
+
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience
 
