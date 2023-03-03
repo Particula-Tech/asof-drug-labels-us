@@ -1,42 +1,41 @@
 MEDICATION GUIDE
 
-DEPAKOTE ER (dep-a-kOte) (divalproex sodium) Extended-Release Tablets
+DEPAKOTE ER (dep-a-kOte) (divalproex sodium) Extended-Release Tablets, for oral use
 
-DEPAKOTE (dep-a-kOte) (divalproex sodium) Tablets
+DEPAKOTE (dep-a-kOte) (divalproex sodium) Delayed-Release Tablets, for oral use
 
-DEPAKOTE (dep-a-kOte) (divalproex sodium delayed release capsules) Sprinkle Capsules
+DEPAKOTE Sprinkle Capsules (dep-a-kOte) (divalproex sodium delayed release capsules) for oral use
 
-Read this Medication Guide before you start taking Depakote and each time you get a refill.
-There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
+What is the most important information I should know about DEPAKOTE?
 
-What is the most important information I should know about Depakote?
-
-Do not stop taking Depakote without first talking to your healthcare provider.
-
+Do not stop Depakote without first talking to a healthcare provider.
 Stopping Depakote suddenly can cause serious problems.
+Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 
 Depakote can cause serious side effects, including:
 
 1.
-Serious liver damage that can cause death, especially in children younger than 2 years old.
+Serious liver damage that can cause death, especially in children younger than 2 years old and patients with mitochondrial disorders.
 The risk of getting this serious liver damage is more likely to happen within the first 6 months of treatment.
 Call your healthcare provider right away if you get any of the following symptoms:
 
+- feeling very weak, tired, or uncomfortable (malaise)
+- swelling of your face
+- not feeling hungry
 - nausea or vomiting that does not go away
-- loss of appetite
+- diarrhea
 - pain on the right side of your stomach (abdomen)
 - dark urine
-- swelling of your face
 - yellowing of your skin or the whites of your eyes
+- loss of seizure control in people with epilepsy
 
-In some cases, liver damage may continue despite stopping the drug.
+In some cases, liver damage may continue even though the medicine is stopped.
+Your healthcare provider will do blood tests to check your liver before and during treatment with DEPAKOTE.
 
 2.
 Depakote may harm your unborn baby.
 
-- If you take Depakote during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord and are called spina bifida or neural tube defects.
-  These defects occur in 1 to 2 out of every 100 babies born to mothers who use this medicine during pregnancy.
+- If you take Depakote during pregnancy for any medical condition, your baby is at risk for serious birth defects that affect the brain and spinal cord (such as spina bifida or neural tube defects).
   These defects can begin in the first month, even before you know you are pregnant.
   Other birth defects that affect the structures of the heart, head, arms, legs, and the opening where the urine comes out (urethra) on the bottom of the penis can also happen.
   Decreased hearing or hearing loss can also happen.
@@ -49,16 +48,17 @@ Depakote may harm your unborn baby.
   If the decision is made to use Depakote, you should use effective birth control (contraception).
 - Tell your healthcare provider right away if you become pregnant while taking Depakote.
   You and your healthcare provider should decide if you will continue to take Depakote while you are pregnant.
-- Pregnancy Registry: If you become pregnant while taking Depakote, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+- Pregnancy Registry: If you become pregnant while taking Depakote, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
   You can enroll in this registry by calling toll-free 1-888-233-2334 or by visiting the website, http://www.aedpregnancyregistry.org/.
   The purpose of this registry is to collect information about the safety of antiepileptic drugs during pregnancy.
 
 3.
-Inflammation of your pancreas that can cause death.
+Swelling (Inflammation) and bleeding (hemorrhaging) of your pancreas that can cause death.
 Call your healthcare provider right away if you have any of these symptoms:
 
 - severe stomach pain that you may also feel in your back
 - nausea or vomiting that does not go away
+- not feeling hungry
 
 4.
 Like other antiepileptic drugs, Depakote may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
@@ -83,132 +83,173 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 - Keep all follow-up visits with your healthcare provider as scheduled.
 
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
-Do not stop Depakote without first talking to a healthcare provider.
-Stopping Depakote suddenly can cause serious problems.
-Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 Suicidal thoughts or actions can be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
 What is Depakote?
 
-Depakote comes in different dosage forms with different usages.
+Depakote ER tablets, Depakote delayed-release tablets, and Depakote Sprinkle Capsules are prescription medicines used:
 
-Depakote Tablets and Depakote Extended-Release Tablets are prescription medicines used:
+- alone or with other medicines to treat:
 
-- to treat manic episodes associated with bipolar disorder
-- alone or with other medicines to treat: ○ complex partial seizures in adults and children 10 years of age and older ○ simple and complex absence seizures, with or without other seizure types
-- to prevent migraine headaches
+◦ complex partial seizures in adults and children 10 years of age and older
 
-Depakote Sprinkle Capsules is a prescription medicine used alone or with other medicines, to treat:
+◦ simple and complex absence seizures
 
-- complex partial seizures in adults and children 10 years of age and older
-- simple and complex absence seizures, with or without other seizure types
+- with other medications to treat:
 
-Who should not take Depakote?
+◦ patients with multiple seizure types that include absence seizures
+
+Depakote ER tablets and Depakote delayed-release tablets are also used to prevent migraine headaches.
+
+Depakote ER tablets are also used to treat acute manic or mixed episodes associated with bipolar disorder with or without psychotic features.
+
+Depakote delayed-release tablets are also used to treat manic episodes associated with bipolar disorder.
 
 Do not take Depakote if you:
 
-- have liver problems
-- have or think you have a genetic liver problem caused by a mitochondrial disorder (e.g.
-  Alpers-Huttenlocher syndrome)
+- have liver problems.
+- have or think you have a genetic liver problem caused by a mitochondrial disorder such as Alpers-Huttenlocher syndrome.
 - are allergic to divalproex sodium, valproic acid, sodium valproate, or any of the ingredients in Depakote.
-  See the end of this leaflet for a complete list of ingredients in Depakote.
-- have a genetic problem called urea cycle disorder
-- are taking it to prevent migraine headaches and are either pregnant or may become pregnant because you are not using effective birth control (contraception)
+  See the end of this Medication Guide for a complete list of ingredients in Depakote.
+- have a genetic problem called a urea cycle disorder.
+- are taking it to prevent migraine headaches and are either pregnant or may become pregnant because you are not using effective birth control (contraception).
 
-What should I tell my healthcare provider before taking Depakote?
+Before taking Depakote, tell your healthcare provider about all of your medical conditions including if you:
 
-Before you take Depakote, tell your healthcare provider if you:
-
-- have a genetic liver problem caused by a mitochondrial disorder (e.g.
-  Alpers-Huttenlocher syndrome)
-- drink alcohol
-- are pregnant or breastfeeding.
-  Depakote can pass into breast milk.
+- have or have had liver problems.
+- have or think you have a genetic liver problem caused by a mitochondrial disorder such as Alpers-Huttenlocher syndrome.
+- drink alcohol.
+- have or have had depression, suicidal thoughts or behavior, unusual changes in mood, or thoughts about self-harm
+- are male and plan to father a child.
+  DEPAKOTE may cause fertility problems, which may affect your ability to father a child.
+  Talk to your healthcare provider if this is a problem for you.
+- are pregnant or may become pregnant.
+  DEPAKOTE may harm your unborn baby.
+  See “2.
+  Depakote may harm your unborn baby” above for more information.
+- are breastfeeding.
+  Depakote can pass into breast milk and may harm your baby.
   Talk to your healthcare provider about the best way to feed your baby if you take Depakote.
-- have or have had depression, mood problems, or suicidal thoughts or behavior
-- have any other medical conditions
 
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, herbal supplements and medicines that you take for a short period of time.
+Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
-Taking Depakote with certain other medicines can cause side effects or affect how well they work.
+DEPAKOTE may affect the way other medicines work, and other medicines may affect how DEPAKOTE works.
+Using DEPAKOTE with other medicines can cause serious side effects.
 Do not start or stop other medicines without talking to your healthcare provider.
+
+Especially tell your healthcare provider if you take:
+
+- medicines that can affect how the liver breaks down other medicines (such as phenytoin, carbamazepine, felbamate, phenobarbital, primidone, rifampin)
+- aspirin, carbapenem antibiotics, or estrogen-containing hormonal contraceptives
+- methotrexate
+- topiramate
+- cannabidiol
+
+You can ask your healthcare provider or pharmacist for a list of these medicines if you are not sure.
 
 Know the medicines you take.
 Keep a list of them and show it to your healthcare provider and pharmacist each time you get a new medicine.
 
 How should I take Depakote?
 
+- Depakote comes in different dosage forms.
 - Take Depakote exactly as your healthcare provider tells you.
   Your healthcare provider will tell you how much Depakote to take and when to take it.
-- Your healthcare provider may change your dose.
+- Your healthcare provider may change your dose, if needed.
 - Do not change your dose of Depakote without talking to your healthcare provider.
 - Do not stop taking Depakote without first talking to your healthcare provider.
   Stopping Depakote suddenly can cause serious problems.
-- Swallow Depakote tablets or Depakote ER tablets whole.
-  Do not crush or chew Depakote tablets or Depakote ER tablets.
-  Tell your healthcare provider if you cannot swallow Depakote whole.
+- Swallow Depakote ER tablets or DEPAKOTE delayed-release tablets whole.
+  Do not crush or chew them.
+  Tell your healthcare provider if you cannot swallow Depakote ER tablets or DEPAKOTE delayed-release tablets whole.
   You may need a different medicine.
-- Depakote Sprinkle Capsules may be swallowed whole, or they may be opened and the contents may be sprinkled on a small amount of soft food, such as applesauce or pudding.
-  See the Administration Guide at the end of this Medication Guide for detailed instructions on how to use Depakote Sprinkle Capsules.
-- If you take too much Depakote, call your healthcare provider or local Poison Control Center right away.
+- Depakote Sprinkle Capsules may be swallowed whole, or the capsule may be opened and the contents may be mixed into a small amount of soft food, such as applesauce or pudding.
+  See the Instructions for Use that comes with this Medication Guide for detailed instructions on how to use Depakote Sprinkle Capsules.
+- If you miss a dose of DEPAKOTE ER tablets or DEPAKOTE delayed-release tablets, take it as soon as you remember unless it’s almost time for your next dose.
+  Take the next dose at your regular time.
+  Do not take 2 doses at the same time.
+- If you take too much DEPAKOTE, call your healthcare provider or poison control center right away.
 
 What should I avoid while taking Depakote?
 
-- Depakote can cause drowsiness and dizziness.
-  Do not drink alcohol or take other medicines that make you sleepy or dizzy while taking Depakote, until you talk with your doctor.
-  Taking Depakote with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
-- Do not drive a car or operate dangerous machinery until you know how Depakote affects you.
-  Depakote can slow your thinking and motor skills.
+- Do not drink alcohol while taking Depakote.
+  Depakote and alcohol can affect each other causing side effects such as sleepiness and dizziness.
+- Do not drive a car, operate dangerous machinery, or do dangerous activities until you know how Depakote affects you.
+  Depakote can slow your thinking and motor skills and may affect your vision.
 
 What are the possible side effects of Depakote?
 
-- See “What is the most important information I should know about Depakote?”
+Call your healthcare provider right away if you have any of the symptoms listed below.
+Your healthcare provider may do additional tests before and during your treatment with DEPAKOTE.
+Your healthcare provider may reduce your dose, temporarily stop, or permanently stop treatment if you have certain side effects.
 
 Depakote can cause serious side effects including:
 
-- Bleeding problems: red or purple spots on your skin, bruising, pain and swelling into your joints due to bleeding or bleeding from your mouth or nose.
-- High ammonia levels in your blood: feeling tired, vomiting, changes in mental status.
-- Low body temperature (hypothermia): drop in your body temperature to less than 95°F, feeling tired, confusion, coma.
-- Allergic (hypersensitivity) reactions: fever, skin rash, hives, sores in your mouth, blistering and peeling of your skin, swelling of your lymph nodes, swelling of your face, eyes, lips, tongue, or throat, trouble swallowing or breathing.
-- Drowsiness or sleepiness in the elderly.
+- See “What is the most important information I should know about Depakote?”
+- bleeding problems.
+  Call your healthcare provider if you have any symptoms of bleeding, including:
+
+| bruising or red or purple spots on your skin | vomiting blood or vomit that looks like coffee grounds |
+| --- | --- |
+| bleeding from your mouth or nose | blood in your stools or black stools (looks like tar) |
+| cough up blood or blood clots | pain and swelling in your joints |
+
+- increased ammonia levels in your blood.
+  High ammonia levels can seriously affect your mental activities, slow your alertness, make you feel tired, or cause vomiting (encephalopathy).
+  This has happened when DEPAKOTE is taken alone or with a medicine called topiramate.
+  Call your health care provider if you have any of these symptoms.
+- low body temperature (hypothermia).
+  A drop in your body temperature to less than 95°F can happen during treatment with DEPAKOTE.
+  Call your healthcare provider if you have any of the following symptoms:
+
+| feeling tired | drowsiness |
+| --- | --- |
+| confusion | coma |
+| memory loss | shivering |
+
+- severe multiorgan reactions.
+  Treatment with DEPAKOTE may cause severe multiorgan reactions that can be life-threatening or may lead to death.
+  Stop taking DEPAKOTE, and contact your healthcare provider or get medical help right away if you develop any of these symptoms of a severe skin reaction:
+
+| fever | blistering and peeling of your skin |
+| --- | --- |
+| skin rash | swelling of your lymph nodes |
+| hives | swelling of your face, eyes, lips, tongue, or throat |
+| sores in your mouth, | trouble swallowing or breathing |
+
+- drowsiness or sleepiness in the elderly.
   This extreme drowsiness may cause you to eat or drink less than you normally would.
-  Tell your doctor if you are not able to eat or drink as you normally do.
-  Your doctor may start you at a lower dose of Depakote.
+  Tell your healthcare provider if you are not able to eat or drink as you normally do.
+  Your healthcare provider may start you at a lower dose of Depakote.
+- medicine residue in your stool.
+  Tell your healthcare provider if you have or think you may have medicine residue in your stool.
 
-Call your healthcare provider right away, if you have any of the symptoms listed above.
+The common side effects of DEPAKOTE include:
 
-The common side effects of Depakote include:
-
-- nausea
-- headache
-- sleepiness
-- vomiting
-- weakness
-- tremor
-- dizziness
-- stomach pain
-- blurry vision
-- double vision
-- diarrhea
-- increased appetite
-- weight gain
-- hair loss
-- loss of appetite
-- problems with walking or coordination
+| headache | loss of appetite |
+| --- | --- |
+| weakness | weight loss |
+| sleepiness | increased appetite |
+| dizziness | weight gain |
+| tremors | nausea / vomiting |
+| difficulty walking or problems with coordination | stomach pain |
+| ringing in your ears | diarrhea |
+| blurred vision | constipation |
+| double vision | bronchitis |
+| unusual eye movement | flu-like symptoms |
+| hair loss (alopecia) | infection |
+| swelling of your arms or legs |  |
 
 These are not all of the possible side effects of Depakote.
-For more information, ask your healthcare provider or pharmacist.
-
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store Depakote?
 
-- Store Depakote Extended-Release Tablets between 59°F to 86°F (15°C to 30°C).
-- Store Depakote Delayed Release Tablets below 86°F (30°C).
+- Store Depakote ER Tablets at room temperature between 68°F to 77°F (20°C to 25°C).
+- Store Depakote delayed release tablets below 86°F (30°C).
 - Store Depakote Sprinkle Capsules below 77°F (25°C).
 
 Keep Depakote and all medicines out of the reach of children.
@@ -220,11 +261,7 @@ Do not use Depakote for a condition for which it was not prescribed.
 Do not give Depakote to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-This Medication Guide summarizes the most important information about Depakote.
-If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about Depakote that is written for health professionals.
-
-For more information, go to www.rxabbvie.com or call 1-800-633-9110.
 
 What are the ingredients in Depakote?
 
@@ -232,22 +269,26 @@ Active ingredient: divalproex sodium
 
 Inactive ingredients:
 
-- Depakote Extended-Release Tablets: FD&C Blue No. 1, hypromellose, lactose, microcrystalline cellulose, polyethylene glycol, potassium sorbate, propylene glycol, silicon dioxide, titanium dioxide, and triacetin.
+- Depakote ER tablets: FD&C Blue No. 1, hypromellose, lactose, microcrystalline cellulose, polyethylene glycol, potassium sorbate, propylene glycol, silicon dioxide, titanium dioxide, and triacetin.
   The 500 mg tablets also contain iron oxide and polydextrose.
-- Depakote Tablets: cellulosic polymers, diacetylated monoglycerides, povidone, pregelatinized starch (contains corn starch), silica gel, talc, titanium dioxide, and vanillin. ○ Individual tablets also contain: 125 mg tablets: FD&C Blue No. 1 and FD&C Red No. 40, 250 mg tablets: FD&C Yellow No. 6 and iron oxide, 500 mg tablets: D&C Red No. 30, FD&C Blue No. 2, and iron oxide.
+- Depakote delayed-release tablets: cellulosic polymers, diacetylated monoglycerides, povidone, pregelatinized starch (contains corn starch), silica gel, talc, titanium dioxide, and vanillin. ○ Individual tablets also contain: 125 mg tablets: FD&C Blue No. 1 and FD&C Red No. 40, 250 mg tablets: FD&C Yellow No. 6 and iron oxide, 500 mg tablets: D&C Red No. 30, FD&C Blue No. 2, and iron oxide.
 
 - Depakote Sprinkle Capsules: cellulosic polymers, D&C Red No. 28, FD&C Blue No. 1 gelatin, iron oxide, magnesium stearate, silica gel, titanium dioxide, and triethyl citrate.
 
-Depakote ER: 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
+Manufactured by:
 
-Depakote Tablets: Mfd. by AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064, U.S.A.
+Depakote ER tablets: 250 mg is Mfd. by AbbVie LTD, Barceloneta, PR 00617 500 mg is Mfd. by AbbVie Inc., North Chicago, IL 60064 U.S.A. or AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064 U.S.A.
+
+Depakote delayed-release tablets: Mfd. by AbbVie LTD, Barceloneta, PR 00617 For AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
 Depakote Sprinkle Capsules: AbbVie Inc., North Chicago, IL 60064, U.S.A.
 
+For more information, go to www.rxabbvie.com or call 1-800-633-9110.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-©2000-2021 AbbVie Inc.
+©2000-2023 AbbVie Inc.
 
-Revised: November 2021
+Revised: February 2023
 
-20070544
+20077499
