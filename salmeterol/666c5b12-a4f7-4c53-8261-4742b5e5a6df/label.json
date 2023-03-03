@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021254"
+  ],
+  "inn": "salmeterol",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-086-96",
+    "66993-087-96",
+    "66993-088-96"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "fluticasone propionate and salmeterol xinafoate",
+      "name": "Fluticasone Propionate and Salmeterol HFA"
+    }
+  ],
+  "setid": "666c5b12-a4f7-4c53-8261-4742b5e5a6df",
+  "source": "dailymed"
+}
