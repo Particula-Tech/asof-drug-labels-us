@@ -26,7 +26,7 @@ Contains 1 mg edetate disodium
 
 No filter required
 
-Pfizer Injectables
+PfizerHospital
 
 Rx only
 
@@ -43,9 +43,7 @@ PROTONIX® I.V.
 
 Sterile For Intravenous Infusion Only Single-dose vial
 
-Pfizer Injectables
-
-Rx only
+Pfizer Hospital Rx only
 
 # PRINCIPAL DISPLAY PANEL - 10 Unit Carton Bundle Label
 
@@ -64,7 +62,7 @@ Dist. by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 1
 
 Under license from Takeda GmbH D78467 Konstanz, Germany MADE IN FRANCE
 
-R03/1020/ 6171032
+R04/0522/ 6171032
 
 1 Bundle of 10 unit cartons NDC 0008-0923-55
 
@@ -77,7 +75,7 @@ Sterile For Intravenous Infusion Only Single-dose vial
 
 GTIN: 00300080923559
 
-Pfizer Injectables
+Pfizer Hospital
 
 LOT
 

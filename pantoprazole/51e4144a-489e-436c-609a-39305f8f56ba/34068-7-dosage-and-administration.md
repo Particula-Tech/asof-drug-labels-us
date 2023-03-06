@@ -16,10 +16,10 @@ Only for intravenous infusion; other parenteral routes of administration are not
 
 Fifteen Minute Infusion
 
-1. Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP.
-2. Further dilute with 100 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a final concentration of approximately 0.4 mg/mL.
-3. Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
-4. Administer intravenously over a period of approximately 15 minutes at a rate of approximately 7 mL/min.
+1. 1.Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP.
+2. 2.Further dilute with 100 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a final concentration of approximately 0.4 mg/mL.
+3. 3.Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
+4. 4.Administer intravenously over a period of approximately 15 minutes at a rate of approximately 7 mL/min.
 
 Storage
 
@@ -31,9 +31,9 @@ Do not freeze the reconstituted solution.
 
 Two Minute Infusion
 
-1. Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP, to a final concentration of approximately 4 mg/mL.
-2. Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
-3. Administer intravenously over a period of at least 2 minutes.
+1. 1.Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP, to a final concentration of approximately 4 mg/mL.
+2. 2.Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
+3. 3.Administer intravenously over a period of at least 2 minutes.
 
 Storage
 
@@ -56,10 +56,10 @@ Only for intravenous infusion; other parenteral routes of administration are not
 
 Fifteen Minute Infusion
 
-1. Reconstitute each vial of PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP.
-2. Combine the contents of the two vials and further dilute with 80 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a total volume of 100 mL with a final concentration of approximately 0.8 mg/mL.
-3. Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
-4. Administer intravenously over a period of approximately 15 minutes at a rate of approximately 7 mL/min.
+1. 1.Reconstitute each vial of PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP.
+2. 2.Combine the contents of the two vials and further dilute with 80 mL of 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP, to a total volume of 100 mL with a final concentration of approximately 0.8 mg/mL.
+3. 3.Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
+4. 4.Administer intravenously over a period of approximately 15 minutes at a rate of approximately 7 mL/min.
 
 Storage
 
@@ -71,9 +71,9 @@ Do not freeze the reconstituted solution.
 
 Two Minute Infusion
 
-1. Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP, per vial to a final concentration of approximately 4 mg/mL.
-2. Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
-3. Administer the total volume from both vials intravenously over a period of at least 2 minutes.
+1. 1.Reconstitute PROTONIX I.V. with 10 mL of 0.9% Sodium Chloride Injection, USP, per vial to a final concentration of approximately 4 mg/mL.
+2. 2.Inspect the diluted PROTONIX I.V. solution visually for particular matter and discoloration prior to and during administration.
+3. 3.Administer the total volume from both vials intravenously over a period of at least 2 minutes.
 
 Storage
 
@@ -83,9 +83,9 @@ Do not freeze the reconstituted solution.
 
 ## 2.5 Compatibility Information
 
-- Administer PROTONIX I.V. intravenously through a dedicated line or through a Y-site.
-- Flush the intravenous line before and after administration of PROTONIX I.V. with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
-- When administered through a Y-site, PROTONIX I.V. is compatible with the following solutions: 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
-- Midazolam HCl has been shown to be incompatible with Y-site administration of PROTONIX I.V.
-- PROTONIX I.V. may not be compatible with products containing zinc [see Warnings and Precautions (5.3)].
-- When PROTONIX I.V. is administered through a Y-site, immediately stop use if precipitation or discoloration occurs.
+- •Administer PROTONIX I.V. intravenously through a dedicated line or through a Y-site.
+- •Flush the intravenous line before and after administration of PROTONIX I.V. with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
+- •When administered through a Y-site, PROTONIX I.V. is compatible with the following solutions: 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
+- •Midazolam HCl has been shown to be incompatible with Y-site administration of PROTONIX I.V.
+- •PROTONIX I.V. may not be compatible with products containing zinc [see Warnings and Precautions (5.3)].
+- •When PROTONIX I.V. is administered through a Y-site, immediately stop use if precipitation or discoloration occurs.
