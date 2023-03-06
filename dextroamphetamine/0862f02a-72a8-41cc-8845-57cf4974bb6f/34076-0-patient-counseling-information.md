@@ -42,7 +42,7 @@ Advise patients to contact their healthcare provider or report to the emergency 
 
 Application Site Reactions
 
-Inform patients that application site reactions, including pain, pruritus, burning sensation, erythema, discomfort, edema, or swelling have been reported with the use of XELSTRM.
+Inform patients that application site reactions, including pain, pruritus, burning sensation, erythema, discomfort, edema, or swelling have been reported with the use of XELSTRYM.
 Inform patients that increased skin irritation, discomfort or pain may occur if the same application site is used repeatedly.
 Instruct patients to select a different application site each day to minimize skin reactions.
 Patients should monitor for these reactions while wearing or immediately after removal of XELSTRYM.
