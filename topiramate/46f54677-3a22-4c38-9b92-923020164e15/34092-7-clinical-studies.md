@@ -2,7 +2,7 @@
 
 ## 14.1 Extended-Release: Bridging Study to Demonstrate Pharmacokinetic Equivalence between Extended-Release (QUDEXY XR) and Immediate-Release Topiramate Formulations
 
-Although a controlled clinical trial was performed (Study 14) [see Clinical Studies (14.4)], the basis for approval of the extended-release formulation (QUDEXY XR) included the studies described below using an immediate-release formulation [see Clinical Studies (14.2, 14.3 and 14.5)] and the demonstration of the pharmacokinetic equivalence of QUDEXY XR to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
+Although a controlled clinical trial was performed (Study 14) [see Clinical Studies (14.4)], the basis for approval of the extended-release formulation (QUDEXY XR) included the studies described below using an immediate-release formulation [see Clinical Studies (14.2, 14.3, 14.5)] and the demonstration of the pharmacokinetic equivalence of QUDEXY XR to immediate-release topiramate through the analysis of concentrations and cumulative AUCs at multiple time points [see Clinical Pharmacology (12.6)].
 
 ## 14.2 Monotherapy Epilepsy
 
@@ -34,7 +34,7 @@ Specific dosing in pediatric patients 2 to 9 years of age was derived from simul
 
 ## 14.3 Adjunctive Therapy Epilepsy
 
-Adult Patients With Partial-Onset Seizures
+Adult Patients with Partial-Onset Seizures
 
 The effectiveness of topiramate as an adjunctive treatment for adults with partial-onset seizures was established in six multicenter, randomized, double-blind, placebo-controlled trials (Studies 2, 3, 4, 5, 6, and 7), two comparing several dosages of topiramate and placebo and four comparing a single dosage with placebo, in patients with a history of partial-onset seizures, with or without secondarily generalized seizures.
 
@@ -46,11 +46,11 @@ Following randomization, patients began the double-blind phase of treatment.
 In five of the six studies, patients received active drug beginning at 100 mg per day; the dose was then increased by 100 mg or 200 mg/day increments weekly or every other week until the assigned dose was reached, unless intolerance prevented increases.
 In Study 7, the 25 or 50 mg/day initial doses of topiramate were followed by respective weekly increments of 25 or 50 mg/day until the target dose of 200 mg/day was reached.
 After titration, patients entered a 4, 8 or 12-week stabilization period.
-The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 12.
+The numbers of patients randomized to each dose and the actual mean and median doses in the stabilization period are shown in Table 13.
 
-Pediatric Patients 2 to 16 Years of Age With Partial-Onset Seizures
+Pediatric Patients 2 to 16 Years of Age with Partial-Onset Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for pediatric patients 2 to 16 years of age with partial-onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 8), comparing topiramate and placebo in patients with a history of partial-onset seizures, with or without secondarily generalized seizures (see Table 13).
+The effectiveness of topiramate as an adjunctive treatment for pediatric patients 2 to 16 years of age with partial-onset seizures was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 8), comparing topiramate and placebo in patients with a history of partial-onset seizures, with or without secondarily generalized seizures (see Table 14).
 
 Patients in this study were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate tablets or placebo.
 In Study 8, patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -60,9 +60,9 @@ Following randomization, patients began the double-blind phase of treatment.
 Patients received active drug beginning at 25 or 50 mg/day; the dose was then increased by 25 mg to 150 mg/day increments every other week until the assigned dosage of 125, 175, 225, or 400 mg/day based on patients' weight to approximate a dosage of 6 mg/kg/day was reached, unless intolerance prevented increases.
 After titration, patients entered an 8-week stabilization period.
 
-Patients With Primary Generalized Tonic-Clonic Seizures
+Patients with Primary Generalized Tonic-Clonic Seizures
 
-The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo (see Table 13).
+The effectiveness of topiramate as an adjunctive treatment for primary generalized tonic-clonic seizures in patients 2 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 9), comparing a single dosage of topiramate and placebo (see Table 14).
 
 Patients in Study 9 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients were stabilized on optimum dosages of their concomitant AEDs during an 8-week baseline phase.
@@ -72,9 +72,9 @@ Following randomization, patients began the double-blind phase of treatment.
 Patients received active drug beginning at 50 mg/day for four weeks; the dose was then increased by 50 mg to 150 mg/day increments every other week until the assigned dose of 175, 225, or 400 mg/day based on patients' body weight to approximate a dosage of 6 mg/kg/day was reached, unless intolerance prevented increases.
 After titration, patients entered a 12-week stabilization period.
 
-Patients With Lennox-Gastaut Syndrome
+Patients with Lennox-Gastaut Syndrome
 
-The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in patients 2 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10) comparing a single dosage of topiramate with placebo (see Table 13).
+The effectiveness of topiramate as an adjunctive treatment for seizures associated with Lennox-Gastaut syndrome in patients 2 years of age and older was established in a multicenter, randomized, double-blind, placebo-controlled trial (Study 10) comparing a single dosage of topiramate with placebo (see Table 14).
 
 Patients in Study 10 were permitted a maximum of two antiepileptic drugs (AEDs) in addition to topiramate or placebo.
 Patients who were experiencing at least 60 seizures per month before study entry were stabilized on optimum dosages of their concomitant AEDs during a 4-week baseline phase.
@@ -83,7 +83,7 @@ Active drug was titrated beginning at 1 mg/kg/day for a week; the dose was then 
 After titration, patients entered an 8-week stabilization period.
 The primary measures of effectiveness were the percent reduction in drop attacks and a parental global rating of seizure severity.
 
-Table 12: Immediate-Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures
+Table 13: Immediate-Release Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset SeizuresDose-response studies were not conducted for other indications or pediatric partial-onset seizures
 
 | Study | Stabilization Dose | PlaceboPlacebo dosages are given as the number of tablets. Placebo target dosages were as follows: Study 4 (4 tablets/day); Studies 2 and 5 (6 tablets/day); Studies 6 and 7 (8 tablets/day); Study 3 (10 tablets/day) | 200 | 400 | 600 | 800 | 1,000 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,10 +108,10 @@ Table 12: Immediate-Release Topiramate Dose Summary During the Stabilization Per
 | Median Dose | 8 | 200 | -- | -- | -- | -- |  |
 
 In all adjunctive topiramate trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
-The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 13.
+The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 14.
 As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
-Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
+Table 14: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
 | Study # | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/dayFor Studies 8 and 9, specified target dosages (less than 9.3 mg/kg/day) were assigned based on subject's weight to approximate a dosage of 6 mg/kg/day; these dosages corresponded to mg per day dosages of 125 mg per day, 175 mg per day, 225 mg per day, and 400 mg per day |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -139,14 +139,14 @@ Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epile
 | 8 | N | 45 | -- | -- | -- | -- | -- | 41 |
 | Median % Reduction | 11 | -- | -- | -- | -- | -- | 33 |  |
 | % Responders | 20 | -- | -- | -- | -- | -- | 39 |  |
-| Primary Generalized Tonic-ClonicMedian % reduction and % responders are reported for PGTC seizures; |  |  |  |  |  |  |  |  |
+| Primary Generalized Tonic-ClonicMedian % reduction and % responders are reported for PGTC seizures |  |  |  |  |  |  |  |  |
 | 9 | N | 40 | -- | -- | -- | -- | -- | 39 |
 | Median % Reduction | 9 | -- | -- | -- | -- | -- | 57 |  |
 | % Responders | 20 | -- | -- | -- | -- | -- | 56 |  |
 | Lennox-Gastaut SyndromeMedian % reduction and % responders for drop attacks, i.e., tonic or atonic seizures |  |  |  |  |  |  |  |  |
 | 10 | N | 49 | -- | -- | -- | -- | -- | 46 |
 | Median % Reduction | -5 | -- | -- | -- | -- | -- | 15 |  |
-| % Responders | 14 |  |  |  |  |  | 28p=0.071; |  |
+| % Responders | 14 |  |  |  |  |  | 28p=0.071 |  |
 | Improvement in Seizure SeverityPercent of subjects who were minimally, much, or very much improved from baseline. | 28 |  |  |  |  |  | 52 |  |
 | Comparisons with placebo: |  |  |  |  |  |  |  |  |
 
@@ -154,7 +154,7 @@ Subset analyses of the antiepileptic efficacy of topiramate tablets in these stu
 
 In clinical trials for epilepsy, daily dosages were decreased in weekly intervals by 50 to 100 mg/day in adults and over a 2- to 8-week period in pediatric patients; transition was permitted to a new antiepileptic regimen when clinically indicated.
 
-## 14.4 Extended-Release: Adjunctive Therapy in Adult Patients With Partial-Onset Seizures with QUDEXY XR
+## 14.4 Extended-Release: Adjunctive Therapy in Adult Patients with Partial-Onset Seizures with QUDEXY XR
 
 The effectiveness of QUDEXY XR as an adjunctive treatment for adults (18 to 75 years of age) was evaluated in a randomized, international, multi-center, double-blind, parallel-group, placebo-controlled trial in patients with a history of partial-onset seizures, with or without secondary generalization (Study 14).
 
@@ -166,11 +166,11 @@ Patients then entered the maintenance period at the assigned dose of 200 mg once
 
 The percent reduction in the frequency of partial-onset seizure, baseline period compared to the treatment phase, was the primary endpoint.
 Data was analyzed by the Wilcoxon rank-sum test, with the criteria of statistical significance of p<0.05.
-The results of the analysis are presented in Table 14.
+The results of the analysis are presented in Table 15.
 The median percent reduction in seizure rate was 39.5% in patients taking QUDEXY XR (N=124) and 21.7% in patients taking placebo (N=125).
 This difference was statistically significant.
 
-Table 14: Percent Reduction From Baseline in Partial-Onset Seizure Frequency During 11-week Treatment Period in Study 14
+Table 15: Percent Reduction From Baseline in Partial-Onset Seizure Frequency During 11-week Treatment Period in Study 14
 
 | Study End Point | QUDEXY XR (N=124) | Placebo (N=125) |
 | --- | --- | --- |
@@ -231,13 +231,13 @@ Approximately 80% or more patients in each treatment group completed the study.
 The median average daily dosages were 45 and 79 mg/day in the target dose groups of immediate-release topiramate 50 and 100 mg/day, respectively.
 
 Effectiveness of treatment was assessed by comparing each immediate-release topiramate treatment group to placebo (ITT population) for the percent reduction from baseline to the last 12 weeks of the double-blind phase in the monthly migraine attack rate (primary endpoint).
-The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 15.
+The percent reduction from baseline to the last 12 weeks of the double-blind phase in average monthly migraine attack rate is shown in Table 16.
 The 100 mg immediate-release topiramate dose produced a statistically significant treatment difference relative to placebo of 28% reduction from baseline in the monthly migraine attack rate.
 
 The mean reduction from baseline to the last 12 weeks of the double-blind phase in average monthly attack rate, a key secondary efficacy endpoint in Study 13 (and the primary efficacy endpoint in Studies 11 and 12, of adults) was 3.0 for 100 mg immediate-release topiramate dose and 1.7 for placebo.
 This 1.3 treatment difference in mean reduction from baseline of monthly migraine rate was statistically significant (p = 0.0087).
 
-Table 15: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
+Table 16: Percent Reduction from Baseline to the Last 12 Weeks of Double-Blind Phase in Average Monthly Attack Rate: Study 13 (Intent-to-Treat Analysis Set)
 
 | Category | Placebo (N=33) | Topiramate 50 mg/day (N=35) | Topiramate 100 mg/day (N=35) |
 | --- | --- | --- | --- |

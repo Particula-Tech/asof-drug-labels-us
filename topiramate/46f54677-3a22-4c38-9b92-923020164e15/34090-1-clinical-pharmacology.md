@@ -58,7 +58,7 @@ Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2) [see Dosage and Administration (2.4, 2.5)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance greater than 70 mL/min/1.73 m2) [see Dosage and Administration (2.4, 2.6)].
 
 Hemodialysis
 
@@ -78,7 +78,7 @@ Following a single oral 100 mg dose, maximum plasma concentration for elderly an
 Reflecting the primary renal elimination of topiramate, topiramate plasma and renal clearance were reduced 21% and 19%, respectively, in elderly subjects, compared to young adults.
 Similarly, topiramate half-life was longer (13%) in the elderly.
 Reduced topiramate clearance resulted in slightly higher maximum plasma concentration (23%) and AUC (25%) in elderly subjects than observed in young adults.
-Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced [see Dosage and Administration (2.3), Use in Specific Populations (8.5), (8.7)].
+Topiramate clearance is decreased in the elderly only to the extent that renal function is reduced [see Dosage and Administration (2.3), Use in Specific Populations (8.5)].
 
 Clearance of topiramate in adults was not affected by gender or race.
 
@@ -87,7 +87,7 @@ Pediatric Pharmacokinetics
 Pharmacokinetics of immediate-release topiramate were evaluated in patients age 2 years to less than 16 years.
 Patients received either no or a combination of other antiepileptic drugs.
 A population pharmacokinetic model was developed on the basis of pharmacokinetic data from relevant topiramate clinical studies.
-This dataset contained data from 1217 subjects including 258 pediatric patients age 2 years to less than 16 years (95 pediatric patients less than 10 years of age).
+This dataset contained data from 1,217 subjects including 258 pediatric patients age 2 years to less than 16 years (95 pediatric patients less than 10 years of age).
 
 Pediatric patients on adjunctive treatment exhibited a higher oral clearance (L/h) of topiramate compared to patients on monotherapy, presumably because of increased clearance from concomitant enzyme-inducing antiepileptic drugs.
 In comparison, topiramate clearance per kg is greater in pediatric patients than in adults and in young pediatric patients (down to 2 years) than in older pediatric patients.
@@ -104,13 +104,13 @@ In vitro studies indicate that topiramate is a mild inhibitor of CYP2C19 and a m
 Antiepileptic Drugs
 
 Potential interactions between immediate-release topiramate and standard AEDs were assessed in controlled clinical pharmacokinetic studies in patients with epilepsy.
-The effects of these interactions on mean plasma AUCs are summarized in Table 11.
+The effects of these interactions on mean plasma AUCs are summarized in Table 12.
 Interaction of QUDEXY XR and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 11, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate was added.
+In Table 12, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate was added.
 The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
 
-Table 11: Summary of AED Interactions with Topiramate
+Table 12: Summary of AED Interactions with Topiramate
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -202,7 +202,7 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg per day) resulted in a 10% decrease in Cmax and 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Coadministration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg per day) resulted in a 10% decrease in Cmax and 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
 Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
 
 Venlafaxine
@@ -213,8 +213,8 @@ Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of t
 ## 12.6 Relative Bioavailability of QUDEXY XR Compared to Immediate-Release Topiramate in Healthy Volunteers
 
 QUDEXY XR, taken once daily, provides similar steady-state topiramate concentrations to immediate-release topiramate taken every 12 hours, when administered at the same total daily dose.
-In a healthy volunteer, multiple-dose crossover study, the 90% CI for the ratios of AUC0–24, Cmax and Cmin, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose)) for multiple time points were within the 80 to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
-In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80 to 125% bioequivalence limits, except for the initial time points before 3 hours and at 8 hours post-dose, which is not expected to have a significant clinical impact.
+In a healthy volunteer, multiple-dose crossover study, the 90% CI for the ratios of AUC0–24, Cmax and Cmin, as well as partial AUC (the area under the concentration-time curve from time 0 to time p (post dose)) for multiple time points were within the 80% to 125% bioequivalence limits, indicating no clinically significant difference between the two formulations.
+In addition, the 90% CI for the ratios of topiramate plasma concentration at each of multiple time points over 24 hours for the two formulations were within the 80% to 125% bioequivalence limits, except for the initial time points before 3 hours and at 8 hours post-dose, which is not expected to have a significant clinical impact.
 
 The effects of switching between QUDEXY XR and immediate-release topiramate were also evaluated in the same multiple-dose, crossover, comparative bioavailability study.
 In healthy subjects switched from immediate-release topiramate given every 12 hours to QUDEXY XR given once daily, similar concentrations were maintained immediately after the formulation switch.

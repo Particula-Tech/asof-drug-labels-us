@@ -36,7 +36,8 @@ Discuss the appropriate level of caution with patients, before patients with epi
 
 Fetal Toxicity
 
-Inform pregnant women and women of childbearing potential that use of QUDEXY XR during pregnancy can cause fetal harm, including an increased risk for cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
+Inform pregnant women and women of childbearing potential that use of QUDEXY XR during pregnancy can cause fetal harm.
+QUDEXY XR increased the risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), which occur early in pregnancy before many women know they are pregnant.
 Also inform patients that infants exposed to topiramate monotherapy in utero may be small for their gestational age.
 There may also be risks to the fetus from chronic metabolic acidosis with use of QUDEXY XR during pregnancy [see Warnings and Precautions (5.4), (5.7), Use in Specific Populations (8.1)].
 When appropriate, counsel pregnant women and women of childbearing potential about alternative therapeutic options.
@@ -46,10 +47,18 @@ Advise women of childbearing potential who are not planning a pregnancy to use e
 Encourage pregnant women using QUDEXY XR to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
+Decrease in Bone Mineral Density
+
+Inform the patient or caregiver that long-term treatment with QUDEXY XR can decrease bone formation and increase bone resorption in children [see Warnings and Precautions (5.9)].
+
+Negative Effects on Growth (Height and Weight)
+
+Discuss with the patient or caregiver that long-term QUDEXY XR treatment may attenuate growth as reflected by slower height increase and weight gain in pediatric patients [see Warnings and Precautions (5.10)].
+
 Serious Skin Reactions
 
 Inform patients about the signs of serious skin reactions.
-Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.9)].
+Instruct patients to immediately inform their healthcare provider at the first appearance of skin rash [see Warnings and Precautions (5.11)].
 
 Hyperammonemia and Encephalopathy
 
@@ -57,14 +66,14 @@ Warn patients about the possible development of hyperammonemia with or without e
 Although hyperammonemia may be asymptomatic, clinical symptoms of hyperammonemic encephalopathy often include acute alterations in level of consciousness and/or cognitive function with lethargy and/or vomiting.
 This hyperammonemia and encephalopathy can develop with topiramate treatment alone or with topiramate treatment with concomitant valproic acid (VPA).
 
-Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.10)].
+Instruct patients to contact their physician if they develop unexplained lethargy, vomiting, or changes in mental status [see Warnings and Precautions (5.12)].
 
 Kidney Stones
 
-Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.11)].
+Instruct patients, particularly those with predisposing factors, to maintain an adequate fluid intake in order to minimize the risk of kidney stone formation [see Warnings and Precautions (5.13)].
 
 Hypothermia
 
 Counsel patients that QUDEXY XR can cause a reduction in body temperature, which can lead to alterations in mental status.
 If they note such changes, they should call their health care professional and measure their body temperature.
-Patients taking concomitant valproic acid should be specifically counseled on this potential adverse reaction [see Warnings and Precautions (5.12)].
+Patients taking concomitant valproic acid should be specifically counseled on this potential adverse reaction [see Warnings and Precautions (5.14)].
