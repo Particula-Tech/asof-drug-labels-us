@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021731"
+  ],
+  "inn": "leuprolide",
+  "labeler": "TOLMAR Inc.",
+  "package_ndcs": [
+    "62935-461-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+      "generic": "leuprolide acetate",
+      "name": "Eligard"
+    }
+  ],
+  "setid": "0f03a91d-37eb-4e91-bf00-7fe097a4bead",
+  "source": "dailymed"
+}

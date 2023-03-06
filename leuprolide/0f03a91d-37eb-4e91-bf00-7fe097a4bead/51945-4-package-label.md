@@ -1,0 +1,3 @@
+# PRINCIPAL DISPLAY PANEL
+
+# 45 mg carton
