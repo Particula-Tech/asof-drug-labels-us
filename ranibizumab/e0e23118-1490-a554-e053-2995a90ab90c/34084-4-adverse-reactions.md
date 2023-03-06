@@ -97,7 +97,7 @@ For these reasons, comparison of the incidence of antibodies in the studies desc
 The pre-treatment incidence of immunoreactivity to ranibizumab was 0%-5% across treatment groups.
 After monthly dosing with ranibizumab for 6 to 24 months, antibodies to ranibizumab were detected in approximately 1%-9% of patients.
 
-The clinical significance of immunoreactivity to ranibizumab products are unclear at this time.
+The clinical significance of immunoreactivity to ranibizumab products is unclear at this time.
 Among neovascular AMD patients with the highest levels of immunoreactivity, some were noted to have iritis or vitritis.
 Intraocular inflammation was not observed in patients with DME and DR at baseline, or RVO patients with the highest levels of immunoreactivity.
 

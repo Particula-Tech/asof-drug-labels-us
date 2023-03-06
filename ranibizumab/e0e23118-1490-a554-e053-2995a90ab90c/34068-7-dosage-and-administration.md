@@ -4,7 +4,7 @@
 
 FOR OPHTHALMIC INTRAVITREAL INJECTION.
 
-Vials: A 5-micron sterile filter needle (19-gauge × 1-1/2 inch), a 1-mL Luer lock syringe and a 30-gauge × ½ inch sterile injection needle are needed but not included.
+Vials: A 5-micron sterile filter needle (19-gauge × 1-1/2 inch), a 1-mL Luer lock syringe and a 30-gauge × 1/2 inch sterile injection needle are needed but not included.
 
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
@@ -41,7 +41,7 @@ Vial:
 
 Using aseptic technique, all of the CIMERLI vial contents are withdrawn through a 5-micron (19-gauge × 1-1/2 inch), sterile filter needle attached to a 1 mL syringe (not included).
 The filter needle should be discarded after withdrawal of the vial contents and should not be used for intravitreal injection.
-The filter needle should be replaced with a sterile 30-gauge × ½ inch needle for the intravitreal injection.
+The filter needle should be replaced with a sterile 30-gauge × 1/2 inch needle for the intravitreal injection.
 
 Use aseptic technique to carry out the following preparation steps:
 
