@@ -67,7 +67,7 @@ The estimates cited apply primarily to patients who are not taking drugs that af
 For example, patients taking enzyme-inducing antiepileptic drugs (carbamazepine, phenytoin, and phenobarbital) will clear valproate more rapidly.
 Because of these changes in valproate clearance, monitoring of antiepileptic concentrations should be intensified whenever concomitant antiepileptics are introduced or withdrawn.
 
-Special Populations
+Specific Populations
 
 Effect of Age
 
@@ -105,3 +105,46 @@ Renal Disease
 A slight reduction (27%) in the unbound clearance of valproate has been reported in patients with renal failure (creatinine clearance < 10 mL/minute); however, hemodialysis typically reduces valproate concentrations by about 20%.
 Therefore, no dosage adjustment appears to be necessary in patients with renal failure.
 Protein binding in these patients is substantially reduced; thus, monitoring total concentrations may be misleading.
+
+Drug Interaction Studies with No Interaction or Likely Clinically Unimportant Interaction
+
+Antacids
+
+A study involving the co-administration of valproate 500 mg with commonly administered antacids (Maalox, Trisogel, and Titralac - 160 mEq doses) did not reveal any effect on the extent of absorption of valproate.
+
+Chlorpromazine
+
+A study involving the administration of 100 to 300 mg/day of chlorpromazine to schizophrenic patients already receiving valproate (200 mg BID) revealed a 15% increase in trough plasma levels of valproate.
+
+Haloperidol
+
+A study involving the administration of 6 to 10 mg/day of haloperidol to schizophrenic patients already receiving valproate (200 mg BID) revealed no significant changes in valproate trough plasma levels.
+
+Cimetidine and Ranitidine
+
+Cimetidine and ranitidine do not affect the clearance of valproate.
+
+Acetaminophen
+
+Valproate had no effect on any of the pharmacokinetic parameters of acetaminophen when it was concurrently administered to three epileptic patients.
+
+Clozapine
+
+In psychotic patients (n=11), no interaction was observed when valproate was co-administered with clozapine.
+
+Lithium
+
+Co-administration of valproate (500 mg BID) and lithium carbonate (300 mg TID) to normal male volunteers (n=16) had no effect on the steady-state kinetics of lithium.
+
+Lorazepam
+
+Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in normal male volunteers (n=9) was accompanied by a 17% decrease in the plasma clearance of lorazepam.
+
+Olanzapine
+
+No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
+Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
+
+Oral Contraceptive Steroids
+
+Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (250 mcg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.

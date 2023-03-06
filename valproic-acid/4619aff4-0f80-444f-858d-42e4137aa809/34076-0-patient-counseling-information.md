@@ -51,58 +51,8 @@ AbbVie Inc.
 
 North Chicago, IL 60064, U.S.A.
 
-©1989-2021 AbbVie Inc.
+©1989-2023 AbbVie Inc.
 
-Revised: June 2021
+Revised: February 2023
 
-20068450
-
-Administration Guide
-
-DEPAKOTE®
-
-Sprinkle Capsules
-
-DIVALPROEX SODIUM
-
-DELAYED RELEASE CAPSULES
-
-DEPAKOTE® Sprinkle Capsules (divalproex sodium delayed release capsules) may be swallowed whole or the capsule contents may be sprinkled onto soft food such as applesauce or pudding.
-
-Serving Suggestions
-
-Depakote® Sprinkle Capsules (divalproex sodium delayed release capsules) provide the medicine that your healthcare provider has prescribed.
-The sprinkles are flavorless.
-Soft foods such as applesauce or pudding are best to use for mixing and taking Depakote Sprinkle Capsules.
-
-TO ADMINISTER WITH FOOD:
-
-| 1 |  | Hold the capsule so that the end marked "THIS END UP" is straight up and the arrow on the capsule is up. The capsule is extra large to help prevent spilling the DEPAKOTE Sprinkle Capsules, but it still must be handled carefully. |
-| --- | --- | --- |
-| 2 |  | To open the capsule, hold it carefully. As shown in the picture, gently twist the capsule apart to separate the top from the bottom. It may be helpful to hold the capsule over the food to which you will add the sprinkles. If you spill any of the capsule contents, start over with a new capsule and a new portion of food. |
-| 3 |  | Place all the sprinkles onto a small amount (about a teaspoonful) of soft food such as applesauce or pudding. |
-| 4 |  | Make sure that all of the sprinkle and food mixture is swallowed right away. Do not chew the sprinkle and food mixture. Drinking water right after taking the sprinkle and food mixture will help make sure all sprinkles are swallowed. Throw away any unused sprinkle and food mixture; do not store any sprinkle and food mixture for future use. Mix it each time, right before it is taken. |
-
-Make sure this medicine is taken exactly as your healthcare provider prescribed it.
-If you have any questions, please contact your healthcare provider or pharmacist.
-Keep all of your healthcare provider's appointments as scheduled.
-Make sure that Depakote Sprinkle Capsules and all other medicines are kept out of the reach of children.
-
-Note
-
-You may see the specially coated particles in Depakote Sprinkle Capsules in stool.
-If you do, you should inform your healthcare provider.
-
-Ask your healthcare provider or pharmacist about possible side effects with Depakote Sprinkle Capsules.
-
-Store Depakote Sprinkle Capsules below 77°F (25°C).
-
-AbbVie Inc.
-
-North Chicago, IL 60064, U.S.A.
-
-©1989-2021 AbbVie Inc.
-
-Revised: June 2021
-
-20068450
+20077500
