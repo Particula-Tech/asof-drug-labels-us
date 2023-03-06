@@ -5,7 +5,7 @@
 When calcitriol was applied topically to mice for up to 24 months, no significant changes in tumor incidence were observed.
 Concentrations of calcitriol in ointment base of 0 (vehicle control), 0.3, 0.6 and 1.0 ppm were evaluated.
 
-A two-year carcinogenicity study was conducted in which calcitriol was orally administered to rats at dosages of approximately0.005, 0.03, and 0.1 mcg/kg/day (0.03, 0.18, and 0.6 mcg/m2/day, respectively).
+A two-year carcinogenicity study was conducted in which calcitriol was orally administered to rats at dosages of approximately 0.005, 0.03, and 0.1 mcg/kg/day (0.03, 0.18, and 0.6 mcg/m2/day, respectively).
 The incidence of benign pheochromocytomas was significantly increased in female rats.
 No other significant differences in tumor incidence data were observed.
 

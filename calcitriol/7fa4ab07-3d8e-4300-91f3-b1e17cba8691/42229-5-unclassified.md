@@ -13,10 +13,10 @@ Patients using Calcitriol Ointment should receive the following information:
 - Avoid contact with eyes, lips, and facial skin.
 - Advise breastfeeding women not to apply Calcitriol Ointment directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations (8.2)].
 
-To report SUSPECTED ADVERSE REACTIONS, contact Perrigo at 866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Padagis at 866-634-9120 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Manufactured by: G. Production Inc. Baie d'Urfé, QC H9X 3S4 Canada Marketed by: Perrigo Allegan, MI 49010 Made in Canada.
-P51947-3 6Z300 RC J4
+Manufactured by: G. Production Inc. Baie d'Urfé, QC H9X 3S4 Canada Marketed by: Padagis Allegan, MI 49010 Made in Canada.
+P51947-4 6Z300 RC PH5
 
 PATIENT INFORMATION Calcitriol Ointment
 
@@ -68,7 +68,7 @@ Calcitriol Ointment may cause serious side effects, including:
 These are not all of the possible side effects of Calcitriol Ointment.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
-You may also report side effects to Perrigo at 1-866-634-9120.
+You may also report side effects to Padagis at 1-866-634-9120.
 
 How should I store Calcitriol Ointment?
 
@@ -87,4 +87,4 @@ You can ask your healthcare provider or pharmacist for information about Calcitr
 What are the ingredients in Calcitriol Ointment?
 Active ingredient: calcitriol Inactive ingredients: mineral oil, dl-α-tocopherol, and white petrolatum.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 07/2020
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 01/2023
