@@ -4,5 +4,5 @@ Distributed by: Alvogen, Inc. Morristown, NJ 07960 USA
 
 Product of India
 
-PI488-01 Rev.
-05/2022
+PI483-00 Rev.
+10/2022

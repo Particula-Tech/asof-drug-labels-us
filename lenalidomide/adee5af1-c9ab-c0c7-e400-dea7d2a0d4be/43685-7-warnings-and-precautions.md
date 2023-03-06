@@ -102,9 +102,9 @@ Non-melanoma skin cancer SPM, including squamous cell carcinoma and basal cell c
 In patients with relapsed or refractory MM treated with lenalidomide/dexamethasone, the incidence of hematologic plus solid tumor (excluding squamous cell carcinoma and basal cell carcinoma) SPM was 2.3% versus 0.6% in the dexamethasone alone arm.
 Non-melanoma skin cancer SPM, including squamous cell carcinoma and basal cell carcinoma, occurred in 3.1% of patients receiving lenalidomide/dexamethasone, compared to 0.6% in the dexamethasone alone arm.
 
-Patients who received lenalidomide-containing therapy until disease progression did not show a higherincidence of invasive SPM than patients treated in the fixed duration lenalidomide-containing arms.
+Patients who received lenalidomide-containing therapy until disease progression did not show a higher incidence of invasive SPM than patients treated in the fixed duration lenalidomide-containing arms.
 Monitor patients for the development of second primary malignancies.
-Take into account both the potential benefit of lenalidomide capsules and the risk of second primary malignancies when considering treatment withlenalidomide capsules.
+Take into account both the potential benefit of lenalidomide capsules and the risk of second primary malignancies when considering treatment with lenalidomide capsules.
 
 ## 5.7 Increased Mortality in Patients with MM When Pembrolizumab Is Added to a Thalidomide Analogue and Dexamethasone
 
