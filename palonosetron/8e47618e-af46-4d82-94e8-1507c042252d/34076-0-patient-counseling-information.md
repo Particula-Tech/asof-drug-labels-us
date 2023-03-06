@@ -22,6 +22,6 @@ Inform female patients of reproductive potential that AKYNZEO may cause fetal ha
 
 Manufactured by Helsinn Birex Pharmaceuticals, Dublin, Ireland for Helsinn Healthcare SA, Switzerland
 
-Distributed by Helsinn Therapeutics (U.S.), Inc., Iselin, NJ08830, under license of Helsinn Healthcare SA, Switzerland
+Distributed by Helsinn Therapeutics (U.S.), Inc., Iselin, NJ 08830, under license of Helsinn Healthcare SA, Switzerland
 
 AKYNZEO is a registered trademark of Helsinn Healthcare SA, Lugano, Switzerland

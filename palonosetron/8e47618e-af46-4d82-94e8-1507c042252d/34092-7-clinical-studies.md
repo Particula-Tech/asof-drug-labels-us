@@ -5,9 +5,9 @@ Study 1
 In a multicenter, randomized, parallel, double-blind, controlled clinical trial of 694 patients, the efficacy and safety of a single dose of oral netupitant in combination with oral palonosetron was compared with a single oral dose of palonosetron in cancer patients receiving a chemotherapy regimen that included cisplatin (median dose of 75 mg/m2).
 The efficacy of AKYNZEO was assessed in 135 patients who received AKYNZEO capsules (300 mg netupitant and 0.5 mg palonosetron) and 136 patients who received oral palonosetron 0.5 mg.
 
-Treatment regimens for the AKYNZEO and palonosetron arms are summarized in Table 15.
+Treatment regimens for the AKYNZEO and palonosetron arms are summarized in Table 16.
 
-Table 15: Oral Antiemetic Treatment Regimen in Study 1
+Table 16: Oral Antiemetic Treatment Regimen in Study 1
 
 | Treatment Regimen | Day 1 | Days 2 to 4 |
 | --- | --- | --- |
@@ -22,11 +22,11 @@ The most common chemotherapeutic agents and the proportion of patients exposed w
 
 The key efficacy endpoints were complete response (CR) (defined as no emetic episode and no use of rescue medication) for the 25 to 120 hour interval (delayed phase), CR for the 0 to 24 hour interval (acute phase), and CR within 120 hours (overall phase) after the start of the chemotherapy administration.
 
-A summary of the key results from this study is shown in Table 16.
+A summary of the key results from this study is shown in Table 17.
 
-Table 16: Proportion of Patients Responding by Treatment Group and Phase in Study 1
+Table 17: Proportion of Patients Responding by Treatment Group and Phase in Study 1
 
-|  | AKYNZEO Capsules 300 mg netupitant/ 0.5 mg palonosetron N=135 % | Palonosetron 0.5 mg N=36 % | p-valueAdjusted p-values for multiple comparisons using Cochran-Mantel-Haenszel test, stratified by gender. |
+|  | AKYNZEO Capsules 300 mg netupitant/ 0.5 mg palonosetron (N=135) | Palonosetron 0.5 mg (N=136) | p-valueAdjusted p-values for multiple comparisons using Cochran Mantel Haenszel test, stratified by gender. |
 | --- | --- | --- | --- |
 | COMPLETE RESPONSE |  |  |  |
 | Delayed PhaseDelayed phase: 25 to 120 hours post-cisplatin treatment. | 90.4 | 80.1 | 0.032 |
@@ -37,9 +37,9 @@ Study 2 (NCT01339260)
 
 In a multicenter, randomized, parallel, double-blind, active controlled, superiority trial, the efficacy and safety of a single oral dose of AKYNZEO was compared with a single oral dose of palonosetron 0.5 mg in cancer patients scheduled to receive the first cycle of an anthracycline and cyclophosphamide (AC) regimen for the treatment of a solid malignant tumor (Study 2).
 All patients received a single oral dose of dexamethasone.
-Treatment regimens for the AKYNZEO and palonosetron arms are summarized in Table 17.
+Treatment regimens for the AKYNZEO and palonosetron arms are summarized in Table 18.
 
-Table 17: Oral Antiemetic Treatment Regimen in Study 2
+Table 18: Oral Antiemetic Treatment Regimen in Study 2
 
 | Treatment Regimen | Day 1 | Days 2 to 3 |
 | --- | --- | --- |
@@ -63,11 +63,11 @@ During the first cycle, 32% of the 725 patients treated with AKYNZEO received a 
 The primary efficacy endpoint was the CR rate in the delayed phase, 25 to120 hours after the start of chemotherapy administration.
 
 Major secondary efficacy endpoints included CR for the acute and overall phases.
-A summary of key results from Study 2 is shown in Table 18.
+A summary of key results from Study 2 is shown in Table 19.
 
-Table 18: Proportion of Patients Responding by Treatment Group and Phase – Cycle 1 in Study 2
+Table 19: Proportion of Patients Responding by Treatment Group and Phase Cycle 1 in Study 2
 
-|  | AKYNZEO Capsules 300 mg netupitant/ 0.5 mg palonosetron N=724 % | Palonosetron 0.5 mg N=725 % | p-valuep-value from Cochran-Mantel-Haenszel test, stratified by age class and region. |
+|  | AKYNZEO Capsules 300 mg netupitant/ 0.5 mg palonosetron N=724 % | Palonosetron 0.5 mg N=725 % | p-valuep-value from Cochran Mantel Haenszel test, stratified by age class and region. |
 | --- | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |  |
 | COMPLETE RESPONSE |  |  |  |
