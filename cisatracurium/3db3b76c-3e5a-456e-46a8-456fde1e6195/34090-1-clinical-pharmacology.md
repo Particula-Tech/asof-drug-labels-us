@@ -207,7 +207,7 @@ Parameter Estimates* for Cisatracurium and Metabolites in ICU Patients After Lon
 |  | Parameter | Cisatracurium (n = 6) |
 | --- | --- | --- |
 | Parent Compound | CL (mL/min/kg) | 7.45 ± 1.02 |
-|  | t½ β(min) | 26.8 ± 11.1 |
+|  | t½β(min) | 26.8 ± 11.1 |
 |  | Vβ (mL/kg)† | 280 ± 103 |
 | Laudanosine | Cmax (ng/mL) | 707 ± 360 |
 |  | t½β (hrs) | 6.6 ± 4.1 |
