@@ -17,7 +17,7 @@ injection
 | What are the ingredients in ZARXIO?Active ingredient: filgrastim-sndzInactive ingredients: glutamic acid, polysorbate 80, sorbitol, sodium hydroxide, water for injection Manufactured by: Sandoz Inc., Princeton, NJ 08540, US License No. 2003At: Sandoz GmbH, Langkampfen, Austria, Product of AustriaFor more information visit www.zarxio.com or call 1-800-525-8747. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: xx/2022
+Revised: 09/2022
 
 Instructions for Use
 
@@ -258,4 +258,4 @@ Sandoz GmbH, Langkampfen, Austria,
 
 Product of Austria
 
-Revised: xx/2022
+Revised: 09/2022
