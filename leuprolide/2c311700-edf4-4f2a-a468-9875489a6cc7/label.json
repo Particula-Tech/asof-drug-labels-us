@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213150"
+  ],
+  "inn": "leuprolide",
+  "labeler": "TOLMAR Inc.",
+  "package_ndcs": [
+    "62935-163-60"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+      "generic": "leuprolide acetate",
+      "name": "LEUPROLIDE ACETATE"
+    }
+  ],
+  "setid": "2c311700-edf4-4f2a-a468-9875489a6cc7",
+  "source": "dailymed"
+}
