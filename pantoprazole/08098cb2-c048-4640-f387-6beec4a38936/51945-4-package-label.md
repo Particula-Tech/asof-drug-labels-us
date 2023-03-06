@@ -30,17 +30,13 @@ Do NOT split, chew, or crush tablets.
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Packet
 
-NDC 0008-0844-01
-
-Pfizer
-
-Protonix® 40 mg (pantoprazole sodium)
+Pfizer Protonix® (pantoprazole sodium) 40 mg NDC 0008-0844-01
 
 For Delayed-Release Oral Suspension* *suspension in apple juice or applesauce only
 
 Each packet contains: Pantoprazole 40 mg (equivalent to 45.1 mg of pantoprazole sodium)
 
-14287101 F.2/0518/6103546 Code 40
+F.3/0422/6103546 Code 90
 
 Rx only
 

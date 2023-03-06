@@ -45,14 +45,14 @@ Advise females of reproductive potential to inform their healthcare provider of 
 
 Administration
 
-- Do not split, crush, or chew PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets.
-- PROTONIX oral suspension packet is a fixed dose and cannot be divided to make a smaller dose.
-- Swallow PROTONIX Delayed-Release Tablets whole, with or without food in the stomach.
-- Concomitant administration of antacids does not affect the absorption of PROTONIX Delayed-Release Tablets.
-- Take PROTONIX For Delayed-Release Oral Suspension approximately 30 minutes before a meal.
-- Administer PROTONIX For Delayed-Release Oral Suspension in apple juice or applesauce, as described in the Instructions for Use.
+- •Do not split, crush, or chew PROTONIX For Delayed-Release Oral Suspension and PROTONIX Delayed-Release Tablets.
+- •PROTONIX oral suspension packet is a fixed dose and cannot be divided to make a smaller dose.
+- •Swallow PROTONIX Delayed-Release Tablets whole, with or without food in the stomach.
+- •Concomitant administration of antacids does not affect the absorption of PROTONIX Delayed-Release Tablets.
+- •Take PROTONIX For Delayed-Release Oral Suspension approximately 30 minutes before a meal.
+- •Administer PROTONIX For Delayed-Release Oral Suspension in apple juice or applesauce, as described in the Instructions for Use.
   Do not administer in water, other liquids, or foods.
-- For patients with a nasogastric (NG) or gastrostomy tube, PROTONIX For Delayed-Release Oral Suspension can be administered with apple juice, as described in the Instructions for Use.
-- Take a missed dose as soon as possible.
+- •For patients with a nasogastric (NG) or gastrostomy tube, PROTONIX For Delayed-Release Oral Suspension can be administered with apple juice, as described in the Instructions for Use.
+- •Take a missed dose as soon as possible.
   If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
   Do not take 2 doses at the same time.

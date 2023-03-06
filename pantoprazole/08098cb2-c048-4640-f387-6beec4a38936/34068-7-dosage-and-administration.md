@@ -50,30 +50,30 @@ Do not divide the 40 mg PROTONIX For Delayed-Release Oral Suspension packet to c
 
 PROTONIX For Delayed-Release Oral Suspension - Oral Administration in Applesauce
 
-- Open packet.
-- Sprinkle granules on one teaspoonful of applesauce.
+- •Open packet.
+- •Sprinkle granules on one teaspoonful of applesauce.
   DO NOT USE OTHER FOODS OR CRUSH OR CHEW THE GRANULES.
-- Take within 10 minutes of preparation.
-- Take sips of water to make sure granules are washed down into the stomach.
+- •Take within 10 minutes of preparation.
+- •Take sips of water to make sure granules are washed down into the stomach.
   Repeat water sips as necessary.
 
 PROTONIX For Delayed-Release Oral Suspension - Oral Administration in Apple Juice
 
-- Open packet.
-- Empty granules into a small cup or teaspoon containing one teaspoon of apple juice.
-- Stir for 5 seconds (granules will not dissolve) and swallow immediately.
-- To make sure that the entire dose is taken, rinse the container once or twice with apple juice to remove any remaining granules.
+- •Open packet.
+- •Empty granules into a small cup or teaspoon containing one teaspoon of apple juice.
+- •Stir for 5 seconds (granules will not dissolve) and swallow immediately.
+- •To make sure that the entire dose is taken, rinse the container once or twice with apple juice to remove any remaining granules.
   Swallow immediately.
 
 PROTONIX For Delayed-Release Oral Suspension - Nasogastric (NG) Tube or Gastrostomy Tube Administration
 
 For patients who have a nasogastric tube or gastrostomy tube in place, PROTONIX For Delayed-Release Oral Suspension can be given as follows:
 
-- Remove the plunger from the barrel of a 2 ounce (60 mL) catheter-tip syringe.
+- •Remove the plunger from the barrel of a 2 ounce (60 mL) catheter-tip syringe.
   Discard the plunger.
-- Connect the catheter tip of the syringe to a 16 French (or larger) tube.
-- Hold the syringe attached to the tubing as high as possible while giving PROTONIX For Delayed-Release Oral Suspension to prevent any bending of the tubing.
-- Empty the contents of the packet into the barrel of the syringe.
-- Add 10 mL (2 teaspoonfuls) of apple juice and gently tap and/or shake the barrel of the syringe to help rinse the syringe and tube.
+- •Connect the catheter tip of the syringe to a 16 French (or larger) tube.
+- •Hold the syringe attached to the tubing as high as possible while giving PROTONIX For Delayed-Release Oral Suspension to prevent any bending of the tubing.
+- •Empty the contents of the packet into the barrel of the syringe.
+- •Add 10 mL (2 teaspoonfuls) of apple juice and gently tap and/or shake the barrel of the syringe to help rinse the syringe and tube.
   Repeat at least twice more using the same amount of apple juice (10 mL or 2 teaspoonfuls) each time.
   No granules should remain in the syringe.

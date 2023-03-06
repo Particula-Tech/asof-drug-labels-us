@@ -2,14 +2,14 @@
 
 The following serious adverse reactions are described below and elsewhere in labeling:
 
-- Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
-- Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
-- Bone Fracture [see Warnings and Precautions (5.4)]
-- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
-- Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
-- Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
-- Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
-- Fundic Gland Polyps [see Warnings and Precautions (5.10)]
+- •Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.2)]
+- •Clostridium difficile-Associated Diarrhea [see Warnings and Precautions (5.3)]
+- •Bone Fracture [see Warnings and Precautions (5.4)]
+- •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.6)]
+- •Cyanocobalamin (Vitamin B-12) Deficiency [see Warnings and Precautions (5.7)]
+- •Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.8)]
+- •Fundic Gland Polyps [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
