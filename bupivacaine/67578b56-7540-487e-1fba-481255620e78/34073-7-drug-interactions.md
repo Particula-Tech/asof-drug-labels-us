@@ -24,7 +24,7 @@ In situations when concurrent therapy is necessary, careful monitoring of the pa
 
 ## 7.5 Drugs Associated with Methemoglobinemia
 
-Patients who are administered MARCAINE / MARCAINE WITH EPINEPHRINE are at increased risk of developing methemoglobinemia when concurrently exposed to following drugs, which could include other local anesthetics [see Warnings and Precautions (5.3)].
+Patients who are administered MARCAINE / MARCAINE WITH EPINEPHRINE are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics [see Warnings and Precautions (5.3)].
 
 Examples of Drugs Associated with Methemoglobinemia:
 
@@ -32,7 +32,7 @@ Examples of Drugs Associated with Methemoglobinemia:
 | --- | --- |
 | Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
 | Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
-| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase |
+| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, ifosfamide, rasburicase |
 | Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
 | Antimalarials | chloroquine, primaquine |
 | Anticonvulsants | phenobarbital, phenytoin, sodium valproate |

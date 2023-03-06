@@ -52,7 +52,7 @@ Currently, there is no effective treatment for chondrolysis; patients who experi
 
 Risk of Severe, Persistent Hypertension Due to Drug Interactions Between MARCAINE WITH EPINEPHRINE and Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
 
-Administration of MARCAINE WITH EPINEPHRINE (containing a vasoconstrictor) in patients receiving monoamine oxidase inhibitors (MAOI), or tricyclic antidepressants may result in severe, prolonged hypertension.
+Administration of MARCAINE WITH EPINEPHRINE (containing a vasoconstrictor) in patients receiving monoamine oxidase inhibitors (MAOI) or tricyclic antidepressants may result in severe, prolonged hypertension.
 Concurrent use of these agents should generally be avoided.
 In situations when concurrent therapy is necessary, careful monitoring of the patient's hemodynamic status is essential [see Drug Interactions (7.2)].
 

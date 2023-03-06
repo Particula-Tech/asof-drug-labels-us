@@ -17,4 +17,4 @@ Endotracheal intubation, using drugs and techniques familiar to the clinician, m
 If necessary, use drugs to manage the convulsions.
 A bolus intravenous dose of a benzodiazepine will counteract CNS stimulation related to MARCAINE.
 Immediately after the institution of ventilatory measures, evaluate the adequacy of the circulation.
-Supportive treatment of circulatory depression may require Advance Cardiac Life Support measures.
+Supportive treatment of circulatory depression may require Advanced Cardiac Life Support measures.
