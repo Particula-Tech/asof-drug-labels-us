@@ -3,7 +3,7 @@
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Inform patients, families, or their caregivers of the following information before initiating therapy with diclofenac sodium/misoprostol and periodically during the course of ongoing therapy.
 
-Uterine Rupture, Abortion, Premature Birth, or Birth Defects with Misoprostol and Embryo‑Fetal Toxicity with NSAIDs
+Uterine Rupture, Abortion, Premature Birth, or Birth Defects with Misoprostol and Embryo-Fetal Toxicity with NSAIDs
 
 - •Advise females that diclofenac sodium/misoprostol is contraindicated in pregnant women.
   Use of misoprostol, a component of diclofenac sodium/misoprostol during pregnancy can result in maternal and fetal harm, including uterine rupture, abortion, premature birth, or birth defects.

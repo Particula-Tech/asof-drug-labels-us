@@ -3,7 +3,7 @@
 Uterine Rupture, Abortion, Premature Birth, and Birth Defects
 
 - •Administration of misoprostol, a component of diclofenac sodium/misoprostol, to pregnant women can cause uterine rupture, abortion, premature birth, or birth defects.
-  Uterine rupture has occurred when misoprostol was administered in pregnant women to induce labor or an abortion [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
+  Uterine rupture has occurred when misoprostol was administered in pregnant women to induce labor or an abortion [see Warnings and Precautions (5.1)andUse in Specific Populations (8.1)].
 - •Diclofenac sodium/misoprostol is contraindicated in pregnancy [see Contraindications (4)] and not recommended in women of childbearing potential.
   Patients must be advised of the abortifacient property and warned not to give the drug to others [see Warnings and Precautions (5.1)].
 - •If diclofenac sodium/misoprostol is prescribed, verify the pregnancy status of females of reproductive potential prior to initiation of treatment and advise them to use effective contraception during treatment [see Use in Specific Populations (8.3)].

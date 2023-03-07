@@ -6,8 +6,7 @@
   Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 - •After observing the response to initial therapy with diclofenac sodium/misoprostol, the dose and frequency should be adjusted to suit an individual patient’s needs.
 - •Diclofenac sodium/misoprostol is not recommended for patients who would not receive the appropriate dosage of both active ingredients.
-- •Diclofenac sodium/misoprostol, a fixed combination product, is administered as
-- •diclofenac sodium/misoprostol 50 (50 mg diclofenac sodium and 200 mcg misoprostol) or as diclofenac sodium/misoprostol 75 (75 mg diclofenac sodium and 200 mcg misoprostol).
+- •Diclofenac sodium/misoprostol, a fixed combination product, is administered as diclofenac sodium/misoprostol 50 (50 mg diclofenac sodium and 200 mcg misoprostol) or as diclofenac sodium/misoprostol 75 (75 mg diclofenac sodium and 200 mcg misoprostol).
 
 ## 2.2 Recommended Dosage in Patients with Osteoarthritis
 
@@ -16,12 +15,10 @@ For patients who experience intolerance, diclofenac sodium/misoprostol 75 two ti
 A daily dosage of diclofenac sodium greater than 150 mg/day is not recommended.
 Daily doses of the components delivered with these regimens are as follows:
 
-|  | OsteoarthritisRegimen | Diclofenac sodium(mg/day) | Misoprostol(mcg/day) |
+|  | OsteoarthritisRegimen | Diclofenac sodium (mg/day) | Misoprostol (mcg/day) |
 | --- | --- | --- | --- |
-| Diclofenac sodium/misoprostol 50 | three times a daytwo times a day* | 150100 | 600400 |
-| Diclofenac sodium/misoprostol 75 | two times a day* | 150 | 400 |
-
-*For patients who experience intolerance; these dosages are less effective in preventing ulcers
+| Diclofenac sodium/misoprostol 50 | three times a daytwo times a dayFor patients who experience intolerance; these dosages are less effective in preventing ulcers | 150100 | 600400 |
+| Diclofenac sodium/misoprostol 75 | two times a day | 150 | 400 |
 
 ## 2.3 Recommended Dosage in Patients with Rheumatoid Arthritis
 
@@ -30,16 +27,14 @@ For patients who experience intolerance, diclofenac sodium/misoprostol 75 two ti
 A daily dosage of diclofenac sodium greater than 200 mg/day is not recommended.
 Daily doses of the components delivered with these regimens are as follows:
 
-|  | Rheumatoid ArthritisRegimen | Diclofenac sodium(mg/day) | Misoprostol(mcg/day) |
+|  | Rheumatoid ArthritisRegimen | Diclofenac sodium (mg/day) | Misoprostol (mcg/day) |
 | --- | --- | --- | --- |
-| Diclofenac sodium/misoprostol 50 | four times a daythree times a daytwo times a day* | 200150100 | 800600400 |
-| Diclofenac sodium/misoprostol 75 | two times a day* | 150 | 400 |
-
-* For patients who experience intolerance; these dosages are less effective in preventing ulcers
+| Diclofenac sodium/misoprostol 50 | four times a daythree times a daytwo times a dayFor patients who experience intolerance; these dosages are less effective in preventing ulcers | 200150100 | 800600400 |
+| Diclofenac sodium/misoprostol 75 | two times a day | 150 | 400 |
 
 ## 2.4 Additional Dosage Recommendations
 
-Diclofenac sodium/misoprostol contains misoprostol, which provides protection against gastric and duodenal ulcers [see Clinical Studies (14)].
+Diclofenac sodium/misoprostol contains misoprostol, which provides protection against gastric and duodenal ulcers [seeClinical Studies (14)].
 For gastric ulcer prevention, the 200 mcg four and three times a day regimens are therapeutically equivalent, but more protective than the two times a day regimen.
 For duodenal ulcer prevention, the four times a day regimen is more protective than the three or two times a day regimens.
 However, the four times a day regimen is less well tolerated than the three times a day regimen because of usually self-limited diarrhea related to the misoprostol dose [see Adverse Reactions (6.1)], and the two times a day regimen may be better tolerated than three times a day in some patients.

@@ -31,7 +31,7 @@ It is likely that these specific receptors allow misoprostol taken with food to 
 
 Misoprostol, over the range of 50 mcg to 200 mcg, inhibits basal and nocturnal gastric acid secretion, and acid secretion in response to a variety of stimuli, including meals, histamine, pentagastrin, and coffee.
 Activity is apparent 30 minutes after oral administration and persists for at least 3 hours.
-In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal‑stimulated secretion.
+In general, the effects of 50 mcg were modest and shorter-lived, and only the 200 mcg dose had substantial effects on nocturnal secretion or on histamine- and meal- stimulated secretion.
 
 Misoprostol also produces a moderate decrease in pepsin concentration during basal conditions, but not during histamine stimulation.
 It has no significant effect on fasting or postprandial gastrin nor intrinsic factor output.
@@ -61,8 +61,7 @@ Table 2: Pharmacokinetic Parameters of Diclofenac and Misoprostol Acid Following
 | Diclofenac Sodium | 1298 (441) | 2.4 (1.0) | 1357 (290) |
 | Diclofenac sodium/misoprostol 75 | 2025 (2005) | 2.0 (1.4) | 2773 (1347) |
 | Diclofenac Sodium | 2367 (1318) | 1.9 (0.7) | 2609 (1185) |
-
-SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration
+| SD: Standard deviation of the mean; AUC: Area under the curve; Cmax: Peak concentration; Tmax: Time to peak concentration |  |  |  |
 
 ### Absorption
 
@@ -91,7 +90,7 @@ These data may not reflect drug level in mature milk and in a daily dosing regim
 
 ### Elimination
 
-### Metabolism
+Metabolism
 
 Diclofenac: Metabolism is predominantly mediated via CYP2C9 in the liver.
 Five metabolites (4'hydroxy-, 5-hydroxy-, 3'-hydroxy-, 4',5-dihydroxy- and 3'-hydroxy-4'-methoxy diclofenac) have been identified.
@@ -116,7 +115,7 @@ Conjugates of the principal metabolite account for 20% to 30% of the dose excret
 
 Conjugates of three other metabolites together account for 10% to 20% of the dose excreted in the urine and for small amounts excreted in the bile.
 The elimination half-life values for these metabolites are shorter than those for the parent drug.
-Urinary excretion of an additional metabolite (half‑life = 80 hours) accounts for only 1.4% of the oral dose.
+Urinary excretion of an additional metabolite (half-life = 80 hours) accounts for only 1.4% of the oral dose.
 The degree of accumulation of diclofenac metabolites is unknown.
 Some of the metabolites may have activity.
 
@@ -125,7 +124,7 @@ The elimination half-life is approximately 30 minutes.
 
 ### Specific Populations
 
-#### Geriatric Patients
+Geriatric Patients
 
 No differences in the pharmacokinetics of diclofenac were observed in geriatric subjects (66 to 81 years; N=10) compared to younger adult subjects (26 to 46 years; N=10) following administration of diclofenac 50 mg twice daily for 4 weeks.
 
@@ -133,26 +132,26 @@ Though the mean AUC value of misoprostol acid for elderly subjects was 41% highe
 
 In a multiple-dose crossover study of diclofenac sodium/misoprostol administered twice daily to 24 subjects aged 65 years of age and older, misoprostol did not affect the pharmacokinetics of diclofenac [see Use in Specific Populations (8.5)].
 
-#### Racial or Ethnic groups
+Racial or Ethnic Groups
 
 Pharmacokinetic differences due to race have not been identified.
 
-#### Patients with Renal Impairment
+Patients with Renal Impairment
 
 In patients with renal impairment (N=5, creatinine clearance 3 to 42 mL/min) following intravenous administration of 50 mg diclofenac, AUC values and elimination rates were comparable to those in healthy subjects.
 
-Pharmacokinetic studies with misoprostol in patients with severe renal impairment requiring hemodialysis (n=8, mean creatinine clearance 6.2±3.3 mL/min/1.73m2) who received a single dose of 400 mcg misoprostol during a interdialytic period showed an approximate doubling of elimination half-life, Cmax, and AUC of misoprostol acid compared to healthy subjects [see Use in Specific Populations (8.6)]
+Pharmacokinetic studies with misoprostol in patients with severe renal impairment requiring hemodialysis (n=8, mean creatinine clearance 6.2±3.3 mL/min/1.73m2) who received a single dose of 400 mcg misoprostol during a interdialytic period showed an approximate doubling of elimination half-life, Cmax, and AUC of misoprostol acid compared to healthy subjects [see Use in Specific Populations (8.6)].
 
-#### Patients with Hepatic Impairment
+Patients with Hepatic Impairment
 
 In patients with biopsy-confirmed cirrhosis or chronic active hepatitis (variably elevated transaminases and mildly elevated bilirubin, N=10), diclofenac concentrations and urinary elimination values following administration of 100 mg oral solution were comparable to those in healthy subjects.
 
 In a study of subjects with mild to moderate hepatic impairment, mean misoprostol acid AUC and Cmax showed approximately twice high as the mean values obtained in healthy subjects.
-Three subjects who had the lowest antipyrine and lowest indocyanine green clearance values had the highest misoprostol acid AUC and Cmax values
+Three subjects who had the lowest antipyrine and lowest indocyanine green clearance values had the highest misoprostol acid AUC and Cmax values.
 
 ### Drug Interaction Studies
 
-#### Diclofenac
+Diclofenac
 
 Aspirin: When diclofenac sodium/misoprostol was administered with aspirin, the protein binding of diclofenac was reduced, although the clearance of the free diclofenac was not altered.
 The clinical significance of this interaction is not known.
@@ -165,7 +164,7 @@ Benzylpenicillin, ampicillin, oxacillin, chlortetracycline, doxycycline, cephalo
 
 Other drugs: In small groups of patients (7 to 10 patients/interaction study), the concomitant administration of azathioprine, gold, chloroquine, D-penicillamine, prednisolone, doxycycline or digitoxin did not significantly affect Cmax and AUC of diclofenac.
 
-#### Misoprostol
+Misoprostol
 
 Diazepam: Misoprostol given for 1 week had no effect on the steady state pharmacokinetics of diazepam when the two drugs were administered 2 hours apart.
 

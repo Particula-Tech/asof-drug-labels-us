@@ -159,7 +159,8 @@ Avoid use of diclofenac sodium/misoprostol in geriatric patients with cardiovasc
 If use cannot be avoided, use the lowest recommended dosage for the shortest duration and monitor for cardiac and renal adverse reactions [see Dosage and Administration (2.1)].
 Monitor renal function in geriatric patients during treatment with diclofenac sodium/misoprostol, especially in patients with concomitant use of ACE inhibitors or ARBs.
 
-Of the 2,184 patients in clinical studies with diclofenac sodium/misoprostol, 557 (25.5%) were 65 years of age and over.No overall differences in effectiveness were observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in effectiveness between geriatric patients and younger adult patients, but greater sensitivity of some older individuals cannot be ruled out.
+Of the 2,184 patients in clinical studies with diclofenac sodium/misoprostol, 557 (25.5%) were 65 years of age and over.
+No overall differences in effectiveness were observed between these patients and younger adult patients, and other reported clinical experience has not identified differences in effectiveness between geriatric patients and younger adult patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 No clinically meaningful differences in the pharmacokinetics of diclofenac and misoprostol were observed in geriatric patients compared to younger adult patients [see Clinical Pharmacology (12.3)].
 

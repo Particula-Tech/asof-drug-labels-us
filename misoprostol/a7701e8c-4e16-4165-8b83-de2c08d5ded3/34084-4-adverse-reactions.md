@@ -114,4 +114,4 @@ Special senses: hearing impairment, taste loss.
 
 Renal and urinary disorders: cystitis, hematuria, interstitial nephritis, micturition frequency, nephrotic syndrome, oliguria, papillary necrosis, renal failure, glomerulonephritis membranous, glomerulonephritis minimal lesion, glomerulonephritis.
 
-Vision:amblyopia, blurred vision, conjunctivitis, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.
+Vision: amblyopia, blurred vision, conjunctivitis, glaucoma, iritis, lacrimation abnormal, night blindness, vision abnormal.

@@ -110,7 +110,7 @@ However, severe hepatic reactions can occur at any time during treatment with di
 
 If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, abdominal pain, diarrhea, dark urine, etc.), diclofenac sodium/misoprostol should be discontinued immediately.
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and "flu-like" symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, diarrhea, pruritus, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
 If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue diclofenac sodium/misoprostol immediately, and perform a clinical evaluation of the patient.
 
 To minimize the potential risk for an adverse liver related event in patients treated with diclofenac sodium/misoprostol, the lowest effective dose should be used for the shortest duration possible.
