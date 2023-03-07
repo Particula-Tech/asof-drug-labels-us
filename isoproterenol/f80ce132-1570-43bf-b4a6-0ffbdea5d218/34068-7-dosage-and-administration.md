@@ -1,35 +1,29 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Start isoproterenol hydrochloride injection at the lowest recommended dose and increase the rate of administration gradually if necessary while carefully monitoring the patient.
-The usual route of administration is by intravenous infusion or bolus intravenous injection.
-In dire emergencies, the drug may be administered by intracardiac injection.
-If time is not of the utmost importance, initial therapy by intramuscular or subcutaneous injection is preferred.
+## 2.1 General Considerations
 
-Recommended dosage for adults with heart block, Adams-Stokes attacks, and cardiac arrest:
+Inspect visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
+Discard any unused portion.
 
-| Route ofAdministration | Preparation of Dilution | Initial Dose | SubsequentDose Range* |
-| --- | --- | --- | --- |
-| Bolusintravenousinjection | Dilute 1 mL (0.2 mg) in 9 mL of Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP | 0.02 mg to 0.06 mg(1 mL to 3 mL ofdiluted solution) | 0.01 mg to 0.2 mg(0.5 mL to 10 mLof diluted solution) |
-| Intravenousinfusion | Dilute 10 mL (2 mg) in 500 mLof 5% Dextrose Injection, USP | 5 mcg/min. (1.25 mLof diluted solutionper minute) |  |
-| Intramuscular | Use Solution undiluted | 0.2 mg (1 mL) | 0.02 mg to 1 mg(0.1 mL to 5 mL) |
-| Subcutaneous | Use Solution undiluted | 0.2 mg (1 mL) | 0.15 mg to 0.2 mg(0.75 mL to 1 mL) |
-| Intracardiac | Use Solution undiluted | 0.02 mg (0.1 mL) |  |
-| * Subsequent dosage and method of administration depend on the ventricular rate and the rapidity with which the cardiac pacemaker can take over when the drug is gradually withdrawn. |  |  |  |
+Diluted solution should be used immediately.
+Unused material should be discarded.
 
-There are no well-controlled studies in children to establish appropriate dosing; however, the American Heart Association recommends an initial infusion rate of 0.1 mcg/kg/min, with the usual range being 0.1 mcg/kg/min to 1 mcg/kg/min.
+## 2.2 Recommended Dosage
+
+Dosage should generally be started at the lowest recommended dose and increased gradually based on patient response.
 
 Recommended dosage for adults with shock and hypoperfusion states:
 
 | Route of Administration | Preparation of Dilution† | Infusion Rate†† |
 | --- | --- | --- |
-| Intravenous infusion | Dilute 5 mL (1 mg) in 500 mLof 5% Dextrose Injection, USP | 0.5 mcg to 5 mcg per minute(0.25 mL to 2.5 mL of diluted solution) |
-| † Concentrations up to 10 times greater have been used when limitation of volume is essential.†† Rates over 30 mcg per minute have been used in advanced stages of shock. The rate of infusion should be adjusted on the basis of heart rate, central venous pressure, systemic blood pressure, and urine flow. If the heart rate exceeds 110 beats per minute, it may be advisable to decrease or temporarily discontinue the infusion. |  |  |
+| Intravenous infusion | Dilute 5 mL (1 mg) in 500 mL of 5% Dextrose Injection, USP | 0.5 mcg to 5 mcg per minute (0.25 mL to 2.5 mL of diluted solution) |
+| †Concentrationsup to 10 times greater have been used when limitation of volume is essential. ††Rates over 30 mcg per minute have been used in advanced stages of shock. Adjust the rate of infusion based on heart rate, central venous pressure, systemic blood pressure, and urine flow. If the heart rate exceeds 110 beats per minute, consider decreasing or temporarily discontinuing the infusion. |  |  |
 
 Recommended dosage for adults with bronchospasm occurring during anesthesia:
 
-| Route ofAdministration | Preparation of Dilution | Initial Dose | SubsequentDose |
+| Route of Administration | Preparation of Dilution | Initial Dose | Subsequent Dose |
 | --- | --- | --- | --- |
-| Bolusintravenous injection | Dilute 1 mL (0.2 mg) in9 mL of Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP | 0.01 mg to 0.02 mg(0.5 mL to 1 mL ofdiluted solution) | The initial dose maybe repeated whennecessary |
+| Bolus intravenous injection | Dilute 1 mL (0.2 mg) to 10 mL with Sodium Chloride Injection, USP, or 5% Dextrose Injection, USP | 10 mcg to 20 mcg (0.5 mL to 1 mL of diluted solution) | The initial dose may be repeated when necessary |
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-Such solution should not be used.
+There are no well-controlled studies in children to establish appropriate dosing; however, the American Heart Association recommends an initial infusion rate of 0.1 mcg/kg/min, with the usual range being 0.1 mcg/kg/min to 1 mcg/kg/min.

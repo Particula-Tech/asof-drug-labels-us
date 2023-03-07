@@ -1,15 +1,12 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-The following reactions to isoproterenol hydrochloride injection have been reported:
+The following adverse reactions have been associated with use of isoproterenol.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
-CNS: Nervousness, headache, dizziness, nausea, visual blurring.
+Nervous system disorders: Nervousness, headache, dizziness, visual blurring
 
-Cardiovascular: Tachycardia, palpitations, angina, Adams-Stokes attacks, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias.
+Cardiovascular: Tachycardia, tachyarrhythmias, palpitations, angina, ventricular arrhythmias, Adams-Stokes attacks, pulmonary edema
 
-In a few patients, presumably with organic disease of the AV node and its branches, isoproterenol hydrochloride injection has been reported to precipitate Adams-Stokes seizures during normal sinus rhythm or transient heart block.
+Respiratory: Dyspnea
 
-Respiratory: Dyspnea.
-
-Other: Flushing of the skin, sweating, mild tremors, weakness, pallor.
-
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+Other: Flushing of the skin, sweating, mild tremors, pallor, nausea

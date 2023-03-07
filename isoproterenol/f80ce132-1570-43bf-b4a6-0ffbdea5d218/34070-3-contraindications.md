@@ -1,3 +1,7 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-Use of isoproterenol hydrochloride injection is contraindicated in patients with tachyarrhythmias; tachycardia or heart block caused by digitalis intoxication; ventricular arrhythmias which require inotropic therapy; and angina pectoris.
+Isoproterenol hydrochloride injection is contraindicated in patients with:
+
+- tachycardia
+- ventricular arrhythmias
+- angina pectoris

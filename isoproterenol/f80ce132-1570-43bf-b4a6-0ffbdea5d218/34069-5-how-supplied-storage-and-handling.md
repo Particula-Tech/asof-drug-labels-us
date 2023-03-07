@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Isoproterenol Hydrochloride Injection, USP is clear, colorless or practically colorless to slightly yellow color liquid.
 Each mL contains Isoproterenol Hydrochloride USP, 0.2 mg.
@@ -24,20 +24,12 @@ Keep in opaque container until used.
 
 Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
 
-Manufactured by:
+Discard unused portion.
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Parenteral Unit Ahmedabad 382213, INDIA
 
-Parenteral Unit
-
-Ahmedabad 382213, INDIA
-
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2022-01
+01-2023-02
