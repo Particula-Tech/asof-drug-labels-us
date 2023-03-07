@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204485"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "42023-164-83"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "vasopressin",
+      "name": "Vasostrict"
+    }
+  ],
+  "setid": "b97e5c3e-ca28-4ffa-80af-6c5bdbadaf10",
+  "source": "dailymed"
+}
