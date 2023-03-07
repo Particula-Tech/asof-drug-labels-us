@@ -28,4 +28,4 @@ The pH of these solutions is adjusted to between 3.4 and 4.5 with sodium hydroxi
 
 For the Multiple-dose vials, each mL also contains 1 mg methylparaben as preservative.
 
-The specific gravity of MARCAINE 0.5% with epinephrine 1:200,000 (as bitartrate) at 25°C is 1.008 and at 37°C is 1.008.
+The specific gravity of MARCAINE 0.5% with epinephrine 1:200,000 (as bitartrate) at 25 °C is 1.008 and at 37 °C is 1.008.

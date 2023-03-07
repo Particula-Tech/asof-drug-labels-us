@@ -20,7 +20,7 @@ Do not use the solution if it is discolored or if it contains a precipitate.
 
 For single-dose vials: Discard unused portion.
 
-Also supplied in the following manufacturer supplied dosage forms for MARCAINE (without epinephrine).
+Also supplied in the following manufacturer-supplied dosage forms for MARCAINE (without epinephrine).
 
 - •0.25% (25 mg/10 mL) (2.5 mg/mL) in single-dose vials.
 - •0.25% (75 mg/30 mL) (2.5 mg/mL) in single-dose vials.

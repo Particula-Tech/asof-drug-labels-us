@@ -34,9 +34,9 @@ The types of block and recommended MARCAINE / MARCAINE WITH EPINEPHRINE concentr
 Table 1.
 Types of Block and Recommended MARCAINE / MARCAINE WITH EPINEPHRINE Concentrations
 
-| 0.25% (2.5 mg/mL) | 0.5% (5 mg/mL) | 0.75% (7.5 mg/mL)MARCAINE 0.75% (7.5 mg/mL) is not recommended for nonobstetrical surgical procedures in pregnant patients. | 0.25% (2.5 mg/mL) | 0.5% (5 mg/mL) |  |
-| --- | --- | --- | --- | --- | --- |
 | Type of Block | MARCAINE |  |  | MARCAINE WITH EPINEPHRINE |  |
+| --- | --- | --- | --- | --- | --- |
+| 0.25% (2.5 mg/mL) | 0.5% (5 mg/mL) | 0.75% (7.5 mg/mL)MARCAINE 0.75% (7.5 mg/mL) is not recommended for nonobstetrical surgical procedures in pregnant patients. | 0.25% (2.5 mg/mL) | 0.5% (5 mg/mL) |  |
 | Local infiltration | ✓ |  |  | ✓ |  |
 | Peripheral nerve block | ✓ | ✓ |  | ✓ | ✓ |
 | Retrobulbar block |  |  | ✓ |  |  |
@@ -59,7 +59,7 @@ MARCAINE / MARCAINE WITH EPINEPHRINE Concentration vs. Motor Function
 | 0.5% (5 mg/mL) | Provides motor blockade for caudal, epidural, or nerve block, but muscle relaxation may be inadequate for operations in which complete muscle relaxation is essential. |
 | 0.75% (7.5 mg/mL)These are only MARCAINE products [there is no 0.75% (7.5 mg/mL) concentration for MARCAINE WITH EPINEPHRINE]. | Produces complete motor block. Most useful for epidural block in abdominal operations requiring complete muscle relaxation, and for retrobulbar anesthesia. Not for obstetrical anesthesia. |
 
-The duration of anesthesia with MARCAINE / MARCAINE WITH EPINEPHRINE is such that for most indications, a single-dose is sufficient.
+The duration of anesthesia with MARCAINE / MARCAINE WITH EPINEPHRINE is such that for most indications, a single dose is sufficient.
 
 The maximum dosage limit within the recommended dosage range must be individualized in each case after evaluating the size and physical status of the patient, as well as the anticipated rate of systemic absorption from a particular injection site.
 
@@ -71,9 +71,9 @@ The duration of anesthetic effect may be prolonged by the addition of epinephrin
 Table 3.
 Recommended Concentrations and Doses of MARCAINE / MARCAINE WITH EPINEPHRINE in Adults
 
-| mL | mg of MARCAINE |  |  |  |
-| --- | --- | --- | --- | --- |
 | Type of Block | Concentration of MARCAINE | Each Dose |  | Motor BlockWith continuous (intermittent) techniques, repeat doses increase the degree of motor block. The first repeat dose of 0.5% (5 mg/mL) may produce complete motor block. Intercostal nerve block with 0.25% (2.5 mg/mL) also may produce complete motor block for intra-thoracic and upper intra-abdominal surgery. |
+| --- | --- | --- | --- | --- |
+| mL | mg of MARCAINE |  |  |  |
 | Local infiltration | 0.25% (2.5 mg/mL)Solutions with or without epinephrine (i.e., applies to MARCAINE and MARCAINE WITH EPINEPHRINE). The MARCAINE WITH EPINEPHRINE products include epinephrine (1:200,000). | Up to 70 (without epinephrine) | Up to 175 (without epinephrine) | — |
 | Up to 90 (with epinephrine) | Up to 225 (with epinephrine) |  |  |  |
 | Peripheral nerve block | 0.5% (5 mg/mL) | 5–35 (without epinephrine) | 25–175 (without epinephrine) | moderate to complete |

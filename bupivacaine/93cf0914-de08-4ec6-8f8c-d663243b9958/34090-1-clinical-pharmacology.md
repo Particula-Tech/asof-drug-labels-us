@@ -22,7 +22,7 @@ However, bupivacaine has a primary depressant effect on the medulla and on highe
 The depressed stage may occur without a prior excited state.
 
 The duration of local anesthesia after administration of MARCAINE is longer than that observed after administration of other commonly used short-acting local anesthetics.
-There appears to be period of analgesia that persists after the resolution of the block and return of sensation.
+There appears to be a period of analgesia that persists after the resolution of the block and return of sensation.
 
 The onset of action following dental injections is usually 2 to 10 minutes and may last up to 7 hours.
 The duration of anesthetic effect is prolonged by the addition of epinephrine 1:200,000.
