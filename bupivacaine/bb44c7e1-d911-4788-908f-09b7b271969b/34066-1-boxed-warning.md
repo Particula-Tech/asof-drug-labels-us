@@ -1,6 +1,7 @@
-THE 0.75% CONCENTRATION OF BUPIVACAINE HYDROCHLORIDE IS NOT RECOMMENDED FOR OBSTETRICAL ANESTHESIA.
-THERE HAVE BEEN REPORTS OF CARDIAC ARREST WITH DIFFICULT RESUSCITATION OR DEATH DURING USE OF BUPIVACAINE HYDROCHLORIDE FOR EPIDURAL ANESTHESIA IN OBSTETRICAL PATIENTS.
-IN MOST CASES, THIS HAS FOLLOWED USE OF THE 0.75% CONCENTRATION.
-RESUSCITATION HAS BEEN DIFFICULT OR IMPOSSIBLE DESPITE APPARENTLY ADEQUATE PREPARATION AND APPROPRIATE MANAGEMENT.
-CARDIAC ARREST HAS OCCURRED AFTER CONVULSIONS RESULTING FROM SYSTEMIC TOXICITY, PRESUMABLY FOLLOWING UNINTENTIONAL INTRAVASCULAR INJECTION.
-THE 0.75% CONCENTRATION SHOULD BE RESERVED FOR SURGICAL PROCEDURES WHERE A HIGH DEGREE OF MUSCLE RELAXATION AND PROLONGED EFFECT ARE NECESSARY.
+# WARNING: RISK OF CARDIAC ARREST WITH USE OF BUPIVACAINE HYDROCHLORIDE INJECTION IN OBSTETRICAL ANESTHESIA
+
+There have been reports of cardiac arrest with difficult resuscitation or death during use of Bupivacaine Hydrochloride Injection for epidural anesthesia in obstetrical patients.
+In most cases, this has followed use of the 0.75% (7.5 mg/mL) concentration.
+Resuscitation has been difficult or impossible despite apparently adequate preparation and appropriate management.
+Cardiac arrest has occurred after convulsions resulting from systemic toxicity, presumably following unintentional intravascular injection.
+The 0.75% (7.5 mg/mL) concentration of Bupivacaine Hydrochloride Injection is not recommended for obstetrical anesthesia and should be reserved for surgical procedures where a high degree of muscle relaxation and prolonged effect are necessary [see Warnings and Precautions (5.1)].

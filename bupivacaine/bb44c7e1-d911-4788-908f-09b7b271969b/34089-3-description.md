@@ -1,43 +1,31 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Bupivacaine Hydrochloride is 2-Piperidinecarboxamide, 1-butyl-N-(2,6-dimethylphenyl)-, monohydrochloride, monohydrate, a white crystalline powder that is freely soluble in 95 percent ethanol, soluble in water, and slightly soluble in chloroform or acetone.
+Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection contains bupivacaine hydrochloride, an amide local anesthetic, as the active pharmaceutical ingredient.
+The route of administration for Bupivacaine Hydrochloride Injection (without epinephrine) is by injection, for infiltration, perineural, caudal, epidural, or retrobulbar use.
+The route of administration for Bupivacaine Hydrochloride and Epinephrine Injection is by injection, for infiltration, perineural, caudal, or epidural use.
+Multiple-dose vials contain methylparaben [see Warnings and Precautions (5.4)].
+
+Bupivacaine hydrochloride is 2-piperidinecarboxamide, 1-butyl-N-(2,6-dimethylphenyl)-, monohydrochloride, monohydrate.
+It is a white crystalline powder that is freely soluble in 95 percent ethanol, soluble in water, and slightly soluble in chloroform or acetone.
 It has the following structural formula:
+
+Bupivacaine hydrochloride with 1:200,000 epinephrine, contains bupivacaine hydrochloride and epinephrine (an alpha and beta-adrenergic agonist) as active pharmaceutical ingredients.
+This product is for injection via local infiltration, peripheral nerve block, and caudal and lumbar epidural blocks.
+Multiple-dose vials contain methylparaben and they should not be used for caudal and lumbar epidural blocks.
 
 Epinephrine is (-)-3,4-Dihydroxy-α-[(methylamino)methyl] benzyl alcohol.
+Epinephrine is a vasoconstrictor.
 It has the following structural formula:
 
-Bupivacaine Hydrochloride is available in sterile isotonic solutions with and without epinephrine (as bitartrate) 1:200,000 for injection via local infiltration, peripheral nerve block, and caudal and lumbar epidural blocks.
-Solutions of Bupivacaine Hydrochloride may be autoclaved if they do not contain epinephrine.
-Solutions are clear and colorless.
+Bupivacaine Hydrochloride Injection, USP is a clear and colorless sterile isotonic solution.
+Each mL of single-dose vial contains 2.5 mg, 5 mg, or 7.5 mg of bupivacaine hydrochloride (equivalent to 2.22 mg, 4.44 mg, or 6.66 mg of bupivacaine, respectively), sodium chloride for isotonicity, sodium hydroxide or hydrochloric acid to adjust the pH between 4 and 6.5, in water for injection.
 
-Bupivacaine is related chemically and pharmacologically to the aminoacyl local anesthetics.
-It is a homologue of mepivacaine and is chemically related to lidocaine.
-All three of these anesthetics contain an amide linkage between the aromatic nucleus and the amino, or piperidine group.
-They differ in this respect from the procaine-type local anesthetics, which have an ester linkage.
+For the multiple-dose vials, each mL also contains 1 mg methylparaben as preservative.
 
-Bupivacaine Hydrochloride Injection, USP is available in sterile, isotonic solutions containing bupivacaine hydrochloride in water for injection with characteristics as follows:
+Bupivacaine Hydrochloride and Epinephrine Injection, USP is a clear and colorless sterile isotonic solution.
+Each mL contains 2.5 mg or 5 mg bupivacaine hydrochloride (equivalent to 2.22 mg or 4.44 mg of bupivacaine, respectively), and 0.005 mg of epinephrine, with sodium chloride for isotonicity, 0.1 mg sodium metabisulfite as antioxidant, and 0.1 mg edetate calcium disodium anhydrous as stabilizer.
+The pH of these solutions is adjusted to between 3.3 and 5.5 with sodium hydroxide or hydrochloric acid.
 
-Bupivacaine Hydrochloride Injection, USP (without epinephrine)
+For the multiple-dose vials, each mL also contains 1 mg methylparaben as preservative.
 
-| Concentration | Bupivacaine Hydrochloride mg/mL | Sodium Chloride mg/mL |
-| --- | --- | --- |
-| 0.25% | 2.5 | 8.6 |
-| 0.5% | 5 | 8.1 |
-| 0.75% | 7.5 | 7.6 |
-
-May contain sodium hydroxide and/or hydrochloric acid for pH adjustment (See HOW SUPPLIED section for pH information).
-
-Bupivacaine and Epinephrine Injection, USP is available in sterile, isotonic solutions containing bupivacaine hydrochloride and epinephrine 1:200,000 with characteristics as follows:
-
-Bupivacaine and Epinephrine Injection, USP
-
-| Concentration (Bupivacaine HCl) | Bupivacaine Hydrochloride (mg/mL) | Epinephrine 1:200,000 (mcg/mL) | Sodium Chloride (mg/mL) |
-| --- | --- | --- | --- |
-| 0.25% | 2.5 | 5 | 8.5 |
-| 0.5% | 5 | 5 | 8.5 |
-| 0.75% | 7.5 | 5 | 8.5 |
-
-Sodium metabisulfite 0.1 mg/mL added as antioxidant and edetate calcium disodium, anhydrous 0.1 mg/mL added as stabilizer.
-May contain sodium hydroxide and/or hydrochloric acid for pH adjustment (See HOW SUPPLIED section for pH information).
-
-Single-dose solutions contain no added bacteriostat or anti-microbial agent and unused portions should be discarded after use.
+The specific gravity of Bupivacaine Hydrochloride and Epinephrine Injection [0.5% (5 mg/mL) of bupivacaine] at 25 °C is 1.007.

@@ -1,197 +1,149 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-LOCAL ANESTHETICS SHOULD ONLY BE EMPLOYED BY CLINICIANS WHO ARE WELL VERSED IN DIAGNOSIS AND MANAGEMENT OF DOSE-RELATED TOXICITY AND OTHER ACUTE EMERGENCIES WHICH MIGHT ARISE FROM THE BLOCK TO BE EMPLOYED, AND THEN ONLY AFTER INSURING THE IMMEDIATE AVAILABILITY OF OXYGEN, OTHER RESUSCITATIVE DRUGS, CARDIOPULMONARY RESUSCITATIVE EQUIPMENT, AND THE PERSONNEL RESOURCES NEEDED FOR PROPER MANAGEMENT OF TOXIC REACTIONS AND RELATED EMERGENCIES (See also ADVERSE REACTIONS, PRECAUTIONS, and OVERDOSAGE).
-DELAY IN PROPER MANAGEMENT OF DOSE-RELATED TOXICITY, UNDERVENTILATION FROM ANY CAUSE, AND/OR ALTERED SENSITIVITY MAY LEAD TO THE DEVELOPMENT OF ACIDOSIS, CARDIAC ARREST AND, POSSIBLY, DEATH.
+## 5.1 Risk of Cardiac Arrest with Use of Bupivacaine Hydrochloride Injection in Obstetrical Anesthesia
 
-## Methemoglobinemia
+There have been reports of cardiac arrest with difficult resuscitation or death during use of Bupivacaine Hydrochloride Injection for epidural anesthesia in obstetrical patients.
+In most cases, this has followed use of the 0.75% (7.5 mg/mL) concentration.
+Resuscitation has been difficult or impossible despite apparently adequate preparation and appropriate management.
+Cardiac arrest has occurred after convulsions resulting from systemic toxicity, presumably following unintentional intravascular injection.
+The 0.75% (7.5 mg/mL) concentration of Bupivacaine Hydrochloride Injection is not recommended for obstetrical anesthesia and should be reserved for surgical procedures where a high degree of muscle relaxation and prolonged effect are necessary.
+
+## 5.2 Dose-Related Toxicity
+
+The safety and effectiveness of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
+Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient’s state of consciousness should be performed after injection of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection solutions.
+
+Possible early warning signs of central nervous system (CNS) toxicity are restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, CNS depression, or drowsiness.
+Delay in proper management of dose-related toxicity, underventilation from any cause, and/or altered sensitivity may lead to the development of acidosis, cardiac arrest, and, possibly, death.
+
+During major regional nerve blocks, such as those of the brachial plexus or lower extremity, the patient should have an indwelling intravenous catheter to assure adequate intravenous access.
+Use the lowest dosage of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection that results in effective anesthesia to avoid high plasma levels and serious adverse effects.
+Avoid rapid injection of a large volume of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection solution and administer fractional (incremental) doses when feasible.
+
+Injection of repeated doses of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection may cause significant increases in plasma levels with each repeated dose due to slow accumulation of the drug or its metabolites, or to slow metabolic degradation.
+Tolerance to elevated blood levels varies with the status of the patient.
+Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical status.
+
+## 5.3 Methemoglobinemia
 
 Cases of methemoglobinemia have been reported in association with local anesthetic use.
-Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition.
+Although all patients are at risk for methemoglobinemia, patients with glucose-6-phosphate dehydrogenase deficiency, congenital or idiopathic methemoglobinemia, cardiac or pulmonary compromise, infants under 6 months of age, and concurrent exposure to oxidizing agents or their metabolites are more susceptible to developing clinical manifestations of the condition [see Drug Interactions (7.5)].
 If local anesthetics must be used in these patients, close monitoring for symptoms and signs of methemoglobinemia is recommended.
 
 Signs of methemoglobinemia may occur immediately or may be delayed some hours after exposure, and are characterized by a cyanotic skin discoloration and/or abnormal coloration of the blood.
 Methemoglobin levels may continue to rise; therefore, immediate treatment is required to avert more serious CNS and cardiovascular adverse effects, including seizures, coma, arrhythmias, and death.
-Discontinue Bupivacaine Hydrochloride and any other oxidizing agents.
+Discontinue Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection and any other oxidizing agents.
 Depending on the severity of the signs and symptoms, patients may respond to supportive care, i.e., oxygen therapy, hydration.
 A more severe clinical presentation may require treatment with methylene blue, exchange transfusion, or hyperbaric oxygen.
 
-Local anesthetic solutions containing antimicrobial preservatives, i.e., those supplied in multiple-dose vials, should not be used for epidural or caudal anesthesia because safety has not been established with regard to intrathecal injection, either intentionally or unintentionally, of such preservatives.
+## 5.4 Antimicrobial Preservatives in Multiple-Dose Vials
 
-Intra-articular infusions of local anesthetics following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
+Avoid use of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection solutions containing antimicrobial preservatives, i.e., those supplied in multiple-dose vials, for epidural or caudal anesthesia because safety has not been established with such use.
+
+## 5.5 Chondrolysis with Intra-Articular Infusion
+
+Intra-articular infusions of local anesthetics including Bupivacaine Hydrochloride Injection following arthroscopic and other surgical procedures is an unapproved use, and there have been post-marketing reports of chondrolysis in patients receiving such infusions.
 The majority of reported cases of chondrolysis have involved the shoulder joint; cases of gleno-humeral chondrolysis have been described in pediatric and adult patients following intra-articular infusions of local anesthetics with and without epinephrine for periods of 48 to 72 hours.
-There is insufficient information to determine whether shorter infusion periods are not associated with these findings.
+There is insufficient information to determine whether shorter infusion periods are associated with chondrolysis.
 The time of onset of symptoms, such as joint pain, stiffness and loss of motion can be variable, but may begin as early as the 2nd month after surgery.
 Currently, there is no effective treatment for chondrolysis; patients who experienced chondrolysis have required additional diagnostic and therapeutic procedures and some required arthroplasty or shoulder replacement.
 
-It is essential that aspiration for blood or cerebrospinal fluid (where applicable) be done prior to injecting any local anesthetic, both the original dose and all subsequent doses, to avoid intravascular or subarachnoid injection.
-However, a negative aspiration does not ensure against an intravascular or subarachnoid injection.
+## 5.6 Risk of Adverse Reactions Due to Drug Interactions with Bupivacaine Hydrochloride and Epinephrine Injection
 
-Bupivacaine Hydrochloride with epinephrine 1:200,000 or other vasopressors should not be used concomitantly with ergot-type oxytocic drugs, because a severe persistent hypertension may occur.
-Likewise, solutions of Bupivacaine Hydrochloride containing a vasoconstrictor, such as epinephrine, should be used with extreme caution in patients receiving monoamineoxidase inhibitors (MAOI) or antidepressants of the triptyline or imipramine types, because severe prolonged hypertension may result.
+Risk of Severe, Persistent Hypertension Due to Drug Interactions Between Bupivacaine Hydrochloride and Epinephrine Injection and Monoamine Oxidase Inhibitors and Tricyclic Antidepressants
 
-Until further experience is gained in pediatric patients younger than 12 years, administration of Bupivacaine Hydrochloride in this age group is not recommended.
+Administration of Bupivacaine Hydrochloride and Epinephrine Injection (containing a vasoconstrictor) in patients receiving monoamine oxidase inhibitors (MAOI) or tricyclic antidepressants may result in severe, prolonged hypertension.
+Concurrent use of these agents should generally be avoided.
+In situations when concurrent therapy is necessary, careful monitoring of the patient’s hemodynamic status is essential [see Drug Interactions (7.2)].
 
-Mixing or the prior or intercurrent use of any other local anesthetic with Bupivacaine Hydrochloride cannot be recommended because of insufficient data on the clinical use of such mixtures.
-There have been reports of cardiac arrest and death during the use of Bupivacaine Hydrochloride for intravenous regional anesthesia (Bier Block).
-Information on safe dosages and techniques of administration of Bupivacaine Hydrochloride in this procedure is lacking.
-Therefore, Bupivacaine Hydrochloride is not recommended for use in this technique.
+Risk of Severe, Persistent Hypertension or Cerebrovascular Accidents Due to Drug Interactions Between Bupivacaine Hydrochloride and Epinephrine Injection and Ergot-Type Oxytocic Drugs
 
-Bupivacaine Hydrochloride with epinephrine 1:200,000 contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+Concurrent administration of Bupivacaine Hydrochloride and Epinephrine Injection and ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
+Avoid use of Bupivacaine Hydrochloride and Epinephrine Injection concomitantly with ergot-type oxytocic drugs [see Drug Interactions (7.3)].
+
+Risk of Hypertension and Bradycardia Due to Drug Interactions Between Bupivacaine Hydrochloride and Epinephrine Injection and Nonselective Beta-Adrenergic Antagonists
+
+Administration of Bupivacaine Hydrochloride and Epinephrine Injection (containing a vasoconstrictor) in patients receiving nonselective beta-adrenergic antagonists may cause severe hypertension and bradycardia.
+Concurrent use of these agents should generally be avoided.
+In situations when concurrent therapy is necessary, careful monitoring of the patient’s blood pressure and heart rate is essential [see Drug Interactions (7.4)].
+
+## 5.7 Risk of Cardiac Arrest with Intravenous Regional Anesthesia Use (Bier Block)
+
+There have been reports of cardiac arrest and death during the use of bupivacaine for intravenous regional anesthesia (Bier Block).
+Information on safe dosages and techniques of administration of Bupivacaine Hydrochloride Injection in this procedure is lacking.
+Therefore, Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection is contraindicated for use with this technique [see Contraindications (4)].
+
+## 5.8 Allergic-Type Reactions to Sulfites in Bupivacaine Hydrochloride and Epinephrine Injection
+
+Bupivacaine Hydrochloride and Epinephrine Injection contains sodium metabisulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
-Single-dose vials of Bupivacaine Hydrochloride without epinephrine do not contain sodium metabisulfite.
+Bupivacaine Hydrochloride Injection without epinephrine does not contain sodium metabisulfite.
 
-# PRECAUTIONS
+## 5.9 Risk of Systemic Toxicities with Unintended Intravascular or Intrathecal Injection
 
-General: The safety and effectiveness of local anesthetics depend on proper dosage, correct technique, adequate precautions, and readiness for emergencies.
-Resuscitative equipment, oxygen, and other resuscitative drugs should be available for immediate use (See WARNINGS, ADVERSE REACTIONS, and OVERDOSAGE).
-During major regional nerve blocks, the patient should have intravenous fluids running via an indwelling catheter to assure a functioning intravenous pathway.
-The lowest dosage of local anesthetic that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
-The rapid injection of a large volume of local anesthetic solution should be avoided and fractional (incremental) doses should be used when feasible.
+Unintended intravascular or intrathecal injection of Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection may be associated with systemic toxicities, including CNS or cardiorespiratory depression and coma, progressing ultimately to respiratory arrest.
+Unintentional intrathecal injection during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column has resulted in underventilation or apnea (“Total or High Spinal”).
+A high spinal has been characterized by paralysis of the legs, loss of consciousness, respiratory paralysis, and bradycardia [see Adverse Reactions (6)].
 
-Epidural Anesthesia: During epidural administration of Bupivacaine Hydrochloride, 0.5% and 0.75% solutions should be administered in incremental doses of 3 mL to 5 mL with sufficient time between doses to detect toxic manifestations of unintentional intravascular or intrathecal injection.
-Injections should be made slowly, with frequent aspirations before and during the injection to avoid intravascular injection.
-Syringe aspirations should also be performed before and during each supplemental injection in continuous (intermittent) catheter techniques.
-An intravascular injection is still possible even if aspirations for blood are negative.
+Aspirate for blood or cerebrospinal fluid (where applicable) before injecting Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection, both the initial dose and all subsequent doses, to avoid intravascular or intrathecal injection.
+However, a negative aspiration for blood or cerebrospinal fluid does not ensure against an intravascular or intrathecal injection.
 
-During the administration of epidural anesthesia, it is recommended that a test dose be administered initially and the effects monitored before the full dose is given.
-When using a "continuous" catheter technique, test doses should be given prior to both the original and all reinforcing doses, because plastic tubing in the epidural space can migrate into a blood vessel or through the dura.
-When clinical conditions permit, the test dose should contain epinephrine (10 mcg to 15 mcg has been suggested) to serve as a warning of unintended intravascular injection.
-If injected into a blood vessel, this amount of epinephrine is likely to produce a transient "epinephrine response" within 45 seconds, consisting of an increase in heart rate and/or systolic blood pressure, circumoral pallor, palpitations, and nervousness in the unsedated patient.
-The sedated patient may exhibit only a pulse rate increase of 20 or more beats per minute for 15 or more seconds.
-Therefore, following the test dose, the heart rate should be monitored for a heart rate increase.
-Patients on beta-blockers may not manifest changes in heart rate, but blood pressure monitoring can detect a transient rise in systolic blood pressure.
-The test dose should also contain 10 mg to 15 mg of Bupivacaine Hydrochloride or an equivalent amount of another local anesthetic to detect an unintended intrathecal administration.
-This will be evidenced within a few minutes by signs of spinal block (e.g., decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
-The Test Dose formulation of Bupivacaine Hydrochloride contains 15 mg of bupivacaine and 15 mcg of epinephrine in a volume of 3 mL.
-An intravascular or subarachnoid injection is still possible even if results of the test dose are negative.
-The test dose itself may produce a systemic toxic reaction, high spinal or epinephrine-induced cardiovascular effects.
+Use of Test Dose with Epidural Anesthesia
 
-Injection of repeated doses of local anesthetics may cause significant increases in plasma levels with each repeated dose due to slow accumulation of the drug or its metabolites, or to slow metabolic degradation.
-Tolerance to elevated blood levels varies with the status of the patient.
-Debilitated, elderly patients and acutely ill patients should be given reduced doses commensurate with their age and physical status.
-Local anesthetics should also be used with caution in patients with hypotension or heartblock.
+To serve as a warning of unintended intravascular or intrathecal injection, 3 mL of Bupivacaine Hydrochloride and Epinephrine Injection without antimicrobial preservative (0.5% bupivacaine with 1:200,000 epinephrine) may be used as a test dose prior to administration of the full dose in caudal and lumbar epidural blocks [see Dosage and Administration (2.4)].
+Three mL of Bupivacaine Hydrochloride and Epinephrine Injection without antimicrobial preservative (0.5% bupivacaine with 1:200,000 epinephrine) contains 15 mg bupivacaine and 15 mcg epinephrine.
+An intravascular or intrathecal injection is still possible even if results of the test dose are negative.
 
-Careful and constant monitoring of cardiovascular and respiratory (adequacy of ventilation) vital signs and the patient's state of consciousness should be performed after each local anesthetic injection.
-It should be kept in mind at such times that restlessness, anxiety, incoherent speech, lightheadedness, numbness and tingling of the mouth and lips, metallic taste, tinnitus, dizziness, blurred vision, tremors, twitching, depression, or drowsiness may be early warning signs of CNS toxicity.
+Signs/symptoms of unintended intravascular or intrathecal injection of the test dose of Bupivacaine Hydrochloride and Epinephrine Injection and monitoring recommendations are described below.
 
-Local anesthetic solutions containing a vasoconstrictor should be used cautiously and in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis.
+- •Unintended intravascular injection: Likely to produce a transient “epinephrine response” within 45 seconds, consisting of an increase in heart rate and/or systolic blood pressure, circumoral pallor, palpitations, and nervousness in the unsedated patient.
+  The sedated patient may exhibit only a pulse rate increase of 20 or more beats per minute for 15 or more seconds.
+  Therefore, following the test dose, the heart rate should be monitored for increases.
+  Patients on beta-blockers may not manifest changes in heart rate, but blood pressure monitoring can detect a transient rise in systolic blood pressure.
+- •Unintended intrathecal injection: Evidenced within a few minutes by signs of spinal block (e.g., decreased sensation of the buttocks, paresis of the legs, or, in the sedated patient, absent knee jerk).
+
+The test dose itself may produce a systemic toxic reaction, high spinal or epinephrine-induced cardiovascular effects [see Overdosage (10)].
+
+## 5.10 Risk of Toxicity in Patients with Hepatic Impairment
+
+Because amide local anesthetics such as bupivacaine are metabolized by the liver, consider reduced dosing and increased monitoring for bupivacaine systemic toxicity in patients with moderate to severe hepatic impairment who are treated with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection, especially with repeat doses [see Use in Specific Populations (8.6)].
+
+## 5.11 Risk of Use in Patients with Impaired Cardiovascular Function
+
+Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection should be given in reduced doses in patients with impaired cardiovascular function (e.g., hypotension, heartblock) because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection.
+Monitor patients closely for blood pressure, heart rate, and ECG changes.
+
+## 5.12 Risk of Ischemic Injury or Necrosis in Body Areas with Limited Blood Supply
+
+Use Bupivacaine Hydrochloride and Epinephrine Injection in carefully restricted quantities in areas of the body supplied by end arteries or having otherwise compromised blood supply such as digits, nose, external ear, or penis.
 Patients with hypertensive vascular disease may exhibit exaggerated vasoconstrictor response.
 Ischemic injury or necrosis may result.
 
-Because amide-local anesthetics such as Bupivacaine Hydrochloride are metabolized by the liver, these drugs, especially repeat doses, should be used cautiously in patients with hepatic disease.
-Patients with severe hepatic disease, because of their inability to metabolize local anesthetics normally, are at a greater risk of developing toxic plasma concentrations.
-Local anesthetics should also be used with caution in patients with impaired cardiovascular function because they may be less able to compensate for functional changes associated with the prolongation of AV conduction produced by these drugs.
+## 5.13 Risk of Cardiac Arrhythmias with Concomitant Use of Potent Inhalation Anesthetics
 
-Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine are employed in patients during or following the administration of potent inhalation anesthetics.
-In deciding whether to use these products concurrently in the same patient, the combined action of both agents upon the myocardium, the concentration and volume of vasoconstrictor used, and the time since injection, when applicable, should be taken into account.
+Serious dose-related cardiac arrhythmias may occur if preparations containing a vasoconstrictor such as epinephrine (e.g., Bupivacaine Hydrochloride and Epinephrine Injection) are used in patients during or following the administration of potent inhalation anesthetics [see Drug Interactions (7.6)].
+In deciding whether to concurrently use Bupivacaine Hydrochloride and Epinephrine Injection with potent inhalation anesthetics in the same patient, the combined action of both agents upon the myocardium, the concentration and volume of vasoconstrictor used, and the time since injection, when applicable, should be taken into account.
 
-Many drugs used during the conduct of anesthesia are considered potential triggering agents for familial malignant hyperthermia.
-Because it is not known whether amide-type local anesthetics may trigger this reaction and because the need for supplemental general anesthesia cannot be predicted in advance, it is suggested that a standard protocol for management should be available.
-Early unexplained signs of tachycardia, tachypnea, labile blood pressure, and metabolic acidosis may precede temperature elevation.
-Successful outcome is dependent on early diagnosis, prompt discontinuance of the suspect triggering agent(s) and prompt institution of treatment, including oxygen therapy, indicated supportive measures and dantrolene (Consult dantrolene sodium intravenous package insert before using).
+## 5.14 Risk of Adverse Reactions with Use in Head and Neck Area
 
-Use in Head and Neck Area: Small doses of local anesthetics injected into the head and neck area, including retrobulbar, dental, and stellate ganglion blocks, may produce adverse reactions similar to systemic toxicity seen with unintentional intravascular injections of larger doses.
+Small doses of local anesthetics (e.g., Bupivacaine Hydrochloride Injection) injected into the head and neck area, including retrobulbar, dental, and stellate ganglion blocks, may produce adverse reactions similar to systemic toxicity seen with unintentional intravascular injections of larger doses.
 The injection procedures require the utmost care.
 Confusion, convulsions, respiratory depression, and/or respiratory arrest, and cardiovascular stimulation or depression have been reported.
 These reactions may be due to intra-arterial injection of the local anesthetic with retrograde flow to the cerebral circulation.
 They may also be due to puncture of the dural sheath of the optic nerve during retrobulbar block with diffusion of any local anesthetic along the subdural space to the midbrain.
-Patients receiving these blocks should have their circulation and respiration monitored and be constantly observed.
-Resuscitative equipment and personnel for treating adverse reactions should be immediately available.
-Dosage recommendations should not be exceeded (See DOSAGE AND ADMINISTRATION).
+Monitor circulation and respiration and constantly observe patients receiving Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection blocks.
+Resuscitative equipment and drugs, and personnel for treating adverse reactions should be immediately available.
+Dosage recommendations should not be exceeded [see Dosage and Administration (2.2)].
 
-Use in Ophthalmic Surgery: Clinicians who perform retrobulbar blocks should be aware that there have been reports of respiratory arrest following local anesthetic injection.
-Prior to retrobulbar block, as with all other regional procedures, the immediate availability of equipment, drugs, and personnel to manage respiratory arrest or depression, convulsions, and cardiac stimulation or depression should be assured (see also WARNINGS and Use In Head and Neck Area, above).
+## 5.15 Risk of Respiratory Arrest with Use in Ophthalmic Surgery
+
+Clinicians who perform retrobulbar blocks should be aware that there have been reports of respiratory arrest following local anesthetic injection.
+Prior to retrobulbar block (e.g., with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection), as with all other regional procedures, resuscitative equipment and drugs, and personnel to manage respiratory arrest or depression, convulsions, and cardiac stimulation or depression should be immediately available [see Warnings and Precautions (5.14)].
 As with other anesthetic procedures, patients should be constantly monitored following ophthalmic blocks for signs of these adverse reactions, which may occur following relatively low total doses.
 
-A concentration of 0.75% bupivacaine is indicated for retrobulbar block; however, this concentration is not indicated for any other peripheral nerve block, including the facial nerve, and not indicated for local infiltration, including the conjunctiva (see INDICATIONS AND USAGE and PRECAUTIONS, General).
-Mixing Bupivacaine Hydrochloride with other local anesthetics is not recommended because of insufficient data on the clinical use of such mixtures.
+A concentration of 0.75% bupivacaine is indicated for retrobulbar block; however, this concentration is not indicated for any other peripheral nerve block, including the facial nerve, and not indicated for local infiltration, including the conjunctiva [see Indications and Usage (1)].
 
-When Bupivacaine Hydrochloride 0.75% is used for retrobulbar block, complete corneal anesthesia usually precedes onset of clinically acceptable external ocular muscle akinesia.
-Therefore, presence of akinesia rather than anesthesia alone should determine readiness of the patient for surgery.
+## 5.16 Risk of Inadvertent Trauma to Tongue, Lips, and Buccal Mucosa in Dental Applications
 
-Use in Dentistry: Because of the long duration of anesthesia, when Bupivacaine Hydrochloride 0.5% with epinephrine is used for dental injections, patients should be cautioned about the possibility of inadvertent trauma to tongue, lips, and buccal mucosa and advised not to chew solid foods or test the anesthetized area by biting or probing.
-
-Information for Patients: When appropriate, patients should be informed in advance that they may experience temporary loss of sensation and motor activity, usually in the lower half of the body, following proper administration of caudal or epidural anesthesia.
-Also, when appropriate, the physician should discuss other information including adverse reactions in the package insert of Bupivacaine Hydrochloride.
-
-Patients receiving dental injections of Bupivacaine Hydrochloride should be cautioned not to chew solid foods or test the anesthetized area by biting or probing until anesthesia has worn off (up to 7 hours).
-
-Inform patients that use of local anesthetics may cause methemoglobinemia, a serious condition that must be treated promptly.
-Advise patients or caregivers to seek immediate medical attention if they or someone in their care experience the following signs or symptoms: pale, gray, or blue colored skin (cyanosis); headache; rapid heart rate; shortness of breath; lightheadedness; or fatigue.
-
-Clinically Significant Drug Interactions: The administration of local anesthetic solutions containing epinephrine or norepinephrine to patients receiving monoamine oxidase inhibitors or tricyclic antidepressants may produce severe, prolonged hypertension.
-Concurrent use of these agents should generally be avoided.
-In situations when concurrent therapy is necessary, careful patient monitoring is essential.
-
-Concurrent administration of vasopressor drugs and of ergot-type oxytocic drugs may cause severe, persistent hypertension or cerebrovascular accidents.
-
-Phenothiazines and butyrophenones may reduce or reverse the pressor effect of epinephrine.
-
-Patients who are administered local anesthetics are at increased risk of developing methemoglobinemia when concurrently exposed to the following drugs, which could include other local anesthetics:
-
-Examples of Drugs Associated with Methemoglobinemia:
-
-| Class | Examples |
-| --- | --- |
-| Nitrates/Nitrites | nitric oxide, nitroglycerin, nitroprusside, nitrous oxide |
-| Local anesthetics | articaine, benzocaine, bupivacaine, lidocaine, mepivacaine, prilocaine, procaine, ropivacaine, tetracaine |
-| Antineoplastic agents | cyclophosphamide, flutamide, hydroxyurea, isofamide, rasburicase |
-| Antibiotics | dapsone, nitrofurantoin, para-aminosalicylic acid, sulfonamides |
-| Antimalarials | chloroquine, primaquine |
-| Anticonvulsants | phenobarbital, phenytoin, sodium valproate |
-| Other drugs | acetaminophen, metoclopramide, quinine, sulfasalazine |
-
-Carcinogenesis, Mutagenesis, Impairment of Fertility: Long-term studies in animals to evaluate the carcinogenic potential of bupivacaine hydrochloride have not been conducted.
-The mutagenic potential and the effect on fertility of bupivacaine hydrochloride have not been determined.
-
-Pregnancy: There are no adequate and well-controlled studies in pregnant women.
-Bupivacaine Hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-Bupivacaine hydrochloride produced developmental toxicity when administered subcutaneously to pregnant rats and rabbits at clinically relevant doses.
-This does not exclude the use of Bupivacaine at term for obstetrical anesthesia or analgesia (See Labor and Delivery).
-
-Bupivacaine hydrochloride was administered subcutaneously to rats at doses of 4.4, 13.3, & 40 mg/kg and to rabbits at doses of 1.3, 5.8, & 22.2 mg/kg during the period of organogenesis (implantation to closure of the hard palate).
-The high doses are comparable to the daily maximum recommended human dose (MRHD) of 400 mg/day on a mg/m2 body surface area (BSA) basis.
-No embryo-fetal effects were observed in rats at the high dose which caused increased maternal lethality.
-An increase in embryo-fetal deaths was observed in rabbits at the high dose in the absence of maternal toxicity with the fetal No Observed Adverse Effect Level representing approximately 1/5th the MRHD on a BSA basis.
-
-In a rat pre- and post-natal development study (dosing from implantation through weaning) conducted at subcutaneous doses of 4.4, 13.3, & 40 mg/kg/day, decreased pup survival was observed at the high dose.
-The high dose is comparable to the daily MRHD of 400 mg/day on a BSA basis.
-
-Labor and Delivery: SEE BOXED WARNING REGARDING OBSTETRlCAL USE OF 0.75% BUPIVACAINE HYDROCHLORIDE.
-
-Bupivacaine Hydrochloride is contraindicated for obstetrical paracervical block anesthesia.
-
-Local anesthetics rapidly cross the placenta, and when used for epidural, caudal, or pudendal block anesthesia, can cause varying degrees of maternal, fetal, and neonatal toxicity (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
-The incidence and degree of toxicity depend upon the procedure performed, the type, and amount of drug used, and the technique of drug administration.
-Adverse reactions in the parturient, fetus, and neonate involve alterations of the CNS, peripheral vascular tone, and cardiac function.
-
-Maternal hypotension has resulted from regional anesthesia.
-Local anesthetics produce vasodilation by blocking sympathetic nerves.
-Elevating the patient's legs and positioning her on her left side will help prevent decreases in blood pressure.
-The fetal heart rate also should be monitored continuously and electronic fetal monitoring is highly advisable.
-
-Epidural, caudal, or pudendal anesthesia may alter the forces of parturition through changes in uterine contractility or maternal expulsive efforts.
-Epidural anesthesia has been reported to prolong the second stage of labor by removing the parturient's reflex urge to bear down or by interfering with motor function.
-The use of obstetrical anesthesia may increase the need for forceps assistance.
-
-The use of some local anesthetic drug products during labor and delivery may be followed by diminished muscle strength and tone for the first day or two of life.
-This has not been reported with bupivacaine.
-
-It is extremely important to avoid aortocaval compression by the gravid uterus during administration of regional block to parturients.
-To do this, the patient must be maintained in the left lateral decubitus position or a blanket roll or sandbag may be placed beneath the right hip and gravid uterus displaced to the left.
-
-Nursing Mothers: Bupivacaine has been reported to be excreted in human milk suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
-Because of the potential for serious adverse reactions in nursing infants from bupivacaine, a decision should be made whether to discontinue nursing or not administer bupivacaine, taking into account the importance of the drug to the mother.
-
-Pediatric Use: Until further experience is gained in pediatric patients younger than 12 years, administration of Bupivacaine Hydrochloride in this age group is not recommended.
-Continuous infusions of bupivacaine in children have been reported to result in high systemic levels of bupivacaine and seizures; high plasma levels may also be associated with cardiovascular abnormalities (See WARNINGS, PRECAUTIONS, and OVERDOSAGE).
-
-Geriatric Use: Patients over 65 years, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with Bupivacaine Hydrochloride (See ADVERSE REACTIONS).
-
-Elderly patients may require lower doses of Bupivacaine Hydrochloride (See PRECAUTIONS, Epidural Anesthesia and DOSAGE AND ADMINISTRATION).
-
-In clinical studies, differences in various pharmacokinetic parameters have been observed between elderly and younger patients (See CLINICAL PHARMACOLOGY).
-
-This product is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function (See CLINICAL PHARMACOLOGY).
+Because of the long duration of anesthesia, when Bupivacaine Hydrochloride and Epinephrine Injection [0.5% (5 mg/mL) of bupivacaine] is used for dental injections, warn patients about the possibility of inadvertent trauma to tongue, lips, and buccal mucosa and advise them not to chew solid foods until sensation returns [see Patient Counseling Information (17)].

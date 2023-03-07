@@ -1,39 +1,51 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Reactions to Bupivacaine Hydrochloride are characteristic of those associated with other amide-type local anesthetics.
+The following clinically significant adverse reactions have been reported and described in the Warnings and Precautions section of the labeling:
+
+- •Cardiac Arrest in Obstetrical Anesthesia [see Warnings and Precautions (5.1)]
+- •Dose-Related Toxicity [see Warnings and Precautions (5.2)]
+- •Methemoglobinemia [see Warnings and Precautions (5.3)]
+- •Chondrolysis with Intra-Articular Infusion [see Warnings and Precautions (5.5)]
+- •Severe, Persistent Hypertension, Cerebrovascular Accidents, and Bradycardia Due to Drug Interactions [see Warnings and Precautions (5.6)]
+- •Cardiac Arrest with Intravenous Regional Anesthesia Use [see Contraindications (4), Warnings and Precautions (5.7)]
+- •Allergic-Type Reactions [see Warnings and Precautions (5.8)]
+- •Systemic Toxicities with Unintended Intravascular or Intrathecal Injection [see Warnings and Precautions (5.9)]
+- •Respiratory Arrest Following Retrobulbar Block [see Warnings and Precautions (5.15)]
+
+The following adverse reactions from voluntary reports or clinical studies have been reported with bupivacaine or bupivacaine and epinephrine.
+Because many of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Adverse reactions to Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection are characteristic of those associated with other amide-type local anesthetics.
 A major cause of adverse reactions to this group of drugs is excessive plasma levels, which may be due to overdosage, unintentional intravascular injection, or slow metabolic degradation.
 
-The most commonly encountered acute adverse experiences which demand immediate counter-measures are related to the CNS and the cardiovascular system.
-These adverse experiences are generally dose related and due to high plasma levels which may result from overdosage, rapid absorption from the injection site, diminished tolerance, or from unintentional intravascular injection of the local anesthetic solution.
-In addition to systemic dose-related toxicity, unintentional subarachnoid injection of drug during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) may result in underventilation or apnea ("Total or High Spinal").
-Also, hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia may occur.
-This may lead to secondary cardiac arrest if untreated.
-Patients over 65 years, particularly those with hypertension, may be at increased risk for experiencing the hypotensive effects of Bupivacaine Hydrochloride.
-Factors influencing plasma protein binding, such as acidosis, systemic diseases which alter protein production, or competition of other drugs for protein binding sites, may diminish individual tolerance.
+The most commonly encountered acute adverse reactions that demand immediate counter-measures were related to the CNS and the cardiovascular system.
+These adverse reactions were generally dose-related and due to high plasma levels which may have resulted from overdosage, rapid absorption from the injection site, diminished tolerance, or from unintentional intravascular injection of the local anesthetic solution.
+In addition to systemic dose-related toxicity, unintentional intrathecal injection of drug during the intended performance of caudal or lumbar epidural block or nerve blocks near the vertebral column (especially in the head and neck region) has resulted in underventilation or apnea (“Total or High Spinal”).
+Also, hypotension due to loss of sympathetic tone and respiratory paralysis or underventilation due to cephalad extension of the motor level of anesthesia have occurred.
+This has led to secondary cardiac arrest when untreated.
 
-CNS Reactions: These are characterized by excitation and/or depression.
-Restlessness, anxiety, dizziness, tinnitus, blurred vision, or tremors may occur, possibly proceeding to convulsions.
-However, excitement may be transient or absent, with depression being the first manifestation of an adverse reaction.
-This may quickly be followed by drowsiness merging into unconsciousness and respiratory arrest.
-Other CNS effects may be nausea, vomiting, chills, and constriction of the pupils.
+Nervous System Disorders
 
-The incidence of convulsions associated with the use of local anesthetics varies with the procedure used and the total dose administered.
+Adverse reactions were characterized by excitation and/or depression of the central nervous system and included restlessness, anxiety, dizziness, tinnitus, blurred vision, tremors, convulsions, drowsiness, unconsciousness, respiratory arrest, nausea, vomiting, chills, pupillary constriction.
+
+In the practice of caudal or lumbar epidural block, unintentional penetration of the subarachnoid space by the catheter or needle has occurred.
+Subsequent adverse effects may have depended partially on the amount of drug administered intrathecally and the physiological and physical effects of a dural puncture.
+A high spinal has been characterized by paralysis of the legs, loss of consciousness, respiratory paralysis, and bradycardia.
+
+Neurologic effects following epidural or caudal anesthesia have included spinal block of varying magnitude (including high or total spinal block); hypotension secondary to spinal block; urinary retention; fecal and urinary incontinence; loss of perineal sensation and sexual function; persistent anesthesia, paresthesia, weakness, paralysis of the lower extremities and loss of sphincter control, all of which had slow, incomplete, or no recovery; headache; backache; septic meningitis; meningismus; slowing of labor; increased incidence of forceps delivery; and cranial nerve palsies due to traction on nerves from loss of cerebrospinal fluid.
+
+Neurologic effects following other procedures or routes of administration have included persistent anesthesia, paresthesia, weakness, paralysis, all with slow, incomplete, or no recovery.
+
+Convulsions: Incidence varied with the procedure used and the total dose administered.
 In a survey of studies of epidural anesthesia, overt toxicity progressing to convulsions occurred in approximately 0.1% of local anesthetic administrations.
+The incidences of adverse neurologic reactions associated with the use of local anesthetics may be related to the total dose of local anesthetic administered and are also dependent upon the particular drug used, the route of administration, and the physical status of the patient.
 
-Cardiovascular System Reactions: High doses or unintentional intravascular injection may lead to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest (See WARNINGS, PRECAUTIONS, and OVERDOSAGE).
+Cardiac Disorders
 
-Allergic: Allergic-type reactions are rare and may occur as a result of sensitivity to the local anesthetic or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-dose vials or sulfites in epinephrine-containing solutions.
-These reactions are characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and possibly, anaphylactoid-like symptomatology (including severe hypotension).
-Cross sensitivity among members of the amide-type local anesthetic group has been reported.
-The usefulness of screening for sensitivity has not been definitely established.
+High doses or unintentional intravascular injection have led to high plasma levels and related depression of the myocardium, decreased cardiac output, heartblock, hypotension, bradycardia, ventricular arrhythmias, including ventricular tachycardia and ventricular fibrillation, and cardiac arrest [see Warnings and Precautions (5.9)].
 
-Neurologic: The incidences of adverse neurologic reactions associated with the use of local anesthetics may be related to the total dose of local anesthetic administered and are also dependent upon the particular drug used, the route of administration, and the physical status of the patient.
-Many of these effects may be related to local anesthetic techniques, with or without a contribution from the drug.
+Immune System Disorders
 
-In the practice of caudal or lumbar epidural block, occasional unintentional penetration of the subarachnoid space by the catheter or needle may occur.
-Subsequent adverse effects may depend partially on the amount of drug administered intrathecally and the physiological and physical effects of a dural puncture.
-A high spinal is characterized by paralysis of the legs, loss of consciousness, respiratory paralysis, and bradycardia.
-
-Neurologic effects following epidural or caudal anesthesia may include spinal block of varying magnitude (including high or total spinal block); hypotension secondary to spinal block; urinary retention; fecal and urinary incontinence; loss of perineal sensation and sexual function; persistent anesthesia, paresthesia, weakness, paralysis of the lower extremities and loss of sphincter control all of which may have slow, incomplete, or no recovery; headache; backache; septic meningitis; meningismus; slowing of labor; increased incidence of forceps delivery; and cranial nerve palsies due to traction on nerves from loss of cerebrospinal fluid.
-
-Neurologic effects following other procedures or routes of administration may include persistent anesthesia, paresthesia, weakness, paralysis, all of which may have slow, incomplete, or no recovery.
+Allergic-type reactions have occurred as a result of sensitivity to bupivacaine or to other formulation ingredients, such as the antimicrobial preservative methylparaben contained in multiple-dose vials or sulfites in epinephrine-containing solutions.
+These reactions were characterized by signs such as urticaria, pruritus, erythema, angioneurotic edema (including laryngeal edema), tachycardia, sneezing, nausea, vomiting, dizziness, syncope, excessive sweating, elevated temperature, and severe hypotension.
+Cross sensitivity among members of the amide-type local anesthetic group has been reported [see Warnings and Precautions (5.8)].
