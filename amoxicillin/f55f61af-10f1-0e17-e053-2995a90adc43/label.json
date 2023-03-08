@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050575"
+  ],
+  "inn": "amoxicillin",
+  "labeler": "Allegis Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "28595-240-35",
+    "28595-240-36"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION",
+      "generic": "amoxicillin and clavulanate potassium",
+      "name": "Augmentin"
+    }
+  ],
+  "setid": "f55f61af-10f1-0e17-e053-2995a90adc43",
+  "source": "dailymed"
+}
