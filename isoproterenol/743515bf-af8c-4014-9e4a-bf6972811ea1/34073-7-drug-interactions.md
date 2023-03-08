@@ -1,6 +1,7 @@
 # 7 DRUG INTERACTIONS
 
-Table 1: Clinically Relevant Interactions with Isoproterenol
+Table 1.
+Clinically Relevant Interactions with Isoproterenol
 
 | Epinephrine |  |
 | --- | --- |

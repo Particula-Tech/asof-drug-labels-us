@@ -23,6 +23,6 @@ Bridgewater, NJ 08807 USA
 
 ISUPREL is a registered trademark of Hospira, Inc. used under license.
 
-© 2022 Bausch Health Companies Inc. or its affiliates
+© 2023 Bausch Health Companies Inc. or its affiliates
 
 9669502

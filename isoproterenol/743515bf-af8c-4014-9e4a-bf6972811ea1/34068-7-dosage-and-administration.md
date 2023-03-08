@@ -18,8 +18,6 @@ Unused material should be discarded.
 | Route of Administration | Preparation of DilutionConcentrations up to 10 times greater have been used when limitation of volume is essential. | Infusion RateRates over 30 mcg per minute have been used in advanced stages of shock. Adjust the rate of infusion based on heart rate, central venous pressure, systemic blood pressure, and urine flow. If the heart rate exceeds 110 beats per minute, consider decreasing or temporarily discontinuing the infusion. |
 | Intravenous infusion | Dilute 5 mL (1 mg) in 500 mL of 5% Dextrose Injection, USP | 0.5 mcg to 5 mcg per minute (0.25 mL to 2.5 mL of diluted solution) |
 
-- 
-
 | Recommended dosage for adults with bronchospasm occurring during anesthesia: |  |  |  |
 | --- | --- | --- | --- |
 | Route of |  |  | Subsequent |
