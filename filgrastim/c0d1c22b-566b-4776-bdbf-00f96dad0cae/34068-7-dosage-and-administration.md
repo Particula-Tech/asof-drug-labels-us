@@ -59,16 +59,24 @@ Thereafter, if the patient is clinically stable, less frequent routine monitorin
 
 ## 2.5 Important Administration Instructions
 
+ZARXIO (for subcutaneous use or intravenous use) is supplied in single-dose vials and in single-dose prefilled syringes [see Dosage Forms and Strengths (3)].
+
 Patient self-administration and administration by a caregiver may benefit from training by a healthcare professional.
-Training should aim to demonstrate to those patients and caregivers how to measure the dose using the prefilled syringe, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use of ZARXIO prefilled syringe with BD UltraSafe Passive® Needle Guard.
-If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO [see Instructions for Use].
+Training should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all of the steps in the Instructions for Use for the vial or prefilled syringe with BD UltraSafe Passive® Needle Guard.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO prefilled syringe or whether the patient would benefit from the ZARXIO vial presentation.
+If a patient or caregiver experiences difficulty measuring the required dose, especially if it is other than the entire content of the ZARXIO prefilled syringe, use of the ZARXIO vial may be considered [see Instructions for Use].
+
+Administration Instructions for the Prefilled syringe
 
 ZARXIO prefilled syringe with BD UltraSafe Passive® Needle Guard is not designed to allow for direct administration of doses of less than 0.3 mL (180 mcg).
 The spring-mechanism of the needle guard apparatus affixed to the prefilled syringe interferes with the visibility of the graduation markings on the syringe barrel corresponding to 0.1 mL and 0.2 mL.
 The visibility of these markings is necessary to accurately measure doses of ZARXIO less than 0.3 mL (180 mcg) for direct administration to patients.
 Thus, the direct administration to patients requiring doses of less than 0.3 mL (180 mcg) is not recommended due to the potential for dosing errors.
+If less than 0.3 mL is needed the ZARXIO single-dose vial should be used.
 
-ZARXIO is supplied in single-dose prefilled syringes (for subcutaneous use) [see Dosage Forms and Strengths (3)].
+Persons with latex allergies should not administer the ZARXIO prefilled syringe, because the needle cap contains natural rubber latex (derived from latex).
+For latex sensitive individuals the ZARXIO vial should be considered as it is not made with natural rubber latex.
+
 Prior to use‚ remove the prefilled syringe from the refrigerator and allow ZARXIO to reach room temperature for a minimum of 30 minutes and a maximum of 4 days.
 Discard any prefilled syringe left at room temperature for greater than 4 days.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration (the solution is clear and colorless to slightly yellowish).
@@ -77,21 +85,28 @@ Do not administer ZARXIO if particulates or discoloration are observed.
 Discard unused portion of ZARXIO in prefilled syringes.
 Do not save unused drug for later administration.
 
-Subcutaneous Injection
+Administration Instructions for the Single-dose vial
+
+Prior to use‚ remove the vial from the refrigerator and allow ZARXIO to reach room temperature (25°C/ 77°F) for a minimum of 30 minutes and a maximum of 24 hours.
+Discard any vial left at room temperature (25°C/ 77°F) for greater than 24 hours.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration (the solution is clear and colorless to slightly yellowish).
+Do not administer ZARXIO if particulates or discoloration are observed.
+
+Discard the unused portion of ZARXIO in single-dose vial and do not re-enter the vial.
+Do not save unused drug for later administration.
+
+Administration Instructions for Subcutaneous Injection
 
 Inject ZARXIO subcutaneously in the outer area of upper arms, abdomen, thighs, or upper outer areas of the buttock.
-If patients or caregivers are to administer ZARXIO, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for the prefilled syringe [see Patient Counseling Information (17)].
+If patients or caregivers are to administer ZARXIO, instruct them in appropriate injection technique and ask them to follow the subcutaneous injection procedures in the Instructions for Use for the vial or prefilled syringe with BD UltraSafe Passive® Needle Guard [see Patient Counseling Information (17)].
 
-Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all the steps in the Instructions for Use for the prefilled syringe.
-If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO.
+Training by the healthcare provider should aim to demonstrate to those patients and caregivers how to measure the dose of ZARXIO, and the focus should be on ensuring that a patient or caregiver can successfully perform all the steps in the Instructions for Use for the vial or prefilled syringe.
+If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of ZARXIO prefilled syringe or whether the patient would benefit from the ZARXIO vial presentation.
+If a patient or caregiver experiences difficulty measuring the required dose, especially if it is other than the entire content of the ZARXIO prefilled syringe, use of the ZARXIO vial may be considered.
 
 If the patient or caregiver misses a dose of ZARXIO, instruct them to contact their healthcare provider.
 
-Administration Instructions for the Prefilled Syringe
-
-Persons with latex allergies should not administer the ZARXIO prefilled syringe, because the needle cap contains natural rubber latex (derived from latex).
-
-Dilution
+Administration Instructions for Dilution
 
 If required for intravenous administration, ZARXIO may be diluted in 5% Dextrose Injection, USP to concentrations between 5 mcg/mL and 15 mcg/mL.
 ZARXIO diluted to concentrations from 5 mcg/mL to 15 mcg/mL should be protected from adsorption to plastic materials by the addition of Albumin (Human) to a final concentration of 2 mg/mL.

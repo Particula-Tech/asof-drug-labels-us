@@ -1,4 +1,4 @@
-# 300 mcg Carton
+# 300 mcg PFS Carton
 
 Zarxio®
 
@@ -37,7 +37,7 @@ SANDOZ
 
 A Novartis Division
 
-# 480 mcg Carton
+# 480 mcg PFS Carton
 
 Zarxio®
 
@@ -71,6 +71,72 @@ Caution: Contains Natural Rubber Latex
 Which May Cause Allergic Reaction.
 
 Rx only
+
+SANDOZ
+
+A Novartis Division
+
+# 300 mcg Vial Carton
+
+NDC 61314-246-71
+
+Zarxio®
+
+(filgrastim-sndz)
+
+Injection
+
+300 mcg/1.0 mL
+
+Rx Only
+
+For Subcutaneous Use or Intravenous Use Only
+
+Single-Dose Only
+
+A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF)
+
+derived from E Coli.
+
+No Preservative.
+
+Refrigerate.
+Protect from freezing.
+
+1 Single-Dose Vial
+
+SANDOZ
+
+A Novartis Division
+
+# 480 mcg Vial Carton
+
+NDC 61314-266-73
+
+Zarxio®
+
+(filgrastim-sndz)
+
+Injection
+
+480 mcg/1.6 mL
+
+Rx Only
+
+For Subcutaneous Use or Intravenous Use Only
+
+Single-Dose Only
+
+A recombinant Granulocyte Colony-Stimulating Factor (rG-CSF)
+
+derived from E Coli.
+
+No Preservative.
+
+Refrigerate.
+Protect from freezing.
+
+1 Single-Dose Vial
 
 SANDOZ
 
