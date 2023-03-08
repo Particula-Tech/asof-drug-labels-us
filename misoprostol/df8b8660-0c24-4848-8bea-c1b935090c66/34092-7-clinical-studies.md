@@ -35,7 +35,7 @@ Table 4
 | Osteoarthritis patients with history of | Incidence of ulcers |  |
 | --- | --- | --- |
 | ulcer or erosive disease (N=572), 6 weeks | Gastric | Duodenal |
-| Diclofenac Sodium/Misoprostol Delayed-Release Tablets 50 mg/ 0.2 mg three times a day | 3%* | 6% |
+| Diclofenac Sodium/Misoprostol Delayed-Release Tablets 50 mg/0.2 mg three times a day | 3%* | 6% |
 | Diclofenac Sodium/Misoprostol Delayed-Release Tablets 75 mg/0.2 mg two times a day | 4%* | 3% |
 | Diclofenac sodium 75 mg two times a day | 11% | 7% |
 | Placebo | 3% | 1% |

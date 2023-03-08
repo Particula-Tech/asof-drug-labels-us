@@ -14,5 +14,4 @@ The dosage strengths are supplied in:
 | 50 mg/0.2 mg | 0591-0397-19 | bottle of 90 |
 | 75 mg/0.2 mg | 0591-0398-60 | bottle of 60 |
 
-Store at 20° to 25°C (68° to 77°F).
-Excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
