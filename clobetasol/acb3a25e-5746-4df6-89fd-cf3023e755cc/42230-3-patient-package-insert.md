@@ -119,7 +119,7 @@ Rinse any other parts of your body that come into contact with CLOBEX Shampoo, s
 No other shampoo is needed, but you may wash your hair with a non-medicated shampoo after using CLOBEX Shampoo.
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA P51352-2 Manufactured by: G Production Inc. Baie d’Urfé, QC, H9X 3S4 Canada
+Dallas, TX 75201 USA P51352-3 Manufactured by: G Production Inc., Baie d’Urfé, QC, H9X 3S4 Canada
 
-GALDERMA is a registered trademark.
+All trademarks are the property of their resective owners.
 US Patent Nos. 7,316,810 and 7,700,081

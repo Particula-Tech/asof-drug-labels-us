@@ -1,6 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-CLOBEX Shampoo, 0.05% is for topical use only, and not for ophthalmic, oral or intravaginal use.x CLOBEX Shampoo, 0.05%, should be applied onto dry (not wet) scalp once a day in a thin film to the affected areas only, and left in place for 15 minutes before lathering and rinsing.
+CLOBEX Shampoo, 0.05% is for topical use only, and not for ophthalmic, oral or intravaginal use.
+CLOBEX Shampoo, 0.05%, should be applied onto dry (not wet) scalp once a day in a thin film to the affected areas only, and left in place for 15 minutes before lathering and rinsing.
 The total dosage should not exceed 50 g (50 mL or 1.75 fl. oz.) per week.
 Move the hair away from the scalp so that one of the affected areas is exposed.
 Position the bottle over the lesion.
