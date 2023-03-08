@@ -28,13 +28,13 @@ What should I tell my healthcare provider before taking CARDURA XL?
 
 Before you take CARDURA XL, tell your healthcare provider if you:
 
-- have or have had low blood pressure, especially after taking another medicine.
+- •have or have had low blood pressure, especially after taking another medicine.
   Signs of low blood pressure are fainting, dizziness, and lightheadedness.
-- plan to have cataract surgery
-- have stomach problems
-- have prostate cancer
-- have liver problems
-- have heart problems
+- •plan to have cataract surgery
+- •have stomach problems
+- •have prostate cancer
+- •have liver problems
+- •have heart problems
 
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
@@ -42,10 +42,10 @@ CARDURA XL may affect the way other medicines work, and other medicines may affe
 
 Especially tell your healthcare provider if you take:
 
-- a medicine to treat an infection
-- a medicine to treat HIV
-- a medicine to treat depression
-- a medicine to treat erectile dysfunction (ED)
+- •a medicine to treat an infection
+- •a medicine to treat HIV
+- •a medicine to treat depression
+- •a medicine to treat erectile dysfunction (ED)
 
 Ask your healthcare provider or pharmacist if you are not sure if your medicine is one of those listed above.
 
@@ -54,16 +54,16 @@ Keep a list of them to show your healthcare provider and pharmacist when you get
 
 How should I take CARDURA XL?
 
-- Take CARDURA XL exactly as your healthcare provider tells you to take it.
-- Take CARDURA XL 1 time each day with your breakfast.
-- Take CARDURA XL tablets whole.
+- •Take CARDURA XL exactly as your healthcare provider tells you to take it.
+- •Take CARDURA XL 1 time each day with your breakfast.
+- •Take CARDURA XL tablets whole.
   Do not chew, divide, cut, or crush CARDURA XL tablets before swallowing.
   If you cannot swallow CARDURA XL tablets whole, tell your healthcare provider.
   You may need a different medicine.
-- CARDURA XL tablets have an outside shell that helps to release the medicine inside over time.
+- •CARDURA XL tablets have an outside shell that helps to release the medicine inside over time.
   You may see the empty CARDURA XL tablet in your stool (bowel movement).
   This is normal.
-- If you take too much CARDURA XL, call your healthcare provider or go to the nearest hospital emergency room right away.
+- •If you take too much CARDURA XL, call your healthcare provider or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking CARDURA XL?
 
@@ -74,33 +74,33 @@ What are the possible side effects of CARDURA XL?
 
 CARDURA XL may cause serious side effects including:
 
-- a sudden drop in blood pressure (postural hypotension).
+- •a sudden drop in blood pressure (postural hypotension).
   Postural hypotension can happen at any time while you take CARDURA XL.
   The chance of having postural hypotension is higher a few hours after you take CARDURA XL or if you start taking a higher dose.
   Symptoms of postural hypotension may happen after you stand up from a lying or sitting position and may include:You should get up slowly from a chair or bed until you know how CARDURA XL will affect you.
   If you begin to feel dizzy or lightheaded, sit or lie down with your legs and feet up.
   If your symptoms do not get better call your healthcare provider.
-  - dizziness or
-  - fainting or
-  - feeling light-headed
-- intraoperative floppy iris syndrome (IFIS).
+  - •dizziness or
+  - •fainting or
+  - •feeling light-headed
+- •intraoperative floppy iris syndrome (IFIS).
   IFIS can happen during eye surgery to people who are taking or have taken alpha-blockers such as CARDURA XL.
   If you have an eye surgery for a clouding of the eye (cataract) planned, tell your eye doctor that you are using CARDURA XL or have taken an alpha-blocker before.
-- blockage of the digestive tract.
+- •blockage of the digestive tract.
   There have been rare reports of symptoms of blockage in the digestive tract in patients with prior history of narrowing or blockage of the digestive tract.
   These symptoms are severe and persistent abdominal pain/cramping/bloating.
   If you know you have a narrowing of your digestive tract and you experience these symptoms, contact your healthcare provider.
-- prolonged erection of the penis.
+- •prolonged erection of the penis.
   Extremely rarely, CARDURA XL and similar medications have caused painful erection of the penis, sustained for hours and unrelieved by sexual intercourse or masturbation.
   This condition is serious, and if untreated it can be followed by permanent inability to have an erection.
   If you have a prolonged abnormal erection, call your doctor or go to an emergency room as soon as possible.
 
 The most common side effects of CARDURA XL include:
 
-- tiredness
-- headache
-- low blood pressure
-- dizziness
+- •tiredness
+- •headache
+- •low blood pressure
+- •dizziness
 
 Call your healthcare provider if you get any side effect that bothers you or that does not go away.
 
@@ -112,7 +112,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store CARDURA XL?
 
-- Store CARDURA XL at 59°F to 86°F (15°C to 30°C).
+- •Store CARDURA XL at 59°F to 86°F (15°C to 30°C).
 
 Keep CARDURA XL and all medicines out of reach of children.
 
