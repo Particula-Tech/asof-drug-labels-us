@@ -2,7 +2,15 @@
 
 ## 16.1 How Supplied
 
-Lenalidomide Capsules are available containing 5 mg, 10 mg, 15 mg or 25 mg of lenalidomide.
+Lenalidomide Capsules are available containing 2.5 mg, 5 mg, 10 mg, 15 mg, 20 mg or 25 mg of lenalidomide.
+
+The 2.5 mg capsules are hard-shell gelatin capsules with a green opaque cap and white opaque body filled with white to off-white powder.
+The capsules are axially printed with MYLAN over LL 2.5 in black ink on both the cap and body.
+They are available as follows:
+
+NDC 0378-1935-28 bottles of 28 capsules
+
+NDC 0378-1935-01 bottles of 100 capsules
 
 The 5 mg capsules are hard-shell gelatin capsules with a white opaque cap and white opaque body filled with white to off-white powder.
 The capsules are axially printed with MYLAN over LL 5 in black ink on both the cap and body.
@@ -27,6 +35,14 @@ They are available as follows:
 NDC 0378-1941-21 bottles of 21 capsules
 
 NDC 0378-1941-01 bottles of 100 capsules
+
+The 20 mg capsules are hard-shell gelatin capsules with a green opaque cap and white opaque body filled with white to off-white powder.
+The capsules are axially printed with MYLAN over LL 20 in red ink on both the cap and body.
+They are available as follows:
+
+NDC 0378-1942-21 bottles of 21 capsules
+
+NDC 0378-1942-01 bottles of 100 capsules
 
 The 25 mg capsules are hard-shell gelatin capsules with a white opaque cap and white opaque body filled with white to off-white powder.
 The capsules are axially printed with MYLAN over LL 25 in black ink on both the cap and body.

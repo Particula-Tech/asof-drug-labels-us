@@ -19,7 +19,7 @@
 | These are not all the possible side effects of lenalidomide capsules. Call your doctor for medical advice about side effects. You may report side effects to the FDA at 1-800-FDA-1088. |  |  |  |
 | How should I store lenalidomide capsules? •Store lenalidomide capsules at room temperature between 68°F to 77°F (20°C to 25°C).•Return any unused lenalidomide capsules to your healthcare provider. Keep lenalidomide capsules and all medicines out of the reach of children. |  |  |  |
 | General information about the safe and effective use of lenalidomide capsules.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not take lenalidomide capsules for conditions for which they were not prescribed. Do not give lenalidomide capsules to other people, even if they have the same symptoms you have. They may harm them and may cause birth defects. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about lenalidomide capsules that is written for health professionals. |  |  |  |
-| What are the ingredients in lenalidomide capsules? Active ingredient: lenalidomideInactive ingredients: colloidal silicon dioxide, croscarmellose sodium, gelatin, microcrystalline cellulose, pregelatinized starch (corn), sodium stearyl fumarate and titanium dioxide. The 10 mg capsules also contain black iron oxide, FD&C Blue No. 2 and yellow iron oxide. The black imprinting ink for the 5 mg, 10 mg and 25 mg capsules contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution. The red imprinting ink for the 15 mg capsules contains ammonium hydroxide, propylene glycol, red iron oxide, shellac glaze and simethicone. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited, Hyderabad — 500 096, India For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or go to www.lenalidomiderems.com. |  |  |  |
+| What are the ingredients in lenalidomide capsules? Active ingredient: lenalidomideInactive ingredients: colloidal silicon dioxide, croscarmellose sodium, gelatin, microcrystalline cellulose, pregelatinized starch (corn), sodium stearyl fumarate and titanium dioxide. The 2.5 mg, 10 mg and 20 mg capsules also contain FD&C Blue No. 2 and yellow iron oxide. The 10 mg capsules also contain black iron oxide. The black imprinting ink for the 2.5 mg, 5 mg, 10 mg and 25 mg capsules contains black iron oxide, potassium hydroxide, propylene glycol, shellac and strong ammonia solution. The red imprinting ink for the 15 mg and 20 mg capsules contains ammonium hydroxide, propylene glycol, red iron oxide, shellac glaze and simethicone. Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Laboratories Limited, Hyderabad — 500 096, India For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or go to www.lenalidomiderems.com. |  |  |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -27,6 +27,8 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75089057 75089058
+75090248 MXI:LENAC:R3pbmh:A/MXI:MG:LENAC:R3mh
 
-Revised: 5/2022 MXI:LENAC:R2pbmh:A/MXI:MG:LENAC:R2mh MXI:LENAC:R2pbmh:B/MXI:MG:LENAC:R2mh
+75090249 MXI:LENAC:R3pbmh:B/MXI:MG:LENAC:R3mh
+
+Revised: 5/2022
