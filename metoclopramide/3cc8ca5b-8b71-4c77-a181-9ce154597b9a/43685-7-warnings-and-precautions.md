@@ -9,7 +9,7 @@ Additionally, the risk of developing TD is increased among the elderly, especial
 Due to the risk of developing TD, avoid treatment with metoclopramide for longer than 12 weeks and reduce the dosage in elderly patients [see Dosage and Administration (2.2, 2.3)].
 
 Discontinue metoclopramide immediately in patients who develop signs and symptoms of TD.
-There is no known effective treatment for established cases of TD, although in some patients TD may remit, partially or completely, within several weeks to months after metoclopramide is withdrawn.Discontinue metoclopramide immediately in patients who develop signs and symptoms of TD.
+There is no known effective treatment for established cases of TD, although in some patients TD may remit, partially or completely, within several weeks to months after metoclopramide is withdrawn..Discontinue metoclopramide immediately in patients who develop signs and symptoms of TD.
 There is no known effective treatment for established cases of TD, although in some patients TD may remit, partially or completely, within several weeks to months after metoclopramide is withdrawn.
 
 Metoclopramide itself may suppress, or partially suppress, the signs of TD, thereby masking the underlying disease process.
