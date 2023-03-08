@@ -46,3 +46,5 @@ neuroleptic malignant syndrome (see WARNINGS), allergic reactions including anap
 Laboratory Tests
 
 elevated: CPK, BUN, serum creatinine, alkaline phosphatase, LDH, bilirubin, GGT, SGOT, and SGPT.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Pharmaceutical Associates, Inc. at 1-800-845-8210 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

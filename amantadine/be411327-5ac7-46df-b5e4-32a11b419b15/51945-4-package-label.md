@@ -2,8 +2,6 @@
 
 NDC 0121-0646-16
 
-NSN 6505-01-130-1945
-
 Amantadine Hydrochloride Oral Solution USP
 
 50 mg/5 mL
@@ -12,17 +10,23 @@ Each 5 mL (1 teaspoonful) contains
 
 Amantadine Hydrochloride 50 mg
 
-Usage Dosage: See Package Insert
+Rx Only 16 fl oz (473 mL)
+
+Pharmaceutical Associates, Inc.
+
+Greenville, SC 29605
+
+www.paipharma.com
+
+Store at 20° to 25°C (68° - 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight container as defined in the USP.
 
 KEEP TIGHTLY CLOSED
 
-Store at 20° to 25°C (68° - 77°F) [See USP Controlled Room Temperature].
+USUAL DOSAGE: See Package Insert
 
-Rx Only 16 fl oz (473 mL)
-
-PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
+X0646160222 R02/22
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Cup Label
 
@@ -30,7 +34,7 @@ Delivers 10 mL
 
 NDC 0121-0646-10
 
-A MANTADINE H YDROCHLORIDE O RAL S OLUTION USP
+AMANTADINE HYDROCHLORIDE ORAL SOLUTION USP
 
 Each 10 mL contains: Amantadine Hydrochloride 100 mg
 
@@ -41,3 +45,5 @@ Package Not Child-Resistant
 Rx ONLY
 
 PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
+
+A0646101021

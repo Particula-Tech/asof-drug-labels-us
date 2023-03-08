@@ -117,8 +117,8 @@ Agents with anticholinergic properties may potentiate the anticholinergic-like s
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
 
-Coadministration of Dyazide is a registered trademark of GlaxoSmithKline.Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine hydrochloride concentration in a 61-year old man receiving amantadine hydrochloride 100 mg TID for Parkinson's disease.
-1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
+Coadministration of 1Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine hydrochloride concentration in a 61-year old man receiving amantadine hydrochloride 100 mg TID for Parkinson's disease.
+1 It is not known which of the components of 1Dyazide contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine hydrochloride was shown to reduce the renal clearance of amantadine hydrochloride by about 30%.
 
@@ -144,8 +144,6 @@ Failed fertility has been reported during human in vitro fertilization (IVF) whe
 ## Pregnancy
 
 ### Teratogenic Effects
-
-#### Pregnancy Category C
 
 The effect of amantadine hydrochloride on embryofetal and peri-postnatal development has not been adequately tested, that is, in studies conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
 However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m 2 basis).
