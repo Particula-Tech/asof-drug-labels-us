@@ -4,6 +4,6 @@
 
 Bortezomib for Injection is indicated for the treatment of adult patients with multiple myeloma.
 
-## 1.2 Mantle Cell Lymphoma in Adult Patients Who Have Received at Least 1 Prior Therapy
+## 1.2 Mantle Cell Lymphoma
 
-Bortezomib for Injection is indicated for the treatment of adult patients with mantle cell lymphoma who have received at least 1 prior therapy.
+Bortezomib for Injection is indicated for the treatment of adult patients with mantle cell lymphoma.

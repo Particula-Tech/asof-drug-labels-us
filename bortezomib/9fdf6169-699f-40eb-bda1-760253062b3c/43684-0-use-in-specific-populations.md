@@ -64,7 +64,7 @@ Bortezomib was administered at a dose of 1.3 mg/m2 as a bolus intravenous inject
 There were 140 patients with ALL or LL enrolled and evaluated for safety.
 The median age was ten years (range: 1 to 26), 57% were male, 70% were white, 14% were black, 4% were Asian, 2% were American Indian/Alaska Native, 1% were Pacific Islander.
 
-The activity was evaluated in a prespecified subset of the first 60 evaluable patients enrolled on the study with pre-B ALL ≤ 21 years and relapsed <36 months from diagnosis.
+The activity was evaluated in a prespecified subset of the first 60 evaluable patients enrolled on the study with pre-B ALL ≤21 years and relapsed <36 months from diagnosis.
 The complete remission (CR) rate at Day 36 was compared to that in a historical control set of patients who had received the identical backbone therapy without bortezomib.
 There was no evidence that the addition of bortezomib had any impact on the CR rate.
 
@@ -75,11 +75,11 @@ The BSA-normalized clearance of bortezomib in pediatric patients was similar to 
 ## 8.5 Geriatric Use
 
 Of the 669 patients enrolled in the relapsed multiple myeloma study, 245 (37%) were 65 years of age or older: 125 (38%) on the bortezomib arm and 120 (36%) on the dexamethasone arm.
-Median time to progression and median duration of response for patients ≥ 65 were longer on bortezomib compared to dexamethasone [5.5 months vs 4.3 months, and 8.0 months vs 4.9 months, respectively].
-On the bortezomib arm, 40% (n=46) of evaluable patients aged ≥ 65 experienced response (CR + PR) vs 18% (n=21) on the dexamethasone arm.
-The incidence of Grade 3 and 4 events was 64%, 78% and 75% for bortezomib patients ≤ 50, 51 to 64 and ≥ 65 years old, respectively [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+Median time to progression and median duration of response for patients ≥65 were longer on bortezomib compared to dexamethasone [5.5 mo vs 4.3 mo, and 8.0 mo vs 4.9 mo, respectively].
+On the bortezomib arm, 40% (n=46) of evaluable patients aged ≥65 experienced response (CR + PR) vs 18% (n=21) on the dexamethasone arm.
+The incidence of Grade 3 and 4 events was 64%, 78% and 75% for bortezomib patients ≤50, 51 to 64 and ≥65 years old, respectively [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
-No overall differences in safety or effectiveness were observed between patients ≥ age 65 and younger patients receiving bortezomib; but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety or effectiveness were observed between patients ≥age 65 and younger patients receiving bortezomib; but greater sensitivity of some older individuals cannot be ruled out.
 
 ## 8.6 Renal Impairment
 
@@ -88,9 +88,9 @@ In patients requiring dialysis, Bortezomib for Injection should be administered 
 
 ## 8.7 Hepatic Impairment
 
-No starting dosage adjustment of Bortezomib for Injection is recommended for patients with mild hepatic impairment (total bilirubin ≤ 1× ULN and AST > ULN, or total bilirubin > 1 to 1.5× ULN and any AST).
+No starting dosage adjustment of Bortezomib for Injection is recommended for patients with mild hepatic impairment (total bilirubin ≤1× ULN and AST >ULN, or total bilirubin >1 to 1.5× ULN and any AST).
 The exposure of bortezomib is increased in patients with moderate (total bilirubin ≥1.5 to 3× ULN and any AST) and severe (total bilirubin >3× ULN and any AST) hepatic impairment.
-Reduce the starting dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.6), Clinical Pharmacology (12.3)].
+Reduce the starting dose in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.8), Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients with Diabetes
 

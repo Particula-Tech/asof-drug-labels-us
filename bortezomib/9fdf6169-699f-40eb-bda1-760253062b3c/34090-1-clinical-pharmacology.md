@@ -27,7 +27,7 @@ The Cmax after subcutaneous administration (20.4 ng/mL) was lower than after int
 
 Distribution
 
-The mean distribution volume of bortezomib ranged from approximately 498 L/m2 to 1884 L/m2 following single- or repeat dose administration of 1 mg/m2 or 1.3 mg/m2 to patients with multiple myeloma.
+The mean distribution volume of bortezomib ranged from approximately 498 L/m2 to 1884 L/m2 following single- or repeat-dose administration of 1 mg/m2 or 1.3 mg/m2 to patients with multiple myeloma.
 The binding of bortezomib to human plasma proteins averaged 83% over the concentration range of 100 ng/mL to 1000 ng/mL.
 
 Elimination
@@ -50,8 +50,8 @@ The effect of race on bortezomib pharmacokinetics is unknown.
 
 Patients with Hepatic Impairment
 
-Following administration of bortezomib doses ranging from 0.5 to 1.3 mg/m2, mild (total bilirubin ≤1× ULN and AST > ULN, or total bilirubin >1 to 1.5× ULN and any AST) hepatic impairment did not alter dose-normalized bortezomib AUC when compared to patients with normal hepatic function.
-Dose-normalized mean bortezomib AUC increased by approximately 60% in patients with moderate (total bilirubin >1.5 to 3× ULN and any AST) or severe (total bilirubin >3× ULN and any AST) hepatic impairment.
+Following administration of bortezomib doses ranging from 0.5 mg/m2 to 1.3 mg/m2, mild (total bilirubin ≤1× ULN and AST >ULN, or total bilirubin >1× to 1.5× ULN and any AST) hepatic impairment did not alter dose-normalized bortezomib AUC when compared to patients with normal hepatic function.
+Dose-normalized mean bortezomib AUC increased by approximately 60% in patients with moderate (total bilirubin >1.5× to 3× ULN and any AST) or severe (total bilirubin >3× ULN and any AST) hepatic impairment.
 A lower starting dose is recommended in patients with moderate or severe hepatic impairment.
 
 Drug Interaction Studies

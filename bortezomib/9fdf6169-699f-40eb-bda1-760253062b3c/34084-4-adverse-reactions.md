@@ -2,16 +2,16 @@
 
 The following clinically significant adverse reactions are also discussed in other sections of the labeling:
 
-- Peripheral Neuropathy [see Warnings and Precautions (5.1)]
-- Hypotension [see Warnings and Precautions (5.2)]
-- Cardiac Toxicity [see Warnings and Precautions (5.3)]
-- Pulmonary Toxicity [see Warnings and Precautions (5.4)]
-- Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.5)]
-- Gastrointestinal Toxicity [see Warnings and Precautions (5.6)]
-- Thrombocytopenia/Neutropenia [see Warnings and Precautions (5.7)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.8)]
-- Hepatic Toxicity [see Warnings and Precautions (5.9)]
-- Thrombotic Microangiopathy [see Warnings and Precautions (5.10)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.1)]
+- •Hypotension [see Warnings and Precautions (5.2)]
+- •Cardiac Toxicity [see Warnings and Precautions (5.3)]
+- •Pulmonary Toxicity [see Warnings and Precautions (5.4)]
+- •Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.5)]
+- •Gastrointestinal Toxicity [see Warnings and Precautions (5.6)]
+- •Thrombocytopenia/Neutropenia [see Warnings and Precautions (5.7)]
+- •Tumor Lysis Syndrome [see Warnings and Precautions (5.8)]
+- •Hepatic Toxicity [see Warnings and Precautions (5.9)]
+- •Thrombotic Microangiopathy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,13 +19,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Summary of Clinical Trial in Patients with Previously Untreated Multiple Myeloma
 
-Table 7 describes safety data from 340 patients with previously untreated multiple myeloma who received bortezomib (1.3 mg/m2) administered intravenously in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
+Table 9 describes safety data from 340 patients with previously untreated multiple myeloma who received bortezomib (1.3 mg/m2) administered intravenously in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
 
 The safety profile of bortezomib in combination with melphalan/prednisone is consistent with the known safety profiles of both bortezomib and melphalan/prednisone.
 
-Table 7: Most Commonly Reported Adverse Reactions (≥ 10% in the Bortezomib, Melphalan and Prednisone Arm) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Multiple Myeloma Study
+Table 9: Most Commonly Reported Adverse Reactions (≥10% in the Bortezomib, Melphalan and Prednisone Arm) with Grades 3 and ≥4 Intensity in the Previously Untreated Multiple Myeloma Study
 
-| Adverse Reaction | n (%) | 3 | ≥ 4 | n (%) | 3 | ≥ 4 |
+| Adverse Reaction | n (%) | 3 | ≥4 | n (%) | 3 | ≥4 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Bortezomib, Melphalan and Prednisone (n = 340) |  |  | Melphalan and Prednisone (n = 337) |  |  |
 | Body System | Total | Toxicity Grade, n (%) |  | Total | Toxicity Grade, n (%) |  |
@@ -36,19 +36,19 @@ Table 7: Most Commonly Reported Adverse Reactions (≥ 10% in the Bortezomib, Me
 | Leukopenia | 108 (32) | 64 (19) | 8 (2) | 93 (28) | 53 (16) | 11 (3) |
 | Lymphopenia | 78 (23) | 46 (14) | 17 (5) | 51 (15) | 26 (8) | 7 (2) |
 | Gastrointestinal Disorders |  |  |  |  |  |  |
-| Nausea | 134 (39) | 10 (3) | 0 | 70 (21) | 1 (< 1) | 0 |
-| Diarrhea | 119 (35) | 19 (6) | 2 (1) | 20 (6) | 1 (< 1) | 0 |
+| Nausea | 134 (39) | 10 (3) | 0 | 70 (21) | 1 (<1) | 0 |
+| Diarrhea | 119 (35) | 19 (6) | 2 (1) | 20 (6) | 1 (<1) | 0 |
 | Vomiting | 87 (26) | 13 (4) | 0 | 41 (12) | 2 (1) | 0 |
 | Constipation | 77 (23) | 2 (1) | 0 | 14 (4) | 0 | 0 |
-| Abdominal pain upper | 34 (10) | 1 (< 1) | 0 | 20 (6) | 0 | 0 |
+| Abdominal pain upper | 34 (10) | 1 (<1) | 0 | 20 (6) | 0 | 0 |
 | Nervous System Disorders |  |  |  |  |  |  |
 | Peripheral neuropathyRepresents High Level Term Peripheral Neuropathies NEC | 156 (46) | 42 (12) | 2 (1) | 4 (1) | 0 | 0 |
-| Neuralgia | 117 (34) | 27 (8) | 2 (1) | 1 (< 1) | 0 | 0 |
+| Neuralgia | 117 (34) | 27 (8) | 2 (1) | 1 (<1) | 0 | 0 |
 | Paresthesia | 42 (12) | 6 (2) | 0 | 4 (1) | 0 | 0 |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |  |
 | Fatigue | 85 (25) | 19 (6) | 2 (1) | 48 (14) | 4 (1) | 0 |
 | Asthenia | 54 (16) | 18 (5) | 0 | 23 (7) | 3 (1) | 0 |
-| Pyrexia | 53 (16) | 4 (1) | 0 | 19 (6) | 1 (< 1) | 1 (< 1) |
+| Pyrexia | 53 (16) | 4 (1) | 0 | 19 (6) | 1 (<1) | 1 (<1) |
 | Infections and Infestations |  |  |  |  |  |  |
 | Herpes Zoster | 39 (11) | 11 (3) | 0 | 9 (3) | 4 (1) | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |  |
@@ -56,22 +56,22 @@ Table 7: Most Commonly Reported Adverse Reactions (≥ 10% in the Bortezomib, Me
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
 | Rash | 38 (11) | 2 (1) | 0 | 7 (2) | 0 | 0 |
 | Psychiatric Disorders |  |  |  |  |  |  |
-| Insomnia | 35 (10) | 1 (< 1) | 0 | 21 (6) | 0 | 0 |
+| Insomnia | 35 (10) | 1 (<1) | 0 | 21 (6) | 0 | 0 |
 
 Relapsed Multiple Myeloma Randomized Study of Bortezomib vs Dexamethasone
 
-The safety data described below and in Table 8 reflect exposure to either bortezomib (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
+The safety data described below and in Table 10 reflect exposure to either bortezomib (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
 Bortezomib was administered intravenously at doses of 1.3 mg/m2 twice weekly for two out of three weeks (21 day cycle).
 After eight 21 day cycles patients continued therapy for three 35 day cycles on a weekly schedule.
 Duration of treatment was up to 11 cycles (nine months) with a median duration of six cycles (4.1 months).
 For inclusion in the trial, patients must have had measurable disease and one to three prior therapies.
 There was no upper age limit for entry.
 Creatinine clearance could be as low as 20 mL/min and bilirubin levels as high as 1.5 times the upper limit of normal.
-The overall frequency of adverse reactions was similar in men and women, and in patients < 65 and ≥ 65 years of age.
+The overall frequency of adverse reactions was similar in men and women, and in patients <65 and ≥65 years of age.
 Most patients were Caucasian [see Clinical Studies (14.1)].
 
-Among the 331 bortezomib-treated patients, the most commonly reported (> 20%) adverse reactions overall were nausea (52%), diarrhea (52%), fatigue (39%), peripheral neuropathies (35%), thrombocytopenia (33%), constipation (30%), vomiting (29%), and anorexia (21%).
-The most commonly reported (> 20%) adverse reaction reported among the 332 patients in the dexamethasone group was fatigue (25%).
+Among the 331 bortezomib-treated patients, the most commonly reported (>20%) adverse reactions overall were nausea (52%), diarrhea (52%), fatigue (39%), peripheral neuropathies (35%), thrombocytopenia (33%), constipation (30%), vomiting (29%), and anorexia (21%).
+The most commonly reported (>20%) adverse reaction reported among the 332 patients in the dexamethasone group was fatigue (25%).
 Eight percent (8%) of patients in the bortezomib-treated arm experienced a Grade 4 adverse reaction; the most common reactions were thrombocytopenia (4%) and neutropenia (2%).
 Nine percent (9%) of dexamethasone-treated patients experienced a Grade 4 adverse reaction.
 All individual dexamethasone-related Grade 4 adverse reactions were less than 1%.
@@ -92,31 +92,31 @@ Four deaths were considered dexamethasone-related: two cases of sepsis, one case
 
 Most Commonly Reported Adverse Reactions in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone
 
-The most common adverse reactions from the relapsed multiple myeloma study are shown in Table 8.
-All adverse reactions with incidence ≥ 10% in the bortezomib arm are included.
+The most common adverse reactions from the relapsed multiple myeloma study are shown in Table 10.
+All adverse reactions with incidence ≥10% in the bortezomib arm are included.
 
-Table 8: Most Commonly Reported Adverse Reactions (≥ 10% in Bortezomib Arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone (N=663)
+Table 10: Most Commonly Reported Adverse Reactions (≥10% in Bortezomib Arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone (N=663)
 
 | Adverse Reactions | All | Grade 3 | Grade 4 | All | Grade 3 | Grade 4 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Bortezomib (N = 331) |  |  | Dexamethasone (N = 332) |  |  |
 | Any Adverse Reactions | 324 (98) | 193 (58) | 28 (8) | 297 (89) | 110 (33) | 29 (9) |
 | Nausea | 172 (52) | 8 (2) | 0 | 31 (9) | 0 | 0 |
-| Diarrhea NOS | 171 (52) | 22 (7) | 0 | 36 (11) | 2 (< 1) | 0 |
+| Diarrhea NOS | 171 (52) | 22 (7) | 0 | 36 (11) | 2 (<1) | 0 |
 | Fatigue | 130 (39) | 15 (5) | 0 | 82 (25) | 8 (2) | 0 |
-| Peripheral neuropathiesRepresents High Level Term Peripheral Neuropathies NEC | 115 (35) | 23 (7) | 2 (< 1) | 14 (4) | 0 | 1 (< 1) |
+| Peripheral neuropathiesRepresents High Level Term Peripheral Neuropathies NEC | 115 (35) | 23 (7) | 2 (<1) | 14 (4) | 0 | 1 (< 1) |
 | Thrombocytopenia | 109 (33) | 80 (24) | 12 (4) | 11 (3) | 5 (2) | 1 (< 1) |
-| Constipation | 99 (30) | 6 (2) | 0 | 27 (8) | 1 (< 1) | 0 |
-| Vomiting NOS | 96 (29) | 8 (2) | 0 | 10 (3) | 1 (< 1) | 0 |
-| Anorexia | 68 (21) | 8 (2) | 0 | 8 (2) | 1 (< 1) | 0 |
-| Pyrexia | 66 (20) | 2 (< 1) | 0 | 21 (6) | 3 (< 1) | 1 (< 1) |
+| Constipation | 99 (30) | 6 (2) | 0 | 27 (8) | 1 (<1) | 0 |
+| Vomiting NOS | 96 (29) | 8 (2) | 0 | 10 (3) | 1 (<1) | 0 |
+| Anorexia | 68 (21) | 8 (2) | 0 | 8 (2) | 1 (<1) | 0 |
+| Pyrexia | 66 (20) | 2 (<1) | 0 | 21 (6) | 3 (<1) | 1 (< 1) |
 | Paresthesia | 64 (19) | 5 (2) | 0 | 24 (7) | 0 | 0 |
-| Anemia NOS | 63 (19) | 20 (6) | 1 (< 1) | 21 (6) | 8 (2) | 0 |
-| Headache NOS | 62 (19) | 3 (< 1) | 0 | 23 (7) | 1 (< 1) | 0 |
-| Neutropenia | 58 (18) | 37 (11) | 8 (2) | 1 (< 1) | 1 (< 1) | 0 |
-| Rash NOS | 43 (13) | 3 (< 1) | 0 | 7 (2) | 0 | 0 |
+| Anemia NOS | 63 (19) | 20 (6) | 1 (<1) | 21 (6) | 8 (2) | 0 |
+| Headache NOS | 62 (19) | 3 (<1) | 0 | 23 (7) | 1 (<1) | 0 |
+| Neutropenia | 58 (18) | 37 (11) | 8 (2) | 1 (<1) | 1 (<1) | 0 |
+| Rash NOS | 43 (13) | 3 (<1) | 0 | 7 (2) | 0 | 0 |
 | Appetite decreased NOS | 36 (11) | 0 | 0 | 12 (4) | 0 | 0 |
-| Dyspnea NOS | 35 (11) | 11 (3) | 1 (< 1) | 37 (11) | 7 (2) | 1 (< 1) |
+| Dyspnea NOS | 35 (11) | 11 (3) | 1 (<1) | 37 (11) | 7 (2) | 1 (< 1) |
 | Abdominal pain NOS | 35 (11) | 5 (2) | 0 | 7 (2) | 0 | 0 |
 | Weakness | 34 (10) | 10 (3) | 0 | 28 (8) | 8 (2) | 0 |
 
@@ -129,11 +129,11 @@ Safety Experience from the Phase 3 Open-Label Study of Bortezomib Subcutaneous v
 
 The safety and efficacy of bortezomib administered subcutaneously were evaluated in one Phase 3 study at the recommended dose of 1.3 mg/m2.
 This was a randomized, comparative study of bortezomib subcutaneous vs intravenous in 222 patients with relapsed multiple myeloma.
-The safety data described below and in Table 9 reflect exposure to either bortezomib subcutaneous (N=147) or bortezomib intravenous (N=74) [see Clinical Studies (14.1)].
+The safety data described below and in Table 11 reflect exposure to either bortezomib subcutaneous (N=147) or bortezomib intravenous (N=74) [see Clinical Studies (14.1)].
 
-Table 9: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3 and ≥ 4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of Bortezomib Subcutaneous vs Intravenous
+Table 11: Most Commonly Reported Adverse Reactions (≥10%), with Grade 3 and ≥4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of Bortezomib Subcutaneous vs Intravenous
 
-| Adverse Reaction | n (%) | 3 | ≥ 4 | n (%) | 3 | ≥ 4 |
+| Adverse Reaction | n (%) | 3 | ≥4 | n (%) | 3 | ≥4 |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Subcutaneous (N = 147) |  |  | Intravenous (N = 74) |  |  |
 | Body System | Total | Toxicity Grade, n (%) |  | Total | Toxicity Grade, n (%) |  |
@@ -156,8 +156,8 @@ Table 9: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3 and �
 | Note: Safety population: 147 patients in the subcutaneous treatment group and 74 patients in the intravenous treatment group who received at least one dose of study medication |  |  |  |  |  |  |
 
 In general, safety data were similar for the subcutaneous and intravenous treatment groups.
-Differences were observed in the rates of some Grade ≥ 3 adverse reactions.
-Differences of ≥ 5% were reported in neuralgia (3% subcutaneous vs 9% intravenous), peripheral neuropathies (6% subcutaneous vs 15% intravenous), neutropenia (13% subcutaneous vs 18% intravenous), and thrombocytopenia (8% subcutaneous vs 16% intravenous).
+Differences were observed in the rates of some Grade ≥3 adverse reactions.
+Differences of ≥5% were reported in neuralgia (3% subcutaneous vs 9% intravenous), peripheral neuropathies (6% subcutaneous vs 15% intravenous), neutropenia (13% subcutaneous vs 18% intravenous), and thrombocytopenia (8% subcutaneous vs 16% intravenous).
 
 A local reaction was reported in 6% of patients in the subcutaneous group, mostly redness.
 Only two (1%) patients were reported as having severe reactions, one case of pruritus and one case of redness.
@@ -181,14 +181,74 @@ Two patients (1%) in the subcutaneous treatment group and one (1%) patient in th
 In the subcutaneous group the causes of death were one case of pneumonia and one case of sudden death.
 In the intravenous group the cause of death was coronary artery insufficiency.
 
+Safety Experience from the Clinical Trial in Patients with Previously Untreated Mantle Cell Lymphoma
+
+Table 12 describes safety data from 240 patients with previously untreated mantle cell lymphoma who received bortezomib (1.3 mg/m2) administered intravenously in combination with rituximab (375 mg/m2), cyclophosphamide (750 mg/m2), doxorubicin (50 mg/m2), and prednisone (100 mg/m2) (VcR-CAP) in a prospective randomized study.
+
+Infections were reported for 31% of patients in the VcR-CAP arm and 23% of the patients in the comparator (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP]) arm, including the predominant preferred term of pneumonia (VcR-CAP 8% vs R-CHOP 5%).
+
+Table 12: Most Commonly Reported Adverse Reactions (≥5%) with Grades 3 and ≥4 Intensity in the Previously Untreated Mantle Cell Lymphoma Study
+
+| Adverse Reactions | n (%) | n (%) | n (%) | n (%) | n (%) | n (%) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | VcR-CAP (N = 240) |  |  | R-CHOP (N = 242) |  |  |
+| Body System | All | Toxicity Grade 3 | Toxicity Grade ≥4 | All | Toxicity Grade 3 | Toxicity Grade ≥4 |
+| Blood and Lymphatic System Disorders |  |  |  |  |  |  |
+| Neutropenia | 209 (87) | 32 (13) | 168 (70) | 172 (71) | 31 (13) | 125 (52) |
+| Leukopenia | 116 (48) | 34 (14) | 69 (29) | 87 (36) | 39 (16) | 27 (11) |
+| Anemia | 106 (44) | 27 (11) | 4 (2) | 71 (29) | 23 (10) | 4 (2) |
+| Thrombocytopenia | 172 (72) | 59 (25) | 76 (32) | 42 (17) | 9 (4) | 3 (1) |
+| Febrile neutropenia | 41 (17) | 24 (10) | 12 (5) | 33 (14) | 17 (7) | 15 (6) |
+| Lymphopenia | 68 (28) | 25 (10) | 36 (15) | 28 (12) | 15 (6) | 2 (1) |
+| Nervous System Disorders |  |  |  |  |  |  |
+| Peripheral |  |  |  |  |  |  |
+| neuropathyRepresents High Level Term Peripheral Neuropathies NEC. | 71 (30) | 17 (7) | 1 (<1) | 65 (27) | 10 (4) | 0 |
+| Hypoesthesia | 14 (6) | 3 (1) | 0 | 13 (5) | 0 | 0 |
+| Paresthesia | 14 (6) | 2 (1) | 0 | 11 (5) | 0 | 0 |
+| Neuralgia | 25 (10) | 9 (4) | 0 | 1 (<1) | 0 | 0 |
+| General Disorders and Administration Site Conditions |  |  |  |  |  |  |
+| Fatigue | 43 (18) | 11 (5) | 1 (<1) | 38 (16) | 5 (2) | 0 |
+| Pyrexia | 48 (20) | 7 (3) | 0 | 23 (10) | 5 (2) | 0 |
+| Asthenia | 29 (12) | 4 (2) | 1 (<1) | 18 (7) | 1 (<1) | 0 |
+| Edema peripheral | 16 (7) | 1 (<1) | 0 | 13 (5) | 0 | 0 |
+| Gastrointestinal Disorders |  |  |  |  |  |  |
+| Nausea | 54 (23) | 1 (<1) | 0 | 28 (12) | 0 | 0 |
+| Constipation | 42 (18) | 1 (<1) | 0 | 22 (9) | 2 (1) | 0 |
+| Stomatitis | 20 (8) | 2 (1) | 0 | 19 (8) | 0 | 1 (<1) |
+| Diarrhea | 59 (25) | 11 (5) | 0 | 11 (5) | 3 (1) | 1 (<1) |
+| Vomiting | 24 (10) | 1 (<1) | 0 | 8 (3) | 0 | 0 |
+| Abdominal distension | 13 (15) | 0 | 0 | 4 (2) | 0 | 0 |
+| Infections and Infestations |  |  |  |  |  |  |
+| Pneumonia | 20 (8) | 8 (3) | 5 (2) | 11 (5) | 5 (2) | 3 (1) |
+| Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |  |
+| Alopecia | 31 (13) | 1 (<1) | 1 (<1) | 33 (14) | 4 (2) | 0 |
+| Metabolism and Nutrition Disorders |  |  |  |  |  |  |
+| Hyperglycemia | 10 (4) | 1 (<1) | 0 | 17 (7) | 10 (4) | 0 |
+| Decreased appetite | 36 (15) | 2 (1) | 0 | 15 (6) | 1 (<1) | 0 |
+| Vascular Disorders |  |  |  |  |  |  |
+| Hypertension | 15 (6) | 1 (<1) | 0 | 3 (1) | 0 | 0 |
+| Psychiatric Disorders |  |  |  |  |  |  |
+| Insomnia | 16 (7) | 1 (<1) | 0 | 8 (3) | 0 | 0 |
+| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
+
+The incidence of herpes zoster reactivation was 4.6% in the VcR-CAP arm and 0.8% in the R-CHOP arm.
+Antiviral prophylaxis was mandated by protocol amendment.
+
+The incidences of Grade ≥3 bleeding events were similar between the two arms (four patients in the VcR-CAP arm and three patients in the R-CHOP arm).
+All of the Grade ≥3 bleeding events resolved without sequelae in the VcR-CAP arm.
+
+Adverse reactions leading to discontinuation occurred in 8% of patients in VcR-CAP group and 6% of patients in R-CHOP group.
+In the VcR-CAP group, the most commonly reported adverse reaction leading to discontinuation was peripheral sensory neuropathy (1%; three patients).
+The most commonly reported adverse reaction leading to discontinuation in the R-CHOP group was febrile neutropenia (<1%; two patients).
+
 Integrated Summary of Safety (Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma)
 
 Safety data from Phase 2 and 3 studies of single agent bortezomib 1.3 mg/m2/dose twice weekly for two weeks followed by a ten day rest period in 1163 patients with previously-treated multiple myeloma (N=1008) and previously-treated mantle cell lymphoma (N=155) were integrated and tabulated.
 This analysis does not include data from the Phase 3 open-label study of bortezomib subcutaneous vs intravenous in relapsed multiple myeloma.
 In the integrated studies, the safety profile of bortezomib was similar in patients with multiple myeloma and mantle cell lymphoma.
 
-In the integrated analysis, the most commonly reported (> 20%) adverse reactions were nausea (49%), diarrhea (46%), asthenic conditions including fatigue (41%) and weakness (11%), peripheral neuropathies (38%), thrombocytopenia (32%), vomiting (28%), constipation (25%), and pyrexia (21%).
-Eleven percent (11%) of patients experienced at least one episode of ≥ Grade 4 toxicity, most commonly thrombocytopenia (4%) and neutropenia (2%).
+In the integrated analysis, the most commonly reported (>20%) adverse reactions were nausea (49%), diarrhea (46%), asthenic conditions including fatigue (41%) and weakness (11%), peripheral neuropathies (38%), thrombocytopenia (32%), vomiting (28%), constipation (25%), and pyrexia (21%).
+Eleven percent (11%) of patients experienced at least one episode of ≥Grade 4 toxicity, most commonly thrombocytopenia (4%) and neutropenia (2%).
 
 In the Phase 2 relapsed multiple myeloma clinical trials of bortezomib administered intravenously, local skin irritation was reported in 5% of patients, but extravasation of bortezomib was not associated with tissue damage.
 
@@ -204,16 +264,16 @@ In total, 2% of the patients died and the cause of death was considered by the i
 
 Most Commonly Reported Adverse Reactions in the Integrated Summary of Safety
 
-The most common adverse reactions are shown in Table 10.
-All adverse reactions occurring at ≥ 10% are included.
+The most common adverse reactions are shown in Table 13.
+All adverse reactions occurring at ≥10% are included.
 In the absence of a randomized comparator arm, it is often not possible to distinguish between adverse events that are drug-caused and those that reflect the patient's underlying disease.
 Please see the discussion of specific adverse reactions that follows.
 
-Table 10: Most Commonly Reported (≥ 10% Overall) Adverse Reactions in Integrated Analyses of Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma Studies Using the 1.3 mg/m2 Dose (N=1163)
+Table 13: Most Commonly Reported (≥ 10% Overall) Adverse Reactions in Integrated Analyses of Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma Studies Using the 1.3 mg/m2 Dose (N=1163)
 
-| Adverse Reactions | All | ≥ Grade 3 | All | ≥ Grade 3 | All | ≥ Grade 3 |
+| Adverse Reactions | All | ≥Grade 3 | All | ≥Grade 3 | All | ≥Grade 3 |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | All Patients (N = 1163) |  | Multiple Myeloma (N = 1008) |  | Mantle Cell Lymhoma (N = 155) |  |
+|  | All Patients (N=1163) |  | Multiple Myeloma (N=1008) |  | Mantle Cell Lymphoma (N=155) |  |
 | Nausea | 567 (49) | 36 (3) | 511 (51) | 32 (3) | 56 (36) | 4 (3) |
 | Diarrhea NOS | 530 (46) | 83 (7) | 470 (47) | 72 (7) | 60 (39) | 11 (7) |
 | Fatigue | 477 (41) | 86 (7) | 396 (39) | 71 (7) | 81 (52) | 15 (10) |
@@ -224,11 +284,11 @@ Table 10: Most Commonly Reported (≥ 10% Overall) Adverse Reactions in Integrat
 | Pyrexia | 249 (21) | 16 (1) | 233 (23) | 15 (1) | 16 (10) | 1 (<1) |
 | Anorexia | 227 (20) | 19 (2) | 205 (20) | 16 (2) | 22 (14) | 3 (2) |
 | Anemia NOS | 209 (18) | 65 (6) | 190 (19) | 63 (6) | 19 (12) | 2 (1) |
-| Headache NOS | 175 (15) | 8 (< 1) | 160 (16) | 8 (< 1) | 15 (10) | 0 |
+| Headache NOS | 175 (15) | 8 (<1) | 160 (16) | 8 (<1) | 15 (10) | 0 |
 | Neutropenia | 172 (15) | 121 (10) | 164 (16) | 117 (12) | 8 (5) | 4 (3) |
-| Rash NOS | 156 (13) | 8 (< 1) | 120 (12) | 4 (< 1) | 36 (23) | 4 (3) |
-| Paresthesia | 147 (13) | 9 (< 1) | 136 (13) | 8 (< 1) | 11 (7) | 1 (<1) |
-| Dizziness (excl vertigo) | 129 (11) | 13 (1) | 101 (10) | 9 (< 1) | 28 (18) | 4 (3) |
+| Rash NOS | 156 (13) | 8 (<1) | 120 (12) | 4 (<1) | 36 (23) | 4 (3) |
+| Paresthesia | 147 (13) | 9 (<1) | 136 (13) | 8 (<1) | 11 (7) | 1 (<1) |
+| Dizziness (excl vertigo) | 129 (11) | 13 (1) | 101 (10) | 9 (<1) | 28 (18) | 4 (3) |
 | Weakness | 124 (11) | 31 (3) | 106 (11) | 28 (3) | 18 (12) | 3 (2) |
 
 Description of Selected Adverse Reactions from the Integrated Phase 2 and Phase 3 Relapsed Multiple Myeloma and Phase 2 Relapsed Mantle Cell Lymphoma Studies
@@ -238,7 +298,7 @@ Gastrointestinal Toxicity
 A total of 75% of patients experienced at least one gastrointestinal disorder.
 The most common gastrointestinal disorders included nausea, diarrhea, constipation, vomiting, and appetite decreased.
 Other gastrointestinal disorders included dyspepsia and dysgeusia.
-Grade 3 adverse reactions occurred in 14% of patients; ≥ Grade 4 adverse reactions were ≤ 1%.
+Grade 3 adverse reactions occurred in 14% of patients; ≥Grade 4 adverse reactions were ≤1%.
 Gastrointestinal adverse reactions were considered serious in 7% of patients.
 Four percent (4%) of patients discontinued due to a gastrointestinal adverse reaction.
 Nausea was reported more often in patients with multiple myeloma (51%) compared to patients with mantle cell lymphoma (36%).
@@ -247,52 +307,52 @@ Thrombocytopenia
 
 Across the studies, bortezomib-associated thrombocytopenia was characterized by a decrease in platelet count during the dosing period (Days 1 to 11) and a return toward baseline during the ten day rest period during each treatment cycle.
 Overall, thrombocytopenia was reported in 32% of patients.
-Thrombocytopenia was Grade 3 in 22%, ≥ Grade 4 in 4%, and serious in 2% of patients, and the reaction resulted in bortezomib discontinuation in 2% of patients [see Warnings and Precautions (5.7)].
+Thrombocytopenia was Grade 3 in 22%, ≥Grade 4 in 4%, and serious in 2% of patients, and the reaction resulted in bortezomib discontinuation in 2% of patients [see Warnings and Precautions (5.7)].
 Thrombocytopenia was reported more often in patients with multiple myeloma (34%) compared to patients with mantle cell lymphoma (16%).
-The incidence of ≥ Grade 3 thrombocytopenia also was higher in patients with multiple myeloma (28%) compared to patients with mantle cell lymphoma (8%).
+The incidence of ≥Grade 3 thrombocytopenia also was higher in patients with multiple myeloma (28%) compared to patients with mantle cell lymphoma (8%).
 
 Peripheral Neuropathy
 
 Overall, peripheral neuropathies occurred in 38% of patients.
-Peripheral neuropathy was Grade 3 for 11% of patients and ≥ Grade 4 for < 1% of patients.
+Peripheral neuropathy was Grade 3 for 11% of patients and ≥Grade 4 for <1% of patients.
 Eight percent (8%) of patients discontinued bortezomib due to peripheral neuropathy.
 The incidence of peripheral neuropathy was higher among patients with mantle cell lymphoma (54%) compared to patients with multiple myeloma (36%).
 
-In the bortezomib vs dexamethasone Phase 3 relapsed multiple myeloma study, among the 62 bortezomib-treated patients who experienced ≥ Grade 2 peripheral neuropathy and had dose adjustments, 48% had improved or resolved with a median of 3.8 months from first onset.
+In the bortezomib vs dexamethasone Phase 3 relapsed multiple myeloma study, among the 62 bortezomib-treated patients who experienced ≥Grade 2 peripheral neuropathy and had dose adjustments, 48% had improved or resolved with a median of 3.8 months from first onset.
 
-In the Phase 2 relapsed multiple myeloma studies, among the 30 patients who experienced Grade 2 peripheral neuropathy resulting in discontinuation or who experienced ≥ Grade 3 peripheral neuropathy, 73% reported improvement or resolution with a median time of 47 days to improvement of one grade or more from the last dose of bortezomib.
+In the Phase 2 relapsed multiple myeloma studies, among the 30 patients who experienced Grade 2 peripheral neuropathy resulting in discontinuation or who experienced ≥Grade 3 peripheral neuropathy, 73% reported improvement or resolution with a median time of 47 days to improvement of one grade or more from the last dose of bortezomib.
 
 Hypotension
 
 The incidence of hypotension (postural, orthostatic and hypotension NOS) was 8% in patients treated with bortezomib.
-Hypotension was Grade 1 or 2 in the majority of patients and Grade 3 in 2% and ≥ Grade 4 in < 1%.
+Hypotension was Grade 1 or 2 in the majority of patients and Grade 3 in 2% and ≥Grade 4 in <1%.
 Two percent (2%) of patients had hypotension reported as a serious adverse reaction, and 1% discontinued due to hypotension.
 The incidence of hypotension was similar in patients with multiple myeloma (8%) and those with mantle cell lymphoma (9%).
-In addition, < 1% of patients experienced hypotension associated with a syncopal reaction.
+In addition, <1% of patients experienced hypotension associated with a syncopal reaction.
 
 Neutropenia
 
 Neutrophil counts decreased during the bortezomib dosing period (Days 1 to 11) and returned toward baseline during the ten day rest period during each treatment cycle.
-Overall, neutropenia occurred in 15% of patients and was Grade 3 in 8% of patients and ≥ Grade 4 in 2%.
-Neutropenia was reported as a serious adverse reaction in < 1% of patients and < 1% of patients discontinued due to neutropenia.
+Overall, neutropenia occurred in 15% of patients and was Grade 3 in 8% of patients and ≥Grade 4 in 2%.
+Neutropenia was reported as a serious adverse reaction in <1% of patients and <1% of patients discontinued due to neutropenia.
 The incidence of neutropenia was higher in patients with multiple myeloma (16%) compared to patients with mantle cell lymphoma (5%).
-The incidence of ≥ Grade 3 neutropenia also was higher in patients with multiple myeloma (12%) compared to patients with mantle cell lymphoma (3%).
+The incidence of ≥Grade 3 neutropenia also was higher in patients with multiple myeloma (12%) compared to patients with mantle cell lymphoma (3%).
 
 Asthenic Conditions (Fatigue, Malaise, Weakness, Asthenia)
 
 Asthenic conditions were reported in 54% of patients.
-Fatigue was reported as Grade 3 in 7% and ≥ Grade 4 in < 1% of patients.
-Asthenia was reported as Grade 3 in 2% and ≥ Grade 4 in < 1% of patients.
-Two percent (2%) of patients discontinued treatment due to fatigue and < 1% due to weakness and asthenia.
+Fatigue was reported as Grade 3 in 7% and ≥Grade 4 in <1% of patients.
+Asthenia was reported as Grade 3 in 2% and ≥Grade 4 in <1% of patients.
+Two percent (2%) of patients discontinued treatment due to fatigue and <1% due to weakness and asthenia.
 Asthenic conditions were reported in 53% of patients with multiple myeloma and 59% of patients with mantle cell lymphoma.
 
 Pyrexia
 
-Pyrexia (> 38°C) was reported as an adverse reaction for 21% of patients.
-The reaction was Grade 3 in 1% and ≥ Grade 4 in < 1%.
-Pyrexia was reported as a serious adverse reaction in 3% of patients and led to bortezomib discontinuation in < 1% of patients.
+Pyrexia (>38°C) was reported as an adverse reaction for 21% of patients.
+The reaction was Grade 3 in 1% and ≥Grade 4 in <1%.
+Pyrexia was reported as a serious adverse reaction in 3% of patients and led to bortezomib discontinuation in <1% of patients.
 The incidence of pyrexia was higher among patients with multiple myeloma (23%) compared to patients with mantle cell lymphoma (10%).
-The incidence of ≥ Grade 3 pyrexia was 1% in patients with multiple myeloma and < 1% in patients with mantle cell lymphoma.
+The incidence of ≥Grade 3 pyrexia was 1% in patients with multiple myeloma and <1% in patients with mantle cell lymphoma.
 
 Herpes Virus Infection
 
@@ -304,7 +364,7 @@ In the previously untreated multiple myeloma study, herpes zoster virus reactiva
 Retreatment in Relapsed Multiple Myeloma
 
 A single-arm trial was conducted in 130 patients with relapsed multiple myeloma to determine the efficacy and safety of retreatment with intravenous bortezomib.
-The safety profile of patients in this trial is consistent with the known safety profile of bortezomib-treated patients with relapsed multiple myeloma as demonstrated in Tables 8, 9, and 10; no cumulative toxicities were observed upon retreatment.
+The safety profile of patients in this trial is consistent with the known safety profile of bortezomib-treated patients with relapsed multiple myeloma as demonstrated in Tables 10, 11, and 13; no cumulative toxicities were observed upon retreatment.
 The most common adverse drug reaction was thrombocytopenia which occurred in 52% of the patients.
 The incidence of ≥Grade 3 thrombocytopenia was 24%.
 Peripheral neuropathy occurred in 28% of patients, with the incidence of ≥Grade 3 peripheral neuropathy reported at 6%.

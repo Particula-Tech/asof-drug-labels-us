@@ -14,4 +14,4 @@ Monitor patients for signs of bortezomib toxicity and consider a bortezomib dose
 
 ## 7.2 Drugs Without Clinically Significant Interactions with Bortezomib
 
-No clinically significant drug interactions have been observed when bortezomib was coadministered with dexamethasone, omeprazole, or melphalan in combination with prednisone [see Clinical Pharmacology (12.3)].
+No clinically significant drug interactions have been observed when Bortezomib for Injection was coadministered with dexamethasone, omeprazole, or melphalan in combination with prednisone [see Clinical Pharmacology (12.3)].

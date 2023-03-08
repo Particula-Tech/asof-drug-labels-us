@@ -70,7 +70,7 @@ Advise patients to check their blood sugar frequently if using an oral antidiabe
 
 Dermal
 
-Advise patients to contact their physicians if they experience rash, severe injection site reactions [see Dosage and Administration (2.7)], or skin pain.
+Advise patients to contact their physicians if they experience rash, severe injection site reactions [see Dosage and Administration (2.9)], or skin pain.
 Discuss with patients the option for antiviral prophylaxis for herpes virus infection [see Adverse Reactions (6.1)].
 
 Other

@@ -3,15 +3,15 @@
 ## 5.1 Peripheral Neuropathy
 
 Bortezomib treatment causes a peripheral neuropathy that is predominantly sensory; however, cases of severe sensory and motor peripheral neuropathy have been reported.
-Patients with pre-existing symptoms (numbness, pain or a burning feeling in the feet or hands) and/or signs of peripheral neuropathy may experience worsening peripheral neuropathy (including ≥ Grade 3) during treatment with Bortezomib for Injection.
+Patients with pre-existing symptoms (numbness, pain or a burning feeling in the feet or hands) and/or signs of peripheral neuropathy may experience worsening peripheral neuropathy (including ≥Grade 3) during treatment with Bortezomib for Injection.
 Patients should be monitored for symptoms of neuropathy, such as a burning sensation, hyperesthesia, hypoesthesia, paresthesia, discomfort, neuropathic pain or weakness.
-In the Phase 3 relapsed multiple myeloma trial comparing bortezomib subcutaneous vs intravenous, the incidence of Grade ≥ 2 peripheral neuropathy was 24% for subcutaneous and 39% for intravenous.
-Grade ≥ 3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 15% in the intravenous treatment group [see Adverse Reactions (6.1)].
+In the Phase 3 relapsed multiple myeloma trial comparing bortezomib subcutaneous vs intravenous, the incidence of Grade ≥2 peripheral neuropathy was 24% for subcutaneous and 39% for intravenous.
+Grade ≥3 peripheral neuropathy occurred in 6% of patients in the subcutaneous treatment group, compared with 15% in the intravenous treatment group [see Adverse Reactions (6.1)].
 Starting Bortezomib for Injection subcutaneously may be considered for patients with pre-existing or at high risk of peripheral neuropathy.
 
-Patients experiencing new or worsening peripheral neuropathy during Bortezomib for Injection therapy may require a decrease in the dose and/or a less dose-intense schedule [see Dosage and Administration (2.5)].
-In the bortezomib vs dexamethasone Phase 3 relapsed multiple myeloma study, improvement in or resolution of peripheral neuropathy was reported in 48% of patients with ≥ Grade 2 peripheral neuropathy following dose adjustment or interruption.
-Improvement in or resolution of peripheral neuropathy was reported in 73% of patients who discontinued due to Grade 2 neuropathy or who had ≥ Grade 3 peripheral neuropathy in the Phase 2 multiple myeloma studies.
+Patients experiencing new or worsening peripheral neuropathy during Bortezomib for Injection therapy may require a decrease in the dose and/or a less dose-intense schedule [see Dosage and Administration (2.7)].
+In the bortezomib vs dexamethasone Phase 3 relapsed multiple myeloma study, improvement in or resolution of peripheral neuropathy was reported in 48% of patients with ≥Grade 2 peripheral neuropathy following dose adjustment or interruption.
+Improvement in or resolution of peripheral neuropathy was reported in 73% of patients who discontinued due to Grade 2 neuropathy or who had ≥Grade 3 peripheral neuropathy in the Phase 2 multiple myeloma studies.
 The long-term outcome of peripheral neuropathy has not been studied in mantle cell lymphoma.
 
 ## 5.2 Hypotension
@@ -26,8 +26,8 @@ Management of orthostatic/postural hypotension may include adjustment of antihyp
 Acute development or exacerbation of congestive heart failure and new onset of decreased left ventricular ejection fraction have occurred during bortezomib therapy, including reports in patients with no risk factors for decreased left ventricular ejection fraction [see Adverse Reactions (6.1)].
 Patients with risk factors for, or existing heart disease should be frequently monitored.
 In the relapsed multiple myeloma study of bortezomib vs dexamethasone, the incidence of any treatment-related cardiac disorder was 8% and 5% in the bortezomib and dexamethasone groups, respectively.
-The incidence of adverse reactions suggestive of heart failure (acute pulmonary edema, pulmonary edema, cardiac failure, congestive cardiac failure, cardiogenic shock) was ≤ 1% for each individual reaction in the bortezomib group.
-In the dexamethasone group the incidence was ≤ 1% for cardiac failure and congestive cardiac failure; there were no reported reactions of acute pulmonary edema, pulmonary edema, or cardiogenic shock.
+The incidence of adverse reactions suggestive of heart failure (acute pulmonary edema, pulmonary edema, cardiac failure, congestive cardiac failure, cardiogenic shock) was ≤1% for each individual reaction in the bortezomib group.
+In the dexamethasone group the incidence was ≤1% for cardiac failure and congestive cardiac failure; there were no reported reactions of acute pulmonary edema, pulmonary edema, or cardiogenic shock.
 There have been isolated cases of QT-interval prolongation in clinical studies; causality has not been established.
 
 ## 5.4 Pulmonary Toxicity
@@ -43,7 +43,7 @@ In the event of new or worsening cardiopulmonary symptoms, consider interrupting
 
 ## 5.5 Posterior Reversible Encephalopathy Syndrome (PRES)
 
-Posterior Reversible Encephalopathy Syndrome (PRES; formerly termed Reversible Posterior Leukoencephalopathy Syndrome (RPLS)) has occurred in patients receiving bortezomib [see Adverse Reactions (6.2)].
+Posterior Reversible Encephalopathy Syndrome (PRES; formerly termed Reversible Posterior Leukoencephalopathy Syndrome (RPLS)) has occurred in patients receiving bortezomib.
 PRES is a rare, reversible, neurological disorder which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
 Brain imaging, preferably MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
 In patients developing PRES, discontinue Bortezomib for Injection.
@@ -63,21 +63,30 @@ The cyclical pattern of platelet and neutrophil decreases and recovery remain co
 
 Monitor complete blood counts (CBC) frequently during treatment with Bortezomib for Injection.
 Measure platelet counts prior to each dose of Bortezomib for Injection.
-Adjust dose/schedule for thrombocytopenia [see Dosage and Administration (2.4)].
+Adjust dose/schedule for thrombocytopenia [see Dosage and Administration (2.6)].
 Gastrointestinal and intracerebral hemorrhage has occurred during thrombocytopenia in association with bortezomib.
 Support with transfusions and supportive care, according to published guidelines.
 
 In the single agent, relapsed multiple myeloma study of bortezomib vs dexamethasone, the mean platelet count nadir measured was approximately 40% of baseline.
-The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 6.
-The incidence of bleeding (≥ Grade 3) was 2% on the bortezomib arm and was < 1% in the dexamethasone arm.
+The severity of thrombocytopenia related to pretreatment platelet count is shown in Table 8.
+The incidence of bleeding (≥Grade 3) was 2% on the bortezomib arm and was <1% in the dexamethasone arm.
 
-Table 6: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone
+Table 8: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone
 
 | Pretreatment Platelet CountA baseline platelet count of 50,000/µL was required for study eligibility | Number of Patients (N=331)Data were missing at baseline for one patient | Number (%) of Patients with Platelet Count <10,000/µL | Number (%) of Patients with Platelet Count 10,000 to 25,000/µL |
 | --- | --- | --- | --- |
 | ≥ 75,000/µL | 309 | 8 (3%) | 36 (12%) |
 | ≥ 50,000/µL to < 75,000/ µL | 14 | 2 (14%) | 11 (79%) |
 | ≥ 10,000/µL to < 50,000/ µL | 7 | 1 (14%) | 5 (71%) |
+
+In the combination study of bortezomib with rituximab, cyclophosphamide, doxorubicin and prednisone (VcR-CAP) in previously untreated mantle cell lymphoma patients, the incidence of thrombocytopenia (≥Grade 4) was 32% vs 1% for the rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) arm as shown in Table 12.
+The incidence of bleeding events (≥Grade 3) was 1.7% in the VcR-CAP arm (four patients) and was 1.2% in the R-CHOP arm (three patients).
+
+Platelet transfusions were given to 23% of the patients in the VcR-CAP arm and 3% of the patients in the R-CHOP arm.
+
+The incidence of neutropenia (≥Grade 4) was 70% in the VcR-CAP arm and was 52% in the R-CHOP arm.
+The incidence of febrile neutropenia (≥Grade 4) was 5% in the VcR-CAP arm and was 6% in the R-CHOP arm.
+Myeloid growth factor support was provided at a rate of 78% in the VcR-CAP arm and 61% in the R-CHOP arm.
 
 ## 5.8 Tumor Lysis Syndrome
 
