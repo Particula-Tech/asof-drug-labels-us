@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA206928"
+  ],
+  "inn": "glipizide",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-780-30",
+    "59651-781-01",
+    "59651-781-05",
+    "59651-781-30",
+    "59651-782-01",
+    "59651-782-05",
+    "59651-782-30",
+    "59651-782-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "glipizide",
+      "name": "Glipizide"
+    }
+  ],
+  "setid": "84794a52-b717-488c-8533-6425c83d405f",
+  "source": "dailymed"
+}
