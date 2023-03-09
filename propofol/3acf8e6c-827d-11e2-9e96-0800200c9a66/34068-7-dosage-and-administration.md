@@ -266,7 +266,7 @@ Dosages of propofol injectable emulsion should be reduced in patients who have r
 The propofol injectable emulsion dosage requirement may also be reduced by adequate management of pain with analgesic agents.
 As with other sedative medications, there is interpatient variability in dosage requirements, and these requirements may change with time [see Dosage and Administration (2.6)].
 
-Evaluation of level of sedation and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of propofol required for sedation [see Clinical Studies (14.4)].
+Evaluation of level of sedation and assessment of CNS function should be carried out daily throughout maintenance to determine the minimum dose of propofol injectable emulsion required for sedation [see Clinical Studies (14.4)].
 Bolus administration of 10 mg or 20 mg should only be used to rapidly increase depth of sedation in patients where hypotension is not likely to occur.
 Patients with compromised myocardial function, intravascular volume depletion, or abnormally low vascular tone (e.g., sepsis) may be more susceptible to hypotension [see Warnings and Precautions (5.4)].
 
