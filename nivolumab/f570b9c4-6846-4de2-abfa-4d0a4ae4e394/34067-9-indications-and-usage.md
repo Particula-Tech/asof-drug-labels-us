@@ -2,11 +2,11 @@
 
 ## 1.1 Unresectable or Metastatic Melanoma
 
-OPDIVO, as a single agent or in combination with ipilimumab, is indicated for the treatment of adult patients with unresectable or metastatic melanoma.
+OPDIVO, as a single agent or in combination with ipilimumab, is indicated for the treatment of adult and pediatric patients 12 years and older with unresectable or metastatic melanoma.
 
 ## 1.2 Adjuvant Treatment of Melanoma
 
-OPDIVO is indicated for the adjuvant treatment of adult patients with melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection.
+OPDIVO is indicated for the adjuvant treatment of adult and pediatric patients 12 years and older with melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection.
 
 ## 1.3 Neoadjuvant Treatment of Resectable Non-Small Cell Lung Cancer
 

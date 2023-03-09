@@ -40,14 +40,17 @@ Verify the pregnancy status of females of reproductive potential prior to initia
 ### Contraception
 
 OPDIVO can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment with OPDIVO and for at least 5 months following the last dose.
+Advise females of reproductive potential to use effective contraception during treatment with OPDIVO and for 5 months following the last dose.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of OPDIVO as a single agent and in combination with ipilimumab have been established in pediatric patients age 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (mCRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
-Use of OPDIVO for this indication is supported by evidence from adequate and well-controlled studies of OPDIVO in adults with MSI-H or dMMR mCRC with additional population pharmacokinetic data demonstrating that age and body weight had no clinically meaningful effect on the steady-state exposure of nivolumab, that drug exposure is generally similar between adults and pediatric patients age 12 years and older for monoclonal antibodies, and that the course of MSI-H or dMMR mCRC is sufficiently similar in adults and pediatric patients to allow extrapolation of data in adults to pediatric patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.10)].
+The safety and effectiveness of OPDIVO have been established in pediatric patients aged 12 years and older for the following indications: as a single agent and in combination with ipilimumab for the treatment of unresectable or metastic melanoma, as a single agent for the adjuvant treatment of melanoma with lymph node involvement or metastatic disease in patients who have undergone complete resection and, as a single agent or in combination with ipilimumab for the treatment of MSI-H or dMMR mCRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
+Use of OPDIVO for these indications is supported by evidence from adequate and well-controlled studies in adults with melanoma or MSI-H or dMMR mCRC and additional pharmacokinetic data in pediatric patients.
+Nivolumab exposure in pediatric patients 12 years and older is comparable to that of adults and the courses of melanoma and MSI-H or dMMR mCRC are similar in pediatric patients aged 12 years and older to that of adults to allow extrapolation of safety and efficacy [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.10)].
 
-The safety and effectiveness of OPDIVO have not been established (1) in pediatric patients <12 years old with MSI-H or dMMR mCRC or (2) in pediatric patients less than 18 years old for the other approved indications [see Indications and Usage (1)].
+The safety and effectiveness of OPDIVO have not been established for pediatric patients younger than 12 years old with melanoma or MSI-H or dMMR mCRC.
+
+The safety and effectiveness of OPDIVO have not been established in pediatric patients with non-small cell lung cancer, malignant pleural mesothelioma, advanced renal cell carcinoma, classical Hodgkin lymphoma, squamous cell carcinoma of the head and neck, urothelial carcinoma, hepatocellular carcinoma, esophageal cancer, gastric cancer, gastroesophageal cancer and esophageal adenocarcinoma.
 
 ## 8.5 Geriatric Use
 

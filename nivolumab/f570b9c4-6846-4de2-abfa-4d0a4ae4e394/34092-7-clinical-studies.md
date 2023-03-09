@@ -142,17 +142,17 @@ Efficacy results are shown in Table 49 and Figure 4.
 
 Table 49: Efficacy Results - CHECKMATE-238
 
-| Recurrence-free Survival |  |  |  |
-| --- | --- | --- | --- |
-|  | OPDIVO N=453 |  | Ipilimumab 10 mg/kg N=453 |
-| Number of events, n (%) | 154 (34%) |  | 206 (45%) |
-| Median (months) (95% CI) | NRa |  | NRa (16.56, NRa) |
-| Hazard ratiob (95% CI) p-valuec,d | 0.65 (0.53, 0.80) p<0.0001 |  |  |
-| Overall Survival |  |  |  |
-| Number of events, n (%)e | 100 (22%) | 111 (25%) |  |
-| Median (months) (95% CI) | NRa | NRa |  |
-| Hazard ratiob (95% CI) p-value | 0.87 (0.67, 1.14) 0.3148 |  |  |
-| a Not reached. b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d p-value is compared with 0.0244 of the allocated alpha for this analysis. e At the time of the final OS analysis, fewer overall survival events were observed than originally anticipated (approximately 302). |  |  |  |
+| Recurrence-free Survival |  |  |
+| --- | --- | --- |
+|  | OPDIVO N=453 | Ipilimumab 10 mg/kg N=453 |
+| Number of events, n (%) | 154 (34%) | 206 (45%) |
+| Median (months) (95% CI) | NRa | NRa (16.56, NRa) |
+| Hazard ratiob (95% CI) p-valuec,d | 0.65 (0.53, 0.80) p<0.0001 |  |
+| Overall Survival |  |  |
+| Number of events, n (%)e | 100 (22%) | 111 (25%) |
+| Median (months) (95% CI) | NRa | NRa |
+| Hazard ratiob (95% CI) p-value | 0.87 (0.67, 1.14) 0.3148 |  |
+| a Not reached. b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d p-value is compared with 0.0244 of the allocated alpha for this analysis. e At the time of the final OS analysis, fewer overall survival events were observed than originally anticipated (approximately 302). |  |  |
 
 Figure 4: Recurrence-free Survival -CHECKMATE-238
 
@@ -544,28 +544,28 @@ Efficacy results are shown in Table 57 and Figures 14 and 15.
 
 Table 57: Efficacy Results - CHECKMATE-9ER
 
-|  | OPDIVO and Cabozantinib (n=323) | Sunitinib (n=328) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Progression-free Survival |  |  |  |  |  |
-| Disease progression or death (%) | 144 (45) | 191 (58) |  |  |  |
-| Median PFS (months)a (95% CI) | 16.6 (12.5, 24.9) | 8.3 (7.0, 9.7) |  |  |  |
-| Hazard ratio (95% CI)b | 0.51 (0.41, 0.64) |  |  |  |  |
-| p-valuec,d | <0.0001 |  |  |  |  |
-| Overall Survival |  |  |  |  |  |
-| Deaths (%) | 67 (21) | 99 (30) |  |  |  |
-| Median OS (months)a (95% CI) | NRe | NR (22.6, NRe) |  |  |  |
-| Hazard ratio (98.89% CI)b | 0.60 (0.40, 0.89) |  |  |  |  |
-| p-valuec,d,f | 0.0010 |  |  |  |  |
-| Updated Overall Survival |  |  |  |  |  |
-| Deaths (%) | 121 (37) | 150 (46) |  |  |  |
-| Median OS (months)a (95% CI) | 37.7 (35.5, NR) | 34.3 (29.0, NR) |  |  |  |
-| Hazard ratio (95% CI)b | 0.70 (0.55, 0.90) |  |  |  |  |
-| Confirmed Objective Response Rate (95% CI)g | 55.7% (50.1, 61.2) | 27.1% (22.4, 32.3) |  |  |  |
-| p-valueh | <0.0001 |  |  |  |  |
-| Complete Response | 26 (8%) | 15 (4.6%) |  |  |  |
-| Partial Response | 154 (48%) | 74 (23%) |  |  |  |
-| Median duration of response in months (95% CI)a | 20.2 (17.3, NRe) | 11.5 (8.3, 18.4) |  |  |  |
-| a Based on Kaplan-Meier estimates. b Stratified Cox proportional hazards model. c Based on stratified log-rank test d 2-sided p-values from stratified log-rank test. e Not Reached f p-value is compared with the allocated alpha of 0.0111 for this interim analysis g CI based on the Clopper-Pearson method. h 2-sided p-value from Cochran-Mantel-Haenszel test. |  |  |  |  |  |
+|  | OPDIVO and Cabozantinib (n=323) | Sunitinib (n=328) |
+| --- | --- | --- |
+| Progression-free Survival |  |  |
+| Disease progression or death (%) | 144 (45) | 191 (58) |
+| Median PFS (months)a (95% CI) | 16.6 (12.5, 24.9) | 8.3 (7.0, 9.7) |
+| Hazard ratio (95% CI)b | 0.51 (0.41, 0.64) |  |
+| p-valuec,d | <0.0001 |  |
+| Overall Survival |  |  |
+| Deaths (%) | 67 (21) | 99 (30) |
+| Median OS (months)a (95% CI) | NRe | NR (22.6, NRe) |
+| Hazard ratio (98.89% CI)b | 0.60 (0.40, 0.89) |  |
+| p-valuec,d,f | 0.0010 |  |
+| Updated Overall Survival |  |  |
+| Deaths (%) | 121 (37) | 150 (46) |
+| Median OS (months)a (95% CI) | 37.7 (35.5, NR) | 34.3 (29.0, NR) |
+| Hazard ratio (95% CI)b | 0.70 (0.55, 0.90) |  |
+| Confirmed Objective Response Rate (95% CI)g | 55.7% (50.1, 61.2) | 27.1% (22.4, 32.3) |
+| p-valueh | <0.0001 |  |
+| Complete Response | 26 (8%) | 15 (4.6%) |
+| Partial Response | 154 (48%) | 74 (23%) |
+| Median duration of response in months (95% CI)a | 20.2 (17.3, NRe) | 11.5 (8.3, 18.4) |
+| a Based on Kaplan-Meier estimates. b Stratified Cox proportional hazards model. c Based on stratified log-rank test d 2-sided p-values from stratified log-rank test. e Not Reached f p-value is compared with the allocated alpha of 0.0111 for this interim analysis g CI based on the Clopper-Pearson method. h 2-sided p-value from Cochran-Mantel-Haenszel test. |  |  |
 
 Figure 14: Progression-free Survival - CHECKMATE-9ER
 
@@ -596,17 +596,17 @@ Efficacy results are shown in Table 58 and Figure 16.
 
 Table 58: Efficacy Results - CHECKMATE-025
 
-|  | OPDIVO (n=410) | Everolimus (n=411) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Overall Survival |  |  |  |  |  |  |  |  |
-| Deaths (%) | 183 (45) | 215 (52) |  |  |  |  |  |  |
-| Median survival (months) (95% CI) | 25.0 (21.7, NRa) | 19.6 (17.6, 23.1) |  |  |  |  |  |  |
-| Hazard ratio (95% CI)b | 0.73 (0.60, 0.89) |  |  |  |  |  |  |  |
-| p-valuec,d | 0.0018 |  |  |  |  |  |  |  |
-| Confirmed Overall Response Rate (95% CI) | 21.5% (17.6, 25.8) | 3.9% (2.2, 6.2) |  |  |  |  |  |  |
-| Median duration of response (months) (95% CI) | 23.0 (12.0, NRa) | 13.7 (8.3, 21.9) |  |  |  |  |  |  |
-| Median time to onset of confirmed response (months) (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |  |  |  |  |  |  |
-| a Not Reached b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d p-value is compared with.0148 of the allocated alpha for this interim analysis. |  |  |  |  |  |  |  |  |
+|  | OPDIVO (n=410) | Everolimus (n=411) |
+| --- | --- | --- |
+| Overall Survival |  |  |
+| Deaths (%) | 183 (45) | 215 (52) |
+| Median survival (months) (95% CI) | 25.0 (21.7, NRa) | 19.6 (17.6, 23.1) |
+| Hazard ratio (95% CI)b | 0.73 (0.60, 0.89) |  |
+| p-valuec,d | 0.0018 |  |
+| Confirmed Overall Response Rate (95% CI) | 21.5% (17.6, 25.8) | 3.9% (2.2, 6.2) |
+| Median duration of response (months) (95% CI) | 23.0 (12.0, NRa) | 13.7 (8.3, 21.9) |
+| Median time to onset of confirmed response (months) (min, max) | 3.0 (1.4, 13.0) | 3.7 (1.5, 11.2) |
+| a Not Reached b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d p-value is compared with.0148 of the allocated alpha for this interim analysis. |  |  |
 
 Figure 16: Overall Survival - CHECKMATE-025
 
@@ -655,14 +655,14 @@ Efficacy results are shown in Table 60.
 
 Table 60: Efficacy in cHL after Autologous HSCT
 
-|  | CHECKMATE-205 and CHECKMATE-039 (n=258) |  |  |
-| --- | --- | --- | --- |
-| Overall Response Rate, n (%) (95% CI) | 179 (69%)(63, 75) |  |  |
-| Complete remission rate (95% CI) | 37 (14%)(10, 19) |  |  |
-| Partial remission rate (95% CI) | 142 (55%)(49, 61) |  |  |
-| Duration of Response (months) Mediana, b (95% CI) Range | NRc(12.0, NRc)0+, 23.1+ |  |  |
-| Time to Response (months) Median Range | 2.00.7, 11.1 |  |  |
-| a Kaplan-Meier estimate. Among responders, the median follow-up for DOR, measured from the date of first response, was 6.7 months. b The estimated median duration of PR was 13.1 months (95% CI, 9.5, NE). The median duration of CR was not reached. c Not Reached |  |  |  |
+|  | CHECKMATE-205 and CHECKMATE-039 (n=258) |
+| --- | --- |
+| Overall Response Rate, n (%) (95% CI) | 179 (69%)(63, 75) |
+| Complete remission rate (95% CI) | 37 (14%)(10, 19) |
+| Partial remission rate (95% CI) | 142 (55%)(49, 61) |
+| Duration of Response (months) Mediana, b (95% CI) Range | NRc(12.0, NRc)0+, 23.1+ |
+| Time to Response (months) Median Range | 2.00.7, 11.1 |
+| a Kaplan-Meier estimate. Among responders, the median follow-up for DOR, measured from the date of first response, was 6.7 months. b The estimated median duration of PR was 13.1 months (95% CI, 9.5, NE). The median duration of CR was not reached. c Not Reached |  |
 
 ## 14.8 Recurrent or Metastatic Squamous Cell Carcinoma of the Head and Neck
 

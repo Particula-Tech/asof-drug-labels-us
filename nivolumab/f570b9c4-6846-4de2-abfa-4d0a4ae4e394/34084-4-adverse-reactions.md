@@ -67,15 +67,15 @@ Skin and Subcutaneous Tissue Disorders: exfoliative dermatitis, erythema multifo
 
 Table 6: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Chemotherapy Arm (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-037
 
-| Laboratory Abnormality | OPDIVO |  | Chemotherapy |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Increased AST | 28 | 2.4 | 12 | 1.0 |  |  |  |  |  |
-| Hyponatremia | 25 | 5 | 18 | 1.1 |  |  |  |  |  |
-| Increased alkaline phosphatase | 22 | 2.4 | 13 | 1.1 |  |  |  |  |  |
-| Increased ALT | 16 | 1.6 | 5 | 0 |  |  |  |  |  |
-| Hyperkalemia | 15 | 2.0 | 6 | 0 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 252 to 256 patients) and chemotherapy group (range: 94 to 96 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO |  | Chemotherapy |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Increased AST | 28 | 2.4 | 12 | 1.0 |
+| Hyponatremia | 25 | 5 | 18 | 1.1 |
+| Increased alkaline phosphatase | 22 | 2.4 | 13 | 1.1 |
+| Increased ALT | 16 | 1.6 | 5 | 0 |
+| Hyperkalemia | 15 | 2.0 | 6 | 0 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 252 to 256 patients) and chemotherapy group (range: 94 to 96 patients). |  |  |  |  |
 
 Previously Untreated Metastatic Melanoma
 
@@ -101,22 +101,22 @@ Tables 7 and 8 summarize selected adverse reactions and laboratory abnormalities
 
 Table 7: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-066
 
-| Adverse Reaction | OPDIVO (n=206) |  | Dacarbazine (n=205) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |
-| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 49 | 1.9 | 39 | 3.4 |  |  |  |  |  |  |  |  |  |  |
-| Edemaa | 12 | 1.5 | 4.9 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal and Connective Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal painb | 32 | 2.9 | 25 | 2.4 |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rashc | 28 | 1.5 | 12 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Pruritus | 23 | 0.5 | 12 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Vitiligo | 11 | 0 | 0.5 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Erythema | 10 | 0 | 2.9 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Infections |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Upper respiratory tract infectiond | 17 | 0 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Toxicity was graded per NCI CTCAE v4. a Includes periorbital edema, face edema, generalized edema, gravitational edema, localized edema, peripheral edema, pulmonary edema, and lymphedema. b Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, pain in jaw, and spinal pain. c Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, dermatitis, allergic dermatitis, exfoliative dermatitis, acneiform dermatitis, drug eruption, and skin reaction. d Includes rhinitis, viral rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | OPDIVO (n=206) |  | Dacarbazine (n=205) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| General |  |  |  |  |
+| Fatigue | 49 | 1.9 | 39 | 3.4 |
+| Edemaa | 12 | 1.5 | 4.9 | 0 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal painb | 32 | 2.9 | 25 | 2.4 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Rashc | 28 | 1.5 | 12 | 0 |
+| Pruritus | 23 | 0.5 | 12 | 0 |
+| Vitiligo | 11 | 0 | 0.5 | 0 |
+| Erythema | 10 | 0 | 2.9 | 0 |
+| Infections |  |  |  |  |
+| Upper respiratory tract infectiond | 17 | 0 | 6 | 0 |
+| Toxicity was graded per NCI CTCAE v4. a Includes periorbital edema, face edema, generalized edema, gravitational edema, localized edema, peripheral edema, pulmonary edema, and lymphedema. b Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, pain in jaw, and spinal pain. c Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, dermatitis, allergic dermatitis, exfoliative dermatitis, acneiform dermatitis, drug eruption, and skin reaction. d Includes rhinitis, viral rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
 
 Clinically important adverse reactions in <10% of patients who received OPDIVO were:
 
@@ -124,14 +124,14 @@ Nervous System Disorders: peripheral neuropathy
 
 Table 8: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than in the Dacarbazine Arm (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-066
 
-| Laboratory Abnormality | OPDIVO |  | Dacarbazine |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 25 | 3.0 | 19 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 24 | 3.6 | 19 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 21 | 2.6 | 14 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased bilirubin | 13 | 3.1 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 194 to 197 patients) and dacarbazine group (range: 186 to 193 patients). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO |  | Dacarbazine |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Increased ALT | 25 | 3.0 | 19 | 0.5 |
+| Increased AST | 24 | 3.6 | 19 | 0.5 |
+| Increased alkaline phosphatase | 21 | 2.6 | 14 | 1.6 |
+| Increased bilirubin | 13 | 3.1 | 6 | 0 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 194 to 197 patients) and dacarbazine group (range: 186 to 193 patients). |  |  |  |  |
 
 CHECKMATE-067
 
@@ -162,37 +162,37 @@ Tables 9 and 10 summarize the incidence of adverse reactions and laboratory abno
 
 Table 9: Adverse Reactions Occurring in ≥10% of Patients on the OPDIVO and Ipilimumab Arm or the OPDIVO Arm and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-067
 
-| Adverse Reaction | OPDIVO and Ipilimumab (n=313) |  | OPDIVO (n=313) |  | Ipilimumab (n=311) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatiguea | 62 | 7 | 59 | 1.6 | 51 | 4.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pyrexia | 40 | 1.6 | 16 | 0 | 18 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 54 | 11 | 36 | 5 | 47 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 44 | 3.8 | 30 | 0.6 | 31 | 1.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 31 | 3.8 | 20 | 1.0 | 17 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rashb | 53 | 6 | 40 | 1.9 | 42 | 3.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vitiligo | 9 | 0 | 10 | 0.3 | 5 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal and Connective Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal painc | 32 | 2.6 | 42 | 3.8 | 36 | 1.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Arthralgia | 21 | 0.3 | 21 | 1.0 | 16 | 0.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and Nutrition |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased appetite | 29 | 1.9 | 22 | 0 | 24 | 1.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Respiratory, Thoracic and Mediastinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cough/productive cough | 27 | 0.3 | 28 | 0.6 | 22 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspnea/exertional dyspnea | 24 | 2.9 | 18 | 1.3 | 17 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Infections |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Upper respiratory tract infectiond | 23 | 0 | 22 | 0.3 | 17 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Endocrine |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypothyroidism | 19 | 0.6 | 11 | 0 | 5 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperthyroidism | 11 | 1.3 | 6 | 0 | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Investigations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased weight | 12 | 0 | 7 | 0 | 7 | 0.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vascular |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypertensione | 7 | 2.2 | 11 | 5 | 9 | 2.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Toxicity was graded per NCI CTCAE v4. a Includes asthenia and fatigue. b Includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash, papulosquamous rash, and pruritic rash. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain. d Includes upper respiratory tract infection, nasopharyngitis, pharyngitis, and rhinitis. e Includes hypertension and blood pressure increased. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | OPDIVO and Ipilimumab (n=313) |  | OPDIVO (n=313) |  | Ipilimumab (n=311) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| General |  |  |  |  |  |  |
+| Fatiguea | 62 | 7 | 59 | 1.6 | 51 | 4.2 |
+| Pyrexia | 40 | 1.6 | 16 | 0 | 18 | 0.6 |
+| Gastrointestinal |  |  |  |  |  |  |
+| Diarrhea | 54 | 11 | 36 | 5 | 47 | 7 |
+| Nausea | 44 | 3.8 | 30 | 0.6 | 31 | 1.9 |
+| Vomiting | 31 | 3.8 | 20 | 1.0 | 17 | 1.6 |
+| Skin and Subcutaneous Tissue |  |  |  |  |  |  |
+| Rashb | 53 | 6 | 40 | 1.9 | 42 | 3.5 |
+| Vitiligo | 9 | 0 | 10 | 0.3 | 5 | 0 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |  |  |
+| Musculoskeletal painc | 32 | 2.6 | 42 | 3.8 | 36 | 1.9 |
+| Arthralgia | 21 | 0.3 | 21 | 1.0 | 16 | 0.3 |
+| Metabolism and Nutrition |  |  |  |  |  |  |
+| Decreased appetite | 29 | 1.9 | 22 | 0 | 24 | 1.3 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |  |  |
+| Cough/productive cough | 27 | 0.3 | 28 | 0.6 | 22 | 0 |
+| Dyspnea/exertional dyspnea | 24 | 2.9 | 18 | 1.3 | 17 | 0.6 |
+| Infections |  |  |  |  |  |  |
+| Upper respiratory tract infectiond | 23 | 0 | 22 | 0.3 | 17 | 0 |
+| Endocrine |  |  |  |  |  |  |
+| Hypothyroidism | 19 | 0.6 | 11 | 0 | 5 | 0 |
+| Hyperthyroidism | 11 | 1.3 | 6 | 0 | 1 | 0 |
+| Investigations |  |  |  |  |  |  |
+| Decreased weight | 12 | 0 | 7 | 0 | 7 | 0.3 |
+| Vascular |  |  |  |  |  |  |
+| Hypertensione | 7 | 2.2 | 11 | 5 | 9 | 2.3 |
+| Toxicity was graded per NCI CTCAE v4. a Includes asthenia and fatigue. b Includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash, papulosquamous rash, and pruritic rash. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain. d Includes upper respiratory tract infection, nasopharyngitis, pharyngitis, and rhinitis. e Includes hypertension and blood pressure increased. |  |  |  |  |  |  |
 
 Clinically important adverse reactions in <10% of patients who received OPDIVO with ipilimumab or OPDIVO as a single agent were:
 
@@ -206,23 +206,23 @@ Nervous System Disorders: neuritis, peroneal nerve palsy
 
 Table 10: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥20% of Patients Treated with OPDIVO with Ipilimumab or Single-Agent OPDIVO and at a Higher Incidence than in the Ipilimumab Arm (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-067
 
-| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | OPDIVO and Ipilimumab |  | OPDIVO |  | Ipilimumab |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 55 | 16 | 25 | 3.0 | 29 | 2.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperglycemia | 53 | 5.3 | 46 | 7 | 26 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 52 | 13 | 29 | 3.7 | 29 | 1.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 45 | 10 | 22 | 3.3 | 26 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased lipase | 43 | 22 | 32 | 12 | 24 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 41 | 6 | 27 | 2.0 | 23 | 2.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypocalcemia | 31 | 1.1 | 15 | 0.7 | 20 | 0.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased amylase | 27 | 10 | 19 | 2.7 | 15 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased creatinine | 26 | 2.7 | 19 | 0.7 | 17 | 1.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 52 | 2.7 | 41 | 2.6 | 41 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 39 | 5 | 41 | 4.9 | 29 | 4.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab (range: 75 to 297); OPDIVO (range: 81 to 306); ipilimumab (range: 61 to 301). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Laboratory Abnormality | OPDIVO and Ipilimumab |  | OPDIVO |  | Ipilimumab |  |
+| Chemistry |  |  |  |  |  |  |
+| Increased ALT | 55 | 16 | 25 | 3.0 | 29 | 2.7 |
+| Hyperglycemia | 53 | 5.3 | 46 | 7 | 26 | 0 |
+| Increased AST | 52 | 13 | 29 | 3.7 | 29 | 1.7 |
+| Hyponatremia | 45 | 10 | 22 | 3.3 | 26 | 7 |
+| Increased lipase | 43 | 22 | 32 | 12 | 24 | 7 |
+| Increased alkaline phosphatase | 41 | 6 | 27 | 2.0 | 23 | 2.0 |
+| Hypocalcemia | 31 | 1.1 | 15 | 0.7 | 20 | 0.7 |
+| Increased amylase | 27 | 10 | 19 | 2.7 | 15 | 1.6 |
+| Increased creatinine | 26 | 2.7 | 19 | 0.7 | 17 | 1.3 |
+| Hematology |  |  |  |  |  |  |
+| Anemia | 52 | 2.7 | 41 | 2.6 | 41 | 6 |
+| Lymphopenia | 39 | 5 | 41 | 4.9 | 29 | 4.0 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab (range: 75 to 297); OPDIVO (range: 81 to 306); ipilimumab (range: 61 to 301). |  |  |  |  |  |  |
 
 #### Adjuvant Treatment of Melanoma
 
@@ -273,24 +273,24 @@ Table 11: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients - CHE
 
 Table 12: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of OPDIVO-Treated Patients - CHECKMATE-238
 
-| Laboratory Abnormality | OPDIVO |  | Ipilimumab 10 mg/kg |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 27 | 0.4 | 12 | 0.9 |  |  |  |  |  |
-| Anemia | 26 | 0 | 34 | 0.5 |  |  |  |  |  |
-| Leukopenia | 14 | 0 | 2.7 | 0.2 |  |  |  |  |  |
-| Neutropenia | 13 | 0 | 6 | 0.5 |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased Lipase | 25 | 7 | 23 | 9 |  |  |  |  |  |
-| Increased ALT | 25 | 1.8 | 40 | 12 |  |  |  |  |  |
-| Increased AST | 24 | 1.3 | 33 | 9 |  |  |  |  |  |
-| Increased Amylase | 17 | 3.3 | 13 | 3.1 |  |  |  |  |  |
-| Hyponatremia | 16 | 1.1 | 22 | 3.2 |  |  |  |  |  |
-| Hyperkalemia | 12 | 0.2 | 9 | 0.5 |  |  |  |  |  |
-| Increased Creatinine | 12 | 0 | 13 | 0 |  |  |  |  |  |
-| Hypocalcemia | 10 | 0.7 | 16 | 0.5 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 400 to 447 patients) and ipilimumab 10 mg/kg group (range: 392 to 443 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO |  | Ipilimumab 10 mg/kg |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Hematology |  |  |  |  |
+| Lymphopenia | 27 | 0.4 | 12 | 0.9 |
+| Anemia | 26 | 0 | 34 | 0.5 |
+| Leukopenia | 14 | 0 | 2.7 | 0.2 |
+| Neutropenia | 13 | 0 | 6 | 0.5 |
+| Chemistry |  |  |  |  |
+| Increased Lipase | 25 | 7 | 23 | 9 |
+| Increased ALT | 25 | 1.8 | 40 | 12 |
+| Increased AST | 24 | 1.3 | 33 | 9 |
+| Increased Amylase | 17 | 3.3 | 13 | 3.1 |
+| Hyponatremia | 16 | 1.1 | 22 | 3.2 |
+| Hyperkalemia | 12 | 0.2 | 9 | 0.5 |
+| Increased Creatinine | 12 | 0 | 13 | 0 |
+| Hypocalcemia | 10 | 0.7 | 16 | 0.5 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 400 to 447 patients) and ipilimumab 10 mg/kg group (range: 392 to 443 patients). |  |  |  |  |
 
 ### Neoadjuvant Treatment of Resectable (Tumors ≥4 cm or Node Positive) Non-Small Cell Lung Cancer
 
@@ -334,22 +334,22 @@ Table 13: Adverse Reactions in >10% of Patients with Early-Stage NSCLC Receiving
 
 Table 14: Select Laboratory Values Worsening from Baselinea Occurring in >20% of Patients with Early-Stage NSCLC Receiving Neoadjuvant OPDIVO and Platinum-Doublet Chemotherapy in CHECKMATE-816
 
-| Laboratory Abnormality | OPDIVO and Platinum-Doublet Chemotherapya |  | Platinum-Doublet Chemotherapya |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades(%) | Grades 3 or 4 (%) | All Grades(%) | Grades 3 or 4 (%) |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Anemia | 63 | 3.5 | 70 | 6 |  |  |  |  |  |
-| Neutropenia | 58 | 22 | 58 | 27 |  |  |  |  |  |
-| Leukopenia | 53 | 5 | 51 | 11 |  |  |  |  |  |
-| Lymphopenia | 38 | 4.7 | 31 | 1.8 |  |  |  |  |  |
-| Thrombocytopenia | 24 | 2.9 | 22 | 3.0 |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Hyperglycemia | 37 | 6 | 35 | 2.9 |  |  |  |  |  |
-| Hypomagnesemia | 25 | 1.2 | 29 | 1.2 |  |  |  |  |  |
-| Hyponatremia | 25 | 2.4 | 28 | 1.8 |  |  |  |  |  |
-| Increased amylase | 23 | 3.6 | 13 | 1.8 |  |  |  |  |  |
-| Increased ALT | 23 | 0 | 20 | 1.2 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and platinum-doublet chemotherapy group (range: 73 to 171 patients) and platinum-doublet chemotherapy group (range: 68 to 171 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO and Platinum-Doublet Chemotherapya |  | Platinum-Doublet Chemotherapya |  |
+| --- | --- | --- | --- | --- |
+| All Grades(%) | Grades 3 or 4 (%) | All Grades(%) | Grades 3 or 4 (%) |  |
+| Hematology |  |  |  |  |
+| Anemia | 63 | 3.5 | 70 | 6 |
+| Neutropenia | 58 | 22 | 58 | 27 |
+| Leukopenia | 53 | 5 | 51 | 11 |
+| Lymphopenia | 38 | 4.7 | 31 | 1.8 |
+| Thrombocytopenia | 24 | 2.9 | 22 | 3.0 |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 37 | 6 | 35 | 2.9 |
+| Hypomagnesemia | 25 | 1.2 | 29 | 1.2 |
+| Hyponatremia | 25 | 2.4 | 28 | 1.8 |
+| Increased amylase | 23 | 3.6 | 13 | 1.8 |
+| Increased ALT | 23 | 0 | 20 | 1.2 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and platinum-doublet chemotherapy group (range: 73 to 171 patients) and platinum-doublet chemotherapy group (range: 68 to 171 patients). |  |  |  |  |
 
 ### Metastatic Non-Small Cell Lung Cancer
 
@@ -426,23 +426,23 @@ Cardiac: atrial fibrillation, myocarditis
 
 Table 16: Laboratory Values Worsening from Baselinea Occurring in ≥20% of Patients on OPDIVO and Ipilimumab - CHECKMATE-227
 
-| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Platinum-Doublet Chemotherapy |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Anemia | 46 | 3.6 | 78 | 14 |  |  |  |  |  |
-| Lymphopenia | 46 | 5 | 60 | 15 |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 41 | 12 | 26 | 4.9 |  |  |  |  |  |
-| Increased AST | 39 | 5 | 26 | 0.4 |  |  |  |  |  |
-| Increased ALT | 36 | 7 | 27 | 0.7 |  |  |  |  |  |
-| Increased lipase | 35 | 14 | 14 | 3.4 |  |  |  |  |  |
-| Increased alkaline phosphatase | 34 | 3.8 | 20 | 0.2 |  |  |  |  |  |
-| Increased amylase | 28 | 9 | 18 | 1.9 |  |  |  |  |  |
-| Hypocalcemia | 28 | 1.7 | 17 | 1.3 |  |  |  |  |  |
-| Hyperkalemia | 27 | 3.4 | 22 | 0.4 |  |  |  |  |  |
-| Increased creatinine | 22 | 0.9 | 17 | 0.2 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab group (range: 494 to 556 patients) and chemotherapy group (range: 469 to 542 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Platinum-Doublet Chemotherapy |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Hematology |  |  |  |  |
+| Anemia | 46 | 3.6 | 78 | 14 |
+| Lymphopenia | 46 | 5 | 60 | 15 |
+| Chemistry |  |  |  |  |
+| Hyponatremia | 41 | 12 | 26 | 4.9 |
+| Increased AST | 39 | 5 | 26 | 0.4 |
+| Increased ALT | 36 | 7 | 27 | 0.7 |
+| Increased lipase | 35 | 14 | 14 | 3.4 |
+| Increased alkaline phosphatase | 34 | 3.8 | 20 | 0.2 |
+| Increased amylase | 28 | 9 | 18 | 1.9 |
+| Hypocalcemia | 28 | 1.7 | 17 | 1.3 |
+| Hyperkalemia | 27 | 3.4 | 22 | 0.4 |
+| Increased creatinine | 22 | 0.9 | 17 | 0.2 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab group (range: 494 to 556 patients) and chemotherapy group (range: 469 to 542 patients). |  |  |  |  |
 
 First-line Treatment of Metastatic or Recurrent NSCLC: In Combination with Ipilimumab and Platinum-Doublet Chemotherapy
 
@@ -461,60 +461,60 @@ Tables 17 and 18 summarize selected adverse reactions and laboratory abnormaliti
 
 Table 17: Adverse Reactions in >10% of Patients Receiving OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy - CHECKMATE-9LA
 
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy (n=358) |  | Platinum-Doublet Chemotherapy (n=349) |  |  |  |  |  |  |  |  |  |  |  |
-| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatiguea | 49 | 5 | 40 | 4.9 |  |  |  |  |  |  |  |  |  |  |
-| Pyrexia | 14 | 0.6 | 10 | 0.6 |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal and Connective Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal painb | 39 | 4.5 | 27 | 2.0 |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 32 | 1.7 | 41 | 0.9 |  |  |  |  |  |  |  |  |  |  |
-| Diarrheac | 31 | 6 | 18 | 1.7 |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 21 | 0.6 | 23 | 0.6 |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 18 | 2.0 | 17 | 1.4 |  |  |  |  |  |  |  |  |  |  |
-| Abdominal paind | 12 | 0.6 | 11 | 0.9 |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rashe | 30 | 4.7 | 10 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| Pruritusf | 21 | 0.8 | 2.9 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Alopecia | 11 | 0.8 | 10 | 0.6 |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and Nutrition |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased appetite | 28 | 2.0 | 22 | 1.7 |  |  |  |  |  |  |  |  |  |  |
-| Respiratory, Thoracic and Mediastinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Coughg | 19 | 0.6 | 15 | 0.9 |  |  |  |  |  |  |  |  |  |  |
-| Dyspneah | 18 | 4.7 | 14 | 3.2 |  |  |  |  |  |  |  |  |  |  |
-| Endocrine |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypothyroidismi | 19 | 0.3 | 3.4 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Nervous System |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Headache | 11 | 0.6 | 7 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Dizzinessj | 11 | 0.6 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia b Includes myalgia, back pain, pain in extremity, musculoskeletal pain, bone pain, flank pain, muscle spasms, musculoskeletal chest pain, musculoskeletal disorder, osteitis, musculoskeletal stiffness, non-cardiac chest pain, arthralgia, arthritis, arthropathy, joint effusion, psoriatic arthropathy, synovitis c Includes colitis, ulcerative colitis, diarrhea, and enterocolitis d Includes abdominal discomfort, abdominal pain, lower abdominal pain, upper abdominal pain, and gastrointestinal pain e Includes acne, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, generalized exfoliative dermatitis, eczema, keratoderma blenorrhagica, palmar-plantar erythrodysaesthesia syndrome, rash, erythematous rash, generalized rash, macular rash, maculo-papular rash, morbilliform rash, papular rash, pruritic rash, skin exfoliation, skin reaction, skin toxicity, Stevens-Johnson syndrome, urticaria f Includes pruritus and generalized pruritus g Includes cough, productive cough, and upper-airway cough syndrome h Includes dyspnea, dyspnea at rest, and exertional dyspnea i Includes autoimmune thyroiditis, increased blood thyroid stimulating hormone, hypothyroidism, thyroiditis, and decreased free tri-iodothyronine j Includes dizziness, vertigo and positional vertigo |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy (n=358) |  | Platinum-Doublet Chemotherapy (n=349) |  |
+| General |  |  |  |  |
+| Fatiguea | 49 | 5 | 40 | 4.9 |
+| Pyrexia | 14 | 0.6 | 10 | 0.6 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal painb | 39 | 4.5 | 27 | 2.0 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 32 | 1.7 | 41 | 0.9 |
+| Diarrheac | 31 | 6 | 18 | 1.7 |
+| Constipation | 21 | 0.6 | 23 | 0.6 |
+| Vomiting | 18 | 2.0 | 17 | 1.4 |
+| Abdominal paind | 12 | 0.6 | 11 | 0.9 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Rashe | 30 | 4.7 | 10 | 0.3 |
+| Pruritusf | 21 | 0.8 | 2.9 | 0 |
+| Alopecia | 11 | 0.8 | 10 | 0.6 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 28 | 2.0 | 22 | 1.7 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Coughg | 19 | 0.6 | 15 | 0.9 |
+| Dyspneah | 18 | 4.7 | 14 | 3.2 |
+| Endocrine |  |  |  |  |
+| Hypothyroidismi | 19 | 0.3 | 3.4 | 0 |
+| Nervous System |  |  |  |  |
+| Headache | 11 | 0.6 | 7 | 0 |
+| Dizzinessj | 11 | 0.6 | 6 | 0 |
+| Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia b Includes myalgia, back pain, pain in extremity, musculoskeletal pain, bone pain, flank pain, muscle spasms, musculoskeletal chest pain, musculoskeletal disorder, osteitis, musculoskeletal stiffness, non-cardiac chest pain, arthralgia, arthritis, arthropathy, joint effusion, psoriatic arthropathy, synovitis c Includes colitis, ulcerative colitis, diarrhea, and enterocolitis d Includes abdominal discomfort, abdominal pain, lower abdominal pain, upper abdominal pain, and gastrointestinal pain e Includes acne, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, generalized exfoliative dermatitis, eczema, keratoderma blenorrhagica, palmar-plantar erythrodysaesthesia syndrome, rash, erythematous rash, generalized rash, macular rash, maculo-papular rash, morbilliform rash, papular rash, pruritic rash, skin exfoliation, skin reaction, skin toxicity, Stevens-Johnson syndrome, urticaria f Includes pruritus and generalized pruritus g Includes cough, productive cough, and upper-airway cough syndrome h Includes dyspnea, dyspnea at rest, and exertional dyspnea i Includes autoimmune thyroiditis, increased blood thyroid stimulating hormone, hypothyroidism, thyroiditis, and decreased free tri-iodothyronine j Includes dizziness, vertigo and positional vertigo |  |  |  |  |
 
 Table 18: Laboratory Values Worsening from Baselinea Occurring in >20% of Patients on OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy - CHECKMATE-9LA
 
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy |  | Platinum-Doublet Chemotherapy |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 70 | 9 | 74 | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 41 | 6 | 40 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 40 | 15 | 42 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Leukopenia | 36 | 10 | 40 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia | 23 | 4.3 | 24 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperglycemia | 45 | 7 | 42 | 2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 37 | 10 | 27 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 34 | 4.3 | 24 | 1.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased lipase | 31 | 12 | 10 | 2.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 31 | 1.2 | 26 | 0.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased amylase | 30 | 7 | 19 | 1.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 30 | 3.5 | 22 | 0.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypomagnesemia | 29 | 1.2 | 33 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypocalcemia | 26 | 1.4 | 22 | 1.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased creatinine | 26 | 1.2 | 23 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperkalemia | 22 | 1.7 | 21 | 2.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab and platinum-doublet chemotherapy group (range: 197 to 347 patients) and platinum-doublet chemotherapy group (range: 191 to 335 patients). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy |  | Platinum-Doublet Chemotherapy |  |
+| Hematology |  |  |  |  |
+| Anemia | 70 | 9 | 74 | 16 |
+| Lymphopenia | 41 | 6 | 40 | 11 |
+| Neutropenia | 40 | 15 | 42 | 15 |
+| Leukopenia | 36 | 10 | 40 | 9 |
+| Thrombocytopenia | 23 | 4.3 | 24 | 5 |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 45 | 7 | 42 | 2.6 |
+| Hyponatremia | 37 | 10 | 27 | 7 |
+| Increased ALT | 34 | 4.3 | 24 | 1.2 |
+| Increased lipase | 31 | 12 | 10 | 2.2 |
+| Increased alkaline phosphatase | 31 | 1.2 | 26 | 0.3 |
+| Increased amylase | 30 | 7 | 19 | 1.3 |
+| Increased AST | 30 | 3.5 | 22 | 0.3 |
+| Hypomagnesemia | 29 | 1.2 | 33 | 0.6 |
+| Hypocalcemia | 26 | 1.4 | 22 | 1.8 |
+| Increased creatinine | 26 | 1.2 | 23 | 0.6 |
+| Hyperkalemia | 22 | 1.7 | 21 | 2.1 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab and platinum-doublet chemotherapy group (range: 197 to 347 patients) and platinum-doublet chemotherapy group (range: 191 to 335 patients). |  |  |  |  |
 
 Second-line Treatment of Metastatic NSCLC
 
@@ -538,32 +538,32 @@ Tables 19 and 20 summarize selected adverse reactions and laboratory abnormaliti
 
 Table 19: Adverse Reactions Occurring in ≥10% of OPDIVO-Treated Patients and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-017 and CHECKMATE-057
 
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | OPDIVO (n=418) |  | Docetaxel (n=397) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Respiratory, Thoracic and Mediastinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cough | 31 | 0.7 | 24 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and Nutrition |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased appetite | 28 | 1.4 | 23 | 1.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pruritus | 10 | 0.2 | 2.0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | OPDIVO (n=418) |  | Docetaxel (n=397) |  |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Cough | 31 | 0.7 | 24 | 0 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 28 | 1.4 | 23 | 1.5 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Pruritus | 10 | 0.2 | 2.0 | 0 |
+| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
 
 Other clinically important adverse reactions observed in OPDIVO-treated patients and which occurred at a similar incidence in docetaxel-treated patients and not listed elsewhere in section 6 include: fatigue/asthenia (48% all Grades, 5% Grade 3-4), musculoskeletal pain (33% all Grades), pleural effusion (4.5% all Grades), pulmonary embolism (3.3% all Grades).
 
 Table 20: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of OPDIVO-Treated Patients for all NCI CTCAE Grades and at a Higher Incidence than Docetaxel (Between Arm Difference of ≥5% All Grades or ≥2% Grades 3-4) - CHECKMATE-017 and CHECKMATE-057
 
-| Laboratory Abnormality | OPDIVO |  | Docetaxel |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 35 | 7 | 34 | 4.9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 27 | 1.9 | 13 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 26 | 0.7 | 18 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 22 | 1.7 | 17 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased creatinine | 18 | 0 | 12 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased TSHb | 14 | N/A | 6 | N/A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 405 to 417 patients) and docetaxel group (range: 372 to 390 patients), except for TSH: OPDIVO group n=314 and docetaxel group n=297. b Not graded per NCI CTCAE v4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO |  | Docetaxel |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |  |  |
+| Hyponatremia | 35 | 7 | 34 | 4.9 |
+| Increased AST | 27 | 1.9 | 13 | 0.8 |
+| Increased alkaline phosphatase | 26 | 0.7 | 18 | 0.8 |
+| Increased ALT | 22 | 1.7 | 17 | 0.5 |
+| Increased creatinine | 18 | 0 | 12 | 0.5 |
+| Increased TSHb | 14 | N/A | 6 | N/A |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 405 to 417 patients) and docetaxel group (range: 372 to 390 patients), except for TSH: OPDIVO group n=314 and docetaxel group n=297. b Not graded per NCI CTCAE v4. |  |  |  |  |
 
 ### Malignant Pleural Mesothelioma
 
@@ -616,24 +616,24 @@ Table 21: Adverse Reactions in ≥10% of Patients Receiving OPDIVO and Ipilimuma
 
 Table 22: Laboratory Values Worsening from Baselinea Occurring in ≥20% of Patients on OPDIVO and Ipilimumab - CHECKMATE-743
 
-| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Chemotherapy |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Hyperglycemia | 53 | 3.7 | 34 | 1.1 |  |  |  |  |  |
-| Increased AST | 38 | 7 | 17 | 0 |  |  |  |  |  |
-| Increased ALT | 37 | 7 | 15 | 0.4 |  |  |  |  |  |
-| Increased lipase | 34 | 13 | 9 | 0.8 |  |  |  |  |  |
-| Hyponatremia | 32 | 8 | 21 | 2.9 |  |  |  |  |  |
-| Increased alkaline phosphatase | 31 | 3.1 | 12 | 0 |  |  |  |  |  |
-| Hyperkalemia | 30 | 4.1 | 16 | 0.7 |  |  |  |  |  |
-| Hypocalcemia | 28 | 0 | 16 | 0 |  |  |  |  |  |
-| Increased amylase | 26 | 5 | 13 | 0.9 |  |  |  |  |  |
-| Increased creatinine | 20 | 0.3 | 20 | 0.4 |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 43 | 8 | 57 | 14 |  |  |  |  |  |
-| Anemia | 43 | 2.4 | 75 | 15 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab group (range: 109 to 297 patients) and chemotherapy group (range: 90 to 276 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Chemotherapy |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 53 | 3.7 | 34 | 1.1 |
+| Increased AST | 38 | 7 | 17 | 0 |
+| Increased ALT | 37 | 7 | 15 | 0.4 |
+| Increased lipase | 34 | 13 | 9 | 0.8 |
+| Hyponatremia | 32 | 8 | 21 | 2.9 |
+| Increased alkaline phosphatase | 31 | 3.1 | 12 | 0 |
+| Hyperkalemia | 30 | 4.1 | 16 | 0.7 |
+| Hypocalcemia | 28 | 0 | 16 | 0 |
+| Increased amylase | 26 | 5 | 13 | 0.9 |
+| Increased creatinine | 20 | 0.3 | 20 | 0.4 |
+| Hematology |  |  |  |  |
+| Lymphopenia | 43 | 8 | 57 | 14 |
+| Anemia | 43 | 2.4 | 75 | 15 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab group (range: 109 to 297 patients) and chemotherapy group (range: 90 to 276 patients). |  |  |  |  |
 
 ### Advanced Renal Cell Carcinoma
 
@@ -690,24 +690,24 @@ Table 23: Adverse Reactions in >15% of Patients Receiving OPDIVO and Ipilimumab 
 
 Table 24: Laboratory Values Worsening from Baselinea Occurring in >15% of Patients on OPDIVO and Ipilimumab - CHECKMATE-214
 
-| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Sunitinib |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased lipase | 48 | 20 | 51 | 20 |  |  |  |  |  |
-| Increased creatinine | 42 | 2.1 | 46 | 1.7 |  |  |  |  |  |
-| Increased ALT | 41 | 7 | 44 | 2.7 |  |  |  |  |  |
-| Increased AST | 40 | 4.8 | 60 | 2.1 |  |  |  |  |  |
-| Increased amylase | 39 | 12 | 33 | 7 |  |  |  |  |  |
-| Hyponatremia | 39 | 10 | 36 | 7 |  |  |  |  |  |
-| Increased alkaline phosphatase | 29 | 2.0 | 32 | 1.0 |  |  |  |  |  |
-| Hyperkalemia | 29 | 2.4 | 28 | 2.9 |  |  |  |  |  |
-| Hypocalcemia | 21 | 0.4 | 35 | 0.6 |  |  |  |  |  |
-| Hypomagnesemia | 16 | 0.4 | 26 | 1.6 |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Anemia | 43 | 3.0 | 64 | 9 |  |  |  |  |  |
-| Lymphopenia | 36 | 5 | 63 | 14 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab group (range: 490 to 538 patients) and sunitinib group (range: 485 to 523 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO and Ipilimumab |  | Sunitinib |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |  |  |
+| Increased lipase | 48 | 20 | 51 | 20 |
+| Increased creatinine | 42 | 2.1 | 46 | 1.7 |
+| Increased ALT | 41 | 7 | 44 | 2.7 |
+| Increased AST | 40 | 4.8 | 60 | 2.1 |
+| Increased amylase | 39 | 12 | 33 | 7 |
+| Hyponatremia | 39 | 10 | 36 | 7 |
+| Increased alkaline phosphatase | 29 | 2.0 | 32 | 1.0 |
+| Hyperkalemia | 29 | 2.4 | 28 | 2.9 |
+| Hypocalcemia | 21 | 0.4 | 35 | 0.6 |
+| Hypomagnesemia | 16 | 0.4 | 26 | 1.6 |
+| Hematology |  |  |  |  |
+| Anemia | 43 | 3.0 | 64 | 9 |
+| Lymphopenia | 36 | 5 | 63 | 14 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and ipilimumab group (range: 490 to 538 patients) and sunitinib group (range: 485 to 523 patients). |  |  |  |  |
 
 In addition, among patients with TSH ≤ULN at baseline, a lower proportion of patients experienced a treatment-emergent elevation of TSH > ULN in the OPDIVO and ipilimumab group compared to the sunitinib group (31% and 61%, respectively).
 
@@ -732,69 +732,69 @@ Tables 25 and 26 summarize adverse reactions and laboratory abnormalities, respe
 
 Table 25: Adverse Reactions in >15% of Patients Receiving OPDIVO and Cabozantinib - CHECKMATE-9ER
 
-| Adverse Reaction | OPDIVO and Cabozantinib (n=320) |  | Sunitinib (n=320) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 64 | 7 | 47 | 4.4 |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 27 | 0.6 | 31 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| Abdominal paina | 22 | 1.9 | 15 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 17 | 1.9 | 21 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsiab | 15 | 0 | 22 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatiguec | 51 | 8 | 50 | 8 |  |  |  |  |  |  |  |  |  |  |
-| Hepatobiliary |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hepatotoxicityd | 44 | 11 | 26 | 5 |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Palmar-plantar erythrodysaesthesia syndrome | 40 | 8 | 41 | 8 |  |  |  |  |  |  |  |  |  |  |
-| Stomatitise | 37 | 3.4 | 46 | 4.4 |  |  |  |  |  |  |  |  |  |  |
-| Rashf | 36 | 3.1 | 14 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Pruritus | 19 | 0.3 | 4.4 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Vascular |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypertensiong | 36 | 13 | 39 | 14 |  |  |  |  |  |  |  |  |  |  |
-| Endocrine |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypothyroidismh | 34 | 0.3 | 30 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal and Connective Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal paini | 33 | 3.8 | 29 | 3.1 |  |  |  |  |  |  |  |  |  |  |
-| Arthralgia | 18 | 0.3 | 9 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and Nutrition |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased appetite | 28 | 1.9 | 20 | 1.3 |  |  |  |  |  |  |  |  |  |  |
-| Nervous System |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dysgeusia | 24 | 0 | 22 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Headache | 16 | 0 | 12 | 0.6 |  |  |  |  |  |  |  |  |  |  |
-| Respiratory, Thoracic and Mediastinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Coughj | 20 | 0.3 | 17 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Dysphonia | 17 | 0.3 | 3.4 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Infections and Infestations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Upper respiratory tract infectionk | 20 | 0.3 | 8 | 0.3 |  |  |  |  |  |  |  |  |  |  |
-| Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, abdominal pain lower, abdominal pain upper. b Includes gastroesophageal reflux disease. c Includes asthenia. d Includes hepatotoxicity, ALT increased, AST increased, blood alkaline phosphatase increased, gamma-glutamyl transferase increased, autoimmune hepatitis, blood bilirubin increased, drug induced liver injury, hepatic enzyme increased, hepatitis, hyperbilirubinemia, liver function test increased, liver function test abnormal, transaminases increased, hepatic failure. e Includes mucosal inflammation, aphthous ulcer, mouth ulceration. f Includes dermatitis, dermatitis acneiform, dermatitis bullous, exfoliative rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic. g Includes blood pressure increased, blood pressure systolic increased. h Includes primary hypothyroidism. i Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, spinal pain. j Includes productive cough. k Includes nasopharyngitis, pharyngitis, rhinitis. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | OPDIVO and Cabozantinib (n=320) |  | Sunitinib (n=320) |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Gastrointestinal |  |  |  |  |
+| Diarrhea | 64 | 7 | 47 | 4.4 |
+| Nausea | 27 | 0.6 | 31 | 0.3 |
+| Abdominal paina | 22 | 1.9 | 15 | 0.3 |
+| Vomiting | 17 | 1.9 | 21 | 0.3 |
+| Dyspepsiab | 15 | 0 | 22 | 0.3 |
+| General |  |  |  |  |
+| Fatiguec | 51 | 8 | 50 | 8 |
+| Hepatobiliary |  |  |  |  |
+| Hepatotoxicityd | 44 | 11 | 26 | 5 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Palmar-plantar erythrodysaesthesia syndrome | 40 | 8 | 41 | 8 |
+| Stomatitise | 37 | 3.4 | 46 | 4.4 |
+| Rashf | 36 | 3.1 | 14 | 0 |
+| Pruritus | 19 | 0.3 | 4.4 | 0 |
+| Vascular |  |  |  |  |
+| Hypertensiong | 36 | 13 | 39 | 14 |
+| Endocrine |  |  |  |  |
+| Hypothyroidismh | 34 | 0.3 | 30 | 0.3 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Musculoskeletal paini | 33 | 3.8 | 29 | 3.1 |
+| Arthralgia | 18 | 0.3 | 9 | 0.3 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 28 | 1.9 | 20 | 1.3 |
+| Nervous System |  |  |  |  |
+| Dysgeusia | 24 | 0 | 22 | 0 |
+| Headache | 16 | 0 | 12 | 0.6 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Coughj | 20 | 0.3 | 17 | 0 |
+| Dysphonia | 17 | 0.3 | 3.4 | 0 |
+| Infections and Infestations |  |  |  |  |
+| Upper respiratory tract infectionk | 20 | 0.3 | 8 | 0.3 |
+| Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, abdominal pain lower, abdominal pain upper. b Includes gastroesophageal reflux disease. c Includes asthenia. d Includes hepatotoxicity, ALT increased, AST increased, blood alkaline phosphatase increased, gamma-glutamyl transferase increased, autoimmune hepatitis, blood bilirubin increased, drug induced liver injury, hepatic enzyme increased, hepatitis, hyperbilirubinemia, liver function test increased, liver function test abnormal, transaminases increased, hepatic failure. e Includes mucosal inflammation, aphthous ulcer, mouth ulceration. f Includes dermatitis, dermatitis acneiform, dermatitis bullous, exfoliative rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic. g Includes blood pressure increased, blood pressure systolic increased. h Includes primary hypothyroidism. i Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, spinal pain. j Includes productive cough. k Includes nasopharyngitis, pharyngitis, rhinitis. |  |  |  |  |
 
 Table 26: Laboratory Values Worsening from Baselinea Occurring in >20% of Patients on OPDIVO and Cabozantinib - CHECKMATE-9ER
 
-| Laboratory Abnormality | OPDIVO and Cabozantinib |  | Sunitinib |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 79 | 9.8 | 39 | 3.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 77 | 7.9 | 57 | 2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypophosphatemia | 69 | 28 | 48 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypocalcemia | 54 | 1.9 | 24 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypomagnesemia | 47 | 1.3 | 25 | 0.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperglycemia | 44 | 3.5 | 44 | 1.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 43 | 11 | 36 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased lipase | 41 | 14 | 38 | 13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased amylase | 41 | 10 | 28 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 41 | 2.8 | 37 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased creatinine | 39 | 1.3 | 42 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperkalemia | 35 | 4.7 | 27 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypoglycemia | 26 | 0.8 | 14 | 0.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 42 | 6.6 | 45 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia | 41 | 0.3 | 70 | 9.7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 37 | 2.5 | 61 | 4.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Leukopenia | 37 | 0.3 | 66 | 5.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 35 | 3.2 | 67 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and cabozantinib group (range: 170 to 317 patients) and sunitinib group (range: 173 to 311 patients). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO and Cabozantinib |  | Sunitinib |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |  |  |
+| Increased ALT | 79 | 9.8 | 39 | 3.5 |
+| Increased AST | 77 | 7.9 | 57 | 2.6 |
+| Hypophosphatemia | 69 | 28 | 48 | 10 |
+| Hypocalcemia | 54 | 1.9 | 24 | 0.6 |
+| Hypomagnesemia | 47 | 1.3 | 25 | 0.3 |
+| Hyperglycemia | 44 | 3.5 | 44 | 1.7 |
+| Hyponatremia | 43 | 11 | 36 | 12 |
+| Increased lipase | 41 | 14 | 38 | 13 |
+| Increased amylase | 41 | 10 | 28 | 6 |
+| Increased alkaline phosphatase | 41 | 2.8 | 37 | 1.6 |
+| Increased creatinine | 39 | 1.3 | 42 | 0.6 |
+| Hyperkalemia | 35 | 4.7 | 27 | 1 |
+| Hypoglycemia | 26 | 0.8 | 14 | 0.4 |
+| Hematology |  |  |  |  |
+| Lymphopenia | 42 | 6.6 | 45 | 10 |
+| Thrombocytopenia | 41 | 0.3 | 70 | 9.7 |
+| Anemia | 37 | 2.5 | 61 | 4.8 |
+| Leukopenia | 37 | 0.3 | 66 | 5.1 |
+| Neutropenia | 35 | 3.2 | 67 | 12 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO and cabozantinib group (range: 170 to 317 patients) and sunitinib group (range: 173 to 311 patients). |  |  |  |  |
 
 Previously Treated Renal Cell Carcinoma
 
@@ -817,31 +817,31 @@ Tables 27 and 28 summarize adverse reactions and laboratory abnormalities, respe
 
 Table 27: Adverse Reactions in >15% of Patients Receiving OPDIVO - CHECKMATE-025
 
-| Adverse Reaction | OPDIVO (n=406) |  | Everolimus (n=397) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Adverse Reaction | 98 | 56 | 96 | 62 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatiguea | 56 | 6 | 57 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pyrexia | 17 | 0.7 | 20 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Respiratory, Thoracic and Mediastinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Cough/productive cough | 34 | 0 | 38 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspnea/exertional dyspnea | 27 | 3.0 | 31 | 2.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Upper respiratory infectionb | 18 | 0 | 11 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 28 | 0.5 | 29 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrheac | 25 | 2.2 | 32 | 1.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 23 | 0.5 | 18 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 16 | 0.5 | 16 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Skin and Subcutaneous Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rashd | 28 | 1.5 | 36 | 1.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pruritus/generalized pruritus | 19 | 0 | 14 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and Nutrition |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased appetite | 23 | 1.2 | 30 | 1.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Musculoskeletal and Connective Tissue |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Arthralgia | 20 | 1.0 | 14 | 0.5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Back pain | 21 | 3.4 | 16 | 2.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Toxicity was graded per NCI CTCAE v4. a Includes asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral upper respiratory infection (URI). c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, acneiform dermatitis, erythematous rash, generalized rash, macular rash, maculopapular rash, papular rash, pruritic rash, erythema multiforme, and erythema. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | OPDIVO (n=406) |  | Everolimus (n=397) |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Adverse Reaction | 98 | 56 | 96 | 62 |
+| General |  |  |  |  |
+| Fatiguea | 56 | 6 | 57 | 7 |
+| Pyrexia | 17 | 0.7 | 20 | 0.8 |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
+| Cough/productive cough | 34 | 0 | 38 | 0.5 |
+| Dyspnea/exertional dyspnea | 27 | 3.0 | 31 | 2.0 |
+| Upper respiratory infectionb | 18 | 0 | 11 | 0 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 28 | 0.5 | 29 | 1 |
+| Diarrheac | 25 | 2.2 | 32 | 1.8 |
+| Constipation | 23 | 0.5 | 18 | 0.5 |
+| Vomiting | 16 | 0.5 | 16 | 0.5 |
+| Skin and Subcutaneous Tissue |  |  |  |  |
+| Rashd | 28 | 1.5 | 36 | 1.0 |
+| Pruritus/generalized pruritus | 19 | 0 | 14 | 0 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 23 | 1.2 | 30 | 1.5 |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
+| Arthralgia | 20 | 1.0 | 14 | 0.5 |
+| Back pain | 21 | 3.4 | 16 | 2.8 |
+| Toxicity was graded per NCI CTCAE v4. a Includes asthenia, decreased activity, fatigue, and malaise. b Includes nasopharyngitis, pharyngitis, rhinitis, and viral upper respiratory infection (URI). c Includes colitis, enterocolitis, and gastroenteritis. d Includes dermatitis, acneiform dermatitis, erythematous rash, generalized rash, macular rash, maculopapular rash, papular rash, pruritic rash, erythema multiforme, and erythema. |  |  |  |  |
 
 Other clinically important adverse reactions in CHECKMATE-025 were:
 
@@ -859,25 +859,25 @@ Skin Disorders: palmar-plantar erythrodysesthesia
 
 Table 28: Laboratory Values Worsening from Baselinea Occurring in >15% of Patients on OPDIVO - CHECKMATE-025
 
-| Laboratory Abnormality | OPDIVO |  | Everolimus |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 42 | 6 | 53 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 39 | 8 | 69 | 16 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased creatinine | 42 | 2.0 | 45 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 33 | 2.8 | 39 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 32 | 2.3 | 32 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 32 | 7 | 26 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyperkalemia | 30 | 4.0 | 20 | 2.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypocalcemia | 23 | 0.9 | 26 | 1.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 22 | 3.2 | 31 | 0.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hypercalcemia | 19 | 3.2 | 6 | 0.3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lipids |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased triglycerides | 32 | 1.5 | 67 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased cholesterol | 21 | 0.3 | 55 | 1.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 259 to 401 patients) and everolimus group (range: 257 to 376 patients). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO |  | Everolimus |  |
+| --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Hematology |  |  |  |  |
+| Lymphopenia | 42 | 6 | 53 | 11 |
+| Anemia | 39 | 8 | 69 | 16 |
+| Chemistry |  |  |  |  |
+| Increased creatinine | 42 | 2.0 | 45 | 1.6 |
+| Increased AST | 33 | 2.8 | 39 | 1.6 |
+| Increased alkaline phosphatase | 32 | 2.3 | 32 | 0.8 |
+| Hyponatremia | 32 | 7 | 26 | 6 |
+| Hyperkalemia | 30 | 4.0 | 20 | 2.1 |
+| Hypocalcemia | 23 | 0.9 | 26 | 1.3 |
+| Increased ALT | 22 | 3.2 | 31 | 0.8 |
+| Hypercalcemia | 19 | 3.2 | 6 | 0.3 |
+| Lipids |  |  |  |  |
+| Increased triglycerides | 32 | 1.5 | 67 | 11 |
+| Increased cholesterol | 21 | 0.3 | 55 | 1.4 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 259 to 401 patients) and everolimus group (range: 257 to 376 patients). |  |  |  |  |
 
 ### Classical Hodgkin Lymphoma
 
@@ -932,7 +932,10 @@ Table 29: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-205 and 
 | Infusion-related reaction | 14 | <1 |
 | Endocrine |  |  |
 | Hypothyroidism/thyroiditis | 12 | 0 |
-| Toxicity was graded per NCI CTCAE v4. a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. c Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. d Includes asthenia. e Includes colitis. f Includes abdominal discomfort and upper abdominal pain. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. h Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. i Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy. These numbers are specific to treatment-emergent events. |  |  |
+
+1. Toxicity was graded per NCI CTCAE v4. a Includes events occurring up to 30 days after last nivolumab dose, regardless of causality.
+   After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred up to 30 days after completing the initial nivolumab course. b Includes nasopharyngitis, pharyngitis, rhinitis, and sinusitis. c Includes pneumonia bacterial, pneumonia mycoplasmal, pneumocystis jirovecii pneumonia. d Includes asthenia. e Includes colitis. f Includes abdominal discomfort and upper abdominal pain. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, and pain in extremity. h Includes dermatitis, dermatitis acneiform, dermatitis exfoliative, and rash described as macular, papular, maculopapular, pruritic, exfoliative, or acneiform. i Includes hyperesthesia, hypoesthesia, paresthesia, dysesthesia, peripheral motor neuropathy, peripheral sensory neuropathy, and polyneuropathy.
+   These numbers are specific to treatment-emergent events.
 
 Additional information regarding clinically important adverse reactions:
 
@@ -958,29 +961,29 @@ Other common findings (≥10%) included increased creatinine, electrolyte abnorm
 
 Table 30: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-205 and CHECKMATE-039
 
-| Laboratory Abnormality | OPDIVOa (n=266) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| All Grades (%)b | Grades 3-4 (%)b |  |  |  |  |
-| Hematology |  |  |  |  |  |
-| Leukopenia | 38 | 4.5 |  |  |  |
-| Neutropenia | 37 | 5 |  |  |  |
-| Thrombocytopenia | 37 | 3.0 |  |  |  |
-| Lymphopenia | 32 | 11 |  |  |  |
-| Anemia | 26 | 2.6 |  |  |  |
-| Chemistryc |  |  |  |  |  |
-| Increased AST | 33 | 2.6 |  |  |  |
-| Increased ALT | 31 | 3.4 |  |  |  |
-| Increased lipase | 22 | 9 |  |  |  |
-| Increased alkaline phosphatase | 20 | 1.5 |  |  |  |
-| Hyponatremia | 20 | 1.1 |  |  |  |
-| Hypokalemia | 16 | 1.9 |  |  |  |
-| Increased creatinine | 16 | <1 |  |  |  |
-| Hypocalcemia | 15 | <1 |  |  |  |
-| Hyperkalemia | 15 | 1.5 |  |  |  |
-| Hypomagnesemia | 14 | <1 |  |  |  |
-| Increased amylase | 13 | 1.5 |  |  |  |
-| Increased bilirubin | 11 | 1.5 |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement: range: 203 to 266 patients. b Includes events occurring up to 30 days after last nivolumab dose. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred within 30 days of completing the initial nivolumab course. c In addition, in the safety population, fasting hyperglycemia (all grade 1-2) was reported in 27 of 69 (39%) evaluable patients and fasting hypoglycemia (all grade 1-2) in 11 of 69 (16%). |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVOa (n=266) |  |
+| --- | --- | --- |
+| All Grades (%)b | Grades 3-4 (%)b |  |
+| Hematology |  |  |
+| Leukopenia | 38 | 4.5 |
+| Neutropenia | 37 | 5 |
+| Thrombocytopenia | 37 | 3.0 |
+| Lymphopenia | 32 | 11 |
+| Anemia | 26 | 2.6 |
+| Chemistryc |  |  |
+| Increased AST | 33 | 2.6 |
+| Increased ALT | 31 | 3.4 |
+| Increased lipase | 22 | 9 |
+| Increased alkaline phosphatase | 20 | 1.5 |
+| Hyponatremia | 20 | 1.1 |
+| Hypokalemia | 16 | 1.9 |
+| Increased creatinine | 16 | <1 |
+| Hypocalcemia | 15 | <1 |
+| Hyperkalemia | 15 | 1.5 |
+| Hypomagnesemia | 14 | <1 |
+| Increased amylase | 13 | 1.5 |
+| Increased bilirubin | 11 | 1.5 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement: range: 203 to 266 patients. b Includes events occurring up to 30 days after last nivolumab dose. After an immune-mediated adverse reaction, reactions following nivolumab rechallenge were included if they occurred within 30 days of completing the initial nivolumab course. c In addition, in the safety population, fasting hyperglycemia (all grade 1-2) was reported in 27 of 69 (39%) evaluable patients and fasting hypoglycemia (all grade 1-2) in 11 of 69 (16%). |  |  |
 
 ### Squamous Cell Carcinoma of the Head and Neck
 
@@ -1057,26 +1060,26 @@ Table 31: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-274
 
 Table 32: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-274
 
-| Laboratory Abnormality | OPDIVO(n=351) |  | Placebo(n=348) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased creatinine | 36 | 1.7 | 36 | 2.6 |  |  |  |  |  |
-| Increased amylase | 34 | 8 | 23 | 3.2 |  |  |  |  |  |
-| Increased lipase | 33 | 12 | 31 | 10 |  |  |  |  |  |
-| Hyperkalemia | 32 | 5 | 30 | 6 |  |  |  |  |  |
-| Increased alkaline phosphatase | 24 | 2.3 | 15 | 0.6 |  |  |  |  |  |
-| Increased AST | 24 | 3.5 | 16 | 0.9 |  |  |  |  |  |
-| Increased ALT | 23 | 2.9 | 15 | 0.6 |  |  |  |  |  |
-| Hyponatremia | 22 | 4.1 | 17 | 1.8 |  |  |  |  |  |
-| Hypocalcemia | 17 | 1.2 | 11 | 0.9 |  |  |  |  |  |
-| Hypomagnesemia | 16 | 0 | 9 | 0 |  |  |  |  |  |
-| Hypercalcemia | 12 | 0.3 | 8 | 0.3 |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 33 | 2.9 | 27 | 1.5 |  |  |  |  |  |
-| Anemia | 30 | 1.4 | 28 | 0.9 |  |  |  |  |  |
-| Neutropenia | 11 | 0.6 | 10 | 0.3 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 322 to 348 patients) and placebo group (range: 312 to 341 patients). |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO(n=351) |  | Placebo(n=348) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |  |  |
+| Increased creatinine | 36 | 1.7 | 36 | 2.6 |
+| Increased amylase | 34 | 8 | 23 | 3.2 |
+| Increased lipase | 33 | 12 | 31 | 10 |
+| Hyperkalemia | 32 | 5 | 30 | 6 |
+| Increased alkaline phosphatase | 24 | 2.3 | 15 | 0.6 |
+| Increased AST | 24 | 3.5 | 16 | 0.9 |
+| Increased ALT | 23 | 2.9 | 15 | 0.6 |
+| Hyponatremia | 22 | 4.1 | 17 | 1.8 |
+| Hypocalcemia | 17 | 1.2 | 11 | 0.9 |
+| Hypomagnesemia | 16 | 0 | 9 | 0 |
+| Hypercalcemia | 12 | 0.3 | 8 | 0.3 |
+| Hematology |  |  |  |  |
+| Lymphopenia | 33 | 2.9 | 27 | 1.5 |
+| Anemia | 30 | 1.4 | 28 | 0.9 |
+| Neutropenia | 11 | 0.6 | 10 | 0.3 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 322 to 348 patients) and placebo group (range: 312 to 341 patients). |  |  |  |  |
 
 ### Advanced or Metastatic Urothelial Carcinoma
 
@@ -1130,27 +1133,27 @@ Table 33: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-275
 
 Table 34: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients - CHECKMATE-275
 
-| Laboratory Abnormality | OPDIVOa |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) |  |  |  |  |
-| Chemistry |  |  |  |  |  |
-| Hyperglycemia | 42 | 2.4 |  |  |  |
-| Hyponatremia | 41 | 11 |  |  |  |
-| Increased creatinine | 39 | 2.0 |  |  |  |
-| Increased alkaline phosphatase | 33 | 5.5 |  |  |  |
-| Hypocalcemia | 26 | 0.8 |  |  |  |
-| Increased AST | 24 | 3.5 |  |  |  |
-| Increased lipase | 20 | 7 |  |  |  |
-| Hyperkalemia | 19 | 1.2 |  |  |  |
-| Increased ALT | 18 | 1.2 |  |  |  |
-| Increased amylase | 18 | 4.4 |  |  |  |
-| Hypomagnesemia | 16 | 0 |  |  |  |
-| Hematology |  |  |  |  |  |
-| Lymphopenia | 42 | 9 |  |  |  |
-| Anemia | 40 | 7 |  |  |  |
-| Thrombocytopenia | 15 | 2.4 |  |  |  |
-| Leukopenia | 11 | 0 |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: range: 84 to 256 patients. |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVOa |  |
+| --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |
+| Hyperglycemia | 42 | 2.4 |
+| Hyponatremia | 41 | 11 |
+| Increased creatinine | 39 | 2.0 |
+| Increased alkaline phosphatase | 33 | 5.5 |
+| Hypocalcemia | 26 | 0.8 |
+| Increased AST | 24 | 3.5 |
+| Increased lipase | 20 | 7 |
+| Hyperkalemia | 19 | 1.2 |
+| Increased ALT | 18 | 1.2 |
+| Increased amylase | 18 | 4.4 |
+| Hypomagnesemia | 16 | 0 |
+| Hematology |  |  |
+| Lymphopenia | 42 | 9 |
+| Anemia | 40 | 7 |
+| Thrombocytopenia | 15 | 2.4 |
+| Leukopenia | 11 | 0 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: range: 84 to 256 patients. |  |  |
 
 ### MSI-H or dMMR Metastatic Colorectal Cancer
 
@@ -1211,28 +1214,28 @@ Clinically important adverse reactions reported in <10% of patients receiving OP
 
 Table 36: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-142
 
-| Laboratory Abnormality | OPDIVO (n=74) |  | OPDIVO and Ipilimumab (n=119) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Anemia | 50 | 7 | 42 | 9 |  |  |  |  |  |
-| Lymphopenia | 36 | 7 | 25 | 6 |  |  |  |  |  |
-| Neutropenia | 20 | 4.3 | 18 | 0 |  |  |  |  |  |
-| Thrombocytopenia | 16 | 1.4 | 26 | 0.9 |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 37 | 2.8 | 28 | 5 |  |  |  |  |  |
-| Increased lipase | 33 | 19 | 39 | 12 |  |  |  |  |  |
-| Increased ALT | 32 | 2.8 | 33 | 12 |  |  |  |  |  |
-| Increased AST | 31 | 1.4 | 40 | 12 |  |  |  |  |  |
-| Hyponatremia | 27 | 4.3 | 26 | 5 |  |  |  |  |  |
-| Hypocalcemia | 19 | 0 | 16 | 0 |  |  |  |  |  |
-| Hypomagnesemia | 17 | 0 | 18 | 0 |  |  |  |  |  |
-| Increased amylase | 16 | 4.8 | 36 | 3.4 |  |  |  |  |  |
-| Increased bilirubin | 14 | 4.2 | 21 | 5 |  |  |  |  |  |
-| Hypokalemia | 14 | 0 | 15 | 1.8 |  |  |  |  |  |
-| Increased creatinine | 12 | 0 | 25 | 3.6 |  |  |  |  |  |
-| Hyperkalemia | 11 | 0 | 23 | 0.9 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available. Number of evaluable patients ranges from 62 to 71 for the OPDIVO cohort and from 87 to 114 for the OPDIVO and ipilimumab cohort. |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO (n=74) |  | OPDIVO and Ipilimumab (n=119) |  |
+| --- | --- | --- | --- | --- |
+|  | All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |
+| Hematology |  |  |  |  |
+| Anemia | 50 | 7 | 42 | 9 |
+| Lymphopenia | 36 | 7 | 25 | 6 |
+| Neutropenia | 20 | 4.3 | 18 | 0 |
+| Thrombocytopenia | 16 | 1.4 | 26 | 0.9 |
+| Chemistry |  |  |  |  |
+| Increased alkaline phosphatase | 37 | 2.8 | 28 | 5 |
+| Increased lipase | 33 | 19 | 39 | 12 |
+| Increased ALT | 32 | 2.8 | 33 | 12 |
+| Increased AST | 31 | 1.4 | 40 | 12 |
+| Hyponatremia | 27 | 4.3 | 26 | 5 |
+| Hypocalcemia | 19 | 0 | 16 | 0 |
+| Hypomagnesemia | 17 | 0 | 18 | 0 |
+| Increased amylase | 16 | 4.8 | 36 | 3.4 |
+| Increased bilirubin | 14 | 4.2 | 21 | 5 |
+| Hypokalemia | 14 | 0 | 15 | 1.8 |
+| Increased creatinine | 12 | 0 | 25 | 3.6 |
+| Hyperkalemia | 11 | 0 | 23 | 0.9 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available. Number of evaluable patients ranges from 62 to 71 for the OPDIVO cohort and from 87 to 114 for the OPDIVO and ipilimumab cohort. |  |  |  |  |
 
 ### Hepatocellular Carcinoma
 
@@ -1380,28 +1383,28 @@ Table 39: Adverse Reactions Occurring in ≥10% of Patients Receiving OPDIVO - C
 | Decreased appetite | 15 | 0.9 | 10 | 0.8 |
 | Endocrine |  |  |  |  |
 | Hypothyroidism | 11 | 0 | 1.5 | 0 |
-| a Includes upper abdominal pain, lower abdominal pain, and abdominal discomfort. b Includes gastroesophageal reflux. c Includes asthenia. d Includes productive cough. e Includes dyspnea exertional. f Includes rash pustular, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, exfoliative rash, rash erythematous, rash macular, rash maculo-papular, rash popular, rash pruritic. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, spinal pain. |  |  |  |  |
+| a Includes upper abdominal pain, lower abdominal pain, and abdominal discomfort. b Includes gastroesophageal reflux. c Includes asthenia. d Includes productive cough. e Includes dyspnea exertional. f Includes rash pustular, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, exfoliative rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic. g Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, myalgia intercostal, neck pain, pain in extremity, spinal pain. |  |  |  |  |
 
 Table 40: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-577
 
-| Laboratory Abnormality | OPDIVO(n=532) |  | Placebo(n=260) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |
-| Increased AST | 27 | 2.1 | 22 | 0.8 |  |  |  |  |  |
-| Increased alkaline phosphatase | 25 | 0.8 | 18 | 0.8 |  |  |  |  |  |
-| Increased albumin | 21 | 0.2 | 18 | 0 |  |  |  |  |  |
-| Increased ALT | 20 | 1.9 | 16 | 1.2 |  |  |  |  |  |
-| Increased amylase | 20 | 3.9 | 13 | 1.3 |  |  |  |  |  |
-| Hyponatremia | 19 | 1.7 | 12 | 1.2 |  |  |  |  |  |
-| Hyperkalemia | 17 | 0.8 | 15 | 1.6 |  |  |  |  |  |
-| Hypokalemia | 12 | 1 | 11 | 1.2 |  |  |  |  |  |
-| Transaminases increasedb | 11 | 1.5 | 6 | 1.2 |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |
-| Lymphopenia | 44 | 17 | 35 | 12 |  |  |  |  |  |
-| Anemia | 27 | 0.8 | 21 | 0.4 |  |  |  |  |  |
-| Neutropenia | 24 | 1.5 | 23 | 0.4 |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 163 to 526 patients) and Placebo group (range: 86 to 256 patients). b Includes alanine aminotransferase increased, aspartate aminotransferase increased. |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO(n=532) |  | Placebo(n=260) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| Chemistry |  |  |  |  |
+| Increased AST | 27 | 2.1 | 22 | 0.8 |
+| Increased alkaline phosphatase | 25 | 0.8 | 18 | 0.8 |
+| Increased albumin | 21 | 0.2 | 18 | 0 |
+| Increased ALT | 20 | 1.9 | 16 | 1.2 |
+| Increased amylase | 20 | 3.9 | 13 | 1.3 |
+| Hyponatremia | 19 | 1.7 | 12 | 1.2 |
+| Hyperkalemia | 17 | 0.8 | 15 | 1.6 |
+| Hypokalemia | 12 | 1 | 11 | 1.2 |
+| Transaminases increasedb | 11 | 1.5 | 6 | 1.2 |
+| Hematology |  |  |  |  |
+| Lymphopenia | 44 | 17 | 35 | 12 |
+| Anemia | 27 | 0.8 | 21 | 0.4 |
+| Neutropenia | 24 | 1.5 | 23 | 0.4 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO group (range: 163 to 526 patients) and Placebo group (range: 86 to 256 patients). b Includes alanine aminotransferase increased, aspartate aminotransferase increased. |  |  |  |  |
 
 ### First-line Treatment of Unresectable Advanced or Metastatic ESCC
 
@@ -1468,31 +1471,31 @@ Table 41: Adverse Reactions in ≥10% of Patients - CHECKMATE-648
 | Musculoskeletal painj | 11 | 0.3 | 14 | 0.6 | 8 | 0.3 |
 | Toxicity was graded per NCI CTCAE v4. a Includes aphthous ulcer, mouth ulceration, and mucosal inflammation. b Includes abdominal discomfort, abdominal pain lower, and abdominal pain upper. c Includes asthenia and malaise. d Includes tumor associated fever. e Includes swelling, generalized edema, edema peripheral, and peripheral swelling. f Includes hyperaesthesia, hypoaesthesia, peripheral motor neuropathy, peripheral sensorimotor neuropathy, and peripheral sensory neuropathy. g Includes dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, drug eruption, exfoliative rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, and rash pruritic. h Includes productive cough. i Includes organizing pneumonia, pneumonia bacterial, and pneumonia pseudomonal. j Includes back pain, bone pain, musculoskeletal chest pain, myalgia, neck pain, pain in extremity, and spinal pain. |  |  |  |  |  |  |
 
-Table 42: Laboratory Values Worsening from Baseline a Occurring in ≥10% of Patients - CHECKMATE-648
+Table 42: Laboratory Values Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-648
 
-| Laboratory Abnormality | OPDIVO with Cisplatin and 5 FU(n=310) |  | OPDIVO and Ipilimumab(n=322) |  | Cisplatin and 5-FU(n=304) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |
-| Hematology |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 81 | 21 | 52 | 7 | 66 | 14 |  |  |  |  |  |  |  |
-| Lymphopenia | 67 | 23 | 50 | 13 | 44 | 8 |  |  |  |  |  |  |  |
-| Neutropenia | 61 | 18 | 13 | 1.3 | 48 | 13 |  |  |  |  |  |  |  |
-| Leukopenia | 53 | 11 |  |  | 39 | 5 |  |  |  |  |  |  |  |
-| Thrombocytopenia | 43 | 3.3 | 12 | 1.0 | 29 | 2.8 |  |  |  |  |  |  |  |
-| Chemistry |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hyponatremia | 52 | 15 | 45 | 11 | 40 | 8 |  |  |  |  |  |  |  |
-| Hypocalcemia | 43 | 3.0 | 32 | 0 | 23 | 0.7 |  |  |  |  |  |  |  |
-| Increased creatinine | 41 | 2.3 | 15 | 0.7 | 31 | 0.7 |  |  |  |  |  |  |  |
-| Hypomagnesemia | 35 | 1.7 | 15 | 0 | 25 | 1.8 |  |  |  |  |  |  |  |
-| Hyperglycemia | 34 | 0 | 43 | 4.3 | 36 | 0.8 |  |  |  |  |  |  |  |
-| Hyperkalemia | 33 | 2.3 | 23 | 1.6 | 24 | 0.7 |  |  |  |  |  |  |  |
-| Hypokalemia | 29 | 9 | 19 | 5 | 17 | 6 |  |  |  |  |  |  |  |
-| Increased alkaline phosphatase | 26 | 1.3 | 31 | 3.3 | 15 | 0 |  |  |  |  |  |  |  |
-| Increased AST | 23 | 3.3 | 39 | 6 | 11 | 1.4 |  |  |  |  |  |  |  |
-| Increased ALT | 23 | 2.3 | 33 | 6 | 8 | 0.7 |  |  |  |  |  |  |  |
-| Hypoglycemia | 18 | 0.4 | 15 | 1.2 | 7 | 0 |  |  |  |  |  |  |  |
-| Hypercalcemia | 11 | 2.6 | 15 | 2.0 | 8 | 0 |  |  |  |  |  |  |  |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO with cisplatin and 5-FU group (range: 60 to 305 patients), OPDIVO and ipilimumab group (range: 59 to 307 patients) or cisplatin and 5-FU group (range: 56 to 283 patients). |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory Abnormality | OPDIVO with Cisplatin and 5 FU(n=310) |  | OPDIVO and Ipilimumab(n=322) |  | Cisplatin and 5-FU(n=304) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) | Grades 1-4 (%) | Grades 3-4 (%) |  |
+| Hematology |  |  |  |  |  |  |
+| Anemia | 81 | 21 | 52 | 7 | 66 | 14 |
+| Lymphopenia | 67 | 23 | 50 | 13 | 44 | 8 |
+| Neutropenia | 61 | 18 | 13 | 1.3 | 48 | 13 |
+| Leukopenia | 53 | 11 |  |  | 39 | 5 |
+| Thrombocytopenia | 43 | 3.3 | 12 | 1.0 | 29 | 2.8 |
+| Chemistry |  |  |  |  |  |  |
+| Hyponatremia | 52 | 15 | 45 | 11 | 40 | 8 |
+| Hypocalcemia | 43 | 3.0 | 32 | 0 | 23 | 0.7 |
+| Increased creatinine | 41 | 2.3 | 15 | 0.7 | 31 | 0.7 |
+| Hypomagnesemia | 35 | 1.7 | 15 | 0 | 25 | 1.8 |
+| Hyperglycemia | 34 | 0 | 43 | 4.3 | 36 | 0.8 |
+| Hyperkalemia | 33 | 2.3 | 23 | 1.6 | 24 | 0.7 |
+| Hypokalemia | 29 | 9 | 19 | 5 | 17 | 6 |
+| Increased alkaline phosphatase | 26 | 1.3 | 31 | 3.3 | 15 | 0 |
+| Increased AST | 23 | 3.3 | 39 | 6 | 11 | 1.4 |
+| Increased ALT | 23 | 2.3 | 33 | 6 | 8 | 0.7 |
+| Hypoglycemia | 18 | 0.4 | 15 | 1.2 | 7 | 0 |
+| Hypercalcemia | 11 | 2.6 | 15 | 2.0 | 8 | 0 |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: OPDIVO with cisplatin and 5-FU group (range: 60 to 305 patients), OPDIVO and ipilimumab group (range: 59 to 307 patients) or cisplatin and 5-FU group (range: 56 to 283 patients). |  |  |  |  |  |  |
 
 ### Previously-Treated Unresectable Advanced, Recurrent or Metastatic Esophageal Squamous Cell Carcinoma (ESCC)
 

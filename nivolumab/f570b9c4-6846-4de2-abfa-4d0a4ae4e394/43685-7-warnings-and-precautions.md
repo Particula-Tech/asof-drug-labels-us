@@ -400,7 +400,7 @@ Consider the benefit versus risks of treatment with a PD-1 receptor blocking ant
 Based on its mechanism of action and data from animal studies, OPDIVO can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, administration of nivolumab to cynomolgus monkeys from the onset of organogenesis through delivery resulted in increased abortion and premature infant death.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with OPDIVO and for at least 5 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with OPDIVO and for 5 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.5 Increased Mortality in Patients with Multiple Myeloma when OPDIVO Is Added to a Thalidomide Analogue and Dexamethasone
 
