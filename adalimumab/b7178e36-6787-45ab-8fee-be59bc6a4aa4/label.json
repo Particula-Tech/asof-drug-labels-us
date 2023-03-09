@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761024"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Amgen USA Inc.",
+  "package_ndcs": [
+    "72511-400-01",
+    "72511-400-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "adalimumab-atto",
+      "name": "AMJEVITA"
+    }
+  ],
+  "setid": "b7178e36-6787-45ab-8fee-be59bc6a4aa4",
+  "source": "dailymed"
+}
