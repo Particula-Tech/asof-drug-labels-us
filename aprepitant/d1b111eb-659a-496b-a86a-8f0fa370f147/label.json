@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216457"
+  ],
+  "inn": "aprepitant",
+  "labeler": "Heron Therapeutics, Inc.",
+  "package_ndcs": [
+    "47426-401-01",
+    "47426-401-10"
+  ],
+  "products": [
+    {
+      "form": "EMULSION",
+      "generic": "aprepitant",
+      "name": "APONVIE"
+    }
+  ],
+  "setid": "d1b111eb-659a-496b-a86a-8f0fa370f147",
+  "source": "dailymed"
+}
