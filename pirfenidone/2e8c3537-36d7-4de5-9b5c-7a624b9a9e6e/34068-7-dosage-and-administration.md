@@ -29,7 +29,8 @@ Patients should not take more than 3 doses per day.
 Patients who miss 14 or more days of ESBRIET should re-initiate treatment by undergoing the initial 2-week titration regimen up to the full maintenance dosage [see Dosage and Administration (2.2)].
 For treatment interruption of less than 14 days, the dosage prior to the interruption can be resumed.
 
-If patients experience significant adverse reactions (i.e., gastrointestinal, photosensitivity reaction or rash), consider temporary dosage reductions or interruptions of ESBRIET to allow for resolution of symptoms [see Warnings and Precautions (5.1, 5.2, 5.3)].
+If patients experience significant adverse reactions (i.e., gastrointestinal, photosensitivity reaction or rash, severe cutaneous adverse reactions (SCAR)), consider temporary dosage reductions or interruptions of ESBRIET to allow for resolution of symptoms.
+If a SCAR is confirmed, permanently discontinue ESBRIET [see Warnings and Precautions (5.1, 5.2, 5.3, 5.4)].
 
 Dosage Modification due to Elevated Liver Enzymes
 

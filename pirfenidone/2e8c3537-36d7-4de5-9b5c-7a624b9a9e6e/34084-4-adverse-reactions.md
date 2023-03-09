@@ -4,7 +4,8 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Liver Enzyme Elevations and Drug-Induced Liver Injury [see Warnings and Precautions (5.1)]
 - Photosensitivity Reaction or Rash [see Warnings and Precautions (5.2)]
-- Gastrointestinal Disorders [see Warnings and Precautions (5.3)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.3)]
+- Gastrointestinal Disorders [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -50,11 +51,13 @@ Adverse reactions occurring in ≥5 to <10% of ESBRIET-treated patients and more
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions identified from clinical trials the following adverse reactions have been identified during post-approval use of pirfenidone.
+In addition to adverse reactions identified from clinical trials the following adverse reactions have been identified during post-approval use of ESBRIET.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency.
 
-Blood and Lymphatic System Disorders Agranulocytosis
+Blood and Lymphatic System Disorders: Agranulocytosis
 
-Immune System Disorders Angioedema
+Hepatobiliary Disorders: Drug-induced liver injury
 
-Hepatobiliary Disorders Drug-induced liver injury [see Warnings and Precautions (5.1)]
+Immune System Disorders: Angioedema
+
+Skin and Subcutaneous Tissue Disorders: Severe Cutaneous Adverse Reactions (SCAR)
