@@ -1,7 +1,7 @@
 Manufactured by: Revance Therapeutics, Inc. Newark, CA 94560 U.S. License Number 2101
 
-© 20XX Revance Therapeutics, Inc.
+© 2022 Revance Therapeutics, Inc.
 
 DAXXIFY is a trademark of Revance Therapeutics, Inc.
 
-PI761127-3.1
+PI761127-0.8

@@ -36,16 +36,7 @@ Safety and effectiveness of DAXXIFY in patients less than 18 years of age have n
 
 ## 8.5 Geriatric Use
 
-Glabellar Lines
-
 Among the 406 subjects treated with DAXXIFY in the placebo-controlled clinical trials, 36 subjects were 65 years or older.
-There was no increase in the incidence of treatment-related adverse events in patients over 65 years treated with DAXXIFY.
-Clinical studies of DAXXIFY did not include sufficient numbers of subjects aged 65 and older to determine whether they responded differently from younger subjects.
-[see Clinical Studies (14)]
-
-Cervical Dystonia
-
-Among the 255 subjects treated with DAXXIFY in the placebo-controlled clinical trial, 83 subjects were 65 years or older.
 There was no increase in the incidence of treatment-related adverse events in patients over 65 years treated with DAXXIFY.
 Clinical studies of DAXXIFY did not include sufficient numbers of subjects aged 65 and older to determine whether they responded differently from younger subjects.
 [see Clinical Studies (14)]

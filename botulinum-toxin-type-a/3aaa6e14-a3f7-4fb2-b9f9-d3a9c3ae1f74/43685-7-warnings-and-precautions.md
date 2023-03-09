@@ -5,9 +5,10 @@
 Postmarketing safety data from other approved botulinum toxins suggest that botulinum toxin effects may be observed beyond the site of local injection.
 The symptoms are consistent with the mechanism of action of botulinum toxin and may include asthenia, generalized muscle weakness, diplopia, blurred vision, ptosis, dysphagia, dysphonia, dysarthria, urinary incontinence, and breathing difficulties.
 These symptoms have been reported hours to weeks after injection.
-Swallowing and breathing difficulties can be life-threatening and there have been reports of death related to the spread of toxin effects.
+Swallowing and breathing difficulties can be life threatening and there have been reports of death related to the spread of toxin effects.
 The risk of symptoms is greatest in children treated for spasticity, but symptoms can occur in adults treated for spasticity and other conditions, and particularly in those patients who have underlying conditions that would predispose them to these symptoms.
 In unapproved uses, including upper limb spasticity in children and approved indications, symptoms consistent with spread of toxin effect have been reported at doses comparable to or lower than the maximum recommended total dose.
+DAXXIFY is not approved for treatment of spasticity or any conditions other than glabellar lines.
 Patients or caregivers should be advised to seek immediate medical care if swallowing, speech or respiratory difficulties occur.
 
 Although no serious adverse reactions of distant spread of toxin effect associated with DAXXIFY have been reported in clinical studies of 40 Units for glabellar lines, these reactions are possible.
@@ -21,7 +22,7 @@ They are not interchangeable with other preparation of botulinum toxin products 
 
 Serious adverse reactions, including excessive weakness, dysphagia, and aspiration pneumonia, with some adverse reactions associated with fatal outcomes, have been reported in patients who received botulinum toxin injections for unapproved uses.
 In these cases, the adverse reactions may have resulted from the administration of botulinum toxin products to the site of injection and/or adjacent structures.
-In some cases, patients had pre- existing dysphagia or other significant disabilities.
+In some cases, patients had pre-existing dysphagia or other significant disabilities.
 There is insufficient information to identify factors associated with an increased risk for adverse reactions associated with the unapproved uses of botulinum toxin products.
 
 ## 5.4 Hypersensitivity Reactions
@@ -29,7 +30,7 @@ There is insufficient information to identify factors associated with an increas
 Serious and/or immediate hypersensitivity reactions have been reported for botulinum toxin products.
 These reactions include anaphylaxis, serum sickness, urticaria, soft tissue edema, and dyspnea.
 If such a reaction occurs, discontinue further injection of DAXXIFY and immediately institute appropriate medical therapy.
-The use of DAXXIFY in patients with a known hypersensitivity to any botulinum toxin preparation, DAXXIFY or any of its formulation components could lead to a life-threatening allergic reaction.
+The use of DAXXIFY in patients with a known hypersensitivity to any botulinum toxin preparation, DAXXIFY or any of its formulation components could lead to a life threatening allergic reaction.
 [see Contraindications (4.1)]
 
 ## 5.5 Cardiovascular System
@@ -61,11 +62,11 @@ There have been postmarketing reports from other botulinum toxin products of ser
 
 Patients treated with botulinum toxin may require immediate medical attention should they develop problems with swallowing, speech or respiratory disorders.
 
-## 5.8 Facial Anatomy in the Treatment of Glabellar Lines
+## 5.8 Pre-existing Conditions at the Injection Site
 
 Use caution when administering DAXXIFY to patients with surgical alterations to the facial anatomy, marked facial asymmetry, excessive dermatochalasis, deep dermal scarring, thick sebaceous skin, inflammation at the injection site(s), pre-existing eyelid or eyebrow ptosis, when excessive weakness or atrophy is present in the target muscles, or the inability to substantially lessen glabellar lines even by physically spreading them apart.
 
-## 5.9 Ophthalmic Adverse Reactions in Patients Treated for Glabellar Lines
+## 5.9 Ophthalmic Adverse Reactions
 
 Dry eye has been reported with the use of botulinum toxin products in the treatment of glabellar lines.
 Reduced tear production, reduced blinking, and corneal disorders may occur with use of botulinum toxins, including DAXXIFY.
