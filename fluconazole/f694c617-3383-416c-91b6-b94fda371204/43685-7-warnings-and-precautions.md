@@ -64,6 +64,12 @@ Therefore, caution should be exercised when using these combinations and the pat
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between DIFLUCAN and the following agents/classes have been observed and are described in greater detail below:
 
+### Abrocitinib
+
+Drug interaction studies indicate that when coadministered with fluconazole (strong inhibitor of CYP2C19; moderate inhibitor of CYP2C9 and CYP3A4), the systemic exposure of abrocitinib and its active metabolites increased (See CLINICAL PHARMACOLOGY).
+Avoid concomitant use of abrocitinib with DIFLUCAN.
+Refer to the abrocitinib Prescribing Information for additional details.
+
 ### Alfentanil
 
 A study observed a reduction in clearance and distribution volume as well as prolongation of t½ of alfentanil following concomitant treatment with fluconazole.

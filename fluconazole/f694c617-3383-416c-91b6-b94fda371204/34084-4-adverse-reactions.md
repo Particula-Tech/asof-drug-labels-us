@@ -22,9 +22,9 @@ Treatment was discontinued in 1.5% of patients due to adverse clinical events an
 Clinical adverse events were reported more frequently in HIV infected patients (21%) than in non-HIV infected patients (13%); however, the patterns in HIV infected and non-HIV infected patients were similar.
 The proportions of patients discontinuing therapy due to clinical adverse events were similar in the two groups (1.5%).
 
-The following treatment-related clinical adverse events occurred at an incidence of 1% or greater in 4048 patients receiving DIFLUCAN for 7 or more days in clinical trials: nausea 3.7%, headache 1.9%, skin rash 1.8%, vomiting 1.7%, abdominal pain 1.7%, and diarrhea 1.5%.
+The following treatment-related clinical adverse events occurred at an incidence of 1% or greater in 4048 patients receiving DIFLUCAN for 7 or more days in clinical trials: nausea 3.7%, headache 1.9%, skin rash 1.8%, vomiting 1.7%, abdominal pain 1.7%, and diarrhea 1.5%
 
-### Hepato-biliary
+## Hepato-biliary
 
 In combined clinical trials and marketing experience, there have been rare cases of serious hepatic reactions during treatment with DIFLUCAN.
 (See WARNINGS.)
@@ -36,7 +36,7 @@ In each of these cases, liver function returned to baseline on discontinuation o
 In two comparative trials evaluating the efficacy of DIFLUCAN for the suppression of relapse of cryptococcal meningitis, a statistically significant increase was observed in median AST (SGOT) levels from a baseline value of 30 IU/L to 41 IU/L in one trial and 34 IU/L to 66 IU/L in the other.
 The overall rate of serum transaminase elevations of more than 8 times the upper limit of normal was approximately 1% in fluconazole-treated patients in clinical trials.
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
-The incidence of abnormally elevated serum transaminases was greater in patients taking DIFLUCAN concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
+The incidence of abnormally elevated serum transaminases was greater in patients taking DIFLUCAN concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents
 
 ## Post-Marketing Experience
 
@@ -63,7 +63,7 @@ Musculoskeletal System: myalgia.
 
 Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
 
-Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia.
+Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia
 
 ## Adverse Reactions in Children
 

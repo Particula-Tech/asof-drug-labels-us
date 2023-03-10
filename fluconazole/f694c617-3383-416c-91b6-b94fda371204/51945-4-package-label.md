@@ -69,7 +69,7 @@ Just one oral tablet provides a full course of therapy sufficient to cure most v
 
 Some important things to know about Diflucan
 
-- Diflucan may be taken anytime—day or night, with or without meals—so you should take it by mouth immediately to ensure the earliest possible relief from the infection and its symptoms.
+- •Diflucan may be taken anytime—day or night, with or without meals—so you should take it by mouth immediately to ensure the earliest possible relief from the infection and its symptoms.
 
 Rx only
 
