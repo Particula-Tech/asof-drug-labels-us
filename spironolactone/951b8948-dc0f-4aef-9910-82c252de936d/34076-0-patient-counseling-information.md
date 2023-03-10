@@ -5,18 +5,10 @@ Patients who receive spironolactone should be advised to avoid potassium supplem
 This product’s label may have been updated.
 For current full prescribing information, please visit www.amneal.com.
 
-Manufactured by:
+Manufactured by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Ahmedabad 382220, INDIA
-
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2020-05
+01-2023-06

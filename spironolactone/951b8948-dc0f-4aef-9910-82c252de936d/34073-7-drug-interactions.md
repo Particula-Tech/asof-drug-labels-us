@@ -38,3 +38,8 @@ Hyperkalemic metabolic acidosis has been reported in patients given spironolacto
 
 Acetylsalicylic acid may reduce the efficacy of spironolactone.
 Therefore, when spironolactone and acetylsalicylic acid are used concomitantly, spironolactone may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3)].
+
+## 7.7 Abiraterone
+
+Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients.
+Concomitant use of spironolactone and abiraterone is not recommended.
