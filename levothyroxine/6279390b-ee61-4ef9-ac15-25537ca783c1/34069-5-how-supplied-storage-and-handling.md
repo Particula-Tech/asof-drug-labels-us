@@ -14,12 +14,12 @@ Discard any unused portion.
 
 Manufactured for:
 
-Leucadia Pharmaceuticals
+Hikma Pharmaceuticals USA Inc.
 
-Carlsbad, CA 92011 USA
+Berkeley Heights, NJ 07922
 
-www.leucadiapharma.com
+www.hikma.com/us
 
-Revised: 05/2021
+Revised: 11/2022
 
-INS-0017-R1
+INS-0017-R2
