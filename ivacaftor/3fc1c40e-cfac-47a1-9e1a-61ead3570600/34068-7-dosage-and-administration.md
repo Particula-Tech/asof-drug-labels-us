@@ -8,12 +8,12 @@ Table 1: Recommended Oral Dosage of ORKAMBI in Patients Aged 1 Year and Older
 
 | Morning Dose | Evening Dose |  |  |
 | --- | --- | --- | --- |
-| Age | Weight | ORKAMBI Daily Dose (every 12 hours) |  |
-| 1 through 2 years | 7 kg to <9 kg | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg granules | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg granules |
-| 9 kg to <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg granules | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg granules |  |
-| ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg granules | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg granules |  |
-| 2 through 5 years | <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg granules | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg granules |
-| ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg granules | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg granules |  |
+| Age Group | Weight | ORKAMBI Daily Dose (every 12 hours) |  |
+| 1 through 2 years | 7 kg to <9 kg | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg oral granules | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg oral granules |
+| 9 kg to <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |  |
+| ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules |  |
+| 2 through 5 years | <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |
+| ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules |  |
 | 6 through 11 years | - | 2 tablets of lumacaftor 100 mg/ivacaftor 125 mg (lumacaftor 200 mg/ivacaftor 250 mg per dose) | 2 tablets of lumacaftor 100 mg/ivacaftor 125 mg (lumacaftor 200 mg/ivacaftor 250 mg per dose) |
 | 12 years and older | - | 2 tablets of lumacaftor 200 mg/ivacaftor 125 mg (lumacaftor 400 mg/ivacaftor 250 mg per dose) | 2 tablets of lumacaftor 200 mg/ivacaftor 125 mg (lumacaftor 400 mg/ivacaftor 250 mg per dose) |
 
@@ -41,11 +41,11 @@ A double dose should not be taken to make up for the forgotten dose [see Clinica
 For dose adjustment for patients with hepatic impairment, refer to Table 2.
 
 Studies have not been conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
-Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 tablet in the evening or less frequently, or 1 packet of oral granules once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Dosage and Administration (2.1) Use in Specific Populations (8.6), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
+Therefore, use with caution at a maximum dose of 1 tablet in the morning and 1 tablet in the evening or less frequently, or 1 packet of oral granules once daily or less frequently in patients with severe hepatic impairment after weighing the risks and benefits of treatment [see Dosage and Administration (2.1), Use in Specific Populations (8.6), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
 
 Table 2: Recommended Dosage for Patients with Hepatic Impairment
 
-|  | Age group | Weight | Morning | Evening |
+|  | Age Group | Weight | Morning Dose | Evening Dose |
 | --- | --- | --- | --- | --- |
 | Mild (Child-Pugh Class A) | 1 through 2 years | 7 kg to <9 kg | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg oral granules | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg oral granules |
 | 9 kg to <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |  |  |
@@ -61,7 +61,7 @@ Table 2: Recommended Dosage for Patients with Hepatic Impairment
 | ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules every other day |  |  |
 | 6 through 11 years | - | 2 tablets of lumacaftor 100 mg/ivacaftor 125 mg (lumacaftor 200 mg/ivacaftor 250 mg per dose) | 1 tablet of lumacaftor 100 mg/ivacaftor 125 mg |  |
 | 12 years and older | - | 2 tablets of lumacaftor 200 mg/ivacaftor 125 mg (lumacaftor 400 mg/ivacaftor 250 mg per dose) | 1 tablet of lumacaftor 200 mg/ivacaftor 125 mg |  |
-| Severe (Child-Pugh Class C) | 1 through 2 years | 7 kg to <9 kg | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg oral granules or less frequently. | N/A |
+| Severe (Child-Pugh Class C) | 1 through 2 years | 7 kg to <9 kg | 1 packet of lumacaftor 75 mg/ivacaftor 94 mg oral granulesor less frequently. | N/A |
 | 9 kg to <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |  |  |  |
 | ≥14 kg | 1 packet of lumacaftor 150 mg/ivacaftor 188 mg oral granules |  |  |  |
 | 2 through 5 years | <14 kg | 1 packet of lumacaftor 100 mg/ivacaftor 125 mg oral granules |  |  |
@@ -79,7 +79,7 @@ However, when initiating ORKAMBI in patients currently taking strong CYP3A inhib
 
 Following this one-week period, resume the recommended daily dosage.
 
-If ORKAMBI is interrupted for more than 1-week and then re-initiated while taking strong CYP3A inhibitors, reduce the ORKAMBI dosage for the first week of treatment re-initiation based on age as follows:
+If ORKAMBI is interrupted for more than one-week and then re-initiated while taking strong CYP3A inhibitors, reduce the ORKAMBI dosage for the first week of treatment re-initiation based on age as follows:
 
 - 1 through 5 years of age: 1 packet of granules every other day
 - 6 years of age and older: 1 tablet daily

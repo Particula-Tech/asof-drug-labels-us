@@ -66,7 +66,7 @@ Use of ORKAMBI in these age groups is supported by evidence from adequate and we
 - Safety data were obtained from a 24-week, open-label, clinical trial in 58 patients aged 6 through 11 years, mean age 9 years (Trial 3) and a 24-week, placebo-controlled, clinical trial in 204 patients aged 6 through 11 years (Trial 4).
   Trial 3 evaluated subjects with a screening ppFEV1 ≥40 [mean ppFEV1 91.4 at baseline (range: 55 to 122.7)].
   Trial 4 evaluated subjects with a screening ppFEV1 ≥70 [mean ppFEV1 89.8 at baseline (range: 48.6 to 119.6)].
-  The safety profile of ORKAMBI in pediatric patients 6 through 11 years of age was similar to that in patients 12 years and older [see Adverse Reactions (6.1)].
+  The safety profile of ORKAMBI in pediatric patients 6 through 11 years of age was similar to that in patients aged 12 years and older [see Adverse Reactions (6.1)].
   In Trial 3, spirometry (ppFEV1) was assessed as a planned safety endpoint.
   The within-group LS mean absolute change from baseline in ppFEV1 at Week 24 was 2.5 percentage points.
   At the Week 26 safety follow-up visit (following a planned discontinuation) ppFEV1 was also assessed.

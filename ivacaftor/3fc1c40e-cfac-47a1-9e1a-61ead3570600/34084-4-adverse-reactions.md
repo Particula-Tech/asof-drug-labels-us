@@ -11,7 +11,7 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The overall safety profile of ORKAMBI is based on the pooled data from 1108 patients with CF 12 years and older who are homozygous for the F508del mutation in the CFTR gene and who received at least one dose of study drug in two double-blind, placebo-controlled, Phase 3 clinical trials, each with 24 weeks of treatment (Trials 1 and 2).
+The overall safety profile of ORKAMBI is based on the pooled data from 1108 patients with CF aged 12 years and older who are homozygous for the F508del mutation in the CFTR gene and who received at least one dose of study drug in two double-blind, placebo-controlled, Phase 3 clinical trials, each with 24 weeks of treatment (Trials 1 and 2).
 
 In addition, the following clinical trials have been conducted:
 
@@ -21,7 +21,7 @@ In addition, the following clinical trials have been conducted:
 - A 24-week, open-label trial (Trial 6) in 60 patients aged 2 through 5 years homozygous for the F508del-CFTR mutation.
 - A 24-week, open-label trial (Trial 7) in 46 patients aged 1 through 2 years homozygous for the F508del-CFTR mutation.
 
-Of the 1108 patients, in the pooled analyses of Trial 1 and Trial 2, 49% were female and 99% were Caucasian; 369 patients received ORKAMBI every 12 hours and 370 received placebo.
+Of the 1108 patients, in the pooled analyses of Trial 1 and Trial 2, 49% were female and 99% were Caucasian; 369 patients received ORKAMBI every 12 hours and 370 patients received placebo.
 
 The proportion of patients who prematurely discontinued study drug due to adverse events was 5% for patients treated with ORKAMBI and 2% for patients who received placebo.
 
@@ -60,7 +60,7 @@ Description of Selected Adverse Drug Reactions
 
 Liver-related Adverse Reactions
 
-In Trials 1 and 2, the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN elevations was similar between patients treated with ORKAMBI and those who received placebo.
+In Trials 1 and 2, the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN elevations were similar between patients treated with ORKAMBI and those who received placebo.
 Three patients who received ORKAMBI had liver-related serious adverse reactions, including two reported as transaminase elevations and one as hepatic encephalopathy, compared to none in the placebo group.
 Of these three, one had elevated transaminases (>3 × ULN) associated with bilirubin elevation >2 × ULN.
 Following discontinuation or interruption of ORKAMBI, transaminases decreased to <3 × ULN.
@@ -72,7 +72,7 @@ During the 24-week, open-label, clinical trial in 58 patients aged 6 through 11 
 No patients had total bilirubin levels >2 × ULN.
 Lumacaftor/ivacaftor dosing was maintained or successfully resumed after interruption in all patients with transaminase elevations, except one patient who discontinued treatment permanently.
 
-During the 24-week, placebo-controlled, clinical trial in 204 patients aged 6 through 11 years (Trial 4), the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN was 1%, 5%, and 13% in the lumacaftor/ivacaftor patients, and 2%, 3%, and 8% in the placebo treated patients.
+During the 24-week, placebo-controlled, clinical trial in 204 patients aged 6 through 11 years (Trial 4), the incidence of maximum transaminase (ALT or AST) levels >8, >5, and >3 × ULN was 1%, 5%, and 13% in the lumacaftor/ivacaftor patients, and 2%, 3%, and 8% in the placebo-treated patients.
 No patients had total bilirubin levels >2 × ULN.
 Two patients in the lumacaftor/ivacaftor group and two patients in the placebo group discontinued treatment permanently due to transaminase elevations.
 
@@ -90,11 +90,11 @@ In Trials 1 and 2, the incidence of respiratory symptom-related adverse reaction
 The incidence of these adverse reactions was more common in patients treated with ORKAMBI with lower pre-treatment FEV1.
 In patients treated with ORKAMBI, the majority of the events began during the first week of treatment [see Warnings and Precautions (5.3)].
 
-During a 24-week, open-label, clinical trial in 46 patients aged 12 years and older (Trial 5) with advanced lung disease (ppFEV1 <40) [mean ppFEV1 29.1 at baseline (range: 18.3 to 42.0)], the incidence of respiratory symptom-related adverse reactions was 65% [see Warnings and Precautions (5.3)].
+During the 24-week, open-label, clinical trial in 46 patients aged 12 years and older (Trial 5) with advanced lung disease (ppFEV1 <40) [mean ppFEV1 29.1 at baseline (range: 18.3 to 42.0)], the incidence of respiratory symptom-related adverse reactions was 65% [see Warnings and Precautions (5.3)].
 
 During the 24-week, open-label, clinical trial (Trial 3) in 58 patients aged 6 through 11 years (mean baseline ppFEV1 was 91.4), the incidence of respiratory symptom-related adverse reactions was 3% (2/58).
 
-During the 24-week, placebo-controlled, clinical trial (Trial 4) in patients aged 6 through 11 years (mean ppFEV1 89.8 at baseline [range: 48.6 to 119.6]), the incidence of respiratory symptom-related adverse reactions was 11% in lumacaftor/ivacaftor patients and 9% in placebo patients.
+During the 24-week, placebo-controlled, clinical trial (Trial 4) in patients aged 6 through 11 years [mean ppFEV1 89.8 at baseline (range: 48.6 to 119.6)], the incidence of respiratory symptom-related adverse reactions was 11% in lumacaftor/ivacaftor patients and 9% in placebo patients.
 A decline in ppFEV1 at initiation of therapy was observed during serial post-dose spirometry assessments.
 The absolute change from pre-dose at 4-6 hours post-dose was -7.7 on Day 1 and -1.3 on Day 15 in lumacaftor/ivacaftor patients.
 The post-dose decline was resolved by Week 16.

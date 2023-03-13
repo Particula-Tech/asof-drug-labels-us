@@ -4,6 +4,6 @@ ORKAMBI, the ORKAMBI logo, VERTEX, and the VERTEX triangle logo are registered t
 
 All other trademarks referenced herein are the property of their respective owners.
 
-©2022 Vertex Pharmaceuticals Incorporated
+©2023 Vertex Pharmaceuticals Incorporated
 
 ALL RIGHTS RESERVED

@@ -110,5 +110,5 @@ Monitor the international normalized ratio (INR) when warfarin co-administration
 
 ## 7.15 Concomitant Drugs That Do Not Need Dose Adjustment
 
-No dosage adjustment of ORKAMBI or concomitant drug is recommended when ORKAMBI is given with the following: azithromycin, aztreonam, budesonide, ceftazidime, cetirizine, ciprofloxacin, colistimethate, colistin, dornase alfa, fluticasone, ipratropium, levofloxacin, pancreatin, pancrelipase, salbutamol, salmeterol, sulfamethoxazole and trimethoprim, tiotropium, and tobramycin.
+No dosage adjustment of ORKAMBI or concomitant drug is recommended when ORKAMBI is given with the following: azithromycin, aztreonam, budesonide, ceftazidime, cetirizine, ciprofloxacin, colistimethate, colistin, dornase alfa, fluticasone, ipratropium, levofloxacin, pancreatin, pancrelipase, salbutamol, salmeterol, sulfamethoxazole, trimethoprim, tiotropium, and tobramycin.
 Based on the metabolism and route of elimination, ORKAMBI is not expected to impact the exposure of these drugs.

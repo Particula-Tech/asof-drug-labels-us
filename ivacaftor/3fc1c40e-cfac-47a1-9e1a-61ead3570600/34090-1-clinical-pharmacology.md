@@ -17,8 +17,8 @@ Sweat Chloride Evaluation
 
 Changes in sweat chloride in response to relevant doses of lumacaftor alone or in combination with ivacaftor were evaluated in a double-blind, placebo-controlled, Phase 2 clinical trial in patients with CF 18 years of age and older either homozygous or heterozygous for the F508del mutation.
 In that trial, 10 patients (homozygous for F508del) completed dosing with lumacaftor alone 400 mg q12h for 28 days followed by the addition of ivacaftor 250 mg q12h for an additional 28 days and 25 patients (homozygous or heterozygous for F508del) completed dosing with placebo.
-The treatment difference between lumacaftor 400 mg q12h alone and placebo evaluated as mean change in sweat chloride from baseline to Day 28 compared to placebo was -8.2 mmol/L (95% CI -14, -2).
-The treatment difference between the combination of lumacaftor 400 mg/ivacaftor 250 mg q12h and placebo evaluated as mean change in sweat chloride from baseline to Day 56 compared to placebo was -11 mmol/L (95% CI -18, -4).
+The treatment difference between lumacaftor 400 mg q12h alone and placebo evaluated as mean change in sweat chloride from baseline to Day 28 compared to placebo was -8.2 mmol/L (95% CI: -14, -2).
+The treatment difference between the combination of lumacaftor 400 mg/ivacaftor 250 mg q12h and placebo evaluated as mean change in sweat chloride from baseline to Day 56 compared to placebo was -11 mmol/L (95% CI: -18, -4).
 
 Changes in sweat chloride in response to lumacaftor/ivacaftor were also evaluated in a 24-week, open-label, clinical trial (Trial 3) in 58 patients with CF, aged 6 through 11 years (homozygous for F508del) who received lumacaftor 200 mg/ivacaftor 250 mg q12h for 24 weeks.
 Patients treated with lumacaftor/ivacaftor had a reduction in sweat chloride at Day 15 that was sustained through Week 24.
@@ -51,7 +51,7 @@ In Trials 1 and 2, a similar decrease in heart rate was observed in patients dur
 
 The exposure (AUC) of lumacaftor is approximately 2-fold higher in healthy adult volunteers compared to exposure in patients with CF.
 The exposure of ivacaftor is similar between healthy adult volunteers and patients with CF.
-After twice-daily dosing, steady-state plasma concentrations of lumacaftor and ivacaftor in healthy subjects were generally reached after approximately 7 days of treatment, with an accumulation ratio of approximately 1.9 for lumacaftor.
+After twice daily dosing, steady-state plasma concentrations of lumacaftor and ivacaftor in healthy subjects were generally reached after approximately 7 days of treatment, with an accumulation ratio of approximately 1.9 for lumacaftor.
 The steady-state exposure of ivacaftor is lower than that of Day 1 due to the CYP3A induction effect of lumacaftor.
 
 Table 4: Mean (SD) Pharmacokinetic Parameters of Lumacaftor and Ivacaftor at Steady-State in Subjects with CF
@@ -110,19 +110,19 @@ The following conclusions about exposures between adults and the pediatric popul
 
 Table 5: Mean (SD) Lumacaftor and Ivacaftor Exposure by Age Group
 
-| Age Group | Weight | Dose | Mean Lumacaftor (SD)The mean lumacaftor (SD) AUCss is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets. AUCss (µg∙h/mL) | Mean Ivacaftor (SD)The mean lumacaftor (SD) AUCss is comparable to the mean AUCss in patients 12 years and older administered ORKAMBI tablets. AUCss (µg∙h/mL) |
+| Age Group | Weight | Dose | Mean Lumacaftor (SD)The mean lumacaftor (SD) AUCss is comparable to the mean AUCss in patients aged 12 years and older administered ORKAMBI tablets. AUCss (µg∙h/mL) | Mean Ivacaftor (SD)The mean ivacaftor (SD) AUCss is comparable to the mean AUCss in patients aged 12 years and older administered ORKAMBI tablets. AUCss (µg∙h/mL) |
 | --- | --- | --- | --- | --- |
-| Patients aged 1 to <2 years | 7 kg to <9 kg | lumacaftor 75 mg/ivacaftor 94 mg every 12 hr. | 234 | 7.98 |
-| 9 kg to <14 kg | lumacaftor 100 mg/ivacaftor 125 mg every 12 hr. | 191 (40.6) | 5.35 (1.61) |  |
-| ≥14 kg | lumacaftor 150 mg/ivacaftor 188 mg every 12 hr. | 116 | 5.82 |  |
-| Patients aged 2 through 5 years | <14 kg | lumacaftor 100 mg/ivacaftor 125 mg every 12 hr. | 180 (45.5) | 5.92 (4.61) |
-| ≥14 kg | lumacaftor 150 mg/ivacaftor 188 mg every 12 hr. | 217 (48.6) | 5.90 (1.93) |  |
-| Patients aged 6 through 11 years | - | lumacaftor 200 mg/ivacaftor 250 mg every 12 hr. | 203 (57.4) | 5.26 (3.08) |
-| Patients aged 12 to <18 years | - | lumacaftor 400 mg/ivacaftor 250 mg every 12 hr. | 241 (61.4) | 3.90 (1.56) |
+| Patients aged 1 to <2 years | 7 kg to <9 kg | lumacaftor 75 mg/ivacaftor 94 mg every 12 hours. | 234 | 7.98 |
+| 9 kg to <14 kg | lumacaftor 100 mg/ivacaftor 125 mg every 12 hours. | 191 (40.6) | 5.35 (1.61) |  |
+| ≥14 kg | lumacaftor 150 mg/ivacaftor 188 mg every 12 hours. | 116 | 5.82 |  |
+| Patients aged 2 through 5 years | <14 kg | lumacaftor 100 mg/ivacaftor 125 mg every 12 hours. | 180 (45.5) | 5.92 (4.61) |
+| ≥14 kg | lumacaftor 150 mg/ivacaftor 188 mg every 12 hours. | 217 (48.6) | 5.90 (1.93) |  |
+| Patients aged 6 through 11 years | - | lumacaftor 200 mg/ivacaftor 250 mg every 12 hours. | 203 (57.4) | 5.26 (3.08) |
+| Patients aged 12 to <18 years | - | lumacaftor 400 mg/ivacaftor 250 mg every 12 hours. | 241 (61.4) | 3.90 (1.56) |
 
 Male and Female Patients
 
-The pharmacokinetics of ORKAMBI was evaluated using a population PK analysis of data from clinical studies of lumacaftor given in combination with ivacaftor.
+The pharmacokinetics of ORKAMBI was evaluated using a population PK analyses of data from clinical studies of lumacaftor given in combination with ivacaftor.
 Results indicate no clinically relevant difference in pharmacokinetic parameters for lumacaftor and ivacaftor between males and females.
 
 Patients with Renal Impairment

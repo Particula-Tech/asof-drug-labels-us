@@ -28,7 +28,7 @@ Patients took the study drug with fat-containing food for 24 weeks in addition t
 The primary efficacy endpoint in both trials was change in lung function as determined by absolute change from baseline in ppFEV1 at Week 24, assessed as the average of the treatment effects at Week 16 and at Week 24.
 In both trials, treatment with ORKAMBI resulted in a statistically significant improvement in ppFEV1.
 The treatment difference between ORKAMBI and placebo for the mean absolute change in ppFEV1 from baseline at Week 24 (assessed as the average of the treatment effects at Week 16 and at Week 24) was 2.6 percentage points [95% CI (1.2, 4.0)] in Trial 1 (P=0.0003) and 3.0 percentage points [95% CI (1.6, 4.4)] in Trial 2 (P<0.0001).
-These changes persisted throughout the 24-week treatment period (Figure 1).
+These changes persisted throughout the 24-week treatment period (see Figure 1).
 Improvements in ppFEV1 were observed regardless of age, disease severity, sex, and geographic region.
 
 | Figure 1. Absolute Change From Baseline at Each Visit in Percent Predicted FEV1 in Trial 1 and Trial 2. |  |
