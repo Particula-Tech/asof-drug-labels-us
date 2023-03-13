@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA080531"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-437-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "prednisolone",
+      "name": "Prednisolone"
+    }
+  ],
+  "setid": "2e965355-f7f2-4dd3-9c5c-1524c6f39c91",
+  "source": "dailymed"
+}

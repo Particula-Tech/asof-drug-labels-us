@@ -1,0 +1,3 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+PrednisoLONE Tablets, USP 5 mg - NDC 62135-437-30 - 30's Bottle Label

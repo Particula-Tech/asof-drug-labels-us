@@ -1,0 +1,3 @@
+# CONTRAINDICATIONS
+
+Systemic fungal infections
