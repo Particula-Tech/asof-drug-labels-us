@@ -84,4 +84,4 @@ How to open the blister: 1.Tear (You may also use scissors to tear the blister a
 
 The brands listed are trademarks or registered trademarks of their respective owners.
 
-Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: September 2022
+Manufactured by: Cadila Pharmaceuticals Limited 1389 Trasad Road, Dholka – 382225, District - Ahmedabad, Gujarat, INDIA Revised: February 2023
