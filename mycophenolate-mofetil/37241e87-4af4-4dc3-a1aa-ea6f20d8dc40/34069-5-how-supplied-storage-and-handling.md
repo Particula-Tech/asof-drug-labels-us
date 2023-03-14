@@ -19,7 +19,7 @@ Follow applicable special handling and disposal procedures1.
 
 ## 16.3 CELLCEPT (mycophenolate mofetil tablets) 500 mg
 
-| Tablets Lavender-colored, caplet-shaped, film-coated tablets printed in black with "CELLCEPT 500" on one side and "Roche" on the other |  |
+| Tablets Lavender-colored, caplet-shaped, film-coated tablets engraved with "CELLCEPT 500" on one side and "Roche" on the other |  |
 | --- | --- |
 | Sizes |  |
 | Bottle of 100 | NDC 0004-0260-01 |

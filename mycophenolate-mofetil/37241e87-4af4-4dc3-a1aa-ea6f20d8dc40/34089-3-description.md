@@ -20,7 +20,7 @@ CELLCEPT is available for oral administration as capsules containing 250 mg of M
 Inactive ingredients in CELLCEPT 250 mg capsules include croscarmellose sodium, magnesium stearate, povidone (K-90) and pregelatinized starch.
 The capsule shells contain black iron oxide, FD&C blue #2, gelatin, red iron oxide, silicon dioxide, sodium lauryl sulfate, titanium dioxide, and yellow iron oxide.
 
-Inactive ingredients in CELLCEPT 500 mg tablets include croscarmellose sodium, magnesium stearate, microcrystalline cellulose, povidone (K-90), Opadry® lavender Y-5R-10272-A (hydroxypropyl methylcellulose, hydroxypropyl cellulose, titanium dioxide, polyethylene glycol 400, FD&C Blue No. 2 aluminum lake [indigo carmine aluminum lake], and red iron oxide), talc, Opacode black S-1-17838 (black iron and shellac).
+Inactive ingredients in CELLCEPT 500 mg tablets include croscarmellose sodium, magnesium stearate, microcrystalline cellulose, povidone (K-90), and Opadry® lavender Y-5R-10272-A (hydroxypropyl methylcellulose, hydroxypropyl cellulose, titanium dioxide, polyethylene glycol 400, FD&C Blue No. 2 aluminum lake [indigo carmine aluminum lake], and red iron oxide).
 
 Inactive ingredients in CELLCEPT Oral Suspension include aspartame, citric acid anhydrous, colloidal silicon dioxide, methylparaben, mixed fruit flavor, sodium citrate dihydrate, sorbitol, soybean lecithin, and xanthan gum.
 

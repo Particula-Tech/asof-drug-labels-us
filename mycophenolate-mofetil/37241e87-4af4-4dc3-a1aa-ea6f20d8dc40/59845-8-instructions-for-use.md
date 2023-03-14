@@ -48,6 +48,8 @@ How should I store CELLCEPT Oral Suspension?
 
 Keep CELLCEPT Oral Suspension and all medicines out of the reach of children.
 
+Distributed by: Genentech USA, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 ©2022 Genentech, Inc. All rights reserved.
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: August 2022
