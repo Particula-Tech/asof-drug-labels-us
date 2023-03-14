@@ -2,7 +2,9 @@
 
 NovoLog® (NŌ-vō-log)
 
-(insulin aspart) injection
+(insulin aspart)
+
+injection, for subcutaneous or intravenous use
 
 Do not share your NovoLog FlexPen, NovoLog FlexTouch, PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
@@ -110,13 +112,15 @@ For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 3/2021
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
 NovoLog® (NŌ-vō-log)
 
-(insulin aspart) injection
+(insulin aspart)
+
+injection, for subcutaneous or intravenous use
 
 10 mL multiple-dose vial (100 Units/mL, U-100)
 
@@ -254,7 +258,7 @@ NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 Patent Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2021 Novo Nordisk
+© 2023 Novo Nordisk
 
 For information about NovoLog contact:
 
@@ -268,18 +272,22 @@ Plainsboro, New Jersey 08536
 
 www.novonordisk-us.com
 
-Revised: 10/2021
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
-NovoLog® (NŌ-vō-log) PenFill® 3 mL cartridge 100 Units/mL (U-100)
+NovoLog® (NŌ-vō-log)
 
-(insulin aspart) injection
+(insulin aspart)
+
+injection, for subcutaneous or intravenous use
+
+PenFill® 3 mL cartridge 100 units/mL (U-100)
 
 - •Do not share your PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
   You may give other people a serious infection, or get a serious infection from them.
 - •Your healthcare provider should show you or your caregiver how to inject NovoLog the right way before you inject it for the first time.
-- •NovoLog PenFill cartridge 100 Units/mL is a prefilled, single-patient-use cartridge containing 300 units of NovoLog (insulin aspart injection) 100 Units/mL insulin.
+- •NovoLog PenFill cartridge 100 units/mL is a prefilled, single-patient-use cartridge containing 300 units of NovoLog (insulin aspart).
 - •After you insert the PenFill cartridge in your device, you can use it for multiple injections.
   Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill cartridge with the device.
 - •People who are blind or have vision problems should not use this PenFill cartridge without help from a person trained to use the PenFill cartridge with the device.
@@ -475,7 +483,7 @@ General Information about the safe and effective use of NovoLog.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-© 2021 Novo Nordisk
+© 2023 Novo Nordisk
 
 Manufactured by:
 
@@ -487,13 +495,17 @@ Plainsboro, NJ 08536
 
 U.S. License Number 1261
 
-Revised: 03/2021
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
-NovoLog® (NŌ-vō-log) FlexTouch® Pen
+NovoLog® (NŌ-vō-log)
 
-(insulin aspart) injection
+(insulin aspart)
+
+injection, for subcutaneous or intravenous use
+
+3 mL FlexTouch® prefilled pen (100 units/mL, U-100)
 
 - •Do not share your NovoLog FlexTouch Pen with other people, even if the needle has been is changed.
   You may give other people a serious infection, or get a serious infection from them.
@@ -731,19 +743,21 @@ Plainsboro, NJ 08536
 
 U.S. License Number 1261
 
-Revised: 03/2021
+Revised: 02/2023
 
 For more information go to
 
-www.novotraining.com/novologflextouch/us02
-
-© 2021 Novo Nordisk
+© 2023 Novo Nordisk
 
 INSTRUCTIONS FOR USE
 
-NovoLog® (NŌ-vō-log) FlexPen®
+NovoLog® (NŌ-vō-log)
 
-(insulin aspart) injection
+(insulin aspart)
+
+Injection, for subcutaneous or intravenous use
+
+3mL FlexPen® prefilled pen (100 units/mL, U-100)
 
 Introduction
 
@@ -951,4 +965,4 @@ Plainsboro, New Jersey 08536
 
 U.S. License Number 1261
 
-Revised: 3/2021
+Revised: 02/2023

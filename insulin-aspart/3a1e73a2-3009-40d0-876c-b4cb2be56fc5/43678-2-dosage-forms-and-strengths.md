@@ -3,6 +3,6 @@
 Injection: 100 units/mL (U-100) is a clear and colorless solution available as:
 
 - •10 mL multiple-dose vial
-- •3 mL single-patient-use PenFill cartridges for the 3 mL PenFill cartridge delivery device with NovoFine® disposable needles
-- •3 mL single-patient-use NOVOLOG FlexPen
-- •3 mL single-patient-use NOVOLOG FlexTouch
+- •3 mL single-patient-use PenFill prefilled cartridge for the 3 mL PenFill cartridge delivery device with NovoFine® disposable needles
+- •3 mL single-patient-use FlexPen prefilled pen
+- •3 mL single-patient-use FlexTouch prefilled pen

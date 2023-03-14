@@ -11,9 +11,9 @@ In animal reproduction studies, administration of subcutaneous insulin aspart to
 Pre- and post-implantation losses and visceral/skeletal abnormalities were seen at higher exposures, which are considered secondary to maternal hypoglycemia.
 These effects were similar to those observed in rats administered regular human insulin [see Data].
 
-The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with a HbA1c >7% and has been reported to be as high as 20-25% in women with a HbA1c >10%.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a periconceptional HbA1c >7% and has been reported to be as high as 20 to 25% in women with a periconceptional HbA1c >10%.
 The estimated background risk of miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Clinical Considerations
 
@@ -52,7 +52,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of NOVOLOG to improve glycemic control have been established in pediatric patients.
+The safety and effectiveness of NOVOLOG to improve glycemic control have been established in pediatric patients with diabetes mellitus.
 Use of NOVOLOG for this indication is supported by evidence from an adequate and well-controlled study in 283 pediatric patients with type 1 diabetes mellitus aged 6 to 18 years and from studies in adults with diabetes mellitus [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
 ## 8.5 Geriatric Use

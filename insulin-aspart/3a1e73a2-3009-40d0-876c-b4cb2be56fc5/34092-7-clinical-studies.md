@@ -8,14 +8,14 @@ The reduction in glycated hemoglobin (HbA1c) was similar to regular human insuli
 The safety and effectiveness of NOVOLOG administered by continuous subcutaneous insulin infusion (CSII) by external pump were compared to buffered regular human insulin (administered by CSII), to lispro (administered by CSII) and compared to NOVOLOG injections and NPH injection.
 Overall, the reduction in HbA1c was similar to the comparator.
 
-## 14.2 Clinical Studies in Adult and Pediatric Patients with Type 1 Diabetes and Subcutaneous Daily Injections
+## 14.2 Clinical Studies in Adult and Pediatric Patients with Type 1 Diabetes with Subcutaneous Injections
 
 Type 1 Diabetes – Adults (see Table 3)
 
 Two 24-week, open‑label, active-controlled studies were conducted to compare the safety and efficacy of NOVOLOG to regular human insulin injection in adult patients with type 1 diabetes.
 Because the two study designs and results were similar, data are shown for only one study (see Table 3).
 
-The mean age of the trial population was 38.9 years and mean duration of diabetes was 15.7 years.
+The mean age of the trial population was 39 years and mean duration of diabetes was 15.7 years.
 Fifty-one percent were male.
 Ninety-four percent were Caucasian, 2% were Black and 4% were Other.
 The mean BMI was approximately 25.6 kg/m2.
@@ -55,7 +55,7 @@ Pediatric Subcutaneous Administration of NOVOLOG in Type 1 Diabetes (24 weeks; n
 
 *Values are Mean ± SD
 
-## 14.3 Clinical Studies in Adults with Type 2 Diabetes and Subcutaneous Daily Injections
+## 14.3 Clinical Studies in Adults with Type 2 Diabetes with Subcutaneous Injections
 
 Type 2 Diabetes - Adults (see Table 5)
 

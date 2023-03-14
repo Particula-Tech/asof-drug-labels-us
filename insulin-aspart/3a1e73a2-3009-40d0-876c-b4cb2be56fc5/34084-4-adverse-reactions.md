@@ -9,24 +9,24 @@
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying designs, the adverse reaction rates reported in one clinical trial may not be easily compared to those rates reported in another clinical trial, and may not reflect the rates actually observed in clinical practice.
-The safety of NOVOLOG was evaluated in two treat-to-target trials of 6 months duration, conducted in subjects with type 1 diabetes or type 2 diabetes [see Clinical Studies (14)].
+The safety of NOVOLOG was evaluated in two treat-to-target trials of 6 months duration, conducted in patients with type 1 diabetes or type 2 diabetes [see Clinical Studies (14)].
 
 The data in Table 1 reflect the exposure of 596 patients with type 1 diabetes to NOVOLOG in one clinical trial with a mean exposure duration to NOVOLOG of 24 weeks.
-The mean age was 38.9 years.
+The mean age was 39 years.
 Fifty-one percent were male, 94% were Caucasian, 2% were Black and 4% were other races.
 The mean body mass index (BMI) was 25.6 kg/m2.
 The mean duration of diabetes was 15.7 years and the mean HbA1c at baseline was 7.9%.
 
 The data in Table 2 reflect the exposure of 91 patients with type 2 diabetes to NOVOLOG in one clinical trial with a mean exposure duration to NOVOLOG of 24 weeks.
-The mean age was 56.6 years.
+The mean age was 57 years.
 Sixty-three percent were male, 76% were Caucasian, 9% were Black and 15% were other races.
 The mean BMI was 29.7 kg/m2.
 The mean duration of diabetes was 12.7 years and the mean HbA1c at baseline was 8.1%.
 
-Common adverse reactions were defined as events occurring in ≥5%, excluding hypoglycemia, of the population studied.
-Common adverse events occurring at the same rate or greater for NOVOLOG-treated subjects than in comparator-treated subjects during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus (other than hypoglycemia) are listed in Table 1 and Table 2, respectively.
+Common adverse reactions were defined as events that occurred in ≥5%, excluding hypoglycemia, of the population studied.
+Common adverse events that occurred at the same rate or greater for NOVOLOG-treated patients than in comparator-treated patients during clinical trials in patients with type 1 diabetes mellitus and type 2 diabetes mellitus (other than hypoglycemia) are listed in Table 1 and Table 2, respectively.
 
-Table 1: Adverse reactions occurring in ≥ 5% of Type 1 Diabetes Mellitus Adult Patients treated with NOVOLOG and at the same rate or greater on NOVOLOG than on comparator
+Table 1: Adverse reactions that occurred in ≥ 5% of Type 1 Diabetes Mellitus Adult Patients treated with NOVOLOG and at the same rate or greater on NOVOLOG than on comparator
 
 |  | NOVOLOG + NPH (%) (n= 596) | Regular Human Insulin + NPH (%) (n= 286) |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Table 1: Adverse reactions occurring in ≥ 5% of Type 1 Diabetes Mellitus Adult
 | Nausea | 7 | 5 |
 | Diarrhea | 5 | 3 |
 
-Table 2: Adverse reactions occurring in ≥ 5% of Type 2 Diabetes Mellitus Adult Patients treated with NOVOLOG and at the same rate or greater on NOVOLOG than on comparator
+Table 2: Adverse reactions that occurred in ≥ 5% of Type 2 Diabetes Mellitus Adult Patients treated with NOVOLOG and at the same rate or greater on NOVOLOG than on comparator
 
 |  | NOVOLOG + NPH (%) (n= 91) | Human Regular Insulin + NPH (%) (n= 91) |
 | --- | --- | --- |
@@ -49,19 +49,18 @@ Table 2: Adverse reactions occurring in ≥ 5% of Type 2 Diabetes Mellitus Adult
 | Abdominal pain | 5 | 1 |
 | Sinusitis | 5 | 1 |
 
-Severe hypoglycemia
+Severe Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including NOVOLOG.
 The rates of reported hypoglycemia depend on the definition of hypoglycemia used, diabetes type, insulin dose, intensity of glucose control, background therapies, and other intrinsic and extrinsic patient factors.
 For these reasons, comparing rates of hypoglycemia in clinical trials for NOVOLOG with the incidence of hypoglycemia for other products may be misleading and also, may not be representative of hypoglycemia rates that will occur in clinical practice.
 
 Severe hypoglycemia was defined as hypoglycemia associated with central nervous system symptoms and requiring the intervention of another person or hospitalization.
+The incidence of severe hypoglycemia in:
 
-The incidence of severe hypoglycemia in adult and pediatric patients receiving subcutaneous NOVOLOG with type 1 diabetes mellitus was 17% at 24 weeks and 6% at 24 weeks, respectively [see Clinical Studies (14)].
-
-The incidence of severe hypoglycemia in adult patients receiving subcutaneous NOVOLOG with type 2 diabetes mellitus was 10% at 24 weeks.
-
-The incidence of severe hypoglycemia in adult and pediatric patients with type 1 diabetes mellitus, receiving NOVOLOG via continuous subcutaneous insulin infusion by external pump was 2% at 16 weeks and 10% at 16 weeks respectively.
+- •Adult and pediatric patients with type 1 diabetes mellitus who received subcutaneous NOVOLOG was 17% at 24 weeks and 6% at 24 weeks, respectively [see Clinical Studies (14)].
+- •Adult patients with type 2 diabetes mellitus who received subcutaneous NOVOLOG was 10% at 24 weeks.
+- •Adult and pediatric patients with type 1 diabetes mellitus, who received NOVOLOG via continuous subcutaneous insulin infusion by external pump was 2% at 16 weeks and 10% at 16 weeks respectively.
 
 No severe hypoglycemic episodes were reported in adult patients with type 2 diabetes mellitus receiving NOVOLOG via continuous subcutaneous insulin infusion by external pump at 16 weeks.
 
@@ -71,7 +70,7 @@ Some patients taking insulin, including NOVOLOG have experienced erythema, local
 These conditions were usually self-limiting.
 Severe cases of generalized allergy (anaphylaxis) have been reported.
 
-Insulin initiation and glucose control intensification
+Adverse Reactions Associated with Insulin Initiation and Glucose Control Intensification
 
 Intensification or rapid improvement in glucose control has been associated with a transitory, reversible ophthalmologic refraction disorder, worsening of diabetic retinopathy, and acute painful peripheral neuropathy.
 However, long-term glycemic control decreases the risk of diabetic retinopathy and neuropathy.
@@ -84,7 +83,7 @@ Peripheral Edema
 
 Insulins, including NOVOLOG, may cause sodium retention and edema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
-Weight gain
+Weight Gain
 
 Weight gain has occurred with insulins, including NOVOLOG, and has been attributed to the anabolic effects of insulin and the decrease in glucosuria.
 

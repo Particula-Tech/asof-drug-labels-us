@@ -73,7 +73,7 @@ NDC 0169-6339-10 List 633910
 
 NovoLog® FlexPen®
 
-Prefilled Syringe
+Prefilled Pen
 
 (insulin aspart) injection
 
@@ -81,7 +81,7 @@ For Single Patient Use Only
 
 100 units/mL (U-100)
 
-5 x 3 mL Prefilled Insulin Syringes
+5 x 3 mL prefilled pens
 
 For subcutaneous use.
 
@@ -104,7 +104,7 @@ List 210125
 
 NovoLog® FlexPen®
 
-Prefilled Syringe
+Prefilled pen
 
 (insulin aspart) injection
 
@@ -112,7 +112,7 @@ For Single Patient Use Only
 
 100 units/mL (U-100)
 
-5×3 mL Prefilled Insulin Syringes
+5×3 mL prefilled pens
 
 For subcutaneous use.
 
@@ -130,6 +130,8 @@ Rx only
 Dispense in this sealed carton.
 
 ONLY FOR RETAIL SALES BY WALMART AND ITS AFFILIATES
+
+ReliOn
 
 # PRINCIPAL DISPLAY PANEL - 3 mL NovoLog FlexTouch
 

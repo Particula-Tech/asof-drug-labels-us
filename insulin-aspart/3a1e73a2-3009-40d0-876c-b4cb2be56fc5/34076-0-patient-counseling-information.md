@@ -32,8 +32,8 @@ Inform patients of the symptoms of hypersensitivity reactions [see Warnings and 
 Patients Using Continuous Subcutaneous Insulin Pumps
 
 - •Train patients in both intensive insulin therapy with multiple injections and in the function of their pump and pump accessories.
-- •Refer to the continuous subcutaneous infusion pump user manual to see if NOVOLOG can be used with the pump.
-  See recommended reservoir and infusion sets in the insulin pump user manual.
+- •This NOVOLOG product can be used with continuous subcutaneous insulin infusion pumps labeled for use with NOVOLOG (insulin aspart) - refer to the insulin pump user manual to see if NOVOLOG can be used.
+  See recommended infusion sets in the insulin pump user manual.
 - •Instruct patients to replace insulin in the reservoir at least every 7 days or according to the user manual, whichever is shorter; infusion sets and infusion set insertion sites should be changed according to the manufacturer’s user manual.
   By following this schedule, patients avoid insulin degradation, infusion set occlusion, and loss of the insulin preservative.
 - •Instruct patients to discard insulin exposed to temperatures higher than 37°C (98.6°F).
@@ -43,20 +43,6 @@ Patients Using Continuous Subcutaneous Insulin Pumps
 - •Instruct patients of the risk of hypoglycemia from pump malfunction.
   If these problems cannot be promptly corrected, instruct patients to resume therapy with subcutaneous insulin injection and contact their physician [see Warnings and Precautions (5) and How Supplied/Storage and Handling (16.2)].
 
-Rx only
-
-Date of Issue: 10/2021
-
-Version: 29
-
-Novo Nordisk®, NOVOLOG®, PenFill®, Novolin®, FlexPen®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
-
-ReliOn® is a registered trademark of Walmart Inc. and is used under license by Novo Nordisk Inc.
-
-Patent Information: http://novonordisk-us.com/products/product-patents.html
-
-© 2021 Novo Nordisk
-
 Manufactured by:
 
 Novo Nordisk Inc.
@@ -65,11 +51,19 @@ Novo Nordisk Inc.
 
 Plainsboro, NJ 08536
 
-1-800-727-6500
-
 U.S. License Number 1261
 
-For information about NOVOLOG contact:
+Version: 30
+
+Novo Nordisk®, NOVOLOG®, PenFill®, Novolin®, FlexPen®, FlexTouch®, NovoFine®, and NovoTwist® are registered trademarks of Novo Nordisk A/S.
+
+ReliOn® is a registered trademark of Walmart Inc. and is used under license by Novo Nordisk Inc.
+
+Patent Information: http://novonordisk-us.com/products/product-patents.html
+
+© 2023 Novo Nordisk
+
+For additional information about NOVOLOG contact:
 
 Novo Nordisk Inc.
 
