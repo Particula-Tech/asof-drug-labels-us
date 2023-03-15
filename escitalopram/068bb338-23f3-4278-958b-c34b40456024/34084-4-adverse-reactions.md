@@ -216,15 +216,15 @@ These analyses revealed no clinically important changes in laboratory test param
 
 ECG Changes
 
-Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
-None of the patients in the escitalopram group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
+Electrocardiograms from escitalopram (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QT c changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+None of the patients in the escitalopram group had a QT cF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the escitalopram and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the escitalopram group and 0.2% in the placebo group.
 
-QTcF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 113 healthy subjects.
+QT cF interval was evaluated in a randomized, placebo and active (moxifloxacin 400 mg) controlled cross-over, escalating multiple-dose study in 113 healthy subjects.
 The maximum mean (95% upper confidence bound) difference from placebo arm were 4.5 (6.4) and 10.7 (12.7) msec for 10 mg and supratherapeutic 30 mg escitalopram given once daily, respectively.
-Based on the established exposure-response relationship, the predicted QTcF change from placebo arm (95% confidence interval) under the Cmax for the dose of 20 mg is 6.6 (7.9) msec.
-Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
+Based on the established exposure-response relationship, the predicted QT cF change from placebo arm (95% confidence interval) under the C max for the dose of 20 mg is 6.6 (7.9) msec.
+Escitalopram 30 mg given once daily resulted in mean C max of 1.7-fold higher than the mean C max for the maximum recommended therapeutic dose at steady state (20 mg).
 The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 
 Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tablets
@@ -263,7 +263,7 @@ Urinary System Disorders - urinary frequency, urinary tract infection.
 Adverse Reactions Reported Subsequent to the Marketing of Escitalopram
 
 The following adverse reactions have been identified during post-approval use of escitalopram.
-Because these reactions are reported voluntarily from a population of uncertain size, it is always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
 

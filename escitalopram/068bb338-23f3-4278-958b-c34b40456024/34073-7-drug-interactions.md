@@ -30,7 +30,7 @@ Patients receiving warfarin therapy should be carefully monitored when escitalop
 
 ## 7.7 Cimetidine
 
-In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
+In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and C max of 43% and 39%, respectively.
 The clinical significance of these findings is unknown.
 
 ## 7.8 Digoxin
@@ -45,8 +45,8 @@ Because lithium may enhance the serotonergic effects of escitalopram, caution sh
 
 ## 7.10 Pimozide and Celexa
 
-In a controlled study, a single dose of pimozide 2 mg co-administered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
-Racemic citalopram did not alter the mean AUC or Cmax of pimozide.
+In a controlled study, a single dose of pimozide 2 mg co-administered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QT c values of approximately 10 msec compared to pimozide given alone.
+Racemic citalopram did not alter the mean AUC or C max of pimozide.
 The mechanism of this pharmacodynamic interaction is not known.
 
 ## 7.11 Sumatriptan
@@ -75,7 +75,7 @@ Combined administration of racemic citalopram (titrated to 40 mg/day for 28 days
 
 ## 7.16 Ketoconazole
 
-Combined administration of racemic citalopram (40 mg) and ketoconazole (200 mg), a potent CYP3A4 inhibitor, decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
+Combined administration of racemic citalopram (40 mg) and ketoconazole (200 mg), a potent CYP3A4 inhibitor, decreased the C max and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
 
 ## 7.17 Ritonavir
 
@@ -91,13 +91,13 @@ Because escitalopram is metabolized by multiple enzyme systems, inhibition of a 
 
 In vitro studies did not reveal an inhibitory effect of escitalopram on CYP2D6.
 In addition, steady state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.
-However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., coadministration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmax and a 100% increase in AUC of desipramine.
+However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., coadministration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in C max and a 100% increase in AUC of desipramine.
 The clinical significance of this finding is unknown.
 Nevertheless, caution is indicated in the coadministration of escitalopram and drugs metabolized by CYP2D6.
 
 ## 7.20 Metoprolol
 
-Administration of 20 mg/day escitalopram tablets for 21 days in healthy volunteers resulted in a 50% increase in Cmax and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
+Administration of 20 mg/day escitalopram tablets for 21 days in healthy volunteers resulted in a 50% increase in C max and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
 Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
 Coadministration of escitalopram and metoprolol had no clinically significant effects on blood pressure or heart rate.
 

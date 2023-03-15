@@ -10,7 +10,7 @@ Escitalopram oxalate, USP occurs as a fine, white to slightly-yellow powder and 
 
 Escitalopram oxalate, USP is available as tablets for oral administration.
 
-Escitalopram tablets, USP are white to off-white, round, biconvex, film-coated tablets containing 6.38 mg, 12.75 mg And 25.55 mg escitalopram oxalate in strengths equivalent to 5 mg, 10 mg, and 20 mg, respectively, of escitalopram base.
+Escitalopram tablets, USP are white to off-white, round, biconvex, film-coated tablets containing 6.38 mg, 12.75 mg and 25.55 mg escitalopram oxalate in strengths equivalent to 5 mg, 10 mg, and 20 mg, respectively, of escitalopram base.
 The 10 and 20 mg tablets are scored.
 The tablets also contain the following inactive ingredients: cellulose microcrystalline, colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, povidone and talc.
 The film coating contains hypromellose, polyethylene glycol 400 and titanium dioxide.

@@ -46,7 +46,7 @@ The physician who elects to use escitalopram for extended periods should periodi
 
 ## 2.4 Special Populations
 
-10 mg/day is the recommended dose for most elderly patients and patients with hepatic treatment.
+10 mg/day is the recommended dose for most elderly patients and patients with hepatic impairment.
 
 No dosage adjustment is necessary for patients with mild or moderate renal impairment.
 Escitalopram should be used with caution in patients with severe renal impairment.

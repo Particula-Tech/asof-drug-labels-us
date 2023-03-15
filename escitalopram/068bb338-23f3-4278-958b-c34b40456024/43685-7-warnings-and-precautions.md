@@ -61,7 +61,7 @@ These patients were excluded from clinical studies during the product's premarke
 In clinical trials of escitalopram, cases of convulsion have been reported in association with escitalopram treatment.
 Like other drugs effective in the treatment of major depressive disorder, escitalopram tablets should be introduced with care in patients with a history of seizure disorder.
 
-## 5.5 Activation of Mania/Hypomania
+## 5.5 Activation of Mania or Hypomania
 
 In patients with bipolar disorder, treating a depressive episode with escitalopram or another antidepressant may precipate a mixed/manic episode.
 In placebo-controlled trials of escitalopram in major depressive disorder, activation of mania/hypomania was reported in one (0.1%) of 715 patients treateds with escitalopram and in none of the 592 patients treated with placebo.

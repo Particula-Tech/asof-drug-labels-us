@@ -9,8 +9,8 @@ The mechanism of antidepressant action of escitalopram, the S-enantiomer of race
 In vitro and in vivo studies in animals suggest that escitalopram is a highly selective serotonin reuptake inhibitor (SSRI) with minimal effects on norepinephrine and dopamine neuronal reuptake.
 Escitalopram is at least 100-fold more potent than the R-enantiomer with respect to inhibition of 5-HT reuptake and inhibition of 5-HT neuronal firing rate.
 Tolerance to a model of antidepressant effect in rats was not induced by long-term (up to 5 weeks) treatment with escitalopram.
-Escitalopram has no or very low affinity for serotonergic (5-HT1 to 7) or other receptors including alpha- and beta-adrenergic, dopamine (D1 to 5), histamine (H1 to 3), muscarinic (M1 to 5), and benzodiazepine receptors.
-Escitalopram also does not bind to, or has low affinity for, various ion channels including Na+, K+, Cl-, and Ca++ channels.
+Escitalopram has no or very low affinity for serotonergic (5-HT 1 to 7) or other receptors including alpha- and beta-adrenergic, dopamine (D 1 to 5), histamine (H 1 to 3), muscarinic (M 1 to 5), and benzodiazepine receptors.
+Escitalopram also does not bind to, or has low affinity for, various ion channels including Na +, K +, Cl -, and Ca ++ channels.
 Antagonism of muscarinic, histaminergic, and adrenergic receptors has been hypothesized to be associated with various anticholinergic, sedative, and cardiovascular side effects of other psychotropic drugs.
 
 ## 12.3 Pharmacokinetics
@@ -19,7 +19,7 @@ The single- and multiple-dose pharmacokinetics of escitalopram are linear and do
 Biotransformation of escitalopram is mainly hepatic, with a mean terminal half-life of about 27 to 32 hours.
 With once-daily dosing, steady state plasma concentrations are achieved within approximately one week.
 At steady state, the extent of accumulation of escitalopram in plasma in young healthy subjects was 2.2 to 2.5 times the plasma concentrations observed after a single dose.
-The tablet and the oral solution dosage forms of escitalopram are bioequivalent.
+The tablet and the oral solution dosage forms of escitalopram oxalate are bioequivalent.
 
 Absorption and Distribution
 
@@ -41,8 +41,8 @@ In humans, unchanged escitalopram is the predominant compound in plasma.
 At steady state, the concentration of the escitalopram metabolite S-DCT in plasma is approximately one-third that of escitalopram.
 The level of S-DDCT was not detectable in most subjects.
 In vitro studies show that escitalopram is at least 7 and 27 times more potent than S-DCT and S-DDCT, respectively, in the inhibition of serotonin reuptake, suggesting that the metabolites of escitalopram do not contribute significantly to the antidepressant actions of escitalopram.
-S-DCT and S-DDCT also have no or very low affinity for serotonergic (5-HT1 to 7) or other receptors including alpha- and beta-adrenergic, dopamine (D1 to 5), histamine (H1 to 3), muscarinic (M1 to 5), and benzodiazepine receptors.
-S-DCT and S-DDCT also do not bind to various ion channels including Na+, K+, Cl-, and Ca++ channels.
+S-DCT and S-DDCT also have no or very low affinity for serotonergic (5-HT 1 to 7) or other receptors including alpha- and beta-adrenergic, dopamine (D 1 to 5), histamine (H 1 to 3), muscarinic (M 1 to 5), and benzodiazepine receptors.
+S-DCT and S-DDCT also do not bind to various ion channels including Na +, K +, Cl -, and Ca ++ channels.
 
 In vitro studies using human liver microsomes indicated that CYP3A4 and CYP2C19 are the primary isozymes involved in the Ndemethylation of escitalopram.
 
@@ -50,12 +50,12 @@ Population Subgroups
 
 Age
 
-Adolescents - In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and Cmax increased by 26% in healthy adolescent subjects (12 to 17 years of age) compared to adults.
-Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state Cmax and AUC were similar in patients with MDD (12 to 17 years of age) compared to adult patients.
+Adolescents - In a single dose study of 10 mg escitalopram, AUC of escitalopram decreased by 19%, and C max increased by 26% in healthy adolescent subjects (12 to 17 years of age) compared to adults.
+Following multiple dosing of 40 mg/day citalopram, escitalopram elimination half-life, steady-state C max and AUC were similar in patients with MDD (12 to 17 years of age) compared to adult patients.
 No adjustment of dosage is needed in adolescent patients.
 
 Elderly - Escitalopram pharmacokinetics in subjects ≥ 65 years of age were compared to younger subjects in a single-dose and a multiple-dose study.
-Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and Cmax was unchanged.
+Escitalopram AUC and half-life were increased by approximately 50% in elderly subjects, and C max was unchanged.
 10 mg is the recommended dose for elderly patients [see Dosage and Administration (2.3)].
 
 Gender - Based on data from single- and multiple-dose studies measuring escitalopram in elderly, young adults, and adolescents, no dosage adjustment on the basis of gender is needed.

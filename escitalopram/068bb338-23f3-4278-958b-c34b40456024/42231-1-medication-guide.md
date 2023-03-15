@@ -180,11 +180,11 @@ Before starting escitalopram tablets, tell your healthcare provider if you:
 - have high blood pressure
 - have or had bleeding problems
 - are pregnant or plan to become pregnant.
-  Taking escitalopram tablets lat in pregnancy may lead to an increased risk of certain problems in your newborn.
+  Taking escitalopram tablets late in pregnancy may lead to an increased risk of certain problems in your newborn.
   Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy ο If you become pregnant while taking escitalopram tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
   You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breast-feeding or plan to breast-feed.
-  Escitalopram tablets may pass into your breast milk.
+  Escitalopram may pass into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby while taking escitalopram tablets.
 
 Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
@@ -289,6 +289,6 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8088121 Revised: September 2022
+8092208 Revised: March 2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
