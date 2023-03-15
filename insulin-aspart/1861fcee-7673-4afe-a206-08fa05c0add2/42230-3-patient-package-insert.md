@@ -1,126 +1,36 @@
 # PATIENT INFORMATION
 
-NovoLog® Mix 70/30 (NŌ-vō-log-MIX-SEV-en-tee-THIR-tee)
-
-(insulin aspart protamine and insulin aspart) injectable suspension
-
-Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle has been changed.
-You may give other people a serious infection, or get a serious infection from them.
-
-What is NovoLog Mix 70/30?
-
-- •NovoLog Mix 70/30 is a man-made insulin that is used to control high blood sugar in people with diabetes mellitus.
-- •It is not known if NovoLog Mix 70/30 is safe and effective in children.
-
-Who should not take NovoLog Mix 70/30?
-
-Do not take NovoLog Mix 70/30 if you:
-
-- •are having an episode of low blood sugar (hypoglycemia).
-- •have an allergy to NovoLog Mix 70/30 or any of the ingredients in NovoLog Mix 70/30.
-
-Before taking NovoLog Mix 70/30, tell your healthcare provider about all your medical conditions including, if you are:
-
-- •pregnant, planning to become pregnant, or are breastfeeding.
-- •taking new prescription or over-the-counter medicines, vitamins, or herbal supplements.
-
-Before you start taking NovoLog Mix 70/30, talk to your healthcare provider about low blood sugar and how to manage it.
-
-How should I take NovoLog Mix 70/30?
-
-- •Read the Instructions for Use that come with your NovoLog Mix 70/30.
-- •Take NovoLog Mix 70/30 exactly as your healthcare provider tells you to.
-- •NovoLog Mix 70/30 starts acting fast.
-  If you have Type 1 diabetes, inject it up to 15 minutes before you eat a meal.
-  Do not inject NovoLog Mix 70/30 if you are not planning to eat within 15 minutes.
-  If you have Type 2 diabetes, you may inject NovoLog Mix 70/30 up to 15 minutes before or after starting your meal.
-- •Do not mix NovoLog Mix 70/30 with other insulin products or use in an insulin pump.
-- •Know the type and strength of insulin you take.
-  Do not change the type of insulin you take unless your healthcare provider tells you to.
-  The amount of insulin and the best time for you to take your insulin may need to change if you take different types of insulin.
-- •Check your blood sugar levels.
-  Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
-- •Do not reuse or share your needles or syringes with other people.
-  You may give other people a serious infection or get a serious infection from them.
-- •NovoLog Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
-- •Change (rotate) your injection sites within the same area you choose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
-  - oDo not use the exact same spot for each injection.
-  - oDo not inject where skin has pits, is thickened, or has lumps.
-  - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-
-What should I avoid while taking NovoLog Mix 70/30?
-
-While taking NovoLog Mix 70/30 do not:
-
-- •Drive or operate heavy machinery, until you know how NovoLog Mix 70/30 affects you.
-- •Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
-
-What are the possible side effects of NovoLog Mix 70/30?
-
-NovoLog Mix 70/30 may cause serious side effects that can lead to death, including:
-
-Low blood sugar (hypoglycemia).
-Signs and symptoms that may indicate low blood sugar include:
-
-- •dizziness or light-headedness
-- •blurred vision
-- •anxiety, irritability, or mood changes
-- •sweating
-- •slurred speech
-- •hunger
-- •confusion
-- •shakiness
-- •headache
-- •fast heart beat
-
-Your insulin dose may need to change because of:
-
-- •change in level of physical activity or exercise
-- •increased stress
-- •change in diet
-- •weight gain or loss
-- •illness
-
-Other common side effects of NovoLog Mix 70/30 may include:
-
-- •low potassium in your blood (hypokalemia), reactions at the injection site, itching, rash, serious allergic reactions (whole body reactions), skin thickening or pits at the injection site (lipodystrophy), weight gain, and swelling of your hands and feet.
-
-Get emergency medical help if you have:
-
-- •trouble breathing, shortness of breath, fast heartbeat, swelling of your face, tongue, or throat, sweating, extreme drowsiness, dizziness, confusion.
-
-These are not all the possible side effects of NovoLog Mix 70/30.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-General information about the safe and effective use of NovoLog Mix 70/30.
-
-Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-You can ask your pharmacist or healthcare provider for information about NovoLog Mix 70/30 that is written for health professionals.
-Do not use NovoLog Mix 70/30 for a condition for which it was not prescribed.
-Do not give NovoLog Mix 70/30 to other people, even if they have the same symptoms that you have.
-It may harm them.
-
-What are the ingredients in NovoLog Mix 70/30?
-
-Active Ingredient: 70% insulin aspart protamine and 30% insulin aspart.
-
-Inactive Ingredients: disodium hydrogen phosphate dihydrate, glycerol, metacresol, phenol, protamine sulfate, sodium chloride, zinc, and Water for Injection, USP.
-Hydrochloric acid or sodium hydroxide may be added to adjust pH.
-
-Manufactured by: Novo Nordisk Inc., Plainsboro, NJ 08536 U.S. License Number 1261
-
-For more information, go to www.novonordisk-us.com or call 1-800-727-6500.
+| NovoLog® Mix 70/30 (NŌ-vō-log-MIX-SEV-en-tee-THIR-tee)(insulin aspart protamine and insulin aspart)injectable suspension, for subcutaneous use |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Do not share your NovoLog Mix 70/30 FlexPen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them. |  |  |  |  |
+| What is NovoLog Mix 70/30? •NovoLog Mix 70/30 is a man-made insulin that is used to control high blood sugar in people with diabetes mellitus.•It is not known if NovoLog Mix 70/30 is safe and effective in children. |  |  |  |  |
+| Who should not take NovoLog Mix 70/30?Do not take NovoLog Mix 70/30 if you: •are having an episode of low blood sugar (hypoglycemia).•have an allergy to NovoLog Mix 70/30 or any of the ingredients in NovoLog Mix 70/30. |  |  |  |  |
+| Before taking NovoLog Mix 70/30, tell your healthcare provider about all your medical conditions including, if you are: •pregnant, planning to become pregnant, or are breastfeeding.•taking new prescription or over-the-counter medicines, vitamins, or herbal supplements. Before you start taking NovoLog Mix 70/30, talk to your healthcare provider about low blood sugar and how to manage it. |  |  |  |  |
+| How should I take NovoLog Mix 70/30? •Read the Instructions for Use that come with your NovoLog Mix 70/30.•Take NovoLog Mix 70/30 exactly as your healthcare provider tells you to.•NovoLog Mix 70/30 starts acting fast. If you have Type 1 diabetes, inject it up to 15 minutes before you eat a meal. Do not inject NovoLog Mix 70/30 if you are not planning to eat within 15 minutes. If you have Type 2 diabetes, you may inject NovoLog Mix 70/30 up to 15 minutes before or after starting your meal.•Do not mix NovoLog Mix 70/30 with other insulin products or use in an insulin pump.•Know the type and strength of insulin you take. Do not change the type of insulin you take unless your healthcare provider tells you to. The amount of insulin and the best time for you to take your insulin may need to change if you take different types of insulin.•Check your blood sugar levels. Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.•Do not reuse or share your needles or syringes with other people. You may give other people a serious infection or get a serious infection from them.•NovoLog Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.•Change (rotate) your injection sites within the same area you choose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites. oDo not use the exact same spot for each injection.oDo not inject where skin has pits, is thickened, or has lumps.oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin. |  |  |  |  |
+| What should I avoid while taking NovoLog Mix 70/30?While taking NovoLog Mix 70/30 do not: •Drive or operate heavy machinery, until you know how NovoLog Mix 70/30 affects you.•Drink alcohol or use prescription or over-the-counter medicines that contain alcohol. |  |  |  |  |
+| What are the possible side effects of NovoLog Mix 70/30?NovoLog Mix 70/30 may cause serious side effects that can lead to death, including: Low blood sugar (hypoglycemia). Signs and symptoms that may indicate low blood sugar include: |  |  |  |  |
+| •dizziness or light-headedness | •blurred vision |  | •anxiety, irritability, or mood changes |  |
+| •sweating | •slurred speech |  | •hunger |  |
+| •confusion | •shakiness |  |  |  |
+| •headache | •fast heart beat |  |  |  |
+| Your insulin dose may need to change because of: |  |  |  |  |
+| •change in level of physical activity or exercise |  | •increased stress |  | •change in diet |
+| •weight gain or loss |  | •illness |  |  |
+| Other common side effects of NovoLog Mix 70/30 may include: •low potassium in your blood (hypokalemia), reactions at the injection site, itching, rash, serious allergic reactions (whole body reactions), skin thickening or pits at the injection site (lipodystrophy), weight gain, and swelling of your hands and feet. Get emergency medical help if you have: •trouble breathing, shortness of breath, fast heartbeat, swelling of your face, tongue, or throat, sweating, extreme drowsiness, dizziness, confusion. These are not all the possible side effects of NovoLog Mix 70/30. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |  |
+| General information about the safe and effective use of NovoLog Mix 70/30.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. You can ask your pharmacist or healthcare provider for information about NovoLog Mix 70/30 that is written for health professionals. Do not use NovoLog Mix 70/30 for a condition for which it was not prescribed. Do not give NovoLog Mix 70/30 to other people, even if they have the same symptoms that you have. It may harm them. |  |  |  |  |
+| What are the ingredients in NovoLog Mix 70/30?Active Ingredient: 70% insulin aspart protamine and 30% insulin aspart.Inactive Ingredients: disodium hydrogen phosphate dihydrate, glycerol, metacresol, phenol, protamine sulfate, sodium chloride, zinc, and Water for Injection, USP. Hydrochloric acid or sodium hydroxide may be added to adjust pH.Manufactured by: Novo Nordisk Inc., Plainsboro, NJ 08536 U.S. License Number 1261For more information, go to www.novonordisk-us.com or call 1-800-727-6500. |  |  |  |  |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 4/2021
+Revised: 2/2023
 
 INSTRUCTIONS FOR USE
 
-NovoLog® Mix 70/30 (NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
+NovoLog® Mix 70/30
 
-(insulin aspart protamine and insulin aspart) injectable suspension
+(insulin aspart protamine and insulin aspart)
+
+injectable suspension, for subcutaneous use
 
 10 mL multiple-dose vial (100 Units/mL, U-100)
 
@@ -245,13 +155,13 @@ Plainsboro, New Jersey 08536
 
 U.S. License Number 1261
 
-Revised: 4/2021
+Revised: 2/2023
 
 NovoLog® is a registered trademark of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2002-2021 Novo Nordisk
+© 2023 Novo Nordisk
 
 For information about NovoLog Mix 70/30 contact:
 
@@ -269,9 +179,11 @@ INSTRUCTIONS FOR USE
 
 NovoLog® Mix 70/30 FlexPen®
 
-(NŌ-vō-Log-MIX-SEV-en-tee-THIR-tee)
+(insulin aspart protamine and insulin aspart)
 
-(insulin aspart protamine and insulin aspart) injectable suspension
+injectable suspension, for subcutaneous use
+
+FlexPen®
 
 Read the following instructions carefully before you start using your NovoLog Mix 70/30 FlexPen and each time you get a refill.
 There may be new information.
@@ -489,4 +401,4 @@ Plainsboro, New Jersey 08536
 
 U.S. License Number 1261
 
-Revised: 4/2021
+Revised: 2/2023

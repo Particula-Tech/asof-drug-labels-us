@@ -29,7 +29,17 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with NOVOLOG MIX 70/30.
 Inform patients of the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
-Version: 17
+Manufactured by:
+
+Novo Nordisk Inc.
+
+800 Scudders Mill Road
+
+Plainsboro, NJ 08536
+
+U.S. License Number 1261
+
+Version: 18
 
 Novo Nordisk®, NOVOLOG®, FlexPen®, and Novolin® are registered trademarks of Novo Nordisk® A/S.
 
@@ -37,9 +47,9 @@ ReliOn® is a registered trademark of Walmart Inc. and is used under license by 
 
 Patent Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2021 Novo Nordisk
+© 2023 Novo Nordisk
 
-Manufactured by:
+For additional information about NOVOLOG MIX 70/30 contact:
 
 Novo Nordisk Inc.
 
@@ -49,16 +59,6 @@ Plainsboro, NJ 08536
 
 1-800-727-6500
 
-U.S. License Number 1261
-
-For information about NOVOLOG MIX 70/30 contact:
-
-Novo Nordisk Inc.
-
-800 Scudders Mill Road
-
-Plainsboro, NJ 08536
-
-1-800-727-6500 (Se Habla español)
+(Se Habla español)
 
 www.novonordisk-us.com

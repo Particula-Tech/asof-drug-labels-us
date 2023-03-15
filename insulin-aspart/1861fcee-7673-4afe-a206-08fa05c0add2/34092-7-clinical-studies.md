@@ -2,15 +2,13 @@
 
 ## 14.1 Clinical Studies in Adult Patients with Type 1 and Type 2 Diabetes
 
-In a three-month, open-label trial, patients with type 1 (n=104) or type 2 (n=187) diabetes were treated twice daily (before breakfast and before supper) with NOVOLOG MIX 70/30 or Novolin 70/30.
+In a three-month, open-label trial, adult patients with type 1 (n=104) or type 2 (n=187) diabetes mellitus were treated twice daily (before breakfast and before supper) with NOVOLOG MIX 70/30 or Novolin 70/30.
 Patients had received insulin for at least 24 months before the study.
 Oral hypoglycemic agents were not allowed within 1 month prior to the study or during the study.
 The small changes in HbA1c were comparable across the treatment groups (see Table 4).
 
-The mean age of the trial population for type 1 was 43.2 years and 62.7 for type 2.
-For type 1, 64% were male and for type 2, 54% were male and 100% were White for type 1 and type 2.
-The mean body mass index (BMI) was 26.1 kg/m2 for type 1 and 28.1 kg/m2 for type 2.
-The mean duration of diabetes was 14.9 years for type 1 and 15.0 years for type 2.
+For patients with type 1 diabetes mellitus (T1DM) the mean age was 43 years old, 64% were male, 100% were White, the mean body mass index (BMI) was 26.1 kg/m2, and mean duration of diabetes mellitus was 15 years.
+For patients with type 2 diabetes mellitus (T2DM), the mean age was 63 years old, 54% were male, 100% were White, the BMI 28.1 kg/m2, and the mean duration of diabetes mellitus was 15 years.
 
 Table 4: Glycemic Parameters at the End of Treatment [Mean ± SD (n subjects)]
 
@@ -35,18 +33,18 @@ The significance, with respect to the long-term clinical sequelae of diabetes, o
 
 Trial 1:
 
-In a 34-week, open-label trial, insulin-naïve patients with type 2 diabetes currently treated with 2 oral antidiabetic agents were switched to treatment with metformin and pioglitazone.
-The mean age of the trial population was 53.4 years and mean duration of diabetes was 9.2 years.
+In a 34-week, open-label trial (Trial 1), insulin-naïve patients with type 2 diabetes mellitus currently treated with 2 oral antidiabetic agents were switched to treatment with metformin and pioglitazone.
+The mean age of the trial population was 53 years and mean duration of diabetes was 9.2 years.
 Forty-six percent were male.
 Eighty-five percent were White, 12% were Black and 3% were Asian.
 The mean BMI was approximately 32.4 kg/m2.
-During an 8-week optimization period metformin and pioglitazone were increased to 2500 mg per day and 30 or 45 mg per day, respectively.
-After the optimization period, subjects were randomized to receive either NOVOLOG MIX 70/30 twice daily added on to the metformin and pioglitazone regimen or continue the current optimized metformin and pioglitazone therapy.
-NOVOLOG MIX 70/30 was started at a dose of 6 IU twice daily (before breakfast and before supper).
+During an 8-week optimization period metformin and pioglitazone were increased to 2,500 mg per day and 30 or 45 mg per day, respectively.
+After the optimization period, patients were randomized to receive either NOVOLOG MIX 70/30 twice daily added on to the metformin and pioglitazone regimen or continue the current optimized metformin and pioglitazone therapy.
+NOVOLOG MIX 70/30 was started at a dose of 6 international units twice daily (before breakfast and before supper).
 Insulin doses were titrated to a pre-meal glucose goal of 80-110 mg/dL.
-The total daily insulin dose at the end of the study was 56.9 ± 30.5 IU.
+The total daily insulin dose at the end of the study was 56.9 ± 30.5 international units.
 
-Table 5: Combination Therapy with Oral Agents and Insulin in Patients with Type 2 Diabetes Mellitus [Mean (SD)]
+Table 5: Combination Therapy with Metformin and Pioglitazone in Patients with Type 2 Diabetes Mellitus [Mean (SD)] (Trial 1)
 
 | Treatment duration 24-weeks | NOVOLOG MIX 70/30 + Metformin + Pioglitazone | Metformin + Pioglitazone |
 | --- | --- | --- |
@@ -67,21 +65,20 @@ Table 5: Combination Therapy with Oral Agents and Insulin in Patients with Type 
 | 2 Hour Post Dinner | 141 ± 57.8 (86) | 195 ± 60.1 (74) |
 
 - *Adjusted mean per group, treatment difference, and 95% CI were obtained based on an ANCOVA model with treatment, FPG stratum, and secretagogue stratum as fixed factors and baseline HbA1c as the covariate.
-- 
 - Trial 2:
-- In a 28-week, open-label trial, insulin-naïve patients with type 2 diabetes with fasting plasma glucose above 140 mg/dL currently treated with metformin ± thiazolidinedione therapy were randomized to receive either NOVOLOG MIX 70/30 twice daily [before breakfast and before supper] or insulin glargine once daily (see Table 6).
-  NOVOLOG MIX 70/30 was started at an average dose of 5-6 IU (0.07 ± 0.03 IU/kg) twice daily (before breakfast and before supper), and bedtime insulin glargine was started at 10-12 IU (0.13 ± 0.03 IU/kg).
+- In a 28-week, open-label trial (Trial 2), insulin-naïve patients with type 2 diabetes with fasting plasma glucose above 140 mg/dL currently treated with metformin ± thiazolidinedione therapy were randomized to receive either NOVOLOG MIX 70/30 twice daily [before breakfast and before supper] or insulin glargine once daily (see Table 6).
+  NOVOLOG MIX 70/30 was started at an average dose of 5-6 international units (0.07 ± 0.03 international units/kg) twice daily (before breakfast and before supper), and bedtime insulin glargine was started at 10-12 international units (0.13 ± 0.03 international units/kg).
   Insulin doses were titrated weekly by decrements or increments of -2 to +6 units per injection to a pre-meal glucose goal of 80-110 mg/dL.
-  The metformin dose was adjusted to 2550 mg/day.
+  The metformin dose was adjusted to 2,550 mg/day.
   Approximately one-third of the patients in each group were also treated with pioglitazone (30 mg/day).
   Insulin secretagogues were discontinued in order to reduce the risk of hypoglycemia.
   Most patients were White (53%), and the mean initial weight was 90 kg.
-- The mean age of the trial population was 52.6 years and mean duration of diabetes was 9.5 years.
+- The mean age of the trial population was 53 years old and mean duration of diabetes was 9.5 years.
   Fifty three percent were male.
   Fifty-five percent were White, 15% Black, 27% were Hispanic, 2% were Asian and 2% were Other.
   The mean BMI was approximately 31.5 kg/m2.
 
-Table 6: Combination Therapy with Oral Agents and Two Types of Insulin in Patients with Type 2 Diabetes Mellitus [Mean (SD)]
+Table 6:Combination Therapy with Metformin ± Pioglitazone and Two Types of Insulin in Patients with Type 2 Diabetes Mellitus [Mean (SD)] (Trial 2)
 
 | Treatment duration 28-weeks | NOVOLOG MIX 70/30 + Metformin ± Pioglitazone | Insulin Glargine + Metformin ± Pioglitazone |
 | --- | --- | --- |

@@ -64,7 +64,7 @@ List 369619
 
 NovoLog® Mix 70/30
 
-FlexPen® Prefilled Syringe
+FlexPen® Prefilled Pen
 
 (insulin aspart protamine and
 
@@ -74,7 +74,7 @@ For Single Patient Use Only
 
 100 units/mL (U-100)
 
-5×3 mL Prefilled Insulin Syringes
+5×3 mL prefilled pens
 
 For subcutaneous use.
 
@@ -101,7 +101,7 @@ List 220125
 
 NovoLog® Mix 70/30
 
-FlexPen® Prefilled Syringe
+FlexPen® Prefilled Pen
 
 (insulin aspart protamine and
 
@@ -111,7 +111,7 @@ For Single Patient Use Only
 
 100 units/mL (U-100)
 
-5×3 mL Prefilled Insulin Syringes
+5×3 mL prefilled pens
 
 For subcutaneous use.
 
@@ -124,7 +124,6 @@ For use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles.
 Store refrigerated at 2°C to 8°C (36°F to 46°F) until first use.
 
 After first use store at room temperature (up to 30°C [86°F]) and discard after 14 days.
-
 Avoid freezing.
 Protect from light.
 

@@ -53,13 +53,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of NOVOLOG MIX 70/30 have not been established in pediatric patients.
+Safety and effectiveness of NOVOLOG MIX 70/30 have not been established in pediatric patients with diabetes mellitus.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of NOVOLOG MIX 70/30 did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
-In elderly patients with diabetes, the initial dosing, dose increments should be conservative to avoid hypoglycemic reactions.
-Hypoglycemia may be difficult to recognize in the elderly.
+Clinical studies of NOVOLOG MIX 70/30 did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger adult patients.
+In geriatric patients with diabetes, the initial dosing, dose increments should be conservative to avoid hypoglycemic reactions.
+Hypoglycemia may be difficult to recognize in geriatric patients.
 
 ## 8.6 Renal Impairment
 

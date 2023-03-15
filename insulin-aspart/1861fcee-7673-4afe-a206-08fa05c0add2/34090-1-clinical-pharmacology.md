@@ -26,7 +26,7 @@ The remaining 70% is in crystalline form as insulin aspart protamine which has a
 
 The relative bioavailability of NOVOLOG MIX 70/30 compared to NOVOLOG indicates that the insulins are absorbed to similar extent.
 In a euglycemic clamp study in healthy subjects (n=24) after dosing with NOVOLOG MIX 70/30 (0.3 units/kg), a mean maximum serum concentration (Cmax) of 61.3 ± 20.1 milliunits/L was reached after 85 minutes.
-Serum insulin levels returned to baseline 16 to 20 hours after a subcutaneous dose of NOVOLOG MIX 70/30 (see Fig. 3 for pharmacokinetic profiles).
+Serum insulin levels returned to baseline 16 to 20 hours after a subcutaneous dose of NOVOLOG MIX 70/30 (see Fig. 3 for pharmacokinetic profile).
 
 Figure 3.
 Pharmacokinetic Profile of NOVOLOG MIX 70/30 after a single 0.3 units/kg subcutaneous dose
