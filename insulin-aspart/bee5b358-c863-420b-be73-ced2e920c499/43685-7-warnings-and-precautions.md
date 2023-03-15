@@ -1,9 +1,9 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Never Share an Insulin Aspart FlexPen, PenFill Cartridge, or PenFill Cartridge Device Between Patients
+## 5.1 Never Share a Insulin Aspart FlexPen, PenFill Cartridge, or PenFill Cartridge Device between Patients
 
 Insulin Aspart FlexPen, PenFill cartridge, and PenFill cartridge devices should never be shared between patients, even if the needle is changed.
-Patients using insulin aspart vials must never share needles or syringes with another person.
+Patients using Insulin Aspart vials must never share needles or syringes with another person.
 Sharing poses a risk for transmission of blood-borne pathogens.
 
 ## 5.2 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
@@ -16,7 +16,7 @@ For patients with type 2 diabetes, dosage adjustments of concomitant anti-diabet
 
 ## 5.3 Hypoglycemia
 
-Hypoglycemia is the most common adverse effect of all insulin therapies, including insulin aspart.
+Hypoglycemia is the most common adverse reaction of all insulins, including Insulin Aspart.
 Severe hypoglycemia can cause seizures, may lead to unconsciousness, may be life threatening or cause death.
 Hypoglycemia can impair concentration ability and reaction time; this may place an individual and others at risk in situations where these abilities are important (e.g., driving or operating other machinery).
 
@@ -26,8 +26,9 @@ Symptomatic awareness of hypoglycemia may be less pronounced in patients with lo
 Risk Factors for Hypoglycemia
 
 The risk of hypoglycemia after an injection is related to the duration of action of the insulin and, in general, is highest when the glucose lowering effect of the insulin is maximal.
-As with all insulin preparations, the glucose lowering effect time course of insulin aspart may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
-Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to co-administered medication [see Drug Interactions (7)].Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
+As with all insulins, the glucose lowering effect time course of Insulin Aspart may vary in different individuals or at different times in the same individual and depends on many conditions, including the area of injection as well as the injection site blood supply and temperature [see Clinical Pharmacology (12.2)].
+Other factors which may increase the risk of hypoglycemia include changes in meal pattern (e.g., macronutrient content or timing of meals), changes in level of physical activity, or changes to concomitantly administered medication [see Drug Interactions (7)].
+Patients with renal or hepatic impairment may be at higher risk of hypoglycemia [see Use in Specific Populations (8.6, 8.7)].
 
 Risk Mitigation Strategies for Hypoglycemia
 
@@ -37,18 +38,18 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 ## 5.4 Hypoglycemia Due to Medication Errors
 
-Accidental mix-ups between insulin aspart and other insulin products have been reported.
-To avoid medication errors between insulin aspart and other insulins, instruct patients to always check the insulin label before each injection.
+Accidental mix-ups between insulin products have been reported.
+To avoid medication errors between this Insulin Aspart product and other insulins, instruct patients to always check the insulin label before each injection.
 
-## 5.5 Hypersensitivity and Allergic Reactions
+## 5.5 Hypersensitivity Reactions
 
-Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulin products, including insulin aspart.
-If hypersensitivity reactions occur, discontinue insulin aspart; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
-Insulin aspart is contraindicated in patients who have had hypersensitivity reactions to insulin aspart or one of the excipients [see Contraindications (4)].
+Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including Insulin Aspart.
+If hypersensitivity reactions occur, discontinue Insulin Aspart; treat per standard of care and monitor until symptoms and signs resolve [see Adverse Reactions (6)].
+Insulin Aspart is contraindicated in patients who have had hypersensitivity reactions to insulin aspart or one of the excipients [see Contraindications (4)].
 
 ## 5.6 Hypokalemia
 
-All insulin products, including insulin aspart, can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
+All insulins, including Insulin Aspart, can cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentration).
 
@@ -56,12 +57,12 @@ Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g.,
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin.
 Fluid retention may lead to or exacerbate heart failure.
-Patients treated with insulin, including insulin aspart, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
+Patients treated with insulin, including Insulin Aspart, and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
 
 ## 5.8 Hyperglycemia and Ketoacidosis Due to Insulin Pump Device Malfunction
 
 Malfunction of the insulin pump or insulin infusion set or insulin degradation can rapidly lead to hyperglycemia and ketoacidosis.
 Prompt identification and correction of the cause of hyperglycemia or ketosis is necessary.
-Interim subcutaneous injections with insulin aspart may be required.
+Interim subcutaneous injections with Insulin Aspart may be required.
 Patients using continuous subcutaneous insulin infusion pump therapy must be trained to administer insulin by injection and have alternate insulin therapy available in case of pump failure [see How Supplied/Storage and Handling (16.2) and Patient Counseling Information (17)].

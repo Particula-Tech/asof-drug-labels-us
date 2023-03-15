@@ -6,15 +6,19 @@ List 010011
 
 Insulin Aspart
 
-Injection
+injection
 
-One 10 mL multi-dose vial
+100 units/mL (U-100)
 
-100 units/mL
+This product is NovoLog®.
+
+For intravenous or subcutaneous use.
 
 Rx only
 
-U-100
+Use only with a U-100 syringe.
+
+10 mL multiple-dose vial
 
 # PRINCIPAL DISPLAY PANEL - 3 mL Insulin Aspart PenFill
 
@@ -22,28 +26,34 @@ NDC 73070-102-15 List 010215
 
 Insulin Aspart
 
-PenFill®
+injection
 
-Injection
+PenFill®
 
 For Single Patient Use Only
 
-3 mL cartridges
-
 100 units/mL (U-100)
 
-5 cartridges per package
+This product is NovoLog®.
 
-For use with Novo Nordisk 3 mL PenFill® cartridge compatible delivery devices and NovoFine® disposable needles.
+For subcutaneous use
 
-Keep in a refrigerator at 36oF to 46oF (2oC to 8oC) until first use.
-After first use store out of the refrigerator below 86oF (30oC) for up to 28 days.
+For use with Novo Nordisk 3 mL PenFill® cartridge compatible delivery
+
+devices and NovoFine® disposable needles.
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F) until first use.
+After first use store at room temperature (up to 30°C [86°F]) and discard after 28 days.
 
 Avoid freezing.
 
 Protect from light.
 
 Rx only
+
+3 mL cartridges
+
+5 cartridges per package
 
 # PRINCIPAL DISPLAY PANEL - 3 mL Insulin Aspart FlexPen
 
@@ -51,26 +61,31 @@ NDC 73070-103-15
 
 List 010315
 
-Insulin Aspart FlexPen®
+Insulin Aspart
 
-Prefilled Syringe
+injection
 
-Injection
+FlexPen® Prefilled Pen
 
 For Single Patient Use Only
 
 100 units/mL (U-100)
 
-5×3 mL Prefilled Insulin Syringes
+This product is NovoLog®.
+
+5×3 mL prefilled pens
+
+For subcutaneous use
+
+For use with NovoFine®, NovoFine® Plus or NovoTwist®
+
+disposable needles.
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F) until first use.
+After first use store at room temperature (up to 30°C [86°F]) and discard after 28 days.
+Avoid freezing.
+Protect from light.
 
 Rx only
 
-For use with NovoFine®, NovoFine® Plus or NovoTwist® disposable needles.
-
-Keep in a refrigerator at 36oF to 46oF (2oC to 8oC) until first use.
-
-After first use store out of the refrigerator below 86oF (30oC) for up to 28 days.
-
-Avoid freezing.
-
-Protect from light.
+Dispense in this sealed carton.

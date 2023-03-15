@@ -1,61 +1,68 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Important Administration Instructions
+## 2.1 Important Preparation and Administration Instructions
 
-- •Always check insulin labels before administration [see Warnings and Precautions (5.4)].
-- •Inspect insulin aspart visually before use.
+- •Always check insulin labels before administration.
+  This product is NovoLog (insulin aspart) [see Warnings and Precautions (5.4)].
+- •Inspect Insulin Aspart visually before use.
   It should appear clear and colorless.
-  Do not use insulin aspart if particulate matter or coloration is seen.
-- •Use Insulin Aspart FlexPen with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
-- •Use PenFill cartridges with caution in patients with visual impairment.
-- •Do NOT mix insulin aspart with other insulins when administering using a continuous subcutaneous infusion pump.
+  Do not use Insulin Aspart if particulate matter or coloration is seen.
+- •In patients with visual impairment, use:
+  - oInsulin Aspart FlexPen with caution in those who may rely on audible clicks to dial
+- their dose.
+  1. oPenFill cartridges with caution.
+- • Do not mix Insulin Aspart with other insulins when administering using a continuous subcutaneous infusion pump.
 
-## 2.2 Route of Administration
+## 2.2 Preparation and Administration Instructions for the Approved Routes of Administration
 
 Subcutaneous Injection
 
-- •Inject insulin aspart subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.
+- •Inject Insulin Aspart subcutaneously within 5-10 minutes before a meal into the abdominal area, thigh, buttocks or upper arm.
 - •Rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
   Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
-- •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
-- •The Insulin Aspart FlexPen dial in 1-unit increments.
-- •Insulin aspart administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
-- •Insulin aspart may be diluted with Insulin Diluting Medium for NovoLog® for subcutaneous injection.
-  Diluting one part insulin aspart to nine parts diluent will yield a concentration one-tenth that of insulin aspart (equivalent to U-10).
-  Diluting one part insulin aspart to one part diluent will yield a concentration one-half that of insulin aspart (equivalent to U-50).
+- •Dial the Insulin Aspart FlexPen dials in 1-unit increments.
+- •Generally use Insulin Aspart (administered by subcutaneous injection) in regimens with an intermediate- or long-acting insulin.
+- •May dilute this Insulin Aspart product with Insulin Diluting Medium for NovoLog for subcutaneous injection.
+  Diluting one part Insulin Aspart to:
+  - oNine parts diluent will yield a concentration one-tenth that of Insulin Aspart (equivalent to U-10).
+  - oOne part diluent will yield a concentration one-half that of Insulin Aspart (equivalent to U-50).
 
 Continuous Subcutaneous Infusion (Insulin Pump)
 
-- •Use insulin aspart in pump systems specifically indicated for insulin infusion.
-- •Train patients using continuous subcutaneous insulin fusion pump therapy to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
-- •Administer insulin aspart by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
+- •Can use this Insulin Aspart product with the continuous subcutaneous insulin infusion pumps labeled for use with NovoLog (insulin aspart).
+  Refer to the insulin pump user manual to see if NovoLog can be used.
+  Use Insulin Aspart in accordance with the insulin pump system’s instructions for use.
+- •Train patients using continuous subcutaneous insulin infusion pump therapy to administer insulin by injection and have alternate insulin therapy available in case of pump failure.
+- •Administer Insulin Aspart by continuous subcutaneous infusion in a region recommended in the instructions from the pump manufacturer.
   Rotate infusion sites within the same region to reduce the risk of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6.1, 6.3)].
-- •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
-- •Follow healthcare provider recommendations when setting basal and meal time infusion rate.
-- •Change the insulin aspart in the reservoir at least every 6 days.
-  Follow the insulin aspart-specific information for in-use time because insulin aspart-specific information may differ from general pump manual instructions.
-- •Change the infusion set and the infusion set insertion site at least every 3 days.
-- •Do NOT dilute or mix insulin aspart when administering by continuous subcutaneous infusion.
-- •Do NOT expose insulin aspart in the pump reservoir to temperatures greater than 98.6°F (37°C).
+- •Instruct patients to follow healthcare provider recommendations when setting basal and meal time infusion rate.
+- •Change the Insulin Aspart in the reservoir at least every 7 days or according to the pump user manual, whichever is shorter.
+  Follow the NovoLog-specific information for in-use time because NovoLog-specific information may differ from general pump manual instructions.
+- •Change the infusion set and the infusion set insertion site according to the manufacturer’s user manual.
+- •Do not dilute or mix Insulin Aspart when administering by continuous subcutaneous infusion.
+- •Do not expose Insulin Aspart in the pump reservoir to temperatures greater than 98.6°F (37°C).
 
 Intravenous Administration
 
-- •Dilute insulin aspart to concentrations from 0.05 unit/mL to 1 unit/mL insulin aspart in infusion systems using polypropylene infusion bags.
-  Insulin aspart is stable in infusion fluids such as 0.9% sodium chloride.
-- •Administer insulin aspart intravenously ONLY under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6) and How Supplied/Storage and Handling (16.2)].
+- •Administer Insulin Aspart intravenously only under medical supervision with close monitoring of blood glucose and potassium levels to avoid hypoglycemia and hypokalemia [see Warnings and Precautions (5.3, 5.6) and How Supplied/Storage and Handling (16.2)].
+- •Dilute Insulin Aspart to concentrations from 0.05 unit/mL to 1 unit/mL insulin aspart in infusion systems using polypropylene infusion bags.
+  Insulin Aspart is stable in infusion fluids such as 0.9% Sodium Chloride Injection, USP.
 
-## 2.3 Dosage Information
+## 2.3 Dosage Recommendations
 
-- •Individualize and adjust the dosage of insulin aspart based on route of administration, the individual's metabolic needs, blood glucose monitoring results and glycemic control goal.
+- •Individualize the dosage of Insulin Aspart based on the route of administration, the patient’s metabolic needs, blood glucose monitoring results and glycemic control goal.
 - •Dosage adjustments may be needed with changes in physical activity, changes in meal patterns (i.e., macronutrient content or timing of food intake), changes in renal or hepatic function or during acute illness [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.6, 8.7)].
-- •Dosage adjustment may be needed when switching from another insulin to insulin aspart [see Warnings and Precautions (5.2)].
+- •When switching from another insulin to Insulin Aspart, a different dosage of Insulin Aspart may be needed [see Warnings and Precautions (5.2)].
+- •During changes to a patient’s insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 
-## 2.4 Dosage Adjustment Due to Drug Interactions
+## 2.4 Dosage Modifications for Drug Interactions
 
-- •Dosage adjustment may be needed when insulin aspart is coadministered with certain drugs [see Drug Interactions (7)].
+Dosage modification may be needed when Insulin Aspart is used concomitantly with certain drugs [see Drug Interactions (7)].
 
-## 2.5 Instructions for Mixing with Other Insulins
+## 2.5 Instructions for Mixing Insulin Aspart with Other Insulins
 
-| Insulin aspart subcutaneous injection route | Insulin aspart may be mixed with NPH insulin preparations ONLY. • If insulin aspart is mixed with NPH insulin, draw insulin aspart into the syringe first and inject immediately after mixing. |
+The table below includes instructions regarding mixing Insulin Aspart with other insulins.
+
+| Subcutaneous injection route | •Insulin Aspart may only be mixed with NPH insulin preparations. • If Insulin Aspart is mixed with NPH insulin, withdraw Insulin Aspart into the syringe first and inject immediately after mixing. |
 | --- | --- |
-| Insulin aspart continuous subcutaneous infusion route (Insulin Pump) | Do NOT mix insulin aspart with any other insulin. |
+| Continuous subcutaneous infusion route (Insulin Pump) | Do not mix Insulin Aspart with any other insulin. |

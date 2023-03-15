@@ -1,34 +1,38 @@
 # PATIENT INFORMATION
 
-Insulin Aspart Injection
+Insulin Aspart [in∙suh∙luhn a∙sprt]
+
+injection, for subcutaneous or intravenous use
+
+This product is NovoLog (insulin aspart).
 
 Do not share your Insulin Aspart FlexPen, PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-What is insulin aspart?
+What is Insulin Aspart?
 
-- •Insulin aspart is a man-made insulin that is used to control high blood sugar in adults and children with diabetes mellitus.
+- •Insulin Aspart is a man-made insulin that is used to control high blood sugar in adults and children with diabetes mellitus.
 
-Who should not take insulin aspart?
+Who should not take Insulin Aspart?
 
-Do not take insulin aspart if you:
+Do not take Insulin Aspart if you:
 
 - •are having an episode of low blood sugar (hypoglycemia).
-- •have an allergy to insulin aspart or any of the ingredients in insulin aspart.
+- •have an allergy to Insulin Aspart or any of the ingredients in Insulin Aspart.
 
-Before taking insulin aspart, tell your healthcare provider about all your medical conditions including, if you are:
+Before taking Insulin Aspart, tell your healthcare provider about all your medical conditions including, if you are:
 
 - •pregnant, planning to become pregnant, or are breastfeeding.
 - •taking new prescription or over-the-counter medicines, vitamins, or herbal supplements.
 
-Before you start taking insulin aspart, talk to your healthcare provider about low blood sugar and how to manage it.
+Before you start taking Insulin Aspart, talk to your healthcare provider about low blood sugar and how to manage it.
 
-How should I take insulin aspart?
+How should I take Insulin Aspart?
 
-- •Read the Instructions for Use that come with your insulin aspart.
-- •Take insulin aspart exactly as your healthcare provider tells you to.
-- •Insulin aspart starts acting fast.
-  You should eat a meal within 5 to 10 minutes after you take your dose of insulin aspart.
+- •Read the Instructions for Use that come with your Insulin Aspart.
+- •Take Insulin Aspart exactly as your healthcare provider tells you to.
+- •Insulin Aspart starts acting fast.
+  You should eat a meal within 5 to 10 minutes after you take your dose of Insulin Aspart.
 - •Know the type and strength of insulin you take.
   Do not change the type of insulin you take unless your healthcare provider tells you to.
   The amount of insulin and the best time for you to take your insulin may need to change if you take different types of insulin.
@@ -36,22 +40,22 @@ How should I take insulin aspart?
   Ask your healthcare provider what your blood sugars should be and when you should check your blood sugar levels.
 - •Do not reuse or share your needles with other people.
   You may give other people a serious infection or get a serious infection from them.
-- •Insulin aspart can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs) or upper arms, or by continuous infusion under the skin (subcutaneously) through an insulin pump into an area of your body recommended in the instructions that come with your insulin pump.
+- •Insulin Aspart can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs) or upper arms, or by continuous infusion under the skin (subcutaneously) through an insulin pump into an area of your body recommended in the instructions that come with your insulin pump.
 - •Change (rotate) your injection sites within the area you choose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
 - oDo not use the exact same spot for each injection.
 - oDo not inject where the skin has pits, is thickened, or has lumps.
 - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
-What should I avoid while taking insulin aspart?
+What should I avoid while taking Insulin Aspart?
 
-While taking insulin aspart do not:
+While taking Insulin Aspart do not:
 
-- •Drive or operate heavy machinery, until you know how insulin aspart affects you.
+- •Drive or operate heavy machinery, until you know how Insulin Aspart affects you.
 - •Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
 
-What are the possible side effects of insulin aspart?
+What are the possible side effects of Insulin Aspart?
 
-Insulin aspart may cause serious side effects that can lead to death, including:
+Insulin Aspart may cause serious side effects that can lead to death, including:
 
 Low blood sugar (hypoglycemia).
 Signs and symptoms that may indicate low blood sugar include:
@@ -75,7 +79,7 @@ Your insulin dose may need to change because of:
 - •weight gain or loss
 - •illness
 
-Other common side effects of insulin aspart may include:
+Other common side effects of Insulin Aspart may include:
 
 - •low potassium in your blood (hypokalemia), reactions at the injection site, itching, rash, serious allergic reactions (whole body reactions), skin thickening or pits at the injection site (lipodystrophy), weight gain, and swelling of your hands and feet.
 
@@ -83,56 +87,61 @@ Get emergency medical help if you have:
 
 - •trouble breathing, shortness of breath, fast heartbeat, swelling of your face, tongue, or throat, sweating, extreme drowsiness, dizziness, confusion.
 
-These are not all the possible side effects of insulin aspart.
+These are not all the possible side effects of Insulin Aspart.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about the safe and effective use of insulin aspart.
+General information about the safe and effective use of Insulin Aspart.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-You can ask your pharmacist or healthcare provider for information about insulin aspart that is written for health professionals.
-Do not use insulin aspart for a condition for which it was not prescribed.
-Do not give insulin aspart to other people, even if they have the same symptoms that you have.
+You can ask your pharmacist or healthcare provider for information about Insulin Aspart that is written for health professionals.
+Do not use Insulin Aspart for a condition for which it was not prescribed.
+Do not give Insulin Aspart to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-What are the ingredients in insulin aspart?
+What are the ingredients in Insulin Aspart?
 
 Active Ingredient: insulin aspart
 
-Inactive Ingredients: glycerin, phenol, metacresol, zinc, disodium hydrogen phosphate dihydrate, sodium chloride and water for injection
+Inactive Ingredients: disodium hydrogen phosphate dihydrate, glycerin, metacresol, phenol, sodium chloride, zinc, and Water for Injection, USP.
+Hydrochloric acid 10% and/or sodium hydroxide 10% may be added to adjust pH.
 
-Manufactured by: Novo Nordisk A/S; DK-2880 Bagsvaerd, Denmark
+Manufactured by: Novo Nordisk Inc., Plainsboro, NJ 08536, U.S. License Number 1261
 
 For more information, call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2019
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
-Insulin Aspart Injection
+Insulin Aspart [in∙suh∙luhn a∙sprt]
 
-10 mL multiple-dose vial (100 Units/mL, U-100)
+injection, for subcutaneous or intravenous use
 
-Read this Instructions for Use before you start taking insulin aspart and each time you get a refill.
+10 mL multiple-dose vial (100 units/mL, U-100)
+
+This product is NovoLog (insulin aspart).
+
+Read this Instructions for Use before you start taking Insulin Aspart and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Supplies you will need to give your insulin aspart injection:
+Supplies you will need to give your Insulin Aspart injection:
 
-- •10 mL insulin aspart vial
+- •10 mL Insulin Aspart vial
 - •insulin syringe and needle
 - •alcohol swabs
 
-Preparing your insulin aspart dose:
+Preparing your Insulin Aspart dose:
 
 - •Wash your hands with soap and water.
-- •Before you start to prepare your injection, check the insulin aspart label to make sure that you are taking the right type of insulin.
+- •Before you start to prepare your injection, check the Insulin Aspart label to make sure that you are taking the right type of insulin.
   This is especially important if you use more than 1 type of insulin.
-- •Insulin aspart should look clear and colorless.
-  Do not use insulin aspart if it is thick, cloudy, or is colored.
-- •Do not use insulin aspart past the expiration date printed on the label.
+- •Insulin Aspart should look clear and colorless.
+  Do not use Insulin Aspart if it is thick, cloudy, or is colored.
+- •Do not use Insulin Aspart past the expiration date printed on the label.
 
 Step 1: Pull off the tamper resistant cap (See Figure A).
 
@@ -141,45 +150,46 @@ Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B).
 Step 3: Hold the syringe with the needle pointing up.
 Pull down on the plunger until the black tip reaches the line for the number of units for your prescribed dose (See Figure C).
 
-Step 4: Push the needle through the rubber stopper of the insulin aspart vial (See Figure D).
+Step 4: Push the needle through the rubber stopper of the Insulin Aspart vial (See Figure D).
 
 Step 5: Push the plunger all the way in.
-This puts air into the insulin aspart vial (See Figure E).
+This puts air into the Insulin Aspart vial (See Figure E).
 
-Step 6: Turn the insulin aspart vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure F).
+Step 6: Turn the Insulin Aspart vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure F).
 
 - •If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top (See Figure G).
 
-Step 7: Slowly push the plunger up until the black tip reaches the line for your insulin aspart dose (See Figure H).
+Step 7: Slowly push the plunger up until the black tip reaches the line for your Insulin Aspart dose (See Figure H).
 
-Step 8: Check the syringe to make sure you have the right dose of insulin aspart.
+Step 8: Check the syringe to make sure you have the right dose of Insulin Aspart.
 
 Step 9: Pull the syringe out of the vial’s rubber stopper (See Figure I).
 
 - Giving your Injection:
 
-- •Inject your insulin aspart exactly as your healthcare provider has shown you.
+- •Inject your Insulin Aspart exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •Insulin aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump (continuous subcutaneous infusion into an area of your body recommended in the instructions that come with your insulin pump), or given through a needle in your arm (intravenously) by your healthcare provider.
-- •If you inject insulin aspart, change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- •Insulin Aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs or upper arms, infused in an insulin pump (continuous subcutaneous infusion into an area of your body recommended in the instructions that come with your insulin pump), or given through a needle in your arm (intravenously) by your healthcare provider.
+- •If you inject Insulin Aspart, change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, is thickened, or has lumps.
   Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-- •If you use insulin aspart in an insulin pump, you should change your insertion site every 3 days.
-  Insulin aspart should be given into an area of your body recommended in the instructions that come with your insulin pump.
+- •If you use Insulin Aspart in an insulin pump, you should change your infusion set and insertion site according to the manufacturer’s user manual.
+  This Insulin Aspart product can be used with the continuous subcutaneous insulin infusion pumps labeled for use with NovoLog (insulin aspart) - refer to the insulin pump user manual to see if NovoLog can be used.
+  Insulin Aspart should be given into an area of your body recommended in the instructions that come with your insulin pump.
   Change (rotate) your insertion sites within the area you choose for each insertion to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the insertion sites.
   Do not insert into the exact same spot for each insertion.
   Do not insert where the skin has pits, is thickened, or has lumps.
   Do not insert where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-  The insulin in the reservoir should be changed at least every 6 days even if you have not used all of the insulin.
-- •If you use insulin aspart in an insulin pump, see your insulin pump manual for instructions or talk to your healthcare provider.
-- •NPH insulin is the only type of insulin that can be mixed with insulin aspart.
-  Do not mix insulin aspart with any other type of insulin.
-- •Insulin aspart should only be mixed with NPH insulin if it is going to be injected right away under your skin (subcutaneously).
-- •Insulin aspart should be drawn up into the syringe before you draw up your NPH insulin.
-- •Talk to your healthcare provider if you are not sure about the right way to mix insulin aspart and NPH insulin.
+  The insulin in the reservoir should be changed at least every 7 days or according to the pump user manual, whichever is shorter, even if you have not used all of the insulin.
+- •If you use Insulin Aspart in an insulin pump, see your insulin pump manual for instructions or talk to your healthcare provider.
+- •NPH insulin is the only type of insulin that can be mixed with Insulin Aspart.
+  Do not mix Insulin Aspart with any other type of insulin.
+- •Insulin Aspart should only be mixed with NPH insulin if it is going to be injected right away under your skin (subcutaneously).
+- •Insulin Aspart should be drawn up into the syringe before you draw up your NPH insulin.
+- •Talk to your healthcare provider if you are not sure about the right way to mix Insulin Aspart and NPH insulin.
 
-Step 10: Choose your injection site and wipe the skin with an alcohol swab.
+Step 10: Choose your injection site (stomach area, buttocks, upper legs or upper arms) and wipe the skin with an alcohol swab.
 Let the injection site dry before you inject your dose (See Figure J).
 
 (Figure J)
@@ -188,7 +198,7 @@ Step 11: Insert the needle into your skin.
 Push down on the plunger to inject your dose (See Figure K). The needle should remain in the skin for at least 6 seconds to make sure you have injected all the insulin.
 
 Step 12: Pull the needle out of your skin.
-After that, you may see a drop of insulin aspart at the needle tip.
+After that, you may see a drop of Insulin Aspart at the needle tip.
 This is normal and does not affect the dose you just received (See Figure L).
 
 - •If you see blood after you take the needle out of your skin, press the injection site lightly with a
@@ -211,34 +221,39 @@ After your injection:
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-How should I store insulin aspart?
+How should I store Insulin Aspart?
 
-- •Do not freeze insulin aspart.
-  Do not use insulin aspart if it has been frozen.
-- •Keep insulin aspart away from heat or light.
+- •Do not freeze Insulin Aspart.
+  Do not use Insulin Aspart if it has been frozen.
+- •Keep Insulin Aspart away from heat or light.
 - •All unopened vials:
-- oStore unopened insulin aspart vials in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- oStore unopened Insulin Aspart vials in the refrigerator at 36°F to 46°F (2°C to 8°C).
 - oUnopened vials may be used until the expiration date printed on the label, if they have been stored in the refrigerator.
 - oUnopened vials should be thrown away after 28 days, if they are stored at room temperature.
 - •After vials have been opened:
-- oOpened insulin aspart vials can be stored in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
-- oThrow away all opened insulin aspart vials after 28 days, even if they still have insulin left in them.
+- oOpened Insulin Aspart vials can be stored in the refrigerator at 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C).
+- oThrow away all opened Insulin Aspart vials after 28 days, even if they still have insulin left in them.
+- oIf using Insulin Aspart in a pump, throw away all opened Insulin Aspart vials after 19 days.
 
-General information about the safe and effective use of insulin aspart
+General information about the safe and effective use of Insulin Aspart
 
 - •Always use a new syringe and needle for each injection.
 - •Do not share syringes or needles.
-- •Keep insulin aspart vials, syringes, and needles out of the reach of children.
+- •Keep Insulin Aspart vials, syringes, and needles out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
-Novo Nordisk A/S
+Novo Nordisk Inc.
 
-DK-2880 Bagsvaerd, Denmark
+800 Scudders Mill Road
 
-© 2002-2019 Novo Nordisk
+Plainsboro, New Jersey 08536
+
+U.S. License Number 1261
+
+© 2023 Novo Nordisk
 
 Distributed by:
 
@@ -246,23 +261,29 @@ Novo Nordisk Pharma, Inc.
 
 1-800-727-6500
 
-Revised: 11/2019
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
-Insulin Aspart PenFill® 3 mL cartridge 100 Units/mL (U-100) Injection
+Insulin Aspart [in∙suh∙luhn a∙sprt]
+
+injection, for subcutaneous or intravenous use
+
+PenFill® 3 mL cartridge 100 units/mL (U-100)
+
+This product is NovoLog (insulin aspart).
 
 - •Do not share your PenFill cartridge or PenFill cartridge compatible insulin delivery device with other people, even if the needle has been changed.
   You may give other people a serious infection, or get a serious infection from them.
-- •Your healthcare provider should show you or your caregiver how to inject insulin aspart the right way before you inject it for the first time.
-- •Insulin Aspart PenFillcartridge 100 Units/mL is a prefilled, single-patient-use cartridge containing 300 units of insulin aspart.
+- •Your healthcare provider should show you or your caregiver how to inject Insulin Aspart the right way before you inject it for the first time.
+- •Insulin Aspart PenFill cartridge 100 units/mL is a prefilled, single-patient-use cartridge containing 300 units of Insulin Aspart.
 - •After you insert the PenFill cartridge in your device, you can use it for multiple injections.
   Read the instruction manual that comes with your insulin delivery device for complete instructions on how to use the PenFill cartridge with the device.
 - •People who are blind or have vision problems should not use this PenFill cartridge without help from a person trained to use the PenFill cartridge with the device.
 - •If using a new Insulin Aspart PenFill cartridge, start with Step 1.
 - •If the Insulin Aspart PenFill cartridge has already been used, start with Step 2.
 
-Supplies you will need to give your insulin aspart injection:
+Supplies you will need to give your Insulin Aspart injection:
 
 - •Insulin Aspart PenFill cartridge
 - •Novo Nordisk 3 mL PenFill cartridge compatible insulin delivery device
@@ -278,17 +299,17 @@ Supplies you will need to give your insulin aspart injection:
 How to use the Insulin Aspart PenFill cartridge
 
 - •Wash your hands with soap and water.
-- •Before you start to prepare your injection, check the Insulin AspartPenFill cartridge label to make sure that it contains the insulin you need.
+- •Before you start to prepare your injection, check the Insulin Aspart PenFill cartridge label to make sure that it contains the insulin you need.
   This is especially important if you take more than 1 type of insulin.
 - •The tamper-resistant foil should be in place before the first use.
   If the foil has been broken or removed before your first use of the cartridge, do not use it.
   Call Novo Nordisk at 1-800-727-6500.
 - •Carefully look at the cartridge and the insulin inside it.
-  Check that the insulin aspart cartridge:
+  Check that the Insulin Aspart cartridge:
   - o is not damaged, for example cracked or leaking
   - o is not loose on the threaded end
-- • Insulin aspart should look clear and colorless.
-  Do not use insulin aspart if it is cloudy or colored or if the threaded end is loose (See Figure B).
+- • Insulin Aspart should look clear and colorless.
+  Do not use Insulin Aspart if it is cloudy or colored or if the threaded end is loose (See Figure B).
 
 (Figure B)
 
@@ -311,20 +332,20 @@ Step 2:
   You may give others a serious infection, or get a serious infection from them.
 - •Be careful not to bend or damage the needle before you use it.
 - •Push the needle straight onto the device.
-  Turn the needle clockwise until it is on tight(See Figure D).
+  Turn the needle clockwise until it is on tight (See Figure D).
 
 (Figure D)
 
 Step 3:
 
-- •Pulloff the outer needle cap (See Figure E). Do not throw it away.
+- •Pull off the outer needle cap (See Figure E). Do not throw it away.
   You will need it after the injection to safely remove the needle.
 
 (Figure E)
 
 Step 4:
 
-- •Pulloff the inner needle cap and throw it away (See Figure F). Do not try to put the inner needle cap back on the needle.
+- •Pull off the inner needle cap and throw it away (See Figure F). Do not try to put the inner needle cap back on the needle.
 
 (Figure F)
 
@@ -349,7 +370,7 @@ Select your dose
 Step 6:
 
 - •Check to make sure that the dose counter is set to 0.
-- •Turnthe dose selector clockwise to select the dose you need to inject (See Figure H). The pointer should line up with your dose.
+- •Turn the dose selector clockwise to select the dose you need to inject (See Figure H). The pointer should line up with your dose.
   When turning the dose selector, be careful not to press the dose button as insulin will come out.
   You will hear a click for every single unit dialed.
   Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
@@ -361,9 +382,9 @@ Inject your dose
 
 Step 7:
 
-- •Dothe injection exactly as shown to you by your healthcare provider.
+- •Do the injection exactly as shown to you by your healthcare provider.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •Insulin aspart can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs), or upper arms (See Figure I).
+- •Insulin Aspart can be injected under the skin (subcutaneously) of your stomach area (abdomen), buttocks, upper legs (thighs), or upper arms (See Figure I).
 
 - (Figure I)
 
@@ -371,17 +392,17 @@ Step 7:
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, is thickened, or has lumps.
   Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
-- •Cleanyour injection site with an alcohol swab.
+- •Clean your injection site with an alcohol swab.
   Let your skin dry.
   Do not touch this area again before injecting.
-- •Insertthe needle into your skin.
+- •Insert the needle into your skin.
   Press and hold down the dose button until the dose counter shows “0”.
   Continue to keep the dose button pressed and keep the needle in your skin and slowly count to 6 (see Figure J).
 - •Remove the needle from your skin.
 
 (Figure J)
 
-You may see a drop of insulin aspart at the needle tip after injecting.
+You may see a drop of Insulin Aspart at the needle tip after injecting.
 This is normal and has no effect on the dose you just received.
 If blood appears after you take the needle out of your skin, press the injection site lightly with a cotton gauze and cover with an adhesive bandage, if necessary.
 Do not rub the area.
@@ -418,54 +439,62 @@ Step 9:
 
 - •Keep the 3 mL PenFill cartridge in the device.
   Do not store your device with a needle attached.
-  This will prevent infection or leakage of insulin and will make sure that you receive the right dose of insulin aspart.
-- •Putthe pen cap on your device after each use to protect the insulin from light (See Figure M).
+  This will prevent infection or leakage of insulin and will make sure that you receive the right dose of Insulin Aspart.
+- •Put the pen cap on your device after each use to protect the insulin from light (See Figure M).
 
 (Figure M)
 
 How should I store my Insulin Aspart PenFill cartridge?
 
-- •Do not freeze insulin aspart.
-  Do not use insulin aspart if it has been frozen.
-- •Keep insulin aspart away from heat or light.
+- •Do not freeze Insulin Aspart.
+  Do not use Insulin Aspart if it has been frozen.
+- •Keep Insulin Aspart away from heat or light.
 - •Store the Insulin Aspart PenFill cartridge without the needle attached.
 
 Before use:
 
 - •Store unused Insulin Aspart PenFill cartridges in the refrigerator at 36°F to 46°F (2°C to 8°C).
 - •Unused PenFill cartridges may be used until the expiration date printed on the label, if kept in the refrigerator.
-- •If insulin aspart is stored mistakenly outside of refrigeration between 47°F (9°C) to 86°F (30°C) prior to first use, it should be used within 28 days or thrown away.
+- •If Insulin Aspart is stored mistakenly outside of refrigeration between 47°F (9°C) to 86°F (30°C) prior to first use, it should be used within 28 days or thrown away.
 
 PenFill cartridges in use:
 
-- •Store the PenFill cartridgeyou are currently using in the insulin delivery device at room temperature below 86°F (30°C) for up to 28 days.
+- •Store the PenFill cartridge you are currently using in the insulin delivery device at room temperature below 86°F (30°C) for up to 28 days.
   Do not refrigerate.
 - •The Insulin Aspart PenFill cartridge you are using should be thrown away after 28 days, even if it still has insulin left in it.
 
-GeneralInformation about the safe and effective use of insulin aspart.
+General Information about the safe and effective use of Insulin Aspart.
 
 - •Keep Insulin Aspart PenFill cartridges and needles out of the reach of children.
-- •Do not share Insulin Aspart PenFill cartridgesor needles with other people.
+- •Do not share Insulin Aspart PenFill cartridges or needles with other people.
   You may give other people a serious infection, or get a serious infection from them.
-- •Alwayscarry extra insulin of the same type(s) you use in case of loss or damage.
+- •Always carry extra insulin of the same type(s) you use in case of loss or damage.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-© 2002-2019 Novo Nordisk
+© 2023 Novo Nordisk
 
 Manufactured by:
 
-Novo Nordisk A/S
+Novo Nordisk Inc.
 
-DK-2880 Bagsvaerd, Denmark
+800 Scudders Mill Road
 
-Revised: 11/2019
+Plainsboro, NJ 08536
+
+U.S. License Number 1261
+
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
-Insulin Aspart FlexPen®
+Insulin Aspart [in∙suh∙luhn a∙sprt]
 
-Injection
+injection, for subcutaneous or intravenous use
+
+3 mL FlexPen® prefilled pen (100 units/mL, U-100)
+
+This product is NovoLog (insulin aspart).
 
 Introduction
 
@@ -474,7 +503,7 @@ Please read the following instructions carefully before using your Insulin Aspar
 Do not share your Insulin Aspart FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-Insulin Aspart FlexPen is a disposable, single-patient use, dial-a-dose insulin pen.
+Insulin Aspart FlexPen is a disposable, single-patient-use, dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
 Insulin Aspart FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
 
@@ -493,7 +522,7 @@ Preparing your Insulin Aspart FlexPen
 Wash your hands with soap and water.
 Before you start to prepare your injection, check the label to make sure that you are taking the right type of insulin.
 This is especially important if you take more than 1 type of insulin.
-Insulin aspart should look clear and colorless.
+Insulin Aspart should look clear and colorless.
 Do not use your Insulin Aspart FlexPen if the liquid contains particles or is colored.
 
 A. Pull off the pen cap (see diagram A).
@@ -560,7 +589,7 @@ Do the injection exactly as shown to you by your healthcare provider.
 Your healthcare provider should tell you if you need to pinch the skin before injecting.
 Wipe the skin with an alcohol swab and let the area dry.
 
-Insulin aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
+Insulin Aspart can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
 
 Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
 Do not use the same injection site for each injection.
@@ -590,6 +619,7 @@ This helps to prevent infection, leakage of insulin, and will help to make sure 
 If you do not have a sharps container, carefully slip the needle into the outer needle cap.
 Safely remove the needle and throw it away as soon as you can.
 
+- •The used Insulin Aspart FlexPen may be thrown away in your household trash after you have removed the needle.
 - •Put your used needles in a FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles in your household trash.
 - •If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
@@ -613,9 +643,9 @@ Storing without the needle attached helps prevent leaking, blocking of the needl
 
 How should I store Insulin Aspart FlexPen?
 
-- •Do not freeze insulin aspart.
-  Do not use insulin aspart if it has been frozen.
-- •Keep insulin aspart away from heat or light.
+- •Do not freeze Insulin Aspart.
+  Do not use Insulin Aspart if it has been frozen.
+- •Keep Insulin Aspart away from heat or light.
 - •Store the Insulin Aspart FlexPen without the needle attached.
 - •Until first use:
 - oStore unused Insulin Aspart FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
@@ -661,4 +691,16 @@ Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2019
+Manufactured by:
+
+Novo Nordisk Inc.
+
+800 Scudders Mill Road
+
+Plainsboro, New Jersey 08536
+
+1-800-727-6500
+
+U.S. License Number 1261
+
+Revised: 02/2023

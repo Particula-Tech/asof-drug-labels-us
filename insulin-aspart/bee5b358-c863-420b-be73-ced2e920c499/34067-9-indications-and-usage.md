@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Insulin aspart is a rapid acting human insulin analog indicated to improve glycemic control in adults and children with diabetes mellitus.
+Insulin Aspart is indicated to improve glycemic control in adults and pediatric patients with diabetes mellitus.
