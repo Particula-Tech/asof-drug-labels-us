@@ -1,38 +1,42 @@
 # PATIENT INFORMATION
 
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30
 
-Do not share your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen with other people, even if the needle has been changed.
+injectable suspension, for subcutaneous use
+
+This product is NovoLog Mix 70/30 (insulin aspart protamine and insulin aspart).
+
+Do not share your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-What is Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30?
+What is Insulin Aspart Protamine and Insulin Aspart Mix 70/30?
 
-- •Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 is a man-made insulin that is used to control high blood sugar in people with diabetes mellitus.
-- •It is not known if Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 is safe and effective in children.
+- •Insulin Aspart Protamine and Insulin Aspart Mix 70/30 is a man-made insulin that is used to control high blood sugar in people with diabetes mellitus.
+- •It is not known if Insulin Aspart Protamine and Insulin Aspart Mix 70/30 is safe and effective in children.
 
-Who should not take Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30?
+Who should not take Insulin Aspart Protamine and Insulin Aspart Mix 70/30?
 
-Do not take Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 if you:
+Do not take Insulin Aspart Protamine and Insulin Aspart Mix 70/30 if you:
 
 - •are having an episode of low blood sugar (hypoglycemia).
-- •have an allergy to Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 or any of the ingredients in Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
+- •have an allergy to Insulin Aspart Protamine and Insulin Aspart Mix 70/30 or any of the ingredients in Insulin Aspart Protamine and Insulin Aspart Mix 70/30.
 
-Before taking Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30, tell your healthcare provider about all your medical conditions including, if you are:
+Before taking Insulin Aspart Protamine and Insulin Aspart Mix 70/30, tell your healthcare provider about all your medical conditions including, if you are:
 
 - •pregnant, planning to become pregnant, or are breastfeeding.
 - •taking new prescription or over-the-counter medicines, vitamins, or herbal supplements.
 
-Before you start taking Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30, talk to your healthcare provider about low blood sugar and how to manage it.
+Before you start taking Insulin Aspart Protamine and Insulin Aspart Mix 70/30, talk to your healthcare provider about low blood sugar and how to manage it.
 
-How should I take Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30?
+How should I take Insulin Aspart Protamine and Insulin Aspart Mix 70/30?
 
-- •Read the Instructions for Use that come with your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
-- •Take Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 exactly as your healthcare provider tells you to.
-- •Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 starts acting fast.
+- •Read the Instructions for Use that come with your Insulin Aspart Protamine and Insulin Aspart Mix 70/30.
+- •Take Insulin Aspart Protamine and Insulin Aspart Mix 70/30 exactly as your healthcare provider tells you to.
+- •Insulin Aspart Protamine and Insulin Aspart Mix 70/30 starts acting fast.
   If you have Type 1 diabetes, inject it up to 15 minutes before you eat a meal.
-  Do not inject Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 if you are not planning to eat within 15 minutes.
-  If you have Type 2 diabetes, you may inject Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 up to 15 minutes before or after starting your meal.
-- •Do not mix Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 with other insulin products or use in an insulin pump.
+  Do not inject Insulin Aspart Protamine and Insulin Aspart Mix 70/30 if you are not planning to eat within 15 minutes.
+  If you have Type 2 diabetes, you may inject Insulin Aspart Protamine and Insulin Aspart Mix 70/30 up to 15 minutes before or after starting your meal.
+- •Do not mix Insulin Aspart Protamine and Insulin Aspart Mix 70/30 with other insulin products or use in an insulin pump.
 - •Know the type and strength of insulin you take.
   Do not change the type of insulin you take unless your healthcare provider tells you to.
   The amount of insulin and the best time for you to take your insulin may need to change if you take different types of insulin.
@@ -41,9 +45,8 @@ How should I take Insulin Aspart Protamine and Insulin Aspart Injectable Suspens
 - • Do not reuse or share your needles or syringes with other people.
   You may give other people a serious
 - infection or get a serious infection from them.
-- • Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 is injected under the skin
-- (subcutaneously) of your stomach area,
-- buttocks, upper legs, or upper arms.
+- • Insulin Aspart Protamine and Insulin Aspart Mix 70/30 is injected under the skin (subcutaneously) of your
+- stomach area, buttocks, upper legs, or upper arms.
 - • Change (rotate) your injection sites within the same area you choose with each dose to reduce your risk of
 - getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the
 - injection sites.
@@ -51,18 +54,16 @@ How should I take Insulin Aspart Protamine and Insulin Aspart Injectable Suspens
 - oDo not inject where skin has pits, is thickened, or has lumps.
 - oDo not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
-What should I avoid while taking Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30?
+What should I avoid while taking Insulin Aspart Protamine and Insulin Aspart Mix 70/30?
 
-While taking Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 do not:
+While taking Insulin Aspart Protamine and Insulin Aspart Mix 70/30 do not:
 
-- •Drive or operate heavy machinery, until you know how Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 affects you.
+- •Drive or operate heavy machinery, until you know how Insulin Aspart Protamine and Insulin Aspart Mix 70/30 affects you.
 - •Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
 
-What are the possible side effects of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension
+What are the possible side effects of Insulin Aspart Protamine and Insulin Aspart Mix 70/30?
 
-Mix 70/30?
-
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 may cause serious side effects that can lead to death, including:
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30 may cause serious side effects that can lead to death, including:
 
 Low blood sugar (hypoglycemia).
 Signs and symptoms that may indicate low blood sugar include:
@@ -86,7 +87,7 @@ Your insulin dose may need to change because of:
 - •weight gain or loss
 - •illness
 
-Other common side effects of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 may include:
+Other common side effects of Insulin Aspart Protamine and Insulin Aspart Mix 70/30 may include:
 
 - •low potassium in your blood (hypokalemia), reactions at the injection site, itching, rash, serious allergic reactions (whole body reactions), skin thickening or pits at the injection site (lipodystrophy), weight gain, and swelling of your hands and feet.
 
@@ -94,19 +95,19 @@ Get emergency medical help if you have:
 
 - •trouble breathing, shortness of breath, fast heartbeat, swelling of your face, tongue, or throat, sweating, extreme drowsiness, dizziness, confusion.
 
-These are not all the possible side effects of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
+These are not all the possible side effects of Insulin Aspart Protamine and Insulin Aspart Mix 70/30.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-General information about the safe and effective use of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
+General information about the safe and effective use of Insulin Aspart Protamine and Insulin Aspart Mix 70/30.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
-You can ask your pharmacist or healthcare provider for information about Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 that is written for health professionals.
-Do not use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 for a condition for which it was not prescribed.
-Do not give Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 to other people, even if they have the same symptoms that you have.
+You can ask your pharmacist or healthcare provider for information about Insulin Aspart Protamine and Insulin Aspart Mix 70/30 that is written for health professionals.
+Do not use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 for a condition for which it was not prescribed.
+Do not give Insulin Aspart Protamine and Insulin Aspart Mix 70/30 to other people, even if they have the same symptoms that you have.
 It may harm them.
 
-What are the ingredients in Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30?
+What are the ingredients in Insulin Aspart Protamine and Insulin Aspart Mix 70/30?
 
 Active Ingredient: 70% insulin aspart protamine and 30% insulin aspart.
 
@@ -125,67 +126,71 @@ For more information call 1-800-727-6500.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 10/2020
+Revised: 02/2023
 
 INSTRUCTIONS FOR USE
 
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30
+
+injectable suspension, for subcutaneous use
 
 10 mL multiple-dose vial (100 Units/mL, U-100)
 
-Read this Instructions for Use before you start taking Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 and each time you get a refill.
+This product is NovoLog Mix 70/30 (insulin aspart protamine and insulin aspart).
+
+Read this Instructions for Use before you start taking Insulin Aspart Protamine and Insulin Aspart Mix 70/30 and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
-Supplies you will need to give your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 injection:
+Supplies you will need to give your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 injection:
 
-- •10 mL Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vial
+- •10 mL Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vial
 - •insulin syringe and needle
 - •alcohol swabs
 
-Preparing your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 dose:
+Preparing your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 dose:
 
 - •Wash your hands with soap and water.
-- •Before you start to prepare your injection, check the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 label to make sure that you are taking the right type of insulin.
+- •Before you start to prepare your injection, check the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 label to make sure that you are taking the right type of insulin.
   This is especially important if you use more than 1 type of insulin.
-- •Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 should look white and cloudy after mixing.
-  Do not use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 if it looks clear or contains any lumps or particles.
-- •Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 is easier to mix when it is at room temperature.
-- •After mixing Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30, inject your dose right away.
+- •Insulin Aspart Protamine and Insulin Aspart Mix 70/30 should look white and cloudy after mixing.
+  Do not use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 if it looks clear or contains any lumps or particles.
+- •Insulin Aspart Protamine and Insulin Aspart Mix 70/30 is easier to mix when it is at room temperature.
+- •After mixing Insulin Aspart Protamine and Insulin Aspart Mix 70/30, inject your dose right away.
   If you wait to inject your dose, the insulin will need to be mixed again.
-- •Do not use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 past the expiration date printed on the label.
+- •Do not use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 past the expiration date printed on the label.
 
 Step 1: If you are using a new vial, pull off the tamper-resistant cap (See Figure A).
 
 Step 2: Wipe the rubber stopper with an alcohol swab (See Figure B).
 
-Step 3: Roll the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vial between your hands 10 times.
-Keep the vial in a horizontal (flat) position (See Figure C). Roll the vial between your hands until the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 looks white and cloudy.
+Step 3: Roll the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vial between your hands 10 times.
+Keep the vial in a horizontal (flat) position (See Figure C). Roll the vial between your hands until the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 looks white and cloudy.
 Do not shake the vial.
 
 Step 4: Hold the syringe with the needle pointing up.
 Pull down on the plunger until the black tip reaches the line for the number of units for your prescribed dose (See Figure D).
 
-Step 5: Push the needle through the rubber stopper of the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vial (See Figure E).
+Step 5: Push the needle through the rubber stopper of the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vial (See Figure E).
 
 Step 6: Push the plunger all the way in.
-This puts air into the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vial (See Figure F).
+This puts air into the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vial (See Figure F).
 
-Step 7: Turn the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure G).
+Step 7: Turn the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vial and syringe upside down and slowly pull the plunger down until the black tip is a few units past the line for your dose (See Figure G).
 
 - •If there are air bubbles, tap the syringe gently a few times to let any air bubbles rise to the top (See Figure H).
 
-Step 8: Slowly push the plunger up until the black tip reaches the line for your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 dose (See Figure I).
+Step 8: Slowly push the plunger up until the black tip reaches the line for your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 dose (See Figure I).
 
-Step 9: Check the syringe to make sure you have the right dose of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
+Step 9: Check the syringe to make sure you have the right dose of Insulin Aspart Protamine and Insulin Aspart Mix 70/30.
 
 Step 10: Pull the syringe out of the vial’s rubber stopper (See Figure J).
 
 Giving your injection:
 
-- •Inject your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 exactly as your healthcare provider has shown you.
+- •Inject your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 exactly as your healthcare provider has shown you.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
-- •Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
+- •Insulin Aspart Protamine and Insulin Aspart Mix 70/30 is injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs, or upper arms.
 - •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, is thickened, or has lumps.
@@ -198,7 +203,7 @@ Step 12: Insert the needle into your skin.
 Push down on the plunger to inject your dose (See Figure L). The needle should remain in the skin for at least 6 seconds to make sure you have injected all the insulin.
 
 Step 13: Pull the needle out of your skin.
-After that, you may see a drop of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 at the needle tip.
+After that, you may see a drop of Insulin Aspart Protamine and Insulin Aspart Mix 70/30 at the needle tip.
 This is normal and does not affect the dose you just received (See Figure M).
 
 - •If you see blood after you take the needle out of your skin, press the injection site lightly with a piece of gauze or an alcohol swab.
@@ -221,24 +226,24 @@ After your injection:
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-How should I store Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30?
+How should I store Insulin Aspart Protamine and Insulin Aspart Mix 70/30?
 
-- •Do not freeze Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
-  Do not use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 if it has been frozen.
-- •Keep Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 away from heat or light.
+- •Do not freeze Insulin Aspart Protamine and Insulin Aspart Mix 70/30.
+  Do not use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 if it has been frozen.
+- •Keep Insulin Aspart Protamine and Insulin Aspart Mix 70/30 away from heat or light.
 - All unopened vials:
-- •Store unopened Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vials in the refrigerator at 36OF to 46OF (2OC to 8OC).
+- •Store unopened Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vials in the refrigerator at 36°F to 46°F (2°C to 8°C).
 - •Unopened vials may be used until the expiration date printed on the label, if they have been stored in the refrigerator.
 - •Unopened vials should be thrown away after 28 days, if they are stored at room temperature.
 - After vials have been opened:
-- •Opened Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vials can be stored in the refrigerator 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C) for up to 28 days.
-- •Throw away all opened Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vials after 28 days, even if they still have insulin left in them.
+- •Opened Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vials can be stored in the refrigerator 36°F to 46°F (2°C to 8°C) or at room temperature below 86°F (30°C) for up to 28 days.
+- •Throw away all opened Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vials after 28 days, even if they still have insulin left in them.
 
-General information about the safe and effective use of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30
+General information about the safe and effective use of Insulin Aspart Protamine and Insulin Aspart Mix 70/30
 
 - •Always use a new syringe and needle for each injection.
 - •Do not share syringes or needles.
-- •Keep Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 vials, syringes, and needles out of the reach of children.
+- •Keep Insulin Aspart Protamine and Insulin Aspart Mix 70/30 vials, syringes, and needles out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -250,13 +255,13 @@ Novo Nordisk Inc.
 
 Plainsboro, NJ 08536
 
-U.S. License Number: 1261
+U.S. License Number 1261
 
-Revised: 10/2020
+Revised: 02/2023
 
-PATENT Information: http://novonordisk-us.com/patients/products/product-patents.html
+PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2002-2020 Novo Nordisk
+© 2023 Novo Nordisk
 
 For information contact:
 
@@ -266,37 +271,43 @@ Novo Nordisk Pharma, Inc.
 
 INSTRUCTIONS FOR USE
 
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30FlexPen®
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30
 
-Read the following instructions carefully before you start using your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen and each time you get a refill.
+injectable suspension, for subcutaneous use
+
+FlexPen®
+
+This product is Novolog Mix 70/30 (insulin aspart protamine and insulin aspart).
+
+Read the following instructions carefully before you start using your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen and each time you get a refill.
 There may be new information.
-You should read the instructions even if you have used Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen before.
+You should read the instructions even if you have used Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen before.
 
-Do not share your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen with other people, even if the needle has been changed.
+Do not share your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen with other people, even if the needle has been changed.
 You may give other people a serious infection, or get a serious infection from them.
 
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen is a disposable, single-patient-use, dial-a-dose insulin pen.
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen is a disposable, single-patient-use dial-a-dose insulin pen.
 You can select doses from 1 to 60 units in increments of 1 unit.
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen is designed to be used with NovoFine, NovoFine Plus or NovoTwist needles.
 
-Peoplewho are blind or have vision problems should not use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen without help from a person trained to use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen.
+People who are blind or have vision problems should not use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen without help from a person trained to use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen.
 
 Getting ready
 
 Make sure you have the following items:
 
-- •Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen
+- •Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen
 - •New NovoFine, NovoFine Plus or NovoTwist needle
 - •Alcohol swabs
 
-Preparing your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen
+Preparing your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen
 
 - •Wash your hands with soap and water.
 - •Before you start to prepare your injection, check the label to make sure that you are taking the right type of insulin.
   This is especially important if you take more than 1 type of insulin.
-  Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 should look cloudy after mixing.
+  Insulin Aspart Protamine and Insulin Aspart Mix 70/30 should look cloudy after mixing.
 
-Before your first injection with a new Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen you must mix the insulin:
+Before your first injection with a new Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen you must mix the insulin:
 
 A. Let the insulin reach room temperature before you use it.
 This makes it easier to mix.
@@ -318,28 +329,26 @@ If there is a delay, the insulin will need to be mixed again.
 Wipe the rubber stopper with an alcohol swab.
 
 Before you inject, there must be at least 12 units of insulin left in the cartridge to make sure the remaining insulin is evenly mixed.
-If there are less than 12 units left, use a new Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen.
+If there are less than 12 units left, use a new Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen.
 
 Attaching the needle
 
 D. Remove the protective tab from a disposable needle.
 
-Screw the needle tightly onto your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen.
+Screw the needle tightly onto your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen.
 It is important that the needle is put on straight (see diagram D).
 
-Never place a disposable needle on your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen until you are ready to take your injection.
+Never place a disposable needle on your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen until you are ready to take your injection.
 
 E. Pull off the big outer needle cap (see diagram E).
 
 F. Pull off the inner needle cap and throw it away (dispose of it) (see diagram F).
 
-- Always use a new needle for each injection to make sure the needle is free of germs (sterile) and to prevent blocked needles.
+- •Always use a new needle for each injection to make sure the needle is free of germs (sterile) and to prevent blocked needles.
   Do not reuse or share your needles or syringes with other people.
   You may give other people a serious infection, or get a serious infection from them.
-
-Be careful not to bend or damage the needle before use.
-
-To reduce the risk of a needle stick, never put the inner needle cap back on the needle.
+- •Be careful not to bend or damage the needle before use.
+- •To reduce the risk of a needle stick, never put the inner needle cap back on the needle.
 
 Giving the airshot before each injection
 
@@ -348,7 +357,7 @@ To avoid injecting air and to make sure you take the right dose of insulin:
 
 G. Turn the dose selector to select 2 units (see diagram G).
 
-H. Hold your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen with the needle pointing up.
+H. Hold your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen with the needle pointing up.
 Tap the cartridge gently with your finger a few times to make any air bubbles collect at the top of the cartridge (see diagram H).
 
 I. Keep the needle pointing upwards, press the push-button all the way in (see diagram I). The dose selector returns to 0.
@@ -356,7 +365,7 @@ I. Keep the needle pointing upwards, press the push-button all the way in (see d
 A drop of insulin should appear at the needle tip.
 If not, change the needle and repeat the procedure no more than 6 times.
 
-If you do not see a drop of insulin after 6 times, do not use the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen and contact Novo Nordisk at 1-800-727-6500.
+If you do not see a drop of insulin after 6 times, do not use the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen and contact Novo Nordisk at 1-800-727-6500.
 
 A small air bubble may remain at the needle tip, but it will not be injected.
 
@@ -374,14 +383,14 @@ You cannot select a dose larger than the number of units left in the cartridge.
 You will hear a click for every single unit dialed.
 Do not set the dose by counting the number of clicks you hear because you may get an incorrect dose.
 
-Do not use the cartridge scale printed on the cartridge to measure your dose of insulin.
+- •Do not use the cartridge scale printed on the cartridge to measure your dose of insulin.
 
 Giving the injection
 
 - •Do the injection exactly as shown to you by your healthcare provider.
   Your healthcare provider should tell you if you need to pinch the skin before injecting.
   Wipe the skin with an alcohol swab and let the area dry.
-- •Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
+- •Insulin Aspart Protamine and Insulin Aspart Mix 70/30 can be injected under the skin (subcutaneously) of your stomach area, buttocks, upper legs (thighs), or upper arms.
 - •Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
   Do not use the same injection site for each injection.
   Do not inject where the skin has pits, is thickened, or has lumps.
@@ -404,7 +413,7 @@ After the injection
 
 Do not recap the needle.
 Recapping can lead to a needle stick injury.
-Remove the needle from the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen after each injection and dispose of it.
+Remove the needle from the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen after each injection and dispose of it.
 This helps to prevent infection, leakage of insulin, and will help to make sure you inject the right dose of insulin.
 
 - •Put your used needles in a FDA-cleared sharps disposal container right away after use.
@@ -420,58 +429,50 @@ This helps to prevent infection, leakage of insulin, and will help to make sure 
   For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
-- •When there is not enough medicine left in your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen for your prescribed dose, the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen may be thrown away in your household trash after you have removed the needle.
-  The Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen prevents the cartridge from being completely emptied.
+- •When there is not enough medicine left in your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen for your prescribed dose, the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen may be thrown away in your household trash after you have removed the needle.
+  The Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen prevents the cartridge from being completely emptied.
   It is designed to deliver 300 units.
 
-M. Put the pen cap on the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen and store the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen without the needle attached (see diagram M). Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
+M. Put the pen cap on the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen and store the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen without the needle attached (see diagram M). Storing without the needle attached helps prevent leaking, blocking of the needle, and air from entering the Pen.
 
-How should I store Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen?
+How should I store Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen?
 
 - 
   - 
     - 
-      - •Do not freeze Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30.
-        Do not use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 if it has been frozen.
-- •Keep Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 away from heat or light.
-- •Store the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen without the needle attached.
-- •Unused Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen:
-- oStore unused Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
-- oUnused Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
-- oUnused Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen should be thrown away after 14 days, if it is stored at room temperature.
-- •In-Use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen:
+      - •Do not freeze Insulin Aspart Protamine and Insulin Aspart Mix 70/30.
+        Do not use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 if it has been frozen.
+- •Keep Insulin Aspart Protamine and Insulin Aspart Mix 70/30 away from heat or light.
+- •Store the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen without the needle attached.
+- •Unused Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen:
+- oStore unused Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen in the refrigerator at 36°F to 46°F (2°C to 8°C).
+- oUnused Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen may be used until the expiration date printed on the label, if kept in the refrigerator.
+- oUnused Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen should be thrown away after 14 days, if it is stored at room temperature.
+- •In-Use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen:
 - oStore the FlexPen you are currently using at room temperature below 86°F (30°C) for up to 14 days.
-- oThe Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
+- oThe Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen you are using should be thrown away after 14 days, even if it still has insulin left in it.
 
 Maintenance
 
-For the safe and proper use of your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen be sure to handle it with care.
-Avoid dropping your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen as it may damage it.
-If you are concerned that your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen is damaged, use a new one.
-You can clean the outside of your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen by wiping it with a damp cloth.
-Do not soak or wash your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen as it may damage it.
-Do not refill your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen.
+For the safe and proper use of your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen be sure to handle it with care.
+Avoid dropping your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen as it may damage it.
+If you are concerned that your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen is damaged, use a new one.
+You can clean the outside of your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen by wiping it with a damp cloth.
+Do not soak or wash your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen as it may damage it.
+Do not refill your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen.
 
-Remove the needle from the Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen after each injection.
-This helps to ensure sterility, prevent leakage of insulin, and will help to make sure you inject the right dose of insulin for future injections.
-
-Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
-
-Keep your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen and needles out of the reach of children.
-
-Use Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen as directed to treat your diabetes.
-
-Do not share your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen or needles with other people.
-You may give other people a serious infection, or get a serious infection from them.
-
-Always use a new needle for each injection.
-
-Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
-
-As a precautionary measure, always carry a spare insulin delivery device in case your Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen is lost or damaged.
-
-Remember to keep the disposable Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 FlexPen with you.
-Do not leave it in a car or other location where it can get too hot or too cold.
+- •Remove the needle from the Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen after each injection.
+  This helps to ensure sterility, prevent leakage of insulin, and will help to make sure you inject the right dose of insulin for future injections.
+- •Be careful when handling used needles to avoid needle sticks and transfer of infectious diseases.
+- •Keep your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen and needles out of the reach of children.
+- •Use Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen as directed to treat your diabetes.
+- •Do not share your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen or needles with other people.
+  You may give other people a serious infection, or get a serious infection from them.
+- •Always use a new needle for each injection.
+- •Novo Nordisk is not responsible for harm due to using this insulin pen with products not recommended by Novo Nordisk.
+- •As a precautionary measure, always carry a spare insulin delivery device in case your Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen is lost or damaged.
+- •Remember to keep the disposable Insulin Aspart Protamine and Insulin Aspart Mix 70/30 FlexPen with you.
+  Do not leave it in a car or other location where it can get too hot or too cold.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -487,4 +488,4 @@ Plainsboro, New Jersey 08536
 
 U.S. License Number 1261
 
-Revised: 10/2020
+Revised: 02/2023

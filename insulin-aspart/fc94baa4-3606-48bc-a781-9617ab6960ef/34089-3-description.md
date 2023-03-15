@@ -7,7 +7,7 @@ Insulin aspart has the empirical formula C256H381N65O79S6 and a molecular weight
 Figure 1.
 Structural formula of insulin aspart
 
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 is a uniform, white, and cloudy, sterile suspension for subcutaneous use.
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30 is a uniform, white and cloudy, sterile injectable suspension for subcutaneous use.
 Each mL contains 100 units of insulin aspart and the inactive ingredients: disodium hydrogen phosphate dihydrate (1.25 mg), glycerol (16.0 mg), metacresol (1.72 mg), phenol (1.50 mg), protamine sulfate (0.32 mg), sodium chloride (0.877 mg), zinc (19.6 mcg), and Water for Injection, USP.
-Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 has a pH of 7.20 - 7.44.
+Insulin Aspart Protamine and Insulin Aspart Mix 70/30 has a pH of 7.20 - 7.44.
 Hydrochloric acid or sodium hydroxide may be added to adjust pH.

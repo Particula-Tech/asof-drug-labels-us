@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are no available data with Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
+There are no available data with Insulin Aspart Protamine and Insulin Aspart Mix 70/30 (referred to as Insulin Aspart Protamine and Insulin Aspart) in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 Available information from published randomized controlled trials with insulin aspart use during the second trimester of pregnancy have not reported an association with insulin aspart and major birth defects or adverse maternal or fetal outcomes [see Data].
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy [see Clinical Considerations].
 
@@ -21,7 +21,7 @@ Clinical Considerations
 Disease-Associated Maternal and/or Embryo-Fetal Risk
 
 Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, and delivery complications.
-Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia related morbidity.
+Poorly controlled diabetes increases the fetal risk for major birth defects, still birth, and macrosomia related morbidity.
 
 Data
 
@@ -46,28 +46,28 @@ The effects are considered secondary to maternal hypoglycemia.
 
 Risk Summary
 
-There are no data on the presence of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 in human milk, the effects on the breastfed infant, or the effect on milk production.
+There are no data on the presence of Insulin Aspart Protamine and Insulin Aspart in human milk, the effects on the breastfed infant, or the effect on milk production.
 One small published study reported that exogenous insulin, including insulin aspart, was present in human milk.
 However, there is insufficient information to determine the effects of insulin aspart on the breastfed infant.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30, and any potential adverse effects on the breastfed infant from Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30, or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Insulin Aspart Protamine and Insulin Aspart, and any potential adverse effects on the breastfed infant from Insulin Aspart Protamine and Insulin Aspart, or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 have not been established in pediatric patients.
+Safety and effectiveness of Insulin Aspart Protamine and Insulin Aspart have not been established in pediatric patients with diabetes mellitus.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger patients.
-In elderly patients with diabetes, the initial dosing, dose increments should be conservative to avoid hypoglycemic reactions.
-Hypoglycemia may be difficult to recognize in the elderly.
+Clinical studies of Insulin Aspart Protamine and Insulin Aspart did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger adult patients.
+In geriatric patients with diabetes, the initial dosing, dose increments should be conservative to avoid hypoglycemic reactions.
+Hypoglycemia may be difficult to recognize in geriatric patients.
 
 ## 8.6 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 has not been studied.
+The effect of renal impairment on the pharmacokinetics of Insulin Aspart Protamine and Insulin Aspart has not been studied.
 Some studies with human insulin have shown increased circulating levels of insulin in patients with renal failure.
-Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 dose adjustment and more frequent blood glucose monitoring [see Warnings and Precautions (5.3)].
+Patients with renal impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Aspart Protamine and Insulin Aspart dose adjustment and more frequent blood glucose monitoring [see Warnings and Precautions (5.3)].
 
 ## 8.7 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 has not been studied.
-Patients with hepatic impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Aspart Protamine and Insulin Aspart Injectable Suspension Mix 70/30 dose adjustment and more frequent blood glucose monitoring [see Warnings and Precautions (5.3)].
+The effect of hepatic impairment on the pharmacokinetics of Insulin Aspart Protamine and Insulin Aspart has not been studied.
+Patients with hepatic impairment may be at increased risk of hypoglycemia and may require more frequent Insulin Aspart Protamine and Insulin Aspart dose adjustment and more frequent blood glucose monitoring [see Warnings and Precautions (5.3)].
