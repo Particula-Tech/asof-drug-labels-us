@@ -25,7 +25,7 @@
 | The most common side effects of Methylphenidate Hydrochloride Extended-Release Capsules in children 6 to 17 years of age include stomach pain, decreased appetite, headache, trouble sleeping. |  |
 | These are not all the possible side effects of Methylphenidate Hydrochloride Extended-Release Capsules. |  |
 | Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
-| You may also report side effects to Rhodes Pharmaceuticals L.P. at 1-888-827-0616. |  |
+| You may also report side effects to Rhodes Pharmaceuticals at 1-888-827-0616. |  |
 | How should I store Methylphenidate Hydrochloride Extended-Release Capsules? |  |
 | Store Methylphenidate Hydrochloride Extended-Release Capsules at room temperature between 68°F to 77°F (20°C to 25°C).Store Methylphenidate Hydrochloride Extended-Release Capsules in a safe place, like a locked cabinet. Protect from moisture.Dispose of remaining, unused, or expired Methylphenidate Hydrochloride Extended-Release Capsules by a medication take-back program at authorized collection sites such as retail pharmacies, hospital or clinic pharmacies, and law enforcement locations. If no take-back program or authorized collector is available, mix Methylphenidate Hydrochloride Extended-Release Capsules with an undesirable, nontoxic substance such as dirt, cat litter, or used coffee grounds to make it less appealing to children and pets. Place the mixture in a container such as a sealed plastic bag and throw away Methylphenidate Hydrochloride Extended-Release Capsules in the household trash. |  |
 | Keep Methylphenidate Hydrochloride Extended-Release Capsules and all medicines out of the reach of children. |  |
@@ -35,5 +35,5 @@
 | Active Ingredient: methylphenidate hydrochloride |  |
 | Inactive Ingredients: ammonio methacrylate copolymer, type B; colloidal silicon dioxide (added if necessary); gelatin; hypromelloses; methacrylic acid copolymer, type C; polyethylene glycol; sugar spheres; talc; titanium oxide; and triethyl citrate. |  |
 | Manufactured by: Patheon Manufacturing Services LLC, Greenville, North Carolina 27834 |  |
-| For more information call Rhodes Pharmaceuticals L.P. (the distributor for Methylphenidate Hydrochloride Extended-Release Capsules) at 1-888-827-0616. |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 06/2019 |
+| For more information call Rhodes Pharmaceuticals (the distributor for Methylphenidate Hydrochloride Extended-Release Capsules) at 1-888-827-0616. |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 1/2023 |
