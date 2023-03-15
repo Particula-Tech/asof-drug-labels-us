@@ -14,9 +14,7 @@ At ambient temperature, the degradation half-life is approximately 2.8 hours at 
 
 Pantoprazole sodium is supplied as a delayed-release tablet, available in two strengths 20 mg pantoprazole (equivalent to 22.55 mg of pantoprazole sodium) and 40 mg pantoprazole (equivalent to 45.10 mg of pantoprazole sodium).
 
-Pantoprazole sodium delayed-release tablets contain the following inactive ingredients: anhydrous sodium carbonate, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid copolymer type A, povidone, propylene glycol, titanium dioxide, triethyl citrate and yellow iron oxide.
+Pantoprazole sodium delayed-release tablets contain the following inactive ingredients: anhydrous sodium carbonate, calcium stearate, crospovidone, hypromellose, mannitol, methacrylic acid and ethyl acrylate copolymer dispersion, povidone, propylene glycol, titanium dioxide, triethyl citrate and yellow iron oxide.
 The black imprinting ink contains black iron oxide, propylene glycol and shellac glaze.
 
 Meets USP Dissolution Test 3.
-
-Pantoprazole Sodium Meets USP Organic Impurities Test 2.

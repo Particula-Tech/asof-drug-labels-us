@@ -18,8 +18,8 @@ Table 8: Erosive Esophagitis Healing Rates (Per Protocol)
 | 4 | 45.6%(p < 0.001) pantoprazole sodium delayed-release tablets versus placebo | 58.4%(p < 0.05) versus 10 mg pantoprazole sodium delayed-release tablets | 75.0%(p < 0.05) versus 10 mg or 20 mg pantoprazole sodium delayed-release tablets | 14.3% |
 | 8 | 66.0% | 83.5% | 92.6% | 39.7% |
 
-In this study, all pantoprazole sodium delayed-release tablets treatment groups had significantly greater healing rates than the placebo group.
-This was true regardless of H. pylori status for the 40 mg and 20 mg pantoprazole sodium delayed-release tablets treatment groups.
+In this study, all pantoprazole sodium delayed-release tablet treatment groups had significantly greater healing rates than the placebo group.
+This was true regardless of H. pylori status for the 40 mg and 20 mg pantoprazole sodium delayed-release tablet treatment groups.
 The 40 mg dose of pantoprazole sodium delayed-release tablets resulted in healing rates significantly greater than those found with either the 20 mg or 10 mg dose.
 
 A significantly greater proportion of patients taking pantoprazole sodium delayed-release tablets 40 mg experienced complete relief of daytime and nighttime heartburn and the absence of regurgitation, starting from the first day of treatment, compared with placebo.
