@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA213645"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-0712-24",
+    "0338-0714-24",
+    "0338-0716-12",
+    "0338-0718-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "daptomycin in sodium chloride",
+      "name": "Daptomycin in Sodium Chloride"
+    }
+  ],
+  "setid": "7ed4d986-2aa9-43cd-9a8a-fbd11cb5ecef",
+  "source": "dailymed"
+}
