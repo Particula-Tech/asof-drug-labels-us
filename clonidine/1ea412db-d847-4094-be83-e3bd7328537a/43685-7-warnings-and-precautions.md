@@ -22,7 +22,7 @@ In patients who have developed localized contact sensitization to transdermal cl
 In patients who develop an allergic reaction to transdermal clonidine, substitution of oral clonidine hydrochloride may also elicit an allergic reaction (including generalized rash, urticaria, or angioedema).
 
 The sympatholytic action of clonidine may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
-There are post-marketing reports of patients with conduction abnormalities and/or taking other sympatholytic drugs who developed severe bradycardia requiring IV atropine, IV isoproterenol and temporary cardiac pacing while taking clonidine.
+There are postmarketing reports of patients with conduction abnormalities and/or taking other sympatholytic drugs who developed severe bradycardia requiring IV atropine, IV isoproterenol and temporary cardiac pacing while taking clonidine.
 
 In hypertension caused by pheochromocytoma, no therapeutic effect of clonidine hydrochloride tablets can be expected.
 
@@ -72,7 +72,7 @@ Chronic dietary administration of clonidine was not carcinogenic to rats (132 we
 There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity.
 
 Fertility of male or female rats was unaffected by clonidine doses as high as 150 mcg/kg (approximately 3 times MRDHD).
-In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 mcg/kg (10 to 40 times the oral MRDHD on a mg/kg basis, 2 to 8 times the MRDHD on a mg/m 2 basis).
+In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 mcg/kg to 2000 mcg/kg (10 to 40 times the oral MRDHD on a mg/kg basis; 2 to 8 times the MRDHD on a mg/m 2 basis).
 
 ## Pregnancy
 

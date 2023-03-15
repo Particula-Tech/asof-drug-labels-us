@@ -20,7 +20,7 @@ Clonidine acutely stimulates growth hormone release in both children and adults,
 
 ## Pharmacokinetics
 
-The pharmacokinetics of clonidine is dose-proportional in the range of 100 to 600 mcg.
+The pharmacokinetics of clonidine is dose-proportional in the range of 100 mcg to 600 mcg.
 The absolute bioavailability of clonidine on oral administration is 70% to 80%.
 Peak plasma clonidine levels are attained in approximately 1 to 3 hours.
 

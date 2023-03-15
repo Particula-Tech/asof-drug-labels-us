@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Adults: The dose of clonidine hydrochloride tablets, USP must be adjusted according to the patient’s individual blood pressure response.
+Adults: The dose of clonidine hydrochloride tablets must be adjusted according to the patient’s individual blood pressure response.
 The following is a general guide to its administration.
 
 Initial Dose: 0.1 mg tablet twice daily (morning and bedtime).
@@ -16,4 +16,4 @@ Renal Impairment: Patients with renal impairment may benefit from a lower initia
 Patients should be carefully monitored.
 Since only a minimal amount of clonidine is removed during routine hemodialysis, there is no need to give supplemental clonidine following dialysis.
 
-For questions regarding this product call Actavis at 1-888-838-2872.
+For questions regarding this product, call Teva at 1-888-838-2872.

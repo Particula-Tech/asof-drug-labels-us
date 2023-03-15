@@ -29,4 +29,4 @@ Oro-otolaryngeal: Dryness of the nasal mucosa.
 
 Ophthalmological: Accommodation disorder, blurred vision, burning of the eyes, decreased lacrimation, and dryness of eyes.
 
-To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/medwatch for voluntary reporting of adverse reactions.
