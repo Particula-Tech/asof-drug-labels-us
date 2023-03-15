@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214809"
+  ],
+  "inn": "nelarabine",
+  "labeler": "Shorla Oncology Inc.",
+  "package_ndcs": [
+    "81927-111-01",
+    "81927-111-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "nelarabine"
+    }
+  ],
+  "setid": "fc401b06-4e3b-413e-a854-3e031c433862",
+  "source": "dailymed"
+}
