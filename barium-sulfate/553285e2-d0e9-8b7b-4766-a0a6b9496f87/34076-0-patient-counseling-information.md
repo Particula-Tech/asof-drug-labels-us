@@ -11,3 +11,5 @@ Rx only
 Manufactured for Bracco Diagnostics Inc. Monroe Township, NJ 08831 by EZEM Canada Inc Anjou (Quebec) Canada H1J 2Z4
 
 VARIBAR® is a registered trademark of E-Z-EM, Inc.
+
+Revised: December 2022 CL87D02

@@ -4,6 +4,7 @@ VARIBAR PUDDING is supplied as a paste in a multiple-dose polyethylene tube cont
 
 Provided as: 12 X 230 mL tubes (NDC 32909-125-22)
 
-Store at USP Controlled Room Temperature 20 to 25°C (68 to 77° F). Protect from freezing.
+Store at USP controlled room temperature 20°C to 25°C (68°F to 77°F).
+Protect from freezing.
 
-Once opened, VARIBAR PUDDING may be used for up to 21 days when stored at USP Controlled Room Temperature, 20 to 25°C (68 to 77° F).
+Once opened, VARIBAR PUDDING may be used for up to 21 days when stored at USP controlled room temperature, 20°C to 25°C (68°F to 77°F).
