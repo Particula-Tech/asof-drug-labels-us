@@ -7,7 +7,7 @@ Discuss the following issues with patients and caregivers:
 - Instruct patients (and caregivers) beginning treatment with clozapine about the risk of developing severe neutropenia and infection.
 
 - Instruct patients to immediately report to their physician any symptom or sign of infection (e.g., flu-like illness; fever; lethargy; general weakness or malaise; mucus membrane ulceration; skin, pharyngeal, vaginal, urinary, or pulmonary infection; or extreme weakness or lethargy) occurring at any time during clozapine therapy, to aid in evaluation for neutropenia and to institute prompt and appropriate management.
-[see Warnings and Precautions 5.1, 5.12, 5.14].
+[see Warnings and Precautions (5.1, 5.12, 5.14)].
 
 - Inform patients and caregivers clozapine is available only through a restricted program called the Clozapine REMS Program designed to ensure the required blood monitoring, in order to reduce the risk of developing severe neutropenia.
 Advise patients and caregivers of the importance of having blood tested as follows:
@@ -47,6 +47,6 @@ Provide patients (and caregivers) with website information and the telephone num
 
 **Trademark of Thomson Healthcare, Inc.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 038, India
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 02/2021
+Revised: 03/2023

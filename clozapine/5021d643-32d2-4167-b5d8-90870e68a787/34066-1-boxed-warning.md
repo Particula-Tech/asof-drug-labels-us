@@ -36,4 +36,5 @@ Consider the possibility of myocarditis or cardiomyopathy if chest pain, tachyca
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
-Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death. clozapine is not approved for use in patients with dementia-related psychosis [see Warnings and Precautions (5.7)].
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Clozapine is not approved for use in patients with dementia-related psychosis [see Warnings and Precautions (5.7)].

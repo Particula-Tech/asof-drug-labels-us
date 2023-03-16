@@ -75,7 +75,7 @@ In general, however, do not rechallenge patients who develop severe neutropenia 
 
 If a patient will be rechallenged, the clinician should consider thresholds provided in Tables 2 and 3, the patient’s medical and psychiatric history, a discussion with the patient and his/her caregiver about the benefits and risks of clozapine rechallenge, and the severity and characteristics of the neutropenic episode.
 
-Using clozapine with Other Drugs Associated with Neutropenia
+Using Clozapine with Other Drugs Associated with Neutropenia
 
 It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine-induced neutropenia.
 There is no strong scientific rationale to avoid clozapine treatment in patients concurrently treated with these drugs.
@@ -157,7 +157,7 @@ Clozapine is not approved for the treatment of patients with dementia-related ps
 
 Severe gastrointestinal adverse reactions have occurred with the use of clozapine, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, perforation, ulceration or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk of severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
 

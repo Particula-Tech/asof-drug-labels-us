@@ -49,3 +49,5 @@ Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were 
 Patients treated with clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.
 This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of clozapine over olanzapine.
 The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization because of imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: clozapine 24% versus olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 1).
+Figure 1.
+Cumulative Probability of a Significant Suicide Attempt or Hospitalization to Prevent Suicide in Patients with Schizophrenia or Schizoaffective Disorder at High Risk of Suicidality
