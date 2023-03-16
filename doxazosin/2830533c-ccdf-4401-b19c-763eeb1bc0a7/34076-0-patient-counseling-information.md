@@ -15,6 +15,6 @@ Manufactured For: Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-10 0858 2 6009091
+10 0858 3 6020796
 
-Issued May 2021
+Issued November 2022

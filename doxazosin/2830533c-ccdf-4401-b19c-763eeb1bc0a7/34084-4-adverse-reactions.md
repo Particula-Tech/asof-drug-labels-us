@@ -66,7 +66,7 @@ Doxazosin has been associated with decreases in white blood cell counts
 Laboratory changes observed in clinical studies
 
 Leukopenia/Neutropenia: Decreases in mean white blood cell (WBC) and mean neutrophil count were observed in controlled clinical trials of hypertensive patients receiving doxazosin.
-In cases where follow-up was available, WBC and neutrophils counts returned to normal after discontinuation of doxazosin.
+In cases where follow-up was available, WBC and neutrophil counts returned to normal after discontinuation of doxazosin.
 No patients became symptomatic as a result of the low WBC or neutrophil counts.
 
 ## 6.2 Postmarketing Experience
