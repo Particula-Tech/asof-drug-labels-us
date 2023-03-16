@@ -4,6 +4,9 @@
 
 Fatal and life-threatening cases of cardiotoxicity, including cardiomyopathy, have been reported in patients treated with hydroxychloroquine sulfate.
 Signs and symptoms of cardiac compromise have occurred during acute and chronic hydroxychloroquine sulfate treatment.
+In multiple cases, endomyocardial biopsy showed association of the cardiomyopathy with phospholipidosis in the absence of inflammation, infiltration, or necrosis.
+Drug-induced phospholipidosis may occur in other organ systems [See Warnings and Precautions (5.7), (5.10)].
+
 Patients may present with ventricular hypertrophy, pulmonary hypertension and conduction disorders including sick sinus syndrome.
 ECG findings include atrioventricular, right or left bundle branch block.
 
@@ -17,12 +20,12 @@ Avoid hydroxychloroquine sulfate administration in patients with congenital or d
 - Proarrhythmic conditions, e.g., bradycardia (< 50 bpm).
 - History of ventricular dysrhythmias.
 - Uncorrected hypokalemia and/or hypomagnesemia.
-- Concomitant administration with QT interval prolonging agents [see Drug Interactions (7.1)] as this may lead to an increased risk for ventricular arrhythmias.
+- Concomitant administration with QT interval prolonging agents as this may lead to an increased risk for ventricular arrhythmias [see Drug Interactions (7.1)]
 
 Therefore, hydroxychloroquine sulfate is not recommended in patients taking other drugs that have the potential to prolong the QT interval.
-Monitor cardiac function as clinically indicated during hydroxychloroquine sulfate therapy.
 Correct electrolyte imbalances prior to use.
-Discontinue hydroxychloroquine sulfate if cardiotoxicity is suspected.
+Monitor cardiac function as clinically indicated during hydroxychloroquine sulfate therapy.
+Discontinue hydroxychloroquine sulfate if cardiotoxicity is suspected or demonstrated by tissue biopsy.
 
 ## 5.2 Retinal Toxicity
 
@@ -65,9 +68,11 @@ Monitor for hemolytic anemia as this can occur, particularly in association with
 ## 5.7 Skeletal Muscle Myopathy or Neuropathy
 
 Skeletal muscle myopathy or neuropathy leading to progressive weakness and atrophy of proximal muscle groups, depressed tendon reflexes, and abnormal nerve conduction, have been reported.
-Muscle and nerve biopsies have demonstrated bodies and muscle fiber atrophy with vacuolar changes.
+Muscle and nerve biopsies have shown associated phospholipidosis.
+Drug-induced phospholipidosis may occur in other organ systems [See Warnings and Precautions (5.1), (5.10)].
+
 Assess muscle strength and deep tendon reflexes periodically in patients on long-term therapy with hydroxychloroquine sulfate.
-If weakness occurs, discontinue the drug.
+Discontinue hydroxychloroquine sulfate if muscle or nerve toxicity is suspected or demonstrated by tissue biopsy.
 
 ## 5.8 Neuropsychiatric Reactions Including Suicidality
 
@@ -81,3 +86,11 @@ Hydroxychloroquine sulfate can cause severe and potentially life-threatening hyp
 Measure blood glucose in patients presenting with clinical symptoms suggestive of hypoglycemia and as adjust the antidiabetic treatment as necessary.
 Warn hydroxychloroquine sulfate-treated patients about the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia; diabetic patients should monitor their blood sugar levels.
 Advise patients to seek medical attention if they develop any signs and symptoms of hypoglycemia.
+
+## 5.10 Renal Toxicity
+
+Proteinuria with or without moderate reduction in glomerular filtration rate have been reported with the use of hydroxychloroquine sulfate.
+
+Renal biopsy showed phospholipidosis without immune deposits, inflammation, and/or increased cellularity.
+Physicians should consider phospholipidosis as a possible cause of renal injury in patients with underlying connective tissue disorders who are receiving hydroxychloroquine sulfate.
+Drug induced phospholipidosis may occur in other organ systems [See Warnings and Precautions (5.1), (5.7)] Discontinue hydroxychloroquine sulfate if renal toxicity is suspected or demonstrated by tissue biopsy.
