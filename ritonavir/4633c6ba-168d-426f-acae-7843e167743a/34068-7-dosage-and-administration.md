@@ -35,7 +35,7 @@ The recommended dosage of ritonavir in pediatric patients older than 1 month is 
 Ritonavir should be started at 250 mg per m2 twice daily and increased at 2 to 3 day intervals by 50 mg per m2 twice daily.
 If patients do not tolerate 400 mg per m2 twice daily due to adverse events, the highest tolerated dose may be used for maintenance therapy in combination with other antiretroviral agents, however, alternative therapy should be considered [see Dosage and Administration (2.6)].
 
-Pediatric Dosage Guidelines for Oral Solution:
+Pediatric Dosage Guidelines for Oral Solution
 
 Ritonavir oral solution should not be administered to neonates before a postmenstrual age (first day of the mother's last menstrual period to birth plus the time elapsed after birth) of 44 weeks has been attained [see Warnings and Precautions (5.2)].
 
@@ -48,7 +48,7 @@ Total amounts of ethanol and propylene glycol from all medicines that are to be 
 When possible, dose should be administered using a calibrated dosing syringe.
 
 Table 1.
-Pediatric Dosage Guidelines for Oral Solution1 1 The concentration of the oral solution is 80 mg per mL.
+Pediatric Dosage Guidelines for Oral Solution* * The concentration of the oral solution is 80 mg per mL.
 
 | Body Surface Area (m2) | Twice Daily Dose 250 mg per m2 | Twice Daily Dose 300 mg per m2 | Twice Daily Dose 350 mg per m2 | Twice Daily Dose 400 mg per m2 |
 | --- | --- | --- | --- | --- |
@@ -60,7 +60,7 @@ Pediatric Dosage Guidelines for Oral Solution1 1 The concentration of the oral s
 | 1.25 | 3.9 mL (312.5 mg) | 4.7 mL (375 mg) | 5.5 mL (437.5 mg) | 6.25 mL (500 mg) |
 | 1.50 | 4.7 mL (375 mg) | 5.6 mL (450 mg) | 6.6 mL (525 mg) | 7.5 mL (600 mg) |
 
-Body Surface area (BSA) can be calculated as follows1:
+Body surface area (BSA) can be calculated as follows1:
 
 Pediatric Dosage Guidelines for Oral Powder:
 

@@ -6,10 +6,7 @@ Ritonavir is chemically designated as 2,4,7,12-Tetraazatridecan-13-oic acid, 10-
 Its molecular formula is C37H48N6O5S2, and its molecular weight is 720.94.
 Ritonavir has the following structural formula:
 
-Ritonavir is a white-to-light-tan powder.
-Ritonavir has a bitter metallic taste.
-It is freely soluble in methanol and ethanol, soluble in isopropanol and practically insoluble in water.
+Ritonavir USP is a white to almost white powder.
+It is freely soluble in methanol and in methylene chloride, very slightly soluble in acetonitrile, practically insoluble in water.
 
-Ritonavir tablets USP are available for oral administration in a strength of 100 mg ritonavir with the following inactive ingredients: Colloidal silicon dioxide, Dibasic calcium phosphate, Copovidone, sorbitan monolaurate, Sodium stearyl fumarate.
-The following are the ingredients in the seal coating: hypromellose, isopropyl alcohol.
-The following are the ingredients in the film coating: Opadry white YS-1-7003 (titanium dioxide, hydroxypropylmethyl cellulose, 2910/Hypromellose 3cP, HPMC 2910/Hypromellose 6cP, Macrogol/PEG 400, Polysorbate 80).
+Ritonavir Tablets USP are available for oral administration containing 100 mg ritonavir USP and the following inactive ingredients: anhydrous dibasic calcium phosphate, colloidal silicon dioxide, copovidone, hypromellose, isopropyl alcohol, polysorbate 80, polyethylene glycol, purified water, sodium stearyl fumarate, sorbitan monolaurate, and titanium dioxide.

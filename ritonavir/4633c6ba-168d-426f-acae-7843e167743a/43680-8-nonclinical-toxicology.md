@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenesis:
+Carcinogenesis
 
 Carcinogenicity studies in mice and rats have been carried out on ritonavir.
 In male mice, at levels of 50, 100 or 200 mg per kg per day, there was a dose dependent increase in the incidence of both adenomas and combined adenomas and carcinomas in the liver.
@@ -13,11 +13,11 @@ In rats dosed at levels of 7, 15 or 30 mg per kg per day there were no carcinoge
 In this study, the exposure at the high dose was approximately 6% that of the exposure in humans with the recommended therapeutic dose.
 Based on the exposures achieved in the animal studies, the significance of the observed effects is not known.
 
-Mutagenesis:
+Mutagenesis
 
 However, ritonavir was found to be negative for mutagenic or clastogenic activity in a battery of in vitro and in vivo assays including the Ames bacterial reverse mutation assay using S. typhimurium and E. coli, the mouse lymphoma assay, the mouse micronucleus test and chromosomal aberration assays in human lymphocytes.
 
-Impairment of Fertility:
+Impairment of Fertility
 
 Ritonavir produced no effects on fertility in rats at drug exposures approximately 40% (male) and 60% (female) of that achieved with the proposed therapeutic dose.
 Higher dosages were not feasible due to hepatic toxicity.

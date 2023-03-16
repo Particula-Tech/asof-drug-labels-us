@@ -25,58 +25,58 @@ Treatment-Emergent Adverse Reactions (With Possible or Probable Relationship to 
 
 | Adverse Reactions | n | % |
 | --- | --- | --- |
-| Eye Disorders |  |  |
-| Blurred Vision | 113 | 6.4 |
+| Eye disorders |  |  |
+| Blurred vision | 113 | 6.4 |
 | Gastrointestinal Disorders |  |  |
-| Abdominal Pain (upper and lower)1 | 464 | 26.4 |
-| Diarrhea Including Severe With Electrolyte Imbalance1 | 1,192 | 67.9 |
+| Abdominal Pain (upper and lower)* | 464 | 26.4 |
+| Diarrhea including severe with electrolyte imbalance* | 1,192 | 67.9 |
 | Dyspepsia | 201 | 11.5 |
 | Flatulence | 142 | 8.1 |
-| Gastrointestinal Hemorrhage1 | 41 | 2.3 |
-| Gastroesophageal Reflux Disease (GERD) | 19 | 1.1 |
+| Gastrointestinal hemorrhage* | 41 | 2.3 |
+| Gastroesophageal reflux disease (GERD) | 19 | 1.1 |
 | Nausea | 1,007 | 57.4 |
-| Vomiting1 | 559 | 31.9 |
-| General Disorders and Administration Site Conditions |  |  |
-| Fatigue Including Asthenia1 | 811 | 46.2 |
+| Vomiting* | 559 | 31.9 |
+| General disorders and administration site conditions |  |  |
+| Fatigue including asthenia* | 811 | 46.2 |
 | Hepatobiliary Disorders |  |  |
-| Blood Bilirubin Increased (Including Jaundice)1 | 25 | 1.4 |
-| Hepatitis (Including Increased AST, ALT, GGT)1 | 153 | 8.7 |
-| Immune System Disorders |  |  |
-| Hypersensitivity Including Urticaria and Face Edema1 | 114 | 8.2 |
-| Metabolism and Nutrition Disorders |  |  |
-| Edema and Peripheral Edema1 | 110 | 6.3 |
-| Gout1 | 24 | 1.4 |
-| Hypercholesterolemia1 | 52 | 3.0 |
-| Hypertriglyceridemia1 | 158 | 9.0 |
-| Lipodystrophy Acquired1 | 51 | 2.9 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |
-| Arthralgia and Back Pain1 | 326 | 18.6 |
-| Myopathy/Creatine Phosphokinase Increased1 | 66 | 3.8 |
+| Blood bilirubin increased (including jaundice) * | 25 | 1.4 |
+| Hepatitis (including increased AST, ALT, GGT) * | 153 | 8.7 |
+| Immune system disorders |  |  |
+| Hypersensitivity including urticaria and face edema* | 114 | 8.2 |
+| Metabolism and nutrition disorders |  |  |
+| Edema and peripheral edema* | 110 | 6.3 |
+| Gout* | 24 | 1.4 |
+| Hypercholesterolemia* | 52 | 3.0 |
+| Hypertriglyceridemia* | 158 | 9.0 |
+| Lipodystrophy acquired* | 51 | 2.9 |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Arthralgia and back pain* | 326 | 18.6 |
+| Myopathy/creatine phosphokinase increased* | 66 | 3.8 |
 | Myalgia | 156 | 8.9 |
-| Nervous System Disorders |  |  |
-| Dizziness1 | 274 | 15.6 |
-| Dysgeusia1 | 285 | 16.2 |
-| Paresthesia (Including Oral Paresthesia)1 | 889 | 50.7 |
-| Peripheral Neuropathy | 178 | 10.1 |
-| Syncope1 | 58 | 3.3 |
-| Psychiatric Disorders |  |  |
-| Confusion1 | 52 | 3.0 |
-| Disturbance in Attention | 44 | 2.5 |
-| Renal and Urinary Disorders |  |  |
-| Increased Urination1 | 74 | 4.2 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |
-| Coughing1 | 380 | 21.7 |
-| Oropharyngeal Pain1 | 279 | 15.9 |
-| Skin and Subcutaneous Tissue Disorders |  |  |
-| Acne1 | 67 | 3.8 |
-| Pruritus1 | 214 | 12.2 |
-| Rash (Includes Erythematous and Maculopapular)1 | 475 | 27.1 |
+| Nervous system disorders |  |  |
+| Dizziness* | 274 | 15.6 |
+| Dysgeusia* | 285 | 16.2 |
+| Paresthesia (including oral paresthesia)* | 889 | 50.7 |
+| Peripheral neuropathy | 178 | 10.1 |
+| Syncope* | 58 | 3.3 |
+| Psychiatric disorders |  |  |
+| Confusion* | 52 | 3.0 |
+| Disturbance in attention | 44 | 2.5 |
+| Renal and urinary disorders |  |  |
+| Increased urination* | 74 | 4.2 |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Coughing* | 380 | 21.7 |
+| Oropharyngeal Pain* | 279 | 15.9 |
+| Skin and subcutaneous tissue disorders |  |  |
+| Acne* | 67 | 3.8 |
+| Pruritus* | 214 | 12.2 |
+| Rash (includes erythematous and maculopapular)* | 475 | 27.1 |
 | Vascular Disorders |  |  |
-| Flushing, Feeling Hot1 | 232 | 13.2 |
-| Hypertension1 | 58 | 3.3 |
-| Hypotension Including Orthostatic Hypotension1 | 30 | 1.7 |
-| Peripheral Coldness1 | 21 | 1.2 |
-| 1. Represents a medical concept including several similar MedDRA PTs |  |  |
+| Flushing, feeling hot* | 232 | 13.2 |
+| Hypertension* | 58 | 3.3 |
+| Hypotension including orthostatic hypotension* | 30 | 1.7 |
+| Peripheral Coldness* | 21 | 1.2 |
+| *Represents a medical concept including several similar MedDRA PTs |  |  |
 
 Laboratory Abnormalities in Adults
 
@@ -89,56 +89,66 @@ Percentage of Adult Patients, by Study and Treatment Group, with Chemistry and H
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Variable | Limit | Ritonavir plus ZDV | Ritonavir | ZDV | Ritonavir | Placebo | Ritonavir plus Saquinavir |
 | Chemistry | High |  |  |  |  |  |  |
-| Cholesterol | >240 mg/dL | 30.7 | 44.8 | 9.3 | 36.5 | 8.0 | 65.2 |
-| CPK | >1,000 IU/L | 9.6 | 12.1 | 11.0 | 9.1 | 6.3 | 9.9 |
-| GGT | >300 IU/L | 1.8 | 5.2 | 1.7 | 19.6 | 11.3 | 9.2 |
-| SGOT (AST) | >180 IU/L | 5.3 | 9.5 | 2.5 | 6.4 | 7.0 | 7.8 |
-| SGPT (ALT) | >215 IU/L | 5.3 | 7.8 | 3.4 | 8.5 | 4.4 | 9.2 |
-| Triglycerides | >800 mg/dL | 9.6 | 17.2 | 3.4 | 33.6 | 9.4 | 23.4 |
-| Triglycerides | >1,500 mg/dL | 1.8 | 2.6 | - | 12.6 | 0.4 | 11.3 |
-| Triglycerides Fasting | >1,500 mg/dL | 1.5 | 1.3 | - | 9.9 | 0.3 | - |
-| Uric Acid | >12 mg/dL | - | - | - | 3.8 | 0.2 | 1.4 |
+| Cholesterol | > 240 mg/dL | 30.7 | 44.8 | 9.3 | 36.5 | 8.0 | 65.2 |
+| CPK | > 1,000 IU/L | 9.6 | 12.1 | 11.0 | 9.1 | 6.3 | 9.9 |
+| GGT | > 300 IU/L | 1.8 | 5.2 | 1.7 | 19.6 | 11.3 | 9.2 |
+| SGOT (AST) | > 180 IU/L | 5.3 | 9.5 | 2.5 | 6.4 | 7.0 | 7.8 |
+| SGPT (ALT) | > 215 IU/L | 5.3 | 7.8 | 3.4 | 8.5 | 4.4 | 9.2 |
+| Triglycerides | > 800 mg/dL | 9.6 | 17.2 | 3.4 | 33.6 | 9.4 | 23.4 |
+| Triglycerides | > 1,500 mg/dL | 1.8 | 2.6 | - | 12.6 | 0.4 | 11.3 |
+| Triglycerides Fasting | > 1,500 mg/dL | 1.5 | 1.3 | - | 9.9 | 0.3 | - |
+| Uric Acid | > 12 mg/dL | - | - | - | 3.8 | 0.2 | 1.4 |
 | Hematology | Low |  |  |  |  |  |  |
-| Hematocrit | <30% | 2.6 | - | 0.8 | 17.3 | 22.0 | 0.7 |
-| Hemoglobin | <8.0 g/dL | 0.9 | - | - | 3.8 | 3.9 | - |
-| Neutrophils | ≤0.5 x 109/L | - | - | - | 6.0 | 8.3 | - |
-| RBC | <3.0 x 1012/L | 1.8 | - | 5.9 | 18.6 | 24.4 | - |
-| WBC | <2.5 x 109/L | - | 0.9 | 6.8 | 36.9 | 59.4 | 3.5 |
+| Hematocrit | < 30% | 2.6 | - | 0.8 | 17.3 | 22.0 | 0.7 |
+| Hemoglobin | < 8.0 g/dL | 0.9 | - | - | 3.8 | 3.9 | - |
+| Neutrophils | ≤ 0.5 x 109/L | - | - | - | 6.0 | 8.3 | - |
+| RBC | < 3.0 x 1012/L | 1.8 | - | 5.9 | 18.6 | 24.4 | - |
+| WBC | < 2.5 x 109/L | - | 0.9 | 6.8 | 36.9 | 59.4 | 3.5 |
 | - Indicates no events reported. |  |  |  |  |  |  |  |
 
-Adverse Reactions in Pediatric Patients:
+Adverse Reactions in Pediatric Patients
 
 Ritonavir has been studied in 265 pediatric patients greater than 1 month to 21 years of age.
 The adverse event profile observed during pediatric clinical trials was similar to that for adult patients.
 
 Vomiting, diarrhea, and skin rash/allergy were the only drug-related clinical adverse events of moderate to severe intensity observed in greater than or equal to 2% of pediatric patients enrolled in ritonavir clinical trials.
 
-Laboratory Abnormalities in Pediatric Patients:
+Laboratory Abnormalities in Pediatric Patients
 
-The following Grade 3to 4 laboratory abnormalities occurred in greater than 3% of pediatric patients who received treatment with ritonavir either alone or in combination with reverse transcriptase inhibitors: neutropenia (9%), hyperamylasemia (7%), thrombocytopenia (5%), anemia (4%), and elevated AST (3%).
+The following Grade 3 to 4 laboratory abnormalities occurred in greater than 3% of pediatric patients who received treatment with ritonavir either alone or in combination with reverse transcriptase inhibitors: neutropenia (9%), hyperamylasemia (7%), thrombocytopenia (5%), anemia (4%), and elevated AST (3%).
 
 ## 6.2 Postmarketing Experience
 
 The following adverse events (not previously mentioned in the labeling) have been reported during post-marketing use of ritonavir.
 Because these reactions are reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to ritonavir exposure.
 
-Body as a Whole: Dehydration, usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported.
+Body as a Whole
+
+Dehydration, usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported.
 Syncope, orthostatic hypotension, and renal insufficiency have also been reported without known dehydration.
 
 Co-administration of ritonavir with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system.
 
-Cardiovascular System: First-degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported
+Cardiovascular System
 
-[see Warnings and Precautions (5.6)].
+First-degree AV block, second-degree AV block, third-degree AV block, right bundle branch block have been reported [see Warnings and Precautions (5.6)].
 
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazodone, fluoxetine, and beta blockers.
 The possibility of drug interaction cannot be excluded.
 
-Endocrine System: Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co-administered with fluticasone propionate or budesonide.
+Endocrine System
 
-Nervous System: There have been postmarketing reports of seizure.
+Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co-administered with fluticasone propionate or budesonide.
+
+Nervous System
+
+There have been postmarketing reports of seizure.
 Also, see Cardiovascular System.
 
-Renal and Urinary Disorders: Nephrolithiasis
+Renal and Urinary Disorders
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis (TEN) has been reported.
+Nephrolithiasis
+
+Skin and subcutaneous tissue disorders
+
+Toxic epidermal necrolysis (TEN) has been reported.

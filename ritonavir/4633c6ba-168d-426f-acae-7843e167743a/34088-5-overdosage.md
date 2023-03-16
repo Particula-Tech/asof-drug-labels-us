@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-Acute Overdosage - Human Overdose Experience:
+Acute Overdosage - Human Overdose Experience
 
 Human experience of acute overdose with ritonavir is limited.
 One patient in clinical trials took ritonavir 1,500 mg per day for two days.
@@ -9,7 +9,7 @@ A post-marketing case of renal failure with eosinophilia has been reported with 
 
 The approximate lethal dose was found to be greater than 20 times the related human dose in rats and 10 times the related human dose in mice.
 
-Management of Overdosage:
+Management of Overdosage
 
 Ritonavir oral solution contains approx. 43% ethanol (v/v) and approx. 27% (w/v) propylene glycol.
 Ingestion of the product over the recommended dose by a young child could result in significant toxicity and could potentially be lethal.

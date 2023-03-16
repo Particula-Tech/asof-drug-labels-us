@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The activity of ritonavir as monotherapy or in combination with nucleoside reverse transcriptase inhibitors has been evaluated in 1,446 patients enrolled in two double-blind, randomized trials.
+The activity of ritonavir as monotherapy or in combination with nucleoside reverse transcriptase inhibitors has been evaluated in 1446 patients enrolled in two double-blind, randomized trials.
 
 ## 14.1 Advanced Patients with Prior Antiretroviral Therapy
 
