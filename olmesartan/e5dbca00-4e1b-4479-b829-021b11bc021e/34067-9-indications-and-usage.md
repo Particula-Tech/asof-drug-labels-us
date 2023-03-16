@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Olmesartan medoxomil tablets are indicated for the treatment of hypertension, to lower blood pressure.
+Olmesartan medoxomil tablets are indicated for the treatment of hypertension in adults and children six years of age and older, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including the class to which this drug principally belongs.
 There are no controlled trials demonstrating risk reduction with olmesartan medoxomil.

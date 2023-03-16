@@ -7,8 +7,8 @@ Tablets are supplied as follows:
 
 |  | 5 mg | 20 mg | 40 mg |
 | --- | --- | --- | --- |
-| Bottle of 30 | NDC 16729-320-10 | NDC 16729-321-10 | NDC 16729-322-10 |
-| Bottle of 90 | NDC 16729-320-15 | NDC 16729-321-15 | NDC 16729-322-15 |
+| Bottle of 30 with a child-resistant closure | NDC 16729-320-10 | NDC 16729-321-10 | NDC 16729-322-10 |
+| Bottle of 90 with a child-resistant closure | NDC 16729-320-15 | NDC 16729-321-15 | NDC 16729-322-15 |
 | Bottle of 500 | NDC 16729-320-16 | NDC 16729-321-16 | NDC 16729-322-16 |
 | Bottle of 1,000 | NDC 16729-320-17 | NDC 16729-321-17 | NDC 16729-322-17 |
 | 10 X 10‘s Blisters | NDC 16729-320-46 | NDC 16729-321-46 | NDC 16729-322-46 |

@@ -34,6 +34,7 @@ Olmesartan medoxomil tablets and the suspension formulation prepared from Olmesa
 The absolute bioavailability of olmesartan is approximately 26%.
 After oral administration, the peak plasma concentration (C max) of olmesartan is reached after 1 to 2 hours.
 Food does not affect the bioavailability of olmesartan.
+Olmesartan medoxomil may be administered with or without food.
 
 Distribution The volume of distribution of olmesartan is approximately 17 L. Olmesartan is highly bound to plasma proteins (99%) and does not penetrate red blood cells.
 The protein binding is constant at plasma olmesartan concentrations well above the range achieved with recommended doses.
@@ -50,27 +51,33 @@ Olmesartan appears to be eliminated in a biphasic manner with a terminal elimina
 Olmesartan shows linear pharmacokinetics following single oral doses of up to 320 mg and multiple oral doses of up to 80 mg.
 Steady-state levels of olmesartan are achieved within 3 to 5 days and no accumulation in plasma occurs with once-daily dosing.
 
-Geriatric The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
+Specific Populations
+
+Geriatric Patients The pharmacokinetics of olmesartan were studied in the elderly (≥65 years).
 Overall, maximum plasma concentrations of olmesartan were similar in young adults and the elderly.
 Modest accumulation of olmesartan was observed in the elderly with repeated dosing; AUC ss, τ was 33% higher in elderly patients, corresponding to an approximate 30% reduction in CL R [see Dosage and Administration (2.1) and Use in Specific Populations (8.5)].
 
-Pediatric The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to16 years.
+Pediatric Patients The pharmacokinetics of olmesartan were studied in pediatric hypertensive patients aged 1 to 16 years.
 The clearance of olmesartan in pediatric patients was similar to that in adult patients when adjusted by the body weight [see Use in Specific Populations (8.4)].
 
 Olmesartan pharmacokinetics have not been investigated in pediatric patients less than 1 year of age [see Warnings and Precautions (5.2) and Use in Specific Populations (8.4)].
 
-Gender Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
+Male and Female Patients Minor differences were observed in the pharmacokinetics of olmesartan in women compared to men.
 AUC and C max were 10 to 15% higher in women than in men.
 
-Hepatic Insufficiency Increases in AUC 0-∞ and C max were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60% [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
+Patients with Hepatic Impairment Increases in AUC 0-∞ and C max were observed in patients with moderate hepatic impairment compared to those in matched controls, with an increase in AUC of about 60% [see Dosage and Administration (2.1) and Use in Specific Populations (8.6)].
 
-Renal Insufficiency In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
+Patients with Renal Impairment In patients with renal insufficiency, serum concentrations of olmesartan were elevated compared to subjects with normal renal function.
 After repeated dosing, the AUC was approximately tripled in patients with severe renal impairment (creatinine clearance <20 mL/min).
 The pharmacokinetics of olmesartan in patients undergoing hemodialysis has not been studied [see Dosage and Administration (2.1), Warnings and Precautions (5.4) and Use in Specific Populations (8.7)].
 
-### Drug Interaction
+Drug Interaction Studies
 
-Bile acid sequestering agent colesevelam
+Bile Acid Sequestering Agent Colesevelam Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in Cmax and 39% reduction in AUC of olmesartan.
+Lesser effects, 4% and 15% reduction in Cmax and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7.5)].
 
-Concomitant administration of 40 mg olmesartan medoxomil and 3750 mg colesevelam hydrochloride in healthy subjects resulted in 28% reduction in C max and 39% reduction in AUC of olmesartan.
-Lesser effects, 4% and 15% reduction in C max and AUC respectively, were observed when olmesartan medoxomil was administered 4 hours prior to colesevelam hydrochloride [see Drug Interactions (7)].
+Other Studies No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+
+The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH) 3/Mg(OH) 2].
+
+Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.

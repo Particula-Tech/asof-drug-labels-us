@@ -1,20 +1,19 @@
 # 7 DRUG INTERACTIONS
 
-No significant drug interactions were reported in studies in which olmesartan medoxomil was co-administered with digoxin or warfarin in healthy volunteers.
+## 7.1 Agents Increasing Serum Potassium
 
-The bioavailability of olmesartan was not significantly altered by the co-administration of antacids [Al(OH) 3/Mg(OH) 2].
+Concomitant use of olmesartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium.
+If co-medication is considered necessary, monitoring of serum potassium is advisable.
 
-Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected.
-
-Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+## 7.2 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy.
 
-The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil may be attenuated by NSAIDs including selective COX-2 inhibitors.
+The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil, may be attenuated by NSAIDs including selective COX-2 inhibitors.
 
-Dual Blockade of the Renin-Angiotensin System (RAS)
+## 7.3 Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
@@ -24,11 +23,13 @@ Closely monitor blood pressure, renal function and electrolytes in patients on o
 Do not co-administer aliskiren with olmesartan medoxomil tablets in patients with diabetes [see Contraindications (4)].
 Avoid use of aliskiren with olmesartan medoxomil tablets in patients with renal impairment (GFR <60 ml/min).
 
-Colesevelam hydrochloride
+## 7.4 Lithium
+
+Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including olmesartan medoxomil tablets.
+Monitor serum lithium levels during concomitant use.
+
+## 7.5 Colesevelam Hydrochloride
 
 Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan.
 Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect.
 Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3)].
-
-Lithium Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including olmesartan medoxomil tablets.
-Monitor serum lithium levels during concomitant use.
