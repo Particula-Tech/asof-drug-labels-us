@@ -18,7 +18,7 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-The safety data in Warnings and Precautions and described below reflect exposure to bevacizumab in 4463 patients including those with mCRC (AVF2107g, E3200), non-squamous NSCLC (E4599), GBM (EORTC 26101), mRCC (BO17705), cervical cancer (GOG-0240), and epithelial ovarian, fallopian tube, or primary peritoneal cancer (MO22224, AVF4095, GOG-0213, and GOG-0218), or another cancer, at the recommended dose and schedule for a median of 6 to 23 doses.
+The safety data in Warnings and Precautions and described below reflect exposure to bevacizumab in 4463 patients including those with mCRC (AVF2107g, E3200), non-squamous NSCLC (E4599), GBM (EORTC 26101), mRCC (BO17705), cervical cancer (GOG-0240), epithelial ovarian, fallopian tube, or primary peritoneal cancer (MO22224, AVF4095, GOG-0213, and GOG-0218), or another cancer, at the recommended dose and schedule for a median of 6 to 23 doses.
 The most common adverse reactions observed in patients receiving bevacizumab as a single agent or in combination with other anti-cancer therapies at a rate > 10% were epistaxis, headache, hypertension, rhinitis, proteinuria, taste alteration, dry skin, hemorrhage, lacrimation disorder, back pain and exfoliative dermatitis.
 
 Across clinical studies, bevacizumab was discontinued in 8% to 22% of patients because of adverse reactions [see Clinical Studies (14)].

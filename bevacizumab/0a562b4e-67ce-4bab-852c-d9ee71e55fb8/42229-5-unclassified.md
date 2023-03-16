@@ -8,6 +8,6 @@ AMGEN® and MVASI® (bevacizumab-awwb) are trademarks owned or licensed by Amgen
 
 AVASTIN® (bevacizumab) is a registered trademark owned or licensed by Genentech Inc., its subsidiaries, or affiliates.
 
-© 2017-2021 Amgen Inc. All rights reserved.
+© 2017-2021, 2023 Amgen Inc. All rights reserved.
 
-1xxxxxx- v4
+1xxxxxx- v5

@@ -203,7 +203,7 @@ The main outcome measure was OS.
 Secondary outcome measures included ORR.
 
 The median age was 48 years (20 to 85 years).
-Of the 452 patients randomized at baseline, 78% of patients were White, 80% had received prior radiation, 74% had received prior chemotherapy concurrent with radiation, and 32% had a platinum-free interval of less than 6 months.
+Of the 452 patients randomized at baseline, 78% of patients were White, 80% had received prior radiation, 74% had received prior chemotherapy concurrent with radiation, and 32% had a platinum-free interval (PFI) of less than 6 months.
 Patients had a GOG performance status of 0 (58%) or 1 (42%).
 Demographic and disease characteristics were balanced across arms.
 
@@ -288,7 +288,7 @@ Secondary outcome measures were ORR and OS.
 
 The median age was 61 years (25 to 84 years) and 37% of patients were ≥65 years.
 Seventy-nine percent had measurable disease at baseline, 87% had baseline CA-125 levels ≥2 times ULN and 31% had ascites at baseline.
-Seventy-three percent had a platinum-free interval (PFI) of 3 months to 6 months and 27% had PFI of <3 months.
+Seventy-three percent had a PFI of 3 months to 6 months and 27% had PFI of <3 months.
 ECOG performance status was 0 for 59%, 1 for 34% and 2 for 7% of the patients.
 
 The addition of bevacizumab to chemotherapy demonstrated a statistically significant improvement in investigator-assessed PFS, which was supported by a retrospective independent review analysis.
@@ -344,7 +344,7 @@ Secondary outcome measures were ORR and OS.
 
 The median age was 61 years (28 to 87 years) and 37% of patients were ≥65 years.
 All patients had measurable disease at baseline, 74% had baseline CA-125 levels >ULN (35 U/mL).
-The platinum-free interval (PFI) was 6 months to 12 months in 42 % of patients and >12 months in 58% of patients.
+The PFI was 6 months to 12 months in 42 % of patients and >12 months in 58% of patients.
 The ECOG performance status was 0 or 1 for 99.8% of patients.
 
 A statistically significant prolongation in PFS was demonstrated among patients receiving bevacizumab with chemotherapy compared to those receiving placebo with chemotherapy (Table 16 and Figure 8).

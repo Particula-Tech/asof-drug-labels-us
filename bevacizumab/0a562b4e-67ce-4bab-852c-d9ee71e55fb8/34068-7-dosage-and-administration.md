@@ -51,7 +51,7 @@ The recommended dosage is 15 mg/kg intravenously every 3 weeks, in combination w
 
 ## 2.8 Dosage Modifications for Adverse Reactions
 
-Table 1 describes dosage modifications for specific adverse reactions [see Warnings and Precautions (5)].
+Table 1 describes dosage modifications for specific adverse reactions.
 No dose reductions for MVASI are recommended.
 
 Table 1: Dosage Modifications for Adverse Reactions
@@ -86,7 +86,7 @@ Preparation
 - Withdraw necessary amount of MVASI and dilute in a total volume of 100 mL of 0.9% Sodium Chloride Injection, USP.
   DO NOT ADMINISTER OR MIX WITH DEXTROSE SOLUTION.
 - Discard any unused portion left in a vial, as the product contains no preservatives.
-- Store diluted MVASI solution at 2°C to 8°C (36°F to 46°F) for up to 8 hours.
+- Diluted MVASI solution may be stored at 2°C to 8°C (36°F to 46°F) for up to 8 hours, if not used immediately.
 - No incompatibilities between MVASI and polyvinylchloride or polyolefin bags have been observed.
 
 Administration
