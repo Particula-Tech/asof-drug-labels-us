@@ -165,7 +165,7 @@ The two trials also included different patient populations and patients were tre
 Adverse reactions reported in ≥ 15% in tacrolimus patients (combined trial results) are presented below for the two controlled trials in liver transplantation.
 
 The most common adverse reactions (≥ 38%) observed in tacrolimus-treated liver transplant patients are: tremor, headache, diarrhea, hypertension, nausea, abnormal renal function, abdominal pain, insomnia, paresthesia, anemia, pain, fever, asthenia, hyperkalemia, hypomagnesemia, and hyperglycemia.
-These all occur with oral administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
+These all occur with oral and IV administration of tacrolimus and some may respond to a reduction in dosing (e.g., tremor, headache, paresthesia, hypertension).
 Diarrhea was sometimes associated with other gastrointestinal complaints such as nausea and vomiting.
 Based on reported adverse reaction terms related to decreased renal function, nephrotoxicity was reported in approximately 40% and 36% of liver transplantation patients receiving tacrolimus in the U.S. and European randomized trials.
 
@@ -329,13 +329,13 @@ Hyperglycemia was associated with the use of tacrolimus in 47% and 33% of liver 
 Table 13.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Liver Transplant Recipients
 
-| Status of PTDM 1 | U.S. Trial |  | European Trial |  |
+| Status of PTDM 1 | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | Tacrolimus | Cyclosporine | Tacrolimus | Cyclosporine |  |
 | Patients at risk 2 | 239 | 236 | 239 | 249 |
 | New Onset PTDM 1 | 42 (18%) | 30 (13%) | 26 (11%) | 12 (5%) |
 | Patients still on insulin at 1 year | 23 (10%) | 19 (8%) | 18 (8%) | 6 (2%) |
-| Use of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. Patients without pre-transplant history of diabetes mellitus. |  |  |  |  |
+| Use of insulin for 30 or more consecutive days, with < 5-day gap, without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.Patients without pre-transplant history of diabetes mellitus. |  |  |  |  |
 
 Heart Transplantation
 
@@ -345,13 +345,13 @@ Hyperglycemia, defined as two fasting plasma glucose levels ≥ 126 mg/dL was re
 Table 14.
 Incidence of Post-Transplant Diabetes Mellitus and Insulin Use at 1 Year in Heart Transplant Recipients
 
-| Status of PTDM 1 | U.S. Trial |  | European Trial |  |
+| Status of PTDM 1 | US Trial |  | European Trial |  |
 | --- | --- | --- | --- | --- |
 | Tacrolimus/ MMF | Cyclosporine/ MMF | Tacrolimus/ AZA | Cyclosporine/ AZA |  |
 | Patients at risk 2 | 75 | 83 | 132 | 138 |
 | New Onset PTDM 1 | 10 (13%) | 6 (7%) | 29 (22%) | 5 (4%) |
 | Patients still on insulin at 1 year 3 | 7 (9%) | 1 (1%) | 24 (18%) | 4 (3%) |
-| Use of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus. Patients without pre-transplant history of diabetes mellitus.7 to 12 months for the U.S. trial. |  |  |  |  |
+| Use of insulin for 30 or more consecutive days without a prior history of insulin-dependent diabetes mellitus or non-insulin dependent diabetes mellitus.Patients without pre-transplant history of diabetes mellitus.7 to 12 months for the U.S. trial. |  |  |  |  |
 
 Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, and Heart Transplant Studies: The following adverse reactions were reported in either liver, kidney, and/or heart transplant recipients who were treated with tacrolimus in clinical trials.
 
@@ -368,10 +368,6 @@ Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, an
 - Respiratory: Asthma, emphysema, hiccups, lung function decreased, pharyngitis, pneumonia, pneumothorax, pulmonary edema, rhinitis, sinusitis, voice alteration
 - Skin: Acne, alopecia, exfoliative dermatitis, fungal dermatitis, herpes simplex, herpes zoster, hirsutism, neoplasm skin benign, skin discoloration, skin ulcer, sweating
 
-Lung Transplantation
-
-Adverse reactions in lung transplant patients were similar to those in kidney, liver, or heart transplant patients treated with tacrolimus [see Adverse Reactions (6.2)].
-
 Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
@@ -383,9 +379,9 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Other reactions include:
 
-- Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
+- Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsades de pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
 - Gastrointestinal: Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastroesophageal reflux disease, hepatic cytolysis, hepatic necrosis, hepatotoxicity, impaired gastric emptying, liver fatty, mouth ulceration, pancreatitis hemorrhagic, pancreatitis necrotizing, stomach ulcer, veno-occlusive liver disease
-- Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia
+- Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia, thrombotic microangiopathy
 - Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; polyoma virus-associated nephropathy, (PVAN) including graft loss
 - Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
 - Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction
@@ -395,7 +391,3 @@ Other reactions include:
 - Skin: Stevens-Johnson syndrome, toxic epidermal necrolysis
 - Special Senses: Blindness, optic neuropathy, blindness cortical, hearing loss including deafness, photophobia
 - Urogenital: Acute renal failure, cystitis hemorrhagic, hemolytic-uremic syndrome
-
-Postmarketing Adverse Reactions in Lung Transplantation Based on U.S. Scientific Registry of Transplant Recipients (SRTR) data, published clinical trials, and postmarketing reports, the safety profile for lung transplant patients treated with tacrolimus is consistent with the safety profile in kidney, liver, and heart transplant patients treated with tacrolimus.
-The primary adverse reactions described include renal dysfunction, infection, diabetes, gastrointestinal disturbances (e.g., diarrhea), hypertension, and neurological events (e.g., tremor).
-As expected, lung transplant patients have a higher incidence of pulmonary complications (e.g., pneumonia, bronchiolitis obliterans syndrome) than other solid organ transplant patients, which is in part due to the underlying disease and to the nature of the transplanted organ.

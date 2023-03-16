@@ -36,7 +36,7 @@ Estimated Creatinine Clearance at 12 Months (Study 1)
 | (D) Siro/MMF/CS/Daclizumab | 399 | 56.2 | 27.4 | 57.3 | -8.9 (-14.1, -3.9) |
 | Total | 1589 | 59.2 | 26.8 | 60.5 |  |
 | Key: CsA = Cyclosporine, CS = Corticosteroids, Tac = Tacrolimus, Siro = Sirolimus |  |  |  |  |  |
-| All death/graft loss (n = 41, 27, 23, and 42 in Groups A, B, C, and D) and patients whose last recorded creatinine values were prior to month 3 visit (n = 10, 9, 7, and 9 in Groups A, B, C, and D, respectively) were imputed with Glomerular Filtration Rate (GFR) of 10 mL/min; a subject's last observed creatinine value from month 3 on was used for the remainder of subjects with missing creatinine at month 12 (n = 11, 12, 15, and 19 for Groups A, B, C, and D, respectively). Weight was also imputed in the calculation of estimated GFR, if missing. Adjusted for multiple (6) pairwise comparisons using Bonferroni corrections. |  |  |  |  |  |
+| All death/graft loss (n = 41, 27, 23, and 42 in Groups A, B, C, and D) and patients whose last recorded creatinine values were prior to month 3 visit (n = 10, 9, 7, and 9 in Groups A, B, C, and D, respectively) were imputed with Glomerular Filtration Rate (GFR) of 10 mL/min; a subject's last observed creatinine value from month 3 on was used for the remainder of subjects with missing creatinine at month 12 (n = 11, 12, 15, and 19 for Groups A, B, C, and D, respectively). Weight was also imputed in the calculation of estimated GFR, if missing.Adjusted for multiple (6) pairwise comparisons using Bonferroni corrections. |  |  |  |  |  |
 
 Table 21.
 Incidence of BPAR, Graft Loss, Death, or Loss to Follow-up at 12 Months (Study 1)
@@ -59,7 +59,7 @@ Approximately 80% of patients maintained tacrolimus whole blood concentrations b
 Table 22.
 Tacrolimus Whole Blood Trough Concentration Range (Study 1)
 
-| Time | Median (P10-P90 1) |  |  |  |
+| Time | Median (P10-P90 1) tacrolimus whole blood trough concentration range (ng/mL) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Day 30 (N = 366) | 6.9 (4.4 to 11.3) |  |  |  |
 | Day 90 (N = 351) | 6.8 (4.1 to 10.7) |  |  |  |
@@ -114,11 +114,11 @@ Tacrolimus Whole Blood Trough Concentration Range (Study 2)
 
 | Time | Median (P10-P90 1) tacrolimus whole blood trough concentration range (ng/mL) |
 | --- | --- |
-| Day 30 (N = 174) | 10.5 (6.3 – 16.8) |
-| Day 60 (N = 179) | 9.2 (5.9 – 15.3) |
-| Day 120 (N = 176) | 8.3 (4.6 – 13.3) |
-| Day 180 (N = 171) | 7.8 (5.5 – 13.2) |
-| Day 365 (N = 178) | 7.1 (4.2 – 12.4) |
+| Day 30 (N = 174) | 10.5 (6.3 to 16.8) |
+| Day 60 (N = 179) | 9.2 (5.9 to 15.3) |
+| Day 120 (N = 176) | 8.3 (4.6 to 13.3) |
+| Day 180 (N = 171) | 7.8 (5.5 to 13.2) |
+| Day 365 (N = 178) | 7.1 (4.2 to 12.4) |
 | 10 to 90th Percentile: range of C trough,Tac that excludes lowest 10% and highest 10% of C trough,Tac |  |
 
 The protocol-specified target cyclosporine whole blood concentrations (C trough, CsA) were 125 to 400 ng/mL for the first three months, and 100 to 300 ng/mL thereafter.
@@ -134,16 +134,16 @@ MMF Dose Over Time in the Tacrolimus/MMF Group (Study 2)
 | Time period (Days) | Time-averaged MMF dose (g/day) 1 |  |  |
 | --- | --- | --- | --- |
 | Less than 2.0 | 2.0 | Greater than 2.0 |  |
-| 0-30 (N = 212) | 25% | 69% | 6% |
-| 0-90 (N = 212) | 41% | 53% | 6% |
-| 0-180 (N = 212) | 52% | 41% | 7% |
-| 0-365 (N = 212) | 62% | 34% | 4% |
+| 0 to 30 (N = 212) | 25% | 69% | 6% |
+| 0 to 90 (N = 212) | 41% | 53% | 6% |
+| 0 to 180 (N = 212) | 52% | 41% | 7% |
+| 0 to 365 (N = 212) | 62% | 34% | 4% |
 | Key: Time-averaged MMF dose = (total MMF dose)/(duration of treatment) |  |  |  |
 | Percentage of patients for each time-averaged MMF dose range during various treatment periods. Two grams per day of time-averaged MMF dose means that MMF dose was not reduced in those patients during the treatment periods. |  |  |  |
 
 ## 14.2 Liver Transplantation
 
-The safety and efficacy of tacrolimus-based immunosuppression following orthotopic liver transplantation were assessed in two prospective, randomized, non-blinded multicenter trials.
+The safety and efficacy of tacrolimus based immunosuppression following orthotopic liver transplantation were assessed in two prospective, randomized, non-blinded multicenter trials.
 The active control groups were treated with a cyclosporine-based immunosuppressive regimen (CsA/AZA).
 Both trials used concomitant adrenal corticosteroids as part of the immunosuppressive regimens.
 These trials compared patient and graft survival rates at 12 months following transplantation.
@@ -174,7 +174,7 @@ However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this 
 
 Two open-label, randomized, comparative trials evaluated the safety and efficacy of tacrolimus-based and cyclosporine- based immunosuppression in primary orthotopic heart transplantation.
 In a trial conducted in Europe, 314 patients received a regimen of antibody induction, corticosteroids, and azathioprine in combination with tacrolimus or cyclosporine modified for 18 months.
-In a 3-arm trial conducted in the US, 331 patients received corticosteroids and tacrolimus plus sirolimus, tacrolimus plus mycophenolate mofetil (MMF) or cyclosporine modified plus MMF for 1 year.
+In a 3-arm trial conducted in the U.S., 331 patients received corticosteroids and tacrolimus plus sirolimus, tacrolimus plus mycophenolate mofetil (MMF) or cyclosporine modified plus MMF for 1 year.
 
 In the European trial, patient/graft survival at 18 months post-transplant was similar between treatment arms, 92% in the tacrolimus group and 90% in the cyclosporine group.
 In the U.S. trial, patient and graft survival at 12 months was similar with 93% survival in the tacrolimus plus MMF group and 86% survival in the cyclosporine modified plus MMF group.
@@ -182,10 +182,3 @@ In the European trial, the cyclosporine trough concentrations were above the pre
 Data from this European trial indicate that from 1 week to 3 months post-transplant, approximately 80% of patients maintained trough concentrations between 8 to 20 ng/mL and, from 3 months through 18 months post-transplant, approximately 80% of patients maintained trough concentrations between 6 to 18 ng/mL.
 
 The U.S. trial contained a third arm of a combination regimen of sirolimus, 2 mg per day, and full-dose tacrolimus; however, this regimen was associated with increased risk of wound-healing complications, renal function impairment, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Warnings and Precautions (5.10)].
-
-## 14.4 Lung Transplantation
-
-The efficacy and safety of tacrolimus-based immunosuppression in primary lung transplantation were assessed in a non-interventional (observational) study using data from the U.S. Scientific Registry of Transplant Recipients (SRTR).
-The study analyzed outcomes based on discharge immunosuppression treatment regimen in recipients of a primary lung transplant between 1999 and 2017 who were alive at the time of discharge.
-In adult patients receiving tacrolimus immediate-release products in combination with MMF (n=15,478) or tacrolimus immediate-release products in combination with AZA (n=4,263), the one-year graft survival estimates from time of discharge were 90.9% and 90.8%, respectively.
-In pediatric patients receiving tacrolimus immediate-release products in combination with MMF (n=450) or tacrolimus immediate-release products in combination with AZA (n=72), the one-year graft survival estimates from time of discharge were 91.7% and 84.7%, respectively.

@@ -23,6 +23,7 @@ No evidence of genotoxicity was seen in bacterial (Salmonella and E. coli) or ma
 
 ### Impairment of Fertility
 
+Tacrolimus, subcutaneously administered to male rats at paternally toxic doses of 2 mg/kg/day (1.6 to 4.3 times the recommended clinical dose range [0.2 to 0.075 mg/kg/day] on a mg/m2 basis) or 3 mg/kg/day (2.4 to 6.4 times the recommended clinical dose range), resulted in a dose-related decrease in sperm count.
 Tacrolimus, administered orally at 1.0 mg/kg (0.8 to 2.2 times the clinical dose range) to male and female rats, prior to and during mating, as well as to dams during gestation and lactation, was associated with embryolethality and adverse effects on female reproduction.
 Effects on female reproductive function (parturition) and embryolethal effects were indicated by a higher rate of pre- and post- implantation loss and increased numbers of undelivered and nonviable pups.
 When administered at 3.2 mg/kg (2.6 to 6.9 times the clinical dose range based on body surface area), tacrolimus was associated with maternal and paternal toxicity as well as reproductive toxicity including marked adverse effects on estrus cycles, parturition, pup viability, and pup malformations.
