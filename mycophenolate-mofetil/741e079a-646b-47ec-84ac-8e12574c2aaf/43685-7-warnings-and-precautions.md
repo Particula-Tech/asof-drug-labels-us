@@ -21,7 +21,7 @@ In pediatric patients, no other malignancies besides PTLD were observed in clini
 
 Patients receiving immunosuppressants, including mycophenolate mofetil, are at increased risk of developing bacterial, fungal, protozoal and new or reactivated viral infections, including opportunistic infections.
 The risk increases with the total immunosuppressive load.
-These infections may lead to serious outcomes, including hospitalizations and death [see Adverse Reactions (6.1), (6.2)].
+These infections may lead to serious outcomes, including hospitalizations and death [see Adverse Reactions (6.1,6.2)].
 
 Serious viral infections reported include:
 
@@ -29,8 +29,9 @@ Serious viral infections reported include:
 - JC virus-associated progressive multifocal leukoencephalopathy (PML), and
 - Cytomegalovirus (CMV) infections: CMV seronegative transplant patients who receive an organ from a CMV seropositive donor are at highest risk of CMV viremia and CMV disease.
 - Viral reactivation in patients infected with Hepatitis B and C
+- COVID-19
 
-Consider reducing immunosuppression in patients who develop new infections or reactivate viral infections, weighing the risk that reduced immunosuppression represents to the functioning allograft.
+Consider dose reduction or discontinuation of mycophenolate mofetil in patients who develop new infections or reactivate viral infections, weighing the risk that reduced immunosuppression represents to the functioning allograft.
 
 PVAN, especially due to BK virus infection, is associated with serious outcomes, including deteriorating renal function and renal graft loss [see Adverse Reactions (6.2)].
 Patient monitoring may help detect patients at risk for PVAN.
@@ -70,25 +71,35 @@ Physicians should be aware of these serious adverse effects particularly when ad
 
 Mycophenolate mofetil is an inosine monophosphate dehydrogenase (IMPDH) inhibitor; therefore it should be avoided in patients with hereditary deficiencies of hypoxanthine-guanine phosphoribosyl-transferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndromes because it may cause an exacerbation of disease symptoms characterized by the overproduction and accumulation of uric acid leading to symptoms associated with gout such as acute arthritis, tophi, nephrolithiasis or urolithiasis and renal disease including renal failure.
 
-## 5.7 Immunizations
+## 5.7 Acute Inflammatory Syndrome Associated with Mycophenolate Products
+
+Acute inflammatory syndrome (AIS) has been reported with the use of MMF and mycophenolate products, and some cases have resulted in hospitalization.
+AIS is a paradoxical pro-inflammatory reaction characterized by fever, arthralgias, arthritis, muscle pain and elevated inflammatory markers including, C-reactive protein and erythrocyte sedimentation rate, without evidence of infection or underlying disease recurrence.
+Symptoms occur within weeks to months of initiation of treatment or a dose increase.
+After discontinuation, improvement of symptoms and inflammatory markers are usually observed within 24 to 48 hours.
+
+Monitor patients for symptoms and laboratory parameters of AIS when starting treatment with mycophenolate products or when increasing the dosage.
+Discontinue treatment and consider other treatment alternatives based on the risk and benefit for the patient.
+
+## 5.8 Immunizations
 
 During treatment with mycophenolate mofetil, the use of live attenuated vaccines should be avoided (e.g., intranasal influenza, measles, mumps, rubella, oral polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines) and patients should be advised that vaccinations may be less effective.
 Advise patients to discuss with the physician before seeking any immunizations.
 
-## 5.10 Blood Donation
+## 5.11 Blood Donation
 
 Patients should not donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil because their blood or blood products might be administered to a female of reproductive potential or a pregnant woman.
 
-## 5.11 Semen Donation
+## 5.12 Semen Donation
 
 Based on animal data, men should not donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil [see Use In Specific Populations (8.3)].
 
-## 5.12 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
+## 5.13 Effect of Concomitant Medications on Mycophenolic Acid Concentrations
 
 A variety of drugs have potential to alter systemic MPA exposure when co-administered with mycophenolate mofetil.
 Therefore, determination of MPA concentrations in plasma before and after making any changes to immunosuppressive therapy, or when adding or discontinuing concomitant medications, may be appropriate to ensure MPA concentrations remain stable.
 
-## 5.13 Potential Impairment of Ability to Drive or Operate Machinery
+## 5.14 Potential Impairment of Ability to Drive or Operate Machinery
 
 Mycophenolate mofetil may impact the ability to drive and use machines.
 Patients should avoid driving or using machines if they experience somnolence, confusion, dizziness, tremor, or hypotension during treatment with mycophenolate mofetil [see Adverse Reactions (6.1)].
