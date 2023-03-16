@@ -64,7 +64,7 @@ Those subjects who completed 34 weeks of sertraline hydrochloride treatment (10 
 However, there are no studies that directly evaluate the long-term effects of sertraline hydrochloride on the growth, development, and maturation in pediatric patients.
 Juvenile Animal Data A study conducted in juvenile rats at clinically relevant doses showed delay in sexual maturation, but there was no effect on fertility in either males or females.
 In this study in which juvenile rats were treated with oral doses of sertraline at 0, 10, 40 or 80 mg/kg/day from postnatal day 21 to 56, a delay in sexual maturation was observed in males treated with 80 mg/kg/day and females treated with doses ≥10 mg/kg/day.
-There was no effect on male and female reproductive endpoints or neurobehavioral development up to the highest dose tested (80 mg/kg/day), except a decrease in auditory startle response in females at 40 and 80 mg/kg/day at the end of treatment but not at the end of the drug -free period.
+There was no effect on male and female reproductive endpoints or neurobehavioral development up to the highest dose tested (80 mg/kg/day), except a decrease in auditory startle response in females at 40 and 80 mg/kg/day at the end of treatment but not at the end of the drug-free period.
 The highest dose of 80 mg/kg/day produced plasma levels (AUC) of sertraline 5 times those seen in pediatric patients (6 to 17 years of age) receiving the maximum recommended dose of sertraline (200 mg/day).
 
 ## 8.5 Geriatric Use

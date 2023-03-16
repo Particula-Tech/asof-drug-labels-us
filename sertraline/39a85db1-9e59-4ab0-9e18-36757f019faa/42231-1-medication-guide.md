@@ -17,14 +17,14 @@ Suicidal thoughts or actions:
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
 - attempts to commit suicide
-- acting on dangerous impulses
 - acting aggressive or violent
-- thoughts about suicide or dying
 - new or worse depression
-- new or worse anxiety or panic attacks
 - feeling agitated, restless, angry or irritable
-- trouble sleeping
 - an increase in activity or talking more than what is normal for you
+- acting on dangerous impulses
+- thoughts about suicide or dying
+- new or worse anxiety or panic attacks
+- trouble sleeping
 - other unusual changes in behavior or mood
 
 2.
@@ -78,7 +78,7 @@ Symptoms may include:
 
 9.
 Sexual problems (dysfunction).
-Taking serotonin and norepinephrine reuptake inhibitors (SSRIs), including sertraline hydrochloride tablets, may cause sexual problems.
+Taking selective serotonin reuptake inhibitors (SSRIs), including sertraline hydrochloride tablets, may cause sexual problems.
 
 Symptoms in males may include:
 
@@ -135,10 +135,10 @@ People who take sertraline hydrochloride tablets close in time to an MAOI may ha
 Get medical help right away if you have any of these symptoms:
 
 - high fever
-- uncontrolled muscle spasms
-- stiff muscles
 - rapid changes in heart rate or blood pressure
+- uncontrolled muscle spasms
 - confusion
+- stiff muscles
 - loss of consciousness (pass out)
 
 What should I tell my healthcare provider before taking sertraline hydrochloride tablets?
@@ -230,4 +230,4 @@ Dispense with Medication Guide available at: www.aurobindousa.com/medication-gui
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad - 500 032, India Revised: 10/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2023

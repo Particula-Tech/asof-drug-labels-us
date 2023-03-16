@@ -4,8 +4,8 @@ The following adverse reactions are described in more detail in other sections o
 
 - Hypersensitivity reactions to sertraline [See Contraindications (4)]
 - QTc prolongation and ventricular arrhythmias when taken with pimozide [See Contraindications (4), Clinical Pharmacology (12.2)]
-- Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
 - Suicidal thoughts and behaviors [See Warnings and Precautions (5.1)]
+- Serotonin syndrome [See Contraindications (4), Warnings and Precautions (5.2), Drug Interactions (7.1)]
 - Increased risk of bleeding [See Warnings and Precautions (5.3)]
 - Activation of mania/hypomania [See Warnings and Precautions (5.4)]
 - Discontinuation syndrome [See Warnings and Precautions (5.5)]
@@ -38,9 +38,9 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Palpitations | 4% | 2% |
 | Eye disorders |  |  |
 | Visual impairment | 4% | 2% |
-| Gastrointestinal Disorders |  |  |
+| Gastrointestinal disorders |  |  |
 | Nausea | 26% | 12% |
-| Diarrhea/Loose Stools | 20% | 10% |
+| Diarrhea/Loose stools | 20% | 10% |
 | Dry mouth | 14% | 9% |
 | Dyspepsia | 8% | 4% |
 | Constipation | 6% | 4% |
@@ -56,7 +56,7 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Psychiatric Disorders |  |  |
 | Insomnia | 20% | 13% |
 | Agitation | 8% | 5% |
-| Libido Decreased | 6% | 2% |
+| Libido decreased | 6% | 2% |
 | Reproductive system and breast disorders |  |  |
 | Ejaculation failure (1) | 8% | 1% |
 | Erectile dysfunction (1) | 4% | 1% |
@@ -98,10 +98,10 @@ Adverse Reactions in Pediatric Patients In 281 pediatric patients treated with s
 Adverse reactions that do not appear in Table 3 (most common adverse reactions in adults) yet were reported in at least 2% of pediatric patients and at a rate of at least twice the placebo rate include fever, hyperkinesia, urinary incontinence, aggression, epistaxis, purpura, arthralgia, decreased weight, muscle twitching, and anxiety.
 Other Adverse Reactions Observed During the Premarketing Evaluation of Sertraline Hydrochloride
 
-Other infrequent adverse reactions, not described elsewhere in the prescribing information, occurring at an incidence of < 2% in patients treated with sertraline hydrochloride were: Cardiac disorders – tachycardia Ear and labyrinth disorders – tinnitus Endocrine disorders - hypothyroidism Eye disorders - mydriasis, blurred vision Gastrointestinal disorders - hematochezia, melena, rectal hemorrhage General disorders and administration site conditions - edema, gait disturbance, irritability, pyrexia Hepatobiliary disorders - elevated liver enzymes Immune system disorders - anaphylaxis Metabolism and nutrition disorders - diabetes mellitus, hypercholesterolemia, hypoglycemia, increased appetite Musculoskeletal and connective tissue disorders – arthralgia, muscle spasms, tightness, or twitching Nervous system disorders - ataxia, coma, convulsion, decreased alertness, hypoesthesia, lethargy, psychomotor hyperactivity, syncope Psychiatric disorders - aggression, bruxism, confusional state, euphoric mood, hallucination Renal and urinary disorders - hematuria Reproductive system and breast disorders - galactorrhea, priapism, vaginal hemorrhage Respiratory, thoracic and mediastinal disorders - bronchospasm, epistaxis, yawning Skin and subcutaneous tissue disorders - alopecia; cold sweat; dermatitis; dermatitis bullous; pruritus; purpura; erythematous, follicular, or maculopapular rash; urticaria Vascular disorders - hemorrhage, hypertension, vasodilation
+Other infrequent adverse reactions, not described elsewhere in the prescribing information, occurring at an incidence of < 2% in patients treated with sertraline hydrochloride were: Cardiac disorders - tachycardia Ear and labyrinth disorders - tinnitus Endocrine disorders - hypothyroidism Eye disorders - mydriasis, blurred vision Gastrointestinal disorders - hematochezia, melena, rectal hemorrhage General disorders and administration site conditions - edema, gait disturbance, irritability, pyrexia Hepatobiliary disorders - elevated liver enzymes Immune system disorders - anaphylaxis Metabolism and nutrition disorders - diabetes mellitus, hypercholesterolemia, hypoglycemia, increased appetite Musculoskeletal and connective tissue disorders - arthralgia, muscle spasms, tightness, or twitching Nervous system disorders - ataxia, coma, convulsion, decreased alertness, hypoesthesia, lethargy, psychomotor hyperactivity, syncope Psychiatric disorders - aggression, bruxism, confusional state, euphoric mood, hallucination Renal and urinary disorders - hematuria Reproductive system and breast disorders - galactorrhea, priapism, vaginal hemorrhage Respiratory, thoracic and mediastinal disorders - bronchospasm, epistaxis, yawning Skin and subcutaneous tissue disorders - alopecia; cold sweat; dermatitis; dermatitis bullous; pruritus; purpura; erythematous, follicular, or maculopapular rash; urticaria Vascular disorders - hemorrhage, hypertension, vasodilation
 
 ## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during postapproval use of sertraline hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Bleeding or clotting disorders - increased coagulation times (altered platelet function) Cardiac disorders – AV block, bradycardia, atrial arrhythmias, QTc-interval prolongation, ventricular tachycardia (including Torsade de Pointes) [See Clinical Pharmacology (12.2)] Endocrine disorders - gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH Eye disorders - blindness, optic neuritis, cataract Hepatobiliary disorders – severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis Hemic and lymphatic disorders – agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness Immune system disorders - angioedema Metabolism and nutrition disorders – hyponatremia, hyperglycemia Musculoskeletal and connective tissue disorders - rhabdomyolysis, trismus Nervous system disorders - serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis Psychiatric disorders – psychosis, enuresis, paroniria Renal and urinary disorders - acute renal failure Respiratory, thoracic and mediastinal disorders - pulmonary hypertension Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN) Vascular disorders - cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call-Fleming syndrome), vasculitis
+Bleeding or clotting disorders - increased coagulation times (altered platelet function) Cardiac disorders - AV block, bradycardia, atrial arrhythmias, QTc-interval prolongation, ventricular tachycardia (including Torsade de Pointes) [See Clinical Pharmacology (12.2)] Endocrine disorders - gynecomastia, hyperprolactinemia, menstrual irregularities, SIADH Eye disorders - blindness, optic neuritis, cataract Hepatobiliary disorders - severe liver events (including hepatitis, jaundice, liver failure with some fatal outcomes), pancreatitis Hemic and lymphatic disorders - agranulocytosis, aplastic anemia and pancytopenia, leukopenia, thrombocytopenia, lupus-like syndrome, serum sickness Immune system disorders - angioedema Metabolism and nutrition disorders - hyponatremia, hyperglycemia Musculoskeletal and connective tissue disorders - rhabdomyolysis, trismus Nervous system disorders - serotonin syndrome, extrapyramidal symptoms (including akathisia and dystonia), oculogyric crisis Psychiatric disorders – psychosis, enuresis, paroniria Renal and urinary disorders - acute renal failure Respiratory, thoracic and mediastinal disorders - pulmonary hypertension, eosinophilic pneumonia Skin and subcutaneous tissue disorders - photosensitivity skin reaction and other severe cutaneous reactions, which potentially can be fatal, such as Stevens-Johnson Syndrome (SJS) and toxic epidermal necrolysis (TEN) Vascular disorders - cerebrovascular spasm (including reversible cerebral vasoconstriction syndrome and Call-Fleming syndrome), vasculitis
