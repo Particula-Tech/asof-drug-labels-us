@@ -2,18 +2,18 @@
 
 The following clinically significant adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Splenic Rupture [see Warnings and Precautions (5.1)]
-- Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
-- Serious Allergic Reactions [see Warnings and Precautions (5.3)]
-- Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.4)]
-- Glomerulonephritis [see Warnings and Precautions (5.5)]
-- Leukocytosis [see Warnings and Precautions (5.6)]
-- Thrombocytopenia [see Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
-- Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
-- Myelodysplastic Syndrome [see Warnings and Precautions (5.10)]
-- Acute Myeloid Leukemia [see Warnings and Precautions (5.10)]
-- Aortitis [see Warnings and Precautions (5.11)]
+- •Splenic Rupture [see Warnings and Precautions (5.1)]
+- •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
+- •Serious Allergic Reactions [see Warnings and Precautions (5.3)]
+- •Use in Patients with Sickle Cell Disorders [see Warnings and Precautions (5.4)]
+- •Glomerulonephritis [see Warnings and Precautions (5.5)]
+- •Leukocytosis [see Warnings and Precautions (5.6)]
+- •Thrombocytopenia [see Warnings and Precautions (5.7)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- •Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
+- •Myelodysplastic Syndrome [see Warnings and Precautions (5.10)]
+- •Acute Myeloid Leukemia [see Warnings and Precautions (5.10)]
+- •Aortitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -64,16 +64,16 @@ None of these 4 patients had evidence of neutralizing antibodies detected using 
 The following adverse reactions have been identified during post-approval use of pegfilgrastim products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Splenic rupture and splenomegaly (enlarged spleen) [see Warnings and Precautions (5.1)]
-- Acute respiratory distress syndrome (ARDS) [see Warnings and Precautions (5.2)]
-- Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, urticaria, generalized erythema, and flushing [see Warnings and Precautions (5.3)]
-- Sickle cell crisis [see Warnings and Precautions (5.4)]
-- Glomerulonephritis [see Warnings and Precautions (5.5)]
-- Leukocytosis [see Warnings and Precautions (5.6)]
-- Thrombocytopenia [see Warnings and Precautions (5.7)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
-- Injection site reactions
-- Sweet's syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
-- Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.10)]
-- Aortitis [see Warnings and Precautions (5.11)]
-- Alveolar hemorrhage
+- •Splenic rupture and splenomegaly (enlarged spleen) [see Warnings and Precautions (5.1)]
+- •Acute respiratory distress syndrome (ARDS) [see Warnings and Precautions (5.2)]
+- •Allergic reactions/hypersensitivity, including anaphylaxis, skin rash, urticaria, generalized erythema, and flushing [see Warnings and Precautions (5.3)]
+- •Sickle cell crisis [see Warnings and Precautions (5.4)]
+- •Glomerulonephritis [see Warnings and Precautions (5.5)]
+- •Leukocytosis [see Warnings and Precautions (5.6)]
+- •Thrombocytopenia [see Warnings and Precautions (5.7)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
+- •Injection site reactions
+- •Sweet's syndrome (acute febrile neutrophilic dermatosis), cutaneous vasculitis
+- •Myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.10)]
+- •Aortitis [see Warnings and Precautions (5.11)]
+- •Alveolar hemorrhage
