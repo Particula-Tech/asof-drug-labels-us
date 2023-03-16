@@ -103,7 +103,7 @@ Infections and Infestations:Clostridium difficile associated diarrhea
 
 Investigations: weight changes
 
-Metabolism and Nutritional Disorders: hyponatremia, hypomagnesemia, hypokalemia, hyponatremia
+Metabolism and Nutritional Disorders: hypomagnesemia, hypocalcemia, hypokalemia, hyponatremia
 
 Musculoskeletal Disorders: rhabdomyolysis, bone fracture
 
