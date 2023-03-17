@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA216605"
+  ],
+  "inn": "ropivacaine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1732-1",
+    "70121-1732-9",
+    "70121-1733-1",
+    "70121-1733-9",
+    "70121-1734-1",
+    "70121-1734-7",
+    "70121-1735-1",
+    "70121-1735-7"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ropivacaine hydrochloride",
+      "name": "Ropivacaine Hydrochloride"
+    }
+  ],
+  "setid": "da1ce22b-6a8e-40a2-afbb-011fa3ed3a8b",
+  "source": "dailymed"
+}
