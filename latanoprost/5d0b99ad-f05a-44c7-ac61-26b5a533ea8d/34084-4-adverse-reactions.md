@@ -65,6 +65,8 @@ Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, 
 
 Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
 
+Gastrointestinal Disorders: Nausea; vomiting
+
 Skin and Subcutaneous Tissue Disorders: Pruritus
 
 Infections and Infestations: Herpes keratitis
