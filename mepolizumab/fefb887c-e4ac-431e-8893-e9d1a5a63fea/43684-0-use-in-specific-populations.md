@@ -2,11 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
-
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women with asthma exposed to NUCALA during pregnancy.
-Healthcare providers can enroll patients or encourage patients to enroll themselves by calling 1-877-311-8972 or visiting www.mothertobaby.org/asthma.
-
 Risk Summary
 
 The data on pregnancy exposure are insufficient to inform on drug-associated risk.

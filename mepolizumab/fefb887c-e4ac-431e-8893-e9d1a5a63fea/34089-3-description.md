@@ -12,7 +12,7 @@ The vial stopper is not made with natural rubber latex.
 
 NUCALA injection is a sterile, preservative-free, clear to opalescent, colorless to pale yellow to pale brown solution for subcutaneous use.
 
-NUCALA injection is supplied in a single-dose, 1-mL, prefilled autoinjector with a fixed 29-gauge, half-inch needle and in a single-dose, 1-mL, prefilled syringe with a fixed 29‑gauge, half-inch needle with a needle guard.
+NUCALA injection is supplied in a single-dose, 1-mL, prefilled autoinjector with a fixed 29‑gauge, half-inch needle and in a single-dose, 1-mL, prefilled syringe with a fixed 29‑gauge, half-inch needle with a needle guard.
 Each 1 mL delivers 100 mg mepolizumab, citric acid monohydrate (0.95 mg), EDTA disodium dihydrate (0.019 mg), polysorbate 80 (0.20 mg), sodium phosphate dibasic heptahydrate (4.16 mg), and sucrose (120 mg), with a pH of 6.3.
 
 NUCALA injection is supplied in a single-dose, 0.4-mL, prefilled syringe with a fixed 29-gauge, half-inch needle with a needle guard.

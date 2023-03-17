@@ -78,7 +78,7 @@ Rate of Exacerbations in Severe Asthma Trials 1 and 2 (Intent-to-Treat Populatio
 | Trial 2 | Placebo (n = 191) | 0.10 |  |  |  |  |  |  |
 | Mepolizumab 75 mg IV (n = 191) | 0.06 | 0.04 | 0.61(0.23, 1.66) |  |  |  |  |  |
 | NUCALA 100 mg SC (n = 194) | 0.03 | 0.07 | 0.31(0.11, 0.91) |  |  |  |  |  |
-| IV = intravenous, SC = subcutaneous, CI = Confidence Interval. |  |  |  |  |  |  |  |  |
+| IV = intravenous, SC = subcutaneous. |  |  |  |  |  |  |  |  |
 
 The time to first exacerbation was longer for the groups receiving NUCALA 100 mg and mepolizumab 75 mg IV compared with placebo in Trial 2 (Figure 1).
 
@@ -125,7 +125,7 @@ Change from Baseline in FEV1 (mL) in Severe Asthma Trials
 | 1a | 10 (-87, 108) | 5 (-98, 108) | 61 (-39, 161)b |  |  |  |  |  |  |  |  |  |
 | 2c | 52 (-30, 134) | 76 (-6, 159) | 98 (11, 184)d |  |  |  |  |  |  |  |  |  |
 | 3c | 56 (-91, 203) | 114 (-42, 271) | NA |  |  |  |  |  |  |  |  |  |
-| FEV1 = Forced Expiratory Volume in 1 Second, CI = Confidence Interval. a Dose = 75 mg intravenous. b Forced expiratory volume in 1 second (FEV1) at Week 52. c Dose = 100 mg subcutaneous. d FEV1 at Week 32. |  |  |  |  |  |  |  |  |  |  |  |  |
+| FEV1 = forced expiratory volume in 1 second. a Dose = 75 mg intravenous. b Forced expiratory volume in 1 second (FEV1) at Week 52. c Dose = 100 mg subcutaneous. d FEV1 at Week 32. |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The effect of mepolizumab on lung function was also studied in a 12-week placebo-controlled trial enrolling patients with asthma on a moderate dose of ICS with evidence of symptoms and lung function impairment.
 Enrollment was not dependent on a history of exacerbations or a pre-specified eosinophil count.
@@ -168,7 +168,7 @@ Demographics and Baseline Characteristics in CRSwNP
 | Geometric mean blood eosinophil cells/mcL (95% CI) | 390 (360, 420) |
 | Asthma, n (%) | 289 (71) |
 | AERD, n (%) | 108 (27) |
-| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps, SD = standard deviation, OCS = Oral corticosteroid, NPS = nasal polyp score, VAS = visual analog scale, AERD = Aspirin-exacerbated respiratory disease. a As graded by independent blinded assessors. |  |
+| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps, SD = standard deviation, OCS = oral corticosteroid, NPS = nasal polyp score, VAS = visual analog scale, AERD = aspirin-exacerbated respiratory disease. a As graded by independent blinded assessors. |  |
 
 Endoscopic Nasal Polyp Score and Nasal Obstruction Visual Analog Scale Scores
 
@@ -179,10 +179,10 @@ Analyses of Endpoints in CRSwNP
 
 | Scoresa(range) | Placebon = 201 |  | NUCALA 100 mgn = 206 |  | Mean Difference vs. Placebo (95% CI) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Baseline Mean(SD) | Mean Changeb(SE) | Baseline Mean (SD) | Mean Changeb (SE) |  |  |  |  |
+| Baseline Mean(SD) | Mean Changeb(SE) | Baseline Mean (SD) | Mean Changeb(SE) |  |  |  |  |
 | NPS(0-8) | 5.6 (1.41) | 0.06 (0.14) | 5.4(1.17) | -0.87 (0.14) | -0.93(-1.31, -0.55) |  |  |
 | Nasal obstruction(0-10) | 9.02 (0.83) | -2.54(0.25) | 8.92(0.83) | -4.40 (0.25) | -1.86(-2.53, -1.19) |  |  |
-| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps, SD = standard deviation, SE = standard error, CI = Confidence Interval, NPS = Nasal polyp score at Week 52. a Patients with nasal surgery were assigned worst possible score for the period after nasal surgery. Missing data were imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count, visit, interaction terms for visit by baseline and visit by treatment. |  |  |  |  |  |  |  |
+| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps, SD = standard deviation, SE = standard error, NPS = nasal polyp score at Week 52. a Patients with nasal surgery were assigned worst possible score for the period after nasal surgery. Missing data were imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count, visit, interaction terms for visit by baseline and visit by treatment. |  |  |  |  |  |  |  |
 
 Nasal Polypectomy
 
@@ -208,7 +208,7 @@ Table 8: Additional Visual Analog Scale Symptom Scores Assessed at Weeks 49-52
 | Nasal dischargec(0-10) | 8.78 (1.25) | -2.49 (0.26) | 8.78 (1.07) | -4.38 (0.25) | -1.89(-2.58, -1.20) |  |  |  |  |  |  |  |  |
 | Mucus in the throatc(0-10) | 8.58 (1.63) | -2.37 (0.26) | 8.51 (1.61) | -4.07 (0.26) | -1.70(-2.41, -0.99) |  |  |  |  |  |  |  |  |
 | Facial painc(0-10) | 7.77 (2.72) | -2.04 (0.28) | 7.76 (2.51) | -3.73 (0.27) | -1.69(-2.43, -0.95) |  |  |  |  |  |  |  |  |
-| VAS = Visual Analog Scale; SD = Standard Deviation; SE = Standard Error; CI = Confidence Interval. a Patients with nasal surgery were assigned the worst possible score for the period after nasal surgery. Missing data was imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from an analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count visit, interaction terms for visit by baseline and visit by treatment. c This endpoint was not prespecified in the analysis plan to adjust for multiplicity. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| VAS = visual analog scale; SD = standard deviation; SE = standard error. a Patients with nasal surgery were assigned the worst possible score for the period after nasal surgery. Missing data was imputed based on available off-treatment data across treatment arms. Imputations were made stepwise by visit and conditioned on data from previous visits with the same covariates used in the analysis model. b Least square means from an analysis using mixed model repeated measures with covariates of treatment group, geographic region, baseline score, and log(e) baseline blood eosinophil count visit, interaction terms for visit by baseline and visit by treatment. c This endpoint was not prespecified in the analysis plan to adjust for multiplicity. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Corticosteroid Reduction
 
@@ -218,7 +218,7 @@ In patients who received NUCALA 100 mg, 52 (25%) required ≥1 course of systemi
 Results in Patients with Co-morbid Asthma
 
 In 289 (71%) patients with co-morbid asthma, pre-specified analyses showed improvements in the co-primary endpoints consistent with those seen in the overall population in the patients who received NUCALA 100 mg compared with placebo.
-Additionally, based on a post-hoc analysis in these patients, there was a greater response from baseline at Week 52 in asthma control as measured by the Asthma Control Questionnaire (ACQ‑5) for NUCALA 100 mg compared with placebo (57% of the NUCALA patients met the responder threshold reduction of ≥0.5, compared to 35% in the placebo group, with an odds ratio of 2.42 (95% CI 1.43, 4.11)).
+Additionally, based on a post-hoc analysis in these patients, there was a greater response from baseline at Week 52 in asthma control as measured by the ACQ‑5 for NUCALA 100 mg compared with placebo (57% of the NUCALA patients met the responder threshold reduction of ≥0.5, compared to 35% in the placebo group, with an odds ratio of 2.42 [95% CI 1.43, 4.11]).
 
 ## 14.3 Eosinophilic Granulomatosis with Polyangiitis
 
@@ -244,8 +244,8 @@ Demographics and Baseline Characteristics in EGPA
 | Recurrence of EGPA symptoms, n (%) | 68 (50) |
 | Failed induction treatment, n (%) | 6 (4) |
 | Baseline oral corticosteroida daily dose, mg, median (range) | 12 (7.5-50) |
-| Receiving immunosuppressive therapy,b n (%) | 72 (53) |
-| EGPA = Eosinophilic Granulomatosis with Polyangiitis, SD = standard deviation. a Prednisone or prednisolone equivalent. b e.g., Azathioprine, methotrexate, mycophenolic acid. |  |
+| Receiving immunosuppressive therapyb, n (%) | 72 (53) |
+| EGPA = Eosinophilic Granulomatosis with Polyangiitis, SD = standard deviation. a Prednisone or prednisolone equivalent. b e.g., azathioprine, methotrexate, mycophenolic acid. |  |
 
 Remission
 
@@ -272,7 +272,7 @@ Remission and Components of Remission in EGPA
 | Patients, n (%) | 2 (3) | 22 (32) | 7 (10) | 28 (41) | 23 (34) | 34 (50) |  |  |
 | Odds ratio (NUCALA/placebo)a |  | 16.7 |  | 6.6 |  | 1.9 |  |  |
 | (95% CI) |  | (3.6, 77.6) |  | (2.6, 17.1) |  | (0.9, 4.2) |  |  |
-| EGPA = Eosinophilic Granulomatosis with Polyangiitis, OCS = Oral Corticosteroid, BVAS = Birmingham Vasculitis Activity Score, CI = confidence interval. a An odds ratio >1 favors NUCALA. |  |  |  |  |  |  |  |  |
+| EGPA = Eosinophilic Granulomatosis with Polyangiitis, OCS = oral corticosteroid, BVAS = Birmingham Vasculitis Activity Score. a An odds ratio >1 favors NUCALA. |  |  |  |  |  |  |  |  |
 
 Additionally, a statistically significant benefit for these endpoints was demonstrated using remission defined as BVAS = 0 plus prednisolone/prednisone ≤7.5 mg/day.
 
@@ -304,7 +304,7 @@ Average Daily Oral Corticosteroid Dose during Weeks 48 to 52 in EGPA
 | Comparison: NUCALA/placeboa |  |  |  |  |  |  |  |  |  |  |  |
 | Odds ratiob |  | 0.20 |  |  |  |  |  |  |  |  |  |
 | 95% CI |  | 0.09, 0.41 |  |  |  |  |  |  |  |  |  |
-| EGPA = Eosinophilic Granulomatosis with Polyangiitis, CI = confidence interval. a Analyzed using a proportional odds model with covariates of treatment group, baseline oral corticosteroid daily dose, baseline Birmingham Vasculitis Activity Score, and region. b An odds ratio <1 favors NUCALA. |  |  |  |  |  |  |  |  |  |  |  |
+| EGPA = Eosinophilic Granulomatosis with Polyangiitis. a Analyzed using a proportional odds model with covariates of treatment group, baseline oral corticosteroid daily dose, baseline Birmingham Vasculitis Activity Score, and region. b An odds ratio <1 favors NUCALA. |  |  |  |  |  |  |  |  |  |  |  |
 
 Asthma Control Questionnaire-6 (ACQ-6)
 
@@ -319,7 +319,7 @@ Patients received 300 mg of NUCALA or placebo subcutaneously once every 4 weeks 
 Patients entering the trial had experienced at least 2 HES flares within the past 12 months and a blood eosinophil count of 1,000 cells/mcL or higher during screening.
 Historical HES flares for the trial entry criteria were defined as HES-related worsening of clinical symptoms or blood eosinophil counts requiring an escalation in therapy.
 Patients must have been on stable HES therapy for the 4 weeks prior to randomization.
-HES therapy could include chronic or episodic oral corticosteroids (OCS), immunosuppressive, or cytotoxic therapy.
+HES therapy could include chronic or episodic OCS, immunosuppressive, or cytotoxic therapy.
 
 The efficacy of NUCALA in HES was established based upon the proportion of patients who experienced a HES flare during the 32-week treatment period.
 A HES flare was defined as worsening of clinical signs and symptoms of HES or increasing eosinophils (on at least 2 occasions), resulting in the need to increase OCS or increase/add cytotoxic or immunosuppressive HES therapy.
@@ -355,12 +355,12 @@ Overview of HES Flares
 | CMH P value |  | 0.002 |  |  |
 | Odds ratiob |  | 0.28 |  |  |
 | 95% CI |  | (0.12, 0.64) |  |  |
-| HES = Hypereosinophilic Syndrome, CMH = Cochran-Mantel-Haenszel, CI = confidence interval. a Analysis compared the number of patients who experienced ≥1 HES flare and/or withdrew from the trial prematurely. b An odds ratio <1 favors NUCALA. |  |  |  |  |
+| HES = Hypereosinophilic Syndrome, CMH = Cochran-Mantel-Haenszel. a Analysis compared the number of patients who experienced ≥1 HES flare and/or withdrew from the trial prematurely. b An odds ratio <1 favors NUCALA. |  |  |  |  |
 
 Time to First Flare
 
 Difference was observed between NUCALA and placebo arms in the time to first HES flare (Figure 4).
-The risk of first HES flare over the treatment period was 66 % lower for patients treated with NUCALA compared with placebo (Hazard Ratio: 0.34; 95 % CI 0.18, 0.67, P = 0.002).
+The risk of first HES flare over the treatment period was 66 % lower for patients treated with NUCALA compared with placebo (hazard ratio: 0.34; 95 % CI 0.18, 0.67, P = 0.002).
 
 Figure 4.
 Kaplan-Meier Curve for Time to First HES Flare
@@ -393,7 +393,7 @@ Frequency of Flares
 | Rate/year | 1.46 | 0.50 |  |  |  |  |  |
 | Rate ratiob |  | 0.34 |  |  |  |  |  |
 | 95% CI |  | (0.19, 0.63) |  |  |  |  |  |
-| CI = confidence interval. a Adjusted P values based on pre-specified hierarchy of endpoints. b A rate ratio <1 favors NUCALA. |  |  |  |  |  |  |  |
+| a Adjusted P values based on pre-specified hierarchy of endpoints. b A rate ratio <1 favors NUCALA. |  |  |  |  |  |  |  |
 
 Brief Fatigue Inventory
 

@@ -68,7 +68,7 @@ Patients had recurrent CRSwNP with a history of prior surgery and were on nasal 
 Of the patients enrolled, 35% were female, 93% were White, and ages ranged from 18 to 82 years.
 Approximately 2% of patients receiving NUCALA 100 mg withdrew from study treatment due to adverse events compared with 2% of patients receiving placebo.
 
-Table 2 summarizes adverse reactions that occurred in ≥ 3% of NUCALA-treated patients and more frequently than in patients treated with placebo in the CRSwNP trial.
+Table 2 summarizes adverse reactions that occurred in ≥3% of NUCALA-treated patients and more frequently than in patients treated with placebo in the CRSwNP trial.
 
 Table 2.
 Adverse Reactions with NUCALA with ≥3% Incidence and More Common than Placebo in Patients with CRSwNP
@@ -77,7 +77,7 @@ Adverse Reactions with NUCALA with ≥3% Incidence and More Common than Placebo 
 | --- | --- | --- |
 | Oropharyngeal pain | 8 | 5 |
 | Arthralgia | 6 | 2 |
-| Abdominal Pain Upper | 3 | 2 |
+| Abdominal pain upper | 3 | 2 |
 | Diarrhea | 3 | 2 |
 | Pyrexia | 3 | 2 |
 | Nasal dryness | 3 | <1 |
