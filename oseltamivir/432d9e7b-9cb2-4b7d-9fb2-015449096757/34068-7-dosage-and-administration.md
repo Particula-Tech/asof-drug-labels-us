@@ -76,7 +76,7 @@ Table 2 Recommended Dosage Modifications for Treatment and Prophylaxis of Influe
 
 Prior to dispensing to the patient, constitute oseltamivir phosphate for oral suspension (supplied as powder):
 
-1. Tap the closed bottle containing the oseltamivir phosphate powder several times to loosen the powder.
+1. Tap the closed bottle containing the supplied oseltamivir phosphate white to light yellow powder several times to loosen the powder.
 2. Measure 55 mL of water in a graduated cylinder.
 3. Add the total amount of water for constitution to the bottle.
 4. Close bottle with child-resistant cap tightly and shake the closed bottle well for 15 seconds.

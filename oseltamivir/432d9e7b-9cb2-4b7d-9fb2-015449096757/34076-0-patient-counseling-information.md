@@ -32,9 +32,9 @@ Oseltamivir Phosphate for Oral Suspension
 
 Manufactured by:
 
-Nesher Pharmaceuticals (USA) LLC.
+Zydus Lifesciences Ltd.
 
-St. Louis, MO 63044
+Baddi, India.
 
 Distributed by:
 
@@ -42,14 +42,12 @@ Zydus Pharmaceuticals USA Inc.
 
 Pennington, NJ 08534
 
-P10291-8
-
 Rev.
-06/2020
+02/2023
 
 PATIENT INFORMATION
 
-Oseltamivir phosphate for oral suspension (os-el-TAM-ih-veer)
+Oseltamivir phosphate (oh'' sel tam' i vir fos' fate) for oral suspension
 
 What is Oseltamivir Phosphate for Oral Suspension?
 
@@ -90,7 +88,7 @@ Before you take oseltamivir phosphate for oral suspension, tell your healthcare 
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   Available information indicate that oseltamivir phosphate for oral suspension does not increase the risk of birth defects
-- are breastfeeding or plan to breast feed.
+- are breastfeeding or plan to breastfeed.
   Oseltamivir phosphate can pass into breast milk in small amounts.
 
 Tell your healthcare provider about all the medicines you take, including prescription or over-the- counter medicines, vitamins, and herbal supplements.
@@ -158,7 +156,7 @@ It may harm them.
 
 If you would like more information, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about oseltamivir phosphate for oral suspension that is written for health professionals.
-For more information, contact Zydus Pharmaceuticals at 1-877-993-8779.
+For more information, contact Zydus Pharmaceuticals (USA) Inc. at 1-877-993-8779.
 
 What are the ingredients in oseltamivir phosphate for oral suspension?
 
@@ -170,23 +168,23 @@ Oseltamivir Phosphate for Oral Suspension: sorbitol, monosodium citrate, xanthan
 
 Manufactured by:
 
-Nesher Pharmaceuticals USA LLC
+Zydus Lifesciences Ltd.
 
-St. Louis, MO 63044
+Baddi, India.
 
 Distributed by:
 
-Zydus Pharmaceuticals USA Inc.
+Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised 08/2019
+Revised 02/23
 
 Instructions For Use
 
-Oseltamivir phosphate for oral suspension (os-el-TAM-ih-veer)
+Oseltamivir phosphate (oh'' sel tam' i vir fos' fate) for oral suspension
 
 How do I give a dose of oseltamivir phosphate for oral suspension?
 
@@ -211,4 +209,4 @@ Rinse oral dosing dispenser under running tap water and allow to air dry after e
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised 08/2019
+Revised 02/23

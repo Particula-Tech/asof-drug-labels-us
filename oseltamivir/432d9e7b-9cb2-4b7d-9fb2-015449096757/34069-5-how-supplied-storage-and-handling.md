@@ -9,9 +9,9 @@ After constitution with 55 mL of water, each bottle delivers a usable volume of 
 
 Storage
 
-Store dry powder at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+Store dry powder at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
-Store constituted oral suspension under refrigeration for up to 17 days at 2° to 8°C (36° to 46°F).
-
+Store constituted oral suspension under refrigeration for up to 17 days at 2°C to 8°C (36°F to 46°F).
 Do not freeze.
-Alternatively, store constituted suspension for up to 10 days at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+
+Alternatively, store constituted suspension for up to 10 days at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].

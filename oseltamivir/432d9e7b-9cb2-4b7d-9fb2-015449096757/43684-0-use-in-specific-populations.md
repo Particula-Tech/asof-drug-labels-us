@@ -6,12 +6,12 @@ Risk Summary
 
 There are no adequate and well-controlled studies with oseltamivir phosphate for oral suspension in pregnant women to inform a drug-associated risk of adverse development outcomes.
 Available published epidemiological data suggest that oseltamivir phosphate for oral suspension, taken in any trimester, is not associated with an increased risk of birth defects.
-However, these studies individually are limited by small sample sizes, use of different comparison groups, and some lacked information on dose, which preclude a definitive assessment of the risk [see Clinical Pharmacology (12.3)].
+However, these studies individually are limited by small sample sizes, use of different comparison groups, and some lacked information on dose, which preclude a definitive assessment of the risk [see Data and Clinical Pharmacology (12.3)].
 In animal reproduction studies with oseltamivir, no adverse developmental effects were observed at clinically relevant exposures (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage is 2‐4% and 15‐20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage is 2% to 4% and 15% to 20% respectively.
 
 Clinical Considerations
 
