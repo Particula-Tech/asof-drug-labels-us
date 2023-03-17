@@ -2,18 +2,18 @@
 
 Systemic and local corticosteroid use may result in the following:
 
-- •Candida albicans infection [see Warnings and Precautions (5.1)]
-- •Immunosuppression [see Warnings and Precautions (5.3)]
-- •Hypercorticism and adrenal suppression [see Warnings and Precautions (5.5)]
+- •Oropharyngeal Candidiasis [see Warnings and Precautions (5.1)]
+- •Immunosuppression and Risk of Infections [see Warnings and Precautions (5.3)]
+- •Hypercorticism and Adrenal Suppression [see Warnings and Precautions (5.5)]
 - •Reduction in BMD [see Warnings and Precautions (5.9)]
-- •Growth effects in pediatrics [see Warnings and Precautions (5.10)]
-- •Glaucoma and cataracts [see Warnings and Precautions (5.11)]
+- •Growth Effects in Pediatrics [see Warnings and Precautions (5.10)]
+- •Glaucoma and Cataracts [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adult and Adolescent Subjects Aged 12 Years and Older
+Adult and Pediatric Subjects Aged 12 Years and Older
 
 The safety of ARNUITY ELLIPTA was evaluated in 10 double-blind, parallel-group, controlled trials (7 with placebo) of 8 to 76 weeks’ duration that enrolled 6,219 subjects with asthma.
 Doses of fluticasone furoate studied ranged from 25 to 800 mcg.
@@ -24,7 +24,7 @@ Subject ages ranged from 12 to 84 years, 65% were female, and 75% were Caucasian
 In these trials, the proportion of subjects who discontinued study treatment early due to adverse reactions was 2% for subjects treated with both ARNUITY ELLIPTA 100 mcg and ARNUITY ELLIPTA 200 mcg and ≤1% for placebo-treated subjects.
 Serious adverse events, whether considered drug-related or not by the investigators, that occurred in more than 1 subject and in a greater percentage of subjects treated with ARNUITY ELLIPTA than placebo included hypertension, abscess, breast cancer, traumatic limb amputation, subarachnoid hemorrhage, and intervertebral disc protrusion; all events occurred at rates ≤1%.
 
-The incidence of adverse reactions associated with ARNUITY ELLIPTA 100 mcg is shown in Table 1 and is based on one 24-week trial (Trial 1) in adult and adolescent subjects with asthma.
+The incidence of adverse reactions associated with ARNUITY ELLIPTA 100 mcg is shown in Table 1 and is based on one 24-week trial (Trial 1) in adult and pediatric subjects aged 12 years and older with asthma.
 
 Table 1.
 Adverse Reactions with ARNUITY ELLIPTA 100 mcg with ≥3% Incidence and More Common than Placebo (Trial 1, Intent-to-Treat Population)
@@ -43,7 +43,7 @@ Adverse Reactions with ARNUITY ELLIPTA 100 mcg with ≥3% Incidence and More Com
 | Oropharyngeal candidiasis | 3 | 0 |
 | Oropharyngeal pain | 3 | 0 |
 
-The incidence of adverse reactions associated with ARNUITY ELLIPTA 200 mcg is shown in Table 2 and is based on one 24-week trial (Trial 3) in adult and adolescent subjects with asthma.
+The incidence of adverse reactions associated with ARNUITY ELLIPTA 200 mcg is shown in Table 2 and is based on one 24-week trial (Trial 3) in adult and pediatric subjects aged 12 years and older with asthma.
 This trial did not have a placebo arm.
 
 Table 2.
@@ -72,14 +72,14 @@ Adverse reactions observed in the other trials were consistent with those descri
 
 Long-term Safety
 
-Long-term safety data are based on 2 trials in adult and adolescent subjects with asthma.
+Long-term safety data are based on 2 trials in adult and pediatric subjects aged 12 years and older with asthma.
 In one 52-week trial, subjects received fluticasone furoate 100 mcg (n = 201) or fluticasone furoate 200 mcg (n = 202) in combination with a LABA.
-Subjects had a mean age of 39 years (adolescents made up 16% of the population), 63% were female, and 67% were Caucasian.
+Subjects had a mean age of 39 years (pediatric patients 12 years and older made up 16% of the population), 63% were female, and 67% were Caucasian.
 In addition to the events shown in Table 1 and Table 2, adverse events occurring in ≥3% of the subjects treated with fluticasone furoate 100 mcg or fluticasone furoate 200 mcg, in combination with a LABA, included pyrexia, extrasystoles, upper abdominal pain, respiratory tract infection, diarrhea, and allergic rhinitis.
 
 In a second 24- to 76-week trial, subjects received fluticasone furoate 100 mcg (n = 1,010).
 Subjects participating in this trial had a history of 1 or more asthma exacerbations that required treatment with oral/systemic corticosteroids or emergency department visit or in-patient hospitalization for the treatment of asthma within the previous 12 months.
-Subjects had a mean age of 42 years (adolescents made up 14% of the population), 67% were female, and 73% were Caucasian.
+Subjects had a mean age of 42 years (pediatric patients 12 years and older made up 14% of the population), 67% were female, and 73% were Caucasian.
 In addition to the events shown in Table 1 and Table 2, adverse events occurring in ≥3% of subjects treated with fluticasone furoate 100 mcg for up to 76 weeks included allergic rhinitis, nasal congestion, and arthralgia.
 
 Pediatric Subjects Aged 5 to 11 Years
@@ -87,5 +87,5 @@ Pediatric Subjects Aged 5 to 11 Years
 The safety data for pediatric subjects is based upon one 12-week clinical trial that enrolled 593 subjects with asthma aged 5 to 11 years.
 Dosages of fluticasone furoate studied were 25, 50, or 100 mcg administered once daily.
 ARNUITY ELLIPTA 50 mcg was studied in 120 subjects (46 females and 74 males) [see Clinical Studies (14.2)].
-Adverse reactions (≥3% and greater than placebo) seen in pediatric subjects were similar to those reported in adult and adolescent subjects.
+Adverse reactions (≥3% and greater than placebo) seen in pediatric subjects were similar to those reported in adult and pediatric subjects aged 12 years and older.
 Adverse reactions occurring in ≥3% of subjects treated with ARNUITY ELLIPTA 50 mcg and greater than placebo were pharyngitis, bronchitis, and viral infection.

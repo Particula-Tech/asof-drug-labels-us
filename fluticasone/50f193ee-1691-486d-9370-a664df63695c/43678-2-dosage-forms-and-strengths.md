@@ -1,4 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Inhalation powder: Disposable light grey and orange plastic inhaler containing a foil blister strip of powder intended for oral inhalation only.
-Each blister contains fluticasone furoate 50, 100, or 200 mcg.
+Inhalation powder: Plastic inhaler containing a foil blister strip of powder.
+Each blister contains fluticasone furoate 50 mcg, 100 mcg, or 200 mcg.
