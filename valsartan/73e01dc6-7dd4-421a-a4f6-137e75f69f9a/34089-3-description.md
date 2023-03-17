@@ -9,5 +9,5 @@ Valsartan, USP is a white to practically white fine powder.
 It is soluble in ethanol and methanol and slightly soluble in water.
 
 Valsartan is available as tablets for oral administration, containing 40 mg, 80 mg, 160 mg or 320 mg of valsartan.
-The inactive ingredients of the tablets are colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, red iron oxide, titanium dioxide and yellow iron oxide.
+The inactive ingredients of the tablets are colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, red iron oxide, titanium dioxide, vanillin and yellow iron oxide.
 The 160 mg and 320 mg tablets also contain black iron oxide.

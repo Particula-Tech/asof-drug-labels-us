@@ -168,13 +168,13 @@ What are the ingredients in valsartan tablets?
 
 Active ingredient: valsartan
 
-Inactive ingredients: colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, red iron oxide, titanium dioxide and yellow iron oxide.
+Inactive ingredients: colloidal silicon dioxide, crospovidone, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, povidone, red iron oxide, titanium dioxide, vanillin and yellow iron oxide.
 The 160 mg and 320 mg tablets also contain black iron oxide.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75069061
+75080128
 
-Revised: 8/2019 MX:VALS:R11p/MX:PL:VALS:R10p
+Revised: 2/2023 MX:VALS:R12p/MX:PL:VALS:R11p
