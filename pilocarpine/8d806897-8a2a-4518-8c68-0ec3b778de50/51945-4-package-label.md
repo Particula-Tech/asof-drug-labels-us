@@ -83,3 +83,23 @@ For Topical Application in the Eye
 Allergan™
 
 An AbbVie company
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC: 0074-7098-06
+
+Vuity®
+
+(pilocarpine HCI ophthalmic solution) 1.25%
+
+Rx Only
+
+Sterile
+
+5 mL
+
+For Topical Application in the Eye
+
+Allergan™
+
+An AbbVie company

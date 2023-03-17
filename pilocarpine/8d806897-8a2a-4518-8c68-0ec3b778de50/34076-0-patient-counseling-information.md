@@ -22,8 +22,8 @@ Concomitant Topical Ocular Therapy If more than one topical ophthalmic medicatio
 
 Distributed by: Allergan, an AbbVie company Manufactured for: AbbVie Inc. North Chicago, IL 60064 USA
 
-© 2022 AbbVie.
+© 2023 AbbVie.
 All rights reserved.
 VUITY and its design are trademarks of Allergan Sales, LLC, an AbbVie company.
 
-v3.0USPI7098
+v4.0USPI7098
