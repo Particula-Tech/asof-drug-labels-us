@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA079188"
+  ],
+  "inn": "emtricitabine",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "65862-301-05",
+    "65862-301-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "emtricitabine",
+      "name": "Emtricitabine"
+    }
+  ],
+  "setid": "cdfb7868-3eba-46e1-a286-ca40760fd98d",
+  "source": "dailymed"
+}
