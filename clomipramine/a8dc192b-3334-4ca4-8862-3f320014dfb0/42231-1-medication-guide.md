@@ -1,3 +1,7 @@
+Dispense with Medication Guide available at:
+
+www.lifestarpharma.com/medguide/clomipraminehclcapsule/Ireland.pdf
+
 Medication Guide
 
 Clomipramine Hydrochloride Capsules, USP
@@ -92,24 +96,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for:
 
-Lifestar Pharma LLC (a Mankind Group Company)
-
-1200 MacArthur Blvd.
-
-Mahwah, NJ 07430 USA
-
-Manufactured by:
-
-Mankind Pharma Ltd.
-
-New Delhi, INDIA
-
-Revised: May 2019, V-04
-
-Or
-
-Manufactured in India for:
-
 Lifestar Pharma LLC
 
 1200 MacArthur Blvd.
@@ -118,4 +104,4 @@ Mahwah, NJ 07430 USA
 
 Product of Ireland
 
-Revised: July 2020, I-01
+Revised: September 2021, I-02

@@ -6,24 +6,6 @@ In addition cardiac thrombosis and dermatitis/keratitis were observed in rats tr
 
 Manufactured for:
 
-Lifestar Pharma LLC (a Mankind Group Company)
-
-1200 MacArthur Blvd.
-
-Mahwah, NJ 07430 USA
-
-Manufactured by:
-
-Mankind Pharma Ltd.
-
-New Delhi, INDIA
-
-Revised: May 2019, V-04
-
-Or
-
-Manufactured in India for:
-
 Lifestar Pharma LLC
 
 1200 MacArthur Blvd.
@@ -32,4 +14,8 @@ Mahwah, NJ 07430 USA
 
 Product of Ireland
 
-Revised: August 2020, I-02
+Revised: September 2021, I-02
+
+Dispense with Medication Guide available at:
+
+www.lifestarpharma.com/medguide/clomipraminehclcapsule/Ireland.pdf
