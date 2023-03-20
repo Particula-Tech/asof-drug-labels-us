@@ -18,8 +18,7 @@ Complete blockade continued throughout the 8 weeks of observation that followed 
 
 Figure 10 illustrates the relationship between buprenorphine plasma level and drug liking after 18 mg hydromorphone IM.
 
-Figure 10.
-Drug Liking VAS vs. Plasma Buprenorphine Concentration Following 18 mg Hydromorphone Challenges
+Figure 10 Drug Liking VAS vs. Plasma Buprenorphine Concentration Following 18 mg Hydromorphone Challenges
 
 Exposure-response relationships were assessed for illicit opioid use, based on urine samples negative for illicit opioids combined with self-reports negative for illicit opioid use, and withdrawal symptoms using data obtained from 489 opioid dependent patients in the double-blind Phase 3 Study (13-0001).
 

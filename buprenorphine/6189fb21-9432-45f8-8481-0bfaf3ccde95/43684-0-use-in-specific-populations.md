@@ -129,7 +129,7 @@ Because of the long-acting nature of the product, adjustments to dosages of SUBL
 Because buprenorphine levels cannot be rapidly adjusted, patients with pre-existing moderate to severe hepatic impairment are not candidates for treatment with SUBLOCADE.
 
 Patients who develop moderate to severe hepatic impairment while being treated with SUBLOCADE should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
-If signs and symptoms of toxicity or overdose occur within 2 weeks of SUBLOCADE administration, removal of the depot may be required [see Dosage and Administration (2.8), Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].
+If signs and symptoms of toxicity or overdose occur within 2 weeks of SUBLOCADE administration, removal of the depot may be required [see Dosage and Administration (2.7), Warnings and Precautions (5.10), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

@@ -4,9 +4,6 @@
 
 SUBLOCADE contains buprenorphine, a Schedule III substance under the Controlled Substances Act.
 
-Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
-823(g), prescription use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
-
 ## 9.2 Abuse
 
 SUBLOCADE contains buprenorphine, a Schedule III controlled substance that can be abused similar to other opioids.

@@ -39,14 +39,14 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.7)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBLOCADE.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine itself.
 Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of buprenorphine and its affinity for the mu-opioid receptor [see Overdosage (10)].
@@ -56,7 +56,7 @@ Inform patients and caregivers of their options for obtaining naloxone as permit
 Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.
 Emphasize the importance of calling 911 or getting emergency medical help, even if naloxone is administered [see Patient Counseling Information (17)].
 
-## 5.5 Managing Risks From Concomitant Use of Benzodiazepines Or Other CNS Depressants With Buprenorphine
+## 5.5 Managing Risks From Concomitant Use of Benzodiazepines or Other CNS Depressants With Buprenorphine
 
 Concomitant use of buprenorphine and benzodiazepines or other CNS depressants increases the risk of adverse reactions including overdose, respiratory depression, and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
@@ -88,7 +88,7 @@ Injection site reactions are most commonly manifested by pain, erythema and prur
 In some post-marketing case reports injection site reactions have involved abscess, ulceration, and necrosis.
 Some cases resulted in surgical depot removal, debridement, antibiotic administration, and SUBLOCADE discontinuation.
 The likelihood of serious injection site reactions may be increased with inadvertent intramuscular or intradermal administration.
-Carefully review injection technique [see Instructions for Use (2.6)].
+Carefully review injection technique [see Instructions for Use (2.5)].
 Evaluate and treat serious injection site reactions as appropriate.
 
 ## 5.7 Neonatal Opioid Withdrawal Syndrome

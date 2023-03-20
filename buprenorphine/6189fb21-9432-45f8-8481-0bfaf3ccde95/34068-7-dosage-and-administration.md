@@ -1,22 +1,17 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Drug Addiction Treatment Act
-
-Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
-823(g), prescription use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
-
-## 2.2 Important Dosing and Administration Information
+## 2.1 Important Dosing and Administration Information
 
 FOR ABDOMINAL SUBCUTANEOUS INJECTION ONLY.
-DO NOT ADMINISTER SUBLOCADE INTRAVENOUSLY, INTRAMUSCULARLY OR INTRADERMALLY [see Dosage and Administration (2.6), Warnings and Precautions (5.1, 5.6)].
+DO NOT ADMINISTER SUBLOCADE INTRAVENOUSLY, INTRAMUSCULARLY OR INTRADERMALLY [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6)].
 
 - Only healthcare providers should prepare and administer SUBLOCADE.
 - Administer SUBLOCADE monthly with a minimum of 26 days between doses.
 - Initiating treatment with SUBLOCADE as the first buprenorphine product has not been studied.
-  Initiate SUBLOCADE treatment only following induction and dose-adjustment with a transmucosal buprenorphine-containing product [see Dosage and Administration (2.4)].
-- Administer each injection only using the syringe and safety needle included with the product [see Dosage and Administration (2.6)].
+  Initiate SUBLOCADE treatment only following induction and dose-adjustment with a transmucosal buprenorphine-containing product [see Dosage and Administration (2.3)].
+- Administer each injection only using the syringe and safety needle included with the product [see Dosage and Administration (2.5)].
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBLOCADE.
@@ -27,7 +22,7 @@ Higher than normal doses and repeated administration of naloxone may be necessar
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
-## 2.4 Recommended Dosing
+## 2.3 Recommended Dosing
 
 Initiation of Treatment following Induction
 
@@ -48,9 +43,9 @@ Patients should be cautioned that the peak plasma level after injection of a 300
 
 Transition of Patients Established on Long-term Treatment with Transmucosal Buprenorphine
 
-Patients established on long-term treatment with transmucosal buprenorphine (8-24 mg/day) and whose disease symptoms are controlled may be directly transitioned to SUBLOCADE [seeTable 1].
+Patients established on long-term treatment with transmucosal buprenorphine (8-24 mg/day) and whose disease symptoms are controlled may be directly transitioned to SUBLOCADE [see Table 1].
 At steady-state, buprenorphine plasma concentrations achieved with 100-mg monthly dosing are contained within the range obtained with transmucosal treatment; peak concentrations with SUBLOCADE may be lower, while average and trough concentrations may be higher.
-Potential differences in steady state levels need to be taken into consideration when transitioning a patient established on long term treatment with transmucosal buprenorphine to SUBLOCADE [see Clinical Pharmacology (12.3),Table 7].
+Potential differences in steady state levels need to be taken into consideration when transitioning a patient established on long term treatment with transmucosal buprenorphine to SUBLOCADE [see Clinical Pharmacology (12.3), Table 7].
 
 Table 1 Transition of Patients Established on Long-term Treatment with Transmucosal Buprenorphine Whose Disease Symptoms are Controlled
 
@@ -61,7 +56,7 @@ Table 1 Transition of Patients Established on Long-term Treatment with Transmuco
 | 20 – 24 mg/day | 300 mg | 300 mg | 100 mg |
 | *For patients still experiencing craving or withdrawal symptoms after the initial 300-mg dose, consider giving 300 mg as the second dose |  |  |  |
 
-## 2.5 Clinical Supervision
+## 2.4 Clinical Supervision
 
 Periodic assessment is necessary to determine effectiveness of the treatment plan and overall patient progress.
 When evaluating the patient, examine the injection site for signs of infection or evidence of tampering or attempts to remove the depot.
@@ -74,7 +69,7 @@ If considering stopping treatment, the clinical status of the patient should be 
 If SUBLOCADE is discontinued, its extended-release characteristics should be considered and the patient should be monitored for several months for signs and symptoms of withdrawal and treated appropriately.
 After steady-state has been achieved (4-6 months), patients discontinuing SUBLOCADE may have detectable plasma and urine levels of buprenorphine for twelve months or longer [see Clinical Pharmacology (12.3)].
 
-## 2.6 Instructions for Use
+## 2.5 Instructions for Use
 
 IMPORTANT INFORMATION:
 
@@ -191,12 +186,12 @@ STEP 10: INSTRUCT THE PATIENT
 Advise the patient that they may have a lump for several weeks that will decrease in size over time.
 Instruct the patient not to rub or massage the injection site and to be aware of the placement of any belts or clothing waistbands.
 
-## 2.7 Limits on Distribution
+## 2.6 Limits on Distribution
 
 SUBLOCADE is subject to a risk evaluation and mitigation strategy (REMS) program that includes, among other elements, a restricted distribution system.
 The purpose of the restricted distribution system is to ensure that SUBLOCADE is only administered by a health care provider [see Warnings and Precautions (5.2)].
 
-## 2.8 Removal of the Depot
+## 2.7 Removal of the Depot
 
 In the event the depot must be removed, it can be surgically excised under local anesthesia within 14 days of injection.
 Only the most recently-injected depot can be removed.

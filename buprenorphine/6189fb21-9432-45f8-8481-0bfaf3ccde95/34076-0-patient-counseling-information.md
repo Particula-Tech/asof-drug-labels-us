@@ -21,7 +21,7 @@ Inform patients and caregivers of the options for obtaining naloxone as permitte
 Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
 
 Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
-Repeat administration may be necessary, particularly for overdose involving buprenorphine, because naloxone is often not effective at the doses available for patient access [see Dosage and Administration (2.3), Warnings and Precautions (5.4), Overdosage (10)].
+Repeat administration may be necessary, particularly for overdose involving buprenorphine, because naloxone is often not effective at the doses available for patient access [see Dosage and Administration (2.2), Warnings and Precautions (5.4), Overdosage (10)].
 
 If naloxone is prescribed, also advise patients and caregivers:
 
@@ -102,11 +102,11 @@ Clinical Monitoring
 
 Tell your patients to seek emergency attention if they have signs or symptoms of respiratory or CNS depression or overdose [see Warnings and Precautions (5.4, 5.5)].
 
-Tell your patients not to tamper with or try to remove their depot [see Dosage and Administration (2.8)].
+Tell your patients not to tamper with or try to remove their depot [see Dosage and Administration (2.7)].
 
-© 2022, Indivior UK Limited.
+© 2023, Indivior UK Limited.
 All Rights Reserved.
 
 SUBLOCADE® and SUBOXONE® are registered trademarks of Indivior UK Limited.
 
-Manufactured by Curia Global Inc. Albany, NY 12203
+Manufactured for Indivior Inc., North Chesterfield VA, 23235
