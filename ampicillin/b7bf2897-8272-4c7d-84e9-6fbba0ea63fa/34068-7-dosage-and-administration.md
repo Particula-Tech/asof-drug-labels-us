@@ -19,7 +19,7 @@ Cases of gonorrhea with a suspected primary lesion of syphilis should have darkf
 In all other cases where concomitant syphilis is suspected, monthly serological tests should be made for a minimum of four months.
 The doses for the preceding infections may be given by either the intramuscular or intravenous route.
 A change to oral ampicillin may be made when appropriate.
-Bacterial Meningitis Adults and children –150 to 200 mg/kg/day in equally divided doses every 3 to 4 hours.
+Bacterial Meningitis Adults and children – 150 to 200 mg/kg/day in equally divided doses every 3 to 4 hours.
 (Treatment may be initiated with intravenous drip therapy and continued with intramuscular injections.)
 The doses for other infections may be given by either the intravenous or intramuscular route.
 Neonates (less than or equal to 28 days of postnatal age) – Dosage should be based on Gestational age and Postnatal age according to Table 1.
