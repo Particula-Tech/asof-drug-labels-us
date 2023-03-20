@@ -149,6 +149,6 @@ Mahwah, NJ 07430 USA
 
 Made in India
 
-Revised: 06/2021
+Revised: 09/2022
 
 This Patient Information has been approved by the Food and Drug Administration.

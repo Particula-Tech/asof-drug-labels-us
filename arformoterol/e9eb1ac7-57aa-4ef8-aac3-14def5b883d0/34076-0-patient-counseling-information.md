@@ -55,4 +55,4 @@ Mahwah, NJ 07430 USA
 
 Made in India
 
-Revised: October 2021, V-02
+Revised: September 2022, V-03
