@@ -12,13 +12,13 @@ Prefilled Syringes
 
 Injection: Single-dose prefilled syringe with BD UltraSafe Plus™ Passive Needle Guard, containing 300 mcg/0.5 mL of a sterile, clear, colorless, preservative-free filgrastim-aafi solution.
 
-- Pack of 1 prefilled syringe (NDC 0069-0291-01).
-- Pack of 10 prefilled syringes (NDC 0069-0291-10).
+- •Pack of 1 prefilled syringe (NDC 0069-0291-01).
+- •Pack of 10 prefilled syringes (NDC 0069-0291-10).
 
 Injection: Single-dose, prefilled syringe with BD UltraSafe Plus™ Passive Needle Guard, containing 480 mcg/0.8 mL of a sterile, clear, colorless, preservative-free filgrastim-aafi solution.
 
-- Pack of 1 prefilled syringe (NDC 0069-0292-01).
-- Pack of 10 prefilled syringes (NDC 0069-0292-10).
+- •Pack of 1 prefilled syringe (NDC 0069-0292-01).
+- •Pack of 10 prefilled syringes (NDC 0069-0292-10).
 
 The NIVESTYM syringe plunger stopper and needle cover are not made with natural rubber latex [see Dosage and Administration (2.5)].
 

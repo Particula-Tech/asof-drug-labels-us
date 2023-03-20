@@ -6,33 +6,33 @@ Training by the healthcare provider should aim to ensure that patients and careg
 If a patient or caregiver is not able to demonstrate that they can measure the dose and administer the product successfully, you should consider whether the patient is an appropriate candidate for self-administration of NIVESTYM or whether the patient would benefit from a different NIVESTYM presentation.
 Advise patients of the following risks and potential risks with NIVESTYM:
 
-- Rupture or enlargement of the spleen may occur.
+- •Rupture or enlargement of the spleen may occur.
   Symptoms include left upper quadrant abdominal pain or left shoulder pain.
   Advise patients to report pain in these areas to their physician immediately [see Warnings and Precautions (5.1)].
-- Dyspnea, with or without fever, progressing to Acute Respiratory Distress Syndrome, may occur.
+- •Dyspnea, with or without fever, progressing to Acute Respiratory Distress Syndrome, may occur.
   Advise patients to report dyspnea to their physician immediately [see Warnings and Precautions (5.2)].
-- Serious allergic reactions may occur, which may be signaled by rash‚ facial edema‚ wheezing‚ dyspnea‚ hypotension‚ or tachycardia.
+- •Serious allergic reactions may occur, which may be signaled by rash‚ facial edema‚ wheezing‚ dyspnea‚ hypotension‚ or tachycardia.
   Advise patients to seek immediate medical attention if signs or symptoms of hypersensitivity reaction occur [see Warnings and Precautions (5.3)].
-- In patients with sickle cell disease, sickle cell crisis and death have occurred.
+- •In patients with sickle cell disease, sickle cell crisis and death have occurred.
   Discuss potential risks and benefits for patients with sickle cell disease prior to the administration of human granulocyte colony-stimulating factors [see Warnings and Precautions (5.4)].
-- Glomerulonephritis may occur.
+- •Glomerulonephritis may occur.
   Symptoms include swelling of the face or ankles, dark colored urine or blood in the urine, or a decrease in urine production.
   Advise patients to report signs or symptoms of glomerulonephritis to their physician immediately [see Warnings and Precautions (5.5)].
-- There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive filgrastim products and in patients with breast and lung cancer who receive filgrastim products in conjunction with chemotherapy and/or radiation therapy.
+- •There may be an increased risk of Myelodysplastic Syndrome and/or Acute Myeloid Leukemia in patients with congenital neutropenia who receive filgrastim products and in patients with breast and lung cancer who receive filgrastim products in conjunction with chemotherapy and/or radiation therapy.
   Symptoms of MDS and AML may include tiredness, fever, and easy bruising or bleeding.
   Advise patients to report to their physician signs and symptoms of MDS/AML [see Warnings and Precautions (5.8)].
-- Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
+- •Cutaneous vasculitis may occur, which may be signaled by purpura or erythema.
   Advise patients to report signs or symptoms of vasculitis to their physician immediately [see Warnings and Precautions (5.11)].
-- Aortitis may occur.
+- •Aortitis may occur.
   Symptoms may include fever, abdominal pain, malaise, back pain, and increased inflammatory markers.
   Advise patients to report signs and symptoms of aortitis to their physician immediately [see Warnings and Precautions (5.15)].
 
 Instruct patients who self-administer NIVESTYM using the prefilled syringe or single-dose vial of the:
 
-- Importance of following the applicable Instructions for Use.
-- Dangers of reusing needles, syringes, or unused portions of single-dose vials.
-- Importance of following local requirements for proper disposal of used syringes, needles, and unused vials.
-- Importance of informing the healthcare provider if difficulty occurs when measuring or administering partial contents of the NIVESTYM prefilled syringe.
+- •Importance of following the applicable Instructions for Use.
+- •Dangers of reusing needles, syringes, or unused portions of single-dose vials.
+- •Importance of following local requirements for proper disposal of used syringes, needles, and unused vials.
+- •Importance of informing the healthcare provider if difficulty occurs when measuring or administering partial contents of the NIVESTYM prefilled syringe.
   If difficulty occurs, use of the NIVESTYM vial may be considered.
-- Difference in product concentration of the NIVESTYM prefilled syringe in comparison to the NIVESTYM vial.
+- •Difference in product concentration of the NIVESTYM prefilled syringe in comparison to the NIVESTYM vial.
   When switching patients from the NIVESTYM prefilled syringe to the NIVESTYM vial, or vice versa, ensure that patients understand the correct volume to be administered since the concentration of NIVESTYM differs between the prefilled syringe and the vial.

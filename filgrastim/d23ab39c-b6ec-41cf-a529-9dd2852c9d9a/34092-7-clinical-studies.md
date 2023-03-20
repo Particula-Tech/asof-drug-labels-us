@@ -86,28 +86,28 @@ Filgrastim was administered subcutaneously.
 The dose of filgrastim was determined by the category of neutropenia.
 Initial dose of filgrastim:
 
-- Idiopathic neutropenia: 3.6 mcg/kg/day
-- Cyclic neutropenia: 6 mcg/kg/day
-- Congenital neutropenia: 6 mcg/kg/day divided 2 times per day
+- •Idiopathic neutropenia: 3.6 mcg/kg/day
+- •Cyclic neutropenia: 6 mcg/kg/day
+- •Congenital neutropenia: 6 mcg/kg/day divided 2 times per day
 
 The dose was increased incrementally to 12 mcg/kg/day divided 2 times per day if there was no response.
 
 The main efficacy endpoint was response to filgrastim treatment.
 ANC response from baseline (< 500/mm3) was defined as follows:
 
-- Complete response: median ANC > 1500/mm3
-- Partial response: median ANC ≥ 500/mm3 and ≤ 1500/mm3 with a minimum increase of 100%
-- No response: median ANC < 500/mm3
+- •Complete response: median ANC > 1500/mm3
+- •Partial response: median ANC ≥ 500/mm3 and ≤ 1500/mm3 with a minimum increase of 100%
+- •No response: median ANC < 500/mm3
 
 There were 112 of 123 patients who demonstrated a complete or partial response to filgrastim treatment.
 
 Additional efficacy endpoints included a comparison between patients randomized to 4 months of observation and patients receiving filgrastim of the following parameters:
 
-- incidence of infection
-- incidence of fever
-- duration of fever
-- incidence, duration, and severity of oropharyngeal ulcers
-- number of days of antibiotic use
+- •incidence of infection
+- •incidence of fever
+- •duration of fever
+- •incidence, duration, and severity of oropharyngeal ulcers
+- •number of days of antibiotic use
 
 The incidence for each of these 5 clinical parameters was lower in the filgrastim arm compared to the control arm for cohorts in each of the 3 major diagnostic categories.
 An analysis of variance showed no significant interaction between treatment and diagnosis‚ suggesting that efficacy did not differ substantially in the different diseases.

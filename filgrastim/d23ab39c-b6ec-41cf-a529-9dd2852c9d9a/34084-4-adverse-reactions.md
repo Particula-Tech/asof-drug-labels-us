@@ -2,19 +2,19 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Splenic Rupture [see Warnings and Precautions (5.1)]
-- Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
-- Serious Allergic Reactions [see Warnings and Precautions (5.3)]
-- Sickle Cell Disorders [see Warnings and Precautions (5.4)]
-- Glomerulonephritis [see Warnings and Precautions (5.5)]
-- Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.6)]
-- Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
-- Myelodysplastic Syndrome [see Warnings and Precautions (5.8)]
-- Acute Myeloid Leukemia [see Warnings and Precautions (5.8)]
-- Thrombocytopenia [see Warnings and Precautions (5.9)]
-- Leukocytosis [see Warnings and Precautions (5.10)]
-- Cutaneous Vasculitis [see Warnings and Precautions (5.11)]
-- Aortitis [see Warnings and Precautions (5.15)]
+- •Splenic Rupture [see Warnings and Precautions (5.1)]
+- •Acute Respiratory Distress Syndrome [see Warnings and Precautions (5.2)]
+- •Serious Allergic Reactions [see Warnings and Precautions (5.3)]
+- •Sickle Cell Disorders [see Warnings and Precautions (5.4)]
+- •Glomerulonephritis [see Warnings and Precautions (5.5)]
+- •Alveolar Hemorrhage and Hemoptysis [see Warnings and Precautions (5.6)]
+- •Capillary Leak Syndrome [see Warnings and Precautions (5.7)]
+- •Myelodysplastic Syndrome [see Warnings and Precautions (5.8)]
+- •Acute Myeloid Leukemia [see Warnings and Precautions (5.8)]
+- •Thrombocytopenia [see Warnings and Precautions (5.9)]
+- •Leukocytosis [see Warnings and Precautions (5.10)]
+- •Cutaneous Vasculitis [see Warnings and Precautions (5.11)]
+- •Aortitis [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,9 +24,9 @@ Adverse Reactions in Patients with Cancer Receiving Myelosuppressive Chemotherap
 
 The following adverse reaction data in Table 2 are from three randomized, placebo-controlled studies in patients with:
 
-- small cell lung cancer receiving standard dose chemotherapy with cyclophosphamide‚ doxorubicin‚ and etoposide (Study 1)
-- small cell lung cancer receiving ifosfamide, doxorubicin‚ and etoposide (Study 2), and
-- non-Hodgkin's lymphoma (NHL) receiving doxorubicin, cyclophosphamide, vindesine, bleomycin, methylprednisolone, and methotrexate ("ACVBP") or mitoxantrone, ifosfamide, mitoguazone, teniposide, methotrexate, folinic acid, methylprednisolone, and methotrexate ("VIM3") (Study 3).
+- •small cell lung cancer receiving standard dose chemotherapy with cyclophosphamide‚ doxorubicin‚ and etoposide (Study 1)
+- •small cell lung cancer receiving ifosfamide, doxorubicin‚ and etoposide (Study 2), and
+- •non-Hodgkin's lymphoma (NHL) receiving doxorubicin, cyclophosphamide, vindesine, bleomycin, methylprednisolone, and methotrexate ("ACVBP") or mitoxantrone, ifosfamide, mitoguazone, teniposide, methotrexate, folinic acid, methylprednisolone, and methotrexate ("VIM3") (Study 3).
 
 A total of 451 patients were randomized to receive subcutaneous filgrastim 230 mcg/m2 (Study 1), 240 mcg/m2 (Study 2) or 4 or 5 mcg/kg/day (Study 3) (n = 294) or placebo (n = 157).
 The patients in these studies were median age 61 (range 29 to 78) years and 64% were male.
@@ -114,9 +114,9 @@ The median age was 12 years (range 7 months to 76 years) and 46% were male.
 The dosage of filgrastim was determined by the category of neutropenia.
 Initial dosage of filgrastim:
 
-- Idiopathic neutropenia: 3.6 mcg/kg/day
-- Cyclic neutropenia: 6 mcg/kg/day
-- Congenital neutropenia: 6 mcg/kg/day divided 2 times per day
+- •Idiopathic neutropenia: 3.6 mcg/kg/day
+- •Cyclic neutropenia: 6 mcg/kg/day
+- •Congenital neutropenia: 6 mcg/kg/day divided 2 times per day
 
 The dosage was increased incrementally to 12 mcg/kg/day divided 2 times per day if there was no response.
 
@@ -141,16 +141,16 @@ Cytopenias resulting from an antibody response to exogenous growth factors have 
 The following adverse reactions have been identified during post-approval use of filgrastim products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- splenic rupture and splenomegaly (enlarged spleen) [see Warnings and Precautions (5.1)]
-- acute respiratory distress syndrome [see Warnings and Precautions (5.2)]
-- anaphylaxis [see Warnings and Precautions (5.3)]
-- sickle cell disorders [see Warnings and Precautions (5.4)]
-- glomerulonephritis [see Warnings and Precautions (5.5)]
-- alveolar hemorrhage and hemoptysis [see Warnings and Precautions (5.6)]
-- capillary leak syndrome [see Warnings and Precautions (5.7)]
-- leukocytosis [see Warnings and Precautions (5.10)]
-- cutaneous vasculitis [see Warnings and Precautions (5.11)]
-- Sweet's syndrome (acute febrile neutrophilic dermatosis)
-- decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with filgrastim products.
-- myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.8)]
-- aortitis [see Warnings and Precautions (5.15)]
+- •splenic rupture and splenomegaly (enlarged spleen) [see Warnings and Precautions (5.1)]
+- •acute respiratory distress syndrome [see Warnings and Precautions (5.2)]
+- •anaphylaxis [see Warnings and Precautions (5.3)]
+- •sickle cell disorders [see Warnings and Precautions (5.4)]
+- •glomerulonephritis [see Warnings and Precautions (5.5)]
+- •alveolar hemorrhage and hemoptysis [see Warnings and Precautions (5.6)]
+- •capillary leak syndrome [see Warnings and Precautions (5.7)]
+- •leukocytosis [see Warnings and Precautions (5.10)]
+- •cutaneous vasculitis [see Warnings and Precautions (5.11)]
+- •Sweet's syndrome (acute febrile neutrophilic dermatosis)
+- •decreased bone density and osteoporosis in pediatric patients receiving chronic treatment with filgrastim products.
+- •myelodysplastic syndrome (MDS) and acute myeloid leukemia (AML) in patients with breast and lung cancer receiving chemotherapy and/or radiotherapy [see Warnings and Precautions (5.8)]
+- •aortitis [see Warnings and Precautions (5.15)]
