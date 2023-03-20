@@ -4,7 +4,7 @@ REMODULIN® (treprostinil) Injection
 
 20 mg/20 mL (1 mg/mL)
 
-For Subcutaneous or Intravenous Infusion Only
+For Subcutaneous and Intravenous Infusion
 
 20 mL multidose vial
 
@@ -16,7 +16,7 @@ REMODULIN® (treprostinil) Injection
 
 50 mg/20 mL (2.5 mg/mL)
 
-For Subcutaneous or Intravenous Infusion Only
+For Subcutaneous and Intravenous Infusion
 
 20 mL multidose vial
 
@@ -28,7 +28,7 @@ REMODULIN® (treprostinil) Injection
 
 100 mg/20 mL (5 mg/mL)
 
-For Subcutaneous or Intravenous Infusion Only
+For Subcutaneous and Intravenous Infusion
 
 20 mL multidose vial
 
@@ -40,7 +40,7 @@ REMODULIN® (treprostinil) Injection
 
 200 mg/20 mL (10 mg/mL)
 
-For Subcutaneous or Intravenous Infusion Only
+For Subcutaneous and Intravenous Infusion
 
 20 mL multidose vial
 
@@ -52,13 +52,13 @@ REMODULIN® (treprostinil) Injection
 
 400 mg/20 mL (20 mg/mL)
 
-For Subcutaneous or Intravenous Infusion Only
+For Subcutaneous and Intravenous Infusion
 
 20 mL multidose vial
 
 United Therapeutics CORPORATION
 
-# PRINCIPAL DISPLAY PANEL - 50 mL Vial Box
+# PRINCIPAL DISPLAY PANEL - 50 mL Vial Carton
 
 NDC 66302-150-50
 
