@@ -19,14 +19,14 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.9)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.8)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBOXONE sublingual film.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with SUBOXONE sublingual film itself.
 Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of SUBOXONE sublingual film and its affinity for the mu-opioid receptor [see Overdosage (10)].
@@ -91,7 +91,7 @@ The information available does not identify any particular opioids as being more
 
 Buprenorphine is a partial agonist at the mu‐opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Drug Abuse and Dependence (9.3)].
-When discontinuing SUBOXONE sublingual film, gradually taper the dosage [see Dosage and Administration (2.9)].
+When discontinuing SUBOXONE sublingual film, gradually taper the dosage [see Dosage and Administration (2.8)].
 
 ## 5.8 Risk of Hepatitis, Hepatic Events
 
@@ -146,7 +146,7 @@ Multiple cases were reported in individuals without any prior history of dental 
 Refer patients to dental care services and encourage them to have regular dental checkups while taking SUBOXONE.
 Educate patients to seek dental care and strategies to maintain or improve oral health while being treated with transmucosal buprenorphine-containing products.
 Strategies include, but are not limited to, gently rinsing the teeth and gums with water and then swallowing after SUBOXONE has been completely dissolved in the oral mucosa.
-Advise patients to wait for at least one hour after taking SUBOXONE before brushing teeth [see Dosing and Administration (2.6), Information for Patients (17), Medication Guide].
+Advise patients to wait for at least one hour after taking SUBOXONE before brushing teeth [see Dosing and Administration (2.5), Information for Patients (17), Medication Guide].
 
 ## 5.14 QTc Prolongation
 

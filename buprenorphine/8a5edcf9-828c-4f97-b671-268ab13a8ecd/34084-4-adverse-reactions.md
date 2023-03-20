@@ -11,7 +11,7 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
 - Orthostatic Hypotension [see Warnings and Precautions (5.16)]
 - Elevation of Cerebrospinal Fluid Pressure [see Warnings and Precautions (5.17)]
-- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)
+- Elevation of Intracholedochal Pressure [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trials Experience
 

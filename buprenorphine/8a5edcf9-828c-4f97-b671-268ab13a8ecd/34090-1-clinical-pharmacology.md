@@ -65,7 +65,7 @@ Absorption
 In several pharmacokinetic studies following the administration of different dosages, a dose of one or two of the 2 mg/0.5 mg SUBOXONE sublingual films administered sublingually or buccally showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets.
 In contrast, one 8 mg/2 mg and one 12 mg/3 mg SUBOXONE sublingual films administered sublingually or buccally showed higher relative bioavailability for both buprenorphine and naloxone compared to the same total dose of SUBOXONE sublingual tablets.
 A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/ 3 mg) administered sublingually showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets, while buccally administered SUBOXONE sublingual films showed higher relative bioavailability.
-Table 5, below, illustrates the relative increase in exposure to buprenorphine and naloxone associated with SUBOXONE sublingual films compared to SUBOXONE sublingual tablets, and shows the effect of route of administration [see Dosage and Administration (2.10, 2.11)].
+Table 5, below, illustrates the relative increase in exposure to buprenorphine and naloxone associated with SUBOXONE sublingual films compared to SUBOXONE sublingual tablets, and shows the effect of route of administration [see Dosage and Administration (2.9, 2.10)].
 
 Across relevant pharmacokinetic studies, the pharmacokinetic parameters and exposures derived from the buccal and sublingual administrations of SUBOXONE sublingual film were comparable to one another.
 

@@ -1,18 +1,13 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Drug Addiction and Treatment Act
-
-Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
-823(g), prescription use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
-
-## 2.2 Important Dosage and Administration Information
+## 2.1 Important Dosage and Administration Information
 
 SUBOXONE sublingual film is administered sublingually or buccally as a single daily dose.
 
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow‐up visits.
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with SUBOXONE sublingual film.
@@ -23,7 +18,7 @@ Higher than normal doses and repeated administration of naloxone may be necessar
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
-## 2.4 Induction
+## 2.3 Induction
 
 Prior to induction, consideration should be given to the type of opioid dependence (i.e., long‐ or short‐acting opioid products), the time since last opioid use, and the degree or level of opioid dependence.
 
@@ -50,7 +45,7 @@ Buprenorphine/naloxone combination products have not been evaluated in adequate 
 For this reason, buprenorphine monotherapy is recommended in patients taking long‐acting opioids when used according to approved administration instructions.
 Following induction, the patient may then be transitioned to once‐daily SUBOXONE sublingual film.
 
-## 2.5 Maintenance
+## 2.4 Maintenance
 
 - For maintenance, SUBOXONE sublingual film may be administered buccally or sublingually.
 - The dosage of SUBOXONE sublingual film from Day 3 onwards should be progressively adjusted in increments/decrements of 2 mg/0.5 mg or 4 mg/1 mg buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
@@ -61,7 +56,7 @@ Following induction, the patient may then be transitioned to once‐daily SUBOXO
 - There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of SUBOXONE sublingual film contributes to the intended treatment goals.
 
-## 2.6 Method of Administration
+## 2.5 Method of Administration
 
 SUBOXONE sublingual film must be administered whole.
 Do not cut, chew, or swallow SUBOXONE sublingual film.
@@ -90,7 +85,7 @@ Proper administration technique should be demonstrated to the patient.
 Advise patients to do the following after the product has completely dissolved in the oral mucosa: take a sip of water, swish gently around the teeth and gums, and swallow.
 Advise patients to wait for at least one hour after taking SUBOXONE before brushing teeth [see Warnings and Precautions (5.13), Postmarketing Experience (6.2), Information for Patients (17), and the Medication Guide].
 
-## 2.7 Clinical Supervision
+## 2.6 Clinical Supervision
 
 Treatment should be initiated with supervised administration, progressing to unsupervised administration as the patient's clinical stability permits.
 SUBOXONE sublingual film is subject to diversion and abuse.
@@ -113,7 +108,7 @@ Continuation or modification of pharmacotherapy should be based on the healthcar
 
 If treatment goals are not being achieved, the healthcare provider should re‐evaluate the appropriateness of continuing the current treatment.
 
-## 2.8 Unstable Patients
+## 2.7 Unstable Patients
 
 Healthcare providers will need to decide when they cannot appropriately provide further management for particular patients.
 For example, some patients may be abusing or dependent on various drugs, or unresponsive to psychosocial intervention such that the healthcare provider does not feel that he/she has the expertise to manage the patient.
@@ -122,14 +117,13 @@ Decisions should be based on a treatment plan established and agreed upon with t
 
 Patients who continue to misuse, abuse, or divert buprenorphine products or other opioids should be provided with, or referred to, more intensive and structured treatment.
 
-## 2.9 Discontinuing Treatment
+## 2.8 Discontinuing Treatment
 
 The decision to discontinue therapy with SUBOXONE sublingual film after a period of maintenance should be made as part of a comprehensive treatment plan.
 Advise patients of the potential to relapse to illicit drug use following discontinuation of opioid agonist/partial agonist medication‐assisted treatment.
-Taper patients to reduce the occurrence of opioid withdrawal signs and symptoms.
-[See Warnings and Precautions (5.7)].
+Taper patients to reduce the occurrence of opioid withdrawal signs and symptoms [See Warnings and Precautions (5.7)].
 
-## 2.10 Switching Between Buprenorphine or Buprenorphine and Naloxone Sublingual Tablets and SUBOXONE Sublingual Film
+## 2.9 Switching Between Buprenorphine or Buprenorphine and Naloxone Sublingual Tablets and SUBOXONE Sublingual Film
 
 Patients being switched between buprenorphine and naloxone or buprenorphine only sublingual tablets and SUBOXONE sublingual film should be started on the same dosage of the previously administered product.
 However, dosage adjustments may be necessary when switching between buprenorphine products.
@@ -137,7 +131,7 @@ Not all strengths and combinations of the SUBOXONE sublingual films are bioequiv
 Therefore, systemic exposures of buprenorphine and naloxone may be different when patients are switched from tablets to film or vice‐versa.
 Patients should be monitored for symptoms related to over‐dosing or under‐dosing.
 
-## 2.11 Switching Between SUBOXONE Sublingual Film Strengths
+## 2.10 Switching Between SUBOXONE Sublingual Film Strengths
 
 As indicated in Table 1, the sizes and the compositions of the four units of SUBOXONE sublingual films, i.e., 2 mg/0.5 mg, 4 mg/1 mg, 8 mg/2 mg and the 12 mg/3 mg units, are different from one another.
 If patients switch between various combinations of lower and higher strength units of SUBOXONE sublingual films to obtain the same total dose, (e.g., from three 4 mg/1 mg units to a single 12 mg/3 mg unit, or vice‐versa), systemic exposures of buprenorphine and naloxone may be different and patients should be monitored for over‐dosing or under‐dosing.
@@ -153,7 +147,7 @@ Comparison of Available SUBOXONE Sublingual Film Strengths by Dimensions and Dru
 | 8 mg/2 mg | 22.0 mm x 12.8 mm | 17.2 | 4.88 |
 | 12 mg/3 mg (1.5 times the length of the 8 mg/2 mg unit) | 22.0 mm X 19.2 mm | 17.2 | 4.88 |
 
-## 2.12 Switching Between Sublingual and Buccal Sites of Administration
+## 2.11 Switching Between Sublingual and Buccal Sites of Administration
 
 The systemic exposure of buprenorphine between buccal and sublingual administration of SUBOXONE sublingual film is similar.
 Therefore, once induction is complete, patients can switch between buccal and sublingual administration without significant risk of under or overdosing.

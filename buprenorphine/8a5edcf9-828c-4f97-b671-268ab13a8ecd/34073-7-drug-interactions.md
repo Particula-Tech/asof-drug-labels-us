@@ -40,7 +40,7 @@ Clinically Significant Drug Interactions
 | Examples: | phenelzine, tranylcypromine, linezolid |
 | Muscle Relaxants |  |
 | Clinical Impact: | Buprenorphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Monitor patients receiving muscle relaxants and SUBOXONE sublingual film for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of SUBOXONE sublingual film and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, strongly consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.3), Warnings and Precautions (5.2, 5.3)]. |
+| Intervention: | Monitor patients receiving muscle relaxants and SUBOXONE sublingual film for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of SUBOXONE sublingual film and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, strongly consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.3)]. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |

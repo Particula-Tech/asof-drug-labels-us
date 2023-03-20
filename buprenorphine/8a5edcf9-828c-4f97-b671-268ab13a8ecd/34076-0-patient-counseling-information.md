@@ -26,7 +26,7 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
   Inform patients and caregivers of the options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
   Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
   Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
-  Repeat administration may be necessary, particularly for overdose involving SUBOXONE sublingual film, because naloxone is often not effective at the doses available for patient access [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Overdosage (10)].
+  Repeat administration may be necessary, particularly for overdose involving SUBOXONE sublingual film, because naloxone is often not effective at the doses available for patient access [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
   If naloxone is prescribed, also advise patients and caregivers:
   - How to treat with naloxone in the event of an opioid overdose
   - To tell family and friends about their naloxone and to keep it in a place where family and friends can easily access it in an emergency
@@ -66,6 +66,11 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
   It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 - Advise patients to inform their family members that, in the event of emergency, the treating healthcare provider or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBOXONE sublingual film.
 
+© 2023, Indivior UK Limited.
+All Rights Reserved.
+
+SUBOXONE® and SUBUTEX® are registered trademarks of Indivior UK Limited.
+
 Manufactured for Indivior Inc.
 
 North Chesterfield, VA 23235 by:
@@ -79,5 +84,3 @@ Distributed by:
 Indivior Inc.
 
 North Chesterfield, VA 23235
-
-SUBOXONE® and SUBUTEX® are registered trademarks of Indivior UK Limited.
