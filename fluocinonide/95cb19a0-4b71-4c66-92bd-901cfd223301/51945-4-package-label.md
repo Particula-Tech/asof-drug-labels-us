@@ -6,10 +6,10 @@ Vanos® (fluocinonide) Cream, 0.1%
 
 FOR TOPICAL USE ONLY NOT FOR OPHTHALMIC, ORAL, OR INTRAVAGINAL USE
 
-Rx only
-
-Net.
+Rx only Net.
 Wt.
 120 g
 
 VALEANT
+
+9481503
