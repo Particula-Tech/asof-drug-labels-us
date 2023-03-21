@@ -97,6 +97,7 @@ Further information is available at www.clozapinerems.com or 1-844-267-8678.
 Hypotension, bradycardia, syncope, and cardiac arrest have occurred with clozapine treatment.
 The risk is highest during the initial titration period, particularly with rapid dose-escalation.
 These reactions can occur with the first dose, at doses as low as 12.5 mg.
+
 These reactions can be fatal.
 The syndrome is consistent with neurally mediated reflex bradycardia (NMRB).
 
@@ -106,7 +107,8 @@ Subsequently, the dose can be increased weekly or twice weekly, in increments of
 The maximum dose is 900 mg per day.
 Use cautious titration and a divided dosage schedule to minimize the risk of serious cardiovascular reactions [see Dosage and Administration (2.3)].
 Consider reducing the dose if hypotension occurs.
-When restarting patients who have had even a brief interval off clozapine orally disintegrating tablets (i.e., 2 days or more since the last dose), re-initiate treatment at 12.5 mg once daily or twice daily [see Dosage and Administration (2.6)].
+When restarting clozapine orally disintegrating tablets in patients who have had even a brief interruption in treatment with clozapine orally disintegrating tablets, the dosage must be reduced.
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Dosage and Administration (2.6)].
 
 Use clozapine orally disintegrating tablets cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
@@ -154,7 +156,7 @@ Clozapine orally disintegrating tablets are not approved for the treatment of pa
 
 Severe gastrointestinal adverse reactions have occurred with the use of clozapine orally disintegrating tablets, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk for severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16) and Drug Interactions (7.1)].
 
@@ -224,7 +226,7 @@ Any patient treated with atypical antipsychotics should be monitored for symptom
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic was discontinued; however, some patients required continuation of anti-diabetic treatment despite discontinuation of the suspect drug.
 
-In a pooled data analysis of 8 studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were +11 mg/dL and +4 mg/dL respectively.
+In a pooled data analysis of 8 studies in adult subjects with schizophrenia, the mean changes in fasting glucose concentration in the clozapine and chlorpromazine groups were +11 mg/dL and +4 mg/dL, respectively.
 A higher proportion of the clozapine group demonstrated categorical increases from baseline in fasting glucose concentrations, compared to the chlorpromazine group (Table 4).
 The clozapine doses were 100-900 mg per day (mean modal dose: 512 mg per day).
 The maximum chlorpromazine dose was 1800 mg per day (mean modal dose: 1029 mg per day).

@@ -13,8 +13,8 @@ Discuss the following issues with patients and caregivers:
   - -Clozapine orally disintegrating tablets are available only from certified pharmacies participating in the program.
     Provide patients (and caregivers) with website information and the telephone number on how to obtain the product [see Warnings and Precautions (5.2)].
 - •Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
-  Instruct them to strictly follow the clinician’s instructions for dosage and administration.
-  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Dosage and Administration (2.3) and Warnings and Precautions (5.3)].
+  Instruct them to strictly follow the clinician’s instructions for dosage and administration [see Dosage and Administration (2.3, 2.6)].
+  Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Warnings and Precautions (5.3)].
 - •Falls: Inform patients of the risk of falls, which may lead to fractures or other injuries [see Warnings and Precautions (5.4)].
 - •Seizures: Inform patients and caregivers about the significant risk of seizure during clozapine orally disintegrating tablets treatment.
   Caution them about driving and any other potentially hazardous activity while taking clozapine orally disintegrating tablets [see Warnings and Precautions (5.5)].
@@ -46,6 +46,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75076332
+750XXXXX
 
-Revised: 6/2020 MXA:CLOZOD:R2
+Revised: 2/2023 MXA:CLOZOD:RX1

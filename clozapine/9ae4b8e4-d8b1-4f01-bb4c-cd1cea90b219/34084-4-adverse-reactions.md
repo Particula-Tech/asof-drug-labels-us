@@ -133,7 +133,7 @@ Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycard
 
 Endocrine System: Pseudopheochromocytoma.
 
-Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, megacolon, intestinal ischemia or infarction.
+Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 
 Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 

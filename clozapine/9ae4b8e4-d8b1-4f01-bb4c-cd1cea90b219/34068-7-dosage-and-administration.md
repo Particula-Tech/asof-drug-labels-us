@@ -43,8 +43,12 @@ Method of treatment discontinuation will vary depending on the patient’s last 
 
 ## 2.6 Re-Initiation of Treatment
 
-When restarting clozapine orally disintegrating tablets in patients who have discontinued clozapine orally disintegrating tablets (i.e., 2 days or more since the last dose), re-initiate with 12.5 mg once daily or twice daily.
-This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].If that dose is well-tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
+When restarting clozapine orally disintegrating tablets in patients who have had even a brief interruption in treatment with clozapine orally disintegrating tablets, dosage must be reduced.
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
+If one day’s dosing has been missed, resume treatment at 40% to 50% of the established dose.
+If two days dosing has been missed, resume dosage at approximately 25% of the established dosage.
+For longer interruptions, re-initiate with a dosage of 12.5 mg once daily or twice daily.
+If these dosages are well tolerated, the dosage may be increased to the previous dosage more quickly than recommended for initial treatment.
 
 ## 2.7 Dosage Adjustments with Concomitant Use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 
