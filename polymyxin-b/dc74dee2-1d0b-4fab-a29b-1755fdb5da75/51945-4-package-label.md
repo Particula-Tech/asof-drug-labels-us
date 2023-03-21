@@ -1,27 +1,26 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Polymyxin B 500,000 Units/Vial Vial Label
+Vial Label
 
-NDC 68083-174-01
+NDC 68083-174-01 Rx only
 
-POLYMYXIN B FOR INJECTION, USP
+Polymyxin B for Injection USP
 
-500,000 Units/Vial
+500,000 units per vial
 
-Sterile
+FOR HOSPITAL USE ONLY, if prescribed for intramuscular, intravenous, and/or intrathecal administration.
+Sterile Lyophilized
 
-Rx only
+Carton Label
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Polymyxin B 500,000 Units/Vial Carton Label
+NDC 68083-174-10 10 Sterile vials
 
-NDC 68083-174-10
+Polymyxin B for Injection USP
 
-POLYMYXIN B FOR INJECTION, USP
+500,000 units per vial
 
-500,000 Units/Vial
+FOR HOSPITAL USE ONLY, if prescribed for intramuscular, intravenous, and/or intrathecal administration.
 
-Sterile
+Rx ONLY
 
-10 Vials
-
-Rx only
+Sterile Lyophilized

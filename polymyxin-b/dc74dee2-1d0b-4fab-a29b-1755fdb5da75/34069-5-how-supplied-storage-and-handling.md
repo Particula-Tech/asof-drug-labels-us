@@ -1,11 +1,23 @@
 # HOW SUPPLIED
 
-Polymyxin B for Injection USP, 500,000 polymyxin B units per vial is supplied in rubber-stoppered glass vial with flip off cap, carton of 10, NDC 68083-174-10.
+Polymyxin B for Injection, USP is supplied as follows:
 
-Storage recommendations:
+NDC Polymyxin B for Injection, USP Package Factor 68083-174-10 500,000 units per vial 10 vials per carton
 
-Before reconstitution:Store at 20° to 25° C (68° to 77° F)[see USP Controlled Room Temperature].
+Storage Conditions Before Reconstitution: Store at 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
 
-Protect from light.Retain in carton until time of use.
+Protect from light.
+Retain in carton until time of use.
 
-After reconstitution:Product must be stored under refrigeration, between 2° to 8°C(36° to 46°F) and any unused portion should be discarded after 72 hours.
+After Reconstitution: Product must be stored under refrigeration, between 2° and 8°C (36° and 46°F), and any unused portion should be discarded after 72 hours.
+
+Lyophilized.
+
+Sterile, Nonpyrogenic, Preservative-free.
+
+The container closure is not made with natural rubber latex.
+
+Manufactured by: Gland Pharma Limited D.P.Pally, Dundigal Post Hyderabad-500043, India
+
+Revised: April 2019
