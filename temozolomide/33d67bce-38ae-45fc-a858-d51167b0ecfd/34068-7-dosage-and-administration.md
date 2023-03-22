@@ -18,7 +18,7 @@ TABLE 1: Temozolomide Dosage Modifications During Concomitant Phase
 | Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting) | Withhold TEMOZOLOMIDE if Grade 2 adverse reaction occurs. Resume TEMOZOLOMIDE when resolution to Grade 1 or less. | Discontinue TEMOZOLOMIDE if Grade 3 or 4 adverse reaction occurs. |
 
 Maintenance Phase Beginning 4 weeks after Concomitant Phase completion, administer TEMOZOLOMIDE either orally or intravenously once daily on Days 1 to 5 of each 28-day cycle for 6 cycles.
-The recommended dosage of TEMOZOLOMIDE is as follows: Cycle 1: 150 mg/m2 per day Cycles 2 to 6: May increase to 200 mg/m2 per day if the following conditions are met before starting cycle 2.
+The recommended dosage of TEMOZOLOMIDE is as follows: o Cycle 1: 150 mg/m2 per day o Cycles 2 to 6: May increase to 200 mg/m2 per day if the following conditions are met before starting cycle 2.
 If the dose was not escalated at the onset of Cycle 2, do not increase the dose for Cycles 3 to 6. o Nonhematologic toxicity is grade 2 or less (except for alopecia, nausea, and vomiting) o ANC is greater than or equal to 1.5 x 109/L and o Platelet count is greater than or equal to 100 x 109/L.
 Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1.5 x 109/L and the platelet count is above 100 x 109/L.
 Do not start the next cycle until the ANC and platelet count exceed these levels.

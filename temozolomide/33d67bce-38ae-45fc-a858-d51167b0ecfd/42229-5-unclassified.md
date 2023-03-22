@@ -168,7 +168,7 @@ Advise females of reproductive potential to use effective contraception during t
 Advise males of reproductive potential to use condoms during treatment and for at least 3 months after the last dose.
 Advise male patients not to donate semen during treatment with TEMOZOLOMIDE and for at least 3 months after the final dose.
 It is not known whether TEMOZOLOMIDE is excreted into breast milk.
-Because of the potential for serious adverse reactions in breastfed children, advise wome
+Because of the potential for serious adverse reactions in breastfed children, advise women
 
 What are the side effects of TEMOZOLOMIDE?[See Full Prescribing Information, Adverse Reactions (6).]
 Alopecia, fatigue, nausea, and vomiting are the most common side effects associated with TEMOZOLOMIDE.
