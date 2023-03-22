@@ -7,7 +7,7 @@ Its empirical formula is C17H18FN3O3 and its chemical structure is:
 Ciprofloxacin is a faint to light yellow crystalline powder with a molecular weight of 331.4.
 It is soluble in dilute (0.1N) hydrochloric acid and is practically insoluble in water and ethanol.
 Ciprofloxacin Injection, USP solution is a sterile 0.2% ready-for-use infusion solution in 5% Dextrose Injection.
-The formula contains lactic acid as a solubilizing agent and hydrochloric acid for pH adjustment.
+The formula contains lactic acid 0.644 mg per mL as a solubilizing agent and hydrochloric acid for pH adjustment.
 The pH range for the 0.2% ready-for-use infusion solutions is 3.5 to 4.6.
 
 The plastic container is not made with natural rubber latex and is fabricated from a specially formulated polyvinyl chloride.

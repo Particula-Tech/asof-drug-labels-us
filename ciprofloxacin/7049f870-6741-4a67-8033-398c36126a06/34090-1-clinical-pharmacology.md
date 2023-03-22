@@ -136,7 +136,7 @@ Lidocaine
 In a study conducted in 9 healthy volunteers, concomitant use of 1.5 mg/kg IV lidocaine with 500 mg ciprofloxacin twice daily resulted in an increase of lidocaine Cmax and AUC by 12% and 26%, respectively.
 Although lidocaine treatment was well tolerated at this elevated exposure, a possible interaction with ciprofloxacin and an increase in adverse reactions related to lidocaine may occur upon concomitant administration.
 
-### 12.4 Microbiology
+## 12.4 Microbiology
 
 Mechanism of Action
 
