@@ -44,5 +44,5 @@
 | What are the ingredients in KEYTRUDA? |  |  |  |
 | Active ingredient: pembrolizumab |  |  |  |
 | Inactive ingredients: KEYTRUDA injection: L-histidine, polysorbate 80, sucrose, and Water for Injection. |  |  |  |
-|  | Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA | U.S. License No. 0002 For patent information: www.merck.com/product/patent/home.html Copyright © 2014-2023 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved. usmg-mk3475-iv-2301r052 For more information, go to www.keytruda.com. |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: January 2023 |
+|  | Manufactured by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA | U.S. License No. 0002 For patent information: www.msd.com/research/patent Copyright © 2014-2023 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates. All rights reserved. usmg-mk3475-iv-2303r053 For more information, go to www.keytruda.com. |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | Revised: March 2023 |

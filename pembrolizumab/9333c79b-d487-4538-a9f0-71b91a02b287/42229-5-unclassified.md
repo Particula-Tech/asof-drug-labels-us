@@ -1,9 +1,10 @@
-Manufactured by: Merck Sharp & Dohme Corp., a subsidiary of MERCK & CO., INC., Whitehouse Station, NJ 08889, USA U.S. License No. 0002
+Manufactured by: Merck Sharp & Dohme LLC Rahway, NJ 07065, USA U.S. License No. 0002
 
-For patent information: www.merck.com/product/patent/home.html
+For patent information: www.msd.com/research/patent
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2014-2023 Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc. All rights reserved.
+Copyright © 2014-2023 Merck & Co., Inc., Rahway, NJ, USA, and its affiliates.
+All rights reserved.
 
-uspi-mk3475-iv-2301r062
+uspi-mk3475-iv-2303r063
