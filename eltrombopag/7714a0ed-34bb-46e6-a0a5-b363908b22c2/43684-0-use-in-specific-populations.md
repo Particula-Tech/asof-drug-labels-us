@@ -74,10 +74,10 @@ No overall differences in safety or effectiveness were observed between these pa
 
 Patients With Persistent or Chronic ITP and Severe Aplastic Anemia
 
-Reduce the initial dose of PROMACTA in patients with persistent or chronic ITP (adult and pediatric patients 6 years and older only) or refractory severe aplastic anemia who also have hepatic impairment (Child-Pugh Class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+Reduce the initial dose of PROMACTA in patients with persistent or chronic ITP (adult and pediatric patients 6 years and older only) or refractory severe aplastic anemia who also have hepatic impairment (Child-Pugh class A, B, C) [see Dosage and Administration (2.1, 2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 In a clinical trial in patients with severe aplastic anemia who had not received prior definitive immunosuppressive therapy, patients with baseline ALT or AST > 5 x ULN were ineligible to participate.
-If a patient with hepatic impairment (Child-Pugh Class A, B, C) initiates therapy with PROMACTA for the first-line treatment of severe aplastic anemia, reduce the initial dose [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
+If a patient with hepatic impairment (Child-Pugh class A, B, C) initiates therapy with PROMACTA for the first-line treatment of severe aplastic anemia, reduce the initial dose [see Dosage and Administration (2.3), Warnings and Precautions (5.2), Clinical Pharmacology (12.3)].
 
 Patients With Chronic Hepatitis C
 
@@ -86,4 +86,4 @@ No dosage adjustment is recommended in patients with chronic hepatitis C and hep
 ## 8.7 Ethnicity
 
 Reduce the initial dose of PROMACTA for patients of East-/Southeast-Asian ancestry with ITP (adult and pediatric patients 6 years and older only) or severe aplastic anemia [see Dosage and Administration (2.1, 2.3), Clinical Pharmacology (12.3)].
-No reduction in the initial dose of PROMACTA is recommended in patients of East-/Southeast-Asian ethnicity with chronic hepatitis C [see Clinical Pharmacology (12.3)].
+No reduction in the initial dose of PROMACTA is recommended in patients of East-/Southeast-Asian ancestry with chronic hepatitis C [see Clinical Pharmacology (12.3)].

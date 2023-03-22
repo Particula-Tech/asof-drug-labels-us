@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
 PROMACTA (eltrombopag) tablets contain eltrombopag olamine, a small molecule thrombopoietin (TPO) receptor agonist for oral administration.
-Eltrombopag interacts with the transmembrane domain of the TPO receptor (also known as cMpl) leading to increased platelet production.
 
 Eltrombopag olamine is a biphenyl hydrazone.
 The chemical name for eltrombopag olamine is 3'-{(2Z)-2-[1-(3,4-dimethylphenyl)-3-methyl-5-oxo-1,5-dihydro-4H-pyrazol-4-ylidene]hydrazino}-2'-hydroxy-3-biphenylcarboxylic acid - 2-aminoethanol (1:2).

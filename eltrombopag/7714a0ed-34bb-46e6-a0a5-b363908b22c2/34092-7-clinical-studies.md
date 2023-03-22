@@ -25,7 +25,7 @@ Studies 773B and 773A: Platelet Count Response (≥ 50 x 109/L) Rates in Adults 
 | --- | --- | --- |
 | 773B | 43/73 (59%)a | 6/37 (16%) |
 | 773A | 19/27 (70%)a | 3/27 (11%) |
-| a p-value < 0.001 for PROMACTA versus placebo. |  |  |
+| ap-value < 0.001 for PROMACTA versus placebo. |  |  |
 
 The platelet count response to PROMACTA was similar among patients who had or had not undergone splenectomy.
 In general, increases in platelet counts were detected 1 week following initiation of PROMACTA and the maximum response was observed after 2 weeks of therapy.
@@ -89,13 +89,13 @@ The efficacy of PROMACTA in this trial was evaluated by the proportion of subjec
 Table 18.
 PETIT2: Platelet Count Response (≥ 50 x 109/L Without Rescue) for 6 out of 8 Weeks (between Weeks 5 to 12) Overall and by Age Cohort in Pediatric Patients 1 Year and Older With Chronic Immune Thrombocytopenia
 
-| Age Cohort | PROMACTA | Placebo |
+| Age cohort | PROMACTA | Placebo |
 | --- | --- | --- |
 | Overall | 26/63 (41%)a | 1/29 (3%) |
 | 12 to 17 years | 10/24 (42%) | 1/10 (10%) |
 | 6 to 11 years | 11/25 (44%) | 0/13 (0%) |
 | 1 to 5 years | 5/14 (36%) | 0/6 (0%) |
-| a p-value = < 0.001 for PROMACTA versus placebo. |  |  |
+| ap-value = < 0.001 for PROMACTA versus placebo. |  |  |
 
 More pediatric patients treated with PROMACTA (75%) compared with placebo (21%) had at least one platelet count greater than or equal to 50 x 109/L during the first 12 weeks of randomized treatment in absence of rescue therapy.
 Fewer pediatric patients treated with PROMACTA required rescue treatment during the randomized, double-blind period compared with placebo-treated patients (19% [12/63] versus 24% [7/29]).
@@ -124,7 +124,7 @@ Platelet response to PROMACTA was consistent across the age cohorts.
 Table 19.
 PETIT: Platelet Count Response (≥ 50 x 109/L Without Rescue) Rates in Pediatric Patients 1 Year and Older With Persistent or Chronic Immune Thrombocytopenia
 
-|  | PROMACTA | Placebo |
+| Age cohort | PROMACTA | Placebo |
 | --- | --- | --- |
 | Overall | 28/45 (62%)a | 7/22 (32%) |
 | 12 to 17 years | 10/16 (62%) | 0/8 (0%) |
@@ -137,17 +137,17 @@ Fewer pediatric patients treated with PROMACTA required rescue treatment during 
 Patients were permitted to reduce or discontinue baseline ITP therapy only during the open-label phase of the trial.
 Among 13 patients receiving other ITP therapy at baseline, 46% (6/13) reduced (n = 3) or discontinued (n = 3) concomitant therapy, mainly corticosteroids, without needing rescue therapy.
 
-## 14.2 Chronic Hepatitis C-associated Thrombocytopenia
+## 14.2 Chronic Hepatitis C-Associated Thrombocytopenia
 
 The efficacy and safety of PROMACTA for the treatment of thrombocytopenia in adult patients with chronic hepatitis C were evaluated in two randomized, double-blind, placebo-controlled trials.
 The ENABLE1 study (NCT00516321) utilized peginterferon alfa-2a (PEGASYS®) plus ribavirin for antiviral treatment and the ENABLE2 study (NCT00529568) utilized peginterferon alfa-2b (PEGINTRON®) plus ribavirin.
 In both trials, patients with a platelet count of less than 75 x 109/L were enrolled and stratified by platelet count, screening HCV RNA, and HCV genotype.
-Patients were excluded if they had evidence of decompensated liver disease with Child-Pugh score greater than 6 (Class B and C), history of ascites, or hepatic encephalopathy.
+Patients were excluded if they had evidence of decompensated liver disease with Child-Pugh score greater than 6 (class B and C), history of ascites, or hepatic encephalopathy.
 The median age of the patients in both trials was 52 years, 63% were male, and 74% were Caucasian.
 Sixty-nine percent of patients had HCV genotypes 1, 4, 6, with the remainder genotypes 2 and 3.
 Approximately 30% of patients had been previously treated with interferon and ribavirin.
 The majority of patients (90%) had bridging fibrosis and cirrhosis, as indicated by noninvasive testing.
-A similar proportion (95%) of patients in both treatment groups had Child-Pugh Class A (score 5 to 6) at baseline.
+A similar proportion (95%) of patients in both treatment groups had Child-Pugh class A (score 5 to 6) at baseline.
 A similar proportion of patients (2%) in both treatment groups had baseline international normalized ratio (INR) greater than 1.7.
 Median baseline platelet counts (approximately 60 x 109/L) were similar in both treatment groups.
 The trials consisted of 2 phases – a pre-antiviral treatment phase and an antiviral treatment phase.
@@ -170,13 +170,13 @@ ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults With Chronic H
 
 |  | ENABLE1a |  | ENABLE2b |  |
 | --- | --- | --- | --- | --- |
-| Pre-antiviral Treatment Phase | n = 715 |  | n = 805 |  |
+| Pre-antiviral treatment phase | n = 715 |  | n = 805 |  |
 | % Patients who achieved target platelet counts and initiated antiviral therapyc | 95% |  | 94% |  |
-| Antiviral Treatment Phase | PROMACTAn = 450% | Placebon = 232% | PROMACTAn = 506% | Placebon = 253% |
+| Antiviral treatment phase | PROMACTAn = 450% | Placebon = 232% | PROMACTAn = 506% | Placebon = 253% |
 | Overall SVRd | 23 | 14 | 19 | 13 |
-| HCV Genotype 2,3 | 35 | 24 | 34 | 25 |
-| HCV Genotype 1,4,6 | 18 | 10 | 13 | 7 |
-| Abbreviation: HCV, hepatitis C virus. a PROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally). b PROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally). c Target platelet count was ≥ 90 x 109/L for ENABLE1 and ≥ 100 x 109/L for ENABLE2. d p-value < 0.05 for PROMACTA versus placebo. |  |  |  |  |
+| HCV genotype 2,3 | 35 | 24 | 34 | 25 |
+| HCV genotype 1, 4, 6 | 18 | 10 | 13 | 7 |
+| Abbreviation: HCV, hepatitis C virus. aPROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally). bPROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally). cTarget platelet count was ≥ 90 x 109/L for ENABLE1 and ≥ 100 x 109/L for ENABLE2. dp-value < 0.05 for PROMACTA versus placebo. |  |  |  |  |
 
 The majority of patients treated with PROMACTA (76%) maintained a platelet count greater than or equal to 50 x 109/L compared with 19% for placebo.
 A greater proportion of patients on PROMACTA did not require any antiviral dose reduction as compared with placebo (45% versus 27%).

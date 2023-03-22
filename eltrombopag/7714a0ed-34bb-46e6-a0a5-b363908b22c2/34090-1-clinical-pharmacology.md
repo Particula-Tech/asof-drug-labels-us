@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Eltrombopag is an orally bioavailable, small-molecule TPO-receptor agonist that interacts with the transmembrane domain of the human TPO-receptor and initiates signaling cascades that induce proliferation and differentiation from bone marrow progenitor cells.
+Eltrombopag is a TPO-receptor agonist that interacts with the transmembrane domain of the human TPO-receptor (also known as cMpl) and initiates signaling cascades that induce proliferation and differentiation of megakaryocytes leading to increased platelet production.
 
 ## 12.2 Pharmacodynamics
 
@@ -18,7 +18,7 @@ At doses up to 150 mg (the maximum recommended dose) daily for 5 days, PROMACTA 
 Eltrombopag demonstrated a dose-proportional increase in exposure between doses of 50 to 150 mg/day in healthy adult subjects.
 Eltrombopag AUC was approximately 1.7-fold higher in patients with persistent or chronic ITP and approximately 2.8-fold higher in patients with HCV compared to healthy subjects.
 Steady-state was achieved after approximately 1 week of once daily treatment, with geometric mean accumulation ratio of 1.56 (90% confidence interval 1.20, 1.63) at 75 mg/day.
-Eltrombopag AUC was approximately 3.2 fold higher in patients with definitive immunosuppressive therapy-naïve severe aplastic anemia compared to healthy subjects suggesting higher relative exposure compared to healthy subjects or patients with ITP and similar exposure compared to patients with chronic hepatitis C. Eltrombopag for oral suspension delivered 22% higher plasma AUC0-INF than the tablet formulation.
+Eltrombopag AUC was approximately 3.2-fold higher in patients with definitive immunosuppressive therapy-naïve severe aplastic anemia compared to healthy subjects suggesting higher relative exposure compared to healthy subjects or patients with ITP and similar exposure compared to patients with chronic hepatitis C. Eltrombopag for oral suspension delivered 22% higher plasma AUC0-INF than the tablet formulation.
 
 Absorption
 
@@ -37,12 +37,12 @@ The effect of administration of a single 25-mg dose of eltrombopag for oral susp
 Table 14.
 Effect on Plasma Eltrombopag Pharmacokinetic Parameters After Administration of a Single 25-mg Dose of Eltrombopag for Oral Suspension With a High Calcium Meala in Healthy Adult Subjects
 
-| Timing of Eltrombopag for Oral Suspension Dose | Mean (90% CI) Reduction in Plasma Eltrombopag AUC0-INF | Mean (90% CI) Reduction in Plasma Eltrombopag Cmax |
+| Timing of eltrombopag for oral suspension dose | Mean (90% CI) reduction in plasma eltrombopag AUC0-INF | Mean (90% CI) reduction in plasma eltrombopag Cmax |
 | --- | --- | --- |
 | With a high-calcium, moderate-fat, moderate-calorie meal | 75% (71%, 88%) | 79% (76%, 82%) |
 | 2 hours after the high-calcium, moderate-fat, moderate-calorie meal | 47% (40%, 53%) | 48% (40%, 54%) |
 | 2 hours before the high-calcium, moderate-fat, moderate-calorie meal | 20% (9%, 29%) | 14% (2%, 25%) |
-| a 372 calories, 9 g fat, and 448 mg calcium. |  |  |
+| a372 calories, 9 g fat, and 448 mg calcium. |  |  |
 
 Distribution
 
@@ -72,8 +72,8 @@ The effect of African-American ethnicity on exposure and related safety and effi
 
 Hepatic Impairment
 
-Following a single dose of PROMACTA (50 mg), plasma eltrombopag AUC0-INF was 41% higher in patients with mild hepatic impairment (Child-Pugh Class A) compared with subjects with normal hepatic function.
-Plasma eltrombopag AUC0-INF was approximately 2-fold higher in patients with moderate (Child-Pugh Class B) and severe hepatic impairment (Child-Pugh Class C) compared with subjects with normal hepatic function.
+Following a single dose of PROMACTA (50 mg), plasma eltrombopag AUC0-INF was 41% higher in patients with mild hepatic impairment (Child-Pugh class A) compared with subjects with normal hepatic function.
+Plasma eltrombopag AUC0-INF was approximately 2-fold higher in patients with moderate (Child-Pugh class B) and severe hepatic impairment (Child-Pugh class C) compared with subjects with normal hepatic function.
 The half-life of eltrombopag was prolonged 2-fold in these patients.
 This clinical trial did not evaluate protein-binding effects.
 
