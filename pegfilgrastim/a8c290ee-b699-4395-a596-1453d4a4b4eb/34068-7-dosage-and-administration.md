@@ -19,15 +19,15 @@ Estimate a patient’s absorbed radiation dose (i.e., level of radiation exposur
 
 ## 2.3 Administration
 
-UDENYCA is administered subcutaneously via a single-dose prefilled syringe for manual use.
+UDENYCA is administered subcutaneously via a single-dose prefilled autoinjector or a single-dose prefilled syringe for manual use.
 
-Prior to use‚ remove the carton from the refrigerator and allow the UDENYCA prefilled syringe to reach room temperature for a minimum of 30 minutes.
-Discard any prefilled syringe left at room temperature for greater than 48 hours.
+Prior to use‚ remove the carton from the refrigerator and allow UDENYCA to reach room temperature for a minimum of 30 minutes.
+Discard any UDENYCA left at room temperature for greater than 48 hours.
 
-Visually inspect parenteral drug products (prefilled syringe) for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Visually inspect parenteral drug products (prefilled syringe or prefilled autoinjector) for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not administer UDENYCA if discoloration or particulates are observed.
 
-The needle cap on the prefilled syringe is not made with natural rubber latex.
+The needle cap on the prefilled syringe and prefilled autoinjector is not made with natural rubber latex.
 
 Pediatric Patients Weighing Less than 45 kg
 
@@ -45,3 +45,14 @@ Dosing of UDENYCA for pediatric patients weighing less than 45 kg
 | 10 - 20 kg | 1.5 mg | 0.15 mL |
 | 21 - 30 kg | 2.5 mg | 0.25 mL |
 | 31 - 44 kg | 4 mg | 0.4 mL |
+
+The UDENYCA prefilled autoinjector is not suitable for use in pediatric patients weighing less than 45 kg.
+The UDENYCA prefilled autoinjector delivers the entire contents (6 mg in 0.6 mL) in a single injection and is not adjustable.
+
+## 2.4 Advice to Give to Patients or Caregivers Regarding Administration via the Prefilled Autoinjector
+
+Only adults can self-administer UDENYCA with the prefilled autoinjector.
+If subcutaneous injections can be given at home, refer the patient or caregiver to the dose delivery information provided in the Instructions for Use.
+Provide training to patients or caregivers to ensure they understand how to administer UDENYCA via the prefilled autoinjector.
+Ensure patients or caregivers understand how to identify that a full dose has been administered by listening for the second 'click' and checking that the 'Orange Indicator' completely blocks the viewing window.
+Instruct patients or caregivers using the prefilled autoinjector to notify their healthcare provider immediately in order to determine the need for a replacement dose of UDENYCA if they suspect that the full dose may not have been administered.

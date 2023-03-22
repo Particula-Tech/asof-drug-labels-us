@@ -23,13 +23,24 @@ Instruct patients who self-administer UDENYCA using the single-dose prefilled sy
 
 Coherus BioSciences
 
+For patients who will use the UDENYCA prefilled autoinjector, tell them that they:
+
+- Will hear two "clicks" during the UDENYCA injection.
+  The first 'click' means the start of injection and second 'click' means the end of injection.
+- To start injection, push the prefilled autoinjector body down.
+  Continue holding down after hearing the first 'click'.
+- In the viewing window, the orange indicator will advance to show the progress of the injection.
+- When injection has finished, there will be a second 'click' and the 'Orange Indicator' will completely block the viewing window.
+
+Coherus BioSciences
+
 UDENYCA® (pegfilgrastim-cbqv)
 
 Manufactured by: Coherus BioSciences, Inc., Redwood City, California 94065-1442 U.S. License No. 2023
 
-© 2021 Coherus BioSciences Inc. All rights reserved.
+© 2023 Coherus BioSciences Inc. All rights reserved.
 
 For more information, go to www.UDENYCA.com or call 1-800-4UDENYCA (1-800-483-3692)
 
 PMD-0004, Rev.
-06
+07
