@@ -4,4 +4,4 @@ Dongjia Town, Licheng District, Jinan, Shandong, 250105, China
 
 CLINITEST® is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-Revised: 05/2022
+Revised: 03/2023

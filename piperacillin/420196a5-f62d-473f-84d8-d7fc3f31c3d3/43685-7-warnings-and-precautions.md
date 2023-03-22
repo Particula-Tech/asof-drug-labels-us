@@ -38,9 +38,9 @@ Closely monitor patients with renal impairment or seizure disorders for signs an
 
 The use of piperacillin and tazobactam for injection was found to be an independent risk factor for renal failure and was associated with delayed recovery of renal function as compared to other beta-lactam antibacterial drugs in a randomized, multicenter, controlled trial in critically ill patients [see Adverse Reactions (6.1)].
 Based on this study, alternative treatment options should be considered in the critically ill population.
-If alternative treatment options are inadequate or unavailable, monitor renal function during treatment with piperacillin and tazobactam for injection [see Dosage and Administration (2.4)].
+If alternative treatment options are inadequate or unavailable, monitor renal function during treatment with piperacillin and tazobactam for injection [see Dosage and Administration (2.3)].
 
-Combined use of piperacillin/tazobactam and vancomycin may be associated with an increased incidence of acute kidney injury [see Drug Interactions (7.3)].
+Combined use of piperacillin and tazobactam and vancomycin may be associated with an increased incidence of acute kidney injury [see Drug Interactions (7.3)].
 
 ## 5.7 Electrolyte Effects
 

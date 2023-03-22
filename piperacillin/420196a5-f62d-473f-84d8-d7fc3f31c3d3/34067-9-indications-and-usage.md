@@ -6,7 +6,7 @@ Piperacillin and tazobactam for injection, USP is indicated in adults and pediat
 
 ## 1.2 Nosocomial Pneumonia
 
-Piperacillin and tazobactam for injection, USP is indicated in adults and pediatric patients (2 months of age and older) for the treatment of nosocomial pneumonia (moderate to severe) caused by beta-lactamase producing isolates of Staphylococcus aureus and by piperacillin/tazobactam-susceptible Acinetobacter baumannii, Haemophilus influenzae, Klebsiella pneumoniae, and Pseudomonas aeruginosa (Nosocomial pneumonia caused by P. aeruginosa should be treated in combination with an aminoglycoside) [see Dosage and Administration (2)].
+Piperacillin and tazobactam for injection, USP is indicated in adults and pediatric patients (2 months of age and older) for the treatment of nosocomial pneumonia (moderate to severe) caused by beta-lactamase producing isolates of Staphylococcus aureus and by piperacillin and tazobactam-susceptible Acinetobacter baumannii, Haemophilus influenzae, Klebsiella pneumoniae, and Pseudomonas aeruginosa (Nosocomial pneumonia caused by P. aeruginosa should be treated in combination with an aminoglycoside) [see Dosage and Administration (2)].
 
 ## 1.3 Skin and Skin Structure Infections
 
