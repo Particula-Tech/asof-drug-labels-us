@@ -143,6 +143,7 @@ names are trademarks of their respective owners.
 
 © Valeant Pharmaceuticals North America LLC
 
-9612500 20002065A
+9470903 50105473D
 
+This Patient Information has been approved by the U.S. Food and Drug Administration.
 Revised - 10/2017
