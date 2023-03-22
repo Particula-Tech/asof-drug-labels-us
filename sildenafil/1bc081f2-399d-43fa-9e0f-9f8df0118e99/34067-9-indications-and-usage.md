@@ -1,8 +1,9 @@
 # 1 INDICATIONS AND USAGE
 
-Sildenafil tablets are indicated for the treatment of pulmonary arterial hypertension (WHO Group I) in adults to improve exercise ability and delay clinical worsening.
-The delay in clinical worsening was demonstrated when sildenafil tablets were added to background epoprostenol therapy [see Clinical Studies (14)].
+Adults
 
-Studies establishing effectiveness were short-term (12 to 16 weeks), and included predominately patients with New York Heart Association (NYHA) Functional Class II-III symptoms and idiopathic etiology (71%) or associated with connective tissue disease (CTD) (25%).
+Sildenafil tablets are indicated for the treatment of pulmonary arterial hypertension (PAH) (World Health Organization [WHO] Group I) in adults to improve exercise ability and delay clinical worsening [see Clinical Studies (14)].
 
-Limitation of Use: Adding sildenafil to bosentan therapy does not result in any beneficial effect on exercise capacity [see Clinical Studies (14)].
+Pediatric Patients (1 to 17 Years old)
+
+Sildenafil tablets are indicated in pediatric patients 1 to 17 years old for the treatment of pulmonary arterial hypertension (PAH) (WHO Group I) to improve exercise ability and, in pediatric patients too young to perform standardized exercise testing, pulmonary hemodynamics thought to underly improvements in exercise [see Clinical Studies (14)].

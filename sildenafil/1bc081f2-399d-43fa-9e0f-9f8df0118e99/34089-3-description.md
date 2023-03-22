@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Sildenafil tablets USP, phosphodiesterase-5 (PDE-5) inhibitor, is the citrate salt of sildenafil, a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type-5 (PDE-5).
-Sildenafil is also marketed as sildenafil citrate tablets USP, 25 mg, 50 mg and 100 mg for erectile dysfunction.
+Sildenafil tablets, USP, phosphodiesterase-5 (PDE-5) inhibitor, is the citrate salt of sildenafil, a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type-5 (PDE-5).
+Sildenafil is also marketed as VIAGRA® for erectile dysfunction.
 
 Sildenafil citrate, USP is designated chemically as 1-[[3-(6,7-dihydro-1-methyl-7-oxo-3-propyl-1 H-pyrazolo [4,3- d] pyrimidin-5-yl)-4- ethoxyphenyl] sulfonyl]-4-methylpiperazine citrate and has the following structural formula:
 
