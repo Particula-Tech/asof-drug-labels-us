@@ -17,9 +17,9 @@ Studies in hairless albino mice suggest that concurrent exposure to tretinoin ma
 This effect has been confirmed in a later study in pigmented mice, and dark pigmentation did not overcome the enhancement of photocarcinogenesis by 0.05% tretinoin.
 Although the significance of these studies to humans is not clear, patients should minimize exposure to sunlight or artificial ultraviolet irradiation sources [see Warnings and Precautions (5.2)].
 
-The genotoxic potential of tretinoin was evaluated in the Ames assay and in the in vivomouse micronucleus assay, both of which were negative.
+The genotoxic potential of tretinoin was evaluated in the Ames assay and in the in vivo mouse micronucleus assay, both of which were negative.
 
 The components of the microspheres have shown potential for genetic toxicity and fetal malformation.
-EGDMA, a component of the excipient acrylates copolymer, was positive for induction of structural chromosomal aberrations in the in vitrochromosomal aberration assay in mammalian cells in the absence of metabolic activation, and negative for genetic toxicity in the Ames assay, and the in vivomouse micronucleus assay.
+EGDMA, a component of the excipient acrylates copolymer, was positive for induction of structural chromosomal aberrations in the in vitro chromosomal aberration assay in mammalian cells in the absence of metabolic activation, and negative for genetic toxicity in the Ames assay, and the in vivo mouse micronucleus assay.
 
 In oral fertility studies in rats with tretinoin, the no-observable effect level was 2 mg/kg/day (19 times the MRHD based on BSA comparison).

@@ -6,7 +6,7 @@ Important information: Tretinoin Gel Microsphere is for use on skin only.
 Do not get Tretinoin Gel Microsphere in your eyes, mouth, vagina or the corners of your nose.
 
 What is Tretinoin Gel Microsphere?
-Tretinoin Gel Microsphereis a prescription medicine used on the skin (topical) to treat acne.
+Tretinoin Gel Microsphere is a prescription medicine used on the skin (topical) to treat acne.
 Acne is a condition in which the skin has blackheads, whiteheads, and other pimples.
 
 It is not known if Tretinoin Gel Microsphere is safe and effective in the treatment of other conditions.
@@ -24,7 +24,8 @@ Before using Tretinoin Gel Microsphere, tell your doctor about all your medical 
 - •are pregnant or plan to become pregnant.
   It is not known if Tretinoin Gel Microsphere will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Tretinoin Gel Microsphere passes into your breast milk.Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
+  It is not known if Tretinoin Gel Microsphere passes into your breast milk.
+- Tell your doctor about all of the medicines you take, including prescription and over-the-counter medicines, vitamins, herbal supplements, and any skin products that you use.
 
 Especially tell your doctor if you use any other medicines to treat your acne, including medicated cleansers or soaps.
 Using other topical acne products may increase the irritation of your skin when used with Tretinoin Gel Microsphere.
@@ -130,4 +131,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 Rev.
 04/2018
 
-9515302
+9515303
