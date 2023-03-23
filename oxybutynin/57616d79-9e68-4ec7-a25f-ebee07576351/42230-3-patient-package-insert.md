@@ -28,14 +28,20 @@ Before using GELNIQUE, tell your healthcare provider about all of your medical c
 
 - have problems emptying your bladder completely
 - have a gastrointestinal obstruction (blockage in the digestive system)
-- have constipation or difficulty emptying your bowels o have ulcerative colitis (inflamed bowels) o have gastroesophageal reflux disease or esophagitis (inflamed esophagus, the tube between your mouth and stomach)
-- have Myasthenia Gravis (condition that causes muscle weakness)
+- have constipation or difficulty emptying your bowels
+
+◦ have ulcerative colitis (inflamed bowels)
+
+◦ have gastroesophageal reflux disease (GERD) or esophagitis (inflamed esophagus, the tube between your mouth and stomach)
+
+- have myasthenia gravis (condition that causes muscle weakness)
 - are pregnant or plan to become pregnant
 - are breastfeeding or plan to breastfeed
-- medicines called “bisphosphonates” to treat osteoporosis
-- medicines called “anticholinergics”
 
 Especially tell your doctor if you take:
+
+- medicines called “bisphosphonates” to treat osteoporosis
+- medicines called “anticholinergics”
 
 Ask your doctor or pharmacist for a list of these medicines if you are not sure if you take any of these medicines.
 

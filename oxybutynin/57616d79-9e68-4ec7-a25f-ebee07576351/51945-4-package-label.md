@@ -2,4 +2,10 @@ PRINCIPAL DISPLAY PANEL Gelnique® (oxybutynin chloride) Gel, 10% Carton 1 Pump 
 
 PRINCIPAL DISPLAY PANEL
 
-Gelnique® (oxybutynin chloride) Gel, 10% Carton 30 Sachets NDC 0023-5861-11
+NDC 0023-5861-11 Rx only
+
+Gelnique® (oxybutynin chloride) Gel 10%
+
+FOR TOPICAL USE ONLY 30 Sachets
+
+Allergan™
