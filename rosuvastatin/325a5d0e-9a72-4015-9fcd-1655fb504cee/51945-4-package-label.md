@@ -4,7 +4,7 @@ NDC 0310-7560-90 90 tablets
 
 CRESTOR®
 
-rosuvastatin calcium
+rosuvastatin
 
 5 mg tablets
 
@@ -28,7 +28,7 @@ NDC 0310-7570-90 90 tablets
 
 CRESTOR®
 
-rosuvastatin calcium
+rosuvastatin
 
 10 mg tablets
 
@@ -52,7 +52,7 @@ NDC 0310-7580-90 90 tablets
 
 CRESTOR®
 
-rosuvastatin calcium
+rosuvastatin
 
 20 mg tablets
 
@@ -76,7 +76,7 @@ NDC 0310-7590-30 30 tablets
 
 CRESTOR®
 
-rosuvastatin calcium
+rosuvastatin
 
 40 mg tablets
 
