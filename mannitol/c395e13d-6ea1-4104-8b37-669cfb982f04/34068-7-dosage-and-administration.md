@@ -37,3 +37,8 @@ If benefits are not observed after 200 g of mannitol are given, discontinue it.
 
 A 2.5% solution is used.
 The use of 2.5% mannitol solution minimizes the hemolytic effect of water alone, the entrance of hemolyzed blood into the circulation, and the resulting hemoglobinemia which is considered a major factor in producing serious renal complications.
+
+| PREPARATION OF DILUTIONS FOR UROLOGIC IRRIGATION |  |
+| --- | --- |
+| Concentration | How Prepared |
+| 2.5% | Add contents of two 50 mL vials (25% mannitol) to 900 mL Sterile Water for Injection. |

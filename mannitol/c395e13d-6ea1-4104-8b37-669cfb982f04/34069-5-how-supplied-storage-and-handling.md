@@ -1,9 +1,10 @@
-# HOW SUPPLIED
+# HOW SUPPLIED:
 
-| ProductNo. | NDCNo. |  |
-| --- | --- | --- |
-| 1450 | 63323-024-50 | Mannitol Injection, USP, 25%, in a 50 mL single dose flip-tear top vial in packages of 25. |
-| 1550 | 63323-024-25 | Mannitol Injection, USP, 25%, in a 50 mL single dose flip-off top vial in packages of 25. |
+Mannitol Injection, USP, 25%
+
+| Product Code | Unit of Sale | Strength | Each |
+| --- | --- | --- | --- |
+| 1550 | NDC 63323-024-25 Unit of 25 | 250 mg per mL | NDC 63323-024-01 50 mL Single Dose Flip-off Top Vial |
 
 Use only if solution is clear and seal intact and undamaged.
 
