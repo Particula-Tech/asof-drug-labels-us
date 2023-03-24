@@ -52,9 +52,9 @@ For in-institution use only
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Blister Pack
 
-1 Blister x 1 Tablet *Due to Candida
+NDC 0049-3500-79
 
-The easy ORAL cure for most vaginal yeast* infections
+1 Blister x 1 Tablet
 
 Pfizer
 
@@ -62,18 +62,20 @@ Diflucan® (fluconazole tablet) 150 mg
 
 Directions: Push tablet through foil and take by mouth
 
-Your doctor has prescribed Diflucan® (fluconazole) for a vaginal yeast* infection
+Warning: Do not use if you are pregnant, think you may
 
-Diflucan (fluconazole) is a unique treatment for vaginal yeast infections because it is taken orally.
-Just one oral tablet provides a full course of therapy sufficient to cure most vaginal yeast infections...it's that easy.
+be pregnant or are trying to become pregnant unless
 
-Some important things to know about Diflucan
+directed by your physician.
+If you become pregnant after
 
-- •Diflucan may be taken anytime—day or night, with or without meals—so you should take it by mouth immediately to ensure the earliest possible relief from the infection and its symptoms.
+taking this medicine, contact your physician.
+
+You should consider using a reliable means of
+
+contraception for approximately 1 week after the dose.
 
 Rx only
-
-*Due to Candida
 
 # PRINCIPAL DISPLAY PANEL - 12 x 150 mg Tablet Blister Pack Carton
 
