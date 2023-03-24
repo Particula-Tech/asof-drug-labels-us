@@ -36,6 +36,19 @@ Rx only
 
 Directions: Push tablet through foil and take by mouth
 
+Warning: Do not use if you are pregnant, think you may
+
+be pregnant or are trying to become pregnant unless
+
+directed by your physician.
+If you become pregnant after
+
+taking this medicine, contact your physician.
+
+You should consider using a reliable means of
+
+contraception for approximately 1 week after the dose.
+
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Blister Pack Carton
 
 NDC 59762-5017-1

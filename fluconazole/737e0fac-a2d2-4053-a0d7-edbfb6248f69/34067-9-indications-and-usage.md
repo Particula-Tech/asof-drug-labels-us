@@ -2,10 +2,10 @@
 
 Fluconazole is indicated for the treatment of:
 
-1. Vaginal candidiasis (vaginal yeast infections due to Candida).
-2. Oropharyngeal and esophageal candidiasis.
+1. 1.Vaginal candidiasis (vaginal yeast infections due to Candida).
+2. 2.Oropharyngeal and esophageal candidiasis.
    In open noncomparative studies of relatively small numbers of patients, fluconazole was also effective for the treatment of Candida urinary tract infections, peritonitis, and systemic Candida infections including candidemia, disseminated candidiasis, and pneumonia.
-3. Cryptococcal meningitis.
+3. 3.Cryptococcal meningitis.
    Before prescribing fluconazole for AIDS patients with cryptococcal meningitis, please see CLINICAL STUDIES section.
    Studies comparing fluconazole to amphotericin B in non-HIV infected patients have not been conducted.
 

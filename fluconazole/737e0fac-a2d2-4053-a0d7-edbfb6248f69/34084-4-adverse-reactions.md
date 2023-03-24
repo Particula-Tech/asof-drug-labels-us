@@ -37,33 +37,6 @@ The overall rate of serum transaminase elevations of more than 8 times the upper
 These elevations occurred in patients with severe underlying disease, predominantly AIDS or malignancies, most of whom were receiving multiple concomitant medications, including many known to be hepatotoxic.
 The incidence of abnormally elevated serum transaminases was greater in patients taking fluconazole concomitantly with one or more of the following medications: rifampin, phenytoin, isoniazid, valproic acid, or oral sulfonylurea hypoglycemic agents.
 
-## Post-Marketing Experience
-
-In addition, the following adverse events have occurred during post-marketing experience.
-
-Immunologic: In rare cases, anaphylaxis (including angioedema, face edema, and pruritus) has been reported.
-
-Body as a Whole: Asthenia, fatigue, fever, malaise.
-
-Cardiovascular: QT prolongation, torsade de pointes.
-(See PRECAUTIONS.)
-
-Central Nervous System: Seizures, dizziness.
-
-Hematopoietic and Lymphatic: Leukopenia, including neutropenia and agranulocytosis, thrombocytopenia.
-
-Metabolic: Hypercholesterolemia, hypertriglyceridemia, hypokalemia.
-
-Gastrointestinal: Cholestasis, dry mouth, hepatocellular damage, dyspepsia, vomiting.
-
-Other Senses: Taste perversion.
-
-Musculoskeletal System: myalgia.
-
-Nervous System: Insomnia, paresthesia, somnolence, tremor, vertigo.
-
-Skin and Appendages: Acute generalized exanthematous pustulosis, drug eruption including fixed drug eruption, increased sweating, exfoliative skin disorders including Stevens-Johnson syndrome and toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS) (See WARNINGS), alopecia.
-
 ## Adverse Reactions in Children
 
 The pattern and incidence of adverse events and laboratory abnormalities recorded during pediatric clinical trials are comparable to those seen in adults.
