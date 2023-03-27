@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA215883"
+  ],
+  "inn": "formoterol",
+  "labeler": "Lifestar Pharma LLC",
+  "package_ndcs": [
+    "70756-608-12",
+    "70756-608-44",
+    "70756-608-60",
+    "70756-608-70"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "formoterol fumarate dihydrate",
+      "name": "Formoterol fumarate"
+    }
+  ],
+  "setid": "35538d89-a984-4335-acdf-85a893f51eee",
+  "source": "dailymed"
+}
