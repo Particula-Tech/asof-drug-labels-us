@@ -1,71 +1,16 @@
 # PATIENT INFORMATION
 
-Sildenafil (sil den' a fil) Tablets USP Read this Patient Information before you start taking sildenafil tablets and each time you get a refill.
-There may be new information.
-This information does not take the place of talking with your doctor about your medical condition or treatment.
-If you have any questions about sildenafil tablets, ask your doctor or pharmacist.
-What is the most important information I should know about sildenafil tablets?
-Never take sildenafil tablets with any nitrate or guanylate cyclase stimulator medicines.
-Your blood pressure could drop quickly to an unsafe level.
-Nitrate medicines include: • Medicines that treat chest pain (angina) • Nitroglycerin in any form including tablets, patches, sprays, and ointments • Isosorbide mononitrate or dinitrate • Street drugs called "poppers" (amyl nitrate or nitrite) Guanylate cyclase stimulators include: • Riociguat (Adempas) Ask your doctor or pharmacist if you are not sure if you are taking a nitrate or a guanylate cyclase stimulator medicine.
-What are sildenafil tablets?
-Sildenafil tablet is a prescription medicine used in adults to treat pulmonary arterial hypertension (PAH).
-With PAH, the blood pressure in your lungs is too high.
-Your heart has to work hard to pump blood into your lungs.
-Sildenafil tablet improves the ability to exercise and can slow down worsening changes in your physical condition. • Sildenafil tablets is not for use in children • Adding sildenafil tablets to another medication used to treat PAH, bosentan (Tracleer®), does not result in improvement in your ability to exercise.
-Sildenafil tablets contains the same medicine as VIAGRA® (sildenafil), which is used to treat erectile dysfunction (impotence).
-Do not take sildenafil tablets with VIAGRA or other PDE-5 inhibitors.
-Who should not take sildenafil tablets?
-Do not take sildenafil tablets if you: • take nitrate medicines.
-See "What is the most important information I should know about sildenafil tablets?" • take guanylate cyclase stimulator medicines.
-See "What is the most important information I should know about sildenafil tablets?" • are allergic to sildenafil or any other ingredient in sildenafil tablets.
-See " What are the ingredients in sildenafil tablets?
-"at the end of this leaflet.
-What should I tell my doctor before taking sildenafil tablets?
-Tell your doctor about all of your medical conditions, including if you • have heart problems such as angina (chest pain), heart failure, irregular heartbeats, or have had a heart attack • have a disease called pulmonary veno-occlusive disease (PVOD) • have high or low blood pressure or blood circulation problems • have an eye problem called retinitis pigmentosa • have or had loss of sight in one or both eyes • have any problem with the shape of your penis or Peyronie’s disease • have any blood cell problems such sickle cell anemia • have a stomach ulcer or any bleeding problems • are pregnant or planning to become pregnant.
-It is not known if sildenafil tablets could harm your unborn baby. • are breastfeeding.
-Sildenafil passes into your breast milk, it is not known if it could harm your baby.
-Tell your doctor about all of the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal products.
-Sildenafil tablets and certain other medicines can cause side effects if you take them together.
-The doses of some of your medicines may need to be adjusted while you take sildenafil tablets.
-Especially tell your doctor if you take • Nitrate medicines.
-See "What is the most important information I should know about sildenafil tablets?" • Riociguat (Adempas).
-See "What is the most important information I should know about sildenafil tablets?" • Ritonavir (Norvir®) or other medicines used to treat HIV infection • Ketoconazole (Nizoral®) • Itraconazole (Sporanox) • High blood pressure medicine Know the medicines you take.
-Keep a list of your medicines and show it to your doctor and pharmacist when you get a new medicine.
-How should I take sildenafil tablets? • Take sildenafil tablets exactly as your doctor tells you.
-Sildenafil may be prescribed to you as • Sildenafil tablets • Take sildenafil tablets 3 times a day about 4 to 6 hours apart • Take sildenafil tablets at the same times every day. • If you miss a dose, take it as soon as you remember.
-If it is close to your next dose, skip the missed dose, and take your next dose at the regular time. • Do not take more than one dose of sildenafil tablets at a time. • Do not change your dose or stop taking sildenafil tablets on your own.
-Talk to your doctor first. • If you take too much sildenafil tablets, call your doctor or go to the nearest hospital emergency room.
-What are the possible side effects of sildenafil tablets? • low blood pressure.
-Low blood pressure may cause you to feel faint or dizzy.
-Lie down if you feel faint or dizzy. • more shortness of breath than usual.
-Tell your doctor if you get more short of breath after you start sildenafil tablets.
-More shortness of breath than usual may be due to your underlying medical condition. • decreased eyesight or loss of sight in one or both eyes (NAION).
-If you notice a sudden decrease or loss of eyesight, talk to your doctor right away. • sudden decrease or loss of hearing.
-If you notice a sudden decrease or loss of hearing, talk to your doctor right away.
-It is not possible to determine whether these events are related directly to this class of oral medicines, including sildenafil tablets, or to other diseases or medicines, to other factors, or to a combination of factors. • heart attack, stroke, irregular heartbeats, and death.
-Most of these happened in men who already had heart problems. • erections that last several hours.
-If you have an erection that lasts more than 4 hours, get medical help right away.
-If it is not treated right away, priapism can permanently damage your penis.
-The most common side effects with sildenafil tablets include: Nosebleed, headache, upset stomach, getting red or hot in the face (flushing), trouble sleeping, as well as fever, erection increased, respiratory infection, nausea, vomiting, bronchitis, pharyngitis, runny nose, and pneumonia in children.
-Tell your doctor if you have any side effect that bothers you or doesn't go away.
-These are not all the possible side effects of sildenafil tablets.
-For more information, ask your doctor or pharmacist.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-­800-FDA-1088.
-How should I store sildenafil tablets? • Store sildenafil tablets at controlled room temperature between 68° to 77°F (20° to 25°C). • Keep sildenafil tablets and all medicines away from children.
-General information about sildenafil tablets Medicines are sometimes prescribed for purposes that are not in the patient leaflet.
-Do not use sildenafil tablets for a condition for which it was not prescribed.
-Do not give sildenafil tablets to other people, even if they have the same symptoms you have.
-It could harm them.
-This patient leaflet summarizes the most important information about sildenafil tablets.
-If you would like more information about sildenafil tablets talk with your doctor.
-You can ask your doctor or pharmacist for information about sildenafil tablets that is written for health professionals.
-For more information, call 1 -866-495-1995.
-What are the ingredients in sildenafil tablets?
-Active ingredients: sildenafil citrate, USP Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide and triacetin This Patient Information has been approved by the U.S. Food and Drug Administration Patient Information available at http://www.camberpharma.com/medication-guides
+| Sildenafil (sil den' a fil) tablets |
+| --- |
+| What is the most important information I should know about sildenafil tablets? Never take sildenafil tablets with any nitrate or guanylate cyclase stimulator medicines. • Your blood pressure could drop quickly to an unsafe level. Nitrates include: • Medicines that treat chest pain (angina) • Nitroglycerin in any form including tablets, patches, sprays, and ointments • Isosorbide mononitrate or dinitrate • Street drugs called “poppers” (amyl nitrate, butyl nitrate or nitrite) Guanylate cyclase stimulators include: • Riociguat, a medicine that treats pulmonary arterial hypertension and chronic thromboembolic pulmonary hypertension. Ask your healthcare provider or pharmacist if you are not sure if you or your child are taking a nitrate or a guanylate cyclase stimulator medicine. See “What are the possible side effects of sildenafil tablets?” for more information about side effects. |
+| What are sildenafil tablets? Sildenafil tablets are a prescription medicine used to treat pulmonary arterial hypertension (PAH). PAH is a type of high blood pressure in the arteries of your lungs. sildenafil tablets may be used in: adults to improve your ability to exercise and help slow down the worsening of your physical condition.children 1 to 17 years old to improve their ability to exercise, and in children too young to do certain exercise and lung testing. It is not known if sildenafil tablets are safe and effective in children younger than 1 year of age. |
+| Do not take sildenafil tablets if you or your child: take medicines called nitrates. take riociguat, a guanylate cyclase stimulator medicine.are allergic to sildenafil or any of the ingredients in sildenafil tablets. See the end of this leaflet for a complete list of ingredients in sildenafil tablets. |
+| Before taking sildenafil tablets, tell your healthcare provider about all of your medical conditions, including if you or your child: have low blood pressure have heart problemshave pulmonary veno-occlusive disease (PVOD) have bleeding problems or a stomach (peptic) ulcer. It is not known if sildenafil tablets are safe in people with bleeding problems or who have a stomach ulcer.have an eye problem called retinitis pigmentosahave ever had sudden loss of vision in one or both eyes, including an eye problem called non-arteritic anterior ischemic optic neuropathy (NAION) have ever had hearing problems such as ringing in the ears, dizziness, or loss of hearing have a deformed penis shape or Peyronie’s disease have any blood cell problems such as sickle cell anemia are pregnant or plan to become pregnant. It is not known if sildenafil tablets will harm your unborn baby. are breastfeeding or plan to breastfeed. Sildenafil passes into your breast milk. It is not known if it can harm your baby. Talk with your healthcare provider about the best way to feed your baby during treatment with sildenafil tablets. Tell your healthcare provider about all of the medicines you or your child take, including prescription and over­the-counter medicines, vitamins, and herbal supplements. Sildenafil tablets and certain other medicines may affect each other and can cause side effects. Especially tell your healthcare provider if you or your child take: nitrates or guanylate cyclase stimulators. See “ What is the most important information I should know about sildenafil tablets?” medicines to treat high blood pressure medicines for erectile dysfunction (impotence). Sildenafil tablets contains sildenafil, which is the same medicine found in another medicine called VIAGRA ®. VIAGRA is used for the treatment of erectile dysfunction. Do not take VIAGRA or other PDE-5 inhibitors during treatment with sildenafil tablets. Ask your healthcare provider or pharmacist for a list of these medicines if you are not sure. Know the medicines you or your child take. Keep a list of your or your child’s medicines and show it to your healthcare provider and pharmacist when you get a new medicine. |
+| How should I take sildenafil tablets? Take or give sildenafil tablets exactly as your healthcare provider tells you. Your healthcare provider may change your or your child’s dose of sildenafil tablets as needed. Do not change your dose or stop taking sildenafil tablets without talking to your healthcare provider. Sildenafil tablets may be prescribed to you as sildenafil tablets. Take your prescribed dose of sildenafil tablets 3 times a day. If you or your child take too much sildenafil tablets, call your healthcare provider or go to the nearest hospital emergency room right away. |
+| What are the possible side effects of sildenafil tablets? Sildenafil tablets may cause serious side effects, including: See “What is the most important information I should know about sildenafil tablets?” Decreased blood pressure. Sildenafil tablets may cause low blood pressure that last for a short time. If you take medicines to treat high blood pressure, your healthcare provider should monitor your blood pressure during treatment with sildenafil tablets. Decreased eyesight or permanent loss of vision in one or both eyes can be a sign of non-arteritic anterior ischemic optic neuropathy (NAION). Most people who develop NAION have certain risk factors. You can ask your healthcare provider if you have questions about risk factors for NAION. If you notice a sudden decrease or loss of vision in one or both eyes during treatment with sildenafil tablets, contact your healthcare provider right away. Sudden decrease or loss of hearing, sometimes with ringing in the ears and dizziness. If you notice a sudden decrease or loss of hearing during treatment with sildenafil tablets, contact your healthcare provider right away. In men, an erection that lasts for more than 4 hours (priapism). If you have an erection, with or without pain, that lasts more than 4 hours, contact your healthcare provider or get emergency medical help right away. A painful erection that lasts more than 6 hours must be treated right away or you can have lasting damage to your penis, including the inability to have erections. The most common side effects of sildenafil tablets in adults include: nosebleedsheadacheupset stomachgetting red or hot in the face (flushing)arm or leg painmuscle aches and pain back paindiarrhea The most common side effect of sildenafil tablets in children is an erection that lasts for more than 4 hours (priapism). These are not all the possible side effects of sildenafil tablets. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store sildenafil tablets? Store sildenafil tablets at room temperature between 68°F to 77°F (20°C to 25°C). Keep sildenafil tablets and all medicines out of the reach of children. |
+| General information about the safe and effective use of sildenafil tablets. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use sildenafil tablets for a condition for which it was not prescribed. Do not give sildenafil tablets to other people, even if they have the same symptoms that you have. It may harm them. You can ask your healthcare provider or pharmacist for information about sildenafil tablets that is written for health professionals. |
+| What are the ingredients in sildenafil tablets? Active ingredients: sildenafil citrate, USP Inactive ingredients: croscarmellose sodium, dibasic calcium phosphate anhydrous, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, titanium dioxide and triacetin Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETEROTM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar – 509 301, India. For more information, call 1-866-495-1995. All brand names listed are the registered trademarks of their respective owners and are not trademarks of Hetero Labs Limited. |
 
-Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By:
-
-HETEROTM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar – 509 301, India.
-Revised: 07/2021
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: 03/2023

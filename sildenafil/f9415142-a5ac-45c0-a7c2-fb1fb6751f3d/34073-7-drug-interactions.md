@@ -1,13 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-Nitrates Concomitant use of sildenafil tablets with nitrates in any form is contraindicated [see Contraindications(4)].
-Ritonavir and other Potent CYP3A Inhibitors Concomitant use of sildenafil tablets with ritonavir and other potent CYP3A inhibitors is not recommended [see Clinical Pharmacology (12.3)].
-Other drugs that reduce blood pressure Alpha blockers.
-In drug-drug interaction studies, sildenafil (25 mg, 50 mg, or 100 mg) and the alpha-blocker doxazosin (4 mg or 8 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy.
-In these study populations, mean additional reductions of supine systolic and diastolic blood pressure of 7/7 mmHg, 9/5 mmHg, and 8/4 mmHg, respectively, were observed.
-Mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were also observed.
-There were infrequent reports of patients who experienced symptomatic postural hypotension.
-These reports included dizziness and light-headedness, but not syncope.
-Amlodipine.
-When sildenafil 100 mg oral was co-administered with amlodipine, 5 mg or 10 mg oral, to hypertensive patients, the mean additional reduction on supine blood pressure was 8 mmHg systolic and 7 mmHg diastolic.
-Monitor blood pressure when co-administering blood pressure lowering drugs with sildenafil tablets [see Warnings and Precautions(5.2)].
+Nitrates
+
+Concomitant use of sildenafil with nitrates in any form is contraindicated [see Contraindications (4)].
+
+Strong CYP3A Inhibitors
+
+Concomitant use of sildenafil with strong CYP3A inhibitors is not recommended [see Clinical Pharmacology (12.3)].
+
+Moderate-to-Strong CYP3A Inducers
+
+Concomitant use of sildenafil with moderate-to-strong CYP3A inducers (such as bosentan) decreases the sildenafil exposure.
+Dose up-titration of sildenafil may be needed when initiating treatment with moderate-to-strong CYP3A inducers.
+Reduce the dose of sildenafil to 20 mg three times a day when discontinuing treatment with moderate-to-strong CYP3A inducers [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
