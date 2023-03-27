@@ -3,7 +3,7 @@
 Following overdosage, patients have experienced primarily gastrointestinal symptoms including stomach and abdominal pain, vomiting, and diarrhea.
 Rash, hyperactivity, or drowsiness have also been observed in a small number of patients.
 
-In the case of overdosage, discontinue amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL, treat symptomatically, and institute supportive measures as required.
+In case of overdosage, discontinue amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL, treat symptomatically, and institute supportive measures as required.
 If the overdosage is very recent and there is no contraindication, an attempt at emesis or other means of removal of drug from the stomach may be performed.
 A prospective study of 51 pediatric patients at a poison control center suggested that overdosages of less than 250 mg/kg of amoxicillin are not associated with significant clinical symptoms and do not require gastric emptying.1
 

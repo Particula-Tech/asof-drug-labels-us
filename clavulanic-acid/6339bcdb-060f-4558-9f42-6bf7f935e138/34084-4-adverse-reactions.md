@@ -49,8 +49,8 @@ Hemic and Lymphatic Systems: Anemia, including hemolytic anemia, thrombocytopeni
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 There have been reports of increased prothrombin time in patients receiving amoxicillin and clavulanate potassium and anticoagulant therapy concomitantly.
 
-Central Nervous System: Agitation, anxiety, behavioral changes, aseptic meningitis, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported rarely.
+Central Nervous System: Agitation, anxiety, behavioral changes, aseptic meningitis, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported.
 
-Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been rarely reported.
+Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported.
 Most reports occurred in pediatric patients.
 Discoloration was reduced or eliminated with brushing or dental cleaning in most cases.

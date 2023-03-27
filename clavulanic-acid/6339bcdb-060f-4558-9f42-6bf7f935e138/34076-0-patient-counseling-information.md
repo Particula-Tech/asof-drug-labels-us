@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
-
 Administration Instructions
 
 Inform patients to take amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL every 12 hours with a meal or snack to reduce the possibility of gastrointestinal upset.
@@ -18,7 +16,7 @@ Instruct patients to stop taking amoxicillin and clavulanate potassium for oral 
 
 Diarrhea
 
-Counsel patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial drug is discontinued.
+Counsel patients that diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial is discontinued.
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as 2 or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
@@ -43,14 +41,14 @@ Phenylketonuria
 
 Counsel patients with phenylketonuria: Each 5 mL of the 600 mg/42.9 mg per 5 mL suspension of amoxicillin and clavulanate potassium for oral suspension contains 7 mg phenylalanine.
 
-CLINITEST is a registered trademark of Miles, Inc.
-
-FLAVORx is a trademark of FLAVORx.
+CLINITEST is a registered trademark of Miles, Inc. FLAVORx is a trademark of FLAVORx.
 Inc.
 
-Distributed by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724 – USA
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 Manufactured by: Hikma Pharmaceuticals P.O.
-Box 182400 Amman 11118 – Jordan
+Box 182400 Amman 11118 - Jordan
 
-Revised July 2022
+2INAMXU6
+
+Revised February 2023

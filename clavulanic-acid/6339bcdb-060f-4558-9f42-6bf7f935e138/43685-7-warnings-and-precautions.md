@@ -14,14 +14,14 @@ If patients develop a skin rash, they should be monitored closely, and Amoxicill
 
 ## 5.3 Hepatic Dysfunction
 
-Use amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL with caution in patients with evidence of hepatic dysfunction.
+Use Amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL with caution in patients with evidence of hepatic dysfunction.
 Hepatic toxicity associated with the use of Amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL is usually reversible.
 Deaths have been reported (fewer than one death reported per estimated four million prescriptions worldwide).
 These have generally been cases associated with serious underlying diseases or concomitant medications [see Contraindications (4.2) and Adverse Reactions (6.2)].
 
 ## 5.4 Clostridioides difficile-Associated Diarrhea (CDAD)
 
-Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including amoxicillin and clavulanate potassium for oral suspension600 mg/42.9 mg per 5 mL, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.

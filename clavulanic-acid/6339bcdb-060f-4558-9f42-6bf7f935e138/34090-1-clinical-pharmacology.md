@@ -15,14 +15,14 @@ Mean (±SD) Plasma Amoxicillin and Clavulanate Pharmacokinetic Parameter Values 
 | PARAMETER | AMOXICILLIN | CLAVULANATE |
 | --- | --- | --- |
 | Cmax (mcg/mL) | 15.7 ± 7.7 | 1.7 ± 0.9 |
-| Tmax (hour) | 2.0 (1.0 to 4.0) | 1.1 (1.0 to 4.0) |
-| AUC0-T (mcg*hour/mL) | 59.8 ± 20.0 | 4.0 ± 1.9 |
-| T½ (hour) | 1.4 ± 0.3 | 1.1 ± 0.3 |
-| CL/F (L/hour/kg) | 0.9 ± 0.4 | 1.1 ± 1.1 |
+| Tmax (hr) | 2.0 (1.0 to 4.0) | 1.1 (1.0 to 4.0) |
+| AUC0-T (mcg*hr/mL) | 59.8 ± 20.0 | 4.0 ± 1.9 |
+| T½ (hr) | 1.4 ± 0.3 | 1.1 ± 0.3 |
+| CL/F (L/hr/kg) | 0.9 ± 0.4 | 1.1 ± 1.1 |
 
 * Arithmetic mean ± standard deviation, except Tmax values which are medians (ranges).
 
-The effect of food on the oral absorption of amoxicillin and clavulanate potassium for oral suspension 600mg/42.9 mg per 5 mL has not been studied.
+The effect of food on the oral absorption of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL has not been studied.
 
 Approximately 50% to 70% of the amoxicillin and approximately 25% to 40% of the clavulanic acid are excreted unchanged in urine during the first 6 hours after administration of 10 mL of 250 mg/5 mL suspension of amoxicillin and clavulanate potassium.
 
@@ -64,7 +64,7 @@ Streptococcus pneumoniae (including isolates with penicillin MICs less than or e
 
 Gram-negative bacteria:
 
-Haemophilus influenzae (including β-lactamase-producing isolates)Moraxella catarrhalis (including β-lactamase-producing isolates)
+Haemophilus influenzae (including β-lactamase-producing isolates) Moraxella catarrhalis (including β-lactamase-producing isolates)
 
 The following in vitro data are available, but their clinical significance is unknown.
 

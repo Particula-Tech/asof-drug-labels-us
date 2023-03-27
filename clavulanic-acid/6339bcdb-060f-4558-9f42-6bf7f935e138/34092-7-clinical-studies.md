@@ -31,7 +31,7 @@ Patients who responded to therapy 2 to 4 days post-therapy were followed for 15 
 Non-responders at 2 to 4 days post-therapy were considered failures at the latter timepoint.
 
 Table 4.
-Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Patients With Penicillin MICs equal to 2 or 4 mcg/mL*)
+Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Patients with Penicillin MICs equal to 2 or 4 mcg/mL*)
 
 |  | 2 to 4 Days Post-Therapy (Primary Endpoint) |  |  |
 | --- | --- | --- | --- |
@@ -49,10 +49,10 @@ Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Pati
 | H. influenzae | 106/156 | 68 | (60.0, 75.2) |
 | M. catarrhalis | 14/25 | 56 | (34.9, 75.6) |
 
-*S. pneumoniae strains with penicillin MICs of 2 or 4 mcg/mL are considered resistant to penicillin.
+* S. pneumoniae strains with penicillin MICs of 2 or 4 mcg/mL are considered resistant to penicillin.
 
-‡ CI equals confidence intervals; 95% CIs are not adjusted for multiple comparisons.
+† CI equals confidence intervals; 95% CIs are not adjusted for multiple comparisons.
 
-† Clinical assessments at 15 to 18 days post-therapy may have been confounded by viral infections and new episodes of acute otitis media with time elapsed post-treatment.
+‡ Clinical assessments at 15 to 18 days post-therapy may have been confounded by viral infections and new episodes of acute otitis media with time elapsed post-treatment.
 
 In the intent-to-treat analysis, overall clinical outcomes at 2 to 4 days and 15 to 18 days post-treatment in patients with S. pneumoniae with penicillin MIC equal to 2 mcg/mL and 4 mcg/mL were 29/41 (71%) and 17/41 (42%), respectively.

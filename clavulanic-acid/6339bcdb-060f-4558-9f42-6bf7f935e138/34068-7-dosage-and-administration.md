@@ -10,7 +10,7 @@ Absorption of clavulanate potassium may be enhanced when amoxicillin and clavula
 Pediatric patients 3 months and older: Based on the amoxicillin component (600 mg/5 mL), the recommended dose of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL is 90 mg/kg/day divided every 12 hours, administered for 10 days (see chart below).
 This dose provides 6.4 mg/kg/day of the clavulanic acid component.
 
-| Body Weight (kg) | Volume Of Amoxicillin And Clavulanate Potassium For Oral Suspension 600 mg/42.9 mg Per 5 ml providing 90 mg/kg/day |
+| Body Weight (kg) | Volume of Amoxicillin and Clavulanate Potassium for Oral Suspension 600 mg/42.9 mg per 5 mL Providing 90 mg/kg/day |
 | --- | --- |
 | 8 | 3 mL twice daily |
 | 12 | 4.5 mL twice daily |

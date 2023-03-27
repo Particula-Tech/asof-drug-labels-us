@@ -2,8 +2,6 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B.
-
 There are no adequate and well-controlled studies of amoxicillin and clavulanate potassium in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
@@ -28,4 +26,4 @@ Safety and efficacy of amoxicillin and clavulanate potassium powder for oral sus
 Safety and efficacy of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years [see Clinical Studies (14)].
 
 The safety and effectiveness of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL have been established for the treatment of pediatric patients (3 months to 12 years) with acute bacterial sinusitis.
-This use is supported by evidence from adequate and well-controlled studies of amoxicillin and clavulanate potassium extended release tablets in adults with acute bacterial sinusitis, studies of amoxicillin and clavulanate potassium powder for oral suspension 600 mg/42.9 mg per 5 mL in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking amoxicillin and clavulanate potassium powder for oral suspension 600 mg/42.9 mg per 5 mL [see CLINICAL PHARMACOLOGY (12)] and adults taking amoxicillin and clavulanate potassium extended release tablets.
+This use is supported by evidence from adequate and well-controlled studies of amoxicillin and clavulanate potassium extended release tablets in adults with acute bacterial sinusitis, studies of amoxicillin and clavulanate potassium powder for oral suspension 600 mg/42.9 mg per 5 mL in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking amoxicillin and clavulanate potassium powder for oral suspension 600 mg/42.9 mg per 5 mL [see Clinical Pharmacology (12)] and adults taking amoxicillin and clavulanate potassium extended release tablets.
