@@ -21,7 +21,7 @@ Table 2: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Intervention: | For patients taking verapamil, diltiazem, or dronedarone, do not exceed ZOCOR 10 mg daily. For patients taking amiodarone, amlodipine, or ranolazine, do not exceed ZOCOR 20 mg daily [see Dosage and Administration (2.5)]. |
 | Lomitapide |  |
 | Clinical Impact: | Simvastatin exposure is approximately doubled with concomitant use of lomitapide and the risk of myopathy and rhabdomyolysis is increased. |
-| Intervention: | Reduce the dose of ZOCOR by 50% if initiating lomitapide. Do not exceed ZOCOR 20 mg daily (or ZOCOR 40 mg daily for patients who have previously taken ZOCOR 80 mg daily chronically) while taking lomitapide [see Dosage and Administration (2.1, 2.5)]. |
+| Intervention: | Reduce the dose of ZOCOR by 50% if initiating lomitapide. Do not exceed ZOCOR 20 mg daily (or ZOCOR 40 mg daily for patients who have previously taken an 80 mg daily dosage of ZOCOR chronically) while taking lomitapide [see Dosage and Administration (2.1, 2.5)]. |
 | Daptomycin |  |
 | Clinical Impact: | Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin. Both ZOCOR and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration. |
 | Intervention: | If treatment with daptomycin is required, consider temporarily suspending ZOCOR during the course of daptomycin treatment. |

@@ -2,9 +2,13 @@
 
 ## 2.1 Important Dosage and Administration Information
 
+- ZOCOR is no longer marketed in the 5 mg and 80 mg strengths.
+  For dosing with the 5 mg strength, use another simvastatin product.
 - Take ZOCOR orally once daily in the evening.
 - The maximum recommended dosage is ZOCOR 40 mg once daily [see Dosage and Administration (2.2, 2.3)].
-  The ZOCOR 80 mg daily dosage is restricted to patients who have been taking simvastatin 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Warnings and Precautions (5.1)].
+  An 80 mg daily dosage of ZOCOR is restricted to patients who have been taking simvastatin 80 mg daily chronically (e.g., for 12 months or more) without evidence of muscle toxicity [see Warnings and Precautions (5.1)].
+- If as dose is missed, take the missed dose as soon as possible.
+  Do not double the next dose.
 - For patients that require a high-intensity statin or are unable to achieve their LDL-C goal receiving ZOCOR 40 mg daily, prescribe alternative LDL-C-lowering treatment.
 - Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating ZOCOR, and adjust the dosage if necessary.
 
@@ -19,8 +23,7 @@ The recommended dosage range of ZOCOR is 10 mg to 40 mg daily.
 ## 2.4 Recommended Dosage in Patients with Renal Impairment
 
 For patients with severe renal impairment [creatinine clearance (CLcr) 15 – 29 mL/min], the recommended starting dosage of simvastatin is 5 mg once daily [see Warnings and Precautions (5.1) and Use in Specific Populations (8.6)].
-ZOCOR is not available in a 5 mg strength.
-Use another simvastatin product to initiate dosing in such patients.
+Use another simvastatin product to initiate dosing in such patients [see Dosage and Administration (2.1)].
 
 There are no dosage adjustment recommendations for patients with mild or moderate renal impairment.
 
@@ -31,7 +34,7 @@ Concomitant use of ZOCOR with the following drugs requires dosage modification o
 Patients taking Lomitapide
 
 Reduce the dosage of ZOCOR by 50%.
-Do not exceed ZOCOR 20 mg once daily (or 40 mg once daily for patients who have previously taken ZOCOR 80 mg daily chronically while taking lomitapide) [see Dosage and Administration (2.1)].
+Do not exceed ZOCOR 20 mg once daily (or 40 mg once daily for patients who have previously taken an 80 mg daily dosage of ZOCOR chronically while taking lomitapide) [see Dosage and Administration (2.1)].
 
 Patients taking Verapamil, Diltiazem, or Dronedarone
 

@@ -8,5 +8,7 @@ Its structural formula is:
 
 Simvastatin is a white to off-white, nonhygroscopic, crystalline powder that is practically insoluble in water, and freely soluble in chloroform, methanol and ethanol.
 
-ZOCOR tablets for oral use contain 10 mg, 20 mg, 40 mg or 80 mg of simvastatin and the following inactive ingredients: ascorbic acid, citric acid, hydroxypropyl cellulose, hypromellose, iron oxides, lactose, magnesium stearate, microcrystalline cellulose, starch, talc, and titanium dioxide.
+ZOCOR tablets (simvastatin) are available for oral administration in strength of 10 mg, 20 mg, or 40 mg.
+Each tablet contains following inactive ingredients: ascorbic acid, citric acid, hydroxypropyl cellulose, hypromellose, iron oxides, lactose, magnesium stearate, microcrystalline cellulose, starch, talc, and titanium dioxide.
 Butylated hydroxyanisole is added as a preservative.
+The 5 mg and 80 mg strengths of ZOCOR are no longer marketed.

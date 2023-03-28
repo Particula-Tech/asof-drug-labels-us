@@ -79,7 +79,7 @@ Monitor geriatric patients receiving ZOCOR for the increased risk of myopathy [s
 Renal impairment is a risk factor for myopathy and rhabdomyolysis.
 Monitor all patients with renal impairment for development of myopathy.
 In patients with severe renal impairment (CLcr 15 – 29 mL/min), the recommended starting dosage is simvastatin 5 mg once daily [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
-ZOCOR is not available in a 5 mg strength.
+The 5 mg strength of ZOCOR is no longer marketed.
 Use another simvastatin product to initiate dosing in such patients.
 
 ## 8.7 Hepatic Impairment

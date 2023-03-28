@@ -1,7 +1,9 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
+
 Myopathy and Rhabdomyolysis Advise patients that ZOCOR may cause myopathy and rhabdomyolysis.
-Inform patients taking the 80 mg daily dose of ZOCOR that they are at an increased risk.
+Inform patients taking an 80 mg daily dose of ZOCOR that they are at an increased risk.
 Inform patients that the risk is also increased when taking certain types of medication or consuming grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
 Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dose of an existing medication that they are taking ZOCOR.
 Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Contraindications (4), Warnings and Precautions (5.1), and Drug Interactions (7.1)].
@@ -16,3 +18,7 @@ Pregnancy Advise pregnant patients and patients who can become pregnant of the p
 Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if ZOCOR should be discontinued [see Use in Specific Populations (8.1)].
 
 Lactation Advise patients that breastfeeding is not recommended during treatment with ZOCOR [see Use in Specific Populations (8.2)].
+
+Missed Dose Instruct patients to take ZOCOR only as prescribed.
+If a dose is missed, it should be taken as soon as possible.
+Advise patients not to double their next dose.

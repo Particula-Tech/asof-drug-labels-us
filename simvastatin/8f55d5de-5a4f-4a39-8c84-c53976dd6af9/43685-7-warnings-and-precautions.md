@@ -13,7 +13,7 @@ Risk Factors for Myopathy
 
 Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyroidism, renal impairment, concomitant use with certain other drugs (including other lipid-lowering therapies), and higher ZOCOR dosage; Chinese patients on ZOCOR may be at higher risk for myopathy [see Contraindications (4), Drug Interactions (7.1), and Use in Specific Populations (8.8)].
 The risk of myopathy is increased by elevated plasma levels of simvastatin and simvastatin acid.
-The risk is also greater in patients taking ZOCOR 80 mg daily compared with patients taking lower ZOCOR dosages and compared with patients using other statins with similar or greater LDL-C-lowering efficacy [see Adverse Reactions (6.1)].
+The risk is also greater in patients taking an 80 mg daily dosage of ZOCOR compared with patients taking lower ZOCOR dosages and compared with patients using other statins with similar or greater LDL-C-lowering efficacy [see Adverse Reactions (6.1)].
 
 Steps to Prevent or Reduce the Risk of Myopathy and Rhabdomyolysis
 
@@ -26,13 +26,13 @@ ZOCOR use should be temporarily suspended in patients taking daptomycin.
 Lipid modifying doses (≥1 gram/day) of niacin, fibrates, colchicine, and grapefruit juice may also increase the risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
 
 Use the 80 mg daily dosage of ZOCOR only in patients who have been taking simvastatin 80 mg daily chronically without evidence of muscle toxicity [see Dosage and Administration (2.1)].
-If patients treated with ZOCOR 80 mg are prescribed an interacting drug that increases the risk for myopathy and rhabdomyolysis, switch to an alternate statin [see Drug Interactions (7.1)].
+If patients treated with an 80 mg daily dosage of ZOCOR are prescribed an interacting drug that increases the risk for myopathy and rhabdomyolysis, switch to an alternate statin [see Drug Interactions (7.1)].
 
 Discontinue ZOCOR if markedly elevated CK levels occur or if myopathy is either diagnosed or suspected.
 Muscle symptoms and CK increases may resolve if ZOCOR is discontinued.
 Temporarily discontinue ZOCOR in patients experiencing an acute or serious condition at high risk of developing renal failure secondary to rhabdomyolysis, e.g., sepsis; shock; severe hypovolemia; major surgery; trauma; severe metabolic, endocrine, or electrolyte disorders; or uncontrolled epilepsy.
 
-Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the ZOCOR dosage and advise patients receiving ZOCOR 80 mg of the increased risk of myopathy and rhabdomyolysis.
+Inform patients of the risk of myopathy and rhabdomyolysis when starting or increasing the ZOCOR dosage and advise patients receiving an 80 mg daily dosage of ZOCOR of the increased risk of myopathy and rhabdomyolysis.
 Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness, particularly if accompanied by malaise or fever.
 
 ## 5.2 Immune-Mediated Necrotizing Myopathy
