@@ -6,7 +6,10 @@ Naloxone hydrochloride injection, USP for intravenous, intramuscular, and subcut
 | --- | --- |
 | NDC 0409-1782-69 Box of 10 1 mL fill in 2.5 mL Carpuject™ Single-dose cartridge with Luer Lock for the Carpuject™ Syringe System | 0.4 mg/mL |
 
-Instructions for Use of the Syringe Systems Instructions for using the Carpuject Syringe are available with the reusable Carpuject Holder, List 2049-02.
+Instructions for Use of the Syringe Systems
+
+Needle not included.
+Instructions for using the Carpuject Syringe are available with the reusable Carpuject Holder, List 2049-02.
 
 Protect from light.
 
@@ -15,6 +18,6 @@ Store at 20 to 25°C (68 to 77°F).
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1215-2.0
+LAB-1215-3.0
 
-Revised: 4/2019
+Revised: 03/2023
