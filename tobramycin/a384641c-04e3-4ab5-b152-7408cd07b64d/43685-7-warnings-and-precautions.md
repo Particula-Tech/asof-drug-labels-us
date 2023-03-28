@@ -2,10 +2,6 @@
 
 See WARNINGSbox above.
 
-This product contains sodium metabisulfite, a sulfite that may cause allergic-type reactions, including anaphylactic symptoms and life-threatening or less severe asthmatic episodes, in certain susceptible people.
-The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
-Sulfite sensitivity is seen more frequently in asthmatic than in nonasthmatic people.
-
 Serious allergic reactions including anaphylaxis and dermatologic reactions including exfoliative dermatitis, toxic epidermal necrolysis, erythema multiforme, and Stevens-Johnson Syndrome have been reported rarely in patients on tobramycin therapy.
 Although rare, fatalities have been reported.
 (See CONTRAINDICATIONS).
@@ -53,12 +49,12 @@ It is important, however, that there be consistency within the individual patien
 These serum-level assays may be especially useful for monitoring the treatment of severely ill patients with changing renal function or of those infected with less susceptible organisms or those receiving maximum dosage.
 
 Neuromuscular blockade and respiratory paralysis have been reported in cats receiving very high doses of tobramycin (40 mg/kg).
-The possibility of prolonged or secondary apnea should be considered if tobramycin is administered to anesthetized patients who are also receiving neuromuscular blocking agents, such as succinyl choline, tubocurarine, or decamethonium, or to patients receiving massive transfusions of citrated blood.
+The possibility of prolonged or secondary apnea should be considered if tobramycin is administered to anesthetized patients who are also receiving neuromuscular blocking agents, such as succinylcholine, tubocurarine, or decamethonium, or to patients receiving massive transfusions of citrated blood.
 If neuromuscular blockade occurs, it may be reversed by the administration of calcium salts.
 
 Cross-allergenicity among aminoglycosides has been demonstrated.
 
-In patients with extensive burns or cystic fibrosis, altered pharmacokinetics may result in reduced serum concentrations of aminoglycosides.
+In patients with extensive burns, altered pharmacokinetics may result in reduced serum concentrations of aminoglycosides.
 In such patients treated with tobramycin, measurement of serum concentration is especially important as a basis for determination of appropriate dosage.
 
 Elderly patients may have reduced renal function that may not be evident in the results of routine screening tests, such as BUN or serum creatinine.
@@ -82,9 +78,7 @@ Such inactivation has not been found in patients with normal renal function who 
 Therapy with tobramycin may result in overgrowth of nonsusceptible organisms.
 If overgrowth of nonsusceptible organisms occurs, appropriate therapy should be initiated.
 
-Tobramycin 40 mg/mL in 50 mL Pharmacy Bulk Package vial does not contain sodium.
-
-## Pregnancy Category D
+## Pregnancy
 
 Aminoglycosides can cause fetal harm when administered to a pregnant woman.
 Aminoglycoside antibiotics cross the placenta, and there have been several reports of total irreversible bilateral congenital deafness in children whose mothers received streptomycin during pregnancy.
@@ -106,6 +100,8 @@ Dose reduction is required for patients with impaired renal function (see DOSAGE
 Elderly patients may have reduced renal function that may not be evident in the results of routine screening tests, such as BUN or serum creatinine.
 A creatinine clearance determination may be more useful.
 Monitoring of renal function during treatment with aminoglycosides is particularly important in the elderly (see PRECAUTIONS).
+
+This product does not contain sodium.
 
 ## Information for Patients
 

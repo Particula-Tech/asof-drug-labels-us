@@ -19,7 +19,7 @@ In patients with normal renal function, up to 84% of the dose is recoverable fro
 
 Peak urine concentrations ranging from 75 to 100 mcg/mL have been observed following the intramuscular injection of a single dose of 1 mg/kg.
 After several days of treatment, the amount of tobramycin excreted in the urine approaches the daily dose administered.
-When renal function is impaired, excretion of tobramycin is slowed, and accumulation of the drug may cause toxic blood levels.
+When renal function is impaired, excretion of tobramycin sulfate is slowed, and accumulation of the drug may cause toxic blood levels.
 
 The serum half-life in normal individuals is 2 hours.
 An inverse relationship exists between serum half-life and creatinine clearance, and the dosage schedule should be adjusted according to the degree of renal impairment (see DOSAGE AND ADMINISTRATION).
@@ -70,7 +70,7 @@ Aerobic and facultative Gram-negative microorganisms
 | Proteus mirabilis | Proteus vulgaris | Providencia sp |
 | Serratia sp |  |  |
 
-Aminoglycosides have a low order of activity against most gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
+Aminoglycosides have a low order of activity against most Gram-positive organisms, including Streptococcus pyogenes, Streptococcus pneumoniae, and enterococci.
 
 ## Susceptibility Tests
 

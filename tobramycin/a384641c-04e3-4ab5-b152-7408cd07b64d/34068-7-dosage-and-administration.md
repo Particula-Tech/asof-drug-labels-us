@@ -16,9 +16,9 @@ The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
 To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
 Table 1.
-DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN INJECTION, USP IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
+DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN FOR INJECTION, USP IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
 
-| For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life-Threatening Injections(Reduce as soon as possible) |  |  |
+| For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life- hreatening Injections(Reduce as soon as possible) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | kg | lb | 1 mg/kg q8h (Total, 3 mg/kg/day) |  |  | 1.66 mg/kg q8h(Total, 5 mg/kg/day) |  |  |
 |  |  | mg/dose |  | mL/dose | mg/dose |  | mL/dose |
@@ -41,9 +41,7 @@ DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN INJECTION, USP IN ADULTS WITH NORMAL RENAL 
 | 45 | 99 | 45 mg |  | 1.1 mL | 75 mg |  | 1.9 mL |
 | 40 | 88 | 40 mg |  | 1 mL | 66 mg |  | 1.6 mL |
 
-*Applicable to all product forms except Tobramycin Injection, USP, 10 mg/mL (Pediatric).
-
-Pediatric Patients (greater than 1 week of age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
+Pediatric Patients (Greater Than 1 week of age): 6 to 7.5 mg/kg/day in 3 or 4 equally divided doses (2 to 2.5 mg/kg every 8 hours or 1.5 to 1.89 mg/kg every 6 hours).
 
 Premature or Full-Term Neonates 1 Week of Age or Less: Up to 4 mg/kg/day may be administered in 2 equal doses every 12 hours.
 
@@ -66,8 +64,8 @@ Whenever possible, serum tobramycin concentrations should be monitored during th
 
 Following a loading dose of 1 mg/kg, subsequent dosage in these patients must be adjusted, either with reduced doses administered at 8-hour intervals or with normal doses given at prolonged intervals.
 Both of these methods are suggested as guides to be used when serum levels of tobramycin cannot be measured directly.
-They are based on either the creatinine clearance level or the serum creatinine level of the patient because these values correlate with the half-life of tobramycin.
-The dosage schedule derived from either method should be used in conjunction with careful clinical and laboratory observations of the patient and should be modified as necessary.
+They are based on either the creatinine clearance level or the serum creatinine level of the patient, because these values correlate with the half-life of tobramycin.
+The dosage schedules derived from either method should be used in conjunction with careful clinical and laboratory observations of the patient and should be modified as necessary.
 Neither method should be used when dialysis is being performed.
 
 ## Reduced Dosage at 8-hour Intervals
@@ -89,7 +87,7 @@ The appropriate dose may be calculated by using the patient’s estimated lean b
 For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
 For pediatric patients, the volume of diluent should be proportionately less than that for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
-Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see Warningsbox).
+Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see WARNINGSbox).
 
 Tobramycin for Injection, USP should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
 
@@ -101,16 +99,15 @@ Use Aseptic Technique - Not for Direct Infusion
 
 The pharmacy bulk package is for use in a Pharmacy Admixture Service only.
 
-1.
-During use, container must be stored and all manipulations performed in an appropriate laminar flow hood.
-2.
-Remove cover from container and cleanse closure with antiseptic.
-3.
-A single entry through the vial closure should be made with a sterile dispensing set which allows measured dispensing of the contents.
-Transfer individual dose(s) to appropriate intravenous infusion solutions without delay.
-Use of a syringe with needle is not recommended as it may cause leakage.
-Multiple entries will also increase the potential of microbial and particulate contamination.
-The above process should be carried out under a laminar flow hood using aseptic technique.
-ANY UNUSED PORTION MUST BE DISCARDED WITHIN 4 HOURS.
+1. For hanger application, peel off the paper liner from both ends of the tape hanger to expose 3/4 in. long adhesive portions.
+   Adhere each end to the label on the bottle.
+2. During use, container must be stored and all manipulations performed in an appropriate laminar flow hood.
+3. Remove cover from container and cleanse closure with antiseptic.
+4. A single entry through the vial closure should be made with a sterile dispensing set which allows measured dispensing of the contents.
+   Transfer individual dose(s) to appropriate intravenous infusion solutions without delay.
+   Use of a syringe with needle is not recommended as it may cause leakage.
+   Multiple entries will also increase the potential of microbial and particulate contamination.
+   The above process should be carried out under a laminar flow hood using aseptic technique.
+   ANY UNUSED PORTION MUST BE DISCARDED WITHIN 24 HOURS.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration whenever solution and container permit.
