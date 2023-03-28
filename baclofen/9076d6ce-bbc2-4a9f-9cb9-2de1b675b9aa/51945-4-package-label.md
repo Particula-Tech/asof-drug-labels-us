@@ -1,14 +1,14 @@
 # PRINCIPAL DISPLAY PANEL - Bottle Label
 
-NDC 52652-60001-1 Rx Only
+NDC 52652-6001-1 Rx Only
 
-FLEQSUVY™ (baclofen oral suspension)
+FLEQSUVY® (baclofen oral suspension)
 
 25 mg per 5 mL (5 mg/mL) Concentrated Formulation
 
 ATTENTION: This is a concentrated baclofen formulation of 25 mg/5 mL (5 mg/mL).
 
-Manufactured for: azurity® pharmaceuticals Wilmington, MA 01887 USA
+Manufactured for: azurity® pharmaceuticals Woburn, MA 01801 USA
 
 120 mL
 
