@@ -57,7 +57,7 @@ Summary of Initial Oral Tacrolimus Capsules Dosage Recommendations and Whole Blo
 | Heart Transplant |  |  |
 | With azathioprine or MMF | 0.075 mg/kg/day, divided in two doses, administered every 12 hours | Month 1 to 3: 10 to 20 ng/mL Month ≥ 4: 5 to 15 ng/mL |
 | Lung Transplant |  |  |
-| With azathioprine or MMF | 0.075 mg/kg/day3, divided in two doses, administered every 12 hours | Month 1to 3: 10 to 15 ng/mL Month 4 to 12: 8 to 12 ng/mL |
+| With azathioprine or MMF | 0.075 mg/kg/day3, divided in two doses, administered every 12 hours | Month 1 to 3: 10 to 15 ng/mL Month 4 to 12: 8 to 12 ng/mL |
 
 1 African-American patients may require higher doses compared to Caucasians (see Table 2).
 
@@ -114,7 +114,7 @@ Summary of Initial Tacrolimus Capsule Dosing Recommendations and Whole Blood Tro
 | Patient Population | Initial Tacrolimus Capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
 | Pediatric liver transplant patients2 | 0.15 to 0.2 mg/kg/day capsules divided in two doses, administered every 12 hours | Month 1 to 12: 5 to 20 ng/mL |
-| Pediatri lung transplant patients | 0.3 mg/kg/day3,4 capsules, divided in two doses, administered every 12 hours | Week 1-2: 10 to 20 ng/mL Week 2 to Month 12: 10to 15 ng/mL |
+| Pediatri lung transplant patients | 0.3 mg/kg/day3,4 capsules, divided in two doses, administered every 12 hours | Week 1-2: 10 to 20 ng/mL Week 2 to Month 12: 10 to 15 ng/mL |
 
 2.
 See Clinical Studies (14.2), Liver Transplantation.
@@ -139,14 +139,14 @@ For pediatric liver transplant patients, the intravenous dose is 0.03 to 0.05 mg
 Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-## 2.4 Dosage Adjustment in Patients with Renal Impairment
+## 2.4 Dosage Modification for Patients with Renal Impairment
 
 Due to its potential for nephrotoxicity, consider dosing tacrolimus capsules at the lower end of the therapeutic dosing range in patients who have received a liver, heart or lung transplant and have pre-existing renal impairment.
 Further reductions in dose below the targeted range may be required.
 
 In kidney transplant patients with post-operative oliguria, the initial dose of tacrolimus capsules should be administered no sooner than 6 hours and within 24 hours of transplantation, but may be delayed until renal function shows evidence of recovery [see Dosage and Administration (2.2), Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 2.5 Dosage Adjustment in Patients with Hepatic Impairment
+## 2.5 Dosage Modification for Patients with Hepatic Impairment
 
 Due to the reduced clearance and prolonged half-life, patients with severe hepatic impairment (Child-Pugh ≥ 10) may require lower doses of tacrolimus capsules.
 Close monitoring of blood concentrations is warranted.

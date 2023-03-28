@@ -16,11 +16,11 @@ Advise the patient or caregiver to:
 ## 17.2 Development of Lymphoma and Other Malignancies
 
 Inform patients they are at increased risk of developing lymphomas and other malignancies, particularly of the skin, due to immunosuppression.
-Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Boxed Warning and Warnings and Precautions (5.1)].
+Advise patients to limit exposure to sunlight and ultraviolet (UV) light by wearing protective clothing and using a broad spectrum sunscreen with a high protection factor [see Warnings and Precautions (5.1)].
 
 ## 17.3 Increased Risk of Infection
 
-Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Boxed Warning and Warnings and Precautions(5.2)].
+Inform patients they are at increased risk of developing a variety of infections, including opportunistic infections, due to immunosuppression and to contact their physician if they develop any symptoms of infection such as fever, sweats or chills, cough or flu-like symptoms, muscle aches, or warm, red, painful areas on the skin [see Warnings and Precautions(5.2)].
 
 ## 17.4 New Onset Diabetes After Transplant
 
@@ -46,12 +46,19 @@ Monitoring of potassium levels may be necessary, especially with concomitant use
 Inform patients that tacrolimus can cause high blood pressure which may require treatment with antihypertensive therapy.
 Advise patients to monitor their blood pressure [see Warnings and Precautions (5.8)].
 
-## 17.9 Drug Interactions
+## 17.9 Thrombotic Microangiopathy
+
+Inform patients that tacrolimus capsules can cause blood clotting problems.
+The risk of this occurring increases when patients take tacrolimus capsules and sirolimus or everolimus concomitantly, or when patients develop certain infections.
+Advise them to seek medical attention promptly if they develop fever, petequiae or bruises, fatigue, confusion, jaundice, oliguria.
+[see Warnings and Precautions (5.16)].
+
+## 17.10 Drug Interactions
 
 Instruct patients to tell their healthcare providers when they start or stop taking any medicines, including prescription medicines and nonprescription medicines, natural or herbal remedies, nutritional supplements, and vitamins.
 Advise patients to avoid grapefruit and grapefruit juice [see Drug Interactions (7)].
 
-## 17.10 Pregnancy, Lactation and Infertility
+## 17.11 Pregnancy, Lactation and Infertility
 
 Inform women of childbearing potential that tacrolimus can harm the fetus.
 Instruct male and female patients to discuss with their healthcare provider family planning options including appropriate contraception.
@@ -62,11 +69,11 @@ To enroll or register, patients can call the toll free number 1-877-955-6877 or 
 
 Based on animal studies, tacrolimus may affect fertility in males and females [see Nonclinical Toxicology (13.1)].
 
-## 17.11 Myocardial Hypertrophy
+## 17.12 Myocardial Hypertrophy
 
 Inform patients to report symptoms of tiredness, swelling, and/or shortness of breath (heart failure).
 
-## 17.12 Immunizations
+## 17.13 Immunizations
 
 Inform patients that tacrolimus can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
 
@@ -80,4 +87,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally – 500 090 INDIA
 
-Revised: 0121
+Revised: 11/2022

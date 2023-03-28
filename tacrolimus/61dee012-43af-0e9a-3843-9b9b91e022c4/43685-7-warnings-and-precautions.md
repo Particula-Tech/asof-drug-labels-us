@@ -40,13 +40,16 @@ New onset diabetes after transplantation may be reversible in some patients.
 African-American and Hispanic kidney transplant patients are at an increased risk.
 Blood glucose concentrations should be monitored closely in patients using tacrolimus [see Adverse Reactions (6.1)].
 
-## 5.5 Nephrotoxicity
+## 5.5 Nephrotoxicity due to Tacrolimus and Drug Interactions
 
-Tacrolimus, like other calcineurin inhibitors, can cause acute or chronic nephrotoxicity.
+Tacrolimus, like other calcineurin inhibitors, can cause acute or chronic nephrotoxicity. in transplant patients due to its vasoconstrictive effect on renal vasculature, toxic tubulopathy and tubular-interstitial effects.
 Nephrotoxicity was reported in clinical trials [see Adverse Reactions (6.1)].
-Consider dosage reduction in patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range.
-The risk for nephrotoxicity may increase when tacrolimus is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors) [see Drug Interactions (7.2)].
-Monitor renal function and consider dosage reduction if nephrotoxicity occurs.
+
+Acute renal impairment associated with tacrolimus toxicity can result in high serum creatinine, hyperkalemia, decreased secretion of urea and hyperuricemia, and is usually reversible.
+In patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range, consider dosage reduction or temporary interruption of tacrolimus administration.
+
+The risk for nephrotoxicity may increase when tacrolimus is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors).
+When tacrolimus is used concurrently with other known nephrotoxic drugs, monitor renal function and tacrolimus blood concentrations, and adjust doses of both tacrolimus and/or concomitant medications during concurrent use [see Drug Interactions (7.2)].
 
 ## 5.6 Neurotoxicity
 
@@ -80,6 +83,7 @@ Tacrolimus capsules are not recommended for use with sirolimus:
 
 - The use of sirolimus with tacrolimus in studies of de novo liver transplant patients was associated with an excess mortality, graft loss, and hepatic artery thrombosis (HAT) and is not recommended.
 - The use of sirolimus (2 mg per day) with tacrolimus in heart transplant patients in a U.S. trial was associated with increased risk of renal function impairment, wound healing complications, and insulin-dependent post-transplant diabetes mellitus, and is not recommended [see Clinical Studies (14.3)].
+- The use of sirolimus with tacrolimus capsules may increase the risk of thrombotic microangiopathy [see Warnings and Precautions (5.16)].
 
 ## 5.11 Interactions with CYP3A4 Inhibitors and Inducers
 
@@ -88,7 +92,7 @@ Early and frequent monitoring of tacrolimus whole blood trough levels is recomme
 
 ## 5.12 QT Prolongation
 
-Tacrolimus may prolong the QT/QTc interval and may cause Torsade de Pointes.
+Tacrolimus may prolong the QT/QTc interval and may cause Torsades de pointes.
 Avoid tacrolimus in patients with congenital long QT syndrome.
 In patients with congestive heart failure, bradyarrhythmias, those taking certain antiarrhythmic medications or other medicinal products that lead to QT prolongation, and those with electrolyte disturbances such as hypokalemia, hypocalcemia, or hypomagnesemia, consider obtaining electrocardiograms and monitoring electrolytes (magnesium, potassium, calcium) periodically during treatment.
 
@@ -116,3 +120,11 @@ Cases of pure red cell aplasia (PRCA) have been reported in patients treated wit
 A mechanism for tacrolimus-induced PRCA has not been elucidated.
 All patients reported risk factors for PRCA such as parvovirus B19 infection, underlying disease, or concomitant medications associated with PRCA.
 If PRCA is diagnosed, discontinuation of tacrolimus should be considered [see Adverse Reactions (6.2)].
+
+## 5.16 Thrombotic Microangiopathy (Including Hemolytic Uremic Syndrome and Thrombotic Thrombocytopenic Purpura)
+
+Cases of thrombotic microangiopathy (TMA), including hemolytic uremic syndrome (HUS) and thrombotic thrombocytopenic purpura (TTP), have been reported in patients treated with tacrolimus capsules.
+TMA may have a multifactorial etiology.
+Risk factors for TMA that can occur in transplant patients include, for example, severe infections, graft-versus­host disease (GVHD), Human Leukocyte Antigen (HLA) mismatch, the use of calcineurin inhibitors and mammalian target of rapamycin (mTOR) inhibitors.
+These risk factors may, either alone or combined, contribute to the risk of TMA.In patients with signs and symptoms of TMA, consider tacrolimus as a risk factor.
+Concurrent use of tacrolimus and mTOR inhibitors may contribute to the risk of TMA.

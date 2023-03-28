@@ -12,6 +12,7 @@ The following serious and otherwise important adverse drug reactions are discuss
 - Anaphylactic Reactions with Tacrolimus Injection [see Warnings and Precautions (5.9)]
 - Myocardial Hypertrophy [see Warnings and Precautions (5.13)]
 - Pure Red Cell Aplasia [see Warnings and Precautions (5.15)]
+- Thrombotic Microangiopathy, Including Hemolytic Uremic Syndrome and Thrombotic Thrombocytopenic Purpura [see Warnings and Precautions (5.16)]
 
 ## 6.1 Clinical Studies Experience
 
@@ -124,7 +125,7 @@ Kidney Transplantation: Adverse Reactions Occurring in ≥ 15% of Patients Treat
 | Urinary Tract Infection | 26% | 22% |
 | Blood Creatinine Increased | 23% | 23% |
 
-Less frequently observed adverse reactions in kidney transplantation patients are described under the subsection Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, and Heart Transplant Studies.”
+Less frequently observed adverse reactions in kidney transplantation patients are described under the subsection "Less Frequently Reported Adverse Reactions (> 3% and < 15%) in Liver, Kidney, and Heart Transplant Studies.”
 
 Liver Transplantation
 
@@ -136,7 +137,7 @@ The trial population had a mean age of 46 years (range 15 to 68); the distributi
 
 The proportion of patients reporting more than one adverse event was > 99% in both the tacrolimus group and the CsA/AZA group.
 Precautions must be taken when comparing the incidence of adverse reactions in the U.S. trial to that in the European trial.
-The 12-month post-transplant information from the U.S. trial and from the European trial is presented below.
+The 12 month post-transplant information from the U.S. trial and from the European trial is presented below.
 The two trials also included different patient populations and patients were treated with immunosuppressive regimens of differing intensities.
 Adverse reactions reported in ≥15% in tacrolimus patients (combined trial results) are presented below for the two controlled trials in liver transplantation.
 
@@ -367,9 +368,9 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Other reactions include:
 
-- Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsade de Pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
+- Cardiovascular: Atrial fibrillation, atrial flutter, cardiac arrhythmia, cardiac arrest, electrocardiogram T wave abnormal, flushing, myocardial infarction, myocardial ischemia, pericardial effusion, QT prolongation, Torsades de pointes, venous thrombosis deep limb, ventricular extrasystoles, ventricular fibrillation, myocardial hypertrophy
 - Gastrointestinal: Bile duct stenosis, colitis, enterocolitis, gastroenteritis, gastrooesophageal reflux disease, hepatic cytolysis, hepatic necrosis, hepatotoxicity, impaired gastric emptying, liver fatty, mouth ulceration, pancreatitis hemorrhagic, pancreatitis necrotizing, stomach ulcer, veno-occlusive liver disease
-- Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia
+- Hemic/Lymphatic: Agranulocytosis, disseminated intravascular coagulation, hemolytic anemia, neutropenia, febrile neutropenia, pancytopenia, thrombocytopenic purpura, thrombotic thrombocytopenic purpura, pure red cell aplasia thrombotic microangiopathy
 - Infections: Cases of progressive multifocal leukoencephalopathy (PML), sometimes fatal; -polyoma virus-associated nephropathy (PVAN) including graft loss
 - Metabolic/Nutritional: Glycosuria, increased amylase including pancreatitis, weight decreased
 - Miscellaneous: Feeling hot and cold, feeling jittery, hot flushes, multi-organ failure, primary graft dysfunction

@@ -101,7 +101,7 @@ Risk Summary
 
 Controlled lactation studies have not been conducted in humans; however, tacrolimus has been reported to be present in human milk.
 The effects of tacrolimus on the breastfed infant, or on milk production have not been assessed.
-Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies, exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [seeNonclinical Toxicology (13.1)].
+Tacrolimus is excreted in rat milk and in peri-/postnatal rat studies, exposure to tacrolimus during the postnatal period was associated with developmental toxicity in the offspring at clinically relevant doses [seeUse in Specific Populations (8.1) and Nonclinical Toxicology(13.1)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for tacrolimus and any potential adverse effects on the breastfed child from tacrolimus or from the underlying maternal condition.
 

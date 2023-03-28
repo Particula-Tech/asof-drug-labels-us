@@ -92,7 +92,7 @@ Elimination
 
 Metabolism
 
-Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
+Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A 4 and CYP3A5).
 A metabolic pathway leading to the formation of 8 possible metabolites has been proposed.
 Demethylation and hydroxylation were identified as the primary mechanisms of biotransformation in vitro.
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.
@@ -128,7 +128,7 @@ The absolute bioavailability was 19±14%.
 
 Whole blood trough concentrations from 31 patients less than 12 years old showed that pediatric patients needed higher doses than adults to achieve similar tacrolimus trough concentrations [see Dosage and Administration (2.3)].
 
-Renal and Hepatic Impairment Patients
+Renal and Hepatic Impaired Patients
 
 The mean pharmacokinetic parameters for tacrolimus following single administrations to adult patients with renal and hepatic impairment are given in Table 19.
 
@@ -170,7 +170,7 @@ Racial or Ethnic Groups
 
 The pharmacokinetics of tacrolimus have been studied following single IV and oral administration of tacrolimus to 10 African-American, 12 Latino-American, and 12 Caucasian healthy volunteers.
 There were no significant pharmacokinetic differences among the three ethnic groups following a 4-hour IV infusion of 0.015 mg/kg.
-However, after single oral administration of 5 mg, mean (±SD) tacrolimus Cmax in African-Americans (23.6±12.1 ng/mL) was significantly lower than in Caucasians (40.2±12.6 ng/mL) and Latino-Americans (36.2±15.8 ng/mL) (p<0.01).
+However, after single oral administration of 5 mg, mean (±SD) tacrolimus Cmax in African-Americans (23.6±12.1 ng/mL) was significantly lower than in Caucasians (40.2±12.6 ng/mL) and the Latino-Americans (36.2±15.8 ng/mL) (p<0.01).
 Mean AUC0-inf tended to be lower in African-Americans (203±115 ng·hr/mL) than Caucasians (344±186 ng·hr/mL) and Latino- Americans (274±150 ng·hr/mL).
 The mean (±SD) absolute oral bioavailability (F) in African-Americans (12±4.5%) and Latino-Americans (14±7.4%) was significantly lower than in Caucasians (19±5.8%, p=0.011).
 There was no significant difference in mean terminal T1/2 among the three ethnic groups (range from approximately 25 to 30 hours).
@@ -205,7 +205,7 @@ Voriconazole (see complete prescribing information for VFEND): Repeat oral dose 
 
 Posaconazole (see complete prescribing information for Noxafil): Repeat oral administration of posaconazole (400 mg twice daily for 7 days) increased tacrolimus (0.05 mg/kg single dose) Cmax and AUC in healthy subjects by an average of 2-fold (90% CI: 2.01, 2.42) and 4.5-fold (90% CI 4.03, 5.19), respectively [see Drug Interactions (7.2)].
 
-Caspofungin (see complete prescribing information for CANCIDAS): Caspofungin reduced the blood AUC0-12 of tacrolimus by approximately 20%, peak blood concentration (Cmax) by 16%, and 12-hour blood concentration (C12hr) by 26% in healthy adult subjects when tacrolimus (2 doses of 0.1 mg/kg 12 hours apart) was administered on the 10th day of CANCIDAS 70 mg daily, as compared to results from a control period in which tacrolimus was administered alone [see Drug Interactions (7.2)].
+Caspofungin (see complete prescribing information for CANCIDAS): Caspofungin reduced the blood AUC0-12 of tacrolimus by approximately 20%, peak blood concentration (Cmax) by 16%, and 12-hour blood concentration (C12hr) by 26% in healthy adult subjects when tacrolimus (2 doses of 0.1 mg/kg 12 hours apart) was administered on the 10th day of CANCIDAS 70 mg daily, as compared to results from a control period in which tacrolimus was administered alone [see Drug Interactions (7.2)].The mechanism of interaction has not been confirmed.
 
 Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
 However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
