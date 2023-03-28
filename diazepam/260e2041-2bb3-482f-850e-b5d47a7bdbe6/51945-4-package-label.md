@@ -28,7 +28,7 @@ Rx only
 
 100 tablets
 
-Waylis THERAPEUTICS
+WaylisTHERAPEUTICS
 
 # PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
 
