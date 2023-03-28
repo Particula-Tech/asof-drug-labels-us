@@ -13,12 +13,12 @@ Instructions for using the Carpuject Syringe are available with the reusable Car
 
 Directions for Dilution for intravenous use.
 
-1. Carpuject™: Extrude the entire amount of air in the partially-filled cartridge.
-2. Slowly aspirate the desired volume of diluent.
+1. 1.Carpuject™: Extrude the entire amount of air in the partially-filled cartridge.
+2. 2.Slowly aspirate the desired volume of diluent.
    Do not exceed the volume of the drug.
-3. Do not add additional medication to the syringe.
-4. Pull back slightly on the plunger to provide additional mixing space.
-5. Immediately mix contents thoroughly by gently inverting syringe or cartridge repeatedly until a homogenous solution results.
+3. 3.Do not add additional medication to the syringe.
+4. 4.Pull back slightly on the plunger to provide additional mixing space.
+5. 5.Immediately mix contents thoroughly by gently inverting syringe or cartridge repeatedly until a homogenous solution results.
    Do not shake vigorously, as this will result in air entrapment.
 
 For intramuscular use.

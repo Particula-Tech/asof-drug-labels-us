@@ -87,26 +87,12 @@ CARE SHOULD BE TAKEN TO DETERMINE THAT ANY INJECTION WILL NOT BE INTRA-ARTERIAL 
 IN THE EVENT THAT A PATIENT COMPLAINS OF PAIN DURING INTENDED INTRAVENOUS INJECTION OF LORAZEPAM INJECTION, THE INJECTION SHOULD BE STOPPED IMMEDIATELY TO DETERMINE IF INTRA-ARTERIAL INJECTION OR PERIVASCULAR EXTRAVASATION HAS TAKEN PLACE.
 
 Since the liver is the most likely site of conjugation of lorazepam and since excretion of conjugated lorazepam (glucuronide) is a renal function, this drug is not recommended for use in patients with hepatic and/or renal failure.
-Lorazepam should be used with caution in patients with mild-to-moderate hepatic or renal disease (see DOSAGE AND ADMINISTRATION).
+Lorazepam should be used with caution in patients with mild-to-moderate hepatic or renal disease (seeDOSAGE AND ADMINISTRATION).
 
-## Pregnancy
+## Neonatal Sedation and Withdrawal Syndrome
 
-LORAZEPAM MAY CAUSE FETAL DAMAGE WHEN ADMINISTERED TO PREGNANT WOMEN.
-Ordinarily, Lorazepam injection should not be used during pregnancy except in serious or life-threatening conditions where safer drugs cannot be used or are ineffective.
-Status epilepticus may represent such a serious and life-threatening condition.
-
-An increased risk of congenital malformations associated with the use of minor tranquilizers (chlordiazepoxide, diazepam and meprobamate) during the first trimester of pregnancy has been suggested in several studies.
-In humans, blood levels obtained from umbilical cord blood indicate placental transfer of lorazepam and lorazepam glucuronide.
-
-Reproductive studies in animals were performed in mice, rats, and two strains of rabbits.
-Occasional anomalies (reduction of tarsals, tibia, metatarsals, malrotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage.
-Although all of these anomalies were not present in the concurrent control group, they have been reported to occur randomly in historical controls.
-At doses of 40 mg/kg orally or 4 mg/kg intravenously and higher, there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen at lower doses.
-
-The possibility that a woman of childbearing potential may be pregnant at the time of therapy should be considered.
-
-There are insufficient data regarding obstetrical safety of parenteral lorazepam, including use in cesarean section.
-Such use, therefore, is not recommended.
+Use of Lorazepam injection late in pregnancy can result in sedation (respiratory depression. lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS, Pregnancy).
+Monitor neonates exposed to Lorazepam injection during pregnancy or labor for signs of sedation and monitor neonates exposed to Lorazepam injection during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 ## Usage in Preterm Infants and Neonates
 
@@ -122,7 +108,7 @@ If the patient requires more than the recommended dosages or other medications c
 
 Published animal studies demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity increase neuronal apoptosis in the developing brain and result in long-term cognitive deficits when used for longer than 3 hours.
 The clinical significance of these findings is not clear.
-However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS, Pregnancy, Pediatric Use; ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
+However, based on the available data, the window of vulnerability to these changes is believed to correlate with exposures in the third trimester of gestation through the first several months of life, but may extend out to approximately three years of age in humans (see PRECAUTIONS, Pregnancy, Pediatric Use;ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 Some published studies in children suggest that similar deficits may occur after repeated or prolonged exposures to anesthetic agents early in life and may result in adverse cognitive or behavioral effects.
 These studies have substantial limitations, and it is not clear if the observed effects are due to the anesthetic/sedation drug administration or other factors such as the surgery or underlying illness.
@@ -177,7 +163,7 @@ Patients should be informed of the pharmacological effects of the drug, includin
 
 Patients who receive lorazepam injection as a premedicant should be cautioned that driving a motor vehicle, operating machinery, or engaging in hazardous or other activities requiring attention and coordination, should be delayed for 24 to 48 hours following the injection or until the effects of the drug, such as drowsiness, have subsided, whichever is longer.
 Sedatives, tranquilizers and narcotic analgesics may produce a more prolonged and profound effect when administered along with injectable lorazepam.
-This effect may take the form of excessive sleepiness or drowsiness and, on rare occasions, interfere with recall and recognition of events of the day of surgery and the day after.
+This effect may take the form of excessive sleepiness or drowsiness and on rare occasions, interfere with recall and recognition of events of the day of surgery and the day after.
 
 Patients should be advised that getting out of bed unassisted may result in falling and injury if undertaken within 8 hours of receiving lorazepam injection.
 Since tolerance for CNS depressants will be diminished in the presence of lorazepam injection, these substances should either be avoided or taken in reduced dosage.
@@ -189,6 +175,18 @@ Elderly patients should be told that lorazepam injection may make them very slee
 Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
 Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs (see WARNINGS, Pediatric Neurotoxicity).
 
+## Pregnancy
+
+Advise pregnant females who are administered Lorazepam injection late in pregnancy that Lorazepam injection can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS, Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Lorazepam injection during pregnancy (see PRECAUTIONS, Pregnancy).
+
+## Nursing
+
+Instruct patients to notify their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who are administered Lorazepam injection to monitor infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS, Nursing Mothers).
+
 ## Laboratory Tests
 
 In clinical trials, no laboratory test abnormalities were identified with either single or multiple doses of lorazepam injection.
@@ -196,7 +194,7 @@ These tests included: CBC, urinalysis, SGOT, SGPT, bilirubin, alkaline phosphata
 
 ## Drug Interactions
 
-### Interaction With Benzodiazepines and Other CNS Depressants
+## Interaction With Benzodiazepines and Other CNS Depressants
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
@@ -208,7 +206,7 @@ When scopolamine is used concomitantly with injectable lorazepam, an increased i
 
 There have been rare reports of significant respiratory depression, stupor and/or hypotension with the concomitant use of loxapine and lorazepam.
 
-Marked sedation, excessive salivation, ataxia, and, rarely, death have been reported with the concomitant use of clozapine and lorazepam.
+Marked sedation, excessive salivation, ataxia, and rarely, death have been reported with the concomitant use of clozapine and lorazepam.
 
 Apnea, coma, bradycardia, arrhythmia, heart arrest, and death have been reported with the concomitant use of haloperidol and lorazepam.
 
@@ -218,22 +216,22 @@ Therefore, caution is advised if the concomitant administration of lorazepam and
 Concurrent administration of any of the following drugs with lorazepam had no effect on the pharmacokinetics of lorazepam: metoprolol, cimetidine, ranitidine, disulfiram, propranolol, metronidazole, and propoxyphene.
 No change in lorazepam dosage is necessary when concomitantly given with any of these drugs.
 
-### Lorazepam-Valproate Interaction
+## Lorazepam-Valproate Interaction
 
 Concurrent administration of lorazepam (2 mg intravenously) with valproate (250 mg twice daily orally for 3 days) to 6 healthy male subjects resulted in decreased total clearance of lorazepam by 40% and decreased formation rate of lorazepam glucuronide by 55%, as compared with lorazepam administered alone.
 Accordingly, lorazepam plasma concentrations were about two-fold higher for at least 12 hours post-dose administration during valproate treatment.
 Lorazepam dosage should be reduced to 50% of the normal adult dose when this drug combination is prescribed in patients (see DOSAGE AND ADMINISTRATION).
 
-### Lorazepam-Oral Contraceptive Steroids Interaction
+## Lorazepam-Oral Contraceptive Steroids Interaction
 
 Coadministration of lorazepam (2 mg intravenously) with oral contraceptive steroids (norethindrone acetate, 1 mg, and ethinyl estradiol, 50 mcg, for at least 6 months) to healthy females (n=7) was associated with a 55% decrease in half-life, a 50% increase in the volume of distribution, thereby resulting in an almost 3.7-fold increase in total clearance of lorazepam as compared with control healthy females (n=8).
 It may be necessary to increase the dose of lorazepam in female patients who are concomitantly taking oral contraceptives (see DOSAGE AND ADMINISTRATION).
 
-### Lorazepam-Probenecid Interaction
+## Lorazepam-Probenecid Interaction
 
 Concurrent administration of lorazepam (2 mg intravenously) with probenecid (500 mg orally every 6 hours) to 9 healthy volunteers resulted in a prolongation of lorazepam half-life by 130% and a decrease in its total clearance by 45%.
 No change in volume of distribution was noted during probenecid co-treatment.
-Lorazepam dosage needs to be reduced by 50% when coadministered with probenecid (see DOSAGE AND ADMINISTRATION).
+Lorazepam dosage needs to be reduced by 50% when coadministered with probenecid (see DOSAGE AND ADMINISTRATION)
 
 ## Drug/Laboratory Test Interactions
 
@@ -247,27 +245,69 @@ The results of a preimplantation study in rats, in which the oral lorazepam dose
 
 ## Pregnancy
 
-### Teratogenic Effects
+Pregnancy Exposure Registry
 
-(see WARNINGS).
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications including Lorazepam Injection during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medication’s at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+Risk Summary
+
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS, Neonatal Sedation and Withdrawal SyndromeandClinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognizable pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to Lorazepam injection during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to Lorazepam injection during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS, Neonatal Sedation and Withdrawal Syndrome).
+
+## Labor or Delivery
+
+There are insufficient data regarding obstetrical safety of parenteral lorazepam, including use in cesarean section.
+Such use, therefore, is not recommended.
+
+Data
+
+Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+Animal Data
+
+Reproductive studies in animals were performed in mice, rats, and two strains of rabbits.
+Occasional anomalies (reduction of tarsals, tibia, metatarsals, malrotated limbs, gastroschisis, malformed skull, and microphthalmia) were seen in drug-treated rabbits without relationship to dosage.
+Although all of these anomalies were not present in the concurrent control group, they have been reported to occur randomly in historical controls.
+At doses of 40 mg/kg orally or 4 mg/kg intravenously and higher, there was evidence of fetal resorption and increased fetal loss in rabbits which was not seen at lower doses.
+
+## Nursing Mothers
+
+### Risk Summary
+
+Lorazepam is present in breast milk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+The effects of lorazepam on milk production are unknown.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Lorazepam injection and any potential adverse effects on the breastfed infant from Lorazepam injection or from the underlying maternal condition.
+
+#### Clinical Considerations
+
+Infants exposed to Lorazepam injection through breast milk should be monitored for sedation, poor feeding and poor weight gain.
 
 Published studies in pregnant primates demonstrate that the administration of anesthetic and sedation drugs that block NMDA receptors and/or potentiate GABA activity during the period of peak brain development increases neuronal apoptosis in the developing brain of the offspring when used for longer than 3 hours.
-
 There are no data on pregnancy exposures in primates corresponding to periods prior to the third trimester in humans.
 
 In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
 In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
 With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
-The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS, Pediatric Neurotoxicity, Pediatric Use, and ANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
-
-## Labor and Delivery
-
-There are insufficient data to support the use of lorazepam injection during labor and delivery, including cesarean section; therefore, its use in this clinical circumstance is not recommended.
-
-## Nursing Mothers
-
-Lorazepam has been detected in human breast milk.
-Therefore, lorazepam should not be administered to nursing mothers because, like other benzodiazepines, the possibility exists that lorazepam may sedate or otherwise adversely affect the infant.
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits (see WARNINGS,Pediatric Neurotoxicity,Pediatric Use,andANIMAL TOXICOLOGY AND/OR PHARMACOLOGY).
 
 ## Pediatric Use
 

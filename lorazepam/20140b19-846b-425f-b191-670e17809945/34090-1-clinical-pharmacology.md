@@ -43,7 +43,7 @@ A 4-mg dose provides an initial concentration of approximately 70 ng/mL.
 
 Following intramuscular administration, lorazepam is completely and rapidly absorbed reaching peak concentrations within 3 hours.
 A 4-mg dose provides a Cmax of approximately 48 ng/mL.
-Following administration of 1.5 to 5.0 mg of lorazepam intramuscular, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
+Following administration of 1.5 to 5 mg of lorazepam intramuscular, the amount of lorazepam delivered to the circulation is proportional to the dose administered.
 
 ### Distribution/Metabolism/Elimination
 
@@ -94,7 +94,7 @@ Gender has no effect on the pharmacokinetics of lorazepam.
 
 ### Effect of Race
 
-Young Americans (n=15) and Japanese subjects (n=7) had very comparable mean total clearance value of 1.0 mL/min/kg.
+Young Americans (n=15) and Japanese subjects (n=7) had very comparable mean total clearance value of 1 mL/min/kg.
 However, elderly Japanese subjects had a 20% lower mean total clearance than elderly Americans, 0.59 mL/min/kg vs 0.77 mL/min/kg, respectively.
 
 ### Patients with Renal Insufficiency
@@ -103,7 +103,7 @@ Because the kidney is the primary route of elimination of lorazepam glucuronide,
 This should have no direct effect on the glucuronidation (and inactivation) of lorazepam.
 There is a possibility that the enterohepatic circulation of lorazepam glucuronide leads to a reduced efficiency of the net clearance of lorazepam in this population.
 
-Six normal subjects, six patients with renal impairment (Clcr of 22 ± 9 mL/min), and four patients on chronic maintenance hemodialysis were given single 1.5 to 3.0 mg intravenous doses of lorazepam.
+Six normal subjects, six patients with renal impairment (Clcr of 22 ± 9 mL/min), and four patients on chronic maintenance hemodialysis were given single 1.5 to 3 mg intravenous doses of lorazepam.
 Mean volume of distribution and terminal half-life values of lorazepam were 40% and 25% higher, respectively, in renally impaired patients than in normal subjects.
 Both parameters were 75% higher in patients undergoing hemodialysis than in normal subjects.
 Overall, though, in this group of subjects the mean total clearance of lorazepam did not change.

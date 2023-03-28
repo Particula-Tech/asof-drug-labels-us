@@ -23,7 +23,7 @@ Table 1 lists the treatment-emergent adverse events that occurred in the patient
 TABLE 1.
 NUMBER (%) OF STUDY EVENTS IN A DOSE COMPARISON CLINICAL TRIAL
 
-| Body System Event | Lorazepam Injection (n=130): One hundred and thirty (130) patients received Lorazepam Injection. |
+| Body System Event | Lorazepam Injection (n=130): One hundred and thirty (130) patients received Lorazepam injection. |
 | --- | --- |
 | Any Study Event (1 or more): Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 16 (12.3%) |
 | Body as a whole |  |
@@ -61,7 +61,7 @@ The table represents the pooling of results from the two controlled trials.
 TABLE 2.
 NUMBER (%) OF STUDY EVENTS IN ACTIVE CONTROLLED CLINICAL TRIAL
 
-| Body System Event | Lorazepam Injection (n=85): The number indicates the number of "patient-episodes." Patient-episodes were used rather than "patients" because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and, using the same time criterion, 2 patients received diazepam on two occasions. | Diazepam (n=80) |
+| Body System Event | Lorazepam Injection (n=85): The number indicates the number of "patient-episodes." Patient-episodes were used rather than "patients" because a total of 7 patients were reenrolled for the treatment of a second episode of status: 5 patients received Lorazepam injection on two occasions that were far enough apart to establish the diagnosis of status epilepticus for each episode, and using the same time criterion, 2 patients received diazepam on two occasions. | Diazepam (n=80) |
 | --- | --- | --- |
 | Any Study Event (1 or more): Totals are not necessarily the sum of the individual study events because a patient may report two or more different study events in the same body system. | 14 (16.5%) | 11 (13.8%) |
 | Body as a whole |  |  |

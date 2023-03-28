@@ -75,7 +75,7 @@ However, in patients with renal disease, caution should be exercised if frequent
 
 ### Dose Adjustment Due to Drug Interactions
 
-The dose of lorazepam should be reduced by 50% when coadministered with probenecid or valproate (see PRECAUTIONS, Drug Interactions).
+The dose of lorazepam should be reduced by 50% when coadministered with probenecid or valproate (seePRECAUTIONS, Drug Interactions).
 
 It may be necessary to increase the dose of lorazepam in female patients who are concomitantly taking oral contraceptives.
 
