@@ -1,4 +1,4 @@
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com
 
-LAB-0764-4.0
+LAB-0764-5.0

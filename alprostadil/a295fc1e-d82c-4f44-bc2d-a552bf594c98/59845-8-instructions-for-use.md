@@ -118,6 +118,6 @@ Keep CAVERJECT and all medicines out of the reach of children.
 
 This Patient Information and Instructions for Use has been approved by the U.S Food and Drug Administration.
 
-LAB-0009-7.0
+LAB-0009-8.0
 
-Revised December 2022
+Revised March 2023

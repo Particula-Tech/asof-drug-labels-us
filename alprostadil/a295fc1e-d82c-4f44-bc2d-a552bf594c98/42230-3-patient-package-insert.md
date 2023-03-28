@@ -112,11 +112,11 @@ What are the Ingredients in CAVERJECT?
 
 Active ingredient: alprostadil
 
-Inactive ingredients: alpha cyclodextrin, lactose, sodium citrate, benzyl alcohol (contained in the final solution) and hydrochloric acid and/or sodium hydroxide for pH adjustment.
+Inactive ingredients: lactose, sodium citrate, benzyl alcohol (contained in the final solution) and hydrochloric acid and/or sodium hydroxide for pH adjustment.
 
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com
 
-LAB-1045-2.0
+LAB-1045-3.0
 
-Revised: December 2022
+Revised: March 2023
