@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214044"
+  ],
+  "inn": "tramadol",
+  "labeler": "TruPharma, LLC",
+  "package_ndcs": [
+    "52817-615-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tramadol hydrochloride",
+      "name": "Tramadol Hydrochloride"
+    }
+  ],
+  "setid": "aea56ff9-94ac-47a8-8f15-8790d538973b",
+  "source": "dailymed"
+}
