@@ -50,6 +50,8 @@ Pediatric approval for treatment of transfusional iron overload was based on cli
 Seventy percent of these patients had beta-thalassemia [see Indications and Usage (1), Dosage and Administration (2.1), Clinical Studies (14)].
 In those clinical studies, 173 children (ages 2 to < 12 years) and 119 adolescents (ages 12 to < 17 years) were exposed to deferasirox.
 
+A trial conducted in treatment-naïve pediatric patients, 2 to < 18 years of age with transfusional iron overload (NCT02435212) did not provide additional relevant information about the safety or effectiveness of the deferasirox granules dosage form (Jadenu Sprinkle) compared to the deferasirox oral tablets for suspension dosage form (Exjade).
+
 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 
 The safety and effectiveness of deferasirox tablets for oral suspension have been established in patients 10 years of age and older for the treatment of chronic iron overload with non-transfusion-dependent thalassemia (NTDT) syndromes [see Dosage and Administration (2.2)].
@@ -83,9 +85,6 @@ Renal toxicity was observed in adult mice, rats, and marmoset monkeys administer
 In a neonatal and juvenile toxicity study in rats, deferasirox was administered orally from postpartum Day 7 through 70, which equates to a human age range of term neonate through adolescence.
 Increased renal toxicity was identified in juvenile rats compared to adult rats at a dose based on mg/m2 approximately 0.4 times the recommended dose of 20 mg/kg/day.
 A higher frequency of renal abnormalities was noted when deferasirox was administered to non-iron overloaded animals compared to iron overloaded animals.
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s EXJADE® (deferasirox) tablets for oral suspension.
-However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
