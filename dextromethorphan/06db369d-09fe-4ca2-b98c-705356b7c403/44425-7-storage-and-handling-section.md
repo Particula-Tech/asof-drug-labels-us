@@ -8,12 +8,12 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 Rx Only
 
-Manufactured By Perrigo
+Manufactured By Padagis
 
 Minneapolis, MN 55427
 
-2202942
+2204460
 
-0U400 RC J1
+0U426 RC M F1
 
-Rev 04-14 A
+Rev 11-21 A
