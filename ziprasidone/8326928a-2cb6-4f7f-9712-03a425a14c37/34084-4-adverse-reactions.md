@@ -28,19 +28,19 @@ The following adverse reactions were the most commonly observed adverse reaction
 
 Schizophrenia trials (see Table 11)
 
-- Somnolence
-- Respiratory Tract Infection
+- •Somnolence
+- •Respiratory Tract Infection
 
 Bipolar trials (see Table 12)
 
-- Somnolence
-- Extrapyramidal Symptoms which includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
+- •Somnolence
+- •Extrapyramidal Symptoms which includes the following adverse reaction terms: extrapyramidal syndrome, hypertonia, dystonia, dyskinesia, hypokinesia, tremor, paralysis and twitching.
   None of these adverse reactions occurred individually at an incidence greater than 10% in bipolar mania trials.
-- Dizziness which includes the adverse reaction terms dizziness and lightheadedness.
-- Akathisia
-- Abnormal Vision
-- Asthenia
-- Vomiting
+- •Dizziness which includes the adverse reaction terms dizziness and lightheadedness.
+- •Akathisia
+- •Abnormal Vision
+- •Asthenia
+- •Vomiting
 
 SCHIZOPHRENIA
 
@@ -98,7 +98,7 @@ Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to t
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
 
-Vital Sign Changes - Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.9)]
+1. Vital Sign Changes - Ziprasidone is associated with orthostatic hypotension [see Warnings and Precautions (5.9)]
 
 ECG Changes - Ziprasidone is associated with an increase in the QTc interval [see Warnings and Precautions (5.3)].
 In the schizophrenia trials, ziprasidone was associated with a mean increase in heart rate of 1.4 beats per minute compared to a 0.2 beats per minute decrease among placebo patients.

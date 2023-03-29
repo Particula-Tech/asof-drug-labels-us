@@ -9,15 +9,15 @@ Whether ziprasidone will cause torsade de pointes or increase the rate of sudden
 
 Schizophrenia
 
-- GEODON is indicated for the treatment of schizophrenia in adults [see Clinical Studies (14.1)].
+- •GEODON is indicated for the treatment of schizophrenia in adults [see Clinical Studies (14.1)].
 
 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
-- GEODON is indicated as monotherapy for the acute treatment of adults with manic or mixed episodes associated with bipolar I disorder [see Clinical Studies (14.2)].
-- GEODON is indicated as an adjunct to lithium or valproate for the maintenance treatment of bipolar I disorder in adults [see Clinical Studies (14.2)].
+- •GEODON is indicated as monotherapy for the acute treatment of adults with manic or mixed episodes associated with bipolar I disorder [see Clinical Studies (14.2)].
+- •GEODON is indicated as an adjunct to lithium or valproate for the maintenance treatment of bipolar I disorder in adults [see Clinical Studies (14.2)].
 
 Acute Treatment of Agitation in Schizophrenia
 
-- GEODON intramuscular is indicated for the treatment of acute agitation in schizophrenic adult patients for whom treatment with ziprasidone is appropriate and who need intramuscular antipsychotic medication for rapid control of agitation [see Clinical Studies (14.1)].
+- •GEODON intramuscular is indicated for the treatment of acute agitation in schizophrenic adult patients for whom treatment with ziprasidone is appropriate and who need intramuscular antipsychotic medication for rapid control of agitation [see Clinical Studies (14.1)].
 
 Since there is no experience regarding the safety of administering ziprasidone intramuscular to schizophrenic patients already taking oral ziprasidone, the practice of co-administration is not recommended.

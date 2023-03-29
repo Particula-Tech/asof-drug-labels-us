@@ -16,15 +16,15 @@ In addition, the Scale for Assessing Negative Symptoms (SANS) was employed for a
 
 The results of the oral ziprasidone trials in schizophrenia follow:
 
-- In a 4-week, placebo-controlled trial (n=139) comparing 2 fixed doses of ziprasidone (20 and 60 mg twice daily) with placebo, only the 60 mg dose was superior to placebo on the BPRS total score and the CGI severity score.
+- •In a 4-week, placebo-controlled trial (n=139) comparing 2 fixed doses of ziprasidone (20 and 60 mg twice daily) with placebo, only the 60 mg dose was superior to placebo on the BPRS total score and the CGI severity score.
   This higher dose group was not superior to placebo on the BPRS psychosis cluster or on the SANS.
-- In a 6-week, placebo-controlled trial (n=302) comparing 2 fixed doses of ziprasidone (40 and 80 mg twice daily) with placebo, both dose groups were superior to placebo on the BPRS total score, the BPRS psychosis cluster, the CGI severity score and the PANSS total and negative subscale scores.
+- •In a 6-week, placebo-controlled trial (n=302) comparing 2 fixed doses of ziprasidone (40 and 80 mg twice daily) with placebo, both dose groups were superior to placebo on the BPRS total score, the BPRS psychosis cluster, the CGI severity score and the PANSS total and negative subscale scores.
   Although 80 mg twice daily had a numerically greater effect than 40 mg twice daily, the difference was not statistically significant.
-- In a 6-week, placebo-controlled trial (n=419) comparing 3 fixed doses of ziprasidone (20, 60, and 100 mg twice daily) with placebo, all three dose groups were superior to placebo on the PANSS total score, the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
+- •In a 6-week, placebo-controlled trial (n=419) comparing 3 fixed doses of ziprasidone (20, 60, and 100 mg twice daily) with placebo, all three dose groups were superior to placebo on the PANSS total score, the BPRS total score, the BPRS psychosis cluster, and the CGI severity score.
   Only the 100 mg twice daily dose group was superior to placebo on the PANSS negative subscale score.
   There was no clear evidence for a dose-response relationship within the 20 mg twice daily to 100 mg twice daily dose range.
-- In a 4-week, placebo-controlled trial (n=200) comparing 3 fixed doses of ziprasidone (5, 20, and 40 mg twice daily), none of the dose groups was statistically superior to placebo on any outcome of interest.
-- A study was conducted in stable chronic or subchronic (CGI-S ≤5 at baseline) schizophrenic inpatients (n=294) who had been hospitalized for not less than two months.
+- •In a 4-week, placebo-controlled trial (n=200) comparing 3 fixed doses of ziprasidone (5, 20, and 40 mg twice daily), none of the dose groups was statistically superior to placebo on any outcome of interest.
+- •A study was conducted in stable chronic or subchronic (CGI-S ≤5 at baseline) schizophrenic inpatients (n=294) who had been hospitalized for not less than two months.
   After a 3-day single-blind placebo run-in, subjects were randomized to one of 3 fixed doses of ziprasidone (20 mg, 40 mg, or 80 mg twice daily) or placebo and observed for relapse.
   Patients were observed for "impending psychotic relapse," defined as CGI-improvement score of ≥6 (much worse or very much worse) and/or scores ≥6 (moderately severe) on the hostility or uncooperativeness items of the PANSS on two consecutive days.
   Ziprasidone was significantly superior to placebo in time to relapse, with no significant difference between the different dose groups.
@@ -76,5 +76,5 @@ In the other study, the higher dose was 10 mg, which could be given up to 4 time
 
 The results of the intramuscular ziprasidone trials follow:
 
-- (1)In a one-day, double-blind, randomized trial (n=79) involving doses of ziprasidone intramuscular of 20 mg or 2 mg, up to QID, ziprasidone intramuscular 20 mg was statistically superior to ziprasidone intramuscular 2 mg, as assessed by AUC of the BARS at 0 to 4 hours, and by CGI severity at 4 hours and study endpoint.
-- (2)In another one-day, double-blind, randomized trial (n=117) involving doses of ziprasidone intramuscular of 10 mg or 2 mg, up to QID, ziprasidone intramuscular 10 mg was statistically superior to ziprasidone intramuscular 2 mg, as assessed by AUC of the BARS at 0 to 2 hours, but not by CGI severity.
+- •In a one-day, double-blind, randomized trial (n=79) involving doses of ziprasidone intramuscular of 20 mg or 2 mg, up to QID, ziprasidone intramuscular 20 mg was statistically superior to ziprasidone intramuscular 2 mg, as assessed by AUC of the BARS at 0 to 4 hours, and by CGI severity at 4 hours and study endpoint.
+- •In another one-day, double-blind, randomized trial (n=117) involving doses of ziprasidone intramuscular of 10 mg or 2 mg, up to QID, ziprasidone intramuscular 10 mg was statistically superior to ziprasidone intramuscular 2 mg, as assessed by AUC of the BARS at 0 to 2 hours, but not by CGI severity.

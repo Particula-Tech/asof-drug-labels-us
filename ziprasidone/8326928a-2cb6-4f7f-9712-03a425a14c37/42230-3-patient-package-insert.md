@@ -20,18 +20,18 @@ GEODON may be prescribed for you if you are an adult with schizophrenia or bipol
 
 Symptoms of schizophrenia may include:
 
-- hearing voices, seeing things, or sensing things that are not there (hallucinations)
-- beliefs that are not true (delusions)
-- unusual suspiciousness (paranoia)
-- becoming withdrawn from family and friends
+- •hearing voices, seeing things, or sensing things that are not there (hallucinations)
+- •beliefs that are not true (delusions)
+- •unusual suspiciousness (paranoia)
+- •becoming withdrawn from family and friends
 
 Symptoms of manic or mixed episodes of bipolar disorder may include:
 
-- extremely high or irritable mood
-- increased energy, activity, and restlessness
-- racing thoughts or talking very fast
-- easily distracted
-- little need for sleep
+- •extremely high or irritable mood
+- •increased energy, activity, and restlessness
+- •racing thoughts or talking very fast
+- •easily distracted
+- •little need for sleep
 
 If you show a response to GEODON, your symptoms may improve.
 If you continue to take GEODON there is less chance of your symptoms returning.
@@ -61,26 +61,26 @@ GEODON is not approved for the treatment of these patients.
 Anything that can increase the chance of a heart rhythm abnormality should be avoided.
 Therefore, do not take GEODON if:
 
-- You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor)
-- You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+- •You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor)
+- •You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
 
 What To Tell Your Doctor Before You Start GEODON
 
 Only your doctor can decide if GEODON is right for you.
 Before you start GEODON, be sure to tell your doctor if you:
 
-- have had any problem with the way your heart beats or any heart related illness or disease
-- any family history of heart disease, including recent heart attack
-- have had any problem with fainting or dizziness
-- are taking or have recently taken any prescription medicines
-- are taking any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies
-- have had any problems with your liver
-- are pregnant, might be pregnant, or plan to get pregnant
-- are breastfeeding or plan to breastfeed
-- are allergic to any medicines
-- have ever had an allergic reaction to ziprasidone or any of the other ingredients of GEODON capsules.
+- •have had any problem with the way your heart beats or any heart related illness or disease
+- •any family history of heart disease, including recent heart attack
+- •have had any problem with fainting or dizziness
+- •are taking or have recently taken any prescription medicines
+- •are taking any over-the-counter medicines you can buy without a prescription, including natural/herbal remedies
+- •have had any problems with your liver
+- •are pregnant, might be pregnant, or plan to get pregnant
+- •are breastfeeding or plan to breastfeed
+- •are allergic to any medicines
+- •have ever had an allergic reaction to ziprasidone or any of the other ingredients of GEODON capsules.
   Ask your doctor or pharmacist for a list of these ingredients
-- have low levels of potassium or magnesium in your blood
+- •have low levels of potassium or magnesium in your blood
 
 Your doctor may want you to get additional laboratory tests to see if GEODON is an appropriate treatment for you.
 
@@ -91,36 +91,36 @@ While you are on GEODON, check with your doctor before starting any new prescrip
 
 How To Take GEODON
 
-- Take GEODON only as directed by your doctor.
-- Swallow GEODON capsules whole.
+- •Take GEODON only as directed by your doctor.
+- •Swallow GEODON capsules whole.
   Do not chew, crush, or open the capsules.
-- Take GEODON capsules with food.
-- It is best to take GEODON at the same time each day.
-- GEODON may take a few weeks to work.
+- •Take GEODON capsules with food.
+- •It is best to take GEODON at the same time each day.
+- •GEODON may take a few weeks to work.
   It is important to be patient.
-- Do not change your dose or stop taking your medicine without your doctor's approval.
-- Remember to keep taking your capsules, even when you feel better.
+- •Do not change your dose or stop taking your medicine without your doctor's approval.
+- •Remember to keep taking your capsules, even when you feel better.
 
 Possible Side Effects
 
 Because these problems could mean you're having a heart rhythm abnormality, contact your doctor IMMEDIATELY if you:
 
-- Faint or lose consciousness
-- Feel a change in the way that your heart beats (palpitations)
+- •Faint or lose consciousness
+- •Feel a change in the way that your heart beats (palpitations)
 
 Common side effects of GEODON include the following and should also be discussed with your doctor if they occur:
 
 Adults:
 
-- Feeling unusually tired or sleepy
-- Nausea or upset stomach
-- Constipation
-- Dizziness
-- Restlessness
-- Abnormal muscle movements, including tremor, shuffling, and uncontrolled involuntary movements
-- Diarrhea
-- Rash
-- Increased cough / runny nose
+- •Feeling unusually tired or sleepy
+- •Nausea or upset stomach
+- •Constipation
+- •Dizziness
+- •Restlessness
+- •Abnormal muscle movements, including tremor, shuffling, and uncontrolled involuntary movements
+- •Diarrhea
+- •Rash
+- •Increased cough / runny nose
 
 If you develop any side effects that concern you, talk with your doctor.
 It is particularly important to tell your doctor if you have diarrhea, vomiting, or another illness that can cause you to lose fluids.
@@ -154,12 +154,12 @@ If this happens, be careful not to stand up too quickly, and talk to your doctor
 
 Before taking GEODON, tell your doctor if you
 
-- are pregnant or plan on becoming pregnant.
-  - If you become pregnant while receiving GEODON, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
-    You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
-- are breastfeeding or plan to breastfeed.
-  GEODON can pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if you receive GEODON.
+1. 1.are pregnant or plan on becoming pregnant.
+   1. •If you become pregnant while receiving GEODON, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
+      You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/
+2. 2.are breastfeeding or plan to breastfeed.
+   GEODON can pass into your breast milk.
+   Talk to your healthcare provider about the best way to feed your baby if you receive GEODON.
 
 Because GEODON can cause sleepiness, be careful when operating machinery or driving a motor vehicle.
 

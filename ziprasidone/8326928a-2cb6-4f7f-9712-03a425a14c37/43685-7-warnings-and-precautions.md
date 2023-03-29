@@ -12,8 +12,8 @@ GEODON is not approved for the treatment of patients with dementia-related psych
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
 
-In placebo-controlled trials in elderly subjects with dementia, patients randomized to risperidone, aripiprazole, and olanzapine had a higher incidence of stroke and transient ischemic attack, including fatal stroke.
-GEODON is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
+1. In placebo-controlled trials in elderly subjects with dementia, patients randomized to risperidone, aripiprazole, and olanzapine had a higher incidence of stroke and transient ischemic attack, including fatal stroke.
+   GEODON is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 QT Prolongation and Risk of Sudden Death
 
@@ -346,9 +346,9 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 ## 5.15 Potential for Cognitive and Motor Impairment
 
-Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
-In the 4- and 6-week placebo-controlled trials in adults, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
-Somnolence led to discontinuation in 0.3% of the patients in short-term clinical trials in adults.
+1. Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
+   In the 4- and 6-week placebo-controlled trials in adults, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
+   Somnolence led to discontinuation in 0.3% of the patients in short-term clinical trials in adults.
 
 Since ziprasidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that ziprasidone therapy does not affect them adversely.
 
