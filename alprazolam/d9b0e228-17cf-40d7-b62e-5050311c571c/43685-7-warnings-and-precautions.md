@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Risks from Concomitant Use With Opioids
+## 5.1 Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including alprazolam, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs in patients for whom alternative treatment options are inadequate.
@@ -16,7 +16,7 @@ Advise patients not to drive or operate heavy machinery until the effects of con
 ## 5.2 Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including alprazolam, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
-Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2)].
+Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death [see Drug Abuse and Dependence (9.2)].
 
 Before prescribing alprazolam and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
 Use of alprazolam, particularly in patients at elevated risk, necessitates counseling about the risks and proper use of alprazolam along with monitoring for signs and symptoms of abuse, misuse, and addiction.
@@ -59,12 +59,7 @@ In either case, it is presumed that the prescribed dose is not sufficient to mai
 Because of its CNS depressant effects, patients receiving alprazolam should be cautioned against engaging in hazardous occupations or activities requiring complete mental alertness such as operating machinery or driving a motor vehicle.
 For the same reason, patients should be cautioned about the concomitant use of alcohol and other CNS depressant drugs during treatment with alprazolam [see Drug Interactions (7.1)].
 
-## 5.5 Neonatal Sedation and Withdrawal Syndrome
-
-Use of alprazolam during later stages of pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate.
-Observe newborns for signs of sedation and neonatal withdrawal syndrome and manage accordingly [see Use in Specific Populations (8.1)].
-
-## 5.6 Interaction With Drugs That Inhibit Metabolism via Cytochrome P450 3A
+## 5.5 Interaction with Drugs that Inhibit Metabolism via Cytochrome P450 3A
 
 The initial step in alprazolam metabolism is hydroxylation catalyzed by cytochrome P450 3A (CYP3A).
 Drugs that inhibit this metabolic pathway may have a profound effect on the clearance of alprazolam.
@@ -79,17 +74,22 @@ Dosage adjustment is necessary when alprazolam and ritonavir are initiated conco
 Drugs demonstrated to be CYP3A inhibitors on the basis of clinical studies involving alprazolam: nefazodone, fluvoxamine, and cimetidine [see Drug Interaction (7.1), Clinical Pharmacology (12.3)].
 Use caution and consider dose reduction of alprazolam, as appropriate, during co-administration with these drugs.
 
-## 5.7 Patients With Depression
+## 5.6 Patients with Depression
 
 Benzodiazepines may worsen depression.
 Panic disorder has been associated with primary and secondary major depressive disorders and increased reports of suicide among untreated patients.
 Consequently, appropriate precautions (e.g., limiting the total prescription size and increased monitoring for suicidal ideation) should be considered in patients with depression.
 
-## 5.8 Mania
+## 5.7 Mania
 
 Episodes of hypomania and mania have been reported in association with the use of alprazolam in patients with depression [see Adverse Reactions (6.2)].
 
-## 5.9 Risk in Patients With Impaired Respiratory Function
+## 5.8 Neonatal Sedation and Withdrawal Syndrome
+
+Use of alprazolam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate [see Use in Specific Populations (8.1)].
+Monitor neonates exposed to alprazolam during pregnancy or labor for signs of sedation and monitor neonates exposed to alprazolam during pregnancy for signs of withdrawal; manage these neonates accordingly.
+
+## 5.9 Risk in Patients with Impaired Respiratory Function
 
 There have been reports of death in patients with severe pulmonary disease shortly after the initiation of treatment with alprazolam.
 Closely monitor patients with impaired respiratory function.

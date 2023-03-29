@@ -1,10 +1,10 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Having Clinically Important Interactions With Alprazolam
+## 7.1 Drugs Having Clinically Important Interactions with Alprazolam
 
 Table 4 includes clinically significant drug interactions with alprazolam [see Clinical Pharmacology (12.3)].
 
-Table 4: Clinically Significant Drug Interactions With Alprazolam
+Table 4: Clinically Significant Drug Interactions with Alprazolam
 
 | Opioids |  |
 | --- | --- |

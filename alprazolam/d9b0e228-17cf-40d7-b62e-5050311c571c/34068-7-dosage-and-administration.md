@@ -42,7 +42,7 @@ This may be gradually increased if needed and tolerated.
 Geriatric patients may be especially sensitive to the effects of benzodiazepines.
 If adverse reactions occur at the recommended starting dosage, the dosage may be reduced [see Use in Specific Populations (8.5), Clinical Pharmacology (12.3)].
 
-## 2.5 Dosage Recommendations in Patients With Hepatic Impairment
+## 2.5 Dosage Recommendations in Patients with Hepatic Impairment
 
 In patients with hepatic impairment, the recommended starting oral dosage of alprazolam is 0.25 mg, given 2 or 3 times daily.
 This may be gradually increased if needed and tolerated.

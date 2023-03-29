@@ -6,8 +6,8 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2)]
 - •Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3)]
 - •Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4)]
-- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- •Patients with Depression [see Warnings and Precautions (5.7)]
+- •Patients with Depression [see Warnings and Precautions (5.6)]
+- •Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 - •Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
@@ -19,7 +19,7 @@ The data in the two tables below are estimates of adverse reaction incidence amo
 - •4-week placebo-controlled clinical studies with alprazolam dosages up to 4 mg per day for the acute treatment of generalized anxiety disorder (Table 1)
 - •Short-term (up to 10 weeks) placebo-controlled clinical studies with alprazolam dosages up to 10 mg per day for panic disorder, with or without agoraphobia (Table 2).
 
-Table 1: Adverse Reactions Occurring in ≥1% in Alprazolam-Treated Patients and Greater Than Placebo-Treated Patients in Placebo-Controlled Trials for Generalized Anxiety
+Table 1: Adverse Reactions Occurring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials for Generalized Anxiety
 
 |  | Alprazolamn=565 | Placebon=505 |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Table 1: Adverse Reactions Occurring in ≥1% in Alprazolam-Treated Patients and
 
 In addition to the adverse reactions (i.e., greater than 1%) enumerated in the table above for patients with generalized anxiety disorder, the following adverse reactions have been reported in association with the use of benzodiazepines: dystonia, irritability, concentration difficulties, anorexia, transient amnesia or memory impairment, loss of coordination, fatigue, seizures, sedation, slurred speech, jaundice, musculoskeletal weakness, pruritus, diplopia, dysarthria, changes in libido, menstrual irregularities, incontinence and urinary retention.
 
-Table 2: Adverse Reactions Occuring in ≥1% in Alprazolam-Treated Patients and Greater Than Placebo-Treated Patients in Placebo-Controlled Trials (Up to 10 Weeks) for Panic Disorder
+Table 2: Adverse Reactions Occuring in ≥1% in Alprazolam-treated Patients and Greater than Placebo-treated Patients in Placebo-Controlled Trials (Up to 10 Weeks) for Panic Disorder
 
 |  | Alprazolamn=1388 | Placebo n=1231 |
 | --- | --- | --- |
@@ -42,9 +42,9 @@ Adverse Reactions Reported as Reasons for Discontinuation in Treatment of Panic 
 
 In a larger database comprised of both controlled and uncontrolled studies in which 641 patients received alprazolam, discontinuation-emergent symptoms which occurred at a rate of over 5% in patients treated with alprazolam and at a greater rate than the placebo-treated group are shown in Table 3.
 
-Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazolam-Treated Patients and > Placebo-Treated Patients
+Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazolam-treated Patients and > Placebo-treated Patients
 
-|  | Alprazolam-Treated Patientsn=641 |
+|  | Alprazolam-treated Patientsn=641 |
 | --- | --- |
 | Nervous system disordersInsomnia Light-headedness Abnormal involuntary movement Headache Muscular twitching Impaired coordination Muscle tone disorders Weakness | 29.5%19.3%17.3%17.0%6.9%6.6%5.9%5.8% |
 | Psychiatric disordersAnxiety Fatigue and Tiredness Irritability Cognitive disorder Memory impairment Depression Confusional state | 19.2%18.4%10.5%10.3%5.5%5.1%5.0% |
@@ -54,7 +54,7 @@ Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of Alprazo
 | Cardiovascular disorders Tachycardia | 12.2% |
 | Special Senses Blurred vision | 10.0% |
 
-n = number of patients
+n = number of patients.
 
 There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of alprazolam [see Warning and Precautions (5.2) and Drug Abuse and Dependence (9.3)].
 
