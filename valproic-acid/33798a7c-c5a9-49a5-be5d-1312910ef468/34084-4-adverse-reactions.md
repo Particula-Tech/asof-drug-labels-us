@@ -345,7 +345,7 @@ Aspermia, azoospermia, decreased sperm count, decreased spermatozoa motility, ma
 
 Genitourinary
 
-Enuresis and urinary tract infection.
+Enuresis, urinary tract infection, and tubulointerstitial nephritis.
 
 Special Senses
 

@@ -40,28 +40,15 @@ A study involving the co-administration of 1,200 mg/day of felbamate with valpro
 Increasing the felbamate dose to 2,400 mg/day increased the mean valproate peak concentration to 133 mcg/mL (another 16% increase).
 A decrease in valproate dosage may be necessary when felbamate therapy is initiated.
 
+Methotrexate:
+
+Methotrexate may decrease serum valproate levels and potentially result in increased frequency of seizures or bipolar symptoms.
+Prescribers should monitor serum valproate concentrations and clinical response when adding or discontinuing methotrexate and adjust valproate dosage, if necessary.
+
 Rifampin:
 
 A study involving the administration of a single dose of valproate (7 mg/kg) 36 hours after 5 nights of daily dosing with rifampin (600 mg) revealed a 40% increase in the oral clearance of valproate.
 Valproate dosage adjustment may be necessary when it is co-administered with rifampin.
-
-Drugs for which either no interaction or a likely clinically unimportant interaction has been observed
-
-Antacids:
-
-A study involving the co-administration of valproate 500 mg with commonly administered antacids (Maalox, Trisogel, and Titralac - 160 mEq doses) did not reveal any effect on the extent of absorption of valproate.
-
-Chlorpromazine:
-
-A study involving the administration of 100 to 300 mg/day of chlorpromazine to schizophrenic patients already receiving valproate (200 mg BID) revealed a 15% increase in trough plasma levels of valproate.
-
-Haloperidol:
-
-A study involving the administration of 6 to 10 mg/day of haloperidol to schizophrenic patients already receiving valproate (200 mg BID) revealed no significant changes in valproate trough plasma levels.
-
-Cimetidine and Ranitidine:
-
-Cimetidine and ranitidine do not affect the clearance of valproate.
 
 ## 7.2 Effects of Valproate on Other Drugs
 
@@ -157,35 +144,14 @@ Zidovudine:
 
 In six patients who were seropositive for HIV, the clearance of zidovudine (100 mg q8h) was decreased by 38% after administration of valproate (250 or 500 mg q8h); the half-life of zidovudine was unaffected.
 
-Drugs for which either no interaction or a likely clinically unimportant interaction has been observed
-
-Acetaminophen:
-
-Valproate had no effect on any of the pharmacokinetic parameters of acetaminophen when it was concurrently administered to three epileptic patients.
-
-Clozapine:
-
-In psychotic patients (n=11), no interaction was observed when valproate was co-administered with clozapine.
-
-Lithium:
-
-Co-administration of valproate (500 mg BID) and lithium carbonate (300 mg TID) to normal male volunteers (n=16) had no effect on the steady-state kinetics of lithium.
-
-Lorazepam:
-
-Concomitant administration of valproate (500 mg BID) and lorazepam (1 mg BID) in normal male volunteers (n=9) was accompanied by a 17% decrease in the plasma clearance of lorazepam.
-
-Olanzapine:
-
-No dose adjustment for olanzapine is necessary when olanzapine is administered concomitantly with valproate.
-Co-administration of valproate (500 mg BID) and olanzapine (5 mg) to healthy adults (n=10) caused 15% reduction in Cmax and 35% reduction in AUC of olanzapine.
-
-Oral Contraceptive Steroids:
-
-Administration of a single-dose of ethinyloestradiol (50 mcg)/levonorgestrel (250 mcg) to 6 women on valproate (200 mg BID) therapy for 2 months did not reveal any pharmacokinetic interaction.
-
 ## 7.3 Topiramate
 
 Concomitant administration of valproate and topiramate has been associated with hyperammonemia with and without encephalopathy [see Contraindications (4) and Warnings and Precautions (5.6, 5.9, 5.10)].
 Concomitant administration of topiramate with valproate has also been associated with hypothermia in patients who have tolerated either drug alone.
 It may be prudent to examine blood ammonia levels in patients in whom the onset of hypothermia has been reported [see Warnings and Precautions (5.9, 5.11)].
+
+## 7.4 Cannabidiol
+
+Concomitant administration of valproate and cannabidiol has been associated with an increased risk of ALT and/or AST elevation.
+This has been manageable by dose reduction or, in more severe cases, by discontinuation of one or both drugs.
+Liver function, including serum transaminase and total bilirubin levels, should be monitored during concomitant treatment [see Warnings and Precautions (5.1)].
