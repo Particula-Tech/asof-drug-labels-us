@@ -50,5 +50,5 @@ The recommended dose of TEMOZOLOMIDE has not been established for patients with 
 
 ## 8.7 Hepatic Impairment
 
-No dosage adjustment is recommended for patients with mild to moderate hepatic impairment (Child Pugh class Aand B) [see Clinical Pharmacology (12.3)].
+No dosage adjustment is recommended for patients with mild to moderate hepatic impairment (Child Pugh class A and B) [see Clinical Pharmacology (12.3)].
 The recommended dose of TEMOZOLOMIDE has not been established for patients with severe hepatic impairment (Child-Pugh class C).

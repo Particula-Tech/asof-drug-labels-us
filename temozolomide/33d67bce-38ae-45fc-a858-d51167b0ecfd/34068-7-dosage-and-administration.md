@@ -18,7 +18,7 @@ TABLE 1: Temozolomide Dosage Modifications During Concomitant Phase
 | Non-hematological Adverse Reaction (except for alopecia, nausea, vomiting) | Withhold TEMOZOLOMIDE if Grade 2 adverse reaction occurs. Resume TEMOZOLOMIDE when resolution to Grade 1 or less. | Discontinue TEMOZOLOMIDE if Grade 3 or 4 adverse reaction occurs. |
 
 Maintenance Phase Beginning 4 weeks after Concomitant Phase completion, administer TEMOZOLOMIDE either orally or intravenously once daily on Days 1 to 5 of each 28-day cycle for 6 cycles.
-The recommended dosage of TEMOZOLOMIDE is as follows: o Cycle 1: 150 mg/m2 per day o Cycles 2 to 6: May increase to 200 mg/m2 per day if the following conditions are met before starting cycle 2.
+The recommended dosage of TEMOZOLOMIDE is as follows: • Cycle 1: 150 mg/m2 per day • Cycles 2 to 6: May increase to 200 mg/m2 per day if the following conditions are met before starting cycle 2.
 If the dose was not escalated at the onset of Cycle 2, do not increase the dose for Cycles 3 to 6. o Nonhematologic toxicity is grade 2 or less (except for alopecia, nausea, and vomiting) o ANC is greater than or equal to 1.5 x 109/L and o Platelet count is greater than or equal to 100 x 109/L.
 Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1.5 x 109/L and the platelet count is above 100 x 109/L.
 Do not start the next cycle until the ANC and platelet count exceed these levels.
@@ -42,3 +42,15 @@ Obtain a complete blood count on Day 22 and then weekly until the ANC is above 1
 Do not start the next cycle until the ANC and platelet count exceed these levels.
 If the ANC is less than 1 x 109/L or the platelet count is less than 50 x 109/L during any cycle, reduce the TEMOZOLOMIDE dose for the next cycle by 50 mg/m2 per day.
 Permanently discontinue TEMOZOLOMIDE in patients who are unable to tolerate a dose of 100 mg/m2 per day.
+
+## 2.3 Preparation and Administration
+
+TEMOZOLOMIDE is a cytotoxic drug.
+Follow applicable special handling and disposal procedures1.
+TEMOZOLOMIDE capsules Administer TEMOZOLOMIDE consistently with respect to food (fasting vs.nonfasting) [see Clinical Pharmacology12.3)].
+To reduce nausea and vomiting, take TEMOZOLOMIDE on an empty stomach or at bedtime and consider antiemetic therapy prior to and/or following TEMOZOLOMIDE administration.
+Swallow TEMOZOLOMIDE capsules whole.
+Do not open or chew capsules.
+
+If capsules are accidentally opened or damaged, take precautions to avoid inhalation or contact with the skin or mucous membranes.
+In case of powder contact, the hands should be washed.

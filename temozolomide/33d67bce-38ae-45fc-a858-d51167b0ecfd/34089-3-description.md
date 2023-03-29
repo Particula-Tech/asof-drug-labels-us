@@ -16,28 +16,28 @@ The inactive ingredients for TEMOZOLOMIDE Capsules, USP are as follows:
 
 · TEMOZOLOMIDE 5 mg: lactose anhydrous (132.8 mg), colloidal silicon dioxide (0.2 mg), sodium starch glycolate (7.5 mg), tartaric acid (1.5 mg), and stearic acid (3.0 mg).
 
-· TEMOZOLOMIDE 20 mg: lactose anhydrous (182.2 mg), colloidal silicon dioxide (0.2 mg), sodium starch glycolate (11 mg), tartaric acid (2.2 mg), and stearic acid (4.4 mg).
+·TEMOZOLOMIDE 20 mg: lactose anhydrous (182.2 mg), colloidal silicon dioxide (0.2 mg), sodium starch glycolate (11 mg), tartaric acid (2.2 mg), and stearic acid (4.4 mg).
 
 ·TEMOZOLOMIDE 100 mg: lactose anhydrous (175.7 mg), colloidal silicon dioxide (0.3 mg), sodium starch glycolate (15 mg), tartaric acid (3.0 mg), and stearic acid (6.0 mg).
 
-· TEMOZOLOMIDE 140 mg: lactose anhydrous (246 mg), colloidal silicon dioxide (0.4 mg), sodium starch glycolate (21 mg), tartaric acid (4.2 mg), and stearic acid (8.4 mg).
+·TEMOZOLOMIDE 140 mg: lactose anhydrous (246 mg), colloidal silicon dioxide (0.4 mg), sodium starch glycolate (21 mg), tartaric acid (4.2 mg), and stearic acid (8.4 mg).
 
-· TEMOZOLOMIDE 180 mg: lactose anhydrous (316.3 mg), colloidal silicon dioxide (0.5 mg), sodium starch glycolate (27 mg), tartaric acid (5.4 mg), and stearic acid (10.8 mg).
+·TEMOZOLOMIDE 180 mg: lactose anhydrous (316.3 mg), colloidal silicon dioxide (0.5 mg), sodium starch glycolate (27 mg), tartaric acid (5.4 mg), and stearic acid (10.8 mg).
 
 · TEMOZOLOMIDE 250 mg: lactose anhydrous (154.3 mg), colloidal silicon dioxide (0.7 mg), sodium starch glycolate (22.5 mg), tartaric acid (9.0 mg), and stearic acid (13.5 mg).
 
 The body of the capsules is made of gelatin and titanium dioxide and is opaque white.
 The cap is also made of gelatin and the colors may vary based on the dosage strength.
-The capsule body and cap are imprinted with pharmaceutical branding ink, which contains shellac, iron oxide black, n-butyl alcohol, purified water, propylene glycol, dehydrated alcohol, isopropyl alcohol and ammonia solution.
+The capsule body and cap are imprinted with pharmaceutical branding ink, which contains shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, purified water, strong ammonia solution, potassium hydroxide, and ferric oxide.
 
 · TEMOZOLOMIDE 5 mg: The opaque green cap contains gelatin, titanium dioxide, iron oxide yellow and FD&C Blue 2.
 
-· TEMOZOLOMIDE 20 mg: The opaque yellow cap contains gelatin, titanium dioxide and iron oxide yellow.
+·TEMOZOLOMIDE 20 mg: The opaque yellow cap contains gelatin, titanium dioxide and iron oxide yellow.
 
-· TEMOZOLOMIDE 100 mg: The opaque flesh cap contains gelatin, titanium dioxide and iron oxide red.
+·TEMOZOLOMIDE 100 mg: The opaque flesh cap contains gelatin, titanium dioxide and iron oxide red.
 
-· TEMOZOLOMIDE 140 mg: The transparent blue cap contains gelatin, FD&C Blue #2, and titanium dioxide.
+·TEMOZOLOMIDE 140 mg: The transparent blue cap contains gelatin, FD&C Blue #2, and titanium dioxide.
 
 · TEMOZOLOMIDE 180 mg: The opaque orange cap contains gelatin, titanium dioxide and iron oxide red.
 
-· TEMOZOLOMIDE 250 mg: The opaque white cap contains gelatin and titanium dioxide.
+·TEMOZOLOMIDE 250 mg: The opaque white cap contains gelatin and titanium dioxide.

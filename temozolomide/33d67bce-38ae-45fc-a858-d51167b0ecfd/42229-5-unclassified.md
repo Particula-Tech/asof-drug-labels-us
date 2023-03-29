@@ -20,7 +20,8 @@ See “What is the most important information I should know about TEMOZOLOMIDE?�
 It is not known if TEMOZOLOMIDE passes into your breast milk.
 Do not breastfeed during treatment and for at least 1 week after your last dose of TEMOZOLOMIDE.
 Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Especially tell your doctor if you take a medicine that contains valproic acid Know the medicines you take.
+Especially tell your doctor if you take a medicine that contains valproic acid.
+Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 How should I take TEMOZOLOMIDE?
 TEMOZOLOMIDE may be taken 2 different ways: o you may take TEMOZOLOMIDE by mouth as a capsule, or o you may receive TEMOZOLOMIDE as an intravenous (IV) injection into your vein.
@@ -50,7 +51,7 @@ Your doctor will monitor you for this. •Pneumocystis pneumonia (PCP).
 PCP is an infection that people can get when their immune system is weak.
 TEMOZOLOMIDE decreases white blood cells, which makes your immune system weaker and can increase your risk of getting PCP. o People who are taking steroid medicines or who stay on TEMOZOLOMIDE for a longer period of time may have an increased risk of getting PCP infection. o Anyone who takes TEMOZOLOMIDE will be watched carefully by their doctor for low blood cell counts and this infection. o Tell your doctor if you have any of the following signs and symptoms of PCP infection: shortness of breath, or fever, chills, dry cough. •Liver problems.Liver problems can happen with TEMOZOLOMIDE and can sometimes be severe and lead to death.
 Your doctor will do blood tests to check your liver function before you start taking TEMOZOLOMIDE, during treatment, and about 2 to 4 weeks after your last dose of TEMOZOLOMIDE.
-Common side effects with TEMOZOLOMIDE include: •hair loss •feeling tired •nausea and vomiting. •headache •constipation •loss of appetite •convulsions •rash •diarrhea •unable to move (paralysis) on one side of the body •weakness •fever •dizziness •coordination problems •viral infection •memory loss •sleep problems Additional side effects seen with TEMOZOLOMIDE for injection: •pain, irritation, itching, warmth, swelling or redness at the site of infusion •bruising or small red or purple spots under the skin TEMOZOLOMIDE can affect fertility in males and may affect your ability to father a child.
+Common side effects with TEMOZOLOMIDE include: •hair loss •feeling tired •nausea and vomiting. •headache •constipation •loss of appetite •convulsions •rash •diarrhea •unable to move (paralysis) on one side of the body •weakness •fever •dizziness •coordination problems •viral infection •memory loss •sleep problems TEMOZOLOMIDE can affect fertility in males and may affect your ability to father a child.
 Talk with your doctor if fertility is a concern for you.
 Tell your doctor about any side effect that bothers you or that does not go away.
 These are not all the possible side effects with TEMOZOLOMIDE.
@@ -58,8 +59,8 @@ For more information, ask your doctor or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 How should I store TEMOZOLOMIDE Capsules, USP? • Store TEMOZOLOMIDE Capsules, USP at 77°F (controlled room temperature).
-Storage at 59°F to 86°F (15°C to 30°C) is permitted occasionally. • Keep TEMOZOLOMIDE Capsules, USP out of the reach of children and pets.
-General information about TEMOZOLOMIDE.
+Storage at 59°F to 86°F (15°C to 30°C) is permitted occasionally. • Keep TEMOZOLOMIDE Capsules, USP out of the reach of children.
+General information about the safe and effective use of TEMOZOLOMIDE.
 Medicines are sometimes prescribed for purposes other than those listed in the Patient Information leaflet.
 Do not use TEMOZOLOMIDE for a condition for which it was not prescribed.
 Do not give TEMOZOLOMIDE to other people, even if they have the same symptoms that you have.
@@ -83,12 +84,12 @@ Manufactured by: Deva Holding A.S.
 
 Distributed by: Ascend Laboratories, LLC 339 Jefferson Road Parsippany, NJ 07054
 
-Revised: 04/2021
+Revised: 02/2023
 
 TEMOZOLOMIDE Capsules, USP PHARMACIST: Dispense enclosed Patient Package Insert to each patient.
 PHARMACIST INFORMATION SHEET
 
-IMPORTANT DISPENSING INFORMATION For every patient, TEMOZOLOMIDE must be dispensed in a separate vial or in its original package making sure each container lists the strength per capsule and that patients take the appropriate number of capsules from each package or vial.
+IMPORTANT DISPENSING INFORMATION For every patient, TEMOZOLOMIDE must be dispensed in a separate vial or in its original package, making sure each container lists the strength per capsule and that patients take the appropriate number of capsules from each package or vial.
 Please see the dispensing instructions below for more information.
 
 What is TEMOZOLOMIDE?[See Full Prescribing Information, Indications and Usage (1).]
@@ -158,18 +159,6 @@ Advise male patients not to donate semen during treatment with TEMOZOLOMIDE and 
 It is not known whether TEMOZOLOMIDE is excreted into breast milk.
 Because of the potential for serious adverse reactions in breastfed children, advise women not to breastfeed while taking TEMOZOLOMIDE and for at least 1 week after the last dose.
 
-What should the patient avoid during treatment with TEMOZOLOMIDE?[See Full Prescribing Information, Use in Specific Populations, Pregnancy (8.1), Lactation (8.2), Females and Males of Reproductive Potential (8.3).]
-There are no dietary restrictions for patients taking TEMOZOLOMIDE.
-TEMOZOLOMIDE may affect testicular function and may cause birth defects.
-Advise male patients to exercise adequate birth control measures.
-Advise female patients to avoid becoming pregnant while receiving this drug.
-Advise pregnant women of the potential risk to the fetus.
-Advise females of reproductive potential to use effective contraception during treatment and for at least 6 months after the last dose.
-Advise males of reproductive potential to use condoms during treatment and for at least 3 months after the last dose.
-Advise male patients not to donate semen during treatment with TEMOZOLOMIDE and for at least 3 months after the final dose.
-It is not known whether TEMOZOLOMIDE is excreted into breast milk.
-Because of the potential for serious adverse reactions in breastfed children, advise women
-
 What are the side effects of TEMOZOLOMIDE?[See Full Prescribing Information, Adverse Reactions (6).]
 Alopecia, fatigue, nausea, and vomiting are the most common side effects associated with TEMOZOLOMIDE.
 Noncumulative myelosuppression is the dose-limiting toxicity.
@@ -200,8 +189,6 @@ For example:
 
 • a 5 day course of 360 mg/day would require the following to be ordered: two 5 count packages of 180 mg capsules. • a 42 day course of 140 mg/day would require the following to be ordered: three 14 count packages of 140 mg capsules.
 
-For examples of other dosing regimens, please refer to the full Prescribing Information (Table 6).
-
 Temozolomide Bottles Product NDC Number 5-mg capsules (5 count) 67877-537-07 5-mg capsules (14 count) 67877-537-14
 
 20-mg capsules (5 count) 67877-538-07
@@ -226,4 +213,6 @@ Manufactured by: Deva Holding A.S.
 
 Distributed by: Ascend Laboratories, LLC 339 Jefferson Road Parsippany, NJ 07054
 
-Revised:04/2021
+Revised:02/2023
+
+CKY1632KT-11
