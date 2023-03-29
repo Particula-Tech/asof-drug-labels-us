@@ -245,6 +245,9 @@ Inactive ingredients:
 
 D&C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD&C Blue #1 (in 25 mg tablet), FD&C Blue #2 (in 50 mg tablet), FD&C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate and titanium dioxide and vanillin.
 
+Sertraline hydrochloride tablets USP are coated with vanillin flavored film coating material.
+Vanillin is a flavoring agent that possess vanilla like fragrance.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
@@ -259,4 +262,4 @@ United States
 
 MADE IN INDIA
 
-Revised: March 2023 ID#: 272877
+Revised: February 2023 ID#: 272704

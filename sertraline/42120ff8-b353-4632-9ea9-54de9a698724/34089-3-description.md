@@ -7,3 +7,6 @@ The empirical formula C17H17NCl2•HCl is represented by the following structura
 Sertraline hydrochloride is white to off white crystalline powder that is sparingly soluble in methanol and dimethyl formamide.
 
 Sertraline hydrochloride tablets USP for oral administration contain 28.0 mg, 56.0 mg, and 111.9 mg sertraline hydrochloride equivalent to 25, 50 and 100 mg of sertraline and the following inactive ingredients: D&C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD&C Blue #1 (in 25 mg tablet), FD&C Blue #2 (in 50 mg tablet), FD&C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate, titanium dioxide and vanillin.
+
+Sertraline hydrochloride tablets USP are coated with vanillin flavored film coating material.
+Vanillin is a flavoring agent that possess vanilla like fragrance.
