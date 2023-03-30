@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Trazodone hydrochloride tablets,USP are available in the following strengths:
+Trazodone hydrochloride tablets USP are available in the following strengths:
 
 - 50 mg: White to off-white, round, biconvex, uncoated tablets, debossed with ‘J’ and ‘43’ on either side of scoreline (functional) on one side and plain on the other side.
 - 100 mg: White to off-white, round, biconvex, uncoated tablets, debossed with ‘J’ and ‘44’ on either side of scoreline (functional) on one side and plain on the other side.

@@ -2,7 +2,7 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- Suicidal Thoughts and Behavior in Children, Adolescents and Young Adults [see Boxed Warningand Warnings and Precautions (5.1)]
+- Suicidal Thoughts and Behavior in Children, Adolescents and Young Adults [see Boxed Warning and Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
 - Cardiac Arrythmias [see Warnings and Precautions (5.3)]
 - Orthostatic Hypotension and Syncope [see Warnings and Precautions (5.4)]
@@ -11,17 +11,18 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Activation of Mania or Hypomania [see Warnings and Precautions (5.7)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.8)]
 - Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.9)]
-- Angle-Closure Glaucoma [seeWarnings and Precautions (5.10)]
+- Angle-Closure Glaucoma [see Warnings and Precautions (5.10)]
 - Hyponatremia [see Warnings and Precautions (5.11)]
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-Table 2: Common Adverse Reactions Occurring in ≥ 2% of Trazodone-treated Patients and Greater than the Rate of Placebo-Treated Patients as Observed in Controled Clinical Studies
+
+Table 2: Common Adverse Reactions Occurring in ≥ 2% of Trazodone Hydrochloride Tablets-treated Patients and Greater than the Rate of Placebo-Treated Patients as Observed in Controlled Clinical Studies
 
 |  | Inpatients |  | Outpatients |  |
 | --- | --- | --- | --- | --- |
-|  | Trazodone Hydrochloride Tablets N=142 | Placebo N=95 | Trazodone Hydrochloride Tablets =157 | Placebo N=158 |
+|  | Trazodone Hydrochloride Tablets N=142 | Placebo N=95 | Trazodone Hydrochloride Tablets N=157 | Placebo N=158 |
 | Allergic |  |  |  |  |
 | Skin Condition/Edema | 3% | 1% | 7% | 1% |
 | Autonomic |  |  |  |  |
@@ -61,7 +62,11 @@ Occasional sinus bradycardia has occurred in long-term studies.
 
 ## 6.2 Post marketing Experience
 
-The following adverse reactions have been identified during post-approval use of Trazodone.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure: Blood and lymphatic system disorders: hemolytic anemia, leukocytosis Cardiac disorders: cardiospasm, congestive heart failure, conduction block, orthostatic hypotension and syncope, palpitations, bradycardia, atrial fibrillation, myocardial infarction, cardiac arrest, arrhythmia, ventricular ectopic activity, including ventricular tachycardia and QT prolongation.
+The following adverse reactions have been identified during post-approval use of Trazodone Hydrochloride Tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure:
+
+Blood and lymphatic system disorders: hemolytic anemia, leukocytosis
+
+Cardiac disorders: cardio spasm, congestive heart failure, conduction block, orthostatic hypotension and syncope, palpitations, bradycardia, atrial fibrillation, myocardial infarction, cardiac arrest, arrhythmia, ventricular ectopic activity, including ventricular tachycardia and QT prolongation.
 Prolonged QT interval, torsade de pointes, and ventricular tachycardia have been reported at doses of 100 mg per day or less [see Warnings and Precautions (5.3)].
-Endocrine disorders: inappropriate ADH syndrome Eye disorders: diplopia Gastrointestinal disorders: increased salivation, nausea/vomiting General disorders and administration site conditions: chills, edema, unexplained death, weakness Hepatobiliary disorders: cholestasis, jaundice, hyperbilirubinemia, liver enzyme alterations Investigations: increased amylase Metabolism and nutrition disorders: methemoglobinemia Nervous system disorders: aphasia, ataxia, cerebrovascular accident, extrapyramidal symptoms, grand mal seizures, paresthesia, tardive dyskinesia, vertigo Psychiatric disorders: abnormal dreams, agitation, anxiety, hallucinations, insomnia, paranoid reaction, psychosis, stupor Renal and urinary disorders: urinary incontinence, urinary retention Reproductive system and breast disorders: breast enlargement or engorgement, clitorism, lactation, priapism [see Warnings and Precautions (5.6)] Respiratory, thoracic and mediastinal disorders: apnea Skin and subcutaneous tissue disorders: alopecia, hirsutism, leukonychia, pruritus, psoriasis, rash, urticaria Vascular disorders: vasodilation
+Endocrine disorders: inappropriate ADH syndrome Eye disorders: diplopia Gastrointestinal disorders: increased salivation, nausea/vomiting General disorders and administration site conditions: chills, edema, unexplained death, weakness Hepatobiliary disorders: cholestasis, jaundice, hyperbilirubinemia, liver enzyme alterations Investigations: increased amylase Metabolism and nutrition disorders: methemoglobinemia Nervous system disorders: aphasia, ataxia, cerebrovascular accident, extrapyramidal symptoms, grand mal seizures, paresthesia, tardive dyskinesia, vertigo Psychiatric disorders: abnormal dreams, agitation, anxiety, hallucinations, insomnia, paranoid reaction, psychosis, stupor Renal and urinary disorders: urinary incontinence, urinary retention Reproductive system and breast disorders: breast enlargement or engorgement, clitorism, lactation, priapism [see Warnings and Precautions (5.6)]Respiratory, thoracic and mediastinal disorders: apnea Skin and subcutaneous tissue disorders: alopecia, hirsutism, leukonychia, pruritus, psoriasis, rash, urticaria Vascular disorders: vasodilation

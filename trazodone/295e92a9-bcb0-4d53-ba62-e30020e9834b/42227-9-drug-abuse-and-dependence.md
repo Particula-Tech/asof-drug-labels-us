@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Trazodone hydrochloride tablets are not a controlled substance.
+Trazodone Hydrochloride Tablets are not a controlled substance.
 
 ## 9.2 Abuse
 
