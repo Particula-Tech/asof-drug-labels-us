@@ -4,7 +4,7 @@
 
 Adults with cSSSI
 
-Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 15) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing Daptomycin for injection (4 mg/kg IV q24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
+Adult patients with clinically documented complicated skin and skin structure infections (cSSSI) (Table 15) were enrolled in two randomized, multinational, multicenter, investigator-blinded trials comparing Daptomycin for injection (4 mg/kg IV every 24h) with either vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g IV per day).
 Patients could switch to oral therapy after a minimum of 4 days of IV treatment if clinical improvement was demonstrated.
 Patients known to have bacteremia at baseline were excluded.
 Patients with creatinine clearance (CLCR) between 30 and 70 mL/min were to receive a lower dose of Daptomycin for injection as specified in the protocol; however, the majority of patients in this subpopulation did not have the dose of Daptomycin for injection adjusted.
@@ -69,7 +69,7 @@ The clinical success rates determined at 7-14 days after last dose of therapy (I
 Adults with S. aureus Bacteremia/Endocarditis
 
 The efficacy of Daptomycin for injection in the treatment of adult patients with S. aureus bacteremia was demonstrated in a randomized, controlled, multinational, multicenter, open-label trial.
-In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either Daptomycin for injection (6 mg/kg IV q24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
+In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either Daptomycin for injection (6 mg/kg IV every 24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
 Of the patients in the comparator group, 93% received initial gentamicin for a median of 4 days, compared with 1 patient (<1%) in the Daptomycin for injection group.
 Patients with prosthetic heart valves, intravascular foreign material that was not planned for removal within 4 days after the first dose of study medication, severe neutropenia, known osteomyelitis, polymicrobial bloodstream infections, creatinine clearance <30 mL/min, and pneumonia were excluded.
 

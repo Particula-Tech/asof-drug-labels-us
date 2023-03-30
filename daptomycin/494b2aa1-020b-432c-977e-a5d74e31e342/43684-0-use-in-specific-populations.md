@@ -39,7 +39,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of Daptomycin for injection in the treatment of cSSSI and S. aureus bloodstream infections (bacteremia) have been established in the age groups 1 to 17 years of age.
-Use of Daptomycin for injection in these age groups is supported by evidence from adequate and well-controlled studies in adults, with additional data from pharmacokinetic studies in pediatric patients, and from safety, efficacy and PK studies in pediatric patients with cSSSI and S. aureus bloodstream infections [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+Use of Daptomycin for injection in these age groups is supported by evidence from adequate and well-controlled studies in adults, with additional data from pharmacokinetic studies in pediatric patients, and from safety, efficacy and PK studies in pediatric patients with cSSSI and S. aureus bloodstream infections [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2)].
 
 Safety and effectiveness in pediatric patients below the age of one year have not been established.
 Avoid use of Daptomycin for injection in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7) and Nonclinical Toxicology (13.2)].

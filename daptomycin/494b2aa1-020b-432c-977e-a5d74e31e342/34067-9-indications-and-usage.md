@@ -2,7 +2,7 @@
 
 ## 1.1 Complicated Skin and Skin Structure Infections (cSSSI)
 
-Daptomycin for injection is indicated for the treatment of adult patients and pediatric patients (1 to 17 years of age) with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus (including methicillin-resistant isolates), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp. equisimilis, and Enterococcus faecalis (vancomycin-susceptible isolates only).
+Daptomycin for injection is indicated for the treatment of adult and pediatric patients (1 to 17 years of age) with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus (including methicillin-resistant isolates), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiae subsp. equisimilis, and Enterococcus faecalis (vancomycin-susceptible isolates only).
 
 ## 1.2 Staphylococcus aureus Bloodstream Infections (Bacteremia) in Adult Patients, Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
@@ -26,7 +26,7 @@ Daptomycin for injection is not recommended in pediatric patients younger than 1
 
 Appropriate specimens for microbiological examination should be obtained in order to isolate and identify the causative pathogens and to determine their susceptibility to daptomycin.
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Daptomycin for injection and other antibacterial drugs, Daptomycin for injection should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Daptomycin for injection and other antibacterial drugs, Daptomycin for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 
 When culture and susceptibility information is available, it should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
