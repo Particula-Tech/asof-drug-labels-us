@@ -73,6 +73,18 @@ However, there was about a 22% increase of apparent clearance of levetiracetam w
 
 Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
 
+Pediatric Patients with Obesity
+
+A population PK analysis of levetiracetam was conducted in 164 obese and non-obese pediatric patients 2 to <18 years of age with median (range) weight 39.2 (11.3-134) kg to evaluate the potential impact of obesity on plasma levetiracetam exposures.
+Obesity was defined as BMI ≥95th percentile for age and sex based on CDC 2000 growth chart recommendations.
+Simulations were conducted for obese and non-obese pediatric patients ages 4 to <16 years.
+
+- When the recommended tablet dose is administered to pediatric patients weighing < 40 kg, obese pediatric patients have 27% higher median Cmax,ss, and 19% higher median Cmin,ss compared to non-obese patients.
+- When the recommended tablet dose is administered to pediatric patients weighing ≥ 40 kg, obese pediatric patients have 10-11% lower median Cmax,ss and 2% lower median Cmin,ss compared to non-obese patients.
+- When the recommended oral solution dose is administered to pediatric patients across the full weight range, obese pediatric patients have 25% higher median Cmax,ss and 41% higher median Cmin,ss compared to non-obese pediatric patients.
+
+However, differences in exposures between obese and non-obese pediatric patients are not expected to be clinically meaningful because the recommended dose titration at initiation of levetiracetam therapy would establish an appropriate dose for each individual patient.
+
 Pregnancy
 
 Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
