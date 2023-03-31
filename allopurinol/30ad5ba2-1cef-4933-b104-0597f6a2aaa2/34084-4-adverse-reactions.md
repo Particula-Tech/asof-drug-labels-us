@@ -23,40 +23,34 @@ It has been reported that symptoms may develop in approximately 1 week from init
 
 To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Most Common Reactions* Probably Causally Related:
-
-- Gastrointestinal: Diarrhea, nausea, alkaline phosphataseincrease, SGOT/SGPT increase.
-- Metabolic and Nutritional: Acute attacks of gout.
-- Skin and Appendages: Rash, maculopapular rash.
+Most Common Reactions* Probably Causally Related: Gastrointestinal: Diarrhea, nausea, alkaline phosphatase increase, SGOT/SGPT increase.
+Metabolic and Nutritional:Acute attacks of gout.
+Skin and Appendages: Rash, maculopapular rash.
 
 *Early clinical studies and incidence rates from early clinical experience with allopurinol suggested that these adverse reactions were found to occur at a rate of greater than 1%.
 The most frequent event observed was acute attacks of gout following the initiation of therapy.
 Analyses of current usage suggest that the incidence of these adverse reactions is now less than 1%.
-The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONSintroduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
+The explanation for this decrease has not been determined, but it may be due to following recommended usage (see ADVERSE REACTIONS introduction, INDICATIONS AND USAGE, PRECAUTIONS, and DOSAGE AND ADMINISTRATION).
 
-Incidence Less Than 1% Probably Causally Related:
+Incidence Less Than 1% Probably Causally Related: Body As a Whole: Ecchymosis, fever, headache.
+Cardiovascular: Necrotizing angiitis, vasculitis.
+Gastrointestinal: Hepatic necrosis, granulomatous hepatitis, hepatomegaly, hyperbilirubinemia, cholestatic jaundice, vomiting, intermittent abdominal pain, gastritis, dyspepsia.
+Hemic and Lymphatic: Thrombocytopenia, eosinophilia, leukocytosis, leukopenia.
+Musculoskeletal: Myopathy, arthralgias.
+Nervous: Peripheral neuropathy, neuritis, paresthesia, somnolence.
+Respiratory: Epistaxis.
+Skin and Appendages: Erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell's syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus.
+Special Senses: Taste loss/perversion.
+Urogenital: Renal failure, uremia (see PRECAUTIONS).
 
-- Body As a Whole: Ecchymosis, fever, headache.
-- Cardiovascular: Necrotizing angiitis, vasculitis.
-- Gastrointestinal: Hepatic necrosis, granulomatous hepatitis, hepatomegaly, hyperbilirubinemia, cholestatic jaundice, vomiting, intermittent abdominal pain, gastritis, dyspepsia.
-- Hemic and Lymphatic: Thrombocytopenia, eosinophilia, leukocytosis, leukopenia.
-- Musculoskeletal: Myopathy, arthralgias.
-- Nervous: Peripheral neuropathy, neuritis, paresthesia, somnolence.
-- Respiratory: Epistaxis.
-- Skin and Appendages: Erythema multiforme exudativum (Stevens-Johnson syndrome), toxic epidermal necrolysis (Lyell's syndrome), hypersensitivity vasculitis, purpura, vesicular bullous dermatitis, exfoliative dermatitis, eczematoid dermatitis, pruritus, urticaria, alopecia, onycholysis, lichen planus.
-- Special Senses: Taste loss/perversion.
-- Urogenital: Renal failure, uremia (see PRECAUTIONS).
-
-Incidence Less Than 1% Causal Relationship Unknown:
-
-- Body As a Whole: Malaise.
-- Cardiovascular: Pericarditis, peripheral vascular disease, thrombophlebitis, bradycardia, vasodilation.
-- Endocrine: Infertility (male), hypercalcemia, gynecomastia (male).
-- Gastrointestinal: Hemorrhagic pancreatitis, gastrointestinal bleeding, stomatitis, salivary gland swelling, hyperlipidemia, tongue edema, anorexia.
-- Hemic and Lymphatic: Aplastic anemia, agranulocytosis, eosinophilic fibrohistiocytic lesion of bone marrow, pancytopenia, prothrombin decrease, anemia, hemolytic anemia, reticulocytosis, lymphadenopathy, lymphocytosis.
-- Musculoskeletal: Myalgia.
-- Nervous: Optic neuritis, confusion, dizziness, vertigo, foot drop, decrease in libido, depression, amnesia, tinnitus, asthenia, insomnia.
-- Respiratory: Bronchospasm, asthma, pharyngitis, rhinitis.
-- Skin and Appendages: Furunculosis, facial edema, sweating, skin edema.
-- Special Senses: Cataracts, macular retinitis, iritis, conjunctivitis, amblyopia.
-- Urogenital: Nephritis, impotence, primary hematuria, albuminuria.
+Incidence Less Than 1% Causal Relationship Unknown: Body As a Whole: Malaise.
+Cardiovascular: Pericarditis, peripheral vascular disease, thrombophlebitis, bradycardia, vasodilation.
+Endocrine: Infertility (male), hypercalcemia, gynecomastia (male).
+Gastrointestinal: Hemorrhagic pancreatitis, gastrointestinal bleeding, stomatitis, salivary gland swelling, hyperlipidemia, tongue edema, anorexia.
+Hemic and Lymphatic: Aplastic anemia, agranulocytosis, eosinophilic fibrohistiocytic lesion of bone marrow, pancytopenia, prothrombin decrease, anemia, hemolytic anemia, reticulocytosis, lymphadenopathy, lymphocytosis.
+Musculoskeletal: Myalgia.
+Nervous: Optic neuritis, confusion, dizziness, vertigo, foot drop, decrease in libido, depression, amnesia, tinnitus, asthenia, insomnia.
+Respiratory: Bronchospasm, asthma, pharyngitis, rhinitis.
+Skin and Appendages: Furunculosis, facial edema, sweating, skin edema.
+Special Senses: Cataracts, macular retinitis, iritis, conjunctivitis, amblyopia.
+Urogenital: Nephritis, impotence, primary hematuria, albuminuria.

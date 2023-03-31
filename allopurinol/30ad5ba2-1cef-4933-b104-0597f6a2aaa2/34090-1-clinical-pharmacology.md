@@ -7,10 +7,10 @@ Allopurinol is a structural analogue of the natural purine base, hypoxanthine.
 It is an inhibitor of xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in man.
 Allopurinol is metabolized to the corresponding xanthine analogue, oxipurinol (alloxanthine), which also is an inhibitor of xanthine oxidase.
 
-It has been shown that reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by allopurinol and oxipurinol.
+It has been shown that reutilization of both hypoxanthine and xanthine for nucleotide and nucleic acid synthesis is markedly enhanced when their oxidations are inhibited by Allopurinol and oxipurinol.
 This reutilization does not disrupt normal nucleic acid anabolism, however, because feedback inhibition is an integral part of purine biosynthesis.
-As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving allopurinol for treatment of hyperuricemia is usually in the range of 0.3 to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL.
-A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of allopurinol.
+As a result of xanthine oxidase inhibition, the serum concentration of hypoxanthine plus xanthine in patients receiving Allopurinol for treatment of hyperuricemia is usually in the range of 0.3 to 0.4 mg/dL compared to a normal level of approximately 0.15 mg/dL.
+A maximum of 0.9 mg/dL of these oxypurines has been reported when the serum urate was lowered to less than 2 mg/dL by high doses of Allopurinol.
 These values are far below the saturation levels at which point their precipitation would be expected to occur (above 7 mg/dL).
 
 The renal clearance of hypoxanthine and xanthine is at least 10 times greater than that of uric acid.

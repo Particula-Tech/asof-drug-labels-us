@@ -31,7 +31,7 @@ Otherwise similar considerations to the above recommendations for treating patie
 
 The dose of allopurinol recommended for management of recurrent calcium oxalate stones in hyperuricosuric patients is 200 to 300 mg/day in divided doses or as the single equivalent.
 This dose may be adjusted up or down depending upon the resultant control of the hyperuricosuria based upon subsequent 24 hour urinary urate determinations.
-Clinical experience suggests that patients with recurrent calcium oxalate stones may also benefit from dietary changes such as the reduction of animal protein, sodium, refined sugars, oxalaterich foods, and excessive calcium intake, as well as an increase in oral fluids and dietary fiber.
+Clinical experience suggests that patients with recurrent calcium oxalate stones may also benefit from dietary changes such as the reduction of animal protein, sodium, refined sugars, oxalate rich foods, and excessive calcium intake, as well as an increase in oral fluids and dietary fiber.
 
 Children, 6 to 10 years of age, with secondary hyperuricemia associated with malignancies may be given 300 mg allopurinol daily while those under 6 years are generally given 150 mg daily.
 The response is evaluated after approximately 48 hours of therapy and a dosage adjustment is made if necessary.

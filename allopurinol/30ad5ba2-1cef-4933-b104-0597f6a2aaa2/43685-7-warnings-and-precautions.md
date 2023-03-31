@@ -50,7 +50,7 @@ Rarely, a patient may develop varying degrees of bone marrow depression, affecti
 
 Patients should be informed of the following:
 
-1) They should be cautioned to discontinue allopurinol and to consult their physician immediately at the first sign of a skin rash, painful urination, blood in the urine, irritation of the eyes, or swelling of the lips or mouth.
+(1) They should be cautioned to discontinue allopurinol and to consult their physician immediately at the first sign of a skin rash, painful urination, blood in the urine, irritation of the eyes, or swelling of the lips or mouth.
 (2) They should be reminded to continue drug therapy prescribed for gouty attacks since optimal benefit of allopurinol may be delayed for 2 to 6 weeks.
 (3) They should be encouraged to increase fluid intake during therapy to prevent renal stones.
 (4) If a single dose of allopurinol is occasionally forgotten, there is no need to double the dose at the next scheduled time.
@@ -71,7 +71,8 @@ The prothrombin time should be reassessed periodically in the patients receiving
 
 ## DRUG INTERACTIONS
 
-In patients receiving mercaptopurine or IMURAN (azathioprine), the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one third to one fourth of the usual dose of mercaptopurine or azathioprine.Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
+In patients receiving mercaptopurine or IMURAN (azathioprine), the concomitant administration of 300 to 600 mg of allopurinol per day will require a reduction in dose to approximately one third to one fourth of the usual dose of mercaptopurine or azathioprine.
+Subsequent adjustment of doses of mercaptopurine or azathioprine should be made on the basis of therapeutic response and the appearance of toxic effects (see CLINICAL PHARMACOLOGY).
 
 It has been reported that allopurinol prolongs the half-life of the anticoagulant, dicumarol.
 The clinical basis of this drug interaction has not been established but should be noted when allopurinol is given to patients already on dicumarol therapy.
@@ -127,4 +128,4 @@ Since the effect of allopurinol on the nursing infant is unknown, caution should
 
 ## PEDIATRIC USE
 
-Allopurinol is rarely indicated for use in children with the exception of those with hyperuricemia secondary to malignancy or to certain rare inborn errors of purine metabolism (see INDICATIONS AND USAGEand DOSAGE AND ADMINISTRATION).
+Allopurinol is rarely indicated for use in children with the exception of those with hyperuricemia secondary to malignancy or to certain rare inborn errors of purine metabolism (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION).
