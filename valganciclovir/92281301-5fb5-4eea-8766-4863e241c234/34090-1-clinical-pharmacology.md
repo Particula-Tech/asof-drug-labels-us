@@ -13,16 +13,14 @@ Pharmacokinetics in Adults: The pharmacokinetics of ganciclovir after administra
 
 Table 10 Ganciclovir Pharmacokinetics* in Healthy Volunteers and HIV-positive/CMV-positive Adults Administered Valganciclovir Tablets 900 mg Once Daily with Food
 
-| PK parameter | N | Value (Mean ±SD) |
+| PK parameter | N | Value (Mean ± SD) |
 | --- | --- | --- |
 | AUC0-24h (mcg∙h/mL) | 57 | 29.1 ± 9.7 |
 | Cmax (mcg/mL) | 58 | 5.61 ± 1.52 |
 | Absolute oral bioavailability (%) | 32 | 59.4 ± 6.1 |
 | Elimination half-life (hr) | 73 | 4.08 ± 0.76 |
 | Renal clearance (mL/min/kg) | 20 | 3.21 ± 0.75 (1 study, n=20) |
-
-*Data were obtained from single and multiple dose studies in healthy volunteers, HIV-positive patients, and HIV-positive/CMV-positive patients with and without retinitis.
-Patients with CMV retinitis tended to have higher ganciclovir plasma concentrations than patients without CMV retinitis.
+| *Data were obtained from single and multiple dose studies in healthy volunteers, HIV-positive patients, and HIV-positive/CMV-positive patients with and without retinitis. Patients with CMV retinitis tended to have higher ganciclovir plasma concentrations than patients without CMV retinitis. |  |  |
 
 The systemic ganciclovir exposures attained following administration of 900 mg valganciclovir tablets once daily were comparable across kidney, heart and liver transplant recipients (Table 11).
 
@@ -34,8 +32,7 @@ Table 11 Ganciclovir Pharmacokinetics in Solid Organ Transplant Recipients Admin
 | AUC0-24h (mcg·h/mL) | 40.2 ± 11.8 | 46.0 ± 16.1 | 48.2 ± 14.6 |
 | Cmax (mcg/mL) | 4.9 ± 1.1 | 5.4 ± 1.5 | 5.3 ± 1.5 |
 | Elimination half-life (hr) | 6.58 ± 1.50 | 6.18 ± 1.42 | 6.77 ± 1.25 |
-
-* Includes kidney-pancreas
+| * Includes kidney-pancreas |  |  |  |
 
 The pharmacokinetic parameters of ganciclovir following 200 days of valganciclovir administration in high-risk kidney transplant patients were similar to those in solid organ transplant patients who received valganciclovir for 100 days.
 
@@ -61,8 +58,7 @@ Table 12 Pharmacokinetic Properties of Ganciclovir and Valganciclovir Associated
 | t1/2 (h) |  | See Tables 10 and 11 |
 | % Of dose excreted in urine | Unknown |  |
 | % Of dose excreted in feces | Unknown |  |
-
-aSteady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects.
+| aSteady state ganciclovir PK was assessed after administration of valganciclovir tablets (875 mg once daily) with a high fat meal containing approximately 600 total calories (31.1 g fat, 51.6 g carbohydrates and 22.2 g protein) to 16 HIV-positive subjects. |  |  |
 
 Specific Populations:
 
@@ -74,13 +70,12 @@ Table 13 Pharmacokinetics of Ganciclovir from a Single Oral Dose of 900 mg Valga
 | Estimated |  | Apparent Clearance | AUClast | Half-life |
 | --- | --- | --- | --- | --- |
 | Creatinine Clearance* |  | (mL/min) | (mcg·h/mL) | (hours) |
-| (mL/min) | N | Mean ± SD | Mean ± SD | Mean ±SD |
+| (mL/min) | N | Mean ± SD | Mean ± SD | Mean ± SD |
 | 51 to 70 | 6 | 249 ± 99 | 49.5 ± 22.4 | 4.85 ± 1.4 |
 | 21 to 50 | 6 | 136 ± 64 | 91.9 ± 43.9 | 10.2 ± 4.4 |
 | 11 to 20 | 6 | 45 ± 11 | 223 ± 46 | 21.8 ± 5.2 |
 | ≤10 | 6 | 12.8 ± 8 | 366 ± 66 | 67.5 ± 34 |
-
-*Creatinine clearance calculated from 24-hour urine collection.
+| *Creatinine clearance calculated from 24-hour urine collection. |  |  |  |  |
 
 Hemodialysis reduces plasma concentrations of ganciclovir by about 50% following valganciclovir administration.
 Adult patients receiving hemodialysis (CrCl less than 10 mL/min) cannot use valganciclovir tablets because the daily dose of valganciclovir tablets required for these patients is less than 450 mg [see Use in Specific Populations (8.6)].
@@ -99,8 +94,7 @@ Table 14 Ganciclovir Pharmacokinetics by Age in Pediatric Solid Organ Transplant
 | Heart(N=26) | NAUC0-24h (mcg∙h/mL)Cmax (mcg/mL) t1/2 (h) | 14a66.3 (20.5) 10.8 (3.30)3.5 (0.87) | 655.4 (22.8) 8.2 (2.5) 3.8 (1.7) | 259.6 (21.0) 12.5 (1.2) 2.8 (0.9) | 460.6 (25.0) 9.5 (3.3) 4.9 (0.8) |
 | Kidney(N=31) | NAUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 267.6 (13.0) 10.4 (0.4) 4.5 (1.5) | 1055.9 (12.1) 8.7 (2.1) 4.8 (1.0) | 1947.8 (12.4) 7.7 (2.1) 6.0 (1.3) |
 | Liver(N=17) | NAUC0-24h (mcg∙h/mL) Cmax (mcg/mL) t1/2 (h) | NA | 969.9 (37.0) 11.9 (3.7) 2.8 (1.5) | 659.4 (8.1) 9.5 (2.3) 3.8 (0.7) | 235.4 (2.8) 5.5 (1.1) 4.4 (0.2) |
-
-N= number of patients, NA=not applicable a Ages ranged from 26 to 124 days.
+| N= number of patients, NA=not applicable a Ages ranged from 26 to 124 days. |  |  |  |  |  |
 
 Pharmacokinetics in Geriatric Patients: The pharmacokinetic characteristics of valganciclovir in elderly patients have not been established.
 

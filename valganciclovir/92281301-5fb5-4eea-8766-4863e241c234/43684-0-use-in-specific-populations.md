@@ -65,11 +65,20 @@ Infertility
 
 Valganciclovir at the recommended doses may cause temporary or permanent female and male infertility [see Warnings and Precautions (5.3), Nonclinical Toxicology (13.1)].
 
+Data
+
+Human Data
+
+In a small, open-label, non-randomized clinical study, adult male renal transplant patients receiving valganciclovir for CMV prophylaxis for up to 200 days post-transplantation were compared to an untreated control group.
+Patients were followed-up for six months after valganciclovir discontinuation.
+Among 24 evaluable patients in the valganciclovir group, the mean sperm density at the end of treatment visit decreased by 11 million/mL from baseline; whereas, among 14 evaluable patients in the control group the mean sperm density increased by 33 million/mL.
+However, at the follow-up visit among 20 evaluable patients in the valganciclovir group the mean sperm density was comparable to that observed among 10 evaluable patients in the untreated control group (the mean sperm density at the end of follow-up visit increased by 41 million/mL from baseline in the valganciclovir group and by 43 million/mL in the untreated group).
+
 ## 8.4 Pediatric Use
 
 Valganciclovir for oral solution and tablets are indicated for the prevention of CMV disease in pediatric kidney transplant patients 4 months to 16 years of age and in pediatric heart transplant patients 1 month to 16 years of age at risk for developing CMV disease [see Indications and Usage (1.2), Dosage and Administration (2.3)].
 
-The use of valganciclovir for oral solution for the prevention of CMV disease in pediatric kidney transplant patients 4 months to 16 years of age is based on two single-arm, open-label, non-comparative studies in patients 4 months to 16 years of age.
+The use of valganciclovir hydrochloride for oral solution and tablets for the prevention of CMV disease in pediatric kidney transplant patients 4 months to 16 years of age is based on two single-arm, open-label, non-comparative studies in patients 4 months to 16 years of age.
 Study 1 was a safety and pharmacokinetic study in pediatric solid organ transplant patients (kidney, liver, heart, and kidney/pancreas).
 Valganciclovir was administered once daily within 10 days of transplantation for a maximum of 100 days post-transplantation.
 Study 2 was a safety and tolerability study where valganciclovir was administered once daily within 10 days of transplantation for a maximum of 200 days post-transplantation in pediatric kidney transplant patients.
