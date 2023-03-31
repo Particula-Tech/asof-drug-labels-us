@@ -14,4 +14,4 @@ DIPRIVAN vials are never to be accessed more than once or used on more than one 
 
 Manufactured for: Lake Zurich, IL 60047 Made in Sweden
 
-www.fresenius-kabi.com/us 451243E Revised: December 2019
+www.fresenius-kabi.com/us 451243F Revised: September 2022

@@ -7,5 +7,5 @@ The structural formula is:
 Propofol is slightly soluble in water and, thus, is formulated in a white, oil-in-water emulsion.
 The pKa is 11.
 The octanol/water partition coefficient for propofol is 6761:1 at a pH of 6 to 8.5.
-In addition to the active component, propofol, the formulation also contains soybean oil (100 mg/mL), glycerol (22.5 mg/mL), egg lecithin (12 mg/mL); and disodium edetate (0.005%); with sodium hydroxide to adjust pH.
+In addition to the active component, propofol, the formulation also contains soybean oil (100 mg/mL), glycerol (22.5 mg/mL), egg lecithin (12 mg/mL); and disodium edetate anhydrous (0.05 mg/mL); with sodium hydroxide to adjust pH.
 DIPRIVAN is isotonic and has a pH of 7 to 8.5.
