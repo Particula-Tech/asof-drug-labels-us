@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA080571"
+  ],
+  "inn": "thiamine",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-050-11",
+    "43598-050-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "thiamine hydrochloride",
+      "name": "Thiamine Hydrochloride"
+    }
+  ],
+  "setid": "43926cec-e483-8cf1-4d8d-5145e554d45d",
+  "source": "dailymed"
+}
