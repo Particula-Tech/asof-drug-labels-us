@@ -22,9 +22,7 @@ Unasyn® (ampicillin sodium/sulbactam sodium) for Injection
 
 1.5 g* per vial
 
-Sterile
-
-For Intramuscular or Intravenous use
+Sterile For Intramuscular or Intravenous use
 
 Pfizer Injectables
 
@@ -48,9 +46,7 @@ Unasyn® (ampicillin sodium/sulbactam sodium) for Injection
 
 3 g* per vial
 
-Sterile
-
-For Intramuscular or Intravenous use
+Sterile For Intramuscular or Intravenous use
 
 Pfizer Injectables
 
