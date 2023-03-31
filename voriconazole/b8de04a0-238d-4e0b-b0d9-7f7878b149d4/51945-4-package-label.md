@@ -10,7 +10,7 @@ ORANGE FLAVORED 40 mg/mL*
 
 Rx only
 
-8716723
+8716724
 
 LOT: EXP:
 
@@ -24,9 +24,7 @@ voriconazole for oral suspension
 
 ORANGE FLAVORED
 
-40 mg/mL*
-
-Oral Dispenser Included Important: Read assembly instructions carefully before dispensing.
+40 mg/mL* Oral Dispenser Included Important: Read assembly instructions carefully before dispensing.
 Contains Small Parts - Keep out of reach of children.
 
 Rx only
