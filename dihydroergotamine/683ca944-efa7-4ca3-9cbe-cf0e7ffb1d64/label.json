@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA040453"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9151-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dihydroergotamine mesylate",
+      "name": "Dihydroergotamine Mesylate"
+    }
+  ],
+  "setid": "683ca944-efa7-4ca3-9cbe-cf0e7ffb1d64",
+  "source": "dailymed"
+}
