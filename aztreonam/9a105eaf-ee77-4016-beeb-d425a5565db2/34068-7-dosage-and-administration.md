@@ -26,7 +26,7 @@ Doses smaller than those indicated should not be used.
 ## Renal Impairment in Adult Patients
 
 Prolonged serum levels of aztreonam may occur in patients with transient or persistent renal insufficiency.
-Therefore, the dosage of AZACTAM should be halved in patients with estimated creatinine clearances between 10 and 30 mL/min/1.73 m2 after an initial loading dose of 1 or 2 g.
+Therefore, the dosage of AZACTAM should be halved in patients with estimated creatinine clearances between 10 and 30 mL/min/1.73 m2 after an initial loading dose of 1g or 2 g.
 
 When only the serum creatinine concentration is available, the following formula (based on sex, weight, and age of the patient) may be used to approximate the creatinine clearance (Clcr).
 The serum creatinine should represent a steady state of renal function.
@@ -68,17 +68,18 @@ A total of 612 pediatric patients aged 1 month to 12 years were enrolled in unco
 ### General
 
 Upon the addition of the diluent to the container, contents should be shaken immediately and vigorously.
-Constituted solutions are not for multiple-dose use; should the entire volume in the container not be used for a single dose, the unused solution must be discarded.
+Use constituted solution immediately.
+Discard any remaining unused constituted solution.
 
 Depending upon the concentration of aztreonam and diluent used, constituted AZACTAM yields a colorless to light straw yellow solution which may develop a slight pink tint on standing (potency is not affected).
 Parenteral drug products should be inspected visually for particulate matter and discoloration whenever solution and container permit.
 
 ### Admixtures with Other Antibiotics
 
-Intravenous infusion solutions of AZACTAM not exceeding 2% w/v prepared with Sodium Chloride Injection, USP 0.9% or Dextrose Injection, USP 5%, to which clindamycin phosphate, gentamicin sulfate, tobramycin sulfate, or cefazolin sodium have been added at concentrations usually used clinically, are stable for up to 48 hours at room temperature or 7 days under refrigeration.
-Ampicillin sodium admixtures with aztreonam in Sodium Chloride Injection, USP 0.9% are stable for 24 hours at room temperature and 48 hours under refrigeration; stability in Dextrose Injection, USP 5% is 2 hours at room temperature and 8 hours under refrigeration.
+Intravenous infusion solutions of AZACTAM not exceeding 2% w/v prepared with Sodium Chloride Injection, USP 0.9% or Dextrose Injection, USP 5%, to which clindamycin phosphate, gentamicin sulfate, tobramycin sulfate, or cefazolin sodium have been added at concentrations usually used clinically, are stable for up to 48 hours at controlled room temperature 15°C to 30°C (59°F to 86°F) or 7 days under refrigeration 2°C to 8°C (36°F to 46°F).
+Ampicillin sodium admixtures with aztreonam in Sodium Chloride Injection, USP 0.9% are stable for 24 hours at controlled room temperature 15°C to 30°C (59°F to 86°F) and 48 hours under refrigeration 2°C to 8°C (36°F to 46°F); stability in Dextrose Injection, USP 5% is 2 hours at controlled room temperature 15°C to 30°C (59°F to 86°F) and 8 hours under refrigeration 2°C to 8°C (36°F to 46°F).
 
-Aztreonam-cloxacillin sodium and aztreonam-vancomycin hydrochloride admixtures are stable in Dianeal 137 (Peritoneal Dialysis Solution) with 4.25% Dextrose for up to 24 hours at room temperature.
+Aztreonam-cloxacillin sodium and aztreonam-vancomycin hydrochloride admixtures are stable in Dianeal 137 (Peritoneal Dialysis Solution) with 4.25% Dextrose for up to 24 hours at controlled room temperature 15°C to 30°C (59°F to 86°F).
 
 Aztreonam is incompatible with nafcillin sodium, cephradine, and metronidazole.
 
@@ -86,9 +87,9 @@ Other admixtures are not recommended since compatibility data are not available.
 
 ### Intravenous Solutions
 
-For Bolus Injection: The contents of an AZACTAM 15 mL capacity vial should be constituted with 6 to 10 mL Sterile Water for Injection, USP.
+For Bolus Injection: The vial contents should be constituted with 6 mL to 10 mL Sterile Water for Injection, USP.
 
-For Infusion: If the contents of a 15 mL capacity vial are to be transferred to an appropriate infusion solution, each gram of aztreonam should be initially constituted with at least 3 mL Sterile Water for Injection, USP.
+For Infusion: If the vial contents are to be transferred to an appropriate infusion solution, each gram of aztreonam should be initially constituted with at least 3 mL Sterile Water for Injection, USP.
 Further dilution may be obtained with one of the following intravenous infusion solutions:
 
 Sodium Chloride Injection, USP, 0.9%
@@ -125,16 +126,16 @@ Plasma-Lyte M and 5% Dextrose
 
 ### Intramuscular Solutions
 
-The contents of an AZACTAM 15 mL capacity vial should be constituted with at least 3 mL of an appropriate diluent per gram aztreonam.
+The vial contents should be constituted with at least 3 mL of an appropriate diluent per gram aztreonam.
 The following diluents may be used:
 
 Sterile Water for Injection, USP Sterile Bacteriostatic Water for Injection, USP (with benzyl alcohol or with methyl- and propylparabens) Sodium Chloride Injection, USP, 0.9% Bacteriostatic Sodium Chloride Injection, USP (with benzyl alcohol)
 
 ### Stability of Intravenous and Intramuscular Solutions
 
-AZACTAM solutions for intravenous infusion at concentrations not exceeding 2% w/v must be used within 48 hours following constitution if kept at controlled room temperature (59°F-86°F/15°C-30°C) or within 7 days if refrigerated (36°F-46°F/2°C-8°C).
+AZACTAM solutions for intravenous infusion at concentrations not exceeding 2% w/v must be used within 48 hours following constitution if kept at controlled room temperature 15°C to 30°C (59°F to 86°F) or within 7 days if refrigerated 2°C to 8°C (36°F to 46°F).
 
-AZACTAM solutions at concentrations exceeding 2% w/v, except those prepared with Sterile Water for Injection, USP or Sodium Chloride Injection, USP, should be used promptly after preparation; the 2 excepted solutions must be used within 48 hours if stored at controlled room temperature or within 7 days if refrigerated.
+AZACTAM solutions at concentrations exceeding 2% w/v, except those prepared with Sterile Water for Injection, USP or Sodium Chloride Injection, USP, should be used promptly after preparation; the 2 excepted solutions must be used within 48 hours if stored at controlled room temperature 15°C to 30°C (59°F to 86°F) or within 7 days if refrigerated 2°C to 8°C (36°F to 46°F).
 
 ### Intravenous Administration
 

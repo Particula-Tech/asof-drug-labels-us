@@ -5,4 +5,4 @@ All other trademarks are the property of their respective owners.
 
 Manufactured by: Bristol-Myers Squibb Company Princeton, NJ 08543 USA
 
-Revised: October 2022
+Revised: March 2023
