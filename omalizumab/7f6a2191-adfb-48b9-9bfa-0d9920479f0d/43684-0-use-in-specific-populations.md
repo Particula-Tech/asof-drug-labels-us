@@ -69,11 +69,11 @@ In the pivotal trial, XOLAIR-treated patients had a statistically significant re
 
 Safety and efficacy in pediatric patients with asthma below 6 years of age have not been established.
 
-Nasal Polyps
+Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
 
-Safety and effectiveness in pediatric patients with nasal polyps below 18 years of age have not been established.
+Safety and effectiveness in pediatric patients with CRSwNP below 18 years of age have not been established.
 
-Chronic Spontaneous Urticaria
+Chronic Spontaneous Urticaria (CSU)
 
 The safety and effectiveness of XOLAIR for chronic spontaneous urticaria (CSU) have been established in pediatric patients aged 12 years and older.
 Use of XOLAIR in this population is supported by evidence from adequate and well-controlled studies.
@@ -84,5 +84,5 @@ Safety and effectiveness in pediatric patients with CSU below 12 years of age ha
 
 ## 8.5 Geriatric Use
 
-In clinical studies, 134 asthma patients, 20 nasal polyps patients, and 37 CSU phase 3 study patients 65 years of age or older were treated with XOLAIR.
+In clinical studies, 134 asthma patients, 20 CRSwNP patients, and 37 CSU phase 3 study patients 65 years of age or older were treated with XOLAIR.
 Although there were no apparent age-related differences observed in these studies, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.

@@ -2,17 +2,17 @@
 
 ## 2.1 Overview of Dosage Determination
 
-Asthma and Nasal Polyps
+Asthma and Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
 
 Determine dose (mg) and dosing frequency by serum total IgE level (IU/mL) measured before the start of treatment, and by body weight (kg).
-For patients with both asthma and nasal polyps, dosing determination should be based on the primary diagnosis for which XOLAIR is being prescribed.
-Adjust doses for significant changes in body weight during treatment (see Tables 1 and 2 for treatment of asthma and Table 3 for treatment of nasal polyps).
+For patients with both asthma and CRSwNP, dosing determination should be based on the primary diagnosis for which XOLAIR is being prescribed.
+Adjust doses for significant changes in body weight during treatment (see Tables 1 and 2 for treatment of asthma and Table 3 for treatment of CRSwNP).
 
 Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment.
 Therefore, re-testing of IgE levels during XOLAIR treatment cannot be used as a guide for dose determination.
 
 - Interruptions lasting less than one year: Dose based on serum IgE levels obtained at the initial dose determination.
-- Interruptions lasting one year or more: Re-test total serum IgE levels for dose determination (Table 1 or 2 for treatment of asthma, based on the patient's age, and Table 3 for treatment of nasal polyps).
+- Interruptions lasting one year or more: Re-test total serum IgE levels for dose determination (Table 1 or 2 for treatment of asthma, based on the patient's age, and Table 3 for treatment of CRSwNP).
 
 Chronic Spontaneous Urticaria
 
@@ -29,7 +29,7 @@ Duration of Therapy
 
 Periodically reassess the need for continued therapy based upon the patient's disease severity and level of asthma control.
 
-## 2.3 Recommended Dosage for Nasal Polyps
+## 2.3 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
 
 Administer XOLAIR 75 mg to 600 mg by subcutaneous injection every 2 or 4 weeks based on serum total IgE level (IU/mL) measure before the start of treatment and by body weight (kg) [see Dosage and Administration (2.1)].
 
@@ -85,7 +85,7 @@ Administration Instructions
 Table 4.
 Number of Prefilled Syringes, Injections and Total Injection Volumes
 
-| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in nasal polyps patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CSU patients. | 75 mg Syringes | 150 mg Syringes | Total Volume Injected |
+| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in CRSwNP patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CSU patients. | 75 mg Syringes | 150 mg Syringes | Total Volume Injected |
 | --- | --- | --- | --- |
 | 75 mg | 1 | 0 | 0.5 mL |
 | 150 mg | 0 | 1 | 1 mL |
@@ -106,7 +106,7 @@ The supplied XOLAIR lyophilized powder must be reconstituted with Sterile Water 
 Table 5.
 Number of Vials, Injections and Total Injection Volumes
 
-| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in nasal polyps patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CSU patients. | Number of Vials | Number of Injections | Total Volume Injected |
+| XOLAIR DoseThe 75 mg, 150 mg, 225 mg, 300 mg, and 375 mg XOLAIR doses are approved for use in asthma patients. All doses in the table are approved for use in CRSwNP patients. The 150 mg and 300 mg XOLAIR doses are also approved for use in CSU patients. | Number of Vials | Number of Injections | Total Volume Injected |
 | --- | --- | --- | --- |
 | 75 mg | 1 | 1 | 0.6 mL |
 | 150 mg | 1 | 1 | 1.2 mL |

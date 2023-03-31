@@ -9,9 +9,9 @@ Limitations of Use:
 - XOLAIR is not indicated for the relief of acute bronchospasm or status asthmaticus.
 - XOLAIR is not indicated for treatment of other allergic conditions.
 
-## 1.2 Nasal Polyps
+## 1.2 Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
 
-XOLAIR is indicated for add-on maintenance treatment of nasal polyps in adult patients 18 years of age and older with inadequate response to nasal corticosteroids.
+XOLAIR is indicated for add-on maintenance treatment of chronic rhinosinusitis with nasal polyps (CRSwNP) in adult patients 18 years of age and older with inadequate response to nasal corticosteroids.
 
 ## 1.3 Chronic Spontaneous Urticaria (CSU)
 

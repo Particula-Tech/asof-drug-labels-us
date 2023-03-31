@@ -14,8 +14,8 @@ Inform patients of the risk of life-threatening anaphylaxis with XOLAIR includin
 
 Continuation of Other Medications
 
-Instruct patients receiving XOLAIR not to decrease the dose of, or stop taking any other asthma, nasal polyps, or CSU medications unless otherwise instructed by their physician.
-Inform patients that they may not see immediate improvement in their asthma, nasal polyps, or CSU symptoms after beginning XOLAIR therapy.
+Instruct patients receiving XOLAIR not to decrease the dose of, or stop taking any other asthma, CRSwNP, or CSU medications unless otherwise instructed by their physician.
+Inform patients that they may not see immediate improvement in their asthma, CRSwNP, or CSU symptoms after beginning XOLAIR therapy.
 
 Prefilled Syringe Needle Cover Contains Latex
 

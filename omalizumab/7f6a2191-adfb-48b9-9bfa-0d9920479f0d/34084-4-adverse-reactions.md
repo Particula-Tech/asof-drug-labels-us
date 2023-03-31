@@ -76,16 +76,16 @@ The most common adverse reactions occurring at ≥3% in the pediatric patients r
 The adverse reactions most frequently resulting in clinical intervention (e.g., discontinuation of XOLAIR, or the need for concomitant medication to treat an adverse event) were bronchitis (0.2%), headache (0.2%) and urticaria (0.2%).
 These reactions were observed at similar rates in XOLAIR-treated patients and control patients.
 
-Adverse Reactions from Clinical Studies in Adult Patients with Nasal Polyps
+Adverse Reactions from Clinical Studies in Adult Patients with Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
 
 The data described below reflect XOLAIR exposure for 135 patients ≥ 18 years of age, exposed for six months in two placebo-controlled studies.
 The mean age of patients receiving XOLAIR was 49.7 years; 64% were male, and 94% were Caucasian.
 Patients received XOLAIR or placebo SC every 2 or 4 weeks, with dosage and frequency according to Table 3.
 All patients received background nasal mometasone therapy throughout the study.
-Table 7 lists the adverse reactions occurring in ≥3% of XOLAIR-treated patients and more frequently than in patients treated with placebo in Nasal Polyps Trials 1 and 2; results were pooled.
+Table 7 lists the adverse reactions occurring in ≥3% of XOLAIR-treated patients and more frequently than in patients treated with placebo in CRSwNP Trials 1 and 2; results were pooled.
 
 Table 7.
-Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo in Nasal Polyps Trials 1 and 2
+Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequently than in Patients Treated with Placebo in CRSwNP Trials 1 and 2
 
 | Adverse reaction | XOLAIR n=135 | Placebo n=130 |
 | --- | --- | --- |
@@ -98,6 +98,7 @@ Adverse Reactions Occurring in ≥3% of XOLAIR-Treated Patients and More Frequen
 | Nervous system disorders |  |  |
 | Headache | 11 (8.1%) | 7 (5.4%) |
 | Dizziness | 4 (3.0%) | 1 (0.8%) |
+| CRSwNP = Chronic Rhinosinusitis with Nasal Polyps. |  |  |
 
 Adverse Reactions from Clinical Studies in Patients with Chronic Spontaneous Urticaria (CSU)
 

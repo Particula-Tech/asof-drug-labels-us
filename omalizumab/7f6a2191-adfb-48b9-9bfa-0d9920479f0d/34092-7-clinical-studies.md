@@ -122,11 +122,11 @@ Trial 5 was a 28-week randomized, double blind, placebo-controlled study that pr
 A 16-week steroid treatment period was followed by a 12-week steroid dose reduction period.
 Patients treated with XOLAIR had fewer asthma exacerbations compared to placebo during both the 16-week fixed steroid treatment period (0.18 vs. 0.32; rate ratio: 0.58; 95% CI: 0.35, 0.96) and the 28-week treatment period (0.38 vs. 0.76; rate ratio: 0.50; 95% CI: 0.36, 0.71).
 
-## 14.2 Nasal Polyps
+## 14.2 Chronic Rhinosinusitis with Nasal Polyps (CRSwNP)
 
 Adult Patients 18 Years of Age and Older
 
-The safety and efficacy of XOLAIR was evaluated in two, randomized, multicenter, double-blind, placebo-controlled clinical trials that enrolled patients with nasal polyps with inadequate response to nasal corticosteroids (Nasal Polyps Trial 1, n=138; Nasal Polyps Trial 2, n=127).
+The safety and efficacy of XOLAIR was evaluated in two, randomized, multicenter, double-blind, placebo-controlled clinical trials that enrolled patients with CRSwNP with inadequate response to nasal corticosteroids (CRSwNP Trial 1, n=138; CRSwNP Trial 2, n=127).
 Patients received XOLAIR or placebo SC every 2 or 4 weeks, with XOLAIR dosage and frequency according to Table 3, for 24 weeks followed by a 4-week follow-up period.
 All patients received background nasal mometasone therapy during both the treatment period and during a 5-week run-in period.
 Prior to randomization, patients were required to have evidence of bilateral polyps as determined by a nasal polyp score (NPS) ≥ 5 with NPS ≥ 2 in each nostril, despite use of nasal mometasone during the run-in period.
@@ -137,9 +137,9 @@ Prior sino-nasal surgery or prior systemic corticosteroid usage were not require
 Demographics and baseline characteristics, including allergic comorbidities, are described in Table 12.
 
 Table 12.
-Demographics and Baseline Characteristics of Nasal Polyps Trials 1 and 2
+Demographics and Baseline Characteristics of CRSwNP Trials 1 and 2
 
-| Parameter | Nasal Polyps Trial 1 (n=138) | Nasal Polyps Trial 2 (n=127) |
+| Parameter | CRSwNP Trial 1 (n=138) | CRSwNP Trial 2 (n=127) |
 | --- | --- | --- |
 | Mean age (years) (SD) | 51 (13) | 50 (12) |
 | % Male | 64 | 65 |
@@ -154,16 +154,16 @@ Demographics and Baseline Characteristics of Nasal Polyps Trials 1 and 2
 | Mean total IgE IU/mL (SD) | 161 (140) | 190 (201) |
 | Asthma (%) | 54 | 61 |
 | Aspirin exacerbated respiratory disease (%) | 20 | 35 |
-| SD=standard deviation; NPS=nasal polyp score; IgE = Immunoglobulin E; IU=international units. For NPS, NCS, sense of smell, post nasal drip, and runny nose, higher scores indicate greater disease severity. |  |  |
+| CRSwNP= chronic rhinosinusitis with nasal polyps; SD=standard deviation; NPS=nasal polyp score; IgE = Immunoglobulin E; IU=international units. For NPS, NCS, sense of smell, post nasal drip, and runny nose, higher scores indicate greater disease severity. |  |  |
 
 The co-primary endpoints in Trials 1 and 2 were NPS and average daily NCS at Week 24.
 In both trials, patients who received XOLAIR had a statistically significant greater improvement from baseline at Week 24 in NPS and weekly average NCS, than patients who received placebo.
-Results from Nasal Polyps Trials 1 and 2 are shown in Table 13.
+Results from CRSwNP Trials 1 and 2 are shown in Table 13.
 
 The greater improvements in NPS and NCS in the XOLAIR group compared to the placebo group were observed as early as the first assessment at Week 4 in both studies, as seen in Figure 1.
 
 Table 13.
-Change from Baseline at Week 24 in Nasal Polyp Score and 7-day Average of Daily Nasal Congestion Score in Nasal Polyps Trials 1 and 2
+Change from Baseline at Week 24 in Nasal Polyp Score and 7-day Average of Daily Nasal Congestion Score in CRSwNP Trials 1 and 2
 
 |  | Placebo | XOLAIR | Placebo | XOLAIR |
 | --- | --- | --- | --- | --- |
@@ -181,7 +181,7 @@ Change from Baseline at Week 24 in Nasal Polyp Score and 7-day Average of Daily 
 | Difference in LS means vs. placebo | -0.6 |  | -0.5 |  |
 | 95% CI for difference | -0.8, -0.3 |  | -0.8, -0.2 |  |
 | p-value | 0.0004 |  | 0.0017 |  |
-| LS=least-square. Change from baseline was analyzed using a mixed-effect model of repeated measures (MMRM) model with baseline score, baseline score/timepoint (week) interaction as covariates, and the following factors: geographic region, asthma/aspirin sensitivity comorbidity status, timepoint, treatment group, treatment/timepoint interaction. |  |  |  |  |
+| CRSwNP= chronic rhinosinusitis with nasal polyps; LS=least-square. Change from baseline was analyzed using a mixed-effect model of repeated measures (MMRM) model with baseline score, baseline score/timepoint (week) interaction as covariates, and the following factors: geographic region, asthma/aspirin sensitivity comorbidity status, timepoint, treatment group, treatment/timepoint interaction. |  |  |  |  |
 
 The mean NPS and NCS at each study week by treatment group is shown in Figure 1.
 
