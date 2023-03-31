@@ -1,10 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Drug Addiction Treatment Act
-
-Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C 823(g), prescription use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
-
-## 2.2 Important Dosage and Administration Information
+## 2.1 Important Dosage and Administration Information
 
 The difference in bioavailability of ZUBSOLV compared to Suboxone® sublingual tablet requires a different tablet strength to be given to the patient.
 One ZUBSOLV 5.7 mg/1.4 mg sublingual tablet provides equivalent buprenorphine exposure to one Suboxone 8 mg/2 mg sublingual tablet.
@@ -12,7 +8,7 @@ One ZUBSOLV 5.7 mg/1.4 mg sublingual tablet provides equivalent buprenorphine ex
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with ZUBSOLV.
@@ -23,7 +19,7 @@ Higher than normal doses and repeated administration of naloxone may be necessar
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
-## 2.4 Induction
+## 2.3 Induction
 
 Prior to induction, consideration should be given to the type of opioid dependence i.e., long- or short-acting opioid products, the time since last opioid use, and the degree or level of opioid dependence.
 
@@ -50,7 +46,7 @@ Buprenorphine/naloxone combination products have not been evaluated in adequate 
 For this reason, buprenorphine monotherapy is recommended in patients taking long-acting opioids when used according to approved administration instructions.
 Following induction, the patient may then be transitioned to once-daily ZUBSOLV.
 
-## 2.5 Maintenance
+## 2.4 Maintenance
 
 - The dosage of ZUBSOLV from Day 3 onwards should be progressively adjusted in increments/decrements of 2.9 mg/0.71 mg or lower of buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
 - After treatment induction and stabilization, the maintenance dose of ZUBSOLV is generally in the range of 2.9 mg/0.71 mg buprenorphine/naloxone to 17.2 mg/4.2 mg buprenorphine/naloxone per day depending on the individual patient and clinical response.
@@ -60,7 +56,7 @@ Following induction, the patient may then be transitioned to once-daily ZUBSOLV.
 - There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of ZUBSOLV contributes to the intended treatment goals.
 
-## 2.6 Method of Administration
+## 2.5 Method of Administration
 
 ZUBSOLV must be administered whole.
 Do not cut, chew, or swallow ZUBSOLV.
@@ -78,7 +74,7 @@ Proper administration technique should be demonstrated to the patient.
 Advise patients to do the following after the product has completely dissolved in the oral mucosa: take a sip of water, swish gently around the teeth and gums, and swallow.
 Advise patients to wait for at least one hour after taking Zubsolv before brushing teeth [see Warnings and Precautions (5.13.), Postmarketing Experience (6.2), Information for Patients (17), and the Medication Guide].
 
-## 2.7 Clinical Supervision
+## 2.6 Clinical Supervision
 
 Treatment should be initiated with supervised administration, progressing to unsupervised administration as the patient’s clinical stability permits.
 ZUBSOLV is subject to diversion and abuse.
@@ -101,7 +97,7 @@ Continuation or modification of pharmacotherapy should be based on the healthcar
 
 If treatment goals are not being achieved, the healthcare provider should re-evaluate the appropriateness of continuing the current treatment.
 
-## 2.8 Unstable Patients
+## 2.7 Unstable Patients
 
 Healthcare providers will need to decide when they cannot appropriately provide further management for particular patients.
 For example, some patients may be abusing or dependent on various drugs, or unresponsive to psychosocial intervention such that the healthcare provider does not feel that he/she has the expertise to manage the patient.
@@ -110,13 +106,13 @@ Decisions should be based on a treatment plan established and agreed upon with t
 
 Patients who continue to misuse, abuse, or divert buprenorphine products or other opioids should be provided with, or referred to, more intensive and structured treatment.
 
-## 2.9 Discontinuing Treatment
+## 2.8 Discontinuing Treatment
 
 The decision to discontinue therapy with ZUBSOLV after a period of maintenance should be made as part of a comprehensive treatment plan.
 Advise patients of the potential to relapse to illicit drug use following discontinuation of opioid agonist/partial agonist medication-assisted treatment.
 Taper patients to avoid the occurrence of withdrawal signs and symptoms [see Warnings and Precautions (5.7)].
 
-## 2.10 Switching between ZUBSOLV Sublingual Tablets and Other Buprenorphine/Naloxone Combination Products
+## 2.9 Switching between ZUBSOLV Sublingual Tablets and Other Buprenorphine/Naloxone Combination Products
 
 For patients being switched between ZUBSOLV and other buprenorphine/naloxone products dosage adjustments may be necessary.
 Patients should be monitored for over-medication as well as withdrawal or other signs of under-dosing.

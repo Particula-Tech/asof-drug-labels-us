@@ -130,4 +130,4 @@ Anaphylaxis: Anaphylaxis has been reported with ingredients contained in ZUBSOLV
 
 Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
-Local reactions: Dental decay (including caries, tooth fracture, and tooth loss), glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis.
+Local reactions: Dental decay (including caries, tooth fracture, and tooth loss),glossodynia, glossitis, oral mucosal erythema, oral hypoesthesia, and stomatitis.

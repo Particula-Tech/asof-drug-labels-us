@@ -10,7 +10,7 @@ Naloxone is a potent antagonist at mu-opioid receptors and produces opioid withd
 
 ZUBSOLV has been shown to have different bioavailability compared to Suboxone tablet.
 One ZUBSOLV 5.7 mg/1.4 mg tablet provides equivalent buprenorphine exposure and 12% lower naloxone exposure to one Suboxone 8 mg/2 mg tablet.
-The pharmacodynamic information of other currently marketed buprenorphine/naloxone-containing sublingual products is not directly comparable on a mg basis to ZUBSOLV [see Dosage and Administration (2.10)].
+The pharmacodynamic information of other currently marketed buprenorphine/naloxone-containing sublingual products is not directly comparable on a mg basis to ZUBSOLV [see Dosage and Administration (2.9].
 
 Subjective Effects
 

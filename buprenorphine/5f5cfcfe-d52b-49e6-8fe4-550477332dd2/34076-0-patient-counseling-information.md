@@ -32,7 +32,7 @@ Inform patients and caregivers of the options for obtaining naloxone as permitte
 Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
 
 Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
-Repeat administration may be necessary, particularly for overdose involving ZUBSOLV, because naloxone is often not effective at the doses available for patient access [Dosage and Administration (2.3), Warnings and Precautions (5.2), Overdosage (10)].
+Repeat administration may be necessary, particularly for overdose involving ZUBSOLV, because naloxone is often not effective at the doses available for patient access [Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
 
 If naloxone is prescribed, also advise patients and caregivers:
 
@@ -79,7 +79,7 @@ Emphasize the importance of doing this before an opioid emergency happens, so th
 
 Manufactured for and distributed by Orexo US, Inc. Morristown, NJ 07960 USA
 
-For patent information: http://orexo.com/en/products/zubsolv/
+For patent information: https://orexo.com/operations/us-pharma
 
-ZUBSOLV is a licensed trademark of Orexo US, Inc. © 2022 Orexo US, Inc. All rights reserved.
+ZUBSOLV is a licensed trademark of Orexo US, Inc. © 2023 Orexo US, Inc. All rights reserved.
 Suboxone® is a registered trademark of Indivior UK Limited
