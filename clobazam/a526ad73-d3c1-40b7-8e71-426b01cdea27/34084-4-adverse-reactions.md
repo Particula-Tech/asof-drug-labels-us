@@ -9,6 +9,7 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Somnolence or Sedation [see Warnings and Precautions (5.5)]
 - Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -20,14 +21,13 @@ Only Study 1 included a placebo group, allowing comparison of adverse reaction r
 
 Adverse Reactions Leading to Discontinuation in an LGS Placebo Controlled Clinical Trial (Study 1)
 
-The adverse reactions associated with clobazam treatment discontinuation in ≥1% of patients in decreasing order of frequency included lethargy, somnolence, ataxia, aggression, fatigue, and insomnia.
+The adverse reactions associated with clobazam treatment discontinuation in ≥ 1% of patients in decreasing order of frequency included lethargy, somnolence, ataxia, aggression, fatigue, and insomnia.
 
 Most Common Adverse Reactions in an LGS Placebo Controlled Clinical Trial (Study 1)
 
-Table 3 lists the adverse reactions that occurred in ≥5% of clobazam-treated patients (at any dose), and at a rate greater than placebo-treated patients, in the randomized, double-blind, placebo-controlled, parallel group clinical study of adjunctive AED therapy for 15 weeks (Study 1).
+Table 3 lists the adverse reactions that occurred in ≥ 5% of clobazam-treated patients (at any dose) and at a rate greater than placebo-treated patients, in the randomized, double-blind, placebo-controlled, parallel group clinical study of adjunctive AED therapy for 15 weeks (Study 1).
 
-Table 3.
-Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placebo in Any Treatment Group
+Table 3: Adverse Reactions Reported for ≥ 5% of Patients and More Frequently than Placebo in Any Treatment Group
 
 |  | Placebo N=59 % | Clobazam Dose Level |  |  | All ClobazamN=179 % |
 | --- | --- | --- | --- | --- | --- |
@@ -62,9 +62,9 @@ Adverse Reactions Reported for ≥5% of Patients and More Frequently than Placeb
 | Insomnia | 2 | 2 | 5 | 7 | 5 |
 | Respiratory Disorders |  |  |  |  |  |
 | Cough | 0 | 3 | 5 | 7 | 5 |
-| aMaximum daily dose of 5 mg for ≤30 kg body weight; 10 mg for >30 kg body weight bMaximum daily dose of 10 mg for ≤30 kg body weight; 20 mg for >30 kg body weight cMaximum daily dose of 20 mg for ≤30 kg body weight; 40 mg for >30 kg body weight |  |  |  |  |  |
+| aMaximum daily dose of 5 mg for ≤ 30 kg body weight; 10 mg for > 30 kg body weight bMaximum daily dose of 10 mg for ≤ 30 kg body weight; 20 mg for > 30 kg body weight cMaximum daily dose of 20 mg for ≤ 30 kg body weight; 40 mg for > 30 kg body weight |  |  |  |  |  |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.

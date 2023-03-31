@@ -15,7 +15,7 @@ Thus, at a dose two times the maximum recommended dose, clobazam did not prolong
 ## 12.3 Pharmacokinetics
 
 The peak plasma levels (Cmax) and the area under the curve (AUC) of clobazam are dose-proportional over the dose range of 10 mg to 80 mg following single- or multiple-dose administration of clobazam.
-Based on a population pharmacokinetic analysis, the pharmacokinetics of clobazam are linear from 5 to 160 mg/day.
+Based on a population pharmacokinetic analysis, the pharmacokinetics of clobazam are linear from 5 mg/day to 160 mg/day.
 Clobazam is converted to N-desmethylclobazam which has about 1/5 the activity of clobazam.
 The estimated mean elimination half-lives (t½) of clobazam and N-desmethylclobazam were 36 to 42 hours and 71 to 82 hours, respectively.
 
@@ -64,8 +64,8 @@ Population pharmacokinetic analyses including Caucasian (75%), African American 
 
 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of clobazam was evaluated in patients with mild (creatinine clearance [CLCR] >50 to 80 mL/min; N=6) and moderate (CLCR=30 to 50 mL/min; N=6) renal dysfunction, with matching healthy controls (N=6), following administration of multiple doses of clobazam 20 mg/day.
-There were insignificant changes in Cmax (3% to 24%) and AUC (≤13%) for clobazam or N-desmethylclobazam in patients with mild or moderate renal impairment compared to patients with normal renal function.
+The effect of renal impairment on the pharmacokinetics of clobazam was evaluated in patients with mild (creatinine clearance [CLCR] > 50 to 80 mL/min; N=6) and moderate (CLCR=30 to 50 mL/min; N=6) renal dysfunction, with matching healthy controls (N=6), following administration of multiple doses of clobazam 20 mg/day.
+There were insignificant changes in Cmax (3% to 24%) and AUC (≤ 13%) for clobazam or N-desmethylclobazam in patients with mild or moderate renal impairment compared to patients with normal renal function.
 Patients with severe renal impairment or ESRD were not included in this study.
 
 Hepatic Impairment

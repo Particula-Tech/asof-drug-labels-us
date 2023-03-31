@@ -94,4 +94,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 Manufactured by: Amneal Pharmaceuticals LLC Branchburg, NJ 08876
 
 Rev.
-12-2021-02
+03-2023-03

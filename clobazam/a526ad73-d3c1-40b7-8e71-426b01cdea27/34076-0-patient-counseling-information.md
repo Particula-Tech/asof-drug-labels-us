@@ -45,16 +45,17 @@ Patients should report behaviors of concern immediately to healthcare providers 
 
 Pregnancy
 
-Advise pregnant women and women of childbearing potential that the use of clobazam during pregnancy can cause fetal harm which may occur early in pregnancy before many women know they are pregnant.
-Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy.
-When appropriate, prescribers should counsel pregnant women and women of childbearing potential about alternative therapeutic options.
+Advise pregnant females that the use of clobazam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1)].
+Instruct patients to notify their healthcare provider if they are pregnant.
 
-Advise patients that there is a pregnancy exposure registry that collects information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking clobazam.
+The registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
-Nursing
+Lactation
 
-Counsel patients that clobazam is excreted in breast milk.
-Instruct patients to notify their physician if they are breast feeding or intend to breast feed during therapy and counsel nursing mothers to observe their infants for poor sucking and somnolence [see Use in Specific Populations (8.2)].
+Counsel patients that clobazam, the active ingredient in clobazam oral suspension, is excreted in breast milk.
+Instruct patients to notify their healthcare provider if they are breast feeding or intend to breast feed.
+Instruct breastfeeding patients who have been administered clobazam to observe their infants for sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].
 
 Manufactured by:
 
@@ -63,4 +64,4 @@ Amneal Pharmaceuticals LLC
 Branchburg, NJ 08876
 
 Rev.
-12-2021-02
+03-2023-03

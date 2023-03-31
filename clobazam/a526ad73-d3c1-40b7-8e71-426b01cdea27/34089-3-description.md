@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
-Table 4.
-Description
+Table 4: Description
 
 | Established Name: | Clobazam Oral Suspension |
 | --- | --- |
