@@ -62,10 +62,13 @@ How should I store NUVESSA?
 
 Keep NUVESSA and all medicines out of the reach of children.
 
+This Patient Information and Instructions for Use have been approved by the US Food and Drug Administration.
+
 Rx only
 
 Distributed By: Exeltis USA, Inc.. 180 Park Ave., Florham Park, NJ 07932
 
 © 2022 Exeltis USA, Inc. All rights reserved.
-This Patient Information and Instructions for Use have been approved by the US Food and Drug Administration.
-Revised: 02/2022
+
+NUVESSA ® and its design are trademarks of Exeltis Healthcare S.L.
+Revised: 04/2022

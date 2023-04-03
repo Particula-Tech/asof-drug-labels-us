@@ -8,7 +8,7 @@ Drug Interactions Instruct the patient not to use NUVESSA if disulfiram had been
 
 Vaginal Intercourse and Use with Vaginal Products Instruct the patient not to engage in vaginal intercourse, or use other vaginal products (such as tampons or douches) following the single administration of NUVESSA.
 
-Lactation A patient may choose to pump and discard breastmilk during treatment with NUVESSA and for 48 hours after last dose, and feed her infant previously stored human milk or formula [see Use in Specific Populations (8.2)].
+Lactation A patient may choose to pump and discard breast milk during treatment with NUVESSA and for 48 hours after last dose, and feed her infant previously stored human milk or formula [see Use in Specific Populations (8.2)].
 
 Vaginal Irritation Inform the patient to discontinue use and consult a healthcare provider if vaginal irritation occurs with use of NUVESSA.
 
