@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA216751"
+  ],
+  "inn": "mirtazapine",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-606-04",
+    "66993-606-30",
+    "66993-607-04",
+    "66993-607-30",
+    "66993-608-04",
+    "66993-608-30",
+    "66993-609-04",
+    "66993-609-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "mirtazapine",
+      "name": "Mirtazapine"
+    }
+  ],
+  "setid": "8b2a08f7-4803-42fa-a2b5-5ea51f8ef7e4",
+  "source": "dailymed"
+}
