@@ -23,9 +23,9 @@ Linezolid is indicated for the treatment of vancomycin-resistant Enterococcus fa
 
 ## 1.6 Limitations of Use
 
-- Linezolid is not indicated for the treatment of Gram-negative infections.
+- •Linezolid is not indicated for the treatment of Gram-negative infections.
   It is critical that specific Gram-negative therapy be initiated immediately if a concomitant Gram-negative pathogen is documented or suspected [see Warnings and Precautions (5.4)].
-- The safety and efficacy of linezolid formulations given for longer than 28 days have not been evaluated in controlled clinical trials [see Clinical Studies (14)].
+- •The safety and efficacy of linezolid formulations given for longer than 28 days have not been evaluated in controlled clinical trials [see Clinical Studies (14)].
 
 ## 1.7 Usage
 

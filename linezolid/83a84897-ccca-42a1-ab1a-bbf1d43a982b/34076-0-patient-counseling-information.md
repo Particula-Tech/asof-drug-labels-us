@@ -14,11 +14,11 @@ Advise patients to inform their physician if taking serotonergic agents, includi
 
 Potential Interactions Producing Elevation of Blood Pressure
 
-- Advise patients to inform their physician if they have a history of hypertension.
-- Advise patients to avoid large quantities of foods or beverages with high tyramine content while taking linezolid.
+- •Advise patients to inform their physician if they have a history of hypertension.
+- •Advise patients to avoid large quantities of foods or beverages with high tyramine content while taking linezolid.
   Foods high in tyramine content include those that may have undergone protein changes by aging, fermentation, pickling, or smoking to improve flavor, such as aged cheeses, fermented or air-dried meats, sauerkraut, soy sauce, tap beers, and red wines.
   The tyramine content of any protein-rich food may be increased if stored for long periods or improperly refrigerated.
-- Advise patients to inform their physician if taking medications containing pseudoephedrine HCl or phenylpropanolamine HCl, such as cold remedies and decongestants [see Warnings and Precautions (5.6)].
+- •Advise patients to inform their physician if taking medications containing pseudoephedrine HCl or phenylpropanolamine HCl, such as cold remedies and decongestants [see Warnings and Precautions (5.6)].
 
 Lactic Acidosis
 
