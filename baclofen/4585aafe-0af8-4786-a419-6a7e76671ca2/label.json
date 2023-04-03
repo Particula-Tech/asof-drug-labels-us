@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215602"
+  ],
+  "inn": "baclofen",
+  "labeler": "Wilshire Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52536-600-11",
+    "52536-600-12"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "baclofen",
+      "name": "Baclofen"
+    }
+  ],
+  "setid": "4585aafe-0af8-4786-a419-6a7e76671ca2",
+  "source": "dailymed"
+}
