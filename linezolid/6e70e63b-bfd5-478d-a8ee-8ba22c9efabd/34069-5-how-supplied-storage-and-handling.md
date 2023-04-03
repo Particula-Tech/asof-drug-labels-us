@@ -29,6 +29,7 @@ ZYVOX for Oral Suspension is supplied as follows:
 
 | 100 mg/5 mL in 240 mL glass bottles | NDC 0009-5136-01 |
 | --- | --- |
+| 100 mg/5 mL in 240 mL glass bottles | NDC 0009-5136-04 |
 
 ## 16.4 Storage and Handling
 
