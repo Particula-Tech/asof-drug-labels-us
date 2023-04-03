@@ -1,15 +1,17 @@
-# WARNINGS
+# WARNINGS:
 
 The effect of Peridex on periodontitis has not been determined.
 An increase in supragingival calculus was noted in clinical testing in Peridex users compared with control users.
 It is not known if Peridex use results in an increase in subgingival calculus.
 Calculus deposits should be removed by a dental prophylaxis at intervals not greater than six months.
+
 Anaphylaxis, as well as serious allergic reactions, have been reported during postmarketing use with dental products containing chlorhexidine.
+
 SEE CONTRAINDICATIONS.
 
-# PRECAUTIONS
+# PRECAUTIONS:
 
-## General
+## General:
 
 1. For patients having coexisting gingivitis and periodontitis, the presence or absence of gingival inflammation following treatment with Peridex should not be used as a major indicator of underlying periodontitis.
 2. Peridex can cause staining of oral surfaces, such as tooth surfaces, restorations, and the dorsum of the tongue.
@@ -25,29 +27,18 @@ SEE CONTRAINDICATIONS.
 3. Some patients may experience an alteration in taste perception while undergoing treatment with Peridex.
    Rare instances of permanent taste alteration following Peridex use have been reported via post-marketing product surveillance.
 
-## Pregnancy
-
-### Teratogenic Effects
-
-#### Pregnancy Category B
-
+Pregnancy: Teratogenic Effects.
 Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300mg/kg/day and 40mg/kg/day, respectively, and have not revealed evidence of harm to fetus.
 However, adequate and well-controlled studies in pregnant women have not been done.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
+Nursing Mothers: It is not known whether this drug is excreted in human milk.
 Because many drugs are excreted in human milk, caution should be exercised when Peridex is administered to nursing women.
 In parturition and lactation studies with rats, no evidence of impaired parturition or of toxic effects to suckling pups was observed when chlorhexidine gluconate was administered to dams at doses that were over 100 times greater than that which would result from a person's ingesting 30ml (2 capfuls) of Peridex per day.
 
-## Pediatric Use
+Pediatric Use: Clinical effectiveness and safety of Peridex™ (Chlorhexidine Gluconate 0.12%) Oral Rinse have not been established in children under the age of 18.
 
-Clinical effectiveness and safety of Peridex have not been established in children under the age of 18.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-In a drinking water study in rats, carcinogenic effects were not observed at doses up to 38mg/kg/day.
+Carcinogenesis, Mutagenesis, and Impairment of Fertility: In a drinking water study in rats, carcinogenic effects were not observed at doses up to 38mg/kg/day.
 Mutagenic effects were not observed in two mammalian in vivo mutagenesis studies with chlorhexidine gluconate.
 The highest doses of chlorhexidine used in a mouse dominant-lethal assay and a hamster cytogenetics test were 1000mg/kg/day and 250mg/kg/day, respectively.
 No evidence of impaired fertility was observed in rats at doses up to 100mg/kg/day.

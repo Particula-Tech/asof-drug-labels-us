@@ -1,4 +1,4 @@
-# DOSAGE AND ADMINISTRATION
+# DOSAGE AND ADMINISTRATION:
 
 Peridex therapy should be initiated directly following a dental prophylaxis.
 Patients using Peridex should be reevaluated and given a thorough prophylaxis at intervals no longer than six months.
