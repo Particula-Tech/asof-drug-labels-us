@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216131"
+  ],
+  "inn": "dobutamine",
+  "labeler": "Slate Run Pharmaceuticals",
+  "package_ndcs": [
+    "70436-203-80",
+    "70436-203-82"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dobutamine",
+      "name": "Dobutamine"
+    }
+  ],
+  "setid": "ee09a55f-9992-48bb-b8d6-1184bd548536",
+  "source": "dailymed"
+}
