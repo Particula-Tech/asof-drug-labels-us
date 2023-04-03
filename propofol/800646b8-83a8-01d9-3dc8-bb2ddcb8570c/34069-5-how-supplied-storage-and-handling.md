@@ -1,17 +1,14 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Propofol injectable emulsion, USP white or almost white, homogeneous emulsion is available as follows:
+Propofol injectable emulsion, USP is available as follows:
 
-NDC 43598-265-25 Carton containing Twenty-five of 20 mL Vials for Single Patient Use Only
+| NDC Code | Strength |  |
+| --- | --- | --- |
+| NDC 43598-265-25 | 200 mg in a 20 mL vial (10 mg per mL) | 20 mL ready-to-use single-dose infusion vial in packages of twenty five |
+| NDC 43598-265-58 | 200 mg in a 20 mL vial (10 mg per mL) | 20 mL ready-to-use single-dose infusion vial in packages of ten. |
+| NDC 43598-548-21 | 500 mg in a 50 mL vial (10 mg per mL) | 50 mL ready-to-use single-dose infusion vial in packages of twenty. |
+| NDC 43598-549-10 | 1,000mg in a 100 mL vial (10 mg per mL) | 100 mL ready-to-use single-dose infusion vial in packages of ten. |
 
-NDC 43598-265-58 Carton containing Ten of 20 mL Vials for Single Patient Use Only
-
-NDC 43598-548-21 Carton containing Twenty of 50 mL Vials for Single Patient Use Only
-
-NDC 43598-549-10 Carton containing Ten of 100 mL Vials for Single Patient Use Only
-
-Propofol, USP undergoes oxidative degradation, in the presence of oxygen, and is therefore packaged under nitrogen to eliminate this degradation path.
-
-Store between 4° to 25°C (40° to 77°F).
+Store between 4 to 25°C (40°F to 77°F).
 Do not freeze.
 Shake well before use.
