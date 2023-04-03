@@ -130,7 +130,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Central Nervous System
 
-Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome, and post-discontinuation cholinergic rebound adverse reactions.
+Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome and post-discontinuation cholinergic rebound adverse reactions.
 
 Cardiovascular System
 
@@ -142,7 +142,7 @@ Pseudopheochromocytoma
 
 Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, intestinal ischemia or infarction.
+Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 
 Hepatobiliary System
 
