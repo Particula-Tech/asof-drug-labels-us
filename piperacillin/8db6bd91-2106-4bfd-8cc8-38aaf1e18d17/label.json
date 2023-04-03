@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA050750"
+  ],
+  "inn": "piperacillin",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-9632-01",
+    "0338-9632-24",
+    "0338-9636-01",
+    "0338-9636-24",
+    "0338-9638-01",
+    "0338-9638-12"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "piperacillin sodium and tazobactam sodium",
+      "name": "Zosyn"
+    }
+  ],
+  "setid": "8db6bd91-2106-4bfd-8cc8-38aaf1e18d17",
+  "source": "dailymed"
+}
