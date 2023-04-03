@@ -2,14 +2,14 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections:
 
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)]
-- Anaphylaxis and Angioedema [see Warnings and Precautions (5.2)]
-- Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
-- Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
-- Respiratory Depression [see Warnings and Precautions (5.7)]
-- Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.8)]
-- Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
+- •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)]
+- •Anaphylaxis and Angioedema [see Warnings and Precautions (5.2)]
+- •Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
+- •Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
+- •Respiratory Depression [see Warnings and Precautions (5.7)]
+- •Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.8)]
+- •Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
