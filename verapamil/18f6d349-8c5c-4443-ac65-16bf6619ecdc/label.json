@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020943"
+  ],
+  "inn": "verapamil",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-532-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "verapamil hydrochloride",
+      "name": "Verapamil Hydrochloride"
+    }
+  ],
+  "setid": "18f6d349-8c5c-4443-ac65-16bf6619ecdc",
+  "source": "dailymed"
+}
