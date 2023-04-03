@@ -26,7 +26,7 @@ Consider withholding or discontinuing therapy in patients who develop a clinical
 
 ## 5.4 Hypersensitivity
 
-Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma, but are more likely in patients with such a history.
+Hypersensitivity reactions to hydrochlorothiazide may occur in patients with or without a history of allergy or bronchial asthma but are more likely in patients with such a history [see Adverse Reactions (6.2)].
 
 ## 5.5 Electrolyte and Metabolic Effects
 

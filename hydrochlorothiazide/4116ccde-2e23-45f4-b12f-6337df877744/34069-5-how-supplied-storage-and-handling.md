@@ -9,6 +9,6 @@ HYZAAR is supplied as a film-coated tablet.
 | 100/12.5 mg | white | oval | 745 | 140-01 | 140-02 |
 | 100/25 mg | light yellow | oval | 747 | 141-01 | 141-02 |
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+Store at 77°F (25°C); excursions permitted to 59°F to 86°F (15°C to 30°C).
 Keep container tightly closed.
 Protect from light.

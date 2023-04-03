@@ -2,16 +2,18 @@ Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2023 Organon group of companies.
+All rights reserved.
 
-uspi-og0954a-t-2106r000
+uspi-og0954a-t-2303r001
 
 Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
 For patent information: www.organon.com/our-solutions/patent/
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2023 Organon group of companies.
+All rights reserved.
 
-Revised: 6/2021
+Revised: 3/2023
 
-usppi-og0954a-t-2106r000
+usppi-og0954a-t-2303r001
