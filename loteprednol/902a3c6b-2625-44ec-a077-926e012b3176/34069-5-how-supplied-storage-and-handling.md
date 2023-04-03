@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-LOTEMAX (loteprednol etabonate ophthalmic ointment) 0.5% is a sterile ointment supplied in a tin tube with a pink polypropylene cap in the following size:
+LOTEMAX® (loteprednol etabonate ophthalmic ointment) 0.5% is a sterile ointment supplied in a tin tube with a pink polypropylene cap in the following size:
 
 NDC 24208-443-35 3.5 g tube
 

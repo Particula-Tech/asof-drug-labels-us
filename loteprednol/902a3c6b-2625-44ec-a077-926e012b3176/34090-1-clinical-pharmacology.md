@@ -4,7 +4,7 @@
 
 Corticosteroids inhibit the inflammatory response to a variety of inciting agents and probably delay or slow healing.
 They inhibit the edema, fibrin deposition, capillary dilation, leukocyte migration, capillary proliferation, fibroblast proliferation, deposition of collagen, and scar formation associated with inflammation.
-While glucocorticoids are known to bind to and activate the glucocorticoid receptor, the molecular mechanisms involved in glucocorticoid/glucocorticoid receptor-dependent modulation of inflammation are not clearly established.
+While glucocorticoids are known to bind to and activate the glucocorticoid receptor, the molecular mechanisms involved in glucocorticoid/glucocorticoid receptor‑dependent modulation of inflammation are not clearly established.
 However, corticosteroids are thought to inhibit prostaglandin production through several independent mechanisms.
 
 ## 12.3 Pharmacokinetics

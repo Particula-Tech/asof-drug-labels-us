@@ -6,7 +6,7 @@ BAUSCH + LOMB
 
 Lotemax® loteprednol etabonate ophthalmic ointment 0.5%
 
-FOR OPHTHALMIC USE ONLY
+FOR TOPICAL OPHTHALMIC USE
 
 Rx only
 
@@ -14,5 +14,4 @@ Sterile
 
 Net.
 Wt.
-1/8oz.
-(3.5 g)
+(3.5 g) 1/8oz.

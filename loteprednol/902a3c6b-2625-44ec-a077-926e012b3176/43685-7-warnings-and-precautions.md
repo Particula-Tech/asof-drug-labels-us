@@ -36,7 +36,7 @@ Fungal culture should be taken when appropriate.
 
 ## 5.7 Risk of Contamination
 
-Do not to touch the eyelid or surrounding areas with the tip of the tube.
+Do not touch the eyelid or surrounding areas with the tip of the tube.
 The cap should remain on the tube when not in use.
 
 ## 5.8 Contact Lens Wear
