@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA215827"
+  ],
+  "inn": "regadenoson",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6253-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "regadenoson",
+      "name": "Regadenoson"
+    }
+  ],
+  "setid": "9e48b407-1ce3-461d-b48e-de183802de25",
+  "source": "dailymed"
+}
