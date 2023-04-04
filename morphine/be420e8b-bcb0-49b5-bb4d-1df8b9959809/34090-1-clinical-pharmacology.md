@@ -63,7 +63,7 @@ Distribution
 
 Morphine has an apparent volume of distribution ranging from 1.0 to 4.7 L/kg after parenteral administration.
 Protein binding is low, about 36%, and muscle tissue binding is reported as 54%.
-A blood-brain barrier exists, and when morphine is introduced outside of the CNS, plasma concentrations of morphine remain higher than the corresponding CSF morphine levels.
+A blood‑brain barrier exists, and when morphine is introduced outside of the CNS, plasma concentrations of morphine remain higher than the corresponding CSF morphine levels.
 
 Elimination
 

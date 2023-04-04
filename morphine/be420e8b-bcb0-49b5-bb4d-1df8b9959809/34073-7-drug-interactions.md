@@ -16,11 +16,11 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Injectio
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.7)]. |
 | Intervention: | Do not use Morphine Sulfate Injection in patients taking MAOIs or within 14 days of stopping such treatment. If urgent use of an opioid is necessary, use test doses and frequent titration of small doses of other opioids (such as oxycodone, hydrocodone, oxymorphone, hydrocodone, or buprenorphine) to treat pain while closely monitoring blood pressure and signs and symptoms of CNS and respiratory depression. |
-| Examples: | phenelzine, tranylcypromine, linezolid |
+| Examples: | phenelzine, tranylcypromine, linezolid. |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
 | Clinical Impact: | May reduce the analgesic effect of Morphine Sulfate Injection and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |
-| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
+| Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine. |
 | Muscle Relaxants |  |
 | Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Injection and/or the muscle relaxant as necessary. |
@@ -36,4 +36,4 @@ Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Injectio
 | Oral P2Y12 Inhibitors |  |
 | Clinical Impact: | The co-administration of oral P2Y12 inhibitors and intravenous morphine sulfate can decrease the absorption and peak concentration of oral P2Y12 inhibitors and delay the onset of the antiplatelet effect. |
 | Intervention: | Consider the use of a parenteral antiplatelet agent in the setting of acute coronary syndrome requiring co-administration of intravenous morphine sulfate. |
-| Examples: | clopidogrel, prasugrel, ticagrelor |
+| Examples: | clopidogrel, prasugrel, ticagrelor. |

@@ -28,7 +28,7 @@ Carbon dioxide (CO2) retention from opioid-induced respiratory depression can ex
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Morphine Sulfate Injection, the risk is greatest during the initiation of therapy or following a dosage increase.
 Because of a delay in the maximum CNS effect with intravenously administered Morphine Sulfate Injection (30 min), rapid administration may result in overdosing.
 The respiratory depression may be severe and could require intervention [see Overdosage (10)].
-Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy with and following dosage increases of Morphine Sulfate Injection.
+Monitor patients closely for respiratory depression, especially within the first 24‑72 hours of initiating therapy with and following dosage increases of Morphine Sulfate Injection.
 
 To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Injection are essential [see Dosage and Administration (2.3)].
 Overestimating the Morphine Sulfate Injection dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
@@ -46,7 +46,7 @@ Advise pregnant women using opioids for a prolonged period of the risk of neonat
 
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other Central Nervous System Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Morphine Sulfate Injection with benzodiazepines or other CNS depressants (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Morphine Sulfate Injection with benzodiazepines or other CNS depressants (e.g., non‑benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -123,7 +123,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 ## 5.13 Withdrawal
 
-Avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Morphine Sulfate Injection.
+Avoid the use of mixed agonist/antagonist (e.g., pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including Morphine Sulfate Injection.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or precipitate withdrawal symptoms.
 
 When discontinuing Morphine Sulfate Injection in a physically-dependent patient, gradually taper the dosage [see Dosage and Administration (2.4)].

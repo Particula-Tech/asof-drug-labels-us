@@ -7,9 +7,9 @@ Morphine Sulfate Injection contains morphine, a Schedule II controlled substance
 ## 9.2 Abuse
 
 Morphine Sulfate Injection contains morphine, a substance with a high potential for abuse similar to other opioids including fentanyl, hydromorphone, methadone, oxycodone, oxymorphone, and tapentadol.
-Morphine Sulfate Injection can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1).
+Morphine Sulfate Injection can be abused and is subject to misuse, addiction, and criminal diversion [see Warnings and Precautions (5.1)].
 
-1. All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
+All patients treated with opioids require careful monitoring for signs of abuse and addiction, because use of opioid analgesic products carries the risk of addiction even under appropriate medical use.
 
 Prescription drug abuse is the intentional non-therapeutic use of a prescription drug, even once, for its rewarding psychological or physiological effects.
 
@@ -39,8 +39,8 @@ Physical dependence results in withdrawal symptoms after abrupt discontinuation 
 Withdrawal also may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued opioid usage.
 
-Morphine Sulfate Injection should not be abruptly discontinued in a physically-dependent patient [see Dosage and Administration 2.4].
-If Morphine Sulfate Injection is abruptly discontinued in a physically-dependent patient, a withdrawal syndrome may occur.
+Morphine Sulfate Injection should not be abruptly discontinued in a physically‑dependent patient [see Dosage and Administration 2.4].
+If Morphine Sulfate Injection is abruptly discontinued in a physically‑dependent patient, a withdrawal syndrome may occur.
 Some or all of the following can characterize this syndrome: restlessness, lacrimation, rhinorrhea, yawning, perspiration, chills, myalgia, and mydriasis.
 Other signs and symptoms also may develop, including, irritability, anxiety, backache, joint pain, weakness, abdominal cramps, insomnia, nausea, anorexia, vomiting, diarrhea, or increased blood pressure, respiratory rate, or heart rate.
 

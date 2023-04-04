@@ -15,7 +15,7 @@ The opioid antagonists, naloxone or nalmefene, are specific antidotes to respira
 For clinically significant respiratory or circulatory depression secondary to morphine sulfate overdose, administer an opioid antagonist.
 Opioid antagonists should not be administered in the absence of clinically significant respiratory or circulatory depression secondary to morphine sulfate overdose.
 
-Because the duration of opioid reversal is expected to be less than the duration of action of morphine in Morphine Sulfate Injection, carefully monitor the patient until spontaneous respiration is reliably re-established.
+Because the duration of opioid reversal is expected to be less than the duration of action of morphine in Morphine Sulfate Injection, carefully monitor the patient until spontaneous respiration is reliably re‑established.
 If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
 
 In an individual physically dependent on opioids, administration of the recommended dosage of the antagonist will precipitate an acute withdrawal syndrome.

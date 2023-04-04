@@ -4,7 +4,7 @@
 
 Morphine Sulfate Injection is for intravenous administration.
 
-Morphine Sulfate Injection is available in five concentrations as Carpuject™ cartridges and iSecure™ syringes for intravenous administration.
+Morphine Sulfate Injection is available in five concentrations as Carpuject™ cartridges for use with the Carpuject Holder ONLY, and in four concentrations as NexJect™ syringes for intravenous administration.
 Dosing errors can result in accidental overdose and death.
 Avoid dosing errors that may result from confusion between mg and mL and confusion with morphine injections of different concentrations when prescribing, dispensing, and administering Morphine Sulfate Injection.
 Ensure that the dose is communicated and dispensed accurately.

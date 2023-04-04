@@ -33,45 +33,6 @@ Carpuject Cartridges are to be used ONLY with Carpuject Holders.
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Label - RL-5017
-
-NDC 0409-1890-10
-
-1 mL Single-use Rx only
-
-iSecure™ SYRINGE
-
-Prefilled Syringe with Luer Lock
-
-Morphine Sulfate Injection, USP
-
-2 mg/mL
-
-CII
-
-INTRAVENOUS USE ONLY Protect from light and freezing.
-
-Hospira, Inc. Lake Forest, IL 60045 USA Hospira
-
-RL – 5017
-
-# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Carton
-
-iSecure™ SYRINGE
-
-10 x 1 mL Single-use Prefilled Syringe with Luer Lock (needle not included)
-
-NDC 0409-1890-11 Rx only
-
-Morphine Sulfate Injection, USP 2 mg/mL
-
-CII
-
-INTRAVENOUS USE ONLY Protect from light.
-Retain in carton until time of use.
-
-Hospira
-
 # PRINCIPAL DISPLAY PANEL - 4 mg/mL Cartridge Label
 
 1 mL Single-dose Carpuject™ Sterile Cartridge Unit with Luer Lock
@@ -102,45 +63,6 @@ Morphine Sulfate Injection, USP CII
 Intravenous Use Only
 
 Carpuject Cartridges are to be used ONLY with Carpuject Holders.
-
-Hospira
-
-# PRINCIPAL DISPLAY PANEL - 4 mg/mL Syringe Label - RL-5021
-
-NDC 0409-1891-10
-
-1 mL Single-use Rx only
-
-iSecure™ SYRINGE
-
-Prefilled Syringe with Luer Lock
-
-Morphine Sulfate Injection, USP
-
-4 mg/mL
-
-CII
-
-INTRAVENOUS USE ONLY Protect from light and freezing.
-
-Hospira, Inc. Lake Forest, IL 60045 USA Hospira
-
-RL – 5021
-
-# PRINCIPAL DISPLAY PANEL - 4 mg/mL Syringe Carton
-
-iSecure™ SYRINGE
-
-10 x 1 mL Single-use Prefilled Syringe with Luer Lock (needle not included)
-
-NDC 0409-1891-11 Rx only
-
-Morphine Sulfate Injection, USP 4 mg/mL
-
-CII
-
-INTRAVENOUS USE ONLY Protect from light.
-Retain in carton until time of use.
 
 Hospira
 
@@ -177,45 +99,6 @@ Carpuject Cartridges are to be used ONLY with Carpuject Holders.
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 8 mg/mL Syringe Label - RL-5028
-
-NDC 0409-1892-10
-
-1 mL Single-use Rx only
-
-iSecure™ SYRINGE
-
-Prefilled Syringe with Luer Lock
-
-Morphine Sulfate Injection, USP
-
-8 mg/mL
-
-CII
-
-INTRAVENOUS USE ONLY Protect from light and freezing.
-
-Hospira, Inc. Lake Forest, IL 60045 USA Hospira
-
-RL – 5028
-
-# PRINCIPAL DISPLAY PANEL - 8 mg/mL Syringe Carton
-
-iSecure™ SYRINGE
-
-10 x 1 mL Single-use Prefilled Syringe with Luer Lock (needle not included)
-
-NDC 0409-1892-11 Rx only
-
-Morphine Sulfate Injection, USP 8 mg/mL
-
-CII
-
-INTRAVENOUS USE ONLY Protect from light.
-Retain in carton until time of use.
-
-Hospira
-
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Cartridge Label
 
 1 mL Single-dose Carpuject™ Sterile Cartridge Unit with Luer Lock
@@ -249,98 +132,238 @@ Carpuject Cartridges are to be used ONLY with Carpuject Holders.
 
 Hospira
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/mL Syringe Label - RL-5060
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Label
 
-NDC 0409-1893-10
+TWIST & PULL
 
-1 mL Single-use Rx only
+Tamper Seal
 
-iSecure™ SYRINGE
+NDC 0409-1890-13
 
-Prefilled Syringe with Luer Lock
+Morphine Sulfate Injection, USP CII
 
-Morphine Sulfate Injection, USP
+2 mg / mL
 
-10 mg/mL
+INTRAVENOUS USE ONLY
 
-CII
+Protect from light and freezing.
 
-INTRAVENOUS USE ONLY Protect from light and freezing.
+Preservative-Free Rx only
 
-Hospira, Inc. Lake Forest, IL 60045 USA Hospira
+1 mL Single-dose syringe
 
-RL – 5060
+PAA140549
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/mL Syringe Carton
+LOT #####AA EXP DMMMYYYY
 
-iSecure™ SYRINGE
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Luer Lock Label
 
-10 x 1 mL Single-use Prefilled Syringe with Luer Lock (needle not included)
+Morphine Sulfate Injection, USP CII
 
-NDC 0409-1893-11 Rx only
+2 mg / mL
 
-Morphine Sulfate Injection, USP 10 mg/mL
+PAA140545
 
-CII
+# PRINCIPAL DISPLAY PANEL - 2 mg/mL Syringe Luer Lock Cello Pack Label
 
-INTRAVENOUS USE ONLY Protect from light.
-Retain in carton until time of use.
+NDC 0409-1890-23 Preservative-Free
 
-Hospira
+Morphine Sulfate Injection, USP CII
 
-# PRINCIPAL DISPLAY PANEL - 15 mg/mL Syringe Label - RL-5129
+2 mg / mL
 
-1 mL Single-use Prefilled Syringe with Luer Lock NDC 0409-1894-10
+INTRAVENOUS USE ONLY Rx only
 
-Morphine Sulfate Injection, USP
+10 NexJect 1 mL Single-dose syringes with luer lock
 
-CII
+Needle not included
 
-Rx only
+Protect from light and freezing.
+Opaque covering needed until contents are used.
 
-RL - 5129
+Store at 20 to 25°C (68 to 77°F).
+(See USP Controlled Room Temperature.)
 
-15 mg/mL
+Sterile Aqueous Injection Usual Dosage: See Package Insert.
 
-Hospira
+Each mL contains morphine sulfate 2 mg, edetate disodium 0.2 mg, citric acid 0.4 mg, and sodium chloride 8.5 mg.
+Hydrochloric acid and/or sodium hydroxide may be added to adjust pH to 3.0 (2.5 to 4.0).
 
-INTRAVENOUS USE ONLY Protect from light and freezing.
+The injection is not to be used if its color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
 
-# PRINCIPAL DISPLAY PANEL - 15 mg/mL Syringe Label - RL-5130
+# PRINCIPAL DISPLAY PANEL - 4 mg/mL Syringe Label
 
-NDC 0409-1894-10
+TWIST & PULL
 
-1 mL Single-use Rx only
+Tamper Seal
 
-iSecure™ SYRINGE
+NDC 0409-1891-13
 
-Prefilled Syringe with Luer Lock
+Morphine Sulfate Injection, USP CII
 
-Morphine Sulfate Injection, USP
+4 mg / mL
 
-15 mg/mL
+INTRAVENOUS USE ONLY
 
-CII
+Protect from light and freezing.
 
-INTRAVENOUS USE ONLY Protect from light and freezing.
+Preservative-Free Rx only
 
-Hospira, Inc. Lake Forest, IL 60045 USA Hospira
+1 mL Single-dose syringe
 
-RL – 5130
+PAA140550
 
-# PRINCIPAL DISPLAY PANEL - 15 mg/mL Syringe Carton
+LOT #####AA EXP DMMMYYYY
 
-iSecure™ SYRINGE
+# PRINCIPAL DISPLAY PANEL - 4 mg/mL Syringe Luer Lock Label
 
-10 x 1 mL Single-use Prefilled Syringe with Luer Lock (needle not included)
+Morphine Sulfate Injection, USP CII
 
-NDC 0409-1894-11 Rx only
+4 mg / mL
 
-Morphine Sulfate Injection, USP 15 mg/mL
+PAA140547
 
-CII
+# PRINCIPAL DISPLAY PANEL - 4 mg/mL Syringe Luer Lock Cello Pack Label
 
-INTRAVENOUS USE ONLY Protect from light.
-Retain in carton until time of use.
+NDC 0409-1891-23 Preservative-Free
 
-Hospira
+Morphine Sulfate Injection, USP CII
+
+4 mg / mL
+
+INTRAVENOUS USE ONLY Rx only
+
+10 NexJect 1 mL Single-dose syringes with luer lock
+
+Needle not included
+
+Protect from light and freezing.
+Opaque covering needed until contents are used.
+
+Store at 20 to 25°C (68 to 77°F).
+(See USP Controlled Room Temperature.)
+
+Sterile Aqueous Injection Usual Dosage: See Package Insert.
+
+Each mL contains morphine sulfate 4 mg, edetate disodium 0.2 mg, citric acid 0.4 mg, and sodium chloride 8.4 mg.
+Hydrochloric acid and/or sodium hydroxide may be added to adjust pH to 3.0 (2.5 to 4.0).
+
+The injection is not to be used if its color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
+
+# PRINCIPAL DISPLAY PANEL - 8 mg/mL Syringe Label
+
+TWIST & PULL
+
+Tamper Seal
+
+NDC 0409-1892-13
+
+Morphine Sulfate Injection, USP CII
+
+8 mg / mL
+
+INTRAVENOUS USE ONLY
+
+Protect from light and freezing.
+
+Preservative-Free Rx only
+
+1 mL Single-dose syringe
+
+PAA140561
+
+LOT #####AA EXP DMMMYYYY
+
+# PRINCIPAL DISPLAY PANEL - 8 mg/mL Syringe Luer Lock Label
+
+Morphine Sulfate Injection, USP CII
+
+8 mg / mL
+
+PAA140544
+
+# PRINCIPAL DISPLAY PANEL - 8 mg/mL Syringe Luer Lock Cello Pack Label
+
+NDC 0409-1892-23 Preservative-Free
+
+Morphine Sulfate Injection, USP CII
+
+8 mg / mL
+
+INTRAVENOUS USE ONLY Rx only
+
+10 NexJect 1 mL Single-dose syringes with luer lock
+
+Needle not included
+
+Protect from light and freezing.
+Opaque covering needed until contents are used.
+
+Store at 20 to 25°C (68 to 77°F).
+(See USP Controlled Room Temperature.)
+
+Sterile Aqueous Injection Usual Dosage: See Package Insert.
+
+Each mL contains morphine sulfate 8 mg, edetate disodium 0.2 mg, citric acid 0.4 mg, and sodium chloride 8 mg.
+Hydrochloric acid and/or sodium hydroxide may be added to adjust pH to 3.0 (2.5 to 4.0).
+
+The injection is not to be used if its color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
+
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Syringe Label
+
+TWIST & PULL
+
+Tamper Seal
+
+NDC 0409-1893-13
+
+Morphine Sulfate Injection, USP CII
+
+10 mg / mL
+
+INTRAVENOUS USE ONLY
+
+Protect from light and freezing.
+
+Preservative-Free Rx only
+
+1 mL Single-dose syringe
+
+PAA140548
+
+LOT #####AA EXP DMMMYYYY
+
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Syringe Luer Lock Label
+
+Morphine Sulfate Injection, USP CII
+
+10 mg / mL
+
+PAA140546
+
+# PRINCIPAL DISPLAY PANEL - 10 mg/mL Syringe Luer Lock Cello Pack Label
+
+NDC 0409-1893-23 Preservative-Free
+
+Morphine Sulfate Injection, USP CII
+
+10 mg / mL
+
+INTRAVENOUS USE ONLY Rx only
+
+10 NexJect 1 mL Single-dose syringes with luer lock
+
+Needle not included
+
+Protect from light and freezing.
+Opaque covering needed until contents are used.
+
+Store at 20 to 25°C (68 to 77°F).
+(See USP Controlled Room Temperature.)
+
+Sterile Aqueous Injection Usual Dosage: See Package Insert.
+
+Each mL contains morphine sulfate 10 mg, edetate disodium 0.2 mg, citric acid 0.4 mg, and sodium chloride 7.8 mg.
+Hydrochloric acid and/or sodium hydroxide may be added to adjust pH to 3.0 (2.5 to 4.0).
+
+The injection is not to be used if its color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
