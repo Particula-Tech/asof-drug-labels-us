@@ -45,4 +45,4 @@ Infertility
 
 Manufactured for: Accord BioPharma Inc. 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA
 
-By: Fareva Pau Fareva Pau 1, Avenue du Bearn, IDRON, 64320, France 750043
+By: Fareva Pau Fareva Pau 1, Avenue du Bearn, IDRON, 64320, France 750043 Issued November 2022
