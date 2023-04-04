@@ -136,9 +136,9 @@ Never put used buprenorphine transdermal system patches in the trash without fir
 
 This "Instructions for Use" has been approved by the U.S. Food and Drug Administration.
 
-Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816
+Marketed by: Rhodes Pharmaceuticals, Wilson, NC 27893
 
-Revised: 10/2019
+Revised: 2/2023
 
 Bioclusive is a trademark of Systagenix Wound Management (US), Inc.
 
