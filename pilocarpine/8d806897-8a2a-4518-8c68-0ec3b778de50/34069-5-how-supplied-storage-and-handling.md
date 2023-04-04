@@ -1,11 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-VUITY is supplied as a clear, colorless, sterile ophthalmic solution in colorless low density polyethylene (LDPE) ophthalmic dispenser bottles and tips, with dark green high impact polystyrene caps as follows:
+VUITY is supplied as an isotonic, clear, colorless sterile ophthalmic solution in colorless low density polyethylene (LDPE) ophthalmic dispenser bottles and tips, with dark green high impact polystyrene caps as follows:
 
 | 2.5 mL fill in 5 mL bottle (Box containing 1 bottle) | NDC 0074-7098-01 |
 | --- | --- |
 | 2.5 mL fill in 5 mL bottle (Box containing 3 bottles) | NDC 0074-7098-03 |
-| 2.5 mL fill in 5 mL bottle (Carton) | NDC 0074-7098-04 |
+| 2.5 mL fill in 5 mL bottle (Carton containing 1 bottle) | NDC 0074-7098-04 |
 | 5 mL fill in 5 mL bottle (Carton) | NDC 0074-7098-06 |
 
 Storage

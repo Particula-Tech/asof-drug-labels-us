@@ -9,10 +9,10 @@ Data Human Data No adequate and well-controlled trials of VUITY have been conduc
 In a retrospective case series of 15 women with glaucoma, 4 patients used ophthalmic pilocarpine either pre-pregnancy, during pregnancy or postpartum.
 There were no adverse effects observed in patients or in their infants.
 
-Animal Data In embryofetal development studies, oral administration of pilocarpine to pregnant rats throughout organogenesis produced maternal toxicity, skeletal anomalies and reduction in fetal body weight at 90 mg/kg/day (approximately 970-fold higher than the maximum recommended human ophthalmic dose [MRHOD] of 0.015 mg/kg/day, on a mg/m2 basis).
+Animal Data In embryofetal development studies, oral administration of pilocarpine to pregnant rats throughout organogenesis produced maternal toxicity, skeletal anomalies and reduction in fetal body weight at 90 mg/kg/day (approximately 485-fold higher than the maximum human ophthalmic dose [MHOD] of 0.03 mg/kg/day assuming administration of 2 drops/eye/day, on a mg/m2 basis).
 
-In a peri-/postnatal study in rats, oral administration of pilocarpine during late gestation through lactation increased stillbirths at a dose of 36 mg/kg/day (approximately 390-fold higher than the MRHOD).
-Decreased neonatal survival and reduced mean body weight of pups were observed at ≥18 mg/kg/day (approximately 200 times the recommended human daily dose of VUITY).
+In a peri-/postnatal study in rats, oral administration of pilocarpine during late gestation through lactation increased stillbirths at a dose of 36 mg/kg/day (approximately 195-fold higher than the MHOD).
+Decreased neonatal survival and reduced mean body weight of pups were observed at ≥18 mg/kg/day (approximately 100 times the maximum human ophthalmic dose of VUITY).
 
 ## 8.2 Lactation
 
@@ -31,5 +31,5 @@ Presbyopia does not occur in the pediatric population.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of VUITY did not include subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience with ophthalmic pilocarpine solutions have not identified overall differences in safety between elderly and younger patients.
+Clinical studies of VUITY did not include participants aged 65 and over to determine whether they respond differently from younger participants.
+Other reported clinical experience with ophthalmic pilocarpine solutions have not identified overall differences in safety between elderly and younger participants.

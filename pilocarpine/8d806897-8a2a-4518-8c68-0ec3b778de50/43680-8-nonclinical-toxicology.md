@@ -4,8 +4,8 @@
 
 Carcinogenesis
 
-Pilocarpine did not induce tumors in mice at any dosage level studied (up to 30 mg/kg/day; approximately 160-times the MRHOD).
-In rats, an oral dose of 18 mg/kg/day (approximately 200 times the MRHOD), resulted in a statistically significant increase in the incidence of benign pheochromocytomas in both male and female rats, and a statistically significant increase in the incidence of hepatocellular adenomas in female rats.
+Pilocarpine did not induce tumors in mice at any dosage level studied (up to 30 mg/kg/day; approximately 80-times the MHOD).
+In rats, an oral dose of 18 mg/kg/day (approximately 100 times the MHOD), resulted in a statistically significant increase in the incidence of benign pheochromocytomas in both male and female rats, and a statistically significant increase in the incidence of hepatocellular adenomas in female rats.
 
 Mutagenesis
 
@@ -13,6 +13,6 @@ Pilocarpine did not show any potential to cause genetic toxicity in a series of 
 
 Impairment of Fertility
 
-Pilocarpine oral administration to male and female rats at a dosage of 18 mg/kg/day (200 times the recommended human daily dose) resulted in impaired reproductive function, including reduced fertility, decreased sperm motility, and morphologic evidence of abnormal sperm.
+Pilocarpine oral administration to male and female rats at a dosage of 18 mg/kg/day (100 times the MHOD) resulted in impaired reproductive function, including reduced fertility, decreased sperm motility, and morphologic evidence of abnormal sperm.
 It is unclear whether the reduction in fertility was due to effects on males, females, or both.
-In dogs, exposure to pilocarpine at a dosage of 3 mg/kg/day for 6 months resulted in evidence of impaired spermatogenesis (approximately 110 times the recommended human daily dose).
+In dogs, exposure to pilocarpine at a dosage of 3 mg/kg/day for 6 months resulted in evidence of impaired spermatogenesis (approximately 55 times the MHOD).
