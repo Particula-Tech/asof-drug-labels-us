@@ -195,3 +195,97 @@ FOR SUBCUTANEOUS USE ONLY
 Single-Dose
 
 Rx Only
+
+NDC 0074-7034-02
+
+2 x 1 mL Prefilled Syringes
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+90 mg/mL per syringe
+
+2 x 90 mg/mL.
+Single-Dose Prefilled
+
+Syringes for a total 180 mg/2 mL dose
+
+FOR SUBCUTANEOUS USE ONLY
+
+FOR HEALTHCARE PROVIDER ADMINISTRATION ONLY
+
+www.
+SKYRIZI.com
+
+Rx Only
+
+abbvie
+
+NDC 0074-7032-90
+
+One 1 mL Single-Dose Prefilled Syringe
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+90 mg/mL
+
+FOR SUBCUTANEOUS USE ONLY
+
+FOR HEALTHCARE PROVIDER ADMINISTRATION ONLY
+
+www.
+SKYRIZI.com
+
+Rx Only
+
+abbvie
+
+NDC 0074-7036-04
+
+4 x 1 mL Prefilled Syringes
+
+Skyrizi®
+
+risankizumab-rzaa Injection
+
+90 mg/mL per syringe
+
+4 x 90 mg/mL Single-Dose Prefilled
+
+Syringes for a total 360 mg/4 mL dose
+
+FOR SUBCUTANEOUS USE ONLY
+
+FOR HEALTHCARE PROVIDER ADMINISTRATION ONLY
+
+ATTENTION PHARMACIST:
+
+Each patient is required to receive the enclosed Medication Guide.
+
+The entire carton is to be dispensed as a unit.
+
+Return to Pharmacy if carton seal is broken or missing.
+
+www.
+SKYRIZI.com
+
+Rx Only
+
+abbvie
+
+NDC 0074-7032-01
+
+Skyrizi®
+
+Risankizumab-rzaa
+
+Injection
+
+90 mg/mL
+
+For Subcutaneous Use Only
+
+Rx Only

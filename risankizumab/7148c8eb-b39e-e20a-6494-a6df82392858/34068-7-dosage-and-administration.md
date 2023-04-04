@@ -11,7 +11,7 @@
 ## 2.2 General Considerations for Administration
 
 • Visually inspect SKYRIZI for particulate matter and discoloration prior to administration.
-The solution may contain a few translucent to white particles. ◦ SKYRIZI 150 mg/mL, 180 mg/1.2 mL, and 360 mg/2.4 mL: a colorless to yellow, and clear to slightly opalescent solution. ◦ SKYRIZI 75 mg/0.83 mL and 600 mg/10 mL: a colorless to slightly yellow, and clear to slightly opalescent solution. ◦ Do not use if the solution contains large particles or is cloudy or discolored.
+The solution may contain a few translucent to white particles. ◦ SKYRIZI 150 mg/mL, 180 mg/1.2 mL, and 360 mg/2.4 mL: a colorless to yellow, and clear to slightly opalescent solution. ◦ SKYRIZI 75 mg/0.83 mL, 90 mg/mL, and 600 mg/10 mL: a colorless to slightly yellow, and clear to slightly opalescent solution. ◦ Do not use if the solution contains large particles or is cloudy or discolored.
 
 • Discard after use.
 Do not reuse.
@@ -92,6 +92,8 @@ Do not freeze.
 
 Subcutaneous Maintenance Dosing Regimen:
 
+Using the single-dose 180 mg or 360 mg prefilled cartridge with On-Body Injector:
+
 • SKYRIZI is intended for use under the guidance and supervision of a healthcare professional.
 
 • Patients may self-inject SKYRIZI using the on-body injector with prefilled cartridge after training in subcutaneous injection technique.
@@ -108,3 +110,24 @@ Thereafter, resume dosing at the regular scheduled time.
 
 The SKYRIZI “Instructions for Use” contains more detailed instructions on the preparation and administration of SKYRIZI [see Instructions for Use].
 Instruct the patient to read the Instructions for Use before administration.
+
+Using the 90 mg/mL prefilled syringe:
+
+• Administer each SKYRIZI 90 mg/mL prefilled syringe subcutaneously.
+
+• SKYRIZI 90 mg/mL should be prepared and administered by a healthcare professional.
+
+• Before injecting, remove the carton from the refrigerator and without removing the prefilled syringes from the carton, allow SKYRIZI to reach room temperature out of direct sunlight (15 to 30 minutes).
+
+• Use the 90 mg/mL prefilled syringes to administer SKYRIZI 180 mg or SKYRIZI 360 mg subcutaneously as follows:
+
+◦ When using SKYRIZI 90 mg/mL prefilled syringes, for a 180 mg maintenance dose, two 90 mg prefilled syringes are required.
+Inject one prefilled syringe after the other in different anatomic locations (such as thighs or abdomen).
+
+◦ When using SKYRIZI 90 mg/mL prefilled syringes, for a 360 mg maintenance dose, four 90 mg prefilled syringes are required.
+Inject one prefilled syringe after the other in different anatomic locations (such as thighs or abdomen).
+
+• Do not inject into areas where the skin is tender, bruised, erythematous, indurated or affected by any lesions.
+
+• If a dose is missed, administer the dose as soon as possible.
+Thereafter, resume dosing at the regular scheduled time.
