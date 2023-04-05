@@ -13,5 +13,5 @@
 - Patients receiving Meropenem for Injection on an outpatient basis must be alerted of adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
   Until it is reasonably well established that Meropenem for Injection is well tolerated, patients should not operate machinery or motorized vehicles [see Warnings and Precautions (5.9)].
 
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India
