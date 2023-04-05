@@ -174,11 +174,10 @@ There was no significant pharmacokinetic interaction between fluconazole and azi
 Voriconazole: Voriconazole is a substrate for both CYP2C9 and CYP3A4 isoenzymes.
 Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on Day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20% to 107%) and 79% (90% CI: 40% to 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
-Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
-Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within 24 h of the last dose of fluconazole.
 (See PRECAUTIONS.)
 Tofacitinib: Coadministration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2 to 7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% to 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS.)
+Abrocitinib: When co-administered with fluconazole (inhibitor of CYP2C9, 2C19, and 3A4), the systemic exposure (AUC) of abrocitinib was approximately 4.8-fold higher and the combined exposure (AUC) of abrocitinib and its active metabolites was approximately 2.5-fold higher compared to when abrocitinib was administered alone (See PRECAUTIONS).
 
 ## Microbiology
 
