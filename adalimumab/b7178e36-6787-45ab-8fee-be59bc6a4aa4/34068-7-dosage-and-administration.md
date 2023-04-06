@@ -55,11 +55,18 @@ Azathioprine and 6-mercaptopurine (6-MP) [see Warnings and Precautions (5.2)] ma
 The recommended subcutaneous dosage of AMJEVITA for adult patients with plaque psoriasis (Ps) is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
 The use of adalimumab products in moderate to severe chronic Ps beyond one year has not been evaluated in controlled clinical studies.
 
-## 2.6 Monitoring to Assess Safety
+## 2.6 Hidradenitis Suppurativa
+
+Adults
+
+The recommended subcutaneous dosage of AMJEVITA for adult patients with hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+Begin 40 mg weekly or 80 mg every other week dosing two weeks later (Day 29).
+
+## 2.7 Monitoring to Assess Safety
 
 Prior to initiating AMJEVITA and periodically during therapy, evaluate patients for active tuberculosis and test for latent infection [see Warnings and Precautions (5.1)].
 
-## 2.7 General Considerations for Administration
+## 2.8 General Considerations for Administration
 
 AMJEVITA is intended for use under the guidance and supervision of a physician.
 A patient may self-inject AMJEVITA or a caregiver may inject AMJEVITA using either the AMJEVITA prefilled SureClick autoinjector or prefilled syringe if a physician determines that it is appropriate, and with medical follow-up, as necessary, after proper training in subcutaneous injection technique.
