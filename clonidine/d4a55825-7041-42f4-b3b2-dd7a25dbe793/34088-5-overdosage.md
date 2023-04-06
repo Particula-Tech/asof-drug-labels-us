@@ -8,7 +8,7 @@ As little as 0.1 mg of clonidine has produced signs of toxicity in children.
 
 If symptoms of poisoning occur following dermal exposure, remove all Catapres‑TTS® transdermal systems.
 After their removal, the plasma clonidine levels will persist for about 8 hours, then decline slowly over a period of several days.
-Rare cases of CATAPRES‑TTS® poisoning due to accidental or deliberate mouthing or ingestion of the patch have been reported, many of them involving children.
+Rare cases of Catapres‑TTS® poisoning due to accidental or deliberate mouthing or ingestion of the patch have been reported, many of them involving children.
 
 There is no specific antidote for clonidine overdosage.
 Ipecac syrup‑induced vomiting and gastric lavage would not be expected to remove significant amounts of clonidine following dermal exposure.

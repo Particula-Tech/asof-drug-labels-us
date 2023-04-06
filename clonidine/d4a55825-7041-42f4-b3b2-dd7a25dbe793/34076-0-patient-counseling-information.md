@@ -18,11 +18,15 @@ The Catapres‑TTS® PATCH must be replaced with a new one on a fresh skin site 
 Skin burns have been reported at the patch site in several patients wearing an aluminized transdermal system during a magnetic resonance imaging scan (MRI).
 Because the Catapres-TTS® PATCH contains aluminum, it is recommended to remove the system before undergoing an MRI.
 
+Each box of Catapres-TTS® contains two types of pouches:
+
+Figure 2
+
 How to Apply the Catapres-TTS® PATCH
 
 1. Apply the square, tan Catapres‑TTS® PATCH once a week, preferably at a convenient time on the same day of the week (i.e., prior to bedtime on Tuesday of week one; prior to bedtime on Tuesday of week two, etc.).
 2. Select a hairless area such as on the upper, outer arm or upper chest.
-   The area chosen (Figure 2) should be free of cuts, abrasions, irritation, scars or calluses and should not be shaved before applying the Catapres‑TTS® PATCH.
+   The area chosen should be free of cuts, abrasions, irritation, scars or calluses and should not be shaved before applying the Catapres‑TTS® PATCH.
    Do not place the Catapres‑TTS® PATCH on skin folds or under tight undergarments, since premature loosening may occur.
 3. Wash hands with soap and water and thoroughly dry them.
 4. Clean the area chosen with soap and water.
@@ -31,9 +35,9 @@ How to Apply the Catapres-TTS® PATCH
    Remove the square, tan PATCH from the pouch.
    Figure 3
 6. Remove the clear plastic protective backing from the PATCH by gently peeling off one half of the backing at a time as shown in Figure 4.
-   Avoid touching the sticky side of the Catapres‑TTS®PATCH.
+   Avoid touching the sticky side of the Catapres‑TTS® PATCH.
    Figure 4
-7. Place the Catapres‑TTS®PATCH on the prepared skin site (sticky side down) by applying firm pressure over the PATCH to ensure good contact with the skin, especially around the edges (Figure 5).
+7. Place the Catapres‑TTS® PATCH on the prepared skin site (sticky side down) by applying firm pressure over the PATCH to ensure good contact with the skin, especially around the edges (Figure 5).
    Discard the clear plastic protective backing and wash your hands with soap and water to remove any drug from your hands.
    Figure 5
 8. After one week, remove the old PATCH and discard it (refer to Instructions for Disposal).
@@ -67,4 +71,6 @@ Catapres-TTS® is a registered trademark of Boehringer Ingelheim International G
 
 Copyright © 2021 Technomed Inc. ALL RIGHTS RESERVED
 
-Revised: March 2022
+Revised: March 2023
+
+222068/C

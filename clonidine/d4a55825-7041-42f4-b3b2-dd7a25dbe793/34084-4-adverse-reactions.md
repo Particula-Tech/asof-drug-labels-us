@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-## Clinical trial experience with Caapres-TTS®
+## Clinical trial experience with Catapres-TTS®
 
 Most systemic adverse effects during Catapres-TTS® therapy have been mild and have tended to diminish with continued therapy.
 In a 3‑month multi-clinic trial of Catapres-TTS® in 101 hypertensive patients, the systemic adverse reactions were, dry mouth (25 patients) and drowsiness (12), fatigue (6), headache (5), lethargy and sedation (3 each), insomnia, dizziness, impotence/sexual dysfunction, dry throat (2 each) and constipation, nausea, change in taste and nervousness (1 each).

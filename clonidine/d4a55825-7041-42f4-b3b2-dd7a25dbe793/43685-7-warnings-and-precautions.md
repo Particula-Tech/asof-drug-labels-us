@@ -15,7 +15,7 @@ If therapy is to be discontinued in patients receiving a beta‑blocker and clon
 
 ## General
 
-In patients who have developed localized contact sensitization to Catapres‑TTS® continuation of Catapres‑TTS® or substitution of oral clonidine hydrochloride therapy may be associated with development of a generalized skin rash.
+In patients who have developed localized contact sensitization to Catapres‑TTS®, continuation of Catapres‑TTS® or substitution of oral clonidine hydrochloride therapy may be associated with development of a generalized skin rash.
 
 In patients who develop an allergic reaction to Catapres‑TTS®, substitution of oral clonidine hydrochloride may also elicit an allergic reaction (including generalized rash, urticaria, or angioedema).
 
@@ -34,12 +34,12 @@ Physicians considering starting Catapres‑TTS® therapy during the perioperativ
 
 ## Defibrillation or Cardioversion
 
-The CLONIDINE transdermal systems should be removed before attempting defibrillation or cardioversion because of the potential for altered electrical conductivity which may increase the risk of arcing, a phenomenon associated with the use of defibrillators.
+The clonidine transdermal systems should be removed before attempting defibrillation or cardioversion because of the potential for altered electrical conductivity which may increase the risk of arcing, a phenomenon associated with the use of defibrillators.
 
 ## MRI
 
 Skin burns have been reported at the patch site in several patients wearing an aluminized transdermal system during a magnetic resonance imaging scan (MRI).
-Because the Catapres-TTS® patch contains aluminum, it is recommended to remove the system before undergoing an MRI.
+Because the Catapres-TTS® contains aluminum, it is recommended to remove the system before undergoing an MRI.
 
 ## Information for Patients
 

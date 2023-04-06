@@ -12,17 +12,17 @@
   "products": [
     {
       "form": "PATCH",
-      "generic": "clonidine",
+      "generic": "clonidine transdermal system",
       "name": "Catapres-TTS-1"
     },
     {
       "form": "PATCH",
-      "generic": "clonidine",
+      "generic": "clonidine transdermal system",
       "name": "Catapres-TTS-2"
     },
     {
       "form": "PATCH",
-      "generic": "clonidine",
+      "generic": "clonidine transdermal system",
       "name": "Catapres-TTS-3"
     }
   ],

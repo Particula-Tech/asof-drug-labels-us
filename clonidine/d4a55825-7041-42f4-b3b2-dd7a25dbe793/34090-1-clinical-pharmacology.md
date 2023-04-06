@@ -20,7 +20,7 @@ Clonidine acutely stimulates the release of growth hormone in children as well a
 ## Pharmacokinetics
 
 Catapres‑TTS® delivers clonidine at an approximately constant rate for 7 days.
-The absolute bioavailability of clonidine from the Catapres‑TTS® transdermal therapeutic system dosage form is approximately 60%.
+The absolute bioavailability of clonidine from the Catapres‑TTS® dosage form is approximately 60%.
 Steady-state clonidine plasma levels are obtained within 3 days after transdermal application to the upper outer arm and increase linearly with increasing size of the transdermal patch.
 Mean steady-state plasma concentrations with the 3.5 cm2, 7.0 cm2 and 10.5 cm2 systems are approximately 0.4 ng/mL, 0.8 ng/mL, and 1.1 ng/mL, respectively.
 Similar clonidine steady-state concentrations are reached after application to the chest.
@@ -36,4 +36,4 @@ It has been shown to cross the blood brain barrier in rats.
 Following oral administration, about 40% to 60% of the absorbed dose is recovered in the urine as unchanged drug within 24 hours.
 About 50% of the absorbed dose is metabolized in the liver.
 
-After removal of the Catapres‑TTS® transdermal therapeutic system, clonidine plasma concentrations decline slowly with a half-life of approximately 20 hours.
+After removal of the Catapres‑TTS®, clonidine plasma concentrations decline slowly with a half-life of approximately 20 hours.
