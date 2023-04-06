@@ -499,3 +499,29 @@ Efficacy Results at 26 Weeks
 | mNAPSI 75 | 47% | 3% |
 
 Nail pain was also evaluated and improvement in nail pain was observed in Study Ps-III.
+
+## 14.9 Hidradenitis Suppurativa
+
+Two randomized, double-blind, placebo-controlled studies (Studies HS-I and II) evaluated the safety and efficacy of adalimumab in a total of 633 adult subjects with moderate to severe hidradenitis suppurativa (HS) with Hurley Stage II or III disease and with at least 3 abscesses or inflammatory nodules.
+
+In both studies, subjects received placebo or adalimumab at an initial dose of 160 mg at Week 0, 80 mg at Week 2, and 40 mg every week starting at Week 4 and continued through Week 11.
+Subjects used topical antiseptic wash daily.
+Concomitant oral antibiotic use was allowed in Study HS-II.
+Both studies evaluated Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12.
+HiSCR was defined as at least a 50% reduction in total abscess and inflammatory nodule count with no increase in abscess count and no increase in draining fistula count relative to baseline (see Table 18).
+Reduction in HS-related skin pain was assessed using a Numeric Rating Scale in patients who entered the study with an initial baseline score of 3 or greater on a 11 point scale.
+
+In both studies, a higher proportion of adalimumab- than placebo-treated subjects achieved HiSCR (see Table 18)
+
+Table 18.
+Efficacy Results at 12 Weeks in Subjects with Moderate to Severe Hidradenitis Suppurativa
+
+|  | Placebo | Adalimumab 40 mg Weekly | Placebo | Adalimumab 40 mg Weekly |
+| --- | --- | --- | --- | --- |
+|  | HS Study I |  | HS Study II19.3% of subjects in Study HS-II continued baseline oral antibiotic therapy during the study. |  |
+| Hidradenitis Suppurativa Clinical Response (HiSCR) | N = 154 40 (26%) | N = 153 64 (42%) | N=163 45 (28%) | N=163 96 (59%) |
+
+In both studies, from Week 12 to Week 35 (Period B), subjects who had received adalimumab were re-randomized to 1 of 3 treatment groups (adalimumab 40 mg every week, adalimumab 40 mg every other week, or placebo).
+Subjects who had been randomized to placebo were assigned to receive adalimumab 40 mg every week (Study HS-I) or placebo (Study HS-II).
+
+During Period B, flare of HS, defined as ≥25% increase from baseline in abscesses and inflammatory nodule counts and with a minimum of 2 additional lesions, was documented in 22 (22%) of the 100 subjects who were withdrawn from adalimumab treatment following the primary efficacy timepoint in two studies.

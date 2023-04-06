@@ -41,8 +41,8 @@ This study cannot reliably establish whether there is an association between ada
 In an independent clinical study conducted in ten pregnant women with IBD treated with adalimumab, adalimumab concentrations were measured in maternal serum as well as in cord blood (n = 10) and infant serum (n = 8) on the day of birth.
 The last dose of adalimumab was given between 1 and 56 days prior to delivery.
 Adalimumab concentrations were 0.16-19.7 mcg/mL in cord blood, 4.28-17.7 mcg/mL in infant serum, and 0-16.1 mcg/mL in maternal serum.
-In all but one case, the cord blood concentration of adalimumab was higher than the maternal serum level, suggesting adalimumab actively crosses the placenta.
-In addition, one infant had serum concentration at each of the following: 6 weeks (1.94 mcg/mL), 7 weeks (1.31 mcg/mL), 8 weeks (0.93 mcg/mL), and 11 weeks (0.53 mcg/mL), suggesting adalimumab can be detected in the serum of infants exposed in utero for at least 3 months from birth.
+In all but one case, the cord blood concentration of adalimumab was higher than the maternal serum concentration, suggesting adalimumab actively crosses the placenta.
+In addition, one infant had serum concentrations at each of the following: 6 weeks (1.94 mcg/mL), 7 weeks (1.31 mcg/mL), 8 weeks (0.93 mcg/mL), and 11 weeks (0.53 mcg/mL), suggesting adalimumab can be detected in the serum of infants exposed in utero for at least 3 months from birth.
 
 Animal Data
 
@@ -65,6 +65,9 @@ The safety and effectiveness of AMJEVITA have been established for:
 
 - reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
 - the treatment of moderately to severely active Crohn's disease in pediatric patients 6 years of age and older.
+
+A pediatric assessment for AMJEVITA demonstrates that AMJEVITA is safe and effective for pediatric patients in an indication for which HUMIRA (adalimumab) is approved.
+However, AMJEVITA is not approved for such indication due to marketing exclusivity for HUMIRA (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
 Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].

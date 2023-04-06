@@ -11,8 +11,8 @@ The following packaging configurations are available.
 | 20 mg/0.4 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-411-01 |
 | 40 mg/0.8 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-410-01 |
 | 2 | 55513-410-02 |  |
-| 40 mg/0.8 mL Prefilled SureClick Autoinjector | 1 | 55513-400-01 |
-| 2 | 55513-400-02 |  |
+| 40 mg/0.8 mL Prefilled SureClick Autoinjector | 1 | 55513-400-01 72511-400-01 |
+| 2 | 55513-400-02 72511-400-02 |  |
 
 Storage and Stability
 

@@ -3,14 +3,14 @@
 ## 7.1 Methotrexate
 
 Adalimumab has been studied in rheumatoid arthritis (RA) patients taking concomitant methotrexate (MTX).
-Although MTX reduced the apparent clearance of adalimumab, the data do not suggest the need for dose adjustment of either AMJEVITA or MTX [see Clinical Pharmacology (12.3)].
+Although MTX reduced the apparent adalimumab clearance, the data do not suggest the need for dose adjustment of either AMJEVITA or MTX [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Biological Products
 
 In clinical studies in patients with RA, an increased risk of serious infections has been observed with the combination of TNF-blockers with anakinra or abatacept, with no added benefit; therefore, use of AMJEVITA with abatacept or anakinra is not recommended in patients with RA [see Warnings and Precautions (5.7, 5.11)].
 A higher rate of serious infections has also been observed in patients with RA treated with rituximab who received subsequent treatment with a TNF-blocker.
-There is insufficient information regarding the concomitant use of AMJEVITA and other biologic products for the treatment of RA, PsA, AS, CD, UC and Ps.
-Concomitant administration of AMJEVITA with other biologic DMARDs (e.g., anakinra and abatacept) or other TNF-blockers is not recommended based upon the possible increased risk for infections and other potential pharmacological interactions.
+There is insufficient information regarding the concomitant use of AMJEVITA and other biologic products for the treatment of RA, PsA, AS, CD, UC, Ps, and HS.
+Concomitant administration of AMJEVITA with other biologic DMARDs (e.g., anakinra and abatacept) or other TNF‑blockers is not recommended based upon the possible increased risk for infections and other potential pharmacological interactions.
 
 ## 7.3 Live Vaccines
 
