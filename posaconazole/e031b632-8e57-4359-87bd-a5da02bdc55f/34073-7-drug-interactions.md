@@ -81,6 +81,15 @@ Posaconazole Delayed-Release Tablet:
 No clinically relevant effects on the pharmacokinetics of posaconazole were observed when Posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors [see Clinical Pharmacology (12.3)].
 No dosage adjustment of Posaconazole delayed-release tablets is required when Posaconazole delayed-release tablets are concomitantly used with antacids, H2-receptor antagonists and proton pump inhibitors.
 
+Posaconazole Oral Suspension:
+
+Cimetidine (an H2-receptor antagonist) and esomeprazole (a proton pump inhibitor) when given with Posaconazole oral suspension results in decreased posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
+It is recommended to avoid concomitant use of cimetidine and esomeprazole with Posaconazole oral suspension unless the benefit outweighs the risks.
+However, if concomitant administration is required, close monitoring for breakthrough fungal infections is recommended.
+
+No clinically relevant effects were observed when Posaconazole oral suspension is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
+No dosage adjustment of Posaconazole oral suspension is required when Posaconazole oral suspension is concomitantly used with antacids and H2-receptor antagonists other than cimetidine.
+
 ## 7.10 Vinca Alkaloids
 
 Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates of CYP3A4.
@@ -105,6 +114,14 @@ Posaconazole Delayed-Release Tablet:
 
 Concomitant administration of metoclopramide with Posaconazole delayed-release tablets did not affect the pharmacokinetics of posaconazole [see Clinical Pharmacology (12.3)].
 No dosage adjustment of Posaconazole delayed-release tablets is required when given concomitantly with metoclopramide.
+
+Posaconazole Oral Suspension:
+
+Metoclopramide, when given with Posaconazole oral suspension, decreases posaconazole plasma concentrations [see Clinical Pharmacology (12.3)].
+If metoclopramide is concomitantly administered with Posaconazole oral suspension, it is recommended to closely monitor for breakthrough fungal infections.
+
+Loperamide does not affect posaconazole plasma concentrations after Posaconazole oral suspension administration [see Clinical Pharmacology (12.3)].
+No dosage adjustment of Posaconazole oral suspension is required when loperamide and Posaconazole oral suspension are used concomitantly.
 
 ## 7.14 Glipizide
 

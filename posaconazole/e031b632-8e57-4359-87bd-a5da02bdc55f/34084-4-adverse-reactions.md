@@ -18,12 +18,12 @@ The safety of Noxafil injection and Noxafil delayed-release tablet was assessed 
 A total of 575 (288 in Noxafil arm, 287 in voriconazole arm) adult and pediatric patients 13 years of age and older with proven, probable or possible invasive aspergillosis were included.
 The median duration of treatment was 67 days for Noxafil injection or Noxafil delayed-release tablet and 64 days for voriconazole, with 55% to 60% of subjects starting treatment with the IV formulation of either drug.
 The median duration of the first instance of IV treatment (before switching to oral treatment or discontinuing or completing study treatment) was 9 days for both groups.
-Table 2 presents adverse reactions reported at an incidence of ≥10% in either one of the groups in Aspergillosis Treatment Study.
+Table 4 presents adverse reactions reported at an incidence of ≥10% in either one of the groups in Aspergillosis Treatment Study.
 
 Adverse reactions leading to treatment discontinuation were reported for 33.9% of subjects.
 The most commonly reported adverse reactions (>2% of subjects) leading to treatment discontinuation were septic shock, respiratory failure, and bronchopulmonary aspergillosis in the Noxafil arm, and septic shock and acute myeloid leukemia in the voriconazole arm.
 
-Table 2: Noxafil Invasive Aspergillosis Treatment Study: Adverse Reactions in at Least 10% of Subjects Treated with Noxafil Injection or Noxafil Delayed-Release Tablets
+Table 4: Noxafil Invasive Aspergillosis Treatment Study: Adverse Reactions in at Least 10% of Subjects Treated with Noxafil Injection or Noxafil Delayed-Release Tablets
 
 | System Organ Class | Noxafil injection or tablet (N = 288), n (%) | Voriconazole injection or oral (N = 287), n (%) |
 | --- | --- | --- |
@@ -64,9 +64,9 @@ Patients were immunocompromised with underlying conditions including hematologic
 This patient population was 62% male, had a mean age of 51 years (range 19-78 years, 17% of patients were ≥65 years of age), and were 93% white and 16% Hispanic.
 Posaconazole therapy was given for a median duration of 28 days.
 Twenty patients received 200 mg daily dose and 210 patients received 300 mg daily dose (following twice daily dosing on Day 1 in each cohort).
-Table 3 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in Noxafil Delayed-Release Tablet Study.
+Table 5 presents adverse reactions observed in patients treated with 300 mg daily dose at an incidence of ≥10% in Noxafil Delayed-Release Tablet Study.
 
-Table 3: Noxafil Delayed-Release Tablet Study: Adverse Reactions in at Least 10% of Subjects Treated with 300 mg Daily Dose
+Table 5: Noxafil Delayed-Release Tablet Study: Adverse Reactions in at Least 10% of Subjects Treated with 300 mg Daily Dose
 
 | Body System | Noxafil delayed-release tablet (300 mg) n=210 (%) |  |
 | --- | --- | --- |
@@ -110,16 +110,16 @@ This includes 605 patients in the active-controlled prophylaxis studies, 557 pat
 This represents a heterogeneous population, including immunocompromised patients, e.g., patients with hematological malignancy, neutropenia post-chemotherapy, GVHD post HSCT, and HIV infection, as well as non-neutropenic patients.
 This patient population was 71% male, had a mean age of 42 years (range 8-84 years, 6% of patients were ≥65 years of age and 1% was <18 years of age), and were 64% white, 16% Hispanic, and 36% non-white (including 14% black).
 Noxafil therapy was given to 171 patients for ≥6 months, with 58 patients receiving Noxafil therapy for ≥12 months.
-Table 4 adverse reactions observed at an incidence of >10% in Noxafil prophylaxis studies.
-Table 5 presents adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
+Table 6 presents adverse reactions observed at an incidence of >10% in Noxafil prophylaxis studies.
+Table 7 presents adverse reactions observed at an incidence of at least 10% in the OPC/rOPC studies.
 
-Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies (Noxafil Oral Suspension Studies 1 and 2), the safety of Noxafil oral suspension 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
+Prophylaxis of Aspergillus and Candida: In the 2 randomized, comparative prophylaxis studies (Noxafil Oral Suspension Study 1 and 2), the safety of Noxafil oral suspension 200 mg three times a day was compared to fluconazole 400 mg once daily or itraconazole 200 mg twice a day in severely immunocompromised patients.
 
 The most frequently reported adverse reactions (>30%) in the prophylaxis clinical trials were fever, diarrhea, and nausea.
 
 The most common adverse reactions leading to discontinuation of Noxafil in the prophylaxis studies were associated with GI disorders, specifically, nausea (2%), vomiting (2%), and hepatic enzymes increased (2%).
 
-Table 4: Noxafil Oral Suspension Study 1 and Study 2.
+Table 6: Noxafil Oral Suspension Study 1 and Study 2.
 Adverse Reactions in at Least 10% of the Noxafil Oral Suspension or Fluconazole Treatment Groups (Pooled Prophylaxis Safety Analysis)
 
 | Body System | Noxafil Oral Suspension n=605 (%) |  | Fluconazole n=539 (%) |  | Itraconazole n=58 (%) |  |
@@ -188,7 +188,7 @@ In the OPC/rOPC studies, the most common adverse reactions were fever, diarrhea,
 The most common adverse reactions that led to treatment discontinuation of Noxafil in the Controlled OPC Pool included respiratory impairment (1%) and pneumonia (1%).
 In the refractory OPC pool, the most common adverse reactions that led to treatment discontinuation of Noxafil were AIDS (7%) and respiratory impairment (3%).
 
-Table 5: Adverse Reactions in at Least 10% of the Treated Population in OPC Studies with Noxafil Oral Suspension
+Table 7: Adverse Reactions in at Least 10% of the Treated Population in OPC Studies with Noxafil Oral Suspension
 
 | n=557 | n=262 | n=239 |  |
 | --- | --- | --- | --- |
@@ -247,9 +247,9 @@ Other clinically significant adverse reactions reported in less than 5% of patie
 
 Clinical Laboratory Values: In healthy volunteers and patients, elevation of liver test values did not appear to be associated with higher plasma concentrations of posaconazole.
 
-For the prophylaxis studies, the number of patients with changes in liver tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 6.
+For the prophylaxis studies, the number of patients with changes in liver tests from Common Toxicity Criteria (CTC) Grade 0, 1, or 2 at baseline to Grade 3 or 4 during the study is presented in Table 8.
 
-Table 6: Noxafil Oral Suspension Study 1 and Study 2.
+Table 8: Noxafil Oral Suspension Study 1 and Study 2.
 Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Number (%) of Patients with ChangeChange from Grade 0 to 2 at baseline to Grade 3 or 4 during the study. These data are presented in the form X/Y, where X represents the number of patients who met the criterion as indicated, and Y represents the number of patients who had a baseline observation and at least one post-baseline observation. |  |  |
@@ -268,9 +268,9 @@ Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 o
 | Alkaline Phosphatase | 4/281 (1) | 1/276 (<1) |
 | CTC = Common Toxicity Criteria; AST= Aspartate Aminotransferase; ALT= Alanine Aminotransferase. |  |  |
 
-The number of patients treated for OPC with clinically significant liver test abnormalities at any time during the studies is provided in Table 7 (liver test abnormalities were present in some of these patients prior to initiation of the study drug).
+The number of patients treated for OPC with clinically significant liver test abnormalities at any time during the studies is provided in Table 9 (liver test abnormalities were present in some of these patients prior to initiation of the study drug).
 
-Table 7: Noxafil Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
+Table 9: Noxafil Oral Suspension Studies: Clinically Significant Laboratory Test Abnormalities without Regard to Baseline Value
 
 | n=557 (%) | n=262 (%) | n=239 (%) |  |
 | --- | --- | --- | --- |
@@ -282,10 +282,10 @@ Table 7: Noxafil Oral Suspension Studies: Clinically Significant Laboratory Test
 | Alkaline Phosphatase > 3.0 × ULN | 17/535 (3) | 15/253 (6) | 24/190 (13) |
 | ALT= Alanine Aminotransferase; AST= Aspartate Aminotransferase. |  |  |  |
 
-The number of patients treated for invasive aspergillosis with clinically significant liver test abnormalities at any time during the Aspergillosis Treatment Study is provided in Table 8.
+The number of patients treated for invasive aspergillosis with clinically significant liver test abnormalities at any time during the Aspergillosis Treatment Study is provided in Table 10.
 Liver test abnormalities present prior to the initiation of study drug included ALT (22%), AST (13%), and bilirubin (13%).
 
-Table 8: Aspergillosis Treatment Study: Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
+Table 10: Aspergillosis Treatment Study: Changes in Liver Test Results from CTC Grade 0, 1, or 2 at Baseline to Grade 3 or 4
 
 | Laboratory Parameter | Noxafil n/N (%) | Voriconazole n/N (%) |
 | --- | --- | --- |

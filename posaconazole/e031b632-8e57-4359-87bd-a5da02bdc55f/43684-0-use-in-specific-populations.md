@@ -40,7 +40,9 @@ The safety and effectiveness of Posaconazole oral suspension and Posaconazole de
 
 The safety and effectiveness of Posaconazole injection and Posaconazole delayed-release tablets for the treatment of invasive aspergillosis have been established in pediatric patients aged 13 years and older.
 
-Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of Noxafil in adults and pediatric patients and additional pharmacokinetic and safety data in pediatric patients 2 years of age and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+The safety and effectiveness of Posaconazole oral suspension have been established for the treatment of oropharyngeal candidiasis (OPC), including OPC refractory (rOPC) to itraconazole and/or fluconazole in pediatric patients aged 13 years and older.
+
+Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of Noxafil in adult and pediatric patients and additional pharmacokinetic and safety data in pediatric patients 2 years of age and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 The safety and effectiveness of posaconazole have not been established in pediatric patients younger than 2 years of age.
 
 ## 8.5 Geriatric Use

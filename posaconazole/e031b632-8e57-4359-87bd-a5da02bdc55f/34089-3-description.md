@@ -11,3 +11,7 @@ Posaconazole is a white powder with a low aqueous solubility.
 
 Posaconazole delayed-release tablet is a yellow, coated, oblong tablet containing 100 mg of posaconazole.
 Each delayed-release tablet contains the inactive ingredients: croscarmellose sodium, hydroxypropylcellulose, hypromellose acetate succinate, iron oxide yellow, Macrogol/PEG 3350, magnesium stearate, microcrystalline cellulose, polyvinyl alcohol partially hydrolyzed, silicon dioxide, talc, and titanium dioxide.
+
+Posaconazole Oral Suspension
+
+Posaconazole oral suspension is a white, cherry-flavored immediate-release suspension containing 40 mg of posaconazole per mL and the following inactive ingredients: artificial cherry flavor, citric acid monohydrate, glycerin, liquid glucose, polysorbate 80, purified water, simethicone, sodium benzoate, sodium citrate dihydrate, titanium dioxide, and xanthan gum.

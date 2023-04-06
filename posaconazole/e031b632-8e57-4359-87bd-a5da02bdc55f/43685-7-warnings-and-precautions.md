@@ -54,7 +54,7 @@ Reserve azole antifungals, including posaconazole, for patients receiving a vinc
 
 ## 5.8 Breakthrough Fungal Infections
 
-Patients who have severe diarrhea or vomiting should be monitored closely for breakthrough fungal infections when receiving Posaconazole delayed-release tablets.
+Patients who have severe diarrhea or vomiting should be monitored closely for breakthrough fungal infections when receiving Posaconazole delayed-release tablets or Posaconazole oral suspension.
 
 ## 5.9 Venetoclax Toxicity
 
