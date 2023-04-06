@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Bone Marrow Suppression
 
-Advise patients that periodic assessment of their blood count will be performed to detect neutropenia, thrombocytopenia, and/or anemia [see Contraindications (4), Warnings and Precautions (5.3)].
+Advise patients that periodic assessment of their blood count will be performed to detect neutropenia, thrombocytopenia and/or anemia [see Contraindications (4), Warnings and Precautions (5.3)].
 Instruct patients to monitor their temperature frequently and immediately report any occurrence of fever.
 
 Enterocolitis and Neutropenic Colitis
@@ -14,15 +14,16 @@ Advise patients of the symptoms of colitis, such as abdominal pain or tenderness
 Hypersensitivity Reactions
 
 Ask patients whether they have previously received paclitaxel therapy, and if they have experienced a hypersensitivity reaction to paclitaxel.
-Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction [see Contraindications (4), Warnings and Precautions (5.5)].
+Instruct patients to immediately report to their healthcare provider signs of a hypersensitivity reaction.
+[see Contraindications (4), Warnings and Precautions (5.5)].
 
 Fluid Retention
 
-Advise patients to report signs of fluid retention such as peripheral edema in the lower extremities, weight gain, and dyspnea immediately to their healthcare provider [see Warnings and Precautions (5.6)].
+Advise patients to report signs of fluid retention such as peripheral edema in the lower extremities, weight gain and dyspnea immediately to their healthcare provider [see Warnings and Precautions (5.6)].
 
 Second Primary Malignancies
 
-Advise patients on the risk of second primary malignancies during treatment with docetaxel [see Warnings and Precautions (5.7)].
+Advise patients on the risk of second primary malignancies during treatment with Docetaxel [see Warnings and Precautions (5.7)].
 
 Cutaneous Reactions
 
@@ -36,12 +37,12 @@ Instruct patients to immediately report neurologic reactions to their healthcare
 
 Eye Disorders
 
-Advise patients that vision disturbances and excessive tearing are associated with docetaxel administration.
+Advise patients that vision disturbances and excessive tearing are associated with Docetaxel administration.
 Instruct patients to immediately report any vision changes to their healthcare provider [see Warnings and Precautions (5.10)].
 
 Gastrointestinal Reactions
 
-Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with docetaxel administration.
+Explain to patients that nausea, vomiting, diarrhea, and constipation are associated with Docetaxel administration.
 Instruct patients to report any severe events to their healthcare provider [see Adverse Reactions (6)].
 
 Cardiac Disorders
@@ -50,42 +51,37 @@ Advise patients to report any irregular and/or rapid heartbeat, severe shortness
 
 Other Common Adverse Reactions
 
-Advise patients that other common adverse reactions associated with docetaxel may include alopecia (cases of permanent hair loss have been reported), asthenia, anorexia, dysgeusia, mucositis, myalgia, nail disorders, or pain.
+Advise patients that other common adverse reactions associated with Docetaxel may include alopecia (cases of permanent hair loss have been reported), asthenia, anorexia, dysgeusia, mucositis, myalgia, nail disorders, or pain.
 Instruct patients to report these reactions to their healthcare provider if serious events occur [see Adverse Reactions (6)].
 
 Importance of Corticosteroids
 
 Explain the significance of oral corticosteroids such as dexamethasone administration to the patient to help facilitate compliance.
-Instruct patients to report to their healthcare provider if they were not compliant with the oral corticosteroid regimen [see Dosage and Administration (2.6)].
+Instruct patients to report to their healthcare provider if they were not compliant with oral corticosteroid regimen [see Dosage and Administration (2.6)].
 
 Embryo-Fetal Toxicity
 
 Docetaxel can cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients to avoid becoming pregnant while receiving this drug.
-Advise female patients of reproductive potential to use effective contraceptives during treatment and for 2 months after the last dose of docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of docetaxel [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
+Advise female patients of reproductive potential to use effective contraceptives during treatment and for 6 months after the last dose of Docetaxel.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel [see Warnings and Precautions (5.12), and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
-Advise women not to breastfeed during docetaxel treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during Docetaxel treatment and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise males of reproductive potential that docetaxel may impair fertility [see Nonclinical Toxicology (13.1)].
+Advise males of reproductive potential that Docetaxel may impair fertility [see Nonclinical Toxicology (13.1)].
 
 Alcohol Content in Docetaxel
 
-Explain to patients the possible effects of the alcohol content in docetaxel, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
-
-Tumor Lysis Syndrome
-
-Advise patients of the potential risk of tumor lysis syndrome and to immediately report any signs or symptoms associated with this event (nausea, vomiting, confusion, shortness of breath, seizure, irregular heartbeat, dark or cloudy urine, reduced amount of urine, unusual tiredness, muscle cramps) to their healthcare provider.
-Advise patients of the importance of keeping scheduled appointment for blood work or other laboratory tests and of drinking adequate fluids to avoid dehydration [see Warnings and Precautions (5.14)].
+Explain to patients the possible effects of the alcohol content in Docetaxel, including possible effects on the central nervous system [see Warnings and Precautions (5.13)].
 
 Ability to Drive or Operate Machines
 
-Explain to patients that docetaxel may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of Docetaxel injection [see Warnings and Precautions (5.13)].
+Explain to patients that Docetaxel may impair their ability to drive or operate machines due to its side effects [see Adverse Reactions (6)] or due to the alcohol content of Docetaxel Injection [see Warnings and Precautions (5.13)].
 Advise them not to drive or use machines if they experience these side effects during treatment.
 
 Drug Interactions
