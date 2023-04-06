@@ -160,7 +160,9 @@ What are the ingredients in citalopram tablets?
 
 Active ingredient: citalopram hydrobromide, USP
 
-Inactive ingredients: copovidone, croscarmellose sodium, ferric oxide red, ferric oxide yellow, glycerin, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, starch, and titanium dioxide.
+Inactive ingredients: copovidone, corn starch, croscarmellose sodium, ferric oxide red, ferric oxide yellow, glycerin, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by:
 
@@ -170,4 +172,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8088042 Revised July 2022
+8090269 Revised October 2022

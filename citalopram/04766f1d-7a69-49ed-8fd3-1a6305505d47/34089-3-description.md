@@ -10,4 +10,4 @@ Citalopram hydrobromide is sparingly soluble in water and soluble in ethanol.
 
 Citalopram, USP 10 mg tablets are film-coated, round shaped tablets containing citalopram hydrobromide in strengths equivalent to 10 mg citalopram base.
 Citalopram hydrobromide, USP 20 mg and 40 mg tablets are film-coated, oval shaped, scored tablets containing citalopram hydrobromide, in strengths equivalent to 20 mg or 40 mg citalopram base.
-The tablets also contain the following inactive ingredients: copovidone, croscarmellose sodium, ferric oxide red, ferric oxide yellow, glycerin, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, starch, and titanium dioxide.
+The tablets also contain the following inactive ingredients: copovidone, corn starch, croscarmellose sodium, ferric oxide red, ferric oxide yellow, glycerin, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
