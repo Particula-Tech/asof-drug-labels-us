@@ -13,95 +13,88 @@ The following serious adverse reactions are described below and elsewhere in the
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below reflect exposure of 3017 patients to AFREZZA and include 1026 patients with type 1 diabetes and 1991 patients with type 2 diabetes.
-The mean exposure duration was 8.17 months for the overall population and 8.16 months and 8.18 months for type 1 and 2 diabetes patients, respectively.
-In the overall population, 1874 were exposed to AFREZZA for 6 months and 724 for greater than one year.
-620 and 1254 patients with type 1 and type 2 diabetes, respectively, were exposed to AFREZZA for up to 6 months.
-238 and 486 patients with type 1 and type 2 diabetes, respectively, were exposed to AFREZZA for greater than one year (median exposure = 1.8 years).
+The data described below reflect exposure of 3,017 patients to AFREZZA and include 1,026 patients with type 1 diabetes and 1,991 patients with type 2 diabetes.
+The mean exposure duration was 8.2 months for patients with type 1 diabetes and those with type 2 diabetes.
+In the overall population:
+
+- 1,874 patients were exposed to AFREZZA for 6 months and 724 patients for greater than one year.
+- 620 and 1,254 patients with type 1 and type 2 diabetes, respectively, were exposed to AFREZZA for up to 6 months.
+- 238 and 486 patients with type 1 and type 2 diabetes, respectively, were exposed to AFREZZA for greater than one year (median exposure = 1.8 years).
+
 AFREZZA was studied in placebo and active-controlled trials (n = 3 and n = 10, respectively).
 
-The mean age of the population was 50.2 years and 20 patients were older than 75 years of age.
-50.8% of the population were men; 82.6% were White, 1.8% were Asian, 4.9% were Black or African American and 9.7% were Hispanic.
+The mean age of the population was 50.2 years and 20 patients were older than 75 years of age; 51% of the population were males; 83% were White, 5% were Black or African American, and 2% were Asian; 10% were Hispanic.
 At baseline, the type 1 diabetes population had diabetes for an average of 16.6 years and had a mean HbA1c of 8.3%, and the type 2 diabetes population had diabetes for an average of 10.7 years and had a mean HbA1c of 8.8%.
-At baseline, 33.4% of the population reported peripheral neuropathy, 32.0% reported retinopathy and 19.6% had a history of cardiovascular disease.
+At baseline, 33% of the population reported peripheral neuropathy, 32% reported retinopathy and 20% had a history of cardiovascular disease.
 
-Table 1 shows common adverse reactions, excluding hypoglycemia, associated with the use of AFREZZA in the pool of controlled trials in type 2 diabetes patients.
+Table 1 shows the frequency of common adverse reactions, excluding hypoglycemia, associated with the use of AFREZZA in the pool of controlled trials in type 2 diabetes patients.
 These adverse reactions were not present at baseline, occurred more commonly on AFREZZA than on placebo and/or comparator and occurred in at least 2% of patients treated with AFREZZA.
 
 Table 1.
-Common Adverse Reactions in Patients with Type 2 Diabetes Mellitus (excluding Hypoglycemia) Treated with AFREZZA
+Common Adverse Reactions That Occurred in ≥ 2% in Patients with Type 2 Diabetes Mellitus (excluding Hypoglycemia) Treated with AFREZZA
 
-| (n = 290) | (n = 1991) | (n=1363) |  |
+|  | AFREZZA (n = 1,991) | Placebo* (n = 290) | Non-placebo comparators (n=1,363) |
 | --- | --- | --- | --- |
-|  | Placebo* | AFREZZA | Non-placebo comparators |
-| Cough | 19.7% | 25.6% | 5.4% |
-| Throat pain or irritation | 3.8% | 4.4% | 0.9% |
-| Headache | 2.8% | 3.1% | 1.8% |
-| Diarrhea | 1.4% | 2.7% | 2.2% |
-| Productive cough | 1.0% | 2.2% | 0.9% |
-| Fatigue | 0.7% | 2.0% | 0.6% |
-| Nausea | 0.3% | 2.0% | 1.0% |
-| *Carrier particle without insulin was used as placebo [see Description (11.1)] |  |  |  |
+| Cough | 25.6% 4.4% 3.1% 2.7% 2.2% 2.0% 2.0% | 19.7% 3.8% 2.8% 1.4% 1.0% 0.7% 0.3% | 5.4% 0.9% 1.8% 2.2% 0.9% 0.6% 1.0% |
+| Throat pain or irritation |  |  |  |
+| Headache |  |  |  |
+| Diarrhea |  |  |  |
+| Productive cough |  |  |  |
+| Fatigue |  |  |  |
+| Nausea |  |  |  |
+| *Carrier particle without insulin was used as placebo [see Description (11.1)]. |  |  |  |
 
-​
-
-Table 2 shows common adverse reactions, excluding hypoglycemia, associated with the use of AFREZZA in the pool of active-controlled trials in type 1 diabetes patients.
+Table 2 shows the frequency of common adverse reactions, excluding hypoglycemia, associated with the use of AFREZZA in the pool of active-controlled trials in type 1 diabetes patients.
 These adverse reactions were not present at baseline, occurred more commonly on AFREZZA than on comparator, and occurred in at least 2% of patients treated with AFREZZA.
 
 Table 2.
-Common Adverse Reactions in Patients with Type 1 Diabetes Mellitus (excluding Hypoglycemia) Treated with AFREZZA
+Common Adverse Reactions That Occurred in ≥ 2% in Patients with Type 1 Diabetes Mellitus (excluding Hypoglycemia) Treated with AFREZZA
 
-|  | Subcutaneous Insulin (n = 835) | AFREZZA (n=1026) |
+|  | AFREZZA (n=1026) | Subcutaneous Insulin (n = 835) |
 | --- | --- | --- |
-| Cough | 4.9% | 29.4% |
-| Throat pain or irritation | 1.9% | 5.5% |
-| Headache | 2.8% | 4.7% |
-| Pulmonary function test decreased | 1.0% | 2.8% |
-| Bronchitis | 2.0% | 2.5% |
-| Urinary tract infection | 1.9% | 2.3% |
+| Cough | 29.4% | 4.9% |
+| Throat pain or irritation | 5.5% | 1.9% |
+| Headache | 4.7% | 2.8% |
+| Pulmonary function test decreased | 2.8% | 1.0% |
+| Bronchitis | 2.5% | 2.0% |
+| Urinary tract infection | 2.3% | 1.9% |
 
 Hypoglycemia
 
 Hypoglycemia is the most commonly observed adverse reaction in patients using insulin, including AFREZZA [see Warnings and Precautions (5.3)].
-The incidence of severe and non-severe hypoglycemia of AFREZZA versus placebo in patients with type 2 diabetes is shown in Table 3.
+The incidence of severe and non-severe hypoglycemia in AFREZZA-treated patients versus placebo-treated patients with type 2 diabetes is shown in Table 3.
 A hypoglycemic episode was recorded if a patient reported symptoms of hypoglycemia with or without a blood glucose value consistent with hypoglycemia.
 Severe hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose value consistent with hypoglycemia or prompt recovery after treatment for hypoglycemia.
 
 Table 3.
 Incidence of Severe and Non-Severe Hypoglycemia in a Placebo-Controlled Study of Patients with Type 2 Diabetes
 
-|  | Placebo (N=176) | AFREZZA (N=177) |
+|  | AFREZZA (N=177) | Placebo (N=176) |
 | --- | --- | --- |
-| Severe Hypoglycemia | 1.7% | 5.1% |
-| Non-Severe Hypoglycemia | 30% | 67% |
+| Severe Hypoglycemia | 5.1% | 1.7% |
+| Non-Severe Hypoglycemia | 67% | 30% |
 
 Cough
 
-Approximately 27% of patients treated with AFREZZA reported cough, compared to approximately 5.2% of patients treated with comparator.
-In clinical trials, cough was the most common reason for discontinuation of AFREZZA therapy (2.8% of AFREZZA-treated patients).
+Approximately 27% of patients treated with AFREZZA reported cough, compared to approximately 5% of patients treated with comparator.
+In clinical trials, cough was the most common reason for discontinuation of AFREZZA therapy (3% of AFREZZA-treated patients).
 
 Pulmonary Function Decline
 
-In clinical trials lasting up to 2 years, excluding patients with chronic lung disease, patients treated with AFREZZA had a 40 mL (95% CI: -80, -1) greater decline from baseline in forced expiratory volume in one second (FEV 1) compared to patients treated with comparator anti-diabetes treatments.
+In clinical trials lasting up to 2 years, excluding patients with chronic lung disease, patients treated with AFREZZA had a 40 mL (95% CI: -80, -1) greater decline from baseline in forced expiratory volume in one second (FEV1) compared to patients treated with comparator anti-diabetes treatments.
 The decline occurred during the first 3 months of therapy and persisted over 2 years (Figure 2).
-A decline in FEV 1 of ≥ 15% occurred in 6% of AFREZZA-treated subjects compared to 3% of comparator-treated subjects.
+A decline in FEV1 of ≥ 15% occurred in 6% of AFREZZA-treated patients compared to 3% of comparator-treated patients [see Warnings and Precautions (5.4)].
 
 Figure 2.
-Mean (+/-SE) Change in FEV 1 (Liters) from Baseline for Type 1 and Type 2 Diabetes Patients
+Mean (+/-SE) Change in FEV1 (Liters) from Baseline for Type 1 and Type 2 Diabetes Patients
 
 Weight Gain
 
-Weight gain may occur with some insulin therapies, including AFREZZA.
+Weight gain has occurred with some insulin therapies, including AFREZZA.
 Weight gain has been attributed to the anabolic effects of insulin and the decrease in glycosuria.
 In a clinical trial of patients with type 2 diabetes [see Clinical Studies (14.3)], there was a mean 0.49 kg weight gain among AFREZZA-treated patients compared with a mean 1.13 kg weight loss among placebo-treated patients.
 
-Antibody Production
-
-Increases in anti-insulin antibody concentrations have been observed in patients treated with AFREZZA.
-Increases in anti-insulin antibodies are observed more frequently with AFREZZA than with subcutaneously injected mealtime insulins.
-Presence of antibody did not correlate with reduced efficacy, as measured by HbA1c and fasting plasma glucose, or specific adverse reactions.
-
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of AFREZZA.
+The following adverse reaction has been identified during post approval use of AFREZZA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: bronchospasm.
