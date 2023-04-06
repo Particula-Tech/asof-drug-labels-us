@@ -14,10 +14,7 @@ It is recommended the product be stored at room temperature (25°C); brief expos
 
 ## Directions for use of VIAFLEX PLUS Plastic Container
 
-The overwrap is a moisture and oxygen barrier.
 Do not remove unit from overwrap until ready for use.
-A sulfur dioxide odor may occur upon removal of the product from the overwrap container.
-The sulfur dioxide odor from Dobutamine Injection does not pose risk to the clinician or patient using the product.
 
 ## To open
 
@@ -86,5 +83,5 @@ Baxter, Viaflex and Viaflex Plus are trademarks of Baxter International Inc.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA
 
-07-19-00-5947 Rev.
-March 2023
+07-19-00-0594 Rev.
+March 2019
