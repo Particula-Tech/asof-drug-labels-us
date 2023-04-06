@@ -115,7 +115,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store telmisartan tablets?
 
-- •Store telmisartan tablets at room temperature 20° to 25°C (68° to 77°F).
+- •Store telmisartan tablets at room temperature between 20° to 25°C (68° to 77°F).
 - •Do not remove telmisartan tablets from bottles until right before you take them.
 
 Keep telmisartan tablets and all medicines out of the reach of children.
@@ -131,7 +131,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about telmisartan tablets that is written for health professionals.
 
-For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
+For current prescribing information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 What are the ingredients in telmisartan tablets?
 
@@ -161,6 +161,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75093593
+75096314
 
-Revised: 10/2022 MX:TLMS:R6p/MX:PL:TLMS:R4p
+Revised: 3/2023 MX:TLMS:R7p/MX:PL:TLMS:R5p

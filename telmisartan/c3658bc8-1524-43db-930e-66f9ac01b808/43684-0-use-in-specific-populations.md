@@ -43,7 +43,7 @@ Exchange transfusions or dialysis may be required as a means of reversing hypote
 No teratogenic effects were observed when telmisartan was administered to pregnant rats at oral doses of up to 50 mg/kg/day and to pregnant rabbits at oral doses up to 45 mg/kg/day.
 In rabbits, embryolethality associated with maternal toxicity (reduced body weight gain and food consumption) was observed at 45 mg/kg/day [about 12 times the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis].
 In rats, maternally toxic (reduction in body weight gain and food consumption) telmisartan doses of 15 mg/kg/day (about 1.9 times the MRHD on a mg/m2 basis), administered during late gestation and lactation, were observed to produce adverse effects in neonates, including reduced viability, low birth weight, delayed maturation, and decreased weight gain.
-The no observed effect doses for developmental toxicity in rats and rabbits, 5 and 15 mg/kg/day, respectively, are about 0.64 and 3.7 times, on a mg/m2 basis, the maximum recommended human dose of telmisartan (80 mg/day).
+The no-observed-effect doses for developmental toxicity in rats and rabbits, 5 and 15 mg/kg/day, respectively, are about 0.64 and 3.7 times, on a mg/m2 basis, the maximum recommended human dose of telmisartan (80 mg/day).
 
 ## 8.2 Lactation
 

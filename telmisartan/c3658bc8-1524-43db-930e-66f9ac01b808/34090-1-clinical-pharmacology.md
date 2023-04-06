@@ -35,8 +35,8 @@ In 30 hypertensive patients with normal renal function treated for 8 weeks with 
 Following oral administration, peak concentrations (Cmax) of telmisartan are reached in 0.5 to 1 hour after dosing.
 Food slightly reduces the bioavailability of telmisartan, with a reduction in the area under the plasma concentration-time curve (AUC) of about 6% with the 40 mg tablet and about 20% after a 160 mg dose.
 The absolute bioavailability of telmisartan is dose dependent.
-At 40 and 160 mg the bioavailability was 42% and 58%, respectively.
-The pharmacokinetics of orally administered telmisartan are nonlinear over the dose range 20 to 160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
+At 40 mg and 160 mg, the bioavailability was 42% and 58%, respectively.
+The pharmacokinetics of orally administered telmisartan are nonlinear over the dose range 20 mg to 160 mg, with greater than proportional increases of plasma concentrations (Cmax and AUC) with increasing doses.
 Telmisartan shows bi-exponential decay kinetics with a terminal elimination half-life of approximately 24 hours.
 Trough plasma concentrations of telmisartan with once daily dosing are about 10% to 25% of peak plasma concentrations.
 Telmisartan has an accumulation index in plasma of 1.5 to 2.0 upon repeated once daily dosing.
@@ -63,7 +63,7 @@ Terminal half-life and total clearance appear to be independent of dose.
 #### Renal Insufficiency
 
 No dosage adjustment is necessary in patients with decreased renal function.
-Telmisartan is not removed from blood by hemofiltration [see Warnings and Precautions (5.5) and Dosage and Administration (2.1)].
+Telmisartan is not removed from blood by hemofiltration and is not dialyzable [see Warnings and Precautions (5.5) and Dosage and Administration (2.1)].
 
 #### Hepatic Insufficiency
 

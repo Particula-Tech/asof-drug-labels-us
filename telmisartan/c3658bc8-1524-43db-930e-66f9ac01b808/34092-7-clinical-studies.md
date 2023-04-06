@@ -65,7 +65,7 @@ Table 3: Incidence of the Primary and Secondary Outcomes from ONTARGET
 
 |  | Telmisartan vs. Ramipril (n = 8542) (n = 8576) |  |
 | --- | --- | --- |
-| No. of Events Telmisartan / Ramipril | Hazard Ratio 95% CI |  |
+| No. of Events Telmisartan / Ramipril | Hazard Ratio 97.5% CI |  |
 | Composite of CV death, myocardial infarction, stroke, or hospitalization for heart failure | 1423 (16.7%) / 1412 (16.5%) | 1.01 (0.93 – 1.10) |
 | Composite of CV death, myocardial infarction, or stroke | 1190 (13.9%) / 1210 (14.1%) | 0.99 (0.90 – 1.08) |
 

@@ -96,8 +96,33 @@ The only serious adverse events at least 1% more common on telmisartan than plac
 
 The following adverse reactions have been identified during post-approval use of telmisartan tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
-Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to telmisartan tablets.
 
-The most frequent spontaneously reported events include: headache, dizziness, asthenia, coughing, nausea, fatigue, weakness, edema, face edema, lower limb edema, angioneurotic edema, urticaria, hypersensitivity, sweating increased, erythema, chest pain, atrial fibrillation, congestive heart failure, myocardial infarction, blood pressure increased, hypertension aggravated, hypotension (including postural hypotension), hyperkalemia, syncope, dyspepsia, diarrhea, pain, urinary tract infection, erectile dysfunction, back pain, abdominal pain, muscle cramps (including leg cramps), myalgia, bradycardia, eosinophilia, thrombocytopenia, uric acid increased, abnormal hepatic function/liver disorder, renal impairment including acute renal failure, anemia, increased CPK, anaphylactic reaction, tendon pain (including tendonitis, tenosynovitis), drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria), hypoglycemia (in diabetic patients), and angioedema (with fatal outcome).
+Blood and Lymphatic System Disorders: Anemia, eosinophilia, thrombocytopenia
+
+Gastrointestinal Disorders: Abdominal pain, diarrhea, dyspepsia, nausea
+
+General Disorders and Administration Site Conditions: Asthenia, chest pain, edema, face edema, fatigue, lower limb edema, pain, weakness
+
+Hepato-biliary: Abnormal hepatic function/liver disorder
+
+Immune System Disorders: Anaphylactic reaction, hypersensitivity
+
+Investigations: Increased CPK, uric acid increased
+
+Metabolism and Nutrition Disorders: Hyperkalemia, hypoglycemia (in diabetic patients), hyponatremia
+
+Musculoskeletal and Connective Tissue Disorders: Myalgia
+
+Nervous System Disorders: Dizziness, headache, syncope
+
+Renal and Urinary Disorders: Renal impairment including acute renal failure
+
+Reproductive System and Breast Disorders: Erectile dysfunction
+
+Respiratory, Thoracic and Mediastinal Disorders: Coughing
+
+Skin and Subcutaneous Tissue Disorders: Angioedema (with fatal outcome), angioneurotic edema, drug eruption (toxic skin eruption mostly reported as toxicoderma, rash, and urticaria), erythema, sweating increased, urticaria
+
+Vascular Disorder: Hypotension (including postural hypotension)
 
 Rare cases of rhabdomyolysis have been reported in patients receiving angiotensin II receptor blockers, including telmisartan tablets.
