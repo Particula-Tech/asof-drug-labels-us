@@ -10,6 +10,7 @@ Depakote tablets (divalproex sodium delayed-release tablets) are supplied as:
 250 mg peach-colored tablets:
 
 - Bottles of 100, tablets with the “a” logo and the code NR – NDC 0074-6214-13
+- Bottles of 100, tablets with the code NR – NDC 0074-7326-13
 
 500 mg lavender-colored tablets:
 
