@@ -2,12 +2,12 @@
 
 DIPRIVAN (propofol) Injectable Emulsion, USP Vials
 
-| Product No. | NDC No. | Strength |  |
+| Product Code | Each | Unit of Sale | Strength |
 | --- | --- | --- | --- |
-| 260910 | 63323-269-10 | 100 mg per 10 mL (10 mg per mL) | 10 mL ready-to-use single-patient infusion vial in packages of ten. |
-| 260929 | 63323-269-29 | 200 mg per 20 mL (10 mg per mL) | 20 mL ready-to-use single-patient infusion vial in packages of ten. |
-| 260950 | 63323-269-50 | 500 mg per 50 mL (10 mg per mL) | 50 mL ready-to-use single-patient infusion vial in packages of twenty. |
-| 260965 | 63323-269-65 | 1,000 mg per 100 mL (10 mg per mL) | 100 mL ready-to-use single-patient infusion vial in packages of ten. |
+| RF260929 | NDC 65219-800-01 20 mL ready-to-use single-dose vial for single patient use only. | NDC 65219-800-10 Packages of ten. This product contains an RFID. | 200 mg per 20 mL (10 mg per mL) |
+| 260929 | NDC 63323-269-22 20 mL ready-to-use single-dose vial for single patient use only. | NDC 63323-269-29 Packages of ten. | 200 mg per 20 mL (10 mg per mL) |
+| 260950 | NDC 63323-269-30 50 mL ready-to-use single-dose vial for single patient use only. | NDC 63323-269-50 Packages of twenty. | 500 mg per 50 mL (10 mg per mL) |
+| 260965 | NDC 63323-269-35 100 mL ready-to- use single-dose vial for single patient use only. | NDC 63323-269-65 Packages of ten. | 1,000 mg per 100 mL (10 mg per mL) |
 
 Propofol undergoes oxidative degradation, in the presence of oxygen, and is therefore packaged under nitrogen to eliminate this degradation path.
 
