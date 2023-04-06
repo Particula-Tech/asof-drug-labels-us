@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214047"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "52652-1950-1",
+    "52652-1950-2"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levothyroxine sodium",
+      "name": "THYQUIDITY"
+    }
+  ],
+  "setid": "c17ec992-a122-4cd9-8469-d91255c32440",
+  "source": "dailymed"
+}
