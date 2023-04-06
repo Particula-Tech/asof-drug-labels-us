@@ -64,19 +64,25 @@ For Intravenous Use Only
 
 10 Vials Rx only
 
-PACKAGE LABEL - PRINCIPAL DISPLAY – Milrinone Lactate 50 mL Single Dose Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY – Milrinone Lactate 50 mL Single Dose
+
+Vial Label
 
 NDC 63323-617-50 601750
 
-Milrinone Lactate Injection
+MILRINONE
+
+LACTATE
+
+INJECTION
 
 50 mg per 50 mL
 
-(1 mg per mL)
+(1 mg per mL)*
 
 For Intravenous Use Only
 
-Rx only
+Rx Only
 
 50 mL Single Dose Vial
 
@@ -84,11 +90,15 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Milrinone Lactate 50 mL Single Dose Vial Car
 
 NDC 63323-617-50 601750
 
-Milrinone Lactate Injection
+MILRINONE
+
+LACTATE
+
+INJECTION
 
 50 mg per 50 mL
 
-(1 mg per mL)
+(1 mg per mL)*
 
 For Intravenous Use Only
 
