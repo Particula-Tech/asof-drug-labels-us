@@ -10,8 +10,6 @@ Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] and
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of ANI Pharmaceuticals, Inc.
 
-Manufactured by: ANI Pharmaceuticals Canada, Inc. Oakville, ON L6H 1M5 Canada
-
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-N6720A Rev 06/21
+10623 Rev 12/22
