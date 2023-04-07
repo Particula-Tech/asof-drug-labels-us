@@ -5,16 +5,16 @@
 Rare but serious complications including nerve damage and migration resulting in embolism and death may result from improper insertion of drug implants inserted in the upper arm.
 Additional complications may include local migration, protrusion, and expulsion.
 
-Insert PROBUPHINE in accordance with the instructions [see Indications and Usage (1), Dosage and Administration (2.2, 2.6)].
+Insert PROBUPHINE in accordance with the instructions [see Indications and Usage (1), Dosage and Administration (2.1, 2.5)].
 It is essential to insert PROBUPHINE subdermally so that each implant is palpable after insertion.
 It is also essential to confirm proper placement by palpation immediately after insertion.
 If PROBUPHINE is inserted too deeply (intramuscular or in the fascia), neural or vascular injury may occur.
 
-Incomplete insertions or infections may lead to protrusion or expulsion [see Dosage and Administration (2.8)].
+Incomplete insertions or infections may lead to protrusion or expulsion [see Dosage and Administration (2.7)].
 Accidental exposures to PROBUPHINE can result from protrusion or expulsion of the implants [see Warnings and Precautions (5.8)].
 
 Improper insertion may lead to complicated removal if the implant is inserted too deeply, is not palpable, or has migrated.
-Deep insertions may lead to difficulty localizing the implant; additional surgical procedures may be required in order to remove the implant [see Dosage and Administration (2.6, 2.7)].
+Deep insertions may lead to difficulty localizing the implant; additional surgical procedures may be required in order to remove the implant [see Dosage and Administration (2.5, 2.6)].
 Injury to deeper neural or vascular structures in the arm may occur when removing deeply inserted implants.
 
 All Healthcare Providers must successfully complete a live training program on the insertion and removal procedures and become certified in the PROBUPHINE REMS program, prior to performing insertions or prescribing PROBUPHINE implants.
@@ -30,7 +30,7 @@ Notable requirements of the PROBUPHINE REMS Program include the following:
 
 - Healthcare Providers who prescribe PROBUPHINE must be certified with the program by enrolling and completing live training
 - Healthcare Providers who insert PROBUPHINE must
-  - meet the prerequisite requirements [see Dosage and Administration (2.1) and Warnings and Precautions (5.1)]
+  - meet the prerequisite requirements [see Warnings and Precautions (5.1)]
   - be certified with the program by enrolling and completing live training, including demonstrating competency in PROBUPHINE procedures
 - Patients must be monitored to ensure that PROBUPHINE is removed by a Healthcare Provider certified to insert PROBUPHINE implants
 - PROBUPHINE will only be distributed to certified prescribers through a restricted distribution program
@@ -64,7 +64,7 @@ Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with PROBUPHINE.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine, such as due to an accidental exposure of a household contact to a PROBUPHINE implant that is protruding or has been expelled.
 Inform patients to call a Healthcare Provider immediately and follow protrusion or/and expulsion guidelines.
@@ -130,7 +130,7 @@ Instruct patients to keep the expelled implant(s) away from others, especially c
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is milder than that seen with full agonists, and may be delayed in onset [see Drug Abuse and Dependence (9.2, 9.3)].
-If PROBUPHINE implants are not to be immediately replaced upon removal, maintain patients on their previous dosage of sublingual buprenorphine until PROBUPHINE treatment is resumed [see Dosage and Administration (2.2)].
+If PROBUPHINE implants are not to be immediately replaced upon removal, maintain patients on their previous dosage of sublingual buprenorphine until PROBUPHINE treatment is resumed [see Dosage and Administration (2.1)].
 Patients who elect to discontinue PROBUPHINE treatment should be monitored for withdrawal with consideration given to use of a tapering dose of transmucosal buprenorphine.
 
 ## 5.10. Risk of Hepatitis, Hepatic Events

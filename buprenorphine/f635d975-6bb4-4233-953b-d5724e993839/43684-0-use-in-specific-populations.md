@@ -144,7 +144,7 @@ The effect of hepatic impairment on the pharmacokinetics of implanted buprenorph
 Since the drug is extensively metabolized, the plasma levels can be expected to be higher in patients with moderate and severe hepatic impairment.
 Because PROBUPHINE cannot be titrated, patients with pre-existing moderate to severe hepatic impairment are not candidates for treatment with PROBUPHINE.
 Monitor patients who develop moderate or severe hepatic impairment while being treated with PROBUPHINE for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine.
-If signs and symptoms of toxicity or overdose are observed, removal of PROBUPHINE implants may be required [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+If signs and symptoms of toxicity or overdose are observed, removal of PROBUPHINE implants may be required [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.7. Renal Impairment
 

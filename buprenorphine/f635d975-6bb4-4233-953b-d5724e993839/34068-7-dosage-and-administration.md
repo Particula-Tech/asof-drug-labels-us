@@ -1,11 +1,6 @@
 # 2. DOSAGE AND ADMINISTRATION
 
-## 2.1. Drug Addiction Treatment Act
-
-Under the Drug Addiction Treatment Act (DATA) codified at 21 United States Code (U.S.C.)
-823(g), use of this product in the treatment of opioid dependence is limited to Healthcare Providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe or dispense this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
-
-## 2.2. Important Dosage and Administration Information
+## 2.1. Important Dosage and Administration Information
 
 PROBUPHINE implants should be used only in patients who are opioid tolerant.
 
@@ -19,9 +14,9 @@ If new implants are not inserted on the same day as the removal of implants, mai
 
 After one insertion in each arm, most patients should be transitioned back to a transmucosal buprenorphine-containing product for continued treatment.
 There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously used arm.
-Neither re-insertion into previously used administration sites, nor into sites other than the upper arm, has been studied [see Dosage and Administration (2.4, 2.5, and 2.9), Warnings and Precautions (5.1)].
+Neither re-insertion into previously used administration sites, nor into sites other than the upper arm, has been studied [see Dosage and Administration (2.3, 2.4, and 2.8), Warnings and Precautions (5.1)].
 
-## 2.3. Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2. Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with PROBUPHINE.
@@ -34,7 +29,7 @@ Higher than normal doses and repeated administration of naloxone may be necessar
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
-## 2.4. Healthcare Provider Training
+## 2.3. Healthcare Provider Training
 
 All Healthcare Providers who intend to prescribe PROBUPHINE must successfully complete a live training program [see Warnings and Precautions (5.2)].
 
@@ -45,7 +40,7 @@ The basis for successful use and subsequent removal of PROBUPHINE is a correct a
 As a prerequisite for participating in the live training program leading to certification, the Healthcare Provider must have performed at least one qualifying surgical procedure in the last 3 months.
 Qualifying procedures are those performed under local anesthesia using aseptic technique, and include, at a minimum, making skin incisions, or placing sutures [see Warnings and Precautions (5.2)].
 
-## 2.5. Patient Selection
+## 2.4. Patient Selection
 
 PROBUPHINE implants are only for use in patients who meet ALL of the following criteria:
 
@@ -72,7 +67,7 @@ Consider the following factors in determining clinical stability and suitability
 - period without episodes of hospitalizations (addiction or mental health issues), emergency room visits, or crisis interventions
 - social support system
 
-## 2.6. Clinical Supervision
+## 2.5. Clinical Supervision
 
 Examine the insertion site one week following insertion of PROBUPHINE for signs of infection or any problems with wound healing, including evidence of implant extrusion from the skin.
 
@@ -83,7 +78,7 @@ Instead, patients who feel the need for supplemental dosing should be seen and e
 Ongoing use of supplemental dosing with transmucosal buprenorphine indicates that the amount of buprenorphine delivered by PROBUPHINE is not adequate for stable maintenance.
 Consider use of alternate buprenorphine products for maintenance of treatment.
 
-## 2.7. Insertion of PROBUPHINE
+## 2.6. Insertion of PROBUPHINE
 
 Preparation
 
@@ -265,7 +260,7 @@ Instruct the patient to apply an ice pack on his/her arm for 40 minutes every tw
 Step 28.
 Complete the PROBUPHINE REMS Insertion/Removal Log Form.
 
-## 2.8. PROBUPHINE Removal Procedure
+## 2.7. PROBUPHINE Removal Procedure
 
 Before initiating the removal procedure, read the instructions for removal.
 
@@ -417,7 +412,7 @@ If implant(s) or implant fragment(s) are not removed during a removal attempt, t
 The subsequent removal attempt should be performed on the same day of localization.
 If localization and a second removal attempt are not performed on the same day as the initial removal attempt that necessitated imaging for localization, the wound should be closed with sutures in the interim.
 
-## 2.9. Spontaneous Expulsion
+## 2.8. Spontaneous Expulsion
 
 If spontaneous expulsion of the implant occurs after insertion, the following steps should be taken:
 
@@ -436,12 +431,12 @@ If spontaneous expulsion of the implant occurs after insertion, the following st
   Alternatively, replacement implant(s) may be inserted in the contralateral arm.
 - Record the new serial number on the PROBUPHINE REMS Insertion/Removal Log Form.
 
-## 2.10. Continuation of Therapy: Subsequent Insertion of PROBUPHINE in the Contralateral Arm
+## 2.9. Continuation of Therapy: Subsequent Insertion of PROBUPHINE in the Contralateral Arm
 
 There is no clinical experience with insertion of PROBUPHINE beyond a single insertion in each arm.
 If continued treatment is desired at the end of the first six-month treatment cycle, PROBUPHINE implants may be replaced by new implants at the time of removal in the contralateral arm, following the insertion steps above to locate the appropriate insertion site.
 
-If new implants are not inserted on the same day as the removal, patients should be maintained on their previous dose of transmucosal buprenorphine (i.e., the dose from which they were transferred to PROBUPHINE treatment) prior to additional PROBUPHINE treatment [see Dosage and Administration (2.6), Warnings and Precautions (5.1)].
+If new implants are not inserted on the same day as the removal, patients should be maintained on their previous dose of transmucosal buprenorphine (i.e., the dose from which they were transferred to PROBUPHINE treatment) prior to additional PROBUPHINE treatment [see Dosage and Administration (2.5), Warnings and Precautions (5.1)].
 
 There is no experience with inserting additional implants into other sites in the arm to recommend an approach to a second insertion into a previously used arm.
 Neither re-insertion into previously used administration sites, nor into sites other than the upper arm, have been studied.
