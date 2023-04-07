@@ -10,7 +10,7 @@ The following clinically significant adverse reactions are described elsewhere i
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 The data described in the WARNINGS AND PRECAUTIONS reflect exposure to KEYTRUDA as a single agent in 2799 patients in three randomized, open-label, active-controlled trials (KEYNOTE-002, KEYNOTE-006, and KEYNOTE-010), which enrolled 912 patients with melanoma and 682 patients with NSCLC, and one single-arm trial (KEYNOTE-001), which enrolled 655 patients with melanoma and 550 patients with NSCLC.
-In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in a randomized, placebo-controlled trial (KEYNOTE-091), which enrolled 580 patients with resected NSCLC, a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), a non-randomized, open-label, single-cohort trial (KEYNOTE-055), and two randomized, open-label, active-controlled trials (KEYNOTE-040 and KEYNOTE-048 single agent arms), which enrolled 909 patients with HNSCC; in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087) and one randomized, open-label, active-controlled trial (KEYNOTE-204), which enrolled 389 patients with cHL; in a randomized, open-label, active-controlled trial (KEYNOTE-048 combination arm), which enrolled 276 patients with HNSCC; in combination with axitinib in a randomized, active-controlled trial (KEYNOTE 426), which enrolled 429 patients with RCC; and in post-marketing use.
+In addition to the 2799 patients, certain subsections in the WARNINGS AND PRECAUTIONS describe adverse reactions observed with exposure to KEYTRUDA as a single agent in a randomized, placebo-controlled trial (KEYNOTE-091), which enrolled 580 patients with resected NSCLC, a non-randomized, open-label, multi-cohort trial (KEYNOTE-012), a non-randomized, open-label, single-cohort trial (KEYNOTE-055), and two randomized, open-label, active-controlled trials (KEYNOTE-040 and KEYNOTE-048 single agent arms), which enrolled 909 patients with HNSCC; in two non-randomized, open-label trials (KEYNOTE-013 and KEYNOTE-087) and one randomized, open-label, active-controlled trial (KEYNOTE-204), which enrolled 389 patients with cHL; in a randomized, open-label, active-controlled trial (KEYNOTE-048 combination arm), which enrolled 276 patients with HNSCC; in combination with axitinib in a randomized, active-controlled trial (KEYNOTE-426), which enrolled 429 patients with RCC; and in post-marketing use.
 Across all trials, KEYTRUDA was administered at doses of 2 mg/kg intravenously every 3 weeks, 10 mg/kg intravenously every 2 weeks, 10 mg/kg intravenously every 3 weeks, or 200 mg intravenously every 3 weeks.
 Among the 2799 patients, 41% were exposed for 6 months or more and 21% were exposed for 12 months or more.
 
@@ -136,18 +136,18 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUD
 
 Adjuvant Treatment of Resected Stage IIB or IIC Melanoma
 
-Among the 969 patients with stage IIB or IIC melanoma enrolled in KEYNOTE-716 [see Clinical Studies (14.1)] treated with KEYTRUDA, the median duration of exposure to KEYTRUDA was 9.9 months (range: 0 to 15.4 months).
+Among the 969 patients with Stage IIB or IIC melanoma enrolled in KEYNOTE-716 [see Clinical Studies (14.1)] treated with KEYTRUDA, the median duration of exposure to KEYTRUDA was 9.9 months (range: 0 to 15.4 months).
 Patients with autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible.
-Adverse reactions occurring in patients with stage IIB or IIC melanoma were similar to those occurring in 1011 patients with stage III melanoma from KEYNOTE-054 or the 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
+Adverse reactions occurring in patients with Stage IIB or IIC melanoma were similar to those occurring in 1011 patients with Stage III melanoma from KEYNOTE-054 or the 2799 patients with melanoma or NSCLC treated with KEYTRUDA as a single agent.
 
 Adjuvant Treatment of Stage III Resected Melanoma
 
-The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-054, a randomized (1:1) double-blind trial in which 1019 patients with completely resected stage IIIA (>1 mm lymph node metastasis), IIIB or IIIC melanoma received 200 mg of KEYTRUDA by intravenous infusion every 3 weeks (n=509) or placebo (n=502) for up to one year [see Clinical Studies (14.1)].
+The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-054, a randomized (1:1) double-blind trial in which 1019 patients with completely resected Stage IIIA (>1 mm lymph node metastasis), IIIB or IIIC melanoma received 200 mg of KEYTRUDA by intravenous infusion every 3 weeks (n=509) or placebo (n=502) for up to one year [see Clinical Studies (14.1)].
 Patients with active autoimmune disease or a medical condition that required immunosuppression or mucosal or ocular melanoma were ineligible.
 Seventy-six percent of patients received KEYTRUDA for 6 months or longer.
 
 The study population characteristics were: median age of 54 years (range: 19 to 88), 25% age 65 or older; 62% male; and 94% ECOG PS of 0 and 6% ECOG PS of 1.
-Sixteen percent had stage IIIA, 46% had stage IIIB, 18% had stage IIIC (1-3 positive lymph nodes), and 20% had stage IIIC (≥4 positive lymph nodes).
+Sixteen percent had Stage IIIA, 46% had Stage IIIB, 18% had Stage IIIC (1-3 positive lymph nodes), and 20% had Stage IIIC (≥4 positive lymph nodes).
 
 Two patients treated with KEYTRUDA died from causes other than disease progression; causes of death were drug reaction with eosinophilia and systemic symptoms and autoimmune myositis with respiratory failure.
 Serious adverse reactions occurred in 25% of patients receiving KEYTRUDA.
@@ -274,7 +274,7 @@ The adverse reactions observed in KEYNOTE-407 were similar to those observed in 
 
 Previously Untreated NSCLC
 
-The safety of KEYTRUDA was investigated in KEYNOTE-042, a multicenter, open-label, randomized (1:1), active-controlled trial in 1251 patients with PD-L1 expressing, previously untreated stage III NSCLC who were not candidates for surgical resection or definitive chemoradiation or metastatic NSCLC [see Clinical Studies (14.2)].
+The safety of KEYTRUDA was investigated in KEYNOTE-042, a multicenter, open-label, randomized (1:1), active-controlled trial in 1251 patients with PD-L1 expressing, previously untreated Stage III NSCLC who were not candidates for surgical resection or definitive chemoradiation or metastatic NSCLC [see Clinical Studies (14.2)].
 Patients received KEYTRUDA 200 mg every 3 weeks (n=636) or investigator's choice of chemotherapy (n=615), consisting of pemetrexed and carboplatin followed by optional pemetrexed (n=312) or paclitaxel and carboplatin followed by optional pemetrexed (n=303) every 3 weeks.
 Patients with EGFR or ALK genomic tumor aberrations; autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
 
@@ -283,7 +283,7 @@ Forty-eight percent of patients in the KEYTRUDA arm were exposed to KEYTRUDA 200
 
 The study population characteristics were: median age of 63 years (range: 25 to 90), 45% age 65 or older; 71% male; and 64% White, 30% Asian, and 2% Black.
 Nineteen percent were Hispanic or Latino.
-Eighty-seven percent had metastatic disease (stage IV), 13% had stage III disease (2% stage IIIA and 11% stage IIIB), and 5% had treated brain metastases at baseline.
+Eighty-seven percent had metastatic disease (Stage IV), 13% had Stage III disease (2% Stage IIIA and 11% Stage IIIB), and 5% had treated brain metastases at baseline.
 
 KEYTRUDA was discontinued for adverse reactions in 19% of patients.
 The most common adverse reactions resulting in permanent discontinuation of KEYTRUDA were pneumonitis (3.0%), death due to unknown cause (1.6%), and pneumonia (1.4%).
@@ -395,9 +395,9 @@ Other laboratory abnormalities occurring in ≥20% of patients receiving KEYTRUD
 
 Adjuvant Treatment of Resected NSCLC
 
-The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-091, a multicenter, randomized (1:1), triple-blind, placebo-controlled trial in patients with completely resected stage IB (T2a ≥4 cm), II, or IIIA NSCLC; adjuvant chemotherapy up to 4 cycles was optional [see Clinical Studies (14.2)].
+The safety of KEYTRUDA as a single agent was investigated in KEYNOTE-091, a multicenter, randomized (1:1), triple-blind, placebo-controlled trial in patients with completely resected Stage IB (T2a ≥4 cm), II, or IIIA NSCLC; adjuvant chemotherapy up to 4 cycles was optional [see Clinical Studies (14.2)].
 A total of 1161 patients received KEYTRUDA 200 mg (n=580) or placebo (n=581) every 3 weeks.
-Patients were ineligible if they had active autoimmune disease, were on chronic immunosuppressive agents or had a history of interstitial lung disease or pneumonitis.
+Patients were ineligible if they had active autoimmune disease, were on chronic immunosuppressive agents, or had a history of interstitial lung disease or pneumonitis.
 
 The median duration of exposure to KEYTRUDA was 11.7 months (range: 1 day to 18.9 months).
 Sixty-eight percent of patients in the KEYTRUDA arm were exposed to KEYTRUDA for ≥6 months.
@@ -884,6 +884,12 @@ Table 28: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of
 | Hematology |  |  |
 | Anemia | 35 | 1.4 |
 | Lymphopenia | 29 | 1.6 |
+
+Microsatellite Instability-High or Mismatch Repair Deficient Cancer
+
+The safety of KEYTRUDA was investigated in 504 patients with MSI-H or dMMR cancer enrolled in KEYNOTE-158, KEYNOTE-164, and KEYNOTE-051 [see Clinical Studies (14.7)].
+The median duration of exposure to KEYTRUDA was 6.2 months (range: 1 day to 53.5 months).
+Adverse reactions occurring in patients with MSI-H or dMMR cancer were similar to those occurring in patients with other solid tumors who received KEYTRUDA as a single agent.
 
 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 

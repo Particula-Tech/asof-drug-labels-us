@@ -2,11 +2,15 @@
 
 ## 2.1 Patient Selection
 
+Information on FDA-approved tests for patient selection is available at:
+
+http://www.fda.gov/CompanionDiagnostics.
+
 Patient Selection for Single-Agent Treatment
 
 Select patients for treatment with KEYTRUDA as a single agent based on the presence of positive PD-L1 expression in:
 
-- stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.2)].
+- Stage III NSCLC who are not candidates for surgical resection or definitive chemoradiation [see Clinical Studies (14.2)].
 - metastatic NSCLC [see Clinical Studies (14.2)].
 - first-line treatment of metastatic or unresectable, recurrent HNSCC [see Clinical Studies (14.3)].
 - previously treated recurrent locally advanced or metastatic esophageal cancer [see Clinical Studies (14.10)].
@@ -16,7 +20,12 @@ For the MSI-H/dMMR indications, select patients for treatment with KEYTRUDA as a
 
 For the TMB-H indication, select patients for treatment with KEYTRUDA as a single agent based on TMB-H status in tumor specimens [see Clinical Studies (14.16)].
 
-Because the effect of prior chemotherapy on test results for tumor mutation burden (TMB-H), MSI-H, or dMMR in patients with high-grade gliomas is unclear, it is recommended to test for these markers in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
+Because subclonal dMMR mutations and microsatellite instability may arise in high-grade gliomas during temozolomide therapy, it is recommended to test for TMB-H, MSI-H, and dMMR in the primary tumor specimens obtained prior to initiation of temozolomide chemotherapy in patients with high-grade gliomas.
+
+Additional Patient Selection Information for MSI-H or dMMR in Patients with non-CRC Solid Tumors
+
+Due to discordance between local tests and FDA-approved tests, confirmation of MSI-H or dMMR status is recommended by an FDA-approved test in patients with MSI-H or dMMR solid tumors, if feasible.
+If unable to perform confirmatory MSI-H/dMMR testing, the presence of TMB ≥10 mut/Mb, as determined by an FDA-approved test, may be used to select patients for treatment [see Clinical Studies (14.7)].
 
 Patient Selection for Combination Therapy
 
@@ -28,9 +37,7 @@ For use of KEYTRUDA in combination with chemotherapy, select patients based on t
 
 Additional Patient Selection Information
 
-Information on FDA-approved tests for patient selection is available at: http://www.fda.gov/CompanionDiagnostics.
-
-- An FDA-approved test for the detection of not MSI-H is not currently available [see Clinical Studies (14.15)].
+- An FDA-approved test for the detection of not MSI-H is currently unavailable for the selection of patients with not MSI-H endometrial carcinoma for treatment with KEYTRUDA in combination with lenvatinib [see Clinical Studies (14.15)].
 
 ## 2.2 Recommended Dosage
 
@@ -51,7 +58,7 @@ Table 1: Recommended Dosage
 | Adult patients with Cervical Cancer | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy with or without bevacizumab when given on the same day. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with RCC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with axitinib 5 mg orally twice dailyWhen axitinib is used in combination with KEYTRUDA, dose escalation of axitinib above the initial 5 mg dose may be considered at intervals of six weeks or longer. or Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
 | Adult patients with Endometrial Carcinoma | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA in combination with lenvatinib 20 mg orally once daily. | Until disease progression, unacceptable toxicity, or for KEYTRUDA, up to 24 months |
-| Adult patients with high-risk early-stage TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Neoadjuvant treatment in combination with chemotherapy for 24 weeks (8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks) or until disease progression or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as a single agent for up to 27 weeks (9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks) or until disease recurrence or unacceptable toxicity.Patients who experience disease progression or unacceptable toxicity related to KEYTRUDA with neoadjuvant treatment in combination with chemotherapy should not receive adjuvant single agent KEYTRUDA. |
+| Adult patients with high-risk early-stage TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Neoadjuvant treatment in combination with chemotherapy for 24 weeks (8 doses of 200 mg every 3 weeks or 4 doses of 400 mg every 6 weeks) or until disease progression or unacceptable toxicity, followed by adjuvant treatment with KEYTRUDA as a single agent for up to 27 weeks (9 doses of 200 mg every 3 weeks or 5 doses of 400 mg every 6 weeks) or until disease recurrence or unacceptable toxicityPatients who experience disease progression or unacceptable toxicity related to KEYTRUDA with neoadjuvant treatment in combination with chemotherapy should not receive adjuvant single agent KEYTRUDA. |
 | Adult patients with locally recurrent unresectable or metastatic TNBC | 200 mg every 3 weeks or 400 mg every 6 weeks Administer KEYTRUDA prior to chemotherapy when given on the same day. | Until disease progression, unacceptable toxicity, or up to 24 months |
 
 ## 2.3 Dose Modifications

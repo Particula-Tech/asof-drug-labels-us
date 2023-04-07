@@ -14,7 +14,7 @@ KEYTRUDA, in combination with carboplatin and either paclitaxel or paclitaxel pr
 
 KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with NSCLC expressing PD-L1 [Tumor Proportion Score (TPS) ≥1%] as determined by an FDA-approved test [see Dosage and Administration (2.1)], with no EGFR or ALK genomic tumor aberrations, and is:
 
-- stage III where patients are not candidates for surgical resection or definitive chemoradiation, or
+- Stage III where patients are not candidates for surgical resection or definitive chemoradiation, or
 - metastatic.
 
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with metastatic NSCLC whose tumors express PD-L1 (TPS ≥1%) as determined by an FDA-approved test [see Dosage and Administration (2.1)], with disease progression on or after platinum-containing chemotherapy.
@@ -54,11 +54,6 @@ KEYTRUDA is indicated for the treatment of patients with Bacillus Calmette-Gueri
 ## 1.7 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
 
 KEYTRUDA is indicated for the treatment of adult and pediatric patients with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) solid tumors, as determined by an FDA-approved test, that have progressed following prior treatment and who have no satisfactory alternative treatment options [see Dosage and Administration (2.1)].
-
-This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies (14.7)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
-
-Limitations of Use: The safety and effectiveness of KEYTRUDA in pediatric patients with MSI-H central nervous system cancers have not been established.
 
 ## 1.8 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 

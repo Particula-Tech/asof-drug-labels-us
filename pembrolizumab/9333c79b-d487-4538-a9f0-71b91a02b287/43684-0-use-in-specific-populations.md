@@ -47,10 +47,10 @@ Advise females of reproductive potential to use effective contraception during t
 The safety and effectiveness of KEYTRUDA as a single agent have been established in pediatric patients with melanoma, cHL, PMBCL, MCC, MSI-H or dMMR cancer, and TMB-H cancer.
 Use of KEYTRUDA in pediatric patients for these indications is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic and safety data in pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4, 14.5, 14.7, 14.13, 14.16)].
 
-In KEYNOTE-051, 161 pediatric patients (62 pediatric patients aged 6 months to younger than 12 years and 99 pediatric patients aged 12 to 17 years) with advanced melanoma, lymphoma, or PD-L1 positive solid tumors received KEYTRUDA 2 mg/kg every 3 weeks.
-The median duration of exposure was 2.1 months (range: 1 day to 24 months).
-Adverse reactions that occurred at a ≥10% higher rate in pediatric patients when compared to adults included pyrexia (33%), vomiting (30%), upper respiratory tract infection (29%), and headache (25%).
-Laboratory abnormalities that occurred at a ≥10% higher rate in pediatric patients when compared to adults were leukopenia (30%), neutropenia (26%), and Grade 3 anemia (17%).
+In KEYNOTE-051, 173 pediatric patients (65 pediatric patients aged 6 months to younger than 12 years and 108 pediatric patients aged 12 to 17 years) with advanced melanoma, lymphoma, or PD-L1 positive solid tumors received KEYTRUDA 2 mg/kg every 3 weeks.
+The median duration of exposure was 2.1 months (range: 1 day to 25 months).
+Adverse reactions that occurred at a ≥10% higher rate in pediatric patients when compared to adults included pyrexia (33%), vomiting (29%), headache (25%), abdominal pain (23%), decreased lymphocyte count (13%), and decreased white blood cell count (11%).
+Laboratory abnormalities that occurred at a ≥10% higher rate in pediatric patients when compared to adults were leukopenia (31%), neutropenia (28%), thrombocytopenia (22%), and anemia (17%).
 
 The safety and effectiveness of KEYTRUDA in pediatric patients have not been established in the other approved indications [see Indications and Usage (1)].
 
@@ -63,7 +63,7 @@ Of 389 adult patients with cHL who were treated with KEYTRUDA in clinical studie
 Patients aged 65 years and over had a higher incidence of serious adverse reactions (50%) than patients aged younger than 65 years (24%).
 Clinical studies of KEYTRUDA in cHL did not include sufficient numbers of patients aged 65 years and over to determine whether effectiveness differs from that in younger patients.
 
-Of 506 adult patients with stage IB (T2a ≥4 cm), II, or IIIA NSCLC following complete resection and platinum-based chemotherapy who were treated with KEYTRUDA in KEYNOTE-091, 242 (48%) were 65 years and over.
+Of 506 adult patients with Stage IB (T2a ≥4 cm), II, or IIIA NSCLC following complete resection and platinum-based chemotherapy who were treated with KEYTRUDA in KEYNOTE-091, 242 (48%) were 65 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.
 
 Of 596 adult patients with TNBC who were treated with KEYTRUDA in combination with paclitaxel, paclitaxel protein-bound, or gemcitabine and carboplatin in KEYNOTE-355, 137 (23%) were 65 years and over.
