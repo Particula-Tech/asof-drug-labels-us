@@ -10,9 +10,21 @@
     "0641-6188-01",
     "0641-6188-10",
     "0641-6189-01",
-    "0641-6189-10"
+    "0641-6189-10",
+    "0641-6245-10",
+    "0641-6246-10"
   ],
   "products": [
+    {
+      "form": "INJECTABLE, LIPOSOMAL",
+      "generic": "phenylephrine hydrochloride",
+      "name": "IMMPHENTIV"
+    },
+    {
+      "form": "INJECTION",
+      "generic": "phenylephrine hydrochloride",
+      "name": "IMMPHENTIV"
+    },
     {
       "form": "INJECTION",
       "generic": "phenylephrine hydrochloride",

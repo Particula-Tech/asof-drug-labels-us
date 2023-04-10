@@ -9,3 +9,13 @@ Common, less serious symptoms include the following:
 - headache, nervousness, tremor, numbness/tingling (paresthesias) in hands or feet
 - nausea, vomiting
 - excitability, dizziness, sweating, flushing
+
+Manufactured by:
+
+Hikma Pharmaceuticals USA Inc.
+
+Berkeley Heights, NJ 07922
+
+Revised: March 2023
+
+462-664-05
