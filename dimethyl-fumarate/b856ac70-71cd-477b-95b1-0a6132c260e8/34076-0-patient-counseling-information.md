@@ -22,5 +22,11 @@ Flushing and Gastrointestinal (GI) Reactions Flushing and GI reactions (abdomina
 Advise patients to contact their healthcare provider if they experience persistent and/or severe flushing or GI reactions.
 Advise patients experiencing flushing that taking dimethyl fumarate delayed-release capsules with food or taking a non-enteric coated aspirin prior to taking dimethyl fumarate delayed-release capsules may help [see Adverse Reactions (6.1)].
 Pregnancy Instruct patients that if they are pregnant or plan to become pregnant while taking dimethyl fumarate delayed-release capsules they should inform their physician.
-Manufactured by: HETERO™ HETERO LABS LIMITED 2058053-02 22-110, I.D.A., Jeedimetla, Hyderabad – 500 055, India.
-Revised: 10/2022
+
+Manufactured for:
+
+Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
+
+By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India
+
+Revised: 04/2023

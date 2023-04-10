@@ -15,7 +15,7 @@ Potential to prolong the QT interval In a placebo controlled thorough QT study p
 
 After oral administration of dimethyl fumarate delayed-release capsules, dimethyl fumarate undergoes rapid presystemic hydrolysis by esterases and is converted to its active metabolite, monomethyl fumarate (MMF).
 Dimethyl fumarate is not quantifiable in plasma following oral administration of dimethyl fumarate delayed-release capsules.
-Therefore all pharmacokinetic analyses related to dimethyl fumarate delayed-release capsules were performed with plasma MMF concentrations.
+Therefore, all pharmacokinetic analyses related to dimethyl fumarate delayed-release capsules were performed with plasma MMF concentrations.
 Pharmacokinetic data were obtained in subjects with multiple sclerosis and healthy volunteers.
 Absorption The median T max of MMF is 2 to 2.5 hours.
 The peak plasma concentration (C max) and overall exposure (AUC) increased approximately dose proportionally in the dose range studied (120 mg to 360 mg).
@@ -41,3 +41,8 @@ Single doses of interferon beta-1a or glatiramer acetate did not alter the pharm
 Aspirin, when administered approximately 30 minutes before dimethyl fumarate delayed-release capsules, did not alter the pharmacokinetics of MMF.
 Oral Contraceptives The coadministration of dimethyl fumarate with a combined oral contraceptive (norelgestromin and ethinyl estradiol) did not elicit any relevant effects in oral contraceptives exposure.
 No interaction studies have been performed with oral contraceptives containing other progestogens.
+
+Vaccines A randomized, open-label study examined the concomitant use of dimethyl fumarate delayed-release capsules and several non-live vaccines in adults 27 to 55 years of age with relapsing forms of MS (38 subjects undergoing treatment with dimethyl fumarate delayed-release capsules at the time of vaccination and 33 subjects undergoing treatment with non-pegylated interferon at the time of vaccination).
+Concomitant exposure to dimethyl fumarate delayed-release capsules did not attenuate antibody responses to tetanus toxoid-containing vaccine, pneumococcal polysaccharide, and meningococcal vaccines relative to antibody responses in interferon-treated patients.
+The impact of these findings on vaccine effectiveness in this patient population is unknown.
+The safety and effectiveness of live or live-attenuated vaccines administered concomitantly with dimethyl fumarate delayed-release capsules have not been assessed.

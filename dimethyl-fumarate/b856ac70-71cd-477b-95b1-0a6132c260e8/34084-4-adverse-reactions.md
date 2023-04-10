@@ -14,9 +14,7 @@ Table 1: Adverse Reactions in Study 1 and 2 reported for Dimethyl Fumarate Delay
 
 |  | Dimethyl Fumarate Delayed-Release Capsules N=769 % | Placebo N=771 % |
 | --- | --- | --- |
-
 | Flushing | 40 | 6 |
-| --- | --- | --- |
 | Abdominal pain | 18 | 10 |
 | Diarrhea | 14 | 11 |
 | Nausea | 12 | 9 |
@@ -39,8 +37,8 @@ There were no elevations in transaminases ≥ 3 times the ULN with concomitant e
 Discontinuations due to elevated hepatic transaminases were < 1% and were similar in patients treated with dimethyl fumarate delayed-release capsules or placebo.
 Eosinophilia A transient increase in mean eosinophil counts was seen during the first 2 months of therapy.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post Marketing Experience
 
 The following adverse reaction has been identified during post-approval use of dimethyl fumarate delayed-release capsules.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Gastrointestinal Disorders: Acute pancreatitis Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)] Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)] Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea Skin and Subcutaneous: Alopecia
+Gastrointestinal Disorders: Acute Pancreatitis Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)] Infections and Infestations: Herpes zoster infection and other serious opportunistic infections [see Warnings and Precautions (5.3)] Respiratory, Thoracic, and Mediastinal Disorders: Rhinorrhea Skin and Subcutaneous: Alopecia
