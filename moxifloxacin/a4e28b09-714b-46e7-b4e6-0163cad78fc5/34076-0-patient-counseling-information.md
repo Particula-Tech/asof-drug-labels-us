@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients to read the FDA approved Medication Guide.
+Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
 Serious Adverse Reactions
 
@@ -26,7 +26,8 @@ Inform patients of the following serious adverse reactions that have been associ
   Instruct patients to inform their physician if they experience any signs or symptoms of liver injury including: loss of appetite, nausea, vomiting, fever, weakness, tiredness, right upper quadrant tenderness, itching, yellowing of the skin and eyes, light colored bowel movements or dark colored urine.
 - Aortic aneurysm and dissection: Inform patients to seek emergency medical care if they experience sudden chest, stomach, or back pain.
 - Diarrhea: Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+  Sometimes after starting treatment with
+- antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
   If this occurs, instruct patients to contact their physician as soon as possible.
 - Prolongation of the QT Interval: Instruct patients to inform their physician of any personal or family history of QT prolongation or proarrhythmic conditions such as hypokalemia, bradycardia, or recent myocardial ischemia; if they are taking any Class IA (quinidine, procainamide), or Class III (amiodarone, sotalol) antiarrhythmic agents.
   Instruct patients to notify their physician if they have any symptoms of prolongation of the QT interval, including prolonged heart palpitations or a loss of consciousness.
@@ -47,10 +48,4 @@ The brand names mentioned in this document are the trademarks of their respectiv
 
 Manufactured for:
 
-Lake Zurich, IL 60047
-
-Made in Norway
-
-www.fresenius-kabi.com/us
-
-451325F
+Lake Zurich, IL 60047 Made in Norway www.fresenius-kabi.com/us 451325G

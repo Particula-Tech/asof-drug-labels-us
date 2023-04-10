@@ -4,6 +4,7 @@
 
 Fluoroquinolones, including Moxifloxacin Injection, have been associated with disabling and potentially irreversible serious adverse reactions from different body systems that can occur together in the same patient.
 Commonly seen adverse reactions include tendinitis, tendon rupture, arthralgia, myalgia, peripheral neuropathy, and central nervous system effects (hallucinations, anxiety, depression, insomnia, severe headaches, and confusion).
+
 These reactions can occur within hours to weeks after starting moxifloxacin.
 Patients of any age or without pre-existing risk factors have experienced these adverse reactions [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
@@ -12,7 +13,7 @@ In addition, avoid the use of fluoroquinolones, including moxifloxacin, in patie
 
 ## 5.2 Tendinitis and Tendon Rupture
 
-Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.2)].
+Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of tendinitis and tendon rupture in all ages [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
 This adverse reaction most frequently involves the Achilles tendon, and has also been reported with the rotator cuff (the shoulder), the hand, the biceps, the thumb, and other tendons.
 Tendinitis or tendon rupture can occur within hours or days of starting moxifloxacin or as long as several months after completion of therapy.
 Tendinitis and tendon rupture can occur bilaterally.
@@ -21,17 +22,17 @@ The risk of developing fluoroquinolone-associated tendinitis and tendon rupture 
 Other factors that may independently increase the risk of tendon rupture include strenuous physical activity, renal failure, and previous tendon disorders such as rheumatoid arthritis.
 Tendinitis and tendon rupture have also occurred in patients taking fluoroquinolones who do not have the above risk factors.
 Discontinue moxifloxacin if the patient experiences pain, swelling, inflammation or rupture of a tendon.
-Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non-quinolone antimicrobial drug [see Adverse Reactions (6.4) and Patient Counseling Information (17)].
-Avoid fluoroquinolones, including moxifloxacin, in patients who have a history of tendon disorders or have experienced tendinitis or tendon rupture [see Adverse Reactions (6.2)].
+Patients should be advised to rest at the first sign of tendinitis or tendon rupture, and to contact their healthcare provider regarding changing to a non- quinolone antimicrobial drug [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
+Avoid fluoroquinolones, including moxifloxacin, in patients who have a history of tendon disorders or have experienced tendinitis or tendon rupture [see Adverse Reactions (6.1)].
 
 ## 5.3 Peripheral Neuropathy
 
 Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of peripheral neuropathy.
 Cases of sensory or sensorimotor axonal polyneuropathy affecting small and/or large axons resulting in paresthesias, hypoesthesias, dysesthesias and weakness have been reported in patients receiving fluoroquinolones including moxifloxacin.
-Symptoms may occur soon after initiation of moxifloxacin and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6.1, 6.2)].
+Symptoms may occur soon after initiation of moxifloxacin and may be irreversible in some patients [see Warnings and Precautions (5.1) and Adverse Reactions (6, 6.1, 6.2)].
 
 Discontinue moxifloxacin immediately if the patient experiences symptoms of peripheral neuropathy including pain, burning, tingling, numbness, and/or weakness or other alterations of sensation including light touch, pain, temperature, position sense, and vibratory sensation.
-Avoid fluoroquinolones, including moxifloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6.2, 6.4) and Patient Counseling Information (17)].
+Avoid fluoroquinolones, including moxifloxacin, in patients who have previously experienced peripheral neuropathy [see Adverse Reactions (6.1, 6.2) and Patient Counseling Information (17)].
 
 ## 5.4 Central Nervous System Effects
 
@@ -39,15 +40,14 @@ Psychiatric Adverse Reactions
 
 Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, hallucinations, or paranoia; depression or suicidal thoughts or acts; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; and memory impairment.
 These adverse reactions may occur following the first dose.
-If these reactions occur in patients receiving moxifloxacin, discontinue moxifloxacin immediately and institute appropriate measures.
-[see Adverse Reactions (6.2, 6.4)].
+If these reactions occur in patients receiving moxifloxacin, discontinue moxifloxacin immediately and institute appropriate measures [see Adverse Reactions (6.1, 6.2)].
 
 Central Nervous System Adverse Reactions
 
 Fluoroquinolones, including moxifloxacin, have been associated with an increased risk of seizures (convulsions), increased intracranial pressure (including pseudotumor cerebri), dizziness, and tremors.
 As with all fluoroquinolones, use moxifloxacin with caution in patients with known or suspected CNS disorders (for example, severe cerebral arteriosclerosis, epilepsy) or in the presence of other risk factors that may predispose to seizures or lower the seizure threshold.
 These adverse reactions may occur following the first dose.
-If these reactions occur in patients receiving moxifloxacin, discontinue moxifloxacin immediately and institute appropriate measures [see Drug Interactions (7.3), Adverse Reactions (6.2, 6.4), and Patient Counseling Information (17)].
+If these reactions occur in patients receiving moxifloxacin, discontinue moxifloxacin immediately and institute appropriate measures [see Drug Interactions (7.3), Adverse Reactions (6.1, 6.2) and Patient Counseling Information (17)].
 
 ## 5.5 Exacerbation of Myasthenia Gravis
 
@@ -72,7 +72,7 @@ The magnitude of QT prolongation may increase with increasing concentrations of 
 Therefore the recommended dose or infusion rate should not be exceeded.
 QT prolongation may lead to an increased risk for ventricular arrhythmias including torsades de pointes.
 No excess in cardiovascular morbidity or mortality attributable to QTc prolongation occurred with moxifloxacin treatment in over 15,500 patients in controlled clinical studies, including 759 patients who were hypokalemic at the start of treatment, and there was no increase in mortality in over 18,000 moxifloxacin tablet treated patients in a postmarketing observational study in which ECGs were not performed.
-Elderly patients using moxifloxacin injection may be more susceptible to drug-associated QT prolongation [see Use in Specific Populations (8.5)].
+Elderly patients using Moxifloxacin Injection may be more susceptible to drug-associated QT prolongation [see Use in Specific Populations (8.5)].
 In addition, moxifloxacin should be used with caution in patients with mild, moderate, or severe liver cirrhosis [see Clinical Pharmacology (12.3) and Patient Counseling Information (17)].
 
 ## 5.7 Hypersensitivity Reactions
@@ -94,7 +94,7 @@ Clinical manifestations may include one or more of the following:
 - Hepatitis; jaundice; acute hepatic necrosis or failure
 - Anemia, including hemolytic and aplastic; thrombocytopenia, including thrombotic thrombocytopenic purpura; leukopenia; agranulocytosis; pancytopenia; and/or other hematologic abnormalities
 
-Discontinue Moxifloxacin Injection immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Patient Counseling Information (17) and Adverse Reactions (6.4)].
+Discontinue Moxifloxacin Injection immediately at the first appearance of a skin rash, jaundice, or any other sign of hypersensitivity and supportive measures instituted [see Patient Counseling Information (17) and Adverse Reactions (6.2)].
 
 ## 5.9 Risk of Aortic Aneurysm and Dissection
 
@@ -102,9 +102,9 @@ Epidemiologic studies report an increased rate of aortic aneurysm and dissection
 The cause for the increased risk has not been identified.
 In patients with a known aortic aneurysm or patients who are at greater risk for aortic aneurysms, reserve Moxifloxacin Injection for use only when there are no alternative antibacterial treatments available.
 
-## 5.10 Clostridium Difficile-Associated Diarrhea
+## 5.10 Clostridioides Difficile-Associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including moxifloxacin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including moxifloxacin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -113,12 +113,12 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.2) and Patient Counseling Information (17)].
+Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated [see Adverse Reactions (6.1) and Patient Counseling Information (17)].
 
 ## 5.11 High Sodium Load
 
-Each unit dose of moxifloxacin injection contains 52.5 mEq (1,207 mg) of sodium.
-Avoid use of moxifloxacin injection in patients with congestive heart failure, elderly, and those with restricted sodium intake [see Use in Specific Populations (8.5), Description (11)].
+Each unit dose of Moxifloxacin Injection contains 52.5 mEq (1,207 mg) of sodium.
+Avoid use of Moxifloxacin Injection in patients with congestive heart failure, elderly, and those with restricted sodium intake [see Use in Specific Populations (8.5), Description (11)].
 
 ## 5.12 Arthropathic Effects in Animals
 
@@ -131,14 +131,14 @@ Related quinolone-class drugs also produce erosions of cartilage of weight-beari
 As with all fluoroquinolones, disturbances in blood glucose, including both hypoglycemia and hyperglycemia have been reported with moxifloxacin.
 In moxifloxacin-treated patients, dysglycemia occurred predominantly in elderly diabetic patients receiving concomitant treatment with an oral hypoglycemic agent (for example, sulfonylurea) or with insulin.
 Severe cases of hypoglycemia resulting in coma or death have been reported.
-In diabetic patients, careful monitoring of blood glucose is recommended.
-If a hypoglycemic reaction occurs, discontinue moxifloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.2), Drug Interactions (7.2) and Patient Counseling Information (17)].
+In diabetic patients, careful monitoring of blood glucose is recommended [see Adverse Reactions (6.1)].
+If a hypoglycemic reaction occurs, discontinue moxifloxacin and initiate appropriate therapy immediately [see Adverse Reactions (6.1), Drug Interactions (7.2) and Patient Counseling Information (17)].
 
 ## 5.14 Photosensitivity/Phototoxicity
 
 Moderate to severe photosensitivity/phototoxicity reactions, the latter of which may manifest as exaggerated sunburn reactions (for example, burning, erythema, exudation, vesicles, blistering, edema) involving areas exposed to light (typically the face, “V” area of the neck, extensor surfaces of the forearms, dorsa of the hands), can be associated with the use of quinolone antibiotics after sun or UV light exposure.
 Therefore, excessive exposure to these sources of light should be avoided.
-Drug therapy should be discontinued if phototoxicity occurs [see Adverse Reactions (6.4) and Clinical Pharmacology (12.3)].
+Drug therapy should be discontinued if phototoxicity occurs [see Adverse Reactions (6.2) and Clinical Pharmacology (12.3)].
 
 ## 5.15 Development of Drug Resistant Bacteria
 

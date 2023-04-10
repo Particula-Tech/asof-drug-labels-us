@@ -6,23 +6,29 @@ Moxifloxacin is a member of the fluoroquinolone class of antibacterial agents [s
 
 ## 12.3 Pharmacokinetics
 
-The mean (± SD) pharmacokinetic parameters of moxifloxacin following single and multiple dose of 400 mg moxifloxacin given by 1 hour intravenous infusion are summarized in Table 5.
+The mean (± SD) pharmacokinetic parameters of moxifloxacin following single and multiple dose of 400 mg moxifloxacin given by 1 hour intravenous infusion are summarized in Table 7.
 The mean (± SD) elimination half-life from plasma is 12 ± 1.3 hours; steady-state is achieved after at least three days with a 400 mg once daily regimen.
 The absolute bioavailability of moxifloxacin is approximately 90 percent.
 When switching from intravenous to oral formulation, no dosage adjustment is necessary [see Dosage and Administration (2.1)].
 
-Table 5: Mean (± SD) Cmax and AUC Values Following Single and Multiple Doses of 400 mg Moxifloxacin Given by 1 Hour Intravenous Infusion
+Table 7: Mean (± SD) Cmax and AUC Values Following Single and Multiple Doses of 400 mg Moxifloxacin Given by 1 Hour Intravenous Infusion
 
 |  | Cmax (mg/L) | AUC (mg•h/L) | Half-life (hr) |
 | --- | --- | --- | --- |
 | Single Dose IV |  |  |  |
 | Healthy young male/female (n = 56) | 3.9 ± 0.9 | 39.3 ± 8.6 | 8.2 to 15.4a |
 | Patients (n = 118) |  |  |  |
-| Male (n = 64) Female (n = 54) < 65 years (n = 58) ≥ 65 years (n = 60) | 4.4 ± 3.7 4.5 ± 2 4.6 ± 4.2 4.3 ± 1.3 |  |  |
+| Male (n = 64) | 4.4 ± 3.7 |  |  |
+| Female (n = 54) | 4.5 ± 2 |  |  |
+| < 65 years (n = 58) | 4.6 ± 4.2 |  |  |
+| ≥ 65 years (n = 60) | 4.3 ± 1.3 |  |  |
 | Multiple Dose IV |  |  |  |
 | Healthy young male (n = 8) Healthy elderly (n =12; 8 male, 4 female) | 4.2 ± 0.8 6.1 ± 1.3 | 38 ± 4.7 48.2 ± 0.9 | 14.8 ± 2.2 10.1 ± 1.6 |
 | Patientsb (n = 107) |  |  |  |
-| Male (n = 58) Female (n = 49) < 65 years (n = 52) ≥ 65 years (n = 55) | 4.2 ± 2.6 4.6 ± 1.5 4.1 ± 1.4 4.7 ± 2.7 |  |  |
+| Male (n = 58) | 4.2 ± 2.6 |  |  |
+| Female (n = 49) | 4.6 ± 1.5 |  |  |
+| < 65 years (n = 52) | 4.1 ± 1.4 |  |  |
+| ≥ 65 years (n = 55) | 4.7 ± 2.7 |  |  |
 | a Range of means from different studies |  |  |  |
 | b Expected Cmax (concentration obtained around the time of the end of the infusion) |  |  |  |
 
@@ -32,21 +38,29 @@ Moxifloxacin is approximately 30 to 50% bound to serum proteins, independent of 
 The volume of distribution of moxifloxacin ranges from 1.7 to 2.7 L/kg.
 Moxifloxacin is widely distributed throughout the body, with tissue concentrations often exceeding plasma concentrations.
 Moxifloxacin has been detected in the saliva, nasal and bronchial secretions, mucosa of the sinuses, skin blister fluid, subcutaneous tissue, skeletal muscle, and abdominal tissues and fluids following oral or intravenous administration of 400 mg.
-Moxifloxacin concentrations measured post-dose in various tissues and fluids following a 400 mg oral or intravenous dose are summarized in Table 6.
+Moxifloxacin concentrations measured post-dose in various tissues and fluids following a 400 mg oral or intravenous dose are summarized in Table 8.
 The rates of elimination of moxifloxacin from tissues generally parallel the elimination from plasma.
 
-Table 6: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral or Intravenous Dosea
+Table 8: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Corresponding Plasma Concentrations After a Single 400 mg Oral or Intravenous Dosea
 
 | Tissue or Fluid | N | Plasma Concentration (mcg/mL) | Tissue or Fluid Concentration (mcg/mL or mcg/g) | Tissue Plasma Ratio |
 | --- | --- | --- | --- | --- |
 | Respiratory |  |  |  |  |
-| Alveolar Macrophages Bronchial Mucosa Epithelial Lining Fluid | 5 8 5 | 3.3 ± 0.7 3.3 ± 0.7 3.3 ± 0.7 | 61.8 ± 27.3 5.5 ± 1.3 24.4 ± 14.7 | 21.2 ± 10 1.7 ± 0.3 8.7 ± 6.1 |
+| Alveolar Macrophages | 5 | 3.3 ± 0.7 | 61.8 ± 27.3 | 21.2 ± 10 |
+| Bronchial Mucosa | 8 | 3.3 ± 0.7 | 5.5 ± 1.3 | 1.7 ± 0.3 |
+| Epithelial Lining Fluid | 5 | 3.3 ± 0.7 | 24.4 ± 14.7 | 8.7 ± 6.1 |
 | Sinus |  |  |  |  |
-| Maxillary Sinus Mucosa Anterior Ethmoid Mucosa Nasal Polyps | 4 3 4 | 3.7 ± 1.1b 3.7 ± 1.1b 3.7 ± 1.1b | 7.6 ± 1.7 8.8 ± 4.3 9.8 ± 4.5 | 2 ± 0.3 2.2 ± 0.6 2.6 ± 0.6 |
+| Maxillary Sinus Mucosa | 4 | 3.7 ± 1.1b | 7.6 ± 1.7 | 2 ± 0.3 |
+| Anterior Ethmoid Mucosa | 3 | 3.7 ± 1.1b | 8.8 ± 4.3 | 2.2 ± 0.6 |
+| Nasal Polyps | 4 | 3.7 ± 1.1b | 9.8 ± 4.5 | 2.6 ± 0.6 |
 | Skin, Musculoskeletal |  |  |  |  |
-| Blister Fluid Subcutaneous Tissue Skeletal Muscle | 5 6 6 | 3 ± 0.5c 2.3 ± 0.4d 2.3 ± 0.4d | 2.6 ± 0.9 0.9 ± 0.3e 0.9 ± 0.2e | 0.9 ± 0.2 0.4 ± 0.6 0.4 ± 0.1 |
+| Blister Fluid | 5 | 3 ± 0.5c | 2.6 ± 0.9 | 0.9 ± 0.2 |
+| Subcutaneous Tissue | 6 | 2.3 ± 0.4d | 0.9 ± 0.3e | 0.4 ± 0.6 |
+| Skeletal Muscle | 6 | 2.3 ± 0.4d | 0.9 ± 0.2e | 0.4 ± 0.1 |
 | Intra-Abdominal |  |  |  |  |
-| Abdominal tissue Abdominal exudate Abscess fluid | 8 10 6 | 2.9 ± 0.5 2.3 ± 0.5 2.7 ± 0.7 | 7.6 ± 2 3.5 ± 1.2 2.3 ± 1.5 | 2.7 ± 0.8 1.6 ± 0.7 0.8 ± 0.4 |
+| Abdominal tissue | 8 | 2.9 ± 0.5 | 7.6 ± 2 | 2.7 ± 0.8 |
+| Abdominal exudate | 10 | 2.3 ± 0.5 | 3.5 ± 1.2 | 1.6 ± 0.7 |
+| Abscess fluid | 6 | 2.7 ± 0.7 | 2.3 ± 1.5 | 0.8 ± 0.4 |
 | a All moxifloxacin concentrations were measured 3 hours after a single 400 mg dose, except the abdominal tissue and exudate concentrations which were measured at 2 hours post-dose and the sinus concentrations which were measured 3 hours post-dose after 5 days of dosing. |  |  |  |  |
 | b N = 5 |  |  |  |  |
 | c N = 7 |  |  |  |  |
@@ -56,8 +70,8 @@ Table 6: Moxifloxacin Concentrations (mean ± SD) in Tissues and the Correspondi
 Metabolism
 
 Approximately 52% of an oral or intravenous dose of moxifloxacin is metabolized via glucuronide and sulfate conjugation.
-The cytochrome P450 system is not involved in moxifloxacin metabolism, and is not affected by moxifloxacin.
-The sulfate conjugate (M1) accounts for approximately 38% of the dose, and is eliminated primarily in the feces.
+The cytochrome P450 system is not involved in moxifloxacin metabolism and is not affected by moxifloxacin.
+The sulfate conjugate (M1) accounts for approximately 38% of the dose and is eliminated primarily in the feces.
 Approximately 14% of an oral or intravenous dose is converted to a glucuronide conjugate (M2), which is excreted exclusively in the urine.
 Peak plasma concentrations of M2 are approximately 40% those of the parent drug, while plasma concentrations of M1 are generally less than 10% those of moxifloxacin.
 
@@ -76,6 +90,7 @@ Geriatric
 Following oral administration of 400 mg moxifloxacin for 10 days in 16 elderly (8 male; 8 female) and 17 young (8 male; 9 female) healthy volunteers, there were no age-related changes in moxifloxacin pharmacokinetics.
 In 16 healthy male volunteers (8 young; 8 elderly) given a single 200 mg dose of oral moxifloxacin, the extent of systemic exposure (AUC and Cmax) was not statistically different between young and elderly males and elimination half-life was unchanged.
 No dosage adjustment is necessary based on age.
+
 In large phase III studies, the concentrations around the time of the end of the infusion in elderly patients following intravenous infusion of 400 mg were similar to those observed in young patients [see Use in Specific Populations (8.5)].
 
 Pediatric
@@ -88,16 +103,12 @@ Following oral administration of 400 mg moxifloxacin daily for 10 days to 23 hea
 There are no significant differences in moxifloxacin pharmacokinetics between male and female subjects when differences in body weight are taken into consideration.
 
 A 400 mg single dose study was conducted in 18 young males and females.
-The comparison of moxifloxacin pharmacokinetics in this study (9 young females and
-
-9 young males) showed no differences in AUC or Cmax due to gender.
+The comparison of moxifloxacin pharmacokinetics in this study (9 young females and 9 young males) showed no differences in AUC or Cmax due to gender.
 Dosage adjustments based on gender are not necessary.
 
 Race
 
-Steady-state moxifloxacin pharmacokinetics in male Japanese subjects were similar to those determined in Caucasians, with a mean Cmax of 4.1 mcg/mL, an AUC24 of
-
-47 mcg•h/mL, and an elimination half-life of 14 hours, following 400 mg p.o. daily.
+Steady-state moxifloxacin pharmacokinetics in male Japanese subjects were similar to those determined in Caucasians, with a mean Cmax of 4.1 mcg/mL, an AUC24 of 47 mcg•h/mL, and an elimination half-life of 14 hours, following 400 mg p.o. daily.
 
 Renal Insufficiency
 
@@ -139,7 +150,7 @@ A study of the skin response to ultraviolet (UVA and UVB) and visible radiation 
 The minimum erythematous dose (MED) was measured before and after treatment with moxifloxacin (200 mg or 400 mg once daily), lomefloxacin (400 mg once daily), or placebo.
 In this study, the MED measured for both doses of moxifloxacin were not significantly different from placebo, while lomefloxacin significantly lowered the MED.
 
-It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject's susceptibility to this adverse event such as: a patient's skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.14), Adverse Reactions (6.3), and Patient Counseling Information (17)].
+It is difficult to ascribe relative photosensitivity/phototoxicity among various fluoroquinolones during actual patient use because other factors play a role in determining a subject's susceptibility to this adverse event such as: a patient's skin pigmentation, frequency and duration of sun and artificial ultraviolet light (UV) exposure, wearing of sunscreen and protective clothing, the use of other concomitant drugs and the dosage and duration of fluoroquinolone therapy [see Warnings and Precautions (5.14), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 Drug-Drug Interactions
 
@@ -160,12 +171,14 @@ Digoxin
 No significant effect of moxifloxacin (400 mg once daily for two days) on digoxin (0.6 mg as a single dose) AUC was detected in a study involving 12 healthy volunteers.
 The mean digoxin Cmax increased by about 50% during the distribution phase of digoxin.
 This transient increase in digoxin Cmax is not viewed to be clinically significant.
+
 Moxifloxacin pharmacokinetics were similar in the presence or absence of digoxin.
 No dosage adjustment for moxifloxacin or digoxin is required when these drugs are administered concomitantly.
 
 Glyburide
 
 In diabetics, glyburide (2.5 mg once daily for two weeks pretreatment and for five days concurrently) mean AUC and Cmax were 12% and 21% lower, respectively, when taken with moxifloxacin (400 mg once daily for five days) in comparison to placebo.
+
 Nonetheless, blood glucose levels were decreased slightly in patients taking glyburide and moxifloxacin in comparison to those taking glyburide alone, suggesting no interference by moxifloxacin on the activity of glyburide.
 These interaction results are not viewed as clinically significant.
 
@@ -199,19 +212,18 @@ The effect of co-administration of a 400 mg dose of moxifloxacin with theophylli
 Warfarin
 
 No significant effect of moxifloxacin (400 mg once daily for eight days) on the pharmacokinetics of R- and S-warfarin (25 mg single dose of warfarin sodium on the fifth day) was detected in a study involving 24 healthy volunteers.
-No significant change in prothrombin time was observed [see Adverse Reactions (6.2) and Drug Interactions (7.1)].
+No significant change in prothrombin time was observed [see Adverse Reactions (6.1) and Drug Interactions (7.1)].
 
 ## 12.4 Microbiology
 
 Mechanism of Action
 
 The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination.
-It appears that the C8-methoxy moiety contributes to enhanced activity and lower selection of resistant mutants of Gram-positive bacteria compared to the C8-H moiety.
-The presence of the bulky bicycloamine substituent at the C-7 position prevents active efflux, associated with the NorA or pmrA genes seen in certain Gram-positive bacteria.
 
-Mechanism of Resistance
+Resistance
 
 The mechanism of action for fluoroquinolones, including moxifloxacin, is different from that of macrolides, beta-lactams, aminoglycosides, or tetracyclines; therefore, microorganisms resistant to these classes of drugs may be susceptible to moxifloxacin.
+
 Resistance to fluoroquinolones occurs primarily by a mutation in topoisomerase II (DNA gyrase) or topoisomerase IV genes, decreased outer membrane permeability or drug efflux.
 In vitro resistance to moxifloxacin develops slowly via multiple-step mutations.
 Resistance to moxifloxacin occurs in vitro at a general frequency of between 1.8 x 10-9 to < 1 x 10-11 for Gram-positive bacteria.
@@ -222,62 +234,84 @@ Cross-resistance has been observed between moxifloxacin and other fluoroquinolon
 Gram-positive bacteria resistant to other fluoroquinolones may, however, still be susceptible to moxifloxacin.
 There is no known cross-resistance between moxifloxacin and other classes of antimicrobials.
 
+Antimicrobial Activity
+
 Moxifloxacin has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections [see Indications and Usage (1)].
 
 Gram-positive bacteria
 
-- Enterococcus faecalis
-- Staphylococcus aureus
-- Streptococcus anginosus
-- Streptococcus constellatus
-- Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**)
-- Streptococcus pyogenes
+Enterococcus faecalis
+
+Staphylococcus aureus
+
+Streptococcus anginosus
+
+Streptococcus constellatus
+
+Streptococcus pneumoniae (including multi-drug resistant isolates [MDRSP]**)
+
+Streptococcus pyogenes
 
 **MDRSP, Multi-drug resistant Streptococcus pneumoniae includes isolates previously known as PRSP (Penicillin-resistant S. pneumoniae), and are isolates resistant to two or more of the following antibacterial drugs: penicillin (MIC) ≥ 2 mcg/mL), 2nd generation cephalosporins (for example, cefuroxime), macrolides, tetracyclines, and trimethoprim/sulfamethoxazole.
 
 Gram-negative bacteria
 
-- Enterobacter cloacae
-- Escherichia coli
-- Haemophilus influenzae
-- Haemophilus parainfluenzae
-- Klebsiella pneumoniae
-- Moraxella catarrhalis
-- Proteus mirabilis
+Enterobacter cloacae
+
+Escherichia coli
+
+Haemophilus influenzae
+
+Haemophilus parainfluenzae
+
+Klebsiella pneumoniae
+
+Moraxella catarrhalis
+
+Proteus mirabilis
 
 Anaerobic bacteria
 
-- Bacteroides fragilis
-- Bacteroides thetaiotaomicron
-- Clostridium perfringens
-- Peptostreptococcus species
+Bacteroides fragilis
+
+Bacteroides thetaiotaomicron
+
+Clostridium perfringens
+
+Peptostreptococcus species
 
 Other microorganisms
 
-- Chlamydophila pneumoniae
-- Mycoplasma pneumoniae
+Chlamydophila pneumoniae
+
+Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
-At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to 1 mcg/mL for moxifloxacin.
+At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for moxifloxacin against isolates of similar genus or organism group.
 However, the efficacy of moxifloxacin in treating clinical infections due to these bacteria has not been established in adequate and well controlled clinical trials.
 
 Gram-positive bacteria
 
-- Staphylococcus epidermidis
-- Streptococcus agalactiae
-- Streptococcus viridans group
+Staphylococcus epidermidis
+
+Streptococcus agalactiae
+
+Streptococcus viridans group
 
 Gram-negative bacteria
 
-- Citrobacter freundii
-- Klebsiella oxytoca
-- Legionella pneumophila
+Citrobacter freundii
+
+Klebsiella oxytoca
+
+Legionella pneumophila
 
 Anaerobic bacteria
 
-- Fusobacterium species
-- Prevotella species
+Fusobacterium species
 
-Susceptibility Testing
+Prevotella species
+
+Susceptibility Tests Methods
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

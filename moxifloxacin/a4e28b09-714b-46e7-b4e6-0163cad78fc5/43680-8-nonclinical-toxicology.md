@@ -21,7 +21,7 @@ In studies in juvenile dogs oral doses of moxifloxacin ≥ 30 mg/kg/day (approxi
 There was no evidence of arthropathy in mature monkeys and rats at oral doses up to 135 and 500 mg/kg/day, respectively.
 
 Moxifloxacin at an oral dose of 300 mg/kg did not show an increase in acute toxicity or potential for CNS toxicity (for example, seizures) in mice when used in combination with NSAIDs such as diclofenac, ibuprofen, or fenbufen.
-Some quinolones have been reported to have proconvulsant activity that is exacerbated with concomitant use of non-steroidal anti-inflammatory drugs (NSAIDs).
+Some quinolones have been reported to have proconvulsant activity that is exacerbated with concomitant use of non- steroidal anti-inflammatory drugs (NSAIDs).
 
 A QT-prolonging effect of moxifloxacin was found in dog studies, at plasma concentrations about five times the human therapeutic level.
 The combined infusion of sotalol, a Class III antiarrhythmic agent, with moxifloxacin induced a higher degree of QTc prolongation in dogs than that induced by the same dose (30 mg/kg) of moxifloxacin alone.

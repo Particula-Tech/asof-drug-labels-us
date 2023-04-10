@@ -32,11 +32,6 @@ Because fluoroquinolones, including Moxifloxacin Injection, have been associated
 
 ## 1.7 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of moxifloxacin injection and other antibacterial drugs, moxifloxacin injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Moxifloxacin Injection and other antibacterial drugs, Moxifloxacin Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
-
-Culture and Susceptibility Testing
-
-Appropriate culture and susceptibility tests should be performed before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to moxifloxacin [see Clinical Pharmacology (12.4)].
-Therapy with moxifloxacin may be initiated before results of these tests are known; once results become available, appropriate therapy should be continued.

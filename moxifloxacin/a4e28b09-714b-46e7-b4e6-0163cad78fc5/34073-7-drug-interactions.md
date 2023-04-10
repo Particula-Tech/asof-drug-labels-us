@@ -4,13 +4,13 @@
 
 Quinolones, including moxifloxacin, have been reported to enhance the anticoagulant effects of warfarin or its derivatives in the patient population.
 In addition, infectious disease and its accompanying inflammatory process, age, and general status of the patient are risk factors for increased anticoagulant activity.
-Therefore the prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if a quinolone is administered concomitantly with warfarin or its derivatives [see Adverse Reactions (6.2, 6.3), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
+Therefore, the prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests should be closely monitored if a quinolone is administered concomitantly with warfarin or its derivatives [see Adverse Reactions (6, 6.1,), Clinical Pharmacology (12.3), and Patient Counseling Information (17)].
 
 ## 7.2 Antidiabetic Agents
 
 Disturbances of blood glucose, including hyperglycemia and hypoglycemia, have been reported in patients treated concomitantly with fluoroquinolones and an antidiabetic agent.
 Therefore, careful monitoring of blood glucose is recommended when these agents are co-administered.
-If a hypoglycemic reaction occurs, moxifloxacin should be discontinued and appropriate therapy should be initiated immediately [see Warnings and Precautions (5.13), Adverse Reactions (6.2), and Patient Counseling Information (17)].
+If a hypoglycemic reaction occurs, moxifloxacin should be discontinued and appropriate therapy should be initiated immediately [see Warnings and Precautions (5.13), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 ## 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 
