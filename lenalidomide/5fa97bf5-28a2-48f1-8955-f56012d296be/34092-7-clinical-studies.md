@@ -121,23 +121,23 @@ Median OS was 111.0 and 84.2 months for REVLIMID and placebo, respectively, for 
 
 Table 15: Progression-free Survival and Overall Survival from Randomization in MM Maintenance Studies 1 and 2 (ITT Post-Auto-HSCT Population)
 
-|  | Maintenance Study 1 |  | Maintenance Study 2 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | REVLIMID N = 231 | Placebo N = 229 | REVLIMID N = 307 | Placebo N = 307 |  |  |  |  |  |
-| PFS at Unblinding |  |  |  |  |  |  |  |  |  |
-| PFS Events n (%) | 46 (20) | 98 (43) | 103 (34) | 160 (52) |  |  |  |  |  |
-| Median in months [95% CI] | 33.9 [NE, NE] | 19 [16.2, 25.6] | 41.2 [38.3, NE] | 23.0 [21.2, 28.0] |  |  |  |  |  |
-| Hazard Ratio [95% CI] | 0.38 [0.27, 0.54] |  | 0.50 [0.39, 0.64] |  |  |  |  |  |  |
-| Log-rank Test p-value | <0.001 |  | <0.001 |  |  |  |  |  |  |
-| PFS at Updated Analysis 1 March 2015 (Studies 1 and 2) |  |  |  |  |  |  |  |  |  |
-| PFS Events n (%) | 97 (42) | 116 (51) | 191 (62) | 248 (81) |  |  |  |  |  |
-| Median in months [95% CI] | 68.6 [52.8, NE] | 22.5 [18.8, 30.0] | 46.3 [40.1, 56.6] | 23.8 [21.0, 27.3] |  |  |  |  |  |
-| Hazard Ratio [95% CI] | 0.38 [0.28, 0.50] |  | 0.53 [0.44, 0.64] |  |  |  |  |  |  |
-| OS at Updated Analysis 1 Feb 2016 (Studies 1 and 2) |  |  |  |  |  |  |  |  |  |
-| OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |  |  |  |  |  |
-| Median in months [95% CI] | 111 [101.8, NE] | 84.2 [71.0, 102.7] | 105.9 [88.8, NE] | 88.1 [80.7, 108.4] |  |  |  |  |  |
-| Hazard Ratio [95% CI] | 0.59 [0.44, 0.78] |  | 0.90 [0.72, 1.13] |  |  |  |  |  |  |
-| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival. PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (REVLIMID:placebo). |  |  |  |  |  |  |  |  |  |
+|  | Maintenance Study 1 |  | Maintenance Study 2 |  |
+| --- | --- | --- | --- | --- |
+|  | REVLIMID N = 231 | Placebo N = 229 | REVLIMID N = 307 | Placebo N = 307 |
+| PFS at Unblinding |  |  |  |  |
+| PFS Events n (%) | 46 (20) | 98 (43) | 103 (34) | 160 (52) |
+| Median in months [95% CI] | 33.9 [NE, NE] | 19 [16.2, 25.6] | 41.2 [38.3, NE] | 23.0 [21.2, 28.0] |
+| Hazard Ratio [95% CI] | 0.38 [0.27, 0.54] |  | 0.50 [0.39, 0.64] |  |
+| Log-rank Test p-value | <0.001 |  | <0.001 |  |
+| PFS at Updated Analysis 1 March 2015 (Studies 1 and 2) |  |  |  |  |
+| PFS Events n (%) | 97 (42) | 116 (51) | 191 (62) | 248 (81) |
+| Median in months [95% CI] | 68.6 [52.8, NE] | 22.5 [18.8, 30.0] | 46.3 [40.1, 56.6] | 23.8 [21.0, 27.3] |
+| Hazard Ratio [95% CI] | 0.38 [0.28, 0.50] |  | 0.53 [0.44, 0.64] |  |
+| OS at Updated Analysis 1 Feb 2016 (Studies 1 and 2) |  |  |  |  |
+| OS Events n (%) | 82 (35) | 114 (50) | 143 (47) | 160 (52) |
+| Median in months [95% CI] | 111 [101.8, NE] | 84.2 [71.0, 102.7] | 105.9 [88.8, NE] | 88.1 [80.7, 108.4] |
+| Hazard Ratio [95% CI] | 0.59 [0.44, 0.78] |  | 0.90 [0.72, 1.13] |  |
+| Date of Unblinding in Maintenance Study 1 and 2 = 17 December 2009 and 7 July 2010, respectively. Auto-HSCT = autologous hematopoietic stem cell transplantation; CI = confidence interval; ITT = intent to treat; NE = not estimable; PFS = progression-free survival. PFS at time of unblinding for Maintenance Study 2 was based on assessment by an Independent Review Committee. All other PFS analyses were based on assessment by investigator. Note: The median is based on Kaplan-Meier estimate, with 95% CIs about the median overall PFS time. Hazard ratio is based on a proportional hazards model stratified by stratification factors comparing the hazard functions associated with treatment arms (REVLIMID:placebo). |  |  |  |  |
 
 Kaplan-Meier Curves of Progression-free Survival from Randomization (ITT Post-Auto-HSCT Population) in MM Maintenance Study 1 between REVLIMID and Placebo Arms (Updated Cutoff Date 1 March 2015)
 
@@ -430,17 +430,17 @@ Efficacy results are summarized in Table 22.
 
 Table 22: Efficacy Results for Patients in the AUGMENT Trial (ITT FL and MZL Population)
 
-| Parameter | REVLIMID + Rituximab (N=178) | Rituximab + Placebo (N=180) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| PFS |  |  |  |  |  |  |
-| Patients with event, n (%) | 68 (38.2) | 115 (63.9) |  |  |  |  |
-| Death | 6 (8.8) | 2 (1.7) |  |  |  |  |
-| Progression of disease | 62 (91.2) | 113 (98.3) |  |  |  |  |
-| PFS, median a [95% CI] (months) | 39.4 [22.9, NE] | 14.1 [11.4, 16.7] |  |  |  |  |
-| HR b [95% CI] | 0.46 [0.34, 0.62] |  |  |  |  |  |
-| p-value c | <0.0001 |  |  |  |  |  |
-| Objective response (CR+PR), n(%) [95% CI] d | 138 (77.5) [70.7, 83.4] | 96 (53.3) [45.8, 60.8] |  |  |  |  |
-| a Median estimate is from Kaplan-Meier analysis. b hazard ratio and its CI were estimated from Cox proportional hazard model adjusting for the stratification 3: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). c p-value from log-rank test stratified by 3 factors noted above: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). d Exact confidence interval for binomial distribution. |  |  |  |  |  |  |
+| Parameter | REVLIMID + Rituximab (N=178) | Rituximab + Placebo (N=180) |
+| --- | --- | --- |
+| PFS |  |  |
+| Patients with event, n (%) | 68 (38.2) | 115 (63.9) |
+| Death | 6 (8.8) | 2 (1.7) |
+| Progression of disease | 62 (91.2) | 113 (98.3) |
+| PFS, median a [95% CI] (months) | 39.4 [22.9, NE] | 14.1 [11.4, 16.7] |
+| HR b [95% CI] | 0.46 [0.34, 0.62] |  |
+| p-value c | <0.0001 |  |
+| Objective response (CR+PR), n(%) [95% CI] d | 138 (77.5) [70.7, 83.4] | 96 (53.3) [45.8, 60.8] |
+| a Median estimate is from Kaplan-Meier analysis. b hazard ratio and its CI were estimated from Cox proportional hazard model adjusting for the stratification 3: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). c p-value from log-rank test stratified by 3 factors noted above: previous rituximab treatment (yes, no), time since last antilymphoma therapy (≤ 2, > 2 years), and disease histology (FL, MZL). d Exact confidence interval for binomial distribution. |  |  |
 
 Kaplan-Meier Curves of Progression-free Survival by IRC Assessment Between Arms in AUGMENT Trial (ITT FL and MZL Population)
 

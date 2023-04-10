@@ -345,26 +345,26 @@ Table 7: Grade 3/4 Adverse Reactions Reported in ≥2% Patients and with a ≥1%
 
 Table 8: Serious Adverse Reactions Reported in ≥1% Patients and with a ≥1% Difference in Proportion of Patients with MM between the REVLIMID/dexamethasone and Placebo/dexamethasone Groups
 
-| Body System Adverse Reaction | REVLIMID/Dex (N=353) n (%) | Placebo/Dex (N=350) n (%) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Blood and lymphatic system disorders |  |  |  |  |  |  |  |  |
-| Febrile neutropenia% | 6 (2) | 0 (0) |  |  |  |  |  |  |
-| Vascular disorders |  |  |  |  |  |  |  |  |
-| Deep vein thrombosis% | 26 (7) | 11 (3) |  |  |  |  |  |  |
-| Infections and infestations |  |  |  |  |  |  |  |  |
-| Pneumonia@ | 33 (9) | 21 (6) |  |  |  |  |  |  |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |  |  |  |  |
-| Pulmonary embolism@ | 13 (4) | < 1% |  |  |  |  |  |  |
-| Cardiac disorders |  |  |  |  |  |  |  |  |
-| Atrial fibrillation@ | 11 (3) | < 1% |  |  |  |  |  |  |
-| Cardiac failure congestive@ | 5 (1) | 0 (0) |  |  |  |  |  |  |
-| Nervous system disorders |  |  |  |  |  |  |  |  |
-| Cerebrovascular accident@ | 7 (2) | < 1% |  |  |  |  |  |  |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |  |
-| Diarrhea @ | 6 (2) | < 1% |  |  |  |  |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  |  |  |  |  |
-| Bone pain | 4 (1) | 0 (0) |  |  |  |  |  |  |
-| For Tables 6, 7 and 8 above: @ - adverse reactions in which at least one resulted in a fatal outcome. % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases). |  |  |  |  |  |  |  |  |
+| Body System Adverse Reaction | REVLIMID/Dex (N=353) n (%) | Placebo/Dex (N=350) n (%) |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  |  |
+| Febrile neutropenia% | 6 (2) | 0 (0) |
+| Vascular disorders |  |  |
+| Deep vein thrombosis% | 26 (7) | 11 (3) |
+| Infections and infestations |  |  |
+| Pneumonia@ | 33 (9) | 21 (6) |
+| Respiratory, thoracic, and mediastinal disorders |  |  |
+| Pulmonary embolism@ | 13 (4) | < 1% |
+| Cardiac disorders |  |  |
+| Atrial fibrillation@ | 11 (3) | < 1% |
+| Cardiac failure congestive@ | 5 (1) | 0 (0) |
+| Nervous system disorders |  |  |
+| Cerebrovascular accident@ | 7 (2) | < 1% |
+| Gastrointestinal disorders |  |  |
+| Diarrhea @ | 6 (2) | < 1% |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Bone pain | 4 (1) | 0 (0) |
+| For Tables 6, 7 and 8 above: @ - adverse reactions in which at least one resulted in a fatal outcome. % - adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases). |  |  |
 
 Median duration of exposure among patients treated with REVLIMID/dexamethasone was 44 weeks while median duration of exposure among patients treated with placebo/dexamethasone was 23 weeks.
 This should be taken into consideration when comparing frequency of adverse reactions between two treatment groups REVLIMID/dexamethasone vs. placebo/dexamethasone.
@@ -515,47 +515,47 @@ Table 9: Summary of Adverse Reactions Reported in ≥5% of the REVLIMID Treated 
 
 Table 10: Most Frequently Observed Grade 3 and 4 Adverse Reactions 1 Regardless of Relationship to Study Drug Treatment in the del 5q MDS Clinical Study
 
-| Adverse Reactions 2 | 10 mg (N=148) |  |  |
-| --- | --- | --- | --- |
-| Patients with at least one Grade 3/4 AE | 131 (89) |  |  |
-| Neutropenia | 79 (53) |  |  |
-| Thrombocytopenia | 74 (50) |  |  |
-| Pneumonia | 11 (7) |  |  |
-| Rash | 10 (7) |  |  |
-| Anemia | 9 (6) |  |  |
-| Leukopenia | 8 (5) |  |  |
-| Fatigue | 7 (5) |  |  |
-| Dyspnea | 7 (5) |  |  |
-| Back Pain | 7 (5) |  |  |
-| Febrile Neutropenia | 6 (4) |  |  |
-| Nausea | 6 (4) |  |  |
-| Diarrhea | 5 (3) |  |  |
-| Pyrexia | 5 (3) |  |  |
-| Sepsis | 4 (3) |  |  |
-| Dizziness | 4 (3) |  |  |
-| Granulocytopenia | 3 (2) |  |  |
-| Chest Pain | 3 (2) |  |  |
-| Pulmonary Embolism | 3 (2) |  |  |
-| Respiratory Distress | 3 (2) |  |  |
-| Pruritus | 3 (2) |  |  |
-| Pancytopenia | 3 (2) |  |  |
-| Muscle Cramp | 3 (2) |  |  |
-| Respiratory Tract Infection | 2 (1) |  |  |
-| Upper Respiratory Tract Infection | 2 (1) |  |  |
-| Asthenia | 2 (1) |  |  |
-| Multi-organ Failure | 2 (1) |  |  |
-| Epistaxis | 2 (1) |  |  |
-| Hypoxia | 2 (1) |  |  |
-| Pleural Effusion | 2 (1) |  |  |
-| Pneumonitis | 2 (1) |  |  |
-| Pulmonary Hypertension | 2 (1) |  |  |
-| Vomiting | 2 (1) |  |  |
-| Sweating Increased | 2 (1) |  |  |
-| Arthralgia | 2 (1) |  |  |
-| Pain in Limb | 2 (1) |  |  |
-| Headache | 2 (1) |  |  |
-| Syncope | 2 (1) |  |  |
-| 1 Adverse reactions with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. 2 Adverse reactions are coded using the MedDRA dictionary. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |  |  |
+| Adverse Reactions 2 | 10 mg (N=148) |
+| --- | --- |
+| Patients with at least one Grade 3/4 AE | 131 (89) |
+| Neutropenia | 79 (53) |
+| Thrombocytopenia | 74 (50) |
+| Pneumonia | 11 (7) |
+| Rash | 10 (7) |
+| Anemia | 9 (6) |
+| Leukopenia | 8 (5) |
+| Fatigue | 7 (5) |
+| Dyspnea | 7 (5) |
+| Back Pain | 7 (5) |
+| Febrile Neutropenia | 6 (4) |
+| Nausea | 6 (4) |
+| Diarrhea | 5 (3) |
+| Pyrexia | 5 (3) |
+| Sepsis | 4 (3) |
+| Dizziness | 4 (3) |
+| Granulocytopenia | 3 (2) |
+| Chest Pain | 3 (2) |
+| Pulmonary Embolism | 3 (2) |
+| Respiratory Distress | 3 (2) |
+| Pruritus | 3 (2) |
+| Pancytopenia | 3 (2) |
+| Muscle Cramp | 3 (2) |
+| Respiratory Tract Infection | 2 (1) |
+| Upper Respiratory Tract Infection | 2 (1) |
+| Asthenia | 2 (1) |
+| Multi-organ Failure | 2 (1) |
+| Epistaxis | 2 (1) |
+| Hypoxia | 2 (1) |
+| Pleural Effusion | 2 (1) |
+| Pneumonitis | 2 (1) |
+| Pulmonary Hypertension | 2 (1) |
+| Vomiting | 2 (1) |
+| Sweating Increased | 2 (1) |
+| Arthralgia | 2 (1) |
+| Pain in Limb | 2 (1) |
+| Headache | 2 (1) |
+| Syncope | 2 (1) |
+| 1 Adverse reactions with frequency ≥1% in the 10 mg Overall group. Grade 3 and 4 are based on National Cancer Institute Common Toxicity Criteria version 2. 2 Adverse reactions are coded using the MedDRA dictionary. A patient with multiple occurrences of an adverse reaction is counted only once in the adverse reaction category. |  |
 
 In other clinical studies of REVLIMID in MDS patients, the following serious adverse reactions (regardless of relationship to study drug treatment) not described in Table 9 or 10 were reported:
 

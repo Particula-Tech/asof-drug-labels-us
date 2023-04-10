@@ -28,7 +28,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk in the U.S. general population of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
 
-Data
+### Data
 
 Animal data
 
