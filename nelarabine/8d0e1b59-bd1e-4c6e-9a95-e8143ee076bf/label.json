@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216346"
+  ],
+  "inn": "nelarabine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-1743-1",
+    "70121-1743-4"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "nelarabine",
+      "name": "Nelarabine"
+    }
+  ],
+  "setid": "8d0e1b59-bd1e-4c6e-9a95-e8143ee076bf",
+  "source": "dailymed"
+}
