@@ -25,12 +25,12 @@ Table 4: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Do
 | Parameter* of Mesalamine | Mesalamine 1.2 g(N=47) | Mesalamine 2.4 g(N=48) | Mesalamine 4.8 g(N=48) |
 | --- | --- | --- | --- |
 | AUC0-t (ng·h/mL) | 9039† (5054) | 20538 (12980) | 41434 (26640) |
-| AUC0-∞(ng·h/mL) | 9578‡ (5214) | 21084 (13185) | 44775§ (30302) |
+| AUC0-∞ (ng·h/mL) | 9578‡ (5214) | 21084 (13185) | 44775§ (30302) |
 | Cmax (ng/mL) | 857 (638) | 1595 (1484) | 2154 (1140) |
 | Tmax¶ (h) | 9.0# (4.0 to 32.1) | 12.0 (4.0 to 34.1) | 12.0 (4.0 to 34.0) |
 | Tlag¶ (h) | 2.0# (0 to 8.0) | 2.0 (1.0 to 4.0) | 2.0 (1.0 to 4.0) |
 | T1/2 (h) (Terminal Phase) | 8.56‡ (6.38) | 7.05Ϸ (5.54) | 7.25§ (8.32) |
-| *Arithmetic mean of parameter values are presented except for Tmaxand Tlag. |  |  |  |
+| *Arithmetic mean of parameter values are presented except for Tmax and Tlag. |  |  |  |
 | †N=43, ‡N=27, §N=36, ¶Median (min, max), #N=46, ϷN=33 |  |  |  |
 
 Food Effects
@@ -81,7 +81,7 @@ Table 5: Mean (SD) Pharmacokinetic Parameters for Mesalamine Following Single-Do
 | Cmax (ng/mL) | 2243 (1410) | 4999 (4381) | 4832 (4383) |
 | tmax § (h) | 22.0 (5.98 to 48.0) | 12.5 (4.00 to 36.0) | 16.0 (4.00 to 26.0) |
 | tlag § (h) | 2 (1 to 6) | 2 (1 to 4) | 2 (2 to 4) |
-| t1/2 (h), terminal phase | 5.68* (2.83) | 9.68† (7.47) | 8.67‡(5.84) |
+| t1/2 (h), terminal phase | 5.68* (2.83) | 9.68† (7.47) | 8.67‡ (5.84) |
 | Renal clearance (L/h) | 2.05 (1.33) | 2.04 (1.16) | 2.13 (1.20) |
 | Arithmetic mean (SD) data are presented, N = Number of subjects; 5-ASA = 5-aminosalicylic acid*N=15, †N=16, ‡N=13, §Median (min-max) |  |  |  |
 

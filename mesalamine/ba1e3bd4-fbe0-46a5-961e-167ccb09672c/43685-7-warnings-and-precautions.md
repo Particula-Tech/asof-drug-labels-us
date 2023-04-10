@@ -6,7 +6,8 @@ Renal impairment, including minimal change disease, acute and chronic interstiti
 In animal studies, the kidney was the principal organ of mesalamine toxicity [see Adverse Reactions (6.2), Nonclinical Toxicology (13.2)].
 
 Evaluate renal function prior to initiation of mesalamine therapy and periodically while on therapy.
-Evaluate the risks and benefits of using mesalamine in patients with known renal impairment, history of renal disease, or taking concomitant nephrotoxic drugs [see Drug Interactions (7.1), Use in Specific Populations (8.6)].
+Evaluate the risks and benefits of using mesalamine in patients with known renal impairment, history of renal disease, or taking concomitant nephrotoxic drugs.
+Discontinue mesalamine if renal function deteriorates while on therapy [see Drug Interactions (7.1), Use in Specific Populations (8.6)].
 
 ## 5.2 Mesalamine-Induced Acute Intolerance Syndrome
 

@@ -74,4 +74,5 @@ Consider starting at the low end of the dosing range for induction in elderly pa
 
 Mesalamine is known to be substantially excreted by the kidney, and the risk of toxic reactions may be greater in patients with impaired renal function.
 Evaluate renal function in all patients prior to initiation and periodically while on mesalamine therapy.
-Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.1)].
+Monitor patients with known renal impairment or history of renal disease or taking nephrotoxic drugs for decreased renal function and mesalamine-related adverse reactions.
+Discontinue mesalamine if renal function deteriorates while on therapy [see Warnings and Precautions (5.1), Adverse Reactions (6.2), Drug Interactions (7.1)].
