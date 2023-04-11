@@ -40,6 +40,10 @@ Musculoskeletal and Connective Tissue Disorders
 
 Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors)
 
+Renal and Urinary Disorders
+
+Crystal nephropathy, crystalluria
+
 Skin and Subcutaneous Tissue Disorders
 
 Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.2)].
