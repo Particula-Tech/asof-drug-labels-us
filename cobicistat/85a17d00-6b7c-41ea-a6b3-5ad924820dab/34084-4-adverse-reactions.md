@@ -17,7 +17,7 @@ Clinical Trials in Adults
 
 Adverse Reactions in Adults with No Prior Antiretroviral Treatment History
 
-The safety profile of SYMTUZA in HIV-1 infected adults with no prior antiretroviral treatment history is based on Week 48 data from the AMBER trial, a randomized, double-blind, active-controlled trial where a total of 362 subjects received SYMTUZA once daily and 363 subjects received a combination of PREZCOBIX® (fixed-dose combination of darunavir and cobicistat) and fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate (FTC/TDF).
+The safety profile of SYMTUZA in HIV-1 infected adults with no prior antiretroviral treatment history is based on Week 48 data from the AMBER trial, a randomized, double-blind, active-controlled trial where a total of 362 subjects received SYMTUZA once daily and 363 subjects received a combination of PREZCOBIX ® (fixed-dose combination of darunavir and cobicistat) and fixed-dose combination of emtricitabine and tenofovir disoproxil fumarate (FTC/TDF).
 
 The proportion of subjects who discontinued treatment with SYMTUZA or PREZCOBIX+FTC/TDF due to adverse events, regardless of severity, were 2% and 4% respectively.
 
@@ -34,7 +34,7 @@ Table 1: Adverse Reactions Reported in ≥2% of HIV-1 Infected Adults With No Pr
 | --- | --- | --- | --- | --- |
 |  | SYMTUZA (N=362) |  | PREZCOBIX+FTC/TDF (N=363) |  |
 | Diarrhea | 9% | 2% | 11% | 2% |
-| RashIncludes pooled reported terms: dermatitis, dermatitis allergic, erythema, photosensitivity reaction, rash, rash generalized, rash macular, rash maculo-papular, rash morbilliform, rash pruritic, toxic skin eruption, urticaria | 8% | 4% | 7% | 5% |
+| Rash Includes pooled reported terms: dermatitis, dermatitis allergic, erythema, photosensitivity reaction, rash, rash generalized, rash macular, rash maculo-papular, rash morbilliform, rash pruritic, toxic skin eruption, urticaria | 8% | 4% | 7% | 5% |
 | Nausea | 6% | 1% | 10% | 3% |
 | Fatigue | 4% | 1% | 4% | 1% |
 | Headache | 3% | 1% | 2% | 1% |
@@ -95,11 +95,11 @@ Results were consistent in subjects receiving PREZCOBIX+FTC/TDF.
 
 Table 3: Lipid Values, Mean Change from Baseline, Reported in Adults With No Prior Antiretroviral Treatment History in AMBER (Week 48 Analysis)
 
-| NN corresponds to the number of subjects with paired values and not on a lipid-lowering agent at screening/baseline. Subjects on lipid-lowering agents at screening/baseline were excluded from the analysis (6 out of 362 subjects on SYMTUZA, 8 out of 363 subjects on PREZCOBIX+FTC/TDF). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (6 on SYMTUZA, 2 on PREZCOBIX+FTC/TDF). | N=304One subject did not have a Week 48 result for LDL cholesterol (n=303). |  | N=290 |  |
+| N N corresponds to the number of subjects with paired values and not on a lipid-lowering agent at screening/baseline. Subjects on lipid-lowering agents at screening/baseline were excluded from the analysis (6 out of 362 subjects on SYMTUZA, 8 out of 363 subjects on PREZCOBIX+FTC/TDF). Subjects initiating a lipid-lowering agent post-baseline had their last fasted on-treatment value (prior to starting the agent) carried forward (6 on SYMTUZA, 2 on PREZCOBIX+FTC/TDF). | N=304 One subject did not have a Week 48 result for LDL cholesterol (n=303). |  | N=290 |  |
 | --- | --- | --- | --- | --- |
 |  | SYMTUZA N=362 |  | PREZCOBIX+FTC/TDF N=363 |  |
 |  | Baseline | Week 48 | Baseline | Week 48 |
-| MeanThe change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values, or the last value carried forward prior to initiating lipid-lowering agent post-baseline. | mg/dL | Change | mg/dL | Change |
+| Mean The change from baseline is the mean of within-subject changes from baseline for subjects with both baseline and Week 48 values, or the last value carried forward prior to initiating lipid-lowering agent post-baseline. | mg/dL | Change | mg/dL | Change |
 | Total cholesterol | 168 | +30 | 164 | +11 |
 | HDL cholesterol | 45 | +6 | 44 | +2 |
 | LDL cholesterol | 100 | +19 | 98 | +5 |
@@ -154,16 +154,16 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Metabolism and Nutrition Disorders:
 
-redistribution of body fat
+Redistribution of body fat
 
 Musculoskeletal and Connective Tissue Disorders:
 
-rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors)
+Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors)
 
 Skin and Subcutaneous Tissue Disorders:
 
-toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
+Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
 
 Renal and Urinary Disorders:
 
-acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome [see Warnings and Precautions (5.6)]
+Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, Fanconi syndrome [see Warnings and Precautions (5.6)], crystal nephropathy, and crystalluria

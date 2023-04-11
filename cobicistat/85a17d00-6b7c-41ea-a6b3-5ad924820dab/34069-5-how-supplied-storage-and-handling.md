@@ -1,6 +1,6 @@
 # 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-SYMTUZA® (darunavir, cobicistat, emtricitabine, and tenofovir alafenamide) tablets are supplied as yellow to yellowish-brown, capsule-shaped, film-coated tablets debossed with "8121" on one side and "JG" on the other side.
+SYMTUZA ® (darunavir, cobicistat, emtricitabine, and tenofovir alafenamide) tablets are supplied as yellow to yellowish-brown, capsule-shaped, film-coated tablets debossed with "8121" on one side and "JG" on the other side.
 
 SYMTUZA is packaged in bottles of 30 tablets (NDC 59676-800-30), with a silica gel desiccant and child-resistant closure.
 
