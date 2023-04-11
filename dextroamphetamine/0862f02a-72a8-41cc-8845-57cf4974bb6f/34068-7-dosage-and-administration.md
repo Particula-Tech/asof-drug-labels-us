@@ -5,7 +5,7 @@
 Prior to initiating treatment with XELSTRYM, assess for the presence of cardiac disease (e.g., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see WARNINGS AND PRECAUTIONS (5.2)].
 
 Assess the risk of abuse prior to prescribing and monitor for signs of abuse and dependence while on therapy.
-Maintain careful prescription records, educate patients about abuse, monitor for signs for abuse and overdose, and periodically re-evaluate the need for XELSTRYM use [see WARNINGS AND PRECAUTIONS (5.1) and DRUG ABUSE AND DEPENDENCE (9)].
+Maintain careful prescription records, educate patients about abuse, monitor for signs of abuse and overdose, and periodically re-evaluate the need for XELSTRYM use [see WARNINGS AND PRECAUTIONS (5.1) and DRUG ABUSE AND DEPENDENCE (9)].
 
 ## 2.2 Recommended Dosage
 
@@ -17,7 +17,7 @@ Pediatric Patients 6 to 17 years
 Adults
 
 - Recommended starting dose of XELSTRYM in adults is 9 mg/9 hours.
-  Dosage may be adjusted up to a maximum dose of 18 mg/9 hours.
+  Dosage may be adjusted up to a maximum recommended dose of 18 mg/9 hours.
 
 Apply XELSTRYM to the application site 2 hours before an effect is needed and remove within 9 hours after application.
 Dose titration and final dosage should be individualized depending on clinical response and tolerability.
@@ -25,7 +25,7 @@ Dose titration and final dosage should be individualized depending on clinical r
 Pharmacological treatment of ADHD may be needed for an extended period.
 Periodically re-evaluate the long-term use of XELSTRYM and adjust dosage as needed.
 
-## 2.3 Important Application Instructions
+## 2.3 Important Administration Instructions
 
 - Apply one XELSTRYM transdermal system at a time for not more than 9 hours.
   Use only one XELSTRYM per 24 hours.
@@ -51,6 +51,8 @@ If the patient stops using the prescription, the patient should comply with loca
 ## 2.5 Switching from Other Amphetamine Products
 
 For patients switching from another medication or any other amphetamine product, discontinue that treatment, and titrate with XELSTRYM using the titration schedule [see DOSAGE AND ADMINISTRATION (2.2)].
+
+Do not substitute for other amphetamine products on a milligram-per-milligram basis because of different amphetamine base compositions and differing pharmacokinetic profiles [see CLINICAL PHARMACOLOGY (12.3)].
 
 ## 2.6 Dosage in Patients with Renal Impairment
 

@@ -2,14 +2,14 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-Controlled Substance Status/High Potential for Abuse and Dependence
+Controlled Substance Status/Potential for Abuse and Dependence
 
-Advise patients that XELSTRYM is a controlled substance and it can be abused and lead to dependence [see DRUG ABUSE AND DEPENDENCE (9.1, 9.2, and 9.3)].
+Advise patients that XELSTRYM is a federally controlled substance and it can be abused and lead to dependence [see DRUG ABUSE AND DEPENDENCE (9.1, 9.2, and 9.3)].
 Instruct patients that they should not give XELSTRYM to anyone else.
 Advise patients to store XELSTRYM in a safe place, preferably locked, to prevent abuse.
 Advise patients to comply with laws and regulations on drug disposal.
 Advise patients to dispose of remaining, unused or expired XELSTRYM through a medicine take-back program if available.
-If no take-back program or authorized collector is available, each unused patch should be removed from its individual pouch, separated from the protective liner, folded in half, and disposed of in the same manner as used patches [see WARNINGS AND PRECAUTIONS (5.1), DRUG ABUSE AND DEPENDENCE (9.2, 9.3), and HOW SUPPLIED/STORAGE AND HANDLING (16)].
+If no take-back program or authorized collector is available, each unused transdermal system should be removed from its individual pouch, separated from the protective liner, folded in half, and disposed of in the same manner as used transdermal systems [see WARNINGS AND PRECAUTIONS (5.1), DRUG ABUSE AND DEPENDENCE (9.2, 9.3), and HOW SUPPLIED/STORAGE AND HANDLING (16)].
 
 Serious Cardiovascular Risks
 
@@ -22,7 +22,7 @@ Advise patients that XELSTRYM can elevate blood pressure and heart rate [WARNING
 
 Psychiatric Risks
 
-Advise patients that XELSTRYM, at recommended doses, may cause psychotic or manic symptoms even in patients without prior history of psychotic symptoms or mania [WARNINGS AND PRECAUTIONS (5.4)].
+Advise patients that XELSTRYM, at recommended doses, can cause psychotic or manic symptoms, even in patients without prior history of psychotic symptoms or mania [WARNINGS AND PRECAUTIONS (5.4)].
 
 Suppression of Growth
 
@@ -74,7 +74,7 @@ Impairment in Ability to Operate Machinery or Vehicles
 XELSTRYM may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicles.
 Instruct patients to find out how XELSTRYM will affect them before engaging in potentially hazardous activities [see ADVERSE REACTIONS (6.1, 6.2)].
 
-Use Instructions
+Administration Instructions
 
 Inform patients/caregivers:
 
@@ -84,7 +84,7 @@ Inform patients/caregivers:
 - to apply XELSTRYM to clean, dry, and intact skin.
 - to wash their hands immediately if they touch the adhesive side of the transdermal system to avoid amphetamine absorption and to check XELSTRYM periodically throughout the wear time [see DOSAGE AND ADMINISTRATION (2.3)].
 
-Advise patients/caregivers to follow recommendations for discarding used and unused XELSTRYM [see DOSAGE AND ADMINISTRATION (2.3)].
+Advise patients/caregivers to follow recommendations for discarding used and unused XELSTRYM [see DOSAGE AND ADMINISTRATION (2.4)].
 
 Manufactured by: Noven Pharmaceuticals, Inc., Miami, FL 33186 For more information, go to www.xelstrym.com or call 1-800-455-8070.
 XelstrymTM is a trademark of Noven Therapeutics, LLC. © 2022 Noven Pharmaceuticals, Inc. 102668-1

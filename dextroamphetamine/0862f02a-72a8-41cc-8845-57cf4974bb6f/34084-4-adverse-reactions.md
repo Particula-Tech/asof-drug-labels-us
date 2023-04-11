@@ -26,9 +26,9 @@ The safety data are from a 7-week study including a 5-week open-label dose optim
 
 Adverse Reactions Leading to Discontinuation of Treatment
 
-In the dose optimization phase (no placebo comparator in this phase) 2.7% (3/110) of patients treated with XELSTRYM discontinued due to adverse reactions.
+In the dose-optimization phase (no placebo comparator in this phase), 2.7% (3/110) of patients treated with XELSTRYM discontinued due to adverse reactions.
 These adverse reactions reported in one patient each were abdominal pain (0.9%), irritability (0.9%) and decreased appetite (0.9%).
-There were no discontinuations due to adverse reactions in XELSTRYM and placebo groups during the double blind phase.
+There were no discontinuations due to adverse reactions during the double-blind phase.
 
 Adverse Reactions Occurring at an Incidence of 5% or More in XELSTRYM Treated Pediatric Patients Ages 6 to 17 Years During Dose-optimized Treatment
 
@@ -91,7 +91,7 @@ Table 2: Summary Application Site Reactions During the Double-Blind Phase
 | Reported in patient diaries | 64/103 (62%) | 41/105 (39%) |
 | Reported at Clinic assessments | 97/103 (94%) | 55/101 (54%) |
 
-Weight Loss and Slowing Growth Rate in Pediatric Patients with ADHD
+Weight Loss and Slowing Growth Rate
 
 In a 7-week trial of XELSTRYM with a 5-week dose optimization phase and a 2-week crossover placebo-controlled phase in pediatric patients ages 6 to 17 years, patients had a mean weight loss from baseline of -3.1 pounds after 5 weeks of XELSTRYM.
 

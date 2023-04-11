@@ -7,7 +7,7 @@ XELSTRYM transdermal system (patch) is for use on skin only.
 
 Read this Instructions for Use before you start using XELSTRYM and each time you get a refill.
 There may be new information.
-This information does not take the place of talking to your healthcare provider about your medical treatment or condition.
+This information does not take the place of talking to your healthcare provider about your or your child’s medical condition or treatment.
 
 XELSTRYM is supplied in cartons containing 30 patches.
 Each patch is sealed in a pouch protecting it until you are ready to apply it.
@@ -20,15 +20,15 @@ Important information you need to know before applying XELSTRYM:
   Use only 1 patch per day (per 24 hours).
 - When you apply a new patch, choose a different application site from the one used the previous day to reduce the chance of skin reactions such as irritation, discomfort or pain at the application site.
 - Avoid touching the sticky side of XELSTRYM with your fingers.
-  If you accidentally touch the sticky side of the patch, wash your hands right away with soap and water to remove any potential medication that may have stuck to your fingers.
+  If you accidentally touch the sticky side of the patch, wash your hands right away with soap and water to remove any potential medicine that may have stuck to your fingers.
   Do not use hand sanitizer in place of soap and water.
 - Avoid exposing the application site to direct external heat sources, such as heating pads or electric blankets, heat lamps, saunas, hot tubs, heated water beds, and hair dryers.
-- Check to see if your patch has become loose after bathing, showering or swiming.
+- Check to see if the patch has become loose after bathing, showering or swimming.
 - If the patch falls off:
   - Do not reapply the same patch.
     Fold the patch in half so that the sticky sides are together and throw away the patch as instructed below in Steps 5 to 7.
   - You should choose a different application site and apply a new patch.
-  - The total wear time for the first patch that fell off and second replacement patch should not total more than 9 hours in 1 day (24 hours).
+  - The total wear time for the first patch that fell off and the second replacement patch should not total more than 9 hours in 1 day (24 hours).
   - Parents or caregivers of children prescribed XELSTRYM should instruct the child to tell an adult if the patch becomes loose or falls off.
 
 Figure A (not to scale)
@@ -44,7 +44,7 @@ Applying XELSTRYM:
 | Wash your hands with soap and water after applying the patch (see Figure J). Do not use hand sanitizer in place of soap and water. | Figure J |  |
 | Step 4: Check XELSTRYM regularly during the day to make sure it is completely sticking to the application site. Also check the patch when: |  |  |
 | using the bathroomafter sleepingafter bathing, showering or swimming | undressing or changing clothesif sweating a lot |  |
-| If patch edges lift, smooth the patch down on the skin and press firmly with the palm of your hand. XELSTRYM patch should not be reapplied with dressings, tape, or other adhesives. If the patch falls off, do not reapply the same patch. Fold the patch in half so the sticky sides are together and throw away the patch as instructed below in Steps 5 to 7. You may apply a new patch to a different application site. The total wear time for the first patch that fell off and the second replacement patch should not be more than a total of 9 hours in 1 day (24 hours).Parents or caregivers of children prescribed XELSTRYM should instruct the child to tell an adult if the patch becomes loose or falls off. |  |  |
+| If patch edges lift, smooth the patch down on the skin and press firmly with the palm of your hand. XELSTRYM patch should not be reapplied with dressings, tape, or other adhesives. If the patch falls off, do not reapply the same patch. Fold the patch in half so that the sticky sides are together and throw away the patch as instructed below in Steps 5 to 7. You may apply a new patch to a different application site. The total wear time for the first patch that fell off and the second replacement patch should not be more than a total of 9 hours in 1 day (24 hours).Parents or caregivers of children prescribed XELSTRYM should instruct the child to tell an adult if the patch becomes loose or falls off. |  |  |
 
 XELSTRYM Application Schedule for 9 Hour Wear Time:
 
@@ -60,10 +60,10 @@ XELSTRYM Application Schedule for 9 Hour Wear Time:
 
 Removing and Disposing Used XELSTRYM:
 
-| Step 5: After 9 hours, remove XELSTRYM and fold it in half so that the sticky sides stick together (see Figure K) to avoid accidental exposure to medication. If any adhesive (glue) remains on your skin after you remove the patch, apply an oil-based product or water and soap to the skin to remove the glue. | Figure K |
+| Step 5: After 9 hours, remove XELSTRYM and fold it in half so that the sticky sides stick together (see Figure K) to avoid accidental exposure to mnedicine. If any adhesive (glue) remains on your skin after you remove the patch, apply an oil-based product or water and soap to the skin to remove the glue. | Figure K |
 | --- | --- |
 | Step 6: Throw away the used patch in a container with a lid right away (see Figure L). | Figure L |
 | Step 7: Wash your hands with soap and water after throwing the patch away (see Figure M). Do not use hand sanitizer in place of soap and water. | Figure M |
-| Storing XELSTRYM Store XELSTRYM at room temperature between 68° F to 77°F (20°C to 25°C). Store XELSTRYM in a safe place, like a locked cabinet. Protect XELSTRYM from light and moisture.Keep XELSTRYM in their unopened pouches until you are ready to use them. Keep XELSTRYM and all medicines out of the reach of children and pets. |  |
+| Storing XELSTRYM Store XELSTRYM at room temperature between 68°F to 77°F (20°C to 25°C). Store XELSTRYM in a safe place, like a locked cabinet. Protect XELSTRYM from light and moisture.Keep XELSTRYM in their unopened pouches until you are ready to use them. Keep XELSTRYM and all medicines out of the reach of children. |  |
 | Disposing of Unused XELSTRYM:Dispose of remaining unused or expired XELSTRYM by a medication take-back program at authorized collection sites such as retail pharmacies, hospital or clinic pharmacies, and law enforcement locations. If no take-back program or authorized collector is available, each unused patch should be removed from its individual pouch, separated from the protective liner, folded in half, and thrown away (disposed of) in the same manner as used patches. |  |
 | This Instructions for Use has been approved by the U.S. Food and Drug Administration. © 2022 Noven Pharmaceuticals, Inc. 102668-1 | Revised: 11/2022 |

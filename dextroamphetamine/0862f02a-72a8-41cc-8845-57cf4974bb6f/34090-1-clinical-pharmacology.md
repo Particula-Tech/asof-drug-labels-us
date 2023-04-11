@@ -24,23 +24,23 @@ After multiple dosing of 18 mg/9 hours of XELSTRYM with application site rotatio
 
 Absorption
 
-The amount of amphetamine absorbed systemically is a function of both wear time and transdermal system size.
-Peak plasma levels of dextroamphetamine were typically reached at 6 to 9 hours after single application and 6 hours after repeat application of XELSTRYM when worn up to 9 hours.
+The amount of dextroamphetamine absorbed systemically is a function of both wear time and transdermal system size.
+Peak plasma levels of dextroamphetamine were typically reached at 6 to 9 hours after single application and 6 hours after repeat applications of XELSTRYM when worn up to 9 hours.
 
 On average, approximately 90% of dextroamphetamine is delivered from the transdermal system over 9 hours.
-Inter-individual variability for XELSTRYM as coefficient of variation (%CV) for the amphetamine Cmax and AUC was generally about 20% to 30%.
+Inter-individual variability for XELSTRYM as coefficient of variation (%CV) for the dextroamphetamine Cmax and AUC was generally about 20% to 30%.
 
-After repeat applications of XELSTRYM for 4 weeks in adults with ADHD, there was 46% increase in Cmax and 54% increase in AUC0-24 when applied with rotating application sites for each patch.
+After repeat applications of XELSTRYM for 4 weeks in adults with ADHD, there was 46% increase in Cmax and 54% increase in AUC0-24 when applied with rotating application sites for each transdermal system.
 There was 86% increase in Cmax and 104% increase in AUC0-24 when XELSTRYM was applied on the same site for 28 days.
 
 Application of a heating pad on XELSTRYM for 6 consecutive hours led to a faster absorption rate (median Tmax about 6.5 hours) as compared with XELSTRYM without a heating pad (median Tmax about 8.5 hours).
-Geometric LS mean ratios for dextroamphetamine exposure, calculated as Cmax and AUC0-9h, were about 116% and 150%, respectively, compared with XELSTRYM without a heating pad, indicating the apparent heat effect on dextroamphetamine absorption.
+Geometric least square mean ratios for dextroamphetamine exposure, calculated as Cmax and AUC0-9h, were about 116% and 150%, respectively, compared with XELSTRYM without a heating pad, indicating the apparent heat effect on dextroamphetamine absorption.
 
 The application of XELSTYRM to different sites (hip, upper arm, chest, upper back and flank) did not alter dextroamphetamine PK.
 
 Elimination
 
-When XELSTRYM is removed after 9 hours wear time, the mean apparent elimination half-life of amphetamine ranged from 6.4 to 11.5 hours in the pediatric and adult population, respectively.
+When XELSTRYM is removed after 9 hours wear time, the mean apparent elimination half-life of dextroamphetamine ranged from 6.4 to 11.5 hours in the pediatric and adult population, respectively.
 
 Metabolism
 
@@ -57,7 +57,7 @@ Since amphetamine has a pKa of 9.9, urinary recovery of amphetamine is highly de
 Alkaline urine pHs result in less ionization and reduced renal elimination, and acidic pHs and high flow rates result in increased renal elimination with clearances greater than glomerular filtration rates, indicating the involvement of active secretion.
 Urinary recovery of amphetamine has been reported to range from 1% to 75%, depending on urinary pH, with the remaining fraction of the dose hepatically metabolized.
 Consequently, both hepatic and renal dysfunction have the potential to inhibit the elimination of amphetamine and result in prolonged exposures.
-In addition, drugs that effect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see DRUG INTERACTIONS (7)].
+In addition, drugs that affect urinary pH are known to alter the elimination of amphetamine, and any decrease in amphetamine's metabolism that might occur due to drug interactions or genetic polymorphisms is more likely to be clinically significant when renal elimination is decreased [see DRUG INTERACTIONS (7)].
 
 Specific Populations
 

@@ -38,6 +38,11 @@ In a pooled analysis of multiple short-term, placebo-controlled studies of CNS s
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in pediatric patients treated with CNS stimulants, including XELSTRYM.
+In a 7-week trial with a dose-optimization phase and a placebo-controlled phase of XELSTRYM in pediatric patients 6 to 17 years old with ADHD, there was a mean decrease in weight while taking XELSTRYM.
+Additionally, in studies of another CNS stimulant, there was slowing of the increase in height [see ADVERSE REACTIONS (6.1)].
+
+Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
+XELSTRYM is not approved for use in pediatric patients below 6 years of age [see USE IN SPECIFIC POPULATIONS (8.4)].
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud’s Phenomenon
 
@@ -59,7 +64,7 @@ Serotonin syndrome symptoms may include mental status changes (e.g., agitation, 
 Concomitant use of XELSTRYM with MAOI drugs is contraindicated [see CONTRAINDICATIONS (4)].
 
 Discontinue treatment with XELSTRYM and any concomitant serotonergic agents immediately if symptoms of serotonin syndrome occur, and initiate supportive symptomatic treatment.
-If concomitant use of XELSTRYM with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate XELSTRYM with lower doses, monitoring patients for the emergence of serotonin syndrome during drug initiation or titration, and informing patients of the increased risk for serotonin syndrome.
+If concomitant use of XELSTRYM with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate XELSTRYM with lower doses, monitoring patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
 
 ## 5.8 Contact Sensitization
 
@@ -78,7 +83,7 @@ It is possible that some patients sensitized to amphetamine by exposure to XELST
 
 ## 5.9 Application Site Reactions
 
-Local skin reactions, such as pain, pruritus, burning sensation, erythema, discomfort, edema, or swelling were reported during the wear time or immediately after removal XELSTRYM [see ADVERSE REACTIONS (6.1)].
+Local skin reactions, such as pain, pruritus, burning sensation, erythema, discomfort, edema, and/or swelling were reported during the wear time or immediately after removal of XELSTRYM [see ADVERSE REACTIONS (6.1)].
 Patients who experienced discomfort and/or pain during the wear time reported resolution within 2 to 4 hours after application.
 
 The potential for application site reactions and increased skin irritation, discomfort or pain may occur with XELSTRYM if the same application site is used repeatedly.

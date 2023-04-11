@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to XELSTRYM during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including XELSTRYM, during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/adhd-medications/.
 
 Risk Summary
@@ -75,7 +75,7 @@ Growth should be monitored during treatment with stimulants, including XELSTRYM,
 Juvenile Animal Data
 
 Juvenile rats treated with mixed amphetamine salts early in the postnatal period through sexual maturation demonstrated transient changes in motor activity.
-Learning and memory was impaired.
+Learning and memory were impaired.
 No recovery was seen following a drug free period.
 A delay in sexual maturation was observed, although there was no effect on fertility.
 
