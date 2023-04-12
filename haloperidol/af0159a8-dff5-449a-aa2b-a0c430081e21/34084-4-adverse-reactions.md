@@ -40,7 +40,7 @@ Adverse Reactions Reported by ≥1% of Haloperidol Decanoate-treated Patients in
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 2.8 | 0 |
 | Nervous System Disorders |  |  |
-| Extrapyramidal disorderPrecise incidence for extrapyramidal disorder cannot be determined; reporting rates of some individual symptoms of extrapyramidal disorder are lower for haloperidol decanoate than for the active comparator, but the terms are included here because the events are considered associated with the drug: |  |  |
+| Extrapyramidal disorder Precise incidence for extrapyramidal disorder cannot be determined; reporting rates of some individual symptoms of extrapyramidal disorder are lower for haloperidol decanoate than for the active comparator, but the terms are included here because the events are considered associated with the drug: |  |  |
 | Parkinsonism | 30.6 | 44.4 |
 | Oculogyric crisis | 5.6 | 0 |
 | Akinesia | 2.8 | 22.2 |

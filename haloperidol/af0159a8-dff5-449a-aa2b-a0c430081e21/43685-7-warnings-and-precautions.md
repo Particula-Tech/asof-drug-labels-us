@@ -103,7 +103,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of HALDOL decanoate should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue HALDOL decanoate and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue HALDOL decanoate and have their WBC followed until recovery.
 
 ## Other
 
@@ -200,9 +200,9 @@ The available cytogenetic evidence is considered too inconsistent to be conclusi
 Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
 In the rat study survival was reduced in all dose groups, decreasing the number of rats at risk for developing tumors.
 However, a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals.
-Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to approximately 2.5 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m2 body surface area.
+Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to approximately 2.5 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m 2 body surface area.
 
-In female micethere was a statistically significant increase in mammary gland neoplasia and total tumor incidence at doses approximately 0.3 and 1.2 times the MRHD based on mg/m2 body surface area and there was a statistically significant increase in pituitary gland neoplasia at approximately 1.2 times the MRHD In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
+In female micethere was a statistically significant increase in mammary gland neoplasia and total tumor incidence at doses approximately 0.3 and 1.2 times the MRHD based on mg/m 2 body surface area and there was a statistically significant increase in pituitary gland neoplasia at approximately 1.2 times the MRHD In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
 
 Antipsychotic drugs elevate prolactin levels; the elevation persists during chronic administration.
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.
@@ -213,10 +213,10 @@ Neither clinical studies nor epidemiologic studies conducted to date, however, h
 
 ## Usage in Pregnancy
 
-Rats or rabbits administered oral haloperidol at doses of 0.5 to 7.5 mg/kg, which are approximately 0.2 to 7 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m2 body surface area. showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
+Rats or rabbits administered oral haloperidol at doses of 0.5 to 7.5 mg/kg, which are approximately 0.2 to 7 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m 2 body surface area. showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
 No fetal abnormalities were observed at these doses in rats or rabbits.
 
-Cleft palate has been observed in mice administered oral haloperidol at a dose of 0.5 mg/kg, which is approximately 0.1 times the MRHD based on mg/m2 body surface area.
+Cleft palate has been observed in mice administered oral haloperidol at a dose of 0.5 mg/kg, which is approximately 0.1 times the MRHD based on mg/m 2 body surface area.
 
 There are no adequate and well-controlled studies in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of HALDOL along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.

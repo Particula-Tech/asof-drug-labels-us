@@ -4,7 +4,7 @@ NDC 50458-253-03
 
 IM Use Only
 
-Haldol® (HALOPERIDOL) Decanoate 50
+Haldol ® (HALOPERIDOL) Decanoate 50
 
 50 INJECTION 50 mg/mL*
 
@@ -37,7 +37,7 @@ NDC 50458-254-14
 
 IM Use Only
 
-Haldol® (HALOPERIDOL) Decanoate 100
+Haldol ® (HALOPERIDOL) Decanoate 100
 
 100 INJECTION 100 mg/mL*
 
