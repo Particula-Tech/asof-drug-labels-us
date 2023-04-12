@@ -8,8 +8,8 @@ The needle shield is made of a dry natural rubber containing latex.
 | 50 mg/0.5 mL single-dose prefilled syringe | 1 pack | NDC 57894-070-01 |
 | --- | --- | --- |
 | 100 mg/mL single-dose prefilled syringe | 1 pack | NDC 57894-071-01 |
-| 50 mg/0.5 mL single-dose prefilled SmartJect® autoinjector | 1 pack | NDC 57894-070-02 |
-| 100 mg/mL single-dose prefilled SmartJect® autoinjector | 1 pack | NDC 57894-071-02 |
+| 50 mg/0.5 mL single-dose prefilled SmartJect ® autoinjector | 1 pack | NDC 57894-070-02 |
+| 100 mg/mL single-dose prefilled SmartJect ® autoinjector | 1 pack | NDC 57894-071-02 |
 
 Storage and Handling
 

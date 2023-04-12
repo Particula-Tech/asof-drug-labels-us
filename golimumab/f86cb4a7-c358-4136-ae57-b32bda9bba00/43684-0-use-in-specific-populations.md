@@ -35,7 +35,7 @@ In an embryofetal developmental toxicology study in which pregnant cynomolgus mo
 There was no evidence of maternal toxicity.
 Umbilical cord blood samples collected at the end of the second trimester showed that fetuses were exposed to golimumab during gestation.
 
-In a pre- and postnatal developmental study in which pregnant cynomolgus monkeys were treated with golimumab from gestation day 50 to postpartum day 33, maximal drug concentrations approximately 460 times greater than that found with the MRHD (on a maximum blood concentration (Cmax) basis at steady-state with maternal subcutaneous doses up to 50 mg/kg twice weekly) were not associated with any evidence of developmental defects in infants.
+In a pre- and postnatal developmental study in which pregnant cynomolgus monkeys were treated with golimumab from gestation day 50 to postpartum day 33, maximal drug concentrations approximately 460 times greater than that found with the MRHD (on a maximum blood concentration (C max) basis at steady-state with maternal subcutaneous doses up to 50 mg/kg twice weekly) were not associated with any evidence of developmental defects in infants.
 There was no evidence of maternal toxicity.
 Golimumab was present in fetal serum at the end of the second trimester and in neonatal serum from the time of birth and for up to 6 months postpartum.
 
@@ -61,8 +61,8 @@ Effectiveness of SIMPONI in pediatric patients less than 18 years of age has not
 The safety and efficacy of SIMPONI were evaluated in a multicenter, placebo-controlled, double-blind, randomized-withdrawal, parallel group study in 173 children (2 to 17 years of age) with active polyarticular juvenile idiopathic arthritis (pJIA) despite treatment with MTX for at least 3 months.
 Subjects were maintained on their stable dose of MTX at the same dose (mg/week) at study entry.
 Concurrent use of stable doses of oral corticosteroids (≤10 mg/day or 0.2 mg/kg/day prednisone or equivalent, whichever was less) and/or NSAIDs was permitted.
-In the 16 week open-label phase, all patients received MTX and SIMPONI 30 mg/m2 (maximum 50 mg) subcutaneously every 4 weeks.
-Patients who achieved an ACR Ped 30 response at Week 16 entered the randomized-withdrawal phase of the study and received MTX and either SIMPONI 30 mg/m2 (maximum 50 mg) or placebo every 4 weeks through Week 48.
+In the 16 week open-label phase, all patients received MTX and SIMPONI 30 mg/m 2 (maximum 50 mg) subcutaneously every 4 weeks.
+Patients who achieved an ACR Ped 30 response at Week 16 entered the randomized-withdrawal phase of the study and received MTX and either SIMPONI 30 mg/m 2 (maximum 50 mg) or placebo every 4 weeks through Week 48.
 
 The primary endpoint of the study was the proportion of patients who did not experience a flare between Week 16 and Week 48, among all subjects who entered the randomized withdrawal phase.
 The efficacy of SIMPONI in the treatment of pJIA was not demonstrated in this study because there was no statistical evidence of differences in flare rate between SIMPONI-treated patients and placebo patients between Weeks 16 and 48.

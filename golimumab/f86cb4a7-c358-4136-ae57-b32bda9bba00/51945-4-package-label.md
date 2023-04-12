@@ -15,7 +15,7 @@ This Product Contains Dry Natural Rubber.
 
 Rx only.
 
-Simponi® golimumab
+Simponi ® golimumab
 
 50 mg / 0.5 mL
 
@@ -27,7 +27,7 @@ NDC 57894-070-02
 
 FOR SUBCUTANEOUS INJECTION
 
-Sterile solution in a single-dose SmartJect® autoinjector.
+Sterile solution in a single-dose SmartJect ® autoinjector.
 
 Discard unused portion.
 
@@ -39,11 +39,11 @@ This Product Contains Dry Natural Rubber.
 
 Rx only.
 
-Simponi® golimumab
+Simponi ® golimumab
 
 50 mg / 0.5 mL
 
-One single-dose SmartJect® autoinjector
+One single-dose SmartJect ® autoinjector
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/mL Syringe Carton
 
@@ -62,7 +62,7 @@ This Product Contains Dry Natural Rubber.
 
 Rx only.
 
-Simponi® golimumab
+Simponi ® golimumab
 
 100 mg/mL
 
@@ -74,7 +74,7 @@ NDC 57894-071-02
 
 FOR SUBCUTANEOUS INJECTION
 
-Sterile solution in a single-dose SmartJect® autoinjector.
+Sterile solution in a single-dose SmartJect ® autoinjector.
 
 Discard unused portion.
 
@@ -86,8 +86,8 @@ This Product Contains Dry Natural Rubber.
 
 Rx only.
 
-Simponi® golimumab
+Simponi ® golimumab
 
 100 mg/mL
 
-One single-dose SmartJect® autoinjector
+One single-dose SmartJect ® autoinjector

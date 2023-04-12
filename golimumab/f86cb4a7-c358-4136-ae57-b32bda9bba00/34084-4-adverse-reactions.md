@@ -62,7 +62,7 @@ Other Adverse Reactions
 
 Table 1 summarizes the adverse drug reactions that occurred at a rate of at least 1% in the SIMPONI ± DMARD group and with a higher incidence than in the placebo ± DMARD group during the controlled period of the 5 pooled Phase 3 trials through Week 16 in patients with RA, PsA, and AS.
 
-Table 1: Adverse Drug Reactions Reported by ≥ 1% of SIMPONI-Treated Patients and With a Higher Incidence Than Placebo-Treated Patients in the Phase 3 Trials of RA, PsA, and AS through Week 16Patients may have taken concomitant MTX, sulfasalazine, hydroxychloroquine, low dose corticosteroids (≤ 10 mg of prednisone/day or equivalent), and/or NSAIDs during the trials).
+Table 1: Adverse Drug Reactions Reported by ≥ 1% of SIMPONI-Treated Patients and With a Higher Incidence Than Placebo-Treated Patients in the Phase 3 Trials of RA, PsA, and AS through Week 16 Patients may have taken concomitant MTX, sulfasalazine, hydroxychloroquine, low dose corticosteroids (≤ 10 mg of prednisone/day or equivalent), and/or NSAIDs during the trials).
 
 |  | SIMPONI ± DMARDs | Placebo ± DMARDs |
 | --- | --- | --- |

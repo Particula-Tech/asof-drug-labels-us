@@ -20,10 +20,10 @@ In clinical trials, decreases in C-reactive protein (CRP), interleukin (IL)-6, m
 
 Absorption
 
-Following subcutaneous administration of SIMPONI to healthy subjects and patients with active RA, the median time to reach maximum serum concentrations (Tmax) ranged from 2 to 6 days.
-A subcutaneous injection of 50-mg SIMPONI to healthy subjects produced a mean ± standard deviation maximum serum concentration (Cmax) of 3.2 ± 1.4 mcg/mL.
+Following subcutaneous administration of SIMPONI to healthy subjects and patients with active RA, the median time to reach maximum serum concentrations (T max) ranged from 2 to 6 days.
+A subcutaneous injection of 50-mg SIMPONI to healthy subjects produced a mean ± standard deviation maximum serum concentration (C max) of 3.2 ± 1.4 mcg/mL.
 
-By cross-trial comparisons of mean AUCinf values following an IV or subcutaneous administration of SIMPONI, the absolute bioavailability of subcutaneous SIMPONI was estimated to be approximately 53%.
+By cross-trial comparisons of mean AUC inf values following an IV or subcutaneous administration of SIMPONI, the absolute bioavailability of subcutaneous SIMPONI was estimated to be approximately 53%.
 
 Distribution
 

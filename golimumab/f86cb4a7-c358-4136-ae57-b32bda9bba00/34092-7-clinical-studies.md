@@ -39,27 +39,27 @@ Table 3 shows the percent improvement in the components of the ACR response crit
 The percentage of patients achieving ACR 20 responses by visit for Trial RA-2 is shown in Figure 1.
 ACR 20 responses were observed in 38% of patients in the SIMPONI 50-mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
 
-Table 2: Trials RA-1, RA-2, and RA-3 Proportion of Patients with an ACR ResponseApproximately 78% and 58% of the patients received concomitant NSAIDs and low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), respectively, during the 3 pooled RA trials.
+Table 2: Trials RA-1, RA-2, and RA-3 Proportion of Patients with an ACR Response Approximately 78% and 58% of the patients received concomitant NSAIDs and low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), respectively, during the 3 pooled RA trials.
 
-|  | Placebo ± DMARDsDMARDs in Trial RA-1 included MTX, HCQ, and/or SSZ (about 68%, 8%, and 5% of patients received MTX, HCQ, and SSZ, respectively). | SIMPONI 50 mg ± DMARDs | Background MTX | SIMPONI 50 mg + Background MTX | MTX | SIMPONI 50 mg + MTX |
+|  | Placebo ± DMARDs DMARDs in Trial RA-1 included MTX, HCQ, and/or SSZ (about 68%, 8%, and 5% of patients received MTX, HCQ, and SSZ, respectively). | SIMPONI 50 mg ± DMARDs | Background MTX | SIMPONI 50 mg + Background MTX | MTX | SIMPONI 50 mg + MTX |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Trial RA-1 Active RA previously treated with one or more doses of TNF blockers |  | Trial RA-2 Active RA, despite MTX |  | Trial RA-3 Active RA, MTX Naïve |  |
-| NN reflects randomized patients. | 150 | 147 | 133 | 89 | 160 | 159 |
+| N N reflects randomized patients. | 150 | 147 | 133 | 89 | 160 | 159 |
 | ACR 20 |  |  |  |  |  |  |
-| Week 14 | 18% | 35% | 33% | 55% | NANA = Not applicable, as data was not collected at Week 14 in Trial RA-3. | NA |
+| Week 14 | 18% | 35% | 33% | 55% | NA NA = Not applicable, as data was not collected at Week 14 in Trial RA-3. | NA |
 | Week 24 | 16% | 31% | 28% | 60% | 49% | 62% |
 | ACR 50 |  |  |  |  |  |  |
 | Week 14 | 7% | 15% | 10% | 35% | NA | NA |
 | Week 24 | 4% | 16% | 14% | 37% | 29% | 40% |
 | ACR 70 |  |  |  |  |  |  |
 | Week 14 | 2% | 10% | 4% | 13% | NA | NA |
-| Week 24 | 2% | 9% | 5% | 20% | 16% | 24%Not significantly different from MTX monotherapy. |
+| Week 24 | 2% | 9% | 5% | 20% | 16% | 24% Not significantly different from MTX monotherapy. |
 
-Table 3: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individual ACR Components at Week 14In Trial RA-2, about 70% and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
+Table 3: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individual ACR Components at Week 14 In Trial RA-2, about 70% and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
 
 |  | Background MTX | SIMPONI 50 mg + Background MTX |
 | --- | --- | --- |
-| NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary. | 133 | 89 |
+| N N reflects randomized patients; actual number of patients evaluable for each endpoint may vary. | 133 | 89 |
 | Number of swollen joints (0–66) |  |  |
 | Baseline | 12 | 13 |
 | Week 14 | 38% | 62% |
@@ -83,7 +83,7 @@ Table 3: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individu
 | Week 14 | 2% | 44% |
 | Note: Baseline values are medians. |  |  |
 
-| Figure 1: Trial RA-2 – Percentage of Patients Achieving ACR 20 Response by Visit: Randomized PatientsThe same patients may not have responded at each timepoint. |
+| Figure 1: Trial RA-2 – Percentage of Patients Achieving ACR 20 Response by Visit: Randomized Patients The same patients may not have responded at each timepoint. |
 | --- |
 
 Physical Function Response in Patients with RA
@@ -121,9 +121,9 @@ ACR 20 responses were observed in 31% of patients in the SIMPONI 50-mg + MTX gro
 
 Table 4: Trial PsA - Proportion of Patients with ACR Responses
 
-|  | Placebo ± MTXIn Trial PsA, about 48%, 16%, and 72% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
+|  | Placebo ± MTX In Trial PsA, about 48%, 16%, and 72% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
 | --- | --- | --- |
-| NN reflects randomized patients. | 113 | 146 |
+| N N reflects randomized patients. | 113 | 146 |
 | ACR 20 |  |  |
 | Week 14 | 9% | 51% |
 | Week 24 | 12% | 52% |
@@ -137,9 +137,9 @@ Table 4: Trial PsA - Proportion of Patients with ACR Responses
 
 Table 5: Trial PsA - Percent Improvement in ACR Components at Week 14
 
-|  | Placebo ± MTXIn Trial PsA, about 48%, 16%, and 78% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
+|  | Placebo ± MTX In Trial PsA, about 48%, 16%, and 78% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
 | --- | --- | --- |
-| NN reflects randomized patients; actual number of patients evaluable for each endpoint may vary by timepoint. | 113 | 146 |
+| N N reflects randomized patients; actual number of patients evaluable for each endpoint may vary by timepoint. | 113 | 146 |
 | Number of swollen joints (0–66) |  |  |
 | Baseline | 10.0 | 11.0 |
 | Week 14 | 8% | 60% |
@@ -163,7 +163,7 @@ Table 5: Trial PsA - Percent Improvement in ACR Components at Week 14
 | Week 14 | 0% | 40% |
 | Note: Baseline are median values. |  |  |
 
-| Figure 2: Trial PsA – Percentage of ACR 20 PsA Responders by Visit: Randomized PatientsThe same patients may not have responded at each timepoint. |
+| Figure 2: Trial PsA – Percentage of ACR 20 PsA Responders by Visit: Randomized Patients The same patients may not have responded at each timepoint. |
 | --- |
 
 Physical Function Response in Patients with PsA
@@ -197,9 +197,9 @@ ASAS 20 responses were observed in 48% of patients in the SIMPONI 50-mg + MTX gr
 
 Table 6: Trial AS – Proportion of ASAS Responders at Weeks 14 and 24
 
-|  | Placebo ± DMARDsDuring the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
+|  | Placebo ± DMARDs During the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
 | --- | --- | --- |
-| NN reflects randomized patients. | 78 | 138 |
+| N N reflects randomized patients. | 78 | 138 |
 | Responders, % of patients |  |  |
 | ASAS 20 |  |  |
 | Week 14 | 22% | 59% |
@@ -211,9 +211,9 @@ Table 6: Trial AS – Proportion of ASAS Responders at Weeks 14 and 24
 
 Table 7: Trial AS ─ Median Percent Improvement in ASAS Components at Week 14
 
-|  | Placebo ± DMARDsDuring the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
+|  | Placebo ± DMARDs During the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
 | --- | --- | --- |
-| NN reflects randomized patients. | 78 | 138 |
+| N N reflects randomized patients. | 78 | 138 |
 | ASAS components |  |  |
 | Patient global assessment (0–10) |  |  |
 | Baseline | 7.2 | 7.0 |
@@ -221,14 +221,14 @@ Table 7: Trial AS ─ Median Percent Improvement in ASAS Components at Week 14
 | Total back pain (0–10) |  |  |
 | Baseline | 7.6 | 7.5 |
 | Week 14 | 9% | 50% |
-| BASFI (0–10)BASFI is Bath Ankylosing Spondylitis Functional Index. |  |  |
+| BASFI (0–10) BASFI is Bath Ankylosing Spondylitis Functional Index. |  |  |
 | Baseline | 4.9 | 5.0 |
 | Week 14 | -3% | 37% |
-| Inflammation (0–10)Inflammation is the mean of 2 patient-reported stiffness self-assessments in the Bath AS Disease Activity Index (BASDAI). |  |  |
+| Inflammation (0–10) Inflammation is the mean of 2 patient-reported stiffness self-assessments in the Bath AS Disease Activity Index (BASDAI). |  |  |
 | Baseline | 7.1 | 7.1 |
 | Week 14 | 6% | 59% |
 
-| Figure 3: Trial AS – Percentage of AS Patients Achieving ASAS 20 Response by Visit: Randomized PatientsThe same patients may not have responded at each timepoint. |
+| Figure 3: Trial AS – Percentage of AS Patients Achieving ASAS 20 Response by Visit: Randomized Patients The same patients may not have responded at each timepoint. |
 | --- |
 
 ## 14.4 Ulcerative Colitis
@@ -272,10 +272,10 @@ Table 8: The Proportion of Patients with UC in Clinical Response, Clinical Remis
 | Trial UC-1 (6-Week Induction Trial) |  |  |  |
 | --- | --- | --- | --- |
 |  | Placebo N=251 | SIMPONI 200/100 mg N=253 | Treatment difference (95% C.I.) |
-| Clinical responsePatients who had a prohibited change in concomitant UC medication, an ostomy or colectomy, discontinued trial agent due to lack of therapeutic effect, or a dose adjustment in Trial UC-2 were considered not to be in clinical response, clinical remission or have an improvement in endoscopic appearance of the mucosa from the time of the event onward. at Week 6 | 30% | 51% | 21% (12%, 29%)p<0.0001; |
+| Clinical response Patients who had a prohibited change in concomitant UC medication, an ostomy or colectomy, discontinued trial agent due to lack of therapeutic effect, or a dose adjustment in Trial UC-2 were considered not to be in clinical response, clinical remission or have an improvement in endoscopic appearance of the mucosa from the time of the event onward. at Week 6 | 30% | 51% | 21% (12%, 29%) p<0.0001; |
 | Clinical remission at Week 6 | 6% | 18% | 11% (6%, 17%) |
-| Improvement of endoscopic appearance of the mucosa at Week 6 | 29% | 42% | 14% (5%, 22%)p=0.0014; |
-| Trial UC-2 (54-Week Maintenance Trial)Results in Trial UC-2 are based on patients who were in clinical response to SIMPONI at trial entry. |  |  |  |
+| Improvement of endoscopic appearance of the mucosa at Week 6 | 29% | 42% | 14% (5%, 22%) p=0.0014; |
+| Trial UC-2 (54-Week Maintenance Trial) Results in Trial UC-2 are based on patients who were in clinical response to SIMPONI at trial entry. |  |  |  |
 |  | Placebo N=154 | SIMPONI 100 mg N=151 | Treatment difference (95% C.I.) |
-| Clinical response through Week 54Patients were assessed for UC disease activity by partial Mayo score every 4 weeks (loss of response was confirmed by endoscopy). Therefore, a patient who maintained clinical response was in response at each evaluation through Week 54. | 31% | 50% | 19% (8%, 29%)p<0.001; |
-| Clinical remission at both Week 30 and Week 54A patient had to be in remission at both Weeks 30 and 54 (without demonstrating a loss of response at any time point through Week 54) to achieve sustained remission. | 16% | 28% | 12% (3%, 21%)p=0.004 |
+| Clinical response through Week 54 Patients were assessed for UC disease activity by partial Mayo score every 4 weeks (loss of response was confirmed by endoscopy). Therefore, a patient who maintained clinical response was in response at each evaluation through Week 54. | 31% | 50% | 19% (8%, 29%) p<0.001; |
+| Clinical remission at both Week 30 and Week 54 A patient had to be in remission at both Weeks 30 and 54 (without demonstrating a loss of response at any time point through Week 54) to achieve sustained remission. | 16% | 28% | 12% (3%, 21%) p=0.004 |
