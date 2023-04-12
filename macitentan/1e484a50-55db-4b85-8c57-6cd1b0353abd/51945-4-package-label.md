@@ -2,7 +2,7 @@
 
 NDC 66215-501-30
 
-Opsumit® (macitentan) tablets
+Opsumit ® (macitentan) tablets
 
 10 mg
 

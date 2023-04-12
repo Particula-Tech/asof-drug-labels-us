@@ -30,7 +30,7 @@ Table 3: Summary of Primary Endpoint Events
 
 |  | Placebo N=250 n (%) | OPSUMIT 10 mg N=242 n (%) |
 | --- | --- | --- |
-| Patients with a primary endpoint eventNo patients experienced an event of lung transplantation or atrial septostomy in the placebo or OPSUMIT 10 mg treatment groups. | 116 (46.4) | 76 (31.4) |
+| Patients with a primary endpoint event No patients experienced an event of lung transplantation or atrial septostomy in the placebo or OPSUMIT 10 mg treatment groups. | 116 (46.4) | 76 (31.4) |
 | Component as first event |  |  |
 | Worsening PAH | 93 (37.2) | 59 (24.4) |
 | Death | 17 (6.8) | 16 (6.6) |

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-OPSUMIT® (macitentan) tablets are 10 mg white, film-coated, bi-convex debossed with "10" on both sides and supplied as follows:
+OPSUMIT ® (macitentan) tablets are 10 mg white, film-coated, bi-convex debossed with "10" on both sides and supplied as follows:
 
 15 count /PVC/ PE/PVDC aluminum foil blisters in carton (NDC 66215-501-15)
 

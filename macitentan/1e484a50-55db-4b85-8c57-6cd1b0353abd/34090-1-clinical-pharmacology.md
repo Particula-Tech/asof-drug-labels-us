@@ -2,10 +2,10 @@
 
 ## 12.1 Mechanism of Action
 
-Endothelin (ET)-1 and its receptors (ETA and ETB) mediate a variety of deleterious effects, such as vasoconstriction, fibrosis, proliferation, hypertrophy, and inflammation.
+Endothelin (ET)-1 and its receptors (ET A and ET B) mediate a variety of deleterious effects, such as vasoconstriction, fibrosis, proliferation, hypertrophy, and inflammation.
 In disease conditions such as PAH, the local ET system is upregulated and is involved in vascular hypertrophy and in organ damage.
 
-Macitentan is an endothelin receptor antagonist that inhibits the binding of ET-1 to both ETA and ETB receptors.
+Macitentan is an endothelin receptor antagonist that inhibits the binding of ET-1 to both ET A and ET B receptors.
 Macitentan displays high affinity and sustained occupancy of the ET receptors in human pulmonary arterial smooth muscle cells.
 One of the metabolites of macitentan is also pharmacologically active at the ET receptors and is estimated to be about 20% as potent as the parent drug in vitro.
 The clinical impact of dual endothelin blockage is unknown.
@@ -15,7 +15,7 @@ The clinical impact of dual endothelin blockage is unknown.
 Pulmonary Hemodynamics
 
 The clinical efficacy study in patients with pulmonary arterial hypertension assessed hemodynamic parameters in a subset of patients after 6 months of treatment.
-Patients treated with OPSUMIT 10 mg (N=57) achieved a median reduction of 37% (95% CI 22–49) in pulmonary vascular resistance and an increase of 0.6 L/min/m2 (95% CI 0.3–0.9) in cardiac index compared to placebo (N=67).
+Patients treated with OPSUMIT 10 mg (N=57) achieved a median reduction of 37% (95% CI 22–49) in pulmonary vascular resistance and an increase of 0.6 L/min/m 2 (95% CI 0.3–0.9) in cardiac index compared to placebo (N=67).
 
 Cardiac Electrophysiology
 
