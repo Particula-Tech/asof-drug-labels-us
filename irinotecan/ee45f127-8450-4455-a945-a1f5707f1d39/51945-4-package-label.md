@@ -33,7 +33,7 @@ MUST BE DILUTED.
 Cytotoxic agent.
 Rx only
 
-2 mL Single Dose Vial
+2 mL Single-Dose Vial
 
 # PACKAGE LABEL - PRINCIPAL DISPLAY - Irinotecan 5 mL Single Dose Vial Label
 
@@ -75,4 +75,4 @@ Cytotoxic agent.
 
 Rx only
 
-5 mL Single Dose Vial
+5 mL Single-Dose Vial

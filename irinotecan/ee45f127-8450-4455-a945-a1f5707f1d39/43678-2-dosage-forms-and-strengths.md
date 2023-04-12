@@ -1,6 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Irinotecan hydrochloride is available in two single dose sizes:
-
-- 2 mL-fill vial containing 40 mg irinotecan hydrochloride
-- 5 mL-fill vial containing 100 mg irinotecan hydrochloride
+Injection: 40 mg/2 mL (20 mg/mL), 100 mg/5 mL (20 mg/mL) sterile, pale yellow, clear, aqueous solution in a single-dose vial.
