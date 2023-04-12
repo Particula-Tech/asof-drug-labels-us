@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Two-year feeding studies in rats and mice conducted under the National Toxicology Program (NTP) demonstrated no evidence of carcinogenic potential with ephedrine sulfate at doses up to 10 mg/kg/day and 27 mg/kg/day (approximately 2 times and 3 times the maximum human recommended dose on a mg/m 2 basis, respectively).
+Two-year feeding studies in rats and mice conducted under the National Toxicology Program (NTP) demonstrated no evidence of carcinogenic potential with ephedrine sulfate at doses up to 10 mg/kg/day and 27 mg/kg/day (approximately 2 times and 3 times the maximum human recommended dose on a mg/m2 basis, respectively).
 
 Mutagenesis
 
