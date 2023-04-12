@@ -61,3 +61,17 @@ Discard any remaining mixture.
 Do not store the mixture for future use.
 
 - Esomeprazole magnesium delayed-release capsules can also be administered via a nasogastric tube, as described in the Instructions for Use.
+
+Dispense with Medication Guide available at:
+
+www.drreddys.com/medguide/esomeprazolecaps.pdf
+
+Rx only
+
+Manufactured by:
+
+Dr. Reddy’s Laboratories Limited
+
+Bachupally – 500 090 INDIA
+
+Revised: 02/2023

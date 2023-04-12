@@ -90,7 +90,8 @@ Pediatrics
 
 1 Year to 17 Years of Age
 
-The safety of esomeprazole magnesium delayed-release capsules was evaluated in 316 pediatric and adolescent patients aged 1 year to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.3)].In 149 pediatric patients aged 12 years to 17 years the most frequently reported adverse reactions (at least 2%) were headache (8%), abdominal pain (3%), diarrhea (2%), and nausea (2%).
+The safety of esomeprazole magnesium delayed-release capsules was evaluated in 316 pediatric and adolescent patients aged 1 year to 17 years in four clinical trials for the treatment of symptomatic GERD [see Clinical Studies (14.3)].In 109 pediatric patients aged 1 year to 11 years, the most frequently reported (at least 1%) treatment-related adverse reactions in these patients were diarrhea (3%), headache (2%) and somnolence (2%).
+In 149 pediatric patients aged 12 years to 17 years the most frequently reported adverse reactions (at least 2%) were headache (8%), abdominal pain (3%), diarrhea (2%), and nausea (2%).
 
 ## 6.2 Postmarketing Experience
 
@@ -102,9 +103,9 @@ Blood and Lymphatic: agranulocytosis, pancytopenia;
 
 Eye: blurred vision;
 
-Gastrointestinal: pancreatitis; stomatitis; microscopic colitis;
+Gastrointestinal: pancreatitis; stomatitis; microscopic colitis; fundic gland polyps;
 
-Hepatobiliary: hepatic failure, hepatitis with or without jaundice; fundic gland polyps;
+Hepatobiliary: hepatic failure, hepatitis with or without jaundice;
 
 Immune System: anaphylactic reaction/shock; systemic lupus erythematosus;
 

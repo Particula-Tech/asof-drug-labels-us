@@ -35,7 +35,7 @@ In a second study, the effect on intragastric pH of esomeprazole magnesium 40 mg
 
 Serum Gastrin Effects
 
-The effect of esomeprazole on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials of oral omeprazole for up to 8 weeks and in over 1,300 patients for up to 12 months.
+The effect of esomeprazole on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials of oral esomeprazole for up to 8 weeks and in over 1,300 patients for up to 12 months.
 The mean fasting gastrin level increased in a dose-related manner.
 The increase in serum gastrin concentrations reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
@@ -160,7 +160,7 @@ The pharmacokinetics of esomeprazole magnesium in patients with renal impairment
 
 Patients with Hepatic Impairment
 
-The steady state pharmacokinetics of esomeprazole obtained after administration of esomeprazole magnesium delayed-release capsules 40 mg orally once daily to 4 patients each with mild (Child-Pugh A, n=4), moderate (Child-Pugh Class B, n=4), and severe (Child-Pugh Class C, n=4) hepatic impairment were compared to those obtained in 36 male and female GERD patients with normal liver function.
+The steady state pharmacokinetics of esomeprazole obtained after administration of esomeprazole magnesium delayed-release capsules 40 mg orally once daily to patients with mild (Child-Pugh A, n=4), moderate (Child-Pugh Class B, n=4), and severe (Child-Pugh Class C, n=4) hepatic impairment were compared to those obtained in 36 male and female GERD patients with normal liver function.
 In patients with mild and moderate hepatic impairment, the AUCs were within the range that could be expected in patients with normal liver function.
 In patients with severe hepatic impairment the AUCs were 2 to 3 times higher than in the patients with normal liver function [see Use in Specific Populations (8.6)].
 
@@ -271,9 +271,9 @@ Patients with clarithromycin resistant H. pylori should not be re-treated with a
 
 Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes:
 
-In patients treated with esomeprazole magnesium, amoxicillin and clarithromycin in clinical trials, 83% (176/212) of the patients in the esomeprazole magnesium/amoxicillin/clarithromycin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
-Of the 36 patients who were not eradicated of H. pylori on triple therapy, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
-Fifteen of the patients who were not eradicated of H. pylori on triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
+In patients treated with esomeprazole magnesium, amoxicillin and clarithromycin in clinical trials, 83% (176/212) of the patients who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
+Of the 36 patients who were not eradicated of H. pylori, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
+Fifteen of the patients who were not eradicated of H. pylori also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
 
 Susceptibility Test for Helicobacter pylori: For susceptibility testing information about Helicobacter pylori, see Microbiology section in prescribing information for clarithromycin and amoxicillin.

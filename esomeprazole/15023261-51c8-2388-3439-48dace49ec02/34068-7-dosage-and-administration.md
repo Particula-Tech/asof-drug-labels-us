@@ -7,16 +7,18 @@ Table 1 shows the recommended adult dosage of esomeprazole magnesium delayed-rel
 The duration of esomeprazole magnesium delayed-release capsules treatment should be based on available safety and efficacy data specific to the defined indication and dosing frequency and individual patient medical needs.
 Esomeprazole magnesium delayed-release capsules should only be initiated and continued if the benefits outweigh the risks of treatment.
 
-Table 1: Recommended Dosage Schedule for Esomeprazole Magnesium Delayed-Release Capsules in Adults by Indication
+Table 1: Recommended Dosage of Esomeprazole Magnesium Delayed-Release Capsules in Adults by Indication
 
 | Adult Indication | Recommended Dosage of Esomeprazole magnesium delayed-release capsules | Treatment Duration |
 | --- | --- | --- |
-| Healing of EE | 20 mg or 40 mg1 once daily | 4 to 8 weeks2 Controlled studies do not extend beyond 6 months |
-| Maintenance of Healing of EE | 20 mg once daily |  |
-| Treatment of Symptomatic GERD | 20 mg once daily | 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks Controlled studies do not extend beyond 6 months |
-| Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg1 once daily |  |
-| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | Esomeprazole 40 mg once daily1 Amoxicillin 1000 mg twice daily3 Clarithromycin 500 mg twice daily3 Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs | 10 days 10 days 10 days |
-| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)] | As long as clinically indicated |
+| Healing of EE | 20 mg or 40 mg1 once daily | 4 to 8 weeks2 |
+| Maintenance of Healing of EE | 20 mg once daily | Controlled studies do not extend beyond 6 months |
+| Treatment of Symptomatic GERD | 20 mg once daily | 4 weeks; if symptoms do not resolve completely, consider an additional 4 weeks |
+| Risk Reduction of NSAID-Associated Gastric Ulcer | 20 mg or 40 mg1 once daily | Controlled studies do not extend beyond 6 months |
+| H. pylori Eradication to Reduce the Risk of Duodenal Ulcer Recurrence (Triple Therapy) | Esomeprazole 40 mg once daily1 | 10 days |
+| Amoxicillin 1000 mg twice daily3 | 10 days |  |
+| Clarithromycin 500 mg twice daily3 | 10 days |  |
+| Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs. Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)] | As long as clinically indicated |
 
 1.
 A maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)].
