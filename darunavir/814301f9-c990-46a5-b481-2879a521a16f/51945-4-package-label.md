@@ -4,7 +4,7 @@
 
 NDC 59676-563-01
 
-PREZISTA® (darunavir) tablets
+PREZISTA ® (darunavir) tablets
 
 75 mg
 
@@ -18,7 +18,7 @@ janssen
 
 NDC 59676-564-01
 
-PREZISTA® (darunavir) tablets
+PREZISTA ® (darunavir) tablets
 
 150 mg
 
@@ -32,7 +32,7 @@ janssen
 
 NDC 59676-562-01
 
-PREZISTA® (darunavir) tablets
+PREZISTA ® (darunavir) tablets
 
 600 mg
 
@@ -46,7 +46,7 @@ janssen
 
 NDC 59676-566-30
 
-PREZISTA® (darunavir) tablets
+PREZISTA ® (darunavir) tablets
 
 800 mg
 
@@ -58,7 +58,7 @@ janssen
 
 200 mL NDC 59676-565-01
 
-PREZISTA® (darunavir) Oral Suspension
+PREZISTA ® (darunavir) Oral Suspension
 
 100 mg per mL
 
