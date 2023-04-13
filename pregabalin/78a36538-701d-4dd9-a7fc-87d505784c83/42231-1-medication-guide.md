@@ -234,4 +234,4 @@ Trademarks are the property of their respective owners.
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal 389350, Gujarat, India.
 
-Revised: 07/2019
+Revised: 01/2023
