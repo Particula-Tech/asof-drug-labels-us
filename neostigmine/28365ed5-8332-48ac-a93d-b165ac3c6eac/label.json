@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA207042"
+  ],
+  "inn": "neostigmine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6264-01",
+    "0641-6264-10",
+    "0641-6265-01",
+    "0641-6265-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate",
+      "name": "Neostigmine Methylsulfate"
+    }
+  ],
+  "setid": "28365ed5-8332-48ac-a93d-b165ac3c6eac",
+  "source": "dailymed"
+}
