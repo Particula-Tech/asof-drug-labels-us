@@ -129,13 +129,13 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 The following adverse reactions have been identified during post-approval use of clozapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome, and post-discontinuation cholinergic rebound adverse reactions.
+Central Nervous System: Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epilepticus, obsessive compulsive symptoms, restless leg syndrome and post-discontinuation cholinergic rebound adverse reactions.
 
 Cardiovascular System: Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, myocarditis, and periorbital edema.
 
 Endocrine System: Pseudopheochromocytoma.
 
-Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, intestinal ischemia or infarction.
+Gastrointestinal System: Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 
 Hepatobiliary System: Cholestasis, hepatitis, jaundice, hepatotoxicity, hepatic steatosis, hepatic necrosis, hepatic fibrosis, hepatic cirrhosis, liver injury (hepatic, cholestatic, and mixed), and liver failure.
 

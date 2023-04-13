@@ -11,7 +11,7 @@ Discuss the following issues with patients and caregivers:
     - ▪An ANC is required every 2 weeks for the next 6 months if an acceptable ANC is maintained during the first 6 months of continuous therapy.
     - ▪An ANC is required once every 4 weeks thereafter if an acceptable ANC is maintained during the second 6 months of continuous therapy.
   - -Clozapine tablets are available only from certified pharmacies participating in the program.
-    Provide patients (and caregivers) with website information and the telephone number on how to obtain the product (www.clozapinerems.com or 1-844-267-8678) [see Warnings and Precautions (5.2)].
+    Provide patients (and caregivers) with website information and the telephone number on how to obtain the product (www.clozapineREMS.com or 1-888-586-0758) [see Warnings and Precautions (5.2)].
 - •Orthostatic Hypotension, Bradycardia, and Syncope: Inform patients and caregivers about the risk of orthostatic hypotension and syncope, especially during the period of initial dose titration.
   Instruct them to strictly follow the clinician’s instructions for dosage and administration.
   Advise patients to consult their clinician immediately if they feel faint, lose consciousness or have signs or symptoms suggestive of bradycardia or arrhythmia [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
@@ -42,4 +42,6 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-Revised: 2/2021 MXA:CLOZ:R3
+75096407
+
+Revised: 2/2023 MXA:CLOZ:R4

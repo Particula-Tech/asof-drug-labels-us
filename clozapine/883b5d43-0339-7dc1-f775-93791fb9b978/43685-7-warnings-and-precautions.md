@@ -92,7 +92,7 @@ Notable requirements of the Clozapine REMS Program include:
 - •Patients who receive clozapine tablets must be enrolled in the program and comply with the ANC testing and monitoring requirements
 - •Pharmacies dispensing clozapine tablets must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine tablets
 
-Further information is available at www.clozapinerems.com or 1-844-267-8678.
+Further information is available at www.clozapineREMS.com or 1-888-586-0758.
 
 ## 5.3 Orthostatic Hypotension, Bradycardia, and Syncope
 
@@ -159,7 +159,7 @@ Clozapine tablets are not approved for the treatment of patients with dementia-r
 
 Severe gastrointestinal adverse reactions have occurred with the use of clozapine tablets, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon and intestinal obstruction, ischemia, infarction, perforation, ulceration or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk of severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
 
