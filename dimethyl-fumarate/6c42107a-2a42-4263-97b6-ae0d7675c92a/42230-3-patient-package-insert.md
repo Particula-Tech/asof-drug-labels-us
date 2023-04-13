@@ -1,3 +1,5 @@
+# SPL PATIENT PACKAGE INSERT
+
 Patient Information
 
 Dimethyl Fumarate (dye meth' il fue' ma rate)
@@ -77,47 +79,3 @@ The most common side effects of dimethyl fumarate include:
   Taking dimethyl fumarate delayed-release capsules with food may help reduce flushing.
   Call your doctor if you have any of these symptoms and they bother you or do not go away.
   Ask your doctor if taking aspirin before taking dimethyl fumarate delayed-release capsules may reduce flushing.
-
-These are not all the possible side effects of dimethyl fumarate delayed-release capsules.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-For more information go to dailymed.nlm.nih.gov.
-
-General Information about the safe and effective use of dimethyl fumarate delayed-release capsules
-
-- Medicines are sometimes prescribed for purposes other than those listed in this Patient Information.
-  Do not use dimethyl fumarate delayed-release capsules for a condition for which it was not prescribed.
-  Do not give dimethyl fumarate delayed-release capsules to other people, even if they have the same symptoms that you have.
-  It may harm them.
-- If you would like more information, talk to your doctor or pharmacist.
-  You can ask your doctor or pharmacist for information about dimethyl fumarate delayed-release capsules that is written for healthcare professionals.
-
-What are the ingredients in dimethyl fumarate delayed-release capsules?
-
-Active ingredient: dimethyl fumarate
-
-Inactive ingredients: silicified microcrystalline cellulose, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, methacrylic acid and methyl methacrylate copolymer, triethyl citrate, iso propyl alcohol, methacrylic acid and ethyl acrylate copolymer dispersion, talc, simethicon emulsion, sodium lauryl sulphate and polysorbate 80.
-
-Capsule Shell: gelatin, titanium dioxide, FD&C blue 1, yellow iron oxide, black iron oxide, shellac, dehydrated alcohol, isopropyl alcohol, butyl alcohol, propylene glycol, strong ammonia solution and potassium hydroxide.
-
-Manufactured by:
-
-MSN Laboratories Private Limited,
-
-Telangana- 509 228,
-
-India.
-
-Manufactured for:
-
-Cipla USA, Inc.
-
-10 Independence Boulevard, Suite 300
-
-Warren, NJ 07059
-
-www.ciplausa.com or call 1-866-604-3268
-
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Revised: 2/2021

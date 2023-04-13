@@ -64,7 +64,7 @@ A transient increase in mean eosinophil counts was seen during the first 2 month
 The following adverse reaction has been identified during post approval use of dimethyl fumarate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal Disorders: Acute pancreatitis
+Gastrointestinal Disorders: Acute Pancreatitis
 
 Hepatobiliary Disorders: Liver function abnormalities (elevations in transaminases ≥ 3 times ULN with concomitant elevations in total bilirubin > 2 times ULN) [see Warnings and Precautions (5.5)]
 
