@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-BUPHENYL is indicated as adjunctive therapy in the chronic management of patients with urea cycle disorders involving deficiencies of carbamylphosphate synthetase (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase (AS).
+BUPHENYL is indicated as adjunctive therapy in the chronic management of patients with urea cycle disorders involving deficiencies of carbamoyl phosphate synthetase (CPS), ornithine transcarbamylase (OTC), or argininosuccinic acid synthetase (AS).
 It is indicated in all patients with neonatal-onset deficiency (complete enzymatic deficiency, presenting within the first 28 days of life).
 It is also indicated in patients with late-onset disease (partial enzymatic deficiency, presenting after the first month of life) who have a history of hyperammonemic encephalopathy.
 It is important that the diagnosis be made early and treatment initiated immediately to improve survival.
@@ -13,7 +13,7 @@ Previously, neonatal-onset disease was almost universally fatal within the first
 However, with hemodialysis, use of alternative waste nitrogen excretion pathways (sodium phenylbutyrate, sodium benzoate, and sodium phenylacetate), dietary protein restriction, and, in some cases, essential amino acid supplementation, the survival rate in newborns diagnosed after birth but within the first month of life is almost 80%.
 Most deaths have occurred during an episode of acute hyperammonemic encephalopathy.
 Patients with neonatal-onset disease have a high incidence of mental retardation.
-Those who had IQ tests administered had an incidence of mental retardation as follows: ornithine transcarbamylase deficiency, 100% (14/14 patients tested); argininosuccinic acid synthetase deficiency, 88% (15/17 patients tested); and carbamylphosphate synthetase deficiency, 57% (4/7 patients tested).
+Those who had IQ tests administered had an incidence of mental retardation as follows: ornithine transcarbamylase deficiency, 100% (14/14 patients tested); argininosuccinic acid synthetase deficiency, 88% (15/17 patients tested); and carbamoyl phosphate synthetase deficiency, 57% (4/7 patients tested).
 Retardation was severe in the majority of the retarded patients.
 
 In patients diagnosed during gestation and treated prior to any episode of hyperammonemic encephalopathy, survival is 100%, but even in these patients, most subsequently demonstrate cognitive impairment or other neurologic deficits.

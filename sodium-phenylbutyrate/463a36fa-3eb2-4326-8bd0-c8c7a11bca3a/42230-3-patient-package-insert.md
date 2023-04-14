@@ -92,4 +92,4 @@ This leaflet provides a brief summary of the information available on BUPHENYL.
 The information here is incomplete and is not designed to take the place of your doctor's instructions.
 For more complete information, consult your physician, or contact Horizon at 1-866-479-6742.
 
-BUP-US-PPI-003
+BUP-US-PPI-004
