@@ -141,7 +141,7 @@ Mean relative lymphocyte counts increased by 1.7% in KEPPRA-treated patients, co
 In the controlled trial, more KEPPRA-treated patients had a possibly clinically significant abnormally low WBC value (3% of KEPPRA-treated patients versus 0% of placebo-treated patients), however, there was no apparent difference between treatment groups with respect to neutrophil count (5% of KEPPRA-treated patients versus 4.2% of placebo-treated patients).
 No patient was discontinued secondary to low WBC or neutrophil counts.
 
-In the controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7×109/L).
+In the controlled cognitive and neuropsychological safety study, 5 patients (8.6%) in the KEPPRA-treated group and two patients (6.1%) in the placebo-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7 × 109/L).
 
 ## 5.9 Increase in Blood Pressure
 
