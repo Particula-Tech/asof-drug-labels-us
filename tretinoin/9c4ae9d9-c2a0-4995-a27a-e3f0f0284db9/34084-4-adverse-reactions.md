@@ -1,74 +1,122 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Virtually all patients experience some drug-related toxicity, especially head ache, fever, weakness, and fatigue.
-These adverse effects are seldom permanent or irreversible nor do they usually require interruption of therapy.
-Some of the adverse events are common in patients with APL, including hemorrhage, infections, gastrointestinal hemorrhage, disseminated intravascular coagulation, pneumonia, septicemia, and cerebral hemorrhage.
-The following describes the adverse events, regardless of drug relationship, that were observed in patients treated with tretinoin capsules.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-Typical Retinoid Toxicity
+- Differentiation Syndrome [see Warnings and Precautions (5.2)]
+- Leukocytosis [see Warnings and Precautions (5.4)]
+- Intracranial hypertension [see Warnings and Precautions (5.5)]
+- Lipid abnormalities [see Warnings and Precautions (5.6)]
+- Hepatotoxicity [see Warnings and Precautions (5.7)]
+- Thromboembolic events [see Warnings and Precautions (5.8)]
 
-The most frequently reported adverse events were similar to those described in patients taking high doses of vitamin A and included headache (86%), fever (83%), skin/mucous membrane dryness (77%), bone pain (77%), nausea/vomiting (57%), rash (54%), mucositis (26%), pruritus (20%), increased sweating (20%), visual disturbances (17%), ocular disorders (17%), alopecia (14%), skin changes (14%), changed visual acuity (6%), bone inflammation (3%), visual field defects (3%).
+## 6.1 Clinical Trials Experience
 
-RA-APL Syndrome
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-APL patients treated with tretinoin capsules have experienced a potentially fatal syndrome characterized by fever, dyspnea, acute respiratory distress, weight gain, radiographic pulmonary infiltrates, pleural and pericardial effusions, edema, and hepatic, renal, and multi-organ failure.
-This syndrome has occasionally been accompanied by impaired myocardial contractility and episodic hypotension and has been observed with or without concomitant leukocytosis.
-Some patients have expired due to progressive hypoxemia and multi-organ failure.
-The syndrome generally occurs during the first month of treatment, with some cases reported following the first dose of tretinoin capsules.
-The management of the syndrome has not been defined rigorously, but high-dose steroids given at the first signs of the syndrome appear to reduce morbidity and mortality.
-Treatment with dexamethasone, 10 mg intravenously administered every 12 hours for 3 days or until resolution of symptoms, should be initiated without delay at the first suspicion of symptoms (one or more of the following: fever, dyspnea, weight gain, abnormal chest auscultatory findings or radiographic abnormalities).
-Sixty percent or more of patients treated with tretinoin capsules may require high-dose steroids because of these symptoms.
-The majority of patients do not require termination of tretinoin capsules therapy during treatment of the syndrome.
+Acute Promyelocytic Leukemia
 
-Body as a Whole
+The safety of tretinoin capsules was evaluated in patients with APL who received tretinoin capsules at a dose of 22.5 mg/m2 orally twice daily [see Clinical Studies (14)].
 
-General disorders related to tretinoin capsules administration and/or associated with APL included malaise (66%), shivering (63%), hemorrhage (60%), infections (58%), peripheral edema (52%), pain (37%), chest discomfort (32%), edema (29%), disseminated intravascular coagulation (26%), weight increase (23%), injection site reactions (17%), anorexia (17%), weight decrease (17%), myalgia (14%), flank pain (9%), cellulitis (8%), face edema (6%), fluid imbalance (6%), pallor (6%), lymph disorders (6%), acidosis (3%), hypothermia (3%), ascites (3%).
+The most common adverse reactions (≥30%) were headache, fever, skin/mucous membrane dryness, bone pain, malaise, shivering, upper respiratory tract disorders, dyspnea, hemorrhage, infections, nausea/vomiting, rash, peripheral edema, leukocytosis, pain, gastrointestinal hemorrhage, chest discomfort, abdominal pain.
 
-Respiratory System Disorders
+Table 1 summarizes the adverse reactions for patients with APL.
 
-Respiratory system disorders were commonly reported in APL patients administered tretinoin capsules.
-The majority of these events are symptoms of the RA-APL syndrome (see boxed WARNINGS).
-Respiratory system adverse events included upper respiratory tract disorders (63%), dyspnea (60%), respiratory insufficiency (26%), pleural effusion (20%), pneumonia (14%), rales (14%), expiratory wheezing (14%), lower respiratory tract disorders (9%), pulmonary infiltration (6%), bronchial asthma (3%), pulmonary edema (3%), larynx edema (3%), unspecified pulmonary disease (3%).
+Table 1.
+Adverse Reactions (≥ 10%) Occurring in Patients with APL Who Received Tretinoin Capsules
 
-Ear Disorders
+| Adverse Reaction | Tretinoin Capsules |
+| --- | --- |
+| All Grades(%) |  |
+| Nervous system disorders |  |
+| Headache | 86 |
+| Dizziness | 20 |
+| Paresthesias | 17 |
+| Anxiety | 17 |
+| Insomnia | 14 |
+| Depression | 14 |
+| Confusion | 11 |
+| General disorders |  |
+| Fever | 83 |
+| Skin/mucous membrane dryness | 77 |
+| Malaise | 66 |
+| Shivering | 63 |
+| Peripheral edema | 52 |
+| Pain | 37 |
+| Chest discomfort | 32 |
+| Edema | 29 |
+| Mucositis | 26 |
+| Weight increase | 23 |
+| Anorexia | 17 |
+| Weight decrease | 17 |
+| Musculoskeletal and connective tissue disorders |  |
+| Bone pain | 77 |
+| Myalgia | 14 |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Upper respiratory tract disorders | 63 |
+| Dyspnea | 60 |
+| Respiratory insufficiency | 26 |
+| Pleural effusion | 20 |
+| Rales | 14 |
+| Expiratory wheezing | 14 |
+| Pneumonia | 14 |
+| Vascular disorders |  |
+| Hemorrhage | 60 |
+| Gastrointestinal hemorrhage | 34 |
+| Flushing | 23 |
+| Hypotension | 14 |
+| Hypertension | 11 |
+| Phlebitis | 11 |
+| Infections and infestations |  |
+| Infections | 58 |
+| Gastrointestinal disorders |  |
+| Nausea/vomiting | 57 |
+| Abdominal pain | 31 |
+| Other gastrointestinal disorders | 26 |
+| Diarrhea | 23 |
+| Constipation | 17 |
+| Dyspepsia | 14 |
+| Abdominal distention | 11 |
+| Skin and subcutaneous tissue disorders |  |
+| Rash | 54 |
+| Pruritus | 20 |
+| Increased sweating | 20 |
+| Alopecia | 14 |
+| Skin changes | 14 |
+| Blood and lymphatic system disorders |  |
+| Leukocytosis | 49 |
+| Differentiation syndrome1 | 26 |
+| Disseminated intravascular coagulation | 26 |
+| Ear and labyrinth disorders |  |
+| Earache or feeling of fullness in the ears | 23 |
+| Cardiac disorders |  |
+| Arrhythmias | 23 |
+| Eye disorders |  |
+| Visual disturbances | 17 |
+| Ocular disorders | 17 |
+| Renal and urinary disorders |  |
+| Renal insufficiency | 11 |
 
-Ear disorders were consistently reported, with earache or feeling of fullness in the ears reported by 23% of the patients.
-Hearing loss and other unspecified auricular disorders were observed in 6% of patients, with infrequent (<1%) reports of irreversible hearing loss.
+1Differentiation syndrome can be associated with other commonly reported events such as fever, leukocytosis, dyspnea, pneumonia, pleural effusion, pericardial effusion, hypotension, edema, weight gain, and renal failure.
 
-Gastrointestinal Disorders
+Adverse reactions that occurred in <10% of patients who received tretinoin capsules include:
 
-GI disorders included GI hemorrhage (34%), abdominal pain (31%), other gastrointestinal disorders (26%), diarrhea (23%), constipation (17%), dyspepsia (14%), abdominal distention (11%), hepatosplenomegaly (9%), hepatitis (3%), ulcer (3%), unspecified liver disorder (3%).
+- Hepatobiliary disorders: Hepatosplenomegaly (9%), hepatitis (3%), unspecified liver disorder (3%).
+- Musculoskeletal and connective tissue disorders: Flank pain (9%), bone inflammation (3%).
+- Nervous system disorders: Agitation (9%), cerebral hemorrhage (9%), intracranial hypertension (9%), hallucination (6%), abnormal gait, agnosia, aphasia, asterixis, cerebellar edema, cerebellar disorders, convulsions, coma, CNS depression, dysarthria, encephalopathy, facial paralysis, hemiplegia, hyporeflexia, hypotaxia, no light reflex, neurologic reaction, spinal cord disorder, stroke, tremor, leg weakness, unconsciousness, dementia, forgetfulness, somnolence, and slow speech (3% each).
+- Renal and urinary disorders: Dysuria (9%), acute renal failure, micturition frequency, renal tubular necrosis, and enlarged prostate (3% each).
+- Respiratory, thoracic and mediastinal disorders: Lower respiratory tract disorders (9%), pulmonary infiltration (6%), bronchial asthma, pulmonary edema, larynx edema, and unspecified pulmonary disease (3% each).
+- Infections and infestations: Cellulitis (8%).
+- Blood and lymphatic system disorders: Lymph disorders (6%).
+- Cardiovascular disorders: Cardiac failure (6%), cardiac arrest, myocardial infarction, enlarged heart, heart murmur, myocarditis, pericarditis, and secondary cardiomyopathy (3% each).
+- Ear and labyrinth disorders: Hearing loss and other unspecified auricular disorders (6%), irreversible hearing loss (<1%).
+- General disorders: Face edema (6%), pallor (6%), hypothermia (3%).
+- Metabolism and nutrition disorders: Fluid imbalance (6%), acidosis (3%).
+- Eye disorders: Changed visual acuity (6%), visual field defects (3%).
+- Gastrointestinal disorders: Ascites, ulcer (3% each).
+- Vascular disorders: Ischemia and pulmonary hypertension (3% each).
 
-Cardiovascular and Heart Rate and Rhythm Disorders
+## 6.2 Postmarketing Experience
 
-Arrhythmias (23%), flushing (23%), hypotension (14%), hypertension (11%), phlebitis (11%), cardiac failure (6%) and for 3% of patients: cardiac arrest, myocardial infarction, enlarged heart, heart murmur, ischemia, stroke, myocarditis, pericarditis, pulmonary hypertension, secondary cardiomyopathy.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Central and Peripheral Nervous System Disorders and Psychiatric
-
-Dizziness (20%), paresthesias (17%), anxiety (17%), insomnia (14%), depression (14%), confusion (11%), cerebral hemorrhage (9%), intracranial hypertension (9%), agitation (9%), hallucination (6%) and for 3% of patients: abnormal gait, agnosia, aphasia, asterixis, cerebellar edema, cerebellar disorders, convulsions, coma, CNS depression, dysarthria, encephalopathy, facial paralysis, hemiplegia, hyporeflexia, hypotaxia, no light reflex, neurologic reaction, spinal cord disorder, tremor, leg weakness, unconsciousness, dementia, forgetfulness, somnolence, slow speech.
-
-Urinary System Disorders
-
-Renal insufficiency (11%), dysuria (9%), acute renal failure (3%), micturition frequency (3%), renal tubular necrosis (3%), enlarged prostate (3%).
-
-Miscellaneous Adverse Events
-
-Isolated cases of erythema nodosum, basophilia and hyperhistaminemia, Sweet’s syndrome, organomegaly, hypercalcemia, pancreatitis and myositis have been reported.
-
-Additional Adverse Reactions Reported With Tretinoin Capsules
-
-Cardiovascular
-
-Cases of thrombosis (both venous and arterial) involving various sites (eg, cerebrovascular accident, myocardial infarction, renal infarct) have been reported rarely (see PRECAUTIONS: General).
-
-Hematologic
-
-Rare cases of thrombocytosis have been reported.
-
-Skin
-
-Genital ulceration
-
-Miscellaneous Adverse Events
-
-Rare cases of vasculitis, predominantly involving the skin, have been reported.
+Erythema nodosum, basophilia and hyperhistaminemia, Sweet’s Syndrome, organomegaly, hypercalcemia, pancreatitis, myositis, thrombosis (both venous and arterial), thrombocytosis, genital ulceration and vasculitis, predominantly involving the skin.

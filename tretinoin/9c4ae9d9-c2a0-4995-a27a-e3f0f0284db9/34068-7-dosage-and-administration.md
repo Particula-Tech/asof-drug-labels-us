@@ -1,10 +1,22 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose is 45 mg/m2/day administered as two evenly divided doses until complete remission is documented.
-Therapy should be discontinued 30 days after achievement of complete remission or after 90 days of treatment, whichever occurs first.
+## 2.1 Important Safety Information
 
-If after initiation of treatment of Tretinoin Capsules the presence of the t(15;17) translocation is not confirmed by cytogenetics and/or by polymerase chain reaction studies and the patient has not responded to tretinoin capsules, alternative therapy appropriate for acute myelogenous leukemia should be considered.
+Verify pregnancy status in females of reproductive potential prior to initiating tretinoin capsules.
+Females of reproductive potential must have a negative pregnancy test before initiating tretinoin capsules [see Use in Specific Populations (8.3)].
 
-Tretinoin Capsules are for the induction of remission only.
-Optimal consolidation or maintenance regimens have not been determined.
-All patients should, therefore, receive a standard consolidation and/or maintenance chemotherapy regimen for APL after induction therapy with tretinoin capsules, unless otherwise contraindicated.
+## 2.2 Recommended Dosage
+
+The recommended dosage of tretinoin capsules is 22.5 mg/m2 orally twice daily until complete remission is documented.
+Discontinue tretinoin capsules 30 days after achievement of complete remission or after 90 days of treatment, whichever occurs first.
+
+Discontinue tretinoin capsules if the t(15;17) translocation or PML/RARα fusion has not been identified [see Warnings and Precautions (5.3)].
+
+Take tretinoin capsules with a meal.
+
+Swallow tretinoin capsules whole with water.
+Do not chew, dissolve, or open capsule.
+
+Do not take a missed dose of tretinoin capsules unless it is more than 10 hours until the next scheduled dose.
+
+If vomiting occurs after tretinoin capsules administration, do not take an additional dose, but continue with the next scheduled dose.
