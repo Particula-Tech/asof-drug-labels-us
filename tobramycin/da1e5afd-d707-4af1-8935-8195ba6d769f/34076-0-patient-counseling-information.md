@@ -42,7 +42,7 @@ Catalent Pharma Solutions, LLC Woodstock, IL 60098
 
 Distributed by: PARI Respiratory Equipment, Inc. 2412 PARI Way, Midlothian, VA 23112
 
-850D5601Rev.
-D 11/2019
+850D5601 Rev.
+E 04/2023
 
-© 2013-2019 PulmoFlow, Inc. All rights reserved.
+© 2013-2023 PulmoFlow, Inc. All rights reserved.

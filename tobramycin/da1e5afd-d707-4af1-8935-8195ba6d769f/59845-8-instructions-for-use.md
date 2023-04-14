@@ -41,7 +41,7 @@ Step 3: Separate 1 ampule by gently pulling apart starting at the top of the amp
 
 Step 4: Hold the bottom tab on the KITABIS PAK ampule with 1 hand (See Figure F). With your other hand, hold the top of the ampule and twist off the top of the ampule (See Figure F).
 
-- Do not squeeze the ampule until you are ready to squeeze all of the medicine into the Nebulizer Cup.
+- Do notsqueeze the ampule until you are ready to squeeze all of the medicine into the Nebulizer Cup.
 
 Step 5: Hold the Nebulizer Cup and twist off the Nebulizer Insert or Top in a counter-clockwise direction (See Figure G). Set the Top aside on a clean, dry, surface.
 
@@ -94,7 +94,7 @@ How should I store KITABIS PAK?
 Keep KITABIS PAK and all medicines out of the reach of children.
 
 This Patient Information and Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Revised: DATE
+Revised: 4/23
 
 Additional Information
 
@@ -107,4 +107,4 @@ Catalent Pharma Solutions, LLC Woodstock, IL 60098
 Distributed by: PARI Respiratory Equipment, Inc. 2412 PARI Way, Midlothian, VA 23112
 
 850D5601 Rev.
-D 11/2019 © 2013-2019 PulmoFlow, Inc. All rights reserved.
+E 4/2023 © 2013-2023 PulmoFlow, Inc. All rights reserved.

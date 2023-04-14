@@ -8,8 +8,7 @@ Tobramycin is an aminoglycoside antibacterial [see Microbiology (12.4)].
 
 Absorption
 
-Tobramycin inhalation solution contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.1 The bioavailability of tobramycin inhalation solution may vary because of individual differences in nebulizer performance and airway pathology.
-2 Following administration of tobramycin inhalation solution, tobramycin remains concentrated primarily in the airways.
+Tobramycin inhalation solution contains tobramycin, a cationic polar molecule that does not readily cross epithelial membranes.1 The bioavailability of tobramycin inhalation solution may vary because of individual differences in nebulizer performance and airway pathology.2 Following administration of tobramycin inhalation solution, tobramycin remains concentrated primarily in the airways.
 
 Sputum Concentrations
 
@@ -45,8 +44,7 @@ Unabsorbed tobramycin, following tobramycin inhalation solution administration, 
 Mechanism of Action
 
 Tobramycin is an aminoglycoside antibacterial produced by Streptomyces tenebrarius.
-It acts primarily by disrupting protein synthesis, leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death.
-3
+It acts primarily by disrupting protein synthesis, leading to altered cell membrane permeability, progressive disruption of the cell envelope, and eventual cell death.3​
 
 Tobramycin has in vitro activity against Gram-negative bacteria including P. aeruginosa.
 It is bactericidal in vitro at peak concentrations equal to or slightly greater than the minimum inhibitory concentration.
@@ -59,8 +57,7 @@ The clinical significance of this information has not been clearly established i
 Susceptibility Testing
 
 Interpretive criteria for inhaled antibacterial products are not defined.
-The in vitro antimicrobial susceptibility test methods used for parenteral tobramycin therapy can be used to monitor the susceptibility of P. aeruginosa isolated from cystic fibrosis patients.
-4,5,6 If decreased susceptibility is noted, the results should be reported to the clinician.
+The in vitro antimicrobial susceptibility test methods used for parenteral tobramycin therapy can be used to monitor the susceptibility of P. aeruginosa isolated from cystic fibrosis patients.4,5,6 If decreased susceptibility is noted, the results should be reported to the clinician.
 Susceptibility breakpoints established for parenteral administration of tobramycin do not apply to aerosolized administration of tobramycin inhalation solution.
 The relationship between in vitro susceptibility test results and clinical outcome with tobramycin inhalation solution therapy is not clear.
 A single sputum sample from a cystic fibrosis patient may contain multiple morphotypes of Pseudomonas aeruginosa and each morphotype may have a different level of in vitro susceptibility to tobramycin.
