@@ -442,3 +442,215 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 © 2022 Amgen Inc. All rights reserved.
 1xxxxxx Revised: 7/2022 V2
+
+# INSTRUCTIONS FOR USE
+
+AMJEVITA™ (am-jeh-vee'-tah) (adalimumab-atto) 10 mg/0.2 mL injection, for subcutaneous use single-dose prefilled syringe
+
+This Instructions for Use contains information on how to inject AMJEVITA with a prefilled syringe.
+
+If your healthcare provider decides that a caregiver may be able to give your injections of AMJEVITA at home, they should receive training on the right way to prepare and inject AMJEVITA.
+Do not try to inject until they have been shown the right way to give the injections by your healthcare provider or nurse.
+
+The medicine in the AMJEVITA prefilled syringe is for injection under the skin (subcutaneous injection).
+See the AMJEVITA Medication Guide for information about AMJEVITA.
+
+| Getting to know your prefilled syringe |
+| --- |
+
+1.
+Important Information You Need to Know Before Injecting AMJEVITA
+
+- It is important that you do not try to give the injection until you have fully read and understood this Instructions for Use.
+- Do not use the syringe if the carton is damaged or the seal is broken.
+- Do not use the syringe after the expiration date on the label.
+- Do not shake the syringe.
+- Do not remove the needle cap from the syringe until you are ready to inject.
+- Do not use the syringe if it has been frozen.
+- Do not use the syringe if it has been dropped on a hard surface.
+  Part of the syringe may be broken even if you cannot see the break.
+  Use a new syringe, and call 1-800-77-AMGEN (1-800-772-6436).
+- The syringe is not made with natural rubber latex.
+  Important: Keep the syringe and sharps disposal container out of the sight and reach of children.
+
+Frequently asked questions:
+
+For additional information and answers to frequently asked questions, visit www.amjevita.com.
+
+Where to get help:
+
+If you want more information or help using AMJEVITA:
+
+- Contact your healthcare provider,
+- Visit www.amjevita.com, or
+- Call 1-800-77-AMGEN (1-800-772-6436)
+
+2.
+Storing and Preparing to Inject AMJEVITA
+
+2a Refrigerate the syringe carton until you are ready to use it.
+
+- Keep the syringe in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep the syringe in the original carton to protect it from light or physical damage.
+- Do not freeze the syringe.
+- Do not store the syringe in extreme heat or cold.
+  For example, avoid storing in your vehicle's glove box or trunk.
+  Important: Keep the syringe out of the sight and reach of children.
+
+2b Grasp the syringe by the body and remove it from the carton.
+
+- Do not grab the finger grip, plunger rod, or the needle cap.
+- Remove the number of syringes you need for your injection.
+- Put any unused syringes back into the refrigerator.
+
+| Wait |
+| --- |
+
+2c Wait 15 to 30 minutes for the syringe to reach room temperature.
+
+- Let the syringe warm up naturally.
+- Do not heat the syringe with hot water, a microwave or direct sunlight.
+- Do not shake the syringe at any time.
+- Using the syringe at room temperature allows for a more comfortable injection.
+
+2d You may keep AMJEVITA at room temperature for up to 14 days, if needed.
+
+- For example when you are traveling, you may keep AMJEVITA at room temperature.
+  - Keep it at room temperature between 68° F to 77° F (20° C to 25° C).
+  - Do not put it back in the refrigerator.
+  - Record the date you removed it from the refrigerator and use it within 14 days.
+
+| Important: Place the syringe in a sharps disposal container if it has reached room temperature and has not been used within 14 days. |
+| --- |
+
+2e Gather and place the following items for your injection on a clean, flat, and well-lit surface:
+
+- AMJEVITA syringe (room temperature)
+- Sharps disposal container [see Disposing of AMJEVITA and Checking the Injection Site]
+- Alcohol wipe
+- Adhesive bandage
+- Cotton ball or gauze pad
+
+3.
+Getting Ready for Your Injection
+
+3a Inspect the medicine.
+It should be clear and colorless to pale yellow.
+
+- It is okay to see air bubbles in the syringe.
+- Do not use AMJEVITA if the medicine is cloudy, discolored or has flakes.
+
+| Important: If the medicine is cloudy, discolored or has flakes or if the syringe is damaged or expired, call 1-800-77-AMGEN (1-800-722-6436). |
+| --- |
+
+3b Check the expiration date (Exp.) and inspect the syringe for damage.
+
+- Do not use the syringe if the expiration date has passed.
+- Do not use the syringe if:
+  - the needle cap is missing or loose.
+  - it has cracks or broken parts.
+  - it has been dropped on a hard surface.
+- Make sure you have the right medicine and dose.
+
+3c Inject into 1 of these locations.
+
+- Inject into the front of your thigh or stomach (except for 2 inches around your belly button).
+- Choose a different site for each injection.
+
+| Important: Avoid areas with scars, stretch marks or where the skin is tender, bruised, red or hard. |
+| --- |
+
+3d Wash hands thoroughly with soap and water.
+
+3e Clean the injection site with an alcohol wipe.
+
+- Let the skin dry on its own.
+- Do not touch this area again before injecting.
+
+4.
+Injecting AMJEVITA
+
+| Important: Only remove the needle cap when you can inject right away (within 5 minutes) because the medicine can dry out. |
+| --- |
+
+4a Pull the needle cap straight off while holding the syringe body.
+
+- Do not twist or bend the needle cap.
+- Never put the needle cap back on.
+  It may damage the needle.
+- Do not let anything touch the needle after you remove the needle cap.
+- Do not place the uncapped syringe on any surface after you remove the needle cap.
+- Do not try to push air bubbles out of the syringe.
+  It is okay to see air bubbles.
+- It is normal to see a drop of medicine come out of the needle.
+
+| Important: Never put the needle cap back on to avoid accidental needlestick injury. |
+| --- |
+
+4b Place the needle cap in the sharps disposal container.
+
+4c Pinch the skin around the injection site before injection.
+
+- Pinch the skin between the thumb and pointer (index) finger to create a bump for injection.
+- If possible, the bump should be about 2 inches wide.
+
+| Important: Continue to pinch the skin until the injection is complete. |
+| --- |
+
+4d Insert the needle into the pinched skin at about a 45-degree angle.
+
+- Do not place your finger on the plunger rod while inserting the needle, as this may result in lost medicine.
+
+4e Slowly press the plunger rod all the way down until it reaches the bottom to inject the medicine.
+
+- Do not pull back on the plunger rod at any time.
+- Do not remove the syringe until all of the medicine has been injected.
+
+5.
+Disposing of AMJEVITA and Checking the Injection Site
+
+| Important: Never put the needle cap back on. |
+| --- |
+
+5a Place the used syringe in an FDA-cleared sharps disposal container right away after use.
+
+| Important: Do not throw away the syringe in your household trash. |
+| --- |
+
+- Do not reuse the syringe.
+
+5b Check the injection site.
+
+- Do not rub the injection site.
+- If there is blood, press a cotton ball or gauze pad on the injection site.
+  Apply an adhesive bandage if necessary.
+
+Additional information about your sharps disposal container
+
+If you do not have an FDA-cleared sharps disposal container you may use a household container that is:
+
+- made of a heavy-duty plastic,
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+- upright and stable during use,
+- leak-resistant, and
+- properly labeled to warn of hazardous waste inside the container.
+
+Disposing of sharps containers:
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+
+There may be state or local laws about how you should throw away used needles and syringes.
+
+For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal
+
+Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+
+Do not recycle your used sharps disposal container.
+
+For more information or help call 1-800-77-AMGEN (1-800-772-6436).
+
+This Instructions for Use has been approved by the US Food and Drug Administration.
+
+AMJEVITA (adalimumab-atto)
+
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License Number 1080 ©2023 Amgen Inc. All rights reserved. nnnnnnnnnn Issued: 04/2023
