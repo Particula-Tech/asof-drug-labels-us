@@ -8,6 +8,7 @@ The following packaging configurations are available.
 
 | Presentation | Number of Units/Pack | NDC number |
 | --- | --- | --- |
+| 10 mg/0.2 mL prefilled glass syringe with a fixed 29 gauge needle | 1 | 55513-413-01 |
 | 20 mg/0.4 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-411-01 |
 | 40 mg/0.8 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-410-01 |
 | 2 | 55513-410-02 |  |

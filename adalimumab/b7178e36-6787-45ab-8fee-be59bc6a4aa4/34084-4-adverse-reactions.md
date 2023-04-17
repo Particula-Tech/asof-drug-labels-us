@@ -74,12 +74,12 @@ In Study RA-III, the types and frequencies of adverse reactions in the second ye
 Table 1.
 Adverse Reactions Reported by ≥ 5% of Patients Treated with adalimumab During Placebo-Controlled Period of Pooled RA Studies (Studies RA-I, RA-II, RA-III, and RA-IV)
 
-| Respiratory |  |  |
+| Adverse Reaction (Preferred Term) |  |  |
 | --- | --- | --- |
 |  | Adalimumab 40 mg subcutaneous | Placebo |
 |  | Every Other Week |  |
 |  | (N = 705) | (N = 690) |
-| Adverse Reaction (Preferred Term) |  |  |
+| Respiratory |  |  |
 | Upper respiratory infection | 17% | 13% |
 | Sinusitis | 11% | 9% |
 | Flu syndrome | 7% | 6% |

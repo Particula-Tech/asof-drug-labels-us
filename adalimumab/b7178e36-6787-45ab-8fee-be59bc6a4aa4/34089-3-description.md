@@ -15,3 +15,6 @@ Each 0.8 mL of AMJEVITA is formulated with glacial acetic acid (0.48 mg), polyso
 
 Each 20 mg/0.4 mL prefilled syringe delivers 0.4 mL (20 mg) of drug product.
 Each 0.4 mL of AMJEVITA is formulated with glacial acetic acid (0.24 mg), polysorbate 80 (0.4 mg), sodium hydroxide for pH adjustment, sucrose (36 mg), and Water for Injection, USP, pH 5.2.
+
+Each 10 mg/0.2 mL prefilled syringe delivers 0.2 mL (10 mg) of drug product.
+Each 0.2 mL of AMJEVITA is formulated with glacial acetic acid (0.12 mg), polysorbate 80 (0.2 mg), sodium hydroxide for pH adjustment, sucrose (18 mg), and Water for Injection, USP, pH 5.2.

@@ -511,7 +511,7 @@ Both studies evaluated Hidradenitis Suppurativa Clinical Response (HiSCR) at Wee
 HiSCR was defined as at least a 50% reduction in total abscess and inflammatory nodule count with no increase in abscess count and no increase in draining fistula count relative to baseline (see Table 18).
 Reduction in HS-related skin pain was assessed using a Numeric Rating Scale in patients who entered the study with an initial baseline score of 3 or greater on a 11 point scale.
 
-In both studies, a higher proportion of adalimumab- than placebo-treated subjects achieved HiSCR (see Table 18)
+In both studies, a higher proportion of adalimumab- than placebo-treated subjects achieved HiSCR (see Table 18).
 
 Table 18.
 Efficacy Results at 12 Weeks in Subjects with Moderate to Severe Hidradenitis Suppurativa

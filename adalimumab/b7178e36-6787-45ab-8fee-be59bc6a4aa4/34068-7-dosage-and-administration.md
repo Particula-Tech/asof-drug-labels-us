@@ -13,10 +13,9 @@ MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatmen
 
 | Pediatric Weight (2 Years of Age and Older) | Recommended Dosage |
 | --- | --- |
+| 10 kg (22 lbs) to less than 15 kg (33 lbs) | 10 mg every other week |
 | 15 kg (33 lbs) to less than 30 kg (66 lbs) | 20 mg every other week |
 | 30 kg (66 lbs) and greater | 40 mg every other week |
-
-There is no dosage form for AMJEVITA that allows weight based dosing for pediatric patients below 15 kg.
 
 Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
 
