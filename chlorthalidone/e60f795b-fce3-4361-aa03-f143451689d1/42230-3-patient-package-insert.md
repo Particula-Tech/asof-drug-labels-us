@@ -128,7 +128,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about Edarbyclor that is written for health professionals.
 
-For more information, go to www.edarbyclor.com or call 1-866-516-4950.
+For more information, go to www.edarbyclor.com or call 1-800-461-7449.
 
 What is high blood pressure (hypertension)?
 
@@ -149,12 +149,12 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Manufactured by: Takeda Ireland
 
-Manufactured for: arbor® PHARMACEUTICALS, LLC Atlanta, GA 30328
+Manufactured for: azurity® pharmaceuticals Woburn, MA 01801
 
-Revised: MARCH 2020
+Patent: https://azurity.com/patents
 
-Edarbyclor is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Arbor Pharmaceuticals, LLC.
+Revised: April 2023
 
-©2020 Arbor Pharmaceuticals, LLC
+Edarbyclor is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Azurity Pharmaceuticals, Inc.
 
-EC-PI-07
+EC-PI-09
