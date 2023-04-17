@@ -97,14 +97,15 @@ Selected requirements of the TOUCH® Prescribing Program include the following:
 
 - Prescribers must be certified and comply with the following:
   - – Review the TOUCH® Prescribing Program prescriber educational materials, including the full prescribing information.
+  - – Review, complete, and sign the Prescriber Enrollment Form.
   - – Educate patients on the benefits and risks of treatment with TYSABRI, ensure that patients receive the Medication Guide, and encourage them to ask questions.
-  - – Review, complete, and sign the Patient-Prescriber Enrollment Form.
+  - – Review, complete, and sign the Patient Enrollment Form for each patient.
   - – Evaluate patients three months after the first infusion, six months after the first infusion, every six months thereafter, and for at least six months after discontinuing TYSABRI.
   - – Determine every six months whether patients should continue on treatment and, if so, authorize treatment for another six months.
   - – Submit to Biogen the “TYSABRI Patient Status Report and Reauthorization Questionnaire” six months after initiating treatment and every six months thereafter.
   - – Complete an “Initial Discontinuation Questionnaire” when TYSABRI is discontinued, and a “6-Month Discontinuation Questionnaire” following discontinuation of TYSABRI.
   - – Report cases of PML, hospitalizations due to opportunistic infections, and deaths to Biogen at 1-800-456-2255 as soon as possible.
-- Patients must be enrolled in the TOUCH® Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI, and complete and sign the Patient-Prescriber Enrollment Form.
+- Patients must be enrolled in the TOUCH® Prescribing Program, read the Medication Guide, understand the risks associated with TYSABRI, and complete and sign the Patient Enrollment Form.
 - Pharmacies and infusion centers must be specially certified to dispense or infuse TYSABRI.
 
 ## 5.3 Herpes Infections

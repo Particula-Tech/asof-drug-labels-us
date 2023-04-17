@@ -27,7 +27,7 @@ TYSABRI TOUCH® Prescribing Program
 Advise the patient that TYSABRI is only available through a restricted program called the TOUCH® Prescribing Program.
 Inform the patient of the following requirements:
 
-Patients must read the Medication Guide and sign the Patient Prescriber Enrollment Form.
+Patients must read the Medication Guide and sign the Patient Enrollment Form.
 Advise patients that TYSABRI is available only from certified pharmacies and infusion centers participating in the program [see Warnings and Precautions (5.2)].
 
 Herpes Infections
@@ -58,9 +58,9 @@ Pregnancy
 
 Instruct patients that if they become pregnant or plan to become pregnant while taking TYSABRI they should inform their healthcare provider [see Use in Specific Populations (8.1)].
 
-I61061-28
+I61061-29
 
 TYSABRI (natalizumab) Manufactured by: Biogen Inc. Cambridge, MA 02142 USA US License No. 1697
 
-© 2015-2021 Biogen Inc. All rights reserved.
+© 2015-2023 Biogen Inc. All rights reserved.
 U.S. Patent Numbers: 5,840,299; 6,602,503
