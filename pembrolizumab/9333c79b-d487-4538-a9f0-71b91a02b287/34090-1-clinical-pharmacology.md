@@ -35,3 +35,12 @@ The following factors had no clinically important effect on the CL of pembrolizu
 The impact of moderate or severe hepatic impairment on the pharmacokinetics of pembrolizumab is unknown.
 
 Pediatric Patients: Pembrolizumab concentrations with weight-based dosing at 2 mg/kg every 3 weeks in pediatric patients (10 months to 17 years) are comparable to those of adults at the same dose.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibody (ADA) is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described in this section with the incidence of ADA in other studies, including those of KEYTRUDA or of other pembrolizumab products.
+
+Trough levels of pembrolizumab interfere with the electrochemiluminescent (ECL) assay results; therefore, a subset analysis was performed in the patients with a concentration of pembrolizumab below the drug tolerance level of the anti-product antibody assay.
+In clinical studies in patients treated with pembrolizumab at a dose of 2 mg/kg every 3 weeks, 200 mg every 3 weeks, or 10 mg/kg every 2 or 3 weeks, 27 (2.1%) of 1289 evaluable patients tested positive for treatment-emergent anti-pembrolizumab antibodies of whom six (0.5%) patients had neutralizing antibodies against pembrolizumab.
+There was no evidence of an altered pharmacokinetic profile or increased infusion reactions with anti-pembrolizumab binding antibody development.

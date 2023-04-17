@@ -71,3 +71,10 @@ No overall differences in safety or effectiveness were observed between elderly 
 
 Of 406 adult patients with endometrial carcinoma who were treated with KEYTRUDA in combination with lenvatinib in KEYNOTE-775, 201 (50%) were 65 years and over.
 No overall differences in safety or effectiveness were observed between elderly patients and younger patients.
+
+Of the 121 patients treated with KEYTRUDA in combination with enfortumab vedotin, 43% (n=52) were 65-74 years and 33% (n=40) were 75 years or older.
+No overall differences in effectiveness were observed between patients 65 years of age or older and younger patients.
+There were an insufficient number of patients treated with KEYTRUDA in combination with enfortumab vedotin in clinical trials to accurately characterize safety by age.
+
+Of the 432 patients randomized to KEYTRUDA in combination with axitinib in the KEYNOTE-426 trial, 40% were 65 years or older.
+No overall difference in safety or efficacy was reported between patients who were ≥65 years of age and younger.
