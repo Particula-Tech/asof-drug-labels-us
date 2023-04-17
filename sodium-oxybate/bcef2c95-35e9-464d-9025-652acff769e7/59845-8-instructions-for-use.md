@@ -61,9 +61,10 @@ See Figure G above.
   Be careful to add only water to the pharmacy container and not more Sodium Oxybate Oral Solution.
 - •All shipped bottles of Sodium Oxybate Oral Solution contain the concentrated medicine.
   Water for mixing the medicine is not provided in the shipment.
-- •Place the child-resistant cap on the filled pharmacy container and turn the cap clockwise (to the right) until it clicks and locks into its child-resistant position.
-  See Figure I. (Caution: the pharmacy container cap is reversible with a non-child resistant side.
-  See Figure J. Ensure the child-resistant side of the cap is used to prevent access of the medicine by children.)
+- •After mixing the medicine and water in the provided pharmacy container, place the child-resistant cap on the filled pharmacy container and turn the cap clockwise (to the right) until it clicks and locks into its child-resistant position.
+  See Figure I.
+- •Caution: the pharmacy container cap is reversible with a non-child resistant side.
+  See Figure J. Make sure the child-resistant side of the cap is used to prevent access to the medicine by children.
 
 Step 3.
 Prepare the second Sodium Oxybate Oral Solution dose (prepare before bedtime)
@@ -122,5 +123,5 @@ Throwing away (disposing of) Sodium Oxybate Oral Solution
 
 Distributed By: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-These Instructions for Use have been approved by the U.S. Food and Drug Administration.
-Approved: 10/2022
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+Revised: 4/2023
