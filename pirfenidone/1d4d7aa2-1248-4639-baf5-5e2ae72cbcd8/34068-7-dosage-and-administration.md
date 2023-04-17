@@ -28,7 +28,8 @@ Patients should not take more than 3 doses per day.
 Patients who miss 14 or more days of pirfenidone capsules should re-initiate treatment by undergoing the initial 2-week titration regimen up to the full maintenance dosage [see Dosage and Administration (2.2)].
 For treatment interruption of less than 14 days, the dosage prior to the interruption can be resumed.
 
-If patients experience significant adverse reactions (i.e. gastrointestinal, photosensitivity reaction or rash), consider temporary dosage reductions or interruptions of pirfenidone capsules to allow for resolution of symptoms [see Warnings and Precautions (5.1, 5.2, 5.3)].
+If patients experience significant adverse reactions (i.e. gastrointestinal, photosensitivity reaction or rash, severe cutaneous adverse reactions (SCAR)), consider temporary dosage reductions or interruptions of pirfenidone capsules to allow for resolution of symptoms.
+If a SCAR is confirmed, permanently discontinue pirfenidone capsules [see Warnings and Precautions (5.1, 5.2, 5.3, 5.4)].
 
 Dosage Modification due to Elevated Liver Enzymes
 
@@ -59,4 +60,4 @@ Reduce pirfenidone capsules to 267 mg three times a day (801 mg/day).
 
 Moderate CYP1A2 Inhibitors (e.g., ciprofloxacin)
 
-With use of ciprofloxacin at a dosage of 750 mg twice daily, reduce pirfenidone capsules to 534 mg (two 267 mg capsules) three times a day (1,602 mg/day).
+With use of ciprofloxacin at a dosage of 750 mg twice daily, reduce pirfenidone capsules to 534 mg three times a day (1,602 mg/day).

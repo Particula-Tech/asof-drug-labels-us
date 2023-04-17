@@ -4,7 +4,8 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Liver Enzyme Elevations and Drug-Induced Liver Injury [see Warnings and Precautions (5.1)]
 - Photosensitivity Reaction or Rash [see Warnings and Precautions (5.2)]
-- Gastrointestinal Disorders [see Warnings and Precautions (5.3)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.3)]
+- Gastrointestinal Disorders [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -55,6 +56,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic System Disorders: Agranulocytosis
 
+Hepatobiliary Disorders: Drug-induced liver injury
+
 Immune System Disorders: Angioedema
 
-Hepatobiliary Disorders: Drug-induced liver injury [see Warnings and Precautions (5.1)]
+Skin and Subcutaneous Tissue Disorders: Severe Cutaneous Adverse Reactions (SCAR)
