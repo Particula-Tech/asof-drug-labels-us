@@ -25,10 +25,10 @@ In some susceptible patients, continued use of topical NSAIDs may result in epit
 These events may be sight threatening.
 Patients with evidence of corneal epithelial breakdown should immediately discontinue use of topical NSAIDs, including BromSite (bromfenac ophthalmic solution) 0.075%, and should be closely monitored for corneal health.
 
-Post-marketing experience with topical NSAIDs suggests that patients with complicated ocular surgeries, corneal denervation, corneal epithelial defects, diabetes mellitus, ocular surface diseases (e.g., dry eye syndrome), rheumatoid arthritis, or repeat ocular surgeries within a short period of time may be at increased risk for corneal adverse events which may become sight threatening.
+Postmarketing experience with topical NSAIDs suggests that patients with complicated ocular surgeries, corneal denervation, corneal epithelial defects, diabetes mellitus, ocular surface diseases (e.g., dry eye syndrome), rheumatoid arthritis, or repeat ocular surgeries within a short period of time may be at increased risk for corneal adverse events which may become sight threatening.
 Topical NSAIDs should be used with caution in these patients.
 
-Post-marketing experience with topical NSAIDs also suggests that use more than 24 hours prior to surgery or use beyond 14 days postsurgery may increase patient risk for the occurrence and severity of corneal adverse events.
+Postmarketing experience with topical NSAIDs also suggests that use more than 24 hours prior to surgery or use beyond 14 days postsurgery may increase patient risk for the occurrence and severity of corneal adverse events.
 
 ## 5.5 Contact Lens Wear
 

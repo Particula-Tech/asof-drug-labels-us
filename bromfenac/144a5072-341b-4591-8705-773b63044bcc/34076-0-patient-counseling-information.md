@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients to read the FDA-approved patient labeling (INSTRUCTIONS FOR USE).
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
 Slow or Delayed Healing Advise patients of the possibility that slow or delayed healing may occur while using NSAIDs.
 Concomitant Topical Ocular Therapy If more than one topical ophthalmic medication is being used, advise patients to administer BromSite at least 5 minutes after instillation of other topical medications.
 Concomitant Use of Contact Lenses Advise patients not to wear contact lenses during administration of BromSite.
@@ -11,4 +11,12 @@ Advise patients to thoroughly wash hands prior to using BromSite.
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-US Patent No. 8778999 DuraSite® and BromSite™ are trademarks of Sun Pharma Global FZE April 2016
+US Patent No. 8,778,999
+
+BromSite and DuraSite are registered trademarks of Sun Pharmaceutical Industries Limited
+
+© 2022 Sun Pharmaceutical Industries, Inc. All rights reserved.
+
+Rev: MM/YYYY
+
+VISX001-642R02
