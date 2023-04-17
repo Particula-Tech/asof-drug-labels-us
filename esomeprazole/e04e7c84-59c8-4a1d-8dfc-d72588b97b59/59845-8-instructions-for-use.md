@@ -1,10 +1,8 @@
 # Instructions for Use
 
-Esomeprazole Magnesium Delayed-Release Capsules, USP
-
 For instructions on taking delayed-release capsules, see the section of this leaflet called “How should I take esomeprazole magnesium delayed-release capsules?”
 
-Esomeprazole magnesium delayed-release capsules may be given through a nasogastric tube (NG tube) or gastric tube, as prescribed by your doctor.
+Esomeprazole magnesium delayed-release capsules may be given through a nasogastric tube (NG tube), as prescribed by your doctor.
 Follow the instructions below:
 
 Esomeprazole Magnesium Delayed-Release Capsules:
@@ -20,14 +18,14 @@ Esomeprazole Magnesium Delayed-Release Capsules:
   Give the medicine in the syringe through the NG tube into the stomach.
 - •After giving the pellets, flush the NG tube with more water.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
 The brands listed are trademarks of their respective owners.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75078602
+Revised: 4/2023
 
-Revised: 1/2021 MX:ESOME:R7m/MX:MG:ESOME:R4m
+750XXXXX
+
+MX:ESOME:RX3

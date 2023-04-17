@@ -2,87 +2,86 @@
 
 ## 12.1 Mechanism of Action
 
-Esomeprazole is a proton pump inhibitor that suppresses gastric acid secretion by specific inhibition of the H+/K+-ATPase in the gastric parietal cell.
-The S- and R-isomers of omeprazole are protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide.
-By acting specifically on the proton pump, esomeprazole blocks the final step in acid production, thus reducing gastric acidity.
-This effect is dose-related up to a daily dose of 20 to 40 mg and leads to inhibition of gastric acid secretion.
+Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell.
+Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide.
+Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, esomeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production.
+This effect is dose-related and leads to inhibition of both basal and stimulated acid secretion irrespective of the stimulus.
 
 ## 12.2 Pharmacodynamics
 
 ### Antisecretory Activity
 
-The effect of esomeprazole magnesium delayed-release capsules on intragastric pH was determined in patients with symptomatic gastroesophageal reflux disease in two separate studies.
-In the first study of 36 patients, esomeprazole magnesium 40 mg and 20 mg delayed-release capsules were administered over 5 days.
-The results are shown in the Table 3:
+#### Adults
 
-Table 3: Effect on Intragastric pH on Day 5 (N = 36)
+The effect of esomeprazole on intragastric pH was determined in adult patients with symptomatic GERD in two separate studies.
+In the first study of 36 patients, esomeprazole magnesium 40 mg and 20 mg delayed-release capsules were administered once daily over 5 days as shown in Table 5:
 
-| Parameter | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | Esomeprazole Magnesium Delayed-Release Capsules 20 mg |
+Table 5: Effect of Esomeprazole on Intragastric pH on Day 5 (N = 36) Following Once Daily Dosing of Esomeprazole Magnesium Delayed-Release Capsules in Adult Patients with Symptomatic GERD
+
+| Parameter | Esomeprazole Magnesium Delayed-Release Capsules |  |
 | --- | --- | --- |
-| % Time Gastric pH > 4Gastric pH was measured over a 24-hour period (Hours) | 70%p < 0.01 esomeprazole magnesium delayed-release capsules 40 mg vs. esomeprazole magnesium delayed-release capsules 20 mg(16.8 h) | 53%(12.7 h) |
+| 40 mg once daily | 20 mg once daily |  |
+| % Time Gastric pH > 4Gastric pH was measured over a 24-hour period (Hours) | 70%p < 0.01 esomeprazole magnesium delayed-release capsules 40 mg vs. esomeprazole magnesium delayed-release capsules 20 mg (16.8 h) | 53% (12.7 h) |
 | Coefficient of variation | 26% | 37% |
 | Median 24 Hour pH | 4.9 | 4.1 |
 | Coefficient of variation | 16% | 27% |
 
-In a second study, the effect on intragastric pH of esomeprazole magnesium delayed-release capsules 40 mg administered once daily over a 5 day period was similar to the first study, (% time with pH > 4 was 68% or 16.3 hours).
+In a second study, the effect on intragastric pH of esomeprazole magnesium 40 mg delayed-release capsules administered once daily over a five-day period was similar to the first study, (% time with pH > 4 was 68% or 16.3 hours).
 
 ### Serum Gastrin Effects
 
-The effect of esomeprazole magnesium delayed-release capsules on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials up to 8 weeks and in over 1,300 patients for up to 6 to 12 months.
+The effect of esomeprazole on serum gastrin concentrations was evaluated in approximately 2,700 patients in clinical trials of oral esomeprazole for up to 8 weeks and in over 1,300 patients for up to 12 months.
 The mean fasting gastrin level increased in a dose-related manner.
-This increase reached a plateau within 2 to 3 months of therapy and returned to baseline levels within 4 weeks after discontinuation of therapy.
+The increase in serum gastrin concentrations reached a plateau within two to three months of therapy and returned to baseline levels within four weeks after discontinuation of therapy.
 
 Increased gastrin causes enterochromaffin-like cell hyperplasia and increased serum Chromogranin A (CgA) levels.
-The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors.
-Healthcare providers should temporarily stop esomeprazole treatment at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high.
+The increased CgA levels may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11)].
 
 ### Enterochromaffin-like (ECL) Cell Effects
 
-In 24-month carcinogenicity studies of omeprazole in rats, a dose-related significant occurrence of gastric ECL cell carcinoid tumors and ECL cell hyperplasia was observed in both male and female animals [see Nonclinical Toxicology (13.1)].
-Carcinoid tumors have also been observed in rats subjected to fundectomy or long-term treatment with other proton pump inhibitors or high doses of H2-receptor antagonists.
+Human gastric biopsy specimens have been obtained from more than 3,000 patients (both pediatrics and adults) treated with omeprazole in long-term clinical trials.
+The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients [see Nonclinical Toxicology (13.1)].
 
-Human gastric biopsy specimens have been obtained from more than 3,000 patients (both children and adults) treated with omeprazole in long-term clinical trials.
-The incidence of ECL cell hyperplasia in these studies increased with time; however, no case of ECL cell carcinoids, dysplasia, or neoplasia has been found in these patients.
-
-In over 1,000 patients treated with esomeprazole magnesium delayed-release capsules (10, 20 or 40 mg/day) up to 6 to 12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
+In over 1,000 patients treated with oral esomeprazole (10 mg, 20 mg or 40 mg/day) for up to 12 months, the prevalence of ECL cell hyperplasia increased with time and dose.
 No patient developed ECL cell carcinoids, dysplasia, or neoplasia in the gastric mucosa.
 
 ### Endocrine Effects
 
-Esomeprazole magnesium delayed-release capsules had no effect on thyroid function when given in oral doses of 20 or 40 mg for 4 weeks.
-Other effects of esomeprazole magnesium delayed-release capsules on the endocrine system were assessed using omeprazole studies.
-Omeprazole given in oral doses of 30 or 40 mg for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin, or secretin.
+Esomeprazole had no effect on thyroid function in adults when given esomeprazole magnesium 20 mg or 40 mg delayed-release capsules once daily for 4 weeks.
+Other effects of esomeprazole on the endocrine system were assessed in studies of omeprazole.
+Oral doses of omeprazole 30 mg or 40 mg once daily for 2 to 4 weeks had no effect on carbohydrate metabolism, circulating levels of parathyroid hormone, cortisol, estradiol, testosterone, prolactin, cholecystokinin, or secretin.
 
 ## 12.3 Pharmacokinetics
 
 ### Absorption
 
-Esomeprazole magnesium delayed-release capsules contain an enteric-coated pellet formulation of esomeprazole magnesium.
-After oral administration, peak plasma levels (Cmax) occur at approximately 1.5 hours (Tmax).
+After oral administration, peak plasma levels (Cmax) of esomeprazole occur at approximately 1.5 hours (Tmax).
 The Cmax increases proportionally when the dose is increased, and there is a three-fold increase in the area under the plasma concentration-time curve (AUC) from 20 to 40 mg.
-At repeated once daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
-The mean exposure (AUC) to esomeprazole increases from 4.32 μmol*hr/L on Day 1 to 11.2 μmol*hr/L on Day 5 after 40 mg once daily dosing.
+At repeated once-daily dosing with 40 mg, the systemic bioavailability is approximately 90% compared to 64% after a single dose of 40 mg.
+The mean exposure (AUC) to esomeprazole increases from 4.32 micromol*hr/L on Day 1 to 11.2 micromol*hr/L on Day 5 after 40 mg once daily dosing.
 
-The AUC after administration of a single 40 mg dose of esomeprazole magnesium delayed-release capsules is decreased by 43% to 53% after food intake compared to fasting conditions.
-Esomeprazole magnesium delayed-release capsules should be taken at least one hour before meals.
+The AUC after administration of a single 40 mg dose of esomeprazole magnesium delayed-release capsules is decreased by 43% to 53% after food intake compared to fasting conditions [see Dosage and Administration (2.3)].
+The pharmacokinetics of esomeprazole in adult patients with symptomatic GERD following repeated once daily administration of 20 mg and 40 mg esomeprazole magnesium delayed-release capsules over a period of five days are shown in Table 6:
 
-The pharmacokinetic profile of esomeprazole magnesium delayed-release capsules was determined in 36 patients with symptomatic gastroesophageal reflux disease following repeated once daily administration of 20 mg and 40 mg delayed-release capsules of esomeprazole magnesium over a period of 5 days.
-The results are shown in the Table 4:
+Table 6: Geometric Mean (95% CI) Pharmacokinetic Parameters of Esomeprazole on Day 5 Following Once Daily Dosing of Esomeprazole Magnesium Delayed-Release Capsules in Adult Patients with Symptomatic GERD
 
-Table 4: Pharmacokinetic Parameters of Esomeprazole Magnesium Delayed-Release Capsules on Day 5 Following Oral Dosing for 5 Days
-
-| ParameterValues represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation (CV) | Esomeprazole Magnesium Delayed-Release Capsules 40 mg | Esomeprazole Magnesium Delayed-Release Capsules 20 mg |
+|  | Esomeprazole Magnesium Delayed-Release Capsules |  |
 | --- | --- | --- |
-| AUC (μmol*h/L) | 12.6 (42%) | 4.2 (59%) |
-| Cmax (μmol/L) | 4.7 (37%) | 2.1 (45%) |
-| Tmax (h) | 1.6 | 1.6 |
-| t1/2 (h) | 1.5 | 1.2 |
+| ParameterValues represent the geometric mean, except the Tmax, which is the arithmetic mean; CV = Coefficient of variation (CV) | 40 mg once daily (n = 36) | 20 mg once daily (n = 36) |
+| AUC (micromol·h/L) | 12.6 (42%) | 4.2 (59%) |
+| Cmax (micromol/L) | 4.7 (37%) | 2.1 (45%) |
+| Tmax (hours) | 1.6 | 1.6 |
+| t1/2 (hours) | 1.5 | 1.2 |
+
+Esomeprazole is a time-dependent inhibitor of CYP2C19, resulting in autoinhibition and nonlinear pharmacokinetics.
+The systemic exposure increases in a more than dose proportional manner after multiple oral doses of esomeprazole.
+Compared to the first dose, the systemic exposure (Cmax and AUC0-24h) at steady state following once a day dosing increased by 43% and 90%, respectively, compared to after the first dose for the 20 mg dose and increased by 95% and 159%, respectively, for the 40 mg dose.
 
 ### Distribution
 
 Esomeprazole is 97% bound to plasma proteins.
-Plasma protein binding is constant over the concentration range of 2 to 20 μmol/L.
-The apparent volume of distribution at steady state in healthy volunteers is approximately 16 L.
+Plasma protein binding is constant over the concentration range of 2 to 20 micromol/L.
+The apparent volume of distribution at steady state in healthy subjects is approximately 16 L.
 
 ### Elimination
 
@@ -92,10 +91,6 @@ Esomeprazole is extensively metabolized in the liver by the cytochrome P450 (CYP
 The metabolites of esomeprazole lack antisecretory activity.
 The major part of esomeprazole’s metabolism is dependent upon the CYP2C19 isoenzyme, which forms the hydroxy and desmethyl metabolites.
 The remaining amount is dependent on CYP3A4 which forms the sulphone metabolite.
-CYP2C19 isoenzyme exhibits polymorphism in the metabolism of esomeprazole, since some 3% of Caucasians and 15 to 20% of Asians lack CYP2C19 and are termed Poor Metabolizers.
-At steady state, the ratio of AUC in Poor Metabolizers to AUC in the rest of the population (Extensive Metabolizers) is approximately 2.
-
-Following administration of equimolar doses, the S- and R-isomers are metabolized differently by the liver, resulting in higher plasma levels of the S- than of the R-isomer.
 
 #### Excretion
 
@@ -103,99 +98,125 @@ The plasma elimination half-life of esomeprazole is approximately 1 to 1.5 hours
 Less than 1% of parent drug is excreted in the urine.
 Approximately 80% of an oral dose of esomeprazole is excreted as inactive metabolites in the urine, and the remainder is found as inactive metabolites in the feces.
 
-### Combination Therapy with Antimicrobials
+### Combination Therapy with Amoxicillin and Clarithromycin
 
-Esomeprazole magnesium 40 mg once daily was given in combination with clarithromycin 500 mg twice daily and amoxicillin 1000 mg twice daily for 7 days to 17 healthy male and female subjects.
-The mean steady state AUC and Cmax of esomeprazole increased by 70% and 18%, respectively during triple combination therapy compared to treatment with esomeprazole alone.
-The observed increase in esomeprazole exposure during co-administration with clarithromycin and amoxicillin is not expected to produce significant safety concerns.
+Esomeprazole magnesium delayed-release capsules 40 mg once daily was given in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily for 7 days to 17 healthy male and female subjects.
+The mean steady state AUC and Cmax of esomeprazole increased by 70% and 18%, respectively during combination therapy compared to treatment with esomeprazole magnesium delayed-release capsules alone.
+The observed increase in esomeprazole exposure during co-administration with amoxicillin and clarithromycin is not expected to be clinically relevant.
 
-The pharmacokinetic parameters for clarithromycin and amoxicillin were similar during triple combination therapy and administration of each drug alone.
-However, the mean AUC and Cmax for 14-hydroxyclarithromycin increased by 19% and 22%, respectively, during triple combination therapy compared to treatment with clarithromycin alone.
-This increase in exposure to 14-hydroxyclarithromycin is not considered to be clinically significant.
-
-### Concomitant Use with Clopidogrel
-
-Results from a cross-over study in healthy subjects have shown a pharmacokinetic interaction between clopidogrel (300 mg loading dose/75 mg daily maintenance dose) and esomeprazole (40 mg p.o. once daily) when co-administered for 30 days.
-Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period.
-Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite.
-
-### Concomitant Use with Mycophenolate Mofetil
-
-Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA.
+The pharmacokinetic parameters for amoxicillin and clarithromycin were similar during combination therapy and administration of each drug alone.
+However, the mean AUC and Cmax for 14-hydroxyclarithromycin increased by 19% and 22%, respectively, during combination therapy compared to treatment with clarithromycin alone.
+This increase in exposure to 14-hydroxyclarithromycin is not considered to be clinically relevant.
 
 ### Specific Populations
 
-#### Age: Geriatric Population
+#### Geriatric Patients
 
-The AUC and Cmax values were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
-Dosage adjustment based on age is not necessary.
+The AUC and Cmax values of esomeprazole were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
+This increase in exposure is not considered clinically relevant.
 
-#### Age: Pediatric Population
+#### Pediatric Patients
 
-##### 1 to 11 Years of Age
+12 Years to 17 Years of Age
 
-The pharmacokinetics of esomeprazole were studied in pediatric patients with GERD aged 1 to 11 years.
-Following once daily dosing for 5 days, the total exposure (AUC) for the 10 mg dose in patients aged 6 to 11 years was similar to that seen with the 20 mg dose in adults and adolescents aged 12 to 17 years.
-The total exposure for the 10 mg dose in patients aged 1 to 5 years was approximately 30% higher than the 10 mg dose in patients aged 6 to 11 years.
-The total exposure for the 20 mg dose in patients aged 6 to 11 years was higher than that observed with the 20 mg dose in 12 to 17 year-olds and adults, but lower than that observed with the 40 mg dose in 12 to 17 year-olds and adults.
-See Table 6.
-
-Table 6: Summary of PK Parameters in 1 to 11 Year Olds with GERD Following 5 Days of Once Daily Oral Esomeprazole Treatment
-
-|  | 1 to 5 Year Olds | 6 to 11 Year Olds |  |
-| --- | --- | --- | --- |
-| Parameter | 10 mg (N = 8) | 10 mg (N = 7) | 20 mg (N = 6) |
-| AUC (μmol*h/L)Geometric mean | 4.83 | 3.70 | 6.28 |
-| Cmax (μmol/L) | 2.98 | 1.77 | 3.73 |
-| tmax (h)Arithmetic mean | 1.44 | 1.79 | 1.75 |
-| t½λz (h) | 0.74 | 0.88 | 0.73 |
-| Cl/F (L/h) | 5.99 | 7.84 | 9.22 |
-
-##### 12 to 17 Years of Age
-
-The pharmacokinetics of esomeprazole were studied in 28 adolescent patients with GERD aged 12 to 17 years inclusive, in a single center study.
+The pharmacokinetics of esomeprazole magnesium delayed-release capsules were studied in 28 adolescent patients with GERD aged 12 to 17 years inclusive, in a single center study.
 Patients were randomized to receive esomeprazole magnesium delayed-release capsules 20 mg or 40 mg once daily for 8 days.
 Mean Cmax and AUC values of esomeprazole were not affected by body weight or age; and more than dose-proportional increases in mean Cmax and AUC values were observed between the two dose groups in the study.
 Overall, esomeprazole magnesium delayed-release capsule pharmacokinetics in adolescent patients aged 12 to 17 years were similar to those observed in adult patients with symptomatic GERD.
-See Table 7.
+See Table 9.
 
-Table 7: Comparison of PK Parameters in 12 to 17 Year Olds with GERD and Adults with Symptomatic GERD Following the Repeated Daily Oral Dose Administration of EsomeprazoleDuration of treatment for 12 to 17 year olds and adults were 8 days and 5 days, respectively.
-Data were obtained from two independent studies.
+Table 9: Comparison of Esomeprazole Pharmacokinetic Parameters Following Once Daily Dosing of Esomeprazole Magnesium Delayed-Release Capsules in Pediatric Patients 12 Years to 17 Years with GERD and Adults with Symptomatic GERDData obtained from two independent studies
 
-|  | 12 to 17 Year Olds (N = 28) |  | Adults (N = 36) |  |
+| Parameter | Esomeprazole Magnesium Delayed-Release Capsules |  |  |  |
 | --- | --- | --- | --- | --- |
-| 20 mg | 40 mg | 20 mg | 40 mg |  |
-| AUC (μmol*h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
-| Cmax (μmol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
+| 12 Years to 17 Years (N = 28) |  | Adults (N = 36) |  |  |
+| 20 mg once daily for 8 days | 40 mg once daily for 8 days | 20 mg once daily for 5 days | 40 mg once daily for 5 days |  |
+| AUC (micromol·h/L) | 3.65 | 13.86 | 4.2 | 12.6 |
+| Cmax (micromol/L) | 1.45 | 5.13 | 2.1 | 4.7 |
 | tmax (h) | 2.00 | 1.75 | 1.6 | 1.6 |
 | t½λz (h) | 0.82 | 1.22 | 1.2 | 1.5 |
 | Data presented are geometric means for AUC, Cmax and t½λz, and median value for tmax. |  |  |  |  |
 
-#### Gender
+#### Male and Female Patients
 
-The AUC and Cmax values were slightly higher (13%) in females than in males at steady state.
-Dosage adjustment based on gender is not necessary.
+The AUC and Cmax values of esomeprazole were slightly higher (13%) in females than in males at steady state when dosed orally.
+This increase in exposure is not considered clinically relevant.
 
-#### Hepatic Insufficiency
+Patients with Renal Impairment: The pharmacokinetics of esomeprazole magnesium delayed-release capsules in patients with renal impairment are not expected to be altered relative to healthy subjects as less than 1% of esomeprazole is excreted unchanged in urine.
 
-The steady state pharmacokinetics of esomeprazole obtained after administration of 40 mg once daily to 4 patients each with mild (Child-Pugh Class A), moderate (Child-Pugh Class B), and severe (Child-Pugh Class C) liver insufficiency were compared to those obtained in 36 male and female GERD patients with normal liver function.
-In patients with mild and moderate hepatic insufficiency, the AUCs were within the range that could be expected in patients with normal liver function.
-In patients with severe hepatic insufficiency the AUCs were 2 to 3 times higher than in the patients with normal liver function.
-No dosage adjustment is recommended for patients with mild to moderate hepatic insufficiency (Child-Pugh Classes A and B). However, in patients with severe hepatic insufficiency (Child-Pugh Class C) a dose of 20 mg once daily should not be exceeded [see Dosage and Administration (2)].
+#### Patients with Hepatic Impairment
 
-#### Renal Insufficiency
+The steady state pharmacokinetics of esomeprazole obtained after administration of esomeprazole magnesium delayed-release capsules 40 mg orally once daily to patients with mild (Child-Pugh Class A, n = 4), moderate (Child-Pugh Class B, n = 4), and severe (Child-Pugh Class C, n = 4) hepatic impairment were compared to those obtained in 36 male and female GERD patients with normal liver function.
+In patients with mild and moderate hepatic impairment, the AUCs were within the range that could be expected in patients with normal liver function.
+In patients with severe hepatic impairment the AUCs were 2 to 3 times higher than in the patients with normal liver function [see Use in Specific Populations (8.6)].
 
-The pharmacokinetics of esomeprazole magnesium delayed-release capsules in patients with renal impairment are not expected to be altered relative to healthy volunteers as less than 1% of esomeprazole is excreted unchanged in urine.
+### Drug Interaction Studies
 
-#### Other Pharmacokinetic Observations
+#### Effect of Esomeprazole/Omeprazole on Other Drugs
 
-Co-administration of oral contraceptives, diazepam, phenytoin, or quinidine did not seem to change the pharmacokinetic profile of esomeprazole.
+In vitro and in vivo studies have shown that esomeprazole is not likely to inhibit CYPs 1A2, 2A6, 2C9, 2D6, 2E1 and 3A4.
 
-Studies evaluating concomitant administration of esomeprazole and either naproxen (non-selective NSAID) or rofecoxib (COX-2 selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of esomeprazole or these NSAIDs.
+Antiretrovirals
+
+For some antiretroviral drugs, such as rilpivirine, atazanavir and nelfinavir, decreased serum concentrations have been reported when given together with omeprazole [see Drug Interactions (7)].
+
+Rilpivirine: Following multiple doses of rilpivirine (150 mg, daily) and omeprazole (20 mg, daily), AUC was decreased by 40%, Cmax by 40%, and Cmin by 33% for rilpivirine [see Contraindications (4)].
+
+Nelfinavir: Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75% respectively for nelfinavir and M8.
+
+Atazanavir: Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
+
+Saquinavir: Following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
+The AUC was increased by 82%, Cmax by 75%, and Cmin by 106%.
+The mechanism behind this interaction is not fully elucidated.
+
+Clopidogrel
+
+In a crossover study, healthy subjects were administered clopidogrel (300 mg loading dose followed by 75 mg per day as the maintenance dosage for 28 days) alone and with esomeprazole (40 mg orally once daily at the same time as clopidogrel) for 29 days.
+Exposure to the active metabolite of clopidogrel was reduced by 35% to 40% over this time period when clopidogrel and esomeprazole were administered together.
+Pharmacodynamic parameters were also measured and demonstrated that the change in inhibition of platelet aggregation was related to the change in the exposure to clopidogrel active metabolite [see Warnings and Precautions (5.7) and Drug Interactions (7)].
+
+Mycophenolate Mofetil
+
+Administration of omeprazole 20 mg twice daily for 4 days and a single 1000 mg dose of MMF approximately one hour after the last dose of omeprazole to 12 healthy subjects in a cross-over study resulted in a 52% reduction in the Cmax and 23% reduction in the AUC of MPA [see Drug Interactions (7)].
+
+Cilostazol
+
+Omeprazole acts as an inhibitor of CYP2C19.
+Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26% respectively.
+The Cmax and AUC of one of the active metabolites, 3,4-dihydro-cilostazol, which has 4 to 7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
+Co-administration of cilostazol with omeprazole is expected to increase concentrations of cilostazol and the above mentioned active metabolite [see Drug Interactions (7)].
+
+Diazepam
+
+Co-administration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resulted in a 45% decrease in clearance of diazepam.
+Increased plasma levels of diazepam were observed 12 hours after dosing and onwards.
+However, at that time, the plasma levels of diazepam were below the therapeutic interval, and thus this interaction is unlikely to be of clinical relevance.
+
+Digoxin
+
+Concomitant administration of omeprazole 20 mg once daily and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects) [see Drug Interactions (7)].
+
+Other Drugs
+
+Concomitant administration of esomeprazole and either naproxen (non-selective NSAID) did not identify any clinically relevant changes in the pharmacokinetic profiles of these NSAIDs.
+
+#### Effect of Other Drugs on Esomeprazole/Omeprazole
+
+St. John’s Wort
+
+In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC both decreased by 38%) and extensive metabolizers (Cmax and AUC decreased by 50% and 44%, respectively) [see Drug Interactions (7)].
+
+Voriconazole
+
+Concomitant administration of omeprazole and voriconazole (a combined inhibitor of CYP2C19 and CYP3A4) resulted in more than doubling of the omeprazole exposure.
+When voriconazole (400 mg every 12 hours for one day, followed by 200 mg once daily for 6 days) was given with omeprazole (40 mg once daily for 7 days) to healthy subjects, the steady-state Cmax and AUC0-24 of omeprazole significantly increased: an average of 2 times (90% CI: 1.8, 2.6) and 4 times (90% CI: 3.3, 4.4), respectively, as compared to when omeprazole was given without voriconazole [see Drug Interactions (7)].
+
+Other Drugs: Co-administration of esomeprazole with oral contraceptives, diazepam, phenytoin, quinidine, naproxen (non-selective NSAID) did not seem to change the pharmacokinetic profile of esomeprazole.
 
 ## 12.4 Microbiology
 
-Esomeprazole magnesium delayed-release capsules, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori)in vitro and in clinical infections [see Indications and Usage (1) and Clinical Studies (14)].
+Esomeprazole magnesium delayed-release capsules, amoxicillin, and clarithromycin triple therapy has been shown to be active against most strains of Helicobacter pylori (H. pylori) in vitro and in clinical infections [see Indications and Usage (1) and Clinical Studies (14)].
 
 ### Helicobacter pylori
 
@@ -209,26 +230,26 @@ One patient had a baseline H. pylori isolate with an amoxicillin MIC = 0.5 mcg/m
 
 ### Clarithromycin Susceptibility Test Results and Clinical/Bacteriologic Outcomes
 
-The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in the Table 8:
+The baseline H. pylori clarithromycin susceptibility results and the H. pylori eradication results at the Day 38 visit are shown in Table 10:
 
-Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results for Triple Therapy - (Esomeprazole Magnesium 40 mg Once Daily/Amoxicillin 1000 mg Twice Daily/Clarithromycin 500 mg Twice Daily for 10 Days)
+Table 10: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological OutcomesIncludes only patients with pretreatment and post-treatment clarithromycin susceptibility test results for Triple Therapy (Esomeprazole Magnesium Delayed-Release Capsules 40 mg Once Daily, Amoxicillin 1000 mg Twice Daily and Clarithromycin 500 mg Twice Daily for 10 Days)
 
-| ClarithromycinPretreatment Results |  | H. pylori negative(Eradicated) | H. pylori positive(Not Eradicated)Post-treatment susceptibility results |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | SSusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL | I | R | No MIC |
-| Susceptible | 182 | 162 | 4 | 0 | 2 | 14 |
-| Intermediate | 1 | 1 | 0 | 0 | 0 | 0 |
-| Resistant | 29 | 13 | 1 | 0 | 13 | 2 |
+| ClarithromycinPretreatment Results | H. pylori negative (Eradicated) | H. pylori positive (Not Eradicated) Post-treatment susceptibility results |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  | S2 | ISusceptible (S) MIC ≤ 0.25 mcg/mL, Intermediate (I) MIC = 0.5 mcg/mL, Resistant (R) MIC ≥ 1.0 mcg/mL | R | No MIC |
+| Susceptible 182 | 162 | 4 | 0 | 2 | 14 |
+| Intermediate 1 | 1 | 0 | 0 | 0 | 0 |
+| Resistant 29 | 13 | 1 | 0 | 13 | 2 |
 
-Patients not eradicated of H. pylori following esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin triple therapy will likely have clarithromycin resistant H. pylori isolates.
+Patients not eradicated of H. pylori following triple therapy with esomeprazole magnesium delayed-release capsules, amoxicillin and clarithromycin will likely have clarithromycin resistant H. pylori isolates.
 Therefore, clarithromycin susceptibility testing should be done, when possible.
 Patients with clarithromycin resistant H. pylori should not be re-treated with a clarithromycin-containing regimen.
 
 ### Amoxicillin Susceptibility Test Results and Clinical/Bacteriological Outcomes
 
-In the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin clinical trials, 83% (176/212) of the patients in the esomeprazole magnesium delayed-release capsules/amoxicillin/clarithromycin treatment group who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
-Of the 36 patients who were not eradicated of H. pylori on triple therapy, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
-Fifteen of the patients who were not eradicated of H. pylori on triple therapy also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
+In patients treated with esomeprazole magnesium delayed-release capsules, amoxicillin and clarithromycin in clinical trials, 83% (176/212) of the patients who had pretreatment amoxicillin susceptible MICs (≤ 0.25 mcg/mL) were eradicated of H. pylori, and 17% (36/212) were not eradicated of H. pylori.
+Of the 36 patients who were not eradicated of H. pylori, 16 had no post-treatment susceptibility test results and 20 had post-treatment H. pylori isolates with amoxicillin susceptible MICs.
+Fifteen of the patients who were not eradicated of H. pylori also had post-treatment H. pylori isolates with clarithromycin resistant MICs.
 There were no patients with H. pylori isolates who developed treatment emergent resistance to amoxicillin.
 
 ### Susceptibility Test for Helicobacter pylori
@@ -238,4 +259,20 @@ For susceptibility testing information about Helicobacter pylori, see Microbiolo
 ### Effects on Gastrointestinal Microbial Ecology
 
 Decreased gastric acidity due to any means, including proton pump inhibitors, increases gastric counts of bacteria normally present in the gastrointestinal tract.
-Treatment with proton pump inhibitors may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
+Treatment with PPIs may lead to slightly increased risk of gastrointestinal infections such as Salmonella and Campylobacter and possibly Clostridium difficile in hospitalized patients.
+
+## 12.5 Pharmacogenomics
+
+CYP2C19, a polymorphic enzyme, is involved in the metabolism of esomeprazole.
+The CYP2C19*1 allele is fully functional while the CYP2C19*2 and *3 alleles are nonfunctional.
+There are other alleles associated with no or reduced enzymatic function.
+Patients carrying two fully functional alleles are extensive metabolizers and those carrying two loss-of-function alleles are poor metabolizers.
+The systemic exposure to esomeprazole varies with a patient’s metabolism status: poor metabolizers > intermediate metabolizers > extensive metabolizers.
+Approximately 3% of Caucasians and 15 to 20% of Asians are CYP2C19 poor metabolizers.
+
+Systemic esomeprazole exposures were modestly higher (approximately 17%) in CYP2C19 intermediate metabolizers (IM; n = 6) compared to extensive metabolizers (EM; n = 17) of CYP2C19.
+Similar pharmacokinetic differences were noted across these genotypes in a study of Chinese healthy subjects that included 7 EMs and 11 IMs.
+There is very limited pharmacokinetic information for poor metabolizers (PM) from these studies.
+
+At steady state following once daily administration of esomeprazole 40 mg, the ratio of AUC in poor metabolizers to AUC in the rest of the population (EMs) is approximately 1.5.
+This change in exposure is not considered clinically meaningful.

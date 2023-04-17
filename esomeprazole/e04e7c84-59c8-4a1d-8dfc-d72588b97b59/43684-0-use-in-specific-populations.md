@@ -4,14 +4,14 @@
 
 ### Risk Summary
 
-There are no adequate and well-controlled studies with esomeprazole magnesium delayed-release capsules in pregnant women.
+There are no adequate and well-controlled studies with esomeprazole in pregnant women.
 Esomeprazole is the S-isomer of omeprazole.
-Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use.
+Available epidemiologic data fail to demonstrate an increased risk of major congenital malformations or other adverse pregnancy outcomes with first trimester omeprazole use (see Data).
 Reproduction studies in rats and rabbits resulted in dose-dependent embryo-lethality at omeprazole doses that were approximately 3.4 to 34 times an oral human dose of 40 mg (based on a body surface area for a 60 kg person).
 
 Teratogenicity was not observed in animal reproduction studies with administration of oral esomeprazole magnesium in rats and rabbits with doses about 68 times and 42 times, respectively, an oral human dose of 40 mg (based on a body surface area basis for a 60 kg person).
 Changes in bone morphology were observed in offspring of rats dosed through most of pregnancy and lactation at doses equal to or greater than approximately 34 times an oral human dose of 40 mg.
-When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age [see Data].
+When maternal administration was confined to gestation only, there were no effects on bone physeal morphology in the offspring at any age (see Data).
 
 The estimated background risks of major birth defects and miscarriage for the indicated population are unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
@@ -42,13 +42,13 @@ Several studies have reported no apparent adverse short-term effects on the infa
 
 #### Animal Data
 
-##### Omeprazole
+Omeprazole
 
 Reproductive studies conducted with omeprazole in rats at oral doses up to 138 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at doses up to 69.1 mg/kg/day (about 34 times an oral human dose of 40 mg on a body surface area basis) during organogenesis did not disclose any evidence for a teratogenic potential of omeprazole.
 In rabbits, omeprazole in a dose range of 6.9 to 69.1 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis produced dose-related increases in embryo-lethality, fetal resorptions, and pregnancy disruptions.
 In rats, dose-related embryo/fetal toxicity and postnatal developmental toxicity were observed in offspring resulting from parents treated with omeprazole at 13.8 to 138.0 mg/kg/day (about 3.4 to 34 times an oral human dose of 40 mg on a body surface area basis), administered prior to mating through the lactation period.
 
-##### Esomeprazole
+Esomeprazole
 
 No effects on embryo-fetal development were observed in reproduction studies with esomeprazole magnesium in rats at oral doses up to 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) or in rabbits at oral doses up to 86 mg/kg/day (about 41 times an oral human dose of 40 mg on a body surface area basis) administered during organogenesis.
 
@@ -68,7 +68,7 @@ When maternal administration was confined to gestation only, there were no effec
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 Esomeprazole is the S-isomer of omeprazole and limited data suggest that omeprazole may be present in human milk.
 There are no clinical data on the effects of esomeprazole on the breastfed infant or on milk production.
@@ -76,20 +76,40 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of esomeprazole magnesium delayed-release capsules have been established in pediatric patients 1 to 17 years of age for short-term treatment (up to 8 weeks) of GERD.
+### Healing of EE
 
-### 1 to 17 Years of Age
+#### Pediatric Patients 12 Years to 17 Years of Age
 
-Use of esomeprazole magnesium delayed-release capsules in pediatric and adolescent patients 1 to 17 years of age for short-term treatment (up to 8 weeks) of GERD is supported by extrapolation of results from adequate and well-controlled studies for adults and safety and pharmacokinetic studies performed in pediatric and adolescent patients [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)].
-The safety and effectiveness of esomeprazole magnesium delayed-release capsules for other pediatric uses have not been established.
+The safety and effectiveness of esomeprazole magnesium delayed-release capsules have been established in pediatric patients 12 years to 17 years for short-term treatment (4 to 8 weeks) for healing of EE.
+Use of esomeprazole magnesium delayed-release capsules for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
+The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
 
-### Juvenile Animal Data
+### Symptomatic GERD
+
+#### Pediatric Patients 12 Years to 17 Years of Age
+
+The safety and effectiveness of esomeprazole magnesium delayed-release capsules have been established in pediatric patients 12 years to 17 years of age for the short-term treatment (4 weeks) of heartburn and other symptoms associated with GERD.
+Use of esomeprazole magnesium delayed-release capsules for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
+The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
+
+### Other Conditions
+
+The safety and effectiveness of esomeprazole for the risk reduction of NSAID-associated gastric ulcer, H. pylori eradication to reduce the risk of duodenal ulcer recurrence and treatment of pathological hypersecretory conditions have not been established in pediatric patients.
+
+### Juvenile Animal Toxicity Studies
 
 In a juvenile rat toxicity study, esomeprazole was administered with both magnesium and strontium salts at oral doses about 34 to 68 times a daily human dose of 40 mg based on body surface area.
 Increases in death were seen at the high dose, and at all doses of esomeprazole, there were decreases in body weight, body weight gain, femur weight and femur length, and decreases in overall growth [see Nonclinical Toxicology (13.2)].
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients who received esomeprazole magnesium delayed-release capsules in clinical trials, 1,459 were 65 to 74 years of age and 354 patients were ≥ 75 years of age.
+Of the total number of patients who received esomeprazole in clinical trials, 1459 were 65 to 74 years of age and 354 patients were 75 years of age and older.
 
-No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+No overall differences in safety and efficacy were observed between the elderly and younger individuals, and other reported clinical experience has not identified differences in responses between elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
+## 8.6 Hepatic Impairment
+
+In patients with severe hepatic impairment (Child-Pugh Class C) exposure to esomeprazole substantially increased compared to healthy subjects.
+Dosage modification of esomeprazole is recommended for patients with severe hepatic impairment for the healing of EE, risk reduction of NSAID-associated gastric ulcer, H. pylori eradication to reduce the risk of duodenal ulcer recurrence, and pathological hypersecretory conditions including Zollinger-Ellison Syndrome [see Dosage and Administration (2.1), Clinical Pharmacology (12.3)].
+
+In patients with mild to moderate liver impairment (Child-Pugh Classes A and B), no dosage adjustment is necessary.

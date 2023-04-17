@@ -24,7 +24,7 @@ Omeprazole at oral doses up to 138 mg/kg/day in rats (about 34 times the human d
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-### Reproduction Studies
+Reproduction Studies
 
 Reproduction studies have been performed in rats at oral doses up to 280 mg/kg/day (about 68 times an oral human dose of 40 mg on a body surface area basis) and in rabbits at oral doses up to 86 mg/kg/day (about 42 times an oral human dose of 40 mg on a body surface area basis) and have revealed no evidence of impaired fertility or harm to the fetus due to esomeprazole [see Use in Specific Populations (8.1)].
 

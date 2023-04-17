@@ -1,96 +1,59 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Interference with Antiretroviral Therapy
+Tables 3 and 4 include drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with esomeprazole and instructions for preventing or managing them.
 
-Concomitant use of atazanavir and nelfinavir with proton pump inhibitors is not recommended.
-Co-administration of atazanavir with proton pump inhibitors is expected to substantially decrease atazanavir plasma concentrations and may result in a loss of therapeutic effect and the development of drug resistance.
-Co-administration of saquinavir with proton pump inhibitors is expected to increase saquinavir concentrations, which may increase toxicity and require dose reduction.
+Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs.
 
-Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with some antiretroviral drugs.
-The clinical importance and the mechanisms behind these interactions are not always known.
-Increased gastric pH during omeprazole treatment may change the absorption of the antiretroviral drug.
-Other possible interaction mechanisms are via CYP2C19.
+Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with Esomeprazole and Interaction with Diagnostics
 
-### Reduced Concentrations of Atazanavir and Nelfinavir
+| Antiretrovirals |  |
+| --- | --- |
+| Clinical Impact: | The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. •Decreased exposure of some antiretroviral drugs (e.g., rilpivirine atazanavir, and nelfinavir) when used concomitantly with esomeprazole may reduce antiviral effect and promote the development of drug resistance [see Clinical Pharmacology (12.3)].•Increased exposure of other antiretroviral drugs (e.g., saquinavir) when used concomitantly with esomeprazole may increase toxicity [see Clinical Pharmacology (12.3)].•There are other antiretroviral drugs which do not result in clinically relevant interactions with esomeprazole. |
+| Intervention: | Rilpivirine-containing products: Concomitant use with esomeprazole magnesium delayed-release capsules is contraindicated [see Contraindications (4)]. Atazanavir: See prescribing information for atazanavir for dosing information. Nelfinavir: Avoid concomitant use with esomeprazole magnesium delayed-release capsules. See prescribing information for nelfinavir. Saquinavir: See the prescribing information for saquinavir for monitoring of potential saquinavir-related toxicities. Other antiretrovirals: See prescribing information for specific antiretroviral drugs. |
+| Warfarin |  |
+| Clinical Impact: | Increased INR and prothrombin time in patients receiving PPIs, including esomeprazole, and warfarin concomitantly. Increases in INR and prothrombin time may lead to abnormal bleeding and even death. |
+| Intervention: | Monitor INR and prothrombin time and adjust the dose of warfarin, if needed, to maintain the target INR range. |
+| Methotrexate |  |
+| Clinical Impact: | Concomitant use of esomeprazole with methotrexate (primarily at high dose) may elevate and prolong serum concentrations of methotrexate and/or its metabolite hydroxymethotrexate, possibly leading to methotrexate toxicities. No formal drug interaction studies of high-dose methotrexate with PPIs have been conducted [see Warnings and Precautions (5.12)]. |
+| Intervention: | A temporary withdrawal of esomeprazole magnesium delayed-release capsules may be considered in some patients receiving high-dose methotrexate. |
+| 2C19 Substrates (e.g., clopidogrel, citalopram, cilostazol) |  |
+| Clopidogrel |  |
+| Clinical Impact: | Concomitant use of esomeprazole 40 mg resulted in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition [see Clinical Pharmacology (12.3)].There are no adequate combination studies of a lower dose of esomeprazole or a higher dose of clopidogrel in comparison with the approved dose of clopidogrel. |
+| Intervention: | Avoid concomitant use with esomeprazole magnesium delayed-release capsules. Consider use of alternative anti-platelet therapy [see Warnings and Precautions (5.7)]. |
+| Citalopram |  |
+| Clinical Impact: | Increased exposure of citalopram leading to an increased risk of QT prolongation [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Limit the dose of citalopram to a maximum of 20 mg per day. See prescribing information for citalopram. |
+| Cilostazol |  |
+| Clinical Impact: | Increased exposure of cilostazol and one of its active metabolites (3,4-dihydro-cilostazol) [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Consider reducing the dose of cilostazol to 50 mg twice daily. See prescribing information for cilostazol. |
+| Digoxin |  |
+| Clinical Impact: | Potential for increased exposure of digoxin [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Monitor digoxin concentrations and adjust the dose, if needed, to maintain therapeutic drug concentrations. See prescribing information for digoxin. |
+| Combination Therapy with Clarithromycin and Amoxicillin |  |
+| Clinical Impact: | Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions, including potentially fatal arrhythmias, and are contraindicated. Amoxicillin also has drug interactions. |
+| Intervention: | See Contraindications, Warnings and Precautions in prescribing information for clarithromycin. See Drug Interactions in prescribing information for amoxicillin. |
+| Drugs Dependent on Gastric pH for Absorption (e.g., iron salts, erlotinib, dasatinib, nilotinib, mycophenolate mofetil, ketoconazole/itraconazole) |  |
+| Clinical Impact: | Esomeprazole can reduce the absorption of other drugs due to its effect on reducing intragastric acidity. |
+| Intervention: | Mycophenolate mofetil (MMF): Co-administration of omeprazole, of which esomeprazole is an enantiomer, in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH. The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving esomeprazole magnesium delayed-release capsules and MMF. Use esomeprazole magnesium delayed-release capsules with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)]. See the prescribing information for other drugs dependent on gastric pH for absorption. |
+| Tacrolimus |  |
+| Clinical Impact: | Potentially increased exposure of tacrolimus, especially in transplant patients who are intermediate or poor metabolizers of CYP2C19. |
+| Intervention: | Monitor tacrolimus whole blood concentrations and consider reducing the dose, if needed, to maintain therapeutic drug concentrations. See prescribing information for tacrolimus. |
+| Interactions with Investigations of Neuroendocrine Tumors |  |
+| Clinical Impact: | Serum chromogranin A (CgA) levels increase secondary to PPI-induced decreases in gastric acidity. The increased CgA level may cause false positive results in diagnostic investigations for neuroendocrine tumors [see Warnings and Precautions (5.11), Clinical Pharmacology (12.2)]. |
+| Intervention: | Discontinue esomeprazole magnesium delayed-release capsules at least 14 days before assessing CgA levels and consider repeating the test if initial CgA levels are high. If serial tests are performed (e.g., for monitoring), the same commercial laboratory should be used for testing, as reference ranges between tests may vary. |
+| Interaction with Secretin Stimulation Test |  |
+| Clinical Impact: | Hyper-response in gastrin secretion in response to secretin stimulation test, falsely suggesting gastrinoma. |
+| Intervention: | Discontinue esomeprazole magnesium delayed-release capsules 4 weeks prior to testing [see Clinical Pharmacology (12.2)]. |
+| False Positive Urine Tests for THC |  |
+| Clinical Impact: | There have been reports of false positive urine screening test for tetrahydrocannabinol (THC) in patients receiving PPIs. |
+| Intervention: | An alternative confirmatory method should be considered to verify positive results. |
 
-For some antiretroviral drugs, such as atazanavir and nelfinavir, decreased serum levels have been reported when given together with omeprazole.
-Following multiple doses of nelfinavir (1250 mg, twice daily) and omeprazole (40 mg daily), AUC was decreased by 36% and 92%, Cmax by 37% and 89% and Cmin by 39% and 75%, respectively for nelfinavir and M8.
-Following multiple doses of atazanavir (400 mg, daily) and omeprazole (40 mg, daily, 2 hours before atazanavir), AUC was decreased by 94%, Cmax by 96%, and Cmin by 95%.
-Concomitant administration with omeprazole and drugs such as atazanavir and nelfinavir is therefore not recommended.
+Table 4: Clinically Relevant Interactions Affecting Esomeprazole When Co-Administered with Other Drugs
 
-### Increased Concentrations of Saquinavir
-
-For other antiretroviral drugs, such as saquinavir, elevated serum levels have been reported, with an increase in AUC by 82%, in Cmax by 75%, and in Cmin by 106%, following multiple dosing of saquinavir/ritonavir (1000/100 mg) twice daily for 15 days with omeprazole 40 mg daily co-administered days 11 to 15.
-Therefore, clinical and laboratory monitoring for saquinavir toxicity is recommended during concurrent use with esomeprazole magnesium delayed-release capsules.
-Dose reduction of saquinavir should be considered from the safety perspective for individual patients.
-
-There are also some antiretroviral drugs of which unchanged serum levels have been reported when given with omeprazole.
-
-## 7.2 Drugs for Which Gastric pH Can Affect Bioavailability
-
-Due to its effects on gastric acid secretion, esomeprazole can reduce the absorption of drugs where gastric pH is an important determinant of their bioavailability.
-Like with other drugs that decrease the intragastric acidity, the absorption of drugs such as ketoconazole, atazanavir, iron salts, erlotinib, and mycophenolate mofetil (MMF) can decrease, while the absorption of drugs such as digoxin can increase during treatment with esomeprazole.
-Esomeprazole is an enantiomer of omeprazole.
-Concomitant treatment with omeprazole (20 mg daily) and digoxin in healthy subjects increased the bioavailability of digoxin by 10% (30% in two subjects).
-Co-administration of digoxin with esomeprazole magnesium delayed-release capsules is expected to increase the systemic exposure of digoxin.
-Therefore, patients may need to be monitored when digoxin is taken concomitantly with esomeprazole magnesium delayed-release capsules.
-
-Co-administration of omeprazole in healthy subjects and in transplant patients receiving MMF has been reported to reduce the exposure to the active metabolite, mycophenolic acid (MPA), possibly due to a decrease in MMF solubility at an increased gastric pH.
-The clinical relevance of reduced MPA exposure on organ rejection has not been established in transplant patients receiving esomeprazole magnesium delayed-release capsules and MMF.
-Use esomeprazole magnesium delayed-release capsules with caution in transplant patients receiving MMF [see Clinical Pharmacology (12.3)].
-
-## 7.3 Effects on Hepatic Metabolism/Cytochrome P-450 Pathways
-
-Esomeprazole is extensively metabolized in the liver by CYP2C19 and CYP3A4.
-In vitro and in vivo studies have shown that esomeprazole is not likely to inhibit CYPs 1A2, 2A6, 2C9, 2D6, 2E1, and 3A4.
-No clinically relevant interactions with drugs metabolized by these CYP enzymes would be expected.
-Drug interaction studies have shown that esomeprazole does not have any clinically significant interactions with phenytoin, warfarin, quinidine, clarithromycin, or amoxicillin.
-
-However, postmarketing reports of changes in prothrombin measures have been received among patients on concomitant warfarin and esomeprazole therapy.
-Increases in INR and prothrombin time may lead to abnormal bleeding and even death.
-Patients treated with proton pump inhibitors and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time.
-
-Esomeprazole may potentially interfere with CYP2C19, the major esomeprazole metabolizing enzyme.
-Co-administration of esomeprazole 30 mg and diazepam, a CYP2C19 substrate, resulted in a 45% decrease in clearance of diazepam.
-
-### Clopidogrel
-
-Clopidogrel is metabolized to its active metabolite in part by CYP2C19.
-Concomitant use of esomeprazole 40 mg results in reduced plasma concentrations of the active metabolite of clopidogrel and a reduction in platelet inhibition.
-Avoid concomitant administration of esomeprazole magnesium delayed-release capsules with clopidogrel.
-When using esomeprazole magnesium delayed-release capsules, consider use of alternative anti-platelet therapy [see Clinical Pharmacology (12.3)].
-
-Omeprazole acts as an inhibitor of CYP2C19.
-Omeprazole, given in doses of 40 mg daily for one week to 20 healthy subjects in cross-over study, increased Cmax and AUC of cilostazol by 18% and 26%, respectively.
-Cmax and AUC of one of its active metabolites, 3,4-dihydrocilostazol, which has 4-7 times the activity of cilostazol, were increased by 29% and 69%, respectively.
-Co-administration of cilostazol with esomeprazole is expected to increase concentrations of cilostazol and its above mentioned active metabolite.
-Therefore, a dose reduction of cilostazol from 100 mg twice daily to 50 mg twice daily should be considered.
-
-Concomitant administration of esomeprazole and a combined inhibitor of CYP2C19 and CYP3A4, such as voriconazole, may result in more than doubling of the esomeprazole exposure.
-Dose adjustment of esomeprazole is not normally required.
-However, in patients with Zollinger-Ellison’s Syndrome, who may require higher doses up to 240 mg/day, dose adjustment may be considered.
-
-Drugs known to induce CYP2C19 or CYP3A4 or both (such as rifampin) may lead to decreased esomeprazole serum levels.
-Omeprazole, of which esomeprazole is an enantiomer, has been reported to interact with St. John’s Wort, an inducer of CYP3A4.
-In a cross-over study in 12 healthy male subjects, St. John’s Wort (300 mg three times daily for 14 days) significantly decreased the systemic exposure of omeprazole in CYP2C19 poor metabolizers (Cmax and AUC decreased by 37.5% and 37.9%, respectively) and extensive metabolizers (Cmax and AUC decreased by 49.6 % and 43.9%, respectively).
-Avoid concomitant use of St. John’s Wort or rifampin with esomeprazole magnesium delayed-release capsules.
-
-## 7.4 Interactions with Investigations of Neuroendocrine Tumors
-
-Drug-induced decrease in gastric acidity results in enterochromaffin-like cell hyperplasia and increased Chromogranin A levels which may interfere with investigations for neuroendocrine tumors [see Warnings and Precautions (5.10) and Clinical Pharmacology (12.2)].
-
-## 7.5 Tacrolimus
-
-Concomitant administration of esomeprazole and tacrolimus may increase the serum levels of tacrolimus.
-
-## 7.6 Combination Therapy with Clarithromycin
-
-Co-administration of esomeprazole, clarithromycin, and amoxicillin has resulted in increases in the plasma levels of esomeprazole and 14-hydroxyclarithromycin [see Clinical Pharmacology (12.4)].
-
-Concomitant administration of clarithromycin with other drugs can lead to serious adverse reactions due to drug interactions [see Warnings and Precautions in prescribing information for clarithromycin].
-Because of these drug interactions, clarithromycin is contraindicated for co-administration with certain drugs [see Contraindications in prescribing information for clarithromycin].
-
-## 7.7 Methotrexate
-
-Case reports, published population pharmacokinetic studies, and retrospective analyses suggest that concomitant administration of PPIs and methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite hydroxymethotrexate.
-However, no formal drug interaction studies of methotrexate with PPIs have been conducted [see Warnings and Precautions (5.11)].
+| CYP2C19 or CYP3A4 Inducers |  |
+| --- | --- |
+| Clinical Impact: | Decreased exposure of esomeprazole when used concomitantly with strong inducers [see Clinical Pharmacology (12.3)]. |
+| Intervention: | St. John’s Wort, rifampin: Avoid concomitant use with esomeprazole magnesium delayed-release capsules [see Warnings and Precautions (5.10)]. Ritonavir-containing products: see prescribing information for specific drugs. |
+| Voriconazole |  |
+| Clinical Impact: | Increased exposure of esomeprazole [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Dose adjustment of esomeprazole magnesium delayed-release capsules is not normally required. However, in patients with Zollinger-Ellison syndrome, who may require higher doses, dosage adjustment may be considered. See prescribing information for voriconazole. |
