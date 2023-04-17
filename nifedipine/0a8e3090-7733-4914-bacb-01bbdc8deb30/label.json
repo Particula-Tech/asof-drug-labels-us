@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077127"
+  ],
+  "inn": "nifedipine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-521-90",
+    "62135-522-90",
+    "62135-523-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "nifedipine",
+      "name": "Nifedipine"
+    }
+  ],
+  "setid": "0a8e3090-7733-4914-bacb-01bbdc8deb30",
+  "source": "dailymed"
+}
