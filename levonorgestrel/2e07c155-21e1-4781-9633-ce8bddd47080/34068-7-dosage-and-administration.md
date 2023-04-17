@@ -41,8 +41,8 @@ Table 1: When to Insert Kyleena
 | Switching to Kyleena from a contraceptive implant or another IUS | •Insert Kyleena on the same day the implant or IUS is removed. •Insert Kyleena at any time during the menstrual cycle. |
 | Inserting Kyleena after first trimester abortion or miscarriage | •Insert Kyleena immediately after a first-trimester abortion or miscarriage, unless it is a septic abortion [see Contraindications (4)]. |
 | Inserting Kyleena after childbirth or second-trimester abortion or miscarriage |  |
-| •Immediate insertion after childbirth or second-trimester abortion or miscarriage | •Insert Kyleena after removal of the placenta. Back-up contraception is not needed. [See Contraindications (4), Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)].• |
-| Interval insertion following complete involution of the uterus | •Wait a minimum of 6 weeks or until the uterus is fully involuted before inserting Kyleena [see Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)].•Insert Kyleena any time there is reasonable certainty the woman is not pregnant.•If Kyleena is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used, or the woman should abstain from vaginal intercourse for 7 days to prevent pregnancy [see Contraindications (4), Warnings and Precautions (5.2)]. |
+| •Immediate insertion after childbirth or second-trimester abortion or miscarriage | •Insert Kyleena after removal of the placenta. Back-up contraception is not needed. [See Contraindications (4), Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.2)]. |
+| Interval insertion following complete involution of the uterus | •Wait a minimum of 6 weeks or until the uterus is fully involuted before inserting Kyleena (5.5, 5.6), Adverse Reactions (6.2)].•Insert Kyleena any time there is reasonable certainty the woman is not pregnant.•If Kyleena is not inserted during the first 7 days of the menstrual cycle, a back-up method of contraception should be used, or the woman should abstain from vaginal intercourse for 7 days to prevent pregnancy [see Contraindications (4), Warnings and Precautions (5.2)]. |
 
 ### Tools for Insertion
 
@@ -203,7 +203,11 @@ Removal of Kyleena
 - •If Kyleena is found to be in the uterine cavity on ultrasound exam, it may be removed using a narrow forceps, such as an alligator forceps.
   This may require dilation of the cervical canal.
   After removal of Kyleena, examine the system to ensure that it is intact.
-- •Removal may be associated with some pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure, especially in patients with a predisposition to these conditions.
+  If unable to remove with gentle traction, determine Kyleena location and exclude perforation by ultrasound or other imaging [see Warnings and Precautions (5.10)].
+- •Removal may be associated with some:
+  - o pain and/or bleeding or vasovagal reactions (for example, syncope, bradycardia) or seizure, especially in patients with a predisposition to these conditions.
+  - obreakage or embedment of Kyleena in the myometrium that can make removal difficult [see Warnings and Precautions (5.5)].
+    Analgesia, paracervical anesthesia, cervical dilation, alligator forceps or other grasping instrument, or hysteroscopy may be used to assist in removal.
 
 ## 2.5 Continuation of Contraception after Removal
 
