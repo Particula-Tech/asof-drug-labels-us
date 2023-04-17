@@ -16,4 +16,4 @@ NDC 63304-192-90, bottle of 90 tablets
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-Each 50 mg or 100 mg extended-release tablet contains 50 or 100 mg of desvenlafaxine, respectively.
+Each 50 mg or 100 mg extended-release tablet contains 50 or 100 mg of desvenlafaxine, USP respectively.
