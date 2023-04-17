@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES
 
 The efficacy of bupropion hydrochloride tablets in the treatment of major depressive disorder was established in two 4-week, placebo-controlled trials in adult inpatients with MDD (Trials 1 and 2 in Table 4) and in one 6-week, placebo-controlled trial in adult outpatients with MDD (Trial 3 in Table 4).
-In the first trial, the dose range of bupropion hydrochloride tablets was 300 mg to 600 mg per day administered in 3 divided doses; 78% of subjects were treated with doses of 300 mg to 450 mg per day.
+In the first trial, the dose range of bupropion hydrochloride tablets was 300 mg to 600 mg / day administered in 3 divided doses; 78% of subjects were treated with doses of 300 mg to 450 mg / day.
 The trial demonstrated the efficacy of bupropion hydrochloride tablets as measured by the Hamilton Depression Rating Scale (HDRS) total score, the HDRS depressed mood item (Item 1), and the Clinical Global Impressions-severity score (CGI-S).
-The second trial included 2 doses of bupropion hydrochloride tablets (300 and 450 mg per day) and placebo.
-This trial demonstrated the effectiveness of bupropion hydrochloride tablets for only the 450-mg-per-day dose.
+The second trial included 2 doses of bupropion hydrochloride tablets (300 and 450 mg / day) and placebo.
+This trial demonstrated the effectiveness of bupropion hydrochloride tablets for only the 450-mg / day dose.
 The efficacy results were statistically significant for the HDRS total score and the CGI-S score, but not for HDRS Item 1.
-In the third trial, outpatients were treated with 300 mg per day of bupropion hydrochloride tablets.
+In the third trial, outpatients were treated with 300 mg / day of bupropion hydrochloride tablets.
 This trial demonstrated the efficacy of bupropion hydrochloride tablets as measured by the HDRS total score, the HDRS Item 1, the Montgomery-Asberg Depression Rating Scale (MADRS), the CGI-S score, and the CGI-Improvement Scale (CGI-I) score.
 Effectiveness of bupropion hydrochloride tablets in long-term use, that is, for more than 6 weeks, has not been systematically evaluated in controlled trials.
 

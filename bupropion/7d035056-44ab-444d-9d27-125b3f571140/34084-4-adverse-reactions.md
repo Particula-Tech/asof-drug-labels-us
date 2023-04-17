@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning and Warnings and Precautions (5.1)]
+- Suicidal thoughts and behaviors in adolescents and young adults [see Boxed Warning, Warnings and Precautions (5.1)]
 - Neuropsychiatric symptoms and suicide risk in smoking cessation treatment [see Warnings and Precautions (5.2)]
 - Seizure [see Warnings and Precautions (5.3)]
 - Hypertension [see Warnings and Precautions (5.4)]
@@ -71,7 +71,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Hostility | 5.6 | 3.8 |
 | Nonspecific |  |  |
 | Fever/chills | 1.2 | 0.5 |
-| Special Senses |  |  |
+| Special senses |  |  |
 | Auditory disturbance | 5.3 | 3.2 |
 | Blurred vision | 14.6 | 10.3 |
 | Gustatory disturbance | 3.1 | 1.1 |
@@ -105,20 +105,20 @@ Special Senses: Infrequent was visual disturbance; rare was diplopia.
 
 Nonspecific: Frequent were flu-like symptoms; infrequent was nonspecific pain; rare was overdose.
 
-Altered Appetite and Weight A weight loss of greater than 5 lbs occurred in 28% of subjects receiving bupropion hydrochloride tablets.
+Altered Appetite and Weight A weight loss of greater than 5 lbs. occurred in 28% of subjects receiving bupropion hydrochloride tablets.
 This incidence is approximately double that seen in comparable subjects treated with tricyclics or placebo.
 Furthermore, while 35% of subjects receiving tricyclic antidepressants gained weight, only 9.4% of subjects treated with bupropion hydrochloride tablets did.
 Consequently, if weight loss is a major presenting sign of a patient’s depressive illness, the anorectic and/or weight-reducing potential of bupropion hydrochloride tablets should be considered.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of bupropion hydrochloride tablets and are not described elsewhere in the label.
+The following adverse reactions have been identified during postapproval use of bupropion hydrochloride tablets and are not described elsewhere in the label.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body (General) Arthralgia, myalgia, and fever with rash and other symptoms suggestive of delayed hypersensitivity.
 These symptoms may resemble serum sickness [see Warnings and Precautions (5.8)].
 
-Cardiovascular Hypertension (in some cases severe), orthostatic hypotension, third-degree heart block.
+Cardiovascular Hypertension (in some cases severe), orthostatic hypotension, third degree heart block.
 
 Endocrine Hyponatremia, syndrome of inappropriate antidiuretic hormone secretion, hyperglycemia, hypoglycemia.
 
@@ -131,6 +131,6 @@ Musculoskeletal Muscle rigidity/fever/rhabdomyolysis, muscle weakness.
 
 Nervous System Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, parkinsonism, restlessness, suicide attempt, unmasking of tardive dyskinesia.
 
-Skin and Appendages Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria.
+Skin and Appendages Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria, acute generalized exanthematous pustulosis.
 
 Special Senses Tinnitus, increased intraocular pressure.

@@ -3,15 +3,15 @@
 ## 2.1 General Instructions for Use
 
 To minimize the risk of seizure, increase the dose gradually [see Warnings and Precautions (5.3)].
-Increases in dose should not exceed 100 mg per day in a 3-day period.
+Increases in dose should not exceed 100 mg / day in a 3-day period.
 Bupropion hydrochloride tablets should be swallowed whole and not crushed, divided, or chewed.
 Bupropion hydrochloride tablets may be taken with or without food.
 
-The recommended starting dose is 200 mg per day, given as 100 mg twice daily.
-After 3 days of dosing, the dose may be increased to 300 mg per day, given as 100 mg 3 times daily, with at least 6 hours between successive doses.
-Dosing above 300 mg per day may be accomplished using the 75- or 100-mg tablets.
+The recommended starting dose is 200 mg / day, given as 100 mg twice daily.
+After 3 days of dosing, the dose may be increased to 300 mg / day, given as 100 mg 3 times daily, with at least 6 hours between successive doses.
+Dosing above 300 mg / day may be accomplished using the 75- or 100-mg tablets.
 
-A maximum of 450 mg per day, given in divided doses of not more than 150 mg each, may be considered for patients who show no clinical improvement after several weeks of treatment at 300 mg per day.
+A maximum of 450 mg / day, given in divided doses of not more than 150 mg each, may be considered for patients who show no clinical improvement after several weeks of treatment at 300 mg / day.
 Administer the 100-mg tablet 4 times daily to not exceed the limit of 150 mg in a single dose.
 
 It is generally agreed that acute episodes of depression require several months or longer of antidepressant drug treatment beyond the response in the acute episode.
@@ -20,30 +20,28 @@ Periodically reassess the need for maintenance treatment and the appropriate dos
 
 ## 2.2 Dose Adjustment in Patients with Hepatic Impairment
 
-In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride tablets are 75 mg per day.
-In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
+In patients with moderate to severe hepatic impairment (Child-Pugh score: 7 to 15), the maximum dose of bupropion hydrochloride tablets are 75 mg / day.
+In patients with mild hepatic impairment (Child-Pugh score: 5 to 6), consider reducing the dose and/or frequency of dosing [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 ## 2.3 Dose Adjustment in Patients with Renal Impairment
 
-Consider reducing the dose and/or frequency of bupropion hydrochloride tablets in patients with renal impairment (Glomerular Filtration Rate less than 90 mL per min) [see Use in Specific Populations (8.6) and Clinical Pharmacology
-
-(12.3)].
+Consider reducing the dose and/or frequency of bupropion hydrochloride tablets in patients with renal impairment (Glomerular Filtration Rate [GFR] less than 90 mL / min) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Switching a Patient to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of therapy with bupropion hydrochloride tablets.
-Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride tablets before starting an MAOI antidepressant [see Contraindications (4) and Drug Interactions (7.6)].
+Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride tablets before starting an MAOI antidepressant [see Contraindications (4), Drug Interactions (7.6)].
 
 ## 2.5 Use of Bupropion Hydrochloride Tablets with Reversible MAOIs Such as Linezolid or Methylene Blue
 
 Do not start bupropion hydrochloride tablets in a patient who is being treated with a reversible MAOI such as linezolid or intravenous methylene blue.
 Drug interactions can increase the risk of hypertensive reactions.
-In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4) and Drug Interactions (7.6)].
+In a patient who requires more urgent treatment of a psychiatric condition, non-pharmacological interventions, including hospitalization, should be considered [see Contraindications (4), Drug Interactions (7.6)].
 
 In some cases, a patient already receiving therapy with bupropion hydrochloride tablets may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of hypertensive reactions in a particular patient, bupropion hydrochloride tablets should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for 2 weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with bupropion hydrochloride tablets may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue.
 
-The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg per kg with bupropion hydrochloride tablets is unclear.
-The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4) and Drug Interactions (7.6)].
+The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg / kg with bupropion hydrochloride tablets is unclear.
+The clinician should, nevertheless, be aware of the possibility of a drug interaction with such use [see Contraindications (4), Drug Interactions (7.6)].

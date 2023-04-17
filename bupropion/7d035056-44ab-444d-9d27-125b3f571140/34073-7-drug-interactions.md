@@ -11,7 +11,7 @@ Based on clinical response, dosage adjustment of bupropion hydrochloride tablets
 Inducers of CYP2B6 Ritonavir, Lopinavir, and Efavirenz: Concomitant treatment with these drugs can decrease bupropion and hydroxybupropion exposure.
 Dosage increase of bupropion hydrochloride tablets may be necessary when coadministered with ritonavir, lopinavir, or efavirenz [see Clinical Pharmacology (12.3)] but should not exceed the maximum recommended dose.
 
-Carbamazepine, Phenobarbital, Phenytoin While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
+Carbamazepine, Phenobarbital, Phenytoin: While not systematically studied, these drugs may induce the metabolism of bupropion and may decrease bupropion exposure [see Clinical Pharmacology (12.3)].
 If bupropion is used concomitantly with a CYP inducer, it may be necessary to increase the dose of bupropion, but the maximum recommended dose should not be exceeded.
 
 ## 7.2 Potential for Bupropion Hydrochloride Tablets to Affect Other Drugs
@@ -27,12 +27,13 @@ Patients treated concomitantly with bupropion hydrochloride tablets and such dru
 Digoxin
 
 Coadministration of bupropion hydrochloride with digoxin may decrease plasma digoxin levels.
-Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride and digoxin [see Clinical Pharmacology (12.3)].
+Monitor plasma digoxin levels in patients treated concomitantly with bupropion hydrochloride and digoxin [see Clinical Pharmacology (Error!
+Hyperlink reference not valid.)].
 
 ## 7.3 Drugs that Lower Seizure Threshold
 
 Use extreme caution when coadministering bupropion hydrochloride tablets with other drugs that lower seizure threshold (e.g., other bupropion products, antipsychotics, antidepressants, theophylline, or systemic corticosteroids).
-Use low initial doses and increase the dose gradually [see Contraindications (4) and Warnings and Precautions (5.3)].
+Use low initial doses and increase the dose gradually [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 7.4 Dopaminergic Drugs (Levodopa and Amantadine)
 
@@ -53,7 +54,7 @@ Bupropion inhibits the reuptake of dopamine and norepinephrine.
 Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with bupropion hydrochloride tablets.
-Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride tablets before starting an MAOI antidepressant [see Dosage and Administration (2.4, 2.5) and Contraindications (4)].
+Conversely, at least 14 days should be allowed after stopping bupropion hydrochloride tablets before starting an MAOI antidepressant [see Dosage and Administration (2.4, 2.5), Contraindications (4)].
 
 ## 7.7 Drug-Laboratory Test Interactions
 

@@ -51,11 +51,11 @@ Counsel patients to notify their healthcare provider if they are taking or plan 
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with bupropion hydrochloride tablets.
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to bupropion hydrochloride tablets during pregnancy [see Use in Specific Populations (8.1)]
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to bupropion hydrochloride tablets during pregnancy [see Use in Specific Populations (8.1)].
 
 Storage Information
 
-Instruct patients to store bupropion hydrochloride tablets at room temperature, between 59°F and 86°F (15°C to 30°C) and keep the tablets dry and out of the light.
+Instruct patients to store bupropion hydrochloride tablets at room temperature, between 68°F and 77°F (20°C to 25°C) and keep the tablets dry and out of the light.
 
 Administration Information
 
@@ -72,7 +72,9 @@ WELLBUTRIN XL ® is a registered trademark of GlaxoSmithKline.
 
 FORFIVO XL ® is a registered trademark of Edgemont Pharms LLC
 
-APLENZIN ® is a registered trademark of Sanofi Aventis U.S. LLC BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
+APLENZIN ® is a registered trademark of Sanofi Aventis U.S. LLC APOTEX INC.
+
+BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 
 | Manufactured by |  |
 | --- | --- |
@@ -80,6 +82,7 @@ APLENZIN ® is a registered trademark of Sanofi Aventis U.S. LLC BUPROPION HYDRO
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 12/2020
+Revised: 03/2023
 
-Rev: 17
+Rev.
+20

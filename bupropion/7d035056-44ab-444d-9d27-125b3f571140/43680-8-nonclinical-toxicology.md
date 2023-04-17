@@ -2,9 +2,9 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Lifetime carcinogenicity studies were performed in rats and mice at bupropion doses up to 300 and 150 mg per kg per day, respectively.
-These doses are approximately 6 and 2 times the MRHD, respectively, on a mg per m 2 basis.
-In the rat study there was an increase in nodular proliferative lesions of the liver at doses of 100 to 300 mg per kg per day (approximately 2 to 6 times the MRHD on a mg per m 2 basis); lower doses were not tested.
+Lifetime carcinogenicity studies were performed in rats and mice at bupropion doses up to 300 and 150 mg / kg / day, respectively.
+These doses are approximately 6 and 2 times the MRHD, respectively, on a mg / m 2 basis.
+In the rat study there was an increase in nodular proliferative lesions of the liver at doses of 100 to 300 mg / kg / day (approximately 2 to 6 times the MRHD on a mg / m 2 basis); lower doses were not tested.
 The question of whether or not such lesions may be precursors of neoplasms of the liver is currently unresolved.
 Similar liver lesions were not seen in the mouse study, and no increase in malignant tumors of the liver and other organs was seen in either study.
 

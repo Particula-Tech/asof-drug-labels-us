@@ -12,7 +12,7 @@ In a population of individuals experienced with drugs of abuse, a single oral do
 These scales measure general feelings of euphoria and drug liking which are often associated with abuse potential.
 
 Findings in clinical trials, however, are not known to reliably predict the abuse potential of drugs.
-Nonetheless, evidence from single-dose trials does suggest that the recommended daily dosage of bupropion when administered orally in divided doses is not likely to be significantly reinforcing to amphetamine or CNS stimulant abusers.
+Nonetheless, evidence from singledose trials does suggest that the recommended daily dosage of bupropion when administered orally in divided doses is not likely to be significantly reinforcing to amphetamine or CNS stimulant abusers.
 However, higher doses (which could not be tested because of the risk of seizure) might be modestly attractive to those who abuse CNS stimulant drugs.
 
 Bupropion hydrochloride tablets are intended for oral use only.
