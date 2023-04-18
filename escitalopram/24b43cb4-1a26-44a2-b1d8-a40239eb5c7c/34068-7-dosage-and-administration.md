@@ -5,7 +5,7 @@ Escitalopram tablets should be administered once daily, in the morning or evenin
 ## 2.1 Major Depressive Disorder
 
 Initial Treatment Adolescents The recommended dose of escitalopram tablets is 10 mg once daily.
-A flexible-dose trial of escitalopram tablet, USP, (10 to 20 mg/day) demonstrated the effectiveness of escitalopram [see Clinical Studies (14.1)].
+A flexible-dose trial of escitalopram tablet, USP, (10 to 20 mg/day) demonstrated the effectiveness of escitalopram tablets [see Clinical Studies (14.1)].
 If the dose is increased to 20 mg, this should occur after a minimum of three weeks.
 
 Adults The recommended dose of escitalopram is 10 mg once daily.

@@ -31,6 +31,10 @@ Antidepressants are not intended for use in the adolescent who exhibits symptoms
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe antidepressant medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
 
-Manufactured for: Macleods Pharma USA, Inc., Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc., Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
+
+Medication Guide available at:www.macleodspharma.com/usa
+
+Revised: 01/2023

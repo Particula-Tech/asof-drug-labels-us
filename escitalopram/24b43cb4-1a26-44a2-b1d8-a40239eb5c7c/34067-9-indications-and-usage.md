@@ -2,7 +2,7 @@
 
 ## 1.1 Major Depressive Disorder
 
-Escitalopram tablets is indicated for the acute and maintenance treatment of major depressive disorder in adults and in adolescents 12 to 17 years of age [see Clinical Studies (14.1)].
+Escitalopram tablets are indicated for the acute and maintenance treatment of major depressive disorder in adults and in adolescents 12 to 17 years of age [see Clinical Studies (14.1)].
 
 A major depressive episode (DSM-IV) implies a prominent and relatively persistent (nearly every day for at least 2 weeks) depressed or dysphoric mood that usually interferes with daily functioning, and includes at least five of the following nine symptoms: depressed mood, loss of interest in usual activities, significant change in weight and/or appetite, insomnia or hypersomnia, psychomotor agitation or retardation, increased fatigue, feelings of guilt or worthlessness, slowed thinking or impaired concentration, a suicide attempt or suicidal ideation.
 

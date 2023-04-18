@@ -121,18 +121,20 @@ This Medication Guide summarizes the most important information about escitalopr
 If you would like more information, talk with your healthcare provider.
 You may ask your healthcare provider or pharmacist for information about escitalopram tablets that is written for healthcare professionals.
 
-For more information about escitalopram tablets call 1-888-943-3210.
+For more information about escitalopram tablets call 1-888-943-3210 or 1-855-926-3384.
 
 What are the ingredients in escitalopram tablets?
 Active ingredient: escitalopram oxalate, USP Inactive ingredients: Lactose monohydrate, talc, croscarmellose sodium, colloidal silicon dioxide, sodium carboxymethylcellulose, propyl gallate and magnesium stearate.
 The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
 
-Manufactured for: Macleods Pharma USA, Inc., Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc., Princeton, NJ 08540
 
 Manufactured by: Macleods Pharmaceutical Ltd. Baddi, Himachal Pradesh, India.
 
 All other trademarks are the property of their respective owners.
 
-Revised: 10/ 2021
+Medication Guide available at: www.macleodspharma.com/usa
+
+Revised: 01/ 2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
