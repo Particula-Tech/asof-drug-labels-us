@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including ziprasidone hydrochloride, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
-Risk Summary Neonates exposed to antipsychotic drugs, including ziprasidone hydrochloride, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
+Risk Summary Neonates exposed to antipsychotic drugs, including Ziprasidone hydrochloride, during the third trimester are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to ziprasidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone hydrochloride, during pregnancy (see Clinical Considerations).
 
@@ -52,6 +52,9 @@ Infertility Females Based on the pharmacologic action of ziprasidone (D2 antagon
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of ziprasidone hydrochloride have not been established in pediatric patients.
+
+Pediatric information is approved for Viatris Specialty LLC’s Geodon (ziprasidone HCl) capsules.
+However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
