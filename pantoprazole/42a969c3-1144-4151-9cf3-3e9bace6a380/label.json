@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA078281"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-533-90",
+    "62135-534-08",
+    "62135-534-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "pantoprazole sodium",
+      "name": "Pantoprazole Sodium"
+    }
+  ],
+  "setid": "42a969c3-1144-4151-9cf3-3e9bace6a380",
+  "source": "dailymed"
+}

@@ -1,0 +1,70 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+Gastric Malignancy
+
+Advise patients to return to their healthcare provider if they have a suboptimal response or an early symptomatic relapse [see Warnings and Precautions (5.1)].
+
+Acute Tubulointerstitial Nephritis
+
+Advise patients to call their healthcare provider immediately if they experience signs and/or symptoms associated with acute tubulointerstitial nephritis [see Contraindications (4), Warnings and Precautions (5.2)].
+
+Clostridium difficile-Associated Diarrhea
+
+Advise patients to immediately call their healthcare provider if they experience diarrhea that does not improve [see Warnings and Precautions (5.3)].
+
+Bone Fracture
+
+Advise patients to report any fractures, especially of the hip, wrist or spine, to their healthcare provider [see Warnings and Precautions (5.4)].
+
+Severe Cutaneous Adverse Reactions
+
+Advise patients to discontinue Pantoprazole and immediately call their healthcare provider for further evaluation [see Warnings and Precautions (5.5)].
+
+Cutaneous and Systemic Lupus Erythematosus
+
+Advise patients to immediately call their healthcare provider for any new or worsening of symptoms associated with cutaneous or systemic lupus erythematosus [see Warnings and Precautions (5.6)].
+
+Cyanocobalamin (Vitamin B-12) Deficiency
+
+Advise patients to report any clinical symptoms that may be associated with cyancobalamin deficiency to their healthcare provider if they have been receiving Pantoprazole for longer than 3 years [see Warnings and Precautions (5.7)].
+
+Hypomagnesemia and Mineral Metabolism
+
+Advise patients to report any clinical symptoms that may be associated with hypomagnesemia, hypocalcemia, and/or hypokalemia, to their healthcare provider, if they have been receiving Pantoprazole for at least 3 months [see Warnings and Precautions (5.8)].
+
+Drug Interactions
+
+Instruct patients to inform their healthcare provider of any other medications they are currently taking, including rilpivirine-containing products [see Contraindications (4)], digoxin [see Warnings and Precautions (5.8)] and high dose methotrexate [see Warnings and Precautions (5.13)].
+
+Pregnancy
+
+Advise a pregnant woman of the potential risk to a fetus.
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+
+Administration
+
+- Do not split, crush, or chew Pantoprazole Sodium Delayed-Release Tablets.
+- Swallow Pantoprazole Sodium Delayed-Release Tablets whole, with or without food in the stomach.
+- Concomitant administration of antacids does not affect the absorption of Pantoprazole Sodium Delayed-Release Tablets.
+- Take a missed dose as soon as possible.
+  If it is almost time for the next dose, skip the missed dose and take the next dose at the regular scheduled time.
+  Do not take 2 doses at the same time.
+
+This product’s label may have been updated.
+For the most recent prescribing information, please visit www.chartwellpharma.com.
+
+For Medical Information about Pantoprazole, please visit www.chartwellpharma.com or call 1-845-232-1683.
+
+Manufactured for:
+
+Chartwell RX, LLC.
+Congers, NY 10920
+
+Dispense with Medication Guide available at: www.chartwellpharma.com/medguides
+
+L71364
+
+Rev.
+03/2023
