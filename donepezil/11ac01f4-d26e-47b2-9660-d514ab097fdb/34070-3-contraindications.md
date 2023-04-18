@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-Donepezil hydrochloride tablet is contraindicated in patients with known hypersensitivity to donepezil hydrochloride or to piperidine derivatives.
+Donepezil hydrochloride tablets are contraindicated in patients with known hypersensitivity to donepezil hydrochloride or to piperidine derivatives.

@@ -14,7 +14,6 @@ Syncopal episodes have been reported in association with the use of donepezil hy
 
 Donepezil hydrochloride, as a predictable consequence of its pharmacological properties, has been shown to produce diarrhea, nausea, and vomiting.
 These effects, when they occur, appear more frequently with the 10 mg/day dose than with the 5 mg/day dose.
-
 Although in most cases, these effects have been transient, sometimes lasting one to three weeks, and have resolved during continued use of donepezil hydrochloride, patients should be observed closely at the initiation of treatment and after dose increases.
 
 ## 5.4 Peptic Ulcer Disease and GI Bleeding
@@ -30,7 +29,7 @@ Although not observed in clinical trials of donepezil hydrochloride, cholinomime
 ## 5.7 Neurological Conditions: Seizures
 
 Cholinomimetics are believed to have some potential to cause generalized convulsions.
-However, seizure activity also may be a manifestation of Alzheimer's disease.
+However, seizure activity also may be a manifestation of Alzheimer’s disease.
 
 ## 5.8 Pulmonary Conditions
 
