@@ -1,28 +1,27 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Administration Instructions
+## 2.1 Dosing Guidelines
 
 - Dexmedetomidine hydrochloride injection dosing should be individualized and titrated to desired clinical response.
 - Dexmedetomidine hydrochloride injection is not indicated for infusions lasting longer than 24 hours.
 - Dexmedetomidine hydrochloride injection should be administered using a controlled infusion device.
 
-## 2.2 Recommended Dosage
+## 2.2 Dosage Information
 
-Table 1: Recommended Dosage in Adult Patients
-
-| INDICATION | DOSAGE AND ADMINISTRATION |
-| --- | --- |
-| Initiation of Intensive Care Unit Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes.For adult patients being converted from alternate sedative therapy: a loading dose may not be required.For patients over 65 years of age: Consider a dose reduction [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: Consider a dose reduction [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
-| Maintenance of Intensive Care Unit Sedation | For adult patients: a maintenance infusion of 0.2 to 0.7 mcg/kg/hour. The rate of the maintenance infusion should be adjusted to achieve the desired level of sedation.For patients over 65 years of age: Consider a dose reduction [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: Consider a dose reduction [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
-| Initiation of Procedural Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes. For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 mcg/kg given over 10 minutes may be suitable.For awake fiberoptic intubation in adult patients: a loading infusion of one mcg/kg over 10 minutes.For patients over 65 years of age: a loading infusion of 0.5 mcg/kg over 10 minutes [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: Consider a dose reduction [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
-| Maintenance of Procedural Sedation | For adult patients: the maintenance infusion is generally initiated at 0.6 mcg/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 mcg/kg/hour. Adjust the rate of the maintenance infusion to achieve the targeted level of sedation.For awake fiberoptic intubation in adult patients: a maintenance infusion of 0.7 mcg/kg/hour is recommended until the endotracheal tube is secured.For patients over 65 years of age: Consider a dose reduction [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: Consider a dose reduction [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
-
-Table 2: Recommended Dosage in Pediatric Patients
+Table 1: Dosage Information
 
 | INDICATION | DOSAGE AND ADMINISTRATION |
 | --- | --- |
-| Initiation of Sedation During Non-invasive Procedures | For pediatric patients: 1 month to less than 2 years: a loading infusion of 1.5 mcg/kg over 10 minutes. 2 to less than 18 years: a loading infusion of 2 mcg/kg over 10 minutes. Consider a reduction in dosage if clinically indicated. |
-| Maintenance of Sedation During Non-invasive Procedures | For pediatric patients: 1 month to less than 18 years: the maintenance infusion is generally initiated at 1.5 mcg/kg/hour and titrated to achieve desired clinical effect with dosage ranging from 0.5 to 1.5 mcg/kg/hour. As clinically warranted, titrate the maintenance dose to individual patient clinical response. |
+| Initiation of Intensive CareUnit Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes.For adult patients being converted from alternate sedative therapy: a loading dose may not be required.For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
+| Maintenance of Intensive CareUnit Sedation | For adult patients: a maintenance infusion of 0.2 to 0.7 mcg/kg/hour. The rate of the maintenance infusion should be adjusted to achieve the desired level of sedation.For patients over 65 years of age: a dose reduction should be considered[see Use in Specific Populations (8.5)].For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
+| Initiation of Procedural Sedation | For adult patients: a loading infusion of one mcg/kg over 10 minutes. For less invasive procedures such as ophthalmic surgery, a loading infusion of 0.5 mcg/kg given over 10 minutes may be suitable. |
+| For awake fiberoptic intubation in adult patients: a loading infusion of one mcg/kg over 10 minutes. |  |
+| For patients over 65 years of age: a loading infusion of 0.5 mcg/kg over 10 minutes [see Use in Specific Populations (8.5)]. |  |
+| For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |  |
+| Maintenance of Procedural Sedation | For adult patients: the maintenance infusion is generally initiated at 0.6 mcg/kg/hour and titrated to achieve desired clinical effect with doses ranging from 0.2 to 1 mcg/kg/hour. The rate of the maintenance infusion should be adjusted to achieve the targeted level of sedation. |
+|  | For awake fiberoptic intubation in adult patients: a maintenance infusion of 0.7 mcg/kg/hour is recommended until the endotracheal tube is secured. |
+|  | For patients over 65 years of age: a dose reduction should be considered [see Use in Specific Populations (8.5)]. |
+|  | For adult patients with impaired hepatic function: a dose reduction should be considered [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)]. |
 
 ## 2.3 Dosage Adjustment
 
@@ -48,7 +47,7 @@ Shake gently to mix well.
 Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection, 200 mcg/50 mL (4 mcg/mL) and 400 mcg/100 mL (4 mcg/mL)
 
 Dexmedetomidine Hydrochloride in 0.9% Sodium Chloride Injection is supplied in glass containers containing a premixed, ready to use dexmedetomidine hydrochloride solution in 0.9% sodium chloride in water.
-No further dilution of these preparations is necessary.
+No further dilution of these preparations are necessary.
 
 ## 2.5 Administration with Other Fluids
 
