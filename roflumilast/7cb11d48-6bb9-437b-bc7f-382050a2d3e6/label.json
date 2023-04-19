@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213298"
+  ],
+  "inn": "roflumilast",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-275-30",
+    "59651-275-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "roflumilast",
+      "name": "ROFLUMILAST"
+    }
+  ],
+  "setid": "7cb11d48-6bb9-437b-bc7f-382050a2d3e6",
+  "source": "dailymed"
+}
