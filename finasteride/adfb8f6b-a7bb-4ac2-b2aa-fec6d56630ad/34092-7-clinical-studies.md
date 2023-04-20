@@ -23,7 +23,7 @@ Results seen in earlier studies were comparable to those seen in a long-term eff
 Although an early improvement in urinary symptoms was seen in some patients, a therapeutic trial of at least 6 months was generally necessary to assess whether a beneficial response in symptom relief had been achieved.
 The improvement in BPH symptoms was seen during the first year and maintained throughout an additional 5 years of open extension studies.
 
-Effect on the Need for Surgery
+Effect on Acute Urinary Retention and the Need for Surgery
 
 In a long-term efficacy and safety study, efficacy was also assessed by evaluating treatment failures.
 Treatment failure was prospectively defined as BPH-related urological events or clinical deterioration, lack of improvement and/or the need for alternative therapy.
