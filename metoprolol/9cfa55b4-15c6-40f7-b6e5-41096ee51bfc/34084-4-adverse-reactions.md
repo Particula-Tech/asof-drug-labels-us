@@ -2,12 +2,9 @@
 
 The following adverse reactions are described elsewhere in labeling:
 
-- •Worsening angina or myocardial infarction.
-  [see Warnings and Precautions (5)]
-- •Worsening heart failure.
-  [see Warnings and Precautions (5)]
-- •Worsening AV block.
-  [see Contraindications (4)]
+- Worsening angina or myocardial infarction [see Warnings and Precautions (5)]
+- Worsening heart failure [see Warnings and Precautions (5)]
+- Worsening AV block [see Contraindications (4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -15,9 +12,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The adverse reaction information from clinical trials does, however, provide a basis for identifying the adverse events that appear to be related to drug use and for approximating rates.
 
 Hypertension and Angina: Most adverse reactions have been mild and transient.
-The most common (>2%) adverse reactions are tiredness, dizziness, depression, diarrhea, shortness of breath, bradycardia, and rash.
+The most common (> 2%) adverse reactions are tiredness, dizziness, depression, diarrhea, shortness of breath, bradycardia, and rash.
 
-Heart Failure: In the MERIT-HF study comparing metoprolol succinate in daily doses up to 200 mg (mean dose 159 mg once-daily; n=1990) to placebo (n=2001), 10.3% of metoprolol succinate patients discontinued for adverse events vs. 12.2% of placebo patients.
+Heart Failure: In the MERIT-HF study comparing metoprolol succinate in daily doses up to 200 mg (mean dose 159 mg once-daily; n = 1990) to placebo (n = 2001), 10.3% of metoprolol succinate patients discontinued for adverse events vs. 12.2% of placebo patients.
 
 The table below lists adverse reactions in the MERIT-HF study that occurred at an incidence of ≥ 1% in the metoprolol succinate group and greater than placebo by more than 0.5%, regardless of the assessment of causality.
 
@@ -29,7 +26,7 @@ Adverse Reactions Occurring in the MERIT-HF Study at an Incidence ≥ 1% in the 
 | Bradycardia | 1.5 | 0.4 |
 
 Post-operative Adverse Events: In a randomized, double-blind, placebo-controlled trial of 8351 patients with or at risk for atherosclerotic disease undergoing non-vascular surgery and who were not taking beta–blocker therapy, metoprolol succinate 100 mg was started 2 to 4 hours prior to surgery then continued for 30 days at 200 mg per day.
-Metoprolol succinate use was associated with a higher incidence of bradycardia (6.6% vs. 2.4%; HR, 2.74; 95% CI 2.19, 3.43), hypotension (15% vs. 9.7%; HR 1.55; 95% CI 1.37, 1.74), stroke (1% vs. 0.5%; HR 2.17; 95% CI 1.26, 3.74) and death (3.1% vs. 2.3%; HR 1.33; 95% CI 1.03, 1.74) compared to placebo.
+Metoprolol succinate use was associated with a higher incidence of bradycardia (6.6% vs. 2.4%; HR, 2.74; 95% CI 2.19, 3.43), hypotension (15% vs. 9.7%; HR 1.55; 95% CI 1.37, 1.74), stroke (1.0% vs. 0.5%; HR 2.17; 95% CI 1.26, 3.74) and death (3.1% vs. 2.3%; HR 1.33; 95% CI 1.03, 1.74) compared to placebo.
 
 ## 6.2 Post-Marketing Experience
 

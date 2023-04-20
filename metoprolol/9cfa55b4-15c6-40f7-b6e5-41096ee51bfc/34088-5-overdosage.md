@@ -8,9 +8,9 @@ Patients with myocardial infarction or heart failure may be prone to significant
 Beta-blocker overdose may result in significant resistance to resuscitation with adrenergic agents, including beta-agonists.
 On the basis of the pharmacologic actions of metoprolol, employ the following measures.
 
-There is very limited experience with the use of hemodialysis to remove metoprolol, however metoprolol is not highly protein bound.
+Hemodialysis is unlikely to make a useful contribution to metoprolol elimination [see Clinical Pharmacology (12.3)].
 
-Bradycardia: Evaluate the need for atropine, adrenergic-stimulating drugs or pacemaker to treat bradycardia and conduction disorders.
+Bradycardia: Evaluate the need for atropine, adrenergic-stimulating drugs, or pacemaker to treat bradycardia and conduction disorders.
 
 Hypotension: Treat underlying bradycardia.
 Consider intravenous vasopressor infusion, such as dopamine or norepinephrine.

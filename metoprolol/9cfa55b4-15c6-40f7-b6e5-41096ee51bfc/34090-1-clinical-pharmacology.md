@@ -25,7 +25,7 @@ Clinical pharmacology studies have confirmed the beta-blocking activity of metop
 
 The relationship between plasma metoprolol levels and reduction in exercise heart rate is independent of the pharmaceutical formulation.
 Beta1-blocking effects in the range of 30 to 80% of the maximal effect (approximately 8 to 23% reduction in exercise heart rate) correspond to metoprolol plasma concentrations from 30 to 540 nmol/L.
-The relative beta1‑selectivity of metoprolol diminishes and blockade of beta2-adrenoceptors increases at plasma concentration above 300 nmol/L.
+The relative beta1-selectivity of metoprolol diminishes and blockade of beta2-adrenoceptors increases at plasma concentration above 300 nmol/L.
 
 In five controlled studies in normal healthy subjects, extended-release metoprolol succinate administered once a day, and immediate-release metoprolol administered once to four times a day, provided comparable total beta1-blockade over 24 hours (area under the beta1-blockade versus time curve) in the dose range 100 to 400 mg.
 In another controlled study, 50 mg once daily for each product, extended-release metoprolol succinate produced significantly higher total beta1-blockade over 24 hours than immediate-release metoprolol.
@@ -44,6 +44,8 @@ Beta2-adrenergic blockade results in passive bronchial constriction by interferi
 
 ## 12.3 Pharmacokinetics
 
+Absorption
+
 The peak plasma levels following once-daily administration of extended release metoprolol succinate are reduced by 50 to 75% on average compared to a corresponding dose of immediate-release metoprolol tartrate, both when administered once daily or in divided doses.
 At steady state the average bioavailability of metoprolol following administration of metoprolol succinate, across the dosage range of 50 to 400 mg once daily, was reduced by 25% relative to the corresponding single or divided doses of immediate-release metoprolol tartrate.
 The bioavailability of metoprolol shows a dose-related, although not directly proportional, increase with dose.
@@ -56,9 +58,9 @@ Peak plasma concentration of metoprolol is attained at 10 hours following admini
 
 Effect of food
 
-Compared to fasted state administration, high-fat, high-calorie meal (54.3% fat, 15.6% proteins and 30.1% carbohydrates) did not have a significant effect on the absorption of KAPSPARGO SPRINKLE.
+Compared to fasted state administration, high-fat, high-calorie meal (54.3% fat, 15.6% proteins and 30.1% carbohydrates) did not have a significant effect on the absorption of KAPSPARGO Sprinkle.
 
-KAPSPARGO SPRINKLE (metoprolol succinate 200 mg) administered under fasting conditions to healthy adults by sprinkling the entire contents on one-tablespoon (15 mL) of applesauce did not significantly affect Tmax, Cmax, and AUC of metoprolol.
+KAPSPARGO Sprinkle (metoprolol succinate 200 mg) administered under fasting conditions to healthy adults by sprinkling the entire contents on one-tablespoon (15 mL) of applesauce did not significantly affect Tmax, Cmax, and AUC of metoprolol.
 
 Distribution
 
@@ -83,6 +85,8 @@ Following intravenous administration of metoprolol, the urinary recovery of unch
 
 Specific Populations
 
+Patients with Renal Impairment The systemic availability and half-life of metoprolol in patients with renal failure do not differ to a clinically significant degree from those in normal subjects.
+
 Pediatric Patients
 
 The pharmacokinetic profile of metoprolol succinate was studied in 120 pediatric hypertensive patients (6 to 17 years of age) receiving doses ranging from 12.5 to 200 mg once daily.
@@ -90,6 +94,9 @@ The pharmacokinetics of metoprolol were similar to those described previously in
 Age, gender, race, and ideal body weight had no significant effects on metoprolol pharmacokinetics.
 Metoprolol apparent oral clearance (CL/F) increased linearly with body weight.
 Metoprolol pharmacokinetics have not been investigated in patients < 6 years of age.
+
+Body Weight, Age, and Race Metoprolol apparent oral clearance (CL/F) increased linearly with body weight.
+Age, gender, and race had no significant effects on metoprolol pharmacokinetics.
 
 Drug Interactions
 
@@ -102,13 +109,7 @@ Extensive metabolizers who concomitantly use CYP2D6 inhibiting drugs will have i
 
 Alcohol
 
-An in vitro dissolution study was conducted to evaluate the impact of alcohol (5, 10, 20 and 40%), on the extended-release characteristics of KAPSPARGO SPRINKLE.
+An in vitro dissolution study was conducted to evaluate the impact of alcohol (5, 10, 20 and 40%), on the extended-release characteristics of KAPSPARGO Sprinkle.
 The in vitro study showed that about 89% of the total metoprolol succinate dose was released at 2 hour at the highest alcohol level (40%), and about 17% of total drug was released at 2 hour with 5% alcohol.
-Alcohol causes a rapid release of metoprolol succinate from KAPSPARGO SPRINKLE that may increase the risk for above events associated with KAPSPARGO SPRINKLE.
-Consumption of alcohol is not recommended when taking KAPSPARGO SPRINKLE 25 mg, 50 mg, 100 mg and 200 mg.
-
-## 12.5 Pharmacogenomics
-
-CYP2D6 is absent in about 8% of Caucasians (poor metabolizers) and about 2% of most other populations.
-CYP2D6 can be inhibited by several drugs.
-Poor metabolizers of CYP2D6 will have increased (several-fold) metoprolol blood levels, decreasing metoprolol's cardioselectivity.
+Alcohol causes a rapid release of metoprolol succinate from KAPSPARGO Sprinkle that may increase the risk for above events associated with KAPSPARGO Sprinkle.
+Consumption of alcohol is not recommended when taking KAPSPARGO Sprinkle 25 mg, 50 mg, 100 mg and 200 mg.

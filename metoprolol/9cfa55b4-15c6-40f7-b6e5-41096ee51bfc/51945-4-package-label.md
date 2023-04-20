@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 25 mg
 
 NDC 10631-008-30
 
@@ -16,7 +16,7 @@ Rx only
 
 ohm®
 
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 50 mg
 
 NDC 10631-009-30
 
@@ -34,7 +34,7 @@ Rx only
 
 ohm®
 
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 100 mg
 
 NDC 10631-010-30
 
@@ -52,7 +52,7 @@ Rx only
 
 ohm®
 
-# Package/Label Display Panel
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL - 200 mg
 
 NDC 10631-011-30
 

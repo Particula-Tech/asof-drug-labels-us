@@ -43,7 +43,7 @@ Clinical Endpoints in the MERIT-HF Study
 | Clinical Endpoint | Number of Patients |  | Relative Risk(95% Cl) | Risk Reduction With Metoprolol Succinate | Nominal P-value |
 | --- | --- | --- | --- | --- | --- |
 |  | Placebon=2001 | Metoprolol Succinaten=1990 |  |  |  |
-| All-cause mortality plus all-caused hospitalization1 | 767 | 641 | 0.81 (0.73 to 0.90) | 19% | 0.00012 |
+| All-cause mortality plus all-caused hospitalization1 | 767 | 641 | 0.81(0.73 to 0.90) | 19% | 0.00012 |
 | All-cause mortality | 217 | 145 | 0.66(0.53 to 0.81) | 34% | 0.00009 |
 | All-cause mortality plus heart failure hospitalization1 | 439 | 311 | 0.69(0.60 to 0.80) | 31% | 0.0000008 |
 | Cardiovascular mortality | 203 | 128 | 0.62(0.50to 0.78) | 38% | 0.000022 |
@@ -52,7 +52,7 @@ Clinical Endpoints in the MERIT-HF Study
 | Hospitalizations due to worsening heart failure2 | 451 | 317 | N/A | N/A | 0.0000076 |
 | Cardiovascular hospitalization2 | 773 | 649 | N/A | N/A | 0.00028 |
 
-1. 1.
-   Time to first event
-2. 2.
-   Comparison of treatment groups examines the number of hospitalizations (Wilcoxon test); relative risk and risk reduction are not applicable.
+1.
+Time to first event
+
+2.Comparison of treatment groups examines the number of hospitalizations (Wilcoxon test); relative risk and risk reduction are not applicable.
