@@ -62,7 +62,7 @@ Measure trough vancomycin serum concentrations to guide therapy, especially in s
 For functionally anephric patients, an initial dose of 15 mg/kg of body weight should be given to achieve prompt therapeutic serum concentration.
 A dose of 1.9 mg/kg/24 hr should be given after the initial dose of 15 mg/kg.
 
-## 2.5 Directions for the Preparation, Dilution and Storage of the Pharmacy Bulk Package for Intravenous Use
+## 2.5 Directions for the Preparation, Dilution, and Storage of the Pharmacy Bulk Package for Intravenous Use
 
 Preparation
 
@@ -133,12 +133,12 @@ It is also recommended to dilute solutions of vancomycin to 5 mg/mL or less.
 Preparation of the Pharmacy Bulk Package for Oral Use
 
 1. Reconstitute Vancomycin Hydrochloride for Injection to 100 mg/mL by adding the appropriate amount of sterile water for injection: Table 1: Reconstitution-Volume of Sterile Water for Injection to be Added Vancomycin Hydrochloride for Injection Strength per VialVolume of Sterile Water for Injection to be added to achieve 100 mg/mL Vancomycin Hydrochloride Solution5 g45 mL10 g90 mL
-2. Sweeteners may be added to the solution to improve the taste for oral administration following the steps outlined in Instructions for How to Prepare and Add Sweeteners below.
+2. Sweeteners may be added to this solution to improve the taste for oral administration following the steps outlined in Instructions for How to Prepare and Add Sweeteners below.
 
 Instructions for How to Prepare and Add Sweeteners
 
 1.
-Prepare the sweetening agent separately from the reconstituted Vancomycin hydrochloride solution in a plastic container following one of the preparation options below:
+Prepare the sweetening agent separately from the reconstituted Vancomycin hydrochloride solution in a plastic-container following one of the preparation options below:
 
 - Mix sucrose and sterile water for injection in a 1:2 ratio (e.g., 10 g sucrose and 20 mL sterile water for injection) OR
 - Mix agave nectar with an equal volume of sterile water for injection
@@ -156,4 +156,4 @@ Administer the compounded mixtures within 4 hours after preparation when storing
 
 Oral Administration:
 
-Store the diluted solution for oral use in a plastic container refrigerated at 2 °C to 8 °C (36°F to 46°F) for up to 10 days.
+Store the diluted solution for oral use in a plastic container refrigerated at 2°C to 8°C (36°F to 46°F) for up to 10 days.

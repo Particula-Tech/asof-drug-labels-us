@@ -21,7 +21,7 @@ Absorption
 Vancomycin is poorly absorbed after oral administration.
 During multiple dosing of 250 mg every 8 hours for 7 doses, fecal concentrations of vancomycin in volunteers exceeded 100 mg/kg in the majority of samples.
 No blood concentrations were detected, and urinary recovery did not exceed 0.76%.
-In anephric subjects with no inflammatory bowel disease who received vancomycin oral solution 2 g for 16 days, blood concentrations of vancomycin were less than or eual to 0.66 mcg/mL in 2 of 5 subjects.
+In anephric subjects with no inflammatory bowel disease who received vancomycin oral solution 2 g for 16 days, blood concentrations of vancomycin were less than or equal to 0.66 mcg/mL in 2 of 5 subjects.
 No measurable blood concentrations were attained in the other 3 subjects.
 Following doses of 2 g daily, concentrations of drug were >3100 mg/kg in the feces and <1 mcg/mL in the serum of subjects with normal renal function who had C. difficile-associated diarrhea.
 After multiple-dose oral administration of vancomycin, measurable serum concentrations may occur in patients with active C. diffifile-associated diarrhea, and, in the presence of renal impairment, the possibility of accumulation exists.
@@ -82,7 +82,19 @@ Vancomycin has been shown to be active against most isolates of the following mi
 
 Aerobic bacteria
 
-Gram-positive bacteria Corynebacterium species Enterococcus species (including Enterococcus faecalis) Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates) Coagulase negative staphylococci (including S.epidermidis and methicillin-resistant isolates) Streptococcus gallolyticus (previously known as Streptococcus bovis) Viridans group streptococci
+Gram-positive bacteria
+
+Corynebacterium species
+
+Enterococcus species (including Enterococcus faecalis)
+
+Staphylococcus aureus (including methicillin-resistant and methicillin-susceptible isolates)
+
+Coagulase negative staphylococci (including S. epidermidis and methicillin-resistant isolates)
+
+Streptococcus gallolyticus (previously known as Streptococcus bovis)
+
+Viridans group streptococci
 
 Anaerobic bacteria
 
@@ -98,11 +110,21 @@ Aerobic bacteria
 
 Gram-positive bacteria
 
-Listeria monocytogenes Streptococcus pyogenes Streptococcus pneumoniae Streptococcus agalactiae
+Listeria monocytogenes
+
+Streptococcus pyogenes
+
+Streptococcus pneumoniae
+
+Streptococcus agalactiae
 
 Anaerobic bacteria
 
-Gram-positive bacteria Actinomyces species Lactobacillus species
+Gram-positive bacteria
+
+Actinomyces species
+
+Lactobacillus species
 
 Susceptibility Testing
 

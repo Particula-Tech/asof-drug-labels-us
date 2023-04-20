@@ -41,16 +41,16 @@ Dispense aliquots from the vial using a suitable sterile dispensing set into inf
 DISCARD VIAL NO LATER THAN 4 HOURS AFTER INITIAL CLOSURE PUNCTURE.
 (See Package Insert).
 
+hikma
+
 Rev.
-1/2023
+3/2023
 
 Sterile.
 Spray dried.
 Preservative Free.
 
-*Each vial contains:
-
-Vancomycin hydrochloride equivalent to 5 g vancomycin.
+*Each vial contains: Vancomycin hydrochloride equivalent to 5 g vancomycin.
 
 Recommended Dosage: See prescribing information.
 
@@ -73,6 +73,8 @@ No. 125, Yuezhong Rd, Lihai Subdistrict,
 Yuecheng District, Shaoxing, 312366,
 
 Zhejiang, China
+
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 Linear barcode
 
@@ -143,8 +145,16 @@ No. 125, Yuezhong Rd, Lihai Subdistrict, Yuecheng
 
 District, Shaoxing, 312366, Zhejiang, China
 
+Distributed by:
+
+Hikma Pharmaceuticals USA Inc.
+
+Berkeley Heights, NJ 07922
+
+BZFD11201
+
 Rev.
-1/2023
+3/2023
 
 Lot
 
@@ -203,16 +213,16 @@ Dispense aliquots from the vial using a suitable sterile dispensing set into inf
 DISCARD VIAL NO LATER THAN 4 HOURS AFTER INITIAL CLOSURE PUNCTURE.
 (See Package Insert).
 
+hikma.
+
 Rev.
-1/2023
+3/2023
 
 Sterile.
 Spray dried.
 Preservative Free.
 
-*Each vial contains:
-
-Vancomycin hydrochloride equivalent to 10 g vancomycin.
+*Each vial contains: Vancomycin hydrochloride equivalent to 10 g vancomycin.
 
 Recommended Dosage: See prescribing information.
 
@@ -236,13 +246,17 @@ Yuecheng District, Shaoxing, 312366,
 
 Zhejiang, China
 
-Linear barcode
+Distributed by:
 
-(01)103XXXXXXXXXXX
+Hikma Pharmaceuticals USA Inc.
+
+Berkeley Heights, NJ 07922
 
 Vial Label
 
 NDC 0143-9164-01
+
+Rx only
 
 Vancomycin Hydrochloride
 
@@ -305,8 +319,14 @@ No. 125, Yuezhong Rd, Lihai Subdistrict, Yuecheng
 
 District, Shaoxing, 312366, Zhejiang, China
 
+Distributed by:
+
+Hikma Pharmaceuticals USA Inc.
+
+Berkeley Heights, NJ 07922
+
 Rev.
-1/2023
+3/2023
 
 Lot
 
@@ -317,7 +337,3 @@ BOTTLE ENTRY
 DATE: _____
 
 TIME: _____
-
-Linear barcode
-
-(01)103XXXXXXXXXXX
