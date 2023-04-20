@@ -91,9 +91,17 @@ No adverse reactions were seen in the infants.
 
 The safety and effectiveness of desvenlafaxine have not been established in pediatric patients for the treatment of MDD.
 
+Efficacy was not demonstrated in two adequate and well controlled, 8-week, randomized, double-blind, placebo-controlled, parallel group studies conducted in 587 patients (7 to 17 years of age) for the treatment of MDD.
+
 Antidepressants, such as desvenlafaxine, increase the risk of suicidal thoughts and behaviors in pediatric patients [see the Boxed Warning and Warnings and Precautions (5.1)].
 
-Additional information describing clinical studies in which efficacy was not demonstrated in pediatric patients is approved for Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.’s PRISTIQ® (desvenlafaxine) Extended-Release Tablets.However, due to Wyeth Pharmaceuticals LLC, a subsidiary of Pfizer Inc.’s marketing exclusivity rights, this product is not labeled with that pediatric information.
+Desvenlafaxine was associated with a decrease in body weight in placebo-controlled trials in pediatric patients with MDD.
+The incidence of weight loss (≥3.5% of baseline weight) was 22%, 14%, and 7% for patients treated with low dose desvenlafaxine, high dose desvenlafaxine, and placebo, respectively.
+
+The risks associated with longer term desvenlafaxine use were assessed in 6-month, open-label extension studies in pediatric patients (7 to 17 years of age) with MDD.
+Pediatric patients (7 to 17 years of age) had mean changes in weight that approximated expected changes, based on data from age- and sex-matched peers.
+
+In clinical trials, when compared to adult patients receiving the same dose of desvenlafaxine, exposure to desvenlafaxine was similar in adolescent patients 12 to 17 years of age, and was about 30% higher in pediatric patients 7 to 11 years of age.
 
 Juvenile Animal Studies
 

@@ -35,7 +35,7 @@ Adverse reactions may occur upon discontinuation of desvenlafaxine [see Warnings
 Gradually reduce the dosage rather than stopping desvenlafaxine extended-release tablets abruptly when discontinuing therapy with desvenlafaxine extended-release tablets.
 In some patients, discontinuation may need to occur over a period of several months.
 
-## 2.6 Switching Patients from Other Antidepressants to Desvenlafaxine Extended-Release Tablets
+## 2.6 Switching Patients From Other Antidepressants to Desvenlafaxine Extended-Release Tablets
 
 Discontinuation symptoms have been reported when switching patients from other antidepressants, including venlafaxine, to desvenlafaxine.
 Tapering of the initial antidepressant may be necessary to minimize discontinuation symptoms.

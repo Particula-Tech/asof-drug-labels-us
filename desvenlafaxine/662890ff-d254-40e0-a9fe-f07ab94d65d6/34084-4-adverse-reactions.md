@@ -75,7 +75,7 @@ Table 2: Common Adverse Reactions (≥ 2% in any Fixed-Dose Group and Twice the 
 | Yawning | < 1 | 1 | 1 | 4 | 3 |
 | Skin and subcutaneous tissue disorders |  |  |  |  |  |
 | Hyperhidrosis | 4 | 10 | 11 | 18 | 21 |
-| Special senses |  |  |  |  |  |
+| Special Senses |  |  |  |  |  |
 | Vision blurred | 1 | 3 | 4 | 4 | 4 |
 | Mydriasis | < 1 | 2 | 2 | 6 | 6 |
 | Vertigo | 1 | 2 | 1 | 5 | 3 |
@@ -136,7 +136,9 @@ Laboratory, ECG and Vital Sign Changes Observed in MDD Clinical Studies
 
 The following changes were observed in pre-marketing placebo-controlled, short-term MDD studies with desvenlafaxine.
 
-Lipids: Elevations in fasting serum total cholesterol, LDL (low density lipoproteins) cholesterol, and triglycerides occurred in the controlled studies.
+Lipids
+
+Elevations in fasting serum total cholesterol, LDL (low density lipoproteins) cholesterol, and triglycerides occurred in the controlled studies.
 Some of these abnormalities were considered potentially clinically significant.
 
 The percentage of patients who exceeded a predetermined threshold value is shown in Table 4.
@@ -150,7 +152,9 @@ Table 4: Incidence (%) of Patients With Lipid Abnormalities of Potential Clinica
 | LDL Cholesterol *(Increase of ≥ 50 mg/dl and an absolute value of ≥ 190 mg/dl) | 0 | 1 | 0 | 1 | 2 |
 | Triglycerides, fasting *(Fasting: ≥ 327 mg/dl) | 3 | 2 | 1 | 4 | 6 |
 
-Proteinuria: Proteinuria, greater than or equal to trace, was observed in the pre-marketing fixed-dose controlled studies (see Table 5).
+Proteinuria
+
+Proteinuria, greater than or equal to trace, was observed in the pre-marketing fixed-dose controlled studies (see Table 5).
 This proteinuria was not associated with increases in BUN or creatinine and was generally transient.
 
 Table 5: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical Studies
@@ -160,7 +164,9 @@ Table 5: Incidence (%) of Patients with Proteinuria in the Fixed-dose Clinical S
 | Placebo | 50 mg | 100 mg | 200 mg | 400 mg |  |
 | Proteinuria | 4 | 6 | 8 | 5 | 7 |
 
-Vital Sign Changes: Table 6 summarizes the changes that were observed in placebo-controlled, short-term, pre-marketing studies with desvenlafaxine in patients with MDD (doses 50 mg to 400 mg).
+Vital Sign Changes
+
+Table 6 summarizes the changes that were observed in placebo-controlled, short-term, pre-marketing studies with desvenlafaxine in patients with MDD (doses 50 mg to 400 mg).
 
 Table 6: Mean Changes in Vital Signs at Final on Therapy for All Short-term, Fixed-dose Controlled Studies
 
