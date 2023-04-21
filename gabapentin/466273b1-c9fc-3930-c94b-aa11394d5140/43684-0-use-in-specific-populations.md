@@ -2,27 +2,49 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: Gabapentin has been shown to be fetotoxic in rodents, causing delayed ossification of several bones in the skull, vertebrae, forelimbs, and hindlimbs.
-These effects occurred when pregnant mice received oral doses of 1000 or 3000 mg/kg/day during the period of organogenesis, or approximately 3 to 8 times the maximum dose of 1800 mg/day given to PHN patients on a mg/m2 basis.
-The no effect level was 500 mg/kg/day representing approximately the maximum recommended human dose [MRHD] on a mg/m2 body surface area (BSA) basis.
-When rats were dosed prior to and during mating, and throughout gestation, pups from all dose groups (500, 1000 and 2000 mg/kg/day) were affected.
-These doses are equivalent to approximately 3 to 11 times the MRHD on a mg/m2 BSA basis.
-There was an increased incidence of hydroureter and/or hydronephrosis in rats in a study of fertility and general reproductive performance at 2000 mg/kg/day with no effect at 1000 mg/kg/day, in a teratology study at 1500 mg/kg/day with no effect at 300 mg/kg/day, and in a perinatal and postnatal study at all doses studied (500, 1000 and 2000 mg/kg/day).
-The doses at which the effects occurred are approximately 3 to 11 times the maximum human dose of 1800 mg/day on a mg/m2 basis; the no-effect doses were approximately 5 times (Fertility and General Reproductive Performance study) and approximately equal to (Teratogenicity study) the maximum human dose on a mg/m2 BSA basis.
-Other than hydroureter and hydronephrosis, the etiologies of which are unclear, the incidence of malformations was not increased compared to controls in offspring of mice, rats, or rabbits given doses up to 100 times (mice), 60 times (rats), and 50 times (rabbits) the human daily dose on a mg/kg basis, or 8 times (mice), 10 times (rats), or 16 times (rabbits) the human daily dose on a mg/m2 BSA basis.
-In a teratology study in rabbits, an increased incidence of postimplantation fetal loss occurred in dams exposed to 60, 300, and 1500 mg/kg/day, or 0.6 to 16 times the maximum human dose on a mg/m2 BSA basis.
-There are no adequate and well-controlled studies in pregnant women.
-This drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Pregnancy Exposure Registry
 
-To provide information regarding the effects of in utero exposure to GRALISE, physicians are advised to recommend that pregnant patients taking GRALISE enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to gabapentin, including GRALISE, during pregnancy.
+Encourage women who are taking GRALISE during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling the toll free number 1-888-233-2334 or visiting https://www.aedpregnancyregistry.org/.
 
-## 8.3 Nursing Mothers
+Risk Summary
 
-Gabapentin is secreted into human milk following oral administration.
-A nursed infant could be exposed to a maximum dose of approximately 1 mg/kg/day of gabapentin.
-Because the effect on the nursing infant is unknown, GRALISE should be used in women who are nursing only if the benefits clearly outweigh the risks.
+Available data from published prospective and retrospective cohort studies, and case reports over decades of use with gabapentin during pregnancy have not identified a drug-associated risk of major birth defects.
+The available data are insufficient to evaluate a drug-associated risk of miscarriage and other maternal or fetal outcomes.
+In nonclinical studies in mice, rats, and rabbits, gabapentin was developmentally toxic (increased fetal skeletal and visceral abnormalities, and increased embryofetal mortality) when administered to pregnant animals at doses similar to those used clinically (see Data).
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Data
+
+Animal Data
+
+When pregnant mice received oral doses of gabapentin (1,000 or 3,000 mg/kg/day, approximately 3 to 8 times the maximum recommended dose of 1,800 mg on a mg/m2 basis) during the period of organogenesis, embryofetal toxicity (increased incidences of skeletal variations) was observed.
+The no effect level was 500 mg/kg/day, representing approximately the maximum recommended human dose [MRHD] on a mg/m2 basis.
+
+When rats were dosed prior to and during mating, and throughout gestation, pups from all dose groups (500, 1,000 and 2,000 mg/kg/day) were affected.
+These doses are equivalent to approximately 3 to 11 times the MRHD on a mg/m2 basis.
+There was an increased incidence of hydroureter and/or hydronephrosis in rats in a study of fertility and general reproductive performance at 2,000 mg/kg/day with no effect at 1,000 mg/kg/day, in a teratology study at 1,500 mg/kg/day with no effect at 300 mg/kg/day, and in a perinatal and postnatal study at all doses studied (500, 1,000 and 2,000 mg/kg/day).
+The doses at which the effects occurred are approximately 3 to 11 times the maximum recommended dose of 1,800 mg on a mg/m2 basis; the no-effect doses were approximately 5 times (Fertility and General Reproductive Performance study) and approximately equal to (Teratogenicity study) the MRHD on a mg/m2 basis.
+Other than hydroureter and hydronephrosis, the etiologies of which are unclear, the incidence of malformations was not increased compared to controls in offspring of mice, rats, or rabbits given doses up to 8 times (mice), 10 times (rats), or 16 times (rabbits) the human daily dose on a mg/m2 basis.
+
+When pregnant rabbits were treated with gabapentin during the period of organogenesis, an increase in embryofetal mortality was observed at 60, 300, and 1,500 mg/kg/day (0.6 to 16 times the MRHD on a mg/m2 basis).
+
+In a published study, gabapentin (400 mg/kg/day) was administered by intraperitoneal injection to neonatal mice during the first postnatal week, a period of synaptogenesis in rodents (corresponding to the last trimester of pregnancy in humans).
+Gabapentin caused a marked decrease in neuronal synapse formation in brains of intact mice and abnormal neuronal synapse formation in a mouse model of synaptic repair.
+Gabapentin has been shown in vitro to interfere with activity of the α2δ subunit of voltage-activated calcium channels, a receptor involved in neuronal synaptogenesis.
+The clinical significance of these findings is unknown.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Gabapentin is present in human milk following oral administration.
+Adverse effects on the breastfed infant have not been reported.
+There are no data on the effects of the drug on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for GRALISE and any potential adverse effects on the breastfed infant from GRALISE or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -34,8 +56,7 @@ The total number of patients treated with GRALISE in controlled clinical trials 
 The types and incidence of adverse events were similar across age groups except for peripheral edema, which tended to increase in incidence with age.
 
 GRALISE is known to be substantially excreted by the kidney.
-Reductions in GRALISE dose should be made in patients with age-related compromised renal function.
-[see Dosage and Administration (2.2)].
+Reductions in GRALISE dose should be made in patients with age-related compromised renal function [see Dosage and Administration (2.2)].
 
 ## 8.6 Hepatic Impairment
 
@@ -45,5 +66,4 @@ Because gabapentin is not metabolized, studies have not been conducted in patien
 
 GRALISE is known to be substantially excreted by the kidney.
 Dosage adjustment is necessary in patients with impaired renal function.
-GRALISE should not be administered in patients with CrCL between 15 and 30 or in patients undergoing hemodialysis.
-[see Dosage and Administration (2.2)].
+GRALISE should not be administered in patients with CrCL between 15 and 30 or in patients undergoing hemodialysis [see Dosage and Administration (2.2)].

@@ -77,12 +77,12 @@ Before taking GRALISE, tell your healthcare provider if you:
   It is not known if GRALISE can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking GRALISE.
   You and your healthcare provider will decide if you should take GRALISE while you are pregnant.
-  - If you become pregnant while taking GRALISE, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-    The purpose of this registry is to collect information about the safety of antiepileptic drugs, including gabapentin, the active ingredient in GRALISE, during pregnancy.
-    You can enroll in this registry by calling 1-888-233-2334.
+  If you become pregnant while taking GRALISE, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+  The purpose of this registry is to collect information about the safety of antiepileptic drugs, including gabapentin, the active ingredient in GRALISE, during pregnancy.
+  You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
-  GRALISE can pass into your breast milk.
-  You and your healthcare provider should decide how you will feed your baby while you take GRALISE.
+  Gabapentin passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with GRALISE.
 
 Tell your healthcare provider about all the medicines you take including prescription and non-prescription medicines, vitamins or herbal supplements.
 Especially tell your healthcare provider if you take any opioid pain medicine (such as oxycodone), or medicines for anxiety (such as lorazepam) or insomnia (such as zolpidem).
@@ -158,15 +158,22 @@ What are the ingredients in GRALISE?
 
 Active ingredient: gabapentin
 
-Inactive ingredients: 300 mg tablet: copovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene oxide, and Opadry® II white.
-Opadry® II white contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, and lecithin (soya).
-600 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and Opadry® II beige.
-Opadry® II beige contains polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, iron oxide yellow, and iron oxide red.
+Inactive ingredients:
+
+300 mg tablet: copovidone, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene oxide, and white film coating (polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, and lecithin (soya)).
+
+450 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and red film coating (polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and iron oxide red).
+
+600 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and beige film coating (polyvinyl alcohol, titanium dioxide, talc, polyethylene glycol 3350, iron oxide yellow, and iron oxide red).
+
+750 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and yellow film coating (polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and iron oxide yellow).
+
+900 mg tablet: copovidone, hypromellose, magnesium stearate, polyethylene oxide, and pink film coating (polyethylene glycol, polyvinyl alcohol, talc, titanium dioxide, and iron oxide red).
 
 Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
 Brands listed are trademarks of their respective owners.
 
-PL803-00 Revised: 04/2020
+PL803-01 Revised: 03/2023
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-A total of 359 patients with neuropathic pain associated with postherpetic neuralgia have received GRALISE at doses up to 1800 mg daily during placebo-controlled clinical studies.
+A total of 359 patients with neuropathic pain associated with postherpetic neuralgia have received GRALISE at doses up to 1,800 mg daily during placebo-controlled clinical studies.
 In clinical trials in patients with postherpetic neuralgia, 9.7% of the 359 patients treated with GRALISE and 6.9% of 364 patients treated with placebo discontinued prematurely due to adverse reactions.
 In the GRALISE treatment group, the most common reason for discontinuation due to adverse reactions was dizziness.
 Of GRALISE-treated patients who experienced adverse reactions in clinical studies, the majority of those adverse reactions were either "mild" or "moderate".

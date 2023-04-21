@@ -2,7 +2,7 @@
 
 In vitro studies were conducted to investigate the potential of gabapentin to inhibit the major cytochrome P450 enzymes (CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4) that mediate drug and xenobiotic metabolism using isoform selective marker substrates and human liver microsomal preparations.
 Only at the highest concentration tested (171 mcg/mL; 1mM) was a slight degree of inhibition (14% to 30%) of isoform CYP2A6 observed.
-No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3600 mg/day).
+No inhibition of any of the other isoforms tested was observed at gabapentin concentrations up to 171 mcg/mL (approximately 15 times the Cmax at 3,600 mg/day).
 
 Gabapentin is not appreciably metabolized nor does it interfere with the metabolism of commonly coadministered antiepileptic drugs.
 

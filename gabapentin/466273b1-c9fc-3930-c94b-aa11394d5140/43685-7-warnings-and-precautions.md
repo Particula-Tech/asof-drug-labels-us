@@ -23,7 +23,7 @@ Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 3: Risk by Indication for Antiepileptic Drugs (including gabapentin, the active ingredient in GRALISE) in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |

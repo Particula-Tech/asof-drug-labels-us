@@ -4,11 +4,11 @@
 
 Do not use GRALISE interchangeably with other gabapentin products.
 
-Titrate GRALISE to an 1800 mg dose taken orally once daily with the evening meal.
+Titrate GRALISE to an 1,800 mg dose taken orally once daily with the evening meal.
 GRALISE tablets should be swallowed whole.
 Do not split, crush, or chew the tablets.
 
-If GRALISE dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of one week or longer (at the discretion of the prescriber).
+If GRALISE dosing is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of one week or longer (at the discretion of the prescriber).
 
 In adults with postherpetic neuralgia, GRALISE therapy should be initiated and titrated as follows:
 
@@ -16,7 +16,7 @@ Table 1: GRALISE Recommended Titration Schedule
 
 |  | Day 1 | Day 2 | Days 3-6 | Days 7-10 | Days 11-14 | Day 15 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Daily Dose | 300 mg | 600 mg | 900 mg | 1200 mg | 1500 mg | 1800 mg |
+| Daily Dose | 300 mg | 600 mg | 900 mg | 1,200 mg | 1,500 mg | 1,800 mg |
 
 ## 2.2 Patients with Renal Impairment
 
@@ -32,7 +32,7 @@ Table 2: GRALISE Dosage Based on Renal Function
 | Once-daily dosing |  |
 | --- | --- |
 | Creatinine Clearance (mL/min) | GRALISE Dose (once daily with evening meal) |
-| ≥ 60 | 1800 mg |
-| 30 - 60 | 600 mg to 1800 mg |
+| ≥ 60 | 1,800 mg |
+| 30 - 60 | 600 mg to 1,800 mg |
 | < 30 | GRALISE should not be administered |
 | patients receiving hemodialysis | GRALISE should not be administered |

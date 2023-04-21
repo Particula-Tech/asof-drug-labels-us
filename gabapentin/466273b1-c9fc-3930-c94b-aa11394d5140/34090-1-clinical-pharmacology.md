@@ -22,23 +22,36 @@ No pharmacodynamic studies have been conducted with GRALISE.
 
 ## 12.3 Pharmacokinetics
 
-Absorption and Bioavailability
+Absorption
 
 Gabapentin is absorbed from the proximal small bowel by a saturable L-amino transport system.
 Gabapentin bioavailability is not dose proportional; as the dose is increased, bioavailability decreases.
 
-When GRALISE (1800 mg once daily) and gabapentin immediate release (600 mg three times a day) were administered with high fat meals (50% of calories from fat), GRALISE has a higher Cmax and lower AUC at steady state compared to gabapentin immediate release (Table 5).
+When GRALISE (1,800 mg once daily) and gabapentin immediate release (600 mg three times a day) were administered with high fat meals (50% of calories from fat), GRALISE has a higher Cmax and lower AUC at steady state compared to gabapentin immediate release (Table 5).
 Time to reach maximum plasma concentration (Tmax) for GRALISE is 8 hours, which is about 4-6 hours longer compared to gabapentin immediate release.
 
-Table 5: Mean (SD) Steady-State Pharmacokinetics for GRALISE and Gabapentin Immediate Release in Plasma of Healthy Subjects (Day 5, n = 21)
+Table 5: Mean ± SD Steady-State Pharmacokinetics for GRALISE and Gabapentin Immediate Release in Healthy Subjects under high-fat high calorie fed state (Day 5, n = 21)
 
-| Pharmacokinetic Parameters (Mean ± SD) | GRALISE 1800 mg QD | Gabapentin Immediate Release 600 mg TID |
+| Pharmacokinetic Parameter (Mean ± SD) | GRALISE 1,800 mg QD (3 x 600 mg) | Gabapentin Immediate Release 600 mg TID |
 | --- | --- | --- |
-| AUC0-24 (ng•hr/mL) | 132,808 ± 34,701 | 141,301 ± 29,759 |
-| Cmax (ng/mL) | 9,585 ± 2,326 | 8,536 ± 1,715 |
-| Cmin (ng/mL) | 1,842 ± 654 | 2,588 ± 783 |
-| Tmax (hr) median (range) | 8 (3-12) | 2 (1-5)* |
-| * = relative to most recent dose |  |  |
+| AUC0-24 (μg.hr/mL) | 132.8 ± 34.7 | 141.3 ± 29.8 |
+| Cmax (μg/mL) | 9.59 ± 2.33 | 8.54 ± 1.72 |
+| Cmin (μg/mL) | 1.84 ± 0.65 | 2.6 ± 0.78 |
+| Tmax (hr)$ | 8 (3-12) | 2 (1-5)* |
+| $Tmax is presented as median (range); * relative to most recent dose |  |  |
+
+The single dose pharmacokinetic parameters of 900 mg strength under high fat-high calorie fed state and low fat-low calorie fed state are presented shown in Table 6.
+
+Table 6: Mean ± SD Single-Dose Pharmacokinetic parameters for GRALISE 900 mg strength in Healthy Subjects (n = 27)
+
+| Pharmacokinetic Parameter (Mean ± SD) | GRALISE 1,800 mg (2 x 900 mg tablets) |  |
+| --- | --- | --- |
+| High fat- high calorie fed state | Low fat- low calorie fed state |  |
+| Cmax (μg/mL) | 9.49 ± 1.93 | 6.50 ± 2.16 |
+| AUCt (μg.hr/mL) | 127.2 ± 42.8 | 79.1 ± 39.4 |
+| AUCinf (μg.hr/mL) | 133.2 ± 43.2 | 84.8 ± 39.4 |
+| Tmax (hr)$ | 7 (4-12) | 4 (3-12) |
+| $Tmax is presented as median (range) |  |  |
 
 Do not use GRALISE interchangeably with other gabapentin products because of differing pharmacokinetic profiles that affect frequency of administration.
 
@@ -54,12 +67,18 @@ Distribution
 Gabapentin is less than 3% bound to plasma proteins.
 After 150 mg intravenous administration, the mean ± SD volume of distribution is 58 ± 6 L.
 
-Metabolism and Excretion
+Elimination
 
 Gabapentin is eliminated by renal excretion as unchanged drug.
-Gabapentin is not appreciably metabolized in humans.
-In patients with normal renal function given gabapentin immediate release 1200 to 3000 mg/day, the drug elimination half-life (t1/2) was 5 to 7 hours.
+
+In patients with normal renal function given gabapentin immediate release 1,200 to 3,000 mg/day, the drug elimination half-life (t1/2) was 5 to 7 hours.
 Elimination kinetics do not change with dose level or multiple doses.
+
+Metabolism
+
+Gabapentin is not appreciably metabolized in humans.
+
+Excretion
 
 Gabapentin elimination rate constant, plasma clearance, and renal clearance are directly proportional to creatinine clearance.
 In elderly patients and patients with impaired renal function, plasma clearance is reduced.
