@@ -34,7 +34,7 @@ Physicians considering starting clonidine transdermal system therapy during the 
 
 ## Defibrillation or Cardioversion
 
-The transdermal clonidine systems should be removed before attempting defibrillation or cardioversion because of the potential for altered electrical conductivity which may increase the risk of arcing, a phenomenon associated with the use of defibrillators.
+The clonidine transdermal systems should be removed before attempting defibrillation or cardioversion because of the potential for altered electrical conductivity which may increase the risk of arcing, a phenomenon associated with the use of defibrillators.
 
 ## Information for Patients
 
@@ -64,7 +64,7 @@ Clonidine may potentiate the CNS-depressive effects of alcohol, barbiturates or 
 If a patient receiving clonidine is also taking tricyclic antidepressants, the hypotensive effect of clonidine may be reduced, necessitating an increase in the clonidine dose.
 If a patient receiving clonidine is also taking neuroleptics, orthostatic regulation disturbances (e.g., orthostatic hypotension, dizziness, fatigue) may be induced or exacerbated.
 
-Monitor heart rate in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction, e.g., digitalis, calcium channel blockers, and beta-blockers.
+Monitor heart rate in patients receiving clonidine concomitantly with agents known to affect sinus node function or AV nodal conduction e.g., digitalis, calcium channel blockers, and beta-blockers.
 Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concomitantly with diltiazem or verapamil.
 
 Amitriptyline in combination with clonidine enhances the manifestation of corneal lesions in rats (see PRECAUTIONS: Toxicology).
@@ -85,15 +85,17 @@ In combination with amitriptyline, clonidine hydrochloride administration led to
 Chronic dietary administration of clonidine was not carcinogenic to rats (132 weeks) or mice (78 weeks) dosed, respectively, at up to 46 to 70 times the maximum recommended daily human dose as mg/kg (9 or 6 times the MRDHD on a mg/m2 basis).
 There was no evidence of genotoxicity in the Ames test for mutagenicity or mouse micronucleus test for clastogenicity.
 
-Fertility of male and female rats was unaffected by clonidine doses as high as 150 μg/kg (approximately 3 times the MRDHD).
-In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 μg/kg (10 to 40 times the oral MRDHD on a mg/kg basis; 2 to 8 times the MRDHD on a mg/m2 basis).
+Fertility of male and female rats was unaffected by clonidine doses as high as 150 mcg/kg (approximately 3 times the MRDHD).
+In a separate experiment, fertility of female rats appeared to be affected at dose levels of 500 to 2000 mcg/kg (10 to 40 times the oral MRDHD on a mg/kg basis; 2 to 8 times the MRDHD on a mg/m2 basis).
 
 ## Pregnancy
+
+### Teratogenic Effects
 
 Reproduction studies performed in rabbits at doses up to approximately 3 times the oral maximum recommended daily human dose (MRDHD) of clonidine hydrochloride produced no evidence of a teratogenic or embryotoxic potential in rabbits.
 In rats, however, doses as low as 1/3 the oral MRDHD (1/15 the MRDHD on a mg/m2 basis) of clonidine were associated with increased resorptions in a study in which dams were treated continuously from 2 months prior to mating.
 Increased resorptions were not associated with treatment at the same or at higher dose levels (up to 3 times the oral MRDHD) when the dams were treated on gestation days 6 to 15.
-Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1 to 14 (lowest dose employed in the study was 500 μg/kg).
+Increases in resorption were observed at much higher dose levels (40 times the oral MRDHD on a mg/kg basis; 4 to 8 times the MRDHD on a mg/m2 basis) in mice and rats treated on gestation days 1 to 14 (lowest dose employed in the study was 500 mcg/kg).
 
 No adequate well-controlled studies have been conducted in pregnant women.
 Clonidine crosses the placental barrier (see CLINICAL PHARMACOLOGY: Pharmacokinetics).

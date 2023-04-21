@@ -1,6 +1,6 @@
 # Patient Instructions
 
-Clonidine Transdermal System, USP
+Clonidine Transdermal System, USP (klonʹ i deen)
 
 (Read the following instructions carefully before using this medication.
 If you have any questions, please consult with your doctor.)
@@ -58,6 +58,11 @@ Press gently on the clonidine transdermal system PATCH to ensure that the edges 
 
 4) Carefully center the ivory ADHESIVE COVER over the rectangular, peach clonidine transdermal system PATCH and apply firm pressure, especially around the edges in contact with the skin.
 
+How should I store the clonidine transdermal system PATCH?
+
+Store the clonidine transdermal system PATCH at room temperature 20° to 25°C (68° to 77°F).
+[See USP Controlled Room Temperature.]
+
 ## Instructions for Disposal
 
 KEEP OUT OF REACH OF CHILDREN
@@ -73,4 +78,4 @@ For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 1/2022 CTS:R15/PL:CTS:R13
+Revised: 3/2023 CTS:R16/PL:CTS:R14

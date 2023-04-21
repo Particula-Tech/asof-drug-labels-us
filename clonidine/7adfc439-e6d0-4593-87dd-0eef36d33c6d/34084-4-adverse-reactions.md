@@ -25,7 +25,7 @@ Decisions to include these reactions in labeling are typically based on one or m
 
 Body as a Whole: Fever; malaise; weakness; pallor; and withdrawal syndrome.
 
-Cardiovascular: Congestive heart failure; cerebrovascular accident; electrocardiographic abnormalities (i.e., bradycardia, sick sinus syndrome disturbances and arrhythmias); chest pain; orthostatic symptoms; syncope; increases in blood pressure; sinus bradycardia and atrioventricular (AV) block with and without the use of concomitant digitalis; Raynaud’s phenomenon; tachycardia; bradycardia; and palpitations.
+Cardiovascular: Congestive heart failure; cerebrovascular accident; electrocardiographic abnormalities (i.e., bradycardia, sick sinus syndrome disturbances and arrhythmias); chest pain; orthostatic symptoms; syncope; increases in blood pressure; sinus bradycardia and AV block with and without the use of concomitant digitalis; Raynaud’s phenomenon; tachycardia; bradycardia; and palpitations.
 
 Central and Peripheral Nervous System/Psychiatric: Delirium; mental depression; hallucinations (including visual and auditory); localized numbness; vivid dreams or nightmares; restlessness; anxiety; agitation; irritability; other behavioral changes; and drowsiness.
 
@@ -45,7 +45,7 @@ Ophthalmological: Blurred vision; burning of the eyes and dryness of the eyes.
 
 Most adverse effects are mild and tend to diminish with continued therapy.
 The most frequent (which appear to be dose-related) are dry mouth, occurring in about 40 of 100 patients; drowsiness, about 33 in 100; dizziness, about 16 in 100; constipation and sedation, each about 10 in 100.
-The following less frequent adverse experiences have also been reported in patients receiving clonidine hydrochloride, USP tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
+The following less frequent adverse experiences have also been reported in patients receiving clonidine hydrochloride tablets, but in many cases patients were receiving concomitant medication and a causal relationship has not been established.
 
 Body as a Whole: Fatigue, fever, headache, pallor, weakness, and withdrawal syndrome.
 Also reported were a weakly positive Coombs’ test and increased sensitivity to alcohol.

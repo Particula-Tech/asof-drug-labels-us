@@ -1,8 +1,8 @@
 # DESCRIPTION
 
 Clonidine transdermal system, USP is a transdermal system providing continuous systemic delivery of clonidine for 7 days at an approximately constant rate.
-Clonidine, USP is a centrally acting alpha-agonist hypotensive agent.
-It is an imidazoline derivative with the chemical name 2-[(2, 6-Dichlorophenyl)imino]imidazolidine and has the following chemical structure:
+Clonidine is a centrally acting alpha-agonist hypotensive agent.
+It is an imidazoline derivative with the chemical name 2-[(2,6-Dichlorophenyl)imino]imidazolidine and has the following chemical structure:
 
 Meets USP Drug Release Test 3.
 
