@@ -7,7 +7,7 @@ The vial stopper is not made with natural rubber latex.
 
 | NDC No.Unit of sale | StrengthUnit of Sale | NDC for Each Vial |
 | --- | --- | --- |
-| 0143-9161-25Unit of 25 | Vancomycin Hydrochloride for Injection, equivalent to 500 mg vancomycin in a flip-top vial, in packages of 25 vials. | 0143-9161-01 |
+| 0143-9161-25 Unit of 25 | Vancomycin Hydrochloride for Injection, equivalent to 500 mg vancomycin in a flip-top vial, in packages of 25 vials. | 0143-9161-01 |
 | 0143-9162-10 Unit of 10 | Vancomycin Hydrochloride for Injection, equivalent to 1 g vancomycin in a flip-top vial in packages of 10 vials. | 0143-9162-01 |
 
 Storage

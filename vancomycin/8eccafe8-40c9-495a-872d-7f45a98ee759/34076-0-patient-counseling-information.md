@@ -31,3 +31,9 @@ When Vancomycin Hydrochloride for Injection is prescribed to treat a bacterial i
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Vancomycin Hydrochloride for Injection or other antibacterial drugs in the future.
 
 Manufactured by: Zhejiang Novus Pharmaceuticals Co., Ltd. No. 125, Yuezhong Rd, Lihai Subdistrict, Yuecheng District, Shaoxing, 312366, Zhejiang, China
+
+Distributed by:
+
+Hikma Pharmaceuticals USA Inc.
+
+Berkeley Heights, NJ 07922

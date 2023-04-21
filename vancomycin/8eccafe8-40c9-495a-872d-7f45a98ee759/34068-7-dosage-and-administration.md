@@ -134,4 +134,4 @@ Administer the compounded mixtures within 4 hours after preparation when storing
 
 Oral Administration:
 
-Store the diluted solution for oral use in a plastic container refrigerated at 2 °C to 8 °C (36°F to 46°F) for up to 10 days.
+Store the diluted solution for oral use in a plastic container refrigerated at 2°C to 8°C (36°F to 46°F) for up to 10 days.

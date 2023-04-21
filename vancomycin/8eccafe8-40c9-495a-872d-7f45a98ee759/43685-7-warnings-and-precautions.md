@@ -78,6 +78,7 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+
 Clinically significant serum concentrations of vancomycin have been reported in some patients being treated for active C. difficile-induced pseudomembranous colitis after multiple oral doses of vancomycin [see Warnings and Precautions (5.10)].
 
 Prolonged use of Vancomycin Hydrochloride for Injection may result in the overgrowth of non-susceptible microorganisms.

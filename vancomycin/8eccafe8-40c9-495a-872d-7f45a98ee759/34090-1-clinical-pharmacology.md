@@ -100,13 +100,21 @@ Aerobic bacteria
 
 Gram-positive bacteria
 
-Listeria monocytogenes Streptococcus pyogenes Streptococcus pneumoniae Streptococcus agalactiae
+Listeria monocytogenes
+
+Streptococcus pyogenes
+
+Streptococcus pneumoniae
+
+Streptococcus agalactiae
 
 Anaerobic bacteria
 
 Gram-positive bacteria
 
-Actinomyces species Lactobacillus species
+Actinomyces species
+
+Lactobacillus species
 
 Susceptibility Testing
 
