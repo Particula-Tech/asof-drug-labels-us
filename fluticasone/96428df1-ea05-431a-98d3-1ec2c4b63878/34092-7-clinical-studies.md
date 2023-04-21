@@ -233,26 +233,26 @@ Other secondary endpoints included change from baseline in percentage of rescue-
 Table 8.
 Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at Study Endpoint (Trials 1, 2, and 3)
 
-| Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |
-| --- | --- | --- | --- | --- |
-| Treatment | Difference from |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |
-| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
-| BREO ELLIPTA 100/25 | 108 | 302(178, 426) | 116(-5, 236) | –– |
-| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |
-| BREO ELLIPTA 100/25 | 312 | –– | 108(45, 171) | –– |
-| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |
-| BREO ELLIPTA 200/25 | 89 | –– | –– | 136(1, 270) |
-| Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |
-| Treatment | Difference from |  |  |  |
-| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |
-| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
-| BREO ELLIPTA 100/25 | 200 | 172(87, 258) | 36(-48, 120) | –– |
-| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |
-| BREO ELLIPTA 100/25 | 334 | –– | 77(16, 138) | –– |
-| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |
-| BREO ELLIPTA 200/25 | 187 | –– | –– | 193(108, 277) |
-| ICS = inhaled corticosteroid, LABA = long-acting beta2-adrenergic agonist. |  |  |  |  |
+| Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Treatment | Difference from |  |  |  |  |  |  |  |  |  |
+| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |  |
+| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 108 | 302(178, 426) | 116(-5, 236) | –– |  |  |  |  |  |  |
+| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 312 | –– | 108(45, 171) | –– |  |  |  |  |  |  |
+| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 200/25 | 89 | –– | –– | 136(1, 270) |  |  |  |  |  |  |
+| Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |  |  |  |  |  |  |
+| Treatment | Difference from |  |  |  |  |  |  |  |  |  |
+| Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |  |
+| Trial 1 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 200 | 172(87, 258) | 36(-48, 120) | –– |  |  |  |  |  |  |
+| Trial 2 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 100/25 | 334 | –– | 77(16, 138) | –– |  |  |  |  |  |  |
+| Trial 3 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
+| BREO ELLIPTA 200/25 | 187 | –– | –– | 193(108, 277) |  |  |  |  |  |  |
+| ICS = inhaled corticosteroid, LABA = long-acting beta2-adrenergic agonist. |  |  |  |  |  |  |  |  |  |  |
 
 In Trial 1, weighted mean FEV1 (0 to 24 hours) was assessed in a subset of subjects (n = 309).
 At Week 12, change from baseline in weighted mean FEV1 (0 to 24 hours) was significantly greater for BREO ELLIPTA 100/25 compared with placebo (302 mL; 95% CI: 178, 426; P<0.001) (Table 8); change from baseline in weighted mean FEV1 (0 to 24 hours) for BREO ELLIPTA 100/25 was numerically greater than fluticasone furoate 100 mcg, but not statistically significant (116 mL; 95% CI: -5, 236).

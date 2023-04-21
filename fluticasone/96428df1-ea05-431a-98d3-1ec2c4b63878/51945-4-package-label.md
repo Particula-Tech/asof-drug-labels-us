@@ -23,7 +23,7 @@ BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
 ©2022 GSK group of companies or its licensor.
 
-1. 62000000074680 Rev.
+1. 62000000074679 Rev.
    1/22
 2. 
 
