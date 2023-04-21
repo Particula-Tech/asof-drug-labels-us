@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA213581"
+  ],
+  "inn": "atropine",
+  "labeler": "Bausch & Lomb Americas Inc.",
+  "package_ndcs": [
+    "82260-001-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "atropine sulfate",
+      "name": "Atropine Sulfate"
+    }
+  ],
+  "setid": "e294ce2b-6bb5-4f84-8a6d-ce2402ed926d",
+  "source": "dailymed"
+}
