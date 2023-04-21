@@ -6,7 +6,7 @@ Atorvastatin Calcium Tablets, USP
 
 Patient Information Leaflet available at https://www.apotex.com/products/us/mg.asp
 
-What Are Atorvastatin Calcium Tablets?
+What are atorvastatin calcium tablets?
 
 Atorvastatin calcium tablets are a prescription medicine that contains cholesterol lowering medicine (statin) called atorvastatin.
 
@@ -43,7 +43,7 @@ Do not take atorvastatin calcium tablets if you:
 
 See the end of this leaflet for a complete list of ingredients in atorvastatin calcium tablets.
 
-Before You take Atorvastatin Calcium Tablets, tell your doctor about all of your medical conditions, including if you:
+Before you take atorvastatin calcium tablets, tell your doctor about all of your medical conditions, including if you:
 
 - have unexplained muscle aches or weakness
 - drink more than 2 glasses of alcohol daily
@@ -87,9 +87,9 @@ Ask your doctor or pharmacist for a list of medicines if you are not sure.
 Know all the medicines you take.
 Keep a list of them to show your doctor and pharmacist.
 
-How Should I Take Atorvastatin Calcium Tablets?
+How should I take atorvastatin calcium tablets?
 
-- Take atorvastatin calcium tablets exactly as prescribed by your doctor.
+- Take atorvastatin calcium tablets exactly as your doctor tells you to take it.
 - Do not change your dose or stop atorvastatin calcium tablets without talking to your doctor.
 - Your doctor may do blood tests to check your cholesterol levels during your treatment with atorvastatin calcium tablets.
   Your dose of atorvastatin calcium tablets may be changed based on these blood test results.
@@ -101,13 +101,13 @@ How Should I Take Atorvastatin Calcium Tablets?
   Do not take atorvastatin calcium tablets if it has been more than 12 hours since you missed your last dose.
   Wait and take the next dose at your regular time.
   Do not take 2 doses of atorvastatin calcium tablets at the same time.
-- If you take too much atorvastatin calcium or overdose, call your doctor or Poison Control Center at 1-800-222-1222. or go to the nearest emergency room right away.
+  If you take too much atorvastatin calcium or overdose, call your doctor or Poison Control Center at 1-800-222-1222. or go to the nearest emergency room right away.
 
-What Should I Avoid While Taking Atorvastatin Calcium Tablets?
+What should I avoid while taking atorvastatin calcium tablets?
 
 - Avoid drinking more than 1.2 liters of grapefruit juice each day.
 
-What are the Possible Side Effects of Atorvastatin Calcium Tablets?
+What are the possible side effects of atorvastatin calcium tablets?
 
 Atorvastatin calcium tablets may cause serious side effects including:
 
@@ -158,13 +158,13 @@ These are not all the side effects of atorvastatin calcium tablets.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How do I store Atorvastatin Calcium Tablets?
+How do I store atorvastatin calcium tablets?
 
 - Store atorvastatin calcium tablets at room temperature, 68°F to 77°F (20°C to 25°C).
 - Do not keep medicine that is out of date or that you no longer need.
 - Keep atorvastatin calcium tablets and all medicines out of the reach of children.
 
-General Information About Atorvastatin Calcium Tablets
+General information about the safe and effective use of atorvastatin calcium tablets.
 
 Medicines are sometimes prescribed for purposes other than listed in patient information leaflet.
 Do not use atorvastatin calcium tablets for a condition for which it was not prescribed.
@@ -173,7 +173,7 @@ It may harm them.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about atorvastatin calcium tablets that is written for health professionals.
 
-What are the Ingredients In Atorvastatin Calcium Tablets?
+What are the ingredients in atorvastatin calcium tablets?
 
 Active Ingredient: atorvastatin calcium
 
@@ -187,7 +187,7 @@ APOTEX INC. ATORVASTATIN CALCIUM TABLETS, USP 10 mg, 20 mg, 40 mg, and 80 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada, M9L 1T9 | 33326 |
 
-Revised: January 2023
+Revised: April 2023
 
 Rev.
-21
+22

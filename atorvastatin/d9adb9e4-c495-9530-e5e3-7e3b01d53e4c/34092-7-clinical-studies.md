@@ -95,15 +95,17 @@ In two multicenter, placebo-controlled, dose-response trials in patients with hy
 (Pooled results are provided in Table 8.)
 
 TABLE 8.
-Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose-response trials.
+Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)a
 
-| Dose | N | TC | LDL-C | Apo B | TG | HDL-C | Non-HDL-C/ HDL-C |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Placebo | 21 | 4 | 4 | 3 | 10 | -3 | 7 |
-| 10 | 22 | -29 | -39 | -32 | -19 | 6 | -34 |
-| 20 | 20 | -33 | -43 | -35 | -26 | 9 | -41 |
-| 40 | 21 | -37 | -50 | -42 | -29 | 6 | -45 |
-| 80 | 23 | -45 | -60 | -50 | -37 | 5 | -53 |
+| Dose | N | TC | LDL-C | Apo B | TG | HDL-C |
+| --- | --- | --- | --- | --- | --- | --- |
+| Placebo | 21 | 4 | 4 | 3 | 10 | -3 |
+| 10 | 22 | -29 | -39 | -32 | -19 | 6 |
+| 20 | 20 | -33 | -43 | -35 | -26 | 9 |
+| 40 | 21 | -37 | -50 | -42 | -29 | 6 |
+| 80 | 23 | -45 | -60 | -50 | -37 | 5 |
+
+a Results are pooled from 2 dose-response trials
 
 In three multicenter, double-blind trials in patients with hyperlipidemia, atorvastatin calcium was compared to other statins.
 After randomization, patients were treated for 16 weeks with either atorvastatin calcium 10 mg per day or a fixed dose of the comparative agent (Table 9).
