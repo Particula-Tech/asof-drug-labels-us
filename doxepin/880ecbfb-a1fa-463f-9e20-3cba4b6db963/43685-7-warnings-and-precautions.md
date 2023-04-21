@@ -15,10 +15,9 @@ There were differences in absolute risk of suicidality across the different indi
 The risk differences (drug vs placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1000 patients treated) are provided in Table 1.
 
-Table 1
-
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1000 Patients Treated |
 | --- | --- |
+| Table 1 |  |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional cases |
 | 18–24 | 5 additional cases |
@@ -42,7 +41,7 @@ Consideration should be given to changing the therapeutic regimen, including pos
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers Such monitoring should include daily observation by families and caregivers.
 Prescriptions for Sinequan should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-### Screening Patients for Bipolar Disorder
+### Screening Patients for Bipolar Disorder:
 
 A major depressive episode may be the initial presentation of bipolar disorder.
 It is generally believed (though not established in controlled trials) that treating such an episode with an antidepressant alone may increase the likelihood of precipitation of a mixed/manic episode in patients at risk for bipolar disorder.
@@ -50,22 +49,22 @@ Whether any of the symptoms described above represent such a conversion is unkno
 However, prior to initiating treatment with an antidepressant, patients with depressive symptoms should be adequately screened to determine if they are at risk for bipolar disorder; such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and depression.
 It should be noted that Sinequan is not approved for use in treating bipolar depression.
 
-### Angle-Closure Glaucoma
+### Angle-Closure Glaucoma:
 
 The pupillary dilation that occurs following use of many antidepressant drugs including Sinequan may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
-#### Usage in Geriatrics
+#### Usage in Geriatrics:
 
 The use of SINEQUAN on a once-a-day dosage regimen in geriatric patients should be adjusted carefully based on the patient's condition (see PRECAUTIONS–Geriatric Use).
 
-#### Usage in Pregnancy
+#### Usage in Pregnancy:
 
 Reproduction studies have been performed in rats, rabbits, monkeys and dogs and there was no evidence of harm to the animal fetus.
 The relevance to humans is not known.
 Since there is no experience in pregnant women who have received this drug, safety in pregnancy has not been established.
 There has been a report of apnea and drowsiness occurring in a nursing infant whose mother was taking SINEQUAN.
 
-#### Usage in Children
+#### Usage in Children:
 
 The use of SINEQUAN in children under 12 years of age is not recommended because safe conditions for its use have not been established.
 

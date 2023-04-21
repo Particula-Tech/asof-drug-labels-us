@@ -45,3 +45,15 @@ Sinequan® (doxepin HCl)
 75 mg*
 
 Pfizer Distributed by Roerig Division of Pfizer Inc, NY, NY 10017
+
+# PRINCIPAL DISPLAY PANEL - 100 mg Capsule Bottle Label
+
+IMAGE NOT AVAILABLE
+
+# PRINCIPAL DISPLAY PANEL - 150 mg Capsule Bottle Label
+
+IMAGE NOT AVAILABLE
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Capsule 120mL Bottle Label
+
+IMAGE NOT AVAILABLE
