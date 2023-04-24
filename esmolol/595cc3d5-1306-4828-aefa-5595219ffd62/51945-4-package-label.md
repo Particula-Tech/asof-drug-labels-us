@@ -56,17 +56,19 @@ NDC 10019-115-39
 
 Brevibloc Injection (Esmolol Hydrochloride)
 
-100 mg/10 mL (10 mg/mL) 10 mL
-
-Rx only
+100 mg/10 mL (10 mg/mL) 10 mL Rx only
 
 Ready-to-use Vial
 
-FOR INTRAVENOUS USE Iso-Osmotic Contains no preservatives- discard unused portion.
+FOR INTRAVENOUS USE
 
-For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) Mfd. for Baxter Healthcare Corp. Deerfield, IL 60015 USA
+Iso-Osmotic Contains no preservatives- discard unused portion.
 
-462-405-01
+For Product Inquiry 1 800 ANA DRUG (1-800-262-3784) Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+07-32-00-0091 / 462-405-02
+
+Barcode (01) 00310019115399
 
 LOT:
 
