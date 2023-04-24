@@ -7,4 +7,4 @@ Before administration of carbamazepine, MAO inhibitors should be discontinued fo
 Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.
 Coadministration of carbamazepine with nefazodone is contraindicated.
 
-Coadministration of Carbatrol® is contraindicated with delavirdine due to the potential for loss of virologic response and possible resistance to delavirdine or to the class of non-nucleoside reverse transcriptase inhibitors.
+Coadministration of Carbatrol is contraindicated with delavirdine due to the potential for loss of virologic response and possible resistance to delavirdine or to the class of non-nucleoside reverse transcriptase inhibitors.

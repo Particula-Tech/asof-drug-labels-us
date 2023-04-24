@@ -28,13 +28,14 @@ CARBATROL can also cause other types of allergic reactions or serious problems t
 You may or may not have a rash when you get these types of reactions.
 Call your healthcare provider right away if you have any of these symptoms:
 
+- swelling of your face, eyes, lips, or tongue
+- trouble swallowing or breathing
 - frequent fevers or fevers that do not go away
 - frequent infections or an infection that does not go away
 - unusual bruising or bleeding
 - red or purple spots on your body
 - severe fatigue or weakness
 - unexpected muscle pain that does not go away
-- swelling of your face, eyes, lips, or tongue
 - swollen glands that do not go away
 - yellowing of your skin or the whites of your eyes
 - loss of appetite (anorexia) that does not go away
@@ -225,8 +226,6 @@ In addition:
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc.
+Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
 
-Lexington, MA 02421
-
-Issued [08/2020]
+Issued 4/2023

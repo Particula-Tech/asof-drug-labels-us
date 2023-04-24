@@ -2,7 +2,7 @@
 
 ## Epilepsy
 
-Carbatrol® is indicated for use as an anticonvulsant drug.
+Carbatrol is indicated for use as an anticonvulsant drug.
 Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with the following seizure types:
 
 1. Partial seizures with complex symptomatology (psychomotor, temporal lobe).
@@ -13,6 +13,6 @@ Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived f
 
 ## Trigeminal Neuralgia
 
-Carbatrol® is indicated in the treatment of the pain associated with true trigeminal neuralgia.
+Carbatrol is indicated in the treatment of the pain associated with true trigeminal neuralgia.
 Beneficial results have also been reported in glossopharyngeal neuralgia.
 This drug is not a simple analgesic and should not be used for the relief of trivial aches or pains.

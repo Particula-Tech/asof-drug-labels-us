@@ -11,9 +11,8 @@ The following additional adverse reactions were previously reported with carbama
 
 Hemopoietic System: Aplastic anemia, agranulocytosis, pancytopenia, bone marrow depression, thrombocytopenia, leukopenia, leukocytosis, eosinophilia, acute intermittent porphyria.
 
-Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, and diaphoresis.
+Skin: Toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS) (see BOXED WARNING), Acute Generalized Exanthematous Pustulosis (AGEP), pruritic and erythematous rashes, urticaria, photosensitivity reactions, alterations in skin pigmentation, exfoliative dermatitis, erythema multiforme and nodosum, purpura, aggravation of disseminated lupus erythematosus, alopecia, diaphoresis, onychomadesis and hirsutism.
 In certain cases, discontinuation of therapy may be necessary.
-Isolated cases of hirsutism have been reported, but a causal relationship is not clear.
 
 Cardiovascular System: Congestive heart failure, edema, aggravation of hypertension, hypotension, syncope and collapse, aggravation of coronary artery disease, arrhythmias and AV block, thrombophlebitis, thromboembolism, and adenopathy or lymphadenopathy.
 Some of these cardiovascular complications have resulted in fatalities.
@@ -29,6 +28,7 @@ Respiratory System: Pulmonary hypersensitivity characterized by fever, dyspnea, 
 
 Genitourinary System: Urinary frequency, acute urinary retention, oliguria with elevated blood pressure, azotemia, renal failure, and impotence.
 Albuminuria, glycosuria, elevated BUN, and microscopic deposits in the urine have also been reported.
+There have been rare reports of impaired male fertility and/or abnormal spermatogenesis.
 
 Testicular atrophy occurred in rats receiving carbamazepine orally from 4-52 weeks at dosage levels of 50-400 mg/kg/day.
 Additionally, rats receiving carbamazepine in the diet for 2 years at dosage levels of 25, 75, and 250 mg/kg/day had a dose-related incidence of testicular atrophy and aspermatogenesis.
@@ -48,8 +48,7 @@ Although a direct causal relationship has not been established, many phenothiazi
 
 Musculoskeletal System: Bone loss, aching joints and muscles, and leg cramps.
 
-Metabolism: Fever and chills.
-Decreased levels of plasma calcium leading to osteoporosis have been reported.
+Metabolism: Fever and chills, decreased levels of plasma calcium leading to osteoporosis, and hyperammonemia have been reported.
 
 Other: Isolated cases of a lupus erythematosus-like syndrome have been reported.
 There have been occasional reports of elevated levels of cholesterol, HDL cholesterol, and triglycerides in patients taking anticonvulsants.

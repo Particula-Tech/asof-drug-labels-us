@@ -4,14 +4,14 @@ Monitoring of blood levels has increased the efficacy and safety of anticonvulsa
 Dosage should be adjusted to the needs of the individual patients.
 A low initial daily dosage with gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level.
-Carbatrol® may be taken with or without food.
-Carbatrol® capsules may be swallowed whole or may be opened and all the beads sprinkled on a teaspoon of soft food such as applesauce.
+Carbatrol may be taken with or without food.
+Carbatrol capsules may be swallowed whole or may be opened and all the beads sprinkled on a teaspoon of soft food such as applesauce.
 Make sure all of the food and medicine mixture is swallowed.
-Do not crush or chew Carbatrol® capsules or the sprinkled beads.
+Do not crush or chew Carbatrol capsules or the sprinkled beads.
 
-Carbatrol® is an extended-release formulation for twice a day administration.
-When converting patients from immediate release carbamazepine to Carbatrol® extended-release capsules, the same total daily mg dose of carbamazepine should be administered.
-Following conversion to Carbatrol®, patients should be closely monitored for seizure control.
+Carbatrol is an extended-release formulation for twice a day administration.
+When converting patients from immediate release carbamazepine to Carbatrol extended-release capsules, the same total daily mg dose of carbamazepine should be administered.
+Following conversion to Carbatrol, patients should be closely monitored for seizure control.
 Depending on the therapeutic response after conversion, the total daily dose may need to be adjusted within the recommended dosing instructions.
 
 Epilepsy (see INDICATIONS AND USAGE)
@@ -23,12 +23,12 @@ Dosage generally should not exceed 1000 mg per day in children 12-15 years of ag
 Doses up to 1600 mg daily have been used in adults.
 Maintenance: Adjust dosage to the minimum effective level, usually 800-1200 mg daily.
 
-Children under 12 years of age: Children taking total daily dosages of immediate-release carbamazepine of 400 mg or greater may be converted to the same total daily dosage of Carbatrol® extended-release capsules, using a twice daily regimen.
+Children under 12 years of age: Children taking total daily dosages of immediate-release carbamazepine of 400 mg or greater may be converted to the same total daily dosage of Carbatrol extended-release capsules, using a twice daily regimen.
 Ordinarily, optimal clinical response is achieved at daily doses below 35 mg/kg.
 If satisfactory clinical response has not been achieved, plasma levels should be measured to determine whether or not they are in the therapeutic range.
-No recommendation regarding the safety of Carbatrol® for use at doses above 35 mg/kg/24 hours can be made.
+No recommendation regarding the safety of Carbatrol for use at doses above 35 mg/kg/24 hours can be made.
 
-Combination Therapy: Carbatrol® may be used alone or with other anticonvulsants.
+Combination Therapy: Carbatrol may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions).
 
 Trigeminal Neuralgia (see INDICATIONS AND USAGE)
