@@ -140,5 +140,3 @@ PAR PHARMACEUTICAL
 Chestnut Ridge, NY 10977
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration
-
-Revised: 11/2022

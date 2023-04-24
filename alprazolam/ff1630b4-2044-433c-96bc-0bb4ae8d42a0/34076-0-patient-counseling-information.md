@@ -55,5 +55,3 @@ Distributed by:
 PAR PHARMACEUTICAL
 
 Chestnut Ridge, NY 10977
-
-Revised: 11/2022
