@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "NDA021304",
+    "NDA022257"
+  ],
+  "inn": "valganciclovir",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-480-60",
+    "61269-485-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "valganciclovir",
+      "name": "Valcyte"
+    },
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "valganciclovir hydrochloride",
+      "name": "Valcyte"
+    }
+  ],
+  "setid": "4c517a39-2ded-4c5a-8d56-276853414b31",
+  "source": "dailymed"
+}
