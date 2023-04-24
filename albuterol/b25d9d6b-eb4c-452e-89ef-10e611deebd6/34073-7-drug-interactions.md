@@ -11,7 +11,7 @@ However, under certain circumstances, there may be no acceptable alternatives to
 
 ## 7.2 Non–Potassium-Sparing Diuretics
 
-The ECG changes and/or hypokalemia that may result from the administration of non‑potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
+The ECG changes and/or hypokalemia that may result from the administration of non—potassium-sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
 Although the clinical significance of these effects is not known, caution is advised in the coadministration of Albuterol Sulfate HFA with non–potassium-sparing diuretics.
 
 ## 7.3 Digoxin
