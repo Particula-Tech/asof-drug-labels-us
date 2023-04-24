@@ -6,17 +6,23 @@ Esmolol Hydrochloride Injection
 
 100 mg/10 mL (10 mg/mL)
 
-Rx only
-
-10 mL
+10 mL Rx only
 
 Ready-to-use Vial
 
-FOR INTRAVENOUS USE Iso-Osmotic Contains no preservatives discard unused portion.
+FOR INTRAVENOUS USE Iso-Osmotic Contains no preservatives- discard unused portion.
 
 For Product Inquiry 1 800 ANA DRUG (1-800-262-3784)
 
 Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+Barcode 07-32-00-0092 / 460-811-01
+
+Barcode (01)00310019120393
+
+LOT:
+
+EXP.:
 
 LOT:
 
