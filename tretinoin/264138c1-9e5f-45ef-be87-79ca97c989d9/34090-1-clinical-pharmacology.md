@@ -1,49 +1,60 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Mechanism of Action
+## 12.1 Mechanism of Action
 
-Tretinoin is not a cytolytic agent but instead induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo.
+Tretinoin induces cytodifferentiation and decreased proliferation of APL cells in culture and in vivo.
 In APL patients, tretinoin treatment produces an initial maturation of the primitive promyelocytes derived from the leukemic clone, followed by a repopulation of the bone marrow and peripheral blood by normal, polyclonal hematopoietic cells in patients achieving complete remission (CR).
 The exact mechanism of action of tretinoin in APL is unknown.
 
-## Pharmacokinetics
+## 12.2 Pharmacodynamics
 
-Tretinoin activity is primarily due to the parent drug.
-In human pharmacokinetics studies, orally administered drug was well absorbed into the systemic circulation, with approximately two-thirds of the administered radiolabel recovered in the urine.
-The terminal elimination half-life of tretinoin following initial dosing is 0.5 to 2 hours in patients with APL.
-There is evidence that tretinoin induces its own metabolism.
-Plasma tretinoin concentrations decrease on average to one-third of their day 1 values during 1 week of continuous therapy.
-Mean ± SD peak tretinoin concentrations decreased from 394 ± 89 to 138 ± 139 ng/mL, while area under the curve (AUC) values decreased from 537 ± 191 ng·h/mL to 249 ± 185 ng·h/mL during 45 mg/m2 daily dosing in 7 APL patients.
-Increasing the dose to “correct” for this change has not increased response.
+The exposure-response relationship and time course of pharmacodynamic response for the safety and effectiveness of tretinoin have not been characterized.
 
-### Absorption
+## 12.3 Pharmacokinetics
 
-A single 45 mg/m2 (~80 mg) oral dose to APL patients resulted in a mean ± SD peak tretinoin concentration of 347 ± 266 ng/mL.
+Following the administration of tretinoin 22.5 mg/m2 orally twice daily, the mean ± SD peak tretinoin concentrations after the first dose was 394 ± 89 and after 1 week of continuous treatment was 138 ± 139 ng/mL, while area under the curve (AUC) after the first dose was 537 ± 191 ng·h/mL and after 1 week of continuous treatment was 249 ± 185 ng·h/mL.
+
+Absorption
+
 Time to reach peak concentration was between 1 and 2 hours.
+The absolute bioavailability of tretinoin was approximately 50%.
 
-### Distribution
+Effect of Food
+
+The effect of food on the absorption of tretinoin has not been characterized.
+Food increases the absorption of retinoids, as a class.
+
+Distribution
 
 The apparent volume of distribution of tretinoin has not been determined.
-Tretinoin is greater than 95% bound in plasma, predominately to albumin.
+Protein binding is greater than 95%, predominately to albumin.
 Plasma protein binding remains constant over the concentration range of 10 to 500 ng/mL.
 
-### Metabolism
+Elimination
 
-Tretinoin metabolites have been identified in plasma and urine.
-Cytochrome P450 enzymes have been implicated in the oxidative metabolism of tretinoin.
-Metabolites include 13-cis retinoic acid, 4-oxo trans retinoic acid, 4-oxo cis retinoic acid, and 4-oxo trans retinoic acid glucuronide.
-In APL patients, daily administration of a 45 mg/m2 dose of tretinoin resulted in an approximately tenfold increase in the urinary excretion of 4-oxo trans retinoic acid glucuronide after 2 to 6 weeks of continuous dosing, when compared to baseline values.
+The terminal elimination half-life of tretinoin following initial dosing is 0.5 to 2 hours in patients with APL.
 
-### Excretion
+Metabolism
 
-Studies with radiolabeled drug have demonstrated that after the oral administration of 2.75 and 50 mg doses of tretinoin, greater than 90% of the radioactivity was recovered in the urine and feces.
-Based upon data from 3 subjects, approximately 63% of radioactivity was recovered in the urine within 72 hours and 31% appeared in the feces within 6 days.
+Tretinoin induced its own metabolism with plasma concentrations after 1 week of continuous therapy decreased to one-third of their day 1 values.
+Tretinoin is metabolized by cytochrome P450 enzymes, CYP3A4, 2C8, and 2E and undergoes glucuronidation by UGT2B7.
+Metabolites include 9-cis retinoic acid, 13-cis retinoic acid, 4-oxo trans retinoic acid, 4-oxo cis retinoic acid, and 4-oxo trans retinoic acid glucuronide.
+The metabolites 4-oxo retinoic acid and 4-oxo trans retinoic acid glucuronide have one-third of the pharmacological activity of the parent compound.
 
-### Special Populations
+Excretion
 
-The pharmacokinetics of tretinoin have not been separately evaluated in women, in members of different ethnic groups, or in individuals with renal or hepatic insufficiency.
+Following administration of radiolabeled tretinoin 2.75 mg and 50 mg (0.53 to 9.6 times the approved recommended dosage based on 1.7 m2), approximately 63% of radioactivity was recovered in the urine within 72 hours and 31% appeared in the feces within 6 days.
 
-### Drug-Drug Interactions
+Specific Populations
 
-In 13 patients who had received daily doses of tretinoin for 4 consecutive weeks, administration of ketoconazole (400 to 1200 mg oral dose) 1 hour prior to the administration of the tretinoin dose on day 29 led to a 72% increase (218 ± 224 vs 375 ± 285 ng·h/mL) in tretinoin mean plasma AUC.
-The precise cytochrome P450 enzymes involved in these interactions have not been specified; CYP 3A4, 2C8 and 2E have been implicated in various preliminary reports.
+The effect of age, sex, race, renal impairment, and hepatic impairment on the pharmacokinetics of tretinoin is unknown.
+
+Drug Interaction Studies
+
+Clinical Studies
+
+Coadministration of ketoconazole (strong CYP3A inhibitor) increased tretinoin AUC by 72%.
+
+In Vitro Studies
+
+Effect of Tretinoin on Transporters: Tretinoin does not inhibit P-gp and BCRP in vitro.

@@ -1,131 +1,73 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Pregnancy Category D – See Boxed WARNINGS
+Click here to enter Warnings and Precautions
 
-Tretinoin has teratogenic and embryotoxic effects in mice, rats, hamsters, rabbits and pigtail monkeys, and may be expected to cause fetal harm when administered to a pregnant woman.
-Tretinoin causes fetal resorptions and a decrease in live fetuses in all animals studied.
-Gross external, soft tissue and skeletal alterations occurred at doses higher than 0.7 mg/kg/day in mice, 2 mg/kg/day in rats, 7 mg/kg/day in hamsters, and at a dose of 10 mg/kg/day, the only dose tested, in pigtail monkeys (about 1/20, 1/4, and 1/2 and 4 times the human dose, respectively, on a mg/m2 basis).
+## 5.1 Embryo-Fetal Toxicity
 
-There are no adequate and well-controlled studies in pregnant women.
-Although experience with humans administered tretinoin is extremely limited, increased spontaneous abortions and major human fetal abnormalities related to the use of other retinoids have been documented in humans.
-Reported defects include abnormalities of the CNS, musculoskeletal system, external ear, eye, thymus and great vessels; and facial dysmorphia, cleft palate, and parathyroid hormone deficiency.
-Some of these abnormalities were fatal.
-Cases of IQ scores less than 85, with or without obvious CNS abnormalities, have also been reported.
-All fetuses exposed during pregnancy can be affected and at the present time there is no antepartum means of determining which fetuses are and are not affected.
+Tretinoin can cause embryo-fetal loss and malformations when administered to a pregnant woman.
+Tretinoin is a retinoid and there is an increased risk of major congenital malformations, spontaneous abortions and premature births following exposure to retinoids during pregnancy in humans.
+Tretinoin has teratogenic and embryotoxic effects in mice, rats, hamsters, rabbits and pigtail monkeys at doses less than the human dose on a mg/m2 basis.
 
-Effective contraception must be used by all females during tretinoin therapy and for 1 month following discontinuation of therapy.
-Contraception must be used even when there is a history of infertility or menopause, unless a hysterectomy has been performed.
-Whenever contraception is required, it is recommended that two reliable forms of contraception be used simultaneously, unless abstinence is the chosen method.
-If pregnancy does occur during treatment, the physician and patient should discuss the desirability of continuing or terminating the pregnancy.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use 2 effective methods of contraception during treatment with tretinoin and for 1 month following the last dose.
+Advise males with female partners of reproductive potential to use effective contraception during treatment with tretinoin and for 1 week following the last dose [see Use in Specific Populations (8.1, 8.3)].
 
-## Patients Without the t(15;17) Translocation
+## 5.2 Differentiation Syndrome
 
-Initiation of therapy with tretinoin may be based on the morphological diagnosis of acute promyelocytic leukemia.
-Confirmation of the diagnosis of APL should be sought by detection of the t(15;17) genetic marker by cytogenetic studies.
-If these are negative, PML/RARα fusion should be sought using molecular diagnostic techniques.
-The response rate of other AML subtypes to tretinoin has not been demonstrated; therefore, patients who lack the genetic marker should be considered for alternative treatment.
+Differentiation Syndrome, which may be life-threatening or fatal, occurred in about 26% of patients with APL who received tretinoin [see Adverse Reactions (6.1)].
+Symptoms include fever, dyspnea, acute respiratory distress, weight gain, radiographic pulmonary infiltrates, pleural and pericardial effusions, edema, and hepatic, renal, and multi-organ failure.
+This syndrome has been accompanied by impaired myocardial contractility and episodic hypotension and it has been observed with or without concomitant leukocytosis.
+This syndrome generally occurs during the first month of treatment, as early as following the first dose.
+Endotracheal intubation and mechanical ventilation were required in some cases due to progressive hypoxemia and several patients have died with multi-organ failure.
 
-## Retinoic Acid-APL (RA-APL) Syndrome
+At the first signs or symptoms of this syndrome, immediately administer dexamethasone 10 mg intravenously every 12 hours until signs and symptoms have abated for at least 3 days and initiate hemodynamic monitoring until resolution of signs and symptoms.
+Consider withholding tretinoin for moderate and severe differentiation syndrome until resolution [see Adverse Reactions (6.1)].
 
-In up to 25% of patients with APL treated with tretinoin, a syndrome occurs which can be fatal (see boxed WARNINGS and ADVERSE REACTIONS).
+## 5.3 Patients Without t(15;17) Translocation or PML/RARα Fusion
 
-Leukocytosis at Presentation and Rapidly Evolving Leukocytosis During Tretinoin Treatment
+Tretinoin may be initiated based on the morphological diagnosis of acute promyelocytic leukemia (APL).
+Confirm the diagnosis of APL by detection of the t(15;17) translocation using cytogenetic studies or PML/RARα fusion using molecular diagnostic techniques.
+Tretinoin is not recommended for use in patients without these genetic markers [see Indications and Usage (1)].
 
-See boxed WARNINGS.
+## 5.4 Leukocytosis
 
-## Pseudotumor Cerebri
+Rapidly evolving leukocytosis, which can be life-threatening, occurred in about 40% of patients with APL who received tretinoin [see Adverse Reactions (6.1)].
+Patients who present with a baseline white blood cell count (WBC) > 5 × 109/L have an increased risk.
+Patients who receive chemotherapy with tretinoin may be at a reduced risk.
+Rapidly evolving leukocytosis is associated with a higher risk of life-threatening complications.
 
-Retinoids, including tretinoin, have been associated with pseudotumor cerebri (benign intracranial hypertension), especially in pediatric patients.
-The concomitant use of other agents known to cause pseudotumor cerebri/intracranial hypertension, such as tetracyclines, might increase the risk of this condition (see PRECAUTIONS: Drug Interactions).
-[2] Early signs and symptoms of pseudotumor cerebri include papilledema, headache, nausea and vomiting, and visual disturbances.
-Patients with these symptoms should be evaluated for pseudotumor cerebri, and, if present, appropriate care should be instituted in concert with neurological assessment.
+Consider administering cytoreductive chemotherapy (including an anthracycline if not contraindicated or hydroxyurea) with tretinoin in the setting of leukocytosis, as clinically indicated.
 
-## Lipids
+## 5.5 Intracranial Hypertension
 
-Up to 60% of patients experienced hypercholesterolemia and/or hypertriglyceridemia, which were reversible upon completion of treatment.
-The clinical consequences of temporary elevation of triglycerides and cholesterol are unknown, but venous thrombosis and myocardial infarction have been reported in patients who ordinarily are at low risk for such complications.
+Retinoids, including tretinoin, have been associated with intracranial hypertension, especially in pediatric patients.
+Early signs and symptoms include papilledema, headache, nausea, vomiting, and visual disturbances.
+Evaluate patients with these symptoms for intracranial hypertension, and, if present, institute appropriate care in concert with neurological assessment.
+Consider interruption, dose reduction, or discontinuation of tretinoin as appropriate.
 
-## Elevated Liver Function Test Results
+The concomitant use of other products (e.g., tetracyclines) that can cause intracranial hypertension may increase the risk.
+Avoid concomitant use of tretinoin with other products that can cause intracranial hypertension [see Drug Interactions (7.2)].
 
-Elevated liver function test results occur in 50% to 60% of patients during treatment.
-Liver function test results should be carefully monitored during treatment and consideration be given to a temporary withdrawal of tretinoin if test results reach >5 times the upper limit of normal values.
-However, the majority of these abnormalities resolve without interruption of tretinoin or after completion of treatment.
+## 5.6 Lipid Abnormalities
 
-# PRECAUTIONS
+Hypercholesterolemia and/or hypertriglyceridemia has occurred in up to 60% of patients who received tretinoin.
+These changes may be reversible upon completion of treatment.
+The clinical consequences of increased triglycerides and cholesterol are unknown, but venous thrombosis and myocardial infarction have been reported in patients who ordinarily are at low risk for such complications.
 
-## General
+Monitor fasting triglycerides and cholesterol at baseline and periodically during treatment.
 
-Tretinoin has potentially significant toxic side effects in APL patients.
-Patients undergoing therapy should be closely observed for signs of respiratory compromise and/or leukocytosis (see boxed WARNINGS).
-Supportive care appropriate for APL patients, eg, prophylaxis for bleeding, prompt therapy for infection, should be maintained during therapy with tretinoin.
+## 5.7 Hepatotoxicity
 
-There is a risk of thrombosis (both venous and arterial) which may involve any organ system, during the first month of treatment (see ADVERSE REACTIONS).
-Therefore, caution should be exercised when treating patients with the combination of tretinoin and anti-fibrinolytic agents, such as tranexamic acid, aminocaproic acid or aprotinin (see Drug Interactions).
-[3,4]
+Elevated liver function test results occurred in 50% to 60% of patients during treatment with tretinoin.
+Most of these abnormalities resolved without interruption of tretinoin or after completion of treatment.
 
-The ability to drive or operate machinery might be impaired in patients treated with tretinoin, particularly if they are experiencing dizziness or severe headache.
+Monitor liver function test at baseline and during treatment as clinically indicated.
+Consider withholding tretinoin if liver function test results increase to greater than 5 times the upper limit of normal values until resolution.
 
-Microdosed progesterone preparations (“minipill”) may be an inadequate method of contraception during treatment with tretinoin.
-[5]
+## 5.8 Thromboembolic Events
 
-## Laboratory Tests
+Venous and arterial thromboembolic events, including cerebrovascular accident, myocardial infarction and renal infarct have been reported with tretinoin [see Adverse Reactions (6.2)].
+These events may occur during the first month of treatment.
+Patients taking anti-fibrinolytic agents may have an increased risk.
 
-The patient’s hematologic profile, coagulation profile, liver function test results, and triglyceride and cholesterol levels should be monitored frequently.
-
-## Drug Interactions
-
-Limited clinical data on potential drug interactions are available.
-
-### Drugs Metabolized By the Hepatic P450 System
-
-As tretinoin is metabolized by the hepatic P450 system, there is a potential for alteration of pharmacokinetics parameters in patients administered concomitant medications that are also inducers or inhibitors of this system.
-Medications that generally induce hepatic P450 enzymes include rifampicin, glucocorticoids, phenobarbital and pentobarbital.
-Medications that generally inhibit hepatic P450 enzymes include ketoconazole, cimetidine, erythromycin, verapamil, diltiazem and cyclosporine.
-To date there are no data to suggest that co-use with these medications increases or decreases either efficacy or toxicity of tretinoin.
-
-### Agents Known to Cause Pseudotumor Cerebri/Intracranial Hypertension (Such as Tetracyclines)
-
-Tretinoin may cause pseudotumor cerebri/intracranial hypertension.
-Concomitant administration of tretinoin and agents known to cause pseudotumor cerebri/intracranial hypertension as well might increase the risk of this condition (see WARNINGS).
-
-### Vitamin A
-
-As with other retinoids, tretinoin must not be administered in combination with vitamin A because symptoms of hypervitaminosis A could be aggravated.
-
-### Anti-fibrinolytic Agents (Such as Tranexamic Acid, Aminocaproic Acid, or Aprotinin)
-
-Cases of fatal thrombotic complications have been reported rarely in patients concomitantly treated with tretinoin and anti-fibrinolytic agents.
-Therefore, caution should be exercised when administering tretinoin concomitantly with these agents (see PRECAUTIONS: General).
-
-## Effect of Food
-
-No data on the effect of food on the absorption of tretinoin are available.
-The absorption of retinoids as a class has been shown to be enhanced when taken together with food.
-
-## Carcinogenesis, Mutagenesis and Impairment of Fertility
-
-No long-term carcinogenicity studies with tretinoin have been conducted.
-In short-term carcinogenicity studies, tretinoin at a dose of 30 mg/kg/day (about 2 times the human dose on a mg/m2 basis) was shown to increase the rate of diethylnitrosamine (DEN)-induced mouse liver adenomas and carcinomas.
-Tretinoin was negative when tested in the Ames and Chinese hamster V79 cell HGPRT assays for mutagenicity.
-A twofold increase in the sister chromatid exchange (SCE) has been demonstrated in human diploid fibroblasts, but other chromosome aberration assays, including an in vitro assay in human peripheral lymphocytes and an in vivo mouse micronucleus assay, did not show a clastogenic or aneuploidogenic effect.
-Adverse effects on fertility and reproductive performance were not observed in studies conducted in rats at doses up to 5 mg/kg/day (about 2/3 the human dose on a mg/m2 basis).
-In a 6-week toxicology study in dogs, minimal to marked testicular degeneration, with increased numbers of immature spermatozoa, were observed at 10 mg/kg/day (about 4 times the equivalent human dose in mg/m 2).
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, and because of the potential for serious adverse reactions from tretinoin in nursing infants, mothers should discontinue nursing prior to taking this drug.
-
-## Pediatric Use
-
-There are limited clinical data on the pediatric use of tretinoin.
-Of 15 pediatric patients (age range: 1 to 16 years) treated with tretinoin, the incidence of complete remission was 67%.
-Safety and effectiveness in pediatric patients below the age of 1 year have not been established.
-Some pediatric patients experience severe headache and pseudotumor cerebri, requiring analgesic treatment and lumbar puncture for relief.
-Increased caution is recommended in the treatment of pediatric patients.
-Dose reduction may be considered for pediatric patients experiencing serious and/or intolerable toxicity; however, the efficacy and safety of tretinoin at doses lower than 45 mg/m2/day have not been evaluated in the pediatric population.
-
-## Geriatric Use
-
-Of the total number of subjects in clinical studies of tretinoin, 21.4% were 60 and over.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+Avoid concomitant use of tretinoin and anti-fibrinolytic agents, such as tranexamic acid, aminocaproic acid or aprotinin [see Drug Interactions (7.4)].
