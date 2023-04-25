@@ -18,7 +18,7 @@ The intravenous infusion rate required to produce an average plasma concentratio
 
 Dosage for Initiation of Therapy in a Patient Not Receiving Oral Nicardipine CARDENE I.V.
 20 mg in 200 mL (0.1 mg/mL): Initiate therapy at 50 mL/hr (5 mg/hr).
-If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/ hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
+If desired blood pressure reduction is not achieved at this dose, the infusion rate may be increased by 25 mL/hr (2.5 mg/hr) every 5 minutes (for rapid titration) to 15 minutes (for gradual titration) up to a maximum of 150 mL/hr (15 mg/hr), until desired blood pressure reduction is achieved.
 
 Following achievement of the blood pressure goal utilizing rapid titration, decrease the infusion rate to 30 mL/hr (3 mg/hr).
 
