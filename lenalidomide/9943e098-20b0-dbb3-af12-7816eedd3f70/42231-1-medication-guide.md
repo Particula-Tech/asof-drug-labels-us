@@ -257,7 +257,7 @@ Inactive ingredients: anhydrous lactose, croscarmellose sodium, magnesium steara
 
 The 5 mg and 25 mg capsule shell contains gelatin, titanium dioxide and black ink.
 
-The 10 mg capsule shell contains FD&C blue #2, gelatin, iron oxide yellow, titanium dioxide and black ink.
+The 2.5 mg, 10 mg and 20 mg capsule shell contains FD&C blue #2, gelatin, iron oxide yellow, titanium dioxide and black ink.
 
 The 15 mg capsule shell contains FD&C blue #2, gelatin, titanium dioxide and black ink.
 
@@ -271,7 +271,7 @@ APOTEX INC.
 
 LENALIDOMIDE CAPSULES
 
-5 mg, 10 mg, 15 mg and 25 mg
+2.5 mg, 5 mg, 10 mg, 15 mg 20 mg and 25 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
@@ -279,6 +279,6 @@ LENALIDOMIDE CAPSULES
 | Toronto, Ontario | Weston, Florida, |
 | Canada M9L1T9 | USA 33326 |
 
-Revised: August 2022
+Revised: December 2022
 
-Revision: 14
+Revision: 16

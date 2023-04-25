@@ -2,6 +2,13 @@
 
 ## 16.1 How Supplied
 
+2.5 mg: Hard gelatin capsule with white opaque body and blue green opaque cap.
+Imprinted “APO L2.5” in black ink.
+
+2.5 mg bottles of 28 (NDC 60505-4532-2)
+
+2.5 mg bottles of 100 (NDC 60505-4532-1)
+
 5 mg: Hard gelatin capsule with white opaque body and white opaque cap.
 Imprinted “APO L5” in black ink.
 
@@ -22,6 +29,13 @@ Imprinted “APO L15” in black ink.
 15 mg bottles of 21 (NDC 60505-4535-2)
 
 15 mg bottles of 100 (NDC 60505-4535-1)
+
+20 mg: Hard gelatin capsule with powder blue opaque body and blue green opaque cap.
+Imprinted “APO L20” in black ink.
+
+20 mg bottles of 21 (NDC 60505-4536-2)
+
+20 mg bottles of 100 (NDC 60505-4536-1)
 
 25 mg: Hard gelatin capsule with white opaque body and white opaque cap.
 Imprinted “APO L25” in black ink.

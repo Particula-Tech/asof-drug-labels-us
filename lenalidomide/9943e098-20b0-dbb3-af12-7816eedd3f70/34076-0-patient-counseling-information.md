@@ -92,7 +92,7 @@ APOTEX INC
 
 LENALIDOMIDE CAPSULES
 
-5 mg, 10 mg, 15 mg, and 25 mg
+2.5 mg, 5 mg, 10 mg, 15 mg, 20 mg and 25 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
@@ -100,6 +100,4 @@ LENALIDOMIDE CAPSULES
 | Toronto, Ontario | Weston, Florida, |
 | Canada M9L1T9 | USA 33326 |
 
-Revised: August 2022
-
-Revision: 14
+Revision: 16
