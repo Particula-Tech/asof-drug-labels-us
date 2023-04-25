@@ -17,3 +17,5 @@ Each capsule contains 5 mg chlordiazepoxide hydrochloride and 2.5 mg clindinium 
 MEDICATION GUIDE TO BE DISPENSED WITH EACH PRESCRIPTION
 
 BAUSCH Health
+
+9581702 20003145
