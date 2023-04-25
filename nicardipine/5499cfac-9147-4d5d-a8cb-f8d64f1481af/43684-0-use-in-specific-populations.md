@@ -22,7 +22,7 @@ Embryotoxicity, but no teratogenicity was seen at 0.27 times the MRHD based on b
 
 In other animal studies, pregnant Japanese White rabbits received oral nicardipine during organogenesis, at doses 8 and 24 times the MRHD based on body surface area (mg/m2) (50 and 150 mg/kg/day).
 Embryotoxicity occurred at the high dose along with signs of maternal toxicity (marked maternal weight gain suppression).
-New Zealand albino rabbits received oral nicardipine during organogenesis,at doses up to 16 times the MRHD based on body surface area (mg/m2)(100 mg nicardipine/kg/day).
+New Zealand albino rabbits received oral nicardipine during organogenesis, at doses up to 16 times the MRHD based on body surface area (mg/m2)(100 mg nicardipine/kg/day).
 While significant maternal mortality occurred, no adverse effects on the fetus were observed.
 Pregnant rats received oral nicardipine from day 6 through day 15 of gestation at doses up to 8 times the MRHD based on body surface area (mg/m2) (100 mg/kg/day).
 There was no evidence of embryotoxicity or teratogenicity; however, dystocia, reduced birth weights, reduced neonatal survival, and reduced neonatal weight gain were noted.
