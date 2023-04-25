@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215056"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-422-01",
+    "59651-422-05"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "Cevimeline Hydrochloride"
+    }
+  ],
+  "setid": "d08d8aa5-76a4-417a-a308-7d195865522f",
+  "source": "dailymed"
+}
