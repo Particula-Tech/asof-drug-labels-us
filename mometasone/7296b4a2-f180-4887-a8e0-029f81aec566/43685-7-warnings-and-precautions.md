@@ -17,7 +17,7 @@ If HPA axis suppression is documented, an attempt should be made to gradually wi
 Recovery of HPA axis function is generally prompt upon discontinuation of topical corticosteroids.
 Infrequently, signs and symptoms of glucocorticosteroid insufficiency may occur, requiring supplemental systemic corticosteroids.
 
-Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [see Use in Specific Populations (8.4)].
+Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios [seeUse in Specific Populations (8.4)].
 
 ## 5.2 Ophthalmic Adverse Reactions
 
@@ -29,11 +29,11 @@ Advise patients to report any visual symptoms and consider referral to an ophtha
 
 ## 5.3 Allergic Contact Dermatitis
 
-If irritation develops, Mometasone Furoate Topical Solution USP, 0.1% should be discontinued and appropriate therapy instituted.
+If irritation develops, Mometasone Furoate Topical Solution, 0.1% should be discontinued and appropriate therapy instituted.
 Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 
 ## 5.4 Concomitant Skin Infections
 
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
-If a favorable response does not occur promptly, use of Mometasone Furoate Topical Solution USP, 0.1% should be discontinued until the infection has been adequately controlled.
+If a favorable response does not occur promptly, use of Mometasone Furoate Topical Solution 0.1% should be discontinued until the infection has been adequately controlled.

@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Inform patients of the following:
 
-- •Use Mometasone Furoate Topical Solution, 0.1% as directed by the physician.
+- •Use Mometasone Furoate Topical Solution 0.1% as directed by the physician.
   It is for external use only.
 - •Avoid contact with the eyes.
 - •Advise patients to report any visual symptoms to their healthcare providers.

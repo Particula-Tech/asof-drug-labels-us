@@ -46,7 +46,7 @@ Since safety and efficacy of Mometasone Furoate Topical Solution 0.1% have not b
 Mometasone furoate lotion caused HPA axis suppression in approximately 29% of pediatric subjects ages 6 to 23 months, who showed normal adrenal function by Cortrosyn test before starting treatment, and were treated for approximately 3 weeks over a mean body surface area of 40% (range 16%-90%).
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
 Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the subjects, demonstrated suppressed HPA axis function in 1 subject, using these same criteria.
-Long-term use of topical corticosteroids has not been studied in this population [see Clinical Pharmacology (12.2)].
+Long-term use of topical corticosteroids has not been studied in this population [seeClinical Pharmacology (12.2)].
 
 Because of a higher ratio of skin surface area to body mass, pediatric patients are at a greater risk than adults of HPA axis suppression and Cushing’s syndrome when they are treated with topical corticosteroids.
 They are, therefore, also at greater risk of adrenal insufficiency during and/or after withdrawal of treatment.

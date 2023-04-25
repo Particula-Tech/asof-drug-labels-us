@@ -13,13 +13,13 @@ Arachidonic acid is released from membrane phospholipids by phospholipase A2.
 Studies performed with mometasone furoate lotion indicate that it is in the medium range of potency as compared with other topical corticosteroids.
 
 In a study evaluating the effects of mometasone furoate lotion on the HPA axis, 15 mL were applied without occlusion twice daily (30 mL per day) for 7 days to 4 adult subjects with scalp and body psoriasis.
-At the end of treatment, the plasma cortisol levels for each of the 4 subjects remained within the normal range and changed little from baseline [see Warnings and Precautions (5.1)].
+At the end of treatment, the plasma cortisol levels for each of the 4 subjects remained within the normal range and changed little from baseline [seeWarnings and Precautions (5.1)].
 
 Sixty-five pediatric subjects ages 6 to 23 months, with atopic dermatitis, were enrolled in an open-label, HPA axis safety trial.
 Mometasone furoate lotion was applied once daily for approximately 3 weeks over a mean body surface area of 40% (range 16%-90%).
 In approximately 29% of subjects who showed normal adrenal function by Cortrosyn test before starting treatment, adrenal suppression was observed at the end of treatment with mometasone furoate lotion.
 The criteria for suppression were: basal cortisol level of ≤5 mcg/dL, 30-minute post-stimulation level of ≤18 mcg/dL, or an increase of <7 mcg/dL.
-Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the subjects, demonstrated suppressed HPA axis function in 1 subject, using these same criteria [see Use in Specific Populations (8.4)].
+Follow-up testing 2 to 4 weeks after stopping treatment, available for 8 of the subjects, demonstrated suppressed HPA axis function in 1 subject, using these same criteria [seeUse in Specific Populations (8.4)].
 
 ## 12.3 Pharmacokinetics
 

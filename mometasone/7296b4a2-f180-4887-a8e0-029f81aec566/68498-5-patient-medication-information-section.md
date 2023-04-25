@@ -22,7 +22,7 @@ Before using Mometasone Furoate Topical Solution, 0.1%, tell your healthcare pro
 - •are pregnant or plan to become pregnant.
   It is not known if Mometasone Furoate Topical Solution, 0.1% will harm your unborn baby.
 - •are breastfeeding or plan to breastfeed.
-  It is not known if Mometasone Furoate Topical Solution, 0.1% passes into your breast milk.
+  It is not known if mometasone furoate passes into your breast milk.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -81,18 +81,18 @@ Active ingredient: mometasone furoate
 Inactive ingredients: isopropyl alcohol (40%), hexylene glycol, hydroxypropyl cellulose, sodium phosphate monobasic anhydrous, purified water, glycerin and oleic acid.
 May also contain phosphoric acid used to adjust the pH to approximately 4.5.
 
-Made in Israel
-
-Manufactured by Perrigo
+Manufactured By Padagis
 
 Yeruham, Israel
 
 Distributed By
 
-Perrigo®
+Padagis®
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.padagis.com
 
-Rev 02-19
+Rev 09-22
+
+5D800 RC J7
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

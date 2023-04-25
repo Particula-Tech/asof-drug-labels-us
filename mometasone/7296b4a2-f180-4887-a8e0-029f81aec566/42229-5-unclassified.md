@@ -1,15 +1,13 @@
-Made in Israel
-
-Manufactured By Perrigo
+Manufactured By Padagis
 
 Yeruham, Israel
 
 Distributed By
 
-Perrigo®
+Padagis®
 
-Allegan, MI 49010 • www.perrigo.com
+Allegan, MI 49010 • www.padagis.com
 
-Rev 02-19
+Rev 09-22
 
-5D800 RC J6
+5D800 RC J7
