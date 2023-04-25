@@ -1,6 +1,6 @@
 # Patient Package Insert
 
-TEAR HERE (Patient Inforamtion)
+TEAR HERE (Patient Information)
 
 PATIENT INFORMATION DUOBRII® (DEW-oh-bree) (halobetasol propionate and tazarotene) lotion, for topical use
 
