@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA090080"
+  ],
+  "inn": "moxifloxacin",
+  "labeler": "Golden State Medical Supply, Inc.",
+  "package_ndcs": [
+    "51407-321-03"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "moxifloxacin",
+      "name": "Moxifloxacin"
+    }
+  ],
+  "setid": "f9dff08a-edb2-86de-e053-6394a90a1043",
+  "source": "dailymed"
+}
