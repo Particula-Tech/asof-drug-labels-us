@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA020297"
+  ],
+  "inn": "carvedilol",
+  "labeler": "Woodward Pharma Services LLC",
+  "package_ndcs": [
+    "69784-139-20",
+    "69784-140-20",
+    "69784-141-20",
+    "69784-142-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "carvedilol",
+      "name": "Coreg"
+    }
+  ],
+  "setid": "0e36a0e5-3ed2-47d4-890e-38000791b678",
+  "source": "dailymed"
+}
