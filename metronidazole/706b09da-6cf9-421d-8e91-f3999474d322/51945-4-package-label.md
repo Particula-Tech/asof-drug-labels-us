@@ -10,3 +10,5 @@ Net Wt.
 ONCE-A-DAY FOR TOPICAL USE ONLY
 
 Ortho Dermatologics
+
+9582003 50070441H
