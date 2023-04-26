@@ -1,12 +1,12 @@
 # WARNINGS
 
-In the presence of a high environmental temperature, heat prostration (fever and heat stroke due to decreased sweating) can occur with the use of Glycopyrrolate Tablets, USP.
+In the presence of a high environmental temperature, heal prostration (fever and heat stroke due to decreased sweating) can occur with the use of Glycopyrrolate Tablets, USP.
 
 Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy.
 In this instance treatment with this drug would be inappropriate and possibly harmful.
 
 Glycopyrrolate Tablets, USP may produce drowsiness or blurred vision.
-In this event, the patient should be warned not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery or performing hazardous work while taking this drug.
+In this event, the patient should be warned not to engage in activities requiring mental alertness such as operating a motor vehicle or other machinery, or performing hazardous work while taking this drug.
 
 Theoretically, with overdosage, a curare-like action may occur, i.e., neuro-muscular blockade leading to muscular weakness and possible paralysis.
 
@@ -14,15 +14,11 @@ Theoretically, with overdosage, a curare-like action may occur, i.e., neuro-musc
 
 Use Glycopyrrolate Tablets, USP with caution in the elderly and in all patients with:
 
-• Autonomic neuropathy.
-
-• Hepatic or renal disease.
-
-• Ulcerative colitis - large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate the "toxic megacolon," a serious complication of the disease.
-
-• Hyperthyroidism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, hypertension and prostatic hypertrophy.
-
-• Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition.
+- Autonomic neuropathy.
+- Hepatic or renal disease.
+- Ulcerative colitis - large doses may suppress intestinal motility to the point of producing a paralytic ileus and for this reason may precipitate or aggravate the "toxic megacolon," a serious complication of the disease.
+- Hyperthyroidism, coronary heart disease, congestive heart failure, cardiac tachyarrhythmias, tachycardia, hypertension and prostatic hypertrophy.
+- Hiatal hernia associated with reflux esophagitis, since anticholinergic drugs may aggravate this condition.
 
 ## Interactions
 

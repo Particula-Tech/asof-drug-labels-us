@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Glycopyrrolate, like other anticholinergic (antimuscarinic) agents, inhibits the action of acetylcholine on structures innervated by postganglionic cholinergic nerves and on smooth muscles that respond to acetylcholine but lack cholinergic innervation.
+Glycopyrrolate, like other anticholinergic (antimuscarinic) agents, inhibits the action of acetylcholine on structures innervated by postganglionic cholinergic nerves and on smooth muscles that respond to acetylcholine by lack cholinergic innervation.
 These peripheral cholinergic receptors are present in the autonomic effector cells of smooth muscle, cardiac muscle, the sino-atrial node, the atrioventricular node, exocrine glands, and, to a limited degree, in the autonomic ganglia.
 Thus, it diminishes the volume and free acidity of gastric secretions and controls excessive pharyngeal, tracheal, and bronchial secretions.
 

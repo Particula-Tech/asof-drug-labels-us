@@ -1,14 +1,17 @@
 # HOW SUPPLIED
 
-Glycopyrrolate Tablets, USP 1.5 mg are compressed white tablets debossed with “GP” on one side and “1.5” on the other side.
-Glycopyrrolate Tablets, USP 1.5mg are supplied in bottles of 100 (NDC 79739-7097-1).
+Glycopyrrolate Tablets, USP 1.5 mg are compressed white tablets debossed GP on one side and 1.5 on the other and are supplied in bottles of 100 (NDC 79739-7097-1).
 
-Store at 20°C – 25°C (68°F – 77°F); excursions permitted to 15°C – 30°C (59°F – 86°F); [See USP Controlled Room Temperature].
-Dispense in tight container.
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
-Keep out of reach of children.
+Dispense in a tight, light-resistant container, as defined in USP, using a child-resistant closure.
 
-Manufactured by: Nexgen Pharma, Inc., Irvine, CA 92606, USA
+KEEP OUT OF THE REACH OF CHILDREN.
 
-Rev.
-08/2020
+Rx only
+
+Manufactured by: LGM Pharma Solutions, LLC Irvine, CA 92614
+
+7097-PD
+
+Rev 01/2023
