@@ -5,68 +5,40 @@
 Pregnancy Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as clobazam, during pregnancy.
-Physicians are advised to recommend that pregnant patients taking clobazam enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll-free number 1-888-233-2334, and must be done by patients themselves.
-Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+Healthcare providers are encouraged to recommend that pregnant women taking
+
+clobazam enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or online at http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
-There are no adequate and well-controlled studies of clobazam in pregnant women.
-Available data suggest that the class of benzodiazepines is not associated with marked increases in risk for congenital anomalies.
-Although some early epidemiological studies suggested a relationship between benzodiazepine drug use in pregnancy and congenital anomalies such as cleft lip and/or palate, these studies had considerable limitations.
-More recently completed studies of benzodiazepine use in pregnancy have not consistently documented elevated risks for specific congenital anomalies.
-There is insufficient evidence to assess the effect of benzodiazepine pregnancy exposure on neurodevelopment.
-
-There are clinical considerations regarding exposure to benzodiazepines during the second and third trimester of pregnancy or immediately prior to or during childbirth.
-These risks include decreased fetal movement and/or fetal heart rate variability, “floppy infant syndrome,” dependence, and withdrawal [see Clinical Considerations and Human Data].
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal [see Warnings and Precautions (5.8) and Clinical Considerations].
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 Administration of clobazam to pregnant rats and rabbits during the period of organogenesis or to rats throughout pregnancy and lactation resulted in developmental toxicity, including increased incidences of fetal malformations and mortality, at plasma exposures for clobazam and its major active metabolite, N-desmethylclobazam, below those expected at therapeutic doses in patients [see Animal Data].
 Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses.
 Clobazam should be used during pregnancy only if the potential benefit to the mother justifies the potential risk to the fetus.
 Advise a pregnant woman and women of childbearing age of the potential risk to a fetus.
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
-Infants born to mothers who have taken benzodiazepines during the later stages of pregnancy can develop dependence, and subsequently withdrawal, during the postnatal period.
-Clinical manifestations of withdrawal or neonatal abstinence syndrome may include hypertonia, hyperreflexia, hypoventilation, irritability, tremors, diarrhea, and vomiting.
-These complications can appear shortly after delivery to 3 weeks after birth and persist from hours to several months depending on the degree of dependence and the pharmacokinetic profile of the benzodiazepine.
-Symptoms may be mild and transient or severe.
-Standard management for neonatal withdrawal syndrome has not yet been defined.
-Observe newborns who are exposed to clobazam in utero during the later stages of pregnancy for symptoms of withdrawal and manage accordingly.
-
-Labor and Delivery
-
-Administration of benzodiazepines immediately prior to or during childbirth can result in a floppy infant syndrome, which is characterized by lethargy, hypothermia, hypotonia, respiratory depression, and difficulty feeding.
-Floppy infant syndrome occurs mainly within the first hours after birth and may last up to 14 days.
-Observe exposed newborns for these symptoms and manage accordingly.
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia, and sedation in neonates.
+Monitor neonates exposed to clobazam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to clobazam during pregnancy for signs of withdrawal.
+Manage these neonates accordingly [see Warnings and Precautions (5.8)].
 
 Data
 
 Human Data
 
-Congenital Anomalies
-
-Although there are no adequate and well controlled studies of clobazam in pregnant women, there is information about benzodiazepines as a class.
-Dolovich et al. published a meta-analysis of 23 studies that examined the effects of benzodiazepine exposure during the first trimester of pregnancy.
-Eleven of the 23 studies included in the meta-analysis considered the use of chlordiazepoxide and diazepam and not other benzodiazepines.
-The authors considered case-control and cohort studies separately.
-The data from the cohort studies did not suggest an increased risk for major malformations (OR 0.90; 95% CI 0.61 to 1.35) or for oral cleft (OR 1.19; 95% CI 0.34 to 4.15).
-The data from the case-control studies suggested an association between benzodiazepines and major malformations (OR 3.01; 95% CI 1.32 to 6.84) and oral cleft (OR 1.79; 95% CI 1.13 to 2.82).
-The limitations of this meta-analysis included the small number of reports included in the analysis, and that most cases for analyses of both oral cleft and major malformations came from only three studies.
-A follow up to that meta-analysis included 3 new cohort studies that examined risk for major malformations and one study that considered cardiac malformations.
-The authors found no new studies with an outcome of oral clefts.
-After the addition of the new studies, the odds ratio for major malformations with first trimester exposure to benzodiazepines was 1.07 (95% CI 0.91 to 1.25).
-
-Neonatal Withdrawal and Floppy Infant Syndrome
-
-Neonatal withdrawal syndrome and symptoms suggestive of floppy infant syndrome associated with administration of clobazam during the later stages of pregnancy and peripartum period have been reported in the postmarketing experience.
-Findings in published scientific literature suggest that the major neonatal side effects of benzodiazepines include sedation and dependence with withdrawal signs.
-Data from observational studies suggest that fetal exposure to benzodiazepines is associated with the neonatal adverse events of hypotonia, respiratory problems, hypoventilation, low Apgar score, and neonatal withdrawal syndrome.
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
 
 Animal Data
 
@@ -85,18 +57,15 @@ The low-effect dose for adverse effects on pre- and postnatal development in rat
 
 Risk Summary
 
-Clobazam is excreted in human milk.
-Postmarketing experience suggests that breastfed infants of mothers taking benzodiazepines, such as clobazam, may have effects of lethargy, somnolence and poor sucking.
-The effect of clobazam on milk production is unknown.
+Clobazam is excreted in human milk (see Data).
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+There are no data on the effects of clobazam on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for clobazam and any potential adverse effects on the breastfed infant from clobazam or from the underlying maternal condition.
-If exposing a breastfed infant to clobazam, observe for any potential adverse effects.
 
 Clinical Considerations
 
-Monitoring for Adverse Reactions
-
-Adverse reactions such as somnolence and difficulty feeding have been reported in infants during breastfeeding in postmarketing experience with clobazam.
-Monitor breastfed infants for possible sedation and poor sucking.
+Adverse reactions such as somnolence and difficulty feeding have been reported in infants during breastfeeding in post-marketing experience with clobazam.
+Infants exposed to clobazam through breast milk should be monitored for sedation, poor feeding and poor weight gain.
 
 Data
 
@@ -120,9 +89,7 @@ The no-effect level for juvenile toxicity (36 mg/kg/day) was associated with pla
 Clinical studies of clobazam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 However, elderly subjects appear to eliminate clobazam more slowly than younger subjects based on population pharmacokinetic analysis.
 For these reasons, the initial dose in elderly patients should be 5 mg/day.
-Patients should be titrated initially to 10 mg/day to 20 mg/day.
-
-Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
+Patients should be titrated initially to 10 mg/day to 20 mg/day.Patients may be titrated further to a maximum daily dose of 40 mg if tolerated [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].
 
 ## 8.6 CYP2C19 Poor Metabolizers
 

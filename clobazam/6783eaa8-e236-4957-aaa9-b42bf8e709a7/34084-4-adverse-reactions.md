@@ -9,6 +9,7 @@ Clinically significant adverse reactions that appear in other sections of the la
 - Somnolence or Sedation [see Warnings and Precautions (5.5)]
 - Serious Dermatological Reactions [see Contraindications (4), Warnings and Precautions (5.6)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -62,7 +63,7 @@ Adverse Reactions Reported for ≥ 5% of Patients and More Frequently than Place
 | Cough | 0 | 3 | 5 | 7 | 5 |
 | aMaximum daily dose of 5 mg for ≤ 30 kg body weight; 10 mg for > 30 kg body weight bMaximum daily dose of 10 mg for ≤ 30 kg body weight; 20 mg for > 30 kg body weight cMaximum daily dose of 20 mg for ≤ 30 kg body weight; 40 mg for > 30 kg body weight |  |  |  |  |  |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not possible to estimate their frequency or establish a causal relationship to drug exposure.
 Adverse reactions are categorized by system organ class.
