@@ -114,7 +114,7 @@ In subjects with moderate hepatic impairment receiving fluticasone furoate/vilan
 In subjects with severe hepatic impairment receiving fluticasone furoate/vilanterol 100 mcg/12.5 mcg, mean serum cortisol (0 to 24 hours) was increased by 14% (90% CI: -16%, 55%) compared with healthy subjects.
 Patients with moderate to severe hepatic disease should be closely monitored.
 
-- Vilanterol: Hepatic impairment had no effect on vilanterol systemic exposure [Cmax and AUC(0-24) on Day 7] following repeat-dose administration of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days (Figure 1).
+Vilanterol: Hepatic impairment had no effect on vilanterol systemic exposure [Cmax and AUC(0-24) on Day 7] following repeat-dose administration of fluticasone furoate/vilanterol 200 mcg/25 mcg (100 mcg/12.5 mcg in the severe impairment group) for 7 days (Figure 1).
 
 There were no additional clinically relevant effects of the fluticasone furoate/vilanterol combinations on heart rate or serum potassium in subjects with mild or moderate hepatic impairment (vilanterol 25 mcg combination) or with severe hepatic impairment (vilanterol 12.5 mcg combination) compared with healthy subjects.
 
