@@ -96,7 +96,7 @@ In Vitro Medication Delivery through AeroChamber Plus Valved Holding Chamber wit
 |  |  |  | 2 | 20.9 |  | 1.2 |
 |  |  |  | 5 | 19.6 |  | 1.1 |
 |  |  |  | 10 | 20.3 |  | 1.1 |
-| a Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000). Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated. b A single inhalation of Ventolin HFA in a 70-kg adult without use of a valved holding chamber and mask delivers approximately 90 mcg, or 1.3 mcg/kg. |  |  |  |  |  |  |
+| a Centers for Disease Control growth charts, developed by the National Center for Health Statistics in collaboration with the National Center for Chronic Disease Prevention and Health Promotion (2000). Ranges correspond to the average of the 50th percentile weight for boys and girls at the ages indicated. b A single inhalation of VENTOLIN HFA in a 70-kg adult without use of a valved holding chamber and mask delivers approximately 90 mcg, or 1.3 mcg/kg. |  |  |  |  |  |  |
 
 ## 8.5 Geriatric Use
 
