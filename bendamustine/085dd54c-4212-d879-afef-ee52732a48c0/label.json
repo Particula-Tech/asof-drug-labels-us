@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215033"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Apotex Corp",
+  "package_ndcs": [
+    "60505-6228-0"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "Bendamustine Hydrochloride"
+    }
+  ],
+  "setid": "085dd54c-4212-d879-afef-ee52732a48c0",
+  "source": "dailymed"
+}
