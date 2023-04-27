@@ -28,14 +28,14 @@ Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of d
 ## 5.3 Hematologic Effects
 
 Perform frequent peripheral blood cell counts on all patients receiving docetaxel.
-Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1500 cells/mm3 [see Contraindications (4)].
+Do not retreat patients with subsequent cycles of docetaxel until neutrophils recover to a level >1,500 cells/mm3 [see Contraindications (4)].
 Avoid retreating patients until platelets recover to a level >100,000 cells/mm3.
 
 A 25% reduction in the dose of docetaxel is recommended during subsequent cycles following severe neutropenia (<500 cells/mm3) lasting 7 days or more, febrile neutropenia, or a grade 4 infection in a docetaxel cycle [see Dosage and Administration (2.7)].
 
-Neutropenia (<2000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
+Neutropenia (<2,000 neutrophils/mm3) occurs in virtually all patients given 60 mg/m2 to 100 mg/m2 of docetaxel and grade 4 neutropenia (<500 cells/mm3) occurs in 85% of patients given 100 mg/m2 and 75% of patients given 60 mg/m2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
-Docetaxel should not be administered to patients with neutrophils <1500 cells/mm3.
+Docetaxel should not be administered to patients with neutrophils <1,500 cells/mm3.
 
 Febrile neutropenia occurred in about 12% of patients given 100 mg/m2 but was very uncommon in patients given 60 mg/m2.
 Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
@@ -76,7 +76,7 @@ When fluid retention occurs, peripheral edema usually starts in the lower extrem
 Among 92 breast cancer patients premedicated with 3-day corticosteroids, moderate fluid retention occurred in 27.2% and severe fluid retention in 6.5%.
 The median cumulative dose to onset of moderate or severe fluid retention was 819 mg/m2.
 Nine of 92 patients (9.8%) of patients discontinued treatment due to fluid retention: 4 patients discontinued with severe fluid retention; the remaining 5 had mild or moderate fluid retention.
-The median cumulative dose to treatment discontinuation due to fluid retention was 1021 mg/m2.
+The median cumulative dose to treatment discontinuation due to fluid retention was 1,021 mg/m2.
 Fluid retention was completely, but sometimes slowly, reversible with a median of 16 weeks from the last infusion of docetaxel to resolution (range: 0 to 42+ weeks).
 Patients developing peripheral edema may be treated with standard measures, e.g., salt restriction, oral diuretic(s).
 
@@ -129,8 +129,8 @@ In animal reproduction studies, administration of docetaxel to pregnant rats and
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Verify pregnancy status in females of reproductive potential prior to initiating docetaxel.
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of docetaxel.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of docetaxel [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of docetaxel.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of docetaxel [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.13 Alcohol Content
 
@@ -138,7 +138,7 @@ Cases of intoxication have been reported with some formulations of docetaxel due
 The alcohol content in a dose of docetaxel injection may affect the central nervous system and should be taken into account for patients in whom alcohol intake should be avoided or minimized.
 Consideration should be given to the alcohol content in docetaxel injection on the ability to drive or use machines immediately after the infusion.
 Each administration of docetaxel injection at 100 mg/m2 delivers 2.0 g/m2 of ethanol.
-For a patient with a BSA of 2.0 m2, this would deliver 4.0 grams of ethanol [see Description (11)].
+For a patient with a BSA of 2 m2, this would deliver 4 g of ethanol [see Description (11)].
 Other docetaxel products may have a different amount of alcohol.
 
 ## 5.14 Tumor Lysis Syndrome

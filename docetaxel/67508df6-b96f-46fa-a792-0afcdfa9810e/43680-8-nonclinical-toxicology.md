@@ -4,7 +4,7 @@
 
 Carcinogenicity studies with docetaxel have not been performed.
 
-Docetaxel was clastogenic in the in vitro chromosome aberration test in CHO-K1 cells and in the in vivo micronucleus test in mice administered doses of 0.39 to 1.56 mg/kg (about 1/60th to 1/15th the recommended human dose on a mg/m2 basis).
+Docetaxel was genotoxic by an aueugenic mechanism in the in vitro chromosome aberration test in CHO-K1 cells and in the in vivo micronucleus test in mice administered doses of 0.39 mg/kg to 1.56 mg/kg (about 1/60th to 1/15th the recommended human dose on a mg/m2 basis).
 Docetaxel was not mutagenic in the Ames test or the CHO/HGPRT gene mutation assays.
 
 Docetaxel did not reduce fertility in rats when administered in multiple intravenous doses of up to 0.3 mg/kg (about 1/50th the recommended human dose on a mg/m2 basis), but decreased testicular weights were reported.

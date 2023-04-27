@@ -30,19 +30,19 @@ Breast Cancer
 
 Monotherapy with docetaxel for locally advanced or metastatic breast cancer after failure of prior chemotherapy
 
-Docetaxel 100 mg/m2: Adverse drug reactions occurring in at least 5% of patients are compared for three populations who received docetaxel administered at 100 mg/m2 as a 1-hour infusion every 3 weeks: 2045 patients with various tumor types and normal baseline liver function tests; the subset of 965 patients with locally advanced or metastatic breast cancer, both previously treated and untreated with chemotherapy, who had normal baseline liver function tests; and an additional 61 patients with various tumor types who had abnormal liver function tests at baseline.
+Docetaxel 100 mg/m2: Adverse drug reactions occurring in at least 5% of patients are compared for three populations who received docetaxel administered at 100 mg/m2 as a 1-hour infusion every 3 weeks: 2,045 patients with various tumor types and normal baseline liver function tests; the subset of 965 patients with locally advanced or metastatic breast cancer, both previously treated and untreated with chemotherapy, who had normal baseline liver function tests; and an additional 61 patients with various tumor types who had abnormal liver function tests at baseline.
 These reactions were described using COSTART terms and were considered possibly or probably related to docetaxel.
 At least 95% of these patients did not receive hematopoietic support.
 The safety profile is generally similar in patients receiving docetaxel for the treatment of breast cancer and in patients with other tumor types (see Table 3).
 
 Table 3: Summary of Adverse Reactions in Patients Receiving Docetaxel at 100 mg/m2
 
-| Adverse Reaction | All Tumor TypesNormal LFTs*n=2045% | All Tumor TypesElevated LFTs**n=61% | Breast CancerNormal LFTs*n=965% |
+| Adverse Reaction | All Tumor TypesNormal LFTs*n=2,045% | All Tumor TypesElevated LFTs**n=61% | Breast CancerNormal LFTs*n=965% |
 | --- | --- | --- | --- |
 | HematologicNeutropenia |  |  |  |
-| <2000 cells/mm3<500 cells/mm3 | 9675 | 9688 | 9986 |
+| <2,000 cells/mm3<500 cells/mm3 | 9675 | 9688 | 9986 |
 | Leukopenia |  |  |  |
-| <4000 cells/mm3<1000 cells/mm3 | 9632 | 9847 | 9944 |
+| <4,000 cells/mm3<1,000 cells/mm3 | 9632 | 9847 | 9944 |
 | Thrombocytopenia |  |  |  |
 | <100,000 cells/mm3 | 8 | 25 | 9 |
 | Anemia |  |  |  |
@@ -79,7 +79,7 @@ Hematologic reactions
 
 Reversible marrow suppression was the major dose-limiting toxicity of docetaxel [see Warnings and Precautions (5.3)].
 The median time to nadir was 7 days, while the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
-Among 2045 patients with solid tumors and normal baseline LFTs, severe neutropenia occurred in 75.4% and lasted for more than 7 days in 2.9% of cycles.
+Among 2,045 patients with solid tumors and normal baseline LFTs, severe neutropenia occurred in 75.4% and lasted for more than 7 days in 2.9% of cycles.
 
 Febrile neutropenia (<500 cells/mm3 with fever >38°C with intravenous antibiotics and/or hospitalization) occurred in 11% of patients with solid tumors, in 12.3% of patients with metastatic breast cancer, and in 9.8% of 92 breast cancer patients premedicated with 3-day corticosteroids.
 
@@ -146,7 +146,7 @@ Table 4: Hematologic Adverse Reactions in Breast Cancer Patients Previously Trea
 | --- | --- | --- | --- |
 | Adverse Reaction | Docetaxel100 mg/m2 |  | Docetaxel60 mg/m2 |
 | Neutropenia |  |  |  |
-| Any <2000 cells/mm3Grade 4 <500 cells/mm3 | 9884 | 10094 | 9575 |
+| Any <2,000 cells/mm3Grade 4 <500 cells/mm3 | 9884 | 10094 | 9575 |
 | Thrombocytopenia |  |  |  |
 | Any <100,000 cells/mm3Grade 4 <20,000 cells/mm3 | 111 | 4417 | 141 |
 | Anemia <11 g/dL | 95 | 94 | 65 |
@@ -412,9 +412,9 @@ Table 8: Adverse Reactions Regardless of Relationship to Treatment in Chemothera
 | *Replaces NCI term “Allergy”**COSTART term and grading system |  |  |
 
 Deaths within 30 days of last study treatment occurred in 31 patients (7.6%) in the docetaxel+cisplatin arm and 37 patients (9.3%) in the vinorelbine+cisplatin arm.
-Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2.0%) in the vinorelbine+cisplatin arm.
+Deaths within 30 days of last study treatment attributed to study drug occurred in 9 patients (2.2%) in the docetaxel+cisplatin arm and 8 patients (2%) in the vinorelbine+cisplatin arm.
 
-The second comparison in the study, vinorelbine+cisplatin versus docetaxel+carboplatin (which did not demonstrate a superior survival associated with docetaxel [see Clinical Studies (14.3)]) demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the docetaxel+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
+The second comparison in the study, vinorelbine+cisplatin versus docetaxel+carboplatin (which did not demonstrate a superior survival associated with docetaxel [see Clinical Studies (14.3)] demonstrated a higher incidence of thrombocytopenia, diarrhea, fluid retention, hypersensitivity reactions, skin toxicity, alopecia and nail changes on the docetaxel+carboplatin arm, while a higher incidence of anemia, neurosensory toxicity, nausea, vomiting, anorexia and asthenia was observed on the vinorelbine+cisplatin arm.
 
 Prostate Cancer
 
@@ -463,7 +463,7 @@ Data in the following table are based on the experience of 221 patients with adv
 
 Table 10: Clinically Important Treatment-Emergent Adverse Reactions Regardless of Relationship to Treatment in the Gastric Cancer Study
 
-|  | Docetaxel 75 mg/m2 +cisplatin 75 mg/m2 +fluorouracil 750 mg/m2n=221 |  | Cisplatin 100 mg/m2 +fluorouracil 1000 mg/m2n=224 |  |
+|  | Docetaxel 75 mg/m2 +cisplatin 75 mg/m2 +fluorouracil 750 mg/m2n=221 |  | Cisplatin 100 mg/m2 +fluorouracil 1,000 mg/m2n=224 |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | Any% | Grade 3/4% | Any% | Grade 3/4% |
 | Anemia | 97 | 18 | 93 | 26 |
@@ -550,9 +550,9 @@ Table 11: Clinically Important Treatment-Emergent Adverse Reactions (Regardless 
 | Conjunctivitis | 1 | 0 | 1 | 0 | 1 | 0 | 0.4 | 0 |
 | Clinically important treatment-emergent adverse reactions based upon frequency, severity, and clinical impact.*Febrile neutropenia: grade ≥2 fever concomitant with grade 4 neutropenia requiring intravenous antibiotics and/or hospitalization.**Related to treatment.***Includes superficial and deep vein thrombosis and pulmonary embolism |  |  |  |  |  |  |  |  |
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified from clinical trials and/or postmarketing surveillance.
+The following adverse reactions have been identified from clinical trials and/or post-marketing surveillance.
 Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a whole: diffuse pain, chest pain, radiation recall phenomenon, injection site recall reaction (recurrence of skin reaction at a site of previous extravasation following administration of docetaxel at a different site) at the site of previous extravasation.

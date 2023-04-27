@@ -39,13 +39,12 @@ All patients treated on the docetaxel injection containing arms of the TAX323 an
 Induction Chemotherapy Followed by Radiotherapy (TAX323)
 
 For the induction treatment of locally advanced inoperable SCCHN, the recommended dose of docetaxel injection is 75 mg/m2 as a 1 hour intravenous infusion followed by cisplatin 75 mg/m2 intravenously over 1 hour, on day one, followed by fluorouracil as a continuous intravenous infusion at 750 mg/m2 per day for five days.
-
 This regimen is administered every 3 weeks for 4 cycles.
 Following chemotherapy, patients should receive radiotherapy [see Dosage and Administration (2.7)].
 
 Induction Chemotherapy Followed by Chemoradiotherapy (TAX324)
 
-For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+For the induction treatment of patients with locally advanced (unresectable, low surgical cure, or organ preservation) SCCHN, the recommended dose of docetaxel injection is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3 hour infusion, followed by fluorouracil 1,000 mg/m2/day as a continuous infusion from day 1 to day 4.
 This regimen is administered every 3 weeks for 3 cycles.
 Following chemotherapy, patients should receive chemoradiotherapy [see Dosage and Administration (2.7)].
 
@@ -166,7 +165,7 @@ Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patie
 
 ## 2.8 Administration Precautions
 
-Docetaxel injection is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing docetaxel injection solutions.
+Docetaxel injection is a hazardous anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing docetaxel injection solutions.
 The use of gloves is recommended [see How Supplied/Storage and Handling (16.3)].
 
 If docetaxel injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.

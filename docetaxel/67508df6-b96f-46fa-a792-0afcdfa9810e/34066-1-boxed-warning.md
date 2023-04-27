@@ -7,7 +7,7 @@ Patients with elevations of bilirubin or abnormalities of transaminase concurren
 Patients with isolated elevations of transaminase >1.5 × ULN also had a higher rate of febrile neutropenia.
 Measure bilirubin, AST or ALT, and alkaline phosphatase prior to each cycle of docetaxel [see Warnings and Precautions (5.2)].
 
-Do not administer docetaxel to patients with neutrophil counts of <1500 cells/mm3.
+Do not administer docetaxel to patients with neutrophil counts of <1,500 cells/mm3.
 Monitor blood counts frequently as neutropenia may be severe and result in infection [see Warnings and Precautions (5.3)].
 
 Do not administer docetaxel to patients who have a history of severe hypersensitivity reactions to docetexel or to other drugs formulated with polysorbate 80 [see Contraindications (4)].

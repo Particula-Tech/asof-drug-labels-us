@@ -35,5 +35,5 @@ Freezing does not adversely affect the product.
 
 ## 16.3 Handling and Disposal
 
-Docetaxel injection is a cytotoxic drug.
+Docetaxel injection is a hazardous drug.
 Follow applicable special handling and disposal procedures1.
