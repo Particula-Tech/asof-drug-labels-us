@@ -7,4 +7,4 @@ Storage and Handling
 - Store at 20°C to 25°C (68°F to 77°F) with excursions permitted to 15°C to 30ºC (59°F to 86ºF) [see USP Controlled Room Temperature].
 - Keep away from heat.
 - Do not freeze.
-- Discard unused cream 30 days after first use.
+- Discard unused cream 60 days after first use.

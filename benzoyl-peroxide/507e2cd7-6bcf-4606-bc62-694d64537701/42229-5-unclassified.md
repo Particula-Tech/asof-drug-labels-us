@@ -1,8 +1,4 @@
-Marketed by: GALDERMA LABORATORIES, L.P.
-Dallas, TX 75201 USA Made in Canada All trademarks are the property of their respective owners.
-P57267-0
-
-PATIENT INFORMATION EPSOLAY® (ep' soe lay) (benzoyl peroxide) cream
+EPSOLAY® (ep' soe lay) (benzoyl peroxide) cream
 
 Important: EPSOLAY is for use on the skin only (topical).
 Do not use EPSOLAY in or on your mouth, eyes or vagina.
@@ -72,7 +68,7 @@ How should I store EPSOLAY?
 - Store EPSOLAY at room temperature between 68°F to 77°F (20°C to 25°C).
 - Keep EPSOLAY away from heat.
 - Do not freeze EPSOLAY.
-- Throw away (discard) unused EPSOLAY 30 days after first use.
+- Throw away (discard) unused EPSOLAY 60 days after first use.
 
 Keep EPSOLAY and all medicines out of the reach of children.
 
@@ -87,7 +83,7 @@ What are the ingredients in EPSOLAY?
 Active ingredient: benzoyl peroxide Inactive ingredients: anhydrous citric acid, cetrimonium chloride, cetyl alcohol, cyclomethicone, edetate disodium, glycerin, hydrochloric acid, lactic acid, macrogol stearate Type I, mono and di-glycerides, phenoxyethanol, polyquaternium-7, purified water, silicon dioxide and sodium hydroxide.
 
 Marketed by GALDERMA LABORATORIES, L.P., Dallas, TX 75201 USA Made in Canada All trademarks are the property of their respective owners.
-P57267-0 For more information, go to www.EPSOLAY.com or call GALDERMA LABORATORIES, L.P. at 1-866-735-4137.
+P57267-1 For more information, go to www.EPSOLAY.com or call GALDERMA LABORATORIES, L.P. at 1-866-735-4137.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 4/2022
+Issued: 4/2023

@@ -7,4 +7,4 @@
 - EPSOLAY may bleach hair or colored fabric.
 - EPSOLAY is for topical use only.
   Not for oral, ophthalmic, or intravaginal use.
-- Discard unused EPSOLAY 30 days after first use.
+- Discard unused EPSOLAY 60 days after first use.
