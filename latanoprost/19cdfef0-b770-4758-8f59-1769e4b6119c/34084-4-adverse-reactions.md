@@ -11,7 +11,6 @@ The following adverse reactions were reported in postmarketing experience and ar
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
-
 Latanoprost was studied in three multicenter, randomized, controlled clinical trials.
 Patients received 50 mcg/mL latanoprost once daily or 5 mg/mL active-comparator (timolol) twice daily.
 The patient population studied had a mean age of 65±10 years.
@@ -58,4 +57,4 @@ Table 2: Adverse Reactions That Were Reported in 1 to 5% of Patients Receiving L
 The following reactions have been identified during postmarketing use of latanoprost in clinical practice.
 Because they are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The reactions, which have been chosen for inclusion due to either their seriousness, frequency of reporting, possible causal connection to latanoprost, or a combination of these factors, include: Nervous System Disorders: Dizziness; headache; toxic epidermal necrolysis Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva.
-Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea Skin and Subcutaneous Tissue Disorders: Pruritis Infections and Infestations: Herpes keratitis Cardiac Disorders: Angina; palpitations; angina unstable General Disorders and Administration Site Conditions: Chest pain
+Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea Gastrointestinal Disorders: Nausea; vomiting Skin and Subcutaneous Tissue Disorders: Pruritis Infections and Infestations: Herpes keratitis Cardiac Disorders: Angina; palpitations; angina unstable General Disorders and Administration Site Conditions: Chest pain
