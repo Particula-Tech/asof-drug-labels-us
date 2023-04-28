@@ -63,4 +63,4 @@ Distributed By:
 
 Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Protected by U.S. Patent Nos. 8,731,963; 8,772,306; 9,050,302; 9,486,426; 10,213,400; 10,864,181; and 11,253,494.
+Protected by U.S. Patent Nos. 8,772,306; 9,050,302; 9,486,426; 10,213,400; 10,864,181; and 11,253,494.
