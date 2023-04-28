@@ -43,3 +43,5 @@ Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
 12-2021-04
+
+Dispense with Medication Guide available at: documents.amneal.com/mg/colchicine.pdf

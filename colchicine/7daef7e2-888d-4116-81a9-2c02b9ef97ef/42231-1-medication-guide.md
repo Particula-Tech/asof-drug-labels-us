@@ -1,5 +1,7 @@
 # MEDICATION GUIDE
 
+Dispense with Medication Guide available at: documents.amneal.com/mg/colchicine.pdf
+
 | Colchicine (kol’ chi seen) Tablets, USP for oral use |  |
 | --- | --- |
 | Read the Medication Guide that comes with colchicine tablets before you start taking it and each time you get a refill. There may be new information. This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment. You and your healthcare provider should talk about colchicine tablets when you start taking it and at regular checkups. |  |
@@ -21,10 +23,6 @@
 | What are the possible side effects of colchicine tablets? Colchicine tablets can cause serious side effects or even cause death. See “What is the most important information that I should know about colchicine tablets?” Get medical help right away if you have: Muscle weakness or pain Numbness or tingling in your fingers or toes Unusual bleeding or bruising Increased infections Feel weak or tired Pale or gray color to your lips, tongue or palms of your hands Severe diarrhea or vomiting Gout Flares: The most common side effect of colchicine tablets in people who have gout flares is diarrhea.FMF: The most common side effects of colchicine tablets in people who have FMF are abdominal pain, diarrhea, nausea and vomiting. Tell your healthcare provider if you have any side effect that bothers you or that does not go away. These are not all of the possible side effects of colchicine tablets. For more information, ask your healthcare provider or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |
 | How should I store colchicine tablets? Store colchicine tablets at room temperature between 68°F and 77°F (20°C to 25°C). Keep colchicine tablets in a tightly closed container. Keep colchicine tablets out of the light. Keep colchicine tablets and all medicines out of the reach of children. |  |
 | General Information about Colchicine TabletsMedicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use colchicine tablets for a condition for which it was not prescribed. Do not give colchicine tablets to other people, even if they have the same symptoms that you have. It may harm them. This Medication Guide summarizes the most important information about colchicine tablets. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about colchicine tablets that is written for healthcare professionals. |  |
-| What are the ingredients in colchicine tablets? Active Ingredient: colchicine Inactive Ingredients: ethanol, FD&C blue #2, FD&C red #40, hypromellose, lactose monohydrate, macrogol, magnesium stearate, microcrystalline cellulose, polydextrose, pregelatinized starch (corn), purified water, sodium starch glycolate, titanium dioxide and triacetin. Distributed by: Amneal Pharmaceuticals LLCBridgewater, NJ 08807Rev. 12-2021-04 Trademarks are the property of their respective owners. For more information, go to www.amneal.com or call 1-877-835-5472. |  |
+| What are the ingredients in colchicine tablets? Active Ingredient: colchicine Inactive Ingredients: ethanol, FD&C blue #2, FD&C red #40, hypromellose, lactose monohydrate, macrogol, magnesium stearate, microcrystalline cellulose, polydextrose, pregelatinized starch (corn), purified water, sodium starch glycolate, titanium dioxide and triacetin. Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807Rev. 12-2021-04 Trademarks are the property of their respective owners. For more information, go to www.amneal.com or call 1-877-835-5472. |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Dispense with Medication Guide available at:
-
-documents.amneal.com/mg/colchicine.pdf
