@@ -58,4 +58,4 @@ Instruct patients and/or caregivers that Xyrem has been associated with sleepwal
 Sodium Intake
 
 Instruct patients and/or caregivers that Xyrem contains a significant amount of sodium and patients who are sensitive to sodium intake (e.g., those with heart failure, hypertension, or renal impairment) should limit their sodium intake [see Warnings and Precautions (5.8)].
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 8,731,963; 8,772,306; 9,050,302; 9,486,426; 10,213,400; 10,864,181; and 11,253,494.
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 8,772,306; 9,050,302; 9,486,426; 10,213,400; 10,864,181; and 11,253,494.
