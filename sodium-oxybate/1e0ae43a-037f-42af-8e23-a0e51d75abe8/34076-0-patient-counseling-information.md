@@ -59,4 +59,4 @@ Sleepwalking
 
 Instruct patients and/or caregivers that XYWAV has been associated with sleepwalking and other behaviors during sleep, and to contact their healthcare provider if this occurs [see Warnings and Precautions (5.7)].
 
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 8,591,922; 8,731,963; 8,772,306; 8,901,173; 9,050,302; 9,132,107; 9,486,426; 9,555,017; 10,195,168; 10,213,400; 10,675,258; 10,864,181; and 11,253,494.
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 Protected by U.S. Patent Nos. 8,591,922; 8,772,306; 8,901,173; 9,050,302; 9,132,107; 9,486,426; 9,555,017; 10,195,168; 10,213,400; 10,675,258; 10,864,181; 11,253,494; 11,554,102; and 11,426,373.
