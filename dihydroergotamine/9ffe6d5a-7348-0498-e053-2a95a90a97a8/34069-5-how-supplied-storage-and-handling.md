@@ -9,9 +9,15 @@ Each unit consists of one vial and one sprayer.
 Store below 25°C (77°F).
 Do not refrigerate or freeze.
 
-Manufactured for: Leucadia Pharmaceuticals Carlsbad, CA 92011 USA
+Manufactured for:
+
+Hikma Pharmaceuticals USA Inc.
+
+Berkeley Heights, NJ 07922
 
 Made in Italy
 
+934035 USA
+
 Rev.
-05/2020
+07/2022

@@ -3,12 +3,11 @@
 During clinical studies and the foreign postmarketing experience with dihydroergotamine mesylate nasal spray there have been no fatalities due to cardiac events.
 
 Serious cardiac events, including some that have been fatal, have occurred following use of the parenteral form of dihydroergotamine mesylate, but are extremely rare.
-Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation.
-(See CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
+Events reported have included coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia, and ventricular fibrillation (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS).
 
 Fibrotic complications have been reported in association with long term use of injectable dihydroergotamine mesylate (see WARNINGS: Fibrotic Complications).
 
-## Incidence in Controlled Clinical Trials
+Incidence in Controlled Clinical Trials
 
 Of the 1,796 patients and subjects treated with dihydroergotamine mesylate nasal spray doses 2 mg or less in U.S. and foreign clinical studies, 26 (1.4%) discontinued because of adverse events.
 The adverse events associated with discontinuation were, in decreasing order of frequency: rhinitis 13, dizziness 2, facial edema 2, and one each due to cold sweats, accidental trauma, depression, elective surgery, somnolence, allergy, vomiting, hypotension, and paraesthesia.
@@ -21,36 +20,35 @@ Dihydroergotamine mesylate nasal spray was generally well tolerated.
 In most instances these events were transient and self-limited and did not result in patient discontinuation from a study.
 The following table summarizes the incidence rates of adverse events reported by at least 1% of patients who received dihydroergotamine mesylate nasal spray for the treatment of migraine headaches during placebo-controlled, double-blind clinical studies and were more frequent than in those patients receiving placebo.
 
-Table 3: Adverse events reported by at least 1% of the dihydroergotamine mesylate nasal spray treated patients and occurred more frequently than in the placebo-group in the migraine placebo-controlled trials
+| Table 3: Adverse Reactions Reported by at least 1% of theDihydroergotamine Mesylate Nasal Spray Treated Patients and Occurred MoreFrequently than in the Placebo-Group in the Migraine Placebo-Controlled Trials |  |  |  |
+| --- | --- | --- | --- |
+|  |  | Dihydroergotamine mesylate N=597 | PlaceboN=631 |
+| Respiratory System |  |  |  |
+|  | Rhinitis | 26% | 7% |
+|  | Pharyngitis | 3% | 1% |
+|  | Sinusitis | 1% | 1% |
+| Gastrointestinal System |  |  |  |
+|  | Nausea | 10% | 4% |
+|  | Vomiting | 4% | 1% |
+|  | Diarrhea | 2% | <1% |
+| Special Senses, Other |  |  |  |
+|  | Altered Sense of Taste | 8% | 1% |
+| Application Site |  |  |  |
+|  | Application Site Reaction | 6% | 2% |
+| Central and Peripheral Nervous System |  |  |  |
+|  | Dizziness | 4% | 2% |
+|  | Somnolence | 3% | 2% |
+|  | Paraesthesia | 2% | 2% |
+| Body as a Whole, General |  |  |  |
+|  | Hot Flashes | 1% | <1% |
+|  | Fatigue | 1% | 1% |
+|  | Asthenia | 1% | 0% |
+| Autonomic Nervous System |  |  |  |
+|  | Mouth Dry | 1% | 1% |
+| Musculoskeletal System |  |  |  |
+|  | Stiffness | 1% | <1% |
 
-|  | Dihydroergotamine mesylate N=597 | Placebo N=631 |
-| --- | --- | --- |
-| Respiratory System |  |  |
-| Rhinitis | 26% | 7% |
-| Pharyngitis | 3% | 1% |
-| Sinusitis | 1% | 1% |
-| Gastrointestinal System |  |  |
-| Nausea | 10% | 4% |
-| Vomiting | 4% | 1% |
-| Diarrhea | 2% | <1% |
-| Special Senses, Other |  |  |
-| Altered Sense of Taste | 8% | 1% |
-| Application Site |  |  |
-| Application Site Reaction | 6% | 2% |
-| Central and Peripheral Nervous System |  |  |
-| Dizziness | 4% | 2% |
-| Somnolence | 3% | 2% |
-| Paraesthesia | 2% | 2% |
-| Body as a Whole, General |  |  |
-| Hot Flashes | 1% | <1% |
-| Fatigue | 1% | 1% |
-| Asthenia | 1% | 0% |
-| Autonomic Nervous System |  |  |
-| Mouth Dry | 1% | 1% |
-| Musculoskeletal System |  |  |
-| Stiffness | 1% | <1% |
-
-## Other Adverse Events During Clinical Trials
+Other Adverse Events During Clinical Trials
 
 In the paragraphs that follow, the frequencies of less commonly reported adverse clinical events are presented.
 Because the reports include events observed in open and uncontrolled studies, the role of dihydroergotamine mesylate nasal spray in their causation cannot be reliably determined.
@@ -81,16 +79,15 @@ Urinary System: Infrequent: increased frequency of micturition, cystitis.
 
 Reproductive, Female: Rare: pelvic inflammation, vaginitis.
 
-Body as a Whole - General: Infrequent: feeling cold, malaise, rigors, fever, periorbital edema; Rare: flu-like symptoms, shock, loss of voice, yawning.
+Body as a Whole - General: Infrequent: feeling cold, malaise, rigors, fever, periorbital edema; Rare: flu- like symptoms, shock, loss of voice, yawning.
 
 Application Site: Infrequent: local anesthesia.
 
-## Post-introduction Reports
+Post-introduction Reports
 
 Voluntary reports of adverse events temporally associated with dihydroergotamine products used in the management of migraine that have been received since the introduction of the injectable formulation are included in this section save for those already listed above.
 Because of their source (open and uncontrolled clinical use), whether or not events reported in association with the use of dihydroergotamine are causally related to it cannot be determined.
 There have been reports of pleural and retroperitoneal fibrosis in patients following prolonged daily use of injectable dihydroergotamine mesylate.
-Dihydroergotamine mesylate nasal spray is not recommended for prolonged daily use.
-(See DOSAGE AND ADMINISTRATION)
+Dihydroergotamine mesylate nasal spray is not recommended for prolonged daily use (see DOSAGE AND ADMINISTRATION).
 
-To report SUSPECTED ADVERSE REACTIONS, contact Leucadia Pharmaceuticals at 1-877-411-9681 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Hikma Pharmaceuticals USA Inc. at us.hikma@primevigilance.com or call 1-877-845-0689 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
