@@ -2,8 +2,7 @@
 
 ## 2.1 Instructions for Safe Use
 
-The potency Units of DYSPORT are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DYSPORT cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.2) and Description (11)].
-
+The potency units of DYSPORT are not interchangeable with other preparations of botulinum toxin products and, therefore, units of biological activity of DYSPORT cannot be compared to or converted into units of any other botulinum toxin products assessed with any other specific assay method [see Warnings and Precautions (5.2) and Description (11)].
 Reconstituted DYSPORT is intended for intramuscular injection only.
 
 ## 2.2 Preparation of Dysport Solution for Administration
@@ -39,7 +38,7 @@ Using an appropriately sized sterile syringe, needle and aseptic technique, draw
 Insert the needle into the DYSPORT vial.
 The partial vacuum will begin to pull the saline into the vial.
 Any remaining required saline should be expressed into the vial manually.
-Do not use the vial if no vacuum is observed.
+Do not use the vial if no partial vacuum is observed.
 Swirl gently to dissolve.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 Reconstituted DYSPORT should be a clear, colorless solution, free of particulate matter, otherwise it should not be injected.
@@ -70,7 +69,7 @@ The recommended initial dose of DYSPORT for the treatment of cervical dystonia i
 (A description of the average DYSPORT dose and percentage of total dose injected into specific muscles in the pivotal clinical trials can be found in Table 15 of Section 14.1, Clinical Studies – Cervical Dystonia.)
 Limiting the dose injected into the sternocleidomastoid muscle may reduce the occurrence of dysphagia.
 Clinical studies with DYSPORT in cervical dystonia suggest that the peak effect occurs between two and four weeks after injection.
-Simultaneous EMG-guided application of DYSPORT may be helpful in locating active muscles.
+Simultaneous guided injection of DYSPORT with EMG and/or ultrasound may be helpful in locating active muscles.
 
 Dose Modification
 
@@ -118,7 +117,7 @@ Dosing in initial and subsequent treatment sessions should be tailored to the in
 No more than 1 mL should generally be administered at any single injection site.
 The maximum recommended total dose (upper and lower limb combined) of DYSPORT for the treatment of spasticity in adults is 1500 Units.
 
-Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography, electrical stimulation) is recommended to target the injection sites.
+Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography, electrical stimulation, or ultrasound) is recommended to target the injection sites.
 
 Upper Limb Spasticity
 
@@ -170,7 +169,7 @@ To calculate the total units of DYSPORT required for treatment of one limb, sele
 Dosing in initial and sequential treatment sessions should be tailored to the individual patient based on the size, number and location of muscles involved, severity of spasticity, the presence of local muscle weakness, the patient’s response to previous treatment, and/or adverse reaction history with botulinum toxins.
 No more than 0.5 mL should generally be administered at any single injection site.
 The maximum recommended total dose of DYSPORT in a single treatment session for spasticity in pediatric patients 2 years or older is 30 Units/kg or 1000 Units in a 3-month interval.
-Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography or electrical stimulation) is recommended to target the injection sites.
+Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g., electromyography or electrical stimulation, or ultrasound) is recommended to target the injection sites.
 Upper Limb Spasticity in Pediatric Patients 2 Years of Age and Older In the clinical trial that assessed the efficacy and safety of DYSPORT for treatment of upper limb spasticity in pediatric patients 2 years of age or older with a weight of at least 10 kg [see Clinical Studies (14.4)], doses of 8 Units/kg or 16 Units/kg were divided among selected muscles of the target upper limb at a given treatment session (see Table 5 and Figure 4).
 Table 5 describes the recommended Units/kg dose of DYSPORT per muscle.
 The maximum recommended total dose of DYSPORT administered for treatment of upper limb spasticity must not exceed 16 Units/kg or 640 Units, whichever is lower.
@@ -213,7 +212,7 @@ DYSPORT Dosing by Muscle for Lower Limb Spasticity in Pediatric Patients
 
 Figure 5: Muscles for Injection for Lower Limb Spasticityin Pediatric Patients
 
-Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g. electromyography or electrical stimulation) is recommended to target the injection sites.
+Although actual location of the injection sites can be determined by palpation, the use of injection guiding technique (e.g. electromyography or electrical stimulation or ultrasound) is recommended to target the injection sites.
 
 Repeat DYSPORT treatment should be administered when the effect of a previous injection has diminished but no sooner than 12 weeks after the previous injection.
 A majority of patients in the clinical studies were retreated between 16-22 weeks, however; some had a longer duration of response.

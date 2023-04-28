@@ -102,7 +102,7 @@ This study showed a statistically significant reduction in heart rate compared t
 
 Glabellar Lines
 
-In placebo-controlled clinical trials of DYSPORT, the most common adverse reactions(≥2%) following injection of DYSPORTwere nasopharyngitis, headache, injection site pain, injection site reaction, upper respiratory tract infection, eyelid edema, eyelid ptosis, sinusitis, nausea, and blood present in urine.
+In placebo-controlled clinical trials of DYSPORT, the most common adverse reactions(≥2%) following injection of DYSPORT were nasopharyngitis, headache, injection site pain, injection site reaction, upper respiratory tract infection, eyelid edema, eyelid ptosis, sinusitis, nausea, and blood present in urine.
 
 Table 9 reflects exposure to DYSPORT in 398 patients 19 to 75 years of age who were evaluated in the randomized, placebo-controlled clinical studies that assessed the use of DYSPORT for the temporary improvement in the appearance of glabellar lines [see Clinical Studies (14.2)].
 Adverse reactions of any cause occurred in 48% of the DYSPORT-treated patients and 33% of the placebo-treated patients.

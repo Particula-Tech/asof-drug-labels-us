@@ -36,6 +36,8 @@ It is not known whether DYSPORT is safe or effective in people younger than:
 - 18 years of age for the treatment of glabellar lines
 - 2 years of age for the treatment of spasticity
 
+It is not known whether DYSPORT is safe or effective for the treatment of other wrinkles.
+
 Who should not take DYSPORT?
 
 Do not take DYSPORT if you:
