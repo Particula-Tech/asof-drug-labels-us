@@ -36,13 +36,13 @@ Pregnant rabbits given oral doses of irbesartan of 30 mg/kg/day (1.9 times the M
 Surviving females had a slight increase in early resorptions and a corresponding decrease in live fetuses.
 Radioactivity was present in the rat and rabbit fetuses during late gestation following oral doses of radiolabeled irbesartan.
 
+## 8.3
+
 ## 8.2 Lactation
 
 There are no available data on the presence of irbesartan in human milk, effects on milk production, or the breastfed infant.
 Irbesartan or some metabolite of irbesartan is secreted in the milk of lactating rats [see Clinical Pharmacology (12.3)].
 Because of the potential for adverse effects on the nursing infant, the use of irbesartan in breastfeeding women is not recommended.
-
-## 8.3
 
 ## 8.4 Pediatric Use
 
