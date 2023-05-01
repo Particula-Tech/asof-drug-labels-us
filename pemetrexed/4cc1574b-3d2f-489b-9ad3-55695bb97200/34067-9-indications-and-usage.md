@@ -4,8 +4,8 @@
 
 Pemetrexed for Injection is indicated:
 
-1. in combination with pembrolizumab and platinum chemotherapy, for the initial treatment of patients with metastatic non-squamous NSCLC, with no EGFR or ALK genomic tumor aberrations.
-2. in combination with cisplatin for the initial treatment of patients with locally advanced or metastatic, non- squamous, non-small cell lung cancer (NSCLC).
+1. in combination with pembrolizumab and platinum chemotherapy, for the initial treatment of patients with metastatic non-squamous non-small cell lung cancer NSCLC, with no EGFR or ALK genomic tumor aberrations.
+2. in combination with cisplatin for the initial treatment of patients with locally advanced or metastatic, non- squamous, NSCLC.
 3. as a single agent for the maintenance treatment of patients with locally advanced or metastatic, non-squamous NSCLC whose disease has not progressed after four cycles of platinum-based first-line chemotherapy.
 4. as a single agent for the treatment of patients with recurrent, metastatic non-squamous, NSCLC after prior chemotherapy.
 

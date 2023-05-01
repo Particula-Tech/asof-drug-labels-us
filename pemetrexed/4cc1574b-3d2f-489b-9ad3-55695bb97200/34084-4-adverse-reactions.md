@@ -2,11 +2,11 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-1. Myelosuppression [see Warnings and Precautions (5.1)]
-2. Renal failure [see Warnings and Precautions (5.2)]
-3. Bullous and exfoliative skin toxicity [see Warning and Precautions (5.3)]
-4. Interstitial pneumonitis [see Warnings and Precautions (5.4)]
-5. Radiation recall [see Warnings and Precautions (5.5)]
+- Myelosuppression [see Warnings and Precautions (5.1)]
+- Renal failure [see Warnings and Precautions (5.2)]
+- Bullous and exfoliative skin toxicity [see Warning and Precautions (5.3)]
+- Interstitial pneumonitis [see Warnings and Precautions (5.4)]
+- Radiation recall [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,16 +42,16 @@ Table 2: Adverse Reactions Occurring in ≥20% of Patients in KEYNOTE-189
 | Adverse Reaction | All Grades a (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Nausea | 56 | 3.5 | 52 | 3.5 |
-| Constipation | 35 | 1.0 | 32 | 0.5 |
-| Diarrhea | 31 | 5 | 21 | 3.0 |
-| Vomiting | 24 | 3.7 | 23 | 3.0 |
+| Constipation | 35 | 1 | 32 | 0.5 |
+| Diarrhea | 31 | 5 | 21 | 3 |
+| Vomiting | 24 | 3.7 | 23 | 3 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Fatigue b | 56 | 12 | 58 | 6 |
 | Pyrexia | 20 | 0.2 | 15 | 0 |
 | Metabolism and Nutrition Disorders |  |  |  |  |
 | Decreased appetite | 28 | 1.5 | 30 | 0.5 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| Rash c | 25 | 2.0 | 17 | 2.5 |
+| Rash c | 25 | 2 | 17 | 2.5 |
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
 | Cough | 21 | 0 | 28 | 0 |
 | Dyspnea | 21 | 3.7 | 26 | 5 |
@@ -72,9 +72,9 @@ Table 3: Laboratory Abnormalities Worsened from Baseline in ≥20% of Patients i
 | Chemistry |  |  |  |  |
 | Hyperglycemia | 63 | 9 | 60 | 7 |
 | Increased ALT | 47 | 3.8 | 42 | 2.6 |
-| Increased AST | 47 | 2.8 | 40 | 1.0 |
+| Increased AST | 47 | 2.8 | 40 | 1 |
 | Hypoalbuminemia | 39 | 2.8 | 39 | 1.1 |
-| Increased creatinine | 37 | 4.2 | 25 | 1.0 |
+| Increased creatinine | 37 | 4.2 | 25 | 1 |
 | Hyponatremia | 32 | 7 | 23 | 6 |
 | Hypophosphatemia | 30 | 10 | 28 | 14 |
 | Increased alkaline phosphatase | 26 | 1.8 | 29 | 2.1 |
@@ -138,7 +138,7 @@ Table 4: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Pati
 | Alopecia | 12 | 0 | 21 | 1 |
 | Rash/Desquamation | 7 | 0 | 8 | 1 |
 
-a NCI CTCAE version 2.0.
+a NCI CTCAE version 2.
 
 The following additional adverse reactions of pemetrexed were observed.
 
@@ -201,7 +201,7 @@ Table 5: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed i
 | Dermatology/Skin |  |  |  |  |
 | Rash/desquamation | 10 | 0 | 3 | 0 |
 
-a NCI CTCAE version 3.0
+a NCI CTCAE version 3.
 
 The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell transfusions, and for erythropoiesis stimulating agents (5.9% versus 1.8%) were higher in the pemetrexed arm compared to the placebo arm.
 
@@ -268,7 +268,7 @@ Table 6: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed i
 | General disorders |  |  |  |  |
 | Edema | 5 | 0 | 3.6 | 0 |
 
-a NCI CTCAE version 3.0
+a NCI CTCAE version 3.
 
 The requirement for red blood cell (13% versus 4.8%) and platelet (1.5% versus 0.6%) transfusions, erythropoiesis stimulating agents (12% versus 7%), and granulocyte colony stimulating factors (6% versus 0%) were higher in the pemetrexed arm compared to the placebo arm.
 
@@ -338,7 +338,7 @@ Table 7: Adverse Reactions Occurring in ≥5% of Fully Supplemented Patients Rec
 | Pruritus | 7 | 0 | 2 | 0 |
 | Alopecia | 6 | 1 | 38 | 2 |
 
-a NCI CTCAE version 2.0.
+a NCI CTCAE version 2.
 
 The following additional adverse reactions were observed in patients assigned to receive pemetrexed.
 
@@ -365,7 +365,7 @@ Study JMCH excluded patients with Karnofsky Performance Scale (KPS) of less than
 Patients unable to stop using aspirin or other non-steroidal anti-inflammatory drugs were also excluded from the study.
 
 The data described below reflect exposure to pemetrexed in 168 patients that were fully supplemented with folic acid and vitamin B 12.
-Median age was 60 years (range 19 to 85 years); 82% were men; 92% were White, 5% were Hispanic or Latino, 3.0% were Asian, and <1% were other ethnicities; 54% had KPS of 90-100.
+Median age was 60 years (range 19 to 85 years); 82% were men; 92% were White, 5% were Hispanic or Latino, 3 % were Asian, and <1% were other ethnicities; 54% had KPS of 90 to100.
 The median number of treatment cycles administered was 6 in the pemetrexed/cisplatin fully supplemented group and 2 in the pemetrexed/cisplatin never supplemented group.
 Patients receiving pemetrexed in the fully supplemented group had a relative dose intensity of 93% of the protocol-specified pemetrexed dose intensity.
 The most common adverse reaction resulting in dose delay was neutropenia.
@@ -411,7 +411,7 @@ Table 8: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of 
 a In Study JMCH, 226 patients received at least one dose of pemetrexed in combination with cisplatin and 222 patients received at least one dose of cisplatin.
 Table 8 provides the ADRs for subgroup of patients treated with pemetrexed in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B 12 during study therapy.
 
-b NCI CTCAE version 2.0
+b NCI CTCAE version 2.
 
 The following additional adverse reactions were observed in patients receiving pemetrexed plus cisplatin:
 
@@ -443,7 +443,7 @@ Table 9: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions O
 | Infection with Grade 3/4 neutropenia | 0 | 6 |
 | Diarrhea | 4 | 9 |
 
-a NCI CTCAE version 2.0
+a NCI CTCAE version 2.
 
 The following adverse reactions occurred more frequently in patients who were fully vitamin supplemented than in patients who were never supplemented:
 

@@ -38,7 +38,7 @@ Table 10: Efficacy Results of KEYNOTE-189
 | Hazard ratio a (95% CI) | 0.49 (0.38, 0.64) |  |
 | p-value b | <0.0001 |  |
 | PFS |  |  |
-| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Number of patients with event (%) | 245 (60%) | 166 (81%) |
 | Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
 | Hazard ratio a (95% CI) | 0.52 (0.43, 0.64) |  |
 | p-value b | <0.0001 |  |
@@ -48,7 +48,7 @@ Table 10: Efficacy Results of KEYNOTE-189
 | Partial response | 47% | 18% |
 | p-value d | <0.0001 |  |
 | Duration of Response |  |  |
-| Median in months (range) | 11.2 (1.1+, 18.0+) | 7.8 (2.1+, 16.4+) |
+| Median in months (range) | 11.2 (1.1+, 18 +) | 7.8 (2.1+, 16.4+) |
 
 a Based on the stratified Cox proportional hazard model.
 
@@ -59,11 +59,15 @@ c Response: Best objective response as confirmed complete response or partial re
 d Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status.
 NR = not reached
 
-A+P+C = pemetrexed + pembrolizumab + platinum chemotherapy.
+At the protocol specified final OS analysis, the median in the pemetrexed in combination with pembrolizumab and platinum chemotherapy arm was 22 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
 
-A+C = pemetrexed + platinum chemotherapy + placebo.
+P+P+C = pemetrexed + pembrolizumab + platinum chemotherapy.
+
+P+C = pemetrexed + platinum chemotherapy + placebo.
 
 Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189
+
+*Based on the protocol-specified final OS analysis
 
 Initial Treatment in Combination with Cisplatin
 
@@ -110,20 +114,20 @@ Table 12: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
 | Histologic Subgroups | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
 | Non-squamous NSCLC (N=1252) |  |  |
-| Median (months) (95% CI) | 11.0 (10.1-12.5) | 10.1 (9.3-10.9) |
+| Median (months) (95% CI) | 11 (10.1-12.5) | 10.1 (9.3-10.9) |
 | HR a,b (95% CI) | 0.84 (0.74-0.96) |  |
 | Adenocarcinoma (N=847) |  |  |
 | Median (months) (95% CI) | 12.6 (10.7-13.6) | 10.9 (10.2-11.9) |
 | HR a,b (95% CI) | 0.84 (0.71-0.99) |  |
 | Large Cell (N=153) |  |  |
-| Median (months) (95% CI) | 10.4 (8.6-14.1) | 6.7 (5.5-9.0) |
+| Median (months) (95% CI) | 10.4 (8.6-14.1) | 6.7 (5.5-9) |
 | HR a,b (95% CI) | 0.67 (0.48-0.96) |  |
 | Non-squamous, not otherwise specified (N=252) |  |  |
 | Median (months) (95% CI) | 8.6 (6.8-10.2) | 9.2 (8.1-10.6) |
 | HR a,b (95% CI) | 1.08 (0.81-1.45) |  |
 | Squamous Cell (N=473) |  |  |
 | Median (months) (95% CI) | 9.4 (8.4-10.2) | 10.8 (9.5-12.1) |
-| HR a,b (95% CI) | 1.23 (1.00-1.51) |  |
+| HR a,b (95% CI) | 1.23 (1-1.51) |  |
 
 a Unadjusted for multiple comparisons.
 
@@ -154,11 +158,11 @@ Table 13: Efficacy Results in Study JMEN
 | Efficacy Parameter | Pemetrexed | Placebo |
 | --- | --- | --- |
 | Overall survival | N=441 | N=222 |
-| Median (months) (95% CI) | 13.4 (11.9-15.9) | 10.6 (8.7-12.0) |
+| Median (months) (95% CI) | 13.4 (11.9-15.9) | 10.6 (8.7-12) |
 | Hazard ratio a (95% CI) | 0.79 (0.65-0.95) |  |
 | p-value | p=0.012 |  |
 | Progression-free survival per independent review | N=387 | N=194 |
-| Median (months) (95% CI) | 4.0 (3.1-4.4) | 2.0 (1.5-2.8) |
+| Median (months) (95% CI) | 4 (3.1-4.4) | 2 (1.5-2.8) |
 | Hazard ratio a (95% CI) | 0.60 (0.49-0.73) |  |
 | p-value | p<0.00001 |  |
 
@@ -175,19 +179,19 @@ Table 14: Efficacy Results in Study JMEN by Histologic Subgroup
 | Pemetrexed (N=441) | Placebo (N=222) | Pemetrexed (N=387) | Placebo (N=194) |  |
 | Non-squamous NSCLC (n=481) |  |  |  |  |
 | Median (months) | 15.5 | 10.3 | 4.4 | 1.8 |
-| HR a (95% CI) | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |
+| HR a (95% CI) | 0.7 (0.56-0.88) |  | 0.47 (0.37-0.6) |  |
 | Adenocarcinoma (n=328) |  |  |  |  |
 | Median (months) | 16.8 | 11.5 | 4.6 | 2.7 |
 | HR a (95% CI) | 0.73 (0.56-0.96) |  | 0.51 (0.38-0.68) |  |
 | Large cell carcinoma (n=20) |  |  |  |  |
 | Median (months) | 8.4 | 7.9 | 4.5 | 1.5 |
-| HR a (95% CI) | 0.98 (0.36-2.65) |  | 0.40 (0.12-1.29) |  |
+| HR a (95% CI) | 0.98 (0.36-2.65) |  | 0.4 (0.12-1.29) |  |
 | Other b (n=133) |  |  |  |  |
 | Median (months) | 11.3 | 7.7 | 4.1 | 1.6 |
-| HR a (95% CI) | 0.61 (0.40-0.94) |  | 0.44 (0.28-0.68) |  |
+| HR a (95% CI) | 0.61 (0.4-0.94) |  | 0.44 (0.28-0.68) |  |
 | Squamous cell NSCLC (n=182) |  |  |  |  |
 | Median (months) | 9.9 | 10.8 | 2.4 | 2.5 |
-| HR a (95% CI) | 1.07 (0.77-1.50) |  | 1.03 (0.71-1.49) |  |
+| HR a (95% CI) | 1.07 (0.77-1.5) |  | 1.03 (0.71-1.49) |  |
 
 a Hazard ratios are not adjusted for multiplicity
 
@@ -217,7 +221,7 @@ Table 15: Efficacy Results in PARAMOUNT
 | Efficacy Parameter | Pemetrexed (N=359) | Placebo (N=180) |
 | --- | --- | --- |
 | Overall survival |  |  |
-| Median (months) (95% CI) | 13.9 (12.8-16.0) | 11.0 (10.0-12.5) |
+| Median (months) (95% CI) | 13.9 (12.8-16.) | 11 (10 -12.5) |
 | Hazard ratio (HR) a (95% CI) | 0.78 (0.64-0.96) |  |
 | p-value | p=0.02 |  |
 | Progression-free survival b |  |  |
@@ -251,7 +255,7 @@ Table 16: Efficacy Results in Study JMEI
 | Efficacy Parameter | Pemetrexed (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
 | Overall survival |  |  |
-| Median (months) (95% CI) | 8.3 (7.0-9.4) | 7.9 (6.3-9.2) |
+| Median (months) (95% CI) | 8.3 (7-9.4) | 7.9 (6.3-9.2) |
 | Hazard ratio a (95% CI) | 0.99 (0.82-1.20) |  |
 | Progression-free survival |  |  |
 | Median (months) (95% CI) | 2.9 (2.4-3.1) | 2.9 (2.7-3.4) |
@@ -265,19 +269,19 @@ Table 17: Exploratory Efficacy Analyses by Histologic Subgroup in Study JMEI
 | Histologic Subgroups | Pemetrexed (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
 | Non-squamous NSCLC (N=399) |  |  |
-| Median (months) (95% CI) | 9.3 (7.8-9.7) | 8.0 (6.3-9.3) |
+| Median (months) (95% CI) | 9.3 (7.8-9.7) | 8 (6.3-9.3) |
 | HR a (95% CI) | 0.89 (0.71-1.13) |  |
 | Adenocarcinoma (N=301) |  |  |
-| Median (months) (95% CI) | 9.0 (7.6-9.6) | 9.2 (7.5-11.3) |
+| Median (months) (95% CI) | 9 (7.6-9.6) | 9.2 (7.5-11.3) |
 | HR a (95% CI) | 1.09 (0.83-1.44) |  |
 | Large Cell (N=47) |  |  |
-| Median (months) (95% CI) | 12.8 (5.8-14.0) | 4.5 (2.3-9.1) |
+| Median (months) (95% CI) | 12.8 (5.8-14) | 4.5 (2.3-9.1) |
 | HR a (95% CI) | 0.38 (0.18-0.78) |  |
 | Other b (N=51) |  |  |
-| Median (months) (95% CI) | 9.4 (6.0-10.1) | 7.9 (4.0-8.9) |
+| Median (months) (95% CI) | 9.4 (6 -10.1) | 7.9 (4 -8.9) |
 | HR a (95% CI) | 0.62 (0.32-1.23) |  |
 | Squamous NSCLC (N=172) |  |  |
-| Median (months) (95% CI) | 6.2 (4.9-8.0) | 7.4 (5.6-9.5) |
+| Median (months) (95% CI) | 6.2 (4.9-8) | 7.4 (5.6-9.5) |
 | HR a (95% CI) | 1.32 (0.93-1.86) |  |
 
 a Hazard ratio unadjusted for multiple comparisons.
@@ -294,7 +298,7 @@ The major efficacy outcome measure was overall survival and additional efficacy 
 
 A total of 448 patients received at least one dose of protocol-specified therapy; 226 patients were randomized to and received at least one dose of pemetrexed plus cisplatin, and 222 patients were randomized to and received cisplatin.
 Among the 226 patients who received cisplatin with pemetrexed, 74% received full supplementation with folic acid and vitamin B 12 during study therapy, 14% were never supplemented, and 12% were partially supplemented.
-Across the study population, the median age was 61 years (range: 20 to 86 years); 81% were male; 92% were White, 5% were Hispanic or Latino, 3.1% were Asian, and <1% were other ethnicities; and 54% had a baseline KPS score of 90-100% and 46% had a KPS score of 70-80%.
+Across the study population, the median age was 61 years (range: 20 to 86 years); 81% were male; 92% were White, 5% were Hispanic or Latino, 3.1% were Asian, and <1% were other ethnicities; and 54% had a baseline KPS score of 90 to100% and 46% had a KPS score of 70 to 80%.
 With regard to tumor characteristics, 46% had Stage IV disease, 31% Stage III, 15% Stage II, and 7% Stage I disease at baseline; the histologic subtype of mesothelioma was epithelial in 68% of patients, mixed in 16%, sarcomatoid in 10% and other histologic subtypes in 6%.
 The baseline demographics and tumor characteristics of the subgroup of fully supplemented patients was similar to the overall study population.
 
@@ -305,10 +309,10 @@ Table 18: Efficacy Results in Study JMCH
 | Efficacy Parameter | All Randomized and Treated Patients (N=448) |  | Fully Supplemented Patients (N=331) |  |
 | --- | --- | --- | --- | --- |
 | Pemetrexed /Cisplatin (N=226) | Cisplatin (N=222) | Pemetrexed /Cisplatin (N=168) | Cisplatin (N=163) |  |
-| Median overall survival (months) | 12.1 | 9.3 | 13.3 | 10.0 |
-| (95% CI) | (10.0-14.4) | (7.8-10.7) | (11.4-14.9) | (8.4-11.9) |
+| Median overall survival (months) | 12.1 | 9.3 | 13.3 | 10 |
+| (95% CI) | (10 -14.4) | (7.8-10.7) | (11.4-14.9) | (8.4-11.9) |
 | Hazard ratio a | 0.77 |  | 0.75 |  |
-| Log rank p-value | 0.020 |  | NA b |  |
+| Log rank p-value | 0.02 |  | NA b |  |
 
 a Hazard ratios are not adjusted for stratification variables.
 

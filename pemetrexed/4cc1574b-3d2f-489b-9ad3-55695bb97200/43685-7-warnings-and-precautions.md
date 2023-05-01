@@ -50,6 +50,6 @@ If concomitant ibuprofen use cannot be avoided, monitor patients more frequently
 
 Based on findings from animal studies and its mechanism of action, pemetrexed can cause fetal harm when administered to a pregnant woman.
 In animal reproduction studies, intravenous administration of pemetrexed to pregnant mice during the period of organogenesis was teratogenic, resulting in developmental delays and increased malformations at doses lower than the recommended human dose of 500 mg/m 2.
-Advise pregnant women of the potential risk to the fetus.
-Advise females of reproductive potential to use effective contraception during treatment with pemetrexed and for 6 months after the final dose.
+Advise pregnant women of the potential risk to a fetus.
+Advise females of reproductive potential to use effective contraception during treatment with pemetrexed and for 6 months after the last dose.
 Advise males with female partners of reproductive potential to use effective contraception during treatment with pemetrexed and for 3 months after the final dose [see Use in Specific Populations (8.1, 8.3) and Clinical Pharmacology (12.1)].
