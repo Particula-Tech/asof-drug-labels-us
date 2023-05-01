@@ -22,4 +22,4 @@ Reactions from Accidental Injection and/or Improper Technique
 
 Skin and Soft Tissue Infections
 
-- •Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia(gas gangrene), have been reported following epinephrine injection, including epinephrine injection, USP auto-injector, in the thigh [see Warnings and Precautions (5.3)].
+- •Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported following epinephrine injection, including epinephrine injection, USP auto-injector, in the thigh [see Warnings and Precautions (5.3)].

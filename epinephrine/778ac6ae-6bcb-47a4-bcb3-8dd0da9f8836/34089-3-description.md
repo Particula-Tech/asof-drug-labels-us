@@ -6,9 +6,6 @@ Each epinephrine injection, USP auto-injector, 0.3 mg delivers a single dose of 
 
 Each epinephrine injection, USP auto-injector, 0.15 mg delivers a single dose of 0.15 mg epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL in a sterile solution.
 
-The epinephrine injection, USP auto-injector contains 2 mL epinephrine solution.
-Approximately 1.7 mL remains in the auto-injector after activation, but is not available for future use, and should be discarded.
-
 Each 0.3 mL in the epinephrine injection, USP auto-injector, 0.3 mg contains 0.3 mg epinephrine, 1.8 mg sodium chloride, 0.5 mg sodium metabisulfite, hydrochloric acid to adjust pH, and Water for Injection.
 The pH range is 2.2-5.0.
 

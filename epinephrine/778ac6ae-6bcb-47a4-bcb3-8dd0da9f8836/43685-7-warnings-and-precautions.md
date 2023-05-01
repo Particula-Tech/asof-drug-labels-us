@@ -3,7 +3,8 @@
 ## 5.1 Emergency Treatment
 
 Epinephrine injection, USP auto-injectors are intended for immediate administration as emergency supportive therapy and are not intended as a substitute for immediate medical care.
-In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care.More than two sequential doses of epinephrine should only be administered under direct medical supervision [see Indications and Usage (1), Dosage and Administration (2) and Patient Counseling Information (17)].
+In conjunction with the administration of epinephrine, the patient should seek immediate medical or hospital care.
+More than two sequential doses of epinephrine should only be administered under direct medical supervision [see Indications and Usage (1), Dosage and Administration (2) and Patient Counseling Information (17)].
 
 ## 5.2 Injection-Related Complications
 

@@ -2,94 +2,77 @@
 
 NDC 49502-102-02 Rx only
 
-For Allergic Emergencies (Anaphylaxis)
-
-Epinephrine Injection, USP Single-Dose Auto-Injectors 0.3 mg
+Epinephrine Injection, USP Single-Dose Auto-Injectors 0.3 mg For Allergic Emergencies (Anaphylaxis)
 
 Each carton contains:
 
-The Epinephrine Injection, USP Auto-Injector and Trainer are not toys and should be used under adult supervision.
+Two Epinephrine Injection, USP auto-injectors in protective cases
 
-Authorized generic for EpiPen® Auto-Injector
+Patient Information Leaflet & Trainer Instructions for Use
 
-For more information about your Epinephrine Injection, USP Auto-Injectors visit www.epipen.com
+One gray Trainer
 
-See enclosed Patient Information Leaflet for complete instructions for use.
-
-Note: The needle comes out of the orange tip.
-Never put your thumb, fingers or hand over the orange tip.
-
-Never put thumb, fingers or hand over orange tip.
-Do not remove blue safety release until ready to use.
-
-Contains 2 Epinephrine Injection, USP Auto-Injectors and 1 Trainer.
-Each Epinephrine Injection, USP Auto-Injector delivers one 0.3 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.3 mg/0.3 mL.
+Never put thumb, fingers or hand over orange needle end.
+Do not remove blue safety top until ready to use.
+Contains 2 Epinephrine Injection, USP auto-injectors and 1 Trainer.
+Each Epinephrine Injection, USP auto-injector delivers one 0.3 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.3 mg/0.3 mL.
 Each 0.3 mL also contains 1.8 mg sodium chloride and 0.5 mg sodium metabisulfite.
-
 Discard unit after use.
 The Trainer contains no medicine and no needle.
-Read enclosed patient package insert carefully before using.
-
+Read enclosed Patient Information Lea‑et carefully before using.
 Usual dosage: See insert.
 
 Replace if discolored.
 Store at 68° to 77°F (20° to 25°C).
-Do not refrigerate.
-Protect from light.
-
-Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company.
+Do not refrigerate or freeze.
+Protect from heat and light.
 
 EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
 
-Copyright© 2020 Meridian Medical Technologies.
+Mfd. for Mylan Specialty L.P., Morgantown, WV 26505, USA by Meridian Medical Technologies, LLC St. Louis, MO 63146, USA Copyright© 2020 Meridian Medical Technologies.
 All rights reserved.
-
-0002166 MS:10202:2C:R6
 
 # PRINCIPAL DISPLAY PANEL – 0.15 mg
 
 NDC 49502-101-02 Rx only
 
-For Allergic Emergencies (Anaphylaxis)
+Epinephrine Injection, USP Single-Dose Auto-Injectors 0.15 mg For Allergic Emergencies (Anaphylaxis)
 
-Epinephrine Injection, USP Single-Dose Auto-Injectors 0.15 mg
+This carton contains:
 
-Each carton contains:
+Two Epinephrine Injection, USP auto-injectors in protective cases
 
-The Epinephrine Injection, USP Auto-Injector and Trainer are not toys and should be used under adult supervision.
+Patient Information Leaflet & Trainer Instructions for Use
 
-Authorized generic for EpiPen Jr® Auto-Injector
+One gray Trainer
 
-For more information about your Epinephrine Injection, USP Auto-Injectors visit www.epipen.com
+The Epinephrine Injection, USP auto-injector and Trainer are not toys and should be used under adult supervision.
 
-See enclosed Patient Information Leaflet for complete instructions for use.
-
-Note: The needle comes out of the orange tip.
-Never put your thumb, fingers or hand over the orange tip.
-
-Never put thumb, fingers or hand over orange tip.
-Do not remove blue safety release until ready to use.
-
-Contains 2 Epinephrine Injection, USP Auto-Injectors and 1 Trainer.
-Each Epinephrine Injection, USP Auto-Injector delivers one 0.15 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL.
+Never put thumb, fingers or hand over orange needle end.
+Do not remove blue safety top until ready to use.
+Contains 2 Epinephrine Injection, USP auto-injectors and 1 Trainer.
+Each Epinephrine Injection, USP auto-injector delivers one 0.15 mg intramuscular dose of epinephrine from epinephrine injection, USP 0.15 mg/0.3 mL.
 Each 0.3 mL also contains 1.8 mg sodium chloride and 0.5 mg sodium metabisulfite.
-
 Discard unit after use.
 The Trainer contains no medicine and no needle.
-Read enclosed patient package insert carefully before using.
-
+Read enclosed Patient Information Lea‑et carefully before using.
 Usual dosage: See insert.
+
+Mfd. for Mylan Specialty L.P., Morgantown, WV 26505, USA
+
+by Meridian Medical Technologies, LLC
+
+St. Louis, MO 63146, USA
+
+Copyright © 2022 Meridian Medical Technologies.
+All rights reserved.
 
 Replace if discolored.
 Store at 68° to 77°F (20° to 25°C).
-Do not refrigerate.
-Protect from light.
-
-Manufactured for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medical Technologies, Inc., Columbia, MD 21046, USA, a Pfizer company.
+Do not refrigerate or freeze.
+Protect from heat and light.
 
 EpiPen® or EpiPen Jr® are registered trademarks of Mylan Inc., a Viatris Company.
 
-Copyright© 2020 Meridian Medical Technologies.
+Mfd. for Mylan Specialty L.P., Morgantown, WV 26505 USA by Meridian Medical Technologies, LLC St. Louis, MO 63146 USA Copyright© 2020 Meridian Medical Technologies.
 All rights reserved.
-
-0002167 MS:10102:2C:R6

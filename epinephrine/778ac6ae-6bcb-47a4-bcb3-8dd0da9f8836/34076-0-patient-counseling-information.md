@@ -68,9 +68,13 @@ Inform patients that they can visit the FDA website for additional information o
 
 Complete patient information, including dosage, directions for proper administration and precautions can be found inside each epinephrine injection, USP auto-injector carton.
 
-Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, Inc., Columbia, MD 21046, U.S.A., a Pfizer company
+Manufactured for Mylan Specialty L.P., Morgantown, WV 26505, U.S.A. by Meridian Medical Technologies, LLC, St. Louis, MO 63146, U.S.A.
 
-Copyright © 2020 Meridian Medical Technologies.
+Copyright © 2022 Meridian Medical Technologies.
 All rights reserved.
 
-Revised: 12/2020 MS:EPIG:R6 0002141
+Revised: 02/2023
+
+MS:EPIG:R7
+
+0002200
