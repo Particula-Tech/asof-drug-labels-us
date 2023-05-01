@@ -35,5 +35,5 @@ Distributed by: Lannett Company, Inc. Philadelphia, PA 19136
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/omeprazole
 
-CIA74312V Rev.
-02/2022
+CIA74312W Rev.
+04/2023

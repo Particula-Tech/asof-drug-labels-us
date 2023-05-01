@@ -16,5 +16,5 @@
 
 This Medication Guide and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-CIA77775S Rev.
-02/2022
+CIA77775T Rev.
+04/2023
