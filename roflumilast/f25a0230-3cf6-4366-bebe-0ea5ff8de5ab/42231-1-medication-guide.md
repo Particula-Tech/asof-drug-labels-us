@@ -18,7 +18,7 @@ You should check your weight on a regular basis.
 You will also need to see your healthcare provider regularly to have your weight checked.
 If you notice that you are losing weight, call your healthcare provider.
 Your healthcare provider may ask you to stop taking roflumilast tablets if you lose too much weight.
-Roflumilast tablets may affect the way other medicines work, and other medicines may affect how roflumilast tablets works.
+Roflumilast tablets may affect the way other medicines work, and other medicines may affect how roflumilast tablets work.
 Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 What is roflumilast tablet?
@@ -48,7 +48,7 @@ These are not all the possible side effects of roflumilast tablets.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How do I store Roflumilast Tablets? • Store roflumilast 500 mcg tablets at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+How do I store Roflumilast Tablets? • Store roflumilast tablets at 68° to 77°F (20° to 25°C).
 Keep roflumilast tablets and all medicines out of the reach of children.
 
 General information about roflumilast tablets Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
@@ -62,10 +62,10 @@ You can ask your healthcare provider or pharmacist for information about roflumi
 For more information about roflumilast tablets call 1-866-495-1995.
 
 What are the ingredients in roflumilast tablets?
-Active ingredient: roflumilast Inactive ingredients:colloidal silicon dioxide, magnesium stearate, mannitol, methylene chloride and microcrystalline cellulose.
+Active ingredient: roflumilast Inactive ingredients: colloidal silicon dioxide, magnesium stearate, mannitol, and microcrystalline cellulose.
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Medication Guide available at http://camberpharma.com/medication-guides Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854.
 
 By: HETERO TM HETERO LABS LIMITED Jeedimetla, Hyderabad – 500 055, India
 
-Revised: 08/2022
+Revised: 03/2023

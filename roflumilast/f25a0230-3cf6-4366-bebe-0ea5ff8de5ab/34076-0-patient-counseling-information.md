@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide). • Bronchospasm Roflumilast tablet are not a bronchodilator and should not be used for immediate relief of breathing problems (i.e., as a rescue medication). • Psychiatric Events including Suicidality Treatment with roflumilast tablets is associated with an increase in psychiatric adverse reactions.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide). • Bronchospasm Roflumilast tablet is not a bronchodilator and should not be used for immediate relief of breathing problems (i.e., as a rescue medication). • Psychiatric Events including Suicidality Treatment with roflumilast tablets is associated with an increase in psychiatric adverse reactions.
 Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
 The risks and benefits of treatment with roflumilast tablets in patients with a history of depression and/or suicidal thoughts or behavior should be carefully considered.
 Advise patients, caregivers, and families to be alert for the emergence or worsening of insomnia, anxiety, depression, suicidal thoughts or other mood changes, and if such changes occur to contact their healthcare provider so that the risks and benefits of continuing treatment with roflumilast tablets may be considered [see Warnings and Precautions (5.2)]. • Weight Decrease Weight loss was a common adverse reaction in roflumilast tablets clinical trials.
@@ -15,4 +15,4 @@ By: HETERO TM HETERO LABS LIMITED Jeedimetla, Hyderabad – 500 055,
 
 India
 
-Revised: 08/2022
+Revised: 03/2023
