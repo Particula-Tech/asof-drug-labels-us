@@ -64,8 +64,7 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
-[see Warnings and Precautions (5.1, 5.7), Patient Counseling Information (17)].
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.1, 5.7), Patient Counseling Information (17)].
 
 ## 5.4 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 

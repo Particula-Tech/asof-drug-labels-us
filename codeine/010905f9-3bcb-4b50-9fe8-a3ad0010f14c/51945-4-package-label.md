@@ -1,17 +1,17 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL – 15 mg Tablet, Unit-Dose Carton
 
-Codeine Sulfate Tablets USP, 15 mg
+NDC 0054-0243-24 10x10 Unit-Dose Tablets
 
-0054-0243-24, Rx only
+Codeine Sulfate Tablets, USP CII 15 mg Rx only
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL – 30 mg Bottle Label
 
-Codeine Sulfate Tablets USP, 30 mg
+NDC 0054-0244-25 100 Tablets
 
-0054-0244-25, Rx only
+Codeine Sulfate Tablets, USP CII 30 mg Rx only
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+# PACKAGE/LABEL – 60 mg Bottle Label
 
-Codeine Sulfate Tablets USP, 60 mg
+NDC 0054-0245-25 100 Tablets
 
-0054-0245-25, Rx only
+Codeine Sulfate Tablets, USP CII 60 mg Rx only

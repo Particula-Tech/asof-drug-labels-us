@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Codeine Sulfate Tablets USP
+Codeine Sulfate Tablets, USP
 
 15 mg tablet:supplied as white to off-white biconvex tablets with “15” debossed on the scored side and “54 613” debossed on the other side.
 
