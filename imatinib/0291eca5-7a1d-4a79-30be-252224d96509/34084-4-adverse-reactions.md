@@ -41,7 +41,7 @@ Table 2: Adverse Reactions Regardless of Relationship to Study Drug Reported in 
 
 | Preferred Term | N = 551 (%) | N = 533 (%) | N = 551 (%) | N = 533 (%) |
 | --- | --- | --- | --- | --- |
-|  | All Grades |  | CTC Grades 3/4 |  |
+|  | All Grades |  | CTC* Grades 3/4 |  |
 |  | Imatinib mesylate | IFN+Ara−C | Imatinib mesylate | IFN+Ara−C |
 | Fluid retention | 61.7 | 11.1 | 2.5 | 0.9 |
 | − Superficial edema | 59.9 | 9.6 | 1.5 | 0.4 |
@@ -121,7 +121,7 @@ Abbreviation: Ph+ CML-CP, Philadelphia chromosome positive chronic myeloid leuke
 
 aExcluding laboratory abnormalities.
 
-bNCI Common Terminology Criteria for Adverse Events, version 3.
+bNCI Common Terminology Criteria for Adverse Events, version 3.0.
 
 Table 4: Adverse Reactions Regardless of Relationship to Study Drug Reported in Other CML Clinical Trials (greater than or equal to 10% of all patients in any trial)(1)
 
@@ -191,7 +191,7 @@ Table 5: Laboratory Abnormalities in Newly Diagnosed CML Clinical Trial (Imatini
 
 | Hematology Parameters* |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Imatinib MesylateN = 551 % |  | IFN+Ara−CN = 533% |  |
+|  | Imatinib Mesylate N = 551 % |  | IFN+Ara−C N = 533% |  |
 | CTC Grades | Grade 3 | Grade 4 | Grade 3 | Grade 4 |
 | − Neutropenia* | 13.1 | 3.6 | 20.8 | 4.5 |
 | − Thrombocytopenia* | 8.5 | 0.4 | 15.9 | 0.6 |
@@ -229,7 +229,7 @@ Table 6: Percent Incidence of Clinically Relevant Grade 3/4* Laboratory Abnormal
 
 Abbreviations: CML, chronic myeloid leukemia; SGOT, serum glutamic-oxaloacetic transaminase is now referred to as aspartate aminotransferase (AST); SGPT, serum glutamic-pyruvic transaminase is now referred to as alanine aminotransferase (ALT).
 
-*NCI Common Terminology Criteria for Adverse Events, version 3.0
+*NCI Common Terminology Criteria for Adverse Events, version 3.0.
 
 Table 7: Laboratory Abnormalities in Other CML Clinical Trials
 
@@ -252,7 +252,9 @@ Abbreviations: CML, chronic myeloid leukemia; CTC, common terminology criteria; 
 
 1CTC Grades: neutropenia (Grade 3 greater than or equal to 0.5 to 1.0 x 109/L, Grade 4 less than 0.5 x 109/L), thrombocytopenia (Grade 3 greater than or equal to 10 to 50 x 109/L, Grade 4 less than 10 x 109/L), anemia (hemoglobin greater than or equal to 65 to 80 g/L, Grade 4 less than 65 g/L), elevated creatinine (Grade 3 greater than 3 to 6 x upper limit normal range [ULN], Grade 4 greater than 6 x ULN), elevated bilirubin (Grade 3 greater than 3 to 10 x ULN, Grade 4 greater than 10 x ULN), elevated alkaline phosphatase (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN), elevated SGOT or SGPT (Grade 3 greater than 5 to 20 x ULN, Grade 4 greater than 20 x ULN).
 
-Hepatotoxicity Severe elevation of transaminases or bilirubin occurred in approximately 5% of CML patients (see Tables 6 and 7) and were usually managed with dose reduction or interruption (the median duration of these episodes was approximately 1 week).
+Hepatotoxicity
+
+Severe elevation of transaminases or bilirubin occurred in approximately 5% of CML patients (see Tables 6 and 7) and were usually managed with dose reduction or interruption (the median duration of these episodes was approximately 1 week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1.0% of CML patients.
 One patient, who was taking acetaminophen regularly for fever, died of acute liver failure.
 In the Phase 2 GIST trial, Grade 3 or 4 SGPT (ALT) elevations were observed in 6.8% of patients and Grade 3 or 4 SGOT (AST) elevations were observed in 4.8% of patients.
@@ -282,7 +284,7 @@ The adverse events that were reported with a 5% or greater incidence in patients
 
 Table 8: Adverse Reactions Reported More Frequently in Patients Treated With Study Drug (greater than 5%) or in Cycles With Study Drug (greater than 1%)
 
-| Adverse EventGrade 3 and 4 Adverse Events | Per PatientIncidencePh+ ALL with Imatinib Mesylate TabletsN = 92n (%) | Per PatientIncidencePh- ALL No Imatinib Mesylate TabletsN = 65n (%) | Per PatientPer CycleIncidence with Imatinib Mesylate TabletsN = 778n (%) | Per PatientPer CycleIncidence No Imatinib Mesylate TabletsN = 647n (%) |
+| Adverse EventGrade 3 and 4 Adverse Events | Per PatientIncidencePh+ ALL with Imatinib Mesylate Tablets N = 92n (%) | Per PatientIncidencePh- ALL No Imatinib Mesylate Tablets N = 65n (%) | Per PatientPer CycleIncidence with Imatinib Mesylate Tablets* N = 778n (%) | Per PatientPer CycleIncidence No Imatinib Mesylate Tablets** N = 647n (%) |
 | --- | --- | --- | --- | --- |
 | Nausea and/or Vomiting | 15 (16) | 6 (9) | 28 (4) | 8 (1) |
 | Hypokalemia | 31 (34) | 16 (25) | 72 (9) | 32 (5) |
@@ -303,7 +305,9 @@ Table 8: Adverse Reactions Reported More Frequently in Patients Treated With Stu
 | Neutropenia (< 750/mcL) | 92 (100) | 63 (97) | 556 (71) | 218 (34) |
 | Thrombocytopenia (< 75,000/mcL) | 90 (92) | 63 (97) | 431 (55) | 329 (51) |
 
-Abbreviations: Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; Ph- ALL, Philadelphia chromosome negative acute lymphoblastic leukemia. *Defined as the frequency of adverse events (AEs) per patient per treatment cycles that included imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles with imatinib mesylate tablets). **Defined as the frequency of AEs per patient per treatment cycles that did not include imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles without imatinib mesylate tablets as well as all patients with Ph- ALL who did not receive imatinib mesylate tablets in any treatment cycle).
+Abbreviations: Ph+ ALL, Philadelphia chromosome positive acute lymphoblastic leukemia; Ph- ALL, Philadelphia chromosome negative acute lymphoblastic leukemia. *Defined as the frequency of adverse events (AEs) per patient per treatment cycles that included imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles with imatinib mesylate tablets).
+
+**Defined as the frequency of AEs per patient per treatment cycles that did not include imatinib mesylate tablets (includes patients with Ph+ ALL that received cycles without imatinib mesylate tablets as well as all patients with Ph- ALL who did not receive imatinib mesylate tablets in any treatment cycle).
 
 Adverse Reactions in Other Subpopulations
 
@@ -393,7 +397,9 @@ Abbreviation: CTC, common terminology criteria.
 
 Gastrointestinal Stromal Tumors
 
-Unresectable and/or Malignant Metastatic GIST In the Phase 3 trials, the majority of imatinib mesylate-treated patients experienced adverse reactions at some time.
+Unresectable and/or Malignant Metastatic GIST
+
+In the Phase 3 trials, the majority of imatinib mesylate-treated patients experienced adverse reactions at some time.
 The most frequently reported adverse reactions were edema, fatigue, nausea, abdominal pain, diarrhea, rash, vomiting, myalgia, anemia, and anorexia.
 Drug was discontinued for adverse reactions in a total of 89 patients (5.4%).
 Superficial edema, most frequently periorbital or lower extremity edema was managed with diuretics, other supportive measures, or by reducing the dose of imatinib mesylate [see Dosage and Administration (2.13)].
@@ -738,7 +744,7 @@ Blood and Lymphatic System Disorders: thrombotic microangiopathy
 
 Cardiac Disorders: pericarditis, cardiac tamponade1
 
-EyeDisorders: vitreous hemorrhage
+Eye Disorders: vitreous hemorrhage
 
 Gastrointestinal Disorders: ileus/intestinal obstruction, tumor hemorrhage/tumor necrosis, GI perforation1 [see Warnings and Precautions (5.6)], diverticulitis, gastric antral vascular ectasia
 
