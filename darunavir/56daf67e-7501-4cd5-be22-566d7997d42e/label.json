@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA202073"
+  ],
+  "inn": "darunavir",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-345-07",
+    "68180-346-06",
+    "68180-346-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "darunavir",
+      "name": "DARUNAVIR"
+    }
+  ],
+  "setid": "56daf67e-7501-4cd5-be22-566d7997d42e",
+  "source": "dailymed"
+}
