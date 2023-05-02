@@ -10,7 +10,7 @@ The chemical structure is:
 The drug substance is a white to off-white non-hygroscopic powder with a melting point of 160°C.
 It is practically insoluble in water and hexane, sparingly soluble in ethanol and freely soluble in acetone.
 
-Roflumilast tablets 500 mcg are supplied as white to off white colored, circular shaped, flat face, beveled edge, uncoated tablets, debossed with ‘0.5’ on one face and plain on other face.
-Each tablet contains 500 mcg of roflumilast.
+Roflumilast tablets are supplied as white to off white colored, round shaped, flat face, beveled edge, uncoated tablets, debossed with ‘0.25’ or ‘0.5’ on one face and plain on other face.
+Each tablet contains 250 mcg or 500 mcg of roflumilast.
 
-Each 500 mcg tablet of roflumilast for oral administration contains the following inactive ingredients: hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and maize starch.
+Each tablet of roflumilast for oral administration contains the following inactive ingredients: hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and maize starch.

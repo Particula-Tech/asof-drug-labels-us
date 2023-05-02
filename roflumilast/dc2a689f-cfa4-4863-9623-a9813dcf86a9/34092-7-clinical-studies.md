@@ -3,22 +3,28 @@
 ## 14.1 Chronic Obstructive Pulmonary Disease (COPD)
 
 The efficacy and safety of roflumilast in COPD was evaluated in 8 randomized, double-blind, controlled, parallel-group clinical trials in 9394 adult patients (4425 receiving roflumilast 500 mcg) 40 years of age and older with COPD.
-Of the 8 trials, two were placebo-controlled dose selection trials (Trials 1 and 2) of 6 months duration that evaluated the efficacy of roflumilast 250 mcg and 500 mcg once daily, four were placebo-controlled 1-year trials (Trials 3, 4, 5, and 6) primarily designed to evaluate the efficacy of roflumilast on COPD exacerbations, and two were 6-month efficacy trials (Trials 7 and 8) which assessed the effect of roflumilast as add-on therapy to a long-acting beta agonist or long-acting anti-muscarinic.
+Of the 8 trials, two were placebo-controlled dose selection trials (Trials 1 and 2) of 6 months’ duration that evaluated the efficacy of roflumilast 250 mcg and 500 mcg once daily, four were placebo-controlled 1-year trials (Trials 3, 4, 5, and 6) primarily designed to evaluate the efficacy of roflumilast on COPD exacerbations, and two were 6-month efficacy trials (Trials 7 and 8) which assessed the effect of roflumilast as add-on therapy to a long-acting beta agonist or long-acting anti-muscarinic.
 The 8 trials enrolled patients with nonreversible obstructive lung disease (FEV 1/FVC ≤ 70% and ≤ 12% or 200 mL improvement in FEV 1 in response to 4 puffs of albuterol/salbutamol) but the severity of airflow obstruction at baseline was different among the trials.
 Patients enrolled in the dose selection trials had the full range of COPD severity (FEV 1 30 to 80% predicted); median age of 63 years, 73% male, and 99% Caucasian.
-
 Patients enrolled in the four exacerbation trials had severe COPD (FEV 1 ≤ 50% predicted); median age of 64 years, 74% male, and 90% Caucasian.
+
 Patients enrolled in the two 6-month efficacy trials had moderate to severe COPD (FEV 1 40 to 70% predicted); median age of 65 years, 68% male, and 97% Caucasian.
 COPD exacerbations and lung function (FEV 1) were co-primary efficacy outcome measures in the four 1-year trials.
 In the two 6-month supportive efficacy trials, lung function (FEV 1) alone was the primary efficacy outcome measure.
 
 The two 6-month dose-selection efficacy trials (Trials 1 and 2) explored doses of 250 mcg and 500 mcg once daily in a total of 1929 patients (751 and 724 on roflumilast 250 and 500 mcg, respectively).
 The selection of the 500 mcg dose was primarily based on nominal improvements in lung function (FEV 1) over the 250 mcg dose.
-The once daily dosing regimen was primarily based on the determination of a plasma half-life of 17 hours for roflumilast and 30 hours for its active metabolite roflumilast N-oxide [see Clinical Pharmacology (12.3)].
+The once-daily dosing regimen was primarily based on the determination of a plasma half-life of 17 hours for roflumilast and 30 hours for its active metabolite roflumilast N-oxide [see Clinical Pharmacology (12.3)].
+
+An additional placebo-controlled 1-year trial (Trial 9) evaluated the effect of roflumilast 500 mcg on COPD exacerbations when added to a fixed-dose combination (FDC) product containing an inhaled corticosteroid and long-acting beta agonist (ICS/LABA).
+At screening, patients were required to have two or more exacerbations in the previous year.
+This trial randomized a total of 2354 patients (1178 randomized to roflumilast, 1176 to placebo).
+Approximately 60% of the patients enrolled had severe COPD (postbronchodilator FEV1 30% to 50% of predicted) associated with chronic bronchitis and 39% had very severe COPD (postbronchodilator FEV1 ≤ 30% of predicted) associated with chronic bronchitis; mean age of 64 years, 69% male, and 80% Caucasian.
+The use of long-acting muscarinic antagonists was allowed.
 
 Effect on Exacerbations
 
-The effect of roflumilast 500 mcg once daily on COPD exacerbations was evaluated in five 1-year trials (Trials 3, 4, 5 and 6).
+The effect of roflumilast 500 mcg once daily on COPD exacerbations was evaluated in five 1-year trials (Trials 3, 4, 5, 6 and 9).
 
 Two of the trials (Trials 3 and 4) conducted initially enrolled a population of patients with severe COPD (FEV 1 ≤ 50% of predicted) inclusive of those with chronic bronchitis and/or emphysema who had a history of smoking of at least 10 pack years.
 Inhaled corticosteroids were allowed as concomitant medications and used in 61% of both roflumilast and placebo-treated patients and short-acting beta agonists were allowed as rescue therapy.
@@ -44,12 +50,12 @@ Effect of Roflumilast on Rate of Moderate or Severe Exacerbations
 
 | Study | Exacerbations Per Patient-Year |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Roflumilast | Placebo | AbsoluteReduction 1 | RR 2 | 95% CI | Percent Reduction 3. |
+|  | Roflumilast | Placebo | Absolute Reduction 1 | RR 2 | 95% CI | Percent Reduction 3. |
 | Trial 5 | 1.1 | 1.3 | 0.2 | 0.85 | 0.74, 0.98 | 15 |
 | Trial 6 | 1.2 | 1.5 | 0.3 | 0.82 | 0.71, 0.94 | 18 |
 
 1.
-Absolute reduction measured as difference between placebo and roflumilast treated patients.
+Absolute reduction measured as difference between placebo and roflumilast-treated patients.
 
 2.
 RR is Rate Ratio.
@@ -58,6 +64,8 @@ RR is Rate Ratio.
 Percent reduction is defined as 100 (1-RR).
 
 For patients in Trials 5 and 6 who received concomitant long-acting beta agonists or short-acting anti-muscarinics, reduction of moderate or severe exacerbations with roflumilast was similar to that observed for the overall populations of the two trials.
+
+In Trial 9, when added to background therapy of FDC ICS/LABA, the rate ratio for COPD exacerbations among patients administered roflumilast vs. placebo was 0.92 (95% CI 0.81, 1.04).
 
 Effect on Lung Function
 
@@ -78,3 +86,12 @@ Effect of Roflumilast on FEV 1
 
 Lung function was also evaluated in two 6-month trials (Trials 7 and 8) to assess the effect of roflumilast when administered as add-on therapy to treatment with a long-acting beta agonist or a long-acting anti-muscarinic.
 These trials were conducted in a different population of COPD patients [moderate to severe COPD (FEV 1 40 to 70% of predicted) without a requirement for chronic bronchitis or frequent history of exacerbations] from that for which efficacy in reduction of exacerbations has been demonstrated and provide safety support to the roflumilast COPD program.
+
+Starting dose titration trial
+
+The tolerability of roflumilast was evaluated in a 12-week randomized, double-blind, parallel group trial in patients with severe COPD associated with chronic bronchitis (Trial 10).
+At screening, patients were required to have had at least one exacerbation in the previous year.
+A total of 1323 patients were randomized to receive roflumilast 500 mcg once a day for 12 weeks (n=443), roflumilast 500 mcg every other day for 4 weeks followed by roflumilast 500 mcg once a day for 8 weeks (n=439), or roflumilast 250 mcg once a day for 4 weeks followed by roflumilast 500 mcg once a day for 8 weeks (n=441).
+
+Over the 12 week study period, the percentage of patients discontinuing treatment was 6.2% lower in patients initially receiving roflumilast 250 mcg daily for 4 weeks followed by roflumilast 500 mcg daily for 8 weeks (18.4%) compared to those receiving roflumilast 500 mcg daily for 12 weeks (24.6%) (Odds Ratio = 0.66; 95% CI: 0.47 to 0.93; p=0.017).
+Because this trial was limited to 12 weeks in duration, whether initiation of dosing with roflumilast 250 mcg improves the long term tolerability of roflumilast 500 mcg has not been determined.

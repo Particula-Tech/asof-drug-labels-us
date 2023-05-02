@@ -11,6 +11,7 @@ In 8 controlled clinical trials 5.9% (263) of patients treated with roflumilast 
 The most commonly reported psychiatric adverse reactions were insomnia, anxiety, and depression which were reported at higher rates in those treated with roflumilast 500 mcg daily (2.4%, 1.4%, and 1.2% for roflumilast versus 1.0%, 0.9%, and 0.9% for placebo, respectively) [see Adverse Reactions (6.1)].
 Instances of suicidal ideation and behavior, including completed suicide, have been observed in clinical trials.
 Three patients experienced suicide-related adverse reactions (one completed suicide and two suicide attempts) while receiving roflumilast compared to one patient (suicidal ideation) who received placebo.
+One patient completed suicide while receiving roflumilast in Trial 9 [see Clinical Studies (14.1)], which assessed the effect of adding roflumilast to a fixed-dose combination (FDC) of ICS/LABA on rates of exacerbations in COPD patients over 1 year of treatment.
 Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
 
 Before using roflumilast in patients with a history of depression and/or suicidal thoughts or behavior, prescribers should carefully weigh the risks and benefits of treatment with roflumilast in such patients.

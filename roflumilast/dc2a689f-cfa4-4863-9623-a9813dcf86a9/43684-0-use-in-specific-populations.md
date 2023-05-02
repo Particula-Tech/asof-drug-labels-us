@@ -29,7 +29,7 @@ In an embryo-fetal development study, pregnant rats were dosed orally during the
 No evidence of structural abnormalities or effects on survival rates were observed. roflumilast did not affect embryo-fetal development at approximately 3 times the MRHD (on a mg/m 2 basis at a maternal oral dose of 0.2 mg/kg/day).
 
 In a fertility and embryo-fetal development study, male rats were dosed orally with up to 1.8 mg/kg/day roflumilast for 10 weeks and females for two weeks prior to pairing and throughout the organogenesis period.
-Roflumilast P induced pre- and post-implantation loss at doses greater than or equal to approximately 10 times the MRHD (on a mg/m 2 basis at maternal oral doses greater than or equal to 0.6 mg/kg/day).
+Roflumilast induced pre- and post-implantation loss at doses greater than or equal to approximately 10 times the MRHD (on a mg/m 2 basis at maternal oral doses greater than or equal to 0.6 mg/kg/day).
 Roflumilast did not cause fetal structural abnormalities at exposures up to approximately 29 times the MRHD (on an AUC basis at maternal oral doses up to 1.8 mg/kg/day).
 
 In an embryo-fetal development study in rabbits, pregnant does were dosed orally with 0.8 mg/kg/day roflumilast during the period of organogenesis.
@@ -71,7 +71,7 @@ Based on available data for roflumilast, no adjustment of dosage in geriatric pa
 ## 8.6 Hepatic Impairment
 
 Roflumilast 250 mcg once daily for 14 days was studied in subjects with mild-to-moderate hepatic impairment classified as Child-Pugh A and B (8 subjects in each group).
-The AUCs of roflumilast and roflumilast N-oxide were increased by 51% and 24%, respectively, in Child-Pugh A subjects and by 92% and 41%, respectively in Child-Pugh B subjects, as compared to age-, weight-, and gender-matched healthy subjects.
+The AUCs of roflumilast and roflumilast N-oxide were increased by 51% and 24%, respectively, in Child-Pugh A subjects and by 92% and 41%, respectively, in Child-Pugh B subjects, as compared to age-, weight-, and gender-matched healthy subjects.
 The C max of roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively in Child-Pugh A subjects and by 26% and 40%, respectively in Child-Pugh B subjects, as compared to healthy subjects.
 Roflumilast 500 mcg has not been studied in hepatically impaired patients.
 Clinicians should consider the risk-benefit of administering roflumilast to patients who have mild liver impairment (Child-Pugh A). Roflumilast is not recommended for use in patients with moderate or severe liver impairment (Child-Pugh B or C) [see Contraindications (4) and Clinical Pharmacology (12.3)].

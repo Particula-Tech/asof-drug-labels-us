@@ -96,10 +96,9 @@ These are not all the possible side effects of roflumilast tablets.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
-How do I store Roflumilast Tablets?
+How do I store roflumilast tablets?
 
-- Store roflumilast tablets at 68° to 77°F (20° to 25°C); excursions permitted to 15° to 30°C (59° to 86°F).
-  [See USP Controlled Room Temperature].
+- Store roflumilast tablets at 68° to 77°F (20° to 25°C); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
 Keep roflumilast tablets and all medicines out of the reach of children.
 
@@ -128,5 +127,4 @@ Manufactured by: Micro Labs Limited Goa-403 722, INDIA.
 
 Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873
 
-Rev.
-03/2022
+Revised: 02/2023

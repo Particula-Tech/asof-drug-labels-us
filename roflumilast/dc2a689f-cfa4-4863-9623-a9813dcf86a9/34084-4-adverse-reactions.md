@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety data described below reflect exposure of 4438 patients to roflumilast 500 mcg once daily in four 1­ year placebo-controlled trials, two 6-month placebo-controlled trials, and two 6-month drug add-on trials [see Clinical Studies (14.1)].
 In these trials, 3136 and 1232 COPD patients were exposed to roflumilast tablet 500 mcg once daily for 6 months and 1 year, respectively.
 
-The population had a median age of 64 years (range 40 to 91), 73% were male, 92.9% were Caucasian, and had COPD with a mean pre-bronchodilator forced expiratory volume in one second (FEV1) of 8.9 to 89.1% predicted.
+The population had a median age of 64 years (range 40 to 91), 73% were male, 92.9% were Caucasian, and had COPD with a mean pre-bronchodilator forced expiratory volume in one second (FEV 1) of 8.9 to 89.1% predicted.
 In these trials, 68.5% of the patients treated with roflumilast reported an adverse reaction compared with 65.3% treated with placebo.
 
 The proportion of patients who discontinued treatment due to adverse reaction was 14.8% for roflumilast- treated patients and 9.9% for placebo-treated patients.
@@ -49,6 +49,8 @@ Musculoskeletal and connective tissue disorders - muscle spasms
 Nervous system disorders - tremor
 
 Psychiatric disorders - anxiety, depression
+
+The safety profile of roflumilast reported during Trial 9 was consistent with the key pivotal studies.
 
 ## 6.2 Postmarketing Experience
 

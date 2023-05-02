@@ -97,9 +97,9 @@ The effect of concomitant drugs on the exposure of roflumilast and roflumilast N
 Figure 1.
 Effect of concomitant drugs on the exposure of roflumilast and roflumilast N-oxide.
 Note that the dashed lines indicate the lower and higher bounds (0.8 to 1.25) of the 90% confidence interval of the geometric mean ratio of C max or AUC for roflumilast or roflumilast N-oxide for Treatment (Roflumilast+Coadministered Drug) vs. Reference (roflumilast).
-The dosing regimens of coadministered drugs was: Midazolam:2 mg po SD; Erythromycin:500 mg po TID; Ketoconazole:200 mg po BID; Rifampicin:600 mg po QD; Fluvoxamine:50 mg po QD; Digoxin:250 ug po SD; Maalox:30 mL po SD; Salbutamol:0.2 mg pi TID; Cimetidine:400 mg po BID; Formoterol:40 ug po BID; Budesonide:400 ug po BID; Theophylline:375 mg po BID; Warfarin:250 mg po SD; Enoxacin:400 mg po BID; Sildenafil:100 mg SD; Minulet (combination oral contraceptive):0.075 mg gestodene/0.03 mg ethinylestradiol po QD; Montelukast:10 mg po QD
+The dosing regimens of coadministered drugs was: Midazolam: 2 mg po SD; Erythromycin: 500 mg po TID; Ketoconazole: 200 mg po BID; Rifampicin: 600 mg po QD; Fluvoxamine: 50 mg po QD; Digoxin: 250 mcg po SD; Maalox: 30 mL po SD; Salbutamol: 0.2 mg po TID; Cimetidine: 400 mg po BID; Formoterol: 40 mcg po BID; Budesonide: 400 mcg po BID; Theophylline: 375 mg po BID; Warfarin: 250 mg po SD; Enoxacin: 400 mg po BID; Sildenafil: 100 mg SD; Minulet (combination oral contraceptive): 0.075 mg gestodene/0.03 mg ethinylestradiol po QD; Montelukast: 10 mg po QD.
 
-Drug interactions considered to be significant are described in more detail below [see Warnings and Precautions (5.4)and Drug Interactions (7)].
+Drug interactions considered to be significant are described in more detail below [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
 Inhibitors of CYP3A4 and CYP1A2:
 
