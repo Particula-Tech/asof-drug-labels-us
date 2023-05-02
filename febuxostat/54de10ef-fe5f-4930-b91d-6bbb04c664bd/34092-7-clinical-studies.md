@@ -7,19 +7,19 @@ A serum uric acid level of less than 6 mg/dL is the goal of antihyperuricemic th
 The efficacy of ULORIC was demonstrated in three randomized, double-blind, controlled trials in patients with hyperuricemia and gout.
 Hyperuricemia was defined as a baseline serum uric acid level ≥8 mg/dL.
 
-Study 1 (ClinicalTrials.gov identifier NCT00430248) randomized patients to: ULORIC 40 mg daily, ULORIC 80 mg daily, or allopurinol (300 mg daily for patients with estimated creatinine clearance (Clcr) ≥60 mL/min or 200 mg daily for patients with estimated Clcr ≥30 mL/min and ≤59 mL/min).
+Study 1 (NCT00430248) randomized patients to: ULORIC 40 mg daily, ULORIC 80 mg daily, or allopurinol (300 mg daily for patients with estimated creatinine clearance (Clcr) ≥60 mL/min or 200 mg daily for patients with estimated Clcr ≥30 mL/min and ≤59 mL/min).
 The duration of Study 1 was six months.
 
-Study 2 (ClinicalTrials.gov identifier NCT00174915) randomized patients to: placebo, ULORIC 80 mg daily, ULORIC 120 mg daily, ULORIC 240 mg daily or allopurinol (300 mg daily for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg daily for patients with a baseline serum creatinine greater than 1.5 mg/dL and ≤2 mg/dL).
+Study 2 (NCT00174915) randomized patients to: placebo, ULORIC 80 mg daily, ULORIC 120 mg daily, ULORIC 240 mg daily or allopurinol (300 mg daily for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg daily for patients with a baseline serum creatinine greater than 1.5 mg/dL and ≤2 mg/dL).
 The duration of Study 2 was six months.
 
-Study 3 (ClinicalTrials.gov identifier NCT00102440), a one year study, randomized patients to: ULORIC 80 mg daily, ULORIC 120 mg daily, or allopurinol 300 mg daily.
+Study 3 (NCT00102440), a year study, randomized patients to: ULORIC 80 mg daily, ULORIC 120 mg daily, or allopurinol 300 mg daily.
 Patients who completed Study 2 and Study 3 were eligible to enroll in a Phase 3 long-term extension study in which patients received treatment with ULORIC for over three years.
 
 In all three studies, patients received naproxen 250 mg twice daily or colchicine 0.6 mg once or twice daily for gout flare prophylaxis.
 In Study 1 the duration of prophylaxis was six months; in Study 2 and Study 3 the duration of prophylaxis was eight weeks.
 
-The efficacy of ULORIC was also evaluated in a four week dose ranging study which randomized patients to: placebo, ULORIC 40 mg daily, ULORIC 80 mg daily, or ULORIC 120 mg daily.
+The efficacy of ULORIC was also evaluated in a 4-week dose ranging study which randomized patients to: placebo, ULORIC 40 mg daily, ULORIC 80 mg daily, or ULORIC 120 mg daily.
 Patients who completed this study were eligible to enroll in a long-term extension study in which patients received treatment with ULORIC for up to five years.
 
 Patients in these studies were representative of the patient population for which ULORIC use is intended.
@@ -73,7 +73,7 @@ Table 4: Proportion of Patients with Serum Uric Acid Levels less than 6 mg/dL in
 
 ## 14.2 Cardiovascular Safety Study
 
-A randomized, double-blind, allopurinol-controlled CV outcomes study (CARES) was conducted to evaluate the CV risk of ULORIC.
+A randomized, double-blind, allopurinol-controlled CV outcomes study (CARES) was conducted to evaluate the CV risk of ULORIC (NCT01101035).
 The study compared the risk of MACE between patients treated with ULORIC (N=3098) and allopurinol-treated patients (N=3092).
 The primary endpoint was the time to first occurrence of a MACE defined as the composite of CV death, nonfatal MI, nonfatal stroke, or unstable angina with urgent coronary revascularization.
 The study was designed to exclude a prespecified risk margin of 1.3 for the hazard ratio of MACE.

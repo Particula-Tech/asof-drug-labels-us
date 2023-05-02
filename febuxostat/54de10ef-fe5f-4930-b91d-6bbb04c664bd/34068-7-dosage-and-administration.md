@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dose
+## 2.1 Recommended Dosage
 
 The recommended ULORIC dosage is 40 mg or 80 mg once daily.
 
@@ -9,15 +9,16 @@ For patients who do not achieve a serum uric acid (sUA) less than 6 mg/dL after 
 
 ULORIC can be taken without regard to food or antacid use [see Clinical Pharmacology (12.3)].
 
+Concurrent prophylactic treatment with a non-steroidal anti-inflammatory drug (NSAID) or colchicine is recommended [see Dosage and Administration (2.4) and Warnings and Precautions (5.2)].
+
 ## 2.2 Dosage Recommendations in Patients with Renal Impairment and Hepatic Impairment
 
-No dose adjustment is necessary when administering ULORIC in patients with mild or moderate renal impairment.
+The recommended dosage of ULORIC is limited to 40 mg once daily in patients with severe renal impairment.
+No dose modification is necessary when administering ULORIC in patients with mild or moderate renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-The recommended dosage of ULORIC is limited to 40 mg once daily in patients with severe renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+No dosage modification is necessary in patients with mild to moderate hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
-No dose adjustment is necessary in patients with mild to moderate hepatic impairment [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
-
-## 2.3 Uric Acid Level
+## 2.3 Serum Uric Acid Level Monitoring
 
 Testing for the target serum uric acid level of less than 6 mg/dL may be performed as early as two weeks after initiating ULORIC therapy.
 

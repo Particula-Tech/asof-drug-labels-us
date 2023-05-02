@@ -10,5 +10,5 @@ Febuxostat is a non-hygroscopic, white crystalline powder that is freely soluble
 The melting range is 205°C to 208°C.
 
 ULORIC tablets for oral use contain the active ingredient, febuxostat, and are available in two dosage strengths, 40 mg and 80 mg.
-Inactive ingredients include lactose monohydrate, microcrystalline cellulose, hydroxypropyl cellulose, sodium croscarmellose, silicon dioxide and magnesium stearate.
+Inactive ingredients include hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, silicon dioxide, and sodium croscarmellose.
 ULORIC tablets are coated with Opadry II, green.

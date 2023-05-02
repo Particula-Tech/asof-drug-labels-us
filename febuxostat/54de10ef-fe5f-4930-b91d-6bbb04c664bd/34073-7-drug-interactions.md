@@ -6,8 +6,8 @@ ULORIC is an XO inhibitor.
 Based on a drug interaction study in healthy patients, febuxostat altered the metabolism of theophylline (a substrate of XO) in humans [see Clinical Pharmacology (12.3)].
 Therefore, use with caution when coadministering ULORIC with theophylline.
 
-Drug interaction studies of ULORIC with other drugs that are metabolized by XO (e.g., mercaptopurine and azathioprine) have not been conducted.
-Inhibition of XO by ULORIC may cause increased plasma concentrations of these drugs leading to toxicity [see Clinical Pharmacology (12.3)].
+A drug interaction study of ULORIC and azathioprine, also metabolized by XO, showed an increase in exposure of 6-mercaptopurine which may lead to toxicity [see Clinical Pharmacology (12.3)].
+Drug interaction studies of ULORIC with other drugs that are metabolized by XO (e.g., mercaptopurine) have not been conducted.
 ULORIC is contraindicated in patients being treated with azathioprine or mercaptopurine [see Contraindications (4)].
 
 ## 7.2 Cytotoxic Chemotherapy Drugs

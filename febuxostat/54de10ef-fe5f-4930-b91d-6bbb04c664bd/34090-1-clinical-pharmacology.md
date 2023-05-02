@@ -9,10 +9,10 @@ ULORIC is not expected to inhibit other enzymes involved in purine and pyrimidin
 
 Effect on Uric Acid and Xanthine Concentrations
 
-In healthy patients, ULORIC resulted in a dose dependent decrease in 24 hour mean serum uric acid concentrations and an increase in 24 hour mean serum xanthine concentrations.
+In healthy patients, ULORIC resulted in a dose dependent decrease in 24-hour mean serum uric acid concentrations and an increase in 24-hour mean serum xanthine concentrations.
 In addition, there was a decrease in the total daily urinary uric acid excretion.
 Also, there was an increase in total daily urinary xanthine excretion.
-Percent reduction in 24 hour mean serum uric acid concentrations was between 40% and 55% at the exposure levels of 40 mg and 80 mg daily doses.
+Percent reduction in 24-hour mean serum uric acid concentrations was between 40% and 55% at the exposure levels of 40 mg and 80 mg daily doses.
 
 Effect on Cardiac Repolarization
 
@@ -111,13 +111,14 @@ Febuxostat is an XO inhibitor.
 A drug-drug interaction study evaluating the effect of ULORIC upon the pharmacokinetics of theophylline (an XO substrate) in healthy patients showed that coadministration of febuxostat with theophylline resulted in an approximately 400-fold increase in the amount of 1-methylxanthine, one of the major metabolites of theophylline, excreted in the urine.
 Since the long-term safety of exposure to 1-methylxanthine in humans is unknown, use with caution when coadministering febuxostat with theophylline.
 
-Drug interaction studies of ULORIC with other drugs that are metabolized by XO (e.g., mercaptopurine and azathioprine) have not been conducted.
-Inhibition of XO by ULORIC may cause increased plasma concentrations of these drugs leading to toxicity.
+A drug interaction study of ULORIC and azathioprine has been conducted [see Drug Interactions (7)].
+Inhibition of XO by ULORIC caused increased plasma concentrations of 6-mercaptopurine, a metabolite of azathioprine, which may lead to toxicity.
+Drug interaction studies of ULORIC with other drugs that are metabolized by XO (e.g., mercaptopurine) have not been conducted.
 ULORIC is contraindicated in patients being treated with azathioprine or mercaptopurine [see Contraindications (4) and Drug Interactions (7)].
 
 Azathioprine and mercaptopurine undergo metabolism via three major metabolic pathways, one of which is mediated by XO.
-Although ULORIC drug interaction studies with azathioprine and mercaptopurine have not been conducted, concomitant administration of allopurinol [a xanthine oxidase inhibitor] with azathioprine or mercaptopurine has been reported to substantially increase plasma concentrations of these drugs.
-Because ULORIC is a xanthine oxidase inhibitor, it could inhibit the XO-mediated metabolism of azathioprine and mercaptopurine leading to increased plasma concentrations of azathioprine or mercaptopurine that could result in severe toxicity.
+Concomitant administration of allopurinol [a xanthine oxidase inhibitor] with azathioprine or mercaptopurine has been reported to substantially increase plasma concentrations of these drugs.
+Because ULORIC is a xanthine oxidase inhibitor, it could inhibit the XO-mediated metabolism of mercaptopurine leading to increased plasma concentrations of mercaptopurine that could result in severe toxicity.
 
 P450 Substrate Drugs
 
@@ -131,6 +132,12 @@ The relative contribution of each enzyme isoform is not clear.
 Drug interactions between ULORIC and a drug that inhibits or induces one particular enzyme isoform is in general not expected.
 
 In Vivo Drug Interaction Studies
+
+Azathioprine
+
+Concomitant use of ULORIC and azathioprine is contraindicated.
+Coadministration with febuxostat (40 mg or 120 mg QD) reduced the apparent clearance of mercaptopurine, a XO substrate, by 83.2% to 83.8% following a single oral dose of azathioprine, a prodrug of 6-mercaptopurine.
+No significant differences were observed in the extent of inhibition of 6-mercaptopurine metabolism by febuxostat 40 mg and 120 mg.
 
 Theophylline
 
