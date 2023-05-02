@@ -20,15 +20,15 @@ Waluj, Aurangabad - 431 136,
 
 Maharashtra, India
 
-Manufactured for:
+Toll free number: 1-800-521-5340
+
+Distributed by:
 
 Rising Pharmaceuticals, Inc.
 
-Allendale, NJ 07401
+East Brunswick, NJ 08816
 
-Toll free number: 1-800-521-5340
-
-Revised: 07/2020
+Revised: 03/2022
 
 INSTRUCTIONS FOR USE
 
