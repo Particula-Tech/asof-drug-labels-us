@@ -2,45 +2,73 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects Pregnancy Category C — Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
-All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
-Treatment of Pregnant Women during the First Trimester — There are no adequate and well-controlled clinical studies on the use of fluoxetine in pregnant women.
-Results of a number of published epidemiological studies assessing the risk of fluoxetine exposure during the first trimester of pregnancy have demonstrated inconsistent results.
-More than 10 cohort studies and case-control studies failed to demonstrate an increased risk for congenital malformations overall.
-However, one prospective cohort study conducted by the European Network of Teratology Information Services reported an increased risk of cardiovascular malformations in infants born to women (N = 253) exposed to fluoxetine during the first trimester of pregnancy compared to infants of women (N = 1359) who were not exposed to fluoxetine.
-There was no specific pattern of cardiovascular malformations.
-Overall, however, a causal relationship has not been established.
-Nonteratogenic Effects — Neonates exposed to fluoxetine and other SSRIs or serotonin and norepinephrine reuptake inhibitors (SNRIs), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-research­programs/pregnancyregistry/antidepressants/.
+
+Risk Summary
+
+Available data from published epidemiologic studies and postmarketing reports over several decades have not established an increased risk of major birth defects or miscarriage.
+Some studies have reported an increased incidence of cardiovascular malformations; however, these studies results do not establish a causal relationship (see Data).
+There are risks associated with untreated depression in pregnancy and risks of persistent pulmonary hypertension of the newborn (PPHN) (see Data) and poor neonatal adaptation with exposure to selective serotonin reuptake inhibitors (SSRIs), including fluoxetine, during pregnancy (see Clinical Considerations).
+
+In rats and rabbits treated with fluoxetine during the period of organogenesis, there was no evidence of developmental effects at doses up to 1.6 and 3.9 times, respectively, the maximum recommended human dose (MRHD) of 60 mg/day given to adolescents on a mg/m2 basis.
+However, in other reproductive studies in rats, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths early after birth occurred at doses that are 1.5 times (during gestation) and 0.97 time (during gestation and lactation) the MRHD given to adolescents on a mg/m2 basis.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-associated maternal and/or embryo/fetal risk
+
+Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
+This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depressive disorder who were euthymic and taking antidepressants at the beginning of pregnancy.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Fetal/Neonatal adverse reactions
+
+Neonates exposed to fluoxetine and other SSRI or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
 Such complications can arise immediately upon delivery.
-Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
-These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
+Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremors, jitteriness, irritability, and constant crying.
+These findings are consistent with either a direct toxic effect of SSRIs and SNRIs or possibly a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
-Infants exposed to SSRIs in pregnancy may have an increased risk for persistent pulmonary hypertension of the newborn (PPHN).
-PPHN occurs in 1 to 2 per 1,000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
-Several recent epidemiological studies suggest a positive statistical association between SSRI use (including fluoxetine) in pregnancy and PPHN.
-Other studies do not show a significant statistical association.
-Physicians should also note the results of a prospective longitudinal study of 201 pregnant women with a history of major depression, who were either on antidepressants or had received antidepressants less than 12 weeks prior to their last menstrual period, and were in remission.
-Women who discontinued antidepressant medication during pregnancy showed a significant increase in relapse of their major depression compared to those women who remained on antidepressant medication throughout pregnancy.
-When treating a pregnant woman with fluoxetine, the physician should carefully consider both the potential risks of taking an SSRI, along with the established benefits of treating depression with an antidepressant.
-The decision can only be made on a case by case basis [see Dosage and Administration (2.7)].
-Animal Data — In embryo-fetal development studies in rats and rabbits, there was no evidence of teratogenicity following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.5 and 3.6 times, respectively, the maximum recommended human dose (MRHD) of 80 mg on a mg/m2 basis) throughout organogenesis.
-However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.9 times the MRHD on a mg/m2 basis) during gestation and lactation.
+
+Data
+
+Human Data — It has been shown that SSRIs (including fluoxetine) can cross the placenta.
+Published epidemiological studies of pregnant women exposed to fluoxetine have not established an increased risk of major birth defects, miscarriage, and other adverse developmental outcomes.
+Several publications reported an increased incidence of cardiovascular malformations in children with in utero exposure to fluoxetine.
+However, these studies results do not establish a causal relationship.
+Methodologic limitations of these observational studies include possible exposure and outcome misclassification, lack of adequate controls, adjustment for confounders and confirmatory studies.
+However, these studies cannot definitely establish or exclude any drug-associated risk during pregnancy.
+
+Exposure to SSRIs, particularly later in pregnancy, may have an increased risk for PPHN.
+PPHN occurs in 1 to 2 per 1000 live births in the general population and is associated with substantial neonatal morbidity and mortality.
+
+Animal Data — In embryofetal development studies in rats and rabbits, there was no evidence of malformations or developmental variations following administration of fluoxetine at doses up to 12.5 and 15 mg/kg/day, respectively (1.6 and 3.9 times, respectively, the MRHD of 60 mg given to adolescents on a mg/m2 basis) throughout organogenesis.
+However, in rat reproduction studies, an increase in stillborn pups, a decrease in pup weight, and an increase in pup deaths during the first 7 days postpartum occurred following maternal exposure to 12 mg/kg/day (1.5 times the MRHD given to adolescents on a mg/m2 basis) during gestation or 7.5 mg/kg/day (0.97 time the MRHD given to adolescents on a mg/m2 basis) during gestation and lactation.
 There was no evidence of developmental neurotoxicity in the surviving offspring of rats treated with 12 mg/kg/day during gestation.
-The no-effect dose for rat pup mortality was 5 mg/kg/day (0.6 times the MRHD on a mg/m2 basis).
+The no-effect dose for rat pup mortality was 5 mg/kg/day (0.65 time the MRHD given to adolescents on a mg/m2 basis).
 
-## 8.2 Labor and Delivery
+## 8.2 Lactation
 
-The effect of fluoxetine on labor and delivery in humans is unknown.
-However, because fluoxetine crosses the placenta and because of the possibility that fluoxetine may have adverse effects on the newborn, fluoxetine should be used during labor and delivery only if the potential benefit justifies the potential risk to the fetus.
+Risk Summary
 
-## 8.3 Nursing Mothers
+Data from published literature report the presence of fluoxetine and norfluoxetine in human milk (see Data).
+There are reports of agitation, irritability, poor feeding, and poor weight gain in infants exposed to fluoxetine through breast milk (see Clinical Considerations).
+There are no data on the effect of fluoxetine or its metabolites on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for fluoxetine and any potential adverse effects on the breastfed child from fluoxetine or the underlying maternal condition.
 
-Because fluoxetine is excreted in human milk, nursing while on fluoxetine is not recommended.
-In one breast-milk sample, the concentration of fluoxetine plus norfluoxetine was 70.4 ng/mL.
-The concentration in the mother's plasma was 295 ng/mL.
-No adverse effects on the infant were reported.
-In another case, an infant nursed by a mother on fluoxetine developed crying, sleep disturbance, vomiting, and watery stools.
-The infant's plasma drug levels were 340 ng/mL of fluoxetine and 208 ng/mL of norfluoxetine on the second day of feeding.
+Clinical Considerations
+
+Infants exposed to fluoxetine should be monitored for agitation, irritability, poor feeding, and poor weight gain.
+
+Data
+
+A study of 19 nursing mothers on fluoxetine with daily doses of 10 to 60 mg showed that fluoxetine was detectable in 30% of nursing infant sera (range: 1 to 84 ng/mL) whereas norfluoxetine was found in 85% (range: <1 to 265 ng/mL).
 
 ## 8.4 Pediatric Use
 

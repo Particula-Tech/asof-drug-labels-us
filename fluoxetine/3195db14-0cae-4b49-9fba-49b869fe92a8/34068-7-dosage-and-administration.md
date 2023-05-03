@@ -4,7 +4,8 @@
 
 Initial Treatment Adult — Initiate fluoxetine oral solution 20 mg/day orally in the morning.
 Consider a dose increase after several weeks if insufficient clinical improvement is observed.
-Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).The maximum fluoxetine dose should not exceed 80 mg/day.
+Administer doses above 20 mg/day once daily in the morning or twice daily (i.e., morning and noon).
+The maximum fluoxetine dose should not exceed 80 mg/day.
 In controlled trials used to support the efficacy of fluoxetine, patients were administered morning doses ranging from 20 to 80 mg/day.
 Studies comparing fluoxetine 20, 40, and 60 mg/day to placebo indicate that 20 mg/day is sufficient to obtain a satisfactory response in Major Depressive Disorder in most cases [see Clinical Studies (14.1)].
 Pediatric (children and adolescents) — Initiate fluoxetine oral solution 10 or 20 mg/day.
@@ -58,8 +59,6 @@ Periodically reassess to determine the need for continued treatment.
 
 ## 2.7 Dosing in Specific Populations
 
-Treatment of Pregnant Women — When treating pregnant women with fluoxetine oral solution, the physician should carefully consider the potential risks and potential benefits of treatment.
-Neonates exposed to SSRIs or SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding [see Use in Specific Populations (8.1)].
 Geriatric — Consider a lower or less frequent dosage for the elderly [see Use in Specific Populations (8.5)].
 Hepatic Impairment — As with many other medications, use a lower or less frequent dosage in patients with hepatic impairment [see Clinical Pharmacology (12.4) and Use in Specific Populations (8.6)].
 Concomitant Illness — Patients with concurrent disease or on multiple concomitant medications may require dosage adjustments [see Clinical Pharmacology (12.4) and Warnings and Precautions (5.11)].
@@ -82,4 +81,4 @@ If acceptable alternatives to linezolid or intravenous methylene blue treatment 
 The patient should be monitored for symptoms of serotonin syndrome for five weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
 Therapy with fluoxetine oral solution may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue [see Warnings and Precautions (5.2)].
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with fluoxetine oral solution is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].
+The healthcare provider should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use [see Warnings and Precautions (5.2)].

@@ -1,83 +1,98 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See the FDA-approved Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking fluoxetine.
 
-## 17.1 General Information
+General Information
 
 Healthcare providers should instruct their patients to read the Medication Guide before starting therapy with fluoxetine and to reread it each time the prescription is renewed.
+
 Healthcare providers should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with fluoxetine and should counsel them in its appropriate use.
 Healthcare providers should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
+
 Patients should be advised of the following issues and asked to alert their healthcare provider if these occur while taking fluoxetine.
 
-## 17.2 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
+Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
 Families and caregivers of patients should be advised to look for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
-Such symptoms should be reported to the patient's prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
+Such symptoms should be reported to the patient’s prescriber or health professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Box Warning and Warnings and Precautions (5.1)].
 
-## 17.3 Serotonin Syndrome
+Serotonin Syndrome
 
-Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, amphetamines and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+Patients should be cautioned about the risk of serotonin syndrome with the concomitant use of fluoxetine and other serotonergic agents including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.1), Warnings and Precautions (5.2), and Drug Interactions (7.3)].
+
 Patients should be advised of the signs and symptoms associated with serotonin syndrome that may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
 
-## 17.4 Allergic Reactions and Rash
+Allergic Reactions and Rash
 
-Patients should be advised to notify their physician if they develop a rash or hives [see Warnings and Precautions (5.3)].
+Patients should be advised to notify their healthcare provider if they develop a rash or hives [see Warnings and Precautions (5.3)].
 Patients should also be advised of the signs and symptoms associated with a severe allergic reaction, including swelling of the face, eyes, or mouth, or have trouble breathing.
 Patients should be cautioned to seek medical care immediately if they experience these symptoms.
 
-## 17.5 Abnormal Bleeding
+Abnormal Bleeding
 
 Patients should be cautioned about the concomitant use of fluoxetine and NSAIDs, aspirin, warfarin, or other drugs that affect coagulation since combined use of psychotropic drugs that interfere with serotonin reuptake and these agents have been associated with an increased risk of bleeding [see Warnings and Precautions (5.7) and Drug Interactions (7.4)].
-Patients should be advised to call their doctor if they experience any increased or unusual bruising or bleeding while taking fluoxetine.
+Patients should be advised to call their healthcare provider if they experience any increased or unusual bruising or bleeding while taking fluoxetine.
 
-## 17.6 Hyponatremia
+Hyponatremia
 
 Patients should be advised that hyponatremia has been reported as a result of treatment with SNRIs and SSRIs, including fluoxetine.
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 More severe and/or acute cases have been associated with hallucination, syncope, seizure, coma, respiratory arrest, and death [see Warnings and Precautions (5.8)].
 
-## 17.7 QT Prolongation
+QT Prolongation
 
 Patients should be advised that QT interval prolongation and ventricular arrhythmia including Torsades de Pointes have been reported in patients treated with fluoxetine.
 Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular heart rate, dyspnea, syncope, or dizziness, which may indicate serious cardiac arrhythmia [see Warnings and Precautions (5.10)]
 
-## 17.8 Potential for Cognitive and Motor Impairment
+Potential for Cognitive and Motor Impairment
 
 Fluoxetine may impair judgment, thinking, or motor skills.
 Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.12)].
 
-## 17.9 Angle-Closure Glaucoma
+Angle-Closure Glaucoma
 
-Patients should be advised that taking fluoxetine oral solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle- closure glaucoma.
-Pre-existing glaucoma is almost always open-angle glaucoma because angle- closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
-Open-angle glaucoma is not a risk factor for angle- closure glaucoma.
+Patients should be advised that taking fluoxetine oral solution can cause mild pupillary dilation, which in susceptible individuals, can lead to an episode of angle-closure glaucoma.
+Pre-existing glaucoma is almost always open-angle glaucoma because angle-closure glaucoma, when diagnosed, can be treated definitively with iridectomy.
+Open-angle glaucoma is not a risk factor for angle-closure glaucoma.
 Patients may wish to be examined to determine whether they are susceptible to angle-closure, and have a prophylactic procedure (e.g., iridectomy), if they are susceptible.
 [see Warnings and Precautions (5.13)]
 
-## 17.10 Use of Concomitant Medications
+Use of Concomitant Medications
 
-Patients should be advised to inform their physician if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
-Patients should also be advised to inform their physicians if they plan to discontinue any medications they are taking while on fluoxetine.
+Patients should be advised to inform their healthcare provider if they are taking, or plan to take, any prescription medication, including Symbyax, Sarafem, or over-the-counter drugs, including herbal supplements or alcohol.
+Patients should also be advised to inform their healthcare providers if they plan to discontinue any medications they are taking while on fluoxetine.
 
-## 17.11 Discontinuation of Treatment
+Discontinuation of Treatment
 
 Patients should be advised to take fluoxetine exactly as prescribed, and to continue taking fluoxetine as prescribed even after their symptoms improve.
-Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their physician [see Warnings and Precautions (5.15)].
+Patients should be advised that they should not alter their dosing regimen, or stop taking fluoxetine without consulting their healthcare provider [see Warnings and Precautions (5.15)].
 Patients should be advised to consult with their healthcare provider if their symptoms do not improve with fluoxetine.
 
-## 17.12 Use in Specific Populations
+Sexual Dysfunction
 
-Pregnancy — Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy.
-Fluoxetine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus [see Use in Specific Populations (8.1)].
-Nursing Mothers — Patients should be advised to notify their physician if they intend to breastfeed an infant during therapy.
-Because fluoxetine is excreted in human milk, nursing while taking fluoxetine is not recommended [see Use in Specific Populations (8.3)].
-Pediatric Use of fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
+Advise patients that use of fluoxetine may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.17)].
+
+Use in Specific Populations
+
+Pregnancy — Advise pregnant women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with fluoxetine.
+
+Advise patients that fluoxetine use later in pregnancy may lead to increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN) [see Use in Specific Populations (8.1)].
+
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to fluoxetine during pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation —Advise breastfeeding women using fluoxetine to monitor infants for agitation, irritability, poor feeding and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Pediatric Use of Fluoxetine — Fluoxetine is approved for use in pediatric patients with MDD and OCD [see Box Warning and Warnings and Precautions (5.1)].
 Limited evidence is available concerning the longer-term effects of fluoxetine on the development and maturation of children and adolescent patients.
 Height and weight should be monitored periodically in pediatric patients receiving fluoxetine [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+
 Symbyax® and Sarafem® are registered trademarks of Eli Lilly.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 11/2021
+
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2023

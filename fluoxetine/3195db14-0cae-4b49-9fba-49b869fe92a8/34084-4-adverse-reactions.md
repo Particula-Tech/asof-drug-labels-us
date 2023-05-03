@@ -15,6 +15,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.12)]
 - Angle-Closure Glaucoma [see Warnings and Precautions (5.13)]
 - Discontinuation Adverse Reactions [see Warnings and Precautions (5.15)]
+- Sexual Dysfunction [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -141,7 +142,7 @@ In these clinical trials, only a primary reaction associated with discontinuatio
 
 Male and female sexual dysfunction with SSRIs — Although changes in sexual desire, sexual performance, and sexual satisfaction often occur as manifestations of a psychiatric disorder, they may also be a consequence of pharmacologic treatment.
 In particular, some evidence suggests that SSRIs can cause such untoward sexual experiences.
-Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and physicians may be reluctant to discuss them.
+Reliable estimates of the incidence and severity of untoward experiences involving sexual desire, performance, and satisfaction are difficult to obtain, however, in part because patients and healthcare providers may be reluctant to discuss them.
 Accordingly, estimates of the incidence of untoward sexual experience and performance, cited in product labeling, are likely to underestimate their actual incidence.
 In patients enrolled in U.S. Major Depressive Disorder, OCD, and bulimia placebo-controlled clinical trials, decreased libido was the only sexual side effect reported by at least 2% of patients taking fluoxetine (4% fluoxetine, <1% placebo).
 There have been spontaneous reports in women taking fluoxetine of orgasmic dysfunction, including anorgasmia.
@@ -152,32 +153,48 @@ Symptoms of sexual dysfunction occasionally persist after discontinuation of flu
 
 Priapism has been reported with all SSRIs.
 
-While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
+While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, healthcare providers should routinely inquire about such possible side effects.
 
-## 6.2 Other Reactions
+Other Reactions
 
 Following is a list of treatment-emergent adverse reactions reported by patients treated with fluoxetine in clinical trials.
 This listing is not intended to include reactions (1) already listed in previous tables or elsewhere in labeling, (2) for which a drug cause was remote, (3) which were so general as to be uninformative, (4) which were not considered to have significant clinical implications, or (5) which occurred at a rate equal to or less than placebo.
-Reactions are classified by body system using the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
-Body as a Whole — Frequent: chills; Infrequent: suicide attempt; Rare: acute abdominal syndrome, photosensitivity reaction.
-Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia, hypotension1.
-Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, stomach ulcer; Rare: bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
-Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
-Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1,
 
-buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
+Reactions are classified by body system using the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
+
+Body as a Whole — Frequent: chills; Infrequent: suicide attempt; Rare: acute abdominal syndrome, photosensitivity reaction.
+
+Cardiovascular System — Frequent: palpitation; Infrequent: arrhythmia, hypotension1.
+
+Digestive System — Infrequent: dysphagia, gastritis, gastroenteritis, melena, stomach ulcer; Rare: bloody diarrhea, duodenal ulcer, esophageal ulcer, gastrointestinal hemorrhage, hematemesis, hepatitis, peptic ulcer, stomach ulcer hemorrhage.
+
+Hemic and Lymphatic System — Infrequent: ecchymosis; Rare: petechia, purpura.
+
+Investigations — Frequent: QT interval prolongation (QTCF ≥450 msec)3.
+
+Nervous System — Frequent: emotional lability; Infrequent: akathisia, ataxia, balance disorder1, bruxism1, buccoglossal syndrome, depersonalization, euphoria, hypertonia, libido increased, myoclonus, paranoid reaction; Rare: delusions.
+
 Respiratory System — Rare: larynx edema.
+
 Skin and Appendages — Infrequent: alopecia; Rare: purpuric rash.
+
 Special Senses — Frequent: taste perversion; Infrequent: mydriasis.
+
 Urogenital System — Frequent: micturition disorder; Infrequent: dysuria, gynecological bleeding2.
+
 1 MedDRA dictionary term from integrated database of placebo controlled trials of 15,870 patients, of which 9,673 patients received fluoxetine.
+
 2 Group term that includes individual MedDRA terms: cervix hemorrhage uterine, dysfunctional uterine bleeding, genital hemorrhage, menometrorrhagia, menorrhagia, metrorrhagia, polymenorrhea, postmenopausal hemorrhage, uterine hemorrhage, vaginal hemorrhage.
 Adjusted for gender.
 
-## 6.3 Postmarketing Experience
+3 QT prolongation data are based on routine ECG measurements in clinical trials.
+
+## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of fluoxetine.
-Because these reactions are reported voluntarily from a population of uncertain size, it is difficult to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
-Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, galactorrhea, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including Torsades de Pointes-type arrhythmias), vaginal bleeding, and violent behaviors1.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or evaluate a causal relationship to drug exposure.
+
+Voluntary reports of adverse reactions temporally associated with fluoxetine that have been received since market introduction and that may have no causal relationship with the drug include the following: aplastic anemia, atrial fibrillation1, cataract, cerebrovascular accident1, cholestatic jaundice, dyskinesia (including, for example, a case of buccal-lingual-masticatory syndrome with involuntary tongue protrusion reported to develop in a 77-year-old female after 5 weeks of fluoxetine therapy and which completely resolved over the next few months following drug discontinuation), eosinophilic pneumonia1, epidermal necrolysis, erythema multiforme, erythema nodosum, exfoliative dermatitis, galactorrhea, gynecomastia, heart arrest1, hepatic failure/necrosis, hyperprolactinemia, hypoglycemia, immune-related hemolytic anemia, kidney failure, memory impairment, movement disorders developing in patients with risk factors including drugs associated with such reactions and worsening of pre-existing movement disorders, optic neuritis, pancreatitis1, pancytopenia, pulmonary embolism, pulmonary hypertension, QT prolongation, Stevens-Johnson syndrome, thrombocytopenia1, thrombocytopenic purpura, ventricular tachycardia (including Torsades de Pointes–type arrhythmias), vaginal bleeding, and violent behaviors1.
+
 1 These terms represent serious adverse events, but do not meet the definition for adverse drug reactions.
 They are included here because of their seriousness.
