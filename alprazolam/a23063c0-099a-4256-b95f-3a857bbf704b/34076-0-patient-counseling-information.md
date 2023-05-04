@@ -33,14 +33,14 @@ Advise patients to inform their healthcare provider of all medicines they take, 
 
 Pregnancy
 
-Benzodiazepines cross the placenta and may produce respiratory depression and sedation in neonates.
-Advise mothers using alprazolam tablets to monitor neonates for signs of sedation, respiratory depression, withdrawal symptoms, and feeding problems.
-Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant during treatment with alprazolam tablets [see Warnings and Precautions (5.4)].
+Advise pregnant females that use of alprazolam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns [see Warnings and Precautions (5.8), Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant.
+
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to alprazolam tablets during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise women not to breastfeed during treatment with alprazolam tablets [see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding is not recommended during treatment with alprazolam tablets [see Use in Specific Populations (8.2)].
 
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
@@ -49,4 +49,4 @@ Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 2/2022
+C 1/2023
