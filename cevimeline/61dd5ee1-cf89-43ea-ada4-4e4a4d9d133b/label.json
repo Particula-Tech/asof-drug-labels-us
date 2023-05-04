@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA216682"
+  ],
+  "inn": "cevimeline",
+  "labeler": "Advagen Pharma Ltd",
+  "package_ndcs": [
+    "72888-118-00",
+    "72888-118-01",
+    "72888-118-05",
+    "72888-118-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "cevimeline hydrochloride",
+      "name": "CEVIMELINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "61dd5ee1-cf89-43ea-ada4-4e4a4d9d133b",
+  "source": "dailymed"
+}
