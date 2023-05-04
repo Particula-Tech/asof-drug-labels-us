@@ -41,9 +41,7 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mg/mL Cartridge Label
 
-1 mL Single-dose Carpuject™ Sterile Cartridge Unit with Luer Lock
-
-Rx only NDC 0409-1985-03
+1 mL Single-dose Carpuject™ Sterile Cartridge Unit with Luer Lock NDC 0409-1985-03 Rx only
 
 Lorazepam Injection, USP 2 mg/mL CIV
 
@@ -54,9 +52,9 @@ Protect from light.
 
 Hospira Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-PAA128358
+PAA198675
 
-LOT #####AA EXP DMMMYYYY
+#####AA DMMMYYYY
 
 # PRINCIPAL DISPLAY PANEL - 2 mg/mL Cartridge Carton
 
