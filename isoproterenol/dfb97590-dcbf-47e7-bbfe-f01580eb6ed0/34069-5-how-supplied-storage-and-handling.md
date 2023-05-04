@@ -1,22 +1,23 @@
-# HOW SUPPLIED
+# 16. HOW SUPPLIED/STORAGE AND HANDLING
 
-| NDC | Container | Concentration | Fill | Quantity |
+| NDC Number | Container | Concentration | Fill | Quantity |
 | --- | --- | --- | --- | --- |
-| 14789-011-01 | Vial | 0.2 mg/mL | 1 mL | Pack of 10 Vials |
-| 14789-015-05 | Vial | 1 mg/5 mL (0.2 mg/mL) | 5 mL | Pack of 10 Vials |
+| 14789-011-01 | Single-dose vial | 0.2 mg/mL | 1 mL | 10 vials per carton |
+| 14789-015-05 | Single-dose vial | 1 mg/5 mL (0.2 mg/mL) | 5 mL | 10 vials per carton |
 
-Protect from Light.
+Protect from light.
+
 Keep in opaque container until used.
-
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature]
-
+Store at 20º to 25ºC (68º to 77ºF).
+[See USP Controlled Room Temperature.]
 Do not use if the injection is pinkish or darker than slightly yellow or contains a precipitate.
+
+Discard unused portion.
 
 The container closure is not made with natural rubber latex.
 
-Manufactured in Gremany for: Nexus Pharmaceuticals, Inc. Lincolnshire, IL 60069, USA Made in Germany
+Manufactured in Germany for: Nexus Pharmaceuticals, Inc. Lincolnshire, IL 60069, USA
 
-ISPPIR002DE
+ISPPI01DER03 Revised: 03/2023
 
-NEXUS PHARMACEUTICALS Revised: 09/2021
+NEXUS PHARMACEUTICALS
