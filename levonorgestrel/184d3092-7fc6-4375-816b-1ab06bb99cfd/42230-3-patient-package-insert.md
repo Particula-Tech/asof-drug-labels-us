@@ -216,11 +216,8 @@ See Figure C
   See Figure C
 - •To apply your patch you must first remove the protective, clear plastic film that is attached to the clear thicker plastic backing.
   See Figure D
-- •There is a silver foil-sticker attached to the inside of the pouch.
-  Do not remove the silver foil sticker from the pouch.
-  See Figure E
 
-| Figure C | Figure D | Figure E |
+| Figure C | Figure D |  |
 | --- | --- | --- |
 
 Step 4.
@@ -230,7 +227,7 @@ Placing the patch on your skin.
   See Figure F and Figure G
 - •Do not touch the sticky side of the patch with your fingers.
 
-| Figure F | Figure G |
+| Figure E | Figure F |
 | --- | --- |
 
 Note:
@@ -247,7 +244,7 @@ Press the patch firmly onto your skin.
 - •Rub the edges of the patch to make sure that it will stick to your skin.
   (See Figure H)
 
-Figure H
+Figure G
 
 Note:
 
