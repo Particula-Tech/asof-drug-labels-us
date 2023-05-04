@@ -271,7 +271,7 @@ Table 8: Clarithromycin Susceptibility Test Results and Clinical/Bacteriological
 
 |  |  |  | S2 | I2 | R2 | No MIC |
 | --- | --- | --- | --- | --- | --- | --- |
-| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes1 |  |  |  |  |  |  |
+| Clarithromycin Susceptibility Test Results and Clinical/Bacteriological Outcomes 1 |  |  |  |  |  |  |
 | Clarithromycin Pretreatment Results |  | Clarithromycin Post-treatment Results |  |  |  |  |
 |  |  | H. pylori negative – eradicated | H. pylori positive – not eradicated Post-treatment susceptibility results |  |  |  |
 | Dual Therapy – (omeprazole 40 mg once daily/clarithromycin 500 three times daily for 14 days followed by omeprazole 20 mg once daily for another 14 days) (Studies 4, 5) |  |  |  |  |  |  |
