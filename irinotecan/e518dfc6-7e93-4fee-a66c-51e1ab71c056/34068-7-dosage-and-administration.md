@@ -89,8 +89,7 @@ Dose Modifications
 Based on recommended dose-levels described in Table 3, Single-Agent Regimens of CAMPTOSAR and Dose Modifications, subsequent doses should be adjusted as suggested in Table 4, Recommended Dose Modifications for Single-Agent Schedules.
 All dose modifications should be based on the worst preceding toxicity.
 
-Table 4.
-Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
+Table 4.Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
 
 |  | Weekly | Weekly | Once Every 3 Weeks |
 | --- | --- | --- | --- |

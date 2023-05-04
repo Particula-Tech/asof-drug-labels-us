@@ -202,8 +202,7 @@ Patients receiving irinotecan reported significantly better results for the glob
 As expected, patients receiving irinotecan noted significantly more diarrhea than those receiving best supportive care.
 In Study 8, the multivariate analysis on all 15 subscales did not indicate a statistically significant difference between irinotecan and infusional 5-FU.
 
-Table 13.
-EORTC QLQ-C30: Mean Worst Post-Baseline ScoreFor the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms.
+Table 13.EORTC QLQ-C30: Mean Worst Post-Baseline ScoreFor the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms.
 The subscale scores of each patient were collected at each visit until the patient dropped out of the study.
 
 | Irinotecan | BSC | p-value | Irinotecan | 5-FU | p-value |  |

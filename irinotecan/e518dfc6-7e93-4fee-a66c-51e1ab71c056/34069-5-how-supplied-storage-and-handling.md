@@ -2,10 +2,10 @@
 
 CAMPTOSAR (irinotecan hydrochloride) Injection is available as a sterile, pale yellow, clear, aqueous solution in a vial packaged within a carton in the following packaging configurations:
 
-- Single-dose amber colored polypropylene CYTOSAFE® vial presentations:
-  - 40 mg/2 mL (20 mg/mL) NDC 0009-7529-04
-  - 100 mg/5 mL (20 mg/mL) NDC 0009-7529-03
-  - 300 mg/15 mL (20 mg/mL) NDC 0009-7529-05
+- •Single-dose amber colored polypropylene CYTOSAFE® vial presentations:
+  - o40 mg/2 mL (20 mg/mL) NDC 0009-7529-04
+  - o100 mg/5 mL (20 mg/mL) NDC 0009-7529-03
+  - o300 mg/15 mL (20 mg/mL) NDC 0009-7529-05
 
 Store at controlled room temperature 15°C to 30°C (59° to 86°F).
 Protect from light.
