@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA090348"
+  ],
+  "inn": "ziprasidone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-991-60",
+    "62135-992-60",
+    "62135-993-60",
+    "62135-994-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ziprasidone",
+      "name": "Ziprasidone"
+    }
+  ],
+  "setid": "7fbd9460-78a3-4160-9986-3a113de752a6",
+  "source": "dailymed"
+}
