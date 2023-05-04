@@ -1,11 +1,11 @@
 # ADVERSE REACTIONS
 
-Overall, the reported number of adverse events in the double-blind period of the controlled trial was similar for the CAFCIT (caffeine citrate) and placebo groups.
-The following table shows adverse events that occurred in the double-blind period of the controlled trial and that were more frequent in CAFCIT-treated patients than placebo.
+Overall, the reported number of adverse events in the double-blind period of the controlled trial was similar for the caffeine citrate and placebo groups.
+The following table shows adverse events that occurred in the double-blind period of the controlled trial and that were more frequent in caffeine citrate-treated patients than placebo.
 
-ADVERSE EVENTS THAT OCCURRED MORE FREQUENTLY IN CAFCIT-TREATED PATIENTS THAN PLACEBO DURING DOUBLE-BLIND THERAPY
+ADVERSE EVENTS THAT OCCURRED MORE FREQUENTLY IN CAFFEINE CITRATE-TREATED PATIENTS THAN PLACEBO DURING DOUBLE-BLIND THERAPY
 
-| Adverse Event (AE) | CAFCIT N=46 n (%) | Placebo N=39 n (%) |
+| Adverse Event (AE) | Caffeine Citrate N=46 n (%) | Placebo N=39 n (%) |
 | --- | --- | --- |
 | BODY AS A WHOLE |  |  |
 | Accidental Injury | 1 (2.2) | 0 (0.0) |
@@ -36,7 +36,7 @@ ADVERSE EVENTS THAT OCCURRED MORE FREQUENTLY IN CAFCIT-TREATED PATIENTS THAN PLA
 | UROGENITAL SYSTEM |  |  |
 | Kidney Failure | 1 (2.2) | 0 (0.0) |
 
-In addition to the cases above, three cases of necrotizing enterocolitis were diagnosed in patients receiving CAFCIT (caffeine citrate) during the open-label phase of the study.
+In addition to the cases above, three cases of necrotizing enterocolitis were diagnosed in patients receiving caffeine citrate during the open-label phase of the study.
 
 Three of the infants who developed necrotizing enterocolitis during the trial died.
 All had been exposed to caffeine.

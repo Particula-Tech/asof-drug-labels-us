@@ -5,7 +5,7 @@ Serious toxicity has been associated with serum levels greater than 50 mg/L (see
 Signs and symptoms reported in the literature after caffeine overdose in preterm infants include fever, tachypnea, jitteriness, insomnia, fine tremor of the extremities, hypertonia, opisthotonos, tonic-clonic movements, nonpurposeful jaw and lip movements, vomiting, hyperglycemia, elevated blood urea nitrogen, and elevated total leukocyte concentration.
 Seizures have also been reported in cases of overdose.
 One case of caffeine overdose complicated by development of intraventricular hemorrhage and long-term neurological sequelae has been reported.
-Another case of caffeine citrate overdose (from New Zealand; not CAFCIT) of an estimated 600 mg caffeine citrate (approximately 322 mg/kg) administered over 40 minutes was complicated by tachycardia, ST depression, respiratory distress, heart failure, gastric distention, acidosis, and a severe extravasation burn with tissue necrosis at the peripheral intravenous injection site.
+Another case of caffeine citrate overdose (from New Zealand) of an estimated 600 mg caffeine citrate (approximately 322 mg/kg) administered over 40 minutes was complicated by tachycardia, ST depression, respiratory distress, heart failure, gastric distention, acidosis, and a severe extravasation burn with tissue necrosis at the peripheral intravenous injection site.
 No deaths associated with caffeine overdose have been reported in preterm infants.
 
 Treatment of caffeine overdose is primarily symptomatic and supportive.

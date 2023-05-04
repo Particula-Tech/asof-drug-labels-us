@@ -1,7 +1,7 @@
-# ​PRINCIPAL DISPLAY PANELS
+# PRINCIPAL DISPLAY PANELS
 
-CAFCIT® INJECTION (caffeine citrate injection, USP) 60 mg/3 mL (20 mg/mL) For Intravenous Use Only 3 mL Single Dose Vial
+Caffeine Citrate Injection, USP 60 mg per 3 mL (20 mg/mL) For Intravenous Use ONLY 3 mL Single Dose Vial
 
-NDC 0641-6164-10 Rx only CAFCIT® INJECTION (caffeine citrate injection, USP) 60 mg/3 mL (20 mg/mL) For Intravenous Use Only 10 x 3 mL Single Dose Vials
+NDC 0641-6267-10 Rx only Caffeine Citrate Injection, USP 60 mg per 3 mL (20 mg/mL) For Intravenous Use ONLY 10 x 3 mL Single Dose Vials
 
 # SERIALIZATION IMAGE

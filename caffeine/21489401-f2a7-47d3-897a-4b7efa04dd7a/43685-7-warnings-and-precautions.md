@@ -3,40 +3,40 @@
 ## Necrotizing Enterocolitis
 
 During the double-blind, placebo-controlled clinical trial, 6 cases of necrotizing enterocolitis developed among the 85 infants studied (caffeine=46, placebo=39), with 3 cases resulting in death.
-Five of the six patients with necrotizing enterocolitis were randomized to or had been exposed to CAFCIT (caffeine citrate).
+Five of the six patients with necrotizing enterocolitis were randomized to or had been exposed to caffeine citrate.
 
 Reports in the published literature have raised a question regarding the possible association between the use of methylxanthines and development of necrotizing enterocolitis, although a causal relationship between methylxanthine use and necrotizing enterocolitis has not been established.
 In a published randomized, placebo-controlled, clinical trial that studied the use of caffeine citrate in apnea of prematurity in approximately 2000 patients, necrotizing enterocolitis was not more common in caffeine treated patients compared to placebo.
-As with all preterm infants, patients being treated with CAFCIT should be carefully monitored for the development of necrotizing enterocolitis.
+As with all preterm infants, patients being treated with caffeine citrate should be carefully monitored for the development of necrotizing enterocolitis.
 
 # PRECAUTIONS
 
 ## General
 
 Apnea of prematurity is a diagnosis of exclusion.
-Other causes of apnea (e.g., central nervous system disorders, primary lung disease, anemia, sepsis, metabolic disturbances, cardiovascular abnormalities, or obstructive apnea) should be ruled out or properly treated prior to initiation of CAFCIT (caffeine citrate).
+Other causes of apnea (e.g., central nervous system disorders, primary lung disease, anemia, sepsis, metabolic disturbances, cardiovascular abnormalities, or obstructive apnea) should be ruled out or properly treated prior to initiation of caffeine citrate.
 
 Caffeine is a central nervous system stimulant and in cases of caffeine overdose, seizures have been reported.
-CAFCIT should be used with caution in infants with seizure disorders.
+Caffeine citrate should be used with caution in infants with seizure disorders.
 
 The duration of treatment of apnea of prematurity in the placebo-controlled trial was limited to 10 to 12 days.
-The efficacy of CAFCIT for longer periods of treatment has not been established.
-Safety and efficacy of CAFCIT for use in the prophylactic treatment of sudden infant death syndrome (SIDS) or prior to extubation in mechanically ventilated infants have also not been established.
+The efficacy of caffeine citrate for longer periods of treatment has not been established.
+Safety and efficacy of caffeine citrate for use in the prophylactic treatment of sudden infant death syndrome (SIDS) or prior to extubation in mechanically ventilated infants have also not been established.
 
 ## Cardiovascular
 
 Although no cases of cardiac toxicity were reported in the placebo-controlled trial, caffeine has been shown to increase heart rate, left ventricular output, and stroke volume in published studies.
-Therefore, CAFCIT should be used with caution in infants with cardiovascular disease.
+Therefore, caffeine citrate should be used with caution in infants with cardiovascular disease.
 
-## ​Renal and Hepatic Systems
+## Renal and Hepatic Systems
 
-CAFCIT should be administered with caution in infants with impaired renal or hepatic function.
-Serum concentrations of caffeine should be monitored and dose administration of CAFCIT should be adjusted to avoid toxicity in this population.
+Caffeine citrate should be administered with caution in infants with impaired renal or hepatic function.
+Serum concentrations of caffeine should be monitored and dose administration of caffeine citrate should be adjusted to avoid toxicity in this population.
 (See CLINICAL PHARMACOLOGY, Elimination and Special Populations.)
 
 ## Laboratory Tests
 
-Prior to initiation of CAFCIT (caffeine citrate), baseline serum levels of caffeine should be measured in infants previously treated with theophylline, since preterm infants metabolize theophylline to caffeine.
+Prior to initiation of caffeine citrate, baseline serum levels of caffeine should be measured in infants previously treated with theophylline, since preterm infants metabolize theophylline to caffeine.
 Likewise, baseline serum levels of caffeine should be measured in infants born to mothers who consumed caffeine prior to delivery, since caffeine readily crosses the placenta.
 
 In the placebo-controlled clinical trial, caffeine levels ranged from 8 to 40 mg/L.
@@ -45,7 +45,7 @@ Serious toxicity has been reported in the literature when serum caffeine levels 
 Serum concentrations of caffeine may need to be monitored periodically throughout treatment to avoid toxicity.
 
 In clinical studies reported in the literature, cases of hypoglycemia and hyperglycemia have been observed.
-Therefore, serum glucose may need to be periodically monitored in infants receiving CAFCIT.
+Therefore, serum glucose may need to be periodically monitored in infants receiving caffeine citrate.
 
 ## Drug Interactions
 
