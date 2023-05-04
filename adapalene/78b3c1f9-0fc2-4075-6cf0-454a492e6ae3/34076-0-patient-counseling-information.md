@@ -19,4 +19,4 @@ Patients using DIFFERIN Lotion should receive the following information and inst
 
 Marketed by: GALDERMA LABORATORIES, L.P., Dallas, Texas 75201 USA Made in Canada.
 All trademarks are property of their respective owners.
-P51503-3
+P51503-X
