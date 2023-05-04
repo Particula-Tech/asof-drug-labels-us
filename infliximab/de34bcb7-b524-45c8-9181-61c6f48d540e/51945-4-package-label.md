@@ -6,7 +6,7 @@ AMGEN®
 
 NDC 55513-670-01
 
-AVSOLA™ (infliximab-axxq) For Injection
+AVSOLA® (infliximab-axxq) For Injection
 
 100 mg/vial
 
