@@ -4,12 +4,10 @@
 
 Carcinogenesis
 
-Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in rats, with its proliferative effects manifested on endocrine organs and the liver.
+Orally administered spironolactone has been shown to be a tumorigen in dietary administration studies performed in Sprague Dawley rats, with its proliferative effects manifested on endocrine organs and the liver.
 In an 18-month study using doses of about 50, 150, and 500 mg/kg/day, there were statistically significant increases in benign adenomas of the thyroid and testes and, in male rats, a dose-related increase in proliferative changes in the liver (including hepatocytomegaly and hyperplastic nodules).
-In a 24-month study in which the same strain of rat was administered doses of about 10, 30, and 100 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
-There was also a statistically significant, but not dose-related, increase in benign uterine endometrial stromal polyps in females.
-No increased tumors were seen at doses of 100 mg/kg/day.
-This dose represents about 5× the human recommended daily dose of 200 mg/day, when based on body surface area.
+In 24-month studies in which rats were administered doses of about 10, 30, 100, and 150 mg spironolactone/kg/day, the range of proliferative effects included significant increases in hepatocellular adenomas and testicular interstitial cell tumors in males, and significant increases in thyroid follicular cell adenomas and carcinomas in both sexes.
+There was also a statistically significant increase in benign uterine endometrial stromal polyps in females.
 
 Mutagenesis
 

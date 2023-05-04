@@ -29,7 +29,8 @@ Spironolactone and its metabolites are more than 90% bound to plasma proteins.
 
 Elimination
 
-The mean half-life of spironolactone is 1.4 hour.The mean half-life values of its metabolites including canrenone, 7-α-(thiomethyl) spirolactone (TMS), and 6-β-hydroxy-7-α-(thiomethyl) spirolactone (HTMS) are 16.5, 13.8, and 15 hours, respectively.
+The mean half-life of spironolactone is 1.4 hour.
+The mean half-life values of its metabolites including canrenone, 7-α-(thiomethyl) spirolactone (TMS), and 6-β-hydroxy-7-α-(thiomethyl) spirolactone (HTMS) are 16.5, 13.8, and 15 hours, respectively.
 
 Metabolism: Spironolactone is rapidly and extensively metabolized.
 Metabolites can be divided into two main categories: those in which sulfur of the parent molecule is removed (e.g., canrenone) and those in which the sulfur is retained (e.g., TMS and HTMS).
