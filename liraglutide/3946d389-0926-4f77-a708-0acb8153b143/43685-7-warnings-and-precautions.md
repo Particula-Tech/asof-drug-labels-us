@@ -80,7 +80,7 @@ Use caution when initiating or escalating doses of SAXENDA in patients with rena
 
 ## 5.7 Hypersensitivity Reactions
 
-There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with SAXENDA [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
+There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with SAXENDA [see Contraindications (4), Adverse Reactions (6.1, 6.2)].
 If a hypersensitivity reaction occurs, the patient should discontinue SAXENDA and other suspect medications and promptly seek medical advice.
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.

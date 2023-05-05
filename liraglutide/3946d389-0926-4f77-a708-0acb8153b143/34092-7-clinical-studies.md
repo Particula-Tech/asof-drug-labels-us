@@ -42,8 +42,8 @@ After 56 weeks, treatment with SAXENDA resulted in a statistically significant r
 Statistically significantly greater proportions of patients treated with SAXENDA achieved 5% and 10% weight loss than those treated with placebo.
 In Study 3, statistically significantly more patients randomized to SAXENDA than placebo had not gained more than 0.5% of body weight from randomization to week 56.
 
-1. Table 6.
-   Changes in Weight at Week 56 for Studies 1, 2, and 3
+Table 6.
+Changes in Weight at Week 56 for Studies 1, 2, and 3
 
 |  | Study 1 (Obesity or overweight with comorbidity) |  | Study 2 (Type 2 diabetes with obesity or overweight) |  | Study 3 (Obesity or overweight with comorbidity following at least 5% weight loss with diet) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -71,23 +71,23 @@ The cumulative frequency distributions of change in body weight from baseline to
 One way to interpret this figure is to select a change in body weight of interest on the horizontal axis and note the corresponding proportions of patients (vertical axis) in each treatment group who achieved at least that degree of weight loss.
 For example, note that the vertical line arising from ‑10% in Study 1 intersects the SAXENDA and placebo curves at approximately 34% and 15%, respectively, which correspond to the values shown in Table 6.
 
-1. Figure 2.
-   Change in body weight (%) from baseline to week 56 (Study 1 on left and Study 2 on right)
+- Figure 2.
+  Change in body weight (%) from baseline to week 56 (Study 1 on left and Study 2 on right)
 
 The time courses of weight loss with SAXENDA and placebo from baseline through week 56 are depicted in Figures 3 and 4.
 
-1. Figure 3.
-   Change from baseline (%) in body weight (Study 1 on left and Study 2 on right)
+- Figure 3.
+  Change from baseline (%) in body weight (Study 1 on left and Study 2 on right)
 
-1. Figure 4.
-   Change from baseline (%) in body weight during Study 3
+- Figure 4.
+  Change from baseline (%) in body weight during Study 3
 
 Effect of SAXENDA on Body Weight in a 160-week Trial (Study 1, Subset of Patients with Abnormal Blood Glucose at Randomization)
 
 The numbers and percentages of patients known to have lost greater than or equal to 5% body weight at week 56 and/or week 160 in Study 1 (patients with abnormal glucose at randomization only) are summarized in Table 7 for descriptive purposes.
 
-1. Table 7.
-   Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
+- Table 7.
+  Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
 
 |  | SAXENDAN=1505 | PlaceboN=749 |
 | --- | --- | --- |
@@ -112,13 +112,13 @@ Results from Study 3, which also enrolled patients without diabetes mellitus, we
 
 |  | SAXENDAN = 2487 |  | PlaceboN = 1244 |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Baseline | Change from Baseline(LSMean1) | Baseline | Change from Baseline(LSMean1) | SAXENDA minus Placebo(LSMean) |
+|  | Baseline | Change fromBaseline(LSMean1) | Baseline | Change from Baseline(LSMean1) | SAXENDA minus Placebo(LSMean) |
 | Waist Circumference (cm) | 115.0 | -8.2 | 114.5 | -4.0 | -4.2 |
 | Systolic Blood Pressure (mmHg) | 123.0 | -4.3 | 123.3 | -1.5 | -2.8 |
 | Diastolic Blood Pressure (mmHg) | 78.7 | -2.7 | 78.9 | -1.8 | -0.9 |
 | Heart Rate (bpm)2 | 71.4 | 2.6 | 71.3 | 0.1 | 2.5 |
 | HbA1c (%) | 5.6 | -0.3 | 5.6 | -0.1 | -0.2 |
-|  | Baseline | % Change from Baseline(LSMean1) | Baseline | % Change from Baseline(LSMean1) | Relative Difference of SAXENDA to Placebo(LSMean) |
+|  | Baseline | % Changefrom Baseline(LSMean1) | Baseline | % Change from Baseline(LSMean1) | Relative Difference of SAXENDA to Placebo(LSMean) |
 | Total Cholesterol (mg/dL)* | 193.8 | -3.2 | 194.4 | -0.9 | -2.3 |
 | LDL Cholesterol (mg/dL)* | 111.8 | -3.1 | 112.3 | -0.7 | -2.4 |
 | HDL Cholesterol (mg/dL)* | 51.4 | 2.3 | 50.9 | 0.5 | 1.9 |
@@ -130,10 +130,12 @@ Based on last observation carried forward method while on study drug
 
 2 See Warnings and Precautions (5.5)
 
-* Baseline value is the geometric mean †Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
+* Baseline value is the geometric mean
 
-1. Table 9.
-   Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
+†Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
+
+- Table 9.
+  Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
 
 |  | SAXENDAN = 423 |  | PlaceboN = 212 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -180,8 +182,8 @@ The estimated treatment difference in BMI SDS reduction from baseline between SA
 
 The time course of change in BMI SDS with SAXENDA and placebo from baseline through week 56 are depicted in Figure 5.
 
-1. Figure 5.
-   Change from Baseline in BMI SDS
+Figure 5.
+Change from Baseline in BMI SDS
 
 Changes in weight and BMI with SAXENDA are shown in Table 10.
 Changes in waist circumference and cardiometabolic parameters with SAXENDA are shown in Table 11.
@@ -204,7 +206,8 @@ Full Analysis Set.
 For body weight and BMI, baseline values are means, changes from baseline at week 56 are estimated means (least-squares) and treatment contrasts at week 56 are estimated treatment differences.
 Missing observations were imputed from the placebo arm based on a jump to reference multiple (x100) imputation approach.
 
-Table 11.Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 4 (Pediatric Patients Ages 12 to Less than 18)
+Table 11.
+Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 4 (Pediatric Patients Ages 12 to Less than 18)
 
 |  | SAXENDAN = 125 |  | PlaceboN = 126 |  |  |
 | --- | --- | --- | --- | --- | --- |

@@ -4,7 +4,9 @@
 
 SAXENDA injection: 6 mg/mL clear, colorless solution in a 3 mL single-patient-use pre-filled pen that delivers doses of 0.6 mg, 1.2 mg, 1.8 mg, 2.4 mg or 3 mg is available in the following package sizes:
 
-3 x SAXENDA pen NDC 0169-2800-13 5 x SAXENDA pen NDC 0169-2800-15
+3 x SAXENDA pen NDC 0169-2800-13
+
+5 x SAXENDA pen NDC 0169-2800-15
 
 ## 16.2 Recommended Storage
 

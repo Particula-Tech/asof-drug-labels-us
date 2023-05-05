@@ -62,13 +62,13 @@ Never Share a SAXENDA Pen Between Patients
 Inform patients that they should never share a SAXENDA pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-Version: 9
+Version: 10
 
 SAXENDA® and VICTOZA® are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2022 Novo Nordisk
+© 2023 Novo Nordisk
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 

@@ -63,9 +63,9 @@ In lactating rats, liraglutide was present unchanged in milk at concentrations a
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of SAXENDA as an adjunct to a reduced-calorie diet and increased physical activity for chronic weight management have been established in pediatric patients aged 12 years and older with body weight above 60 kg and an initial BMI corresponding to 30 kg/m2 or greater for adults (obese) by international cut-offs (see Table 2).
-Use of SAXENDA for this indication is supported by a 56-week double-blind, placebo-controlled clinical trial in 251 pediatric patients aged 12 to 17 years, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3) and Clinical Studies (14.1,14.2)].
+Use of SAXENDA for this indication is supported by a 56-week double-blind, placebo-controlled clinical trial in 251 pediatric patients aged 12 to 17 years, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3), Clinical Studies (14.1,14.2)].
 
-In the pediatric clinical trial, there was one death due to suicide in a SAXENDA-treated patient [see Warnings and Precautions (5.8)];one SAXENDA-treated patient had an event of pancreatitis [see Warnings and Precautions (5.2)];more episodes of hypoglycemia confirmed by self blood glucose monitoring occurred in SAXENDA-treated patients compared to placebo [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)]; and mean increases in resting heart rate of 3 to 7 bpm from baseline were observed with SAXENDA-treated patients [see Warnings and Precautions (5.5)].
+In the pediatric clinical trial, there was one death due to suicide in a SAXENDA-treated patient [see Warnings and Precautions (5.8)]; one SAXENDA-treated patient had an event of pancreatitis [see Warnings and Precautions (5.2)]; more episodes of hypoglycemia confirmed by self blood glucose monitoring occurred in SAXENDA-treated patients compared to placebo [see Warnings and Precautions (5.4), Adverse Reactions (6.1)]; and mean increases in resting heart rate of 3 to 7 bpm from baseline were observed with SAXENDA-treated patients [see Warnings and Precautions (5.5)].
 
 The safety and effectiveness of SAXENDA have not been established in patients less than 12 years of age.
 
@@ -77,7 +77,7 @@ No overall differences in safety or effectiveness were observed between these pa
 ## 8.6 Renal Impairment
 
 There is limited experience with SAXENDA in patients with mild, moderate, and severe renal impairment, including end‑stage renal disease.
-However, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure with liraglutide, which may sometimes require hemodialysis [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
+However, there have been postmarketing reports of acute renal failure and worsening of chronic renal failure with liraglutide, which may sometimes require hemodialysis [see Warnings and Precautions (5.6), Adverse Reactions (6.2)].
 SAXENDA should be used with caution in this patient population [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment

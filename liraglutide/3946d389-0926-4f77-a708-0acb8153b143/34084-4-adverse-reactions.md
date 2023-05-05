@@ -29,8 +29,8 @@ The most common adverse reactions leading to discontinuation were nausea (2.9% v
 Adverse reactions reported in greater than or equal to 2% of SAXENDA-treated adult patients and more frequently than in placebo-treated patients are shown in Table 4.
 Adverse reactions reported in greater than or equal to 3% of SAXENDA-treated pediatric patients and more frequently than in placebo-treated patients are shown in Table 5.
 
-1. Table 4.
-   Adverse Reactions Occurring in > 2% of SAXENDA-treated Adult Patients and More Frequently than Placebo
+- Table 4.
+  Adverse Reactions Occurring in > 2% of SAXENDA-treated Adult Patients and More Frequently than Placebo
 
 |  | PlaceboN = 1941% | SAXENDAN = 3384% |
 | --- | --- | --- |
@@ -61,9 +61,7 @@ Adverse reactions reported in greater than or equal to 3% of SAXENDA-treated ped
 
 1 The most common reactions, each reported by 1% to 2.5% of SAXENDA-treated patients and more commonly than by placebo-treated patients, included erythema, pruritus, and rash at the injection site.
 
-2 Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia in patients with type 2 diabetes
-
-not on concomitant insulin (Study 2, SAXENDA N=423, Placebo N=212).
+2 Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia in patients with type 2 diabetes not on concomitant insulin (Study 2, SAXENDA N=423, Placebo N=212).
 See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
 T2DM = type 2 diabetes mellitus
 
@@ -89,7 +87,7 @@ Adverse Reactions Occurring in > 3% of SAXENDA-treated Pediatric Patients and Mo
 | Pain in extremity | 2.4 | 4.0 |
 | Injection site pain | 3.2 | 3.2 |
 | Flatulence | 0 | 3.2 |
-| IncreasedBlood Creatine Kinase | 2.4 | 3.2 |
+| Increased Blood Creatine Kinase | 2.4 | 3.2 |
 | Increased Lipase | 0.8 | 3.2 |
 | Rash | 0 | 3.2 |
 
@@ -208,7 +206,7 @@ Among SAXENDA-treated patients, 2.1% had a lipase value at anytime during treatm
 0.1% of SAXENDA-treated patients had an amylase value at anytime in the trial of greater than or equal to 3 times the upper limit of normal versus 0.1% of placebo-treated patients.
 The clinical significance of elevations in lipase or amylase with SAXENDA is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
-## 6.2 Post-Marketing Experience
+## 6.2 Post Marketing Experience
 
 The following adverse reactions have been reported during post-approval use of liraglutide, the active ingredient of SAXENDA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
@@ -219,7 +217,7 @@ Neoplasms
 
 Gastrointestinal Disorders
 
-- Acute pancreatitis, hemorrhagic and necrotizing pancreatitis, sometimes resulting in death
+- Acute pancreatitis, hemorrhagic and necrotizing pancreatitis, sometimes resulting in death, ileus
 
 Metabolism and Nutrition Disorders
 
@@ -240,5 +238,5 @@ Immune System Disorders
 Hepatobiliary Disorders
 
 - Hyperbilirubinemia, elevations of liver enzymes, cholestasis and hepatitis
-- Skin andSubcutaneous Tissue Disorders
+- Skin and Subcutaneous Tissue Disorders
 - Cutaneous amyloidosis
