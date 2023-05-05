@@ -1,8 +1,8 @@
 # DOSAGE AND ADMINISTRATION
 
-ADULT
+## Adult
 
-Tacrolimus Ointment 0.03% and 0.1%
+### Tacrolimus Ointment 0.03% and 0.1%
 
 - Apply a thin layer of Tacrolimus Ointment to the affected skin twice daily.
   The minimum amount should be rubbed in gently and completely to control signs and symptoms of atopic dermatitis.
@@ -13,9 +13,9 @@ Tacrolimus Ointment 0.03% and 0.1%
 The safety of Tacrolimus Ointment under occlusion, which may promote systemic exposure, has not been evaluated.
 Tacrolimus Ointment should not be used with occlusive dressings.
 
-PEDIATRIC – FOR CHILDREN 2-15 YEARS
+## Pediatric – For Children 2-15 Years
 
-Tacrolimus Ointment 0.03%
+### Tacrolimus Ointment 0.03%
 
 - Apply a thin layer of Tacrolimus Ointment, 0.03% to the affected skin twice daily.
   The minimum amount should be rubbed in gently and completely to control signs and symptoms of atopic dermatitis.

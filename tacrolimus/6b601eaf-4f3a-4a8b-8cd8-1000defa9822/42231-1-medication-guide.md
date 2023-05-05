@@ -1,10 +1,4 @@
-# MEDICATION GUIDE
-
-Tacrolimus
-
-Ointment 0.03%
-
-Ointment 0.1%
+# MEDICATION GUIDE Tacrolimus Ointment 0.03% Ointment 0.1%
 
 Read the Medication Guide every time you or a family member gets Tacrolimus Ointment.
 There may be new information.
@@ -50,7 +44,7 @@ What should I tell my doctor before starting Tacrolimus Ointment?
 
 Before you start using Tacrolimus Ointment, you and your doctor should talk about all of your medical conditions, including if you:
 
-- have a skin disease called Netherton’s syndrome (a rare inherited condition).
+- have a skin disease called Netherton's syndrome (a rare inherited condition).
 - have any infection on your skin including chicken pox or herpes.
 - have been told you have a weakened immune system.
 - are pregnant, breastfeeding, or planning to become pregnant.
@@ -66,11 +60,12 @@ How should I use Tacrolimus Ointment?
 - Use Tacrolimus Ointment only on areas of your skin that have eczema.
 - Use Tacrolimus Ointment for short periods, and if needed, treatment may be repeated with breaks in between.
 - Stop Tacrolimus Ointment when the signs and symptoms of eczema, such as itching, rash, and redness go away, or as directed by your doctor.
-- Follow your doctor’s advice if symptoms of eczema return after treatment with Tacrolimus Ointment.
+- Follow your doctor's advice if symptoms of eczema return after treatment with Tacrolimus Ointment.
 - Call your doctor if:
-
-• your symptoms get worse with Tacrolimus Ointment. • you get an infection on your skin. • your symptoms do not improve after 6 weeks of treatment.
-Sometimes other skin diseases can look like eczema.
+  - your symptoms get worse with Tacrolimus Ointment.
+  - you get an infection on your skin.
+  - your symptoms do not improve after 6 weeks of treatment.
+    Sometimes other skin diseases can look like eczema.
 
 To apply Tacrolimus Ointment:
 
@@ -102,20 +97,20 @@ What are the possible side effects of Tacrolimus Ointment?
 
 Please read the first section of this Medication Guide.
 
-The most common side effects of Tacrolimus Ointment at the skin application site are stinging, burning, or itching of the skin treated with Tacrolimus Ointment.
+The most common side effects of Tacrolimus Ointment at the skin application site are stinging, burning, or itching of the skin treated with Tacrolimus.
 These side effects are usually mild to moderate, are most common during the first few days of treatment, and usually go away as your skin heals.
 
 Other side effects include acne, swollen or infected hair follicles, headache, increased sensitivity of the skin to hot or cold temperatures, or flu-like symptoms such as the common cold and stuffy nose, skin tingling, upset stomach, muscle pain, swollen glands (enlarged lymph nodes), or skin infections including cold sores, chicken pox or shingles.
 
 Talk to your doctor if you have a skin infection or if side effects (for example, swollen glands) continue or bother you.
 
-While you are using Tacrolimus Ointment, drinking alcohol may cause the skin or face to become flushed or red and feel hot.
+While you are using Tacrolimus, drinking alcohol may cause the skin or face to become flushed or red and feel hot.
 
 These are not all the side effects with Tacrolimus Ointment.
 Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088
 
 How should I store Tacrolimus Ointment?
 
@@ -139,28 +134,12 @@ For more information, you can call Perrigo at 1-866-634-9120.
 
 What are the ingredients in Tacrolimus Ointment?
 
-Active Ingredient: tacrolimus, either 0.03% or 0.1%
+Active Ingredient: tacrolimus, either 0.03% or 0.1% Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum, white wax, all-rac-α-tocopherol and butylhydroxytoluene.
 
-Inactive Ingredients: mineral oil, paraffin, propylene carbonate, white petrolatum, white wax, all-rac-α-tocopherol and butylhydroxytoluene.
+Manufactured by: LEO Laboratories Ltd. 285 Cashel Road Dublin 12, Ireland
 
-Manufactured by:
-
-LEO® ​
-
-​LEO Laboratories Ltd.
-
-285 Cashel Road
-
-Dublin 12, Ireland
-
-Distributed by:
-
-Perrigo®
-
-Allegan, MI 49010
-
-www.perrigo.com
+Distributed by: Padagis Allegan, MI 49010 www.padagis.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 02/2019
+Revised: 12/2022

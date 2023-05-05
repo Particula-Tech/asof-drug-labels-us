@@ -12,7 +12,7 @@ Additionally, tacrolimus has been shown to inhibit the release of pre-formed med
 
 ## Pharmacokinetics
 
-Absorption
+### Absorption
 
 The pooled results from three pharmacokinetic studies in 88 adult atopic dermatitis patients indicate that tacrolimus is minimally absorbed after the topical application of Tacrolimus Ointment.
 Peak tacrolimus blood concentrations ranged from undetectable to 20 ng/mL after single or multiple doses of 0.03% and 0.1% Tacrolimus Ointment, with 85% (75/88) of the patients having peak blood concentrations less than 2 ng/mL.
@@ -27,7 +27,7 @@ The lowest tacrolimus blood level at which systemic effects (e.g., immunosuppres
 
 Systemic levels of tacrolimus have also been measured in pediatric patients (see Special Populations: Pediatrics).
 
-Distribution
+### Distribution
 
 The plasma protein binding of tacrolimus is approximately 99% and is independent of concentration over a range of 5-50 ng/mL.
 Tacrolimus is bound mainly to albumin and alpha-1-acid glycoprotein, and has a high level of association with erythrocytes.
@@ -37,7 +37,7 @@ In a US study, the ratio of whole blood concentration to plasma concentration av
 There was no evidence based on blood concentrations that tacrolimus accumulates systemically upon intermittent topical application for periods of up to 1 year.
 As with other topical calcineurin inhibitors, it is not known whether tacrolimus is distributed into the lymphatic system.
 
-Metabolism
+### Metabolism
 
 Tacrolimus is extensively metabolized by the mixed-function oxidase system, primarily the cytochrome P-450 system (CYP3A).
 A metabolic pathway leading to the formation of 8 possible metabolites has been proposed.
@@ -45,7 +45,7 @@ Demethylation and hydroxylation were identified as the primary mechanisms of bio
 The major metabolite identified in incubations with human liver microsomes is 13-demethyl tacrolimus.
 In in vitro studies, a 31-demethyl metabolite has been reported to have the same activity as tacrolimus.
 
-Excretion
+### Excretion
 
 The mean clearance following IV administration of tacrolimus is 0.040, 0.083 and 0.053 L/hr/kg in healthy volunteers, adult kidney transplant patients and adult liver transplant patients, respectively.
 In man, less than 1% of the dose administered is excreted unchanged in urine.
@@ -58,9 +58,9 @@ When administered PO, the mean recovery of the radiolabel was 94.9 ± 30.7%.
 Fecal elimination accounted for 92.6 ± 30.7%, urinary elimination accounted for 2.3 ± 1.1% and the elimination half-life based on radioactivity was 31.9 ± 10.5 hours whereas it was 48.4 ± 12.3 hours based on tacrolimus concentrations.
 The mean clearance of radiolabel was 0.226 ± 0.116 L/hr/kg and clearance of tacrolimus 0.172 ± 0.088 L/hr/kg.
 
-Special Populations
+## Special Populations
 
-Pediatrics
+### Pediatrics
 
 In a pharmacokinetic study of 14 pediatric atopic dermatitis patients, between the ages of 2-5 years, peak blood concentrations of tacrolimus ranged from undetectable to 14.8 ng/mL after single or multiple doses of 0.03% Tacrolimus Ointment, with 86% (12/14) of patients having peak blood concentrations below 2 ng/mL throughout the study.
 
@@ -73,12 +73,12 @@ When detected, systemic exposure generally declined as treatment continued.
 
 In clinical studies with periodic blood sampling, a similar distribution of tacrolimus blood levels was also observed, with 98% (509/522) of pediatric patients having a blood concentration below 2 ng/mL.
 
-Renal Insufficiency
+### Renal Insufficiency
 
 The effect of renal insufficiency on the pharmacokinetics of topically administered tacrolimus has not been evaluated.
 The mean clearance of IV administered tacrolimus in patients with renal dysfunction was similar to that of normal volunteers.
 On the basis of this information dose-adjustment is not expected to be needed.
 
-Hepatic Insufficiency
+### Hepatic Insufficiency
 
 The effect of hepatic insufficiency on the pharmacokinetics of topically administered tacrolimus has not been evaluated but dose-adjustment is not expected to be needed.
