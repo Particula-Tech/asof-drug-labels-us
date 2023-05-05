@@ -1,0 +1,165 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Important Administration Instructions
+
+DO NOT SUBSTITUTE FOR OR WITH OTHER PACLITAXEL FORMULATIONS.
+Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) has different dosage and administration instructions from other paclitaxel products.
+
+Closely monitor the infusion site for extravasation or drug infiltration during administration.
+Limiting the infusion of Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) to 30 minutes may reduce the risk of infusion-related reactions [see Adverse Reactions (6.2)].
+
+Consider premedication in patients who have had prior hypersensitivity reactions to Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound).
+Do not re-challenge patients who experience a severe hypersensitivity reaction to Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) [see Contraindications (4) and Warnings and Precautions (5.5)].
+
+## 2.2 Recommended Dosage for Metastatic Breast Cancer
+
+After failure of combination chemotherapy for metastatic breast cancer or relapse within 6 months of adjuvant chemotherapy, the recommended regimen for Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) is 260 mg/m2 administered intravenously over 30 minutes every 3 weeks.
+
+## 2.3 Recommended Dosage for Non-Small Cell Lung Cancer
+
+The recommended dose of Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) is 100 mg/m2 administered as an intravenous infusion over 30 minutes on Days 1, 8, and 15 of each 21-day cycle.
+Administer carboplatin on Day 1 of each 21-day cycle immediately after Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) [see Clinical Studies (14.2)].
+
+## 2.4 Recommended Dosage for Adenocarcinoma of the Pancreas
+
+The recommended dose of Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) is 125 mg/m2 administered as an intravenous infusion over 30-40 minutes on Days 1, 8 and 15 of each 28-day cycle.
+Administer gemcitabine immediately after Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) on Days 1, 8 and 15 of each 28-day cycle [see Clinical Studies (14.3)].
+
+## 2.5 Dosage Modifications for Hepatic Impairment
+
+For patients with moderate or severe hepatic impairment, reduce the starting dose of Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) as shown in Table 1.
+
+Table 1: Recommendations for Starting Dose in Patients with Moderate and Severe Hepatic Impairment
+
+|  | AST Levels |  | Bilirubin Levels | Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) Dosea |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| MBC | NSCLC c | Adenocarcinoma of Pancreasc |  |  |  |  |
+| Moderate | < 10 x ULN | AND | > 1.5 to ≤ 3 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
+| Severe | < 10 x ULN | AND | > 3 to ≤ 5 x ULN | 200 mg/m2 b | 80 mg/m2 b | not recommended |
+|  | > 10 x ULN | OR | > 5 x ULN | not recommended | not recommended | not recommended |
+| AST = Aspartate Aminotransferase; MBC = Metastatic Breast Cancer; NSCLC = Non-Small Cell Lung Cancer; ULN = Upper limit of normal. |  |  |  |  |  |  |
+| a Dosage recommendations are for the first course of therapy. The need for further dose adjustments in subsequent courses should be based on individual tolerance. |  |  |  |  |  |  |
+| b A dose increase to 260 mg/m2 for patients with metastatic breast cancer or 100 mg/m2 for patients with non-small cell lung cancer in subsequent courses should be considered if the patient tolerates the reduced dose for two cycles. |  |  |  |  |  |  |
+| c Patients with bilirubin levels above the upper limit of normal were excluded from clinical trials for pancreatic or lung cancer. |  |  |  |  |  |  |
+
+## 2.6 Dosage Modifications for Adverse Reactions
+
+Metastatic Breast Cancer
+
+Patients who experience severe neutropenia (neutrophils less than 500 cells/mm3 for a week or longer) or severe sensory neuropathy during Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) therapy should have dosage reduced to 220 mg/m2 for subsequent courses of Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound).
+For recurrence of severe neutropenia or severe sensory neuropathy, additional dose reduction should be made to 180 mg/m2.
+For Grade 3 sensory neuropathy hold treatment until resolution to Grade 1 or 2, followed by a dose reduction for all subsequent courses of Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) [see Contraindications (4), Warnings and Precautions (5.1, 5.2) and Adverse Reactions (6.1)].
+
+Non-Small Cell Lung Cancer
+
+- Do not administer Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) on Day 1 of a cycle until absolute neutrophil count (ANC) is at least 1500 cells/mm3 and platelet count is at least 100,000 cells/mm3 [see Contraindications (4), Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+- In patients who develop severe neutropenia or thrombocytopenia withhold treatment until counts recover to an absolute neutrophil count of at least 1500 cells/mm3 and platelet count of at least 100,000 cells/mm3 on Day 1 or to an absolute neutrophil count of at least 500 cells/mm3 and platelet count of at least 50,000 cells/mm3 on Days 8 or 15 of the cycle.
+  Upon resumption of dosing, permanently reduce Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) and carboplatin doses as outlined in Table 2.
+- Withhold Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) for Grade 3-4 peripheral neuropathy.
+  Resume Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) and carboplatin at reduced doses (see Table 2) when peripheral neuropathy improves to Grade 1 or completely resolves [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
+
+Table 2: Permanent Dose Reductions for Hematologic and Neurologic Adverse Reactions in NSCLC
+
+| Adverse Reaction | Occurrence | Weekly Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) Dose (mg/m2) | Every 3-Week Carboplatin Dose (AUC mg•min/mL) |
+| --- | --- | --- | --- |
+| Neutropenic Fever (ANC less than 500/mm3 with fever >38°C) OR Delay of next cycle by more than 7 days for ANC less than 1500/mm3 OR ANC less than 500/mm3 for more than 7 days | First | 75 | 4.5 |
+| Second | 50 | 3 |  |
+| Third | Discontinue Treatment |  |  |
+| Platelet count less than 50,000/mm3 | First | 75 | 4.5 |
+| Second | Discontinue Treatment |  |  |
+| Severe sensory Neuropathy – Grade 3 or 4 | First | 75 | 4.5 |
+| Second | 50 | 3 |  |
+| Third | Discontinue Treatment |  |  |
+
+Adenocarcinoma of the Pancreas
+
+Dose level reductions for patients with adenocarcinoma of the pancreas, as referenced in Tables 4 and 5, are provided in Table 3.
+
+Table 3: Dose Level Reductions for Patients with Adenocarcinoma of the Pancreas
+
+| Dose Level | Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) (mg/m2) | Gemcitabine (mg/m2) |
+| --- | --- | --- |
+| Full dose | 125 | 1,000 |
+| 1st dose reduction | 100 | 800 |
+| 2nd dose reduction | 75 | 600 |
+| If additional dose reduction required | Discontinue | Discontinue |
+
+Recommended dose modifications for neutropenia and thrombocytopenia for patients with adenocarcinoma of the pancreas are provided in Table 4.
+
+Table 4: Dose Recommendation and Modifications for Neutropenia and/or Thrombocytopenia at the Start of a Cycle or within a Cycle for Patients with Adenocarcinoma of the Pancreas
+
+| Cycle Day | ANC (cells/mm3) |  | Platelet count (cells/mm3) | Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) / Gemcitabine |
+| --- | --- | --- | --- | --- |
+| Day 1 | < 1,500 | OR | < 100,000 | Delay doses until recovery |
+| Day 8 | 500 to < 1,000 | OR | 50,000 to < 75,000 | Reduce 1 dose level |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| Day 15: If Day 8 doses were reduced or given without modification: |  |  |  |  |
+|  | 500 to < 1,000 | OR | 50,000 to < 75,000 | Reduce 1 dose level from Day 8 |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| Day 15: If Day 8 doses were withheld: |  |  |  |  |
+|  | ≥ 1,000 | OR | ≥ 75,000 | Reduce 1 dose level from Day 1 |
+|  | 500 to < 1,000 | OR | 50,000 to < 75,000 | Reduce 2 dose levels from Day 1 |
+|  | < 500 | OR | < 50,000 | Withhold doses |
+| ANC = Absolute Neutrophil Count |  |  |  |  |
+
+Recommended dose modifications for other adverse reactions in patients with adenocarcinoma of the pancreas are provided in Table 5.
+
+Table 5: Dose Modifications for Other Adverse Reactions in Patients with Adenocarcinoma of the Pancreas
+
+| Adverse Reaction | Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) | Gemcitabine |
+| --- | --- | --- |
+| Febrile Neutropenia: Grade 3 or 4 | Withhold until fever resolves and ANC ≥ 1,500; resume at next lower dose level |  |
+| Peripheral Neuropathy: Grade 3 or 4 | Withhold until improves to ≤ Grade 1; resume at next lower dose level | No dose reduction |
+| Cutaneous Toxicity: Grade 2 or 3 | Reduce to next lower dose level; discontinue treatment if toxicity persists |  |
+| Gastrointestinal Toxicity: Grade 3 mucositis or diarrhea | Withhold until improves to ≤ Grade 1; resume at next lower dose level |  |
+
+## 2.7 Preparation for Intravenous Administration
+
+Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) is a hazardous drug.
+Follow applicable special handling and disposal procedures.1 The use of gloves is recommended.
+If Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) (lyophilized cake or reconstituted suspension) contacts the skin, wash the skin immediately and thoroughly with soap and water.
+Following topical exposure to paclitaxel, events may include tingling, burning and redness.
+If Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) contacts mucous membranes, the membranes should be flushed thoroughly with water.
+
+Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) is supplied as a sterile lyophilized powder for reconstitution before use.
+
+Read the entire preparation instructions prior to reconstitution.
+
+| Aseptically, reconstitute each vial by injecting 20 mL of 0.9% Sodium Chloride Injection, USP. Slowly inject the 20 mL of 0.9% Sodium Chloride Injection, USP, over a minimum of 1 minute, using the sterile syringe to direct the solution flow onto the INSIDE WALL OF THE VIAL. DO NOT INJECT the 0.9% Sodium Chloride Injection, USP, directly onto the lyophilized cake as this will result in foaming. Once the injection is complete, allow the vial to sit for a minimum of 5 minutes to ensure proper wetting of the lyophilized cake/powder. Gently swirl and/or invert the vial slowly for at least 2 minutes until complete dissolution of any cake/powder occurs. Avoid generation of foam. If foaming or clumping occurs, stand solution for at least 15 minutes until foam subsides. |
+| --- |
+
+Each mL of the reconstituted formulation will contain 5 mg/mL paclitaxel.
+
+The reconstituted suspension should be milky and homogenous without visible particulates.
+If particulates or settling are visible, the vial should be gently inverted again to ensure complete resuspension prior to use.
+Discard the reconstituted suspension if precipitates are observed.
+Discard any unused portion.
+
+Calculate the exact total dosing volume of 5 mg/mL suspension required for the patient and slowly withdraw the dosing volume of the reconstituted suspension from the vial(s) into a syringe: Dosing volume (mL)=Total dose (mg)/5 (mg/mL).
+
+Inject the appropriate amount of reconstituted Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) into an empty, sterile intravenous bag [plasticized polyvinyl chloride (PVC) containers, PVC or non-PVC type intravenous bag].
+The use of specialized DEHP-free solution containers or administration sets is not necessary to prepare or administer Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) infusions.
+The use of medical devices containing silicone oil as a lubricant (i.e., syringes and intravenous bags) to reconstitute and administer Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) may result in the formation of proteinaceous strands.
+
+Visually inspect the reconstituted Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) suspension in the intravenous bag prior to administration.
+Discard the reconstituted suspension if proteinaceous strands, particulate matter or discoloration are observed.
+
+## 2.8 Stability
+
+Unopened vials of Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) are stable until the date indicated on the package when stored between 20ºC to 25ºC (68ºF to 77ºF) (see USP Controlled Room Temperature) in the original package.
+Neither freezing nor refrigeration adversely affects the stability of the product.
+
+Stability of Reconstituted Suspension in the Vial
+
+Reconstituted Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) in the vial should be used immediately, but may be refrigerated at 2ºC to 8ºC (36ºF to 46ºF) for a maximum of 24 hours if necessary.
+If not used immediately, each vial of reconstituted suspension should be replaced in the original carton to protect it from bright light.
+Discard any unused portion.
+
+Stability of Reconstituted Suspension in the Infusion Bag
+
+The suspension for infusion when prepared as recommended in an infusion bag should be used immediately, but may be refrigerated at 2°C to 8°C (36°F to 46°F) and protected from bright light for a maximum of 24 hours.
+
+The total combined refrigerated storage time of reconstituted Paclitaxel Protein-Bound Particles for Injectable Suspension (Albumin-Bound) in the vial and in the infusion bag is 24 hours.
+This may be followed by storage in the infusion bag at ambient temperature (approximately 25°C) and lighting conditions for a maximum of 4 hours.
+
+Discard any unused portion.

@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211875"
+  ],
+  "inn": "paclitaxel",
+  "labeler": "American Regent, Inc.",
+  "package_ndcs": [
+    "0517-4300-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
+      "generic": "paclitaxel",
+      "name": "Paclitaxel"
+    }
+  ],
+  "setid": "f06d1bb3-83f1-4d84-8004-4c6681ad8a5a",
+  "source": "dailymed"
+}
