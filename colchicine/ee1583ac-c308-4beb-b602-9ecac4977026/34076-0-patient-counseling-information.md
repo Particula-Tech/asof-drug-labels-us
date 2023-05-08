@@ -18,8 +18,8 @@ Grapefruit and grapefruit juice may also interact and should not be consumed dur
 Neuromuscular Toxicity Advise patients that muscle pain or weakness, tingling or numbness in fingers or toes may occur with colchicine capsules alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue colchicine capsules and seek medical evaluation immediately.
 
-Distr. by: West-Ward Pharmaceuticals Corp. Eatontown, NJ 07724
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000043/02
+C50000449/01
 
-Revised July 2019
+Revised March 2023

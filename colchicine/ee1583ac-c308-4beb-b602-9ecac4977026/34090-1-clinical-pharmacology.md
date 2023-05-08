@@ -22,7 +22,7 @@ Distribution
 
 Colchicine has a mean apparent volume of distribution in healthy young volunteers of approximately 5 to 8 L/kg.
 Colchicine binding to serum protein is about 39%, primarily to albumin.
-Colchicine crosses the placenta and distributes into breast milk [See Pregnancy (8.1) and Nursing Mothers (8.3)].
+Colchicine crosses the placenta and distributes into breast milk [see Pregnancy (8.1) and Nursing Mothers (8.3)].
 
 Metabolism
 
@@ -50,11 +50,11 @@ It is possible that the higher exposure in the elderly subjects was due to decre
 
 Renal impairment: Pharmacokinetics of colchicine in patients with mild and moderate renal impairment is not known.
 A published report described the disposition of colchicine (1 mg) in young adult men and women patients who had end-stage renal disease requiring dialysis compared to patients with normal renal function.
-Patients with end-stage renal disease had 75% lower colchicine clearance (0.17 vs. 0.73 L/hr/kg) and prolonged plasma elimination half-life (18.8 hrs vs. 4.4 hrs) as compared to subjects with normal renal function [See Renal Impairment (8.6)].
+Patients with end-stage renal disease had 75% lower colchicine clearance (0.17 vs. 0.73 L/hr/kg) and prolonged plasma elimination half-life (18.8 hrs vs. 4.4 hrs) as compared to subjects with normal renal function [see Renal Impairment (8.6)].
 
 Hepatic impairment: Published reports on the pharmacokinetics of intravenous colchicine in patients with severe chronic liver disease, as well as those with alcoholic or primary biliary cirrhosis, and normal renal function suggest wide inter-patient variability.
 In some subjects with mild to moderate cirrhosis, the clearance of colchicine is significantly reduced and plasma half-life prolonged compared to healthy subjects.
-In subjects with primary biliary cirrhosis, no consistent trends were noted [See Hepatic Impairment (8.7)].
+In subjects with primary biliary cirrhosis, no consistent trends were noted [see Hepatic Impairment (8.7)].
 No pharmacokinetic data are available for patients with severe hepatic impairment (Child-Pugh C).
 
 Drug Interactions
