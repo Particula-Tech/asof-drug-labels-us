@@ -60,4 +60,4 @@ Renal Disorders: acute kidney injury, nephropathy toxic, transient proteinuria, 
 
 Respiratory; Thoracic, and Mediastinal Disorders: respiratory arrest, pulmonary or laryngeal edema, bronchospasm, sneezing, throat irritation, throat tightness, laryngeal edema, pharyngeal edema, asthmatic attack
 
-Skin and Subcutaneous Tissue Disorders: Reactions range from mild (e.g. pleomorphic rashes, drug eruption, erythema, pruritus, urticaria and skin discoloration, hyperhidrosis, angioedema, localized areas of edema) to severe: [e.g., Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)]
+Skin and Subcutaneous Tissue Disorders: Reactions range from mild (e.g., pleomorphic rashes, drug eruption, erythema, pruritus, urticaria and skin discoloration, hyperhidrosis, angioedema, localized areas of edema) to severe: [e.g., Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), acute generalized exanthematous pustulosis (AGEP) and drug reaction with eosinophilia and systemic symptoms (DRESS)]
