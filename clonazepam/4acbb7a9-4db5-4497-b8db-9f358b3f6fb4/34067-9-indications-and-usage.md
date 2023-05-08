@@ -2,11 +2,10 @@
 
 ## Seizure Disorders:
 
-Clonazepam is useful alone or as an adjunct in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic and myoclonic seizures.
+Clonazepam is useful alone or as an adjunct in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic, and myoclonic seizures.
 In patients with absence seizures (petit mal) who have failed to respond to succinimides, clonazepam may be useful.
 
-In some studies, up to 30% of patients have shown a loss of anticonvulsant activity, often within 3 months of administration.
-In some cases, dosage adjustment may re-establish efficacy.
+Some loss of effect may occur during the course of clonazepam treatment (see PRECAUTIONS: Loss of Effect).
 
 ## Panic Disorder:
 

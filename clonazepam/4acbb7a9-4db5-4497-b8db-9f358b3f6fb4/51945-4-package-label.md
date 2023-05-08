@@ -19,13 +19,13 @@ DISPENSE in tight, light-resistant containers as defined in USP/NF.
 
 STORE at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
+Manufactured by: Prinston Laboratories Charlotte, NC 28206, USA
 
-Rev: FEB2018
+Rev: JUL2022
 
-9040305-02
+9040403-03
 
 # PRINCIPAL DISPLAY PANEL - 1 mg
 
@@ -48,13 +48,13 @@ DISPENSE in tight, light-resistant containers as defined in USP/NF.
 
 STORE at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
+Manufactured by: Prinston Laboratories Charlotte, NC 28206, USA
 
-Rev: FEB2018
+Rev: JUL2022
 
-9040308-02
+9040408-03
 
 # PRINCIPAL DISPLAY PANEL - 2 mg
 
@@ -77,10 +77,10 @@ DISPENSE in tight, light-resistant containers as defined in USP/NF.
 
 STORE at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
-Distributed by: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
+Manufactured by: Prinston Laboratories Charlotte, NC 28206, USA
 
-Rev: FEB2018
+Rev: JUL2022
 
-9040311-02
+9040411-03

@@ -25,8 +25,9 @@ Miscellaneous: Dehydration, general deterioration, fever, lymphadenopathy, weigh
 
 Neurologic: Abnormal eye movements, aphonia, choreiform movements, coma, diplopia, dysarthria, dysdiadochokinesis, "glassy-eyed" appearance, headache, hemiparesis, hypotonia, nystagmus, respiratory depression, slurred speech, tremor, vertigo
 
-Psychiatric: Confusion, depression, amnesia, hallucinations, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
-The following paradoxical reactions have been observed: excitability, irritability, aggressive behavior, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares and vivid dreams
+Psychiatric: Confusion, depression, amnesia, hysteria, increased libido, insomnia, psychosis (the behavior effects are more likely to occur in patients with a history of psychiatric disturbances).
+
+The following paradoxical reactions have been observed: irritability, aggression, agitation, nervousness, hostility, anxiety, sleep disturbances, nightmares, abnormal dreams, hallucinations.
 
 Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
 
@@ -39,13 +40,12 @@ An event was considered treatment-emergent if it occurred for the first time or 
 
 Adverse Findings Observed in Short-Term, Placebo-Controlled Trials:
 
-Adverse Events Associated With Discontinuation of Treatment:
+Adverse Events Associated with Discontinuation of Treatment:
 
 Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam compared to 9% for placebo in the combined data of two 6- to 9-week trials.
 The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for clonazepam than that of placebo included the following:
 
-Table 2.
-Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
+Table 2 Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
 
 | Adverse Event | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
 | Ataxia | 1% | 0% |
 | Intellectual Ability Reduced | 1% | 0% |
 
-Adverse Events Occurring at an Incidence of 1% or More Among Clonazepam-Treated Patients:
+Adverse Events Occurring at an Incidence of 1% or More among Clonazepam-Treated Patients:
 
 Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6- to 9-week trials.
 Events reported in 1% or more of patients treated with clonazepam (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
@@ -65,14 +65,13 @@ The prescriber should be aware that the figures in Table 3 cannot be used to pre
 Similarly, the cited frequencies cannot be compared with figures obtained from other clinical investigations involving different treatments, uses and investigators.
 The cited figures, however, do provide the prescribing physician with some basis for estimating the relative contribution of drug and nondrug factors to the side effect incidence in the population studied.
 
-Table 3.
-Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Clinical TrialsEvents reported by at least 1% of patients treated with clonazepam and for which the incidence was greater than that for placebo.
+Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Clinical Trials*
 
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event by Body System | <1mg n=96 % | 1-<2mg n=129 % | 2-<3mg n=113 % | ≥3mg n=235 % | All Clonazepam Groups N=574 % | Placebo N=294 % |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |
-| SomnolenceIndicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤0.10. | 26 | 35 | 50 | 36 | 37 | 10 |
+| Somnolence† Indicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤0.10. | 26 | 35 | 50 | 36 | 37 | 10 |
 | Dizziness | 5 | 5 | 12 | 8 | 8 | 4 |
 | Coordination Abnormal | 1 | 2 | 7 | 9 | 6 | 0 |
 | Ataxia | 2 | 1 | 8 | 8 | 5 | 0 |
@@ -81,7 +80,7 @@ Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Cl
 | Depression | 7 | 6 | 8 | 8 | 7 | 1 |
 | Memory Disturbance | 2 | 5 | 2 | 5 | 4 | 2 |
 | Nervousness | 1 | 4 | 3 | 4 | 3 | 2 |
-| Intellectual Ability Reduced | 0 | 2 | 4 | 3 | 2 | 0 |
+| ntellectual Ability Reduced | 0 | 2 | 4 | 3 | 2 | 0 |
 | Emotional Lability | 0 | 1 | 2 | 2 | 1 | 1 |
 | Libido Decreased | 0 | 1 | 3 | 1 | 1 | 0 |
 | Confusion | 0 | 2 | 2 | 1 | 1 | 0 |
@@ -108,7 +107,7 @@ Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Cl
 | Urinary Tract Infection | 0 | 0 | 2 | 2 | 1 | 0 |
 | Vision Disorders |  |  |  |  |  |  |
 | Blurred Vision | 1 | 2 | 3 | 0 | 1 | 1 |
-| Reproductive DisordersDenominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |
+| Reproductive Disorders‡ Denominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |
 | Female |  |  |  |  |  |  |
 | Dysmenorrhea | 0 | 6 | 5 | 2 | 3 | 2 |
 | Colpitis | 4 | 0 | 2 | 1 | 1 | 1 |
@@ -118,8 +117,7 @@ Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Controlled Cl
 
 Commonly Observed Adverse Events:
 
-Table 4.
-Incidence of Most Commonly Observed Adverse EventsTreatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients.in Acute Therapy in Pool of 6- to 9-Week Trials
+Table 4 Incidence of Most Commonly Observed Adverse EventsTreatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients.in Acute Therapy in Pool of 6- to 9-Week Trials
 
 | Adverse Event | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
@@ -161,7 +159,7 @@ Musculoskeletal System Disorders: back pain, fracture traumatic, sprains and str
 
 Platelet, Bleeding and Clotting Disorders: bleeding dermal
 
-Psychiatric Disorders: insomnia, organic disinhibition, anxiety, depersonalization, dreaming excessive, libido loss, appetite increased, libido increased, reactions decreased, aggressive reaction, apathy, attention lack, excitement, feeling mad, hunger abnormal, illusion, nightmares, sleep disorder, suicide ideation, yawning
+Psychiatric Disorders: insomnia, organic disinhibition, anxiety, depersonalization, dreaming excessive, libido loss, appetite increased, libido increased, reactions decreased, aggression, apathy, disturbance in attention, excitement, anger, hunger abnormal, illusion, nightmares, sleep disorder, suicide ideation, yawning
 
 Reproductive Disorders, Female: breast pain, menstrual irregularity
 
@@ -173,7 +171,7 @@ Respiratory System Disorders: sneezing excessive, asthmatic attack, dyspnea, nos
 
 Skin and Appendages Disorders: acne flare, alopecia, xeroderma, dermatitis contact, flushing, pruritus, pustular reaction, skin burns, skin disorder
 
-Special Senses, Other Disorders: taste loss
+Special Senses, Other, Disorders: taste loss
 
 Urinary System Disorders: dysuria, cystitis, polyuria, urinary incontinence, bladder dysfunction, urinary retention, urinary tract bleeding, urine discoloration
 
