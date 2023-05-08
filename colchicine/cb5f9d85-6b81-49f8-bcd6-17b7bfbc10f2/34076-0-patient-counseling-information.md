@@ -28,10 +28,8 @@ Neuromuscular Toxicity
 Advise patients that muscle pain or weakness, tingling or numbness in fingers or toes may occur with MITIGARE® alone or when it is used with certain other drugs.
 Patients developing any of these signs or symptoms must discontinue MITIGARE® and seek medical evaluation immediately.
 
-Mfd. for: Hikma Americas Inc. Memphis, TN 38120
+Distributed by: Hikma Specialty USA Inc. Columbus, OH 43228
 
-Mfd. by: West-Ward Columbus Inc. Columbus, OH 43228
+C500000454/01
 
-C50000042/02
-
-Revised July 2019
+Revised March 2023

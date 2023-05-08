@@ -2,7 +2,7 @@
 
 ## 8.1 Use in Pregnancy
 
-Pregnancy Category C. There are no adequate and well-controlled studies with MITIGARE® in pregnant women.
+There are no adequate and well-controlled studies with MITIGARE® in pregnant women.
 Colchicine crosses the human placenta.
 Developmental studies in animals were not conducted with MITIGARE®, however published animal reproduction and development studies with colchicine demonstrated embryofetal toxicity, teratogenicity, and altered postnatal development at exposures within or above the clinical therapeutic range.
 Colchicine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.

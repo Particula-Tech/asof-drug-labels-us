@@ -22,7 +22,7 @@ Distribution
 
 Colchicine has a mean apparent volume of distribution in healthy young volunteers of approximately 5 to 8 L/kg.
 Colchicine binding to serum protein is about 39%, primarily to albumin.
-Colchicine crosses the placenta and distributes into breast milk [see Pregnancy (8.1) and Nursing Mothers (8.3)].
+Colchicine crosses the placenta and distributes into breast milk [see Pregnancy (8.1) and Nursing Mothers(8.3)].
 
 Metabolism
 
