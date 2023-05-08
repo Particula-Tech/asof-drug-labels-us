@@ -19,14 +19,14 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.10)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.9)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
 Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.3)].
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Buprenorphine Sublingual Tablets itself.
 Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of Buprenorphine Sublingual Tablets and its affinity for the mu-opioid receptor [see Overdosage (10)].
@@ -60,7 +60,7 @@ Ensure that other healthcare providers prescribing benzodiazepines or other CNS 
 If concomitant use is warranted, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, as is recommended for all patients in buprenorphine treatment for opioid use disorder [see Warnings and Precautions (5.2)].
 
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
-Toxicology screening should test for prescribed and illicit benzodiazepines [see DrugInteractions (7)].
+Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
 
 ## 5.4 Unintentional Pediatric Exposure
 
@@ -91,7 +91,7 @@ The information available does not identify any particular opioids as being more
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and chronic administration produces physical dependence of the opioid type, characterized by withdrawal signs and symptoms upon abrupt discontinuation or rapid taper.
 The withdrawal syndrome is typically milder than seen with full agonists and may be delayed in onset [see Drug Abuse and Dependence (9.3)].
-When discontinuing Buprenorphine Sublingual Tablets, gradually taper the dosage [see Dosage and Administration (2.10)].
+When discontinuing Buprenorphine Sublingual Tablets, gradually taper the dosage [see Dosage and Administration (2.9)].
 
 ## 5.8 Risk of Hepatitis, Hepatic Events
 
@@ -126,18 +126,9 @@ Buprenorphine Sublingual Tablets are not appropriate as an analgesic.
 
 In a pharmacokinetic study, buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.8), Use in Specific Populations (8.6)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Use in Specific Populations (8.6)].
 
-## 5.13 QTc Prolongation
-
-Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤15 msec.
-This QTc prolongation effect does not appear to be mediated by hERG channels.
-Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
-The risk of combining buprenorphine with other QT-prolonging agents is not known.
-
-Consider these observations in clinical decisions when prescribing Buprenorphine Sublingual Tablets to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
-
-## 5.14 Dental Adverse Events
+## 5.13 Dental Adverse Events
 
 Cases of dental caries, some severe (i.e., tooth fracture, tooth loss), have been reported following the use of transmucosal buprenorphine-containing products.
 Reported events include cavities, tooth decay, dental abscesses/infection, rampant caries, tooth erosion, fillings falling out, and, in some cases, total tooth loss.
@@ -147,7 +138,16 @@ Multiple cases were reported in individuals without any prior history of dental 
 Refer patients to dental care services and encourage them to have regular dental checkups while taking Buprenorphine Sublingual Tablets.
 Educate patients to seek dental care and strategies to maintain or improve oral health while being treated with transmucosal buprenorphine-containing products.
 Strategies include, but are not limited to, gently rinsing the teeth and gums with water and then swallowing after Buprenorphine Sublingual Tablets have been completely dissolved in the oral mucosa.
-Advise patients to wait for at least one hour after taking Buprenorphine Sublingual Tablets before brushing teeth [see Dosing and Administration (2.6), Information for Patients (17), Medication Guide].
+Advise patients to wait for at least one hour after taking Buprenorphine Sublingual Tablets before brushing teeth [see Dosing and Administration (2.5), Information for Patients (17), Medication Guide].
+
+## 5.14 QTc Prolongation
+
+Thorough QT studies with buprenorphine products have demonstrated QT prolongation ≤15 msec.
+This QTc prolongation effect does not appear to be mediated by hERG channels.
+Based on these two findings, buprenorphine is unlikely to be pro-arrhythmic when used alone in patients without risk factors.
+The risk of combining buprenorphine with other QT-prolonging agents is not known.
+
+Consider these observations in clinical decisions when prescribing Buprenorphine Sublingual Tablets to patients with risk factors such as hypokalemia, bradycardia, recent conversion from atrial fibrillation, congestive heart failure, digitalis therapy, baseline QT prolongation, subclinical long-QT syndrome, or severe hypomagnesemia.
 
 ## 5.15 Impairment of Ability to Drive or Operate Machinery
 

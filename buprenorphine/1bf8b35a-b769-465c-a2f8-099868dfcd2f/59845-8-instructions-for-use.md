@@ -12,7 +12,7 @@ Preparing to take Buprenorphine Sublingual Tablets:
 
 - •Put the tablets under your tongue.
   Let them dissolve completely.
-- 
+
 - •While Buprenorphine Sublingual Tablet is dissolving, do not chew or swallow the tablet because the medicine will not work as well.
 - •Talking while the tablet is dissolving can affect how well the medicine in Buprenorphine Sublingual Tablets is absorbed.
 - •After Buprenorphine Sublingual Tablet is completely dissolved, rinse your mouth with water and swallow.
@@ -45,6 +45,6 @@ If you need help with disposal of Buprenorphine Sublingual Tablets, call Hikma P
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000231/10 Revised April 2022
+C50000231/12 Revised April 2023
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.

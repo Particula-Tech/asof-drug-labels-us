@@ -121,7 +121,7 @@ Due to possible decreased hepatic, renal, or cardiac function and of concomitant
 The effects of hepatic impairment on the pharmacokinetics of buprenorphine were evaluated in a pharmacokinetic study.
 Buprenorphine is extensively metabolized in the liver and buprenorphine plasma levels were found to be higher and the half-life was found to be longer in subjects with moderate and severe hepatic impairment, but not in subjects with mild hepatic impairment.
 
-For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.8), Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
+For patients with severe hepatic impairment, a dose adjustment is recommended, and patients with moderate or severe hepatic impairment should be monitored for signs and symptoms of toxicity or overdose caused by increased levels of buprenorphine [see Dosage and Administration (2.7), Warnings and Precautions (5.12), Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
