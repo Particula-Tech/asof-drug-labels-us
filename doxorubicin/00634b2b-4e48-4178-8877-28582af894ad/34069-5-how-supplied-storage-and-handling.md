@@ -4,16 +4,14 @@ Doxorubicin Hydrochloride Injection
 
 Doxorubicin Hydrochloride Injection is a sterile, isotonic solution, available in polypropylene (CYTOSAFE)® vials in single vial packs as:
 
-Single-dose Vials:
-
-- 10 mg/5 mL (2 mg/mL) NDC 0069-4004-05 20 mg/10 mL (2 mg/mL) NDC 0069-4015-10 50 mg/25 mL (2 mg/mL) NDC 0069-4026-25
+1. Single-dose Vials:
+2. 10 mg/5 mL (2 mg/mL) NDC 0069-4004-05 20 mg/10 mL (2 mg/mL) NDC 0069-4015-10 50 mg/25 mL (2 mg/mL) NDC 0069-4026-25
 
 Retain in carton until time of use.
 Discard unused portion.
 
-Multiple-dose Vials:
-
-- 200 mg/100 mL (2 mg/mL) NDC 0069-4037-01
+1. Multiple-dose Vials:
+2. 200 mg/100 mL (2 mg/mL) NDC 0069-4037-01
 
 Retain in carton until contents are used.
 

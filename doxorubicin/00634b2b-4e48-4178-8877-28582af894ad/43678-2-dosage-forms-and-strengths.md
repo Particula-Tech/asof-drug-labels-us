@@ -2,5 +2,5 @@
 
 Doxorubicin Hydrochloride Injection:
 
-- 10 mg/5 mL, 20 mg/10 mL, and 50 mg/25 mL (2 mg/mL) clear red solution in a single-dose vial.
-- 200 mg/100 mL (2 mg/mL) clear red solution in a multiple-dose vial.
+- •10 mg/5 mL, 20 mg/10 mL, and 50 mg/25 mL (2 mg/mL) clear red solution in a single-dose vial.
+- •200 mg/100 mL (2 mg/mL) clear red solution in a multiple-dose vial.
