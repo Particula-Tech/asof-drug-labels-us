@@ -397,7 +397,7 @@ Table 11 Components of ACR 20 and Percentage of Adult PsA Patients with 1 or Mor
 
 |  | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- |
-| Patients Randomized | Placebo (n=100) |  | Infliximab 5mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 (n=100) |  |
+| Patients Randomized | Placebo (n=100) |  | Infliximab 5 mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 (n=100) |  |
 | Parameter (medians) |  |  |  |  |
 | No. of Tender JointsScale 0–68 | 24 | 20 | 20 | 6 |
 | No. of Swollen JointsScale 0–66 | 12 | 9 | 12 | 3 |
