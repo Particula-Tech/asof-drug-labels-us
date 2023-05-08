@@ -84,10 +84,8 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 APOTEX INC. AZELASTINE HYDROCHLORIDE NASAL SPRAY 137 mcg
 
-| Manufactured by | Manufactured for |
-| --- | --- |
-| Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | 33326 |
+Manufactured in Canada for
 
-Revised: September 2018
+Apotex Corp, Weston, FL 33326
+
+Revised: November 2021
