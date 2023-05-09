@@ -3,6 +3,7 @@
 ## 1.1 Heart Failure
 
 Spironolactone tablets are indicated for treatment of NYHA Class III-IV heart failure and reduced ejection fraction to increase survival, manage edema, and reduce the need for hospitalization for heart failure.
+
 Spironolactone tablets are usually administered in conjunction with other heart failure therapies.
 
 ## 1.2 Hypertension

@@ -2,7 +2,7 @@
 
 ## 2.1 General Considerations
 
-Spironolactone tablets can be taken with or without food, but should be taken consistently with respect to food [see Clinical Pharmacology (12.3)].
+Spironolactone tablets can be taken with or without food, but should be taken consistently with respect to food [seeClinical Pharmacology (12.3)].
 
 ## 2.2 Treatment of Heart Failure
 
