@@ -1,4 +1,4 @@
-# WARNINGS:
+# WARNINGS
 
 ## Serious Neurologic Adverse Reactions with Epidural Administration
 
@@ -9,27 +9,28 @@ The safety and effectiveness of epidural administration of corticosteroids have 
 
 ## General
 
-After mixing as directed, methylprednisolone (see DESCRIPTION) contains benzyl alcohol, which is potentially toxic when administered locally to neural tissue.
+After mixing as directed, methylprednisolone (see DESCRIPTION) contain benzyl alcohol, which is potentially toxic when administered locally to neural tissue.
 Exposure to excessive amounts of benzyl alcohol has been associated with toxicity (hypotension, metabolic acidosis), particularly in neonates, and an increased incidence of kernicterus, particularly in small preterm infants.
 There have been rare reports of deaths, primarily in preterm infants, associated with exposure to excessive amounts of benzyl alcohol.
 The amount of benzyl alcohol from medications is usually considered negligible compared to that received in flush solutions containing benzyl alcohol.
 Administration of high dosages of medications containing this preservative must take into account the total amount of benzyl alcohol administered.
 The amount of benzyl alcohol at which toxicity may occur is not known.
 If the patient requires more than the recommended dosages or other medications containing this preservative, the practitioner must consider the daily metabolic load of benzyl alcohol from these combined sources (see PRECAUTIONS, Pediatric Use).
-Injection of methylprednisolone may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
+
+Injection of Methylprednisolone Sodium Succinate for Injection may result in dermal and/or subdermal changes forming depressions in the skin at the injection site.
 In order to minimize the incidence of dermal and subdermal atrophy, care must be exercised not to exceed recommended doses in injections.
 Injection into the deltoid muscle should be avoided because of a high incidence of subcutaneous atrophy.
 
 Rare instances of anaphylactoid reactions have occurred in patients receiving corticosteroid therapy (see ADVERSE REACTIONS).
 
-In patients receiving the 40 mg presentation of methylprednisolone sodium succinate during the treatment for acute allergic conditions and where these symptoms worsen or any new allergic symptoms occur, consideration should be given to the potential for hypersensitivity reactions to cow's milk ingredients (see CONTRAINDICATIONS).
-If appropriate, administration of methylprednisolone sodium succinate should be stopped, and the patient's condition should be treated accordingly.
+In patients receiving the 40 mg presentation of Methylprednisolone Sodium Succinate for Injection during the treatment for acute allergic conditions and where these symptoms worsen or any new allergic symptoms occur, consideration should be given to the potential for hypersensitivity reactions to cow's milk ingredients (see CONTRAINDICATIONS).
+If appropriate, administration of Methylprednisolone Sodium Succinate for Injection should be stopped, and the patient's condition should be treated accordingly.
 Alternative treatments, including the use of corticosteroid formulations that do not contain ingredients produced from cow's milk, should be considered for acute allergy management, where appropriate.
 
 Increased dosage of rapidly acting corticosteroids is indicated in patients on corticosteroid therapy who are subjected to any unusual stress before, during, and after the stressful situation.
 
 Results from one multicenter, randomized, placebo-controlled study with methylprednisolone hemisuccinate, an intravenous corticosteroid, showed an increase in early (at 2 weeks) and late (at 6 months) mortality in patients with cranial trauma who were determined not to have other clear indications for corticosteroid treatment.
-High doses of systemic corticosteroids, including methylprednisolone sodium succinate, should not be used for the treatment of traumatic brain injury.
+High doses of systemic corticosteroids, including Methylprednisolone Sodium Succinate for Injection, should not be used for the treatment of traumatic brain injury.
 
 ## Cardio-renal
 
@@ -42,7 +43,7 @@ Literature reports suggest an apparent association between the use of corticoste
 
 ## Endocrine
 
-Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing’s syndrome, and hyperglycemia.
+Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia.
 Monitor patients for these conditions with chronic use.
 
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
@@ -60,7 +61,7 @@ Since recurrence has occurred after re-challenge, avoid use of high dose intrave
 
 ## Infections
 
-General
+### General
 
 Patients who are on corticosteroids are more susceptible to infections than are healthy individuals.
 There may be decreased resistance and inability to localize infection when corticosteroids are used.
@@ -79,7 +80,7 @@ The study also suggests that treatment of these conditions with methylprednisolo
 Corticosteroids may exacerbate systemic fungal infections and therefore should not be used in the presence of such infections unless they are needed to control drug reactions.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure (see CONTRAINDICATIONS and PRECAUTIONS, Drug Interactions, Amphotericin B injection and potassium-depleting agents).
 
-## Special Pathogens
+## Special pathogens
 
 Latent disease may be activated or there may be an exacerbation of intercurrent infections due to pathogens, including those caused by Amoeba, Candida, Cryptococcus, Mycobacterium, Nocardia, Pneumocystis, Toxoplasma.
 
@@ -102,10 +103,10 @@ During prolonged corticosteroid therapy, these patients should receive chemoprop
 
 Administration of live or live, attenuated vaccines is contraindicated in patients receiving immunosuppressive doses of corticosteroids.
 Killed or inactivated vaccines may be administered.
-However, the response to such vaccines cannot be predicted.
-Immunization procedures may be undertaken in patients receiving corticosteroids as replacement therapy, e.g., for Addison’s disease.
+However, the response to such vaccines can not be predicted.
+Immunization procedures may be undertaken in patients receiving corticosteroids as replacement therapy, e.g., for Addison's disease.
 
-## Viral Infections
+## Viral infections
 
 Chicken pox and measles can have a more serious or even fatal course in pediatric and adult patients on corticosteroids.
 In pediatric and adult patients who have not had these diseases, particular care should be taken to avoid exposure.
@@ -126,9 +127,9 @@ The use of oral corticosteroids is not recommended in the treatment of optic neu
 Corticosteroids should be used cautiously in patients with ocular herpes simplex because of corneal perforation.
 Corticosteroids should not be used in active ocular herpes simplex.
 
-# PRECAUTIONS:
+# PRECAUTIONS
 
-General
+## General
 
 This product, like many other steroid formulations, is sensitive to heat.
 Therefore, it should not be autoclaved when it is desirable to sterilize the exterior of the vial.
@@ -138,7 +139,7 @@ When reduction in dosage is possible, the reduction should be gradual.
 
 Since complications of treatment with glucocorticoids are dependent on the size of the dose and the duration of treatment, a risk/benefit decision must be made in each individual case as to dose and duration of treatment and as to whether daily or intermittent therapy should be used.
 
-Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
+Kaposi's sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
 Discontinuation of corticosteroids may result in clinical improvement.
 
 ## Cardio-renal
@@ -170,10 +171,11 @@ Special consideration should be given to patients at increased risk of osteoporo
 
 Local injection of a steroid into a previously infected site is not usually recommended.
 
-## Neurologic-Psychiatric
+## Neurologic-psychiatric
 
 Although controlled clinical trials have shown corticosteroids to be effective in speeding the resolution of acute exacerbations of multiple sclerosis, they do not show that corticosteroids affect the ultimate outcome or natural history of the disease.
-The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect (see DOSAGE AND ADMINISTRATION).
+The studies do show that relatively high doses of corticosteroids are necessary to demonstrate a significant effect.
+(See DOSAGE AND ADMINISTRATION.)
 
 An acute myopathy has been observed with the use of high doses of corticosteroids, most often occurring in patients with disorders of neuromuscular transmission (e.g., myasthenia gravis), or in patients receiving concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium).
 This acute myopathy is generalized, may involve ocular and respiratory muscles, and may result in quadriparesis.
@@ -188,7 +190,7 @@ Also, existing emotional instability or psychotic tendencies may be aggravated b
 Intraocular pressure may become elevated in some individuals.
 If steroid therapy is continued for more than 6 weeks, intraocular pressure should be monitored.
 
-## Information for the Patient
+## Information for Patients
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids, and to seek medical advice at once should they develop fever or other signs of infection.
 
@@ -207,7 +209,8 @@ Antibiotics: Macrolide antibiotics have been reported to cause a significant dec
 Anticholinesterases: Concomitant use of anticholinesterase agents and corticosteroids may produce severe weakness in patients with myasthenia gravis.
 If possible, anticholinesterase agents should be withdrawn at least 24 hours before initiating corticosteroid therapy.
 
-Anticoagulants, oral: Co-administration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.
+Anticoagulants, oral: Coadministration of corticosteroids and warfarin usually results in inhibition of response to warfarin, although there have been some conflicting reports.
+
 Therefore, coagulation indices should be monitored frequently to maintain the desired anticoagulant effect.
 
 Antidiabetics: Because corticosteroids may increase blood glucose concentrations, dosage adjustments of antidiabetic agents may be required.
@@ -246,16 +249,18 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 Corticosteroids have been shown to impair fertility in male rats.
 
-## Pregnancy
+## Pregnancy: Teratogenic effects
 
-Teratogenic Effects: Pregnancy Category C. Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
+Corticosteroids have been shown to be teratogenic in many species when given in doses equivalent to the human dose.
 Animal studies in which corticosteroids have been given to pregnant mice, rats, and rabbits have yielded an increased incidence of cleft palate in the offspring.
 There are no adequate and well-controlled studies in pregnant women.
+
 Corticosteroids should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
 This product contains benzyl alcohol as a preservative.
-Benzyl alcohol can cross the placenta (see PRECAUTIONS, Pediatric Use).
+Benzyl alcohol can cross the placenta.
+See PRECAUTIONS: Pediatric use.
 
 ## Nursing Mothers
 
@@ -267,16 +272,16 @@ Because of the potential for serious adverse reactions in nursing infants from c
 After mixing as directed, this product contains benzyl alcohol as a preservative (see DESCRIPTION).
 
 Benzyl alcohol, a component of this product, has been associated with serious adverse events and death, particularly in pediatric patients.
-The “gasping syndrome” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages > 99 mg/kg/day in neonates and low-birth-weight neonates.
+The “gasping syndrome” (characterized by central nervous system depression, metabolic acidosis, gasping respirations, and high levels of benzyl alcohol and its metabolites found in the blood and urine) has been associated with benzyl alcohol dosages >99 mg/kg/day in neonates and low-birth-weight neonates.
 Additional symptoms may include gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Although normal therapeutic doses of this product ordinarily deliver amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
+Although normal therapeutic doses of this product ordinarily delivers amounts of benzyl alcohol that are substantially lower than those reported in association with the “gasping syndrome”, the minimum amount of benzyl alcohol at which toxicity may occur is not known.
 The risk of benzyl alcohol toxicity depends on the quantity administered and the hepatic capacity to detoxify the chemical.
 Premature and low-birth-weight infants, as well as patients receiving high dosages, may be more likely to develop toxicity.
 Practitioners administering this and other medications containing benzyl alcohol should consider the combined daily metabolic load of benzyl alcohol from all sources.
 
 The efficacy and safety of corticosteroids in the pediatric population are based on the well-established course of effect of corticosteroids which is similar in pediatric and adult populations.
-Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (> 2 years of age), and aggressive lymphomas and leukemias (> 1 month of age).
-Other indications for pediatric use of corticosteroids, e.g., severe asthma and wheezing, are based on adequate and well-controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
+Published studies provide evidence of efficacy and safety in pediatric patients for the treatment of nephrotic syndrome (>2 years of age), and aggressive lymphomas and leukemias (>1 month of age).
+Other indications for pediatric use of corticosteroids, e.g., severe asthma and wheezing, are based on adequate and well- controlled trials conducted in adults, on the premises that the course of the diseases and their pathophysiology are considered to be substantially similar in both populations.
 
 The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see ADVERSE REACTIONS).
 Like adults, pediatric patients should be carefully observed with frequent measurements of blood pressure, weight, height, intraocular pressure, and clinical evaluation for the presence of infection, psychosocial disturbances, thromboembolism, peptic ulcers, cataracts, and osteoporosis.
@@ -285,6 +290,8 @@ This negative impact of corticosteroids on growth has been observed at low syste
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.
+
+Hypertrophic cardiomyopathy may develop after administration of methylprednisolone to prematurely born infants, therefore appropriate diagnostic evaluation and monitoring of cardiac function and structure should be performed.
 
 ## Geriatric Use
 

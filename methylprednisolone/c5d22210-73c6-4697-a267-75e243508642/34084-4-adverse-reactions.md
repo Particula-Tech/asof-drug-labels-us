@@ -1,12 +1,12 @@
-# ADVERSE REACTIONS:
+# ADVERSE REACTIONS
 
 To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-551-7176 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-The following adverse reactions have been reported with methylprednisolone or other corticosteroids:
+The following adverse reactions have been reported with Methylprednisolone Sodium Succinate for Injection or other corticosteroids:
 
 Allergic reactions: Allergic or hypersensitivity reactions, anaphylactoid reaction, anaphylaxis, angioedema.
 
-Blood and lymphatic system disorders: Leukocytosis
+Blood and lymphatic system disorders: Leukocytosis.
 
 Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction (see WARNINGS), pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis.
 
@@ -18,15 +18,15 @@ Fluid and electrolyte disturbances: Congestive heart failure in susceptible pati
 
 Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrathecal administration), elevation in serum liver enzyme levels (usually reversible upon discontinuation), hepatomegaly, increased appetite, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, perforation of the small and large intestine (particularly in patients with inflammatory bowel disease), ulcerative esophagitis.
 
-Hepatobiliary: Hepatitis (see WARNINGS, Drug -Induced Liver Injury).
+Hepatobiliary: Hepatitis (see WARNINGS, Drug-Induced Liver Injury).
 
 Metabolic: Negative nitrogen balance due to protein catabolism.
 
-Musculoskeletal: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, post-injection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
+Musculoskeletal: Aseptic necrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
 
 Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
 Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have occurred after intrathecal administration (see WARNINGS, Neurologic).
 
 Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections.
 
-Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non-sterile administration (see WARNINGS), malaise, moon face, weight gain.
+Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non- sterile administration (see WARNINGS), malaise, moon face, weight gain.

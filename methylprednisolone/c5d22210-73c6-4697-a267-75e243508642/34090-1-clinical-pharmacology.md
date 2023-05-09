@@ -1,4 +1,4 @@
-# CLINICAL PHARMACOLOGY:
+# CLINICAL PHARMACOLOGY
 
 Glucocorticoids, naturally occurring and synthetic, are adrenocortical steroids that are readily absorbed from the gastrointestinal tract.
 

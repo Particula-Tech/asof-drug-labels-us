@@ -1,8 +1,8 @@
-# INDICATIONS AND USAGE:
+# INDICATIONS AND USAGE
 
-When oral therapy is not feasible, and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intravenous or intramuscular use of Methylprednisolone Sodium Succinate for Injection, USP sterile powder is indicated as follows:
+When oral therapy is not feasible, and the strength, dosage form, and route of administration of the drug reasonably lend the preparation to the treatment of the condition, the intravenous or intramuscular use of Methylprednisolone Sodium Succinate for Injection sterile powder is indicated as follows:
 
-Allergic states: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, perennial or seasonal allergic rhinitis, serum sickness, transfusion reactions.
+Allergic states: Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in asthma, atopic dermatitis, contact dermatitis, drug hypersensitivity reactions, serum sickness, transfusion reactions.
 
 Dermatologic diseases: Bullous dermatitis herpetiformis, exfoliative erythroderma, mycosis fungoides, pemphigus, severe erythema multiforme (Stevens-Johnson syndrome).
 
