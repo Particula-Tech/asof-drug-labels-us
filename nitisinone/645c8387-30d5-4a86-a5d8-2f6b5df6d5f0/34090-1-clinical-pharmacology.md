@@ -63,7 +63,7 @@ In vitro binding of nitisinone to human plasma proteins is greater than 95% at 5
 Elimination
 
 The mean terminal plasma half-life of single dose nitisinone in healthy male subjects is 54 hours.
-The mean (CV%) apparent plasma clearance in 18 healthy adults following multiple once daily doses of nitisinone 80 mg is 113 (16) mL/hr.
+The mean (CV%) apparent plasma clearance in 18 healthy adults following multiple once daily doses of nitisinone 80 mg is 113 (16) mL/h.
 
 Metabolism: In vitro studies have shown that nitisinone is relatively stable in human liver microsomes with minor metabolism possibly mediated by CYP3A4 enzyme.
 

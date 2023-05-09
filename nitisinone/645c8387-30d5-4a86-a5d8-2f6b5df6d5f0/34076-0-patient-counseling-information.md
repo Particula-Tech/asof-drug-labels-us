@@ -13,6 +13,6 @@ Elevated Plasma Tyrosine Levels, Ocular Symptoms, Developmental Delay and Hyperk
 - Inform patients that inadequate restriction may be associated with ocular signs and symptoms, intellectual disability and developmental delay, and painful hyperkeratotic plaques on the soles and palms.
   Advise patients and caregivers of the need to maintain dietary restriction of tyrosine and phenylalanine and to report any unexplained ocular, neurologic, or other symptoms promptly to their healthcare provider [see Warnings and Precautions (5.1))].
 
-Distributed by: Analog Pharma Inc. Bryn Mawr, PA, 19010 www.analogpharma.com
+Distributed by: Analog Pharma Inc. Princeton, NJ, 08540 www.analogpharma.com
 
-Revision date: 05/2022
+Revision date: 04/2023

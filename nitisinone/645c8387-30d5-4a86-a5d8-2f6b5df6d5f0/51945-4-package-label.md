@@ -57,3 +57,23 @@ For Oral Use
 ANALOG PHARMA
 
 60 capsules
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Container
+
+NDC 70505-220-60
+
+Nitisinone Capsules 20 mg
+
+60 capsules
+
+# PRINCIPAL DISPLAY PANEL - 20 mg Carton
+
+NDC 70505-220-60
+
+Nitisinone Capsules 20 mg
+
+For Oral Use
+
+ANALOG PHARMA
+
+60 capsules
