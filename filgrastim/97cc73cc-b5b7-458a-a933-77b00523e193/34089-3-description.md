@@ -7,9 +7,10 @@ The protein has an amino acid sequence that is identical to the natural sequence
 Because filgrastim is produced in E coli‚ the product is non-glycosylated and thus differs from G-CSF isolated from a human cell.
 
 NEUPOGEN injection is a sterile‚ clear‚ colorless‚ preservative-free liquid containing filgrastim at a specific activity of 1.0 ± 0.6 × 108 U/mg (as measured by a cell mitogenesis assay).
-The product is available in single-dose vials and prefilled syringes.
+The product is available in single-dose vials for subcutaneous or intravenous use and prefilled syringes for subcutaneous use.
 The single-dose vials contain either 300 mcg/mL or 480 mcg/1.6 mL of filgrastim.
 The single-dose prefilled syringes contain either 300 mcg/0.5 mL or 480 mcg/0.8 mL of filgrastim.
+The NEUPOGEN drug product has a pH of 4.0.
 See table below for product composition of each single-dose vial or prefilled syringe.
 
 |  | 300 mcg/mL Vial | 480 mcg/1.6 mL Vial | 300 mcg/0.5 mL Syringe | 480 mcg/0.8 mL Syringe |
