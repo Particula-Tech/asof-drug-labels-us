@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217006"
+  ],
+  "inn": "aripiprazole",
+  "labeler": "Otsuka America Pharmaceutical, Inc",
+  "package_ndcs": [
+    "59148-102-80",
+    "59148-114-80"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+      "generic": "aripiprazole",
+      "name": "Abilify Asimtufii"
+    }
+  ],
+  "setid": "da4c07fd-1130-4341-bb44-63acfa4162be",
+  "source": "dailymed"
+}
