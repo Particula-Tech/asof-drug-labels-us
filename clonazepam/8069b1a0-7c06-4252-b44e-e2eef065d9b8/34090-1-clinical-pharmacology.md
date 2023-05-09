@@ -1,10 +1,10 @@
 # CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## Pharmacodynamics:
 
 The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system.
 
-## Pharmacokinetics
+## Pharmacokinetics:
 
 Clonazepam is rapidly and completely absorbed after oral administration.
 The absolute bioavailability of clonazepam is about 90%.
@@ -18,7 +18,7 @@ The elimination half-life of clonazepam is typically 30 to 40 hours.
 Clonazepam pharmacokinetics are dose-independent throughout the dosing range.
 There is no evidence that clonazepam induces its own metabolism or that of other drugs in humans.
 
-### Pharmacokinetics in Demographic Subpopulations and in Disease States
+### Pharmacokinetics in Demographic Subpopulations and in Disease States:
 
 Controlled studies examining the influence of gender and age on clonazepam pharmacokinetics have not been conducted, nor have the effects of renal or liver disease on clonazepam pharmacokinetics been studied.
 Because clonazepam undergoes hepatic metabolism, it is possible that liver disease will impair clonazepam elimination.
@@ -27,9 +27,9 @@ Thus, caution should be exercised when administering clonazepam to these patient
 In children, clearance values of 0.42 ± 0.32 mL/min/kg (ages 2 to 18 years) and 0.88 ± 0.4 mL/min/kg (ages 7 to 12 years) were reported; these values decreased with increasing body weight.
 Ketogenic diet in children does not affect clonazepam concentrations.
 
-## Clinical Trials
+## Clinical Trials:
 
-### Panic Disorder
+### Panic Disorder:
 
 The effectiveness of clonazepam in the treatment of panic disorder was demonstrated in two double-blind, placebo-controlled studies of adult outpatients who had a primary diagnosis of panic disorder (DSM-IIIR) with or without agoraphobia.
 In these studies, clonazepam was shown to be significantly more effective than placebo in treating panic disorder on change from baseline in panic attack frequency, the Clinician’s Global Impression Severity of Illness Score and the Clinician’s Global Impression Improvement Score.

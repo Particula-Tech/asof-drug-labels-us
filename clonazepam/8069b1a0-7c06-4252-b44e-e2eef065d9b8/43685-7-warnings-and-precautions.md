@@ -1,17 +1,13 @@
 # WARNINGS
 
-Risks from Concomitant Use with Opioids
-
-Concomitant use of benzodiazepines, including clonazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
+Risks from Concomitant Use with Opioids: Concomitant use of benzodiazepines, including clonazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of benzodiazepines and opioids for patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioids alone.
 If a decision is made to prescribe clonazepam concomitantly with opioids, prescribe the lowest effective dosages and minimum durations of concomitant use, and follow patients closely for signs and symptoms of respiratory depression and sedation.
 Advise both patients and caregivers about the risks of respiratory depression and sedation when clonazepam is used with opioids (see PRECAUTIONS: Information for Patients and PRECAUTIONS: Drug Interactions).
 
-Abuse, Misuse, and Addiction
-
-The use of benzodiazepines, including clonazepam tablets, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
+Abuse, Misuse, and Addiction: The use of benzodiazepines, including clonazepam tablets, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
 
 Before prescribing clonazepam tablets and throughout treatment, assess each patient’s risk for abuse, misuse, and addiction (e.g., using a standardized screening tool).
@@ -19,29 +15,19 @@ Use of clonazepam tablets, particularly in patients at elevated risk, necessitat
 Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
-Dependence and Withdrawal Reactions
-
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clonazepam tablets or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of clonazepam tablets).
+Dependence and Withdrawal Reactions: To reduce the risk of withdrawal reactions, use a gradual taper to discontinue clonazepam tablets or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of clonazepam tablets).
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
-Acute Withdrawal Reactions
-
-The continued use of benzodiazepines, including clonazepam tablets, may lead to clinically significant physical dependence.
+Acute Withdrawal Reactions The continued use of benzodiazepines, including clonazepam tablets, may lead to clinically significant physical dependence.
 Abrupt discontinuation or rapid dosage reduction of clonazepam tablets after continued use, or administration of flumazenil (a benzodiazepine antagonist) may precipitate acute withdrawal reactions, which can be life-threatening (e.g., seizures) (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
-Protracted Withdrawal Syndrome
+Protracted Withdrawal Syndrome In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
 
-In some cases, benzodiazepine users have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months (see DRUG ABUSE AND DEPENDENCE: Dependence).
-
-Interference with Cognitive and Motor Performance
-
-Since clonazepam produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
+Interference with Cognitive and Motor Performance: Since clonazepam produces CNS depression, patients receiving this drug should be cautioned against engaging in hazardous occupations requiring mental alertness, such as operating machinery or driving a motor vehicle.
 They should also be warned about the concomitant use of alcohol or other CNS-depressant drugs during clonazepam therapy (see PRECAUTIONS: Drug Interactions and PRECAUTIONS: Information for Patients).
 
-Suicidal Behavior and Ideation
-
-Antiepileptic drugs (AEDs), including clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Suicidal Behavior and Ideation: Antiepileptic drugs (AEDs), including clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -59,7 +45,7 @@ Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
 Table 1: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
+| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1,000 Patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -75,116 +61,80 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
+Neonatal Sedation and Withdrawal Syndrome:
+
+Use of clonazepam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to clonazepam during pregnancy or labor for signs of sedation and monitor neonates exposed to clonazepam during pregnancy for signs of withdrawal; manage these neonates accordingly.
+
 # PRECAUTIONS
 
-General
+General:
 
-Worsening of Seizures
-
-When used in patients in whom several different types of seizure disorders coexist, clonazepam may increase the incidence or precipitate the onset of generalized tonic-clonic seizures (grand mal).
+Worsening of Seizures: When used in patients in whom several different types of seizure disorders coexist, clonazepam may increase the incidence or precipitate the onset of generalized tonic-clonic seizures (grand mal).
 This may require the addition of appropriate anticonvulsants or an increase in their dosages.
 The concomitant use of valproic acid and clonazepam may produce absence status.
 
-Loss of Effect
-
-In some studies, up to 30% of patients who initially responded have shown a loss of anticonvulsant activity, often within 3 months of administration.
+Loss of Effect: In some studies, up to 30% of patients who initially responded have shown a loss of anticonvulsant activity, often within 3 months of administration.
 In some cases, dosage adjustment may reestablish efficacy.
 
-Laboratory Testing During Long-Term Therapy
+Laboratory Testing During Long-Term Therapy: Periodic blood counts and liver function tests are advisable during long-term therapy with clonazepam.
 
-Periodic blood counts and liver function tests are advisable during long-term therapy with clonazepam.
-
-Psychiatric and Paradoxical Reactions
-
-Paradoxical reactions, such as agitation, irritability, aggression, anxiety, anger, nightmares, hallucinations, and psychoses are known to occur when using benzodiazepines (see ADVERSE REACTIONS: Psychiatric).
+Psychiatric and Paradoxical Reactions: Paradoxical reactions, such as agitation, irritability, aggression, anxiety, anger, nightmares, hallucinations, and psychoses are known to occur when using benzodiazepines (see ADVERSE REACTIONS: Psychiatric).
 Should this occur, the use of the drug should be discontinued gradually (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
 Paradoxical reactions are more likely to occur in children and in the elderly.
 
-Caution in Renally Impaired Patients
+Caution in Renally Impaired Patients: Metabolites of clonazepam are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
 
-Metabolites of clonazepam are excreted by the kidneys; to avoid their excess accumulation, caution should be exercised in the administration of the drug to patients with impaired renal function.
-
-Hypersalivation
-
-Clonazepam may produce an increase in salivation.
+Hypersalivation: Clonazepam may produce an increase in salivation.
 This should be considered before giving the drug to patients who have difficulty handling secretions.
 
-Respiratory Depression
+Respiratory Depression: Clonazepam may cause respiratory depression and should be used with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, sleep apnea).
 
-Clonazepam may cause respiratory depression and should be used with caution in patients with compromised respiratory function (e.g., chronic obstructive pulmonary disease, sleep apnea).
+Porphyria: Clonazepam may have a porphyrogenic effect and should be used with care in patients with porphyria.
 
-Porphyria
-
-Clonazepam may have a porphyrogenic effect and should be used with care in patients with porphyria.
-
-Information for Patients
-
-A clonazepam tablets Medication Guide must be given to the patient each time clonazepam tablets are dispensed, as required by law.
+Information for Patients: A clonazepam tablets Medication Guide must be given to the patient each time clonazepam tablets are dispensed, as required by law.
 Patients should be instructed to take clonazepam only as prescribed.
 Physicians are advised to discuss the following issues with patients for whom they prescribe clonazepam:
 
-Risks from Concomitant Use with Opioids
+Risks from Concomitant Use with Opioids: Inform patients and caregivers that potentially fatal additive effects may occur if clonazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
 
-Inform patients and caregivers that potentially fatal additive effects may occur if clonazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider (see WARNINGS, Risks from Concomitant Use with Opioids and PRECAUTIONS, Drug Interactions).
-
-Abuse, Misuse, and Addiction
-
-Inform patients that the use of clonazepam tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
+Abuse, Misuse, and Addiction: Inform patients that the use of clonazepam tablets, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
 Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
 
-Withdrawal Reactions
-
-Inform patients that the continued use of clonazepam tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of clonazepam tablets may precipitate acute withdrawal reactions, which can be life-threatening.
+Withdrawal Reactions: Inform patients that the continued use of clonazepam tablets may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of clonazepam tablets may precipitate acute withdrawal reactions, which can be life-threatening.
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
 Instruct patients that discontinuation or dosage reduction of clonazepam tablets may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
 
-Interference With Cognitive and Motor Performance:
+Interference With Cognitive and Motor Performance: Because benzodiazepines have the potential to impair judgment, thinking or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that clonazepam therapy does not affect them adversely.
 
-Because benzodiazepines have the potential to impair judgment, thinking or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that clonazepam therapy does not affect them adversely.
-
-Suicidal Thinking and Behavior
-
-Patients, their caregivers, and families should be counseled that AEDs, including clonazepam, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Suicidal Thinking and Behavior: Patients, their caregivers, and families should be counseled that AEDs, including clonazepam, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-Pregnancy
+Pregnancy: Advise pregnant females that use of clonazepam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant while taking clonazepam.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy (see PRECAUTIONS:Pregnancy).
 
-Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during therapy with clonazepam (see PRECAUTIONS: Pregnancy).
-Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see PRECAUTIONS: Pregnancy).
+Nursing: Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed.
+Instruct breastfeeding patients who take clonazepam to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (seePRECAUTIONS: Nursing Mothers).
 
-Nursing
+Concomitant Medication: Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions.
 
-Patients should be advised to notify their physician if they are breastfeeding or intend to breastfeed during therapy.
+Alcohol: Patients should be advised to avoid alcohol while taking clonazepam.
 
-Concomitant Medication
+Drug Interactions:
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, any prescription or over-the-counter drugs, since there is a potential for interactions.
-
-Alcohol
-
-Patients should be advised to avoid alcohol while taking clonazepam.
-
-Drug Interaction
-
-Effect of Concomitant Use of Benzodiazepines and Opioids
-
-The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
+Effect of Concomitant Use of Benzodiazepines and Opioids: The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
 Benzodiazepines interact at GABAA sites, and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and follow patients closely for respiratory depression and sedation.
 
-Effect of Clonazepam on the Pharmacokinetics of Other Drugs
-
-Clonazepam does not appear to alter the pharmacokinetics of carbamazepine or phenobarbital.
+Effect of Clonazepam on the Pharmacokinetics of Other Drugs: Clonazepam does not appear to alter the pharmacokinetics of carbamazepine or phenobarbital.
 Clonazepam has the potential to influence concentrations of phenytoin.
 Monitoring of phenytoin concentration is recommended when clonazepam is coadministrated with phenytoin.
 The effect of clonazepam on the metabolism of other drugs has not been investigated.
 
-Effect of Other Drugs on the Pharmacokinetics of Clonazepam
-
-Literature reports suggest that ranitidine, an agent that decreases stomach acidity, does not greatly alter clonazepam pharmacokinetics.
+Effect of Other Drugs on the Pharmacokinetics of Clonazepam: Literature reports suggest that ranitidine, an agent that decreases stomach acidity, does not greatly alter clonazepam pharmacokinetics.
 
 In a study in which the 2 mg clonazepam orally disintegrating tablet was administered with and without propantheline (an anticholinergic agent with multiple effects on the GI tract) to healthy volunteers, the AUC of clonazepam was 10% lower and the Cmax of clonazepam was 20% lower when the orally disintegrating tablet was given with propantheline compared to when it was given alone.
 
@@ -192,34 +142,43 @@ The selective serotonin reuptake inhibitors sertraline (weak CYP3A4 inducer) and
 Cytochrome P-450 inducers, such as phenytoin, carbamazepine, lamotrigine, and phenobarbital induce clonazepam metabolism, causing an approximately 38% decrease in plasma clonazepam levels.
 Although clinical studies have not been performed, based on the involvement of the cytochrome P-450 3A family in clonazepam metabolism, inhibitors of this enzyme system, notably oral antifungal agents (e.g., fluconazole), should be used cautiously in patients receiving clonazepam because they may impair the metabolism of clonazepam leading to exaggerated concentrations and effects.
 
-Pharmacodynamic Interactions
+Pharmacodynamic Interactions: The CNS-depressant action of the benzodiazepine class of drugs may be potentiated by alcohol, narcotics, barbiturates, nonbarbiturate hypnotics, antianxiety agents, the phenothiazines, thioxanthene and butyrophenone classes of antipsychotic agents, monoamine oxidase inhibitors and the tricyclic antidepressants, and by other anticonvulsant drugs.
 
-The CNS-depressant action of the benzodiazepine class of drugs may be potentiated by alcohol, narcotics, barbiturates, nonbarbiturate hypnotics, antianxiety agents, the phenothiazines, thioxanthene and butyrophenone classes of antipsychotic agents, monoamine oxidase inhibitors and the tricyclic antidepressants, and by other anticonvulsant drugs.
+Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
-Carcinogenesis, Mutagenesis, Impairment of Fertility
+Carcinogenesis Carcinogenicity studies have not been conducted with clonazepam.
 
-Carcinogenesis
+Mutagenesis The data currently available are not sufficient to determine the genotoxic potential of clonazepam.
 
-Carcinogenicity studies have not been conducted with clonazepam.
-
-Mutagenesis
-
-The data currently available are not sufficient to determine the genotoxic potential of clonazepam.
-
-Impairment of Fertility
-
-In a two-generation fertility study in which clonazepam was given orally to rats at 10 and 100 mg/kg/day, there was a decrease in the number of pregnancies and in the number of offspring surviving until weaning.
+Impairment of Fertility In a two-generation fertility study in which clonazepam was given orally to rats at 10 and 100 mg/kg/day, there was a decrease in the number of pregnancies and in the number of offspring surviving until weaning.
 The lowest dose tested is approximately 5 and 24 times the maximum recommended human dose (MRHD) of 20 mg/day for seizure disorders and 4 mg/day for panic disorder, respectively, on a body surface area (mg/m2) basis.
 
-Pregnancy
+Pregnancy:
 
-There are no adequate and well-controlled studies of clonazepam in pregnant women.
-Available human data on the risk of teratogenicity are inconclusive.
-There is insufficient evidence in humans to assess the effect of benzodiazepine exposure during pregnancy on neurodevelopment.
-Administration of benzodiazepines immediately prior to or during childbirth can result in a syndrome of hypothermia, hypotonia, respiratory depression, and difficulty feeding.
-In addition, infants born to mothers who have taken benzodiazepines during the later stages of pregnancy can develop dependence, and subsequently withdrawal, during the postnatal period.
+Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as clonazepam, during pregnancy.
+Healthcare providers are encouraged to recommend that pregnant women taking clonazepam enroll in the NAAED Pregnancy Registry by calling 1-888-233-2334 or online at http://www.aedpregnancyregistry.org/.
 
-In three studies in which clonazepam was administered orally to pregnant rabbits at doses of 0.2, 1, 5, or 10 mg/kg/day during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed at all doses, in a low, non-dose-related incidence.
+Risk Summary Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome, and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+Administration of clonazepam to pregnant rabbits during the period of organogenesis resulted in developmental toxicity, including increased incidences of fetal malformations, at doses similar to or below therapeutic doses in patients (see Animal Data).
+Data for other benzodiazepines suggest the possibility of long-term effects on neurobehavioral and immunological function in animals following prenatal exposure to benzodiazepines at clinically relevant doses.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations Fetal/Neonatal Adverse Reactions Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to clonazepam during pregnancy or labor for signs of sedation, respiratory depression, hypotonia, and feeding problems.
+Monitor neonates exposed to clonazepam during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+Data Human Data Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+Animal Data In three studies in which clonazepam was administered orally to pregnant rabbits at doses of 0.2, 1, 5, or 10 mg/kg/day during the period of organogenesis, a similar pattern of malformations (cleft palate, open eyelid, fused sternebrae and limb defects) was observed at all doses, in a low, non-dose-related incidence.
 The lowest dose tested is less than the maximum recommended human dose (MRHD) of 20 mg/day for seizure disorders and similar to the MRHD of 4 mg/day for panic disorder, on a mg/m2 basis.
 Reductions in maternal weight gain occurred at doses of 5 mg/kg/day or greater and reduction in embryofetal growth occurred in one study at a dose of 10 mg/kg/day.
 
@@ -227,28 +186,19 @@ No adverse maternal or embryofetal effects were observed in mice or rats followi
 
 Data for other benzodiazepines suggest the possibility of adverse developmental effects (long-term effects on neurobehavioral and immunological function) in animals following prenatal exposure to benzodiazepines.
 
-To provide information regarding the effects of in utero exposure to clonazepam, physicians are advised to recommend that pregnant patients taking clonazepam enroll in the NAAED Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
-Information on this registry can also be found at the website http://www.aedpregnancyregistry.org/.
+Nursing Mothers: Risk Summary Clonazepam is excreted in human milk.
+There are reports of sedation, poor feeding and poor weight gain in infants exposed to benzodiazepines through breast milk.
+There are no data on the effects of clonazepam on milk production.
 
-Labor and Delivery
-
-The effect of clonazepam on labor and delivery in humans has not been specifically studied; however, perinatal complications have been reported in children born to mothers who have been receiving benzodiazepines late in pregnancy, including findings suggestive of either excess benzodiazepine exposure or of withdrawal phenomena (see PRECAUTIONS: Pregnancy).
-
-Nursing Mothers
-
-The effects of clonazepam on the breastfed infant and on milk production are unknown.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clonazepam and any potential adverse effects on the breastfed infant from clonazepam or from the underlying maternal condition.
 
-Pediatric Use
+Clinical Considerations Infants exposed to clonazepam through breast milk should be monitored for sedation, poor feeding and poor weight gain.
 
-Because of the possibility that adverse effects on physical or mental development could become apparent only after many years, a benefit-risk consideration of the long-term use of clonazepam is important in pediatric patients being treated for seizure disorder (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION).
+Pediatric Use: Because of the possibility that adverse effects on physical or mental development could become apparent only after many years, a benefit-risk consideration of the long-term use of clonazepam is important in pediatric patients being treated for seizure disorder (see INDICATIONS AND USAGE and DOSAGE AND ADMINISTRATION).
 
 Safety and effectiveness in pediatric patients with panic disorder below the age of 18 have not been established.
 
-Geriatric Use
-
-Clinical studies of clonazepam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Geriatric Use: Clinical studies of clonazepam did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 

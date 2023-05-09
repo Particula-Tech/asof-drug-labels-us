@@ -1,15 +1,11 @@
 # INDICATIONS AND USAGE
 
-## Seizure Disorders
-
-Clonazepam tablets are useful alone or as an adjunct in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic, and myoclonic seizures.
+Seizure Disorders: Clonazepam tablets are useful alone or as an adjunct in the treatment of the Lennox-Gastaut syndrome (petit mal variant), akinetic, and myoclonic seizures.
 In patients with absence seizures (petit mal) who have failed to respond to succinimides, clonazepam tablets may be useful.
 
 Some loss of effect may occur during the course of clonazepam treatment (see PRECAUTIONS: Loss of Effect).
 
-### Panic Disorder
-
-Clonazepam tablets are indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM-V.
+Panic Disorder: Clonazepam tablets are indicated for the treatment of panic disorder, with or without agoraphobia, as defined in DSM-V.
 Panic disorder is characterized by the occurrence of unexpected panic attacks and associated concern about having additional attacks, worry about the implications or consequences of the attacks, and/or a significant change in behavior related to the attacks.
 
 The efficacy of clonazepam tablets was established in two 6- to 9-week trials in panic disorder patients whose diagnoses corresponded to the DSM-IIIR category of panic disorder (see CLINICAL PHARMACOLOGY: Clinical Trials).

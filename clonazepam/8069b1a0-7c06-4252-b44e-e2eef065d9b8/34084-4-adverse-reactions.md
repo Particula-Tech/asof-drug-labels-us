@@ -2,7 +2,7 @@
 
 The adverse experiences for clonazepam are provided separately for patients with seizure disorders and with panic disorder.
 
-## Seizure Disorders
+## Seizure Disorders:
 
 The most frequently occurring side effects of clonazepam are referable to CNS depression.
 Experience in treatment of seizures has shown that drowsiness has occurred in approximately 50% of patients and ataxia in approximately 30%.
@@ -33,7 +33,7 @@ The following paradoxical reactions have been observed: irritability, aggression
 
 Respiratory: Chest congestion, rhinorrhea, shortness of breath, hypersecretion in upper respiratory passages
 
-## Panic Disorder
+## Panic Disorder:
 
 Adverse events during exposure to clonazepam were obtained by spontaneous report and recorded by clinical investigators using terminology of their own choosing.
 Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
@@ -42,27 +42,27 @@ In the tables and tabulations that follow, CIGY dictionary terminology has been 
 The stated frequencies of adverse events represent the proportion of individuals who experienced, at least once, a treatment-emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
 
-## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials
+## Adverse Findings Observed in Short-Term, Placebo-Controlled Trials:
 
-### Adverse Events Associated with Discontinuation of Treatment
+### Adverse Events Associated with Discontinuation of Treatment:
 
-Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam compared to 9% for placebo in the combined data of two 6-to 9-week trials.
-The most common events (≥ 1%) associated with discontinuation and a dropout rate twice or greater for clonazepam than that of placebo included the following:
+Overall, the incidence of discontinuation due to adverse events was 17% in clonazepam compared to 9% for placebo in the combined data of two 6- to 9-week trials.
+The most common events (≥1%) associated with discontinuation and a dropout rate twice or greater for clonazepam than that of placebo included the following:
 
-Table 2: Most Common Adverse Events (≥ 1%) Associated with Discontinuation of Treatment
+Table 2: Most Common Adverse Events (≥1%) Associated with Discontinuation of Treatment
 
-| Adverse Event | Clonazepam (N = 574) | Placebo (N = 294) |
+| Adverse Event | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
 | Somnolence | 7% | 1% |
 | Depression | 4% | 1% |
-| Dizziness | 1% | < 1% |
+| Dizziness | 1% | <1% |
 | Nervousness | 1% | 0% |
 | Ataxia | 1% | 0% |
 | Intellectual Ability Reduced | 1% | 0% |
 
-### Adverse Events Occurring at an Incidence of 1% or More among Clonazepam-Treated Patients
+### Adverse Events Occurring at an Incidence of 1% or More among Clonazepam-Treated Patients:
 
-Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6 to 9 week trials.
+Table 3 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred during acute therapy of panic disorder from a pool of two 6- to 9- week trials.
 Events reported in 1% or more of patients treated with clonazepam (doses ranging from 0.5 to 4 mg/day) and for which the incidence was greater than that in placebo-treated patients are included.
 
 The prescriber should be aware that the figures in Table 3 cannot be used to predict the incidence of side effects in the course of usual medical practice where patient characteristics and other factors differ from those that prevailed in the clinical trials.
@@ -73,7 +73,7 @@ Table 3: Treatment-Emergent Adverse Event Incidence in 6-to 9-Week Placebo-Contr
 
 | Clonazepam Maximum Daily Dose |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Eventby Body System | < 1 mgn = 96% | 1 to < 2 mgn = 129% | 2 to < 3 mgn = 113% | ≥ 3 mgn = 235% | AllClonazepamGroupsN = 574% | PlaceboN = 294% |
+| Adverse Eventby Body System | <1 mgn=96% | 1 to <2 mgn=129% | 2 to <3 mgn=113% | ≥3 mgn=235% | AllClonazepamGroupsN=574% | PlaceboN = 294% |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |
 | Somnolence† | 26 | 35 | 50 | 36 | 37 | 10 |
 | Dizziness | 5 | 5 | 12 | 8 | 8 | 4 |
@@ -126,22 +126,22 @@ Events reported by at least 1% of patients treated with clonazepam and for which
 Indicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤ 0.10.
 
 ‡.
-Denominators for events in gender-specific systems are: n = 240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female.
+Denominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female.
 
-### Commonly Observed Adverse Events
+### Commonly Observed Adverse Events:
 
-Table 4: Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 6-to 9-Week Trials
+Table 4: Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 6- to 9-Week Trials
 
-| Adverse Event | Clonazepam (N = 574) | Placebo (N = 294) |
+| Adverse Event | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
 | Somnolence | 37% | 10% |
 | Depression | 7% | 1% |
 | Coordination Abnormal | 6% | 0% |
 | Ataxia | 5% | 0% |
 
-* Treatment-emergent events for which the incidence in the clonazepam patients was ≥ 5% and at least twice that in the placebo patients.
+* Treatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients.
 
-### Treatment-Emergent Depressive Symptoms
+### Treatment-Emergent Depressive Symptoms:
 
 In the pool of two short-term placebo-controlled trials, adverse events classified under the preferred term “depression” were reported in 7% of clonazepam-treated patients compared to 1% of placebo-treated patients, without any clear pattern of dose relatedness.
 In these same trials, adverse events classified under the preferred term “depression” were reported as leading to discontinuation in 4% of clonazepam-treated patients compared to 1% of placebo-treated patients.
