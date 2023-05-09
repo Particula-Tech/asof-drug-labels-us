@@ -1,10 +1,5 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Drug Addiction Treatment Act
-
-Under the Drug Addiction Treatment Act (DATA) codified at 21 U.S.C.
-823(g), prescription use of this product in the treatment of opioid dependence is limited to healthcare providers who meet certain qualifying requirements, and who have notified the Secretary of Health and Human Services (HHS) of their intent to prescribe this product for the treatment of opioid dependence and have been assigned a unique identification number that must be included on every prescription.
-
 ## 2.2 Important Dosage and Administration Instructions
 
 Buprenorphine sublingual tablets are administered sublingually as a single daily dose.
