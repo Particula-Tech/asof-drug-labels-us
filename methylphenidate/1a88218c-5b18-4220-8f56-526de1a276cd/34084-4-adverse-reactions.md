@@ -225,7 +225,7 @@ Nervous System Disorders: Convulsion, Grand mal convulsion, Dyskinesia, Serotoni
 
 Psychiatric Disorders: Disorientation, Hallucination, Hallucination auditory, Hallucination visual, Mania, Logorrhea, Libido changes
 
-Reproductive System and Breast Disorders: Priapism
+Reproductive System and Breast Disorders: Gynecomastia, Priapism
 
 Respiratory, Thoracic and Mediastinal Disorders: Epistaxis
 
