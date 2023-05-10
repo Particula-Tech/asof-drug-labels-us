@@ -1,5 +1,5 @@
 # 10 OVERDOSAGE
 
-There is no specific treatment for atorvastatin calcium overdosage.
-In the event of an overdose, the patient should be treated symptomatically, and supportive measures instituted as required.
+No specific antidotes for atorvastatin calcium are known.
+Contact Poison Control (1-800-222-1222) for latest recommendations.
 Due to extensive drug binding to plasma proteins, hemodialysis is not expected to significantly enhance atorvastatin calcium clearance.

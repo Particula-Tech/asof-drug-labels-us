@@ -2,32 +2,37 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Patients taking atorvastatin calcium should be advised that cholesterol is a chronic condition and they should adhere to their medication along with their National Cholesterol Education Program (NCEP)-recommended diet, a regular exercise program as appropriate, and periodic testing of a fasting lipid panel to determine goal attainment.
+Myopathy and Rhabdomyolysis
 
-Patients should be advised about substances they should not take concomitantly with atorvastatin [see Warnings and Precautions (5.1)].
-Patients should also be advised to inform other healthcare professionals prescribing a new medication that they are taking atorvastatin calcium.
+Advise patients that atorvastatin calcium may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is also increased when taking certain types of medication or consuming large quantities of grapefruit juice and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
 
-## 17.1 Muscle Pain
+Hepatic Dysfunction
 
-All patients starting therapy with atorvastatin calcium should be advised of the risk of myopathy and told to report promptly any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever or if these muscle signs or symptoms persist after discontinuing atorvastatin calcium.
-The risk of this occurring is increased when taking certain types of medication or consuming larger quantities (>1 liter) of grapefruit juice.
-They should discuss all medication, both prescription and over the counter, with their healthcare professional.
+Inform patients that atorvastatin calcium may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Warnings and Precautions (5.3)].
 
-## 17.2 Liver Enzymes
+Increases in HbA1c and Fasting Serum Glucose Levels
 
-It is recommended that liver enzyme tests be performed before the initiation of atorvastatin calcium and if signs or symptoms of liver injury occur.
-All patients treated with atorvastatin calcium should be advised to report promptly any symptoms that may indicate liver injury, including fatigue, anorexia, right upper abdominal discomfort, dark urine, or jaundice.
+Inform patients that increases in HbA1c and fasting serum glucose levels may occur with atorvastatin calcium.
+Encourage patients to optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices [see Warnings and Precautions (5.4)].
 
-## 17.3 Embryofetal Toxicity
+Pregnancy
 
-Advise females of reproductive potential of the risk to a fetus, to use effective contraception during treatment and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4) and Use in Specific Populations (8.1, 8.3)].
+Advise pregnant patients and patients who can become pregnant of the potential risk to a fetus.
+Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if atorvastatin calcium should be discontinued [see Use in Specific Populations (8.1)].
 
-## 17.4 Lactation
+Lactation
 
-Advise women not to breastfeed during treatment with atorvastatin calcium [see Contraindications (4) and Use in Specific Populations (8.2)].
+Advise patients that breastfeeding is not recommended during treatment with atorvastatin calcium [see Use in Specific Populations (8.2)].
 
-Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
+Manufactured by:
+
+ScieGen Pharmaceuticals, Inc.
+
+Hauppauge, NY 11788 USA
 
 Dispense the Patient Information available at: https://sciegenpharm.com/medication-guide/
 
-Rev: 1/2022
+Rev: 1/2023
