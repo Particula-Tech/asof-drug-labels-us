@@ -13,8 +13,7 @@ Oral and intravenous dosages are the same unless specified.
 | Age and Body Weight | Initial Dosage | Titration Regimen | Maintenance Dosage |
 | --- | --- | --- | --- |
 | Adults (17 years and older) | MonotherapyMonotherapy for partial-onset seizures only: 100 mg twice daily (200 mg per day) Adjunctive Therapy: 50 mg twice daily (100 mg per day) | Increase by 50 mg twice daily (100 mg per day) every week | Monotherapy: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
-| Alternate Initial Dosage: 200 mg single loading dose, followed 12 hours later by 100 mg twice daily |  |  |  |
-| Pediatric patients weighing 50 kg or more | 50 mg twice daily (100 mg per day) | Increase by 50 mg twice daily (100 mg per day) every week | Monotherapy: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
+| Pediatric patients weighing at least 50 kg | 50 mg twice daily (100 mg per day) | Increase by 50 mg twice daily (100 mg per day) every week | Monotherapy: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
 | Pediatric patients weighing 30 kg to less than 50 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 2 mg/kg to 4 mg/kg twice daily (4 mg/kg/day to 8 mg/kg/day) |
 | Pediatric patients weighing 11 kg to less than 30 kg | 1 mg/kg twice daily (2 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) every week | 3 mg/kg to 6 mg/kg twice daily (6 mg/kg/day to 12 mg/kg/day) |
 | Pediatric patients weighing 6 kg to less than 11 kg indicated only for partial-onset seizures |  |  |  |
@@ -31,27 +30,38 @@ For pediatric patients weighing less than 6 kg, VIMPAT injection may be initiate
 
 The clinical study experience of intravenous VIMPAT is limited to 5 days of consecutive treatment.
 
-Loading Dose in Adult Patients (17 Years and Older)
+## 2.2 Alternate Initial Dosage Information to Achieve the Maintenance Dosage in a Shorter Timeframe
 
-VIMPAT and VIMPAT injection may be initiated in adult patients with a single loading dose of 200 mg, followed approximately 12 hours later by 100 mg twice daily (200 mg per day).
+For monotherapy and adjunctive therapy for partial-onset seizures in patients 1 month of age and older and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 4 years of age and older, an alternate initial dosing regimen for week 1 (e.g., including a loading dose and/or a higher initial dosage) may be administered in patients for whom achieving the recommended maintenance dosage in a shorter timeframe is clinically indicated (see Table 2).
+The alternate initial dosage regimen should be continued for one week.
+VIMPAT may then be titrated based on clinical response and tolerability, no more frequently than once per week, if needed.
+The loading dose should be administered with medical supervision because of the possibility of increased incidence of adverse reactions, including central nervous system (CNS) and cardiovascular adverse reactions [see Warnings and Precautions (5.2, 5.3), Adverse Reactions (6.1), and Clinical Pharmacology (12.3)].
+Titration increments should not exceed those shown in Table 2.
 
-The maintenance dose regimen should be continued for one week.
-VIMPAT can then be titrated as recommended in Table 1.
-The adult loading dose should be administered with medical supervision because of the increased incidence of CNS adverse reactions [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+Table 2: Alternate Initial Dosing Regimen to Achieve the Maintenance Dosage in a Shorter Timeframe if Clinically Indicatedwhen not specified, the dosage is the same for monotherapy for partial-onset seizures and adjunctive therapy for partial-onset seizures or primary generalized tonic-clonic seizures.
+Oral and intravenous dosages are the same unless specified.
 
-The use of a loading dose in pediatric patients has not been studied.
+| Age and Body Weight | Alternate Initial Dosage | Titration Regimen | Maintenance Dosage |
+| --- | --- | --- | --- |
+| Adults (17 years and older) | Single loading dose: 200 mg 12 hours later initiate: 100 mg twice daily (200 mg per day) | Increase by 50 mg twice daily (100 mg per day) at weekly intervals, if needed | MonotherapyMonotherapy for partial-onset seizures only: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
+| Pediatric patients weighing at least 50 kg | Single loading dose: 200 mg 12 hours later initiate: 100 mg twice daily (200 mg per day) | Increase by 50 mg twice daily (100 mg per day) at weekly intervals, if needed | Monotherapy: 150 mg to 200 mg twice daily (300 mg to 400 mg per day) Adjunctive Therapy: 100 mg to 200 mg twice daily (200 mg to 400 mg per day) |
+| Pediatric patients weighing 30 kg to less than 50 kg | Single loading dose: 4 mg/kg 12 hours later initiate: 2 mg/kg twice daily (4 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed | 2 mg/kg to 4 mg/kg twice daily (4 mg/kg/day to 8 mg/kg/day) |
+| Pediatric patients weighing 11 kg to less than 30 kg | Single loading dose: 4.5 mg/kg 12 hours later initiate: 3 mg/kg twice daily (6 mg/kg/day) | Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed | 3 mg/kg to 6 mg/kg twice daily (6 mg/kg/day to 12 mg/kg/day) |
+| Pediatric patients weighing 6 kg to less than 11 kg indicated only for partial-onset seizures |  |  |  |
+| Pediatric patients weighing less than 6 kg | Intravenous: No loading dose required 2.5 mg/kg three times daily (7.5 mg per day) | Intravenous: Increase by 0.66 mg/kg three times daily (2 mg/kg/day) at weekly intervals, if needed | Intravenous: 2.5 mg/kg to 5 mg/kg three times daily (7.5 mg/kg/day to 15 mg/kg/day) |
+| Oral: No loading dose required 3.75 mg/kg twice daily (7.5 mg per day) | Oral: Increase by 1 mg/kg twice daily (2 mg/kg/day) at weekly intervals, if needed | Oral: 3.75 mg/kg to 7.5 mg/kg twice daily (7.5 mg/kg/day to 15 mg/kg/day) |  |
 
-## 2.2 Converting From a Single Antiepileptic (AED) to VIMPAT Monotherapy for the Treatment of Partial-Onset Seizures
+## 2.3 Converting From a Single Antiepileptic (AED) to VIMPAT Monotherapy for the Treatment of Partial-Onset Seizures
 
 For patients who are already on a single AED and will convert to VIMPAT monotherapy, withdrawal of the concomitant AED should not occur until the therapeutic dosage of VIMPAT is achieved and has been administered for at least 3 days.
 A gradual withdrawal of the concomitant AED over at least 6 weeks is recommended.
 
-## 2.3 Dosage Information for Patients with Renal Impairment
+## 2.4 Dosage Information for Patients with Renal Impairment
 
 For patients with mild to moderate renal impairment, no dosage adjustment is necessary.
 For patients with severe renal impairment [creatinine clearance (CLCR) less than 30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR less than 30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients] or end-stage renal disease, a reduction of 25% of the maximum dosage is recommended.
 
-In all patients with renal impairment, the dose titration should be performed with caution.
+In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 
 Hemodialysis
 
@@ -62,17 +72,18 @@ Concomitant Strong CYP3A4 or CYP2C9 Inhibitors
 
 Dose reduction may be necessary in patients with renal impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 [see Drug Interactions (7.1), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 2.4 Dosage Information for Patients with Hepatic Impairment
+## 2.5 Dosage Information for Patients with Hepatic Impairment
 
 For patients with mild or moderate hepatic impairment, a reduction of 25% of the maximum dosage is recommended.
-The dose titration should be performed with caution in patients with hepatic impairment.
+The dose initiation and titration should be based on clinical response and tolerability in patients with hepatic impairment.
+
 VIMPAT use is not recommended in patients with severe hepatic impairment.
 
 Concomitant Strong CYP3A4 and CYP2C9 Inhibitors
 
 Dose reduction may be necessary in patients with hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 [see Drug Interactions (7.1), Use in Specific Populations (8.7), and Clinical Pharmacology (12.3)].
 
-## 2.5 Administration Instructions for VIMPAT Tablets and Oral Solution
+## 2.6 Administration Instructions for VIMPAT Tablets and Oral Solution
 
 VIMPAT tablets and oral solution may be taken with or without food.
 
@@ -90,7 +101,7 @@ VIMPAT oral solution may also be administered using a nasogastric tube or gastro
 
 Discard any unused VIMPAT oral solution remaining after 6 months of first opening the bottle.
 
-## 2.6 Preparation and Administration Information for VIMPAT Injection
+## 2.7 Preparation and Administration Information for VIMPAT Injection
 
 Preparation
 
@@ -120,6 +131,6 @@ Storage and Stability
 The diluted solution should not be stored for more than 4 hours at room temperature.
 Any unused portion of VIMPAT injection should be discarded.
 
-## 2.7 Discontinuation of VIMPAT
+## 2.8 Discontinuation of VIMPAT
 
 When discontinuing VIMPAT, a gradual withdrawal over at least 1 week is recommended [see Warnings and Precautions (5.5)].

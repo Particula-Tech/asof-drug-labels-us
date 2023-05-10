@@ -36,9 +36,9 @@ Adjunctive Therapy Controlled Trials (Studies 2, 3, and 4)
 In adjunctive therapy controlled clinical trials for partial-onset seizures, the rate of discontinuation as a result of an adverse reaction was 8% and 17% in patients randomized to receive VIMPAT at the recommended doses of 200 and 400 mg/day, respectively, 29% at 600 mg/day (1.5 times greater than the maximum recommended dose), and 5% in patients randomized to receive placebo.
 The adverse reactions most commonly (>1% on VIMPAT and greater than placebo) leading to discontinuation were dizziness, ataxia, vomiting, diplopia, nausea, vertigo, and blurred vision.
 
-Table 3 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the VIMPAT total group and for which the incidence was greater than placebo.
+Table 4 gives the incidence of adverse reactions that occurred in ≥2% of adult patients with partial-onset seizures in the VIMPAT total group and for which the incidence was greater than placebo.
 
-Table 3: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
+Table 4: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
 
 | Adverse Reaction | Placebo N=364 % | VIMPAT 200 mg/day N=270 % | VIMPAT 400 mg/day N=471 % | VIMPAT 600 mg/day600 mg dose is 1.5 times greater than the maximum recommended dose. N=203 % | VIMPAT Total N=944 % |
 | --- | --- | --- | --- | --- | --- |
@@ -138,9 +138,9 @@ Treatment groups were as follows:
 - Single dose of intravenous VIMPAT Injection 300 mg followed by oral VIMPAT 300 mg/day (150 mg every 12 hours)
 - Single dose of intravenous VIMPAT Injection 400 mg followed by oral VIMPAT 400 mg/day (200 mg every 12 hours).
 
-Table 4 gives the incidence of adverse reactions that occurred in ≥5% of adult patients in any VIMPAT dosing group.
+Table 5 gives the incidence of adverse reactions that occurred in ≥5% of adult patients in any VIMPAT dosing group.
 
-Table 4: Adverse Reactions in a 15-minute Infusion Study in Adult Patients with Partial-Onset Seizures
+Table 5: Adverse Reactions in a 15-minute Infusion Study in Adult Patients with Partial-Onset Seizures
 
 | Adverse Reaction | VIMPAT 200 mg N=25 % | VIMPAT 300 mg N=50 % | VIMPAT 400 mg N=25 % | VIMPAT Total N=100 % |
 | --- | --- | --- | --- | --- |
@@ -177,8 +177,10 @@ The adverse reactions associated with VIMPAT injection in adult patients with pr
 Pediatric Patients (1 Month to less than 17 Years of Age)
 
 The safety of VIMPAT injection was evaluated in a multicenter, open-label study of 103 pediatric patients 1 month to less than 17 years of age with epilepsy.
-Infusions were primarily administered over a 30 to 60 minute time period; infusion times less than 30 minutes were not adequately studied in pediatric patients [see Dosage and Administration (2.6)].
+Infusions were primarily administered over a 30 to 60 minute time period; infusion times less than 30 minutes were not adequately studied in pediatric patients [see Dosage and Administration (2.7)].
 Although no serious or severe adverse reactions were noted at the time of infusion in this small study, the adverse reactions associated with VIMPAT injection in pediatric patients are expected to be similar to those noted in adults.
+
+In a retrospective cohort study of electronic healthcare records of 686 pediatric patients who started VIMPAT with intravenous dosing, the incidence of rash within 30 days of discontinuation of intravenous VIMPAT was two-fold higher in the cohort of patients who were initiated with the alternate initial dosing regimen to achieve the maintenance dosage in a shorter timeframe [see Dosage and Administration (2.2)] compared to the cohort of patients who were initiated with a lower initial dosage regimen [see Dosage and Administration (2.1)].
 
 ## 6.2 Postmarketing Experience
 
