@@ -2,7 +2,7 @@
 
 Nitrofurantoin oral suspension is specifically indicated for the treatment of urinary tract infections when due to susceptible strains of Escherichia coli, enterococci, Staphylococcus aureus, and certain susceptible strains of Klebsiella and Enterobacter species.
 
-Nitrofurantoin is not indicated for the treatment of pyelonephritis or perinephric abscesses.
+Nitrofurantoin oral suspension is not indicated for the treatment of pyelonephritis or perinephric abscesses.
 
 Nitrofurantoins lack the broader tissue distribution of other therapeutic agents approved for urinary tract infections.
 Consequently, many patients who are treated with nitrofurantoin oral suspension are predisposed to persistence or reappearance of bacteriuria.
