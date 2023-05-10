@@ -13,12 +13,12 @@ Discard opened bottle after 90 days.
 
 PROTECT FROM LIGHT.
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-4048501//12
+C50000471/01
 
-Revised February 2021
+Revised August 2022

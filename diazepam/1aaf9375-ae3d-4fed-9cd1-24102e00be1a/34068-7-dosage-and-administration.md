@@ -20,15 +20,15 @@ To reduce the risk of withdrawal reactions, use a gradual taper to discontinue d
 If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
 Subsequently decrease the dosage more slowly (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE: Dependence).
 
-## Proper Use of an Intensol™
+## Proper Use of Diazepam INTENSOLTMOral Solution (Concentrate)
 
-An Intensol is a concentrated oral solution as compared to standard oral liquid medications.
-It is recommended that an Intensol be mixed with liquid or semi-solid food such as water, juices, soda or soda-like beverages, applesauce and puddings.
+Diazepam INTENSOLTM Oral Solution is a concentrated oral solution as compared to standard oral liquid medications.
+It is recommended that Diazepam INTENSOLTM Oral Solution be mixed with liquid or semi-solid food such as water, juices, soda or soda-like beverages, applesauce and puddings.
 
 Use only the calibrated oral syringe provided with this product.
 Draw into the oral syringe the amount prescribed for a single dose.
 Then empty the oral syringe contents into a liquid or semi-solid food.
 Stir the liquid or food gently for a few seconds.
-The Intensol formulation blends quickly and completely.
+The Diazepam INTENSOLTM Oral Solution formulation blends quickly and completely.
 The entire amount of the mixture, of drug and liquid or drug and food, should be consumed immediately.
 Do not store for future use.

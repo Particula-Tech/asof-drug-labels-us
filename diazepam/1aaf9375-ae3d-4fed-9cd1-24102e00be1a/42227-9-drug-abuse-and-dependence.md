@@ -1,10 +1,10 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance
+## Controlled Substance
 
 Diazepam is a Schedule IV controlled substance.
 
-Abuse
+## Abuse
 
 Diazepam is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
@@ -21,7 +21,7 @@ The following adverse reactions have occurred with benzodiazepine abuse and/or m
 The following severe adverse reactions have occurred with benzodiazepine abuse and/or misuse: delirium, paranoia, suicidal ideation and behavior, seizures, coma, breathing difficulty, and death.
 Death is more often associated with polysubstance use (especially benzodiazepines with other CNS depressants such as opioids and alcohol).
 
-Dependence
+## Dependence
 
 Physical Dependence
 
@@ -32,16 +32,19 @@ Patients at an increased risk of withdrawal adverse reactions after benzodiazepi
 
 To reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam or reduce the dosage (see DOSAGE and ADMINISTRATION: Discontinuation or Dosage Reduction of Diazepam and WARNINGS: Dependence and Withdrawal Reactions).
 
-1. Acute Withdrawal Signs and Symptoms
-2. Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
-   More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
-3. Protracted Withdrawal Syndrome
-4. Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
-   Protracted withdrawal symptoms may last weeks to more than 12 months.
-   As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+Acute Withdrawal Signs and Symptoms
+
+Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.
+More severe acute withdrawal signs and symptoms, including life-threatening reactions, have included catatonia, convulsions, delirium tremens, depression, hallucinations, mania, psychosis, seizures, and suicidality.
+
+Protracted Withdrawal Syndrome
+
+Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
+Protracted withdrawal symptoms may last weeks to more than 12 months.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
 
 Tolerance
 
 Tolerance to diazepam may develop from continued therapy.
 Tolerance is a physiological state characterized by a reduced response to a drug after repeated administration (i.e., a higher dose of a drug is required to produce the same effect that was once obtained at a lower dose).
-Tolerance to the therapeutic effect of diazepam may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
+Tolerance to the therapeutic effect of diazepam may develop; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines

@@ -1,6 +1,6 @@
 # WARNINGS
 
-Risks from Concomitant Use with Opioids
+## Risks from Concomitant Use with Opioids
 
 Concomitant use of benzodiazepines, including diazepam, and opioids may result in profound sedation, respiratory depression, coma, and death.
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
@@ -13,7 +13,7 @@ If an opioid is initiated in a patient already taking diazepam, prescribe a lowe
 Advise both patients and caregivers about the risks of respiratory depression and sedation when diazepam is used with opioids.
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see PRECAUTIONS: Drug Interactions).
 
-Abuse, Misuse, and Addiction
+## Abuse, Misuse, and Addiction
 
 The use of benzodiazepines, including diazepam, exposes users to the risks of abuse, misuse, and addiction, which can lead to overdose or death.
 Abuse and misuse of benzodiazepines often (but not always) involve the use of doses greater than the maximum recommended dosage and commonly involve concomitant use of other medications, alcohol, and/or illicit substances, which is associated with an increased frequency of serious adverse outcomes, including respiratory depression, overdose, or death (see DRUG ABUSE AND DEPENDENCE: Abuse).
@@ -23,7 +23,7 @@ Use of diazepam, particularly in patients at elevated risk, necessitates counsel
 Prescribe the lowest effective dosage; avoid or minimize concomitant use of CNS depressants and other substances associated with abuse, misuse, and addiction (e.g., opioid analgesics, stimulants); and advise patients on the proper disposal of unused drug.
 If a substance use disorder is suspected, evaluate the patient and institute (or refer them for) early treatment, as appropriate.
 
-Dependence and Withdrawal Reactions
+## Dependence and Withdrawal Reactions
 
 To reduce the risk of withdrawal reactions, use a gradual taper to discontinue diazepam or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Diazepam).
 
@@ -45,31 +45,10 @@ Since diazepam has a central nervous system depressant effect, patients should b
 As with other agents that have anticonvulsant activity, when diazepam is used as an adjunct in treating convulsive disorders, the possibility of an increase in the frequency and/or severity of grand mal seizures may require an increase in the dosage of standard anticonvulsant medication.
 Abrupt withdrawal of diazepam in such cases may also be associated with a temporary increase in the frequency and/or severity of seizures.
 
-## Pregnancy
+## Neonatal Sedation and Withdrawal Syndrome
 
-An increased risk of congenital malformations and other developmental abnormalities associated with the use of benzodiazepine drugs during pregnancy has been suggested.
-There may also be non-teratogenic risks associated with the use of benzodiazepines during pregnancy.
-There have been reports of neonatal flaccidity, respiratory and feeding difficulties, and hypothermia in children born to mothers who have been receiving benzodiazepines late in pregnancy.
-In addition, children born to mothers receiving benzodiazepines on a regular basis late in pregnancy may be at some risk of experiencing withdrawal symptoms during the postnatal period.
-
-Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD = 1 mg/kg/day] or greater on a mg/m2 basis).
-Cleft palate and encephalopathy are the most common and consistently reported malformations produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis.
-Rodent studies have indicated that prenatal exposure to diazepam doses similar to those used clinically can produce long-term changes in cellular immune responses, brain neurochemistry, and behavior.
-
-In general, the use of diazepam in women of childbearing potential, and more specifically during known pregnancy, should be considered only when the clinical situation warrants the risk to the fetus.
-The possibility that a woman of childbearing potential may be pregnant at the time of institution of therapy should be considered.
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-Patients should also be advised that if they become pregnant during therapy or intend to become pregnant they should communicate with their physician about the desirability of discontinuing the drug.
-
-## Labor and Delivery
-
-Special care must be taken when diazepam is used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates.
-With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in premature infants).
-
-## Nursing Mothers
-
-Diazepam passes into breast milk.
-Breastfeeding is therefore not recommended in patients receiving diazepam.
+Use of diazepam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
+Monitor neonates exposed to diazepam during pregnancy or labor for signs of sedation and monitor neonates exposed to diazepam during pregnancy for signs of withdrawal; manage these infants accordingly.
 
 # PRECAUTIONS
 
@@ -95,17 +74,17 @@ Some loss of response to the effects of benzodiazepines may develop after repeat
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Risks from Concomitant Use with Opioids
+## Risks from Concomitant Use with Opioids
 
 Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when diazepam is used with opioids and not to use such drugs concomitantly unless supervised by a health care provider.
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use with Opioids and PRECAUTIONS: Drug Interactions).
 
-Abuse, Misuse, and Addiction
+## Abuse, Misuse, and Addiction
 
 Inform patients that the use of diazepam, even at recommended dosages, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
 Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse, Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
 
-Withdrawal Reactions
+## Withdrawal Reactions
 
 Inform patients that the continued use of diazepam may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of diazepam may precipitate acute withdrawal reactions, which can be life-threatening.
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
@@ -113,6 +92,16 @@ Instruct patients that discontinuation or dosage reduction of diazepam may requi
 
 Patients should be advised against the simultaneous ingestion of alcohol and other CNS-depressant drugs during diazepam therapy.
 As is true of most CNS-acting drugs, patients receiving diazepam should be cautioned against engaging in hazardous occupations requiring complete mental alertness, such as operating machinery or driving a motor vehicle.
+
+## Pregnancy
+
+Advise pregnant females that use of diazepam late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and PRECAUTIONS: Pregnancy).
+Instruct patients to inform their healthcare provider if they are pregnant.
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to diazepam during pregnancy (see Precautions, Pregnancy).
+
+## Nursing
+
+Advise patients that breastfeeding is not recommended during treatment with diazepam (see PRECAUTIONS: Nursing Mothers).
 
 ## Drug Interactions
 
@@ -157,7 +146,56 @@ No adverse effects on fertility or offspring viability were noted at a dose of 8
 
 ## Pregnancy
 
-See WARNINGS: Pregnancy.
+### Pregnancy Exposure Registry
+
+There is a pregnancy registry that monitors pregnancy outcomes in women exposed to psychiatric medications, including diazepam, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychiatric Medications at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/pregnancyregistry/.
+
+### Risk Summary
+
+Infants born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
+
+Diazepam has been shown to be teratogenic in mice and hamsters when given orally at daily doses of 100 mg/kg or greater (approximately eight times the maximum recommended human dose [MRHD=1 mg/kg/day] or greater on a mg/m2 basis).
+Cleft palate and encephalopathy are the most common and consistently reported malformations produced in these species by administration of high, maternally toxic doses of diazepam during organogenesis.
+
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+### Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Benzodiazepines cross the placenta and may produce respiratory depression, hypotonia and sedation in neonates.
+Monitor neonates exposed to diazepam during pregnancy and labor for signs of sedation, respiratory depression, hypotonia, and feeding problems Monitor neonates exposed to diazepam during pregnancy for signs of withdrawal.
+Manage these neonates accordingly (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome).
+
+Labor or Delivery
+
+Special care must be taken when diazepam is used during labor and delivery, as high single doses may produce irregularities in the fetal heart rate and hypotonia, poor sucking, hypothermia, and moderate respiratory depression in the neonates.
+With newborn infants it must be remembered that the enzyme system involved in the breakdown of the drug is not yet fully developed (especially in premature infants).
+
+### Data
+
+Human Data
+
+Published data from observational studies on the use of benzodiazepines during pregnancy do not report a clear association with benzodiazepines and major birth defects.
+Although early studies reported an increased risk of congenital malformations with diazepam and chlordiazepoxide, there was no consistent pattern noted.
+In addition, the majority of more recent case-control and cohort studies of benzodiazepine use during pregnancy, which were adjusted for confounding exposures to alcohol, tobacco and other medications, have not confirmed these findings.
+
+Animal Data
+
+Diazepam has been shown to produce increased incidences of fetal malformations in mice and hamsters when given orally at single doses of 100 mg/kg or greater (approximately 20 times the maximum recommended adult dose [0.4 mg/kg/day] or greater on a mg/m2 basis).
+Cleft palate and exencephaly are the most common and consistently reported malformations produced in these species by administration of high, maternally-toxic doses of diazepam during organogenesis.
+In published animal studies, administration of benzodiazepines or other drugs that enhance GABAergic inhibition to neonatal rats has been reported to result in widespread apoptotic neurodegeneration in the developing brain at plasma concentrations relevant for seizure control in humans.
+The window of vulnerability to these changes in rats (postnatal days 0-14) includes a period of brain development that takes place during the third trimester of pregnancy in humans.
+
+## Nursing Mothers
+
+Diazepam is present in breastmilk.
+There are reports of sedation, poor feeding, and poor weight gain in infants exposed to benzodiazepines through breast milk.
+Because of the potential for serious adverse reaction, including sedation and withdrawal symptoms in breastfed neonates and infants, advise patient that breastfeeding is not recommended during treatment with diazepam.
 
 ## Pediatric Use
 
