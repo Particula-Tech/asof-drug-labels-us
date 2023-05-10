@@ -32,13 +32,14 @@ Carbamazepine extended-release capsules can also cause other types of allergic r
 You may or may not have a rash when you get these types of reactions.
 Call your healthcare provider right away if you have any of these symptoms:
 
+- swelling of your face, eyes, lips, or tongue
+- trouble swallowing or breathing
 - frequent fevers or fevers that do not go away
 - frequent infections or an infection that does not go away
 - unusual bruising or bleeding
 - red or purple spots on your body
 - severe fatigue or weakness
 - unexpected muscle pain that does not go away
-- swelling of your face, eyes, lips, or tongue
 - swollen glands that do not go away
 - yellowing of your skin or the whites of your eyes
 - loss of appetite (anorexia) that does not go away
@@ -145,7 +146,7 @@ How should I take carbamazepine extended-release capsules?
   Stopping carbamazepine extended-release capsules suddenly can cause serious problems.
   Stopping seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 - Take carbamazepine extended-release capsules with or without food.
-- Do not crush, chew, or break carbamazepine extended-release capsules or the granules inside of the capsules.
+- Do not crush, chew, or break carbamazepine extended-release capsules or the beads inside of the capsules.
   But, carbamazepine extended-release capsules can be opened and sprinkled over food such as a teaspoon of applesauce.
   Tell your healthcare provider if you can not swallow carbamazepine extended-release capsules whole.
 - If you take too much carbamazepine extended-release capsules, call your healthcare provider or local Poison Control Center right away.
@@ -223,7 +224,7 @@ Inactive ingredients: colloidal silicon dioxide, ethylcellulose, and stearic aci
 
 In addition:
 
-- the 100 mg, 200 mg and 300 mg capsule shells contain FD&C Blue #2, gelatin, iron oxide yellow, titanium dioxide and are imprinted with black ink (S-1-8114 andS-1-8115) contain FD&C BLUE #2, FD&C RED #40, FD&C BLUE #1, D&C YELLOW #10 and shellac.
+- the 100 mg, 200 mg and 300 mg capsule shells contain FD&C Blue #2, gelatin, iron oxide yellow, titanium dioxide and are imprinted with black ink (S-1-8114 and S-1-8115) contain FD&C BLUE #2, FD&C RED #40, FD&C BLUE #1, D&C YELLOW #10 and shellac.
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
@@ -232,7 +233,7 @@ APOTEX INC. CARBAMAZEPINE EXTENDED-RELEASE CAPSULES 100 mg, 200 mg and 300 mg
 | Manufactured by: Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for: Apotex Corp. Weston, Florida USA 33326 |
 | --- | --- |
 
-Revised: January 2023
+Revised: May 2023
 
 Rev.
-10
+11

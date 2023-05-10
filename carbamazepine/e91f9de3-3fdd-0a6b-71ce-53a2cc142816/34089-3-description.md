@@ -5,7 +5,7 @@ Carbamazepine is a white to off-white powder, practically insoluble in water and
 Its molecular weight is 236.27 g/mol.
 Its chemical name is 5H-dibenz[b,f]azepine-5-carboxamide, and its structural formula is:
 
-Carbamazepine extended-release capsules are a multi-component capsule formulation consisting of extended release granules.
+Carbamazepine extended-release capsules are a multi-component capsule formulation consisting of extended-release granules.
 
 Inactive ingredients: colloidal silicon dioxide, ethylcellulose, and stearic acid.
 

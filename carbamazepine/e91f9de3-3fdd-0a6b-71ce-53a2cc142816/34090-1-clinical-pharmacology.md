@@ -16,7 +16,7 @@ Though clinical activity for the epoxide has been postulated, the significance o
 
 ## Pharmacokinetics
 
-Carbamazepine (CBZ)
+Carbamazepine (CBZ):
 
 Taken every 12 hours, carbamazepine extended-release capsules provide steady state plasma levels comparable to immediate-release carbamazepine tablets given every 6 hours, when administered at the same total mg daily dose.
 
@@ -41,7 +41,7 @@ Following a single 200 mg oral extended-release dose of carbamazepine, the peak 
 Following chronic administration of an extended-release dose of carbamazepine (800 mg every 12 hours), the peak levels of carbamazepine-10, 11-epoxide were 2.2 ± 0.9 mcg/mL and the time to reach the peak was 14 ± 8 hours.
 The plasma half-life of carbamazepine-10, 11-epoxide following administration of carbamazepine is 34 ± 9 hours.
 Following a single oral dose of extended-release carbamazepine (200 to 800 mg) the AUC and Cmax of carbamazepine-10, 11-epoxide were less than 10% of carbamazepine.
-Following multiple dosing of extended-release carbamazepine (800 to 1600 mg daily for 14 days), the AUC and Cmax of carbamazepine-10, 11-epoxide were dose related, ranging from 15.7 mcg·hr/mL and 1.5 mcg/mL at 800 mg/day to 32.6 mcg·hr/mL and 3.2 mcg/mL at 1600 mg/day, respectively, and were less than 30% of carbamazepine.
+Following multiple dosing of extended-release carbamazepine (800 to 1,600 mg daily for 14 days), the AUC and Cmax of carbamazepine-10, 11-epoxide were dose related, ranging from 15.7 mcg·hr/mL and 1.5 mcg/mL at 800 mg/day to 32.6 mcg·hr/mL and 3.2 mcg/mL at 1,600 mg/day, respectively, and were less than 30% of carbamazepine.
 Carbamazepine-10, 11-epoxide is 50% bound to plasma proteins.
 
 Food Effect:

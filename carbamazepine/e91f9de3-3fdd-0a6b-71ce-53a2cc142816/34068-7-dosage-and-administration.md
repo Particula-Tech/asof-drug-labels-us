@@ -19,9 +19,10 @@ Epilepsy (see INDICATIONS AND USAGE)
 Adults and children over 12 years of age.
 Initial: 200 mg twice daily.
 Increase at weekly intervals by adding up to 200 mg/day until the optimal response is obtained.
-Dosage generally should not exceed 1000 mg per day in children 12 to 15 years of age, and 1200 mg daily in patients above 15 years of age.
-Doses up to 1600 mg daily have been used in adults.
-Maintenance: Adjust dosage to the minimum effective level, usually 800 to 1200 mg daily.
+Dosage generally should not exceed 1,000 mg per day in children 12 to 15 years of age, and 1,200 mg daily in patients above 15 years of age.
+Doses up to 1,600 mg daily have been used in adults.
+
+Maintenance: Adjust dosage to the minimum effective level, usually 800 to 1,200 mg daily.
 
 Children under 12 years of age: Children taking total daily dosages of immediate-release carbamazepine of 400 mg or greater may be converted to the same total daily dosage of carbamazepine extended-release capsules, using a twice daily regimen.
 Ordinarily, optimal clinical response is achieved at daily doses below 35 mg/kg.
@@ -35,7 +36,7 @@ Trigeminal Neuralgia (see INDICATIONS AND USAGE)
 
 Initial: On the first day, start with one 200 mg capsule.
 This daily dose may be increased by up to 200 mg/day every 12 hours only as needed to achieve freedom from pain.
-Do not exceed 1200 mg daily.
+Do not exceed 1,200 mg daily.
 
 Maintenance: Control of pain can be maintained in most patients with 400 to 800 mg daily.
 However, some patients may be maintained on as little as 200 mg daily, while others may require as much as 1200 mg daily.

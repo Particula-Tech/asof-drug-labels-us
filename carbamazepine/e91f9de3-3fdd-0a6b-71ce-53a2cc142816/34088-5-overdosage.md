@@ -76,7 +76,7 @@ Surveillance:
 
 Respiration, cardiac function (ECG monitoring), blood pressure, body temperature, pupillary reflexes, and kidney and bladder function should be monitored for several days.
 
-Treatment of Blood Count Abnormalities
+Treatment of Blood Count Abnormalities:
 
 If evidence of significant bone marrow depression develops, the following recommendations are suggested: (1) stop the drug, (2) perform daily CBC, platelet, and reticulocyte counts, (3) do a bone marrow aspiration and trephine biopsy immediately and repeat with sufficient frequency to monitor recovery.
 
