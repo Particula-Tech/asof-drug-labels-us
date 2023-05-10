@@ -1,25 +1,25 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described, or described in greater details, in other sections:
+The following serious adverse reactions are described, or described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
+- Life Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
-- Risks from Concomitant Use with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.5)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.8)]
-- Severe Hypotension [see Warnings and Precautions (5.9)]
-- Risks of Use in Patients with Gastrointestinal Conditions [see Warnings and Precautions (5.11)]
-- Increased Risk of Seizures in Patients with Seizure Disorders [see Warnings and Precautions (5.12)]
-- Withdrawal [see Warnings and Precautions (5.13)]
+- Risks from Concomitant Use with Benzodiazepine or Other CNS Depressants [see Warnings and Precautions (5.3)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+- Severe Hypotension [see Warnings and Precautions (5.10)]
+- Risks of Use in Patients with Gastrointestinal Conditions [see Warnings and Precautions (5.12)]
+- Increased Risk of Seizures in Patients with Seizure Disorders [see Warnings and Precautions (5.13)]
+- Withdrawal [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In the randomized study, the most common adverse reactions with Morphine Sulfate extended-release capsules therapy were drowsiness, constipation, nausea, dizziness, and anxiety.
+In the randomized study, the most common adverse reactions with Morphine Sulfate Extended-Release Capsules therapy were drowsiness, constipation, nausea, dizziness, and anxiety.
 The most common adverse reactions leading to study discontinuation were nausea, constipation (may be severe), vomiting, fatigue, dizziness, pruritus, and somnolence.
 
-| Clinical trial patients with chronic cancer pain (n = 227)(AE by Body System as seen in 2% or more of patients) | Percentage % |
+| Clinical trial patients with chronic cancer pain (n=227) (AE by Body System as seen in 2% or more of patients) | Percentage % |
 | --- | --- |
 | CENTRAL NERVOUS SYSTEM | 28 |
 | Drowsiness | 9 |
@@ -54,7 +54,7 @@ The most common adverse reactions leading to study discontinuation were nausea, 
 | Leukopenia | 2 |
 
 In clinical trials in patients with chronic cancer pain, the most common adverse events reported by patients at least once during therapy were drowsiness (9%), constipation (9%), nausea (7%), dizziness (6%), and anxiety (6%).
-Other less common side effects expected from MORPHINE SULFATE extended-release capsules or seen in less than 2% of patients in the clinical trials were:
+Other less common side effects expected from Morphine Sulfate Extended-Release Capsules or seen in less than 2% of patients in the clinical trials were:
 
 - Body as a Whole: Headache, chills, flu syndrome, back pain, malaise, withdrawal syndrome
 - Cardiovascular: Tachycardia, atrial fibrillation, hypotension, hypertension, pallor, facial flushing, palpitations, bradycardia, syncope
@@ -84,6 +84,8 @@ Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening 
 
 Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Morphine Sulfate extended-release capsules.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in Morphine Sulfate Extended-Release Capsules.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.6)].

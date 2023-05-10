@@ -1,89 +1,16 @@
-# Medication Guide
-
-Morphine Sulfate (mor’ feen sul’ fate) extended-release capsules, CII
-
-Morphine Sulfate extended-release capsule are:
-
-- A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain severe enough to require daily around-the-clock, long-term treatment with an opioid, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
-- A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death.
-  Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.
-- Not for use to treat pain that is not around-the-clock.
-
-Important information about Morphine Sulfate extended-release capsules:
-
-- Get emergency help or call 911 right away if you take too much Morphine Sulfate extended-release capsules (overdose).
-  When you first start taking Morphine Sulfate extended-release capsules, when your dose is changed, or if you take too much (overdose), serious or life threatening breathing problems that can lead to death may occur.
-  Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.
-- Taking Morphine Sulfate extended-release capsules with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
-- Never give anyone else your Morphine Sulfate extended-release capsules.
-  They could die from taking it.
-  Selling or giving away Morphine Sulfate extended-release capsules is against the law.
-- Store Morphine Sulfate extended-release capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
-
-Do not take Morphine Sulfate extended-release capsules if you have:
-
-- severe asthma, trouble breathing, or other lung problems.
-- a bowel blockage or have narrowing of the stomach or intestines.
-
-Before taking Morphine Sulfate extended-release capsules, tell your healthcare provider if you have a history of:
-
-- head injury, seizures
-- Liver, kidney, thyroid problems
-- problems urinating
-- pancreas or gallbladder problems
-- abuse of street or prescription drugs, alcohol addiction, opioid overdose or mental health problems.
-
-Tell your healthcare provider if you are:
-
-- pregnant or planning to become pregnant.
-  Prolonged use of Morphine Sulfate extended-release capsules during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
-- breastfeeding.
-  Not recommended during treatment with Morphine Sulfate extended-release capsules.
-  It may harm your baby.
-- living in a household where there are small children or someone who has abused street or prescription drugs.
-- taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
-  Taking Morphine Sulfate extended-release capsules with certain other medicines can cause serious side effects.
-
-When taking Morphine Sulfate extended-release capsules:
-
-- Do not change your dose.
-  Take Morphine Sulfate extended-release capsules exactly as prescribed by your healthcare provider.
-  Use the lowest dose possible for the shortest time needed.
-- Take your prescribed dose every 12 or 24 hours at the same time every day.
-  Do not take more than your prescribed dose in 24 hours.
-  If you miss a dose, take your next dose at your usual time.
-- Swallow Morphine Sulfate extended-release capsules whole.
-  Do not cut, break, chew, crush, dissolve, snort, or inject Morphine Sulfate extended-release capsules because this may cause you to overdose and die.
-- You should not receive Morphine Sulfate extended-release capsules through a nasogastric tube.
-- If you cannot swallow Morphine Sulfate extended-release capsules, see the detailed Instructions for Use.
-- Call your healthcare provider if the dose you are taking does not control your pain.
-- Do not stop taking Morphine Sulfate extended-release capsules without talking to your healthcare provider.
-- Dispose of expired, unwanted, or unused Morphine Sulfate Extended-Release Capsules by promptly flushing down the toilet, if a drug takeback option is not readily available.
-  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines..
-
-While taking Morphine Sulfate extended-release capsules DO NOT:
-
-- Drive or operate heavy machinery, until you know how Morphine Sulfate extended-release capsules affect you.
-  Morphine Sulfate extended-release capsules can make you sleepy, dizzy, or lightheaded.
-- Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
-  Using products containing alcohol during treatment with Morphine Sulfate extended-release capsules may cause you to overdose and die.
-
-The possible side effects of Morphine Sulfate extended-release capsules are:
-
-- constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain.
-  Call your healthcare provider if you have any of these symptoms and they are severe.
-
-Get emergency medical help or call 911 right away if you have:
-
-- trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion.
-
-These are not all the possible side effects of Morphine Sulfate extended-release capsules.
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-For more information go to dailymed.nlm.nih.gov
-
-Distributed By: Nortec Development Associates, Inc. Ramsey, NJ 07446 or call 1-877-372-6102
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-Revised: 03/2021
+| Medication Guide Morphine Sulfate (mor' feen sul' fate) Extended-Release Capsules, CII |  |  |
+| --- | --- | --- |
+| Morphine Sulfate Extended-Release Capsules are: A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.Not to be taken on an "as needed" basis. |  |  |
+| Important information about Morphine Sulfate Extended-Release Capsules: Get emergency help or call 911 right away if you take too much Morphine Sulfate Extended-Release Capsules (overdose). When you first start taking Morphine Sulfate Extended-Release Capsules, when your dose is changed, or if you take too much (overdose), serious or life threatening breathing problems that can lead to death may occur. Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose. Taking Morphine Sulfate Extended-Release Capsules with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.Never give anyone else your Morphine Sulfate Extended-Release Capsules. They could die from taking it. Selling or giving away Morphine Sulfate Extended-Release Capsules is against the law.Store Morphine Sulfate Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home. |  |  |
+| Do not take Morphine Sulfate Extended-Release Capsules if you have: severe asthma, trouble breathing, or other lung problems.a bowel blockage or have narrowing of the stomach or intestines. |  |  |
+| Before taking Morphine Sulfate Extended-Release Capsules, tell your healthcare provider if you have a history of: |  |  |
+| head injury, seizuresproblems urinating | liver, kidney, thyroid problemspancreas or gallbladder problems |  |
+| abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental health problems. |  |  |
+| Tell your healthcare provider if you: are pregnant or planning to become pregnant. Use of Morphine Sulfate Extended-Release Capsules for an extended period of time during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated. are breastfeeding. Not recommended during treatment with Morphine Sulfate Extended-Release Capsules. It may harm your baby. are living in a household where there are small children or someone who has abused street or prescription drugsare taking prescription or over-the-counter medicines, vitamins, or herbal supplements. Taking Morphine Sulfate Extended-Release Capsules with certain other medicines can cause serious side effects. Notice your pain getting worse. If your pain gets worse after you take Morphine Sulfate Extended-Release Capsules, do not take more of Morphine Sulfate Extended-Release Capsules without first talking to your doctor. Talk to your doctor if the pain you have increases, if you feel more sensitive to pain, or if you have new pain after taking Morphine Sulfate Extended-Release Capsules. |  |  |
+| When taking Morphine Sulfate Extended-Release Capsules: Do not change your dose. Take Morphine Sulfate Extended-Release Capsules exactly as prescribed by your healthcare provider. Use the lowest dose possible for the shortest time needed.Take your prescribed dose every 12 or 24 hours at the same time every day. Do not take more than your prescribed dose in 24 hours. If you miss a dose, take your next dose at your usual time.Swallow Morphine Sulfate Extended-Release Capsules whole. Do not cut, break, chew, crush, dissolve, snort, or inject Morphine Sulfate Extended-Release Capsules because this may cause you to overdose and die.You should not receive Morphine Sulfate Extended-Release Capsules through a nasogastric tube.If you cannot swallow Morphine Sulfate Extended-Release Capsules, see the detailed Instructions for Use. Call your healthcare provider if the dose you are taking does not control your pain.Do not stop taking Morphine Sulfate Extended-Release Capsules without talking to your healthcare provider.Dispose of expired, unwanted, or unused Morphine Sulfate Extended-Release Capsules by promptly flushing down the toilet, if a drug takeback option is not readily available. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines. |  |  |
+| While taking Morphine Sulfate Extended-Release Capsules DO NOT: Drive or operate heavy machinery, until you know how Morphine Sulfate Extended-Release Capsules affect you. Morphine Sulfate Extended-Release Capsules can make you sleepy, dizzy, or lightheaded.Drink alcohol or use prescription or over-the-counter medicines that contain alcohol. Using products containing alcohol during treatment with Morphine Sulfate Extended-Release Capsules may cause you to overdose and die. |  |  |
+| The possible side effects of Morphine Sulfate Extended-Release Capsules are: constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain. Call your healthcare provider if you have any of these symptoms and they are severe. |  |  |
+| Get emergency medical help or call 911 right away if you have: trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue, or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion. |  |  |
+| These are not all the possible side effects of Morphine Sulfate Extended-Release Capsules. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information go to dailymed.nlm.nih.gov. |  |  |
+| Distributed by: Nortec Development Associates Inc. 100 Spear Road Ramsey, NJ 07446 |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised 5/2023 |

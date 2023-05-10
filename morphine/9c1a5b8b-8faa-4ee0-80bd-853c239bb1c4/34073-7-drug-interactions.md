@@ -1,42 +1,42 @@
 # 7 DRUG INTERACTIONS
 
-Table 1 includes clinically significant drug interactions with Morphine Sulfate extended-release capsules.
+Table 1 includes clinically significant drug interactions with Morphine Sulfate Extended-Release Capsules.
 
-Table 1: Clinically Significant Drug Interactions with Morphine Sulfate extended-release capsules
+Table 1: Clinically Significant Drug Interactions with Morphine Sulfate Extended-Release Capsules
 
 | Alcohol |  |
 | --- | --- |
-| Clinical Impact: | Concomitant use of alcohol with MORPHINE SULFATE extended-release capsules can result in an increase of morphine plasma levels and potentially fatal overdose of morphine. |
-| Intervention: | Instruct patients not to consume alcoholic beverages or use prescription or non-prescription products containing alcohol while on MORPHINE SULFATE extended-release capsules therapy [see Warnings and Precautions (5.5)]. |
+| Clinical Impact: | Concomitant use of alcohol with Morphine Sulfate Extended-Release Capsules can result in an increase of morphine plasma levels and potentially fatal overdose of morphine. |
+| Intervention: | Instruct patients not to consume alcoholic beverages or use prescription or nonprescription products containing alcohol while on Morphine Sulfate Extended-Release Capsules therapy [see Warnings and Precautions (5.3)]. |
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation. If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.3, 5.5)]. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation). If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.2, 5.3)]. |
 | Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
-| Intervention: | If concomitant use is warranted, carefully observe the patient, particularly during treatment initiation and dose adjustment. Discontinue MORPHINE SULFATE extended-release capsules if serotonin syndrome is suspected. |
-| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT 3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
+| Intervention: | If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment. Discontinue Morphine Sulfate Extended-Release Capsules if serotonin syndrome is suspected. |
+| Examples: | Selective serotonin reuptake inhibitors (SSRIs), serotonin and norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), triptans, 5-HT 3 receptor antagonists, drugs that effect the serotonin neurotransmitter system (e.g., mirtazapine, trazodone, tramadol), certain muscle relaxants (i.e., cyclobenzaprine, metaxalone), monoamine oxidase (MAO) inhibitors (those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue). |
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
-| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma). [see Warnings and Precautions (5.7)]. |
-| Intervention: | Do not use MORPHINE SULFATE extended-release capsules in patients taking MAOIs or within 14 days of stopping such treatment. |
+| Clinical Impact: | MAOI interactions with opioids may manifest as serotonin syndrome or opioid toxicity (e.g., respiratory depression, coma) [see Warnings and Precautions (5.8)]. |
+| Intervention: | Do not use Morphine Sulfate Extended-Release Capsules in patients taking MAOIs or within 14 days of stopping such treatment. |
 | Examples: | phenelzine, tranylcypromine, linezolid |
 | Mixed Agonist/Antagonist and Partial Agonist Opioid Analgesics |  |
-| Clinical Impact: | May reduce the analgesic effect of MORPHINE SULFATE extended-release capsules and/or precipitate withdrawal symptoms. |
+| Clinical Impact: | May reduce the analgesic effect of Morphine Sulfate Extended-Release Capsules and/or precipitate withdrawal symptoms. |
 | Intervention: | Avoid concomitant use. |
 | Examples: | butorphanol, nalbuphine, pentazocine, buprenorphine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Morphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of MORPHINE SULFATE extended-release capsules and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.3, 5.5)] |
+| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of Morphine Sulfate Extended-Release Capsules and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.2, 5.3)] |
 | Examples: | cyclobenzaprine, metaxalone |
 | Cimetidine |  |
 | Clinical Impact: | The concomitant use of cimetidine can potentiate morphine effects and increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of MORPHINE SULFATE extended-release capsules and/or cimetidine as necessary. |
+| Intervention: | Evaluate patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Extended-Release Capsules and/or cimetidine as necessary. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
-| Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
+| Intervention: | Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
 | Anticholinergic Drugs |  |
 | Clinical Impact: | The concomitant use of anticholinergic drugs may increase risk of urinary retention and/or severe constipation, which may lead to paralytic ileus. |
-| Intervention: | Monitor patients for signs of urinary retention or reduced gastric motility when MORPHINE SULFATE extended-release capsules are used concomitantly with anticholinergic drugs. |
-| P-Glycoprotein (PGP Inhibitors) |  |
+| Intervention: | Evaluate patients for signs of urinary retention or reduced gastric motility when Morphine Sulfate Extended-Release Capsules are used concomitantly with anticholinergic drugs. |
+| P-Glycoprotein (PGP-Inhibitors) |  |
 | Clinical Impact: | The concomitant use of PGP-inhibitors can increase the exposure to morphine by about two-fold and can increase risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of MORPHINE SULFATE extended-release capsules and/or the PGP-inhibitor as necessary. |
+| Intervention: | Evaluate patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Morphine Sulfate Extended-Release Capsules and/or the PGP-inhibitor as necessary. |
