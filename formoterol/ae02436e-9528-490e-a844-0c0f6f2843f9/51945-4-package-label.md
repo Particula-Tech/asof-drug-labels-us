@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL – 9 mcg/4.8 mcg per inhalation
 
-NDC 0310-4600-39 BEVESPI
+NDC 0310-4600-12 BEVESPI
 
 AEROSPHERE®
 
@@ -16,6 +16,6 @@ Shake inhaler well before using
 
 Inhalation Aerosol
 
-28 inhalations
+120 inhalations
 
 AstraZeneca

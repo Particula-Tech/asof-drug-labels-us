@@ -73,7 +73,7 @@ Animal Data
 In the reproductive/developmental toxicity study in rats, plasma levels of glycopyrrolate were measured in pups on post-natal day 4.
 The maximum concentration in the pups was 6% of the maternal dose of 10 mg/kg/day (pup plasma concentration of 96 ng/mL at 1 hour after dosing corresponded with 1610 ng/mL in the dam at 0.5 hours after dosing).
 
-In the fertility and reproduction study in rats, plasma levels of formoterol were measured in pups on post-natal day 15 [seeUse in Specific Populations (8.1)].
+In the fertility and reproduction study in rats, plasma levels of formoterol were measured in pups on post-natal day 15 [see Use in Specific Populations (8.1)].
 It was estimated that the maximum plasma concentration that the pups received from the maternal animal, at the highest dose of 15 mg/kg, after nursing was 4.4% (0.24 nmol/L for a litter vs. 5.5 nmol/L for the mother).
 
 ## 8.4 Pediatric Use

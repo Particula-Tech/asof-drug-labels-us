@@ -50,7 +50,7 @@ Table 2 – Least Square (LS) Mean Change from Baseline in Morning Pre-dose Trou
 |  |  | Trough FEV1 (mL) at Week 24 |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | Difference from |  |  |
-| Treatment | N | Placebo LS Mean (95% CI) | Glycopyrrolate 18 mcg BIDThe placebo, glycopyrrolate and formoterol fumarate comparators used the same inhaler and excipients as BEVESPI AEROSPHERE. LS Mean (95% CI) | Formoterol Fumarate 9.6 mcg BID LS Mean (95% CI) |
+| Treatment | N | PlaceboThe placebo, glycopyrrolate and formoterol fumarate comparators used the same inhaler and excipients as BEVESPI AEROSPHERE. LS Mean (95% CI) | Glycopyrrolate 18 mcg BID LS Mean (95% CI) | Formoterol Fumarate 9.6 mcg BID LS Mean (95% CI) |
 | Trial 1 |  |  |  |  |
 | BEVESPI AEROSPHERE | 429 | N=161 150 mL (114, 186) | N=344 59 mL (31, 88) | N=367 64 mL (36, 92) |
 | Trial 2 |  |  |  |  |

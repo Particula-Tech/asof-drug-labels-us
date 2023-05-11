@@ -17,7 +17,7 @@ The structural formula is as follows:
 
 Formoterol fumarate contains two chiral centers (denoted by * in structure above), and consists of a single enantiomeric pair (a racemate of R,R and S,S).
 
-BEVESPI AEROSPHERE is formulated as a hydrofluoroalkane (HFA 134a) propelled pressurized metered dose inhaler containing 28 or 120 inhalations.
+BEVESPI AEROSPHERE is formulated as a hydrofluoroalkane (HFA 134a) propelled pressurized metered dose inhaler containing 120 inhalations.
 The canister has an attached dose indicator and is supplied with a white plastic actuator body and mouthpiece with an orange dust cap.
 
 After priming each actuation of the inhaler meters 10.4 mcg of glycopyrrolate (equivalent to 8.3 mcg of glycopyrronium) and 5.5 mcg of formoterol fumarate from the valve which delivers 9 mcg of glycopyrrolate (equivalent to 7.2 mcg of glycopyrronium) and 4.8 mcg of formoterol fumarate from the actuator.
