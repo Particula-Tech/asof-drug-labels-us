@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA214755"
+  ],
+  "inn": "sodium-oxybate",
+  "labeler": "Avadel CNS Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "13551-001-00",
+    "13551-001-07",
+    "13551-001-30",
+    "13551-002-00",
+    "13551-002-07",
+    "13551-002-30",
+    "13551-003-00",
+    "13551-003-07",
+    "13551-003-30",
+    "13551-004-00",
+    "13551-004-07",
+    "13551-004-30"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION, EXTENDED RELEASE",
+      "generic": "sodium oxybate",
+      "name": "Lumryz"
+    }
+  ],
+  "setid": "10e5e40c-52f3-4c73-8a34-2c29c690a934",
+  "source": "dailymed"
+}
