@@ -61,3 +61,31 @@ kalydeco® (ivacaftor) oral granules
 Carton contains: 4 individual wallets wtih 14 packets per wallet
 
 Lift here to open
+
+# PRINCIPAL DISPLAY PANEL - 13.4 mg Granule Packet Carton
+
+Rx only NDC 51167-770-01
+
+kalydeco® (ivacaftor) oral granules
+
+13.4 mg
+
+56 packets Each packet contains 13.4 mg ivacaftor
+
+Carton contains: 4 individual wallets with 14 packets per wallet
+
+Lift here to open
+
+# PRINCIPAL DISPLAY PANEL - 5.8 mg Granule Packet Carton
+
+Rx only NDC 51167-785-01
+
+kalydeco® (ivacaftor) oral granules
+
+5.8 mg
+
+56 packets Each packet contains 5.8 mg ivacaftor
+
+Carton contains: 4 individual wallets with 14 packets per wallet
+
+Lift here to open

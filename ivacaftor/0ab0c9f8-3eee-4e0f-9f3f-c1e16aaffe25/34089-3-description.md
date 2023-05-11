@@ -11,5 +11,5 @@ Each KALYDECO tablet contains 150 mg of ivacaftor and the following inactive ing
 The tablet film coat contains carnauba wax, FD&C Blue #2, PEG 3350, polyvinyl alcohol, talc, and titanium dioxide.
 The printing ink contains ammonium hydroxide, iron oxide black, propylene glycol, and shellac.
 
-KALYDECO is also available as white to off-white granules for oral administration (sweetened but unflavored) and enclosed in a unit-dose packet containing 25 mg of ivacaftor, 50 mg of ivacaftor or 75 mg of ivacaftor.
-Each unit-dose packet of KALYDECO oral granules contains 25 mg of ivacaftor, 50 mg of ivacaftor or 75 mg of ivacaftor and the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, mannitol, sucralose, and sodium lauryl sulfate.
+KALYDECO is also available as white to off-white granules for oral administration (sweetened but unflavored) and enclosed in a unit-dose packet containing 5.8 mg of ivacaftor, 13.4 mg of ivacaftor, 25 mg of ivacaftor, 50 mg of ivacaftor, or 75 mg of ivacaftor.
+Each unit-dose packet of KALYDECO oral granules contains 5.8 mg of ivacaftor, 13.4 mg of ivacaftor, 25 mg of ivacaftor, 50 mg of ivacaftor, or 75 mg of ivacaftor and the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose acetate succinate, lactose monohydrate, magnesium stearate, mannitol, sucralose, and sodium lauryl sulfate.

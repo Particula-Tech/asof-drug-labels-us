@@ -1,6 +1,4 @@
-Manufactured for Vertex Pharmaceuticals Incorporated Boston, MA 02210
+Manufactured for Vertex Pharmaceuticals Incorporated 50 Northern Avenue Boston, MA 02210
 
 KALYDECO, VERTEX, and the VERTEX triangle logo are registered trademarks of Vertex Pharmaceuticals Incorporated.
-All other trademarks referenced herein are the property of their respective owners. ©2020 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED Revised December 2020
-
-Patient Information is perforated for dispensing to the patient.
+All other trademarks referenced herein are the property of their respective owners. ©2023 Vertex Pharmaceuticals Incorporated ALL RIGHTS RESERVED Revised May 2023

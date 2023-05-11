@@ -6,13 +6,15 @@ Potential for other drugs to affect ivacaftor
 
 Ivacaftor is a sensitive CYP3A substrate.
 Co-administration with ketoconazole, a strong CYP3A inhibitor, significantly increased ivacaftor exposure [measured as area under the curve (AUC)] by 8.5-fold.
-Based on simulations of these results, a reduction of the KALYDECO dose is recommended for patients taking concomitant strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin, and clarithromycin [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+Based on simulations of these results, a reduction of the KALYDECO dose is recommended for patients 6 months and older taking concomitant strong CYP3A inhibitors, such as ketoconazole, itraconazole, posaconazole, voriconazole, telithromycin, and clarithromycin.
+KALYDECO is not recommended for patients less than 6 months of age taking strong CYP3A inhibitors [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 Co-administration with fluconazole, a moderate inhibitor of CYP3A, increased ivacaftor exposure by 3-fold.
-Therefore, a reduction of the KALYDECO dose is recommended for patients taking concomitant moderate CYP3A inhibitors, such as fluconazole and erythromycin [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+Therefore, a reduction of the KALYDECO dose is recommended for patients 6 months and older taking concomitant moderate CYP3A inhibitors, such as fluconazole and erythromycin.
+KALYDECO is not recommended for patients less than 6 months of age taking moderate CYP3A inhibitors [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 Co-administration of KALYDECO with grapefruit juice, which contains one or more components that moderately inhibit CYP3A, may increase exposure of ivacaftor.
-Therefore, avoid food containing grapefruit during treatment with KALYDECO [see Clinical Pharmacology (12.3)].
+Therefore, avoid food or drink containing grapefruit during treatment with KALYDECO [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Inducers of CYP3A
 
@@ -28,7 +30,7 @@ Potential for ivacaftor to affect other drugs
 
 ## 7.4 CYP2C9 Substrates
 
-Ivacaftor may inhibit CYP2C9; therefore, monitoring of the international normalized ratio (INR) during co administration of KALYDECO with warfarin is recommended.
+Ivacaftor may inhibit CYP2C9; therefore, monitoring of the international normalized ratio (INR) during co-administration of KALYDECO with warfarin is recommended.
 Other therapeutic products for which exposure may be increased by KALYDECO include glimepiride and glipizide; these therapeutic products should be used with caution [see Clinical Pharmacology (12.3)].
 
 ## 7.5 CYP3A and/or P-gp Substrates

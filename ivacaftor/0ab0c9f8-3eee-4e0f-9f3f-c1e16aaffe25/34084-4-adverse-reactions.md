@@ -19,12 +19,14 @@ In addition, the following clinical trials have also been conducted [see Clinica
   Of 34 patients enrolled, 32 had the G551D mutation and 2 had the S549N mutation.
 - An 8-week, crossover design trial (Trial 7) involving patients between the ages of 12 and 72 years who were heterozygous for the F508del mutation and a second CFTR mutation predicted to be responsive to ivacaftor.
   A total of 156 patients were randomized to and received KALYDECO.
-- A cohort of 19 patients aged 12 months to less than 24 months, a cohort of 11 patients aged 6 months to less than 12 months, and a cohort of 6 patients aged 4 months to less than 6 months in a 24-week open-label clinical trial in patients with CF aged less than 24 months (Trial 8).
+- A 24-week open-label clinical trial in patients with CF aged less than 24 months (Trial 8) including a cohort of 19 patients aged 12 months to less than 24 months, a cohort of 11 patients aged 6 months to less than 12 months, a cohort of 6 patients aged 4 months to less than 6 months, and a cohort of 7 patients aged 1 month to less than 4 months.
+  Patients with a gating mutation or R117H mutation were eligible for the first three cohorts of this study.
+  Patients with any ivacaftor-responsive mutation were eligible for the cohort aged 1 to less than 4 months.
 
-Of the 353 patients included in the pooled analyses of patients with CF who had either a G551D mutation or were homozygous for the F508del mutation in the CFTR gene, 50% of patients were female and 97% were Caucasian; 221 received KALYDECO, and 132 received placebo from 16 to 48 weeks.
+Of the 353 patients included in the pooled analyses of patients with CF who had either a G551D mutation or were homozygous for the F508del mutation in the CFTR gene, 50% of patients were female and 97% were Caucasian; 221 received KALYDECO, and 132 received placebo for 16 to 48 weeks.
 
 The proportion of patients who prematurely discontinued study drug due to adverse reactions was 2% for KALYDECO-treated patients and 5% for placebo-treated patients.
-Serious adverse reactions, whether considered drug-related or not by the investigators, that occurred more frequently in KALYDECO-treated patients included abdominal pain, increased hepatic enzymes, and hypoglycemia.
+Serious adverse reactions, whether considered drug-related or not by the investigators, that occurred more frequently in KALYDECO-treated patients, included abdominal pain, increased hepatic enzymes, and hypoglycemia.
 
 The most common adverse reactions in the 221 patients treated with KALYDECO were headache (17%), upper respiratory tract infection (16%), nasal congestion (16%), nausea (10%), rash (10%), rhinitis (6%), dizziness (5%), arthralgia (5%), and bacteria in sputum (5%).
 
@@ -72,5 +74,6 @@ KALYDECO was permanently discontinued in one patient [see Warnings and Precautio
 
 During the 24-week, open-label, clinical trial in patients aged less than 24 months (Trial 8), the incidence of patients experiencing transaminase elevations (ALT or AST) >3, >5, and >8 × ULN in the cohort of patients aged 12 months to less than 24 months (N=19) was 27.8% (5/18), 11.1% (2/18) and 11.1% (2/18), respectively.
 In the cohort of patients aged 6 months to less than 12 months (N=11) one patient (9.1%) had elevated ALT of >3 to ≤5 × ULN.
-In the cohort of patients aged 4 months to less than 6 months (N=6), no patients had elevated ALT or AST (> 3× ULN).
-No patients had elevations in total bilirubin, or discontinued ivacaftor treatment due to transaminase elevations in any cohort [see Warnings and Precautions (5.1)].
+In the cohort of patients aged 4 months to less than 6 months (N=6), no patients had elevated ALT or AST (>3× ULN).
+In the cohort of patients aged 1 month to less than 4 months (N=7), 1 patient (14.3%) had maximum ALT or AST >3 × ULN (ALT >8 × ULN and AST of >3 to ≤5 × ULN); the patient discontinued ivacaftor treatment.
+[see Warnings and Precautions (5.1)].
