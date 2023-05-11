@@ -15,8 +15,8 @@ Orthostatic Hypotension, Bradycardia, Syncope
 Orthostatic hypotension, bradycardia, syncope, and cardiac arrest have occurred with clozapine treatment.
 The risk is highest during the initial titration period, particularly with rapid dose escalation.
 These reactions can occur with the first dose, with doses as low as 12.5 mg per day.
-Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages.
-Use VERSACLOZ cautiously in patients with cardiovascular/cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration (2.2, 2.6) and Warnings and Precautions (5.3)].
+Initiate treatment at 12.5 mg once or twice daily; titrate slowly; and use divided dosages to minimize risk.
+Use VERSACLOZ cautiously in patients with cardiovascular/ or cerebrovascular disease or conditions predisposing to hypotension (e.g., dehydration, use of antihypertensive medications) [see Dosage and Administration [see Dosage and Administration (2.2, 2.6), Warnings and Precautions (5.3)].
 
 Seizures
 

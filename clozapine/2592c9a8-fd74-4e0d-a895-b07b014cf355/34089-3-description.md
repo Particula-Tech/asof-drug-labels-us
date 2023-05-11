@@ -2,7 +2,7 @@
 
 VERSACLOZ, an atypical antipsychotic drug, is a tricyclic dibenzodiazepine derivative, 8-chloro-11-(4-methyl-1-piperazinyl)-5H-dibenzo[b,e][1,4]diazepine.
 
-The structural formula is:
+The is:
 
 VERSACLOZ is available as a free-flowing yellow suspension.
 Each mL contains 50 mg of clozapine.

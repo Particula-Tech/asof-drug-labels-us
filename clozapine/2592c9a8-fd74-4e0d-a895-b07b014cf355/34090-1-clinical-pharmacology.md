@@ -21,7 +21,7 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+sAbsorption
 
 In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
 VERSACLOZ Oral Suspension is bioequivalent to clozapine marketed tablets.
@@ -62,7 +62,7 @@ Paroxetine, Fluoxetine, and Sertraline
 In a study of schizophrenic patients (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
 However, other published reports describe modest elevations (less than two-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
 
-Specific Population Studies
+Specific Populations
 
 Renal or Hepatic Impairment
 
@@ -73,3 +73,6 @@ CYP2D6 Poor Metabolizers
 
 A subset (3%–10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
 These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.
+
+Patients with Pneumonia and other Inflammatory Conditions Published case reports describe examples where pneumonia or other inflammatory- conditions may increase clozapine concentrations.
+The clinical significance, the impact of treatments to modulate this inflammation, and mechanism of this potential increase in clozapine concentrations have not been fully characterized but may involve reduced cytochrome P450 1A2 activity.

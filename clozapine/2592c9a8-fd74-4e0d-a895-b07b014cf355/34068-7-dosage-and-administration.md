@@ -26,7 +26,6 @@ Do not draw a dose and store it in the syringe for later use.
 After use, the oral syringe may be washed with warm water and dried for next use.
 The bottle may be closed with the same cap without removing the bottle adaptor.
 Educate patients and caregivers on the steps to administer VERSACLOZ as described in the Patient Instructions for Use.
-
 VERSACLOZ can be taken with or without food [see Clinical Pharmacology (12.3)].
 
 ## 2.4 Maintenance Treatment
@@ -45,9 +44,12 @@ Method of treatment discontinuation will vary depending on the patient's last AN
 
 ## 2.6 Re-Initiation of Treatment
 
-When restarting VERSACLOZ in patients who have discontinued VERSACLOZ (i.e., 2 days or more since the last dose), re-initiate with 12.5 mg once daily or twice daily.
+When restarting VERSACLOZ in patients who have had even a brief interruption in treatment with VERSACLOZ, dosage must be reduced.
 This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
-If that dose is well tolerated, the dose may be increased to the previously therapeutic dose more quickly than recommended for initial treatment.
+If one day’s dosing has been missed, resume treatment at 40% to 50% of the established dose.
+If two days dosing has been missed, resume dosage at approximately 25% of the established dosage.
+For longer interruptions, re-initiate with a dosage of 12.5 mg once daily or twice daily.
+If these dosages are well tolerated, the dosages may be increased to the previous dosage more quickly than recommended for initial treatment.
 
 ## 2.7 Dosage Adjustments with Concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
 

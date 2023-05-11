@@ -29,7 +29,7 @@ Table 2: VERSACLOZ Treatment Recommendations Based on Absolute Neutrophil Count 
 
 | ANC Level | VERSACLOZ Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal range (≥1500/µL) | •Initiate treatment•If treatment interrupted: •<30 days, continue monitoring as before•≥30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| Normal range (≥1500/µL) | •Initiate treatment•If treatment interrupted:•<30 days, continue monitoring as before•≥30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 |  | •Discontinuation for reasons other than neutropenia | •See Section 2.4 |
 | Mild Neutropenia (1000 to 1499/µL)* | •Continue treatment | •Three times weekly until ANC ≥1500/µL•Once ANC ≥1500/µL, return to patient's last “Normal Range” ANC monitoring interval** |
 | Moderate Neutropenia (500 to 999/µL)* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Resume treatment once ANC ≥1000/µL | •Daily until ANC ≥1000/µL, then•Three times weekly until ANC ≥1500/µL•Once ANC ≥1500/µL, check ANC weekly for 4 weeks, then return to patient's last “Normal Range” ANC monitoring interval** |
@@ -54,7 +54,7 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); VERSACLOZ Treatment Reco
 
 | ANC Level | Treatment Recommendations | ANC Monitoring |
 | --- | --- | --- |
-| Normal BEN Range (Established ANC baseline ≥1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted: •<30 days, continue monitoring as before•≥30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
+| Normal BEN Range (Established ANC baseline ≥1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted:•<30 days, continue monitoring as before•≥30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
 |  | •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |
 | BEN Neutropenia (500 to 999/µL)* | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥1000/µL or ≥patient's known baseline•Once ANC ≥1000/µL or at patient's known baseline, check ANC weekly for 4 weeks, then return to patient's last “Normal BEN Range” ANC monitoring interval** |
 | BEN Severe Neutropenia (less than 500/µL)* | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥500/µL, then•Three times weekly until ANC ≥patient's baseline•If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient's baseline |
@@ -63,11 +63,8 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); VERSACLOZ Treatment Reco
 
 General Guidelines for Management of All Patients with Fever or with Neutropenia
 
-- •Fever: Interrupt VERSACLOZ as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
-  Fever is often the first sign of neutropenic infection.
-- •ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
-- •Consider hematology consultation.
-- •See Neuroleptic Malignant Syndrome (NMS) and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+•Fever: Interrupt VERSACLOZ as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
+Fever is often the first sign of neutropenic infection.•ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.•Consider hematology consultation.•See Neuroleptic Malignant Syndrome (NMS) and Fever under WARNINGS AND PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
 
 Rechallenge after an ANC less than 500/µL (severe neutropenia)
 
@@ -110,7 +107,8 @@ Subsequently, the dose can be increased weekly or twice weekly, in increments of
 The maximum dose is 900 mg per day.
 Use cautious titration and a divided dosage schedule to minimize the risk of serious cardiovascular reactions [see Dosage and Administration (2.2)].
 Consider reducing the dose if hypotension occurs.
-When restarting patients who have had even a brief interval off VERSACLOZ (i.e., 2 days or more since the last dose), re-initiate treatment at 12.5 mg once daily or twice daily [see Dosage and Administration (2.6)].
+When restarting VERSACLOZ in patients who have had even a brief interruption in treatment with VERSACLOZ, the dosage must be reduced.
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Dosage and Administration (2.6)].
 
 Use VERSACLOZ cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
@@ -161,7 +159,7 @@ VERSACLOZ is not approved for the treatment of patients with dementia-related ps
 
 Severe gastrointestinal adverse reactions have occurred with the use of VERSACLOZ, primarily due to its potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, resulting in intestinal obstruction, fecal impaction, megacolon and intestinal ischemia or infarction [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, oerforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
 The risk for severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16),Drug Interactions (7.1)].
 Prior to initiating VERSACLOZ, screen for constipation and treat as necessary.
