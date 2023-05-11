@@ -1,4 +1,4 @@
-# 13 NONCLINICAL TOXICOLOGY
+# 13 NON-CLINICAL TOXICOLOGY
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -18,4 +18,4 @@ Topiramate was not mutagenic in the Ames test or the in vitro mouse lymphoma ass
 
 Impairment of Fertility
 
-No adverse effects on male or female fertility were observed in rats administrated topiramate orally at doses of up to 100 mg/kg/day (2.5 times the MRHD for epilepsy and 10 times the MRHD for migraine on a mg/m2 basis) prior to and during mating and early pregnancy.
+No adverse effects on male or female fertility were observed in rats administered topiramate orally at doses up to 100 mg/kg/day (2.5 times the MRHD for epilepsy and 10 times the MRHD for migraine on a mg/m2 basis) prior to and during mating and early pregnancy.

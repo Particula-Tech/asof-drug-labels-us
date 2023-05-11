@@ -15,18 +15,18 @@ Elevated intraocular pressure of any etiology, if left untreated, can lead to se
 
 ## 5.2 Visual Field Defects
 
-Visual field defects (independent of elevated intraocular pressure) have been reported in patients receiving topiramate independent of elevated intraocular pressure.
+Visual field defects (independent of elevated intraocular pressure) have been reported in clinical trials and in postmarketing experience in patients receiving topiramate independent of elevated intraocular pressure.
 In clinical trials, most of these events were reversible after topiramate discontinuation.
 If visual problems occur at any time during treatment with topiramate, consideration should be given to discontinuing the drug.
 
 ## 5.3 Oligohydrosis and Hyperthermia
 
-Oligohydrosis (decreased sweating), resulting in hospitalization in some cases, has been reported in association with topiramate use.
+Oligohydrosis (decreased sweating), infrequently resulting in hospitalization in some cases, has been reported in association with topiramate use.
 Decreased sweating and an elevation in body temperature above normal characterized these cases.
 Some of the cases were reported after exposure to elevated environmental temperatures.
 
 The majority of the reports have been in pediatric patients.
-Patients, especially pediatric patients, treated with topiramate extended-release should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
+Patients, (especially pediatric patients) treated with topiramate extended-release should be monitored closely for evidence of decreased sweating and increased body temperature, especially in hot weather.
 Caution should be used when topiramate extended-release capsules are prescribed with other drugs that predispose patients to heat-related disorders; these drugs include, but are not limited to, other carbonic anhydrase inhibitors and drugs with anticholinergic activity.
 
 ## 5.4 Metabolic Acidosis
@@ -42,10 +42,10 @@ The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive
 The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and >5 mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
-Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.11)].
+Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.9, 5.13)].
+A one-year, active-controlled study of pediatric patients treated with immediate-release topiramate demonstrated that topiramate decreased lumbar spine bone mineral density and that this lumbar spine bone mineral density decrease was correlated (using change from baseline for lumbar spine Z score at final visit versus lowest post-treatment serum bicarbonate) with decreased serum bicarbonate, a reflection of metabolic acidosis [see Warnings and Precautions (5.9), Use in Specific Populations (8.4)].
 Chronic metabolic acidosis in pediatric patients may also reduce growth rates, which may decrease the maximal height achieved.
-The effect of topiramate on growth and bone-related sequelae has not been systematically investigated in long-term, placebo-controlled trials.
-Long-term, open-label treatment of pediatric patients 1 to 24 months old, with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24-month old patients.
+Long-term, open-label treatment of pediatric patients 1 to 24 months old with intractable partial epilepsy, for up to 1 year, showed reductions from baseline in length, weight, and head circumference compared to age and sex-matched normative data, although these patients with epilepsy are likely to have different growth rates than normal 1 to 24-month old patients.
 Reductions in length and weight were correlated to the degree of acidosis [see Use in Specific Populations (8.4)].
 Topiramate extended-release treatment that causes metabolic acidosis during pregnancy can possibly produce adverse effects on the fetus and might also cause metabolic acidosis in the neonate from possible transfer of topiramate to the fetus [see Warnings and Precautions (5.7), Use in Specific Populations (8.1)].
 
@@ -109,7 +109,7 @@ Cognitive adverse reactions most commonly developed during titration and sometim
 
 Psychiatric/Behavioral Disturbances
 
-Psychiatric/behavioral disturbances (e.g., depression or mood) were dose-related for both the adjunctive epilepsy and migraine populations treated with topiramate [see Warnings and Precautions (5.5)].
+Psychiatric/behavioral disturbances (e.g., depression, mood) were dose-related for both the adjunctive epilepsy and migraine populations treated with topiramate [see Warnings and Precautions (5.5)].
 
 Somnolence/Fatigue
 
@@ -138,7 +138,7 @@ Mean change from baseline in certain CANTAB tests suggests that topiramate treat
 ## 5.7 Fetal Toxicity
 
 Topiramate extended-release can cause fetal harm when administered to a pregnant woman.
-Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk for cleft lip and/or cleft palate (oral clefts) and for being small for gestational age.
+Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformation, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA).
 When multiple species of pregnant animals received topiramate at clinically relevant doses, structural malformations, including craniofacial defects, and reduced fetal weights occurred in offspring [see Use in Specific Populations (8.1)].
 
 Consider the benefits and risks of topiramate extended-release when administering this drug in women of childbearing potential, particularly when topiramate extended-release is considered for a condition not usually associated with permanent injury or death [see Use in Specific Populations (8.1), Patient Counseling Information (17)].
@@ -147,17 +147,34 @@ If this drug is used during pregnancy, or if the patient becomes pregnant while 
 
 ## 5.8 Withdrawal of Antiepileptic Drugs
 
-In patients with or without a history of seizures or epilepsy, antiepileptic drugs including topiramate extended-release, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
-In situations where, rapid withdrawal of topiramate extended-release is medically required, appropriate monitoring is recommended.
+In patients with or without a history of seizures or epilepsy, antiepileptic drugs, including topiramate extended-release, should be gradually withdrawn to minimize the potential for seizures or increased seizure frequency [see Clinical Studies (14)].
+In situations where rapid withdrawal of topiramate extended-release is medically required, appropriate monitoring is recommended.
 
-## 5.9 Serious Skin Reactions
+## 5.9 Decrease in Bone Mineral Density
+
+Results of a one-year active-controlled study in pediatric patients (N=63) demonstrated negative effects of immediate-release topiramate monotherapy on bone mineral acquisition via statistically significant decreases in bone mineral density (BMD) measured in lumbar spine and in total body less head [see Use in Specific Populations (8.4)].
+Twenty-one percent of immediate-release topiramate-treated patients experienced clinically important reductions in BMD (Z score change from baseline of -0.5 or greater) compared to 0 patients in the control group.
+Although decreases in BMD occurred across all pediatric age subgroups, patients 6 to 9 years of age were most commonly affected.
+The sample size and study duration were too small to determine if fracture risk is increased.
+Decreased BMD in the lumbar spine was correlated with decreased serum bicarbonate, which commonly occurs with topiramate treatment and reflects metabolic acidosis, a known cause of increased bone resorption [see Warnings and Precautions (5.4)].
+Although small decreases in some markers of bone metabolism (e.g., serum alkaline phosphatase, calcium, phosphorus, and 1,25-dihydroxyvitamin D) occurred in immediate-release topiramate-treated patients, more significant decreases in serum parathyroid hormone and 25-hydroxyvitamin D, hormones involved in bone metabolism, were observed, along with an increased excretion of urinary calcium.
+
+## 5.10 Negative Effects on Growth (Height and Weight)
+
+Results of a one-year active-controlled study of pediatric patients (N=63) demonstrated negative effects of immediate-release topiramate monotherapy on growth (i.e., height and weight) [see Use in Specific Populations (8.4)].
+Although continued growth was observed in both treatment groups, the immediate-release topiramate group showed statistically significant reductions in mean annual change from baseline in body weight compared to the control group.
+A similar trend of attenuation in height velocity and height change from baseline was also observed in the immediate-release topiramate group compared to the control group.
+Negative effects on weight and height were seen across all topiramate age subgroups.
+Growth (height and weight) of children receiving prolonged topiramate extended-release capsules therapy should be carefully monitored.
+
+## 5.11 Serious Skin Reactions
 
 Serious skin reactions (Stevens-Johnson Syndrome [SJS] and Toxic Epidermal Necrolysis [TEN]) have been reported in patients receiving topiramate.
 Topiramate extended-release capsules should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 Inform patients about the signs of serious skin reactions.
 
-## 5.10 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
+## 5.12 Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use)
 
 Topiramate treatment can cause hyperammonemia with or without encephalopathy [see Adverse Reactions (6.2)].
 The risk for hyperammonemia with topiramate appears dose-related.
@@ -179,9 +196,9 @@ Monitoring for Hyperammonemia
 Patients with inborn errors of metabolism or reduced hepatic mitochondrial activity may be at an increased risk for hyperammonemia with or without encephalopathy.
 Although not studied, topiramate treatment or an interaction of concomitant topiramate and valproic acid treatment may exacerbate existing defects or unmask deficiencies in susceptible persons.
 
-In patients who develop unexplained lethargy, vomiting, or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
+In patients who develop unexplained lethargy, vomiting or changes in mental status associated with any topiramate treatment, hyperammonemic encephalopathy should be considered and an ammonia level should be measured.
 
-## 5.11 Kidney Stones
+## 5.13 Kidney Stones
 
 Topiramate increases the risk of kidney stones.
 During adjunctive epilepsy trials, the risk for kidney stones in immediate-release topiramate-treated adults was 1.5%, an incidence about 2 to 4 times greater than expected in a similar, untreated population.
@@ -197,7 +214,10 @@ The concomitant use of topiramate extended-release with any other drug producing
 Increased fluid intake increases the urinary output, lowering the concentration of substances involved in stone formation.
 Hydration is recommended to reduce new stone formation.
 
-## 5.12 Hypothermia With Concomitant Valproic Acid Use
+An increase in urinary calcium and a marked decrease in urinary citrate was observed in immediate-release topiramate-treated pediatric patients in one-year active-controlled study [see Use in Specific Populations (8.4)].
+This increased ratio of urinary calcium/citrate increases the risk of kidney stones and/or nephrocalcinosis.
+
+## 5.14 Hypothermia with Concomitant Valproic Acid Use
 
 Hypothermia, defined as a drop-in body core temperature to <35°C (95°F), has been reported in association with topiramate use with concomitant valproic acid both in conjunction with hyperammonemia and in the absence of hyperammonemia.
 This adverse reaction in patients using concomitant topiramate and valproate can occur after starting topiramate treatment or after increasing the daily dose of topiramate [see Drug Interactions (7.1)].

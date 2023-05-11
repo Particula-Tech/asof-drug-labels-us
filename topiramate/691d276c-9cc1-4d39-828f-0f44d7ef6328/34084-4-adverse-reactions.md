@@ -8,14 +8,16 @@ The following serious adverse reactions are discussed in more detail in other se
 - Metabolic Acidosis [see Warnings and Precautions (5.4)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
 - Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.6)]
-- Serious Skin Reactions [see Warnings and Precautions (5.9)]
-- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.10)]
-- Kidney Stones [see Warnings and Precautions (5.11)]
-- Hypothermia With Concomitant Valproic Acid Use [see Warnings and Precautions (5.12)]
+- Decrease in Bone Mineral Density [see Warnings and Precautions (5.9)]
+- Negative Effects on Growth (Height and Weight) [see Warnings and Precautions (5.10)]
+- Serious Skin Reactions [see Warnings and Precautions (5.11)]
+- Hyperammonemia and Encephalopathy (Without and With Concomitant Valproic Acid Use [see Warnings and Precautions (5.12)]
+- Kidney Stones [see Warnings and Precautions (5.13)]
+- Hypothermia with Concomitant Valproic Acid Use [see Warnings and Precautions (5.14)]
 
 The data described in section 6.1 were obtained using immediate-release topiramate tablets.
 
-## 6.1 Clinical Trials Experience With Immediate-Release Topiramate
+## 6.1 Clinical Trials Experience with Immediate-Release Topiramate
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -302,7 +304,7 @@ Patients may have reported more than one adverse reaction during the study and c
 | Vision Disorders |  |  |  |
 | Blurred visionBlurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. | 2 | 4 | 2 |
 
-Of the 1135 patients exposed to immediate-release topiramate in the adult placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
+Of the 1,135 patients exposed to immediate-release topiramate in the adult placebo-controlled studies, 25% discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
 The adverse reactions associated with discontinuing therapy in the immediate-release topiramate-treated patients in these studies included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
 
 Patients treated in these studies experienced mean percent reductions in body weight that were dose-dependent.
@@ -315,9 +317,9 @@ In five, randomized, double-blind, placebo-controlled, parallel group clinical t
 Among adverse reactions with onset during titration, approximately half persisted into the maintenance period.
 
 In four, fixed-dose, double-blind clinical trials for the preventive treatment of migraine in immediate-release topiramate-treated pediatric patients 12 to 17 years of age, the most common adverse reactions immediate-release topiramate 100 mg that were seen at an incidence higher (≥ 5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 9).
-Table 9 shows adverse reactions from the pediatric trial (Study 13) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of immediate-release topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg, or 200 mg of immediate-release topiramate [see Clinical Studies (14.5)].
+Table 9 shows adverse reactions from the pediatric trial [Study 13; see Clinical Studies (14.5)], in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of immediate-release topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg, or 200 mg of immediate-release topiramate [see Clinical Studies (14.5)].
 Table 9 also shows adverse reactions in pediatric patients in the controlled migraine trials when the incidence in an immediate-release topiramate dose group was at least 5% or higher and greater than the incidence of placebo.
-Many adverse reactions shown in Table 9 indicated a dose-dependent relationship.
+Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended immediate-release topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dose (100 mg daily).
 
 Table 9: Adverse Reactions in Pooled, Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age35 adolescent patients aged 12 to <16 years were also included in adverse reaction assessment for adults.,Incidence is based on the number of subjects experiencing at least 1 adverse event, not the number of events.,Included studies MIG-3006, MIGR-001, MIGR-002 and MIGR-003
@@ -372,7 +374,7 @@ Laboratory Test Abnormalities
 
 Adult Patients
 
-In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.10)].
+In addition to changes in serum bicarbonate (i.e., metabolic acidosis), sodium chloride and ammonia, immediate-release topiramate was associated with changes in several clinical laboratory analytes in randomized, double-blind, placebo-controlled studies [see Warnings and Precautions (5.4, 5.12)].
 Controlled trials of adjunctive topiramate treatment of adults for partial-onset seizures showed an increased incidence of markedly decreased serum phosphorus (6% topiramate versus 2% placebo), markedly increased serum alkaline phosphatase (3% topiramate versus 1% placebo), and decreased serum potassium (0.4% topiramate versus 0.1% placebo).
 
 Pediatric Patients
@@ -381,10 +383,11 @@ In pediatric patients (1 to 24 months) receiving adjunctive topiramate for parti
 The incidence was also increased for a decreased result for bicarbonate (i.e., metabolic acidosis), and potassium with immediate-release (vs placebo) [see Use in Specific Populations (8.4)].
 Topiramate extended-release capsules are not indicated for partial-onset seizures in pediatric patients less than 2 years of age.
 
-In pediatric patients (ranging from 6 to 17 years of age) receiving immediate-release topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils, The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
+In pediatric patients (ranging from 6 to 17 years of age) receiving immediate-release topiramate for the preventive treatment of migraine, there was an increased incidence for an increased result (relative to normal analyte reference range) associated with immediate-release topiramate (vs placebo) for the following clinical laboratory analytes: creatinine, BUN, uric acid, chloride, ammonia, alkaline phosphatase, total protein, platelets, and eosinophils.
+The incidence was also increased for a decreased result for phosphorus, bicarbonate, total white blood count, and neutrophils [see Use in Specific Populations (8.4)].
 Topiramate extended-release capsules are not indicated for the preventive treatment of migraine in pediatric patients less than 12 years of age.
 
-## 6.2 Clinical Trials Experience With Topiramate Extended-Release
+## 6.2 Clinical Trials Experience with Topiramate Extended-Release
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 In the topiramate extended-release study, a dose of 200 mg per day was administered to a limited number of patients; therefore, these results cannot be directly compared to immediate-release topiramate experience.
@@ -424,13 +427,13 @@ In the controlled clinical study using topiramate extended-release, 8.9% of pati
 The following adverse reactions have been identified during post-approval use of immediate-release topiramate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Body as a Whole–General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.10)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.12)]
+Body as a Whole–General Disorders: oligohydrosis and hyperthermia [see Warnings and Precautions (5.3)], hyperammonemia, hyperammonemic encephalopathy [see Warnings and Precautions (5.12)], hypothermia with concomitant valproic acid [see Warnings and Precautions (5.14)]
 
 Gastrointestinal System Disorders: hepatic failure (including fatalities), hepatitis, pancreatitis
 
-Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), pemphigus [see Warnings and Precautions (5.9)]
+Skin and Appendage Disorders: bullous skin reactions (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis) [see Warnings and Precautions (5.11)], pemphigus
 
-Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.11)]
+Urinary System Disorders: kidney stones, nephrocalcinosis [see Warnings and Precautions (5.4, 5.13)]
 
 Vision Disorders: acute myopia, secondary angle closure glaucoma [see Warnings and Precautions (5.1)], maculopathy
 
