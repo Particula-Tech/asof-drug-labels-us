@@ -76,18 +76,6 @@ Baxter Logo
 
 Baxter and Galaxy are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-CODE: 2G3508 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: #########
-
-CODE: 2G3508 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: #########
-
-FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXX (10) XXXXXXXXX
-
-FOR PLACEMENT ONLY.
-(01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXX (10) XXXXXXXXX
-
-07-06-77-681
-
 Baxter Logo Cefazolin Injection, USP 1 g / 50 mL (20 mg / mL)
 
 GALAXY Single Dose Container Discard unused portion
@@ -153,11 +141,3 @@ Check for minute leaks by squeezing thawed bag firmly.
 If leaks are found, discard bag as sterility may be impaired.
 Do not use unless solution is clear.
 Rx only
-
-CODE: 2G3503 LOT: XXXXXXXXX EXP: DD MMM YY QTY: QQ SN: #########
-
-FOR PLACEMENT ONLY.
-
-- (01) X XXXXXXX XXXXX X (21) XXXXXXXXX (17) XXXXXX (10) XXXXXXXXX
-
-07-06-77-680
