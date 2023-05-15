@@ -53,7 +53,7 @@ Zonisamide capsules may cause eye problems.
 Serious eye problems include:
 
 - sudden decrease in vision with or without eye pain and redness
-- a blockage of fluid in the eye causing increased pressure in the eye (secondary angle glaucoma) closure
+- a blockage of fluid in the eye causing increased pressure in the eye (secondary angle closure glaucoma)
 
 These eye problems can lead to permanent loss of vision if not treated.
 
@@ -226,8 +226,6 @@ The capsule shell contains gelatin and titanium dioxide.
 Imprinting ink contains black iron oxide E172, butyl alcohol, dehydrated alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol, purified water, shellac and strong ammonia solution.
 In addition 100 mg zonisamide capsule shell contains black iron oxide E172 and red iron oxide E172.
 
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 12/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 04/2023
