@@ -2,7 +2,7 @@
 
 ## Dosage and Administration in Adults:
 
-Multiple Dose SINCE ORAL ABSORPTION IS RAPID AND ALMOST COMPLETE, THE DAILY DOSE OF FLUCONAZOLE IS THE SAME FOR ORAL AND INTRAVENOUS ADMINISTRATION.
+Multiple Dose SINCE ORAL ABSORPTION IS RAPID AND ALMOST COMPLETE, THE DAILY DOSE OF FLUCONAZOLE IS THE SAME FOR ORAL (TABLETS AND SUSPENSION) AND INTRAVENOUS ADMINISTRATION.
 In general, a loading dose of twice the daily dose is recommended on the first day of therapy to result in plasma concentrations close to steady-state by the second day of therapy.
 
 The daily dose of Fluconazole in Sodium Chloride Injection, USP for the treatment of infections other than vaginal candidiasis should be based on the infecting organism and the patient’s response to therapy.
@@ -99,7 +99,7 @@ Fluconazole in Sodium Chloride Injection, USP is administered by intravenous inf
 Fluconazole has been used safely for up to fourteen days of intravenous therapy.
 The intravenous infusion of Fluconazole in Sodium Chloride Injection, USP should be administered at a maximum rate of approximately 200 mg/hour, given as a continuous infusion.
 
-Fluconazole in Sodium Chloride Injection, USP in INTRAVIA plastic containers are intended only for intravenous administration using sterile equipment.
+Fluconazole in Sodium Chloride Injection, USP in Intravia plastic containers are intended only for intravenous administration using sterile equipment.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
 

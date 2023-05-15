@@ -10,10 +10,6 @@ Peak plasma concentrations (Cmax) in fasted normal volunteers occur between 1 an
 
 In fasted normal volunteers, administration of a single oral 400 mg dose of fluconazole leads to a mean Cmax of 6.72 mcg/mL (range: 4.12 to 8.08 mcg/mL) and after single oral doses of 50 to 400 mg, fluconazole plasma concentrations and area under the plasma concentration-time curve (AUC) are dose proportional.
 
-The Cmax and AUC data from a food-effect study involving administration of fluconazole tablets to healthy volunteers under fasting conditions and with a high-fat meal indicated that exposure to the drug is not affected by food.
-Therefore, fluconazole may be taken without regard to meals.
-(See DOSAGE AND ADMINISTRATION.)
-
 Steady-state concentrations are reached within 5 to 10 days following oral doses of 50 to 400 mg given once daily.
 Administration of a loading dose (on Day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
 The apparent volume of distribution of fluconazole approximates that of total body water.
@@ -57,11 +53,11 @@ In children, the following pharmacokinetic data {Mean (%cv)} have been reported:
 
 | Age Studied | Dose (mg/kg) | Clearance (mL/min/kg) | Half-life (Hours) | Cmax (mcg/mL) | Vdss (L/kg) |
 | --- | --- | --- | --- | --- | --- |
-| 9 Months - 13 years | Single-Oral 2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | — |
-| 9 Months - 13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | — |
-| 5 - 15 years | Multiple IV 2 mg/kg | 0.49 (40%) N=4 | 17.4 | 5.5 (25%) N=5 | 0.722 (36%) N=4 |
-| 5 - 15 years | Multiple IV 4 mg/kg | 0.59 (64%) N=5 | 15.2 | 11.4 (44%) N=6 | 0.729 (33%) N=5 |
-| 5 - 15 years | Multiple IV 8 mg/kg | 0.66 (31%) N=7 | 17.6 | 14.1 (22%) N=8 | 1.069 (37%) N=7 |
+| 9 months - 13 years | Single-Oral 2 mg/kg | 0.40 (38%) N=14 | 25.0 | 2.9 (22%) N=16 | — |
+| 9 months - 13 years | Single-Oral 8 mg/kg | 0.51 (60%) N=15 | 19.5 | 9.8 (20%) N=15 | — |
+| 5-15 years | Multiple Intravenous 2 mg/kg | 0.49 (40%) N=4 | 17.4 | 5.5 (25%) N=5 | 0.722 (36%) N=4 |
+| 5-15 years | Multiple Intravenous 4 mg/kg | 0.59 (64%) N=5 | 15.2 | 11.4 (44%) N=6 | 0.729 (33%) N=5 |
+| 5-15 years | Multiple Intravenous 8 mg/kg | 0.66 (31%) N=7 | 17.6 | 14.1 (22%) N=8 | 1.069 (37%) N=7 |
 
 Clearance corrected for body weight was not affected by age in these studies.
 Mean body clearance in adults is reported to be 0.23 (17%) mL/min/kg.
@@ -76,7 +72,7 @@ Ten of these patients were concomitantly receiving diuretics.
 The Cmax was 1.54 mcg/mL and occurred at 1.3 hours post dose.
 The mean AUC was 76.4 ± 20.3 mcg h/mL, and the mean terminal half-life was 46.2 hours.
 These pharmacokinetic parameter values are higher than analogous values reported for normal young male volunteers.
-Coadministration of diuretics did not significantly alter AUC or Cmax.
+Coadministration of diuretics did not significantly alter the AUC or Cmax.
 In addition, creatinine clearance (74 mL/min), the percent of drug recovered unchanged in urine (0 to 24 hours, 22%), and the fluconazole renal clearance estimates (0.124 mL/min/kg) for the elderly were generally lower than those of younger volunteers.
 Thus, the alteration of fluconazole disposition in the elderly appears to be related to reduced renal function characteristic of this group.
 A plot of each subject’s terminal elimination half-life versus creatinine clearance compared to the predicted half-life – creatinine clearance curve derived from normal subjects and subjects with varying degrees of renal insufficiency indicated that 21 of 22 subjects fell within the 95% confidence limit of the predicted half-life – creatinine clearance curves.
@@ -106,7 +102,7 @@ After the administration of cimetidine, there was a significant decrease in fluc
 There was a mean ± SD decrease in fluconazole AUC of 13% ± 11% (range: -3.4 to -31%) and Cmax decreased 19% ± 14% (range: -5 to -40%).
 However, the administration of cimetidine 600 mg to 900 mg intravenously over a four-hour period (from one hour before to 3 hours after a single oral dose of fluconazole 200 mg) did not affect the bioavailability or pharmacokinetics of fluconazole in 24 healthy male volunteers.
 
-Antacid: Administration of Maalox® (20 mL) to 14 normal male volunteers immediately prior to a single dose of fluconazole 100 mg had no effect on the absorption or elimination of fluconazole.
+Antacid: Administration of Maalox (20 mL) to 14 normal male volunteers immediately prior to a single dose of fluconazole 100 mg had no effect on the absorption or elimination of fluconazole.
 
 Hydrochlorothiazide: Concomitant oral administration of 100 mg fluconazole and 50 mg hydrochlorothiazide for 10 days in 13 normal volunteers resulted in a significant increase in fluconazole AUC and Cmax compared to fluconazole given alone.
 There was a mean ± SD increase in fluconazole AUC and Cmax of 45% ± 31% (range: 19 to 114%) and 43% ± 31% (range: 19 to 122%), respectively.
@@ -183,18 +179,18 @@ Tacrolimus: There have been published reports that an interaction exists when fl
 Midazolam: The effect of fluconazole on the pharmacokinetics and pharmacodynamics of midazolam was examined in a randomized, cross-over study in 12 volunteers.
 In the study, subjects ingested placebo or 400 mg fluconazole on Day 1 followed by 200 mg daily from Day 2 to Day 6.
 In addition, a 7.5 mg dose of midazolam was orally ingested on the first day, 0.05 mg/kg was administered intravenously on the fourth day, and 7.5 mg orally on the sixth day.
-Fluconazole reduced the clearance of IV midazolam by 51%.
+Fluconazole reduced the clearance of intravenous midazolam by 51%.
 On the first day of dosing, fluconazole increased the midazolam AUC and Cmax by 259% and 150%, respectively.
 On the sixth day of dosing, fluconazole increased the midazolam AUC and Cmax by 259% and 74%, respectively.
 The psychomotor effects of midazolam were significantly increased after oral administration of midazolam but not significantly affected following intravenous midazolam.
 
 A second randomized, double-dummy, placebo-controlled, cross over study in three phases was performed to determine the effect of route of administration of fluconazole on the interaction between fluconazole and midazolam.
-In each phase the subjects were given oral fluconazole 400 mg and intravenous saline; oral placebo and intravenous fluconazole 400 mg; and oral placebo and IV saline.
+In each phase the subjects were given oral fluconazole 400 mg and intravenous saline; oral placebo and intravenous fluconazole 400 mg; and oral placebo and intravenous saline.
 An oral dose of 7.5 mg of midazolam was ingested after fluconazole/placebo.
-The AUC and Cmax of midazolam were significantly higher after oral than IV administration of fluconazole.
+The AUC and Cmax of midazolam were significantly higher after oral than intravenous administration of fluconazole.
 Oral fluconazole increased the midazolam AUC and Cmax by 272% and 129%, respectively.
-IV fluconazole increased the midazolam AUC and Cmax by 244% and 79%, respectively.
-Both oral and IV fluconazole increased the pharmacodynamic effects of midazolam.
+Intravenous fluconazole increased the midazolam AUC and Cmax by 244% and 79%, respectively.
+Both oral and intravenous fluconazole increased the pharmacodynamic effects of midazolam.
 (See PRECAUTIONS.)
 
 Azithromycin: An open-label, randomized, three-way crossover study in 18 healthy subjects assessed the effect of a single 800 mg oral dose of fluconazole on the pharmacokinetics of a single 1200 mg oral dose of azithromycin as well as the effects of azithromycin on the pharmacokinetics of fluconazole.
@@ -203,14 +199,14 @@ There was no significant pharmacokinetic interaction between fluconazole and azi
 Voriconazole: Voriconazole is a substrate for both CYP2C9 and CYP3A4 isoenzymes.
 Concurrent administration of oral Voriconazole (400 mg Q12h for 1 day, then 200 mg Q12h for 2.5 days) and oral fluconazole (400 mg on Day 1, then 200 mg Q24h for 4 days) to 6 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20% to 107%) and 79% (90% CI: 40% to 128%), respectively.
 In a follow-on clinical study involving 8 healthy male subjects, reduced dosing and/or frequency of voriconazole and fluconazole did not eliminate or diminish this effect.
-Concomitant administration of voriconazole and fluconazole at any dose is not recommended.
-Close monitoring for adverse events related to voriconazole is recommended if voriconazole is used sequentially after fluconazole, especially within
-
-24 h of the last dose of fluconazole.
 (See PRECAUTIONS.)
 
 Tofacitinib: Coadministration of fluconazole (400 mg on Day 1 and 200 mg once daily for 6 days [Days 2-7]) and tofacitinib (30 mg single dose on Day 5) in healthy subjects resulted in increased mean tofacitinib AUC and Cmax values of approximately 79% (90% CI: 64% to 96%) and 27% (90% CI: 12% to 44%), respectively, compared to administration of tofacitinib alone.
 (See PRECAUTIONS.)
+
+Abrocitinib: When co-administered with fluconazole (inhibitor of CYP2C9, 2C19, and 3A4), the systemic exposure (AUC) of abrocitinib was approximately 4.8-fold higher and the combined exposure (AUC) of abrocitinib and its active metabolites was approximately 2.5-fold higher compared to when abrocitinib was administered alone
+
+(See PRECAUTIONS).
 
 ## Microbiology
 
@@ -278,4 +274,4 @@ Such cases may require alternative antifungal therapy.
 
 ## Susceptibility Testing
 
-For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

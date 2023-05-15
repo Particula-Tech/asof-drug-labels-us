@@ -1,4 +1,4 @@
-# Directions for IV Use of Fluconazole in Sodium Chloride Injection, USP in INTRAVIA Plastic Containers
+# Directions for Intravenous Use of Fluconazole in Sodium Chloride Injection, USP in INTRAVIA Plastic Containers
 
 Do not remove unit from overwrap until ready for use.
 The overwrap is a moisture barrier.
@@ -33,11 +33,11 @@ Deerfield, IL 60015 USA
 
 Printed in USA
 
-Baxter and Intravia are registered trademarks of Baxter International Inc.
+Baxter and Intravia are trademarks of Baxter International Inc. or its subsidiaries.
 
-Maalox is a registered trademark of Novartis Consumer Health, Inc.
+Any other trademarks, product names or brand images appearing herein are the property of their respective owners.
 
-07-19-00-4648
+07-19-00-6305
 
 Rev.
-May 2022
+April 2023

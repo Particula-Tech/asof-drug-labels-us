@@ -14,10 +14,10 @@
 4. 4.Potential for fetal harm: There are no adequate and well-controlled clinical trials of fluconazole in pregnant women.
    Case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400 to 800 mg/day) during most or all of the first trimester.
    These reported anomalies are similar to those seen in animal studies.
-   If this drug is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
+   If fluconazole is used during pregnancy or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
    Effective contraceptive measures should be considered in women of child-bearing potential who are being treated with Fluconazole 400 to 800 mg/day and should continue throughout the treatment period and for approximately 1 week (5 to 6 half-lives) after the final dose.
    Epidemiological studies suggest a potential risk of spontaneous abortion and congenital abnormalities in infants whose mothers were treated with 150 mg of fluconazole as a single or repeated dose in the first trimester, but these epidemiological studies have limitations and these findings have not been confirmed in controlled clinical trials.
-   (See PRECAUTIONS, Pregnancy.)
+   (See PRECAUTIONS: Pregnancy.)
 
 # PRECAUTIONS
 
@@ -54,7 +54,11 @@ Therefore, caution should be exercised when using these combinations and the pat
 The enzyme inhibiting effect of fluconazole persists 4 to 5 days after discontinuation of fluconazole treatment due to the long half-life of fluconazole.
 Clinically or potentially significant drug interactions between fluconazole and the following agents/classes have been observed and are described in greater detail below:
 
-Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of t1/2 of alfentanil following concomitant treatment with fluconazole.
+Abrocitinib: Drug interaction studies indicate that when co-administered with fluconazole (strong inhibitor of CYP2C19; moderate inhibitor of CYP2C9 and CYP3A4), the systemic exposure of abrocitinib and its active metabolites increased (See CLINICAL PHARMACOLOGY).
+Avoid concomitant use of abrocitinib with fluconazole.
+Refer to the abrocitinib Prescribing Information for additional details.
+
+Alfentanil: A study observed a reduction in clearance and distribution volume as well as prolongation of t½ of alfentanil following concomitant treatment with fluconazole.
 A possible mechanism of action is fluconazole’s inhibition of CYP3A4.
 Dosage adjustment of alfentanil may be necessary.
 
@@ -110,20 +114,14 @@ Refer to the statin-specific prescribing information for details.
 Hydrochlorothiazide: In a pharmacokinetic interaction study, coadministration of multiple-dose hydrochlorothiazide to healthy volunteers receiving fluconazole increased plasma concentrations of fluconazole by 40%.
 An effect of this magnitude should not necessitate a change in the fluconazole dose regimen in subjects receiving concomitant diuretics.
 
-Ibrutinib: Moderate inhibitors of CYP34A such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
+Ibrutinib: Moderate inhibitors of CYP3A4 such as fluconazole may increase plasma ibrutinib concentrations and increase risk of adverse reactions associated with ibrutinib.
 If ibrutinib and fluconazole are concomitantly administered, reduce the dose of ibrutinib as instructed in ibrutinib prescribing information and the patient should be frequently monitored for any adverse reactions associated with ibrutinib.
-
-Ivacaftor and fixed dose ivacaftor combinations (e.g., tezacaftor/ivacaftor and ivacaftor/tezacaftor/elexacaftor): Coadministration with ivacaftor, a cystic fibrosis transmembrane conductance regulator (CFTR) potentiator, increased ivacaftor exposure by 3-fold.
-If used concomitantly with a moderate inhibitor of CYP3A4, such as fluconazole, a reduction in the dose of ivacaftor (or ivacaftor combination) is recommended as instructed in the ivacaftor (or ivacaftor combination) prescribing information.
 
 Lemborexant: Concomitant administration of fluconazole increased lemborexant Cmax and AUC by approximately 1.6- and 4.2-fold, respectively which is expected to increase risk of adverse reactions, such as somnolence.
 Avoid concomitant use of fluconazole with lemborexant.
 
 Losartan: Fluconazole inhibits the metabolism of losartan to its active metabolite (E-31 74) which is responsible for most of the angiotensin Il-receptor antagonism which occurs during treatment with losartan.
 Patients should have their blood pressure monitored continuously.
-
-Lurasidone: Concomitant use of moderate inhibitors of CYP3A4 such as fluconazole may increase lurasidone plasma concentrations.
-If concomitant use cannot be avoided, reduce the dose of lurasidone as instructed in the lurasidone prescribing information.
 
 Methadone: Fluconazole may enhance the serum concentration of methadone.
 Dosage adjustment of methadone may be necessary.
@@ -135,8 +133,8 @@ Although not specifically studied, fluconazole has the potential to increase the
 Frequent monitoring for adverse events and toxicity related to NSAIDs is recommended.
 Adjustment of dosage of NSAIDs may be needed.
 
-Olaparib: Moderate inhibitors of CYP34A such as fluconazole increase olaparib plasma concentrations; concomitant use is not recommended.
-If the combination cannot be avoided, reduce the dose of olaparib as instructed in the LYNPARZA® (Olaparib) Prescribing Information.
+Olaparib: Moderate inhibitors of CYP3A4 such as fluconazole increase olaparib plasma concentrations; concomitant use is not recommended.
+If the combination cannot be avoided, reduce the dose of olaparib as instructed in the Lynparza (Olaparib) Prescribing Information.
 
 Oral Contraceptives: Two pharmacokinetic studies with a combined oral contraceptive have been performed using multiple doses of fluconazole.
 There were no relevant effects on hormone level in the 50 mg fluconazole study, while at 200 mg daily, the AUCs of ethinyl estradiol and levonorgestrel were increased 40% and 24%, respectively.
@@ -176,7 +174,7 @@ Depending on clinical circumstances, consideration should be given to increasing
 Saquinavir: Fluconazole increases the AUC of saquinavir by approximately 50%, Cmax by approximately 55%, and decreases the clearance of saquinavir by approximately 50% due to inhibition of saquinavir’s hepatic metabolism by CYP3A4 and inhibition of P- glycoprotein.
 Dosage adjustment of saquinavir may be necessary.
 
-Short-acting Benzodiazepines: Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.
+Short-acting benzodiazepines: Following oral administration of midazolam, fluconazole resulted in substantial increases in midazolam concentrations and psychomotor effects.
 This effect on midazolam appears to be more pronounced following oral administration of fluconazole than with fluconazole administered intravenously.
 If short-acting benzodiazepines, which are metabolized by the cytochrome P450 system, are concomitantly administered with fluconazole, consideration should be given to decreasing the benzodiazepine dosage, and the patients should be appropriately monitored.
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
@@ -195,19 +193,19 @@ Careful monitoring of serum theophylline concentrations in patients receiving fl
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
 
 Tofacitinib: Systemic exposure to tofacitinib is increased when tofacitinib is coadministered with fluconazole.
-Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the XELJANZ® [tofacitinib] label).
+Reduce the dose of tofacitinib when given concomitantly with fluconazole (i.e., from 5 mg twice daily to 5 mg once daily as instructed in the Xeljanz [tofacitinib] label).
 (See CLINICAL PHARMACOLOGY: Drug Interaction Studies.)
-
-Tolvaptan: Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is co-administered with fluconazole, a moderate CYP3A4 inhibitor.
-This interaction may result in the risk of significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration and acute renal failure.
-If tolvaptan and fluconazole are concomitantly administered, the tolvaptan dose should be reduced as instructed in the tolvaptan prescribing information and the patient should be frequently monitored for any adverse reactions associated with tolvaptan.
 
 Triazolam: Fluconazole increases the AUC of triazolam (single dose) by approximately 50%, Cmax by 20% to 32%, and increases t1/2 by 25% to 50% due to the inhibition of metabolism of triazolam.
 Dosage adjustments of triazolam may be necessary.
 
-Vinca Alkaloids: Although not studied, fluconazole may increase the plasma levels of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity, which is possibly due to an inhibitory effect on CYP3A4.
+Tolvaptan: Plasma exposure to tolvaptan is significantly increased (200% in AUC; 80% in Cmax) when tolvaptan, a CYP3A4 substrate, is co-administered with fluconazole, a moderate CYP3A4 inhibitor.
+This interaction may result in the risk of a significant increase in adverse reactions associated with tolvaptan, particularly significant diuresis, dehydration, and acute renal failure.
+If tolvaptan and fluconazole are concomitantly administered, the tolvaptan dose should be reduced as instructed in the tolvaptan prescribing information and the patient should be frequently monitored for any adverse reactions associated with tolvaptan.
 
-Vitamin A: Based on a case report in one patient receiving combination therapy with all-trans- retinoid acid (an acid form of vitamin A) and fluconazole, central nervous system (CNS) related undesirable effects have developed in the form of pseudotumor cerebri, which disappeared after discontinuation of fluconazole treatment.
+Vinca alkaloids: Although not studied, fluconazole may increase the plasma levels of the vinca alkaloids (e.g., vincristine and vinblastine) and lead to neurotoxicity, which is possibly due to an inhibitory effect on CYP3A4.
+
+Vitamin A: Based on a case report in one patient receiving combination therapy with all-trans-retinoid acid (an acid form of vitamin A) and fluconazole, central nervous system (CNS) related undesirable effects have developed in the form of pseudotumor cerebri, which disappeared after discontinuation of fluconazole treatment.
 This combination may be used but the incidence of CNS related undesirable effects should be borne in mind.
 
 Voriconazole: Avoid concomitant administration of voriconazole and fluconazole.
@@ -282,7 +280,7 @@ An open-label, randomized, controlled trial has shown fluconazole to be effectiv
 (See CLINICAL STUDIES.)
 
 The use of fluconazole in children with cryptococcal meningitis, Candida esophagitis, or systemic Candida infections is supported by the efficacy shown for these indications in adults and by the results from several small noncomparative pediatric clinical studies.
-In addition, pharmacokinetic studies in children (see CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults.
+In addition, pharmacokinetic studies in children (See CLINICAL PHARMACOLOGY) have established a dose proportionality between children and adults.
 (See DOSAGE AND ADMINISTRATION.)
 
 In a noncomparative study of children with serious systemic fungal infections, most of which were candidemia, the effectiveness of fluconazole was similar to that reported for the treatment of candidemia in adults.
