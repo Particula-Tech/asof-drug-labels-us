@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA216185"
+  ],
+  "inn": "lacosamide",
+  "labeler": "Aucta Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "73289-0063-1",
+    "73289-0063-2",
+    "73289-0064-2",
+    "73289-0065-2"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "lacosamide",
+      "name": "MOTPOLY XR"
+    }
+  ],
+  "setid": "fb8235b4-4cd3-6f22-e053-6294a90a545c",
+  "source": "dailymed"
+}
