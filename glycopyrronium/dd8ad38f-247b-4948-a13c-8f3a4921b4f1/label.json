@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216903"
+  ],
+  "inn": "glycopyrronium",
+  "labeler": "PAR PHARMACEUTICAL, INC.",
+  "package_ndcs": [
+    "42023-269-01",
+    "42023-269-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "neostigmine methylsulfate and glycopyrrolate",
+      "name": "PREVDUO"
+    }
+  ],
+  "setid": "dd8ad38f-247b-4948-a13c-8f3a4921b4f1",
+  "source": "dailymed"
+}
