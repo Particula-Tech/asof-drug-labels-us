@@ -1,0 +1,7 @@
+# PRINCIPAL DISPLAY PANEL – 122 mL
+
+122 mL Rx Only NDC 46287-055-01
+
+Liqrev® (Sildenafil) Oral Suspension 10 mg/mL
+
+FOR ORAL USE ONLY SHAKE WELL BEFORE USE

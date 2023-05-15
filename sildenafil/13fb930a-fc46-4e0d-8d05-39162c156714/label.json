@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214952"
+  ],
+  "inn": "sildenafil",
+  "labeler": "CMP Pharma, Inc.",
+  "package_ndcs": [
+    "46287-055-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "sildenafil",
+      "name": "Liqrev"
+    }
+  ],
+  "setid": "13fb930a-fc46-4e0d-8d05-39162c156714",
+  "source": "dailymed"
+}
