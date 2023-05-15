@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-TOPAMAX® Tablets are available as debossed, coated, round tablets in the following strengths and colors:
+TOPAMAX ® Tablets are available as debossed, coated, round tablets in the following strengths and colors:
 
 25 mg cream (debossed "OMN" on one side; "25" on the other)
 
@@ -10,7 +10,7 @@ TOPAMAX® Tablets are available as debossed, coated, round tablets in the follow
 
 200 mg salmon (debossed "OMN" on one side; "200" on the other)
 
-TOPAMAX® Sprinkle Capsules contain small, white to off-white spheres.
+TOPAMAX ® Sprinkle Capsules contain small, white to off-white spheres.
 The gelatin capsules are white and clear.
 
 They are marked as follows:

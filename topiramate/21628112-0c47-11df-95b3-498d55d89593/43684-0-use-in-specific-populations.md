@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TOPAMAX® during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to TOPAMAX ® during pregnancy.
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334.
@@ -12,7 +12,7 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 
 Risk Summary
 
-TOPAMAX® can cause fetal harm when administered to a pregnant woman.
+TOPAMAX ® can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
 SGA has been observed at all doses and appears to be dose-dependent.
 The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
@@ -34,12 +34,12 @@ Women who are planning a pregnancy should be counseled regarding the relative ri
 
 Labor or Delivery
 
-Although the effect of TOPAMAX® on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor.
+Although the effect of TOPAMAX ® on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus' ability to tolerate labor.
 
-TOPAMAX® treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
+TOPAMAX ® treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate-induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus' ability to tolerate labor.
 Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.4)].
-Newborns of mothers treated with TOPAMAX® should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
+Newborns of mothers treated with TOPAMAX ® should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
 
 Based on limited information, topiramate has also been associated with pre-term labor and premature delivery.
 
@@ -52,7 +52,7 @@ Other than oral clefts, no specific pattern of major congenital malformations or
 In the NAAED pregnancy registry, when topiramate-exposed infants with only oral clefts were excluded, the prevalence of major congenital malformations (4.1%) was higher than that in infants exposed to a reference AED (1.8%) or in infants with mothers without epilepsy and without exposure to AEDs (1.1%).
 The prevalence of oral clefts among topiramate-exposed infants (1.4%) was higher than the prevalence in infants exposed to a reference AED (0.3%) or the prevalence in infants with mothers without epilepsy and without exposure to AEDs (0.11%).
 It was also higher than the background prevalence in United States (0.17%) as estimated by the Centers for Disease Control and Prevention (CDC).
-The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI]5.9 –26.37) as compared to the risk in a background population of untreated women.
+The relative risk of oral clefts in topiramate-exposed pregnancies in the NAAED Pregnancy Registry was 12.5 (95% Confidence Interval [CI]5.9–26.37) as compared to the risk in a background population of untreated women.
 The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts among infants exposed to topiramate monotherapy (3.2%) that was 16 times higher than the background rate in the UK (0.2%).
 
 Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
@@ -65,21 +65,21 @@ Animal Data
 When topiramate (0, 20, 100, or 500 mg/kg/day) was administered to pregnant mice during the period of organogenesis, incidences of fetal malformations (primarily craniofacial defects) were increased at all doses.
 Fetal body weights and skeletal ossification were reduced at the highest dose tested in conjunction with decreased maternal body weight gain.
 A no-effect dose for embryofetal developmental toxicity in mice was not identified.
-The lowest dose tested, which was associated with increased malformations, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m2) basis.
+The lowest dose tested, which was associated with increased malformations, is less than the maximum recommended human dose (MRHD) for epilepsy (400 mg/day) or migraine (100 mg/day) on a body surface area (mg/m 2) basis.
 
 In pregnant rats administered topiramate (0, 20, 100, and 500 mg/kg/day or 0, 0.2, 2.5, 30, and 400 mg/kg/day) orally during the period of organogenesis, the frequency of limb malformations (ectrodactyly, micromelia, and amelia) was increased in fetuses at 400 and 500 mg/kg/day.
 Embryotoxicity (reduced fetal body weights, increased incidences of structural variations) was observed at doses as low as 20 mg/kg/day.
 Clinical signs of maternal toxicity were seen at 400 mg/kg/day and above, and maternal body weight gain was reduced at doses of 100 mg/kg/day or greater.
-The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
+The no-effect dose (2.5 mg/kg/day) for embryofetal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
 In pregnant rabbits administered topiramate (0, 20, 60, and 180 mg/kg/day or 0, 10, 35, and 120 mg/kg/day) orally during organogenesis, embryofetal mortality was increased at 35 mg/kg/day, and increased incidences of fetal malformations (primarily rib and vertebral malformations) were observed at 120 mg/kg/day.
 Evidence of maternal toxicity (decreased body weight gain, clinical signs, and/or mortality) was seen at 35 mg/kg/day and above.
-The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m2 basis.
+The no-effect dose (20 mg/kg/day) for embryofetal developmental toxicity in rabbits is equivalent to the MRHD for epilepsy and approximately 4 times the MRHD for migraine on a mg/m 2 basis.
 
 When topiramate (0, 0.2, 4, 20, and 100 mg/kg/day or 0, 2, 20, and 200 mg/kg/day) was administered orally to female rats during the latter part of gestation and throughout lactation, offspring exhibited decreased viability and delayed physical development at 200 mg/kg/day and reductions in pre- and/or postweaning body weight gain at 2 mg/kg/day and above.
 Maternal toxicity (decreased body weight gain, clinical signs) was evident at 100 mg/kg/day or greater.
 In a rat embryofetal development study which included postnatal assessment of offspring, oral administration of topiramate (0, 0.2, 2.5, 30, and 400 mg/kg) to pregnant animals during the period of organogenesis resulted in delayed physical development in offspring at 400 mg/kg/day and persistent reductions in body weight gain in offspring at 30 mg/kg/day and higher.
-The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m2 basis.
+The no-effect dose (0.2 mg/kg/day) for pre- and postnatal developmental toxicity in rats is less than the MRHD for epilepsy or migraine on a mg/m 2 basis.
 
 ## 8.2 Lactation
 
@@ -89,7 +89,7 @@ Topiramate is excreted in human milk [see Data].
 The effects of topiramate on milk production are unknown.
 Diarrhea and somnolence have been reported in breastfed infants whose mothers receive topiramate treatment.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TOPAMAX® and any potential adverse effects on the breastfed infant from TOPAMAX® or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for TOPAMAX ® and any potential adverse effects on the breastfed infant from TOPAMAX ® or from the underlying maternal condition.
 
 Data
 
@@ -109,7 +109,7 @@ Adjunctive Treatment for Epilepsy
 
 Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of Topamax as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
+The safety and effectiveness of TOPAMAX ® as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 Pediatric Patients Below the Age of 2 Years
 
@@ -117,7 +117,7 @@ Safety and effectiveness in patients below the age of 2 years have not been esta
 In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial-onset seizures were assessed.
 After 20 days of double-blind treatment, topiramate (at fixed doses of 5, 15, and 25 mg/kg/day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
-In general, the adverse reaction profile for TOPAMAX® in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications).
+In general, the adverse reaction profile for TOPAMAX ® in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications).
 
 These very young pediatric patients appeared to experience an increased risk for infections (any topiramate dose 12%, placebo 0%) and of respiratory disorders (any topiramate dose 40%, placebo 16%).
 The following adverse reactions were observed in at least 3% of patients on topiramate and were 3% to 7% more frequent than in patients on placebo: viral infection, bronchitis, pharyngitis, rhinitis, otitis media, upper respiratory infection, cough, and bronchospasm.
@@ -150,21 +150,21 @@ Pediatric Patients 2 Years of Age and Older
 
 The safety and effectiveness of TOPAMAX as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
-A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of TOPAMAX® (N=28, 6–15 years of age) versus levetiracetam (N=35, 4–15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
+A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of TOPAMAX ® (N=28, 6–15 years of age) versus levetiracetam (N=35, 4–15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
-Table 10 summarizes effects of TOPAMAX® at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
-All Least Square Mean values for TOPAMAX® and the comparator were positive.
-Therefore, the Least Square Mean treatment differences shown reflect a TOPAMAX®-induced attenuation of the key safety outcomes.
+Table 10 summarizes effects of TOPAMAX ® at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
+All Least Square Mean values for TOPAMAX ® and the comparator were positive.
+Therefore, the Least Square Mean treatment differences shown reflect a TOPAMAX ®-induced attenuation of the key safety outcomes.
 Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.
 Subgroup analyses according to age demonstrated similar negative effects for all key safety outcomes (i.e., BMD, height, weight).
 
-Table 10 Summary of TOPAMAX® Treatment Difference Results at 12 Months for Key Safety Outcomes
+Table 10 Summary of TOPAMAX ® Treatment Difference Results at 12 Months for Key Safety Outcomes
 
 | Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |  |  |
 | --- | --- | --- | --- |
-| Annual Change in BMD Lumbar Spine (g/cm2) | -0.036 |  | (-0.058, -0.014) |
-| Annual Change in BMD TBLHTBLH=total body less head (g/cm2) | -0.026 |  | (-0.039, -0.012) |
-| Annual Change in Height (cm) (4–9 years, Primary Analysis Population for Height) Whereas no patients were randomized to 2–5 year age subgroup for TOPAMAX®, 5 patients (4–5 years) were randomized to the active control group. | -0.84 |  | (-2.67, 0.99) |
+| Annual Change in BMD Lumbar Spine (g/cm 2) | -0.036 |  | (-0.058, -0.014) |
+| Annual Change in BMD TBLH TBLH=total body less head (g/cm 2) | -0.026 |  | (-0.039, -0.012) |
+| Annual Change in Height (cm) (4–9 years, Primary Analysis Population for Height) Whereas no patients were randomized to 2–5 year age subgroup for TOPAMAX ®, 5 patients (4–5 years) were randomized to the active control group. | -0.84 |  | (-2.67, 0.99) |
 | Annual Change in Height (cm) (4–15 years) | -0.75 |  | (-2.21, 0.71) |
 | Annual Change in Height (cm) (10–15 years) | -1.01 |  | (-3.64, 1.61) |
 | Height Velocity (cm/year) (4–9 years) | -1.00 |  | (-2.76, 0.76) |
@@ -172,13 +172,13 @@ Table 10 Summary of TOPAMAX® Treatment Difference Results at 12 Months for Key 
 | Height Velocity (cm/year) (10–15 years) | -0.96 |  | (-3.24, 1.32) |
 | Annual Change in Weight (kg) | -2.05 |  | (-3.66, -0.45) |
 
-Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all TOPAMAX®-treated patients at some time in the study [see Warnings and Precautions (5.4)].
-Over the whole study, 76% more TOPAMAX®-treated patients experienced persistent metabolic acidosis (i.e.
+Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all TOPAMAX ®-treated patients at some time in the study [see Warnings and Precautions (5.4)].
+Over the whole study, 76% more TOPAMAX ®-treated patients experienced persistent metabolic acidosis (i.e.
 2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam -treated patients.
-Over the whole study, 35% more TOPAMAX®-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam -treated patients.
+Over the whole study, 35% more TOPAMAX ®-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam -treated patients.
 The decrease in BMD at 12 months was correlated with decreased serum bicarbonate, suggesting that metabolic acidosis was at least a partial factor contributing to this adverse effect on BMD.
 
-TOPAMAX®-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
+TOPAMAX ®-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
 
 Pediatric Patients Below the Age of 2 Years
 
@@ -195,7 +195,7 @@ Open-label extension phases of 3 studies enabled evaluation of long-term safety 
 Efficacy of topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 13 [see Clinical Studies (14.3)].
 Efficacy of topiramate (2 to 3 mg/kg/day) for the preventive treatment of migraine was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients (12 to 16 years of age) for 20 weeks.
 
-In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of TOPAMAX®, the most common adverse reactions with TOPAMAX® that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6)].
+In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of TOPAMAX ®, the most common adverse reactions with TOPAMAX ® that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6)].
 
 The most common cognitive adverse reaction in pooled double-blind studies in pediatric patients 12 to 17 years of age was difficulty with concentration/attention [see Warnings and Precautions (5.6)].
 
@@ -211,7 +211,7 @@ Pediatric Patients Below the Age of 12 Years
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 
 In a double-blind study in 90 pediatric patients 6 to 11 years of age (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that seen in pooled double-blind studies of pediatric patients 12 to 17 years of age.
-The most common adverse reactions that occurred in TOPAMAX®-treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
+The most common adverse reactions that occurred in TOPAMAX ®-treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
 Difficulty with concentration/attention occurred in 3 topiramate-treated patients (5%) and 0 placebo-treated patients.
 
 The risk for cognitive adverse reaction was greater in younger patients (6 to 11 years of age) than in older patients (12 to 17 years of age) [see Warnings and Precautions (5.6)].
@@ -219,18 +219,18 @@ The risk for cognitive adverse reaction was greater in younger patients (6 to 11
 Juvenile Animal Studies
 
 When topiramate (0, 30, 90, and 300 mg/kg/day) was administered orally to rats during the juvenile period of development (postnatal days 12 to 50), bone growth plate thickness was reduced in males at the highest dose.
-The no-effect dose (90 mg/kg/day) for adverse developmental effects is approximately 2 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m2) basis.
+The no-effect dose (90 mg/kg/day) for adverse developmental effects is approximately 2 times the maximum recommended pediatric dose (9 mg/kg/day) on a body surface area (mg/m 2) basis.
 
 ## 8.5 Geriatric Use
 
 In clinical trials, 3% of patients were over age 60.
 No age-related differences in effectiveness or adverse effects were evident.
 However, clinical studies of topiramate did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently than younger subjects.
-Dosage adjustment may be necessary for elderly with age-related renal impairment (creatinine clearance rate <70 mL/min/1.73 m2) resulting in reduced clearance [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
+Dosage adjustment may be necessary for elderly with age-related renal impairment (creatinine clearance rate <70 mL/min/1.73 m 2) resulting in reduced clearance [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73 m2) and severe (creatinine clearance <30 mL/min/1.73 m2) renal impairment.
+The clearance of topiramate is reduced in patients with moderate (creatinine clearance 30 to 69 mL/min/1.73 m 2) and severe (creatinine clearance <30 mL/min/1.73 m 2) renal impairment.
 A dosage adjustment is recommended in patients with moderate or severe renal impairment [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients Undergoing Hemodialysis

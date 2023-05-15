@@ -8,7 +8,7 @@ Electrophysiological and biochemical evidence suggests that topiramate, at pharm
 ## 12.2 Pharmacodynamics
 
 Topiramate has anticonvulsant activity in rat and mouse maximal electroshock seizure (MES) tests.
-Topiramate is only weakly effective in blocking clonic seizures induced by the GABAA receptor antagonist, pentylenetetrazole.
+Topiramate is only weakly effective in blocking clonic seizures induced by the GABA A receptor antagonist, pentylenetetrazole.
 Topiramate is also effective in rodent models of epilepsy, which include tonic and absence-like seizures in the spontaneous epileptic rat (SER) and tonic and clonic seizures induced in rats by kindling of the amygdala or by global ischemia.
 
 Changes (increases and decreases) from baseline in vital signs (systolic blood pressure-SBP, diastolic blood pressure-DBP, pulse) occurred more frequently in pediatric patients (6 to 17 years) treated with various daily doses of topiramate (50 mg, 100 mg, 200 mg, 2 to 3 mg/kg) than in patients treated with placebo in controlled trials for the preventive treatment of migraine.
@@ -49,7 +49,7 @@ Specific Populations
 
 Renal Impairment
 
-The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m2) and by 54% in subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73 m2) compared to subjects with normal renal function (creatinine clearance >70 mL/min/1.73 m2) [see Dosage and Administration (2.4) and (2.5)].
+The clearance of topiramate was reduced by 42% in subjects with moderate renal impairment (creatinine clearance 30 to 69 mL/min/1.73 m 2) and by 54% in subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73 m 2) compared to subjects with normal renal function (creatinine clearance >70 mL/min/1.73 m 2) [see Dosage and Administration (2.4) and (2.5)].
 
 Hemodialysis
 
@@ -98,15 +98,15 @@ Potential interactions between topiramate and standard AEDs were assessed in con
 The effects of these interactions on mean plasma AUCs are summarized in Table 11.
 
 In Table 11, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
-The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to TOPAMAX® given alone.
+The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to TOPAMAX ® given alone.
 
-Table 11: Summary of AED Interactions with TOPAMAX®
+Table 11: Summary of AED Interactions with TOPAMAX ®
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
-| Phenytoin | NC or 25% increase= Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. | 48% decrease |
+| Phenytoin | NC or 25% increase = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. | 48% decrease |
 | Carbamazepine (CBZ) | NC | 40% decrease |
-| CBZ epoxide= Is not administered but is an active metabolite of carbamazepine. | NC | NE |
+| CBZ epoxide = Is not administered but is an active metabolite of carbamazepine. | NC | NE |
 | Valproic acid | 11% decrease | 14% decrease |
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
@@ -115,20 +115,20 @@ Table 11: Summary of AED Interactions with TOPAMAX®
 
 Oral Contraceptives
 
-In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), TOPAMAX®, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
+In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), TOPAMAX ®, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
 In another study, exposure to EE was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when given as adjunctive therapy in patients taking valproic acid.
-In both studies, TOPAMAX® (50 mg/day to 800 mg/day) did not significantly affect exposure to NET and there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
+In both studies, TOPAMAX ® (50 mg/day to 800 mg/day) did not significantly affect exposure to NET and there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
 The clinical significance of the changes observed is not known [see Drug Interactions (7.4)].
 
 Digoxin
 
-In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant TOPAMAX® administration.
+In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant TOPAMAX ® administration.
 The clinical relevance of this observation has not been established.
 
 Hydrochlorothiazide
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of hydrochlorothiazide (HCTZ) (25 mg every 24 hours) and topiramate (96 mg every 12 hours) when administered alone and concomitantly.
-The results of this study indicate that topiramate Cmax increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
+The results of this study indicate that topiramate C max increased by 27% and AUC increased by 29% when HCTZ was added to topiramate.
 The clinical significance of this change is unknown.
 The steady-state pharmacokinetics of HCTZ were not significantly influenced by the concomitant administration of topiramate.
 Clinical laboratory results indicated decreases in serum potassium after topiramate or HCTZ administration, which were greater when HCTZ and topiramate were administered in combination.
@@ -136,30 +136,29 @@ Clinical laboratory results indicated decreases in serum potassium after topiram
 Metformin
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of metformin (500 mg every 12 hours) and topiramate in plasma when metformin was given alone and when metformin and topiramate (100 mg every 12 hours) were given simultaneously.
-The results of this study indicated that the mean metformin Cmax and AUC0–12h increased by 18% and 25%, respectively, when topiramate was added.
-Topiramate did not affect metformin tmax.
-The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
+The results of this study indicated that the mean metformin C max and AUC 0–12h increased by 18% and 25%, respectively, when topiramate was added.
+Topiramate did not affect metformin t max. The clinical significance of the effect of topiramate on metformin pharmacokinetics is not known.
 Oral plasma clearance of topiramate appears to be reduced when administered with metformin.
 The clinical significance of the effect of metformin on topiramate pharmacokinetics is unclear.
 
 Pioglitazone
 
 A drug interaction study conducted in healthy volunteers evaluated the steady-state pharmacokinetics of topiramate and pioglitazone when administered alone and concomitantly.
-A 15% decrease in the AUCτ,ss of pioglitazone with no alteration in Cmax,ss was observed.
+A 15% decrease in the AUC τ,ss of pioglitazone with no alteration in C max,ss was observed.
 This finding was not statistically significant.
-In addition, a 13% and 16% decrease in Cmax,ss and AUCτ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in Cmax,ss and AUCτ,ss of the active keto-metabolite.
+In addition, a 13% and 16% decrease in C max,ss and AUC τ,ss respectively, of the active hydroxy-metabolite was noted as well as a 60% decrease in C max,ss and AUC τ,ss of the active keto-metabolite.
 The clinical significance of these findings is not known.
 
 Glyburide
 
 A drug-drug interaction study conducted in patients with type 2 diabetes evaluated the steady-state pharmacokinetics of glyburide (5 mg/day) alone and concomitantly with topiramate (150 mg/day).
-There was a 22% decrease in Cmax and a 25% reduction in AUC24 for glyburide during topiramate administration.
-Systemic exposure (AUC) of the active metabolites, 4-trans-hydroxy-glyburide (M1) and 3-cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, and Cmax was reduced by 18% and 25%, respectively.
+There was a 22% decrease in C max and a 25% reduction in AUC 24 for glyburide during topiramate administration.
+Systemic exposure (AUC) of the active metabolites, 4- trans-hydroxy-glyburide (M1) and 3- cis-hydroxyglyburide (M2), was also reduced by 13% and 15%, and C max was reduced by 18% and 25%, respectively.
 The steady-state pharmacokinetics of topiramate were unaffected by concomitant administration of glyburide.
 
 Lithium
 
-In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for Cmax and 26% for AUC) following topiramate doses up to 600 mg/day [see Drug Interactions (7.7)].
+In patients, the pharmacokinetics of lithium were unaffected during treatment with topiramate at doses of 200 mg/day; however, there was an observed increase in systemic exposure of lithium (27% for C max and 26% for AUC) following topiramate doses up to 600 mg/day [see Drug Interactions (7.7)].
 
 Haloperidol
 
@@ -167,7 +166,7 @@ The pharmacokinetics of a single dose of haloperidol (5 mg) were not affected fo
 
 Amitriptyline
 
-There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg/day of TOPAMAX®.
+There was a 12% increase in AUC and C max for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg/day of TOPAMAX ®.
 
 Sumatriptan
 
@@ -177,7 +176,7 @@ Risperidone
 
 When administered concomitantly with topiramate at escalating doses of 100, 250, and 400 mg/day, there was a reduction in risperidone systemic exposure (16% and 33% for steady-state AUC at the 250 and 400 mg/day doses of topiramate).
 No alterations of 9-hydroxyrisperidone levels were observed.
-Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in Cmax and a 12% increase in AUC12 of topiramate.
+Co-administration of topiramate 400 mg/day with risperidone resulted in a 14% increase in C max and a 12% increase in AUC 12 of topiramate.
 There were no clinically significant changes in the systemic exposure of risperidone plus 9-hydroxyrisperidone or of topiramate; therefore, this interaction is not likely to be of clinical significance.
 
 Propranolol
@@ -192,10 +191,10 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
-Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
+Co-administration of diltiazem (240 mg Cardizem CD ®) with topiramate (150 mg/day) resulted in a 10% decrease in C max and a 25% decrease in diltiazem AUC, a 27% decrease in C max and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of topiramate with diltiazem resulted in a 16% increase in C max and a 19% increase in AUC 12 of topiramate.
 
 Venlafaxine
 
-Multiple dosing of TOPAMAX® (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O-desmethyl venlafaxine.
+Multiple dosing of TOPAMAX ® (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O-desmethyl venlafaxine.
 Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of topiramate.

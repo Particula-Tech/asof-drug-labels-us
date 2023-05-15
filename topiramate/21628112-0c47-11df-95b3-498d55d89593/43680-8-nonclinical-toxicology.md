@@ -6,9 +6,9 @@ Carcinogenesis
 
 An increase in urinary bladder tumors was observed in mice given topiramate (0, 20, 75, and 300 mg/kg/day) in the diet for 21 months.
 The increase in the incidence of bladder tumors in males and females receiving 300 mg/kg/day was primarily due to the increased occurrence of a smooth muscle tumor considered histomorphologically unique to mice.
-The higher of the doses not associated with an increase in tumors (75 mg/kg/day) is equivalent to the maximum recommended human dose (MRHD) for epilepsy (400 mg), and approximately 4 times the MRHD for migraine (100 mg) on a mg/m2 basis.
+The higher of the doses not associated with an increase in tumors (75 mg/kg/day) is equivalent to the maximum recommended human dose (MRHD) for epilepsy (400 mg), and approximately 4 times the MRHD for migraine (100 mg) on a mg/m 2 basis.
 The relevance of this finding to human carcinogenic risk is uncertain.
-No evidence of carcinogenicity was seen in rats following oral administration of topiramate for 2 years at doses up to 120 mg/kg/day (approximately 3 times the MRHD for epilepsy and 12 times the MRHD for migraine on a mg/m2 basis).
+No evidence of carcinogenicity was seen in rats following oral administration of topiramate for 2 years at doses up to 120 mg/kg/day (approximately 3 times the MRHD for epilepsy and 12 times the MRHD for migraine on a mg/m 2 basis).
 
 Mutagenesis
 
@@ -17,4 +17,4 @@ Topiramate was not mutagenic in the Ames test or the in vitro mouse lymphoma ass
 
 Impairment of Fertility
 
-No adverse effects on male or female fertility were observed in rats administered topiramate orally at doses up to 100 mg/kg/day (2.5 times the MRHD for epilepsy and 10 times the MRHD for migraine on a mg/m2 basis) prior to and during mating and early pregnancy.
+No adverse effects on male or female fertility were observed in rats administered topiramate orally at doses up to 100 mg/kg/day (2.5 times the MRHD for epilepsy and 10 times the MRHD for migraine on a mg/m 2 basis) prior to and during mating and early pregnancy.
