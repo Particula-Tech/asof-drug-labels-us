@@ -75,6 +75,6 @@ Dermatopathy
 Instruct diabetic patients to pay particular attention to skin integrity while being treated with pregabalin and to inform their healthcare provider about any sores or skin problems.
 Some animals treated with pregabalin developed skin ulcerations, although no increased incidence of skin lesions associated with pregabalin was observed in clinical trials [see Nonclinical Toxicology (13.2)].
 
-Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal 389350, Gujarat, India.
+Alembic Pharmaceuticals Limited Manufactured in India
 
 Revised: 01/2023

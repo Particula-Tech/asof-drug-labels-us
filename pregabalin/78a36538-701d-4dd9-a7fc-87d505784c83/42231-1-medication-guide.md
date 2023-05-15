@@ -232,6 +232,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal 389350, Gujarat, India.
+Alembic Pharmaceuticals Limited Manufactured in India
 
 Revised: 01/2023
