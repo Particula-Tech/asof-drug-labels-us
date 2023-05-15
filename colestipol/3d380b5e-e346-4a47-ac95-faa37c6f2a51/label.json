@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA216517"
+  ],
+  "inn": "colestipol",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "62559-395-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "colestipol hydrochloride",
+      "name": "COLESTIPOL HYDROCHLORIDE"
+    }
+  ],
+  "setid": "3d380b5e-e346-4a47-ac95-faa37c6f2a51",
+  "source": "dailymed"
+}
