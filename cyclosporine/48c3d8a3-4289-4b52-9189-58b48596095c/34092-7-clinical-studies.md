@@ -7,7 +7,7 @@ This effect was seen in approximately 17% of CEQUA-treated patients versus appro
 | Tear Production |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | OTX-101-2014-001 |  | OTX-101-2016-001 |  |
-| CEQUAN = 152 | VehicleN = 152 | CEQUAN = 371 | VehicleN = 373 |  |
+|  | CEQUAN=152 | VehicleN=152 | CEQUAN=371 | VehicleN=373 |
 | ≥ 10-mm increase in tear production(% of eyes) at Day 84 | 16.8% | 8.6% | 16.6% | 9.2% |
 | Difference (95% CI) | 8.2% (1.9%, 14.6%) |  | 7.3% (3.3%, 11.3%) |  |
 | p-value versus vehicle | <0.01 |  | <0.01 |  |

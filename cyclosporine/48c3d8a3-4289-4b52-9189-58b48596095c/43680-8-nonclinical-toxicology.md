@@ -5,7 +5,7 @@
 Carcinogenesis
 
 Systemic carcinogenicity studies were carried out in male and female mice and rats.
-In the 78 week oral (diet) mouse study, at doses of 1, 4, and 16 mg/kg/day, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
+In the 78-week oral (diet) mouse study, at doses of 1, 4, and 16 mg/kg/day, evidence of a statistically significant trend was found for lymphocytic lymphomas in females, and the incidence of hepatocellular carcinomas in mid-dose males significantly exceeded the control value.
 
 In the 24-month oral (diet) rat study, conducted at 0.5, 2, and 8 mg/kg/day, pancreatic islet cell adenomas significantly exceeded the control rate in the low dose level.
 The hepatocellular carcinomas and pancreatic islet cell adenomas were not dose related.

@@ -34,13 +34,13 @@ discarded immediately after administration.
 
 Rx Only
 
-Manufactured for: Sun Pharma Global FZE
+Manufactured for: Sun Pharmaceutical Industries Limited
 
 By: Laboratoire Unither
 
-ZI de la Guérie
+1 rue de l’Arquerie
 
-F-50211 Coutances Cedex
+50200 Coutances
 
 France
 
@@ -55,10 +55,10 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-Copyright 2021, Sun Pharma Global FZE
+Copyright 2022, Sun Pharmaceutical Industries Limited
 
 All rights reserved
 
-03/2021
+07/2022
 
-uspi-CEQUA-sol-00003
+uspi-CEQUA-sol-00004
