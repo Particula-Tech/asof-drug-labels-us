@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-Enzymes convert capecitabine to 5-fluorouracil (5-FU) in vivo.
-Both normal and tumor cells metabolize 5-FU to 5-fluoro-2’-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP).
+Capecitabine is metabolized to fluorouracil in vivo.
+Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2’-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP).
 These metabolites cause cell injury by two different mechanisms.
 First, FdUMP and the folate cofactor, N5-10-methylenetetrahydrofolate, bind to thymidylate synthase (TS) to form a covalently bound ternary complex.
 This binding inhibits the formation of thymidylate from 2’-deoxyuridylate.
@@ -11,56 +11,111 @@ Thymidylate is the necessary precursor of thymidine triphosphate, which is essen
 Second, nuclear transcriptional enzymes can mistakenly incorporate FUTP in place of uridine triphosphate (UTP) during the synthesis of RNA.
 This metabolic error can interfere with RNA processing and protein synthesis.
 
+## 12.2 Pharmacodynamics
+
+Population-based exposure-effect analyses demonstrated a positive association between AUC of fluorouracil and grade 3-4 hyperbilirubinemia.
+
 ## 12.3 Pharmacokinetics
 
-Absorption Following oral administration of 1255 mg/m2 BID to cancer patients, capecitabine reached peak blood levels in about 1.5 hours (Tmax) with peak 5-FU levels occurring slightly later, at 2 hours.
-Food reduced both the rate and extent of absorption of capecitabine with mean Cmax and AUC0-∞ decreased by 60% and 35%, respectively.
-The Cmax and AUC0-∞ of 5-FU were also reduced by food by 43% and 21%, respectively.
-Food delayed Tmax of both parent and 5-FU by 1.5 hours [see Warnings and Precautions (5), Dosage and Administration (2), and Drug-Food Interaction (7.2)].
-The pharmacokinetics of capecitabine and its metabolites have been evaluated in about 200 cancer patients over a dosage range of 500 to 3500 mg/m2/day.
-Over this range, the pharmacokinetics of capecitabine and its metabolite, 5’-DFCR were dose proportional and did not change over time.
-The increases in the AUCs of 5’-DFUR and 5-FU, however, were greater than proportional to the increase in dose and the AUC of 5-FU was 34% higher on day 14 than on day 1.
-The interpatient variability in the Cmax and AUC of 5-FU was greater than 85%.
-Distribution Plasma protein binding of capecitabine and its metabolites is less than 60% and is not concentration-dependent.
-Capecitabine was primarily bound to human albumin (approximately 35%).
-Capecitabine has a low potential for pharmacokinetic interactions related to plasma protein binding.
-Bioactivation and Metabolism Capecitabine is extensively metabolized enzymatically to 5-FU.
-In the liver, a 60 kDa carboxylesterase hydrolyzes much of the compound to 5’-deoxy-5-fluorocytidine (5’-DFCR).
-Cytidine deaminase, an enzyme found in most tissues, including tumors, subsequently converts 5'-DFCR to 5’-DFUR.
-The enzyme, thymidine phosphorylase (dThdPase), then hydrolyzes 5'-DFUR to the active drug 5-FU.
-Many tissues throughout the body express thymidine phosphorylase.
-Some human carcinomas express this enzyme in higher concentrations than surrounding normal tissues.
-Following oral administration of capecitabine 7 days before surgery in patients with colorectal cancer, the median ratio of 5-FU concentration in colorectal tumors to adjacent tissues was 2.9 (range from 0.9 to 8.0).
-These ratios have not been evaluated in breast cancer patients or compared to 5-FU infusion.
+The AUC of capecitabine and its metabolite 5’-DFCR increases proportionally over a dosage range of 500 mg/m2/day to 3,500 mg/m2/day (0.2 to 1.4 times the approved recommended dosage).
+The AUC of capecitabine’s metabolites 5’-DFUR and fluorouracil increased greater than proportional to the dose.
+The interpatient variability in the Cmax and AUC of fluorouracil was greater than 85%.
 
-The enzyme dihydropyrimidine dehydrogenase hydrogenates 5-FU, the product of capecitabine metabolism, to the much less toxic 5-fluoro-5, 6-dihydro-fluorouracil (FUH2).
-Dihydropyrimidinase cleaves the pyrimidine ring to yield 5-fluoro-ureido-propionic acid (FUPA).
-Finally, β-ureido-propionase cleaves FUPA to α-fluoro-β-alanine (FBAL) which is cleared in the urine.
-In vitro enzymatic studies with human liver microsomes indicated that capecitabine and its metabolites (5’-DFUR, 5’-DFCR, 5-FU, and FBAL) did not inhibit the metabolism of test substrates by cytochrome P450 isoenzymes 1A2, 2A6, 3A4, 2C19, 2D6, and 2E1.
-Excretion Capecitabine and its metabolites are predominantly excreted in urine; 95.5% of administered capecitabine dose is recovered in urine.
-Fecal excretion is minimal (2.6%).
-The major metabolite excreted in urine is FBAL which represents 57% of the administered dose.
-About 3% of the administered dose is excreted in urine as unchanged drug.
-The elimination half-life of both parent capecitabine and 5-FU was about 0.75 hour.
-Effect of Age, Gender, and Race on the Pharmacokinetics of Capecitabine A population analysis of pooled data from the two large controlled studies in patients with metastatic colorectal cancer (n=505) who were administered capecitabine at 1250 mg/m2 twice a day indicated that gender (202 females and 303 males) and race (455 white/Caucasian patients, 22 black patients, and 28 patients of other race) have no influence on the pharmacokinetics of 5'-DFUR, 5-FU and FBAL.
-Age has no significant influence on the pharmacokinetics of 5’-DFUR and 5-FU over the range of 27 to 86 years.
-A 20% increase in age results in a 15% increase in AUC of FBAL [see Warnings and Precautions (5.11) and Dosage and Administration (2.4)].
-Following oral administration of 825 mg/m2 capecitabine twice daily for 14 days, Japanese patients (n=18) had about 36% lower Cmax and 24% lower AUC for capecitabine than the Caucasian patients (n=22).
-Japanese patients had also about 25% lower Cmax and 34% lower AUC for FBAL than the Caucasian patients.
-The clinical significance of these differences is unknown.
-No significant differences occurred in the exposure to other metabolites (5’-DFCR, 5’-DFUR, and 5-FU).
-Effect of Hepatic Insufficiency Capecitabine has been evaluated in 13 patients with mild to moderate hepatic dysfunction due to liver metastases defined by a composite score including bilirubin, AST/ALT and alkaline phosphatase following a single 1255 mg/m2 dose of capecitabine.
-Both AUC0-∞ and Cmax of capecitabine increased by 60% in patients with hepatic dysfunction compared to patients with normal hepatic function (n=14).
-The AUC0-∞ and Cmax of 5-FU were not affected.
-In patients with mild to moderate hepatic dysfunction due to liver metastases, caution should be exercised when capecitabine is administered.
-The effect of severe hepatic dysfunction on capecitabine is not known [see Warnings and Precautions (5.11) and Use in Special Populations (8.6)].
-Effect of Renal Insufficiency Following oral administration of 1250 mg/m2 capecitabine twice a day to cancer patients with varying degrees of renal impairment, patients with moderate (creatinine clearance = 30 to 50 mL/min) and severe (creatinine clearance <30 mL/min) renal impairment showed 85% and 258% higher systemic exposure to FBAL on day 1 compared to normal renal function patients (creatinine clearance >80 mL/min).
-Systemic exposure to 5’-DFUR was 42% and 71% greater in moderately and severely renal impaired patients, respectively, than in normal patients.
-Systemic exposure to capecitabine was about 25% greater in both moderately and severely renal impaired patients [see Dosage and Administration (2.4), Contraindications (4.2), Warnings and Precautions (5.5), and Use in Special Populations (8.7)].
-Effect of Capecitabine on the Pharmacokinetics of Warfarin In four patients with cancer, chronic administration of capecitabine (1250 mg/m2 bid) with a single 20 mg dose of warfarin increased the mean AUC of S-warfarin by 57% and decreased its clearance by 37%.
-Baseline corrected AUC of INR in these 4 patients increased by 2.8-fold, and the maximum observed mean INR value was increased by 91% [see Boxed Warning and Drug Interactions (7.1)].
-Effect of Antacids on the Pharmacokinetics of Capecitabine When Maalox® (20 mL), an aluminum hydroxide- and magnesium hydroxide-containing antacid, was administered immediately after capecitabine (1250 mg/m2, n=12 cancer patients), AUC and Cmax increased by 16% and 35%, respectively, for capecitabine and by 18% and 22%, respectively, for 5’-DFCR.
-No effect was observed on the other three major metabolites (5’-DFUR, 5-FU, FBAL) of capecitabine.
-Effect of Allopurinol on Capecitabine Published literature reported that concomitant use with allopurinol may decrease conversion of capecitabine to the active metabolites, FdUMP and FUTP; however, the clinical significance was not fully characterized.
-Effect of Capecitabine on the Pharmacokinetics of Docetaxel and Vice Versa A Phase 1 study evaluated the effect of capecitabine on the pharmacokinetics of docetaxel (Taxotere®) and the effect of docetaxel on the pharmacokinetics of capecitabine was conducted in 26 patients with solid tumors.
-Capecitabine was found to have no effect on the pharmacokinetics of docetaxel (Cmax and AUC) and docetaxel has no effect on the pharmacokinetics of capecitabine and the 5-FU precursor 5’-DFUR.
+Absorption
+
+Following oral administration of capecitabine 1,255 mg/m2 orally twice daily (the recommended dosage when used as single agent), the median Tmax of capecitabine and its metabolite fluorouracil was approximately 1.5 hours and 2 hours, respectively.
+
+Effect of Food
+
+Following administration of a meal (breakfast medium-rich in fat and carbohydrates), the mean Cmax and AUC0-INF of capecitabine was decreased by 60% and 34%, respectively.
+The mean Cmax and AUC0-INF of fluorouracil were also decreased by 37 % and 12%, respectively.
+The Tmax of both capecitabine and fluorouracil was delayed by 1.5 hours.
+
+Distribution
+
+Plasma protein binding of capecitabine and its metabolites is less than 60% and is not concentration-dependent.
+Capecitabine was primarily bound to human albumin (approximately 35%).
+
+Following oral administration of capecitabine 7 days before surgery in patients with colorectal cancer, the median ratio of concentration for the active metabolite fluorouracil in colorectal tumors to adjacent tissues was 2.9 (range: 0.9 to 8.0).
+
+Elimination
+
+The elimination half-lives of capecitabine and fluorouracil were approximately 0.75 hour.
+
+Metabolism
+
+Capecitabine undergoes metabolism by carboxylesterase and is hydrolyzed to 5’-DFCR.
+5’- DFCR is subsequently converted to 5’-DFUR by cytidine deaminase.
+5’-DFUR is then hydrolized by thymidine phosphorylase (dThdPase) enzymes to the active metabolite fluorouracil.
+
+Fluorouracil is subsequently metabolized by dihydropyrimidine dehydrogenase to 5-fluoro-5, 6- dihydro-fluorouracil (FUH2).
+The pyrimidine ring of FUH2 is cleaved by dihydropyrimidinase to yield 5-fluoro-ureido-propionic acid (FUPA).
+Finally, FUPA is cleaved by β-ureido-propionase to α-fluoro-β-alanine (FBAL).
+
+Excretion
+
+Following administration of radiolabeled capecitabine, 96% of the administered capecitabine dose was recovered in urine (3% unchanged and 57% as metabolite FBAL) and 2.6% in feces.
+
+Specific Populations
+
+Following therapeutic doses of capecitabine, no clinically meaningful difference in the pharmacokinetics of 5’-DFUR, fluorouracil or FBAL were observed based on sex (202 females and 303 males) and race (455 White, 22 Black, and 28 Other).
+No clinically meaningful difference on the pharmacokinetics of 5’-DFUR and fluorouracil were observed based on age (range: 27 to 86 years); however, the AUC of FBAL increased by 15% following a 20% increase in age.
+
+Racial or Ethnic Groups
+
+Following administration of capecitabine 825 mg/m2 orally twice daily for 14 days (0.66 times the recommended dosage), the Cmax and AUC of capecitabine decreased by 36% and 24%, respectively in Japanese patients (n=18) compared to White patients (n=22).
+The Cmax and AUC of FBAL decreased by approximately 25% and 34%, respectively in Japanese patients compared to White patients; however, the clinical significance of these differences is unknown.
+No clinically significant differences in the pharmacokinetics of 5’-DFCR, 5’-DFUR or fluorouracil were observed.
+
+Patients with Renal Impairment
+
+Table 8 Effect of Renal Impairment on the Pharmacokinetics of Capecitabine, 5’-DFUR, and FBAL
+
+| Renal Impairment a | Changes in AUC b |  |  |  |
+| --- | --- | --- | --- | --- |
+| Capecitabine | 5’-DFURc | FBALc | 5-FU |  |
+| CLcr 30 to 50 mL/min | Increased by 25% | Increased by 42% | Increased by 85% | No relevant change |
+| CLcr <30 mL/min | Increased by 25% | Increased by 71% | Increased by 258% | Increased by 24% |
+| aCompared to patients with CLcr >80 mL/min b Following administration of capecitabine 1,250 mg/m2 orally twice daily; day 1 observations c Capecitabine metabolite CLcr= Creatine Clearance, AUC= Area under the plasma concentration-time curve |  |  |  |  |
+
+Patients with Hepatic Impairment
+
+AUC0-INF and Cmax of capecitabine’s active principle, fluorouracil, were not affected in patients with mild or moderate hepatic impairment compared to patients with normal hepatic function.
+The AUC0-INF and Cmax of capecitabine increased by 60%.
+The effect of severe hepatic impairment on the pharmacokinetics of capecitabine and its metabolites are unknown.
+
+Drug Interaction Studies
+
+Clinical Studies
+
+Effect of Capecitabine on Warfarin: In four patients with cancer, chronic administration of capecitabine 1,250 mg/m2 twice daily with a single dose of warfarin 20 mg increased the mean AUC of S-warfarin by 57% and decreased its clearance by 37%.
+Baseline corrected AUC of INR in these 4 patients increased by 2.8-fold, and the maximum observed mean INR value was increased by 91%.
+
+Effect of Capecitabine on Celecoxib: Concomitant administration of multiple doses of capecitabine (capecitabine 1,000 mg/m2 twice daily for 14 days) increased celecoxib (sensitive CYP2C9 substrate) AUC by 28%, Cmax by 24% and Ctrough by 30%.
+
+Effect of Antacids on Capecitabine: When an aluminum hydroxide- and magnesium hydroxide- containing antacid was administered immediately after a capecitabine dose of 1,250 mg/m2 in patients with cancer, AUC and Cmax increased by 16% and 35%, respectively, for capecitabine and by 18% and 22%, respectively, for 5’-DFCR.
+No effect was observed on the other three major metabolites (5’-DFUR, fluorouracil, FBAL) of capecitabine.
+
+Effect of Allopurinol on Capecitabine: Concomitant use with allopurinol may decrease conversion of capecitabine to the active metabolites, FdUMP and FUTP.
+
+Effect of Capecitabine on Docetaxel and Effect of Docetaxel on Capecitabine: Capecitabine had no effect on the pharmacokinetics of docetaxel (Cmax and AUC) and docetaxel has no effect on the pharmacokinetics of capecitabine and the fluorouracil precursor 5’-DFUR.
+
+In Vitro Studies
+
+Cytochrome P450 (CYP) Enzymes: Capecitabine and its metabolites (5’-DFUR, 5’-DFCR, fluorouracil, and FBAL) did not inhibit CYP1A2, CYP2A6, CYP3A4, CYP2C19, CYP2D6, or CYP2E1 in vitro.
+
+## 12.5 Pharmacogenomics
+
+The DPYD gene encodes the enzyme DPD, which is responsible for the catabolism of >80% of fluorouracil.
+Approximately 3-5% of White populations have partial DPD deficiency and 0.2% of White populations have complete DPD deficiency, which may be due to certain genetic no function or decreased function variants in DPYD resulting in partial to complete or near complete absence of enzyme activity.
+DPD deficiency is estimated to be more prevalent in Black or African American populations compared to White populations.
+Insufficient information is available to estimate the prevalence of DPD deficiency in other populations.
+
+Patients who are homozygous or compound heterozygous for no function DPYD variants (i.e., carry two no function DPYD variants) or are compound heterozygous for a no function DPYD variant plus a decreased function DPYD variant have complete DPD deficiency and are at increased risk for acute early-onset of toxicity and serious life-threatening, or fatal adverse reactions due to increased systemic exposure to capecitabine.
+Partial DPD deficiency can result from the presence of either two decreased function DPYD variants or one normal function plus either a decreased function or a no function DPYD variant.
+Patients with partial DPD deficiency may also be at an increased risk for toxicity from capecitabine.
+
+Four DPYD variants have been associated with impaired DPD activity in White populations, especially when present as homozygous or compound heterozygous variants: c.1905+1G>A (DPYD *2A), c.1679T>G (DPYD *13), c.2846A>T, and c.1129-5923C>G (Haplotype B3).
+DPYD*2A and DPYD*13 are no function variants, and c.2846A>T and c.1129-5923C>G are decreased function variants.
+The decreased function DPYD variant c.557A>G is observed in individuals of African ancestry.
+This is not a complete listing of all DPYD variants that may result in DPD deficiency [see Warnings and Precautions (5.2)].

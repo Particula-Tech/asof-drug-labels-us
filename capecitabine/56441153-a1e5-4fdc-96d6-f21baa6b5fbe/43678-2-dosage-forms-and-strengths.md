@@ -1,4 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Capecitabine tablets USP are supplied as biconvex, oblong shaped film-coated tablets for oral administration.
-Each light peach colored tablet contains 150 mg of capecitabine and each peach colored tablet contains 500 mg of capecitabine.
+Tablets, film-coated:
+
+- 150 mg: Light-peach colored biconvex, oblong shaped film coated tablets, debossed with 150 on the one side and plain on the other side.
+- 500 mg: Peach colored biconvex, oblong shaped film coated tablets, debossed with 500 on the one side and plain on the other side.

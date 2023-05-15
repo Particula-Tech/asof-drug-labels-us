@@ -1,25 +1,39 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drug-Drug Interactions
+## 7.1 Effect of Other Drugs on Capecitabine
 
-Anticoagulants Altered coagulation parameters and/or bleeding have been reported in patients taking capecitabine concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon [see Boxed Warning].
-These events occurred within several days and up to several months after initiating capecitabine therapy and, in a few cases, within 1 month after stopping capecitabine.
-These events occurred in patients with and without liver metastases.
-In a drug interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC of S-warfarin [see Clinical Pharmacology (12.3)].
-The maximum observed INR value increased by 91%.
-This interaction is probably due to an inhibition of cytochrome P450 2C9 by capecitabine and/or its metabolites.
-Phenytoin The level of phenytoin should be carefully monitored in patients taking capecitabine and phenytoin dose may need to be reduced [see Dosage and Administration (2.3)].
-Postmarketing reports indicate that some patients receiving capecitabine and phenytoin had toxicity associated with elevated phenytoin levels.
-Formal drug-drug interaction studies with phenytoin have not been conducted, but the mechanism of interaction is presumed to be inhibition of the CYP2C9 isoenzyme by capecitabine and/or its metabolites.
-Leucovorin The concentration of 5-fluorouracil is increased and its toxicity may be enhanced by leucovorin.
+Allopurinol
+
+Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites [see Clinical Pharmacology (12.3)], which may decrease efficacy.
+Avoid concomitant use of allopurinol with capecitabine.
+
+Leucovorin
+
+The concentration of fluorouracil is increased and its toxicity may be enhanced by leucovorin, folic acid, or folate analog products.
 Deaths from severe enterocolitis, diarrhea, and dehydration have been reported in elderly patients receiving weekly leucovorin and fluorouracil.
-CYP2C9 substrates Other than warfarin, no formal drug-drug interaction studies between capecitabine and other CYP2C9 substrates have been conducted.
-Care should be exercised when capecitabine is coadministered with CYP2C9 substrates.
-Allopurinol Concomitant use with allopurinol may decrease concentration of capecitabine’s active metabolites [see Clinical Pharmacology (12.3)], which may decrease capecitabine efficacy.
-Avoid the use of allopurinol during treatment with capecitabine.
 
-## 7.2 Drug-Food Interaction
+Instruct patients not to take products containing folic acid or folate analog products unless directed to do so by their healthcare provider.
 
-Food was shown to reduce both the rate and extent of absorption of capecitabine [see Clinical Pharmacology (12.3)].
-In all clinical trials, patients were instructed to administer capecitabine within 30 minutes after a meal.
-It is recommended that capecitabine be administered with food [see Dosage and Administration (2)].
+## 7.2 Effect of Capecitabine on Other Drugs
+
+CYP2C9 Substrates
+
+Capecitabine increased exposure of CYP2C9 substrates [see Clinical Pharmacology (12.3)], which may increase the risk of adverse reactions related to these substrates.
+Closely monitor for adverse reactions of CYP2C9 substrates where minimal concentration changes may lead to serious adverse reactions when used concomitantly with capecitabine (e.g., anticoagulants, antidiabetic drugs).
+
+Vitamin K Antagonists
+
+Capecitabine increases exposure of vitamin K antagonist [see Clinical Pharmacology (12.3)], which may alter coagulation parameters and/or bleeding and could result in death [see Warning and Precautions (5.1)].
+These events may occur within days of treatment initiation and up to 1 month after discontinuation of capecitabine.
+
+Monitor INR more frequently and refer to the prescribing information of oral vitamin K antagonist for dosage adjustment, as appropriate, when capecitabine is used concomitantly with vitamin K antagonist.
+
+Phenytoin
+
+Capecitabine may increases exposure of phenytoin, which may increase the risk of adverse reactions related to phenytoin.
+Closely monitor phenytoin levels and refer to the prescribing information of phenytoin for dosage adjustment, as appropriate, when capecitabine is used concomitantly with phenytoin.
+
+## 7.3 Nephrotoxic Drugs
+
+Due of the additive pharmacologic effect, concomitant use of capecitabine with other drugs known to cause renal toxicity may increase the risk of renal toxicity [see Warnings and Precautions (5.6)].
+Closely monitor for signs of renal toxicity when capecitabine is used concomitantly with nephrotoxic drugs (e.g. platinum salts, irinotecan, methotrexate, intravenous bisphosphonates).
