@@ -104,7 +104,7 @@ Pediatric patients at higher risk of experiencing adverse events during contrast
 
 Thyroid function tests indicative of thyroid dysfunction, characterized by hypothyroidism or transient thyroid suppression have been reported following iodinated contrast media administration in pediatric patients, including term and preterm neonates.
 Some patients were treated for hypothyroidism.
-Monitor pediatric patients 0 to 3 years of age closely, particularly those with one or more potential risk factors, for thyroid dysfunction [see Warnings and Precautions (5.9) and Adverse Reactions (6.2)].
+After exposure to iodinated contrast media, individualize thyroid function monitoring in pediatric patients 0 to 3 years of age based on underlying risk factors, especially in term and preterm neonates [see Warnings and Precautions (5.9) and Adverse Reactions (6.2)].
 
 ## 8.5 Geriatric Use
 

@@ -66,15 +66,13 @@ Evaluate the risk in such patients before use of OMNIPAQUE.
 
 ## 5.9 Thyroid Dysfunction in Pediatric Patients 0 to 3 Years of Age
 
-Thyroid dysfunction characterized by hypothyroidism or transient thyroid suppression has been reported after both single exposure and multiple exposures to iodinated contrast media.
-Among patients 0 to 3 years of age exposed to iodinated contrast media, thyroid dysfunction has been reported in 1% to 15% depending on the age of the patient and the dose of the iodinated contrast agent.
+Thyroid dysfunction characterized by hypothyroidism or transient thyroid suppression has been reported after both single exposure and multiple exposures to iodinated contrast media (ICM) in pediatric patients 0 to 3 years of age.
 
-Younger age, very low birth weight, prematurity, and the presence of other conditions, such as, admission to neonatal or pediatric intensive care units, and cardiac conditions are associated with an increased risk.
-Pediatric patients with cardiac conditions may be at the greatest risk given that they often require high doses of contrast during invasive cardiac procedures, such as catheterization and computed tomography (CT).
+Younger age, very low birth weight, prematurity, underlying medical conditions affecting thyroid function, admission to neonatal or pediatric intensive care units, and congenital cardiac conditions are associated with an increased risk of hypothyroidism after ICM exposure.
+Pediatric patients with congenital cardiac conditions may be at the greatest risk given that they often require high doses of contrast during invasive cardiac procedures.
 
-Pediatric patients 0 to 3 years of age warrant closer monitoring because an underactive thyroid during early life may be harmful for motor, hearing, and cognitive development and may require transient T4 replacement therapy.
-Evaluate thyroid function in all pediatric patients 0 to 3 years of age within 3 weeks following exposure to iodinated contrast media, especially in term and preterm neonates.
-If thyroid dysfunction is detected, treat and monitor thyroid function as clinically needed.
+An underactive thyroid during early life may be harmful for cognitive and neurological development and may require thyroid hormone replacement therapy.
+After exposure to ICM, individualize thyroid function monitoring based on underlying risk factors, especially in term and preterm neonates.
 
 ## 5.10 Hypertensive Crisis in Patients with Pheochromocytoma
 

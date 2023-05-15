@@ -8,30 +8,23 @@
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1401-52 |
 | OMNIPAQUE 180 (180 mg iodine/mL) – Boxes of 10 |  |  |
 | 10 mL | Glass Vial | 0407-1411-10 |
-| 20 mL | Glass Vial | 0407-1411-20 |
 | OMNIPAQUE 240 (240 mg iodine/mL) – Boxes of 10 |  |  |
 | 10 mL | Glass Vial | 0407-1412-10 |
 | 20 mL | Glass Vial | 0407-1412-20 |
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-30 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-33 |
-| 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-34 |
-| 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1412-35 |
 | OMNIPAQUE 300 (300 mg iodine/mL) – Boxes of 10 |  |  |
 | 10 mL | Glass Vial | 0407-1413-10 |
 | 30 mL fill in 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-59 |
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-61 |
-| 75 mL fill in 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-62 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-63 |
 | 125 mL fill in 150 mL | Glass Bottle | 0407-1413-53 |
-| 125 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-69 |
 | 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-65 |
-| 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1413-66 |
 | OMNIPAQUE 350 (350 mg iodine/mL) – Boxes of 10 |  |  |
 | 50 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-89 |
 | 75 mL fill in 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-90 |
 | 100 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-91 |
 | 125 mL fill in 150 mL | Glass Bottle | 0407-1414-76 |
-| 125 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-95 |
 | 150 mL fill in 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-93 |
 | 200 mL | +PLUSPAK™ (polymer bottle) | 0407-1414-94 |
 | OMNIPAQUE Oral Solution 9 (9 mg iodine/mL) – Boxes of 10 |  |  |
