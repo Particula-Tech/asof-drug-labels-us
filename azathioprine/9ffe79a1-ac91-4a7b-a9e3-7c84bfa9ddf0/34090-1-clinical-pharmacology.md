@@ -22,7 +22,7 @@ TPMT activity correlates inversely with 6-TGN levels in erythrocytes and presuma
 
 Genetic polymorphisms influence TPMT and NUDT15 activity.
 Several published studies indicate that patients with reduced TPMT or NUDT15 activity receiving usual doses of 6-MP or azathioprine, accumulate excessive cellular concentrations of active 6-TGNs, and are at higher risk for severe myelosuppression.
-Because of the risk of toxicity, patients with TPMT or NUDT15 deficiency require alternative therapy or dose modification (see DOSAGE and ADMINISTRATION).
+Because of the risk of toxicity, patients with TPMT or NUDT15 deficiency require alternative therapy or dose modification (see DOSAGE AND ADMINISTRATION).
 
 Approximately 0.3% (1:300) of patients of European or African ancestry have two loss-of-function alleles of the TPMT gene and have little or no TPMT activity (homozygous deficient or poor metabolizers), and approximately 10% of patients have one loss-of-function TPMT allele leading to intermediate TPMT activity (heterozygous deficient or intermediate metabolizers).
 The TPMT*2, TPMT*3A, and TPMT*3C alleles account for about 95% of individuals with reduced levels of TPMT activity.

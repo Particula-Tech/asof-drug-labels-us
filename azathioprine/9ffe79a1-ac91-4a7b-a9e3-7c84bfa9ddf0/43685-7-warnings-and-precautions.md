@@ -59,8 +59,7 @@ In transplant patients, consider the risk that the reduced immunosuppression rep
 
 ## Effect on Sperm in Animals:
 
-Azathioprine has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;1 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.
-2
+Azathioprine has been reported to cause temporary depression in spermatogenesis and reduction in sperm viability and sperm count in mice at doses 10 times the human therapeutic dose;1 a reduced percentage of fertile matings occurred when animals received 5 mg/kg.2
 
 ## Pregnancy: Pregnancy Category D
 
@@ -73,14 +72,11 @@ Azathioprine is teratogenic in rabbits and mice when given in doses equivalent t
 Abnormalities included skeletal malformations and visceral anomalies.2
 
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on azathioprine.
-In a detailed case report, 4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
+In a detailed case report,4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
 At ten weeks most features were normalized.
-DeWitte et al reported pancytopenia and severe immune deficiency in a preterm infant whose mother received 125 mg azathioprine and 12.5 mg prednisone daily.
-5 There have been two published reports of abnormal physical findings.
-Williamson and Karp described an infant born with preaxial polydactyly whose mother received azathioprine 200 mg daily and prednisone 20 mg every other day during pregnancy.
-6 Tallent et al described an infant with a large myelomeningocele in the upper lumbar region, bilateral dislocated hips, and bilateral talipes equinovarus.
-The father was on long-term azathioprine therapy.
-7
+DeWitte et al reported pancytopenia and severe immune deficiency in a preterm infant whose mother received 125 mg azathioprine and 12.5 mg prednisone daily.5 There have been two published reports of abnormal physical findings.
+Williamson and Karp described an infant born with preaxial polydactyly whose mother received azathioprine 200 mg daily and prednisone 20 mg every other day during pregnancy.6 Tallent et al described an infant with a large myelomeningocele in the upper lumbar region, bilateral dislocated hips, and bilateral talipes equinovarus.
+The father was on long-term azathioprine therapy.7
 
 Benefit versus risk must be weighed carefully before use of azathioprine in patients of reproductive potential.
 There are no adequate and well-controlled studies in pregnant women.
@@ -108,19 +104,7 @@ The increased risk of malignancy following therapy with azathioprine should be e
 
 Complete Blood Count (CBC) Monitoring: Patients on azathioprine should have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
 
-TPMT Testing: It is recommended that consideration be given to either genotype or phenotype patients for TPMT.
-Phenotyping and genotyping methods are commercially available.
-The most common non-functional alleles associated with reduced levels of TPMT activity are TPMT*2, TPMT*3A and TPMT*3C.
-Patients with two non-functional alleles (homozygous) have low or absent TPMT activity and those with one non-functional allele (heterozygous) have intermediate activity.
-Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions.
-TPMT testing may also be considered in patients with abnormal CBC results that do not respond to dose reduction.
-Early drug discontinuation in these patients is advisable.
-TPMT TESTING CANNOT SUBSTITUTE FOR COMPLETE BLOOD COUNT (CBC) MONITORING IN PATIENTS RECEIVING AZATHIOPRINE.
-(See CLINICAL PHARMACOLOGY, WARNINGS, ADVERSE REACTIONSand DOSAGE AND ADMINISTRATION sections).
-
-## TPMT and NUDT15 Testing
-
-Consider genotyping or phenotyping patients for TPMT deficiency and genotyping for NUDT15 deficiency in patients with severe myelosuppression.
+TPMT and NUDT15 Testing: Consider genotyping or phenotyping patients for TPMT deficiency and genotyping for NUDT15 deficiency in patients with severe myelosuppression.
 TPMT and NUDT15 testing cannot substitute for complete blood count (CBC) monitoring in patients receiving azathioprine.
 Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
 
@@ -130,26 +114,18 @@ Use with xanthine oxidase (XO) inhibitors: One of the pathways for inactivation 
 Patients receiving azathioprine and allopurinol concomitantly should have a dose reduction of azathioprine, to approximately 1/3 to 1/4 the usual dose.
 Concomitant use of azathioprine with febuxostat is not recommended.
 It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving azathioprine and allopurinol because both TPMT and XO inactivation pathways are affected.
-See CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections..
+See CLINICAL PHARMACOLOGY, WARNINGS, and PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections.
 
 Use with Aminosalicylates: There is in vitro evidence that aminosalicylate derivatives (e.g., sulphasalazine, mesalazine, or olsalazine) inhibit the TPMT enzyme.
 Concomitant use of these agents with azathioprine should be done with caution.
 
-### Use with Other Agents Affecting Myelopoesis
+Use with Other Agents Affecting Myelopoesis: Drugs which may affect leukocyte production, including co-trimoxazole, may lead to exaggerated leukopenia, especially in renal transplant recipients.
 
-Drugs which may affect leukocyte production, including co-trimoxazole, may lead to exaggerated leukopenia, especially in renal transplant recipients.
+Use with Angiotensin-Converting Enzyme Inhibitors: The use of angiotensin-converting enzyme inhibitors to control hypertension in patients on azathioprine has been reported to induce anemia and severe leukopenia.
 
-### Use with Angiotensin-Converting Enzyme Inhibitors
+Use with Warfarin: Azathioprine may inhibit the anticoagulant effect of warfarin.
 
-The use of angiotensin-converting enzyme inhibitors to control hypertension in patients on azathioprine has been reported to induce anemia and severe leukopenia.
-
-### Use with Warfarin
-
-Azathioprine may inhibit the anticoagulant effect of warfarin.
-
-### Use with Ribavirin
-
-The use of ribavirin for hepatitis C in patients receiving azathioprine has been reported to induce severe pancytopenia and may increase the risk of azathioprine-related myelotoxicity.
+Use with Ribavirin: The use of ribavirin for hepatitis C in patients receiving azathioprine has been reported to induce severe pancytopenia and may increase the risk of azathioprine-related myelotoxicity.
 Inosine monophosphate dehydrogenase (IMDH) is required for one of the metabolic pathways of azathioprine.
 Ribavirin is known to inhibit IMDH, thereby leading to accumulation of an azathioprine metabolite, 6-methylthioionosine monophosphate (6-MTITP), which is associated with myelotoxicity (neutropenia, thrombocytopenia, and anemia).
 Patients receiving azathioprine with ribavirin should have complete blood counts, including platelet counts, monitored weekly for the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage or other therapy changes are necessary.

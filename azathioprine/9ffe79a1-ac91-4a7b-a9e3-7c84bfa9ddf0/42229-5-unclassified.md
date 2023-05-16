@@ -1,17 +1,9 @@
 Rx ONLY
 
-Manufactured by:
+Manufactured by: THYMOORGAN PHARMAZIE GmbH, Schiffgraben 23, 38690 Goslar, Germany
 
-THYMOORGAN PHARMAZIE GmbH,
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Schiffgraben 23, 38690 Goslar, Germany
+Revised March 2020
 
-Distributed by:
-
-West-Ward Pharmaceuticals
-
-Eatontown, NJ 07724 USA
-
-Revised January 2019
-
-127.207.003/02
+127.207.003/03

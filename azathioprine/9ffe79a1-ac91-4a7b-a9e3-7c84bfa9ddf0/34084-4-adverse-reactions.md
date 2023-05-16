@@ -8,13 +8,8 @@ The relative incidences in clinical studies are summarized below:
 
 | Toxicity | Renal Homograft | Rheumatoid Arthritis |
 | --- | --- | --- |
-| Leukopenia |  |  |
-| Any Degree | >50% | 28% |
-| <2500 cells/mm3 | 16% | 5.3% |
-| Infections | 20% | <1% |
-| Neoplasia |  | Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited. The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population. In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg/day) was 1.8 cases per 1000 patient-years of follow-up, compared with 0.8 cases per 1000 patient-years of follow-up in those not receiving azathioprine. However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e., alkylating agents) received by patients treated with azathioprine cannot be determined. |
-| Lymphoma | 0.5% |  |
-| Others | 2.8% |  |
+| Leukopenia (any degree) <2500 cells/mm3 Infections | >50% 16% 20% | 28% 5.3% <1% |
+| Neoplasia Lymphoma Others | 0.5% 2.8% | Data on the rate and risk of neoplasia among persons with rheumatoid arthritis treated with azathioprine are limited. The incidence of lymphoproliferative disease in patients with RA appears to be significantly higher than that in the general population. In one completed study, the rate of lymphoproliferative disease in RA patients receiving higher than recommended doses of azathioprine (5 mg/kg/day) was 1.8 cases per 1000 patient-years of follow-up, compared with 0.8 cases per 1000 patient-years of follow-up in those not receiving azathioprine. However, the proportion of the increased risk attributable to the azathioprine dosage or to other therapies (i.e., alkylating agents) received by patients treated with azathioprine cannot be determined. |
 
 ## Hematologic
 
