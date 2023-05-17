@@ -1,5 +1,5 @@
-This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.pfizer.com.
+1. This product's labeling may have been updated.
+   For the most recent prescribing information, please visit www.pfizer.com.
 
 Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
 

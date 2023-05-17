@@ -43,6 +43,7 @@ Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64
 Sterile and nonpyrogenic.
 Single dose container.
 Do not use in series connections.
+
 For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
 Linezolid is sensitive to light.
@@ -54,11 +55,11 @@ MADE IN SINGAPORE PREMIERProRx®
 
 7 OTHER
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc., New York, NY 10017 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-FSU 0703 01-78-26-050D
+FSU 0703 01-78-26-050E
 
-LOT EXP
+LOT YYMDDU00 EXP YYYY-MM
 
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Box Label
 
