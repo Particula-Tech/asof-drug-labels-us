@@ -22,13 +22,13 @@ MADE IN SINGAPORE
 
 freeflex
 
-Pfizer Injectables
+Pfizer Hospital
 
 7 OTHER
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc NY, NY 10017
+Distributed by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc NY, NY 10017
 
-1234567890 FUU 0701 01-68-26-019E
+1234567890 FUU 0701 01-68-26-019F
 
 LOT EXP
 
@@ -41,9 +41,9 @@ NDC 0009-5137-01 Rx only ZYVOX® (linezolid) injection
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
-
 Sterile and nonpyrogenic.
 Single dose container.
+
 Do not use in series connections.
 For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
@@ -54,13 +54,13 @@ DISCARD UNUSED PORTION.
 The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 MADE IN SINGAPORE
 
-Pfizer Injectables
+Pfizer Hospital
 
 7 OTHER
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc. New York, NY 10017
 
-FUU 0701 01-78-26-019F
+FUU 0701 01-78-26-019G
 
 LOT EXP
 
@@ -75,15 +75,13 @@ DO NOT FREEZE.
 DISCARD UNUSED PORTION.
 The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
-DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE
-
-Pfizer Injectables
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017 MADE IN SINGAPORE
 
 LOT 00000000 EXP MM/DD/YYYY QTY: 01
 
 04.30.034
 
-FUU 0701 01-88-26-019J
+FUU 0701 01-88-26-019K
 
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Label
 
@@ -107,15 +105,15 @@ DISCARD UNUSED PORTION.
 The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 MADE IN SINGAPORE
 
-Pfizer Injectables
+Pfizer Hospital
 
 7 OTHER
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc. New York, NY 10017
 
 freeflex
 
-1234567890 FUU 0703 01-68-26-020E
+1234567890 FUU 0703 01-68-26-020F
 
 LOT EXP
 
@@ -128,10 +126,10 @@ NDC 0009-5140-01 Rx only ZYVOX® (linezolid) injection
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
 Do not freeze.
 Each mL contains: linezolid 2 mg dextrose, USP 50.24 mg sodium citrate, USP 1.64 mg citric acid, USP 0.85 mg water for injection, USP qs pH adjusted to 4.8 with sodium hydroxide or hydrochloric acid.
-
 Sterile and nonpyrogenic.
 Single dose container.
 Do not use in series connections.
+
 For intravenous administration Check for leaks by squeezing container.
 If leaks are found, discard, as sterility may be impaired.
 Linezolid is sensitive to light.
@@ -141,15 +139,15 @@ DISCARD UNUSED PORTION.
 The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 MADE IN SINGAPORE
 
-Pfizer Injectables
+Pfizer Hospital
+
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017
 
 7 OTHER
 
-Distributed by: Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+FUU 0703 01-78-26-020G
 
-FUU 0703 01-78-26-020F
-
-LOT EXP
+LOT YYMDDU00 EXP YYYY-MM
 
 # PRINCIPAL DISPLAY PANEL - 300 mL Bag Box Label
 
@@ -159,18 +157,15 @@ ZYVOX® (linezolid) injection 600 mg/300mL (2 mg/mL)
 
 RX ONLY STORE AT 25°C (77°F); EXCURSIONS PERMITTED TO 15-30°C (59-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE].
 DO NOT FREEZE.
-DISCARD UNUSED PORTION.
-The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
+DISCARD UNUSED PORTION.The Infusion Bags and Ports are Not Made With Natural Rubber Latex.
 
-DISTRIBUTED BY PHARMACIA & UPJOHN DIVISION OF PFIZER INC, NY, NY 10017 MADE IN SINGAPORE
-
-Pfizer Injectables
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10017 MADE IN SINGAPORE
 
 LOT 00000000 EXP MM/DD/YYYY QTY: 01
 
 04.30.034
 
-FUU 0703 01-88-26-020J
+FUU 0703 01-88-26-020K
 
 # PRINCIPAL DISPLAY PANEL - 150 mL Bottle Label
 
@@ -214,7 +209,7 @@ Zyvox® (linezolid) tablets
 
 600 mg
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017 PAA054269
+Distributed by Pharmacia & Upjohn Co. LLC A sub. of Pfizer Inc., NY, NY 10017 75093422
 
 EXP & LOT AREA
 
