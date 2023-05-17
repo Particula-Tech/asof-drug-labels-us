@@ -2,13 +2,13 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the label:
 
-- Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
-- Increased mortality and/or increased risk of tumor progression or recurrence in Patients with Cancer [see Warnings and Precautions (5.2)]
-- Hypertension [see Warnings and Precautions (5.3)]
-- Seizures [see Warnings and Precautions (5.4)]
-- PRCA [see Warnings and Precautions (5.6)]
-- Serious allergic reactions [see Warnings and Precautions (5.7)]
-- Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
+- •Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism [see Warnings and Precautions (5.1)]
+- •Increased mortality and/or increased risk of tumor progression or recurrence in Patients with Cancer [see Warnings and Precautions (5.2)]
+- •Hypertension [see Warnings and Precautions (5.3)]
+- •Seizures [see Warnings and Precautions (5.4)]
+- •PRCA [see Warnings and Precautions (5.6)]
+- •Serious allergic reactions [see Warnings and Precautions (5.7)]
+- •Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -154,12 +154,12 @@ Adverse Reactions in Surgery Patients
 The following adverse reactions have been identified during post-approval use of epoetin alfa.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Seizures [see Warnings and Precautions (5.4)]
-- PRCA [see Warnings and Precautions (5.6)]
-- Serious allergic reactions [see Warnings and Precautions (5.7)]
-- Injection site reactions, including irritation and pain
-- Porphyria
-- Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
+- •Seizures [see Warnings and Precautions (5.4)]
+- •PRCA [see Warnings and Precautions (5.6)]
+- •Serious allergic reactions [see Warnings and Precautions (5.7)]
+- •Injection site reactions, including irritation and pain
+- •Porphyria
+- •Severe Cutaneous Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.3 Immunogenicity
 
