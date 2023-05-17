@@ -28,4 +28,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854
 
-By: HETEROTM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India Revised: 09/2019
+By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India Revised: 09/2019

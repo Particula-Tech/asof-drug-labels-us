@@ -2,7 +2,7 @@
 
 ## 5.1 Hematologic Toxicity/Bone Marrow Suppression
 
-Zidovudine should be used with caution in patients who have bone marrow compromise evidenced by granulocyte count less than 1,000 cells per mm3 or hemoglobin less than 9.5 g per dL.
+Zidovudine should be used with caution in patients who have bone marrow compromise evidenced by granulocyte count less than 1,000 cells per mm 3 or hemoglobin less than 9.5 g per dL.
 Hematologic toxicities appear to be related to pretreatment bone marrow reserve and to dose and duration of therapy.
 In patients with advanced symptomatic HIV-1 disease, anemia and neutropenia were the most significant adverse events observed.
 In patients who experience hematologic toxicity, a reduction in hemoglobin may occur as early as 2 to 4 weeks, and neutropenia usually occurs after 6 to 8 weeks.

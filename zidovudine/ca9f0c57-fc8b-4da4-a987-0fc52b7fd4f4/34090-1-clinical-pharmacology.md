@@ -16,10 +16,10 @@ Zidovudine Pharmacokinetic Parameters in Adult Subjects
 | --- | --- |
 | Oral bioavailability (%) | 64 ± 10 (n = 5) |
 | Apparent volume of distribution (L/kg) | 1.6 ± 0.6 (n = 8) |
-| Cerebrospinal fluid (CSF):plasma ratioa | 0.6 [0.04 to 2.62] (n = 39) |
+| Cerebrospinal fluid (CSF):plasma ratio a | 0.6 [0.04 to 2.62] (n = 39) |
 | Systemic clearance (L/h/kg) | 1.6 ± 0.6 (n = 6) |
 | Renal clearance (L/h/kg) | 0.34 ± 0.05 (n = 9) |
-| Elimination half-life (h)b | 0.5 to 3 (n = 19) |
+| Elimination half-life (h) b | 0.5 to 3 (n = 19) |
 
 a Median [range] for 50 paired samples drawn 1 to 8 hours after the last dose in subjects on chronic therapy with zidovudine. b Approximate range.
 Distribution The apparent volume of distribution of zidovudine is 1.6 ± 0.6 L per kg (Table 7) and binding to plasma protein is low (less than 38%).
@@ -35,7 +35,7 @@ The zidovudine AUC was similar when a single dose of zidovudine was administered
 Specific Populations Patients with Renal Impairment: Zidovudine clearance was decreased resulting in increased zidovudine and GZDV half-life and AUC in subjects with impaired renal function (n = 14) following a single 200-mg oral dose (Table 8).
 Plasma concentrations of AMT were not determined.
 No dose adjustment is recommended for patients with CrCl greater than or equal to 15 mL per min. Table 8.
-Zidovudine Pharmacokinetic Parameters in Subjects with Severe Renal Impairmenta
+Zidovudine Pharmacokinetic Parameters in Subjects with Severe Renal Impairment a
 
 | Parameter | Control Subjects (Normal Renal Function) (n = 6) | Subjects with Renal Impairment (n = 14) |
 | --- | --- | --- |
@@ -56,7 +56,7 @@ There are insufficient data to recommend dose adjustment of zidovudine in patien
 
 Pediatric Patients: Zidovudine pharmacokinetics have been evaluated in HIV-1-infected pediatric subjects (Table 9).
 Patients Aged 3 Months to 12 Years: Overall, zidovudine pharmacokinetics in pediatric patients older than 3 months are similar to those in adult patients.
-Proportional increases in plasma zidovudine concentrations were observed following administration of oral solution from 90 to 240 mg per m2 every 6 hours.
+Proportional increases in plasma zidovudine concentrations were observed following administration of oral solution from 90 to 240 mg per m 2 every 6 hours.
 Oral bioavailability, terminal half-life, and oral clearance were comparable to adult values.
 As in adult subjects, the major route of elimination was by metabolism to GZDV.
 After IV dosing, about 29% of the dose was excreted in the urine unchanged, and about 45% of the dose was excreted as GZDV [see Dosage and Administration (2.2)].
@@ -67,12 +67,12 @@ In neonates less than or equal to 14 days old, bioavailability was greater, tota
 For dose recommendations for neonates [see Dosage and Administration (2.3)].
 
 Table 9.
-Zidovudine Pharmacokinetic Parameters in Pediatric Subjectsa
+Zidovudine Pharmacokinetic Parameters in Pediatric Subjects a
 
 | Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |
 | --- | --- | --- | --- |
 | Oral bioavailability (%) | 89 ± 19 (n = 15) | 61 ± 19 (n = 17) | 65 ± 24 (n = 18) |
-| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b (n = 38) |
+| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25] b (n = 38) |
 | CL (L/h/kg) | 0.65 ± 0.29 (n = 18) | 1.14 ± 0.24 (n = 16) | 1.85 ± 0.47 (n = 20) |
 | Elimination half-life (h) | 3.1 ± 1.2 (n = 21) | 1.9 ± 0.7 (n = 18) | 1.5 ± 0.7 (n = 21) |
 
@@ -88,22 +88,22 @@ Male and Female Patients: A pharmacokinetic trial in healthy male (n = 12) and f
 
 Drug Interaction Studies: [See Drug Interactions (7).]
 Table 10.
-Effect of Coadministered Drugs on Zidovudine AUCa
+Effect of Coadministered Drugs on Zidovudine AUC a
 
 | Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
 | Coadministered Drug and Dose | Zidovudine Oral Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
 | AUC | Variability |  |  |  |  |
-| Atovaquone 750 mg every 12 h with food | 200 mg every 8 h | 14 | ↑ 31% | Range: 23% to 78%b | ↔ |
-| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓ 12% | Range: ↓34% to ↑14%b | Not Reported |
+| Atovaquone 750 mg every 12 h with food | 200 mg every 8 h | 14 | ↑ 31% | Range: 23% to 78% b | ↔ |
+| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓ 12% | Range: ↓34% to ↑14% b | Not Reported |
 | Fluconazole 400 mg daily | 200 mg every 8 h | 12 | ↑ 74% | 95% CI: 54% to 98% | Not Reported |
 | Lamivudine 300 mg every 12 h | single 200 mg | 12 | ↑ 13% | 90% CI: 2% to 27% | ↔ |
-| Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑ 43% | Range: 16% to 64%b | ↔ |
-| Nelfinavir 750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓ 35% | Range: 28% to 41%b | ↔ |
-| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑ 106% | Range: 100% to 170%b | Not Assessed |
+| Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑ 43% | Range: 16% to 64% b | ↔ |
+| Nelfinavir 750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓ 35% | Range: 28% to 41% b | ↔ |
+| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑ 106% | Range: 100% to 170% b | Not Assessed |
 | Rifampin 600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓ 47% | 90% CI: 41% to 53% | Not Assessed |
 | Ritonavir 300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI: 15% to 34% | ↔ |
-| Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑ 80% | Range: 64% to 130%b | Not Assessed |
+| Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑ 80% | Range: 64% to 130% b | Not Assessed |
 
 ↑ = Increase; ↓ = Decrease; ↔ = no significant change; AUC = area under the concentration versus time curve; CI = confidence interval. a This table is not all inclusive. b Estimated range of percent difference.
 Phenytoin: Phenytoin plasma levels have been reported to be low in some patients receiving zidovudine, while in one case a high level was documented.
@@ -119,9 +119,9 @@ Intracellularly, zidovudine is phosphorylated to its active 5'-triphosphate meta
 The principal mode of action of ZDV-TP is inhibition of reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue.
 ZDV-TP is a weak inhibitor of the cellular DNA polymerases α and γ and has been reported to be incorporated into the DNA of cells in culture.
 Antiviral Activity The antiviral activity of zidovudine against HIV-1 was assessed in a number of cell lines including monocytes and fresh human peripheral blood lymphocytes.
-The EC50 and EC90 values for zidovudine were 0.01 to 0.49 microM (1 microM = 0.27 mcg per mL) and 0.1 to 9 microM, respectively.
+The EC 50 and EC 90 values for zidovudine were 0.01 to 0.49 microM (1 microM = 0.27 mcg per mL) and 0.1 to 9 microM, respectively.
 HIV-1 from therapy-naive subjects with no amino acid substitutions associated with resistance gave median EC50 values of 0.011 microM (range: 0.005 to 0.110 microM) from Virco (n = 92 baseline samples) and 0.0017 microM (range: 0.006 to 0.0340 microM) from Monogram Biosciences (n = 135 baseline samples).
-The EC50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 microM, and against HIV-2 isolates from 0.00049 to 0.004 microM.
+The EC 50 values of zidovudine against different HIV-1 clades (A-G) ranged from 0.00018 to 0.02 microM, and against HIV-2 isolates from 0.00049 to 0.004 microM.
 Zidovudine was not antagonistic to tested anti-HIV agents with the exception of stavudine where an antagonistic relationship with zidovudine has been demonstrated in cell culture.
 Ribavirin has been found to inhibit the phosphorylation of zidovudine in cell culture.
 Resistance HIV-1 isolates with reduced susceptibility to zidovudine have been selected in cell culture and were also recovered from subjects treated with zidovudine.

@@ -12,7 +12,7 @@ Percentage (%) of Subjects with Adverse Reactions (Greater than or Equal to 5% F
 
 | Adverse Reaction | Zidovudine 500 mg/day (n = 453) | Placebo (n = 428) |
 | --- | --- | --- |
-| Body as a whole Asthenia Headache Malaise Gastrointestinal Anorexia Constipation Nausea Vomiting | 9%a 63% 53% 20% 6%a 51% 17% | 6% 53% 45% 11% 4% 30% 10% |
+| Body as a whole Asthenia Headache Malaise Gastrointestinal Anorexia Constipation Nausea Vomiting | 9% a 63% 53% 20% 6% a 51% 17% | 6% 53% 45% 11% 4% 30% 10% |
 
 a Not statistically significant versus placebo.
 In addition to the adverse reactions listed in Table 3, adverse reactions observed at an incidence of greater than or equal to 5% in any treatment arm in clinical trials (NUCA3001, NUCA3002, NUCB3001, and NUCB3002) were abdominal cramps, abdominal pain, arthralgia, chills, dyspepsia, fatigue, insomnia, musculoskeletal pain, myalgia, and neuropathy.
@@ -24,14 +24,14 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Subjects with As
 | Test (Abnormal Level) | Zidovudine 500 mg/day (n = 453) [ | Placebo (n = 428) |
 | --- | --- | --- |
 | Anemia (Hgb <8 g/dL) | 1% | <1% |
-| Granulocytopenia (<750 cells/mm3) | 2% | 2% |
-| Thrombocytopenia (platelets <50,000/mm3) | 0% | <1% |
+| Granulocytopenia (<750 cells/mm 3) | 2% | 2% |
+| Thrombocytopenia (platelets <50,000/mm 3) | 0% | <1% |
 | ALT (>5 x ULN) | 3% | 3% |
 | AST (>5 x ULN) | 1% | 2% |
 
 ULN = Upper limit of normal.
 Pediatrics The clinical adverse reactions reported among adult recipients of zidovudine may also occur in pediatric patients.
-Trial ACTG 300: Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with EPIVIR (lamivudine) oral suspension 4 mg per kg twice daily plus zidovudine 160 mg per m2 3 times daily compared with didanosine in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
+Trial ACTG 300: Selected clinical adverse reactions and physical findings with a greater than or equal to 5% frequency during therapy with EPIVIR (lamivudine) oral suspension 4 mg per kg twice daily plus zidovudine 160 mg per m 2 3 times daily compared with didanosine in therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 5.
 Table 5.
 Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal to 5% Frequency) in Pediatric Subjects in Trial ACTG 300
 
@@ -49,7 +49,7 @@ Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal
 | Cough | 15% | 18% |
 | Abnormal breath sounds/wheezing | 7% | 9% |
 | Ear, Nose, and Throat |  |  |
-| Signs or symptoms of earsa | 7% | 6% |
+| Signs or symptoms of ears a | 7% | 6% |
 | Nasal discharge or congestion | 8% | 11% |
 | Other |  |  |
 | Skin rashes | 12% | 14% |
@@ -62,9 +62,9 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjec
 
 | Test (Abnormal Level) | EPIVIR plus Zidovudine | Didanosine |
 | --- | --- | --- |
-| Neutropenia (ANC <400 cells/mm3) | 8% | 3% |
+| Neutropenia (ANC <400 cells/mm 3) | 8% | 3% |
 | Anemia (Hgb<7 g/dL) | 4% | 2% |
-| Thrombocytopenia (platelets <50,000/mm3) | 1% | 3% |
+| Thrombocytopenia (platelets <50,000/mm 3) | 1% | 3% |
 | ALT (>10 x ULN) | 1% | 3% |
 | AST (>10 x ULN) | 2% | 4% |
 | Lipase (>2.5 x ULN) | 3% | 3% |
@@ -73,11 +73,11 @@ Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjec
 ULN = Upper limit of normal.
 ANC = Absolute neutrophil count.
 
-Macrocytosis was reported in the majority of pediatric subjects receiving zidovudine 180 mg per m2 every 6 hours in open-label trials.
+Macrocytosis was reported in the majority of pediatric subjects receiving zidovudine 180 mg per m 2 every 6 hours in open-label trials.
 Additionally, adverse reactions reported at an incidence of less than 6% in these trials were congestive heart failure, decreased reflexes, ECG abnormality, edema, hematuria, left ventricular dilation, nervousness/irritability, and weight loss.
 
 Use for the Prevention of Maternal-Fetal Transmission of HIV-1 In a randomized, double-blind, placebo-controlled trial in HIV-1-infected women and their neonates conducted to determine the utility of zidovudine for the prevention of maternal-fetal HIV-1 transmission, zidovudine syrup at 2 mg per kg was administered every 6 hours for 6 weeks to neonates beginning within 12 hours following birth.
-The most commonly reported adverse reactions were anemia (hemoglobin less than 9 g per dL) and neutropenia (less than 1,000 cells per mm3).
+The most commonly reported adverse reactions were anemia (hemoglobin less than 9 g per dL) and neutropenia (less than 1,000 cells per mm 3).
 Anemia occurred in 22% of the neonates who received zidovudine and in 12% of the neonates who received placebo.
 The mean difference in hemoglobin values was less than 1 g per dL for neonates receiving zidovudine compared with neonates receiving placebo.
 No neonates with anemia required transfusion and all hemoglobin values spontaneously returned to normal within 6 weeks after completion of therapy with zidovudine.

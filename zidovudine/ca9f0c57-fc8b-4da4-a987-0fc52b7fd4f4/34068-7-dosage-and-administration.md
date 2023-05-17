@@ -23,7 +23,7 @@ Recommended Pediatric Oral Dosage of Zidovudine
 | ≥30 | 600 mg/day | 300 mg | 200 mg |
 
 Alternatively, dosing for zidovudine can be based on body surface area (BSA) for each child.
-The recommended oral dose of zidovudine is 480 mg per m2 per day in divided doses (240 mg per m2 twice daily or 160 mg per m2 three times daily).
+The recommended oral dose of zidovudine is 480 mg per m 2 per day in divided doses (240 mg per m2 twice daily or 160 mg per m 2 three times daily).
 In some cases the dose calculated by mg per kg will not be the same as that calculated by BSA.
 
 ## 2.3 Prevention of Maternal-Fetal HIV-1 Transmission
@@ -45,7 +45,7 @@ Use an appropriate-sized syringe with 0.1-mL graduation to ensure accurate dosin
 
 ## 2.4 Patients with Severe Anemia and/or Neutropenia
 
-Significant anemia (hemoglobin less than 7.5 g per dL or reduction greater than 25% of baseline) and/or significant neutropenia (granulocyte count less than 750 cells per mm3 or reduction greater than 50% from baseline) may require a dose interruption until evidence of marrow recovery is observed [see Warnings and Precautions (5.1)].
+Significant anemia (hemoglobin less than 7.5 g per dL or reduction greater than 25% of baseline) and/or significant neutropenia (granulocyte count less than 750 cells per mm 3 or reduction greater than 50% from baseline) may require a dose interruption until evidence of marrow recovery is observed [see Warnings and Precautions (5.1)].
 In patients who develop significant anemia, dose interruption does not necessarily eliminate the need for transfusion.
 If marrow recovery occurs following dose interruption, resumption in dose may be appropriate using adjunctive measures such as epoetin alfa at recommended doses, depending on hematologic indices such as serum erythropoietin level and patient tolerance.
 
