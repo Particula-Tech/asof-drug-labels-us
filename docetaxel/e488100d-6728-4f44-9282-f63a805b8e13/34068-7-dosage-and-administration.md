@@ -159,7 +159,7 @@ Based on extrapolation from a pharmacokinetic study with ketoconazole in 7 patie
 
 ## 2.8 Administration Precautions
 
-Docetaxel injection is a cytotoxic anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing docetaxel injection solutions.
+Docetaxel injection is a hazardous anticancer drug and, as with other potentially toxic compounds, caution should be exercised when handling and preparing docetaxel injection solutions.
 The use of gloves is recommended [see How Supplied/ Storage and Handling (16.3)].
 
 If docetaxel injection initial diluted solution, or final dilution for infusion should come into contact with the skin, immediately and thoroughly wash with soap and water.

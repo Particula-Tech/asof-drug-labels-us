@@ -33,6 +33,5 @@ Freezing does not adversely affect the product.
 
 ## 16.3 Handling and Disposal
 
-Docetaxel Injection USP is a cytotoxic drug.
+Docetaxel Injection USP is a hazardous drug.
 Follow applicable special handling and disposal procedures.
-1

@@ -86,8 +86,8 @@ Females who are able to become pregnant:
 
 o Your healthcare provider will check to see if you are pregnant before you start treatment with Docetaxel Injection.
 
-o You should use effective birth control (contraception) during treatment with Docetaxel Injection and for 6 months after the last dose.
-Males with female partners who are able to become pregnant should use effective birth control during treatment with Docetaxel Injection and for 3 months after the last dose.
+o You should use effective birth control (contraception) during treatment with Docetaxel Injection and for 2 months after the last dose.
+Males with female partners who are able to become pregnant should use effective birth control during treatment with Docetaxel Injection and for 4 months after the last dose.
 
 Talk to your healthcare provider if you have questions about birth control options that are right for you.
 
@@ -166,7 +166,7 @@ If any of these events occurs after your infusion, get medical help right away.
 Docetaxel Injection may affect fertility in males.
 Talk to your healthcare provider if this is a concern for you.
 
-These are not all the possible side effects of Docetaxel Injection.
+These are not all of the possible side effects of Docetaxel Injection.
 For more information, ask your healthcare provider or pharmacist.
 
 Call your healthcare provider for medical advice about side effects.
@@ -197,7 +197,7 @@ eVenus Pharmaceutical Laboratories, Inc. (eVenus)
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2022
+Revised: 03/2023
 
 | Every three-week injection of Docetaxel Injection for breast, non-small cell lung and stomach, and head and neck cancers Take your oral corticosteroid medicine as your healthcare provider tells you. |
 | --- |
@@ -215,6 +215,6 @@ Revised: 08/2022
 | (Docetaxel Injection Treatment Day) |
 | Time: ________ |
 
-Revised: August 2022
+Revised: March 2023
 
-10VUF07
+10VUF08
