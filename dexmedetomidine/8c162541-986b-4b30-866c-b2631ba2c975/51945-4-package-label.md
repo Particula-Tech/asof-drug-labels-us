@@ -8,13 +8,13 @@ NDC 55150-209-02 Dexmedetomidine Injection, USP 200 mcg per 2 mL (100 mcg/mL) Fo
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 200 mcg per 50 mL (4 mcg / mL) - Infusion Bag Label
 
-50 mL Single Dose Flexible Container NDC 55150-296-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 200 mcg per 50 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute
+50 mL Single-Dose Flexible Container NDC 55150-296-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 200 mcg per 50 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute
 
 Mfd. in India for: Eugia US LLC, E. Windsor, NJ 08520 Code: TS/DRUGS/13/2010 P1431431
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 200 mcg per 50 mL (4 mcg / mL) – Pouch/Overwrap Label
 
-TO OPEN FOIL POUCH - TEAR AT NOTCH One 50 mL Single Dose Flexible Container NDC 55150-296-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 200 mcg per 50 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute
+TO OPEN FOIL POUCH - TEAR AT NOTCH One 50 mL Single-Dose Flexible Container NDC 55150-296-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 200 mcg per 50 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute
 
 *Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl USP and 9 mg of sodium chloride in water for injection. pH is 4.5 to 7.0.
 Do not add supplementary medication.
@@ -38,7 +38,7 @@ Made in India E. Windsor, NJ 08520 P4000373 Code: TS/DRUGS/13/2010 eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 200 mcg per 50 mL (4 mcg / mL) – Carton Label
 
-10 x 50 mL Single Dose Flexible Containers NDC 55150-296-10 Sterile Rx only
+10 x 50 mL Single-Dose Flexible Containers NDC 55150-296-10 Sterile Rx only
 
 Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 200 mcg per 50 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute *Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl USP and 9 mg of sodium chloride in water for injection. pH is 4.5 to 7.0.
 Do not add supplementary medication.
@@ -63,7 +63,7 @@ E. Windsor, NJ 08520 Code: TS/DRUGS/13/2010 P1431432 eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 400 mcg per 100 mL (4 mcg / mL) -Infusion Bag Label
 
-100 mL Single Dose Flexible Container NDC 55150-297-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg per 100 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute *Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl USP and 9 mg of sodium chloride in water for injection. pH is 4.5 to 7.0.
+100 mL Single-Dose Flexible Container NDC 55150-297-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg per 100 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute *Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl USP and 9 mg of sodium chloride in water for injection. pH is 4.5 to 7.0.
 Do not add supplementary medication.
 Caution: Check for minute leaks by squeezing container firmly.
 If leaks are found, discard bag as sterility may be impaired.
@@ -79,7 +79,7 @@ Code: TS/DRUGS/01/2013/LVP Mfd. in India for: Eugia US LLC, E. Windsor, NJ 08520
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 400 mcg per 100 mL (4 mcg / mL) - Pouch/Overwrap Label
 
-TO OPEN FOIL - TEAR AT NOTCH One 100 mL Single Dose Flexible Container NDC 55150-297-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg per 100 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute
+TO OPEN FOIL - TEAR AT NOTCH One 100 mL Single-Dose Flexible Container NDC 55150-297-01 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg per 100 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute
 
 *Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl USP and 9 mg of sodium chloride in water for injection. pH is 4.5 to 7.0.
 Do not add supplementary medication.
@@ -102,7 +102,7 @@ Made in India E. Windsor, NJ 08520 P4000372 eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 400 mcg per 100 mL (4 mcg / mL) - Carton Label
 
-10 x 100 mL Single Dose Flexible Containers NDC 55150-297-10 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg per 100 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute *Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl USP and 9 mg of sodium chloride in water for injection. pH is 4.5 to 7.0.
+10 x 100 mL Single-Dose Flexible Containers NDC 55150-297-10 Sterile Rx only Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 400 mcg per 100 mL* (4 mcg / mL) For Intravenous Infusion Ready to Use-Do Not Dilute *Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl USP and 9 mg of sodium chloride in water for injection. pH is 4.5 to 7.0.
 Do not add supplementary medication.
 Caution: Check for minute leaks by squeezing container firmly.
 If leaks are found, discard bag as sterility may be impaired.

@@ -2,7 +2,7 @@
 
 The tolerability of dexmedetomidine was studied in one study in which healthy adult subjects were administered doses at and above the recommended dose of 0.2 to 0.7 mcg/kg/hr.
 The maximum blood concentration achieved in this study was approximately 13 times the upper boundary of the therapeutic range.
-The most notable effects observed in two subjects who achieved the highest doses were first degree atrioventricular block and second degree heart block.
+The most notable effects observed in two subjects who achieved the highest doses were first degree atrioventricular block and second-degree heart block.
 No hemodynamic compromise was noted with the atrioventricular block and the heart block resolved spontaneously within one minute.
 Five adult patients received an overdose of dexmedetomidine in the intensive care unit sedation studies.
 Two of these patients had no symptoms reported; one patient received a 2 mcg/kg loading dose over 10 minutes (twice the recommended loading dose) and one patient received a maintenance infusion of 0.8 mcg/kg/hr.
