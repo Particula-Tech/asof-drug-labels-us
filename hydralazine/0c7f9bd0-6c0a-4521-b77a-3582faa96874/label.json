@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA086242"
+  ],
+  "inn": "hydralazine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-579-12",
+    "62135-580-12",
+    "62135-581-12",
+    "62135-582-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "hydralazine hydrochloride",
+      "name": "Hydralazine Hydrochloride"
+    }
+  ],
+  "setid": "0c7f9bd0-6c0a-4521-b77a-3582faa96874",
+  "source": "dailymed"
+}
