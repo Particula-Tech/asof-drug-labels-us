@@ -4,7 +4,7 @@
 
 RETACRIT is indicated for the treatment of anemia due to chronic kidney disease (CKD), including patients on dialysis and not on dialysis to decrease the need for red blood cell (RBC) transfusion.
 
-## 1.2 Anemia Due to Zidovudine in Patients with HIV-infection
+## 1.2 Anemia Due to Zidovudine in Patients with HIV-Infection
 
 RETACRIT is indicated for the treatment of anemia due to zidovudine administered at ≤ 4,200 mg/week in patients with HIV-infection with endogenous serum erythropoietin levels of ≤ 500 mUnits/mL.
 
@@ -23,9 +23,9 @@ RETACRIT has not been shown to improve quality of life, fatigue, or patient well
 
 RETACRIT is not indicated for use:
 
-- In patients with cancer receiving hormonal agents, biologic products, or radiotherapy, unless also receiving concomitant myelosuppressive chemotherapy.
-- In patients with cancer receiving myelosuppressive chemotherapy when the anticipated outcome is cure.
-- In patients with cancer receiving myelosuppressive chemotherapy in whom the anemia can be managed by transfusion.
-- In patients scheduled for surgery who are willing to donate autologous blood.
-- In patients undergoing cardiac or vascular surgery.
-- As a substitute for RBC transfusions in patients who require immediate correction of anemia.
+- •In patients with cancer receiving hormonal agents, biologic products, or radiotherapy, unless also receiving concomitant myelosuppressive chemotherapy.
+- •In patients with cancer receiving myelosuppressive chemotherapy when the anticipated outcome is cure.
+- •In patients with cancer receiving myelosuppressive chemotherapy in whom the anemia can be managed by transfusion.
+- •In patients scheduled for surgery who are willing to donate autologous blood.
+- •In patients undergoing cardiac or vascular surgery.
+- •As a substitute for RBC transfusions in patients who require immediate correction of anemia.

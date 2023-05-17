@@ -5,4 +5,4 @@ Manufactured by Hospira, Inc., a Pfizer Company, Lake Forest, IL 60045 USA US Li
 
 Distributed by Vifor (International) Inc., Rechenstrasse 37, 9014 St. Gallen, Switzerland
 
-LAB-1280-6.0
+LAB-1280-7.0

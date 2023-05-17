@@ -2,14 +2,14 @@
 
 ## 5.1 Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism
 
-- In controlled clinical trials of patients with CKD comparing higher hemoglobin targets (13 – 14 g/dL) to lower targets (9 – 11.3 g/dL), epoetin alfa and other ESAs increased the risk of death, myocardial infarction, stroke, congestive heart failure, thrombosis of hemodialysis vascular access, and other thromboembolic events in the higher target groups.
-- Using ESAs to target a hemoglobin level of greater than 11 g/dL increases the risk of serious adverse cardiovascular reactions and has not been shown to provide additional benefit [see Clinical Studies (14.1)].
+- •In controlled clinical trials of patients with CKD comparing higher hemoglobin targets (13 – 14 g/dL) to lower targets (9 – 11.3 g/dL), epoetin alfa and other ESAs increased the risk of death, myocardial infarction, stroke, congestive heart failure, thrombosis of hemodialysis vascular access, and other thromboembolic events in the higher target groups.
+- •Using ESAs to target a hemoglobin level of greater than 11 g/dL increases the risk of serious adverse cardiovascular reactions and has not been shown to provide additional benefit [see Clinical Studies (14.1)].
   Use caution in patients with coexistent cardiovascular disease and stroke [see Dosage and Administration (2.2)].
   Patients with CKD and an insufficient hemoglobin response to ESA therapy may be at even greater risk for cardiovascular reactions and mortality than other patients.
   A rate of hemoglobin rise of greater than 1 g/dL over 2 weeks may contribute to these risks.
-- In controlled clinical trials of patients with cancer, epoetin alfa and other ESAs increased the risks for death and serious adverse cardiovascular reactions.
+- •In controlled clinical trials of patients with cancer, epoetin alfa and other ESAs increased the risks for death and serious adverse cardiovascular reactions.
   These adverse reactions included myocardial infarction and stroke.
-- In controlled clinical trials, ESAs increased the risk of death in patients undergoing coronary artery bypass graft surgery (CABG) and the risk of deep venous thrombosis (DVT) in patients undergoing orthopedic procedures.
+- •In controlled clinical trials, ESAs increased the risk of death in patients undergoing coronary artery bypass graft surgery (CABG) and the risk of deep venous thrombosis (DVT) in patients undergoing orthopedic procedures.
 
 The design and overall results of the 3 large trials comparing higher and lower hemoglobin targets are shown in Table 1.
 
@@ -192,7 +192,7 @@ There is a potential for similar risks to fetuses and infants exposed to benzyl 
 RETACRIT multiple-dose vials contain 8.5 mg of benzyl alcohol per mL.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2, and 8.4)].
 
-## 5.10 Risk in Patients with Phenylketonuria
+## 5.10 Risks in Patients with Phenylketonuria
 
 Phenylalanine can be harmful to patients with phenylketonuria (PKU).
 RETACRIT contains phenylalanine, a component of aspartame.

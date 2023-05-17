@@ -19,3 +19,5 @@ Do not shake.
 Do not use RETACRIT that has been shaken or frozen or if the green area of the freeze strip indicator is cloudy or white.
 
 Store RETACRIT vials in the original carton until use to protect from light.
+
+The vial stopper used for RETACRIT is not made with natural. rubber latex.
