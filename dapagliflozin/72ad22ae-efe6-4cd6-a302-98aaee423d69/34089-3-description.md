@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Dapagliflozin is described chemically as D-glucitol, 1,5-anhydro-1-C-[4-chloro-3-[(4-ethoxyphenyl)methyl]phenyl]-, (1S)-, compounded with (2S)-1,2-propanediol, hydrate (1:1:1).
+Dapagliflozin, an inhibitor of the sodium-glucose co-transporter 2 (SGLT2), is described chemically as D-glucitol, 1,5-anhydro-1-C-[4-chloro-3-[(4-ethoxyphenyl)methyl]phenyl]-, (1S)-, compounded with (2S)-1,2-propanediol, hydrate (1:1:1).
 The empirical formula is C21H25ClO6•C3H8O2•H2O and the molecular weight is 502.98.
 The structural formula is:
 

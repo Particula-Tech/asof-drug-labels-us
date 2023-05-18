@@ -69,8 +69,9 @@ A total of 1424 (24%) of the 5936 FARXIGA-treated patients were 65 years and old
 After controlling for level of renal function (eGFR), efficacy was similar for patients under age 65 years and those 65 years and older.
 In patients ≥65 years of age, a higher proportion of patients treated with FARXIGA for glycemic control had adverse reactions of hypotension [see Warnings and Precautions (5.2) and Adverse Reactions (6.1)].
 
-In both the DAPA-HF and DAPA-CKD studies, safety and efficacy were similar for patients age 65 years and younger and those older than 65.
+In the DAPA-CKD, DAPA-HF and DELIVER studies, safety and efficacy were similar for patients age 65 years and younger and those older than 65.
 In the DAPA-HF study, 2714 (57%) out of 4744 patients with HFrEF were older than 65 years.
+In the DELIVER study, 4759 (76%) out of 6263 patients with heart failure (LVEF >40%) were older than 65 years.
 In the DAPA-CKD study, 1818 (42%) out of 4304 patients with CKD were older than 65 years.
 
 ## 8.6 Renal Impairment
@@ -84,8 +85,7 @@ Patients with diabetes and renal impairment using FARXIGA may be more likely to 
 In the study of patients with an eGFR 30 to less than 60 mL/min/1.73 m2, 13 patients receiving FARXIGA experienced bone fractures compared to none receiving placebo.
 Use of FARXIGA for glycemic control in patients without established CV disease or CV risk factors is not recommended when eGFR is less than 45 mL/min/1.73 m2 [see Dosage and Administration (2.2)].
 
-Efficacy and safety studies with FARXIGA did not enroll patients with an eGFR less than 25 mL/min/1.73 m2.
-FARXIGA is contraindicated in patients on dialysis.
+Efficacy and safety studies with FARXIGA did not enroll patients with an eGFR less than 25 mL/min/1.73 m2 or on dialysis.
 
 ## 8.7 Hepatic Impairment
 

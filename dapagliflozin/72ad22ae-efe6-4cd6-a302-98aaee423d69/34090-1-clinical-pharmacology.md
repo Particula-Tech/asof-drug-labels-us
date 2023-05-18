@@ -5,6 +5,7 @@
 Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen.
 Dapagliflozin is an inhibitor of SGLT2.
 By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and thereby promotes urinary glucose excretion.
+
 Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
 This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity, and decreased intraglomerular pressure which is believed to be mediated by increased tubuloglomerular feedback.
 
@@ -32,7 +33,7 @@ In addition, no clinically meaningful effect on QTc interval was observed follow
 Following oral administration of dapagliflozin, the maximum plasma concentration (Cmax) is usually attained within 2 hours under fasting state.
 The Cmax and AUC values increase dose proportionally with increase in dapagliflozin dose in the therapeutic dose range.
 The absolute oral bioavailability of dapagliflozin following the administration of a 10 mg dose is 78%.
-Administration of dapagliflozin with a high-fat meal decreases its Cmax by up to 50% and prolongs Tmax by approximately 1 hour, but does not alter AUC as compared with the fasted state.
+Administration of dapagliflozin with a high-fat meal decreases its Cmax by up to 50% and prolongs Tmax by approximately 1 hour but does not alter AUC as compared with the fasted state.
 These changes are not considered to be clinically meaningful and dapagliflozin can be administered with or without food.
 
 ### Distribution
@@ -95,9 +96,9 @@ No dose adjustments are recommended for dapagliflozin.
 
 Table 6: Effects of Coadministered Drugs on Dapagliflozin Systemic Exposure
 
-| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
-| --- | --- | --- | --- |
 | Coadministered Drug (Dose Regimen)Single dose unless otherwise noted. | Dapagliflozin (Dose Regimen) | Effect on Dapagliflozin Exposure (% Change [90% CI]) |  |
+| --- | --- | --- | --- |
+| Cmax | AUCAUC = AUC(INF) for drugs given as single dose and AUC = AUC(TAU) for drugs given in multiple doses. |  |  |
 | No dosing adjustments required for the following: |  |  |  |
 | Oral Antidiabetic Agents |  |  |  |
 | Metformin (1000 mg) | 20 mg | ↔ | ↔ |

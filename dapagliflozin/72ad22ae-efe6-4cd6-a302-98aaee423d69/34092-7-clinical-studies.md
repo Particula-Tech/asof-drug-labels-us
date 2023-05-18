@@ -73,9 +73,9 @@ The combination treatment of FARXIGA 5 mg plus metformin XR provided statistical
 
 Table 10: Results at Week 24 (LOCFLOCF: last observation (prior to rescue for rescued patients) carried forward.) in an Active-Controlled Study of FARXIGA Initial Combination Therapy with Metformin XR
 
-|  | N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=203 | N=201 |
+| Efficacy Parameter | FARXIGA 5 mg + Metformin XR | FARXIGA 5 mg | MetforminXR |
 | --- | --- | --- | --- |
-| Efficacy Parameter | FARXIGA 5 mg + Metformin XR | FARXIGA 5 mg | Metformin XR |
+|  | N=194All randomized patients who took at least one dose of double-blind study medication during the short-term double-blind period. | N=203 | N=201 |
 | HbA1c (%) |  |  |  |
 | Baseline (mean) | 9.2 | 9.1 | 9.1 |
 | Change from baseline (adjusted meanLeast squares mean adjusted for baseline value.) | −2.1 | −1.2 | −1.4 |
@@ -186,7 +186,7 @@ Endpoints were tested for FARXIGA 10 mg versus placebo for the total study group
 Thirty-seven percent (37%) of patients were drug naive, 32% were on metformin alone, 13% were on a DPP4 inhibitor alone, and 18% were on a DPP4 inhibitor plus metformin.
 Dose titration of FARXIGA, sitagliptin, or metformin was not permitted during the study.
 
-In combination with sitagliptin (with or without metformin), FARXIGA 10 mg provided statistically significant improvements in HbA1c, FPG, and a statistically significant reduction in body weight compared with the placebo plus sitagliptin (with or without metformin) group at Week 24 (see Table 13).
+In combination with sitagliptin (with or without metformin), FARXIGA 10 mg provided statistically significant improvements in HbA1c, FPG, and a statistically significant reduction in body weight compared with the placebo plus sitagliptin (with or without metformin) group at Week 24 (see Table 12).
 These improvements were also seen in the stratum of patients who received FARXIGA 10 mg plus sitagliptin alone (placebo-corrected mean change for HbA1c -0.56%; n=110) compared with placebo plus sitagliptin alone (n=111), and the stratum of patients who received FARXIGA 10 mg plus sitagliptin and metformin (placebo-corrected mean change for HbA1c -0.40; n=113) compared with placebo plus sitagliptin with metformin (n=113).
 
 #### Add-On Combination Therapy with Insulin
@@ -358,7 +358,7 @@ Table 15: Treatment Effects for the Primary EndpointsFull analysis set. and thei
 | Primary Endpoints |  |  |  |
 | Composite of Hospitalization for Heart Failure, CV Deathp-value =0.005 versus placebo. | 417 (4.9) | 496 (5.8) | 0.83 (0.73, 0.95) |
 | Composite Endpoint of CV Death, MI, Ischemic Stroke | 756 (8.8) | 803 (9.4) | 0.93 (0.84, 1.03) |
-| Components of the composite endpointstotal number of events presented for each component of the composite endpoints. |  |  |  |
+| Components of the composite endpointsTotal number of events presented for each component of the composite endpoints. |  |  |  |
 | Hospitalization for Heart Failure | 212 (2.5) | 286 (3.3) | 0.73 (0.61, 0.88) |
 | CV Death | 245 (2.9) | 249 (2.9) | 0.98 (0.82, 1.17) |
 | Myocardial Infarction | 393 (4.6) | 441 (5.1) | 0.89 (0.77, 1.01) |
@@ -369,94 +369,19 @@ Figure 4: Time to First Occurrence of Hospitalization for Heart Failure or CV De
 
 Figure 5: Time to First Occurrence of Hospitalization for Heart Failure in the DECLARE Study
 
-## 14.3 Heart Failure with Reduced Ejection Fraction
-
-Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled study in patients with heart failure (New York Heart Association [NYHA] functional class II-IV) with reduced ejection fraction (left ventricular ejection fraction [LVEF] 40% or less) to determine whether FARXIGA reduces the risk of cardiovascular death and hospitalization for heart failure.
-
-Of 4744 patients, 2373 were randomized to FARXIGA 10 mg and 2371 to placebo and were followed for a median of 18 months.
-The mean age of the study population was 66 years, 77% were male and 70% were White, 5% Black or African-American, and 24% Asian.
-
-At baseline, 68% patients were classified as NYHA class II, 32% class III, and 1% class IV; median LVEF was 32%.
-History of type 2 diabetes mellitus was present in 42%, and an additional 3% had type 2 diabetes mellitus based on a HbA1c ≥6.5% at both enrollment and randomization.
-
-At baseline, 94% of patients were treated with ACEi, ARB or angiotensin receptor-neprilysin inhibitor (ARNI, including sacubitril/valsartan 11%), 96% with beta-blocker, 71% with mineralocorticoid receptor antagonist (MRA), 93% with diuretic, and 26% had an implantable device.
-
-FARXIGA reduced the incidence of the primary composite endpoint of CV death, hospitalization for heart failure or urgent heart failure visit (HR 0.74 [95% CI 0.65, 0.85]; p<0.0001).
-All three components of the primary composite endpoint individually contributed to the treatment effect.
-The FARXIGA and placebo event curves separated early and continued to diverge over the study period (Table 16, Figures 6A, 6B and 6C).
-
-Table 16: Treatment Effect for the Primary Composite EndpointFull analysis set., its Components and All-Cause Mortality in the DAPA-HF Study
-
-| Efficacy Variable (time to first occurrence) | FARXIGA 10 mg N=2373 | Placebo N=2371 | Hazard ratio (95% CI) | p-valueTwo-sided p-values. |
-| --- | --- | --- | --- | --- |
-|  | Patients with events (event rate) |  |  |  |
-| Composite of Hospitalization for Heart Failure, CV Death or Urgent Heart Failure Visit | 386 (11.6) | 502 (15.6) | 0.74 (0.65, 0.85) | <0.0001 |
-| Composite of CV Death or Hospitalization for Heart Failure | 382 (11.4) | 495 (15.3) | 0.75 (0.65, 0.85) | <0.0001 |
-| Components of the composite endpoints |  |  |  |  |
-| CV Death | 227 (6.5) | 273 (7.9) | 0.82 (0.69, 0.98) |  |
-| Hospitalization for Heart Failure or Urgent Heart Failure Visit | 237 (7.1) | 326 (10.1) | 0.70 (0.59, 0.83) |  |
-| Hospitalization for Heart Failure | 231 (6.9) | 318 (9.8) | 0.70 (0.59, 0.83) |  |
-| Urgent Heart Failure Visit | 10 (0.3) | 23 (0.7) | 0.43 (0.20, 0.90) |  |
-| All-Cause Mortality | 276 (7.9) | 329 (9.5) | 0.83 (0.71, 0.97) |  |
-| N=Number of patients, CI=Confidence interval, CV=Cardiovascular. |  |  |  |  |
-
-NOTE: Time to first event was analyzed in a Cox proportional hazards model.
-The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
-Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
-
-Figure 6: Kaplan-Meier Curves for the Primary Composite Endpoint (A), Cardiovascular Death (B), and Heart Failure Hospitalization (C) (DAPA-HF Study)
-
-Figure 6A: Time to the First Occurrence of the Composite of Cardiovascular Death, Hospitalization for Heart Failure or Urgent Heart Failure Visit
-
-NOTE: An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g., in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
-
-Patients at risk is the number of patients at risk at the beginning of the period.
-
-HR=Hazard ratio, CI=Confidence interval.
-
-Figure 6B: Time to the First Occurrence of Cardiovascular Death
-
-Patients at risk is the number of patients at risk at the beginning of the period.
-
-HR=Hazard ratio, CI=Confidence interval.
-
-Figure 6C: Time to the First Occurrence of Heart Failure Hospitalization
-
-Patients at risk is the number of patients at risk at the beginning of the period.
-
-HR=Hazard ratio, CI=Confidence interval.
-
-FARXIGA reduced the total number of hospitalizations for heart failure (first and recurrent) events and CV death, with 567 and 742 total events in the FARXIGA-treated vs placebo group (Rate Ratio 0.75 [95% CI 0.65, 0.88]; p=0.0002).
-
-The results of the primary composite endpoint were consistent across the subgroups examined, including heart failure patients with and without type 2 diabetes mellitus (Figure 7).
-
-Figure 7: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) Subgroup Analysis (DAPA-HF Study)
-
-aHazard ratio estimates are not presented for subgroups with less than 15 events in total, both arms combined.
-
-n/N# Number of subjects with event/number of subjects in the subgroup.
-
-NT-proBNP = N-terminal pro b-type natriuretic peptide, HF = Heart failure, MRA = mineralocorticoid receptor antagonist,
-
-ECG = electrocardiogram, eGFR = estimated glomerular filtration rate.
-
-Note: The figure above presents effects in various subgroups, all of which are baseline characteristics.
-The 95% confidence limits that are shown do not take into account the number of comparisons made and may not reflect the effect of a particular factor after adjustment for all other factors.
-Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
-
-## 14.4 Chronic Kidney Disease
+## 14.3 Chronic Kidney Disease
 
 The Study to Evaluate the Effect of Dapagliflozin on Renal Outcomes and Cardiovascular Mortality in Patients with Chronic Kidney Disease (DAPA-CKD, NCT03036150) was an international, multicenter, randomized, double-blind, placebo-controlled study in patients with chronic kidney disease (CKD) (eGFR between 25 and 75 mL/min/1.73 m2) and albuminuria (urine albumin creatinine ratio [UACR] between 200 and 5000 mg/g) who were receiving standard of care background therapy, including a maximally tolerated, labeled daily dose of an angiotensin-converting enzyme inhibitor (ACEi) or angiotensin receptor blocker (ARB).
 The trial excluded patients with autosomal dominant or autosomal recessive polycystic kidney disease, lupus nephritis, or ANCA-associated vasculitis and patients requiring cytotoxic, immunosuppressive, or immunomodulatory therapies in the preceding 6 months.
 
-The primary objective was to determine whether FARXIGA reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD) (defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
+The primary objective was to determine whether FARXIGA reduces the incidence of the composite endpoint of ≥50% sustained decline in eGFR, progression to end-stage kidney disease (ESKD) (defined as sustained eGFR <15 mL/min/1.73 m2, initiation of chronic dialysis treatment or renal transplant), CV or renal death.
 
 A total of 4304 patients were randomized equally to FARXIGA 10 mg or placebo and were followed for a median of 28.5 months.
 
 The mean age of the study population was 62 years and 67% were male.
 The population was 53% White, 4% Black or African-American, and 34% Asian; 25% were of Hispanic or Latino ethnicity.
 
-At baseline, mean eGFR was 43 mL/min/1.73 m2, 44% of patients had an eGFR 30 mL/min/1.73m2 to less than 45 mL/min/1.73m2, and 15% of patients had an eGFR less than 30 mL/min/1.73m2.
+At baseline, mean eGFR was 43 mL/min/1.73 m2, 44% of patients had an eGFR 30 mL/min/1.73 m2 to less than 45 mL/min/1.73 m2, and 15% of patients had an eGFR less than 30 mL/min/1.73 m2.
 Median UACR was 950 mg/g.
 A total of 68% of the patients had type 2 diabetes mellitus at randomization.
 The most common etiologies of CKD were diabetic nephropathy (58%), ischemic/hypertensive nephropathy (16%), and IgA nephropathy (6%).
@@ -467,20 +392,20 @@ Approximately 44% were taking antiplatelet agents, and 65% were on a statin.
 FARXIGA reduced the incidence of the primary composite endpoint of ≥50% sustained decline in eGFR, progression to ESKD, CV or renal death (HR 0.61 [95% CI 0.51,0.72]; p<0.0001).
 The FARXIGA and placebo event curves separate by Month 4 and continue to diverge over the study period.
 The treatment effect reflected a reduction in ≥50% sustained decline in eGFR, progression to ESKD, and CV death.
-There were few renal deaths during the trial (Table 17, Figure 8).
+There were few renal deaths during the trial (Table 16, Figure 6).
 
 FARXIGA also reduced the incidence of the composite endpoint of CV death or hospitalization for heart failure (HR 0.71 [95% CI 0.55, 0.92], p=0.0089) and all-cause mortality (HR 0.69 [95% CI 0.53, 0.88], p=0.0035).
 
-Table 17: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints, in the DAPA-CKD Study
+Table 16: Treatment Effect for the Primary Composite Endpoint, its Components, and Secondary Composite Endpoints, in the DAPA-CKD Study
 
 |  | Patients with events (event rate) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Efficacy Variable(time to first occurrence) | FARXIGA 10 mg N=2152 | Placebo N=2152 | Hazard ratio (95% CI) | p-value |
 | Composite of ≥50% sustained eGFR decline, ESKD, CV or renal death | 197 (4.6) | 312 (7.5) | 0.61 (0.51, 0.72) | <0.0001 |
 | ≥50% sustained eGFR decline | 112 (2.6) | 201 (4.8) | 0.53 (0.42, 0.67) |  |
-| ESKDESKD is defined as sustained eGFR<15 mL/min/1.73 m2, initiation of chronic dialysis treatment, or transplant. | 109 (2.5) | 161 (3.8) | 0.64 (0.50, 0.82) |  |
+| ESKDESKD is defined as sustained eGFR <15 mL/min/1.73 m2, initiation of chronic dialysis treatment, or transplant. | 109 (2.5) | 161 (3.8) | 0.64 (0.50, 0.82) |  |
 | CV Death | 65 (1.4) | 80 (1.7) | 0.81 (0.58, 1.12) |  |
-| Renal Death | 2 (0.0) | 6 (0.1) |  |  |
+| Renal Death | 2 (<0.1) | 6 (0.1) |  |  |
 | ≥50% sustained eGFR decline, ESKD or renal death | 142 (3.3) | 243 (5.8) | 0.56 (0.45, 0.68) | <0.0001 |
 | CV death or Hospitalization for Heart Failure | 100 (2.2) | 138 (3.0) | 0.71 (0.55, 0.92) | 0.0089 |
 | Hospitalization for Heart Failure | 37 (0.8) | 71 (1.6) | 0.51 (0.34, 0.76) |  |
@@ -488,7 +413,7 @@ Table 17: Treatment Effect for the Primary Composite Endpoint, its Components, a
 | N=Number of patients, CI=Confidence interval, CV=Cardiovascular, ESKD=End stage kidney disease. |  |  |  |  |
 | NOTE: Time to first event was analyzed in a Cox proportional hazards model. Event rates are presented as the number of subjects with event per 100 patient years of follow-up.There were too few events of renal death to compute a reliable hazard ratio. |  |  |  |  |
 
-Figure 8: Time to First Occurrence of the Primary Composite Endpoint, ≥50% Sustained Decline in eGFR, ESKD, CV or Renal Death (DAPA-CKD Study)
+Figure 6: Time to First Occurrence of the Primary Composite Endpoint, ≥50% Sustained Decline in eGFR, ESKD, CV or Renal Death (DAPA-CKD Study)
 
 Patients at risk is the number of subjects at risk at the beginning of the period.
 1 month corresponds to 30 days.
@@ -501,3 +426,126 @@ The results of the primary composite endpoint were consistent across the subgrou
 
 DAPA-CKD enrolled a population with relatively advanced CKD at high risk of progression.
 Exploratory analyses of a randomized, double-blind, placebo-controlled trial conducted to determine the effect of FARXIGA on CV outcomes (the DECLARE trial) support the conclusion that FARXIGA is also likely to be effective in patients with less advanced CKD.
+
+## 14.4 Heart Failure
+
+The efficacy and safety of FARXIGA 10 mg were assessed independently in two Phase 3 studies in patients with heart failure.
+
+Dapagliflozin And Prevention of Adverse outcomes in Heart Failure (DAPA-HF, NCT03036124) was an international, multicenter, randomized, double-blind, placebo-controlled study in patients with heart failure (New York Heart Association [NYHA] functional class II-IV) with reduced ejection fraction (left ventricular ejection fraction [LVEF] 40% or less) to determine whether FARXIGA reduces the risk of cardiovascular death and hospitalization for heart failure.
+Of 4744 patients, 2373 were randomized to FARXIGA 10 mg and 2371 to placebo and were followed for a median of 18 months.
+
+Dapagliflozin Evaluation to Improve the LIVEs of Patients with PReserved Ejection Fraction Heart Failure (DELIVER, NCT03619213) was an international, multicenter, randomized, double-blind, placebo-controlled study in patients aged ≥40 years with heart failure (NYHA class II-IV) with LVEF >40% and evidence of structural heart disease to determine whether FARXIGA reduces the risk of cardiovascular death, hospitalization for heart failure or urgent heart failure visits.
+Of 6263 patients, 3131 were randomized to FARXIGA 10 mg and 3132 to placebo and were followed for a median of 28 months.
+The study included 654 (10%) heart failure patients who were randomized during hospitalization for heart failure or within 30 days of discharge.
+
+In DAPA-HF, at baseline, 94% of patients were treated with ACEi, ARB or angiotensin receptor-neprilysin inhibitor (ARNI, including sacubitril/valsartan 11%), 96% with beta-blocker, 71% with mineralocorticoid receptor antagonist (MRA), 93% with diuretic, and 26% had an implantable device.
+
+In DELIVER, at baseline, 77% of patients were treated with ACEi, ARB or ARNI, 83% with beta-blocker, 43% with MRA, 98% with diuretic.
+
+In both studies, FARXIGA reduced the incidence of the primary composite endpoint of CV death, hospitalization for heart failure or urgent heart failure visit (see Table 17).
+
+Table 17: Treatment Effect for the Primary Composite EndpointFull analysis set., its Components in the DAPA-HF and DELIVER Studies
+
+|  | DAPA-HF Study |  |  |  | DELIVER Study |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Patients with events (event rate) |  | Hazard ratio (95% CI) | p-valueTwo-sided p-values. | Patients with events (event rate) |  | Hazard ratio (95% CI) | p-value |  |
+| Efficacy Variable(Time to first occurrence) | FARXIGA 10 mg N=2373 | Placebo N=2371 | FARXIGA 10 mg N=3131 | Placebo N=3132 |  |  |  |  |
+| Composite of Hospitalization for Heart Failure, CV DeathIn DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause. In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause. or Urgent Heart Failure Visit | 386 (11.6) | 502 (15.6) | 0.74 (0.65, 0.85) | <0.0001 | 512 (7.8) | 610 (9.6) | 0.82 (0.73, 0.92) | 0.0008 |
+| Components of the composite endpoints |  |  |  |  |  |  |  |  |
+| CV Death | 227 (6.5) | 273 (7.9) | 0.82 (0.69, 0.98) |  | 231 (3.3) | 261 (3.8) | 0.88 (0.74, 1.05) |  |
+| Hospitalization for Heart Failure or Urgent Heart Failure Visit | 237 (7.1) | 326 (10.1) | 0.70 (0.59, 0.83) |  | 368 (5.6) | 455 (7.2) | 0.79 (0.69, 0.91) |  |
+| Hospitalization for Heart Failure | 231 (6.9) | 318 (9.8) | 0.70 (0.59, 0.83) |  | 329 (5.0) | 418 (6.5) | 0.77 (0.67, 0.89) |  |
+| Urgent Heart Failure Visit | 10 (0.3) | 23 (0.7) | 0.43 (0.20, 0.90) |  | 60 (0.9) | 78 (1.1) | 0.76 (0.55, 1.07) |  |
+| N=Number of patients, CI=Confidence interval, CV=Cardiovascular. |  |  |  |  |  |  |  |  |
+
+NOTE: Time to first event was analyzed in a Cox proportional hazards model.
+The number of first events for the single components are the actual number of first events for each component and does not add up to the number of events in the composite endpoint.
+Event rates are presented as the number of subjects with event per 100 patient years of follow-up.
+
+In both studies, all three components of the primary composite endpoint individually contributed to the treatment effect.
+In both studies, the FARXIGA and placebo event curves separated early and continued to diverge over the study period (see Figures 7 and 9).
+
+Figure 7: Time to the First Occurrence of the Composite of Cardiovascular Death*, Hospitalization for Heart Failure or Urgent Heart Failure Visit
+
+A) DAPA-HF Study
+
+B) DELIVER Study
+
+NOTE: An urgent heart failure visit was defined as an urgent, unplanned, assessment by a physician, e.g., in an Emergency Department, and requiring treatment for worsening heart failure (other than just an increase in oral diuretics).
+
+* In DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause.
+In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause.
+
+† Patients at risk is the number of patients at risk at the beginning of the period.
+
+HR=Hazard ratio, CI=Confidence interval, CV=Cardiovascular.
+
+Figure 8: Time to Cardiovascular Death*
+
+A) DAPA-HF Study
+
+B) DELIVER Study
+
+* In DAPA-HF, the CV death component of the primary endpoint included death of undetermined cause.
+In DELIVER, the CV death component of the primary endpoint excluded death of undetermined cause.
+
+† Patients at risk is the number of patients at risk at the beginning of the period.
+
+HR=Hazard ratio, CI=Confidence interval, CV=Cardiovascular.
+
+Figure 9: Time to the First Occurrence of Hospitalization for Heart Failure or Urgent Heart Failure Visit
+
+A) DAPA-HF Study
+
+B) DELIVER Study
+
+* Patients at risk is the number of patients at risk at the beginning of the period.
+
+HR=Hazard ratio, CI=Confidence interval.
+
+In DAPA-HF, FARXIGA reduced the total number of hospitalizations for heart failure (first and recurrent) events and CV death, with 567 and 742 total events in the FARXIGA-treated vs placebo group (Rate Ratio 0.75 [95% CI 0.65, 0.88]; p=0.0002).
+
+In DELIVER, FARXIGA reduced the total number of heart failure events (first and recurrent hospitalization for heart failure or urgent heart failure visit) and CV death, with 815 and 1057 total events in the FARXIGA treated vs placebo group (Rate Ratio 0.77 [95% CI 0.67, 0.89]; p=0.0003).
+
+In both studies, the results of the primary composite endpoint were consistent across the subgroups examined (see Figure 10).
+
+Figure 10: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) - Subgroup Analysis
+
+A) DAPA-HF Study
+
+a Hazard ratio estimates are not presented for subgroups with less than 15 events in total, both arms combined.
+
+n/N# Number of subjects with event/number of subjects in the subgroup.
+
+NT-proBNP = N-terminal pro b-type natriuretic peptide, HF = Heart failure, MRA = mineralocorticoid receptor antagonist,
+
+ECG = electrocardiogram, eGFR = estimated glomerular filtration rate.
+
+Note: The figure above presents effects in various subgroups, all of which are baseline characteristics.
+The 95% confidence limits that are shown do not take into account the number of comparisons made and may not reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+B) DELIVER Study
+
+a Subacute patient defined as randomized during hospitalization for heart failure or within 30 days of discharge.
+
+b Defined as history of type 2 diabetes mellitus.
+This analysis does not include type 2 diabetes mellitus as a stratification factor.
+
+n/N# Number of subjects with event/number of subjects in the subgroup.
+
+NT-proBNP = N-terminal pro b-type natriuretic peptide, HF = Heart failure, ECG = electrocardiogram, eGFR = estimated glomerular filtration rate, BMI = body mass index, SBP = systolic blood pressure, T2DM = type 2 diabetes mellitus.
+
+NOTE: The figure above presents effects in various subgroups, all of which are baseline characteristics.
+The 95% confidence limits that are shown do not take into account the number of comparisons made and may not reflect the effect of a particular factor after adjustment for all other factors.
+Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
+
+The treatment effect of FARXIGA on the composite endpoint of cardiovascular death, hospitalization for heart failure or urgent heart failure was consistent across the LVEF range as evaluated in DAPA-HF and DELIVER studies (Figure 11).
+
+Figure 11: Treatment Effects for Primary Composite Endpoint (Cardiovascular Death and Heart Failure Events) by LVEF (DAPA-HF and DELIVER Studies)
+
+* 1 patient in DAPA-HF study had LVEF >40.
+4 patients in DELIVER study had LVEF≤40.
+
+In DAPA-HF study, the 5% and 95% percentiles of LVEF were 20 and 40 respectively.
+In DELIVER study, the 5% and 95% percentiles of LVEF were 42 and 70, respectively.

@@ -2,10 +2,11 @@
 
 FARXIGA (dapagliflozin) is indicated:
 
-- •As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
-- •To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
-- •To reduce the risk of cardiovascular death and hospitalization for heart failure in adults with heart failure (NYHA class II-IV) with reduced ejection fraction.
 - •To reduce the risk of sustained eGFR decline, end-stage kidney disease, cardiovascular death, and hospitalization for heart failure in adults with chronic kidney disease at risk of progression.
+- •To reduce the risk of cardiovascular death, hospitalization for heart failure, and urgent heart failure visit in adults with heart failure.
+- •To reduce the risk of hospitalization for heart failure in adults with type 2 diabetes mellitus and either established cardiovascular disease or multiple cardiovascular risk factors.
+- •As an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
+- 
 
 Limitations of Use
 

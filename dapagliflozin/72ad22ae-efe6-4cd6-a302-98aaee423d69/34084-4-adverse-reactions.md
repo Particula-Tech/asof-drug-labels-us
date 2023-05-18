@@ -84,7 +84,7 @@ Hypoglycemia
 The frequency of hypoglycemia by study in patients with type 2 diabetes mellitus [see Clinical Studies (14.1)] is shown in Table 4.
 Hypoglycemia was more frequent when FARXIGA was added to sulfonylurea or insulin [see Warnings and Precautions (5.4)].
 
-Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were defined as episodes of severe impairment in consciousness or behavior, requiring external (third party) assistance, and with prompt recovery after intervention regardless of glucose level. and Hypoglycemia with Glucose <54 mg/dLEpisodes of hypoglycemia with glucose <54 mg/dL (3 mmol/L) were defined as reported episodes of hypoglycemia meeting the glucose criteria that did not also qualify as a severe episode. in Controlled Glycemic Control Clinical Studies in Patients with Type 2 Diabetes Mellitus
+Table 4: Incidence of Severe HypoglycemiaSevere episodes of hypoglycemia were defined as episodes of severe impairment in consciousness or behavior, requiring external (third party) assistance, and with prompt recovery after intervention regardless of glucose level. and Hypoglycemia with Glucose < 54 mg/dLEpisodes of hypoglycemia with glucose <54 mg/dL (3 mmol/L) were defined as reported episodes of hypoglycemia meeting the glucose criteria that did not also qualify as a severe episode. in Controlled Glycemic Control Clinical Studies in Patients with Type 2 Diabetes Mellitus
 
 |  | Placebo/Active Control | FARXIGA 5 mg | FARXIGA 10 mg |
 | --- | --- | --- | --- |
@@ -159,9 +159,9 @@ Decrease in Serum Bicarbonate
 
 In a study of concomitant therapy of FARXIGA 10 mg with exenatide extended-release (on a background of metformin), four patients (1.7%) on concomitant therapy had a serum bicarbonate value of less than or equal to 13 mEq/L compared to one each (0.4%) in the FARXIGA and exenatide-extended release treatment groups [see Warnings and Precautions (5.1)].
 
-DAPA-HF Heart Failure Study
+DAPA-HF and DELIVER Heart Failure Studies
 
-No new adverse reactions were identified in the DAPA-HF heart failure study.
+No new adverse reactions were identified in the DAPA-HF and DELIVER heart failure studies.
 
 DAPA-CKD Chronic Kidney Disease Study
 
