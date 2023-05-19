@@ -34,13 +34,13 @@ The pharmacokinetic parameters of CALDOLOR determined in a study with volunteers
 
 Table 4: Pharmacokinetic Parameters of Intravenous Ibuprofen
 
-|  | 400 mg* CALDOLOR Mean (CV%) | 800 mg* CALDOLOR Mean (CV%) |
+|  | 400 mg* CALDOLOR Mean (SD) | 800 mg* CALDOLOR Mean (SD) |
 | --- | --- | --- |
 | Number of Patients | 12 | 12 |
-| AUC (mcg·h/mL) | 109.3 (26.4) | 192.8 (18.5) |
-| Cmax (mcg/mL) | 39.2 (15.5) | 72.6 (13.2) |
-| KEL (1/h) | 0.32 (17.9) | 0.29 (12.8) |
-| T1/2 (h) | 2.22 (20.1) | 2.44 (12.9) |
+| AUC (mcg·h/mL) | 109.3 (28.9) | 192.8 (35.7) |
+| Cmax (mcg/mL) | 39.2 (6.09) | 72.6 (9.61) |
+| KEL (1/h) | 0.32 (0.06) | 0.29 (0.04) |
+| T1/2 (h) | 2.22 (0.45) | 2.44 (0.31) |
 | AUC = Area-under-the-curve |  |  |
 | Cmax = Peak plasma concentration |  |  |
 | CV = Coefficient of Variation |  |  |
@@ -50,23 +50,19 @@ Table 4: Pharmacokinetic Parameters of Intravenous Ibuprofen
 
 The pharmacokinetic parameters of CALDOLOR determined in a study with febrile pediatric patients are presented in Table 5.
 It was observed that the median Tmax was at the end of the infusion and that CALDOLOR had a shorter elimination half-life in pediatric patients compared to adults.
-The volume of distribution and clearance increased with age.
 
-Table 5: Pharmacokinetic Parameters of 10 mg/kg Intravenous Ibuprofen, Pediatric Patients, by Age Group
+Table 5: Pharmacokinetic Parameters of 10 mg/kg Intravenous** Ibuprofen, Pediatric Patients, by Age Group
 
-|  | 6 months to <2 years Mean (CV%) | 2 years to <6 years Mean (CV%) | 6 years to 16 years Mean (CV%) |
-| --- | --- | --- | --- |
-| Number of Patients | 5 | 12 | 25 |
-| AUC (mcg·h/mL) | 71.1 (37.1) | 79.2 (37.0) | 80.7 (36.9) |
-| Cmax (mcg/mL) | 59.2 (34.8) | 64.2 (34.3) | 61.9 (26.6) |
-| Tmax (min)* | 10 (10-30) | 12 (10-46) | 10 (10-40) |
-| T1/2 (h) | 1.8 (29.9) | 1.5 (41.8) | 1.55 (26.4) |
-| Cl (mL/h) | 1172.5 (38.9) | 1967.3 (56.0) | 4878.5 (71.0) |
-| Vz (mL) | 2805.7 (20.1) | 3695.8 (30.0) | 10314.2 (67.4) |
-| Cl/WT# (mL/hr/kg) | 133.7 (58.6) | 130.1 (82.4) | 109.2 (41.6) |
-| Vz/WT# (mL/kg) | 311.2 (35.4) | 227.2 (41.7) | 226.8 (30.4) |
-| *Median (minimum-maximum) |  |  |  |
-| #WT: body weight (kg) |  |  |  |
+|  | 3 months to <6 months^ Mean (SD) | 6 months to <2 years Mean (SD) | 2 years to <6 years Mean (SD) | 6 years to 16 years Mean (SD) |
+| --- | --- | --- | --- | --- |
+| Number of Patients | 20 | 5 | 12 | 25 |
+| AUC (mcg·h/mL) | 69.63 (19.28) | 71.1 (26.4) | 79.2 (29.3) | 80.7 (29.8) |
+| Cmax (mcg/mL) | 59.75 (12.85) | 59.2 (20.6) | 64.2 (22.1) | 61.9 (16.5) |
+| Tmax (min)* | 10 | 10 (10-30) | 12 (10-46) | 10 (10-40) |
+| T1/2 (h) | 1.3 | 1.8 (0.5) | 1.5 (0.6) | 1.55 (0.41) |
+| *Median (minimum-maximum) |  |  |  |  |
+| ^Open-label study with hospitalized pediatric patients with pain or fever |  |  |  |  |
+| **= 10 minute infusion time |  |  |  |  |
 
 Ibuprofen, like most NSAIDs, is highly protein bound (>99% bound at 20 mcg/mL).
 Protein binding is saturable, and at concentrations >20 mcg/mL binding is nonlinear.

@@ -95,9 +95,10 @@ Consider withdrawal of NSAIDs, including CALDOLOR in women who have difficulties
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of CALDOLOR for the treatment of pain and fever in pediatric patients ages 6 months and older is supported by evidence of fever reduction from a multi-center, open-label study of hospitalized febrile pediatric patients along with safety data from exposure to CALDOLOR in 143 pediatric patients ages 6 months and older in two pediatric fever studies and one pediatric pain study, supportive data from other ibuprofen products approved in pediatric patients, and evidence from adequate and well controlled studies in adults.
-The effectiveness of CALDOLOR for the treatment of pain and fever has not been studied in pediatric patients less than 6 months of age.
-[see DOSAGE AND ADMINISTRATION (2), Clinical Study Experience (6.1), Pharmacokinetics (12.3), CLINICAL STUDIES (14)].
+The safety and effectiveness of CALDOLOR have been established for the treatment of pain and fever in pediatric patients aged 3 months and older.
+Use of CALDOLOR for these indications is supported by evidence from one open-label and acetaminophen controlled study of fever and additional safety data from four studies in 164 pediatric patients, supportive pediatric data from other approved ibuprofen products, and evidence from adequate and well-controlled studies in adults [see Dosage and Administration (2), Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14)].
+
+Safety and effectiveness of CALDOLOR in pediatric patients less than 3 months of age for treatment of pain and fever have not been established.
 
 ## 8.5 Geriatric Use
 

@@ -83,3 +83,5 @@ Pediatric Population
 
 A total of 143 pediatric patients ages 6 months and older have received CALDOLOR in controlled clinical trials.
 The most common adverse reactions (incidence greater than or equal to 2%) in pediatric patients treated with CALDOLOR were infusion site pain, vomiting, nausea, anemia and headache.
+
+Twenty-one hospitalized patients ages 3 months to less than 6 months were treated with CALDOLOR for pain or fever in an open-label, non-controlled clinical study; 18 of 21 patients were treated with a single dose.

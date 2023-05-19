@@ -6,7 +6,9 @@ Use the lowest effective dosage for the shortest duration consistent with indivi
 
 After observing the response to initial therapy with CALDOLOR, the dose and frequency should be adjusted to suit an individual patient's needs.
 Do not exceed 3200 mg total daily dose in adults.
-Do not exceed 40 mg/kg or 2,400 mg, whichever is less, total daily dose in pediatric patients less than 17 years of age.
+Do not exceed 40 mg/kg or 2,400 mg, whichever is less, total daily dose in pediatric patients less thanup 6 months to 17 years of age.
+
+The dosage is limited to a single dose not to exceed 10 mg/kg or 100 mg, whichever is less, in pediatric patients 3 months to less than 6 months of age.
 
 To reduce the risk of renal adverse reactions, patients must be well hydrated prior to administration of CALDOLOR.
 
@@ -51,9 +53,9 @@ Ages 12 to 17 years
 
 The dose is 400 mg intravenously every 4 to 6 hours as necessary.
 Infusion time must be at least 10 minutes.
-Maximum daily dose is 2,400 mg.
+Maximum daily dose is 40 mg/kg or 2,400 mg, whichever is less.
 
-Ages 6 months to 12 years
+Ages 6 months to less than 12 years
 
 The dose is 10 mg/kg intravenously up to a maximum single dose of 400 mg every 4 to 6 hours as necessary.
 Infusion time must be at least 10 minutes.
@@ -64,5 +66,10 @@ Pediatric Dosing as Necessary for Fever and Pain
 | Age Group | Dose | Dosing Interval | Min infusion time | Max daily dose |
 | --- | --- | --- | --- | --- |
 | 6 months to less than 12 years | 10 mg/kg up to 400 mg max | Every 4 to 6 hours as necessary | 10 minutes | *40 mg/kg or 2,400 mg |
-| 12 to 17 years | 400 mg | Every 4 to 6 hours as necessary | 10 minutes | 2,400 mg |
-| * Maximum daily dose is 40 mg/kg or 2,400 mg, whichever is less |  |  |  |  |
+| 12 to 17 years | 400 mg | Every 4 to 6 hours as necessary | 10 minutes | *40 mg/kg or 2,400 mg |
+| * Maximum daily dose is 40 mg/kg or 2,400 mg, whichever is less. |  |  |  |  |
+
+Ages 3 months to less than 6 months
+
+The dose is a single dose at 10 mg/kg intravenously up to a maximum single dose of 100 mg.
+Infusion time must be at least 10 minutes.

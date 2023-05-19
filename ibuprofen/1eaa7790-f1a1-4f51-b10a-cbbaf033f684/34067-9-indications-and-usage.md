@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-CALDOLOR is indicated in adults and pediatric patients six months and older for the:
+CALDOLOR is indicated in adults and pediatric patients aged 3 months and older for the:
 
 - management of mild to moderate pain and the management of moderate to severe pain as an adjunct to opioid analgesics
 - reduction of fever

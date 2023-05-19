@@ -29,6 +29,5 @@ In a single-center study, 60 hospitalized patients (48 men, 12 women) with uncom
 There was a significant reduction in fever within the first 24 hours of treatment, measured as the area above the temperature 98.6°F vs. time curve for patients treated with CALDOLOR.
 
 In a multi-center, open-label study, 100 hospitalized pediatric patients 6 months of age and older with temperatures of 101.0ºF or greater were randomized and treated with 10 mg/kg of CALDOLOR or a low dose of an active comparator every 4 hours as needed for fever.
-
 Efficacy was demonstrated as a statistically significant greater reduction in temperature for the primary endpoint, an area under the curve analyses of temperature versus time for the first 2 hours, as well as over the entire dosing interval.
 Seventy-four percent of CALDOLOR treated patients became afebrile (temperature <99.5ºF) by the end of first dosing interval.
