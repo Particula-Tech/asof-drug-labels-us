@@ -186,15 +186,16 @@ For women known to have residual endometriosis post-hysterectomy, the addition o
 
 ## 5.16 Anaphylactic Reaction and Angioedema
 
-1. Cases of anaphylaxis, which develop within minutes to hours after taking orally-administered PREMARIN and require emergency management, have been reported in the postmarketing setting.
-   Skin (hives, pruritus, swollen lips-tongue-face) and either respiratory tract (respiratory compromise) or gastrointestinal tract (abdominal pain, vomiting) involvement has been noted.
-2. Angioedema involving the tongue, larynx, face, and feet requiring medical intervention has occurred postmarketing in patients taking orally-administered PREMARIN.
-   If angioedema involves the tongue, glottis, or larynx, airway obstruction may occur.
-   Patients who develop an anaphylactic reaction with or without angioedema after treatment with oral PREMARIN should not receive oral PREMARIN again.
+Cases of anaphylaxis, which develop within minutes to hours after taking orally-administered PREMARIN and require emergency management, have been reported in the postmarketing setting.
+Skin (hives, pruritus, swollen lips-tongue-face) and either respiratory tract (respiratory compromise) or gastrointestinal tract (abdominal pain, vomiting) involvement has been noted.
+
+Angioedema involving the tongue, larynx, face, and feet requiring medical intervention has occurred postmarketing in patients taking orally-administered PREMARIN.
+If angioedema involves the tongue, glottis, or larynx, airway obstruction may occur.
+Patients who develop an anaphylactic reaction with or without angioedema after treatment with oral PREMARIN should not receive oral PREMARIN again.
 
 ## 5.17 Hereditary Angioedema
 
-1. Exogenous estrogens may exacerbate symptoms of angioedema in women with hereditary angioedema.
+Exogenous estrogens may exacerbate symptoms of angioedema in women with hereditary angioedema.
 
 ## 5.18 Exacerbation of Other Conditions
 

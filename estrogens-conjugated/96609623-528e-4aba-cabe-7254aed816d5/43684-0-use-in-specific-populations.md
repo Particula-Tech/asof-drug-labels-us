@@ -25,7 +25,7 @@ The Women's Health Initiative Studies
 
 In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Warnings and Precautions (5.2), and Clinical Studies (14.2)].
 
-1. In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Warnings and Precautions (5.2, 5.3), and Clinical Studies (14.2)].
+In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Warnings and Precautions (5.2, 5.3), and Clinical Studies (14.2)].
 
 The Women's Health Initiative Memory Study
 

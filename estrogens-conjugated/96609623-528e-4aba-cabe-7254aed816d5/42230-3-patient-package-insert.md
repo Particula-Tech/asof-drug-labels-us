@@ -64,11 +64,12 @@ PREMARIN Vaginal Cream is a cream that you place in your vagina with the applica
 | Figure B |
 | --- |
 
-1. Step 4.
-   Unscrew applicator from tube.
-2. •Step 5.
-   Lie on back with knees drawn up.
-   To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position (Figure C).
+- Step 4.
+  Unscrew applicator from tube.
+
+- •Step 5.
+  Lie on back with knees drawn up.
+  To deliver medication, gently insert applicator deeply into vagina and press plunger downward to its original position (Figure C).
 
 | Figure C |
 | --- |
