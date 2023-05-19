@@ -25,7 +25,7 @@ Table 2: Adverse Reactions Reported by Greater Than 1% of Subjects With Plaque P
 
 |  | COSENTYX |  |  |
 | --- | --- | --- | --- |
-| Adverse Reactions | 300 mg (N = 691) n (%) | 150 mg (N = 692) n (%) | Placebo (N = 694) n (%) |
+| Adverse reactions | 300 mg (N = 691) n (%) | 150 mg (N = 692) n (%) | Placebo (N = 694) n (%) |
 | Nasopharyngitis | 79 (11.4) | 85 (12.3) | 60 (8.6) |
 | Diarrhea | 28 (4.1) | 18 (2.6) | 10 (1.4) |
 | Upper respiratory tract infection | 17 (2.5) | 22 (3.2) | 5 (0.7) |
@@ -57,7 +57,7 @@ Most cases of secukinumab-associated neutropenia were transient and reversible.
 No serious infections were associated with cases of neutropenia.
 
 In the open-label extension of Trials PsO1 and PsO2, neutropenia (ANC < 1 x109/L) was reported in 1% of COSENTYX treated subjects (0.3 per 100 patient-years).
-Some cases of serious infections were associated with neutropenia; however the causal relationship was not established.
+Some cases of serious infections were associated with neutropenia; however, the causal relationship was not established.
 
 Inflammatory Bowel Disease
 
@@ -123,7 +123,7 @@ Non-Radiographic Axial Spondyloarthritis
 
 COSENTYX was studied in one randomized, double-blind, placebo-controlled nr-axSpA trial with 555 patients (185 patients on with load COSENTYX, 184 patients on without load COSENTYX and 186 patients on placebo).
 The safety profile for patients with nr-axSpA treated with COSENTYX was overall similar to the safety profile seen in patients with AS and other previous experience with COSENTYX.
-Patients in nr-axSpA1 study who received the loading dosing regimen compared to those without the loading regimen, had higher incidence of infections and infestations (92 per 100 patient-years vs 72 per 100 patient years), including nasopharyngitis, upper respiratory tract infection and urinary tract infection, and gastrointestinal disorders (27 per 100 patient-years vs 22 per 100 patient-years), including gastritis, lower abdominal pain, colitis, diarrhea, and hematochezia.
+Patients in nr-axSpA1 study who received the loading dosing regimen compared to those without the loading regimen, had higher incidence of infections and infestations (92 per 100 patient-years vs 72 per 100 patient-years), including nasopharyngitis, upper respiratory tract infection and urinary tract infection, and gastrointestinal disorders (27 per 100 patient-years vs 22 per 100 patient-years), including gastritis, lower abdominal pain, colitis, diarrhea, and hematochezia.
 
 Juvenile Psoriatic Arthritis and Enthesitis-Related Arthritis
 

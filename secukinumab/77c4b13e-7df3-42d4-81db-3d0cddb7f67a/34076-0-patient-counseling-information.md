@@ -13,7 +13,7 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 Risk of Hypersensitivity in Latex-Sensitive Individuals
 
-Advise latex-sensitive patients that the removal caps of the COSENTYX Sensoready pen and the COSENTYX 1 mL and 0.5 mL prefilled syringes contain natural rubber latex, which may cause an allergic reaction in latex-sensitive individuals [see Warnings and Precautions (5.5)].
+Advise latex-sensitive patients that the removal caps of the COSENTYX 150 mg/mL Sensoready pen and the COSENTYX 1 mL and 0.5 mL prefilled syringes contain natural rubber latex, which may cause an allergic reaction in latex-sensitive individuals [see Warnings and Precautions (5.5)].
 
 Immunization
 
@@ -22,11 +22,11 @@ Instruct patients to inform the healthcare practitioner that they are taking COS
 
 Instructions on Injection Technique
 
-If a patient or caregiver is to administer COSENTYX using the Sensoready pen or the prefilled syringe, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.6), Medication Guide and Instructions for Use].
+If a patient or caregiver is to administer COSENTYX using the UnoReady pen, Sensoready pen or the prefilled syringe, instruct him/her in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of COSENTYX [see Dosage and Administration (2.7, 2.8, 2.9), Medication Guide and Instructions for Use].
 
-For pediatric patients, inform patients and caregivers that pediatric patients should not self-administer COSENTYX using the pre-filled syringe or the Sensoready pen.
+For pediatric patients, inform patients and caregivers that pediatric patients should not self-administer COSENTYX.
 
-Instruct patients or caregivers in the technique of proper syringe and needle disposal, and advise them not to reuse these items.
+Instruct patients or caregivers in the technique of proper syringe and needle disposal and advise them not to reuse these items.
 Instruct patients to inject the full amount of COSENTYX according to the directions provided in the Medication Guide and Instructions for Use.
 
 Manufactured by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
@@ -35,4 +35,4 @@ US License Number 1244
 
 © Novartis
 
-T2021-162
+T2023-17

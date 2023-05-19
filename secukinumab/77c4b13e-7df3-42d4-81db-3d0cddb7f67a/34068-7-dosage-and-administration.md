@@ -2,18 +2,19 @@
 
 ## 2.1 Testing and Procedures Prior to Treatment Initiation
 
-- Perform the following evaluations prior to COSENTYX initiation:
-  - Evaluate patients for tuberculosis (TB) infection.
-    COSENTYX initiation is not recommended in patients with active TB infection.
-    Initiate treatment of latent TB prior to initiation of COSENTYX [see Warnings and Precautions (5.2)].
-  - Complete all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with COSENTYX [see Warnings and Precautions (5.6)].
+Perform the following evaluations prior to COSENTYX initiation:
+
+- Evaluate patients for tuberculosis (TB) infection.
+  COSENTYX initiation is not recommended in patients with active TB infection.
+  Initiate treatment of latent TB prior to initiation of COSENTYX [see Warnings and Precautions (5.2)].
+- Complete all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with COSENTYX [see Warnings and Precautions (5.6)].
 
 ## 2.2 Plaque Psoriasis
 
 Adults
 
 The recommended dosage is 300 mg by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 followed by 300 mg every 4 weeks.
-Each 300 mg dosage is given as 2 subcutaneous injections of 150 mg.
+Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
 For some patients, a dose of 150 mg may be acceptable.
 
@@ -21,9 +22,9 @@ Pediatric Patients
 
 The recommended dosage for pediatric patients 6 years of age and older is based on body weight (Table 1) and administered by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 followed by dosing every 4 weeks.
 
-Table 1: Recommended Dose of COSENTYX for Pediatric Patients 6 Years of Age and Older with Plaque Psoriasis
+Table 1: Recommended Dose of COSENTYX for Pediatric Patients 6 Years of Age and Older With Plaque Psoriasis
 
-| Body Weight at Time of Dosing | Recommended Dose |
+| Body weight at time of dosing | Recommended dose |
 | --- | --- |
 | Less than 50 kg | 75 mg |
 | Greater than or equal to 50 kg | 150 mg |
@@ -40,13 +41,14 @@ The recommended dosage:
 - With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
 - Without a loading dosage is 150 mg every 4 weeks
 - If a patient continues to have active PsA, consider a dosage of 300 mg every 4 weeks.
+  Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
 Pediatric Patients
 
 The recommended dose based on body weight is administered by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 
-- For patients weighing ≥ 15 kg and < 50 kg the recommended dose is 75 mg
-- For patients weighing ≥ 50 kg the recommended dose is 150 mg
+- For patients weighing ≥ 15 kg and < 50 kg, the recommended dose is 75 mg
+- For patients weighing ≥ 50 kg, the recommended dose is 150 mg
 
 COSENTYX may be administered with or without methotrexate.
 
@@ -58,6 +60,7 @@ The recommended dosage:
 - With a loading dosage is 150 mg at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter
 - Without a loading dosage is 150 mg every 4 weeks
 - If a patient continues to have active AS, consider a dosage of 300 mg every 4 weeks.
+  Each 300 mg dosage is given as one subcutaneous injection of 300 mg or as two subcutaneous injections of 150 mg.
 
 ## 2.5 Non-Radiographic Axial Spondyloarthritis
 
@@ -71,47 +74,38 @@ The recommended dosage:
 
 The recommended dose based on body weight is administered by subcutaneous injection at Weeks 0, 1, 2, 3, and 4 and every 4 weeks thereafter.
 
-- For patients weighing ≥ 15 kg and < 50 kg the recommended dose is 75 mg
-- For patients weighing ≥ 50 kg the recommended dose is 150 mg
+- For patients weighing ≥ 15 kg and < 50 kg, the recommended dose is 75 mg
+- For patients weighing ≥ 50 kg, the recommended dose is 150 mg
 
 ## 2.7 Important Administration Instructions
 
-There are four presentations for COSENTYX (i.e., Sensoready pen, prefilled syringes [150 mg/mL, 75 mg/0.5 mL], and lyophilized powder in vial for reconstitution).
-The COSENTYX “Instructions for Use” for each presentation contains more detailed instructions on the preparation and administration of COSENTYX [see Instructions for Use].
-The lyophilized powder in vial for reconstitution is for healthcare provider use only.
-
+The lyophilized powder in vial for reconstitution is for healthcare provider use only [see Instructions for Use for Health Care Professionals].
 COSENTYX is intended for use under the guidance and supervision of a physician.
 
-Sensoready Pen
+The COSENTYX “Instructions for Use” for each dosage form contains more detailed instructions on the preparation and administration of COSENTYX [see Instructions for Use].
 
-Adult patients may self-administer COSENTYX or be injected by a caregiver after proper training in subcutaneous injection technique using the Sensoready pen.
+UnoReady Pen/Sensoready Pen/Prefilled Syringes
 
-Pediatric patients should not self-administer COSENTYX using the Sensoready pen.
-An adult caregiver should prepare and inject COSENTYX after proper training in subcutaneous injection technique using the Sensoready pen.
+Adult patients may self-administer COSENTYX or be injected by a caregiver after proper training in subcutaneous injection technique.
 
-Prefilled Syringe
-
-Adult patients may self-administer COSENTYX or be injected by a caregiver after proper training in subcutaneous injection technique using the prefilled syringe.
-
-Pediatric patients should not self-administer COSENTYX using the prefilled syringe.
-An adult caregiver should prepare and inject COSENTYX after proper training in subcutaneous injection technique using the prefilled syringe.
+Pediatric patients should not self-administer COSENTYX.
+An adult caregiver should prepare and inject COSENTYX after proper training in subcutaneous injection technique.
 
 Administration Instructions
 
 Administer each injection at a different anatomic location (such as upper arms, thighs, or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, indurated, or affected by psoriasis.
 Administration of COSENTYX in the upper, outer arm may be performed by a caregiver or healthcare provider.
 
-## 2.8 Preparation for Use of COSENTYX Sensoready® Pen and Prefilled Syringe
+## 2.8 Preparation for Use of COSENTYX 300 mg/2 mL UnoReady Pen, 150 mg/mL Sensoready Pen and Prefilled Syringes (300 mg/2 mL, 150 mg/mL, 75 mg/0.5 mL)
 
-Before injection, remove COSENTYX Sensoready pen or COSENTYX prefilled syringe from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes) without removing the needle cap.
+Before injection, remove COSENTYX from the refrigerator and allow COSENTYX to reach room temperature (15 to 30 minutes for the Sensoready pen, the 150 mg/mL and 75 mg/0.5 mL prefilled syringes; 30 to 45 minutes for the UnoReady pen and the 300 mg/2 mL prefilled syringe) without removing the needle cap.
 
-The removable cap of the COSENTYX Sensoready pen and the COSENTYX prefilled syringe contain natural rubber latex and should not be handled by latex-sensitive individuals [see Warnings and Precautions (5.5)].
+The removable cap of the COSENTYX 150 mg/mL Sensoready pen and the COSENTYX prefilled syringes (150 mg/mL, 75 mg/0.5 mL) contain natural rubber latex and should not be handled by latex-sensitive individuals [see Warnings and Precautions (5.5)].
 
 Inspect COSENTYX visually for particulate matter and discoloration prior to administration.
 COSENTYX injection is a clear to slightly opalescent, colorless to slightly yellow solution.
 Do not use if the liquid contains visible particles, is discolored or cloudy.
-COSENTYX does not contain preservatives; therefore, administer the Sensoready pen or prefilled syringe within 1 hour after removal from the refrigerator.
-Discard any unused product remaining in the Sensoready pen or prefilled syringe.
+Discard any unused product.
 
 ## 2.9 Reconstitution and Preparation of COSENTYX Lyophilized Powder
 

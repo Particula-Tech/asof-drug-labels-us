@@ -28,22 +28,23 @@ The pharmacokinetic (PK) properties of secukinumab observed in PsA, AS and nr-ax
 
 Absorption
 
-Following a single subcutaneous dose of either 150 mg (one-half the recommended dose) or 300 mg in plaque psoriasis subjects, secukinumab reached peak mean (± SD) serum concentrations (Cmax) of 13.7 ± 4.8 mcg/mL and 27.3 ± 9.5 mcg/mL, respectively, by approximately 6 days post dose.
+Following a single subcutaneous dose of either 150 mg (one-half the recommended dose) or 300 mg (administered as two injections of 150 mg) in plaque psoriasis subjects, secukinumab reached peak mean (± SD) serum concentrations (Cmax) of 13.7 ± 4.8 mcg/mL and 27.3 ± 9.5 mcg/mL, respectively, by approximately 6 days post dose.
 
-Following multiple subcutaneous doses of secukinumab, the mean (± SD) serum trough concentrations of secukinumab ranged from 22.8 ± 10.2 mcg/mL (150 mg) to 45.4 ± 21.2 mcg/mL (300 mg) at Week 12.
-At the 300 mg dose at Week 4 and Week 12, the mean trough concentrations resulted from the Sensoready pen were 23% to 30% higher than those from the lyophilized powder and 23% to 26% higher than those from the prefilled syringe based on cross-study comparisons.
+Following multiple subcutaneous doses of secukinumab (administered as one or two injections of 150 mg), the mean (± SD) serum trough concentrations of secukinumab ranged from 22.8 ± 10.2 mcg/mL (150 mg) to 45.4 ± 21.2 mcg/mL (300 mg) at Week 12.
+At the 300 mg dose at Week 4 and Week 12, the mean trough concentrations resulted from the 150 mg/mL Sensoready pen were 23% to 30% higher than those from the lyophilized powder and 23% to 26% higher than those from the prefilled syringe based on cross-study comparisons.
+Following multiple subcutaneous doses of 300 mg administered via the 300 mg/2 mL UnoReady pen, the mean serum trough concentrations of secukinumab were generally consistent with those in the previous Sensoready pen study used to deliver 300 mg.
 
 Steady-state concentrations of secukinumab were achieved by Week 24 following the every 4-week dosing regimens.
-The mean (± SD) steady-state trough concentrations ranged from 16.7 ± 8.2 mcg/mL (150 mg) to 34.4 ± 16.6 mcg/mL (300 mg).
+The mean (± SD) steady-state trough concentrations ranged from 16.7 ± 8.2 mcg/mL (150 mg) to 34.4 ± 16.6 mcg/mL (300 mg administered as two injections of 150 mg).
 
-In healthy subjects and subjects with plaque psoriasis, secukinumab bioavailability ranged from 55% to 77% following subcutaneous dose of 150 mg (one-half the recommended dose) or 300 mg.
+In healthy subjects and subjects with plaque psoriasis, secukinumab bioavailability ranged from 55% to 77% following subcutaneous dose of 150 mg (one-half the recommended dose) or 300 mg (administered as two injections of 150 mg).
 
 Distribution
 
 The mean volume of distribution during the terminal phase (Vz) following a single intravenous administration ranged from 7.10 to 8.60 L in plaque psoriasis subjects.
 Intravenous use is not recommended [see Dosage and Administration (2)].
 
-Secukinumab concentrations in interstitial fluid in lesional and non-lesional skin of plaque psoriasis subjects ranged from 27% to 40% of those in serum at 1 and 2 weeks after a single subcutaneous dose of secukinumab 300 mg.
+Secukinumab concentrations in interstitial fluid in lesional and non-lesional skin of plaque psoriasis subjects ranged from 27% to 40% of those in serum at 1 and 2 weeks after a single subcutaneous dose of secukinumab 300 mg (administered as two injections of 150 mg).
 
 Elimination
 

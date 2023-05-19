@@ -29,12 +29,18 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of COSENTYX have been established in pediatric subjects aged 6 years and older with moderate to severe plaque psoriasis [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Pediatric Plaque Psoriasis
+
+The safety and effectiveness of COSENTYX have been established in pediatric patients aged 6 years and older with moderate to severe plaque psoriasis [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 Safety and effectiveness of COSENTYX in pediatric patients with plaque psoriasis below the age of 6 years have not been established.
 
-The safety and effectiveness of COSENTYX have been established in patients weighing 15 kg or more with JPsA (2 years and older) and ERA (4 years and older) [see Adverse Reactions (6.1), Clinical Studies (14.6)].
+Juvenile Psoriatic Arthritis and Enthesitis-Related Arthritis
 
-The safety and effectiveness of COSENTYX in pediatric patients below the age of 2 years and with body weight less than 15 kg have not been established.
+The safety and effectiveness of COSENTYX have been established in pediatric patients weighing 15 kg or more with JPsA (2 years and older) and ERA (4 years and older) [see Adverse Reactions (6.1) and Clinical Studies (14.6)].
+
+The safety and effectiveness of COSENTYX in pediatric patients with JPsA below the age of 2 years and with body weight less than 15 kg have not been established.
+
+The safety and effectiveness of COSENTYX in pediatric patients with ERA below the age of 4 years and with body weight less than 15 kg have not been established.
 
 ## 8.5 Geriatric Use
 

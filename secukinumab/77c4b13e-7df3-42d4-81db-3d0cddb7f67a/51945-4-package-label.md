@@ -47,3 +47,27 @@ Caution: Contains Natural Rubber Latex Which May Cause Allergic Reaction.
 ATTENTION: Dispense with enclosed Medication Guide.
 
 NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-1070-68
+
+Rx only
+
+Cosentyx®
+
+(secukinumab) Injection
+
+Single-dose prefilled UnoReady® Pen
+
+300 mg/2 mL
+
+For Subcutaneous Use Only
+
+1 UnoReady® Pen
+
+ATTENTION: Dispense with enclosed Medication Guide.
+
+Carton contains: • 1 Single-dose prefilled UnoReady® Pen • Prescribing Information • Medication Guide • Instructions for Use
+
+NOVARTIS

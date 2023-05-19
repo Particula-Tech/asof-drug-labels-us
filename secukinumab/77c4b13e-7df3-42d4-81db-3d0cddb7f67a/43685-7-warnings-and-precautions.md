@@ -37,11 +37,11 @@ If an anaphylactic or other serious allergic reaction occurs, administration of 
 
 ## 5.5 Risk of Hypersensitivity in Latex-Sensitive Individuals
 
-The removable caps of the COSENTYX Sensoready pen and the COSENTYX 1 mL and 0.5 mL prefilled syringes contain natural rubber latex, which may cause an allergic reaction in latex-sensitive individuals.
-The safe use of COSENTYX Sensoready pen or prefilled syringe in latex-sensitive individuals has not been studied.
+The removable caps of the COSENTYX 150 mg/mL Sensoready pen and the COSENTYX 1 mL and 0.5 mL prefilled syringes contain natural rubber latex, which may cause an allergic reaction in latex-sensitive individuals.
+The safe use of COSENTYX 150 mg/mL Sensoready pen or 1 mL and 0.5 mL prefilled syringes in latex-sensitive individuals has not been studied.
 
 ## 5.6 Immunizations
 
-Prior to initiating therapy with COSENTYX, consider completion of all age appropriate immunizations according to current immunization guidelines.
+Prior to initiating therapy with COSENTYX, consider completion of all age-appropriate immunizations according to current immunization guidelines.
 COSENTYX may alter a patient's immune response to live vaccines.
 Avoid use of live vaccines in patients treated with COSENTYX [see Clinical Pharmacology (12.2)].
