@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA213079"
+  ],
+  "inn": "tazarotene",
+  "labeler": "Padagis Israel Pharmaceuticals Ltd",
+  "package_ndcs": [
+    "45802-436-01",
+    "45802-436-94",
+    "45802-442-01",
+    "45802-442-94"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "tazarotene",
+      "name": "TAZAROTENE"
+    }
+  ],
+  "setid": "ffd11dee-4266-4201-9573-1e82c2d30a63",
+  "source": "dailymed"
+}
