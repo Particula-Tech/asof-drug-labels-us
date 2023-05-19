@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211413"
+  ],
+  "inn": "cefazolin",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-840-01",
+    "44567-840-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefazolin",
+      "name": "Cefazolin"
+    }
+  ],
+  "setid": "4f3a9248-a354-4c77-bf5b-9eed38f00219",
+  "source": "dailymed"
+}
