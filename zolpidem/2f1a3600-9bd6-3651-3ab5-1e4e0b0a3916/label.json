@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA215721"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-775-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "zolpidem tartrate",
+      "name": "zolpidem tartrate"
+    }
+  ],
+  "setid": "2f1a3600-9bd6-3651-3ab5-1e4e0b0a3916",
+  "source": "dailymed"
+}
