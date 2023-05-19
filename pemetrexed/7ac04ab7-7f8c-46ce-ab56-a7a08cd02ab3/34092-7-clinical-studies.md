@@ -38,7 +38,7 @@ Table 10: Efficacy Results of KEYNOTE-189
 | Hazard ratio* (95% CI) | 0.49 (0.38, 0.64) |  |
 | p-value† | <0.0001 |  |
 | PFS |  |  |
-| Number of patients with event (%) | 244 (60%) | 166 (81%) |
+| Number of patients with event (%) | 245 (60%) | 166 (81%) |
 | Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
 | Hazard ratio* (95% CI) | 0.52 (0.43, 0.64) |  |
 | p-value† | <0.0001 |  |
@@ -60,7 +60,11 @@ Table 10: Efficacy Results of KEYNOTE-189
 
 NR = not reached
 
-Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189
+At the protocol specified final OS analysis, the median in the pemetrexed in combination with pembrolizumab and platinum chemotherapy arm was 22.0 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
+
+Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189*
+
+*Based on the protocol-specified final OS analysis
 
 Initial Treatment in Combination with Cisplatin
 

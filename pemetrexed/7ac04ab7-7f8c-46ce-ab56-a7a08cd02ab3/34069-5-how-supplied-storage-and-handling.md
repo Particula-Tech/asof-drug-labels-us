@@ -18,4 +18,4 @@ Protect from light.
 Keep the vial in the carton box until the time of use.
 
 Pemetrexed Injection is a hazardous drug.
-Follow applicable special handling and disposal procedures [see References (15)].
+Follow applicable special handling and disposal procedures [see References (15)].1

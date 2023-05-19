@@ -18,4 +18,4 @@
 | What are the ingredients in Pemetrexed Injection? Active ingredient: pemetrexed Inactive ingredients:sodium thiosulfate pentahydrate, propylene glycol, water for injection. Hydrochloric acid and/or sodium hydroxide may have been added to adjust pH.Manufactured by FAREVA Unterach GmbH forSandoz Inc., Princeton, NJ 08540For more information, call 1-800-525-8747. |  |  |
 
 1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Issued: May 2022
+   Revised: May 2022

@@ -38,7 +38,7 @@ Contraception
 
 Females
 
-Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with Pemetrexed Injection and for 6 months after the last dose of Pemetrexed Injection.
+Because of the potential for genotoxicity, advise females of reproductive potential to use effective contraception during treatment with Pemetrexed Injection and for 6 months after the last dose.
 
 Males
 
@@ -61,7 +61,7 @@ Patients in both studies received concomitant vitamin B12 and folic acid supplem
 No tumor responses were observed.
 Adverse reactions observed in pediatric patients were similar to those observed in adults.
 
-Pharmacokinetics of pemetrexed in 22 patients age 4 to 18 years enrolled in NCT00070473 were within range of values in adults.
+Single-dose pharmacokinetics of pemetrexed were evaluated in 22 patients age 4 to 18 years enrolled in NCT00070473 were within range of values in adults.
 
 ## 8.5 Geriatric Use
 
