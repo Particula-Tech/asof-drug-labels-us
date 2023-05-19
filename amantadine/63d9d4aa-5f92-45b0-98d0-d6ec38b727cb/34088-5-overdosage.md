@@ -5,10 +5,10 @@ The lowest reported acute lethal dose was 1 gram.
 Because some patients have attempted suicide by overdosing with amantadine, prescriptions should be written for the smallest quantity consistent with good patient management.
 
 Acute toxicity may be attributable to the anticholinergic effects of amantadine.
-Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity.
-Cardiac dysfunction includes arrhythmia, tachycardia and hypertension.
+Drug overdose has resulted in cardiac, respiratory, renal, or central nervous system toxicity.
+Cardiac dysfunction includes arrhythmia, tachycardia, and hypertension.
 Pulmonary edema and respiratory distress (including adult respiratory distress syndrome – ARDS) have been reported; renal dysfunction including increased BUN, decreased creatinine clearance and renal insufficiency can occur.
-Central nervous system effects that have been reported include insomnia, anxiety, agitation, aggressive behavior, hypertonia, hyperkinesia, ataxia, gait abnormality, tremor, confusion, disorientation, depersonalization, fear, delirium, hallucinations, psychotic reactions, lethargy, somnolence and coma.
+Central nervous system effects that have been reported include insomnia, anxiety, agitation, aggressive behavior, hypertonia, hyperkinesia, ataxia, gait abnormality, tremor, confusion, disorientation, depersonalization, fear, delirium, hallucinations, psychotic reactions, lethargy, somnolence, and coma.
 Seizures may be exacerbated in patients with prior history of seizure disorders.
 Hyperthermia has also been observed in cases where a drug overdose has occurred.
 

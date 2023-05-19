@@ -12,7 +12,7 @@ Following vaccination during an influenza A outbreak, amantadine hydrochloride t
 ## Influenza A Treatment
 
 Amantadine hydrochloride tablets are also indicated in the treatment of uncomplicated respiratory tract illness caused by influenza A virus strains especially when administered early in the course of illness.
-There are no well-controlled clinical studies demonstrating that treatment with amantadine hydrochloride tablets will avoid the development of influenza A virus pneumonitis or other complications in high risk patients.
+There are no well-controlled clinical studies demonstrating that treatment with amantadine hydrochloride tablets will avoid the development of influenza A virus pneumonitis or other complications in high-risk patients.
 There is no clinical evidence indicating that amantadine hydrochloride tablets are effective in the prophylaxis or treatment of viral respiratory tract illnesses other than those caused by influenza A virus strains.
 
 The following points should be considered before initiating treatment or prophylaxis with amantadine hydrochloride tablets:

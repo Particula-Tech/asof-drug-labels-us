@@ -13,7 +13,7 @@ Deaths due to drug accumulation (overdosage) have been reported in patients with
 ## Suicide Attempts
 
 Suicide attempts, some of which have been fatal, have been reported in patients treated with amantadine hydrochloride, many of whom received short courses for influenza treatment or prophylaxis.
-The incidence of suicide attempts is not known and the pathophysiologic mechanism is not understood.
+The incidence of suicide attempts is not known, and the pathophysiologic mechanism is not understood.
 Suicide attempts and suicidal ideation have been reported in patients with and without prior history of psychiatric illness.
 Amantadine hydrochloride can exacerbate mental problems in patients with a history of psychiatric disorders or substance abuse.
 Patients who attempt suicide may exhibit abnormal mental states which include disorientation, confusion, depression, personality changes, agitation, aggressive behavior, hallucinations, paranoia, other psychotic reactions, and somnolence or insomnia.
@@ -37,7 +37,7 @@ Because amantadine hydrochloride tablets have anticholinergic effects and may ca
 
 Amantadine hydrochloride should not be discontinued abruptly in patients with Parkinson's disease since a few patients have experienced a parkinsonian crisis, i.e., a sudden marked clinical deterioration, when this medication was suddenly stopped.
 The dose of anticholinergic drugs or of amantadine hydrochloride should be reduced if atropine-like effects appear when these drugs are used concurrently.
-Abrupt discontinuation may also precipitate delirium, agitation, delusions, hallucinations, paranoid reaction, stupor, anxiety, depression and slurred speech.
+Abrupt discontinuation may also precipitate delirium, agitation, delusions, hallucinations, paranoid reaction, stupor, anxiety, depression, and slurred speech.
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
@@ -68,8 +68,8 @@ Rare instances of reversible elevation of liver enzymes have been reported in pa
 
 Postmarketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
 Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson's disease and that increase central dopaminergic tone, including amantadine hydrochloride.
-In some cases, although not all, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.
-Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending or other urges while being treated with amantadine hydrochloride.
+In some cases, although not all, these urges were reported to have stopped when the dose was reduced, or the medication was discontinued.
+Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, or other urges while being treated with amantadine hydrochloride.
 Physicians should consider dose reduction or stopping the medication if a patient develops such urges while taking amantadine hydrochloride.
 
 ## Melanoma
@@ -96,7 +96,7 @@ Blurry vision and/or impaired mental acuity may occur.
 
 Gradually increase physical activity as the symptoms of Parkinson's disease improve.
 
-Avoid excessive alcohol usage, since it may increase the potential for CNS effects such as dizziness, confusion, lightheadedness and orthostatic hypotension.
+Avoid excessive alcohol usage, since it may increase the potential for CNS effects such as dizziness, confusion, lightheadedness, and orthostatic hypotension.
 
 Avoid getting up suddenly from a sitting or lying position.
 If dizziness or lightheadedness occurs, notify physician.

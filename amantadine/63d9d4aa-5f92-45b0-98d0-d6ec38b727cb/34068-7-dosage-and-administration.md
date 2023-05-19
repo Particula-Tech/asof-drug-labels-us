@@ -34,7 +34,7 @@ Amantadine hydrochloride tablets should be continued daily for at least 10 days 
 If amantadine hydrochloride tablets are used chemoprophylactically in conjunction with inactivated influenza A virus vaccine until protective antibody responses develop, then it should be administered for 2 to 4 weeks after the vaccine has been given.
 When inactivated influenza A virus vaccine is unavailable or contraindicated, amantadine hydrochloride tablets should be administered for the duration of known influenza A in the community because of repeated and unknown exposure.
 
-Treatment of influenza A virus illness should be started as soon as possible, preferably within 24 to 48 hours after onset of signs and symptoms, and should be continued for 24 to 48 hours after the disappearance of signs and symptoms.
+Treatment of influenza A virus illness should be started as soon as possible, preferably within 24 to 48 hours after onset of signs and symptoms and should be continued for 24 to 48 hours after the disappearance of signs and symptoms.
 
 ## Dosage for Parkinsonism
 

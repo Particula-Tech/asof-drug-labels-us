@@ -71,14 +71,14 @@ These concentrations represented 31% ± 33%, 59% ± 61%, and 95% ± 86% of the c
 Amantadine is approximately 67% bound to plasma proteins over a concentration range of 0.1 to 2 mcg/mL.
 Following the administration of amantadine 100 mg as a single dose, the mean ± SD red blood cell to plasma ratio ranged from 2.7 ± 0.5 in 6 healthy subjects to 1.4 ± 0.2 in 8 patients with renal insufficiency.
 
-The apparent oral plasma clearance of amantadine is reduced and the plasma half-life and plasma concentrations are increased in healthy elderly individuals age 60 and older.
+The apparent oral plasma clearance of amantadine is reduced, and the plasma half-life and plasma concentrations are increased in healthy elderly individuals age 60 and older.
 After single dose administration of 25 mg to 75 mg to 7 healthy, elderly male volunteers, the apparent plasma clearance of amantadine was 0.10 ± 0.04 L/hr/kg (range 0.06 to 0.17 L/hr/kg) and the half-life was 29 ± 7 hours (range 20 to 41 hours).
-Whether these changes are due to decline in renal function or other age related factors is not known.
+Whether these changes are due to decline in renal function or other age-related factors is not known.
 
-In a study of young healthy subjects (n=20), mean renal clearance of amantadine, normalized for body mass index, was 1.5 fold higher in males compared to females (p<0.032).
+In a study of young healthy subjects (n=20), mean renal clearance of amantadine, normalized for body mass index, was 1.5-fold higher in males compared to females (p<0.032).
 
 Compared with otherwise healthy adult individuals, the clearance of amantadine is significantly reduced in adult patients with renal insufficiency.
-The elimination half-life increases two to three fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
+The elimination half-life increases two to three-fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
 Amantadine is removed in negligible amounts by hemodialysis.
 
 The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.

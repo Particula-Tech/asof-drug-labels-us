@@ -2,7 +2,7 @@
 
 NDC 0832-0111-00
 
-Amantadine Hydrochloride Tablets
+Amantadine Hydrochloride Tablets, USP
 
 100 mg
 
