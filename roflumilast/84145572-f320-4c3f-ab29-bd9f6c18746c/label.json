@@ -3,8 +3,11 @@
     "ANDA208303"
   ],
   "inn": "roflumilast",
-  "labeler": "Zydus Pharmaceuticals (USA) Inc.",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
   "package_ndcs": [
+    "68382-624-30",
+    "68382-624-31",
+    "68382-624-83",
     "68382-969-06",
     "68382-969-16"
   ],

@@ -2,6 +2,12 @@
 
 ## 16.1 How Supplied
 
+Roflumilast tablets, 250 mcg are white to off-white, round tablets, debossed with "T6" on one side and plain on other side and are supplied as:
+
+NDC 68382-624-31 in blister pack of 28 tablets (child-resistant)
+
+NDC 68382-624-83 in cartons of 20 tablets (2 x 10 unit-dose)
+
 Roflumilast tablets, 500 mcg are white to off-white, round tablets, debossed with "T5" on one side and plain on other side and are supplied as:
 
 NDC 68382-969-06 in bottle of 30 tablets with child-resistant closure.

@@ -77,3 +77,12 @@ Table 3 Effect of roflumilast on FEV1
 
 Lung function was also evaluated in two 6 month trials (Trials 7 and 8) to assess the effect of roflumilast when administered as add-on therapy to treatment with a long-acting beta agonist or a long-acting anti-muscarinic.
 These trials were conducted in a different population of COPD patients [moderate to severe COPD (FEV1 40 to 70% of predicted) without a requirement for chronic bronchitis or frequent history of exacerbations] from that for which efficacy in reduction of exacerbations has been demonstrated and provide safety support to the roflumilast COPD program.
+
+Starting dose titration trial
+
+The tolerability of roflumilast was evaluated in a 12-week randomized, double-blind, parallel group trial in patients with severe COPD associated with chronic bronchitis (Trial 10).
+At screening, patients were required to have had at least one exacerbation in the previous year.
+A total of 1323 patients were randomized to receive roflumilast 500 mcg once a day for 12 weeks (n=443), roflumilast 500 mcg every other day for 4 weeks followed by roflumilast 500 mcg once a day for 8 weeks (n=439), or roflumilast 250 mcg once a day for 4 weeks followed by roflumilast 500 mcg once a day for 8 weeks (n=441).
+
+Over the 12 week study period, the percentage of patients discontinuing treatment was 6.2% lower in patients initially receiving roflumilast 250 mcg daily for 4 weeks followed by roflumilast 500 mcg daily for 8 weeks (18.4%) compared to those receiving roflumilast 500 mcg daily for 12 weeks (24.6%) (Odds Ratio = 0.66; 95% CI: 0.47 to 0.93; p=0.017).
+Because this trial was limited to 12 weeks in duration, whether initiation of dosing with roflumilast 250 mcg improves the long term tolerability of roflumilast 500 mcg has not been determined.

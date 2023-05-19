@@ -10,6 +10,6 @@ The Chemical Structure is:
 Roflumilast is white to off-white solid.
 It is practically insoluble in water and in hexane, sparingly soluble in ethanol and tetrahydrofuran and freely soluble in acetone.
 
-Roflumilast tablets, 500 mcg are white to off-white, round tablets, debossed with "T5" on one side and plain on other side.
+Roflumilast tablets are white to off-white, round tablets, debossed with "T6" for 250 mcg and "T5" for 500 mcg on one side and plain on other side.
 
 Each tablet of roflumilast for oral administration contains the following inactive ingredients: corn starch, colloidal silicon dioxide, low substituted hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, poloxamer 407 and pregelatinized starch (corn).
