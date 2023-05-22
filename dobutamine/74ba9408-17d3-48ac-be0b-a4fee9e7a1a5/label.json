@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA074277"
+  ],
+  "inn": "dobutamine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9141-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "dobutamine",
+      "name": "Dobutamine"
+    }
+  ],
+  "setid": "74ba9408-17d3-48ac-be0b-a4fee9e7a1a5",
+  "source": "dailymed"
+}
