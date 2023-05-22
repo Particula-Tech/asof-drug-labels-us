@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+# PATIENT INFORMATION
 
 Ezetimibe Tablets, USP 10 mg
 
@@ -117,11 +117,13 @@ Inactive ingredients:
 
 Lactose monohydrate, croscarmellose sodium, Hypromellose, sodium lauryl sulfate, crospovidone, microcrystaline cellulose, and magnesium stearate.
 
+For Patient Information, please visit: http://www.ascendlaboratories.com/pti/ezetimibetablets.pdf
+
 Manufactured by:
 
-Alkem Laboratories Ltd.
+Alkem Laboratories Ltd.,
 
-Mumbai - 400 013, INDIA
+INDIA.
 
 Distributed by:
 
@@ -129,4 +131,4 @@ Ascend Laboratories, LLC
 
 Parsippany, NJ 07054
 
-Revised: November, 2021 PT 2509-02
+Revised: December, 2022 PT 2509-03

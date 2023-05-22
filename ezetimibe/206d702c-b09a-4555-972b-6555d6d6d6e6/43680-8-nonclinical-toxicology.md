@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis & Mutagenesis & Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 A 104-week dietary carcinogenicity study with ezetimibe was conducted in rats at doses up to 1500 mg/kg/day (males) and 500 mg/kg/day (females) (~20 x the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
 A 104-week dietary carcinogenicity study with ezetimibe was also conducted in mice at doses up to 500 mg/kg/day (>150 x the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
@@ -12,7 +12,7 @@ In addition, there was no evidence of genotoxicity in the in vivo mouse micronuc
 
 In oral (gavage) fertility studies of ezetimibe conducted in rats, there was no evidence of reproductive toxicity at doses up to 1000 mg/kg/day in male or female rats (~7 x the human exposure at 10 mg daily based on AUC0-24hr for total ezetimibe).
 
-## 13.2 Animal Pharmacology & OR Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 The hypocholesterolemic effect of ezetimibe was evaluated in cholesterol-fed Rhesus monkeys, dogs, rats, and mouse models of human cholesterol metabolism.
 Ezetimibe was found to have an ED50 value of 0.5 mcg/kg/day for inhibiting the rise in plasma cholesterol levels in monkeys.

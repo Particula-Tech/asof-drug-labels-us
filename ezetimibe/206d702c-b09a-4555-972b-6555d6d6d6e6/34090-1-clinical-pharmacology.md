@@ -35,9 +35,10 @@ The effects of ezetimibe given either alone or in addition to a statin or fenofi
 Absorption
 
 After oral administration, ezetimibe is absorbed and extensively conjugated to a pharmacologically active phenolic glucuronide (ezetimibe-glucuronide).
-After a single 10-mg dose of Ezetimibe Tablets to fasted adults, mean ezetimibe peak plasma concentrations (Cmax) of 3.4 to 5.5 ng/mL were attained within 4 to 12 hours (Tmax).Ezetimibe-glucuronide mean Cmax values of 45 to 71 ng/mL were achieved between 1 and 2 hours (Tmax).
+After a single 10-mg dose of Ezetimibe Tablets to fasted adults, mean ezetimibe peak plasma concentrations (Cmax) of 3.4 to 5.5 ng/mL were attained within 4 to 12 hours (Tmax).
+Ezetimibe-glucuronide mean Cmax values of 45 to 71 ng/mL were achieved between 1 and 2 hours (Tmax).
 There was no substantial deviation from dose proportionality between 5 and 20 mg.
-The absolute bioavailability of ezetimibecannot be determined, as the compound is virtually insoluble in aqueous media suitable for injection.
+The absolute bioavailability of ezetimibe cannot be determined, as the compound is virtually insoluble in aqueous media suitable for injection.
 
 Effect of Food on Oral Absorption
 
@@ -55,14 +56,14 @@ Ezetimibe is primarily metabolized in the small intestine and liver via glucuron
 Minimal oxidative metabolism (a phase I reaction) has been observed in all species evaluated.
 
 In humans, ezetimibe is rapidly metabolized to ezetimibe-glucuronide.
-Ezetimibe and ezetimibe-glucuronide are the majordrug-derived compounds detected in plasma, constituting approximately 10 to 20%and 80 to 90% of the total drug in plasma, respectively.
+Ezetimibe and ezetimibe-glucuronide are the major drug-derived compounds detected in plasma, constituting approximately 10 to 20%and 80 to 90% of the total drug in plasma, respectively.
 Both ezetimibe and ezetimibe-glucuronide are eliminated from plasma with a half-life of approximately 22 hours for both ezetimibe and ezetimibe-glucuronide.
 Plasma concentration-time profiles exhibit multiple peaks, suggesting enterohepatic recycling.
 
 Following oral administration of 14C-ezetimibe (20 mg) to human subjects, total ezetimibe (ezetimibe + ezetimibe-glucuronide) accounted for approximately 93% of the total radioactivity in plasma.
 After 48 hours, there were no detectable levels of radioactivity in the plasma.
 
-Approximately 78% and 11% of the administered radio activity were recovered in the feces and urine, respectively, over a 10-day collection period.
+Approximately 78% and 11% of the administered radioactivity were recovered in the feces and urine, respectively, over a 10-day collection period.
 Ezetimibe was the major component in feces and accounted for 69% of the administered dose, while ezetimibe-glucuronide was the major component in urine and accounted for 9% of the administered dose.
 
 Specific Populations
@@ -79,19 +80,19 @@ Studies in Asian subjects indicated that the pharmacokinetics of ezetimibe were 
 HepaticImpairment: After a single 10-mg dose of ezetimibe, the mean AUC for total ezetimibe was increased approximately 1.7-fold in patients with mild hepatic impairment (Child-Pugh score 5 to 6), compared to healthy subjects.
 The mean AUC values for total ezetimibe and ezetimibe were increased approximately 3- to 4-fold and 5- to 6-fold,respectively, in patients with moderate (Child-Pugh score 7 to 9) or severe hepatic impairment (Child-Pugh score 10 to 15).
 In a 14-day, multiple-dose study (10 mg daily) in patients with moderate hepatic impairment, the mean AUC values for total ezetimibe and ezetimibe were increased approximately 4-fold on Day 1 and Day 14 compared to healthy subjects.
-Due to the unknown effects ofthe increased exposure to ezetimibe in patients with moderate or severe hepatic impairment, Ezetimibe Tablet is not recommended in these patients [see Warnings and Precautions (5.4)].
+Due to the unknown effects of the increased exposure to ezetimibe in patients with moderate or severe hepatic impairment, Ezetimibe Tablet is not recommended in these patients [see Warnings and Precautions (5.4)].
 
 Renal Impairment: After a single 10-mg dose of ezetimibe in patients with severe renal disease (n=8; mean CrCl ≤30mL/min/1.73 m2), the mean AUC values for total ezetimibe,ezetimibe-glucuronide, and ezetimibe were increased approximately 1.5-fold, compared to healthy subjects (n=9).
 
 Drug Interactions [See also Drug Interactions (7)]
 
-Ezetimibe Tablets had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IVmidazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4)in a “cocktail” study of twelve healthy adult males.
+Ezetimibe Tablets had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4)in a “cocktail” study of twelve healthy adult males.
 This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
 TABLE 4: Effect of Co-Administered Drugs on Total Ezetimibe
 
 | Co-Administered Drug and Dosing Regimen | Total Ezetimibe* |  |
 | --- | --- | --- |
-|  | Change in AUC | Change in Cmax |
+|  | Change in AUC | Change in C max |
 | Cyclosporine-stable dose required (75 to 150 mg BID)†, ‡ | ↑240% | ↑290% |
 | Fenofibrate, 200 mg QD, 14 days‡ | ↑48% | ↑64% |
 | Gemfibrozil, 600 mg BID, 7 days‡ | ↑64% | ↑91% |
@@ -117,7 +118,7 @@ In a different study, a renal transplant patient with severe renal insufficiency
 
 TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Drugs
 
-| Co-Administered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Co-Administered Drug | Change in Cmax of Co-Administered Drug |
+| Co-Administered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Co-Administered Drug | Change in C max of Co-Administered Drug |
 | --- | --- | --- | --- |
 | Warfarin, 25 mg single dose on day 7 | 10 mg QD, 11 days | ↓2% (R-warfarin) ↓4% (S-warfarin) | ↑3% (R-warfarin) ↑1% (S-warfarin) |
 | Digoxin, 0.5 mg single dose | 10 mg QD, 8 days | ↑2% | ↓7% |
@@ -133,5 +134,4 @@ TABLE 5: Effect of Ezetimibe Co-Administration on Systemic Exposure to Other Dru
 | Rosuvastatin 10 mg QD, 14 days | 10 mg QD, 14 days | ↑19% | ↑17% |
 | Fluvastatin 20 mg QD, 14 days | 10 mg QD, 14 days | ↓39% | ↓27% |
 
-| * See Drug Interactions (7). |
-| --- |
+* See Drug Interactions (7).

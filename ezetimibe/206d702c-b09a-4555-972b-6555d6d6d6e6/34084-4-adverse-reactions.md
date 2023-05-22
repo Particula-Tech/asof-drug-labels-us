@@ -28,7 +28,7 @@ The most commonly reported adverse reactions (incidence ≥2% and greater than s
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
 Monotherapy
 
-In 10 double-blind, placebo-controlled clinical trials, 2396 patients with primary hyperlipidemia (age range 9 to 86 years, 50% women, 90% Caucasians, 5% Blacks, 3% Hispanics, 2% Asians) and elevated LDL-C were treated with Ezetimibe Tablets 10 mg/day for a median treatment duration of 12 weeks (range 0 to 39 weeks).
+In 10 double-blind, placebo-controlled clinical trials, 2396 patients with primary hyperlipidemia (age range 9 to 86 years, 50% women, 90% Caucasians, 5% Blacks, 3% Hispanics, 2% Asians) and elevated LDL-.C were treated with Ezetimibe Tablets 10 mg/day for a median treatment duration of 12 weeks (range 0 to 39 weeks).
 
 Adverse reactions reported in ≥2% of patients treated with Ezetimibe Tablets and at an incidence greater than placebo in placebo-controlled studies of Ezetimibe Tablets, regardless of causality assessment, are shown in Table 1.
 
@@ -41,11 +41,11 @@ TABLE 1: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with 
 | General disorders and administration site conditions |  |  |
 | Fatigue | 2.4 | 1.5 |
 | Infections and infestations |  |  |
-| Influenza | 2.0 | 1.5 |
+| Influenza | 2 | 1.5 |
 | Sinusitis | 2.8 | 2.2 |
 | Upper respiratory tract infection | 4.3 | 2.5 |
 | Musculoskeletal and connective tissue disorders |  |  |
-| Arthralgia | 3.0 | 2.2 |
+| Arthralgia | 3 | 2.2 |
 | Pain in extremity | 2.7 | 2.5 |
 
 The frequency of less common adverse reactions was comparable between Ezetimibe Tablets and placebo.
@@ -66,7 +66,7 @@ TABLE 2: Clinical Adverse Reactions Occurring in ≥2% of Patients Treated with 
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 2.2 | 2.5 |
 | General disorders and administration site conditions |  |  |
-| Fatigue | 1.6 | 2.0 |
+| Fatigue | 1.6 | 2 |
 | Infections and infestations |  |  |
 | Influenza | 2.1 | 2.2 |
 | Nasopharyngitis | 3.3 | 3.7 |

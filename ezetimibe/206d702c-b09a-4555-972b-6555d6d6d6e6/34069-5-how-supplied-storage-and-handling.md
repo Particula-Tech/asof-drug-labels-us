@@ -11,7 +11,7 @@ NDC 67877-490-90 bottles of 90 NDC 67877-490-01 bottles of 100
 
 NDC 67877-490-05 bottles of 500
 
-NDC 67877-490-55 bottles of 5000.
+NDC 67877-490-55 bottles of 5000
 
 Storage
 
