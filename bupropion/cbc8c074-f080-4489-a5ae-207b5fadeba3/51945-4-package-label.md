@@ -32,16 +32,17 @@ Keep dry and out of light.
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in Spain
 
 Trademark owned or licensed by GSK.
 
-©2019 GSK or licensor.
+©2023 GSK or licensor.
 
-1. 62000000041493 Rev.
-   7/19
+1. 62000000085809 Rev.
+   2/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -77,22 +78,23 @@ Keep dry and out of light.
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in Spain
 
 Trademark owned or licensed by GSK.
 
-©2019 GSK or licensor.
+©2023 GSK or licensor.
 
-1. 62000000041495 Rev.
-   7/19
+1. 62000000085814 Rev.
+   2/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0722-00
 
-WellbutrinSR
+Wellbutrin SR
 
 (bupropion HCl)
 
@@ -122,13 +124,13 @@ Keep dry and out of light.
 
 GlaxoSmithKline
 
-RTP, NC 27709
+Durham, NC 27701
 
 Made in Spain
 
 Trademark owned or licensed by GSK.
 
-©2019 GSK or licensor.
+©2023 GSK or licensor.
 
-1. 62000000041494 Rev.
-   7/19
+1. 62000000085815 Rev.
+   2/23
