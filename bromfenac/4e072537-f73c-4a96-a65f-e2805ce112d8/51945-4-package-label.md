@@ -6,7 +6,7 @@ PROLENSA® (bromfenac ophthalmic solution) 0.07%
 
 Sterile
 
-FOR TOPICAL APPLICATION IN THE EYE
+FOR TOPICAL OPHTHALMIC USE
 
 Once Daily
 
@@ -15,3 +15,7 @@ Rx only
 3 mL
 
 BAUSCH + LOMB
+
+9534402
+
+AB49405
