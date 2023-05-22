@@ -6,4 +6,5 @@ SIMBRINZA (brinzolamide/brimonidine tartrate ophthalmic suspension) 1%/0.2% is s
 
 Storage and Handling
 
-Store SIMBRINZA at 2 - 25°C (36 - 77°F).
+Store SIMBRINZA at 2°C to 25°C (36°F to 77°F).
+After opening, SIMBRINZA can be used until the expiration date on the bottle.

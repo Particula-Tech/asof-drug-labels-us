@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C: Developmental toxicity studies with brinzolamide in rabbits at oral doses of 1, 3, and 6 mg/kg/day (20, 60, and 120 times the recommended human ophthalmic dose) produced maternal toxicity at 6 mg/kg/day and a significant increase in the number of fetal variations, such as accessory skull bones, which was only slightly higher than the historic value at 1 and 6 mg/kg.
+Developmental toxicity studies with brinzolamide in rabbits at oral doses of 1, 3, and 6 mg/kg/day (20, 60, and 120 times the recommended human ophthalmic dose) produced maternal toxicity at 6 mg/kg/day and a significant increase in the number of fetal variations, such as accessory skull bones, which was only slightly higher than the historic value at 1 and 6 mg/kg.
 In rats, statistically decreased body weights of fetuses from dams receiving oral doses of 18 mg/kg/day (180 times the recommended human ophthalmic dose) during gestation were proportional to the reduced maternal weight gain, with no statistically significant effects on organ or tissue development.
 Increases in unossified sternebrae, reduced ossification of the skull, and unossified hyoid that occurred at 6 and 18 mg/kg were not statistically significant.
 No treatment-related malformations were seen.
@@ -13,7 +13,7 @@ In animal studies, brimonidine crossed the placenta and entered into the fetal c
 There are no adequate and well-controlled studies in pregnant women.
 SIMBRINZA should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
 In a study of brinzolamide in lactating rats, decreases in body weight gain in offspring at an oral dose of 15 mg/kg/day (150 times the recommended human ophthalmic dose) were observed during lactation.
 No other effects were observed.

@@ -3,9 +3,9 @@
 ## 12.1 Mechanism of Action
 
 SIMBRINZA is comprised of two components: brinzolamide (carbonic anhydrase inhibitor) and brimonidine tartrate (alpha 2 adrenergic receptor agonist).
-Each of these two components decreases elevated intraocular pressure.
-Elevated intraocular pressure is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
-The higher the level of intraocular pressure, the greater the likelihood of glaucomatous field loss and optic nerve damage.
+Each of these two components decreases elevated IOP.
+Elevated IOP is a major risk factor in the pathogenesis of optic nerve damage and glaucomatous visual field loss.
+The higher the level of IOP, the greater the likelihood of glaucomatous field loss and optic nerve damage.
 Brinzolamide inhibits carbonic anhydrase in the ciliary processes of the eye to decrease aqueous humor secretion, presumably by slowing the formation of bicarbonate ions with subsequent reduction in sodium and fluid transport.
 Brinzolamide has a peak ocular hypotensive effect occurring at 2 to 3 hours post-dosing.
 Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.

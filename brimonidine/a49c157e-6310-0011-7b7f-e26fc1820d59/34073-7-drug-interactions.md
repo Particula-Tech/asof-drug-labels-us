@@ -12,9 +12,9 @@ These alterations were not reported in the clinical trials with brinzolamide oph
 However, in patients treated with oral carbonic anhydrase inhibitors, rare instances of acid-base alterations have occurred with high-dose salicylate therapy.
 Therefore, the potential for such drug interactions should be considered in patients receiving SIMBRINZA.
 
-## 7.3 CNS Depressants
+## 7.3 Central Nervous System Depressants
 
-Although specific drug interaction studies have not been conducted with SIMBRINZA, the possibility of an additive or potentiating effect with CNS depressants (alcohol, opiates, barbiturates, sedatives, or anesthetics) should be considered.
+Although specific drug interaction studies have not been conducted with SIMBRINZA, the possibility of an additive or potentiating effect with Central Nervous System (CNS) depressants (alcohol, opiates, barbiturates, sedatives, or anesthetics) should be considered.
 
 ## 7.4 Antihypertensives/Cardiac Glycosides
 

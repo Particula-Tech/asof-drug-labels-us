@@ -22,12 +22,12 @@ Mean (SD) IOP values at baseline
 The IOP-lowering effect of SIMBRINZA ophthalmic suspension was 1 to 3 mmHg greater than monotherapy with either 1% brinzolamide or 0.2% brimonidine tartrate throughout the duration of the trials.
 Least Square Mean IOP (mmHg) and the results at Week 2, Week 6 and Month 3 for each study are provided in Table 2.
 
-Table 2 Mean IOP (mmHg) by Treatment Group and Treatment Difference in Mean IOP
+Table 2 Mean IOP (mmHg) by Treatment Group and Treatment Difference in Mean IOP**
 
 |  | SIMBRINZA | Brinzolamide |  | Brimonidine |  |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 | (N=209) | (N=224) |  | (N=216) |  |
-|  | Mean | Mean | Difference (95%CI)** | Mean | Difference (95%CI)** |
+|  | Mean | Mean | Difference (95%CI)† | Mean | Difference (95%CI)† |
 | Week 2 |  |  |  |  |  |
 | 8 AM | 20.4 | 22.0 | -1.6 (-2.3, -0.9) | 22.4 | -2.0 (-2.7, -1.3) |
 | 10 AM | 17.1 | 20.5 | -3.4 (-4.1, -2.7) | 19.4 | -2.3 (-3.0, -1.6) |
@@ -60,7 +60,7 @@ Table 2 Mean IOP (mmHg) by Treatment Group and Treatment Difference in Mean IOP
 | 3 PM | 19.5 | 20.7 | -1.2 (-1.9, -0.5) | 21.5 | -2.0 (-2.7, -1.3) |
 | 5 PM | 17.2 | 20.4 | -3.2 (-3.9, -2.5) | 18.9 | -1.7 (-2.4, -1.0) |
 
-*Based on the Intent-to-Treat Population defined as all patients who received study drug and completed at least 1 on-therapy study visit. **The estimates are based on least square means derived from a linear mixed model that accounts for correlated IOP measurements within patient; Treatment difference is SIMBRINZA minus individual component.
+Abbreviations: CI, 95% Confidence Interval; IOP, intraocular pressure. **Based on the Intent-to-Treat Population defined as all patients who received study drug and completed at least 1 on-therapy study visit. †The estimates are based on least square means derived from a linear mixed model that accounts for correlated IOP measurements within patient; Treatment difference is SIMBRINZA minus individual component.
 CI=95% Confidence Interval
 
 Figures 1 and 2 present the mean of individual subject IOP changes from baseline at Week 2, Week 6, and at Month 3 based on the observed data for the intent-to-treat population.
