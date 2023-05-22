@@ -30,8 +30,7 @@ Over the recommended dose range of 50 to 350 mg/m2, the AUC of irinotecan increa
 Maximum concentrations of the active metabolite SN-38 are generally seen within 1 hour following the end of a 90-minute infusion of irinotecan.
 Pharmacokinetic parameters for irinotecan and SN-38 following a 90-minute infusion of irinotecan at dose levels of 125 and 340 mg/m2 determined in two clinical studies in patients with solid tumors are summarized in Table 9:
 
-Table 9.
-Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients With Solid Tumors
+Table 9.Summary of Mean (±Standard Deviation) Irinotecan and SN-38 Pharmacokinetic Parameters in Patients With Solid Tumors
 
 | Cmax (ng/mL) | AUC0–24 (ng∙h/mL) | t1/2 (h) | Vz (L/m2) | CL (L/h/m2) | Cmax (ng/mL) | AUC0–24 (ng∙h/mL) | t1/2 (h) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

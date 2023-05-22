@@ -6,7 +6,7 @@ Risk Summary
 
 Based on findings from animal studies and its mechanism of action, CAMPTOSAR can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 Available postmarketing and published data reporting the use of CAMPTOSAR in pregnant women, are insufficient and confounded by the concomitant use of other cytotoxic drugs, to evaluate for any drug-associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-In animal studies, intravenous administration of irinotecan to rats and rabbits during the period of organogenesis resulted in embryofetal mortality and teratogenicity in pregnant animals at exposures lower than the human exposure based on AUC at the clinical dose of 125 mg/m2 (see Data).
+In animal studies, intravenous administration of irinotecan to rats and rabbits during the period of organogenesis resulted in embryofetal mortality and teratogenicity in pregnant animals at exposures lower than the human exposure based on AUC at the clinical dose of 125 mg/m2 (see).
 Advise pregnant women of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
