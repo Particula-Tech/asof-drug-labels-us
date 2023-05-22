@@ -43,8 +43,7 @@ Gynecological
 
 Gynecological disorders previously reported with misoprostol use have also been reported for women receiving ARTHROTEC (see below).
 Postmenopausal vaginal bleeding may be related to administration of ARTHROTEC.
-If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology [see Error!
-Hyperlink reference not valid., Contraindications (4) and Warnings and Precautions (5)].
+If it occurs, diagnostic workup should be undertaken to rule out gynecological pathology [see Boxed Warnings, Contraindications (4) and Warnings and Precautions (5)].
 
 Other adverse experiences reported occasionally with ARTHROTEC, diclofenac or other NSAIDs, or misoprostol are:
 
