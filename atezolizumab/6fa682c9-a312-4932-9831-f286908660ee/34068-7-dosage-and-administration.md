@@ -62,7 +62,7 @@ Table 3: Recommended Dosage Modifications for Adverse Reactions
 | Grade 4 increased blood creatinine | Permanently discontinue |  |
 | Exfoliative Dermatologic Conditions | Suspected SJS, TEN, or DRESS | Withhold |
 | Confirmed SJS, TEN, or DRESS | Permanently discontinue |  |
-| Myocarditis | Grades 2, 3, or 4 | Permanently discontinue |
+| Myocarditis or Pericarditis | Grades 2, 3, or 4 | Permanently discontinue |
 | Neurological Toxicities | Grade 2 | Withhold |
 | Grades 3 or 4 | Permanently discontinue |  |
 | Other Adverse Reactions |  |  |

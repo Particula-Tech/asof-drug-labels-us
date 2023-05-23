@@ -664,3 +664,10 @@ Table 21: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 | Increased ALT | 33 | 2 |
 | Decreased Sodium | 43 | 0 |
 | Increased Lipase | 25 | 25 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of TECENTRIQ.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+- Cardiac: pericarditis, pericardial effusion, cardiac tamponade
