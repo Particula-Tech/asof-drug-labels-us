@@ -19,14 +19,12 @@ Inform the patient that vaginal fungal infections can occur following use of Cli
 Inform the patient the Clindesse contains ingredients which cause burning and irritation of the eye.
 In the event of accidental contact with the eye, rinse the eye with copious amounts of cool tap water and consult a physician.
 
-Manufactured By Padagis Yeruham, Israel
-
-Distributed By Padagis Allegan, MI 49010
+Manufactured by Padagis® Yeruham, Israel
 
 www.padagis.com
 
-Rev 05-22 2S000 RC J2
+Rev 05-23 2S000 RC PH3
 
-U.S Patent Nos. 5,993,856; 6,899,890.
+Patents at www.padagis.com/patents
 
 Cleocin is a registered trademark of Pharmacia & Upjohn Company.

@@ -56,6 +56,8 @@ Musculoskeletal: Cases of polyarthritis have been reported.
 
 Renal: Although no direct relationship of clindamycin to renal damage has been established, renal dysfunction as evidenced by azotemia, oliguria, and/or proteinuria has been observed in rare instances.
 
+Immune System: Drug reaction with eosinophilia and systemic symptoms (DRESS) cases have been reported.
+
 ## 6.3 Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of Clindesse.
