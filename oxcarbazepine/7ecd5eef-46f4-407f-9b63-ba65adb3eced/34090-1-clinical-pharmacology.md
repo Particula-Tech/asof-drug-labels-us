@@ -19,16 +19,16 @@ No development of tolerance (i.e., attenuation of anticonvulsive activity) was o
 Following oral administration of oxcarbazepine tablets, oxcarbazepine is completely absorbed and extensively metabolized to its pharmacologically active 10-monohydroxy metabolite (MHD).
 In a mass balance study in people, only 2% of total radioactivity in plasma was due to unchanged oxcarbazepine, with approximately 70% present as MHD, and the remainder attributable to minor metabolites.
 The half-life of the parent is about 2 hours, while the half-life of MHD is about 9 hours, so that MHD is responsible for most antiepileptic activity.
-Absorption Based on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
+AbsorptionBased on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
 After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range 3 to 13) hours.
 Steady-state plasma concentrations of MHD are reached within 2 to 3 days in patients when oxcarbazepine is given twice a day.
 At steady state the pharmacokinetics of MHD are linear and show dose proportionality over the dose range of 300 to 2,400 mg/day.
 Food has no effect on the rate and extent of absorption of oxcarbazepine from oxcarbazepine tablets.
 Therefore, oxcarbazepine tablets can be taken with or without food.
-Distribution The apparent volume of distribution of MHD is 49 L. Approximately 40% of MHD is bound to serum proteins, predominantly to albumin.
+DistributionThe apparent volume of distribution of MHD is 49 L. Approximately 40% of MHD is bound to serum proteins, predominantly to albumin.
 Binding is independent of the serum concentration within the therapeutically relevant range.
 Oxcarbazepine and MHD do not bind to alpha-1-acid glycoprotein.
-Metabolism and Excretion Oxcarbazepine is rapidly reduced by cytosolic enzymes in the liver to its 10-monohydroxy metabolite, MHD, which is primarily responsible for the pharmacological effect of oxcarbazepine.
+Metabolism and ExcretionOxcarbazepine is rapidly reduced by cytosolic enzymes in the liver to its 10-monohydroxy metabolite, MHD, which is primarily responsible for the pharmacological effect of oxcarbazepine.
 MHD is metabolized further by conjugation with glucuronic acid.
 Minor amounts (4% of the dose) are oxidized to the pharmacologically inactive 10,11-dihydroxy metabolite (DHD).
 Oxcarbazepine is cleared from the body mostly in the form of metabolites which are predominantly excreted by the kidneys.
@@ -36,7 +36,7 @@ More than 95% of the dose appears in the urine, with less than 1% as unchanged o
 Fecal excretion accounts for less than 4% of the administered dose.
 Approximately 80% of the dose is excreted in the urine either as glucuronides of MHD (49%) or as unchanged MHD (27%); the inactive DHD accounts for approximately 3% and conjugates of MHD and oxcarbazepine account for 13% of the dose.
 The half-life of the parent is about 2 hours, while the half-life of MHD is about 9 hours.
-Specific Populations Geriatrics Following administration of single (300 mg) and multiple (600 mg/day) doses of oxcarbazepine to elderly volunteers (60 to 82 years of age), the maximum plasma concentrations and AUC values of MHD were 30% to 60% higher than in younger volunteers (18 to 32 years of age).
+Specific PopulationsGeriatrics Following administration of single (300 mg) and multiple (600 mg/day) doses of oxcarbazepine to elderly volunteers (60 to 82 years of age), the maximum plasma concentrations and AUC values of MHD were 30% to 60% higher than in younger volunteers (18 to 32 years of age).
 Comparisons of creatinine clearance in young and elderly volunteers indicate that the difference was due to age-related reductions in creatinine clearance.
 Pediatrics
 
@@ -58,7 +58,7 @@ Hepatic Impairment
 
 The pharmacokinetics and metabolism of oxcarbazepine and MHD were evaluated in healthy volunteers and hepatically-impaired subjects after a single 900-mg oral dose.
 Mild-to-moderate hepatic impairment did not affect the pharmacokinetics of oxcarbazepine and MHD [see Dosage and Administration (2.8)].
-Pregnancy Due to physiological changes during pregnancy, MHD plasma levels may gradually decrease throughout pregnancy [see Use in Specific Populations (8.1)] Drug Interactions:
+PregnancyDue to physiological changes during pregnancy, MHD plasma levels may gradually decrease throughout pregnancy [see Use in Specific Populations (8.1)] Drug Interactions:
 
 - In Vitro
 
@@ -96,10 +96,10 @@ Table 7: Summary of AED Interactions with Oxcarbazepine
 
 3 Mean increase in adults at high oxcarbazepine doses
 
-Hormonal Contraceptives Coadministration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG) [see Drug Interactions (7.3)].
+Hormonal ContraceptivesCoadministration of oxcarbazepine with an oral contraceptive has been shown to influence the plasma concentrations of the two hormonal components, ethinylestradiol (EE) and levonorgestrel (LNG) [see Drug Interactions (7.3)].
 The mean AUC values of EE were decreased by 48% [90% CI: 22 to 65] in one study and 52% [90% CI: 38 to 52] in another study.
 The mean AUC values of LNG were decreased by 32% [90% CI: 20 to 45] in one study and 52% [90% CI: 42 to 52] in another study.
-Other Drug Interactions Calcium Antagonists: After repeated coadministration of oxcarbazepine, the AUC of felodipine was lowered by 28% [90% CI: 20 to 33].
+Other Drug InteractionsCalcium Antagonists: After repeated coadministration of oxcarbazepine, the AUC of felodipine was lowered by 28% [90% CI: 20 to 33].
 Verapamil produced a decrease of 20% [90% CI: 18 to 27] of the plasma levels of MHD.
 
 Cimetidine, erythromycin and dextropropoxyphene had no effect on the pharmacokinetics of MHD.

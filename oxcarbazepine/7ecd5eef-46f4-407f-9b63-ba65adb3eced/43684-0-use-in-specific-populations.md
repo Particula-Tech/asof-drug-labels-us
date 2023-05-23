@@ -48,7 +48,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Contraception Use of oxcarbazepine with hormonal contraceptives containing ethinylestradiol or levonorgestrel is associated with decreased plasma concentrations of these hormones and may result in a failure of the therapeutic effect of the oral contraceptive drug.
+ContraceptionUse of oxcarbazepine with hormonal contraceptives containing ethinylestradiol or levonorgestrel is associated with decreased plasma concentrations of these hormones and may result in a failure of the therapeutic effect of the oral contraceptive drug.
 Advise women of reproductive potential taking oxcarbazepine who are using a contraceptive containing ethinylestradiol or levonorgestrel to use additional or alternative non-hormonal birth control [see Drug interactions (7.3) and Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
