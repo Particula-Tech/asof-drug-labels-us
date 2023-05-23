@@ -1,4 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Inhalation powder: Disposable light grey and pale blue plastic inhaler containing 2 foil blister strips of powder intended for oral inhalation only.
-One strip contains fluticasone furoate (100 or 200 mcg per blister), and the other strip contains vilanterol (25 mcg per blister).
+Inhalation powder:
+
+- •50 mcg fluticasone furoate and 25 mcg vilanterol (50/25 mcg) per actuation
+- •100 mcg fluticasone furoate and 25 mcg vilanterol (100/25 mcg) per actuation
+- •200 mcg fluticasone furoate and 25 mcg vilanterol (200/25 mcg) per actuation

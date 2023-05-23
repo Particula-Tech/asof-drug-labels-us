@@ -15,5 +15,5 @@
 | Figure K | Step 6. Rinse your mouth. See Figure K. •Rinse your mouth with water after you have used the inhaler and spit the water out. Do not swallow the water. |
 | Important Note: When should you get a refill? |  |
 | Figure L | •When you have fewer than 10 doses remaining in your inhaler, the left half of the counter shows red as a reminder to get a refill. See Figure L.•After you have inhaled the last dose, the counter will show “0” and will be empty.•Throw the empty inhaler away in your household trash out of reach of children and pets. |
-| For more information about BREO ELLIPTA or how to use your inhaler, call 1-888-825-5249 or visit our website at www.myBREO.com.Trademarks are owned by or licensed to the GSK group of companies.BREO ELLIPTA was developed in collaboration with Innoviva.GlaxoSmithKline, Research Triangle Park, NC 27709©2019 GSK group of companies or its licensor.BRE:3IFU |  |
-| This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: January 2019 |  |
+| For more information about BREO ELLIPTA or how to use your inhaler, call 1-888-825-5249.Trademarks are owned by or licensed to the GSK group of companies.BREO ELLIPTA was developed in collaboration with Innoviva.GlaxoSmithKline, Durham, NC 27701©2023 GSK group of companies or its licensor.BRE:4IFU |  |
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: May 2023 |  |
