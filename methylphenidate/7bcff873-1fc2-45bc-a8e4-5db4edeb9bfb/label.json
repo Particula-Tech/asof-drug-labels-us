@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021514"
+  ],
+  "inn": "methylphenidate",
+  "labeler": "PADAGIS US LLC",
+  "package_ndcs": [
+    "0574-2410-65",
+    "0574-2415-65",
+    "0574-2420-65",
+    "0574-2430-65"
+  ],
+  "products": [
+    {
+      "form": "PATCH",
+      "generic": "methylphenidate",
+      "name": "Methylphenidate Transdermal System"
+    }
+  ],
+  "setid": "7bcff873-1fc2-45bc-a8e4-5db4edeb9bfb",
+  "source": "dailymed"
+}
