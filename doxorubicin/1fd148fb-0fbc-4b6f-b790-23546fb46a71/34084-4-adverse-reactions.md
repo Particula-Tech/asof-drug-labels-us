@@ -2,12 +2,12 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling.
 
-- Cardiomyopathy and Arrhythmias [see Warnings and Precautions (5.1)]
-- Secondary Malignancies [see Warnings and Precautions (5.2)]
-- Extravasation and Tissue Necrosis [see Warnings and Precautions (5.3)]
-- Severe Myelosuppression [see Warnings and Precautions (5.4)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.6)]
-- Radiation Sensitization and Radiation Recall [see Warnings and Precautions (5.7)]
+- •Cardiomyopathy and Arrhythmias [see Warnings and Precautions (5.1)]
+- •Secondary Malignancies [see Warnings and Precautions (5.2)]
+- •Extravasation and Tissue Necrosis [see Warnings and Precautions (5.3)]
+- •Severe Myelosuppression [see Warnings and Precautions (5.4)]
+- •Tumor Lysis Syndrome [see Warnings and Precautions (5.6)]
+- •Radiation Sensitization and Radiation Recall [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 

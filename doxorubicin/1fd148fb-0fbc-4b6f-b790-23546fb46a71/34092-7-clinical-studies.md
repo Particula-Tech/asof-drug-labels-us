@@ -34,3 +34,9 @@ Summary of Randomized Trials Comparing Doxorubicin Hydrochloride-Containing Regi
 | Combined Studies | Doxorubicin Hydrochloride-Containing Regimen |  | 2157 | 0.91 (0.82, 1.01) | 0.91 (0.81, 1.03) |
 | CMF |  | 1353 |  |  |  |
 | Abbreviations: DFS = disease free survival; OS = overall survival; AC = doxorubicin hydrochloride, cyclophosphamide; AVbCMF = doxorubicin hydrochloride, vinblastine, cyclophosphamide, methotrexate, fluorouracil; CMF = cyclophosphamide, methotrexate, fluorouracil; CMFVA = cyclophosphamide, methotrexate, fluorouracil, vincristine, doxorubicin hydrochloride; FAC = fluorouracil, doxorubicin hydrochloride, cyclophosphamide; FACV = fluorouracil, doxorubicin hydrochloride, cyclophosphamide, vincristine; HR = hazard ratio; CI = confidence interval |  |  |  |  |  |
+
+Figure 1.
+Meta-analysis of Disease-Free Survival
+
+Figure 2.
+Meta-analysis of Overall Survival

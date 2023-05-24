@@ -8,17 +8,17 @@ Doxorubicin Hydrochloride Injection/for Injection is indicated as a component of
 
 Doxorubicin Hydrochloride Injection/for Injection is indicated for the treatment of
 
-- acute lymphoblastic leukemia
-- acute myeloblastic leukemia
-- Hodgkin lymphoma
-- non-Hodgkin lymphoma (NHL)
-- metastatic breast cancer
-- metastatic Wilms' tumor
-- metastatic neuroblastoma
-- metastatic soft tissue sarcoma
-- metastatic bone sarcoma
-- metastatic ovarian carcinoma
-- metastatic transitional cell bladder carcinoma
-- metastatic thyroid carcinoma
-- metastatic gastric carcinoma
-- metastatic bronchogenic carcinoma
+- •acute lymphoblastic leukemia
+- •acute myeloblastic leukemia
+- •Hodgkin lymphoma
+- •non-Hodgkin lymphoma (NHL)
+- •metastatic breast cancer
+- •metastatic Wilms' tumor
+- •metastatic neuroblastoma
+- •metastatic soft tissue sarcoma
+- •metastatic bone sarcoma
+- •metastatic ovarian carcinoma
+- •metastatic transitional cell bladder carcinoma
+- •metastatic thyroid carcinoma
+- •metastatic gastric carcinoma
+- •metastatic bronchogenic carcinoma
