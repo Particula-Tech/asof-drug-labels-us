@@ -1,47 +1,47 @@
-# PRINCIPAL DISPLAY PANEL - 2.5 mg Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 2.5 mg Tablet Bottle Label
 
-NDC 51991-821-28
+NDC 51991-821-33
 
-Everolimus Tablets Each tablet contains 2.5 mg
+Everolimus Tablets
 
-everolimus
+2.5 mg
 
-breckenridge A Towa Company
-
-Rx Only 28 Tablets (Carton contains 4 individual blister cards of 7 tablets)
-
-# PRINCIPAL DISPLAY PANEL - 5 mg Blister Pack Carton
-
-NDC 51991-822-28
-
-Everolimus Tablets Each tablet contains 5 mg
-
-everolimus
+Rx Only 30 Tablets
 
 breckenridge A Towa Company
 
-Rx Only 28 Tablets (Carton contains 4 individual blister cards of 7 tablets)
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
 
-# PRINCIPAL DISPLAY PANEL - 7.5 mg Blister Pack Carton
+NDC 51991-822-33
 
-NDC 51991-823-28
+Everolimus Tablets
 
-Everolimus Tablets Each tablet contains 7.5 mg
+5 mg
 
-everolimus
-
-breckenridge A Towa Company
-
-Rx Only 28 Tablets (Carton contains 4 individual blister cards of 7 tablets)
-
-# PRINCIPAL DISPLAY PANEL - 10 mg Blister Pack Carton
-
-NDC 51991-824-28
-
-Everolimus Tablets Each tablet contains 10 mg
-
-everolimus
+Rx Only 30 Tablets
 
 breckenridge A Towa Company
 
-Rx Only 28 Tablets (Carton contains 4 individual blister cards of 7 tablets)
+# PRINCIPAL DISPLAY PANEL - 7.5 mg Tablet Bottle Label
+
+NDC 51991-823-33
+
+Everolimus Tablets
+
+7.5 mg
+
+Rx Only 30 Tablets
+
+breckenridge A Towa Company
+
+# PRINCIPAL DISPLAY PANEL - 10 mg Tablet Bottle Label
+
+NDC 51991-824-33
+
+Everolimus Tablets
+
+10 mg
+
+Rx Only 30 Tablets
+
+breckenridge A Towa Company
