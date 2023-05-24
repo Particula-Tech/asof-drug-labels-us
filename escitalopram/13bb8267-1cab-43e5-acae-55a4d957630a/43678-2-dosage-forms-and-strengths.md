@@ -2,10 +2,17 @@
 
 Tablets
 
-Lexapro tablets are film-coated, round tablets containing escitalopram oxalate in strengths equivalent to 5 mg, 10 mg and 20 mg escitalopram base.
-The 10 and 20 mg tablets are scored.
-Imprinted with "FL" on one side and either "5", “10”, or “20” on the other side according to their respective strengths.
+5 mg: White to off-white, round, non-scored, film-coated.
+Imprint "FL" on one side of the tablet and "5" on the other side.
+
+10 mg: White to off-white, round, scored, film-coated.
+Imprint on scored side with "F" on the left side and "L" on the right side.
+Imprint on the non-scored side with "10".
+
+20 mg: White to off-white, round, scored, film-coated.
+Imprint on scored side with "F" on the left side and "L" on the right side.
+Imprint on the non-scored side with "20".
 
 Oral Solution
 
-Lexapro oral solution contains escitalopram oxalate equivalent to 1 mg/mL escitalopram base (not currently being marketed).
+1 mg/mL: Clear, colorless to opalescent liquid, peppermint flavor (not currently being marketed).

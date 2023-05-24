@@ -1,106 +1,28 @@
 # 7DRUG INTERACTIONS
 
-## 7.1Monoamine Oxidase Inhibitors (MAOIs)
+Table 6 presents clinically important drug interactions with Lexapro.
 
-[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
+TABLE 6 Clinically Important Drug Interactions with Lexapro
 
-## 7.2Serotonergic Drugs
-
-[See Dosage and Administration (2.5 and 2.6), Contraindications (4.1) and Warnings and Precautions (5.2)].
-
-## 7.3Triptans
-
-There have been rare postmarketing reports of serotonin syndrome with use of an SSRI and a triptan.
-If concomitant treatment of Lexapro with a triptan is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases [see Warnings and Precautions (5.2)].
-
-## 7.4CNS Drugs
-
-Given the primary CNS effects of escitalopram, caution should be used when it is taken in combination with other centrally acting drugs.
-
-## 7.5Alcohol
-
-Although Lexapro did not potentiate the cognitive and motor effects of alcohol in a clinical trial, as with other psychotropic medications, the use of alcohol by patients taking Lexapro is not recommended.
-
-## 7.6Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.)
-
-Serotonin release by platelets plays an important role in hemostasis.
-Epidemiological studies of the case-control and cohort design that have demonstrated an association between use of psychotropic drugs that interfere with serotonin reuptake and the occurrence of upper gastrointestinal bleeding have also shown that concurrent use of an NSAID or aspirin may potentiate the risk of bleeding.
-Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs and SNRIs are coadministered with warfarin.
-Patients receiving warfarin therapy should be carefully monitored when Lexapro is initiated or discontinued.
-
-## 7.7Cimetidine
-
-In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of 400 mg twice a day cimetidine for 8 days resulted in an increase in citalopram AUC and Cmax of 43% and 39%, respectively.
-The clinical significance of these findings is unknown.
-
-## 7.8Digoxin
-
-In subjects who had received 21 days of 40 mg/day racemic citalopram, combined administration of citalopram and digoxin (single dose of 1 mg) did not significantly affect the pharmacokinetics of either citalopram or digoxin.
-
-## 7.9Lithium
-
-Coadministration of racemic citalopram (40 mg/day for 10 days) and lithium (30 mmol/day for 5 days) had no significant effect on the pharmacokinetics of citalopram or lithium.
-Nevertheless, plasma lithium levels should be monitored with appropriate adjustment to the lithium dose in accordance with standard clinical practice.
-Because lithium may enhance the serotonergic effects of escitalopram, caution should be exercised when Lexapro and lithium are coadministered.
-
-## 7.10Pimozide and Celexa
-
-In a controlled study, a single dose of pimozide 2 mg co-administered with racemic citalopram 40 mg given once daily for 11 days was associated with a mean increase in QTc values of approximately 10 msec compared to pimozide given alone.
-Racemic citalopram did not alter the mean AUC or Cmax of pimozide.
-The mechanism of this pharmacodynamic interaction is not known.
-
-## 7.11Sumatriptan
-
-There have been rare postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan.
-If concomitant treatment with sumatriptan and an SSRI (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline, citalopram, escitalopram) is clinically warranted, appropriate observation of the patient is advised.
-
-## 7.12Theophylline
-
-Combined administration of racemic citalopram (40 mg/day for 21 days) and the CYP1A2 substrate theophylline (single dose of 300 mg) did not affect the pharmacokinetics of theophylline.
-The effect of theophylline on the pharmacokinetics of citalopram was not evaluated.
-
-## 7.13Warfarin
-
-Administration of 40 mg/day racemic citalopram for 21 days did not affect the pharmacokinetics of warfarin, a CYP3A4 substrate.
-Prothrombin time was increased by 5%, the clinical significance of which is unknown.
-
-## 7.14Carbamazepine
-
-Combined administration of racemic citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate.
-Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered.
-
-## 7.15Triazolam
-
-Combined administration of racemic citalopram (titrated to 40 mg/day for 28 days) and the CYP3A4 substrate triazolam (single dose of 0.25 mg) did not significantly affect the pharmacokinetics of either citalopram or triazolam.
-
-## 7.16Ketoconazole
-
-Combined administration of racemic citalopram (40 mg) and ketoconazole (200 mg), a potent CYP3A4 inhibitor, decreased the Cmax and AUC of ketoconazole by 21% and 10%, respectively, and did not significantly affect the pharmacokinetics of citalopram.
-
-## 7.17Ritonavir
-
-Combined administration of a single dose of ritonavir (600 mg), both a CYP3A4 substrate and a potent inhibitor of CYP3A4, and escitalopram (20 mg) did not affect the pharmacokinetics of either ritonavir or escitalopram.
-
-## 7.18CYP3A4 and -2C19 Inhibitors
-
-In vitro studies indicated that CYP3A4 and -2C19 are the primary enzymes involved in the metabolism of escitalopram.
-However, coadministration of escitalopram (20 mg) and ritonavir (600 mg), a potent inhibitor of CYP3A4, did not significantly affect the pharmacokinetics of escitalopram.
-Because escitalopram is metabolized by multiple enzyme systems, inhibition of a single enzyme may not appreciably decrease escitalopram clearance.
-
-## 7.19Drugs Metabolized by Cytochrome P4502D6
-
-In vitro studies did not reveal an inhibitory effect of escitalopram on CYP2D6.
-In addition, steady state levels of racemic citalopram were not significantly different in poor metabolizers and extensive CYP2D6 metabolizers after multiple-dose administration of citalopram, suggesting that coadministration, with escitalopram, of a drug that inhibits CYP2D6, is unlikely to have clinically significant effects on escitalopram metabolism.
-However, there are limited in vivo data suggesting a modest CYP2D6 inhibitory effect for escitalopram, i.e., coadministration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmax and a 100% increase in AUC of desipramine.
-The clinical significance of this finding is unknown.
-Nevertheless, caution is indicated in the coadministration of escitalopram and drugs metabolized by CYP2D6.
-
-## 7.20Metoprolol
-
-Administration of 20 mg/day Lexapro for 21 days in healthy volunteers resulted in a 50% increase in Cmax and 82% increase in AUC of the beta-adrenergic blocker metoprolol (given in a single dose of 100 mg).
-Increased metoprolol plasma levels have been associated with decreased cardioselectivity.
-Coadministration of Lexapro and metoprolol had no clinically significant effects on blood pressure or heart rate.
-
-## 7.21Electroconvulsive Therapy (ECT)
-
-There are no clinical studies of the combined use of ECT and escitalopram.
+| Monoamine Oxidase Inhibitors (MAOIs) |  |
+| --- | --- |
+| Clinical Impact: | Concomitant use of SSRIs, including Lexapro, and MAOIs increases the risk of serotonin syndrome. |
+| Intervention: | Lexapro is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [see Dosage and Administration (2.7), Contraindications (4), and Warnings and Precautions (5.2)]. |
+| Pimozide |  |
+| Clinical Impact: | Concomitant use of racemic citalopram with pimozide increases plasma concentrations of pimozide, a drug with a narrow therapeutic index, and may increase the risk of QT prolongation and/or ventricular arrhythmias compared to use of racemic citalopram alone [see Clinical Pharmacology (12.3)]. |
+| Intervention: | Lexapro is contraindicated in patients taking pimozide [see Contraindications (4)]. |
+| Serotonergic Drugs |  |
+| Clinical Impact: | Concomitant use of Lexapro and other serotonergic drugs increases the risk of serotonin syndrome. |
+| Intervention: | Monitor patients for signs and symptoms of serotonin syndrome, particularly during Lexapro initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of Lexapro and/or concomitant serotonergic drugs [see Warning and Precautions (5.2)]. |
+| Drugs That Interfere With Hemostasis (NSAIDs, Aspirin, Warfarin, etc.) |  |
+| Clinical Impact: | Concomitant use of Lexapro and an antiplatelet or anticoagulant may potentiate the risk of bleeding. |
+| Intervention: | Inform patients of the increased risk of bleeding associated with the concomitant use of Lexapro and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warning and Precautions (5.7)]. |
+| Sumatriptan |  |
+| Clinical Impact: | There have been postmarketing reports describing patients with weakness, hyperreflexia, and incoordination following the use of an SSRI and sumatriptan. |
+| Intervention: | If concomitant treatment with sumatriptan and an SSRI is clinically warranted, appropriate observation of the patient is advised [see Warning and Precautions (5.2)]. |
+| Carbamazepine |  |
+| Clinical Impact: | Combined administration of racemic citalopram (40 mg/day for 14 days) and carbamazepine (titrated to 400 mg/day for 35 days) did not significantly affect the pharmacokinetics of carbamazepine, a CYP3A4 substrate. |
+| Intervention: | Although trough citalopram plasma levels were unaffected, given the enzyme-inducing properties of carbamazepine, the possibility that carbamazepine might increase the clearance of escitalopram should be considered if the two drugs are coadministered. |
+| Drugs Metabolized by CYP2D6 |  |
+| Clinical Impact: | Coadministration of escitalopram (20 mg/day for 21 days) with the tricyclic antidepressant desipramine (single dose of 50 mg), a substrate for CYP2D6, resulted in a 40% increase in Cmax and a 100% increase in AUC of desipramine. |
+| Intervention: | The clinical significance of this finding is unknown. Exercise caution during coadministration of escitalopram and drugs metabolized by CYP2D6. |

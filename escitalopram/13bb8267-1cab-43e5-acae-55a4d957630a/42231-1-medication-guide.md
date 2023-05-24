@@ -1,291 +1,62 @@
-Medication Guide
-
-Lexapro® (leks-a-pro) (escitalopram) Tablets/Oral Solution
-
-Read the Medication Guide that comes with Lexapro before you start taking it and each time you get a refill.
-There may be new information.
-This Medication Guide does not take the place of talking to your healthcare provider about your medical condition or treatment.
-Talk with your healthcare provider if there is something you do not understand or want to learn more about.
-
-What is the most important information I should know about Lexapro?
-
-Lexapro and other antidepressant medicines may cause serious side effects, including:
-
-1.
-Suicidal thoughts or actions:
-
-- Lexapro and other antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, or young adults within the first few months of treatment or when the dose is changed.
-- Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
-- Watch for these changes and call your healthcare provider right away if you notice:
-- New or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-- Pay particular attention to such changes when Lexapro is started or when the dose is changed.
-
-Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
-
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
-
-- attempts to commit suicide
-- acting on dangerous impulses
-- acting aggressive or violent
-- thoughts about suicide or dying
-- new or worse depression
-- new or worse anxiety or panic attacks
-- feeling agitated, restless, angry or irritable
-- trouble sleeping
-- an increase in activity or talking more than what is normal for you
-- other unusual changes in behavior or mood
-
-Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency.
-Lexapro may be associated with these serious side effects:
-
-2.
-Serotonin Syndrome.
-This condition can be life-threatening and may include:
-
-- agitation, hallucinations, coma or other changes in mental status
-- coordination problems or muscle twitching (overactive reflexes)
-- racing heartbeat, high or low blood pressure
-- sweating or fever
-- nausea, vomiting, or diarrhea
-- muscle rigidity
-
-3.
-Severe allergic reactions:
-
-- trouble breathing
-- swelling of the face, tongue, eyes or mouth
-- rash, itchy welts (hives) or blisters, alone or with fever or joint pain
-
-4.
-Abnormal bleeding: Lexapro and other antidepressant medicines may increase your risk of bleeding or bruising, especially if you take the blood thinner warfarin (Coumadin®, Jantoven®), a non-steroidal antiinflammatory drug (NSAIDs, like ibuprofen or naproxen), or aspirin.
-
-5.
-Seizures or convulsions
-
-6.
-Manic episodes:
-
-- greatly increased energy
-- severe trouble sleeping
-- racing thoughts
-- reckless behavior
-- unusually grand ideas
-- excessive happiness or irritability
-- talking more or faster than usual
-
-7.
-Changes in appetite or weight.
-Children and adolescents should have height and weight monitored during treatment.
-
-8.
-Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
-Symptoms may include:
-
-- headache
-- weakness or feeling unsteady
-- confusion, problems concentrating or thinking or memory problems
-
-9.
-Visual problems
-
-- eye pain
-- changes in vision
-- swelling or redness in or around the eye
-
-Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
-10.
-Sexual Dysfunction.
-Taking selective serotonin reuptake inhibitors (SSRIs), including Lexapro, may cause sexual problems.
-
-Symptoms in males may include:
-
-- Delayed ejaculation or inability to have an ejaculation
-- Decreased sex drive
-- Problems getting or keeping an erection
-
-Symptoms in females may include:
-
-- Decreased sex drive
-- Delayed orgasm or inability to have an orgasm
-
-Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with Lexapro.
-There may be treatments your healthcare provider can suggest.
-
-Do not stop Lexapro without first talking to your healthcare provider.
-Stopping Lexapro too quickly may cause serious symptoms including:
-
-- anxiety, irritability, high or low mood, feeling restless or changes in sleep habits
-- headache, sweating, nausea, dizziness
-- electric shock-like sensations, shaking, confusion
-
-What is Lexapro?
-
-Lexapro is a prescription medicine used to treat depression.
-It is important to talk with your healthcare provider about the risks of treating depression and also the risks of not treating it.
-You should discuss all treatment choices with your healthcare provider.
-Lexapro is also used to treat:
-
-- Major Depressive Disorder (MDD)
-- Generalized Anxiety Disorder (GAD)
-
-Talk to your healthcare provider if you do not think that your condition is getting better with Lexapro treatment.
-
-Who should not take Lexapro?
-
-Do not take Lexapro if you:
-
-- are allergic to escitalopram or citalopram or any of the ingredients in Lexapro.
-  See the end of this Medication Guide for a complete list of ingredients in Lexapro.
-- Take a monoamine oxidase inhibitor (MAOI).
-  Ask your healthcare provider or a pharmacist if you are not sure if you take an MAOI, including linezolid.
-- Do not take an MAOI within 2 weeks of stopping Lexapro unless directed to do so by your physician
-- Do not start Lexapro if you stopped taking an MAOI in the last 2 weeks unless directed to do so by your physician.
-
-People who take Lexapro close in time to an MAOI may have serious or even life-threatening side effects.
-Get medical help right away if you have any of these symptoms:
-
-- high fever
-- uncontrolled muscle spasms
-- stiff muscles
-- rapid changes in heart rate or blood pressure
-- confusion
-- loss of consciousness (pass out)
-
-- Do not take Lexapro with Orap® (pimozide) because taking these two drugs together can cause serious heart problems.
-
-What should I tell my healthcare provider before taking Lexapro?
-Ask if you are not sure.
-
-Before starting Lexapro, tell your healthcare provider if you:
-
-- Are taking certain drugs such as:
-- Triptans used to treat migraine headache
-- Medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, SSRIs, SNRIs, amphetamines, or antipsychotics
-- Tramadol
-- Over-the-counter supplements such as tryptophan or St. John’s Wort
-- have liver problems
-- have kidney problems
-- have heart problems
-- have or had seizures or convulsions
-- have bipolar disorder or mania
-- have low sodium levels in your blood
-- have a history of a stroke
-- have high blood pressure
-- have or had bleeding problems
-- are pregnant or plan to become pregnant.
-  Taking LEXAPRO late in pregnancy may lead to an increased risk of certain problems in your newborn.
-  Talk to your healthcare provider about the benefits and risks of treating depression during pregnancy
-  - If you become pregnant while taking LEXAPRO, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
-    You can register by calling 1-844-405-6185 or go to https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
-- are breast-feeding or plan to breast-feed.
-  Lexapro may pass into your breast milk.
-  Talk to your healthcare provider about the best way to feed your baby if taking Lexapro.
-
-Tell your healthcare provider about all the medicines that you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
-Lexapro and some medicines may interact with each other, may not work as well, or may cause serious side effects.
-
-Your healthcare provider or pharmacist can tell you if it is safe to take Lexapro with your other medicines.
-Do not start or stop any medicine while taking Lexapro without talking to your healthcare provider first.
-
-| If you take Lexapro, you should not take any other medicines that contain escitalopram or citalopram including: Celexa. |
-| --- |
-
-How should I take Lexapro?
-
-- Take Lexapro exactly as prescribed.
-  Your healthcare provider may need to change the dose of Lexapro until it is the right dose for you.
-- Lexapro may be taken with or without food.
-- If you miss a dose of Lexapro, take the missed dose as soon as you remember.
-  If it is almost time for the next dose, skip the missed dose and take your next dose at the regular time.
-  Do not take two doses of Lexapro at the same time.
-- If you take too much Lexapro, call your healthcare provider or poison control center right away, or get emergency treatment.
-
-What should I avoid while taking Lexapro?
-
-Lexapro can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.
-You should not drive, operate heavy machinery, or do other dangerous activities until you know how Lexapro affects you.
-Do not drink alcohol while using Lexapro.
-
-What are the possible side effects of Lexapro?
-
-Lexapro may cause serious side effects, including all of those described in the section entitled “What is the most important information I should know about Lexapro?”
-
-Common possible side effects in people who take Lexapro include:
-
-- Nausea
-- Sleepiness
-- Weakness
-- Dizziness
-- Feeling anxious
-- Trouble sleeping
-- Sexual problems
-- Sweating
-- Shaking
-- Not feeling hungry
-- Dry mouth
-- Constipation
-- Infection
-- Yawning
-
-Other side effects in children and adolescents include:
-
-- increased thirst
-- abnormal increase in muscle movement or agitation
-- nose bleed
-- difficult urination
-- heavy menstrual periods
-- possible slowed growth rate and weight change.
-  Your child’s height and weight should be monitored during treatment with Lexapro.
-
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
-These are not all the possible side effects of Lexapro.
-For more information, ask your healthcare provider or pharmacist.
-
-CALL YOUR DOCTOR FOR MEDICAL ADVICE ABOUT SIDE EFFECTS.
-YOU MAY REPORT SIDE EFFECTS TO THE FDA AT 1-800-FDA-1088.
-
-How should I store Lexapro?
-
-- Store Lexapro at 68°F to 77°F (20°C to 25°C); excursions permitted to 59°F to 86°F (15°C to 30°C).
-- Keep Lexapro bottle closed tightly.
-
-Keep Lexapro and all medicines out of the reach of children.
-
-General information about Lexapro
-
-Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
-Do not use Lexapro for a condition for which it was not prescribed.
-Do not give Lexapro to other people, even if they have the same condition.
-It may harm them.
-
-This Medication Guide summarizes the most important information about Lexapro.
-If you would like more information, talk with your healthcare provider.
-You may ask your healthcare provider or pharmacist for information about Lexapro that is written for healthcare professionals.
-
-For more information about Lexapro call 1-800-678-1605 or go to www.Lexapro.com.
-
-What are the ingredients in Lexapro?
-
-Active ingredient: escitalopram oxalate
-
-Inactive ingredients:
-
-- Tablets: talc, croscarmellose sodium, microcrystalline cellulose/colloidal silicon dioxide, and magnesium stearate.
-  The film coating contains hypromellose, titanium dioxide, and polyethylene glycol.
-- Oral Solution: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor (oral solution is not currently being marketed).
-
-Distributed by: Allergan USA, Inc. Madison, NJ 07940
-
-Licensed from H. Lundbeck A/S
-
-Revised: 09/2021
+| MEDICATION GUIDE Lexapro® (leks-a-pro) (escitalopram) tablets oral solution |  |  |  |
+| --- | --- | --- | --- |
+| What is the most important information I should know about Lexapro? Lexapro may cause serious side effects, including: Increased risk of suicidal thoughts or actions. Lexapro and other antidepressant medicines increase the risk of suicidal thoughts and actions in people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed. ○ Depression or other mental illnesses are the most important causes of suicidal thoughts or actions. How can I watch for and try to prevent suicidal thoughts and actions? ○ Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts, or feelings, or if you or your child develop suicidal thoughts or actions. This is very important when an antidepressant medicine is started or when the dose is changed. ○ Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings or if you or your child develop suicidal thoughts or actions. ○ Keep all follow-up visits with your healthcare provider as scheduled and call your healthcare provider between visits if you are worried about symptoms. Call your healthcare provider or get emergency medical help right away if you or your child have any of the following symptoms, especially if they are new, worse, or worry you: |  |  |  |
+| attempts to commit suicide |  | acting on dangerous impulses |  |
+| acting aggressive, being angry or violent |  | thoughts about suicide or dying |  |
+| new or worse depression |  | new or worsening anxiety |  |
+| panic attacks |  | feeling very agitated or restless |  |
+| new or worse irritability |  | trouble sleeping |  |
+| an extreme increase in activity or talking (mania) |  | other unusual changes in behavior or mood |  |
+| What is Lexapro? Lexapro is a prescription medicine used to treat: a certain type of depression called Major Depressive Disorder (MDD) in adults and children 12 years of age and older Generalized Anxiety Disorder (GAD) in adults and children 7 years of age and older It is not known if Lexapro is safe and effective for use in children under 12 years of age with MDD or children under 7 years of age with GAD. |  |  |  |
+| Do not take Lexapro if you or your child: are taking, or have stopped taking within the last 14 days, a medicine called a monoamine oxidase inhibitor (MAOI), including the antibiotic linezolid or intravenous methylene blue are taking the antipsychotic medicine pimozide are allergic to escitalopram or citalopram or any of the ingredients in Lexapro. See the end of this Medication Guide for a complete list of ingredients in Lexapro. Ask your healthcare provider or pharmacist if you are not sure if you or your child take an MAOI, including the antibiotic linezolid or intravenous methylene blue. Do not start taking an MAOI for at least 14 days after you or your child have stopped treatment with Lexapro. |  |  |  |
+| Before taking Lexapro, tell your healthcare provider about all your medical conditions, including if you or your child: have or had seizures or convulsions have, or have a family history of bipolar disorder, mania, or hypomania have low blood sodium levels have or had bleeding problems have high pressure in the eye (glaucoma) have heart, liver, or kidney problems are pregnant or plan to become pregnant. Lexapro may harm the unborn baby. Taking Lexapro during the third trimester of pregnancy may cause the baby to have withdrawal symptoms, or breathing, temperature control, feeding, or other problems after birth. Talk to your healthcare provider about the risks to the baby if you or your child take Lexapro during pregnancy. ○ Tell your healthcare provider right away if you or your child become pregnant or think you may be pregnant during treatment with Lexapro. ○ There is a pregnancy registry for females who are exposed to Lexapro during pregnancy. The purpose of the registry is to collect information about the health of females exposed to Lexapro and their baby. If you or your child become pregnant during treatment with Lexapro, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visit online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/. are breastfeeding or plan to breastfeed. Lexapro passes into breast milk and may harm the baby. Talk to your healthcare provider about the best way to feed the baby during treatment with Lexapro. ○ If you or your child breastfeed during treatment with Lexapro, call your healthcare provider if the baby develops sleepiness or fussiness, or is not feeding or gaining weight well. Tell your healthcare provider about all the medicines you or your child take, including prescription and non-prescription medicines, vitamins, and herbal supplements. Lexapro and some medicines may affect each other and may cause serious side effects. Lexapro may affect the way other medicines work and other medicines may affect the way Lexapro works. Especially tell your healthcare provider if you take: medicines used to treat migraine headache known as triptans tricyclic antidepressants fentanyl lithium tramadol tryptophan buspirone amphetamines St. John’s Wort medicines used to treat mood, anxiety, psychotic or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) diuretics medicines that can affect blood clotting such as aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs) and warfarin Ask your healthcare provider if you are not sure if you or your child are taking any of these medicines. Your healthcare provider can tell you if it is safe to take Lexapro with your other medicines. Do not start or stop any other medicines during treatment with Lexapro without talking to your healthcare provider first. Stopping Lexapro suddenly may cause you or your child to have serious side effects. See, “What are the possible side effects of Lexapro?” Know the medicines you or your child take. Keep a list of them to show your healthcare provider and pharmacist when you get new medicine. |  |  |  |
+| How should I take Lexapro? Take Lexapro exactly as prescribed. Your healthcare provider may need to change the dose of Lexapro until it is the right dose for you or your child. Take Lexapro 1 time each day, in the morning or the evening. Take Lexapro with or without food. If you or your child take too much Lexapro, call your healthcare provider or Poison Help Line at 1-800-222-1222, or go to the nearest hospital emergency room right away. |  |  |  |
+| What should I avoid while taking Lexapro? Do not drive, operate heavy machinery, or do other dangerous activities until you know how Lexapro affects you. Lexapro can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly. Do not drink alcohol during treatment with Lexapro. |  |  |  |
+| What are the possible side effects of Lexapro? Lexapro may cause serious side effects, including: See “What is the most important information I should know about Lexapro?” Serotonin syndrome. A potentially life-threatening problem called serotonin syndrome can happen when Lexapro is taken with certain other medicines. See “Do not take Lexapro if you?” Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child have any of the following signs and symptoms of serotonin syndrome: |  |  |  |
+| agitation |  | seeing or hearing things that are not real (hallucinations) |  |
+| confusion |  | coma |  |
+| fast heartbeat |  | blood pressure changes |  |
+| sweating |  | shaking (tremors), stiff muscles, or muscle twitching |  |
+| flushing |  | dizziness |  |
+| seizures |  | high body temperature (hyperthermia) |  |
+| nausea, vomiting, diarrhea |  | loss of coordination |  |
+| Discontinuation syndrome. Suddenly stopping Lexapro may cause you or your child to have serious side effects. Your healthcare provider may want to decrease the dose slowly. Symptoms may include: |  |  |  |
+| changes in mood |  | headache |  |
+| irritability and agitation |  | tiredness |  |
+| dizziness |  | problems sleeping |  |
+| electric shock sensation (paresthesia) |  | hypomania |  |
+| anxiety |  | ringing in your ears (tinnitus) |  |
+| confusion |  | seizures |  |
+| Seizures (convulsions). |  |  |  |
+| Manic episodes. Manic episodes may happen in people with bipolar disorder who take Lexapro. Symptoms may include: |  |  |  |
+| greatly increased energy |  | severe trouble sleeping |  |
+| racing thoughts |  | reckless behavior |  |
+| unusually grand ideas |  | excessive happiness or irritability |  |
+| talking more or faster than usual |  |  |  |
+| Low sodium levels in the blood (hyponatremia). Low sodium levels in the blood that may be serious and may cause death can happen during treatment with Lexapro. Elderly people and people who take certain medicines may be at greater risk for developing low sodium levels in the blood. Signs and symptoms may include: |  |  |  |
+| headache |  | problems concentrating or thinking |  |
+| weakness or feeling unsteady which can lead to falls |  | confusion |  |
+| memory problems |  |  |  |
+| In more severe or more sudden cases, signs and symptoms include: |  |  |  |
+| seeing or hearing things that are not real (hallucinations) |  | fainting |  |
+| seizures |  | coma |  |
+| stopping breathing (respiratory arrest) |  |  |  |
+| Increased risk of bleeding: Taking Lexapro with aspirin, NSAIDS, warfarin, or other blood thinners may add to this risk. Tell your healthcare provider if you have any unusual bleeding or bruising. |  |  |  |
+| Visual problems (angle-closure glaucoma). Lexapro may cause a type of eye problem called angle-closure glaucoma in people with certain eye problems. You or your child may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. Call your healthcare provider if you or your child have: |  |  |  |
+| eye pain | changes in vision |  | swelling or redness in or around the eye |
+| Sexual problems (dysfunction). Taking Lexapro may cause sexual problems. Symptoms in males may include: |  |  |  |
+| delayed ejaculation or inability to have an ejaculation |  | decreased sex drive |  |
+| problems getting or keeping an erection |  |  |  |
+| Symptoms in females may include: |  |  |  |
+| decreased sex drive |  | delayed orgasm or inability to have an orgasm |  |
+| Talk to your healthcare provider if you develop any changes in your sexual function or if you have any questions or concerns about sexual problems during treatment with Lexapro. There may be treatments your healthcare provider can suggest. |  |  |  |
+| The most common side effects of Lexapro include: |  |  |  |
+| trouble sleeping | sweating |  | decreased sex drive |
+| delayed ejaculation nausea | tiredness sleepiness |  | delayed orgasm or inability to have an orgasm |
+| Height and weight changes in children may happen during treatment with Lexapro. Your child’s height and weight should be monitored during treatment with LEXAPRO. These are not all the possible side effects of Lexapro. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |  |
+| How should I store Lexapro? Store Lexapro at room temperature between 68°F to 77°F (20°C to 25°C). Keep Lexapro and all medicines out of the reach of children. |  |  |  |
+| General information about the safe and effective use of Lexapro. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use Lexapro for a condition for which it was not prescribed. Do not give Lexapro to other people, even if they have the same symptoms that you have. It may harm them. You may ask your pharmacist or healthcare provider for information about Lexapro that is written for health professionals. |  |  |  |
+| What are the ingredients in Lexapro? Active ingredient: escitalopram oxalate Inactive ingredients: Tablets: talc, croscarmellose sodium, microcrystalline cellulose/colloidal silicon dioxide, and magnesium stearate. The film coating contains hypromellose, titanium dioxide, and polyethylene glycol Oral solution: sorbitol, purified water, citric acid, sodium citrate, malic acid, glycerin, propylene glycol, methylparaben, propylparaben, and natural peppermint flavor Distributed by: AbbVie, Inc. 1 N Waukegan Rd. North Chicago, IL 60064 Licensed from H. Lundbeck A/S ©2023 Allergan. All rights reserved. For more information about Lexapro, call 1-800-678-1605 or go to www.Lexapro.com |  |  |  |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-© 2021 Allergan.
-All rights reserved.
-
-v3.0MG2005
+Revised: 5/2023
