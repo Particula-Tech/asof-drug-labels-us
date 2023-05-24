@@ -158,7 +158,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store clopidogrel tablets?
 
-- Store clopidogrel tablets at 20° to 25° C (68° to 77° F); excursions permitted to 15° to 30° C (59° to 86° F) [See USP Controlled Room Temperature].
+- Store clopidogrel tablets at 59°F to 86°F (15°C to 30°C).
 
 Keep clopidogrel tablets and all medicines out of the reach of children.
 
@@ -197,4 +197,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8089894 Revised November 2022
+8092893 Revised: May 2023
