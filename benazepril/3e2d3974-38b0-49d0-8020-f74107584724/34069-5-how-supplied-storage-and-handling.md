@@ -24,15 +24,15 @@ Storage: Do not store above 86°F (30°C).
 Protect from moisture and light.
 Dispense in a tight, light‑resistant container (USP).
 
-Distributed by:
+Distributed By:
 
-Padagis
+PadagisTM
 
 Allegan, MI 49010
 
 www.padagis.com
 
-37Y00 RC J4 Rev 09-21
+37Y00 RC J5 Rev 11-22
 
 Manufactured for:
 
@@ -40,8 +40,8 @@ Validus Pharmaceuticals LLC
 
 Parsippany, NJ 07054
 
-© 2021 Validus Pharmaceuticals LLC
+© 2022 Validus Pharmaceuticals LLC
 
-60160-03
+60160-04
 
-September 2021
+November 2022
