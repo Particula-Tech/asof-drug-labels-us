@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-The active component of fluticasone propionate nasal spray USP is fluticasone propionate USP, a corticosteroid having the chemical name S-(fluoromethyl)6α,9-difluoro-11β-17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
+The active component of fluticasone propionate nasal spray, USP is fluticasone propionate, USP, a corticosteroid having the chemical name S-(fluoromethyl)6α,9-difluoro-11β-17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 
 Fluticasone propionate is a white to off-white powder with a molecular weight of 500.6 and the molecular formula is C25H31F3O5S.
 It is practically insoluble in water, freely soluble in dimethyl sulfoxide and dimethylformamide, and slightly soluble in methanol and 95% ethanol.

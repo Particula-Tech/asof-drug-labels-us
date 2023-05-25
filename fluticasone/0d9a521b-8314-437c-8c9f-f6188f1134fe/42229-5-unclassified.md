@@ -79,12 +79,12 @@ Storing your fluticasone propionate nasal spray:
 
 This Patient Information and Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10002064/10
+C50000258/01
 
-Revised December 2019
+Revised February 2022

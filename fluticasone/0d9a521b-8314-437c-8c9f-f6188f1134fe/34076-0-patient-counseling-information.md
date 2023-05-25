@@ -26,15 +26,15 @@ Patients should not increase the prescribed dosage but should contact their heal
 
 Keep Spray Out of Eyes and Mouth: Inform patients to avoid spraying fluticasone propionate nasal spray in their eyes and mouth.
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10002064/10
+C50000258/01
 
-Revised December 2019
+Revised February 2022
 
 # Patient Information
 
@@ -169,20 +169,20 @@ It may harm them.
 
 You can ask your pharmacist or healthcare provider for information about fluticasone propionate nasal spray that was written for healthcare professionals.
 
-What are the ingredients in fluticasone propionate nasal spray USP?
+What are the ingredients in fluticasone propionate nasal spray, USP?
 
-Active ingredient: fluticasone propionate USP.
+Active ingredient: fluticasone propionate, USP.
 
 Inactive ingredients: 0.02% w/w benzalkonium chloride, dextrose, microcrystalline cellulose and carboxymethylcellulose sodium, 0.25% w/w phenylethyl alcohol and polysorbate 80.
 
 For more information about fluticasone propionate nasal spray, call 1-800-962-8364.
 
-Distr. by: West-Ward
+Distributed by: Hikma
 
-Pharmaceuticals Corp.
+Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-10002064/10
+C50000258/01
 
-Revised December 2019
+Revised February 2022
