@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214512"
+  ],
+  "inn": "alendronate",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-264-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "alendronate sodium",
+      "name": "Alendronate Sodium"
+    }
+  ],
+  "setid": "81589178-10c9-4806-91eb-54e638d35b8d",
+  "source": "dailymed"
+}
