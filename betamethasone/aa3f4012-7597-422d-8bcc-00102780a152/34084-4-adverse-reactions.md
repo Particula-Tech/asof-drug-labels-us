@@ -8,4 +8,4 @@ Cutaneous atrophy of the face occurred in 1/6 (17%) of infants, 2/9 (22%) of 2 t
 Non-facial atrophy occurred in 15%, 8%, and 9% of 2 to 5 year olds, 6 to 8 year olds, and 9 to 12 year olds, respectively.
 Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing’s syndrome, hyperglycemia, and glucosuria in some patients.
 
-To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE EVENTS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

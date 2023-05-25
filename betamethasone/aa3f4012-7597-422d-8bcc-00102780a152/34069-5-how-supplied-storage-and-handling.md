@@ -7,7 +7,7 @@ Betamethasone dipropionate ointment, USP 0.05% is available in:
 
 Store between 15° to 30°C (59° to 86°F).
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 7/2020
+B 2/2023
