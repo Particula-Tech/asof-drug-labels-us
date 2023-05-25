@@ -1,3 +1,5 @@
+# HUMALOG Mix50/50™ VIAL INSTRUCTIONS FOR USE
+
 Instructions for Use
 
 HUMALOG® (HU-ma-log) Mix50/50™
@@ -116,6 +118,8 @@ Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 1999, 2019
 All rights reserved.
 
 LOG5050VL-0002-IFU-20191115
+
+# HUMALOG Mix50/50™ KWIKPEN INSTRUCTIONS FOR USE
 
 Instructions for Use
 
