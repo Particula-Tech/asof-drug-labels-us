@@ -75,10 +75,11 @@ Distributed by GE Healthcare Inc., Marlborough, MA 01752 U.S.A.
 
 Product of Norwegian Origin.
 
-Omnipaque is a trademark of GE Healthcare or one of its subsidiaries.
-GE and the GE Monogram are trademarks of General Electric Company.
+Omnipaque is a trademark of GE HealthCare or one of its subsidiaries.
+GE is a trademark of General Electric Company used under trademark license.
+
 NOVAPLUS is a registered trademark of Vizient, Inc.
 
-© 2022 General Electric Company - All rights reserved.
+© 2023 GE HealthCare
 
-Revised 2/2022
+Revised 4/2023
