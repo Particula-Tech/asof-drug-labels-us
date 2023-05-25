@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA205932"
+  ],
+  "inn": "pitavastatin",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-3631-98",
+    "0480-3632-98",
+    "0480-3633-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "pitavastatin calcium",
+      "name": "Pitavastatin"
+    }
+  ],
+  "setid": "fac09182-dcf2-1770-e053-6394a90af50c",
+  "source": "dailymed"
+}
