@@ -40,7 +40,7 @@ Table 2: Selected Adverse Reactionsa (Grades 2-4) Reported in ≥2% of Treatment
 | Diarrhea | 2% | 1% |
 | Headache | 2% | 1% |
 
-1. a Frequencies of adverse reactions are based on Grades 2-4 adverse events attributed to study drugs. b Rash events include dermatitis allergic, drug hypersensitivity, pruritus generalized, eosinophilic pustular folliculitis, rash, rash generalized, rash macular, rash maculopapular, rash morbilliform, rash papular, and urticaria.
+a Frequencies of adverse reactions are based on Grades 2-4 adverse events attributed to study drugs. b Rash events include dermatitis allergic, drug hypersensitivity, pruritus generalized, eosinophilic pustular folliculitis, rash, rash generalized, rash macular, rash maculopapular, rash morbilliform, rash papular, and urticaria.
 
 ### Less Common Adverse Reactions
 

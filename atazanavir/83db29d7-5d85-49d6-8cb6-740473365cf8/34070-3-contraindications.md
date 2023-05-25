@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-The concomitant use of EVOTAZ and the following drugs in Table 1, are contraindicated due to the potential for serious and/or life-threatening events or loss of therapeutic effect [see Warnings and Precautions (5.8, 5.9), Drug Interactions (7) and Clinical Pharmacology (12.3)].
+The concomitant use of EVOTAZ and the following drugs in Table 1, are contraindicated due to the potential for serious and/or life-threatening events or loss of therapeutic effect [see Warnings and Precautions (5.8, 5.9), Drug Interactions (7), and Clinical Pharmacology (12.3)].
 
 EVOTAZ is contraindicated:
 
@@ -31,5 +31,5 @@ Table 1: Drugs Contraindicated with EVOTAZ
 | Phosphodiesterase-5 (PDE-5) Inhibitor | sildenafila when administered for the treatment of pulmonary arterial hypertension |
 | Protease Inhibitors | indinavir |
 | Sedative/hypnotics | triazolam, orally administered midazolamb |
-
-1. a Refer to Table 5 for sildenafil when administered for erectile dysfunction [see Drug Interactions (7.3)]. b Refer to Table 5 for parenterally administered midazolam [see Drug Interactions (7.3)].
+| a Refer to Table 5 for sildenafil when administered for erectile dysfunction [see Drug Interactions (7.3)]. |  |
+| b Refer to Table 5 for parenterally administered midazolam [see Drug Interactions (7.3)]. |  |

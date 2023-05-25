@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-EVOTAZ is a fixed-dose tablet consisting of the HIV-1 antiretroviral drug, atazanavir and the CYP3A inhibitor, cobicistat [see Microbiology (12.4)].
+EVOTAZ is a fixed-dose tablet consisting of the HIV-1 antiretroviral drug, atazanavir and the CYP3A inhibitor, cobicistat [see Clinical Pharmacology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -53,7 +53,7 @@ Table 6: Pharmacokinetic Properties of the Components of EVOTAZ
 | Metabolism | CYP3A (major) Glucuronidation, N-dealkylation, hydrolysis, oxygenation with dehydrogenation (minor) | CYP3A (major) CYP2D6 (minor) |
 | Elimination |  |  |
 | Major route of elimination | Metabolism | Metabolism |
-| t1/2(h) | 7.2a | 3.5 |
+| t1/2 (h) | 7.2a | 3.5 |
 | % Of dose excreted in urine | ND | 8.2c |
 | % Of dose excreted in feces | ND | 86.2c |
 | a Following EVOTAZ dosing under fasted conditions. b Values refer to geometric mean ratio (fed / fasted) and (90% confidence interval). c Dosing in mass balance study: cobicistat (single dose administration of [14C] cobicistat after multiple dosing of cobicistat for six days). ND = not determined. |  |  |
@@ -75,7 +75,7 @@ Table 7: Pharmacokinetic Parameters (Mean ± SD) of Atazanavir in the Pharmacoki
 
 In pediatric subjects aged 12 to less than 18 years who received atazanavir 300 mg coadministered with cobicistat 150 mg (N=12), atazanavir exposures (AUCtau, Cmax, and Ctau) were 20-60% higher than in adults; the increases were not considered clinically significant (Table 8).
 
-Table 8 Multiple Dose Pharmacokinetic Parameters of Atazanavir Following Coadministration of Atazanavir with Cobicistat in Pediatric Subjects with HIV-1 Infection Weighing at Least 35 kg
+Table 8: Multiple Dose Pharmacokinetic Parameters of Atazanavir Following Coadministration of Atazanavir with Cobicistat in Pediatric Subjects with HIV-1 Infection Weighing at Least 35 kg
 
 | Pediatric subjects (N=12)a | Adult subjects (N=30)b |  |
 | --- | --- | --- |
@@ -102,8 +102,7 @@ EVOTAZ has not been studied in patients with hepatic impairment.
 
 Atazanavir: Increased concentrations of atazanavir are expected in those with moderately or severely impaired hepatic function (Study AI424-015).
 
-Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects.
-(Study GS-US-183-0133).
+Cobicistat: No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with moderate hepatic impairment (Child-Pugh Class B) and healthy subjects (Study GS-US-183-0133).
 The effect of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of cobicistat has not been studied [see Use in Specific Populations (8.7)].
 
 #### Pregnancy and Postpartum

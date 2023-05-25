@@ -9,4 +9,4 @@ EVOTAZ® is indicated in combination with other antiretroviral agents for the tr
 
 ## 1.2 Limitations of Use
 
-Use of EVOTAZ in treatment-experienced patients should be guided by the number of baseline primary protease inhibitor resistance substitutions [see Microbiology (12.4)].
+Use of EVOTAZ in treatment-experienced patients should be guided by the number of baseline primary protease inhibitor resistance substitutions [see Clinical Pharmacology (12.4)].

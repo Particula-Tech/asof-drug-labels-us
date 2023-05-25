@@ -49,7 +49,7 @@ Reports included biopsy-proven cases of granulomatous interstitial nephritis ass
 Consider alternatives to EVOTAZ in patients at high risk for renal disease or with preexisting renal disease.
 Renal laboratory testing (including serum creatinine, estimated creatinine clearance, and urinalysis with microscopic examination) should be conducted in all patients prior to initiating therapy with EVOTAZ and continued during treatment with EVOTAZ.
 Expert consultation is advised for patients who have confirmed renal laboratory abnormalities while taking EVOTAZ.
-In patients with progressive kidney disease, discontinuation of EVOTAZ may be considered [see Dosage and Administration (2.1 and 2.3) and Adverse Reactions (6.1)].
+In patients with progressive kidney disease, discontinuation of EVOTAZ may be considered [see Dosage and Administration (2.1, 2.3) and Adverse Reactions (6.1)].
 
 ## 5.6 Nephrolithiasis and Cholelithiasis
 
@@ -82,7 +82,7 @@ See Table 5 for steps to prevent or manage these possible and known significant 
 Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4)andDrug Interactions (7)].
 
 When used with concomitant medications, EVOTAZ may result in different drug interactions than those observed or expected with atazanavir coadministered with ritonavir.
-Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with atazanavir coadministered with ritonavir to certain EVOTAZ interactions [see Drug Interactions (7), and Clinical Pharmacology (12.3)].
+Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with atazanavir coadministered with ritonavir to certain EVOTAZ interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.9 Antiretrovirals that are Not Recommended
 

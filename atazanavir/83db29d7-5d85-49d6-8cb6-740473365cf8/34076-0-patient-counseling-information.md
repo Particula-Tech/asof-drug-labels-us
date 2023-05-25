@@ -6,14 +6,14 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Advise patients to take EVOTAZ with food every day and that EVOTAZ must always be used in combination with other antiretroviral drugs.
 Inform patients to avoid missing doses as it can result in development of resistance, and not to discontinue therapy without consulting with their healthcare provider.
-Advise patients if a dose of EVOTAZ is missed, they should take the dose as soon as possible and then return to their normal schedule; however, if a dose is skipped, the patient should not double the next dose [see Dosage and Administration (2.2,2.3)].
+Advise patients if a dose of EVOTAZ is missed, they should take the dose as soon as possible and then return to their normal schedule; however, if a dose is skipped, the patient should not double the next dose [see Dosage and Administration (2.2, 2.3)].
 
 ### Drug Interactions
 
 EVOTAZ may interact with many drugs; therefore, inform patients of the potential for serious drug interactions with EVOTAZ, and that some drugs are contraindicated with EVOTAZ and other drugs require dosage adjustment.
 Advise patients to report to their healthcare provider the use of any other prescription, nonprescription medication, or herbal products, particularly St. John’s wort.
 
-Instruct patients receiving hormonal contraceptives to use additional or alternative non-hormonal contraceptive measures during therapy with EVOTAZ because no data are available to make recommendations regarding use of hormonal contraceptives and atazanavir coadministered with cobicistat [see Contraindications (4), Warnings and Precautions (5.8, 5.9) and Drug Interactions (7)].
+Instruct patients receiving hormonal contraceptives to use additional or alternative non-hormonal contraceptive measures during therapy with EVOTAZ because no data are available to make recommendations regarding use of hormonal contraceptives and atazanavir coadministered with cobicistat [see Contraindications (4), Warnings and Precautions (5.8, 5.9), and Drug Interactions (7)].
 
 ### Cardiac Conduction Abnormalities
 
