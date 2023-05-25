@@ -6,15 +6,15 @@ A serum uric acid level of less than 6 mg/dL is the goal of antihyperuricemic th
 
 The efficacy of febuxostat was demonstrated in three randomized, double-blind, controlled trials in patients with hyperuricemia and gout.
 Hyperuricemia was defined as a baseline serum uric acid level ≥8 mg/dL.
-Study 1 (ClinicalTrials.gov identifier NCT00430248) randomized patients to: febuxostat 40 mg daily, febuxostat 80 mg daily, or allopurinol (300 mg daily for patients with estimated creatinine clearance (Clcr) ≥60 mL/min or 200 mg daily for patients with estimated Clcr ≥30 mL/min and ≤59 mL/min).
+Study 1 (NCT00430248) randomized patients to: febuxostat 40 mg daily, febuxostat 80 mg daily, or allopurinol (300 mg daily for patients with estimated creatinine clearance (Clcr) ≥60 mL/min or 200 mg daily for patients with estimated Clcr ≥30 mL/min and ≤59 mL/min).
 The duration of Study 1 was six months.
-Study 2 (ClinicalTrials.gov identifier NCT00174915) randomized patients to: placebo, febuxostat 80 mg daily, febuxostat 120 mg daily, febuxostat 240 mg daily or allopurinol (300 mg daily for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg daily for patients with a baseline serum creatinine greater than 1.5 mg/dL and ≤2 mg/dL).
+Study 2 (NCT00174915) randomized patients to: placebo, febuxostat 80 mg daily, febuxostat 120 mg daily, febuxostat 240 mg daily or allopurinol (300 mg daily for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg daily for patients with a baseline serum creatinine greater than 1.5 mg/dL and ≤2 mg/dL).
 The duration of Study 2 was six months.
-Study 3 (ClinicalTrials.gov identifier NCT00102440), a one year study, randomized patients to: febuxostat 80 mg daily, febuxostat 120 mg daily, or allopurinol 300 mg daily.
+Study 3 (NCT00102440), a year study, randomized patients to: febuxostat 80 mg daily, febuxostat 120 mg daily, or allopurinol 300 mg daily.
 Patients who completed Study 2 and Study 3 were eligible to enroll in a Phase 3 long-term extension study in which patients received treatment with febuxostat for over three years.
 In all three studies, patients received naproxen 250 mg twice daily or colchicine 0.6 mg once or twice daily for gout flare prophylaxis.
 In Study 1 the duration of prophylaxis was six months; in Study 2 and Study 3 the duration of prophylaxis was eight weeks.
-The efficacy of febuxostat was also evaluated in a four week dose ranging study which randomized patients to: placebo, febuxostat 40 mg daily, febuxostat 80 mg daily, or febuxostat 120 mg daily.
+The efficacy of febuxostat was also evaluated in a 4 week dose ranging study which randomized patients to: placebo, febuxostat 40 mg daily, febuxostat 80 mg daily, or febuxostat 120 mg daily.
 Patients who completed this study were eligible to enroll in a long-term extension study in which patients received treatment with febuxostat for up to five years.
 Patients in these studies were representative of the patient population for which febuxostat use is intended.
 Table 2 summarizes the demographics and baseline characteristics for the patients enrolled in the studies.
@@ -35,7 +35,9 @@ Table 2: Patient Demographics and Baseline Characteristics in Study 1, Study 2, 
 | Mean baseline sUA | 9.7 mg/dL |
 | Experienced a gout flare in previous year | 85% |
 
-Serum Uric Acid Level less than 6 mg/dL at Final Visit Febuxostat 80 mg was superior to allopurinol in lowering serum uric acid to less than 6 mg/dL at the final visit.
+Serum Uric Acid Level less than 6 mg/dL at Final Visit
+
+Febuxostat 80 mg was superior to allopurinol in lowering serum uric acid to less than 6 mg/dL at the final visit.
 Febuxostat 40 mg daily, although not superior to allopurinol, was effective in lowering serum uric acid to less than 6 mg/dL at the final visit (Table 3).
 
 Table 3: Proportion of Patients with Serum Uric Acid Levels less than 6 mg/dL at Final Visit
@@ -62,15 +64,15 @@ Table 4: Proportion of Patients with Serum Uric Acid Levels less than 6 mg/dL in
 
 ## 14.2 Cardiovascular Safety Study
 
-A randomized, double-blind, allopurinol-controlled CV outcomes study (CARES) was conducted to evaluate the CV risk of febuxostat.
+A randomized, double-blind, allopurinol-controlled CV outcomes study (CARES) was conducted to evaluate the CV risk of febuxostat (NCT01101035).
 The study compared the risk of MACE between patients treated with febuxostat (N=3098) and allopurinol-treated patients (N=3092).
 The primary endpoint was the time to first occurrence of a MACE defined as the composite of CV death, nonfatal MI, nonfatal stroke, or unstable angina with urgent coronary revascularization.
 The study was designed to exclude a prespecified risk margin of 1.3 for the hazard ratio of MACE.
 An independent committee conducted a blinded evaluation of serious CV adverse events according to predefined criteria (adjudication) for determination of MACE.
 The study was event driven and patients were followed until a sufficient number of primary outcome events accrued.
 The median on-study follow-up time was 2.6 years.
-Patients randomized to febuxostat initially received 40 mg once daily which was increased to 80 mg once daily, if their sUA was ≥6mg/dL at Week 2.
-For patients randomized to allopurinol, those who had normal renal function or mild renal impairment (estimated creatinine clearance (eClcr) ≥60 to ˂90 mL/minute) initially received 300 mg once daily with 100 mg/day dose increments monthly until either sUA ˂6mg/dL or an allopurinol dosage of 600 mg once daily was achieved; those who had moderate renal impairment (eClcr ≥30 to ˂60 mL/minute) initially received 200 mg once daily with 100 mg/day dose increments monthly until either a sUA ˂6 mg/dL or an allopurinol dosage of 400 mg once daily was achieved.
+Patients randomized to febuxostat initially received 40 mg once daily which was increased to 80 mg once daily, if their sUA was ≥6 mg/dL at Week 2.
+For patients randomized to allopurinol, those who had normal renal function or mild renal impairment (estimated creatinine clearance (eClcr) ≥60 to ˂90 mL/minute) initially received 300 mg once daily with 100 mg/day dose increments monthly until either sUA ˂6 mg/dL or an allopurinol dosage of 600 mg once daily was achieved; those who had moderate renal impairment (eClcr ≥30 to ˂60 mL/minute) initially received 200 mg once daily with 100 mg/day dose increments monthly until either a sUA ˂6 mg/dL or an allopurinol dosage of 400 mg once daily was achieved.
 The mean age of the population was 65 years (range: 44 to 93 years).
 Most patients were male (84%) and Caucasian (69%).
 Patients had a diagnosis of gout for approximately 12 years, a mean baseline sUA of 8.7 mg/dL, and 90% had experienced at least one gout flare in the past year.

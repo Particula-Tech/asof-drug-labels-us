@@ -13,4 +13,4 @@ Fertility and reproductive performance were unaffected in male or female rats th
 ## 13.2 Animal Toxicology
 
 A 12 month toxicity study in beagle dogs showed deposition of xanthine crystals and calculi in kidneys at 15 mg/kg (approximately 4 times the MRHD on an AUC basis).
-A similar effect of calculus formation was noted in rats in a six month study due to deposition of xanthine crystals at 48 mg/kg (approximately 31 and 40 times the MRHD on an AUC basis in males and females respectively).
+A similar effect of calculus formation was noted in rats in a 6 month study due to deposition of xanthine crystals at 48 mg/kg (approximately 31 and 40 times the MRHD on an AUC basis in males and females respectively).

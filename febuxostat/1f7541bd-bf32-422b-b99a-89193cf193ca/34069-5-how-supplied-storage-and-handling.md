@@ -2,7 +2,7 @@
 
 Febuxostat 40 mg tablets are round, biconvex, green colored, film-coated tablets with ‘721’ debossed on one side and plain on other side and supplied as:
 
-NDC Number Size
+NDC NumberSize
 
 47335-721-83 Bottle of 30 Tablets with Child Resistant Cap
 
@@ -10,7 +10,7 @@ NDC Number Size
 
 47335-721-13 Bottle of 500 Tablets with Non Child Resistant Cap Febuxostat 80 mg tablets are oval, biconvex, green colored, film-coated tablets with ‘722’ debossed on one side and plain on other side and supplied as:
 
-NDC Number Size
+NDC NumberSize
 
 47335-722-83 Bottle of 30 Tablets with Child Resistant Cap
 
