@@ -7,5 +7,5 @@ In controlled clinical trials using an external infusion pump, seven patients re
 In only two cases did excess delivery of treprostinil injection produce an event of substantial hemodynamic concern (hypotension, near-syncope).
 
 One pediatric patient was accidentally administered 7.5 mg of treprostinil injection via a central venous catheter.
-Symptoms included flushing, headache, nausea, vomiting, hypotension and seizure-like activity with loss of consciousness lasting several minutes.
+Symptoms included flushing, headache, nausea, vomiting, hypotension, and seizure-like activity with loss of consciousness lasting several minutes.
 The patient subsequently recovered.

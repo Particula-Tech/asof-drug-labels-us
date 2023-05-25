@@ -2,31 +2,29 @@
 
 ## 2.1 General
 
-Treprostinil injection can be administered with or without further dilution with Sterile Diluent for treprostinil or similar approved high-pH glycine diluent (e.g.
-Sterile Diluent for Flolan or Sterile Diluent for Epoprostenol), Sterile Water for Injection, or 0.9% Sodium Chloride Injection prior to administration.
+Treprostinil injection can be administered with or without further dilution with Sterile Diluent for treprostinil or similar approved high-pH glycine diluent (e.g., Sterile Diluent for Flolan or Sterile Diluent for Epoprostenol), Sterile Water for Injection, or 0.9% Sodium Chloride Injection prior to administration.
 See Table 1 below for storage and administration time limits for the different diluents.
 
 Diluted treprostinil injection has been shown to be stable at ambient temperature when stored for up to 14 days using high-pH glycine diluent at concentrations as low as 0.004 mg/mL (4,000 ng/mL).
 
-Table 1.
-Selection of Diluent
+Table 1: Selection of Diluent
 
 | Diluent | Storage Limits | Administration Limits |
 | --- | --- | --- |
 | None | See Section 16 | 16 weeks at 40°C |
-| Sterile Diluent for Treprostinil Injection, Flolan, or Epoprostenol | 14 days at room temperature | 48 hours at 40°C |
+| Sterile Diluents for Treprostinil Injection, Flolan, or Epoprostenol | 14 days at room temperature | 48 hours at 40°C |
 | Sterile Water for Injection 0.9% Sodium Chloride for Injection | 4 hours at room temperature or 24 hours refrigerated | 48 hours at 40°C |
 
 ## 2.2 Initial Dose for Patients New to Prostacyclin Infusion Therapy
 
 Treprostinil injection is indicated for subcutaneous (SC) or intravenous (IV) use only as a continuous infusion.
-Treprostinil injection is preferably infused subcutaneously, but can be administered by a central intravenous line if the subcutaneous route is not tolerated, because of severe site pain or reaction.
+Treprostinil injection is preferably infused subcutaneously, but can be administered by a central intravenous line if the subcutaneous route is not tolerated because of severe site pain or reaction.
 The infusion rate is initiated at 1.25 ng/kg/min.
 If this initial dose cannot be tolerated because of systemic effects, reduce the infusion rate to 0.625 ng/kg/min.
 
 ## 2.4 Dosage Adjustments
 
-The goal of chronic dosage adjustments is to establish a dose at which PAH symptoms are improved, while minimizing excessive pharmacologic effects of treprostinil injection (headache, nausea, emesis, restlessness, anxiety and infusion site pain or reaction).
+The goal of chronic dosage adjustments is to establish a dose at which PAH symptoms are improved, while minimizing excessive pharmacologic effects of treprostinil injection (headache, nausea, emesis, restlessness, anxiety, and infusion site pain or reaction).
 
 The infusion rate should be increased in increments of 1.25 ng/kg/min per week for the first four weeks of treatment and then 2.5 ng/kg/min per week for the remaining duration of infusion, depending on clinical response.
 Dosage adjustments may be undertaken more often if tolerated.
@@ -46,15 +44,15 @@ If either particulate matter or discoloration is noted, do not use.
 
 Preparation
 
-Treprostinil injection is administered by subcutaneous or intravenous infusion at a calculated rate based on a patient’s dose (ng/kg/min), weight (kg) and the treprostinil concentration (mg/mL).
+Treprostinil injection is administered by subcutaneous or intravenous infusion at a calculated rate based on a patient’s dose (ng/kg/min), weight (kg), and the treprostinil concentration (mg/mL).
 
 For administration of Undiluted Treprostinil Injection the rate is calculated using the following formula:
 
-| Undiluted Infusion Rate (mL/hr) | = | Dose(ng/kg/min) | × | Weight(kg) | × | 0.00006Conversion factor of 0.00006 = 60 min/hour x 0.000001 mg/ng |
+| Undiluted Infusion Rate (mL/hour) | = | Dose(ng/kg/min) | × | Weight(kg) | × | 0.00006* |
 | --- | --- | --- | --- | --- | --- | --- |
 | Treprostinil Injection Vial Strength (mg/mL) |  |  |  |  |  |  |
 
-For administration of Diluted Treprostinil Injection the rate and concentration is calculated using the following formulas:
+For administration of Diluted Treprostinil Injection, the concentration is calculated using the following formula:
 
 Step 1
 
@@ -75,22 +73,22 @@ The calculated volume of treprostinil injection is then added to the reservoir a
 Subcutaneous Infusion
 
 Treprostinil injection is administered subcutaneously by continuous infusion, via a subcutaneous catheter, using an infusion pump designed for subcutaneous drug delivery.
-The infusion pump should: (1) be adjustable to approximately 0.002 mL/hour, (2) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (3) have delivery accuracy of ±6% or better, (4) be positive pressure driven, and (5) have a reservoir made of polyvinyl chloride, polypropylene or glass.
+The infusion pump should: (1) be adjustable to approximately 0.002 mL/hour, (2) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (3) have delivery accuracy of ±6% or better, (4) be positive pressure-driven, and (5) have a reservoir made of polyvinyl chloride, polypropylene or glass.
 Alternatively, use an infusion pump cleared for use with treprostinil injection.
 To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and subcutaneous infusion sets.
 
 Intravenous Infusion
 
-External Intravenous Infusion Pump:
+External Intravenous Infusion Pump
 
-Treprostinil injection is administered intravenously by continuous infusion, via a surgically placed indwelling central venous catheter, using an external infusion pump designed for intravenous drug delivery.
+Treprostinil injection is administered intravenously by continuous infusion via a surgically placed indwelling central venous catheter using an external infusion pump designed for intravenous drug delivery.
 If clinically necessary, a temporary peripheral intravenous cannula, preferably placed in a large vein, may be used for short term administration of treprostinil injection.
 Use of a peripheral intravenous infusion for more than a few hours increases the risk of thrombophlebitis.
-The infusion pump used to administer treprostinil injection should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ±6% or better of the hourly dose, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
+The infusion pump used to administer treprostinil injection should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ±6% or better, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
 Alternatively, use an infusion pump cleared for use with treprostinil injection.
 To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and infusion sets.
 
-Infusion sets with an in-line 0.22 or 0.2 micron pore size filter should be used.
+Infusion sets with an in-line 0.22- or 0.2-micron pore size filter should be used.
 
 ## 2.7 Patients Requiring Transition from Epoprostenol
 

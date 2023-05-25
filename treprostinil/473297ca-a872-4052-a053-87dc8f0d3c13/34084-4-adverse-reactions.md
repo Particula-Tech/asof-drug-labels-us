@@ -10,7 +10,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Patients receiving treprostinil injection as a subcutaneous infusion reported a wide range of adverse events, many potentially related to the underlying disease (dyspnea, fatigue, chest pain, right ventricular heart failure, and pallor).
 During clinical trials with subcutaneous infusion of treprostinil injection, infusion site pain and reaction were the most common adverse events among those treated with treprostinil injection.
-Infusion site reaction was defined as any local adverse event other than pain or bleeding/bruising at the infusion site and included symptoms such as erythema, induration or rash.
+Infusion site reaction was defined as any local adverse event other than pain or bleeding/bruising at the infusion site and included symptoms such as erythema, induration, or rash.
 Infusion site reactions were sometimes severe and could lead to discontinuation of treatment.
 
 Table 3: Percentages of Subjects Reporting Subcutaneous Infusion Site Adverse Events
@@ -19,10 +19,14 @@ Table 3: Percentages of Subjects Reporting Subcutaneous Infusion Site Adverse Ev
 | --- | --- | --- | --- | --- |
 |  | Reaction |  | Pain |  |
 | Severe | 1 | 38 | 2 | 39 |
-| Requiring narcoticsbased on prescriptions for narcotics, not actual use | NAmedications used to treat infusion site pain were not distinguished from those used to treat site reactions | NA | 1 | 32 |
+| Requiring narcotics* | NA† | NA† | 1 | 32 |
 | Leading to discontinuation | 0 | 3 | 0 | 7 |
 
-Other adverse events included diarrhea, jaw pain, edema, vasodilatation and nausea, and these are generally considered to be related to the pharmacologic effects of treprostinil injection, whether administered subcutaneously or intravenously.
+* based on prescriptions for narcotics, not actual use
+
+† medications used to treat infusion site pain were not distinguished from those used to treat site reactions
+
+Other adverse events included diarrhea, jaw pain, edema, vasodilatation, and nausea, and these are generally considered to be related to the pharmacologic effects of treprostinil injection, whether administered subcutaneously or intravenously.
 
 ### Adverse Reactions during Chronic Dosing
 
@@ -49,17 +53,17 @@ As a potent vasodilator, hypotension is possible with the administration of trep
 
 The safety of treprostinil injection was also studied in a long-term, open-label extension study in which 860 patients were dosed for a mean duration of 1.6 years, with a maximum exposure of 4.6 years.
 Twenty-nine (29%) percent achieved a dose of at least 40 ng/kg/min (max: 290 ng/kg/min).
-The safety profile during this chronic dosing study was similar to that observed in the 12-week placebo controlled study except for the following suspected adverse drug reactions (occurring in at least 3% of patients): anorexia, vomiting, infusion site infection, asthenia, and abdominal pain.
+The safety profile during this chronic dosing study was similar to that observed in the 12-week placebo-controlled study except for the following suspected adverse drug reactions (occurring in at least 3% of patients): anorexia, vomiting, infusion site infection, asthenia, and abdominal pain.
 
 ### Adverse Events Attributable to the Drug Delivery System
 
 In controlled studies of treprostinil injection administered subcutaneously, there were no reports of infection related to the drug delivery system.
 There were 187 infusion system complications reported in 28% of patients (23% treprostinil injection, 33% placebo); 173 (93%) were pump related and 14 (7%) related to the infusion set.
-Eight of these patients (4 treprostinil injection, 4 Placebo) reported non-serious adverse events resulting from infusion system complications.
+Eight of these patients (4 treprostinil injection, 4 placebo) reported non-serious adverse events resulting from infusion system complications.
 Adverse events resulting from problems with the delivery systems were typically related to either symptoms of excess treprostinil injection (e.g., nausea) or return of PAH symptoms (e.g., dyspnea).
 These events were generally resolved by correcting the delivery system pump or infusion set problem such as replacing the syringe or battery, reprogramming the pump, or straightening a crimped infusion line.
 Adverse events resulting from problems with the delivery system did not lead to clinical instability or rapid deterioration.
-In addition to these adverse events due to the drug delivery system during subcutaneous administration, the following adverse events may be attributable to the IV mode of infusion including arm swelling, paresthesias, hematoma and pain [see Warnings and Precautions (5.1)].
+In addition to these adverse events due to the drug delivery system during subcutaneous administration, the following adverse events may be attributable to the IV mode of infusion including arm swelling, paresthesia, hematoma, and pain [see Warnings and Precautions (5.1)].
 
 ## 6.2 Post-Marketing Experience
 

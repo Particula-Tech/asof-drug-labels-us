@@ -41,7 +41,7 @@ Five metabolites were detected in the urine, ranging from 10% to 16% and represe
 Four of the metabolites are products of oxidation of the 3-hydroxyloctyl side chain and one is a glucuroconjugated derivative (treprostinil glucuronide).
 The identified metabolites do not appear to have activity.
 
-The elimination of treprostinil (following subcutaneous administration) is biphasic, with a terminal elimination half-life of approximately 4 hours using a two compartment model.
+The elimination of treprostinil (following subcutaneous administration) is biphasic, with a terminal elimination half-life of approximately 4 hours using a two-compartment model.
 Systemic clearance is approximately 30 L/hour for a 70 kg person.
 
 Based on in vitro studies treprostinil does not inhibit or induce major CYP enzymes.
@@ -66,7 +66,7 @@ Co-administration of an oral formulation of treprostinil (treprostinil diolamine
 
 Effect of Treprostinil on Cytochrome P450 Enzymes
 
-In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A.
+In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.
 Additionally, treprostinil does not induce CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A isoenzymes.
 
 Effect of Other Drugs on Treprostinil
