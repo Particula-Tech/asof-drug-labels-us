@@ -11,29 +11,29 @@ Docetaxel's binding to microtubules does not alter the number of protofilaments 
 
 Absorption
 
-The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
+The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m2 to 115 mg/m2 in phase 1 studies.
 The area under the curve (AUC) was dose proportional following doses of 70 mg/m2 to 115 mg/m2 with infusion times of 1 to 2 hours.
 
-Docetaxel's pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with half-lives for the α, β, and γ phases of 4 minutes, 36 minutes, and 11.1 hours, respectively.
-Mean total body clearance was 21 L/h/m2.
+Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with initial rapid distribution phase and the late (terminal) phase.
 
 Distribution
 
-The initial rapid decline represents distribution to the peripheral compartments and the late (terminal) phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
-Mean steady state volume of distribution was 113 L. In vitro studies showed that docetaxel is about 94% protein bound, mainly to α1-acid glycoprotein, albumin, and lipoproteins.
-In three cancer patients, the in vitro binding to plasma proteins was found to be approximately 97%.
+Mean steady state volume of distribution was 113 L. Docetaxel is approximately 94% protein bound in vitro, mainly to α1-acid glycoprotein, albumin, and lipoproteins.
+In three cancer patients, the in vitro binding to plasma proteins was approximately 97%.
 Dexamethasone does not affect the protein binding of docetaxel.
-
-Metabolism
-
-In vitro drug interaction studies revealed that docetaxel is metabolized by the CYP3A4 isoenzyme, and its metabolism may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4 [see Drug Interactions (7)].
 
 Elimination
 
-A study of 14C-docetaxel was conducted in three cancer patients.
-Docetaxel was eliminated in both the urine and feces following oxidative metabolism of the tert-butyl ester group, but fecal excretion was the main elimination route.
-Within 7 days, urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively.
-About 80% of the radioactivity recovered in feces is excreted during the first 48 hours as 1 major and 3 minor metabolites with very small amounts (less than 8%) of unchanged drug.
+With extended plasma sampling up to 8 to 22 days post infusion, the estimated mean total body clearance was 18 L/h/m2 (range of means: 14 to 23) and mean terminal elimination half-life was 116 hours (range of means: 92 to 135).
+
+Metabolism
+
+Docetaxel is metabolized by the CYP3A4 isoenzyme in vitro [see Drug Interactions (7)].
+
+Excretion
+
+In three cancer patients urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively, within 7 days.
+About 80% of the radioactivity recovered in feces was excreted during the first 48 hours as 1 major and 3 minor metabolites with less than 8% as unchanged drug.
 
 Specific Populations
 
@@ -41,7 +41,7 @@ Effect of Age
 
 A population pharmacokinetic analysis was carried out after docetaxel treatment of 535 patients dosed at 100 mg/m2.
 Pharmacokinetic parameters estimated by this analysis were very close to those estimated from phase 1 studies.
-The pharmacokinetics of docetaxel were not influenced by age.
+The pharmacokinetics of docetaxel was not influenced by age.
 
 Effect of Gender
 
@@ -68,11 +68,11 @@ The results of this study indicated that the mean dose-normalized AUC of docetax
 
 Effect of Combination Therapies
 
-- Dexamethasone: Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
-- Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
+- • Dexamethasone: Docetaxel total body clearance was not modified by pretreatment with dexamethasone.
+- • Cisplatin: Clearance of docetaxel in combination therapy with cisplatin was similar to that previously observed following monotherapy with docetaxel.
   The pharmacokinetic profile of cisplatin in combination therapy with docetaxel was similar to that observed with cisplatin alone.
-- Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
-- Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
-- Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2) when administered in combination.
+- • Cisplatin and Fluorouracil: The combined administration of docetaxel, cisplatin and fluorouracil in 12 patients with solid tumors had no influence on the pharmacokinetics of each individual drug.
+- • Prednisone: A population pharmacokinetic analysis of plasma data from 40 patients with metastatic castration-resistant prostate cancer indicated that docetaxel systemic clearance in combination with prednisone is similar to that observed following administration of docetaxel alone.
+- • Cyclophosphamide and Doxorubicin: A study was conducted in 30 patients with advanced breast cancer to determine the potential for drug-drug interactions between docetaxel (75 mg/m2), doxorubicin (50 mg/m2), and cyclophosphamide (500 mg/m2) when administered in combination.
   The coadministration of docetaxel had no effect on the pharmacokinetics of doxorubicin and cyclophosphamide when the three drugs were given in combination compared to coadministration of doxorubicin and cyclophosphamide only.
   In addition, doxorubicin and cyclophosphamide had no effect on docetaxel plasma clearance when the three drugs were given in combination compared to historical data for docetaxel monotherapy.

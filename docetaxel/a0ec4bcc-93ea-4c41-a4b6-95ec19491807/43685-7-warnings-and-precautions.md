@@ -131,8 +131,8 @@ In animal reproduction studies, administration of docetaxel to pregnant rats and
 
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel Injection.
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel Injection.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection [see Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of Docetaxel Injection.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of Docetaxel Injection [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.13 Alcohol Content
 

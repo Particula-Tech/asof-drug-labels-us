@@ -36,6 +36,8 @@ Because of the potential for serious adverse reactions in a breastfed child, adv
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on findings in animals, Docetaxel Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
 Verify pregnancy status in females of reproductive potential prior to initiating Docetaxel Injection.
@@ -44,12 +46,11 @@ Contraception
 
 Females
 
-Docetaxel Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
-Advise females of reproductive potential to use effective contraception during treatment and for 6 months after the last dose of Docetaxel Injection.
+Based on genetic toxicity findings, advise females of reproductive potential to use effective contraception during treatment and for 2 months after the last dose of Docetaxel Injection.
 
 Males
 
-Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 3 months after the last dose of Docetaxel Injection.
+Based on genetic toxicity findings, advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of Docetaxel Injection.
 
 Infertility
 
