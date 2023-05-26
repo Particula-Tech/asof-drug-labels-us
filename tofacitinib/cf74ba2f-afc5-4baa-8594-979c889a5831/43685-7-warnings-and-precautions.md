@@ -15,11 +15,11 @@ Other serious infections that were not reported in clinical studies may also occ
 Avoid use of XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients with an active, serious infection, including localized infections.
 The risks and benefits of treatment should be considered prior to initiating XELJANZ/XELJANZ XR/XELJANZ Oral Solution in patients:
 
-- • with chronic or recurrent infection
-- • who have been exposed to tuberculosis
-- • with a history of a serious or an opportunistic infection
-- • who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
-- • with underlying conditions that may predispose them to infection.
+- •with chronic or recurrent infection
+- •who have been exposed to tuberculosis
+- •with a history of a serious or an opportunistic infection
+- •who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
+- •with underlying conditions that may predispose them to infection.
 
 Patients should be closely monitored for the development of signs and symptoms of infection during and after treatment with XELJANZ/XELJANZ XR/XELJANZ Oral Solution.
 XELJANZ/XELJANZ XR/XELJANZ Oral Solution should be interrupted if a patient develops a serious infection, an opportunistic infection, or sepsis.
