@@ -19,7 +19,7 @@ Educate patients on the signs and symptoms of hypoglycemia [see Warnings and Pre
 
 Hypersensitivity Reactions
 
-Inform patients that hypersensitivity reactions have been reported with use of MOUNJARO.
+Inform patients that serious hypersensitivity reactions have been reported with use of MOUNJARO.
 Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking MOUNJARO and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.4)].
 
 Acute Kidney Injury
@@ -57,7 +57,7 @@ Inform patients if a dose is missed, it should be administered as soon as possib
 If more than 4 days have passed, the missed dose should be skipped and the next dose should be administered on the regularly scheduled day.
 In each case, inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.1)].
 
-Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2022, Eli Lilly and Company.
+Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA Copyright © 2022, 2023, Eli Lilly and Company.
 All rights reserved.
 
-MOU-0001-USPI-20220513
+MOU-0002-USPI-20230515

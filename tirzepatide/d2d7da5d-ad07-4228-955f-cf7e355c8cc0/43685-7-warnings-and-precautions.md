@@ -34,9 +34,9 @@ Inform patients using these concomitant medications of the risk of hypoglycemia 
 
 ## 5.4 Hypersensitivity Reactions
 
-Hypersensitivity reactions have been reported with MOUNJARO in clinical trials (e.g., urticaria and eczema) and were sometimes severe.
+Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been reported in patients treated with MOUNJARO.
 If hypersensitivity reactions occur, discontinue use of MOUNJARO; treat promptly per standard of care, and monitor until signs and symptoms resolve.
-Do not use in patients with a previous serious hypersensitivity reaction to tirzepatide or any of the excipients in MOUNJARO [see Contraindications (4)].
+Do not use in patients with a previous serious hypersensitivity reaction to tirzepatide or any of the excipients in MOUNJARO [see Contraindications (4), Adverse Reactions (6.2)].
 
 Anaphylaxis and angioedema have been reported with GLP-1 receptor agonists.
 Use caution in patients with a history of angioedema or anaphylaxis with a GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with MOUNJARO.

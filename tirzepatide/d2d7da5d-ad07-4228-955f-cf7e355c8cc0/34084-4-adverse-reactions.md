@@ -5,7 +5,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
 - Pancreatitis [see Warnings and Precautions (5.2)]
 - Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.3)]
-- Hypersensitivity [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 - Acute Kidney Injury [see Warnings and Precautions (5.5)]
 - Severe Gastrointestinal Disease [see Warnings and Precautions (5.6)]
 - Diabetic Retinopathy Complications [see Warnings and Precautions (5.7)]
@@ -117,3 +117,10 @@ Amylase and Lipase Increase
 In the pool of placebo-controlled clinical trials, treatment with MOUNJARO resulted in mean increases from baseline in serum pancreatic amylase concentrations of 33% to 38% and serum lipase concentrations of 31% to 42%.
 Placebo-treated patients had a mean increase from baseline in pancreatic amylase of 4% and no changes were observed in lipase.
 The clinical significance of elevations in lipase or amylase with MOUNJARO is unknown in the absence of other signs and symptoms of pancreatitis.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been reported during post-approval use of MOUNJARO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Hypersensitivity: anaphylaxis, angioedema.
