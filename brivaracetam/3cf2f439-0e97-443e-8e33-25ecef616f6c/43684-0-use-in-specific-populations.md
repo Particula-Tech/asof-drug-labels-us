@@ -9,11 +9,12 @@ Encourage patients who are taking BRIVIACT during pregnancy to enroll in the Nor
 
 Risk Summary
 
-There are no adequate data on the developmental risks associated with use of BRIVIACT in pregnant women.
+Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series are insufficient to identify a risk of major birth defects, miscarriage or other maternal or fetal outcomes associated with BRIVIACT use during pregnancy.
 In animal studies, brivaracetam produced evidence of developmental toxicity (increased embryofetal mortality and decreased fetal body weights in rabbits; decreased growth, delayed sexual maturation, and long-term neurobehavioral changes in rat offspring) at maternal plasma exposures greater than clinical exposures [see Data].
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
@@ -35,16 +36,10 @@ From 1 hour post dose, radioactivity levels in fetuses, amniotic fluid, and plac
 
 Risk Summary
 
-No data are available regarding the presence of brivaracetam in human milk, the effects on the breastfed infant, or the effects of the drug on milk production.
-Studies in lactating rats have shown excretion of brivaracetam or metabolites in milk [see Data].
+Data from published literature indicate that brivaracetam is present in human milk.
+There is insufficient information on the effects of brivaracetam on the breastfed infant or on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for BRIVIACT and any potential adverse effects on the breastfed infant from BRIVIACT or from the underlying maternal condition.
-
-Data
-
-Animal Data
-
-Following a single oral (5 mg/kg) dose of 14C-brivaracetam to lactating rats, radioactivity was secreted in milk and rapidly reached levels similar to those in plasma.
 
 ## 8.4 Pediatric Use
 

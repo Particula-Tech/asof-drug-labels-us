@@ -35,6 +35,11 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 Encourage patients to enroll in the North American Antiepileptic Drug Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy [see Use in Specific Populations (8.1)].
 
+Lactation
+
+Counsel patients that brivaracetam, the active ingredient in BRIVIACT, is present in breast milk.
+Instruct patients to discuss with their healthcare provider if they are breastfeeding or intend to breastfeed [see Use in Specific Populations (8.2)].
+
 Dosing Instructions
 
 Counsel patients that BRIVIACT may be taken with or without food.
