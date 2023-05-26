@@ -23,5 +23,5 @@ After first use and following multiple needle entries and product withdrawals, D
 
 ## 16.3 Handling and Disposal
 
-Docetaxel Injection is a cytotoxic drug.
+Docetaxel Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
