@@ -73,13 +73,13 @@ Cialis is effective at improving erectile function over the course of therapy.
 
 For CIALIS for once daily use in men with BPH, patients should be instructed to take one tablet at approximately the same time every day.
 
-Revision Date: 02/2018
+Revision Date: 04/2023
 
 Marketed by: Lilly USA, LLC Indianapolis, IN 46285, USA
 
 www.cialis.com
 
-Copyright © 2003, 2018, Eli Lilly and Company.
+Copyright © 2003, 2023, Eli Lilly and Company.
 All rights reserved.
 
-CLS-0004-USPI-20180215
+CLS-0005-USPI-20230425
