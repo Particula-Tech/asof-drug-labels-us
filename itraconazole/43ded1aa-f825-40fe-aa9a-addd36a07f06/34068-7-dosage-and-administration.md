@@ -10,7 +10,7 @@ Clinical signs and symptoms of oropharyngeal candidiasis generally resolve withi
 For patients with oropharyngeal candidiasis unresponsive/refractory to treatment with fluconazole tablets, the recommended dose is 100 mg (10 mL) b.i.d.
 For patients responding to therapy, clinical response will be seen in 2 to 4 weeks.
 Patients may be expected to relapse shortly after discontinuing therapy.
-Limited data on the safety of long-term use (>6 months) of itraconazole oral solution are available at this time.
+Limited data on the safety of long-term use (> 6 months) of itraconazole oral solution are available at this time.
 
 The recommended dosage of itraconazole oral solution for esophageal candidiasis is 100 mg (10 mL) daily for a minimum treatment of three weeks.
 Treatment should continue for 2 weeks following resolution of symptoms.

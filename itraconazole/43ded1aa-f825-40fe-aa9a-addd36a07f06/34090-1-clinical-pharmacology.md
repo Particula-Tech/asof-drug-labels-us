@@ -27,7 +27,7 @@ Distribution
 Most of the itraconazole in plasma is bound to protein (99.8%), with albumin being the main binding component (99.6% for the hydroxy-metabolite).
 It has also a marked affinity for lipids.
 Only 0.2% of the itraconazole in plasma is present as free drug.
-Itraconazole is distributed in a large apparent volume in the body (>700 L), suggesting extensive distribution into tissues.
+Itraconazole is distributed in a large apparent volume in the body (> 700 L), suggesting extensive distribution into tissues.
 Concentrations in lung, kidney, liver, bone, stomach, spleen and muscle were found to be two to three times higher than corresponding concentrations in plasma, and the uptake into keratinous tissues, skin in particular, up to four times higher.
 Concentrations in the cerebrospinal fluid are much lower than in plasma.
 
@@ -53,7 +53,7 @@ In uremic subjects with a mean creatinine clearance of 13 mL/min. × 1.73 m2, th
 This study did not demonstrate any significant effect of hemodialysis or continuous ambulatory peritoneal dialysis on the pharmacokinetics of itraconazole (Tmax, Cmax, and AUC0-8h).
 Plasma concentration-versus-time profiles showed wide intersubject variation in all three groups.
 
-After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50 to 79 mL/min), moderate (defined in this study as CrCl 20 to 49 mL/min), and severe renal impairment (defined in this study as CrCl <20 mL/min) were similar to that in healthy subjects (range of means 42 to 49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
+After a single intravenous dose, the mean terminal half-lives of itraconazole in patients with mild (defined in this study as CrCl 50 to 79 mL/min), moderate (defined in this study as CrCl 20 to 49 mL/min), and severe renal impairment (defined in this study as CrCl < 20 mL/min) were similar to that in healthy subjects (range of means 42 to 49 hours vs 48 hours in renally impaired patients and healthy subjects, respectively).
 Overall exposure to itraconazole, based on AUC, was decreased in patients with moderate and severe renal impairment by approximately 30% and 40%, respectively, as compared with subjects with normal renal function.
 
 Data are not available in renally impaired patients during long-term use of itraconazole.
@@ -77,11 +77,11 @@ If signs or symptoms of congestive heart failure appear during administration of
 
 Seventeen cystic fibrosis patients, ages 7 to 28 years old, were administered itraconazole oral solution 2.5 mg/kg b.i.d. for 14 days in a pharmacokinetic study.
 Sixteen patients completed the study.
-Steady-state trough concentrations >250 ng/mL were achieved in 6 out of 11 patients ≥16 years of age but in none of the 5 patients <16 years of age.
-Large variability was observed in the pharmacokinetic data (%CV for trough concentrations = 98% and 70% for ≥16 and <16 years, respectively; %CV for AUC = 75% and 58% for ≥16 and <16 years, respectively).
+Steady-state trough concentrations > 250 ng/mL were achieved in 6 out of 11 patients ≥ 16 years of age but in none of the 5 patients < 16 years of age.
+Large variability was observed in the pharmacokinetic data (%CV for trough concentrations = 98% and 70% for ≥ 16 and < 16 years, respectively; %CV for AUC = 75% and 58% for ≥ 16 and < 16 years, respectively).
 If a patient with cystic fibrosis does not respond to itraconazole oral solution, consideration should be given to switching to alternative therapy.
 
-### Hydroxypropyl-ß-Cyclodextrin:
+### Hydroxypropyl-β-Cyclodextrin:
 
 The oral bioavailability of hydroxypropyl-β-cyclodextrin given as a solubilizer of itraconazole in oral solution is on average lower than 0.5% and is similar to that of hydroxypropyl-β-cyclodextrin alone.
 This low oral bioavailability of hydroxypropyl-β-cyclodextrin is not modified by the presence of food and is similar after single and repeated administrations.
