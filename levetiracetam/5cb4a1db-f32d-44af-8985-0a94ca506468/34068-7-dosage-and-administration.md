@@ -22,7 +22,9 @@ There is no evidence that doses greater than 3,000 mg/day confer additional bene
 
 Pediatric Patients
 
-1 Month to less than 6 Months Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
+1 Month to less than 6 Months
+
+Initiate treatment with a daily dose of 14 mg/kg in 2 divided doses (7 mg/kg twice daily).
 Increase the daily dose every 2 weeks by increments of 14 mg/kg to the recommended daily dose of 42 mg/kg (21 mg/kg twice daily).
 In the clinical trial, the mean daily dose was 35 mg/kg in this age group.
 

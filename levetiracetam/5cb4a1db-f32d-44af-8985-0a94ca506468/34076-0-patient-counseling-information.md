@@ -35,4 +35,4 @@ Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pr
 Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
 
 Rev.
-B 10/2020
+C 4/2023
