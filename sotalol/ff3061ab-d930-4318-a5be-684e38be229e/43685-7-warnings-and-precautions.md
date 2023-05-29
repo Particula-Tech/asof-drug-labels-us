@@ -39,10 +39,10 @@ Monitor for signs and symptoms of heart failure and discontinue treatment if sym
 Avoid beta-blockers, like sotalol, in patients with bronchospastic diseases.
 If sotalol is required, use the smallest effective dose.
 
-## 5.7 Masked Signs of Hypoglycemia in Diabetics
+## 5.7 Hypoglycemia
 
-Beta-blockade may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
-Diabetic patients may experience elevated blood glucose levels and increased insulin requirements.
+Beta-blockade may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or and vomiting).
+Monitor blood glucose as appropriate.
 
 ## 5.8 Thyroid Abnormalities
 
