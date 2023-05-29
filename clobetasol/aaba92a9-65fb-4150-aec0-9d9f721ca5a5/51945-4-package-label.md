@@ -19,5 +19,5 @@ Do not refrigerate or store above 86° (30°C).
 Keep out of reach of children.
 
 Marketed by: GALDERMA LABORATORIES, L.P.
-Fort Worth, Texas 76177 USA All trademarks are the property of their respective owners.
-Made in Canada. www.clobex.com P51015-3
+Dallas, TX 75201 USA All trademarks are the property of their respective owners.
+Made in Canada. www.clobex.com P51015-4

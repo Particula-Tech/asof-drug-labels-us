@@ -6,7 +6,7 @@ Risk Summary
 
 There are no available data on CLOBEX® Spray use in pregnant women to identify a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
-Observational studies suggest an increased risk of low birthweight in in infants with the maternal use of potent or very potent topical corticosteroids (see Data).
+Observational studies suggest an increased risk of low birthweight in infants with the maternal use of potent or very potent topical corticosteroids (see Data).
 Advise pregnant women that CLOBEX® Spray may increase the risk of having a low birth weight infant and to use CLOBEX® Spray on the smallest area of skin and for the shortest duration possible.
 Animal reproduction studies have not been conducted with CLOBEX® Spray.
 In an animal reproduction study, subcutaneous administration of clobetasol propionate to pregnant rats at doses greater than 12.5 μg/kg/day during the period of organogenesis caused an increase in malformations (increased incidence of umbilical hernia) [see Data].
