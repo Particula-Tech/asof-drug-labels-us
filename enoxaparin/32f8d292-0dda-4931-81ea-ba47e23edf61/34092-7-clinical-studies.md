@@ -338,7 +338,7 @@ The beneficial effect of enoxaparin sodium injection on the primary endpoint obs
 
 Figure 2: Kaplan-Meier Plot – Death or Myocardial Re-infarction at 30 Days – ITT Population
 
-There is a trend in favor of enoxaparin sodium injection during the first 48 hours, but most of the treatment difference is attributed to a step increase in the event rate in the UFH group at 48 hours (seen in Figure 2 ), an effect that is more striking when comparing the event rates just prior to and just subsequent to actual times of discontinuation.
+There is a trend in favor of enoxaparin sodium injection during the first 48 hours, but most of the treatment difference is attributed to a step increase in the event rate in the UFH group at 48 hours (seen in Figure 2), an effect that is more striking when comparing the event rates just prior to and just subsequent to actual times of discontinuation.
 These results provide evidence that UFH was effective and that it would be better if used longer than 48 hours.
 There is a similar increase in endpoint event rate when enoxaparin sodium injection was discontinued, suggesting that it too was discontinued too soon in this study.
 
