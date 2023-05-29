@@ -2,7 +2,7 @@
 
 NDC 57894-503-01
 
-DARZALEX Faspro® (daratumumab and hyaluronidase-fihj) Injection
+DARZALEX Faspro ® (daratumumab and hyaluronidase-fihj) Injection
 
 1,800 mg and 30,000 Units/15 mL (120 mg and 2,000 Units/mL)
 

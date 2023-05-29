@@ -39,24 +39,24 @@ Table 6: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wit
 | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone (N=67) |  |
 | Infections |  |  |
-| Upper respiratory tract infectionUpper respiratory tract infection includes nasopharyngitis, respiratory syncytial virus infection, respiratory tract infection, rhinitis, tonsillitis, upper respiratory tract infection, and viral pharyngitis. | 39 | 0 |
+| Upper respiratory tract infection Upper respiratory tract infection includes nasopharyngitis, respiratory syncytial virus infection, respiratory tract infection, rhinitis, tonsillitis, upper respiratory tract infection, and viral pharyngitis. | 39 | 0 |
 | Bronchitis | 16 | 0 |
-| PneumoniaPneumonia includes lower respiratory tract infection, lung infection, pneumocystis jirovecii pneumonia, pneumonia, and pneumonia bacterial. | 15 | 7Only Grade 3 adverse reactions occurred. |
+| Pneumonia Pneumonia includes lower respiratory tract infection, lung infection, pneumocystis jirovecii pneumonia, pneumonia, and pneumonia bacterial. | 15 | 7 Only Grade 3 adverse reactions occurred. |
 | Gastrointestinal disorders |  |  |
 | Constipation | 37 | 0 |
 | Nausea | 36 | 0 |
 | Diarrhea | 33 | 3 |
 | Vomiting | 21 | 0 |
-| Abdominal painAbdominal pain includes abdominal pain, and abdominal pain upper. | 13 | 0 |
+| Abdominal pain Abdominal pain includes abdominal pain, and abdominal pain upper. | 13 | 0 |
 | General disorders and administration site conditions |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 36 | 3 |
+| Fatigue Fatigue includes asthenia, and fatigue. | 36 | 3 |
 | Pyrexia | 34 | 0 |
-| Edema peripheralEdema peripheral includes edema, edema peripheral, and peripheral swelling. | 13 | 1 |
+| Edema peripheral Edema peripheral includes edema, edema peripheral, and peripheral swelling. | 13 | 1 |
 | Nervous system disorders |  |  |
 | Peripheral sensory neuropathy | 34 | 1 |
 | Dizziness | 10 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |
-| CoughCough includes cough, and productive cough. | 24 | 0 |
+| Cough Cough includes cough, and productive cough. | 24 | 0 |
 | Psychiatric disorders |  |  |
 | Insomnia | 22 | 3 |
 | Musculoskeletal and connective tissue disorders |  |  |
@@ -87,7 +87,7 @@ Table 7: Select Hematology Laboratory Abnormalities Worsening from Baseline in P
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
-| Laboratory Abnormality | DARZALEX FASPRO with Bortezomib, Melphalan and PrednisoneDenominator is based on the safety population treated with DARZALEX FASPRO-VMP (N=67). |  |
+| Laboratory Abnormality | DARZALEX FASPRO with Bortezomib, Melphalan and Prednisone Denominator is based on the safety population treated with DARZALEX FASPRO-VMP (N=67). |  |
 | Decreased leukocytes | 96 | 52 |
 | Decreased lymphocytes | 93 | 84 |
 | Decreased platelets | 93 | 42 |
@@ -122,7 +122,7 @@ Table 8: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wit
 | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO with Lenalidomide and Dexamethasone (N=65) |  |
 | General disorders and administration site conditions |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 52 | 5Only Grade 3 adverse reactions occurred. |
+| Fatigue Fatigue includes asthenia, and fatigue. | 52 | 5 Only Grade 3 adverse reactions occurred. |
 | Pyrexia | 23 | 2 |
 | Edema peripheral | 18 | 3 |
 | Gastrointestinal disorders |  |  |
@@ -131,16 +131,16 @@ Table 8: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wit
 | Nausea | 12 | 0 |
 | Vomiting | 11 | 0 |
 | Infections |  |  |
-| Upper respiratory tract infectionUpper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory tract infection viral, rhinitis, sinusitis, upper respiratory tract infection, and upper respiratory tract infection bacterial. | 43 | 3 |
-| PneumoniaPneumonia includes lower respiratory tract infection, lung infection, and pneumonia. | 23 | 17 |
-| BronchitisBronchitis includes bronchitis, and bronchitis viral. | 14 | 2 |
+| Upper respiratory tract infection Upper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory tract infection viral, rhinitis, sinusitis, upper respiratory tract infection, and upper respiratory tract infection bacterial. | 43 | 3 |
+| Pneumonia Pneumonia includes lower respiratory tract infection, lung infection, and pneumonia. | 23 | 17 |
+| Bronchitis Bronchitis includes bronchitis, and bronchitis viral. | 14 | 2 |
 | Urinary tract infection | 11 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |
 | Muscle spasms | 31 | 2 |
 | Back pain | 14 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |
-| DyspneaDyspnea includes dyspnea, and dyspnea exertional. | 22 | 3 |
-| CoughCough includes cough, and productive cough. | 14 | 0 |
+| Dyspnea Dyspnea includes dyspnea, and dyspnea exertional. | 22 | 3 |
+| Cough Cough includes cough, and productive cough. | 14 | 0 |
 | Nervous system disorders |  |  |
 | Peripheral sensory neuropathy | 17 | 2 |
 | Psychiatric disorders |  |  |
@@ -167,7 +167,7 @@ Table 9: Select Hematology Laboratory Abnormalities Worsening from Baseline in P
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
-| Laboratory Abnormality | DARZALEX FASPRO with Lenalidomide and DexamethasoneDenominator is based on the safety population treated with DARZALEX FASPRO-Rd (N=65). |  |
+| Laboratory Abnormality | DARZALEX FASPRO with Lenalidomide and Dexamethasone Denominator is based on the safety population treated with DARZALEX FASPRO-Rd (N=65). |  |
 | Decreased leukocytes | 94 | 34 |
 | Decreased lymphocytes | 82 | 58 |
 | Decreased platelets | 86 | 9 |
@@ -196,16 +196,16 @@ Table 10: Adverse Reactions Reported in ≥10% of Patients and With at Least a 5
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO-Pd (N=149) |  | Pd (N=150) |  |
 | General disorders and administration site conditions |  |  |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 46 | 13 | 39 | 5Only Grade 3 adverse reactions occurred. |
+| Fatigue Fatigue includes asthenia, and fatigue. | 46 | 13 | 39 | 5 Only Grade 3 adverse reactions occurred. |
 | Pyrexia | 19 | 0 | 14 | 0 |
-| Edema peripheralEdema peripheral includes edema, edema peripheral and peripheral swelling. | 15 | 0 | 9 | 0 |
+| Edema peripheral Edema peripheral includes edema, edema peripheral and peripheral swelling. | 15 | 0 | 9 | 0 |
 | Infections |  |  |  |  |
-| PneumoniaPneumonia includes atypical pneumonia, lower respiratory tract infection, pneumonia, pneumonia aspiration, pneumonia bacterial, and pneumonia respiratory syncytial viral. | 38 | 23Grade 5 adverse reactions occurred, n=3 (2.0%) in the DARZALEX FASPRO-Pd arm and n=2 (1.3%) in the Pd arm. | 27 | 17 |
-| Upper respiratory infectionUpper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, and viral upper respiratory tract infection. | 36 | 1 | 22 | 2 |
+| Pneumonia Pneumonia includes atypical pneumonia, lower respiratory tract infection, pneumonia, pneumonia aspiration, pneumonia bacterial, and pneumonia respiratory syncytial viral. | 38 | 23 Grade 5 adverse reactions occurred, n=3 (2.0%) in the DARZALEX FASPRO-Pd arm and n=2 (1.3%) in the Pd arm. | 27 | 17 |
+| Upper respiratory infection Upper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, and viral upper respiratory tract infection. | 36 | 1 | 22 | 2 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 22 | 5 | 14 | 1 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-| CoughCough includes cough, and productive cough. | 13 | 0 | 8 | 0 |
+| Cough Cough includes cough, and productive cough. | 13 | 0 | 8 | 0 |
 | Key: Pd=pomalidomide-dexamethasone |  |  |  |  |
 
 Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO with pomalidomide and dexamethasone include:
@@ -227,7 +227,7 @@ Table 11: Select Hematology Laboratory Abnormalities Worsening from Baseline in 
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | DARZALEX FASPRO-PdDenominator is based on number of subjects with a baseline and post-baseline laboratory value for each laboratory test: N=148 for DARZALEX FASPRO-Pd and N=149 for Pd. |  | Pd |  |
+| Laboratory Abnormality | DARZALEX FASPRO-Pd Denominator is based on number of subjects with a baseline and post-baseline laboratory value for each laboratory test: N=148 for DARZALEX FASPRO-Pd and N=149 for Pd. |  | Pd |  |
 | Decreased neutrophils | 97 | 84 | 84 | 63 |
 | Decreased leukocytes | 95 | 64 | 82 | 40 |
 | Decreased lymphocytes | 93 | 59 | 79 | 33 |
@@ -258,23 +258,23 @@ Table 12: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO wi
 | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO-Kd (N=66) |  |
 | Infections and infestations |  |  |
-| Upper respiratory tract infectionUpper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, viral pharyngitis, and viral upper respiratory tract infection. | 52 | 0 |
-| BronchitisBronchitis includes bronchitis, and bronchitis viral. | 12 | 2Only Grade 3 adverse reactions occurred. |
+| Upper respiratory tract infection Upper respiratory tract infection includes nasopharyngitis, pharyngitis, respiratory tract infection, respiratory tract infection viral, rhinitis, sinusitis, tonsillitis, upper respiratory tract infection, viral pharyngitis, and viral upper respiratory tract infection. | 52 | 0 |
+| Bronchitis Bronchitis includes bronchitis, and bronchitis viral. | 12 | 2 Only Grade 3 adverse reactions occurred. |
 | General disorders and administration site conditions |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 39 | 2 |
+| Fatigue Fatigue includes asthenia, and fatigue. | 39 | 2 |
 | Pyrexia | 21 | 2 |
-| Edema peripheralEdema peripheral includes generalized edema, edema peripheral, and peripheral swelling. | 20 | 0 |
+| Edema peripheral Edema peripheral includes generalized edema, edema peripheral, and peripheral swelling. | 20 | 0 |
 | Psychiatric disorders |  |  |
 | Insomnia | 33 | 6 |
 | Vascular disorders |  |  |
-| HypertensionHypertension includes blood pressure increased, and hypertension. | 32 | 21 |
+| Hypertension Hypertension includes blood pressure increased, and hypertension. | 32 | 21 |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 29 | 0 |
 | Nausea | 21 | 0 |
 | Vomiting | 15 | 0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |
-| CoughCough includes cough, and productive cough. | 24 | 0 |
-| DyspneaDyspnea includes dyspnea, and dyspnea exertional. | 23 | 2 |
+| Cough Cough includes cough, and productive cough. | 24 | 0 |
+| Dyspnea Dyspnea includes dyspnea, and dyspnea exertional. | 23 | 2 |
 | Nervous system disorders |  |  |
 | Headache | 23 | 0 |
 | Peripheral sensory neuropathy | 11 | 0 |
@@ -300,7 +300,7 @@ Table 13: Select Laboratory Abnormalities (≥30%) Worsening from Baseline in Pa
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
-| Laboratory Abnormality | DARZALEX FASPRO-KdDenominator is based on the safety population treated with DARZALEX FASPRO-Kd (N=66). |  |
+| Laboratory Abnormality | DARZALEX FASPRO-Kd Denominator is based on the safety population treated with DARZALEX FASPRO-Kd (N=66). |  |
 | Decreased platelets | 88 | 18 |
 | Decreased lymphocytes | 83 | 50 |
 | Decreased leukocytes | 68 | 18 |
@@ -335,21 +335,21 @@ Table 14: Adverse Reactions (≥10%) in Patients Who Received DARZALEX FASPRO or
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO (N=260) |  | Intravenous Daratumumab (N=258) |  |
 | Infections |  |  |  |  |
-| Upper respiratory tract infectionUpper respiratory tract infection includes acute sinusitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, rhinitis, rhinovirus infection, sinusitis, and upper respiratory tract infection. | 24 | 1Only Grade 3 adverse reactions occurred. | 22 | 1 |
-| PneumoniaPneumonia includes lower respiratory tract infection, lung infection, pneumocystis jirovecii pneumonia, and pneumonia. | 8 | 5 | 10 | 6Grade 5 adverse reactions occurred. |
+| Upper respiratory tract infection Upper respiratory tract infection includes acute sinusitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, rhinitis, rhinovirus infection, sinusitis, and upper respiratory tract infection. | 24 | 1 Only Grade 3 adverse reactions occurred. | 22 | 1 |
+| Pneumonia Pneumonia includes lower respiratory tract infection, lung infection, pneumocystis jirovecii pneumonia, and pneumonia. | 8 | 5 | 10 | 6 Grade 5 adverse reactions occurred. |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 15 | 1 | 11 | 0.4 |
 | Nausea | 8 | 0.4 | 11 | 0.4 |
 | General disorders and administration site conditions |  |  |  |  |
-| FatigueFatigue includes asthenia, and fatigue. | 15 | 1 | 16 | 2 |
-| Infusion reactionsInfusion reactions includes terms determined by investigators to be related to infusion. | 13 | 2 | 34 | 5 |
+| Fatigue Fatigue includes asthenia, and fatigue. | 15 | 1 | 16 | 2 |
+| Infusion reactions Infusion reactions includes terms determined by investigators to be related to infusion. | 13 | 2 | 34 | 5 |
 | Pyrexia | 13 | 0 | 13 | 1 |
 | Chills | 6 | 0.4 | 12 | 1 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Back pain | 10 | 2 | 12 | 3 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-| CoughCough includes cough, and productive cough. | 9 | 1 | 14 | 0 |
-| DyspneaDyspnea includes dyspnea, and dyspnea exertional. | 6 | 1 | 11 | 1 |
+| Cough Cough includes cough, and productive cough. | 9 | 1 | 14 | 0 |
+| Dyspnea Dyspnea includes dyspnea, and dyspnea exertional. | 6 | 1 | 11 | 1 |
 
 Clinically relevant adverse reactions in <10% of patients who received DARZALEX FASPRO included:
 
@@ -371,7 +371,7 @@ Table 15: Select Hematology Laboratory Abnormalities Worsening from Baseline in 
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | DARZALEX FASPRODenominator is based on the safety population treated with DARZALEX FASPRO (N=260) and Intravenous Daratumumab (N=258). |  | Intravenous Daratumumab |  |
+| Laboratory Abnormality | DARZALEX FASPRO Denominator is based on the safety population treated with DARZALEX FASPRO (N=260) and Intravenous Daratumumab (N=258). |  | Intravenous Daratumumab |  |
 | Decreased leukocytes | 65 | 19 | 57 | 14 |
 | Decreased lymphocytes | 59 | 36 | 56 | 36 |
 | Decreased neutrophils | 55 | 19 | 43 | 11 |
@@ -407,31 +407,31 @@ Table 16: Adverse Reactions (≥10%) in Patients with AL Amyloidosis Who Receive
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | DARZALEX FASPRO-VCd (N=193) |  | VCd (N=188) |  |
 | Infections |  |  |  |  |
-| Upper respiratory tract infectionUpper respiratory tract infection includes laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, rhinovirus infection, sinusitis, tonsillitis, tracheitis, upper respiratory tract infection, upper respiratory tract infection bacterial, and viral upper respiratory tract infection. | 40 | 1Only Grade 3 adverse reactions occurred. | 21 | 1 |
-| PneumoniaPneumonia includes lower respiratory tract infection, pneumonia, pneumonia aspiration, and pneumonia pneumococcal. | 15 | 10 | 9 | 5 |
+| Upper respiratory tract infection Upper respiratory tract infection includes laryngitis, nasopharyngitis, pharyngitis, respiratory syncytial virus infection, respiratory tract infection, respiratory tract infection viral, rhinitis, rhinovirus infection, sinusitis, tonsillitis, tracheitis, upper respiratory tract infection, upper respiratory tract infection bacterial, and viral upper respiratory tract infection. | 40 | 1 Only Grade 3 adverse reactions occurred. | 21 | 1 |
+| Pneumonia Pneumonia includes lower respiratory tract infection, pneumonia, pneumonia aspiration, and pneumonia pneumococcal. | 15 | 10 | 9 | 5 |
 | Gastrointestinal disorders |  |  |  |  |
 | Diarrhea | 36 | 6 | 30 | 4 |
 | Constipation | 34 | 2 | 29 | 0 |
 | Nervous system disorders |  |  |  |  |
 | Peripheral sensory neuropathy | 31 | 3 | 20 | 2 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
-| DyspneaDyspnea includes dyspnea, and dyspnea exertional. | 26 | 4 | 20 | 4 |
-| CoughCough includes cough, and productive cough. | 20 | 1 | 11 | 0 |
+| Dyspnea Dyspnea includes dyspnea, and dyspnea exertional. | 26 | 4 | 20 | 4 |
+| Cough Cough includes cough, and productive cough. | 20 | 1 | 11 | 0 |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |
 | Back pain | 12 | 2 | 6 | 0 |
 | Arthralgia | 10 | 0 | 5 | 0 |
 | Muscle spasms | 10 | 1 | 5 | 0 |
 | Cardiac disorders |  |  |  |  |
-| ArrhythmiaArrhythmia includes atrial flutter, atrial fibrillation, supraventricular tachycardia, bradycardia, arrhythmia, bradyarrhythmia, cardiac flutter, extrasystoles, supraventricular extrasystoles, ventricular arrhythmia, ventricular extrasystoles, atrial tachycardia, ventricular tachycardia | 11 | 4 | 5 | 2 |
+| Arrhythmia Arrhythmia includes atrial flutter, atrial fibrillation, supraventricular tachycardia, bradycardia, arrhythmia, bradyarrhythmia, cardiac flutter, extrasystoles, supraventricular extrasystoles, ventricular arrhythmia, ventricular extrasystoles, atrial tachycardia, ventricular tachycardia | 11 | 4 | 5 | 2 |
 | General disorders and administration site conditions |  |  |  |  |
-| Injection site reactionsInjection site reactions includes terms determined by investigators to be related to daratumumab injection. | 11 | 0 | 0 | 0 |
+| Injection site reactions Injection site reactions includes terms determined by investigators to be related to daratumumab injection. | 11 | 0 | 0 | 0 |
 
 Clinically relevant adverse reactions not included in Table 16 and occurred in patients who received DARZALEX FASPRO with bortezomib, cyclophosphamide and dexamethasone included:
 
 - Skin and subcutaneous tissue disorders: rash, pruritus
 - Nervous system disorders: paresthesia
 - General disorders and administration site conditions: infusion reaction, chills
-- Cardiac disorders: cardiac failureCardiac failure includes cardiac dysfunction, cardiac failure, cardiac failure congestive, cardiovascular insufficiency, diastolic dysfunction, pulmonary edema, and left ventricular dysfunction occurred in 11% of patients., cardiac arrest
+- Cardiac disorders: cardiac failure Cardiac failure includes cardiac dysfunction, cardiac failure, cardiac failure congestive, cardiovascular insufficiency, diastolic dysfunction, pulmonary edema, and left ventricular dysfunction occurred in 11% of patients., cardiac arrest
 - Metabolism and nutrition disorders: hyperglycemia, hypocalcemia, dehydration
 - Infections: bronchitis, herpes zoster, sepsis, urinary tract infection, influenza
 - Vascular disorders: hypertension

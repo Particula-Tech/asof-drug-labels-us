@@ -6,7 +6,7 @@ In Combination with Bortezomib, Melphalan and Prednisone
 
 The efficacy of DARZALEX FASPRO with bortezomib, melphalan and prednisone was evaluated in a single-arm cohort of PLEIADES (NCT03412565), a multi-cohort, open-label trial.
 Eligible patients were required to have newly diagnosed multiple myeloma who are ineligible for transplant.
-Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from weeks 1 to 6, once every 3 weeks from weeks 7 to 54 and once every 4 weeks starting with week 55 until disease progression or unacceptable toxicity; bortezomib 1.3 mg/m2 subcutaneously twice weekly on Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly on Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle); and melphalan 9 mg/m2 and prednisone 60 mg/m2 orally on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
+Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from weeks 1 to 6, once every 3 weeks from weeks 7 to 54 and once every 4 weeks starting with week 55 until disease progression or unacceptable toxicity; bortezomib 1.3 mg/m 2 subcutaneously twice weekly on Weeks 1, 2, 4 and 5 for the first 6-week cycle (Cycle 1; 8 doses), followed by once weekly on Weeks 1, 2, 4 and 5 for eight more 6-week cycles (Cycles 2–9; 4 doses per cycle); and melphalan 9 mg/m 2 and prednisone 60 mg/m 2 orally on Days 1 to 4 of the nine 6-week cycles (Cycles 1–9).
 The major efficacy outcome measure was overall response rate (ORR).
 
 A total of 67 patients received DARZALEX FASPRO with VMP.
@@ -19,7 +19,7 @@ Table 19: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPR
 
 |  | DARZALEX FASPRO-VMP (N=67) |
 | --- | --- |
-| Overall response rate (sCR+CR+VGPR+PR), n (%)Based on treated patients | 59 (88%) |
+| Overall response rate (sCR+CR+VGPR+PR), n (%) Based on treated patients | 59 (88%) |
 | 95% CI (%) | (78%, 95%) |
 | Stringent complete response (sCR) | 5 (8%) |
 | Complete response (CR) | 7 (10%) |
@@ -47,7 +47,7 @@ Table 20: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPR
 
 |  | DARZALEX FASPRO-Rd (N=65) |
 | --- | --- |
-| Overall response rate (sCR+CR+VGPR+PR), n (%)Based on treated patients | 59 (91%) |
+| Overall response rate (sCR+CR+VGPR+PR), n (%) Based on treated patients | 59 (91%) |
 | 95% CI (%) | (81%, 97%) |
 | Stringent complete response (sCR) | 4 (6%) |
 | Complete response (CR) | 8 (12%) |
@@ -73,19 +73,19 @@ Figure 1: Kaplan-Meier Curve of PFS in APOLLO
 
 Additional efficacy results from APOLLO are presented in Table 21.
 
-Table 21: Efficacy Results from APOLLOBased on intent-to-treat population
+Table 21: Efficacy Results from APOLLO Based on intent-to-treat population
 
 |  | DARZALEX FASPRO-Pd (n=151) | Pd (n=153) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) n (%) | 104 (68.9%) | 71 (46.4%) |
-| P-valuep-value from Cochran Mantel-Haenszel Chi-Squared test adjusted for stratification factors | <0.0001 |  |
+| P-value p-value from Cochran Mantel-Haenszel Chi-Squared test adjusted for stratification factors | <0.0001 |  |
 | Stringent complete response (sCR) | 14 (9.3%) | 2 (1.3%) |
 | Complete response (CR) | 23 (15.2%) | 4 (2.6%) |
 | Very good partial response (VGPR) | 40 (26.5%) | 24 (15.7%) |
 | Partial response (PR) | 27 (17.9%) | 41 (26.8%) |
-| MRD negativity rateBased on the intent-to-treat population, Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n (%) | 13 (8.6%) | 3 (2.0%) |
+| MRD negativity rate Based on the intent-to-treat population, Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n (%) | 13 (8.6%) | 3 (2.0%) |
 | 95% CI (%) | (4.7%, 14.3%) | (0.4%, 5.6%) |
-| P-valuep-value from Fisher's exact test. | 0.0102 |  |
+| P-value p-value from Fisher's exact test. | 0.0102 |  |
 | MRD negativity rate in patients with CR or better |  |  |
 | Number of patients with CR or better | N=37 | N=6 |
 | MRD negativity rate n (%) | 13 (35.1%) | 3 (50.0%) |
@@ -102,7 +102,7 @@ In Combination with Carfilzomib and Dexamethasone
 
 The efficacy of DARZALEX FASPRO with carfilzomib and dexamethasone (DARZALEX FASPRO-Kd) was evaluated in a single-arm cohort of PLEIADES (NCT03412565), a multi-cohort, open-label trial.
 This cohort enrolled patients with relapsed or refractory multiple myeloma excluding patients with left ventricular ejection fraction (LVEF) less than 40%, myocardial infarction within 6 months, uncontrolled cardiac arrhythmia, or uncontrolled hypertension (systolic blood pressure >159 mmHg or diastolic >99 mmHg despite optimal treatment).
-Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from Weeks 1 to 8, once every 2 weeks from Weeks 9 to 24 and once every 4 weeks starting with Week 25 until disease progression or unacceptable toxicity with carfilzomib administered by IV infusion at a dose of 20 mg/m2 on Cycle 1 Day 1 and if a dose of 20 mg/m2 was tolerated, carfilzomib was administered at a dose of 70 mg/m2 as a 30-minute IV infusion, on Cycle 1 Day 8 and Day 15, and then Day 1, 8 and 15 of each cycle and dexamethasone 40 mg per week (or a reduced dose of 20 mg per week for patients ≥75 years or BMI <18.5).
+Patients received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from Weeks 1 to 8, once every 2 weeks from Weeks 9 to 24 and once every 4 weeks starting with Week 25 until disease progression or unacceptable toxicity with carfilzomib administered by IV infusion at a dose of 20 mg/m 2 on Cycle 1 Day 1 and if a dose of 20 mg/m 2 was tolerated, carfilzomib was administered at a dose of 70 mg/m 2 as a 30-minute IV infusion, on Cycle 1 Day 8 and Day 15, and then Day 1, 8 and 15 of each cycle and dexamethasone 40 mg per week (or a reduced dose of 20 mg per week for patients ≥75 years or BMI <18.5).
 The major efficacy outcome measure was ORR.
 
 A total of 66 patients received DARZALEX FASPRO with Kd.
@@ -117,7 +117,7 @@ Table 22: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPR
 
 |  | DARZALEX FASPRO-Kd (N=66) |
 | --- | --- |
-| Overall response rate (sCR+CR+VGPR+PR), n (%)Based on treated patients | 56 (84.8%) |
+| Overall response rate (sCR+CR+VGPR+PR), n (%) Based on treated patients | 56 (84.8%) |
 | 95% CI (%) | (73.9%, 92.5%) |
 | Stringent complete response (sCR) | 11 (16.7%) |
 | Complete response (CR) | 14 (21.2%) |
@@ -130,7 +130,7 @@ Monotherapy
 The efficacy of DARZALEX FASPRO as monotherapy was evaluated in COLUMBA (NCT03277105), an open-label, randomized, non-inferiority study.
 Eligible patients were required to have relapsed or refractory multiple myeloma who had received at least 3 prior lines of therapy including a proteasome inhibitor and an immunomodulatory agent or who were double-refractory to a proteasome inhibitor and an immunomodulatory agent.
 Patients were randomized to receive DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously or daratumumab 16 mg/kg administered intravenously; each administered once weekly from weeks 1 to 8, once every 2 weeks from weeks 9 to 24 and once every 4 weeks starting with week 25 until unacceptable toxicity or disease progression.
-The major efficacy outcome measures were ORR by the IMWG response criteria and maximum Ctrough at pre-dose Cycle 3 Day 1 [see Clinical Pharmacology (12.3)].
+The major efficacy outcome measures were ORR by the IMWG response criteria and maximum C trough at pre-dose Cycle 3 Day 1 [see Clinical Pharmacology (12.3)].
 Randomization was stratified by body weight, myeloma type, and number of prior lines of therapy.
 
 A total of 522 patients were randomized: 263 to the DARZALEX FASPRO arm and 259 to the intravenous daratumumab arm.
@@ -149,7 +149,7 @@ Table 23: Efficacy Results from COLUMBA
 
 |  | DARZALEX FASPRO (N=263) | Intravenous Daratumumab (N=259) |
 | --- | --- | --- |
-| Overall response (sCR+CR+VGPR+PR), n (%)Based on intent-to-treat population. | 108 (41%) | 96 (37%) |
+| Overall response (sCR+CR+VGPR+PR), n (%) Based on intent-to-treat population. | 108 (41%) | 96 (37%) |
 | 95% CI (%) | (35%, 47%) | (31%, 43%) |
 | Ratio of response rates (95% CI) |  | 1.11 (0.89, 1.37) |
 | CR or better, n (%) | 5 (1.9%) | 7 (2.7%) |
@@ -163,7 +163,7 @@ In Combination with Bortezomib, Cyclophosphamide and Dexamethasone
 The efficacy of DARZALEX FASPRO with VCd was evaluated in ANDROMEDA (NCT03201965), an open-label, randomized, active-controlled trial.
 Eligible patients were required to have newly diagnosed light chain (AL) amyloidosis with at least one affected organ, measurable hematologic disease, Cardiac Stage I-IIIA (based on European Modification of Mayo 2004 Cardiac Stage), and NYHA Class I-IIIA.
 Patients with NYHA Class IIIB and IV were excluded.
-Patients were randomized to receive bortezomib 1.3 mg/m2 administered subcutaneously, cyclophosphamide 300 mg/m2 (max dose 500 mg) administered orally or intravenously, and dexamethasone 40 mg (or a reduced dose of 20 mg for patients >70 years or body mass index <18.5 or who have hypervolemia, poorly controlled diabetes mellitus or prior intolerance to steroid therapy) administered orally or intravenously on Days 1, 8, 15, and 22 of each 28-day cycle with or without DARZALEX FASPRO 1,800 mg/30,000 units subcutaneously once weekly from weeks 1 to 8, once every 2 weeks from weeks 9 to 24 and once every 4 weeks starting with week 25 until disease progression or a maximum of two years.
+Patients were randomized to receive bortezomib 1.3 mg/m 2 administered subcutaneously, cyclophosphamide 300 mg/m 2 (max dose 500 mg) administered orally or intravenously, and dexamethasone 40 mg (or a reduced dose of 20 mg for patients >70 years or body mass index <18.5 or who have hypervolemia, poorly controlled diabetes mellitus or prior intolerance to steroid therapy) administered orally or intravenously on Days 1, 8, 15, and 22 of each 28-day cycle with or without DARZALEX FASPRO 1,800 mg/30,000 units subcutaneously once weekly from weeks 1 to 8, once every 2 weeks from weeks 9 to 24 and once every 4 weeks starting with week 25 until disease progression or a maximum of two years.
 When DARZALEX FASPRO and dexamethasone were administered on the same day, dexamethasone 20 mg was administered before DARZALEX FASPRO with the remaining dose of dexamethasone administered after DARZALEX FASPRO if applicable.
 The major efficacy outcome measure was confirmed hematologic complete response (HemCR) rate based on Consensus Criteria as determined by the Independent Review Committee (negative serum and urine immunofixation, involved free light chain level decrease to less than the upper limit of normal, and normal free light chain ratio).
 Randomization was stratified by Cardiac Stage (European Modification of Mayo 2004 Cardiac Stage) countries that typically offer autologous stem cell transplant (ASCT) for patients with light chain (AL) amyloidosis, and renal function.
@@ -176,16 +176,16 @@ The majority (79%) of patients had lambda free light chain disease.
 
 Efficacy results are summarized in Table 24.
 
-Table 24: Efficacy Results from ANDROMEDABased on intent-to-treat population
+Table 24: Efficacy Results from ANDROMEDA Based on intent-to-treat population
 
 |  | DARZALEX FASPRO-VCd (n=195) | VCd (n=193) |
 | --- | --- | --- |
 | Hematologic complete response (HemCR), n (%) | 82 (42%) | 26 (13%) |
-| p-valuep-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
+| p-value p-value from Cochran Mantel-Haenszel Chi-Squared test. | <0.0001 |  |
 | Very good partial response (VGPR), n (%) | 71 (36%) | 69 (36%) |
 | Partial response (PR), n (%) | 26 (13%) | 53 (27%) |
 | Hematologic VGPR or better (HemCR + VGPR), n (%) | 153 (78%) | 95 (49%) |
-| Major organ deterioration progression-free survivalMajor organ deterioration-PFS defined as hematologic progression, major organ (cardiac or renal) deterioration or death, Hazard ratio with 95% CI | 0.58 (0.37, 0.92) |  |
+| Major organ deterioration progression-free survival Major organ deterioration-PFS defined as hematologic progression, major organ (cardiac or renal) deterioration or death, Hazard ratio with 95% CI | 0.58 (0.37, 0.92) |  |
 | VCd=bortezomib-cyclophosphamide-dexamethasone |  |  |
 
 The median time to HemCR was 59 days (range: 8 to 299 days) in the DARZALEX FASPRO-VCd arm and 59 days (range: 16 to 340 days) in the VCd arm.

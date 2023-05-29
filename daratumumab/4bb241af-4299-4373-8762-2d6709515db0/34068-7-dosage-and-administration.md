@@ -25,8 +25,8 @@ Table 1: DARZALEX FASPRO dosing schedule in combination with lenalidomide, pomal
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
-| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.2) and the prescribing information for dosage recommendations for the other drugs.
 
@@ -39,8 +39,8 @@ Table 2: DARZALEX FASPRO dosing schedule in combination with bortezomib, melphal
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 6 | weekly (total of 6 doses) |
-| Weeks 7 to 54First dose of the every-3-week dosing schedule is given at Week 7 | every three weeks (total of 16 doses) |
-| Week 55 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 55 | every four weeks |
+| Weeks 7 to 54 First dose of the every-3-week dosing schedule is given at Week 7 | every three weeks (total of 16 doses) |
+| Week 55 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 55 | every four weeks |
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1) and the prescribing information for dosage recommendations for the other drugs.
 
@@ -53,9 +53,9 @@ Table 3: DARZALEX FASPRO dosing schedule in combination with bortezomib, thalido
 | Treatment phase | Weeks | Schedule |
 | --- | --- | --- |
 | Induction | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 16First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
+| Weeks 9 to 16 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
 | Stop for high dose chemotherapy and ASCT |  |  |
-| Consolidation | Weeks 1 to 8First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
+| Consolidation | Weeks 1 to 8 First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
@@ -68,8 +68,8 @@ Table 4: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexa
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 9 | weekly (total of 9 doses) |
-| Weeks 10 to 24First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
-| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 10 to 24 First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
+| Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
@@ -84,8 +84,8 @@ Table 5: DARZALEX FASPRO dosing schedule in combination with bortezomib, cycloph
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
-| Week 25 onwards until disease progression or a maximum of 2 yearsFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progression or a maximum of 2 years First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.2) and the prescribing information for dosage recommendations for the other drugs.
 
