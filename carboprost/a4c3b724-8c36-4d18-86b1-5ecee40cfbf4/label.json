@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216939"
+  ],
+  "inn": "carboprost",
+  "labeler": "Eugia US LLC",
+  "package_ndcs": [
+    "55150-459-01",
+    "55150-459-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "carboprost tromethamine",
+      "name": "CARBOPROST TROMETHAMINE"
+    }
+  ],
+  "setid": "a4c3b724-8c36-4d18-86b1-5ecee40cfbf4",
+  "source": "dailymed"
+}
