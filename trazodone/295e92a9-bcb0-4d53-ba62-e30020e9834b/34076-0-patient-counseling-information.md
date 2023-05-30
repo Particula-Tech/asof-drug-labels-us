@@ -41,4 +41,4 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Dispense with Medication Guide available at www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Issued: 06/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 05/2023 Dispense with Medication Guide available at www.aurobindousa.com/medication-guides
