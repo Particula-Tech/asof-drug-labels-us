@@ -41,7 +41,7 @@ More severe acute withdrawal signs and symptoms, including life-threatening reac
 
 Protracted withdrawal syndrome associated with benzodiazepines is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
 Protracted withdrawal symptoms may last weeks to more than 12 months.
-As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used.
+As a result, there may be difficulty in differentiating withdrawal symptoms from potential re-emergence or continuation of symptoms for which the benzodiazepine was being used; however, little tolerance develops to the amnestic reactions and other cognitive impairments caused by benzodiazepines.
 
 ## Tolerance
 
