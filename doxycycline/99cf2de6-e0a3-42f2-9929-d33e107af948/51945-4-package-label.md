@@ -2,7 +2,7 @@
 
 NDC 51862-558-06
 
-DORYX® (doxycycline hyclate delayed-release tablets)
+DORYX ® (doxycycline hyclate delayed-release tablets)
 
 200 mg
 
@@ -18,7 +18,7 @@ mayne pharma
 
 NDC 51862-557-12
 
-DORYX® (doxycycline hyclate delayed-release tablets)
+DORYX ® (doxycycline hyclate delayed-release tablets)
 
 50 mg
 
@@ -35,7 +35,7 @@ mayne pharma
 
 NDC 51862-562-30
 
-DORYX® (doxycycline hyclate delayed-release tablets)
+DORYX ® (doxycycline hyclate delayed-release tablets)
 
 80 mg
 

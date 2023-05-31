@@ -6,7 +6,7 @@ Doxycycline is a tetracycline-class antimicrobial drug [see Microbiology (12.4)]
 
 ## 12.3 Pharmacokinetics
 
-Following single and multiple-dose administration of DORYX Tablets, 200 mg to adult volunteers, average peak plasma doxycycline concentration (Cmax) was 4.6 mcg/mL and 6.3 mcg/mL, respectively with median tmax of 3 hours; the corresponding mean plasma concentration values 24 hours after single and multiple doses were 1.5 mcg/mL and 2.3 mcg/mL, respectively.
+Following single and multiple-dose administration of DORYX Tablets, 200 mg to adult volunteers, average peak plasma doxycycline concentration (C max) was 4.6 mcg/mL and 6.3 mcg/mL, respectively with median t max of 3 hours; the corresponding mean plasma concentration values 24 hours after single and multiple doses were 1.5 mcg/mL and 2.3 mcg/mL, respectively.
 
 Absorption
 
@@ -14,8 +14,8 @@ Doxycycline is virtually completely absorbed after oral administration.
 
 Effect of Food
 
-The mean Cmax and AUC 0-∞ of doxycycline are 24% and 13% lower, respectively, following single dose administration of DORYX Tablets, 100 mg with a high fat meal (including milk) compared to fasted conditions.
-The mean Cmax of doxycycline is 19% lower and the AUC 0-∞ is unchanged following single dose administration of DORYX Tablets, 150 mg with a high fat meal (including milk) compared to fasted conditions.
+The mean C max and AUC 0-∞ of doxycycline are 24% and 13% lower, respectively, following single dose administration of DORYX Tablets, 100 mg with a high fat meal (including milk) compared to fasted conditions.
+The mean C max of doxycycline is 19% lower and the AUC 0-∞ is unchanged following single dose administration of DORYX Tablets, 150 mg with a high fat meal (including milk) compared to fasted conditions.
 The clinical significance of these decreases is unknown.
 Doxycycline bioavailability from DORYX Tablets, 200 mg was not affected by food, but the incidence of nausea was higher in fasted subjects.
 The 200 mg tablets may be administered without regard to meals.

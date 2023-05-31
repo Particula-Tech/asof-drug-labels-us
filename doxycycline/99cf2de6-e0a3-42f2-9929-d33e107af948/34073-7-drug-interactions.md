@@ -22,7 +22,7 @@ Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline
 
 ## 7.6 Penthrane
 
-The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
+The concurrent use of tetracycline and Penthrane ® (methoxyflurane) has been reported to result in fatal renal toxicity.
 
 ## 7.7 Drug/Laboratory Test Interactions
 
