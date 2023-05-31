@@ -1,6 +1,5 @@
 # 4 CONTRAINDICATIONS
 
-- •Active Liver Disease, Which May Include Unexplained Persistent Elevations in Hepatic Transaminase Levels
-- •Hypersensitivity to Any Component of This Medication
-- •Pregnancy [see Use in Specific Populations (8.1, 8.3)].
-- •Lactation [see Use in Specific Populations (8.2)].
+- •Acute liver failure or decompensated cirrhosis [see Warnings and Precautions (5.3)]
+- •Hypersensitivity to atorvastatin or any excipients in atorvastatin calcium tablets.
+  Hypersensitivity reactions, including anaphylaxis, angioneurotic edema, erythema multiforme, Stevens-Johnson syndrome, and toxic epidermal necrolysis, have been reported [see Adverse Reactions (6.2)].

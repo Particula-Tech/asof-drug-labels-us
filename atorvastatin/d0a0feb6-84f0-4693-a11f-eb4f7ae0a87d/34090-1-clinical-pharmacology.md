@@ -22,16 +22,17 @@ The absolute bioavailability of atorvastatin (parent drug) is approximately 14% 
 The low systemic availability is attributed to presystemic clearance in gastrointestinal mucosa and/or hepatic first-pass metabolism.
 Although food decreases the rate and extent of drug absorption by approximately 25% and 9%, respectively, as assessed by Cmax and AUC, LDL-C reduction is similar whether atorvastatin calcium tablets are given with or without food.
 Plasma atorvastatin concentrations are lower (approximately 30% for Cmax and AUC) following evening drug administration compared with morning.
-However, LDL-C reduction is the same regardless of the time of day of drug administration [see Dosage and Administration (2)].
+However, LDL-C reduction is the same regardless of the time of day of drug administration.
 
 ### Distribution
 
 Mean volume of distribution of atorvastatin is approximately 381 liters.
 Atorvastatin is ≥ 98% bound to plasma proteins.
 A blood/plasma ratio of approximately 0.25 indicates poor drug penetration into red blood cells.
-Based on observations in rats, atorvastatin is likely to be secreted in human milk [see Contraindications (4) and Use in Specific Populations (8.2)].
 
-### Metabolism
+### Elimination
+
+#### Metabolism
 
 Atorvastatin is extensively metabolized to ortho- and parahydroxylated derivatives and various beta-oxidation products.
 In vitro inhibition of HMG-CoA reductase by ortho- and parahydroxylated metabolites is equivalent to that of atorvastatin.
@@ -50,7 +51,6 @@ Less than 2% of a dose of atorvastatin is recovered in urine following oral admi
 #### Geriatric
 
 Plasma concentrations of atorvastatin are higher (approximately 40% for Cmax and 30% for AUC) in healthy elderly subjects (age ≥ 65 years) than in young adults.
-Clinical data suggest a greater degree of LDL-lowering at any dose of drug in the elderly patient population compared to younger adults [see Use in Specific Populations (8.5)].
 
 #### Pediatric
 
@@ -62,9 +62,7 @@ Plasma concentrations of atorvastatin in women differ from those in men (approxi
 
 #### Renal Impairment
 
-Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin; thus, dose adjustment in patients with renal dysfunction is not necessary [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
-
-#### Hemodialysis
+Renal disease has no influence on the plasma concentrations or LDL-C reduction of atorvastatin [see Use in Specific Populations (8.6)].
 
 While studies have not been conducted in patients with end-stage renal disease, hemodialysis is not expected to significantly enhance clearance of atorvastatin since the drug is extensively bound to plasma proteins.
 
@@ -72,24 +70,24 @@ While studies have not been conducted in patients with end-stage renal disease, 
 
 In patients with chronic alcoholic liver disease, plasma concentrations of atorvastatin are markedly increased.
 Cmax and AUC are each 4-fold greater in patients with Childs-Pugh A disease.
-Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Contraindications (4)].
+Cmax and AUC are approximately 16-fold and 11-fold increased, respectively, in patients with Childs-Pugh B disease [see Use in Specific Populations (8.7)].
 
-### Drug Interaction Studies
+### Drug Interactions
 
 Atorvastatin is a substrate of the hepatic transporters, OATP1B1 and OATP1B3 transporter.
 Metabolites of atorvastatin are substrates of OATP1B1.
 Atorvastatin is also identified as a substrate of the efflux transporter BCRP, which may limit the intestinal absorption and biliary clearance of atorvastatin.
 
-Table 6: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
+Table 5: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 
-| Co-administered Drug and Dosing Regimen | Atorvastatin |  |  |
+| Co-administered drug and dosing regimen | Atorvastatin |  |  |
 | --- | --- | --- | --- |
 |  | Dose (mg) | Ratio of AUCRepresents ratio of treatments (co-administered drug plus atorvastatin vs. atorvastatin alone). | Ratio of Cmax |
 | See Sections 5.1 and 7 for clinical significance.Cyclosporine 5.2 mg/kg/day, stable dose | 10 mg QDOnce daily for 28 days | 8.69 | 10.66 |
 | Tipranavir 500 mg BIDTwice daily/ritonavir 200 mg BID, 7 days | 10 mg SDSingle dose | 9.36 | 8.58 |
 | Glecaprevir 400 mg QD/pibrentasvir 120 mg QD, 7 days | 10 mg QD for 7 days | 8.28 | 22.00 |
 | Telaprevir 750 mg q8hEvery 8 hours, 10 days | 20 mg SD | 7.88 | 10.60 |
-| The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ritonavir 400 mg BID, 15 days | 40 mg QD for 4 days | 3.93 | 4.31 |
+| , The dose of saquinavir plus ritonavir in this study is not the clinically used dose. The increase in atorvastatin exposure when used clinically is likely to be higher than what was observed in this study. Therefore, caution should be applied and the lowest dose necessary should be used.Saquinavir 400 mg BID/ritonavir 400 mg BID, 15 days | 40 mg QD for 4 days | 3.93 | 4.31 |
 | Elbasvir 50 mg QD/grazoprevir 200 mg QD, 13 days | 10 mg SD | 1.94 | 4.34 |
 | Simeprevir 150 mg QD, 10 days | 40 mg SD | 2.12 | 1.70 |
 | Clarithromycin 500 mg BID, 9 days | 80 mg QD for 8 days | 4.54 | 5.38 |
@@ -97,9 +95,9 @@ Table 6: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Itraconazole 200 mg QD, 4 days | 40 mg SD | 3.32 | 1.20 |
 | Letermovir 480 mg QD, 10 days | 20 mg SD | 3.29 | 2.17 |
 | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 10 mg QD for 4 days | 2.53 | 2.84 |
-| Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | 2.30 | 4.04 |
+| Fosamprenavir 1400 mg BID, 14 days | 10 mg QDa for 4 days | 2.30 | 4.04 |
 | Nelfinavir 1250 mg BID, 14 days | 10 mg QD for 28 days | 1.74 | 2.22 |
-| Grapefruit Juice, 240 mL QDGreater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL-1.2 liters per day). | 40 mg SD | 1.37 | 1.16 |
+| Grapefruit Juice, 240 mL QD,Greater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL-1.2 liters per day). | 40 mg SD | 1.37 | 1.16 |
 | Diltiazem 240 mg QD, 28 days | 40 mg SD | 1.51 | 1.00 |
 | Erythromycin 500 mg QIDFour times daily, 7 days | 10 mg SD | 1.33 | 1.38 |
 | Amlodipine 10 mg, single dose | 80 mg SD | 1.18 | 0.91 |
@@ -113,9 +111,9 @@ Table 6: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Fenofibrate 160 mg QD, 7 days | 40 mg SD | 1.03 | 1.02 |
 | Boceprevir 800 mg TIDThree times daily, 7 days | 40 mg SD | 2.32 | 2.66 |
 
-Table 7: Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
+Table 6: Effect of Atorvastatin on the Pharmacokinetics of Co-administered Drugs
 
-| Atorvastatin | Co-administered Drug and Dosing Regimen |  |  |
+| Atorvastatin | Co-administered drug and dosing regimen |  |  |
 | --- | --- | --- | --- |
 |  | Drug/Dose (mg) | Ratio of AUC | Ratio of Cmax |
 | 80 mg QDOnce daily for 15 days | Antipyrine, 600 mg SDSingle dose | 1.03 | 0.89 |

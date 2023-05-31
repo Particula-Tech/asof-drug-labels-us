@@ -1,44 +1,15 @@
 # 1 INDICATIONS AND USAGE
 
-Therapy with lipid-altering agents should be only one component of multiple risk factor intervention in individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
-Drug therapy is recommended as an adjunct to diet when the response to a diet restricted in saturated fat and cholesterol and other nonpharmacologic measures alone has been inadequate.
-In patients with CHD or multiple risk factors for CHD, atorvastatin calcium tablets can be started simultaneously with diet.
-
-## 1.1 Prevention of Cardiovascular Disease in Adults
-
-In adult patients without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as age, smoking, hypertension, low HDL-C, or a family history of early coronary heart disease, atorvastatin calcium tablets are indicated to:
-
-- •Reduce the risk of myocardial infarction
-- •Reduce the risk of stroke
-- •Reduce the risk for revascularization procedures and angina
-
-In adult patients with type 2 diabetes, and without clinically evident coronary heart disease, but with multiple risk factors for coronary heart disease such as retinopathy, albuminuria, smoking, or hypertension, atorvastatin calcium tablets are indicated to:
-
-- •Reduce the risk of myocardial infarction
-- •Reduce the risk of stroke
-
-In adult patients with clinically evident coronary heart disease, atorvastatin calcium tablets are indicated to:
-
-- •Reduce the risk of non-fatal myocardial infarction
-- •Reduce the risk of fatal and non-fatal stroke
-- •Reduce the risk for revascularization procedures
-- •Reduce the risk of hospitalization for CHF
-- •Reduce the risk of angina
-
-## 1.2 Hyperlipidemia
-
 Atorvastatin calcium tablets are indicated:
 
-- •As an adjunct to diet to reduce elevated total-C, LDL-C, apo B, and TG levels and to increase HDL-C in adult patients with primary hypercholesterolemia (heterozygous familial and nonfamilial) and mixed dyslipidemia (Fredrickson Types IIa and IIb);
-- •As an adjunct to diet for the treatment of adult patients with elevated serum TG levels (Fredrickson Type IV);
-- •For the treatment of adult patients with primary dysbetalipoproteinemia (Fredrickson Type III) who do not respond adequately to diet;
-- •To reduce total-C and LDL-C in patients with homozygous familial hypercholesterolemia (HoFH) as an adjunct to other lipid-lowering treatments (e.g., LDL apheresis) or if such treatments are unavailable;
-- •As an adjunct to diet to reduce total-C, LDL-C, and apo B levels in pediatric patients, 10 years to 17 years of age, with heterozygous familial hypercholesterolemia (HeFH) if after an adequate trial of diet therapy the following findings are present:
-  - a.LDL-C remains ≥ 190 mg/dL or
-  - b.LDL-C remains ≥ 160 mg/dL and:
-    1. •there is a positive family history of premature cardiovascular disease or
-    2. •two or more other CVD risk factors are present in the pediatric patient
-
-## 1.3 Limitations of Use
-
-Atorvastatin calcium tablets have not been studied in conditions where the major lipoprotein abnormality is elevation of chylomicrons (Fredrickson Types I and V).
+- •To reduce the risk of:
+  - oMyocardial infarction (MI), stroke, revascularization procedures, and angina in adults with multiple risk factors for coronary heart disease (CHD) but without clinically evident CHD
+  - oMI and stroke in adults with type 2 diabetes mellitus with multiple risk factors for CHD but without clinically evident CHD
+  - oNon-fatal MI, fatal and non-fatal stroke, revascularization procedures, hospitalization for congestive heart failure, and angina in adults with clinically evident CHD
+- •As an adjunct to diet to reduce low-density lipoprotein cholesterol (LDL-C) in:
+  - oAdults with primary hyperlipidemia.
+  - oAdults and pediatric patients aged 10 years and older with heterozygous familial hypercholesterolemia (HeFH).
+- •As an adjunct to other LDL-C-lowering therapies, or alone if such treatments are unavailable, to reduce LDL-C in adults and pediatric patients aged 10 years and older with homozygous familial hypercholesterolemia (HoFH).
+- •As an adjunct to diet for the treatment of adults with:
+  - oPrimary dysbetalipoproteinemia
+  - oHypertriglyceridemia
