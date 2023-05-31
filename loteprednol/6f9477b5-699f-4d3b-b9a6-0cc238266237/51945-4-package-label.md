@@ -4,8 +4,14 @@ NDC 24208-507-07
 
 Rx only
 
-LOTEMAX® SM (loteprednol etabonate ophthalmic gel) 0.38%
+Lotemax® SM
+
+(loteprednol etabonate
+
+Ophthalmic gel) 0.38%
 
 FOR OPHTHALMIC USE ONLY
 
-Sterile 5 g
+Sterile
+
+5 g

@@ -16,16 +16,25 @@ Risk of Secondary Infection
 
 Advise the patient to consult a physician if pain develops, redness, itching or inflammation becomes aggravated.
 
-Distributed by: Bausch + Lomb, a division of Bausch Health US, LLC, Bridgewater, NJ 08807, USA
+Distributed by:
 
-Manufactured by: Bausch & Lomb Incorporated, Tampa, FL 33637 USA
+Bausch & Lomb Americas Inc.
 
-U.S. Patent Number: 10,596,107
+Bridgewater, NJ 08807 USA
+
+Manufactured by:
+
+Bausch & Lomb Incorporated
+
+Tampa, FL 33637 USA
+
+Patented.
+See https://patents.bausch.com.
 
 LOTEMAX is a trademark of Bausch & Lomb Incorporated or its affiliates.
 
-© 2020 Bausch & Lomb Incorporated or its affiliates
+© 2023 Bausch & Lomb Incorporated or its affiliates
 
-9669601 (Folded)
+9669602 (Folded)
 
-9669701 (Flat)
+9669702 (Flat)
