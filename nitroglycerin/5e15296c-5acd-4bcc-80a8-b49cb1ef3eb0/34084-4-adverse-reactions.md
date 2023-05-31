@@ -24,4 +24,4 @@ In two placebo-controlled trials of intermittent therapy with nitroglycerin patc
 | Hypotension, and/or Syncope | 0% | 4% |
 | Increased Angina | 2% | 2% |
 
-To report SUSPECTED ADVERSE REACTIONS, contact USPharma LLC at 1(844)-750-3729 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact USPharma Ltd at 1(844)-750-3729 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
