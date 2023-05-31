@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA216209"
+  ],
+  "inn": "ramelteon",
+  "labeler": "Xiromed, LLC",
+  "package_ndcs": [
+    "70700-272-05",
+    "70700-272-10",
+    "70700-272-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ramelteon",
+      "name": "Ramelteon"
+    }
+  ],
+  "setid": "5c1ba52a-8e7a-844a-6c48-d1c9bf9fff0e",
+  "source": "dailymed"
+}
