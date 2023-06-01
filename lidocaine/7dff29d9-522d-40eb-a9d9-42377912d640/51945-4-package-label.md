@@ -56,7 +56,7 @@ If leaks are found, discard solution as sterility may be impaired.
 
 Not made with natural rubber latex, PVC or DEHP.
 
-EXCEL is a registered trademark of B. Braun Medical Inc. Rx only
+Excel is a registered trademark of B. Braun Medical Inc. Rx only
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
 
@@ -71,7 +71,7 @@ Lidocaine HCl and 5% Dextrose Injection USP
 REF P5982 NDC 0264-9598-20 250 mL EXCEL® CONTAINER Lidocaine 2 g (8 mg/mL) Y94-003-296 LD-343-2
 
 Each 100 mL contains: Lidocaine Hydrochloride USP 0.8 g; Hydrous Dextrose USP 5 g; Water for Injection USP qs pH: 4.2 (3.0-7.0) Calc.
-Osmolarity: 305 mOsmol/liter Warning: Do not admix with other drugs.
+Osmolarity: 305 mOsmol/liter WARNING: Do not admix with other drugs.
 Do not administer simultaneously with blood.
 Sterile, nonpyrogenic.
 Single dose container.
@@ -89,7 +89,7 @@ If leaks are found, discard solution as sterility may be impaired.
 
 Not made with natural rubber latex, PVC or DEHP.
 
-EXCEL is a registered trademark of B. Braun Medical Inc. Rx only
+Excel is a registered trademark of B. Braun Medical Inc. Rx only
 
 B. Braun Medical Inc. Bethlehem, PA 18018-3524 USA 1-800-227-2862
 
