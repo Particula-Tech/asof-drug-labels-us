@@ -79,7 +79,7 @@ EPRONTIA can be taken without regard to meals.
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
-Discard the unused portion after 60 days [see How Supplied/Storage and Handling (16.2)].
+Discard the unused portion after 90 days [see How Supplied/Storage and Handling (16.2)].
 
 ## 2.5 Dosing in Patients with Renal Impairment
 

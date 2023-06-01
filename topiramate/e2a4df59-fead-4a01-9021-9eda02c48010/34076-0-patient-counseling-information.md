@@ -69,7 +69,7 @@ Administration Instructions
 
 Counsel patients that EPRONTIA may be taken with or without food.
 Advise patients that the dosage of EPRONTIA should be measured using a calibrated measuring device and not a household teaspoon and they may ask their pharmacist for an oral dosing syringe if you do not have one.
-Instruct patients to discard any unused EPRONTIA after 60 days of first opening the bottle [see Dosage and Administration (2.4)].
+Instruct patients to discard any unused EPRONTIA after 90 days of first opening the bottle [see Dosage and Administration (2.4)].
 
 Instructions for a Missing Dose
 

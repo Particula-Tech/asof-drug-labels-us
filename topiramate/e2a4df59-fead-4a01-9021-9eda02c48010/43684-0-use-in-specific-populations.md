@@ -140,7 +140,7 @@ Safety and effectiveness in patients below the age of 2 years have not been esta
 
 Monotherapy Treatment in Patients 2 Years of Age and Older
 
-The safety and effectiveness for partial-onset seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+The safety and effectiveness for partial-onset seizures have been established in pediatric patients aged 2 years and older [see Clinical Trials Experience (6.1), Clinical Studies (14.1)].
 
 A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of topiramate (N=28, 6-15 years of age) versus levetiracetam (N=35, 4-15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
@@ -150,7 +150,7 @@ Therefore, the Least Square Mean treatment differences shown reflect a topiramat
 Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.
 Subgroup analyses according to age demonstrated similar negative effects for all key safety outcomes (i.e., BMD, height, weight).
 
-Table 10: Summary of Topiramate Treatment Difference Results at 12 Months for Key Safety
+Table 10: Summary of Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
 
 | Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |
 | --- | --- |
@@ -166,7 +166,7 @@ Table 10: Summary of Topiramate Treatment Difference Results at 12 Months for Ke
 
 Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all topiramate-treated patients at some time in the study [see Warnings and Precautions (5.4)].
 Over the whole study, 76% more topiramate-treated patients experienced persistent metabolic acidosis (i.e.
-2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam treated patients.
+2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam-treated patients.
 Over the whole study, 35% more topiramate-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam-treated patients.
 The decrease in BMD at 12 months was correlated with decreased serum bicarbonate, suggesting that metabolic acidosis was at least a partial factor contributing to this adverse effect on BMD.
 
@@ -196,7 +196,7 @@ Preventive Treatment of Migraine in Pediatric Patients 6 to 11 Years of Age
 
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 
-In a double-blind study in 90 pediatric patients 6 to 11 years of age (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that seen in pooled double blind studies of pediatric patients 12 to 17 years of age.
+In a double-blind study in 90 pediatric patients 6 to 11 years of age (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that seen in pooled double-blind studies of pediatric patients 12 to 17 years of age.
 The most common adverse reactions that occurred in topiramate -treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
 Difficulty with concentration/attention occurred in 3 topiramate-treated patients (5%) and placebo treated patients.
 

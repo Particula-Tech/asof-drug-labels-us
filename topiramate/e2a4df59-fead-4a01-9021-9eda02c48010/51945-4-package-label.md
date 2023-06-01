@@ -1,8 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - Bottle Label
+# PRINCIPAL DISPLAY PANEL - Carton Label
 
-NDC 52652-9001-1 Rx Only
+Carton Label
 
-EPRONTIA™ (topiramate) oral solution
+NDC 52652-9001-2
+
+EPRONTIA® (topiramate) oral solution
 
 25 mg/mL
 
@@ -10,15 +12,15 @@ FOR ORAL USE ONLY
 
 ATTENTION PHARMACIST:
 
-Dispense with the following to each patient:
+Dispense the following to each patient:
 
 - •Oral Dosing Syringe
 - •Medication Guide - available at eprontia.com/medication-guide.pdf
 
-Recommended Dosage: See prescribing information
+READY TO USE
 
-473 mL READY TO USE
+240 mL Rx Only
 
-Manufactured for: azurity pharmaceuticals® Wilmington, MA 01887 USA
+azurity® pharmaceuticals
 
-Rev.02
+Manufactured for: Azurity Pharmaceuticals, Inc. Woburn, MA 01801

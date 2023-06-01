@@ -1,6 +1,6 @@
-EPRONTIA is a trademark of Azurity Pharmaceuticals, Inc.
+EPRONTIA is a registered trademark of Azurity Pharmaceuticals, Inc.
 
-Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887 USA
+Manufactured for: Azurity Pharmaceuticals, Inc. Woburn, MA 01801
 
 Patent: https://azurity.com/patents
 
@@ -9,4 +9,4 @@ For current Full Prescribing Information, please visit www.eprontia.com
 
 PN: 65628-00603
 
-REV #: 05
+REV #: 06

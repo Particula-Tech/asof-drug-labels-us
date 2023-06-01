@@ -97,7 +97,7 @@ Table 12: Topiramate Dose Summary During the Stabilization Periods of Each of Si
 
 In all adjunctive trials, the reduction in seizure rate from baseline during the entire double-blind phase was measured.
 The median percent reductions in seizure rates and the responder rates (fraction of patients with at least a 50% reduction) by treatment group for each study are shown below in Table 13.
-As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial
+As described above, a global improvement in seizure severity was also assessed in the Lennox-Gastaut trial.
 
 Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 

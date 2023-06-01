@@ -14,4 +14,4 @@ It is available as follows:
 ## 16.2 Storage and Handling
 
 EPRONTIA is stored at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
-Discard unused portion 60 days after first opening.
+Discard unused portion 90 days after first opening.
