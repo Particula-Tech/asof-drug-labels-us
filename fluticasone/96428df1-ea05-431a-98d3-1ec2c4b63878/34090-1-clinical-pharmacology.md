@@ -101,8 +101,8 @@ The effects of renal and hepatic impairment and other intrinsic factors on the p
 Figure 1.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) Following Administration as Fluticasone Furoate/Vilanterol Combination
 
-1. aSevere renal impairment (CrCl <30 mL/min) compared with healthy subjects; mild (Child‑Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
-2. bFor COPD and asthma, the following comparisons were made: age compared with ≤65 years, gender compared with female, and ethnicity compared with White.
+- aSevere renal impairment (CrCl <30 mL/min) compared with healthy subjects; mild (Child‑Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh C) hepatic impairment compared with healthy subjects.
+- bFor COPD and asthma, the following comparisons were made: age compared with ≤65 years, gender compared with female, and ethnicity compared with White.
 
 Pediatric Patients: Fluticasone Furoate: A population pharmacokinetics analysis to assess impact of age on fluticasone furoate systemic exposure was conducted using combined data from clinical trials in pediatric patients aged 5 to 11 years (n = 306).
 There was no relevant effect of age on the apparent clearance of fluticasone furoate.
