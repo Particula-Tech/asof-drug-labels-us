@@ -37,4 +37,6 @@ Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-ST-BRM/P/02
+ST-BRM/P/03
+
+PSSO0487
