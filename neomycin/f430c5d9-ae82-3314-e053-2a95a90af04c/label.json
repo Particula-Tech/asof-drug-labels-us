@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA065220"
+  ],
+  "inn": "neomycin",
+  "labeler": "Solaris Pharma Corporation",
+  "package_ndcs": [
+    "73473-901-05"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "neomycin sulfate",
+      "name": "Neomycin Sulfate"
+    }
+  ],
+  "setid": "f430c5d9-ae82-3314-e053-2a95a90af04c",
+  "source": "dailymed"
+}
