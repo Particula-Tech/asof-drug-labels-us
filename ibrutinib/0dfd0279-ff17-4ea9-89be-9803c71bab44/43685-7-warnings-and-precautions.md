@@ -19,7 +19,7 @@ Consider the benefit-risk of withholding IMBRUVICA for at least 3 to 7 days pre-
 ## 5.2 Infections
 
 Fatal and non-fatal infections (including bacterial, viral, or fungal) have occurred with IMBRUVICA therapy.
-Grade 3 or greater infections occurred in 21% of 1,476 patients who received IMBRUVICA in clinical trials [see Adverse Reactions (6.1, 6.2)].
+Grade 3 or greater infections occurred in 21% of 1,476 patients with B-cell malignancies who received IMBRUVICA in clinical trials [see Adverse Reactions (6.1, 6.2)].
 Cases of progressive multifocal leukoencephalopathy (PML) and Pneumocystis jirovecii pneumonia (PJP) have occurred in patients treated with IMBRUVICA.
 Consider prophylaxis according to standard of care in patients who are at increased risk for opportunistic infections.
 Monitor and evaluate patients for fever and infections and treat appropriately.
@@ -40,9 +40,11 @@ Manage cardiac arrhythmias and cardiac failure appropriately, follow dose modifi
 
 ## 5.4Hypertension
 
-Hypertension occurred in 19% of 1,476 patients who received IMBRUVICA in clinical trials.
+Hypertension occurred in 19% of 1,476 patients with B-cell malignancies who received IMBRUVICA in clinical trials.
 Grade 3 or greater hypertension occurred in 8% of patients [see Adverse Reactions (6.1)].
-Based on data from 1,124 of these patients, the median time to onset was 5.9 months (range, 0.03 to 24 months).
+Based on data from a subset of these patients (N=1,124), the median time to onset was 5.9 months (range, 0 to 24 months).
+In a long-term safety analysis over 5 years of 1,284 patients with B-cell malignancies treated for a median of 36 months (range, 0 to 98 months), the cumulative rate of hypertension increased over time.
+The prevalence for Grade 3 or greater hypertension was 4% (year 0-1), 7% (year 1-2), 9% (year 2-3), 9% (year 3-4), and 9% (year 4-5); the overall incidence for the 5-year period was 11%.
 
 Monitor blood pressure in patients treated with IMBRUVICA, initiate or adjust anti-hypertensive medication throughout treatment with IMBRUVICA as appropriate, and follow dosage modification guidelines for Grade 3 or higher hypertension [see Dosage and Administration (2.2)].
 
@@ -54,7 +56,7 @@ Monitor complete blood counts monthly.
 
 ## 5.6 Second Primary Malignancies
 
-Other malignancies (10%), including non-skin carcinomas (3.9%), occurred among the 1,476 patients who received IMBRUVICA in clinical trials [see Adverse Reactions (6.1)].
+Other malignancies (10%), including non-skin carcinomas (3.9%), occurred among the 1,476 patients with B-cell malignancies who received IMBRUVICA in clinical trials [see Adverse Reactions (6.1)].
 The most frequent second primary malignancy was non-melanoma skin cancer (6%).
 
 ## 5.7 Tumor Lysis Syndrome
@@ -66,7 +68,7 @@ Monitor patients closely and treat as appropriate.
 ## 5.8 Embryo-Fetal Toxicity
 
 Based on findings in animals, IMBRUVICA can cause fetal harm when administered to a pregnant woman.
-Administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis caused embryo-fetal toxicity including malformations at exposures that were 2-20 times higher than those reported in patients with hematologic malignancies.
+Administration of ibrutinib to pregnant rats and rabbits during the period of organogenesis caused embryo-fetal toxicity including malformations at exposures that were 3-20 times higher than those reported in patients with hematologic malignancies.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with IMBRUVICA and for 1 month after the last dose.
 [see Use in Specific Populations (8.1)].

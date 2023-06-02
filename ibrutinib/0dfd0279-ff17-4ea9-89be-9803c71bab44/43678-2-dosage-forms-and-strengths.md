@@ -14,8 +14,6 @@ Each 280 mg tablet is a purple oblong tablet debossed with “ibr” on one side
 
 Each 420 mg tablet is a yellow green to green oblong tablet debossed with “ibr” on one side and “420” on the other side.
 
-Each 560 mg tablet is a yellow to orange oblong tablet debossed with “ibr” on one side and “560” on the other side.
-
 Oral Suspension:
 
 70 mg/mL, white to off-white suspension.

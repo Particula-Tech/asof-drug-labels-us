@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Ibrutinib was not carcinogenic in a 6-month rasH2 mouse study at oral doses up to 2000 mg/kg/day resulting in exposures approximately 23 (males) to 37 (females) times higher than the exposure in humans at a dose of 560 mg daily [see Warnings and Precautions (5.6)].
+Ibrutinib was not carcinogenic in a 6-month rasH2 mouse study at oral doses up to 2000 mg/kg/day resulting in exposures approximately 32 (males) to 52 (females) times higher than the exposure in humans at a dose of 420 mg daily [see Warnings and Precautions (5.6)].
 
 Ibrutinib was not mutagenic in a bacterial mutagenicity (Ames) assay, was not clastogenic in a chromosome aberration assay in mammalian (CHO) cells, nor was it clastogenic in an in vivo bone marrow micronucleus assay in mice at doses up to 2000 mg/kg.
 

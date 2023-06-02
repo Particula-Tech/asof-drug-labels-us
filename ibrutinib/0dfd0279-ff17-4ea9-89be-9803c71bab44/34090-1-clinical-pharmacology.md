@@ -22,13 +22,13 @@ Ibrutinib did not show meaningful inhibition of platelet aggregation for ADP, ar
 
 Cardiac Electrophysiology
 
-At a single dose 3 times the maximum recommended dose (1680 mg), IMBRUVICA did not prolong the QT interval to any clinically relevant extent.
+At a single dose 4 times the maximum recommended dose (1680 mg), IMBRUVICA did not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
-Ibrutinib exposure increases with doses up to 840 mg (1.5 times the maximum approved recommended dosage) in patients with B-cell malignancies.
-The mean steady-state AUC (% coefficient of variation) observed in patients at 560 mg with MCL is 865 (69%) ng●h/mL and with MZL is 978 (82%) ng●h/mL, and in patients at 420 mg with CLL/SLL is 708 (71%) ng●h/mL, with WM is 707 (72%) ng●h/mL, and in adult patients with previously treated cGVHD is 1159 (50%) ng●h/mL.
-Steady-state concentrations of ibrutinib without CYP3A inhibitors were achieved with an accumulation ratio of 1 to 1.6 after 1 week of multiple daily doses of 420 mg or 560 mg.
+Ibrutinib exposure increases with doses up to 840 mg (2 times the maximum approved recommended dosage) in patients with B-cell malignancies.
+The mean steady-state AUC (% coefficient of variation) observed in patients at 420 mg with CLL/SLL is 708 (71%) ng×h/mL, with WM is 707 (72%) ng×h/mL, and in adult patients with previously treated cGVHD is 1159 (50%) ng×h/mL.
+Steady-state concentrations of ibrutinib without CYP3A inhibitors were achieved with an accumulation ratio of 1 to 1.6 after 1 week of multiple daily doses of 420 mg.
 
 Absorption
 
@@ -83,7 +83,7 @@ The Cmax of ibrutinib increased 5.2-fold in mild hepatic impairment, 8.8-fold in
 
 Pediatric Patients
 
-In pediatric patients with cGVHD treated with ibrutinib at 240 mg/m2 once daily (patients age ≥1 to <12 years) or 420 mg once daily (patients age ≥12 years), the geometric mean (%CV) steady state AUC and Cmax in patients age ≥1 to <12 years is 467 (102%) ng●h/mL and 65.7 (96%) ng/mL, respectively, and in patients age ≥12 to <17 years is 966 (78%) ng●h/mL and 149 (79%) ng/mL, respectively.
+In pediatric patients with cGVHD treated with ibrutinib at 240 mg/m2 once daily (patients age ≥ 1 to < 12 years) or 420 mg once daily (patients age ≥ 12 years), the geometric mean (%CV) steady state AUC and Cmax in patients age ≥ 1 to < 12 years is 467 (102%) ng×h/mL and 65.7 (96%) ng/mL, respectively, and in patients age ≥ 12 to < 17 years is 966 (78%) ng×h/mL and 149 (79%) ng/mL, respectively.
 
 Drug Interaction Studies
 

@@ -2,10 +2,6 @@
 
 ## 2.1 Recommended Dosage
 
-Mantle Cell Lymphoma and Marginal Zone Lymphoma
-
-The recommended dosage of IMBRUVICA for MCL and MZL is 560 mg orally once daily until disease progression or unacceptable toxicity.
-
 Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma and Waldenström’s Macroglobulinemia
 
 The recommended dosage of IMBRUVICA for CLL/SLL and WM is 420 mg orally once daily until disease progression or unacceptable toxicity.
@@ -63,17 +59,17 @@ Once the adverse reaction has improved to Grade 1 or baseline (recovery), follow
 
 Table 2: Recommended Dosage Modifications for Adverse Reactions
 
-| Adverse Reactiona,b | Occurrence | Dose Modification for MCL and MZL After Recovery Starting Dose = 560 mg | Dose Modification for CLL/SLL, WM, and Patients 12 Years or older with cGVHD After Recovery Starting Dose = 420 mg | Dose Modification for Patients 1 Year to less than 12 Years with cGVHD After Recovery Starting Dose = 240 mg/m2 |
-| --- | --- | --- | --- | --- |
-| Grade 2 cardiac failure | First | Restart at 420 mg dailyc | Restart at 280 mg dailyc | Restart at 160 mg/m2 dailyc |
-|  | Second | Restart at 280 mg dailyc | Restart at 140 mg dailyc | Restart at 80 mg/m2 dailyc |
-|  | Third | Discontinue IMBRUVICA | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
-| Grade 3 cardiac arrhythmias | First | Restart at 420 mg dailyc | Restart at 280 mg dailyc | Restart at 160 mg/m2 dailyc |
-|  | Second | Discontinue IMBRUVICA | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
-| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First | Discontinue IMBRUVICA | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
-| Other Grade 3 or 4 non-hematological toxicitiesd Grade 3 or 4 neutropenia with infection or fever Grade 4 hematological toxicities | First | Restart at 420 mg daily | Restart at 280 mg daily | Restart at 160 mg/m2 dailyc |
-|  | Second | Restart at 280 mg daily | Restart at 140 mg daily | Restart at 80 mg/m2 dailyc |
-|  | Third | Discontinue IMBRUVICA | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Adverse Reactiona,b | Occurrence | Dose Modification for CLL/SLL, WM, and Patients 12 Years or older with cGVHD After Recovery Starting Dose = 420 mg | Dose Modification for Patients 1 Year to less than 12 Years with cGVHD After Recovery Starting Dose = 240 mg/m2 |
+| --- | --- | --- | --- |
+| Grade 2 cardiac failure | First | Restart at 280 mg dailyc | Restart at 160 mg/m2 dailyc |
+|  | Second | Restart at 140 mg dailyc | Restart at 80 mg/m2 dailyc |
+|  | Third | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Grade 3 cardiac arrhythmias | First | Restart at 280 mg dailyc | Restart at 160 mg/m2 dailyc |
+|  | Second | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Grade 3 or 4 cardiac failure Grade 4 cardiac arrhythmias | First | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
+| Other Grade 3 or 4 non-hematological toxicitiesd Grade 3 or 4 neutropenia with infection or fever Grade 4 hematological toxicities | First | Restart at 280 mg daily | Restart at 160 mg/m2 dailyc |
+|  | Second | Restart at 140 mg daily | Restart at 80 mg/m2 dailyc |
+|  | Third | Discontinue IMBRUVICA | Discontinue IMBRUVICA |
 
 a [see Warnings and Precautions (5)].
 
@@ -113,7 +109,7 @@ Table 4: Recommended Dosage Modifications for Use with CYP3A Inhibitors
 
 | Patient Population | Coadministered Drug | Recommended IMBRUVICA Dosage |
 | --- | --- | --- |
-| B-Cell Malignancies | Moderate CYP3A inhibitor | 280 mg once daily Modify dose as recommended [see Dosage and Administration (2.2)]. |
+| B-cell Malignancies | Moderate CYP3A inhibitor | 280 mg once daily Modify dose as recommended [see Dosage and Administration (2.2)]. |
 |  | Voriconazole 200 mg twice daily Posaconazole suspension 100 mg once daily, 100 mg twice daily, or 200 mg twice daily | 140 mg once daily Modify dose as recommended [see Dosage and Administration (2.2)]. |
 |  | Posaconazole suspension 200 mg three times daily or 400 mg twice daily Posaconazole intravenously 300 mg once daily Posaconazole delayed-release tablets 300 mg once daily | 70 mg once daily Interrupt dose as recommended [see Dosage and Administration (2.2)]. |
 |  | Other strong CYP3A inhibitors | Avoid concomitant use. If these inhibitors will be used short-term (such as anti-infectives for seven days or less), interrupt IMBRUVICA. |
