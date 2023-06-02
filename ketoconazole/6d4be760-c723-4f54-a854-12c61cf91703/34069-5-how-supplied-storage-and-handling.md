@@ -15,6 +15,6 @@ Strides Pharma Inc,
 
 East Brunswick, NJ 08816
 
-Revised: 04/2022
+Revised: 05/2023
 
 Medication Guide available at: www.strides.com/medication-guides

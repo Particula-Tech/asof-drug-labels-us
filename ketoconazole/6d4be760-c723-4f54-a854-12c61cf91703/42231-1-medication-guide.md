@@ -29,8 +29,7 @@ Call your healthcare provider right away if you have any of the following sympto
 • fever or rash
 
 - changes in the electrical activity of your heart called QT prolongation.
-  QT prolongation can cause irregular heart beats that can be life threatening.
-  This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
+  QT prolongation can cause irregular heart beats that can be life threatening.This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
   Talk to your healthcare provider about other medicines you are taking before you start taking ketoconazole tablets.
   Tell your healthcare provider right away if you feel faint, lightheaded, dizzy, or feel your heart beating irregularly or fast.
   These may be symptoms related to QT prolongation.
@@ -47,6 +46,8 @@ Who should not take ketoconazole tablets?
 
 - Do not take ketoconazole tablets if you:
 - have liver problems
+- take lurasidone.
+  Taking ketoconazole tablets with this medicine may increase the risk of serious side effects.
 - take simvastatin, or lovastatin.
   Ketoconazole tablets when taken with these medicines may cause muscle problems.
 - take eplerenone, dihydroergotamine, ergotamine, ergometrine (ergonovine), methylergometrine (methylergonovine) or nisoldipine.
@@ -137,6 +138,6 @@ Strides Pharma Inc,
 
 East Brunswick, NJ 08816
 
-Revised: 04/2022
+Revised: 05/2023
 
 Medication Guide available at: www.strides.com/medication-guides
