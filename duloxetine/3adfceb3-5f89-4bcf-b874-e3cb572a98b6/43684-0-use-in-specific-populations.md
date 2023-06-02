@@ -83,7 +83,7 @@ The presence of duloxetine delayed-release capsules metabolites in breast milk w
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of duloxetine delayed-release capsules have been established for treatment of generalized anxiety disorder (GAD) in patients 7 to 17 years of age.
+The safety and effectiveness of duloxetine delayed-release capsules have been established for treatment of generalized anxiety disorder (GAD) in patients 7 to 17 years of age and for treatment of juvenile fibromyalgia syndrome in patients 13 to 17 years of age.
 The safety and effectiveness of duloxetine delayed-release capsules have not been established in pediatric patients with major depressive disorder (MDD), diabetic peripheral neuropathic pain, or chronic musculoskeletal pain.
 
 Antidepressants increased the risk of suicidal thoughts and behavior in pediatric patients.
@@ -97,7 +97,9 @@ The study included 272 pediatric patients with GAD of which 47% were 7 to 11 yea
 Duloxetine delayed-release capsules demonstrated superiority over placebo as measured by greater improvement in the Pediatric Anxiety Rating Scale (PARS) for GAD severity score [see Clinical Studies (14.3)].
 
 The safety and effectiveness of duloxetine delayed-release capsules for the treatment of GAD in pediatric patients less than 7 years of age have not been established.
-Fibromyalgia The safety and effectiveness of duloxetine delayed-release capsules for the treatment of fibromyalgia in patients less than 13 years of age have not been established.
+Fibromyalgia Use of duloxetine delayed-release capsules for treatment of fibromyalgia in patients 13 to 17 years of age is supported by a 13-week placebo-controlled trial in 184 patients with juvenile fibromyalgia syndrome (Study FM-4).
+Duloxetine delayed-release capsules showed improvement over placebo on the primary endpoint, change from baseline to end-of-treatment on the Brief Pain Inventory (BPI) – Modified Short Form: Adolescent Version 24-hour average pain severity rating [see Clinical Studies (14.5)].
+The safety and effectiveness of duloxetine delayed-release capsules for the treatment of fibromyalgia in patients less than 13 years of age have not been established.
 Major Depressive Disorder
 
 The safety and effectiveness of duloxetine delayed-release capsules have not been established in pediatric patients for the treatment of MDD.
@@ -109,8 +111,6 @@ Decreased appetite and weight loss have been observed in association with the us
 
 Juvenile Animal Toxicology Data Duloxetine administration to young rats from post-natal day 21 (weaning) through post-natal day 90 (adult) resulted in decreased body weights that persisted into adulthood, but recovered when drug treatment was discontinued; slightly delayed (~1.5 days) sexual maturation in females, without any effect on fertility; and a delay in learning a complex task in adulthood, which was not observed after drug treatment was discontinued.
 These effects were observed at the high dose of 45 mg/kg/day (2 times the MRHD, for a child); the no-effect-level was 20 mg/kg/day (≈1 times the MRHD, for a child).
-Additional pediatric use information is approved for Eli Lilly and Company, Inc.’s CYMBALTA (duloxetine) delayed-release capsules.
-However, due to Eli Lilly and Company Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
