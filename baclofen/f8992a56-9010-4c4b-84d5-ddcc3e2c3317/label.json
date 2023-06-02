@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA215422"
+  ],
+  "inn": "baclofen",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "64896-076-09",
+    "64896-077-09",
+    "64896-078-09"
+  ],
+  "products": [
+    {
+      "form": "GRANULE",
+      "generic": "baclofen",
+      "name": "LYVISPAH"
+    }
+  ],
+  "setid": "f8992a56-9010-4c4b-84d5-ddcc3e2c3317",
+  "source": "dailymed"
+}
