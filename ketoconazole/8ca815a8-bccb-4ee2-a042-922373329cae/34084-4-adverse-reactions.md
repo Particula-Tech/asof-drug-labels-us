@@ -55,4 +55,4 @@ Skin and Subcutaneous Tissue Disorders: acute generalized exanthematous pustulos
 
 Musculoskeletal and Connective Tissue Disorders: arthralgia
 
-Reproductive System and Breast Disorders: erectile dysfunction; with doses higher than the recommended therapeutic dose of 200 or 400mg daily, azoospermia.
+Reproductive System and Breast Disorders: erectile dysfunction; with doses higher than the recommended therapeutic dose of 200 or 400 mg daily, azoospermia.

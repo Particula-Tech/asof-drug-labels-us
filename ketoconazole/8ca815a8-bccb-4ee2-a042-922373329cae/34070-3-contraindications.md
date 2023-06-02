@@ -7,6 +7,8 @@ Coadministration with ketoconazole can cause elevated plasma concentrations of t
 For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and sometimes resulting in life-threatening ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia.
 (See PRECAUTIONS: Drug Interactions.)
 
+Coadministration of ketoconazole tablets with lurasidone is contraindicated since it may result in an increase in lurasidone exposure and the potential for serious adverse reactions (see PRECAUTIONS: Drug Interactions).
+
 Additionally, the following other drugs are contraindicated with ketoconazole tablets: methadone, disopyramide, dronedarone, ergot alkaloids such as dihydroergotamine, ergometrine, ergotamine, methylergometrine, irinotecan, lurasidone, oral midazolam, alprazolam, triazolam, felodipine, nisoldipine, ranolazine, tolvaptan, eplerenone, lovastatin, simvastatin and colchicine.
 (See PRECAUTIONS: Drug Interactions.)
 

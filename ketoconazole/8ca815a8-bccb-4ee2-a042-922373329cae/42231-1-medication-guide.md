@@ -21,7 +21,7 @@ Ketoconazole tablets USP can cause serious side effects, including:
   - fever or rash
 - changes in the electrical activity of your heart called QT prolongation.
   QT prolongation can cause irregular heart beats that can be life threatening.
-  This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
+  This can happen when ketoconazole tablets are taken with certain medicines, such as dofetilide, quinidine, pimozide, lurasidone, cisapride, methadone, disopyramide, dronedarone, and ranolazine.
   Talk to your healthcare provider about other medicines you are taking before you start taking ketoconazole tablets.
   Tell your healthcare provider right away if you feel faint, lightheaded, dizzy, or feel your heart beating irregularly or fast.
   These may be symptoms related to QT prolongation.
@@ -40,6 +40,8 @@ Who should not take ketoconazole tablets USP?
   - have liver problems
   - take simvastatin, and lovastatin.
     Ketoconazole tablets when taken with these medicines may cause muscle problems.
+  - take lurasidone.
+    Taking ketoconazole tablets with this medicine may increase the risk of serious side effects.
   - take eplerenone, dihydroergotamine, ergotamine, ergometrine (ergonovine), methylergometrine (methylergonovine) or nisoldipine.
   - take triazolam, midazolam, or alprazolam.
     Taking ketoconazole tablets with these medicines may make you very drowsy and make your drowsiness last longer.
@@ -126,4 +128,4 @@ Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761
 
 Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532
 
-Revised: November 2017 79775-1117-6
+Revised: May 2023 xxxxx-0523-07
