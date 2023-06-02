@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208969"
+  ],
+  "inn": "naloxone",
+  "labeler": "International Medication Systems, Ltd.",
+  "package_ndcs": [
+    "76329-3669-2"
+  ],
+  "products": [
+    {
+      "form": "SPRAY",
+      "generic": "naloxone hydrochloride",
+      "name": "Naloxone Hydrochloride Nasal"
+    }
+  ],
+  "setid": "fe9735db-c57e-44a8-bffb-b87a84c2a6f3",
+  "source": "dailymed"
+}

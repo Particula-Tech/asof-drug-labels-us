@@ -1,0 +1,144 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient and family members or caregivers to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+
+Recognition of Opioid Overdose Inform patients and their family members or caregivers about how to recognize the signs and symptoms of an opioid overdose such as the following:
+
+- Extreme somnolence -inability to awaken a patient verbally or upon a firm sternal rub.
+- Respiratory depression -this can range from slow or shallow respiration to no respiration in a patient who is unarousable.
+- Other signs and symptoms that may accompany somnolence and respiratory depression include the following:
+
+◦Miosis ◦Bradycardia and/or hypotension.
+
+Risk of Recurrent Respiratory and Central Nervous System Depression Instruct patients and their family members or caregivers that, since the duration of action of most opioids may exceed that of Naloxone Hydrochloride Nasal Spray, they must seek immediate emergency medical assistance after administration of Naloxone Hydrochloride Nasal Spray and keep the patient under continued surveillance [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Limited Efficacy for/with Partial Agonists or Mixed Agonist/Antagonists Instruct patients and their family members or caregivers that the reversal of respiratory depression caused by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete and may require higher doses of naloxone hydrochloride or repeated administration of Naloxone Hydrochloride Nasal Spray, using a new nasal spray device each time [see Dosage and Administration (2.3), Warnings and Precautions (5.2)].
+
+Precipitation of Severe Opioid Withdrawal Instruct patients and their family members or caregivers that the use of Naloxone Hydrochloride Nasal Spray in patients who are opioid dependent may precipitate opioid withdrawal [see Warnings and Precautions (5.3), Adverse Reactions (6)].
+
+Administration Instructions Instruct patients and their family members or caregivers to:
+
+- Ensure Naloxone Hydrochloride Nasal Spray is readily available in locations where persons may be intentionally or accidentally exposed to an opioid overdose (i.e., opioid emergencies).
+- Use each Naloxone Hydrochloride Nasal Spray device only one time.
+  Do not test or prime prior to use [see Dosage and Administration (2.1)].
+- Administer Naloxone Hydrochloride Nasal Spray as quickly as possible if a patient is unresponsive and an opioid overdose is suspected, even when in doubt, because prolonged respiratory depression may result in damage to the central nervous system or death.
+  Naloxone Hydrochloride Nasal Spray is not a substitute for emergency medical care [see Dosage and Administration (2.1)].
+- Lay the patient on their back and administer Naloxone Hydrochloride Nasal Spray into one nostril while providing support to the back of the neck to allow the head to tilt back [see Dosage and Administration (2.1)].
+- If the patient responds by waking up to the voice or touch or starts breathing normally, place them in the recovery position by turning them to their side as shown in the Instructions for Use and call for emergency medical assistance immediately after administration of Naloxone Hydrochloride Nasal Spray.
+  Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance [see Dosage and Administration (2.1)].
+- Monitor the patient and re-administer additional doses of Naloxone Hydrochloride Nasal Spray every 2 to 3 minutes, using a new Naloxone Hydrochloride Nasal Spray device.
+  If the patient is not responding or responds and then relapses back into respiratory depression, administer Naloxone Hydrochloride Nasal Spray in alternate nostrils with each dose [see Dosage and Administration (2.1)].
+- Replace Naloxone Hydrochloride Nasal Spray before its expiration date.
+
+# PATIENT INFORMATION Naloxone Hydrochloride (Nuh-lok-sohn Hahy-druh-klawr-ahyd) Nasal Spray
+
+You and your family members or caregivers should read this Patient Information leaflet before an opioid emergency happens.
+This information does not take the place of talking with your healthcare provider about your medical condition or your treatment.
+
+What is the most important information I should know about Naloxone Hydrochloride Nasal Spray?
+
+Naloxone HCl Nasal Spray is used to temporarily reverse the effects of opioid medicines.
+The medicine in Naloxone Hydrochloride Nasal Spray has no effect in people who are not taking opioid medicines.
+Always carry Naloxone Hydrochloride Nasal Spray with you in case of an opioid emergency.
+
+1.
+Use Naloxone Hydrochloride Nasal Spray right away if you or your caregiver think signs or symptoms of an opioid emergency are present, even if you are not sure, because an opioid emergency can cause severe injury or death.
+Signs and symptoms of an opioid emergency may include:
+
+- unusual sleepiness and you are not able to awaken the person with a loud voice or by rubbing firmly on the middle of their chest (sternum)
+- breathing problems including slow or shallow breathing in someone difficult to awaken or who looks like they are not breathing
+- the black circle in the center of the colored part of the eye (pupil) is very small, sometimes called “pinpoint pupils,” in someone difficult to awaken
+
+2.
+Family members, caregivers, or other people who may have to use Naloxone Hydrochloride Nasal Spray in an opioid emergency should know where Naloxone Hydrochloride Nasal Spray is stored and how to give Naloxone Hydrochloride Nasal Spray before an opioid emergency happens.
+3.
+Get emergency medical help right away after giving the first dose of Naloxone Hydrochloride Nasal Spray.
+Rescue breathing or CPR (cardiopulmonary resuscitation) may be given while waiting for emergency medical help.
+4.
+The signs and symptoms of an opioid emergency can return after Naloxone Hydrochloride Nasal Spray is given.
+If this happens, give another dose after 2 minutes, then every 2 to 3 minutes using a new Naloxone Hydrochloride Nasal Spray and watch the person closely until emergency help is received.
+
+What is Naloxone Hydrochloride Nasal Spray?
+
+- Naloxone Hydrochloride Nasal Spray is a prescription medicine used in adults and children for the treatment of an opioid emergency such s an overdose or a possible opioid overdose with signs of breathing problems and severe sleepiness or not being able to respond.
+- Naloxone Hydrochloride Nasal Spray is to be given right away and does not take the place of emergency medical care.
+  Get emergency medical help right away after giving the first dose of Naloxone Hydrochloride Nasal Spray, even if the person wakes up.
+- Naloxone Hydrochloride Nasal Spray is safe and effective in children for known or suspected opioid overdose.
+
+Who should not use Naloxone Hydrochloride Nasal Spray?
+
+Do not use Naloxone Hydrochloride Nasal Spray if you are allergic to naloxone hydrochloride or any of the ingredients in Naloxone Hydrochloride Nasal Spray.
+See the end of this leaflet for a complete list of ingredients in Naloxone Hydrochloride Nasal Spray.
+
+What should I tell my healthcare provider before using Naloxone Hydrochloride Nasal Spray?
+
+Before using Naloxone Hydrochloride Nasal Spray, tell your healthcare provider about all of your medical conditions, including if you:
+
+- have heart problems
+- are pregnant or plan to become pregnant.
+  Use of Naloxone Hydrochloride Nasal Spray may cause withdrawal symptoms in your unborn baby.
+  Your unborn baby should be examined by a healthcare provider right away after you use Naloxone Hydrochloride Nasal Spray.
+- are breastfeeding or plan to breastfeed.
+  It is not known if Naloxone Hydrochloride Nasal Spray passes into your breast milk.
+
+Tell your healthcare provider about the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+
+How should I use Naloxone Hydrochloride Nasal Spray?
+Read the "Instructions for Use" at the end of this Patient Information leaflet for detailed information about the right way to use Naloxone Hydrochloride Nasal Spray.
+
+- Use Naloxone Hydrochloride Nasal Spray exactly as prescribed by your healthcare provider.
+- Each Naloxone Hydrochloride Nasal Spray contains only 1 dose of medicine and cannot be reused.
+- Lay the person on their back.
+  Support their neck with your hand and allow the head to tilt back before giving Naloxone Hydrochloride Nasal Spray.
+- Naloxone Hydrochloride Nasal Spray should be given into one nostril.
+- Call for emergency medical assistance immediately after the first dose of Naloxone Hydrochloride Nasal Spray.
+- If the person responds by waking up to the voice or touch or starts breathing normally, place the person on their side (recovery position).
+- If the person does not respond or stops breathing normally and additional doses are needed, give Naloxone Hydrochloride Nasal Spray in the other nostril.
+
+What are the possible side effects of Naloxone Hydrochloride Nasal Spray?
+Naloxone Hydrochloride Nasal Spray may cause serious side effects,including:
+
+- Sudden opioid withdrawal symptoms.
+  In someone who has been using opioids regularly, opioid withdrawal symptoms can happen suddenly after receiving Naloxone Hydrochloride Nasal Spray and may include
+
+| o body aches | o sneezing | o nervousness |
+| --- | --- | --- |
+| o diarrhea | o goose bumps | o restlessness or irritability |
+| o increased heart rate | o sweating | o shivering or trembling |
+| o fever | o yawning | o stomach cramping |
+| o runny nose | o nausea or vomiting | o weakness |
+| o increased blood pressure |  |  |
+
+In infants under 4 weeks old who have been receiving opioids regularly, sudden opioid withdrawal may be life-threatening if not treated the right way.
+Signs and symptoms include: seizures, crying more than usual, and increased reflexes.
+
+The most common side effects of Naloxone Hydrochloride Nasal Spray include tingling in your mouth, and headache.
+These are not all of the possible side effects of Naloxone Hydrochloride Nasal Spray.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+
+How should I store Naloxone Hydrochloride Nasal Spray?
+
+- Store at room temperature between 68°F to 77°F (20°C to 25°C).
+  Naloxone Hydrochloride Nasal Spray may be stored for short periods between 39°F to 104°F (4°C to 40°C).
+- Do not freeze.
+  Do not expose to temperatures below 39°F (4°C) or above 104°F (40°C).
+- Keep Naloxone Hydrochloride Nasal Spray in its box until ready to use.
+  Protect from light.
+- Replace Naloxone Hydrochloride Nasal Spray before the expiration date on the box.
+
+Keep Naloxone Hydrochloride Nasal Spray and all medicines out of the reach of children.
+
+General information about the safe and effective use of Naloxone Hydrochloride Nasal Spray.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use Naloxone Hydrochloride Nasal Spray for a condition for which it was not prescribed.
+You can ask your pharmacist or healthcare provider for information about Naloxone Hydrochloride Nasal Spray that is written for health professionals.
+
+What are the ingredients in Naloxone Hydrochloride Nasal Spray?
+Active ingredient: naloxone hydrochloride Inactive ingredients: sodium chloride, sodium hydroxide to adjust pH and water for injection USP Naloxone Hydrochloride Nasal Spray is not made with natural rubber latex.
+
+Distributed by International Medication Systems, Limited, So.
+El Monte, CA 91733, U.S.A. For more information, go to www.amphastar.com or call 1-800-423-4136.
+
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Issued: 03/2023
