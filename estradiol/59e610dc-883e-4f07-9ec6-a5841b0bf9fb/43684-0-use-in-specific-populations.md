@@ -6,7 +6,8 @@ Risk Summary
 
 Divigel is not indicated for use in pregnant women.
 There are no data with the use of Divigel in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.
-Animal studies to evaluate embryo/fetal toxicity were not conducted with Divigel.
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 ## 8.2 Lactation
 
@@ -14,6 +15,8 @@ Risk Summary
 
 Estrogens are present in human milk and can reduce milk production in breast-feeding women.
 This reduction can occur at any time but is less likely to occur once breast-feeding is well ­established.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Divigel and any potential adverse effects on the breastfed child from Divigel or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -26,9 +29,9 @@ There have not been sufficient numbers of geriatric women involved in studies ut
 
 The Women's Health Initiative Studies
 
-In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Warnings and Precautions (5.1), and Clinical Studies (14.2)].
 
-In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Clinical Studies (14.2)].
+In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Warnings and Precautions (5.1, 5.2), and Clinical Studies (14.2)].
 
 The Women's Health Initiative Memory Study
 

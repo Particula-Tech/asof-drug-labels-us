@@ -68,4 +68,4 @@ While some elevation of estradiol levels over baseline was seen in the male subj
 Effects of Washing
 
 The effect of application site washing on skin surface levels and serum concentrations of estradiol was determined in 16 healthy postmenopausal women after application of 1.0 gram of Divigel to a 200 cm2 area on the thigh.
-Washing the application site with soap and water 1 hour after application removed all detectable amounts of estradiol from the surface of the skin, and resulted in a 30 to 38 percent decrease in the mean total 24-hour exposure to estradiol.
+Washing the application site with soap and water 1 hour after application removed all detectable amounts of estradiol from the surface of the skin and resulted in a 30 to 38 percent decrease in the mean total 24-hour exposure to estradiol.

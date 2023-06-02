@@ -2,7 +2,7 @@
 
 ## 14.1 Effects on Vasomotor Symptoms in Postmenopausal Women
 
-A randomized, double-blind, placebo-controlled trial evaluated the efficacy of 12-week treatment with three different daily doses of Divigel for vasomotor symptoms in 495 postmenopausal women (86.5 percent White; 10.1 percent Black) between 34 and 89 years of age (mean age 54.6) who had at least 50 moderate to severe hot flushes per week at baseline (2 week period prior to treatment).
+A randomized, double-blind, placebo-controlled trial evaluated the efficacy of 12-week treatment with three different daily doses of Divigel for vasomotor symptoms in 495 postmenopausal women (86.5 percent White; 10.1 percent Black) between 34 and 89 years of age (mean age 54.6) who had at least 50 moderate to severe hot flushes per week at baseline (2-week period prior to treatment).
 Women applied placebo, Divigel 0.25 grams (0.25 mg estradiol), Divigel 0.5 grams (0.5 mg estradiol) or Divigel 1.0 gram (1.0 mg estradiol) once daily to the thigh.
 Reductions in both the median daily frequency and the median daily severity of moderate to severe hot flushes were statistically significant for the 0.5 grams per day and the 1.0 gram per day Divigel doses when compared to placebo at week 4.
 Statistically significant reductions in both the median daily frequency and the median daily severity of moderate to severe hot flushes for the Divigel 0.25 grams per day dose when compared to placebo were delayed to week 7.
@@ -18,13 +18,14 @@ These substudies did not evaluate the effects of CE- alone or CE plus MPA on men
 
 WHI Estrogen-Alone Substudy
 
-The WHI estrogen-alone substudy was stopped early because an increased risk of stroke was observed and it was deemed that no further information would be obtained regarding the risks and benefits of estrogen-alone in predetermined primary endpoints.
+The WHI estrogen-alone substudy was stopped early because an increased risk of stroke was observed, and it was deemed that no further information would be obtained regarding the risks and benefits of estrogen-alone in predetermined primary endpoints.
 Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other), after an average follow-up of 7.1 years are presented in Table 4.
 
 For those outcomes included in the WHI "global index" that reached statistical significance, the absolute excess risk per 10,000 women-years in the group treated with CE-alone was 12 more strokes, while the absolute risk reduction per 10,000 women-years was 7 fewer hip fractures.9 The absolute excess risk of events included in the "global index" was a nonsignificant 5 events per 10,000 women- years.
 There was no difference between the groups in terms of all-cause mortality.
 
 No overall difference for primary CHD events (nonfatal MI, silent MI and CHD death) and invasive breast cancer incidence in women receiving CE-alone compared with placebo was reported in final centrally adjudicated results from the estrogen-alone substudy, after an average follow-up of 7.1 years.
+See Table 4.
 
 Centrally adjudicated results for stroke events from the estrogen-alone substudy, after an average follow-up of 7.1 years, reported no significant difference in distribution of stroke subtype or severity, including fatal strokes, in women receiving CE-alone compared to placebo.
 Estrogen-alone increased the risk for ischemic stroke, and this excess risk was present in all subgroups of women examined.10
