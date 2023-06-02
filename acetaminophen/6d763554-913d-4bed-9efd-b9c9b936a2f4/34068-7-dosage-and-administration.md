@@ -16,7 +16,7 @@
 
 Acetaminophen Injection may be given as a single or repeated dose for the treatment of acute pain or fever.
 No dose adjustment is required when converting between oral acetaminophen and Acetaminophen Injection dosing in adults and adolescents who weigh 50 kg and above.
-Calculated maximum daily dose of acetaminophen is based on all routes of administration (i.e., intravenous, oral, and rectal) and all products containing acetaminophen.
+Calculated maximum daily dose of acetaminophen is based on all routes of administration (i.e. intravenous, oral, and rectal) and all products containing acetaminophen.
 Exceeding the maximum mg/kg daily dose of acetaminophen as described in Tables 1-3 may result in hepatic injury, including the risk of liver failure and death.
 To avoid the risk of overdose, ensure that the total amount of acetaminophen from all routes and from all sources does not exceed the maximum recommended dose.
 

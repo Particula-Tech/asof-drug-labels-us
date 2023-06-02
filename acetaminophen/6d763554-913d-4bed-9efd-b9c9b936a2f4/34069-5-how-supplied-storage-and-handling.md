@@ -7,10 +7,10 @@ Acetaminophen Injection (10 mg/mL) is a clear, colorless solution and is supplie
 | 0264-4050-80 | DA4050 | 500 mg/50 mL |  |
 | 0264-4100-90 | DA4100 | 1,000 mg/100 mL |  |
 
-Acetaminophen Injection should be stored at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
+Acetaminophen Injection should be stored at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]
 For single dose only.
-Use product immediately after opening.
+Use the product within 18 hours after opening.
 Do not freeze.
 
 Protect from light until use.
