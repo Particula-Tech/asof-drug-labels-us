@@ -10,6 +10,6 @@ DO NOT USE WITH SOLUTIONS CONTAINING DIVALENT CATIONS (e.g., Ca2+, Mg2+) INCLUDI
 
 Each vial contains: Fosaprepitant…………….150 mg (equivalent to 245.3 mg of fosaprepitant dimeglumine)
 
-Single-Dose Vial Discard Unused Portion
-
 Rx only
+
+Single-Dose Vial Discard Unused Portion
