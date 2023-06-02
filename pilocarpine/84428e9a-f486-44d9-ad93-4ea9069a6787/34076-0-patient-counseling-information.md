@@ -38,4 +38,6 @@ Made in India
 
 Code No.: KR/DRUGS/KTK/28/289/97
 
-ST-PIL/P/00
+ST-PIL/P/01
+
+PSSO0482
