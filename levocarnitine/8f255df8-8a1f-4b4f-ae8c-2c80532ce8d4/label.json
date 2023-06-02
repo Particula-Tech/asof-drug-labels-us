@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA075567"
+  ],
+  "inn": "levocarnitine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9852-01",
+    "0143-9852-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "levocarnitine",
+      "name": "Levocarnitine"
+    }
+  ],
+  "setid": "8f255df8-8a1f-4b4f-ae8c-2c80532ce8d4",
+  "source": "dailymed"
+}
