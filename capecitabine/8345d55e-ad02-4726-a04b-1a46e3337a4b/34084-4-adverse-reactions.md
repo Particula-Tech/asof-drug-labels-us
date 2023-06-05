@@ -1,343 +1,399 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Cardiotoxicity [see Warnings and Precautions (5.3)]
+- Diarrhea [see Warnings and Precautions (5.4)]
+- Dehydration [see Warnings and Precautions (5.5)]
+- Renal Toxicity [see Warnings and Precautions (5.6)]
+- Serious Skin Toxicities [see Warnings and Precautions (5.7)]
+- Palmar-Plantar Erythrodysesthesia Syndrome [see Warnings and Precautions (5.8)]
+- Myelosuppression [see Warnings and Precautions (5.9)]
+- Hyperbilirubinemia [see Warnings and Precautions (5.10)]
+
+## 6.1 Clinical Trials Experience
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-## 6.1 Adjuvant Colon Cancer
+Adjuvant Treatment of Colon Cancer
 
-Table 4 shows the adverse reactions occurring in ≥5% of patients from one phase 3 trial in patients with Dukes' C colon cancer who received at least one dose of study medication and had at least one safety assessment.
-A total of 995 patients were treated with 1250 mg/m 2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 974 patients were administered 5-FU and leucovorin (20 mg/m 2 leucovorin IV followed by 425 mg/m 2 IV bolus 5-FU on days 1 to 5 every 28 days).
-The median duration of treatment was 164 days for capecitabine-treated patients and 145 days for 5-FU/LV-treated patients.
-A total of 112 (11%) and 73 (7%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions.
-A total of 18 deaths due to all causes occurred either on study or within 28 days of receiving study drug: 8 (0.8%) patients randomized to capecitabine and 10 (1.0%) randomized to 5-FU/LV.
+Single Agent
 
-Table 5 shows grade 3/4 laboratory abnormalities occurring in ≥1% of patients from one phase 3 trial in patients with Dukes' C colon cancer who received at least one dose of study medication and had at least one safety assessment.
+The safety of capecitabine as a single agent was evaluated in patients with Stage III colon cancer in X-ACT [see Clinical Studies (14.1)].
+Patients received capecitabine 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle (N = 995) or leucovorin 20 mg/m 2 intravenously followed by fluorouracil 425 mg/m 2 as an intravenous bolus on days 1 to 5 of each 28-day cycle (N = 974).
+Among patients who received capecitabine, the median duration of treatment was 5.4 months.
 
-Table 4 Percent Incidence of Adverse Reactions Reported in ≥5% of Patients Treated With Capecitabine or 5-FU/LV for Colon Cancer in the Adjuvant Setting (Safety Population)
+Deaths due to all causes occurred in 0.8% of patients who received capecitabine on study or within 28 days of receiving study drug.
+Permanent discontinuation due to an adverse reaction occurred in 11% of patients who received capecitabine.
 
-| Body System/ Adverse Event | All Grades | Grade 3/4 | All Grades | Grade 3/4 |
+Most common adverse reactions (>30%) were palmar-plantar erythrodysesthesia syndrome, diarrhea, and nausea.
+
+Tables 2 and 3 summarize the adverse reactions and laboratory abnormalities in X-ACT.
+
+Table 2 Adverse Reactions (≥ 10%) in Patients Who Received Capecitabine for Adjuvant Treatment of Colon Cancer in X-ACT
+
+| Skin and Subcutaneous Tissue |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Adjuvant Treatment for Colon Cancer (N=1969) |  |  |  |
-|  | Capecitabine (N=995) |  | 5-FU/LV (N=974) |  |
-| Gastrointestinal Disorders |  |  |  |  |
+| Adverse Reaction | Capecitabine (N=995) |  | Fluorouracil + Leucovorin (N=974) |  |
+|  | All Grades(%) | Grade 3 or 4 (%) | All Grades(%) | Grade 3 or 4 (%) |
+| Palmar-plantar erythrodysesthesia syndrome | 60 | 17 | 9 | <1 |
+| Gastrointestinal |  |  |  |  |
 | Diarrhea | 47 | 12 | 65 | 14 |
 | Nausea | 34 | 2 | 47 | 2 |
 | Stomatitis | 22 | 2 | 60 | 14 |
 | Vomiting | 15 | 2 | 21 | 2 |
 | Abdominal Pain | 14 | 3 | 16 | 2 |
-| Constipation | 9 | - | 11 | <1 |
-| Upper Abdominal Pain | 7 | <1 | 7 | <1 |
-| Dyspepsia | 6 | <1 | 5 | - |
-| Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| Hand-and-Foot Syndrome | 60 | 17 | 9 | <1 |
-| Alopecia | 6 | - | 22 | <1 |
-| Rash | 7 | - | 8 | - |
-| Erythema | 6 | 1 | 5 | <1 |
-| General Disorders and Administration Site Conditions |  |  |  |  |
+| General |  |  |  |  |
 | Fatigue | 16 | <1 | 16 | 1 |
-| Pyrexia | 7 | <1 | 9 | <1 |
 | Asthenia | 10 | <1 | 10 | 1 |
 | Lethargy | 10 | <1 | 9 | <1 |
-| Nervous System Disorders |  |  |  |  |
-| Dizziness | 6 | <1 | 6 | - |
-| Headache | 5 | <1 | 6 | <1 |
-| Dysgeusia | 6 | - | 9 | - |
-| Metabolism and Nutrition Disorders |  |  |  |  |
-| Anorexia | 9 | <1 | 11 | <1 |
-| Eye Disorders |  |  |  |  |
-| Conjunctivitis | 5 | <1 | 6 | <1 |
-| Blood and Lymphatic System Disorders |  |  |  |  |
-| Neutropenia | 2 | <1 | 8 | 5 |
-| Respiratory Thoracic and Mediastinal Disorders |  |  |  |  |
-| Epistaxis | 2 | - | 5 | - |
 
-Table 5 Percent Incidence of Grade 3/4 Laboratory Abnormalities Reported in ≥1% of Patients Receiving Capecitabine Monotherapy for Adjuvant Treatment of Colon Cancer (Safety Population)
+Clinically relevant adverse reactions in <10% of patients are presented below:
 
-| Adverse Event | Capecitabine (n=995) Grade 3/4 % | IV 5-FU/LV (n=974) Grade 3/4 % |
+Eye: conjunctivitis
+
+Gastrointestinal: constipation, upper abdominal pain, dyspepsia
+
+General: pyrexia
+
+Metabolism and Nutrition: anorexia
+
+Nervous System: dizziness, dysgeusia, headache
+
+Skin & Subcutaneous Tissue: rash, alopecia, erythema
+
+Table 3 Grade 3 or 4 Laboratory Abnormalities (>1%) in Patients Who Received Capecitabine as a Single Agent for Adjuvant Treatment of Colon Cancer in X- ACT
+
+|  | Grade 3 or 4 (%) | Grade 3 or 4 (%) |
 | --- | --- | --- |
-| Increased ALAT (SGPT) | 1.6 | 0.6 |
-| Increased calcium | 1.1 | 0.7 |
-| Decreased calcium | 2.3 | 2.2 |
-| Decreased hemoglobin | 1.0 | 1.2 |
-| Decreased lymphocytes | 13.0 | 13.0 |
-| Decreased neutrophils The incidence of grade 3/4 white blood cell abnormalities was 1.3% in the capecitabine arm and 4.9% in the IV 5-FU/LV arm. | 2.2 | 26.2 |
-| Decreased neutrophils/granulocytes | 2.4 | 26.4 |
-| Decreased platelets | 1.0 | 0.7 |
-| Increased bilirubin It should be noted that grading was according to NCIC CTC Version 1 (May, 1994). In the NCIC-CTC Version 1, hyperbilirubinemia grade 3 indicates a bilirubin value of 1.5 to 3.0 × upper limit of normal (ULN) range, and grade 4 a value of > 3.0 × ULN. The NCI CTC Version 2 and above define a grade 3 bilirubin value of >3.0 to 10.0 × ULN, and grade 4 values >10.0 × ULN. | 20 | 6.3 |
+| Laboratory Abnormality | Capecitabine (N=995) | Fluorouracil + Leucovorin (N=974) |
+| Bilirubin increased | 20 | 6 |
+| Lymphocytes decreased | 13 | 13 |
+| Neutrophils/granulocytes decreased | 2.4 | 26 |
+| Calcium decreased | 2.3 | 2.2 |
+| Neutrophils decreased | 2.2 | 26 |
+| ALT increased | 1.6 | 0.6 |
+| Calcium increased | 1.1 | 0.7 |
+| Hemoglobin decreased | 1 | 1.2 |
+| Platelets decreased | 1 | 0.7 |
 
-## 6.2 Metastatic Colorectal Cancer
+In Combination with Oxaliplatin-Containing Regimens
 
-Monotherapy
+The safety of capecitabine for the perioperative treatment of adults with Stage III colon cancer as a component of a combination chemotherapy regimen was derived from published literature [see Clinical Studies (14.1)].
+The safety of capecitabine for the adjuvant treatment of patients with Stage III colon cancer as a component of a combination chemotherapy regimen was similar to those in patients treated with capecitabine as a single agent, with the exception of an increased incidence of neurosensory toxicity.
 
-Table 6 shows the adverse reactions occurring in ≥5% of patients from pooling the two phase 3 trials in first line metastatic colorectal cancer.
-A total of 596 patients with metastatic colorectal cancer were treated with 1250 mg/m 2 twice a day of capecitabine administered for 2 weeks followed by a 1-week rest period, and 593 patients were administered 5-FU and leucovorin in the Mayo regimen (20 mg/m 2 leucovorin IV followed by 425 mg/m 2 IV bolus 5-FU, on days 1 to 5, every 28 days).
-In the pooled colorectal database the median duration of treatment was 139 days for capecitabine-treated patients and 140 days for 5-FU/LV-treated patients.
-A total of 78 (13%) and 63 (11%) capecitabine and 5-FU/LV-treated patients, respectively, discontinued treatment because of adverse reactions/intercurrent illness.
-A total of 82 deaths due to all causes occurred either on study or within 28 days of receiving study drug: 50 (8.4%) patients randomized to capecitabine and 32 (5.4%) randomized to 5-FU/LV.
+Perioperative Treatment of Rectal Cancer
 
-Table 6 Pooled Phase 3 Colorectal Trials: Percent Incidence of Adverse Reactions in ≥5% of Patients
+The safety of capecitabine for the perioperative treatment of adults with locally advanced rectal cancer as a component of chemoradiotherapy was derived from published literature [see Clinical Studies (14.1)].
+The safety of capecitabine for the perioperative treatment of adults with locally advanced rectal cancer as a component of chemoradiotherapy was similar to those in patients treated with capecitabine as a single agent, with the exception of an increased incidence of diarrhea.
 
-|  | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
+Metastatic Colorectal Cancer
+
+Single Agent
+
+The safety of capecitabine as a single agent was evaluated in a pooled metastatic colorectal cancer population (Study SO14695 and Study SO14796) [see Clinical Studies (14.1)] Patients received capecitabine 1,250 mg/m 2 orally twice a day for the first 14 days of a 21-day cycle (N = 596) or leucovorin 20 mg/m 2 intravenously followed by fluorouracil 425 mg/m 2 as an intravenous bolus on days 1 to 5 of each 28-day cycle (N = 593).
+Among the patients who received capecitabine, the median duration of treatment was 4.6 months.
+
+Deaths due to all causes occurred in 8% of patients who received capecitabine on study or within 28 days of receiving study drug.
+Permanent discontinuation due to an adverse reaction or intercurrent illness occurred in 13% of patients who received capecitabine.
+
+Most common adverse reactions (>30%) were anemia, diarrhea, palmar-plantar erythrodysesthesia syndrome, hyperbilirubinemia, nausea, fatigue, and abdominal pain.
+
+Table 4 shows the adverse reactions occurring in this pooled colorectal cancer population.
+
+Table 4 Adverse Reactions (>10%) in Patients Who Received Capecitabine in Pooled Metastatic Colorectal Cancer Population (Study SO14695 and Study SO14796)
+
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | Capecitabine (n=596) |  |  | 5-FU/LV (n=593) |  |  |
-| Number of Patients With > One Adverse Event | 96 | 52 | 9 | 94 | 45 | 9 |
-| Body System/Adverse Event |  |  |  |  |  |  |
-| GI |  |  |  |  |  |  |
+| Adverse Reaction | Capecitabine (n=596) |  |  | Fluorouracil + Leucovorin (n=593) |  |  |
+| Blood and Lymphatic System |  |  |  |  |  |  |
+| Anemia | 80 | 2 | <1 | 79 | 1 | <1 |
+| Neutropenia | 13 | 1 | 2 | 46 | 8 | 13 |
+| Gastrointestinal |  |  |  |  |  |  |
 | Diarrhea | 55 | 13 | 2 | 61 | 10 | 2 |
-| Nausea | 43 | 4 | – | 51 | 3 | <1 |
+| Nausea | 43 | 4 | - | 51 | 3 | <1 |
+| Abdominal pain | 35 | 9 | <1 | 31 | 5 | - |
 | Vomiting | 27 | 4 | <1 | 30 | 4 | <1 |
 | Stomatitis | 25 | 2 | <1 | 62 | 14 | 1 |
-| Abdominal Pain | 35 | 9 | <1 | 31 | 5 | – |
-| Gastrointestinal Motility Disorder | 10 | <1 | – | 7 | <1 | – |
-| Constipation | 14 | 1 | <1 | 17 | 1 | – |
-| Oral Discomfort | 10 | – | – | 10 | – | – |
-| Upper GI Inflammatory Disorders | 8 | <1 | – | 10 | 1 | – |
-| Gastrointestinal Hemorrhage | 6 | 1 | <1 | 3 | 1 | – |
-| Ileus | 6 | 4 | 1 | 5 | 2 | 1 |
-| Skin and Subcutaneous |  |  |  |  |  |  |
-| Hand-and-Foot Syndrome | 54 | 17 | NA | 6 | 1 | NA |
-| Dermatitis | 27 | 1 | – | 26 | 1 | – |
-| Skin Discoloration | 7 | <1 | – | 5 | – | – |
-| Alopecia | 6 | – | – | 21 | <1 | – |
+| Constipation | 14 | 1 | <1 | 17 | 1 | - |
+| Gastrointestinal motility disorder | 10 | <1 | - | 7 | <1 | - |
+| Oral discomfort | 10 | - | - | 10 | - | - |
+| Skin and Subcutaneous Tissue |  |  |  |  |  |  |
+| Palmar-plantar erythrodysesthesia syndrome | 54 | 17 | NA | 6 | 1 | NA |
+| Dermatitis | 27 | 1 | - | 26 | 1 | - |
+| Hepatobiliary |  |  |  |  |  |  |
+| Hyperbilirubinemia | 48 | 18 | 5 | 17 | 3 | 3 |
 | General |  |  |  |  |  |  |
-| Fatigue/Weakness | 42 | 4 | – | 46 | 4 | – |
+| Fatigue Includes weakness | 42 | 4 | – | 46 | 4 | – |
 | Pyrexia | 18 | 1 | – | 21 | 2 | – |
 | Edema | 15 | 1 | – | 9 | 1 | – |
 | Pain | 12 | 1 | – | 10 | 1 | – |
-| Chest Pain | 6 | 1 | – | 6 | 1 | <1 |
-| Neurological |  |  |  |  |  |  |
-| Peripheral Sensory Neuropathy | 10 | – | – | 4 | – | – |
-| Headache | 10 | 1 | – | 7 | – | – |
-| Dizziness Excluding vertigo | 8 | <1 | – | 8 | <1 | – |
-| Insomnia | 7 | – | – | 7 | – | – |
-| Taste Disturbance | 6 | 1 | – | 11 | <1 | 1 |
-| Metabolism |  |  |  |  |  |  |
-| Appetite Decreased | 26 | 3 | <1 | 31 | 2 | <1 |
-| Dehydration | 7 | 2 | <1 | 8 | 3 | 1 |
+| Metabolism and Nutrition |  |  |  |  |  |  |
+| Decreased Appetite | 26 | 3 | <1 | 31 | 2 | <1 |
+| Respiratory Thoracic and Mediastinal |  |  |  |  |  |  |
+| Dyspnea | 14 | 1 | – | 10 | <1 | 1 |
 | Eye |  |  |  |  |  |  |
 | Eye Irritation | 13 | – | – | 10 | <1 | – |
-| Vision Abnormal | 5 | – | – | 2 | – | – |
-| Respiratory |  |  |  |  |  |  |
-| Dyspnea | 14 | 1 | – | 10 | <1 | 1 |
-| Cough | 7 | <1 | 1 | 8 | – | – |
-| Pharyngeal Disorder | 5 | – | – | 5 | – | – |
-| Epistaxis | 3 | <1 | – | 6 | – | – |
-| Sore Throat | 2 | – | – | 6 | – | – |
+| Nervous System |  |  |  |  |  |  |
+| Peripheral Sensory Neuropathy | 10 | – | – | 4 | – | – |
+| Headache | 10 | 1 | – | 7 | – | – |
 | Musculoskeletal |  |  |  |  |  |  |
 | Back Pain | 10 | 2 | – | 9 | <1 | – |
-| Arthralgia | 8 | 1 | – | 6 | 1 | – |
-| Vascular |  |  |  |  |  |  |
-| Venous Thrombosis | 8 | 3 | <1 | 6 | 2 | – |
-| Psychiatric |  |  |  |  |  |  |
-| Mood Alteration | 5 | – | – | 6 | <1 | – |
-| Depression | 5 | – | – | 4 | <1 | – |
-| Infections |  |  |  |  |  |  |
-| Viral | 5 | <1 | – | 5 | <1 | – |
-| Blood and Lymphatic |  |  |  |  |  |  |
-| Anemia | 80 | 2 | <1 | 79 | 1 | <1 |
-| Neutropenia | 13 | 1 | 2 | 46 | 8 | 13 |
-| Hepatobiliary |  |  |  |  |  |  |
-| Hyperbilirubinemia | 48 | 18 | 5 | 17 | 3 | 3 |
 | – Not observed |  |  |  |  |  |  |
 | NA = Not Applicable |  |  |  |  |  |  |
 
-## 6.3 Breast Cancer
+Clinically relevant adverse reactions in < 10% of patients are presented below:
+
+Eye: abnormal vision
+
+Gastrointestinal: upper gastrointestinal tract inflammatory disorders, gastrointestinal hemorrhage, ileus
+
+General: chest pain
+
+Infections: viral
+
+Metabolism and Nutrition: dehydration
+
+Musculoskeletal: arthralgia
+
+Nervous System: dizziness (excluding vertigo), insomnia, taste disturbance
+
+Psychiatric: mood alteration, depression
+
+Respiratory, Thoracic, and Mediastinal: cough, pharyngeal disorder
+
+Skin and Subcutaneous Tissue: skin discoloration, alopecia
+
+Vascular: venous thrombosis
+
+In Combination with Oxaliplatin
+
+The safety of capecitabine for the treatment of patients with unresectable or metastatic colorectal cancer as a component of a combination chemotherapy regimen was derived from published literature [see Clinical Studies (14.1)].
+The safety of capecitabine for the treatment of patients with unresectable or metastatic colorectal cancer as a component of a combination chemotherapy regimen was similar to those in patients treated with capecitabine as a single agent, with the exception of an increased incidence of peripheral neuropathy.
+
+Metastatic Breast Cancer
 
 In Combination with Docetaxel
 
-The following data are shown for the combination study with capecitabine and docetaxel in patients with metastatic breast cancer in Table 7 and Table 8.
-In the capecitabine and docetaxel combination arm the treatment was capecitabine administered orally 1250 mg/m 2 twice daily as intermittent therapy (2 weeks of treatment followed by 1 week without treatment) for at least 6 weeks and docetaxel administered as a 1-hour intravenous infusion at a dose of 75 mg/m 2 on the first day of each 3-week cycle for at least 6 weeks.
-In the monotherapy arm docetaxel was administered as a 1-hour intravenous infusion at a dose of 100 mg/m 2 on the first day of each 3-week cycle for at least 6 weeks.
-The mean duration of treatment was 129 days in the combination arm and 98 days in the monotherapy arm.
-A total of 66 patients (26%) in the combination arm and 49 (19%) in the monotherapy arm withdrew from the study because of adverse reactions.
-The percentage of patients requiring dose reductions due to adverse reactions was 65% in the combination arm and 36% in the monotherapy arm.
-The percentage of patients requiring treatment interruptions due to adverse reactions in the combination arm was 79%.
-Treatment interruptions were part of the dose modification scheme for the combination therapy arm but not for the docetaxel monotherapy-treated patients.
+The safety of capecitabine in combination with docetaxel was evaluated in patients with metastatic breast cancer in Study SO14999 [see Clinical Studies (14.2)].
+Patients received capecitabine 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle with docetaxel 75 mg/m 2 as 1- hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks or docetaxel 100 mg/m 2 as a 1-hour intravenous infusion on day 1 of each 21-day cycle for at least 6 weeks.
+Among patients who received capecitabine, the mean duration of treatment was 4.2 months.
 
-Table 7 Percent Incidence of Adverse Events Considered Related or Unrelated to Treatment in ≥5% of Patients Participating in the Capecitabine and Docetaxel Combination vs Docetaxel Monotherapy Study
+Permanent discontinuation due to an adverse reaction occurred in 26% of patients who received capecitabine.
+Dosage interruptions due to an adverse reaction occurred in 79% of patients who received capecitabine and dosage reductions due to an adverse reaction occurred in 65%.
 
-|  | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
+Most common adverse reactions (>30%) were diarrhea, stomatitis, palmar-plantar erythrodysesthesia syndrome, nausea, alopecia, vomiting, edema, and abdominal pain.
+
+Table 5 summarizes the adverse reactions in Study SO14999.
+
+Table 5 Adverse Reactions (≥10%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999
+
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | Capecitabine 1250 mg/m 2/bid With Docetaxel 75 mg/m 2/3 weeks (n=251) |  |  | Docetaxel 100 mg/m 2/3 weeks (n=255) |  |  |
-| Number of Patients With at Least One Adverse Event | 99 | 76.5 | 29.1 | 97 | 57.6 | 31.8 |
-| Body System/Adverse Event |  |  |  |  |  |  |
-| GI |  |  |  |  |  |  |
+| Adverse Reaction | Capecitabine with Docetaxel (N=251) |  |  | Docetaxel(N=255) |  |  |
+| Gastrointestinal |  |  |  |  |  |  |
 | Diarrhea | 67 | 14 | <1 | 48 | 5 | <1 |
-| Stomatitis | 67 | 17 | <1 | 43 | 5 | – |
-| Nausea | 45 | 7 | – | 36 | 2 | – |
-| Vomiting | 35 | 4 | 1 | 24 | 2 | – |
-| Constipation | 20 | 2 | – | 18 | – | – |
-| Abdominal Pain | 30 | <3 | <1 | 24 | 2 | – |
-| Dyspepsia | 14 | – | – | 8 | 1 | – |
-| Dry Mouth | 6 | <1 | – | 5 | – | – |
-| Skin and Subcutaneous |  |  |  |  |  |  |
-| Hand-and-Foot Syndrome | 63 | 24 | NA | 8 | 1 | NA |
-| Alopecia | 41 | 6 | – | 42 | 7 | – |
-| Nail Disorder | 14 | 2 | – | 15 | – | – |
-| Dermatitis | 8 | – | – | 11 | 1 | – |
-| Rash Erythematous | 9 | <1 | – | 5 | – | – |
-| Nail Discoloration | 6 | – | – | 4 | <1 | – |
-| Onycholysis | 5 | 1 | – | 5 | 1 | – |
-| Pruritus | 4 | – | – | 5 | – | – |
+| Stomatitis | 67 | 17 | <1 | 43 | 5 | - |
+| Nausea | 45 | 7 | - | 36 | 2 | - |
+| Vomiting | 35 | 4 | 1 | 24 | 2 | - |
+| Abdominal pain | 30 | 3 | <1 | 24 | 2 | - |
+| Constipation | 20 | 2 | - | 18 | - | - |
+| Dyspepsia | 14 | - | - | 8 | 1 | - |
+| Skin and Subcutaneous Tissue |  |  |  |  |  |  |
+| Palmar-plantar erythrodysesthesia syndrome | 63 | 24 | NA | 8 | 1 | NA |
+| Alopecia | 41 | 6 | - | 42 | 7 | - |
+| Nail disorder | 14 | 2 | - | 15 | - | - |
+| Cardiac |  |  |  |  |  |  |
+| Edema | 33 | <2 | – | 34 | <3 | 1 |
 | General |  |  |  |  |  |  |
 | Pyrexia | 28 | 2 | – | 34 | 2 | – |
 | Asthenia | 26 | 4 | <1 | 25 | 6 | – |
 | Fatigue | 22 | 4 | – | 27 | 6 | – |
 | Weakness | 16 | 2 | – | 11 | 2 | – |
 | Pain in Limb | 13 | <1 | – | 13 | 2 | – |
-| Lethargy | 7 | – | – | 6 | 2 | – |
-| Pain | 7 | <1 | – | 5 | 1 | – |
-| Chest Pain (non-cardiac) | 4 | <1 | – | 6 | 2 | – |
-| Influenza-like Illness | 5 | – | – | 5 | – | – |
-| Neurological |  |  |  |  |  |  |
+| Blood and Lymphatic System |  |  |  |  |  |  |
+| Neutropenic Fever | 16 | 3 | 13 | 21 | 5 | 16 |
+| Nervous System |  |  |  |  |  |  |
 | Taste Disturbance | 16 | <1 | – | 14 | <1 | – |
 | Headache | 15 | 3 | – | 15 | 2 | – |
 | Paresthesia | 12 | <1 | – | 16 | 1 | – |
 | Dizziness | 12 | – | – | 8 | <1 | – |
-| Insomnia | 8 | – | – | 10 | <1 | – |
-| Peripheral Neuropathy | 6 | – | – | 10 | 1 | – |
-| Hypoaesthesia | 4 | <1 | – | 8 | <1 | – |
-| Metabolism |  |  |  |  |  |  |
-| Anorexia | 13 | 1 | – | 11 | <1 | – |
-| Appetite Decreased | 10 | – | – | 5 | – | – |
-| Weight Decreased | 7 | – | – | 5 | – | – |
-| Dehydration | 10 | 2 | – | 7 | <1 | <1 |
-| Eye |  |  |  |  |  |  |
-| Lacrimation Increased | 12 | – | – | 7 | <1 | – |
-| Conjunctivitis | 5 | – | – | 4 | – | – |
-| Eye Irritation | 5 | – | – | 1 | – | – |
-| Musculoskeletal |  |  |  |  |  |  |
+| Musculoskeletal and Connective Tissue |  |  |  |  |  |  |
 | Arthralgia | 15 | 2 | – | 24 | 3 | – |
 | Myalgia | 15 | 2 | – | 25 | 2 | – |
 | Back Pain | 12 | <1 | – | 11 | 3 | – |
-| Bone Pain | 8 | <1 | – | 10 | 2 | – |
-| Cardiac |  |  |  |  |  |  |
-| Edema | 33 | <2 | – | 34 | <3 | 1 |
-| Blood |  |  |  |  |  |  |
-| Neutropenic Fever | 16 | 3 | 13 | 21 | 5 | 16 |
-| Respiratory |  |  |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |  |  |
 | Dyspnea | 14 | 2 | <1 | 16 | 2 | – |
 | Cough | 13 | 1 | – | 22 | <1 | – |
 | Sore Throat | 12 | 2 | – | 11 | <1 | – |
-| Epistaxis | 7 | <1 | – | 6 | – | – |
-| Rhinorrhea | 5 | – | – | 3 | – | – |
-| Pleural Effusion | 2 | 1 | – | 7 | 4 | – |
-| Infection |  |  |  |  |  |  |
-| Oral Candidiasis | 7 | <1 | – | 8 | <1 | – |
-| Urinary Tract Infection | 6 | <1 | – | 4 | – | – |
-| Upper Respiratory Tract | 4 | – | – | 5 | 1 | – |
-| Vascular |  |  |  |  |  |  |
-| Flushing | 5 | – | – | 5 | – | – |
-| Lymphoedema | 3 | <1 | – | 5 | 1 | – |
-| Psychiatric |  |  |  |  |  |  |
-| Depression | 5 | – | – | 5 | 1 | – |
+| Metabolism and Nutrition |  |  |  |  |  |  |
+| Anorexia | 13 | <1 | – | 11 | <1 | – |
+| Appetite Decreased | 10 | – | – | 5 | – | – |
+| Dehydration | 10 | 2 | – | 7 | <1 | <1 |
+| Eye |  |  |  |  |  |  |
+| Lacrimation Increased | 12 | – | – | 7 | <1 | – |
 | – Not observed |  |  |  |  |  |  |
 | NA = Not Applicable |  |  |  |  |  |  |
 
-Table 8 Percent of Patients With Laboratory Abnormalities Participating in the Capecitabine and Docetaxel Combination vs Docetaxel Monotherapy Study
+Clinically relevant adverse reactions in <10% of patients are presented below:
 
-| Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % | Total % | Grade 3 % | Grade 4 % |
+Blood and Lymphatic System: agranulocytosis, prothrombin decreased
+
+Cardiac: supraventricular tachycardia
+
+Eye: conjunctivitis, eye irritation
+
+Gastrointestinal: ileus, necrotizing enterocolitis, esophageal ulcer, hemorrhagic diarrhea, dry mouth
+
+General: chest pain (non-cardiac), lethargy, pain, influenza-like illness
+
+Hepatobiliary: jaundice, abnormal liver function tests, hepatic failure, hepatic coma, hepatotoxicity
+
+Immune System: hypersensitivity
+
+Infection: hypoesthesia, neutropenic sepsis, sepsis, bronchopneumonia, oral candidiasis, urinary tract infection
+
+Metabolism and Nutrition: weight decreased
+
+Musculoskeletal and Connective Tissue: bone pain
+
+Nervous System: insomnia, peripheral neuropathy, ataxia, syncope, taste loss, polyneuropathy, migraine
+
+Psychiatric: depression
+
+Renal and Urinary: renal failure
+
+Respiratory, Thoracic and Mediastinal: upper respiratory tract infection, pleural effusion, epistaxis, rhinorrhea
+
+Skin and Subcutaneous Tissue: pruritis, rash erythematous, dermatitis, nail discoloration, onycholysis
+
+Vascular: lymphedema, hypotension, venous phlebitis and thrombophlebitis, postural hypotension, flushing
+
+Table 6 summarizes the laboratory abnormalities in this trial.
+
+Table 6 Laboratory Abnormalities (≥20%) in Patients Who Received Capecitabine with Docetaxel for Metastatic Breast Cancer in Study SO14999
+
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-| Adverse Event | Capecitabine 1250 mg/m 2/bid With Docetaxel 75 mg/m 2/3 weeks (n=251) |  |  | Docetaxel 100 mg/m 2/3 weeks (n=255) |  |  |
+| Laboratory Abnormality | Capecitabine With Docetaxel (N=251) |  |  | Docetaxel (N=255) |  |  |
 | Hematologic |  |  |  |  |  |  |
-| Leukopenia | 91 | 37 | 24 | 88 | 42 | 33 |
-| Neutropenia/Granulocytopenia | 86 | 20 | 49 | 87 | 10 | 66 |
-| Thrombocytopenia | 41 | 2 | 1 | 23 | 1 | 2 |
-| Anemia | 80 | 7 | 3 | 83 | 5 | <1 |
 | Lymphocytopenia | 99 | 48 | 41 | 98 | 44 | 40 |
+| Leukopenia | 91 | 37 | 24 | 88 | 42 | 33 |
+| Neutropenia | 86 | 20 | 49 | 87 | 10 | 66 |
+| Anemia | 80 | 7 | 3 | 83 | 5 | <1 |
+| Thrombocytopenia | 41 | 2 | 1 | 23 | 1 | 2 |
 | Hepatobiliary |  |  |  |  |  |  |
 | Hyperbilirubinemia | 20 | 7 | 2 | 6 | 2 | 2 |
 
-Monotherapy
+Single Agent
 
-The following data are shown for the study in stage IV breast cancer patients who received a dose of 1250 mg/m 2 administered twice daily for 2 weeks followed by a 1-week rest period.
-The mean duration of treatment was 114 days.
-A total of 13 out of 162 patients (8%) discontinued treatment because of adverse reactions/intercurrent illness.
+The safety of capecitabine as a single agent was evaluated in patients with metastatic breast cancer in Study SO14697 [see Clinical Studies (14.2)] Patients received capecitabine 1,250 mg/m 2 orally twice daily for the first 14 days of a 21-day cycle.
+The mean duration of treatment was 3.7 months.
 
-Table 9 Percent Incidence of Adverse Reactions Considered Remotely, Possibly or Probably Related to Treatment in ≥5% of Patients Participating in the Single Arm Trial in Stage IV Breast Cancer
+Permanent discontinuation due to an adverse reaction or intercurrent illness occurred in 8% of patients.
 
-| Body System/Adverse Event | Total % | Grade 3 % | Grade 4 % |
+Most common adverse reactions (>30%) were lymphopenia, anemia, diarrhea, hand-and-foot syndrome, nausea, fatigue, vomiting, and dermatitis.
+
+Table 7 summarizes the adverse reactions in Study SO14697.
+
+Table 7 Adverse Reactions (>10%) in Patients Who Received Capecitabine for Metastatic Breast Cancer in Study SO14697
+
+|  | All Grades (%) | Grade 3 (%) | Grade 4 (%) |
 | --- | --- | --- | --- |
-| Adverse Event | Phase 2 Trial in Stage IV Breast Cancer (n=162) |  |  |
-| GI |  |  |  |
+| Adverse Reaction | Capecitabine (N=162) |  |  |
+| Blood and Lymphatic System |  |  |  |
+| Lymphopenia | 94 | 44 | 15 |
+| Anemia | 72 | 3 | 1 |
+| Neutropenia | 26 | 2 | 2 |
+| Thrombocytopenia | 24 | 3 | 1 |
+| Gastrointestinal |  |  |  |
 | Diarrhea | 57 | 12 | 3 |
 | Nausea | 53 | 4 | – |
 | Vomiting | 37 | 4 | – |
 | Stomatitis | 24 | 7 | – |
 | Abdominal Pain | 20 | 4 | – |
 | Constipation | 15 | 1 | – |
-| Dyspepsia | 8 | – | – |
-| Skin and Subcutaneous |  |  |  |
-| Hand-and-Foot Syndrome | 57 | 11 | NA |
+| Skin and Subcutaneous Tissue |  |  |  |
+| Hand-and-foot Syndrome | 57 | 11 | NA |
 | Dermatitis | 37 | 1 | – |
-| Nail Disorder | 7 | – | – |
 | General |  |  |  |
 | Fatigue | 41 | 8 | – |
 | Pyrexia | 12 | 1 | – |
-| Pain in Limb | 6 | 1 | – |
-| Neurological |  |  |  |
-| Paresthesia | 21 | 1 | – |
-| Headache | 9 | 1 | – |
-| Dizziness | 8 | – | – |
-| Insomnia | 8 | – | – |
-| Metabolism |  |  |  |
+| Metabolism and Nutrition |  |  |  |
 | Anorexia | 23 | 3 | – |
-| Dehydration | 7 | 4 | 1 |
-| Eye |  |  |  |
-| Eye Irritation | 15 | – | – |
-| Musculoskeletal |  |  |  |
-| Myalgia | 9 | – | – |
-| Cardiac |  |  |  |
-| Edema | 9 | 1 | – |
-| Blood |  |  |  |
-| Neutropenia | 26 | 2 | 2 |
-| Thrombocytopenia | 24 | 3 | 1 |
-| Anemia | 72 | 3 | 1 |
-| Lymphopenia | 94 | 44 | 15 |
 | Hepatobiliary |  |  |  |
 | Hyperbilirubinemia | 22 | 9 | 2 |
-| – Not observed |  |  |  |
+| Nervous System |  |  |  |
+| Paresthesia | 21 | 1 | – |
+| Eye |  |  |  |
+| Eye irritation | 15 | – | – |
+| – = Not observed |  |  |  |
 | NA = Not Applicable |  |  |  |
 
-## 6.4 Clinically Relevant Adverse Events in <5% of Patients
+Pooled Safety Population
 
-Clinically relevant adverse events reported in <5% of patients treated with capecitabine either as monotherapy or in combination with docetaxel that were considered at least remotely related to treatment are shown below; occurrences of each grade 3 and 4 adverse event are provided in parentheses.
+Clinically relevant adverse reactions in <10% of patients who received capecitabine as a single agent are presented below.
 
-Monotherapy (Metastatic Colorectal Cancer, Adjuvant Colorectal Cancer, Metastatic Breast Cancer)
+Blood & Lymphatic System: leukopenia, coagulation disorder, bone marrow depression, pancytopenia
 
-| Gastrointestinal: | abdominal distension, dysphagia, proctalgia, ascites (0.1%), gastric ulcer (0.1%), ileus (0.3%), toxic dilation of intestine, gastroenteritis (0.1%) |
-| --- | --- |
-| Skin & Subcutan.: | nail disorder (0.1%), sweating increased (0.1%), photosensitivity reaction (0.1%), skin ulceration, pruritus, radiation recall syndrome (0.2%) |
-| General: | chest pain (0.2%), influenza-like illness, hot flushes, pain (0.1%), hoarseness, irritability, difficulty in walking, thirst, chest mass, collapse, fibrosis (0.1%), hemorrhage, edema, sedation |
-| Neurological: | insomnia, ataxia (0.5%), tremor, dysphasia, encephalopathy (0.1%), abnormal coordination, dysarthria, loss of consciousness (0.2%), impaired balance |
-| Metabolism: | increased weight, cachexia (0.4%), hypertriglyceridemia (0.1%), hypokalemia, hypomagnesemia |
-| Eye: | conjunctivitis |
-| Respiratory: | cough (0.1%), epistaxis (0.1%), asthma (0.2%), hemoptysis, respiratory distress (0.1%), dyspnea |
-| Cardiac: | tachycardia (0.1%), bradycardia, atrial fibrillation, ventricular extrasystoles, extrasystoles, myocarditis (0.1%), pericardial effusion |
-| Infections: | laryngitis (1.0%), bronchitis (0.2%), pneumonia (0.2%), bronchopneumonia (0.2%), keratoconjunctivitis, sepsis (0.3%), fungal infections (including candidiasis) (0.2%) |
-| Musculoskeletal: | myalgia, bone pain (0.1%), arthritis (0.1%), muscle weakness |
-| Blood & Lymphatic: | leukopenia (0.2%), coagulation disorder (0.1%), bone marrow depression (0.1%), idiopathic thrombocytopenia purpura (1.0%), pancytopenia (0.1%) |
-| Vascular: | hypotension (0.2%), hypertension (0.1%), lymphoedema (0.1%), pulmonary embolism (0.2%), cerebrovascular accident (0.1%) |
-| Psychiatric: | depression, confusion (0.1%) |
-| Renal: | renal impairment (0.6%) |
-| Ear: | vertigo |
-| Hepatobiliary: | hepatic fibrosis (0.1%), hepatitis (0.1%), cholestatic hepatitis (0.1%), abnormal liver function tests |
-| Immune System: | drug hypersensitivity (0.1%) |
+Cardiac: tachycardia, bradycardia, atrial fibrillation, myocarditis, edema
 
-Capecitabine In Combination With Docetaxel (Metastatic Breast Cancer)
+Ear: vertigo
 
-| Gastrointestinal: | ileus (0.4%), necrotizing enterocolitis (0.4%), esophageal ulcer (0.4%), hemorrhagic diarrhea (0.8%) |
-| --- | --- |
-| Neurological: | ataxia (0.4%), syncope (1.2%), taste loss (0.8%), polyneuropathy (0.4%), migraine (0.4%) |
-| Cardiac: | supraventricular tachycardia (0.4%) |
-| Infection: | neutropenic sepsis (2.4%), sepsis (0.4%), bronchopneumonia (0.4%) |
-| Blood & Lymphatic: | agranulocytosis (0.4%), prothrombin decreased (0.4%) |
-| Vascular: | hypotension (1.2%), venous phlebitis and thrombophlebitis (0.4%), postural hypotension (0.8%) |
-| Renal: | renal failure (0.4%) |
-| Hepatobiliary: | jaundice (0.4%), abnormal liver function tests (0.4%), hepatic failure (0.4%), hepatic coma (0.4%), hepatotoxicity (0.4%) |
-| Immune System: | hypersensitivity (1.2%) |
+Eye: conjunctivitis
 
-## 6.5 Postmarketing Experience
+Gastrointestinal: abdominal distension, dysphagia, proctalgia, gastric ulcer, ileus, gastroenteritis, dyspepsia
 
-The following adverse reactions have been observed in the postmarketing setting: angioedema, lacrimal duct stenosis, acute renal failure secondary to dehydration including fatal outcome [see Warnings and Precautions (5.5)], cutaneous lupus erythematosus, corneal disorders including keratitis, toxic leukoencephalopathy, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) [see Warnings and Precautions (5.7)], persistent or severe hand-and-foot syndrome can eventually lead to loss of fingerprints [see Warnings and Precautions (5.7)]
+General: chest pain, influenza-like illness, hot flushes, pain, thirst, fibrosis, hemorrhage, edema, pain in limb
 
-In instances of exposure to crushed capecitabine tablets, the following adverse reactions have been reported: eye irritation and swelling, skin rash, diarrhea, paresthesia, headache, gastric irritation, vomiting, and nausea.
+Hepatobiliary: hepatic fibrosis, hepatitis, cholestatic hepatitis, abnormal liver function tests
+
+Immune System: drug hypersensitivity
+
+Infections: bronchitis, pneumonia, keratoconjunctivitis, sepsis, fungal infections
+
+Metabolism and Nutrition: cachexia, hypertriglyceridemia, hypokalemia, hypomagnesemia, dehydration
+
+Musculoskeletal and Connective Tissue: myalgia, arthritis, muscle weakness
+
+Nervous System: insomnia, ataxia, tremor, dysphasia, encephalopathy, dysarthria, impaired balance, headache, dizziness
+
+Psychiatric: depression, confusion
+
+Renal and Urinary: renal impairment
+
+Respiratory, Mediastinal and Thoracic: cough, epistaxis, respiratory distress, dyspnea
+
+Skin and Subcutaneous Tissue: nail disorder, sweating increased, photosensitivity reaction, skin ulceration, pruritus, radiation recall syndrome
+
+Vascular: hypotension, hypertension, lymphedema, pulmonary embolism
+
+Unresectable or Metastatic Gastric, Esophageal, or Gastroesophageal Junction Cancer
+
+The safety of capecitabine for the treatment of adults with unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer as a component of a combination chemotherapy regimen was derived from published literature [see Clinical Studies (14.3)].
+The safety of capecitabine for the treatment of adults with unresectable or metastatic gastric, esophageal, or gastroesophageal junction cancer as a component of a combination chemotherapy regimen was consistent with the known safety profile of capecitabine.
+
+The safety of capecitabine for the treatment of patients with HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma who have not received prior treatment for metastatic disease as a component of a combination regimen was derived from the published literature [see Clinical Studies (14.3)].
+The safety of capecitabine for the treatment of patients with HER2-overexpressing metastatic gastric or gastroesophageal junction adenocarcinoma was consistent with the known safety profile of capecitabine.
+
+Pancreatic Cancer
+
+The safety of capecitabine for the adjuvant treatment of adults with pancreatic adenocarcinoma as a component of a combination chemotherapy regimen was derived from the published literature [see Clinical Studies (14.4)].
+The safety of capecitabine for the adjuvant treatment of adults with pancreatic adenocarcinoma as a component of a combination chemotherapy regimen was consistent with the known safety profile of capecitabine.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of capecitabine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Eye: lacrimal duct stenosis, corneal disorders including keratitis
+
+Hepatobiliary: hepatic failure
+
+Immune System Disorders: angioedema
+
+Nervous System: toxic leukoencephalopathy
+
+Renal & Urinary: acute renal failure secondary to dehydration including fatal outcome
+
+Skin & Subcutaneous Tissue:cutaneous lupus erythematosus, severe skin reactions such as Stevens-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN), persistent or severe PPES can eventually lead to loss of fingerprints

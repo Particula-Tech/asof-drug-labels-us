@@ -1,7 +1,4 @@
 # 10 OVERDOSAGE
 
-The manifestations of acute overdose would include nausea, vomiting, diarrhea, gastrointestinal irritation and bleeding, and bone marrow depression.
-Medical management of overdose should include customary supportive medical interventions aimed at correcting the presenting clinical manifestations.
-Although no clinical experience using dialysis as a treatment for capecitabine overdose has been reported, dialysis may be of benefit in reducing circulating concentrations of 5'-DFUR, a low–molecular-weight metabolite of the parent compound.
-
-Single doses of capecitabine were not lethal to mice, rats, and monkeys at doses up to 2000 mg/kg (2.4, 4.8, and 9.6 times the recommended human daily dose on a mg/m 2 basis).
+Administer uridine triacetate within 96 hours for management of capecitabine overdose.
+Although no clinical experience using dialysis as a treatment for capecitabine overdose has been reported, dialysis may be of benefit in reducing circulating concentrations of 5’-DFUR, a low– molecular-weight metabolite of the parent compound.

@@ -1,23 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-150 mg
+Capecitabine tablets, USP 150 mg and 500 mg are supplied as follows:
 
-Color: Light peach
-
-Engraving: 150 on one side, plain on the other 150 mg tablets are packaged in bottles of 60 with child-resistant closure (NDC 16729-072-12)
-
-500 mg
-
-Color: Peach
-
-Engraving: 500 on one side, plain on the other 500 mg tablets are packaged in bottles of 120 with child-resistant closure (NDC 16729-073-29)
+- 150 mg: biconvex, oblong shaped, light peach colored, film coated tablets, debossed with ‘150’ on one side and plain on other side; available in bottles of 60 with child-resistant closure (NDC 16729-072-12).
+- 500 mg: biconvex, oblong shaped, peach colored, film coated tablets, debossed with '500' on one side and plain on other side; available in bottles of 120 with child-resistant closure (NDC 16729-073-29).
 
 Storage and Handling
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F).
-[See USP Controlled Room Temperature].
+Store at 20 oC to 25 oC (68 oF to 77 oF); excursions permitted to 15 oC to 30 oC (59 oF to 86 oF) [See USP Controlled Room Temperature].
 KEEP TIGHTLY CLOSED.
 
-Capecitabine tablets, USP are cytotoxic drug.
+Capecitabine is a hazardous drug.
 Follow applicable special handling and disposal procedures.
-1 Any unused product should be disposed of in accordance with local requirements, or drug take back programs.
+1
