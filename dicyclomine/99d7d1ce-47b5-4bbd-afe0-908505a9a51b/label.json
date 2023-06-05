@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA040204"
+  ],
+  "inn": "dicyclomine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-0748-25",
+    "0054-0748-31"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dicyclomine hydrochloride",
+      "name": "Dicyclomine hydrochloride"
+    }
+  ],
+  "setid": "99d7d1ce-47b5-4bbd-afe0-908505a9a51b",
+  "source": "dailymed"
+}
