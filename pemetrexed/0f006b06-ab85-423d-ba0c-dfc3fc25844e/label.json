@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA215179"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-2453-1",
+    "70121-2461-1",
+    "70121-2462-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pemetrexed disodium",
+      "name": "PEMRYDI RTU"
+    }
+  ],
+  "setid": "0f006b06-ab85-423d-ba0c-dfc3fc25844e",
+  "source": "dailymed"
+}
