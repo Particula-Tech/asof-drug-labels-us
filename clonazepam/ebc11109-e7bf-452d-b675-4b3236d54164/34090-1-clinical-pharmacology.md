@@ -22,10 +22,9 @@ Pharmacokinetics in Demographic Subpopulations and in Disease States:
 
 Controlled studies examining the influence of gender and age on clonazepam pharmacokinetics have not been conducted, nor have the effects of renal or liver disease on clonazepam pharmacokinetics been studied.
 Because clonazepam undergoes hepatic metabolism, it is possible that liver disease will impair clonazepam elimination.
-Thus, caution should be exercised when administering clonazepam to these patients.
-(see CONTRAINDICATIONS).
+Thus, caution should be exercised when administering clonazepam to these patients (see CONTRAINDICATIONS).
 
-In children, clearance values of 0.42 ± 0.32 mL/min/kg (ages 2 – 18 years) and 0.88 ± 0.4 mL/min/kg (ages 7 – 12 years) were reported; these values decreased with increasing body weight.
+In children, clearance values of 0.42 ± 0.32 mL/min/kg (ages 2 to 18 years) and 0.88 ± 0.4 mL/min/kg (ages 7 to 12 years) were reported; these values decreased with increasing body weight.
 Ketogenic diet in children does not affect clonazepam concentrations.
 
 ## Clinical Trials:
@@ -36,13 +35,13 @@ The effectiveness of clonazepam in the treatment of panic disorder was demonstra
 In these studies, clonazepam was shown to be significantly more effective than placebo in treating panic disorder on change from baseline in panic attack frequency, the Clinician’s Global Impression Severity of Illness Score and the Clinician’s Global Impression Improvement Score.
 
 Study 1 was a 9-week, fixed-dose study involving clonazepam doses of 0.5, 1, 2, 3 or 4 mg/day or placebo.
-This study was conducted in four phases: a 1-week placebo lead-in, a 3-week upward titration, a 6-week fixed dose and a 7-week discontinuance phase.
+This study was conducted in four phases: a 1-week placebo lead-in, a 3-week upward titration, a 6-week fixed dose, and a 7-week discontinuance phase.
 A significant difference from placebo was observed consistently only for the 1 mg/day group.
 The difference between the 1 mg dose group and placebo in reduction from baseline in the number of full panic attacks was approximately 1 panic attack per week.
 At endpoint, 74% of patients receiving clonazepam 1 mg/day were free of full panic attacks, compared to 56% of placebo-treated patients.
 
 Study 2 was a 6-week, flexible-dose study involving clonazepam in a dose range of 0.5 to 4 mg/day or placebo.
-This study was conducted in three phases: a 1-week placebo lead-in, a 6-week optimal-dose and a 6-week discontinuance phase.
+This study was conducted in three phases: a 1-week placebo lead-in, a 6-week optimal-dose, and a 6-week discontinuance phase.
 The mean clonazepam dose during the optimal dosing period was 2.3 mg/day.
 The difference between clonazepam and placebo in reduction from baseline in the number of full panic attacks was approximately 1 panic attack per week.
 At endpoint, 62% of patients receiving clonazepam were free of full panic attacks, compared to 37% of placebo-treated patients.

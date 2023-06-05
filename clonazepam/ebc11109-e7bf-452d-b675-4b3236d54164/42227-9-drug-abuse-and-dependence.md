@@ -1,8 +1,8 @@
 # DRUG ABUSE AND DEPENDENCE
 
-Controlled Substance:Clonazepam tablets contains clonazepam, a Schedule IV controlled substance.
+Controlled Substance: Clonazepam tablets contains clonazepam, a Schedule IV controlled substance.
 
-Abuse:Clonazepam is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
+Abuse: Clonazepam is a benzodiazepine and a CNS depressant with a potential for abuse and addiction.
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
