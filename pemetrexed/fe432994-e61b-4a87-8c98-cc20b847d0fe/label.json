@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA215179"
+  ],
+  "inn": "pemetrexed",
+  "labeler": "SHILPA MEDICARE LIMITED",
+  "package_ndcs": [
+    "63759-3048-1",
+    "63759-3049-1",
+    "63759-3050-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "pemetrexed disodium",
+      "name": "Pemetrexed"
+    }
+  ],
+  "setid": "fe432994-e61b-4a87-8c98-cc20b847d0fe",
+  "source": "dailymed"
+}
