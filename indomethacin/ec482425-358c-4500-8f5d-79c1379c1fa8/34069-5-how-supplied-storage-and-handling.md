@@ -15,3 +15,7 @@ The container closure is not made with natural rubber latex.
 Store at 25°C (77°F) with excursions permitted to 15° to 30°C (59° to 86°F).
 Protect from light.
 Store container in carton until contents have been used.
+
+www.fresenius-kabi.com/us
+
+451150C

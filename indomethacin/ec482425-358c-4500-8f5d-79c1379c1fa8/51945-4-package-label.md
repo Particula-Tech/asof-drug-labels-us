@@ -1,5 +1,7 @@
 PACKAGE LABEL - PRINCIPAL DISPLAY - Indomethacin for Injection 1 mg Vial Label
 
+NDC 63323-659-03 605903
+
 Indomethacin for Injection
 
 1 mg per vial
@@ -11,6 +13,8 @@ Sterile Rx only
 Single Dose Vial - Discard unused portion
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Indomethacin for Injection 1 mg Carton Panel
+
+NDC 63323-659-03 605903
 
 Indomethacin for Injection
 

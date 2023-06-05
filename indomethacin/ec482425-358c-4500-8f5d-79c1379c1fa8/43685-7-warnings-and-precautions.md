@@ -22,6 +22,7 @@ Observe premature infants for signs of bleeding.
 
 In the collaborative study, major gastrointestinal bleeding was no more common in neonates receiving indomethacin than in neonates on placebo.
 However, minor gastrointestinal bleeding (i.e., chemical detection of blood in the stool) was more commonly noted in neonates treated with indomethacin.
+
 Severe gastrointestinal effects have been reported in adults with various arthritic disorders treated chronically with oral indomethacin.
 [For further information, see package insert for oral indomethacin].
 
