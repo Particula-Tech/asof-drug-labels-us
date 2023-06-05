@@ -2,14 +2,14 @@
 
 ## 16.1 How Supplied
 
-SEMGLEE (insulin glargine-yfgn) injection is supplied as a clear and colorless solution 100 units/mL (U-100) available as:
+SEMGLEE (insulin glargine-yfgn) injection is supplied as a clear and colorless solution containing 100 units/mL (U-100) available as follows:
 
-| SEMGLEE | DoseIncrement | NDCNumber | PackageSize |
-| --- | --- | --- | --- |
-| 10 mL multiple-dose vial | n/a | 49502-250-80 | 1 vial |
-| 3 mL single-patient-use prefilled pen | 1 unit | 49502-251-71 | 1 pen |
-| 49502-251-73 | 3 pens |  |  |
-| 49502-251-75 | 5 pens |  |  |
+| SEMGLEE | NDCNumber | PackageSize |
+| --- | --- | --- |
+| 10 mL multiple-dose vial | 49502-250-80 | 1 vial |
+| 3 mL single-patient-use prefilled pen | 49502-251-71 | 1 pen |
+| 49502-251-73 | 3 pens |  |
+| 49502-251-75 | 5 pens |  |
 
 Additional Information about SEMGLEE:
 

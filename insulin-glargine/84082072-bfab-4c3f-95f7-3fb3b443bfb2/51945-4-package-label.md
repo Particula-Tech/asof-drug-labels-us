@@ -43,7 +43,7 @@ BD is a registered trademark of Becton, Dickinson, and Company.
 
 SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.
 
-© 2021 Viatris Inc.
+© 2023 Viatris Inc.
 
 Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -54,7 +54,7 @@ Morgantown, WV 26505 U.S.A.
 
 Product of Malaysia
 
-MA:B:251:5C:R1
+MA:B:251:5C:RX6
 
 Mylan.com
 
@@ -106,6 +106,6 @@ Protect from direct heat and light.
 
 SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.
 
-© 2021 Viatris Inc.
+© 2023 Viatris Inc.
 
-MA:B:25010:1C:R1
+MA:B:25010:1C:RX6

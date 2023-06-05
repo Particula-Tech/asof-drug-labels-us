@@ -1,6 +1,6 @@
-# Instructions for Use
+# INSTRUCTIONS FOR USE
 
-SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection, for subcutaneous use VIAL: (100 Units/mL (U-100)
+SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection, for subcutaneous use VIAL: (100 units/mL (U-100)
 
 These Instructions for Use contain information on how to inject SEMGLEE using the vial.
 Read these Instructions for Use before you start taking SEMGLEE and each time you get a new SEMGLEE vial.
@@ -134,9 +134,7 @@ After SEMGLEE vials have been opened (in-use)
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2022
-
-SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company. © 2022 Viatris Inc.
+Revised: 05/2023
 
 Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A. U.S. License No. 2210
 
@@ -145,11 +143,13 @@ Morgantown, WV 26505 U.S.A.
 
 Product of Malaysia
 
-MA:B:IFUV:INGLIJK:RX5
+SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company. © 2023 Viatris Inc.
 
-# Instructions for Use
+MA:B:IFUV:INGLIJK:RX7
 
-SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 Units/mL (U-100)
+# INSTRUCTIONS FOR USE
+
+SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 units/mL (U-100)
 
 Read these Instructions for Use before you start taking the SEMGLEE pen and each time you get a new SEMGLEE pen.
 There may be new information.
@@ -412,8 +412,7 @@ Disposing SEMGLEE Pen
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-BD is a registered trademark of Becton, Dickinson, and Company.
-SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company. © 2022 Viatris Inc.
+Revised: 05/2023
 
 Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A. U.S. License No. 2210
 
@@ -422,4 +421,7 @@ Morgantown, WV 26505 U.S.A.
 
 Product of Malaysia
 
-MA:B:IFUP:INGLIJK:RX6 Revised: 10/2022
+BD is a registered trademark of Becton, Dickinson, and Company.
+SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company. © 2023 Viatris Inc.
+
+MA:B:IFUP:INGLIJK:RX9

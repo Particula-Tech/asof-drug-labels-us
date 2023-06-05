@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to insulin glargine or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
 The type 1 diabetes population had the following characteristics: Mean age was 39 years.
-Fifty-four percent were male, 97% were Caucasian, 22% were Black or African American and 33% were Hispanic.
+Fifty-four percent were male, 97% were Caucasian, 2% were Black or African American and 3% were Hispanic.
 The mean BMI was 25.1 kg/m2.
 
 The data in Table 2 reflect the exposure of 1,563 patients with type 2 diabetes to insulin glargine or NPH in Studies E, F, and G [see Clinical Studies (14.3)].
@@ -71,7 +71,7 @@ Table 4: Adverse Reactions Occurring ≥ 5% in a 28-Week Clinical Study in Pedia
 
 Severe Hypoglycemia
 
-Hypoglycemia was the most commonly observed adverse reaction in patients treated with insulin glargine products.
+Hypoglycemia was the most commonly observed adverse reaction in patients treated with insulin glargine.
 Tables 5, 6, and 7 summarize the incidence of severe hypoglycemia in the insulin glargine clinical studies.
 Severe symptomatic hypoglycemia was defined as an event with symptoms consistent with hypoglycemia requiring the assistance of another person and associated with either a blood glucose below 50 mg/dL (≤ 56 mg/dL in the 5-year study and ≤ 36 mg/dL in the ORIGIN study) or prompt recovery after oral carbohydrate, intravenous glucose, or glucagon administration.
 
@@ -94,9 +94,9 @@ Table 6: Severe Symptomatic Hypoglycemia in Patients with Type 2 Diabetes
 
 Table 7 displays the proportion of patients who experienced severe symptomatic hypoglycemia in the insulin glargine and Standard Care groups in the ORIGIN study [see Clinical Studies (14)].
 
-Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Trial
+Table 7: Severe Symptomatic Hypoglycemia in the ORIGIN Study
 
-|  | ORIGIN TrialMedium duration of follow-up: 6.2 years |  |
+|  | ORIGIN StudyMedian duration of follow-up: 6.2 years |  |
 | --- | --- | --- |
 |  | Insulin Glargine N = 6231 | Standard CareN = 6273 |
 | Percent of patients | 5.6 | 1.8 |
@@ -122,7 +122,7 @@ Weight gain has occurred with insulin including insulin glargine products and ha
 
 #### Local Reactions
 
-Patients taking insulin glargine products experienced injection site reactions, including redness, pain, itching, urticaria, edema, and inflammation.
+Patients taking insulin glargine experienced injection site reactions, including redness, pain, itching, urticaria, edema, and inflammation.
 In clinical studies in adult patients, there was a higher incidence of injection site pain in insulin glargine-treated patients (2.7%) compared to NPH insulin-treated patients (0.7%).
 The reports of pain at the injection site did not result in discontinuation of therapy.
 

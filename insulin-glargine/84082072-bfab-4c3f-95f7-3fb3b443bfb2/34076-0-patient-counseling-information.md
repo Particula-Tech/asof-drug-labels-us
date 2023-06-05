@@ -18,19 +18,19 @@ Advise patients who have frequent hypoglycemia or reduced or absent warning sign
 
 Advise patients that changes in insulin regimen can predispose to hyperglycemia or hypoglycemia and that changes in insulin regimen should be made under close medical supervision [see Warnings and Precautions (5.2)].
 
-Hypogylcemia Due to Medications Errors
+Hypogylcemia Due to Medication Errors
 
 Instruct patients to always check the insulin label before each injection to reduce the risk of a medication error [see Warnings and Precautions (5.4)].
 
 Hypersensitivity Reactions
 
-Advise patients that hypersensitivity reactions have occurred with SEMGLEE.
+Advise patients that hypersensitivity reactions have occurred with insulin glargine products.
 Inform patients about the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
 BD is a registered trademark of Becton, Dickinson, and Company.
 
 Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, West Virginia 26505 U.S.A. U.S. License No. 2210
 
-Revised: 10/2022
+Revised: 05/2023
 
-INGLIJK:RX5
+INGLIJK:RX7

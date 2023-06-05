@@ -185,8 +185,8 @@ Table 12: Study of Different Times of Once Daily Insulin Glargine Dosing in Type
 | Basal insulin dose (Units) |  |  |  |  |  |  |
 | Baseline mean | 22 | 23 | 21 | 19 | 20 | 19 |
 | Mean change from baseline | 5 | 2 | 2 | 11 | 18 | 18 |
-| Total insulin dose (Units) |  |  |  |  |  |  |
-| Baseline mean | 52 | 52 | 49 | NANot applicable | NA | NA |
+| Total insulin dose (Units) | - | - | - | NANot applicable | NA | NA |
+| Baseline mean | 52 | 52 | 49 | - | - | - |
 | Mean change from baseline | 2 | 3 | 2 | - | - | - |
 | Body weight (kg) |  |  |  |  |  |  |
 | Baseline mean | 77.1 | 77.8 | 74.5 | 80.7 | 82 | 81 |

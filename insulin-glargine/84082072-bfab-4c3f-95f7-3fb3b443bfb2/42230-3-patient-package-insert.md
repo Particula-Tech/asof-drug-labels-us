@@ -1,6 +1,6 @@
-# Patient Information
+# PATIENT INFORMATION
 
-| SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection for subcutaneous use VIAL: 100 Units/mL (U-100) |
+| SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection for subcutaneous use VIAL: 100 units/mL (U-100) |
 | --- |
 | Do not share your syringes with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.What is SEMGLEE? SEMGLEE is a long-acting man-made-insulin used to control high blood sugar in adults and children with diabetes mellitus. SEMGLEE is not for use to treat diabetic ketoacidosis. |
 | Who should not use SEMGLEE?Do not use SEMGLEE if you: •are having an episode of low blood sugar (hypoglycemia). •have an allergy to insulin glargine products or any of the ingredients in SEMGLEE. See the end of this Patient Information leaflet for a complete list of ingredients in SEMGLEE. |
@@ -13,24 +13,13 @@
 | What are the ingredients in SEMGLEE? •Active ingredient: insulin glargine-yfgn•10 mL vial inactive ingredients: glycerol, metacresol, polysorbate-20, zinc chloride, and Water for Injection. Hydrochloric acid and sodium hydroxide may be added to adjust the pH. For more information, call Mylan at 1-877-446-3679 (1-877-4-INFO-RX).Manufactured for: Mylan Specialty L.P., Morgantown, WV 26505 U.S.A.Manufactured by: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 U.S.A., U.S. License No. 2210, Product of Malaysia |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 10/2022
+Revised: 05/2023
 
-SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company.
+MA:B:PIV:INGLIJK:RX7
 
-© 2022 Viatris Inc.
+# PATIENT INFORMATION
 
-Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A. U.S. License No. 2210
-
-Manufactured for: Mylan Specialty L.P.
-Morgantown, WV 26505 U.S.A.
-
-Product of Malaysia
-
-MA:B:PIV:INGLIJK:RX5
-
-# Patient Information
-
-| SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection for subcutaneous use 100 Units/mL (U-100) |
+| SEMGLEE® (Sehm-GLEE) (insulin glargine-yfgn) injection for subcutaneous use 100 units/mL (U-100) |
 | --- |
 | Do not share your SEMGLEE pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.What is SEMGLEE? SEMGLEE is a long-acting man-made insulin used to control high blood sugar in adults and children with diabetes mellitus. SEMGLEE is not for use to treat diabetic ketoacidosis. |
 | Who should not use SEMGLEE?Do not use SEMGLEE if you: •are having an episode of low blood sugar (hypoglycemia). •have an allergy to insulin glargine products or any of the ingredients in SEMGLEE. See the end of this Patient Information leaflet for a complete list of ingredients in SEMGLEE. |
@@ -44,9 +33,7 @@ MA:B:PIV:INGLIJK:RX5
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2022
-
-SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company. © 2022 Viatris Inc.
+Revised: 05/2023
 
 Manufactured by: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A. U.S. License No. 2210
 
@@ -55,4 +42,6 @@ Morgantown, WV 26505 U.S.A.
 
 Product of Malaysia
 
-MA:B:PIP:INGLIJK:RX5
+SEMGLEE is a registered trademark of Mylan Pharmaceuticals Inc., a Viatris Company. © 2023 Viatris Inc.
+
+MA:B:PIP:INGLIJK:RX7

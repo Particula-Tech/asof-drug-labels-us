@@ -38,6 +38,6 @@ Dosage adjustments are recommended to lower the risk of hypoglycemia when switch
 
 When switching from:
 
-- •Once-daily insulin glargine, (300 units/mL), to once-daily SEMGLEE (100 units/mL), the recommended starting SEMGLEE dosage is 80% of the insulin glargine dosage that is being discontinued.
+- •Once-daily insulin glargine, 300 units/mL, to once-daily SEMGLEE (100 units/mL), the recommended starting SEMGLEE dosage is 80% of the insulin glargine, 300 units/mL dosage that is being discontinued.
 - •Once-daily NPH insulin to once-daily SEMGLEE, the recommended starting SEMGLEE dosage is the same as the dosage of NPH that is being discontinued.
 - •Twice-daily NPH insulin to once-daily SEMGLEE, the recommended starting SEMGLEE dosage is 80% of the total NPH dosage that is being discontinued.
