@@ -39,7 +39,7 @@ Conditions or therapies that predispose patients to acidosis (such as renal dise
 
 Metabolic acidosis was commonly observed in adult and pediatric patients treated with topiramate in clinical trials.
 The incidence of decreased serum bicarbonate in pediatric trials, for adjunctive treatment of Lennox-Gastaut syndrome or refractory partial-onset seizures was as high as 67% for topiramate (at approximately 6 mg/kg/day), and 10% for placebo.
-The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
+The incidence of a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥5mEq/L decrease from pretreatment) in these trials was up to 11%, compared to ≤ 2% for placebo.
 
 Manifestations of acute or chronic metabolic acidosis may include hyperventilation, nonspecific symptoms such as fatigue and anorexia, or more severe sequelae including cardiac arrhythmias or stupor.
 Chronic, untreated metabolic acidosis may increase the risk for nephrolithiasis or nephrocalcinosis, and may also result in osteomalacia (referred to as rickets in pediatric patients) and/or osteoporosis with an increased risk for fractures [see Warnings and Precautions (5.9, 5.13)].

@@ -84,27 +84,27 @@ The primary measures of effectiveness were the percent reduction in drop attacks
 
 Table 12: Topiramate Dose Summary During the Stabilization Periods of Each of Six Double-Blind, Placebo-Controlled, Adjunctive Trials in Adults with Partial-Onset Seizuresa
 
-| Study | Stabilization Dose | Placebob | 200 |  | 400 |  | 600 |  | 800 |  | 1,000 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Target Topiramate Dosage (mg/day) |  |  |  |  |  |  |  |  |  |  |  |  |
-| 2 | N | 42 |  | 42 |  | 40 |  | 41 |  | -- |  | -- |
-| Mean Dose | 5.9 |  | 200 |  | 390 |  | 556 |  | -- |  | -- |  |
-| Median Dose | 6 | 200 |  | 400 |  | 600 |  | -- |  | -- |  |  |
-| 3 | N | 44 | -- |  | -- |  | 40 |  | 45 |  | 40 |  |
-| Mean Dose | 9.7 | -- |  | -- |  | 544 |  | 739 |  | 796 |  |  |
-| Median Dose | 10 | -- |  | -- |  | 600 |  | 800 |  | 1,000 |  |  |
-| 4 | N | 23 | -- |  | 19 |  | -- |  | -- |  | -- |  |
-| Mean Dose | 3.8 | -- |  | 395 |  | -- |  | -- |  | -- |  |  |
-| Median Dose | 4 | -- |  | 400 |  | -- |  | -- |  | -- |  |  |
-| 5 | N | 30 | -- |  | -- |  | 28 |  | -- |  | -- |  |
-| Mean Dose | 5.7 | -- |  | -- |  | 522 |  | -- |  | -- |  |  |
-| Median Dose | 6 | -- |  | -- |  | 600 |  | -- |  | -- |  |  |
-| 6 | N | 28 | -- |  | -- |  | -- |  | 25 |  | -- |  |
-| Mean Dose | 7.9 | -- |  | -- |  | -- |  | 568 |  | -- |  |  |
-| Median Dose | 8 | -- |  | -- |  | -- |  | 600 |  | -- |  |  |
-| 7 | N | 90 | 157 |  | -- |  | -- |  | -- |  | -- |  |
-| Mean Dose | 8 | 200 |  | -- |  | -- |  | -- |  | -- |  |  |
-| Median Dose | 8 | 200 |  | -- |  | -- |  | -- |  | -- |  |  |
+| Study | Stabilization Dose | Placebob | 200 | 400 | 600 | 800 | 1,000 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Target Topiramate Dosage (mg/day) |  |  |  |  |  |  |  |
+| 2 | N | 42 | 42 | 40 | 41 | -- | -- |
+| Mean Dose | 5.9 | 200 | 390 | 556 | -- | -- |  |
+| Median Dose | 6 | 200 | 400 | 600 | -- | -- |  |
+| 3 | N | 44 | -- | -- | 40 | 45 | 40 |
+| Mean Dose | 9.7 | -- | -- | 544 | 739 | 796 |  |
+| Median Dose | 10 | -- | -- | 600 | 800 | 1,000 |  |
+| 4 | N | 23 | -- | 19 | -- | -- | -- |
+| Mean Dose | 3.8 | -- | 395 | -- | -- | -- |  |
+| Median Dose | 4 | -- | 400 | -- | -- | -- |  |
+| 5 | N | 30 | -- | -- | 28 | -- | -- |
+| Mean Dose | 5.7 | -- | -- | 522 | -- | -- |  |
+| Median Dose | 6 | -- | -- | 600 | -- | -- |  |
+| 6 | N | 28 | -- | -- | -- | 25 | -- |
+| Mean Dose | 7.9 | -- | -- | -- | 568 | -- |  |
+| Median Dose | 8 | -- | -- | -- | 600 | -- |  |
+| 7 | N | 90 | 157 | -- | -- | -- | -- |
+| Mean Dose | 8 | 200 | -- | -- | -- | -- |  |
+| Median Dose | 8 | 200 | -- | -- | -- | -- |  |
 
 a Dose-response studies were not conducted for other indications or pediatric partial-onset seizures.
 
@@ -117,43 +117,45 @@ As described above, a global improvement in seizure severity was also assessed i
 
 Table 13: Efficacy Results in Double-Blind, Placebo-Controlled, Adjunctive Epilepsy Trials
 
-| Study# | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/day* |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Target Topiramate Dosage (mg per day) |  |  |  |  |  |  |  |  |
-| Partial-Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |
-| 2 | N | 45 | 45 | 45 | 46 | -- | -- | -- |
-| Median % Reduction | 12 | 27a | 48b | 45c | -- | -- | -- |  |
-| % Responders | 18 | 24 | 44d | 46d | -- | -- | -- |  |
-| 3 | N | 47 | -- | -- | 48 | 48 | 47 | -- |
-| Median % Reduction | 2 | -- | -- | 41c | 41c | 36c | -- |  |
-| % Responders | 9 | -- | -- | 40c | 41c | 36d | -- |  |
-| 4 | N | 24 | -- | 23 | -- | -- | -- | -- |
-| Median % Reduction | 1 | -- | 41e | -- | -- | -- | -- |  |
-| % Responders | 8 | -- | 35d | -- | -- | -- | -- |  |
-| 5 | N | 30 | -- | -- | 30 | -- | -- | -- |
-| Median % Reduction | -12 | -- | -- | 46f | -- | -- | -- |  |
-| % Responders | 10 | -- | -- | 47c | -- | -- | -- |  |
-| 6 | N | 28 | -- | -- | -- | 28 | -- | -- |
-| Median % Reduction | -21 | -- | -- | -- | 24c | -- | -- |  |
-| % Responders | 0 | -- | -- | -- | 43c | -- | -- |  |
-| 7 | N | 91 | 168 | -- | -- | -- | -- | -- |
-| Median % Reduction | 20 | 44c | -- | -- | -- | -- | -- |  |
-| % Responders | 24 | 45c | -- | -- | -- | -- | -- |  |
-| Partial-Onset Seizures Studies in Pediatric Patients |  |  |  |  |  |  |  |  |
-| 8 | N | 45 | -- | -- | -- | -- | -- | 41 |
-| Median % Reduction | 11 | -- | -- | -- | -- | -- | 33d |  |
-| % Responders | 20 | -- | -- | -- | -- | -- | 39 |  |
-| Primary Generalized Tonic-Clonich, |  |  |  |  |  |  |  |  |
-| 9 | N | 40 | -- | -- | -- | -- | -- | 39 |
-| Median % Reduction | 9 | -- | -- | -- | -- | -- | 57d |  |
-| % Responders | 20 | -- | -- | -- | -- | -- | 56c |  |
-| Lennox-Gastaut Syndromei, |  |  |  |  |  |  |  |  |
-| 10 | N | 49 | -- | -- | -- | -- | -- | 46 |
-| Median % Reduction | -5 | -- | -- | -- | -- | -- | 15d |  |
-| % Responders | 14 | -- | -- | -- | -- | -- | 28g |  |
-| Improvement in Seizure Severityj | 28 | -- | -- | -- | -- | -- | 52d |  |
-
-Comparisons with placebo: a p=0.080; b p≤0.010; c p≤0.001; d p≤0.050; e p=0.065; f p≤0.005; g p=0.071;
+| Study# | # | Placebo | 200 | 400 | 600 | 800 | 1,000 | ≈6 mg/kg/day* |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Target Topiramate Dosage (mg per day) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Partial-Onset Seizures Studies in Adults |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 | N | 45 | 45 | 45 | 46 | -- | -- | -- |  |  |  |  |  |  |  |  |
+| Median % Reduction | 12 | 27a | 48b | 45c | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| % Responders | 18 | 24 | 44d | 46d | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| 3 | N | 47 | -- | -- | 48 | 48 | 47 | -- |  |  |  |  |  |  |  |  |
+| Median % Reduction | 2 | -- | -- | 41c | 41c | 36c | -- |  |  |  |  |  |  |  |  |  |
+| % Responders | 9 | -- | -- | 40c | 41c | 36d | -- |  |  |  |  |  |  |  |  |  |
+| 4 | N | 24 | -- | 23 | -- | -- | -- | -- |  |  |  |  |  |  |  |  |
+| Median % Reduction | 1 | -- | 41e | -- | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| % Responders | 8 | -- | 35d | -- | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| 5 | N | 30 | -- | -- | 30 | -- | -- | -- |  |  |  |  |  |  |  |  |
+| Median % Reduction | -12 | -- | -- | 46f | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| % Responders | 10 | -- | -- | 47c | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| 6 | N | 28 | -- | -- | -- | 28 | -- | -- |  |  |  |  |  |  |  |  |
+| Median % Reduction | -21 | -- | -- | -- | 24c | -- | -- |  |  |  |  |  |  |  |  |  |
+| % Responders | 0 | -- | -- | -- | 43c | -- | -- |  |  |  |  |  |  |  |  |  |
+| 7 | N | 91 | 168 | -- | -- | -- | -- | -- |  |  |  |  |  |  |  |  |
+| Median % Reduction | 20 | 44c | -- | -- | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| % Responders | 24 | 45c | -- | -- | -- | -- | -- |  |  |  |  |  |  |  |  |  |
+| Partial-Onset Seizures Studies in Pediatric Patients |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 8 | N | 45 | -- | -- | -- | -- | -- | 41 |  |  |  |  |  |  |  |  |
+| Median % Reduction | 11 | -- | -- | -- | -- | -- | 33d |  |  |  |  |  |  |  |  |  |
+| % Responders | 20 | -- | -- | -- | -- | -- | 39 |  |  |  |  |  |  |  |  |  |
+| Primary Generalized Tonic-Clonich, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9 | N | 40 | -- | -- | -- | -- | -- | 39 |  |  |  |  |  |  |  |  |
+| Median % Reduction | 9 | -- | -- | -- | -- | -- | 57d |  |  |  |  |  |  |  |  |  |
+| % Responders | 20 | -- | -- | -- | -- | -- | 56c |  |  |  |  |  |  |  |  |  |
+| Lennox-Gastaut Syndromei, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | N | 49 | -- | -- | -- | -- | -- | 46 |  |  |  |  |  |  |  |  |
+| Median % Reduction | -5 | -- | -- | -- | -- | -- | 15d |  |  |  |  |  |  |  |  |  |
+| % Responders | 14 | -- | -- | -- | -- | -- | 28g |  |  |  |  |  |  |  |  |  |
+| Improvement in Seizure Severityj | 28 | -- | -- | -- | -- | -- | 52d |  |  |  |  |  |  |  |  |  |
+| Comparisons with placebo: a p=0.080; b p≤0.010; c p≤0.001; d p≤0.050; e p=0.065; f p≤0.005; g p=0.071; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| h Median % reduction and % responders are reported for PGTC seizures; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| i Median % reduction and % responders for drop attacks, i.e., tonic or atonic seizures; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| j Percentage of subjects who were minimally, much, or very much improved from baseline; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Subset analyses of the antiepileptic efficacy of topiramate tablets in these studies showed no differences as a function of gender, race, age, baseline seizure rate, or concomitant AED.
 

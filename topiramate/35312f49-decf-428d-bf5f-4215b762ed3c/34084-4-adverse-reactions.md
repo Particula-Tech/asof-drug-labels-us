@@ -45,7 +45,7 @@ Table 5: Adverse Reactions in the High Dose Group As Compared to the Low Dose Gr
 | --- | --- | --- | --- | --- |
 | Body System Adverse Reaction | Age Group |  |  |  |
 | Pediatric (6 to 15 Years) |  | Adult (Age >16 Years) |  |  |
-| TopiramateDaily Dosage Group (mg/day) |  |  |  |  |
+| Topiramate Daily Dosage Group (mg/day) |  |  |  |  |
 | 50 | 400 | 50 | 400 |  |
 | Body as a Whole - General Disorders |  |  |  |  |
 | Asthenia | 0 | 3 | 4 | 6 |
