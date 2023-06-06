@@ -21,7 +21,3 @@ Vistaril® (hydroxyzine pamoate) Capsules
 50 mg*
 
 100 Capsules Rx only
-
-# PRINCIPAL DISPLAY PANEL
-
-Image not available
