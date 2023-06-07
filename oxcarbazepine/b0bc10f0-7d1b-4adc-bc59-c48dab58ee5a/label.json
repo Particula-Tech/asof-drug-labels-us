@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA077747"
+  ],
+  "inn": "oxcarbazepine",
+  "labeler": "Advagen Pharma Limited",
+  "package_ndcs": [
+    "72888-087-01",
+    "72888-087-05",
+    "72888-087-30",
+    "72888-088-01",
+    "72888-088-05",
+    "72888-088-30",
+    "72888-089-01",
+    "72888-089-05",
+    "72888-089-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "oxcarbazepine",
+      "name": "Oxcarbazepine"
+    }
+  ],
+  "setid": "b0bc10f0-7d1b-4adc-bc59-c48dab58ee5a",
+  "source": "dailymed"
+}
