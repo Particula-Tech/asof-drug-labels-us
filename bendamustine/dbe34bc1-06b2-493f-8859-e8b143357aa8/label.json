@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214739"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Eugia US LLC",
+  "package_ndcs": [
+    "55150-391-01",
+    "55150-392-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "BENDAMUSTINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "dbe34bc1-06b2-493f-8859-e8b143357aa8",
+  "source": "dailymed"
+}
