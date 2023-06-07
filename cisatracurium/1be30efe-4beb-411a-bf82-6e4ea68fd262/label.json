@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "ANDA211668",
+    "ANDA211669"
+  ],
+  "inn": "cisatracurium",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-712-95",
+    "71288-712-96",
+    "71288-713-95",
+    "71288-713-96",
+    "71288-714-95",
+    "71288-714-96"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "cisatracurium besylate",
+      "name": "Cisatracurium Besylate"
+    }
+  ],
+  "setid": "1be30efe-4beb-411a-bf82-6e4ea68fd262",
+  "source": "dailymed"
+}
