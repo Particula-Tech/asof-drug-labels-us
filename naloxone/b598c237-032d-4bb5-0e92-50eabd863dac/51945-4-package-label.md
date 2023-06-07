@@ -24,8 +24,6 @@ NDC 0409-1782-69 Contains 10 of NDC 0409-1782-03 Rx only
 
 10 Carpuject™ Sterile Cartridge Units with Luer Lock
 
-Needle not included
-
 SLIM- PAK™ Tamper Detection Package
 
 Naloxone Hydrochloride Injection, USP 0.4 mg/mL
@@ -33,5 +31,7 @@ Naloxone Hydrochloride Injection, USP 0.4 mg/mL
 For Intravenous, Intramuscular or Subcutaneous Use
 
 Carpuject Cartridges are to be used ONLY with Carpuject Holders.
+
+Needle not included
 
 Hospira
