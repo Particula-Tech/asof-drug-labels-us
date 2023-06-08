@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA211001"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-102-10",
+    "71288-103-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "bendamustine hcl",
+      "name": "Bendamustine"
+    }
+  ],
+  "setid": "40f6f58d-d9ac-4f65-9fc7-16984bf1f180",
+  "source": "dailymed"
+}
