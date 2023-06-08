@@ -20,9 +20,10 @@ It may be necessary to lower the dose of INNOPRAN XL or to discontinue it.
 
 Chronically administered beta-blocking therapy, including INNOPRAN XL, should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 
-## 5.4 Masked Signs of Hypoglycemia
+## 5.4 Hypoglycemia
 
-Beta-blockers, like INNOPRAN XL, may mask tachycardia occurring with hypoglycemia, but other manifestations such as dizziness and sweating may not be significantly affected.
+Beta-blockers may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or are vomiting).
+If severe hypoglycemia occurs, patients should be instructed to seek emergency treatment.
 
 ## 5.5 Thyrotoxicosis
 
