@@ -60,7 +60,7 @@ Table 14: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 | 0 mg | 47 (24%) | 122 (60%) | <0.001** |
 | 0 to 50 mg | 30 (15%) | 43 (21%) |  |
 | >50 mg | 121 (61%) | 38 (19%) |  |
-| * ANOVA model with treatment center. ** Chi-square |  |  |  |
+| * ANOVA model with treatment center. ** Chi-square. |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to adult patients in the dexmedetomidine and placebo groups.
 On average, dexmedetomidine-treated patients received less morphine sulfate for pain than placebo-treated patients (0.43 versus 0.89 mg/h).

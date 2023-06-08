@@ -104,6 +104,9 @@ Table 5: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or 
 | Hypoglycemia | 5% | 6% |
 | Respiratory Failure | 5% | 3% |
 | Renal Failure Acute | 2% | 1% |
+| Acute Respiratory Distress Syndrome | 2% | 1% |
+| Generalized Edema | 2% | 6% |
+| Hypomagnesemia | 1% | 7% |
 | †Includes any type of hypertension. 1 Hypotension was defined in absolute terms as Systolic blood pressure of <80 mmHg or Diastolic blood pressure of <50 mmHg or in relative terms as ≤30% lower than pre-study drug infusion value. 2 Bradycardia was defined in absolute terms as <40 bpm or in relative terms as ≤30% lower than pre-study drug infusion value. 3 Hypertension was defined in absolute terms as Systolic blood pressure >180 mmHg or Diastolic blood pressure of >100 mmHg or in relative terms as ≥30% higher than pre-study drug infusion value. 4 Tachycardia was defined in absolute terms as >120 bpm or in relative terms as ≥30% greater than pre-study drug infusion value. |  |  |
 
 The following adverse events occurred between 2 and 5% for dexmedetomidine and Midazolam, respectively: renal failure acute (2.5%, 0.8%), acute respiratory distress syndrome (2.5%, 0.8%), and respiratory failure (4.5%, 3.3%).
