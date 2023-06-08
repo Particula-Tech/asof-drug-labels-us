@@ -41,7 +41,7 @@ Advise patients and their caregivers to observe for signs of activation of mania
 Discontinuation Syndrome
 
 Advise patients not to abruptly discontinue mirtazapine tablets and to discuss any tapering regimen with their healthcare provider.
-Adverse reactions can occur when mirtazapine tablets are discontinued [see Dosage and Administration (2.6),Warnings and Precautions (5.14)].
+Adverse reactions can occur when mirtazapine tablets are discontinued [see Dosage and Administration (2.6), Warning and Precautions (5.14)].
 
 Allergic Reactions
 
@@ -75,4 +75,4 @@ MIRTAZAPINE TABLETS, USP
 | --- | --- |
 | Apotex Inc | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9l 1T9 | 33326 |
+| Canada M9L 1T9 | 33326 |

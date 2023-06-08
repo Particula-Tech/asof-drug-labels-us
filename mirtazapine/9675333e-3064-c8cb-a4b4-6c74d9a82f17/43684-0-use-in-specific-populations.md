@@ -66,7 +66,7 @@ The mean increase in weight was 4 kg (2 kg SD) for mirtazapine tablets-treated p
 
 ## 8.5 Geriatric Use
 
-Approximately 190 patients ≥65 years of age participated in clinical studies with mirtazapine tablets.
+Approximately 190 patients ≥ 65 years of age participated in clinical studies with mirtazapine tablets.
 Mirtazapine tablets are known to be substantially excreted by the kidney (75%), and the risk of decreased clearance of this drug is greater in patients with impaired renal function.
 Pharmacokinetic studies revealed a decreased clearance of mirtazapine in the elderly [see Clinical Pharmacology (12.3)].
 
@@ -79,4 +79,4 @@ In general, dose selection for an elderly patient should be conservative, usuall
 
 The clearance of mirtazapine is reduced in patients with moderate to severe renal or hepatic impairment.
 Consequently, plasma mirtazapine levels may be increased in these patient groups, compared to levels observed in patients without renal or hepatic impairment.
-Dosage decrease may be necessary when administering mirtazapine tablets to patients with moderate to severe renal or hepatic impairment [see Warnings and Precautions (5.13),Use inSpecific Populations (8.5), and Clinical Pharmacology (12.3)].
+Dosage decrease may be necessary when administering mirtazapine tablets to patients with moderate to severe renal or hepatic impairment [see Warnings and Precautions (5.13),Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].

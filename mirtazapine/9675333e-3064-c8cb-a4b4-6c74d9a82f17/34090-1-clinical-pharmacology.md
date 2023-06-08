@@ -69,11 +69,11 @@ There have been no clinical studies to evaluate the effect of race on the pharma
 
 Patients with Renal Impairment
 
-When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR=11–39 mL/min/1.73 m2 and approximately 50% in renal impaired patients with GFR=<10 mL/min/1.73 m2) [see Warnings and Precautions (5.15), Use in Specific Populations (8.6)].
+When compared to subjects with normal renal function, total body clearance of mirtazapine was reduced approximately 30% in renal impaired patients with GFR = 11 to 39 mL/min/1.73 m2 and approximately 50% in renal impaired patients with GFR = < 10 mL/min/1.73 m2) [see Warnings and Precautions (5.15), Use in Specific Populations (8.6)].
 
 Patients with Hepatic Impairment
 
-Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions(5.13, 5.15), Use in Specific Populations (8.6)].
+Following a single 15-mg oral dose of mirtazapine tablets, the oral clearance of mirtazapine in patients with hepatic impairment was decreased by approximately 30%, compared to subjects with normal hepatic function [see Warnings and Precautions (5.13, 5.15), Use in Specific Populations (8.6)].
 
 Drug Interactions Studies
 
@@ -87,29 +87,29 @@ The risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Po
 
 Phenytoin
 
-In healthy male subjects (n=18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45% [see Drug Interactions (7)].
+In healthy male subjects (n = 18), phenytoin (200 mg daily, at steady state) increased mirtazapine (30 mg daily, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 45% [see Drug Interactions (7)].
 Mirtazapine did not significantly affect the pharmacokinetics of phenytoin.
 
 Carbamazepine
 
-In healthy male subjects (n=24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60% [see Drug Interactions (7)].
+In healthy male subjects (n = 24), carbamazepine (400 mg twice a day, at steady state) increased mirtazapine (15 mg twice a day, at steady state) clearance about 2-fold, resulting in a decrease in average plasma mirtazapine concentrations of 60% [see Drug Interactions (7)].
 
 Cimetidine
 
-In healthy male subjects (n=12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50% [see Drug Interactions (7)].
+In healthy male subjects (n = 12), when cimetidine, a weak inhibitor of CYP1A2, CYP2D6, and CYP3A4, given at 800 mg b.i.d. at steady state was coadministered with mirtazapine (30 mg daily) at steady state, the Area Under the Curve (AUC) of mirtazapine increased more than 50% [see Drug Interactions (7)].
 Mirtazapine did not cause relevant changes in the pharmacokinetics of cimetidine.
 
 Ketoconazole
 
-In healthy male Caucasian subjects (n=24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively [see Drug Interactions (7)].
+In healthy male Caucasian subjects (n = 24), coadministration of the strong CYP3A4 inhibitor ketoconazole (200 mg b.i.d. for 6.5 days) increased the peak plasma levels and the AUC of a single 30 mg dose of mirtazapine by approximately 40% and 50%, respectively [see Drug Interactions (7)].
 
 Amitriptyline
 
-In healthy, CYP2D6 extensive metabolizer patients (n=32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
+In healthy, CYP2D6 extensive metabolizer patients (n = 32), amitriptyline (75 mg daily), at steady state, did not cause relevant changes to the pharmacokinetics of steady state mirtazapine (30 mg daily); mirtazapine also did not cause relevant changes to the pharmacokinetics of amitriptyline.
 
 Paroxetine
 
-In healthy CYP2D6 extensive metabolizer subjects (n=24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
+In healthy CYP2D6 extensive metabolizer subjects (n = 24), mirtazapine (30 mg/day), at steady state, did not cause relevant changes in the pharmacokinetics of steady state paroxetine (40 mg/day), a CYP2D6 inhibitor.
 
 Lithium
 
@@ -118,7 +118,7 @@ The effects of higher doses of lithium on the pharmacokinetics of mirtazapine ar
 
 Risperidone
 
-Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg twice a day) in subjects (n=6) in need of treatment with an antipsychotic and antidepressant drug.
+Mirtazapine (30 mg daily) at steady state did not influence the pharmacokinetics of risperidone (up to 3 mg twice a day) in subjects (n = 6) in need of treatment with an antipsychotic and antidepressant drug.
 
 Alcohol
 

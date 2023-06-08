@@ -2,7 +2,7 @@
 
 APOTEX CORP. NDC 60505-0247-1
 
-Mirtazapine Tablet
+Mirtazapine Tablets, USP
 
 15 mg
 
@@ -14,7 +14,7 @@ Rx
 
 APOTEX CORP. NDC 60505-0248-1
 
-Mirtazapine Tablet
+Mirtazapine Tablets, USP
 
 30 mg
 
@@ -26,7 +26,7 @@ Rx
 
 APOTEX CORP. NDC 60505-0249-1
 
-Mirtazapine Tablet
+Mirtazapine Tablets, USP
 
 45 mg
 

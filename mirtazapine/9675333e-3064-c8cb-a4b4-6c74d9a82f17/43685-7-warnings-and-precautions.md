@@ -5,7 +5,7 @@
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
 There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 1.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 1.
 
 Table 1: Risk Differences of the Number of Patients with Suicidal Thoughts and Behavior in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
@@ -27,7 +27,7 @@ Consider changing the therapeutic regimen, including possibly discontinuing mirt
 
 ## 5.2 Agranulocytosis
 
-In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) <500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC <500/mm3 without any associated symptoms).
+In premarketing clinical trials, 2 (1 with Sjögren’s Syndrome) out of 2,796 patients treated with mirtazapine tablets developed agranulocytosis [absolute neutrophil count (ANC) < 500/mm3 with associated signs and symptoms, e.g., fever, infection, etc.] and a third patient developed severe neutropenia (ANC < 500/mm3 without any associated symptoms).
 For these 3 patients, onset of severe neutropenia was detected on days 61, 9, and 14 of treatment, respectively.
 All 3 patients recovered after mirtazapine tablets were stopped.
 If a patient develops a sore throat, fever, stomatitis, or other signs of infection, along with a low white blood cell (WBC) count, treatment with mirtazapine tablets should be discontinued and the patient should be closely monitored.
@@ -53,7 +53,7 @@ If concomitant use of mirtazapine tablets with other serotonergic drugs is clini
 
 The pupillary dilation that occurs following use of many antidepressant drugs, including mirtazapine tablets, may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
-## 5.5 QTc Prolongation and Torsades de Pointes
+## 5.5 QT Prolongation and Torsades de Pointes
 
 The effect of mirtazapine tablets on QTc interval was assessed in a clinical randomized trial with placebo and positive (moxifloxacin) controls involving 54 healthy volunteers using exposure response analysis.
 This trial showed a positive relationship between mirtazapine concentrations and prolongation of the QTc interval.
@@ -72,7 +72,7 @@ Discontinue mirtazapine immediately if DRESS is suspected and institute appropri
 ## 5.7 Increased Appetite and Weight Gain
 
 In U.S. controlled clinical studies, appetite increase was reported in 17% of patients treated with mirtazapine tablets, compared to 2% for placebo.
-In these same trials, weight gain of ≥7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo.
+In these same trials, weight gain of ≥ 7% of body weight was reported in 7.5% of patients treated with mirtazapine, compared to 0% for placebo.
 In a pool of premarketing U.S. clinical studies, including many patients for long-term, open-label treatment, 8% of patients receiving mirtazapine tablets discontinued for weight gain.
 
 In an 8-week-long pediatric clinical trial of doses between 15 to 45 mg/day, 49% of mirtazapine tablets-treated pediatric patients had a weight gain of at least 7%, compared to 5.7% of placebo-treated patients.
@@ -100,8 +100,8 @@ Mirtazapine tablets should be prescribed with caution in patients with a seizure
 
 ## 5.11 Elevated Cholesterol and Triglycerides
 
-In U.S. controlled studies, nonfasting cholesterol increases to ≥20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine tablets, compared to 7% for placebo.
-In these same studies, nonfasting triglyceride increases to ≥500 mg/dL were observed in 6% of patients treated with mirtazapine tablets, compared to 3% for placebo.
+In U.S. controlled studies, nonfasting cholesterol increases to ≥ 20% above the upper limits of normal were observed in 15% of patients treated with mirtazapine tablets, compared to 7% for placebo.
+In these same studies, nonfasting triglyceride increases to ≥ 500 mg/dL were observed in 6% of patients treated with mirtazapine tablets, compared to 3% for placebo.
 
 ## 5.12 Hyponatremia
 
@@ -117,7 +117,7 @@ Elderly patients, patients taking diuretics, and those who are volume- depleted 
 
 ## 5.13 Transaminase Elevations
 
-Clinically significant ALT (SGPT) elevations (≥3 times the upper limit of the normal range) were observed in 2% (8/424) of patients treated with mirtazapine tablets in a pool of short-term, U.S. controlled trials, compared to 0.3% (1/328) of placebo patients.
+Clinically significant ALT (SGPT) elevations (≥ 3 times the upper limit of the normal range) were observed in 2% (8/424) of patients treated with mirtazapine tablets in a pool of short-term, U.S. controlled trials, compared to 0.3% (1/328) of placebo patients.
 While some patients were discontinued for the ALT increases, in other cases, the enzyme levels returned to normal despite continued mirtazapine treatment.
 
 Mirtazapine tablets should be used with caution in patients with impaired hepatic function [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].

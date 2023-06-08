@@ -15,7 +15,7 @@ Table 5: Clinically Important Drug Interactions with Mirtazapine Tablets
 | Examples | SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, amphetamines, St. John’s Wort, tramadol, tryptophan, buspirone |
 | Strong CYP3A Inducers |  |
 | Clinical Impact | The concomitant use of strong CYP3A inducers with mirtazapine tablets decreases the plasma concentration of mirtazapine [see Clinical Pharmacology (12.3)]. |
-| Intervention | Increase the dose of mirtazapine tablets if needed with concomitant CYP3A inducer use. Conversely, a decrease in dosage of Mirtazapine Tablets may be needed if the CYP3A inducer is discontinued [see Dosage and Administration(2.5)]. |
+| Intervention | Increase the dose of mirtazapine tablets if needed with concomitant CYP3A inducer use. Conversely, a decrease in dosage of Mirtazapine Tablets may be needed if the CYP3A inducer is discontinued [seeDosage and Administration(2.5)]. |
 | Examples | phenytoin, carbamazepine, rifampin |
 | Strong CYP3A Inhibitors |  |
 | Clinical Impact | The concomitant use of strong CYP3A inhibitors with mirtazapine tablets may increase the plasma concentration of mirtazapine [see Clinical Pharmacology (12.3)]. |
@@ -29,7 +29,7 @@ Table 5: Clinically Important Drug Interactions with Mirtazapine Tablets
 | Intervention | Avoid concomitant use of benzodiazepines and alcohol with mirtazapine tablets [see Warnings and Precautions (5.8), Clinical Pharmacology (12.3)]. |
 | Examples | diazepam, alprazolam, alcohol |
 | Drugs that Prolong QTc Interval |  |
-| Clinical Impact | The concomitant use of other drugs which prolong the QTc interval with mirtazapine tablets, increase the risk of QTc prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes). |
+| Clinical Impact | The concomitant use of other drugs which prolong the QTc interval with mirtazapine tablets, increase the risk of QT prolongation and/or ventricular arrhythmias (e.g., Torsades de Pointes). |
 | Intervention | Use caution when using mirtazapine tablets concomitantly with drugs that prolong the QTc interval [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)]. |
 | Warfarin |  |
 | Clinical Impact | The concomitant use of warfarin with mirtazapine tablets may result in an increase in INR [see Clinical Pharmacology (12.3)]. |

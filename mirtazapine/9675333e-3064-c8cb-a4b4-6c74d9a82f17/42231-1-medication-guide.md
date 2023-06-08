@@ -5,6 +5,7 @@ Mirtazapine Tablets, USP (mir taz’ a peen)
 Medication Guide available at www1.apotex.com/products/us
 
 What is the most important information I should know about mirtazapine tablets?
+
 Mirtazapine tablets may cause serious side effects, including:
 
 • Increased risk of suicidal thoughts or actions in some children and young adults.
@@ -55,6 +56,7 @@ Mirtazapine tablets are prescription medicines used to treat a certain type of d
 It is not known if mirtazapine tablets are safe and effective for use to treat MDD in children.
 
 Who should not take mirtazapine tablets?
+
 Do not take mirtazapine tablets if you:
 
 • take a Monoamine Oxidase Inhibitor (MAOI)
@@ -96,11 +98,10 @@ Before taking mirtazapine tablets, tell your healthcare provider about all your 
 • are pregnant or plan to become pregnant.
 It is not known if mirtazapine tablets will harm your unborn baby.
 
-• Talk to your healthcare provider if you become pregnant or think you may be pregnant during treatment with mirtazapine tablets.
-
-• If you become pregnant while taking mirtazapine tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
-You can register by calling 1-844-405-6185 or visiting online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
-The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with mirtazapine tablets at any time during pregnancy.
+- Talk to your healthcare provider if you become pregnant or think you may be pregnant during treatment with mirtazapine tablets.
+- If you become pregnant while taking mirtazapine tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+  You can register by calling 1-844-405-6185 or visiting online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
+  The purpose of this registry is to monitor the pregnancy outcomes in women who have been treated with mirtazapine tablets at any time during pregnancy.
 
 • are breastfeeding or plan to breastfeed.
 Mirtazapine may pass into your breast milk.
@@ -160,7 +161,7 @@ Do not change your dose or stop taking mirtazapine tablets without first talking
 
 • Take mirtazapine tablets 1 time each day, preferably in the evening at bedtime
 
-• If you take too much mirtazapine tablets call your healthcare provider or poison control center at 1­800-222-1222 right away or go to the nearest hospital emergency room.
+• If you take too much mirtazapine tablets call your healthcare provider or poison control center at 1­-800-222-1222 right away or go to the nearest hospital emergency room.
 
 What should I avoid while taking mirtazapine tablets?
 
@@ -181,11 +182,11 @@ Mirtazapine tablets may cause serious side effects, including:
 • Low white blood cell count.
 Tell your healthcare provider right away if you develop any signs or symptoms of a low white blood cell count, including:
 
-ο Fever
+ο fever
 
-ο Sore Throat
+ο sore throat
 
-ο Flu-like symptoms
+ο flu-like symptoms
 
 ο chills
 
@@ -198,19 +199,19 @@ A potentially life-threatening problem called serotonin syndrome can happen when
 See, "Who should not take mirtazapine tablets?"
 Stop taking mirtazapine tablets and call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome:
 
-ο Agitation
+ο agitation
 
-ο Confusion
+ο confusion
 
-ο Fast heart beat
+ο fast heart beat
 
-ο Dizziness
+ο dizziness
 
-ο Flushing
+ο flushing
 
 ο tremors, stiff muscles, or muscle twitching
 
-ο Seizures
+ο seizures
 
 ο seeing or hearing things that are not real (hallucinations)
 
@@ -222,9 +223,9 @@ Stop taking mirtazapine tablets and call your healthcare provider or go to the n
 
 ο high body temperature (hyperthermia)
 
-ο loss of coordination nausea,
+ο loss of coordination
 
-ο vomiting, diarrhea
+ο nausea, vomiting, diarrhea
 
 • Eye problems (angle-closure glaucoma).
 Mirtazapine tablets may cause a certain type of eye problem called angle-closure glaucoma.
@@ -321,7 +322,7 @@ Symptoms may include:
 
 ο confusion
 
-ο electric shock sensation(paresthesia)
+ο electric shock sensation (paresthesia)
 
 ο shaking (tremor)
 
@@ -355,6 +356,7 @@ How should I store mirtazapine tablets?
 • Keep mirtazapine tablets away from light and moisture.
 
 Keep mirtazapine tablets, and all medicines out of the reach of children.
+
 General information about the safe and effective use of mirtazapine tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
@@ -373,11 +375,13 @@ Inactive ingredients:
 - 30 mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide and iron oxide yellow and iron oxide red.
 - 45 mg tablets: Croscarmellose sodium, hydroxypropyl cellulose, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, titanium dioxide.
 
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
 APOTEX INC. MIRTAZAPINE TABLETS, USP 15 mg, 30 mg and 45 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
 
-Revised: January 2023
+Revised: May 2023
 
 Rev.
-19
+20

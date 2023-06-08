@@ -38,15 +38,15 @@ The following adverse reactions are described in more detail in other sections o
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below are from clinical trials in which mirtazapine tablets were administered to 2796 patients in phase 2 and 3 clinical studies.
+The data described below are from clinical trials in which mirtazapine tablets were administered to 2,796 patients in phase 2 and 3 clinical studies.
 The trials consisted of double-blind controlled and open-label studies, inpatient and outpatient studies, fixed dose, and titration studies.
 
 Adverse Reactions Leading to Discontinuation of Treatment
 
 Approximately 16% of the 453 patients who received mirtazapine tablets in U.S. 6-week placebo-controlled clinical trials discontinued treatment due to an adverse reaction, compared to 7% of the 361 placebo-treated patients in those studies.
-The most common reactions leading to discontinuation (≥1% and at a rate at least twice that of placebo) are included in Table 2:
+The most common reactions leading to discontinuation (≥ 1% and at a rate at least twice that of placebo) are included in Table 2:
 
-Table 2: Adverse Reactions (≥1% and at least twice placebo) Leading to Discontinuation of Mirtazapine Tablets in 6-Week Clinical Trials in Patients with MDD
+Table 2: Adverse Reactions (≥ 1% and at least twice placebo) Leading to Discontinuation of Mirtazapine Tablets in 6-Week Clinical Trials in Patients with MDD
 
 |  | Mirtazapine Tablets (n=453) | Placebo (n=361) |
 | --- | --- | --- |
@@ -55,21 +55,21 @@ Table 2: Adverse Reactions (≥1% and at least twice placebo) Leading to Discont
 
 Common Adverse Reactions
 
-The most common adverse reactions (≥5% and twice placebo) associated with the use of mirtazapine tablets are listed in Table 3.
+The most common adverse reactions (≥ 5% and twice placebo) associated with the use of mirtazapine tablets are listed in Table 3.
 
-Table 3: Adverse Reactions (≥5% and twice placebo) in 6-Week U.S. Clinical Trials of Mirtazapine Tablets in Patients with MDD
+Table 3: Adverse Reactions (≥ 5% and twice placebo) in 6-Week U.S. Clinical Trials of Mirtazapine Tablets in Patients with MDD
 
-|  | Mirtazapine Tablets (n=45 3) | Placebo (n=3 61) |
+|  | Mirtazapine Tablets (n=453) | Placebo (n=361) |
 | --- | --- | --- |
 | Somnolence | 54% | 18% |
 | Increased Appetite | 17% | 2% |
 | Weight Gain | 12% | 2% |
 | Dizziness | 7% | 3% |
 
-Table 4 enumerates adverse reactions that occurred in ≥1% of mirtazapine tablets-treated patients and were more frequent than the placebo-treated patients, who participated in 6-week, U.S. placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
+Table 4 enumerates adverse reactions that occurred in ≥ 1% of mirtazapine tablets-treated patients and were more frequent than the placebo-treated patients, who participated in 6-week, U.S. placebo-controlled trials in which patients were dosed in a range of 5 to 60 mg/day.
 This table shows the percentage of patients in each group who had at least 1 episode of an adverse reaction at some time during their treatment.
 
-Table 4: Adverse Reactions (≥1% and greater than placebo) in 6-Week U.S. Clinical Studies of Mirtazapine Tablets in Patients with MDD
+Table 4: Adverse Reactions (≥ 1% and greater than placebo) in 6-Week U.S. Clinical Studies of Mirtazapine Tablets in Patients with MDD
 
 |  | Mirtazapine Tablets (n=453) | Placebo (n=361) |
 | --- | --- | --- |
@@ -109,7 +109,7 @@ Other Adverse Reactions Observed During the Premarketing Evaluation of Mirtazapi
 
 The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general or excessively specific so as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) which occurred at a rate equal to or less than placebo.
 
-Adverse reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare adverse reactions are those occurring in fewer than 1/1000 patients.
+Adverse reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare adverse reactions are those occurring in fewer than 1/1,000 patients.
 
 Body as a Whole: frequent: malaise, abdominal pain, abdominal syndrome acute; infrequent: chills, fever, face edema, ulcer, photosensitivity reaction, neck rigidity, neck pain, abdomen enlarged; rare: cellulitis, chest pain substernal.
 
