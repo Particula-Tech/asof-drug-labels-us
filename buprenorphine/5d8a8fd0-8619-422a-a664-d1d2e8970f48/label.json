@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA210136"
+  ],
+  "inn": "buprenorphine",
+  "labeler": "Braeburn Inc.",
+  "package_ndcs": [
+    "58284-208-01",
+    "58284-216-01",
+    "58284-224-01",
+    "58284-228-01",
+    "58284-232-01",
+    "58284-264-01",
+    "58284-296-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "buprenorphine",
+      "name": "BRIXADI"
+    }
+  ],
+  "setid": "5d8a8fd0-8619-422a-a664-d1d2e8970f48",
+  "source": "dailymed"
+}
