@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INDERAL XL (propranolol hydrochloride) Extended Release Capsules are supplied as capsules containing either 80 mg or 120 mg propranolol hydrochloride.
+INDERAL XL (propranolol hydrochloride) Extended-Release Capsules are supplied as capsules containing either 80 mg or 120 mg propranolol hydrochloride.
 They are available follows:
 
 80 mg: A white opaque capsule, imprinted with ‘Inderal XL’, ‘80’, and 1 segmented band, is available in bottles of 30 capsules (NDC 62559-600-30) and professional samples of 7 capsules (NDC 62559-600-77) and 14 capsules (NDC 62559-600-14).
