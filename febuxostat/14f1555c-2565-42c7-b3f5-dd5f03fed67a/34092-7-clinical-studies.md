@@ -7,19 +7,19 @@ A serum uric acid level of less than 6 mg/dL is the goal of antihyperuricemic th
 The efficacy of febuxostat was demonstrated in three randomized, double-blind, controlled trials in patients with hyperuricemia and gout.
 Hyperuricemia was defined as a baseline serum uric acid level ≥8 mg/dL.
 
-Study 1 (ClinicalTrials.gov identifier NCT00430248) randomized patients to: febuxostat 40 mg daily, febuxostat 80 mg daily, or allopurinol (300 mg daily for patients with estimated creatinine clearance (Clcr) ≥60 mL/min or 200 mg daily for patients with estimated Clcr ≥30 mL/min and ≤59 mL/min).
+Study 1 (NCT00430248) randomized patients to: febuxostat 40 mg daily, febuxostat 80 mg daily, or allopurinol (300 mg daily for patients with estimated creatinine clearance (Clcr) ≥60 mL/min or 200 mg daily for patients with estimated Clcr ≥30 mL/min and ≤59 mL/min).
 The duration of Study 1 was six months.
 
-Study 2 (ClinicalTrials.gov identifier NCT00174915) randomized patients to: placebo, febuxostat 80 mg daily, febuxostat 120 mg daily, febuxostat 240 mg daily or allopurinol (300 mg daily for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg daily for patients with a baseline serum creatinine greater than 1.5 mg/dL and ≤2 mg/dL).
+Study 2 (NCT00174915) randomized patients to: placebo, febuxostat 80 mg daily, febuxostat 120 mg daily, febuxostat 240 mg daily or allopurinol (300 mg daily for patients with a baseline serum creatinine ≤1.5 mg/dL or 100 mg daily for patients with a baseline serum creatinine greater than 1.5 mg/dL and ≤2 mg/dL).
 The duration of Study 2 was six months.
 
-Study 3 (ClinicalTrials.gov identifier NCT00102440), a one year study, randomized patients to: febuxostat 80 mg daily, febuxostat 120 mg daily, or allopurinol 300 mg daily.
+Study 3 (NCT00102440), a year study, randomized patients to: febuxostat 80 mg daily, febuxostat 120 mg daily, or allopurinol 300 mg daily.
 Patients who completed Study 2 and Study 3 were eligible to enroll in a Phase 3 long-term extension study in which patients received treatment with febuxostat for over three years.
 
 In all three studies, patients received naproxen 250 mg twice daily or colchicine 0.6 mg once or twice daily for gout flare prophylaxis.
 In Study 1 the duration of prophylaxis was six months; in Study 2 and Study 3 the duration of prophylaxis was eight weeks.
 
-The efficacy of febuxostat was also evaluated in a four week dose ranging study which randomized patients to: placebo, febuxostat 40 mg daily, febuxostat 80 mg daily, or febuxostat 120 mg daily.
+The efficacy of febuxostat was also evaluated in a 4-week dose ranging study which randomized patients to: placebo, febuxostat 40 mg daily, febuxostat 80 mg daily, or febuxostat 120 mg daily.
 Patients who completed this study were eligible to enroll in a long-term extension study in which patients received treatment with febuxostat for up to five years.
 
 Patients in these studies were representative of the patient population for which febuxostat use is intended.
@@ -70,7 +70,7 @@ The results in this subgroup of patients are shown in Table 4.
 
 ## 14.2 Cardiovascular Safety Study
 
-A randomized, double-blind, allopurinol-controlled CV outcomes study (CARES) was conducted to evaluate the CV risk of febuxostat.
+A randomized, double-blind, allopurinol-controlled CV outcomes study (CARES) was conducted to evaluate the CV risk of febuxostat (NCT01101035).
 The study compared the risk of MACE between patients treated with febuxostat (N=3098) and allopurinol-treated patients (N=3092).
 The primary endpoint was the time to first occurrence of a MACE defined as the composite of CV death, nonfatal MI, nonfatal stroke, or unstable angina with urgent coronary revascularization.
 The study was designed to exclude a prespecified risk margin of 1.3 for the hazard ratio of MACE.
@@ -85,7 +85,7 @@ The mean age of the population was 65 years (range: 44 to 93 years).
 Most patients were male (84%) and Caucasian (69%).
 Patients had a diagnosis of gout for approximately 12 years, a mean baseline sUA of 8.7 mg/dL, and 90% had experienced at least one gout flare in the past year.
 CV history included MI (39%), hospitalization for unstable angina (28%), cardiac revascularization (37%), and stroke (14%).
-The most prevalent comorbid conditions were hypertension (92%), hyperlipidemia (87%), diabetes mellitus (55%), diabetes mellitus with micro-or macrovascular disease (39%), and renal impairment [92% with an eClcr 30 to 89 mL/minute].
+The most prevalent comorbid conditions were hypertension (92%), hyperlipidemia (87%), diabetes mellitus (55%), diabetes mellitus with micro- or macrovascular disease (39%), and renal impairment [92% with an eClcr 30 to 89 mL/minute].
 The use of CV disease medication was balanced across treatment groups.
 Baseline CV disease medications included: ACE inhibitors or ARBs (70%), lipid modifying agents (74%), aspirin (62%), beta-blockers (59%), calcium channel blockers (26%), and nonaspirin antiplatelet medications (31%).
 
@@ -101,7 +101,7 @@ All-cause mortality was higher in the febuxostat group (243 deaths [7.8%]; 2.6 p
 | Table 5: Patients with MACE in CARES (Cardiovascular Outcomes Study in Patients with Gout) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | FebuxostatN=3098 |  |  | AllopurinolN=3092 |  |  | Hazard Ratio |
-|  | Number of Patients with Event (%) | Rate per 100 PY1 |  | Number of Patients with Event (%) | Rate per 100 PYPatientsYears (PY) |  | 95% Cl |
+|  | Number of Patients with Event (%) | Rate per 100 PY1 |  | Number of Patients with Event (%) | Rate per 100 PYPatient Years (PY) |  | 95% Cl |
 | Composite of primary endpoint MACE | 335 (10.8) |  | 3.8 | 321 (10.4) |  | 3.7 | 1.03 (0.89, 1.21) |
 | Cardiovascular Death | 134 (4.3) |  | 1.5 | 100 (3.2) |  | 1.1 | 1.34 (1.03, 1.73) |
 | Nonfatal MI | 111 (3.6) |  | 1.2 | 118 (3.8) |  | 1.3 | 0.93 (0.72, 1.21) |

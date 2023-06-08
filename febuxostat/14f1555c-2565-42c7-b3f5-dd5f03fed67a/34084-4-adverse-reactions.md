@@ -2,11 +2,9 @@
 
 The following serious adverse reactions are described elsewhere in the prescribing information:
 
-• Cardiovascular Death [see Warnings and Precautions (5.1)]
-
-• Hepatic Effects [see Warnings and Precautions (5.3)]
-
-• Serious Skin Reactions [see Warnings and Precautions (5.4)]
+- •Cardiovascular Death [see Warnings and Precautions (5.1)]
+- •Hepatic Effects [see Warnings and Precautions (5.3)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -19,12 +17,12 @@ In the CARES study, a total of 3098 patients were treated with febuxostat 40 mg 
 
 Most Common Adverse Reactions:
 
-In three randomized, controlled clinical studies (Studies 1, 2 and 3), which were six to 12 months in duration, the following adverse reactions were reported by the treating physician as related to study drug.
+In three randomized, controlled clinical studies (Studies 1, 2 and 3), which were 6 to 12 months in duration, the following adverse reactions were reported by the treating physician as related to study drug.
 Table 1 summarizes adverse reactions reported at a rate of at least 1% in febuxostat treatment groups and at least 0.5% greater than placebo.
 
 | (N=134) | 40 mg daily (N=757) | 80 mg daily (N=1279) | (N=1277) |  |
 | --- | --- | --- | --- | --- |
-| Table 1: Adverse Reactions Occurring in ≥1% of Patients Treated with Febuxostat Tablets and at Least 0.5% Greater than Seen in Patients Receiving Placebo in Controlled Studies |  |  |  |  |
+| Table 1: Adverse Reactions Occurring in ≥1% of Patients Treated with Febuxostat Tablets and at Least 0.5% Greater than in Patients Receiving Placebo in Controlled Studies |  |  |  |  |
 | Adverse Reactions | Placebo | Febuxostat |  | AllopurinolOf the patients who received allopurinol, 10 received 100 mg, 145 received 200 mg, and 1122 received 300 mg, based on level of renal impairment. |
 | Liver Function Abnormalities | 0.7% | 6.6% | 4.6% | 4.2% |
 | Nausea | 0.7% | 1.1% | 1.3% | 0.8% |
@@ -50,7 +48,7 @@ Ear and Labyrinth Disorders: deafness, tinnitus, vertigo.
 
 Eye Disorders: vision blurred.
 
-Gastrointestinal Disorders: abdominal distention, abdominal pain, constipation, dry mouth, dyspepsia, flatulence, frequent stools, gastritis, gastroesophageal reflux disease, gastrointestinal discomfort, gingival pain, haematemesis, hyperchlorhydria, hematochezia, mouth ulceration, pancreatitis, peptic ulcer, vomiting.
+Gastrointestinal Disorders: abdominal distention, abdominal pain, constipation, dry mouth, dyspepsia, flatulence, frequent stools, gastritis, gastroesophageal reflux disease, gastrointestinal discomfort, gingival pain, hematemesis, hyperchlorhydria, hematochezia, mouth ulceration, pancreatitis, peptic ulcer, vomiting.
 
 General Disorders and Administration Site Conditions: asthenia, chest pain/discomfort, edema, fatigue, feeling abnormal, gait disturbance, influenza-like symptoms, mass, pain, thirst.
 
@@ -84,7 +82,7 @@ Laboratory Parameters: activated partial thromboplastin time prolonged, creatine
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of febuxostat.
+The following adverse reactions have been identified during post approval use of febuxostat.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: agranulocytosis, eosinophilia.

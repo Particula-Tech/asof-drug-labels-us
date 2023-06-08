@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
 Febuxostat is a xanthine oxidase inhibitor.
-The active ingredient in Febuxostat Tablets is 2-[3-cyano-4-(2-methylpropoxy) phenyl]-4-methylthiazole-5-carboxylic acid hemihydrate, with a molecular weight of 316.38.
-The empirical formula is C16H16N2O3S.
+The active ingredient in Febuxostat Tablets is 2-[3-cyano-4-(2-methylpropoxy) phenyl]-4-methylthiazole-5-carboxylic acid hemihydrate, with a molecular weight of 325.39.
+The empirical formula is C16H16N2O3S ⸱ ½ H2O.
 
 The chemical structure is:
 
