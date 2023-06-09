@@ -12,7 +12,7 @@
 | Get emergency medical help or call 911 right away if you have: trouble breathing, shortness of breath, fast heartbeat, chest pain, swelling of your face, tongue or throat, extreme drowsiness, light-headedness when changing positions, feeling faint, agitation, high body temperature, trouble walking, stiff muscles, or mental changes such as confusion. |  |
 | These are not all the possible side effects of MS CONTIN. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. For more information, go to dailymed.nlm.nih.gov. Manufactured by: Purdue Pharma L.P., Stamford, CT 06901-3431, www.purduepharma.com or call 1-888-726-7535 |  |
 
-Marketed by: Rhodes Pharmaceuticals L.P., Coventry, RI 02816 US, http://rhodespharma.com, or call 1-888-827-0616.
+Marketed by: Rhodes Pharmaceuticals, Wilson, NC 27893 US, http://rhodespharma.com, or call 1-888-827-0616.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 03/2021
+Revised: 5/2023
