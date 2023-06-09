@@ -1,4 +1,4 @@
-This Instructions for Use contains information on how to take LUMRYZ.
+﻿This Instructions for Use contains information on how to take LUMRYZ.
 Read this Instructions for Use before taking LUMRYZ and each time you get a refill.
 There may be new information.
 
