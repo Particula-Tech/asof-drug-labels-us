@@ -54,7 +54,7 @@ mayne pharma
 
 # PRINCIPAL DISPLAY PANEL - 200 mg Tablet Bottle Label
 
-NDC 68308-716-60
+NDC 68308-716-30
 
 Doxycycline Hyclate Delayed-Release Tablets, USP
 
