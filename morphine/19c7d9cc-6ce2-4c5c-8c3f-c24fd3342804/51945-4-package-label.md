@@ -12,7 +12,7 @@ CII
 
 Rhodes
 
-Rx Only 100 Tablets
+Rx only 100 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
@@ -28,7 +28,7 @@ CII
 
 Rhodes
 
-Rx Only 100 Tablets
+Rx only 100 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
 
@@ -44,7 +44,7 @@ CII
 
 Rhodes
 
-Rx Only 100 Tablets
+Rx only 100 Tablets
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Tablet Bottle Label
 
@@ -58,7 +58,7 @@ CII
 
 100 mg
 
-Rx Only 100 Tablets
+Rx only 100 Tablets
 
 for use in opioid- tolerant patients only
 
@@ -74,6 +74,6 @@ CII
 
 200 mg
 
-Rx Only 100 Tablets
+Rx only 100 Tablets
 
 for use in opioid- tolerant patients only
