@@ -2,51 +2,51 @@
 
 ## 14.1 ADHD Studies in Children and Adolescents
 
-Acute Studies — The effectiveness of atomoxetine hydrochloride in the treatment of ADHD was established in 4 randomized, double-blind, placebo-controlled studies of pediatric patients (ages 6 to 18).
+Acute Studies — The effectiveness of atomoxetine in the treatment of ADHD was established in 4 randomized, double-blind, placebo-controlled studies of pediatric patients (ages 6 to 18).
 Approximately one-third of the patients met DSM-IV criteria for inattentive subtype and two-thirds met criteria for both inattentive and hyperactive/impulsive subtypes.
 
-Signs and symptoms of ADHD were evaluated by a comparison of mean change from baseline to endpoint for atomoxetine hydrochloride- and placebo-treated patients using an intent-to-treat analysis of the primary outcome measure, the investigator administered and scored ADHD Rating Scale-IV-Parent Version (ADHDRS) total score including hyperactive/impulsive and inattentive subscales.
+Signs and symptoms of ADHD were evaluated by a comparison of mean change from baseline to endpoint for atomoxetine- and placebo-treated patients using an intent-to-treat analysis of the primary outcome measure, the investigator administered and scored ADHD Rating Scale-IV-Parent Version (ADHDRS) total score including hyperactive/impulsive and inattentive subscales.
 Each item on the ADHDRS maps directly to one symptom criterion for ADHD in the DSM-IV.
 
 In Study 1, an 8-week randomized, double-blind, placebo-controlled, dose-response, acute treatment study of children and adolescents aged 8 to 18 (N = 297), patients received either a fixed dose of atomoxetine (0.5, 1.2, or 1.8 mg/kg/day) or placebo.
-Atomoxetine hydrochloride was administered as a divided dose in the early morning and late afternoon/early evening.
-At the 2 higher doses, improvements in ADHD symptoms were statistically significantly superior in atomoxetine hydrochloride-treated patients compared with placebo-treated patients as measured on the ADHDRS scale.
+Atomoxetine was administered as a divided dose in the early morning and late afternoon/early evening.
+At the 2 higher doses, improvements in ADHD symptoms were statistically significantly superior in atomoxetine-treated patients compared with placebo-treated patients as measured on the ADHDRS scale.
 The 1.8 mg/kg/day atomoxetine dose did not provide any additional benefit over that observed with the 1.2 mg/kg/day dose.
 The 0.5 mg/kg/day atomoxetine dose was not superior to placebo.
 
-In Study 2, a 6-week randomized, double-blind, placebo-controlled, acute treatment study of children and adolescents aged 6 to 16 (N = 171), patients received either atomoxetine hydrochloride or placebo.
+In Study 2, a 6-week randomized, double-blind, placebo-controlled, acute treatment study of children and adolescents aged 6 to 16 (N = 171), patients received either atomoxetine or placebo.
 Atomoxetine was administered as a single dose in the early morning and titrated on a weight-adjusted basis according to clinical response, up to a maximum dose of 1.5 mg/kg/day.
 The mean final dose of atomoxetine was approximately 1.3 mg/kg/day.
-ADHD symptoms were statistically significantly improved on atomoxetine hydrochloride compared with placebo, as measured on the ADHDRS scale.
-This study shows that atomoxetine hydrochloride is effective when administered once daily in the morning.
+ADHD symptoms were statistically significantly improved on atomoxetine compared with placebo, as measured on the ADHDRS scale.
+This study shows that atomoxetine is effective when administered once daily in the morning.
 
 In 2 identical, 9-week, acute, randomized, double-blind, placebo-controlled studies of children aged 7 to 13 (Study 3, N = 147; Study 4, N = 144), atomoxetine hydrochloride and methylphenidate were compared with placebo.
-Atomoxetine hydrochloride was administered as a divided dose in the early morning and late afternoon (after school) and titrated on a weight-adjusted basis according to clinical response.
+Atomoxetine was administered as a divided dose in the early morning and late afternoon (after school) and titrated on a weight-adjusted basis according to clinical response.
 The maximum recommended atomoxetine dose was 2.0 mg/kg/day.
 The mean final dose of atomoxetine for both studies was approximately 1.6 mg/kg/day.
-In both studies, ADHD symptoms statistically significantly improved more on atomoxetine hydrochloride than on placebo, as measured on the ADHDRS scale.
+In both studies, ADHD symptoms statistically significantly improved more on atomoxetine than on placebo, as measured on the ADHDRS scale.
 
 Examination of population subsets based on gender and age (<12 and 12 to 17) did not reveal any differential responsiveness on the basis of these subgroupings.
 There was not sufficient exposure of ethnic groups other than Caucasian to allow exploration of differences in these subgroups.
 
-Maintenance Study — The effectiveness of atomoxetine hydrochloride in the maintenance treatment of ADHD was established in an outpatient study of children and adolescents (ages 6 to 15 years).
+Maintenance Study — The effectiveness of atomoxetine in the maintenance treatment of ADHD was established in an outpatient study of children and adolescents (ages 6 to 15 years).
 Patients meeting DSM-IV criteria for ADHD who showed continuous response for about 4 weeks during an initial 10 week open-label treatment phase with atomoxetine (1.2 to 1.8 mg/kg/day) were randomized to continuation of their current dose of atomoxetine (N = 292) or to placebo (N = 124) under double-blind treatment for observation of relapse.
 Response during the open-label phase was defined as CGI-ADHD-S score ≤2 and a reduction of at least 25% from baseline in ADHDRS-IV-Parent:Inv total score.
-Patients who were assigned to atomoxetine hydrochloride and showed continuous response for approximately 8 months during the first double-blind treatment phase were again randomized to continuation of their current dose of atomoxetine (N = 81) or to placebo (N = 82) under double-blind treatment for observation of relapse.
+Patients who were assigned to atomoxetine and showed continuous response for approximately 8 months during the first double-blind treatment phase were again randomized to continuation of their current dose of atomoxetine (N = 81) or to placebo (N = 82) under double-blind treatment for observation of relapse.
 Relapse during the double-blind phase was defined as CGI-ADHD-S score increases of at least 2 from the end of open-label phase and ADHDRS-IV-Parent:Inv total score returns to ≥90% of study entry score for 2 consecutive visits.
-In both double-blind phases, patients receiving continued atomoxetine hydrochloride treatment experienced significantly longer times to relapse than those receiving placebo.
+In both double-blind phases, patients receiving continued atomoxetine treatment experienced significantly longer times to relapse than those receiving placebo.
 
 ## 14.2 ADHD Studies in Adults
 
-The effectiveness of atomoxetine hydrochloride in the treatment of ADHD was established in 2 randomized, double-blind, placebo-controlled clinical studies of adult patients, age 18 and older, who met DSM-IV criteria for ADHD.
+The effectiveness of atomoxetine in the treatment of ADHD was established in 2 randomized, double-blind, placebo-controlled clinical studies of adult patients, age 18 and older, who met DSM-IV criteria for ADHD.
 
 Signs and symptoms of ADHD were evaluated using the investigator-administered Conners Adult ADHD Rating Scale Screening Version (CAARS), a 30-item scale.
 The primary effectiveness measure was the 18-item Total ADHD Symptom score (the sum of the inattentive and hyperactivity/impulsivity subscales from the CAARS) evaluated by a comparison of mean change from baseline to endpoint using an intent-to-treat analysis.
 
-In 2 identical, 10-week, randomized, double-blind, placebo-controlled acute treatment studies (Study 5, N = 280; Study 6, N = 256), patients received either atomoxetine hydrochloride or placebo.
-Atomoxetine hydrochloride was administered as a divided dose in the early morning and late afternoon/early evening and titrated according to clinical response in a range of 60 to 120 mg/day.
+In 2 identical, 10-week, randomized, double-blind, placebo-controlled acute treatment studies (Study 5, N = 280; Study 6, N = 256), patients received either atomoxetine or placebo.
+Atomoxetine was administered as a divided dose in the early morning and late afternoon/early evening and titrated according to clinical response in a range of 60 to 120 mg/day.
 The mean final dose of atomoxetine for both studies was approximately 95 mg/day.
-In both studies, ADHD symptoms were statistically significantly improved on atomoxetine hydrochloride, as measured on the ADHD Symptom score from the CAARS scale.
+In both studies, ADHD symptoms were statistically significantly improved on atomoxetine, as measured on the ADHD Symptom score from the CAARS scale.
 
 Examination of population subsets based on gender and age (<42 and ≥42) did not reveal any differential responsiveness on the basis of these subgroupings.
 There was not sufficient exposure of ethnic groups other than Caucasian to allow exploration of differences in these subgroups.

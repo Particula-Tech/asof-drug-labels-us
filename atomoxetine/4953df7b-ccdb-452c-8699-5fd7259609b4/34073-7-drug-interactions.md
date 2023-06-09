@@ -15,11 +15,11 @@ In vitro studies suggest that coadministration of cytochrome P450 inhibitors to 
 
 ## 7.3 Antihypertensive Drugs and Pressor Agents
 
-Because of possible effects on blood pressure, atomoxetine hydrochloride should be used cautiously with antihypertensive drugs and pressor agents (e.g., dopamine, dobutamine) or other drugs that increase blood pressure.
+Because of possible effects on blood pressure, atomoxetine should be used cautiously with antihypertensive drugs and pressor agents (e.g., dopamine, dobutamine) or other drugs that increase blood pressure.
 
 ## 7.4 Albuterol
 
-Atomoxetine hydrochloride should be administered with caution to patients being treated with systemically-administered (oral or intravenous) albuterol (or other beta2 agonists) because the action of albuterol on the cardiovascular system can be potentiated resulting in increases in heart rate and blood pressure.
+Atomoxetine capsules should be administered with caution to patients being treated with systemically-administered (oral or intravenous) albuterol (or other beta2 agonists) because the action of albuterol on the cardiovascular system can be potentiated resulting in increases in heart rate and blood pressure.
 Albuterol (600 mcg iv over 2 hours) induced increases in heart rate and blood pressure.
 These effects were potentiated by atomoxetine (60 mg BID for 5 days) and were most marked after the initial coadministration of albuterol and atomoxetine.
 However, these effects on heart rate and blood pressure were not seen in another study after the coadministration with inhaled dose of albuterol (200 to 800 mcg) and atomoxetine (80 mg QD for 5 days) in 21 healthy Asian subjects who were excluded for poor metabolizer status.
@@ -28,19 +28,19 @@ However, these effects on heart rate and blood pressure were not seen in another
 
 Atomoxetine did not cause clinically important inhibition or induction of cytochrome P450 enzymes, including CYP1A2, CYP3A, CYP2D6, and CYP2C9.
 
-CYP3A Substrate (e.g., Midazolam) — Coadministration of atomoxetine (60 mg BID for 12 days) with midazolam, a model compound for CYP3A4 metabolized drugs (single dose of 5 mg), resulted in 15% increase in AUC of midazolam.
+CYP3A Substrate (e.g., Midazolam) — Coadministration of atomoxetine capsules (60 mg BID for 12 days) with midazolam, a model compound for CYP3A4 metabolized drugs (single dose of 5 mg), resulted in 15% increase in AUC of midazolam.
 No dose adjustment is recommended for drugs metabolized by CYP3A.
 
-CYP2D6 Substrate (e.g., Desipramine) — Coadministration of atomoxetine (40 or 60 mg BID for 13 days) with desipramine, a model compound for CYP2D6 metabolized drugs (single dose of 50 mg), did not alter the pharmacokinetics of desipramine.
+CYP2D6 Substrate (e.g., Desipramine) — Coadministration of atomoxetine capsules (40 or 60 mg BID for 13 days) with desipramine, a model compound for CYP2D6 metabolized drugs (single dose of 50 mg), did not alter the pharmacokinetics of desipramine.
 No dose adjustment is recommended for drugs metabolized by CYP2D6.
 
 ## 7.6 Alcohol
 
-Consumption of ethanol with atomoxetine hydrochloride did not change the intoxicating effects of ethanol.
+Consumption of ethanol with atomoxetine capsules did not change the intoxicating effects of ethanol.
 
 ## 7.7 Methylphenidate
 
-Coadministration of methylphenidate with atomoxetine hydrochloride did not increase cardiovascular effects beyond those seen with methylphenidate alone.
+Coadministration of methylphenidate with atomoxetine capsules did not increase cardiovascular effects beyond those seen with methylphenidate alone.
 
 ## 7.8 Drugs Highly Bound to Plasma Protein
 
@@ -50,4 +50,4 @@ Similarly, these compounds did not affect the binding of atomoxetine to human al
 
 ## 7.9 Drugs that Affect Gastric pH
 
-Drugs that elevate gastric pH (magnesium hydroxide/aluminum hydroxide, omeprazole) had no effect on atomoxetine hydrochloride bioavailability.
+Drugs that elevate gastric pH (magnesium hydroxide/aluminum hydroxide, omeprazole) had no effect on atomoxetine bioavailability.

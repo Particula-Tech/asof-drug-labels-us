@@ -1,13 +1,13 @@
 # WARNING: SUICIDAL IDEATION IN CHILDREN AND ADOLESCENTS
 
-Atomoxetine hydrochloride increased the risk of suicidal ideation in short-term studies in children or adolescents with Attention-Deficit/Hyperactivity Disorder (ADHD).
-Anyone considering the use of atomoxetine hydrochloride in a child or adolescent must balance this risk with the clinical need.
+Atomoxetine increased the risk of suicidal ideation in short-term studies in children or adolescents with Attention-Deficit/Hyperactivity Disorder (ADHD).
+Anyone considering the use of atomoxetine in a child or adolescent must balance this risk with the clinical need.
 Co-morbidities occurring with ADHD may be associated with an increase in the risk of suicidal ideation and/or behavior.
 Patients who are started on therapy should be monitored closely for suicidality (suicidal thinking and behavior), clinical worsening, or unusual changes in behavior.
 Families and caregivers should be advised of the need for close observation and communication with the prescriber.
-Atomoxetine hydrochloride is approved for ADHD in pediatric and adult patients.
-Atomoxetine hydrochloride is not approved for major depressive disorder.
+Atomoxetine is approved for ADHD in pediatric and adult patients.
+Atomoxetine is not approved for major depressive disorder.
 
-Pooled analyses of short-term (6 to 18 weeks) placebo-controlled trials of atomoxetine hydrochloride in children and adolescents (a total of 12 trials involving over 2200 patients, including 11 trials in ADHD and 1 trial in enuresis) have revealed a greater risk of suicidal ideation early during treatment in those receiving atomoxetine hydrochloride compared to placebo.
-The average risk of suicidal ideation in patients receiving atomoxetine hydrochloride was 0.4% (5/1357 patients), compared to none in placebo-treated patients (851 patients).
+Pooled analyses of short-term (6 to 18 weeks) placebo-controlled trials of atomoxetine in children and adolescents (a total of 12 trials involving over 2200 patients, including 11 trials in ADHD and 1 trial in enuresis) have revealed a greater risk of suicidal ideation early during treatment in those receiving atomoxetine compared to placebo.
+The average risk of suicidal ideation in patients receiving atomoxetine was 0.4% (5/1357 patients), compared to none in placebo-treated patients (851 patients).
 No suicides occurred in these trials [see Warnings and Precautions (5.1)].

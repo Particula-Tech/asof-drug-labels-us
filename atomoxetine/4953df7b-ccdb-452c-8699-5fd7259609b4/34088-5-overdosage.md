@@ -2,11 +2,11 @@
 
 ## 10.1 Human Experience
 
-There is limited clinical trial experience with atomoxetine hydrochloride overdose.
-During postmarketing, there have been fatalities reported involving a mixed ingestion overdose of atomoxetine hydrochloride and at least one other drug.
-There have been no reports of death involving overdose of atomoxetine hydrochloride alone, including intentional overdoses at amounts up to 1400 mg.
+There is limited clinical trial experience with atomoxetine overdose.
+During postmarketing, there have been fatalities reported involving a mixed ingestion overdose of atomoxetine and at least one other drug.
+There have been no reports of death involving overdose of atomoxetine alone, including intentional overdoses at amounts up to 1400 mg.
 In some cases of overdose involving atomoxetine hydrochloride, seizures have been reported.
-The most commonly reported symptoms accompanying acute and chronic overdoses of atomoxetine hydrochloride were gastrointestinal symptoms, somnolence, dizziness, tremor, and abnormal behavior.
+The most commonly reported symptoms accompanying acute and chronic overdoses of atomoxetine were gastrointestinal symptoms, somnolence, dizziness, tremor, and abnormal behavior.
 Hyperactivity and agitation have also been reported.
 Signs and symptoms consistent with mild to moderate sympathetic nervous system activation (e.g., tachycardia, blood pressure increased, mydriasis, dry mouth) have also been observed.
 Most events were mild to moderate.

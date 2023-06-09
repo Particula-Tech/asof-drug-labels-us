@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including atomoxetine hydrochloride during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including atomoxetine during pregnancy.
 Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for ADHD Medications at 1-866-961-2388 or visiting https://womensmentalhealth.org/adhd-medications/.
 
 Risk Summary
@@ -44,14 +44,14 @@ Risk Summary There are no data on the presence of atomoxetine or its metabolite 
 Atomoxetine is present in animal milk.
 When a drug is present in animal milk, it is likely that the drug will be present in human milk.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for atomoxetine hydrochloride and any potential adverse effects on the breastfed child from atomoxetine hydrochloride or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for atomoxetine and any potential adverse effects on the breastfed child from atomoxetine hydrochloride or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Anyone considering the use of atomoxetine hydrochloride in a child or adolescent must balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
+Anyone considering the use of atomoxetine in a child or adolescent must balance the potential risks with the clinical need [see Boxed Warning and Warnings and Precautions (5.1)].
 
 The pharmacokinetics of atomoxetine in children and adolescents are similar to those in adults.
-The safety, efficacy, and pharmacokinetics of atomoxetine hydrochloride in pediatric patients less than 6 years of age have not been evaluated.
+The safety, efficacy, and pharmacokinetics of atomoxetine in pediatric patients less than 6 years of age have not been evaluated.
 
 A study was conducted in young rats to evaluate the effects of atomoxetine on growth and neurobehavioral and sexual development.
 Rats were treated with 1, 10, or 50 mg/kg/day (approximately 0.2, 2, and 8 times, respectively, the maximum human dose on a mg/m2 basis) of atomoxetine given by gavage from the early postnatal period (Day 10 of age) through adulthood.
@@ -63,7 +63,7 @@ The significance of these findings to humans is unknown.
 
 ## 8.5 Geriatric Use
 
-The safety, efficacy and pharmacokinetics of atomoxetine hydrochloride in geriatric patients have not been evaluated.
+The safety, efficacy and pharmacokinetics of atomoxetine in geriatric patients have not been evaluated.
 
 ## 8.6 Hepatic Insufficiency
 
@@ -73,7 +73,7 @@ Dosage adjustment is recommended for patients with moderate or severe hepatic in
 ## 8.7 Renal Insufficiency
 
 EM subjects with end stage renal disease had higher systemic exposure to atomoxetine than healthy subjects (about a 65% increase), but there was no difference when exposure was corrected for mg/kg dose.
-Atomoxetine hydrochloride can therefore be administered to ADHD patients with end stage renal disease or lesser degrees of renal insufficiency using the normal dosing regimen.
+Atomoxetine can therefore be administered to ADHD patients with end stage renal disease or lesser degrees of renal insufficiency using the normal dosing regimen.
 
 ## 8.8 Gender
 
@@ -86,7 +86,7 @@ Ethnic origin did not influence atomoxetine disposition (except that PMs are mor
 ## 8.10 Patients with Concomitant Illness
 
 Tics in patients with ADHD and comorbid Tourette’s Disorder — Atomoxetine administered in a flexible dose range of 0.5 to 1.5 mg/kg/day (mean dose of 1.3 mg/kg/day) and placebo were compared in 148 randomized pediatric (age 7 to 17 years) subjects with a DSM-IV diagnosis of ADHD and comorbid tic disorder in an 18 week, double-blind, placebo-controlled study in which the majority (80%) enrolled in this trial with Tourette’s Disorder (Tourette’s Disorder: 116 subjects; chronic motor tic disorder: 29 subjects).
-A non-inferiority analysis revealed that atomoxetine hydrochloride did not worsen tics in these patients as determined by the Yale Global Tic Severity Scale Total Score (YGTSS).
+A non-inferiority analysis revealed that atomoxetine did not worsen tics in these patients as determined by the Yale Global Tic Severity Scale Total Score (YGTSS).
 Out of 148 patients who entered the acute treatment phase, 103 (69.6%) patients discontinued the study.
 The primary reason for discontinuation in both the atomoxetine (38 of 76 patients, 50.0%) and placebo (45 of 72 patients, 62.5%) treatment groups was identified as lack of efficacy with most of the patients discontinuing at Week 12.
 This was the first visit where patients with a CGI-S ≥ 4 could also meet the criteria for “clinical non-responder” (CGI-S remained the same or increased from study baseline) and be eligible to enter an open-label extension study with atomoxetine.

@@ -11,7 +11,7 @@ Symptoms such as these may be associated with an increased risk for suicidal thi
 
 Severe Liver Injury
 
-Patients initiating atomoxetine hydrochloride should be cautioned that severe liver injury may develop.
+Patients initiating atomoxetine should be cautioned that severe liver injury may develop.
 Patients should be instructed to contact their healthcare provider immediately should they develop pruritus, dark urine, jaundice, right upper quadrant tenderness, or unexplained “flu-like” symptoms [see Warnings and Precautions (5.2)].
 
 Screening Patients for Bipolar Disorder
@@ -24,12 +24,12 @@ Instruct patients and their caregivers to contact their healthcare provider as s
 
 Priapism
 
-Rare postmarketing cases of priapism, defined as painful and nonpainful penile erection lasting more than 4 hours, have been reported for pediatric and adult patients treated with atomoxetine hydrochloride.
-The parents or guardians of pediatric patients taking atomoxetine hydrochloride and adult patients taking atomoxetine hydrochloride should be instructed that priapism requires prompt medical attention [see Warnings and Precautions (5.10)].
+Rare postmarketing cases of priapism, defined as painful and nonpainful penile erection lasting more than 4 hours, have been reported for pediatric and adult patients treated with atomoxetine.
+The parents or guardians of pediatric patients taking atomoxetine and adult patients taking atomoxetine should be instructed that priapism requires prompt medical attention [see Warnings and Precautions (5.10)].
 
 Ocular Irritant
 
-Atomoxetine hydrochloride is an ocular irritant.
+Atomoxetine is an ocular irritant.
 Atomoxetine capsules are not intended to be opened.
 In the event of capsule content coming in contact with the eye, the affected eye should be flushed immediately with water, and medical advice obtained.
 Hands and any potentially contaminated surfaces should be washed as soon as possible.
@@ -44,11 +44,11 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Food
 
-Patients may take atomoxetine hydrochloride with or without food.
+Patients may take atomoxetine with or without food.
 
 Missed Dose
 
-If patients miss a dose, they should be instructed to take it as soon as possible, but should not take more than the prescribed total daily amount of atomoxetine hydrochloride in any 24-hour period.
+If patients miss a dose, they should be instructed to take it as soon as possible, but should not take more than the prescribed total daily amount of atomoxetine in any 24-hour period.
 
 Interference with Psychomotor Performance
 
@@ -62,4 +62,4 @@ Zagreb, Croatia
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-N 6/2022
+O 4/2023
