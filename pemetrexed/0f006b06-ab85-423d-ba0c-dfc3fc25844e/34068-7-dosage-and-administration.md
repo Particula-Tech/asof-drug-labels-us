@@ -78,7 +78,7 @@ PEMRYDI RTU is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
 
 - Calculate the dose of PEMRYDI RTU and determine the volume of needed PEMRYDI RTU.
-  Each vial contains an excess of pemetrexed to facilitate delivery of labeled amount.
+  Each vial contains an excess of PEMRYDI RTU to facilitate delivery of labeled amount.
 - Withdraw the calculated dose of PEMRYDI RTU from the vial(s) and discard the vial(s) with any unused portion.
 - Transfer the calculated dose into an empty intravenous bag.
   Do NOT further dilute PEMRYDI RTU.

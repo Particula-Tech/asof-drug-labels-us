@@ -23,8 +23,8 @@ At doses, based on BSA, greater than or equal to 0.0012 times the 500 mg/m2 huma
 
 Risk Summary
 
-There is no information regarding the presence of pemetrexed or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
-Because of the potential for serious adverse reactions in breastfed infants from PEMRYDI RTU, advise women not to breastfeed during treatment with PEMRYDI RTU and for one week after the last dose.
+There is no information regarding the presence of pemetrexed or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
+Because of the potential for serious adverse reactions in a breastfed child from PEMRYDI RTU, advise women not to breastfeed during treatment with PEMRYDI RTU and for one week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 

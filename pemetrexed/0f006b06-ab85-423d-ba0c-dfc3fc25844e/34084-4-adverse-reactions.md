@@ -113,8 +113,6 @@ Table 4: Adverse Reactions Occurring in ≥ 5% of Fully Vitamin-Supplemented Pat
 | Renal |  |  |  |  |
 | Elevated creatinine | 10 | 1 | 7 | 1 |
 | Clinical |  |  |  |  |
-| Constitutional symptoms |  |  |  |  |
-| Fatigue | 43 | 7 | 45 | 5 |
 | Gastrointestinal |  |  |  |  |
 | Nausea | 56 | 7 | 53 | 4 |
 | Vomiting | 40 | 6 | 36 | 6 |
@@ -123,12 +121,14 @@ Table 4: Adverse Reactions Occurring in ≥ 5% of Fully Vitamin-Supplemented Pat
 | Stomatitis/pharyngitis | 14 | 1 | 12 | 0 |
 | Diarrhea | 12 | 1 | 13 | 2 |
 | Dyspepsia/heartburn | 5 | 0 | 6 | 0 |
-| Neurology |  |  |  |  |
-| Sensory neuropathy | 9 | 0 | 12 | 1 |
-| Taste disturbance | 8 | 0 | 9 | 0 |
+| Constitutional symptoms |  |  |  |  |
+| Fatigue | 43 | 7 | 45 | 5 |
 | Dermatology/Skin |  |  |  |  |
 | Alopecia | 12 | 0 | 21 | 1 |
 | Rash/Desquamation | 7 | 0 | 8 | 1 |
+| Neurology |  |  |  |  |
+| Sensory neuropathy | 9 | 0 | 12 | 1 |
+| Taste disturbance | 8 | 0 | 9 | 0 |
 | a NCI CTCAE version 2.0. |  |  |  |  |
 
 The following additional adverse reactions were observed in patients assigned to receive PEMRYDI RTU.
@@ -193,11 +193,11 @@ Table 5: Adverse Reactions Occurring in ≥ 5% of Patients Receiving PEMRYDI RTU
 | Vomiting | 9 | 0 | 1 | 0 |
 | Mucositis/stomatitis | 7 | 1 | 2 | 0 |
 | Diarrhea | 5 | 1 | 3 | 0 |
-| Infection | 5 | 2 | 2 | 0 |
-| Neurology |  |  |  |  |
-| Sensory neuropathy | 9 | 1 | 4 | 0 |
 | Dermatology/Skin |  |  |  |  |
 | Rash/desquamation | 10 | 0 | 3 | 0 |
+| Neurology |  |  |  |  |
+| Sensory neuropathy | 9 | 1 | 4 | 0 |
+| Infection | 5 | 2 | 2 | 0 |
 | a NCI CTCAE version 3.0. |  |  |  |  |
 
 The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell transfusions, and for erythropoiesis stimulating agents (5.9% versus 1.8%) were higher in the PEMRYDI RTU arm compared to the placebo arm.
@@ -319,6 +319,9 @@ Table 7: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Patients Re
 | Increased ALT | 8 | 2 | 1 | 0 |
 | Increased AST | 7 | 1 | 1 | 0 |
 | Clinical |  |  |  |  |
+| Constitutional symptoms |  |  |  |  |
+| Fatigue | 34 | 5 | 36 | 5 |
+| Fever | 8 | 0 | 8 |  |
 | Gastrointestinal |  |  |  |  |
 | Nausea | 31 | 3 | 17 | 2 |
 | Anorexia | 22 | 2 | 24 | 3 |
@@ -326,9 +329,6 @@ Table 7: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Patients Re
 | Stomatitis/pharyngitis | 15 | 1 | 17 | 1 |
 | Diarrhea | 13 | 0 | 24 | 3 |
 | Constipation | 6 | 0 | 4 | 0 |
-| Constitutional symptoms |  |  |  |  |
-| Fatigue | 34 | 5 | 36 | 5 |
-| Fever | 8 | 0 | 8 | 0 |
 | Dermatology/Skin |  |  |  |  |
 | Rash/desquamation | 14 | 0 | 6 | 0 |
 | Pruritus | 7 | 0 | 2 | 0 |
@@ -372,7 +372,7 @@ Study JMCH was not designed to demonstrate a statistically significant reduction
 
 Table 8: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Subgroup of Patients Receiving PEMRYDI RTU/Cisplatin in Study JMCHa
 
-| Adverse Reactionb | PEMRYDI RTU /cisplatin (N=168) |  | Cisplatin (N=163) |  |
+| Adverse Reactionb | PEMRYDI RTU/cisplatin (N=168) |  | Cisplatin (N=163) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | Laboratory |  |  |  |  |
@@ -384,8 +384,6 @@ Table 8: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Subgroup of
 | Elevated creatinine | 11 | 1 | 10 | 1 |
 | Decreased creatinine clearance | 16 | 1 | 18 | 2 |
 | Clinical |  |  |  |  |
-| Eye Disorder |  |  |  |  |
-| Conjunctivitis | 5 | 0 | 1 | 0 |
 | Gastrointestinal |  |  |  |  |
 | Nausea | 82 | 12 | 77 | 6 |
 | Vomiting | 57 | 11 | 50 | 4 |
@@ -396,14 +394,16 @@ Table 8: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Subgroup of
 | Dyspepsia | 5 | 1 | 1 | 0 |
 | Constitutional Symptoms |  |  |  |  |
 | Fatigue | 48 | 10 | 42 | 9 |
-| Metabolism and Nutrition |  |  |  |  |
-| Dehydration | 7 | 4 | 1 | 1 |
-| Neurology |  |  |  |  |
-| Sensory neuropathy | 10 | 0 | 10 | 1 |
-| Taste disturbance | 8 | 0 | 6 | 0 |
 | Dermatology/Skin |  |  |  |  |
 | Rash | 16 | 1 | 5 | 0 |
 | Alopecia | 11 | 0 | 6 | 0 |
+| Neurology |  |  |  |  |
+| Sensory neuropathy | 10 | 0 | 10 | 1 |
+| Taste disturbance | 8 | 0 | 6 | 0 |
+| Metabolism and Nutrition |  |  |  |  |
+| Dehydration | 7 | 4 | 1 | 1 |
+| Eye Disorder |  |  |  |  |
+| Conjunctivitis | 5 | 0 | 1 | 0 |
 | a In Study JMCH, 226 patients received at least one dose of PEMRYDI RTU in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 8 provides the ADRs for subgroup of patients treated with PEMRYDI RTU in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. b NCI CTCAE version 2.0. |  |  |  |  |
 
 The following additional adverse reactions were observed in patients receiving PEMRYDI RTU plus cisplatin:
