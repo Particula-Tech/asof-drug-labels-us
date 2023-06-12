@@ -1,0 +1,9 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+Ivermectin Cream, 1%
+
+45 gm
+
+NDC 70771-1728-4
+
+Rx only

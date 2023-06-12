@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA215210"
+  ],
+  "inn": "ivermectin",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1728-2",
+    "70771-1728-3",
+    "70771-1728-4"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "ivermectin",
+      "name": "ivermectin"
+    }
+  ],
+  "setid": "22e85f9a-0805-47f2-8709-aa6514511b04",
+  "source": "dailymed"
+}
