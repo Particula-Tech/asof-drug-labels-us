@@ -36,6 +36,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Immune system disorders: hypersensitivity reactions (angioedema, pruritus and rash)
 
+Vascular disorders: flushing
+
 Respiratory, thoracic and mediastinal disorders: nasal congestion
 
 Gastrointestinal disorders: Elevations of liver aminotransferases (ALT, AST) and liver injury have been reported with OPSUMIT use; in most cases alternative causes could be identified (heart failure, hepatic congestion, autoimmune hepatitis).

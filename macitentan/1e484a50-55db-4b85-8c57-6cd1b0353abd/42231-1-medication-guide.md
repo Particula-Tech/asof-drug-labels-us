@@ -20,7 +20,7 @@
 | Especially tell your healthcare provider if you take an HIV medicine. |  |  |
 | How should I take OPSUMIT? |  |  |
 | OPSUMIT will be mailed to you by a specialty pharmacy. Your healthcare provider will give you complete details. |  |  |
-| Take OPSUMIT exactly as your healthcare provider tells you to take it. Do not stop taking OPSUMIT unless your healthcare provider tells you.You can take OPSUMIT with or without food.Do not split, crush, or chew OPSUMIT tablets.If you take too much OPSUMIT, call your healthcare provider or go to the nearest hospital emergency room right away.If you miss a dose of OPSUMIT, take it as soon as you remember that day. Take the next dose at your regular time. Do not take 2 doses at the same time to make up for a missed dose. |  |  |
+| Take OPSUMIT exactly as your healthcare provider tells you to take it. Do not stop taking OPSUMIT unless your healthcare provider tells you.You can take OPSUMIT with or without food.If you take too much OPSUMIT, call your healthcare provider or go to the nearest hospital emergency room right away.If you miss a dose of OPSUMIT, take it as soon as you remember that day. Take the next dose at your regular time. Do not take 2 doses at the same time to make up for a missed dose. |  |  |
 | What should I avoid while taking OPSUMIT? |  |  |
 | Do not get pregnant while taking OPSUMIT. See the serious birth defects section of the Medication Guide above called " What is the most important information I should know about OPSUMIT?" If you miss a menstrual period, or think you might be pregnant, call your healthcare provider right away. It is not known if OPSUMIT passes into your breastmilk. You should not breastfeed if you take OPSUMIT. Talk to your healthcare provider about the best way to feed your baby if you take OPSUMIT. |  |  |
 | What are the possible side effects of OPSUMIT? |  |  |
@@ -42,5 +42,5 @@
 | Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, polysorbate 80, povidone, and sodium starch glycolate Type A. The tablets are film-coated with a coating material containing polyvinyl alcohol, soya lecithin, talc, titanium dioxide, and xanthan gum. |  |  |
 | Manufactured for: |  |  |
 | Actelion Pharmaceuticals US, Inc., a Janssen Pharmaceutical Company Titusville, NJ 08560, USA For patent information: www.janssenpatents.com © 2013 – 2019 Actelion Pharmaceuticals US, Inc. All rights reserved. |  |  |
-| JN20220725 |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 07/2022 |
+| JN20230526 |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 05/2023 |

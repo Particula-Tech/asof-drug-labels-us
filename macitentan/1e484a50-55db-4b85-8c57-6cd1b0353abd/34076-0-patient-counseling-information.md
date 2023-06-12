@@ -42,7 +42,3 @@ Fluid Retention
 
 Educate patients on signs of fluid retention.
 Advise patients that they should contact their doctor if they have unusual weight increase or swelling of the ankles or legs.
-
-Administration
-
-Patients should be advised not to split, crush, or chew tablets.
