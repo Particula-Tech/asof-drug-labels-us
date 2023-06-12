@@ -6,7 +6,8 @@ Carcinogenesis and Mutagenesis
 
 Letermovir was not genotoxic in in vitro or in vivo assays, including microbial mutagenesis assays, chromosomal aberration in Chinese hamster ovary cells, and in an in vivo mouse micronucleus study.
 
-Carcinogenicity studies with letermovir have not been conducted.
+Letermovir was not carcinogenic in a 6-month RasH2 transgenic mouse study up to the highest doses tested (150 mg/kg/day in males and 300 mg/kg/day in females).
+Based on a comprehensive assessment of the available toxicology data and the CMV-specific target, letermovir is not expected to be carcinogenic in humans.
 
 Impairment of Fertility
 

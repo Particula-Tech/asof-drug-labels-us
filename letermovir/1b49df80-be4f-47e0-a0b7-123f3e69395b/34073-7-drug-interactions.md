@@ -3,19 +3,19 @@
 ## 7.1 Potential for Other Drugs to Affect PREVYMIS
 
 Letermovir is a substrate of organic anion-transporting polypeptide 1B1/3 (OATP1B1/3) and P-glycoprotein (P-gp) transporters and UDP-glucuronosyltransferase 1A1/3 (UGT1A1/3) enzymes.
-Co-administration of PREVYMIS with drugs that are inhibitors of OATP1B1/3 transporters may result in increases in letermovir plasma concentrations (Table 3).
+Co-administration of PREVYMIS with drugs that are inhibitors of OATP1B1/3 transporters may result in increases in letermovir plasma concentrations (Table 4).
 
 Co-administration of PREVYMIS with inducers of transporters (e.g.
 P-gp) and/or enzymes (e.g.
-UGTs) is not recommended due to the potential for a decrease in letermovir plasma concentrations (see Table 3).
+UGTs) is not recommended due to the potential for a decrease in letermovir plasma concentrations (see Table 4).
 
 ## 7.2 Potential for PREVYMIS to Affect Other Drugs
 
 Co-administration of PREVYMIS with midazolam results in increased midazolam plasma concentrations, indicating that letermovir is a moderate inhibitor of CYP3A [see Clinical Pharmacology (12.3)].
-Co-administration of PREVYMIS with drugs that are CYP3A substrates may result in clinically relevant increases in the plasma concentrations of co-administered CYP3A substrates (Table 3) [see Contraindications (4) and Warnings and Precautions (5.1)].
+Co-administration of PREVYMIS with drugs that are CYP3A substrates may result in clinically relevant increases in the plasma concentrations of co-administered CYP3A substrates (Table 4) [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Letermovir is an inhibitor of OATP1B1/3 transporters.
-Co-administration of PREVYMIS with drugs that are substrates of OATP1B1/3 transporters may result in a clinically relevant increase in plasma concentrations of co-administered OATP1B1/3 substrates (Table 3).
+Co-administration of PREVYMIS with drugs that are substrates of OATP1B1/3 transporters may result in a clinically relevant increase in plasma concentrations of co-administered OATP1B1/3 substrates (Table 4).
 
 The magnitude of CYP3A- and OATP1B1/3-mediated drug interactions on co-administered drugs may be different when PREVYMIS is co-administered with cyclosporine.
 See the prescribing information for cyclosporine for information on drug interactions with cyclosporine.
@@ -24,10 +24,10 @@ See the prescribing information for cyclosporine for information on drug interac
 
 If dose adjustments of concomitant medications are made due to treatment with PREVYMIS, doses should be readjusted after treatment with PREVYMIS is completed.
 
-Table 3 provides a listing of established or potentially clinically significant drug interactions.
+Table 4 provides a listing of established or potentially clinically significant drug interactions.
 The drug interactions described are based on studies conducted with PREVYMIS or are predicted drug interactions that may occur with PREVYMIS [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
-Table 3: Potentially Significant Drug Interactions: Alteration in Dose May Be Recommended Based on Results from Drug Interaction Studies or Predicted InteractionsThis table is not all inclusive.
+Table 4: Potentially Significant Drug Interactions: Alteration in Dose May Be Recommended Based on Results from Drug Interaction Studies or Predicted InteractionsThis table is not all inclusive.
 (Information in the Table Applies to Co-administration of PREVYMIS and the Concomitant Drug without Cyclosporine, Unless Otherwise Indicated)
 
 | Concomitant Drug Class and/or Clearance Pathway: Drug Name | Effect on Concentration↓ =decrease, ↑ =increase | Clinical Comments |

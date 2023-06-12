@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adult CMV-seropositive Recipients [R+] of an Allogeneic Hematopoietic Stem Cell Transplant
+## 14.1 Adult CMV-seropositive Recipients [R+] of an Allogeneic Hematopoietic Stem Cell Transplant (Trial P001)
 
 To evaluate PREVYMIS prophylaxis as a preventive strategy for CMV infection or disease in transplant recipients at high risk for CMV reactivation, the efficacy of PREVYMIS was assessed in a multicenter, double-blind, placebo-controlled Phase 3 Trial (P001, NCT02137772) in adult CMV-seropositive recipients [R+] of an allogeneic hematopoietic stem cell transplant (HSCT).
 Subjects were randomized (2:1) to receive either PREVYMIS at a dose of 480 mg once daily adjusted to 240 mg when co-administered with cyclosporine, or placebo.
@@ -15,7 +15,9 @@ The efficacy population consisted of 325 subjects who received PREVYMIS (includi
 The IV formulation of PREVYMIS was used at investigators' discretion in subjects who were unable to take oral therapy (e.g., unable to tolerate oral intake).
 The median time to starting study drug was 8 days after transplantation.
 Thirty-four percent (34%) of subjects were engrafted at baseline.
-The median age was 55 years (range: 18 to 76 years); 57% were male; 84% were White; 9% were Asian; 2% were Black or African American; and 7% were Hispanic or Latino.
+The median age was 55 years (range: 18 to 76 years).
+57% were male; 84% were White; 9% were Asian; 2% were Black or African American; and 5% were other (American Indian or Alaska Native, multiple, and missing).
+7% were Hispanic or Latino; 89% not Hispanic or Latino; and 4% other (not reported, unknown, and missing).
 
 At baseline, 30% of all subjects had one or more of the following factors associated with increased risk for CMV reactivation (high risk stratum): Human Leukocyte Antigen (HLA)-related donor with at least one mismatch at one of the following three HLA-gene loci: HLA-A, -B or –DR; haploidentical donor; unrelated donor with at least one mismatch at one of the following four HLA-gene loci: HLA-A, -B, -C and -DRB1; use of umbilical cord blood as stem cell source; use of ex vivo T-cell-depleted grafts; Grade 2 or greater Graft-Versus-Host Disease (GVHD) requiring systemic corticosteroids.
 The remaining 70% of subjects did not meet any of these high risk stratum criteria and were therefore included in the low risk stratum.
@@ -30,11 +32,11 @@ The protocol-specified guidance for CMV DNA thresholds for the initiation of PET
 From Week 14 through Week 24, the threshold was >300 copies/mL for both high and low risk strata subjects.
 The Non-Completer=Failure (NC=F) approach was used, where subjects who discontinued from the trial prior to Week 24 post-transplant or had a missing outcome at Week 24 post-transplant were counted as failures.
 
-Efficacy results from Trial P001 are shown in Table 7.
+Efficacy results from Trial P001 are shown in Table 8.
 
-Table 7: Trial P001 Efficacy Results in HSCT Recipients (NC=F Approach, FAS Population) Through Week 24
+Table 8: Trial P001 Incidence of Clinically Significant CMV Infection in HSCT Recipients (NC=F Approach, FAS Population) Through Week 24
 
-| Parameter | Letermovir (N=325) | Placebo (N=170) |
+| Parameter | PREVYMIS (N=325) | Placebo (N=170) |
 | --- | --- | --- |
 | Proportion of subjects who failed prophylaxis | 38% | 61% |
 | Reasons for failuresThe categories of failure are mutually exclusive and based on the hierarchy of categories in the order listed. |  |  |
@@ -43,7 +45,7 @@ Table 7: Trial P001 Efficacy Results in HSCT Recipients (NC=F Approach, FAS Popu
 | CMV end-organ disease | 2% | 2% |
 | Discontinued from study before Week 24Reasons for discontinuation included adverse event, death, lost to follow-up, physician decision, and withdrawal by subject. | 17% | 16% |
 | Missing outcome in Week 24 visit window | 3% | 3% |
-| Stratum-adjusted treatment difference (Letermovir-Placebo)95% CI and p-value for the treatment differences in percent response were calculated using stratum-adjusted Mantel-Haenszel method with the difference weighted by the harmonic mean of sample size per arm for each stratum (high or low risk). |  |  |
+| Stratum-adjusted treatment difference (PREVYMIS-Placebo)95% CI and p-value for the treatment differences in percent response were calculated using stratum-adjusted Mantel-Haenszel method with the difference weighted by the harmonic mean of sample size per arm for each stratum (high or low risk). |  |  |
 | Difference (95% CI) | -23.5 (-32.5, -14.6)p-value <0.0001. |  |
 | Note: FAS=Full analysis set; FAS includes randomized subjects who received at least one dose of study medication, and excludes subjects with detectable CMV DNA at baseline. Approach to handling missing values: Non-Completer=Failure (NC=F) approach. With NC=F approach, failure was defined as all subjects who developed clinically significant CMV infection or prematurely discontinued from the study or had a missing outcome through Week 24 post-transplant visit window. |  |  |
 
@@ -57,4 +59,45 @@ Post-hoc analysis demonstrated that among PREVYMIS-treated subjects, inclusion i
 
 Mortality
 
-The Kaplan-Meier event rate for all-cause mortality in the letermovir vs. placebo groups was 12% vs. 17% at Week 24 post-transplant, and 24% vs. 28% at Week 48 post-transplant.
+The Kaplan-Meier event rate for all-cause mortality in the PREVYMIS vs. placebo groups was 12% vs. 17% at Week 24 post-transplant, and 24% vs. 28% at Week 48 post-transplant.
+
+## 14.2 Adult CMV-seronegative Recipients of a Kidney Transplant from a CMV-seropositive Donor [D+/R-] (Trial P002)
+
+To evaluate PREVYMIS prophylaxis as a preventive strategy for CMV disease in kidney transplant recipients, the efficacy of PREVYMIS was assessed in a multicenter, double-blind, active comparator-controlled non-inferiority Phase 3 trial (P002, NCT03443869) in adult kidney transplant recipients at high risk [D+/R-].
+Subjects were randomized (1:1) to receive either PREVYMIS or valganciclovir.
+PREVYMIS was administered at a dose of 480 mg once daily (adjusted to 240 mg when co-administered with cyclosporine).
+PREVYMIS was given concomitantly with acyclovir.
+Valganciclovir was given concomitantly with a placebo to acyclovir.
+Randomization was stratified by the use or nonuse of highly cytolytic, anti-lymphocyte immunotherapy during induction.
+Study drug was initiated between Day 0 and Day 7 post-kidney transplant and continued through Week 28 (~200 days) post-transplant.
+Study drug was administered either orally or IV; the dose of PREVYMIS was the same regardless of the route of administration.
+Three subjects received IV PREVYMIS for a mean duration of 1.7 days.
+Subjects were monitored through Week 52 post-transplant.
+
+Among the 589 treated subjects, 292 subjects received PREVYMIS and 297 received valganciclovir.
+The median age was 51 years (range: 18 to 82 years); 72% were male; 84% were White; 9% were Black; 3% were multiple; 2% were Asian; 1% Alaskan native or American Indian; 17% were Hispanic or Latino; and 60% received a kidney from a deceased donor.
+The most common primary reasons for transplant were congenital cystic kidney disease (17%), hypertension (16%), and diabetes/diabetic nephropathy (14%).
+
+CMV Disease
+
+The primary efficacy endpoint of Trial P002 was the incidence of CMV disease (CMV end-organ disease or CMV syndrome, confirmed by an independent adjudication committee) through Week 52 post-transplant.
+The Observed Failure (OF) approach was used, where subjects who discontinued prematurely from the study for any reason or were missing data at the timepoint were not counted as failures.
+The number of subjects who discontinued from the study before Week 52 was 32 (11%) in the PREVYMIS arm and 28 (9%) in the valganciclovir arm.
+The number of subjects with a missing outcome in the Week 52 visit window was 24 (8%) in the PREVYMIS arm and 25 (8%) in the valganciclovir arm.
+
+Efficacy results from Trial P002 are shown in Table 9.
+
+Table 9: Trial P002 Incidence of CMV Disease in Kidney Transplant Recipients (OF Approach, FAS Population) Through Week 52
+
+| Parameter | PREVYMIS (N=289) | Valganciclovir (N=297) |
+| --- | --- | --- |
+| CMV DiseaseCMV disease cases confirmed by an independent adjudication committee. Through Week 52 | 10% | 12% |
+| CMV SyndromeDefined as evidence of CMV in blood by viral isolation, rapid culture, antigenemia, or nucleic acid testing, and two or more of the following: 1) fever ≥38°C for at least 2 days, 2) new or increased malaise/fatigue, 3) leukopenia or neutropenia on two separate measurements at least 24 hours apart, 4) ≥5% atypical lymphocytes, 5) thrombocytopenia, 6) elevation of ALT or AST to 2x ULN. | 8% | 11% |
+| CMV End-organ Disease | 2% | <1% |
+| Stratum-adjusted Treatment DifferenceThe 95% CIs for the treatment differences in percent response were calculated using stratum-adjusted Mantel- Haenszel method with the difference weighted by the harmonic mean of sample size per arm for each stratum (use/non-use of highly cytolytic, anti-lymphocyte immunotherapy during induction). (PREVYMIS – Valganciclovir) | -1.4 (-6.5, 3.8)Based on a non-inferiority margin of 10%, PREVYMIS is non-inferior to valganciclovir. |  |
+| Note: Approach to handling missing values: Observed failure (OF) approach. With OF approach, subjects who discontinued from the study before Week 52 or had a missing outcome in the Week 52 visit window were not counted as failures. |  |  |
+
+Efficacy was comparable across all subgroups, including the use/nonuse of highly cytolytic, anti-lymphocyte immunotherapy during induction.
+
+In an exploratory analysis of the incidence of CMV disease through Week 28 post-transplant, the difference (PREVYMIS – Valganciclovir) was -1.7% with 95% CI of (-3.4, 0.1).
+No subjects in the PREVYMIS group experienced CMV disease through Week 28 post-transplant (end of treatment period) compared with 5 subjects in the valganciclovir group.

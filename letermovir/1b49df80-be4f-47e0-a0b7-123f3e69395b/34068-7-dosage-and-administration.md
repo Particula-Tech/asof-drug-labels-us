@@ -16,12 +16,20 @@ PREVYMIS Injection
 ## 2.2 Recommended Dosage for Adult Patients
 
 The recommended dosage of PREVYMIS is 480 mg administered orally or intravenously once daily.
-Initiate PREVYMIS between Day 0 and Day 28 post-transplantation (before or after engraftment), and continue through Day 100 post-transplantation.
+
 Dosage of PREVYMIS should be adjusted when co-administered with cyclosporine [see Dosage and Administration (2.4)].
 
 PREVYMIS injection, which contains hydroxypropyl betadex, should be used only in patients unable to take oral therapy.
 Patients should be switched to oral PREVYMIS as soon as they are able to take oral medications.
 PREVYMIS tablet and injection may be used interchangeably at the discretion of the physician, and no dosage adjustment is necessary when switching formulations.
+
+HSCT
+
+Initiate PREVYMIS between Day 0 and Day 28 post-transplant (before or after engraftment) and continue through Day 100 post-transplant.
+
+Kidney Transplant
+
+Initiate PREVYMIS between Day 0 and Day 7 post-transplant and continue through Day 200 post-transplant.
 
 ## 2.3 Patient Monitoring
 
