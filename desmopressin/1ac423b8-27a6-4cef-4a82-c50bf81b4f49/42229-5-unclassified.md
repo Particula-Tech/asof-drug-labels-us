@@ -8,6 +8,20 @@ Read these instructions before using desmopressin nasal spray, and each time you
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
+Instruction For Assembly of Spray Pump
+
+Assemble desmopressin nasal spray, USP, 0.01% prior to dispensing to the patient, according to the following instructions:
+
+1.
+Open the carton and remove the spray pump and solution bottle.
+
+2.
+Assemble the desmopressin nasal spray solution by unscrewing the white cap from the solution bottle and screwing the spray pump tightly onto the bottle.
+Make sure the protective cap is on the spray pump.
+
+3.
+Return desmopressin nasal spray solution bottle to the carton for dispensing to the patient.
+
 Children should be helped by an adult when using desmopressin nasal spray, to make sure the right amount of medicine is used.
 
 The parts of your desmopressin nasal spray pump (see Figure A):
@@ -73,4 +87,4 @@ Desmopressin Nasal Spray, USP 10 mcg/ 0.1 mL
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
 
-September 2021
+September 2022
