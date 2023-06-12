@@ -2,6 +2,3 @@
 
 DORYX MPC (doxycycline hyclate delayed-release tablets), 60 mg are white, oval tablets containing yellow pellets and debossed with "D6" on one face and plain on the other.
 Each tablet contains doxycycline 60 mg (equivalent to doxycycline hyclate 69.4 mg).
-
-DORYX MPC (doxycycline hyclate delayed-release tablets), 120 mg are white, oval tablets containing yellow pellets and debossed on one face with "DC" and plain on the other.
-Each tablet contains doxycycline 120 mg (equivalent to doxycycline hyclate 138.8 mg).
