@@ -11,5 +11,5 @@ However, corticosteroids are thought to inhibit prostaglandin production through
 
 Loteprednol etabonate is lipid soluble and can penetrate into cells.
 Loteprednol etabonate is synthesized through structural modifications of prednisolone-related compounds so that it will undergo a predictable transformation to an inactive metabolite.
-Based upon in vivoand in vitropreclinical metabolism studies, loteprednol etabonate undergoes extensive metabolism to the inactive carboxylic acid metabolites, PJ-91 and PJ-90.
+Based upon in vivo and in vitro preclinical metabolism studies, loteprednol etabonate undergoes extensive metabolism to the inactive carboxylic acid metabolites, PJ-91 and PJ-90.
 The systemic exposure to loteprednol etabonate following ocular administration of LOTEMAX has not been studied in humans.

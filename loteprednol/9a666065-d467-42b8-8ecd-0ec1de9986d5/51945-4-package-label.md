@@ -9,3 +9,7 @@ loteprednol etabonate ophthalmic gel 0.5%
 Sterile Rx only
 
 5 g
+
+9529903
+
+AB50307
