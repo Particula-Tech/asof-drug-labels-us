@@ -4,24 +4,23 @@
 
 Atorvastatin calcium is a substrate of CYP3A4 and transporters (e.g., OATP1B1/1B3, P-gp, or BCRP).
 Atorvastatin calcium plasma levels can be significantly increased with concomitant administration of inhibitors of CYP3A4 and transporters.
-Table 3 includes a list of drugs that may increase exposure to atorvastatin calcium and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
+Table 2 includes a list of drugs that may increase exposure to atorvastatin calcium and may increase the risk of myopathy and rhabdomyolysis when used concomitantly and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
-Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin Calcium
-
-| Cyclosporine or Gemfibrozil |  |
+| Table 2: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin Calcium |  |
 | --- | --- |
+| Cyclosporine or Gemfibrozil |  |
 | Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of atorvastatin calcium and cyclosporine, an inhibitor of CYP3A4 and OATP1B1 [see Clinical Pharmacology (12.3)]. Gemfibrozil may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine or gemfibrozil with atorvastatin calcium. |
 | Intervention: | Concomitant use of cyclosporine or gemfibrozil with atorvastatin calcium is not recommended. |
 | Anti-Viral Medications |  |
 | Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of atorvastatin calcium with many anti-viral medications, which are inhibitors of CYP3A4 and/or transporters (e.g., BCRP, OATP1B1/1B3, P-gp, MRP2, and/or OAT2) [see Clinical Pharmacology (12.3)]. Cases of myopathy and rhabdomyolysis have been reported with concomitant use of ledipasvir plus sofosbuvir with atorvastatin calcium. |
-| Intervention: | Concomitant use of tipranavir plus ritonavir or glecaprevir plus pibrentasvir with atorvastatin calcium is not recommended.In patients taking lopinavir plus ritonavir, or simeprevir, consider the risk/benefit of concomitant use with atorvastatin.In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir or letermovir, do not exceed atorvastatin calcium 20 mg.In patients taking nelfinavir, do not exceed atorvastatin calcium 40 mg [see Dosage and Administration (2.6)].Consider the risk/benefit of concomitant use of ledipasvir plus sofosbuvir with atorvastatin calcium.Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Intervention: | Concomitant use of tipranavir plus ritonavir or glecaprevir plus pibrentasvir with atorvastatin calcium is not recommended. In patients taking lopinavir plus ritonavir, or simeprevir, consider the risk/benefit of concomitant use with atorvastatin.In patients taking saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir or letermovir, do not exceed atorvastatin calcium 20 mg.In patients taking nelfinavir, do not exceed atorvastatin calcium 40 mg [see Dosage and Administration (2.5)]. Consider the risk/benefit of concomitant use of ledipasvir plus sofosbuvir with atorvastatin calcium.Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
 | Examples: | Tipranavir plus ritonavir, glecaprevir plus pibrentasvir, lopinavir plus ritonavir, simeprevir, saquinavir plus ritonavir, darunavir plus ritonavir, fosamprenavir, fosamprenavir plus ritonavir, elbasvir plus grazoprevir, letermovir, nelfinavir, and ledipasvir plus sofosbuvir. |
 | Select Azole Antifungals or Macrolide Antibiotics |  |
 | Clinical Impact: | Atorvastatin plasma levels were significantly increased with concomitant administration of atorvastatin calcium with select azole antifungals or macrolide antibiotics, due to inhibition of CYP3A4 and/or transporters [see Clinical Pharmacology (12.3)]. |
-| Intervention: | In patients taking clarithromycin or itraconazole, do not exceed atorvastatin calcium 20 mg [see Dosage and Administration (2.6)]. Consider the risk/benefit of concomitant use of other azole antifungals or macrolide antibiotics with atorvastatin calcium. Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
+| Intervention: | In patients taking clarithromycin or itraconazole, do not exceed atorvastatin calcium 20 mg [see Dosage and Administration (2.5)]. Consider the risk/benefit of concomitant use of other azole antifungals or macrolide antibiotics with atorvastatin calcium. Monitor all patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
 | Examples: | Erythromycin, clarithromycin, itraconazole, ketoconazole, posaconazole, and voriconazole. |
 | Niacin |  |
-| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin (>1 gram/day niacin) with atorvastatin calcium. |
+| Clinical Impact: | Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin (≥1 gram/day niacin) with atorvastatin calcium. |
 | Intervention: | Consider if the benefit of using lipid modifying dosages of niacin concomitantly with atorvastatin calcium outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy particularly during initiation of therapy and during upward dose titration of either drug. |
 | Fibrates (other than Gemfibrozil) |  |
 | Clinical Impact: | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with atorvastatin calcium. |
@@ -35,25 +34,23 @@ Table 3: Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyol
 
 ## 7.2 Drug Interactions that may Decrease Exposure to Atorvastatin Calcium
 
-Table 4 presents drug interactions that may decrease exposure to atorvastatin calcium and instructions for preventing or managing them.
+Table 3 presents drug interactions that may decrease exposure to atorvastatin calcium and instructions for preventing or managing them.
 
-Table 4: Drug Interactions that may Decrease Exposure to Atorvastatin Calcium
-
-| Rifampin |  |
+| Table 3: Drug Interactions that may Decrease Exposure to Atorvastatin Calcium |  |
 | --- | --- |
+| Rifampin |  |
 | Clinical Impact: | Concomitant administration of atorvastatin calcium with rifampin, an inducer of cytochrome P450 3A4 and inhibitor of OATP1B1, can lead to variable reductions in plasma concentrations of atorvastatin. Due to the dual interaction mechanism of rifampin, delayed administration of atorvastatin calcium after administration of rifampin has been associated with a significant reduction in atorvastatin plasma concentrations. |
 | Intervention: | Administer atorvastatin calcium and rifampin simultaneously. |
 
 ## 7.3 Atorvastatin Calcium Effects on Other Drugs
 
-Table 5 presents Atorvastatin Calcium’s effect on other drugs and instructions for preventing or managing them.
+Table 4 presents Atorvastatin Calcium’s effect on other drugs and instructions for preventing or managing them.
 
-Table 5: Atorvastatin Calcium Effects on Other Drugs
-
-| Oral Contraceptives |  |
+| Table 4: Atorvastatin Calcium Effects on Other Drugs |  |
 | --- | --- |
+| Oral Contraceptives |  |
 | Clinical Impact: | Coadministration of atorvastatin calcium and an oral contraceptive increased plasma concentrations of norethindrone and ethinyl estradiol [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Consider this when selecting an oral contraceptive for patients taking atorvastatin calcium. |
 | Digoxin |  |
-| Clinical Impact: | When multiple doses of atorvastatin calcium and digoxin were coadministered, steady state plasma digoxin concentrations increased[see Clinical Pharmacology (12.3)]. |
+| Clinical Impact: | When multiple doses of atorvastatin calcium and digoxin were coadministered, steady state plasma digoxin concentrations increased [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Monitor patients taking digoxin appropriately. |

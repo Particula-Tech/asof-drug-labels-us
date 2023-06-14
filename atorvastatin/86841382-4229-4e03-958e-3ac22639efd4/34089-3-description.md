@@ -1,8 +1,6 @@
 # 11 DESCRIPTION
 
-Atorvastatin calcium is a synthetic lipid-lowering agent.
 Atorvastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase.
-This enzyme catalyzes the conversion of HMG-CoA to mevalonate, an early and rate-limiting step in cholesterol biosynthesis.
 
 Atorvastatin calcium, USP is (3R,5R)-7-[2-(4-fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-(propan-2-yl)-1H-pyrrol-1-yl]-3,5-dihydroxyheptanoate calcium trihydrate.
 Its structural formula is:
