@@ -6,7 +6,7 @@
 
 ## 9.2 Abuse
 
-- In a randomized, double-blind, placebo-controlled, abuse-potential study in adults comparing effects of atomoxetine and placebo, Atomoxetine was not associated with a pattern of response that suggested stimulant or euphoriant properties.
+- In a randomized, double-blind, placebo-controlled, abuse-potential study in adults comparing effects of atomoxetine and placebo, atomoxetine was not associated with a pattern of response that suggested stimulant or euphoriant properties.
 
 ## 9.3 Dependence
 
