@@ -1,6 +1,22 @@
 # 6 ADVERSE REACTIONS
 
-The following clinically signification adverse reactions are described elsewhere in the labeling: • Potentially Fatal Reactions to Sulfanamides [see Warnings and Precautions (5.1)] • Serious Skin Reactions [see Warnings and Precautions (5.2)] • Serious Hematological Events [see Warnings and Precautions (5.3)] • Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity [see Warnings and Precautions (5.4)] • Oligohidrosis and Hyperthermia in Pediatric Patients [see Warnings and Precautions (5.5)] • Acute Myopia and Secondary Angle Closure Glaucoma [see Warnings and Precautions (5.6)] • Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)] • Metabolic Acidosis [see Warnings and Precautions (5.8)] • Seizures on Withdrawal of Antiepileptic Drugs [see Warnings and Precautions (5.9)] • Teratogenicity [see Warnings and Precautions (5.10)] • Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.11)] • Hyperammonemia and Encephalopathy [see Warnings and Precautions (5.12)] • Kidney Stones [see Warnings and Precautions (5.13)] • Effect on Renal Function [see Warnings and Precautions (5.14)] • Status Epilepticus [see Warnings and Precautions (5.15)]
+The following clinically signification adverse reactions are described elsewhere in the labeling:
+
+- •Potentially Fatal Reactions to Sulfonamides [see Warnings and Precautions (5.1)]
+- •Serious Skin Reactions [see Warnings and Precautions (5.2)]
+- •Serious Hematologic Events [see Warnings and Precautions (5.3)]
+- •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multi-Organ Hypersensitivity [see Warnings and Precautions (5.4)]
+- •Oligohidrosis and Hyperthermia in Pediatric Patients [see Warnings and Precautions (5.5)]
+- •Acute Myopia and Secondary Angle Closure Glaucoma [see Warnings and Precautions (5.6)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- •Metabolic Acidosis [see Warnings and Precautions (5.8)]
+- •Seizures on Withdrawal of Antiepileptic Drugs [see Warnings and Precautions (5.9)]
+- •Teratogenicity [see Warnings and Precautions (5.10)]
+- •Cognitive/Neuropsychiatric Adverse Reactions [see Warnings and Precautions (5.11)]
+- •Hyperammonemia and Encephalopathy [see Warnings and Precautions (5.12)]
+- •Kidney Stones [see Warnings and Precautions (5.13)]
+- •Effect on Renal Function [see Warnings and Precautions (5.14)]
+- •Status Epilepticus [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -21,55 +37,55 @@ In these studies, either zonisamide or placebo was added to the patient's curren
 Table 2.
 Adverse Reactions that Occurred in at least 2% of Patients Treated with Zonisamide Capsules and More Frequently than in Patients who Received Placebo in Placebo-Controlled, Adjunctive Trials
 
-| BODY SYSTEM/Adverse Reaction | Zonisamide Capsules(n=269)% | Placebo(n=230)% |  |  |
-| --- | --- | --- | --- | --- |
-| BODY AS A WHOLE |  |  |  |  |
-| Headache | 10 | 8 |  |  |
-| Abdominal Pain | 6 | 3 |  |  |
-| Flu Syndrome | 4 | 3 |  |  |
-| DIGESTIVE |  |  |  |  |
-| Anorexia | 13 | 6 |  |  |
-| Nausea | 9 | 6 |  |  |
-| Diarrhea | 5 | 2 |  |  |
-| Dyspepsia | 3 | 1 |  |  |
-| Constipation | 2 | 1 |  |  |
-| Dry Mouth | 2 | 1 |  |  |
-| HEMATOLOGIC AND LYMPHATIC |  |  |  |  |
-| Ecchymosis | 2 | 1 |  |  |
-| METABOLIC AND NUTRITIONAL |  |  |  |  |
-| Weight Loss | 3 | 2 |  |  |
-| NERVOUS SYSTEM |  |  |  |  |
-| Dizziness | 13 | 7 |  |  |
-| Ataxia | 6 | 1 |  |  |
-| Nystagmus | 4 | 2 |  |  |
-| Paresthesia | 4 | 1 |  |  |
-| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-ALTERED COGNITIVE FUNCTION |  |  |  |  |
-| Confusion | 6 | 3 |  |  |
-| Difficulty Concentrating | 6 | 2 |  |  |
-| Difficulty with Memory | 6 | 2 |  |  |
-| Mental Slowing | 4 | 2 |  |  |
-| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-BEHAVIORAL ABNORMALITIES (NON-PSYCHOSIS-RELATED) |  |  |  |  |
-| Agitation/Irritability | 9 | 4 |  |  |
-| Depression | 6 | 3 |  |  |
-| Insomnia | 6 | 3 |  |  |
-| Anxiety | 3 | 2 |  |  |
-| Nervousness | 2 | 1 |  |  |
-| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-BEHAVIORAL ABNORMALITIES (PSYCHOSIS-RELATED) |  |  |  |  |
-| Schizophrenic/Schizophreniform Behavior | 2 | 0 |  |  |
-| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-CNS DEPRESSION |  |  |  |  |
-| Somnolence | 17 | 7 |  |  |
-| Fatigue | 8 | 6 |  |  |
-| Tiredness | 7 | 5 |  |  |
-| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-SPEECH AND LANGUAGE ABNORMALITIES |  |  |  |  |
-| Speech Abnormalities | 5 | 2 |  |  |
-| Difficulties in Verbal Expression | 2 | <1 |  |  |
-| RESPIRATORY |  |  |  |  |
-| Rhinitis | 2 | 1 |  |  |
-| SKIN AND APPENDAGES |  |  |  |  |
-| Rash | 3 | 2 |  |  |
-| SPECIAL SENSES |  |  |  |  |
-| Diplopia | 6 | 3 |  |  |
-| Taste Perversion | 2 | 0 |  |  |
+| BODY SYSTEM/Adverse Reaction | Zonisamide Capsules (n=269) % | Placebo (n=230) % |
+| --- | --- | --- |
+| BODY AS A WHOLE |  |  |
+| Headache | 10 | 8 |
+| Abdominal Pain | 6 | 3 |
+| Flu Syndrome | 4 | 3 |
+| DIGESTIVE |  |  |
+| Anorexia | 13 | 6 |
+| Nausea | 9 | 6 |
+| Diarrhea | 5 | 2 |
+| Dyspepsia | 3 | 1 |
+| Constipation | 2 | 1 |
+| Dry Mouth | 2 | 1 |
+| HEMATOLOGIC AND LYMPHATIC |  |  |
+| Ecchymosis | 2 | 1 |
+| METABOLIC AND NUTRITIONAL |  |  |
+| Weight Loss | 3 | 2 |
+| NERVOUS SYSTEM |  |  |
+| Dizziness | 13 | 7 |
+| Ataxia | 6 | 1 |
+| Nystagmus | 4 | 2 |
+| Paresthesia | 4 | 1 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-ALTERED COGNITIVE FUNCTION |  |  |
+| Confusion | 6 | 3 |
+| Difficulty Concentrating | 6 | 2 |
+| Difficulty with Memory | 6 | 2 |
+| Mental Slowing | 4 | 2 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-BEHAVIORAL ABNORMALITIES (NON-PSYCHOSIS-RELATED) |  |  |
+| Agitation/Irritability | 9 | 4 |
+| Depression | 6 | 3 |
+| Insomnia | 6 | 3 |
+| Anxiety | 3 | 2 |
+| Nervousness | 2 | 1 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-BEHAVIORAL ABNORMALITIES (PSYCHOSIS-RELATED) |  |  |
+| Schizophrenic/Schizophreniform Behavior | 2 | 0 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-CNS DEPRESSION |  |  |
+| Somnolence | 17 | 7 |
+| Fatigue | 8 | 6 |
+| Tiredness | 7 | 5 |
+| NEUROPSYCHIATRIC AND COGNITIVE DYSFUNCTION-SPEECH AND LANGUAGE ABNORMALITIES |  |  |
+| Speech Abnormalities | 5 | 2 |
+| Difficulties in Verbal Expression | 2 | <1 |
+| RESPIRATORY |  |  |
+| Rhinitis | 2 | 1 |
+| SKIN AND APPENDAGES |  |  |
+| Rash | 3 | 2 |
+| SPECIAL SENSES |  |  |
+| Diplopia | 6 | 3 |
+| Taste Perversion | 2 | 0 |
 
 Laboratory Tests
 

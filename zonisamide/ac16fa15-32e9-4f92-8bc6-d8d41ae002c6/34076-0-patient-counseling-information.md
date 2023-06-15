@@ -61,10 +61,13 @@ Lactation
 
 Advise breastfeeding women using ZONISADE to monitor infants for increased sleepiness, decreased appetite, and elevated temperature and to seek medical attention if they notice these signs [see Use in Specific Populations (8.2)].
 
-Manufactured for:
-
-Azurity Pharmaceuticals, Inc.
-
-Wilmington, MA 01887
+Manufactured for: Azurity Pharmaceuticals, Inc. Wilmington, MA 01887
 
 Made in United Kingdom
+
+Patent: https://azurity.com/patents
+
+This product’s labeling may have been updated.
+For current Full Prescribing Information, please visit www.zonisade.com
+
+PN: 65628-00630 REV#: 01 03/23

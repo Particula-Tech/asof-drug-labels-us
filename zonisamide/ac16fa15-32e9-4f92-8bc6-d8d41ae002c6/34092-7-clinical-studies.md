@@ -32,12 +32,11 @@ Median % Reduction in All Partial-Onset Seizures and % Responders in Primary Eff
 | --- | --- | --- | --- | --- |
 |  | Zonisamide Capsules | Placebo | Zonisamide Capsules | Placebo |
 | Study 1: | n=98 | n=72 | n=98 | n=72 |
-| Weeks 8-12: | 40.5%* | 9.0% | 41.8%* | 22.2% |
+| Weeks 8-12: | 40.5%p<0.05 compared to placebo | 9.0% | 41.8% | 22.2% |
 | Study 2: | n=69 | n=72 | n=69 | n=72 |
-| Weeks 5-12: | 29.6%* | -3.2% | 29.0% | 15.0% |
+| Weeks 5-12: | 29.6% | -3.2% | 29.0% | 15.0% |
 | Study 3: | n=67 | n=66 | n=67 | n=66 |
-| Weeks 5-12: | 27.2%* | -1.1% | 28.0%* | 12.0% |
-| * p<0.05 compared to placebo |  |  |  |  |
+| Weeks 5-12: | 27.2% | -1.1% | 28.0% | 12.0% |
 
 Table 4.
 Median % Reduction in All Partial-Onset Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
@@ -46,19 +45,15 @@ Median % Reduction in All Partial-Onset Seizures and % Responders for Dose Analy
 | --- | --- | --- | --- | --- |
 |  | Zonisamide Capsules | Placebo | Zonisamide Capsules | Placebo |
 | 100-400 mg/day: | n=112 | n=83 | n=112 | n=83 |
-| Weeks 1-12: | 32.3%* | 5.6% | 32.1%* | 9.6% |
+| Weeks 1-12: | 32.3%p<0.05 compared to placebo | 5.6% | 32.1% | 9.6% |
 | 100 mg/day: | n=56 | n=80 | n=56 | n=80 |
-| Weeks 1-5: | 24.7%* | 8.3% | 25.0%* | 11.3% |
+| Weeks 1-5: | 24.7% | 8.3% | 25.0% | 11.3% |
 | 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
-| Weeks 2-6: | 20.4%* | 4.0% | 25.5%* | 9.8% |
-| * p<0.05 compared to placebo |  |  |  |  |
+| Weeks 2-6: | 20.4% | 4.0% | 25.5% | 9.8% |
 
 In Figure 1, a positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).
 Thus, in a display of this type, the curve for an effective treatment is shifted to the left of the curve for placebo.
 The proportion of patients achieving any particular level of reduction in seizure rate was consistently higher for the zonisamide groups compared to the placebo groups.
 For example, Figure 1 indicates that approximately 27% of patients treated with zonisamide experienced a 75% or greater reduction, compared to approximately 12% in the placebo groups.
-
-Figure 1.
-Proportion of Patients Achieving Differing Levels of Seizure Reduction in Zonisamide and Placebo Groups in Studies 2 and 3
 
 No differences in efficacy based on age, sex or race, as measured by a change in seizure frequency from baseline, were detected.

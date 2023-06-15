@@ -2,14 +2,14 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry
+### Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs, such as ZONISADE, during pregnancy.
 To provide information regarding the effects of in utero exposure to ZONISADE, physicians are advised to recommend that pregnant patients taking ZONISADE enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
-Risk Summary
+### Risk Summary
 
 Based on findings from animal studies, ZONISADE may cause fetal harm when administered to a pregnant woman.
 Zonisamide causes metabolic acidosis in humans [see Warnings and Precautions (5.8)].
@@ -25,7 +25,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the general U.S. population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Dose Adjustments During Pregnancy and the Postpartum Period
 
@@ -43,7 +43,7 @@ Fetal/Neonatal Adverse Reactions
 Newborns of mothers treated with zonisamide should be monitored for metabolic acidosis because of transfer of zonisamide to the fetus and possible occurrence of transient metabolic acidosis following birth.
 Transient metabolic acidosis has been reported in neonates born to mothers treated during pregnancy with a different carbonic anhydrase inhibitor.
 
-Data
+### Data
 
 Human Data
 
@@ -80,7 +80,7 @@ The no-effect dose (30 mg/kg/day) for adverse peri- and postnatal developmental 
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 Zonisamide is readily transferred to human milk, with a reported milk-to-plasma ratio ranging between 0.7 to 0.9 in the published lactation studies.
 There are no published reports of adverse effects on the breastfed infant exposed to zonisamide during breastfeeding.
@@ -91,14 +91,14 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Contraception
+### Contraception
 
 Females
 
 Based on animal data, zonisamide can cause fetal harm when administered to a pregnant woman [see Warnings and Precautions (5.10)].
 Advise females of reproductive potential to use effective contraception during treatment with ZONISADE and for one month after discontinuation.
 
-Infertility
+### Infertility
 
 Females
 

@@ -1,5 +1,16 @@
-# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+# PRINCIPAL DISPLAY PANEL - Carton Label
 
-ZONISADE, 100mg/5mL - NDC 52652-8001-1 - 150 mL Bottle Label
+NDC 52652-8001-1
 
-ZONISADE, 100mg/5mL - NDC 52652-8001-1 - 150mL Carton Label
+ZONISADE® (zonisamide oral suspension)
+
+100 mg/5 mL
+
+FOR ORAL USE ONLY SHAKE WELL BEFORE USE
+
+150 mL Rx Only
+
+ATTENTION PHARMACIST: Dispense Medication Guide to each patient.
+Medication Guide available at: zonisade.com/medication-guide.pdf
+
+azurity® pharmaceuticals
