@@ -9,4 +9,4 @@ Doses higher than 10 mg once daily have not been studied in patients with PAH an
 
 Obtain a pregnancy test in females of reproductive potential prior to OPSUMIT treatment, monthly during treatment and one month after stopping OPSUMIT.
 Initiate treatment with OPSUMIT in females of reproductive potential only after a negative pregnancy test.
-[see Boxed Warning, Contraindications (4.1), Warnings and Precautions (5.1), Use in Specific Populations (8.3)].
+[see Boxed Warning, Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.3)].

@@ -5,7 +5,7 @@
 Risk Summary
 
 Based on data from animal reproduction studies, OPSUMIT may cause embryo-fetal toxicity, including birth defects and fetal death, when administered to a pregnant female and is contraindicated during pregnancy.
-There are risks to the mother and the fetus associated with pulmonary arterial hypertension in pregnancy (see Clinical Considerations).
+There are risks to the mother and the fetus associated with pulmonary arterial hypertension in pregnancy [see Clinical Considerations].
 There are limited data on OPSUMIT use in pregnant women.
 Macitentan was teratogenic in rabbits and rats at all doses tested.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, advise the patient of the risk to a fetus [see Contraindications (4.1)].

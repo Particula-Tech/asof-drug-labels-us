@@ -45,6 +45,6 @@ Endothelin receptor antagonists have been associated with elevations of aminotra
 
 General disorders and administration site conditions: edema/fluid retention.
 Cases of edema and fluid retention occurred within weeks of starting OPSUMIT, some requiring intervention with a diuretic, fluid management or hospitalization for decompensated heart failure.
-[see Warnings and Precautions (5.4)]
+[see Warnings and Precautions (5.4)].
 
 Cardiac disorders: symptomatic hypotension

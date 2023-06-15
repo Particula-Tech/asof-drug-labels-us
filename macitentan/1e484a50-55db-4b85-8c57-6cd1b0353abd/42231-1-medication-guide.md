@@ -10,8 +10,8 @@
 | See the chart below for Acceptable Birth Control Options during treatment with OPSUMIT. |  |  |
 | Do not have unprotected sex. Talk to your healthcare provider or pharmacist right away if you have unprotected sex or if you think your birth control has failed. Your healthcare provider may talk with you about using emergency birth control.Tell your healthcare provider right away if you miss a menstrual period or think you may be pregnant. |  |  |
 | If you are the parent or caregiver of a female child who started taking OPSUMIT before reaching puberty, you should check your child regularly to see if she is developing signs of puberty. Tell your healthcare provider right away if you notice that she is developing breast buds or any pubic hair. Your healthcare provider should decide if your child has reached puberty. Your child may reach puberty before having her first menstrual period. |  |  |
-| Females can only receive OPSUMIT through a restricted program called the OPSUMIT Risk Evaluation and Mitigation Strategy (REMS) Program. If you are a female who can get pregnant, you must talk to your healthcare provider, understand the benefits and risks of OPSUMIT, and agree to all of the instructions in the OPSUMIT REMS Program. |  |  |
-| Males can receive OPSUMIT without taking part in the OPSUMIT REMS Program. |  |  |
+| Females can only receive OPSUMIT through a restricted program called the Macitentan Risk Evaluation and Mitigation Strategy (REMS) Program. If you are a female who can get pregnant, you must talk to your healthcare provider, understand the benefits and risks of OPSUMIT, and agree to all of the instructions in the Macitentan REMS Program. |  |  |
+| Males can receive OPSUMIT without taking part in the Macitentan REMS Program. |  |  |
 | What is OPSUMIT? |  |  |
 | OPSUMIT is a prescription medicine used to treat pulmonary arterial hypertension (PAH), which is high blood pressure in the arteries of your lungs.OPSUMIT can improve your ability to exercise, improve some of your symptoms, and help slow down the progression of your disease. OPSUMIT can also lower your chance of being hospitalized for PAH.It is not known if OPSUMIT is safe and effective in children. |  |  |
 | Who should not take OPSUMIT? |  |  |
@@ -40,7 +40,5 @@
 | What are the ingredients in OPSUMIT? |  |  |
 | Active ingredient: macitentan |  |  |
 | Inactive ingredients: lactose monohydrate, magnesium stearate, microcrystalline cellulose, polysorbate 80, povidone, and sodium starch glycolate Type A. The tablets are film-coated with a coating material containing polyvinyl alcohol, soya lecithin, talc, titanium dioxide, and xanthan gum. |  |  |
-| Manufactured for: |  |  |
-| Actelion Pharmaceuticals US, Inc., a Janssen Pharmaceutical Company Titusville, NJ 08560, USA For patent information: www.janssenpatents.com © 2013 – 2019 Actelion Pharmaceuticals US, Inc. All rights reserved. |  |  |
-| JN20230526 |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 05/2023 |
+| Manufactured for: Actelion Pharmaceuticals US, Inc., a Janssen Pharmaceutical Company Titusville, NJ 08560, USA For patent information: www.janssenpatents.com © 2013 – 2019 Actelion Pharmaceuticals US, Inc. All rights reserved. |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised: 06/2023 |
