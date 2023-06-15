@@ -2,18 +2,18 @@
 
 The most serious adverse reactions from docetaxel are:
 
-- Toxic Deaths [see Boxed Warning, Warnings and Precautions (5.1)]
-- Hepatic Impairment [see Boxed Warning, Warnings and Precautions (5.2)]
-- Hematologic Effects [see Boxed Warning, Warnings and Precautions (5.3)]
-- Enterocolitis and Neutropenic Colitis [see Warnings and Precautions (5.4)]
-- Hypersensitivity Reactions [see Boxed Warning, Warnings and Precautions (5.5)]
-- Fluid Retention [see Boxed Warning, Warnings and Precautions (5.6)]
-- Second Primary Malignancies [see Warnings and Precautions (5.7)]
-- Cutaneous Reactions [see Warnings and Precautions (5.8)]
-- Neurologic Reactions [see Warnings and Precautions (5.9)]
-- Eye Disorders [see Warnings and Precautions (5.10)]
-- Asthenia [see Warnings and Precautions (5.11)]
-- Alcohol Content [see Warnings and Precautions (5.13)]
+- •Toxic Deaths [see Boxed Warning, Warnings and Precautions (5.1)]
+- •Hepatic Impairment [see Boxed Warning, Warnings and Precautions (5.2)]
+- •Hematologic Effects [see Boxed Warning, Warnings and Precautions (5.3)]
+- •Enterocolitis and Neutropenic Colitis [see Warnings and Precautions (5.4)]
+- •Hypersensitivity Reactions [see Boxed Warning, Warnings and Precautions (5.5)]
+- •Fluid Retention [see Boxed Warning, Warnings and Precautions (5.6)]
+- •Second Primary Malignancies [see Warnings and Precautions (5.7)]
+- •Cutaneous Reactions [see Warnings and Precautions (5.8)]
+- •Neurologic Reactions [see Warnings and Precautions (5.9)]
+- •Eye Disorders [see Warnings and Precautions (5.10)]
+- •Asthenia [see Warnings and Precautions (5.11)]
+- •Alcohol Content [see Warnings and Precautions (5.13)]
 
 The most common adverse reactions across all docetaxel indications are infections, neutropenia, anemia, febrile neutropenia, hypersensitivity, thrombocytopenia, neuropathy, dysgeusia, dyspnea, constipation, anorexia, nail disorders, fluid retention, asthenia, pain, nausea, diarrhea, vomiting, mucositis, alopecia, skin reactions, and myalgia.
 Incidence varies depending on the indication.
@@ -37,9 +37,9 @@ The safety profile is generally similar in patients receiving docetaxel for the 
 
 Table 3: Summary of Adverse Reactions in Patients Receiving Docetaxel at 100 mg/m2
 
-| n=2045 % | n=61 % | n=965 % |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | All Tumor Types Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN | All Tumor Types Elevated LFTsElevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN | Breast Cancer Normal LFTs |
+| --- | --- | --- | --- |
+| n=2045 % | n=61 % | n=965 % |  |
 | Hematologic |  |  |  |
 | Neutropenia |  |  |  |
 | <2000 cells/mm3 | 96 | 96 | 99 |
@@ -167,9 +167,9 @@ In the following tables, adverse drug reactions are compared for three populatio
 
 Table 4: Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
-| Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN n=730 % | Elevated LFTsElevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN n=18 % | Normal LFTs n=174 % |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | Docetaxel 100 mg/m2 |  | Docetaxel 60 mg/m2 |
+| --- | --- | --- | --- |
+| Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN n=730 % | Elevated LFTsElevated Baseline LFTs: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN n=18 % | Normal LFTs n=174 % |  |
 | Neutropenia |  |  |  |
 | Any <2000 cells/mm3 | 98 | 100 | 95 |
 | Grade 4 <500 cells/mm3 | 84 | 94 | 75 |
@@ -188,9 +188,9 @@ Table 4: Hematologic Adverse Reactions in Breast Cancer Patients Previously Trea
 
 Table 5: Non-Hematologic Adverse Reactions in Breast Cancer Patients Previously Treated with Chemotherapy Treated at Docetaxel 100 mg/m2 with Normal or Elevated Liver Function Tests or 60 mg/m2 with Normal Liver Function Tests
 
-| Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN n=730 % | Elevated LFTsElevated Baseline Liver Function: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN n=18 % | Normal LFTs n=174 % |  |
-| --- | --- | --- | --- |
 | Adverse Reaction | Docetaxel 100 mg/m2 |  | Docetaxel 60 mg/m2 |
+| --- | --- | --- | --- |
+| Normal LFTsNormal Baseline LFTs: Transaminases ≤1.5 times ULN or alkaline phosphatase ≤2.5 times ULN or isolated elevations of transaminases or alkaline phosphatase up to 5 times ULN n=730 % | Elevated LFTsElevated Baseline Liver Function: AST and/or ALT >1.5 times ULN concurrent with alkaline phosphatase >2.5 times ULN n=18 % | Normal LFTs n=174 % |  |
 | Acute Hypersensitivity Reaction Regardless of Premedication |  |  |  |
 | Any | 13 | 6 | 1 |
 | Severe | 1 | 0 | 0 |
@@ -227,9 +227,9 @@ The following table presents treatment-emergent adverse reactions observed in 74
 
 Table 6: Clinically Important Treatment-Emergent Adverse Reactions Regardless of Causal Relationship in Patients Receiving Docetaxel in Combination with Doxorubicin and Cyclophosphamide (TAX316)
 
-| Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
-| --- | --- | --- | --- | --- |
 |  | Docetaxel 75 mg/m2 + Doxorubicin 50 mg/m2 + Cyclophosphamide 500 mg/m2 (TAC) n=744 % |  | Fluorouracil 500 mg/m2 + Doxorubicin 50 mg/m2 + Cyclophosphamide 500 mg/m2 (FAC) n=736 % |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | Anemia | 92 | 4 | 72 | 2 |
 | Neutropenia | 71 | 66 | 82 | 49 |
 | Fever in absence of infection | 47 | 1 | 17 | 0 |
@@ -409,9 +409,9 @@ Adverse reactions were described using the NCI Common Toxicity Criteria except w
 
 Table 8: Adverse Reactions Regardless of Relationship to Treatment in Chemotherapy-Naïve Advanced Non-small Cell Lung Cancer Patients Receiving Docetaxel in Combination with Cisplatin
 
-| Adverse Reaction | n=406 % | n=396 % |
-| --- | --- | --- |
 |  | Docetaxel 75 mg/m2 + Cisplatin 75 mg/m2 | Vinorelbine 25 mg/m2 + Cisplatin 100 mg/m2 |
+| --- | --- | --- |
+| Adverse Reaction | n=406 % | n=396 % |
 | Neutropenia |  |  |
 | Any | 91 | 90 |
 | Grade 3/4 | 74 | 78 |
@@ -493,9 +493,9 @@ The following data are based on the experience of 332 patients, who were treated
 
 Table 9: Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with Prostate Cancer who Received Docetaxel in Combination with Prednisone (TAX327)
 
-| Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
-| --- | --- | --- | --- | --- |
 |  | Docetaxel 75 mg/m2 every 3 weeks + prednisone 5 mg twice daily n=332 % |  | Mitoxantrone 12 mg/m2 every 3 weeks + prednisone 5 mg twice daily n=335 % |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Any | Grade 3/4 | Any | Grade 3/4 |
 | Anemia | 67 | 5 | 58 | 2 |
 | Neutropenia | 41 | 32 | 48 | 22 |
 | Thrombocytopenia | 3 | 1 | 8 | 1 |
@@ -533,9 +533,9 @@ Data in the following table are based on the experience of 221 patients with adv
 
 Table 10: Clinically Important Treatment-Emergent Adverse Reactions Regardless of Relationship to Treatment in the Gastric Cancer Study
 
-| Adverse Reaction | Any % | Grade 3/4 % | Any % | Grade 3/4 % |
-| --- | --- | --- | --- | --- |
 |  | Docetaxel Injection 75 mg/m2 +cisplatin 75 mg/m2 +fluorouracil 750 mg/m2 n=221 |  | Cisplatin 100 mg/m2 + fluorouracil 1000 mg/m2 n=224 |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Any % | Grade 3/4 % | Any % | Grade 3/4 % |
 | Anemia | 97 | 18 | 93 | 26 |
 | Neutropenia | 96 | 82 | 83 | 57 |
 | Fever in the absence of infection | 36 | 2 | 23 | 1 |
@@ -577,10 +577,10 @@ The treatment regimens are described in Section 14.6.
 
 Table 11: Clinically Important Treatment-Emergent Adverse Reactions (Regardless of Relationship) in Patients with SCCHN Receiving Induction Chemotherapy with Docetaxel Injection in Combination with Cisplatin and Fluorouracil Followed by Radiotherapy (TAX323) or Chemoradiotherapy (TAX324)
 
-| Adverse Reaction (by Body System) | Any % | Grade 3/4 % | Any % | Grade 3/4 % | Any % | Grade 3/4 % | Any % | Grade 3/4 % |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | TAX323 (n=355) |  |  |  | TAX324 (n=494) |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Docetaxel Injection arm (n=174) |  | Comparator arm (n=181) |  | Docetaxel Injection arm (n=251) |  | Comparator arm (n=243) |  |
+| Adverse Reaction (by Body System) | Any % | Grade 3/4 % | Any % | Grade 3/4 % | Any % | Grade 3/4 % | Any % | Grade 3/4 % |
 | Neutropenia | 93 | 76 | 87 | 53 | 95 | 84 | 84 | 56 |
 | Anemia | 89 | 9 | 88 | 14 | 90 | 12 | 86 | 10 |
 | Thrombocytopenia | 24 | 5 | 47 | 18 | 28 | 4 | 31 | 11 |
@@ -646,7 +646,7 @@ Hepatic: hepatitis, sometimes fatal, primarily in patients with pre-existing liv
 Hypersensitivity: anaphylactic shock with fatal outcome in patients who received premedication.
 Severe hypersensitivity reactions with fatal outcome with docetaxel in patients who previously experienced hypersensitivity reactions to paclitaxel.
 
-Metabolism and Nutrition Disorders: electrolyte imbalance, including hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia.
+Metabolism and nutrition disorders: electrolyte imbalance, including hyponatremia, hypokalemia, hypomagnesemia, and hypocalcemia.
 Tumor lysis syndrome, sometimes fatal.
 
 Neurologic: confusion, seizures or transient loss of consciousness, sometimes appearing during the infusion of the drug.
@@ -660,6 +660,6 @@ Radiation pneumonitis in patients receiving concomitant radiotherapy.
 
 Renal: renal insufficiency and renal failure, the majority of cases were associated with concomitant nephrotoxic drugs.
 
-Second Primary Malignancies: second primary malignancies, including AML, MDS, NHL, and renal cancer [see Warnings and Precautions (5.7)].
+Second primary malignancies: second primary malignancies, including AML, MDS, NHL, and renal cancer [see Warnings and Precautions (5.7)].
 
 Musculoskeletal Disorder: myositis.

@@ -15,16 +15,13 @@ The following table summarizes the study results (see Table 12).
 
 Table 12: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Anthracycline-Containing Regimen (Intent-to-Treat Analysis)
 
-| Efficacy Parameter | Docetaxel (n=203) | Mitomycin/Vinblastine (n=189) | p-value |
+| Efficacy Parameter | Docetaxel(n=203) | Mitomycin/Vinblastine(n=189) | p-value |
 | --- | --- | --- | --- |
-| Median Survival | 11.4 months | 8.7 months | p=0.01 Log Rank |
-| Risk RatioFor the risk ratio, a value less than 1.00 favors docetaxel., Mortality (Docetaxel: Control) | 0.73 |  |  |
-| 95% CI (Risk Ratio) | 0.58–0.93 |  |  |
-| Median Time to Progression | 4.3 months | 2.5 months | p=0.01 Log Rank |
-| Risk Ratio, Progression (Docetaxel: Control) | 0.75 |  |  |
-| 95% CI (Risk Ratio) | 0.61–0.94 |  |  |
-| Overall Response Rate | 28.1% | 9.5% | p<0.0001 |
-| Complete Response Rate | 3.4% | 1.6% | Chi Square |
+| Median Survival | 11.4 months | 8.7 months | p=0.01Log Rank |
+| Risk RatioFor the risk ratio, a value less than 1.00 favors docetaxel., Mortality(Docetaxel: Control)95% CI (Risk Ratio) | 0.730.58-0.93 |  |  |
+| Median Time to Progression | 4.3 months | 2.5 months | p=0.01Log Rank |
+| Risk Ratio,Progression(Docetaxel: Control)95% CI (Risk Ratio) | 0.75 0.61-0.94 |  |  |
+| Overall Response Rate Complete Response Rate | 28.1%3.4% | 9.5%1.6% | p<0.0001Chi Square |
 
 In a second randomized trial, patients previously treated with an alkylating-containing regimen were assigned to treatment with docetaxel (100 mg/m2) or doxorubicin (75 mg/m2) every 3 weeks.
 One hundred sixty-one patients were randomized to docetaxel and 165 patients to doxorubicin.
@@ -35,16 +32,13 @@ The study results are summarized below (see Table 13).
 
 Table 13: Efficacy of Docetaxel in the Treatment of Breast Cancer Patients Previously Treated with an Alkylating-Containing Regimen (Intent-to-Treat Analysis)
 
-| Efficacy Parameter | Docetaxel (n=161) | Doxorubicin (n=165) | p-value |
+| Efficacy Parameter | Docetaxel(n=161) | Doxorubicin(n=165) | p-value |
 | --- | --- | --- | --- |
-| Median Survival | 14.7 months | 14.3 months | p=0.39 Log Rank |
-| Risk RatioFor the risk ratio, a value less than 1.00 favors docetaxel., Mortality (Docetaxel: Control) | 0.89 |  |  |
-| 95% CI (Risk Ratio) | 0.68–1.16 |  |  |
-| Median Time to Progression | 6.5 months | 5.3 months | p=0.45 Log Rank |
-| Risk Ratio, Progression (Docetaxel: Control) 95% | 0.93 |  |  |
-| CI (Risk Ratio) | 0.71–1.16 |  |  |
-| Overall Response Rate | 45.3% | 29.7% | p=0.004 |
-| Complete Response Rate | 6.8% | 4.2% | Chi Square |
+| Median Survival | 14.7 months | 14.3 months | p=0.39Log Rank |
+| Risk RatioFor the risk ratio, a value less than 1.00 favors docetaxel., Mortality(Docetaxel: Control)95% CI (Risk Ratio) | 0.890.68-1.16 |  |  |
+| Median Time to Progression | 6.5 months | 5.3 months | p=0.45Log Rank |
+| Risk Ratio, Progression(Docetaxel: Control)95% CI (Risk Ratio) | 0.930.71-1.16 |  |  |
+| Overall Response RateComplete Response Rate | 45.3%6.8% | 29.7%4.2% | p=0.004Chi Square |
 
 In another multicenter open-label, randomized trial (TAX313), in the treatment of patients with advanced breast cancer who progressed or relapsed after one prior chemotherapy regimen, 527 patients were randomized to receive docetaxel monotherapy 60 mg/m2 (n=151), 75 mg/m2 (n=188) or 100 mg/m2 (n=188).
 In this trial, 94% of patients had metastatic disease and 79% had received prior anthracycline therapy.
@@ -84,9 +78,9 @@ The following table describes the results of subgroup analyses for DFS and OS (s
 
 Table 14: Subset Analyses-Adjuvant Breast Cancer Study
 
-| Patient subset | Number of patients | Hazard ratioA hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
-| --- | --- | --- | --- | --- | --- |
 |  |  | Disease Free Survival |  | Overall Survival |  |
+| --- | --- | --- | --- | --- | --- |
+| Patient subset | Number of patients | Hazard ratioA hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. | 95% CI | Hazard ratio | 95% CI |
 | No. of positive nodes |  |  |  |  |  |
 | Overall | 744 | 0.74 | (0.60, 0.92) | 0.69 | (0.53, 0.90) |
 | 1–3 | 467 | 0.64 | (0.47, 0.87) | 0.45 | (0.29, 0.70) |
@@ -116,9 +110,9 @@ The efficacy data for the docetaxel 75 mg/m2 arm and the comparator arms are sum
 
 Table 15: Efficacy of Docetaxel in the Treatment of Non-small Cell Lung Cancer Patients Previously Treated with a Platinum-Based Chemotherapy Regimen (Intent-to-Treat Analysis)
 
-|  | Docetaxel 75 mg/m2 n=55 | Best Supportive Care n=49 | Docetaxel 75 mg/m2 n=125 | Control (V/IVinorelbine/Ifosfamide) n=123 |
-| --- | --- | --- | --- | --- |
 |  | TAX317 |  | TAX320 |  |
+| --- | --- | --- | --- | --- |
+|  | Docetaxel 75 mg/m2 n=55 | Best Supportive Care n=49 | Docetaxel 75 mg/m2 n=125 | Control (V/IVinorelbine/Ifosfamide) n=123 |
 | Overall Survival |  |  |  |  |
 | Log-rank Test | p=0.01 |  | p=0.13 |  |
 | Risk Ratioa value less than 1.00 favors docetaxel, Mortality |  |  |  |  |
@@ -177,9 +171,9 @@ Table 17: Response and TTP Analysis of Docetaxel in Combination Therapy for Chem
 The safety and efficacy of docetaxel in combination with prednisone in patients with metastatic castration-resistant prostate cancer were evaluated in a randomized multicenter active control trial.
 A total of 1006 patients with Karnofsky Performance Status (KPS) ≥60 were randomized to the following treatment groups:
 
-- Docetaxel 75 mg/m2 every 3 weeks for 10 cycles.
-- Docetaxel 30 mg/m2 administered weekly for the first 5 weeks in a 6-week cycle for 5 cycles.
-- Mitoxantrone 12 mg/m2 every 3 weeks for 10 cycles.
+- • Docetaxel 75 mg/m2 every 3 weeks for 10 cycles.
+- • Docetaxel 30 mg/m2 administered weekly for the first 5 weeks in a 6-week cycle for 5 cycles.
+- • Mitoxantrone 12 mg/m2 every 3 weeks for 10 cycles.
 
 All 3 regimens were administered in combination with prednisone 5 mg twice daily, continuously.
 
@@ -270,7 +264,7 @@ Table 20: Efficacy of Docetaxel Injection in the Induction Treatment of Patients
 | 0.006 |  |  |
 | Best overall response (CR + PR) to study treatment [chemotherapy +/- radiotherapy] (%) (95% CI) p-value | 72.3 (65.1–78.8) | 58.6 (51.0–65.8) |
 | 0.006 |  |  |
-| A hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil |  |  |
+| A Hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil |  |  |
 
 | Figure 8 -TAX323 Progression-Free Survival K-M Curve |
 | --- |
@@ -290,7 +284,7 @@ During radiotherapy, carboplatin (AUC 1.5) was given weekly as a one-hour intrav
 Radiation was delivered with megavoltage equipment using once daily fractionation (2 Gy per day, 5 days per week for 7 weeks for a total dose of 70–72 Gy).
 Surgery on the primary site of disease and/or neck could be considered at anytime following completion of CRT.
 
-The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p = 0.0058) with the Docetaxel Injection-containing regimen compared to PF [median OS: 70.6 versus 30.1 months respectively, hazard ratio (HR) = 0.70, 95% confidence interval (CI) = 0.54–0.90].
+The primary efficacy endpoint, overall survival (OS), was significantly longer (log-rank test, p = 0.0058) with the Docetaxel Injection-containing regimen compared to PF [median OS: 70.6 vs. 30.1 months, respectively, hazard ratio (HR) = 0.70, 95% confidence interval (CI) = 0.54–0.90].
 Overall survival results are presented in Table 21 and Figure 10.
 
 Table 21: Efficacy of Docetaxel Injection in the Induction Treatment of Patients with Locally Advanced SCCHN (Intent-to-Treat Analysis)
@@ -299,7 +293,7 @@ Table 21: Efficacy of Docetaxel Injection in the Induction Treatment of Patients
 | --- | --- | --- |
 | Median overall survival (months) (95% CI) | 70.6 (49.0–NE) | 30.1 (20.9–51.5) |
 | Hazard ratio: (95% CI) unadjusted log-rank testp-value | 0.70 (0.54–0.90) 0.0058 |  |
-| A hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil NE - not estimable |  |  |
+| A Hazard ratio of less than 1 favors Docetaxel Injection+cisplatin+fluorouracil NE - not estimable |  |  |
 
 | Figure 10 - TAX324 Overall Survival K-M Curve |
 | --- |
