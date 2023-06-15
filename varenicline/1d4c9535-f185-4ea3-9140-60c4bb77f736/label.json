@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216723"
+  ],
+  "inn": "varenicline",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1613-6",
+    "70710-1614-6"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "varenicline",
+      "name": "Varenicline"
+    }
+  ],
+  "setid": "1d4c9535-f185-4ea3-9140-60c4bb77f736",
+  "source": "dailymed"
+}

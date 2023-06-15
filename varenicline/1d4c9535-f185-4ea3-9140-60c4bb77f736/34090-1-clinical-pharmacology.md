@@ -1,0 +1,110 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Varenicline binds with high affinity and selectivity at α4β2 neuronal nicotinic acetylcholine receptors.
+The efficacy of varenicline in smoking cessation is believed to be the result of varenicline's activity at α4β2 sub-type of the nicotinic receptor where its binding produces agonist activity, while simultaneously preventing nicotine binding to these receptors.
+
+Electrophysiology studies in vitro and neurochemical studies in vivo have shown that varenicline binds to α4β2 neuronal nicotinic acetylcholine receptors and stimulates receptor-mediated activity, but at a significantly lower level than nicotine.
+Varenicline blocks the ability of nicotine to activate α4β2 receptors and thus to stimulate the central nervous mesolimbic dopamine system, believed to be the neuronal mechanism underlying reinforcement and reward experienced upon smoking.
+Varenicline is highly selective and binds more potently to α4β2 receptors than to other common nicotinic receptors (> 500-fold α3β4, > 3,500-fold α7, > 20,000-fold α1βγδ) or to non- nicotinic receptors and transporters (> 2,000-fold).
+Varenicline also binds with moderate affinity (Ki=350 nM) to the 5-HT3 receptor.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+Maximum plasma concentrations of varenicline occur typically within 3 hours to 4 hours after oral administration.
+Following administration of multiple oral doses of varenicline, steady-state conditions were reached within 4 days.
+Over the recommended dosing range, varenicline exhibits linear pharmacokinetics after single or repeated doses.
+
+In a mass balance study, absorption of varenicline was virtually complete after oral administration and systemic availability was ~90%.
+
+Food Effect
+
+Oral bioavailability of varenicline is unaffected by food or time-of-day dosing.
+
+Distribution
+
+Plasma protein binding of varenicline is low (≤ 20%) and independent of both age and renal function.
+
+Elimination
+
+The elimination half-life of varenicline is approximately 24 hours.
+
+Metabolism
+
+Varenicline undergoes minimal metabolism, with 92% excreted unchanged in the urine.
+
+Excretion
+
+Renal elimination of varenicline is primarily through glomerular filtration along with active tubular secretion possibly via the organic cation transporter, OCT2.
+
+Specific Populations
+
+There are no clinically meaningful differences in varenicline pharmacokinetics due to age, race, gender, smoking status or use of concomitant medications, as demonstrated in specific pharmacokinetic studies and in population pharmacokinetic analyses.
+
+Age: Geriatric Patients
+
+A combined single- and multiple-dose pharmacokinetic study demonstrated that the pharmacokinetics of 1 mg varenicline given once daily or twice daily to 16 healthy elderly male and female smokers (aged 65 years to 75 years) for 7 consecutive days was similar to that of younger subjects.
+
+Age: Pediatric Patients
+
+Varenicline is not recommended for use in pediatric patients 16 years of age or younger because its efficacy in this population was not demonstrated [see Use in Specific Populations (8.4)].
+
+Renal Impairment
+
+Varenicline pharmacokinetics were unchanged in subjects with mild renal impairment (estimated creatinine clearance > 50 mL/min and ≤ 80 mL/min).
+In subjects with moderate renal impairment (estimated creatinine clearance ≥ 30 mL/min and ≤ 50 mL/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 mL/min).
+In subjects with severe renal impairment (estimated creatinine clearance < 30 mL/min), varenicline exposure was increased 2.1-fold.
+In subjects with end-stage-renal disease (ESRD) undergoing a three-hour session of hemodialysis for three days a week, varenicline exposure was increased 2.7-fold following 0.5 mg once daily administration for 12 days.
+The plasma Cmax and AUC of varenicline noted in this setting were similar to those of healthy subjects receiving 1 mg twice daily [see Dosage and Administration (2.2), Use in Specific Populations (8.6)].
+Additionally, in subjects with ESRD, varenicline was efficiently removed by hemodialysis [see Overdosage (10)].
+
+Hepatic Impairment
+
+Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
+
+Drug-Drug Interactions
+
+In vitro studies demonstrated that varenicline does not inhibit the following cytochrome P450 enzymes (IC50 > 6,400 ng/mL): 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 and 3A4/5.
+Also, in human hepatocytes in vitro, varenicline does not induce the cytochrome P450 enzymes 1A2 and 3A4.
+
+In vitro studies demonstrated that varenicline does not inhibit human renal transport proteins at therapeutic concentrations.
+Therefore, drugs that are cleared by renal secretion (e.g., metformin [see below]) are unlikely to be affected by varenicline.
+
+In vitro studies demonstrated the active renal secretion of varenicline is mediated by the human organic cation transporter OCT2.
+Co-administration with inhibitors of OCT2 (e.g., cimeditine [see below]) may not necessitate a dose adjustment of varenicline as the increase in systemic exposure to varenicline is not expected to be clinically meaningful.
+Furthermore, since metabolism of varenicline represents less than 10% of its clearance, drugs known to affect the cytochrome P450 system are unlikely to alter the pharmacokinetics of varenicline [see Clinical Pharmacology (12.3)]; therefore, a dose adjustment of varenicline would not be required.
+
+Drug interaction studies were performed with varenicline and digoxin, warfarin, transdermal nicotine, bupropion, cimetidine and metformin.
+No clinically meaningful pharmacokinetic drug-drug interactions have been identified.
+
+Metformin
+
+When co-administered to 30 smokers, varenicline (1 mg twice daily) did not alter the steady-state pharmacokinetics of metformin (500 mg twice daily), which is a substrate of OCT2.
+Metformin had no effect on varenicline steady-state pharmacokinetics.
+
+Cimetidine
+
+Co-administration of an OCT2 inhibitor, cimetidine (300 mg four times daily), with varenicline (2 mg single dose) to 12 smokers increased the systemic exposure of varenicline by 29% (90% CI: 21.5%, 36.9%) due to a reduction in varenicline renal clearance.
+
+Digoxin
+
+Varenicline (1 mg twice daily) did not alter the steady-state pharmacokinetics of digoxin administered as a 0.25 mg daily dose in 18 smokers.
+
+Warfarin
+
+Varenicline (1 mg twice daily) did not alter the pharmacokinetics of a single 25 mg dose of (R, S)-warfarin in 24 smokers.
+Prothrombin time (INR) was not affected by varenicline.
+Smoking cessation itself may result in changes to warfarin pharmacokinetics [see Drug Interactions (7.2)].
+
+Use with Other Drugs for Smoking Cessation
+
+Bupropion
+
+Varenicline (1 mg twice daily) did not alter the steady-state pharmacokinetics of bupropion (150 mg twice daily) in 46 smokers [see Drug Interactions (7.1)].
+
+NRT
+
+Although co-administration of varenicline (1 mg twice daily) and transdermal nicotine (21 mg/day) for up to 12 days did not affect nicotine pharmacokinetics, the incidence of adverse reactions was greater for the combination than for NRT alone [see Drug Interactions (7.1)].
