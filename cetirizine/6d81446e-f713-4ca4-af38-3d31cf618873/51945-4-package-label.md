@@ -10,6 +10,4 @@ Cetirizine Hydrochloride Oral Solution USP,
 
 FOR ORAL USE ONLY
 
-Rx only
-
-TARO
+Rx only TARO
