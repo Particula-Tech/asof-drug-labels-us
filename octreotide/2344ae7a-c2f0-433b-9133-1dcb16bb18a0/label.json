@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA216807"
+  ],
+  "inn": "octreotide",
+  "labeler": "Gland Pharma Limited",
+  "package_ndcs": [
+    "68083-515-01",
+    "68083-516-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "octreotide acetate",
+      "name": "Octreotide Acetate"
+    }
+  ],
+  "setid": "2344ae7a-c2f0-433b-9133-1dcb16bb18a0",
+  "source": "dailymed"
+}
