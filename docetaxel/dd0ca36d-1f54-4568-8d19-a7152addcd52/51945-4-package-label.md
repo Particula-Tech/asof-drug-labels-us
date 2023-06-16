@@ -2,52 +2,49 @@
 
 Winthrop A SANOFI COMPANY
 
-NDC 0955-1021-04
+NDC 0955-1021-04 Rx only
 
-Docetaxel Injection Concentrate
+Docetaxel Injection
 
 80 mg/4 mL (20 mg/mL)
 
 READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
 
-Contains 4 mL
+One 4 mL single-dose vial.
+Discard unused portion.
 
-Rx ONLY
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Vial Carton
 
 Winthrop A SANOFI COMPANY
 
-NDC 0955-1020-01
+NDC 0955-1020-01 Rx only
 
-Docetaxel Injection Concentrate
+Docetaxel Injection
 
 20 mg/mL
 
 READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
 
-Contains 1 mL
+One 1 mL single-dose vial.
+Discard unused portion.
 
-Rx ONLY
-
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 8 mL Vial Carton
 
 Winthrop A SANOFI COMPANY
 
-NDC 0955-1022-08
+NDC 0955-1022-08 Rx only
 
-Docetaxel Injection Concentrate
+Docetaxel Injection
 
 160 mg/8 mL (20 mg/mL)
 
 READY TO ADD TO INFUSION SOLUTION For Intravenous Infusion Only
 
-Contains 8 mL
+One 8 mL single-dose vial.
+Discard unused portion.
 
-Rx ONLY
-
-SANOFI
+sanofi
