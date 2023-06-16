@@ -47,6 +47,6 @@
 | Figure K | Step 6. Rinse your mouth. See Figure K. •Rinse your mouth with water after you have used the inhaler and spit the water out. Do not swallow the water. |
 | Important Note: When should you get a refill? |  |
 | Figure L | •When you have fewer than 10 doses remaining in your inhaler, the left half of the counter shows red as a reminder to get a refill. See Figure L.•After you have inhaled the last dose, the counter will show “0” and will be empty.•Throw the empty inhaler away in your household trash out of reach of children and pets. |
-| For more information about TRELEGY ELLIPTA or how to use your inhaler, call 1-888-825-5249 or visit our website at www.trelegy.com. Trademarks are owned by or licensed to the GSK group of companies.GlaxoSmithKline, Durham, NC 27701©2020 GSK group of companies or its licensor.TRL:4IFU |  |
+| For more information about TRELEGY ELLIPTA or how to use your inhaler, call 1-888-825-5249 or visit our website at www.trelegy.com. Trademarks are owned by or licensed to the GSK group of companies.GlaxoSmithKline, Durham, NC 27701©2022 GSK group of companies or its licensor.TRL:4IFU |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: December 2022

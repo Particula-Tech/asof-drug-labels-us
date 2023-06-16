@@ -143,7 +143,7 @@ Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate 
 Figure 2.
 Impact of Intrinsic Factors on the Pharmacokinetics (PK) of Fluticasone Furoate (FF), Umeclidinium (UMEC), and Vilanterol (VI) following Coadministration in Asthmaa
 
-a Age, ethnicity, and gender comparison for TRELEGY ELLIPTA 200/62.5/25 mcg in subjects with ashtma
+a Age, ethnicity, and gender comparison for TRELEGY ELLIPTA 200/62.5/25 mcg in subjects with asthma.
 
 Figure 3.
 Impact of Intrinsic Factorsa and Coadministered Drugsb on the Pharmacokinetics (PK) of Fluticasone Furoate (FF) and Vilanterol (VI) following Administration as Fluticasone Furoate/Vilanterol Combination or following Vilanterol Coadministered with Umeclidinium

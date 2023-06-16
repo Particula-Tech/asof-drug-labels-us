@@ -2,7 +2,7 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 0173-0887-10
 
-Trelegy ELLIPTA
+TRELEGY ELLIPTA
 
 (fluticasone furoate, umeclidinium, and vilanterol inhalation powder)
 
@@ -18,12 +18,15 @@ Each blister on the other strip contains 62.5 mcg of umeclidinium, 25 mcg of vil
 
 1 ELLIPTA Inhaler containing 30 doses (60 blisters total)
 
+GSK
+
 Made in UK
 
-©2018 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
-1. 10000000149452 Rev.
-   7/18
+1. 62000000086001 Rev.
+   2/23
+2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -45,9 +48,12 @@ Each blister on the other strip contains 62.5 mcg of umeclidinium, 25 mcg of vil
 
 1 ELLIPTA Inhaler containing 30 doses (60 blisters total)
 
+GSK
+
 Made in UK
 
-©2020 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
-1. 62000000055048 Rev.
-   9/20
+1. 62000000085952 Rev.
+   2/23
+2. 

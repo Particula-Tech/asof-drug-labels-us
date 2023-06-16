@@ -90,13 +90,33 @@ In addition to adverse reactions reported from clinical trials, the following ad
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 These events have been chosen for inclusion due to either their seriousness, frequency of reporting, or causal connection to TRELEGY ELLIPTA or a combination of these factors.
 
-Immune System Disorders
+Cardiac Disorders
 
-Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria.
+Palpitations
 
 Eye Disorders
 
-Blurred vision, eye pain, glaucoma.
+Blurred vision, eye pain, glaucoma, and intraocular pressure increase
+
+Immune System Disorders
+
+Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria
+
+Metabolism and Nutrition Disorders
+
+Hyperglycemia
+
+Musculoskeletal and Connective Tissue Disorders
+
+Muscle spasms
+
+Nervous System Disorders
+
+Tremor
+
+Psychiatric Disorders
+
+Anxiety
 
 Renal and Urinary Disorders
 
