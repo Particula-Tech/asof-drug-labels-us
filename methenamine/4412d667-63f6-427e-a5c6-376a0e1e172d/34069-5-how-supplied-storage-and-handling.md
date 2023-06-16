@@ -10,8 +10,10 @@ Manufactured for:
 
 Ingenus Pharmaceuticals, LLC
 
-Orlando, FL 32839-6408
+Orlando, FL 32811
 
-553501
+Rx Only
 
-Revised: 12/2020
+553502
+
+Revised: 01/2023
