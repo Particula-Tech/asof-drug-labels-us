@@ -107,8 +107,6 @@ Table17:TheEffectofOtherDrugsonthePharmacokineticsofQuetiapine
 In vitro enzyme inhibition data suggest that quetiapine and 9 of its metabolites would have little inhibitory effect on in vivo metabolism mediated by cytochromes CYP 1A2, 2C9, 2C19, 2D6 and 3A4.
 Quetiapine at doses of 750 mg/day did not affect the single dose pharmacokinetics of antipyrine, lithium or lorazepam (Table 18) [see DRUG INTERACTIONS (7.2)].
 
-Table 18: The Effect of Quetiapine on the Pharmacokinetics of Other Drugs
-
 | Coadministered Drug | Dose Schedules |  | Effect on Other Drugs Pharmacokinetics |
 | --- | --- | --- | --- |
 |  | Coadministered Drug | Quetiapine |  |

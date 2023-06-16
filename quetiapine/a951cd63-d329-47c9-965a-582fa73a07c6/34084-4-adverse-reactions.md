@@ -63,8 +63,6 @@ The cited figures, however, do provide the prescribing physician with some basis
 
 Table 9 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during acute therapy of schizophrenia (up to 6 weeks) and bipolar mania (up to 12 weeks) in 2% or more of patients treated with quetiapine (doses ranging from 75 to 800 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
-Table 9: Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical Trials for the Treatment of Schizophrenia and Bipolar Mania (Monotherapy)
-
 | Preferred Term | Quetiapine (n=719) | Placebo (n=404) |
 | --- | --- | --- |
 | Headache | 21% | 14% |
@@ -95,8 +93,6 @@ Table 9: Adverse Reaction Incidence in 3- to 12-Week Placebo-Controlled Clinical
 In the acute adjunct therapy of bipolar mania (up to 3 weeks) studies, the most commonly observed adverse reactions associated with the use of quetiapine (incidence of 5% or greater) and observed at a rate on quetiapine at least twice that of placebo were somnolence (34%), dry mouth (19%), asthenia (10%), constipation (10%), abdominal pain (7%), postural hypotension (7%), pharyngitis (6%), and weight gain (6%).
 
 Table 10 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 3 weeks) of acute mania in 2% or more of patients treated with quetiapine (doses ranging from 100 to 800 mg/day) used as adjunct therapy to lithium and divalproex where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
-
-Table 10: Adverse Reaction Incidence in 3-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Mania (Adjunct Therapy)
 
 | Preferred Term | Quetiapine (n=196) | Placebo (n=203) |
 | --- | --- | --- |
@@ -142,11 +138,9 @@ In bipolar depression studies (up to 8 weeks), the most commonly observed advers
 
 Table 11 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred during therapy (up to 8 weeks) of bipolar depression in 2% or more of patients treated with quetiapine (doses of 300 and 600 mg/day) where the incidence in patients treated with quetiapine was greater than the incidence in placebo-treated patients.
 
-Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trials for the Treatment of Bipolar Depression
-
 | Preferred Term | Quetiapine (n=698) | Placebo (n=347) |
 | --- | --- | --- |
-| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation | 57% | 15% |
+| Somnolence1 | 57% | 15% |
 | Dry Mouth | 44% | 13% |
 | Dizziness | 18% | 7% |
 | Constipation | 10% | 4% |
@@ -178,6 +172,7 @@ Table 11: Adverse Reaction Incidence in 8-Week Placebo-Controlled Clinical Trial
 | Hypoesthesia | 2% | 1% |
 | Dysphagia | 2% | 0% |
 | Restless Legs Syndrome | 2% | 0% |
+| 1 Somnolence combines adverse reaction terms somnolence and sedation |  |  |
 
 Explorations for interactions on the basis of gender, age, and race did not reveal any clinically meaningful differences in the adverse reaction occurrence on the basis of these demographic factors.
 
@@ -211,8 +206,6 @@ Data from one 6-week clinical trial of schizophrenia comparing five fixed doses 
 Three methods were used to measure EPS: (1) Simpson-Angus total score (mean change from baseline) which evaluates Parkinsonism and akathisia, (2) incidence of spontaneous complaints of EPS (akathisia, akinesia, cogwheel rigidity, extrapyramidal syndrome, hypertonia, hypokinesia, neck rigidity, and tremor), and (3) use of anticholinergic medications to treat emergent EPS.
 
 In Table 12, dystonic event included nuchal rigidity, hypertonia, dystonia, muscle rigidity, oculogyration; parkinsonism included cogwheel rigidity, tremor, drooling, hypokinesia; akathisia included akathisia, psychomotor agitation; dyskinetic event included tardive dyskinesia, dyskinesia, choreoathetosis; and other extrapyramidal event included restlessness, extrapyramidal disorder, movement disorder.
-
-Table 12: Adverse Reactions Associated with EPS in a Short-Term, Placebo-Controlled Multiple Fixed-Dose Phase III Schizophrenia Trial (6 weeks duration)
 
 | Preferred Term | Quetiapine 75 mg/day (N=53) |  | Quetiapine 150 mg/day (N=48) |  | Quetiapine 300 mg/day (N=52) |  | Quetiapine 600 mg/day (N=51) |  | Quetiapine 750 mg/day (N=54) |  | Placebo (N=51) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -269,14 +262,12 @@ Table 13 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Adverse reactions that were potentially dose-related with higher frequency in the 800 mg group compared to the 400 mg group included dizziness (8% vs. 15%), dry mouth (4% vs. 10%), and tachycardia (6% vs. 11%).
 
-Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Trial for the Treatment of Schizophrenia in Adolescent Patients
-
 | Preferred Term | Quetiapine 400 mg (n=73) | Quetiapine 800 mg (n=74) | Placebo (n=75) |
 | --- | --- | --- | --- |
-| SomnolenceSomnolence combines adverse reaction terms somnolence and sedation. | 33% | 35% | 11% |
+| Somnolence1 | 33% | 35% | 11% |
 | Dizziness | 8% | 15% | 5% |
 | Dry Mouth | 4% | 10% | 1% |
-| TachycardiaTachycardia combines adverse reaction terms tachycardia and sinus tachycardia. | 6% | 11% | 0% |
+| Tachycardia2 | 6% | 11% | 0% |
 | Irritability | 3% | 5% | 0% |
 | Arthralgia | 1% | 3% | 0% |
 | Asthenia | 1% | 3% | 1% |
@@ -288,6 +279,8 @@ Table 13: Adverse Reaction Incidence in a 6-Week Placebo-Controlled Clinical Tri
 | Dyskinesia | 3% | 0% | 0% |
 | Epistaxis | 3% | 0% | 1% |
 | Muscle Rigidity | 3% | 0% | 0% |
+| 1 Somnolence combines adverse reaction terms somnolence and sedation. |  |  |  |
+| 2 Tachycardia combines adverse reaction terms tachycardia and sinus tachycardia. |  |  |  |
 
 Bipolar I Mania (Children and Adolescents 10 to 17 years old):
 
@@ -301,16 +294,14 @@ Table 14 enumerates the incidence, rounded to the nearest percent, of adverse re
 
 Adverse reactions that were potentially dose-related with higher frequency in the 600 mg group compared to the 400 mg group included somnolence (50% vs. 57%), nausea (6% vs. 10%) and tachycardia (6% vs. 9%).
 
-Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for the Treatment of Bipolar Mania in Children and Adolescent Patients
-
 | Preferred Term | Quetiapine 400 mg (n=95) | Quetiapine 600 mg (n=98) | Placebo (n=90) |
 | --- | --- | --- | --- |
-| SomnolenceSomnolence combines adverse reactions terms somnolence and sedation. | 50% | 57% | 14% |
+| Somnolence1 | 50% | 57% | 14% |
 | Dizziness | 19% | 17% | 2% |
 | Nausea | 6% | 10% | 4% |
 | Fatigue | 14% | 9% | 4% |
 | Increased Appetite | 10% | 9% | 1% |
-| TachycardiaTachycardia combines adverse reaction terms tachycardia and sinus tachycardia. | 6% | 9% | 1% |
+| Tachycardia2 | 6% | 9% | 1% |
 | Dry Mouth | 7% | 7% | 0% |
 | Vomiting | 8% | 7% | 3% |
 | Nasal Congestion | 3% | 6% | 2% |
@@ -332,6 +323,8 @@ Table 14: Adverse Reactions in a 3-Week Placebo-Controlled Clinical Trial for th
 | Paraesthesia | 2% | 0% | 0% |
 | Sinus Congestion | 3% | 0% | 0% |
 | Thirst | 2% | 0% | 0% |
+| 1 Somnolence combines adverse reactions terms somnolence and sedation. |  |  |  |
+| 2 Tachycardia combines adverse reaction terms tachycardia and sinus tachycardia. |  |  |  |
 
 Extrapyramidal Symptoms
 
@@ -353,12 +346,13 @@ In Tables 15 to 16 dystonic event included nuchal rigidity, hypertonia, and musc
 
 Table 16 presents a listing of patients with adverse reactions associated with extrapyramidal symptoms in a short-term placebo-controlled monotherapy trial in children and adolescent patients with bipolar mania (3-week duration).
 
-| Preferred Term There were no adverse experiences with the preferred term of dystonic or dyskinetic events. | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
+| Preferred Term* | Quetiapine 400 mg/day (N=95) |  | Quetiapine 600 mg/day (N=98) |  | All Quetiapine (N=193) |  | Placebo (N=90) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | n | % | n | % | n | % | n | % |
 | Parkinsonism | 2 | 2.1 | 1 | 1.0 | 3 | 1.6 | 1 | 1.1 |
 | Akathisia | 1 | 1.0 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
 | Other Extrapyramidal Event | 1 | 1.1 | 1 | 1.0 | 2 | 1.0 | 0 | 0.0 |
+| * There were no adverse experiences with the preferred term of dystonic or dyskinetic events. |  |  |  |  |  |  |  |  |
 
 Laboratory, ECG and Vital Sign Changes Observed in Clinical Studies
 
