@@ -136,14 +136,14 @@ Serum Chemistry Laboratory Value in Comparator-Controlled Clinical Trials with L
 The following adverse reactions have been identified during postapproval use of linezolid.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
-- Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) [see Warnings and Precautions (5.1)]; sideroblastic anemia.
-- Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
-- Lactic acidosis [see Warnings and Precautions (5.7)].
+- •Myelosuppression (including anemia, leukopenia, pancytopenia, and thrombocytopenia) [see Warnings and Precautions (5.1)]; sideroblastic anemia.
+- •Peripheral neuropathy, and optic neuropathy sometimes progressing to loss of vision [see Warnings and Precautions (5.2)].
+- •Lactic acidosis [see Warnings and Precautions (5.7)].
   Although these reports have primarily been in patients treated for longer than the maximum recommended duration of 28 days, these events have also been reported in patients receiving shorter courses of therapy.
-- Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and linezolid [see Warnings and Precautions (5.3)].
-- Convulsions [see Warnings and Precautions (5.8)].
-- Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
-- Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
+- •Serotonin syndrome has been reported in patients receiving concomitant serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs) and opioids, and linezolid [see Warnings and Precautions (5.3)].
+- •Convulsions [see Warnings and Precautions (5.8)].
+- •Anaphylaxis, angioedema, bullous skin disorders including severe cutaneous adverse reactions (SCAR) such as toxic epidermal necrolysis and Stevens-Johnson syndrome, and hypersensitivity vasculitis.
+- •Superficial tooth discoloration and tongue discoloration have been reported with the use of linezolid.
   The tooth discoloration was removable with professional dental cleaning (manual descaling) in cases with known outcome.
-- Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
-- Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.10)].
+- •Hypoglycemia, including symptomatic episodes [see Warnings and Precautions (5.9)].
+- •Hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) [see Warnings and Precautions (5.10)].

@@ -30,7 +30,7 @@ The patient should be monitored for two weeks (five weeks if fluoxetine was take
 Symptoms of serotonin syndrome or NMS-like reactions include hyperthermia, rigidity, myoclonus, autonomic instability, and mental status changes that include extreme agitation progressing to delirium and coma.
 The patient should also be monitored for discontinuation symptoms of the antidepressant (see package insert of the specified agent(s) for a description of the associated discontinuation symptoms).
 
-## 5.4 Mortality Imbalance in an Investigational Study in Patients with Catheter-Related Bloodstream Infections, Including Those with Catheter-Site Infections
+## 5.4 Mortality Imbalance in an Investigational Study in Patients With Catheter-Related Bloodstream Infections, Including Those With Catheter-Site Infections
 
 An imbalance in mortality was seen in patients treated with linezolid relative to vancomycin/dicloxacillin/oxacillin in an open-label study in seriously ill patients with intravascular catheter-related infections [78/363 (21.5%) vs. 58/363 (16.0%); odds ratio 1.426, 95% CI 0.970, 2.098].
 While causality has not been established, this observed imbalance occurred primarily in linezolid-treated patients in whom either Gram-negative pathogens, mixed Gram-negative and Gram-positive pathogens, or no pathogen were identified at baseline, but was not seen in patients with Gram-positive infections only.

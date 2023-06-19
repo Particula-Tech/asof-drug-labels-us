@@ -60,12 +60,12 @@ Based on findings from studies in rats, linezolid may reversibly impair fertilit
 
 The safety and effectiveness of linezolid for the treatment of pediatric patients with the following infections are supported by evidence from adequate and well-controlled studies in adults, pharmacokinetic data in pediatric patients, and additional data from a comparator-controlled study of Gram-positive infections in pediatric patients ranging in age from birth through 11 years [see Indications and Usage (1), Clinical Pharmacology (12.3) and Clinical Studies (14)]:
 
-- nosocomial pneumonia
-- complicated skin and skin structure infections
-- community-acquired pneumonia (also supported by evidence from an uncontrolled study in patients ranging in age from 8 months through 12 years)
-- vancomycin-resistant Enterococcus faecium infections
+- •nosocomial pneumonia
+- •complicated skin and skin structure infections
+- •community-acquired pneumonia (also supported by evidence from an uncontrolled study in patients ranging in age from 8 months through 12 years)
+- •vancomycin-resistant Enterococcus faecium infections
 
-Linezolid injection in a single-use VisIV™ Container should be used only in pediatric patients who require the entire 600 mg dose and not any fraction thereof.
+Linezolid injection in a single-dose container should be used only in pediatric patients who require the entire 600 mg dose and not any fraction thereof.
 
 Pharmacokinetic information generated in pediatric patients with ventriculoperitoneal shunts showed variable cerebrospinal fluid (CSF) linezolid concentrations following single and multiple dosing of linezolid; therapeutic concentrations were not consistently achieved or maintained in the CSF.
 Therefore, the use of linezolid for the empiric treatment of pediatric patients with central nervous system infections is not recommended.

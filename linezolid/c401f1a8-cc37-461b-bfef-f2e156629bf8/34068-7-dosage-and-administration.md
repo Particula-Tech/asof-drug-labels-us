@@ -18,11 +18,11 @@ Dosage Guidelines for Linezolid Injection
 
 The maximum dose for pediatric patients should not exceed the recommended adult dose.
 The recommended dose is 10 mg per kg intravenously every 8 hours.
-Linezolid injection in a single use VisIV™ Container should be used only in pediatric patients who require the entire 600 mg dose and not any fraction thereof.
+Linezolid injection in a single-dose container should be used only in pediatric patients who require the entire 600 mg dose and not any fraction thereof.
 
 ## 2.2 Intravenous Administration
 
-Linezolid injection is supplied in single-dose, ready-to-use container (VisIV™ Container) [see How Supplied/Storage and Handling (16)].
+Linezolid injection is supplied in single-dose, ready-to-use container [see How Supplied/Storage and Handling (16)].
 Parenteral drug products should be inspected visually for particulate matter prior to administration.
 Check for minute leaks by firmly squeezing the bag.
 If leaks are detected, discard the solution, as sterility may be impaired.
