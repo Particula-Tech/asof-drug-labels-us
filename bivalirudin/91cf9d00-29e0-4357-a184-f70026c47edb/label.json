@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA211215"
+  ],
+  "inn": "bivalirudin",
+  "labeler": "Par Pharmaceutical, Inc.",
+  "package_ndcs": [
+    "42023-622-01",
+    "42023-622-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "bivalirudin",
+      "name": "Bivalirudin"
+    }
+  ],
+  "setid": "91cf9d00-29e0-4357-a184-f70026c47edb",
+  "source": "dailymed"
+}
