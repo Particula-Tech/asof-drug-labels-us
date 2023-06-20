@@ -1,13 +1,15 @@
 # MEDICATION GUIDE
 
-Tramadol Hydrochloride (tram a dol hye droe klor ide) Extended-Release Tablets, CIV
+Tramadol Hydrochloride (tram a dol hye droe klor ide)
+
+Extended-Release Tablets, CIV
 
 Tramadol hydrochloride extended-release tablet is:
 
-- A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage pain severe enough to require daily around-the-clock, long-term treatment with an opioid, when other pain treatments such as non-opioid pain medicines or immediate release opioid medicines do not treat your pain well enough or you cannot tolerate them.
+- A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them.
 - A long-acting (extended-release) opioid pain medicine that can put you at risk for overdose and death.
   Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse that can lead to death.
-- Not for use to treat pain that is not around-the-clock.
+- Not to be taken on an “as needed” basis.
 
 Important information about tramadol hydrochloride extended-release tablets:
 
@@ -40,12 +42,15 @@ Before taking tramadol hydrochloride extended-release tablets, tell your healthc
 Tell your healthcare provider if you are:
 
 - pregnant or planning to become pregnant.
-  Prolonged use of tramadol hydrochloride extended-release tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
+  Use of tramadol hydrochloride extended-release tablets for an extended period of time during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
   Not recommended; it may harm your baby.
 - living in a household where there are small children or someone who has abused street or prescription drugs
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking tramadol hydrochloride extended-release tablets with certain other medicines can cause serious side effects that could lead to death.
+- Notice your pain getting worse.
+  If your pain gets worse after you take tramadol hydrochloride extended-release tablets, do not take more of tramadol hydrochloride extended-release tablets without first talking to your doctor.
+  Talk to your doctor if the pain you have increases, if you feel more sensitive to pain, or if you have new pain after taking tramadol hydrochloride extended-release tablets.
 
 When taking tramadol hydrochloride extended-release tablets:
 
@@ -99,6 +104,6 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-ISS: 06/2021
+ISS: 06/2023
 
-5221235
+5238818

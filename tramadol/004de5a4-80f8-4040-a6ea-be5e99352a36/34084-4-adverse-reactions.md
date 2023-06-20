@@ -3,18 +3,18 @@
 The following serious adverse reactions are described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
-- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
-- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.4)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
-- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.7)]
-- Serotonin Syndrome [see Warnings and Precautions (5.8)]
-- Seizures [see Warnings and Precautions (5.9)]
-- Suicide [see Warnings and Precautions (5.10)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.11)]
-- Severe Hypotension [see Warnings and Precautions (5.13)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.15)]
-- Hypersensitivity Reactions [see Warnings and Precautions(5.16)]
-- Withdrawal [see Warnings and Precautions (5.17)]
+- Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
+- Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-Threatening Respiratory Depression in Children [see Warnings and Precautions (5.6)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines and Other CNS Depressants [see Warnings and Precautions (5.3)]
+- Serotonin Syndrome [see Warnings and Precautions (5.9)]
+- Seizures [see Warnings and Precautions (5.10)]
+- Suicide [see Warnings and Precautions (5.11)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.13)]
+- Severe Hypotension [see Warnings and Precautions (5.14)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.16)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.17)]
+- Withdrawal [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -112,13 +112,16 @@ Adrenal insufficiency: Cases of adrenal insufficiency have been reported with op
 
 Anaphylaxis: Anaphylaxis has been reported with ingredients contained in tramadol hydrochloride extended-release tablets.
 
-Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with use of opioids for an extended period of time.
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.8)]
+
 QT prolongation/torsade de pointes: Cases of QT prolongation and/or torsade de pointes have been reported with tramadol use.
 Many of these cases were reported in patients taking another drug labeled for QT prolongation, in patients with a risk factor for QT prolongation (e.g., hypokalemia), or in overdose setting.
 
 Metabolism and nutrition disorders
 
-Hyponatremia: cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.19)].
+Hyponatremia: cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see Warnings and Precautions (5.20)].
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
-Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.20)].
+Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.21)].
