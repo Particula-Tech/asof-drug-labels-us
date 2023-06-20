@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA072151"
+  ],
+  "inn": "albuterol",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-671-90",
+    "62135-672-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "albuterol sulfate",
+      "name": "Albuterol Sulfate"
+    }
+  ],
+  "setid": "81cdae6f-99d7-468b-9ab8-fecb1d42298d",
+  "source": "dailymed"
+}
