@@ -46,7 +46,7 @@ Effects on the Endocrine System
 Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see ADVERSE REACTIONS].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see ADVERSE REACTIONS].
 
 Effects on the Immune System
@@ -57,7 +57,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
 The minimum effective analgesic concentration of tramadol for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see DOSAGE and ADMINISTRATION].
 
 Concentration–Adverse Reaction Relationships
@@ -188,4 +188,4 @@ No alteration of the tramadol hydrochloride extended-release tablets dosage regi
 
 Carbamazepine Carbamazepine, a CYP3A4 inducer, increases tramadol metabolism.
 Patients taking carbamazepine may have a significantly reduced analgesic effect of tramadol.
-Concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended [see PRECAUTIONS].
+Concomitant administration of tramadol hydrochloride extended-release tablets and carbamazepine is not recommended[see PRECAUTIONS].
