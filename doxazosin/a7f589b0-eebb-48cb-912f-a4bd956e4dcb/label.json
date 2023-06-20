@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA075646"
+  ],
+  "inn": "doxazosin",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-051-90",
+    "62135-052-90",
+    "62135-053-90",
+    "62135-054-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxazosin mesylate",
+      "name": "Doxazosin mesylate"
+    }
+  ],
+  "setid": "a7f589b0-eebb-48cb-912f-a4bd956e4dcb",
+  "source": "dailymed"
+}
