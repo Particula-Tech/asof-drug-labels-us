@@ -2,6 +2,10 @@
 
 ## 2.1 Preparation of Diluted Solutions
 
+Inspect parenteral drug products for particulate matter and discoloration prior to use, whenever solution and container permit.
+
+Vasopressin Injection Solution for Dilution, 20 units/mL and 200 units/10 mL (20 units/mL).
+
 Dilute vasopressin injection in normal saline (0.9% sodium chloride) or 5% dextrose in water (D5W) prior to use for intravenous administration.
 Discard unused diluted solution after 18 hours at room temperature or 24 hours under refrigeration.
 
@@ -12,8 +16,6 @@ Table 1 Preparation of diluted solutions
 | Vasopressin Injection | Diluent |  |  |
 | No | 0.1 units/mL | 2.5 mL (50 units) | 500 mL |
 | Yes | 1 unit/mL | 5 mL (100 units) | 100 mL |
-
-Inspect parenteral drug products for particulate matter and discoloration prior to use, whenever solution and container permit.
 
 ## 2.2 Administration
 

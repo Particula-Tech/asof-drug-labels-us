@@ -16,7 +16,7 @@ Because of increased clearance of vasopressin in the second and third trimester,
 Maternal adverse reactions
 
 Vasopressin injection may produce tonic uterine contractions.
-Vasopressin receptors are present in human uterine muscle and might not be distinguishable from oxytocin receptors.
+Vasopressin receptors are present in human uterine muscles and might not be distinguishable from oxytocin receptors.
 
 ## 8.2 Lactation
 

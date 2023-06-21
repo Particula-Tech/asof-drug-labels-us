@@ -2,7 +2,7 @@
 
 ## 5.1 Worsening Cardiac Function
 
-Use in patients with impaired cardiac response may worsen cardiac output.
+A decrease in cardiac index may be observed with use of vasopressin.
 
 ## 5.2 Reversible Diabetes Insipidus
 
