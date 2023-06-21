@@ -52,6 +52,4 @@ One Pint (473 mL)
 
 Dispense the accompanying Medication Guide to each patient.
 
-Rhodes Rx Only
-
-304371-0A
+Rhodes Rx only
