@@ -1,48 +1,38 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are discussed in greater detail in other sections of the labeling: • Suicidal thoughts and behaviors in adolescents and young adults [see Warnings and Precautions (5.1)] • Serotonin syndrome [see Warnings and Precautions (5.2)] • Discontinuation syndrome [see Warnings and Precautions (5.3)] • Seizures [see Warnings and Precautions (5.4)] • Activation of mania or hypomania [see Warnings and Precautions (5.5)] • Hyponatremia [see Warnings and Precautions (5.6)] • Increased Risk of Bleeding [see Warnings and Precautions (5.7)] • Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.8)] • Angle-closure glaucoma [see Warnings and Precautions (5.9)] • Use in Patients with Concomitant Illness [see Warnings and Precautions (5.10)] • Sexual Dysfunction [see Warnings and Precautions (5.11)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
-Clinical Trial Data Sources Pediatrics (6 -17 years) Adverse events were collected in 576 pediatric patients (286 escitalopram, 290 placebo) with major depressive disorder in double-blind placebo-controlled studies.
-Safety and effectiveness of escitalopram in pediatric patients less than 12 years of age has not been established.
-Adults Adverse events information for escitalopram was collected from 715 patients with major depressive disorder who were exposed to escitalopram and from 592 patients who were exposed to placebo in double-blind, placebo-controlled trials.
+Clinical Trial Data Sources Adults Adverse reactions information for escitalopram was collected from 715 patients with major depressive disorder who were exposed to escitalopram and from 592 patients who were exposed to placebo in double-blind, placebo-controlled trials.
 An additional 284 patients with major depressive disorder were newly exposed to escitalopram in open-label trials.
-The adverse event information for escitalopram in patients with GAD was collected from 429 patients exposed to escitalopram and from 427 patients exposed to placebo in double-blind, placebo-controlled trials.
-
-Adverse events during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
-Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events without first grouping similar types of events into a smaller number of standardized event categories.
-In the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse events.
-
+The adverse reaction information for escitalopram in patients with GAD was collected from 429 patients exposed to escitalopram and from 427 patients exposed to placebo in double-blind, placebo-controlled trials.
+Adverse reactions during exposure were obtained primarily by general inquiry and recorded by clinical investigators using terminology of their own choosing.
+Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse reactions without first grouping similar types of reactions into a smaller number of standardized event categories.
+In the tables and tabulations that follow, standard World Health Organization (WHO) terminology has been used to classify reported adverse reactions.
 The stated frequencies of adverse reactions represent the proportion of individuals who experienced, at least once, a treatment emergent adverse event of the type listed.
 An event was considered treatment-emergent if it occurred for the first time or worsened while receiving therapy following baseline evaluation.
-Adverse Events Associated with Discontinuation of Treatment
-
-Major Depressive Disorder
-
-Pediatrics (6 -17 years)
-
-Adverse events were associated with discontinuation of 3.5% of 286 patients receiving escitalopram and 1% of 290 patients receiving placebo.
-The most common adverse event (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was insomnia (1% escitalopram, 0% placebo).
-Adults Among the 715 depressed patients who received escitalopram in placebo-controlled trials, 6% discontinued treatment due to an adverse event, as compared to 2% of 592 patients receiving placebo.
-In two fixed-dose studies, the rate of discontinuation for adverse events in patients receiving 10 mg/day escitalopram was not significantly different from the rate of discontinuation for adverse events in patients receiving placebo.
-The rate of discontinuation for adverse events in patients assigned to a fixed dose of 20 mg/day escitalopram was 10%, which was significantly different from the rate of discontinuation for adverse events in patients receiving 10 mg/day escitalopram (4%) and placebo (3%).
-Adverse events that were associated with the discontinuation of at least 1% of patients treated with escitalopram tablets, and for which the rate was at least twice that of placebo, were nausea (2%) and ejaculation disorder (2% of male patients).
-Generalized Anxiety Disorder Adults Among the 429 GAD patients who received escitalopram 10-20 mg/day in placebo-controlled trials, 8% discontinued treatment due to an adverse event, as compared to 4% of 427 patients receiving placebo.
-Adverse events that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice the placebo rate, were nausea (2%), insomnia (1%), and fatigue (1%).
-Incidence of Adverse Reactions in Placebo-Controlled Clinical Trials Major Depressive Disorder
-
-Pediatrics (6 -17 years)
-
-The overall profile of adverse reactions in pediatric patients was generally similar to that seen in adult studies, as shown in Table 2.
-However, the following adverse reactions (excluding those which appear in Table 2 and those for which the coded terms were uninformative or misleading) were reported at an incidence of at least 2% for escitalopram and greater than placebo: back pain, urinary tract infection, vomiting, and nasal congestion.
-Adults The most commonly observed adverse reactions in escitalopram patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were insomnia, ejaculation disorder (primarily ejaculatory delay), nausea, sweating increased, fatigue, and somnolence.
-
-Table 2 enumerates the incidence, rounded to the nearest percent, of treatment-emergent adverse events that occurred among 715 depressed patients who received escitalopram at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
-Events included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
+Pediatric Patients Adverse reaction information for pediatric patients was collected in double-blind placebo-controlled studies in 576 pediatric patients 6 to 17 years of age, (286 escitalopram, 290 placebo) with major depressive disorder and in 273 pediatric patients 7 to 17 years of age (137 escitalopram, 136 placebo) with generalized anxiety disorder.
+The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD or less than 7 years of age with GAD.
+Adverse Reactions Associated with Discontinuation of Treatment Major Depressive Disorder Adults Among the 715 depressed patients who received escitalopram in placebo-controlled trials, 6% discontinued treatment due to an adverse event, as compared to 2% of 592 patients receiving placebo.
+In two fixed-dose studies, the rate of discontinuation for adverse reactions in patients receiving 10 mg/day escitalopram was not significantly different from the rate of discontinuation for adverse reactions in patients receiving placebo.
+The rate of discontinuation for adverse reactions in patients assigned to a fixed dose of 20 mg/day escitalopram was 10%, which was significantly different from the rate of discontinuation for adverse reactions in patients receiving 10 mg/day escitalopram (4%) and placebo (3%).
+Adverse reactions that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice that of placebo, were nausea (2%) and ejaculation disorder (2% of male patients).
+Pediatric Patients Adverse reactions in pediatric patients 6 to 17 years of age were associated with discontinuation of 3.5% of 286 patients receiving escitalopram and 1% of 290 patients receiving placebo.
+The most common adverse reaction (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was insomnia (1% escitalopram, 0% placebo).
+The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD.
+Generalized Anxiety Disorder Adults Among the 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials, 8% discontinued treatment due to an adverse event, as compared to 4% of 427 patients receiving placebo.
+Adverse reactions that were associated with the discontinuation of at least 1% of patients treated with escitalopram, and for which the rate was at least twice the placebo rate, were nausea (2%), insomnia (1%), and fatigue (1%).
+Pediatric Patients Adverse reactions in pediatric patients 7 to 17 years were associated with discontinuation of 2.9% of 137 patients receiving escitalopram and 1.5% of 136 patients receiving placebo.
+The most common adverse reaction (incidence at least 1% for escitalopram and greater than placebo) associated with discontinuation was activation syndrome (1% escitalopram, 0% placebo), intentional self injury (1% escitalopram, 0% placebo), epistaxis (1% escitalopram, 0% placebo), and nausea (1% escitalopram, 0% placebo).
+Incidence of Adverse Reactions in Placebo-Controlled Clinical Trials Major Depressive Disorder Adults The most commonly observed adverse reactions in escitalopram patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were insomnia, ejaculation disorder (primarily ejaculatory delay), nausea, sweating increased, fatigue, and somnolence.
+Table 2 enumerates the incidence, rounded to the nearest percent, of adverse reactions that occurred among 715 depressed patients who received escitalopram at doses ranging from 10 to 20 mg/day in placebo-controlled trials.
+Reactions included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
 | TABLE 2 |  |  |
 | --- | --- | --- |
-| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder |  |  |
+| Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Major Depressive Disorder (Adults) |  |  |
 | Adverse Reaction | Escitalopram | Placebo |
 |  | (N=715) % | (N=592) % |
 | Autonomic Nervous System Disorders |  |  |
@@ -75,14 +65,18 @@ Events included are those occurring in 2% or more of patients treated with escit
 1Primarily ejaculatory delay.
 2Denominator used was for males only (N=225 escitalopram; N=188 placebo).
 3Denominator used was for females only (N=490 escitalopram; N=404 placebo).
+
+Pediatric Patients The overall profile of adverse reactions in pediatric patients 6 to 17 years in major depressive disorder was generally similar to that seen in adult studies, as shown in Table 2.
+However, the following adverse reactions (excluding those which appear in Table 2 and those for which the coded terms were uninformative or misleading) were reported at an incidence of at least 2% for escitalopram and greater than placebo: back pain, urinary tract infection, vomiting, and nasal congestion.
+The safety and effectiveness of escitalopram have not been established in pediatric patients less than 12 years of age with MDD.
 Generalized Anxiety Disorder Adults The most commonly observed adverse reactions in escitalopram patients (incidence of approximately 5% or greater and approximately twice the incidence in placebo patients) were nausea, ejaculation disorder (primarily ejaculatory delay), insomnia, fatigue, decreased libido, and anorgasmia.
-Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse events that occurred among 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials.
-Events included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
+Table 3 enumerates the incidence, rounded to the nearest percent of treatment-emergent adverse reaction that occurred among 429 GAD patients who received escitalopram 10 to 20 mg/day in placebo-controlled trials.
+Reaction included are those occurring in 2% or more of patients treated with escitalopram and for which the incidence in patients treated with escitalopram was greater than the incidence in placebo-treated patients.
 
 | Autonomic Nervous System Disorders |  |  |
 | --- | --- | --- |
 | TABLE 3 |  |  |
-| Treatment-Emergent Adverse Reactions observed with a frequency of ≥ 2% and greater than placebo for Generalized Anxiety Disorder |  |  |
+| Adverse Reactions Observed with a Frequency of ≥ 2% and> placebo for Generalized Anxiety Disorder (Adults) |  |  |
 | Adverse Reactions | Escitalopram | Placebo |
 |  | (N=429) % | (N=427) % |
 | Dry Mouth | 9% | 5% |
@@ -121,8 +115,11 @@ Events included are those occurring in 2% or more of patients treated with escit
 1Primarily ejaculatory delay.
 2Denominator used was for males only (N=182 escitalopram; N=195 placebo).
 3Denominator used was for females only (N=247 escitalopram; N=232 placebo).
+
+Pediatric Patients The overall profile of adverse reactions in pediatric patients 7 to 17 years in generalized anxiety disorder was generally similar to that seen in adult studies, as shown in Table 3.
+However, the following adverse reactions (excluding those which appear in Table 3) were reported at an incidence of at least 2% for escitalopram and greater than placebo: dizziness (3% escitalopram and 2% placebo), nasopharyngitis (3% escitalopram and 1% placebo), abdominal discomfort (3% escitalopram and 1% placebo), anxiety (3% escitalopram and 1% placebo), irritability (2% escitalopram and 1% placebo), and anger (2% escitalopram and 0% placebo).
 Dose Dependency of Adverse Reactions The potential dose dependency of common adverse reactions (defined as an incidence rate of ≥5% in either the 10 mg or 20 mg escitalopram groups) was examined on the basis of the combined incidence of adverse reactions in two fixed-dose trials.
-The overall incidence rates of adverse events in 10 mg escitalopram-treated patients (66%) was similar to that of the placebo-treated patients (61%), while the incidence rate in 20 mg/day escitalopram-treated patients was greater (86%).
+The overall incidence rates of adverse reactions in 10 mg escitalopram-treated patients (66%) was similar to that of the placebo-treated patients (61%), while the incidence rate in 20 mg/day escitalopram-treated patients was greater (86%).
 Table 4 shows common adverse reactions that occurred in the 20 mg/day escitalopram group with an incidence that was approximately twice that of the 10 mg/day escitalopram group and approximately twice that of the placebo group.
 
 | TABLE 4 |  |  |  |
@@ -183,10 +180,10 @@ Based on the established exposure-response relationship, the predicted QTcF chan
 Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
 The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 
-Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tablets Following is a list of treatment-emergent adverse events, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram tablets for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
-The listing does not include those events already listed in Tables 2 & 3, those events for which a drug cause was remote and at a rate less than 1% or lower than placebo, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life threatening.
-Events are categorized by body system.
-Events of major clinical importance are described in the Warnings and Precautions section (5).
+Other Reactions Observed During the Premarketing Evaluation of Escitalopram Tablets Following is a list of treatment-emergent adverse reaction, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with escitalopram tablets for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
+The listing does not include those reaction already listed in Tables 2 & 3, those reaction for which a drug cause was remote and at a rate less than 1% or lower than placebo, those reaction which were so general as to be uninformative, and those reaction reported only once which did not have a substantial probability of being acutely life threatening.
+Reaction are categorized by body system.
+Reaction of major clinical importance are described in the Warnings and Precautions section (5).
 
 Cardiovascular - hypertension, palpitation.
 

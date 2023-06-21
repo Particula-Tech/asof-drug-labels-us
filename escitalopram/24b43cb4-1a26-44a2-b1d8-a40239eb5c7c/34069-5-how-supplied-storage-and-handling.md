@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tablets 5 mg Tablets: Bottle of 100 NDC 33342-036-11 Bottle of 500 NDC 33342-036-15 100 (10 x 10) Unit-Dose Tablets NDC 33342-036-12
+How Supplied: 5 mg Tablets: Bottle of 100 NDC 33342-036-11 Bottle of 500 NDC 33342-036-15 100 (10 x 10) Unit-Dose Tablets NDC 33342-036-12
 
 White to off-white, circular, biconvex film coated tablet having ML 59 debossed on one side and plain on other side..
 
