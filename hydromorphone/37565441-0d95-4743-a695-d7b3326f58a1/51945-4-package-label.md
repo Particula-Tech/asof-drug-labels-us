@@ -38,12 +38,12 @@ Rhodes 100 Tablets
 
 NDC 42858-304-16
 
-HYDROmorphone Hydrochloride Oral Solution, USP
+HYDROmorphone Hydrochloride Oral Solution, USP CII
 
-5 mg/5 mL (1 mg/mL) CII
+5 mg/5 mL (1 mg/mL)
 
-One Pint (473 mL) Rx Only
+One Pint (473 mL)
 
-Rhodes
+Dispense the accompanying Medication Guide to each patient.
 
-302902-0B LOT / EXP No Varnish Area
+Rhodes Rx Only
