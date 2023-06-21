@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217198"
+  ],
+  "inn": "carboprost",
+  "labeler": "Alembic Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "62332-777-01",
+    "62332-777-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "carboprost tromethamine",
+      "name": "CARBOPROST TROMETHAMINE"
+    }
+  ],
+  "setid": "c1cde9c7-b005-484f-8497-343c5ecd4f0a",
+  "source": "dailymed"
+}
