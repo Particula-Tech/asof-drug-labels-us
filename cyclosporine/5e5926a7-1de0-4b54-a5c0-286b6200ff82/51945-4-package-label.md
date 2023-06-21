@@ -93,19 +93,19 @@ Helv 12.5%
 
 # PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 0078-0109-01
+NDC 0078-0109-01
 
-SANDIMMUNE® Injection
+Sandimmune® Injection
 
 (cyclosporine injection, USP)
 
 Sterile solution for intravenous infusion only
 
-Each mL contains:
-
-cyclosporine, USP 50 mg
+Rx only
 
 FOR INFUSION ONLY.
 DILUTE BEFORE USE.
 
 250 mg (5 mL ampul) 10 Ampuls
+
+NOVARTIS
