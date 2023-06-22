@@ -12,4 +12,4 @@ Inform women of the importance of not taking doxylamine succinate and pyridoxine
 
 Inform women that use of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets may result in false positive urine drug screening for methadone, opiates and PCP.
 
-Distributed by: Analog Pharma Inc. Bryn Mawr, PA, 19010 www.analogpharma.com
+Distributed by: Analog Pharma Inc. Princeton, NJ 08540 www.analogpharma.com
