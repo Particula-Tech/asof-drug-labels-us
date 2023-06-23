@@ -1,3 +1,5 @@
+# BASAGLAR KWIKPEN INSTRUCTIONS FOR USE
+
 Instructions for Use
 
 BASAGLAR® KwikPen®
@@ -179,6 +181,8 @@ All rights reserved.
 | --- | --- |
 
 BASKP-0009-IFU-20221115
+
+# BASAGLAR TEMPO PEN INSTRUCTIONS FOR USE
 
 Instructions for Use
 
