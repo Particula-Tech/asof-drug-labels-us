@@ -71,7 +71,6 @@ Trademark are owned by or licensed to the ViiV Healthcare group of companies.
 ©2020 ViiV Healthcare group of companies or its licensor.
 
 1. 62000000060142 Rev.1/21
-2. 
 
 PRINCIPAL DISPLAY PANEL
 
@@ -115,4 +114,3 @@ Do not accept if the vial plastic overseal is missing or not securely fitted.
 
 1. 10000000147416 Rev.
    8/17
-2. 
