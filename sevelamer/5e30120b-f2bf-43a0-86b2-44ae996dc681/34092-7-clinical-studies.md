@@ -20,7 +20,7 @@ Table 5: Mean Serum Phosphorus (mg/dL) at Baseline and Endpoint
 | --- | --- | --- |
 | Baseline at End of Washout | 8.4 | 8.0 |
 | Endpoint | 6.4 | 5.9 |
-| Change from Baseline at Endpoint (95% Confidence Interval) | -2.0p<0.0001, within treatment group comparison (-2.5, -1.5) | -2.1 (-2.6, -1.7) |
+| Change from Baseline at Endpoint (95% Confidence Interval) | -2.0 p<0.0001, within treatment group comparison (-2.5, -1.5) | -2.1 (-2.6, -1.7) |
 
 The distribution of responses is shown in Figure 2.
 The distributions are similar for sevelamer hydrochloride and active control.

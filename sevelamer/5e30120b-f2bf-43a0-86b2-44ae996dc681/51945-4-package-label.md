@@ -19,7 +19,7 @@ GENZYME
 
 NDC 58468-0020-1
 
-Renagel® Tablets
+Renagel ®Tablets
 
 (sevelamer hydrochloride) 400 mg
 
@@ -47,9 +47,9 @@ SEE PACKAGE INSERT FOR DOSAGE INFORMATION.
 
 # PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
 
-NDC 58468-0021-1 Rx only
+NDC 58468- 0021-1 Rx only
 
-Renagel® Tablets (sevelamer hydrochloride) 800 mg
+Renagel ®Tablets (sevelamer hydrochloride) 800 mg
 
 180 TABLETS
 
