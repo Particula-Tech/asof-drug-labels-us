@@ -132,7 +132,7 @@ Mean Change from Baseline in Fasted Lipid Values in Treatment-Naive Subjects in 
 Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naive trials.
 
 Hepatitis C Virus Co-infection: In SINGLE, the pivotal Phase 3 trial, subjects with hepatitis C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal; subjects with hepatitis B co-infection were excluded.
-Overall, the safety profile in subjects with hepatitis C virus co-infection was similar to that observed in subjects without hepatitis C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis C virus co-infection for both treatment groups.
+Overall, the safety profile in subjects with hepatitis C virus co-infection was similar to that observed in subjects without hepatitis C co-infection, although the rates of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) abnormalities were higher in the subgroup with hepatitis C virus co-infection for both treatment groups.
 Grades 2 to 4 ALT abnormalities in hepatitis C co-infected compared with HIV mono-infected subjects receiving TRIUMEQ were observed in 15% and 2% (vs.
 24% and 4% of subjects treated with ATRIPLA) (Week 96 analysis), respectively [see Warnings and Precautions (5.2)].
 See also full prescribing information for TIVICAY.
@@ -142,29 +142,45 @@ Increases in serum creatinine occurred within the first 4 weeks of treatment and
 In SINGLE, a mean change from baseline of 0.14 mg per dL (range: -0.25 mg per dL to 0.81 mg per dL) was observed after 144 weeks of treatment.
 Creatinine increases were similar in treatment-experienced subjects.
 
-Abacavir and Lamivudine: Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of CPK, blood glucose, and triglycerides.
+Abacavir and Lamivudine: Laboratory abnormalities observed in clinical trials of ZIAGEN (in combination with other antiretroviral treatment) were anemia, neutropenia, liver function test abnormalities, and elevations of creatine phosphokinase (CPK), blood glucose, and triglycerides.
 Additional laboratory abnormalities observed in clinical trials of EPIVIR (in combination with other antiretroviral treatment) were thrombocytopenia and elevated levels of bilirubin, amylase, and lipase.
 
 Clinical Trials Experience in Pediatric Subjects
+
+Abacavir, Dolutegravir and Lamivudine: The safety of TRIUMEQ PD and TRIUMEQ in pediatric subjects with HIV-1 infection weighing at least 6 kg was evaluated in the IMPAACT 2019 trial.
+This was a multicenter, open-label, non-comparative trial of pediatric subjects with HIV-1 infection, younger than 12 years of age.
+Fifty-seven subjects weighing at least 6 kg to less than 40 kg were enrolled in this trial [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Overall, the safety data in this pediatric study was similar to that seen in adults.
+
+The safety analysis through Week 48 included 57 subjects weighing at least 6 kg at enrollment who received the recommended dose (determined by weight) and formulation.
+This analysis showed that 26% of subjects experienced clinical adverse reactions.
+The most common adverse reactions were classified as laboratory abnormalities and included decreased glomerular filtration rate (n = 13, 23%), increased blood creatinine (n = 10, 18%), and increased ALT (n = 3, 5%).
+All other adverse reactions occurred at a rate of <2% of participants.
+Two subjects reported Grade 3 or 4 adverse reactions.
+One subject, an 8-year-old female who weighed 22 kg at baseline, experienced Grade 3 increased blood creatinine and Grade 3 decreased glomerular filtration rate.
+By Week 48, the glomerular filtration rate was improving, and the events did not lead to drug discontinuation.
+Another subject, a 7-year-old male who weighed 20 kg at baseline, experienced drug-induced liver injury with Grade 4 increased ALT and AST following 36 weeks of treatment with TRIUMEQ PD.
+Clinical signs or symptoms of hepatitis were not reported, and ALT and AST values normalized after TRIUMEQ PD was discontinued.
 
 Abacavir and Lamivudine: The safety of once-daily compared with twice-daily dosing of abacavir and lamivudine, administered as either single products or as EPZICOM, was assessed in the ARROW trial (n = 336).
 Primary safety assessment in the ARROW (COL105677) trial was based on Grade 3 and Grade 4 adverse events.
 One event of Grade 4 hepatitis in the once-daily cohort was considered as uncertain causality by the investigator and all other Grade 3 or 4 adverse events were considered not related by the investigator.
 No additional safety issues were identified in pediatric subjects compared with historical data in adults.
 
-Dolutegravir: The safety of dolutegravir in pediatric subjects with HIV-1 infection weighing at least 10 kg was evaluated in the IMPAACT P1093 trial [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
+Dolutegravir: The safety of dolutegravir in pediatric subjects with HIV-1 infection weighing at least 6 kg was evaluated in the IMPAACT P1093 trial [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 Overall, the safety data in this pediatric study was similar to that seen in adults.
 
 IMPAACT P1093 is an ongoing multicenter, open-label, non-comparative trial of pediatric subjects with HIV-1 infection, aged <18 years.
-One hundred and five subjects weighing at least 10 kg were enrolled in this trial [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+One hundred and forty-two subjects weighing at least 6 kg were enrolled in this trial [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
-The safety analysis through Week 24 included 40 subjects from Cohorts I (n = 19), IIA (n = 5), III-DT (n = 15), and IV-DT (n=1) weighing at least 10 kg at enrollment who received the recommended dose (determined by weight and age) and formulation.
-This analysis showed that 6 subjects (all from Cohort I) experienced drug-related clinical adverse reactions.
-There were no Grade 3 or 4 drug-related adverse reactions reported.
+The safety analysis through Week 24 included 60 subjects weighing at least 6 kg at enrollment who received the recommended dose (determined by weight and age) and formulation.
+This analysis showed that 13% of subjects experienced adverse reactions.
+Grade 1 to 2 adverse reactions reported by more than one subject was immune reconstitution inflammatory syndrome (n = 2).
+There were no Grade 3 or 4 adverse reactions reported.
 No adverse reactions led to discontinuation.
 
-All laboratory abnormalities considered to be drug-related in subjects weighing at least 10 kg at enrollment were Grade 1 or 2 in severity.
-Only one grade 3 laboratory abnormality was reported in more than 1 subject (decreased blood bicarbonate, n = 2).
+The Grade 3 or 4 laboratory abnormalities reported in more than one subject weighing at least 6 kg at enrollment were decreased neutrophil count (n = 5), decreased blood bicarbonate (n = 3), increased lipase (n = 2), and increased blood potassium (n = 2).
+These laboratory events were not considered to be drug related.
 Changes in median serum creatinine were similar to those observed in adults.
 
 ## 6.2 Postmarketing Experience

@@ -106,16 +106,17 @@ Adolescents and adults of childbearing potential who are taking TRIUMEQ should b
 
 ## 8.4 Pediatric Use
 
-The clinical data supporting use of TRIUMEQ and TRIUMEQ PD in pediatric patients with HIV-1 infection weighing at least 10 kg is derived from the following previously conducted pediatric trials using the individual components of TRIUMEQ and TRIUMEQ PD:
+The clinical data supporting use of TRIUMEQ and TRIUMEQ PD in pediatric patients with HIV-1 infection aged at least 3 months old weighing at least 6 kg is derived from the following previously conducted pediatric trials using TRIUMEQ and TRIUMEQ PD or the individual components:
 
+- •The safety, pharmacokinetics, and antiviral activity (efficacy) of TRIUMEQ and TRIUMEQ PD were established through an open-label, multicenter clinical trial (IMPAACT 2019), in which HIV-1–infected, treatment-naive or treatment-experienced, pediatric subjects younger than 12 years and weighing at least 6 kg to less than 40 kg were treated with TRIUMEQ or TRIUMEQ PD [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 - •The safety and efficacy of once-daily abacavir and lamivudine were established with a randomized, multicenter trial (ARROW [COL105677]) in HIV-1–infected, treatment-naive subjects aged 3 months to 17 years with a first-line regimen containing abacavir and lamivudine, using either the combination of EPIVIR and ZIAGEN or EPZICOM [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 - •The safety, pharmacokinetics, and antiviral activity (efficacy) of TIVICAY and TIVICAY PD were established through an ongoing, open-label, multicenter, dose-finding clinical trial (IMPAACT P1093), in which HIV-1–infected, treatment-naive or treatment-experienced, INSTI-naive, pediatric and adolescent subjects aged 4 weeks to <18 years and weighing at least 3 kg were treated with TIVICAY or TIVICAY PD plus optimized background therapy [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
-- •Additional pharmacokinetics data were evaluated in 2 pharmacokinetic substudies in ODYSSEY, an ongoing open-label, randomized, non-inferiority trial to evaluate the safety, efficacy, and pharmacokinetic parameters of TIVICAY or TIVICAY PD plus two NRTIs (mainly abacavir and lamivudine) compared with standard of care in HIV-1–infected pediatric subjects younger than 18 years [see Clinical Pharmacology (12.3)].
+- •Additional pharmacokinetics data were evaluated in 2 pharmacokinetic substudies in ODYSSEY, an ongoing open-label, randomized, non-inferiority trial to evaluate the safety, efficacy, and pharmacokinetic parameters of TIVICAY or TIVICAY PD plus two nucleoside reverse transcriptase inhibitors (NRTIs) (mainly abacavir and lamivudine) compared with standard of care in HIV-1–infected pediatric subjects younger than 18 years [see Clinical Pharmacology (12.3)].
 
 Overall, the safety, and efficacy profile of TRIUMEQ and TRIUMEQ PD in pediatric patients is comparable to that observed in adults.
-There are no data available on the use of lamivudine in pediatric patients with renal impairment [see Warnings and Precautions (5.4), Adverse Reactions (6.1), Use in Specific Populations (8.6), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+There are no data available on the use of lamivudine in pediatric patients with renal impairment [see Dosage and Administration (2.7), Warnings and Precautions (5.3), Adverse Reactions (6.1), Use in Specific Populations (8.6), Clinical Pharmacology (12.3), Clinical Studies (14.2)].
 
-Safety and effectiveness of TRIUMEQ PD have not been established in pediatric patients weighing <10 kg.
+The safety and effectiveness of TRIUMEQ PD have not been established in pediatric patients aged less than 3 months or weighing less than 6 kg.
 
 ## 8.5 Geriatric Use
 
@@ -124,15 +125,15 @@ In general, caution should be exercised in the administration of TRIUMEQ in elde
 
 ## 8.6 Patients with Impaired Renal Function
 
-TRIUMEQ and TRIUMEQ PD are not recommended for patients with creatinine clearance <30 mL/min because TRIUMEQ and TRIUMEQ PD are fixed-dose combinations and the dosage of the individual components cannot be adjusted.
-If a dose reduction of lamivudine, a component of TRIUMEQ and TRIUMEQ PD, is required for patients with creatinine clearance <30 mL/min, then the individual components should be used [see Clinical Pharmacology (12.3)].
+TRIUMEQ and TRIUMEQ PD are not recommended for patients with creatinine clearance <30 mL/min and pediatric patients with a similar degree of renal impairment based on age-appropriate assessment of renal function because TRIUMEQ and TRIUMEQ PD are fixed-dose combinations, and the dosage of the individual components cannot be adjusted.
+If a dose reduction of lamivudine, a component of TRIUMEQ and TRIUMEQ PD, is required for patients with creatinine clearance <30 mL/min and in pediatric patients with a similar degree of renal impairment based on age-appropriate assessment of renal function, then the individual components should be used [see Clinical Pharmacology (12.3)].
 
 Patients with a creatinine clearance between 30 and 49 mL/min receiving TRIUMEQ may experience a 1.6- to 3.3-fold higher lamivudine exposure (AUC) than patients with a creatinine clearance ≥50 mL/min.
 There are no safety data from randomized, controlled trials comparing TRIUMEQ to the individual components in patients with a creatinine clearance between 30 and 49 mL/min who received dose-adjusted lamivudine.
 Additionally, there are no data available on the use of lamivudine in pediatric patients with renal impairment.
 In the original lamivudine registrational trials in combination with zidovudine, higher lamivudine exposures were associated with higher rates of hematologic toxicities (neutropenia and anemia), although discontinuations due to neutropenia or anemia each occurred in <1% of subjects.
 
-Patients with a sustained creatinine clearance between 30 and 49 mL/min who receive TRIUMEQ or TRIUMEQ PD should be monitored for hematologic toxicities.
+Patients with a sustained creatinine clearance between 30 and 49 mL/min or pediatric patients with a similar degree of renal impairment based on an age-appropriate assessment of renal function who receive TRIUMEQ or TRIUMEQ PD should be monitored for hematologic toxicities.
 If new or worsening neutropenia or anemia develop, dose adjustment of lamivudine, per lamivudine prescribing information, is recommended.
 If lamivudine dose adjustment is indicated, TRIUMEQ or TRIUMEQ PD should be discontinued, and the individual components should be used to construct the treatment regimen.
 

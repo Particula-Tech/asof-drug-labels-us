@@ -66,7 +66,8 @@ Administration Instructions
 
 To avoid a dosing error from using the wrong formulation of TRIUMEQ, strongly advise patients and caregivers to visually inspect the tablets to verify the correct formulation each time the prescription is filled [see Dosage and Administration (2), Warnings and Precautions (5.8), How Supplied/Storage and Handling (16)].
 
-Inform patients and caregivers that TRIUMEQ PD tablets for oral suspension should be dispersed in drinking water and should not be chewed, cut or crushed [see Dosage and Administration (2.5)].
+Inform patients and caregivers that TRIUMEQ PD tablets for oral suspension should be dispersed in drinking water and should not be chewed, cut, crushed or swallowed whole [see Dosage and Administration (2.5)].
+Inform patients and caregivers that an appropriate-sized syringe may be used to administer the oral suspension if the patient is unable to use the supplied cup [see Dosage and Administration (2.5)].
 
 Instruct patients and caregivers that if a dose of TRIUMEQ or TRIUMEQ PD is missed, to take it as soon as they remember.
 Advise patients and caregivers not to double the next dose or take more than the prescribed dose [see Dosage and Administration (2)].
@@ -94,12 +95,6 @@ ViiV Healthcare
 
 Durham, NC 27701
 
-by:
+©2023 ViiV Healthcare group of companies or its licensor.
 
-GlaxoSmithKline
-
-Durham, NC 27701
-
-©2022 ViiV Healthcare group of companies or its licensor.
-
-TRM:15PI
+TRM:16PI

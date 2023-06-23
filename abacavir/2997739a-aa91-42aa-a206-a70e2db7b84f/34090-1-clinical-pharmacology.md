@@ -97,21 +97,39 @@ Consistent with passive diffusion of abacavir across the placenta, abacavir conc
 
 Lamivudine: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
-Lamivudine concentrations were generally similar in maternal, neonatal and umbilical cord serum samples.
+Lamivudine concentrations were generally similar in maternal, neonatal, and umbilical cord serum samples.
 
-Pediatric Patients: The pharmacokinetics for the individual components of TRIUMEQ and TRIUMEQ PD (abacavir, dolutegravir, and lamivudine) have been evaluated in pediatric subjects.
+Pediatric Patients: The pharmacokinetics of TRIUMEQ, TRIUMEQ PD (abacavir, dolutegravir, and lamivudine) and their individual components have been evaluated in pediatric subjects.
 
-Dolutegravir: The pharmacokinetics of dolutegravir were evaluated in the IMPAACT P1093 trial and in 2 weight-band–based pharmacokinetic substudies from the ODYSSEY trial [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
+Abacavir, Dolutegravir and Lamivudine: The pharmacokinetics of TRIUMEQ and TRIUMEQ PD were evaluated in the IMPAACT 2019 trial.
+Steady-state plasma exposure at doses by weight band are summarized in Table 8 [see Use in Specific Populations (8.4), Clinical Studies (14.2)].
 
-Mean dolutegravir AUC0-24h and C24h in HIV-1–infected pediatric subjects weighing at least 10 kg were comparable to those in adults after 50 mg once daily or 50 mg twice daily.
-Mean Cmax is higher in pediatrics, but the increase is not considered clinically significant as the safety profiles were similar in pediatric and adult subjects [see Adverse Reactions (6.1)].
-Refer to the prescribing information for TIVICAY for pharmacokinetic information on dolutegravir in pediatric patients.
+Overall, exposures of abacavir, dolutegravir and lamivudine at the recommended doses for TRIUMEQ PD and TRIUMEQ are within the observed exposure ranges at the recommended doses of individual products in adults and pediatrics.
+Refer to the prescribing information for EPIVIR, TIVICAY, and ZIAGEN for pharmacokinetic information on lamivudine, dolutegravir, and abacavir, respectively, in pediatric patients.
 
-Abacavir and Lamivudine: In pediatric patients weighing 25 kg and above, the dosing recommendations for TRIUMEQ in this population are based on the safety and efficacy established in a controlled trial conducted using either the combination of EPIVIR and ZIAGEN or EPZICOM.
+Table 8.
+Summary of Pharmacokinetic Parameters in Pediatric HIV-1–Infected Subjects (IMPAACT 2019 Trial)
 
-In pediatric patients weighing 10 to <25 kg, predicted exposures (AUC0-24h) of abacavir and lamivudine at the recommended doses for TRIUMEQ PD are within the observed exposure ranges at the recommended doses of individual products in adults and pediatrics.
-
-Refer to the prescribing information for EPIVIR and ZIAGEN for pharmacokinetic information on the individual products in pediatric patients [see Dosage and Administration (2.2), Clinical Studies (14.2)].
+| Drug | Weight Band | Dosea of single entities in TRIUMEQ or TRIUMEQ PD | n | Pharmacokinetic ParameterGeometric Mean (%CV) |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax(mcg/mL) | AUC0-24h(mcg∙h/mL) | C24h(ng/mL) |  |  |  |  |  |  |
+| Abacavir | 6 to <10 kg | 180 mg once daily TRIUMEQ PD | 7 | 7.30 (20) | 17.7 (34) | 3 (128) |  |  |
+| 10 to <14 kg | 240 mg once dailyTRIUMEQ PD | 7 | 8.36 (44) | 19.8 (51) | 5 (127) |  |  |  |
+| 14 to <20 kg | 300 mg once dailyTRIUMEQ PD | 7 | 6.26 (31) | 15.1 (40) | 3 (108) |  |  |  |
+| 20 to <25 kg | 360 mg once dailyTRIUMEQ PD | 7 | 6.65 (28) | 17.4 (19) | 4 (85) |  |  |  |
+| 25 to <40 kg | 600 mg once dailyTRIUMEQ | 7 | 9.04 (22) | 25.7 (15) | 11 (229) |  |  |  |
+| Dolutegravir | 6 to <10 kg | 15 mg once daily TRIUMEQ PD | 7 | 7.40 (28) | 75.9 (34) | 910 (68) |  |  |
+| 10 to <14 kg | 20 mg once dailyTRIUMEQ PD | 7 | 8.85 (21) | 91.0 (36) | 1220 (77) |  |  |  |
+| 14 to <20 kg | 25 mg once dailyTRIUMEQ PD | 7 | 7.04 (17) | 71.4 (23) | 790 (44) |  |  |  |
+| 20 to <25 kg | 30 mg once dailyTRIUMEQ PD | 7 | 7.29 (17) | 84.4 (26) | 1350 (95) |  |  |  |
+| 25 to <40 kg | 50 mg once dailyTRIUMEQ | 7 | 6.25 (21) | 71.8 (14) | 980 (28) |  |  |  |
+| Lamivudine | 6 to <10 kg | 90 mg once daily TRIUMEQ PD | 7 | 2.29 (40) | 10.7 (46) | 55 (39) |  |  |
+| 10 to <14 kg | 120 mg once dailyTRIUMEQ PD | 7 | 3.55 (19) | 14.2 (24) | 46 (48) |  |  |  |
+| 14 to <20 kg | 150 mg once dailyTRIUMEQ PD | 7 | 2.92 (23) | 13.0 (16) | 58 (37) |  |  |  |
+| 20 to <25 kg | 180 mg once dailyTRIUMEQ PD | 7 | 2.99 (32) | 14.5 (17) | 60 (18) |  |  |  |
+| 25 to <40 kg | 300 mg once dailyTRIUMEQ | 7 | 4.15 (29) | 21.7 (26) | 84 (35) |  |  |  |
+| %CV, coefficient of variation expressed as a percentage. |  |  |  |  |  |  |  |  |
+| a The relative dolutegravir bioavailability of TRIUMEQ PD tablets for oral suspension is ~1.7-fold that of TRIUMEQ tablets. |  |  |  |  |  |  |  |  |
 
 Geriatric Patients: Population analyses using pooled pharmacokinetic data from adult trials indicated age had no clinically relevant effect on the pharmacokinetics of dolutegravir.
 The pharmacokinetics of abacavir or lamivudine have not been studied in subjects older than 65 years.
@@ -127,59 +145,59 @@ No clinically significant drug interactions are expected between dolutegravir, a
 
 Dosing recommendations as a result of established and other potentially significant drug-drug interactions with the individual components of TRIUMEQ and TRIUMEQ PD are provided in Section 7.3 [see Drug Interactions (7)].
 
-Table 8.
+Table 9.
 Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drugs
 
-| Coadministered Drug(s) and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax | AUC | Cτ or C24 |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |  |  |
-| Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |  |  |
-| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | — |  |  |
-| Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | — |  |  |
-| Methadone 16 to 150 mg | 50 mg twice daily | 11 | 1.00 (0.94 to 1.06) | 0.98 (0.91 to 1.06) | 0.99 (0.91 to 1.07) |  |  |
-| Midazolam 3 mg | 25 mg once daily | 10 | — | 0.95 (0.79 to 1.15) | — |  |  |
-| Norelgestromin 0.25 mg | 50 mg twice daily | 15 | 0.89 (0.82 to 0.97) | 0.98 (0.91 to 1.04) | 0.93 (0.85 to 1.03) |  |  |
-| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.10 (0.99 to 1.22) | 1.06 (0.98 to 1.16) | 1.21 (1.07 to 1.38) |  |  |
-| Tenofovir disoproxil fumarate 300 mg once daily | 50 mg once daily | 15 | 1.09 (0.97 to 1.23) | 1.12 (1.01 to 1.24) | 1.19 (1.04 to 1.35) |  |  |
-| a The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |
+| Coadministered Drug(s) and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Pharmacokinetic Parameters of Coadministered Drug with/without Dolutegravir No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.03 (0.84 to 1.25) | 0.98 (0.83 to 1.15) | 1.06 (0.88 to 1.29) |  |  |  |  |  |  |  |  |  |
+| Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |  |  |  |  |  |  |  |  |  |
+| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | — |  |  |  |  |  |  |  |  |  |
+| Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | — |  |  |  |  |  |  |  |  |  |
+| Methadone 16 to 150 mg | 50 mg twice daily | 11 | 1.00 (0.94 to 1.06) | 0.98 (0.91 to 1.06) | 0.99 (0.91 to 1.07) |  |  |  |  |  |  |  |  |  |
+| Midazolam 3 mg | 25 mg once daily | 10 | — | 0.95 (0.79 to 1.15) | — |  |  |  |  |  |  |  |  |  |
+| Norelgestromin 0.25 mg | 50 mg twice daily | 15 | 0.89 (0.82 to 0.97) | 0.98 (0.91 to 1.04) | 0.93 (0.85 to 1.03) |  |  |  |  |  |  |  |  |  |
+| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.10 (0.99 to 1.22) | 1.06 (0.98 to 1.16) | 1.21 (1.07 to 1.38) |  |  |  |  |  |  |  |  |  |
+| Tenofovir disoproxil fumarate 300 mg once daily | 50 mg once daily | 15 | 1.09 (0.97 to 1.23) | 1.12 (1.01 to 1.24) | 1.19 (1.04 to 1.35) |  |  |  |  |  |  |  |  |  |
+| a The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-Table 9.
+Table 10.
 Summary of Effect of Coadministered Drugs on the Pharmacokinetics of Dolutegravir
 
-| Coadministered Drug(s)and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Dolutegravir Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |
-| Atazanavir 400 mg once daily | 30 mg once daily | 12 | 1.50 (1.40 to 1.59) | 1.91 (1.80 to 2.03) | 2.80 (2.52 to 3.11) |  |  |  |  |  |  |  |  |
-| Atazanavir/ritonavir 300/100 mg once daily | 30 mg once daily | 12 | 1.34 (1.25 to 1.42) | 1.62 (1.50 to 1.74) | 2.21 (1.97 to 2.47) |  |  |  |  |  |  |  |  |
-| Darunavir/ritonavir 600/100 mg twice daily | 30 mg once daily | 15 | 0.89 (0.83 to 0.97) | 0.78 (0.72 to 0.85) | 0.62 (0.56 to 0.69) |  |  |  |  |  |  |  |  |
-| Efavirenz 600 mg once daily | 50 mg once daily | 12 | 0.61 (0.51 to 0.73) | 0.43 (0.35 to 0.54) | 0.25 (0.18 to 0.34) |  |  |  |  |  |  |  |  |
-| Etravirine 200 mg twice daily | 50 mg once daily | 16 | 0.48 (0.43 to 0.54) | 0.29 (0.26 to 0.34) | 0.12 (0.09 to 0.16) |  |  |  |  |  |  |  |  |
-| Etravirine + darunavir/ritonavir 200 mg + 600/100 mg twice daily | 50 mg once daily | 9 | 0.88 (0.78 to 1.00) | 0.75 (0.69 to 0.81) | 0.63 (0.52 to 0.76) |  |  |  |  |  |  |  |  |
-| Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |  |  |  |  |  |  |  |  |
-| Fosamprenavir/ritonavir 700 mg/100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |  |  |  |  |  |  |  |  |
-| Lopinavir/ritonavir 400/100 mg twice daily | 30 mg once daily | 15 | 1.00 (0.94 to 1.07) | 0.97 (0.91 to 1.04) | 0.94 (0.85 to 1.05) |  |  |  |  |  |  |  |  |
-| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |  |  |  |  |  |  |  |  |
-| Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |  |  |  |  |  |  |  |  |
-| Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |  |  |  |  |  |  |  |  |
-| Antacid (MAALOX) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |  |  |  |  |  |  |  |  |
-| Antacid (MAALOX) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |  |  |  |  |  |  |  |  |
-| Boceprevir 800 mg every 8 h | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |  |  |  |  |  |  |  |  |
-| Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |  |  |  |  |  |  |  |  |
-| Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |  |  |  |  |  |  |  |  |
-| Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |  |  |  |  |  |  |  |  |
-| Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |  |  |  |  |  |  |  |  |
-| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.29 (1.07 to 1.57) | 1.33 (1.11 to 1.59) | 1.45 (1.25 to 1.68) |  |  |  |  |  |  |  |  |
-| Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |  |  |  |  |  |  |  |  |
-| Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |  |  |  |  |  |  |  |  |
-| Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |  |  |  |  |  |  |  |  |
-| Multivitamin (One-A-Day) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |  |  |  |  |  |  |  |  |
-| Omeprazole 40 mg once daily | 50 mg single dose | 12 | 0.92 (0.75 to 1.11) | 0.97 (0.78 to 1.20) | 0.95 (0.75 to 1.21) |  |  |  |  |  |  |  |  |
-| Prednisone 60 mg once daily with taper | 50 mg once daily | 12 | 1.06 (0.99 to 1.14) | 1.11 (1.03 to 1.20) | 1.17 (1.06 to 1.28) |  |  |  |  |  |  |  |  |
-| Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |  |  |  |  |  |  |  |  |
-| Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |  |  |  |  |  |  |  |  |
-| Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |  |  |  |  |  |  |  |  |
-| a Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. c The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coadministered Drug(s) and Dose(s) | Dose of Dolutegravir | n | Geometric Mean Ratio (90% CI) of Dolutegravir Pharmacokinetic Parameters with/without Coadministered Drugs No Effect = 1.00 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cmax | AUC | Cτ or C24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Atazanavir 400 mg once daily | 30 mg once daily | 12 | 1.50 (1.40 to 1.59) | 1.91 (1.80 to 2.03) | 2.80 (2.52 to 3.11) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Atazanavir/ritonavir 300/100 mg once daily | 30 mg once daily | 12 | 1.34 (1.25 to 1.42) | 1.62 (1.50 to 1.74) | 2.21 (1.97 to 2.47) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Darunavir/ritonavir 600/100 mg twice daily | 30 mg once daily | 15 | 0.89 (0.83 to 0.97) | 0.78 (0.72 to 0.85) | 0.62 (0.56 to 0.69) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Efavirenz 600 mg once daily | 50 mg once daily | 12 | 0.61 (0.51 to 0.73) | 0.43 (0.35 to 0.54) | 0.25 (0.18 to 0.34) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Etravirine 200 mg twice daily | 50 mg once daily | 16 | 0.48 (0.43 to 0.54) | 0.29 (0.26 to 0.34) | 0.12 (0.09 to 0.16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Etravirine + darunavir/ritonavir 200 mg + 600/100 mg twice daily | 50 mg once daily | 9 | 0.88 (0.78 to 1.00) | 0.75 (0.69 to 0.81) | 0.63 (0.52 to 0.76) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Etravirine + lopinavir/ritonavir 200 mg + 400/100 mg twice daily | 50 mg once daily | 8 | 1.07 (1.02 to 1.13) | 1.11 (1.02 to 1.20) | 1.28 (1.13 to 1.45) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Fosamprenavir/ritonavir 700 mg/100 mg twice daily | 50 mg once daily | 12 | 0.76 (0.63 to 0.92) | 0.65 (0.54 to 0.78) | 0.51 (0.41 to 0.63) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Lopinavir/ritonavir 400/100 mg twice daily | 30 mg once daily | 15 | 1.00 (0.94 to 1.07) | 0.97 (0.91 to 1.04) | 0.94 (0.85 to 1.05) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.13 (1.06 to 1.21) | 1.12 (1.05 to 1.19) | 1.22 (1.15 to 1.30) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tenofovir 300 mg once daily | 50 mg once daily | 15 | 0.97 (0.87 to 1.08) | 1.01 (0.91 to 1.11) | 0.92(0.82 to 1.04) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Tipranavir/ritonavir 500/200 mg twice daily | 50 mg once daily | 14 | 0.54 (0.50 to 0.57) | 0.41 (0.38 to 0.44) | 0.24 (0.21 to 0.27) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Antacid (MAALOX) simultaneous administration | 50 mg single dose | 16 | 0.28 (0.23 to 0.33) | 0.26 (0.22 to 0.32) | 0.26 (0.21 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Antacid (MAALOX) 2 h after dolutegravir | 50 mg single dose | 16 | 0.82 (0.69 to 0.98) | 0.74 (0.62 to 0.90) | 0.70 (0.58 to 0.85) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Boceprevir 800 mg every 8 h | 50 mg once daily | 13 | 1.05 (0.96 to 1.15) | 1.07 (0.95 to 1.20) | 1.08 (0.91 to 1.28) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Calcium carbonate 1,200 mg simultaneous administration (fasted) | 50 mg single dose | 12 | 0.63 (0.50 to 0.81) | 0.61 (0.47 to 0.80) | 0.61 (0.47 to 0.80) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Calcium carbonate 1,200 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.07 (0.83 to 1.38) | 1.09 (0.84 to 1.43) | 1.08 (0.81 to 1.42) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Calcium carbonate 1,200 mg 2 h after dolutegravir | 50 mg single dose | 11 | 1.00 (0.78 to 1.29) | 0.94 (0.72 to 1.23) | 0.90 (0.68 to 1.19) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Carbamazepine 300 mg twice daily | 50 mg once daily | 16c | 0.67 (0.61 to 0.73) | 0.51 (0.48 to 0.55) | 0.27 (0.24 to 0.31) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Daclatasvir 60 mg once daily | 50 mg once daily | 12 | 1.29 (1.07 to 1.57) | 1.33 (1.11 to 1.59) | 1.45 (1.25 to 1.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ferrous fumarate 324 mg simultaneous administration (fasted) | 50 mg single dose | 11 | 0.43 (0.35 to 0.52) | 0.46 (0.38 to 0.56) | 0.44 (0.36 to 0.54) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ferrous fumarate 324 mg simultaneous administration (fed) | 50 mg single dose | 11 | 1.03 (0.84 to 1.26) | 0.98 (0.81 to 1.20) | 1.00 (0.81 to 1.23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ferrous fumarate 324 mg 2 h after dolutegravir | 50 mg single dose | 10 | 0.99 (0.81 to 1.21) | 0.95 (0.77 to 1.15) | 0.92 (0.74 to 1.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Multivitamin (One-A-Day) simultaneous administration | 50 mg single dose | 16 | 0.65 (0.54 to 0.77) | 0.67 (0.55 to 0.81) | 0.68 (0.56 to 0.82) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Omeprazole 40 mg once daily | 50 mg single dose | 12 | 0.92 (0.75 to 1.11) | 0.97 (0.78 to 1.20) | 0.95 (0.75 to 1.21) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Prednisone 60 mg once daily with taper | 50 mg once daily | 12 | 1.06 (0.99 to 1.14) | 1.11 (1.03 to 1.20) | 1.17 (1.06 to 1.28) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampina 600 mg once daily | 50 mg twice daily | 11 | 0.57 (0.49 to 0.65) | 0.46 (0.38 to 0.55) | 0.28 (0.23 to 0.34) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifampinb 600 mg once daily | 50 mg twice daily | 11 | 1.18 (1.03 to 1.37) | 1.33 (1.15 to 1.53) | 1.22 (1.01 to 1.48) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Rifabutin 300 mg once daily | 50 mg once daily | 9 | 1.16 (0.98 to 1.37) | 0.95 (0.82 to 1.10) | 0.70 (0.57 to 0.87) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg twice daily. b Comparison is rifampin taken with dolutegravir 50 mg twice daily compared with dolutegravir 50 mg once daily. c The number of subjects represents the maximum number of subjects that were evaluated. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Abacavir or Lamivudine: The drug interactions described are based on trials conducted with abacavir or lamivudine as single entities.
 
@@ -210,7 +228,7 @@ Methadone: In a trial of 11 HIV‑1–infected subjects receiving methadone‑ma
 The addition of methadone has no clinically significant effect on the pharmacokinetic properties of abacavir.
 
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV‑1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi‑drug regimen to HIV‑1/HCV co‑infected subjects.
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV‑1/HCV [hepatitis C virus] virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi‑drug regimen to HIV‑1/HCV co‑infected subjects.
 
 Sorbitol (Excipient): Lamivudine and sorbitol solutions were coadministered to 16 healthy adult subjects in an open-label, randomized-sequence, 4-period, crossover trial.
 Each subject received a single 300-mg dose of lamivudine oral solution alone or coadministered with a single dose of 3.2 g, 10.2 g, or 13.4 g of sorbitol in solution.
@@ -222,18 +240,18 @@ Lamivudine exposure (AUC decreased 15%) and zidovudine exposure (AUC increased 1
 
 Lamivudine and Zidovudine: No clinically significant alterations in lamivudine or zidovudine pharmacokinetics were observed in 12 asymptomatic HIV‑1–infected adult patients given a single dose of zidovudine (200 mg) in combination with multiple doses of lamivudine (300 mg every 12 hours).
 
-The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 10.
+The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 11.
 
-Table 10.
+Table 11.
 Effect of Coadministered Drugs on Abacavir or Lamivudine
 
-| Coadministered Drug and Dose | Drug and Dose | n | Concentrations of Abacavir or Lamivudine |  | Concentration of Coadministered Drug |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AUC | Variability |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ethanol 0.7 g/kg | AbacavirSingle 600 mg | 24 | ↑41% | 90% CI:35% to 48% | ↔a |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nelfinavir 750 mg every 8 h x 7 to 10 days | LamivudineSingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Trimethoprim 160 mg/ Sulfamethoxazole 800 mg daily x 5 days | LamivudineSingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ↑ = Increase; ↔ = No significant change. a The drug-drug interaction was only evaluated in males. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coadministered Drug and Dose | Drug and Dose | n | Concentrations of Abacavir or Lamivudine |  | Concentration of Coadministered Drug |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| AUC | Variability |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ethanol 0.7 g/kg | AbacavirSingle 600 mg | 24 | ↑41% | 90% CI:35% to 48% | ↔a |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nelfinavir 750 mg every 8 h x 7 to 10 days | LamivudineSingle 150 mg | 11 | ↑10% | 95% CI:1% to 20% | ↔ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Trimethoprim 160 mg/ Sulfamethoxazole 800 mg daily x 5 days | LamivudineSingle 300 mg | 14 | ↑43% | 90% CI:32% to 55% | ↔ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ↑ = Increase; ↔ = No significant change. a The drug-drug interaction was only evaluated in males. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 12.4 Microbiology
 
@@ -288,6 +306,9 @@ No subjects in the treatment arm receiving dolutegravir + EPZICOM in SINGLE (tre
 Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies/mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
 None of these subjects had a corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to abacavir and lamivudine, components of TRIUMEQ and TRIUMEQ PD, was observed in the arm receiving dolutegravir + EPZICOM in the SINGLE trial through Week 144.
+One ART-naïve subject receiving TRIUMEQ PD in the pediatric IMPAACT 2019 trial experienced confirmed virologic failure at Week 24 but subsequently suppressed to 76 copies/mL by Week 48 while on continued study treatment.
+The subject’s entry specimen (HIV-1 subtype AE) had the presence of baseline integrase substitution L74I polymorphism.
+Genotypic sequencing and phenotypic analyses failed at the confirmed virologic failure timepoint for this subject.
 
 Cross-Resistance
 

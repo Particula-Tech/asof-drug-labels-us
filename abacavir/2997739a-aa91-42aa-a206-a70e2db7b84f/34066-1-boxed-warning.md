@@ -5,8 +5,8 @@ Hypersensitivity Reactions
 Serious and sometimes fatal hypersensitivity reactions, with multiple organ involvement, have occurred with abacavir, a component of TRIUMEQ and TRIUMEQ PD (abacavir, dolutegravir, and lamivudine).
 Patients who carry the HLA‑B*5701 allele are at a higher risk of a hypersensitivity reaction to abacavir, although hypersensitivity reactions have occurred in patients who do not carry the HLA‑B*5701 allele [see Warnings and Precautions (5.1)].
 
-TRIUMEQ and TRIUMEQ PD are contraindicated in patients with a prior hypersensitivity reaction to abacavir and in HLA‑B*5701-positive patients [see Contraindications (4), Warnings and Precautions (5.1)].
-All patients should be screened for the HLA‑B*5701 allele prior to initiating therapy with TRIUMEQ or TRIUMEQ PD or reinitiation of therapy with TRIUMEQ or TRIUMEQ PD, unless patients have a previously documented HLA‑B*5701 allele assessment.
+TRIUMEQ and TRIUMEQ PD are contraindicated in patients with a prior hypersensitivity reaction to abacavir and in HLA-B*5701-positive patients [see Contraindications (4), Warnings and Precautions (5.1)].
+All patients should be screened for the HLA-B*5701 allele prior to initiating therapy with TRIUMEQ or TRIUMEQ PD or reinitiation of therapy with TRIUMEQ or TRIUMEQ PD, unless patients have a previously documented HLA‑B*5701 allele assessment.
 Discontinue TRIUMEQ or TRIUMEQ PD immediately if a hypersensitivity reaction is suspected, regardless of HLA-B*5701 status and even when other diagnoses are possible [see Contraindications (4), Warnings and Precautions (5.1)].
 
 Following a hypersensitivity reaction to TRIUMEQ or TRIUMEQ PD, NEVER restart TRIUMEQ or TRIUMEQ PD or any other abacavir‑containing product because more severe symptoms, including death can occur within hours.

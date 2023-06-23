@@ -29,20 +29,23 @@ This package is child-resistant.
 Keep out of reach of children.
 See prescribing information for dosage information.
 
+Do not accept if membrane seal under cap is missing or broken.
+
 Manufactured for:
 
 ViiV Healthcare
 
-RTP, NC 27709
+Durham, NC 27701
 
 Trademarks owned or licensed by ViiV Healthcare.
 
-©2022 ViiV Healthcare or licensor.
+©2023 ViiV Healthcare or licensor.
 
 www.triumeq.com
 
-1. 62000000078930 Rev.
-   06/22
+- Rev.
+  1/23
+- 62000000084540
 
 PRINICPAL DISPLAY PANEL
 
@@ -52,7 +55,11 @@ Triumeq PD
 
 (abacavir, dolutegravir, and lamivudine)
 
+Tablets of Oral Suspension
+
 60 mg/5 mg/30 mg
+
+Rx Only
 
 Triumeq and Triumeq PD are not interchangeable.
 
@@ -69,7 +76,8 @@ Contents:
 - •Prescribing Information
 - •Medication Guide
 - •Instructions for Use
-- •90 tablets
+
+90 tablets
 
 ViiV Healthcare
 
@@ -77,5 +85,6 @@ ViiV Healthcare
 
 Made in UK
 
-1. 62000000065746 Rev.
-   3/22
+1. 62000000084619 Rev.
+   12/22
+2. 
