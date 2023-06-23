@@ -80,7 +80,7 @@ Doses of the related beta2-adrenoceptor agonist albuterol, when administered int
 ## 5.9 Worsening of Narrow-Angle Glaucoma
 
 ANORO ELLIPTA should be used with caution in patients with narrow-angle glaucoma.
-Prescribers and patients should also be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos or colored images in association with red eyes from conjunctival congestion and corneal edema).
+Prescribers and patients should also be alert for signs and symptoms of acute narrow-angle glaucoma (e.g., eye pain or discomfort, blurred vision, visual halos, or colored images in association with red eyes from conjunctival congestion and corneal edema).
 Instruct patients to consult a healthcare provider immediately if any of these signs or symptoms develop.
 
 ## 5.10 Worsening of Urinary Retention

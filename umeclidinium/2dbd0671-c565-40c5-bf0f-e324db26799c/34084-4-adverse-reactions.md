@@ -65,7 +65,7 @@ Palpitations.
 
 Eye Disorders
 
-Blurred vision, glaucoma, increased intraocular pressure.
+Blurred vision, eye pain, glaucoma, increased intraocular pressure.
 
 Immune System Disorders
 

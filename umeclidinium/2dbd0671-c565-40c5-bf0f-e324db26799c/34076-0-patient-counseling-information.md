@@ -57,6 +57,6 @@ ANORO ELLIPTA was developed in collaboration with Innoviva.
 
 GlaxoSmithKline Durham, NC 27701
 
-©2022 GSK group of companies or its licensor.
+©2023 GSK group of companies or its licensor.
 
-ANR:11PI
+ANR:12PI

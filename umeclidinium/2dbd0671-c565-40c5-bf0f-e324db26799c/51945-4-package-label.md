@@ -6,9 +6,9 @@ ANORO ELLIPTA
 
 (umeclidinium and vilanterol inhalation powder)
 
-Rx Only
-
 62.5 mcg/25 mcg
+
+Rx Only
 
 FOR ORAL INHALATION ONLY
 
@@ -17,7 +17,9 @@ Each blister on the other strip contains 25 mcg of vilanterol, magnesium stearat
 
 1 ELLIPTA Inhaler containing 30 doses (60 blisters total)
 
-©2022 GSK group of companies or its licensor.
+GSK
 
-1. 62000000074516 Rev.1/22
+©2023 GSK group of companies or its licensor.
+
+1. 62000000084535 Rev.1/23
 2. 
