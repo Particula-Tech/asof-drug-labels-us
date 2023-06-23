@@ -12,7 +12,7 @@
   Only use if the solution is clear and colorless with no visible particles.
 - The LANTUS SoloStar prefilled pen dials in 1-unit increments.
 - Use LANTUS SoloStar prefilled pen with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
-- Refrigerate unused (unopened) LANTUS vials and SoloStar® prefilled pens.
+- Refrigerate unused (unopened) LANTUS vials and SoloStar ®prefilled pens.
 - Do not administer intravenously or via an insulin pump.
 - Do not dilute or mix LANTUS with any other insulin or solution.
 - The SoloStar prefilled pen is for single patient use only [see Warnings and Precautions (5.1)].

@@ -14,12 +14,12 @@ NPH insulin was administered either as once daily at bedtime or in the morning a
 
 In Study A, the average age was 39.2 years.
 The majority of patients were White (99%) and 55.7% were male.
-The mean BMI was approximately 24.9 kg/m2.
+The mean BMI was approximately 24.9 kg/m 2.
 The mean duration of diabetes was 15.5 years.
 
 In Study B, the average age was 38.5 years.
 The majority of patients were White (95.3%) and 50.6% were male.
-The mean BMI was approximately 25.8 kg/m2.
+The mean BMI was approximately 25.8 kg/m 2.
 The mean duration of diabetes was 17.4 years.
 
 In another clinical study (Study C), patients with type 1 diabetes (n=619) were randomized to 16 weeks of basal-bolus treatment with LANTUS or NPH insulin.
@@ -27,7 +27,7 @@ Insulin lispro was used before each meal.
 LANTUS was administered once daily at bedtime and NPH insulin was administered once or twice daily.
 The average age was 39.2 years.
 The majority of patients were White (96.9%) and 50.6% were male.
-The mean BMI was approximately 25.6 kg/m2.
+The mean BMI was approximately 25.6 kg/m 2.
 The mean duration of diabetes was 18.5 years.
 
 In these 3 studies, LANTUS and NPH insulin had similar effects on HbA1c (Table 9) with a similar overall rate of severe symptomatic hypoglycemia [see Adverse Reactions (6.1)].
@@ -63,7 +63,7 @@ In a randomized, controlled clinical study (Study D), pediatric patients (age ra
 LANTUS was administered once daily at bedtime and NPH insulin was administered once or twice daily.
 The average age was 11.7 years.
 The majority of patients were White (96.8%) and 51.9% were male.
-The mean BMI was approximately 18.9 kg/m2.
+The mean BMI was approximately 18.9 kg/m 2.
 The mean duration of diabetes was 4.8 years.
 Similar effects on HbA1c (Table 10) were observed in both treatment groups [see Adverse Reactions (6.1)].
 
@@ -98,7 +98,7 @@ Table 10: Type 1 Diabetes Mellitus – Pediatric
 In a randomized, controlled clinical study (Study E) (n=570), LANTUS was evaluated for 52 weeks in combination with oral antidiabetic medications (a sulfonylurea, metformin, acarbose, or combinations of these drugs).
 The average age was 59.5 years.
 The majority of patients were White (92.8%) and 53.7% were male.
-The mean BMI was approximately 29.1 kg/m2.
+The mean BMI was approximately 29.1 kg/m 2.
 The mean duration of diabetes was 10.3 years.
 LANTUS administered once daily at bedtime was as effective as NPH insulin administered once daily at bedtime in reducing HbA1c and fasting glucose (Table 11).
 The rate of severe symptomatic hypoglycemia was similar in LANTUS and NPH insulin treated patients [see Adverse Reactions (6.1)].
@@ -107,7 +107,7 @@ In a randomized, controlled clinical study (Study F), in patients with type 2 di
 Regular human insulin was used before meals, as needed.
 The average age was 59.3 years.
 The majority of patients were White (80.7%) and 60% were male.
-The mean BMI was approximately 30.5 kg/m2.
+The mean BMI was approximately 30.5 kg/m 2.
 The mean duration of diabetes was 13.7 years.
 LANTUS had similar effectiveness as either once- or twice-daily NPH insulin in reducing HbA1c and fasting glucose (Table 11) with a similar incidence of hypoglycemia [see Adverse Reactions (6.1)].
 
@@ -121,7 +121,7 @@ Patients or study personnel used an algorithm to adjust the LANTUS and NPH insul
 After the LANTUS or NPH insulin dose was adjusted, other antidiabetic agents, including premeal insulin were to be adjusted or added.
 The average age was 55.1 years.
 The majority of patients were White (85.3%) and 53.9% were male.
-The mean BMI was approximately 34.3 kg/m2.
+The mean BMI was approximately 34.3 kg/m 2.
 The mean duration of diabetes was 10.8 years.
 The LANTUS group had a smaller mean reduction from baseline in HbA1c compared to the NPH insulin group, which may be explained by the lower daily basal insulin doses in the LANTUS group (Table 11).
 The incidences of severe symptomatic hypoglycemia were similar between groups [see Adverse Reactions (6.1)].
@@ -139,7 +139,7 @@ Table 11: Type 2 Diabetes Mellitus – Adult
 | Adjusted mean change from baseline | -0.5 | -0.4 | -0.4 | -0.6 | -0.6 | -0.8 |
 | LANTUS – NPH | -0.1 |  | +0.2 |  | +0.2 |  |
 | 95% CI for Treatment difference | (-0.3; +0.1) |  | (0.0; +0.4) |  | (+0.1; +0.4) |  |
-| Basal insulin doseIn Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5). |  |  |  |  |  |  |
+| Basal insulin dose In Study G, the baseline dose of basal or total insulin was the first available on-treatment dose prescribed during the study (on visit month 1.5). |  |  |  |  |  |  |
 | Baseline mean | 14 | 15 | 44.1 | 45.5 | 39 | 44 |
 | Mean change from baseline | +12 | +9 | -1 | +7 | +23 | +30 |
 | Total insulin dose |  |  |  |  |  |  |
@@ -158,7 +158,7 @@ The safety and efficacy of LANTUS administered pre-breakfast, pre-dinner, or at 
 Patients were also treated with insulin lispro at mealtime.
 The average age was 40.9 years.
 All patients were White (100%) and 53.7% were male.
-The mean BMI was approximately 25.3 kg/m2.
+The mean BMI was approximately 25.3 kg/m 2.
 The mean duration of diabetes was 17.3 years.
 LANTUS administered at different times of the day resulted in similar reductions in HbA1c compared to that with bedtime administration (see Table 12).
 In these patients, data are available from 8-point home glucose monitoring.
@@ -170,7 +170,7 @@ The safety and efficacy of LANTUS administered pre-breakfast or at bedtime were 
 All patients in this study also received glimepiride 3 mg daily.
 The average age was 60.8 years.
 The majority of patients were White (96.6%) and 53.7% were male.
-The mean BMI was approximately 28.7 kg/m2.
+The mean BMI was approximately 28.7 kg/m 2.
 The mean duration of diabetes was 10.1 years.
 LANTUS given before breakfast was at least as effective in lowering HbA1c as LANTUS given at bedtime or NPH insulin given at bedtime (see Table 12).
 
@@ -181,14 +181,14 @@ Table 12: LANTUS Timing of Daily Dosing in Type 1 (Study H) and Type 2 (Study I)
 |  | Study H |  |  | Study I |  |  |
 | Treatment duration | 24 weeks |  |  | 24 weeks |  |  |
 | Treatment in combination with | Insulin lispro |  |  | Glimepiride |  |  |
-| Number of subjects treatedIntent-to-treat | 112 | 124 | 128 | 234 | 226 | 227 |
+| Number of subjects treated Intent-to-treat | 112 | 124 | 128 | 234 | 226 | 227 |
 | HbA1c |  |  |  |  |  |  |
 | Baseline mean | 7.6 | 7.5 | 7.6 | 9.1 | 9.1 | 9.1 |
 | Mean change from baseline | -0.2 | -0.1 | 0.0 | -1.3 | -1.0 | -0.8 |
 | Basal insulin dose (U) |  |  |  |  |  |  |
 | Baseline mean | 22 | 23 | 21 | 19 | 20 | 19 |
 | Mean change from baseline | 5 | 2 | 2 | 11 | 18 | 18 |
-| Total insulin dose (U) |  |  |  | NANot applicable | NA | NA |
+| Total insulin dose (U) |  |  |  | NA Not applicable | NA | NA |
 | Baseline mean | 52 | 52 | 49 | – | – | – |
 | Mean change from baseline | 2 | 3 | 2 | – | – | – |
 | Body weight (kg) |  |  |  |  |  |  |
@@ -210,7 +210,7 @@ The results for the primary endpoint are shown in Table 13 for both the per-prot
 
 Table 13: Number (%) of Patients with 3 or More Step Progression on ETDRS Scale at Endpoint
 
-|  | LANTUS (%) | NPH (%) | DifferenceDifference = LANTUS – NPH,Using a generalized linear model (SAS GENMOD) with treatment and baseline HbA1c strata (cutoff 9.0%) as the classified independent variables, and with binomial distribution and identity link function (SE) | 95% CI for difference |
+|  | LANTUS (%) | NPH (%) | Difference Difference = LANTUS – NPH,Using a generalized linear model (SAS GENMOD) with treatment and baseline HbA1c strata (cutoff 9.0%) as the classified independent variables, and with binomial distribution and identity link function(SE) | 95% CI for difference |
 | --- | --- | --- | --- | --- |
 | Per-protocol | 53/374 (14.2%) | 57/363 (15.7%) | -2.0% (2.6%) | -7.0% to +3.1% |
 | Intent-to-Treat | 63/502 (12.5%) | 71/487 (14.6%) | -2.1% (2.1%) | -6.3% to +2.1% |
@@ -230,7 +230,7 @@ Anthropometric and disease characteristics were balanced at baseline.
 The mean age was 64 years and 8% of participants were 75 years of age or older.
 The majority of participants were male (65%).
 Fifty nine percent were Caucasian, 25% were Latin, 10% were Asian and 3% were Black.
-The median baseline BMI was 29 kg/m2.
+The median baseline BMI was 29 kg/m 2.
 Approximately 12% of participants had abnormal glucose levels (IGT and/or IFG) at baseline and 88% had type 2 diabetes.
 For patients with type 2 diabetes, 59% were treated with a single oral antidiabetic drug, 23% had known diabetes but were on no antidiabetic drug and 6% were newly diagnosed during the screening procedure.
 The mean HbA1c (SD) at baseline was 6.5% (1.0).

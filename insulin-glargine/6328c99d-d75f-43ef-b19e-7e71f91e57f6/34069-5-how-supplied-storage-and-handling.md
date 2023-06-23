@@ -13,7 +13,7 @@ The LANTUS SoloStar prefilled pen dials in 1-unit increments.
 
 Needles are not included in the packs.
 
-BD Ultra-Fine® needles‡ to be used in conjunction with SoloStar prefilled pens are sold separately and are manufactured by BD.
+BD Ultra-Fine ®needles ‡to be used in conjunction with SoloStar prefilled pens are sold separately and are manufactured by BD.
 
 ## 16.2 Storage
 

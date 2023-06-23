@@ -8,7 +8,7 @@ LANTUS, TOUJEO and SoloStar are registered trademarks of sanofi-aventis U.S. LLC
 
 ‡Other brands listed are the trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC
 
-Instructions for Use LANTUS® (LAN-tus) (insulin glargine injection) for subcutaneous use 10 mL Vial (100 Units/mL, U-100)
+Instructions for Use LANTUS ®(LAN-tus) (insulin glargine injection) for subcutaneous use 10 mL Vial (100 Units/mL, U-100)
 
 Read the Instructions for Use before you start taking LANTUS and each time you get a new LANTUS vial.
 There may be new information.
@@ -23,7 +23,7 @@ Supplies needed to give your injection:
 - a U-100 insulin syringe and needle
 - 2 alcohol swabs
 - 1 sharps container for throwing away used needles and syringes.
-  See "Disposing of used needles and syringes" at the end of these instructions.
+  See " Disposing of used needles and syringes" at the end of these instructions.
 
 Preparing your LANTUS dose:
 
@@ -31,10 +31,9 @@ Preparing your LANTUS dose:
 - Check the LANTUS label to make sure you are taking the right type of insulin.
   This is especially important if you use more than 1 type of insulin.
 - Check the insulin to make sure it is clear and colorless.
-  Do not use LANTUS if it is colored or cloudy, or if you see particles in the solution.
-- Do not use LANTUS after the expiration date stamped on the label or 28 days after you first use it.
-- Always use a syringe that is marked for U-100 insulin.
-  If you use a syringe other than a U-100 insulin syringe, you may get the wrong dose of insulin.
+  Do notuse LANTUS if it is colored or cloudy, or if you see particles in the solution.
+- Do notuse LANTUS after the expiration date stamped on the label or 28 days after you first use it.
+- Always use a syringe that is marked for U-100 insulin.If you use a syringe other than a U-100 insulin syringe, you may get the wrong dose of insulin.
 - Always use a new syringe or needle for each injection.
   Do not re-use or share your syringes or needles with other people.
   You may give other people a serious infection or get a serious infection from them.
@@ -42,7 +41,7 @@ Preparing your LANTUS dose:
 Step 1:
 
 If you are using a new vial, remove the protective cap.
-Do not remove the stopper.
+Do notremove the stopper.
 
 Step 2:
 
@@ -77,7 +76,7 @@ Giving your LANTUS injection:
 
 - Inject your insulin exactly as your healthcare provider has shown you.
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
-- Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in the skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
+- Change (rotate) your injection sites within the area you choose for each doseto reduce your risk of getting lipodystrophy (pits in the skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
 - Do not inject where the skin has pits, is thickened, or has lumps.
 - Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
@@ -93,20 +92,20 @@ Step 8:
 - Insert the needle in the way your healthcare provider showed you.
 - Release the skin.
 - Slowly push in the plunger of the syringe all the way, making sure you have injected all the insulin.
-- Leave the needle in the skin for about 10 seconds.
+- Leave the needle in the skin for about 10seconds.
 
 Step 9:
 
 - Pull the needle straight out of your skin.
 - Gently press the injection site for several seconds.
-  Do not rub the area.
-- Do not recap the used needle.
+  Do notrub the area.
+- Do notrecap the used needle.
   Recapping the needle can lead to a needle stick injury.
 
 Disposing of used needles and syringes:
 
 - Put your used needles and syringes in a FDA-cleared sharps disposal container right away after use.
-  Do not throw away (dispose of) loose needles and syringes in your household trash.
+  Do notthrow away (dispose of) loose needles and syringes in your household trash.
 - If you do not have a FDA-cleared sharps container, you may use a household container that is:
   - made of a heavy-duty plastic,
   - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
@@ -116,17 +115,17 @@ Disposing of used needles and syringes:
 - When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
-- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
-  Do not recycle your used sharps disposal container.
+- Do notdispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do notrecycle your used sharps disposal container.
 
 How should I store LANTUS?
 
 - Store unused LANTUS vials in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Store in-use (opened) LANTUS vials in a refrigerator or at room temperature below 86°F (30°C).
-- Do not freeze LANTUS.
+- Do notfreeze LANTUS.
 - Keep LANTUS out of direct heat and light.
 - If a vial has been frozen or overheated, throw it away.
-- The LANTUS vials you are using should be thrown away after 28 days, even if it still has insulin left in it.
+- The LANTUS vials you are using should be thrown away after 28days, even if it still has insulin left in it.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
@@ -138,17 +137,17 @@ sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-| Patient Information LANTUS® (LAN-tus) (insulin glargine injection) for subcutaneous use, 100 Units/mL (U-100) |
+| Patient Information LANTUS ®(LAN-tus) (insulin glargine injection) for subcutaneous use, 100 Units/mL (U-100) |
 | --- |
-| Do not share your LANTUS SoloStar® pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them.What is LANTUS?LANTUS is a long-acting man-made insulin used to control high blood sugar in adults with diabetes mellitus. LANTUS is not for use to treat diabetic ketoacidosis.It is not known if LANTUS is safe and effective in children less than 6 years of age with type 1 diabetes.It is not known if LANTUS is safe and effective in children with type 2 diabetes. |
+| Do not share your LANTUS SoloStar ®pen with other people, even if the needle has been changed. You may give other people a serious infection, or get a serious infection from them. What is LANTUS?LANTUS is a long-acting man-made insulin used to control high blood sugar in adults with diabetes mellitus. LANTUS is not for use to treat diabetic ketoacidosis.It is not known if LANTUS is safe and effective in children less than 6 years of age with type 1 diabetes.It is not known if LANTUS is safe and effective in children with type 2 diabetes. |
 | Who should not use LANTUS?Do not use LANTUS if you: are having an episode of low blood sugar (hypoglycemia).have an allergy to insulin glargine or any of the ingredients in LANTUS. See the end of this Patient Information leaflet for a complete list of ingredients in LANTUS. |
 | What should I tell my healthcare provider before using LANTUS?Before using LANTUS, tell your healthcare provider about all your medical conditions including if you: have liver or kidney problems.take other medicines, especially ones called TZDs (thiazolidinediones).have heart failure or other heart problems. If you have heart failure, it may get worse while you take TZDs with LANTUS.are pregnant, planning to become pregnant, or are breastfeeding. It is not known if LANTUS may harm your unborn baby or breastfeeding baby. Tell your healthcare provider about all the medicines you take including prescription and over-the-counter medicines, vitamins, and herbal supplements.Before you start using LANTUS, talk to your healthcare provider about low blood sugar and how to manage it. |
-| How should I use LANTUS? Read the detailed Instructions for Use that come with your LANTUS SoloStar single-patient-use prefilled pen.Use LANTUS exactly as your healthcare provider tells you to. Your healthcare provider should tell you how much LANTUS to use and when to use it.Know the amount of LANTUS you use. Do not change the amount of LANTUS you use unless your healthcare provider tells you to.Check your insulin label each time you give your injection to make sure you are using the correct insulin.LANTUS comes in a SoloStar single-patient-use prefilled pen that you must use to give your LANTUS. The dose counter on your pen shows your dose of LANTUS. Do not make any dose changes unless your healthcare provider tells you to.Do not use a syringe to remove LANTUS from your SoloStar disposable prefilled pen.Do not re-use needles. Always use a new needle for each injection. Re-use of needles increases your risk of having blocked needles, which may cause you to get the wrong dose of LANTUS. Using a new needle for each injection lowers your risk of getting an infection. If your needle is blocked, follow the instructions in Step 3 of the Instructions for Use.You may take LANTUS at any time during the day but you must take it at the same time every day.LANTUS is injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).Do not use LANTUS in an insulin pump or inject LANTUS into your vein (intravenously).Change (rotate) your injection sites within area you chose with each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites. Do not use the exact same spot for each injection.Do not inject where the skin has pits, is thickened, or has lumps.Do not inject where skin is tender, bruised, scaly or hard, or into scars or damaged skin. Do not mix LANTUS with any other type of insulin or liquid medicine.Check your blood sugar levels. Ask your healthcare provider what your blood sugar should be and when you should check your blood sugar levels. Keep LANTUS and all medicines out of the reach of children. |
+| How should I use LANTUS? Read the detailed Instructions for Usethat come with your LANTUS SoloStar single-patient-use prefilled pen. Use LANTUS exactly as your healthcare provider tells you to. Your healthcare provider should tell you how much LANTUS to use and when to use it.Know the amount of LANTUS you use. Do notchange the amount of LANTUS you use unless your healthcare provider tells you to. Check your insulin label each time you give your injection to make sure you are using the correct insulin.LANTUS comes in a SoloStar single-patient-use prefilled pen that you must use to give your LANTUS. The dose counter on your pen shows your dose of LANTUS. Do not make any dose changes unless your healthcare provider tells you to.Do notuse a syringe to remove LANTUS from your SoloStar disposable prefilled pen. Do notre-use needles. Always use a new needle for each injection. Re-use of needles increases your risk of having blocked needles, which may cause you to get the wrong dose of LANTUS. Using a new needle for each injection lowers your risk of getting an infection. If your needle is blocked, follow the instructions in Step 3of the Instructions for Use. You may take LANTUS at any time during the day but you must take it at the same time every day.LANTUS is injected under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).Do not use LANTUS in an insulin pump or inject LANTUS into your vein (intravenously).Change (rotate) your injection sites within area you chose with each doseto reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites. Do notuse the exact same spot for each injection. Do notinject where the skin has pits, is thickened, or has lumps. Do notinject where skin is tender, bruised, scaly or hard, or into scars or damaged skin. Do notmix LANTUS with any other type of insulin or liquid medicine. Check your blood sugar levels.Ask your healthcare provider what your blood sugar should be and when you should check your blood sugar levels. Keep LANTUS and all medicines out of the reach of children. |
 | Your dose of LANTUS may need to change because of: a change in level of physical activity or exercise, weight gain or loss, increased stress, illness, change in diet, or because of the medicines you take. |
 | What should I avoid while using LANTUS?While using LANTUS do not: drive or operate heavy machinery, until you know how LANTUS affects you.drink alcohol or use over-the-counter medicines that contain alcohol. |
-| What are the possible side effects of LANTUS and other insulins?LANTUS may cause serious side effects that can lead to death, including: low blood sugar (hypoglycemia). Signs and symptoms that may indicate low blood sugar include: dizziness or light-headedness, sweating, confusion, headache, blurred vision, slurred speech, shakiness, fast heartbeat, anxiety, irritability or mood change, hunger. severe allergic reaction (whole body reaction). Get medical help right away if you have any of these signs or symptoms of a severe allergic reaction: a rash over your whole body, trouble breathing, a fast heartbeat, or sweating. low potassium in your blood (hypokalemia).Heart failure. Taking certain diabetes pills called TZDs (thiazolidinediones) with LANTUS may cause heart failure in some people. This can happen even if you have never had heart failure or heart problems before. If you already have heart failure it may get worse while you take TZDs with LANTUS. Your healthcare provider should monitor you closely while you are taking TZDs with LANTUS. Tell your healthcare provider if you have any new or worse symptoms of heart failure including: shortness of breath, swelling of your ankles or feet, sudden weight gain. Treatment with TZDs and LANTUS may need to be changed or stopped by your healthcare provider if you have new or worse heart failure. Get emergency medical help if you have: trouble breathing; shortness of breath; fast heartbeat; swelling of your face, tongue, or throat; sweating; extreme drowsiness; dizziness; confusion. The most common side effects of LANTUS include: low blood sugar (hypoglycemia); weight gain; allergic reactions, including reactions at your injection site; skin thickening or pits at the injection site (lipodystrophy). These are not all the possible side effects of LANTUS. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
-| General information about the safe and effective use of LANTUS.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use LANTUS for a condition for which it was not prescribed. Do not give LANTUS to other people, even if they have the same symptoms that you have. It may harm them. This Patient Information leaflet summarizes the most important information about LANTUS. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about LANTUS that is written for healthcare professionals. For more information about LANTUS call 1-800-633-1610 or go to the website www.lantus.com. |
-| What are the ingredients in LANTUS? Active ingredient: insulin glargine3 mL SoloStar prefilled pen inactive ingredients: zinc, m-cresol, glycerol, and water for injection Hydrochloric acid and sodium hydroxide may be added to adjust the pH. |
+| What are the possible side effects of LANTUS and other insulins?LANTUS may cause serious side effects that can lead to death, including: low blood sugar (hypoglycemia).Signs and symptoms that may indicate low blood sugar include: dizziness or light-headedness, sweating, confusion, headache, blurred vision, slurred speech, shakiness, fast heartbeat, anxiety, irritability or mood change, hunger. severe allergic reaction (whole body reaction). Get medical help right away if you have any of these signs or symptoms of a severe allergic reaction: a rash over your whole body, trouble breathing, a fast heartbeat, or sweating. low potassium in your blood (hypokalemia).Heart failure.Taking certain diabetes pills called TZDs (thiazolidinediones) with LANTUS may cause heart failure in some people. This can happen even if you have never had heart failure or heart problems before. If you already have heart failure it may get worse while you take TZDs with LANTUS. Your healthcare provider should monitor you closely while you are taking TZDs with LANTUS. Tell your healthcare provider if you have any new or worse symptoms of heart failure including: shortness of breath, swelling of your ankles or feet, sudden weight gain. Treatment with TZDs and LANTUS may need to be changed or stopped by your healthcare provider if you have new or worse heart failure. Get emergency medical help if you have: trouble breathing; shortness of breath; fast heartbeat; swelling of your face, tongue, or throat; sweating; extreme drowsiness; dizziness; confusion. The most common side effects of LANTUS include: low blood sugar (hypoglycemia); weight gain; allergic reactions, including reactions at your injection site; skin thickening or pits at the injection site (lipodystrophy). These are not all the possible side effects of LANTUS.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| General information about the safe and effective use of LANTUS.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do notuse LANTUS for a condition for which it was not prescribed. Do notgive LANTUS to other people, even if they have the same symptoms that you have. It may harm them. This Patient Information leaflet summarizes the most important information about LANTUS. If you would like more information, talk with your healthcare provider. You can ask your healthcare provider or pharmacist for information about LANTUS that is written for healthcare professionals. For more information about LANTUS call 1-800-633-1610 or go to the website www.lantus.com. |
+| What are the ingredients in LANTUS? Active ingredient:insulin glargine 3 mL SoloStar prefilled pen inactive ingredients:zinc, m-cresol, glycerol, and water for injection Hydrochloric acid and sodium hydroxide may be added to adjust the pH. |
 | Manufactured by: sanofi-aventis U.S. LLC, Bridgewater, NJ 08807Novaplus is a registered trademark of Vizient, Inc. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
@@ -157,7 +156,7 @@ Revised: December 2020
 
 # Instructions for Use
 
-LANTUS® SOLOSTAR® Single-Patient-Use Prefilled Pen (insulin glargine injection)
+LANTUS ®SOLOSTAR ®Single-Patient-Use Prefilled Pen (insulin glargine injection)
 
 Your healthcare professional has decided that SoloStar is right for you.
 Talk with your healthcare professional about proper injection technique before using SoloStar.
@@ -185,11 +184,10 @@ If you have any questions about SoloStar or about diabetes, ask your healthcare 
 
 Important information for use of SoloStar:
 
-- Do not share your LANTUS SoloStar pen with other people, even if the needle has been changed.
-  You may give other people a serious infection, or get a serious infection from them.
+- Do not share your LANTUS SoloStar pen with other people, even if the needle has been changed.You may give other people a serious infection, or get a serious infection from them.
 - Do not re-use needles.
   Always attach a new needle before each use.
-- BD Ultra-Fine® needles* are compatible with SoloStar.
+- BD Ultra-Fine ®needles* are compatible with SoloStar.
   These are sold separately and are manufactured by BD.
   Contact your healthcare professional for further information.
 - Always perform the safety test before each injection.
@@ -197,24 +195,24 @@ Important information for use of SoloStar:
 - If your injection is given by another person, special caution must be taken by this person to avoid accidental needle injury and transmission of infection.
 - Never use SoloStar if it is damaged or if you are not sure that it is working properly.
 - Always have a spare SoloStar in case your SoloStar is lost or damaged.
-- Change (rotate) your injection sites within the area you choose for each dose (see "Places to inject").
+- Change (rotate) your injection sites within the area you choose for each dose (see " Places to inject").
 
 Places to inject
 
 - Inject your insulin exactly as your healthcare provider has shown you.
 - Inject your insulin under the skin (subcutaneously) of your upper legs (thighs), upper arms, or stomach area (abdomen).
 - Change (rotate) your injection sites within the area you choose for each dose to reduce your risk of getting lipodystrophy (pits in skin or thickened skin) and localized cutaneous amyloidosis (skin with lumps) at the injection sites.
-- Do not inject where the skin has pits, is thickened, or has lumps.
-- Do not inject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
+- Do notinject where the skin has pits, is thickened, or has lumps.
+- Do notinject where the skin is tender, bruised, scaly or hard, or into scars or damaged skin.
 
 Step 1.
 Check the insulin
 
-- A.Check the label on your SoloStar to make sure you have the correct insulin.
-  The LANTUS SoloStar is grey with a purple injection button.
-- B.Take off the pen cap.
-- C.Check the appearance of your insulin.
-  LANTUS is a clear insulin.
+- Check the label on your SoloStar to make sure you have the correct insulin.
+  The LANTUSSoloStar is grey with a purple injection button.
+- Take off the pen cap.
+- Check the appearance of your insulin.
+  LANTUSis a clear insulin.
   Do not use this SoloStar if the insulin is cloudy, colored or has particles.
 
 Step 2.
@@ -224,28 +222,28 @@ Do not re-use needles.
 Always use a new sterile needle for each injection.
 This helps prevent contamination and potential needle blocks.
 
-- A.Wipe the Rubber Seal with alcohol.
+- Wipe the Rubber Seal with alcohol.
 
-- B.Remove the protective seal from a new needle.
-- C.Line up the needle with the pen, and keep it straight as you attach it (screw or push on, depending on the needle type).
+- Remove the protective seal from a new needle.
+- Line up the needle with the pen, and keep it straight as you attach it (screw or push on, depending on the needle type).
 
 - If the needle is not kept straight while you attach it, it can damage the rubber seal and cause leakage, or break the needle.
 
 Step 3.
 Perform a Safety test
 
-Always perform the safety test before each injection.
+Alwaysperform the safety test before each injection.
 Performing the safety test ensures that you get an accurate dose by:
 
 - ensuring that pen and needle work properly
 - removing air bubbles
 
-- A.Select a dose of 2 units by turning the dosage selector.
-- B.Take off the outer needle cap and keep it to remove the used needle after injection.
+- Select a dose of 2 units by turning the dosage selector.
+- Take off the outer needle cap and keep it to remove the used needle after injection.
   Take off the inner needle cap and discard it.
-- C.Hold the pen with the needle pointing upwards.
-- D.Tap the insulin reservoir so that any air bubbles rise up towards the needle.
-- E.Press the injection button all the way in.
+- Hold the pen with the needle pointing upwards.
+- Tap the insulin reservoir so that any air bubbles rise up towards the needle.
+- Press the injection button all the way in.
   Check if insulin comes out of the needle tip.
 
 You may have to perform the safety test several times before insulin is seen.
@@ -262,8 +260,8 @@ Select the dose
 You can set the dose in steps of 1 unit, from a minimum of 1 unit to a maximum of 80 units.
 If you need a dose greater than 80 units, you should give it as two or more injections.
 
-- A.Check that the dose window shows "0" following the safety test.
-- B.Select your required dose (in the example below, the selected dose is 30 units).
+- Check that the dose window shows "0" following the safety test.
+- Select your required dose (in the examplebelow, the selected dose is 30 units).
   If you turn past your dose, you can turn back down.
 
 - Do not push the injection button while turning, as insulin will come out.
@@ -274,13 +272,12 @@ If you need a dose greater than 80 units, you should give it as two or more inje
 Step 5.
 Inject the dose
 
-- A.Use the injection method as instructed by your healthcare professional.
-- B.Insert the needle into the skin.
-- C.Deliver the dose by pressing the injection button in all the way.
+- Use the injection method as instructed by your healthcare professional.
+- Insert the needle into the skin.
+- Deliver the dose by pressing the injection button in all the way.
   The number in the dose window will return to "0" as you inject.
-- D.Keep the injection button pressed all the way in.
-  Slowly count to 10 before you withdraw the needle from the skin.
-  This ensures that the full dose will be delivered.
+- Keep the injection button pressed all the way in.
+  Slowly count to 10 before you withdraw the needle from the skin.This ensures that the full dose will be delivered.
 
 Step 6.
 Remove and discard the needle
@@ -291,15 +288,15 @@ This helps prevent:
 - Contamination and/or infection.
 - Entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
 
-- A.Put the outer needle cap back on the needle, and use it to unscrew the needle from the pen.
+- Put the outer needle cap back on the needle, and use it to unscrew the needle from the pen.
   To reduce the risk of accidental needle injury, never replace the inner needle cap.
   - If your injection is given by another person, special caution must be taken by this person when removing and disposing the needle.
     Follow recommended safety measures for removal and disposal of needles (e.g., a one-handed capping technique) in order to reduce the risk of accidental needle injury and transmission of infectious diseases.
-- B.Dispose of the needle safely.
+- Dispose of the needle safely.
   Used needles should be placed in sharps containers (such as red biohazard containers), hard plastic containers (such as detergent bottles), or metal containers (such as an empty coffee can).
   Such containers should be sealed and disposed of properly.
   If you are giving an injection to another person, you should remove the needle in an approved manner to avoid needle-stick injuries.
-- C.Always put the pen cap back on the pen, then store the pen until your next injection.
+- Always put the pen cap back on the pen, then store the pen until your next injection.
 
 Storage Instructions
 

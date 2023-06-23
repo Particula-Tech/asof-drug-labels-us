@@ -27,7 +27,7 @@ After subcutaneous injection of LANTUS in healthy subjects and in patients with 
 
 Metabolism and Elimination
 
-A metabolism study in humans indicates that insulin glargine is partly metabolized at the carboxyl terminus of the B chain in the subcutaneous depot to form two active metabolites with in vitro activity similar to that of human insulin, M1 (21A-Gly-insulin) and M2 (21A-Gly-des-30B-Thr-insulin).
+A metabolism study in humans indicates that insulin glargine is partly metabolized at the carboxyl terminus of the B chain in the subcutaneous depot to form two active metabolites with in vitro activity similar to that of human insulin, M1 (21 A-Gly-insulin) and M2 (21 A-Gly-des-30 B-Thr-insulin).
 Unchanged drug and these degradation products are also present in the circulation.
 
 Special Populations

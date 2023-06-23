@@ -6,9 +6,9 @@ Insulin glargine has low aqueous solubility at neutral pH.
 At pH 4 insulin glargine is completely soluble.
 After injection into the subcutaneous tissue, the acidic solution is neutralized, leading to formation of microprecipitates from which small amounts of insulin glargine are slowly released, resulting in a relatively constant concentration/time profile over 24 hours with no pronounced peak.
 This profile allows once-daily dosing as a basal insulin.
-LANTUS is produced by recombinant DNA technology utilizing a non-pathogenic laboratory strain of Escherichia coli (K12) as the production organism.
+LANTUS is produced by recombinant DNA technology utilizing a non-pathogenic laboratory strain of Escherichia coli(K12) as the production organism.
 Insulin glargine differs from human insulin in that the amino acid asparagine at position A21 is replaced by glycine and two arginines are added to the C-terminus of the B-chain.
-Chemically, insulin glargine is 21A-Gly-30Ba-L-Arg-30Bb-L-Arg-human insulin and has the empirical formula C267H404N72O78S6 and a molecular weight of 6063.
+Chemically, insulin glargine is 21 A-Gly-30 Ba-L-Arg-30 Bb-L-Arg-human insulin and has the empirical formula C 267H 404N 72O 78S 6and a molecular weight of 6063.
 Insulin glargine has the following structural formula:
 
 LANTUS consists of insulin glargine dissolved in a clear aqueous fluid.
