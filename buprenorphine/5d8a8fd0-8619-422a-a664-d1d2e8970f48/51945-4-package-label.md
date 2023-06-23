@@ -27,7 +27,7 @@ Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispos
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-BRIX-011-02 MM/20 120430
+05/23 126980
 
 NDC 58284-208-01
 
@@ -60,7 +60,7 @@ Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispos
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-BRIX-012-02 MM/20 120432
+05/23 126981
 
 NDC 58284-216-01
 
@@ -93,7 +93,7 @@ Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispos
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-BRIX-013-02 MM/20 120434
+05/23 126982
 
 NDC 58284-224-01
 
@@ -126,7 +126,7 @@ Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispos
 Once-weekly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-BRIX-014-02 MM/20 120436
+05/23 126983
 
 NDC 58284-232-01
 
@@ -159,7 +159,7 @@ Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispos
 Once-monthly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-BRIX-015-02 MM/20 120438
+05/23 126984
 
 NDC 58284-264-01
 
@@ -192,7 +192,7 @@ Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispos
 Once-monthly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-BRIX-016-02 MM/20 120440
+05/23 126985
 
 NDC 58284-296-01
 
@@ -225,6 +225,6 @@ Rx ONLY Distributed by: Braeburn Inc. Plymouth Meeting, PA 19462 Properly dispos
 Once-monthly subcutaneous injection for treatment of opiod use disorder.
 For questions, call 1-833-274-9234.
 
-BRIX-017-02 MM/20 120442
+05/23 126986
 
 NDC 58284-228-01
