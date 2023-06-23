@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Inform patients, families, or caregivers that the primary side effect of phenylephrine hydrochloride injection is hypertension and rarely, hypertensive crisis.
+Inform patients, families, or caregivers that the primary side effect of phenylephrine hydrochloride injection is hypertension and, rarely, hypertensive crisis.
 Patients may experience bradycardia (slow heart rate), which in some cases may produce heart block or other cardiac arrhythmias, extra ventricular beats, myocardial ischemia in patients with underlying cardiac disease, and pulmonary edema (fluid in the lungs) or rales.
 Common, less serious symptoms include the following:
 
@@ -10,10 +10,10 @@ Common, less serious symptoms include the following:
 - nausea, vomiting
 - excitability, dizziness, sweating, flushing
 
-meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2022 Meitheal Pharmaceuticals Inc.
+meitheal® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2023 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
 
-Revised: October 2022
+Revised: May 2023
 
-8H7EAM9-00
+8H7EAM9-01

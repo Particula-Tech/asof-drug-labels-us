@@ -1,5 +1,5 @@
 # 4 CONTRAINDICATIONS
 
-The use of phenylephrine hydrochloride injection is contraindicated in patients with:
+The use of phenylephrine hydrochloride injection 10 mg per mL is contraindicated in patients with:
 
-- Hypersensitivity to it or any of its components
+- Hypersensitivity to the products or any of their components

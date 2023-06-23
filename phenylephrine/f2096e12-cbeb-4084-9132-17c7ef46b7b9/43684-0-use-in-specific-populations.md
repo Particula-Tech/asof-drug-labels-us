@@ -2,20 +2,27 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-Animal reproduction studies have not been conducted with intravenous phenylephrine.
-It is also not known whether phenylephrine can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Phenylephrine hydrochloride should be given to a pregnant woman only if clearly needed.
+In animal reproductive and developmental studies, decreased fetal body weights were noted at 0.4 times the human daily dose (HDD) of 10 mg.
+No malformations were reported, however, an increased incidence of agenesis of the intermediate lobe of the lung, a visceral variation, was reported at levels as low as 0.08 times the HDD.
 
-## 8.2 Labor and Delivery
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-The most common maternal adverse reactions reported in studies of phenylephrine use during neuraxial anesthesia during cesarean delivery include nausea and vomiting, which are commonly associated with hypotension, bradycardia, reactive hypertension, and transient arrhythmias.
-Phenylephrine does not appear to cause a decrease in placental perfusion sufficient to alter either the neonate Apgar scores or blood-gas status.
+Data
 
-## 8.3 Nursing Mothers
+Animal Data
 
-It is not known whether this drug is excreted in human milk.
+No malformations were noted when normotensive pregnant rats were treated with a single daily intravenous bolus dose of 50 mcg, 150 mcg, or 300/200 mcg/kg phenylephrine hydrochloride from Gestation Day 6 to 17 (high dose is 0.3/0.2 times the human daily dose (HDD) of 10 mg/day based on body surface area).
+Evidence of maternal toxicity, including mortality, was noted at the highest tested dose of 300/200 mcg/kg.
+
+Decreased fetal body weights but no clear treatment-related malformations were reported when normotensive pregnant rabbits were treated with a single daily intravenous bolus dose of 40 mcg, 100 mcg and 200 mcg/kg (0.08, 0.2, and 0.4 times the HDD based on body surface area) phenylephrine hydrochloride from Gestation Day 7 to 19.
+Maternal toxicity, as manifested by decreased food consumption and body weight gain at all doses.
+An increased incidence of agenesis of the intermediate lobe of the lung, a visceral variation, was noted in all treatment groups compared to controls.
+
+No adverse effects on the offspring were reported when pregnant rats were treated via a single daily intravenous bolus dose of up to 200 mcg/day phenylephrine hydrochloride (0.2 times the HDD based on body surface area) from Gestation Day 6 to Lactation Day 20.
 
 ## 8.4 Pediatric Use
 
