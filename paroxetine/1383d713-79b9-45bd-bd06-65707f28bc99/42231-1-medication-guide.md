@@ -1,4 +1,4 @@
-# Medication Guide
+# MEDICATION GUIDE
 
 Paroxetine (pa-ROX-a-teen)
 

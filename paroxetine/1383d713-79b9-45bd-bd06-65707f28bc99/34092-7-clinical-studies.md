@@ -22,7 +22,7 @@ Study 1: Changes in the Daily Frequency and Daily Severity of Moderate to Severe
 | Change from baseline at Week 4 |  |  |  |  |
 | nMedianTreatment Difference*P-value# | 289-4.3-1.2<0.01 | 293-3.1 | 281-0.05-0.05<0.01 | 2890.00 |
 | Change from baseline at Week 12 |  |  |  |  |
-| nMedianTreatment Difference*P-value# | 265-5.9-0.9<0.01 | 274-5.0 | 236-0.06-0.040.17 | 253-0.02 |
+| nMedianTreatment Difference*P-value# | 264-5.9-0.9<0.01 | 274-5.0 | 236-0.06-0.040.17 | 253-0.02 |
 
 MITT population: all consented and randomized subjects with valid baseline daily hot flash diary data who had taken at least 1 dose of study medication and had at least 1 day of on-treatment daily hot flash diary data.
 

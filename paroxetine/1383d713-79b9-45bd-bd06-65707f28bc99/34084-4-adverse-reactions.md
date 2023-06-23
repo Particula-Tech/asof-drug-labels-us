@@ -33,7 +33,7 @@ Table 1 Frequency of Adverse Reactions in the Phase 2 and Phase 3 Trials (≥ 2%
 
 |  | Frequency n (%) |  |
 | --- | --- | --- |
-|  | Paroxetine Capsules (n=635) | Placebo (n=641) |
+|  | Paroxetine Capsules (n = 635) | Placebo (n = 641) |
 | Nervous system disorders |  |  |
 | Headache | 40 (6.3) | 31 (4.8) |
 | General disorders and administration site conditions |  |  |

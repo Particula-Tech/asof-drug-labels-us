@@ -59,7 +59,7 @@ Safety and effectiveness in pediatric patients have not been established; paroxe
 
 Clinical studies of paroxetine capsules did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Elderly patients may have elevated paroxetine plasma concentrations compared to younger patients.
-However, no paroexetine capsules dose adjustment is considered necessary in elderly patients [see Clinical Pharmacology (12.3)].
+However, no paroxetine capsules dose adjustment is considered necessary in elderly patients [see Clinical Pharmacology (12.3)].
 
 SSRIs have been associated with cases of clinically significant hyponatremia in elderly patients, who may be at greater risk for this adverse event [see Warnings and Precautions (5.6)].
 

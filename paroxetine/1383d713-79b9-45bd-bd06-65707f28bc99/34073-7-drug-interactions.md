@@ -13,13 +13,13 @@ Table 2 Effects of Paroxetine on Other Drugs
 | Concomitant Drug Name | Effect of Paroxetine on Other Drugs | Clinical Recommendations |
 | --- | --- | --- |
 | Thioridazine | Increased plasma concentrations of thioridazinePotential QTc prolongation | Concomitant use of thioridazine and paroxetine capsules is contraindicated. |
-| Pimozide | Increased plasma concentrations of pimozide.Potential QTc prolongation | Concomitant use of pimozide and paroxetine capsules in contraindicated. |
+| Pimozide | Increased plasma concentrations of pimozide.Potential QTc prolongation | Concomitant use of pimozide and paroxetine capsules is contraindicated. |
 | Tamoxifen | Reduced plasma concentrations of active tamoxifen metabolite | Consider avoiding concomitant use of tamoxifen and paroxetine capsules. |
 | Tricyclic Antidepressants (TCA) (e.g., Desipramine) | Increased plasma concentrations and elimination half-life | Plasma TCA concentrations may need to be monitored and the dose of TCA may need to be reduced if a TCA is co-administered with paroxetine capsules. Monitor tolerability. |
-| Risperidone | Increased plasma concentration of risperidone | A lower dosage of risperdone may be necessary (see the Full Prescribing Information for risperdone). Monitor tolerability. |
-| Atomoxetine | Increased exposure of atomoxetine | A lower dosage of risperdone may be necessary (see the Full Prescribing Information for risperdone). Monitor tolerability. |
+| Risperidone | Increased plasma concentrations of risperidone | A lower dosage of risperidone may be necessary (see the Full Prescribing Information for risperidone). Monitor tolerability. |
+| Atomoxetine | Increased exposure of atomoxetine | A lower dosage of atomoxetine may be necessary (see Full Prescribing Information for atomoxetine). Monitor tolerability. |
 | Drugs Highly Bound to Plasma Protein (e.g., Warfarin) | Increased free plasma concentrations | The dosage of warfarin may need to be reduced. Monitor tolerability and the International Normalized Ratio. |
-| Digoxin | Decreased plasma concentrations of digoxin | Dosage of digoxin may need to be increased. Monitor digoxin concentration and clinical effect. |
+| Digoxin | Decreased plasma concentrations of digoxin | Dosage of digoxin may need to be increased. Monitor digoxin concentrations and clinical effect. |
 | Theophylline | Increased plasma concentrations of theophylline | Dosage of theophylline may need to be decreased. Monitor theophylline concentrations and tolerability. |
 
 Use caution if co-administering paroxetine capsules with other drugs that are metabolized by CYP2D6, including nortriptyline, amitriptyline, imipramine, desipramine, fluoxetine, phenothiazines, risperidone, and Type 1C antiarrhythmics (e.g., propafenone, flecainide, and encainide).
@@ -36,7 +36,7 @@ Table 3 Effects of Other Drugs on Paroxetine
 | Phenobarbital | Decreased paroxetine exposure | No dose adjustment for paroxetine capsules.Monitor clinical effect of paroxetine capsules. |
 | Phenytoin | Decreased paroxetine exposure |  |
 | Fosamprenavir/Ritonavir | Decreased plasma concentration of paroxetine |  |
-| Cimedtidine | Increased plasma concentration of paroxetine |  |
+| Cimetidine | Increased plasma concentration of paroxetine |  |
 
 Use caution if co-administering paroxetine capsules with other drugs that inhibit CYP2D6 (e.g., quinidine).
 
@@ -64,5 +64,5 @@ The concomitant use of paroxetine capsules with other paroxetine products is not
 Drugs that Interfere with Hemostasis (e.g., NSAIDs, Aspirin, and Warfarin)
 
 Altered anticoagulant effects, including increased bleeding, have been reported when SSRIs are co-administered with NSAIDs, aspirin, and warfarin or other drugs that affect coagulation.
-There may be a pharmacodynamics interaction between paroxetine and warfarin that causes an increased bleeding diathesis despite unaltered prothrombin time.
+There may be a pharmacodynamic interaction between paroxetine and warfarin that causes an increased bleeding diathesis despite unaltered prothrombin time.
 Carefully monitor patients receiving warfarin therapy when paroxetine capsules is initiated or discontinued [see Warnings and Precautions (5.4)].
