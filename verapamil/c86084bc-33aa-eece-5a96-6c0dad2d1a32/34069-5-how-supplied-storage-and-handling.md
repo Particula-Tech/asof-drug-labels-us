@@ -34,6 +34,10 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Call your doctor for medical advice about side effects.
 You may report side effects to Mylan at 1-877-446-3679 (1-877-4-INFO-RX) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Revised: 6/2021 CVERER:RX
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
+
+75080580
+
+Revised: 6/2021 MX:CVERER:R1
