@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215650"
+  ],
+  "inn": "clindamycin",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-189-01",
+    "78206-189-99"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "clindamycin phosphate",
+      "name": "XACIATO"
+    }
+  ],
+  "setid": "0423007f-28fa-4159-bf58-9174626d2347",
+  "source": "dailymed"
+}
