@@ -36,5 +36,5 @@ Instruct patients to take ATORVALIQ only as prescribed.
 If a dose is missed, it should be taken as soon as possible.
 If the dose was missed by more than 12 hours, advise patients not to take the missed dose and resume with the next scheduled dose.
 
-This product’s labeling may have been updated.
+This product’s label may have been updated.
 For the most recent prescribing information, please visit www.atorvaliq.com.

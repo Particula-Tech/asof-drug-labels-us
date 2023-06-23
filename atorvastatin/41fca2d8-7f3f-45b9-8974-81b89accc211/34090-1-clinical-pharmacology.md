@@ -97,7 +97,7 @@ Table 5: Effect of Co-administered Drugs on the Pharmacokinetics of Atorvastatin
 | Itraconazole 200 mg QD, 4 days | 40 mg SD | 3.32 | 1.20 |
 | Letermovir 480 mg QD, 10 days | 20 mg SD | 3.29 | 2.17 |
 | Fosamprenavir 700 mg BID/ritonavir 100 mg BID, 14 days | 10 mg QD for 4 days | 2.53 | 2.84 |
-| Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | 2.30 | 4.04 |
+| Fosamprenavir 1400 mg BID, 14 days | 10 mg QD for 4 days | 2.3 | 4.04 |
 | Nelfinavir 1250 mg BID, 14 days | 10 mg QD for 28 days | 1.74 | 2.22 |
 | Grapefruit Juice, 240 mL QD,Greater increases in AUC (ratio of AUC up to 2.5) and/or Cmax (ratio of Cmax up to 1.71) have been reported with excessive grapefruit consumption (≥ 750 mL-1.2 liters per day). | 40 mg SD | 1.37 | 1.16 |
 | Diltiazem 240 mg QD, 28 days | 40 mg SD | 1.51 | 1.00 |

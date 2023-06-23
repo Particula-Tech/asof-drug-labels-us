@@ -37,4 +37,4 @@ Select Azole Antifungals or Macrolide Antibiotics
 
 - •In patients taking clarithromycin or itraconazole, do not exceed ATORVALIQ 20 mg once daily.
 
-For additional recommendations regarding concomitant use of ATORVALIQ with other anti-viral medications, azole antifungals or macrolide antibiotics, see Drug Interactions (7.1).
+For additional recommendations regarding concomitant use of ATORVALIQ with other anti-viral medications, azole antifungals or macrolide antibiotics, [see Drug Interactions (7.1)].

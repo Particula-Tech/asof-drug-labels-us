@@ -14,7 +14,7 @@ Risk factors for myopathy include age 65 years or greater, uncontrolled hypothyr
 ATORVALIQ exposure may be increased by drug interactions due to inhibition of cytochrome P450 enzyme 3A4 (CYP3A4) and/or transporters (e.g., breast cancer resistant protein [BCRP], organic anion-transporting polypeptide [OATP1B1/OATP1B3] and P-glycoprotein [P-gp]), resulting in an increased risk of myopathy and rhabdomyolysis.
 Concomitant use of cyclosporine, gemfibrozil, tipranavir plus ritonavir, or glecaprevir plus pibrentasvir with ATORVALIQ is not recommended.
 ATORVALIQ dosage modifications are recommended for patients taking certain anti-viral, azole antifungals, or macrolide antibiotic medications [see Dosage and Administration (2.5)].
-Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (>1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir.
+Cases of myopathy/rhabdomyolysis have been reported with atorvastatin co-administered with lipid modifying doses (>1 gram/day) of niacin, fibrates, colchicine, and ledipasvir plus sofosbuvir [see Adverse Reactions (6.1)].
 Consider if the benefit of use of these products outweighs the increased risk of myopathy and rhabdomyolysis [see Drug Interactions (7.1)].
 
 Concomitant intake of large quantities, more than 1.2 liters daily, of grapefruit juice is not recommended in patients taking ATORVALIQ [see Drug Interactions (7.1)].
@@ -28,7 +28,7 @@ Instruct patients to promptly report any unexplained muscle pain, tenderness or 
 
 ## 5.2 Immune-Mediated Necrotizing Myopathy
 
-There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use, including reports of recurrence when the same or a different statin was administered.
+There have been rare reports of immune-mediated necrotizing myopathy (IMNM), an autoimmune myopathy, associated with statin use, including reports of recurrence when the same or different statin was administered.
 IMNM is characterized by proximal muscle weakness and elevated serum creatine kinase that persists despite discontinuation of statin treatment; positive anti-HMG CoA reductase antibody; muscle biopsy showing necrotizing myopathy; and improvement with immunosuppressive agents.
 Additional neuromuscular and serologic testing may be necessary.
 Treatment with immunosuppressive agents may be required.
@@ -36,10 +36,10 @@ Discontinue ATORVALIQ if IMNM is suspected.
 
 ## 5.3 Hepatic Dysfunction
 
-Increases in serum transaminases have been reported with use of ATORVALIQ [see Adverse Reactions (6.1)].
+Increases in serum transaminases have been reported with use of atorvastatin [see Adverse Reactions (6.1)].
 In most cases, these changes appeared soon after initiation, were transient, were not accompanied by symptoms, and resolved or improved on continued therapy or after a brief interruption in therapy.
-Persistent increases to more than three times the ULN in serum transaminases have occurred in approximately 0.7% of patients receiving ATORVALIQ in clinical trials.
-There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including ATORVALIQ.
+Persistent increases to more than three times the ULN in serum transaminases have occurred in approximately 0.7% of patients receiving atorvastatin in clinical trials.
+There have been rare postmarketing reports of fatal and non-fatal hepatic failure in patients taking statins, including atorvastatin.
 
 Patients who consume substantial quantities of alcohol and/or have a history of liver disease may be at increased risk for hepatic injury [see Use in Specific Populations (8.7)].
 
@@ -49,13 +49,13 @@ If serious hepatic injury with clinical symptoms and/or hyperbilirubinemia or ja
 
 ## 5.4 Increases in HbA1c and Fasting Serum Glucose Levels
 
-Increases in HbA1c and fasting serum glucose levels have been reported with statins, including ATORVALIQ.
+Increases in HbA1c and fasting serum glucose levels have been reported with statins, including atorvastatin.
 Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
 
-## 5.5 Increased Risk of Hemorrhagic Stroke in Patients on ATORVALIQ 80 mg with Recent Hemorrhagic Stroke
+## 5.5 Increased Risk of Hemorrhagic Stroke in Patients on Atorvastatin 80 mg with Recent Hemorrhagic Stroke
 
-In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial where 2365 adult patients, without CHD who had a stroke or TIA within the preceding 6 months, were treated with ATORVALIQ 80 mg, a higher incidence of hemorrhagic stroke was seen in the ATORVALIQ 80 mg group compared to placebo (55, 2.3% ATORVALIQ vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168).
+In a post-hoc analysis of the Stroke Prevention by Aggressive Reduction in Cholesterol Levels (SPARCL) trial where 2,365 adult patients, without CHD who had a stroke or TIA within the preceding 6 months, were treated with atorvastatin 80 mg, a higher incidence of hemorrhagic stroke was seen in the atorvastatin 80 mg group compared to placebo (55, 2.3% ATORVALIQ vs. 33, 1.4% placebo; HR: 1.68, 95% CI: 1.09, 2.59; p=0.0168).
 The incidence of fatal hemorrhagic stroke was similar across treatment groups (17 vs. 18 for the atorvastatin and placebo groups, respectively).
-The incidence of non-fatal hemorrhagic stroke was significantly higher in the ATORVALIQ group (38, 1.6%) as compared to the placebo group (16, 0.7%).
-Some baseline characteristics, including hemorrhagic and lacunar stroke on study entry, were associated with a higher incidence of hemorrhagic stroke in the ATORVALIQ group [see Adverse Reactions (6.1)].
+The incidence of non-fatal hemorrhagic stroke was significantly higher in the atorvastatin group (38, 1.6%) as compared to the placebo group (16, 0.7%).
+Some baseline characteristics, including hemorrhagic and lacunar stroke on study entry, were associated with a higher incidence of hemorrhagic stroke in the atorvastatin group [see Adverse Reactions (6.1)].
 Consider the risk/benefit of use of ATORVALIQ 80 mg in patients with recent hemorrhagic stroke.

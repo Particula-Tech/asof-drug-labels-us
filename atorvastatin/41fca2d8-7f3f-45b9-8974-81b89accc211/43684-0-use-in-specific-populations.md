@@ -52,8 +52,7 @@ However, it has been shown that another drug in this class passes into human mil
 Studies in rats have shown that atorvastatin and/or its metabolites are present in the breast milk of lactating rats.
 When a drug is present in animal milk, it is likely that the drug will be present in human milk (see Data).
 Statins, including ATORVALIQ, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
-
-Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with ATORVALIQ [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
+Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with ATORVALIQ [see Use in Specific Populations (8.1), and Clinical Pharmacology (12.1)].
 
 ### Data
 
@@ -63,11 +62,11 @@ Atorvastatin and/or its metabolites were measured in the breast milk and pup pla
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of ATORVALIQ as an adjunct to diet to reduce LDL-C have been established pediatric patients 10 years of age and older with HeFH.
-Use of ATORVALIQ for this indication is based on a double-blind, placebo-controlled clinical trial in 187 pediatric patients 10 years of age and older with HeFH.
+Use of ATORVALIQ for this indication is based on a double-blind, placebo-controlled clinical trial of atorvastatin in 187 pediatric patients 10 years of age and older with HeFH [see Clinical Studies (14)].
 In this limited controlled trial, there was no significant effect on growth or sexual maturation in the boys or girls, or on menstrual cycle length in girls.
 
-The safety and effectiveness of ATORVALIQ as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established pediatric patients 10 years of age and older with HoFH.
-Use of ATORVALIQ for this indication is based on a trial without a concurrent control group in 8 pediatric patients 10 years of age and older with HoFH [see Clinical Studies (14)].
+The safety and effectiveness of ATORVALIQ as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established pediatric patients 10 years of age and older with HoFH..
+Use of ATORVALIQ for this indication is based on a trial of atorvastatin without a concurrent control group in 8 pediatric patients 10 years of age and older with HoFH [see Clinical Studies (14)].
 
 The safety and effectiveness of ATORVALIQ have not been established in pediatric patients younger than 10 years of age with HeFH or HoFH, or in pediatric patients with other types of hyperlipidemia (other than HeFH or HoFH).
 

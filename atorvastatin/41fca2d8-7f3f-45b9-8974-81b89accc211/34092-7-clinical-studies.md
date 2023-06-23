@@ -19,7 +19,7 @@ Atorvastatin also significantly decreased the relative risk for revascularizatio
 Although the reduction of fatal and non-fatal strokes did not reach a pre-defined significance level (p=0.01), a favorable trend was observed with a 26% relative risk reduction (incidences of 1.7% for atorvastatin and 2.3% for placebo).
 There was no significant difference between the treatment groups for death due to cardiovascular causes (p=0.51) or noncardiovascular causes (p=0.17).
 
-In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of atorvastatin on cardiovascular disease (CVD) endpoints was assessed in 2838 subjects (94% White, 2% Black, 2% South Asian, 1% other; 68% male), ages 40-75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≤160 mg/dL and triglycerides (TG) ≤600 mg/dL.
+In the Collaborative Atorvastatin Diabetes Study (CARDS), the effect of atorvastatin on cardiovascular disease (CVD) endpoints was assessed in 2838 subjects (94% White, 2% Black, 2% South Asian, 1% other; 68% male), ages 40-75 with type 2 diabetes based on WHO criteria, without prior history of cardiovascular disease and with LDL ≤160 mg/dL and TG ≤600 mg/dL.
 In addition to diabetes, subjects had 1 or more of the following risk factors: current smoking (23%), hypertension (80%), retinopathy (30%), or microalbuminuria (9%) or macroalbuminuria (3%).
 No subjects on hemodialysis were enrolled in the trial.
 In this multicenter, placebo-controlled, double-blind clinical trial, subjects were randomly allocated to either atorvastatin 10 mg daily (1429) or placebo (1411) in a 1:1 ratio and were followed for a median duration of 3.9 years.
@@ -90,7 +90,7 @@ Therapeutic response is seen within 2 weeks, and maximum response is usually ach
 In two multicenter, placebo-controlled, dose-response trials in patients with hyperlipidemia, atorvastatin given as a single dose over 6 weeks, significantly reduced total-C, LDL-C, apo B, and TG.
 (Pooled results are provided in Table 8.)
 
-Table 8: Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose response trials.
+Table 8: Dose Response in Patients with Primary Hyperlipidemia (Adjusted Mean % Change From Baseline)Results are pooled from 2 dose-response trials.
 
 | Dose | N | TC | LDL‑C | Apo B | TG | HDL‑C |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -142,7 +142,7 @@ Dysbetalipoproteinemia in Adults
 
 The results of an open-label crossover trial of 16 patients (genotypes: 14 apo E2/E2 and 2 apo E3/E2) with dysbetalipoproteinemia are shown in the table below (Table 11).
 
-Table 11: Open-Label Crossover Trial of 16 Patients with Dysbetalipoproteinemia (Fredrickson Type III)
+Table 11: Open-Label Crossover Trial of 16 Patients with Dysbetalipoproteinemia
 
 |  |  | Median % Change (min, max) |  |
 | --- | --- | --- | --- |

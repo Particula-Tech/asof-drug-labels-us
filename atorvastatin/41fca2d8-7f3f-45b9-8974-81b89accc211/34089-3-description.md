@@ -9,4 +9,4 @@ Its structural formula is:
 Atorvastatin calcium is a white to off-white crystalline powder that is insoluble in aqueous solutions of pH 4 and below.
 Atorvastatin calcium is very slightly soluble in distilled water, pH 7.4 phosphate buffer, and acetonitrile; slightly soluble in ethanol; and freely soluble in methanol.
 
-ATORVALIQ oral suspension contains 20 mg/5 mL (4 mg/mL) of atorvastatin and the following inactive ingredients: caroboxymethylcellulose sodium, magnesium aluminum silicate, methylparaben, ethylparaben, propylparaben, sucralose, acesulfame potassium, orange flavor, water.
+ATORVALIQ oral suspension contains 20 mg/5 mL of atorvastatin and the following inactive ingredients: caroboxymethylcellulose sodium, magnesium aluminum silicate, methylparaben, ethylparaben, propylparaben, sucralose, acesulfame potassium, orange flavor, water.
