@@ -12,26 +12,36 @@ VALTREX
 
 Rx only
 
+GSK
+
 Equivalent to 556.2 mg valacyclovir hydrochloride per tablet.
 
 See prescribing information for dosage information.
 
+Keep out of reach of children.
+
 Store at 15o to 25oC (59o to 77oF).
 
-Do not use if printed safety seal under cap is broken or missing.
+Dispense in a well-closed container as defined in the USP.
+
+Do not accept if membrane seal under cap is missing or broken.
 
 Distributed by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-3/20
+Trademarks are owned by or licensed to the GSK group companies.
 
-62000000047535
+©2023 GSK group of companies or its licensor.
+
+Rev.
+3/23
+
+62000000082733
 
 PRINCIPAL DISPLAY PANEL
 
@@ -47,23 +57,32 @@ VALTREX
 
 Rx only
 
+GSK
+
 Equivalent to 1.112 grams valacyclovir hydrochloride per tablet.
 
 See prescribing information for dosage information.
 
-Store at 15o to 25oC (59o to 77oF).
+Keep out of reach of children.
 
-Do not use if printed safety seal under cap is broken or missing.
+Store at 15o to 25oC (59o to 77oF).
+Dispense in a well-closed container as defined in the USP.
+
+Do not accept if membrane seal under cap is missing or broken.
 
 Distributed by:
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
+Durham, NC 27701
 
 Made in India
 
-Rev.
-3/20
+Trademarks are owned by or licensed to the GSK group companies.
 
-62000000047530
+©2023 GSK group of companies or its licensor.
+
+Rev.
+3/23
+
+62000000082730
