@@ -70,7 +70,7 @@ Cyanosis secondary to methemoglobinemia has been reported rarely.
 Miscellaneous
 
 As with other antimicrobial agents, superinfections caused by resistant organisms, e.g., Pseudomonas species or Candida species, can occur.
-There are sporadic reports of Clostridium difficile superinfections, or pseudomembranous colitis, with the use of nitrofurantoin.
+There are sporadic reports of Clostridioides difficile superinfections, or pseudomembranous colitis, with the use of nitrofurantoin.
 
 Laboratory Adverse Events
 
