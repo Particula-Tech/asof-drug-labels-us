@@ -8,7 +8,7 @@ Lacosamide Tablets, USP
 
 50 mg
 
-PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+Pharmacist: Dispense the Medication Guide provided separately to each patient
 
 Rx Only 60 Tablets
 
@@ -24,7 +24,7 @@ Lacosamide Tablets, USP
 
 100 mg
 
-PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+Pharmacist: Dispense the Medication Guide provided separately to each patient
 
 Rx Only 60 Tablets
 
@@ -40,7 +40,7 @@ Lacosamide Tablets, USP
 
 150 mg
 
-PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+Pharmacist: Dispense the Medication Guide provided separately to each patient
 
 Rx Only 60 Tablets
 
@@ -56,7 +56,7 @@ Lacosamide Tablets, USP
 
 200 mg
 
-PHARMACIST: DISPENSE WITH THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT
+Pharmacist: Dispense the Medication Guide provided separately to each patient
 
 Rx Only 60 Tablets
 

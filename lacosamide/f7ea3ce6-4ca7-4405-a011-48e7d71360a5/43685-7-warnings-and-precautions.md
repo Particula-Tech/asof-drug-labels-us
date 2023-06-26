@@ -16,9 +16,9 @@ The risk of suicidal thoughts or behavior was generally consistent among drugs i
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 
-Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1000 Patients | Drug Patients with Events Per 1000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1000 Patients |
 | --- | --- | --- | --- | --- |
@@ -36,10 +36,11 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 ## 5.2 Dizziness and Ataxia
 
 Lacosamide may cause dizziness and ataxia in adult and pediatric patients.
-In adult patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide tablets (compared with 8% of placebo patients) and was the adverse event most frequently leading to discontinuation (3%).
+In adult patients with partial-onset seizures taking 1 to 3 concomitant AEDs, dizziness was experienced by 25% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide tablets (compared with 8% of placebo patients) and was the adverse reaction most frequently leading to discontinuation (3%).
 Ataxia was experienced by 6% of patients randomized to the recommended doses (200 to 400 mg/day) of lacosamide tablets (compared to 2% of placebo patients).
 The onset of dizziness and ataxia was most commonly observed during titration.
-There was a substantial increase in these adverse events at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
+There was a substantial increase in these adverse reactions at doses higher than 400 mg/day [see Adverse Reactions (6.1)].
+If a loading dose is clinically indicated, administer with medical supervision because of the possibility of increased incidence of adverse reactions, including CNS adverse reactions such as dizziness and ataxia.
 
 ## 5.3 Cardiac Rhythm and Conduction Abnormalities
 
@@ -53,6 +54,7 @@ When lacosamide is given with other drugs that prolong the PR interval, further 
 In the postmarketing setting, there have been reports of cardiac arrhythmias in patients treated with lacosamide, including bradycardia, AV block, and ventricular tachyarrhythmia, which have rarely resulted in asystole, cardiac arrest, and death.
 Most, although not all, cases have occurred in patients with underlying proarrhythmic conditions, or in those taking concomitant medications that affect cardiac conduction or prolong the PR interval.
 These events have occurred with both oral and intravenous routes of administration and at prescribed doses as well as in the setting of overdose [see Overdosage (10)].
+In all patients for whom a loading dose is clinically indicated, administer the loading dose with medical supervision because of the possibility of increased incidence of adverse reactions, including cardiovascular adverse reactions.
 
 Lacosamide tablets should be used with caution in patients with underlying proarrhythmic conditions such as known cardiac conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), severe cardiac disease (such as myocardial ischemia or heart failure, or structural heart disease), and cardiac sodium channelopathies (e.g., Brugada Syndrome).
 Lacosamide should also be used with caution in patients on concomitant medications that affect cardiac conduction, including sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers, and medications that prolong the PR interval [see Drug Interactions (7.2)].

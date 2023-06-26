@@ -14,7 +14,7 @@ However, doses above 400 mg/day do not appear to confer additional benefit in gr
 Cardiac Electrophysiology
 
 Electrocardiographic effects of lacosamide were determined in a double-blind, randomized clinical pharmacology trial of 247 healthy subjects.
-Chronic oral doses of 400 and 800 mg/day were compared with placebo and a positive control (400 mg moxifloxacin).
+Chronic oral doses of 400 and 800 mg/day (equal to and two times the maximum daily recommended dose, respectively) were compared with placebo and a positive control (400 mg moxifloxacin).
 Lacosamide did not prolong QTc interval and did not have a dose-related or clinically important effect on QRS duration.
 Lacosamide produced a small, dose-related increase in mean PR interval.
 At steady-state, the time of the maximum observed mean PR interval corresponded with tmax.
@@ -27,7 +27,7 @@ The pharmacokinetics of lacosamide have been studied in healthy adult subjects (
 The pharmacokinetics of lacosamide are similar in healthy subjects, patients with partial-onset seizures, and patients with primary generalized tonic-clonic seizures.
 
 Lacosamide is completely absorbed after oral administration with negligible first-pass effect with a high absolute bioavailability of approximately 100%.
-The maximum lacosamide plasma concentrations occur approximately 1 to 4 hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
+The maximum lacosamide plasma concentrations occur approximately 1-to-4-hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
 Pharmacokinetics of lacosamide are dose proportional (100-800 mg) and time invariant, with low inter- and intra-subject variability.
 Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer Tmax (0.5 to 12 hours) and elimination half-life (15-23 hours).
@@ -74,13 +74,13 @@ Lacosamide and its major metabolite are eliminated from the systemic circulation
 
 The AUC of lacosamide was increased approximately 25% in mildly (CLCR 50-80 mL/min) and moderately (CLCR 30-50 mL/min) and 60% in severely (CLCR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80 mL/min), whereas Cmax was unaffected.
 Lacosamide is effectively removed from plasma by hemodialysis.
-Following a 4-hour hemodialysis treatment, AUC of lacosamide is reduced by approximately 50% [see Dosage and Administration (2.3)].
+Following a 4-hour hemodialysis treatment, AUC of lacosamide is reduced by approximately 50% [see Dosage and Administration (2.4)].
 
 Hepatic Impairment
 
 Lacosamide undergoes metabolism.
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50-60% higher AUC compared to healthy subjects).
-The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.4)].
+The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.5)].
 
 Pediatric Patients (4 to less than 17 Years of Age)
 

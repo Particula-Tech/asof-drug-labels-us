@@ -2,6 +2,8 @@
 
 Lacosamide (la-KOE-sa-mide) film coated tablet, for oral use, CV
 
+Dispense with Medication Guide available at: www.bpirx.com/products/patientinformation
+
 Read this Medication Guide before you start taking lacosamide tablets and each time you get a refill.
 There may be new information.
 This Medication Guide describes important safety information about lacosamide tablets.
@@ -152,4 +154,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Trademarks are the property of their respective owners.
 
-Revised: 10/2022
+Revised: 5/2023
