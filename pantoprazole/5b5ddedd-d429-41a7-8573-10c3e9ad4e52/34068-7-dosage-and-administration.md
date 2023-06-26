@@ -107,9 +107,9 @@ Do not freeze the reconstituted solution.
 
 ## 2.5 Compatibility Information
 
-- Administer PROTONIX I.V. intravenously through a dedicated line or through a Y-site.
-- Flush the intravenous line before and after administration of PROTONIX I.V. with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
-- When administered through a Y-site, PROTONIX I.V. is compatible with the following solutions: 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
-- Midazolam HCl has been shown to be incompatible with Y-site administration of PROTONIX I.V.
-- PROTONIX I.V. may not be compatible with products containing zinc [see Warnings and Precautions (5.3)].
-- When PROTONIX I.V. is administered through a Y-site, immediately stop use if precipitation or discoloration occurs.
+- •Administer PROTONIX I.V. intravenously through a dedicated line or through a Y-site.
+- •Flush the intravenous line before and after administration of PROTONIX I.V. with either 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
+- •When administered through a Y-site, PROTONIX I.V. is compatible with the following solutions: 5% Dextrose Injection, USP, 0.9% Sodium Chloride Injection, USP, or Lactated Ringer's Injection, USP.
+- •Midazolam HCl has been shown to be incompatible with Y-site administration of PROTONIX I.V.
+- •PROTONIX I.V. may not be compatible with products containing zinc [see Warnings and Precautions (5.3)].
+- •When PROTONIX I.V. is administered through a Y-site, immediately stop use if precipitation or discoloration occurs.

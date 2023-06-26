@@ -18,10 +18,10 @@ Caution should be used when other EDTA containing products are also co-administe
 
 ## 5.4 Acute Tubulointerstitial Nephritis
 
-Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
-Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
-In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
-Discontinue PROTONIX I.V. and evaluate patients with suspected acute TIN [see Contraindications (4)].
+1. Acute tubulointerstitial nephritis (TIN) has been observed in patients taking PPIs and may occur at any point during PPI therapy.
+   Patients may present with varying signs and symptoms from symptomatic hypersensitivity reactions to non-specific symptoms of decreased renal function (e.g., malaise, nausea, anorexia).
+   In reported case series, some patients were diagnosed on biopsy and in the absence of extra-renal manifestations (e.g., fever, rash or arthralgia).
+   Discontinue PROTONIX I.V. and evaluate patients with suspected acute TIN [see Contraindications (4)].
 
 ## 5.5 Clostridium difficile-Associated Diarrhea
 
@@ -73,7 +73,7 @@ Serious adverse events include tetany, arrhythmias, and seizures.
 Hypomagnesemia may lead to hypocalcemia and/or hypokalemia and may exacerbate underlying hypocalcemia in at-risk patients.
 In most patients, treatment of hypomagnesemia required magnesium replacement and discontinuation of the PPI.
 
-For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
+1. For patients expected to be on prolonged treatment or who take PPIs with medications such as digoxin or drugs that may cause hypomagnesemia (e.g., diuretics), health care professionals may consider monitoring magnesium levels prior to initiation of PPI treatment and periodically [see Adverse Reactions (6.2)].
 
 Consider monitoring magnesium and calcium levels prior to initiation of PROTONIX I.V. and periodically while on treatment in patients with a preexisting risk of hypocalcemia (e.g., hypoparathyroidism).
 Supplement with magnesium and/or calcium as necessary.
