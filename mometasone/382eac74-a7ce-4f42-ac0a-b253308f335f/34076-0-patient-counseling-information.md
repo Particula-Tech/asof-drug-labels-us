@@ -41,6 +41,12 @@ Potential Drug Interactions
 
 Patients should be advised to be cautious if RYALTRIS is co-administered with ketoconazole or other known strong CYP3A4 inhibitors (e.g., ritonavir, cobicistat-containing products, atazanavir, clarithromycin, indinavir, itraconazole, nefazodone, nelfinavir, saquinavir, telithromycin) [see Drug Interactions (7.2)].
 
+Manufactured by:
+
+Glenmark Pharmaceuticals Limited
+
+Aurangabad, Maharashtra 431154, India
+
 Distributed by:
 
 Hikma Specialty USA Inc.
@@ -49,6 +55,6 @@ Columbus, OH 43228
 
 RYALTRIS and the RYALTRIS logo are trademarks of Glenmark Specialty SA
 
-Revised: January 2022
+Revised: April 2022
 
 PN 141197

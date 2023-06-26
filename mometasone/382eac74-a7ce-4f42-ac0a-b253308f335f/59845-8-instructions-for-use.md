@@ -90,7 +90,7 @@ Repeat Steps 6 through 8 with 2 sprays in the other nostril.
 - •Do not blow your nose for at least 15 minutes after using RYALTRIS, to make sure that you receive all of the medicine.
 - •Do not tip your head back.
   This will keep the medicine from going into your throat.
-  Step 11.
+- NaNStep 11.
   Wipe the spray pump tip with a clean dry tissue or cloth.
   (See Figure H)
 
@@ -148,11 +148,19 @@ Even though the bottle may not be completely empty, you may not get the correct 
 
 Keep RYALTRIS and all medicines out of the reach of children.
 
+Manufactured by:
+
+Glenmark Pharmaceuticals Limited
+
+Aurangabad, Maharashtra 431154, India
+
 Distributed by:
 
-Hikma Specialty USA Inc. Columbus, OH 43228
+Hikma Specialty USA Inc.
+
+Columbus, OH 43228
 
 RYALTRIS and the RYALTRIS logo are trademarks of Glenmark Specialty SA
 
 1. This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-   January/2022
+   April 2022
