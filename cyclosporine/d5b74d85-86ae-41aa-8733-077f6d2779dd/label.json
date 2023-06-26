@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA217469"
+  ],
+  "inn": "cyclosporine",
+  "labeler": "Novaliq GmbH",
+  "package_ndcs": [
+    "83339-002-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION/ DROPS",
+      "generic": "cyclosporine ophthalmic solution",
+      "name": "VEVYE"
+    }
+  ],
+  "setid": "d5b74d85-86ae-41aa-8733-077f6d2779dd",
+  "source": "dailymed"
+}
