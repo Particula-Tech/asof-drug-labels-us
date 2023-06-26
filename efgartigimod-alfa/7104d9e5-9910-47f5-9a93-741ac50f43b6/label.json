@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761304"
+  ],
+  "inn": "efgartigimod-alfa",
+  "labeler": "argenx US",
+  "package_ndcs": [
+    "73475-3102-3"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "efgartigimod alfa and hyaluronidase (human recombinant)",
+      "name": "VYVGART Hytrulo"
+    }
+  ],
+  "setid": "7104d9e5-9910-47f5-9a93-741ac50f43b6",
+  "source": "dailymed"
+}
