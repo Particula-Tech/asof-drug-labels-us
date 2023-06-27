@@ -1,10 +1,6 @@
 # MEDICATION GUIDE
 
-TEGRETOL® and TEGRETOL®-XR (Teg-ret-ol)
-
-(carbamazepine)
-
-Tablets, Suspension, Chewable Tablets, Extended-Release Tablets
+TEGRETOL® and TEGRETOL®-XR (Teg-ret-ol) (carbamazepine) Tablets, Suspension, Chewable Tablets, Extended-Release Tablets
 
 Read this Medication Guide before you start taking Tegretol or Tegretol–XR (TEGRETOL) and each time you get a refill.
 There may be new information.
@@ -200,7 +196,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store TEGRETOL?
 
-- Do not store TEGRETOL Tablets above 30°C (86°F).
+- Store TEGRETOL Tablets at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F).
   - Keep TEGRETOL Tablets dry.
 - Do not store TEGRETOL Chewable Tablets above 30°C (86°F).
   - Keep TEGRETOL Chewable Tablets out of the light.
@@ -233,7 +229,7 @@ Active ingredient: carbamazepine
 Inactive ingredients:
 
 - TEGRETOL Tablets: colloidal silicon dioxide, D&C Red No. 30 Aluminum Lake (chewable tablets only), FD&C Red No. 40 (200 mg tablets only), flavoring (chewable tablets only), gelatin, glycerin, magnesium stearate, sodium starch glycolate (chewable tablets only), starch, stearic acid, and sucrose (chewable tablets only).
-- TEGRETOL Suspension: Citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol, purified water, sorbitol, sucrose, and xanthan gum.
+- TEGRETOL Suspension: citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol, purified water, sorbitol, sucrose, and xanthan gum.
 - TEGRETOL-XR Tablets: cellulose compounds, dextrates, iron oxides, magnesium stearate, mannitol, polyethylene glycol, sodium lauryl sulfate, titanium dioxide (200 mg tablets only).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -242,4 +238,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2020-33 March 2020
+T2023-33 June 2023

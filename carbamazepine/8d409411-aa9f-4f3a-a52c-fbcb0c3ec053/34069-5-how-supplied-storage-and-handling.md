@@ -21,22 +21,23 @@ Bottles of 100..................................................................
 
 Bottles of 60...............................................................................................................................NDC 0078-0509-20
 
-Do not store above 30°C (86°F).
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F).
+[See USP Controlled Room Temperature].
 Protect from moisture.
 
 Dispense in tight container (USP).
 
 Meets USP Dissolution Test 2.
 
-XR Tablets 100 mg - round, yellow, coated (imprinted T on one side and 100 mg on the other), release portal on one side
+XR Tablets 100 mg - round, yellow, coated (imprinted “T” on one side and 100 mg on the other), release portal on one side
 
 Bottles of 100.............................................................................................................................NDC 0078-0510-05
 
-XR Tablets 200 mg - round, pink, coated (imprinted T on one side and 200 mg on the other), release portal on one side
+XR Tablets 200 mg - round, pink, coated (imprinted “T” on one side and 200 mg on the other), release portal on one side
 
 Bottles of 100.............................................................................................................................NDC 0078-0511-05
 
-XR Tablets 400 mg - round, brown, coated (imprinted T on one side and 400 mg on the other), release portal on one side
+XR Tablets 400 mg - round, brown, coated (imprinted “T” on one side and 400 mg on the other), release portal on one side
 
 Bottles of 100.............................................................................................................................NDC 0078-0512-05
 
@@ -56,4 +57,4 @@ Dispense in tight, light-resistant container (USP).
 
 *Thorazine® is a registered trademark of GlaxoSmithKline.
 
-T2020-32 March 2020
+T2023-32 June 2023
