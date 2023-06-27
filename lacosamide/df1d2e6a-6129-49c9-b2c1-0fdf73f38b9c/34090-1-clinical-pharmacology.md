@@ -14,7 +14,7 @@ However, doses above 400 mg/day do not appear to confer additional benefit in gr
 Cardiac Electrophysiology
 
 Electrocardiographic effects of lacosamide were determined in a double-blind, randomized clinical pharmacology trial of 247 healthy subjects.
-Chronic oral doses of 400 and 800 mg/day were compared with placebo and a positive control (400 mg moxifloxacin).
+Chronic oral doses of 400 and 800 mg/day (equal to and two times the maximum daily recommended dose, respectively) were compared with placebo and a positive control (400 mg moxifloxacin).
 Lacosamide did not prolong QTc interval and did not have a dose-related or clinically important effect on QRS duration.
 Lacosamide produced a small, dose-related increase in mean PR interval.
 At steady-state, the time of the maximum observed mean PR interval corresponded with tmax.
@@ -27,7 +27,7 @@ The pharmacokinetics of lacosamide have been studied in healthy adult subjects (
 The pharmacokinetics of lacosamide are similar in healthy subjects, patients with partial-onset seizures, and patients with primary generalized tonic-clonic seizures.
 
 Lacosamide is completely absorbed after oral administration with negligible first-pass effect with a high absolute bioavailability of approximately 100%.
-The maximum lacosamide plasma concentrations occur approximately 1 to 4 hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
+The maximum lacosamide plasma concentrations occur approximately 1-to-4-hour post-dose after oral dosing, and elimination half-life is approximately 13 hours.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
 Pharmacokinetics of lacosamide are dose proportional (100 to 800 mg) and time invariant, with low inter- and intra-subject variability.
 Compared to lacosamide the major metabolite, O-desmethyl metabolite, has a longer Tmax (0.5 to 12 hours) and elimination half-life (15 to 23 hours).
@@ -73,13 +73,13 @@ Renal Impairment
 - Lacosamide and its major metabolite are eliminated from the systemic circulation primarily by renal excretion.
 - The AUC of lacosamide was increased approximately 25% in mildly (CLCR 50 to 80 mL/min) and moderately (CLCR 30 to 50 mL/min) and 60% in severely (CLCR≤30 mL/min) renally impaired patients compared to subjects with normal renal function (CLCR>80 mL/min), whereas Cmax was unaffected.
   Lacosamide is effectively removed from plasma by hemodialysis.
-  Following a 4-hour hemodialysis treatment, AUC of lacosamide is reduced by approximately 50% [see Dosage and Administration (2.3)].
+  Following a 4-hour hemodialysis treatment, AUC of lacosamide is reduced by approximately 50% [see Dosage and Administration (2.4)].
 
 Hepatic Impairment
 
 - Lacosamide undergoes metabolism.
   Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50 to 60% higher AUC compared to healthy subjects).
-  The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.4)].
+  The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.5)].
 
 Pediatric Patients (4 to less than 17 Years of Age)
 
@@ -115,40 +115,39 @@ In Vitro Assessment of Drug Interactions
 
 - In vitro metabolism studies indicate that lacosamide does not induce the enzyme activity of drug metabolizing cytochrome P450 isoforms CYP1A2, 2B6, 2C9, 2C19 and 3A4.
   Lacosamide did not inhibit CYP 1A1, 1A2, 2A6, 2B6, 2C8, 2C9, 2D6, 2E1, 3A4/5 at plasma concentrations observed in clinical studies.
-
-1. In vitro data suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
-   However, an in vivo study with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
-2. Lacosamide was not a substrate or inhibitor for P-glycoprotein.
-3. Lacosamide is a substrate of CYP3A4, CYP2C9, and CYP2C19.
-   Patients with renal or hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have increased exposure to lacosamide.
-4. Since <15% of lacosamide is bound to plasma proteins, a clinically relevant interaction with other drugs through competition for protein binding sites is unlikely.
+- In vitro data suggest that lacosamide has the potential to inhibit CYP2C19 at therapeutic concentrations.
+  However, an in vivo study with omeprazole did not show an inhibitory effect on omeprazole pharmacokinetics.
+- Lacosamide was not a substrate or inhibitor for P-glycoprotein.
+- Lacosamide is a substrate of CYP3A4, CYP2C9, and CYP2C19.
+  Patients with renal or hepatic impairment who are taking strong inhibitors of CYP3A4 and CYP2C9 may have increased exposure to lacosamide.
+- Since <15% of lacosamide is bound to plasma proteins, a clinically relevant interaction with other drugs through competition for protein binding sites is unlikely.
 
 In Vivo Assessment of Drug Interactions
 
 - •Drug interaction studies with AEDs
-- oEffect of lacosamide on concomitant AEDs
+- •Effect of lacosamide on concomitant AEDs
 - Lacosamide 400 mg/day had no influence on the pharmacokinetics of 600 mg/day valproic acid and 400 mg/day carbamazepine in healthy subjects.
 - The placebo-controlled clinical studies in patients with partial-onset seizures showed that steady-state plasma concentrations of levetiracetam, carbamazepine, carbamazepine epoxide, lamotrigine, topiramate, oxcarbazepine monohydroxy derivative (MHD), phenytoin, valproic acid, phenobarbital, gabapentin, clonazepam, and zonisamide were not affected by concomitant intake of lacosamide at any dose.
-- oEffect of concomitant AEDs on lacosamide
+- •Effect of concomitant AEDs on lacosamide
 - Drug-drug interaction studies in healthy subjects showed that 600 mg/day valproic acid had no influence on the pharmacokinetics of 400 mg/day lacosamide.
   Likewise, 400 mg/day carbamazepine had no influence on the pharmacokinetics of lacosamide in a healthy subject study.
   Population pharmacokinetics results in patients with partial-onset seizures showed small reductions (15% to 20% lower) in lacosamide plasma concentrations when lacosamide was coadministered with carbamazepine, phenobarbital or phenytoin.
 - •Drug-drug interaction studies with other drugs
-- oDigoxin
+- •Digoxin
 - There was no effect of lacosamide (400 mg/day) on the pharmacokinetics of digoxin (0.5 mg once daily) in a study in healthy subjects.
-- oMetformin
+- •Metformin
 - There were no clinically relevant changes in metformin levels following coadministration of lacosamide (400 mg/day).
 - Metformin (500 mg three times a day) had no effect on the pharmacokinetics of lacosamide (400 mg/day).
-- oOmeprazole
+- •Omeprazole
 - Omeprazole is a CYP2C19 substrate and inhibitor.
 - There was no effect of lacosamide (600 mg/day) on the pharmacokinetics of omeprazole (40 mg single dose) in healthy subjects.
   The data indicated that lacosamide had little in vivo inhibitory or inducing effect on CYP2C19.
 - Omeprazole at a dose of 40 mg once daily had no effect on the pharmacokinetics of lacosamide (300 mg single dose).
   However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
-- oMidazolam
+- •Midazolam
 - Midazolam is a 3A4 substrate.
 - There was no effect of lacosamide (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
-- oOral Contraceptives
+- •Oral Contraceptives
 - There was no influence of lacosamide (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol Cmax was observed.
-- oWarfarin
+- •Warfarin
 - Co-administration of lacosamide (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.

@@ -76,13 +76,13 @@ Before you take lacosamide tablets, tell your healthcare provider about all of y
   It is not known if lacosamide tablets can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking lacosamide tablets.
   You and your healthcare provider will decide if you should take lacosamide tablets while you are pregnant.
-- oIf you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+- •If you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 - •are breastfeeding or plan to breastfeed. lacosamide passes into breast milk.
-- oBreastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
+- •Breastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
   If this happens, contact your baby’s healthcare provider.
-- oTalk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
+- •Talk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -117,11 +117,11 @@ Lacosamide tablets may cause other serious side effects including:
 - •A serious allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
   Call your healthcare provider right away if you have:
 
-| oa skin rash, hives | oswelling of the legs |
+| •a skin rash, hives | •swelling of the legs |
 | --- | --- |
-| ofever or swollen glands that do not go away | oyellowing of the skin or whites of the eyes |
-| oshortness of breath | odark urine |
-| otiredness (fatigue) |  |
+| •fever or swollen glands that do not go away | •yellowing of the skin or whites of the eyes |
+| •shortness of breath | •dark urine |
+| •tiredness (fatigue) |  |
 
 The most common side effects of lacosamide tablets include:
 
@@ -194,4 +194,4 @@ www.glenmarkpharma-us.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-November 2022
+June 2023
