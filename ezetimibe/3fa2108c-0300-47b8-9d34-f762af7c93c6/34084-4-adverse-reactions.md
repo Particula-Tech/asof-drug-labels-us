@@ -122,3 +122,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 The following additional adverse reactions have been reported in postmarketing experience for ezetimibe:
 
 Hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria; erythema multiforme; myalgia; elevated creatine phosphokinase; myopathy/rhabdomyolysis; elevations in liver transaminases; hepatitis; abdominal pain; thrombocytopenia; pancreatitis; nausea; dizziness; paresthesia; depression; headache; cholelithiasis; cholecystitis.
+
+The following additional adverse reactions have been reported in postmarketing experience for bempedoic acid:
+
+Hypersensitivity: angioedema, wheezing, rash, and urticaria.
