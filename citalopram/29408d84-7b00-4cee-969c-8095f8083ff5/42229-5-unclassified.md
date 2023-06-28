@@ -22,4 +22,4 @@ The possibility that DCT, a principal metabolite in humans, may prolong the QT i
 
 Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Berkeley Heights, NJ 07922 C50000426/01 Revised June 2021
+Berkeley Heights, NJ 07922 C50000426/02 Revised June 2023
